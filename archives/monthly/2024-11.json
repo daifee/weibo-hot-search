@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731443852071,
+  "endTime": 1731446445189,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -34659,6 +34659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37655,
+      "num": 37655,
+      "word": "珠海航展女工作人员扛导弹",
+      "onboard_time": 1731441013,
+      "rank": 8,
+      "category": "军事"
+    },
+    {
       "raw_hot": 37619,
       "num": 37619,
       "word": "最正的黑莲花味",
@@ -34961,14 +34969,6 @@
       "onboard_time": 1730650398,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35259,
-      "num": 35259,
-      "word": "珠海航展女工作人员扛导弹",
-      "onboard_time": 1731441013,
-      "rank": 8,
-      "category": "军事"
     },
     {
       "raw_hot": 35079,
@@ -37923,6 +37923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18755,
+      "num": 18755,
+      "word": "洗浴中心回应男子洗浴时死亡",
+      "onboard_time": 1731444790,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18741,
       "num": 384769,
       "word": "媒体评拼盘演唱会被喊退票",
@@ -38337,6 +38345,14 @@
       "onboard_time": 1731095530,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16307,
+      "num": 16307,
+      "word": "微念李子柒商标均被判无效",
+      "onboard_time": 1731443711,
+      "rank": 49,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 16291,
@@ -38827,6 +38843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13546,
+      "num": 34545,
+      "word": "2025年放假日历来了",
+      "onboard_time": 1731442630,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13488,
       "num": 36598,
       "word": "民警帮村民圆梦寻回父母生前照片",
@@ -39011,7 +39035,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12107,
+      "raw_hot": 12153,
       "num": 14618,
       "word": "微博年度百大荣耀粉丝评选",
       "onboard_time": 1731434712,
@@ -39024,14 +39048,6 @@
       "word": "规划绿地疑似改建停车场",
       "onboard_time": 1730701099,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11985,
-      "num": 34545,
-      "word": "2025年放假日历来了",
-      "onboard_time": 1731442630,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -39049,14 +39065,6 @@
       "onboard_time": 1730873246,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11825,
-      "num": 14609,
-      "word": "微念李子柒商标均被判无效",
-      "onboard_time": 1731443711,
-      "rank": 49,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 11777,
@@ -39089,6 +39097,14 @@
       "onboard_time": 1730705720,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11498,
+      "num": 22960,
+      "word": "军事专家详解珠海航展亮点",
+      "onboard_time": 1731444371,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 11385,
@@ -39161,6 +39177,14 @@
       "onboard_time": 1730495771,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10145,
+      "num": 21307,
+      "word": "初冬的美好与浪漫迎面而来",
+      "onboard_time": 1731444251,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10132,

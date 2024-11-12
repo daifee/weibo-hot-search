@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731443852071,
+  "endTime": 1731446445189,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37655,
+      "num": 37655,
+      "word": "珠海航展女工作人员扛导弹",
+      "onboard_time": 1731441013,
+      "rank": 8,
+      "category": "军事"
+    },
+    {
       "raw_hot": 36846,
       "num": 34112,
       "word": "两个上海人就应该生出我这个",
@@ -489,14 +497,6 @@
       "onboard_time": 1731432793,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35259,
-      "num": 35259,
-      "word": "珠海航展女工作人员扛导弹",
-      "onboard_time": 1731441013,
-      "rank": 8,
-      "category": "军事"
     },
     {
       "raw_hot": 32558,
@@ -539,12 +539,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 18755,
+      "num": 18755,
+      "word": "洗浴中心回应男子洗浴时死亡",
+      "onboard_time": 1731444790,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16769,
       "num": 64491,
       "word": "三部门部署抓牢幼儿园和小学近视防控",
       "onboard_time": 1731432314,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16307,
+      "num": 16307,
+      "word": "微念李子柒商标均被判无效",
+      "onboard_time": 1731443711,
+      "rank": 49,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 16278,
@@ -560,6 +576,14 @@
       "word": "4000多年前古人在这里仰望星空",
       "onboard_time": 1731431714,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13546,
+      "num": 34545,
+      "word": "2025年放假日历来了",
+      "onboard_time": 1731442630,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -579,7 +603,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12107,
+      "raw_hot": 12153,
       "num": 14618,
       "word": "微博年度百大荣耀粉丝评选",
       "onboard_time": 1731434712,
@@ -587,20 +611,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 11985,
-      "num": 34545,
-      "word": "2025年放假日历来了",
-      "onboard_time": 1731442630,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 11498,
+      "num": 22960,
+      "word": "军事专家详解珠海航展亮点",
+      "onboard_time": 1731444371,
+      "rank": 20,
+      "category": "军事"
     },
     {
-      "raw_hot": 11825,
-      "num": 14609,
-      "word": "微念李子柒商标均被判无效",
-      "onboard_time": 1731443711,
-      "rank": 49,
-      "category": "美食,网红"
+      "raw_hot": 10145,
+      "num": 21307,
+      "word": "初冬的美好与浪漫迎面而来",
+      "onboard_time": 1731444251,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10080,
