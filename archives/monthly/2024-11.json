@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731422396891,
+  "endTime": 1731424990208,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1451,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1541569,
+      "num": 331014,
+      "word": "特朗普在堕胎权上的立场备受争议",
+      "onboard_time": 1731421643,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1527363,
       "num": 599080,
       "word": "王一栩我要打死你",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1730957239,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1031062,
+      "num": 262604,
+      "word": "女子促排备孕怀上9胞胎",
+      "onboard_time": 1731422964,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030075,
@@ -7907,6 +7923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472576,
+      "num": 472576,
+      "word": "双高胎 抢票",
+      "onboard_time": 1731420504,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 472511,
       "num": 382428,
       "word": "伊能静回应艺人都去卖货了",
@@ -8705,14 +8729,6 @@
       "onboard_time": 1730610139,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 432298,
-      "num": 331014,
-      "word": "特朗普在堕胎权上的立场备受争议",
-      "onboard_time": 1731421643,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 431949,
@@ -10193,14 +10209,6 @@
       "onboard_time": 1730797880,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361373,
-      "num": 361373,
-      "word": "双高胎 抢票",
-      "onboard_time": 1731420504,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 361296,
@@ -12819,6 +12827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272883,
+      "num": 272883,
+      "word": "小巷人家 气人",
+      "onboard_time": 1731424222,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272747,
       "num": 391713,
       "word": "大侦探团综 群像",
@@ -13241,6 +13257,14 @@
       "onboard_time": 1730507238,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262501,
+      "num": 262501,
+      "word": "意大利总统收到中国月壤开心写在脸上",
+      "onboard_time": 1731423264,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 262464,
@@ -14539,6 +14563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233322,
+      "num": 233322,
+      "word": "杭州宝马",
+      "onboard_time": 1731424282,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232955,
       "num": 232955,
       "word": "这届美国大选有多少戏",
@@ -15515,6 +15547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215047,
+      "num": 215047,
+      "word": "李子柒新视频外网评论",
+      "onboard_time": 1731423563,
+      "rank": 32,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 214967,
       "num": 214967,
       "word": "世界之外",
@@ -15712,6 +15752,14 @@
       "word": "恋人全组都在看赵露思珠帘玉幕",
       "onboard_time": 1731063020,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212301,
+      "num": 228834,
+      "word": "珠帘玉幕微博开分8.3",
+      "onboard_time": 1731423863,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -17745,6 +17793,14 @@
       "onboard_time": 1730991503,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195391,
+      "num": 195391,
+      "word": "深潜",
+      "onboard_time": 1731423743,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 195298,
@@ -20171,6 +20227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174642,
+      "num": 174642,
+      "word": "全红婵跳APT",
+      "onboard_time": 1731423264,
+      "rank": 39,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 174619,
       "num": 174619,
       "word": "中国空军回应新装备何时亮相",
@@ -20857,6 +20921,14 @@
       "onboard_time": 1730851641,
       "rank": 34,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 169162,
+      "num": 169162,
+      "word": "代号鸢小乔",
+      "onboard_time": 1731423323,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 169122,
@@ -23555,6 +23627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149330,
+      "num": 149330,
+      "word": "王安宇把林栋哲破防的心声说出来了",
+      "onboard_time": 1731424702,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149245,
       "num": 149245,
       "word": "姚景元情侣vlog",
@@ -23617,6 +23697,14 @@
       "onboard_time": 1730709618,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148735,
+      "num": 462440,
+      "word": "李子柒大漆视频微博观看量破亿了",
+      "onboard_time": 1731423803,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 148619,
@@ -24777,6 +24865,14 @@
       "onboard_time": 1731283939,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 139971,
+      "num": 139971,
+      "word": "女子闯红灯被撞反问交警车主无责吗",
+      "onboard_time": 1731424762,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139892,
@@ -30363,6 +30459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84230,
+      "num": 496673,
+      "word": "比亚迪华为联合发布豹8上市",
+      "onboard_time": 1731420444,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84201,
       "num": 84201,
       "word": "曼联1比1切尔西",
@@ -32425,14 +32529,6 @@
       "onboard_time": 1731209298,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56174,
-      "num": 496673,
-      "word": "比亚迪华为联合发布豹8上市",
-      "onboard_time": 1731420444,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 56139,
@@ -34595,6 +34691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36751,
+      "num": 229197,
+      "word": "世纪女神朱珠",
+      "onboard_time": 1731422123,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36727,
       "num": 68751,
       "word": "需要排号才能进的理发店咋这么火",
@@ -34961,6 +35065,14 @@
       "onboard_time": 1731364993,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 34248,
+      "num": 261550,
+      "word": "欧豪 武侠风",
+      "onboard_time": 1731422484,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34237,
@@ -37033,14 +37145,6 @@
       "onboard_time": 1730745552,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21989,
-      "num": 154630,
-      "word": "世纪女神朱珠",
-      "onboard_time": 1731422123,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 21925,
