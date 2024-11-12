@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731388885445,
+  "endTime": 1731389931147,
   "band_list": [
     {
       "raw_hot": 2258741,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1050089,
+      "num": 1168014,
+      "word": "上海交大恭喜庄筱婷林栋哲入学",
+      "onboard_time": 1731386002,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 987677,
       "num": 987677,
       "word": "肖战首专",
       "onboard_time": 1731377899,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 910814,
-      "num": 1145730,
-      "word": "上海交大恭喜庄筱婷林栋哲入学",
-      "onboard_time": 1731386002,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 876094,
@@ -121,6 +121,14 @@
       "onboard_time": 1731383961,
       "rank": 6,
       "category": "美食,综艺"
+    },
+    {
+      "raw_hot": 715768,
+      "num": 657845,
+      "word": "永夜星河插曲疑似借鉴三寸天堂",
+      "onboard_time": 1731385882,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 710854,
@@ -153,14 +161,6 @@
       "onboard_time": 1731380299,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 657845,
-      "num": 657845,
-      "word": "永夜星河插曲疑似借鉴三寸天堂",
-      "onboard_time": 1731385882,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 648140,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 474253,
-      "num": 287425,
+      "num": 340444,
       "word": "家人回应女子月薪4千贷款1400万买房",
       "onboard_time": 1731386421,
       "rank": 21,
@@ -331,12 +331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367642,
+      "num": 367642,
+      "word": "永夜星河 双穿",
+      "onboard_time": 1731389059,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366311,
       "num": 853679,
       "word": "三星堆一团皱皱金箔展开后飞出小鸟",
       "onboard_time": 1731342917,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359614,
+      "num": 359614,
+      "word": "丁禹兮变脸",
+      "onboard_time": 1731387260,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 358238,
@@ -361,14 +377,6 @@
       "onboard_time": 1731369198,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345189,
-      "num": 345189,
-      "word": "丁禹兮变脸",
-      "onboard_time": 1731387260,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 343698,
@@ -417,6 +425,14 @@
       "onboard_time": 1731369618,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 332415,
+      "num": 332415,
+      "word": "青海被殴身亡便利店老板亲属发声",
+      "onboard_time": 1731387921,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329197,
@@ -475,12 +491,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282514,
-      "num": 282514,
+      "raw_hot": 284398,
+      "num": 284398,
       "word": "救援队回应15岁早恋男孩已溺亡",
       "onboard_time": 1731387021,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281228,
+      "num": 316619,
+      "word": "炎亚纶称飞轮海不会再合体",
+      "onboard_time": 1731388582,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276704,
+      "num": 276704,
+      "word": "孕妈生产时太用力致面部毛细血管破裂",
+      "onboard_time": 1731387202,
+      "rank": 31,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 276131,
@@ -611,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230129,
-      "num": 230129,
-      "word": "孕妈生产时太用力致面部毛细血管破裂",
-      "onboard_time": 1731387202,
-      "rank": 31,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 229667,
       "num": 229667,
       "word": "林虞爸爸 妙妙子期都是谁啊",
@@ -635,12 +659,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 221217,
-      "num": 221217,
-      "word": "青海被殴身亡便利店老板亲属发声",
-      "onboard_time": 1731387921,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 219792,
+      "num": 219792,
+      "word": "点外卖忘记了东北食物的分量",
+      "onboard_time": 1731389122,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 216901,
@@ -675,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207695,
+      "num": 354342,
+      "word": "庄图南开窍了",
+      "onboard_time": 1731389240,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207654,
       "num": 140422,
       "word": "六问大专学历女干部被提拔副科",
@@ -689,6 +721,14 @@
       "onboard_time": 1731327500,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 205730,
+      "num": 205730,
+      "word": "李马克发长文道歉",
+      "onboard_time": 1731389601,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 205675,
@@ -747,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192410,
+      "num": 192410,
+      "word": "永夜星河 群像的魅力",
+      "onboard_time": 1731389779,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190076,
       "num": 356754,
       "word": "为何金价连续大跳水",
@@ -777,6 +825,14 @@
       "onboard_time": 1731329959,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184003,
+      "num": 184003,
+      "word": "肖战新歌榜霸榜前五",
+      "onboard_time": 1731389898,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 183764,
@@ -819,12 +875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178332,
+      "num": 369054,
+      "word": "严艺丹回应永夜星河bgm争议",
+      "onboard_time": 1731387381,
+      "rank": 9,
+      "category": "剧集,音乐"
+    },
+    {
       "raw_hot": 177630,
       "num": 177630,
       "word": "永夜星河这周就完结了",
       "onboard_time": 1731369378,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175989,
+      "num": 175989,
+      "word": "恋与深空",
+      "onboard_time": 1731389719,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 175372,
@@ -923,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162379,
+      "num": 162379,
+      "word": "KPL",
+      "onboard_time": 1731389840,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161885,
       "num": 161885,
       "word": "端阳帝姬人设",
       "onboard_time": 1731388519,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161503,
+      "num": 366971,
+      "word": "歼35A开加力出现马赫环",
+      "onboard_time": 1731387682,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 158381,
@@ -1025,6 +1113,14 @@
       "onboard_time": 1731378799,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136676,
+      "num": 215143,
+      "word": "C909和C919在珠海航展同框",
+      "onboard_time": 1731388940,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 133119,
@@ -1163,14 +1259,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 110880,
-      "num": 316619,
-      "word": "炎亚纶称飞轮海不会再合体",
-      "onboard_time": 1731388582,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108246,
       "num": 108246,
       "word": "王艺迪世界排名上升至第3",
@@ -1187,20 +1275,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 105621,
-      "num": 341814,
-      "word": "歼35A开加力出现马赫环",
-      "onboard_time": 1731387682,
-      "rank": 18,
-      "category": "军事"
-    },
-    {
       "raw_hot": 104510,
       "num": 104510,
       "word": "邻居的小猫天天来找猫咪玩",
       "onboard_time": 1731381679,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103968,
+      "num": 155423,
+      "word": "曝苏宁多门店强制店员垫钱刷单",
+      "onboard_time": 1731389659,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102751,
@@ -1323,6 +1411,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 79995,
+      "num": 358279,
+      "word": "金炳万涉嫌家暴",
+      "onboard_time": 1731389779,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78856,
       "num": 78856,
       "word": "Excel装修风",
@@ -1337,14 +1433,6 @@
       "onboard_time": 1731332900,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 76243,
-      "num": 369054,
-      "word": "严艺丹回应永夜星河bgm争议",
-      "onboard_time": 1731387381,
-      "rank": 9,
-      "category": "剧集,音乐"
     },
     {
       "raw_hot": 75609,
@@ -1539,6 +1627,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46104,
+      "num": 349958,
+      "word": "太阳星辰全是港剧熟脸",
+      "onboard_time": 1731389240,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44897,
       "num": 60876,
       "word": "晓华回应同行质疑",
@@ -1672,6 +1768,22 @@
       "word": "起猛了以为新疆沙漠有动物园",
       "onboard_time": 1731348793,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24756,
+      "num": 366309,
+      "word": "你在工作中会付出情绪劳动吗",
+      "onboard_time": 1731389659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21886,
+      "num": 345895,
+      "word": "表达情绪对男性来说有多难",
+      "onboard_time": 1731389898,
+      "rank": 19,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731388885445,
+  "endTime": 1731389931147,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1050089,
+      "num": 1168014,
+      "word": "上海交大恭喜庄筱婷林栋哲入学",
+      "onboard_time": 1731386002,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1047236,
       "num": 1167557,
       "word": "丁俊晖国际锦标赛夺冠",
@@ -568,14 +576,6 @@
       "word": "小侯爷人真好",
       "onboard_time": 1731238099,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 910814,
-      "num": 1145730,
-      "word": "上海交大恭喜庄筱婷林栋哲入学",
-      "onboard_time": 1731386002,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -843,6 +843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 715768,
+      "num": 657845,
+      "word": "永夜星河插曲疑似借鉴三寸天堂",
+      "onboard_time": 1731385882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 715182,
       "num": 916946,
       "word": "相伴20年男子竟杀了相亲对象在逃",
@@ -929,14 +937,6 @@
       "onboard_time": 1731221780,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657845,
-      "num": 657845,
-      "word": "永夜星河插曲疑似借鉴三寸天堂",
-      "onboard_time": 1731385882,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 655766,
@@ -1460,7 +1460,7 @@
     },
     {
       "raw_hot": 474253,
-      "num": 287425,
+      "num": 340444,
       "word": "家人回应女子月薪4千贷款1400万买房",
       "onboard_time": 1731386421,
       "rank": 21,
@@ -1875,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367642,
+      "num": 367642,
+      "word": "永夜星河 双穿",
+      "onboard_time": 1731389059,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366866,
       "num": 366866,
       "word": "珠帘玉幕置顶赵露思刘宇宁营业视频",
@@ -1947,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359614,
+      "num": 359614,
+      "word": "丁禹兮变脸",
+      "onboard_time": 1731387260,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358238,
       "num": 358238,
       "word": "赵又廷 跪早了",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1731180792,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 345189,
-      "num": 345189,
-      "word": "丁禹兮变脸",
-      "onboard_time": 1731387260,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 345004,
@@ -2121,6 +2129,14 @@
       "onboard_time": 1731252020,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 332415,
+      "num": 332415,
+      "word": "青海被殴身亡便利店老板亲属发声",
+      "onboard_time": 1731387921,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331644,
@@ -2403,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284398,
+      "num": 284398,
+      "word": "救援队回应15岁早恋男孩已溺亡",
+      "onboard_time": 1731387021,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282674,
       "num": 282674,
       "word": "芒果男艺人上你好星期六被泼成熏鸡",
@@ -2411,12 +2435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282514,
-      "num": 282514,
-      "word": "救援队回应15岁早恋男孩已溺亡",
-      "onboard_time": 1731387021,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 281228,
+      "num": 316619,
+      "word": "炎亚纶称飞轮海不会再合体",
+      "onboard_time": 1731388582,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 280500,
@@ -2441,6 +2465,14 @@
       "onboard_time": 1731250940,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276704,
+      "num": 276704,
+      "word": "孕妈生产时太用力致面部毛细血管破裂",
+      "onboard_time": 1731387202,
+      "rank": 31,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 276324,
@@ -2931,14 +2963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230129,
-      "num": 230129,
-      "word": "孕妈生产时太用力致面部毛细血管破裂",
-      "onboard_time": 1731387202,
-      "rank": 31,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 230092,
       "num": 219978,
       "word": "虞书欣丁禹兮双人古风写真已安排",
@@ -3067,12 +3091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221217,
-      "num": 221217,
-      "word": "青海被殴身亡便利店老板亲属发声",
-      "onboard_time": 1731387921,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 219792,
+      "num": 219792,
+      "word": "点外卖忘记了东北食物的分量",
+      "onboard_time": 1731389122,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 219098,
@@ -3299,6 +3323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207695,
+      "num": 354342,
+      "word": "庄图南开窍了",
+      "onboard_time": 1731389240,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207563,
       "num": 207563,
       "word": "郑钦文 抢七",
@@ -3329,6 +3361,14 @@
       "onboard_time": 1731207918,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205730,
+      "num": 205730,
+      "word": "李马克发长文道歉",
+      "onboard_time": 1731389601,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 205675,
@@ -3715,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192410,
+      "num": 192410,
+      "word": "永夜星河 群像的魅力",
+      "onboard_time": 1731389779,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192384,
       "num": 192384,
       "word": "种地吧",
@@ -3880,6 +3928,14 @@
       "word": "ENHYPEN新歌not in",
       "onboard_time": 1731322758,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 184003,
+      "num": 184003,
+      "word": "肖战新歌榜霸榜前五",
+      "onboard_time": 1731389898,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -4083,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178332,
+      "num": 369054,
+      "word": "严艺丹回应永夜星河bgm争议",
+      "onboard_time": 1731387381,
+      "rank": 9,
+      "category": "剧集,音乐"
+    },
+    {
       "raw_hot": 178004,
       "num": 200084,
       "word": "美国队长4正式预告",
@@ -4169,6 +4233,14 @@
       "onboard_time": 1731215478,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175989,
+      "num": 175989,
+      "word": "恋与深空",
+      "onboard_time": 1731389719,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 175372,
@@ -4587,6 +4659,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 162379,
+      "num": 162379,
+      "word": "KPL",
+      "onboard_time": 1731249860,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162127,
       "num": 162127,
       "word": "比起牺牲更希望父母有自己的人生",
@@ -4633,6 +4713,14 @@
       "onboard_time": 1731329299,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161503,
+      "num": 366971,
+      "word": "歼35A开加力出现马赫环",
+      "onboard_time": 1731387682,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 161254,
@@ -5403,6 +5491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136676,
+      "num": 215143,
+      "word": "C909和C919在珠海航展同框",
+      "onboard_time": 1731388940,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 136590,
       "num": 136590,
       "word": "永夜星河拍摄期凌妙妙上班图",
@@ -6027,14 +6123,6 @@
       "category": "国外时政,国内时政"
     },
     {
-      "raw_hot": 110880,
-      "num": 316619,
-      "word": "炎亚纶称飞轮海不会再合体",
-      "onboard_time": 1731388582,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109372,
       "num": 109372,
       "word": "郑钦文商业价值或赶超巅峰李娜",
@@ -6155,14 +6243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105621,
-      "num": 341814,
-      "word": "歼35A开加力出现马赫环",
-      "onboard_time": 1731387682,
-      "rank": 18,
-      "category": "军事"
-    },
-    {
       "raw_hot": 105496,
       "num": 105496,
       "word": "小巷人家预告好甜",
@@ -6193,6 +6273,14 @@
       "onboard_time": 1731294020,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103968,
+      "num": 155423,
+      "word": "曝苏宁多门店强制店员垫钱刷单",
+      "onboard_time": 1731389659,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103920,
@@ -6587,6 +6675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79995,
+      "num": 358279,
+      "word": "金炳万涉嫌家暴",
+      "onboard_time": 1731389779,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79858,
       "num": 182156,
       "word": "老头杯S2训练赛",
@@ -6633,14 +6729,6 @@
       "onboard_time": 1731232819,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76243,
-      "num": 369054,
-      "word": "严艺丹回应永夜星河bgm争议",
-      "onboard_time": 1731387381,
-      "rank": 9,
-      "category": "剧集,音乐"
     },
     {
       "raw_hot": 76016,
@@ -7355,6 +7443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46104,
+      "num": 349958,
+      "word": "太阳星辰全是港剧熟脸",
+      "onboard_time": 1731389240,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45182,
       "num": 487128,
       "word": "你有没有为噗噗拼过命",
@@ -7971,6 +8067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24756,
+      "num": 366309,
+      "word": "你在工作中会付出情绪劳动吗",
+      "onboard_time": 1731389659,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24583,
       "num": 37654,
       "word": "这是我们的黄岩岛",
@@ -8081,6 +8185,14 @@
       "onboard_time": 1731328880,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 21886,
+      "num": 345895,
+      "word": "表达情绪对男性来说有多难",
+      "onboard_time": 1731389898,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21799,
@@ -8329,14 +8441,6 @@
       "onboard_time": 1731312619,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16795,
-      "num": 17064,
-      "word": "KPL",
-      "onboard_time": 1731249860,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 16363,
