@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731418786998,
+  "endTime": 1731421264762,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2317085,
+      "num": 2317085,
+      "word": "李子柒停更原因",
+      "onboard_time": 1731405863,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2258741,
       "num": 453550,
       "word": "难听",
@@ -89,14 +97,6 @@
       "onboard_time": 1731374299,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1934951,
-      "num": 1934951,
-      "word": "李子柒停更原因",
-      "onboard_time": 1731405863,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 1823223,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1005839,
+      "num": 1005839,
+      "word": "中国月壤给了意大利总统一点点震撼",
+      "onboard_time": 1731419004,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 987677,
       "num": 987677,
       "word": "肖战首专",
@@ -353,6 +361,14 @@
       "onboard_time": 1731403225,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732336,
+      "num": 732336,
+      "word": "微念称李子柒品牌产品都由其经营",
+      "onboard_time": 1731415942,
+      "rank": 32,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 729063,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516874,
+      "num": 734820,
+      "word": "五月天 林俊杰",
+      "onboard_time": 1731417563,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 510455,
       "num": 510455,
       "word": "张艺兴成毅要不认识一下吧",
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451121,
-      "num": 440162,
-      "word": "微念称李子柒品牌产品都由其经营",
-      "onboard_time": 1731415942,
-      "rank": 32,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 448841,
       "num": 448841,
       "word": "李子柒 森林衣帽间",
@@ -673,14 +689,6 @@
       "onboard_time": 1731393858,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413814,
-      "num": 413814,
-      "word": "五月天 林俊杰",
-      "onboard_time": 1731417563,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 409630,
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364385,
+      "num": 802968,
+      "word": "严惩驾车撞人者守护生命安全",
+      "onboard_time": 1731416904,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359614,
       "num": 359614,
       "word": "丁禹兮变脸",
@@ -939,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326372,
+      "num": 326372,
+      "word": "存钱存着存着就开始做假账了",
+      "onboard_time": 1731416843,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320304,
       "num": 320304,
       "word": "虞书欣更新TikTok",
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 289328,
-      "num": 289328,
+      "num": 734382,
       "word": "女子买高仿炫耀是正品被戳穿",
       "onboard_time": 1731403285,
       "rank": 49,
@@ -1179,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258826,
+      "num": 352259,
+      "word": "周洁琼说吴姗姗再也不憋屈了",
+      "onboard_time": 1731417083,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257476,
       "num": 257476,
       "word": "官方再次回应万安县95后女干部提拔副科",
@@ -1192,6 +1224,14 @@
       "word": "凌妙妙忘记自己穿书了",
       "onboard_time": 1731368357,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 256201,
+      "num": 256201,
+      "word": "你们上海人就是要互相娶互相嫁的",
+      "onboard_time": 1731415582,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1299,28 +1339,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 234735,
-      "num": 234735,
-      "word": "你们上海人就是要互相娶互相嫁的",
-      "onboard_time": 1731415582,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 233112,
-      "num": 233112,
-      "word": "存钱存着存着就开始做假账了",
-      "onboard_time": 1731416843,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229667,
       "num": 229667,
       "word": "林虞爸爸 妙妙子期都是谁啊",
       "onboard_time": 1731333199,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227905,
+      "num": 271652,
+      "word": "双高胎 抢票",
+      "onboard_time": 1731420504,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 227776,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1731385821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216320,
+      "num": 216320,
+      "word": "李子柒粉丝过亿",
+      "onboard_time": 1731418224,
+      "rank": 45,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 215331,
@@ -1595,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191126,
-      "num": 352259,
-      "word": "周洁琼说吴姗姗再也不憋屈了",
-      "onboard_time": 1731417083,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190848,
       "num": 300796,
       "word": "朱珠新剧短发造型",
@@ -1633,6 +1665,22 @@
       "onboard_time": 1731385101,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189078,
+      "num": 189078,
+      "word": "95后女干部提拔副科不能选择性公示",
+      "onboard_time": 1731415103,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188478,
+      "num": 188478,
+      "word": "珠海航展惊现中国版变形金刚",
+      "onboard_time": 1731420923,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 188127,
@@ -1819,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172273,
-      "num": 172273,
-      "word": "95后女干部提拔副科不能选择性公示",
-      "onboard_time": 1731415103,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171557,
       "num": 171557,
       "word": "沙特富豪珠海航展争当榜一大哥",
@@ -1899,14 +1939,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 164416,
-      "num": 802968,
-      "word": "严惩驾车撞人者守护生命安全",
-      "onboard_time": 1731416904,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163236,
       "num": 163236,
       "word": "永夜星河 屁股印",
@@ -1921,14 +1953,6 @@
       "onboard_time": 1731389840,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162307,
-      "num": 162307,
-      "word": "李子柒粉丝过亿",
-      "onboard_time": 1731418224,
-      "rank": 45,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 161885,
@@ -2059,6 +2083,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 148530,
+      "num": 148530,
+      "word": "迪丽热巴手拿板栗路透",
+      "onboard_time": 1731419604,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148167,
       "num": 357982,
       "word": "珠海航展看得我热血沸腾",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1731386901,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147401,
+      "num": 147401,
+      "word": "丁禹兮原声",
+      "onboard_time": 1731419364,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 146958,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1731325698,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143362,
+      "num": 149803,
+      "word": "黄玲怼人从来不打低端局",
+      "onboard_time": 1731419904,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 141400,
@@ -2899,6 +2947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56174,
+      "num": 496673,
+      "word": "比亚迪华为联合发布豹8上市",
+      "onboard_time": 1731420444,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55275,
       "num": 55275,
       "word": "王源将录制你好星期六",
@@ -3075,6 +3131,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 38221,
+      "num": 148590,
+      "word": "中国航展超清飞机拉花表演",
+      "onboard_time": 1731419904,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 37779,
       "num": 289984,
       "word": "学校停电4天千余小学生摸黑上课",
@@ -3161,6 +3225,14 @@
       "onboard_time": 1731403705,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33458,
+      "num": 265001,
+      "word": "林栋哲庄筱婷 纯爱",
+      "onboard_time": 1731421104,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 33438,
@@ -3267,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27412,
+      "num": 157466,
+      "word": "武磊退出本期国家队",
+      "onboard_time": 1731419963,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27349,
       "num": 346796,
       "word": "为一座博物馆奔赴澳门",
@@ -3337,6 +3417,14 @@
       "onboard_time": 1731389659,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24728,
+      "num": 224371,
+      "word": "什么是天工和九章",
+      "onboard_time": 1731419303,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 24296,
