@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/12 19:18:53
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/12 19:35:46
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%9B%85%E7%90%BC%E8%A2%AB%E6%B1%82%E5%A9%9A%E4%BA%86%23" target="weibo">
 黄雅琼被求婚了（热度：30034757）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B435%E6%AD%BB%23" target="weibo">
+珠海一男子驾车撞人致35死（热度：29571263）
 </a>
 </li>
 
@@ -197,12 +203,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A54.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 合肥4.7级地震（热度：20479993）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B435%E6%AD%BB%23" target="weibo">
-珠海一男子驾车撞人致35死（热度：19897922）
 </a>
 </li>
 

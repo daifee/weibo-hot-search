@@ -1,7 +1,15 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731410333017,
+  "endTime": 1731411346996,
   "band_list": [
+    {
+      "raw_hot": 29571263,
+      "num": 29571263,
+      "word": "珠海一男子驾车撞人致35死",
+      "onboard_time": 1731409644,
+      "rank": 0,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 20525107,
       "num": 20525107,
@@ -9,14 +17,6 @@
       "onboard_time": 1731402322,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19897922,
-      "num": 19897922,
-      "word": "珠海一男子驾车撞人致35死",
-      "onboard_time": 1731409644,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 11100779,
@@ -99,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592372,
+      "num": 1592372,
+      "word": "李子柒停更原因",
+      "onboard_time": 1731405863,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1581953,
+      "num": 706056,
+      "word": "男子被误诊感染HPV10天花光积蓄",
+      "onboard_time": 1731409827,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1500099,
       "num": 416605,
       "word": "马思纯在张若昀婚礼当伴郎的原因",
@@ -113,14 +129,6 @@
       "onboard_time": 1731377118,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1438978,
-      "num": 1438978,
-      "word": "李子柒停更原因",
-      "onboard_time": 1731405863,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 1419475,
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1052848,
+      "num": 1674837,
+      "word": "12位讨厌的明星聚岛上的综艺真来了",
+      "onboard_time": 1731405863,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1050089,
       "num": 1168014,
       "word": "上海交大恭喜庄筱婷林栋哲入学",
       "onboard_time": 1731386002,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 989914,
-      "num": 1674837,
-      "word": "12位讨厌的明星聚岛上的综艺真来了",
-      "onboard_time": 1731405863,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 987677,
@@ -395,14 +403,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 599716,
-      "num": 599716,
-      "word": "男子被误诊感染HPV10天花光积蓄",
-      "onboard_time": 1731409827,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 590658,
       "num": 590658,
       "word": "12岁少女谈小学成绩好的秘密走红",
@@ -427,7 +427,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 529720,
+      "raw_hot": 548456,
       "num": 959744,
       "word": "将门毒后",
       "onboard_time": 1731406042,
@@ -496,6 +496,14 @@
       "word": "歌手2025",
       "onboard_time": 1731378380,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 495889,
+      "num": 607052,
+      "word": "胡彦斌劝蹭流量的别上再见爱人",
+      "onboard_time": 1731409224,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -715,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377599,
-      "num": 607052,
-      "word": "胡彦斌劝蹭流量的别上再见爱人",
-      "onboard_time": 1731409224,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375769,
       "num": 304476,
       "word": "全红婵许昕一家聚会plog",
@@ -753,6 +753,14 @@
       "onboard_time": 1731375978,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 354530,
+      "num": 354530,
+      "word": "假期逢周三不调休",
+      "onboard_time": 1731409283,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352749,
@@ -947,14 +955,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 276994,
-      "num": 276994,
-      "word": "假期逢周三不调休",
-      "onboard_time": 1731409283,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276704,
       "num": 276704,
       "word": "孕妈生产时太用力致面部毛细血管破裂",
@@ -1057,6 +1057,14 @@
       "onboard_time": 1731381499,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260447,
+      "num": 260447,
+      "word": "妇联回应女子生6女为生男孩拼7胎",
+      "onboard_time": 1731407364,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259921,
@@ -1192,14 +1200,6 @@
       "word": "输入5位数验证码被转走同数字的钱",
       "onboard_time": 1731390019,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223117,
-      "num": 223117,
-      "word": "妇联回应女子生6女为生男孩拼7胎",
-      "onboard_time": 1731407364,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171557,
+      "num": 171557,
+      "word": "沙特富豪珠海航展争当榜一大哥",
+      "onboard_time": 1731408024,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 166644,
       "num": 166644,
       "word": "在航展被官方审美硬控",
@@ -1843,8 +1851,16 @@
       "category": "军事"
     },
     {
+      "raw_hot": 148354,
+      "num": 148354,
+      "word": "团队回应李子柒时隔3年更新",
+      "onboard_time": 1731411208,
+      "rank": 49,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 148167,
-      "num": 148167,
+      "num": 357982,
       "word": "珠海航展看得我热血沸腾",
       "onboard_time": 1731404784,
       "rank": 44,
@@ -1921,14 +1937,6 @@
       "onboard_time": 1731376219,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139079,
-      "num": 139079,
-      "word": "沙特富豪珠海航展争当榜一大哥",
-      "onboard_time": 1731408024,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 138620,
@@ -2307,6 +2315,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96928,
+      "num": 293077,
+      "word": "369化身微博王",
+      "onboard_time": 1731410907,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 95887,
+      "num": 930495,
+      "word": "大一就开始卷实习有意义吗",
+      "onboard_time": 1731409405,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95786,
       "num": 97653,
       "word": "疯狂好六夜全员素颜下班",
@@ -2353,6 +2377,14 @@
       "onboard_time": 1731397699,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87526,
+      "num": 288537,
+      "word": "Gemini请Cat军团吃饭",
+      "onboard_time": 1731410670,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 82235,
@@ -2523,12 +2555,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 61605,
-      "num": 930495,
-      "word": "大一就开始卷实习有意义吗",
-      "onboard_time": 1731409405,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 62597,
+      "num": 602830,
+      "word": "鞠婧祎每次上台都会紧张",
+      "onboard_time": 1731410068,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 61482,
@@ -2779,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35384,
-      "num": 602830,
-      "word": "鞠婧祎每次上台都会紧张",
-      "onboard_time": 1731410068,
-      "rank": 17,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 35060,
       "num": 284725,
       "word": "海军陆战队亮相压迫感十足",
@@ -2857,6 +2881,14 @@
       "onboard_time": 1731393258,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 32929,
+      "num": 496962,
+      "word": "为什么7年了还在期待白夜追凶2",
+      "onboard_time": 1731410007,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 32732,
@@ -2955,6 +2987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26327,
+      "num": 610697,
+      "word": "知情人士称李子柒会持续更新",
+      "onboard_time": 1731409586,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25967,
       "num": 347917,
       "word": "120司机结伙产科医生输送婴儿后续",
@@ -3003,28 +3043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24278,
-      "num": 496962,
-      "word": "为什么7年了还在期待白夜追凶2",
-      "onboard_time": 1731410007,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23923,
       "num": 279865,
       "word": "62岁博格丹背个包就来航展上班了",
       "onboard_time": 1731391640,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23484,
-      "num": 610697,
-      "word": "知情人士称李子柒会持续更新",
-      "onboard_time": 1731409586,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 22435,
