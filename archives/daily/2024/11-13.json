@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731451131092,
+  "endTime": 1731453672279,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -11,20 +11,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1391757,
+      "num": 255146,
+      "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
+      "onboard_time": 1731427341,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1173406,
       "num": 1173406,
       "word": "李子柒停更原因",
       "onboard_time": 1731405863,
       "rank": 0,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 931582,
-      "num": 255146,
-      "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
-      "onboard_time": 1731427341,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 740856,
@@ -57,6 +57,14 @@
       "onboard_time": 1731427220,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583821,
+      "num": 133618,
+      "word": "李子柒停更期间拜访了许多非遗传人",
+      "onboard_time": 1731452655,
+      "rank": 11,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 559522,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308028,
+      "num": 308028,
+      "word": "中国月壤给了意大利总统一点点震撼",
+      "onboard_time": 1731419004,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 297182,
       "num": 249065,
       "word": "全国法定节假日将增加",
@@ -137,14 +153,6 @@
       "onboard_time": 1731401000,
       "rank": 8,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 245065,
-      "num": 245065,
-      "word": "中国月壤给了意大利总统一点点震撼",
-      "onboard_time": 1731419004,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 239233,
@@ -171,11 +179,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228693,
+      "num": 136640,
+      "word": "杭州警方通报小型客车连撞多人",
+      "onboard_time": 1731424282,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224307,
       "num": 224307,
       "word": "男子被误诊感染HPV10天花光积蓄",
       "onboard_time": 1731409827,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217739,
+      "num": 179528,
+      "word": "女子闯红灯被撞反问交警车主无责吗",
+      "onboard_time": 1731424762,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204438,
+      "num": 204438,
+      "word": "春节休8天已有乘客下单春节机票",
+      "onboard_time": 1731411986,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -195,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179528,
-      "num": 179528,
-      "word": "女子闯红灯被撞反问交警车主无责吗",
-      "onboard_time": 1731424762,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175839,
       "num": 240130,
       "word": "永夜星河编剧",
@@ -219,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171941,
-      "num": 136640,
-      "word": "杭州警方通报小型客车连撞多人",
-      "onboard_time": 1731424282,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169835,
       "num": 169835,
       "word": "花少7是回归季",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 161427,
-      "num": 128399,
+      "num": 130793,
       "word": "再见爱人 镜头隐喻",
       "onboard_time": 1731427280,
       "rank": 34,
@@ -272,6 +288,22 @@
       "word": "永夜星河",
       "onboard_time": 1731406522,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143533,
+      "num": 143533,
+      "word": "吴姗姗想占宋莹房子",
+      "onboard_time": 1731447550,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124363,
+      "num": 124363,
+      "word": "两个上海人就应该生出我这个",
+      "onboard_time": 1731435373,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88703,
+      "num": 115428,
+      "word": "鞠婧祎超绝表现力",
+      "onboard_time": 1731452716,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 86115,
       "num": 86115,
       "word": "李子柒大漆视频微博观看量破亿了",
@@ -363,8 +403,8 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 85466,
-      "num": 85466,
+      "raw_hot": 85636,
+      "num": 85636,
       "word": "6旬父母想生四胎遭女儿哭诉指责",
       "onboard_time": 1731414922,
       "rank": 45,
@@ -395,6 +435,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74294,
+      "num": 105683,
+      "word": "胡彦斌劝蹭流量的别上再见爱人",
+      "onboard_time": 1731409224,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74196,
+      "num": 74196,
+      "word": "大妈一个月偷肉10次还嘴硬",
+      "onboard_time": 1731432793,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73999,
       "num": 73999,
       "word": "小巷人家",
@@ -403,20 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70528,
-      "num": 70528,
-      "word": "春节休8天已有乘客下单春节机票",
-      "onboard_time": 1731411986,
+      "raw_hot": 71035,
+      "num": 71035,
+      "word": "乡政府回应村民粪堆封路防摩托炸街",
+      "onboard_time": 1731449172,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60871,
-      "num": 60871,
-      "word": "胡彦斌劝蹭流量的别上再见爱人",
-      "onboard_time": 1731409224,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 60958,
+      "num": 60958,
+      "word": "迪丽热巴陈飞宇片场吹泡泡路透",
+      "onboard_time": 1731452415,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 59509,
@@ -424,14 +480,6 @@
       "word": "将门毒后",
       "onboard_time": 1731406042,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 58738,
-      "num": 54695,
-      "word": "两个上海人就应该生出我这个",
-      "onboard_time": 1731435373,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -443,12 +491,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 55595,
-      "num": 55595,
-      "word": "吴姗姗想占宋莹房子",
-      "onboard_time": 1731447550,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 55332,
+      "num": 55332,
+      "word": "微念李子柒商标均被判无效",
+      "onboard_time": 1731443711,
+      "rank": 49,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 54943,
@@ -483,11 +531,19 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 44224,
-      "num": 44224,
-      "word": "大妈一个月偷肉10次还嘴硬",
-      "onboard_time": 1731432793,
-      "rank": 46,
+      "raw_hot": 44663,
+      "num": 44663,
+      "word": "航展首日中国商飞签下130架飞机订单",
+      "onboard_time": 1731452716,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 42276,
+      "num": 44660,
+      "word": "洗浴中心回应男子洗浴时死亡",
+      "onboard_time": 1731444790,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -507,11 +563,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35903,
-      "num": 35903,
-      "word": "洗浴中心回应男子洗浴时死亡",
-      "onboard_time": 1731444790,
-      "rank": 35,
+      "raw_hot": 33374,
+      "num": 135169,
+      "word": "出租车师傅刚要报警女子跳进池塘",
+      "onboard_time": 1731452716,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -521,14 +577,6 @@
       "onboard_time": 1731432974,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 27600,
-      "num": 35901,
-      "word": "微念李子柒商标均被判无效",
-      "onboard_time": 1731443711,
-      "rank": 49,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 23124,
@@ -563,6 +611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 19948,
+      "num": 437339,
+      "word": "七张图带你了解秘鲁",
+      "onboard_time": 1731414744,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16769,
       "num": 64491,
       "word": "三部门部署抓牢幼儿园和小学近视防控",
@@ -595,28 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13979,
-      "num": 24293,
-      "word": "乡政府回应村民粪堆封路防摩托炸街",
-      "onboard_time": 1731449172,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12753,
       "num": 62583,
       "word": "在自家阳台看航展是什么体验",
       "onboard_time": 1731435432,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 12574,
-      "num": 437339,
-      "word": "七张图带你了解秘鲁",
-      "onboard_time": 1731414744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12153,
@@ -665,6 +705,14 @@
       "onboard_time": 1731446591,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8757,
+      "num": 101647,
+      "word": "英磊人间体验录",
+      "onboard_time": 1731452716,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 8118,
