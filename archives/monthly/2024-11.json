@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731424990208,
+  "endTime": 1731425907543,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2876,7 +2876,7 @@
     },
     {
       "raw_hot": 1031062,
-      "num": 262604,
+      "num": 266024,
       "word": "女子促排备孕怀上9胞胎",
       "onboard_time": 1731422964,
       "rank": 21,
@@ -6891,6 +6891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542275,
+      "num": 397660,
+      "word": "杭州宝马",
+      "onboard_time": 1731424282,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541733,
       "num": 525288,
       "word": "特朗普称能很快修复拜登造成的破坏",
@@ -7345,6 +7353,14 @@
       "onboard_time": 1730727620,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 512000,
+      "num": 512000,
+      "word": "小巷人家 气人",
+      "onboard_time": 1731424222,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 511986,
@@ -12827,14 +12843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272883,
-      "num": 272883,
-      "word": "小巷人家 气人",
-      "onboard_time": 1731424222,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272747,
       "num": 391713,
       "word": "大侦探团综 群像",
@@ -13049,6 +13057,14 @@
       "onboard_time": 1730489230,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267568,
+      "num": 267568,
+      "word": "珠帘玉幕微博开分8.3",
+      "onboard_time": 1731423863,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 267136,
@@ -14563,14 +14579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233322,
-      "num": 233322,
-      "word": "杭州宝马",
-      "onboard_time": 1731424282,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232955,
       "num": 232955,
       "word": "这届美国大选有多少戏",
@@ -15395,6 +15403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218031,
+      "num": 218031,
+      "word": "李子柒新视频外网评论",
+      "onboard_time": 1731423563,
+      "rank": 32,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 217689,
       "num": 217689,
       "word": "网上很火但你很反感的梗",
@@ -15531,6 +15547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215310,
+      "num": 462440,
+      "word": "李子柒大漆视频微博观看量破亿了",
+      "onboard_time": 1731423803,
+      "rank": 9,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 215246,
       "num": 215246,
       "word": "普京有意愿与特朗普接触",
@@ -15545,14 +15569,6 @@
       "onboard_time": 1731218840,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215047,
-      "num": 215047,
-      "word": "李子柒新视频外网评论",
-      "onboard_time": 1731423563,
-      "rank": 32,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 214967,
@@ -15752,14 +15768,6 @@
       "word": "恋人全组都在看赵露思珠帘玉幕",
       "onboard_time": 1731063020,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 212301,
-      "num": 228834,
-      "word": "珠帘玉幕微博开分8.3",
-      "onboard_time": 1731423863,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -18827,6 +18835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186935,
+      "num": 186935,
+      "word": "全红婵跳APT",
+      "onboard_time": 1731423264,
+      "rank": 39,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 186920,
       "num": 186920,
       "word": "付航说刘宇宁必成影帝",
@@ -19009,6 +19025,14 @@
       "onboard_time": 1731070520,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185135,
+      "num": 185135,
+      "word": "女子闯红灯被撞反问交警车主无责吗",
+      "onboard_time": 1731424762,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185129,
@@ -20225,14 +20249,6 @@
       "onboard_time": 1730645660,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 174642,
-      "num": 174642,
-      "word": "全红婵跳APT",
-      "onboard_time": 1731423264,
-      "rank": 39,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 174619,
@@ -21963,6 +21979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161251,
+      "num": 161251,
+      "word": "王安宇把林栋哲破防的心声说出来了",
+      "onboard_time": 1731424702,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161226,
       "num": 161226,
       "word": "ZOFGK",
@@ -23627,14 +23651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149330,
-      "num": 149330,
-      "word": "王安宇把林栋哲破防的心声说出来了",
-      "onboard_time": 1731424702,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149245,
       "num": 149245,
       "word": "姚景元情侣vlog",
@@ -23697,14 +23713,6 @@
       "onboard_time": 1730709618,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148735,
-      "num": 462440,
-      "word": "李子柒大漆视频微博观看量破亿了",
-      "onboard_time": 1731423803,
-      "rank": 9,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 148619,
@@ -24865,14 +24873,6 @@
       "onboard_time": 1731283939,
       "rank": 36,
       "category": "军事"
-    },
-    {
-      "raw_hot": 139971,
-      "num": 139971,
-      "word": "女子闯红灯被撞反问交警车主无责吗",
-      "onboard_time": 1731424762,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139892,
@@ -27161,6 +27161,14 @@
       "onboard_time": 1730988504,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122176,
+      "num": 122176,
+      "word": "教育局回应老师质疑家长价值观",
+      "onboard_time": 1731425182,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122100,
@@ -32243,6 +32251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59653,
+      "num": 398925,
+      "word": "无人作战艇科幻变现实",
+      "onboard_time": 1731425422,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 59535,
       "num": 326072,
       "word": "刘诗诗冷感白衬衫",
@@ -33441,6 +33457,14 @@
       "onboard_time": 1730798062,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46939,
+      "num": 229197,
+      "word": "世纪女神朱珠",
+      "onboard_time": 1731422123,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 46920,
@@ -34689,14 +34713,6 @@
       "onboard_time": 1730621358,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36751,
-      "num": 229197,
-      "word": "世纪女神朱珠",
-      "onboard_time": 1731422123,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 36727,
