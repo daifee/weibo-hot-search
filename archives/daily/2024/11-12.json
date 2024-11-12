@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731407017852,
+  "endTime": 1731408087792,
   "band_list": [
     {
       "raw_hot": 20525107,
@@ -19,7 +19,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 5535353,
+      "raw_hot": 7765880,
       "num": 1431171,
       "word": "宋再临去世",
       "onboard_time": 1731406943,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1136216,
+      "num": 496595,
+      "word": "宋再临遗书",
+      "onboard_time": 1731407123,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1124397,
       "num": 403512,
       "word": "仅退款白嫖产业链调查",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 938658,
+      "num": 1674837,
+      "word": "12位讨厌的明星聚岛上的综艺真来了",
+      "onboard_time": 1731405863,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 902782,
       "num": 361403,
       "word": "苏州两人坠河1人被救1人死亡",
@@ -201,6 +217,14 @@
       "onboard_time": 1731403705,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884975,
+      "num": 1712883,
+      "word": "李子柒开始清库存了",
+      "onboard_time": 1731403645,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 876094,
@@ -299,14 +323,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 679165,
-      "num": 1712883,
-      "word": "李子柒开始清库存了",
-      "onboard_time": 1731403645,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 676790,
       "num": 676790,
       "word": "白夜追凶2空降开播消息不实",
@@ -379,14 +395,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 571518,
-      "num": 1674837,
-      "word": "12位讨厌的明星聚岛上的综艺真来了",
-      "onboard_time": 1731405863,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 552736,
       "num": 552736,
       "word": "子期 东方青苍",
@@ -435,12 +443,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 507447,
+      "num": 838529,
+      "word": "将门毒后",
+      "onboard_time": 1731406042,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504172,
       "num": 380262,
       "word": "早恋15岁男孩曾被家长没收电子产品",
       "onboard_time": 1731382579,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503379,
+      "num": 503379,
+      "word": "李子柒停更原因",
+      "onboard_time": 1731405863,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 502044,
@@ -465,14 +489,6 @@
       "onboard_time": 1731377118,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 472423,
-      "num": 472423,
-      "word": "将门毒后",
-      "onboard_time": 1731406042,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 467282,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 457398,
-      "num": 457398,
+      "num": 475208,
       "word": "朋友请听好3回归",
       "onboard_time": 1731405983,
       "rank": 20,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 396387,
-      "num": 396387,
+      "num": 466938,
       "word": "永夜星河买了原版版权",
       "onboard_time": 1731398600,
       "rank": 28,
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338891,
+      "num": 448771,
+      "word": "春节休8天五一休5天",
+      "onboard_time": 1731405921,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338579,
       "num": 338579,
       "word": "炎亚纶称飞轮海不会再合体",
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299194,
+      "num": 464897,
+      "word": "天天向上要回归了",
+      "onboard_time": 1731407364,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294440,
       "num": 294440,
       "word": "伊朗空军司令仔细参观歼10CE",
@@ -873,14 +905,6 @@
       "onboard_time": 1731405443,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 279429,
-      "num": 279429,
-      "word": "春节休8天五一休5天",
-      "onboard_time": 1731405921,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276704,
@@ -1163,12 +1187,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 210178,
+      "num": 210178,
+      "word": "韩国乳业公司将为牛奶瓶申请国家遗产",
+      "onboard_time": 1731404185,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209275,
+      "num": 209275,
+      "word": "向佐想要的是不是欧豪这种感觉",
+      "onboard_time": 1731407003,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 208262,
       "num": 208262,
       "word": "Doinb和LWX训练赛红温",
       "onboard_time": 1731378859,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208160,
+      "num": 266278,
+      "word": "肖战专辑制作阵容",
+      "onboard_time": 1731406762,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 207654,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1731387682,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204301,
-      "num": 204301,
-      "word": "韩国乳业公司将为牛奶瓶申请国家遗产",
-      "onboard_time": 1731404185,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202512,
@@ -1361,14 +1401,6 @@
       "onboard_time": 1731385101,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188038,
-      "num": 188038,
-      "word": "肖战专辑制作阵容",
-      "onboard_time": 1731406762,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 186998,
@@ -1515,12 +1547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174295,
+      "num": 174295,
+      "word": "妇联回应女子生6女为生男孩拼7胎",
+      "onboard_time": 1731407364,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173241,
       "num": 226651,
       "word": "尔滨又有新节目了",
       "onboard_time": 1731377779,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172937,
+      "num": 172937,
+      "word": "白夜追凶欠了多少坑没填",
+      "onboard_time": 1731405502,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 172697,
@@ -1659,14 +1707,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 155447,
-      "num": 155447,
-      "word": "白夜追凶欠了多少坑没填",
-      "onboard_time": 1731405502,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155199,
       "num": 133329,
       "word": "多个商家账号改名为晓华隔壁",
@@ -1720,6 +1760,14 @@
       "word": "珠海航展有自己的双十一",
       "onboard_time": 1731393738,
       "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 148167,
+      "num": 148167,
+      "word": "珠海航展看得我热血沸腾",
+      "onboard_time": 1731404784,
+      "rank": 44,
       "category": "军事"
     },
     {
@@ -1779,14 +1827,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142514,
-      "num": 142514,
-      "word": "珠海航展看得我热血沸腾",
-      "onboard_time": 1731404784,
-      "rank": 44,
-      "category": "军事"
-    },
-    {
       "raw_hot": 141400,
       "num": 141400,
       "word": "林诗栋6270分世排第二",
@@ -1809,6 +1849,14 @@
       "onboard_time": 1731376219,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139079,
+      "num": 139079,
+      "word": "沙特富豪珠海航展争当榜一大哥",
+      "onboard_time": 1731408024,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 138620,
@@ -1849,14 +1897,6 @@
       "onboard_time": 1731394339,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134752,
-      "num": 134752,
-      "word": "向佐想要的是不是欧豪这种感觉",
-      "onboard_time": 1731407003,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134473,
@@ -1921,14 +1961,6 @@
       "onboard_time": 1731369739,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128606,
-      "num": 254153,
-      "word": "李子柒停更原因",
-      "onboard_time": 1731405863,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 128198,
@@ -2459,6 +2491,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 57553,
+      "num": 458840,
+      "word": "宿舍起火刷脸逃生学生发声",
+      "onboard_time": 1731406162,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57348,
+      "num": 541224,
+      "word": "电影市场观影人次急降",
+      "onboard_time": 1731406103,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57202,
       "num": 284326,
       "word": "魔法坏女巫定档",
@@ -2545,6 +2593,14 @@
       "onboard_time": 1731384561,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47374,
+      "num": 252997,
+      "word": "鞠婧祎自律且目标清晰",
+      "onboard_time": 1731407901,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 46861,
@@ -2715,11 +2771,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 33250,
-      "num": 541224,
-      "word": "电影市场观影人次急降",
-      "onboard_time": 1731406103,
-      "rank": 14,
+      "raw_hot": 32732,
+      "num": 1671525,
+      "word": "29岁独腿小伙登顶海拔5210米雪山",
+      "onboard_time": 1731405983,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2729,14 +2785,6 @@
       "onboard_time": 1731360791,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 31864,
-      "num": 458840,
-      "word": "宿舍起火刷脸逃生学生发声",
-      "onboard_time": 1731406162,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31807,
@@ -2755,12 +2803,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 31440,
+      "num": 217574,
+      "word": "何小鹏称P7+刚过上好日子求放过",
+      "onboard_time": 1731405443,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31243,
       "num": 337876,
       "word": "奥迪在华市场电动车终极答卷",
       "onboard_time": 1731402382,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31087,
+      "num": 205365,
+      "word": "鞠婧祎嘉人百大赏预热",
+      "onboard_time": 1731405742,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 30998,
@@ -2785,14 +2849,6 @@
       "onboard_time": 1731395362,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27471,
-      "num": 217574,
-      "word": "何小鹏称P7+刚过上好日子求放过",
-      "onboard_time": 1731405443,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 27349,
@@ -2896,14 +2952,6 @@
       "word": "文化中国行惊艳的中国石窟",
       "onboard_time": 1731382339,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21141,
-      "num": 1671525,
-      "word": "29岁独腿小伙登顶海拔5210米雪山",
-      "onboard_time": 1731405983,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3089,6 +3137,14 @@
       "onboard_time": 1731367695,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8298,
+      "num": 252732,
+      "word": "中国游客参观沙特展区贴脸开大",
+      "onboard_time": 1731407964,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 6904,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731408087792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9278498,
+        "num": 9278498,
+        "word": "全国法定节假日将增加",
+        "onboard_time": 1731402322,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7558493,
+        "num": 7558493,
+        "word": "李子柒回归",
+        "onboard_time": 1731401000,
+        "rank": 1,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 2698,
+        "num": 2454870,
+        "word": "万千气象看福建",
+        "onboard_time": 1731384022,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801598,
+        "num": 1801598,
+        "word": "2025元旦放1天不调休",
+        "onboard_time": 1731404484,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938658,
+        "num": 938658,
+        "word": "12位讨厌的明星聚岛上的综艺真来了",
+        "onboard_time": 1731405863,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1482145,
+        "num": 925738,
+        "word": "调休后上班一般不超6天",
+        "onboard_time": 1731403044,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884975,
+        "num": 884975,
+        "word": "李子柒开始清库存了",
+        "onboard_time": 1731403645,
+        "rank": 6,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 1379007,
+        "num": 881936,
+        "word": "除夕纳入放假",
+        "onboard_time": 1731402502,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507447,
+        "num": 838529,
+        "word": "将门毒后",
+        "onboard_time": 1731406042,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1058688,
+        "num": 814547,
+        "word": "2025年放假安排来了",
+        "onboard_time": 1731402744,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7765880,
+        "num": 794775,
+        "word": "宋再临去世",
+        "onboard_time": 1731406943,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 784264,
+        "num": 784264,
+        "word": "梁光烈同志逝世",
+        "onboard_time": 1731404903,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685997,
+        "num": 685997,
+        "word": "5月2日放假",
+        "onboard_time": 1731403705,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503379,
+        "num": 503379,
+        "word": "李子柒停更原因",
+        "onboard_time": 1731405863,
+        "rank": 13,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 527084,
+        "num": 497876,
+        "word": "春节自农历除夕起放假调休8天",
+        "onboard_time": 1731403225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136216,
+        "num": 496595,
+        "word": "宋再临遗书",
+        "onboard_time": 1731407123,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487784,
+        "num": 487784,
+        "word": "被医生打死老板妻子一度以为他在救人",
+        "onboard_time": 1731401722,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 432964,
+        "num": 475208,
+        "word": "朋友请听好3回归",
+        "onboard_time": 1731405983,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373816,
+        "num": 466938,
+        "word": "永夜星河买了原版版权",
+        "onboard_time": 1731398600,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299194,
+        "num": 464897,
+        "word": "天天向上要回归了",
+        "onboard_time": 1731407364,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463641,
+        "num": 463641,
+        "word": "张艺兴成毅要不认识一下吧",
+        "onboard_time": 1731404003,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338891,
+        "num": 448771,
+        "word": "春节休8天五一休5天",
+        "onboard_time": 1731405921,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441483,
+        "num": 441483,
+        "word": "李子柒 森林衣帽间",
+        "onboard_time": 1731403884,
+        "rank": 22,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 328494,
+        "num": 328494,
+        "word": "交行重庆分行一员工在工位上轻生",
+        "onboard_time": 1731405263,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267737,
+        "num": 267737,
+        "word": "永夜星河",
+        "onboard_time": 1731406522,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208160,
+        "num": 266278,
+        "word": "肖战专辑制作阵容",
+        "onboard_time": 1731406762,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32732,
+        "num": 261665,
+        "word": "29岁独腿小伙登顶海拔5210米雪山",
+        "onboard_time": 1731405983,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83203,
+        "num": 259156,
+        "word": "恋与深空总榜再次登顶送二十连",
+        "onboard_time": 1731405143,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47374,
+        "num": 252997,
+        "word": "鞠婧祎自律且目标清晰",
+        "onboard_time": 1731407901,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 8298,
+        "num": 252732,
+        "word": "中国游客参观沙特展区贴脸开大",
+        "onboard_time": 1731407964,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 57348,
+        "num": 248688,
+        "word": "电影市场观影人次急降",
+        "onboard_time": 1731406103,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288485,
+        "num": 243268,
+        "word": "女子买高仿炫耀是正品被戳穿",
+        "onboard_time": 1731403285,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241614,
+        "num": 241614,
+        "word": "停止这种AI视频",
+        "onboard_time": 1731399859,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238389,
+        "num": 238389,
+        "word": "马斯克为特朗普花了2亿美元",
+        "onboard_time": 1731403104,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57553,
+        "num": 229358,
+        "word": "宿舍起火刷脸逃生学生发声",
+        "onboard_time": 1731406162,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225559,
+        "num": 225559,
+        "word": "A股跳水原因找到了",
+        "onboard_time": 1731401479,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217509,
+        "num": 217509,
+        "word": "歼15D航展首秀惊艳全场",
+        "onboard_time": 1731405443,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 210178,
+        "num": 210178,
+        "word": "韩国乳业公司将为牛奶瓶申请国家遗产",
+        "onboard_time": 1731404185,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31440,
+        "num": 209638,
+        "word": "何小鹏称P7+刚过上好日子求放过",
+        "onboard_time": 1731405443,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209275,
+        "num": 209275,
+        "word": "向佐想要的是不是欧豪这种感觉",
+        "onboard_time": 1731407003,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31087,
+        "num": 205365,
+        "word": "鞠婧祎嘉人百大赏预热",
+        "onboard_time": 1731405742,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202956,
+        "num": 202956,
+        "word": "华为Mate70真机图曝光",
+        "onboard_time": 1731398778,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194081,
+        "num": 194081,
+        "word": "慕声 宝宝妖",
+        "onboard_time": 1731405023,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174576,
+        "num": 174576,
+        "word": "沙特VVIP们进入买买买模式",
+        "onboard_time": 1731394938,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 174295,
+        "num": 174295,
+        "word": "妇联回应女子生6女为生男孩拼7胎",
+        "onboard_time": 1731407364,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173030,
+        "num": 173030,
+        "word": "关晓彤问王安宇花少成员的关系好不好",
+        "onboard_time": 1731400339,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172937,
+        "num": 172937,
+        "word": "白夜追凶欠了多少坑没填",
+        "onboard_time": 1731405502,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161826,
+        "num": 161826,
+        "word": "丁禹兮回应虞书欣",
+        "onboard_time": 1731395419,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148167,
+        "num": 148167,
+        "word": "珠海航展看得我热血沸腾",
+        "onboard_time": 1731404784,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 139079,
+        "num": 139079,
+        "word": "沙特富豪珠海航展争当榜一大哥",
+        "onboard_time": 1731408024,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席看世界#"
+    }
+  }
+}
