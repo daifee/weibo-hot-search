@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1731408087792,
+  "endTime": 1731410333017,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -249,6 +249,14 @@
       "onboard_time": 1726662451,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19897922,
+      "num": 19897922,
+      "word": "珠海一男子驾车撞人致35死",
+      "onboard_time": 1731409644,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 19712879,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705157987,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7943085,
-      "num": 8398289,
-      "word": "官方通报沥心沙大桥事故情况",
-      "onboard_time": 1708567053,
-      "rank": 23,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

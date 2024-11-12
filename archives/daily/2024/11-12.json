@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731408087792,
+  "endTime": 1731410333017,
   "band_list": [
     {
       "raw_hot": 20525107,
@@ -9,6 +9,14 @@
       "onboard_time": 1731402322,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19897922,
+      "num": 19897922,
+      "word": "珠海一男子驾车撞人致35死",
+      "onboard_time": 1731409644,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 11100779,
@@ -49,6 +57,14 @@
       "onboard_time": 1731381979,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1984705,
+      "num": 603937,
+      "word": "宋再临遗书",
+      "onboard_time": 1731407123,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1966971,
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1438978,
+      "num": 1438978,
+      "word": "李子柒停更原因",
+      "onboard_time": 1731405863,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1419475,
       "num": 1419475,
       "word": "金价再跳水",
@@ -129,14 +153,6 @@
       "onboard_time": 1731340457,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1136216,
-      "num": 496595,
-      "word": "宋再临遗书",
-      "onboard_time": 1731407123,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1124397,
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 989914,
+      "num": 1674837,
+      "word": "12位讨厌的明星聚岛上的综艺真来了",
+      "onboard_time": 1731405863,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 987677,
       "num": 987677,
       "word": "肖战首专",
@@ -193,14 +217,6 @@
       "onboard_time": 1731387921,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938658,
-      "num": 1674837,
-      "word": "12位讨厌的明星聚岛上的综艺真来了",
-      "onboard_time": 1731405863,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 902782,
@@ -379,6 +395,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 599716,
+      "num": 599716,
+      "word": "男子被误诊感染HPV10天花光积蓄",
+      "onboard_time": 1731409827,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590658,
       "num": 590658,
       "word": "12岁少女谈小学成绩好的秘密走红",
@@ -400,6 +424,14 @@
       "word": "子期 东方青苍",
       "onboard_time": 1731335960,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 529720,
+      "num": 959744,
+      "word": "将门毒后",
+      "onboard_time": 1731406042,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -443,28 +475,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 507447,
-      "num": 838529,
-      "word": "将门毒后",
-      "onboard_time": 1731406042,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 504172,
       "num": 380262,
       "word": "早恋15岁男孩曾被家长没收电子产品",
       "onboard_time": 1731382579,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503379,
-      "num": 503379,
-      "word": "李子柒停更原因",
-      "onboard_time": 1731405863,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 502044,
@@ -481,6 +497,14 @@
       "onboard_time": 1731378380,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495831,
+      "num": 495831,
+      "word": "珠海航展氛围感燃到飞起",
+      "onboard_time": 1731404243,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 491655,
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402747,
+      "num": 448771,
+      "word": "春节休8天五一休5天",
+      "onboard_time": 1731405921,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401164,
       "num": 388802,
       "word": "A股跳水原因找到了",
@@ -667,12 +699,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385835,
+      "num": 385835,
+      "word": "春节和劳动节各增1天",
+      "onboard_time": 1731408143,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381816,
       "num": 381816,
       "word": "医生殴打便利店老板致死被刑拘",
       "onboard_time": 1731337639,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377599,
+      "num": 607052,
+      "word": "胡彦斌劝蹭流量的别上再见爱人",
+      "onboard_time": 1731409224,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 375769,
@@ -760,14 +808,6 @@
       "word": "顺产妈妈用错力致整脸肿胀",
       "onboard_time": 1731345134,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338891,
-      "num": 448771,
-      "word": "春节休8天五一休5天",
-      "onboard_time": 1731405921,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -907,6 +947,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 276994,
+      "num": 276994,
+      "word": "假期逢周三不调休",
+      "onboard_time": 1731409283,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276704,
       "num": 276704,
       "word": "孕妈生产时太用力致面部毛细血管破裂",
@@ -1043,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254554,
+      "num": 254554,
+      "word": "张艺兴喜欢肖战唱的荧",
+      "onboard_time": 1731408083,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254231,
       "num": 342328,
       "word": "白夜追凶2空降不实",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1731386182,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 245617,
+      "num": 245617,
+      "word": "李子柒近三年海外平台涨粉500万",
+      "onboard_time": 1731408804,
+      "rank": 34,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 243654,
@@ -1131,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223117,
+      "num": 223117,
+      "word": "妇联回应女子生6女为生男孩拼7胎",
+      "onboard_time": 1731407364,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222914,
       "num": 214977,
       "word": "虞书欣新增永夜星河团综行程",
@@ -1145,6 +1217,22 @@
       "onboard_time": 1731378919,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 221678,
+      "num": 221678,
+      "word": "父母患癌去世19岁哥哥辍学照顾妹妹",
+      "onboard_time": 1731408744,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221391,
+      "num": 221391,
+      "word": "慕声 宝宝妖",
+      "onboard_time": 1731405023,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 216901,
@@ -1296,14 +1384,6 @@
       "word": "关晓彤晒栋哲筱婷大学第一张合影",
       "onboard_time": 1731391819,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199050,
-      "num": 199050,
-      "word": "慕声 宝宝妖",
-      "onboard_time": 1731405023,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1547,14 +1627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174295,
-      "num": 174295,
-      "word": "妇联回应女子生6女为生男孩拼7胎",
-      "onboard_time": 1731407364,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173241,
       "num": 226651,
       "word": "尔滨又有新节目了",
@@ -1715,6 +1787,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 154543,
+      "num": 154543,
+      "word": "吴泽林翻身当冠军",
+      "onboard_time": 1731409164,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154376,
       "num": 154376,
       "word": "歼35会上航母",
@@ -1785,14 +1865,6 @@
       "onboard_time": 1731392418,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144939,
-      "num": 144939,
-      "word": "珠海航展氛围感燃到飞起",
-      "onboard_time": 1731404243,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 144645,
@@ -2355,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72477,
+      "num": 252997,
+      "word": "鞠婧祎自律且目标清晰",
+      "onboard_time": 1731407901,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 72315,
       "num": 286841,
       "word": "普通家庭可尽量避免入手黄金期货",
@@ -2441,6 +2521,14 @@
       "onboard_time": 1731343732,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 61605,
+      "num": 930495,
+      "word": "大一就开始卷实习有意义吗",
+      "onboard_time": 1731409405,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61482,
@@ -2595,14 +2683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47374,
-      "num": 252997,
-      "word": "鞠婧祎自律且目标清晰",
-      "onboard_time": 1731407901,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 46861,
       "num": 273820,
       "word": "歼15家族空中合影",
@@ -2697,6 +2777,14 @@
       "onboard_time": 1731398960,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35384,
+      "num": 602830,
+      "word": "鞠婧祎每次上台都会紧张",
+      "onboard_time": 1731410068,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 35060,
@@ -2915,12 +3003,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24278,
+      "num": 496962,
+      "word": "为什么7年了还在期待白夜追凶2",
+      "onboard_time": 1731410007,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23923,
       "num": 279865,
       "word": "62岁博格丹背个包就来航展上班了",
       "onboard_time": 1731391640,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23484,
+      "num": 610697,
+      "word": "知情人士称李子柒会持续更新",
+      "onboard_time": 1731409586,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 22435,

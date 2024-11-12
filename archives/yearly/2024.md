@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/12 18:41:27
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/12 19:18:53
 </p>
 </blockquote>
 <p>
@@ -197,6 +197,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A54.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 合肥4.7级地震（热度：20479993）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E4%B8%80%E7%94%B7%E5%AD%90%E9%A9%BE%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B435%E6%AD%BB%23" target="weibo">
+珠海一男子驾车撞人致35死（热度：19897922）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23" target="weibo">
 杨紫三获微博Queen（热度：7952941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%A5%E5%BF%83%E6%B2%99%E5%A4%A7%E6%A1%A5%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%23" target="weibo">
-官方通报沥心沙大桥事故情况（热度：7943085）
 </a>
 </li>
 
