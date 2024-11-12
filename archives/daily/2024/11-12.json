@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731415370675,
+  "endTime": 1731416330352,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -107,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1640312,
+      "num": 1640312,
+      "word": "严防发生极端案件",
+      "onboard_time": 1731413784,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1618763,
+      "num": 455433,
+      "word": "杭州一宝马路口连撞多人多车",
+      "onboard_time": 1731414203,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1592372,
       "num": 1592372,
       "word": "李子柒停更原因",
@@ -147,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1323122,
+      "num": 1674837,
+      "word": "12位讨厌的明星聚岛上的综艺真来了",
+      "onboard_time": 1731405863,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1295486,
       "num": 1295486,
       "word": "沙特VVIP们进入买买买模式",
@@ -177,14 +201,6 @@
       "onboard_time": 1731371780,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1108001,
-      "num": 1674837,
-      "word": "12位讨厌的明星聚岛上的综艺真来了",
-      "onboard_time": 1731405863,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1093413,
@@ -283,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 837961,
+      "num": 439094,
+      "word": "调集最强专家力量尽最大努力挽救生命",
+      "onboard_time": 1731412644,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837734,
       "num": 392563,
       "word": "孕妈拼第7胎只想凑个好字",
@@ -307,28 +331,12 @@
       "category": "美食,综艺"
     },
     {
-      "raw_hot": 770127,
-      "num": 455433,
-      "word": "杭州一宝马路口连撞多人多车",
-      "onboard_time": 1731414203,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 752214,
       "num": 340678,
       "word": "丁禹兮回应虞书欣",
       "onboard_time": 1731395419,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 750063,
-      "num": 750063,
-      "word": "严防发生极端案件",
-      "onboard_time": 1731413784,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 735517,
@@ -369,14 +377,6 @@
       "onboard_time": 1731376759,
       "rank": 4,
       "category": "军事"
-    },
-    {
-      "raw_hot": 685997,
-      "num": 439094,
-      "word": "调集最强专家力量尽最大努力挽救生命",
-      "onboard_time": 1731412644,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676790,
@@ -667,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 406747,
+      "num": 357379,
+      "word": "虞书欣带着11个箱子启程",
+      "onboard_time": 1731415702,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403104,
       "num": 346799,
       "word": "男子足疗店消费万元醒后一脸懵",
@@ -793,6 +801,14 @@
       "onboard_time": 1731375978,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 355439,
+      "num": 355439,
+      "word": "永夜星河编剧",
+      "onboard_time": 1731414803,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 352749,
@@ -1059,6 +1075,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 267970,
+      "num": 267970,
+      "word": "6旬父母想生四胎遭女儿哭诉指责",
+      "onboard_time": 1731414922,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267212,
+      "num": 267212,
+      "word": "年龄12工龄50",
+      "onboard_time": 1731413184,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265277,
       "num": 265277,
       "word": "A股重磅来袭",
@@ -1187,14 +1219,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 240802,
-      "num": 240802,
-      "word": "年龄12工龄50",
-      "onboard_time": 1731413184,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238833,
       "num": 354342,
       "word": "庄图南开窍了",
@@ -1267,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221511,
-      "num": 325760,
-      "word": "永夜星河编剧",
-      "onboard_time": 1731414803,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221391,
       "num": 221391,
       "word": "慕声 宝宝妖",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1731404185,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209622,
+      "num": 209622,
+      "word": "微念称李子柒品牌产品都由其经营",
+      "onboard_time": 1731415942,
+      "rank": 32,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 209275,
@@ -1491,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193404,
+      "num": 193404,
+      "word": "你们上海人就是要互相娶互相嫁的",
+      "onboard_time": 1731415582,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192920,
       "num": 192920,
       "word": "杨倩备战新的奥运周期",
@@ -1555,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186611,
+      "num": 248078,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1731415642,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "妈妈一个人改造了女儿的房间",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1731388342,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181757,
-      "num": 181757,
-      "word": "6旬父母想生四胎遭女儿哭诉指责",
-      "onboard_time": 1731414922,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179725,
@@ -1867,6 +1899,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 155198,
+      "num": 155198,
+      "word": "95后女干部提拔副科不能选择性公示",
+      "onboard_time": 1731415103,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154543,
       "num": 154543,
       "word": "吴泽林翻身当冠军",
@@ -1931,11 +1971,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 150485,
-      "num": 150485,
-      "word": "95后女干部提拔副科不能选择性公示",
-      "onboard_time": 1731415103,
-      "rank": 45,
+      "raw_hot": 150673,
+      "num": 150673,
+      "word": "春节休8天已有乘客下单春节机票",
+      "onboard_time": 1731411986,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2104,6 +2144,14 @@
       "word": "鸡柳哥是真的饿了",
       "onboard_time": 1731386722,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130723,
+      "num": 130723,
+      "word": "小巷人家",
+      "onboard_time": 1731328159,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -2611,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69731,
+      "num": 362057,
+      "word": "大梦归离冰夷禁地四选一",
+      "onboard_time": 1731415283,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69492,
       "num": 69492,
       "word": "慕声你是妙妙",
@@ -2843,20 +2899,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 46351,
-      "num": 264234,
-      "word": "大梦归离冰夷禁地四选一",
-      "onboard_time": 1731415283,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46104,
       "num": 349958,
       "word": "太阳星辰全是港剧熟脸",
       "onboard_time": 1731389240,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45845,
+      "num": 1378261,
+      "word": "多个大国重器惊艳亮相",
+      "onboard_time": 1731414862,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44897,
@@ -3331,27 +3387,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14281,
-      "num": 14281,
-      "word": "小巷人家",
-      "onboard_time": 1731328159,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14201,
       "num": 165785,
       "word": "美客机在海地太子港降落时遭枪击",
       "onboard_time": 1731376278,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14071,
-      "num": 1042467,
-      "word": "多个大国重器惊艳亮相",
-      "onboard_time": 1731414862,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
