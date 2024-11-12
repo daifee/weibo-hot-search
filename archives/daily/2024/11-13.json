@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731431970455,
+  "endTime": 1731433055606,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161427,
+      "num": 128399,
+      "word": "再见爱人 镜头隐喻",
+      "onboard_time": 1731427280,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158778,
       "num": 147673,
       "word": "王一栩赚钱路子告诉你了",
@@ -265,14 +273,6 @@
       "onboard_time": 1731406522,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128399,
-      "num": 128399,
-      "word": "再见爱人 镜头隐喻",
-      "onboard_time": 1731427280,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 117786,
@@ -475,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35088,
+      "num": 38578,
+      "word": "大妈一个月偷肉10次还嘴硬",
+      "onboard_time": 1731432793,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32558,
+      "num": 38535,
+      "word": "一图看懂2025年放假怎么放",
+      "onboard_time": 1731432974,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 19949,
       "num": 108580,
       "word": "你好C909",
@@ -483,7 +499,15 @@
       "category": "军事"
     },
     {
-      "raw_hot": 15369,
+      "raw_hot": 16769,
+      "num": 64491,
+      "word": "三部门部署抓牢幼儿园和小学近视防控",
+      "onboard_time": 1731432314,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15587,
       "num": 111938,
       "word": "4000多年前古人在这里仰望星空",
       "onboard_time": 1731431714,
