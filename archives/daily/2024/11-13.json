@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731447340900,
+  "endTime": 1731450049933,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -459,8 +459,8 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 42945,
-      "num": 42945,
+      "raw_hot": 43091,
+      "num": 43091,
       "word": "珠海航展女工作人员扛导弹",
       "onboard_time": 1731441013,
       "rank": 8,
@@ -475,20 +475,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 39051,
+      "num": 39051,
+      "word": "两个上海人就应该生出我这个",
+      "onboard_time": 1731435373,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38773,
       "num": 558601,
       "word": "多个大国重器惊艳亮相",
       "onboard_time": 1731414862,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36846,
-      "num": 34112,
-      "word": "两个上海人就应该生出我这个",
-      "onboard_time": 1731435373,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 36653,
@@ -507,6 +507,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 29450,
+      "num": 32804,
+      "word": "吴姗姗想占宋莹房子",
+      "onboard_time": 1731447550,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28944,
+      "num": 28944,
+      "word": "洗浴中心回应男子洗浴时死亡",
+      "onboard_time": 1731444790,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23124,
       "num": 37563,
       "word": "尼日尔高级军官期待购买中国战机",
@@ -521,6 +537,14 @@
       "onboard_time": 1731436152,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22621,
+      "num": 24346,
+      "word": "微念李子柒商标均被判无效",
+      "onboard_time": 1731443711,
+      "rank": 49,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 20014,
@@ -539,22 +563,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 18755,
-      "num": 18755,
-      "word": "洗浴中心回应男子洗浴时死亡",
-      "onboard_time": 1731444790,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17983,
-      "num": 17983,
-      "word": "微念李子柒商标均被判无效",
-      "onboard_time": 1731443711,
-      "rank": 49,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 16769,
       "num": 64491,
       "word": "三部门部署抓牢幼儿园和小学近视防控",
@@ -571,6 +579,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 15936,
+      "num": 34545,
+      "word": "2025年放假日历来了",
+      "onboard_time": 1731442630,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15587,
       "num": 111938,
       "word": "4000多年前古人在这里仰望星空",
@@ -579,11 +595,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13860,
-      "num": 34545,
-      "word": "2025年放假日历来了",
-      "onboard_time": 1731442630,
-      "rank": 13,
+      "raw_hot": 13979,
+      "num": 24293,
+      "word": "乡政府回应村民粪堆封路防摩托炸街",
+      "onboard_time": 1731449172,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
