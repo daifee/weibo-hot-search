@@ -1,0 +1,410 @@
+{
+  "runTime": 1731429883818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977806,
+        "num": 977806,
+        "word": "李子柒停更原因",
+        "onboard_time": 1731405863,
+        "rank": 0,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 528791,
+        "num": 528791,
+        "word": "12位讨厌的明星聚岛上的综艺真来了",
+        "onboard_time": 1731405863,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9990,
+        "num": 437339,
+        "word": "七张图带你了解秘鲁",
+        "onboard_time": 1731414744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422910,
+        "num": 422910,
+        "word": "严防发生极端案件",
+        "onboard_time": 1731413784,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354367,
+        "num": 354367,
+        "word": "小巷人家 气人",
+        "onboard_time": 1731424222,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348071,
+        "num": 348071,
+        "word": "除夕纳入放假",
+        "onboard_time": 1731402502,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300473,
+        "num": 300473,
+        "word": "珠帘玉幕微博开分8.3",
+        "onboard_time": 1731423863,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245803,
+        "num": 245803,
+        "word": "2025元旦放1天不调休",
+        "onboard_time": 1731404484,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244964,
+        "num": 244964,
+        "word": "李子柒回归",
+        "onboard_time": 1731401000,
+        "rank": 8,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 33375,
+        "num": 244120,
+        "word": "沈阳现万米丁达尔效应",
+        "onboard_time": 1731429316,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931582,
+        "num": 243409,
+        "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
+        "onboard_time": 1731427341,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516948,
+        "num": 242357,
+        "word": "杭州宝马",
+        "onboard_time": 1731424282,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509071,
+        "num": 241555,
+        "word": "郝婧怡 退团",
+        "onboard_time": 1731427220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265068,
+        "num": 240269,
+        "word": "李子柒新视频外网评论",
+        "onboard_time": 1731423563,
+        "rank": 13,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 246021,
+        "num": 239979,
+        "word": "宋再临遗书",
+        "onboard_time": 1731407123,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239233,
+        "num": 239233,
+        "word": "官方通报19岁女生卖卵代孕",
+        "onboard_time": 1731426140,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236540,
+        "num": 236540,
+        "word": "全国法定节假日将增加",
+        "onboard_time": 1731402322,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234971,
+        "num": 234971,
+        "word": "丁禹兮原声",
+        "onboard_time": 1731419364,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215281,
+        "num": 215281,
+        "word": "虞书欣带着11个箱子启程",
+        "onboard_time": 1731415702,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164403,
+        "num": 193071,
+        "word": "永夜星河编剧",
+        "onboard_time": 1731414803,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511457,
+        "num": 193060,
+        "word": "特朗普在堕胎权上的立场备受争议",
+        "onboard_time": 1731421643,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 401182,
+        "num": 193031,
+        "word": "女子促排备孕怀上9胞胎",
+        "onboard_time": 1731422964,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192985,
+        "num": 192985,
+        "word": "男子被误诊感染HPV10天花光积蓄",
+        "onboard_time": 1731409827,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175116,
+        "num": 175116,
+        "word": "珠海航展氛围感燃到飞起",
+        "onboard_time": 1731404243,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 169990,
+        "num": 169990,
+        "word": "中国月壤给了意大利总统一点点震撼",
+        "onboard_time": 1731419004,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155295,
+        "num": 155295,
+        "word": "你们上海人就是要互相娶互相嫁的",
+        "onboard_time": 1731415582,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152313,
+        "num": 152313,
+        "word": "女子闯红灯被撞反问交警车主无责吗",
+        "onboard_time": 1731424762,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143266,
+        "num": 143266,
+        "word": "王一栩赚钱路子告诉你了",
+        "onboard_time": 1731427519,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138551,
+        "num": 138551,
+        "word": "花少7是回归季",
+        "onboard_time": 1731412644,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136547,
+        "num": 136547,
+        "word": "永夜星河",
+        "onboard_time": 1731406522,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128704,
+        "num": 128704,
+        "word": "五月天 林俊杰",
+        "onboard_time": 1731417563,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125999,
+        "num": 125999,
+        "word": "调休后上班一般不超6天",
+        "onboard_time": 1731403044,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121496,
+        "num": 121496,
+        "word": "再见爱人 镜头隐喻",
+        "onboard_time": 1731427280,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108388,
+        "num": 108388,
+        "word": "调集最强专家力量尽最大努力挽救生命",
+        "onboard_time": 1731412644,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96569,
+        "num": 96569,
+        "word": "严惩驾车撞人者守护生命安全",
+        "onboard_time": 1731416904,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90778,
+        "num": 90778,
+        "word": "教育局回应老师质疑家长价值观",
+        "onboard_time": 1731425182,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87769,
+        "num": 87769,
+        "word": "被医生打死老板妻子一度以为他在救人",
+        "onboard_time": 1731401722,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 85064,
+        "num": 85064,
+        "word": "WTT新加坡大满贯春节期间举行",
+        "onboard_time": 1731426620,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83469,
+        "num": 83469,
+        "word": "回归前的李子柒干了些什么",
+        "onboard_time": 1731429017,
+        "rank": 38,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 83204,
+        "num": 83204,
+        "word": "存钱存着存着就开始做假账了",
+        "onboard_time": 1731416843,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83150,
+        "num": 83150,
+        "word": "宋再临去世",
+        "onboard_time": 1731406943,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76258,
+        "num": 76258,
+        "word": "6旬父母想生四胎遭女儿哭诉指责",
+        "onboard_time": 1731414922,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70463,
+        "num": 70463,
+        "word": "春节休8天已有乘客下单春节机票",
+        "onboard_time": 1731411986,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69916,
+        "num": 69916,
+        "word": "双高胎 抢票",
+        "onboard_time": 1731420504,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69888,
+        "num": 69888,
+        "word": "小巷人家",
+        "onboard_time": 1731415462,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69724,
+        "num": 69724,
+        "word": "全红婵跳APT",
+        "onboard_time": 1731423264,
+        "rank": 45,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 67708,
+        "num": 67708,
+        "word": "微念称李子柒品牌产品都由其经营",
+        "onboard_time": 1731415942,
+        "rank": 46,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 66287,
+        "num": 66287,
+        "word": "李子柒大漆视频微博观看量破亿了",
+        "onboard_time": 1731423803,
+        "rank": 47,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 60871,
+        "num": 60871,
+        "word": "胡彦斌劝蹭流量的别上再见爱人",
+        "onboard_time": 1731409224,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59509,
+        "num": 59509,
+        "word": "将门毒后",
+        "onboard_time": 1731406042,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对广东珠海市驾车冲撞行人案件作出重要指示#"
+    }
+  }
+}

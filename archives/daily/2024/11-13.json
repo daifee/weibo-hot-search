@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731428927963,
+  "endTime": 1731429883818,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -19,19 +19,19 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 931582,
+      "num": 255146,
+      "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
+      "onboard_time": 1731427341,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740856,
       "num": 259498,
       "word": "杭州宝马",
       "onboard_time": 1731424282,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643589,
-      "num": 255146,
-      "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
-      "onboard_time": 1731427341,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 239233,
+      "num": 239233,
+      "word": "官方通报19岁女生卖卵代孕",
+      "onboard_time": 1731426140,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235094,
       "num": 235094,
       "word": "虞书欣带着11个箱子启程",
@@ -155,15 +163,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224307,
-      "num": 224307,
-      "word": "男子被误诊感染HPV10天花光积蓄",
-      "onboard_time": 1731409827,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210880,
+      "raw_hot": 234971,
       "num": 242892,
       "word": "丁禹兮原声",
       "onboard_time": 1731419364,
@@ -171,11 +171,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209595,
-      "num": 209595,
-      "word": "官方通报19岁女生卖卵代孕",
-      "onboard_time": 1731426140,
-      "rank": 24,
+      "raw_hot": 224307,
+      "num": 224307,
+      "word": "男子被误诊感染HPV10天花光积蓄",
+      "onboard_time": 1731409827,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 172410,
-      "num": 147813,
+      "num": 155295,
       "word": "你们上海人就是要互相娶互相嫁的",
       "onboard_time": 1731415582,
       "rank": 30,
@@ -251,20 +251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121496,
+      "num": 121496,
+      "word": "再见爱人 镜头隐喻",
+      "onboard_time": 1731427280,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117786,
       "num": 117786,
       "word": "调集最强专家力量尽最大努力挽救生命",
       "onboard_time": 1731412644,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110455,
-      "num": 110455,
-      "word": "再见爱人 镜头隐喻",
-      "onboard_time": 1731427280,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 104313,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83469,
+      "num": 83469,
+      "word": "回归前的李子柒干了些什么",
+      "onboard_time": 1731429017,
+      "rank": 38,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 78925,
       "num": 78925,
       "word": "微念称李子柒品牌产品都由其经营",
@@ -379,6 +387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60871,
+      "num": 60871,
+      "word": "胡彦斌劝蹭流量的别上再见爱人",
+      "onboard_time": 1731409224,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 59509,
+      "num": 59509,
+      "word": "将门毒后",
+      "onboard_time": 1731406042,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54943,
       "num": 260884,
       "word": "歼35A航展首秀就放了个大招",
@@ -401,6 +425,22 @@
       "onboard_time": 1731414862,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33375,
+      "num": 244120,
+      "word": "沈阳现万米丁达尔效应",
+      "onboard_time": 1731429316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9990,
+      "num": 437339,
+      "word": "七张图带你了解秘鲁",
+      "onboard_time": 1731414744,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

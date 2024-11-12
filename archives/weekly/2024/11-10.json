@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731428927963,
+  "endTime": 1731429883818,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -755,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 931582,
+      "num": 255146,
+      "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
+      "onboard_time": 1731427341,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902782,
       "num": 361403,
       "word": "苏州两人坠河1人被救1人死亡",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1731241759,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 643589,
-      "num": 255146,
-      "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
-      "onboard_time": 1731427341,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643067,
@@ -3619,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239233,
+      "num": 239233,
+      "word": "官方通报19岁女生卖卵代孕",
+      "onboard_time": 1731426140,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238892,
       "num": 238892,
       "word": "王艺迪vs张本美和",
@@ -3681,6 +3689,14 @@
       "onboard_time": 1731398840,
       "rank": 26,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 234971,
+      "num": 273402,
+      "word": "丁禹兮原声",
+      "onboard_time": 1731419364,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 233376,
@@ -4091,14 +4107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210880,
-      "num": 273402,
-      "word": "丁禹兮原声",
-      "onboard_time": 1731419364,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210568,
       "num": 210568,
       "word": "蒋敦豪对阿条姐说下次见",
@@ -4169,14 +4177,6 @@
       "onboard_time": 1731317840,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209595,
-      "num": 209595,
-      "word": "官方通报19岁女生卖卵代孕",
-      "onboard_time": 1731426140,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209275,
@@ -7203,6 +7203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121496,
+      "num": 121496,
+      "word": "再见爱人 镜头隐喻",
+      "onboard_time": 1731427280,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120959,
       "num": 120959,
       "word": "好品山东",
@@ -7473,14 +7481,6 @@
       "onboard_time": 1731156799,
       "rank": 40,
       "category": "国外时政,国内时政"
-    },
-    {
-      "raw_hot": 110455,
-      "num": 110455,
-      "word": "再见爱人 镜头隐喻",
-      "onboard_time": 1731427280,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 109372,
@@ -8041,6 +8041,14 @@
       "onboard_time": 1731420444,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 83469,
+      "num": 83469,
+      "word": "回归前的李子柒干了些什么",
+      "onboard_time": 1731429017,
+      "rank": 38,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 82769,
@@ -9515,6 +9523,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 33375,
+      "num": 244120,
+      "word": "沈阳现万米丁达尔效应",
+      "onboard_time": 1731429316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33365,
       "num": 287826,
       "word": "交通执法人员被司机顶引擎盖疾驰",
@@ -10537,6 +10553,14 @@
       "onboard_time": 1731337998,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9990,
+      "num": 437339,
+      "word": "七张图带你了解秘鲁",
+      "onboard_time": 1731414744,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9969,
