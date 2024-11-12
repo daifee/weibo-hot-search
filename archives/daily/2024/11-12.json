@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731411346996,
+  "endTime": 1731415370675,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1647117,
+      "num": 706056,
+      "word": "男子被误诊感染HPV10天花光积蓄",
+      "onboard_time": 1731409827,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1592372,
       "num": 1592372,
       "word": "李子柒停更原因",
       "onboard_time": 1731405863,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1581953,
-      "num": 706056,
-      "word": "男子被误诊感染HPV10天花光积蓄",
-      "onboard_time": 1731409827,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1500099,
@@ -179,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1108001,
+      "num": 1674837,
+      "word": "12位讨厌的明星聚岛上的综艺真来了",
+      "onboard_time": 1731405863,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093413,
       "num": 424301,
       "word": "体制内人士称事业编提副科很少见",
@@ -193,14 +201,6 @@
       "onboard_time": 1731378859,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1052848,
-      "num": 1674837,
-      "word": "12位讨厌的明星聚岛上的综艺真来了",
-      "onboard_time": 1731405863,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1050089,
@@ -307,6 +307,14 @@
       "category": "美食,综艺"
     },
     {
+      "raw_hot": 770127,
+      "num": 455433,
+      "word": "杭州一宝马路口连撞多人多车",
+      "onboard_time": 1731414203,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752214,
       "num": 340678,
       "word": "丁禹兮回应虞书欣",
@@ -315,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 750063,
+      "num": 750063,
+      "word": "严防发生极端案件",
+      "onboard_time": 1731413784,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735517,
       "num": 533819,
       "word": "春节自农历除夕起放假调休8天",
       "onboard_time": 1731403225,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729063,
+      "num": 729063,
+      "word": "花少7是回归季",
+      "onboard_time": 1731412644,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 715768,
@@ -345,6 +369,14 @@
       "onboard_time": 1731376759,
       "rank": 4,
       "category": "军事"
+    },
+    {
+      "raw_hot": 685997,
+      "num": 439094,
+      "word": "调集最强专家力量尽最大努力挽救生命",
+      "onboard_time": 1731412644,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 676790,
@@ -595,6 +627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 427688,
+      "num": 427688,
+      "word": "假期逢周三不调休",
+      "onboard_time": 1731409283,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426186,
       "num": 426186,
       "word": "周雨彤新剧首发预告",
@@ -636,7 +676,7 @@
     },
     {
       "raw_hot": 402747,
-      "num": 448771,
+      "num": 488250,
       "word": "春节休8天五一休5天",
       "onboard_time": 1731405921,
       "rank": 31,
@@ -753,14 +793,6 @@
       "onboard_time": 1731375978,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 354530,
-      "num": 354530,
-      "word": "假期逢周三不调休",
-      "onboard_time": 1731409283,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352749,
@@ -1155,6 +1187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 240802,
+      "num": 240802,
+      "word": "年龄12工龄50",
+      "onboard_time": 1731413184,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238833,
       "num": 354342,
       "word": "庄图南开窍了",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1731408744,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221511,
+      "num": 325760,
+      "word": "永夜星河编剧",
+      "onboard_time": 1731414803,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 221391,
@@ -1459,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190848,
+      "num": 300796,
+      "word": "朱珠新剧短发造型",
+      "onboard_time": 1731414143,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190626,
       "num": 269811,
       "word": "赵露思明镜台开业大吉",
@@ -1481,6 +1537,14 @@
       "onboard_time": 1731385101,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188127,
+      "num": 290663,
+      "word": "安宥真OST成绩",
+      "onboard_time": 1731413903,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 186998,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1731388342,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181757,
+      "num": 181757,
+      "word": "6旬父母想生四胎遭女儿哭诉指责",
+      "onboard_time": 1731414922,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179725,
@@ -1819,12 +1891,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 152164,
+      "num": 152164,
+      "word": "网友北京街头偶遇刘亦菲",
+      "onboard_time": 1731411746,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151793,
       "num": 355968,
       "word": "保研互鸽暴露了哪些问题",
       "onboard_time": 1731392239,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151141,
+      "num": 151141,
+      "word": "团队回应李子柒时隔3年更新",
+      "onboard_time": 1731411208,
+      "rank": 49,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 150817,
@@ -1843,6 +1931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150485,
+      "num": 150485,
+      "word": "95后女干部提拔副科不能选择性公示",
+      "onboard_time": 1731415103,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149636,
       "num": 149636,
       "word": "珠海航展有自己的双十一",
@@ -1851,20 +1947,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 148354,
-      "num": 148354,
-      "word": "团队回应李子柒时隔3年更新",
-      "onboard_time": 1731411208,
-      "rank": 49,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 148167,
       "num": 357982,
       "word": "珠海航展看得我热血沸腾",
       "onboard_time": 1731404784,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 148068,
+      "num": 148068,
+      "word": "王多多回应LPL明年没热度",
+      "onboard_time": 1731412466,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 147457,
@@ -2387,6 +2483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82246,
+      "num": 430518,
+      "word": "戴佩妮罹患耳石脱落症",
+      "onboard_time": 1731414264,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82235,
       "num": 82235,
       "word": "2024年还剩50天",
@@ -2529,6 +2633,14 @@
       "onboard_time": 1731336020,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66122,
+      "num": 432675,
+      "word": "于文文直播聊天蝎座",
+      "onboard_time": 1731414264,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 65096,
@@ -2731,6 +2843,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46351,
+      "num": 264234,
+      "word": "大梦归离冰夷禁地四选一",
+      "onboard_time": 1731415283,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46104,
       "num": 349958,
       "word": "太阳星辰全是港剧熟脸",
@@ -2808,6 +2928,14 @@
       "word": "学校停电4天千余小学生摸黑上课",
       "onboard_time": 1731398960,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36986,
+      "num": 178468,
+      "word": "大理蓝天救援队队长被指带头敛财",
+      "onboard_time": 1731413363,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3179,6 +3307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 17266,
+      "num": 145816,
+      "word": "小说女主格蕾系穿搭",
+      "onboard_time": 1731414323,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 17126,
       "num": 104779,
       "word": "男子当孩子面殴打妻子被拘10日",
@@ -3208,6 +3344,14 @@
       "word": "美客机在海地太子港降落时遭枪击",
       "onboard_time": 1731376278,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14071,
+      "num": 1042467,
+      "word": "多个大国重器惊艳亮相",
+      "onboard_time": 1731414862,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3309,6 +3453,9 @@
     },
     {
       "word": "#跟着习主席看世界#"
+    },
+    {
+      "word": "#习近平对广东珠海市驾车冲撞行人案件作出重要指示#"
     }
   ]
 }
