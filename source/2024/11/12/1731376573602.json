@@ -1,0 +1,410 @@
+{
+  "runTime": 1731376573602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1966971,
+        "num": 1966971,
+        "word": "白夜追凶2 空降",
+        "onboard_time": 1731374299,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584655,
+        "num": 584655,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 4704,
+        "num": 522946,
+        "word": "一组图带你看懂COP29",
+        "onboard_time": 1731328159,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502044,
+        "num": 502044,
+        "word": "外国人说的中国魔方拦住了风沙",
+        "onboard_time": 1731372740,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319880,
+        "num": 496895,
+        "word": "陈楚生歌手2025首发",
+        "onboard_time": 1731370760,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1066262,
+        "num": 479470,
+        "word": "美国要求台积电停供大陆7纳米AI芯片",
+        "onboard_time": 1731371780,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274201,
+        "num": 477209,
+        "word": "白夜追凶",
+        "onboard_time": 1731375079,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252650,
+        "num": 461640,
+        "word": "凌妙妙忘记自己穿书了",
+        "onboard_time": 1731368357,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31716,
+        "num": 448751,
+        "word": "中国航展首次集齐海陆空主力战机",
+        "onboard_time": 1731374959,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 44423,
+        "num": 439604,
+        "word": "数一数中国航展显眼包",
+        "onboard_time": 1731374900,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 914465,
+        "num": 424301,
+        "word": "体制内人士称事业编提副科很少见",
+        "onboard_time": 1731370339,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211693,
+        "num": 407731,
+        "word": "金价再跳水",
+        "onboard_time": 1731375739,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128198,
+        "num": 395337,
+        "word": "江苏人双十一已买超8亿个包裹",
+        "onboard_time": 1731375619,
+        "rank": 12,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 393001,
+        "num": 393001,
+        "word": "王楚钦第46周继续霸榜世一",
+        "onboard_time": 1731373341,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374267,
+        "num": 374267,
+        "word": "唐梓回应跟丁禹兮长得像",
+        "onboard_time": 1731342976,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352665,
+        "num": 352665,
+        "word": "王鹤棣工作室评论区",
+        "onboard_time": 1731369198,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15597,
+        "num": 314861,
+        "word": "A股",
+        "onboard_time": 1731288318,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304476,
+        "num": 304476,
+        "word": "全红婵许昕一家聚会plog",
+        "onboard_time": 1731369678,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234706,
+        "num": 234706,
+        "word": "理发师晓华说可零门槛收徒",
+        "onboard_time": 1731369618,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 222493,
+        "num": 222493,
+        "word": "三星堆一团皱皱金箔展开后飞出小鸟",
+        "onboard_time": 1731342917,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302705,
+        "num": 217867,
+        "word": "考研考编人违禁用品",
+        "onboard_time": 1731370339,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 292838,
+        "num": 213027,
+        "word": "顺产妈妈用错力致整脸肿胀",
+        "onboard_time": 1731345134,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207611,
+        "num": 207611,
+        "word": "无法共情刚分手时伤心的自己",
+        "onboard_time": 1731369739,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191310,
+        "num": 191310,
+        "word": "仅3厘米大的核舟窗户居然能开关",
+        "onboard_time": 1731363733,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186059,
+        "num": 186059,
+        "word": "妈妈一个人改造了女儿的房间",
+        "onboard_time": 1731372381,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 178427,
+        "num": 178427,
+        "word": "郑钦文半决赛对手遭解说员调侃外貌",
+        "onboard_time": 1731374840,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169611,
+        "num": 169611,
+        "word": "麦琳退掉的汉服",
+        "onboard_time": 1731334880,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151534,
+        "num": 167325,
+        "word": "永夜星河这周就完结了",
+        "onboard_time": 1731369378,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114983,
+        "num": 166092,
+        "word": "首位歼10女飞行员余旭牺牲8周年",
+        "onboard_time": 1731376219,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14201,
+        "num": 165785,
+        "word": "美客机在海地太子港降落时遭枪击",
+        "onboard_time": 1731376278,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165752,
+        "num": 165752,
+        "word": "子期 东方青苍",
+        "onboard_time": 1731335960,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165712,
+        "num": 165712,
+        "word": "比特币",
+        "onboard_time": 1731374479,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163927,
+        "num": 163927,
+        "word": "赵又廷 跪早了",
+        "onboard_time": 1731375978,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162461,
+        "num": 162461,
+        "word": "麦琳人设",
+        "onboard_time": 1731375918,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90530,
+        "num": 157896,
+        "word": "Irene概念预告视频",
+        "onboard_time": 1731372920,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156012,
+        "num": 156012,
+        "word": "Uzi回应训练赛人不齐",
+        "onboard_time": 1731371600,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154033,
+        "num": 154033,
+        "word": "1分钟测眼睛是否健康",
+        "onboard_time": 1731374657,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151428,
+        "num": 151428,
+        "word": "抗癌男子筹款5天后晒新房照",
+        "onboard_time": 1731331820,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141400,
+        "num": 141400,
+        "word": "林诗栋6270分世排第二",
+        "onboard_time": 1731375798,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137681,
+        "num": 137681,
+        "word": "六问大专学历女干部被提拔副科",
+        "onboard_time": 1731330139,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126732,
+        "num": 126732,
+        "word": "金价跌破2620美元",
+        "onboard_time": 1731373820,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126413,
+        "num": 126413,
+        "word": "以色列外长称巴勒斯坦建国不现实",
+        "onboard_time": 1731372201,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124089,
+        "num": 124089,
+        "word": "晓华隔壁理发店1天下来门可罗雀",
+        "onboard_time": 1731362652,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 117666,
+        "num": 117666,
+        "word": "空军军乐队已抵达航展现场",
+        "onboard_time": 1731376098,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113023,
+        "num": 113023,
+        "word": "小米双十一销售额创纪录",
+        "onboard_time": 1731371060,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111743,
+        "num": 111743,
+        "word": "谁家学校一抬头就能看航展啊",
+        "onboard_time": 1731373460,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 111012,
+        "num": 111012,
+        "word": "花苞低丸子头发型",
+        "onboard_time": 1731375798,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 109610,
+        "num": 109610,
+        "word": "晓华拉动现场消费超2000万元",
+        "onboard_time": 1731351311,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 108246,
+        "num": 108246,
+        "word": "王艺迪世界排名上升至第3",
+        "onboard_time": 1731375918,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86927,
+        "num": 96477,
+        "word": "疯狂好六夜全员素颜下班",
+        "onboard_time": 1731365774,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根亚太建设亚太造福亚太#"
+    }
+  }
+}
