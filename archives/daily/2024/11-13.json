@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731433055606,
+  "endTime": 1731436172100,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -475,7 +475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35088,
+      "raw_hot": 36653,
       "num": 38578,
       "word": "大妈一个月偷肉10次还嘴硬",
       "onboard_time": 1731432793,
@@ -489,6 +489,22 @@
       "onboard_time": 1731432974,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 24208,
+      "num": 24208,
+      "word": "两个上海人就应该生出我这个",
+      "onboard_time": 1731435373,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21839,
+      "num": 24191,
+      "word": "肖战我们MV上线",
+      "onboard_time": 1731436152,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 19949,
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16278,
+      "num": 36750,
+      "word": "与28年前的首届航展跨时空联动",
+      "onboard_time": 1731433333,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 15587,
       "num": 111938,
       "word": "4000多年前古人在这里仰望星空",
@@ -521,6 +545,14 @@
       "onboard_time": 1731414744,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11842,
+      "num": 62583,
+      "word": "在自家阳台看航展是什么体验",
+      "onboard_time": 1731435432,
+      "rank": 14,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
