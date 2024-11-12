@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731440110847,
+  "endTime": 1731443015991,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -34803,6 +34803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36846,
+      "num": 30753,
+      "word": "两个上海人就应该生出我这个",
+      "onboard_time": 1731435373,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36816,
       "num": 347224,
       "word": "西双版纳文旅向麦子奶奶发出邀请",
@@ -34953,6 +34961,14 @@
       "onboard_time": 1730650398,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35194,
+      "num": 35194,
+      "word": "珠海航展女工作人员扛导弹",
+      "onboard_time": 1731441013,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 35079,
@@ -36833,14 +36849,6 @@
       "onboard_time": 1730466919,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24208,
-      "num": 24208,
-      "word": "两个上海人就应该生出我这个",
-      "onboard_time": 1731435373,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 24100,
@@ -39169,6 +39177,14 @@
       "onboard_time": 1730770818,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 9928,
+      "num": 31027,
+      "word": "2025年放假日历来了",
+      "onboard_time": 1731442630,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9797,
