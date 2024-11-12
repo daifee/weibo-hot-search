@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731450049933,
+  "endTime": 1731451131092,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -427,6 +427,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58738,
+      "num": 54695,
+      "word": "两个上海人就应该生出我这个",
+      "onboard_time": 1731435373,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58202,
+      "num": 58202,
+      "word": "珠海航展女工作人员扛导弹",
+      "onboard_time": 1731441013,
+      "rank": 8,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 55595,
+      "num": 55595,
+      "word": "吴姗姗想占宋莹房子",
+      "onboard_time": 1731447550,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54943,
       "num": 260884,
       "word": "歼35A航展首秀就放了个大招",
@@ -459,12 +483,12 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 43091,
-      "num": 43091,
-      "word": "珠海航展女工作人员扛导弹",
-      "onboard_time": 1731441013,
-      "rank": 8,
-      "category": "军事"
+      "raw_hot": 44224,
+      "num": 44224,
+      "word": "大妈一个月偷肉10次还嘴硬",
+      "onboard_time": 1731432793,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41428,
@@ -475,14 +499,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 39051,
-      "num": 39051,
-      "word": "两个上海人就应该生出我这个",
-      "onboard_time": 1731435373,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38773,
       "num": 558601,
       "word": "多个大国重器惊艳亮相",
@@ -491,11 +507,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36653,
-      "num": 38578,
-      "word": "大妈一个月偷肉10次还嘴硬",
-      "onboard_time": 1731432793,
-      "rank": 46,
+      "raw_hot": 35903,
+      "num": 35903,
+      "word": "洗浴中心回应男子洗浴时死亡",
+      "onboard_time": 1731444790,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -507,20 +523,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 29450,
-      "num": 32804,
-      "word": "吴姗姗想占宋莹房子",
-      "onboard_time": 1731447550,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28944,
-      "num": 28944,
-      "word": "洗浴中心回应男子洗浴时死亡",
-      "onboard_time": 1731444790,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 27600,
+      "num": 35901,
+      "word": "微念李子柒商标均被判无效",
+      "onboard_time": 1731443711,
+      "rank": 49,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 23124,
@@ -537,14 +545,6 @@
       "onboard_time": 1731436152,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22621,
-      "num": 24346,
-      "word": "微念李子柒商标均被判无效",
-      "onboard_time": 1731443711,
-      "rank": 49,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 20014,
@@ -611,7 +611,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 12526,
+      "raw_hot": 12574,
       "num": 437339,
       "word": "七张图带你了解秘鲁",
       "onboard_time": 1731414744,
