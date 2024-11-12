@@ -1,0 +1,410 @@
+{
+  "runTime": 1731407017852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11817197,
+        "num": 11817197,
+        "word": "全国法定节假日将增加",
+        "onboard_time": 1731402322,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6733873,
+        "num": 6733873,
+        "word": "李子柒回归",
+        "onboard_time": 1731401000,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 3851,
+        "num": 3977185,
+        "word": "万千气象看福建",
+        "onboard_time": 1731384022,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1823223,
+        "num": 1823223,
+        "word": "2025元旦放1天不调休",
+        "onboard_time": 1731404484,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821310,
+        "num": 1721055,
+        "word": "梁光烈同志逝世",
+        "onboard_time": 1731404903,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1720143,
+        "num": 1720143,
+        "word": "2025年放假安排来了",
+        "onboard_time": 1731402744,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679165,
+        "num": 1712883,
+        "word": "李子柒开始清库存了",
+        "onboard_time": 1731403645,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1707612,
+        "num": 1707612,
+        "word": "调休后上班一般不超6天",
+        "onboard_time": 1731403044,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571518,
+        "num": 1674837,
+        "word": "12位讨厌的明星聚岛上的综艺真来了",
+        "onboard_time": 1731405863,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21141,
+        "num": 1671525,
+        "word": "29岁独腿小伙登顶海拔5210米雪山",
+        "onboard_time": 1731405983,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1669834,
+        "num": 1669834,
+        "word": "除夕纳入放假",
+        "onboard_time": 1731402502,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5535353,
+        "num": 1431171,
+        "word": "宋再临去世",
+        "onboard_time": 1731406943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902368,
+        "num": 902368,
+        "word": "5月2日放假",
+        "onboard_time": 1731403705,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588943,
+        "num": 588943,
+        "word": "被医生打死老板妻子一度以为他在救人",
+        "onboard_time": 1731401722,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 33250,
+        "num": 541224,
+        "word": "电影市场观影人次急降",
+        "onboard_time": 1731406103,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735517,
+        "num": 533819,
+        "word": "春节自农历除夕起放假调休8天",
+        "onboard_time": 1731403225,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510455,
+        "num": 510455,
+        "word": "张艺兴成毅要不认识一下吧",
+        "onboard_time": 1731404003,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 472423,
+        "num": 472423,
+        "word": "将门毒后",
+        "onboard_time": 1731406042,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60362,
+        "num": 460303,
+        "word": "欧豪眼中的福建",
+        "onboard_time": 1731406343,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31864,
+        "num": 458840,
+        "word": "宿舍起火刷脸逃生学生发声",
+        "onboard_time": 1731406162,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457398,
+        "num": 457398,
+        "word": "朋友请听好3回归",
+        "onboard_time": 1731405983,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448841,
+        "num": 448841,
+        "word": "李子柒 森林衣帽间",
+        "onboard_time": 1731403884,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 396387,
+        "num": 396387,
+        "word": "永夜星河买了原版版权",
+        "onboard_time": 1731398600,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352083,
+        "num": 352083,
+        "word": "交行重庆分行一员工在工位上轻生",
+        "onboard_time": 1731405263,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289328,
+        "num": 289328,
+        "word": "女子买高仿炫耀是正品被戳穿",
+        "onboard_time": 1731403285,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286602,
+        "num": 286602,
+        "word": "永夜星河",
+        "onboard_time": 1731406522,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286498,
+        "num": 286498,
+        "word": "A股跳水原因找到了",
+        "onboard_time": 1731401479,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201815,
+        "num": 285080,
+        "word": "恋与深空总榜再次登顶送二十连",
+        "onboard_time": 1731405143,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35060,
+        "num": 284725,
+        "word": "海军陆战队亮相压迫感十足",
+        "onboard_time": 1731406223,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 209157,
+        "num": 284485,
+        "word": "张艺兴为肖战新专打call",
+        "onboard_time": 1731396680,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284387,
+        "num": 284387,
+        "word": "歼15D航展首秀惊艳全场",
+        "onboard_time": 1731405443,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 279429,
+        "num": 279429,
+        "word": "春节休8天五一休5天",
+        "onboard_time": 1731405921,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271098,
+        "num": 271098,
+        "word": "停止这种AI视频",
+        "onboard_time": 1731399859,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128606,
+        "num": 254153,
+        "word": "李子柒停更原因",
+        "onboard_time": 1731405863,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241891,
+        "num": 241891,
+        "word": "马斯克为特朗普花了2亿美元",
+        "onboard_time": 1731403104,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228811,
+        "num": 228811,
+        "word": "华为Mate70真机图曝光",
+        "onboard_time": 1731398778,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27471,
+        "num": 217574,
+        "word": "何小鹏称P7+刚过上好日子求放过",
+        "onboard_time": 1731405443,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214967,
+        "num": 214967,
+        "word": "世界之外",
+        "onboard_time": 1731405383,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204675,
+        "num": 204675,
+        "word": "丁禹兮回应虞书欣",
+        "onboard_time": 1731395419,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204301,
+        "num": 204301,
+        "word": "韩国乳业公司将为牛奶瓶申请国家遗产",
+        "onboard_time": 1731404185,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199050,
+        "num": 199050,
+        "word": "慕声 宝宝妖",
+        "onboard_time": 1731405023,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189561,
+        "num": 189561,
+        "word": "沙特VVIP们进入买买买模式",
+        "onboard_time": 1731394938,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 188038,
+        "num": 188038,
+        "word": "肖战专辑制作阵容",
+        "onboard_time": 1731406762,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155447,
+        "num": 155447,
+        "word": "白夜追凶欠了多少坑没填",
+        "onboard_time": 1731405502,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142514,
+        "num": 142514,
+        "word": "珠海航展看得我热血沸腾",
+        "onboard_time": 1731404784,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 138262,
+        "num": 138262,
+        "word": "Zika回应是否加入EDG",
+        "onboard_time": 1731405143,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134752,
+        "num": 134752,
+        "word": "向佐想要的是不是欧豪这种感觉",
+        "onboard_time": 1731407003,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130586,
+        "num": 130586,
+        "word": "DYG国风射箭体验",
+        "onboard_time": 1731406223,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130448,
+        "num": 130448,
+        "word": "军事专家航展现场一度哽咽",
+        "onboard_time": 1731406822,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 129131,
+        "num": 129131,
+        "word": "关晓彤问王安宇花少成员的关系好不好",
+        "onboard_time": 1731400339,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席看世界#"
+    }
+  }
+}
