@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731421264762,
+  "endTime": 1731422396891,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -243,8 +243,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1005839,
-      "num": 1005839,
+      "raw_hot": 1024158,
+      "num": 1024158,
       "word": "中国月壤给了意大利总统一点点震撼",
       "onboard_time": 1731419004,
       "rank": 4,
@@ -467,6 +467,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 603612,
+      "num": 603612,
+      "word": "珠海航展惊现中国版变形金刚",
+      "onboard_time": 1731420923,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 590658,
       "num": 590658,
       "word": "12岁少女谈小学成绩好的秘密走红",
@@ -675,6 +683,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 432298,
+      "num": 331014,
+      "word": "特朗普在堕胎权上的立场备受争议",
+      "onboard_time": 1731421643,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 427688,
       "num": 427688,
       "word": "假期逢周三不调休",
@@ -841,6 +857,14 @@
       "onboard_time": 1731416904,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361373,
+      "num": 361373,
+      "word": "双高胎 抢票",
+      "onboard_time": 1731420504,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 359614,
@@ -1331,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236843,
+      "num": 236843,
+      "word": "李子柒粉丝过亿",
+      "onboard_time": 1731418224,
+      "rank": 45,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 235286,
       "num": 235286,
       "word": "Burberry活动",
@@ -1345,14 +1377,6 @@
       "onboard_time": 1731333199,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227905,
-      "num": 271652,
-      "word": "双高胎 抢票",
-      "onboard_time": 1731420504,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 227776,
@@ -1411,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216320,
-      "num": 216320,
-      "word": "李子柒粉丝过亿",
-      "onboard_time": 1731418224,
-      "rank": 45,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 215331,
       "num": 288471,
       "word": "永夜星河 深藏功与名具象化",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1731405383,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212831,
+      "num": 212831,
+      "word": "京剧纪念币",
+      "onboard_time": 1731421824,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 212125,
@@ -1587,6 +1611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 195298,
+      "num": 273402,
+      "word": "丁禹兮原声",
+      "onboard_time": 1731419364,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195165,
       "num": 349563,
       "word": "ENHYPEN直播",
@@ -1673,14 +1705,6 @@
       "onboard_time": 1731415103,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188478,
-      "num": 188478,
-      "word": "珠海航展惊现中国版变形金刚",
-      "onboard_time": 1731420923,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 188127,
@@ -2027,6 +2051,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 153860,
+      "num": 153860,
+      "word": "李子柒大漆视频微博互动破百万",
+      "onboard_time": 1731421524,
+      "rank": 45,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 153434,
       "num": 153434,
       "word": "谁家学校一抬头就能看航展啊",
@@ -2113,14 +2145,6 @@
       "onboard_time": 1731386901,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147401,
-      "num": 147401,
-      "word": "丁禹兮原声",
-      "onboard_time": 1731419364,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 146958,
@@ -2835,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66148,
+      "num": 360285,
+      "word": "打卡冬日里的美丽中国",
+      "onboard_time": 1731422243,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66122,
       "num": 432675,
       "word": "于文文直播聊天蝎座",
@@ -3323,6 +3355,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 28792,
+      "num": 273386,
+      "word": "什么是天工和九章",
+      "onboard_time": 1731419303,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28573,
       "num": 796868,
       "word": "律师谈平台筹款27万后晒新房涉诈骗",
@@ -3419,14 +3459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24728,
-      "num": 224371,
-      "word": "什么是天工和九章",
-      "onboard_time": 1731419303,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 24296,
       "num": 243130,
       "word": "于正 AI先导片",
@@ -3448,6 +3480,14 @@
       "word": "沈阳街头的伦敦公园",
       "onboard_time": 1731400218,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21989,
+      "num": 154630,
+      "word": "世纪女神朱珠",
+      "onboard_time": 1731422123,
+      "rank": 44,
       "category": "艺人"
     },
     {
