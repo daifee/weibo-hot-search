@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731396955954,
+  "endTime": 1731400096344,
   "band_list": [
     {
       "raw_hot": 2258741,
@@ -57,6 +57,14 @@
       "onboard_time": 1731383058,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1295486,
+      "num": 1295486,
+      "word": "沙特VVIP们进入买买买模式",
+      "onboard_time": 1731394938,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 1184250,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 849814,
+      "num": 292112,
+      "word": "仅退款白嫖产业链调查",
+      "onboard_time": 1731397579,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 839922,
       "num": 357984,
       "word": "曝乔欣赖柏霖办喜酒",
@@ -195,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676047,
+      "num": 676047,
+      "word": "张艺兴为肖战新专打call",
+      "onboard_time": 1731396680,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 664357,
       "num": 664357,
       "word": "肖战作词",
@@ -209,6 +233,14 @@
       "onboard_time": 1731381979,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 627074,
+      "num": 286454,
+      "word": "摩托车撞上粪堆车主说炸街也不能这样做",
+      "onboard_time": 1731396799,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614423,
@@ -299,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 467282,
+      "num": 467282,
+      "word": "王安宇回应圆了华妃要孩子的梦",
+      "onboard_time": 1731396379,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462976,
       "num": 390130,
       "word": "林一沈月cos赵露思刘宇宁",
@@ -323,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 446916,
+      "num": 292953,
+      "word": "慕声隐身玩妙妙发带",
+      "onboard_time": 1731395479,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 438351,
+      "num": 290182,
+      "word": "田曦薇昵称 你别管我了",
+      "onboard_time": 1731398239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433564,
       "num": 183523,
       "word": "特朗普提名强硬派霍曼为边境事务负责人",
@@ -336,14 +392,6 @@
       "word": "周雨彤新剧首发预告",
       "onboard_time": 1731393858,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 422044,
-      "num": 287411,
-      "word": "慕声隐身玩妙妙发带",
-      "onboard_time": 1731395479,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -467,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351505,
+      "num": 288662,
+      "word": "肖战绝望哥vs希望哥",
+      "onboard_time": 1731397339,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 351148,
+      "num": 288197,
+      "word": "华为Mate70真机图曝光",
+      "onboard_time": 1731398778,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 343698,
       "num": 418221,
       "word": "太阳星辰定档",
@@ -563,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294544,
-      "num": 349495,
-      "word": "沙特VVIP们进入买买买模式",
-      "onboard_time": 1731394938,
-      "rank": 13,
-      "category": "军事"
+      "raw_hot": 294440,
+      "num": 294440,
+      "word": "伊朗空军司令仔细参观歼10CE",
+      "onboard_time": 1731397819,
+      "rank": 4,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 293188,
@@ -601,14 +665,6 @@
       "onboard_time": 1731387202,
       "rank": 31,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 276520,
-      "num": 276520,
-      "word": "张艺兴为肖战新专打call",
-      "onboard_time": 1731396680,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 276131,
@@ -707,6 +763,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 259393,
+      "num": 259393,
+      "word": "芒果招商会",
+      "onboard_time": 1731398660,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257476,
       "num": 257476,
       "word": "官方再次回应万安县95后女干部提拔副科",
@@ -771,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235286,
+      "num": 235286,
+      "word": "Burberry活动",
+      "onboard_time": 1731398840,
+      "rank": 26,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 230058,
+      "num": 230058,
+      "word": "永夜星河买了原版版权",
+      "onboard_time": 1731398600,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229667,
       "num": 229667,
       "word": "林虞爸爸 妙妙子期都是谁啊",
@@ -801,14 +881,6 @@
       "onboard_time": 1731378919,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 219036,
-      "num": 219036,
-      "word": "王安宇回应圆了华妃要孩子的梦",
-      "onboard_time": 1731396379,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 216901,
@@ -955,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192920,
+      "num": 192920,
+      "word": "杨倩备战新的奥运周期",
+      "onboard_time": 1731398778,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192410,
       "num": 192410,
       "word": "永夜星河 群像的魅力",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1731359351,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178481,
+      "num": 178481,
+      "word": "丁禹兮是虞书欣铁粉",
+      "onboard_time": 1731397039,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 178427,
@@ -1153,6 +1241,14 @@
       "onboard_time": 1731386601,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164654,
+      "num": 164654,
+      "word": "关晓彤回应和闫妮是微醺母女",
+      "onboard_time": 1731396859,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 164546,
@@ -1315,6 +1411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141621,
+      "num": 141621,
+      "word": "珠海航展有自己的双十一",
+      "onboard_time": 1731393738,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 141400,
       "num": 141400,
       "word": "林诗栋6270分世排第二",
@@ -1363,14 +1467,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 136166,
-      "num": 136166,
-      "word": "珠海航展有自己的双十一",
-      "onboard_time": 1731393738,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 135538,
       "num": 135538,
       "word": "永夜星河 捡手机",
@@ -1403,12 +1499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131386,
-      "num": 131386,
-      "word": "摩托车撞上粪堆车主说炸街也不能这样做",
-      "onboard_time": 1731396799,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 131002,
+      "num": 187175,
+      "word": "金鸡奖官方提名手册介绍",
+      "onboard_time": 1731396919,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 129467,
@@ -1433,14 +1529,6 @@
       "onboard_time": 1731375619,
       "rank": 12,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 127062,
-      "num": 117973,
-      "word": "关晓彤回应和闫妮是微醺母女",
-      "onboard_time": 1731396859,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 126839,
@@ -1515,6 +1603,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117602,
+      "num": 117602,
+      "word": "Uzi老头杯请来Tabe",
+      "onboard_time": 1731397279,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112580,
       "num": 112580,
       "word": "祝绪丹 闫妮赛道嫡长女",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1731337400,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111320,
+      "num": 111320,
+      "word": "周三其实应该是休息日才对",
+      "onboard_time": 1731399918,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 111296,
@@ -1547,6 +1651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 109708,
+      "num": 109708,
+      "word": "我国军机的命名形象又浪漫",
+      "onboard_time": 1731399918,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 108246,
       "num": 108246,
       "word": "王艺迪世界排名上升至第3",
@@ -1555,12 +1667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108187,
+      "num": 108187,
+      "word": "需要一个这么有种的邻居",
+      "onboard_time": 1731399259,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106863,
       "num": 108818,
       "word": "发型师晓华回应同行质疑",
       "onboard_time": 1731343217,
       "rank": 24,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 105635,
+      "num": 105635,
+      "word": "广州的路上电鸡电鸡电鸡电鸡电鸡",
+      "onboard_time": 1731399679,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104510,
@@ -1672,6 +1800,22 @@
       "word": "蔡磊破冰驿站跻身双11带货榜前10",
       "onboard_time": 1731342377,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87990,
+      "num": 289415,
+      "word": "金价失守2600美元关口",
+      "onboard_time": 1731397699,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 86008,
+      "num": 292281,
+      "word": "重庆8人荣登2024年第三季度中国好人榜",
+      "onboard_time": 1731399559,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1907,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52454,
+      "num": 286841,
+      "word": "普通家庭可尽量避免入手黄金期货",
+      "onboard_time": 1731398420,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49129,
       "num": 51389,
       "word": "王鹤棣演唱会",
@@ -1977,14 +2129,6 @@
       "onboard_time": 1731341957,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42202,
-      "num": 187175,
-      "word": "金鸡奖官方提名手册介绍",
-      "onboard_time": 1731396919,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 41980,
@@ -2179,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22665,
+      "num": 289984,
+      "word": "学校停电4天千余小学生摸黑上课",
+      "onboard_time": 1731398960,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21886,
       "num": 345895,
       "word": "表达情绪对男性来说有多难",
@@ -2283,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15863,
+      "num": 529089,
+      "word": "万千气象看福建",
+      "onboard_time": 1731384022,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14676,
       "num": 17733,
       "word": "小巷人家向鹏飞哭戏感染力",
@@ -2345,14 +2505,6 @@
       "onboard_time": 1731360911,
       "rank": 29,
       "category": "军事"
-    },
-    {
-      "raw_hot": 10587,
-      "num": 527163,
-      "word": "万千气象看福建",
-      "onboard_time": 1731384022,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9969,
