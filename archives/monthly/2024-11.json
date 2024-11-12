@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731386418088,
+  "endTime": 1731388885445,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3331,6 +3331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 910814,
+      "num": 1145730,
+      "word": "上海交大恭喜庄筱婷林栋哲入学",
+      "onboard_time": 1731386002,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 910242,
       "num": 1145638,
       "word": "校方回应年薪50万送住房招老师",
@@ -4147,6 +4155,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 776355,
+      "num": 776355,
+      "word": "熏鸡销量",
+      "onboard_time": 1731383961,
+      "rank": 6,
+      "category": "美食,综艺"
+    },
+    {
       "raw_hot": 775914,
       "num": 775914,
       "word": "幼儿园招聘需做背景查询",
@@ -4385,14 +4401,6 @@
       "onboard_time": 1731055940,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 739274,
-      "num": 739274,
-      "word": "熏鸡销量",
-      "onboard_time": 1731383961,
-      "rank": 6,
-      "category": "美食,综艺"
     },
     {
       "raw_hot": 738965,
@@ -5025,6 +5033,14 @@
       "onboard_time": 1730430978,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657845,
+      "num": 657845,
+      "word": "永夜星河插曲疑似借鉴三寸天堂",
+      "onboard_time": 1731385882,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 657422,
@@ -7091,6 +7107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 504172,
+      "num": 380262,
+      "word": "早恋15岁男孩曾被家长没收电子产品",
+      "onboard_time": 1731382579,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504081,
       "num": 504081,
       "word": "美国威斯康星州一地将重新计票",
@@ -7505,6 +7529,14 @@
       "onboard_time": 1730432598,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 474253,
+      "num": 287425,
+      "word": "家人回应女子月薪4千贷款1400万买房",
+      "onboard_time": 1731386421,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472712,
@@ -8979,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392105,
+      "num": 392105,
+      "word": "今天全网最令人羡慕的工作",
+      "onboard_time": 1731385520,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 392004,
       "num": 392004,
       "word": "向佐火到印度了",
@@ -9249,14 +9289,6 @@
       "onboard_time": 1730471060,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380262,
-      "num": 380262,
-      "word": "早恋15岁男孩曾被家长没收电子产品",
-      "onboard_time": 1731382579,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380220,
@@ -9985,6 +10017,14 @@
       "onboard_time": 1730531598,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 345189,
+      "num": 345189,
+      "word": "丁禹兮变脸",
+      "onboard_time": 1731387260,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 345004,
@@ -11371,14 +11411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295053,
-      "num": 330649,
-      "word": "永夜星河插曲疑似借鉴三寸天堂",
-      "onboard_time": 1731385882,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294658,
       "num": 249058,
       "word": "林俊杰演唱会收官",
@@ -11809,6 +11841,14 @@
       "onboard_time": 1731225079,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282514,
+      "num": 282514,
+      "word": "救援队回应15岁早恋男孩已溺亡",
+      "onboard_time": 1731387021,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282059,
@@ -13243,6 +13283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246580,
+      "num": 419767,
+      "word": "歼35A一出场垂直筋斗",
+      "onboard_time": 1731386182,
+      "rank": 8,
+      "category": "军事"
+    },
+    {
       "raw_hot": 246527,
       "num": 246527,
       "word": "留学了才发现鸡蛋是个很善良的食物",
@@ -13345,6 +13393,14 @@
       "onboard_time": 1730610799,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242342,
+      "num": 242342,
+      "word": "医生多看一眼让她寿命多10年",
+      "onboard_time": 1731387501,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242121,
@@ -13923,6 +13979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230129,
+      "num": 230129,
+      "word": "孕妈生产时太用力致面部毛细血管破裂",
+      "onboard_time": 1731387202,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 230092,
       "num": 219978,
       "word": "虞书欣丁禹兮双人古风写真已安排",
@@ -14339,6 +14403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221217,
+      "num": 221217,
+      "word": "青海被殴身亡便利店老板亲属发声",
+      "onboard_time": 1731387921,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221148,
       "num": 221148,
       "word": "容祖儿 心淡",
@@ -14564,7 +14636,7 @@
     },
     {
       "raw_hot": 216901,
-      "num": 216901,
+      "num": 238778,
       "word": "国色芳华",
       "onboard_time": 1731385821,
       "rank": 38,
@@ -14697,14 +14769,6 @@
       "onboard_time": 1730683279,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 214529,
-      "num": 214529,
-      "word": "今天全网最令人羡慕的工作",
-      "onboard_time": 1731385520,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 214504,
@@ -15609,6 +15673,14 @@
       "onboard_time": 1730697261,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204837,
+      "num": 346953,
+      "word": "肖战专辑登世趋第四",
+      "onboard_time": 1731387682,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 204825,
@@ -16753,6 +16825,14 @@
       "onboard_time": 1731125240,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195655,
+      "num": 430456,
+      "word": "歼35A表演首秀",
+      "onboard_time": 1731384621,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 195640,
@@ -18155,6 +18235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182604,
+      "num": 182604,
+      "word": "2024年王者荣耀挑战者杯",
+      "onboard_time": 1731388342,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182598,
       "num": 182598,
       "word": "雪地靴一穿冬天的感觉就来了",
@@ -19027,6 +19115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175372,
+      "num": 221456,
+      "word": "严艺丹回应永夜星河BGM争议",
+      "onboard_time": 1731388100,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175289,
       "num": 566344,
       "word": "成都太古里回应Tiffany专柜被砸",
@@ -19177,14 +19273,6 @@
       "onboard_time": 1731223160,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173848,
-      "num": 430456,
-      "word": "歼35A表演首秀",
-      "onboard_time": 1731384621,
-      "rank": 8,
-      "category": "军事"
     },
     {
       "raw_hot": 173671,
@@ -20091,6 +20179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166215,
+      "num": 166215,
+      "word": "萧逸正脸",
+      "onboard_time": 1731386601,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166087,
       "num": 166087,
       "word": "Rookie白色月牙谈iG重组",
@@ -20643,6 +20739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161885,
+      "num": 161885,
+      "word": "端阳帝姬人设",
+      "onboard_time": 1731388519,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161851,
       "num": 552552,
       "word": "涟水中专教师王某某被诫勉谈话",
@@ -20865,14 +20969,6 @@
       "onboard_time": 1730435299,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160577,
-      "num": 419767,
-      "word": "歼35A一出场垂直筋斗",
-      "onboard_time": 1731386182,
-      "rank": 8,
-      "category": "军事"
     },
     {
       "raw_hot": 160483,
@@ -22553,6 +22649,14 @@
       "onboard_time": 1730982561,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147457,
+      "num": 147457,
+      "word": "Sofm复盘一喷四",
+      "onboard_time": 1731386901,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 147436,
@@ -24315,6 +24419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133119,
+      "num": 133119,
+      "word": "成都混合团体世界杯门票15号开售",
+      "onboard_time": 1731388820,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133103,
       "num": 133103,
       "word": "永夜星河热度破29500",
@@ -24336,6 +24448,14 @@
       "word": "田嘉瑞演技",
       "onboard_time": 1731252980,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132955,
+      "num": 132955,
+      "word": "鸡柳哥是真的饿了",
+      "onboard_time": 1731386722,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -26899,6 +27019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 110880,
+      "num": 316619,
+      "word": "炎亚纶称飞轮海不会再合体",
+      "onboard_time": 1731388582,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110858,
       "num": 110858,
       "word": "WTT中国大满贯女单决赛刷新收视纪录",
@@ -27425,6 +27553,14 @@
       "onboard_time": 1731334220,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105621,
+      "num": 341814,
+      "word": "歼35A开加力出现马赫环",
+      "onboard_time": 1731387682,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 105496,
@@ -28779,14 +28915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85740,
-      "num": 407539,
-      "word": "上海交大恭喜庄筱婷林栋哲入学",
-      "onboard_time": 1731386002,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85730,
       "num": 412466,
       "word": "外交部回应美国总统选举结果",
@@ -29337,6 +29465,14 @@
       "onboard_time": 1731232819,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76243,
+      "num": 369054,
+      "word": "严艺丹回应永夜星河bgm争议",
+      "onboard_time": 1731387381,
+      "rank": 9,
+      "category": "剧集,音乐"
     },
     {
       "raw_hot": 76131,

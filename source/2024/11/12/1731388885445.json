@@ -1,0 +1,410 @@
+{
+  "runTime": 1731388885445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910814,
+        "num": 1145730,
+        "word": "上海交大恭喜庄筱婷林栋哲入学",
+        "onboard_time": 1731386002,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 776355,
+        "num": 776355,
+        "word": "熏鸡销量",
+        "onboard_time": 1731383961,
+        "rank": 1,
+        "category": "美食,综艺"
+      },
+      {
+        "raw_hot": 25090,
+        "num": 705365,
+        "word": "第十五届中国航展今日开幕",
+        "onboard_time": 1731371780,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 657845,
+        "num": 657845,
+        "word": "永夜星河插曲疑似借鉴三寸天堂",
+        "onboard_time": 1731385882,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535156,
+        "num": 535156,
+        "word": "金价再跳水",
+        "onboard_time": 1731375739,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392105,
+        "num": 392105,
+        "word": "今天全网最令人羡慕的工作",
+        "onboard_time": 1731385520,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 538713,
+        "num": 390129,
+        "word": "肖战作词",
+        "onboard_time": 1731380299,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384125,
+        "num": 384125,
+        "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
+        "onboard_time": 1731376759,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 369209,
+        "num": 369209,
+        "word": "曝某手机厂商暂停大折叠产品线",
+        "onboard_time": 1731381979,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76243,
+        "num": 369054,
+        "word": "严艺丹回应永夜星河bgm争议",
+        "onboard_time": 1731387381,
+        "rank": 9,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 1252272,
+        "num": 365888,
+        "word": "马思纯在张若昀婚礼当伴郎的原因",
+        "onboard_time": 1731384320,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1101590,
+        "num": 362864,
+        "word": "向太回赠发型师晓华绝版包包",
+        "onboard_time": 1731383239,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 672549,
+        "num": 357992,
+        "word": "烧伤妈妈说她实在熬不住了",
+        "onboard_time": 1731378859,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670208,
+        "num": 354625,
+        "word": "难听",
+        "onboard_time": 1731381979,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 504172,
+        "num": 351363,
+        "word": "早恋15岁男孩曾被家长没收电子产品",
+        "onboard_time": 1731382579,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350963,
+        "num": 350963,
+        "word": "12岁少女谈小学成绩好的秘密走红",
+        "onboard_time": 1731376938,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204837,
+        "num": 346953,
+        "word": "肖战专辑登世趋第四",
+        "onboard_time": 1731387682,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345189,
+        "num": 345189,
+        "word": "丁禹兮变脸",
+        "onboard_time": 1731387260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105621,
+        "num": 341814,
+        "word": "歼35A开加力出现马赫环",
+        "onboard_time": 1731387682,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 110880,
+        "num": 316619,
+        "word": "炎亚纶称飞轮海不会再合体",
+        "onboard_time": 1731388582,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551659,
+        "num": 307479,
+        "word": "体制内人士称事业编提副科很少见",
+        "onboard_time": 1731370339,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474253,
+        "num": 287425,
+        "word": "家人回应女子月薪4千贷款1400万买房",
+        "onboard_time": 1731386421,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282514,
+        "num": 282514,
+        "word": "救援队回应15岁早恋男孩已溺亡",
+        "onboard_time": 1731387021,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264274,
+        "num": 264274,
+        "word": "中年女性患上了结婚羞耻症",
+        "onboard_time": 1731384379,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252727,
+        "num": 252727,
+        "word": "向佐火到印度了",
+        "onboard_time": 1731384801,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246580,
+        "num": 246580,
+        "word": "歼35A一出场垂直筋斗",
+        "onboard_time": 1731386182,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 242342,
+        "num": 242342,
+        "word": "医生多看一眼让她寿命多10年",
+        "onboard_time": 1731387501,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221471,
+        "num": 239222,
+        "word": "歌手2025",
+        "onboard_time": 1731378380,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189039,
+        "num": 238778,
+        "word": "国色芳华",
+        "onboard_time": 1731385821,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170056,
+        "num": 238545,
+        "word": "白夜追凶2空降不实",
+        "onboard_time": 1731374299,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238345,
+        "num": 238345,
+        "word": "幼儿园是否从此变成了国家队",
+        "onboard_time": 1731384801,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230129,
+        "num": 230129,
+        "word": "孕妈生产时太用力致面部毛细血管破裂",
+        "onboard_time": 1731387202,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 229833,
+        "num": 229833,
+        "word": "美国要求台积电停供大陆7纳米AI芯片",
+        "onboard_time": 1731371780,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221703,
+        "num": 221703,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175372,
+        "num": 221456,
+        "word": "严艺丹回应永夜星河BGM争议",
+        "onboard_time": 1731388100,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221217,
+        "num": 221217,
+        "word": "青海被殴身亡便利店老板亲属发声",
+        "onboard_time": 1731387921,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195655,
+        "num": 195655,
+        "word": "歼35A表演首秀",
+        "onboard_time": 1731384621,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 182604,
+        "num": 182604,
+        "word": "2024年王者荣耀挑战者杯",
+        "onboard_time": 1731388342,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166215,
+        "num": 166215,
+        "word": "萧逸正脸",
+        "onboard_time": 1731386601,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161885,
+        "num": 161885,
+        "word": "端阳帝姬人设",
+        "onboard_time": 1731388519,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160645,
+        "num": 160645,
+        "word": "顺产妈妈用错力致整脸肿胀",
+        "onboard_time": 1731345134,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153820,
+        "num": 153820,
+        "word": "太阳星辰定档",
+        "onboard_time": 1731382041,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147457,
+        "num": 147457,
+        "word": "Sofm复盘一喷四",
+        "onboard_time": 1731386901,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142007,
+        "num": 142007,
+        "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
+        "onboard_time": 1731379218,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138875,
+        "num": 138875,
+        "word": "歼35",
+        "onboard_time": 1731385401,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137312,
+        "num": 137312,
+        "word": "张杰跨年演唱会官宣",
+        "onboard_time": 1731386241,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133680,
+        "num": 133680,
+        "word": "金饰价格一夜下跌14元每克",
+        "onboard_time": 1731379339,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133119,
+        "num": 133119,
+        "word": "成都混合团体世界杯门票15号开售",
+        "onboard_time": 1731388820,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132991,
+        "num": 132991,
+        "word": "中东大客户已进入珠海航展现场",
+        "onboard_time": 1731380959,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 132955,
+        "num": 132955,
+        "word": "鸡柳哥是真的饿了",
+        "onboard_time": 1731386722,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为基层减负总书记这样要求#"
+    }
+  }
+}
