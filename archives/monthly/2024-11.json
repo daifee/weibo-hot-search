@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731376573602,
+  "endTime": 1731379754596,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1507,6 +1507,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1447280,
+      "num": 396815,
+      "word": "一个人吃火锅打完酱料回来锅被收了",
+      "onboard_time": 1731377118,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1443885,
       "num": 512050,
       "word": "赵露思回应网友说她以前比较好看",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1730387120,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1388735,
+      "num": 1388735,
+      "word": "金价再跳水",
+      "onboard_time": 1731375739,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 1386927,
@@ -2849,6 +2865,14 @@
       "onboard_time": 1730559922,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 987677,
+      "num": 987677,
+      "word": "肖战首专",
+      "onboard_time": 1731377899,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 986995,
@@ -4403,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729307,
+      "num": 369239,
+      "word": "烧伤妈妈说她实在熬不住了",
+      "onboard_time": 1731378859,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727405,
       "num": 569440,
       "word": "王心凌音乐节只唱4首观众齐喊退票",
@@ -5899,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 585404,
+      "num": 585404,
+      "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
+      "onboard_time": 1731376759,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
       "raw_hot": 584644,
       "num": 634636,
       "word": "盯虞兮",
@@ -6753,6 +6793,14 @@
       "onboard_time": 1730461458,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 519917,
+      "num": 519917,
+      "word": "12岁少女谈小学成绩好的秘密走红",
+      "onboard_time": 1731376938,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519602,
@@ -8507,6 +8555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 409630,
+      "num": 409630,
+      "word": "肖战我们第一小节",
+      "onboard_time": 1731377838,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 408679,
       "num": 476775,
       "word": "上海回应明天是否会台风停课",
@@ -9571,6 +9627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358238,
+      "num": 358238,
+      "word": "赵又廷 跪早了",
+      "onboard_time": 1731375978,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 358207,
       "num": 358207,
       "word": "神十八返回舱划过夜空好震撼",
@@ -9988,7 +10052,7 @@
     },
     {
       "raw_hot": 340065,
-      "num": 213027,
+      "num": 287950,
       "word": "顺产妈妈用错力致整脸肿胀",
       "onboard_time": 1731345134,
       "rank": 42,
@@ -10161,6 +10225,14 @@
       "onboard_time": 1731369618,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 334457,
+      "num": 334457,
+      "word": "歌手2025",
+      "onboard_time": 1731378380,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 334182,
@@ -12347,6 +12419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261234,
+      "num": 261234,
+      "word": "麦琳人设",
+      "onboard_time": 1731375918,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261219,
       "num": 250619,
       "word": "港媒称霍启刚不点名批杜琪峰",
@@ -13211,6 +13291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239752,
+      "num": 239752,
+      "word": "1分钟测眼睛是否健康",
+      "onboard_time": 1731374657,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 239512,
       "num": 239512,
       "word": "Doinb和Tian疑似和解",
@@ -13369,6 +13457,14 @@
       "onboard_time": 1731297978,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235328,
+      "num": 292564,
+      "word": "升级版双座歼20亮相中国航展",
+      "onboard_time": 1731379038,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 235314,
@@ -14595,14 +14691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211693,
-      "num": 407731,
-      "word": "金价再跳水",
-      "onboard_time": 1731375739,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 211656,
       "num": 211656,
       "word": "武艺 没弄清杨子来节目的意义",
@@ -14913,6 +15001,14 @@
       "onboard_time": 1730731222,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208262,
+      "num": 208262,
+      "word": "Doinb和LWX训练赛红温",
+      "onboard_time": 1731378859,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 208186,
@@ -17659,6 +17755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184198,
+      "num": 184198,
+      "word": "从歼35A视角看蓝天大地",
+      "onboard_time": 1731378919,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 184182,
       "num": 395871,
       "word": "ENHYPEN新歌not in",
@@ -18776,6 +18880,14 @@
       "word": "A股半日放量2984亿",
       "onboard_time": 1730781202,
       "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 174095,
+      "num": 174095,
+      "word": "金饰价格跌到788元",
+      "onboard_time": 1731379339,
+      "rank": 35,
       "category": "财经"
     },
     {
@@ -19971,6 +20083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164294,
+      "num": 164294,
+      "word": "尔滨又有新节目了",
+      "onboard_time": 1731377779,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164267,
       "num": 164267,
       "word": "李光洁 人夫感",
@@ -20001,14 +20121,6 @@
       "onboard_time": 1731025882,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163927,
-      "num": 163927,
-      "word": "赵又廷 跪早了",
-      "onboard_time": 1731375978,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 163738,
@@ -20177,14 +20289,6 @@
       "onboard_time": 1730599219,
       "rank": 33,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 162461,
-      "num": 162461,
-      "word": "麦琳人设",
-      "onboard_time": 1731375918,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 162294,
@@ -21275,14 +21379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154033,
-      "num": 154033,
-      "word": "1分钟测眼睛是否健康",
-      "onboard_time": 1731374657,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154028,
       "num": 151620,
       "word": "永夜星河里的陈都灵",
@@ -22011,6 +22107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148657,
+      "num": 148657,
+      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
+      "onboard_time": 1731379218,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148619,
       "num": 148619,
       "word": "时隔5年巴黎圣母院钟声再次响起",
@@ -22073,6 +22177,14 @@
       "onboard_time": 1731133699,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148246,
+      "num": 148246,
+      "word": "金饰价格一夜下跌14元每克",
+      "onboard_time": 1731379339,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 148193,
@@ -22483,12 +22595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144645,
+      "num": 144645,
+      "word": "李楷灿泡泡道歉",
+      "onboard_time": 1731376759,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144590,
       "num": 144590,
       "word": "以前的我嗤之以鼻 现在的我逐帧学习",
       "onboard_time": 1731328279,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144528,
+      "num": 248773,
+      "word": "白夜破晓",
+      "onboard_time": 1731377719,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 144525,
@@ -23465,6 +23593,14 @@
       "onboard_time": 1731289157,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136733,
+      "num": 136733,
+      "word": "袁励岑向鹏男双世界第一",
+      "onboard_time": 1731378799,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 136730,
@@ -24531,6 +24667,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 126839,
+      "num": 122473,
+      "word": "宝宝仙侠",
+      "onboard_time": 1731378618,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126805,
       "num": 126805,
       "word": "白敬亭王安宇像极了减肥时的我",
@@ -25251,6 +25395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122296,
+      "num": 166092,
+      "word": "首位歼10女飞行员余旭牺牲8周年",
+      "onboard_time": 1731376219,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122100,
       "num": 211231,
       "word": "德约科维奇退出年终总决赛",
@@ -25724,7 +25876,7 @@
     },
     {
       "raw_hot": 117666,
-      "num": 117666,
+      "num": 290126,
       "word": "空军军乐队已抵达航展现场",
       "onboard_time": 1731376098,
       "rank": 43,
@@ -26011,14 +26163,6 @@
       "category": "电竞,作品衍生"
     },
     {
-      "raw_hot": 114983,
-      "num": 166092,
-      "word": "首位歼10女飞行员余旭牺牲8周年",
-      "onboard_time": 1731376219,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114944,
       "num": 114944,
       "word": "你好星期六下期是永夜星河",
@@ -26145,6 +26289,14 @@
       "onboard_time": 1730888361,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114187,
+      "num": 295923,
+      "word": "伊津野英昭入职腾讯",
+      "onboard_time": 1731379459,
+      "rank": 19,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 114139,
@@ -29113,6 +29265,14 @@
       "onboard_time": 1730875466,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70683,
+      "num": 401897,
+      "word": "绍伊古将参观中国航展",
+      "onboard_time": 1731378380,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 70667,
@@ -33323,6 +33483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29851,
+      "num": 122571,
+      "word": "当鸿蒙牵手日产",
+      "onboard_time": 1731379399,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29760,
       "num": 323145,
       "word": "美国多数选民担忧暴力及舞弊",
@@ -33529,6 +33697,14 @@
       "onboard_time": 1731174973,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 28126,
+      "num": 362378,
+      "word": "任天堂直面会",
+      "onboard_time": 1731379279,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 28115,
@@ -36388,7 +36564,7 @@
     },
     {
       "raw_hot": 6904,
-      "num": 522946,
+      "num": 1102215,
       "word": "一组图带你看懂COP29",
       "onboard_time": 1731328159,
       "rank": 2,
