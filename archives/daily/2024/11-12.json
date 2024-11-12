@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731382774441,
+  "endTime": 1731385574323,
   "band_list": [
     {
       "raw_hot": 2258741,
@@ -17,6 +17,14 @@
       "onboard_time": 1731374299,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1690471,
+      "num": 427400,
+      "word": "向太回赠发型师晓华绝版包包",
+      "onboard_time": 1731383239,
+      "rank": 10,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1493885,
@@ -75,12 +83,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 927700,
+      "num": 1148432,
+      "word": "野人 歌词",
+      "onboard_time": 1731383058,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 876094,
       "num": 816769,
       "word": "发型师晓华爆改乌克兰宝爸",
       "onboard_time": 1731332780,
       "rank": 10,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 851753,
+      "num": 416605,
+      "word": "马思纯在张若昀婚礼当伴郎的原因",
+      "onboard_time": 1731384320,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 710854,
@@ -115,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 648140,
+      "num": 648140,
+      "word": "曝某手机厂商暂停大折叠产品线",
+      "onboard_time": 1731381979,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 590658,
       "num": 590658,
       "word": "12岁少女谈小学成绩好的秘密走红",
@@ -129,6 +161,14 @@
       "onboard_time": 1731328637,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 562003,
+      "num": 562003,
+      "word": "熏鸡销量",
+      "onboard_time": 1731383961,
+      "rank": 6,
+      "category": "美食,综艺"
     },
     {
       "raw_hot": 552736,
@@ -203,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 407145,
+      "num": 407145,
+      "word": "光遇复刻",
+      "onboard_time": 1731385041,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 397511,
       "num": 397511,
       "word": "美发行业早就应该整顿了",
@@ -267,6 +315,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343748,
+      "num": 343748,
+      "word": "向佐火到印度了",
+      "onboard_time": 1731384801,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343698,
+      "num": 418221,
+      "word": "太阳星辰定档",
+      "onboard_time": 1731382041,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 341113,
+      "num": 341113,
+      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
+      "onboard_time": 1731379218,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340065,
       "num": 317097,
       "word": "顺产妈妈用错力致整脸肿胀",
@@ -289,6 +361,14 @@
       "onboard_time": 1731369618,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 334060,
+      "num": 334060,
+      "word": "早恋15岁男孩曾被家长没收电子产品",
+      "onboard_time": 1731382579,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329197,
@@ -331,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293639,
+      "num": 293639,
+      "word": "中年女性患上了结婚羞耻症",
+      "onboard_time": 1731384379,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293188,
       "num": 293188,
       "word": "仅3厘米大的核舟窗户居然能开关",
@@ -363,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271459,
-      "num": 271459,
-      "word": "曝某手机厂商暂停大折叠产品线",
-      "onboard_time": 1731381979,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 271091,
       "num": 207611,
       "word": "无法共情刚分手时伤心的自己",
@@ -395,20 +475,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 261669,
-      "num": 261669,
-      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
-      "onboard_time": 1731379218,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261234,
       "num": 261234,
       "word": "麦琳人设",
       "onboard_time": 1731375918,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260568,
+      "num": 400355,
+      "word": "王鹤棣泰国演唱会票价",
+      "onboard_time": 1731381499,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 259921,
+      "num": 362646,
+      "word": "中东大客户已进入珠海航展现场",
+      "onboard_time": 1731380959,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 257476,
@@ -427,20 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254714,
-      "num": 254714,
-      "word": "太阳星辰定档",
-      "onboard_time": 1731382041,
-      "rank": 28,
+      "raw_hot": 254231,
+      "num": 342328,
+      "word": "白夜追凶2空降不实",
+      "onboard_time": 1731374299,
+      "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251094,
-      "num": 362646,
-      "word": "中东大客户已进入珠海航展现场",
-      "onboard_time": 1731380959,
-      "rank": 13,
-      "category": "军事"
     },
     {
       "raw_hot": 243654,
@@ -475,20 +555,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 221246,
+      "num": 221246,
+      "word": "幼儿园是否从此变成了国家队",
+      "onboard_time": 1731384801,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210406,
       "num": 210406,
       "word": "雷军 我马上去催一下",
       "onboard_time": 1731323539,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 208268,
-      "num": 252767,
-      "word": "王鹤棣泰国演唱会票价",
-      "onboard_time": 1731381499,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 208262,
@@ -523,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204578,
+      "num": 204578,
+      "word": "永夜星河 深藏功与名具象化",
+      "onboard_time": 1731382999,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201255,
       "num": 201255,
       "word": "金饰价格跌到788元",
@@ -547,6 +635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187889,
+      "num": 187889,
+      "word": "Doinb谈小草包不打训练赛",
+      "onboard_time": 1731385101,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "妈妈一个人改造了女儿的房间",
@@ -569,6 +665,14 @@
       "onboard_time": 1731331820,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183299,
+      "num": 487537,
+      "word": "歼35系列战机的先进程度专家不敢说",
+      "onboard_time": 1731381439,
+      "rank": 12,
+      "category": "军事"
     },
     {
       "raw_hot": 179725,
@@ -603,8 +707,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173990,
-      "num": 226768,
+      "raw_hot": 174580,
+      "num": 341231,
       "word": "水龙吟",
       "onboard_time": 1731380299,
       "rank": 44,
@@ -617,6 +721,14 @@
       "onboard_time": 1731377779,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172957,
+      "num": 172957,
+      "word": "歼35",
+      "onboard_time": 1731385401,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 172697,
@@ -633,6 +745,14 @@
       "onboard_time": 1731381919,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 166618,
+      "num": 166618,
+      "word": "光与夜之恋",
+      "onboard_time": 1731383779,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 166444,
@@ -683,6 +803,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 153743,
+      "num": 153743,
+      "word": "今天全网最令人羡慕的工作",
+      "onboard_time": 1731385520,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 153434,
       "num": 153434,
       "word": "谁家学校一抬头就能看航展啊",
@@ -731,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143292,
+      "num": 430456,
+      "word": "歼35A表演首秀",
+      "onboard_time": 1731384621,
+      "rank": 8,
+      "category": "军事"
+    },
+    {
       "raw_hot": 141400,
       "num": 141400,
       "word": "林诗栋6270分世排第二",
@@ -761,14 +897,6 @@
       "onboard_time": 1731331339,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129099,
-      "num": 487537,
-      "word": "歼35系列战机的先进程度专家不敢说",
-      "onboard_time": 1731381439,
-      "rank": 12,
-      "category": "军事"
     },
     {
       "raw_hot": 128699,
@@ -971,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92407,
+      "num": 341551,
+      "word": "航展现场粉丝排队与徐枫灿合照",
+      "onboard_time": 1731384201,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 92013,
       "num": 92013,
       "word": "华晨宇在粉丝身后排队买饭",
@@ -1163,6 +1299,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52654,
+      "num": 414141,
+      "word": "180天重启计划想回家海报",
+      "onboard_time": 1731384440,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50808,
+      "num": 411194,
+      "word": "女子为躲债半价转让房产遭起诉",
+      "onboard_time": 1731384440,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49129,
       "num": 51389,
       "word": "王鹤棣演唱会",
@@ -1227,12 +1379,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41863,
+      "num": 429239,
+      "word": "为什么越刷短视频越空虚",
+      "onboard_time": 1731384741,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40452,
+      "num": 762352,
+      "word": "第十五届中国航展今日开幕",
+      "onboard_time": 1731371780,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 38355,
       "num": 199194,
       "word": "中国航展28年名场面",
       "onboard_time": 1731374840,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 34824,
+      "num": 421877,
+      "word": "4个直播间买11块和田玉7件是假货",
+      "onboard_time": 1731384561,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34497,
@@ -1244,7 +1420,7 @@
     },
     {
       "raw_hot": 34335,
-      "num": 335685,
+      "num": 420350,
       "word": "警方辟谣天津某大学有学生被杀害",
       "onboard_time": 1731382220,
       "rank": 14,
@@ -1297,6 +1473,14 @@
       "onboard_time": 1731318738,
       "rank": 49,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 25254,
+      "num": 412400,
+      "word": "什么是气血充盈的东方美",
+      "onboard_time": 1731384080,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 25126,
@@ -1497,6 +1681,9 @@
     },
     {
       "word": "#习近平复信巴西各界友好人士#"
+    },
+    {
+      "word": "#为基层减负总书记这样要求#"
     }
   ]
 }
