@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731400096344,
+  "endTime": 1731400925022,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1124397,
+      "num": 292112,
+      "word": "仅退款白嫖产业链调查",
+      "onboard_time": 1731397579,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1119164,
       "num": 450419,
       "word": "男子凌晨在巷子被捅8刀致死",
@@ -697,14 +705,6 @@
       "onboard_time": 1731244701,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 849814,
-      "num": 292112,
-      "word": "仅退款白嫖产业链调查",
-      "onboard_time": 1731397579,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 846937,
@@ -1411,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 509472,
+      "num": 509472,
+      "word": "华为Mate70真机图曝光",
+      "onboard_time": 1731398778,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 507790,
       "num": 507790,
       "word": "米诺地尔副作用",
@@ -1667,6 +1675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 447291,
+      "num": 290182,
+      "word": "田曦薇昵称 你别管我了",
+      "onboard_time": 1731398239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 447018,
       "num": 447018,
       "word": "再见爱人 华人春晚",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1731251899,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 438351,
-      "num": 290182,
-      "word": "田曦薇昵称 你别管我了",
-      "onboard_time": 1731398239,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 437105,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1731384801,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390313,
+      "num": 288662,
+      "word": "肖战绝望哥vs希望哥",
+      "onboard_time": 1731397339,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 389192,
@@ -2147,22 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351505,
-      "num": 288662,
-      "word": "肖战绝望哥vs希望哥",
-      "onboard_time": 1731397339,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 351148,
-      "num": 288197,
-      "word": "华为Mate70真机图曝光",
-      "onboard_time": 1731398778,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 348643,
       "num": 336605,
       "word": "飞机偶遇田曦薇",
@@ -2369,6 +2369,14 @@
       "onboard_time": 1731248120,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 314653,
+      "num": 269526,
+      "word": "停止这种AI视频",
+      "onboard_time": 1731399859,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 312802,
@@ -2795,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261815,
+      "num": 271589,
+      "word": "永夜星河买了原版版权",
+      "onboard_time": 1731398600,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261234,
       "num": 261234,
       "word": "麦琳人设",
@@ -3168,14 +3184,6 @@
       "word": "虞书欣丁禹兮双人古风写真已安排",
       "onboard_time": 1731225619,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 230058,
-      "num": 230058,
-      "word": "永夜星河买了原版版权",
-      "onboard_time": 1731398600,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -3931,6 +3939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194435,
+      "num": 194435,
+      "word": "再见爱人第一季 笑红尘",
+      "onboard_time": 1731400098,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194197,
       "num": 186320,
       "word": "仙逆王林化神新皮肤上线",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1731385101,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189106,
+      "num": 189106,
+      "word": "关晓彤问王安宇花少成员的关系好不好",
+      "onboard_time": 1731400339,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 187880,
@@ -4795,6 +4819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166587,
+      "num": 166587,
+      "word": "恋与深空登顶",
+      "onboard_time": 1731400819,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166444,
       "num": 166444,
       "word": "比特币",
@@ -5073,6 +5105,14 @@
       "onboard_time": 1731390380,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158983,
+      "num": 158983,
+      "word": "约旦小哥看见歼35A走不动道了",
+      "onboard_time": 1731400339,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 158431,
@@ -5411,6 +5451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149636,
+      "num": 149636,
+      "word": "珠海航展有自己的双十一",
+      "onboard_time": 1731393738,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 149604,
       "num": 149604,
       "word": "小狗簪花 世世漂亮",
@@ -5627,14 +5675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141621,
-      "num": 141621,
-      "word": "珠海航展有自己的双十一",
-      "onboard_time": 1731393738,
-      "rank": 48,
-      "category": "军事"
-    },
-    {
       "raw_hot": 141400,
       "num": 141400,
       "word": "林诗栋6270分世排第二",
@@ -5681,6 +5721,14 @@
       "onboard_time": 1731395719,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 140086,
+      "num": 140086,
+      "word": "周三其实应该是休息日才对",
+      "onboard_time": 1731399918,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 140031,
@@ -5737,6 +5785,14 @@
       "onboard_time": 1731208159,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138890,
+      "num": 189117,
+      "word": "歼35A飞着飞着就开始隐身了",
+      "onboard_time": 1731400578,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 138620,
@@ -5899,6 +5955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134033,
+      "num": 187175,
+      "word": "金鸡奖官方提名手册介绍",
+      "onboard_time": 1731396919,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133119,
       "num": 133119,
       "word": "成都混合团体世界杯门票15号开售",
@@ -5953,14 +6017,6 @@
       "onboard_time": 1731289937,
       "rank": 38,
       "category": "军事"
-    },
-    {
-      "raw_hot": 131002,
-      "num": 187175,
-      "word": "金鸡奖官方提名手册介绍",
-      "onboard_time": 1731396919,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 130621,
@@ -6251,6 +6307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121670,
+      "num": 121670,
+      "word": "我国军机的命名形象又浪漫",
+      "onboard_time": 1731399918,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "为中国航天点赞",
@@ -6289,6 +6353,14 @@
       "onboard_time": 1731294499,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119945,
+      "num": 119945,
+      "word": "秦彻 大小姐的秘密情人",
+      "onboard_time": 1731400759,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 119627,
@@ -6483,14 +6555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111320,
-      "num": 111320,
-      "word": "周三其实应该是休息日才对",
-      "onboard_time": 1731399918,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111296,
       "num": 111296,
       "word": "实拍4架歼20多次大角度拉升后翻转",
@@ -6513,14 +6577,6 @@
       "onboard_time": 1731156799,
       "rank": 40,
       "category": "国外时政,国内时政"
-    },
-    {
-      "raw_hot": 109708,
-      "num": 109708,
-      "word": "我国军机的命名形象又浪漫",
-      "onboard_time": 1731399918,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 109372,
@@ -6795,6 +6851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101483,
+      "num": 292281,
+      "word": "重庆8人荣登2024年第三季度中国好人榜",
+      "onboard_time": 1731399559,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100839,
       "num": 100839,
       "word": "高芙成为20年来WTA最年轻冠军",
@@ -7019,14 +7083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86008,
-      "num": 292281,
-      "word": "重庆8人荣登2024年第三季度中国好人榜",
-      "onboard_time": 1731399559,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82769,
       "num": 82769,
       "word": "麦琳退了女儿喜欢的汉服",
@@ -7249,6 +7305,14 @@
       "onboard_time": 1731170358,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 72315,
+      "num": 286841,
+      "word": "普通家庭可尽量避免入手黄金期货",
+      "onboard_time": 1731398420,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 71876,
@@ -7571,6 +7635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58524,
+      "num": 270941,
+      "word": "挑杯决赛首迎BO9赛制",
+      "onboard_time": 1731400098,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57573,
       "num": 151480,
       "word": "歼35A歼20苏57首次同台",
@@ -7771,14 +7843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52454,
-      "num": 286841,
-      "word": "普通家庭可尽量避免入手黄金期货",
-      "onboard_time": 1731398420,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 52430,
       "num": 372698,
       "word": "失笑巡回开麦直播局",
@@ -7889,6 +7953,14 @@
       "onboard_time": 1731384561,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46861,
+      "num": 273820,
+      "word": "歼15家族空中合影",
+      "onboard_time": 1731400639,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 46574,
@@ -8160,6 +8232,14 @@
       "word": "老人黄昏恋花1万6后人消失了",
       "onboard_time": 1731243619,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37779,
+      "num": 289984,
+      "word": "学校停电4天千余小学生摸黑上课",
+      "onboard_time": 1731398960,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -8691,14 +8771,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 22665,
-      "num": 289984,
-      "word": "学校停电4天千余小学生摸黑上课",
-      "onboard_time": 1731398960,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22610,
       "num": 853529,
       "word": "进博会特别的交换之旅",
@@ -9003,6 +9075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16647,
+      "num": 532720,
+      "word": "万千气象看福建",
+      "onboard_time": 1731384022,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16363,
       "num": 405251,
       "word": "燕云十六声年底公测",
@@ -9025,14 +9105,6 @@
       "onboard_time": 1731212178,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15863,
-      "num": 529089,
-      "word": "万千气象看福建",
-      "onboard_time": 1731384022,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15835,
@@ -9169,6 +9241,14 @@
       "onboard_time": 1731270560,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11228,
+      "num": 170514,
+      "word": "沈阳街头的伦敦公园",
+      "onboard_time": 1731400218,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 11216,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731400925022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1223330,
+        "num": 1223330,
+        "word": "沙特VVIP们进入买买买模式",
+        "onboard_time": 1731394938,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 630004,
+        "num": 630004,
+        "word": "张艺兴为肖战新专打call",
+        "onboard_time": 1731396680,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16647,
+        "num": 532720,
+        "word": "万千气象看福建",
+        "onboard_time": 1731384022,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509472,
+        "num": 509472,
+        "word": "华为Mate70真机图曝光",
+        "onboard_time": 1731398778,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 431429,
+        "num": 431429,
+        "word": "王安宇回应圆了华妃要孩子的梦",
+        "onboard_time": 1731396379,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291142,
+        "num": 291142,
+        "word": "我对空军的想象还是太保守了",
+        "onboard_time": 1731390739,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418062,
+        "num": 290434,
+        "word": "慕声隐身玩妙妙发带",
+        "onboard_time": 1731395479,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399646,
+        "num": 290389,
+        "word": "永夜星河 双穿",
+        "onboard_time": 1731389059,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288653,
+        "num": 288653,
+        "word": "伊朗空军司令仔细参观歼10CE",
+        "onboard_time": 1731397819,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 276087,
+        "num": 276087,
+        "word": "金价再跳水",
+        "onboard_time": 1731375739,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1124397,
+        "num": 275711,
+        "word": "仅退款白嫖产业链调查",
+        "onboard_time": 1731397579,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591024,
+        "num": 275364,
+        "word": "丁禹兮回应虞书欣",
+        "onboard_time": 1731395419,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526406,
+        "num": 274506,
+        "word": "曝乔欣赖柏霖办喜酒",
+        "onboard_time": 1731392718,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46861,
+        "num": 273820,
+        "word": "歼15家族空中合影",
+        "onboard_time": 1731400639,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 447291,
+        "num": 273432,
+        "word": "田曦薇昵称 你别管我了",
+        "onboard_time": 1731398239,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101483,
+        "num": 272837,
+        "word": "重庆8人荣登2024年第三季度中国好人榜",
+        "onboard_time": 1731399559,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390313,
+        "num": 272458,
+        "word": "肖战绝望哥vs希望哥",
+        "onboard_time": 1731397339,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261815,
+        "num": 271589,
+        "word": "永夜星河买了原版版权",
+        "onboard_time": 1731398600,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58524,
+        "num": 270941,
+        "word": "挑杯决赛首迎BO9赛制",
+        "onboard_time": 1731400098,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72315,
+        "num": 270816,
+        "word": "普通家庭可尽量避免入手黄金期货",
+        "onboard_time": 1731398420,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 591618,
+        "num": 270263,
+        "word": "摩托车撞上粪堆车主说炸街也不能这样做",
+        "onboard_time": 1731396799,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314653,
+        "num": 269526,
+        "word": "停止这种AI视频",
+        "onboard_time": 1731399859,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269220,
+        "num": 269220,
+        "word": "今天全网最令人羡慕的工作",
+        "onboard_time": 1731385520,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 256318,
+        "num": 256318,
+        "word": "尖叫之夜名单",
+        "onboard_time": 1731394699,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249166,
+        "num": 249166,
+        "word": "家人回应女子月薪4千贷款1400万买房",
+        "onboard_time": 1731386421,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237566,
+        "num": 237566,
+        "word": "苏州两人坠河1人被救1人死亡",
+        "onboard_time": 1731391280,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224261,
+        "num": 224261,
+        "word": "烧伤妈妈说她实在熬不住了",
+        "onboard_time": 1731378859,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208369,
+        "num": 208369,
+        "word": "芒果招商会",
+        "onboard_time": 1731398660,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194435,
+        "num": 194435,
+        "word": "再见爱人第一季 笑红尘",
+        "onboard_time": 1731400098,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138890,
+        "num": 189117,
+        "word": "歼35A飞着飞着就开始隐身了",
+        "onboard_time": 1731400578,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 220488,
+        "num": 189115,
+        "word": "Burberry活动",
+        "onboard_time": 1731398840,
+        "rank": 30,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 37779,
+        "num": 189107,
+        "word": "学校停电4天千余小学生摸黑上课",
+        "onboard_time": 1731398960,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189106,
+        "num": 189106,
+        "word": "关晓彤问王安宇花少成员的关系好不好",
+        "onboard_time": 1731400339,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187942,
+        "num": 187942,
+        "word": "难听",
+        "onboard_time": 1731381979,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174662,
+        "num": 174662,
+        "word": "马思纯在张若昀婚礼当伴郎的原因",
+        "onboard_time": 1731384320,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11228,
+        "num": 170514,
+        "word": "沈阳街头的伦敦公园",
+        "onboard_time": 1731400218,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166587,
+        "num": 166587,
+        "word": "恋与深空登顶",
+        "onboard_time": 1731400819,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164481,
+        "num": 164481,
+        "word": "男子足疗店消费万元醒后一脸懵",
+        "onboard_time": 1731391520,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158983,
+        "num": 158983,
+        "word": "约旦小哥看见歼35A走不动道了",
+        "onboard_time": 1731400339,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 158025,
+        "num": 158025,
+        "word": "丁禹兮是虞书欣铁粉",
+        "onboard_time": 1731397039,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155868,
+        "num": 155868,
+        "word": "点外卖忘记了东北食物的分量",
+        "onboard_time": 1731389122,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149636,
+        "num": 149636,
+        "word": "珠海航展有自己的双十一",
+        "onboard_time": 1731393738,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 141096,
+        "num": 141096,
+        "word": "杨倩备战新的奥运周期",
+        "onboard_time": 1731398778,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140086,
+        "num": 140086,
+        "word": "周三其实应该是休息日才对",
+        "onboard_time": 1731399918,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135543,
+        "num": 135543,
+        "word": "关晓彤回应和闫妮是微醺母女",
+        "onboard_time": 1731396859,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134033,
+        "num": 134033,
+        "word": "金鸡奖官方提名手册介绍",
+        "onboard_time": 1731396919,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124622,
+        "num": 124622,
+        "word": "永夜星河 屁股印",
+        "onboard_time": 1731396739,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121670,
+        "num": 121670,
+        "word": "我国军机的命名形象又浪漫",
+        "onboard_time": 1731399918,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 119945,
+        "num": 119945,
+        "word": "秦彻 大小姐的秘密情人",
+        "onboard_time": 1731400759,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114016,
+        "num": 114016,
+        "word": "苏57炫技落叶飘",
+        "onboard_time": 1731393078,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#为基层减负总书记这样要求#"
+    }
+  }
+}
