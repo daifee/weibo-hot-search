@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731446445189,
+  "endTime": 1731447340900,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -459,6 +459,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 42945,
+      "num": 42945,
+      "word": "珠海航展女工作人员扛导弹",
+      "onboard_time": 1731441013,
+      "rank": 8,
+      "category": "军事"
+    },
+    {
       "raw_hot": 41428,
       "num": 98382,
       "word": "无人作战艇科幻变现实",
@@ -473,14 +481,6 @@
       "onboard_time": 1731414862,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37655,
-      "num": 37655,
-      "word": "珠海航展女工作人员扛导弹",
-      "onboard_time": 1731441013,
-      "rank": 8,
-      "category": "军事"
     },
     {
       "raw_hot": 36846,
@@ -547,20 +547,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17983,
+      "num": 17983,
+      "word": "微念李子柒商标均被判无效",
+      "onboard_time": 1731443711,
+      "rank": 49,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 16769,
       "num": 64491,
       "word": "三部门部署抓牢幼儿园和小学近视防控",
       "onboard_time": 1731432314,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16307,
-      "num": 16307,
-      "word": "微念李子柒商标均被判无效",
-      "onboard_time": 1731443711,
-      "rank": 49,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 16278,
@@ -579,7 +579,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13546,
+      "raw_hot": 13860,
       "num": 34545,
       "word": "2025年放假日历来了",
       "onboard_time": 1731442630,
@@ -641,6 +641,22 @@
       "onboard_time": 1731439091,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8975,
+      "num": 22501,
+      "word": "你的双十一冲动消费了吗",
+      "onboard_time": 1731446591,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8118,
+      "num": 27666,
+      "word": "今年双十一快递业务量7.01亿件",
+      "onboard_time": 1731447191,
+      "rank": 19,
+      "category": "社会新闻,互联网"
     }
   ],
   "hotgov_list": [
