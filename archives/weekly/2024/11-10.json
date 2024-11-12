@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731381884182,
+  "endTime": 1731382774441,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -41,6 +41,14 @@
       "onboard_time": 1731290117,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2258741,
+      "num": 453550,
+      "word": "难听",
+      "onboard_time": 1731381979,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 2166788,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1493885,
-      "num": 426040,
+      "num": 430718,
       "word": "一个人吃火锅打完酱料回来锅被收了",
       "onboard_time": 1731377118,
       "rank": 10,
@@ -841,6 +849,14 @@
       "onboard_time": 1731321079,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676790,
+      "num": 676790,
+      "word": "白夜追凶2空降开播消息不实",
+      "onboard_time": 1731374299,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 665745,
@@ -1987,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329197,
+      "num": 341908,
+      "word": "金饰价格一夜下跌14元每克",
+      "onboard_time": 1731379339,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
@@ -2291,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276131,
+      "num": 276131,
+      "word": "李帝努道歉",
+      "onboard_time": 1731382278,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 275073,
       "num": 245169,
       "word": "妈妈看2岁儿子拍碎6000元电视",
@@ -2331,12 +2363,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271459,
+      "num": 271459,
+      "word": "曝某手机厂商暂停大折叠产品线",
+      "onboard_time": 1731381979,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 271091,
       "num": 207611,
       "word": "无法共情刚分手时伤心的自己",
       "onboard_time": 1731369739,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270403,
+      "num": 347502,
+      "word": "2025芒果大剧片单",
+      "onboard_time": 1731380299,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 270016,
@@ -2403,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261669,
+      "num": 261669,
+      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
+      "onboard_time": 1731379218,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261234,
       "num": 261234,
       "word": "麦琳人设",
@@ -2451,20 +2507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256361,
-      "num": 256361,
-      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
-      "onboard_time": 1731379218,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256141,
       "num": 256141,
       "word": "宁静谢娜戚薇三代浪姐合体",
       "onboard_time": 1731213257,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254714,
+      "num": 254714,
+      "word": "太阳星辰定档",
+      "onboard_time": 1731382041,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 254701,
@@ -2499,14 +2555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253277,
-      "num": 341908,
-      "word": "金饰价格一夜下跌14元每克",
-      "onboard_time": 1731379339,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 252874,
       "num": 431742,
       "word": "中国野猪致害省份多达26个",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1731203057,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 251094,
+      "num": 362646,
+      "word": "中东大客户已进入珠海航展现场",
+      "onboard_time": 1731380959,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 250074,
@@ -2593,14 +2649,6 @@
       "onboard_time": 1731380299,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 241357,
-      "num": 347502,
-      "word": "2025芒果大剧片单",
-      "onboard_time": 1731380299,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 241023,
@@ -2835,6 +2883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222606,
+      "num": 322481,
+      "word": "从歼35A视角看蓝天大地",
+      "onboard_time": 1731378919,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 221449,
       "num": 241435,
       "word": "永夜星河21.7%占比新高",
@@ -3049,6 +3105,14 @@
       "onboard_time": 1731317840,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208268,
+      "num": 252767,
+      "word": "王鹤棣泰国演唱会票价",
+      "onboard_time": 1731381499,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 208262,
@@ -3323,6 +3387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197877,
+      "num": 197877,
+      "word": "永夜星河合体扫楼",
+      "onboard_time": 1731381919,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197629,
       "num": 197629,
       "word": "郭晓婷 女师尊赛道",
@@ -3505,14 +3577,6 @@
       "onboard_time": 1731283458,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189725,
-      "num": 322481,
-      "word": "从歼35A视角看蓝天大地",
-      "onboard_time": 1731378919,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 189452,
@@ -3971,6 +4035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172697,
+      "num": 172697,
+      "word": "五福临门首发预告",
+      "onboard_time": 1731382639,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172428,
       "num": 503684,
       "word": "当初中生问老师活着的意义",
@@ -4129,6 +4201,14 @@
       "onboard_time": 1731311959,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166644,
+      "num": 166644,
+      "word": "在航展被官方审美硬控",
+      "onboard_time": 1731381919,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 166444,
@@ -4321,14 +4401,6 @@
       "onboard_time": 1731222501,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160458,
-      "num": 362646,
-      "word": "中东大客户已进入珠海航展现场",
-      "onboard_time": 1731380959,
-      "rank": 13,
-      "category": "军事"
     },
     {
       "raw_hot": 160314,
@@ -4788,7 +4860,7 @@
     },
     {
       "raw_hot": 144645,
-      "num": 144645,
+      "num": 296802,
       "word": "李楷灿泡泡道歉",
       "onboard_time": 1731376759,
       "rank": 40,
@@ -5169,6 +5241,14 @@
       "onboard_time": 1731278415,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129099,
+      "num": 487537,
+      "word": "歼35系列战机的先进程度专家不敢说",
+      "onboard_time": 1731381439,
+      "rank": 12,
+      "category": "军事"
     },
     {
       "raw_hot": 128854,
@@ -5569,14 +5649,6 @@
       "onboard_time": 1731289038,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 116027,
-      "num": 116027,
-      "word": "王鹤棣泰国演唱会票价",
-      "onboard_time": 1731381499,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 115188,
@@ -6387,6 +6459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70732,
+      "num": 306688,
+      "word": "前苏宁店长曝员工不刷单不让下班",
+      "onboard_time": 1731382400,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69715,
       "num": 411282,
       "word": "天猫双11最后4轮红包雨下疯了",
@@ -6707,6 +6787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54893,
+      "num": 327979,
+      "word": "当鸿蒙牵手日产",
+      "onboard_time": 1731379399,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54770,
       "num": 104976,
       "word": "郑钦文首次参加总决赛就获得亚军",
@@ -6841,14 +6929,6 @@
       "onboard_time": 1731294378,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 50018,
-      "num": 365306,
-      "word": "歼35系列战机的先进程度专家不敢说",
-      "onboard_time": 1731381439,
-      "rank": 12,
-      "category": "军事"
     },
     {
       "raw_hot": 49988,
@@ -6993,14 +7073,6 @@
       "onboard_time": 1731243619,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44158,
-      "num": 327979,
-      "word": "当鸿蒙牵手日产",
-      "onboard_time": 1731379399,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 44078,
@@ -7225,6 +7297,14 @@
       "onboard_time": 1731343995,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 34335,
+      "num": 335685,
+      "word": "警方辟谣天津某大学有学生被杀害",
+      "onboard_time": 1731382220,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34323,
@@ -7504,6 +7584,14 @@
       "word": "山东你到底有多少好品",
       "onboard_time": 1731207617,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25126,
+      "num": 473871,
+      "word": "A股成交连续30个交易日破1万亿",
+      "onboard_time": 1731382400,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -7931,6 +8019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15311,
+      "num": 664725,
+      "word": "文化中国行惊艳的中国石窟",
+      "onboard_time": 1731382339,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15197,
       "num": 922642,
       "word": "进博会服务贸易展区体验感满满",
@@ -8105,6 +8201,14 @@
       "onboard_time": 1731242360,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5738,
+      "num": 506590,
+      "word": "有人连夜卖金条变现38万",
+      "onboard_time": 1731382759,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 4723,
