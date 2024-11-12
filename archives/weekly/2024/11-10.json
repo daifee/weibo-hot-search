@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731453672279,
+  "endTime": 1731454555927,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 703656,
+      "num": 186245,
+      "word": "李子柒停更期间拜访了许多非遗传人",
+      "onboard_time": 1731452655,
+      "rank": 11,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 700649,
       "num": 700649,
       "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1731243619,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 583821,
-      "num": 133618,
-      "word": "李子柒停更期间拜访了许多非遗传人",
-      "onboard_time": 1731452655,
-      "rank": 11,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 573898,
@@ -2136,6 +2136,14 @@
       "word": "黑龙江出生率再创历史新低",
       "onboard_time": 1731220520,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430139,
+      "num": 430139,
+      "word": "出租车师傅刚要报警女子跳进池塘",
+      "onboard_time": 1731452716,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -3507,6 +3515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248290,
+      "num": 181576,
+      "word": "杭州警方通报小型客车连撞多人",
+      "onboard_time": 1731424282,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248046,
       "num": 248046,
       "word": "李宏毅孙珍妮体型差",
@@ -3803,14 +3819,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 228693,
-      "num": 136640,
-      "word": "杭州警方通报小型客车连撞多人",
-      "onboard_time": 1731424282,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228593,
       "num": 228593,
       "word": "半导体芯片股爆发",
@@ -3881,6 +3889,14 @@
       "onboard_time": 1731234859,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223359,
+      "num": 185135,
+      "word": "女子闯红灯被撞反问交警车主无责吗",
+      "onboard_time": 1731424762,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223301,
@@ -3960,14 +3976,6 @@
       "word": "在妇幼保健院装针孔摄像头被拘",
       "onboard_time": 1731257656,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217739,
-      "num": 185135,
-      "word": "女子闯红灯被撞反问交警车主无责吗",
-      "onboard_time": 1731424762,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5651,6 +5659,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 165826,
+      "num": 165826,
+      "word": "王一博 我对表演非常有野心",
+      "onboard_time": 1731454278,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 165657,
+      "num": 140899,
+      "word": "指甲尽量要剪成方形",
+      "onboard_time": 1731453797,
+      "rank": 23,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 165360,
       "num": 428393,
       "word": "KSG拿到败决赛点",
@@ -5755,6 +5779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 162427,
+      "num": 113345,
+      "word": "医生给失眠女友注射麻醉药致其死亡",
+      "onboard_time": 1731454278,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162379,
       "num": 162379,
       "word": "KPL",
@@ -5795,6 +5827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161708,
+      "num": 161708,
+      "word": "两个上海人就应该生出我这个",
+      "onboard_time": 1731435373,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161640,
       "num": 161640,
       "word": "郭敬明画皮改名",
@@ -5812,7 +5852,7 @@
     },
     {
       "raw_hot": 161427,
-      "num": 130793,
+      "num": 150530,
       "word": "再见爱人 镜头隐喻",
       "onboard_time": 1731427280,
       "rank": 34,
@@ -6145,6 +6185,14 @@
       "onboard_time": 1731373460,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 153254,
+      "num": 153254,
+      "word": "吴姗姗想占宋莹房子",
+      "onboard_time": 1731447550,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 153240,
@@ -6513,14 +6561,6 @@
       "onboard_time": 1731338839,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143533,
-      "num": 143533,
-      "word": "吴姗姗想占宋莹房子",
-      "onboard_time": 1731447550,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 143362,
@@ -7131,14 +7171,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 124363,
-      "num": 124363,
-      "word": "两个上海人就应该生出我这个",
-      "onboard_time": 1731435373,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124201,
       "num": 447638,
       "word": "加油QueenWen",
@@ -7273,6 +7305,14 @@
       "onboard_time": 1731294499,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120051,
+      "num": 113267,
+      "word": "被全世界都禁养的猫咪",
+      "onboard_time": 1731454217,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 119945,
@@ -7859,6 +7899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99314,
+      "num": 99314,
+      "word": "大妈一个月偷肉10次还嘴硬",
+      "onboard_time": 1731432793,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98030,
       "num": 98030,
       "word": "周深演唱会的裤子是连续剧",
@@ -7945,6 +7993,14 @@
       "onboard_time": 1731236419,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94228,
+      "num": 94228,
+      "word": "一个不想飞了一个不愿意游了",
+      "onboard_time": 1731453856,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 94023,
@@ -8057,6 +8113,14 @@
       "onboard_time": 1731452716,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88593,
+      "num": 88593,
+      "word": "乡政府回应村民粪堆封路防摩托炸街",
+      "onboard_time": 1731449172,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87990,
@@ -8291,12 +8355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74196,
-      "num": 74196,
-      "word": "大妈一个月偷肉10次还嘴硬",
-      "onboard_time": 1731432793,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 74277,
+      "num": 74277,
+      "word": "微念称与李子柒的案件已完全和解",
+      "onboard_time": 1731454398,
+      "rank": 40,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 73807,
@@ -8395,14 +8459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71035,
-      "num": 71035,
-      "word": "乡政府回应村民粪堆封路防摩托炸街",
-      "onboard_time": 1731449172,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71025,
       "num": 1068196,
       "word": "一图看懂黄岩岛领海基线",
@@ -8481,6 +8537,14 @@
       "onboard_time": 1731315318,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68052,
+      "num": 68052,
+      "word": "微念李子柒商标均被判无效",
+      "onboard_time": 1731443711,
+      "rank": 49,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 68007,
@@ -8731,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59762,
+      "num": 59762,
+      "word": "珠海航展女工作人员扛导弹",
+      "onboard_time": 1731441013,
+      "rank": 8,
+      "category": "军事"
+    },
+    {
       "raw_hot": 59653,
       "num": 398925,
       "word": "无人作战艇科幻变现实",
@@ -8761,14 +8833,6 @@
       "onboard_time": 1731400098,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 58202,
-      "num": 58202,
-      "word": "珠海航展女工作人员扛导弹",
-      "onboard_time": 1731441013,
-      "rank": 8,
-      "category": "军事"
     },
     {
       "raw_hot": 57573,
@@ -8851,12 +8915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55332,
-      "num": 55332,
-      "word": "微念李子柒商标均被判无效",
-      "onboard_time": 1731443711,
-      "rank": 49,
-      "category": "美食,网红"
+      "raw_hot": 55363,
+      "num": 55363,
+      "word": "航展首日中国商飞签下130架飞机订单",
+      "onboard_time": 1731452716,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 55275,
@@ -9209,14 +9273,6 @@
       "onboard_time": 1731293839,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44663,
-      "num": 44663,
-      "word": "航展首日中国商飞签下130架飞机订单",
-      "onboard_time": 1731452716,
-      "rank": 44,
-      "category": "军事"
     },
     {
       "raw_hot": 44621,
@@ -9643,14 +9699,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 33374,
-      "num": 135169,
-      "word": "出租车师傅刚要报警女子跳进池塘",
-      "onboard_time": 1731452716,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33365,
       "num": 287826,
       "word": "交通执法人员被司机顶引擎盖疾驰",
@@ -9801,6 +9849,14 @@
       "onboard_time": 1731328578,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29717,
+      "num": 192830,
+      "word": "小孩姐完全是先天攀岩圣体",
+      "onboard_time": 1731453976,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29467,
@@ -10107,6 +10163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23803,
+      "num": 453871,
+      "word": "七张图带你了解秘鲁",
+      "onboard_time": 1731414744,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23737,
       "num": 266222,
       "word": "徐振轩机场拉练",
@@ -10353,14 +10417,6 @@
       "onboard_time": 1731430516,
       "rank": 25,
       "category": "军事"
-    },
-    {
-      "raw_hot": 19948,
-      "num": 437339,
-      "word": "七张图带你了解秘鲁",
-      "onboard_time": 1731414744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19945,
