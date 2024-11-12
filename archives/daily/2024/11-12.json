@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731396029043,
+  "endTime": 1731396955954,
   "band_list": [
     {
       "raw_hot": 2258741,
@@ -115,7 +115,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 878660,
+      "raw_hot": 902782,
       "num": 361403,
       "word": "苏州两人坠河1人被救1人死亡",
       "onboard_time": 1731391280,
@@ -153,6 +153,14 @@
       "onboard_time": 1731383961,
       "rank": 6,
       "category": "美食,综艺"
+    },
+    {
+      "raw_hot": 752214,
+      "num": 340678,
+      "word": "丁禹兮回应虞书欣",
+      "onboard_time": 1731395419,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 715768,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524144,
+      "num": 524144,
+      "word": "尖叫之夜名单",
+      "onboard_time": 1731394699,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522880,
       "num": 522880,
       "word": "报警后仍遭家暴踢踹女子发声",
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453892,
+      "num": 453892,
+      "word": "我对空军的想象还是太保守了",
+      "onboard_time": 1731390739,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433564,
       "num": 183523,
       "word": "特朗普提名强硬派霍曼为边境事务负责人",
@@ -315,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422044,
+      "num": 287411,
+      "word": "慕声隐身玩妙妙发带",
+      "onboard_time": 1731395479,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409630,
       "num": 409630,
       "word": "肖战我们第一小节",
       "onboard_time": 1731377838,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 409020,
-      "num": 409020,
-      "word": "我对空军的想象还是太保守了",
-      "onboard_time": 1731390739,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409019,
@@ -403,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 371615,
-      "num": 371615,
-      "word": "尖叫之夜名单",
-      "onboard_time": 1731394699,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 366311,
       "num": 853679,
       "word": "三星堆一团皱皱金箔展开后飞出小鸟",
@@ -473,14 +489,6 @@
       "onboard_time": 1731384379,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 340678,
-      "num": 340678,
-      "word": "丁禹兮回应虞书欣",
-      "onboard_time": 1731395419,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 340065,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294544,
+      "num": 349495,
+      "word": "沙特VVIP们进入买买买模式",
+      "onboard_time": 1731394938,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 293188,
       "num": 293188,
       "word": "仅3厘米大的核舟窗户居然能开关",
@@ -585,6 +601,14 @@
       "onboard_time": 1731387202,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 276520,
+      "num": 276520,
+      "word": "张艺兴为肖战新专打call",
+      "onboard_time": 1731396680,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 276131,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 269838,
-      "num": 269838,
+      "num": 284761,
       "word": "中山大学",
       "onboard_time": 1731393438,
       "rank": 38,
@@ -777,6 +801,14 @@
       "onboard_time": 1731378919,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 219036,
+      "num": 219036,
+      "word": "王安宇回应圆了华妃要孩子的梦",
+      "onboard_time": 1731396379,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 216901,
@@ -923,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193359,
-      "num": 193359,
-      "word": "慕声隐身玩妙妙发带",
-      "onboard_time": 1731395479,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192410,
       "num": 192410,
       "word": "永夜星河 群像的魅力",
@@ -968,6 +992,14 @@
       "word": "青海一便利店老板被殴打10秒后死亡",
       "onboard_time": 1731329959,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184498,
+      "num": 351636,
+      "word": "专家不建议将黄金看作首选的投资品",
+      "onboard_time": 1731392000,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1139,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163236,
+      "num": 163236,
+      "word": "永夜星河 屁股印",
+      "onboard_time": 1731396739,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162379,
       "num": 162379,
       "word": "KPL",
@@ -1283,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140260,
+      "num": 140260,
+      "word": "俄传奇试飞员驾驶苏-57炫高难度动作",
+      "onboard_time": 1731395719,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
       "raw_hot": 139252,
       "num": 166092,
       "word": "首位歼10女飞行员余旭牺牲8周年",
@@ -1315,14 +1363,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 136171,
-      "num": 349495,
-      "word": "沙特VVIP们进入买买买模式",
-      "onboard_time": 1731394938,
-      "rank": 13,
-      "category": "军事"
-    },
-    {
       "raw_hot": 136166,
       "num": 136166,
       "word": "珠海航展有自己的双十一",
@@ -1336,6 +1376,14 @@
       "word": "永夜星河 捡手机",
       "onboard_time": 1731394339,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134473,
+      "num": 134473,
+      "word": "凌妙妙开大",
+      "onboard_time": 1731395539,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1355,12 +1403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130888,
-      "num": 130888,
-      "word": "凌妙妙开大",
-      "onboard_time": 1731395539,
+      "raw_hot": 131386,
+      "num": 131386,
+      "word": "摩托车撞上粪堆车主说炸街也不能这样做",
+      "onboard_time": 1731396799,
       "rank": 40,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129467,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1731375619,
       "rank": 12,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 127062,
+      "num": 117973,
+      "word": "关晓彤回应和闫妮是微醺母女",
+      "onboard_time": 1731396859,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126839,
@@ -1417,14 +1473,6 @@
       "onboard_time": 1731364393,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 125651,
-      "num": 125651,
-      "word": "俄传奇试飞员驾驶苏-57炫高难度动作",
-      "onboard_time": 1731395719,
-      "rank": 42,
-      "category": "军事"
     },
     {
       "raw_hot": 125007,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1731333199,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112562,
-      "num": 351636,
-      "word": "专家不建议将黄金看作首选的投资品",
-      "onboard_time": 1731392000,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111798,
@@ -1939,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42202,
+      "num": 187175,
+      "word": "金鸡奖官方提名手册介绍",
+      "onboard_time": 1731396919,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41980,
       "num": 419390,
       "word": "任天堂直面会",
@@ -1956,11 +2004,19 @@
     },
     {
       "raw_hot": 39099,
-      "num": 164709,
+      "num": 282715,
       "word": "波司登稳居双十一女装销量第一",
       "onboard_time": 1731395238,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 38637,
+      "num": 283354,
+      "word": "茶百道怎么喝最好喝",
+      "onboard_time": 1731395059,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 38355,
@@ -1969,14 +2025,6 @@
       "onboard_time": 1731374840,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 36643,
-      "num": 228656,
-      "word": "茶百道怎么喝最好喝",
-      "onboard_time": 1731395059,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 35049,
@@ -2059,12 +2107,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 28335,
+      "num": 366505,
+      "word": "合新铁路建设材料以次充好",
+      "onboard_time": 1731395362,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26377,
       "num": 347822,
       "word": "军团杯选人大会",
       "onboard_time": 1731391758,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25967,
+      "num": 347917,
+      "word": "120司机结伙产科医生输送婴儿后续",
+      "onboard_time": 1731395298,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25254,
@@ -2112,22 +2176,6 @@
       "word": "62岁博格丹背个包就来航展上班了",
       "onboard_time": 1731391640,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22336,
-      "num": 347917,
-      "word": "120司机结伙产科医生输送婴儿后续",
-      "onboard_time": 1731395298,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21953,
-      "num": 366505,
-      "word": "合新铁路建设材料以次充好",
-      "onboard_time": 1731395362,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2297,6 +2345,14 @@
       "onboard_time": 1731360911,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 10587,
+      "num": 527163,
+      "word": "万千气象看福建",
+      "onboard_time": 1731384022,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9969,
