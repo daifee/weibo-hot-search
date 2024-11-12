@@ -1,0 +1,410 @@
+{
+  "runTime": 1731393834813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 869663,
+        "num": 1139146,
+        "word": "永夜星河 双穿",
+        "onboard_time": 1731389059,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511004,
+        "num": 511004,
+        "word": "今天全网最令人羡慕的工作",
+        "onboard_time": 1731385520,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21240,
+        "num": 452792,
+        "word": "文化中国行惊艳的中国石窟",
+        "onboard_time": 1731382339,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529943,
+        "num": 445829,
+        "word": "上海交大恭喜庄筱婷林栋哲入学",
+        "onboard_time": 1731386002,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434989,
+        "num": 434989,
+        "word": "金价再跳水",
+        "onboard_time": 1731375739,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 387843,
+        "num": 387843,
+        "word": "熏鸡销量",
+        "onboard_time": 1731383961,
+        "rank": 5,
+        "category": "美食,综艺"
+      },
+      {
+        "raw_hot": 343429,
+        "num": 343429,
+        "word": "肖战作词",
+        "onboard_time": 1731380299,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333902,
+        "num": 333902,
+        "word": "男子足疗店消费万元醒后一脸懵",
+        "onboard_time": 1731391520,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282888,
+        "num": 282888,
+        "word": "我对空军的想象还是太保守了",
+        "onboard_time": 1731390739,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54425,
+        "num": 282165,
+        "word": "保研互鸽暴露了哪些问题",
+        "onboard_time": 1731392239,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926556,
+        "num": 280919,
+        "word": "青海被殴身亡便利店老板亲属发声",
+        "onboard_time": 1731387921,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839922,
+        "num": 279716,
+        "word": "曝乔欣赖柏霖办喜酒",
+        "onboard_time": 1731392718,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33438,
+        "num": 279421,
+        "word": "八一飞行表演队拉开表演序幕",
+        "onboard_time": 1731393258,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 35049,
+        "num": 278125,
+        "word": "女子在酒吧崴脚要求赔偿万元被拒",
+        "onboard_time": 1731393318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547545,
+        "num": 277313,
+        "word": "难听",
+        "onboard_time": 1731381979,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 471253,
+        "num": 275804,
+        "word": "烧伤妈妈说她实在熬不住了",
+        "onboard_time": 1731378859,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416816,
+        "num": 274866,
+        "word": "马思纯在张若昀婚礼当伴郎的原因",
+        "onboard_time": 1731384320,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160435,
+        "num": 273583,
+        "word": "关晓彤晒栋哲筱婷大学第一张合影",
+        "onboard_time": 1731391819,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59278,
+        "num": 272919,
+        "word": "潘展乐上榜中国好人榜",
+        "onboard_time": 1731393379,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318717,
+        "num": 271227,
+        "word": "炎亚纶称飞轮海不会再合体",
+        "onboard_time": 1731388582,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24057,
+        "num": 270180,
+        "word": "专家不建议将黄金看作首选的投资品",
+        "onboard_time": 1731392000,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54156,
+        "num": 269310,
+        "word": "金价为何再跳水",
+        "onboard_time": 1731391939,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 392768,
+        "num": 267571,
+        "word": "点外卖忘记了东北食物的分量",
+        "onboard_time": 1731389122,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334590,
+        "num": 267297,
+        "word": "家人回应女子月薪4千贷款1400万买房",
+        "onboard_time": 1731386421,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289780,
+        "num": 265951,
+        "word": "苏州两人坠河1人被救1人死亡",
+        "onboard_time": 1731391280,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265277,
+        "num": 265277,
+        "word": "A股重磅来袭",
+        "onboard_time": 1731393139,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 260765,
+        "num": 260765,
+        "word": "孕妈生产时太用力致面部毛细血管破裂",
+        "onboard_time": 1731387202,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 241123,
+        "num": 241123,
+        "word": "永夜星河插曲疑似借鉴三寸天堂",
+        "onboard_time": 1731385882,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196012,
+        "num": 238191,
+        "word": "庄图南开窍了",
+        "onboard_time": 1731389240,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165680,
+        "num": 237461,
+        "word": "野人 歌词",
+        "onboard_time": 1731383058,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236821,
+        "num": 236821,
+        "word": "体制内人士称事业编提副科很少见",
+        "onboard_time": 1731370339,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226828,
+        "num": 226828,
+        "word": "输入5位数验证码被转走同数字的钱",
+        "onboard_time": 1731390019,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213240,
+        "num": 213240,
+        "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
+        "onboard_time": 1731376759,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 188765,
+        "num": 188765,
+        "word": "李马克发长文道歉",
+        "onboard_time": 1731389601,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180400,
+        "num": 180400,
+        "word": "歼35A开加力出现马赫环",
+        "onboard_time": 1731387682,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 173677,
+        "num": 173677,
+        "word": "早恋15岁男孩曾被家长没收电子产品",
+        "onboard_time": 1731382579,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157623,
+        "num": 157623,
+        "word": "苏57炫技落叶飘",
+        "onboard_time": 1731393078,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 156951,
+        "num": 156951,
+        "word": "中国量产超跑纽北首测完成",
+        "onboard_time": 1731393018,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155311,
+        "num": 155311,
+        "word": "中山大学",
+        "onboard_time": 1731393438,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154760,
+        "num": 154760,
+        "word": "麦琳说李行亮看她的眼里没光",
+        "onboard_time": 1731390380,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152330,
+        "num": 152330,
+        "word": "丁禹兮变脸",
+        "onboard_time": 1731387260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24296,
+        "num": 148274,
+        "word": "于正 AI先导片",
+        "onboard_time": 1731390019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146958,
+        "num": 146958,
+        "word": "王曼昱7465分世排第二",
+        "onboard_time": 1731392418,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141251,
+        "num": 141251,
+        "word": "12岁少女谈小学成绩好的秘密走红",
+        "onboard_time": 1731376938,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140776,
+        "num": 140776,
+        "word": "ENHYPEN直播",
+        "onboard_time": 1731392058,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140180,
+        "num": 140180,
+        "word": "救援队回应15岁早恋男孩已溺亡",
+        "onboard_time": 1731387021,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138620,
+        "num": 138620,
+        "word": "燕子京 我还能活多久",
+        "onboard_time": 1731393679,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137642,
+        "num": 137642,
+        "word": "永夜星河 群像的魅力",
+        "onboard_time": 1731389779,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136166,
+        "num": 136166,
+        "word": "珠海航展有自己的双十一",
+        "onboard_time": 1731393738,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 136601,
+        "num": 135357,
+        "word": "严艺丹回应永夜星河bgm争议",
+        "onboard_time": 1731387381,
+        "rank": 49,
+        "category": "剧集,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#为基层减负总书记这样要求#"
+    }
+  }
+}

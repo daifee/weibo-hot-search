@@ -1,6 +1,6 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731393026374,
+  "endTime": 1731393834813,
   "band_list": [
     {
       "raw_hot": 2258741,
@@ -123,7 +123,15 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 794237,
+      "raw_hot": 869663,
+      "num": 1139146,
+      "word": "永夜星河 双穿",
+      "onboard_time": 1731389059,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 839922,
       "num": 354443,
       "word": "曝乔欣赖柏霖办喜酒",
       "onboard_time": 1731392718,
@@ -161,14 +169,6 @@
       "onboard_time": 1731376759,
       "rank": 4,
       "category": "军事"
-    },
-    {
-      "raw_hot": 677550,
-      "num": 1108408,
-      "word": "永夜星河 双穿",
-      "onboard_time": 1731389059,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 676790,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511004,
+      "num": 511004,
+      "word": "今天全网最令人羡慕的工作",
+      "onboard_time": 1731385520,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 504172,
       "num": 380262,
       "word": "早恋15岁男孩曾被家长没收电子产品",
@@ -281,14 +289,6 @@
       "onboard_time": 1731342976,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451725,
-      "num": 451725,
-      "word": "今天全网最令人羡慕的工作",
-      "onboard_time": 1731385520,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 433564,
@@ -467,6 +467,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 333902,
+      "num": 346799,
+      "word": "男子足疗店消费万元醒后一脸懵",
+      "onboard_time": 1731391520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329197,
       "num": 341908,
       "word": "金饰价格一夜下跌14元每克",
@@ -539,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278949,
-      "num": 278949,
+      "raw_hot": 282888,
+      "num": 282888,
       "word": "我对空军的想象还是太保守了",
       "onboard_time": 1731390739,
       "rank": 30,
@@ -601,6 +609,14 @@
       "onboard_time": 1731374657,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 265277,
+      "num": 265277,
+      "word": "A股重磅来袭",
+      "onboard_time": 1731393139,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 264460,
@@ -705,6 +721,14 @@
       "onboard_time": 1731333199,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226828,
+      "num": 226828,
+      "word": "输入5位数验证码被转走同数字的钱",
+      "onboard_time": 1731390019,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222606,
@@ -817,14 +841,6 @@
       "onboard_time": 1731381919,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196628,
-      "num": 346799,
-      "word": "男子足疗店消费万元醒后一脸懵",
-      "onboard_time": 1731391520,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195655,
@@ -1075,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160435,
+      "num": 348527,
+      "word": "关晓彤晒栋哲筱婷大学第一张合影",
+      "onboard_time": 1731391819,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158381,
       "num": 158381,
       "word": "晓华拉动现场消费超2000万元",
@@ -1083,12 +1107,44 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 157623,
+      "num": 157623,
+      "word": "苏57炫技落叶飘",
+      "onboard_time": 1731393078,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 156951,
+      "num": 156951,
+      "word": "中国量产超跑纽北首测完成",
+      "onboard_time": 1731393018,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 155311,
+      "num": 155311,
+      "word": "中山大学",
+      "onboard_time": 1731393438,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155199,
       "num": 133329,
       "word": "多个商家账号改名为晓华隔壁",
       "onboard_time": 1731337281,
       "rank": 24,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 154760,
+      "num": 154760,
+      "word": "麦琳说李行亮看她的眼里没光",
+      "onboard_time": 1731390380,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 153434,
@@ -1121,6 +1177,14 @@
       "onboard_time": 1731386901,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146958,
+      "num": 146958,
+      "word": "王曼昱7465分世排第二",
+      "onboard_time": 1731392418,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 144645,
@@ -1163,28 +1227,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141256,
-      "num": 141256,
-      "word": "王曼昱7465分世排第二",
-      "onboard_time": 1731392418,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139900,
-      "num": 139900,
-      "word": "麦琳说李行亮看她的眼里没光",
-      "onboard_time": 1731390380,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139252,
       "num": 166092,
       "word": "首位歼10女飞行员余旭牺牲8周年",
       "onboard_time": 1731376219,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138620,
+      "num": 138620,
+      "word": "燕子京 我还能活多久",
+      "onboard_time": 1731393679,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 136733,
@@ -1203,12 +1259,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 133603,
-      "num": 133603,
-      "word": "输入5位数验证码被转走同数字的钱",
-      "onboard_time": 1731390019,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 136166,
+      "num": 136166,
+      "word": "珠海航展有自己的双十一",
+      "onboard_time": 1731393738,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 133119,
@@ -1256,14 +1312,6 @@
       "word": "宝宝仙侠",
       "onboard_time": 1731378618,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126801,
-      "num": 348527,
-      "word": "关晓彤晒栋哲筱婷大学第一张合影",
-      "onboard_time": 1731391819,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1643,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59278,
+      "num": 272919,
+      "word": "潘展乐上榜中国好人榜",
+      "onboard_time": 1731393379,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57573,
       "num": 151480,
       "word": "歼35A歼20苏57首次同台",
@@ -1691,20 +1747,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54425,
+      "num": 355968,
+      "word": "保研互鸽暴露了哪些问题",
+      "onboard_time": 1731392239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54156,
+      "num": 357495,
+      "word": "金价为何再跳水",
+      "onboard_time": 1731391939,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 52654,
       "num": 414141,
       "word": "180天重启计划想回家海报",
       "onboard_time": 1731384440,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51159,
-      "num": 355968,
-      "word": "保研互鸽暴露了哪些问题",
-      "onboard_time": 1731392239,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49129,
@@ -1795,20 +1859,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 39334,
-      "num": 357495,
-      "word": "金价为何再跳水",
-      "onboard_time": 1731391939,
-      "rank": 8,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 38355,
       "num": 199194,
       "word": "中国航展28年名场面",
       "onboard_time": 1731374840,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 35049,
+      "num": 278125,
+      "word": "女子在酒吧崴脚要求赔偿万元被拒",
+      "onboard_time": 1731393318,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34497,
@@ -1832,6 +1896,14 @@
       "word": "战机多又不远航展看珠海",
       "onboard_time": 1731364993,
       "rank": 45,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 33438,
+      "num": 279421,
+      "word": "八一飞行表演队拉开表演序幕",
+      "onboard_time": 1731393258,
+      "rank": 12,
       "category": "军事"
     },
     {
@@ -1915,6 +1987,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24296,
+      "num": 243130,
+      "word": "于正 AI先导片",
+      "onboard_time": 1731390019,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24057,
+      "num": 351636,
+      "word": "专家不建议将黄金看作首选的投资品",
+      "onboard_time": 1731392000,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23923,
       "num": 279865,
       "word": "62岁博格丹背个包就来航展上班了",
@@ -1939,20 +2027,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 21424,
-      "num": 351636,
-      "word": "专家不建议将黄金看作首选的投资品",
-      "onboard_time": 1731392000,
-      "rank": 14,
+      "raw_hot": 21240,
+      "num": 664725,
+      "word": "文化中国行惊艳的中国石窟",
+      "onboard_time": 1731382339,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21052,
-      "num": 243130,
-      "word": "于正 AI先导片",
-      "onboard_time": 1731390019,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 20584,
@@ -1961,14 +2041,6 @@
       "onboard_time": 1731288318,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 20579,
-      "num": 664725,
-      "word": "文化中国行惊艳的中国石窟",
-      "onboard_time": 1731382339,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20483,
