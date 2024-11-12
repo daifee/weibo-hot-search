@@ -1,0 +1,410 @@
+{
+  "runTime": 1731393026374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 677550,
+        "num": 1108408,
+        "word": "永夜星河 双穿",
+        "onboard_time": 1731389059,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471192,
+        "num": 471192,
+        "word": "金价再跳水",
+        "onboard_time": 1731375739,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20579,
+        "num": 453802,
+        "word": "文化中国行惊艳的中国石窟",
+        "onboard_time": 1731382339,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658984,
+        "num": 453532,
+        "word": "上海交大恭喜庄筱婷林栋哲入学",
+        "onboard_time": 1731386002,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451725,
+        "num": 451725,
+        "word": "今天全网最令人羡慕的工作",
+        "onboard_time": 1731385520,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 401963,
+        "num": 401963,
+        "word": "熏鸡销量",
+        "onboard_time": 1731383961,
+        "rank": 5,
+        "category": "美食,综艺"
+      },
+      {
+        "raw_hot": 409019,
+        "num": 394839,
+        "word": "辛芷蕾新剧把渣渣割以永治",
+        "onboard_time": 1731391580,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357969,
+        "num": 357969,
+        "word": "肖战作词",
+        "onboard_time": 1731380299,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39334,
+        "num": 357495,
+        "word": "金价为何再跳水",
+        "onboard_time": 1731391939,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 51159,
+        "num": 355968,
+        "word": "保研互鸽暴露了哪些问题",
+        "onboard_time": 1731392239,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941923,
+        "num": 355691,
+        "word": "青海被殴身亡便利店老板亲属发声",
+        "onboard_time": 1731387921,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794237,
+        "num": 354443,
+        "word": "曝乔欣赖柏霖办喜酒",
+        "onboard_time": 1731392718,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757514,
+        "num": 353020,
+        "word": "马思纯在张若昀婚礼当伴郎的原因",
+        "onboard_time": 1731384320,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54482,
+        "num": 352231,
+        "word": "代号鸢新密探",
+        "onboard_time": 1731391879,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21424,
+        "num": 351636,
+        "word": "专家不建议将黄金看作首选的投资品",
+        "onboard_time": 1731392000,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564593,
+        "num": 350684,
+        "word": "难听",
+        "onboard_time": 1731381979,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195165,
+        "num": 349563,
+        "word": "ENHYPEN直播",
+        "onboard_time": 1731392058,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126801,
+        "num": 348527,
+        "word": "关晓彤晒栋哲筱婷大学第一张合影",
+        "onboard_time": 1731391819,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26377,
+        "num": 347822,
+        "word": "军团杯选人大会",
+        "onboard_time": 1731391758,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196628,
+        "num": 346799,
+        "word": "男子足疗店消费万元醒后一脸懵",
+        "onboard_time": 1731391520,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480288,
+        "num": 345046,
+        "word": "烧伤妈妈说她实在熬不住了",
+        "onboard_time": 1731378859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400579,
+        "num": 344628,
+        "word": "点外卖忘记了东北食物的分量",
+        "onboard_time": 1731389122,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343853,
+        "num": 343853,
+        "word": "家人回应女子月薪4千贷款1400万买房",
+        "onboard_time": 1731386421,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338579,
+        "num": 338579,
+        "word": "炎亚纶称飞轮海不会再合体",
+        "onboard_time": 1731388582,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331239,
+        "num": 331239,
+        "word": "体制内人士称事业编提副科很少见",
+        "onboard_time": 1731370339,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320828,
+        "num": 320828,
+        "word": "永夜星河插曲疑似借鉴三寸天堂",
+        "onboard_time": 1731385882,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238833,
+        "num": 302009,
+        "word": "庄图南开窍了",
+        "onboard_time": 1731389240,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291509,
+        "num": 291509,
+        "word": "苏州两人坠河1人被救1人死亡",
+        "onboard_time": 1731391280,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57202,
+        "num": 284326,
+        "word": "魔法坏女巫定档",
+        "onboard_time": 1731391879,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23923,
+        "num": 279865,
+        "word": "62岁博格丹背个包就来航展上班了",
+        "onboard_time": 1731391640,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278949,
+        "num": 278949,
+        "word": "我对空军的想象还是太保守了",
+        "onboard_time": 1731390739,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243269,
+        "num": 243269,
+        "word": "孕妈生产时太用力致面部毛细血管破裂",
+        "onboard_time": 1731387202,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 21052,
+        "num": 243130,
+        "word": "于正 AI先导片",
+        "onboard_time": 1731390019,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243054,
+        "num": 243054,
+        "word": "早恋15岁男孩曾被家长没收电子产品",
+        "onboard_time": 1731382579,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242491,
+        "num": 242491,
+        "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
+        "onboard_time": 1731376759,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 212125,
+        "num": 212125,
+        "word": "李马克发长文道歉",
+        "onboard_time": 1731389601,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204981,
+        "num": 204981,
+        "word": "歼35A开加力出现马赫环",
+        "onboard_time": 1731387682,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175310,
+        "num": 175310,
+        "word": "严艺丹回应永夜星河bgm争议",
+        "onboard_time": 1731387381,
+        "rank": 37,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 158768,
+        "num": 158768,
+        "word": "救援队回应15岁早恋男孩已溺亡",
+        "onboard_time": 1731387021,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264460,
+        "num": 158394,
+        "word": "只有肖战能救肖战",
+        "onboard_time": 1731391819,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169260,
+        "num": 155958,
+        "word": "丁禹兮变脸",
+        "onboard_time": 1731387260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153312,
+        "num": 153312,
+        "word": "12岁少女谈小学成绩好的秘密走红",
+        "onboard_time": 1731376938,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147826,
+        "num": 147826,
+        "word": "野人 歌词",
+        "onboard_time": 1731383058,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144314,
+        "num": 144314,
+        "word": "白鹿新增综艺录制",
+        "onboard_time": 1731391100,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141256,
+        "num": 141256,
+        "word": "王曼昱7465分世排第二",
+        "onboard_time": 1731392418,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139900,
+        "num": 139900,
+        "word": "麦琳说李行亮看她的眼里没光",
+        "onboard_time": 1731390380,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135769,
+        "num": 135769,
+        "word": "歌手2025",
+        "onboard_time": 1731378380,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133603,
+        "num": 133603,
+        "word": "输入5位数验证码被转走同数字的钱",
+        "onboard_time": 1731390019,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132340,
+        "num": 132340,
+        "word": "歼35A表演首秀",
+        "onboard_time": 1731384621,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127891,
+        "num": 127891,
+        "word": "珠海航展",
+        "onboard_time": 1731328637,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全球南方媒体智库高端论坛致贺信#"
+    }
+  }
+}
