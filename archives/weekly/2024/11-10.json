@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731425907543,
+  "endTime": 1731428927963,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -1051,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 740856,
+      "num": 397660,
+      "word": "杭州宝马",
+      "onboard_time": 1731424282,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736300,
       "num": 736300,
       "word": "日本石破内阁集体辞职",
@@ -1251,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643589,
+      "num": 255146,
+      "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
+      "onboard_time": 1731427341,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643067,
       "num": 643067,
       "word": "永夜星河",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1731233297,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 606381,
+      "num": 252782,
+      "word": "郝婧怡 退团",
+      "onboard_time": 1731427220,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 606082,
@@ -1560,14 +1584,6 @@
       "word": "撞劳斯莱斯司机称若没免责倾家也要赔",
       "onboard_time": 1731172635,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542275,
-      "num": 397660,
-      "word": "杭州宝马",
-      "onboard_time": 1731424282,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2435,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364424,
+      "num": 364424,
+      "word": "珠帘玉幕微博开分8.3",
+      "onboard_time": 1731423863,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364385,
       "num": 802968,
       "word": "严惩驾车撞人者守护生命安全",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1731388582,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338178,
+      "num": 252432,
+      "word": "李子柒新视频外网评论",
+      "onboard_time": 1731423563,
+      "rank": 32,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 337341,
@@ -3193,14 +3225,6 @@
       "onboard_time": 1731285680,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267568,
-      "num": 267568,
-      "word": "珠帘玉幕微博开分8.3",
-      "onboard_time": 1731423863,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 266172,
@@ -3907,14 +3931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218031,
-      "num": 218031,
-      "word": "李子柒新视频外网评论",
-      "onboard_time": 1731423563,
-      "rank": 32,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 217689,
       "num": 217689,
       "word": "网上很火但你很反感的梗",
@@ -4075,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210880,
+      "num": 273402,
+      "word": "丁禹兮原声",
+      "onboard_time": 1731419364,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210568,
       "num": 210568,
       "word": "蒋敦豪对阿条姐说下次见",
@@ -4145,6 +4169,14 @@
       "onboard_time": 1731317840,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209595,
+      "num": 209595,
+      "word": "官方通报19岁女生卖卵代孕",
+      "onboard_time": 1731426140,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209275,
@@ -4552,14 +4584,6 @@
       "word": "深潜",
       "onboard_time": 1731423743,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195298,
-      "num": 273402,
-      "word": "丁禹兮原声",
-      "onboard_time": 1731419364,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -5865,6 +5889,14 @@
       "onboard_time": 1731400339,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 158778,
+      "num": 147673,
+      "word": "王一栩赚钱路子告诉你了",
+      "onboard_time": 1731427519,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 158431,
@@ -7443,6 +7475,14 @@
       "category": "国外时政,国内时政"
     },
     {
+      "raw_hot": 110455,
+      "num": 110455,
+      "word": "再见爱人 镜头隐喻",
+      "onboard_time": 1731427280,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109372,
       "num": 109372,
       "word": "郑钦文商业价值或赶超巅峰李娜",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1731226398,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 93521,
+      "num": 93521,
+      "word": "WTT新加坡大满贯春节期间举行",
+      "onboard_time": 1731426620,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 93072,
@@ -8729,6 +8777,14 @@
       "onboard_time": 1731355870,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54943,
+      "num": 260884,
+      "word": "歼35A航展首秀就放了个大招",
+      "onboard_time": 1731427341,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 54893,
