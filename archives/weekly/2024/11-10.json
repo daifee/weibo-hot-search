@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731379754596,
+  "endTime": 1731380317447,
   "band_list": [
     {
       "raw_hot": 7517165,
@@ -179,8 +179,8 @@
       "category": "财经,时尚"
     },
     {
-      "raw_hot": 1447280,
-      "num": 396815,
+      "raw_hot": 1452465,
+      "num": 426040,
       "word": "一个人吃火锅打完酱料回来锅被收了",
       "onboard_time": 1731377118,
       "rank": 10,
@@ -203,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1419475,
+      "num": 1419475,
+      "word": "金价再跳水",
+      "onboard_time": 1731375739,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1402414,
       "num": 468316,
       "word": "被晓华爆改成易烊千玺男生发声",
       "onboard_time": 1731212477,
       "rank": 26,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1388735,
-      "num": 1388735,
-      "word": "金价再跳水",
-      "onboard_time": 1731375739,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 1377302,
@@ -449,6 +449,14 @@
       "onboard_time": 1731335960,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 998153,
+      "num": 424890,
+      "word": "烧伤妈妈说她实在熬不住了",
+      "onboard_time": 1731378859,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 993603,
@@ -771,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 729307,
-      "num": 369239,
-      "word": "烧伤妈妈说她实在熬不住了",
-      "onboard_time": 1731378859,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 723826,
       "num": 438575,
       "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
@@ -873,6 +873,14 @@
       "onboard_time": 1731315618,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 647623,
+      "num": 647623,
+      "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
+      "onboard_time": 1731376759,
+      "rank": 4,
+      "category": "军事"
     },
     {
       "raw_hot": 645890,
@@ -1019,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590658,
+      "num": 590658,
+      "word": "12岁少女谈小学成绩好的秘密走红",
+      "onboard_time": 1731376938,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589416,
       "num": 483476,
       "word": "迪丽热巴演技",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1731243619,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 585404,
-      "num": 585404,
-      "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
-      "onboard_time": 1731376759,
-      "rank": 4,
-      "category": "军事"
     },
     {
       "raw_hot": 573898,
@@ -1193,14 +1201,6 @@
       "onboard_time": 1731331339,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 519917,
-      "num": 519917,
-      "word": "12岁少女谈小学成绩好的秘密走红",
-      "onboard_time": 1731376938,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 516095,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1731353951,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 433258,
+      "num": 433258,
+      "word": "歌手2025",
+      "onboard_time": 1731378380,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 432525,
@@ -1923,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339973,
+      "num": 339973,
+      "word": "肖战作词",
+      "onboard_time": 1731380299,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 337341,
       "num": 337341,
       "word": "打过狂犬疫苗的人嘴可真严啊",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1731369618,
       "rank": 19,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 334457,
-      "num": 334457,
-      "word": "歌手2025",
-      "onboard_time": 1731378380,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 333605,
@@ -2323,6 +2331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270016,
+      "num": 270016,
+      "word": "1分钟测眼睛是否健康",
+      "onboard_time": 1731374657,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269525,
       "num": 269525,
       "word": "警方通报女生求职被要求陪睡",
@@ -2571,14 +2587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239752,
-      "num": 239752,
-      "word": "1分钟测眼睛是否健康",
-      "onboard_time": 1731374657,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 239512,
       "num": 239512,
       "word": "Doinb和Tian疑似和解",
@@ -2628,7 +2636,7 @@
     },
     {
       "raw_hot": 235328,
-      "num": 292564,
+      "num": 431288,
       "word": "升级版双座歼20亮相中国航展",
       "onboard_time": 1731379038,
       "rank": 20,
@@ -3011,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208965,
+      "num": 208965,
+      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
+      "onboard_time": 1731379218,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208262,
       "num": 208262,
       "word": "Doinb和LWX训练赛红温",
@@ -3155,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201817,
+      "num": 201817,
+      "word": "难哄婚卡彻底把我哄好了",
+      "onboard_time": 1731380299,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201698,
       "num": 201698,
       "word": "虞书欣还有好几千张库存",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1731292878,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201255,
+      "num": 201255,
+      "word": "金饰价格跌到788元",
+      "onboard_time": 1731379339,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 200882,
@@ -3451,6 +3483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189725,
+      "num": 189725,
+      "word": "从歼35A视角看蓝天大地",
+      "onboard_time": 1731378919,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 189452,
       "num": 189452,
       "word": "当我用麦学过双十一",
@@ -3529,14 +3569,6 @@
       "onboard_time": 1731332601,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184198,
-      "num": 184198,
-      "word": "从歼35A视角看蓝天大地",
-      "onboard_time": 1731378919,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 184182,
@@ -3843,14 +3875,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 174095,
-      "num": 174095,
-      "word": "金饰价格跌到788元",
-      "onboard_time": 1731379339,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 173900,
       "num": 219650,
       "word": "周也病娇感",
@@ -4115,6 +4139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165225,
+      "num": 165225,
+      "word": "金饰价格一夜下跌14元每克",
+      "onboard_time": 1731379339,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164901,
       "num": 164901,
       "word": "周也 乌兰察布",
@@ -4249,6 +4281,14 @@
       "onboard_time": 1731297499,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160704,
+      "num": 160704,
+      "word": "2025芒果大剧片单",
+      "onboard_time": 1731380299,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 160696,
@@ -4651,22 +4691,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 148657,
-      "num": 148657,
-      "word": "齐鲁工大回应宿舍起火学生刷脸逃生",
-      "onboard_time": 1731379218,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148246,
-      "num": 148246,
-      "word": "金饰价格一夜下跌14元每克",
-      "onboard_time": 1731379339,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148182,
       "num": 148182,
       "word": "丁禹兮吃面主打一个好养活",
@@ -4907,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139252,
+      "num": 166092,
+      "word": "首位歼10女飞行员余旭牺牲8周年",
+      "onboard_time": 1731376219,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139112,
       "num": 139112,
       "word": "LPL战队报价Chovy",
@@ -4977,6 +5009,14 @@
       "onboard_time": 1731332900,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137221,
+      "num": 133019,
+      "word": "水龙吟",
+      "onboard_time": 1731380299,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 137038,
@@ -5156,7 +5196,7 @@
     },
     {
       "raw_hot": 126839,
-      "num": 122473,
+      "num": 189916,
       "word": "宝宝仙侠",
       "onboard_time": 1731378618,
       "rank": 47,
@@ -5275,6 +5315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124460,
+      "num": 124460,
+      "word": "12K极清摄像沉浸式体验飞行表演",
+      "onboard_time": 1731378799,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 124201,
       "num": 447638,
       "word": "加油QueenWen",
@@ -5336,14 +5384,6 @@
       "word": "中国机器狼打团战还有分工",
       "onboard_time": 1731304159,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122296,
-      "num": 166092,
-      "word": "首位歼10女飞行员余旭牺牲8周年",
-      "onboard_time": 1731376219,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -6203,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75609,
+      "num": 429658,
+      "word": "绍伊古将参观中国航展",
+      "onboard_time": 1731378380,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 74523,
       "num": 407567,
       "word": "老师狂扇学生巴掌开除不是终点",
@@ -6297,14 +6345,6 @@
       "onboard_time": 1731242540,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70683,
-      "num": 401897,
-      "word": "绍伊古将参观中国航展",
-      "onboard_time": 1731378380,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 69715,
@@ -6891,6 +6931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44158,
+      "num": 190260,
+      "word": "当鸿蒙牵手日产",
+      "onboard_time": 1731379399,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44078,
       "num": 50814,
       "word": "俄勇士在珠海首次展示六机编队桶滚",
@@ -6929,6 +6977,14 @@
       "onboard_time": 1731238399,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41980,
+      "num": 419390,
+      "word": "任天堂直面会",
+      "onboard_time": 1731379279,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 41806,
@@ -7235,14 +7291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29851,
-      "num": 122571,
-      "word": "当鸿蒙牵手日产",
-      "onboard_time": 1731379399,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 29467,
       "num": 246216,
       "word": "大额存单进入1时代",
@@ -7297,14 +7345,6 @@
       "onboard_time": 1731174973,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 28126,
-      "num": 362378,
-      "word": "任天堂直面会",
-      "onboard_time": 1731379279,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 27512,
