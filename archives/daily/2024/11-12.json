@@ -1,10 +1,10 @@
 {
   "startTime": 1731342500996,
-  "endTime": 1731403398743,
+  "endTime": 1731404281550,
   "band_list": [
     {
-      "raw_hot": 19267203,
-      "num": 19267203,
+      "raw_hot": 20525107,
+      "num": 20525107,
       "word": "全国法定节假日将增加",
       "onboard_time": 1731402322,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1731401000,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 4144002,
+      "num": 4144002,
+      "word": "2025年放假安排来了",
+      "onboard_time": 1731402744,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3640289,
@@ -115,14 +123,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1106859,
-      "num": 1106859,
-      "word": "2025年放假安排来了",
-      "onboard_time": 1731402744,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1093413,
       "num": 424301,
       "word": "体制内人士称事业编提副科很少见",
@@ -145,6 +145,14 @@
       "onboard_time": 1731386002,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 994426,
+      "num": 994426,
+      "word": "调休后上班一般不超6天",
+      "onboard_time": 1731403044,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 987677,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614854,
+      "num": 390674,
+      "word": "被医生打死老板妻子一度以为他在救人",
+      "onboard_time": 1731401722,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 614423,
       "num": 614423,
       "word": "今天全网最令人羡慕的工作",
@@ -385,14 +401,6 @@
       "onboard_time": 1731377118,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 467909,
-      "num": 390674,
-      "word": "被医生打死老板妻子一度以为他在救人",
-      "onboard_time": 1731401722,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 467282,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401164,
+      "num": 388802,
+      "word": "A股跳水原因找到了",
+      "onboard_time": 1731401479,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 400579,
       "num": 344628,
       "word": "点外卖忘记了东北食物的分量",
@@ -531,12 +547,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 388802,
-      "num": 388802,
-      "word": "A股跳水原因找到了",
-      "onboard_time": 1731401479,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 388328,
+      "num": 388328,
+      "word": "周三其实应该是休息日才对",
+      "onboard_time": 1731399918,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 381816,
@@ -577,6 +593,14 @@
       "onboard_time": 1731375978,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 354270,
+      "num": 354270,
+      "word": "春节自农历除夕起放假调休8天",
+      "onboard_time": 1731403225,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352749,
@@ -699,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307399,
+      "num": 345798,
+      "word": "永夜星河买了原版版权",
+      "onboard_time": 1731398600,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294440,
       "num": 294440,
       "word": "伊朗空军司令仔细参观歼10CE",
@@ -819,14 +851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261815,
-      "num": 271589,
-      "word": "永夜星河买了原版版权",
-      "onboard_time": 1731398600,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 261234,
       "num": 261234,
       "word": "麦琳人设",
@@ -883,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248201,
+      "num": 330002,
+      "word": "5月2日放假",
+      "onboard_time": 1731403705,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246580,
       "num": 419767,
       "word": "歼35A一出场垂直筋斗",
@@ -931,6 +963,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 230934,
+      "num": 230934,
+      "word": "马斯克为特朗普花了2亿美元",
+      "onboard_time": 1731403104,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 229667,
       "num": 229667,
       "word": "林虞爸爸 妙妙子期都是谁啊",
@@ -977,6 +1017,14 @@
       "onboard_time": 1731385821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215560,
+      "num": 215560,
+      "word": "女子买高仿炫耀是正品被戳穿",
+      "onboard_time": 1731403285,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215331,
@@ -1083,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198530,
+      "num": 198530,
+      "word": "全员加速中拟邀登陆少年",
+      "onboard_time": 1731404003,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197877,
       "num": 197877,
       "word": "永夜星河合体扫楼",
@@ -1131,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192934,
-      "num": 192934,
-      "word": "调休后上班一般不超6天",
-      "onboard_time": 1731403044,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192920,
       "num": 192920,
       "word": "杨倩备战新的奥运周期",
@@ -1152,6 +1200,14 @@
       "word": "永夜星河 群像的魅力",
       "onboard_time": 1731389779,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190626,
+      "num": 269811,
+      "word": "赵露思明镜台开业大吉",
+      "onboard_time": 1731403345,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1235,12 +1291,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179764,
-      "num": 179764,
-      "word": "周三其实应该是休息日才对",
-      "onboard_time": 1731399918,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 180118,
+      "num": 180118,
+      "word": "张艺兴成毅要不认识一下吧",
+      "onboard_time": 1731404003,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 179725,
@@ -1395,6 +1451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164494,
+      "num": 398437,
+      "word": "李子柒式美学",
+      "onboard_time": 1731402866,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 163510,
       "num": 134095,
       "word": "永夜星河",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1731396739,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162627,
-      "num": 162627,
-      "word": "春节自农历除夕起放假调休8天",
-      "onboard_time": 1731403225,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162379,
@@ -1499,14 +1555,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 152222,
-      "num": 152222,
-      "word": "马斯克为特朗普花了2亿美元",
-      "onboard_time": 1731403104,
-      "rank": 48,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 151793,
       "num": 355968,
       "word": "保研互鸽暴露了哪些问题",
@@ -1553,6 +1601,22 @@
       "onboard_time": 1731392418,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146451,
+      "num": 146451,
+      "word": "韩国乳业公司将为牛奶瓶申请国家遗产",
+      "onboard_time": 1731404185,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144939,
+      "num": 144939,
+      "word": "珠海航展氛围感燃到飞起",
+      "onboard_time": 1731404243,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 144645,
@@ -1617,14 +1681,6 @@
       "onboard_time": 1731393679,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137706,
-      "num": 137706,
-      "word": "女子买高仿炫耀是正品被戳穿",
-      "onboard_time": 1731403285,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136733,
@@ -1811,6 +1867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114393,
+      "num": 399854,
+      "word": "李子柒断更1217天",
+      "onboard_time": 1731403345,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 112580,
       "num": 112580,
       "word": "祝绪丹 闫妮赛道嫡长女",
@@ -1947,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101437,
-      "num": 398437,
-      "word": "李子柒式美学",
-      "onboard_time": 1731402866,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 100695,
       "num": 100695,
       "word": "EDG芜湖起飞",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1731365774,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95402,
+      "num": 286453,
+      "word": "李子柒开始清库存了",
+      "onboard_time": 1731403645,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 92407,
@@ -2025,14 +2089,6 @@
       "onboard_time": 1731330019,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82085,
-      "num": 235229,
-      "word": "赵露思明镜台开业大吉",
-      "onboard_time": 1731403345,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 81176,
@@ -2185,6 +2241,14 @@
       "onboard_time": 1731343732,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 61482,
+      "num": 408533,
+      "word": "专家建议平台多点实惠少点套路",
+      "onboard_time": 1731402322,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61156,
@@ -2347,20 +2411,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 44126,
-      "num": 408533,
-      "word": "专家建议平台多点实惠少点套路",
-      "onboard_time": 1731402322,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43147,
       "num": 113044,
       "word": "温峥嵘回复慕声赵若失哭对比图",
       "onboard_time": 1731341957,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42033,
+      "num": 286223,
+      "word": "李子柒 森林衣帽间",
+      "onboard_time": 1731403884,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 41980,
@@ -2451,6 +2515,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 33933,
+      "num": 333849,
+      "word": "四环奥迪多一环",
+      "onboard_time": 1731403044,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 33897,
+      "num": 342559,
+      "word": "AG抵达北京",
+      "onboard_time": 1731403705,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33438,
       "num": 279421,
       "word": "八一飞行表演队拉开表演序幕",
@@ -2484,7 +2564,7 @@
     },
     {
       "raw_hot": 31243,
-      "num": 299077,
+      "num": 337876,
       "word": "奥迪在华市场电动车终极答卷",
       "onboard_time": 1731402382,
       "rank": 23,
@@ -2507,20 +2587,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 28709,
-      "num": 182309,
-      "word": "四环奥迪多一环",
-      "onboard_time": 1731403044,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 28335,
       "num": 366505,
       "word": "合新铁路建设材料以次充好",
       "onboard_time": 1731395362,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27349,
+      "num": 346796,
+      "word": "为一座博物馆奔赴澳门",
+      "onboard_time": 1731402142,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 26377,
@@ -2588,7 +2668,7 @@
     },
     {
       "raw_hot": 22435,
-      "num": 234096,
+      "num": 270196,
       "word": "沈阳街头的伦敦公园",
       "onboard_time": 1731400218,
       "rank": 35,
@@ -2635,14 +2715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20474,
-      "num": 346796,
-      "word": "为一座博物馆奔赴澳门",
-      "onboard_time": 1731402142,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 20117,
       "num": 24833,
       "word": "孙颖莎王楚钦单打冠军数量仍第一",
@@ -2660,7 +2732,7 @@
     },
     {
       "raw_hot": 19999,
-      "num": 3835794,
+      "num": 5216336,
       "word": "万千气象看福建",
       "onboard_time": 1731384022,
       "rank": 2,
@@ -2699,8 +2771,16 @@
       "category": "国内时政,社会新闻"
     },
     {
+      "raw_hot": 18602,
+      "num": 396422,
+      "word": "律师称商家挂麦琳肖像或涉侵权",
+      "onboard_time": 1731402502,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18021,
-      "num": 234157,
+      "num": 271765,
       "word": "日本为何频繁更换首相",
       "onboard_time": 1731402502,
       "rank": 28,
@@ -2747,12 +2827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14069,
-      "num": 396422,
-      "word": "律师称商家挂麦琳肖像或涉侵权",
-      "onboard_time": 1731402502,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 13967,
+      "num": 180707,
+      "word": "我在新疆做奶茶",
+      "onboard_time": 1731403585,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 13915,
@@ -2817,14 +2897,6 @@
       "onboard_time": 1731382759,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 4590,
-      "num": 399854,
-      "word": "李子柒断更1217天",
-      "onboard_time": 1731403345,
-      "rank": 12,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
@@ -2842,6 +2914,9 @@
     },
     {
       "word": "#习近平致信祝贺中山大学建校100周年#"
+    },
+    {
+      "word": "#跟着习主席看世界#"
     }
   ]
 }
