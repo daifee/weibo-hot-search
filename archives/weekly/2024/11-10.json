@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731489796809,
+  "endTime": 1731490662504,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -523,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1340537,
+      "num": 1340537,
+      "word": "正宗炸鸡柳",
+      "onboard_time": 1731486560,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1328207,
       "num": 361110,
       "word": "开封市民吐槽别来夜骑了",
@@ -641,14 +649,6 @@
       "onboard_time": 1731463877,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1161928,
-      "num": 1185908,
-      "word": "正宗炸鸡柳",
-      "onboard_time": 1731486560,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 1124397,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805826,
+      "num": 460401,
+      "word": "刘晓庆 祝我生日快乐",
+      "onboard_time": 1731487880,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803501,
       "num": 803501,
       "word": "广州有可能打破最长夏季纪录",
@@ -1272,6 +1280,14 @@
       "word": "杨颖空降超话发文想念大家",
       "onboard_time": 1731458240,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 755103,
+      "num": 432620,
+      "word": "赵露思听劝",
+      "onboard_time": 1731487279,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1481,14 +1497,6 @@
       "onboard_time": 1731482119,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656295,
-      "num": 460401,
-      "word": "刘晓庆 祝我生日快乐",
-      "onboard_time": 1731487880,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 655766,
@@ -2187,6 +2195,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 495260,
+      "num": 432582,
+      "word": "NewJeans或将解约",
+      "onboard_time": 1731489319,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491655,
       "num": 491655,
       "word": "金价",
@@ -2523,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432519,
+      "num": 432519,
+      "word": "专家称9胞胎产妇或面临大月份流产",
+      "onboard_time": 1731489559,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431949,
       "num": 431949,
       "word": "黑龙江出生率再创历史新低",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1731229880,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420499,
+      "num": 420499,
+      "word": "用人民币感受日本物价",
+      "onboard_time": 1731485959,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 412345,
@@ -2659,14 +2691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402680,
-      "num": 397220,
-      "word": "用人民币感受日本物价",
-      "onboard_time": 1731485959,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 401489,
       "num": 401489,
       "word": "2岁失踪女童家属怀疑系熟人作案",
@@ -2753,14 +2777,6 @@
       "onboard_time": 1731220461,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 389181,
-      "num": 389181,
-      "word": "赵露思听劝",
-      "onboard_time": 1731487279,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 389041,
@@ -3200,6 +3216,14 @@
       "word": "周洁琼演技",
       "onboard_time": 1731338300,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 334946,
+      "num": 334946,
+      "word": "永夜星河扫楼直播呢",
+      "onboard_time": 1731489618,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -5267,14 +5291,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 200178,
-      "num": 200178,
-      "word": "NewJeans或将解约",
-      "onboard_time": 1731489319,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200151,
       "num": 348527,
       "word": "关晓彤晒栋哲筱婷大学第一张合影",
@@ -5371,6 +5387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197616,
+      "num": 197616,
+      "word": "王楚钦出战福冈总决赛男单",
+      "onboard_time": 1731489681,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197351,
       "num": 233957,
       "word": "陈好被花椒打脸了",
@@ -5396,7 +5420,7 @@
     },
     {
       "raw_hot": 196676,
-      "num": 196676,
+      "num": 335042,
       "word": "王一博抖抖酷存",
       "onboard_time": 1731488540,
       "rank": 31,
@@ -5724,7 +5748,7 @@
     },
     {
       "raw_hot": 187650,
-      "num": 235424,
+      "num": 335183,
       "word": "中国航展首日已签订280架订单",
       "onboard_time": 1731480800,
       "rank": 40,
@@ -6707,6 +6731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163685,
+      "num": 497692,
+      "word": "李子柒曾公开创作团队仅3人",
+      "onboard_time": 1731488058,
+      "rank": 9,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 163618,
       "num": 254956,
       "word": "再见爱人 镜头隐喻",
@@ -6963,7 +6995,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158248,
+      "raw_hot": 158286,
       "num": 472494,
       "word": "两司机路怒斗气致1死3获刑",
       "onboard_time": 1731485302,
@@ -7177,6 +7209,14 @@
       "onboard_time": 1731477920,
       "rank": 43,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "孙颖莎王艺迪出战女双",
+      "onboard_time": 1731488239,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 153605,
@@ -7955,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136205,
+      "num": 136205,
+      "word": "丁禹兮又做到了",
+      "onboard_time": 1731484639,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136099,
       "num": 136099,
       "word": "李宏毅古装",
@@ -7993,22 +8041,6 @@
       "onboard_time": 1731198856,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134914,
-      "num": 134914,
-      "word": "孙颖莎王艺迪出战女双",
-      "onboard_time": 1731488239,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134557,
-      "num": 134557,
-      "word": "专家称9胞胎产妇或面临大月份流产",
-      "onboard_time": 1731489559,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134473,
@@ -8153,6 +8185,14 @@
       "onboard_time": 1731208698,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129857,
+      "num": 432606,
+      "word": "港片第一部灾难片有多猛",
+      "onboard_time": 1731489859,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 129549,
@@ -8369,14 +8409,6 @@
       "onboard_time": 1731209957,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124677,
-      "num": 124677,
-      "word": "王楚钦出战福冈总决赛男单",
-      "onboard_time": 1731489681,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 124460,
@@ -8691,14 +8723,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 116213,
-      "num": 116213,
-      "word": "丁禹兮又做到了",
-      "onboard_time": 1731484639,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 115356,
       "num": 282790,
       "word": "花少 原始部落",
@@ -8761,6 +8785,14 @@
       "onboard_time": 1731280876,
       "rank": 32,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 112965,
+      "num": 112965,
+      "word": "迪丽热巴甩绳舞路透",
+      "onboard_time": 1731490098,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 112727,
@@ -9083,6 +9115,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 102568,
+      "num": 263295,
+      "word": "永夜星河扫楼现场",
+      "onboard_time": 1731488958,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102488,
       "num": 419820,
       "word": "郑钦文用3个关键词总结2024赛季",
@@ -9395,6 +9435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89792,
+      "num": 432521,
+      "word": "李玟姐姐回应李玟墓地杂草丛生",
+      "onboard_time": 1731489414,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89695,
       "num": 171337,
       "word": "郑钦文说我是比赛中更有统治力的人",
@@ -9649,14 +9697,6 @@
       "onboard_time": 1731232819,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76302,
-      "num": 397242,
-      "word": "李玟姐姐回应李玟墓地杂草丛生",
-      "onboard_time": 1731489414,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 76016,
@@ -9939,6 +9979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67226,
+      "num": 397226,
+      "word": "官方回应幼童疑被校车碾压身亡",
+      "onboard_time": 1731488658,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67124,
       "num": 187251,
       "word": "桃晚安手势舞",
@@ -10035,6 +10083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65231,
+      "num": 432597,
+      "word": "小巷人家选角争议的锅谁来背",
+      "onboard_time": 1731489020,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65096,
       "num": 429239,
       "word": "为什么越刷短视频越空虚",
@@ -10097,14 +10153,6 @@
       "onboard_time": 1731315499,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62325,
-      "num": 497692,
-      "word": "李子柒曾公开创作团队仅3人",
-      "onboard_time": 1731488058,
-      "rank": 9,
-      "category": "网红,美食"
     },
     {
       "raw_hot": 62101,
@@ -10595,14 +10643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50948,
-      "num": 397226,
-      "word": "官方回应幼童疑被校车碾压身亡",
-      "onboard_time": 1731488658,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50801,
       "num": 480931,
       "word": "京东双11京喜1元大捡漏",
@@ -10641,6 +10681,14 @@
       "onboard_time": 1731326418,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49248,
+      "num": 432537,
+      "word": "国际滑联更新视频等林孝埈伤愈归来",
+      "onboard_time": 1731490339,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 48993,
@@ -10921,14 +10969,6 @@
       "onboard_time": 1731379279,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41858,
-      "num": 417613,
-      "word": "小巷人家选角争议的锅谁来背",
-      "onboard_time": 1731489020,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 41806,

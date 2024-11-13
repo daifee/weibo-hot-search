@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731489796809,
+  "endTime": 1731490662504,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1340537,
+      "num": 1340537,
+      "word": "正宗炸鸡柳",
+      "onboard_time": 1731486560,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1275707,
       "num": 1275707,
       "word": "永夜星河扫楼",
@@ -161,14 +169,6 @@
       "onboard_time": 1731463877,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1161928,
-      "num": 1185908,
-      "word": "正宗炸鸡柳",
-      "onboard_time": 1731486560,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 1070254,
@@ -243,6 +243,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 805826,
+      "num": 460401,
+      "word": "刘晓庆 祝我生日快乐",
+      "onboard_time": 1731487880,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 779280,
       "num": 779280,
       "word": "多地官宣出生人口反弹",
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 755103,
+      "num": 432620,
+      "word": "赵露思听劝",
+      "onboard_time": 1731487279,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 740856,
       "num": 259498,
       "word": "杭州宝马",
@@ -281,14 +297,6 @@
       "onboard_time": 1731482119,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656295,
-      "num": 460401,
-      "word": "刘晓庆 祝我生日快乐",
-      "onboard_time": 1731487880,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 655073,
@@ -451,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 495260,
+      "num": 432582,
+      "word": "NewJeans或将解约",
+      "onboard_time": 1731489319,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476187,
       "num": 374420,
       "word": "赵露思会逐步重组团队人员",
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432519,
+      "num": 432519,
+      "word": "专家称9胞胎产妇或面临大月份流产",
+      "onboard_time": 1731489559,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430139,
       "num": 430139,
       "word": "出租车师傅刚要报警女子跳进池塘",
@@ -507,6 +531,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 420499,
+      "num": 420499,
+      "word": "用人民币感受日本物价",
+      "onboard_time": 1731485959,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 410089,
       "num": 410089,
       "word": "虞书欣丁禹兮腾讯扫楼",
@@ -521,22 +553,6 @@
       "onboard_time": 1731454278,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402680,
-      "num": 397220,
-      "word": "用人民币感受日本物价",
-      "onboard_time": 1731485959,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 389181,
-      "num": 389181,
-      "word": "赵露思听劝",
-      "onboard_time": 1731487279,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 389041,
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352001,
+      "num": 352001,
+      "word": "禹宙中欣",
+      "onboard_time": 1731490400,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351369,
       "num": 351369,
       "word": "库里杀死比赛",
@@ -617,6 +641,14 @@
       "onboard_time": 1731469339,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334946,
+      "num": 334946,
+      "word": "永夜星河扫楼直播呢",
+      "onboard_time": 1731489618,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 334287,
@@ -1019,16 +1051,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200178,
-      "num": 200178,
-      "word": "NewJeans或将解约",
-      "onboard_time": 1731489319,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 197616,
+      "num": 197616,
+      "word": "王楚钦出战福冈总决赛男单",
+      "onboard_time": 1731489681,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 196676,
-      "num": 196676,
+      "num": 335042,
       "word": "王一博抖抖酷存",
       "onboard_time": 1731488540,
       "rank": 31,
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 187650,
-      "num": 235424,
+      "num": 335183,
       "word": "中国航展首日已签订280架订单",
       "onboard_time": 1731480800,
       "rank": 40,
@@ -1251,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163685,
+      "num": 497692,
+      "word": "李子柒曾公开创作团队仅3人",
+      "onboard_time": 1731488058,
+      "rank": 9,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 163618,
       "num": 254956,
       "word": "再见爱人 镜头隐喻",
@@ -1291,7 +1331,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158248,
+      "raw_hot": 158286,
       "num": 472494,
       "word": "两司机路怒斗气致1死3获刑",
       "onboard_time": 1731485302,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1731477920,
       "rank": 43,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "孙颖莎王艺迪出战女双",
+      "onboard_time": 1731488239,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 153254,
@@ -1475,20 +1523,12 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 134914,
-      "num": 134914,
-      "word": "孙颖莎王艺迪出战女双",
-      "onboard_time": 1731488239,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134557,
-      "num": 134557,
-      "word": "专家称9胞胎产妇或面临大月份流产",
-      "onboard_time": 1731489559,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 136205,
+      "num": 136205,
+      "word": "丁禹兮又做到了",
+      "onboard_time": 1731484639,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133039,
@@ -1523,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129857,
+      "num": 432606,
+      "word": "港片第一部灾难片有多猛",
+      "onboard_time": 1731489859,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129549,
       "num": 149397,
       "word": "卓沅吃火锅报备",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1731471981,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124677,
-      "num": 124677,
-      "word": "王楚钦出战福冈总决赛男单",
-      "onboard_time": 1731489681,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 121546,
@@ -1619,20 +1659,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116213,
-      "num": 116213,
-      "word": "丁禹兮又做到了",
-      "onboard_time": 1731484639,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 115356,
       "num": 282790,
       "word": "花少 原始部落",
       "onboard_time": 1731478342,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112965,
+      "num": 112965,
+      "word": "迪丽热巴甩绳舞路透",
+      "onboard_time": 1731490098,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111677,
@@ -1665,6 +1705,14 @@
       "onboard_time": 1731416843,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102568,
+      "num": 263295,
+      "word": "永夜星河扫楼现场",
+      "onboard_time": 1731488958,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 101160,
@@ -1771,6 +1819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89792,
+      "num": 432521,
+      "word": "李玟姐姐回应李玟墓地杂草丛生",
+      "onboard_time": 1731489414,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88824,
       "num": 336514,
       "word": "国足18强赛晋级形势",
@@ -1851,14 +1907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 76302,
-      "num": 397242,
-      "word": "李玟姐姐回应李玟墓地杂草丛生",
-      "onboard_time": 1731489414,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73999,
       "num": 73999,
       "word": "小巷人家",
@@ -1915,6 +1963,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67226,
+      "num": 397226,
+      "word": "官方回应幼童疑被校车碾压身亡",
+      "onboard_time": 1731488658,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66269,
       "num": 139259,
       "word": "库里克莱再见爱人",
@@ -1923,20 +1979,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65231,
+      "num": 432597,
+      "word": "小巷人家选角争议的锅谁来背",
+      "onboard_time": 1731489020,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63875,
       "num": 263291,
       "word": "靳东于和伟这段对话看泪目了",
       "onboard_time": 1731479058,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62325,
-      "num": 497692,
-      "word": "李子柒曾公开创作团队仅3人",
-      "onboard_time": 1731488058,
-      "rank": 9,
-      "category": "网红,美食"
     },
     {
       "raw_hot": 62101,
@@ -2067,20 +2123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50948,
-      "num": 397226,
-      "word": "官方回应幼童疑被校车碾压身亡",
-      "onboard_time": 1731488658,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50210,
       "num": 149271,
       "word": "水晶哥老头杯喊话Uzi",
       "onboard_time": 1731467118,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49248,
+      "num": 432537,
+      "word": "国际滑联更新视频等林孝埈伤愈归来",
+      "onboard_time": 1731490339,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 48993,
@@ -2161,14 +2217,6 @@
       "onboard_time": 1731444790,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41858,
-      "num": 417613,
-      "word": "小巷人家选角争议的锅谁来背",
-      "onboard_time": 1731489020,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 41625,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731490662504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1340537,
+        "num": 1340537,
+        "word": "正宗炸鸡柳",
+        "onboard_time": 1731486560,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 985749,
+        "num": 985749,
+        "word": "12306回应女性列车员裙装改裤装建议",
+        "onboard_time": 1731483199,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22481,
+        "num": 830555,
+        "word": "APEC为何如此重要",
+        "onboard_time": 1731485180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 763297,
+        "num": 763297,
+        "word": "虞书欣丁禹兮穿着古装扫楼",
+        "onboard_time": 1731484222,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504401,
+        "num": 504401,
+        "word": "樊振东马龙陈梦退出福冈总决赛",
+        "onboard_time": 1731483800,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1118614,
+        "num": 496736,
+        "word": "李子柒身份证改名",
+        "onboard_time": 1731474380,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 465055,
+        "num": 465055,
+        "word": "98万部手机被控制每月偷偷扣钱",
+        "onboard_time": 1731475280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444251,
+        "num": 444251,
+        "word": "mbti又变了",
+        "onboard_time": 1731482538,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432677,
+        "num": 432677,
+        "word": "榜一大哥沙特来了",
+        "onboard_time": 1731473601,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 388158,
+        "num": 432661,
+        "word": "永夜星河扫楼",
+        "onboard_time": 1731476000,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919790,
+        "num": 432659,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805826,
+        "num": 432637,
+        "word": "刘晓庆 祝我生日快乐",
+        "onboard_time": 1731487880,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755103,
+        "num": 432620,
+        "word": "赵露思听劝",
+        "onboard_time": 1731487279,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129857,
+        "num": 432606,
+        "word": "港片第一部灾难片有多猛",
+        "onboard_time": 1731489859,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65231,
+        "num": 432597,
+        "word": "小巷人家选角争议的锅谁来背",
+        "onboard_time": 1731489020,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495260,
+        "num": 432582,
+        "word": "NewJeans或将解约",
+        "onboard_time": 1731489319,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436263,
+        "num": 432561,
+        "word": "张檬怀孕17周98斤",
+        "onboard_time": 1731474860,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49248,
+        "num": 432537,
+        "word": "国际滑联更新视频等林孝埈伤愈归来",
+        "onboard_time": 1731490339,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89792,
+        "num": 432521,
+        "word": "李玟姐姐回应李玟墓地杂草丛生",
+        "onboard_time": 1731489414,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432519,
+        "num": 432519,
+        "word": "专家称9胞胎产妇或面临大月份流产",
+        "onboard_time": 1731489559,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420499,
+        "num": 420499,
+        "word": "用人民币感受日本物价",
+        "onboard_time": 1731485959,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 352001,
+        "num": 352001,
+        "word": "禹宙中欣",
+        "onboard_time": 1731490400,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337509,
+        "num": 337509,
+        "word": "李子柒三更",
+        "onboard_time": 1731474080,
+        "rank": 22,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 135739,
+        "num": 335183,
+        "word": "中国航展首日已签订280架订单",
+        "onboard_time": 1731480800,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 95822,
+        "num": 335042,
+        "word": "王一博抖抖酷存",
+        "onboard_time": 1731488540,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334946,
+        "num": 334946,
+        "word": "永夜星河扫楼直播呢",
+        "onboard_time": 1731489618,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299234,
+        "num": 299234,
+        "word": "李子柒停更时补瞌睡陪奶奶",
+        "onboard_time": 1731479838,
+        "rank": 26,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 275300,
+        "num": 275300,
+        "word": "网友建议女性列车员裙装改裤装",
+        "onboard_time": 1731484940,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196373,
+        "num": 268784,
+        "word": "成毅五年前拍的剧播了",
+        "onboard_time": 1731479000,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102568,
+        "num": 263295,
+        "word": "永夜星河扫楼现场",
+        "onboard_time": 1731488958,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263191,
+        "num": 263191,
+        "word": "麦琳问离婚孩子跟钱能归她吗",
+        "onboard_time": 1731476900,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224154,
+        "num": 224154,
+        "word": "要是不想失业",
+        "onboard_time": 1731485479,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197616,
+        "num": 197616,
+        "word": "王楚钦出战福冈总决赛男单",
+        "onboard_time": 1731489681,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163685,
+        "num": 163685,
+        "word": "李子柒曾公开创作团队仅3人",
+        "onboard_time": 1731488058,
+        "rank": 33,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 158286,
+        "num": 158286,
+        "word": "两司机路怒斗气致1死3获刑",
+        "onboard_time": 1731485302,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158193,
+        "num": 158193,
+        "word": "违规花千万装修仿真椰子树连夜拆除",
+        "onboard_time": 1731487939,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157041,
+        "num": 157041,
+        "word": "马斯克将领导美国政府效率部",
+        "onboard_time": 1731463400,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153635,
+        "num": 153635,
+        "word": "孙颖莎王艺迪出战女双",
+        "onboard_time": 1731488239,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142756,
+        "num": 142756,
+        "word": "宋慧乔金高银Jennie出席婚礼",
+        "onboard_time": 1731474080,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67226,
+        "num": 140887,
+        "word": "官方回应幼童疑被校车碾压身亡",
+        "onboard_time": 1731488658,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140384,
+        "num": 140384,
+        "word": "被泼开水女童返校书包现恐吓信",
+        "onboard_time": 1731468859,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136205,
+        "num": 136205,
+        "word": "丁禹兮又做到了",
+        "onboard_time": 1731484639,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135829,
+        "num": 135829,
+        "word": "李子柒穿的蜀锦裙源于宋代百迭裙",
+        "onboard_time": 1731481340,
+        "rank": 42,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 132303,
+        "num": 132303,
+        "word": "中国首飞航天员杨利伟现身航展",
+        "onboard_time": 1731484699,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131854,
+        "num": 131854,
+        "word": "樊振东给陈雨菲鼓掌",
+        "onboard_time": 1731486259,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127734,
+        "num": 127734,
+        "word": "阿勒泰暴雪",
+        "onboard_time": 1731483138,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118631,
+        "num": 118631,
+        "word": "俄立法禁止宣传不生孩子",
+        "onboard_time": 1731476600,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112965,
+        "num": 112965,
+        "word": "迪丽热巴甩绳舞路透",
+        "onboard_time": 1731490098,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111992,
+        "num": 111992,
+        "word": "墓园回应李玟墓地杂草丛生",
+        "onboard_time": 1731481821,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108509,
+        "num": 108509,
+        "word": "周洁琼送给姗姗的婚纱照",
+        "onboard_time": 1731485420,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京赴利马#"
+    }
+  }
+}
