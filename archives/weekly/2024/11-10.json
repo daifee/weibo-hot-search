@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731505170701,
+  "endTime": 1731507662749,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -507,6 +507,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1375824,
+      "num": 413886,
+      "word": "李子柒把漆字写错了",
+      "onboard_time": 1731504800,
+      "rank": 20,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 1370093,
       "num": 1370093,
       "word": "丁禹兮 唐梓",
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 985446,
-      "num": 280623,
+      "num": 338245,
       "word": "虞书欣戴上了丁禹兮做的拼豆",
       "onboard_time": 1731493460,
       "rank": 20,
@@ -1387,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 740942,
+      "num": 740942,
+      "word": "姆巴佩被曝存在精神问题",
+      "onboard_time": 1731498142,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 740856,
       "num": 397660,
       "word": "杭州宝马",
@@ -1427,14 +1443,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 731131,
-      "num": 731131,
-      "word": "姆巴佩被曝存在精神问题",
-      "onboard_time": 1731498142,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 730070,
       "num": 730070,
       "word": "何与 双轨",
@@ -1451,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 725400,
+      "num": 420466,
+      "word": "晋江男孩",
+      "onboard_time": 1731505342,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 723826,
       "num": 438575,
       "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1731273791,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 716702,
+      "num": 716702,
+      "word": "刘宇宁称接受所有批评",
+      "onboard_time": 1731504200,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 715768,
@@ -2739,14 +2763,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 413886,
-      "num": 413886,
-      "word": "李子柒把漆字写错了",
-      "onboard_time": 1731504800,
-      "rank": 20,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 412345,
       "num": 322707,
       "word": "从编制高中教师辞职做酒吧MC",
@@ -2809,6 +2825,14 @@
       "onboard_time": 1731294197,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 406364,
+      "num": 406364,
+      "word": "鹿晗丁程鑫贺峻霖首映礼同框",
+      "onboard_time": 1731503541,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 403104,
@@ -3249,6 +3273,14 @@
       "onboard_time": 1731180792,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347565,
+      "num": 347565,
+      "word": "全红婵也在看刘宇宁直播",
+      "onboard_time": 1731504859,
+      "rank": 41,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 345004,
@@ -4427,6 +4459,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 245541,
+      "num": 239460,
+      "word": "林家 庄家",
+      "onboard_time": 1731505880,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244311,
       "num": 244311,
       "word": "李子柒消失的这三年",
@@ -4819,14 +4859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224403,
-      "num": 224403,
-      "word": "鹿晗丁程鑫贺峻霖首映礼同框",
-      "onboard_time": 1731503541,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 223777,
       "num": 223777,
       "word": "分享欲才是两个人感情最好的证明",
@@ -5091,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212386,
+      "num": 212386,
+      "word": "上戏教授谈王一博获金鸡提名",
+      "onboard_time": 1731505760,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212125,
       "num": 212125,
       "word": "李马克发长文道歉",
@@ -5297,6 +5337,14 @@
       "onboard_time": 1731156920,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206641,
+      "num": 206641,
+      "word": "邓家佳黑丝御姐风",
+      "onboard_time": 1731502519,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 206154,
@@ -5755,11 +5803,27 @@
       "category": "军事"
     },
     {
+      "raw_hot": 195603,
+      "num": 195603,
+      "word": "摄影师们挤满珠海航展",
+      "onboard_time": 1731505342,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 195391,
       "num": 195391,
       "word": "深潜",
       "onboard_time": 1731423743,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195375,
+      "num": 195375,
+      "word": "虞书欣说拍戏像楚门的世界",
+      "onboard_time": 1731506181,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -6035,14 +6099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189678,
-      "num": 452946,
-      "word": "刘宇宁称接受所有批评",
-      "onboard_time": 1731504200,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189452,
       "num": 189452,
       "word": "当我用麦学过双十一",
@@ -6129,6 +6185,14 @@
       "onboard_time": 1731423264,
       "rank": 39,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 186720,
+      "num": 186720,
+      "word": "歼16再现鳄鱼翻滚动作",
+      "onboard_time": 1731505399,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 186611,
@@ -6460,7 +6524,7 @@
     },
     {
       "raw_hot": 178436,
-      "num": 178436,
+      "num": 339147,
       "word": "王一博VOGUE盛典花絮",
       "onboard_time": 1731501619,
       "rank": 47,
@@ -7595,6 +7659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154396,
+      "num": 154396,
+      "word": "让台湾同胞知道我们中国有多强",
+      "onboard_time": 1731507320,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 154376,
       "num": 154376,
       "word": "歼35会上航母",
@@ -7843,14 +7915,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 150733,
-      "num": 150733,
-      "word": "全红婵也在看刘宇宁直播",
-      "onboard_time": 1731504859,
-      "rank": 41,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 150727,
       "num": 453727,
       "word": "大专生15万镀金海外硕士被揭学历造假",
@@ -7953,14 +8017,6 @@
       "onboard_time": 1731467719,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 149130,
-      "num": 149130,
-      "word": "邓家佳黑丝御姐风",
-      "onboard_time": 1731502519,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 148834,
@@ -8515,6 +8571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136163,
+      "num": 136163,
+      "word": "CPI",
+      "onboard_time": 1731505820,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136099,
       "num": 136099,
       "word": "李宏毅古装",
@@ -8561,6 +8625,14 @@
       "onboard_time": 1731198856,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134771,
+      "num": 134771,
+      "word": "成毅王劲松对手戏",
+      "onboard_time": 1731505700,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 134473,
@@ -8809,6 +8881,14 @@
       "onboard_time": 1731336020,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127705,
+      "num": 450100,
+      "word": "土耳其已正式断绝与以色列的关系",
+      "onboard_time": 1731506662,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127146,
@@ -9441,6 +9521,14 @@
       "onboard_time": 1731156799,
       "rank": 40,
       "category": "国外时政,国内时政"
+    },
+    {
+      "raw_hot": 110401,
+      "num": 230506,
+      "word": "余宇涵翻跳Girlsneverdie",
+      "onboard_time": 1731504500,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 109372,
@@ -10387,6 +10475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71766,
+      "num": 399744,
+      "word": "60个离婚律师把麦琳当典型研讨",
+      "onboard_time": 1731506901,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71457,
       "num": 71457,
       "word": "院方回应更衣室发现隐藏摄像头",
@@ -10435,12 +10531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70085,
-      "num": 230506,
-      "word": "余宇涵翻跳Girlsneverdie",
-      "onboard_time": 1731504500,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 69786,
+      "num": 459615,
+      "word": "李子柒最喜欢的一个镜头",
+      "onboard_time": 1731507020,
+      "rank": 8,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 69731,
@@ -12059,6 +12155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33905,
+      "num": 727062,
+      "word": "一篇文章了解秘鲁",
+      "onboard_time": 1731504981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33897,
       "num": 342559,
       "word": "AG抵达北京",
@@ -13577,14 +13681,6 @@
       "onboard_time": 1731452716,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8749,
-      "num": 653013,
-      "word": "一篇文章了解秘鲁",
-      "onboard_time": 1731504981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8298,
