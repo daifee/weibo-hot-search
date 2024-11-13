@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731475336261,
+  "endTime": 1731476375453,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -19,12 +19,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1952044,
-      "num": 356508,
+      "raw_hot": 2038879,
+      "num": 407256,
       "word": "男子撞人由离婚财产分割不满引发",
       "onboard_time": 1731472881,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1952073,
+      "num": 1952073,
+      "word": "李子柒身份证改名",
+      "onboard_time": 1731474380,
+      "rank": 11,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 1695610,
@@ -43,6 +51,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 1441564,
+      "num": 403108,
+      "word": "张檬怀孕17周98斤",
+      "onboard_time": 1731474860,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1396946,
       "num": 1396946,
       "word": "雷军真去拧螺丝了",
@@ -59,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1391024,
+      "num": 1391024,
+      "word": "李子柒三更",
+      "onboard_time": 1731474080,
+      "rank": 1,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 1254789,
       "num": 410542,
       "word": "马斯克将领导美国政府效率部",
@@ -67,28 +91,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1198828,
-      "num": 1198828,
-      "word": "李子柒三更",
-      "onboard_time": 1731474080,
-      "rank": 1,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 1193447,
       "num": 390191,
       "word": "车主去世汽车停窗边3年没人挪",
       "onboard_time": 1731467478,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1182967,
-      "num": 355983,
-      "word": "李子柒身份证改名",
-      "onboard_time": 1731474380,
-      "rank": 11,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 1173406,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919461,
+      "num": 397897,
+      "word": "宋慧乔金高银Jennie出席婚礼",
+      "onboard_time": 1731474080,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864145,
       "num": 864145,
       "word": "虞书欣气血好足",
@@ -123,8 +139,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 855889,
+      "num": 855889,
+      "word": "榜一大哥沙特来了",
+      "onboard_time": 1731473601,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 852330,
-      "num": 347304,
+      "num": 361173,
       "word": "被泼开水女童返校书包现恐吓信",
       "onboard_time": 1731468859,
       "rank": 45,
@@ -145,14 +169,6 @@
       "onboard_time": 1731464419,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 772234,
-      "num": 353148,
-      "word": "张檬怀孕17周98斤",
-      "onboard_time": 1731474860,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 758855,
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673180,
-      "num": 349049,
-      "word": "宋慧乔金高银Jennie出席婚礼",
-      "onboard_time": 1731474080,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 655073,
       "num": 655073,
       "word": "李子柒学漆艺时严重过敏",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 655021,
-      "num": 348067,
+      "num": 364414,
       "word": "宋再临遗照公开",
       "onboard_time": 1731473300,
       "rank": 21,
@@ -276,11 +284,19 @@
     },
     {
       "raw_hot": 539588,
-      "num": 345969,
+      "num": 353346,
       "word": "张婉婷 李行亮对老婆发自内心好一点吧",
       "onboard_time": 1731472221,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527835,
+      "num": 388276,
+      "word": "林大厨爆改慕子期",
+      "onboard_time": 1731475161,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 522020,
@@ -289,14 +305,6 @@
       "onboard_time": 1731472940,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 508318,
-      "num": 508318,
-      "word": "榜一大哥沙特来了",
-      "onboard_time": 1731473601,
-      "rank": 6,
-      "category": "军事"
     },
     {
       "raw_hot": 508198,
@@ -353,6 +361,14 @@
       "onboard_time": 1731454398,
       "rank": 40,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 410523,
+      "num": 410523,
+      "word": "98万部手机被控制每月偷偷扣钱",
+      "onboard_time": 1731475280,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407849,
@@ -523,6 +539,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 279294,
+      "num": 374420,
+      "word": "赵露思会逐步重组团队人员",
+      "onboard_time": 1731475700,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270385,
       "num": 246891,
       "word": "宋再临遗书",
@@ -619,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233728,
+      "num": 343175,
+      "word": "花少6",
+      "onboard_time": 1731474621,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231125,
       "num": 231125,
       "word": "哈尔滨冰糖葫芦男神拒加联系方式",
@@ -641,6 +673,14 @@
       "onboard_time": 1731409827,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218907,
+      "num": 272316,
+      "word": "赵露思工作室回应粉丝诉求",
+      "onboard_time": 1731475101,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 215441,
@@ -707,14 +747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196732,
-      "num": 196732,
-      "word": "林大厨爆改慕子期",
-      "onboard_time": 1731475161,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196606,
       "num": 196606,
       "word": "调休后上班一般不超6天",
@@ -723,20 +755,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194762,
-      "num": 343175,
-      "word": "花少6",
-      "onboard_time": 1731474621,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194365,
       "num": 264706,
       "word": "快给肖战递反派角色的本子",
       "onboard_time": 1731460940,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194002,
+      "num": 263922,
+      "word": "深潜开播",
+      "onboard_time": 1731476061,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 193559,
@@ -755,8 +787,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 190581,
-      "num": 190581,
+      "raw_hot": 190935,
+      "num": 190935,
       "word": "男子疑被当成猎物遭枪击身亡",
       "onboard_time": 1731471859,
       "rank": 43,
@@ -785,14 +817,6 @@
       "onboard_time": 1731466458,
       "rank": 36,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 178465,
-      "num": 178465,
-      "word": "赵露思工作室回应粉丝诉求",
-      "onboard_time": 1731475101,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 175839,
@@ -859,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168401,
+      "num": 168401,
+      "word": "太子妃的绿篱都当妈妈了",
+      "onboard_time": 1731475639,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165826,
       "num": 165826,
       "word": "王一博 我对表演非常有野心",
@@ -905,14 +937,6 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157777,
-      "num": 157777,
-      "word": "98万部手机被控制每月偷偷扣钱",
-      "onboard_time": 1731475280,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155948,
@@ -987,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149241,
+      "num": 149241,
+      "word": "浙江籍女飞行员在珠海航展好火",
+      "onboard_time": 1731475459,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 148044,
       "num": 148044,
       "word": "五月天 林俊杰",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1731472641,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146445,
+      "num": 146445,
+      "word": "IU的奖杯被挂二手网站",
+      "onboard_time": 1731476240,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 143801,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1731466878,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127146,
+      "num": 357161,
+      "word": "央视起底网络主播带货套路",
+      "onboard_time": 1731471981,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119990,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1731406943,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93528,
+      "num": 377157,
+      "word": "永夜星河扫楼",
+      "onboard_time": 1731476000,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 93521,
@@ -1355,6 +1411,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 67759,
+      "num": 393074,
+      "word": "小米SU7破新车企10万台下线纪录",
+      "onboard_time": 1731471859,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66269,
       "num": 139259,
       "word": "库里克莱再见爱人",
@@ -1395,20 +1459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58531,
-      "num": 351701,
-      "word": "小米SU7破新车企10万台下线纪录",
-      "onboard_time": 1731471859,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 56540,
       "num": 305902,
       "word": "于和伟开口便打开我的眼泪开关",
       "onboard_time": 1731467779,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56474,
+      "num": 356891,
+      "word": "律师称李子柒已能自己运营其IP",
+      "onboard_time": 1731474380,
+      "rank": 9,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 55363,
@@ -1427,6 +1491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 54925,
+      "num": 256311,
+      "word": "成都混合团体世界杯票价",
+      "onboard_time": 1731476240,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54301,
       "num": 277580,
       "word": "国足近年4次对阵巴林均是平局",
@@ -1435,16 +1507,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53609,
-      "num": 356891,
-      "word": "律师称李子柒已能自己运营其IP",
-      "onboard_time": 1731474380,
-      "rank": 9,
-      "category": "美食,网红"
+      "raw_hot": 53028,
+      "num": 389281,
+      "word": "为什么糖友需警惕带状疱疹",
+      "onboard_time": 1731474021,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 52873,
-      "num": 349930,
+      "num": 370975,
       "word": "价值20亿的180套别墅打七折拍卖",
       "onboard_time": 1731475041,
       "rank": 19,
@@ -1457,14 +1529,6 @@
       "onboard_time": 1731431234,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51238,
-      "num": 357161,
-      "word": "央视起底网络主播带货套路",
-      "onboard_time": 1731471981,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50210,
@@ -1564,19 +1628,11 @@
     },
     {
       "raw_hot": 37142,
-      "num": 737329,
+      "num": 1130003,
       "word": "秘鲁Chifa里藏着中国味儿",
       "onboard_time": 1731470479,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36456,
-      "num": 353401,
-      "word": "为什么糖友需警惕带状疱疹",
-      "onboard_time": 1731474021,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 32558,
