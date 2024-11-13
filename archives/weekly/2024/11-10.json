@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731508809225,
+  "endTime": 1731511438861,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1660906,
-      "num": 500485,
+      "num": 535833,
       "word": "越南模仿李子柒的博主也停更三年",
       "onboard_time": 1731499222,
       "rank": 10,
@@ -800,6 +800,14 @@
       "word": "上海交大恭喜庄筱婷林栋哲入学",
       "onboard_time": 1731386002,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1049078,
+      "num": 1167852,
+      "word": "刘宇宁称接受所有批评",
+      "onboard_time": 1731504200,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1321,14 +1329,6 @@
       "onboard_time": 1731294438,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 769695,
-      "num": 1123151,
-      "word": "刘宇宁称接受所有批评",
-      "onboard_time": 1731504200,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 766915,
@@ -2091,12 +2091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535267,
+      "num": 535267,
+      "word": "让台湾同胞知道我们中国有多强",
+      "onboard_time": 1731507320,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 534293,
       "num": 534293,
       "word": "丁禹兮做拼豆",
       "onboard_time": 1731287299,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532812,
+      "num": 532812,
+      "word": "吴姗姗 白眼狼",
+      "onboard_time": 1731507681,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 531859,
@@ -2289,6 +2305,14 @@
       "onboard_time": 1731382579,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503487,
+      "num": 503487,
+      "word": "律师说杨紫还可通过刑事手段维权",
+      "onboard_time": 1731509002,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 502044,
@@ -3195,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359741,
+      "num": 317201,
+      "word": "林家 庄家",
+      "onboard_time": 1731505880,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359614,
       "num": 359614,
       "word": "丁禹兮变脸",
@@ -3859,14 +3891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286548,
-      "num": 286548,
-      "word": "林家 庄家",
-      "onboard_time": 1731505880,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285792,
       "num": 285792,
       "word": "胖东来珠宝员工年薪从未低于20万",
@@ -4035,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272450,
+      "num": 399744,
+      "word": "60个离婚律师把麦琳当典型研讨",
+      "onboard_time": 1731506901,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272442,
       "num": 272442,
       "word": "幼儿园是否从此变成了国家队",
@@ -4089,6 +4121,14 @@
       "onboard_time": 1731393438,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 269690,
+      "num": 268389,
+      "word": "成都漆器证实李子柒全程自己做",
+      "onboard_time": 1731510320,
+      "rank": 23,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 269595,
@@ -4739,6 +4779,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 230634,
+      "num": 230634,
+      "word": "原来怀孕时脏器会被挤变形",
+      "onboard_time": 1731510320,
+      "rank": 25,
+      "category": "母婴育儿,健康医疗"
+    },
+    {
       "raw_hot": 230292,
       "num": 230292,
       "word": "NCTDREAM回归",
@@ -4857,14 +4905,6 @@
       "onboard_time": 1731494660,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225071,
-      "num": 225071,
-      "word": "吴姗姗 白眼狼",
-      "onboard_time": 1731507681,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 225053,
@@ -5129,6 +5169,14 @@
       "onboard_time": 1731500481,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212923,
+      "num": 212923,
+      "word": "王鹤棣刘耀文LV珠宝大片",
+      "onboard_time": 1731510080,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 212921,
@@ -5803,6 +5851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196847,
+      "num": 196847,
+      "word": "深潜收视率1.6",
+      "onboard_time": 1731510801,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196805,
       "num": 201738,
       "word": "珠帘玉幕上强度了",
@@ -5913,6 +5969,14 @@
       "onboard_time": 1731476061,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193905,
+      "num": 193905,
+      "word": "通知公布半小时已有人下单去广州",
+      "onboard_time": 1731511400,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193875,
@@ -6955,6 +7019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169071,
+      "num": 169071,
+      "word": "比特币",
+      "onboard_time": 1731243380,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168863,
       "num": 168863,
       "word": "付款方式莫名变成了先用后付",
@@ -6977,6 +7049,14 @@
       "onboard_time": 1731286280,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168453,
+      "num": 459615,
+      "word": "李子柒最喜欢的一个镜头",
+      "onboard_time": 1731507020,
+      "rank": 8,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 168430,
@@ -7113,14 +7193,6 @@
       "onboard_time": 1731383779,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166444,
-      "num": 166444,
-      "word": "比特币",
-      "onboard_time": 1731243380,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 166265,
@@ -7289,14 +7361,6 @@
       "onboard_time": 1731301339,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162993,
-      "num": 344540,
-      "word": "让台湾同胞知道我们中国有多强",
-      "onboard_time": 1731507320,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 162933,
@@ -7691,6 +7755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154470,
+      "num": 148886,
+      "word": "大梦归离",
+      "onboard_time": 1731510920,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154376,
       "num": 154376,
       "word": "歼35会上航母",
@@ -7833,6 +7905,14 @@
       "onboard_time": 1731467958,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152412,
+      "num": 152412,
+      "word": "知乎崩了",
+      "onboard_time": 1731510502,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 152180,
@@ -8171,6 +8251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145145,
+      "num": 145145,
+      "word": "白月梵星暂定Q4播出",
+      "onboard_time": 1731509060,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145021,
       "num": 145021,
       "word": "多地省考年龄放宽至40岁周岁",
@@ -8185,14 +8273,6 @@
       "onboard_time": 1731219861,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 144801,
-      "num": 459615,
-      "word": "李子柒最喜欢的一个镜头",
-      "onboard_time": 1731507020,
-      "rank": 8,
-      "category": "网红,美食"
     },
     {
       "raw_hot": 144645,
@@ -8483,6 +8563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138311,
+      "num": 258569,
+      "word": "王楚然蹲下与小朋友合照",
+      "onboard_time": 1731507681,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138262,
       "num": 138262,
       "word": "Zika回应是否加入EDG",
@@ -8688,6 +8776,14 @@
       "word": "金鸡奖官方提名手册介绍",
       "onboard_time": 1731396919,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 133802,
+      "num": 133802,
+      "word": "电影731",
+      "onboard_time": 1731509480,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -9148,7 +9244,7 @@
     },
     {
       "raw_hot": 122497,
-      "num": 122497,
+      "num": 317248,
       "word": "歼35A首秀表演瞬间加力出现马赫环",
       "onboard_time": 1731508521,
       "rank": 48,
@@ -9161,6 +9257,14 @@
       "onboard_time": 1731304159,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122304,
+      "num": 122304,
+      "word": "冰西辰家族",
+      "onboard_time": 1731511161,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 122176,
@@ -9291,6 +9395,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119232,
+      "num": 119232,
+      "word": "歼35A设计团队平均年龄32岁",
+      "onboard_time": 1731505941,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 119200,
       "num": 119200,
       "word": "年龄不该成为束缚考公应广纳贤才",
@@ -9393,6 +9505,14 @@
       "onboard_time": 1731454757,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116602,
+      "num": 349624,
+      "word": "李子柒回应未来商业化考虑",
+      "onboard_time": 1731507801,
+      "rank": 7,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 116583,
@@ -10195,14 +10315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88296,
-      "num": 258569,
-      "word": "王楚然蹲下与小朋友合照",
-      "onboard_time": 1731507681,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87990,
       "num": 289415,
       "word": "金价失守2600美元关口",
@@ -10217,14 +10329,6 @@
       "onboard_time": 1731410670,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86926,
-      "num": 399744,
-      "word": "60个离婚律师把麦琳当典型研讨",
-      "onboard_time": 1731506901,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 86869,
@@ -10409,6 +10513,14 @@
       "onboard_time": 1731315858,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76845,
+      "num": 197654,
+      "word": "地铁里遇到导盲犬这一刻心都化了",
+      "onboard_time": 1731511400,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76617,
@@ -10825,14 +10937,6 @@
       "onboard_time": 1731384741,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64803,
-      "num": 349624,
-      "word": "李子柒回应未来商业化考虑",
-      "onboard_time": 1731507801,
-      "rank": 7,
-      "category": "网红,美食"
     },
     {
       "raw_hot": 64689,
@@ -11433,6 +11537,14 @@
       "onboard_time": 1731294378,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50797,
+      "num": 270159,
+      "word": "张泽禹是懂怎么玩电吉他的",
+      "onboard_time": 1731510502,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 50210,
@@ -12771,6 +12883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25101,
+      "num": 317227,
+      "word": "直播间对对碰真的划算吗",
+      "onboard_time": 1731510559,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25040,
       "num": 64126,
       "word": "起猛了以为新疆沙漠有动物园",
@@ -13865,6 +13985,9 @@
     },
     {
       "word": "#习主席秘鲁巴西之行#"
+    },
+    {
+      "word": "#习近平主席与亚太大家庭#"
     }
   ]
 }
