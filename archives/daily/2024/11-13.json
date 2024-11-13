@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731462099038,
+  "endTime": 1731463106515,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -43,12 +43,28 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 932847,
+      "num": 319752,
+      "word": "00后上班4个月学生就拿了月考第一",
+      "onboard_time": 1731461000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811463,
       "num": 811463,
       "word": "李子柒停更期间拜访了许多非遗传人",
       "onboard_time": 1731452655,
       "rank": 11,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 758855,
+      "num": 758855,
+      "word": "永夜星河 老婆真牛",
+      "onboard_time": 1731459021,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 755297,
@@ -65,14 +81,6 @@
       "onboard_time": 1731424282,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678719,
-      "num": 678719,
-      "word": "永夜星河 老婆真牛",
-      "onboard_time": 1731459021,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 638013,
@@ -145,6 +153,14 @@
       "onboard_time": 1731424222,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453391,
+      "num": 453391,
+      "word": "虞书欣气血好足",
+      "onboard_time": 1731462140,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 430139,
@@ -267,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267688,
+      "num": 214251,
+      "word": "特斯拉10万员工薪酬数据曝光",
+      "onboard_time": 1731461420,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 262444,
       "num": 262444,
       "word": "李子柒回归",
       "onboard_time": 1731401000,
       "rank": 8,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 259913,
+      "num": 259913,
+      "word": "刘诗雯田志希成为队友",
+      "onboard_time": 1731462140,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 254368,
@@ -339,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214251,
-      "num": 214251,
-      "word": "特斯拉10万员工薪酬数据曝光",
-      "onboard_time": 1731461420,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 208575,
       "num": 208575,
       "word": "被全世界都禁养的猫咪",
@@ -387,15 +411,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 185955,
-      "num": 319752,
-      "word": "00后上班4个月学生就拿了月考第一",
-      "onboard_time": 1731461000,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181077,
+      "raw_hot": 181905,
       "num": 255761,
       "word": "永夜星河微博开分9.3",
       "onboard_time": 1731460761,
@@ -435,20 +451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163618,
+      "num": 254956,
+      "word": "再见爱人 镜头隐喻",
+      "onboard_time": 1731427280,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161708,
       "num": 161708,
       "word": "两个上海人就应该生出我这个",
       "onboard_time": 1731435373,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161427,
-      "num": 254956,
-      "word": "再见爱人 镜头隐喻",
-      "onboard_time": 1731427280,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 158778,
@@ -507,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146882,
+      "num": 146882,
+      "word": "再见爱人",
+      "onboard_time": 1731462498,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137930,
       "num": 137930,
       "word": "李子柒 微念",
@@ -531,6 +555,38 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128125,
+      "num": 128125,
+      "word": "猫猫我呀今天保护女生了耶",
+      "onboard_time": 1731462918,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121811,
+      "num": 293139,
+      "word": "带薪休假目前落实相对参差",
+      "onboard_time": 1731462200,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119990,
+      "num": 119990,
+      "word": "东北大姨真的太会给情绪价值了",
+      "onboard_time": 1731462561,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117870,
+      "num": 117870,
+      "word": "34秒他们成功抬车救人",
+      "onboard_time": 1731462740,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 117786,
       "num": 117786,
       "word": "调集最强专家力量尽最大努力挽救生命",
@@ -553,6 +609,14 @@
       "onboard_time": 1731454757,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110503,
+      "num": 147938,
+      "word": "听泉赏龙泉也太开门了",
+      "onboard_time": 1731462018,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 108041,
@@ -747,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58159,
-      "num": 146708,
-      "word": "听泉赏龙泉也太开门了",
-      "onboard_time": 1731462018,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 55363,
       "num": 55363,
       "word": "航展首日中国商飞签下130架飞机订单",
@@ -812,7 +868,7 @@
     },
     {
       "raw_hot": 38955,
-      "num": 740345,
+      "num": 761020,
       "word": "七张图带你了解秘鲁",
       "onboard_time": 1731414744,
       "rank": 2,
