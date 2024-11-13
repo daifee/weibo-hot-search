@@ -1,0 +1,410 @@
+{
+  "runTime": 1731469295782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1357426,
+        "num": 1357426,
+        "word": "李子柒给手工厂提建议从滞销变脱销",
+        "onboard_time": 1731463639,
+        "rank": 0,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 1140760,
+        "num": 1140760,
+        "word": "国台办回应刘德华台北演唱中国人",
+        "onboard_time": 1731467420,
+        "rank": 1,
+        "category": "国内时政,作品衍生"
+      },
+      {
+        "raw_hot": 13894,
+        "num": 874387,
+        "word": "七张图带你了解秘鲁",
+        "onboard_time": 1731414744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 779280,
+        "num": 779280,
+        "word": "多地官宣出生人口反弹",
+        "onboard_time": 1731464419,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739469,
+        "num": 739469,
+        "word": "烈士家属祭奠遭拒打洞进小学上坟",
+        "onboard_time": 1731463877,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636105,
+        "num": 636105,
+        "word": "虞书欣气血好足",
+        "onboard_time": 1731462140,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 611238,
+        "num": 611238,
+        "word": "李子柒学漆艺时严重过敏",
+        "onboard_time": 1731464659,
+        "rank": 6,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 557167,
+        "num": 557167,
+        "word": "黄圣依的清醒仅对别人可见",
+        "onboard_time": 1731466398,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347339,
+        "num": 347339,
+        "word": "除夕纳入放假",
+        "onboard_time": 1731402502,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315615,
+        "num": 315615,
+        "word": "永夜星河 老婆真牛",
+        "onboard_time": 1731459021,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1258564,
+        "num": 315610,
+        "word": "罗志祥 不要像我一样犯错",
+        "onboard_time": 1731460041,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 984980,
+        "num": 315051,
+        "word": "车主去世汽车停窗边3年没人挪",
+        "onboard_time": 1731467478,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842883,
+        "num": 314571,
+        "word": "雷军真去拧螺丝了",
+        "onboard_time": 1731457881,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 417760,
+        "num": 314160,
+        "word": "丁禹兮 我说今天怎么有点锁喉",
+        "onboard_time": 1731466340,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 313969,
+        "word": "2024年全国硕博点共增加2755个",
+        "onboard_time": 1731468560,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209841,
+        "num": 313397,
+        "word": "2024星辰大海青年演员入选名单",
+        "onboard_time": 1731468438,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209567,
+        "num": 312996,
+        "word": "胡军带儿子康康现身珠海航展",
+        "onboard_time": 1731463279,
+        "rank": 16,
+        "category": "艺人,军事"
+      },
+      {
+        "raw_hot": 266928,
+        "num": 312660,
+        "word": "70秒看飞行表演队绝佳瞬间",
+        "onboard_time": 1731468079,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20536,
+        "num": 312201,
+        "word": "打工人上班合理发疯的20个方法",
+        "onboard_time": 1731469098,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34588,
+        "num": 311901,
+        "word": "谁懂啊智能拉满的奥迪电车有多牛",
+        "onboard_time": 1731467238,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169763,
+        "num": 311325,
+        "word": "外卖骑手花200元开挂抢单收入翻倍",
+        "onboard_time": 1731467359,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878484,
+        "num": 311035,
+        "word": "马斯克将领导美国政府效率部",
+        "onboard_time": 1731463400,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 352799,
+        "num": 310696,
+        "word": "女子促排备孕怀上9胞胎",
+        "onboard_time": 1731422964,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310422,
+        "num": 310422,
+        "word": "特朗普宣布多项任命",
+        "onboard_time": 1731464538,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168112,
+        "num": 306400,
+        "word": "永夜星河微博开分9.3",
+        "onboard_time": 1731460761,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165053,
+        "num": 306352,
+        "word": "肖战新歌翻唱",
+        "onboard_time": 1731469039,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163269,
+        "num": 306352,
+        "word": "喻言给孙芮带了一袋大米",
+        "onboard_time": 1731466937,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306352,
+        "num": 306351,
+        "word": "医生给失眠女友注射麻醉药致其死亡",
+        "onboard_time": 1731454278,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46351,
+        "num": 305902,
+        "word": "于和伟开口便打开我的眼泪开关",
+        "onboard_time": 1731467779,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41468,
+        "num": 305769,
+        "word": "国足球员表态目标至少要拿分",
+        "onboard_time": 1731469278,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305652,
+        "num": 305652,
+        "word": "杨颖空降超话发文想念大家",
+        "onboard_time": 1731458240,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242924,
+        "num": 242924,
+        "word": "大爷悬崖放4箱水3元一瓶只收到2箱钱",
+        "onboard_time": 1731469278,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235223,
+        "num": 235223,
+        "word": "00后上班4个月学生就拿了月考第一",
+        "onboard_time": 1731461000,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234197,
+        "num": 234197,
+        "word": "李子柒停更期间拜访了许多非遗传人",
+        "onboard_time": 1731452655,
+        "rank": 33,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 223412,
+        "num": 223412,
+        "word": "哈尔滨冰糖葫芦男神拒加联系方式",
+        "onboard_time": 1731467420,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 212585,
+        "num": 212585,
+        "word": "李子柒 白月光",
+        "onboard_time": 1731459142,
+        "rank": 35,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 203909,
+        "num": 203909,
+        "word": "A股中国联通触及涨停",
+        "onboard_time": 1731468259,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198213,
+        "num": 198213,
+        "word": "mlxg砸键盘受伤",
+        "onboard_time": 1731460340,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54301,
+        "num": 191717,
+        "word": "国足近年4次对阵巴林均是平局",
+        "onboard_time": 1731468020,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188955,
+        "num": 188955,
+        "word": "指甲尽量要剪成方形",
+        "onboard_time": 1731453797,
+        "rank": 39,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 180327,
+        "num": 180327,
+        "word": "王腾让雷军盖个被子别感冒了",
+        "onboard_time": 1731468620,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115071,
+        "num": 178571,
+        "word": "王源新歌预告",
+        "onboard_time": 1731467958,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177417,
+        "num": 177417,
+        "word": "李子柒复出后不会和微念撕破脸",
+        "onboard_time": 1731466458,
+        "rank": 42,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 177347,
+        "num": 177347,
+        "word": "特朗普公布美新任国防部长人选",
+        "onboard_time": 1731459680,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 174236,
+        "num": 174236,
+        "word": "歼20亮相中国航展",
+        "onboard_time": 1731464478,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 163909,
+        "num": 163909,
+        "word": "被泼开水女童返校书包现恐吓信",
+        "onboard_time": 1731468859,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160055,
+        "num": 160055,
+        "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
+        "onboard_time": 1731427341,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155070,
+        "num": 155070,
+        "word": "人民空军三剑客将升级为四剑客",
+        "onboard_time": 1731465859,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144705,
+        "num": 144705,
+        "word": "假期增加为何选在春节五一",
+        "onboard_time": 1731463999,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143801,
+        "num": 143801,
+        "word": "歼35A装备国产发动机",
+        "onboard_time": 1731466278,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席与秘鲁的情谊#"
+    }
+  }
+}
