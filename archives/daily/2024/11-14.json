@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731529429618,
+  "endTime": 1731530264613,
   "band_list": [
     {
       "raw_hot": 1096228,
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21012,
+      "num": 21012,
+      "word": "62岁俄飞行员驾驶苏57炫技落叶飘",
+      "onboard_time": 1731527410,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
       "raw_hot": 19517,
       "num": 30006,
       "word": "90后是五月天粉丝主力军",
@@ -587,12 +595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17203,
-      "num": 18983,
-      "word": "62岁俄飞行员驾驶苏57炫技落叶飘",
-      "onboard_time": 1731527410,
-      "rank": 25,
-      "category": "军事"
+      "raw_hot": 15585,
+      "num": 18473,
+      "word": "被泼开水女童书包现恐吓信家长报警",
+      "onboard_time": 1731529151,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14245,
@@ -627,11 +635,35 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12322,
+      "num": 22902,
+      "word": "秘鲁每年都会给土豆过节",
+      "onboard_time": 1731528790,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12303,
+      "num": 23755,
+      "word": "秘鲁4000种土豆颜色多得像调色板",
+      "onboard_time": 1731529631,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 11851,
       "num": 77646,
       "word": "严格落实校园招聘三严禁",
       "onboard_time": 1731518234,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11762,
+      "num": 18473,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1731519973,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -643,36 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11637,
-      "num": 18473,
-      "word": "被泼开水女童书包现恐吓信家长报警",
-      "onboard_time": 1731529151,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11569,
-      "num": 18473,
-      "word": "文化中国行文博日历",
-      "onboard_time": 1731519973,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10694,
       "num": 20805,
       "word": "90后00后学生田野举办考古音乐节",
       "onboard_time": 1731524172,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10233,
-      "num": 22902,
-      "word": "秘鲁每年都会给土豆过节",
-      "onboard_time": 1731528790,
-      "rank": 19,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

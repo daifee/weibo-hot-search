@@ -1,0 +1,410 @@
+{
+  "runTime": 1731530264613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 98849,
+        "num": 98849,
+        "word": "通知公布半小时已有人下单去广州",
+        "onboard_time": 1731511400,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88817,
+        "num": 88817,
+        "word": "浪胃仙IP创始人获刑8年",
+        "onboard_time": 1731511881,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1221,
+        "num": 51478,
+        "word": "中国连续10年是秘鲁最大出口市场",
+        "onboard_time": 1731503660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48660,
+        "num": 48660,
+        "word": "60个离婚律师把麦琳当典型研讨",
+        "onboard_time": 1731506901,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37286,
+        "num": 37286,
+        "word": "滞留太空女宇航员首次回应变锥子脸",
+        "onboard_time": 1731495919,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35308,
+        "num": 35308,
+        "word": "成都漆器证实李子柒全程自己做",
+        "onboard_time": 1731510320,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 34562,
+        "num": 34562,
+        "word": "祝绪丹永夜星河",
+        "onboard_time": 1731519613,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34444,
+        "num": 34444,
+        "word": "校园招聘严禁限定985和211高校",
+        "onboard_time": 1731516797,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23813,
+        "num": 23813,
+        "word": "姆巴佩被曝存在精神问题",
+        "onboard_time": 1731498142,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12303,
+        "num": 23755,
+        "word": "秘鲁4000种土豆颜色多得像调色板",
+        "onboard_time": 1731529631,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64026,
+        "num": 23321,
+        "word": "越南模仿李子柒的博主也停更三年",
+        "onboard_time": 1731499222,
+        "rank": 10,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 50678,
+        "num": 23108,
+        "word": "小伙吃出疑似预制蛋商家称火候大",
+        "onboard_time": 1731513080,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32747,
+        "num": 22728,
+        "word": "被泼开水女童家长发声",
+        "onboard_time": 1731521412,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31199,
+        "num": 22253,
+        "word": "00后代孕流产女孩发声",
+        "onboard_time": 1731499642,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22243,
+        "num": 22243,
+        "word": "小巷人家",
+        "onboard_time": 1731501619,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28748,
+        "num": 22233,
+        "word": "中国军机的命名终于搞懂了",
+        "onboard_time": 1731516435,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 28345,
+        "num": 22029,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25649,
+        "num": 21844,
+        "word": "官方通报网民吃牛肉面发现疑似动物头",
+        "onboard_time": 1731514278,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18317,
+        "num": 21606,
+        "word": "丁禹兮反击祝绪丹",
+        "onboard_time": 1731503961,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18296,
+        "num": 21535,
+        "word": "杜华怕演唱会全场喊乐华倒闭",
+        "onboard_time": 1731519613,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80056,
+        "num": 21299,
+        "word": "杨紫方已完成取证",
+        "onboard_time": 1731497240,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22748,
+        "num": 21092,
+        "word": "摄影师们挤满珠海航展",
+        "onboard_time": 1731505342,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21012,
+        "num": 21012,
+        "word": "62岁俄飞行员驾驶苏57炫技落叶飘",
+        "onboard_time": 1731527410,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20754,
+        "num": 20754,
+        "word": "原来怀孕时脏器会被挤变形",
+        "onboard_time": 1731510320,
+        "rank": 23,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 19105,
+        "num": 19105,
+        "word": "土耳其已正式断绝与以色列的关系",
+        "onboard_time": 1731506662,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18303,
+        "num": 18303,
+        "word": "让台湾同胞知道我们中国有多强",
+        "onboard_time": 1731507320,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 17889,
+        "num": 17889,
+        "word": "晋江男孩",
+        "onboard_time": 1731505342,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17638,
+        "num": 17638,
+        "word": "契税",
+        "onboard_time": 1731492198,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 17333,
+        "num": 17333,
+        "word": "丁禹兮发了妙妙拍的自己",
+        "onboard_time": 1731512119,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16754,
+        "num": 16950,
+        "word": "深潜收视率1.6",
+        "onboard_time": 1731510801,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16918,
+        "num": 16918,
+        "word": "指甲有棱线可能是肝郁了",
+        "onboard_time": 1731513559,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15852,
+        "num": 16918,
+        "word": "胖东来珠宝员工年薪从未低于20万",
+        "onboard_time": 1731501261,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15585,
+        "num": 16917,
+        "word": "被泼开水女童书包现恐吓信家长报警",
+        "onboard_time": 1731529151,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12322,
+        "num": 16917,
+        "word": "秘鲁每年都会给土豆过节",
+        "onboard_time": 1731528790,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14817,
+        "num": 16916,
+        "word": "律师说杨紫还可通过刑事手段维权",
+        "onboard_time": 1731509002,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14767,
+        "num": 16915,
+        "word": "吴姗姗 白眼狼",
+        "onboard_time": 1731507681,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14290,
+        "num": 16915,
+        "word": "专家称9胞胎产妇或面临大月份流产",
+        "onboard_time": 1731489559,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14181,
+        "num": 16915,
+        "word": "她为什么会突然喜欢你 求教程",
+        "onboard_time": 1731514997,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13986,
+        "num": 16914,
+        "word": "范丞丞回应金鸡奖提名",
+        "onboard_time": 1731514459,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13339,
+        "num": 16914,
+        "word": "比特币",
+        "onboard_time": 1731510621,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13211,
+        "num": 16914,
+        "word": "DNA音乐节 蒲熠星",
+        "onboard_time": 1731493940,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12816,
+        "num": 16913,
+        "word": "李玟姐姐回应李玟墓地杂草丛生",
+        "onboard_time": 1731489414,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12279,
+        "num": 16913,
+        "word": "降温预报图冻到发紫了",
+        "onboard_time": 1731521172,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12263,
+        "num": 16912,
+        "word": "月背珍贵土特产珠海航展上被围观",
+        "onboard_time": 1731525132,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 12240,
+        "num": 16912,
+        "word": "慕青时终于来了",
+        "onboard_time": 1731502700,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12189,
+        "num": 16911,
+        "word": "秘鲁是中国在太平洋对岸的邻居",
+        "onboard_time": 1731520453,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12177,
+        "num": 16910,
+        "word": "邓家佳黑丝御姐风",
+        "onboard_time": 1731502519,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12125,
+        "num": 16910,
+        "word": "光遇",
+        "onboard_time": 1731517214,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11971,
+        "num": 16910,
+        "word": "航展现场观众齐声高唱歌唱祖国",
+        "onboard_time": 1731526691,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 11762,
+        "num": 16909,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1731519973,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席与亚太大家庭#"
+    }
+  }
+}
