@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731526562174,
+  "endTime": 1731529429618,
   "band_list": [
     {
       "raw_hot": 1096228,
@@ -587,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17203,
+      "num": 18983,
+      "word": "62岁俄飞行员驾驶苏57炫技落叶飘",
+      "onboard_time": 1731527410,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
       "raw_hot": 14245,
       "num": 19660,
       "word": "邓家佳黑丝御姐风",
@@ -601,6 +609,22 @@
       "onboard_time": 1731522732,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13492,
+      "num": 40056,
+      "word": "月背珍贵土特产珠海航展上被围观",
+      "onboard_time": 1731525132,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 12524,
+      "num": 18477,
+      "word": "航展现场观众齐声高唱歌唱祖国",
+      "onboard_time": 1731526691,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 11851,
@@ -619,12 +643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10986,
-      "num": 40056,
-      "word": "月背珍贵土特产珠海航展上被围观",
-      "onboard_time": 1731525132,
-      "rank": 26,
-      "category": "军事"
+      "raw_hot": 11637,
+      "num": 18473,
+      "word": "被泼开水女童书包现恐吓信家长报警",
+      "onboard_time": 1731529151,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11569,
+      "num": 18473,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1731519973,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10694,
@@ -633,6 +665,14 @@
       "onboard_time": 1731524172,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10233,
+      "num": 22902,
+      "word": "秘鲁每年都会给土豆过节",
+      "onboard_time": 1731528790,
+      "rank": 19,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
