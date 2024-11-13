@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731487338756,
+  "endTime": 1731489796809,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1185665,
+      "num": 644100,
+      "word": "永夜星河真的爆了吗",
+      "onboard_time": 1731487099,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1173406,
       "num": 1173406,
       "word": "李子柒停更原因",
@@ -153,6 +161,14 @@
       "onboard_time": 1731463877,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1161928,
+      "num": 1185908,
+      "word": "正宗炸鸡柳",
+      "onboard_time": 1731486560,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 1070254,
@@ -265,6 +281,14 @@
       "onboard_time": 1731482119,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 656295,
+      "num": 460401,
+      "word": "刘晓庆 祝我生日快乐",
+      "onboard_time": 1731487880,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 655073,
@@ -500,11 +524,19 @@
     },
     {
       "raw_hot": 402680,
-      "num": 347524,
+      "num": 397220,
       "word": "用人民币感受日本物价",
       "onboard_time": 1731485959,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 389181,
+      "num": 389181,
+      "word": "赵露思听劝",
+      "onboard_time": 1731487279,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 389041,
@@ -595,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329147,
-      "num": 329147,
-      "word": "正宗炸鸡柳",
-      "onboard_time": 1731486560,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328601,
       "num": 412009,
       "word": "丁禹兮真的去蹦极了",
@@ -673,6 +697,14 @@
       "onboard_time": 1731402322,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296021,
+      "num": 488723,
+      "word": "网友建议女性列车员裙装改裤装",
+      "onboard_time": 1731484940,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294128,
@@ -753,6 +785,14 @@
       "onboard_time": 1731401000,
       "rank": 8,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 256820,
+      "num": 256820,
+      "word": "要是不想失业",
+      "onboard_time": 1731485479,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 249315,
@@ -979,6 +1019,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200178,
+      "num": 200178,
+      "word": "NewJeans或将解约",
+      "onboard_time": 1731489319,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196676,
+      "num": 196676,
+      "word": "王一博抖抖酷存",
+      "onboard_time": 1731488540,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196606,
       "num": 196606,
       "word": "调休后上班一般不超6天",
@@ -1051,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183387,
-      "num": 353191,
-      "word": "永夜星河真的爆了吗",
-      "onboard_time": 1731487099,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182534,
       "num": 182534,
       "word": "李子柒复出后不会和微念撕破脸",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1731415582,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172074,
+      "num": 172074,
+      "word": "违规花千万装修仿真椰子树连夜拆除",
+      "onboard_time": 1731487939,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171234,
@@ -1171,14 +1227,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 167365,
-      "num": 167365,
-      "word": "要是不想失业",
-      "onboard_time": 1731485479,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165833,
       "num": 165833,
       "word": "南部战区位黄岩岛领海领空战备警巡",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158248,
+      "num": 472494,
+      "word": "两司机路怒斗气致1死3获刑",
+      "onboard_time": 1731485302,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155948,
@@ -1307,8 +1363,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150344,
-      "num": 150344,
+      "raw_hot": 150560,
+      "num": 150560,
       "word": "樊振东给陈雨菲鼓掌",
       "onboard_time": 1731486259,
       "rank": 42,
@@ -1337,14 +1393,6 @@
       "onboard_time": 1731479659,
       "rank": 41,
       "category": "军事"
-    },
-    {
-      "raw_hot": 148145,
-      "num": 488723,
-      "word": "网友建议女性列车员裙装改裤装",
-      "onboard_time": 1731484940,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148044,
@@ -1427,6 +1475,22 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 134914,
+      "num": 134914,
+      "word": "孙颖莎王艺迪出战女双",
+      "onboard_time": 1731488239,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134557,
+      "num": 134557,
+      "word": "专家称9胞胎产妇或面临大月份流产",
+      "onboard_time": 1731489559,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133039,
       "num": 133039,
       "word": "韩网爆料GEN和Chovy谈崩",
@@ -1467,12 +1531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128723,
+      "num": 128723,
+      "word": "周洁琼送给姗姗的婚纱照",
+      "onboard_time": 1731485420,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128104,
+      "num": 467533,
+      "word": "WTT福冈总决赛国乒名单",
+      "onboard_time": 1731486920,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127146,
       "num": 357161,
       "word": "央视起底网络主播带货套路",
       "onboard_time": 1731471981,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124677,
+      "num": 124677,
+      "word": "王楚钦出战福冈总决赛男单",
+      "onboard_time": 1731489681,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 121546,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1731454757,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116213,
+      "num": 116213,
+      "word": "丁禹兮又做到了",
+      "onboard_time": 1731484639,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115356,
@@ -1675,14 +1771,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 89612,
-      "num": 472494,
-      "word": "两司机路怒斗气致1死3获刑",
-      "onboard_time": 1731485302,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88824,
       "num": 336514,
       "word": "国足18强赛晋级形势",
@@ -1763,20 +1851,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76302,
+      "num": 397242,
+      "word": "李玟姐姐回应李玟墓地杂草丛生",
+      "onboard_time": 1731489414,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73999,
       "num": 73999,
       "word": "小巷人家",
       "onboard_time": 1731415462,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72039,
-      "num": 467533,
-      "word": "WTT福冈总决赛国乒名单",
-      "onboard_time": 1731486920,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 71206,
@@ -1841,6 +1929,14 @@
       "onboard_time": 1731479058,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62325,
+      "num": 497692,
+      "word": "李子柒曾公开创作团队仅3人",
+      "onboard_time": 1731488058,
+      "rank": 9,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 62101,
@@ -1971,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50948,
+      "num": 397226,
+      "word": "官方回应幼童疑被校车碾压身亡",
+      "onboard_time": 1731488658,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50210,
       "num": 149271,
       "word": "水晶哥老头杯喊话Uzi",
@@ -2059,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41858,
+      "num": 417613,
+      "word": "小巷人家选角争议的锅谁来背",
+      "onboard_time": 1731489020,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41625,
       "num": 313298,
       "word": "15一克铜合金当金条卖配足金证书",
@@ -2107,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39663,
-      "num": 233765,
-      "word": "赵露思听劝",
-      "onboard_time": 1731487279,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38955,
       "num": 944755,
       "word": "七张图带你了解秘鲁",
@@ -2145,6 +2249,14 @@
       "onboard_time": 1731470479,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35931,
+      "num": 524292,
+      "word": "长者食堂开张容易补贴难续",
+      "onboard_time": 1731488058,
+      "rank": 8,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 35789,
@@ -2193,6 +2305,14 @@
       "onboard_time": 1731482538,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 32347,
+      "num": 397267,
+      "word": "陈雨菲说要找到羽毛球的野心",
+      "onboard_time": 1731489079,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 29717,
