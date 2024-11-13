@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731469295782,
+  "endTime": 1731471983813,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -17,6 +17,14 @@
       "onboard_time": 1731460041,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1695610,
+      "num": 1695610,
+      "word": "国台办回应刘德华台北演唱中国人",
+      "onboard_time": 1731467420,
+      "rank": 13,
+      "category": "国内时政,作品衍生"
     },
     {
       "raw_hot": 1396946,
@@ -51,6 +59,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1193447,
+      "num": 390191,
+      "word": "车主去世汽车停窗边3年没人挪",
+      "onboard_time": 1731467478,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1173406,
       "num": 1173406,
       "word": "李子柒停更原因",
@@ -64,22 +80,6 @@
       "word": "烈士家属祭奠遭拒打洞进小学上坟",
       "onboard_time": 1731463877,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1140760,
-      "num": 1140760,
-      "word": "国台办回应刘德华台北演唱中国人",
-      "onboard_time": 1731467420,
-      "rank": 13,
-      "category": "国内时政,作品衍生"
-    },
-    {
-      "raw_hot": 984980,
-      "num": 390191,
-      "word": "车主去世汽车停窗边3年没人挪",
-      "onboard_time": 1731467478,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 726207,
+      "num": 281429,
+      "word": "被泼开水女童返校书包现恐吓信",
+      "onboard_time": 1731468859,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655073,
       "num": 655073,
       "word": "李子柒学漆艺时严重过敏",
@@ -195,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555638,
+      "num": 279540,
+      "word": "怀上九胞胎女子发声",
+      "onboard_time": 1731469401,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539913,
+      "num": 340007,
+      "word": "丁禹兮 我说今天怎么有点锁喉",
+      "onboard_time": 1731466340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508198,
       "num": 508198,
       "word": "严防发生极端案件",
@@ -227,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449265,
+      "num": 449265,
+      "word": "勇士 地图",
+      "onboard_time": 1731469761,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430139,
       "num": 430139,
       "word": "出租车师傅刚要报警女子跳进池塘",
@@ -241,14 +273,6 @@
       "onboard_time": 1731454398,
       "rank": 40,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 417760,
-      "num": 340007,
-      "word": "丁禹兮 我说今天怎么有点锁喉",
-      "onboard_time": 1731466340,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 407849,
@@ -299,6 +323,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 337623,
+      "num": 337623,
+      "word": "珠海航展沙特的展馆是空的",
+      "onboard_time": 1731470779,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 328601,
       "num": 412009,
       "word": "丁禹兮真的去蹦极了",
@@ -315,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324259,
+      "num": 275032,
+      "word": "大爷悬崖放4箱水3元一瓶只收到2箱钱",
+      "onboard_time": 1731469278,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317437,
       "num": 317437,
       "word": "2025年放假安排来了",
       "onboard_time": 1731402744,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315723,
+      "num": 315723,
+      "word": "肖战我们没那么难懂",
+      "onboard_time": 1731469339,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 309578,
@@ -419,6 +467,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 249315,
+      "num": 304985,
+      "word": "张婉莹报警后续",
+      "onboard_time": 1731469519,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248290,
       "num": 181576,
       "word": "杭州警方通报小型客车连撞多人",
@@ -427,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242924,
-      "num": 242924,
-      "word": "大爷悬崖放4箱水3元一瓶只收到2箱钱",
-      "onboard_time": 1731469278,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 246576,
+      "num": 313397,
+      "word": "2024星辰大海青年演员入选名单",
+      "onboard_time": 1731468438,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 241516,
@@ -475,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231125,
+      "num": 231125,
+      "word": "哈尔滨冰糖葫芦男神拒加联系方式",
+      "onboard_time": 1731467420,
+      "rank": 32,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 226146,
       "num": 293139,
       "word": "带薪休假目前落实相对参差",
@@ -489,22 +553,6 @@
       "onboard_time": 1731409827,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223527,
-      "num": 223527,
-      "word": "哈尔滨冰糖葫芦男神拒加联系方式",
-      "onboard_time": 1731467420,
-      "rank": 32,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 209841,
-      "num": 313397,
-      "word": "2024星辰大海青年演员入选名单",
-      "onboard_time": 1731468438,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 208575,
@@ -529,6 +577,22 @@
       "onboard_time": 1731462018,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 204778,
+      "num": 204778,
+      "word": "王腾让雷军盖个被子别感冒了",
+      "onboard_time": 1731468620,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 204490,
+      "num": 294738,
+      "word": "沈月林一失笑vlog",
+      "onboard_time": 1731471141,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 203909,
@@ -587,14 +651,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 180327,
-      "num": 180327,
-      "word": "王腾让雷军盖个被子别感冒了",
-      "onboard_time": 1731468620,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 175839,
       "num": 240130,
       "word": "永夜星河编剧",
@@ -609,6 +665,14 @@
       "onboard_time": 1731415582,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171234,
+      "num": 306352,
+      "word": "肖战新歌翻唱",
+      "onboard_time": 1731469039,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 169835,
@@ -651,26 +715,10 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165053,
-      "num": 306352,
-      "word": "肖战新歌翻唱",
-      "onboard_time": 1731469039,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164446,
       "num": 164446,
       "word": "假期增加为何选在春节五一",
       "onboard_time": 1731463999,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163909,
-      "num": 163909,
-      "word": "被泼开水女童返校书包现恐吓信",
-      "onboard_time": 1731468859,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -689,6 +737,14 @@
       "onboard_time": 1731466937,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162329,
+      "num": 162329,
+      "word": "丁禹兮每个动作都精心设计",
+      "onboard_time": 1731471859,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 161708,
@@ -803,12 +859,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 140752,
+      "num": 140752,
+      "word": "男子疑被当成猎物遭枪击身亡",
+      "onboard_time": 1731471859,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137930,
       "num": 137930,
       "word": "李子柒 微念",
       "onboard_time": 1731459323,
       "rank": 43,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 135489,
+      "num": 135489,
+      "word": "谢可寅眼技",
+      "onboard_time": 1731471259,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 133039,
@@ -889,6 +961,14 @@
       "onboard_time": 1731454939,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107021,
+      "num": 290827,
+      "word": "男子帮女友撑腰结果进了监狱",
+      "onboard_time": 1731470661,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104313,
@@ -987,6 +1067,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 90849,
+      "num": 277260,
+      "word": "张婉莹被诽谤",
+      "onboard_time": 1731469459,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88824,
       "num": 336514,
       "word": "国足18强赛晋级形势",
@@ -1081,6 +1169,22 @@
       "onboard_time": 1731443711,
       "rank": 49,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 66269,
+      "num": 139259,
+      "word": "库里克莱再见爱人",
+      "onboard_time": 1731470661,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61150,
+      "num": 389005,
+      "word": "夕阳红公寓爆雷始末",
+      "onboard_time": 1731470840,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60958,
@@ -1219,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37402,
+      "num": 311464,
+      "word": "15一克铜合金当金条卖配足金证书",
+      "onboard_time": 1731470961,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32558,
       "num": 38535,
       "word": "一图看懂2025年放假怎么放",
@@ -1233,6 +1345,22 @@
       "onboard_time": 1731453976,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29449,
+      "num": 683520,
+      "word": "秘鲁Chifa里藏着中国味儿",
+      "onboard_time": 1731470479,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27666,
+      "num": 135181,
+      "word": "小米SU7破新车企10万台下线纪录",
+      "onboard_time": 1731471859,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 27375,
@@ -1289,6 +1417,14 @@
       "onboard_time": 1731430516,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 18218,
+      "num": 286606,
+      "word": "韦世豪说珍惜为国出战的机会",
+      "onboard_time": 1731471380,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 16769,
