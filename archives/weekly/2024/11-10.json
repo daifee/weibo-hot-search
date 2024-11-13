@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731496753911,
+  "endTime": 1731497751444,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -49,6 +49,14 @@
       "onboard_time": 1731409644,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 6897511,
+      "num": 267297,
+      "word": "杨紫方已完成取证",
+      "onboard_time": 1731497240,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4144002,
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 985446,
-      "num": 241362,
+      "num": 265201,
       "word": "虞书欣戴上了丁禹兮做的拼豆",
       "onboard_time": 1731493460,
       "rank": 20,
@@ -2891,6 +2899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 378140,
+      "num": 234178,
+      "word": "虞书欣销冠底气",
+      "onboard_time": 1731496641,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377509,
       "num": 377509,
       "word": "伊拉克拟将女性法定结婚年龄降至9岁",
@@ -3089,14 +3105,6 @@
       "onboard_time": 1731201738,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 355202,
-      "num": 198631,
-      "word": "虞书欣销冠底气",
-      "onboard_time": 1731496641,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 354856,
@@ -3435,6 +3443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 314201,
+      "num": 314201,
+      "word": "美军分不清F35和歼35",
+      "onboard_time": 1731494959,
+      "rank": 7,
+      "category": "军事"
+    },
+    {
       "raw_hot": 312802,
       "num": 312802,
       "word": "发型师晓华拉动怀化市消费1.2亿元",
@@ -3699,14 +3715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287068,
-      "num": 287068,
-      "word": "美军分不清F35和歼35",
-      "onboard_time": 1731494959,
-      "rank": 7,
-      "category": "军事"
-    },
-    {
       "raw_hot": 286986,
       "num": 270237,
       "word": "周杰伦接机昆凌",
@@ -3881,6 +3889,14 @@
       "onboard_time": 1731301040,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271133,
+      "num": 271133,
+      "word": "增值税",
+      "onboard_time": 1731495740,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 271091,
@@ -4339,6 +4355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 241610,
+      "num": 232199,
+      "word": "丁禹兮在板子下面脸都要笑烂了",
+      "onboard_time": 1731496760,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241516,
       "num": 257826,
       "word": "除夕放假能更好保障团圆过年",
@@ -4369,6 +4393,14 @@
       "onboard_time": 1731301880,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240009,
+      "num": 240009,
+      "word": "滞留太空女宇航员首次回应变锥子脸",
+      "onboard_time": 1731495919,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 239512,
@@ -5708,7 +5740,7 @@
     },
     {
       "raw_hot": 192675,
-      "num": 192675,
+      "num": 234644,
       "word": "DNA音乐节 蒲熠星",
       "onboard_time": 1731493940,
       "rank": 39,
@@ -5785,14 +5817,6 @@
       "onboard_time": 1731230599,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191206,
-      "num": 191206,
-      "word": "增值税",
-      "onboard_time": 1731495740,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 190935,
@@ -5880,6 +5904,14 @@
       "word": "全红婵喊话樊振东快请吃叉烧肉",
       "onboard_time": 1731493580,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188356,
+      "num": 247549,
+      "word": "孙颖莎王楚钦领衔微博网友喜爱运动员",
+      "onboard_time": 1731497240,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -6355,14 +6387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 176148,
-      "num": 176148,
-      "word": "滞留太空女宇航员首次回应变锥子脸",
-      "onboard_time": 1731495919,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 176128,
       "num": 176128,
       "word": "周深和观众都背过梗来看演唱会",
@@ -6377,6 +6401,14 @@
       "onboard_time": 1731389719,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175465,
+      "num": 175465,
+      "word": "刘耀文 LV",
+      "onboard_time": 1731497601,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 175372,
@@ -7177,6 +7209,14 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158480,
+      "num": 158480,
+      "word": "吴宣仪想和程潇孟美岐出合体专辑",
+      "onboard_time": 1731497542,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 158431,
@@ -8715,6 +8755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123208,
+      "num": 239325,
+      "word": "杨幂邢博俊合照",
+      "onboard_time": 1731496340,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123075,
       "num": 123075,
       "word": "学前儿童入园不得组织考试",
@@ -9812,7 +9860,7 @@
     },
     {
       "raw_hot": 83140,
-      "num": 224705,
+      "num": 243275,
       "word": "四年过去发现网红还是老的好",
       "onboard_time": 1731495801,
       "rank": 9,
@@ -9945,6 +9993,14 @@
       "onboard_time": 1731353350,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77589,
+      "num": 269915,
+      "word": "买500万房子最多可省10万",
+      "onboard_time": 1731497121,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76965,
@@ -10177,6 +10233,14 @@
       "onboard_time": 1731299179,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69016,
+      "num": 236074,
+      "word": "杨紫请勿造谣传谣",
+      "onboard_time": 1731497601,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 68752,
@@ -10457,6 +10521,14 @@
       "onboard_time": 1731384440,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61004,
+      "num": 264100,
+      "word": "林高远林诗栋出战男双",
+      "onboard_time": 1731497240,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 60958,
@@ -10763,6 +10835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54051,
+      "num": 260787,
+      "word": "三部门解读楼市税收新政",
+      "onboard_time": 1731497721,
+      "rank": 14,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 54014,
       "num": 54014,
       "word": "赵露思珠帘玉幕角色指数第一",
@@ -10979,6 +11059,14 @@
       "category": "军事,网红"
     },
     {
+      "raw_hot": 48097,
+      "num": 259483,
+      "word": "裴思婧一巴掌扇醒文潇",
+      "onboard_time": 1731497362,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48010,
       "num": 48010,
       "word": "天舟七号撤离中国空间站",
@@ -11073,6 +11161,14 @@
       "onboard_time": 1731467238,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 45858,
+      "num": 235219,
+      "word": "古偶对打最终靠的是内容",
+      "onboard_time": 1731496702,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 45182,
@@ -11859,6 +11955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30428,
+      "num": 262728,
+      "word": "单位团建时受伤到底算不算工伤",
+      "onboard_time": 1731495980,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 29717,
       "num": 192830,
       "word": "小孩姐完全是先天攀岩圣体",
@@ -12051,12 +12155,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27110,
-      "num": 191214,
-      "word": "古偶对打最终靠的是内容",
-      "onboard_time": 1731496702,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 27087,
+      "num": 268881,
+      "word": "十个秘鲁人就有一个是中国血统",
+      "onboard_time": 1731497721,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 27053,
@@ -12252,19 +12356,11 @@
     },
     {
       "raw_hot": 23351,
-      "num": 208660,
+      "num": 257568,
       "word": "关晓彤安利小巷人家",
       "onboard_time": 1731496161,
       "rank": 19,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 23342,
-      "num": 210594,
-      "word": "杨幂邢博俊合照",
-      "onboard_time": 1731496340,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 23124,
@@ -12361,14 +12457,6 @@
       "onboard_time": 1731389898,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21843,
-      "num": 219609,
-      "word": "单位团建时受伤到底算不算工伤",
-      "onboard_time": 1731495980,
-      "rank": 13,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 21799,

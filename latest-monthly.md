@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/13 19:19:13
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/13 19:35:51
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@ BLG对战T1（热度：7849827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%97%A0%E7%BC%988%E5%BC%BA%23" target="weibo">
 王楚钦无缘8强（热度：6969469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%96%B9%E5%B7%B2%E5%AE%8C%E6%88%90%E5%8F%96%E8%AF%81%23" target="weibo">
+杨紫方已完成取证（热度：6897511）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ mbti又变了（热度：525600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%20%E6%9C%BA%E6%A2%B0%E5%A7%AC%23" target="weibo">
 闫妮 机械姬（热度：501676）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%8B%8D%E6%91%84%E6%97%B6%E8%84%B8%E8%A2%AB%E9%81%93%E5%85%B7%E5%88%92%E4%BC%A4%23" target="weibo">
-魏大勋拍摄时脸被道具划伤（热度：500030）
 </a>
 </li>
 
