@@ -1,0 +1,410 @@
+{
+  "runTime": 1731512328073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793635,
+        "num": 1126981,
+        "word": "刘宇宁称接受所有批评",
+        "onboard_time": 1731504200,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454037,
+        "num": 454037,
+        "word": "姆巴佩被曝存在精神问题",
+        "onboard_time": 1731498142,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24542,
+        "num": 439170,
+        "word": "一篇文章了解秘鲁",
+        "onboard_time": 1731504981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1214087,
+        "num": 439132,
+        "word": "越南模仿李子柒的博主也停更三年",
+        "onboard_time": 1731499222,
+        "rank": 3,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 628501,
+        "num": 439132,
+        "word": "律师说杨紫还可通过刑事手段维权",
+        "onboard_time": 1731509002,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438653,
+        "num": 438653,
+        "word": "让台湾同胞知道我们中国有多强",
+        "onboard_time": 1731507320,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 534546,
+        "num": 438042,
+        "word": "吴姗姗 白眼狼",
+        "onboard_time": 1731507681,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436714,
+        "num": 436714,
+        "word": "滞留太空女宇航员首次回应变锥子脸",
+        "onboard_time": 1731495919,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 291422,
+        "num": 435178,
+        "word": "丁禹兮反击祝绪丹",
+        "onboard_time": 1731503961,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54464,
+        "num": 433306,
+        "word": "15件冬日温暖小事",
+        "onboard_time": 1731512060,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 998226,
+        "num": 430543,
+        "word": "00后代孕流产女孩发声",
+        "onboard_time": 1731499642,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616544,
+        "num": 429657,
+        "word": "晋江男孩",
+        "onboard_time": 1731505342,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493203,
+        "num": 427645,
+        "word": "成都漆器证实李子柒全程自己做",
+        "onboard_time": 1731510320,
+        "rank": 12,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 275065,
+        "num": 424903,
+        "word": "契税",
+        "onboard_time": 1731492198,
+        "rank": 13,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 36619,
+        "num": 421251,
+        "word": "直播间对对碰真的划算吗",
+        "onboard_time": 1731510559,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421039,
+        "num": 421039,
+        "word": "通知公布半小时已有人下单去广州",
+        "onboard_time": 1731511400,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412192,
+        "num": 412192,
+        "word": "浪胃仙IP创始人获刑8年",
+        "onboard_time": 1731511881,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332450,
+        "num": 332450,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251700,
+        "num": 251700,
+        "word": "林家 庄家",
+        "onboard_time": 1731505880,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250108,
+        "num": 250108,
+        "word": "个人购房不超140平契税降至1%",
+        "onboard_time": 1731491780,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1025257,
+        "num": 248739,
+        "word": "杨紫方已完成取证",
+        "onboard_time": 1731497240,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860333,
+        "num": 248393,
+        "word": "李子柒把漆字写错了",
+        "onboard_time": 1731504800,
+        "rank": 21,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 246043,
+        "num": 246043,
+        "word": "原来怀孕时脏器会被挤变形",
+        "onboard_time": 1731510320,
+        "rank": 22,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 242263,
+        "num": 242263,
+        "word": "60个离婚律师把麦琳当典型研讨",
+        "onboard_time": 1731506901,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213998,
+        "num": 213998,
+        "word": "慕青时终于来了",
+        "onboard_time": 1731502700,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193327,
+        "num": 193327,
+        "word": "比特币",
+        "onboard_time": 1731510621,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188980,
+        "num": 188980,
+        "word": "深潜收视率1.6",
+        "onboard_time": 1731510801,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173194,
+        "num": 173194,
+        "word": "鹿晗丁程鑫贺峻霖首映礼同框",
+        "onboard_time": 1731503541,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170035,
+        "num": 170035,
+        "word": "王鹤棣刘耀文LV珠宝大片",
+        "onboard_time": 1731510080,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167790,
+        "num": 167790,
+        "word": "冰西辰家族",
+        "onboard_time": 1731511161,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167732,
+        "num": 167732,
+        "word": "全红婵也在看刘宇宁直播",
+        "onboard_time": 1731504859,
+        "rank": 30,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 84576,
+        "num": 165804,
+        "word": "地铁里遇到导盲犬这一刻心都化了",
+        "onboard_time": 1731511400,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164214,
+        "num": 164214,
+        "word": "李子柒身份证改名",
+        "onboard_time": 1731474380,
+        "rank": 32,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 154681,
+        "num": 154681,
+        "word": "土耳其已正式断绝与以色列的关系",
+        "onboard_time": 1731506662,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151930,
+        "num": 151930,
+        "word": "永夜星河",
+        "onboard_time": 1731491720,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138808,
+        "num": 138808,
+        "word": "胖东来珠宝员工年薪从未低于20万",
+        "onboard_time": 1731501261,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131286,
+        "num": 131286,
+        "word": "白月梵星暂定Q4播出",
+        "onboard_time": 1731509060,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127559,
+        "num": 127559,
+        "word": "李子柒最喜欢的一个镜头",
+        "onboard_time": 1731507020,
+        "rank": 37,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 125731,
+        "num": 125731,
+        "word": "电影731",
+        "onboard_time": 1731509480,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114126,
+        "num": 114126,
+        "word": "邓家佳黑丝御姐风",
+        "onboard_time": 1731502519,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111170,
+        "num": 111170,
+        "word": "大梦归离",
+        "onboard_time": 1731510920,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109245,
+        "num": 109245,
+        "word": "小巷人家",
+        "onboard_time": 1731501619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104056,
+        "num": 104056,
+        "word": "专家称9胞胎产妇或面临大月份流产",
+        "onboard_time": 1731489559,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103761,
+        "num": 103761,
+        "word": "歼35A首秀表演瞬间加力出现马赫环",
+        "onboard_time": 1731508521,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 95419,
+        "num": 95419,
+        "word": "张艺兴成为内娱李秀满的第N步",
+        "onboard_time": 1731503660,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244337,
+        "num": 95191,
+        "word": "丁禹兮发了妙妙拍的自己",
+        "onboard_time": 1731512119,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93875,
+        "num": 93875,
+        "word": "王楚然蹲下与小朋友合照",
+        "onboard_time": 1731507681,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91153,
+        "num": 91153,
+        "word": "李子柒的视频没有成瘾性",
+        "onboard_time": 1731502761,
+        "rank": 47,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 88682,
+        "num": 88682,
+        "word": "李子柒回应未来商业化考虑",
+        "onboard_time": 1731507801,
+        "rank": 48,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 83138,
+        "num": 83138,
+        "word": "歼35A设计团队平均年龄32岁",
+        "onboard_time": 1731505941,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席与亚太大家庭#"
+    }
+  }
+}

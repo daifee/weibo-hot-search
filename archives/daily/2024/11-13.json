@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731511438861,
+  "endTime": 1731512328073,
   "band_list": [
     {
       "raw_hot": 6897511,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 874589,
-      "num": 420466,
+      "num": 429657,
       "word": "晋江男孩",
       "onboard_time": 1731505342,
       "rank": 11,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 628501,
+      "num": 503487,
+      "word": "律师说杨紫还可通过刑事手段维权",
+      "onboard_time": 1731509002,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622579,
       "num": 622579,
       "word": "永夜星河",
@@ -579,7 +587,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 532812,
+      "raw_hot": 534546,
       "num": 532812,
       "word": "吴姗姗 白眼狼",
       "onboard_time": 1731507681,
@@ -635,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503487,
-      "num": 503487,
-      "word": "律师说杨紫还可通过刑事手段维权",
-      "onboard_time": 1731509002,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500030,
       "num": 389731,
       "word": "魏大勋拍摄时脸被道具划伤",
@@ -665,6 +665,14 @@
       "onboard_time": 1731489319,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493203,
+      "num": 427645,
+      "word": "成都漆器证实李子柒全程自己做",
+      "onboard_time": 1731510320,
+      "rank": 23,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 478146,
@@ -731,12 +739,28 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 421039,
+      "num": 421039,
+      "word": "通知公布半小时已有人下单去广州",
+      "onboard_time": 1731511400,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420499,
       "num": 420499,
       "word": "用人民币感受日本物价",
       "onboard_time": 1731485959,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 412192,
+      "num": 412192,
+      "word": "浪胃仙IP创始人获刑8年",
+      "onboard_time": 1731511881,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 410089,
@@ -1075,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269690,
-      "num": 268389,
-      "word": "成都漆器证实李子柒全程自己做",
-      "onboard_time": 1731510320,
-      "rank": 23,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 269595,
       "num": 269595,
       "word": "周洁琼送给珊珊的婚纱照",
@@ -1153,6 +1169,22 @@
       "onboard_time": 1731468438,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246043,
+      "num": 246043,
+      "word": "原来怀孕时脏器会被挤变形",
+      "onboard_time": 1731510320,
+      "rank": 25,
+      "category": "母婴育儿,健康医疗"
+    },
+    {
+      "raw_hot": 244337,
+      "num": 95191,
+      "word": "丁禹兮发了妙妙拍的自己",
+      "onboard_time": 1731512119,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 241610,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1731467420,
       "rank": 32,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 230634,
-      "num": 230634,
-      "word": "原来怀孕时脏器会被挤变形",
-      "onboard_time": 1731510320,
-      "rank": 25,
-      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 229864,
@@ -1571,20 +1595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193905,
-      "num": 193905,
-      "word": "通知公布半小时已有人下单去广州",
-      "onboard_time": 1731511400,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193559,
       "num": 193559,
       "word": "Keria评论Meiko芮尔",
       "onboard_time": 1731458661,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193327,
+      "num": 193327,
+      "word": "比特币",
+      "onboard_time": 1731510621,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 192832,
@@ -1811,14 +1835,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 169071,
-      "num": 169071,
-      "word": "比特币",
-      "onboard_time": 1731510621,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168453,
       "num": 459615,
       "word": "李子柒最喜欢的一个镜头",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1731477800,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167790,
+      "num": 167790,
+      "word": "冰西辰家族",
+      "onboard_time": 1731511161,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 167622,
@@ -2403,14 +2427,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 122304,
-      "num": 122304,
-      "word": "冰西辰家族",
-      "onboard_time": 1731511161,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121546,
       "num": 157108,
       "word": "SBS阵容",
@@ -2715,6 +2731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 84576,
+      "num": 197654,
+      "word": "地铁里遇到导盲犬这一刻心都化了",
+      "onboard_time": 1731511400,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83469,
       "num": 83469,
       "word": "回归前的李子柒干了些什么",
@@ -2761,14 +2785,6 @@
       "onboard_time": 1731423323,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 76845,
-      "num": 197654,
-      "word": "地铁里遇到导盲犬这一刻心都化了",
-      "onboard_time": 1731511400,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71206,
@@ -2969,6 +2985,14 @@
       "onboard_time": 1731476240,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54464,
+      "num": 433306,
+      "word": "15件冬日温暖小事",
+      "onboard_time": 1731512060,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54301,
@@ -3275,6 +3299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36619,
+      "num": 421251,
+      "word": "直播间对对碰真的划算吗",
+      "onboard_time": 1731510559,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35931,
       "num": 524292,
       "word": "长者食堂开张容易补贴难续",
@@ -3456,14 +3488,6 @@
       "word": "员工舀潲水油老板发誓没用过",
       "onboard_time": 1731499822,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25101,
-      "num": 317227,
-      "word": "直播间对对碰真的划算吗",
-      "onboard_time": 1731510559,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
