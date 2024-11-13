@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731463106515,
+  "endTime": 1731466319272,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2334856,
-      "num": 319075,
+      "num": 415731,
       "word": "罗志祥 不要像我一样犯错",
       "onboard_time": 1731460041,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1253596,
+      "num": 410542,
+      "word": "马斯克将领导美国政府效率部",
+      "onboard_time": 1731463400,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1173406,
       "num": 1173406,
       "word": "李子柒停更原因",
@@ -43,12 +51,36 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 1162212,
+      "num": 1185954,
+      "word": "烈士家属祭奠遭拒打洞进小学上坟",
+      "onboard_time": 1731463877,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990082,
+      "num": 990082,
+      "word": "李子柒给手工厂提建议从滞销变脱销",
+      "onboard_time": 1731463639,
+      "rank": 1,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 932847,
-      "num": 319752,
+      "num": 408888,
       "word": "00后上班4个月学生就拿了月考第一",
       "onboard_time": 1731461000,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864145,
+      "num": 864145,
+      "word": "虞书欣气血好足",
+      "onboard_time": 1731462140,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 811463,
@@ -68,7 +100,7 @@
     },
     {
       "raw_hot": 755297,
-      "num": 318421,
+      "num": 414942,
       "word": "杨颖空降超话发文想念大家",
       "onboard_time": 1731458240,
       "rank": 11,
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 574471,
-      "num": 264533,
+      "num": 352241,
       "word": "特朗普公布美新任国防部长人选",
       "onboard_time": 1731459680,
       "rank": 20,
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 572135,
-      "num": 262842,
+      "num": 408983,
       "word": "女子促排备孕怀上9胞胎",
       "onboard_time": 1731422964,
       "rank": 21,
@@ -132,11 +164,19 @@
     },
     {
       "raw_hot": 498025,
-      "num": 304000,
+      "num": 413220,
       "word": "mlxg砸键盘受伤",
       "onboard_time": 1731460340,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 484440,
+      "num": 484440,
+      "word": "李子柒学漆艺时严重过敏",
+      "onboard_time": 1731464659,
+      "rank": 7,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 475794,
@@ -153,14 +193,6 @@
       "onboard_time": 1731424222,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453391,
-      "num": 453391,
-      "word": "虞书欣气血好足",
-      "onboard_time": 1731462140,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 430139,
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 407849,
-      "num": 262515,
+      "num": 308296,
       "word": "医生给失眠女友注射麻醉药致其死亡",
       "onboard_time": 1731454278,
       "rank": 30,
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 328601,
-      "num": 328601,
+      "num": 412009,
       "word": "丁禹兮真的去蹦极了",
       "onboard_time": 1731455899,
       "rank": 8,
@@ -243,12 +275,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315858,
+      "num": 256954,
+      "word": "特朗普宣布多项任命",
+      "onboard_time": 1731464538,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 309578,
       "num": 309578,
       "word": "2025元旦放1天不调休",
       "onboard_time": 1731404484,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307553,
+      "num": 259913,
+      "word": "刘诗雯田志希成为队友",
+      "onboard_time": 1731462140,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303702,
+      "num": 412899,
+      "word": "胡军带儿子康康现身珠海航展",
+      "onboard_time": 1731463279,
+      "rank": 16,
+      "category": "艺人,军事"
     },
     {
       "raw_hot": 297182,
@@ -260,11 +316,19 @@
     },
     {
       "raw_hot": 294128,
-      "num": 258799,
+      "num": 283184,
       "word": "高梓淇回应网友喊话上再见爱人",
       "onboard_time": 1731459921,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292395,
+      "num": 415864,
+      "word": "永夜星河微博开分9.3",
+      "onboard_time": 1731460761,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 283166,
@@ -273,6 +337,22 @@
       "onboard_time": 1731458721,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282162,
+      "num": 282162,
+      "word": "多地官宣出生人口反弹",
+      "onboard_time": 1731464419,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280402,
+      "num": 410141,
+      "word": "李子柒 白月光",
+      "onboard_time": 1731459142,
+      "rank": 30,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 270385,
@@ -296,22 +376,6 @@
       "word": "李子柒回归",
       "onboard_time": 1731401000,
       "rank": 8,
-      "category": "美食,网红"
-    },
-    {
-      "raw_hot": 259913,
-      "num": 259913,
-      "word": "刘诗雯田志希成为队友",
-      "onboard_time": 1731462140,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 254368,
-      "num": 254368,
-      "word": "李子柒 白月光",
-      "onboard_time": 1731459142,
-      "rank": 30,
       "category": "美食,网红"
     },
     {
@@ -363,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226146,
+      "num": 293139,
+      "word": "带薪休假目前落实相对参差",
+      "onboard_time": 1731462200,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224307,
       "num": 224307,
       "word": "男子被误诊感染HPV10天花光积蓄",
@@ -377,6 +449,14 @@
       "onboard_time": 1731454217,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205582,
+      "num": 205582,
+      "word": "听泉赏龙泉也太开门了",
+      "onboard_time": 1731462018,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 196606,
@@ -403,20 +483,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191812,
+      "num": 191812,
+      "word": "歼20亮相中国航展",
+      "onboard_time": 1731464478,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 189155,
       "num": 189155,
       "word": "珠海航展氛围感燃到飞起",
       "onboard_time": 1731404243,
       "rank": 25,
       "category": "军事"
-    },
-    {
-      "raw_hot": 181905,
-      "num": 255761,
-      "word": "永夜星河微博开分9.3",
-      "onboard_time": 1731460761,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 175839,
@@ -441,6 +521,14 @@
       "onboard_time": 1731412644,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168430,
+      "num": 168430,
+      "word": "猫猫我呀今天保护女生了耶",
+      "onboard_time": 1731462918,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 165826,
@@ -473,6 +561,14 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155790,
+      "num": 282282,
+      "word": "再见爱人",
+      "onboard_time": 1731462498,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153965,
@@ -523,12 +619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146882,
-      "num": 146882,
-      "word": "再见爱人",
-      "onboard_time": 1731462498,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 146833,
+      "num": 146833,
+      "word": "假期增加为何选在春节五一",
+      "onboard_time": 1731463999,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142230,
+      "num": 142230,
+      "word": "王伟墓前有了歼35A模型",
+      "onboard_time": 1731464719,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 137930,
@@ -555,20 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128125,
-      "num": 128125,
-      "word": "猫猫我呀今天保护女生了耶",
-      "onboard_time": 1731462918,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 121811,
-      "num": 293139,
-      "word": "带薪休假目前落实相对参差",
-      "onboard_time": 1731462200,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 126985,
+      "num": 257340,
+      "word": "中国军机原来有家谱",
+      "onboard_time": 1731463760,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 119990,
@@ -577,6 +673,14 @@
       "onboard_time": 1731462561,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118150,
+      "num": 414419,
+      "word": "歼35A装备国产发动机",
+      "onboard_time": 1731466278,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 117870,
@@ -611,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110503,
-      "num": 147938,
-      "word": "听泉赏龙泉也太开门了",
-      "onboard_time": 1731462018,
-      "rank": 39,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 108041,
       "num": 108041,
       "word": "再见爱人能不能按这个演",
@@ -641,6 +737,14 @@
       "onboard_time": 1731416843,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101160,
+      "num": 294720,
+      "word": "腾讯天美怪猎手游官网上线",
+      "onboard_time": 1731465439,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 100026,
@@ -707,6 +811,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 91711,
+      "num": 411435,
+      "word": "人民空军三剑客将升级为四剑客",
+      "onboard_time": 1731465859,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 88793,
       "num": 244120,
       "word": "沈阳现万米丁达尔效应",
@@ -729,6 +841,14 @@
       "onboard_time": 1731449172,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87234,
+      "num": 409866,
+      "word": "那个说要开战斗机的孩子长大了",
+      "onboard_time": 1731465499,
+      "rank": 22,
+      "category": "艺人,军事"
     },
     {
       "raw_hot": 86115,
@@ -785,6 +905,22 @@
       "onboard_time": 1731443711,
       "rank": 49,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 64353,
+      "num": 414519,
+      "word": "多方回应村民祖坟被圈进小学难祭奠",
+      "onboard_time": 1731466039,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62963,
+      "num": 413891,
+      "word": "小伙初次去女友家买到两条假烟",
+      "onboard_time": 1731464839,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60958,
@@ -868,7 +1004,7 @@
     },
     {
       "raw_hot": 38955,
-      "num": 761020,
+      "num": 944755,
       "word": "七张图带你了解秘鲁",
       "onboard_time": 1731414744,
       "rank": 2,
@@ -897,6 +1033,14 @@
       "onboard_time": 1731453976,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27375,
+      "num": 146684,
+      "word": "陆海空三军齐聚航展新闻发布会",
+      "onboard_time": 1731464958,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 23124,

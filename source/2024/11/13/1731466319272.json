@@ -1,0 +1,410 @@
+{
+  "runTime": 1731466319272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1162212,
+        "num": 1185954,
+        "word": "烈士家属祭奠遭拒打洞进小学上坟",
+        "onboard_time": 1731463877,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990082,
+        "num": 990082,
+        "word": "李子柒给手工厂提建议从滞销变脱销",
+        "onboard_time": 1731463639,
+        "rank": 1,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 18742,
+        "num": 944755,
+        "word": "七张图带你了解秘鲁",
+        "onboard_time": 1731414744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 927655,
+        "num": 927655,
+        "word": "雷军真去拧螺丝了",
+        "onboard_time": 1731457881,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 864145,
+        "num": 864145,
+        "word": "虞书欣气血好足",
+        "onboard_time": 1731462140,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 647937,
+        "num": 647937,
+        "word": "李子柒停更期间拜访了许多非遗传人",
+        "onboard_time": 1731452655,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 504839,
+        "num": 504839,
+        "word": "永夜星河 老婆真牛",
+        "onboard_time": 1731459021,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484440,
+        "num": 484440,
+        "word": "李子柒学漆艺时严重过敏",
+        "onboard_time": 1731464659,
+        "rank": 7,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 462746,
+        "num": 462746,
+        "word": "除夕纳入放假",
+        "onboard_time": 1731402502,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292395,
+        "num": 415864,
+        "word": "永夜星河微博开分9.3",
+        "onboard_time": 1731460761,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1632552,
+        "num": 415731,
+        "word": "罗志祥 不要像我一样犯错",
+        "onboard_time": 1731460041,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414942,
+        "num": 414942,
+        "word": "杨颖空降超话发文想念大家",
+        "onboard_time": 1731458240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64353,
+        "num": 414519,
+        "word": "多方回应村民祖坟被圈进小学难祭奠",
+        "onboard_time": 1731466039,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118150,
+        "num": 414419,
+        "word": "歼35A装备国产发动机",
+        "onboard_time": 1731466278,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 62963,
+        "num": 413891,
+        "word": "小伙初次去女友家买到两条假烟",
+        "onboard_time": 1731464839,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317535,
+        "num": 413220,
+        "word": "mlxg砸键盘受伤",
+        "onboard_time": 1731460340,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 303702,
+        "num": 412899,
+        "word": "胡军带儿子康康现身珠海航展",
+        "onboard_time": 1731463279,
+        "rank": 16,
+        "category": "艺人,军事"
+      },
+      {
+        "raw_hot": 198681,
+        "num": 412009,
+        "word": "丁禹兮真的去蹦极了",
+        "onboard_time": 1731455899,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91711,
+        "num": 411435,
+        "word": "人民空军三剑客将升级为四剑客",
+        "onboard_time": 1731465859,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175482,
+        "num": 411292,
+        "word": "小巷人家 气人",
+        "onboard_time": 1731424222,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1253596,
+        "num": 410542,
+        "word": "马斯克将领导美国政府效率部",
+        "onboard_time": 1731463400,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 280402,
+        "num": 410141,
+        "word": "李子柒 白月光",
+        "onboard_time": 1731459142,
+        "rank": 21,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 87234,
+        "num": 409866,
+        "word": "那个说要开战斗机的孩子长大了",
+        "onboard_time": 1731465499,
+        "rank": 22,
+        "category": "艺人,军事"
+      },
+      {
+        "raw_hot": 417712,
+        "num": 408983,
+        "word": "女子促排备孕怀上9胞胎",
+        "onboard_time": 1731422964,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408888,
+        "num": 408888,
+        "word": "00后上班4个月学生就拿了月考第一",
+        "onboard_time": 1731461000,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352241,
+        "num": 352241,
+        "word": "特朗普公布美新任国防部长人选",
+        "onboard_time": 1731459680,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 308296,
+        "num": 308296,
+        "word": "医生给失眠女友注射麻醉药致其死亡",
+        "onboard_time": 1731454278,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101160,
+        "num": 294720,
+        "word": "腾讯天美怪猎手游官网上线",
+        "onboard_time": 1731465439,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194434,
+        "num": 283184,
+        "word": "高梓淇回应网友喊话上再见爱人",
+        "onboard_time": 1731459921,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155790,
+        "num": 282282,
+        "word": "再见爱人",
+        "onboard_time": 1731462498,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282162,
+        "num": 282162,
+        "word": "多地官宣出生人口反弹",
+        "onboard_time": 1731464419,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126985,
+        "num": 257340,
+        "word": "中国军机原来有家谱",
+        "onboard_time": 1731463760,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 315858,
+        "num": 256954,
+        "word": "特朗普宣布多项任命",
+        "onboard_time": 1731464538,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 307553,
+        "num": 256586,
+        "word": "刘诗雯田志希成为队友",
+        "onboard_time": 1731462140,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255605,
+        "num": 255605,
+        "word": "微念称与李子柒的案件已完全和解",
+        "onboard_time": 1731454398,
+        "rank": 34,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 242136,
+        "num": 242136,
+        "word": "指甲尽量要剪成方形",
+        "onboard_time": 1731453797,
+        "rank": 35,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 232570,
+        "num": 232570,
+        "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
+        "onboard_time": 1731427341,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226146,
+        "num": 226146,
+        "word": "带薪休假目前落实相对参差",
+        "onboard_time": 1731462200,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217449,
+        "num": 217449,
+        "word": "女子闯红灯被撞反问交警车主无责吗",
+        "onboard_time": 1731424762,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205582,
+        "num": 205582,
+        "word": "听泉赏龙泉也太开门了",
+        "onboard_time": 1731462018,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 191812,
+        "num": 191812,
+        "word": "歼20亮相中国航展",
+        "onboard_time": 1731464478,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 181218,
+        "num": 181218,
+        "word": "特朗普在堕胎权上的立场备受争议",
+        "onboard_time": 1731421643,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 168430,
+        "num": 168430,
+        "word": "猫猫我呀今天保护女生了耶",
+        "onboard_time": 1731462918,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164165,
+        "num": 164165,
+        "word": "2025年放假安排来了",
+        "onboard_time": 1731402744,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157266,
+        "num": 157266,
+        "word": "特斯拉10万员工薪酬数据曝光",
+        "onboard_time": 1731461420,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146833,
+        "num": 146833,
+        "word": "假期增加为何选在春节五一",
+        "onboard_time": 1731463999,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27375,
+        "num": 146684,
+        "word": "陆海空三军齐聚航展新闻发布会",
+        "onboard_time": 1731464958,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 146664,
+        "num": 146664,
+        "word": "官方通报19岁女生卖卵代孕",
+        "onboard_time": 1731426140,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142520,
+        "num": 142520,
+        "word": "被全世界都禁养的猫咪",
+        "onboard_time": 1731454217,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142230,
+        "num": 142230,
+        "word": "王伟墓前有了歼35A模型",
+        "onboard_time": 1731464719,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对广东珠海市驾车冲撞行人案件作出重要指示#"
+    }
+  }
+}
