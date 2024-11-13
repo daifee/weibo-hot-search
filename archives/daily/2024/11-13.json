@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731490662504,
+  "endTime": 1731493420991,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -41,6 +41,14 @@
       "onboard_time": 1731474380,
       "rank": 11,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 1817518,
+      "num": 1817518,
+      "word": "契税",
+      "onboard_time": 1731492198,
+      "rank": 0,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 1695610,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 956187,
+      "num": 480872,
+      "word": "专家称9胞胎产妇或面临大月份流产",
+      "onboard_time": 1731489559,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 932847,
       "num": 408888,
       "word": "00后上班4个月学生就拿了月考第一",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 764933,
+      "num": 457104,
+      "word": "赵露思听劝",
+      "onboard_time": 1731487279,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 758855,
       "num": 758855,
       "word": "永夜星河 老婆真牛",
@@ -272,14 +296,6 @@
       "word": "杨颖空降超话发文想念大家",
       "onboard_time": 1731458240,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 755103,
-      "num": 432620,
-      "word": "赵露思听劝",
-      "onboard_time": 1731487279,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565182,
+      "num": 565182,
+      "word": "李玟姐姐回应李玟墓地杂草丛生",
+      "onboard_time": 1731489414,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554441,
       "num": 507399,
       "word": "李子柒穿的蜀锦裙源于宋代百迭裙",
@@ -416,6 +440,14 @@
       "word": "林大厨爆改慕子期",
       "onboard_time": 1731475161,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 527540,
+      "num": 527540,
+      "word": "永夜星河",
+      "onboard_time": 1731406522,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -507,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432519,
-      "num": 432519,
-      "word": "专家称9胞胎产妇或面临大月份流产",
-      "onboard_time": 1731489559,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 430139,
       "num": 430139,
       "word": "出租车师傅刚要报警女子跳进池塘",
@@ -587,19 +611,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365106,
+      "num": 365106,
+      "word": "孩子偷奶茶被发现母亲殴打女店员",
+      "onboard_time": 1731491478,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364912,
+      "num": 364912,
+      "word": "禹宙中欣",
+      "onboard_time": 1731490400,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364424,
       "num": 364424,
       "word": "珠帘玉幕微博开分8.3",
       "onboard_time": 1731423863,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 352001,
-      "num": 352001,
-      "word": "禹宙中欣",
-      "onboard_time": 1731490400,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -609,6 +641,14 @@
       "onboard_time": 1731477379,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344152,
+      "num": 344152,
+      "word": "清华北航",
+      "onboard_time": 1731492319,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 341414,
@@ -843,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247422,
+      "num": 502223,
+      "word": "个人购房不超140平契税降至1%",
+      "onboard_time": 1731491780,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 246576,
       "num": 313397,
       "word": "2024星辰大海青年演员入选名单",
@@ -939,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222700,
+      "num": 222700,
+      "word": "王曼昱陈梦双打退赛",
+      "onboard_time": 1731491720,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218907,
       "num": 272316,
       "word": "赵露思工作室回应粉丝诉求",
@@ -995,11 +1051,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208057,
+      "num": 389731,
+      "word": "魏大勋拍摄时脸被道具划伤",
+      "onboard_time": 1731492738,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207659,
       "num": 286507,
       "word": "这竟然是虞书欣第一次扫楼",
       "onboard_time": 1731477081,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206231,
+      "num": 432597,
+      "word": "小巷人家选角争议的锅谁来背",
+      "onboard_time": 1731489020,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -1051,12 +1123,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201705,
+      "num": 201705,
+      "word": "歼20飞行员一歪头就能看见航母",
+      "onboard_time": 1731490339,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 197616,
       "num": 197616,
       "word": "王楚钦出战福冈总决赛男单",
       "onboard_time": 1731489681,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197165,
+      "num": 432606,
+      "word": "港片第一部灾难片有多猛",
+      "onboard_time": 1731489859,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 196676,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1731466458,
       "rank": 36,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 180027,
+      "num": 180027,
+      "word": "周洁琼80年代新娘妆",
+      "onboard_time": 1731492620,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 179803,
@@ -1259,6 +1355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166879,
+      "num": 166879,
+      "word": "成都混合团体世界杯VIP通票12380元",
+      "onboard_time": 1731492499,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165833,
       "num": 165833,
       "word": "南部战区位黄岩岛领海领空战备警巡",
@@ -1315,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160001,
+      "num": 162046,
+      "word": "第二届DNA音乐节",
+      "onboard_time": 1731492620,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158837,
       "num": 158837,
       "word": "中国首飞航天员杨利伟现身航展",
@@ -1337,6 +1449,14 @@
       "onboard_time": 1731485302,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156393,
+      "num": 156393,
+      "word": "黄玲 火力全开",
+      "onboard_time": 1731491720,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 155948,
@@ -1459,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147490,
-      "num": 147490,
-      "word": "永夜星河",
-      "onboard_time": 1731406522,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146485,
       "num": 146485,
       "word": "本届金鸡你最期待谁获奖",
@@ -1499,6 +1611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 140827,
+      "num": 140827,
+      "word": "王楚钦不参加福冈总决赛男双",
+      "onboard_time": 1731493159,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140043,
       "num": 140043,
       "word": "库里37分",
@@ -1521,6 +1641,14 @@
       "onboard_time": 1731459323,
       "rank": 43,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 137387,
+      "num": 434815,
+      "word": "多部门发布楼市税收优惠新政",
+      "onboard_time": 1731491899,
+      "rank": 13,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 136205,
@@ -1563,14 +1691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129857,
-      "num": 432606,
-      "word": "港片第一部灾难片有多猛",
-      "onboard_time": 1731489859,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 129549,
       "num": 149397,
       "word": "卓沅吃火锅报备",
@@ -1601,6 +1721,14 @@
       "onboard_time": 1731471981,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124285,
+      "num": 124285,
+      "word": "女子拉架时倒地被路过司机碾压",
+      "onboard_time": 1731490339,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121546,
@@ -1673,6 +1801,14 @@
       "onboard_time": 1731490098,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112060,
+      "num": 205619,
+      "word": "ADOR回应NewJeans解约",
+      "onboard_time": 1731492439,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 111677,
@@ -1817,14 +1953,6 @@
       "onboard_time": 1731474080,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 89792,
-      "num": 432521,
-      "word": "李玟姐姐回应李玟墓地杂草丛生",
-      "onboard_time": 1731489414,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 88824,
@@ -1977,14 +2105,6 @@
       "onboard_time": 1731470661,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65231,
-      "num": 432597,
-      "word": "小巷人家选角争议的锅谁来背",
-      "onboard_time": 1731489020,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 63875,
@@ -2267,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39149,
+      "num": 328477,
+      "word": "原来林一真的天天比心",
+      "onboard_time": 1731493099,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38955,
       "num": 944755,
       "word": "七张图带你了解秘鲁",
@@ -2289,6 +2417,14 @@
       "onboard_time": 1731474141,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37173,
+      "num": 497564,
+      "word": "李子柒回归爆火是全网对清流的期待",
+      "onboard_time": 1731492198,
+      "rank": 9,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 37142,
@@ -2411,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25218,
+      "num": 413009,
+      "word": "这么多明星真的很开门",
+      "onboard_time": 1731492379,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23124,
       "num": 37563,
       "word": "尼日尔高级军官期待购买中国战机",
@@ -2425,6 +2569,14 @@
       "onboard_time": 1731436152,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21417,
+      "num": 375337,
+      "word": "马龙T中文版封面预告",
+      "onboard_time": 1731492738,
+      "rank": 19,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 21073,
@@ -2593,6 +2745,14 @@
       "onboard_time": 1731447191,
       "rank": 19,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 6044,
+      "num": 524476,
+      "word": "契税优惠新政12月1日起执行",
+      "onboard_time": 1731493280,
+      "rank": 7,
+      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [
