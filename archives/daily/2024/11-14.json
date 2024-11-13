@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731536499536,
+  "endTime": 1731537566540,
   "band_list": [
     {
       "raw_hot": 1096228,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1087559,
-      "num": 473779,
+      "num": 508972,
       "word": "通知公布半小时已有人下单去广州",
       "onboard_time": 1731511400,
       "rank": 10,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 76182,
-      "num": 38590,
+      "num": 73415,
       "word": "被泼开水女童家长发声",
       "onboard_time": 1731521412,
       "rank": 24,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50624,
+      "num": 50624,
+      "word": "杜华怕演唱会全场喊乐华倒闭",
+      "onboard_time": 1731519613,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47768,
       "num": 119034,
       "word": "这架无人机可以绕台湾6圈",
@@ -459,20 +467,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 40641,
+      "num": 40641,
+      "word": "山东青岛一渔船沉没2人遇难",
+      "onboard_time": 1731532331,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 39938,
+      "num": 60774,
+      "word": "李玟姐姐回应李玟墓地杂草丛生",
+      "onboard_time": 1731489414,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39108,
       "num": 87546,
       "word": "地铁里遇到导盲犬这一刻心都化了",
       "onboard_time": 1731511400,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38780,
-      "num": 60774,
-      "word": "李玟姐姐回应李玟墓地杂草丛生",
-      "onboard_time": 1731489414,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 38508,
@@ -483,12 +499,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37198,
-      "num": 41363,
-      "word": "杜华怕演唱会全场喊乐华倒闭",
-      "onboard_time": 1731519613,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 37781,
+      "num": 37781,
+      "word": "李子柒回应被模仿",
+      "onboard_time": 1731533710,
+      "rank": 49,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 43730,
+      "word": "小巷人家",
+      "onboard_time": 1731501619,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 34397,
@@ -499,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32902,
-      "num": 43730,
-      "word": "小巷人家",
-      "onboard_time": 1731501619,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 33737,
+      "num": 33737,
+      "word": "浙江籍女飞行员将进行直升机表演",
+      "onboard_time": 1731531910,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 32716,
+      "num": 32716,
+      "word": "2025年放假安排日历来了",
+      "onboard_time": 1731532450,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32280,
@@ -513,14 +545,6 @@
       "onboard_time": 1731529631,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30925,
-      "num": 30925,
-      "word": "山东青岛一渔船沉没2人遇难",
-      "onboard_time": 1731532331,
-      "rank": 48,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 30285,
@@ -539,28 +563,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26835,
-      "num": 26835,
-      "word": "2025年放假安排日历来了",
-      "onboard_time": 1731532450,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26345,
-      "num": 26345,
-      "word": "李子柒回应被模仿",
-      "onboard_time": 1731533710,
-      "rank": 49,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 25826,
       "num": 71627,
       "word": "376斤大铜牛历经千年仍闪闪发光",
       "onboard_time": 1731516797,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23444,
+      "num": 30806,
+      "word": "航天员汤洪波亮相中国航展",
+      "onboard_time": 1731533291,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 21708,
@@ -580,11 +596,19 @@
     },
     {
       "raw_hot": 21012,
-      "num": 23641,
+      "num": 30802,
       "word": "62岁俄飞行员驾驶苏57炫技落叶飘",
       "onboard_time": 1731527410,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 20142,
+      "num": 30795,
+      "word": "黄玲宋莹 姐妹情",
+      "onboard_time": 1731530591,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 19517,
@@ -595,12 +619,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19036,
-      "num": 29510,
-      "word": "航天员汤洪波亮相中国航展",
-      "onboard_time": 1731533291,
+      "raw_hot": 19414,
+      "num": 37315,
+      "word": "太空快递正在准备中",
+      "onboard_time": 1731534131,
       "rank": 13,
-      "category": "军事"
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19118,
+      "num": 30786,
+      "word": "邓家佳黑丝御姐风",
+      "onboard_time": 1731502519,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 18506,
@@ -611,28 +643,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18466,
+      "num": 30782,
+      "word": "被泼开水女童书包现恐吓信家长报警",
+      "onboard_time": 1731529151,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18002,
       "num": 29966,
       "word": "庄超英 愚孝",
       "onboard_time": 1731521952,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17984,
-      "num": 23651,
-      "word": "黄玲宋莹 姐妹情",
-      "onboard_time": 1731530591,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17697,
-      "num": 23647,
-      "word": "被泼开水女童书包现恐吓信家长报警",
-      "onboard_time": 1731529151,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17550,
@@ -644,19 +668,11 @@
     },
     {
       "raw_hot": 17482,
-      "num": 181366,
+      "num": 216538,
       "word": "中国连续10年是秘鲁最大出口市场",
       "onboard_time": 1731503660,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17018,
-      "num": 23645,
-      "word": "浙江籍女飞行员将进行直升机表演",
-      "onboard_time": 1731531910,
-      "rank": 44,
-      "category": "军事"
     },
     {
       "raw_hot": 14834,
@@ -665,14 +681,6 @@
       "onboard_time": 1731531610,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14245,
-      "num": 19660,
-      "word": "邓家佳黑丝御姐风",
-      "onboard_time": 1731502519,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 13860,
@@ -699,14 +707,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 12692,
-      "num": 37315,
-      "word": "太空快递正在准备中",
-      "onboard_time": 1731534131,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12524,
       "num": 18477,
       "word": "航展现场观众齐声高唱歌唱祖国",
@@ -721,6 +721,14 @@
       "onboard_time": 1731518234,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11793,
+      "num": 97101,
+      "word": "第十五届中国航展有多火",
+      "onboard_time": 1731536473,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 11762,
@@ -753,14 +761,6 @@
       "onboard_time": 1731524172,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9655,
-      "num": 28942,
-      "word": "第十五届中国航展有多火",
-      "onboard_time": 1731536473,
-      "rank": 29,
-      "category": "军事"
     }
   ],
   "hotgov_list": [
