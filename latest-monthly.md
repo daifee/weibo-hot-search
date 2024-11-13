@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/13 13:39:35
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/13 14:30:59
 </p>
 </blockquote>
 <p>
@@ -1449,6 +1449,12 @@ K7034列车发生脱轨事故（热度：1833924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2398%E4%B8%87%E9%83%A8%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8E%A7%E5%88%B6%E6%AF%8F%E6%9C%88%E5%81%B7%E5%81%B7%E6%89%A3%E9%92%B1%23" target="weibo">
+98万部手机被控制每月偷偷扣钱（热度：1370068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E4%BB%85%E9%80%80%E6%AC%BE19%E5%85%83%E5%95%86%E5%AE%B6%E8%B5%B7%E8%AF%89%E8%B5%94800%23" target="weibo">
 网购仅退款19元商家起诉赔800（热度：1365668）
 </a>
@@ -2675,6 +2681,12 @@ Elk神箭（热度：991451）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%BB%A2%E7%9A%93%E5%9D%90%E4%BA%86%E5%AF%BC%E5%B8%88%E7%9A%84%E4%BD%8D%E7%BD%AE%23" target="weibo">
 孙滢皓坐了导师的位置（热度：932837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%90%B3%E9%97%AE%E7%A6%BB%E5%A9%9A%E5%AD%A9%E5%AD%90%E8%B7%9F%E9%92%B1%E8%83%BD%E5%BD%92%E5%A5%B9%E5%90%97%23" target="weibo">
+麦琳问离婚孩子跟钱能归她吗（热度：931903）
 </a>
 </li>
 
@@ -4539,6 +4551,12 @@ BLG教练（热度：627145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E6%89%AB%E6%A5%BC%23" target="weibo">
+永夜星河扫楼（热度：621042）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%88%AE%E5%88%AE%E4%B9%90%E4%B8%AD%E7%99%BE%E4%B8%872%E5%B0%8F%E4%BC%99%E5%B7%B2%E6%81%A2%E5%A4%8D%E5%B7%A5%E4%BD%9C%23" target="weibo">
 买刮刮乐中百万2小伙已恢复工作（热度：620966）
 </a>
@@ -5993,24 +6011,6 @@ mlxg砸键盘受伤（热度：498025）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%E7%BB%99%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%81%9A%E7%9A%84%E9%AB%98%E5%AE%9A%E9%80%A0%E5%9E%8B%23" target="weibo">
 闵塔鲨给赵露思做的高定造型（热度：490358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%82%A6%E8%80%81%E6%9D%BF%E7%A7%B0%E5%92%8C%E8%B4%BE%E4%B9%83%E4%BA%AE%E5%90%88%E4%BD%9C%E6%95%88%E6%9E%9C%E5%B7%AE%23" target="weibo">
-美邦老板称和贾乃亮合作效果差（热度：490059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E5%AE%9E%E6%96%BD%23" target="weibo">
-上海住房公积金新政实施（热度：489318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E7%AC%AC%E4%B8%89%E8%80%85%E8%A2%AB%E5%88%A4%E8%BF%94%E8%BF%98%E5%8E%9F%E9%85%8D300%E4%B8%87%23" target="weibo">
-男子出轨第三者被判返还原配300万（热度：488633）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731479459603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1890532,
+        "num": 1890532,
+        "word": "李子柒身份证改名",
+        "onboard_time": 1731474380,
+        "rank": 0,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 1370068,
+        "num": 1370068,
+        "word": "98万部手机被控制每月偷偷扣钱",
+        "onboard_time": 1731475280,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12248,
+        "num": 918238,
+        "word": "秘鲁Chifa里藏着中国味儿",
+        "onboard_time": 1731470479,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 789266,
+        "num": 789266,
+        "word": "李子柒三更",
+        "onboard_time": 1731474080,
+        "rank": 3,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 724924,
+        "num": 724924,
+        "word": "榜一大哥沙特来了",
+        "onboard_time": 1731473601,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 621042,
+        "num": 621042,
+        "word": "永夜星河扫楼",
+        "onboard_time": 1731476000,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458334,
+        "num": 458334,
+        "word": "李子柒给手工厂提建议从滞销变脱销",
+        "onboard_time": 1731463639,
+        "rank": 6,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 403315,
+        "num": 403315,
+        "word": "林大厨爆改慕子期",
+        "onboard_time": 1731475161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388836,
+        "num": 388836,
+        "word": "俄立法禁止宣传不生孩子",
+        "onboard_time": 1731476600,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 14667,
+        "num": 386603,
+        "word": "直播带货5年投诉量增幅达47倍",
+        "onboard_time": 1731478342,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1006576,
+        "num": 384695,
+        "word": "张檬怀孕17周98斤",
+        "onboard_time": 1731474860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931903,
+        "num": 381813,
+        "word": "麦琳问离婚孩子跟钱能归她吗",
+        "onboard_time": 1731476900,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581501,
+        "num": 381025,
+        "word": "宋慧乔金高银Jennie出席婚礼",
+        "onboard_time": 1731474080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479159,
+        "num": 376845,
+        "word": "罗志祥 不要像我一样犯错",
+        "onboard_time": 1731460041,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11955,
+        "num": 374170,
+        "word": "9家医院存在救护车超标收费被查",
+        "onboard_time": 1731478219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373788,
+        "num": 373788,
+        "word": "赵露思会逐步重组团队人员",
+        "onboard_time": 1731475700,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351369,
+        "num": 351369,
+        "word": "库里杀死比赛",
+        "onboard_time": 1731477379,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329606,
+        "num": 329606,
+        "word": "虞书欣谢谢林大厨已吓晕",
+        "onboard_time": 1731478580,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130288,
+        "num": 328727,
+        "word": "太子妃的绿篱都当妈妈了",
+        "onboard_time": 1731475639,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23382,
+        "num": 328534,
+        "word": "车圈顶美来了",
+        "onboard_time": 1731477979,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 347338,
+        "num": 328481,
+        "word": "马斯克将领导美国政府效率部",
+        "onboard_time": 1731463400,
+        "rank": 20,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 328413,
+        "num": 328413,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294828,
+        "num": 294828,
+        "word": "国台办回应刘德华台北演唱中国人",
+        "onboard_time": 1731467420,
+        "rank": 22,
+        "category": "国内时政,作品衍生"
+      },
+      {
+        "raw_hot": 290582,
+        "num": 290582,
+        "word": "张婉婷 李行亮对老婆发自内心好一点吧",
+        "onboard_time": 1731472221,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232632,
+        "num": 232632,
+        "word": "珠海航展沙特的展馆是空的",
+        "onboard_time": 1731470779,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 209357,
+        "num": 209357,
+        "word": "成毅五年前拍的剧播了",
+        "onboard_time": 1731479000,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207659,
+        "num": 207659,
+        "word": "这竟然是虞书欣第一次扫楼",
+        "onboard_time": 1731477081,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177026,
+        "num": 198474,
+        "word": "赵露思 这是腮红",
+        "onboard_time": 1731472940,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232398,
+        "num": 196779,
+        "word": "宋再临遗照公开",
+        "onboard_time": 1731473300,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111512,
+        "num": 194968,
+        "word": "花少 原始部落",
+        "onboard_time": 1731478342,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193987,
+        "num": 193987,
+        "word": "大爷悬崖放4箱水3元一瓶只收到2箱钱",
+        "onboard_time": 1731469278,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189683,
+        "num": 189683,
+        "word": "怀上九胞胎女子发声",
+        "onboard_time": 1731469401,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185055,
+        "num": 185055,
+        "word": "李子柒写小作文",
+        "onboard_time": 1731479120,
+        "rank": 32,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 52993,
+        "num": 180358,
+        "word": "Chovy疑似离队",
+        "onboard_time": 1731478278,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179803,
+        "num": 179803,
+        "word": "IU的奖杯被挂二手网站",
+        "onboard_time": 1731476240,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169053,
+        "num": 169053,
+        "word": "华农兄弟又拍竹鼠了",
+        "onboard_time": 1731473839,
+        "rank": 35,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 165833,
+        "num": 165833,
+        "word": "南部战区位黄岩岛领海领空战备警巡",
+        "onboard_time": 1731476660,
+        "rank": 36,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 165811,
+        "num": 165811,
+        "word": "被泼开水女童返校书包现恐吓信",
+        "onboard_time": 1731468859,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163201,
+        "num": 163201,
+        "word": "浙江籍女飞行员在珠海航展好火",
+        "onboard_time": 1731475459,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 146918,
+        "num": 157411,
+        "word": "花少6",
+        "onboard_time": 1731474621,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51351,
+        "num": 157184,
+        "word": "靳东于和伟这段对话看泪目了",
+        "onboard_time": 1731479058,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121546,
+        "num": 157108,
+        "word": "SBS阵容",
+        "onboard_time": 1731477920,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157074,
+        "num": 157074,
+        "word": "最高法回应3人强奸未成年被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153690,
+        "num": 153690,
+        "word": "十年前的李子柒",
+        "onboard_time": 1731477920,
+        "rank": 43,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 149831,
+        "num": 149831,
+        "word": "雷军真去拧螺丝了",
+        "onboard_time": 1731457881,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140636,
+        "num": 140636,
+        "word": "李子柒学漆艺时严重过敏",
+        "onboard_time": 1731464659,
+        "rank": 45,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 140043,
+        "num": 140043,
+        "word": "库里37分",
+        "onboard_time": 1731479000,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 134496,
+        "word": "医生给失眠女友注射麻醉药致其死亡",
+        "onboard_time": 1731454278,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132065,
+        "num": 132065,
+        "word": "李子柒曾对作品不满意边哭边做",
+        "onboard_time": 1731479058,
+        "rank": 48,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 129512,
+        "num": 129512,
+        "word": "男子疑被当成猎物遭枪击身亡",
+        "onboard_time": 1731471859,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#续写亚太奇迹#"
+    }
+  }
+}
