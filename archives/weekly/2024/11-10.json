@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731454555927,
+  "endTime": 1731462099038,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -105,6 +105,14 @@
       "onboard_time": 1731413784,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2334856,
+      "num": 319075,
+      "word": "罗志祥 不要像我一样犯错",
+      "onboard_time": 1731460041,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2317085,
@@ -371,8 +379,16 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1396946,
+      "num": 1396946,
+      "word": "雷军真去拧螺丝了",
+      "onboard_time": 1731457881,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1391757,
-      "num": 255146,
+      "num": 309494,
       "word": "与介绍对象发生关系5月后男子因强奸罪获刑",
       "onboard_time": 1731427341,
       "rank": 11,
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 811463,
+      "num": 811463,
+      "word": "李子柒停更期间拜访了许多非遗传人",
+      "onboard_time": 1731452655,
+      "rank": 11,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 808865,
       "num": 808865,
       "word": "理发师晓华说30元的价格不低",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1731225259,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 755297,
+      "num": 318421,
+      "word": "杨颖空降超话发文想念大家",
+      "onboard_time": 1731458240,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 752214,
@@ -1155,14 +1187,6 @@
       "category": "社会新闻,作品衍生"
     },
     {
-      "raw_hot": 703656,
-      "num": 186245,
-      "word": "李子柒停更期间拜访了许多非遗传人",
-      "onboard_time": 1731452655,
-      "rank": 11,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 700649,
       "num": 700649,
       "word": "珠海航展一只蝴蝶落在海军小姐姐腰间",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1731309319,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678719,
+      "num": 678719,
+      "word": "永夜星河 老婆真牛",
+      "onboard_time": 1731459021,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 677016,
@@ -1507,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574471,
+      "num": 264533,
+      "word": "特朗普公布美新任国防部长人选",
+      "onboard_time": 1731459680,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 573898,
       "num": 573898,
       "word": "学校称体罚男孩老师系合同工",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1731197776,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498025,
+      "num": 304000,
+      "word": "mlxg砸键盘受伤",
+      "onboard_time": 1731460340,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 495889,
@@ -2147,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428754,
+      "num": 428754,
+      "word": "微念称与李子柒的案件已完全和解",
+      "onboard_time": 1731454398,
+      "rank": 40,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 427688,
       "num": 427688,
       "word": "假期逢周三不调休",
@@ -2201,6 +2257,14 @@
       "onboard_time": 1731391580,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407849,
+      "num": 262515,
+      "word": "医生给失眠女友注射麻醉药致其死亡",
+      "onboard_time": 1731454278,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407145,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1731220461,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 389041,
+      "num": 261218,
+      "word": "指甲尽量要剪成方形",
+      "onboard_time": 1731453797,
+      "rank": 23,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 388328,
@@ -2747,12 +2819,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 328601,
+      "num": 328601,
+      "word": "丁禹兮真的去蹦极了",
+      "onboard_time": 1731455899,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
       "onboard_time": 1731253819,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327006,
+      "num": 298730,
+      "word": "女子闯红灯被撞反问交警车主无责吗",
+      "onboard_time": 1731424762,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326967,
@@ -2971,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294128,
+      "num": 258799,
+      "word": "高梓淇回应网友喊话上再见爱人",
+      "onboard_time": 1731459921,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293188,
       "num": 293188,
       "word": "仅3厘米大的核舟窗户居然能开关",
@@ -3073,6 +3169,14 @@
       "onboard_time": 1731405443,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 283166,
+      "num": 283166,
+      "word": "柳拂衣 毛蛋",
+      "onboard_time": 1731458721,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 282674,
@@ -3435,6 +3539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 254368,
+      "num": 254368,
+      "word": "李子柒 白月光",
+      "onboard_time": 1731459142,
+      "rank": 30,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 254312,
       "num": 404682,
       "word": "张艺谋说对电影解说短视频很无语",
@@ -3601,6 +3713,14 @@
       "onboard_time": 1731403104,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 241516,
+      "num": 257826,
+      "word": "除夕放假能更好保障团圆过年",
+      "onboard_time": 1731458301,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241023,
@@ -3891,14 +4011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223359,
-      "num": 185135,
-      "word": "女子闯红灯被撞反问交警车主无责吗",
-      "onboard_time": 1731424762,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223301,
       "num": 219568,
       "word": "丁禹兮摸自己摸到害羞",
@@ -4059,6 +4171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214251,
+      "num": 214251,
+      "word": "特斯拉10万员工薪酬数据曝光",
+      "onboard_time": 1731461420,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 213893,
       "num": 166285,
       "word": "商场内带狗吓到小孩父亲抢狗怒摔",
@@ -4217,6 +4337,14 @@
       "onboard_time": 1731407003,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208575,
+      "num": 208575,
+      "word": "被全世界都禁养的猫咪",
+      "onboard_time": 1731454217,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 208262,
@@ -4651,6 +4779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194365,
+      "num": 264706,
+      "word": "快给肖战递反派角色的本子",
+      "onboard_time": 1731460940,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194197,
       "num": 186320,
       "word": "仙逆王林化神新皮肤上线",
@@ -4681,6 +4817,14 @@
       "onboard_time": 1731289278,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193559,
+      "num": 193559,
+      "word": "Keria评论Meiko芮尔",
+      "onboard_time": 1731458661,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 193554,
@@ -4915,6 +5059,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 185955,
+      "num": 319752,
+      "word": "00后上班4个月学生就拿了月考第一",
+      "onboard_time": 1731461000,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185944,
       "num": 185944,
       "word": "刘宇宁说自己没有舒适圈",
@@ -5081,6 +5233,14 @@
       "onboard_time": 1731251600,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181077,
+      "num": 255761,
+      "word": "永夜星河微博开分9.3",
+      "onboard_time": 1731460761,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181073,
@@ -5667,14 +5827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165657,
-      "num": 140899,
-      "word": "指甲尽量要剪成方形",
-      "onboard_time": 1731453797,
-      "rank": 23,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 165360,
       "num": 428393,
       "word": "KSG拿到败决赛点",
@@ -5779,14 +5931,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 162427,
-      "num": 113345,
-      "word": "医生给失眠女友注射麻醉药致其死亡",
-      "onboard_time": 1731454278,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162379,
       "num": 162379,
       "word": "KPL",
@@ -5852,7 +5996,7 @@
     },
     {
       "raw_hot": 161427,
-      "num": 150530,
+      "num": 254956,
       "word": "再见爱人 镜头隐喻",
       "onboard_time": 1731427280,
       "rank": 34,
@@ -6163,6 +6307,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 153793,
+      "num": 153793,
+      "word": "成都花12亿建对外交流中心被通报",
+      "onboard_time": 1731460701,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153605,
       "num": 153605,
       "word": "十个勤天演唱会官宣",
@@ -6417,6 +6569,14 @@
       "onboard_time": 1731412466,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147826,
+      "num": 147826,
+      "word": "克莱重返勇士主场",
+      "onboard_time": 1731461179,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 147793,
@@ -6763,6 +6923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137930,
+      "num": 137930,
+      "word": "李子柒 微念",
+      "onboard_time": 1731459323,
+      "rank": 43,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 137902,
       "num": 137902,
       "word": "日产净利润暴跌94%",
@@ -6899,6 +7067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133039,
+      "num": 133039,
+      "word": "韩网爆料GEN和Chovy谈崩",
+      "onboard_time": 1731456621,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132969,
       "num": 132969,
       "word": "田嘉瑞演技",
@@ -6953,6 +7129,14 @@
       "onboard_time": 1731406223,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130519,
+      "num": 130519,
+      "word": "一个不想飞了一个不愿意游了",
+      "onboard_time": 1731453856,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 130448,
@@ -7307,14 +7491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120051,
-      "num": 113267,
-      "word": "被全世界都禁养的猫咪",
-      "onboard_time": 1731454217,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119945,
       "num": 119945,
       "word": "秦彻 大小姐的秘密情人",
@@ -7411,12 +7587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117338,
+      "num": 117338,
+      "word": "孙颖莎10800积分保持断层第一",
+      "onboard_time": 1731461481,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116792,
       "num": 116792,
       "word": "好团圆",
       "onboard_time": 1731233118,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116627,
+      "num": 116627,
+      "word": "2025假期最长请3休12",
+      "onboard_time": 1731454757,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116583,
@@ -7609,6 +7801,14 @@
       "onboard_time": 1731399259,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108041,
+      "num": 108041,
+      "word": "再见爱人能不能按这个演",
+      "onboard_time": 1731454939,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107917,
@@ -7995,14 +8195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 94228,
-      "num": 94228,
-      "word": "一个不想飞了一个不愿意游了",
-      "onboard_time": 1731453856,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94023,
       "num": 94023,
       "word": "小巷人家大舅哥成冤种steve",
@@ -8353,14 +8545,6 @@
       "onboard_time": 1731306438,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74277,
-      "num": 74277,
-      "word": "微念称与李子柒的案件已完全和解",
-      "onboard_time": 1731454398,
-      "rank": 40,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 73807,
@@ -8833,6 +9017,14 @@
       "onboard_time": 1731400098,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 58159,
+      "num": 146708,
+      "word": "听泉赏龙泉也太开门了",
+      "onboard_time": 1731462018,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 57573,
@@ -9449,6 +9641,14 @@
       "onboard_time": 1731395238,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 38955,
+      "num": 740345,
+      "word": "七张图带你了解秘鲁",
+      "onboard_time": 1731414744,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38812,
@@ -10161,14 +10361,6 @@
       "onboard_time": 1731391640,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23803,
-      "num": 453871,
-      "word": "七张图带你了解秘鲁",
-      "onboard_time": 1731414744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23737,
