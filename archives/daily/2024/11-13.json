@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731507662749,
+  "endTime": 1731508809225,
   "band_list": [
     {
       "raw_hot": 6897511,
@@ -283,6 +283,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 874589,
+      "num": 420466,
+      "word": "晋江男孩",
+      "onboard_time": 1731505342,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 871409,
       "num": 628653,
       "word": "丁禹兮反击祝绪丹",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769695,
+      "num": 1123151,
+      "word": "刘宇宁称接受所有批评",
+      "onboard_time": 1731504200,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 764933,
       "num": 457104,
       "word": "赵露思听劝",
@@ -379,22 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 725400,
-      "num": 420466,
-      "word": "晋江男孩",
-      "onboard_time": 1731505342,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 716702,
-      "num": 716702,
-      "word": "刘宇宁称接受所有批评",
-      "onboard_time": 1731504200,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 705375,
       "num": 615781,
       "word": "金鸡奖开幕式",
@@ -433,6 +433,14 @@
       "onboard_time": 1731473300,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650623,
+      "num": 650623,
+      "word": "滞留太空女宇航员首次回应变锥子脸",
+      "onboard_time": 1731495919,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 649354,
@@ -483,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 616550,
-      "num": 616550,
-      "word": "滞留太空女宇航员首次回应变锥子脸",
-      "onboard_time": 1731495919,
-      "rank": 36,
-      "category": "海外新闻"
+      "raw_hot": 617182,
+      "num": 347565,
+      "word": "全红婵也在看刘宇宁直播",
+      "onboard_time": 1731504859,
+      "rank": 41,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 606381,
@@ -795,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347565,
-      "num": 347565,
-      "word": "全红婵也在看刘宇宁直播",
-      "onboard_time": 1731504859,
-      "rank": 41,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 341414,
       "num": 341414,
       "word": "丁禹兮每个动作都精心设计",
@@ -955,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294545,
+      "num": 450100,
+      "word": "土耳其已正式断绝与以色列的关系",
+      "onboard_time": 1731506662,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 294128,
       "num": 283184,
       "word": "高梓淇回应网友喊话上再见爱人",
@@ -976,6 +984,14 @@
       "word": "永夜星河微博开分9.3",
       "onboard_time": 1731460761,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286548,
+      "num": 286548,
+      "word": "林家 庄家",
+      "onboard_time": 1731505880,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1099,14 +1115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245541,
-      "num": 239460,
-      "word": "林家 庄家",
-      "onboard_time": 1731505880,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 241610,
       "num": 232199,
       "word": "丁禹兮在板子下面脸都要笑烂了",
@@ -1179,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233379,
+      "num": 233379,
+      "word": "摄影师们挤满珠海航展",
+      "onboard_time": 1731505342,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 231125,
       "num": 231125,
       "word": "哈尔滨冰糖葫芦男神拒加联系方式",
@@ -1211,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225071,
+      "num": 225071,
+      "word": "吴姗姗 白眼狼",
+      "onboard_time": 1731507681,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224307,
       "num": 224307,
       "word": "男子被误诊感染HPV10天花光积蓄",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1731491720,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222464,
+      "num": 222464,
+      "word": "李子柒的视频没有成瘾性",
+      "onboard_time": 1731502761,
+      "rank": 27,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 219043,
@@ -1449,14 +1481,6 @@
       "onboard_time": 1731403044,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195603,
-      "num": 195603,
-      "word": "摄影师们挤满珠海航展",
-      "onboard_time": 1731505342,
-      "rank": 32,
-      "category": "军事"
     },
     {
       "raw_hot": 195375,
@@ -1819,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162993,
+      "num": 344540,
+      "word": "让台湾同胞知道我们中国有多强",
+      "onboard_time": 1731507320,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 161708,
       "num": 161708,
       "word": "两个上海人就应该生出我这个",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1731462498,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154396,
-      "num": 154396,
-      "word": "让台湾同胞知道我们中国有多强",
-      "onboard_time": 1731507320,
-      "rank": 37,
-      "category": "军事"
     },
     {
       "raw_hot": 154201,
@@ -2027,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144801,
+      "num": 459615,
+      "word": "李子柒最喜欢的一个镜头",
+      "onboard_time": 1731507020,
+      "rank": 8,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 143801,
       "num": 414419,
       "word": "歼35A装备国产发动机",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1731464719,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "五月天上海演唱会",
+      "onboard_time": 1731508701,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 140043,
@@ -2219,14 +2259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127705,
-      "num": 450100,
-      "word": "土耳其已正式断绝与以色列的关系",
-      "onboard_time": 1731506662,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127146,
       "num": 357161,
       "word": "央视起底网络主播带货套路",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1731496340,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122497,
+      "num": 122497,
+      "word": "歼35A首秀表演瞬间加力出现马赫环",
+      "onboard_time": 1731508521,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 121546,
@@ -2531,6 +2571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88296,
+      "num": 258569,
+      "word": "王楚然蹲下与小朋友合照",
+      "onboard_time": 1731507681,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86926,
+      "num": 399744,
+      "word": "60个离婚律师把麦琳当典型研讨",
+      "onboard_time": 1731506901,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86115,
       "num": 86115,
       "word": "李子柒大漆视频微博观看量破亿了",
@@ -2595,28 +2651,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 71766,
-      "num": 399744,
-      "word": "60个离婚律师把麦琳当典型研讨",
-      "onboard_time": 1731506901,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 71206,
       "num": 389005,
       "word": "夕阳红公寓爆雷始末",
       "onboard_time": 1731470840,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69786,
-      "num": 459615,
-      "word": "李子柒最喜欢的一个镜头",
-      "onboard_time": 1731507020,
-      "rank": 8,
-      "category": "网红,美食"
     },
     {
       "raw_hot": 69078,
@@ -2691,11 +2731,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64803,
+      "num": 349624,
+      "word": "李子柒回应未来商业化考虑",
+      "onboard_time": 1731507801,
+      "rank": 7,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 63875,
       "num": 263291,
       "word": "靳东于和伟这段对话看泪目了",
       "onboard_time": 1731479058,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62651,
+      "num": 213066,
+      "word": "好团圆收官",
+      "onboard_time": 1731507801,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -3131,20 +3187,20 @@
       "category": "网红,美食"
     },
     {
+      "raw_hot": 34660,
+      "num": 727062,
+      "word": "一篇文章了解秘鲁",
+      "onboard_time": 1731504981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34165,
       "num": 284057,
       "word": "袁咏仪为儿子庆18岁生日",
       "onboard_time": 1731475878,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33905,
-      "num": 727062,
-      "word": "一篇文章了解秘鲁",
-      "onboard_time": 1731504981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32574,
