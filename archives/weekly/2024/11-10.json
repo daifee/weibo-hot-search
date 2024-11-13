@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731516231921,
+  "endTime": 1731518391258,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -764,7 +764,7 @@
     },
     {
       "raw_hot": 1087559,
-      "num": 421039,
+      "num": 473779,
       "word": "通知公布半小时已有人下单去广州",
       "onboard_time": 1731511400,
       "rank": 32,
@@ -6251,6 +6251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188981,
+      "num": 134869,
+      "word": "官方通报网民吃牛肉面发现疑似动物头",
+      "onboard_time": 1731514278,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188821,
       "num": 188821,
       "word": "全红婵喊话樊振东快请吃叉烧肉",
@@ -6609,6 +6617,14 @@
       "onboard_time": 1731359351,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179701,
+      "num": 179701,
+      "word": "范丞丞回应金鸡奖提名",
+      "onboard_time": 1731514459,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 178645,
@@ -8787,14 +8803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134869,
-      "num": 134869,
-      "word": "官方通报网民吃牛肉面发现疑似动物头",
-      "onboard_time": 1731514278,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134771,
       "num": 134771,
       "word": "成毅王劲松对手戏",
@@ -8832,14 +8840,6 @@
       "word": "李雪健惠英红点亮金鸡",
       "onboard_time": 1731503119,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 133685,
-      "num": 133685,
-      "word": "范丞丞回应金鸡奖提名",
-      "onboard_time": 1731514459,
-      "rank": 25,
       "category": "电影"
     },
     {
@@ -9955,6 +9955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103577,
+      "num": 86449,
+      "word": "校园招聘严禁限定985和211高校",
+      "onboard_time": 1731516797,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103207,
       "num": 312765,
       "word": "KSG败决先下一城",
@@ -10547,6 +10555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79786,
+      "num": 65270,
+      "word": "她为什么会突然喜欢你 求教程",
+      "onboard_time": 1731514997,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79659,
       "num": 79659,
       "word": "鹿晗西安",
@@ -10584,6 +10600,14 @@
       "word": "战机呼啸是对祖国的深情告白",
       "onboard_time": 1731169038,
       "rank": 18,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 76613,
+      "num": 60784,
+      "word": "中国军机的命名终于搞懂了",
+      "onboard_time": 1731516435,
+      "rank": 31,
       "category": "军事"
     },
     {
@@ -11001,14 +11025,6 @@
       "onboard_time": 1731256517,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65270,
-      "num": 65270,
-      "word": "她为什么会突然喜欢你 求教程",
-      "onboard_time": 1731514997,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 65096,
@@ -11731,12 +11747,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47768,
+      "num": 119034,
+      "word": "这架无人机可以绕台湾6圈",
+      "onboard_time": 1731516138,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 47561,
       "num": 421877,
       "word": "4个直播间买11块和田玉7件是假货",
       "onboard_time": 1731384561,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47389,
+      "num": 60777,
+      "word": "光遇",
+      "onboard_time": 1731517214,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 46939,
@@ -11881,6 +11913,14 @@
       "onboard_time": 1731243619,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44294,
+      "num": 60776,
+      "word": "鸡柳哥拒绝鸡柳代言",
+      "onboard_time": 1731517576,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 44078,
@@ -12145,6 +12185,14 @@
       "onboard_time": 1731194833,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38508,
+      "num": 60773,
+      "word": "胜券在握首映礼",
+      "onboard_time": 1731518114,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 38355,
@@ -13067,6 +13115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23729,
+      "num": 71627,
+      "word": "376斤大铜牛历经千年仍闪闪发光",
+      "onboard_time": 1731516797,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23663,
       "num": 32343,
       "word": "曼联3比0莱斯特城",
@@ -13193,14 +13249,6 @@
       "onboard_time": 1731281175,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 21710,
-      "num": 119034,
-      "word": "这架无人机可以绕台湾6圈",
-      "onboard_time": 1731516138,
-      "rank": 24,
-      "category": "军事"
     },
     {
       "raw_hot": 21688,
@@ -13921,6 +13969,14 @@
       "onboard_time": 1731335240,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9699,
+      "num": 77646,
+      "word": "严格落实校园招聘三严禁",
+      "onboard_time": 1731518234,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9139,

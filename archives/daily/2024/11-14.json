@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731516231921,
+  "endTime": 1731518391258,
   "band_list": [
     {
       "raw_hot": 1096228,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1087559,
-      "num": 164362,
+      "num": 473779,
       "word": "通知公布半小时已有人下单去广州",
       "onboard_time": 1731511400,
       "rank": 10,
@@ -131,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188981,
+      "num": 134869,
+      "word": "官方通报网民吃牛肉面发现疑似动物头",
+      "onboard_time": 1731514278,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185938,
       "num": 158963,
       "word": "晋江男孩",
       "onboard_time": 1731505342,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179701,
+      "num": 179701,
+      "word": "范丞丞回应金鸡奖提名",
+      "onboard_time": 1731514459,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 164567,
@@ -179,22 +195,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 134869,
-      "num": 134869,
-      "word": "官方通报网民吃牛肉面发现疑似动物头",
-      "onboard_time": 1731514278,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133685,
-      "num": 133685,
-      "word": "范丞丞回应金鸡奖提名",
-      "onboard_time": 1731514459,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133189,
       "num": 133189,
       "word": "王鹤棣刘耀文LV珠宝大片",
@@ -233,6 +233,14 @@
       "onboard_time": 1731491780,
       "rank": 28,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 103577,
+      "num": 86449,
+      "word": "校园招聘严禁限定985和211高校",
+      "onboard_time": 1731516797,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102613,
@@ -307,12 +315,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79786,
+      "num": 65270,
+      "word": "她为什么会突然喜欢你 求教程",
+      "onboard_time": 1731514997,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77341,
+      "num": 77341,
+      "word": "摄影师们挤满珠海航展",
+      "onboard_time": 1731505342,
+      "rank": 21,
+      "category": "军事"
+    },
+    {
       "raw_hot": 77322,
       "num": 77322,
       "word": "DNA音乐节 蒲熠星",
       "onboard_time": 1731493940,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76613,
+      "num": 60784,
+      "word": "中国军机的命名终于搞懂了",
+      "onboard_time": 1731516435,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 72414,
@@ -363,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65270,
-      "num": 65270,
-      "word": "她为什么会突然喜欢你 求教程",
-      "onboard_time": 1731514997,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62523,
       "num": 62523,
       "word": "冰西辰家族",
@@ -387,12 +411,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47768,
+      "num": 119034,
+      "word": "这架无人机可以绕台湾6圈",
+      "onboard_time": 1731516138,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 47389,
+      "num": 60777,
+      "word": "光遇",
+      "onboard_time": 1731517214,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46694,
       "num": 163862,
       "word": "医生跪地按压3分钟救回晕厥女孩",
       "onboard_time": 1731515057,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 44294,
+      "num": 60776,
+      "word": "鸡柳哥拒绝鸡柳代言",
+      "onboard_time": 1731517576,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 39108,
@@ -403,12 +451,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21710,
-      "num": 119034,
-      "word": "这架无人机可以绕台湾6圈",
-      "onboard_time": 1731516138,
-      "rank": 24,
-      "category": "军事"
+      "raw_hot": 38780,
+      "num": 60774,
+      "word": "李玟姐姐回应李玟墓地杂草丛生",
+      "onboard_time": 1731489414,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38508,
+      "num": 60773,
+      "word": "胜券在握首映礼",
+      "onboard_time": 1731518114,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 23729,
+      "num": 71627,
+      "word": "376斤大铜牛历经千年仍闪闪发光",
+      "onboard_time": 1731516797,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21708,
@@ -417,11 +481,22 @@
       "onboard_time": 1731504981,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9699,
+      "num": 77646,
+      "word": "严格落实校园招聘三严禁",
+      "onboard_time": 1731518234,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平主席与亚太大家庭#"
+    },
+    {
+      "word": "#习主席秘鲁巴西之行#"
     }
   ]
 }
