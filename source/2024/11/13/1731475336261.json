@@ -1,0 +1,410 @@
+{
+  "runTime": 1731475336261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1530418,
+        "num": 1530418,
+        "word": "李子柒给手工厂提建议从滞销变脱销",
+        "onboard_time": 1731463639,
+        "rank": 0,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 1198828,
+        "num": 1198828,
+        "word": "李子柒三更",
+        "onboard_time": 1731474080,
+        "rank": 1,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 30240,
+        "num": 737329,
+        "word": "秘鲁Chifa里藏着中国味儿",
+        "onboard_time": 1731470479,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711341,
+        "num": 711341,
+        "word": "国台办回应刘德华台北演唱中国人",
+        "onboard_time": 1731467420,
+        "rank": 3,
+        "category": "国内时政,作品衍生"
+      },
+      {
+        "raw_hot": 543096,
+        "num": 543096,
+        "word": "珠海航展沙特的展馆是空的",
+        "onboard_time": 1731470779,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 522020,
+        "num": 522020,
+        "word": "赵露思 这是腮红",
+        "onboard_time": 1731472940,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508318,
+        "num": 508318,
+        "word": "榜一大哥沙特来了",
+        "onboard_time": 1731473601,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 442900,
+        "num": 442900,
+        "word": "虞书欣气血好足",
+        "onboard_time": 1731462140,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357574,
+        "num": 357574,
+        "word": "李子柒学漆艺时严重过敏",
+        "onboard_time": 1731464659,
+        "rank": 8,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 53609,
+        "num": 356891,
+        "word": "律师称李子柒已能自己运营其IP",
+        "onboard_time": 1731474380,
+        "rank": 9,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 1952044,
+        "num": 356508,
+        "word": "男子撞人由离婚财产分割不满引发",
+        "onboard_time": 1731472881,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182967,
+        "num": 355983,
+        "word": "李子柒身份证改名",
+        "onboard_time": 1731474380,
+        "rank": 11,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 949264,
+        "num": 354780,
+        "word": "罗志祥 不要像我一样犯错",
+        "onboard_time": 1731460041,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37732,
+        "num": 354033,
+        "word": "肺真的会被气炸吗",
+        "onboard_time": 1731474141,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36456,
+        "num": 353401,
+        "word": "为什么糖友需警惕带状疱疹",
+        "onboard_time": 1731474021,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 772234,
+        "num": 353148,
+        "word": "张檬怀孕17周98斤",
+        "onboard_time": 1731474860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58531,
+        "num": 351701,
+        "word": "小米SU7破新车企10万台下线纪录",
+        "onboard_time": 1731471859,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83405,
+        "num": 350977,
+        "word": "肖战新歌翻唱",
+        "onboard_time": 1731469039,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62101,
+        "num": 350716,
+        "word": "白帝战机正逐步从科幻照进现实",
+        "onboard_time": 1731474440,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52873,
+        "num": 349930,
+        "word": "价值20亿的180套别墅打七折拍卖",
+        "onboard_time": 1731475041,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673180,
+        "num": 349049,
+        "word": "宋慧乔金高银Jennie出席婚礼",
+        "onboard_time": 1731474080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655021,
+        "num": 348067,
+        "word": "宋再临遗照公开",
+        "onboard_time": 1731473300,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613095,
+        "num": 347967,
+        "word": "马斯克将领导美国政府效率部",
+        "onboard_time": 1731463400,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 547106,
+        "num": 346654,
+        "word": "被泼开水女童返校书包现恐吓信",
+        "onboard_time": 1731468859,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539588,
+        "num": 345969,
+        "word": "张婉婷 李行亮对老婆发自内心好一点吧",
+        "onboard_time": 1731472221,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389287,
+        "num": 345450,
+        "word": "怀上九胞胎女子发声",
+        "onboard_time": 1731469401,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205585,
+        "num": 344888,
+        "word": "大梦归离片尾不跳舞改合影了",
+        "onboard_time": 1731474621,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202196,
+        "num": 344041,
+        "word": "黄圣依的清醒仅对别人可见",
+        "onboard_time": 1731466398,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194762,
+        "num": 343175,
+        "word": "花少6",
+        "onboard_time": 1731474621,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188625,
+        "num": 342605,
+        "word": "肖战我们没那么难懂",
+        "onboard_time": 1731469339,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367304,
+        "num": 341817,
+        "word": "雷军真去拧螺丝了",
+        "onboard_time": 1731457881,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341414,
+        "num": 341414,
+        "word": "丁禹兮每个动作都精心设计",
+        "onboard_time": 1731471859,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326806,
+        "num": 326806,
+        "word": "勇士 地图",
+        "onboard_time": 1731469761,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311415,
+        "num": 311415,
+        "word": "车主去世汽车停窗边3年没人挪",
+        "onboard_time": 1731467478,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304280,
+        "num": 304280,
+        "word": "华农兄弟又拍竹鼠了",
+        "onboard_time": 1731473839,
+        "rank": 34,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 300060,
+        "num": 300060,
+        "word": "烈士家属祭奠遭拒打洞进小学上坟",
+        "onboard_time": 1731463877,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277104,
+        "num": 277104,
+        "word": "大爷悬崖放4箱水3元一瓶只收到2箱钱",
+        "onboard_time": 1731469278,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90023,
+        "num": 266972,
+        "word": "考研生和保研生谁更吃香",
+        "onboard_time": 1731474080,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261891,
+        "num": 261891,
+        "word": "多地官宣出生人口反弹",
+        "onboard_time": 1731464419,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236366,
+        "num": 236366,
+        "word": "医生给失眠女友注射麻醉药致其死亡",
+        "onboard_time": 1731454278,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226476,
+        "num": 226476,
+        "word": "丁禹兮 我说今天怎么有点锁喉",
+        "onboard_time": 1731466340,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196732,
+        "num": 196732,
+        "word": "林大厨爆改慕子期",
+        "onboard_time": 1731475161,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190581,
+        "num": 190581,
+        "word": "男子疑被当成猎物遭枪击身亡",
+        "onboard_time": 1731471859,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183631,
+        "num": 183631,
+        "word": "广州人被短袖硬控了8个月",
+        "onboard_time": 1731472101,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182049,
+        "num": 182049,
+        "word": "女子促排备孕怀上9胞胎",
+        "onboard_time": 1731422964,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178465,
+        "num": 178465,
+        "word": "赵露思工作室回应粉丝诉求",
+        "onboard_time": 1731475101,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169997,
+        "num": 169997,
+        "word": "张婉莹报警后续",
+        "onboard_time": 1731469519,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157777,
+        "num": 157777,
+        "word": "98万部手机被控制每月偷偷扣钱",
+        "onboard_time": 1731475280,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153366,
+        "num": 153366,
+        "word": "永夜星河 老婆真牛",
+        "onboard_time": 1731459021,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152873,
+        "num": 152873,
+        "word": "aespa四周年内地封面照",
+        "onboard_time": 1731473659,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席与秘鲁的情谊#"
+    }
+  }
+}
