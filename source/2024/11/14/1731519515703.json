@@ -1,0 +1,410 @@
+{
+  "runTime": 1731519515703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408320,
+        "num": 415400,
+        "word": "浪胃仙IP创始人获刑8年",
+        "onboard_time": 1731511881,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 365460,
+        "num": 365460,
+        "word": "通知公布半小时已有人下单去广州",
+        "onboard_time": 1731511400,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17482,
+        "num": 176297,
+        "word": "中国连续10年是秘鲁最大出口市场",
+        "onboard_time": 1731503660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130567,
+        "num": 130567,
+        "word": "范丞丞回应金鸡奖提名",
+        "onboard_time": 1731514459,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112792,
+        "num": 112792,
+        "word": "滞留太空女宇航员首次回应变锥子脸",
+        "onboard_time": 1731495919,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152644,
+        "num": 98848,
+        "word": "成都漆器证实李子柒全程自己做",
+        "onboard_time": 1731510320,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 115161,
+        "num": 93982,
+        "word": "60个离婚律师把麦琳当典型研讨",
+        "onboard_time": 1731506901,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268507,
+        "num": 86129,
+        "word": "越南模仿李子柒的博主也停更三年",
+        "onboard_time": 1731499222,
+        "rank": 7,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 77043,
+        "num": 77043,
+        "word": "姆巴佩被曝存在精神问题",
+        "onboard_time": 1731498142,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11851,
+        "num": 76715,
+        "word": "严格落实校园招聘三严禁",
+        "onboard_time": 1731518234,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262740,
+        "num": 76479,
+        "word": "小伙吃出疑似预制蛋商家称火候大",
+        "onboard_time": 1731513080,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197693,
+        "num": 75394,
+        "word": "校园招聘严禁限定985和211高校",
+        "onboard_time": 1731516797,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157766,
+        "num": 75139,
+        "word": "官方通报网民吃牛肉面发现疑似动物头",
+        "onboard_time": 1731514278,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138586,
+        "num": 74653,
+        "word": "丁禹兮发了妙妙拍的自己",
+        "onboard_time": 1731512119,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100071,
+        "num": 73922,
+        "word": "00后代孕流产女孩发声",
+        "onboard_time": 1731499642,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81232,
+        "num": 73409,
+        "word": "中国军机的命名终于搞懂了",
+        "onboard_time": 1731516435,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 73176,
+        "num": 73176,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66350,
+        "num": 66350,
+        "word": "鸡柳哥拒绝鸡柳代言",
+        "onboard_time": 1731517576,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66105,
+        "num": 66105,
+        "word": "丁禹兮反击祝绪丹",
+        "onboard_time": 1731503961,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62206,
+        "num": 62206,
+        "word": "吴姗姗 白眼狼",
+        "onboard_time": 1731507681,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319394,
+        "num": 61368,
+        "word": "杨紫方已完成取证",
+        "onboard_time": 1731497240,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110584,
+        "num": 60501,
+        "word": "刘宇宁称接受所有批评",
+        "onboard_time": 1731504200,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71427,
+        "num": 60399,
+        "word": "原来怀孕时脏器会被挤变形",
+        "onboard_time": 1731510320,
+        "rank": 22,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 65811,
+        "num": 59214,
+        "word": "摄影师们挤满珠海航展",
+        "onboard_time": 1731505342,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 58718,
+        "num": 58718,
+        "word": "指甲有棱线可能是肝郁了",
+        "onboard_time": 1731513559,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51133,
+        "num": 51133,
+        "word": "永夜星河",
+        "onboard_time": 1731491720,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50730,
+        "num": 50730,
+        "word": "律师说杨紫还可通过刑事手段维权",
+        "onboard_time": 1731509002,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48487,
+        "num": 48487,
+        "word": "契税",
+        "onboard_time": 1731492198,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 47888,
+        "num": 47888,
+        "word": "让台湾同胞知道我们中国有多强",
+        "onboard_time": 1731507320,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 47387,
+        "num": 47387,
+        "word": "慕青时终于来了",
+        "onboard_time": 1731502700,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65728,
+        "num": 47121,
+        "word": "她为什么会突然喜欢你 求教程",
+        "onboard_time": 1731514997,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45495,
+        "num": 45495,
+        "word": "DNA音乐节 蒲熠星",
+        "onboard_time": 1731493940,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44063,
+        "num": 44063,
+        "word": "比特币",
+        "onboard_time": 1731510621,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43789,
+        "num": 43789,
+        "word": "晋江男孩",
+        "onboard_time": 1731505342,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40887,
+        "num": 43784,
+        "word": "土耳其已正式断绝与以色列的关系",
+        "onboard_time": 1731506662,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39411,
+        "num": 43779,
+        "word": "胖东来珠宝员工年薪从未低于20万",
+        "onboard_time": 1731501261,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37470,
+        "num": 43776,
+        "word": "光遇",
+        "onboard_time": 1731517214,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37059,
+        "num": 43769,
+        "word": "张艺兴工作室长文信息量",
+        "onboard_time": 1731515298,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35781,
+        "num": 43764,
+        "word": "这架无人机可以绕台湾6圈",
+        "onboard_time": 1731516138,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 34701,
+        "num": 43754,
+        "word": "王鹤棣刘耀文LV珠宝大片",
+        "onboard_time": 1731510080,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33878,
+        "num": 43751,
+        "word": "李玟姐姐回应李玟墓地杂草丛生",
+        "onboard_time": 1731489414,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33831,
+        "num": 43739,
+        "word": "鹿晗丁程鑫贺峻霖首映礼同框",
+        "onboard_time": 1731503541,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33160,
+        "num": 43736,
+        "word": "个人购房不超140平契税降至1%",
+        "onboard_time": 1731491780,
+        "rank": 42,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 32902,
+        "num": 43730,
+        "word": "小巷人家",
+        "onboard_time": 1731501619,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29689,
+        "num": 43725,
+        "word": "专家称9胞胎产妇或面临大月份流产",
+        "onboard_time": 1731489559,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29159,
+        "num": 43713,
+        "word": "医生跪地按压3分钟救回晕厥女孩",
+        "onboard_time": 1731515057,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 28137,
+        "num": 43712,
+        "word": "林家 庄家",
+        "onboard_time": 1731505880,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26996,
+        "num": 43706,
+        "word": "五月天上海演唱会",
+        "onboard_time": 1731508701,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26032,
+        "num": 43696,
+        "word": "WTT美国大满贯宣传片",
+        "onboard_time": 1731512600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25826,
+        "num": 43688,
+        "word": "376斤大铜牛历经千年仍闪闪发光",
+        "onboard_time": 1731516797,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
