@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731515252117,
+  "endTime": 1731516231921,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5449,6 +5449,14 @@
       "onboard_time": 1730462359,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688054,
+      "num": 164147,
+      "word": "小伙吃出疑似预制蛋商家称火候大",
+      "onboard_time": 1731513080,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 687651,
@@ -11321,14 +11329,6 @@
       "onboard_time": 1730731642,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 347857,
-      "num": 164147,
-      "word": "小伙吃出疑似预制蛋商家称火候大",
-      "onboard_time": 1731513080,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 347004,
@@ -27531,6 +27531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134869,
+      "num": 134869,
+      "word": "官方通报网民吃牛肉面发现疑似动物头",
+      "onboard_time": 1731514278,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134819,
       "num": 134819,
       "word": "歼35A轰鸣声太震撼",
@@ -27688,6 +27696,14 @@
       "word": "李雪健惠英红点亮金鸡",
       "onboard_time": 1731503119,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 133685,
+      "num": 133685,
+      "word": "范丞丞回应金鸡奖提名",
+      "onboard_time": 1731514459,
+      "rank": 25,
       "category": "电影"
     },
     {
@@ -27921,14 +27937,6 @@
       "onboard_time": 1731495440,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131988,
-      "num": 131988,
-      "word": "范丞丞回应金鸡奖提名",
-      "onboard_time": 1731514459,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 131961,
@@ -31859,14 +31867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98471,
-      "num": 98471,
-      "word": "官方通报网民吃牛肉面发现疑似动物头",
-      "onboard_time": 1731514278,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98445,
       "num": 112505,
       "word": "郑钦文总决赛出线形势分析",
@@ -34033,6 +34033,14 @@
       "onboard_time": 1730710999,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67835,
+      "num": 67835,
+      "word": "张艺兴工作室长文信息量",
+      "onboard_time": 1731515298,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 67782,
@@ -40369,6 +40377,14 @@
       "onboard_time": 1731281175,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21710,
+      "num": 119034,
+      "word": "这架无人机可以绕台湾6圈",
+      "onboard_time": 1731516138,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 21688,

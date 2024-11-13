@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/14 00:27:32
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/14 00:43:51
 </p>
 </blockquote>
 <p>
@@ -4101,6 +4101,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%90%83%E5%87%BA%E7%96%91%E4%BC%BC%E9%A2%84%E5%88%B6%E8%9B%8B%E5%95%86%E5%AE%B6%E7%A7%B0%E7%81%AB%E5%80%99%E5%A4%A7%23" target="weibo">
+小伙吃出疑似预制蛋商家称火候大（热度：688054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%82%E8%8A%99%E5%B0%BC%E6%88%90%E9%83%BD%E5%A4%AA%E5%8F%A4%E9%87%8C%E5%BA%97%E8%A2%AB%E7%A0%B8%23" target="weibo">
 蒂芙尼成都太古里店被砸（热度：687651）
 </a>
@@ -6005,12 +6011,6 @@ mbti又变了（热度：525600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%83%9C%E9%80%89%E6%BC%94%E8%AE%B2%23" target="weibo">
 特朗普胜选演讲（热度：511507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%A6%81%E6%88%90%E4%B8%BA%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
-孙颖莎要成为孙颖莎（热度：511347）
 </a>
 </li>
 
