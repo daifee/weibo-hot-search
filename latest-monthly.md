@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/13 18:41:39
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/13 19:19:13
 </p>
 </blockquote>
 <p>
@@ -1953,6 +1953,12 @@ papi酱 家都不回你在托举什么（热度：1257027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E8%B4%AD%E6%88%BF%E4%B8%8D%E8%B6%85140%E5%B9%B3%E5%A5%91%E7%A8%8E%E9%99%8D%E8%87%B31%25%23" target="weibo">
+个人购房不超140平契税降至1%（热度：1128964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E8%8E%89%E8%8E%8E%E8%AE%A9%E9%83%AD%E6%99%93%E4%B8%9C%E9%81%93%E6%AD%89%23" target="weibo">
 程莉莎让郭晓东道歉（热度：1125988）
 </a>
@@ -2459,6 +2465,12 @@ Elk神箭（热度：991451）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%99%92%E6%B3%B3%E7%85%A7%23" target="weibo">
 赵露思晒泳照（热度：986995）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%B4%E4%B8%8A%E4%BA%86%E4%B8%81%E7%A6%B9%E5%85%AE%E5%81%9A%E7%9A%84%E6%8B%BC%E8%B1%86%23" target="weibo">
+虞书欣戴上了丁禹兮做的拼豆（热度：985446）
 </a>
 </li>
 
@@ -3239,12 +3251,6 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%9C%A8%E8%B6%85%E5%B8%82%E6%91%94%E5%80%92%E5%90%8E%E6%98%8F%E8%BF%B7%E8%87%B3%E4%BB%8A%23" target="weibo">
 男孩在超市摔倒后昏迷至今（热度：832636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%B4%E4%B8%8A%E4%BA%86%E4%B8%81%E7%A6%B9%E5%85%AE%E5%81%9A%E7%9A%84%E6%8B%BC%E8%B1%86%23" target="weibo">
-虞书欣戴上了丁禹兮做的拼豆（热度：830872）
 </a>
 </li>
 
@@ -4169,6 +4175,12 @@ BLG赛后采访（热度：672798）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E6%AF%8D%E4%BA%B2%E8%AF%B4%E5%84%BF%E5%AD%90%E9%81%97%E7%85%A7%E8%A2%ABP%E5%BE%97%E4%B8%80%E5%A1%8C%E7%B3%8A%E6%B6%82%23" target="weibo">
 乔任梁母亲说儿子遗照被P得一塌糊涂（热度：667280）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%97%E8%88%AA%23" target="weibo">
+清华北航（热度：667155）
 </a>
 </li>
 
@@ -5781,12 +5793,6 @@ mbti又变了（热度：525600）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8C%97%E8%88%AA%23" target="weibo">
-清华北航（热度：517147）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%20%E6%9E%97%E4%BF%8A%E6%9D%B0%23" target="weibo">
 五月天 林俊杰（热度：516874）
 </a>
@@ -6005,12 +6011,6 @@ mbti又变了（热度：525600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%8B%8D%E6%91%84%E6%97%B6%E8%84%B8%E8%A2%AB%E9%81%93%E5%85%B7%E5%88%92%E4%BC%A4%23" target="weibo">
 魏大勋拍摄时脸被道具划伤（热度：500030）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23700%E4%B8%80%E5%90%A8%E4%B9%B0%E5%9C%9F%E8%B1%86%E5%9C%9F%E6%AF%94%E5%9C%9F%E8%B1%86%E5%A4%9A%23" target="weibo">
-700一吨买土豆土比土豆多（热度：499675）
 </a>
 </li>
 

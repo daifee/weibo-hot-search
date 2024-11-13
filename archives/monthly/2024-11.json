@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731494499321,
+  "endTime": 1731496753911,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2587,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1128964,
+      "num": 1128964,
+      "word": "个人购房不超140平契税降至1%",
+      "onboard_time": 1731491780,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 1125988,
       "num": 1180158,
       "word": "程莉莎让郭晓东道歉",
@@ -3264,6 +3272,14 @@
       "word": "赵露思晒泳照",
       "onboard_time": 1730541318,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 985446,
+      "num": 241362,
+      "word": "虞书欣戴上了丁禹兮做的拼豆",
+      "onboard_time": 1731493460,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -4305,14 +4321,6 @@
       "onboard_time": 1731159019,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830872,
-      "num": 241362,
-      "word": "虞书欣戴上了丁禹兮做的拼豆",
-      "onboard_time": 1731493460,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 830683,
@@ -5545,6 +5553,14 @@
       "onboard_time": 1730610199,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667155,
+      "num": 344152,
+      "word": "清华北航",
+      "onboard_time": 1731492319,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 666243,
@@ -7691,14 +7707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517147,
-      "num": 344152,
-      "word": "清华北航",
-      "onboard_time": 1731492319,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 516874,
       "num": 734820,
       "word": "五月天 林俊杰",
@@ -9185,14 +9193,6 @@
       "onboard_time": 1730898981,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 434675,
-      "num": 502223,
-      "word": "个人购房不超140平契税降至1%",
-      "onboard_time": 1731491780,
-      "rank": 8,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 434521,
@@ -10953,6 +10953,14 @@
       "onboard_time": 1730981182,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355202,
+      "num": 198631,
+      "word": "虞书欣销冠底气",
+      "onboard_time": 1731496641,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 354960,
@@ -12977,6 +12985,14 @@
       "onboard_time": 1731115458,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 287068,
+      "num": 287068,
+      "word": "美军分不清F35和歼35",
+      "onboard_time": 1731494959,
+      "rank": 7,
+      "category": "军事"
     },
     {
       "raw_hot": 286986,
@@ -15819,6 +15835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225364,
+      "num": 225364,
+      "word": "哈尔滨铁路乘务员裙装换裤装",
+      "onboard_time": 1731494660,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225080,
       "num": 285668,
       "word": "再见爱人",
@@ -16185,6 +16209,14 @@
       "onboard_time": 1731210438,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219043,
+      "num": 434815,
+      "word": "多部门发布楼市税收优惠新政",
+      "onboard_time": 1731491899,
+      "rank": 13,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 218952,
@@ -17697,14 +17729,6 @@
       "onboard_time": 1731036199,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203256,
-      "num": 434815,
-      "word": "多部门发布楼市税收优惠新政",
-      "onboard_time": 1731491899,
-      "rank": 13,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 203220,
@@ -19427,6 +19451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191206,
+      "num": 191206,
+      "word": "增值税",
+      "onboard_time": 1731495740,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 191179,
       "num": 229839,
       "word": "双航母编队原声4K纯享",
@@ -19721,6 +19753,14 @@
       "onboard_time": 1730607500,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188821,
+      "num": 188821,
+      "word": "全红婵喊话樊振东快请吃叉烧肉",
+      "onboard_time": 1731493580,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 188716,
@@ -21019,6 +21059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176974,
+      "num": 176974,
+      "word": "3岁半幼童疑被幼儿园校车碾压身亡",
+      "onboard_time": 1731495020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176969,
       "num": 223481,
       "word": "疯狂好六夜阵容官宣",
@@ -21153,6 +21201,14 @@
       "onboard_time": 1730634319,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176148,
+      "num": 176148,
+      "word": "滞留太空女宇航员首次回应变锥子脸",
+      "onboard_time": 1731495919,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 176128,
@@ -21403,6 +21459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173983,
+      "num": 524476,
+      "word": "契税优惠新政12月1日起执行",
+      "onboard_time": 1731493280,
+      "rank": 7,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 173904,
       "num": 173904,
       "word": "永夜星河双榜登顶",
@@ -21537,14 +21601,6 @@
       "onboard_time": 1730685440,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 173259,
-      "num": 173259,
-      "word": "全红婵喊话樊振东快请吃叉烧肉",
-      "onboard_time": 1731493580,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 173241,
@@ -22393,6 +22449,14 @@
       "onboard_time": 1731127219,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166678,
+      "num": 166678,
+      "word": "股民上午割肉下午追涨",
+      "onboard_time": 1731493761,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 166644,
@@ -23329,14 +23393,6 @@
       "onboard_time": 1730966599,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160456,
-      "num": 160456,
-      "word": "股民上午割肉下午追涨",
-      "onboard_time": 1731493761,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 160438,
@@ -25827,6 +25883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142929,
+      "num": 142929,
+      "word": "你们要毁了名扬天下的拂衣公子吗",
+      "onboard_time": 1731496161,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142891,
       "num": 187055,
       "word": "王楚钦7325分继续霸榜世界第一",
@@ -27203,6 +27267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133050,
+      "num": 133050,
+      "word": "DK官宣Bengi加入",
+      "onboard_time": 1731495202,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133039,
       "num": 133039,
       "word": "韩网爆料GEN和Chovy谈崩",
@@ -27321,6 +27393,14 @@
       "onboard_time": 1731078921,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132022,
+      "num": 132022,
+      "word": "双十一结束了女装还在退货",
+      "onboard_time": 1731495440,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131961,
@@ -29113,6 +29193,14 @@
       "onboard_time": 1730869586,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118589,
+      "num": 118589,
+      "word": "台湾前舰长逛航展后哽咽",
+      "onboard_time": 1731496400,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 118282,
@@ -31531,14 +31619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94717,
-      "num": 524476,
-      "word": "契税优惠新政12月1日起执行",
-      "onboard_time": 1731493280,
-      "rank": 7,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 94600,
       "num": 319706,
       "word": "天猫双11最后5折冲刺",
@@ -32273,6 +32353,14 @@
       "onboard_time": 1731016391,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 83140,
+      "num": 224705,
+      "word": "四年过去发现网红还是老的好",
+      "onboard_time": 1731495801,
+      "rank": 9,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 82665,
@@ -38051,6 +38139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29215,
+      "num": 413009,
+      "word": "这么多明星真的很开门",
+      "onboard_time": 1731492379,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29208,
       "num": 508722,
       "word": "涉密人员因欠债窃取国家秘密被判无期",
@@ -38419,6 +38515,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 27110,
+      "num": 191214,
+      "word": "古偶对打最终靠的是内容",
+      "onboard_time": 1731496702,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27107,
       "num": 189761,
       "word": "水哥南极之行波司登上大分",
@@ -38737,14 +38841,6 @@
       "onboard_time": 1731384080,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25218,
-      "num": 413009,
-      "word": "这么多明星真的很开门",
-      "onboard_time": 1731492379,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 25126,
@@ -39115,6 +39211,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23351,
+      "num": 208660,
+      "word": "关晓彤安利小巷人家",
+      "onboard_time": 1731496161,
+      "rank": 19,
+      "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 23342,
+      "num": 210594,
+      "word": "杨幂邢博俊合照",
+      "onboard_time": 1731496340,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23332,
       "num": 25579,
       "word": "佩斯科夫说普京不吃人",
@@ -39441,6 +39553,14 @@
       "onboard_time": 1730887522,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21843,
+      "num": 219609,
+      "word": "单位团建时受伤到底算不算工伤",
+      "onboard_time": 1731495980,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 21806,
