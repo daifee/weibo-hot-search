@@ -1,0 +1,410 @@
+{
+  "runTime": 1731494499321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2414372,
+        "num": 2414372,
+        "word": "契税",
+        "onboard_time": 1731492198,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 640108,
+        "num": 640108,
+        "word": "12306回应女性列车员裙装改裤装建议",
+        "onboard_time": 1731483199,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9115,
+        "num": 622626,
+        "word": "APEC为何如此重要",
+        "onboard_time": 1731485180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622579,
+        "num": 622579,
+        "word": "永夜星河",
+        "onboard_time": 1731491720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434675,
+        "num": 434675,
+        "word": "个人购房不超140平契税降至1%",
+        "onboard_time": 1731491780,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 389557,
+        "num": 389557,
+        "word": "榜一大哥沙特来了",
+        "onboard_time": 1731473601,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 316831,
+        "num": 316831,
+        "word": "98万部手机被控制每月偷偷扣钱",
+        "onboard_time": 1731475280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94717,
+        "num": 308568,
+        "word": "契税优惠新政12月1日起执行",
+        "onboard_time": 1731493280,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 307587,
+        "num": 307587,
+        "word": "虞书欣丁禹兮穿着古装扫楼",
+        "onboard_time": 1731484222,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244759,
+        "num": 244759,
+        "word": "李子柒三更",
+        "onboard_time": 1731474080,
+        "rank": 9,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 959839,
+        "num": 244516,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68536,
+        "num": 244192,
+        "word": "网友喜爱运动员樊振东",
+        "onboard_time": 1731494241,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11730,
+        "num": 243966,
+        "word": "江西首次对违规探险追责",
+        "onboard_time": 1731494060,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25003,
+        "num": 243647,
+        "word": "这么多明星真的很开门",
+        "onboard_time": 1731492379,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12099,
+        "num": 243135,
+        "word": "李玟墓地杂草丛生信息不实",
+        "onboard_time": 1731494301,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 916195,
+        "num": 242913,
+        "word": "李玟姐姐回应李玟墓地杂草丛生",
+        "onboard_time": 1731489414,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 840841,
+        "num": 242580,
+        "word": "李子柒身份证改名",
+        "onboard_time": 1731474380,
+        "rank": 16,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 13322,
+        "num": 242341,
+        "word": "来自四川李子柒的非遗邀约",
+        "onboard_time": 1731494180,
+        "rank": 17,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 56691,
+        "num": 241947,
+        "word": "歼35A和运20雨中同框",
+        "onboard_time": 1731494060,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 24350,
+        "num": 241714,
+        "word": "数百城管临聘人员称被多扣养老保险",
+        "onboard_time": 1731494060,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830872,
+        "num": 241362,
+        "word": "虞书欣戴上了丁禹兮做的拼豆",
+        "onboard_time": 1731493460,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 758229,
+        "num": 240902,
+        "word": "正宗炸鸡柳",
+        "onboard_time": 1731486560,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666491,
+        "num": 240562,
+        "word": "专家称9胞胎产妇或面临大月份流产",
+        "onboard_time": 1731489559,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119050,
+        "num": 240370,
+        "word": "中国航展首日已签订280架订单",
+        "onboard_time": 1731480800,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 621859,
+        "num": 239867,
+        "word": "孩子偷奶茶被发现母亲殴打女店员",
+        "onboard_time": 1731491478,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145318,
+        "num": 239653,
+        "word": "歼20飞行员一歪头就能看见航母",
+        "onboard_time": 1731490339,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 611907,
+        "num": 239443,
+        "word": "赵露思听劝",
+        "onboard_time": 1731487279,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517147,
+        "num": 238963,
+        "word": "清华北航",
+        "onboard_time": 1731492319,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 500030,
+        "num": 238508,
+        "word": "魏大勋拍摄时脸被道具划伤",
+        "onboard_time": 1731492738,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44004,
+        "num": 238225,
+        "word": "原来林一真的天天比心",
+        "onboard_time": 1731493099,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373625,
+        "num": 238079,
+        "word": "刘晓庆 祝我生日快乐",
+        "onboard_time": 1731487880,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359432,
+        "num": 237695,
+        "word": "张檬怀孕17周98斤",
+        "onboard_time": 1731474860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356137,
+        "num": 237442,
+        "word": "禹宙中欣",
+        "onboard_time": 1731490400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302747,
+        "num": 237100,
+        "word": "NewJeans或将解约",
+        "onboard_time": 1731489319,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236790,
+        "num": 236790,
+        "word": "小巷人家选角争议的锅谁来背",
+        "onboard_time": 1731489020,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203256,
+        "num": 203256,
+        "word": "多部门发布楼市税收优惠新政",
+        "onboard_time": 1731491899,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 198256,
+        "num": 198256,
+        "word": "王楚钦不参加福冈总决赛男双",
+        "onboard_time": 1731493159,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197990,
+        "num": 197990,
+        "word": "用人民币感受日本物价",
+        "onboard_time": 1731485959,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196850,
+        "num": 196850,
+        "word": "樊振东马龙陈梦退出福冈总决赛",
+        "onboard_time": 1731483800,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192675,
+        "num": 192675,
+        "word": "DNA音乐节 蒲熠星",
+        "onboard_time": 1731493940,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190952,
+        "num": 190952,
+        "word": "王曼昱陈梦双打退赛",
+        "onboard_time": 1731491720,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173259,
+        "num": 173259,
+        "word": "全红婵喊话樊振东快请吃叉烧肉",
+        "onboard_time": 1731493580,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163439,
+        "num": 163439,
+        "word": "成毅五年前拍的剧播了",
+        "onboard_time": 1731479000,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160456,
+        "num": 160456,
+        "word": "股民上午割肉下午追涨",
+        "onboard_time": 1731493761,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94234,
+        "num": 160116,
+        "word": "ADOR回应NewJeans解约",
+        "onboard_time": 1731492439,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160096,
+        "num": 160096,
+        "word": "网友建议女性列车员裙装改裤装",
+        "onboard_time": 1731484940,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154382,
+        "num": 154382,
+        "word": "黄玲 火力全开",
+        "onboard_time": 1731491720,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151574,
+        "num": 151574,
+        "word": "代号鸢",
+        "onboard_time": 1731494360,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150302,
+        "num": 150302,
+        "word": "王楚钦出战福冈总决赛男单",
+        "onboard_time": 1731489681,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147666,
+        "num": 147666,
+        "word": "校园招聘严禁限定92高校",
+        "onboard_time": 1731493039,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京赴利马#"
+    }
+  }
+}

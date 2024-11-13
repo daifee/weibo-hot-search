@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731493420991,
+  "endTime": 1731494499321,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -9,6 +9,14 @@
       "onboard_time": 1731409644,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2414372,
+      "num": 2414372,
+      "word": "契税",
+      "onboard_time": 1731492198,
+      "rank": 0,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 2334856,
@@ -41,14 +49,6 @@
       "onboard_time": 1731474380,
       "rank": 11,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 1817518,
-      "num": 1817518,
-      "word": "契税",
-      "onboard_time": 1731492198,
-      "rank": 0,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 1695610,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916195,
+      "num": 565182,
+      "word": "李玟姐姐回应李玟墓地杂草丛生",
+      "onboard_time": 1731489414,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880517,
       "num": 517954,
       "word": "李子柒停更时补瞌睡陪奶奶",
@@ -249,6 +257,14 @@
       "onboard_time": 1731468859,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830872,
+      "num": 241362,
+      "word": "虞书欣戴上了丁禹兮做的拼豆",
+      "onboard_time": 1731493460,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 811463,
@@ -355,6 +371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622579,
+      "num": 622579,
+      "word": "永夜星河",
+      "onboard_time": 1731406522,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 621859,
+      "num": 365106,
+      "word": "孩子偷奶茶被发现母亲殴打女店员",
+      "onboard_time": 1731491478,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 621358,
       "num": 621358,
       "word": "黄圣依的清醒仅对别人可见",
@@ -393,14 +425,6 @@
       "onboard_time": 1731469401,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565182,
-      "num": 565182,
-      "word": "李玟姐姐回应李玟墓地杂草丛生",
-      "onboard_time": 1731489414,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 554441,
@@ -443,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527540,
-      "num": 527540,
-      "word": "永夜星河",
-      "onboard_time": 1731406522,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 525600,
       "num": 525600,
       "word": "mbti又变了",
@@ -467,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517147,
+      "num": 344152,
+      "word": "清华北航",
+      "onboard_time": 1731492319,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 514629,
       "num": 514629,
       "word": "俄立法禁止宣传不生孩子",
@@ -481,6 +505,14 @@
       "onboard_time": 1731413784,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500030,
+      "num": 389731,
+      "word": "魏大勋拍摄时脸被道具划伤",
+      "onboard_time": 1731492738,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 498025,
@@ -537,6 +569,14 @@
       "onboard_time": 1731478580,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434675,
+      "num": 502223,
+      "word": "个人购房不超140平契税降至1%",
+      "onboard_time": 1731491780,
+      "rank": 8,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 430139,
@@ -611,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365106,
-      "num": 365106,
-      "word": "孩子偷奶茶被发现母亲殴打女店员",
-      "onboard_time": 1731491478,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364912,
       "num": 364912,
       "word": "禹宙中欣",
@@ -641,14 +673,6 @@
       "onboard_time": 1731477379,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 344152,
-      "num": 344152,
-      "word": "清华北航",
-      "onboard_time": 1731492319,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 341414,
@@ -883,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247422,
-      "num": 502223,
-      "word": "个人购房不超140平契税降至1%",
-      "onboard_time": 1731491780,
-      "rank": 8,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 246576,
       "num": 313397,
       "word": "2024星辰大海青年演员入选名单",
@@ -921,6 +937,14 @@
       "onboard_time": 1731411986,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236790,
+      "num": 432597,
+      "word": "小巷人家选角争议的锅谁来背",
+      "onboard_time": 1731489020,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 235094,
@@ -1051,27 +1075,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208057,
-      "num": 389731,
-      "word": "魏大勋拍摄时脸被道具划伤",
-      "onboard_time": 1731492738,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207659,
       "num": 286507,
       "word": "这竟然是虞书欣第一次扫楼",
       "onboard_time": 1731477081,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 206231,
-      "num": 432597,
-      "word": "小巷人家选角争议的锅谁来背",
-      "onboard_time": 1731489020,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -1115,6 +1123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 203256,
+      "num": 434815,
+      "word": "多部门发布楼市税收优惠新政",
+      "onboard_time": 1731491899,
+      "rank": 13,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 202422,
       "num": 202422,
       "word": "蔡徐坤腾讯音乐榜排名第一",
@@ -1124,11 +1140,19 @@
     },
     {
       "raw_hot": 201705,
-      "num": 201705,
+      "num": 239653,
       "word": "歼20飞行员一歪头就能看见航母",
       "onboard_time": 1731490339,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 198256,
+      "num": 198256,
+      "word": "王楚钦不参加福冈总决赛男双",
+      "onboard_time": 1731493159,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 197616,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1731458661,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192675,
+      "num": 192675,
+      "word": "DNA音乐节 蒲熠星",
+      "onboard_time": 1731493940,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 191812,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1731480260,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173259,
+      "num": 173259,
+      "word": "全红婵喊话樊振东快请吃叉烧肉",
+      "onboard_time": 1731493580,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 173050,
@@ -1419,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160456,
+      "num": 160456,
+      "word": "股民上午割肉下午追涨",
+      "onboard_time": 1731493761,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160001,
       "num": 162046,
       "word": "第二届DNA音乐节",
@@ -1531,6 +1579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151574,
+      "num": 151574,
+      "word": "代号鸢",
+      "onboard_time": 1731494360,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150560,
       "num": 150560,
       "word": "樊振东给陈雨菲鼓掌",
@@ -1579,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147666,
+      "num": 147666,
+      "word": "校园招聘严禁限定92高校",
+      "onboard_time": 1731493039,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146485,
       "num": 146485,
       "word": "本届金鸡你最期待谁获奖",
@@ -1611,14 +1675,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 140827,
-      "num": 140827,
-      "word": "王楚钦不参加福冈总决赛男双",
-      "onboard_time": 1731493159,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140043,
       "num": 140043,
       "word": "库里37分",
@@ -1641,14 +1697,6 @@
       "onboard_time": 1731459323,
       "rank": 43,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 137387,
-      "num": 434815,
-      "word": "多部门发布楼市税收优惠新政",
-      "onboard_time": 1731491899,
-      "rank": 13,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 136205,
@@ -1915,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94717,
+      "num": 524476,
+      "word": "契税优惠新政12月1日起执行",
+      "onboard_time": 1731493280,
+      "rank": 7,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 93521,
       "num": 93521,
       "word": "WTT新加坡大满贯春节期间举行",
@@ -2059,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68536,
+      "num": 244192,
+      "word": "网友喜爱运动员樊振东",
+      "onboard_time": 1731494241,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68316,
       "num": 371856,
       "word": "何与看起来就很保暖",
@@ -2153,6 +2217,14 @@
       "onboard_time": 1731479901,
       "rank": 27,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 56691,
+      "num": 241947,
+      "word": "歼35A和运20雨中同框",
+      "onboard_time": 1731494060,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 56540,
@@ -2299,6 +2371,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 44004,
+      "num": 328477,
+      "word": "原来林一真的天天比心",
+      "onboard_time": 1731493099,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43612,
       "num": 244232,
       "word": "闵庚勋婚纱照公开",
@@ -2385,14 +2465,6 @@
       "onboard_time": 1731481279,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39149,
-      "num": 328477,
-      "word": "原来林一真的天天比心",
-      "onboard_time": 1731493099,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 38955,
@@ -2555,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24350,
+      "num": 241714,
+      "word": "数百城管临聘人员称被多扣养老保险",
+      "onboard_time": 1731494060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23124,
       "num": 37563,
       "word": "尼日尔高级军官期待购买中国战机",
@@ -2675,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13322,
+      "num": 242341,
+      "word": "来自四川李子柒的非遗邀约",
+      "onboard_time": 1731494180,
+      "rank": 17,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 12753,
       "num": 62583,
       "word": "在自家阳台看航展是什么体验",
@@ -2689,6 +2777,22 @@
       "onboard_time": 1731434712,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12099,
+      "num": 243135,
+      "word": "李玟墓地杂草丛生信息不实",
+      "onboard_time": 1731494301,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11730,
+      "num": 243966,
+      "word": "江西首次对违规探险追责",
+      "onboard_time": 1731494060,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11498,
@@ -2745,14 +2849,6 @@
       "onboard_time": 1731447191,
       "rank": 19,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 6044,
-      "num": 524476,
-      "word": "契税优惠新政12月1日起执行",
-      "onboard_time": 1731493280,
-      "rank": 7,
-      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [
