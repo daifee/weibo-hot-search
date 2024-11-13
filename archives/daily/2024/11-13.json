@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731486539528,
+  "endTime": 1731487338756,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -59,8 +59,16 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 1442587,
+      "num": 1442587,
+      "word": "12306回应女性列车员裙装改裤装建议",
+      "onboard_time": 1731483199,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1441564,
-      "num": 441532,
+      "num": 463437,
       "word": "张檬怀孕17周98斤",
       "onboard_time": 1731474860,
       "rank": 15,
@@ -91,20 +99,20 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 1383980,
+      "num": 1383980,
+      "word": "虞书欣丁禹兮穿着古装扫楼",
+      "onboard_time": 1731484222,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1370068,
       "num": 1370068,
       "word": "98万部手机被控制每月偷偷扣钱",
       "onboard_time": 1731475280,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1366657,
-      "num": 1366657,
-      "word": "12306回应女性列车员裙装改裤装建议",
-      "onboard_time": 1731483199,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1275707,
@@ -121,14 +129,6 @@
       "onboard_time": 1731463400,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1232067,
-      "num": 1232067,
-      "word": "虞书欣丁禹兮穿着古装扫楼",
-      "onboard_time": 1731484222,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1193447,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 931903,
-      "num": 408208,
+      "num": 431189,
       "word": "麦琳问离婚孩子跟钱能归她吗",
       "onboard_time": 1731476900,
       "rank": 11,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 658240,
-      "num": 512893,
+      "num": 547487,
       "word": "想去腾讯上班",
       "onboard_time": 1731482119,
       "rank": 34,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554441,
+      "num": 507399,
+      "word": "李子柒穿的蜀锦裙源于宋代百迭裙",
+      "onboard_time": 1731481340,
+      "rank": 22,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 543096,
       "num": 543096,
       "word": "珠海航展沙特的展馆是空的",
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 525600,
+      "num": 525600,
+      "word": "mbti又变了",
+      "onboard_time": 1731482538,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 522020,
       "num": 522020,
       "word": "赵露思 这是腮红",
@@ -401,14 +417,6 @@
       "onboard_time": 1731413784,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507399,
-      "num": 507399,
-      "word": "李子柒穿的蜀锦裙源于宋代百迭裙",
-      "onboard_time": 1731481340,
-      "rank": 22,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 498025,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402680,
+      "num": 347524,
+      "word": "用人民币感受日本物价",
+      "onboard_time": 1731485959,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 389041,
       "num": 261218,
       "word": "指甲尽量要剪成方形",
@@ -529,14 +545,6 @@
       "onboard_time": 1731423863,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357911,
-      "num": 357911,
-      "word": "mbti又变了",
-      "onboard_time": 1731482538,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 351369,
@@ -585,6 +593,14 @@
       "onboard_time": 1731481821,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329147,
+      "num": 329147,
+      "word": "正宗炸鸡柳",
+      "onboard_time": 1731486560,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 328601,
@@ -689,14 +705,6 @@
       "onboard_time": 1731458721,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282374,
-      "num": 205453,
-      "word": "用人民币感受日本物价",
-      "onboard_time": 1731485959,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 280402,
@@ -817,6 +825,14 @@
       "onboard_time": 1731474621,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233660,
+      "num": 233660,
+      "word": "阿勒泰暴雪",
+      "onboard_time": 1731483138,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231125,
@@ -995,14 +1011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193192,
-      "num": 193192,
-      "word": "阿勒泰暴雪",
-      "onboard_time": 1731483138,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191812,
       "num": 191812,
       "word": "歼20亮相中国航展",
@@ -1028,7 +1036,7 @@
     },
     {
       "raw_hot": 187650,
-      "num": 187650,
+      "num": 235424,
       "word": "中国航展首日已签订280架订单",
       "onboard_time": 1731480800,
       "rank": 40,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1731472101,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183387,
+      "num": 353191,
+      "word": "永夜星河真的爆了吗",
+      "onboard_time": 1731487099,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 182534,
@@ -1145,6 +1161,22 @@
       "onboard_time": 1731477800,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167622,
+      "num": 167622,
+      "word": "红魔",
+      "onboard_time": 1731486199,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 167365,
+      "num": 167365,
+      "word": "要是不想失业",
+      "onboard_time": 1731485479,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 165833,
@@ -1275,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150344,
+      "num": 150344,
+      "word": "樊振东给陈雨菲鼓掌",
+      "onboard_time": 1731486259,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150012,
       "num": 257340,
       "word": "中国军机原来有家谱",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1731479659,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 148145,
+      "num": 488723,
+      "word": "网友建议女性列车员裙装改裤装",
+      "onboard_time": 1731484940,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148044,
@@ -1379,28 +1427,12 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 136624,
-      "num": 136624,
-      "word": "网友建议女性列车员裙装改裤装",
-      "onboard_time": 1731484940,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133039,
       "num": 133039,
       "word": "韩网爆料GEN和Chovy谈崩",
       "onboard_time": 1731456621,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132363,
-      "num": 132363,
-      "word": "红魔",
-      "onboard_time": 1731486199,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 132065,
@@ -1433,14 +1465,6 @@
       "onboard_time": 1731466878,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129161,
-      "num": 132742,
-      "word": "樊振东给陈雨菲鼓掌",
-      "onboard_time": 1731486259,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 127146,
@@ -1521,14 +1545,6 @@
       "onboard_time": 1731481759,
       "rank": 48,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 109236,
-      "num": 109236,
-      "word": "要是不想失业",
-      "onboard_time": 1731485479,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 108041,
@@ -1659,6 +1675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89612,
+      "num": 472494,
+      "word": "两司机路怒斗气致1死3获刑",
+      "onboard_time": 1731485302,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88824,
       "num": 336514,
       "word": "国足18强赛晋级形势",
@@ -1747,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72039,
+      "num": 467533,
+      "word": "WTT福冈总决赛国乒名单",
+      "onboard_time": 1731486920,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71206,
       "num": 389005,
       "word": "夕阳红公寓爆雷始末",
@@ -1817,14 +1849,6 @@
       "onboard_time": 1731474440,
       "rank": 18,
       "category": "军事"
-    },
-    {
-      "raw_hot": 62001,
-      "num": 472494,
-      "word": "两司机路怒斗气致1死3获刑",
-      "onboard_time": 1731485302,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60958,
@@ -1939,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51887,
+      "num": 332794,
+      "word": "王勉玩扑克被欺负了",
+      "onboard_time": 1731486739,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50210,
       "num": 149271,
       "word": "水晶哥老头杯喊话Uzi",
@@ -2011,6 +2043,14 @@
       "category": "剧集,电竞"
     },
     {
+      "raw_hot": 43089,
+      "num": 515388,
+      "word": "网络众筹不能成为一笔糊涂账",
+      "onboard_time": 1731485059,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42276,
       "num": 44660,
       "word": "洗浴中心回应男子洗浴时死亡",
@@ -2067,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39663,
+      "num": 233765,
+      "word": "赵露思听劝",
+      "onboard_time": 1731487279,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38955,
       "num": 944755,
       "word": "七张图带你了解秘鲁",
@@ -2097,6 +2145,22 @@
       "onboard_time": 1731470479,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35789,
+      "num": 1291665,
+      "word": "APEC为何如此重要",
+      "onboard_time": 1731485180,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 35219,
+      "num": 234366,
+      "word": "女推2这段师生关系看得人好生气",
+      "onboard_time": 1731487279,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 34165,
@@ -2163,14 +2227,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27173,
-      "num": 1255164,
-      "word": "APEC为何如此重要",
-      "onboard_time": 1731485180,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27053,
       "num": 225567,
       "word": "台前海军舰长珠海航展哽咽发声",
@@ -2201,14 +2257,6 @@
       "onboard_time": 1731436152,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22361,
-      "num": 515388,
-      "word": "网络众筹不能成为一笔糊涂账",
-      "onboard_time": 1731485059,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21073,
