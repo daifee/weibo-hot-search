@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731471983813,
+  "endTime": 1731472859889,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -27,6 +27,14 @@
       "category": "国内时政,作品衍生"
     },
     {
+      "raw_hot": 1436683,
+      "num": 1436683,
+      "word": "李子柒给手工厂提建议从滞销变脱销",
+      "onboard_time": 1731463639,
+      "rank": 1,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 1396946,
       "num": 1396946,
       "word": "雷军真去拧螺丝了",
@@ -41,14 +49,6 @@
       "onboard_time": 1731427341,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1357426,
-      "num": 1357426,
-      "word": "李子柒给手工厂提建议从滞销变脱销",
-      "onboard_time": 1731463639,
-      "rank": 1,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 1254789,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 852330,
+      "num": 347304,
+      "word": "被泼开水女童返校书包现恐吓信",
+      "onboard_time": 1731468859,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 811463,
       "num": 811463,
       "word": "李子柒停更期间拜访了许多非遗传人",
@@ -136,14 +144,6 @@
       "word": "杭州宝马",
       "onboard_time": 1731424282,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726207,
-      "num": 281429,
-      "word": "被泼开水女童返校书包现恐吓信",
-      "onboard_time": 1731468859,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -203,8 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555638,
-      "num": 279540,
+      "raw_hot": 567750,
+      "num": 325048,
       "word": "怀上九胞胎女子发声",
       "onboard_time": 1731469401,
       "rank": 23,
@@ -217,6 +217,14 @@
       "onboard_time": 1731466340,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513939,
+      "num": 513939,
+      "word": "珠海航展沙特的展馆是空的",
+      "onboard_time": 1731470779,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 508198,
@@ -243,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469442,
+      "num": 449265,
+      "word": "勇士 地图",
+      "onboard_time": 1731469761,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453611,
       "num": 453611,
       "word": "小巷人家 气人",
       "onboard_time": 1731424222,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 449265,
-      "num": 449265,
-      "word": "勇士 地图",
-      "onboard_time": 1731469761,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 430139,
@@ -291,6 +299,14 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 374563,
+      "num": 303608,
+      "word": "大爷悬崖放4箱水3元一瓶只收到2箱钱",
+      "onboard_time": 1731469278,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370666,
       "num": 370666,
       "word": "特朗普宣布多项任命",
@@ -323,12 +339,12 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 337623,
-      "num": 337623,
-      "word": "珠海航展沙特的展馆是空的",
-      "onboard_time": 1731470779,
-      "rank": 9,
-      "category": "军事"
+      "raw_hot": 337422,
+      "num": 337422,
+      "word": "肖战我们没那么难懂",
+      "onboard_time": 1731469339,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 328601,
@@ -347,28 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324259,
-      "num": 275032,
-      "word": "大爷悬崖放4箱水3元一瓶只收到2箱钱",
-      "onboard_time": 1731469278,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317437,
       "num": 317437,
       "word": "2025年放假安排来了",
       "onboard_time": 1731402744,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315723,
-      "num": 315723,
-      "word": "肖战我们没那么难懂",
-      "onboard_time": 1731469339,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 309578,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 249315,
-      "num": 304985,
+      "num": 315654,
       "word": "张婉莹报警后续",
       "onboard_time": 1731469519,
       "rank": 15,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235259,
+      "num": 336820,
+      "word": "丁禹兮每个动作都精心设计",
+      "onboard_time": 1731471859,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235094,
       "num": 235094,
       "word": "虞书欣带着11个箱子启程",
@@ -553,6 +561,14 @@
       "onboard_time": 1731409827,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215441,
+      "num": 215441,
+      "word": "A股缩量震荡",
+      "onboard_time": 1731472341,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 208575,
@@ -651,11 +667,27 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 182265,
+      "num": 182265,
+      "word": "男子疑被当成猎物遭枪击身亡",
+      "onboard_time": 1731471859,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175839,
       "num": 240130,
       "word": "永夜星河编剧",
       "onboard_time": 1731414803,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173050,
+      "num": 307432,
+      "word": "谢可寅眼技",
+      "onboard_time": 1731471259,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -739,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162329,
-      "num": 162329,
-      "word": "丁禹兮每个动作都精心设计",
-      "onboard_time": 1731471859,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161708,
       "num": 161708,
       "word": "两个上海人就应该生出我这个",
@@ -761,6 +785,14 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155948,
+      "num": 290827,
+      "word": "男子帮女友撑腰结果进了监狱",
+      "onboard_time": 1731470661,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155790,
@@ -843,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146485,
+      "num": 146485,
+      "word": "本届金鸡你最期待谁获奖",
+      "onboard_time": 1731472641,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143801,
       "num": 414419,
       "word": "歼35A装备国产发动机",
       "onboard_time": 1731466278,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 142381,
+      "num": 142381,
+      "word": "祁煜 猫咪小鱼",
+      "onboard_time": 1731472762,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 142230,
@@ -859,28 +907,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 140752,
-      "num": 140752,
-      "word": "男子疑被当成猎物遭枪击身亡",
-      "onboard_time": 1731471859,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137930,
       "num": 137930,
       "word": "李子柒 微念",
       "onboard_time": 1731459323,
       "rank": 43,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 135489,
-      "num": 135489,
-      "word": "谢可寅眼技",
-      "onboard_time": 1731471259,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 133039,
@@ -955,20 +987,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114738,
+      "num": 343673,
+      "word": "广州人被短袖硬控了8个月",
+      "onboard_time": 1731472101,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108041,
       "num": 108041,
       "word": "再见爱人能不能按这个演",
       "onboard_time": 1731454939,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107021,
-      "num": 290827,
-      "word": "男子帮女友撑腰结果进了监狱",
-      "onboard_time": 1731470661,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104313,
@@ -1115,6 +1147,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 85116,
+      "num": 319596,
+      "word": "宋佳一个月2本五大",
+      "onboard_time": 1731471981,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 83469,
       "num": 83469,
       "word": "回归前的李子柒干了些什么",
@@ -1155,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71206,
+      "num": 389005,
+      "word": "夕阳红公寓爆雷始末",
+      "onboard_time": 1731470840,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69078,
       "num": 390097,
       "word": "多地已出台生育支持相关措施",
@@ -1177,14 +1225,6 @@
       "onboard_time": 1731470661,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61150,
-      "num": 389005,
-      "word": "夕阳红公寓爆雷始末",
-      "onboard_time": 1731470840,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60958,
@@ -1251,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51238,
+      "num": 357161,
+      "word": "央视起底网络主播带货套路",
+      "onboard_time": 1731471981,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50210,
       "num": 149271,
       "word": "水晶哥老头杯喊话Uzi",
@@ -1291,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41625,
+      "num": 313298,
+      "word": "15一克铜合金当金条卖配足金证书",
+      "onboard_time": 1731470961,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41468,
       "num": 305769,
       "word": "国足球员表态目标至少要拿分",
@@ -1305,6 +1361,22 @@
       "onboard_time": 1731425422,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 41078,
+      "num": 339888,
+      "word": "小米SU7破新车企10万台下线纪录",
+      "onboard_time": 1731471859,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 40593,
+      "num": 330169,
+      "word": "退钱哥为中国队又一次到了巴林",
+      "onboard_time": 1731472581,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 38955,
@@ -1323,12 +1395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37402,
-      "num": 311464,
-      "word": "15一克铜合金当金条卖配足金证书",
-      "onboard_time": 1731470961,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 37142,
+      "num": 683520,
+      "word": "秘鲁Chifa里藏着中国味儿",
+      "onboard_time": 1731470479,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32558,
@@ -1347,20 +1419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29449,
-      "num": 683520,
-      "word": "秘鲁Chifa里藏着中国味儿",
-      "onboard_time": 1731470479,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 27666,
-      "num": 135181,
-      "word": "小米SU7破新车企10万台下线纪录",
-      "onboard_time": 1731471859,
-      "rank": 47,
-      "category": "汽车"
+      "raw_hot": 28374,
+      "num": 306032,
+      "word": "战巴林结果决定国足排位",
+      "onboard_time": 1731471981,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 27375,
