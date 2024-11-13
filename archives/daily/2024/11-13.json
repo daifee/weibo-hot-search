@@ -1,6 +1,6 @@
 {
   "startTime": 1731428927963,
-  "endTime": 1731466872649,
+  "endTime": 1731468417816,
   "band_list": [
     {
       "raw_hot": 2746942,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1309758,
+      "num": 1309758,
+      "word": "李子柒给手工厂提建议从滞销变脱销",
+      "onboard_time": 1731463639,
+      "rank": 1,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 1254789,
       "num": 410542,
       "word": "马斯克将领导美国政府效率部",
@@ -57,14 +65,6 @@
       "onboard_time": 1731463877,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1092663,
-      "num": 1092663,
-      "word": "李子柒给手工厂提建议从滞销变脱销",
-      "onboard_time": 1731463639,
-      "rank": 1,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 932847,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655073,
+      "num": 655073,
+      "word": "李子柒学漆艺时严重过敏",
+      "onboard_time": 1731464659,
+      "rank": 7,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 638013,
       "num": 259640,
       "word": "特朗普在堕胎权上的立场备受争议",
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621358,
+      "num": 621358,
+      "word": "黄圣依的清醒仅对别人可见",
+      "onboard_time": 1731466398,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 606381,
       "num": 252782,
       "word": "郝婧怡 退团",
@@ -139,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 599361,
-      "num": 599361,
-      "word": "李子柒学漆艺时严重过敏",
-      "onboard_time": 1731464659,
-      "rank": 7,
-      "category": "美食,网红"
+      "raw_hot": 597418,
+      "num": 597418,
+      "word": "多地官宣出生人口反弹",
+      "onboard_time": 1731464419,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574471,
@@ -212,10 +228,18 @@
     },
     {
       "raw_hot": 407849,
-      "num": 308296,
+      "num": 327524,
       "word": "医生给失眠女友注射麻醉药致其死亡",
       "onboard_time": 1731454278,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390191,
+      "num": 390191,
+      "word": "车主去世汽车停窗边3年没人挪",
+      "onboard_time": 1731467478,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -235,12 +259,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 366374,
+      "num": 366374,
+      "word": "国台办回应刘德华台北演唱中国人",
+      "onboard_time": 1731467420,
+      "rank": 13,
+      "category": "国内时政,作品衍生"
+    },
+    {
       "raw_hot": 364424,
       "num": 364424,
       "word": "珠帘玉幕微博开分8.3",
       "onboard_time": 1731423863,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340007,
+      "num": 340007,
+      "word": "丁禹兮 我说今天怎么有点锁喉",
+      "onboard_time": 1731466340,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 339942,
@@ -339,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282162,
-      "num": 282162,
-      "word": "多地官宣出生人口反弹",
-      "onboard_time": 1731464419,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280402,
       "num": 410141,
       "word": "李子柒 白月光",
@@ -443,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213400,
-      "num": 383363,
-      "word": "黄圣依的清醒仅对别人可见",
-      "onboard_time": 1731466398,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 223527,
+      "num": 223527,
+      "word": "哈尔滨冰糖葫芦男神拒加联系方式",
+      "onboard_time": 1731467420,
+      "rank": 32,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 216483,
+      "num": 216483,
+      "word": "70秒看飞行表演队绝佳瞬间",
+      "onboard_time": 1731468079,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 208575,
@@ -457,6 +497,14 @@
       "onboard_time": 1731454217,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208553,
+      "num": 414519,
+      "word": "多方回应村民祖坟被圈进小学难祭奠",
+      "onboard_time": 1731466039,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205582,
@@ -507,8 +555,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 180444,
-      "num": 180444,
+      "raw_hot": 182534,
+      "num": 182534,
       "word": "李子柒复出后不会和微念撕破脸",
       "onboard_time": 1731466458,
       "rank": 36,
@@ -537,6 +585,14 @@
       "onboard_time": 1731412644,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169642,
+      "num": 411435,
+      "word": "人民空军三剑客将升级为四剑客",
+      "onboard_time": 1731465859,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 168430,
@@ -579,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160013,
+      "num": 160013,
+      "word": "A股中国联通触及涨停",
+      "onboard_time": 1731468259,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158778,
       "num": 147673,
       "word": "王一栩赚钱路子告诉你了",
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158682,
+      "num": 312059,
+      "word": "喻言给孙芮带了一袋大米",
+      "onboard_time": 1731466937,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 155790,
@@ -619,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152536,
+      "num": 296617,
+      "word": "王源新歌预告",
+      "onboard_time": 1731467958,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150012,
       "num": 257340,
       "word": "中国军机原来有家谱",
       "onboard_time": 1731463760,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 149268,
+      "num": 149268,
+      "word": "天舟八号船箭组合体转运至发射区",
+      "onboard_time": 1731467719,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148044,
@@ -667,6 +755,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 134322,
+      "num": 390522,
+      "word": "外卖骑手花200元开挂抢单收入翻倍",
+      "onboard_time": 1731467359,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133039,
       "num": 133039,
       "word": "韩网爆料GEN和Chovy谈崩",
@@ -689,6 +785,14 @@
       "onboard_time": 1731453856,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129549,
+      "num": 149397,
+      "word": "卓沅吃火锅报备",
+      "onboard_time": 1731466878,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 119990,
@@ -843,12 +947,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 91711,
-      "num": 411435,
-      "word": "人民空军三剑客将升级为四剑客",
-      "onboard_time": 1731465859,
+      "raw_hot": 88824,
+      "num": 336514,
+      "word": "国足18强赛晋级形势",
+      "onboard_time": 1731467238,
       "rank": 18,
-      "category": "军事"
+      "category": "体育"
     },
     {
       "raw_hot": 88793,
@@ -923,11 +1027,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73737,
-      "num": 414519,
-      "word": "多方回应村民祖坟被圈进小学难祭奠",
-      "onboard_time": 1731466039,
-      "rank": 12,
+      "raw_hot": 69078,
+      "num": 390097,
+      "word": "多地已出台生育支持相关措施",
+      "onboard_time": 1731466758,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -963,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56540,
+      "num": 267989,
+      "word": "于和伟开口便打开我的眼泪开关",
+      "onboard_time": 1731467779,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55363,
       "num": 55363,
       "word": "航展首日中国商飞签下130架飞机订单",
@@ -987,6 +1099,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50210,
+      "num": 149271,
+      "word": "水晶哥老头杯喊话Uzi",
+      "onboard_time": 1731467118,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 49306,
+      "num": 277580,
+      "word": "国足近年4次对阵巴林均是平局",
+      "onboard_time": 1731468020,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48993,
       "num": 48993,
       "word": "卫健委回应19岁女生卖卵代孕",
@@ -995,12 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48413,
-      "num": 390097,
-      "word": "多地已出台生育支持相关措施",
-      "onboard_time": 1731466758,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 45947,
+      "num": 334881,
+      "word": "谁懂啊智能拉满的奥迪电车有多牛",
+      "onboard_time": 1731467238,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 44707,
@@ -1206,6 +1334,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对广东珠海市驾车冲撞行人案件作出重要指示#"
+    },
+    {
+      "word": "#续写亚太奇迹#"
     }
   ]
 }
