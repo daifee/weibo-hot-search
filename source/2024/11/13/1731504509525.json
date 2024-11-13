@@ -1,0 +1,410 @@
+{
+  "runTime": 1731504509525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2811211,
+        "num": 2811211,
+        "word": "杨紫方已完成取证",
+        "onboard_time": 1731497240,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591659,
+        "num": 591659,
+        "word": "姆巴佩被曝存在精神问题",
+        "onboard_time": 1731498142,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22363,
+        "num": 591249,
+        "word": "中国连续10年是秘鲁最大出口市场",
+        "onboard_time": 1731503660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1652649,
+        "num": 591200,
+        "word": "00后代孕流产女孩发声",
+        "onboard_time": 1731499642,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705375,
+        "num": 591148,
+        "word": "金鸡奖开幕式",
+        "onboard_time": 1731501381,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 591064,
+        "num": 591064,
+        "word": "滞留太空女宇航员首次回应变锥子脸",
+        "onboard_time": 1731495919,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 677299,
+        "num": 565521,
+        "word": "丁禹兮反击祝绪丹",
+        "onboard_time": 1731503961,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507168,
+        "num": 507168,
+        "word": "契税",
+        "onboard_time": 1731492198,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 17373,
+        "num": 487833,
+        "word": "60秒打卡云端上的桥梁",
+        "onboard_time": 1731503780,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 38625,
+        "num": 478155,
+        "word": "孩子怎么张口闭口那咋了666",
+        "onboard_time": 1731503239,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1660906,
+        "num": 457454,
+        "word": "越南模仿李子柒的博主也停更三年",
+        "onboard_time": 1731499222,
+        "rank": 10,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 546879,
+        "num": 439402,
+        "word": "丁禹兮 柳大哥想亲吗",
+        "onboard_time": 1731500121,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425709,
+        "num": 425709,
+        "word": "个人购房不超140平契税降至1%",
+        "onboard_time": 1731491780,
+        "rank": 12,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 21521,
+        "num": 409665,
+        "word": "丁真再唱白云下行走",
+        "onboard_time": 1731504320,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35881,
+        "num": 398041,
+        "word": "男子手机号被陌生人绑亲情卡3年",
+        "onboard_time": 1731497062,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394909,
+        "num": 394909,
+        "word": "慕青时终于来了",
+        "onboard_time": 1731502700,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144341,
+        "num": 353618,
+        "word": "宋再临熟人发文",
+        "onboard_time": 1731500662,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4684,
+        "num": 344809,
+        "word": "李子柒把星空搬到了非遗盛典",
+        "onboard_time": 1731504379,
+        "rank": 17,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 13315,
+        "num": 341753,
+        "word": "一文看懂什么是名誉权",
+        "onboard_time": 1731503599,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341074,
+        "num": 341074,
+        "word": "李子柒身份证改名",
+        "onboard_time": 1731474380,
+        "rank": 19,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 341030,
+        "num": 341030,
+        "word": "3名强奸未成年人罪犯被执行死刑",
+        "onboard_time": 1731479239,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315360,
+        "num": 315360,
+        "word": "陈都灵 顺嘴的事",
+        "onboard_time": 1731498562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307736,
+        "num": 307736,
+        "word": "李玟姐姐回应李玟墓地杂草丛生",
+        "onboard_time": 1731489414,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285792,
+        "num": 285792,
+        "word": "胖东来珠宝员工年薪从未低于20万",
+        "onboard_time": 1731501261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242150,
+        "num": 242150,
+        "word": "小巷人家",
+        "onboard_time": 1731501619,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213925,
+        "num": 213925,
+        "word": "全红婵归队首要任务是减重",
+        "onboard_time": 1731500303,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213854,
+        "num": 213854,
+        "word": "李子柒非遗工作站成立了",
+        "onboard_time": 1731501261,
+        "rank": 26,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 204033,
+        "num": 204033,
+        "word": "永夜星河",
+        "onboard_time": 1731491720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184315,
+        "num": 202669,
+        "word": "鹿晗丁程鑫贺峻霖首映礼同框",
+        "onboard_time": 1731503541,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15569,
+        "num": 201640,
+        "word": "逛街接到幸运了",
+        "onboard_time": 1731502040,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201614,
+        "num": 201614,
+        "word": "拼豆",
+        "onboard_time": 1731503599,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200054,
+        "num": 200054,
+        "word": "张艺兴成为内娱李秀满的第N步",
+        "onboard_time": 1731503660,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186265,
+        "num": 186265,
+        "word": "12306回应女性列车员裙装改裤装建议",
+        "onboard_time": 1731483199,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185468,
+        "num": 185468,
+        "word": "虞书欣销冠底气",
+        "onboard_time": 1731496641,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184448,
+        "num": 184448,
+        "word": "鹿晗出席胜券在握首映",
+        "onboard_time": 1731500481,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169389,
+        "num": 169389,
+        "word": "美军分不清F35和歼35",
+        "onboard_time": 1731494959,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 164502,
+        "num": 164502,
+        "word": "魏大勋拍摄时脸被道具划伤",
+        "onboard_time": 1731492738,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155228,
+        "num": 155228,
+        "word": "李子柒三更",
+        "onboard_time": 1731474080,
+        "rank": 37,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 154201,
+        "num": 154201,
+        "word": "韩花滑女单头牌李海仁回应被指性侵",
+        "onboard_time": 1731502819,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147369,
+        "num": 147369,
+        "word": "孙颖莎王楚钦领衔微博网友喜爱运动员",
+        "onboard_time": 1731497240,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140035,
+        "num": 140035,
+        "word": "李子柒复出首秀来了",
+        "onboard_time": 1731501619,
+        "rank": 40,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 133738,
+        "num": 133738,
+        "word": "李雪健惠英红点亮金鸡",
+        "onboard_time": 1731503119,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131486,
+        "num": 131486,
+        "word": "刘宇宁称接受所有批评",
+        "onboard_time": 1731504200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128060,
+        "num": 128060,
+        "word": "孩子偷奶茶被发现母亲殴打女店员",
+        "onboard_time": 1731491478,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127240,
+        "num": 127240,
+        "word": "专家称9胞胎产妇或面临大月份流产",
+        "onboard_time": 1731489559,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123655,
+        "num": 123655,
+        "word": "赵露思听劝",
+        "onboard_time": 1731487279,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121645,
+        "num": 121645,
+        "word": "邓家佳黑丝御姐风",
+        "onboard_time": 1731502519,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129613,
+        "num": 121222,
+        "word": "刘宇宁直播",
+        "onboard_time": 1731500242,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120127,
+        "num": 120127,
+        "word": "张檬怀孕17周98斤",
+        "onboard_time": 1731474860,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119115,
+        "num": 119115,
+        "word": "吴宣仪想和程潇孟美岐出合体专辑",
+        "onboard_time": 1731497542,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
