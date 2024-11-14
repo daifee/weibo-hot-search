@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731566713842,
+  "endTime": 1731568883873,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1354409,
-      "num": 268550,
+      "num": 319291,
       "word": "李行亮指的是葛夕",
       "onboard_time": 1731564202,
       "rank": 10,
@@ -972,7 +972,7 @@
     },
     {
       "raw_hot": 981662,
-      "num": 1118405,
+      "num": 1155636,
       "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
       "onboard_time": 1731557182,
       "rank": 4,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1731304097,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 845941,
+      "num": 313710,
+      "word": "哈尔滨一田地内发现一具被焚尸体",
+      "onboard_time": 1731565821,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 839922,
@@ -1636,7 +1644,7 @@
     },
     {
       "raw_hot": 695465,
-      "num": 264870,
+      "num": 268514,
       "word": "孕妇误踩宠物犬被咬后终止妊娠",
       "onboard_time": 1731556103,
       "rank": 22,
@@ -1657,6 +1665,14 @@
       "onboard_time": 1731513080,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 684398,
+      "num": 684398,
+      "word": "紫金矿业回应被贩毒集团掠夺3吨黄金",
+      "onboard_time": 1731567681,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 680088,
@@ -2156,7 +2172,7 @@
     },
     {
       "raw_hot": 565033,
-      "num": 263961,
+      "num": 309809,
       "word": "张艺兴工作人员朋友圈",
       "onboard_time": 1731564142,
       "rank": 18,
@@ -2657,14 +2673,6 @@
       "onboard_time": 1731242540,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487374,
-      "num": 260908,
-      "word": "哈尔滨一田地内发现一具被焚尸体",
-      "onboard_time": 1731565821,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 484898,
@@ -3195,6 +3203,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 403172,
+      "num": 269541,
+      "word": "李子柒评论区 世界大和谐",
+      "onboard_time": 1731567262,
+      "rank": 20,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 403104,
       "num": 346799,
       "word": "男子足疗店消费万元醒后一脸懵",
@@ -3345,6 +3361,14 @@
       "onboard_time": 1731288917,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388007,
+      "num": 388007,
+      "word": "中国第二大县城小孩姐的日常",
+      "onboard_time": 1731566961,
+      "rank": 4,
+      "category": "正能量"
     },
     {
       "raw_hot": 386421,
@@ -3587,6 +3611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360613,
+      "num": 360613,
+      "word": "子期杀了子期",
+      "onboard_time": 1731562761,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360365,
       "num": 360365,
       "word": "邓超孙俪一家四口颜值",
@@ -3683,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349046,
+      "num": 349046,
+      "word": "李子柒熊猫蜀锦裙是自己缝的",
+      "onboard_time": 1731563241,
+      "rank": 27,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 348643,
       "num": 336605,
       "word": "飞机偶遇田曦薇",
@@ -3712,14 +3752,6 @@
       "word": "太阳星辰定档",
       "onboard_time": 1731382041,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 342591,
-      "num": 342591,
-      "word": "子期杀了子期",
-      "onboard_time": 1731562761,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -3953,6 +3985,14 @@
       "onboard_time": 1731416843,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 325684,
+      "num": 325684,
+      "word": "A股",
+      "onboard_time": 1731288318,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 323910,
@@ -4523,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273337,
+      "num": 273337,
+      "word": "黄圣依 我让你跟刘德华比了吗",
+      "onboard_time": 1731566961,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272442,
       "num": 272442,
       "word": "幼儿园是否从此变成了国家队",
@@ -4553,14 +4601,6 @@
       "onboard_time": 1731369739,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 270864,
-      "num": 314861,
-      "word": "A股",
-      "onboard_time": 1731288318,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 270403,
@@ -4915,6 +4955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 251418,
+      "num": 251418,
+      "word": "女子遭流浪狗拖走后分食",
+      "onboard_time": 1731568102,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 250074,
       "num": 362221,
       "word": "韩国警方租房监视素媛案原型罪犯",
@@ -4985,6 +5033,14 @@
       "onboard_time": 1731304938,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246938,
+      "num": 270123,
+      "word": "厦门今天含星量超标",
+      "onboard_time": 1731565701,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 246580,
@@ -5387,6 +5443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 228360,
+      "num": 228360,
+      "word": "JackeyLove和meiko携女友出游",
+      "onboard_time": 1731564081,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227776,
       "num": 227776,
       "word": "M1增速连续6月负增长后首次回升",
@@ -5473,6 +5537,14 @@
       "onboard_time": 1731234859,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223489,
+      "num": 223489,
+      "word": "虞书欣轻轻萌晕在场工作人员",
+      "onboard_time": 1731568280,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 223301,
@@ -5811,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211454,
-      "num": 211454,
-      "word": "李子柒熊猫蜀锦裙是自己缝的",
-      "onboard_time": 1731563241,
-      "rank": 27,
-      "category": "网红,美食"
-    },
-    {
       "raw_hot": 211435,
       "num": 211435,
       "word": "华晨宇在粉丝身后排队买饭",
@@ -5961,6 +6025,14 @@
       "onboard_time": 1731466039,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208487,
+      "num": 208487,
+      "word": "物业私停电梯孕妇未及时送医致流产",
+      "onboard_time": 1731568280,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 208262,
@@ -6339,14 +6411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199745,
-      "num": 199745,
-      "word": "JackeyLove和meiko携女友出游",
-      "onboard_time": 1731564081,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199342,
       "num": 199342,
       "word": "栋哲筱婷好嗑",
@@ -6465,6 +6529,14 @@
       "onboard_time": 1731318498,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197276,
+      "num": 197276,
+      "word": "央视仍不转播国足的比赛",
+      "onboard_time": 1731567020,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 197201,
@@ -6641,6 +6713,14 @@
       "onboard_time": 1731320000,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193449,
+      "num": 257667,
+      "word": "永夜星河拼豆vs婚礼胸花",
+      "onboard_time": 1731568341,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 193327,
@@ -6963,14 +7043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186585,
-      "num": 229524,
-      "word": "厦门今天含星量超标",
-      "onboard_time": 1731565701,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186348,
       "num": 186348,
       "word": "豆瓣崩了",
@@ -7017,6 +7089,14 @@
       "onboard_time": 1731210857,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185204,
+      "num": 269459,
+      "word": "中国人爆改沙漠有亿点惊艳",
+      "onboard_time": 1731557362,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 184498,
@@ -7699,6 +7779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171029,
+      "num": 263093,
+      "word": "朱志鑫打耳骨钉了",
+      "onboard_time": 1731568701,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170869,
       "num": 170869,
       "word": "石破茂当选首相艰难到30年一见",
@@ -8161,6 +8249,14 @@
       "onboard_time": 1731324499,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 162518,
+      "num": 162518,
+      "word": "比特币超25万人爆仓",
+      "onboard_time": 1731568341,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 162507,
@@ -9403,14 +9499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140291,
-      "num": 269459,
-      "word": "中国人爆改沙漠有亿点惊艳",
-      "onboard_time": 1731557362,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 140260,
       "num": 140260,
       "word": "俄传奇试飞员驾驶苏-57炫高难度动作",
@@ -9601,6 +9689,14 @@
       "onboard_time": 1731332900,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137133,
+      "num": 137133,
+      "word": "王鹤棣 欢迎来我们的party",
+      "onboard_time": 1731568701,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 137038,
@@ -9969,6 +10065,14 @@
       "onboard_time": 1731278415,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129492,
+      "num": 129492,
+      "word": "鸣潮椿",
+      "onboard_time": 1731567681,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128854,
@@ -11787,6 +11891,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 74700,
+      "num": 255530,
+      "word": "家属称孕妇送医遇电梯停运后流产",
+      "onboard_time": 1731566421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74523,
       "num": 407567,
       "word": "老师狂扇学生巴掌开除不是终点",
@@ -12451,6 +12563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58733,
+      "num": 259730,
+      "word": "小草包解释不打训练赛",
+      "onboard_time": 1731567800,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58524,
       "num": 270941,
       "word": "挑杯决赛首迎BO9赛制",
@@ -12545,6 +12665,14 @@
       "onboard_time": 1731494060,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 56572,
+      "num": 252089,
+      "word": "黄子韬徐艺洋观战湖人",
+      "onboard_time": 1731567800,
+      "rank": 30,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 56540,
@@ -12684,7 +12812,7 @@
     },
     {
       "raw_hot": 54091,
-      "num": 360084,
+      "num": 573637,
       "word": "我国成功发射海洋盐度探测卫星",
       "onboard_time": 1731543920,
       "rank": 8,
@@ -12937,6 +13065,14 @@
       "onboard_time": 1731430576,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48693,
+      "num": 321851,
+      "word": "被糖尿病盯上的年轻人",
+      "onboard_time": 1731568040,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48389,
@@ -13355,6 +13491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41026,
+      "num": 305356,
+      "word": "全红婵说最不喜欢拿我跟别人对比",
+      "onboard_time": 1731567921,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40812,
       "num": 437738,
       "word": "天猫双11冬装开始5折了",
@@ -13595,6 +13739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37181,
+      "num": 253242,
+      "word": "A股缩量下跌失守3400点",
+      "onboard_time": 1731568401,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 37173,
       "num": 497564,
       "word": "李子柒回归爆火是全网对清流的期待",
@@ -13705,14 +13857,6 @@
       "onboard_time": 1731393318,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34847,
-      "num": 221192,
-      "word": "家属称孕妇送医遇电梯停运后流产",
-      "onboard_time": 1731566421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34767,
@@ -13987,6 +14131,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 31448,
+      "num": 254201,
+      "word": "张碧晨看大梦归离",
+      "onboard_time": 1731566961,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31440,
       "num": 217574,
       "word": "何小鹏称P7+刚过上好日子求放过",
@@ -14204,7 +14356,7 @@
     },
     {
       "raw_hot": 28055,
-      "num": 207670,
+      "num": 255777,
       "word": "王俊凯淡淡的幽默感",
       "onboard_time": 1731564261,
       "rank": 25,
@@ -15025,6 +15177,14 @@
       "onboard_time": 1731529151,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18441,
+      "num": 302764,
+      "word": "微短剧是短视频下一个风口吗",
+      "onboard_time": 1731568280,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 18277,
