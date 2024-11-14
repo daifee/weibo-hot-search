@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731619293745,
+  "endTime": 1731620181629,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -427,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65912,
+      "num": 65912,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 65627,
       "num": 1234978,
       "word": "张玉宁谈最后的进球",
@@ -465,14 +473,6 @@
       "onboard_time": 1731601400,
       "rank": 25,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 50359,
-      "num": 50359,
-      "word": "除夕不用请假了你打算回家还是旅游",
-      "onboard_time": 1731616390,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 49061,
@@ -651,8 +651,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12570,
-      "num": 21694,
+      "raw_hot": 12843,
+      "num": 21775,
       "word": "为都一样制作MV",
       "onboard_time": 1731609972,
       "rank": 28,
@@ -691,19 +691,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10052,
+      "num": 36618,
+      "word": "让中秘友好之船扬帆远航",
+      "onboard_time": 1731618490,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9994,
       "num": 21601,
       "word": "三体等中国影视作品将在秘鲁展播",
       "onboard_time": 1731618911,
       "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9279,
-      "num": 19141,
-      "word": "让中秘友好之船扬帆远航",
-      "onboard_time": 1731618490,
-      "rank": 35,
       "category": "国内时政"
     },
     {
