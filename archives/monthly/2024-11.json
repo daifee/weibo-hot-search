@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731590987106,
+  "endTime": 1731591675437,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -6235,6 +6235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642559,
+      "num": 642559,
+      "word": "大理公安局局长主动投案",
+      "onboard_time": 1731588201,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 641613,
       "num": 866934,
       "word": "中铁七局相关负责人回应记者遇袭",
@@ -7209,14 +7217,6 @@
       "onboard_time": 1730811681,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579094,
-      "num": 579094,
-      "word": "大理公安局局长主动投案",
-      "onboard_time": 1731588201,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 578209,
@@ -13627,6 +13627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296262,
+      "num": 638105,
+      "word": "第37届金鸡奖获奖预测",
+      "onboard_time": 1731586521,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296021,
       "num": 488723,
       "word": "网友建议女性列车员裙装改裤装",
@@ -14489,14 +14497,6 @@
       "onboard_time": 1731205457,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274648,
-      "num": 638105,
-      "word": "第37届金鸡奖获奖预测",
-      "onboard_time": 1731586521,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 274386,
@@ -15827,6 +15827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249157,
+      "num": 249157,
+      "word": "中铁七局发布新华社记者遇袭声明",
+      "onboard_time": 1731590361,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 248979,
       "num": 288496,
       "word": "虞书欣工作室",
@@ -15945,6 +15953,14 @@
       "onboard_time": 1730850380,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247006,
+      "num": 507191,
+      "word": "林一沈月 人机cp",
+      "onboard_time": 1731590062,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 246974,
@@ -16665,6 +16681,14 @@
       "onboard_time": 1731068239,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233173,
+      "num": 508907,
+      "word": "陈梦发表获奖感言",
+      "onboard_time": 1731590242,
+      "rank": 11,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 232955,
@@ -18355,6 +18379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210414,
+      "num": 210414,
+      "word": "气胸",
+      "onboard_time": 1731590962,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210377,
       "num": 210377,
       "word": "花少坦桑尼亚站",
@@ -19187,6 +19219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203716,
+      "num": 203716,
+      "word": "年度杰出运动员",
+      "onboard_time": 1731591140,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203699,
       "num": 203699,
       "word": "加沙孩子睡在妈妈坟墓上",
@@ -19899,6 +19939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199050,
+      "num": 509365,
+      "word": "国足vs巴林",
+      "onboard_time": 1731590901,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198997,
       "num": 198997,
       "word": "永夜星河男二女二先亲上了",
@@ -20273,6 +20321,14 @@
       "onboard_time": 1731510801,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196833,
+      "num": 196833,
+      "word": "教授说李子柒是在和全世界唠家常",
+      "onboard_time": 1731591561,
+      "rank": 41,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 196805,
@@ -21673,14 +21729,6 @@
       "onboard_time": 1730901384,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186917,
-      "num": 186917,
-      "word": "中铁七局发布新华社记者遇袭声明",
-      "onboard_time": 1731590361,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 186875,
@@ -23643,6 +23691,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 172374,
+      "num": 172374,
+      "word": "凌妙妙主动抱慕声",
+      "onboard_time": 1731590482,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172354,
       "num": 220779,
       "word": "RED女团Afterlife舞台好燃",
@@ -24947,6 +25003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163485,
+      "num": 505621,
+      "word": "年度杰出运动员郑钦文",
+      "onboard_time": 1731591080,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163422,
       "num": 163422,
       "word": "北京地铁10号线",
@@ -25275,14 +25339,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 161516,
-      "num": 161516,
-      "word": "凌妙妙主动抱慕声",
-      "onboard_time": 1731590482,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161361,
       "num": 161361,
       "word": "权志龙居家生活照",
@@ -25564,7 +25620,7 @@
     },
     {
       "raw_hot": 159637,
-      "num": 143880,
+      "num": 150702,
       "word": "慕声的身世",
       "onboard_time": 1731590482,
       "rank": 48,
@@ -25931,6 +25987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157471,
+      "num": 506397,
+      "word": "卓沅两周年晒十个勤天合照",
+      "onboard_time": 1731590242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157388,
       "num": 157388,
       "word": "河南方城4名公职人员在车祸中死亡",
@@ -26131,12 +26195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155987,
-      "num": 506397,
-      "word": "卓沅两周年晒十个勤天合照",
-      "onboard_time": 1731590242,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 155998,
+      "num": 155998,
+      "word": "退货",
+      "onboard_time": 1731591321,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 155948,
@@ -26291,6 +26355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154963,
+      "num": 154963,
+      "word": "伞兵年度瞩目电竞选手",
+      "onboard_time": 1731591622,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154952,
       "num": 154952,
       "word": "劳斯莱斯女车主不要货车司机赔偿",
@@ -26385,6 +26457,14 @@
       "onboard_time": 1731401601,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 154348,
+      "num": 154348,
+      "word": "换乘爱人",
+      "onboard_time": 1731591561,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 154294,
@@ -28515,14 +28595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141123,
-      "num": 141123,
-      "word": "气胸",
-      "onboard_time": 1731590962,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141025,
       "num": 271607,
       "word": "永夜星河何首乌对骂板蓝根",
@@ -28705,6 +28777,14 @@
       "onboard_time": 1731283939,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 139992,
+      "num": 451607,
+      "word": "林高远发言好感人",
+      "onboard_time": 1731591021,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 139892,
@@ -30001,14 +30081,6 @@
       "onboard_time": 1731561622,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 131245,
-      "num": 507191,
-      "word": "林一沈月 人机cp",
-      "onboard_time": 1731590062,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 131204,
@@ -32137,14 +32209,6 @@
       "onboard_time": 1731044301,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 115503,
-      "num": 508907,
-      "word": "陈梦发表获奖感言",
-      "onboard_time": 1731590242,
-      "rank": 11,
-      "category": "电竞,体育"
     },
     {
       "raw_hot": 115461,
@@ -34531,14 +34595,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 91874,
-      "num": 509365,
-      "word": "国足vs巴林",
-      "onboard_time": 1731590901,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91390,
       "num": 142923,
       "word": "杨紫家业围读剧本",
@@ -34689,6 +34745,14 @@
       "onboard_time": 1731034160,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89481,
+      "num": 435756,
+      "word": "桃晚安新锐电竞选手",
+      "onboard_time": 1731591441,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 89412,
@@ -35731,6 +35795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75153,
+      "num": 453356,
+      "word": "全红婵跳水队唯一指定团宠",
+      "onboard_time": 1731591441,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74700,
       "num": 255530,
       "word": "家属称孕妇送医遇电梯停运后流产",
@@ -36041,6 +36113,14 @@
       "onboard_time": 1731046880,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70650,
+      "num": 372845,
+      "word": "白夜1剧情脉络上线",
+      "onboard_time": 1731590962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 70580,
@@ -37339,6 +37419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58796,
+      "num": 508576,
+      "word": "太好了是西装33",
+      "onboard_time": 1731590901,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58733,
       "num": 259730,
       "word": "小草包解释不打训练赛",
@@ -38011,6 +38099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53132,
+      "num": 507953,
+      "word": "遭母亲男友砍伤女孩经鉴定属轻微伤",
+      "onboard_time": 1731589881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53041,
       "num": 343589,
       "word": "张雨霏好大大方方一女孩",
@@ -38097,6 +38193,14 @@
       "onboard_time": 1730865804,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52685,
+      "num": 506775,
+      "word": "女孩遭母亲男友殴打家长发声",
+      "onboard_time": 1731589702,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52654,
@@ -38449,14 +38553,6 @@
       "onboard_time": 1731231139,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49877,
-      "num": 507953,
-      "word": "遭母亲男友砍伤女孩经鉴定属轻微伤",
-      "onboard_time": 1731589881,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49872,
@@ -38891,14 +38987,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 46296,
-      "num": 372845,
-      "word": "白夜1剧情脉络上线",
-      "onboard_time": 1731590962,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46130,
       "num": 427140,
       "word": "凑够满减付尾款发现比直接买还贵",
@@ -39089,14 +39177,6 @@
       "onboard_time": 1730437939,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44751,
-      "num": 506775,
-      "word": "女孩遭母亲男友殴打家长发声",
-      "onboard_time": 1731589702,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44737,
@@ -39785,6 +39865,14 @@
       "onboard_time": 1730777119,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 39949,
+      "num": 580443,
+      "word": "秘鲁人举剪刀跳舞比赛10小时",
+      "onboard_time": 1731590002,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39895,
@@ -41083,6 +41171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33301,
+      "num": 509482,
+      "word": "废弃油脂回收绝对由不得乱来",
+      "onboard_time": 1731589881,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 33289,
       "num": 81999,
       "word": "王曼昱vs钱天一",
@@ -41257,14 +41353,6 @@
       "onboard_time": 1730711119,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32236,
-      "num": 580443,
-      "word": "秘鲁人举剪刀跳舞比赛10小时",
-      "onboard_time": 1731590002,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32235,
@@ -41691,14 +41779,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 30173,
-      "num": 509482,
-      "word": "废弃油脂回收绝对由不得乱来",
-      "onboard_time": 1731589881,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 30171,
       "num": 30171,
       "word": "郑钦文2比0克雷吉茨科娃",
@@ -41843,6 +41923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29217,
+      "num": 424217,
+      "word": "黄雅琼说和刘雨辰在球场上更默契",
+      "onboard_time": 1731591021,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29215,
       "num": 413009,
       "word": "这么多明星真的很开门",
@@ -41897,14 +41985,6 @@
       "onboard_time": 1730703078,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28980,
-      "num": 508576,
-      "word": "太好了是西装33",
-      "onboard_time": 1731590901,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 28839,
@@ -45059,6 +45139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14201,
+      "num": 510693,
+      "word": "12K极清摄制看运油20短距降落",
+      "onboard_time": 1731589881,
+      "rank": 6,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 14160,
       "num": 346577,
       "word": "丝芭与沈梦瑶苏杉杉多人有纠纷",
@@ -45417,14 +45505,6 @@
       "onboard_time": 1730805381,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12163,
-      "num": 510693,
-      "word": "12K极清摄制看运油20短距降落",
-      "onboard_time": 1731589881,
-      "rank": 6,
-      "category": "正能量"
     },
     {
       "raw_hot": 12153,

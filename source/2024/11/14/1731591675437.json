@@ -1,0 +1,410 @@
+{
+  "runTime": 1731591675437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749863,
+        "num": 1749863,
+        "word": "雷军承认车间睡觉照是摆拍",
+        "onboard_time": 1731586940,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 642559,
+        "num": 642559,
+        "word": "大理公安局局长主动投案",
+        "onboard_time": 1731588201,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 39949,
+        "num": 576323,
+        "word": "秘鲁人举剪刀跳舞比赛10小时",
+        "onboard_time": 1731590002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 540186,
+        "num": 540186,
+        "word": "中铁七局相关负责人回应记者遇袭",
+        "onboard_time": 1731585679,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 163485,
+        "num": 505621,
+        "word": "年度杰出运动员郑钦文",
+        "onboard_time": 1731591080,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502208,
+        "num": 502208,
+        "word": "没人选麦琳",
+        "onboard_time": 1731585380,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457170,
+        "num": 457170,
+        "word": "妙妙失忆忘了子期",
+        "onboard_time": 1731584120,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75153,
+        "num": 453356,
+        "word": "全红婵跳水队唯一指定团宠",
+        "onboard_time": 1731591441,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139992,
+        "num": 451607,
+        "word": "林高远发言好感人",
+        "onboard_time": 1731591021,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33301,
+        "num": 447248,
+        "word": "废弃油脂回收绝对由不得乱来",
+        "onboard_time": 1731589881,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 199050,
+        "num": 439215,
+        "word": "国足vs巴林",
+        "onboard_time": 1731590901,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89481,
+        "num": 435756,
+        "word": "桃晚安新锐电竞选手",
+        "onboard_time": 1731591441,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58796,
+        "num": 429291,
+        "word": "太好了是西装33",
+        "onboard_time": 1731590901,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29217,
+        "num": 424217,
+        "word": "黄雅琼说和刘雨辰在球场上更默契",
+        "onboard_time": 1731591021,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53132,
+        "num": 422667,
+        "word": "遭母亲男友砍伤女孩经鉴定属轻微伤",
+        "onboard_time": 1731589881,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14201,
+        "num": 419073,
+        "word": "12K极清摄制看运油20短距降落",
+        "onboard_time": 1731589881,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 581387,
+        "num": 414349,
+        "word": "上海交大偶遇关晓彤",
+        "onboard_time": 1731584841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520545,
+        "num": 409460,
+        "word": "最高检对珠海驾车冲撞行人案表态",
+        "onboard_time": 1731585380,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 405181,
+        "num": 405181,
+        "word": "刘忻把高定长裙当外套穿",
+        "onboard_time": 1731587121,
+        "rank": 18,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 157471,
+        "num": 395847,
+        "word": "卓沅两周年晒十个勤天合照",
+        "onboard_time": 1731590242,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795652,
+        "num": 377087,
+        "word": "李行亮说离婚会跟麦琳争孩子",
+        "onboard_time": 1731580580,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466525,
+        "num": 372015,
+        "word": "25岁小伙长期熬夜确诊心衰",
+        "onboard_time": 1731583221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442078,
+        "num": 360602,
+        "word": "左航将缺席集体外务活动",
+        "onboard_time": 1731588682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27513,
+        "num": 333695,
+        "word": "iQOO13亮相竞燃之夜",
+        "onboard_time": 1731588381,
+        "rank": 23,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 331304,
+        "num": 331304,
+        "word": "炒股4年赚5千万00后直言最近亏麻了",
+        "onboard_time": 1731581901,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297849,
+        "num": 297849,
+        "word": "奶皮子",
+        "onboard_time": 1731585080,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296262,
+        "num": 296262,
+        "word": "第37届金鸡奖获奖预测",
+        "onboard_time": 1731586521,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275400,
+        "num": 275400,
+        "word": "荣梓杉回应负面评论",
+        "onboard_time": 1731585440,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274144,
+        "num": 274144,
+        "word": "原来下肢是人体的血糖仪",
+        "onboard_time": 1731577881,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70650,
+        "num": 260708,
+        "word": "白夜1剧情脉络上线",
+        "onboard_time": 1731590962,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257333,
+        "num": 257333,
+        "word": "丁禹兮工作室",
+        "onboard_time": 1731580461,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255763,
+        "num": 255763,
+        "word": "考公人在自习室看到这正确率心死了",
+        "onboard_time": 1731588981,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249157,
+        "num": 249157,
+        "word": "中铁七局发布新华社记者遇袭声明",
+        "onboard_time": 1731590361,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 247006,
+        "num": 247006,
+        "word": "林一沈月 人机cp",
+        "onboard_time": 1731590062,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233173,
+        "num": 233173,
+        "word": "陈梦发表获奖感言",
+        "onboard_time": 1731590242,
+        "rank": 34,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 210414,
+        "num": 210414,
+        "word": "气胸",
+        "onboard_time": 1731590962,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52685,
+        "num": 206453,
+        "word": "女孩遭母亲男友殴打家长发声",
+        "onboard_time": 1731589702,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205920,
+        "num": 205920,
+        "word": "射雕",
+        "onboard_time": 1731584601,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205228,
+        "num": 205228,
+        "word": "被泼开水女童父亲称民警要求道歉",
+        "onboard_time": 1731574941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203763,
+        "num": 203763,
+        "word": "再见爱人 油管",
+        "onboard_time": 1731589281,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203716,
+        "num": 203716,
+        "word": "年度杰出运动员",
+        "onboard_time": 1731591140,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196833,
+        "num": 196833,
+        "word": "教授说李子柒是在和全世界唠家常",
+        "onboard_time": 1731591561,
+        "rank": 41,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 187735,
+        "num": 187735,
+        "word": "从流量到演技王一博能否双赢",
+        "onboard_time": 1731578960,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181890,
+        "num": 181890,
+        "word": "国足离小组第2仅差3分",
+        "onboard_time": 1731585499,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172374,
+        "num": 172374,
+        "word": "凌妙妙主动抱慕声",
+        "onboard_time": 1731590482,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155998,
+        "num": 155998,
+        "word": "退货",
+        "onboard_time": 1731591321,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154963,
+        "num": 154963,
+        "word": "伞兵年度瞩目电竞选手",
+        "onboard_time": 1731591622,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154348,
+        "num": 154348,
+        "word": "换乘爱人",
+        "onboard_time": 1731591561,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144603,
+        "num": 150702,
+        "word": "慕声的身世",
+        "onboard_time": 1731590482,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147697,
+        "num": 147697,
+        "word": "国足vs巴林首发",
+        "onboard_time": 1731587241,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席拉美之行#"
+    }
+  }
+}
