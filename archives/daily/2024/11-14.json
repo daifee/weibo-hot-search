@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731579866500,
+  "endTime": 1731580949477,
   "band_list": [
     {
       "raw_hot": 1777235,
@@ -16,6 +16,14 @@
       "word": "怀上九胞胎女子决定减胎",
       "onboard_time": 1731574759,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1586626,
+      "num": 248578,
+      "word": "女子撞见丈夫出轨母亲劝架去世",
+      "onboard_time": 1731579680,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 846847,
+      "num": 1135495,
+      "word": "阿信演唱会破音唱功再遭质疑",
+      "onboard_time": 1731572601,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 823113,
       "num": 417522,
       "word": "越南模仿李子柒的博主也停更三年",
@@ -209,14 +225,6 @@
       "onboard_time": 1731513080,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 648551,
-      "num": 1103768,
-      "word": "阿信演唱会破音唱功再遭质疑",
-      "onboard_time": 1731572601,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 647217,
@@ -355,6 +363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 524623,
+      "num": 278931,
+      "word": "虞书欣我容易我容易",
+      "onboard_time": 1731576981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519087,
       "num": 469497,
       "word": "姿态沉默下播",
@@ -417,14 +433,6 @@
       "onboard_time": 1731568102,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 469955,
-      "num": 278931,
-      "word": "虞书欣我容易我容易",
-      "onboard_time": 1731576981,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 467522,
@@ -547,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 382211,
+      "num": 382211,
+      "word": "金价",
+      "onboard_time": 1731574520,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 381417,
       "num": 381417,
       "word": "2025高校毕业生预计1222万人",
@@ -587,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366807,
-      "num": 366807,
-      "word": "金价",
-      "onboard_time": 1731574520,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 360613,
       "num": 360613,
       "word": "子期杀了子期",
@@ -609,6 +617,14 @@
       "onboard_time": 1731563241,
       "rank": 27,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 333625,
+      "num": 247435,
+      "word": "李行亮说离婚会跟麦琳争孩子",
+      "onboard_time": 1731580580,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 332155,
@@ -641,6 +657,14 @@
       "onboard_time": 1731552679,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 322808,
+      "num": 322808,
+      "word": "再见爱人太legend了",
+      "onboard_time": 1731576080,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 313760,
@@ -819,6 +843,14 @@
       "category": "母婴育儿,健康医疗"
     },
     {
+      "raw_hot": 248646,
+      "num": 275487,
+      "word": "永夜星河",
+      "onboard_time": 1731491720,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247545,
       "num": 247545,
       "word": "违法女主播从不露脸误传自拍照被抓",
@@ -852,7 +884,7 @@
     },
     {
       "raw_hot": 243410,
-      "num": 243410,
+      "num": 245494,
       "word": "中国科协回应16岁中学生获正高职称",
       "onboard_time": 1731570679,
       "rank": 38,
@@ -883,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236115,
+      "num": 236115,
+      "word": "黄圣依开始搞事业了",
+      "onboard_time": 1731579980,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231972,
       "num": 231972,
       "word": "丁禹兮谈和虞书欣二搭感受",
@@ -905,14 +945,6 @@
       "onboard_time": 1731564081,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 228252,
-      "num": 316167,
-      "word": "再见爱人太legend了",
-      "onboard_time": 1731576080,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 227810,
@@ -945,14 +977,6 @@
       "onboard_time": 1731555262,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224726,
-      "num": 224726,
-      "word": "女子撞见丈夫出轨母亲劝架去世",
-      "onboard_time": 1731579680,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223489,
@@ -1067,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210058,
-      "num": 275487,
-      "word": "永夜星河",
-      "onboard_time": 1731491720,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206795,
       "num": 221362,
       "word": "肖战都一样MV",
@@ -1169,6 +1185,22 @@
       "onboard_time": 1731568341,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192064,
+      "num": 192064,
+      "word": "丁禹兮工作室",
+      "onboard_time": 1731580461,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191559,
+      "num": 277721,
+      "word": "两名调查记者采访时遇袭手机被抢",
+      "onboard_time": 1731578662,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191076,
@@ -1323,20 +1355,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175070,
+      "num": 175070,
+      "word": "Ning严以待人宽以待己",
+      "onboard_time": 1731579141,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174635,
       "num": 174635,
       "word": "腾讯总裁回应游戏部门调整",
       "onboard_time": 1731556404,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174098,
-      "num": 174098,
-      "word": "Ning严以待人宽以待己",
-      "onboard_time": 1731579141,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 172176,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1731560424,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168737,
+      "num": 168737,
+      "word": "女子遭男友施暴满脸鲜血跑进便利店",
+      "onboard_time": 1731578181,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168593,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1731479239,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157966,
-      "num": 157966,
-      "word": "女子遭男友施暴满脸鲜血跑进便利店",
-      "onboard_time": 1731578181,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156429,
@@ -1795,20 +1827,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124531,
-      "num": 277721,
-      "word": "两名调查记者采访时遇袭手机被抢",
-      "onboard_time": 1731578662,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123884,
       "num": 332584,
       "word": "九尾帅出新高度",
       "onboard_time": 1731572840,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121273,
+      "num": 278650,
+      "word": "从流量到演技王一博能否双赢",
+      "onboard_time": 1731578960,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 120850,
@@ -2049,6 +2081,14 @@
       "onboard_time": 1731549498,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 90739,
+      "num": 248085,
+      "word": "黄子弘凡沉溺感封面预告",
+      "onboard_time": 1731579921,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 90091,
@@ -2299,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64091,
+      "num": 279749,
+      "word": "公司回应浪胃仙创始人被判刑",
+      "onboard_time": 1731578960,
+      "rank": 8,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 63330,
       "num": 304810,
       "word": "Fly狼尾造型",
@@ -2321,6 +2369,14 @@
       "onboard_time": 1731574941,
       "rank": 42,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 60864,
+      "num": 247943,
+      "word": "东北雨姐所属诚信mcn已搜不到",
+      "onboard_time": 1731580819,
+      "rank": 22,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 60260,
@@ -2395,14 +2451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53674,
-      "num": 278650,
-      "word": "从流量到演技王一博能否双赢",
-      "onboard_time": 1731578960,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51417,
       "num": 55415,
       "word": "小巷人家",
@@ -2475,6 +2523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44374,
+      "num": 278497,
+      "word": "iQOO13性能之光闪耀全场",
+      "onboard_time": 1731578900,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44082,
       "num": 391821,
       "word": "韦世豪身穿国足10号",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1731567921,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40658,
-      "num": 279749,
-      "word": "公司回应浪胃仙创始人被判刑",
-      "onboard_time": 1731578960,
-      "rank": 8,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 39108,
@@ -2667,6 +2715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 33317,
+      "num": 277260,
+      "word": "粮库科长公款炒股获利8万亏58万",
+      "onboard_time": 1731579021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32817,
       "num": 188466,
       "word": "国足主帅说带着雄心来到巴林",
@@ -2675,20 +2731,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31855,
-      "num": 278497,
-      "word": "iQOO13性能之光闪耀全场",
-      "onboard_time": 1731578900,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 31697,
       "num": 347273,
       "word": "肤感不佳的面霜盘点",
       "onboard_time": 1731574820,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 31560,
+      "num": 248344,
+      "word": "在航展上撸到了赛博狗",
+      "onboard_time": 1731579921,
+      "rank": 15,
+      "category": "军事"
     },
     {
       "raw_hot": 31448,
@@ -2707,20 +2763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30541,
+      "num": 279625,
+      "word": "扫码领礼物背后有什么风险",
+      "onboard_time": 1731578900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30285,
       "num": 30285,
       "word": "秘鲁是中国在太平洋对岸的邻居",
       "onboard_time": 1731520453,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29997,
-      "num": 277260,
-      "word": "粮库科长公款炒股获利8万亏58万",
-      "onboard_time": 1731579021,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29122,
@@ -2745,6 +2801,14 @@
       "onboard_time": 1731552737,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 28066,
+      "num": 277450,
+      "word": "机器狼抓娃娃比我手稳",
+      "onboard_time": 1731579560,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 28055,
@@ -2779,6 +2843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26825,
+      "num": 247614,
+      "word": "刘雨辰吐槽黄雅琼拍照技术",
+      "onboard_time": 1731579980,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25826,
       "num": 71627,
       "word": "376斤大铜牛历经千年仍闪闪发光",
@@ -2811,6 +2883,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 22901,
+      "num": 247665,
+      "word": "华天红毯优雅亮相",
+      "onboard_time": 1731580341,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21784,
       "num": 302764,
       "word": "微短剧是短视频下一个风口吗",
@@ -2820,7 +2900,7 @@
     },
     {
       "raw_hot": 21736,
-      "num": 185272,
+      "num": 242596,
       "word": "竞燃之夜今年又被iQOO包圆了",
       "onboard_time": 1731578900,
       "rank": 39,
@@ -2907,6 +2987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18721,
+      "num": 247561,
+      "word": "王俊凯表情包小天才",
+      "onboard_time": 1731579801,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18506,
       "num": 29973,
       "word": "贺峻霖胜券在握首映饭拍",
@@ -2963,14 +3051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14887,
-      "num": 279625,
-      "word": "扫码领礼物背后有什么风险",
-      "onboard_time": 1731578900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14834,
       "num": 29391,
       "word": "中国传统技艺太惊艳了",
@@ -2985,14 +3065,6 @@
       "onboard_time": 1731564560,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 14507,
-      "num": 130560,
-      "word": "王俊凯表情包小天才",
-      "onboard_time": 1731579801,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13860,
@@ -3075,14 +3147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11183,
-      "num": 277450,
-      "word": "机器狼抓娃娃比我手稳",
-      "onboard_time": 1731579560,
-      "rank": 18,
-      "category": "军事"
-    },
-    {
       "raw_hot": 10892,
       "num": 262836,
       "word": "人生92岁她在豆瓣杀出8.4的高分",
@@ -3123,6 +3187,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 9981,
+      "num": 251300,
+      "word": "官方通报女童被泼热水后又遭恐吓",
+      "onboard_time": 1731580640,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 8961,
       "num": 566579,
       "word": "一组图了解秘鲁钱凯港",
@@ -3159,6 +3231,9 @@
     },
     {
       "word": "#习近平主席送出的这件国礼饱含深意#"
+    },
+    {
+      "word": "#习近平在秘鲁媒体发表署名文章#"
     }
   ]
 }
