@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731609896415,
+  "endTime": 1731611906449,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -411,6 +411,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 76289,
+      "num": 76289,
+      "word": "男子持刀砍伤女友女儿被拘10日",
+      "onboard_time": 1731607633,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 65627,
       "num": 1234978,
       "word": "张玉宁谈最后的进球",
@@ -433,14 +441,6 @@
       "onboard_time": 1731604634,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60647,
-      "num": 53261,
-      "word": "男子持刀砍伤女友女儿被拘10日",
-      "onboard_time": 1731607633,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 56662,
@@ -499,20 +499,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43875,
+      "num": 38141,
+      "word": "葛夕是天使",
+      "onboard_time": 1731606433,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42561,
       "num": 170935,
       "word": "62岁的博格丹飞过62种机型",
       "onboard_time": 1731602537,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 37800,
-      "num": 37800,
-      "word": "葛夕是天使",
-      "onboard_time": 1731606433,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 34088,
@@ -595,6 +595,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11623,
+      "num": 26886,
+      "word": "韩国高考听力时段全境暂停飞机起降",
+      "onboard_time": 1731611592,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11343,
+      "num": 26308,
+      "word": "中国海警位中国黄岩岛领海执法巡查",
+      "onboard_time": 1731611171,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10853,
+      "num": 26467,
+      "word": "96岁老兵捐款已达80多万",
+      "onboard_time": 1731610031,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 10344,
       "num": 80042,
       "word": "楠得有空",
@@ -617,6 +641,14 @@
       "onboard_time": 1731589521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 5251,
+      "num": 28611,
+      "word": "金素恩发文悼念宋再临",
+      "onboard_time": 1731611651,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 5179,

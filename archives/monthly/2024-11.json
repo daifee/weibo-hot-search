@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731609896415,
+  "endTime": 1731611906449,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -36155,6 +36155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76289,
+      "num": 76289,
+      "word": "男子持刀砍伤女友女儿被拘10日",
+      "onboard_time": 1731607633,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 76249,
       "num": 255756,
       "word": "国足若输给巴林晋级希望渺茫",
@@ -37745,14 +37753,6 @@
       "onboard_time": 1730464759,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60647,
-      "num": 53261,
-      "word": "男子持刀砍伤女友女儿被拘10日",
-      "onboard_time": 1731607633,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 60596,
@@ -39907,6 +39907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43875,
+      "num": 38141,
+      "word": "葛夕是天使",
+      "onboard_time": 1731606433,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43802,
       "num": 318675,
       "word": "直播带货工厂直发有多少是真的",
@@ -40881,14 +40889,6 @@
       "onboard_time": 1730386640,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37800,
-      "num": 37800,
-      "word": "葛夕是天使",
-      "onboard_time": 1731606433,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 37779,
@@ -46355,6 +46355,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 11623,
+      "num": 26886,
+      "word": "韩国高考听力时段全境暂停飞机起降",
+      "onboard_time": 1731611592,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 11579,
       "num": 214419,
       "word": "人生建议一定要去趟瑞士",
@@ -46393,6 +46401,14 @@
       "onboard_time": 1730577793,
       "rank": 20,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 11343,
+      "num": 26308,
+      "word": "中国海警位中国黄岩岛领海执法巡查",
+      "onboard_time": 1731611171,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11216,
@@ -46457,6 +46473,14 @@
       "onboard_time": 1731565520,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10853,
+      "num": 26467,
+      "word": "96岁老兵捐款已达80多万",
+      "onboard_time": 1731610031,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 10778,
@@ -46809,6 +46833,14 @@
       "onboard_time": 1731589521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 5251,
+      "num": 28611,
+      "word": "金素恩发文悼念宋再临",
+      "onboard_time": 1731611651,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 4575,
