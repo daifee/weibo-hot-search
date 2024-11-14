@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731609074976,
+  "endTime": 1731609896415,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -14211,6 +14211,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 60647,
+      "num": 53261,
+      "word": "男子持刀砍伤女友女儿被拘10日",
+      "onboard_time": 1731607633,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 60596,
       "num": 652339,
       "word": "7年前被责令拆除的违建悄然完工",
@@ -15611,14 +15619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 38505,
-      "num": 38505,
-      "word": "男子持刀砍伤女友女儿被拘10日",
-      "onboard_time": 1731607633,
-      "rank": 23,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 38489,
       "num": 55194,
       "word": "2025年放假安排日历来了",
@@ -16129,6 +16129,14 @@
       "onboard_time": 1731410007,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32838,
+      "num": 32838,
+      "word": "特朗普提名的美防长曾直播扔斧头",
+      "onboard_time": 1731608532,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32817,
@@ -16873,14 +16881,6 @@
       "onboard_time": 1731178871,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24933,
-      "num": 26117,
-      "word": "特朗普提名的美防长曾直播扔斧头",
-      "onboard_time": 1731608532,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24756,
@@ -17675,6 +17675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16426,
+      "num": 43521,
+      "word": "6分4秒讲完邓超半生",
+      "onboard_time": 1731608472,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16363,
       "num": 405251,
       "word": "燕云十六声年底公测",
@@ -17817,6 +17825,14 @@
       "onboard_time": 1731276912,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14235,
+      "num": 54636,
+      "word": "打记者也捂不住问题",
+      "onboard_time": 1731607033,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14201,
@@ -18251,14 +18267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7556,
-      "num": 43521,
-      "word": "6分4秒讲完邓超半生",
-      "onboard_time": 1731608472,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 6904,
       "num": 1102215,
       "word": "一组图带你看懂COP29",
@@ -18273,6 +18281,14 @@
       "onboard_time": 1731242360,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5743,
+      "num": 38283,
+      "word": "无畏Fly周柯宇合拍大头像",
+      "onboard_time": 1731606073,
+      "rank": 19,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 5738,
