@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731616718573,
+  "endTime": 1731619293745,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -14867,6 +14867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50359,
+      "num": 50359,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 50210,
       "num": 149271,
       "word": "水晶哥老头杯喊话Uzi",
@@ -16635,6 +16643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27435,
+      "num": 25445,
+      "word": "狗狗在家里被人开车投毒死亡",
+      "onboard_time": 1731614771,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27412,
       "num": 157466,
       "word": "武磊退出本期国家队",
@@ -16849,14 +16865,6 @@
       "onboard_time": 1731207617,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25445,
-      "num": 25445,
-      "word": "狗狗在家里被人开车投毒死亡",
-      "onboard_time": 1731614771,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 25254,
@@ -18003,6 +18011,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12570,
+      "num": 21694,
+      "word": "为都一样制作MV",
+      "onboard_time": 1731609972,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 12524,
       "num": 18477,
       "word": "航展现场观众齐声高唱歌唱祖国",
@@ -18139,14 +18155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11015,
-      "num": 30339,
-      "word": "除夕不用请假了你打算回家还是旅游",
-      "onboard_time": 1731616390,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 10922,
       "num": 868656,
       "word": "一组图了解秘鲁钱凯港",
@@ -18161,6 +18169,14 @@
       "onboard_time": 1731565520,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10868,
+      "num": 22504,
+      "word": "张红力一审开庭",
+      "onboard_time": 1731615612,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 10853,
@@ -18211,14 +18227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10281,
-      "num": 22504,
-      "word": "张红力一审开庭",
-      "onboard_time": 1731615612,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 10145,
       "num": 21307,
       "word": "初冬的美好与浪漫迎面而来",
@@ -18233,6 +18241,14 @@
       "onboard_time": 1731439570,
       "rank": 15,
       "category": "军事"
+    },
+    {
+      "raw_hot": 9994,
+      "num": 21601,
+      "word": "三体等中国影视作品将在秘鲁展播",
+      "onboard_time": 1731618911,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9981,
@@ -18265,6 +18281,14 @@
       "onboard_time": 1731583341,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9279,
+      "num": 19141,
+      "word": "让中秘友好之船扬帆远航",
+      "onboard_time": 1731618490,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9139,
