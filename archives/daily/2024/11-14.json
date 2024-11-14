@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731549533513,
+  "endTime": 1731552774598,
   "band_list": [
     {
       "raw_hot": 1096228,
@@ -67,6 +67,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 579996,
+      "num": 579996,
+      "word": "台风",
+      "onboard_time": 1731550759,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 577453,
       "num": 577453,
       "word": "校园招聘严禁限定985和211高校",
@@ -81,6 +89,14 @@
       "onboard_time": 1731544520,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 542323,
+      "num": 542323,
+      "word": "丁禹兮 请苍天辨忠奸",
+      "onboard_time": 1731549257,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 519087,
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407076,
+      "num": 245943,
+      "word": "女子高速倒车加超速求民警留1分",
+      "onboard_time": 1731548298,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405566,
       "num": 405566,
       "word": "迅速查明珠海驾车冲撞行人案情",
@@ -139,8 +163,32 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398245,
+      "num": 241218,
+      "word": "拜登特朗普白宫会面",
+      "onboard_time": 1731547878,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 389197,
+      "num": 389197,
+      "word": "加沙小孩玩耍捡到爆炸物突然爆炸",
+      "onboard_time": 1731549257,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 381417,
+      "num": 381417,
+      "word": "2025高校毕业生预计1222万人",
+      "onboard_time": 1731549437,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 379962,
-      "num": 204086,
+      "num": 240931,
       "word": "00后女生每天打四份工一年攒10万",
       "onboard_time": 1731543679,
       "rank": 20,
@@ -148,7 +196,7 @@
     },
     {
       "raw_hot": 370602,
-      "num": 203700,
+      "num": 240464,
       "word": "外籍女子与男子未婚生子1月后出走",
       "onboard_time": 1731544101,
       "rank": 21,
@@ -195,6 +243,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 297250,
+      "num": 297250,
+      "word": "小米发布智能底盘预研技术",
+      "onboard_time": 1731551359,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 285144,
+      "num": 285144,
+      "word": "无限暖暖公测定档",
+      "onboard_time": 1731551359,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278409,
       "num": 278409,
       "word": "滞留太空女宇航员首次回应变锥子脸",
@@ -203,12 +267,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 259301,
+      "num": 259301,
+      "word": "父亲去世后银行5.5万存款取不出",
+      "onboard_time": 1731551778,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255770,
       "num": 255770,
       "word": "杭州23周超早产儿米宝出院了",
       "onboard_time": 1731541879,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254279,
+      "num": 240694,
+      "word": "美媒称梅拉尼娅拒绝去白宫见拜登夫人",
+      "onboard_time": 1731549918,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 251719,
@@ -227,12 +307,20 @@
       "category": "母婴育儿,健康医疗"
     },
     {
-      "raw_hot": 249085,
-      "num": 166124,
-      "word": "拜登特朗普白宫会面",
-      "onboard_time": 1731547878,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 242138,
+      "num": 242138,
+      "word": "黄金",
+      "onboard_time": 1731551956,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 240413,
+      "num": 240413,
+      "word": "十个勤天两周年",
+      "onboard_time": 1731551418,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 238931,
@@ -291,12 +379,68 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202281,
+      "num": 202281,
+      "word": "秋冬吃甘蔗是大补",
+      "onboard_time": 1731546738,
+      "rank": 35,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 199909,
       "num": 160399,
       "word": "吴姗姗 白眼狼",
       "onboard_time": 1731507681,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199842,
+      "num": 199842,
+      "word": "时代峰峻消防违法被罚4.6万",
+      "onboard_time": 1731552378,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197951,
+      "num": 215049,
+      "word": "星辰大海开营",
+      "onboard_time": 1731551177,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191076,
+      "num": 191076,
+      "word": "沉浸式感受歼35A飞出屏幕",
+      "onboard_time": 1731550879,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 190853,
+      "num": 190853,
+      "word": "A股",
+      "onboard_time": 1731552679,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 190844,
+      "num": 190844,
+      "word": "鹿晗生图live",
+      "onboard_time": 1731550818,
+      "rank": 35,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 189760,
+      "num": 189760,
+      "word": "宁德时代将考虑赴美建厂",
+      "onboard_time": 1731550937,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 188981,
@@ -323,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175875,
-      "num": 165971,
-      "word": "秋冬吃甘蔗是大补",
-      "onboard_time": 1731546738,
-      "rank": 35,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 165193,
       "num": 190873,
       "word": "刘宇宁看见热搜的反应",
@@ -347,28 +483,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 158445,
-      "num": 245943,
-      "word": "女子高速倒车加超速求民警留1分",
-      "onboard_time": 1731548298,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "3名强奸未成年人罪犯被执行死刑",
       "onboard_time": 1731479239,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155199,
-      "num": 166119,
-      "word": "丁禹兮 请苍天辨忠奸",
-      "onboard_time": 1731549257,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 151615,
@@ -411,12 +531,28 @@
       "category": "教育,体育"
     },
     {
+      "raw_hot": 138707,
+      "num": 138707,
+      "word": "民警用被子包住迷路小雪豹",
+      "onboard_time": 1731550700,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136529,
       "num": 136529,
       "word": "丁禹兮看了虞书欣泰国直播",
       "onboard_time": 1731542959,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "太好了是再见爱人职业规划师",
+      "onboard_time": 1731550338,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 133189,
@@ -483,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111659,
+      "num": 131979,
+      "word": "成毅哭戏",
+      "onboard_time": 1731550457,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108273,
       "num": 91491,
       "word": "胖东来珠宝员工年薪从未低于20万",
@@ -505,14 +649,6 @@
       "onboard_time": 1731538635,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104145,
-      "num": 104145,
-      "word": "2025高校毕业生预计1222万人",
-      "onboard_time": 1731549437,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 104050,
@@ -577,6 +713,14 @@
       "onboard_time": 1731549498,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 93181,
+      "num": 242198,
+      "word": "王者玩家侦探浓度检测",
+      "onboard_time": 1731552199,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 90091,
@@ -803,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54091,
+      "num": 325512,
+      "word": "我国成功发射海洋盐度探测卫星",
+      "onboard_time": 1731543920,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51417,
       "num": 55415,
       "word": "小巷人家",
@@ -817,6 +969,14 @@
       "onboard_time": 1731540014,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48268,
+      "num": 314789,
+      "word": "一图梳理浪胃仙事件始末",
+      "onboard_time": 1731551898,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47768,
@@ -841,6 +1001,14 @@
       "onboard_time": 1731515057,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 45328,
+      "num": 242045,
+      "word": "太平洋对岸的邻居秘鲁了解一下",
+      "onboard_time": 1731552079,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39108,
@@ -931,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27261,
+      "num": 131640,
+      "word": "华为见非凡徐冰谈敢于探索",
+      "onboard_time": 1731552737,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26996,
       "num": 43706,
       "word": "五月天上海演唱会",
@@ -985,6 +1161,14 @@
       "onboard_time": 1731530591,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19695,
+      "num": 242437,
+      "word": "国足伤兵满营客场拿分不易",
+      "onboard_time": 1731552319,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 19517,
@@ -1083,6 +1267,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 13382,
+      "num": 551009,
+      "word": "大洋彼岸APEC氛围感拉满",
+      "onboard_time": 1731552619,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12524,
       "num": 18477,
       "word": "航展现场观众齐声高唱歌唱祖国",
@@ -1137,6 +1329,9 @@
     },
     {
       "word": "#习主席秘鲁巴西之行#"
+    },
+    {
+      "word": "#跟着习主席去拉美#"
     }
   ]
 }
