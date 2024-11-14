@@ -1,0 +1,410 @@
+{
+  "runTime": 1731584136954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 596842,
+        "num": 1095494,
+        "word": "阿信演唱会破音唱功再遭质疑",
+        "onboard_time": 1731572601,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401966,
+        "num": 401966,
+        "word": "两名调查记者采访时遇袭手机被抢",
+        "onboard_time": 1731578662,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25744,
+        "num": 378379,
+        "word": "80秒带你了解APEC",
+        "onboard_time": 1731573981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372184,
+        "num": 372184,
+        "word": "再见爱人太legend了",
+        "onboard_time": 1731576080,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318714,
+        "num": 318714,
+        "word": "金价",
+        "onboard_time": 1731574520,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 333384,
+        "num": 318238,
+        "word": "李子柒评论区 世界大和谐",
+        "onboard_time": 1731567262,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 251264,
+        "num": 317634,
+        "word": "从流量到演技王一博能否双赢",
+        "onboard_time": 1731578960,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184916,
+        "num": 316326,
+        "word": "陈若琳说全红婵大了要哄着了",
+        "onboard_time": 1731571579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52641,
+        "num": 315811,
+        "word": "警方回应两名记者采访时被打",
+        "onboard_time": 1731583700,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17709,
+        "num": 314805,
+        "word": "模仿虽多李子柒还是李子柒",
+        "onboard_time": 1731582381,
+        "rank": 9,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 1327859,
+        "num": 313951,
+        "word": "李行亮说离婚会跟麦琳争孩子",
+        "onboard_time": 1731580580,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242520,
+        "num": 312793,
+        "word": "永夜星河预告",
+        "onboard_time": 1731582740,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17393,
+        "num": 312242,
+        "word": "郑钦文入围最佳250赛时刻",
+        "onboard_time": 1731583341,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102338,
+        "num": 311053,
+        "word": "田嘉瑞为卓翼宸设计了很多小动作",
+        "onboard_time": 1731584060,
+        "rank": 13,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 66166,
+        "num": 310530,
+        "word": "再见爱人麦学后亮学来了",
+        "onboard_time": 1731582680,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 923195,
+        "num": 309956,
+        "word": "炒股4年赚5千万00后直言最近亏麻了",
+        "onboard_time": 1731581901,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309314,
+        "num": 309314,
+        "word": "肖战黑粉拒不道歉被法院公告",
+        "onboard_time": 1731582501,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39358,
+        "num": 309126,
+        "word": "心安勿梦和九尾无畏合拍",
+        "onboard_time": 1731582019,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28777,
+        "num": 303881,
+        "word": "麦琳所有反应逻辑都是情绪化的",
+        "onboard_time": 1731583461,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7780,
+        "num": 293510,
+        "word": "我们为什么需要付航的passion",
+        "onboard_time": 1731582561,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710593,
+        "num": 288285,
+        "word": "葛夕戴了魅女的木镯子",
+        "onboard_time": 1731582019,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450150,
+        "num": 286032,
+        "word": "丁禹兮工作室",
+        "onboard_time": 1731580461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230507,
+        "num": 281032,
+        "word": "成毅赵露思 将门毒后",
+        "onboard_time": 1731557602,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393850,
+        "num": 275444,
+        "word": "原来下肢是人体的血糖仪",
+        "onboard_time": 1731577881,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24400,
+        "num": 270349,
+        "word": "王俊凯表情包小天才",
+        "onboard_time": 1731579801,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266802,
+        "num": 266802,
+        "word": "珠海近千架无人机致敬中国制造",
+        "onboard_time": 1731582381,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 190970,
+        "num": 265123,
+        "word": "肺癌早期症状通常不明显",
+        "onboard_time": 1731576201,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 366579,
+        "num": 264167,
+        "word": "韩国气象女主播自曝在菲律宾吸毒",
+        "onboard_time": 1731571820,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75988,
+        "num": 262026,
+        "word": "惠英红爱宋佳这个好东西",
+        "onboard_time": 1731583161,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65913,
+        "num": 259176,
+        "word": "陈梦斑斓碎影plog",
+        "onboard_time": 1731583941,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345516,
+        "num": 258301,
+        "word": "陈梦DIOR黑裙",
+        "onboard_time": 1731574941,
+        "rank": 30,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 220147,
+        "num": 255172,
+        "word": "鹿晗工作室真诚致歉",
+        "onboard_time": 1731582740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305137,
+        "num": 254140,
+        "word": "被泼开水女童父亲称民警要求道歉",
+        "onboard_time": 1731574941,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252545,
+        "num": 252545,
+        "word": "黄圣依开始搞事业了",
+        "onboard_time": 1731579980,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242307,
+        "num": 242307,
+        "word": "虞书欣我容易我容易",
+        "onboard_time": 1731576981,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240482,
+        "num": 240482,
+        "word": "25岁小伙长期熬夜确诊心衰",
+        "onboard_time": 1731583221,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222685,
+        "num": 222685,
+        "word": "小巷人家石云鹏演活了向鹏飞",
+        "onboard_time": 1731581421,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205270,
+        "num": 205270,
+        "word": "永夜星河",
+        "onboard_time": 1731578302,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197178,
+        "num": 197178,
+        "word": "朱珠在魅力赛道跑偏了",
+        "onboard_time": 1731583579,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144226,
+        "num": 186527,
+        "word": "紫金矿业回应被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731567681,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 200194,
+        "num": 186108,
+        "word": "虞书欣骂人最狠的时候",
+        "onboard_time": 1731581660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184733,
+        "num": 184733,
+        "word": "女子遭男友施暴满脸鲜血跑进便利店",
+        "onboard_time": 1731578181,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173695,
+        "num": 173695,
+        "word": "李子柒亲手缝的裙子被赞100分",
+        "onboard_time": 1731578900,
+        "rank": 42,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 171921,
+        "num": 171921,
+        "word": "哈尔滨一田地内发现一具被焚尸体",
+        "onboard_time": 1731565821,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 168378,
+        "num": 168378,
+        "word": "大连4人海边攀岩1人坠海身亡",
+        "onboard_time": 1731583101,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 164649,
+        "num": 164649,
+        "word": "林一 暗恋的人成了闪闪发光的大明星",
+        "onboard_time": 1731573141,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164573,
+        "num": 164573,
+        "word": "失笑",
+        "onboard_time": 1731583700,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156842,
+        "num": 156842,
+        "word": "王者送干将莫邪侦探皮肤",
+        "onboard_time": 1731582860,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153089,
+        "num": 153089,
+        "word": "刚跑完1000米的丁程鑫",
+        "onboard_time": 1731580580,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9554,
+        "num": 152693,
+        "word": "伯爵香草拿铁",
+        "onboard_time": 1731583341,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席送出的这件国礼饱含深意#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731583162092,
+  "endTime": 1731584136954,
   "band_list": [
     {
       "raw_hot": 1777235,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1270096,
-      "num": 271351,
+      "raw_hot": 1327859,
+      "num": 313951,
       "word": "李行亮说离婚会跟麦琳争孩子",
       "onboard_time": 1731580580,
       "rank": 33,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 977002,
-      "num": 270907,
+      "num": 309956,
       "word": "炒股4年赚5千万00后直言最近亏麻了",
       "onboard_time": 1731581901,
       "rank": 11,
@@ -201,6 +201,14 @@
       "onboard_time": 1731556882,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 710593,
+      "num": 288285,
+      "word": "葛夕戴了魅女的木镯子",
+      "onboard_time": 1731582019,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 709743,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 484006,
-      "num": 270677,
+      "num": 286032,
       "word": "丁禹兮工作室",
       "onboard_time": 1731580461,
       "rank": 45,
@@ -555,20 +563,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 405268,
-      "num": 270503,
-      "word": "葛夕戴了魅女的木镯子",
-      "onboard_time": 1731582019,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403143,
       "num": 403143,
       "word": "刘宇宁称接受所有批评",
       "onboard_time": 1731504200,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401966,
+      "num": 401966,
+      "word": "两名调查记者采访时遇袭手机被抢",
+      "onboard_time": 1731578662,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398245,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 397462,
-      "num": 322808,
+      "num": 372184,
       "word": "再见爱人太legend了",
       "onboard_time": 1731576080,
       "rank": 45,
@@ -707,12 +715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309314,
+      "num": 309314,
+      "word": "肖战黑粉拒不道歉被法院公告",
+      "onboard_time": 1731582501,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309133,
       "num": 255757,
       "word": "被泼开水女童家长发声",
       "onboard_time": 1731521412,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 305137,
+      "num": 344803,
+      "word": "被泼开水女童父亲称民警要求道歉",
+      "onboard_time": 1731574941,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304024,
@@ -787,28 +811,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 274436,
-      "num": 344803,
-      "word": "被泼开水女童父亲称民警要求道歉",
-      "onboard_time": 1731574941,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272849,
-      "num": 277721,
-      "word": "两名调查记者采访时遇袭手机被抢",
-      "onboard_time": 1731578662,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271915,
       "num": 271915,
       "word": "李行亮人设",
       "onboard_time": 1731572239,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266802,
+      "num": 266802,
+      "word": "珠海近千架无人机致敬中国制造",
+      "onboard_time": 1731582381,
+      "rank": 25,
+      "category": "军事"
     },
     {
       "raw_hot": 264849,
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 261455,
-      "num": 278650,
+      "num": 317634,
       "word": "从流量到演技王一博能否双赢",
       "onboard_time": 1731578960,
       "rank": 13,
@@ -867,20 +883,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252545,
+      "num": 252545,
+      "word": "黄圣依开始搞事业了",
+      "onboard_time": 1731579980,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251719,
       "num": 251719,
       "word": "律师说杨紫还可通过刑事手段维权",
       "onboard_time": 1731509002,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251568,
-      "num": 251568,
-      "word": "黄圣依开始搞事业了",
-      "onboard_time": 1731579980,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 249963,
@@ -939,12 +955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240979,
-      "num": 215663,
-      "word": "珠海近千架无人机致敬中国制造",
-      "onboard_time": 1731582381,
-      "rank": 25,
-      "category": "军事"
+      "raw_hot": 242520,
+      "num": 312793,
+      "word": "永夜星河预告",
+      "onboard_time": 1731582740,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240482,
+      "num": 240482,
+      "word": "25岁小伙长期熬夜确诊心衰",
+      "onboard_time": 1731583221,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240413,
@@ -1051,12 +1075,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 222685,
+      "num": 222685,
+      "word": "小巷人家石云鹏演活了向鹏飞",
+      "onboard_time": 1731581421,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220225,
       "num": 194755,
       "word": "特朗普提名多人出任重要职位",
       "onboard_time": 1731547878,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220147,
+      "num": 255172,
+      "word": "鹿晗工作室真诚致歉",
+      "onboard_time": 1731582740,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 218269,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1731569061,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216636,
-      "num": 216636,
-      "word": "肖战黑粉拒不道歉被法院公告",
-      "onboard_time": 1731582501,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 216143,
@@ -1195,19 +1227,19 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 200440,
-      "num": 200440,
-      "word": "永夜星河预告",
-      "onboard_time": 1731582740,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200367,
       "num": 196607,
       "word": "谁扛得住虞书欣猛妹撒娇",
       "onboard_time": 1731582261,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200194,
+      "num": 186108,
+      "word": "虞书欣骂人最狠的时候",
+      "onboard_time": 1731581660,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1251,19 +1283,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197104,
-      "num": 197104,
-      "word": "鹿晗工作室真诚致歉",
-      "onboard_time": 1731582740,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195381,
-      "num": 195381,
-      "word": "小巷人家石云鹏演活了向鹏飞",
-      "onboard_time": 1731581421,
-      "rank": 37,
+      "raw_hot": 197178,
+      "num": 197178,
+      "word": "朱珠在魅力赛道跑偏了",
+      "onboard_time": 1731583579,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1523,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168378,
+      "num": 168378,
+      "word": "大连4人海边攀岩1人坠海身亡",
+      "onboard_time": 1731583101,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 165193,
       "num": 190873,
       "word": "刘宇宁看见热搜的反应",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1731573560,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164573,
+      "num": 164573,
+      "word": "失笑",
+      "onboard_time": 1731583700,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 164015,
@@ -1649,14 +1689,6 @@
       "onboard_time": 1731560782,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154505,
-      "num": 154505,
-      "word": "大连4人海边攀岩1人坠海身亡",
-      "onboard_time": 1731583101,
-      "rank": 48,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 153593,
@@ -2131,6 +2163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102338,
+      "num": 311053,
+      "word": "田嘉瑞为卓翼宸设计了很多小动作",
+      "onboard_time": 1731584060,
+      "rank": 13,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 102273,
       "num": 102273,
       "word": "中国新能源汽车年产突破1000万辆",
@@ -2276,7 +2316,7 @@
     },
     {
       "raw_hot": 83825,
-      "num": 270298,
+      "num": 310530,
       "word": "再见爱人麦学后亮学来了",
       "onboard_time": 1731582680,
       "rank": 14,
@@ -2337,6 +2377,14 @@
       "onboard_time": 1731547878,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75988,
+      "num": 262026,
+      "word": "惠英红爱宋佳这个好东西",
+      "onboard_time": 1731583161,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 74700,
@@ -2457,6 +2505,14 @@
       "onboard_time": 1731571519,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65913,
+      "num": 259176,
+      "word": "陈梦斑斓碎影plog",
+      "onboard_time": 1731583941,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 64904,
@@ -2580,7 +2636,7 @@
     },
     {
       "raw_hot": 54672,
-      "num": 212309,
+      "num": 309126,
       "word": "心安勿梦和九尾无畏合拍",
       "onboard_time": 1731582019,
       "rank": 31,
@@ -2593,6 +2649,14 @@
       "onboard_time": 1731543920,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52641,
+      "num": 315811,
+      "word": "警方回应两名记者采访时被打",
+      "onboard_time": 1731583700,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 51417,
@@ -2955,6 +3019,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 28777,
+      "num": 303881,
+      "word": "麦琳所有反应逻辑都是情绪化的",
+      "onboard_time": 1731583461,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28434,
       "num": 223167,
       "word": "华为见非凡徐冰谈敢于探索",
@@ -3019,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24400,
+      "num": 270349,
+      "word": "王俊凯表情包小天才",
+      "onboard_time": 1731579801,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23925,
       "num": 201719,
       "word": "马龙体验九个不同的职业角色",
@@ -3057,14 +3137,6 @@
       "onboard_time": 1731568280,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 21777,
-      "num": 247561,
-      "word": "王俊凯表情包小天才",
-      "onboard_time": 1731579801,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 21736,
@@ -3187,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17709,
+      "num": 314805,
+      "word": "模仿虽多李子柒还是李子柒",
+      "onboard_time": 1731582381,
+      "rank": 9,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 17550,
       "num": 29957,
       "word": "4000名航展观众可以亲手摸到胖妞",
@@ -3201,6 +3281,14 @@
       "onboard_time": 1731503660,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17393,
+      "num": 312242,
+      "word": "郑钦文入围最佳250赛时刻",
+      "onboard_time": 1731583341,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 16168,
@@ -3339,20 +3427,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 10053,
-      "num": 271544,
-      "word": "模仿虽多李子柒还是李子柒",
-      "onboard_time": 1731582381,
-      "rank": 9,
-      "category": "网红,美食"
-    },
-    {
       "raw_hot": 9981,
       "num": 251300,
       "word": "官方通报女童被泼热水后又遭恐吓",
       "onboard_time": 1731580640,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 9554,
+      "num": 152693,
+      "word": "伯爵香草拿铁",
+      "onboard_time": 1731583341,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 8961,
@@ -3363,8 +3451,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7716,
-      "num": 253451,
+      "raw_hot": 7780,
+      "num": 293510,
       "word": "我们为什么需要付航的passion",
       "onboard_time": 1731582561,
       "rank": 19,
