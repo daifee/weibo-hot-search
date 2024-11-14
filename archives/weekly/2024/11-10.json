@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731605970642,
+  "endTime": 1731609074976,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -15611,6 +15611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38505,
+      "num": 38505,
+      "word": "男子持刀砍伤女友女儿被拘10日",
+      "onboard_time": 1731607633,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 38489,
       "num": 55194,
       "word": "2025年放假安排日历来了",
@@ -15673,6 +15681,14 @@
       "onboard_time": 1731243619,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37800,
+      "num": 37800,
+      "word": "葛夕是天使",
+      "onboard_time": 1731606433,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 37779,
@@ -16299,6 +16315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31027,
+      "num": 31027,
+      "word": "3绒3羊3胞胎妈妈已坚持33周",
+      "onboard_time": 1731606314,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 30998,
       "num": 42790,
       "word": "学前教育多点快乐让孩子健康成长",
@@ -16371,6 +16395,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 29877,
+      "num": 29877,
+      "word": "虞书欣看到林大厨cos慕声的反应",
+      "onboard_time": 1731607153,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29717,
       "num": 192830,
       "word": "小孩姐完全是先天攀岩圣体",
@@ -16385,6 +16417,14 @@
       "onboard_time": 1731594262,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29662,
+      "num": 37470,
+      "word": "虞书欣梗在前面飞嘴在后面追",
+      "onboard_time": 1731608591,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 29467,
@@ -16833,6 +16873,14 @@
       "onboard_time": 1731178871,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24933,
+      "num": 26117,
+      "word": "特朗普提名的美防长曾直播扔斧头",
+      "onboard_time": 1731608532,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24756,
@@ -17345,6 +17393,14 @@
       "onboard_time": 1731499822,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 19692,
+      "num": 43501,
+      "word": "珠海航展科技感溢出屏幕了",
+      "onboard_time": 1731607093,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 19602,
@@ -18192,6 +18248,14 @@
       "word": "我们为什么需要付航的passion",
       "onboard_time": 1731582561,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7556,
+      "num": 43521,
+      "word": "6分4秒讲完邓超半生",
+      "onboard_time": 1731608472,
+      "rank": 18,
       "category": "艺人"
     },
     {
