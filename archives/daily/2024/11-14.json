@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731559340984,
+  "endTime": 1731561724737,
   "band_list": [
     {
       "raw_hot": 1777235,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1402661,
-      "num": 1402661,
+      "raw_hot": 1407882,
+      "num": 1407882,
       "word": "成毅赵露思 将门毒后",
       "onboard_time": 1731557602,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 981662,
+      "num": 981662,
+      "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
+      "onboard_time": 1731557182,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 932868,
       "num": 333525,
       "word": "疑似虞书欣欺负人机视频流出",
@@ -59,20 +67,20 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 810537,
-      "num": 810537,
-      "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
-      "onboard_time": 1731557182,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 808590,
       "num": 593554,
       "word": "成都漆器证实李子柒全程自己做",
       "onboard_time": 1731510320,
       "rank": 1,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 763800,
+      "num": 316332,
+      "word": "黄圣依怼杨子",
+      "onboard_time": 1731560063,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 743297,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 720084,
-      "num": 306087,
+      "num": 315160,
       "word": "初中生骑车摔倒被供电公司车辆撞死",
       "onboard_time": 1731556882,
       "rank": 12,
@@ -171,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 565449,
+      "num": 565449,
+      "word": "永夜星河开超点",
+      "onboard_time": 1731559704,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542323,
       "num": 542323,
       "word": "丁禹兮 请苍天辨忠奸",
@@ -193,6 +209,14 @@
       "onboard_time": 1731557362,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 525850,
+      "num": 268008,
+      "word": "南方小土豆第一次在尔滨抛光",
+      "onboard_time": 1731557783,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 519087,
@@ -241,6 +265,14 @@
       "onboard_time": 1731556222,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 449369,
+      "num": 311054,
+      "word": "陈哲远自曝是真胖了",
+      "onboard_time": 1731559882,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 430487,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 369031,
-      "num": 261424,
+      "num": 322571,
       "word": "卢昱晓泼水 庄嫂摔碗",
       "onboard_time": 1731557783,
       "rank": 30,
@@ -379,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309663,
+      "num": 309663,
+      "word": "杨子说黄圣依精神分裂",
+      "onboard_time": 1731561022,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309133,
       "num": 255757,
       "word": "被泼开水女童家长发声",
@@ -393,6 +433,14 @@
       "onboard_time": 1731541697,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 297919,
+      "num": 252162,
+      "word": "大四男生确诊糖尿病称曾想轻生",
+      "onboard_time": 1731560722,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285144,
@@ -411,12 +459,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 268008,
-      "num": 268008,
-      "word": "南方小土豆第一次在尔滨抛光",
-      "onboard_time": 1731557783,
-      "rank": 38,
-      "category": "旅游"
+      "raw_hot": 260995,
+      "num": 260995,
+      "word": "白敬亭新剧又循环了",
+      "onboard_time": 1731557842,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 260326,
@@ -491,14 +539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237960,
-      "num": 237960,
-      "word": "白敬亭新剧又循环了",
-      "onboard_time": 1731557842,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230843,
       "num": 268470,
       "word": "林志玲现身河南看望帮扶的学生",
@@ -571,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211643,
+      "num": 211643,
+      "word": "将门毒后",
+      "onboard_time": 1731560243,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211126,
       "num": 211126,
       "word": "中国军机的命名终于搞懂了",
@@ -625,6 +673,14 @@
       "onboard_time": 1731551177,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196239,
+      "num": 196239,
+      "word": "四千万的大平层漏水四年半没修好",
+      "onboard_time": 1731558984,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191076,
@@ -715,12 +771,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173011,
+      "num": 286156,
+      "word": "重庆15岁女孩被母亲男友砍伤十多处",
+      "onboard_time": 1731558744,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171732,
       "num": 226464,
       "word": "入职县城医院的医学生为何逃回大城市",
       "onboard_time": 1731557122,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169277,
+      "num": 196478,
+      "word": "时代少年团你我约定的指环",
+      "onboard_time": 1731560424,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 165193,
@@ -739,6 +811,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 161227,
+      "num": 161227,
+      "word": "应届毕业考公考研还是好出路吗",
+      "onboard_time": 1731559823,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 160453,
+      "num": 336384,
+      "word": "官方通报餐馆人员从垃圾桶收废油",
+      "onboard_time": 1731559104,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 159397,
       "num": 159397,
       "word": "民警用被子包住迷路小雪豹",
@@ -753,14 +841,6 @@
       "onboard_time": 1731555262,
       "rank": 24,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 158236,
-      "num": 158236,
-      "word": "四千万的大平层漏水四年半没修好",
-      "onboard_time": 1731558984,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158131,
@@ -779,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155067,
+      "num": 155067,
+      "word": "字母哥59分",
+      "onboard_time": 1731560782,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153593,
       "num": 153593,
       "word": "T1辅助Keria续约至2026年",
@@ -793,6 +881,14 @@
       "onboard_time": 1731553819,
       "rank": 9,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 152050,
+      "num": 152050,
+      "word": "马龙T锦绣十一月刊封面",
+      "onboard_time": 1731561141,
+      "rank": 36,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 151615,
@@ -867,12 +963,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140949,
+      "num": 140949,
+      "word": "能让INFJ流泪的一句话",
+      "onboard_time": 1731560603,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140636,
       "num": 140636,
       "word": "孙颖莎张博恒王楚钦 大学生严选",
       "onboard_time": 1731548717,
       "rank": 36,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 137638,
+      "num": 137638,
+      "word": "十个勤天广州演唱会开票",
+      "onboard_time": 1731561261,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 136529,
@@ -937,6 +1049,14 @@
       "onboard_time": 1731555682,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 118367,
+      "num": 256397,
+      "word": "马龙的美丽人生",
+      "onboard_time": 1731561561,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 118271,
@@ -1315,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57205,
-      "num": 286156,
-      "word": "重庆15岁女孩被母亲男友砍伤十多处",
-      "onboard_time": 1731558744,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56876,
       "num": 56876,
       "word": "邓家佳黑丝御姐风",
@@ -1401,14 +1513,6 @@
       "onboard_time": 1731515057,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 45335,
-      "num": 336384,
-      "word": "官方通报餐馆人员从垃圾桶收废油",
-      "onboard_time": 1731559104,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 45328,
@@ -1569,6 +1673,14 @@
       "onboard_time": 1731533291,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 22353,
+      "num": 312044,
+      "word": "0蔗糖0脂肪0添加食品未必更健康",
+      "onboard_time": 1731560962,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 21708,

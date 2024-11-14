@@ -1,0 +1,410 @@
+{
+  "runTime": 1731561724737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1407882,
+        "num": 1407882,
+        "word": "成毅赵露思 将门毒后",
+        "onboard_time": 1731557602,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 981662,
+        "num": 981662,
+        "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731557182,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 9745,
+        "num": 624228,
+        "word": "大洋彼岸APEC氛围感拉满",
+        "onboard_time": 1731552619,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 565449,
+        "num": 565449,
+        "word": "永夜星河开超点",
+        "onboard_time": 1731559704,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555430,
+        "num": 555430,
+        "word": "父亲去世后银行5.5万存款取不出",
+        "onboard_time": 1731551778,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480589,
+        "num": 480589,
+        "word": "再也不做美甲了",
+        "onboard_time": 1731554480,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436617,
+        "num": 436617,
+        "word": "再见爱人",
+        "onboard_time": 1731558023,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322571,
+        "num": 322571,
+        "word": "卢昱晓泼水 庄嫂摔碗",
+        "onboard_time": 1731557783,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245792,
+        "num": 322478,
+        "word": "T1",
+        "onboard_time": 1731556222,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229420,
+        "num": 320760,
+        "word": "烧伤妈妈出院前喝上久违的奶茶",
+        "onboard_time": 1731554120,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1186182,
+        "num": 318407,
+        "word": "于正说祝绪丹没上桌",
+        "onboard_time": 1731555802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763800,
+        "num": 316332,
+        "word": "黄圣依怼杨子",
+        "onboard_time": 1731560063,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605086,
+        "num": 315160,
+        "word": "初中生骑车摔倒被供电公司车辆撞死",
+        "onboard_time": 1731556882,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 521196,
+        "num": 312890,
+        "word": "疑似虞书欣欺负人机视频流出",
+        "onboard_time": 1731555322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22353,
+        "num": 312044,
+        "word": "0蔗糖0脂肪0添加食品未必更健康",
+        "onboard_time": 1731560962,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 449369,
+        "num": 311054,
+        "word": "陈哲远自曝是真胖了",
+        "onboard_time": 1731559882,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309663,
+        "num": 309663,
+        "word": "杨子说黄圣依精神分裂",
+        "onboard_time": 1731561022,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260995,
+        "num": 260995,
+        "word": "白敬亭新剧又循环了",
+        "onboard_time": 1731557842,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118367,
+        "num": 256397,
+        "word": "马龙的美丽人生",
+        "onboard_time": 1731561561,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256314,
+        "num": 256314,
+        "word": "母亲骨灰盒从他人墓里找到儿子发声",
+        "onboard_time": 1731554602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526679,
+        "num": 256243,
+        "word": "孕妇误踩宠物犬被咬后终止妊娠",
+        "onboard_time": 1731556103,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525850,
+        "num": 254728,
+        "word": "南方小土豆第一次在尔滨抛光",
+        "onboard_time": 1731557783,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 419054,
+        "num": 252832,
+        "word": "她一个月做了我一辈子的工作",
+        "onboard_time": 1731557362,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297919,
+        "num": 252162,
+        "word": "大四男生确诊糖尿病称曾想轻生",
+        "onboard_time": 1731560722,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251543,
+        "num": 251543,
+        "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+        "onboard_time": 1731553100,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228052,
+        "num": 228052,
+        "word": "李子柒过敏满脸纱布全身红疹",
+        "onboard_time": 1731553038,
+        "rank": 25,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 211643,
+        "num": 211643,
+        "word": "将门毒后",
+        "onboard_time": 1731560243,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197194,
+        "num": 197194,
+        "word": "王鹤棣泰国演唱会门票秒售罄",
+        "onboard_time": 1731558504,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169277,
+        "num": 196478,
+        "word": "时代少年团你我约定的指环",
+        "onboard_time": 1731560424,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141140,
+        "num": 196254,
+        "word": "拜登特朗普白宫会面",
+        "onboard_time": 1731547878,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196239,
+        "num": 196239,
+        "word": "四千万的大平层漏水四年半没修好",
+        "onboard_time": 1731558984,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173011,
+        "num": 173011,
+        "word": "重庆15岁女孩被母亲男友砍伤十多处",
+        "onboard_time": 1731558744,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161227,
+        "num": 161227,
+        "word": "应届毕业考公考研还是好出路吗",
+        "onboard_time": 1731559823,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160453,
+        "num": 160453,
+        "word": "官方通报餐馆人员从垃圾桶收废油",
+        "onboard_time": 1731559104,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 157954,
+        "num": 157954,
+        "word": "两名外国军人在中国武器面前挪不动步",
+        "onboard_time": 1731554602,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 155067,
+        "num": 155067,
+        "word": "字母哥59分",
+        "onboard_time": 1731560782,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152050,
+        "num": 152050,
+        "word": "马龙T锦绣十一月刊封面",
+        "onboard_time": 1731561141,
+        "rank": 36,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 151810,
+        "num": 151810,
+        "word": "浪胃仙IP创始人获刑8年",
+        "onboard_time": 1731511881,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146844,
+        "num": 146844,
+        "word": "00后女生每天打四份工一年攒10万",
+        "onboard_time": 1731543679,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140949,
+        "num": 140949,
+        "word": "能让INFJ流泪的一句话",
+        "onboard_time": 1731560603,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138848,
+        "num": 138848,
+        "word": "文班亚马50分",
+        "onboard_time": 1731558263,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138013,
+        "num": 138013,
+        "word": "丁禹兮全障碍交流",
+        "onboard_time": 1731557422,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137638,
+        "num": 137638,
+        "word": "十个勤天广州演唱会开票",
+        "onboard_time": 1731561261,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136162,
+        "num": 136162,
+        "word": "黄金",
+        "onboard_time": 1731551956,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136095,
+        "num": 136095,
+        "word": "入职县城医院的医学生为何逃回大城市",
+        "onboard_time": 1731557122,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129002,
+        "num": 129002,
+        "word": "绍伊古首先参观中国兵器馆",
+        "onboard_time": 1731558984,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 128895,
+        "num": 128895,
+        "word": "外籍女子与男子未婚生子1月后出走",
+        "onboard_time": 1731544101,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126926,
+        "num": 126926,
+        "word": "雷军来中国航展了",
+        "onboard_time": 1731558444,
+        "rank": 47,
+        "category": "互联网,军事"
+      },
+      {
+        "raw_hot": 124137,
+        "num": 124137,
+        "word": "Doinb扇自己耳光",
+        "onboard_time": 1731558263,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122734,
+        "num": 122734,
+        "word": "无限暖暖公测定档",
+        "onboard_time": 1731551359,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
