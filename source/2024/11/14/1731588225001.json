@@ -1,0 +1,410 @@
+{
+  "runTime": 1731588225001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 870939,
+        "num": 1139350,
+        "word": "雷军承认车间睡觉照是摆拍",
+        "onboard_time": 1731586940,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 870272,
+        "num": 870272,
+        "word": "妙妙失忆忘了子期",
+        "onboard_time": 1731584120,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7955,
+        "num": 868656,
+        "word": "一组图了解秘鲁钱凯港",
+        "onboard_time": 1731573560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641613,
+        "num": 866934,
+        "word": "中铁七局相关负责人回应记者遇袭",
+        "onboard_time": 1731585679,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 504249,
+        "num": 866140,
+        "word": "没人选麦琳",
+        "onboard_time": 1731585380,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364355,
+        "num": 864656,
+        "word": "两名调查记者采访时遇袭手机被抢",
+        "onboard_time": 1731578662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66368,
+        "num": 862007,
+        "word": "赵丽娜穿国足球衣领奖",
+        "onboard_time": 1731587661,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26778,
+        "num": 860109,
+        "word": "杨长青姚琛天地龙鳞舞台",
+        "onboard_time": 1731587540,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53047,
+        "num": 858132,
+        "word": "全红婵现身竞燃之夜",
+        "onboard_time": 1731588141,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156245,
+        "num": 856798,
+        "word": "国足vs巴林首发",
+        "onboard_time": 1731587241,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109695,
+        "num": 854107,
+        "word": "警方称会对两记者被打一事进行调查",
+        "onboard_time": 1731587061,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 854026,
+        "num": 854026,
+        "word": "25岁小伙长期熬夜确诊心衰",
+        "onboard_time": 1731583221,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91717,
+        "num": 692432,
+        "word": "九尾年度竞燃关注运动员",
+        "onboard_time": 1731587901,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40354,
+        "num": 666108,
+        "word": "4个问题把林高远问出汗了",
+        "onboard_time": 1731587600,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27141,
+        "num": 656261,
+        "word": "官方回应养老服务项目涉嫌摆拍",
+        "onboard_time": 1731588021,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 655550,
+        "num": 655550,
+        "word": "最高检对珠海驾车冲撞行人案表态",
+        "onboard_time": 1731585380,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 269516,
+        "num": 640605,
+        "word": "刘忻把高定长裙当外套穿",
+        "onboard_time": 1731587121,
+        "rank": 16,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 26003,
+        "num": 638105,
+        "word": "第37届金鸡奖获奖预测",
+        "onboard_time": 1731586521,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637688,
+        "num": 637688,
+        "word": "上海交大偶遇关晓彤",
+        "onboard_time": 1731584841,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35957,
+        "num": 506708,
+        "word": "黄雅琼优雅摩登女王",
+        "onboard_time": 1731585740,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1029274,
+        "num": 500428,
+        "word": "李行亮说离婚会跟麦琳争孩子",
+        "onboard_time": 1731580580,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471181,
+        "num": 471181,
+        "word": "炒股4年赚5千万00后直言最近亏麻了",
+        "onboard_time": 1731581901,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 428513,
+        "num": 428513,
+        "word": "射雕",
+        "onboard_time": 1731584601,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379586,
+        "num": 379586,
+        "word": "葛夕戴了魅女的木镯子",
+        "onboard_time": 1731582019,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300097,
+        "num": 300097,
+        "word": "微博竞燃之夜",
+        "onboard_time": 1731584900,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272939,
+        "num": 272939,
+        "word": "国足离小组第2仅差3分",
+        "onboard_time": 1731585499,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272149,
+        "num": 272149,
+        "word": "原来下肢是人体的血糖仪",
+        "onboard_time": 1731577881,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136476,
+        "num": 247728,
+        "word": "肺癌早期症状通常不明显",
+        "onboard_time": 1731576201,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119591,
+        "num": 231243,
+        "word": "杨坤主动投案",
+        "onboard_time": 1731588201,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 223468,
+        "num": 223468,
+        "word": "奶皮子",
+        "onboard_time": 1731585080,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425367,
+        "num": 222812,
+        "word": "荣梓杉回应负面评论",
+        "onboard_time": 1731585440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225007,
+        "num": 222587,
+        "word": "林更新说网友一天天的玩手机",
+        "onboard_time": 1731583882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111762,
+        "num": 221041,
+        "word": "鹿晗躲不开的怼脸拍",
+        "onboard_time": 1731587959,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220681,
+        "num": 220681,
+        "word": "被泼开水女童父亲称民警要求道歉",
+        "onboard_time": 1731574941,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218832,
+        "num": 218832,
+        "word": "肖战黑粉拒不道歉被法院公告",
+        "onboard_time": 1731582501,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216879,
+        "num": 216879,
+        "word": "丁禹兮工作室",
+        "onboard_time": 1731580461,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207349,
+        "num": 207349,
+        "word": "从流量到演技王一博能否双赢",
+        "onboard_time": 1731578960,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193827,
+        "num": 193827,
+        "word": "B站首次实现单季盈利",
+        "onboard_time": 1731587720,
+        "rank": 37,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 34188,
+        "num": 192848,
+        "word": "竞燃之夜人手一台iQOO13",
+        "onboard_time": 1731587061,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191879,
+        "num": 191879,
+        "word": "小小的我",
+        "onboard_time": 1731587420,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19292,
+        "num": 182862,
+        "word": "80秒带你了解APEC",
+        "onboard_time": 1731573981,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182508,
+        "num": 182508,
+        "word": "虞书欣骂人最狠的时候",
+        "onboard_time": 1731581660,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179314,
+        "num": 179314,
+        "word": "珠海近千架无人机致敬中国制造",
+        "onboard_time": 1731582381,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 179021,
+        "num": 179021,
+        "word": "陈梦DIOR黑裙",
+        "onboard_time": 1731574941,
+        "rank": 43,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 170151,
+        "num": 170151,
+        "word": "李子柒评论区 世界大和谐",
+        "onboard_time": 1731567262,
+        "rank": 44,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 167641,
+        "num": 167641,
+        "word": "一诺新中式露背装",
+        "onboard_time": 1731587901,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157785,
+        "num": 157785,
+        "word": "永夜星河收妖塔 浣衣局",
+        "onboard_time": 1731588080,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151355,
+        "num": 151355,
+        "word": "A股全市超4800只个股下跌",
+        "onboard_time": 1731588080,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151929,
+        "num": 149208,
+        "word": "永夜星河 好香的饭",
+        "onboard_time": 1731586460,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145300,
+        "num": 145300,
+        "word": "阿信演唱会破音唱功再遭质疑",
+        "onboard_time": 1731572601,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席送出的这件国礼饱含深意#"
+    }
+  }
+}
