@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731577092085,
+  "endTime": 1731579866500,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -1867,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 648551,
+      "num": 1103768,
+      "word": "阿信演唱会破音唱功再遭质疑",
+      "onboard_time": 1731572601,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 648140,
       "num": 648140,
       "word": "曝某手机厂商暂停大折叠产品线",
@@ -2875,12 +2883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469955,
+      "num": 278931,
+      "word": "虞书欣我容易我容易",
+      "onboard_time": 1731576981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469442,
       "num": 449265,
       "word": "勇士 地图",
       "onboard_time": 1731469761,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 467522,
+      "num": 276555,
+      "word": "原来下肢是人体的血糖仪",
+      "onboard_time": 1731577881,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 467419,
@@ -3193,6 +3217,14 @@
       "onboard_time": 1731409283,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427125,
+      "num": 337515,
+      "word": "东北雨姐丈夫多家企业申请注销又撤回",
+      "onboard_time": 1731575721,
+      "rank": 33,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 426186,
@@ -3609,14 +3641,6 @@
       "onboard_time": 1731329959,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371612,
-      "num": 371612,
-      "word": "阿信演唱会破音唱功再遭质疑",
-      "onboard_time": 1731572601,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 370666,
@@ -4451,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291216,
+      "num": 274602,
+      "word": "韩国警方回应女主播自曝在菲吸毒",
+      "onboard_time": 1731575060,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 290679,
       "num": 290679,
       "word": "慕声柳拂衣 老公寄存处",
@@ -4619,14 +4651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278215,
-      "num": 337515,
-      "word": "东北雨姐丈夫多家企业申请注销又撤回",
-      "onboard_time": 1731575721,
-      "rank": 33,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 277110,
       "num": 277110,
       "word": "本周锦鲤附体星座",
@@ -4681,6 +4705,14 @@
       "onboard_time": 1731205457,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274436,
+      "num": 344803,
+      "word": "被泼开水女童父亲称民警要求道歉",
+      "onboard_time": 1731574941,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274201,
@@ -4841,6 +4873,14 @@
       "onboard_time": 1731393139,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 264849,
+      "num": 264849,
+      "word": "麦琳李行亮谈分孩子和家产",
+      "onboard_time": 1731577101,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 264460,
@@ -5347,6 +5387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239417,
+      "num": 239417,
+      "word": "Meiko女友发布声明",
+      "onboard_time": 1731577641,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239255,
       "num": 239255,
       "word": "春节休8天已有乘客下单春节机票",
@@ -5448,14 +5496,6 @@
       "word": "丁禹兮原声",
       "onboard_time": 1731419364,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 234727,
-      "num": 234727,
-      "word": "虞书欣我容易我容易",
-      "onboard_time": 1731576981,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5627,6 +5667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228252,
+      "num": 316167,
+      "word": "再见爱人太legend了",
+      "onboard_time": 1731576080,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227810,
       "num": 357273,
       "word": "小巷人家 林家欢喜庄家愁",
@@ -5713,6 +5761,14 @@
       "onboard_time": 1731150257,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224726,
+      "num": 224726,
+      "word": "女子撞见丈夫出轨母亲劝架去世",
+      "onboard_time": 1731579680,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224535,
@@ -6417,14 +6473,6 @@
       "onboard_time": 1731222380,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204166,
-      "num": 316167,
-      "word": "再见爱人太legend了",
-      "onboard_time": 1731576080,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 203909,
@@ -7235,6 +7283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188486,
+      "num": 188486,
+      "word": "李子柒亲手缝的裙子被赞100分",
+      "onboard_time": 1731578900,
+      "rank": 38,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 188356,
       "num": 247549,
       "word": "孙颖莎王楚钦领衔微博网友喜爱运动员",
@@ -7323,14 +7379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 186320,
-      "num": 344803,
-      "word": "被泼开水女童父亲称民警要求道歉",
-      "onboard_time": 1731574941,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "妈妈一个人改造了女儿的房间",
@@ -7385,6 +7433,14 @@
       "onboard_time": 1731568401,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185031,
+      "num": 277163,
+      "word": "葛夕旧照",
+      "onboard_time": 1731579141,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184498,
@@ -7921,6 +7977,14 @@
       "onboard_time": 1731332324,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 174098,
+      "num": 174098,
+      "word": "Ning严以待人宽以待己",
+      "onboard_time": 1731579141,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 173983,
@@ -8867,6 +8931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157966,
+      "num": 157966,
+      "word": "女子遭男友施暴满脸鲜血跑进便利店",
+      "onboard_time": 1731578181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157623,
       "num": 368808,
       "word": "苏57炫技落叶飘",
@@ -9569,6 +9641,14 @@
       "onboard_time": 1731392418,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146908,
+      "num": 274914,
+      "word": "文俊辉将进组云归喜事",
+      "onboard_time": 1731577701,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 146485,
@@ -10339,6 +10419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131747,
+      "num": 131747,
+      "word": "钎城耳骨夹",
+      "onboard_time": 1731578121,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131472,
       "num": 131472,
       "word": "鸣潮椿",
@@ -10657,6 +10745,14 @@
       "onboard_time": 1731209957,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124531,
+      "num": 277721,
+      "word": "两名调查记者采访时遇袭手机被抢",
+      "onboard_time": 1731578662,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124460,
@@ -12067,6 +12163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84118,
+      "num": 275272,
+      "word": "陈梦公主半扎发",
+      "onboard_time": 1731579081,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84088,
       "num": 165868,
       "word": "从中国到秘鲁那么远这么近",
@@ -12233,6 +12337,14 @@
       "onboard_time": 1731353350,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78222,
+      "num": 194350,
+      "word": "黄子弘凡 费加罗",
+      "onboard_time": 1731577521,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 77589,
@@ -13211,6 +13323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54687,
+      "num": 278076,
+      "word": "运油20的压迫感到底有多强",
+      "onboard_time": 1731579680,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 54482,
       "num": 352231,
       "word": "代号鸢新密探",
@@ -13273,6 +13393,14 @@
       "onboard_time": 1731258195,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53674,
+      "num": 278650,
+      "word": "从流量到演技王一博能否双赢",
+      "onboard_time": 1731578960,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 53512,
@@ -13979,6 +14107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40658,
+      "num": 279749,
+      "word": "公司回应浪胃仙创始人被判刑",
+      "onboard_time": 1731578960,
+      "rank": 8,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 40623,
       "num": 323636,
       "word": "2024金鸡百花电影节",
@@ -14603,6 +14739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31855,
+      "num": 278497,
+      "word": "iQOO13性能之光闪耀全场",
+      "onboard_time": 1731578900,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31807,
       "num": 31807,
       "word": "虞书欣跳河马舞",
@@ -14729,6 +14873,14 @@
       "onboard_time": 1731520453,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29997,
+      "num": 277260,
+      "word": "粮库科长公款炒股获利8万亏58万",
+      "onboard_time": 1731579021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29717,
@@ -15363,6 +15515,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 21736,
+      "num": 185272,
+      "word": "竞燃之夜今年又被iQOO包圆了",
+      "onboard_time": 1731578900,
+      "rank": 39,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 21688,
       "num": 23987,
       "word": "石破茂近期或与特朗普会面",
@@ -15971,6 +16131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14887,
+      "num": 279625,
+      "word": "扫码领礼物背后有什么风险",
+      "onboard_time": 1731578900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14874,
       "num": 422738,
       "word": "一文看懂什么是名誉权",
@@ -16009,6 +16177,14 @@
       "onboard_time": 1731351792,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14507,
+      "num": 130560,
+      "word": "王俊凯表情包小天才",
+      "onboard_time": 1731579801,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 14486,
@@ -16256,6 +16432,14 @@
       "word": "向人民空军致敬",
       "onboard_time": 1731360911,
       "rank": 29,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 11183,
+      "num": 277450,
+      "word": "机器狼抓娃娃比我手稳",
+      "onboard_time": 1731579560,
+      "rank": 18,
       "category": "军事"
     },
     {

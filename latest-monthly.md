@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/14 17:38:12
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/14 18:24:26
 </p>
 </blockquote>
 <p>
@@ -4575,6 +4575,12 @@ BLG赛后发博（热度：654460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A0%B4%E9%9F%B3%E5%94%B1%E5%8A%9F%E5%86%8D%E9%81%AD%E8%B4%A8%E7%96%91%23" target="weibo">
+阿信演唱会破音唱功再遭质疑（热度：648551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9F%90%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E6%9A%82%E5%81%9C%E5%A4%A7%E6%8A%98%E5%8F%A0%E4%BA%A7%E5%93%81%E7%BA%BF%23" target="weibo">
 曝某手机厂商暂停大折叠产品线（热度：648140）
 </a>
@@ -6005,12 +6011,6 @@ Meiko恋情（热度：536801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%B0%8F%E5%9C%9F%E8%B1%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%B0%94%E6%BB%A8%E6%8A%9B%E5%85%89%23" target="weibo">
 南方小土豆第一次在尔滨抛光（热度：525850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23mbti%E5%8F%88%E5%8F%98%E4%BA%86%23" target="weibo">
-mbti又变了（热度：525600）
 </a>
 </li>
 

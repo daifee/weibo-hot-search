@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731577092085,
+  "endTime": 1731579866500,
   "band_list": [
     {
       "raw_hot": 1777235,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 648551,
+      "num": 1103768,
+      "word": "阿信演唱会破音唱功再遭质疑",
+      "onboard_time": 1731572601,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 647217,
       "num": 517067,
       "word": "成毅 扛剧",
@@ -411,6 +419,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 469955,
+      "num": 278931,
+      "word": "虞书欣我容易我容易",
+      "onboard_time": 1731576981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 467522,
+      "num": 276555,
+      "word": "原来下肢是人体的血糖仪",
+      "onboard_time": 1731577881,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 467419,
       "num": 311054,
       "word": "陈哲远自曝是真胖了",
@@ -449,6 +473,14 @@
       "onboard_time": 1731553100,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427125,
+      "num": 337515,
+      "word": "东北雨姐丈夫多家企业申请注销又撤回",
+      "onboard_time": 1731575721,
+      "rank": 33,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 415741,
@@ -539,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371612,
-      "num": 371612,
-      "word": "阿信演唱会破音唱功再遭质疑",
-      "onboard_time": 1731572601,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 370602,
       "num": 253000,
       "word": "外籍女子与男子未婚生子1月后出走",
@@ -561,6 +585,14 @@
       "onboard_time": 1731557783,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366807,
+      "num": 366807,
+      "word": "金价",
+      "onboard_time": 1731574520,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 360613,
@@ -659,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291216,
+      "num": 274602,
+      "word": "韩国警方回应女主播自曝在菲吸毒",
+      "onboard_time": 1731575060,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 285144,
       "num": 285144,
       "word": "无限暖暖公测定档",
@@ -691,14 +731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 278215,
-      "num": 337515,
-      "word": "东北雨姐丈夫多家企业申请注销又撤回",
-      "onboard_time": 1731575721,
-      "rank": 33,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 275919,
       "num": 275919,
       "word": "应届毕业考公考研还是好出路吗",
@@ -707,11 +739,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274436,
+      "num": 344803,
+      "word": "被泼开水女童父亲称民警要求道歉",
+      "onboard_time": 1731574941,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271915,
       "num": 271915,
       "word": "李行亮人设",
       "onboard_time": 1731572239,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264849,
+      "num": 264849,
+      "word": "麦琳李行亮谈分孩子和家产",
+      "onboard_time": 1731577101,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -795,14 +843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 243960,
-      "num": 243960,
-      "word": "金价",
-      "onboard_time": 1731574520,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 243812,
       "num": 243812,
       "word": "四千万的大平层漏水四年半没修好",
@@ -827,20 +867,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239417,
+      "num": 239417,
+      "word": "Meiko女友发布声明",
+      "onboard_time": 1731577641,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238931,
       "num": 184140,
       "word": "上海月租3500的房子",
       "onboard_time": 1731540317,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 234727,
-      "num": 234727,
-      "word": "虞书欣我容易我容易",
-      "onboard_time": 1731576981,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 231972,
@@ -865,6 +905,14 @@
       "onboard_time": 1731564081,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228252,
+      "num": 316167,
+      "word": "再见爱人太legend了",
+      "onboard_time": 1731576080,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 227810,
@@ -897,6 +945,14 @@
       "onboard_time": 1731555262,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224726,
+      "num": 224726,
+      "word": "女子撞见丈夫出轨母亲劝架去世",
+      "onboard_time": 1731579680,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223489,
@@ -1011,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210058,
+      "num": 275487,
+      "word": "永夜星河",
+      "onboard_time": 1731491720,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206795,
       "num": 221362,
       "word": "肖战都一样MV",
@@ -1033,14 +1097,6 @@
       "onboard_time": 1731545000,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204166,
-      "num": 316167,
-      "word": "再见爱人太legend了",
-      "onboard_time": 1731576080,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 202963,
@@ -1139,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188486,
+      "num": 188486,
+      "word": "李子柒亲手缝的裙子被赞100分",
+      "onboard_time": 1731578900,
+      "rank": 38,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 188201,
       "num": 188201,
       "word": "文班亚马太夸张了",
@@ -1153,14 +1217,6 @@
       "onboard_time": 1731558263,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186320,
-      "num": 344803,
-      "word": "被泼开水女童父亲称民警要求道歉",
-      "onboard_time": 1731574941,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185938,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1731568401,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185031,
+      "num": 277163,
+      "word": "葛夕旧照",
+      "onboard_time": 1731579141,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183876,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1731556404,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174098,
+      "num": 174098,
+      "word": "Ning严以待人宽以待己",
+      "onboard_time": 1731579141,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 172176,
@@ -1411,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157966,
+      "num": 157966,
+      "word": "女子遭男友施暴满脸鲜血跑进便利店",
+      "onboard_time": 1731578181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156429,
       "num": 156429,
       "word": "王牌新主播录制路透",
@@ -1555,6 +1635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146908,
+      "num": 274914,
+      "word": "文俊辉将进组云归喜事",
+      "onboard_time": 1731577701,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144096,
       "num": 309419,
       "word": "无畏玫瑰光影造型",
@@ -1651,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131747,
+      "num": 131747,
+      "word": "钎城耳骨夹",
+      "onboard_time": 1731578121,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131472,
       "num": 131472,
       "word": "鸣潮椿",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1731566181,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124531,
+      "num": 277721,
+      "word": "两名调查记者采访时遇袭手机被抢",
+      "onboard_time": 1731578662,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123884,
@@ -1851,14 +1955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106569,
-      "num": 103883,
-      "word": "永夜星河",
-      "onboard_time": 1731491720,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106270,
       "num": 106270,
       "word": "户主称不会卖11元网拍海景房",
@@ -2003,6 +2099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84118,
+      "num": 275272,
+      "word": "陈梦公主半扎发",
+      "onboard_time": 1731579081,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84088,
       "num": 165868,
       "word": "从中国到秘鲁那么远这么近",
@@ -2033,6 +2137,14 @@
       "onboard_time": 1731514997,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78222,
+      "num": 194350,
+      "word": "黄子弘凡 费加罗",
+      "onboard_time": 1731577521,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 77341,
@@ -2267,12 +2379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54687,
+      "num": 278076,
+      "word": "运油20的压迫感到底有多强",
+      "onboard_time": 1731579680,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 54091,
       "num": 573637,
       "word": "我国成功发射海洋盐度探测卫星",
       "onboard_time": 1731543920,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53674,
+      "num": 278650,
+      "word": "从流量到演技王一博能否双赢",
+      "onboard_time": 1731578960,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 51417,
@@ -2411,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40658,
+      "num": 279749,
+      "word": "公司回应浪胃仙创始人被判刑",
+      "onboard_time": 1731578960,
+      "rank": 8,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 39108,
       "num": 87546,
       "word": "地铁里遇到导盲犬这一刻心都化了",
@@ -2539,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31855,
+      "num": 278497,
+      "word": "iQOO13性能之光闪耀全场",
+      "onboard_time": 1731578900,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31697,
       "num": 347273,
       "word": "肤感不佳的面霜盘点",
@@ -2569,6 +2713,14 @@
       "onboard_time": 1731520453,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29997,
+      "num": 277260,
+      "word": "粮库科长公款炒股获利8万亏58万",
+      "onboard_time": 1731579021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29122,
@@ -2665,6 +2817,14 @@
       "onboard_time": 1731568280,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 21736,
+      "num": 185272,
+      "word": "竞燃之夜今年又被iQOO包圆了",
+      "onboard_time": 1731578900,
+      "rank": 39,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 21708,
@@ -2803,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14887,
+      "num": 279625,
+      "word": "扫码领礼物背后有什么风险",
+      "onboard_time": 1731578900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14834,
       "num": 29391,
       "word": "中国传统技艺太惊艳了",
@@ -2817,6 +2985,14 @@
       "onboard_time": 1731564560,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 14507,
+      "num": 130560,
+      "word": "王俊凯表情包小天才",
+      "onboard_time": 1731579801,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 13860,
@@ -2897,6 +3073,14 @@
       "onboard_time": 1731523392,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11183,
+      "num": 277450,
+      "word": "机器狼抓娃娃比我手稳",
+      "onboard_time": 1731579560,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 10892,
