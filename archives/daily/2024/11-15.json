@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731615896191,
+  "endTime": 1731616718573,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -579,20 +579,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 25445,
+      "num": 25445,
+      "word": "狗狗在家里被人开车投毒死亡",
+      "onboard_time": 1731614771,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 23748,
       "num": 22389,
       "word": "巴林进球越位",
       "onboard_time": 1731599780,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20388,
-      "num": 20388,
-      "word": "狗狗在家里被人开车投毒死亡",
-      "onboard_time": 1731614771,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 19692,
@@ -609,6 +609,14 @@
       "onboard_time": 1731612130,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18332,
+      "num": 26252,
+      "word": "紫金矿业哥伦比亚金矿据报再遭袭击",
+      "onboard_time": 1731614110,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17325,
@@ -635,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11373,
-      "num": 26252,
-      "word": "紫金矿业哥伦比亚金矿据报再遭袭击",
-      "onboard_time": 1731614110,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 11343,
       "num": 26308,
       "word": "中国海警位中国黄岩岛领海执法巡查",
       "onboard_time": 1731611171,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11015,
+      "num": 30339,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 10853,
