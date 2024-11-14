@@ -1,0 +1,410 @@
+{
+  "runTime": 1731573762531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088925,
+        "num": 1174228,
+        "word": "虞书欣连续137天没休息",
+        "onboard_time": 1731571220,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656808,
+        "num": 656808,
+        "word": "紫金矿业回应被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731567681,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 8961,
+        "num": 566579,
+        "word": "一组图了解秘鲁钱凯港",
+        "onboard_time": 1731573560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 513504,
+        "num": 513504,
+        "word": "有人要给免费升级宽带你赶紧拒绝",
+        "onboard_time": 1731569119,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425623,
+        "num": 425623,
+        "word": "李子柒评论区 世界大和谐",
+        "onboard_time": 1731567262,
+        "rank": 4,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 418756,
+        "num": 418756,
+        "word": "再也不做美甲了",
+        "onboard_time": 1731554480,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409451,
+        "num": 409451,
+        "word": "陈若琳说全红婵大了要哄着了",
+        "onboard_time": 1731571579,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330467,
+        "num": 330467,
+        "word": "成毅赵露思 将门毒后",
+        "onboard_time": 1731557602,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8285,
+        "num": 330402,
+        "word": "国产大飞机与战机梦幻同框",
+        "onboard_time": 1731573741,
+        "rank": 8,
+        "category": "正能量,军事"
+      },
+      {
+        "raw_hot": 57791,
+        "num": 330333,
+        "word": "黄金连跌四天",
+        "onboard_time": 1731572360,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604601,
+        "num": 330252,
+        "word": "黄圣依 我让你跟刘德华比了吗",
+        "onboard_time": 1731566961,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551109,
+        "num": 330181,
+        "word": "物业私停电梯孕妇未及时送医致流产",
+        "onboard_time": 1731568280,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 559038,
+        "num": 330130,
+        "word": "李行亮指的是葛夕",
+        "onboard_time": 1731564202,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38773,
+        "num": 330038,
+        "word": "请百万粉丝主播带货成交量却为0",
+        "onboard_time": 1731572300,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 86554,
+        "num": 329992,
+        "word": "竞燃之夜最闪亮的红毯搭子",
+        "onboard_time": 1731572422,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329920,
+        "num": 329920,
+        "word": "韩国气象女主播自曝在菲律宾吸毒",
+        "onboard_time": 1731571820,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 463661,
+        "num": 329897,
+        "word": "李行亮货比货",
+        "onboard_time": 1731569541,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27539,
+        "num": 329762,
+        "word": "徐枫灿说实力才是第一位",
+        "onboard_time": 1731573020,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 183639,
+        "num": 329626,
+        "word": "鹿晗工作室",
+        "onboard_time": 1731572422,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20629,
+        "num": 329615,
+        "word": "男子盗窃寺庙功德箱前不忘拜一拜",
+        "onboard_time": 1731572300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446146,
+        "num": 329468,
+        "word": "哈尔滨一田地内发现一具被焚尸体",
+        "onboard_time": 1731565821,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 44082,
+        "num": 329378,
+        "word": "韦世豪身穿国足10号",
+        "onboard_time": 1731572541,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360772,
+        "num": 329254,
+        "word": "于正说祝绪丹没上桌",
+        "onboard_time": 1731555802,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329222,
+        "num": 329222,
+        "word": "中国第二大县城小孩姐的日常",
+        "onboard_time": 1731566961,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 197846,
+        "num": 328082,
+        "word": "阿信演唱会破音唱功再遭质疑",
+        "onboard_time": 1731572601,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190120,
+        "num": 322601,
+        "word": "小巷人家 林家欢喜庄家愁",
+        "onboard_time": 1731571940,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10559,
+        "num": 315574,
+        "word": "宋佳ELLE12月刊封面",
+        "onboard_time": 1731573141,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 63330,
+        "num": 304810,
+        "word": "Fly狼尾造型",
+        "onboard_time": 1731573141,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123884,
+        "num": 301192,
+        "word": "九尾帅出新高度",
+        "onboard_time": 1731572840,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223177,
+        "num": 293051,
+        "word": "侯佩岑 杨子是没饭硬吃",
+        "onboard_time": 1731571519,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1227,
+        "num": 286843,
+        "word": "大洋彼岸APEC氛围感拉满",
+        "onboard_time": 1731552619,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285349,
+        "num": 285349,
+        "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731557182,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 282911,
+        "num": 282911,
+        "word": "THE9来了",
+        "onboard_time": 1731572661,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261153,
+        "num": 261153,
+        "word": "夫妻离婚公婆拿900多万欠条要求还",
+        "onboard_time": 1731571460,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238515,
+        "num": 238515,
+        "word": "张艺兴工作人员朋友圈",
+        "onboard_time": 1731564142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235320,
+        "num": 235320,
+        "word": "李行亮人设",
+        "onboard_time": 1731572239,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227562,
+        "num": 227562,
+        "word": "中国科协回应16岁中学生获正高职称",
+        "onboard_time": 1731570679,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215673,
+        "num": 215673,
+        "word": "违法女主播从不露脸误传自拍照被抓",
+        "onboard_time": 1731571460,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205653,
+        "num": 205653,
+        "word": "丁禹兮猫塑",
+        "onboard_time": 1731573319,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181946,
+        "num": 181946,
+        "word": "李子柒3个新作品油管预估收入超8万",
+        "onboard_time": 1731569119,
+        "rank": 39,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 177177,
+        "num": 177177,
+        "word": "林一 暗恋的人成了闪闪发光的大明星",
+        "onboard_time": 1731573141,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175258,
+        "num": 175258,
+        "word": "微博竞燃之夜红毯",
+        "onboard_time": 1731569720,
+        "rank": 41,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 168574,
+        "num": 168574,
+        "word": "多位市民接本地号码诈骗电话",
+        "onboard_time": 1731570980,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168488,
+        "num": 168488,
+        "word": "蒲熠星徐志胜提前过上退休生活",
+        "onboard_time": 1731573380,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165508,
+        "num": 165508,
+        "word": "A股缩量下跌失守3400点",
+        "onboard_time": 1731568401,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162532,
+        "num": 162532,
+        "word": "Doinb暗示Kid不如Ning",
+        "onboard_time": 1731573560,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152091,
+        "num": 152091,
+        "word": "鹿晗愿望季",
+        "onboard_time": 1731573741,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151261,
+        "num": 151261,
+        "word": "大四男生确诊糖尿病称曾想轻生",
+        "onboard_time": 1731560722,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136197,
+        "num": 148752,
+        "word": "李子柒熊猫蜀锦裙是自己缝的",
+        "onboard_time": 1731563241,
+        "rank": 48,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 127662,
+        "num": 148677,
+        "word": "子期杀了子期",
+        "onboard_time": 1731562761,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席送出的这件国礼饱含深意#"
+    }
+  }
+}
