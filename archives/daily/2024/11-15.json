@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731626583874,
+  "endTime": 1731627440836,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 702840,
+      "num": 922454,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 688106,
       "num": 1471070,
       "word": "papi酱说李行亮不哄了",
@@ -59,20 +67,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 532052,
-      "num": 532052,
-      "word": "除夕不用请假了你打算回家还是旅游",
-      "onboard_time": 1731616390,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 504306,
       "num": 360629,
       "word": "国足 裁判",
       "onboard_time": 1731599361,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430778,
+      "num": 197632,
+      "word": "镇政府回应19岁男孩辍学打工照顾妹妹",
+      "onboard_time": 1731624434,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420642,
+      "num": 420642,
+      "word": "侯佩岑 婚姻中有6个人",
+      "onboard_time": 1731627077,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 410363,
+      "num": 195503,
+      "word": "孕妇称检出9胞胎诊断医院回应",
+      "onboard_time": 1731595042,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406531,
@@ -91,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395258,
+      "num": 172402,
+      "word": "断糖60天面部的变化",
+      "onboard_time": 1731627017,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382823,
       "num": 382823,
       "word": "中铁七局发布新华社记者遇袭声明",
       "onboard_time": 1731590361,
       "rank": 12,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 374192,
-      "num": 159433,
-      "word": "孕妇称检出9胞胎诊断医院回应",
-      "onboard_time": 1731595042,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 359683,
@@ -129,6 +153,14 @@
       "onboard_time": 1731580461,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294001,
+      "num": 251037,
+      "word": "25岁小伙长期熬夜确诊心衰",
+      "onboard_time": 1731583221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292010,
@@ -163,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258378,
-      "num": 251037,
-      "word": "25岁小伙长期熬夜确诊心衰",
-      "onboard_time": 1731583221,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 265385,
+      "num": 265385,
+      "word": "韩国高考听力时段全境暂停飞机起降",
+      "onboard_time": 1731611592,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 231801,
@@ -193,14 +225,6 @@
       "onboard_time": 1731600620,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220752,
-      "num": 220752,
-      "word": "韩国高考听力时段全境暂停飞机起降",
-      "onboard_time": 1731611592,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 209077,
@@ -235,6 +259,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170191,
+      "num": 170191,
+      "word": "3绒3羊3胞胎妈妈已坚持33周",
+      "onboard_time": 1731606314,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 169941,
+      "num": 169941,
+      "word": "大理公安局局长主动投案",
+      "onboard_time": 1731588201,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 163281,
       "num": 210112,
       "word": "小巷人家实时收视率破1",
@@ -259,28 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159123,
+      "num": 185771,
+      "word": "庄筱婷林栋哲恋情公开",
+      "onboard_time": 1731622211,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155470,
       "num": 155470,
       "word": "践踏舆论监督要为此付出代价",
       "onboard_time": 1731593482,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 150916,
-      "num": 103441,
-      "word": "3绒3羊3胞胎妈妈已坚持33周",
-      "onboard_time": 1731606314,
-      "rank": 37,
-      "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 149881,
-      "num": 149881,
-      "word": "大理公安局局长主动投案",
-      "onboard_time": 1731588201,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 147859,
@@ -291,11 +323,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142543,
-      "num": 142543,
-      "word": "镇政府回应19岁男孩辍学打工照顾妹妹",
-      "onboard_time": 1731624434,
-      "rank": 14,
+      "raw_hot": 143545,
+      "num": 143545,
+      "word": "黄金跌上热搜",
+      "onboard_time": 1731622811,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 141316,
+      "num": 141316,
+      "word": "三个台风海上共舞",
+      "onboard_time": 1731622391,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -323,28 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129793,
-      "num": 103027,
-      "word": "黄金跌上热搜",
-      "onboard_time": 1731622811,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129386,
       "num": 129386,
       "word": "国足积分",
       "onboard_time": 1731602537,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125263,
-      "num": 125263,
-      "word": "三个台风海上共舞",
-      "onboard_time": 1731622391,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124449,
@@ -363,12 +387,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 120184,
+      "num": 183232,
+      "word": "万鹏生图",
+      "onboard_time": 1731627017,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118892,
       "num": 118892,
       "word": "原来下肢是人体的血糖仪",
       "onboard_time": 1731577881,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117981,
+      "num": 117981,
+      "word": "狗狗在家里被人开车投毒死亡",
+      "onboard_time": 1731614771,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 115392,
@@ -387,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113252,
+      "num": 113252,
+      "word": "葛夕是天使",
+      "onboard_time": 1731606433,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112008,
       "num": 112008,
       "word": "A股机构举报游资传闻是怎么回事",
@@ -395,20 +443,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109539,
+      "num": 109539,
+      "word": "特朗普提名的美防长曾直播扔斧头",
+      "onboard_time": 1731608532,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108837,
       "num": 108837,
       "word": "上海交大偶遇关晓彤",
       "onboard_time": 1731584841,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108186,
-      "num": 102563,
-      "word": "狗狗在家里被人开车投毒死亡",
-      "onboard_time": 1731614771,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 108141,
@@ -420,19 +468,11 @@
     },
     {
       "raw_hot": 105318,
-      "num": 105318,
+      "num": 109565,
       "word": "煤气灯效应",
       "onboard_time": 1731593002,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104348,
-      "num": 104348,
-      "word": "庄筱婷林栋哲恋情公开",
-      "onboard_time": 1731622211,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 104082,
@@ -451,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102507,
-      "num": 102507,
-      "word": "葛夕是天使",
-      "onboard_time": 1731606433,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 100880,
+      "num": 100880,
+      "word": "不吸烟女性肺癌发病率越来越高",
+      "onboard_time": 1731627017,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100674,
@@ -467,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94220,
-      "num": 94220,
-      "word": "特朗普提名的美防长曾直播扔斧头",
-      "onboard_time": 1731608532,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 90899,
+      "num": 110810,
+      "word": "被山海经的相柳转场震撼到",
+      "onboard_time": 1731627017,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 88565,
@@ -481,6 +521,14 @@
       "onboard_time": 1731601577,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86975,
+      "num": 86975,
+      "word": "平台已全额退还女子6万房费",
+      "onboard_time": 1731625816,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77225,
@@ -497,6 +545,14 @@
       "onboard_time": 1731607633,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 70043,
+      "num": 70043,
+      "word": "16岁中学生获正高职称后续",
+      "onboard_time": 1731623893,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65627,
@@ -523,11 +579,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56966,
-      "num": 61066,
-      "word": "平台已全额退还女子6万房费",
-      "onboard_time": 1731625816,
-      "rank": 38,
+      "raw_hot": 60575,
+      "num": 60575,
+      "word": "医院称无法证实女子被诊断9胞胎真伪",
+      "onboard_time": 1731626958,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -539,20 +595,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56045,
+      "num": 56045,
+      "word": "国足胜巴林范志毅跳APT",
+      "onboard_time": 1731627197,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51393,
       "num": 169365,
       "word": "副州长和原州长同日通报被查",
       "onboard_time": 1731601400,
       "rank": 25,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 50604,
-      "num": 61027,
-      "word": "16岁中学生获正高职称后续",
-      "onboard_time": 1731623893,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49061,
@@ -651,12 +707,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28337,
+      "num": 202629,
+      "word": "中铁七局称坚决维护记者合法权益",
+      "onboard_time": 1731627017,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 25751,
       "num": 25751,
       "word": "巴林进球越位",
       "onboard_time": 1731599780,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24918,
+      "num": 104186,
+      "word": "采访权是新闻记者的正当权利",
+      "onboard_time": 1731626297,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24082,
@@ -707,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 14419,
+      "num": 176516,
+      "word": "鲍威尔称美联储不急于降息",
+      "onboard_time": 1731626596,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 14235,
       "num": 54636,
       "word": "打记者也捂不住问题",
@@ -721,14 +801,6 @@
       "onboard_time": 1731621131,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11950,
-      "num": 104186,
-      "word": "采访权是新闻记者的正当权利",
-      "onboard_time": 1731626297,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11343,
@@ -804,7 +876,7 @@
     },
     {
       "raw_hot": 5499,
-      "num": 428512,
+      "num": 508403,
       "word": "80秒带你走进魅力秘鲁",
       "onboard_time": 1731589521,
       "rank": 2,
