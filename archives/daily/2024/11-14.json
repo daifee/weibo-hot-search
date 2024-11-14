@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731562791248,
+  "endTime": 1731565901383,
   "band_list": [
     {
       "raw_hot": 1777235,
@@ -25,6 +25,14 @@
       "onboard_time": 1731551778,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1328105,
+      "num": 220329,
+      "word": "李行亮指的是葛夕",
+      "onboard_time": 1731564202,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1096228,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 561076,
+      "num": 197253,
+      "word": "张艺兴工作人员朋友圈",
+      "onboard_time": 1731564142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542323,
       "num": 542323,
       "word": "丁禹兮 请苍天辨忠奸",
@@ -265,6 +281,14 @@
       "onboard_time": 1731559882,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459568,
+      "num": 459568,
+      "word": "重庆15岁女孩被母亲男友砍伤十多处",
+      "onboard_time": 1731558744,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 459453,
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339514,
+      "num": 339514,
+      "word": "子期杀了子期",
+      "onboard_time": 1731562761,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332155,
       "num": 332155,
       "word": "60个离婚律师把麦琳当典型研讨",
@@ -457,6 +489,14 @@
       "onboard_time": 1731495919,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 275919,
+      "num": 275919,
+      "word": "应届毕业考公考研还是好出路吗",
+      "onboard_time": 1731559823,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 260995,
@@ -545,14 +585,6 @@
       "onboard_time": 1731540317,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233745,
-      "num": 286156,
-      "word": "重庆15岁女孩被母亲男友砍伤十多处",
-      "onboard_time": 1731558744,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230843,
@@ -675,14 +707,6 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 200895,
-      "num": 200895,
-      "word": "应届毕业考公考研还是好出路吗",
-      "onboard_time": 1731559823,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 199909,
       "num": 160399,
       "word": "吴姗姗 白眼狼",
@@ -795,12 +819,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 172176,
+      "num": 172176,
+      "word": "金晨撑住了贴头皮造型",
+      "onboard_time": 1731564142,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171732,
       "num": 226464,
       "word": "入职县城医院的医学生为何逃回大城市",
       "onboard_time": 1731557122,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171599,
+      "num": 171599,
+      "word": "沙特皇家空军航展签下数十亿美元订单",
+      "onboard_time": 1731564081,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 171375,
+      "num": 173961,
+      "word": "李子柒熊猫蜀锦裙是自己缝的",
+      "onboard_time": 1731563241,
+      "rank": 27,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 169277,
@@ -811,11 +859,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168871,
+      "num": 168871,
+      "word": "JackeyLove和meiko携女友出游",
+      "onboard_time": 1731564081,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 168593,
+      "num": 168593,
+      "word": "赵牧辰要发歌了",
+      "onboard_time": 1731564921,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165193,
       "num": 190873,
       "word": "刘宇宁看见热搜的反应",
       "onboard_time": 1731541577,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164833,
+      "num": 164833,
+      "word": "丁禹兮百分之五十理论包不内耗的",
+      "onboard_time": 1731564142,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -971,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149178,
+      "num": 149178,
+      "word": "哈尔滨一田地内发现一具被焚尸体",
+      "onboard_time": 1731565821,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 148754,
       "num": 148754,
       "word": "比特币",
@@ -979,12 +1059,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148598,
+      "num": 148598,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1731565401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143181,
+      "num": 143181,
+      "word": "黄执中 看不出杨子是做过一天实事的人",
+      "onboard_time": 1731564982,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143002,
       "num": 143002,
       "word": "Uzi谈水晶哥一鱼四吃",
       "onboard_time": 1731552978,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142857,
+      "num": 142857,
+      "word": "王者荣耀联动角色柯南基德",
+      "onboard_time": 1731565761,
+      "rank": 40,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 141720,
@@ -1004,7 +1108,7 @@
     },
     {
       "raw_hot": 140291,
-      "num": 216591,
+      "num": 218001,
       "word": "中国人爆改沙漠有亿点惊艳",
       "onboard_time": 1731557362,
       "rank": 29,
@@ -1025,6 +1129,22 @@
       "onboard_time": 1731542959,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135415,
+      "num": 135415,
+      "word": "腾讯回应黑神话悟空爆火",
+      "onboard_time": 1731563241,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133679,
+      "num": 133679,
+      "word": "张云龙曾说娜扎很漂亮但不自信",
+      "onboard_time": 1731564681,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 133189,
@@ -1083,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120548,
+      "num": 120548,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1731563421,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119755,
       "num": 119755,
       "word": "电磁发射器亮相中国航展",
@@ -1105,14 +1233,6 @@
       "onboard_time": 1731562041,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 117351,
-      "num": 117351,
-      "word": "子期杀了子期",
-      "onboard_time": 1731562761,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 117025,
@@ -1299,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85138,
+      "num": 202728,
+      "word": "厦门今天含星量超标",
+      "onboard_time": 1731565701,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84875,
       "num": 290219,
       "word": "糖尿病可引起哪些并发症",
@@ -1385,6 +1513,14 @@
       "onboard_time": 1731556523,
       "rank": 21,
       "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 72741,
+      "num": 140453,
+      "word": "偷拍已形成完整的产业链",
+      "onboard_time": 1731563781,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72414,
@@ -1579,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43649,
+      "num": 213158,
+      "word": "一图读懂国足生死战",
+      "onboard_time": 1731565160,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43620,
       "num": 229718,
       "word": "时光音乐会旋转转场",
@@ -1723,6 +1867,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 28055,
+      "num": 179209,
+      "word": "王俊凯淡淡的幽默感",
+      "onboard_time": 1731564261,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27038,
+      "num": 171848,
+      "word": "王铁梅 妈妈姐姐老婆三角形战士",
+      "onboard_time": 1731565701,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26996,
       "num": 43706,
       "word": "五月天上海演唱会",
@@ -1739,12 +1899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23925,
+      "num": 201719,
+      "word": "马龙体验九个不同的职业角色",
+      "onboard_time": 1731565280,
+      "rank": 17,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 23444,
       "num": 30806,
       "word": "航天员汤洪波亮相中国航展",
       "onboard_time": 1731533291,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 22671,
+      "num": 194884,
+      "word": "近七成受访者感到线下社交能力退化",
+      "onboard_time": 1731564622,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 21708,
@@ -1875,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14706,
+      "num": 208234,
+      "word": "在人生终点站工作的年轻人",
+      "onboard_time": 1731564560,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 13860,
       "num": 39246,
       "word": "从中国到秘鲁竟然是个英语成语",
@@ -1929,6 +2113,14 @@
       "onboard_time": 1731523392,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10892,
+      "num": 212408,
+      "word": "人生92岁她在豆瓣杀出8.4的高分",
+      "onboard_time": 1731565520,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 10778,

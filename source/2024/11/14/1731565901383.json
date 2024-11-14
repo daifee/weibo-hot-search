@@ -1,0 +1,410 @@
+{
+  "runTime": 1731565901383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 809718,
+        "num": 1129554,
+        "word": "成毅赵露思 将门毒后",
+        "onboard_time": 1731557602,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768139,
+        "num": 768139,
+        "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731557182,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 3078,
+        "num": 609630,
+        "word": "大洋彼岸APEC氛围感拉满",
+        "onboard_time": 1731552619,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 459568,
+        "num": 459568,
+        "word": "重庆15岁女孩被母亲男友砍伤十多处",
+        "onboard_time": 1731558744,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339514,
+        "num": 339514,
+        "word": "子期杀了子期",
+        "onboard_time": 1731562761,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338418,
+        "num": 338418,
+        "word": "再也不做美甲了",
+        "onboard_time": 1731554480,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331487,
+        "num": 331487,
+        "word": "父亲去世后银行5.5万存款取不出",
+        "onboard_time": 1731551778,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275919,
+        "num": 275919,
+        "word": "应届毕业考公考研还是好出路吗",
+        "onboard_time": 1731559823,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273534,
+        "num": 273534,
+        "word": "永夜星河开超点",
+        "onboard_time": 1731559704,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220762,
+        "num": 220762,
+        "word": "A股",
+        "onboard_time": 1731552679,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1328105,
+        "num": 220329,
+        "word": "李行亮指的是葛夕",
+        "onboard_time": 1731564202,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116948,
+        "num": 218001,
+        "word": "中国人爆改沙漠有亿点惊艳",
+        "onboard_time": 1731557362,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 43649,
+        "num": 213158,
+        "word": "一图读懂国足生死战",
+        "onboard_time": 1731565160,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10892,
+        "num": 212408,
+        "word": "人生92岁她在豆瓣杀出8.4的高分",
+        "onboard_time": 1731565520,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14706,
+        "num": 208234,
+        "word": "在人生终点站工作的年轻人",
+        "onboard_time": 1731564560,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 610197,
+        "num": 206604,
+        "word": "于正说祝绪丹没上桌",
+        "onboard_time": 1731555802,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85138,
+        "num": 202728,
+        "word": "厦门今天含星量超标",
+        "onboard_time": 1731565701,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23925,
+        "num": 201719,
+        "word": "马龙体验九个不同的职业角色",
+        "onboard_time": 1731565280,
+        "rank": 17,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 561076,
+        "num": 197253,
+        "word": "张艺兴工作人员朋友圈",
+        "onboard_time": 1731564142,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22671,
+        "num": 194884,
+        "word": "近七成受访者感到线下社交能力退化",
+        "onboard_time": 1731564622,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 376618,
+        "num": 191927,
+        "word": "黄圣依怼杨子",
+        "onboard_time": 1731560063,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322654,
+        "num": 190003,
+        "word": "孕妇误踩宠物犬被咬后终止妊娠",
+        "onboard_time": 1731556103,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304638,
+        "num": 186739,
+        "word": "初中生骑车摔倒被供电公司车辆撞死",
+        "onboard_time": 1731556882,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 260824,
+        "num": 185051,
+        "word": "陈哲远自曝是真胖了",
+        "onboard_time": 1731559882,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256154,
+        "num": 182232,
+        "word": "大四男生确诊糖尿病称曾想轻生",
+        "onboard_time": 1731560722,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28055,
+        "num": 179209,
+        "word": "王俊凯淡淡的幽默感",
+        "onboard_time": 1731564261,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238669,
+        "num": 177384,
+        "word": "她一个月做了我一辈子的工作",
+        "onboard_time": 1731557362,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171375,
+        "num": 173961,
+        "word": "李子柒熊猫蜀锦裙是自己缝的",
+        "onboard_time": 1731563241,
+        "rank": 27,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 172176,
+        "num": 172176,
+        "word": "金晨撑住了贴头皮造型",
+        "onboard_time": 1731564142,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27038,
+        "num": 171848,
+        "word": "王铁梅 妈妈姐姐老婆三角形战士",
+        "onboard_time": 1731565701,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171599,
+        "num": 171599,
+        "word": "沙特皇家空军航展签下数十亿美元订单",
+        "onboard_time": 1731564081,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 171383,
+        "num": 171383,
+        "word": "杨子说黄圣依精神分裂",
+        "onboard_time": 1731561022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168871,
+        "num": 168871,
+        "word": "JackeyLove和meiko携女友出游",
+        "onboard_time": 1731564081,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168593,
+        "num": 168593,
+        "word": "赵牧辰要发歌了",
+        "onboard_time": 1731564921,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164833,
+        "num": 164833,
+        "word": "丁禹兮百分之五十理论包不内耗的",
+        "onboard_time": 1731564142,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155845,
+        "num": 155845,
+        "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+        "onboard_time": 1731553100,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155390,
+        "num": 155390,
+        "word": "李子柒过敏满脸纱布全身红疹",
+        "onboard_time": 1731553038,
+        "rank": 36,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 149178,
+        "num": 149178,
+        "word": "哈尔滨一田地内发现一具被焚尸体",
+        "onboard_time": 1731565821,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 148598,
+        "num": 148598,
+        "word": "湖人战胜灰熊",
+        "onboard_time": 1731565401,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143181,
+        "num": 143181,
+        "word": "黄执中 看不出杨子是做过一天实事的人",
+        "onboard_time": 1731564982,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142857,
+        "num": 142857,
+        "word": "王者荣耀联动角色柯南基德",
+        "onboard_time": 1731565761,
+        "rank": 40,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 141452,
+        "num": 141452,
+        "word": "南方小土豆第一次在尔滨抛光",
+        "onboard_time": 1731557783,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 72741,
+        "num": 140453,
+        "word": "偷拍已形成完整的产业链",
+        "onboard_time": 1731563781,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140020,
+        "num": 140020,
+        "word": "疑似虞书欣欺负人机视频流出",
+        "onboard_time": 1731555322,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136487,
+        "num": 136487,
+        "word": "再见爱人",
+        "onboard_time": 1731558023,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135415,
+        "num": 135415,
+        "word": "腾讯回应黑神话悟空爆火",
+        "onboard_time": 1731563241,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133679,
+        "num": 133679,
+        "word": "张云龙曾说娜扎很漂亮但不自信",
+        "onboard_time": 1731564681,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122230,
+        "num": 122230,
+        "word": "四千万的大平层漏水四年半没修好",
+        "onboard_time": 1731558984,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122198,
+        "num": 122198,
+        "word": "白敬亭新剧又循环了",
+        "onboard_time": 1731557842,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120548,
+        "num": 120548,
+        "word": "灰熊vs湖人",
+        "onboard_time": 1731563421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
