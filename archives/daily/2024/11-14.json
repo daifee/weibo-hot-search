@@ -1,7 +1,15 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731553354871,
+  "endTime": 1731554849201,
   "band_list": [
+    {
+      "raw_hot": 1234711,
+      "num": 1234711,
+      "word": "父亲去世后银行5.5万存款取不出",
+      "onboard_time": 1731551778,
+      "rank": 14,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1096228,
       "num": 1157651,
@@ -32,6 +40,14 @@
       "word": "成都漆器证实李子柒全程自己做",
       "onboard_time": 1731510320,
       "rank": 1,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 743297,
+      "num": 262668,
+      "word": "李子柒过敏满脸纱布全身红疹",
+      "onboard_time": 1731553038,
+      "rank": 24,
       "category": "美食,网红"
     },
     {
@@ -99,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530478,
+      "num": 530478,
+      "word": "黄金",
+      "onboard_time": 1731551956,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 519087,
       "num": 469497,
       "word": "姿态沉默下播",
@@ -121,22 +145,6 @@
       "onboard_time": 1731544579,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 499690,
-      "num": 499690,
-      "word": "父亲去世后银行5.5万存款取不出",
-      "onboard_time": 1731551778,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 496056,
-      "num": 496056,
-      "word": "黄金",
-      "onboard_time": 1731551956,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 472006,
@@ -243,6 +251,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 318821,
+      "num": 294528,
+      "word": "时代峰峻消防违法被罚4.6万",
+      "onboard_time": 1731552378,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313760,
       "num": 255753,
       "word": "00后代孕流产女孩发声",
@@ -267,14 +283,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 294528,
-      "num": 294528,
-      "word": "时代峰峻消防违法被罚4.6万",
-      "onboard_time": 1731552378,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285144,
       "num": 285144,
       "word": "无限暖暖公测定档",
@@ -291,12 +299,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 262668,
-      "num": 262668,
-      "word": "李子柒过敏满脸纱布全身红疹",
-      "onboard_time": 1731553038,
-      "rank": 24,
-      "category": "美食,网红"
+      "raw_hot": 269338,
+      "num": 269338,
+      "word": "烧伤妈妈出院前喝上久违的奶茶",
+      "onboard_time": 1731554120,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255770,
@@ -304,6 +312,14 @@
       "word": "杭州23周超早产儿米宝出院了",
       "onboard_time": 1731541879,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254840,
+      "num": 254840,
+      "word": "青岛警报",
+      "onboard_time": 1731553218,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -363,6 +379,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 223166,
+      "num": 223166,
+      "word": "鹿晗生图live",
+      "onboard_time": 1731550818,
+      "rank": 35,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 220225,
       "num": 194755,
       "word": "特朗普提名多人出任重要职位",
@@ -385,6 +409,14 @@
       "onboard_time": 1731498142,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214009,
+      "num": 268470,
+      "word": "林志玲现身河南看望帮扶的学生",
+      "onboard_time": 1731553458,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 211126,
@@ -411,6 +443,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 202169,
+      "num": 202169,
+      "word": "再也不做美甲了",
+      "onboard_time": 1731554480,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199909,
       "num": 160399,
       "word": "吴姗姗 白眼狼",
@@ -433,14 +473,6 @@
       "onboard_time": 1731550879,
       "rank": 33,
       "category": "军事"
-    },
-    {
-      "raw_hot": 190844,
-      "num": 190844,
-      "word": "鹿晗生图live",
-      "onboard_time": 1731550818,
-      "rank": 35,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 189760,
@@ -491,6 +523,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 159397,
+      "num": 159397,
+      "word": "民警用被子包住迷路小雪豹",
+      "onboard_time": 1731550700,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "3名强奸未成年人罪犯被执行死刑",
@@ -523,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149598,
+      "num": 223222,
+      "word": "等夏弃疾喂饭",
+      "onboard_time": 1731553458,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149336,
       "num": 244043,
       "word": "太好了是再见爱人职业规划师",
@@ -539,12 +587,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146161,
-      "num": 146161,
-      "word": "民警用被子包住迷路小雪豹",
-      "onboard_time": 1731550700,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 143002,
+      "num": 143002,
+      "word": "Uzi谈水晶哥一鱼四吃",
+      "onboard_time": 1731552978,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 140636,
@@ -563,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134567,
-      "num": 134567,
-      "word": "青岛警报",
-      "onboard_time": 1731553218,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133189,
       "num": 133189,
       "word": "王鹤棣刘耀文LV珠宝大片",
@@ -585,6 +625,14 @@
       "onboard_time": 1731548238,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131385,
+      "num": 131385,
+      "word": "母亲骨灰盒从他人墓里找到儿子发声",
+      "onboard_time": 1731554602,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131321,
@@ -649,6 +697,14 @@
       "onboard_time": 1731550457,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110728,
+      "num": 269818,
+      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+      "onboard_time": 1731553100,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108273,
@@ -787,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81009,
+      "num": 261122,
+      "word": "国足拼下一场胜利就有望跻身前四",
+      "onboard_time": 1731554001,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80910,
       "num": 80910,
       "word": "土耳其已正式断绝与以色列的关系",
@@ -827,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74800,
+      "num": 267410,
+      "word": "报警谎称丢失包里有毒馒头被行拘",
+      "onboard_time": 1731553641,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74331,
       "num": 74331,
       "word": "TWICE新专概念照",
@@ -851,12 +923,12 @@
       "category": "网红,美食"
     },
     {
-      "raw_hot": 72220,
-      "num": 269818,
-      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
-      "onboard_time": 1731553100,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 71806,
+      "num": 290219,
+      "word": "糖尿病可引起哪些并发症",
+      "onboard_time": 1731553218,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71646,
@@ -921,6 +993,14 @@
       "onboard_time": 1731517576,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66257,
+      "num": 272014,
+      "word": "买房还没交契税能享受1%税率吗",
+      "onboard_time": 1731553819,
+      "rank": 9,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 64904,
@@ -1091,14 +1171,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 36642,
-      "num": 290219,
-      "word": "糖尿病可引起哪些并发症",
-      "onboard_time": 1731553218,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 34397,
       "num": 34397,
       "word": "谢谢陪我来2024",
@@ -1156,7 +1228,7 @@
     },
     {
       "raw_hot": 28434,
-      "num": 186835,
+      "num": 223167,
       "word": "华为见非凡徐冰谈敢于探索",
       "onboard_time": 1731552737,
       "rank": 49,
@@ -1289,6 +1361,14 @@
       "onboard_time": 1731552800,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15716,
+      "num": 262396,
+      "word": "两名外国军人在中国武器面前挪不动步",
+      "onboard_time": 1731554602,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 14834,

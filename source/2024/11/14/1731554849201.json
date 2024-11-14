@@ -1,0 +1,410 @@
+{
+  "runTime": 1731554849201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234711,
+        "num": 1234711,
+        "word": "父亲去世后银行5.5万存款取不出",
+        "onboard_time": 1731551778,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558788,
+        "num": 558788,
+        "word": "浪胃仙IP创始人获刑8年",
+        "onboard_time": 1731511881,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33276,
+        "num": 540522,
+        "word": "大洋彼岸APEC氛围感拉满",
+        "onboard_time": 1731552619,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 538423,
+        "num": 538423,
+        "word": "台风",
+        "onboard_time": 1731550759,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 530478,
+        "num": 530478,
+        "word": "黄金",
+        "onboard_time": 1731551956,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 426666,
+        "num": 426666,
+        "word": "丁禹兮 请苍天辨忠奸",
+        "onboard_time": 1731549257,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386390,
+        "num": 386390,
+        "word": "成都漆器证实李子柒全程自己做",
+        "onboard_time": 1731510320,
+        "rank": 6,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 332487,
+        "num": 332487,
+        "word": "小米发布智能底盘预研技术",
+        "onboard_time": 1731551359,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 281930,
+        "num": 281930,
+        "word": "2025高校毕业生预计1222万人",
+        "onboard_time": 1731549437,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66257,
+        "num": 272014,
+        "word": "买房还没交契税能享受1%税率吗",
+        "onboard_time": 1731553819,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 318821,
+        "num": 271574,
+        "word": "时代峰峻消防违法被罚4.6万",
+        "onboard_time": 1731552378,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269338,
+        "num": 269338,
+        "word": "烧伤妈妈出院前喝上久违的奶茶",
+        "onboard_time": 1731554120,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214009,
+        "num": 268470,
+        "word": "林志玲现身河南看望帮扶的学生",
+        "onboard_time": 1731553458,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74800,
+        "num": 267410,
+        "word": "报警谎称丢失包里有毒馒头被行拘",
+        "onboard_time": 1731553641,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71806,
+        "num": 266402,
+        "word": "糖尿病可引起哪些并发症",
+        "onboard_time": 1731553218,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193099,
+        "num": 265513,
+        "word": "刘宇宁直播了5个小时",
+        "onboard_time": 1731544579,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165135,
+        "num": 264500,
+        "word": "成毅 扛剧",
+        "onboard_time": 1731544579,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15716,
+        "num": 262396,
+        "word": "两名外国军人在中国武器面前挪不动步",
+        "onboard_time": 1731554602,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 81009,
+        "num": 261122,
+        "word": "国足拼下一场胜利就有望跻身前四",
+        "onboard_time": 1731554001,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110728,
+        "num": 260359,
+        "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+        "onboard_time": 1731553100,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743297,
+        "num": 259399,
+        "word": "李子柒过敏满脸纱布全身红疹",
+        "onboard_time": 1731553038,
+        "rank": 20,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 288803,
+        "num": 257665,
+        "word": "00后女生每天打四份工一年攒10万",
+        "onboard_time": 1731543679,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376151,
+        "num": 256501,
+        "word": "越南模仿李子柒的博主也停更三年",
+        "onboard_time": 1731499222,
+        "rank": 22,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 274357,
+        "num": 255953,
+        "word": "拜登特朗普白宫会面",
+        "onboard_time": 1731547878,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254840,
+        "num": 254840,
+        "word": "青岛警报",
+        "onboard_time": 1731553218,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235632,
+        "num": 235632,
+        "word": "江苏无锡京东物流园突发大火",
+        "onboard_time": 1731545479,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 233341,
+        "num": 233341,
+        "word": "外籍女子与男子未婚生子1月后出走",
+        "onboard_time": 1731544101,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160074,
+        "num": 224045,
+        "word": "星辰大海开营",
+        "onboard_time": 1731551177,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149598,
+        "num": 223222,
+        "word": "等夏弃疾喂饭",
+        "onboard_time": 1731553458,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24514,
+        "num": 223167,
+        "word": "华为见非凡徐冰谈敢于探索",
+        "onboard_time": 1731552737,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223166,
+        "num": 223166,
+        "word": "鹿晗生图live",
+        "onboard_time": 1731550818,
+        "rank": 30,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 215975,
+        "num": 215975,
+        "word": "加沙小孩玩耍捡到爆炸物突然爆炸",
+        "onboard_time": 1731549257,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213243,
+        "num": 213243,
+        "word": "A股",
+        "onboard_time": 1731552679,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202169,
+        "num": 202169,
+        "word": "再也不做美甲了",
+        "onboard_time": 1731554480,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188071,
+        "num": 188071,
+        "word": "十个勤天两周年",
+        "onboard_time": 1731551418,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179042,
+        "num": 179042,
+        "word": "美媒称梅拉尼娅拒绝去白宫见拜登夫人",
+        "onboard_time": 1731549918,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169389,
+        "num": 169389,
+        "word": "女子高速倒车加超速求民警留1分",
+        "onboard_time": 1731548298,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164093,
+        "num": 164093,
+        "word": "无限暖暖公测定档",
+        "onboard_time": 1731551359,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "秋冬吃甘蔗是大补",
+        "onboard_time": 1731546738,
+        "rank": 38,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 159397,
+        "num": 159397,
+        "word": "民警用被子包住迷路小雪豹",
+        "onboard_time": 1731550700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 156578,
+        "word": "宁德时代将考虑赴美建厂",
+        "onboard_time": 1731550937,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152906,
+        "num": 152906,
+        "word": "通知公布半小时已有人下单去广州",
+        "onboard_time": 1731511400,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150085,
+        "num": 150085,
+        "word": "姿态沉默下播",
+        "onboard_time": 1731546738,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143002,
+        "num": 143002,
+        "word": "Uzi谈水晶哥一鱼四吃",
+        "onboard_time": 1731552978,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136111,
+        "num": 136111,
+        "word": "太好了是再见爱人职业规划师",
+        "onboard_time": 1731550338,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131385,
+        "num": 131385,
+        "word": "母亲骨灰盒从他人墓里找到儿子发声",
+        "onboard_time": 1731554602,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130869,
+        "num": 130869,
+        "word": "赵露思方取证",
+        "onboard_time": 1731539596,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124279,
+        "num": 124279,
+        "word": "被泼开水女童家长发声",
+        "onboard_time": 1731521412,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122591,
+        "num": 122591,
+        "word": "家人回应男子疑被当猎物遭枪击身亡",
+        "onboard_time": 1731544520,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122435,
+        "num": 122435,
+        "word": "孙颖莎张博恒王楚钦 大学生严选",
+        "onboard_time": 1731548717,
+        "rank": 49,
+        "category": "教育,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
