@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731591675437,
+  "endTime": 1731594073677,
   "band_list": [
     {
       "raw_hot": 1783260,
@@ -115,6 +115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 990112,
+      "num": 638508,
+      "word": "气胸",
+      "onboard_time": 1731590962,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 981662,
       "num": 1155636,
       "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
@@ -139,8 +147,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883031,
+      "num": 883031,
+      "word": "大理公安局局长主动投案",
+      "onboard_time": 1731588201,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 870272,
-      "num": 870272,
+      "num": 1440752,
       "word": "妙妙失忆忘了子期",
       "onboard_time": 1731584120,
       "rank": 1,
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 642559,
-      "num": 642559,
-      "word": "大理公安局局长主动投案",
-      "onboard_time": 1731588201,
-      "rank": 3,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 641613,
       "num": 866934,
       "word": "中铁七局相关负责人回应记者遇袭",
@@ -329,6 +337,14 @@
       "onboard_time": 1731497240,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 611325,
+      "num": 611325,
+      "word": "中铁七局发布新华社记者遇袭声明",
+      "onboard_time": 1731590361,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 605917,
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 551552,
+      "num": 1064399,
+      "word": "国足vs巴林",
+      "onboard_time": 1731590901,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 547121,
       "num": 547121,
       "word": "有人要给免费升级宽带你赶紧拒绝",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 540328,
-      "num": 866140,
+      "num": 1109692,
       "word": "没人选麦琳",
       "onboard_time": 1731585380,
       "rank": 4,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 484006,
-      "num": 286032,
+      "num": 297222,
       "word": "丁禹兮工作室",
       "onboard_time": 1731580461,
       "rank": 45,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 467522,
-      "num": 294067,
+      "num": 342478,
       "word": "原来下肢是人体的血糖仪",
       "onboard_time": 1731577881,
       "rank": 22,
@@ -569,6 +593,14 @@
       "onboard_time": 1731559882,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466001,
+      "num": 508907,
+      "word": "陈梦发表获奖感言",
+      "onboard_time": 1731590242,
+      "rank": 11,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 463661,
@@ -611,12 +643,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 427139,
+      "num": 427139,
+      "word": "退货",
+      "onboard_time": 1731591321,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 427125,
       "num": 337515,
       "word": "东北雨姐丈夫多家企业申请注销又撤回",
       "onboard_time": 1731575721,
       "rank": 33,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 426236,
+      "num": 599047,
+      "word": "蔡徐坤回国纯黑look",
+      "onboard_time": 1731592762,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 425367,
@@ -1003,6 +1051,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257683,
+      "num": 257683,
+      "word": "虞书欣壁纸",
+      "onboard_time": 1731591681,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256764,
+      "num": 451607,
+      "word": "林高远发言好感人",
+      "onboard_time": 1731591021,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255770,
       "num": 255770,
       "word": "杭州23周超早产儿米宝出院了",
@@ -1049,14 +1113,6 @@
       "onboard_time": 1731510320,
       "rank": 16,
       "category": "母婴育儿,健康医疗"
-    },
-    {
-      "raw_hot": 249157,
-      "num": 249157,
-      "word": "中铁七局发布新华社记者遇袭声明",
-      "onboard_time": 1731590361,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 248646,
@@ -1147,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233173,
-      "num": 508907,
-      "word": "陈梦发表获奖感言",
-      "onboard_time": 1731590242,
-      "rank": 11,
-      "category": "电竞,体育"
-    },
-    {
       "raw_hot": 231972,
       "num": 231972,
       "word": "丁禹兮谈和虞书欣二搭感受",
@@ -1219,12 +1267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224612,
+      "num": 224612,
+      "word": "年度杰出运动员",
+      "onboard_time": 1731591140,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223489,
       "num": 223489,
       "word": "虞书欣轻轻萌晕在场工作人员",
       "onboard_time": 1731568280,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223341,
+      "num": 223341,
+      "word": "践踏舆论监督要为此付出代价",
+      "onboard_time": 1731593482,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 223177,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1731550818,
       "rank": 35,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 223043,
+      "num": 223043,
+      "word": "再见爱人 油管",
+      "onboard_time": 1731589281,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 222685,
@@ -1323,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214274,
-      "num": 214274,
-      "word": "再见爱人 油管",
-      "onboard_time": 1731589281,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213101,
       "num": 213101,
       "word": "永夜星河收妖塔 浣衣局",
@@ -1379,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210414,
-      "num": 210414,
-      "word": "气胸",
-      "onboard_time": 1731590962,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206795,
       "num": 221362,
       "word": "肖战都一样MV",
@@ -1403,20 +1459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205702,
+      "num": 205702,
+      "word": "黄玲张嘴就是绝杀",
+      "onboard_time": 1731592640,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204464,
       "num": 204464,
       "word": "杨谨华谈是否与萧亚轩破镜重圆",
       "onboard_time": 1731545000,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203716,
-      "num": 203716,
-      "word": "年度杰出运动员",
-      "onboard_time": 1731591140,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 202963,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1731569418,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199050,
-      "num": 509365,
-      "word": "国足vs巴林",
-      "onboard_time": 1731590901,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 197951,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1731590242,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192309,
+      "num": 192309,
+      "word": "黄雅琼夸林高远发言",
+      "onboard_time": 1731593603,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 191076,
@@ -1731,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179548,
+      "num": 179548,
+      "word": "马可波罗新皮肤怪盗基德",
+      "onboard_time": 1731593843,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179404,
       "num": 179404,
       "word": "时空中的绘旅人",
@@ -1859,6 +1923,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 166202,
+      "num": 166202,
+      "word": "虞书欣剧宣的含金量还在上升",
+      "onboard_time": 1731592222,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165193,
       "num": 190873,
       "word": "刘宇宁看见热搜的反应",
@@ -1931,6 +2003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160855,
+      "num": 1198245,
+      "word": "国足直播",
+      "onboard_time": 1731593182,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160685,
       "num": 160685,
       "word": "能让INFJ流泪的一句话",
@@ -1987,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158026,
+      "num": 158026,
+      "word": "换乘爱人",
+      "onboard_time": 1731591561,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157713,
       "num": 157713,
       "word": "王者联动柯南送柯南灵宝",
@@ -2011,12 +2099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155998,
-      "num": 155998,
-      "word": "退货",
-      "onboard_time": 1731591321,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 155899,
+      "num": 155899,
+      "word": "一诺耳骨夹",
+      "onboard_time": 1731591741,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 155067,
@@ -2033,14 +2121,6 @@
       "onboard_time": 1731591622,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154348,
-      "num": 154348,
-      "word": "换乘爱人",
-      "onboard_time": 1731591561,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 153593,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1731548717,
       "rank": 36,
       "category": "教育,体育"
-    },
-    {
-      "raw_hot": 139992,
-      "num": 451607,
-      "word": "林高远发言好感人",
-      "onboard_time": 1731591021,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 137638,
@@ -2593,6 +2665,14 @@
       "onboard_time": 1731572060,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99704,
+      "num": 1215962,
+      "word": "遇袭记者人身安全手机已退回",
+      "onboard_time": 1731593241,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 99448,
@@ -2955,12 +3035,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65488,
+      "num": 342487,
+      "word": "杨子麦琳互相让对方反思",
+      "onboard_time": 1731588321,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65164,
+      "num": 571378,
+      "word": "跳水队照片回忆杀",
+      "onboard_time": 1731592821,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64904,
       "num": 99581,
       "word": "熊猫宝宝的睡前仪式感有多强",
       "onboard_time": 1731546200,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64227,
+      "num": 1311988,
+      "word": "国足近一年首次0归化首发",
+      "onboard_time": 1731593361,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 64091,
@@ -3075,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55029,
+      "num": 587262,
+      "word": "专家称女生学不好数学是胡说",
+      "onboard_time": 1731592702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54687,
       "num": 278076,
       "word": "运油20的压迫感到底有多强",
@@ -3123,6 +3235,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 52156,
+      "num": 1001631,
+      "word": "仅退款变0元购网上公开卖薅羊毛课程",
+      "onboard_time": 1731592522,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51417,
       "num": 55415,
       "word": "小巷人家",
@@ -3137,6 +3257,14 @@
       "onboard_time": 1731573741,
       "rank": 8,
       "category": "正能量,军事"
+    },
+    {
+      "raw_hot": 50955,
+      "num": 979128,
+      "word": "直播间对对碰利润高达20%",
+      "onboard_time": 1731592640,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49578,
@@ -3227,6 +3355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44838,
+      "num": 1403683,
+      "word": "秘鲁人举剪刀跳舞比赛10小时",
+      "onboard_time": 1731590002,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44690,
       "num": 506708,
       "word": "黄雅琼优雅摩登女王",
@@ -3315,14 +3451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39949,
-      "num": 580443,
-      "word": "秘鲁人举剪刀跳舞比赛10小时",
-      "onboard_time": 1731590002,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39108,
       "num": 87546,
       "word": "地铁里遇到导盲犬这一刻心都化了",
@@ -3409,6 +3537,14 @@
       "onboard_time": 1731536473,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 37226,
+      "num": 902885,
+      "word": "专家称税费降低将提高房东卖房积极性",
+      "onboard_time": 1731592762,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37042,
@@ -3515,6 +3651,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 31491,
+      "num": 652339,
+      "word": "7年前被责令拆除的违建悄然完工",
+      "onboard_time": 1731593122,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 31448,
       "num": 254201,
       "word": "张碧晨看大梦归离",
@@ -3545,6 +3689,14 @@
       "onboard_time": 1731520453,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30262,
+      "num": 1278781,
+      "word": "国足赢巴林有望跻身小组前四",
+      "onboard_time": 1731593301,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 29891,
@@ -3617,6 +3769,14 @@
       "onboard_time": 1731573020,
       "rank": 17,
       "category": "军事"
+    },
+    {
+      "raw_hot": 27282,
+      "num": 732803,
+      "word": "张玉宁单刀不进",
+      "onboard_time": 1731593843,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 27038,
