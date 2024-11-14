@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731595242336,
+  "endTime": 1731597864870,
   "band_list": [
     {
       "raw_hot": 1783260,
@@ -131,6 +131,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 977707,
+      "num": 1064399,
+      "word": "国足vs巴林",
+      "onboard_time": 1731590901,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 977002,
       "num": 471181,
       "word": "炒股4年赚5千万00后直言最近亏麻了",
@@ -139,20 +147,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 969382,
+      "num": 427345,
+      "word": "退货",
+      "onboard_time": 1731591321,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 932868,
       "num": 333525,
       "word": "疑似虞书欣欺负人机视频流出",
       "onboard_time": 1731555322,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 898617,
-      "num": 427345,
-      "word": "退货",
-      "onboard_time": 1731591321,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 883031,
@@ -169,14 +177,6 @@
       "onboard_time": 1731584120,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 869143,
-      "num": 1064399,
-      "word": "国足vs巴林",
-      "onboard_time": 1731590901,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 857524,
@@ -217,6 +217,14 @@
       "onboard_time": 1731510320,
       "rank": 1,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 806848,
+      "num": 806848,
+      "word": "papi酱说李行亮不哄了",
+      "onboard_time": 1731596003,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 769007,
@@ -417,6 +425,14 @@
       "onboard_time": 1731564142,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563940,
+      "num": 563940,
+      "word": "马可波罗新皮肤怪盗基德",
+      "onboard_time": 1731593843,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 556598,
@@ -899,14 +915,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 305441,
-      "num": 305441,
-      "word": "马可波罗新皮肤怪盗基德",
-      "onboard_time": 1731593843,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 305137,
       "num": 344803,
       "word": "被泼开水女童父亲称民警要求道歉",
@@ -921,6 +929,14 @@
       "onboard_time": 1731576201,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 302549,
+      "num": 302549,
+      "word": "食用植物油散装运输国家标准即将实施",
+      "onboard_time": 1731595942,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 300097,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1731585499,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272837,
+      "num": 434039,
+      "word": "践踏舆论监督要为此付出代价",
+      "onboard_time": 1731593482,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 271915,
@@ -1163,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244985,
+      "num": 244985,
+      "word": "孕妇称检出9胞胎诊断医院回应",
+      "onboard_time": 1731595042,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244281,
       "num": 244281,
       "word": "王鹤棣泰国演唱会门票秒售罄",
@@ -1307,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223341,
-      "num": 434039,
-      "word": "践踏舆论监督要为此付出代价",
-      "onboard_time": 1731593482,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 223177,
       "num": 318104,
       "word": "侯佩岑 杨子是没饭硬吃",
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214045,
+      "num": 214045,
+      "word": "于子洋确认离开国家队",
+      "onboard_time": 1731597561,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213101,
       "num": 213101,
       "word": "永夜星河收妖塔 浣衣局",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1731568880,
       "rank": 26,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 202889,
+      "num": 293174,
+      "word": "被打调查记者曾获8次中国新闻奖",
+      "onboard_time": 1731596003,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202281,
@@ -1811,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178796,
+      "num": 272422,
+      "word": "小巷人家实时收视率破1",
+      "onboard_time": 1731597319,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178350,
       "num": 178350,
       "word": "冠佑更博",
@@ -1905,6 +1953,14 @@
       "onboard_time": 1731560424,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168797,
+      "num": 271547,
+      "word": "王安宇 天选林栋哲",
+      "onboard_time": 1731595702,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 168593,
@@ -2017,6 +2073,14 @@
       "onboard_time": 1731572360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161454,
+      "num": 268843,
+      "word": "卧龙凤雏CP",
+      "onboard_time": 1731595942,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 160895,
@@ -2139,14 +2203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154411,
-      "num": 154411,
-      "word": "孕妇称检出9胞胎诊断医院回应",
-      "onboard_time": 1731595042,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153593,
       "num": 153593,
       "word": "T1辅助Keria续约至2026年",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1731565401,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153309,
+      "num": 153309,
+      "word": "赵今麦樱桃琥珀撑伞路透",
+      "onboard_time": 1731597082,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 152420,
@@ -2273,6 +2337,14 @@
       "onboard_time": 1731553458,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149571,
+      "num": 149571,
+      "word": "菜鸡互啄",
+      "onboard_time": 1731597380,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 149545,
@@ -2523,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116826,
+      "num": 298543,
+      "word": "一诺 谢谢大家对我的肯定",
+      "onboard_time": 1731597740,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115446,
       "num": 267827,
       "word": "星辰大海",
@@ -2587,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111286,
+      "num": 221536,
+      "word": "国足半场0比0巴林",
+      "onboard_time": 1731596003,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108273,
       "num": 91491,
       "word": "胖东来珠宝员工年薪从未低于20万",
@@ -2644,7 +2732,7 @@
     },
     {
       "raw_hot": 104704,
-      "num": 206470,
+      "num": 242941,
       "word": "金素恩悼念宋再临",
       "onboard_time": 1731584601,
       "rank": 29,
@@ -2657,6 +2745,14 @@
       "onboard_time": 1731491780,
       "rank": 28,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 103969,
+      "num": 272851,
+      "word": "运输非食品的容器不应运输食用植物油",
+      "onboard_time": 1731595942,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102613,
@@ -2907,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76301,
+      "num": 133364,
+      "word": "国足半场仅1脚射门",
+      "onboard_time": 1731596302,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76249,
       "num": 255756,
       "word": "国足若输给巴林晋级希望渺茫",
@@ -2993,6 +3097,14 @@
       "onboard_time": 1731587661,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71988,
+      "num": 286846,
+      "word": "赵小童圆了之前的心愿",
+      "onboard_time": 1731596782,
+      "rank": 17,
+      "category": "艺人,军事"
     },
     {
       "raw_hot": 71646,
@@ -3129,6 +3241,14 @@
       "onboard_time": 1731578960,
       "rank": 8,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 63774,
+      "num": 282323,
+      "word": "物业疑将小区电梯监控放平台直播",
+      "onboard_time": 1731597561,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63330,
@@ -3275,6 +3395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53759,
+      "num": 301250,
+      "word": "警方介入男子当街殴打老父亲",
+      "onboard_time": 1731596841,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 53132,
       "num": 507953,
       "word": "遭母亲男友砍伤女孩经鉴定属轻微伤",
@@ -3416,6 +3544,14 @@
       "word": "林高远解读穿搭好专业",
       "onboard_time": 1731582019,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45348,
+      "num": 291577,
+      "word": "韦世豪痛苦倒地",
+      "onboard_time": 1731596721,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -3673,6 +3809,14 @@
       "onboard_time": 1731531910,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 33436,
+      "num": 284584,
+      "word": "巴林保安不让队医陪同李磊回更衣室",
+      "onboard_time": 1731597380,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 33317,
@@ -4273,6 +4417,14 @@
       "onboard_time": 1731573141,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 10373,
+      "num": 295734,
+      "word": "范志毅说国足你慌个啥啊",
+      "onboard_time": 1731597680,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 9981,
