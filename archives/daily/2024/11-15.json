@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731624079859,
+  "endTime": 1731626583874,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532052,
+      "num": 532052,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 504306,
       "num": 360629,
       "word": "国足 裁判",
@@ -89,6 +97,14 @@
       "onboard_time": 1731590361,
       "rank": 12,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 374192,
+      "num": 159433,
+      "word": "孕妇称检出9胞胎诊断医院回应",
+      "onboard_time": 1731595042,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359683,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284893,
+      "num": 1159821,
+      "word": "国足一秒地狱一秒天堂",
+      "onboard_time": 1731600679,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272604,
       "num": 272604,
       "word": "于子洋确认离开国家队",
@@ -139,7 +163,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251037,
+      "raw_hot": 258378,
       "num": 251037,
       "word": "25岁小伙长期熬夜确诊心衰",
       "onboard_time": 1731583221,
@@ -171,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213883,
-      "num": 213883,
-      "word": "除夕不用请假了你打算回家还是旅游",
-      "onboard_time": 1731616390,
-      "rank": 9,
-      "category": "议题讨论"
+      "raw_hot": 220752,
+      "num": 220752,
+      "word": "韩国高考听力时段全境暂停飞机起降",
+      "onboard_time": 1731611592,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 209077,
@@ -193,22 +217,6 @@
       "onboard_time": 1731593843,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189968,
-      "num": 127185,
-      "word": "孕妇称检出9胞胎诊断医院回应",
-      "onboard_time": 1731595042,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189606,
-      "num": 1159821,
-      "word": "国足一秒地狱一秒天堂",
-      "onboard_time": 1731600679,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 184911,
@@ -259,12 +267,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 150916,
+      "num": 103441,
+      "word": "3绒3羊3胞胎妈妈已坚持33周",
+      "onboard_time": 1731606314,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 149881,
+      "num": 149881,
+      "word": "大理公安局局长主动投案",
+      "onboard_time": 1731588201,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 147859,
       "num": 147859,
       "word": "阁楼上的疯女人",
       "onboard_time": 1731599899,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142543,
+      "num": 142543,
+      "word": "镇政府回应19岁男孩辍学打工照顾妹妹",
+      "onboard_time": 1731624434,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138428,
@@ -291,12 +323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129793,
+      "num": 103027,
+      "word": "黄金跌上热搜",
+      "onboard_time": 1731622811,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129386,
       "num": 129386,
       "word": "国足积分",
       "onboard_time": 1731602537,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125263,
+      "num": 125263,
+      "word": "三个台风海上共舞",
+      "onboard_time": 1731622391,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124449,
@@ -339,12 +387,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112008,
+      "num": 112008,
+      "word": "A股机构举报游资传闻是怎么回事",
+      "onboard_time": 1731599421,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108837,
       "num": 108837,
       "word": "上海交大偶遇关晓彤",
       "onboard_time": 1731584841,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108186,
+      "num": 102563,
+      "word": "狗狗在家里被人开车投毒死亡",
+      "onboard_time": 1731614771,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 108141,
@@ -355,28 +419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108040,
-      "num": 108040,
-      "word": "大理公安局局长主动投案",
-      "onboard_time": 1731588201,
-      "rank": 42,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 105638,
-      "num": 105638,
-      "word": "A股机构举报游资传闻是怎么回事",
-      "onboard_time": 1731599421,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 105318,
       "num": 105318,
       "word": "煤气灯效应",
       "onboard_time": 1731593002,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104348,
+      "num": 104348,
+      "word": "庄筱婷林栋哲恋情公开",
+      "onboard_time": 1731622211,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 104082,
@@ -395,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102507,
+      "num": 102507,
+      "word": "葛夕是天使",
+      "onboard_time": 1731606433,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100674,
       "num": 100674,
       "word": "国足1比0战胜巴林队",
@@ -403,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96884,
-      "num": 96884,
-      "word": "韩国高考听力时段全境暂停飞机起降",
-      "onboard_time": 1731611592,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 94220,
+      "num": 94220,
+      "word": "特朗普提名的美防长曾直播扔斧头",
+      "onboard_time": 1731608532,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88565,
@@ -435,14 +499,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 73144,
-      "num": 54636,
-      "word": "3绒3羊3胞胎妈妈已坚持33周",
-      "onboard_time": 1731606314,
-      "rank": 37,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 65627,
       "num": 1234978,
       "word": "张玉宁谈最后的进球",
@@ -467,28 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56966,
+      "num": 61066,
+      "word": "平台已全额退还女子6万房费",
+      "onboard_time": 1731625816,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56662,
       "num": 59715,
       "word": "第37届金鸡奖获奖预测",
       "onboard_time": 1731586521,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53869,
-      "num": 54634,
-      "word": "三个台风海上共舞",
-      "onboard_time": 1731622391,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51589,
-      "num": 51589,
-      "word": "狗狗在家里被人开车投毒死亡",
-      "onboard_time": 1731614771,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 51393,
@@ -499,19 +547,19 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 50604,
+      "num": 61027,
+      "word": "16岁中学生获正高职称后续",
+      "onboard_time": 1731623893,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49061,
       "num": 59703,
       "word": "丁禹兮好会哭",
       "onboard_time": 1731596662,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 48546,
-      "num": 40122,
-      "word": "庄筱婷林栋哲恋情公开",
-      "onboard_time": 1731622211,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -524,27 +572,11 @@
     },
     {
       "raw_hot": 47746,
-      "num": 59703,
+      "num": 60941,
       "word": "再见爱人",
       "onboard_time": 1731593663,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47584,
-      "num": 47584,
-      "word": "葛夕是天使",
-      "onboard_time": 1731606433,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 47496,
-      "num": 47496,
-      "word": "特朗普提名的美防长曾直播扔斧头",
-      "onboard_time": 1731608532,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47062,
@@ -571,14 +603,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 36427,
-      "num": 36427,
-      "word": "黄金跌上热搜",
-      "onboard_time": 1731622811,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 34088,
       "num": 175529,
       "word": "公众知情权不能打",
@@ -593,6 +617,14 @@
       "onboard_time": 1731601337,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31357,
+      "num": 60950,
+      "word": "直击第37届金鸡奖",
+      "onboard_time": 1731612432,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 29877,
@@ -627,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23501,
-      "num": 25601,
-      "word": "16岁中学生获正高职称后续",
-      "onboard_time": 1731623893,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 24082,
+      "num": 61520,
+      "word": "追访合新铁路事件遭袭记者发声",
+      "onboard_time": 1731625095,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 19692,
@@ -657,14 +689,6 @@
       "onboard_time": 1731614110,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18252,
-      "num": 25595,
-      "word": "直击第37届金鸡奖",
-      "onboard_time": 1731612432,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 16426,
@@ -699,11 +723,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11950,
+      "num": 104186,
+      "word": "采访权是新闻记者的正当权利",
+      "onboard_time": 1731626297,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11343,
       "num": 26308,
       "word": "中国海警位中国黄岩岛领海执法巡查",
       "onboard_time": 1731611171,
       "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10930,
+      "num": 60982,
+      "word": "神十九航天员要准备收快递了",
+      "onboard_time": 1731626356,
+      "rank": 45,
       "category": "国内时政"
     },
     {
