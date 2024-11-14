@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731561724737,
+  "endTime": 1731562791248,
   "band_list": [
     {
       "raw_hot": 1777235,
@@ -259,20 +259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467419,
+      "num": 311054,
+      "word": "陈哲远自曝是真胖了",
+      "onboard_time": 1731559882,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459453,
       "num": 459453,
       "word": "T1",
       "onboard_time": 1731556222,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 449369,
-      "num": 311054,
-      "word": "陈哲远自曝是真胖了",
-      "onboard_time": 1731559882,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 430487,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375666,
+      "num": 309663,
+      "word": "杨子说黄圣依精神分裂",
+      "onboard_time": 1731561022,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370602,
       "num": 253000,
       "word": "外籍女子与男子未婚生子1月后出走",
@@ -409,14 +417,6 @@
       "onboard_time": 1731499642,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309663,
-      "num": 309663,
-      "word": "杨子说黄圣依精神分裂",
-      "onboard_time": 1731561022,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 309133,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243812,
+      "num": 243812,
+      "word": "四千万的大平层漏水四年半没修好",
+      "onboard_time": 1731558984,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240413,
       "num": 275929,
       "word": "十个勤天两周年",
@@ -537,6 +545,14 @@
       "onboard_time": 1731540317,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233745,
+      "num": 286156,
+      "word": "重庆15岁女孩被母亲男友砍伤十多处",
+      "onboard_time": 1731558744,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230843,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 211643,
-      "num": 211643,
+      "num": 227121,
       "word": "将门毒后",
       "onboard_time": 1731560243,
       "rank": 26,
@@ -659,6 +675,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 200895,
+      "num": 200895,
+      "word": "应届毕业考公考研还是好出路吗",
+      "onboard_time": 1731559823,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199909,
       "num": 160399,
       "word": "吴姗姗 白眼狼",
@@ -673,14 +697,6 @@
       "onboard_time": 1731551177,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196239,
-      "num": 196239,
-      "word": "四千万的大平层漏水四年半没修好",
-      "onboard_time": 1731558984,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191076,
@@ -739,6 +755,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 181635,
+      "num": 181635,
+      "word": "陈哲远旅行报告",
+      "onboard_time": 1731561861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179775,
       "num": 179775,
       "word": "雷军来中国航展了",
@@ -769,14 +793,6 @@
       "onboard_time": 1731556404,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 173011,
-      "num": 286156,
-      "word": "重庆15岁女孩被母亲男友砍伤十多处",
-      "onboard_time": 1731558744,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171732,
@@ -811,12 +827,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 161227,
-      "num": 161227,
-      "word": "应届毕业考公考研还是好出路吗",
-      "onboard_time": 1731559823,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 160685,
+      "num": 160685,
+      "word": "能让INFJ流泪的一句话",
+      "onboard_time": 1731560603,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 160453,
@@ -939,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149545,
+      "num": 256397,
+      "word": "马龙的美丽人生",
+      "onboard_time": 1731561561,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149336,
       "num": 244043,
       "word": "太好了是再见爱人职业规划师",
@@ -963,12 +987,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140949,
-      "num": 140949,
-      "word": "能让INFJ流泪的一句话",
-      "onboard_time": 1731560603,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 141720,
+      "num": 141720,
+      "word": "花598拼一次名媛照",
+      "onboard_time": 1731562041,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 140636,
@@ -977,6 +1001,14 @@
       "onboard_time": 1731548717,
       "rank": 36,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 140291,
+      "num": 216591,
+      "word": "中国人爆改沙漠有亿点惊艳",
+      "onboard_time": 1731557362,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 137638,
@@ -1019,6 +1051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131288,
+      "num": 131288,
+      "word": "为什么年轻人都爱打卡被带火的景点",
+      "onboard_time": 1731561622,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 130813,
       "num": 130813,
       "word": "中国航展上歼15T为群众遮风挡雨",
@@ -1051,20 +1091,36 @@
       "category": "军事"
     },
     {
-      "raw_hot": 118367,
-      "num": 256397,
-      "word": "马龙的美丽人生",
-      "onboard_time": 1731561561,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118271,
       "num": 118271,
       "word": "金钟铉曾对付小混混保护泰民",
       "onboard_time": 1731540317,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117611,
+      "num": 117611,
+      "word": "歼15T不仅能摸还能躲雨",
+      "onboard_time": 1731562041,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 117351,
+      "num": 117351,
+      "word": "子期杀了子期",
+      "onboard_time": 1731562761,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117025,
+      "num": 117025,
+      "word": "珠帘玉幕",
+      "onboard_time": 1731562701,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 115446,
@@ -1539,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42041,
+      "num": 312044,
+      "word": "0蔗糖0脂肪0添加食品未必更健康",
+      "onboard_time": 1731560962,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 39108,
       "num": 87546,
       "word": "地铁里遇到导盲犬这一刻心都化了",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1731536473,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 34767,
+      "num": 252156,
+      "word": "离婚律师回应组团研讨麦琳",
+      "onboard_time": 1731562462,
+      "rank": 19,
+      "category": "民生新闻,综艺"
     },
     {
       "raw_hot": 34397,
@@ -1675,14 +1747,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 22353,
-      "num": 312044,
-      "word": "0蔗糖0脂肪0添加食品未必更健康",
-      "onboard_time": 1731560962,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 21708,
       "num": 420060,
       "word": "一篇文章了解秘鲁",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1731521172,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21327,
+      "num": 254328,
+      "word": "律师称被艺人取证言论或追究刑责",
+      "onboard_time": 1731561982,
+      "rank": 13,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 21012,
