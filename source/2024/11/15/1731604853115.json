@@ -1,0 +1,410 @@
+{
+  "runTime": 1731604853115,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009067,
+        "num": 1009067,
+        "word": "国足1比0巴林队",
+        "onboard_time": 1731600260,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449623,
+        "num": 449623,
+        "word": "武磊怒赞张玉宁",
+        "onboard_time": 1731602056,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5499,
+        "num": 428512,
+        "word": "80秒带你走进魅力秘鲁",
+        "onboard_time": 1731589521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421218,
+        "num": 421218,
+        "word": "国足赢了",
+        "onboard_time": 1731600381,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371600,
+        "num": 371600,
+        "word": "papi酱说李行亮不哄了",
+        "onboard_time": 1731596003,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238440,
+        "num": 238440,
+        "word": "李行亮说麦琳连离婚都很强势",
+        "onboard_time": 1731595162,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210967,
+        "num": 210967,
+        "word": "张玉宁绝杀",
+        "onboard_time": 1731599659,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208909,
+        "num": 208909,
+        "word": "雷军承认车间睡觉照是摆拍",
+        "onboard_time": 1731586940,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182951,
+        "num": 182951,
+        "word": "国足升至小组第四",
+        "onboard_time": 1731600679,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34088,
+        "num": 175529,
+        "word": "公众知情权不能打",
+        "onboard_time": 1731604574,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 256708,
+        "num": 175524,
+        "word": "范志毅说国足你慌个啥啊",
+        "onboard_time": 1731597680,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193144,
+        "num": 175509,
+        "word": "丁禹兮工作室",
+        "onboard_time": 1731580461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175447,
+        "num": 175447,
+        "word": "中铁七局发布新华社记者遇袭声明",
+        "onboard_time": 1731590361,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 159483,
+        "num": 159483,
+        "word": "国足一秒地狱一秒天堂",
+        "onboard_time": 1731600679,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147859,
+        "num": 147859,
+        "word": "阁楼上的疯女人",
+        "onboard_time": 1731599899,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133578,
+        "num": 133578,
+        "word": "国足 裁判",
+        "onboard_time": 1731599361,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129357,
+        "num": 129357,
+        "word": "没人选麦琳",
+        "onboard_time": 1731585380,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123289,
+        "num": 123289,
+        "word": "25岁小伙长期熬夜确诊心衰",
+        "onboard_time": 1731583221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89166,
+        "num": 110444,
+        "word": "妙妙失忆忘了子期",
+        "onboard_time": 1731584120,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16839,
+        "num": 108817,
+        "word": "网友考古葛夕",
+        "onboard_time": 1731604380,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108141,
+        "num": 108141,
+        "word": "计划有变 准备出线",
+        "onboard_time": 1731603135,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100492,
+        "num": 100492,
+        "word": "芒果精",
+        "onboard_time": 1731601098,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99491,
+        "num": 99491,
+        "word": "中铁七局相关负责人回应记者遇袭",
+        "onboard_time": 1731585679,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 98115,
+        "num": 98115,
+        "word": "国足vs巴林",
+        "onboard_time": 1731590901,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91718,
+        "num": 91718,
+        "word": "退货",
+        "onboard_time": 1731591321,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87978,
+        "num": 87978,
+        "word": "葛夕戴了魅女的木镯子",
+        "onboard_time": 1731582019,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86421,
+        "num": 86421,
+        "word": "践踏舆论监督要为此付出代价",
+        "onboard_time": 1731593482,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85374,
+        "num": 85374,
+        "word": "爱奇艺 花钱看不了国足",
+        "onboard_time": 1731599479,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82049,
+        "num": 82049,
+        "word": "马可波罗新皮肤怪盗基德",
+        "onboard_time": 1731593843,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62151,
+        "num": 79053,
+        "word": "煤气灯效应",
+        "onboard_time": 1731593002,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77225,
+        "num": 77225,
+        "word": "绍伊古在中国航母电子沙盘前驻足",
+        "onboard_time": 1731604034,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 75886,
+        "num": 75886,
+        "word": "虞书欣壁纸",
+        "onboard_time": 1731591681,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70202,
+        "num": 70202,
+        "word": "A股机构举报游资传闻是怎么回事",
+        "onboard_time": 1731599421,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62018,
+        "num": 68920,
+        "word": "小巷人家实时收视率破1",
+        "onboard_time": 1731597319,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68775,
+        "num": 68775,
+        "word": "原来下肢是人体的血糖仪",
+        "onboard_time": 1731577881,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68374,
+        "num": 68374,
+        "word": "于子洋确认离开国家队",
+        "onboard_time": 1731597561,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65889,
+        "num": 65889,
+        "word": "警方称会对两记者被打一事进行调查",
+        "onboard_time": 1731587061,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 65640,
+        "num": 65640,
+        "word": "被打调查记者曾获8次中国新闻奖",
+        "onboard_time": 1731596003,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65588,
+        "num": 65588,
+        "word": "气胸",
+        "onboard_time": 1731590962,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63995,
+        "num": 63995,
+        "word": "孕妇称检出9胞胎诊断医院回应",
+        "onboard_time": 1731595042,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62512,
+        "num": 62512,
+        "word": "蔡徐坤回国纯黑look",
+        "onboard_time": 1731592762,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61400,
+        "num": 61400,
+        "word": "国足两连胜",
+        "onboard_time": 1731604634,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61235,
+        "num": 61235,
+        "word": "国足积分",
+        "onboard_time": 1731602537,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60564,
+        "num": 60564,
+        "word": "大理公安局局长主动投案",
+        "onboard_time": 1731588201,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 60051,
+        "num": 60051,
+        "word": "张玉宁谈最后的进球",
+        "onboard_time": 1731601577,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59715,
+        "num": 59715,
+        "word": "国足双高中锋是赢球的最好办法",
+        "onboard_time": 1731601937,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56662,
+        "num": 59715,
+        "word": "第37届金鸡奖获奖预测",
+        "onboard_time": 1731586521,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49178,
+        "num": 59710,
+        "word": "副州长和原州长同日通报被查",
+        "onboard_time": 1731601400,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 49061,
+        "num": 59703,
+        "word": "丁禹兮好会哭",
+        "onboard_time": 1731596662,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47746,
+        "num": 59703,
+        "word": "再见爱人",
+        "onboard_time": 1731593663,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平署名文章中看中秘情谊#"
+    }
+  }
+}
