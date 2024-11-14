@@ -1,0 +1,410 @@
+{
+  "runTime": 1731589219879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1783260,
+        "num": 1783260,
+        "word": "雷军承认车间睡觉照是摆拍",
+        "onboard_time": 1731586940,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 716399,
+        "num": 716399,
+        "word": "妙妙失忆忘了子期",
+        "onboard_time": 1731584120,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10922,
+        "num": 508065,
+        "word": "一组图了解秘鲁钱凯港",
+        "onboard_time": 1731573560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503573,
+        "num": 503573,
+        "word": "没人选麦琳",
+        "onboard_time": 1731585380,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45708,
+        "num": 490349,
+        "word": "刘雨辰年度进取运动员",
+        "onboard_time": 1731588622,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551781,
+        "num": 486891,
+        "word": "中铁七局相关负责人回应记者遇袭",
+        "onboard_time": 1731585679,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 480342,
+        "num": 480342,
+        "word": "杨坤主动投案",
+        "onboard_time": 1731588201,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 291178,
+        "num": 291178,
+        "word": "刘忻把高定长裙当外套穿",
+        "onboard_time": 1731587121,
+        "rank": 7,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 106718,
+        "num": 253004,
+        "word": "全红婵现身竞燃之夜",
+        "onboard_time": 1731588141,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223108,
+        "num": 223108,
+        "word": "微博竞燃之夜",
+        "onboard_time": 1731584900,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202175,
+        "num": 222168,
+        "word": "一诺新中式露背装",
+        "onboard_time": 1731587901,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172354,
+        "num": 220779,
+        "word": "RED女团Afterlife舞台好燃",
+        "onboard_time": 1731588440,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803686,
+        "num": 219578,
+        "word": "25岁小伙长期熬夜确诊心衰",
+        "onboard_time": 1731583221,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39033,
+        "num": 218598,
+        "word": "广场裸露电线击伤4岁男童",
+        "onboard_time": 1731588981,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29891,
+        "num": 216314,
+        "word": "官方回应养老服务项目涉嫌摆拍",
+        "onboard_time": 1731588021,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 215740,
+        "num": 215740,
+        "word": "经济参考报回应记者采访时遇袭",
+        "onboard_time": 1731578662,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626393,
+        "num": 215698,
+        "word": "上海交大偶遇关晓彤",
+        "onboard_time": 1731584841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545469,
+        "num": 215193,
+        "word": "最高检对珠海驾车冲撞行人案表态",
+        "onboard_time": 1731585380,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 400515,
+        "num": 214974,
+        "word": "荣梓杉回应负面评论",
+        "onboard_time": 1731585440,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21237,
+        "num": 214735,
+        "word": "三分钟电影解说分走了谁的蛋糕",
+        "onboard_time": 1731588440,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128674,
+        "num": 214283,
+        "word": "第37届金鸡奖获奖预测",
+        "onboard_time": 1731586521,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 888005,
+        "num": 214236,
+        "word": "李行亮说离婚会跟麦琳争孩子",
+        "onboard_time": 1731580580,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384559,
+        "num": 213787,
+        "word": "射雕",
+        "onboard_time": 1731584601,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31721,
+        "num": 213657,
+        "word": "iQOO13亮相竞燃之夜",
+        "onboard_time": 1731588381,
+        "rank": 23,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 381688,
+        "num": 213391,
+        "word": "炒股4年赚5千万00后直言最近亏麻了",
+        "onboard_time": 1731581901,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213101,
+        "num": 213101,
+        "word": "永夜星河收妖塔 浣衣局",
+        "onboard_time": 1731588080,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44690,
+        "num": 211810,
+        "word": "黄雅琼优雅摩登女王",
+        "onboard_time": 1731585740,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380718,
+        "num": 209496,
+        "word": "奶皮子",
+        "onboard_time": 1731585080,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38468,
+        "num": 207325,
+        "word": "4位少年合力勇救落水男童",
+        "onboard_time": 1731589102,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104704,
+        "num": 206470,
+        "word": "金素恩悼念宋再临",
+        "onboard_time": 1731584601,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324512,
+        "num": 204579,
+        "word": "左航将缺席集体外务活动",
+        "onboard_time": 1731588682,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308232,
+        "num": 202136,
+        "word": "原来下肢是人体的血糖仪",
+        "onboard_time": 1731577881,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201105,
+        "num": 201105,
+        "word": "小小的我",
+        "onboard_time": 1731587420,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254227,
+        "num": 200979,
+        "word": "葛夕戴了魅女的木镯子",
+        "onboard_time": 1731582019,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211806,
+        "num": 200882,
+        "word": "从流量到演技王一博能否双赢",
+        "onboard_time": 1731578960,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197165,
+        "num": 197165,
+        "word": "国足vs巴林首发",
+        "onboard_time": 1731587241,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27519,
+        "num": 196894,
+        "word": "竞燃之夜人手一台iQOO13",
+        "onboard_time": 1731587061,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101335,
+        "num": 196793,
+        "word": "九尾年度竞燃关注运动员",
+        "onboard_time": 1731587901,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233660,
+        "num": 196290,
+        "word": "丁禹兮工作室",
+        "onboard_time": 1731580461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204387,
+        "num": 195926,
+        "word": "被泼开水女童父亲称民警要求道歉",
+        "onboard_time": 1731574941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152332,
+        "num": 195754,
+        "word": "肺癌早期症状通常不明显",
+        "onboard_time": 1731576201,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195510,
+        "num": 195510,
+        "word": "国足离小组第2仅差3分",
+        "onboard_time": 1731585499,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192654,
+        "num": 192654,
+        "word": "警方称会对两记者被打一事进行调查",
+        "onboard_time": 1731587061,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 180833,
+        "num": 180833,
+        "word": "考公人在自习室看到这正确率心死了",
+        "onboard_time": 1731588981,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177716,
+        "num": 177716,
+        "word": "鹿晗躲不开的怼脸拍",
+        "onboard_time": 1731587959,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174469,
+        "num": 174469,
+        "word": "林更新说网友一天天的玩手机",
+        "onboard_time": 1731583882,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169942,
+        "num": 169942,
+        "word": "陈梦DIOR黑裙",
+        "onboard_time": 1731574941,
+        "rank": 46,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 159879,
+        "num": 159879,
+        "word": "珠海近千架无人机致敬中国制造",
+        "onboard_time": 1731582381,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 72181,
+        "num": 156724,
+        "word": "赵丽娜穿国足球衣领奖",
+        "onboard_time": 1731587661,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154594,
+        "num": 154594,
+        "word": "虞书欣骂人最狠的时候",
+        "onboard_time": 1731581660,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席送出的这件国礼饱含深意#"
+    }
+  }
+}
