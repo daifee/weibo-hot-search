@@ -1,0 +1,410 @@
+{
+  "runTime": 1731548516512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985318,
+        "num": 1157651,
+        "word": "浪胃仙IP创始人获刑8年",
+        "onboard_time": 1731511881,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 577453,
+        "num": 577453,
+        "word": "校园招聘严禁限定985和211高校",
+        "onboard_time": 1731516797,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8297,
+        "num": 517122,
+        "word": "中国连续10年是秘鲁最大出口市场",
+        "onboard_time": 1731503660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 647217,
+        "num": 517067,
+        "word": "成毅 扛剧",
+        "onboard_time": 1731544579,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516225,
+        "num": 516225,
+        "word": "秋梨糖70一斤比肉都贵",
+        "onboard_time": 1731543619,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 808590,
+        "num": 478759,
+        "word": "成都漆器证实李子柒全程自己做",
+        "onboard_time": 1731510320,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 354178,
+        "num": 354178,
+        "word": "刘宇宁直播了5个小时",
+        "onboard_time": 1731544579,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332155,
+        "num": 332155,
+        "word": "60个离婚律师把麦琳当典型研讨",
+        "onboard_time": 1731506901,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298751,
+        "num": 298751,
+        "word": "教育部发文促进高校毕业生就业",
+        "onboard_time": 1731541697,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255770,
+        "num": 255770,
+        "word": "杭州23周超早产儿米宝出院了",
+        "onboard_time": 1731541879,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566453,
+        "num": 255767,
+        "word": "家人回应男子疑被当猎物遭枪击身亡",
+        "onboard_time": 1731544520,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 519087,
+        "num": 255766,
+        "word": "姿态沉默下播",
+        "onboard_time": 1731546738,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410356,
+        "num": 255761,
+        "word": "赵露思方取证",
+        "onboard_time": 1731539596,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270379,
+        "num": 255757,
+        "word": "被泼开水女童家长发声",
+        "onboard_time": 1731521412,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 64018,
+        "num": 255756,
+        "word": "国足若输给巴林晋级希望渺茫",
+        "onboard_time": 1731547878,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255753,
+        "num": 255753,
+        "word": "00后代孕流产女孩发声",
+        "onboard_time": 1731499642,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227186,
+        "num": 227186,
+        "word": "契税",
+        "onboard_time": 1731492198,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 211126,
+        "num": 211126,
+        "word": "中国军机的命名终于搞懂了",
+        "onboard_time": 1731516435,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 204464,
+        "num": 204464,
+        "word": "杨谨华谈是否与萧亚轩破镜重圆",
+        "onboard_time": 1731545000,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85506,
+        "num": 204230,
+        "word": "女子高速倒车加超速求民警留1分",
+        "onboard_time": 1731548298,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379962,
+        "num": 204086,
+        "word": "00后女生每天打四份工一年攒10万",
+        "onboard_time": 1731543679,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370602,
+        "num": 203700,
+        "word": "外籍女子与男子未婚生子1月后出走",
+        "onboard_time": 1731544101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363935,
+        "num": 203407,
+        "word": "杨紫方已完成取证",
+        "onboard_time": 1731497240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228287,
+        "num": 203135,
+        "word": "通知公布半小时已有人下单去广州",
+        "onboard_time": 1731511400,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203019,
+        "num": 203019,
+        "word": "江苏无锡京东物流园突发大火",
+        "onboard_time": 1731545479,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 218269,
+        "num": 201141,
+        "word": "18岁小伙帮女友收废品还60万外债",
+        "onboard_time": 1731539596,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194755,
+        "num": 194755,
+        "word": "特朗普提名多人出任重要职位",
+        "onboard_time": 1731547878,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165193,
+        "num": 190873,
+        "word": "刘宇宁看见热搜的反应",
+        "onboard_time": 1731541577,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32817,
+        "num": 188466,
+        "word": "国足主帅说带着雄心来到巴林",
+        "onboard_time": 1731547338,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188127,
+        "num": 188127,
+        "word": "原来怀孕时脏器会被挤变形",
+        "onboard_time": 1731510320,
+        "rank": 29,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 184140,
+        "num": 184140,
+        "word": "上海月租3500的房子",
+        "onboard_time": 1731540317,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170536,
+        "num": 170536,
+        "word": "丁禹兮发了妙妙拍的自己",
+        "onboard_time": 1731512119,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161800,
+        "num": 161800,
+        "word": "拜登特朗普白宫会面",
+        "onboard_time": 1731547878,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151258,
+        "num": 151258,
+        "word": "第五人格",
+        "onboard_time": 1731547099,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91538,
+        "num": 144603,
+        "word": "吴姗姗 白眼狼",
+        "onboard_time": 1731507681,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142424,
+        "num": 142424,
+        "word": "秋冬吃甘蔗是大补",
+        "onboard_time": 1731546738,
+        "rank": 35,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 136529,
+        "num": 136529,
+        "word": "丁禹兮看了虞书欣泰国直播",
+        "onboard_time": 1731542959,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131321,
+        "num": 131321,
+        "word": "住房契税优惠政策来了",
+        "onboard_time": 1731545719,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84088,
+        "num": 131060,
+        "word": "从中国到秘鲁那么远这么近",
+        "onboard_time": 1731548119,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130813,
+        "num": 130813,
+        "word": "中国航展上歼15T为群众遮风挡雨",
+        "onboard_time": 1731543619,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 114953,
+        "num": 114953,
+        "word": "滞留太空女宇航员首次回应变锥子脸",
+        "onboard_time": 1731495919,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110163,
+        "num": 110163,
+        "word": "Uzi盛赞小明",
+        "onboard_time": 1731548238,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107646,
+        "num": 107646,
+        "word": "金钟铉曾对付小混混保护泰民",
+        "onboard_time": 1731540317,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106270,
+        "num": 106270,
+        "word": "户主称不会卖11元网拍海景房",
+        "onboard_time": 1731538635,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103542,
+        "num": 103542,
+        "word": "让台湾同胞知道我们中国有多强",
+        "onboard_time": 1731507320,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 64904,
+        "num": 99581,
+        "word": "熊猫宝宝的睡前仪式感有多强",
+        "onboard_time": 1731546200,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99115,
+        "num": 99115,
+        "word": "比特币上破90000美元",
+        "onboard_time": 1731542599,
+        "rank": 46,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 87057,
+        "num": 99094,
+        "word": "杜华怕演唱会全场喊乐华倒闭",
+        "onboard_time": 1731519613,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83981,
+        "num": 98825,
+        "word": "范丞丞回应金鸡奖提名",
+        "onboard_time": 1731514459,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73768,
+        "num": 98629,
+        "word": "杨仕泽 我要做妙妙子期的孩子",
+        "onboard_time": 1731542419,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
