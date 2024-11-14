@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731576237253,
+  "endTime": 1731577092085,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1640862,
+      "num": 349527,
+      "word": "怀上九胞胎女子决定减胎",
+      "onboard_time": 1731574759,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1631277,
       "num": 430831,
       "word": "拜登还有70天说服特朗普不要放弃乌克兰",
@@ -475,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1407540,
-      "num": 349527,
-      "word": "怀上九胞胎女子决定减胎",
-      "onboard_time": 1731574759,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1402414,
       "num": 468316,
       "word": "被晓华爆改成易烊千玺男生发声",
@@ -513,6 +513,14 @@
       "onboard_time": 1731474080,
       "rank": 1,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 1384023,
+      "num": 348810,
+      "word": "陈梦DIOR黑裙",
+      "onboard_time": 1731574941,
+      "rank": 11,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 1383980,
@@ -921,14 +929,6 @@
       "onboard_time": 1731419004,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1021759,
-      "num": 348810,
-      "word": "陈梦DIOR黑裙",
-      "onboard_time": 1731574941,
-      "rank": 11,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 1021458,
@@ -1451,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769007,
+      "num": 1123041,
+      "word": "韩国气象女主播自曝在菲律宾吸毒",
+      "onboard_time": 1731571820,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 766915,
       "num": 766915,
       "word": "晓华回应被怼30元拉低行业档次",
@@ -1707,6 +1715,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 693463,
+      "num": 346380,
+      "word": "林一 暗恋的人成了闪闪发光的大明星",
+      "onboard_time": 1731573141,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 692069,
       "num": 692069,
       "word": "泄密后反嘱咐对方千万别外传",
@@ -1907,14 +1923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 640623,
-      "num": 346380,
-      "word": "林一 暗恋的人成了闪闪发光的大明星",
-      "onboard_time": 1731573141,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 637641,
       "num": 637641,
       "word": "男子将8万现金伪装成喜糖寄出",
@@ -2067,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 605917,
+      "num": 1094174,
+      "word": "陈若琳说全红婵大了要哄着了",
+      "onboard_time": 1731571579,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 603612,
       "num": 603612,
       "word": "珠海航展惊现中国版变形金刚",
@@ -2137,14 +2153,6 @@
       "onboard_time": 1731415702,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 588589,
-      "num": 1094174,
-      "word": "陈若琳说全红婵大了要哄着了",
-      "onboard_time": 1731571579,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 587623,
@@ -2473,14 +2481,6 @@
       "onboard_time": 1731227419,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526395,
-      "num": 526395,
-      "word": "韩国气象女主播自曝在菲律宾吸毒",
-      "onboard_time": 1731571820,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 525897,
@@ -3611,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371612,
+      "num": 371612,
+      "word": "阿信演唱会破音唱功再遭质疑",
+      "onboard_time": 1731572601,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 370666,
       "num": 370666,
       "word": "特朗普宣布多项任命",
@@ -4267,6 +4275,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 304024,
+      "num": 304024,
+      "word": "肺癌早期症状通常不明显",
+      "onboard_time": 1731576201,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 303702,
       "num": 412899,
       "word": "胡军带儿子康康现身珠海航展",
@@ -4433,14 +4449,6 @@
       "onboard_time": 1731241339,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290943,
-      "num": 351195,
-      "word": "阿信演唱会破音唱功再遭质疑",
-      "onboard_time": 1731572601,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 290679,
@@ -4611,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278215,
+      "num": 337515,
+      "word": "东北雨姐丈夫多家企业申请注销又撤回",
+      "onboard_time": 1731575721,
+      "rank": 33,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 277110,
       "num": 277110,
       "word": "本周锦鲤附体星座",
@@ -4705,6 +4721,14 @@
       "onboard_time": 1731384801,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 271915,
+      "num": 271915,
+      "word": "李行亮人设",
+      "onboard_time": 1731572239,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 271628,
@@ -5099,14 +5123,6 @@
       "category": "母婴育儿,健康医疗"
     },
     {
-      "raw_hot": 249784,
-      "num": 249784,
-      "word": "东北雨姐丈夫多家企业申请注销又撤回",
-      "onboard_time": 1731575721,
-      "rank": 33,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 249691,
       "num": 249691,
       "word": "飞行员第一次开战机忍不住唱歌",
@@ -5419,14 +5435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235320,
-      "num": 235320,
-      "word": "李行亮人设",
-      "onboard_time": 1731572239,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235286,
       "num": 235286,
       "word": "Burberry活动",
@@ -5440,6 +5448,14 @@
       "word": "丁禹兮原声",
       "onboard_time": 1731419364,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234727,
+      "num": 234727,
+      "word": "虞书欣我容易我容易",
+      "onboard_time": 1731576981,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5987,6 +6003,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 214497,
+      "num": 214497,
+      "word": "特朗普三连胜",
+      "onboard_time": 1731574581,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213925,
       "num": 213925,
       "word": "全红婵归队首要任务是减重",
@@ -6307,20 +6331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206055,
+      "num": 206055,
+      "word": "丁禹兮猫塑",
+      "onboard_time": 1731573319,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205675,
       "num": 205675,
       "word": "歼35",
       "onboard_time": 1731385401,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 205653,
-      "num": 205653,
-      "word": "丁禹兮猫塑",
-      "onboard_time": 1731573319,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 205585,
@@ -6393,6 +6417,14 @@
       "onboard_time": 1731222380,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204166,
+      "num": 316167,
+      "word": "再见爱人太legend了",
+      "onboard_time": 1731576080,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 203909,
@@ -7291,6 +7323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186320,
+      "num": 344803,
+      "word": "被泼开水女童父亲称民警要求道歉",
+      "onboard_time": 1731574941,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "妈妈一个人改造了女儿的房间",
@@ -7329,14 +7369,6 @@
       "onboard_time": 1731210857,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185215,
-      "num": 185215,
-      "word": "特朗普三连胜",
-      "onboard_time": 1731574581,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 185204,
@@ -7393,6 +7425,14 @@
       "onboard_time": 1731389898,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183876,
+      "num": 341321,
+      "word": "刘忻周柯宇九尾红毯同框",
+      "onboard_time": 1731575781,
+      "rank": 24,
+      "category": "作品衍生,电竞"
     },
     {
       "raw_hot": 183751,
@@ -7571,14 +7611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180581,
-      "num": 180581,
-      "word": "再见爱人太legend了",
-      "onboard_time": 1731576080,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180464,
       "num": 300706,
       "word": "何浩楠直播",
@@ -7649,6 +7681,14 @@
       "onboard_time": 1731514459,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179684,
+      "num": 179684,
+      "word": "哥哥用妈妈生前留的猪油给妹妹炒菜",
+      "onboard_time": 1731576621,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179404,
@@ -8003,14 +8043,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 172360,
-      "num": 172360,
-      "word": "肺癌早期症状通常不明显",
-      "onboard_time": 1731576201,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 172176,
       "num": 172176,
       "word": "金晨撑住了贴头皮造型",
@@ -8121,6 +8153,14 @@
       "onboard_time": 1731465859,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 169564,
+      "num": 188224,
+      "word": "这跟和陈哲远谈了有什么区别",
+      "onboard_time": 1731575661,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 169359,
@@ -8761,14 +8801,6 @@
       "onboard_time": 1731555262,
       "rank": 24,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 159185,
-      "num": 341321,
-      "word": "刘忻周柯宇九尾红毯同框",
-      "onboard_time": 1731575781,
-      "rank": 24,
-      "category": "作品衍生,电竞"
     },
     {
       "raw_hot": 158983,
@@ -9649,6 +9681,14 @@
       "onboard_time": 1731197176,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 144096,
+      "num": 309419,
+      "word": "无畏玫瑰光影造型",
+      "onboard_time": 1731576681,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 144015,
@@ -11099,6 +11139,14 @@
       "category": "国外时政,财经"
     },
     {
+      "raw_hot": 113854,
+      "num": 308776,
+      "word": "黄雅琼刘雨辰同框比心",
+      "onboard_time": 1731576801,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113551,
       "num": 113551,
       "word": "鸡柳哥1部剧获得6个绰号",
@@ -11323,6 +11371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107585,
+      "num": 349904,
+      "word": "裸辞去村里隐居就能完全躺平吗",
+      "onboard_time": 1731575060,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 107245,
       "num": 180831,
       "word": "人民空军75载搏击长空",
@@ -11497,14 +11553,6 @@
       "onboard_time": 1731381859,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102646,
-      "num": 344803,
-      "word": "被泼开水女童父亲称民警要求道歉",
-      "onboard_time": 1731574941,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102613,
@@ -12057,14 +12105,6 @@
       "onboard_time": 1731322878,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82550,
-      "num": 349904,
-      "word": "裸辞去村里隐居就能完全躺平吗",
-      "onboard_time": 1731575060,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 82246,
@@ -13467,6 +13507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48520,
+      "num": 338495,
+      "word": "潘粤明为白夜破晓手写剧名",
+      "onboard_time": 1731574520,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48389,
       "num": 376742,
       "word": "辛巴直播中国航展",
@@ -14139,6 +14187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37601,
+      "num": 313396,
+      "word": "邓亚萍陈梦黄雅琼互动",
+      "onboard_time": 1731576981,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37561,
       "num": 591249,
       "word": "中国连续10年是秘鲁最大出口市场",
@@ -14187,6 +14243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37042,
+      "num": 347866,
+      "word": "豪车大降价的时代来了吗",
+      "onboard_time": 1731575539,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 36986,
       "num": 178468,
       "word": "大理蓝天救援队队长被指带头敛财",
@@ -14217,6 +14281,14 @@
       "onboard_time": 1731280515,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36271,
+      "num": 346124,
+      "word": "中国航展听取哇声一片",
+      "onboard_time": 1731575661,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 35931,
@@ -14435,14 +14507,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 33393,
-      "num": 338495,
-      "word": "潘粤明为白夜破晓手写剧名",
-      "onboard_time": 1731574520,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33365,
       "num": 287826,
       "word": "交通执法人员被司机顶引擎盖疾驰",
@@ -14561,6 +14625,14 @@
       "onboard_time": 1731374959,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 31697,
+      "num": 347273,
+      "word": "肤感不佳的面霜盘点",
+      "onboard_time": 1731574820,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 31448,
@@ -14737,14 +14809,6 @@
       "onboard_time": 1731302718,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28677,
-      "num": 347866,
-      "word": "豪车大降价的时代来了吗",
-      "onboard_time": 1731575539,
-      "rank": 13,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 28573,
@@ -15113,14 +15177,6 @@
       "onboard_time": 1731390019,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24191,
-      "num": 347273,
-      "word": "肤感不佳的面霜盘点",
-      "onboard_time": 1731574820,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 23954,
@@ -15995,6 +16051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 13782,
+      "num": 310958,
+      "word": "林高远红毯穿搭太潮了",
+      "onboard_time": 1731576921,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13764,
       "num": 30995,
       "word": "关注第15届中国航展",
@@ -16032,6 +16096,14 @@
       "word": "月背珍贵土特产珠海航展上被围观",
       "onboard_time": 1731525132,
       "rank": 26,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 13431,
+      "num": 338477,
+      "word": "彩虹9无人机滞空时间达40小时",
+      "onboard_time": 1731576561,
+      "rank": 15,
       "category": "军事"
     },
     {
@@ -16083,14 +16155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12430,
-      "num": 346124,
-      "word": "中国航展听取哇声一片",
-      "onboard_time": 1731575661,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 12380,
       "num": 24912,
       "word": "本届航展动态演示区新装备超三成",
@@ -16113,6 +16177,14 @@
       "onboard_time": 1731494301,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11921,
+      "num": 304364,
+      "word": "好东西金句",
+      "onboard_time": 1731576921,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 11851,
