@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731589219879,
+  "endTime": 1731590987106,
   "band_list": [
     {
       "raw_hot": 1783260,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1327859,
-      "num": 500428,
+      "num": 506197,
       "word": "李行亮说离婚会跟麦琳争孩子",
       "onboard_time": 1731580580,
       "rank": 33,
@@ -347,6 +347,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 579094,
+      "num": 579094,
+      "word": "大理公安局局长主动投案",
+      "onboard_time": 1731588201,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 577453,
       "num": 577453,
       "word": "校园招聘严禁限定985和211高校",
@@ -401,6 +409,14 @@
       "onboard_time": 1731549257,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540328,
+      "num": 866140,
+      "word": "没人选麦琳",
+      "onboard_time": 1731585380,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 537061,
@@ -459,20 +475,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 513065,
+      "num": 507536,
+      "word": "左航将缺席集体外务活动",
+      "onboard_time": 1731588682,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511217,
       "num": 435336,
       "word": "刘宇宁直播了5个小时",
       "onboard_time": 1731544579,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 504249,
-      "num": 866140,
-      "word": "没人选麦琳",
-      "onboard_time": 1731585380,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 493098,
@@ -507,6 +523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 472510,
+      "num": 640605,
+      "word": "刘忻把高定长裙当外套穿",
+      "onboard_time": 1731587121,
+      "rank": 16,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 472129,
       "num": 472129,
       "word": "中国第二大县城小孩姐的日常",
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 467522,
-      "num": 276555,
+      "num": 294067,
       "word": "原来下肢是人体的血糖仪",
       "onboard_time": 1731577881,
       "rank": 22,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 425367,
-      "num": 222812,
+      "num": 337049,
       "word": "荣梓杉回应负面评论",
       "onboard_time": 1731585440,
       "rank": 30,
@@ -683,6 +707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 388603,
+      "num": 388603,
+      "word": "奶皮子",
+      "onboard_time": 1731585080,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382211,
       "num": 382211,
       "word": "金价",
@@ -697,14 +729,6 @@
       "onboard_time": 1731549437,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 380718,
-      "num": 223468,
-      "word": "奶皮子",
-      "onboard_time": 1731585080,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 379962,
@@ -787,14 +811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 324512,
-      "num": 204579,
-      "word": "左航将缺席集体外务活动",
-      "onboard_time": 1731588682,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313760,
       "num": 255753,
       "word": "00后代孕流产女孩发声",
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 304024,
-      "num": 304024,
+      "num": 373307,
       "word": "肺癌早期症状通常不明显",
       "onboard_time": 1731576201,
       "rank": 46,
@@ -875,14 +891,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 291178,
-      "num": 640605,
-      "word": "刘忻把高定长裙当外套穿",
-      "onboard_time": 1731587121,
-      "rank": 16,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 285144,
       "num": 285144,
       "word": "无限暖暖公测定档",
@@ -907,6 +915,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 279818,
+      "num": 279818,
+      "word": "考公人在自习室看到这正确率心死了",
+      "onboard_time": 1731588981,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278409,
       "num": 278409,
       "word": "滞留太空女宇航员首次回应变锥子脸",
@@ -923,8 +939,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274648,
+      "num": 638105,
+      "word": "第37届金鸡奖获奖预测",
+      "onboard_time": 1731586521,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272939,
-      "num": 272939,
+      "num": 383177,
       "word": "国足离小组第2仅差3分",
       "onboard_time": 1731585499,
       "rank": 25,
@@ -1275,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214274,
+      "num": 214274,
+      "word": "再见爱人 油管",
+      "onboard_time": 1731589281,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213101,
       "num": 213101,
       "word": "永夜星河收妖塔 浣衣局",
@@ -1483,6 +1515,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 192396,
+      "num": 511619,
+      "word": "一诺年度竞耀电竞选手",
+      "onboard_time": 1731590242,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191076,
       "num": 191076,
       "word": "沉浸式感受歼35A飞出屏幕",
@@ -1531,12 +1571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186917,
+      "num": 186917,
+      "word": "中铁七局发布新华社记者遇袭声明",
+      "onboard_time": 1731590361,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 185938,
       "num": 158963,
       "word": "晋江男孩",
       "onboard_time": 1731505342,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185431,
+      "num": 257239,
+      "word": "金晨 你还让不让我说话了",
+      "onboard_time": 1731589342,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 185204,
@@ -1593,14 +1649,6 @@
       "onboard_time": 1731561861,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180833,
-      "num": 180833,
-      "word": "考公人在自习室看到这正确率心死了",
-      "onboard_time": 1731588981,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 180316,
@@ -1811,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161516,
+      "num": 161516,
+      "word": "凌妙妙主动抱慕声",
+      "onboard_time": 1731590482,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160895,
       "num": 160895,
       "word": "林俊杰晒和五月天合照",
@@ -1833,6 +1889,14 @@
       "onboard_time": 1731559104,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 159637,
+      "num": 143880,
+      "word": "慕声的身世",
+      "onboard_time": 1731590482,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 159500,
@@ -1881,6 +1945,14 @@
       "onboard_time": 1731555623,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155987,
+      "num": 506397,
+      "word": "卓沅两周年晒十个勤天合照",
+      "onboard_time": 1731590242,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 155067,
@@ -2075,6 +2147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141123,
+      "num": 141123,
+      "word": "气胸",
+      "onboard_time": 1731590962,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140636,
       "num": 140636,
       "word": "孙颖莎张博恒王楚钦 大学生严选",
@@ -2171,20 +2251,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 131245,
+      "num": 507191,
+      "word": "林一沈月 人机cp",
+      "onboard_time": 1731590062,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130813,
       "num": 130813,
       "word": "中国航展上歼15T为群众遮风挡雨",
       "onboard_time": 1731543619,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 128674,
-      "num": 638105,
-      "word": "第37届金鸡奖获奖预测",
-      "onboard_time": 1731586521,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 125422,
@@ -2257,6 +2337,14 @@
       "onboard_time": 1731562701,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115503,
+      "num": 508907,
+      "word": "陈梦发表获奖感言",
+      "onboard_time": 1731590242,
+      "rank": 11,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 115446,
@@ -2491,6 +2579,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 91874,
+      "num": 509365,
+      "word": "国足vs巴林",
+      "onboard_time": 1731590901,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90739,
       "num": 248085,
       "word": "黄子弘凡沉溺感封面预告",
@@ -2681,6 +2777,14 @@
       "onboard_time": 1731502761,
       "rank": 45,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 72247,
+      "num": 509943,
+      "word": "吴克群在舞台上拍武侠剧",
+      "onboard_time": 1731589881,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 72181,
@@ -2931,12 +3035,28 @@
       "category": "正能量,军事"
     },
     {
+      "raw_hot": 49877,
+      "num": 507953,
+      "word": "遭母亲男友砍伤女孩经鉴定属轻微伤",
+      "onboard_time": 1731589881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49578,
       "num": 55573,
       "word": "杨谨华回应新剧影射萧亚轩",
       "onboard_time": 1731540014,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48566,
+      "num": 258999,
+      "word": "广场裸露电线击伤4岁男童",
+      "onboard_time": 1731588981,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48520,
@@ -2963,12 +3083,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 46928,
+      "num": 420387,
+      "word": "ELK红毯造型",
+      "onboard_time": 1731589702,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 46694,
       "num": 163862,
       "word": "医生跪地按压3分钟救回晕厥女孩",
       "onboard_time": 1731515057,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 46296,
+      "num": 372845,
+      "word": "白夜1剧情脉络上线",
+      "onboard_time": 1731590962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 45858,
@@ -3001,6 +3137,14 @@
       "onboard_time": 1731552079,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44751,
+      "num": 506775,
+      "word": "女孩遭母亲男友殴打家长发声",
+      "onboard_time": 1731589702,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44690,
@@ -3096,14 +3240,6 @@
       "word": "地铁里遇到导盲犬这一刻心都化了",
       "onboard_time": 1731511400,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39033,
-      "num": 218598,
-      "word": "广场裸露电线击伤4岁男童",
-      "onboard_time": 1731588981,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -3228,7 +3364,7 @@
     },
     {
       "raw_hot": 34188,
-      "num": 196894,
+      "num": 282810,
       "word": "竞燃之夜人手一台iQOO13",
       "onboard_time": 1731587061,
       "rank": 38,
@@ -3259,8 +3395,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32236,
+      "num": 580443,
+      "word": "秘鲁人举剪刀跳舞比赛10小时",
+      "onboard_time": 1731590002,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31721,
-      "num": 213657,
+      "num": 505834,
       "word": "iQOO13亮相竞燃之夜",
       "onboard_time": 1731588381,
       "rank": 23,
@@ -3315,6 +3459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30173,
+      "num": 509482,
+      "word": "废弃油脂回收绝对由不得乱来",
+      "onboard_time": 1731589881,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29891,
       "num": 656261,
       "word": "官方回应养老服务项目涉嫌摆拍",
@@ -3337,6 +3489,14 @@
       "onboard_time": 1731575539,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 28980,
+      "num": 508576,
+      "word": "太好了是西装33",
+      "onboard_time": 1731590901,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 28777,
@@ -3691,6 +3851,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12163,
+      "num": 510693,
+      "word": "12K极清摄制看运油20短距降落",
+      "onboard_time": 1731589881,
+      "rank": 6,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11921,
       "num": 304364,
       "word": "好东西金句",
@@ -3826,6 +3994,9 @@
     },
     {
       "word": "#习近平在秘鲁媒体发表署名文章#"
+    },
+    {
+      "word": "#习主席拉美之行#"
     }
   ]
 }
