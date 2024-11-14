@@ -1,0 +1,410 @@
+{
+  "runTime": 1731572934258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1014502,
+        "num": 1162320,
+        "word": "虞书欣连续137天没休息",
+        "onboard_time": 1731571220,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 774343,
+        "num": 774343,
+        "word": "紫金矿业回应被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731567681,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 662,
+        "num": 620279,
+        "word": "万千气象看湖南",
+        "onboard_time": 1731570742,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547121,
+        "num": 547121,
+        "word": "有人要给免费升级宽带你赶紧拒绝",
+        "onboard_time": 1731569119,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514752,
+        "num": 514752,
+        "word": "李子柒评论区 世界大和谐",
+        "onboard_time": 1731567262,
+        "rank": 4,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 472129,
+        "num": 472129,
+        "word": "中国第二大县城小孩姐的日常",
+        "onboard_time": 1731566961,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 411478,
+        "num": 411478,
+        "word": "成毅赵露思 将门毒后",
+        "onboard_time": 1731557602,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406457,
+        "num": 406457,
+        "word": "陈若琳说全红婵大了要哄着了",
+        "onboard_time": 1731571579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393049,
+        "num": 393049,
+        "word": "再也不做美甲了",
+        "onboard_time": 1731554480,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50259,
+        "num": 392989,
+        "word": "黄金连跌四天",
+        "onboard_time": 1731572360,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30632,
+        "num": 391821,
+        "word": "韦世豪身穿国足10号",
+        "onboard_time": 1731572541,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 752513,
+        "num": 391294,
+        "word": "黄圣依 我让你跟刘德华比了吗",
+        "onboard_time": 1731566961,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19514,
+        "num": 391085,
+        "word": "国足对巴林的胜算数据汇总",
+        "onboard_time": 1731572120,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35707,
+        "num": 390367,
+        "word": "请百万粉丝主播带货成交量却为0",
+        "onboard_time": 1731572300,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85805,
+        "num": 389323,
+        "word": "竞燃之夜最闪亮的红毯搭子",
+        "onboard_time": 1731572422,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389141,
+        "num": 389141,
+        "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731557182,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 694063,
+        "num": 386748,
+        "word": "物业私停电梯孕妇未及时送医致流产",
+        "onboard_time": 1731568280,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 636723,
+        "num": 381862,
+        "word": "李行亮指的是葛夕",
+        "onboard_time": 1731564202,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41595,
+        "num": 379058,
+        "word": "国产无人机器狼首次亮相",
+        "onboard_time": 1731572120,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 14053,
+        "num": 373623,
+        "word": "男子盗窃寺庙功德箱前不忘拜一拜",
+        "onboard_time": 1731572300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527618,
+        "num": 370622,
+        "word": "哈尔滨一田地内发现一具被焚尸体",
+        "onboard_time": 1731565821,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 451067,
+        "num": 363035,
+        "word": "李行亮货比货",
+        "onboard_time": 1731569541,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161133,
+        "num": 361391,
+        "word": "鹿晗工作室",
+        "onboard_time": 1731572422,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227810,
+        "num": 357273,
+        "word": "小巷人家 林家欢喜庄家愁",
+        "onboard_time": 1731571940,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201303,
+        "num": 351195,
+        "word": "阿信演唱会破音唱功再遭质疑",
+        "onboard_time": 1731572601,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24608,
+        "num": 347316,
+        "word": "国足拼下一场胜利就有望跻身前四",
+        "onboard_time": 1731554001,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100907,
+        "num": 343798,
+        "word": "何浩楠进村视频",
+        "onboard_time": 1731572060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132088,
+        "num": 337954,
+        "word": "熬了七年的白夜2终于动了",
+        "onboard_time": 1731571579,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106933,
+        "num": 332584,
+        "word": "九尾帅出新高度",
+        "onboard_time": 1731572840,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 4575,
+        "num": 329270,
+        "word": "漆艺师姐谈李子柒学艺",
+        "onboard_time": 1731572840,
+        "rank": 29,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 400648,
+        "num": 327868,
+        "word": "于正说祝绪丹没上桌",
+        "onboard_time": 1731555802,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178885,
+        "num": 323657,
+        "word": "李子柒熊猫蜀锦裙是自己缝的",
+        "onboard_time": 1731563241,
+        "rank": 31,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 154574,
+        "num": 318104,
+        "word": "侯佩岑 杨子是没饭硬吃",
+        "onboard_time": 1731571519,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315017,
+        "num": 315017,
+        "word": "韩国气象女主播自曝在菲律宾吸毒",
+        "onboard_time": 1731571820,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268390,
+        "num": 268390,
+        "word": "张艺兴工作人员朋友圈",
+        "onboard_time": 1731564142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41407,
+        "num": 255276,
+        "word": "国足vs巴林23人名单",
+        "onboard_time": 1731572481,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250106,
+        "num": 250106,
+        "word": "夫妻离婚公婆拿900多万欠条要求还",
+        "onboard_time": 1731571460,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247545,
+        "num": 247545,
+        "word": "违法女主播从不露脸误传自拍照被抓",
+        "onboard_time": 1731571460,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243410,
+        "num": 243410,
+        "word": "中国科协回应16岁中学生获正高职称",
+        "onboard_time": 1731570679,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227627,
+        "num": 227627,
+        "word": "微博竞燃之夜红毯",
+        "onboard_time": 1731569720,
+        "rank": 39,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 216143,
+        "num": 216143,
+        "word": "多位市民接本地号码诈骗电话",
+        "onboard_time": 1731570980,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160118,
+        "num": 211673,
+        "word": "子期杀了子期",
+        "onboard_time": 1731562761,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210955,
+        "num": 210955,
+        "word": "李子柒3个新作品油管预估收入超8万",
+        "onboard_time": 1731569119,
+        "rank": 42,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 66132,
+        "num": 210785,
+        "word": "林俊杰新书超越音符",
+        "onboard_time": 1731571519,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213420,
+        "num": 210782,
+        "word": "THE9来了",
+        "onboard_time": 1731572661,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210725,
+        "num": 210725,
+        "word": "李行亮人设",
+        "onboard_time": 1731572239,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202466,
+        "num": 202466,
+        "word": "重庆15岁女孩被母亲男友砍伤十多处",
+        "onboard_time": 1731558744,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185081,
+        "num": 185081,
+        "word": "A股缩量下跌失守3400点",
+        "onboard_time": 1731568401,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180002,
+        "num": 180002,
+        "word": "大四男生确诊糖尿病称曾想轻生",
+        "onboard_time": 1731560722,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174725,
+        "num": 174725,
+        "word": "孕妇误踩宠物犬被咬后终止妊娠",
+        "onboard_time": 1731556103,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
