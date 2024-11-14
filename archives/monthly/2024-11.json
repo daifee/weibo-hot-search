@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731601751687,
+  "endTime": 1731602713131,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5313,6 +5313,14 @@
       "onboard_time": 1731123079,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 737866,
+      "num": 332257,
+      "word": "武磊怒赞张玉宁",
+      "onboard_time": 1731602056,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 736300,
@@ -12099,6 +12107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 349484,
+      "num": 329101,
+      "word": "范志毅说国足你慌个啥啊",
+      "onboard_time": 1731597680,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349046,
       "num": 349046,
       "word": "李子柒熊猫蜀锦裙是自己缝的",
@@ -15667,14 +15683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 254857,
-      "num": 315116,
-      "word": "范志毅说国足你慌个啥啊",
-      "onboard_time": 1731597680,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254840,
       "num": 335387,
       "word": "青岛警报",
@@ -16945,6 +16953,14 @@
       "onboard_time": 1731314837,
       "rank": 26,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 231801,
+      "num": 360820,
+      "word": "国足升至小组第四",
+      "onboard_time": 1731600679,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 231730,
@@ -21065,14 +21081,6 @@
       "onboard_time": 1731013570,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 193044,
-      "num": 360820,
-      "word": "国足升至小组第四",
-      "onboard_time": 1731600679,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 192953,
@@ -30355,6 +30363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131334,
+      "num": 131334,
+      "word": "国足双高中锋是赢球的最好办法",
+      "onboard_time": 1731601937,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131321,
       "num": 131321,
       "word": "住房契税优惠政策来了",
@@ -30593,6 +30609,14 @@
       "onboard_time": 1730855123,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129386,
+      "num": 129386,
+      "word": "国足积分",
+      "onboard_time": 1731602537,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 129212,
@@ -31281,6 +31305,14 @@
       "onboard_time": 1731378799,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 124449,
+      "num": 124449,
+      "word": "芒果精",
+      "onboard_time": 1731601098,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 124447,
@@ -32547,6 +32579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115392,
+      "num": 115392,
+      "word": "爱奇艺 花钱看不了国足",
+      "onboard_time": 1731599479,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115356,
       "num": 282790,
       "word": "花少 原始部落",
@@ -33515,14 +33555,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 107174,
-      "num": 107174,
-      "word": "爱奇艺 花钱看不了国足",
-      "onboard_time": 1731599479,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107162,
       "num": 157474,
       "word": "成都蓉城vs上海申花",
@@ -33633,14 +33665,6 @@
       "onboard_time": 1731588141,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106684,
-      "num": 106684,
-      "word": "芒果精",
-      "onboard_time": 1731601098,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 106617,
@@ -35203,6 +35227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88565,
+      "num": 364571,
+      "word": "武磊大赞张玉宁",
+      "onboard_time": 1731601577,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88438,
       "num": 258213,
       "word": "林孝埈伤势无大碍",
@@ -35609,6 +35641,14 @@
       "onboard_time": 1730569578,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83596,
+      "num": 83596,
+      "word": "阁楼上的疯女人",
+      "onboard_time": 1731599899,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 83575,
@@ -37137,6 +37177,14 @@
       "onboard_time": 1731256517,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65627,
+      "num": 1234978,
+      "word": "张玉宁谈最后的进球",
+      "onboard_time": 1731601577,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 65614,
@@ -38803,6 +38851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51393,
+      "num": 169365,
+      "word": "副州长和原州长同日通报被查",
+      "onboard_time": 1731601400,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 51381,
       "num": 223524,
       "word": "郑钦文总决赛后发文",
@@ -39961,6 +40017,14 @@
       "onboard_time": 1731497062,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42561,
+      "num": 170935,
+      "word": "62岁的博格丹飞过62种机型",
+      "onboard_time": 1731602537,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 42541,
@@ -41531,6 +41595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33970,
+      "num": 209112,
+      "word": "加点zuo料",
+      "onboard_time": 1731601337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33933,
       "num": 333849,
       "word": "四环奥迪多一环",
@@ -42264,14 +42336,6 @@
       "word": "和王俊凯一起凯启幸运",
       "onboard_time": 1730952321,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30593,
-      "num": 209112,
-      "word": "加点zuo料",
-      "onboard_time": 1731601337,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -46545,22 +46609,6 @@
       "onboard_time": 1731582561,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7584,
-      "num": 364571,
-      "word": "武磊大赞张玉宁",
-      "onboard_time": 1731601577,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7431,
-      "num": 1234978,
-      "word": "张玉宁谈最后的进球",
-      "onboard_time": 1731601577,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 6904,
