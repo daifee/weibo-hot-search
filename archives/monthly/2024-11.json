@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731565901383,
+  "endTime": 1731566713842,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2059,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1354409,
+      "num": 268550,
+      "word": "李行亮指的是葛夕",
+      "onboard_time": 1731564202,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1354056,
       "num": 655075,
       "word": "乔任梁父母再次回应其死因",
@@ -2137,14 +2145,6 @@
       "onboard_time": 1731218180,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1328105,
-      "num": 220329,
-      "word": "李行亮指的是葛夕",
-      "onboard_time": 1731564202,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1323122,
@@ -3396,7 +3396,7 @@
     },
     {
       "raw_hot": 981662,
-      "num": 981662,
+      "num": 1118405,
       "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
       "onboard_time": 1731557182,
       "rank": 4,
@@ -7251,6 +7251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565033,
+      "num": 263961,
+      "word": "张艺兴工作人员朋友圈",
+      "onboard_time": 1731564142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564141,
       "num": 414698,
       "word": "张若昀唐艺昕带女儿玩跷跷板",
@@ -7289,14 +7297,6 @@
       "onboard_time": 1731500121,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 561076,
-      "num": 197253,
-      "word": "张艺兴工作人员朋友圈",
-      "onboard_time": 1731564142,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 560923,
@@ -8585,6 +8585,14 @@
       "onboard_time": 1730437400,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 487374,
+      "num": 260908,
+      "word": "哈尔滨一田地内发现一具被焚尸体",
+      "onboard_time": 1731565821,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 486785,
@@ -11771,6 +11779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 342591,
+      "num": 342591,
+      "word": "子期杀了子期",
+      "onboard_time": 1731562761,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342426,
       "num": 342426,
       "word": "厨房爆炸丈夫为救妻子去世",
@@ -11896,14 +11912,6 @@
       "word": "关晓彤王安宇跳了APT",
       "onboard_time": 1730694142,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 339514,
-      "num": 339514,
-      "word": "子期杀了子期",
-      "onboard_time": 1731562761,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -13811,6 +13819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281790,
+      "num": 281790,
+      "word": "王者荣耀联动角色柯南基德",
+      "onboard_time": 1731565761,
+      "rank": 40,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 281650,
       "num": 281650,
       "word": "金饰价格重回7字头",
@@ -14297,6 +14313,14 @@
       "onboard_time": 1730958680,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270864,
+      "num": 571609,
+      "word": "A股",
+      "onboard_time": 1730862682,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 270403,
@@ -16459,14 +16483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228329,
-      "num": 571609,
-      "word": "A股",
-      "onboard_time": 1730862682,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 228138,
       "num": 318585,
       "word": "永夜星河致敬步步惊心",
@@ -17577,6 +17593,14 @@
       "onboard_time": 1730860461,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211454,
+      "num": 211454,
+      "word": "李子柒熊猫蜀锦裙是自己缝的",
+      "onboard_time": 1731563241,
+      "rank": 27,
+      "category": "网红,美食"
     },
     {
       "raw_hot": 211445,
@@ -19089,6 +19113,14 @@
       "onboard_time": 1730792240,
       "rank": 37,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 199745,
+      "num": 199745,
+      "word": "JackeyLove和meiko携女友出游",
+      "onboard_time": 1731564081,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 199723,
@@ -20929,6 +20961,14 @@
       "onboard_time": 1731415642,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186585,
+      "num": 229524,
+      "word": "厦门今天含星量超标",
+      "onboard_time": 1731565701,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 186425,
@@ -22899,14 +22939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171375,
-      "num": 173961,
-      "word": "李子柒熊猫蜀锦裙是自己缝的",
-      "onboard_time": 1731563241,
-      "rank": 27,
-      "category": "网红,美食"
-    },
-    {
       "raw_hot": 171234,
       "num": 350977,
       "word": "肖战新歌翻唱",
@@ -23217,14 +23249,6 @@
       "onboard_time": 1730711540,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168871,
-      "num": 168871,
-      "word": "JackeyLove和meiko携女友出游",
-      "onboard_time": 1731564081,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 168863,
@@ -25643,6 +25667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153361,
+      "num": 153361,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1731565401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153254,
       "num": 153254,
       "word": "吴姗姗想占宋莹房子",
@@ -26019,6 +26051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151000,
+      "num": 151000,
+      "word": "腾讯回应黑神话悟空爆火",
+      "onboard_time": 1731563241,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150901,
       "num": 266580,
       "word": "Doinb扇自己耳光",
@@ -26331,14 +26371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149178,
-      "num": 149178,
-      "word": "哈尔滨一田地内发现一具被焚尸体",
-      "onboard_time": 1731565821,
-      "rank": 37,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 149101,
       "num": 149101,
       "word": "陈可儿身高",
@@ -26409,14 +26441,6 @@
       "onboard_time": 1731116658,
       "rank": 42,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 148598,
-      "num": 148598,
-      "word": "湖人战胜灰熊",
-      "onboard_time": 1731565401,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 148535,
@@ -27203,14 +27227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142857,
-      "num": 142857,
-      "word": "王者荣耀联动角色柯南基德",
-      "onboard_time": 1731565761,
-      "rank": 40,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 142679,
       "num": 142679,
       "word": "再见爱人4制片人感谢张泉灵",
@@ -27620,7 +27636,7 @@
     },
     {
       "raw_hot": 140291,
-      "num": 218001,
+      "num": 269459,
       "word": "中国人爆改沙漠有亿点惊艳",
       "onboard_time": 1731557362,
       "rank": 29,
@@ -28321,14 +28337,6 @@
       "onboard_time": 1730762296,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135415,
-      "num": 135415,
-      "word": "腾讯回应黑神话悟空爆火",
-      "onboard_time": 1731563241,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 135361,
@@ -29801,6 +29809,14 @@
       "onboard_time": 1730713277,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124766,
+      "num": 124766,
+      "word": "詹姆斯连续三场三双",
+      "onboard_time": 1731566181,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 124754,
@@ -31331,6 +31347,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 113551,
+      "num": 113551,
+      "word": "鸡柳哥1部剧获得6个绰号",
+      "onboard_time": 1731566481,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113532,
       "num": 113532,
       "word": "云南楚雄3.9级地震",
@@ -31577,6 +31601,14 @@
       "onboard_time": 1730948479,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 111339,
+      "num": 111339,
+      "word": "戴珍珠耳环的少女3D版",
+      "onboard_time": 1731566302,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 111305,
@@ -32115,6 +32147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106873,
+      "num": 106873,
+      "word": "五福临门",
+      "onboard_time": 1731566602,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106863,
       "num": 108818,
       "word": "发型师晓华回应同行质疑",
@@ -32649,6 +32689,14 @@
       "onboard_time": 1730994561,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101688,
+      "num": 140453,
+      "word": "偷拍已形成完整的产业链",
+      "onboard_time": 1731563781,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 101606,
@@ -33835,14 +33883,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 85138,
-      "num": 202728,
-      "word": "厦门今天含星量超标",
-      "onboard_time": 1731565701,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85116,
       "num": 319596,
       "word": "宋佳一个月2本五大",
@@ -34641,14 +34681,6 @@
       "onboard_time": 1731201259,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72741,
-      "num": 140453,
-      "word": "偷拍已形成完整的产业链",
-      "onboard_time": 1731563781,
-      "rank": 42,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 72703,
@@ -38739,6 +38771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37636,
+      "num": 194884,
+      "word": "近七成受访者感到线下社交能力退化",
+      "onboard_time": 1731564622,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 37619,
       "num": 37619,
       "word": "最正的黑莲花味",
@@ -39153,6 +39193,14 @@
       "onboard_time": 1730945478,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 34847,
+      "num": 221192,
+      "word": "家属称孕妇送医遇电梯停运后流产",
+      "onboard_time": 1731566421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34840,
@@ -40468,7 +40516,7 @@
     },
     {
       "raw_hot": 28055,
-      "num": 179209,
+      "num": 207670,
       "word": "王俊凯淡淡的幽默感",
       "onboard_time": 1731564261,
       "rank": 25,
@@ -41569,14 +41617,6 @@
       "onboard_time": 1730579720,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22671,
-      "num": 194884,
-      "word": "近七成受访者感到线下社交能力退化",
-      "onboard_time": 1731564622,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 22610,
@@ -43876,7 +43916,7 @@
     },
     {
       "raw_hot": 10892,
-      "num": 212408,
+      "num": 262836,
       "word": "人生92岁她在豆瓣杀出8.4的高分",
       "onboard_time": 1731565520,
       "rank": 13,

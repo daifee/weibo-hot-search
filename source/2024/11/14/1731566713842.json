@@ -1,0 +1,410 @@
+{
+  "runTime": 1731566713842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740033,
+        "num": 1118405,
+        "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731557182,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 715790,
+        "num": 715790,
+        "word": "成毅赵露思 将门毒后",
+        "onboard_time": 1731557602,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2907,
+        "num": 472526,
+        "word": "大洋彼岸APEC氛围感拉满",
+        "onboard_time": 1731552619,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342591,
+        "num": 342591,
+        "word": "子期杀了子期",
+        "onboard_time": 1731562761,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392004,
+        "num": 341804,
+        "word": "重庆15岁女孩被母亲男友砍伤十多处",
+        "onboard_time": 1731558744,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339760,
+        "num": 339760,
+        "word": "再也不做美甲了",
+        "onboard_time": 1731554480,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332663,
+        "num": 332663,
+        "word": "父亲去世后银行5.5万存款取不出",
+        "onboard_time": 1731551778,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281790,
+        "num": 281790,
+        "word": "王者荣耀联动角色柯南基德",
+        "onboard_time": 1731565761,
+        "rank": 7,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 270864,
+        "num": 270864,
+        "word": "A股",
+        "onboard_time": 1731552679,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98321,
+        "num": 269459,
+        "word": "中国人爆改沙漠有亿点惊艳",
+        "onboard_time": 1731557362,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1354409,
+        "num": 268550,
+        "word": "李行亮指的是葛夕",
+        "onboard_time": 1731564202,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598517,
+        "num": 265649,
+        "word": "于正说祝绪丹没上桌",
+        "onboard_time": 1731555802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565033,
+        "num": 263961,
+        "word": "张艺兴工作人员朋友圈",
+        "onboard_time": 1731564142,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9274,
+        "num": 262836,
+        "word": "人生92岁她在豆瓣杀出8.4的高分",
+        "onboard_time": 1731565520,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261596,
+        "num": 261596,
+        "word": "应届毕业考公考研还是好出路吗",
+        "onboard_time": 1731559823,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 487374,
+        "num": 260908,
+        "word": "哈尔滨一田地内发现一具被焚尸体",
+        "onboard_time": 1731565821,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 230440,
+        "num": 230440,
+        "word": "永夜星河开超点",
+        "onboard_time": 1731559704,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186585,
+        "num": 229524,
+        "word": "厦门今天含星量超标",
+        "onboard_time": 1731565701,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293957,
+        "num": 226558,
+        "word": "黄圣依怼杨子",
+        "onboard_time": 1731560063,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34847,
+        "num": 221192,
+        "word": "家属称孕妇送医遇电梯停运后流产",
+        "onboard_time": 1731566421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315648,
+        "num": 218756,
+        "word": "孕妇误踩宠物犬被咬后终止妊娠",
+        "onboard_time": 1731556103,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280628,
+        "num": 215392,
+        "word": "大四男生确诊糖尿病称曾想轻生",
+        "onboard_time": 1731560722,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243713,
+        "num": 212408,
+        "word": "初中生骑车摔倒被供电公司车辆撞死",
+        "onboard_time": 1731556882,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 211454,
+        "num": 211454,
+        "word": "李子柒熊猫蜀锦裙是自己缝的",
+        "onboard_time": 1731563241,
+        "rank": 23,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 19208,
+        "num": 207670,
+        "word": "王俊凯淡淡的幽默感",
+        "onboard_time": 1731564261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207061,
+        "num": 207061,
+        "word": "陈哲远自曝是真胖了",
+        "onboard_time": 1731559882,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199745,
+        "num": 199745,
+        "word": "JackeyLove和meiko携女友出游",
+        "onboard_time": 1731564081,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171224,
+        "num": 171224,
+        "word": "她一个月做了我一辈子的工作",
+        "onboard_time": 1731557362,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170798,
+        "num": 170798,
+        "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+        "onboard_time": 1731553100,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26423,
+        "num": 158433,
+        "word": "王铁梅 妈妈姐姐老婆三角形战士",
+        "onboard_time": 1731565701,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155125,
+        "num": 155125,
+        "word": "南方小土豆第一次在尔滨抛光",
+        "onboard_time": 1731557783,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154835,
+        "num": 154835,
+        "word": "金晨撑住了贴头皮造型",
+        "onboard_time": 1731564142,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153361,
+        "num": 153361,
+        "word": "湖人战胜灰熊",
+        "onboard_time": 1731565401,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145748,
+        "num": 151203,
+        "word": "赵牧辰要发歌了",
+        "onboard_time": 1731564921,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151000,
+        "num": 151000,
+        "word": "腾讯回应黑神话悟空爆火",
+        "onboard_time": 1731563241,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146887,
+        "num": 146887,
+        "word": "丁禹兮百分之五十理论包不内耗的",
+        "onboard_time": 1731564142,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143239,
+        "num": 143239,
+        "word": "杨子说黄圣依精神分裂",
+        "onboard_time": 1731561022,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140560,
+        "num": 140560,
+        "word": "沙特皇家空军航展签下数十亿美元订单",
+        "onboard_time": 1731564081,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134058,
+        "num": 134058,
+        "word": "李子柒过敏满脸纱布全身红疹",
+        "onboard_time": 1731553038,
+        "rank": 38,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 124766,
+        "num": 124766,
+        "word": "詹姆斯连续三场三双",
+        "onboard_time": 1731566181,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123909,
+        "num": 123909,
+        "word": "再见爱人",
+        "onboard_time": 1731558023,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116496,
+        "num": 116496,
+        "word": "张云龙曾说娜扎很漂亮但不自信",
+        "onboard_time": 1731564681,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116331,
+        "num": 116331,
+        "word": "疑似虞书欣欺负人机视频流出",
+        "onboard_time": 1731555322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113551,
+        "num": 113551,
+        "word": "鸡柳哥1部剧获得6个绰号",
+        "onboard_time": 1731566481,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111661,
+        "num": 111661,
+        "word": "黄执中 看不出杨子是做过一天实事的人",
+        "onboard_time": 1731564982,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111339,
+        "num": 111339,
+        "word": "戴珍珠耳环的少女3D版",
+        "onboard_time": 1731566302,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106873,
+        "num": 106873,
+        "word": "五福临门",
+        "onboard_time": 1731566602,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37636,
+        "num": 103752,
+        "word": "近七成受访者感到线下社交能力退化",
+        "onboard_time": 1731564622,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 102829,
+        "num": 102829,
+        "word": "四千万的大平层漏水四年半没修好",
+        "onboard_time": 1731558984,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101688,
+        "num": 101688,
+        "word": "偷拍已形成完整的产业链",
+        "onboard_time": 1731563781,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
