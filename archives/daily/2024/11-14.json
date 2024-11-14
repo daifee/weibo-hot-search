@@ -1,6 +1,6 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731552774598,
+  "endTime": 1731553354871,
   "band_list": [
     {
       "raw_hot": 1096228,
@@ -123,12 +123,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499690,
+      "num": 499690,
+      "word": "父亲去世后银行5.5万存款取不出",
+      "onboard_time": 1731551778,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496056,
+      "num": 496056,
+      "word": "黄金",
+      "onboard_time": 1731551956,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 472006,
       "num": 170536,
       "word": "丁禹兮发了妙妙拍的自己",
       "onboard_time": 1731512119,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415741,
+      "num": 359429,
+      "word": "小米发布智能底盘预研技术",
+      "onboard_time": 1731551359,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 410356,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 407076,
-      "num": 245943,
+      "num": 265496,
       "word": "女子高速倒车加超速求民警留1分",
       "onboard_time": 1731548298,
       "rank": 19,
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 398245,
-      "num": 241218,
+      "num": 265721,
       "word": "拜登特朗普白宫会面",
       "onboard_time": 1731547878,
       "rank": 32,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 379962,
-      "num": 240931,
+      "num": 263436,
       "word": "00后女生每天打四份工一年攒10万",
       "onboard_time": 1731543679,
       "rank": 20,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 370602,
-      "num": 240464,
+      "num": 253000,
       "word": "外籍女子与男子未婚生子1月后出走",
       "onboard_time": 1731544101,
       "rank": 21,
@@ -243,12 +267,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 297250,
-      "num": 297250,
-      "word": "小米发布智能底盘预研技术",
-      "onboard_time": 1731551359,
-      "rank": 11,
-      "category": "汽车"
+      "raw_hot": 294528,
+      "num": 294528,
+      "word": "时代峰峻消防违法被罚4.6万",
+      "onboard_time": 1731552378,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 285144,
@@ -267,12 +291,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 259301,
-      "num": 259301,
-      "word": "父亲去世后银行5.5万存款取不出",
-      "onboard_time": 1731551778,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 262668,
+      "num": 262668,
+      "word": "李子柒过敏满脸纱布全身红疹",
+      "onboard_time": 1731553038,
+      "rank": 24,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 255770,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 254279,
-      "num": 240694,
+      "num": 243588,
       "word": "美媒称梅拉尼娅拒绝去白宫见拜登夫人",
       "onboard_time": 1731549918,
       "rank": 25,
@@ -307,16 +331,8 @@
       "category": "母婴育儿,健康医疗"
     },
     {
-      "raw_hot": 242138,
-      "num": 242138,
-      "word": "黄金",
-      "onboard_time": 1731551956,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 240413,
-      "num": 240413,
+      "num": 275929,
       "word": "十个勤天两周年",
       "onboard_time": 1731551418,
       "rank": 27,
@@ -329,6 +345,14 @@
       "onboard_time": 1731540317,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228329,
+      "num": 228329,
+      "word": "A股",
+      "onboard_time": 1731552679,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 227186,
@@ -395,16 +419,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199842,
-      "num": 199842,
-      "word": "时代峰峻消防违法被罚4.6万",
-      "onboard_time": 1731552378,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197951,
-      "num": 215049,
+      "num": 245696,
       "word": "星辰大海开营",
       "onboard_time": 1731551177,
       "rank": 29,
@@ -417,14 +433,6 @@
       "onboard_time": 1731550879,
       "rank": 33,
       "category": "军事"
-    },
-    {
-      "raw_hot": 190853,
-      "num": 190853,
-      "word": "A股",
-      "onboard_time": 1731552679,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 190844,
@@ -515,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149336,
+      "num": 244043,
+      "word": "太好了是再见爱人职业规划师",
+      "onboard_time": 1731550338,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148754,
       "num": 148754,
       "word": "比特币",
       "onboard_time": 1731510621,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146161,
+      "num": 146161,
+      "word": "民警用被子包住迷路小雪豹",
+      "onboard_time": 1731550700,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140636,
@@ -531,14 +555,6 @@
       "category": "教育,体育"
     },
     {
-      "raw_hot": 138707,
-      "num": 138707,
-      "word": "民警用被子包住迷路小雪豹",
-      "onboard_time": 1731550700,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136529,
       "num": 136529,
       "word": "丁禹兮看了虞书欣泰国直播",
@@ -547,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133321,
-      "num": 133321,
-      "word": "太好了是再见爱人职业规划师",
-      "onboard_time": 1731550338,
+      "raw_hot": 134567,
+      "num": 134567,
+      "word": "青岛警报",
+      "onboard_time": 1731553218,
       "rank": 46,
-      "category": "综艺"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133189,
@@ -585,6 +601,14 @@
       "onboard_time": 1731543619,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 125422,
+      "num": 125422,
+      "word": "厦门震感",
+      "onboard_time": 1731553159,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120850,
@@ -633,6 +657,14 @@
       "onboard_time": 1731501261,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106583,
+      "num": 242198,
+      "word": "王者玩家侦探浓度检测",
+      "onboard_time": 1731552199,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 106569,
@@ -713,14 +745,6 @@
       "onboard_time": 1731549498,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 93181,
-      "num": 242198,
-      "word": "王者玩家侦探浓度检测",
-      "onboard_time": 1731552199,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 90091,
@@ -825,6 +849,14 @@
       "onboard_time": 1731502761,
       "rank": 45,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 72220,
+      "num": 269818,
+      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+      "onboard_time": 1731553100,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71646,
@@ -939,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56826,
+      "num": 359558,
+      "word": "一图梳理浪胃仙事件始末",
+      "onboard_time": 1731551898,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55581,
       "num": 55581,
       "word": "筱婷栋哲嗑点要素过多",
@@ -948,7 +988,7 @@
     },
     {
       "raw_hot": 54091,
-      "num": 325512,
+      "num": 360084,
       "word": "我国成功发射海洋盐度探测卫星",
       "onboard_time": 1731543920,
       "rank": 8,
@@ -969,14 +1009,6 @@
       "onboard_time": 1731540014,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48268,
-      "num": 314789,
-      "word": "一图梳理浪胃仙事件始末",
-      "onboard_time": 1731551898,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47768,
@@ -1043,12 +1075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37695,
+      "num": 551009,
+      "word": "大洋彼岸APEC氛围感拉满",
+      "onboard_time": 1731552619,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37390,
       "num": 97101,
       "word": "第十五届中国航展有多火",
       "onboard_time": 1731536473,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 36642,
+      "num": 290219,
+      "word": "糖尿病可引起哪些并发症",
+      "onboard_time": 1731553218,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34397,
@@ -1083,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31061,
+      "num": 242437,
+      "word": "国足伤兵满营客场拿分不易",
+      "onboard_time": 1731552319,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30285,
       "num": 30285,
       "word": "秘鲁是中国在太平洋对岸的邻居",
@@ -1099,8 +1155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27261,
-      "num": 131640,
+      "raw_hot": 28434,
+      "num": 186835,
       "word": "华为见非凡徐冰谈敢于探索",
       "onboard_time": 1731552737,
       "rank": 49,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1731530591,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19695,
-      "num": 242437,
-      "word": "国足伤兵满营客场拿分不易",
-      "onboard_time": 1731552319,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 19517,
@@ -1235,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16168,
+      "num": 228702,
+      "word": "庄筱婷监督学习也能撒糖",
+      "onboard_time": 1731552800,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14834,
       "num": 29391,
       "word": "中国传统技艺太惊艳了",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1731525132,
       "rank": 26,
       "category": "军事"
-    },
-    {
-      "raw_hot": 13382,
-      "num": 551009,
-      "word": "大洋彼岸APEC氛围感拉满",
-      "onboard_time": 1731552619,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12524,
