@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731580949477,
+  "endTime": 1731583162092,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2323,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1270096,
+      "num": 271351,
+      "word": "李行亮说离婚会跟麦琳争孩子",
+      "onboard_time": 1731580580,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1268514,
       "num": 1268514,
       "word": "刘亦菲 钢铁玫瑰",
@@ -3473,6 +3481,14 @@
       "onboard_time": 1730693182,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 977002,
+      "num": 270907,
+      "word": "炒股4年赚5千万00后直言最近亏麻了",
+      "onboard_time": 1731581901,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 973192,
@@ -8739,6 +8755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 484006,
+      "num": 270677,
+      "word": "丁禹兮工作室",
+      "onboard_time": 1731580461,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483754,
       "num": 543303,
       "word": "警方通报网传柳州女子喝醉被强暴",
@@ -10403,6 +10427,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 405268,
+      "num": 270503,
+      "word": "葛夕戴了魅女的木镯子",
+      "onboard_time": 1731582019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404744,
       "num": 404744,
       "word": "美了1千多年的银杏是唐太宗种的",
@@ -10617,6 +10649,14 @@
       "onboard_time": 1731338658,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397462,
+      "num": 322808,
+      "word": "再见爱人太legend了",
+      "onboard_time": 1731576080,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 396387,
@@ -12307,14 +12347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333625,
-      "num": 247435,
-      "word": "李行亮说离婚会跟麦琳争孩子",
-      "onboard_time": 1731580580,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333605,
       "num": 512887,
       "word": "林诗栋4比1卡尔伯格",
@@ -12665,14 +12697,6 @@
       "onboard_time": 1730545398,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322808,
-      "num": 322808,
-      "word": "再见爱人太legend了",
-      "onboard_time": 1731576080,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 322798,
@@ -14467,6 +14491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272849,
+      "num": 277721,
+      "word": "两名调查记者采访时遇袭手机被抢",
+      "onboard_time": 1731578662,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272747,
       "num": 391713,
       "word": "大侦探团综 群像",
@@ -14960,6 +14992,14 @@
       "word": "黄晓明未删与叶珂官宣微博",
       "onboard_time": 1730985202,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261455,
+      "num": 278650,
+      "word": "从流量到演技王一博能否双赢",
+      "onboard_time": 1731578960,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -15481,6 +15521,14 @@
       "onboard_time": 1731050540,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 251568,
+      "num": 251568,
+      "word": "黄圣依开始搞事业了",
+      "onboard_time": 1731579980,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 251454,
@@ -16011,6 +16059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240979,
+      "num": 215663,
+      "word": "珠海近千架无人机致敬中国制造",
+      "onboard_time": 1731582381,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
       "raw_hot": 240554,
       "num": 240554,
       "word": "立冬文案",
@@ -16281,14 +16337,6 @@
       "onboard_time": 1730638399,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 236115,
-      "num": 236115,
-      "word": "黄圣依开始搞事业了",
-      "onboard_time": 1731579980,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 236089,
@@ -17507,6 +17555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 216636,
+      "num": 216636,
+      "word": "肖战黑粉拒不道歉被法院公告",
+      "onboard_time": 1731582501,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216514,
       "num": 216514,
       "word": "邓超陈赫王祖蓝合影",
@@ -17873,6 +17929,14 @@
       "onboard_time": 1730704039,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212149,
+      "num": 212149,
+      "word": "女子遭男友施暴满脸鲜血跑进便利店",
+      "onboard_time": 1731578181,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212125,
@@ -19419,12 +19483,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200440,
+      "num": 200440,
+      "word": "永夜星河预告",
+      "onboard_time": 1731150257,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200377,
       "num": 200377,
       "word": "王楚钦说一个也发不转",
       "onboard_time": 1730935817,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200367,
+      "num": 196607,
+      "word": "谁扛得住虞书欣猛妹撒娇",
+      "onboard_time": 1731582261,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 200349,
@@ -19923,6 +20003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197104,
+      "num": 197104,
+      "word": "鹿晗工作室真诚致歉",
+      "onboard_time": 1731582740,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197028,
       "num": 238174,
       "word": "没认出这是小巷人家的姑姑",
@@ -20144,6 +20232,14 @@
       "word": "深潜",
       "onboard_time": 1731423743,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195381,
+      "num": 195381,
+      "word": "小巷人家石云鹏演活了向鹏飞",
+      "onboard_time": 1731581421,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -20675,14 +20771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192064,
-      "num": 192064,
-      "word": "丁禹兮工作室",
-      "onboard_time": 1731580461,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191979,
       "num": 253752,
       "word": "关晓彤演技",
@@ -20769,14 +20857,6 @@
       "onboard_time": 1730800462,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191559,
-      "num": 277721,
-      "word": "两名调查记者采访时遇袭手机被抢",
-      "onboard_time": 1731578662,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191531,
@@ -22451,6 +22531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178350,
+      "num": 178350,
+      "word": "冠佑更博",
+      "onboard_time": 1731581120,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178332,
       "num": 369054,
       "word": "严艺丹回应永夜星河bgm争议",
@@ -22753,14 +22841,6 @@
       "onboard_time": 1731215478,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176063,
-      "num": 176063,
-      "word": "永夜星河预告",
-      "onboard_time": 1731150257,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 176061,
@@ -23571,6 +23651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 170164,
+      "num": 170164,
+      "word": "刚跑完1000米的丁程鑫",
+      "onboard_time": 1731580580,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170084,
       "num": 170084,
       "word": "明日方舟",
@@ -23761,14 +23849,6 @@
       "onboard_time": 1730558659,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168737,
-      "num": 168737,
-      "word": "女子遭男友施暴满脸鲜血跑进便利店",
-      "onboard_time": 1731578181,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168703,
@@ -24539,6 +24619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163972,
+      "num": 310958,
+      "word": "林高远红毯穿搭太潮了",
+      "onboard_time": 1731576921,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163738,
       "num": 163738,
       "word": "向佐直播榜一是药水哥",
@@ -25211,6 +25299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159500,
+      "num": 159500,
+      "word": "王者送干将莫邪侦探皮肤",
+      "onboard_time": 1731582860,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159397,
       "num": 159397,
       "word": "民警用被子包住迷路小雪豹",
@@ -25497,6 +25593,14 @@
       "onboard_time": 1730639719,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 157713,
+      "num": 157713,
+      "word": "王者联动柯南送柯南灵宝",
+      "onboard_time": 1731581540,
+      "rank": 46,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 157656,
@@ -25945,6 +26049,14 @@
       "onboard_time": 1731051919,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154505,
+      "num": 154505,
+      "word": "大连4人海边攀岩1人坠海身亡",
+      "onboard_time": 1731583101,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 154470,
@@ -30979,14 +31091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121273,
-      "num": 278650,
-      "word": "从流量到演技王一博能否双赢",
-      "onboard_time": 1731578960,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121259,
       "num": 121259,
       "word": "教育局回应学生玩死亡游戏晕倒",
@@ -32681,6 +32785,14 @@
       "onboard_time": 1730447360,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107252,
+      "num": 189563,
+      "word": "吉利控股确认极氪控股领克",
+      "onboard_time": 1731582980,
+      "rank": 39,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 107245,
@@ -34675,6 +34787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83825,
+      "num": 270298,
+      "word": "再见爱人麦学后亮学来了",
+      "onboard_time": 1731582680,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83756,
       "num": 83756,
       "word": "媒体评瑞士卷事件",
@@ -36435,6 +36555,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 61989,
+      "num": 272076,
+      "word": "多方回应记者追访合新铁路事件遭袭",
+      "onboard_time": 1731581660,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 61965,
       "num": 61965,
       "word": "撒贝宁是有点舞蹈天赋在身上的",
@@ -37297,6 +37425,14 @@
       "onboard_time": 1731579680,
       "rank": 16,
       "category": "军事"
+    },
+    {
+      "raw_hot": 54672,
+      "num": 212309,
+      "word": "心安勿梦和九尾无畏合拍",
+      "onboard_time": 1731582019,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 54567,
@@ -38379,6 +38515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45633,
+      "num": 213918,
+      "word": "林高远解读穿搭好专业",
+      "onboard_time": 1731582019,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45489,
       "num": 46560,
       "word": "官方称辽宁大巴起火已致30余人受伤",
@@ -39441,6 +39585,14 @@
       "onboard_time": 1731502580,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38269,
+      "num": 215156,
+      "word": "赵丽娜红毯好飒",
+      "onboard_time": 1731582320,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 38240,
@@ -42739,6 +42891,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 21777,
+      "num": 247561,
+      "word": "王俊凯表情包小天才",
+      "onboard_time": 1731579801,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21736,
       "num": 242596,
       "word": "竞燃之夜今年又被iQOO包圆了",
@@ -43465,14 +43625,6 @@
       "onboard_time": 1730719880,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18721,
-      "num": 247561,
-      "word": "王俊凯表情包小天才",
-      "onboard_time": 1731579801,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 18696,
@@ -44459,14 +44611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13782,
-      "num": 310958,
-      "word": "林高远红毯穿搭太潮了",
-      "onboard_time": 1731576921,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13764,
       "num": 30995,
       "word": "关注第15届中国航展",
@@ -44979,6 +45123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10053,
+      "num": 271544,
+      "word": "模仿虽多李子柒还是李子柒",
+      "onboard_time": 1731582381,
+      "rank": 9,
+      "category": "网红,美食"
+    },
+    {
       "raw_hot": 9981,
       "num": 251300,
       "word": "官方通报女童被泼热水后又遭恐吓",
@@ -45161,6 +45313,14 @@
       "onboard_time": 1730961680,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7716,
+      "num": 253451,
+      "word": "我们为什么需要付航的passion",
+      "onboard_time": 1731582561,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 6904,

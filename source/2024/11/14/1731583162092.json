@@ -1,0 +1,410 @@
+{
+  "runTime": 1731583162092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 669555,
+        "num": 1107128,
+        "word": "阿信演唱会破音唱功再遭质疑",
+        "onboard_time": 1731572601,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352207,
+        "num": 352207,
+        "word": "金价",
+        "onboard_time": 1731574520,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26566,
+        "num": 296971,
+        "word": "80秒带你了解APEC",
+        "onboard_time": 1731573981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397462,
+        "num": 289074,
+        "word": "再见爱人太legend了",
+        "onboard_time": 1731576080,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272849,
+        "num": 272849,
+        "word": "两名调查记者采访时遇袭手机被抢",
+        "onboard_time": 1731578662,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458081,
+        "num": 272828,
+        "word": "李子柒评论区 世界大和谐",
+        "onboard_time": 1731567262,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 272380,
+        "num": 272380,
+        "word": "成毅赵露思 将门毒后",
+        "onboard_time": 1731557602,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197744,
+        "num": 272285,
+        "word": "陈若琳说全红婵大了要哄着了",
+        "onboard_time": 1731571579,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61989,
+        "num": 272076,
+        "word": "多方回应记者追访合新铁路事件遭袭",
+        "onboard_time": 1731581660,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 10053,
+        "num": 271544,
+        "word": "模仿虽多李子柒还是李子柒",
+        "onboard_time": 1731582381,
+        "rank": 9,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 1270096,
+        "num": 271351,
+        "word": "李行亮说离婚会跟麦琳争孩子",
+        "onboard_time": 1731580580,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 977002,
+        "num": 270907,
+        "word": "炒股4年赚5千万00后直言最近亏麻了",
+        "onboard_time": 1731581901,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 484006,
+        "num": 270677,
+        "word": "丁禹兮工作室",
+        "onboard_time": 1731580461,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405268,
+        "num": 270503,
+        "word": "葛夕戴了魅女的木镯子",
+        "onboard_time": 1731582019,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83825,
+        "num": 270298,
+        "word": "再见爱人麦学后亮学来了",
+        "onboard_time": 1731582680,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340850,
+        "num": 269726,
+        "word": "虞书欣我容易我容易",
+        "onboard_time": 1731576981,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331251,
+        "num": 269547,
+        "word": "韩国气象女主播自曝在菲律宾吸毒",
+        "onboard_time": 1731571820,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269419,
+        "num": 269419,
+        "word": "被泼开水女童父亲称民警要求道歉",
+        "onboard_time": 1731574941,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261455,
+        "num": 261455,
+        "word": "从流量到演技王一博能否双赢",
+        "onboard_time": 1731578960,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7716,
+        "num": 253451,
+        "word": "我们为什么需要付航的passion",
+        "onboard_time": 1731582561,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454747,
+        "num": 253046,
+        "word": "原来下肢是人体的血糖仪",
+        "onboard_time": 1731577881,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251568,
+        "num": 251568,
+        "word": "黄圣依开始搞事业了",
+        "onboard_time": 1731579980,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244702,
+        "num": 244702,
+        "word": "永夜星河",
+        "onboard_time": 1731578302,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216636,
+        "num": 216636,
+        "word": "肖战黑粉拒不道歉被法院公告",
+        "onboard_time": 1731582501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21777,
+        "num": 216477,
+        "word": "王俊凯表情包小天才",
+        "onboard_time": 1731579801,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240979,
+        "num": 215663,
+        "word": "珠海近千架无人机致敬中国制造",
+        "onboard_time": 1731582381,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 38269,
+        "num": 215156,
+        "word": "赵丽娜红毯好飒",
+        "onboard_time": 1731582320,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182730,
+        "num": 214427,
+        "word": "肺癌早期症状通常不明显",
+        "onboard_time": 1731576201,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45633,
+        "num": 213918,
+        "word": "林高远解读穿搭好专业",
+        "onboard_time": 1731582019,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128221,
+        "num": 213549,
+        "word": "紫金矿业回应被贩毒集团掠夺3吨黄金",
+        "onboard_time": 1731567681,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 396128,
+        "num": 213042,
+        "word": "陈梦DIOR黑裙",
+        "onboard_time": 1731574941,
+        "rank": 30,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 54672,
+        "num": 212309,
+        "word": "心安勿梦和九尾无畏合拍",
+        "onboard_time": 1731582019,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212149,
+        "num": 212149,
+        "word": "女子遭男友施暴满脸鲜血跑进便利店",
+        "onboard_time": 1731578181,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200440,
+        "num": 200440,
+        "word": "永夜星河预告",
+        "onboard_time": 1731582740,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197104,
+        "num": 197104,
+        "word": "鹿晗工作室真诚致歉",
+        "onboard_time": 1731582740,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200367,
+        "num": 196607,
+        "word": "谁扛得住虞书欣猛妹撒娇",
+        "onboard_time": 1731582261,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195905,
+        "num": 195905,
+        "word": "李行亮指的是葛夕",
+        "onboard_time": 1731564202,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195381,
+        "num": 195381,
+        "word": "小巷人家石云鹏演活了向鹏飞",
+        "onboard_time": 1731581421,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190409,
+        "num": 190409,
+        "word": "哈尔滨一田地内发现一具被焚尸体",
+        "onboard_time": 1731565821,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107252,
+        "num": 189563,
+        "word": "吉利控股确认极氪控股领克",
+        "onboard_time": 1731582980,
+        "rank": 39,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 189197,
+        "num": 189197,
+        "word": "林一 暗恋的人成了闪闪发光的大明星",
+        "onboard_time": 1731573141,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178350,
+        "num": 178350,
+        "word": "冠佑更博",
+        "onboard_time": 1731581120,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173896,
+        "num": 173896,
+        "word": "东北雨姐丈夫多家企业申请注销又撤回",
+        "onboard_time": 1731575721,
+        "rank": 42,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 170164,
+        "num": 170164,
+        "word": "刚跑完1000米的丁程鑫",
+        "onboard_time": 1731580580,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163972,
+        "num": 163972,
+        "word": "林高远红毯穿搭太潮了",
+        "onboard_time": 1731576921,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159500,
+        "num": 159500,
+        "word": "王者送干将莫邪侦探皮肤",
+        "onboard_time": 1731582860,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157713,
+        "num": 157713,
+        "word": "王者联动柯南送柯南灵宝",
+        "onboard_time": 1731581540,
+        "rank": 46,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 156174,
+        "num": 156174,
+        "word": "李子柒亲手缝的裙子被赞100分",
+        "onboard_time": 1731578900,
+        "rank": 47,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 154505,
+        "num": 154505,
+        "word": "大连4人海边攀岩1人坠海身亡",
+        "onboard_time": 1731583101,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 151041,
+        "num": 151041,
+        "word": "Ning严以待人宽以待己",
+        "onboard_time": 1731579141,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在秘鲁媒体发表署名文章#"
+    }
+  }
+}
