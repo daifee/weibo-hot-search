@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731611906449,
+  "endTime": 1731612956631,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -571,12 +571,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 22406,
+      "num": 39619,
+      "word": "韩国高考听力时段全境暂停飞机起降",
+      "onboard_time": 1731611592,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19692,
       "num": 43501,
       "word": "珠海航展科技感溢出屏幕了",
       "onboard_time": 1731607093,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 18442,
+      "num": 19174,
+      "word": "李行亮麦琳讨论离婚",
+      "onboard_time": 1731612130,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17325,
+      "num": 24173,
+      "word": "直击第37届金鸡奖",
+      "onboard_time": 1731612432,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 16426,
@@ -593,14 +617,6 @@
       "onboard_time": 1731607033,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11623,
-      "num": 26886,
-      "word": "韩国高考听力时段全境暂停飞机起降",
-      "onboard_time": 1731611592,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11343,
@@ -627,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7332,
+      "num": 28611,
+      "word": "金素恩发文悼念宋再临",
+      "onboard_time": 1731611651,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 5743,
       "num": 38283,
       "word": "无畏Fly周柯宇合拍大头像",
@@ -643,12 +667,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5251,
-      "num": 28611,
-      "word": "金素恩发文悼念宋再临",
-      "onboard_time": 1731611651,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 5203,
+      "num": 26136,
+      "word": "无畏孙一文合体亮相",
+      "onboard_time": 1731612851,
+      "rank": 24,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 5179,
