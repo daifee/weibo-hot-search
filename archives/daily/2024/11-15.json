@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731620181629,
+  "endTime": 1731622908206,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -243,6 +243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 148849,
+      "num": 148849,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 147859,
       "num": 147859,
       "word": "阁楼上的疯女人",
@@ -427,14 +435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 65912,
-      "num": 65912,
-      "word": "除夕不用请假了你打算回家还是旅游",
-      "onboard_time": 1731616390,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 65627,
       "num": 1234978,
       "word": "张玉宁谈最后的进球",
@@ -473,6 +473,14 @@
       "onboard_time": 1731601400,
       "rank": 25,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 49798,
+      "num": 35940,
+      "word": "3绒3羊3胞胎妈妈已坚持33周",
+      "onboard_time": 1731606314,
+      "rank": 37,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 49061,
@@ -531,6 +539,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 38539,
+      "num": 35929,
+      "word": "狗狗在家里被人开车投毒死亡",
+      "onboard_time": 1731614771,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 35329,
+      "num": 35329,
+      "word": "特朗普提名的美防长曾直播扔斧头",
+      "onboard_time": 1731608532,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34088,
       "num": 175529,
       "word": "公众知情权不能打",
@@ -545,22 +569,6 @@
       "onboard_time": 1731601337,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32838,
-      "num": 32838,
-      "word": "特朗普提名的美防长曾直播扔斧头",
-      "onboard_time": 1731608532,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 31027,
-      "num": 31027,
-      "word": "3绒3羊3胞胎妈妈已坚持33周",
-      "onboard_time": 1731606314,
-      "rank": 37,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 29877,
@@ -587,16 +595,16 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27435,
-      "num": 25445,
-      "word": "狗狗在家里被人开车投毒死亡",
-      "onboard_time": 1731614771,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 27505,
+      "num": 27505,
+      "word": "庄筱婷林栋哲恋情公开",
+      "onboard_time": 1731622211,
+      "rank": 32,
+      "category": "剧集"
     },
     {
-      "raw_hot": 23748,
-      "num": 22389,
+      "raw_hot": 25066,
+      "num": 25066,
       "word": "巴林进球越位",
       "onboard_time": 1731599780,
       "rank": 30,
@@ -609,6 +617,14 @@
       "onboard_time": 1731607093,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 19421,
+      "num": 20507,
+      "word": "黄金跌上热搜",
+      "onboard_time": 1731622811,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 18442,
@@ -643,20 +659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14849,
+      "num": 21775,
+      "word": "为都一样制作MV",
+      "onboard_time": 1731609972,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 14235,
       "num": 54636,
       "word": "打记者也捂不住问题",
       "onboard_time": 1731607033,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12843,
-      "num": 21775,
-      "word": "为都一样制作MV",
-      "onboard_time": 1731609972,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 11343,
@@ -681,6 +697,14 @@
       "onboard_time": 1731610031,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10602,
+      "num": 54634,
+      "word": "三个台风海上共舞",
+      "onboard_time": 1731622391,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10344,
