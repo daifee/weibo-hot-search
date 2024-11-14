@@ -1,0 +1,410 @@
+{
+  "runTime": 1731549533513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954143,
+        "num": 1152663,
+        "word": "浪胃仙IP创始人获刑8年",
+        "onboard_time": 1731511881,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 469497,
+        "num": 469497,
+        "word": "姿态沉默下播",
+        "onboard_time": 1731546738,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9169,
+        "num": 450887,
+        "word": "中国连续10年是秘鲁最大出口市场",
+        "onboard_time": 1731503660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556493,
+        "num": 449085,
+        "word": "成毅 扛剧",
+        "onboard_time": 1731544579,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445386,
+        "num": 445386,
+        "word": "校园招聘严禁限定985和211高校",
+        "onboard_time": 1731516797,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743833,
+        "num": 435713,
+        "word": "成都漆器证实李子柒全程自己做",
+        "onboard_time": 1731510320,
+        "rank": 5,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 511217,
+        "num": 435336,
+        "word": "刘宇宁直播了5个小时",
+        "onboard_time": 1731544579,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425657,
+        "num": 425657,
+        "word": "秋梨糖70一斤比肉都贵",
+        "onboard_time": 1731543619,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 328655,
+        "num": 328655,
+        "word": "江苏无锡京东物流园突发大火",
+        "onboard_time": 1731545479,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 300407,
+        "num": 300407,
+        "word": "60个离婚律师把麦琳当典型研讨",
+        "onboard_time": 1731506901,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504284,
+        "num": 289519,
+        "word": "家人回应男子疑被当猎物遭枪击身亡",
+        "onboard_time": 1731544520,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 376965,
+        "num": 274145,
+        "word": "赵露思方取证",
+        "onboard_time": 1731539596,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309133,
+        "num": 250140,
+        "word": "被泼开水女童家长发声",
+        "onboard_time": 1731521412,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158445,
+        "num": 245943,
+        "word": "女子高速倒车加超速求民警留1分",
+        "onboard_time": 1731548298,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233186,
+        "num": 233186,
+        "word": "00后代孕流产女孩发声",
+        "onboard_time": 1731499642,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212692,
+        "num": 212692,
+        "word": "教育部发文促进高校毕业生就业",
+        "onboard_time": 1731541697,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178821,
+        "num": 178821,
+        "word": "中国军机的命名终于搞懂了",
+        "onboard_time": 1731516435,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 167251,
+        "num": 167251,
+        "word": "契税",
+        "onboard_time": 1731492198,
+        "rank": 17,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 166349,
+        "num": 166349,
+        "word": "杭州23周超早产儿米宝出院了",
+        "onboard_time": 1731541879,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17969,
+        "num": 166345,
+        "word": "伊万重申目标就是小组前四",
+        "onboard_time": 1731548897,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356337,
+        "num": 166280,
+        "word": "00后女生每天打四份工一年攒10万",
+        "onboard_time": 1731543679,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315936,
+        "num": 166234,
+        "word": "外籍女子与男子未婚生子1月后出走",
+        "onboard_time": 1731544101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283200,
+        "num": 166183,
+        "word": "杨紫方已完成取证",
+        "onboard_time": 1731497240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249085,
+        "num": 166124,
+        "word": "拜登特朗普白宫会面",
+        "onboard_time": 1731547878,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155199,
+        "num": 166119,
+        "word": "丁禹兮 请苍天辨忠奸",
+        "onboard_time": 1731549257,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220225,
+        "num": 166042,
+        "word": "特朗普提名多人出任重要职位",
+        "onboard_time": 1731547878,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212330,
+        "num": 166001,
+        "word": "通知公布半小时已有人下单去广州",
+        "onboard_time": 1731511400,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175875,
+        "num": 165971,
+        "word": "秋冬吃甘蔗是大补",
+        "onboard_time": 1731546738,
+        "rank": 27,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 108962,
+        "num": 165893,
+        "word": "刘宇宁看见热搜的反应",
+        "onboard_time": 1731541577,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71638,
+        "num": 165868,
+        "word": "从中国到秘鲁那么远这么近",
+        "onboard_time": 1731548119,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170511,
+        "num": 165833,
+        "word": "原来怀孕时脏器会被挤变形",
+        "onboard_time": 1731510320,
+        "rank": 30,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 165801,
+        "num": 165801,
+        "word": "上海月租3500的房子",
+        "onboard_time": 1731540317,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157422,
+        "num": 157422,
+        "word": "18岁小伙帮女友收废品还60万外债",
+        "onboard_time": 1731539596,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154679,
+        "num": 154679,
+        "word": "杨谨华谈是否与萧亚轩破镜重圆",
+        "onboard_time": 1731545000,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153657,
+        "num": 153657,
+        "word": "丁禹兮发了妙妙拍的自己",
+        "onboard_time": 1731512119,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142218,
+        "num": 142218,
+        "word": "第五人格",
+        "onboard_time": 1731547099,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140636,
+        "num": 140636,
+        "word": "孙颖莎张博恒王楚钦 大学生严选",
+        "onboard_time": 1731548717,
+        "rank": 36,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 132151,
+        "num": 132151,
+        "word": "Uzi盛赞小明",
+        "onboard_time": 1731548238,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121945,
+        "num": 121945,
+        "word": "住房契税优惠政策来了",
+        "onboard_time": 1731545719,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119667,
+        "num": 119667,
+        "word": "中国航展上歼15T为群众遮风挡雨",
+        "onboard_time": 1731543619,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 104145,
+        "num": 104145,
+        "word": "2025高校毕业生预计1222万人",
+        "onboard_time": 1731549437,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102273,
+        "num": 102273,
+        "word": "中国新能源汽车年产突破1000万辆",
+        "onboard_time": 1731549498,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99529,
+        "num": 99529,
+        "word": "让台湾同胞知道我们中国有多强",
+        "onboard_time": 1731507320,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 93744,
+        "num": 93744,
+        "word": "如何掖衣服不带褶子",
+        "onboard_time": 1731549498,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 93267,
+        "num": 93267,
+        "word": "户主称不会卖11元网拍海景房",
+        "onboard_time": 1731538635,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 86510,
+        "word": "金钟铉曾对付小混混保护泰民",
+        "onboard_time": 1731540317,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80276,
+        "num": 80276,
+        "word": "范丞丞回应金鸡奖提名",
+        "onboard_time": 1731514459,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79120,
+        "num": 79120,
+        "word": "吴姗姗 白眼狼",
+        "onboard_time": 1731507681,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76249,
+        "num": 76249,
+        "word": "国足若输给巴林晋级希望渺茫",
+        "onboard_time": 1731547878,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74331,
+        "num": 74331,
+        "word": "TWICE新专概念照",
+        "onboard_time": 1731549198,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
