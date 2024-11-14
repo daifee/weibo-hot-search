@@ -1,7 +1,15 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731555741301,
+  "endTime": 1731558470387,
   "band_list": [
+    {
+      "raw_hot": 1777235,
+      "num": 249067,
+      "word": "于正说祝绪丹没上桌",
+      "onboard_time": 1731555802,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1361147,
       "num": 1361147,
@@ -25,6 +33,14 @@
       "onboard_time": 1731511400,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 932868,
+      "num": 333525,
+      "word": "疑似虞书欣欺负人机视频流出",
+      "onboard_time": 1731555322,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 823113,
@@ -51,12 +67,28 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 709743,
+      "num": 709743,
+      "word": "再也不做美甲了",
+      "onboard_time": 1731554480,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 688054,
       "num": 198755,
       "word": "小伙吃出疑似预制蛋商家称火候大",
       "onboard_time": 1731513080,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 651278,
+      "num": 651278,
+      "word": "成毅赵露思 将门毒后",
+      "onboard_time": 1731557602,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 647217,
@@ -81,6 +113,14 @@
       "onboard_time": 1731497240,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604281,
+      "num": 224407,
+      "word": "孕妇误踩宠物犬被咬后终止妊娠",
+      "onboard_time": 1731556103,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 580808,
@@ -112,6 +152,14 @@
       "word": "家人回应男子疑被当猎物遭枪击身亡",
       "onboard_time": 1731544520,
       "rank": 10,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 547604,
+      "num": 547604,
+      "word": "紫金矿业据报被贩毒集团掠夺3吨黄金",
+      "onboard_time": 1731557182,
+      "rank": 4,
       "category": "舆论监督"
     },
     {
@@ -163,12 +211,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459026,
-      "num": 459026,
-      "word": "再也不做美甲了",
-      "onboard_time": 1731554480,
-      "rank": 33,
+      "raw_hot": 459453,
+      "num": 459453,
+      "word": "T1",
+      "onboard_time": 1731556222,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 440455,
+      "num": 223712,
+      "word": "她一个月做了我一辈子的工作",
+      "onboard_time": 1731557362,
+      "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 430487,
+      "num": 269818,
+      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+      "onboard_time": 1731553100,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423837,
+      "num": 243779,
+      "word": "初中生骑车摔倒被供电公司车辆撞死",
+      "onboard_time": 1731556882,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 415741,
@@ -177,6 +249,14 @@
       "onboard_time": 1731551359,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 411108,
+      "num": 235728,
+      "word": "母亲骨灰盒从他人墓里找到儿子发声",
+      "onboard_time": 1731554602,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410356,
@@ -251,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366158,
-      "num": 333525,
-      "word": "疑似虞书欣欺负人机视频流出",
-      "onboard_time": 1731555322,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332155,
       "num": 332155,
       "word": "60个离婚律师把麦琳当典型研讨",
@@ -299,12 +371,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 302014,
+      "num": 302014,
+      "word": "再见爱人",
+      "onboard_time": 1731558023,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298751,
       "num": 298751,
       "word": "教育部发文促进高校毕业生就业",
       "onboard_time": 1731541697,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 294662,
+      "num": 216508,
+      "word": "卢昱晓泼水 庄嫂摔碗",
+      "onboard_time": 1731557783,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 285144,
@@ -379,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 234105,
-      "num": 234105,
-      "word": "母亲骨灰盒从他人墓里找到儿子发声",
-      "onboard_time": 1731554602,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230843,
       "num": 268470,
       "word": "林志玲现身河南看望帮扶的学生",
@@ -411,12 +491,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 226966,
-      "num": 269818,
-      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
-      "onboard_time": 1731553100,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 226620,
+      "num": 230100,
+      "word": "金云鹤参加高考",
+      "onboard_time": 1731555262,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 223166,
@@ -443,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214924,
+      "num": 262396,
+      "word": "两名外国军人在中国武器面前挪不动步",
+      "onboard_time": 1731554602,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 214282,
       "num": 214282,
       "word": "姆巴佩被曝存在精神问题",
@@ -457,6 +545,30 @@
       "onboard_time": 1731516435,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 210611,
+      "num": 233277,
+      "word": "白敬亭文咏珊合作",
+      "onboard_time": 1731557422,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208428,
+      "num": 208428,
+      "word": "丁禹兮全障碍交流",
+      "onboard_time": 1731557422,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206795,
+      "num": 221362,
+      "word": "肖战都一样MV",
+      "onboard_time": 1731557602,
+      "rank": 25,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 204464,
@@ -515,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188201,
+      "num": 188201,
+      "word": "文班亚马太夸张了",
+      "onboard_time": 1731557362,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185938,
       "num": 158963,
       "word": "晋江男孩",
@@ -523,12 +643,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181990,
+      "num": 181990,
+      "word": "南方小土豆第一次在尔滨抛光",
+      "onboard_time": 1731557783,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 179701,
       "num": 179701,
       "word": "范丞丞回应金鸡奖提名",
       "onboard_time": 1731514459,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174635,
+      "num": 174635,
+      "word": "腾讯总裁回应游戏部门调整",
+      "onboard_time": 1731556404,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 173933,
+      "num": 217153,
+      "word": "白敬亭新剧又循环了",
+      "onboard_time": 1731557842,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 165193,
@@ -579,6 +723,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "文班亚马50分",
+      "onboard_time": 1731558263,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153593,
+      "num": 153593,
+      "word": "T1辅助Keria续约至2026年",
+      "onboard_time": 1731556584,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152420,
+      "num": 272014,
+      "word": "买房还没交契税能享受1%税率吗",
+      "onboard_time": 1731553819,
+      "rank": 9,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 151615,
       "num": 235552,
       "word": "杜华怕演唱会全场喊乐华倒闭",
@@ -595,12 +763,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150901,
+      "num": 150901,
+      "word": "Doinb扇自己耳光",
+      "onboard_time": 1731558263,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150090,
       "num": 150090,
       "word": "丁禹兮反击祝绪丹",
       "onboard_time": 1731503961,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149901,
+      "num": 149901,
+      "word": "种地吧",
+      "onboard_time": 1731556584,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 149598,
@@ -627,6 +811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144539,
+      "num": 144539,
+      "word": "雷军来中国航展了",
+      "onboard_time": 1731558444,
+      "rank": 49,
+      "category": "互联网,军事"
+    },
+    {
       "raw_hot": 143002,
       "num": 143002,
       "word": "Uzi谈水晶哥一鱼四吃",
@@ -641,14 +833,6 @@
       "onboard_time": 1731548717,
       "rank": 36,
       "category": "教育,体育"
-    },
-    {
-      "raw_hot": 139782,
-      "num": 230100,
-      "word": "金云鹤参加高考",
-      "onboard_time": 1731555262,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 136529,
@@ -673,6 +857,14 @@
       "onboard_time": 1731548238,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131693,
+      "num": 226464,
+      "word": "入职县城医院的医学生为何逃回大城市",
+      "onboard_time": 1731557122,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131321,
@@ -795,14 +987,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 103761,
-      "num": 262396,
-      "word": "两名外国军人在中国武器面前挪不动步",
-      "onboard_time": 1731554602,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
       "raw_hot": 102613,
       "num": 102613,
       "word": "把生活微调成你喜欢的样子",
@@ -865,14 +1049,6 @@
       "onboard_time": 1731510801,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88657,
-      "num": 272014,
-      "word": "买房还没交契税能享受1%税率吗",
-      "onboard_time": 1731553819,
-      "rank": 9,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 87624,
@@ -977,6 +1153,22 @@
       "onboard_time": 1731542419,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73406,
+      "num": 226191,
+      "word": "租充电宝超1秒多收半小时钱",
+      "onboard_time": 1731556523,
+      "rank": 21,
+      "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 73223,
+      "num": 226466,
+      "word": "易烊千玺街头巷尾的月光",
+      "onboard_time": 1731557842,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 72414,
@@ -1212,7 +1404,7 @@
     },
     {
       "raw_hot": 37695,
-      "num": 551009,
+      "num": 664359,
       "word": "大洋彼岸APEC氛围感拉满",
       "onboard_time": 1731552619,
       "rank": 2,
@@ -1337,6 +1529,14 @@
       "onboard_time": 1731527410,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 20308,
+      "num": 146492,
+      "word": "烧伤妈妈转院进行康复治疗",
+      "onboard_time": 1731556342,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20142,
