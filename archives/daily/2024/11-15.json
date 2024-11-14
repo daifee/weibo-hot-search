@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731622908206,
+  "endTime": 1731624079859,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213883,
+      "num": 213883,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 209077,
       "num": 209077,
       "word": "中铁七局相关负责人回应记者遇袭",
@@ -185,6 +193,14 @@
       "onboard_time": 1731593843,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189968,
+      "num": 127185,
+      "word": "孕妇称检出9胞胎诊断医院回应",
+      "onboard_time": 1731595042,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189606,
@@ -243,14 +259,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 148849,
-      "num": 148849,
-      "word": "除夕不用请假了你打算回家还是旅游",
-      "onboard_time": 1731616390,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 147859,
       "num": 147859,
       "word": "阁楼上的疯女人",
@@ -289,14 +297,6 @@
       "onboard_time": 1731602537,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127185,
-      "num": 127185,
-      "word": "孕妇称检出9胞胎诊断医院回应",
-      "onboard_time": 1731595042,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124449,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96884,
+      "num": 96884,
+      "word": "韩国高考听力时段全境暂停飞机起降",
+      "onboard_time": 1731611592,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88565,
       "num": 364571,
       "word": "武磊大赞张玉宁",
@@ -427,12 +435,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 68315,
-      "num": 68315,
-      "word": "韩国高考听力时段全境暂停飞机起降",
-      "onboard_time": 1731611592,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 73144,
+      "num": 54636,
+      "word": "3绒3羊3胞胎妈妈已坚持33周",
+      "onboard_time": 1731606314,
+      "rank": 37,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 65627,
@@ -467,6 +475,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53869,
+      "num": 54634,
+      "word": "三个台风海上共舞",
+      "onboard_time": 1731622391,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51589,
+      "num": 51589,
+      "word": "狗狗在家里被人开车投毒死亡",
+      "onboard_time": 1731614771,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51393,
       "num": 169365,
       "word": "副州长和原州长同日通报被查",
@@ -475,19 +499,19 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 49798,
-      "num": 35940,
-      "word": "3绒3羊3胞胎妈妈已坚持33周",
-      "onboard_time": 1731606314,
-      "rank": 37,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 49061,
       "num": 59703,
       "word": "丁禹兮好会哭",
       "onboard_time": 1731596662,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48546,
+      "num": 40122,
+      "word": "庄筱婷林栋哲恋情公开",
+      "onboard_time": 1731622211,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -507,6 +531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47584,
+      "num": 47584,
+      "word": "葛夕是天使",
+      "onboard_time": 1731606433,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 47496,
+      "num": 47496,
+      "word": "特朗普提名的美防长曾直播扔斧头",
+      "onboard_time": 1731608532,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47062,
       "num": 47062,
       "word": "如果慕声长这样我应该不会去攻略他",
@@ -523,14 +563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43875,
-      "num": 38141,
-      "word": "葛夕是天使",
-      "onboard_time": 1731606433,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42561,
       "num": 170935,
       "word": "62岁的博格丹飞过62种机型",
@@ -539,20 +571,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 38539,
-      "num": 35929,
-      "word": "狗狗在家里被人开车投毒死亡",
-      "onboard_time": 1731614771,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 35329,
-      "num": 35329,
-      "word": "特朗普提名的美防长曾直播扔斧头",
-      "onboard_time": 1731608532,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 36427,
+      "num": 36427,
+      "word": "黄金跌上热搜",
+      "onboard_time": 1731622811,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 34088,
@@ -595,20 +619,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27505,
-      "num": 27505,
-      "word": "庄筱婷林栋哲恋情公开",
-      "onboard_time": 1731622211,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25066,
-      "num": 25066,
+      "raw_hot": 25751,
+      "num": 25751,
       "word": "巴林进球越位",
       "onboard_time": 1731599780,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23501,
+      "num": 25601,
+      "word": "16岁中学生获正高职称后续",
+      "onboard_time": 1731623893,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19692,
@@ -617,14 +641,6 @@
       "onboard_time": 1731607093,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 19421,
-      "num": 20507,
-      "word": "黄金跌上热搜",
-      "onboard_time": 1731622811,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 18442,
@@ -643,8 +659,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 17325,
-      "num": 24173,
+      "raw_hot": 18252,
+      "num": 25595,
       "word": "直击第37届金鸡奖",
       "onboard_time": 1731612432,
       "rank": 28,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12775,
+      "num": 85566,
+      "word": "天舟八号发射已就位",
+      "onboard_time": 1731621131,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11343,
       "num": 26308,
       "word": "中国海警位中国黄岩岛领海执法巡查",
@@ -697,14 +721,6 @@
       "onboard_time": 1731610031,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10602,
-      "num": 54634,
-      "word": "三个台风海上共舞",
-      "onboard_time": 1731622391,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10344,
