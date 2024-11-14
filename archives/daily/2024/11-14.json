@@ -1,10 +1,10 @@
 {
   "startTime": 1731515252117,
-  "endTime": 1731554849201,
+  "endTime": 1731555741301,
   "band_list": [
     {
-      "raw_hot": 1234711,
-      "num": 1234711,
+      "raw_hot": 1361147,
+      "num": 1361147,
       "word": "父亲去世后银行5.5万存款取不出",
       "onboard_time": 1731551778,
       "rank": 14,
@@ -65,6 +65,14 @@
       "onboard_time": 1731544579,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 645707,
+      "num": 645707,
+      "word": "烧伤妈妈出院前喝上久违的奶茶",
+      "onboard_time": 1731554120,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 628631,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459026,
+      "num": 459026,
+      "word": "再也不做美甲了",
+      "onboard_time": 1731554480,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 415741,
       "num": 359429,
       "word": "小米发布智能底盘预研技术",
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366158,
+      "num": 333525,
+      "word": "疑似虞书欣欺负人机视频流出",
+      "onboard_time": 1731555322,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332155,
       "num": 332155,
       "word": "60个离婚律师把麦琳当典型研讨",
@@ -251,8 +275,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 318821,
-      "num": 294528,
+      "raw_hot": 328427,
+      "num": 328427,
       "word": "时代峰峻消防违法被罚4.6万",
       "onboard_time": 1731552378,
       "rank": 32,
@@ -299,14 +323,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 269338,
-      "num": 269338,
-      "word": "烧伤妈妈出院前喝上久违的奶茶",
-      "onboard_time": 1731554120,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255770,
       "num": 255770,
       "word": "杭州23周超早产儿米宝出院了",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 254840,
-      "num": 254840,
+      "num": 335387,
       "word": "青岛警报",
       "onboard_time": 1731553218,
       "rank": 46,
@@ -363,6 +379,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234105,
+      "num": 234105,
+      "word": "母亲骨灰盒从他人墓里找到儿子发声",
+      "onboard_time": 1731554602,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230843,
+      "num": 268470,
+      "word": "林志玲现身河南看望帮扶的学生",
+      "onboard_time": 1731553458,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228329,
       "num": 228329,
       "word": "A股",
@@ -377,6 +409,14 @@
       "onboard_time": 1731492198,
       "rank": 9,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 226966,
+      "num": 269818,
+      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+      "onboard_time": 1731553100,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223166,
@@ -411,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214009,
-      "num": 268470,
-      "word": "林志玲现身河南看望帮扶的学生",
-      "onboard_time": 1731553458,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211126,
       "num": 211126,
       "word": "中国军机的命名终于搞懂了",
@@ -441,14 +473,6 @@
       "onboard_time": 1731546738,
       "rank": 35,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 202169,
-      "num": 202169,
-      "word": "再也不做美甲了",
-      "onboard_time": 1731554480,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 199909,
@@ -531,12 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159185,
+      "num": 227189,
+      "word": "刘德华郑秀文同框",
+      "onboard_time": 1731555262,
+      "rank": 24,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "3名强奸未成年人罪犯被执行死刑",
       "onboard_time": 1731479239,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156429,
+      "num": 156429,
+      "word": "王牌新主播录制路透",
+      "onboard_time": 1731555623,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 151615,
@@ -603,6 +643,14 @@
       "category": "教育,体育"
     },
     {
+      "raw_hot": 139782,
+      "num": 230100,
+      "word": "金云鹤参加高考",
+      "onboard_time": 1731555262,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136529,
       "num": 136529,
       "word": "丁禹兮看了虞书欣泰国直播",
@@ -625,14 +673,6 @@
       "onboard_time": 1731548238,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131385,
-      "num": 131385,
-      "word": "母亲骨灰盒从他人墓里找到儿子发声",
-      "onboard_time": 1731554602,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131321,
@@ -667,12 +707,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119755,
+      "num": 119755,
+      "word": "电磁发射器亮相中国航展",
+      "onboard_time": 1731555682,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 118271,
       "num": 118271,
       "word": "金钟铉曾对付小混混保护泰民",
       "onboard_time": 1731540317,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114877,
+      "num": 267410,
+      "word": "报警谎称丢失包里有毒馒头被行拘",
+      "onboard_time": 1731553641,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113764,
@@ -697,14 +753,6 @@
       "onboard_time": 1731550457,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110728,
-      "num": 269818,
-      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
-      "onboard_time": 1731553100,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108273,
@@ -745,6 +793,14 @@
       "onboard_time": 1731491780,
       "rank": 28,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 103761,
+      "num": 262396,
+      "word": "两名外国军人在中国武器面前挪不动步",
+      "onboard_time": 1731554602,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 102613,
@@ -811,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88657,
+      "num": 272014,
+      "word": "买房还没交契税能享受1%税率吗",
+      "onboard_time": 1731553819,
+      "rank": 9,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 87624,
       "num": 87624,
       "word": "李子柒身份证改名",
@@ -833,6 +897,14 @@
       "onboard_time": 1731509060,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84875,
+      "num": 290219,
+      "word": "糖尿病可引起哪些并发症",
+      "onboard_time": 1731553218,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84088,
@@ -891,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74800,
-      "num": 267410,
-      "word": "报警谎称丢失包里有毒馒头被行拘",
-      "onboard_time": 1731553641,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74331,
       "num": 74331,
       "word": "TWICE新专概念照",
@@ -921,14 +985,6 @@
       "onboard_time": 1731502761,
       "rank": 45,
       "category": "网红,美食"
-    },
-    {
-      "raw_hot": 71806,
-      "num": 290219,
-      "word": "糖尿病可引起哪些并发症",
-      "onboard_time": 1731553218,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 71646,
@@ -993,14 +1049,6 @@
       "onboard_time": 1731517576,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66257,
-      "num": 272014,
-      "word": "买房还没交契税能享受1%税率吗",
-      "onboard_time": 1731553819,
-      "rank": 9,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 64904,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1731552079,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42048,
+      "num": 229818,
+      "word": "盛李豪说6成技术3成运气1成天赋",
+      "onboard_time": 1731555022,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 39108,
@@ -1361,14 +1417,6 @@
       "onboard_time": 1731552800,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15716,
-      "num": 262396,
-      "word": "两名外国军人在中国武器面前挪不动步",
-      "onboard_time": 1731554602,
-      "rank": 17,
-      "category": "军事"
     },
     {
       "raw_hot": 14834,
