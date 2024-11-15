@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731640199186,
+  "endTime": 1731641791476,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -25,6 +25,14 @@
       "onboard_time": 1731590901,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1345123,
+      "num": 1345123,
+      "word": "31省份平均工资",
+      "onboard_time": 1731638658,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 1222231,
@@ -99,20 +107,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 760345,
+      "num": 526768,
+      "word": "TFBOYS古装",
+      "onboard_time": 1731637339,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 737866,
       "num": 449623,
       "word": "武磊怒赞张玉宁",
       "onboard_time": 1731602056,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 731086,
-      "num": 526768,
-      "word": "TFBOYS古装",
-      "onboard_time": 1731637339,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 688106,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500319,
+      "num": 500319,
+      "word": "云归喜事开机",
+      "onboard_time": 1731638598,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492471,
       "num": 492471,
       "word": "丁禹兮 凝眸",
@@ -225,14 +241,6 @@
       "onboard_time": 1731627017,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 444827,
-      "num": 444827,
-      "word": "31省份平均工资",
-      "onboard_time": 1731638658,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 430778,
@@ -257,6 +265,14 @@
       "onboard_time": 1731595042,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407701,
+      "num": 407701,
+      "word": "戴萌与丝芭解约",
+      "onboard_time": 1731640160,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 406926,
@@ -315,20 +331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332852,
+      "num": 317003,
+      "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
+      "onboard_time": 1731641659,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332299,
       "num": 280383,
       "word": "虞书欣北海",
       "onboard_time": 1731630259,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331049,
-      "num": 374523,
-      "word": "云归喜事开机",
-      "onboard_time": 1731638598,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 320847,
@@ -401,6 +417,22 @@
       "onboard_time": 1731597561,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265926,
+      "num": 265926,
+      "word": "黄圣依四年后vs四年后",
+      "onboard_time": 1731640578,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265628,
+      "num": 265628,
+      "word": "肖战首部春节档电影",
+      "onboard_time": 1731641659,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 257485,
@@ -491,6 +523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 201899,
+      "num": 215194,
+      "word": "洪承汉将solo",
+      "onboard_time": 1731641659,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198000,
       "num": 280429,
       "word": "下一战歌手歌单",
@@ -556,7 +596,7 @@
     },
     {
       "raw_hot": 187841,
-      "num": 254551,
+      "num": 262694,
       "word": "小巷人家 三人行必有一嫌",
       "onboard_time": 1731635958,
       "rank": 27,
@@ -577,6 +617,14 @@
       "onboard_time": 1731632840,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172939,
+      "num": 544949,
+      "word": "中国新增7个世界最佳旅游乡村",
+      "onboard_time": 1731639798,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 171837,
@@ -619,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163861,
+      "num": 328390,
+      "word": "山东单亲妈妈带2娃住烂尾楼",
+      "onboard_time": 1731639739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163281,
       "num": 210112,
       "word": "小巷人家实时收视率破1",
@@ -649,6 +705,14 @@
       "onboard_time": 1731622211,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156623,
+      "num": 156623,
+      "word": "建议大家一定要远离恋爱式友情",
+      "onboard_time": 1731641659,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 155470,
@@ -835,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119433,
+      "num": 119433,
+      "word": "李子柒给蓝印花布传人寄蜂蜜土特产",
+      "onboard_time": 1731641239,
+      "rank": 49,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 118892,
       "num": 118892,
       "word": "原来下肢是人体的血糖仪",
@@ -947,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106618,
-      "num": 328390,
-      "word": "山东单亲妈妈带2娃住烂尾楼",
-      "onboard_time": 1731639739,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105318,
       "num": 109565,
       "word": "煤气灯效应",
@@ -987,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96634,
+      "num": 279387,
+      "word": "祝绪丹对虞书欣的初印象",
+      "onboard_time": 1731641419,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88565,
       "num": 364571,
       "word": "武磊大赞张玉宁",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1731634338,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84237,
+      "num": 434091,
+      "word": "女子找民间神医扎针后死亡",
+      "onboard_time": 1731640340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77225,
@@ -1099,28 +1179,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 50193,
-      "num": 457723,
-      "word": "中国新增7个世界最佳旅游乡村",
-      "onboard_time": 1731639798,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 49061,
       "num": 59703,
       "word": "丁禹兮好会哭",
       "onboard_time": 1731596662,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48584,
-      "num": 259864,
-      "word": "戴萌与丝芭解约",
-      "onboard_time": 1731640160,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 48014,
@@ -1171,6 +1235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38974,
+      "num": 327033,
+      "word": "45岁妻子与23岁丈夫互称遭家暴",
+      "onboard_time": 1731640699,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36807,
+      "num": 410360,
+      "word": "12分钟带你重新认识拉美",
+      "onboard_time": 1731641419,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34088,
       "num": 175529,
       "word": "公众知情权不能打",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1731601337,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32084,
+      "num": 917355,
+      "word": "秘鲁接机女孩说我爱你中国",
+      "onboard_time": 1731639918,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31423,
@@ -1321,14 +1409,6 @@
       "onboard_time": 1731607093,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 19326,
-      "num": 917355,
-      "word": "秘鲁接机女孩说我爱你中国",
-      "onboard_time": 1731639918,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18810,
@@ -1500,6 +1580,9 @@
     },
     {
       "word": "#习近平主席抵达秘鲁受到热烈欢迎#"
+    },
+    {
+      "word": "#中秘元首共同见证钱凯港开港仪式#"
     }
   ]
 }
