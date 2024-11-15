@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731677403389,
+  "endTime": 1731678089762,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1068516,
-      "num": 956919,
+      "num": 996666,
       "word": "BBC报道李子柒复出打上灰色滤镜",
       "onboard_time": 1731672737,
       "rank": 10,
@@ -288,6 +288,14 @@
       "word": "三胎宝妈在月子会所充55万成股东",
       "onboard_time": 1731661699,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 720241,
+      "num": 720241,
+      "word": "近500人300元抢到6399元九号电车",
+      "onboard_time": 1731674059,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -427,6 +435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 608196,
+      "num": 431268,
+      "word": "丁禹兮主持",
+      "onboard_time": 1731676579,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 606267,
       "num": 606267,
       "word": "宁波顺其自然又捐款109万元",
@@ -515,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 503707,
-      "num": 503707,
-      "word": "近500人300元抢到6399元九号电车",
-      "onboard_time": 1731674059,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500319,
       "num": 500319,
       "word": "云归喜事开机",
@@ -537,6 +545,14 @@
       "onboard_time": 1731638837,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 489389,
+      "num": 321424,
+      "word": "张艺谋任达华女儿入围巴黎名媛舞会",
+      "onboard_time": 1731675800,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 481778,
@@ -593,14 +609,6 @@
       "onboard_time": 1731641659,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 431268,
-      "num": 431268,
-      "word": "丁禹兮主持",
-      "onboard_time": 1731676579,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 430778,
@@ -819,6 +827,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 325630,
+      "num": 265537,
+      "word": "妙妙慕声吻戏",
+      "onboard_time": 1731674719,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323323,
       "num": 323323,
       "word": "洪承汉将solo",
@@ -833,14 +849,6 @@
       "onboard_time": 1731671359,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 321424,
-      "num": 321424,
-      "word": "张艺谋任达华女儿入围巴黎名媛舞会",
-      "onboard_time": 1731675800,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 320847,
@@ -985,14 +993,6 @@
       "onboard_time": 1731640578,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265537,
-      "num": 265537,
-      "word": "妙妙慕声吻戏",
-      "onboard_time": 1731674719,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 265153,
@@ -1283,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199706,
+      "num": 186925,
+      "word": "喻言 垫音",
+      "onboard_time": 1731677420,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199288,
       "num": 314822,
       "word": "天舟八号瞄准23时13分发射",
@@ -1339,12 +1347,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196740,
+      "num": 279715,
+      "word": "赵一博凹下去了",
+      "onboard_time": 1731675679,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196459,
       "num": 278288,
       "word": "THEBOYZ签约MC梦公司",
       "onboard_time": 1731634638,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195818,
+      "num": 188801,
+      "word": "京东物流已向警方报案",
+      "onboard_time": 1731676640,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 195307,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1731636679,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190932,
+      "num": 206377,
+      "word": "女子面试还没入职先欠2.5万元贷款",
+      "onboard_time": 1731675319,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190210,
@@ -1571,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183636,
+      "num": 183636,
+      "word": "印尼vs日本",
+      "onboard_time": 1731676399,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182538,
       "num": 182538,
       "word": "村委会通知未缴医保年终困难不予照顾",
@@ -1643,14 +1683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172393,
-      "num": 206377,
-      "word": "女子面试还没入职先欠2.5万元贷款",
-      "onboard_time": 1731675319,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171837,
       "num": 171837,
       "word": "广州车展",
@@ -1683,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170221,
+      "num": 190723,
+      "word": "想接四川文旅的事业运",
+      "onboard_time": 1731676579,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170191,
       "num": 170191,
       "word": "3绒3羊3胞胎妈妈已坚持33周",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1731658461,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167331,
+      "num": 167331,
+      "word": "云南一司机卸货不慎连人带车滚下山崖",
+      "onboard_time": 1731676280,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167169,
@@ -1803,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162416,
-      "num": 279715,
-      "word": "赵一博凹下去了",
-      "onboard_time": 1731675679,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162374,
       "num": 156204,
       "word": "赵丽颖金鸡奖提名视频",
@@ -1849,14 +1889,6 @@
       "onboard_time": 1731658940,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160417,
-      "num": 160417,
-      "word": "印尼vs日本",
-      "onboard_time": 1731676399,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 159744,
@@ -1971,14 +2003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153707,
-      "num": 153707,
-      "word": "云南一司机卸货不慎连人带车滚下山崖",
-      "onboard_time": 1731676280,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152047,
       "num": 152047,
       "word": "余承东称尊界很大很尊很亮",
@@ -1993,14 +2017,6 @@
       "onboard_time": 1731664458,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150983,
-      "num": 150983,
-      "word": "想接四川文旅的事业运",
-      "onboard_time": 1731676579,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150475,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1731669620,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148087,
+      "num": 148087,
+      "word": "徐峥在耶鲁上课",
+      "onboard_time": 1731676939,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 147899,
@@ -2187,20 +2211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136106,
+      "num": 136106,
+      "word": "李子柒学缫丝1天睡两三个小时",
+      "onboard_time": 1731677900,
+      "rank": 39,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "庄超英被骂我看爽了",
       "onboard_time": 1731628038,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134845,
-      "num": 134845,
-      "word": "京东物流已向警方报案",
-      "onboard_time": 1731676640,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 134474,
@@ -2235,20 +2259,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130785,
+      "num": 130785,
+      "word": "潘展乐张雨霏等奥运健儿上联播了",
+      "onboard_time": 1731673578,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130774,
       "num": 135552,
       "word": "尤长靖教张含韵跳EIEI",
       "onboard_time": 1731659179,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130359,
-      "num": 130359,
-      "word": "潘展乐张雨霏等奥运健儿上联播了",
-      "onboard_time": 1731673578,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 129951,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1731666859,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127240,
+      "num": 127240,
+      "word": "李在明获刑",
+      "onboard_time": 1731677840,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127024,
@@ -2499,14 +2531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115815,
-      "num": 115815,
-      "word": "徐峥在耶鲁上课",
-      "onboard_time": 1731676939,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115392,
       "num": 115392,
       "word": "爱奇艺 花钱看不了国足",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1731606433,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113002,
+      "num": 113002,
+      "word": "田沁鑫是张艺兴孙红雷cp粉头吧",
+      "onboard_time": 1731677840,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 112740,
@@ -2971,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61422,
+      "num": 414939,
+      "word": "官方调查中学生上台指责学校被带离",
+      "onboard_time": 1731676640,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 61400,
       "num": 61400,
       "word": "国足两连胜",
@@ -3019,6 +3059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56205,
+      "num": 194637,
+      "word": "惠英红馆藏云锦高定",
+      "onboard_time": 1731675440,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 56045,
       "num": 56045,
       "word": "国足胜巴林范志毅跳APT",
@@ -3027,20 +3075,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55701,
-      "num": 194637,
-      "word": "惠英红馆藏云锦高定",
-      "onboard_time": 1731675440,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 52930,
       "num": 144824,
       "word": "秋冬穿搭",
       "onboard_time": 1731667219,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 52713,
+      "num": 436225,
+      "word": "央视曝光网约车外挂作弊抢单",
+      "onboard_time": 1731676159,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 51393,
@@ -3137,14 +3185,6 @@
       "onboard_time": 1731661638,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 45922,
-      "num": 414939,
-      "word": "官方调查中学生上台指责学校被带离",
-      "onboard_time": 1731676640,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 44608,
@@ -3353,14 +3393,6 @@
       "onboard_time": 1731668419,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33551,
-      "num": 436225,
-      "word": "央视曝光网约车外挂作弊抢单",
-      "onboard_time": 1731676159,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 32955,
@@ -3881,6 +3913,14 @@
       "onboard_time": 1731611171,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11159,
+      "num": 183966,
+      "word": "朱珠新剧破碎感",
+      "onboard_time": 1731671060,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 10930,

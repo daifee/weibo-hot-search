@@ -1,0 +1,410 @@
+{
+  "runTime": 1731678089762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247476,
+        "num": 1247476,
+        "word": "外卖员吐槽尽量不要点黄焖鸡",
+        "onboard_time": 1731667219,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996666,
+        "num": 996666,
+        "word": "BBC报道李子柒复出打上灰色滤镜",
+        "onboard_time": 1731672737,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1992,
+        "num": 745078,
+        "word": "在利马感受中秘情谊",
+        "onboard_time": 1731659118,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720241,
+        "num": 720241,
+        "word": "近500人300元抢到6399元九号电车",
+        "onboard_time": 1731674059,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619879,
+        "num": 619879,
+        "word": "祝绪丹回应与丁禹兮关系",
+        "onboard_time": 1731666619,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379037,
+        "num": 379037,
+        "word": "43岁司机高速上猝死卡友接力送货",
+        "onboard_time": 1731665718,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496949,
+        "num": 360444,
+        "word": "再见爱人4 留几手葛夕还是敢说",
+        "onboard_time": 1731673398,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339352,
+        "num": 339352,
+        "word": "永夜星河 女主戏份",
+        "onboard_time": 1731668839,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190932,
+        "num": 190932,
+        "word": "女子面试还没入职先欠2.5万元贷款",
+        "onboard_time": 1731675319,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170221,
+        "num": 190723,
+        "word": "想接四川文旅的事业运",
+        "onboard_time": 1731676579,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1302169,
+        "num": 190503,
+        "word": "上海截取不雅字的打卡地走红",
+        "onboard_time": 1731670580,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608196,
+        "num": 190439,
+        "word": "丁禹兮主持",
+        "onboard_time": 1731676579,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517709,
+        "num": 190087,
+        "word": "男教师被指猥亵指认现场翻窗坠亡",
+        "onboard_time": 1731665958,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61422,
+        "num": 189900,
+        "word": "官方调查中学生上台指责学校被带离",
+        "onboard_time": 1731676640,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 489389,
+        "num": 189669,
+        "word": "张艺谋任达华女儿入围巴黎名媛舞会",
+        "onboard_time": 1731675800,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337819,
+        "num": 189297,
+        "word": "祝绪丹漏勺型直播",
+        "onboard_time": 1731676760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325630,
+        "num": 188990,
+        "word": "妙妙慕声吻戏",
+        "onboard_time": 1731674719,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195818,
+        "num": 188801,
+        "word": "京东物流已向警方报案",
+        "onboard_time": 1731676640,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56205,
+        "num": 188733,
+        "word": "惠英红馆藏云锦高定",
+        "onboard_time": 1731675440,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15413,
+        "num": 188420,
+        "word": "择校费变慈善捐款不过是掩耳盗铃",
+        "onboard_time": 1731677122,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 52713,
+        "num": 188224,
+        "word": "央视曝光网约车外挂作弊抢单",
+        "onboard_time": 1731676159,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 264134,
+        "num": 187784,
+        "word": "女生不喝奶茶却查出糖尿病无法接受",
+        "onboard_time": 1731656060,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236530,
+        "num": 187748,
+        "word": "李行亮坚定选择不离婚",
+        "onboard_time": 1731669020,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218946,
+        "num": 187406,
+        "word": "徐佳莹 好听",
+        "onboard_time": 1731675198,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232736,
+        "num": 187264,
+        "word": "麦琳不是第一次提离婚了",
+        "onboard_time": 1731666139,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199706,
+        "num": 186925,
+        "word": "喻言 垫音",
+        "onboard_time": 1731677420,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196740,
+        "num": 186658,
+        "word": "赵一博凹下去了",
+        "onboard_time": 1731675679,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186560,
+        "num": 186560,
+        "word": "王一博 我觉得自己还是太幸运了",
+        "onboard_time": 1731675739,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184635,
+        "num": 184635,
+        "word": "彭高 蓝色是天空和大海的颜色",
+        "onboard_time": 1731667279,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11159,
+        "num": 183966,
+        "word": "朱珠新剧破碎感",
+        "onboard_time": 1731671060,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183636,
+        "num": 183636,
+        "word": "印尼vs日本",
+        "onboard_time": 1731676399,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169462,
+        "num": 169462,
+        "word": "金鸡奖",
+        "onboard_time": 1731673759,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168240,
+        "num": 168240,
+        "word": "网曝海马体一试衣间天花板装有监控",
+        "onboard_time": 1731664818,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167331,
+        "num": 167331,
+        "word": "云南一司机卸货不慎连人带车滚下山崖",
+        "onboard_time": 1731676280,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157000,
+        "num": 157000,
+        "word": "李子柒说互联网真的和以前不一样了",
+        "onboard_time": 1731664938,
+        "rank": 34,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 148087,
+        "num": 148087,
+        "word": "徐峥在耶鲁上课",
+        "onboard_time": 1731676939,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143216,
+        "num": 143216,
+        "word": "这居然是同一天的何洁",
+        "onboard_time": 1731674659,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143017,
+        "num": 143017,
+        "word": "王一博彭昱畅让C位",
+        "onboard_time": 1731671359,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137346,
+        "num": 137346,
+        "word": "小巷人家",
+        "onboard_time": 1731672737,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136106,
+        "num": 136106,
+        "word": "李子柒学缫丝1天睡两三个小时",
+        "onboard_time": 1731677900,
+        "rank": 39,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 130885,
+        "num": 130885,
+        "word": "下一战歌手",
+        "onboard_time": 1731669438,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130785,
+        "num": 130785,
+        "word": "潘展乐张雨霏等奥运健儿上联播了",
+        "onboard_time": 1731673578,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127240,
+        "num": 127240,
+        "word": "李在明获刑",
+        "onboard_time": 1731677840,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126869,
+        "num": 126869,
+        "word": "天舟八号瞄准23时13分发射",
+        "onboard_time": 1731666678,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30049,
+        "num": 122557,
+        "word": "南方人闪现北方该怎么穿",
+        "onboard_time": 1731673640,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 122087,
+        "num": 122087,
+        "word": "赵丽颖金鸡奖提名视频",
+        "onboard_time": 1731671359,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113651,
+        "num": 113651,
+        "word": "关注邓超的人手机响了一天",
+        "onboard_time": 1731676340,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113002,
+        "num": 113002,
+        "word": "田沁鑫是张艺兴孙红雷cp粉头吧",
+        "onboard_time": 1731677840,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107769,
+        "num": 107769,
+        "word": "55岁孙子爱喝酒101岁爷爷拿棍棒教育",
+        "onboard_time": 1731675081,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104995,
+        "num": 104995,
+        "word": "涵艺怒喷Doinb",
+        "onboard_time": 1731669199,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秘关于深化全面战略伙伴关系的联合声明#"
+    }
+  }
+}
