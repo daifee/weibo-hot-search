@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731675629552,
+  "endTime": 1731677403389,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1068516,
-      "num": 356376,
+      "num": 956919,
       "word": "BBC报道李子柒复出打上灰色滤镜",
       "onboard_time": 1731672737,
       "rank": 10,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550675,
+      "num": 550675,
+      "word": "再见爱人4 留几手葛夕还是敢说",
+      "onboard_time": 1731673398,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549909,
       "num": 584036,
       "word": "丁禹兮录团综染发了",
@@ -505,6 +513,14 @@
       "onboard_time": 1731599361,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 503707,
+      "num": 503707,
+      "word": "近500人300元抢到6399元九号电车",
+      "onboard_time": 1731674059,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 500319,
@@ -563,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437624,
+      "num": 437624,
+      "word": "43岁司机高速上猝死卡友接力送货",
+      "onboard_time": 1731665718,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435896,
       "num": 317003,
       "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
       "onboard_time": 1731641659,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431268,
+      "num": 431268,
+      "word": "丁禹兮主持",
+      "onboard_time": 1731676579,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 430778,
@@ -601,6 +633,14 @@
       "onboard_time": 1731627077,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414044,
+      "num": 414044,
+      "word": "祝绪丹漏勺型直播",
+      "onboard_time": 1731676760,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 411825,
@@ -795,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321424,
+      "num": 321424,
+      "word": "张艺谋任达华女儿入围巴黎名媛舞会",
+      "onboard_time": 1731675800,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320847,
       "num": 320847,
       "word": "男子骑车撞上供热管道身亡",
@@ -939,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265537,
+      "num": 265537,
+      "word": "妙妙慕声吻戏",
+      "onboard_time": 1731674719,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265153,
       "num": 332774,
       "word": "海马体称试衣间天花板监控已拆除",
@@ -1019,14 +1075,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 241435,
-      "num": 200397,
-      "word": "再见爱人4 留几手葛夕还是敢说",
-      "onboard_time": 1731673398,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240492,
       "num": 240492,
       "word": "妙妙子期抢买单这段笑崩溃了",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1731638479,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 236062,
-      "num": 199697,
-      "word": "妙妙慕声吻戏",
-      "onboard_time": 1731674719,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 234488,
@@ -1067,12 +1107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231262,
-      "num": 364606,
-      "word": "近500人300元抢到6399元九号电车",
-      "onboard_time": 1731674059,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 230847,
+      "num": 230847,
+      "word": "徐佳莹 好听",
+      "onboard_time": 1731675198,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 227750,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1731666019,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220578,
-      "num": 317601,
-      "word": "43岁司机高速上猝死卡友接力送货",
-      "onboard_time": 1731665718,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219175,
@@ -1236,7 +1268,7 @@
     },
     {
       "raw_hot": 203090,
-      "num": 188554,
+      "num": 193412,
       "word": "金鸡奖",
       "onboard_time": 1731673759,
       "rank": 21,
@@ -1459,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187732,
+      "num": 187732,
+      "word": "王一博 我觉得自己还是太幸运了",
+      "onboard_time": 1731675739,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187364,
       "num": 358893,
       "word": "王一博上榜全球最具影响力人物",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1731658760,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172393,
+      "num": 206377,
+      "word": "女子面试还没入职先欠2.5万元贷款",
+      "onboard_time": 1731675319,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171837,
@@ -1755,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162416,
+      "num": 279715,
+      "word": "赵一博凹下去了",
+      "onboard_time": 1731675679,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162374,
       "num": 156204,
       "word": "赵丽颖金鸡奖提名视频",
@@ -1795,6 +1851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160417,
+      "num": 160417,
+      "word": "印尼vs日本",
+      "onboard_time": 1731676399,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159744,
       "num": 159744,
       "word": "王昶中国体育代表团报告会plog",
@@ -1825,6 +1889,14 @@
       "onboard_time": 1731622211,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158506,
+      "num": 158506,
+      "word": "下一战歌手",
+      "onboard_time": 1731669438,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 158457,
@@ -1891,19 +1963,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154568,
-      "num": 154568,
-      "word": "下一战歌手",
-      "onboard_time": 1731669438,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153959,
       "num": 258140,
       "word": "四川九峰山一驴友坠崖身亡",
       "onboard_time": 1731662540,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153707,
+      "num": 153707,
+      "word": "云南一司机卸货不慎连人带车滚下山崖",
+      "onboard_time": 1731676280,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1921,6 +1993,14 @@
       "onboard_time": 1731664458,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150983,
+      "num": 150983,
+      "word": "想接四川文旅的事业运",
+      "onboard_time": 1731676579,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150475,
@@ -1977,6 +2057,14 @@
       "onboard_time": 1731649340,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 147046,
+      "num": 147046,
+      "word": "这居然是同一天的何洁",
+      "onboard_time": 1731674659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 146133,
@@ -2099,20 +2187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135882,
-      "num": 135882,
-      "word": "这居然是同一天的何洁",
-      "onboard_time": 1731674659,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "庄超英被骂我看爽了",
       "onboard_time": 1731628038,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134845,
+      "num": 134845,
+      "word": "京东物流已向警方报案",
+      "onboard_time": 1731676640,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 134474,
@@ -2124,7 +2212,7 @@
     },
     {
       "raw_hot": 134308,
-      "num": 155856,
+      "num": 175634,
       "word": "永夜星河29集预告25秒",
       "onboard_time": 1731674179,
       "rank": 28,
@@ -2259,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123582,
+      "num": 123582,
+      "word": "关注邓超的人手机响了一天",
+      "onboard_time": 1731676340,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123516,
       "num": 123516,
       "word": "警方称会对两记者被打一事进行调查",
@@ -2297,6 +2393,14 @@
       "onboard_time": 1731635778,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120545,
+      "num": 120545,
+      "word": "55岁孙子爱喝酒101岁爷爷拿棍棒教育",
+      "onboard_time": 1731675081,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120184,
@@ -2392,6 +2496,14 @@
       "word": "时代少年团直播",
       "onboard_time": 1731660860,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115815,
+      "num": 115815,
+      "word": "徐峥在耶鲁上课",
+      "onboard_time": 1731676939,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -2507,14 +2619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107079,
-      "num": 107079,
-      "word": "徐佳莹 好听",
-      "onboard_time": 1731675198,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106646,
       "num": 135150,
       "word": "广州车展已经卷到上天了",
@@ -2603,14 +2707,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 97961,
-      "num": 206377,
-      "word": "女子面试还没入职先欠2.5万元贷款",
-      "onboard_time": 1731675319,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97304,
       "num": 97304,
       "word": "湖南13岁学生被班主任打肿脸",
@@ -2625,14 +2721,6 @@
       "onboard_time": 1731652698,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95804,
-      "num": 95804,
-      "word": "55岁孙子爱喝酒101岁爷爷拿棍棒教育",
-      "onboard_time": 1731675081,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95475,
@@ -2995,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47498,
+      "num": 434547,
+      "word": "比电视还贵的闺蜜机到底谁在买",
+      "onboard_time": 1731675501,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47246,
       "num": 373068,
       "word": "工厂直发成套路让消费者心寒",
@@ -3041,6 +3137,14 @@
       "onboard_time": 1731661638,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45922,
+      "num": 414939,
+      "word": "官方调查中学生上台指责学校被带离",
+      "onboard_time": 1731676640,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 44608,
@@ -3235,12 +3339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33871,
+      "num": 414337,
+      "word": "戴森被平替打败了吗",
+      "onboard_time": 1731675679,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33791,
       "num": 290204,
       "word": "过年惊艳亲戚现在减肥来得及么",
       "onboard_time": 1731668419,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33551,
+      "num": 436225,
+      "word": "央视曝光网约车外挂作弊抢单",
+      "onboard_time": 1731676159,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 32955,
@@ -3273,6 +3393,14 @@
       "onboard_time": 1731639918,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31931,
+      "num": 189698,
+      "word": "南方人闪现北方该怎么穿",
+      "onboard_time": 1731673640,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 31900,
@@ -3507,20 +3635,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24672,
-      "num": 225072,
-      "word": "比电视还贵的闺蜜机到底谁在买",
-      "onboard_time": 1731675501,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24658,
       "num": 314821,
       "word": "8岁小孩姐把羌族碉楼折出来了",
       "onboard_time": 1731648741,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24623,
+      "num": 268193,
+      "word": "择校费变慈善捐款不过是掩耳盗铃",
+      "onboard_time": 1731677122,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24082,
@@ -3545,14 +3673,6 @@
       "onboard_time": 1731644901,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 23412,
-      "num": 189698,
-      "word": "南方人闪现北方该怎么穿",
-      "onboard_time": 1731673640,
-      "rank": 33,
-      "category": "时尚"
     },
     {
       "raw_hot": 23130,
