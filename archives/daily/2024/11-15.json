@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731636602577,
+  "endTime": 1731639658549,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -17,6 +17,22 @@
       "onboard_time": 1731590901,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1283493,
+      "num": 1283493,
+      "word": "145斤女生减重35斤撞脸王祖贤",
+      "onboard_time": 1731637818,
+      "rank": 0,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1222231,
+      "num": 1222231,
+      "word": "大学生300元抢6399元九号电车提车被拒",
+      "onboard_time": 1731635718,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1107696,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 1077481,
-      "num": 322015,
+      "num": 514390,
       "word": "电影院是救了胡冰卿的命吗",
       "onboard_time": 1731630800,
       "rank": 10,
@@ -51,8 +67,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1052012,
+      "num": 351788,
+      "word": "李子柒说奶奶不知道她有多火",
+      "onboard_time": 1731637400,
+      "rank": 21,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 902688,
-      "num": 317955,
+      "num": 459177,
       "word": "男婴在月子中心肚子肿胀送医后离世",
       "onboard_time": 1731629839,
       "rank": 11,
@@ -67,12 +91,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 774519,
+      "num": 774519,
+      "word": "射雕英雄传侠之大者定档",
+      "onboard_time": 1731637339,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 737866,
       "num": 449623,
       "word": "武磊怒赞张玉宁",
       "onboard_time": 1731602056,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 716231,
+      "num": 526768,
+      "word": "TFBOYS古装",
+      "onboard_time": 1731637339,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 688106,
@@ -99,6 +139,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 641931,
+      "num": 641931,
+      "word": "迈巴赫漏水事件解决方案",
+      "onboard_time": 1731634880,
+      "rank": 39,
+      "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 620734,
+      "num": 319911,
+      "word": "身份证上的姓名能想改就改吗",
+      "onboard_time": 1731633198,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 610946,
+      "num": 387015,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1731632061,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 588512,
+      "num": 588512,
+      "word": "金价连跌5天创两月新低",
+      "onboard_time": 1731635539,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 564482,
       "num": 303402,
       "word": "丁禹兮很讨厌被你拍",
@@ -108,7 +180,7 @@
     },
     {
       "raw_hot": 549909,
-      "num": 549909,
+      "num": 584036,
       "word": "丁禹兮录团综染发了",
       "onboard_time": 1731635117,
       "rank": 24,
@@ -139,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 493480,
-      "num": 493480,
-      "word": "迈巴赫漏水事件解决方案",
-      "onboard_time": 1731634880,
-      "rank": 39,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 468895,
       "num": 280649,
       "word": "断糖60天面部的变化",
@@ -161,6 +225,14 @@
       "onboard_time": 1731624434,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429276,
+      "num": 381787,
+      "word": "丁禹兮 凝眸",
+      "onboard_time": 1731638837,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 420642,
@@ -235,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340087,
-      "num": 326907,
-      "word": "李行亮 麦琳",
-      "onboard_time": 1731632061,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332299,
       "num": 280383,
       "word": "虞书欣北海",
@@ -251,12 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327215,
-      "num": 274010,
-      "word": "身份证上的姓名能想改就改吗",
-      "onboard_time": 1731633198,
-      "rank": 31,
-      "category": "议题讨论"
+      "raw_hot": 320847,
+      "num": 320847,
+      "word": "男子骑车撞上供热管道身亡",
+      "onboard_time": 1731637221,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318852,
+      "num": 318852,
+      "word": "31省份平均工资",
+      "onboard_time": 1731638658,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 301141,
@@ -265,14 +337,6 @@
       "onboard_time": 1731580461,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297001,
-      "num": 297001,
-      "word": "大学生300元抢6399元九号电车提车被拒",
-      "onboard_time": 1731635718,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294001,
@@ -331,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257485,
+      "num": 257485,
+      "word": "巴基斯坦小伙来中国震惊于凌晨有饭吃",
+      "onboard_time": 1731638298,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250155,
       "num": 250155,
       "word": "福宝假吃胡萝卜",
@@ -345,6 +417,14 @@
       "onboard_time": 1731633619,
       "rank": 33,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 239181,
+      "num": 374523,
+      "word": "云归喜事开机",
+      "onboard_time": 1731638598,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 234488,
@@ -387,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215876,
-      "num": 215876,
-      "word": "金价连跌5天创两月新低",
-      "onboard_time": 1731635539,
+      "raw_hot": 222563,
+      "num": 222563,
+      "word": "尊界",
+      "onboard_time": 1731638479,
       "rank": 33,
-      "category": "财经"
+      "category": "汽车"
     },
     {
       "raw_hot": 212035,
@@ -411,6 +491,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 198000,
+      "num": 257969,
+      "word": "下一战歌手歌单",
+      "onboard_time": 1731638479,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196459,
       "num": 278288,
       "word": "THEBOYZ签约MC梦公司",
@@ -425,6 +513,14 @@
       "onboard_time": 1731593843,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191148,
+      "num": 257699,
+      "word": "文俊辉古装",
+      "onboard_time": 1731636679,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 190210,
@@ -449,6 +545,14 @@
       "onboard_time": 1731634338,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187841,
+      "num": 254551,
+      "word": "小巷人家 三人行必有一嫌",
+      "onboard_time": 1731635958,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 184911,
@@ -483,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170216,
-      "num": 254551,
-      "word": "小巷人家 三人行必有一嫌",
-      "onboard_time": 1731635958,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170191,
       "num": 170191,
       "word": "3绒3羊3胞胎妈妈已坚持33周",
@@ -505,6 +601,14 @@
       "onboard_time": 1731588201,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 168225,
+      "num": 168225,
+      "word": "武侠是全球华人血脉觉醒的文化密码",
+      "onboard_time": 1731639378,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 166206,
@@ -595,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137894,
+      "num": 311251,
+      "word": "国足将主场迎战日本",
+      "onboard_time": 1731634338,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "庄超英被骂我看爽了",
@@ -619,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129951,
+      "num": 535114,
+      "word": "中国山水原来藏着巨型几何图案",
+      "onboard_time": 1731634998,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129386,
       "num": 129386,
       "word": "国足积分",
       "onboard_time": 1731602537,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127333,
+      "num": 127333,
+      "word": "湖南十八洞村等入选最佳旅游乡村",
+      "onboard_time": 1731638059,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127024,
@@ -667,6 +795,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 123233,
+      "num": 123233,
+      "word": "糖尿病不是吃糖吃出来的",
+      "onboard_time": 1731633078,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122839,
+      "num": 122839,
+      "word": "樊振东说巴黎奥运会是一次新生",
+      "onboard_time": 1731638359,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121390,
       "num": 121390,
       "word": "你见过能长一米多的猫咪吗",
@@ -681,14 +825,6 @@
       "onboard_time": 1731627017,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 119912,
-      "num": 119912,
-      "word": "糖尿病不是吃糖吃出来的",
-      "onboard_time": 1731633078,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118892,
@@ -851,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84287,
-      "num": 311251,
-      "word": "国足将主场迎战日本",
-      "onboard_time": 1731634338,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77225,
       "num": 77225,
       "word": "绍伊古在中国航母电子沙盘前驻足",
@@ -939,6 +1067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 51031,
+      "num": 368929,
+      "word": "哪类人容易被带状疱疹盯上",
+      "onboard_time": 1731638359,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 49061,
       "num": 59703,
       "word": "丁禹兮好会哭",
@@ -987,6 +1123,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 39471,
+      "num": 124771,
+      "word": "黄健翔称国足一下子重新看到希望",
+      "onboard_time": 1731638960,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34088,
       "num": 175529,
       "word": "公众知情权不能打",
@@ -1001,6 +1145,14 @@
       "onboard_time": 1731601337,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31423,
+      "num": 237183,
+      "word": "国足连夜回国",
+      "onboard_time": 1731638960,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 31357,
@@ -1075,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26947,
+      "num": 238247,
+      "word": "哈利波特与混血王子今日重映",
+      "onboard_time": 1731638718,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25751,
       "num": 25751,
       "word": "巴林进球越位",
@@ -1097,6 +1257,14 @@
       "onboard_time": 1731625095,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 22157,
+      "num": 476081,
+      "word": "张玉宁说一起输的我们一起赢回来",
+      "onboard_time": 1731638960,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 19692,
@@ -1233,6 +1401,14 @@
       "onboard_time": 1731611651,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7200,
+      "num": 963168,
+      "word": "中国人有一国的老乡",
+      "onboard_time": 1731639618,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5743,
