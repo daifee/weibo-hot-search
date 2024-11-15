@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731696273691,
+  "endTime": 1731698308817,
   "band_list": [
     {
       "raw_hot": 1423536,
@@ -315,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90965,
+      "num": 90965,
+      "word": "记者采访被袭中铁七局5人就地免职",
+      "onboard_time": 1731693554,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 88228,
       "num": 88228,
       "word": "永夜星河",
@@ -337,14 +345,6 @@
       "onboard_time": 1731690676,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 85585,
-      "num": 85585,
-      "word": "记者采访被袭中铁七局5人就地免职",
-      "onboard_time": 1731693554,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 85359,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82339,
+      "num": 82339,
+      "word": "当地回应上海截取不雅字打卡地走红",
+      "onboard_time": 1731692713,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79946,
       "num": 75021,
       "word": "李子柒为什么没有平替",
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72508,
-      "num": 77156,
-      "word": "当地回应上海截取不雅字打卡地走红",
-      "onboard_time": 1731692713,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69302,
       "num": 69302,
       "word": "彭高 蓝色是天空和大海的颜色",
@@ -455,6 +455,14 @@
       "num": 214137,
       "word": "aespa黑白领带长裤造型",
       "onboard_time": 1731687857,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58954,
+      "num": 56691,
+      "word": "关晓彤吴艳妮活动同框",
+      "onboard_time": 1731695171,
       "rank": 19,
       "category": "艺人"
     },
@@ -499,20 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31091,
-      "num": 56691,
-      "word": "关晓彤吴艳妮活动同框",
-      "onboard_time": 1731695171,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29560,
       "num": 29560,
       "word": "登陆少年组合登陆金鸡",
       "onboard_time": 1731695892,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21672,
+      "num": 40513,
+      "word": "中秘同为文明古国",
+      "onboard_time": 1731695532,
+      "rank": 25,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 21492,
@@ -523,20 +531,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 18793,
-      "num": 40513,
-      "word": "中秘同为文明古国",
-      "onboard_time": 1731695532,
-      "rank": 25,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 18707,
       "num": 40628,
       "word": "李在明被判有期徒刑1年",
       "onboard_time": 1731695892,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17298,
+      "num": 36043,
+      "word": "男子登山时坠崖救治无效身亡",
+      "onboard_time": 1731697572,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11616,
