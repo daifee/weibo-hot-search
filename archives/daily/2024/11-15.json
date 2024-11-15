@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731666278384,
+  "endTime": 1731667379231,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1077871,
+      "num": 553105,
+      "word": "祝绪丹 谁刷的毛蛋媳妇",
+      "onboard_time": 1731663558,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1077481,
       "num": 514390,
       "word": "电影院是救了胡冰卿的命吗",
@@ -153,14 +161,6 @@
       "onboard_time": 1731644720,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 980376,
-      "num": 553105,
-      "word": "祝绪丹 谁刷的毛蛋媳妇",
-      "onboard_time": 1731663558,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 927558,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 724203,
+      "num": 1115872,
+      "word": "三胎宝妈在月子会所充55万成股东",
+      "onboard_time": 1731661699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 719433,
       "num": 719433,
       "word": "股市",
@@ -291,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 660522,
+      "num": 302423,
+      "word": "男教师被指猥亵指认现场翻窗坠亡",
+      "onboard_time": 1731665958,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 645105,
       "num": 645105,
       "word": "慢牛",
@@ -347,14 +363,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 611162,
-      "num": 611162,
-      "word": "三胎宝妈在月子会所充55万成股东",
-      "onboard_time": 1731661699,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 606267,
       "num": 606267,
       "word": "宁波顺其自然又捐款109万元",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 581374,
-      "num": 391892,
+      "num": 550843,
       "word": "王一博范丞丞金鸡红毯生图",
       "onboard_time": 1731662478,
       "rank": 38,
@@ -496,6 +504,14 @@
       "word": "肖战首部春节档电影",
       "onboard_time": 1731641659,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 428486,
+      "num": 336844,
+      "word": "王一博想咬指甲但忍住了",
+      "onboard_time": 1731664818,
+      "rank": 13,
       "category": "电影"
     },
     {
@@ -643,20 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343330,
+      "num": 343330,
+      "word": "永夜星河",
+      "onboard_time": 1731664759,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339819,
+      "num": 268214,
+      "word": "祝绪丹回应与丁禹兮关系",
+      "onboard_time": 1731666619,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337499,
       "num": 369080,
       "word": "中国无人机蜂群作战系统曝光",
       "onboard_time": 1731655042,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 336844,
-      "num": 336844,
-      "word": "王一博想咬指甲但忍住了",
-      "onboard_time": 1731664818,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 332299,
@@ -673,6 +697,14 @@
       "onboard_time": 1731646761,
       "rank": 9,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 324102,
+      "num": 263586,
+      "word": "李子柒说互联网真的和以前不一样了",
+      "onboard_time": 1731664938,
+      "rank": 28,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 323323,
@@ -811,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261080,
-      "num": 261080,
-      "word": "永夜星河",
-      "onboard_time": 1731664759,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 262839,
+      "num": 262839,
+      "word": "麦琳不是第一次提离婚了",
+      "onboard_time": 1731666139,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 257817,
@@ -923,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231049,
-      "num": 231049,
-      "word": "李子柒说互联网真的和以前不一样了",
-      "onboard_time": 1731664938,
-      "rank": 28,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 227750,
       "num": 186396,
       "word": "李子柒说满园春色才是春",
@@ -969,6 +993,14 @@
       "onboard_time": 1731651558,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 221551,
+      "num": 249527,
+      "word": "ILLIT对Newjeans事件的看法",
+      "onboard_time": 1731666019,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 219175,
@@ -1027,22 +1059,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 210241,
-      "num": 210241,
-      "word": "男教师被指猥亵指认现场翻窗坠亡",
-      "onboard_time": 1731665958,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209954,
-      "num": 249527,
-      "word": "ILLIT对Newjeans事件的看法",
-      "onboard_time": 1731666019,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209077,
       "num": 209077,
       "word": "中铁七局相关负责人回应记者遇袭",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1731664759,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199288,
+      "num": 314822,
+      "word": "天舟八号瞄准23时13分发射",
+      "onboard_time": 1731666678,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199282,
@@ -1451,14 +1475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 168267,
-      "num": 168267,
-      "word": "麦琳不是第一次提离婚了",
-      "onboard_time": 1731666139,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167169,
       "num": 167169,
       "word": "还好月光变奏曲亲了三十多次",
@@ -1579,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159744,
+      "num": 159744,
+      "word": "王昶中国体育代表团报告会plog",
+      "onboard_time": 1731664818,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159554,
       "num": 159554,
       "word": "小米回应网友让雷军造飞机",
@@ -1616,14 +1640,6 @@
       "word": "成都混团抢票",
       "onboard_time": 1731646641,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 156632,
-      "num": 156632,
-      "word": "王昶中国体育代表团报告会plog",
-      "onboard_time": 1731664818,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1747,6 +1763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144074,
+      "num": 144074,
+      "word": "外卖员吐槽尽量不要点黄焖鸡",
+      "onboard_time": 1731667219,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143545,
       "num": 143545,
       "word": "黄金跌上热搜",
@@ -1835,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136245,
+      "num": 136245,
+      "word": "彭高 蓝色是天空和大海的颜色",
+      "onboard_time": 1731667279,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "庄超英被骂我看爽了",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1731640099,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128305,
+      "num": 128305,
+      "word": "虞书欣团综路透",
+      "onboard_time": 1731666859,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 127024,
@@ -1971,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120045,
+      "num": 120045,
+      "word": "男子与爱宠亲亲被咬掉半拉嘴唇",
+      "onboard_time": 1731667279,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119969,
       "num": 119969,
       "word": "台前海军舰长回应谈中国强时哽咽",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1731631339,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116073,
+      "num": 116073,
+      "word": "时代少年团直播",
+      "onboard_time": 1731660860,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115392,
@@ -2259,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84378,
+      "num": 284970,
+      "word": "国企回应运营总监为中学学历",
+      "onboard_time": 1731666560,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82557,
       "num": 314213,
       "word": "刘宇宁说走OST这条路没错的",
@@ -2339,6 +2403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67220,
+      "num": 198770,
+      "word": "黄玲3句话教筱婷做人的底气",
+      "onboard_time": 1731667038,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66823,
+      "num": 351095,
+      "word": "三大优化强化未成年人网络保护",
+      "onboard_time": 1731665178,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65627,
       "num": 1234978,
       "word": "张玉宁谈最后的进球",
@@ -2411,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61326,
+      "num": 293823,
+      "word": "同花顺多个荐股群解散",
+      "onboard_time": 1731666619,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 60575,
       "num": 60575,
       "word": "医院称无法证实女子被诊断9胞胎真伪",
@@ -2441,6 +2529,14 @@
       "onboard_time": 1731627197,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52930,
+      "num": 144824,
+      "word": "秋冬穿搭",
+      "onboard_time": 1731667219,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 51393,
@@ -2563,6 +2659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43133,
+      "num": 317601,
+      "word": "43岁司机高速上猝死卡友接力送货",
+      "onboard_time": 1731665718,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42717,
       "num": 403898,
       "word": "男教师被举报猥亵后坠亡案一审判决",
@@ -2579,28 +2683,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 41742,
-      "num": 317601,
-      "word": "43岁司机高速上猝死卡友接力送货",
-      "onboard_time": 1731665718,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41202,
       "num": 245899,
       "word": "任嘉伦调皮大王登场",
       "onboard_time": 1731649099,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40521,
-      "num": 351095,
-      "word": "三大优化强化未成年人网络保护",
-      "onboard_time": 1731665178,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40323,
@@ -2939,6 +3027,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 25976,
+      "num": 277128,
+      "word": "赵一博参加保利美高梅博物馆开幕",
+      "onboard_time": 1731667159,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25751,
       "num": 25751,
       "word": "巴林进球越位",
@@ -3059,6 +3155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17838,
+      "num": 195701,
+      "word": "金智秀韩版ELLE12月刊封面",
+      "onboard_time": 1731666678,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 17333,
       "num": 681349,
       "word": "在利马感受中秘情谊",
@@ -3177,6 +3281,14 @@
       "onboard_time": 1731610031,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10457,
+      "num": 296016,
+      "word": "闫妮谈黄玲有超越时代的女性力量",
+      "onboard_time": 1731667038,
+      "rank": 14,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 10344,
