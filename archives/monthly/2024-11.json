@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731652501491,
+  "endTime": 1731653289872,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2377,6 +2377,14 @@
       "onboard_time": 1730573836,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1280907,
+      "num": 1280907,
+      "word": "横店群演降薪",
+      "onboard_time": 1731649878,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1277393,
@@ -6249,14 +6257,6 @@
       "onboard_time": 1731585380,
       "rank": 15,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 655090,
-      "num": 655090,
-      "word": "横店群演降薪",
-      "onboard_time": 1731649878,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 655073,
@@ -10811,6 +10811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 410206,
+      "num": 325584,
+      "word": "麦琳下期首选离婚",
+      "onboard_time": 1731652459,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410089,
       "num": 410089,
       "word": "虞书欣丁禹兮腾讯扫楼",
@@ -13163,6 +13171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327639,
+      "num": 327639,
+      "word": "头一次见有人用脸打双闪",
+      "onboard_time": 1731649999,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
@@ -13433,6 +13449,14 @@
       "onboard_time": 1730771720,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319512,
+      "num": 298734,
+      "word": "江西一男子涉嫌破坏军婚罪被逮捕",
+      "onboard_time": 1731649220,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 319051,
@@ -14097,14 +14121,6 @@
       "onboard_time": 1731541697,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 298734,
-      "num": 298734,
-      "word": "江西一男子涉嫌破坏军婚罪被逮捕",
-      "onboard_time": 1731649220,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 297919,
@@ -14800,14 +14816,6 @@
       "word": "芒果男艺人上你好星期六被泼成熏鸡",
       "onboard_time": 1731225079,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 282278,
-      "num": 307641,
-      "word": "头一次见有人用脸打双闪",
-      "onboard_time": 1731649999,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -18004,7 +18012,7 @@
     },
     {
       "raw_hot": 223333,
-      "num": 223333,
+      "num": 258156,
       "word": "3部电影定档2025春节档",
       "onboard_time": 1731648260,
       "rank": 33,
@@ -20740,7 +20748,7 @@
     },
     {
       "raw_hot": 198986,
-      "num": 198986,
+      "num": 278816,
       "word": "神秘人连续26年定时捐款共1686万",
       "onboard_time": 1731647001,
       "rank": 35,
@@ -22683,6 +22691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186327,
+      "num": 186327,
+      "word": "王一博出发",
+      "onboard_time": 1731652879,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186233,
       "num": 186233,
       "word": "女子产后出院被老公套袋抬回家",
@@ -23393,6 +23409,14 @@
       "onboard_time": 1730464099,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180498,
+      "num": 180498,
+      "word": "曝iG锅盔被禁业一年",
+      "onboard_time": 1731652100,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 180465,
@@ -24137,6 +24161,14 @@
       "onboard_time": 1730523077,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175517,
+      "num": 175517,
+      "word": "山东年平均工资107131元",
+      "onboard_time": 1731651558,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 175508,
@@ -25451,14 +25483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167093,
-      "num": 167093,
-      "word": "曝iG锅盔被禁业一年",
-      "onboard_time": 1731652100,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 167068,
       "num": 167068,
       "word": "丁禹兮不要虐待老人李泽锋",
@@ -26299,6 +26323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161930,
+      "num": 179525,
+      "word": "金鸡奖颁奖典礼阵容",
+      "onboard_time": 1731652999,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161894,
       "num": 161894,
       "word": "湖人大胜猛龙",
@@ -26689,14 +26721,6 @@
       "onboard_time": 1730451738,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159734,
-      "num": 159734,
-      "word": "山东年平均工资107131元",
-      "onboard_time": 1731651558,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 159695,
@@ -28747,6 +28771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147899,
+      "num": 147899,
+      "word": "徐克射雕用的83版音乐",
+      "onboard_time": 1731653178,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147859,
       "num": 147859,
       "word": "阁楼上的疯女人",
@@ -28985,14 +29017,6 @@
       "onboard_time": 1730769198,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146531,
-      "num": 146531,
-      "word": "麦琳下期首选离婚",
-      "onboard_time": 1731652459,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 146485,
@@ -29409,6 +29433,14 @@
       "onboard_time": 1731075382,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143200,
+      "num": 143200,
+      "word": "时代少年团月夜狂想曲",
+      "onboard_time": 1731653059,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 143192,
@@ -30441,6 +30473,14 @@
       "onboard_time": 1731289157,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136770,
+      "num": 344216,
+      "word": "沙特官员辟谣来珠海航展只为扫货",
+      "onboard_time": 1731650899,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 136733,
@@ -32195,6 +32235,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 124949,
+      "num": 314440,
+      "word": "子期 做撒娇男人享幸福人生",
+      "onboard_time": 1731650899,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124887,
       "num": 124887,
       "word": "浓眉左眼受伤",
@@ -33057,6 +33105,14 @@
       "onboard_time": 1730593397,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119679,
+      "num": 149547,
+      "word": "歼35A飞出超炫马赫环",
+      "onboard_time": 1731649340,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 119627,
@@ -34779,6 +34835,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 106849,
+      "num": 315845,
+      "word": "顺其自然每一笔捐款都用在了孩子身上",
+      "onboard_time": 1731653119,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 106815,
       "num": 106815,
       "word": "白敬亭新片杀青",
@@ -35851,6 +35915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96407,
+      "num": 313818,
+      "word": "国足抵达厦门",
+      "onboard_time": 1731652698,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96340,
       "num": 542881,
       "word": "羽绒服涨价与猪肉价格有关",
@@ -35873,14 +35945,6 @@
       "onboard_time": 1730509459,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96018,
-      "num": 314440,
-      "word": "子期 做撒娇男人享幸福人生",
-      "onboard_time": 1731650899,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 95887,
@@ -37547,6 +37611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72769,
+      "num": 317950,
+      "word": "霍格沃茨最亮最刀的一夜",
+      "onboard_time": 1731652698,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72703,
       "num": 321970,
       "word": "永夜星河处处有回应",
@@ -37625,14 +37697,6 @@
       "onboard_time": 1731589881,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72234,
-      "num": 344216,
-      "word": "沙特官员辟谣来珠海航展只为扫货",
-      "onboard_time": 1731650899,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 72181,
@@ -39409,6 +39473,14 @@
       "onboard_time": 1731494060,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 56685,
+      "num": 243984,
+      "word": "李宇春林宥嘉谁不想",
+      "onboard_time": 1731652760,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 56668,
@@ -42715,6 +42787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34714,
+      "num": 210158,
+      "word": "价格是车最好的医美",
+      "onboard_time": 1731652459,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34694,
       "num": 435197,
       "word": "李子柒把星空搬到了非遗盛典",
@@ -44019,6 +44099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29181,
+      "num": 168090,
+      "word": "雷军体验小鹏P7+频频点赞",
+      "onboard_time": 1731652278,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29164,
       "num": 29164,
       "word": "檀健次vlog里的粉丝含量",
@@ -44721,14 +44809,6 @@
       "onboard_time": 1731395298,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25927,
-      "num": 168090,
-      "word": "雷军体验小鹏P7+频频点赞",
-      "onboard_time": 1731652278,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 25886,
@@ -47699,6 +47779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12780,
+      "num": 226350,
+      "word": "wtt系列赛冠军回顾",
+      "onboard_time": 1731652698,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12775,
       "num": 85566,
       "word": "天舟八号发射已就位",
@@ -48337,14 +48425,6 @@
       "onboard_time": 1731328159,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6861,
-      "num": 144585,
-      "word": "价格是车最好的医美",
-      "onboard_time": 1731652459,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 6520,
