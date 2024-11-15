@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731645790362,
+  "endTime": 1731648146509,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -41,6 +41,14 @@
       "onboard_time": 1731642079,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1327779,
+      "num": 360915,
+      "word": "张云龙简介",
+      "onboard_time": 1731646821,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1222231,
@@ -96,6 +104,14 @@
       "word": "李行亮 麦琳",
       "onboard_time": 1731632061,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1011941,
+      "num": 347224,
+      "word": "葛夕冷脸洗内裤",
+      "onboard_time": 1731644720,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -155,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672248,
+      "num": 360445,
+      "word": "再见爱人离婚率",
+      "onboard_time": 1731646341,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670068,
       "num": 670068,
       "word": "国足进球",
@@ -187,12 +211,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 592758,
-      "num": 249454,
-      "word": "葛夕冷脸洗内裤",
-      "onboard_time": 1731644720,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 597034,
+      "num": 360066,
+      "word": "王一博手绳",
+      "onboard_time": 1731646161,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 588512,
@@ -217,6 +241,14 @@
       "onboard_time": 1731635117,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540674,
+      "num": 540674,
+      "word": "长沙南站一学生安检时砸伤民警",
+      "onboard_time": 1731645320,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 521601,
@@ -251,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 492987,
+      "num": 492987,
+      "word": "宁波顺其自然又捐款109万元",
+      "onboard_time": 1731643881,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 492471,
       "num": 492471,
       "word": "丁禹兮 凝眸",
@@ -259,12 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479266,
+      "num": 209932,
+      "word": "大英博物馆获捐价值10亿英镑中国瓷器",
+      "onboard_time": 1731645800,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 468895,
       "num": 280649,
       "word": "断糖60天面部的变化",
       "onboard_time": 1731627017,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448691,
+      "num": 448691,
+      "word": "原著作者谈永夜星河",
+      "onboard_time": 1731644060,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 435896,
@@ -339,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389675,
+      "num": 389675,
+      "word": "杨紫 嫡谋",
+      "onboard_time": 1731647180,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382823,
       "num": 382823,
       "word": "中铁七局发布新华社记者遇袭声明",
@@ -347,12 +411,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 366113,
-      "num": 366113,
-      "word": "宁波顺其自然又捐款109万元",
-      "onboard_time": 1731643881,
-      "rank": 25,
-      "category": "正能量"
+      "raw_hot": 361295,
+      "num": 361295,
+      "word": "文俊辉赵昭仪合作",
+      "onboard_time": 1731645741,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 359683,
@@ -377,14 +441,6 @@
       "onboard_time": 1731629418,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333506,
-      "num": 262382,
-      "word": "原著作者谈永夜星河",
-      "onboard_time": 1731644060,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 332299,
@@ -419,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313705,
+      "num": 544949,
+      "word": "中国新增7个世界最佳旅游乡村",
+      "onboard_time": 1731639798,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 308300,
       "num": 291008,
       "word": "肖战骑马训练花絮",
@@ -433,14 +497,6 @@
       "onboard_time": 1731580461,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296927,
-      "num": 544949,
-      "word": "中国新增7个世界最佳旅游乡村",
-      "onboard_time": 1731639798,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 294001,
@@ -497,14 +553,6 @@
       "onboard_time": 1731597561,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268932,
-      "num": 229699,
-      "word": "文俊辉赵昭仪合作",
-      "onboard_time": 1731645741,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 265926,
@@ -603,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216937,
+      "num": 216937,
+      "word": "张云龙张佳宁时隔7年二搭",
+      "onboard_time": 1731647719,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216607,
       "num": 245355,
       "word": "黄圣依四年前vs四年后",
@@ -641,6 +697,14 @@
       "onboard_time": 1731643819,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198986,
+      "num": 198986,
+      "word": "神秘人连续26年定时捐款共1686万",
+      "onboard_time": 1731647001,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 198000,
@@ -691,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191103,
-      "num": 191103,
-      "word": "长沙南站一学生安检时砸伤民警",
-      "onboard_time": 1731645320,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190210,
       "num": 323767,
       "word": "俄宣布苏57已出口",
@@ -731,6 +787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187364,
+      "num": 358893,
+      "word": "王一博上榜全球最具影响力人物",
+      "onboard_time": 1731647061,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185942,
+      "num": 185942,
+      "word": "世界上真正的jellycat出现了",
+      "onboard_time": 1731645382,
+      "rank": 36,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 185853,
       "num": 242511,
       "word": "国足vs日本门票全网售罄",
@@ -745,6 +817,14 @@
       "onboard_time": 1731640699,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185005,
+      "num": 200013,
+      "word": "丁禹兮拍永夜星河尴尬场面",
+      "onboard_time": 1731647240,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 184911,
@@ -819,12 +899,36 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 169437,
+      "num": 169437,
+      "word": "东契奇走神",
+      "onboard_time": 1731647840,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166645,
+      "num": 263892,
+      "word": "养老问题成了海外独生子最深的痛",
+      "onboard_time": 1731643819,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 166206,
       "num": 166206,
       "word": "王者荣耀",
       "onboard_time": 1731629478,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165551,
+      "num": 165551,
+      "word": "美国防部发布UFO年度报告",
+      "onboard_time": 1731646341,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164321,
@@ -867,6 +971,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160612,
+      "num": 160612,
+      "word": "汪苏泷素龙",
+      "onboard_time": 1731648079,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159554,
+      "num": 159554,
+      "word": "小米回应网友让雷军造飞机",
+      "onboard_time": 1731647600,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 159123,
       "num": 185771,
       "word": "庄筱婷林栋哲恋情公开",
@@ -883,12 +1003,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 156798,
+      "num": 156798,
+      "word": "成都混团抢票",
+      "onboard_time": 1731646641,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155470,
       "num": 155470,
       "word": "践踏舆论监督要为此付出代价",
       "onboard_time": 1731593482,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 154195,
+      "num": 361037,
+      "word": "赵丽颖能不能成为大女主",
+      "onboard_time": 1731646761,
+      "rank": 9,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 149630,
@@ -939,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137011,
+      "num": 359301,
+      "word": "祝绪丹凌晨三点起来去录团综",
+      "onboard_time": 1731647840,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "庄超英被骂我看爽了",
@@ -985,14 +1129,6 @@
       "onboard_time": 1731640099,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 128255,
-      "num": 263892,
-      "word": "养老问题成了海外独生子最深的痛",
-      "onboard_time": 1731643819,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 127024,
@@ -1220,7 +1356,7 @@
     },
     {
       "raw_hot": 104549,
-      "num": 162468,
+      "num": 180132,
       "word": "赵丽颖将出席新加坡国际电影节",
       "onboard_time": 1731645382,
       "rank": 49,
@@ -1515,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30509,
+      "num": 195133,
+      "word": "王俊凯每份幸运都在冬日蓄力",
+      "onboard_time": 1731644961,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30347,
       "num": 280988,
       "word": "A股",
@@ -1523,12 +1667,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 30254,
+      "num": 358544,
+      "word": "Uzi说参加老头杯压力大",
+      "onboard_time": 1731647421,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 29877,
       "num": 29877,
       "word": "虞书欣看到林大厨cos慕声的反应",
       "onboard_time": 1731607153,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29668,
+      "num": 212216,
+      "word": "屈楚萧王子文新片海报",
+      "onboard_time": 1731646821,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 29662,
@@ -1569,6 +1729,14 @@
       "onboard_time": 1731627017,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28185,
+      "num": 359474,
+      "word": "被余额宝星座工资调查戳中了心趴",
+      "onboard_time": 1731646821,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 27934,
@@ -1635,6 +1803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 22789,
+      "num": 358137,
+      "word": "情绪自由比情绪稳定更重要吗",
+      "onboard_time": 1731647480,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 21083,
       "num": 242382,
       "word": "广州车展上的王炸组合",
@@ -1684,7 +1860,7 @@
     },
     {
       "raw_hot": 16086,
-      "num": 250849,
+      "num": 357768,
       "word": "一台车两间房三张床",
       "onboard_time": 1731644901,
       "rank": 19,
@@ -1697,14 +1873,6 @@
       "onboard_time": 1731609972,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14608,
-      "num": 195133,
-      "word": "王俊凯每份幸运都在冬日蓄力",
-      "onboard_time": 1731644961,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14419,
