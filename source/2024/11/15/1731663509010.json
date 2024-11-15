@@ -1,0 +1,410 @@
+{
+  "runTime": 1731663509010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885835,
+        "num": 1141733,
+        "word": "永夜星河oe开放式结局",
+        "onboard_time": 1731655400,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532562,
+        "num": 532562,
+        "word": "九号公司就无法核销发说明",
+        "onboard_time": 1731656478,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15187,
+        "num": 529818,
+        "word": "在利马感受中秘情谊",
+        "onboard_time": 1731659118,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 575534,
+        "num": 529757,
+        "word": "女生不喝奶茶却查出糖尿病无法接受",
+        "onboard_time": 1731656060,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529304,
+        "num": 529304,
+        "word": "同花顺",
+        "onboard_time": 1731659419,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 424637,
+        "num": 424637,
+        "word": "大学生300元抢6399元九号电车提车被拒",
+        "onboard_time": 1731635718,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401265,
+        "num": 401265,
+        "word": "祝绪丹直播",
+        "onboard_time": 1731659899,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385315,
+        "num": 385315,
+        "word": "沙特官员辟谣来珠海航展只为扫货",
+        "onboard_time": 1731650899,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 340266,
+        "num": 340266,
+        "word": "李行亮问怎么没有人哄他呢",
+        "onboard_time": 1731656839,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45982,
+        "num": 286516,
+        "word": "第三方平台买机票暗藏多少猫腻",
+        "onboard_time": 1731661638,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 927558,
+        "num": 282176,
+        "word": "张云龙打球娜扎给他送水",
+        "onboard_time": 1731662060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586694,
+        "num": 278792,
+        "word": "林彦俊 韩国教中文",
+        "onboard_time": 1731653958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274490,
+        "num": 274490,
+        "word": "王一博金鸡奖表彰大会生图",
+        "onboard_time": 1731659960,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42717,
+        "num": 259463,
+        "word": "男教师被举报猥亵后坠亡案一审判决",
+        "onboard_time": 1731662599,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121472,
+        "num": 258140,
+        "word": "四川九峰山一驴友坠崖身亡",
+        "onboard_time": 1731662540,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37407,
+        "num": 257480,
+        "word": "为了这个必须要去澳门一趟",
+        "onboard_time": 1731660380,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257419,
+        "num": 257419,
+        "word": "王一博范丞丞金鸡红毯生图",
+        "onboard_time": 1731662478,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39152,
+        "num": 256024,
+        "word": "赵一博愉快的一天live",
+        "onboard_time": 1731663199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32955,
+        "num": 255511,
+        "word": "客服回应同花顺或遭禁业数月传闻",
+        "onboard_time": 1731663439,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 105678,
+        "num": 254028,
+        "word": "三胎宝妈在月子会所充55万成股东",
+        "onboard_time": 1731661699,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322690,
+        "num": 251865,
+        "word": "张云龙脸和身材各长各的",
+        "onboard_time": 1731659419,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250837,
+        "num": 250837,
+        "word": "股市",
+        "onboard_time": 1731655099,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 634185,
+        "num": 249180,
+        "word": "生理性喜欢的真实表现",
+        "onboard_time": 1731659659,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318620,
+        "num": 249006,
+        "word": "慢牛",
+        "onboard_time": 1731655940,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246173,
+        "num": 246173,
+        "word": "我们无孩爱猫女老了就这样",
+        "onboard_time": 1731661398,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222398,
+        "num": 244851,
+        "word": "唐砖2 换人",
+        "onboard_time": 1731662899,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134705,
+        "num": 244725,
+        "word": "中国无人机蜂群作战系统曝光",
+        "onboard_time": 1731655042,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 28252,
+        "num": 244635,
+        "word": "运动员的力量美学",
+        "onboard_time": 1731660019,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244612,
+        "num": 244612,
+        "word": "iPhone16和15Pro谁更值",
+        "onboard_time": 1731661218,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113890,
+        "num": 230680,
+        "word": "刘宇宁演技",
+        "onboard_time": 1731663019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225841,
+        "num": 225841,
+        "word": "范丞丞新戏路透表情",
+        "onboard_time": 1731657799,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224435,
+        "num": 224435,
+        "word": "这一刻64岁的她迎来了自己的16岁",
+        "onboard_time": 1731662358,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209106,
+        "num": 209106,
+        "word": "葛夕冷脸洗内裤",
+        "onboard_time": 1731644720,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203505,
+        "num": 203505,
+        "word": "永夜星河 没吻戏",
+        "onboard_time": 1731650361,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195307,
+        "num": 195307,
+        "word": "小狗偷穿了陈哲远的鞋",
+        "onboard_time": 1731660919,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193544,
+        "num": 193544,
+        "word": "女子吃了三年牛黄解毒片后砒霜中毒",
+        "onboard_time": 1731662298,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186451,
+        "num": 186451,
+        "word": "肖战版郭靖大年初一见",
+        "onboard_time": 1731662478,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186147,
+        "num": 186147,
+        "word": "文淇 我希望让你们骄傲",
+        "onboard_time": 1731657260,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181401,
+        "num": 181401,
+        "word": "高叶 李川油疯了",
+        "onboard_time": 1731661819,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171733,
+        "num": 171733,
+        "word": "张佳宁时隔七年再演古装",
+        "onboard_time": 1731660380,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169603,
+        "num": 169603,
+        "word": "麦琳下期首选离婚",
+        "onboard_time": 1731652459,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168101,
+        "num": 169235,
+        "word": "网传同花顺被立案或遭禁业数月",
+        "onboard_time": 1731662119,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168939,
+        "num": 168939,
+        "word": "美团哈啰单车暂停在郑州运营",
+        "onboard_time": 1731660440,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162029,
+        "num": 162029,
+        "word": "李子柒说奶奶不知道她有多火",
+        "onboard_time": 1731637400,
+        "rank": 43,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 155793,
+        "num": 155793,
+        "word": "丁禹兮下一战歌手彩排照",
+        "onboard_time": 1731662779,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145645,
+        "num": 145645,
+        "word": "白夜追凶七年后全员重聚的含金量",
+        "onboard_time": 1731663199,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135822,
+        "num": 135822,
+        "word": "珠海航展",
+        "onboard_time": 1731655159,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 130026,
+        "num": 130026,
+        "word": "还好月光变奏曲亲了三十多次",
+        "onboard_time": 1731661218,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123852,
+        "num": 123852,
+        "word": "马嘉祺单人直播",
+        "onboard_time": 1731661218,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119969,
+        "num": 119969,
+        "word": "台前海军舰长回应谈中国强时哽咽",
+        "onboard_time": 1731662839,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秘关于深化全面战略伙伴关系的联合声明#"
+    }
+  }
+}
