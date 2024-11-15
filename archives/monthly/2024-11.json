@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731702299436,
+  "endTime": 1731703123669,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -38739,6 +38739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79382,
+      "num": 79382,
+      "word": "5千多一桌的婚宴菜大部分都是凉的",
+      "onboard_time": 1731700271,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79291,
       "num": 478028,
       "word": "河南固始被害妻子曾多次遭家暴",
@@ -39737,14 +39745,6 @@
       "onboard_time": 1731660140,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68081,
-      "num": 68081,
-      "word": "5千多一桌的婚宴菜大部分都是凉的",
-      "onboard_time": 1731700271,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68052,
@@ -48979,6 +48979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17739,
+      "num": 28153,
+      "word": "16万元的婚宴菜不热能索赔吗",
+      "onboard_time": 1731702791,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 17709,
       "num": 314805,
       "word": "模仿虽多李子柒还是李子柒",
@@ -49715,12 +49723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14299,
+      "num": 21188,
+      "word": "官方回应非开发地带不宜登山",
+      "onboard_time": 1731699551,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14293,
       "num": 18985,
       "word": "神十八返回舱如流星般划过天际",
       "onboard_time": 1730749632,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14284,
+      "num": 18813,
+      "word": "国足赛程",
+      "onboard_time": 1731701891,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 14253,
@@ -50153,14 +50177,6 @@
       "onboard_time": 1730805381,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12158,
-      "num": 21188,
-      "word": "官方回应非开发地带不宜登山",
-      "onboard_time": 1731699551,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12153,
@@ -50609,6 +50625,14 @@
       "onboard_time": 1730973800,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9536,
+      "num": 18819,
+      "word": "烧伤妈妈感谢所有人",
+      "onboard_time": 1731702730,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9514,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731702299436,
+  "endTime": 1731703123669,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -16171,6 +16171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79382,
+      "num": 79382,
+      "word": "5千多一桌的婚宴菜大部分都是凉的",
+      "onboard_time": 1731700271,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79266,
       "num": 177527,
       "word": "祝绪丹小学生春游综合症",
@@ -16681,14 +16689,6 @@
       "onboard_time": 1731660140,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68081,
-      "num": 68081,
-      "word": "5千多一桌的婚宴菜大部分都是凉的",
-      "onboard_time": 1731700271,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68052,
@@ -21387,6 +21387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 17739,
+      "num": 28153,
+      "word": "16万元的婚宴菜不热能索赔吗",
+      "onboard_time": 1731702791,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 17709,
       "num": 314805,
       "word": "模仿虽多李子柒还是李子柒",
@@ -21723,6 +21731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14299,
+      "num": 21188,
+      "word": "官方回应非开发地带不宜登山",
+      "onboard_time": 1731699551,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14284,
+      "num": 18813,
+      "word": "国足赛程",
+      "onboard_time": 1731701891,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14235,
       "num": 54636,
       "word": "打记者也捂不住问题",
@@ -21905,14 +21929,6 @@
       "onboard_time": 1731264791,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 12158,
-      "num": 21188,
-      "word": "官方回应非开发地带不宜登山",
-      "onboard_time": 1731699551,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12153,
@@ -22217,6 +22233,14 @@
       "onboard_time": 1731583341,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9536,
+      "num": 18819,
+      "word": "烧伤妈妈感谢所有人",
+      "onboard_time": 1731702730,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9139,
