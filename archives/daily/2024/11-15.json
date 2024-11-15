@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731659351848,
+  "endTime": 1731660171337,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1835327,
-      "num": 642446,
+      "num": 680658,
       "word": "女生不喝奶茶却查出糖尿病无法接受",
       "onboard_time": 1731656060,
       "rank": 41,
@@ -91,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1210246,
-      "num": 1210246,
+      "raw_hot": 1210318,
+      "num": 1210318,
       "word": "永夜星河oe开放式结局",
       "onboard_time": 1731655400,
       "rank": 6,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 735093,
-      "num": 357489,
+      "num": 369049,
       "word": "麦琳下期首选离婚",
       "onboard_time": 1731652459,
       "rank": 45,
@@ -216,6 +216,14 @@
       "word": "股市",
       "onboard_time": 1731655099,
       "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 696292,
+      "num": 696292,
+      "word": "九号公司就无法核销发说明",
+      "onboard_time": 1731656478,
+      "rank": 12,
       "category": "财经"
     },
     {
@@ -257,6 +265,14 @@
       "onboard_time": 1731599840,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 645105,
+      "num": 645105,
+      "word": "慢牛",
+      "onboard_time": 1731655940,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 642516,
@@ -315,14 +331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 588942,
-      "num": 588942,
-      "word": "慢牛",
-      "onboard_time": 1731655940,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 588512,
       "num": 588512,
       "word": "金价连跌5天创两月新低",
@@ -345,14 +353,6 @@
       "onboard_time": 1731635117,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 548002,
-      "num": 358948,
-      "word": "九号公司就无法核销发说明",
-      "onboard_time": 1731656478,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 521601,
@@ -400,6 +400,14 @@
       "word": "断糖60天面部的变化",
       "onboard_time": 1731627017,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 455676,
+      "num": 303044,
+      "word": "生理性喜欢的真实表现",
+      "onboard_time": 1731659659,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -547,6 +555,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 346664,
+      "num": 304320,
+      "word": "范丞丞新戏路透表情",
+      "onboard_time": 1731657799,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343513,
       "num": 280220,
       "word": "37岁副教授因白血病去世",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 337499,
-      "num": 337499,
+      "num": 369080,
       "word": "中国无人机蜂群作战系统曝光",
       "onboard_time": 1731655042,
       "rank": 39,
@@ -723,12 +739,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255064,
+      "num": 304085,
+      "word": "孙杨与妻子同游环球影城",
+      "onboard_time": 1731658579,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250155,
       "num": 250155,
       "word": "福宝假吃胡萝卜",
       "onboard_time": 1731633559,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246078,
+      "num": 305122,
+      "word": "李行亮问怎么没有人哄他呢",
+      "onboard_time": 1731656839,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 244030,
@@ -763,20 +795,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 235585,
-      "num": 235585,
-      "word": "范丞丞新戏路透表情",
-      "onboard_time": 1731657799,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234488,
       "num": 256311,
       "word": "张艺兴让孙红雷坐他腿上",
       "onboard_time": 1731635239,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234131,
+      "num": 302608,
+      "word": "张云龙脸和身材各长各的",
+      "onboard_time": 1731659419,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 231801,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226883,
+      "num": 226883,
+      "word": "同花顺",
+      "onboard_time": 1731659419,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225673,
       "num": 225673,
       "word": "国足巴林 反转",
@@ -819,20 +859,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 222896,
-      "num": 195547,
-      "word": "孙杨与妻子同游环球影城",
-      "onboard_time": 1731658579,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222567,
       "num": 222567,
       "word": "山东年平均工资107131元",
       "onboard_time": 1731651558,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 219175,
+      "num": 219175,
+      "word": "24岁男生全职带娃五个月后的变化",
+      "onboard_time": 1731655940,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 218340,
@@ -931,14 +971,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197024,
-      "num": 197024,
-      "word": "李行亮问怎么没有人哄他呢",
-      "onboard_time": 1731656839,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196459,
       "num": 278288,
       "word": "THEBOYZ签约MC梦公司",
@@ -955,14 +987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195092,
-      "num": 195091,
-      "word": "24岁男生全职带娃五个月后的变化",
-      "onboard_time": 1731655940,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194650,
       "num": 229763,
       "word": "雨霖铃首发剧照",
@@ -976,6 +1000,14 @@
       "word": "永夜星河你要是敢oe",
       "onboard_time": 1731654440,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192309,
+      "num": 303267,
+      "word": "祝绪丹直播",
+      "onboard_time": 1731659899,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -1059,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186942,
+      "num": 235201,
+      "word": "我将化身怨女",
+      "onboard_time": 1731659299,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186327,
       "num": 186327,
       "word": "王一博出发",
@@ -1115,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177147,
+      "num": 177147,
+      "word": "王一博金鸡奖表彰大会生图",
+      "onboard_time": 1731659960,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175680,
       "num": 328390,
       "word": "山东单亲妈妈带2娃住烂尾楼",
@@ -1148,7 +1196,7 @@
     },
     {
       "raw_hot": 172491,
-      "num": 196470,
+      "num": 228798,
       "word": "到底什么垃圾桶还得报案找啊",
       "onboard_time": 1731658760,
       "rank": 28,
@@ -1212,7 +1260,7 @@
     },
     {
       "raw_hot": 168786,
-      "num": 157118,
+      "num": 159794,
       "word": "证监会原发行监管部副主任李筱强被查",
       "onboard_time": 1731658461,
       "rank": 41,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1731600321,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161403,
+      "num": 161403,
+      "word": "时代少年团新专辑叁重楼",
+      "onboard_time": 1731658940,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 159554,
@@ -1483,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136485,
+      "num": 136485,
+      "word": "柯洁止步16强",
+      "onboard_time": 1731659719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "庄超英被骂我看爽了",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1731601937,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130774,
+      "num": 135552,
+      "word": "尤长靖教张含韵跳EIEI",
+      "onboard_time": 1731659179,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 129951,
@@ -1763,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106646,
+      "num": 135150,
+      "word": "广州车展已经卷到上天了",
+      "onboard_time": 1731657500,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105318,
       "num": 109565,
       "word": "煤气灯效应",
@@ -1819,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98249,
+      "num": 376123,
+      "word": "世界最佳旅游乡村我国新增7个",
+      "onboard_time": 1731658159,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 96407,
       "num": 313818,
       "word": "国足抵达厦门",
@@ -1841,14 +1929,6 @@
       "onboard_time": 1731642800,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 94173,
-      "num": 196211,
-      "word": "我将化身怨女",
-      "onboard_time": 1731659299,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 88565,
@@ -1939,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68244,
+      "num": 233077,
+      "word": "丁真扶吉克隽逸上台阶",
+      "onboard_time": 1731660140,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65627,
       "num": 1234978,
       "word": "张玉宁谈最后的进球",
@@ -1947,8 +2035,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65528,
+      "num": 341317,
+      "word": "黄仁俊给地租逆应援",
+      "onboard_time": 1731658699,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64871,
-      "num": 195092,
+      "num": 231138,
       "word": "林一三折叠式撸猫",
       "onboard_time": 1731658579,
       "rank": 35,
@@ -2011,14 +2107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60340,
-      "num": 341317,
-      "word": "黄仁俊给地租逆应援",
-      "onboard_time": 1731658699,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56685,
       "num": 243984,
       "word": "李宇春林宥嘉谁不想",
@@ -2041,14 +2129,6 @@
       "onboard_time": 1731627197,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54242,
-      "num": 376123,
-      "word": "世界最佳旅游乡村我国新增7个",
-      "onboard_time": 1731658159,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 51393,
@@ -2089,6 +2169,14 @@
       "onboard_time": 1731593663,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47246,
+      "num": 373068,
+      "word": "工厂直发成套路让消费者心寒",
+      "onboard_time": 1731657978,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47133,
@@ -2161,6 +2249,14 @@
       "onboard_time": 1731649099,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40323,
+      "num": 136375,
+      "word": "运动员的力量美学",
+      "onboard_time": 1731660019,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 39471,
@@ -2379,14 +2475,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27835,
-      "num": 373068,
-      "word": "工厂直发成套路让消费者心寒",
-      "onboard_time": 1731657978,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27796,
       "num": 277011,
       "word": "白帝空天战机震撼亮相航展",
@@ -2420,7 +2508,7 @@
     },
     {
       "raw_hot": 26462,
-      "num": 195092,
+      "num": 303747,
       "word": "打工人最强腿替铂智3X",
       "onboard_time": 1731658819,
       "rank": 34,
@@ -2499,6 +2587,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 19454,
+      "num": 177797,
+      "word": "王俊凯今天你咖了吗",
+      "onboard_time": 1731658579,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18810,
       "num": 251490,
       "word": "伊万18强赛前的计划全实现了",
@@ -2547,6 +2643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 15832,
+      "num": 304607,
+      "word": "徐枫灿航展现场给观众送徽章",
+      "onboard_time": 1731659960,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 14849,
       "num": 21775,
       "word": "为都一样制作MV",
@@ -2587,14 +2691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12243,
-      "num": 177676,
-      "word": "王俊凯今天你咖了吗",
-      "onboard_time": 1731658579,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11890,
       "num": 240789,
       "word": "TGA2024",
@@ -2608,6 +2704,14 @@
       "word": "中国海警位中国黄岩岛领海执法巡查",
       "onboard_time": 1731611171,
       "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11099,
+      "num": 681349,
+      "word": "在利马感受中秘情谊",
+      "onboard_time": 1731659118,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -2643,14 +2747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10158,
-      "num": 651964,
-      "word": "在利马感受中秘情谊",
-      "onboard_time": 1731659118,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10052,
       "num": 36618,
       "word": "让中秘友好之船扬帆远航",
@@ -2665,6 +2761,14 @@
       "onboard_time": 1731618911,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7570,
+      "num": 134296,
+      "word": "下班后fitcheck一下",
+      "onboard_time": 1731659960,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 7332,
@@ -2725,6 +2829,9 @@
     },
     {
       "word": "#中秘友谊源远流长友好深入人心#"
+    },
+    {
+      "word": "#中秘关于深化全面战略伙伴关系的联合声明#"
     }
   ]
 }
