@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731699352921,
+  "endTime": 1731702299436,
   "band_list": [
     {
       "raw_hot": 1423536,
@@ -443,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68081,
+      "num": 68081,
+      "word": "5千多一桌的婚宴菜大部分都是凉的",
+      "onboard_time": 1731700271,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66428,
       "num": 156160,
       "word": "赵小童拍的青岛秋天",
@@ -515,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28693,
+      "num": 32547,
+      "word": "祝绪丹说虞书欣像个小充电宝",
+      "onboard_time": 1731698833,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26780,
       "num": 40628,
       "word": "李在明被判有期徒刑1年",
@@ -523,12 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24013,
-      "num": 32547,
-      "word": "祝绪丹说虞书欣像个小充电宝",
-      "onboard_time": 1731698833,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 25868,
+      "num": 36043,
+      "word": "男子登山时坠崖救治无效身亡",
+      "onboard_time": 1731697572,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21672,
@@ -547,14 +563,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 19867,
-      "num": 36043,
-      "word": "男子登山时坠崖救治无效身亡",
-      "onboard_time": 1731697572,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16031,
       "num": 32572,
       "word": "又到了一年一度顺其自然捐款时刻",
@@ -563,12 +571,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12158,
+      "num": 21188,
+      "word": "官方回应非开发地带不宜登山",
+      "onboard_time": 1731699551,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11723,
+      "num": 27854,
+      "word": "大冰助麦子阿姨往南走委托朋友护送",
+      "onboard_time": 1731702132,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11616,
       "num": 110432,
       "word": "赵一博召唤了一群190男大",
       "onboard_time": 1731690256,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10613,
+      "num": 17539,
+      "word": "麦子阿姨做自由行走的花",
+      "onboard_time": 1731702013,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6134,
