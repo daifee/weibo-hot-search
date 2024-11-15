@@ -1,0 +1,410 @@
+{
+  "runTime": 1731706613356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 133414,
+        "num": 181346,
+        "word": "人被被子单杀可能性几乎但并不为零",
+        "onboard_time": 1731686899,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74906,
+        "num": 74906,
+        "word": "11岁男孩爬火车头遭电击全身起火",
+        "onboard_time": 1731686959,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1149,
+        "num": 67985,
+        "word": "航拍秘鲁钱凯港",
+        "onboard_time": 1731678320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67415,
+        "num": 67415,
+        "word": "5千多一桌的婚宴菜大部分都是凉的",
+        "onboard_time": 1731700271,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62981,
+        "num": 62981,
+        "word": "记者采访被袭中铁七局5人就地免职",
+        "onboard_time": 1731693554,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 50882,
+        "num": 50882,
+        "word": "中领馆通报破获多名中国女性在德遭强奸案",
+        "onboard_time": 1731686179,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42202,
+        "num": 42202,
+        "word": "BBC报道李子柒复出打上灰色滤镜",
+        "onboard_time": 1731672737,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38607,
+        "num": 38607,
+        "word": "16万元的婚宴菜不热能索赔吗",
+        "onboard_time": 1731702791,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 36502,
+        "num": 36502,
+        "word": "李行亮坚定选择不离婚",
+        "onboard_time": 1731669020,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33673,
+        "num": 33673,
+        "word": "丁禹兮应该开演唱会",
+        "onboard_time": 1731681440,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146635,
+        "num": 33501,
+        "word": "德连环强奸案嫌疑人系43岁中国公民",
+        "onboard_time": 1731683600,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95626,
+        "num": 33254,
+        "word": "张云龙",
+        "onboard_time": 1731685879,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82164,
+        "num": 33033,
+        "word": "祝绪丹一次直播漏个大的",
+        "onboard_time": 1731704892,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76103,
+        "num": 32834,
+        "word": "王昶 钱天一",
+        "onboard_time": 1731684498,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45094,
+        "num": 32589,
+        "word": "男子恶意将小狗踢下五台山",
+        "onboard_time": 1731686359,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13964,
+        "num": 32440,
+        "word": "正告民进党当局买什么武器都不堪一击",
+        "onboard_time": 1731704470,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32306,
+        "num": 32306,
+        "word": "当地回应上海截取不雅字打卡地走红",
+        "onboard_time": 1731692713,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27151,
+        "num": 32292,
+        "word": "再见爱人4 留几手葛夕还是敢说",
+        "onboard_time": 1731673398,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26166,
+        "num": 32270,
+        "word": "再见爱人4直播聊两性关系",
+        "onboard_time": 1731689476,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23311,
+        "num": 32230,
+        "word": "徐克射雕重点在襄阳保卫战",
+        "onboard_time": 1731693554,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72335,
+        "num": 32218,
+        "word": "官方回应8岁娃终身禁入熊猫基地",
+        "onboard_time": 1731684319,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33439,
+        "num": 32183,
+        "word": "张艺谋女儿任达华女儿 巴黎名媛舞会",
+        "onboard_time": 1731675800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32179,
+        "num": 32179,
+        "word": "青岛一建筑突发爆炸",
+        "onboard_time": 1731686539,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 30406,
+        "num": 30406,
+        "word": "故宫博物院原常务副院长王亚民被查",
+        "onboard_time": 1731687018,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29007,
+        "num": 29007,
+        "word": "煮虾别等水开了才下锅",
+        "onboard_time": 1731690676,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 27419,
+        "num": 27419,
+        "word": "记者采访被袭5名相关人员被拘",
+        "onboard_time": 1731686179,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 23848,
+        "num": 23848,
+        "word": "女生不喝奶茶却查出糖尿病无法接受",
+        "onboard_time": 1731656060,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22908,
+        "num": 22908,
+        "word": "天舟八号瞄准23时13分发射",
+        "onboard_time": 1731666678,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11817,
+        "num": 21542,
+        "word": "章丘一动物园给黑猩猩吃大葱",
+        "onboard_time": 1731706450,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18813,
+        "num": 21412,
+        "word": "图南李佳戏份 无聊",
+        "onboard_time": 1731685220,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 21378,
+        "word": "近500人300元抢到6399元九号电车",
+        "onboard_time": 1731674059,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20224,
+        "num": 20224,
+        "word": "天舟八号发射",
+        "onboard_time": 1731678320,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20202,
+        "num": 20202,
+        "word": "施工方称一敲就碎的井盖系采购失误",
+        "onboard_time": 1731704110,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19574,
+        "num": 19574,
+        "word": "德国连环强奸案告破",
+        "onboard_time": 1731683480,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16704,
+        "num": 19073,
+        "word": "金鸡奖",
+        "onboard_time": 1731673759,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18766,
+        "num": 18766,
+        "word": "教体局回应学生吐槽学校被闭麦拉走",
+        "onboard_time": 1731680901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17811,
+        "num": 17811,
+        "word": "男子登山时坠崖救治无效身亡",
+        "onboard_time": 1731697572,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17637,
+        "num": 17637,
+        "word": "李子柒为什么没有平替",
+        "onboard_time": 1731689597,
+        "rank": 37,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 16146,
+        "num": 17251,
+        "word": "小巷人家",
+        "onboard_time": 1731672737,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17165,
+        "num": 17165,
+        "word": "关晓彤吴艳妮活动同框",
+        "onboard_time": 1731695171,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16641,
+        "num": 16641,
+        "word": "云南一司机卸货不慎连人带车滚下山崖",
+        "onboard_time": 1731676280,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16334,
+        "num": 16334,
+        "word": "王安宇 破碎小狗",
+        "onboard_time": 1731704831,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15979,
+        "num": 15979,
+        "word": "李子柒拜非遗蓝印花布传人王振兴为师",
+        "onboard_time": 1731704470,
+        "rank": 42,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 14460,
+        "num": 15979,
+        "word": "中秘同为文明古国",
+        "onboard_time": 1731695532,
+        "rank": 43,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 14374,
+        "num": 15979,
+        "word": "祝绪丹说虞书欣像个小充电宝",
+        "onboard_time": 1731698833,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14338,
+        "num": 15979,
+        "word": "茉莉奶白道歉",
+        "onboard_time": 1731687918,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14094,
+        "num": 15979,
+        "word": "林栋哲求婚看哭了",
+        "onboard_time": 1731683420,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14004,
+        "num": 15979,
+        "word": "李在明被判有期徒刑1年",
+        "onboard_time": 1731695892,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13200,
+        "num": 15979,
+        "word": "男子夜驾撞飞两头野猪被判全责",
+        "onboard_time": 1731706091,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13182,
+        "num": 15978,
+        "word": "GimGoon好强",
+        "onboard_time": 1731684379,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席的利马时间#"
+    }
+  }
+}
