@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731685150640,
+  "endTime": 1731688154561,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -545,6 +545,14 @@
       "onboard_time": 1731216738,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1423536,
+      "num": 281432,
+      "word": "王昶 钱天一",
+      "onboard_time": 1731684498,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 1421803,
@@ -1787,6 +1795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 780582,
+      "num": 279790,
+      "word": "张云龙",
+      "onboard_time": 1731685879,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 779280,
       "num": 779280,
       "word": "多地官宣出生人口反弹",
@@ -2251,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 668437,
+      "num": 668437,
+      "word": "官方回应8岁娃终身禁入熊猫基地",
+      "onboard_time": 1731684319,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 667855,
       "num": 667855,
       "word": "张艺谋任达华女儿入围巴黎名媛舞会",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1731246199,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637524,
+      "num": 435828,
+      "word": "德连环强奸案嫌疑人系43岁中国公民",
+      "onboard_time": 1731683600,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 636003,
@@ -4651,14 +4683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375545,
-      "num": 375545,
-      "word": "德连环强奸案嫌疑人系43岁中国公民",
-      "onboard_time": 1731683600,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 374693,
       "num": 359301,
       "word": "祝绪丹凌晨三点起来去录团综",
@@ -4880,6 +4904,14 @@
       "word": "王一栩 崇拜虞书欣供着虞书欣",
       "onboard_time": 1731315559,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 353004,
+      "num": 353004,
+      "word": "关晓彤演技",
+      "onboard_time": 1731320299,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -5315,6 +5347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321388,
+      "num": 276526,
+      "word": "男子恶意将小狗踢下五台山",
+      "onboard_time": 1731686359,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320847,
       "num": 320847,
       "word": "男子骑车撞上供热管道身亡",
@@ -5521,14 +5561,6 @@
       "onboard_time": 1731300199,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305231,
-      "num": 305231,
-      "word": "关晓彤演技",
-      "onboard_time": 1731320299,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 305137,
@@ -6049,6 +6081,14 @@
       "onboard_time": 1731207738,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272993,
+      "num": 272993,
+      "word": "教体局回应学生吐槽学校被闭麦拉走",
+      "onboard_time": 1731680901,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272939,
@@ -6867,12 +6907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239814,
-      "num": 239814,
-      "word": "王昶 钱天一",
-      "onboard_time": 1731684498,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 240237,
+      "num": 240237,
+      "word": "11岁男孩爬火车头遭电击全身起火",
+      "onboard_time": 1731686959,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239512,
@@ -8907,6 +8947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194362,
+      "num": 275165,
+      "word": "记者采访被袭5名相关人员被拘",
+      "onboard_time": 1731686179,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 194197,
       "num": 186320,
       "word": "仙逆王林化神新皮肤上线",
@@ -9707,6 +9755,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 183240,
+      "num": 183240,
+      "word": "人被被子单杀可能性几乎但并不为零",
+      "onboard_time": 1731686899,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183197,
       "num": 195984,
       "word": "不敢想象凌妙妙清醒过来得多难过",
@@ -9955,14 +10011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179679,
-      "num": 179679,
-      "word": "教体局回应学生吐槽学校被闭麦拉走",
-      "onboard_time": 1731680901,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179404,
       "num": 179404,
       "word": "时空中的绘旅人",
@@ -10169,6 +10217,14 @@
       "onboard_time": 1731639739,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175464,
+      "num": 175464,
+      "word": "青岛一建筑突发爆炸",
+      "onboard_time": 1731686539,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 175372,
@@ -12803,6 +12859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140987,
+      "num": 140987,
+      "word": "图南李佳戏份 无聊",
+      "onboard_time": 1731685220,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140936,
       "num": 140936,
       "word": "毛绒帽真的可以改变脑袋形状",
@@ -12881,14 +12945,6 @@
       "onboard_time": 1731670219,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 140133,
-      "num": 140133,
-      "word": "官方回应8岁娃终身禁入熊猫基地",
-      "onboard_time": 1731684319,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140043,
@@ -13523,6 +13579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130764,
+      "num": 130764,
+      "word": "大熊猫丽丽去世",
+      "onboard_time": 1731684379,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130621,
       "num": 130621,
       "word": "女子收50万彩礼后与前男友去宾馆",
@@ -13825,14 +13889,6 @@
       "onboard_time": 1731402202,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 125662,
-      "num": 125662,
-      "word": "大熊猫丽丽去世",
-      "onboard_time": 1731684379,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125451,
@@ -14891,12 +14947,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 107501,
+      "num": 304902,
+      "word": "国足展望直接晋级",
+      "onboard_time": 1731684201,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107498,
       "num": 295032,
       "word": "尤长靖彩排唱歌地板和灯都在震",
       "onboard_time": 1731649099,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107384,
+      "num": 134575,
+      "word": "中领馆通报破获多名中国女性在德遭强奸案",
+      "onboard_time": 1731686179,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107252,
@@ -15435,6 +15507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96389,
+      "num": 96389,
+      "word": "你有新的太空快递即将派送",
+      "onboard_time": 1731685939,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96279,
       "num": 96279,
       "word": "苏57运20直8罕见同框",
@@ -15457,6 +15537,14 @@
       "onboard_time": 1731365774,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95779,
+      "num": 95779,
+      "word": "茉莉奶白道歉",
+      "onboard_time": 1731687918,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95519,
@@ -15763,6 +15851,14 @@
       "category": "艺人,军事"
     },
     {
+      "raw_hot": 86018,
+      "num": 84778,
+      "word": "祝绪丹 俺正得发邪",
+      "onboard_time": 1731682279,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85536,
       "num": 288205,
       "word": "范志毅看国足比赛再爆金句",
@@ -15843,6 +15939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83662,
+      "num": 197362,
+      "word": "王一栩你最好能圆回来",
+      "onboard_time": 1731683120,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83469,
       "num": 83469,
       "word": "回归前的李子柒干了些什么",
@@ -15857,6 +15961,14 @@
       "onboard_time": 1731495801,
       "rank": 9,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 82840,
+      "num": 82840,
+      "word": "故宫博物院原常务副院长王亚民被查",
+      "onboard_time": 1731687018,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82769,
@@ -15881,6 +15993,14 @@
       "onboard_time": 1731648380,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82411,
+      "num": 82411,
+      "word": "蔡徐坤上海活动生图状态",
+      "onboard_time": 1731685760,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 82246,
@@ -16177,6 +16297,14 @@
       "onboard_time": 1731306438,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74462,
+      "num": 82408,
+      "word": "证监会正式发布市值管理指引",
+      "onboard_time": 1731685578,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 74331,
@@ -17320,14 +17448,6 @@
       "word": "郑钦文年度总奖金达555万美元",
       "onboard_time": 1731194833,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 56269,
-      "num": 304902,
-      "word": "国足展望直接晋级",
-      "onboard_time": 1731684201,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -18563,14 +18683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40067,
-      "num": 197362,
-      "word": "王一栩你最好能圆回来",
-      "onboard_time": 1731683120,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39895,
       "num": 50805,
       "word": "姆巴佩状态",
@@ -19345,6 +19457,14 @@
       "onboard_time": 1731405983,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32608,
+      "num": 95836,
+      "word": "赵一博主场少年合体现身澳门",
+      "onboard_time": 1731686599,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 32574,
@@ -21817,6 +21937,14 @@
       "onboard_time": 1731524172,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10586,
+      "num": 214137,
+      "word": "aespa黑白领带长裤造型",
+      "onboard_time": 1731687857,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 10567,
