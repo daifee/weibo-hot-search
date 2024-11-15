@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731627440836,
+  "endTime": 1731635262234,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -27,12 +27,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1077481,
+      "num": 322015,
+      "word": "电影院是救了胡冰卿的命吗",
+      "onboard_time": 1731630800,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1071448,
       "num": 1071448,
       "word": "国足赢了",
       "onboard_time": 1731600381,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 902688,
+      "num": 317955,
+      "word": "男婴在月子中心肚子肿胀送医后离世",
+      "onboard_time": 1731629839,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 824462,
+      "num": 1131913,
+      "word": "除夕不用请假了你打算回家还是旅游",
+      "onboard_time": 1731616390,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 743260,
+      "num": 743260,
+      "word": "劳斯莱斯车主已走保险理赔",
+      "onboard_time": 1731632359,
+      "rank": 1,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 737866,
@@ -43,20 +75,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 702840,
-      "num": 922454,
-      "word": "除夕不用请假了你打算回家还是旅游",
-      "onboard_time": 1731616390,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 688106,
       "num": 1471070,
       "word": "papi酱说李行亮不哄了",
       "onboard_time": 1731596003,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 672790,
+      "num": 315236,
+      "word": "夫妻海上遇险妻子悬空呼救丈夫遇难",
+      "onboard_time": 1731632061,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 670068,
@@ -67,12 +99,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 564482,
+      "num": 303402,
+      "word": "丁禹兮很讨厌被你拍",
+      "onboard_time": 1731630259,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 520134,
+      "num": 298859,
+      "word": "麦琳也没选李行亮",
+      "onboard_time": 1731628518,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 513530,
+      "num": 513530,
+      "word": "王者荣耀 柯南",
+      "onboard_time": 1731633260,
+      "rank": 3,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 504306,
       "num": 360629,
       "word": "国足 裁判",
       "onboard_time": 1731599361,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468895,
+      "num": 280649,
+      "word": "断糖60天面部的变化",
+      "onboard_time": 1731627017,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 430778,
@@ -99,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406926,
+      "num": 406926,
+      "word": "顺风车迟迟不到或用了外挂抢单",
+      "onboard_time": 1731630140,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406531,
       "num": 406531,
       "word": "雷军承认车间睡觉照是摆拍",
@@ -113,14 +185,6 @@
       "onboard_time": 1731595162,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395258,
-      "num": 172402,
-      "word": "断糖60天面部的变化",
-      "onboard_time": 1731627017,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 382823,
@@ -145,6 +209,30 @@
       "onboard_time": 1731597680,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343513,
+      "num": 280220,
+      "word": "37岁副教授因白血病去世",
+      "onboard_time": 1731629418,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340087,
+      "num": 326907,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1731632061,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 332299,
+      "num": 279839,
+      "word": "虞书欣北海",
+      "onboard_time": 1731630259,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 301141,
@@ -187,6 +275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280961,
+      "num": 280961,
+      "word": "韩国高考听力时段全境暂停飞机起降",
+      "onboard_time": 1731611592,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 276920,
+      "num": 276920,
+      "word": "不吸烟女性肺癌发病率越来越高",
+      "onboard_time": 1731627017,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272604,
       "num": 272604,
       "word": "于子洋确认离开国家队",
@@ -195,12 +299,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265385,
-      "num": 265385,
-      "word": "韩国高考听力时段全境暂停飞机起降",
-      "onboard_time": 1731611592,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 265761,
+      "num": 265761,
+      "word": "身份证上的姓名能想改就改吗",
+      "onboard_time": 1731633198,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 247667,
+      "num": 247667,
+      "word": "福宝假吃胡萝卜",
+      "onboard_time": 1731633559,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 243432,
+      "num": 243432,
+      "word": "李子柒曾当服务员月入300仍资助学生",
+      "onboard_time": 1731633619,
+      "rank": 33,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 235038,
+      "num": 279430,
+      "word": "丁禹兮录团综染发了",
+      "onboard_time": 1731635117,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 231801,
@@ -209,6 +337,14 @@
       "onboard_time": 1731600679,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227750,
+      "num": 186396,
+      "word": "李子柒说满园春色才是春",
+      "onboard_time": 1731630680,
+      "rank": 35,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 227241,
@@ -227,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212035,
+      "num": 278771,
+      "word": "被山海经的相柳转场震撼到",
+      "onboard_time": 1731627017,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209077,
       "num": 209077,
       "word": "中铁七局相关负责人回应记者遇袭",
       "onboard_time": 1731585679,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 196459,
+      "num": 278288,
+      "word": "THEBOYZ签约MC梦公司",
+      "onboard_time": 1731634638,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 191760,
@@ -243,12 +395,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190210,
+      "num": 323767,
+      "word": "俄宣布苏57已出口",
+      "onboard_time": 1731634399,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 189084,
+      "num": 189084,
+      "word": "Uzi被弹幕搞破防",
+      "onboard_time": 1731632539,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 188910,
+      "num": 277950,
+      "word": "黄子弘凡被黄圣依的名字吓退了半步",
+      "onboard_time": 1731634338,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184911,
       "num": 184911,
       "word": "葛夕戴了魅女的木镯子",
       "onboard_time": 1731582019,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171837,
+      "num": 171837,
+      "word": "广州车展",
+      "onboard_time": 1731634338,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 170925,
@@ -273,6 +457,14 @@
       "onboard_time": 1731588201,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 166206,
+      "num": 166206,
+      "word": "王者荣耀",
+      "onboard_time": 1731629478,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 163281,
@@ -315,6 +507,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 153674,
+      "num": 153674,
+      "word": "迈巴赫漏水事件解决方案",
+      "onboard_time": 1731634880,
+      "rank": 39,
+      "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 149630,
+      "num": 277598,
+      "word": "张云龙参加新剧开机宴",
+      "onboard_time": 1731632241,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147859,
       "num": 147859,
       "word": "阁楼上的疯女人",
@@ -339,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140530,
+      "num": 140530,
+      "word": "一句减肥包美的半年减了30多斤",
+      "onboard_time": 1731632840,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138428,
       "num": 138428,
       "word": "蔡徐坤回国纯黑look",
       "onboard_time": 1731592762,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135359,
+      "num": 135359,
+      "word": "庄超英被骂我看爽了",
+      "onboard_time": 1731628038,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 134474,
@@ -369,6 +593,22 @@
       "onboard_time": 1731602537,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126742,
+      "num": 126742,
+      "word": "周杰伦王嘉尔为林俊杰新书写推荐语",
+      "onboard_time": 1731634098,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126665,
+      "num": 126665,
+      "word": "王一博到达厦门",
+      "onboard_time": 1731631879,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 124449,
@@ -403,12 +643,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118336,
+      "num": 118336,
+      "word": "mlxg被弹幕喷破防狂扇自己",
+      "onboard_time": 1731627557,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 118289,
+      "num": 118289,
+      "word": "朴彩英直播",
+      "onboard_time": 1731630379,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117981,
       "num": 117981,
       "word": "狗狗在家里被人开车投毒死亡",
       "onboard_time": 1731614771,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 117688,
+      "num": 117688,
+      "word": "张艺兴让孙红雷坐他腿上",
+      "onboard_time": 1731635239,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 115392,
@@ -433,6 +697,22 @@
       "onboard_time": 1731606433,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112740,
+      "num": 112740,
+      "word": "双11有女装店发2000单退了1500单",
+      "onboard_time": 1731631220,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112195,
+      "num": 112195,
+      "word": "这不是电影这是真实的缉毒现场",
+      "onboard_time": 1731631339,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112008,
@@ -491,28 +771,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 100880,
-      "num": 100880,
-      "word": "不吸烟女性肺癌发病率越来越高",
-      "onboard_time": 1731627017,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 100674,
       "num": 100674,
       "word": "国足1比0战胜巴林队",
       "onboard_time": 1731601698,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90899,
-      "num": 110810,
-      "word": "被山海经的相柳转场震撼到",
-      "onboard_time": 1731627017,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 88565,
@@ -529,6 +793,22 @@
       "onboard_time": 1731625816,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85536,
+      "num": 288205,
+      "word": "范志毅看国足比赛再爆金句",
+      "onboard_time": 1731634338,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84287,
+      "num": 311251,
+      "word": "国足将主场迎战日本",
+      "onboard_time": 1731634338,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 77225,
@@ -699,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29448,
+      "num": 285900,
+      "word": "伊万晒全队合影庆祝胜利",
+      "onboard_time": 1731633198,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29041,
       "num": 292950,
       "word": "极氪与领克或将战略整合",
@@ -713,6 +1001,14 @@
       "onboard_time": 1731627017,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 27796,
+      "num": 277011,
+      "word": "白帝空天战机震撼亮相航展",
+      "onboard_time": 1731634459,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 25751,
@@ -876,7 +1172,7 @@
     },
     {
       "raw_hot": 5499,
-      "num": 508403,
+      "num": 550427,
       "word": "80秒带你走进魅力秘鲁",
       "onboard_time": 1731589521,
       "rank": 2,
@@ -902,6 +1198,9 @@
   "hotgov_list": [
     {
       "word": "#从习近平署名文章中看中秘情谊#"
+    },
+    {
+      "word": "#习近平同秘鲁总统举行会谈#"
     }
   ]
 }
