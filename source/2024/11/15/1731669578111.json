@@ -1,0 +1,410 @@
+{
+  "runTime": 1731669578111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 695863,
+        "num": 1111338,
+        "word": "彭高 蓝色是天空和大海的颜色",
+        "onboard_time": 1731667279,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661806,
+        "num": 661806,
+        "word": "李子柒说互联网真的和以前不一样了",
+        "onboard_time": 1731664938,
+        "rank": 1,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 4193,
+        "num": 489398,
+        "word": "在利马感受中秘情谊",
+        "onboard_time": 1731659118,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 480642,
+        "num": 480642,
+        "word": "麦琳不是第一次提离婚了",
+        "onboard_time": 1731666139,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430814,
+        "num": 430814,
+        "word": "三胎宝妈在月子会所充55万成股东",
+        "onboard_time": 1731661699,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307402,
+        "num": 307402,
+        "word": "女生不喝奶茶却查出糖尿病无法接受",
+        "onboard_time": 1731656060,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326631,
+        "num": 307103,
+        "word": "王一博范丞丞金鸡红毯生图",
+        "onboard_time": 1731662478,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299858,
+        "num": 299858,
+        "word": "网曝海马体一试衣间天花板装有监控",
+        "onboard_time": 1731664818,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230810,
+        "num": 230810,
+        "word": "大学生300元抢6399元九号电车提车被拒",
+        "onboard_time": 1731635718,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19700,
+        "num": 230043,
+        "word": "真实的情感经不起镜头的极度放大",
+        "onboard_time": 1731667879,
+        "rank": 9,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 1569745,
+        "num": 229423,
+        "word": "祝绪丹回应与丁禹兮关系",
+        "onboard_time": 1731666619,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1256951,
+        "num": 228468,
+        "word": "外卖员吐槽尽量不要点黄焖鸡",
+        "onboard_time": 1731667219,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93646,
+        "num": 227778,
+        "word": "涵艺怒喷Doinb",
+        "onboard_time": 1731669199,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53912,
+        "num": 226482,
+        "word": "再见爱人让全职太太的典型困境被看见",
+        "onboard_time": 1731668959,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25618,
+        "num": 226001,
+        "word": "过年惊艳亲戚现在减肥来得及么",
+        "onboard_time": 1731668419,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 817713,
+        "num": 224966,
+        "word": "男教师被指猥亵指认现场翻窗坠亡",
+        "onboard_time": 1731665958,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61303,
+        "num": 224508,
+        "word": "国足今晚就开练",
+        "onboard_time": 1731668480,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697212,
+        "num": 223286,
+        "word": "祝绪丹 谁刷的毛蛋媳妇",
+        "onboard_time": 1731663558,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41010,
+        "num": 222756,
+        "word": "同花顺回应非法荐股被立案传闻",
+        "onboard_time": 1731668419,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17241,
+        "num": 221387,
+        "word": "3块驴打滚72元还难吃得要死",
+        "onboard_time": 1731668718,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24064,
+        "num": 221167,
+        "word": "赵一博参加保利美高梅博物馆开幕",
+        "onboard_time": 1731667159,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429924,
+        "num": 220330,
+        "word": "张云龙打球娜扎给他送水",
+        "onboard_time": 1731662060,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308601,
+        "num": 219349,
+        "word": "生理性喜欢的真实表现",
+        "onboard_time": 1731659659,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276958,
+        "num": 218444,
+        "word": "永夜星河",
+        "onboard_time": 1731664759,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257278,
+        "num": 217725,
+        "word": "王一博想咬指甲但忍住了",
+        "onboard_time": 1731664818,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216943,
+        "num": 216943,
+        "word": "永夜星河 女主戏份",
+        "onboard_time": 1731668839,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126799,
+        "num": 216467,
+        "word": "天舟八号瞄准23时13分发射",
+        "onboard_time": 1731666678,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231467,
+        "num": 213514,
+        "word": "林彦俊 韩国教中文",
+        "onboard_time": 1731653958,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19579,
+        "num": 211773,
+        "word": "女本位电影上桌了",
+        "onboard_time": 1731668239,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23130,
+        "num": 208473,
+        "word": "他们的报告充满力量",
+        "onboard_time": 1731669020,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207180,
+        "num": 207180,
+        "word": "男子与爱宠亲亲被咬掉半拉嘴唇",
+        "onboard_time": 1731667279,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187964,
+        "num": 187964,
+        "word": "蔡徐坤上海活动人气",
+        "onboard_time": 1731667640,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183919,
+        "num": 183919,
+        "word": "葛夕 送礼教科书",
+        "onboard_time": 1731668359,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11992,
+        "num": 180309,
+        "word": "高海宁新剧又飒起来了",
+        "onboard_time": 1731663618,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179691,
+        "num": 179691,
+        "word": "唐砖2 换人",
+        "onboard_time": 1731662899,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164931,
+        "num": 164931,
+        "word": "ILLIT对Newjeans事件的看法",
+        "onboard_time": 1731666019,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161331,
+        "num": 161331,
+        "word": "李行亮坚定选择不离婚",
+        "onboard_time": 1731669020,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6578,
+        "num": 160208,
+        "word": "上戏课堂偶遇林更新",
+        "onboard_time": 1731669379,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159149,
+        "num": 159149,
+        "word": "国企回应运营总监为中学学历",
+        "onboard_time": 1731666560,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153062,
+        "num": 153062,
+        "word": "马嘉祺单人直播",
+        "onboard_time": 1731661218,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148470,
+        "num": 148470,
+        "word": "周雨彤 田嘉瑞是妇女之友",
+        "onboard_time": 1731663979,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 148264,
+        "word": "沙特官员辟谣来珠海航展只为扫货",
+        "onboard_time": 1731650899,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 146476,
+        "num": 146476,
+        "word": "王昶中国体育代表团报告会plog",
+        "onboard_time": 1731664818,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118304,
+        "num": 118304,
+        "word": "iPhone16和15Pro谁更值",
+        "onboard_time": 1731661218,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117700,
+        "num": 117700,
+        "word": "两警员玩忽职守被定罪免罚",
+        "onboard_time": 1731664759,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116839,
+        "num": 116839,
+        "word": "逆水寒",
+        "onboard_time": 1731667460,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116821,
+        "num": 116821,
+        "word": "女子吃了三年牛黄解毒片后砒霜中毒",
+        "onboard_time": 1731662298,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116605,
+        "num": 116605,
+        "word": "下一战歌手",
+        "onboard_time": 1731669438,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116166,
+        "num": 116166,
+        "word": "海马体称试衣间天花板监控已拆除",
+        "onboard_time": 1731668118,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114440,
+        "num": 114440,
+        "word": "白夜追凶七年后全员重聚的含金量",
+        "onboard_time": 1731663199,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秘友谊源远流长友好深入人心#"
+    }
+  }
+}
