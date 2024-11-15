@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731706613356,
+  "endTime": 1731709433650,
   "band_list": [
     {
       "raw_hot": 1423536,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182497,
+      "num": 50768,
+      "word": "祝绪丹一次直播漏个大的",
+      "onboard_time": 1731704892,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175464,
       "num": 195895,
       "word": "青岛一建筑突发爆炸",
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103522,
+      "num": 103522,
+      "word": "记者采访被袭中铁七局5人就地免职",
+      "onboard_time": 1731693554,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 102284,
       "num": 102284,
       "word": "印尼0比4日本",
@@ -313,14 +329,6 @@
       "onboard_time": 1731685939,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 90965,
-      "num": 90965,
-      "word": "记者采访被袭中铁七局5人就地免职",
-      "onboard_time": 1731693554,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 88228,
@@ -393,14 +401,6 @@
       "onboard_time": 1731692713,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82164,
-      "num": 33399,
-      "word": "祝绪丹一次直播漏个大的",
-      "onboard_time": 1731704892,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 79946,
@@ -483,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53470,
+      "num": 53470,
+      "word": "16万元的婚宴菜不热能索赔吗",
+      "onboard_time": 1731702791,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 41144,
       "num": 41144,
       "word": "小巷人家",
       "onboard_time": 1731672737,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40671,
-      "num": 40671,
-      "word": "16万元的婚宴菜不热能索赔吗",
-      "onboard_time": 1731702791,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 39735,
@@ -507,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38146,
+      "num": 38146,
+      "word": "徐克射雕重点在襄阳保卫战",
+      "onboard_time": 1731693554,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37481,
       "num": 37481,
       "word": "金俊秀说被折磨5年",
@@ -515,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34208,
-      "num": 35127,
-      "word": "徐克射雕重点在襄阳保卫战",
-      "onboard_time": 1731693554,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 35002,
+      "num": 35002,
+      "word": "章丘一动物园给黑猩猩吃大葱",
+      "onboard_time": 1731706450,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32608,
@@ -547,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27161,
+      "num": 27161,
+      "word": "男子夜驾撞飞两头野猪被判全责",
+      "onboard_time": 1731706091,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26858,
+      "num": 32308,
+      "word": "王安宇 破碎小狗",
+      "onboard_time": 1731704831,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26780,
       "num": 40628,
       "word": "李在明被判有期徒刑1年",
@@ -561,6 +585,14 @@
       "onboard_time": 1731697572,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23166,
+      "num": 26966,
+      "word": "李子柒拜非遗蓝印花布传人王振兴为师",
+      "onboard_time": 1731704470,
+      "rank": 40,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 21672,
@@ -587,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16334,
-      "num": 16334,
-      "word": "王安宇 破碎小狗",
-      "onboard_time": 1731704831,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16031,
       "num": 32572,
       "word": "又到了一年一度顺其自然捐款时刻",
@@ -603,12 +627,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 15979,
-      "num": 15979,
-      "word": "李子柒拜非遗蓝印花布传人王振兴为师",
-      "onboard_time": 1731704470,
-      "rank": 40,
-      "category": "美食,网红"
+      "raw_hot": 15447,
+      "num": 35114,
+      "word": "嫦娥六号月球样品研究最新进展",
+      "onboard_time": 1731707831,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14299,
@@ -635,22 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13200,
-      "num": 15979,
-      "word": "男子夜驾撞飞两头野猪被判全责",
-      "onboard_time": 1731706091,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11817,
-      "num": 21542,
-      "word": "章丘一动物园给黑猩猩吃大葱",
-      "onboard_time": 1731706450,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11723,
       "num": 27854,
       "word": "大冰助麦子阿姨往南走委托朋友护送",
@@ -665,6 +673,14 @@
       "onboard_time": 1731690256,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10642,
+      "num": 35230,
+      "word": "空间站蛇年春节年货派送中",
+      "onboard_time": 1731702370,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10613,
