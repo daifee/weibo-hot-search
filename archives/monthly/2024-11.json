@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731641791476,
+  "endTime": 1731642455272,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1579,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1541959,
+      "num": 1541959,
+      "word": "31省份平均工资",
+      "onboard_time": 1731638658,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1541569,
       "num": 331014,
       "word": "特朗普在堕胎权上的立场备受争议",
@@ -2153,14 +2161,6 @@
       "onboard_time": 1731160339,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1345123,
-      "num": 1345123,
-      "word": "31省份平均工资",
-      "onboard_time": 1731638658,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 1343014,
@@ -4779,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 814877,
+      "num": 526768,
+      "word": "TFBOYS古装",
+      "onboard_time": 1731637339,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 814633,
       "num": 814633,
       "word": "LadyGaga",
@@ -5179,14 +5187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 760345,
-      "num": 526768,
-      "word": "TFBOYS古装",
-      "onboard_time": 1731637339,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 760222,
       "num": 760222,
       "word": "余承东称史上最强大的Mate11月见",
@@ -5497,6 +5497,14 @@
       "onboard_time": 1730622257,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 726263,
+      "num": 387015,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1731632061,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 723826,
@@ -6129,14 +6137,6 @@
       "onboard_time": 1731144019,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 662004,
-      "num": 387015,
-      "word": "李行亮 麦琳",
-      "onboard_time": 1731632061,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 661802,
@@ -10155,6 +10155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435896,
+      "num": 317003,
+      "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
+      "onboard_time": 1731641659,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435685,
       "num": 435685,
       "word": "王楚钦户上隼辅交手战绩",
@@ -12299,6 +12307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350702,
+      "num": 350702,
+      "word": "肖战首部春节档电影",
+      "onboard_time": 1731641659,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350599,
       "num": 350599,
       "word": "郑钦文1比0克雷吉茨科娃",
@@ -12875,14 +12891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332852,
-      "num": 317003,
-      "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
-      "onboard_time": 1731641659,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332299,
       "num": 280383,
       "word": "虞书欣北海",
@@ -13201,6 +13209,14 @@
       "onboard_time": 1730545398,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323323,
+      "num": 323323,
+      "word": "洪承汉将solo",
+      "onboard_time": 1731641659,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 322798,
@@ -15448,14 +15464,6 @@
       "word": "易烊千玺用半年时间才走出角色",
       "onboard_time": 1731050959,
       "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 265628,
-      "num": 265628,
-      "word": "肖战首部春节档电影",
-      "onboard_time": 1731641659,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -18035,6 +18043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220556,
+      "num": 220556,
+      "word": "建议大家一定要远离恋爱式友情",
+      "onboard_time": 1731641659,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220534,
       "num": 220534,
       "word": "唐九洲 黄子弘凡不在都没人哭",
@@ -20059,14 +20075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201899,
-      "num": 215194,
-      "word": "洪承汉将solo",
-      "onboard_time": 1731641659,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201834,
       "num": 201834,
       "word": "易烊千玺东京机场路透",
@@ -20841,6 +20849,14 @@
       "onboard_time": 1730701879,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196935,
+      "num": 196935,
+      "word": "反诈老陈称当年辞职太冲动",
+      "onboard_time": 1731642079,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196930,
@@ -24075,6 +24091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173564,
+      "num": 237183,
+      "word": "国足连夜回国",
+      "onboard_time": 1731638960,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173505,
       "num": 173505,
       "word": "图书馆三十秒文学",
@@ -25587,6 +25611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164321,
+      "num": 289020,
+      "word": "湖南十八洞村等入选最佳旅游乡村",
+      "onboard_time": 1731638059,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164306,
       "num": 164306,
       "word": "张雨绮男友",
@@ -25641,6 +25673,14 @@
       "onboard_time": 1731639739,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163860,
+      "num": 299882,
+      "word": "祝绪丹对虞书欣的初印象",
+      "onboard_time": 1731641419,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 163738,
@@ -26825,14 +26865,6 @@
       "onboard_time": 1731200839,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 156623,
-      "num": 156623,
-      "word": "建议大家一定要远离恋爱式友情",
-      "onboard_time": 1731641659,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 156515,
@@ -28137,14 +28169,6 @@
       "onboard_time": 1731561561,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149533,
-      "num": 289020,
-      "word": "湖南十八洞村等入选最佳旅游乡村",
-      "onboard_time": 1731638059,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149531,
@@ -33323,6 +33347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114706,
+      "num": 114706,
+      "word": "丫丫躲起来吃笋笋",
+      "onboard_time": 1731640998,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114615,
       "num": 114615,
       "word": "失笑开播",
@@ -33577,6 +33609,14 @@
       "onboard_time": 1731239238,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112703,
+      "num": 112703,
+      "word": "意总统告诫马斯克",
+      "onboard_time": 1731642261,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112494,
@@ -34947,6 +34987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101100,
+      "num": 434091,
+      "word": "女子找民间神医扎针后死亡",
+      "onboard_time": 1731640340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100907,
       "num": 343798,
       "word": "何浩楠进村视频",
@@ -35361,14 +35409,6 @@
       "onboard_time": 1730543839,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96634,
-      "num": 279387,
-      "word": "祝绪丹对虞书欣的初印象",
-      "onboard_time": 1731641419,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 96430,
@@ -36233,14 +36273,6 @@
       "onboard_time": 1730916612,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84237,
-      "num": 434091,
-      "word": "女子找民间神医扎针后死亡",
-      "onboard_time": 1731640340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84230,
@@ -38153,6 +38185,14 @@
       "onboard_time": 1731317240,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62853,
+      "num": 327033,
+      "word": "45岁妻子与23岁丈夫互称遭家暴",
+      "onboard_time": 1731640699,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62651,
@@ -41331,14 +41371,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 38974,
-      "num": 327033,
-      "word": "45岁妻子与23岁丈夫互称遭家暴",
-      "onboard_time": 1731640699,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38962,
       "num": 38962,
       "word": "中国空军将同时装备两款隐身战机",
@@ -42945,14 +42977,6 @@
       "onboard_time": 1731405443,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 31423,
-      "num": 237183,
-      "word": "国足连夜回国",
-      "onboard_time": 1731638960,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 31357,
@@ -47954,6 +47978,9 @@
     },
     {
       "word": "#中秘元首共同见证钱凯港开港仪式#"
+    },
+    {
+      "word": "#中国和秘鲁友谊源远流长#"
     }
   ]
 }

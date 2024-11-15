@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731641791476,
+  "endTime": 1731642455272,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1541959,
+      "num": 1541959,
+      "word": "31省份平均工资",
+      "onboard_time": 1731638658,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1541569,
       "num": 331014,
       "word": "特朗普在堕胎权上的立场备受争议",
@@ -657,14 +665,6 @@
       "onboard_time": 1731564202,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1345123,
-      "num": 1345123,
-      "word": "31省份平均工资",
-      "onboard_time": 1731638658,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 1340537,
@@ -1539,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814877,
+      "num": 526768,
+      "word": "TFBOYS古装",
+      "onboard_time": 1731637339,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 814281,
       "num": 574696,
       "word": "翁青雅 彭高",
@@ -1691,14 +1699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 760345,
-      "num": 526768,
-      "word": "TFBOYS古装",
-      "onboard_time": 1731637339,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 758855,
       "num": 758855,
       "word": "永夜星河 老婆真牛",
@@ -1832,6 +1832,14 @@
       "word": "花少7是回归季",
       "onboard_time": 1731412644,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 726263,
+      "num": 387015,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1731632061,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -2041,14 +2049,6 @@
       "onboard_time": 1731221780,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662004,
-      "num": 387015,
-      "word": "李行亮 麦琳",
-      "onboard_time": 1731632061,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 658240,
@@ -3571,6 +3571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435896,
+      "num": 317003,
+      "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
+      "onboard_time": 1731641659,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434521,
       "num": 434521,
       "word": "杨幂机场",
@@ -4379,6 +4387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350702,
+      "num": 350702,
+      "word": "肖战首部春节档电影",
+      "onboard_time": 1731641659,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349484,
       "num": 329101,
       "word": "范志毅说国足你慌个啥啊",
@@ -4571,14 +4587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332852,
-      "num": 317003,
-      "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
-      "onboard_time": 1731641659,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332299,
       "num": 280383,
       "word": "虞书欣北海",
@@ -4697,6 +4705,14 @@
       "onboard_time": 1731479120,
       "rank": 32,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 323323,
+      "num": 323323,
+      "word": "洪承汉将solo",
+      "onboard_time": 1731641659,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 322074,
@@ -5529,14 +5545,6 @@
       "onboard_time": 1731237319,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 265628,
-      "num": 265628,
-      "word": "肖战首部春节档电影",
-      "onboard_time": 1731641659,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 265277,
@@ -6683,6 +6691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220556,
+      "num": 220556,
+      "word": "建议大家一定要远离恋爱式友情",
+      "onboard_time": 1731641659,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220225,
       "num": 194755,
       "word": "特朗普提名多人出任重要职位",
@@ -7475,14 +7491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201899,
-      "num": 215194,
-      "word": "洪承汉将solo",
-      "onboard_time": 1731641659,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201815,
       "num": 285080,
       "word": "恋与深空总榜再次登顶送二十连",
@@ -7785,6 +7793,14 @@
       "onboard_time": 1731587241,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196935,
+      "num": 196935,
+      "word": "反诈老陈称当年辞职太冲动",
+      "onboard_time": 1731642079,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196847,
@@ -9067,6 +9083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173564,
+      "num": 237183,
+      "word": "国足连夜回国",
+      "onboard_time": 1731638960,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173475,
       "num": 194867,
       "word": "林一回应沈月",
@@ -9731,6 +9755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164321,
+      "num": 289020,
+      "word": "湖南十八洞村等入选最佳旅游乡村",
+      "onboard_time": 1731638059,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164178,
       "num": 295736,
       "word": "时代少年团给娜扎写热搜",
@@ -9753,6 +9785,14 @@
       "onboard_time": 1731639739,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163860,
+      "num": 299882,
+      "word": "祝绪丹对虞书欣的初印象",
+      "onboard_time": 1731641419,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 163685,
@@ -10241,14 +10281,6 @@
       "onboard_time": 1731200839,
       "rank": 27,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 156623,
-      "num": 156623,
-      "word": "建议大家一定要远离恋爱式友情",
-      "onboard_time": 1731641659,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 156429,
@@ -10833,14 +10865,6 @@
       "onboard_time": 1731561561,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149533,
-      "num": 289020,
-      "word": "湖南十八洞村等入选最佳旅游乡村",
-      "onboard_time": 1731638059,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149531,
@@ -12739,6 +12763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114706,
+      "num": 114706,
+      "word": "丫丫躲起来吃笋笋",
+      "onboard_time": 1731640998,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114637,
       "num": 114637,
       "word": "老舅鹿晗演唱会给陈赫庆生",
@@ -12833,6 +12865,14 @@
       "onboard_time": 1731239238,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112703,
+      "num": 112703,
+      "word": "意总统告诫马斯克",
+      "onboard_time": 1731642261,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112133,
@@ -13371,6 +13411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101100,
+      "num": 434091,
+      "word": "女子找民间神医扎针后死亡",
+      "onboard_time": 1731640340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100907,
       "num": 343798,
       "word": "何浩楠进村视频",
@@ -13497,14 +13545,6 @@
       "onboard_time": 1731410907,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96634,
-      "num": 279387,
-      "word": "祝绪丹对虞书欣的初印象",
-      "onboard_time": 1731641419,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 96279,
@@ -13832,14 +13872,6 @@
       "word": "地铁里遇到导盲犬这一刻心都化了",
       "onboard_time": 1731511400,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84237,
-      "num": 434091,
-      "word": "女子找民间神医扎针后死亡",
-      "onboard_time": 1731640340,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -14785,6 +14817,14 @@
       "onboard_time": 1731317240,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62853,
+      "num": 327033,
+      "word": "45岁妻子与23岁丈夫互称遭家暴",
+      "onboard_time": 1731640699,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62651,
@@ -16283,14 +16323,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 38974,
-      "num": 327033,
-      "word": "45岁妻子与23岁丈夫互称遭家暴",
-      "onboard_time": 1731640699,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38955,
       "num": 944755,
       "word": "七张图带你了解秘鲁",
@@ -17001,14 +17033,6 @@
       "onboard_time": 1731405443,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 31423,
-      "num": 237183,
-      "word": "国足连夜回国",
-      "onboard_time": 1731638960,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 31357,
@@ -19340,6 +19364,9 @@
     },
     {
       "word": "#中秘元首共同见证钱凯港开港仪式#"
+    },
+    {
+      "word": "#中国和秘鲁友谊源远流长#"
     }
   ]
 }

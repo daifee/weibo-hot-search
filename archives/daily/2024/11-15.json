@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731641791476,
+  "endTime": 1731642455272,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1345123,
-      "num": 1345123,
+      "raw_hot": 1541959,
+      "num": 1541959,
       "word": "31省份平均工资",
       "onboard_time": 1731638658,
       "rank": 24,
@@ -99,6 +99,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 814877,
+      "num": 526768,
+      "word": "TFBOYS古装",
+      "onboard_time": 1731637339,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 774519,
       "num": 774519,
       "word": "射雕英雄传侠之大者定档",
@@ -107,20 +115,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 760345,
-      "num": 526768,
-      "word": "TFBOYS古装",
-      "onboard_time": 1731637339,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 737866,
       "num": 449623,
       "word": "武磊怒赞张玉宁",
       "onboard_time": 1731602056,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 726263,
+      "num": 387015,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1731632061,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 688106,
@@ -145,14 +153,6 @@
       "onboard_time": 1731599840,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 662004,
-      "num": 387015,
-      "word": "李行亮 麦琳",
-      "onboard_time": 1731632061,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 641931,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 435896,
+      "num": 317003,
+      "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
+      "onboard_time": 1731641659,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430778,
       "num": 197632,
       "word": "镇政府回应19岁男孩辍学打工照顾妹妹",
@@ -315,6 +323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 350702,
+      "num": 350702,
+      "word": "肖战首部春节档电影",
+      "onboard_time": 1731641659,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349484,
       "num": 329101,
       "word": "范志毅说国足你慌个啥啊",
@@ -331,20 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332852,
-      "num": 317003,
-      "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
-      "onboard_time": 1731641659,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332299,
       "num": 280383,
       "word": "虞书欣北海",
       "onboard_time": 1731630259,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323323,
+      "num": 323323,
+      "word": "洪承汉将solo",
+      "onboard_time": 1731641659,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 320847,
@@ -427,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265628,
-      "num": 265628,
-      "word": "肖战首部春节档电影",
-      "onboard_time": 1731641659,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 257485,
       "num": 257485,
       "word": "巴基斯坦小伙来中国震惊于凌晨有饭吃",
@@ -507,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220556,
+      "num": 220556,
+      "word": "建议大家一定要远离恋爱式友情",
+      "onboard_time": 1731641659,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212035,
       "num": 278771,
       "word": "被山海经的相柳转场震撼到",
@@ -523,20 +539,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 201899,
-      "num": 215194,
-      "word": "洪承汉将solo",
-      "onboard_time": 1731641659,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 198000,
       "num": 280429,
       "word": "下一战歌手歌单",
       "onboard_time": 1731638479,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196935,
+      "num": 196935,
+      "word": "反诈老陈称当年辞职太冲动",
+      "onboard_time": 1731642079,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196459,
@@ -619,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173564,
+      "num": 237183,
+      "word": "国足连夜回国",
+      "onboard_time": 1731638960,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172939,
       "num": 544949,
       "word": "中国新增7个世界最佳旅游乡村",
@@ -667,12 +691,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164321,
+      "num": 289020,
+      "word": "湖南十八洞村等入选最佳旅游乡村",
+      "onboard_time": 1731638059,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163861,
       "num": 328390,
       "word": "山东单亲妈妈带2娃住烂尾楼",
       "onboard_time": 1731639739,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163860,
+      "num": 299882,
+      "word": "祝绪丹对虞书欣的初印象",
+      "onboard_time": 1731641419,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 163281,
@@ -707,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156623,
-      "num": 156623,
-      "word": "建议大家一定要远离恋爱式友情",
-      "onboard_time": 1731641659,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155470,
       "num": 155470,
       "word": "践踏舆论监督要为此付出代价",
@@ -729,14 +761,6 @@
       "onboard_time": 1731632241,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149533,
-      "num": 289020,
-      "word": "湖南十八洞村等入选最佳旅游乡村",
-      "onboard_time": 1731638059,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147859,
@@ -963,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114706,
+      "num": 114706,
+      "word": "丫丫躲起来吃笋笋",
+      "onboard_time": 1731640998,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113381,
       "num": 113381,
       "word": "南天门计划的白帝概念战机模型来了",
@@ -985,6 +1017,14 @@
       "onboard_time": 1731631220,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112703,
+      "num": 112703,
+      "word": "意总统告诫马斯克",
+      "onboard_time": 1731642261,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112008,
@@ -1043,20 +1083,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101100,
+      "num": 434091,
+      "word": "女子找民间神医扎针后死亡",
+      "onboard_time": 1731640340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100674,
       "num": 100674,
       "word": "国足1比0战胜巴林队",
       "onboard_time": 1731601698,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96634,
-      "num": 279387,
-      "word": "祝绪丹对虞书欣的初印象",
-      "onboard_time": 1731641419,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 88565,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1731634338,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84237,
-      "num": 434091,
-      "word": "女子找民间神医扎针后死亡",
-      "onboard_time": 1731640340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77225,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1731638359,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62853,
+      "num": 327033,
+      "word": "45岁妻子与23岁丈夫互称遭家暴",
+      "onboard_time": 1731640699,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61400,
@@ -1235,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38974,
-      "num": 327033,
-      "word": "45岁妻子与23岁丈夫互称遭家暴",
-      "onboard_time": 1731640699,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36807,
       "num": 410360,
       "word": "12分钟带你重新认识拉美",
@@ -1273,14 +1305,6 @@
       "onboard_time": 1731639918,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31423,
-      "num": 237183,
-      "word": "国足连夜回国",
-      "onboard_time": 1731638960,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 31357,
@@ -1583,6 +1607,9 @@
     },
     {
       "word": "#中秘元首共同见证钱凯港开港仪式#"
+    },
+    {
+      "word": "#中国和秘鲁友谊源远流长#"
     }
   ]
 }
