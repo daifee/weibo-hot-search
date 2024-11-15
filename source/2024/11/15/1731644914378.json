@@ -1,0 +1,410 @@
+{
+  "runTime": 1731644914378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1407640,
+        "num": 1407640,
+        "word": "反诈老陈称当年辞职太冲动",
+        "onboard_time": 1731642079,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1334800,
+        "num": 1334800,
+        "word": "31省份平均工资",
+        "onboard_time": 1731638658,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26629,
+        "num": 942887,
+        "word": "秘鲁接机女孩说我爱你中国",
+        "onboard_time": 1731639918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702413,
+        "num": 702413,
+        "word": "大学生300元抢6399元九号电车提车被拒",
+        "onboard_time": 1731635718,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642516,
+        "num": 642516,
+        "word": "华为Mate70",
+        "onboard_time": 1731642680,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 429602,
+        "num": 429602,
+        "word": "肖战首部春节档电影",
+        "onboard_time": 1731641659,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411875,
+        "num": 411875,
+        "word": "除夕不用请假了你打算回家还是旅游",
+        "onboard_time": 1731616390,
+        "rank": 6,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 273612,
+        "num": 273612,
+        "word": "云归喜事开机",
+        "onboard_time": 1731638598,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265980,
+        "num": 265980,
+        "word": "中国新增7个世界最佳旅游乡村",
+        "onboard_time": 1731639798,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108233,
+        "num": 263892,
+        "word": "养老问题成了海外独生子最深的痛",
+        "onboard_time": 1731643819,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 591846,
+        "num": 263292,
+        "word": "145斤女生减重35斤撞脸王祖贤",
+        "onboard_time": 1731637818,
+        "rank": 10,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 262534,
+        "num": 262534,
+        "word": "肖战骑马训练花絮",
+        "onboard_time": 1731643461,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252411,
+        "num": 252411,
+        "word": "丁禹兮录团综染发了",
+        "onboard_time": 1731635117,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244143,
+        "num": 244143,
+        "word": "射雕英雄传侠之大者定档",
+        "onboard_time": 1731637339,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32442,
+        "num": 243953,
+        "word": "成都一青少年机构疑似卷款千万跑路",
+        "onboard_time": 1731643579,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95475,
+        "num": 243518,
+        "word": "洪承汉开通官方ins",
+        "onboard_time": 1731643520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191583,
+        "num": 242660,
+        "word": "原著作者谈永夜星河",
+        "onboard_time": 1731644060,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147777,
+        "num": 242511,
+        "word": "国足vs日本门票全网售罄",
+        "onboard_time": 1731643941,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25095,
+        "num": 241819,
+        "word": "极氪端到端Plus上车",
+        "onboard_time": 1731642501,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 515163,
+        "num": 241127,
+        "word": "TFBOYS古装",
+        "onboard_time": 1731637339,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 692222,
+        "num": 240452,
+        "word": "李子柒说奶奶不知道她有多火",
+        "onboard_time": 1731637400,
+        "rank": 20,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 390291,
+        "num": 240201,
+        "word": "男婴在月子中心肚子肿胀送医后离世",
+        "onboard_time": 1731629839,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389235,
+        "num": 239412,
+        "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
+        "onboard_time": 1731641659,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306523,
+        "num": 239085,
+        "word": "建议大家一定要远离恋爱式友情",
+        "onboard_time": 1731641659,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276267,
+        "num": 238752,
+        "word": "戴萌与丝芭解约",
+        "onboard_time": 1731640160,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238318,
+        "num": 238318,
+        "word": "宁波顺其自然又捐款109万元",
+        "onboard_time": 1731643881,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 234616,
+        "num": 234616,
+        "word": "妙妙子期抢买单这段笑崩溃了",
+        "onboard_time": 1731643520,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224335,
+        "num": 232757,
+        "word": "洪承汉将solo",
+        "onboard_time": 1731641659,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231110,
+        "num": 231110,
+        "word": "迈巴赫漏水事件解决方案",
+        "onboard_time": 1731634880,
+        "rank": 28,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 48435,
+        "num": 220377,
+        "word": "电影胜券在握今日上映",
+        "onboard_time": 1731644662,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218340,
+        "num": 218340,
+        "word": "射雕春节档历史首部武侠电影",
+        "onboard_time": 1731644000,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375915,
+        "num": 217500,
+        "word": "劳斯莱斯车主已走保险理赔",
+        "onboard_time": 1731632359,
+        "rank": 31,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 214474,
+        "num": 214474,
+        "word": "王者荣耀 柯南",
+        "onboard_time": 1731633260,
+        "rank": 32,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 208920,
+        "num": 208920,
+        "word": "金价连跌5天创两月新低",
+        "onboard_time": 1731635539,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95046,
+        "num": 207665,
+        "word": "陈都灵冬日雪精灵大片",
+        "onboard_time": 1731642800,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1043397,
+        "num": 207611,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1731632061,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207519,
+        "num": 207519,
+        "word": "徐克执导的金庸射雕和春节好适配",
+        "onboard_time": 1731643819,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 193219,
+        "word": "黄圣依四年前vs四年后",
+        "onboard_time": 1731640578,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188803,
+        "num": 188803,
+        "word": "雨霖铃首发剧照",
+        "onboard_time": 1731644480,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187647,
+        "num": 187647,
+        "word": "男子骑车撞上供热管道身亡",
+        "onboard_time": 1731637221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185815,
+        "num": 185815,
+        "word": "45岁妻子与23岁丈夫互称遭家暴",
+        "onboard_time": 1731640699,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179198,
+        "num": 179198,
+        "word": "葛夕冷脸洗内裤",
+        "onboard_time": 1731644720,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176886,
+        "num": 176886,
+        "word": "断糖60天面部的变化",
+        "onboard_time": 1731627017,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175680,
+        "num": 175680,
+        "word": "山东单亲妈妈带2娃住烂尾楼",
+        "onboard_time": 1731639739,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167731,
+        "num": 167731,
+        "word": "巴基斯坦小伙来中国震惊于凌晨有饭吃",
+        "onboard_time": 1731638298,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158457,
+        "num": 158457,
+        "word": "余承东称Mate70将在26号发布",
+        "onboard_time": 1731643040,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156840,
+        "num": 156840,
+        "word": "电影院是救了胡冰卿的命吗",
+        "onboard_time": 1731630800,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151627,
+        "num": 151627,
+        "word": "国足连夜回国",
+        "onboard_time": 1731638960,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142851,
+        "num": 142851,
+        "word": "丁禹兮 凝眸",
+        "onboard_time": 1731638837,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 142706,
+        "word": "奔跑吧团建拍了拍自己",
+        "onboard_time": 1731644781,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和秘鲁友谊源远流长#"
+    }
+  }
+}

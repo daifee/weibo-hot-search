@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731642455272,
+  "endTime": 1731644914378,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -531,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1407640,
+      "num": 1407640,
+      "word": "反诈老陈称当年辞职太冲动",
+      "onboard_time": 1731642079,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1402414,
       "num": 468316,
       "word": "被晓华爆改成易烊千玺男生发声",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1731250400,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1043397,
+      "num": 387015,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1731632061,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1040313,
@@ -1835,14 +1851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 726263,
-      "num": 387015,
-      "word": "李行亮 麦琳",
-      "onboard_time": 1731632061,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 723826,
       "num": 438575,
       "word": "特朗普不邀请黑利和蓬佩奥加入其政府",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1731318619,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642516,
+      "num": 642516,
+      "word": "华为Mate70",
+      "onboard_time": 1731642680,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 641931,
@@ -3635,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 429602,
+      "num": 429602,
+      "word": "肖战首部春节档电影",
+      "onboard_time": 1731641659,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 428754,
       "num": 428754,
       "word": "微念称与李子柒的案件已完全和解",
@@ -4387,14 +4411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 350702,
-      "num": 350702,
-      "word": "肖战首部春节档电影",
-      "onboard_time": 1731641659,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 349484,
       "num": 329101,
       "word": "范志毅说国足你慌个啥啊",
@@ -4873,6 +4889,14 @@
       "onboard_time": 1731462140,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306523,
+      "num": 239085,
+      "word": "建议大家一定要远离恋爱式友情",
+      "onboard_time": 1731641659,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 305815,
@@ -5531,6 +5555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265980,
+      "num": 544949,
+      "word": "中国新增7个世界最佳旅游乡村",
+      "onboard_time": 1731639798,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 265926,
       "num": 265926,
       "word": "黄圣依四年后vs四年后",
@@ -5585,6 +5617,14 @@
       "onboard_time": 1731219141,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262534,
+      "num": 262534,
+      "word": "肖战骑马训练花絮",
+      "onboard_time": 1731643461,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 262501,
@@ -6195,6 +6235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238318,
+      "num": 238318,
+      "word": "宁波顺其自然又捐款109万元",
+      "onboard_time": 1731643881,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 237328,
       "num": 237328,
       "word": "22岁大学生倒在雪山上",
@@ -6264,6 +6312,14 @@
       "word": "丁禹兮原声",
       "onboard_time": 1731419364,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234616,
+      "num": 234616,
+      "word": "妙妙子期抢买单这段笑崩溃了",
+      "onboard_time": 1731643520,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -6691,14 +6747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220556,
-      "num": 220556,
-      "word": "建议大家一定要远离恋爱式友情",
-      "onboard_time": 1731641659,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220225,
       "num": 194755,
       "word": "特朗普提名多人出任重要职位",
@@ -6753,6 +6801,14 @@
       "onboard_time": 1731486078,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218340,
+      "num": 218340,
+      "word": "射雕春节档历史首部武侠电影",
+      "onboard_time": 1731644000,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 218269,
@@ -7209,6 +7265,14 @@
       "onboard_time": 1731179652,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207519,
+      "num": 207519,
+      "word": "徐克执导的金庸射雕和春节好适配",
+      "onboard_time": 1731643819,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 207444,
@@ -7795,14 +7859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196935,
-      "num": 196935,
-      "word": "反诈老陈称当年辞职太冲动",
-      "onboard_time": 1731642079,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196847,
       "num": 196847,
       "word": "深潜收视率1.6",
@@ -8019,6 +8075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193219,
+      "num": 193219,
+      "word": "黄圣依四年前vs四年后",
+      "onboard_time": 1731640578,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193166,
       "num": 193166,
       "word": "永夜星河木镯子道歉",
@@ -8161,6 +8225,14 @@
       "onboard_time": 1731639378,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191583,
+      "num": 242660,
+      "word": "原著作者谈永夜星河",
+      "onboard_time": 1731644060,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 191372,
@@ -8315,6 +8387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188803,
+      "num": 188803,
+      "word": "雨霖铃首发剧照",
+      "onboard_time": 1731644480,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188486,
       "num": 188486,
       "word": "李子柒亲手缝的裙子被赞100分",
@@ -8433,6 +8513,14 @@
       "onboard_time": 1731299479,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185815,
+      "num": 327033,
+      "word": "45岁妻子与23岁丈夫互称遭家暴",
+      "onboard_time": 1731640699,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185486,
@@ -8803,6 +8891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179198,
+      "num": 179198,
+      "word": "葛夕冷脸洗内裤",
+      "onboard_time": 1731644720,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178645,
       "num": 178645,
       "word": "刘亦菲抹胸红裙路透",
@@ -8995,6 +9091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175680,
+      "num": 328390,
+      "word": "山东单亲妈妈带2娃住烂尾楼",
+      "onboard_time": 1731639739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175372,
       "num": 221456,
       "word": "严艺丹回应永夜星河BGM争议",
@@ -9153,14 +9257,6 @@
       "onboard_time": 1731222079,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172939,
-      "num": 544949,
-      "word": "中国新增7个世界最佳旅游乡村",
-      "onboard_time": 1731639798,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 172937,
@@ -9779,14 +9875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163861,
-      "num": 328390,
-      "word": "山东单亲妈妈带2娃住烂尾楼",
-      "onboard_time": 1731639739,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163860,
       "num": 299882,
       "word": "祝绪丹对虞书欣的初印象",
@@ -10153,6 +10241,14 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158457,
+      "num": 158457,
+      "word": "余承东称Mate70将在26号发布",
+      "onboard_time": 1731643040,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 158431,
@@ -10955,6 +11051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147777,
+      "num": 242511,
+      "word": "国足vs日本门票全网售罄",
+      "onboard_time": 1731643941,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147666,
       "num": 147666,
       "word": "校园招聘严禁限定92高校",
@@ -11201,6 +11305,14 @@
       "onboard_time": 1731496161,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142706,
+      "num": 142706,
+      "word": "奔跑吧团建拍了拍自己",
+      "onboard_time": 1731644781,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 142504,
@@ -13043,6 +13155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108233,
+      "num": 263892,
+      "word": "养老问题成了海外独生子最深的痛",
+      "onboard_time": 1731643819,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 108187,
       "num": 108187,
       "word": "需要一个这么有种的邻居",
@@ -13579,12 +13699,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95475,
+      "num": 243518,
+      "word": "洪承汉开通官方ins",
+      "onboard_time": 1731643520,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95060,
       "num": 95060,
       "word": "郑钦文立下新赛季目标",
       "onboard_time": 1731200598,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95046,
+      "num": 207665,
+      "word": "陈都灵冬日雪精灵大片",
+      "onboard_time": 1731642800,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 94921,
@@ -14819,14 +14955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62853,
-      "num": 327033,
-      "word": "45岁妻子与23岁丈夫互称遭家暴",
-      "onboard_time": 1731640699,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62651,
       "num": 213066,
       "word": "好团圆收官",
@@ -15681,6 +15809,14 @@
       "onboard_time": 1731574520,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48435,
+      "num": 220377,
+      "word": "电影胜券在握今日上映",
+      "onboard_time": 1731644662,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 48389,
@@ -16931,6 +17067,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 32442,
+      "num": 243953,
+      "word": "成都一青少年机构疑似卷款千万跑路",
+      "onboard_time": 1731643579,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32364,
       "num": 227203,
       "word": "俄直升机展台机模被观众围观",
@@ -16956,7 +17100,7 @@
     },
     {
       "raw_hot": 32084,
-      "num": 917355,
+      "num": 942887,
       "word": "秘鲁接机女孩说我爱你中国",
       "onboard_time": 1731639918,
       "rank": 2,
@@ -17681,6 +17825,14 @@
       "onboard_time": 1731382400,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25095,
+      "num": 241819,
+      "word": "极氪端到端Plus上车",
+      "onboard_time": 1731642501,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 25040,
