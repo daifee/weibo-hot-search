@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731678089762,
+  "endTime": 1731680505923,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -1163,6 +1163,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1017310,
+      "num": 1017310,
+      "word": "丁禹兮主持",
+      "onboard_time": 1731676579,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1015990,
       "num": 347224,
       "word": "葛夕冷脸洗内裤",
@@ -2227,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 667855,
+      "num": 667855,
+      "word": "张艺谋任达华女儿入围巴黎名媛舞会",
+      "onboard_time": 1731675800,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667155,
       "num": 344152,
       "word": "清华北航",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1731590361,
       "rank": 41,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 608196,
-      "num": 431268,
-      "word": "丁禹兮主持",
-      "onboard_time": 1731676579,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 606381,
@@ -3219,6 +3227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515714,
+      "num": 430967,
+      "word": "喻言 垫音",
+      "onboard_time": 1731677420,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514629,
       "num": 514629,
       "word": "俄立法禁止宣传不生孩子",
@@ -3337,6 +3353,14 @@
       "onboard_time": 1731382579,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502971,
+      "num": 389907,
+      "word": "秋瓷炫带儿子第一次在中国坐地铁",
+      "onboard_time": 1731678381,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 502044,
@@ -3475,14 +3499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489389,
-      "num": 321424,
-      "word": "张艺谋任达华女儿入围巴黎名媛舞会",
-      "onboard_time": 1731675800,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484898,
       "num": 484898,
       "word": "美43只雌猴逃出实验室或携带致命病毒",
@@ -3529,6 +3545,14 @@
       "onboard_time": 1731588201,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 479654,
+      "num": 385294,
+      "word": "涂毓麟 欢迎来到毓言的奇妙之旅",
+      "onboard_time": 1731678499,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 478146,
@@ -3601,6 +3625,14 @@
       "onboard_time": 1731512119,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471256,
+      "num": 381154,
+      "word": "京东物流已向警方报案",
+      "onboard_time": 1731676640,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 471173,
@@ -3913,6 +3945,14 @@
       "onboard_time": 1731299179,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 436799,
+      "num": 436799,
+      "word": "女子面试还没入职先欠2.5万元贷款",
+      "onboard_time": 1731675319,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436631,
@@ -5179,6 +5219,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 323756,
+      "num": 400846,
+      "word": "李在明获刑",
+      "onboard_time": 1731677840,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 323323,
       "num": 323323,
       "word": "洪承汉将solo",
@@ -6051,6 +6099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 266819,
+      "num": 241762,
+      "word": "妙妙慕声AI吻戏",
+      "onboard_time": 1731674719,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266802,
       "num": 266802,
       "word": "珠海近千架无人机致敬中国制造",
@@ -6393,6 +6449,14 @@
       "onboard_time": 1731156438,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 253504,
+      "num": 253504,
+      "word": "云南一司机卸货不慎连人带车滚下山崖",
+      "onboard_time": 1731676280,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252874,
@@ -8339,14 +8403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199706,
-      "num": 186925,
-      "word": "喻言 垫音",
-      "onboard_time": 1731677420,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199342,
       "num": 199342,
       "word": "栋哲筱婷好嗑",
@@ -8627,14 +8683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195818,
-      "num": 188801,
-      "word": "京东物流已向警方报案",
-      "onboard_time": 1731676640,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 195655,
       "num": 430456,
       "word": "歼35A表演首秀",
@@ -8681,6 +8729,14 @@
       "onboard_time": 1731392058,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194915,
+      "num": 236021,
+      "word": "邵子恒一公舞台",
+      "onboard_time": 1731679401,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 194768,
@@ -8907,6 +8963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192472,
+      "num": 414939,
+      "word": "官方调查中学生上台指责学校被带离",
+      "onboard_time": 1731676640,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 192447,
       "num": 192447,
       "word": "双11晚会 苹果香",
@@ -9051,14 +9115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190932,
-      "num": 206377,
-      "word": "女子面试还没入职先欠2.5万元贷款",
-      "onboard_time": 1731675319,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190848,
       "num": 300796,
       "word": "朱珠新剧短发造型",
@@ -9081,6 +9137,14 @@
       "onboard_time": 1731403345,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190413,
+      "num": 190413,
+      "word": "印尼vs日本",
+      "onboard_time": 1731676399,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 190210,
@@ -9505,14 +9569,6 @@
       "onboard_time": 1731572422,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183636,
-      "num": 183636,
-      "word": "印尼vs日本",
-      "onboard_time": 1731676399,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 183635,
@@ -10003,6 +10059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175329,
+      "num": 175329,
+      "word": "李子柒学缫丝1天睡两三个小时",
+      "onboard_time": 1731677900,
+      "rank": 39,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 175070,
       "num": 175070,
       "word": "Ning严以待人宽以待己",
@@ -10153,6 +10217,14 @@
       "onboard_time": 1731320000,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172961,
+      "num": 302130,
+      "word": "徐峥在耶鲁上课",
+      "onboard_time": 1731676939,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 172946,
@@ -10587,14 +10659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167331,
-      "num": 167331,
-      "word": "云南一司机卸货不慎连人带车滚下山崖",
-      "onboard_time": 1731676280,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167269,
       "num": 167269,
       "word": "勇士vs雷霆",
@@ -10769,6 +10833,14 @@
       "onboard_time": 1731669979,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164939,
+      "num": 164939,
+      "word": "天舟八号发射",
+      "onboard_time": 1731678320,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164901,
@@ -11441,6 +11513,14 @@
       "onboard_time": 1731393018,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 156811,
+      "num": 436225,
+      "word": "央视曝光网约车外挂作弊抢单",
+      "onboard_time": 1731676159,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 156798,
@@ -12155,6 +12235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149223,
+      "num": 149223,
+      "word": "凌妙妙29集恢复记忆了",
+      "onboard_time": 1731678320,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148834,
       "num": 398908,
       "word": "南天门计划白帝空天战机亮相航展",
@@ -12185,14 +12273,6 @@
       "onboard_time": 1731327859,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148087,
-      "num": 148087,
-      "word": "徐峥在耶鲁上课",
-      "onboard_time": 1731676939,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 148068,
@@ -12707,6 +12787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139643,
+      "num": 139643,
+      "word": "王子文把莫奈花园穿在身上",
+      "onboard_time": 1731678800,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139571,
       "num": 318337,
       "word": "郑钦文1比0高芙",
@@ -12971,14 +13059,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136106,
-      "num": 136106,
-      "word": "李子柒学缫丝1天睡两三个小时",
-      "onboard_time": 1731677900,
-      "rank": 39,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 136099,
       "num": 136099,
       "word": "李宏毅古装",
@@ -13033,6 +13113,14 @@
       "onboard_time": 1731198856,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134928,
+      "num": 134928,
+      "word": "永夜星河OST",
+      "onboard_time": 1731680001,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 134771,
@@ -13451,14 +13539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127240,
-      "num": 127240,
-      "word": "李在明获刑",
-      "onboard_time": 1731677840,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127146,
       "num": 357161,
       "word": "央视起底网络主播带货套路",
@@ -13753,6 +13833,14 @@
       "onboard_time": 1731676340,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123379,
+      "num": 123379,
+      "word": "关晓彤王安宇CP感",
+      "onboard_time": 1731680361,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 123233,
@@ -14795,6 +14883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104912,
+      "num": 104912,
+      "word": "央视曝光招工医美贷骗局",
+      "onboard_time": 1731680241,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104815,
       "num": 104815,
       "word": "白敬亭沈腾 牵牛花",
@@ -15443,6 +15539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88422,
+      "num": 195916,
+      "word": "Doinb队传奇杯首胜",
+      "onboard_time": 1731678920,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87990,
       "num": 289415,
       "word": "金价失守2600美元关口",
@@ -15489,6 +15593,14 @@
       "onboard_time": 1731596782,
       "rank": 17,
       "category": "艺人,军事"
+    },
+    {
+      "raw_hot": 86425,
+      "num": 86425,
+      "word": "我国首次在沙特发行20亿美元主权债券",
+      "onboard_time": 1731680421,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85536,
@@ -16699,14 +16811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61422,
-      "num": 414939,
-      "word": "官方调查中学生上台指责学校被带离",
-      "onboard_time": 1731676640,
-      "rank": 13,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 61400,
       "num": 61400,
       "word": "国足两连胜",
@@ -17299,14 +17403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52713,
-      "num": 436225,
-      "word": "央视曝光网约车外挂作弊抢单",
-      "onboard_time": 1731676159,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 52685,
       "num": 506775,
       "word": "女孩遭母亲男友殴打家长发声",
@@ -17785,6 +17881,14 @@
       "onboard_time": 1731582019,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45450,
+      "num": 190873,
+      "word": "星闪少年一公舞台",
+      "onboard_time": 1731679401,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 45348,
@@ -18267,6 +18371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39619,
+      "num": 230867,
+      "word": "马龙谈伟大运动员的品质",
+      "onboard_time": 1731679401,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39471,
       "num": 124771,
       "word": "黄健翔称国足一下子重新看到希望",
@@ -18473,6 +18585,14 @@
       "onboard_time": 1731576981,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37600,
+      "num": 403645,
+      "word": "浙江一农村靠养珍珠年销售达60亿",
+      "onboard_time": 1731679401,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 37561,
@@ -18969,6 +19089,14 @@
       "onboard_time": 1731410007,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32911,
+      "num": 695418,
+      "word": "秘鲁姑娘想在本国坐上中国高铁",
+      "onboard_time": 1731678440,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32817,
@@ -19609,6 +19737,14 @@
       "onboard_time": 1731204318,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27424,
+      "num": 378396,
+      "word": "律师解读电动车闯红灯被撞要负全责",
+      "onboard_time": 1731679639,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27412,
