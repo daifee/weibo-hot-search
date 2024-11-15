@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731712940311,
+  "endTime": 1731713792961,
   "band_list": [
     {
       "raw_hot": 1423536,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 637782,
-      "num": 792164,
+      "num": 901001,
       "word": "人被被子单杀可能性几乎但并不为零",
       "onboard_time": 1731686899,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507152,
+      "num": 166936,
+      "word": "祝绪丹一次直播漏个大的",
+      "onboard_time": 1731704892,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 451427,
@@ -65,14 +73,6 @@
       "onboard_time": 1731681440,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426754,
-      "num": 119763,
-      "word": "祝绪丹一次直播漏个大的",
-      "onboard_time": 1731704892,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 407725,
@@ -155,6 +155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246488,
+      "num": 246488,
+      "word": "记者采访被袭中铁七局5人就地免职",
+      "onboard_time": 1731693554,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 230230,
       "num": 230230,
       "word": "京东物流已向警方报案",
@@ -163,20 +171,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 228728,
-      "num": 228728,
-      "word": "记者采访被袭中铁七局5人就地免职",
-      "onboard_time": 1731693554,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 203310,
       "num": 203310,
       "word": "茉莉奶白道歉",
       "onboard_time": 1731687918,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200529,
+      "num": 166900,
+      "word": "成龙呼吁大家到电影院看电影",
+      "onboard_time": 1731712574,
+      "rank": 19,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 199855,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194353,
+      "num": 122305,
+      "word": "女子称将狗借给剧组当群演1年多未还",
+      "onboard_time": 1731712635,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186574,
       "num": 196187,
       "word": "永夜星河 女主戏份",
@@ -211,6 +227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171565,
+      "num": 171565,
+      "word": "16万元的婚宴菜不热能索赔吗",
+      "onboard_time": 1731702791,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 169500,
       "num": 169500,
       "word": "张艺谋女儿任达华女儿 巴黎名媛舞会",
@@ -219,11 +243,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163544,
-      "num": 78976,
-      "word": "女子称将狗借给剧组当群演1年多未还",
-      "onboard_time": 1731712635,
-      "rank": 21,
+      "raw_hot": 166875,
+      "num": 166875,
+      "word": "吴梦知从湖南卫视离职",
+      "onboard_time": 1731712814,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158623,
+      "num": 158623,
+      "word": "四川文旅出手全是王炸",
+      "onboard_time": 1731711793,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -235,16 +267,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144858,
-      "num": 144858,
-      "word": "16万元的婚宴菜不热能索赔吗",
-      "onboard_time": 1731702791,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 143095,
-      "num": 143095,
+      "num": 167053,
       "word": "李行亮坚定选择不离婚",
       "onboard_time": 1731669020,
       "rank": 26,
@@ -257,6 +281,14 @@
       "onboard_time": 1731685220,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135911,
+      "num": 135911,
+      "word": "5千多一桌的婚宴菜大部分都是凉的",
+      "onboard_time": 1731700271,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132049,
@@ -283,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115903,
-      "num": 115903,
-      "word": "5千多一桌的婚宴菜大部分都是凉的",
-      "onboard_time": 1731700271,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 120736,
+      "num": 120736,
+      "word": "煮虾别等水开了才下锅",
+      "onboard_time": 1731690676,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 114512,
@@ -347,6 +379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102038,
+      "num": 102038,
+      "word": "蔡琳否认不让高梓淇见儿子",
+      "onboard_time": 1731712754,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98987,
+      "num": 123569,
+      "word": "徐克射雕重点在襄阳保卫战",
+      "onboard_time": 1731693554,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96389,
       "num": 96389,
       "word": "你有新的太空快递即将派送",
@@ -355,20 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95721,
-      "num": 122709,
-      "word": "徐克射雕重点在襄阳保卫战",
-      "onboard_time": 1731693554,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 95719,
+      "num": 95719,
+      "word": "美媒称马斯克与伊朗驻联合国大使会面",
+      "onboard_time": 1731711974,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 91394,
-      "num": 85894,
-      "word": "煮虾别等水开了才下锅",
-      "onboard_time": 1731690676,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 93867,
+      "num": 93867,
+      "word": "Doinb自曝要一亿买LPL名额",
+      "onboard_time": 1731713054,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 88228,
@@ -396,7 +444,7 @@
     },
     {
       "raw_hot": 84355,
-      "num": 84355,
+      "num": 86089,
       "word": "再见爱人4直播聊两性关系",
       "onboard_time": 1731689476,
       "rank": 24,
@@ -433,14 +481,6 @@
       "onboard_time": 1731692713,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80043,
-      "num": 80043,
-      "word": "成龙呼吁大家到电影院看电影",
-      "onboard_time": 1731712574,
-      "rank": 19,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 79946,
@@ -491,14 +531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 68276,
-      "num": 63924,
-      "word": "吴梦知从湖南卫视离职",
-      "onboard_time": 1731712814,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66428,
       "num": 156160,
       "word": "赵小童拍的青岛秋天",
@@ -515,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60372,
-      "num": 60372,
-      "word": "蔡琳否认不让高梓淇见儿子",
-      "onboard_time": 1731712754,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 59140,
+      "num": 59140,
+      "word": "男子夜驾撞飞两头野猪被判全责",
+      "onboard_time": 1731706091,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58954,
@@ -531,20 +563,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56317,
-      "num": 56317,
-      "word": "男子夜驾撞飞两头野猪被判全责",
-      "onboard_time": 1731706091,
-      "rank": 48,
+      "raw_hot": 47659,
+      "num": 47659,
+      "word": "王安宇 破碎小狗",
+      "onboard_time": 1731704831,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42169,
+      "num": 42169,
+      "word": "章丘一动物园给黑猩猩吃大葱",
+      "onboard_time": 1731706450,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50588,
-      "num": 50588,
-      "word": "美媒称马斯克与伊朗驻联合国大使会面",
-      "onboard_time": 1731711974,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 42022,
+      "num": 42022,
+      "word": "云南豌豆尖120元1kg热销韩国",
+      "onboard_time": 1731712695,
+      "rank": 48,
+      "category": "美食,国际时政"
     },
     {
       "raw_hot": 41144,
@@ -553,14 +593,6 @@
       "onboard_time": 1731672737,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40978,
-      "num": 40978,
-      "word": "章丘一动物园给黑猩猩吃大葱",
-      "onboard_time": 1731706450,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39735,
@@ -579,28 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38471,
-      "num": 38641,
-      "word": "王安宇 破碎小狗",
-      "onboard_time": 1731704831,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 37481,
       "num": 37481,
       "word": "金俊秀说被折磨5年",
       "onboard_time": 1731693074,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35929,
-      "num": 35929,
-      "word": "云南豌豆尖120元1kg热销韩国",
-      "onboard_time": 1731712695,
-      "rank": 48,
-      "category": "美食,国际时政"
     },
     {
       "raw_hot": 35810,
@@ -627,20 +643,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28847,
+      "num": 167015,
+      "word": "阿姨谈婚姻生活称儿子要站在媳妇这边",
+      "onboard_time": 1731713235,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28693,
       "num": 33483,
       "word": "祝绪丹说虞书欣像个小充电宝",
       "onboard_time": 1731698833,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28193,
-      "num": 121457,
-      "word": "四川文旅出手全是王炸",
-      "onboard_time": 1731711793,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26780,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 5975,
-      "num": 257492,
+      "num": 260169,
       "word": "航拍秘鲁钱凯港",
       "onboard_time": 1731678320,
       "rank": 2,
