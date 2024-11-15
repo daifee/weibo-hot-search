@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731649221504,
+  "endTime": 1731652501491,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -33,6 +33,14 @@
       "onboard_time": 1731638658,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1454929,
+      "num": 1454929,
+      "word": "永夜星河 没吻戏",
+      "onboard_time": 1731650361,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1407640,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 833446,
-      "num": 314633,
+      "num": 494553,
       "word": "大英博物馆获捐价值10亿英镑中国瓷器",
       "onboard_time": 1731645800,
       "rank": 29,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 655090,
+      "num": 655090,
+      "word": "横店群演降薪",
+      "onboard_time": 1731649878,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 642516,
       "num": 642516,
       "word": "华为Mate70",
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 606267,
+      "num": 606267,
+      "word": "宁波顺其自然又捐款109万元",
+      "onboard_time": 1731643881,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 597034,
       "num": 360066,
       "word": "王一博手绳",
@@ -257,14 +281,6 @@
       "onboard_time": 1731630259,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 554036,
-      "num": 554036,
-      "word": "宁波顺其自然又捐款109万元",
-      "onboard_time": 1731643881,
-      "rank": 25,
-      "category": "正能量"
     },
     {
       "raw_hot": 549909,
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326714,
+      "num": 361037,
+      "word": "赵丽颖能不能成为大女主",
+      "onboard_time": 1731646761,
+      "rank": 9,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 323323,
       "num": 323323,
       "word": "洪承汉将solo",
@@ -507,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298734,
+      "num": 298734,
+      "word": "江西一男子涉嫌破坏军婚罪被逮捕",
+      "onboard_time": 1731649220,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 294001,
       "num": 251037,
       "word": "25岁小伙长期熬夜确诊心衰",
@@ -537,6 +569,14 @@
       "onboard_time": 1731600679,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282278,
+      "num": 307641,
+      "word": "头一次见有人用脸打双闪",
+      "onboard_time": 1731649999,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 280961,
@@ -577,6 +617,14 @@
       "onboard_time": 1731640578,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257817,
+      "num": 257817,
+      "word": "一个恶心的方法拿下四六级",
+      "onboard_time": 1731649040,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 257485,
@@ -867,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181739,
+      "num": 181739,
+      "word": "金俊秀被女BJ敲诈8亿韩元",
+      "onboard_time": 1731648679,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175680,
       "num": 328390,
       "word": "山东单亲妈妈带2娃住烂尾楼",
@@ -897,6 +953,14 @@
       "onboard_time": 1731634338,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 171737,
+      "num": 319457,
+      "word": "宁艺卓Allure封面",
+      "onboard_time": 1731651139,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171318,
@@ -937,6 +1001,14 @@
       "onboard_time": 1731647840,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167093,
+      "num": 167093,
+      "word": "曝iG锅盔被禁业一年",
+      "onboard_time": 1731652100,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 166881,
@@ -1003,12 +1075,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159648,
-      "num": 159648,
-      "word": "金俊秀被女BJ敲诈8亿韩元",
-      "onboard_time": 1731648679,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 159734,
+      "num": 159734,
+      "word": "山东年平均工资107131元",
+      "onboard_time": 1731651558,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 159554,
@@ -1025,14 +1097,6 @@
       "onboard_time": 1731622211,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158537,
-      "num": 361037,
-      "word": "赵丽颖能不能成为大女主",
-      "onboard_time": 1731646761,
-      "rank": 9,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 158457,
@@ -1059,6 +1123,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 154689,
+      "num": 206852,
+      "word": "妙妙彻底失忆了",
+      "onboard_time": 1731651200,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152047,
+      "num": 152047,
+      "word": "余承东称尊界很大很尊很亮",
+      "onboard_time": 1731651978,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149630,
       "num": 277598,
       "word": "张云龙参加新剧开机宴",
@@ -1067,20 +1147,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148063,
-      "num": 148063,
-      "word": "一个恶心的方法拿下四六级",
-      "onboard_time": 1731649040,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 147859,
       "num": 147859,
       "word": "阁楼上的疯女人",
       "onboard_time": 1731599899,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146531,
+      "num": 146531,
+      "word": "麦琳下期首选离婚",
+      "onboard_time": 1731652459,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146133,
+      "num": 146133,
+      "word": "能打导弹的导弹亮相中国航展",
+      "onboard_time": 1731650719,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 144276,
+      "num": 144276,
+      "word": "全国城镇单位年平均工资120698元",
+      "onboard_time": 1731651320,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 143545,
@@ -1443,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96018,
+      "num": 314440,
+      "word": "子期 做撒娇男人享幸福人生",
+      "onboard_time": 1731650899,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95475,
       "num": 243518,
       "word": "洪承汉开通官方ins",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1731607633,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 72234,
+      "num": 344216,
+      "word": "沙特官员辟谣来珠海航展只为扫货",
+      "onboard_time": 1731650899,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 70043,
@@ -1619,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47086,
+      "num": 206552,
+      "word": "张玉宁曾说不想对输球麻木",
+      "onboard_time": 1731651439,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47062,
       "num": 47062,
       "word": "如果慕声长这样我应该不会去攻略他",
@@ -1644,11 +1764,19 @@
     },
     {
       "raw_hot": 44325,
-      "num": 148122,
+      "num": 329490,
       "word": "郑钦文代言奥迪新品牌AUDI",
       "onboard_time": 1731649160,
       "rank": 48,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 44216,
+      "num": 205911,
+      "word": "刘宇宁想演小人物和卧底",
+      "onboard_time": 1731651681,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 42561,
@@ -1675,12 +1803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37509,
+      "num": 310848,
+      "word": "女子借钱没还劝相亲对象要有格局",
+      "onboard_time": 1731650840,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36807,
       "num": 410360,
       "word": "12分钟带你重新认识拉美",
       "onboard_time": 1731641419,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 34487,
+      "num": 323817,
+      "word": "黑话烂梗泛滥监管难点在哪",
+      "onboard_time": 1731650899,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 34088,
@@ -1859,6 +2003,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 25927,
+      "num": 168090,
+      "word": "雷军体验小鹏P7+频频点赞",
+      "onboard_time": 1731652278,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25751,
       "num": 25751,
       "word": "巴林进球越位",
@@ -1937,6 +2089,14 @@
       "onboard_time": 1731614110,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16542,
+      "num": 313311,
+      "word": "军用仿生鸟现身珠海航展现场",
+      "onboard_time": 1731652220,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 16426,
@@ -2057,6 +2217,14 @@
       "onboard_time": 1731611651,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6861,
+      "num": 144585,
+      "word": "价格是车最好的医美",
+      "onboard_time": 1731652459,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 5743,
