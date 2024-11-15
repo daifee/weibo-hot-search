@@ -1,0 +1,410 @@
+{
+  "runTime": 1731649221504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 912643,
+        "num": 1146023,
+        "word": "反诈老陈称当年辞职太冲动",
+        "onboard_time": 1731642079,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624612,
+        "num": 624612,
+        "word": "杨紫 嫡谋",
+        "onboard_time": 1731647180,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8055,
+        "num": 620896,
+        "word": "秘鲁接机女孩说我爱你中国",
+        "onboard_time": 1731639918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 619758,
+        "num": 619758,
+        "word": "长沙南站一学生安检时砸伤民警",
+        "onboard_time": 1731645320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554036,
+        "num": 554036,
+        "word": "宁波顺其自然又捐款109万元",
+        "onboard_time": 1731643881,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 408562,
+        "num": 408562,
+        "word": "原著作者谈永夜星河",
+        "onboard_time": 1731644060,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370201,
+        "num": 370201,
+        "word": "大学生300元抢6399元九号电车提车被拒",
+        "onboard_time": 1731635718,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374693,
+        "num": 344484,
+        "word": "祝绪丹凌晨三点起来去录团综",
+        "onboard_time": 1731647840,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314829,
+        "num": 314829,
+        "word": "文俊辉赵昭仪合作",
+        "onboard_time": 1731645741,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24658,
+        "num": 314821,
+        "word": "8岁小孩姐把羌族碉楼折出来了",
+        "onboard_time": 1731648741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1010303,
+        "num": 314699,
+        "word": "张云龙简介",
+        "onboard_time": 1731646821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833446,
+        "num": 314633,
+        "word": "大英博物馆获捐价值10亿英镑中国瓷器",
+        "onboard_time": 1731645800,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 647461,
+        "num": 314551,
+        "word": "再见爱人离婚率",
+        "onboard_time": 1731646341,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31499,
+        "num": 314548,
+        "word": "原著作者谈永夜星河改编",
+        "onboard_time": 1731648260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46216,
+        "num": 314466,
+        "word": "被余额宝星座工资调查戳中了心趴",
+        "onboard_time": 1731646821,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 531960,
+        "num": 314378,
+        "word": "王一博手绳",
+        "onboard_time": 1731646161,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446142,
+        "num": 314316,
+        "word": "145斤女生减重35斤撞脸王祖贤",
+        "onboard_time": 1731637818,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 82557,
+        "num": 314213,
+        "word": "刘宇宁说走OST这条路没错的",
+        "onboard_time": 1731648380,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158537,
+        "num": 314197,
+        "word": "赵丽颖能不能成为大女主",
+        "onboard_time": 1731646761,
+        "rank": 18,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 26003,
+        "num": 314067,
+        "word": "情绪自由比情绪稳定更重要吗",
+        "onboard_time": 1731647480,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1015990,
+        "num": 313991,
+        "word": "葛夕冷脸洗内裤",
+        "onboard_time": 1731644720,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439446,
+        "num": 313980,
+        "word": "李子柒说奶奶不知道她有多火",
+        "onboard_time": 1731637400,
+        "rank": 21,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 330624,
+        "num": 313901,
+        "word": "男婴在月子中心肚子肿胀送医后离世",
+        "onboard_time": 1731629839,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313851,
+        "num": 313851,
+        "word": "华为Mate70",
+        "onboard_time": 1731642680,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107498,
+        "num": 295032,
+        "word": "尤长靖彩排唱歌地板和灯都在震",
+        "onboard_time": 1731649099,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289202,
+        "num": 289202,
+        "word": "中国新增7个世界最佳旅游乡村",
+        "onboard_time": 1731639798,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 287419,
+        "num": 287419,
+        "word": "31省份平均工资",
+        "onboard_time": 1731638658,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31900,
+        "num": 281612,
+        "word": "传统豪华轿车的强力对手腾势Z9来了",
+        "onboard_time": 1731648260,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179698,
+        "num": 279445,
+        "word": "丁禹兮拍永夜星河尴尬场面",
+        "onboard_time": 1731647240,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278713,
+        "num": 278713,
+        "word": "张云龙张佳宁时隔7年二搭",
+        "onboard_time": 1731647719,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269995,
+        "num": 269995,
+        "word": "TFBOYS古装",
+        "onboard_time": 1731637339,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41202,
+        "num": 245899,
+        "word": "任嘉伦调皮大王登场",
+        "onboard_time": 1731649099,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245327,
+        "num": 245327,
+        "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
+        "onboard_time": 1731641659,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223333,
+        "num": 223333,
+        "word": "3部电影定档2025春节档",
+        "onboard_time": 1731648260,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23591,
+        "num": 215625,
+        "word": "广州车展上的王炸组合",
+        "onboard_time": 1731644901,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215005,
+        "num": 215005,
+        "word": "建议大家一定要远离恋爱式友情",
+        "onboard_time": 1731641659,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214081,
+        "num": 214081,
+        "word": "汪苏泷素龙",
+        "onboard_time": 1731648079,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211490,
+        "num": 211490,
+        "word": "世界上真正的jellycat出现了",
+        "onboard_time": 1731645382,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 199249,
+        "num": 199249,
+        "word": "张杰官宣马来西亚演唱会",
+        "onboard_time": 1731648319,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192248,
+        "num": 192248,
+        "word": "国足vs日本门票全网售罄",
+        "onboard_time": 1731643941,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186976,
+        "num": 186976,
+        "word": "王一博上榜全球最具影响力人物",
+        "onboard_time": 1731647061,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174365,
+        "num": 174365,
+        "word": "肖战骑马训练花絮",
+        "onboard_time": 1731643461,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169868,
+        "num": 169868,
+        "word": "东契奇走神",
+        "onboard_time": 1731647840,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166881,
+        "num": 166881,
+        "word": "美国防部发布UFO年度报告",
+        "onboard_time": 1731646341,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159648,
+        "num": 159648,
+        "word": "金俊秀被女BJ敲诈8亿韩元",
+        "onboard_time": 1731648679,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154270,
+        "num": 154270,
+        "word": "男子骑车撞上供热管道身亡",
+        "onboard_time": 1731637221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150931,
+        "num": 150931,
+        "word": "肖战首部春节档电影",
+        "onboard_time": 1731641659,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5088,
+        "num": 148227,
+        "word": "一台车两间房三张床",
+        "onboard_time": 1731644901,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44325,
+        "num": 148122,
+        "word": "郑钦文代言奥迪新品牌AUDI",
+        "onboard_time": 1731649160,
+        "rank": 48,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 148063,
+        "num": 148063,
+        "word": "一个恶心的方法拿下四六级",
+        "onboard_time": 1731649040,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秘元首共同见证钱凯港开港仪式#"
+    }
+  }
+}

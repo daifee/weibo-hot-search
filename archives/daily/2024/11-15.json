@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731648146509,
+  "endTime": 1731649221504,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -107,7 +107,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1011941,
+      "raw_hot": 1015990,
       "num": 347224,
       "word": "葛夕冷脸洗内裤",
       "onboard_time": 1731644720,
@@ -121,6 +121,14 @@
       "onboard_time": 1731629839,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 833446,
+      "num": 314633,
+      "word": "大英博物馆获捐价值10亿英镑中国瓷器",
+      "onboard_time": 1731645800,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 824462,
@@ -203,12 +211,28 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 624612,
+      "num": 624612,
+      "word": "杨紫 嫡谋",
+      "onboard_time": 1731647180,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 620734,
       "num": 319911,
       "word": "身份证上的姓名能想改就改吗",
       "onboard_time": 1731633198,
       "rank": 31,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 619758,
+      "num": 619758,
+      "word": "长沙南站一学生安检时砸伤民警",
+      "onboard_time": 1731645320,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 597034,
@@ -235,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554036,
+      "num": 554036,
+      "word": "宁波顺其自然又捐款109万元",
+      "onboard_time": 1731643881,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 549909,
       "num": 584036,
       "word": "丁禹兮录团综染发了",
       "onboard_time": 1731635117,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 540674,
-      "num": 540674,
-      "word": "长沙南站一学生安检时砸伤民警",
-      "onboard_time": 1731645320,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 521601,
@@ -283,28 +307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 492987,
-      "num": 492987,
-      "word": "宁波顺其自然又捐款109万元",
-      "onboard_time": 1731643881,
-      "rank": 25,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 492471,
       "num": 492471,
       "word": "丁禹兮 凝眸",
       "onboard_time": 1731638837,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 479266,
-      "num": 209932,
-      "word": "大英博物馆获捐价值10亿英镑中国瓷器",
-      "onboard_time": 1731645800,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 468895,
@@ -395,20 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389675,
-      "num": 389675,
-      "word": "杨紫 嫡谋",
-      "onboard_time": 1731647180,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 382823,
       "num": 382823,
       "word": "中铁七局发布新华社记者遇袭声明",
       "onboard_time": 1731590361,
       "rank": 12,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 374693,
+      "num": 359301,
+      "word": "祝绪丹凌晨三点起来去录团综",
+      "onboard_time": 1731647840,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 361295,
@@ -539,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 278713,
+      "num": 278713,
+      "word": "张云龙张佳宁时隔7年二搭",
+      "onboard_time": 1731647719,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276920,
       "num": 276920,
       "word": "不吸烟女性肺癌发病率越来越高",
@@ -643,20 +659,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223333,
+      "num": 223333,
+      "word": "3部电影定档2025春节档",
+      "onboard_time": 1731648260,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218340,
       "num": 218340,
       "word": "射雕春节档历史首部武侠电影",
       "onboard_time": 1731644000,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216937,
-      "num": 216937,
-      "word": "张云龙张佳宁时隔7年二搭",
-      "onboard_time": 1731647719,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 216607,
@@ -667,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214081,
+      "num": 214081,
+      "word": "汪苏泷素龙",
+      "onboard_time": 1731648079,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212035,
       "num": 278771,
       "word": "被山海经的相柳转场震撼到",
       "onboard_time": 1731627017,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211490,
+      "num": 211490,
+      "word": "世界上真正的jellycat出现了",
+      "onboard_time": 1731645382,
+      "rank": 36,
+      "category": "休闲"
     },
     {
       "raw_hot": 209077,
@@ -697,6 +729,14 @@
       "onboard_time": 1731643819,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199249,
+      "num": 199249,
+      "word": "张杰官宣马来西亚演唱会",
+      "onboard_time": 1731648319,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 198986,
@@ -729,6 +769,14 @@
       "onboard_time": 1731644480,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192248,
+      "num": 242511,
+      "word": "国足vs日本门票全网售罄",
+      "onboard_time": 1731643941,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 191775,
@@ -795,22 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185942,
-      "num": 185942,
-      "word": "世界上真正的jellycat出现了",
-      "onboard_time": 1731645382,
-      "rank": 36,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 185853,
-      "num": 242511,
-      "word": "国足vs日本门票全网售罄",
-      "onboard_time": 1731643941,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185815,
       "num": 327033,
       "word": "45岁妻子与23岁丈夫互称遭家暴",
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 185005,
-      "num": 200013,
+      "num": 279445,
       "word": "丁禹兮拍永夜星河尴尬场面",
       "onboard_time": 1731647240,
       "rank": 34,
@@ -899,12 +931,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 169437,
-      "num": 169437,
+      "raw_hot": 169868,
+      "num": 169868,
       "word": "东契奇走神",
       "onboard_time": 1731647840,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166881,
+      "num": 166881,
+      "word": "美国防部发布UFO年度报告",
+      "onboard_time": 1731646341,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166645,
@@ -921,14 +961,6 @@
       "onboard_time": 1731629478,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165551,
-      "num": 165551,
-      "word": "美国防部发布UFO年度报告",
-      "onboard_time": 1731646341,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164321,
@@ -971,11 +1003,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160612,
-      "num": 160612,
-      "word": "汪苏泷素龙",
-      "onboard_time": 1731648079,
-      "rank": 46,
+      "raw_hot": 159648,
+      "num": 159648,
+      "word": "金俊秀被女BJ敲诈8亿韩元",
+      "onboard_time": 1731648679,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -993,6 +1025,14 @@
       "onboard_time": 1731622211,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158537,
+      "num": 361037,
+      "word": "赵丽颖能不能成为大女主",
+      "onboard_time": 1731646761,
+      "rank": 9,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 158457,
@@ -1019,20 +1059,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 154195,
-      "num": 361037,
-      "word": "赵丽颖能不能成为大女主",
-      "onboard_time": 1731646761,
-      "rank": 9,
-      "category": "电影,艺人"
-    },
-    {
       "raw_hot": 149630,
       "num": 277598,
       "word": "张云龙参加新剧开机宴",
       "onboard_time": 1731632241,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148063,
+      "num": 148063,
+      "word": "一个恶心的方法拿下四六级",
+      "onboard_time": 1731649040,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 147859,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1731634338,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137011,
-      "num": 359301,
-      "word": "祝绪丹凌晨三点起来去录团综",
-      "onboard_time": 1731647840,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 135359,
@@ -1347,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107498,
+      "num": 295032,
+      "word": "尤长靖彩排唱歌地板和灯都在震",
+      "onboard_time": 1731649099,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105318,
       "num": 109565,
       "word": "煤气灯效应",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1731634338,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82557,
+      "num": 314213,
+      "word": "刘宇宁说走OST这条路没错的",
+      "onboard_time": 1731648380,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79266,
@@ -1579,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46216,
+      "num": 359474,
+      "word": "被余额宝星座工资调查戳中了心趴",
+      "onboard_time": 1731646821,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44608,
       "num": 276683,
       "word": "林俊杰首部新书",
@@ -1587,12 +1643,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44325,
+      "num": 148122,
+      "word": "郑钦文代言奥迪新品牌AUDI",
+      "onboard_time": 1731649160,
+      "rank": 48,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 42561,
       "num": 170935,
       "word": "62岁的博格丹飞过62种机型",
       "onboard_time": 1731602537,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 41202,
+      "num": 245899,
+      "word": "任嘉伦调皮大王登场",
+      "onboard_time": 1731649099,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 39471,
@@ -1641,6 +1713,22 @@
       "onboard_time": 1731639918,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31900,
+      "num": 281612,
+      "word": "传统豪华轿车的强力对手腾势Z9来了",
+      "onboard_time": 1731648260,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 31499,
+      "num": 314548,
+      "word": "原著作者谈永夜星河改编",
+      "onboard_time": 1731648260,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 31357,
@@ -1731,14 +1819,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 28185,
-      "num": 359474,
-      "word": "被余额宝星座工资调查戳中了心趴",
-      "onboard_time": 1731646821,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 27934,
       "num": 251706,
       "word": "极氪端到端Plus上车",
@@ -1771,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26003,
+      "num": 358137,
+      "word": "情绪自由比情绪稳定更重要吗",
+      "onboard_time": 1731647480,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 25751,
       "num": 25751,
       "word": "巴林进球越位",
@@ -1795,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24658,
+      "num": 314821,
+      "word": "8岁小孩姐把羌族碉楼折出来了",
+      "onboard_time": 1731648741,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24082,
       "num": 61520,
       "word": "追访合新铁路事件遭袭记者发声",
@@ -1803,15 +1899,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 22789,
-      "num": 358137,
-      "word": "情绪自由比情绪稳定更重要吗",
-      "onboard_time": 1731647480,
-      "rank": 18,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 21083,
+      "raw_hot": 23591,
       "num": 242382,
       "word": "广州车展上的王炸组合",
       "onboard_time": 1731644901,
