@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731670541930,
+  "endTime": 1731674606770,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -27,8 +27,16 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1659937,
+      "num": 1659937,
+      "word": "上海截取不雅字的打卡地走红",
+      "onboard_time": 1731670580,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1635851,
-      "num": 331316,
+      "num": 865441,
       "word": "祝绪丹回应与丁禹兮关系",
       "onboard_time": 1731666619,
       "rank": 22,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 856335,
+      "num": 356376,
+      "word": "BBC报道李子柒复出打上灰色滤镜",
+      "onboard_time": 1731672737,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 839195,
       "num": 839195,
       "word": "网曝海马体一试衣间天花板装有监控",
@@ -289,6 +305,14 @@
       "onboard_time": 1731656478,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 696178,
+      "num": 493694,
+      "word": "永夜星河 女主戏份",
+      "onboard_time": 1731668839,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 694071,
@@ -515,12 +539,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 462721,
-      "num": 462721,
-      "word": "永夜星河 女主戏份",
-      "onboard_time": 1731668839,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 462352,
+      "num": 462352,
+      "word": "李行亮坚定选择不离婚",
+      "onboard_time": 1731669020,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 454498,
@@ -577,6 +601,14 @@
       "onboard_time": 1731627077,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411825,
+      "num": 331484,
+      "word": "祝绪丹 直女",
+      "onboard_time": 1731671839,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 410363,
@@ -755,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321800,
+      "num": 321800,
+      "word": "王一博彭昱畅让C位",
+      "onboard_time": 1731671359,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320847,
       "num": 320847,
       "word": "男子骑车撞上供热管道身亡",
@@ -801,6 +841,14 @@
       "onboard_time": 1731643461,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 308030,
+      "num": 308030,
+      "word": "小巷人家",
+      "onboard_time": 1731672737,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 301141,
@@ -875,12 +923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270016,
+      "num": 190927,
+      "word": "丁禹兮人挺好的别说他坏话",
+      "onboard_time": 1731669858,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265926,
       "num": 265926,
       "word": "黄圣依四年后vs四年后",
       "onboard_time": 1731640578,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265153,
+      "num": 332774,
+      "word": "海马体称试衣间天花板监控已拆除",
+      "onboard_time": 1731668118,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257817,
@@ -961,14 +1025,6 @@
       "onboard_time": 1731643520,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238522,
-      "num": 187796,
-      "word": "李行亮坚定选择不离婚",
-      "onboard_time": 1731669020,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 236180,
@@ -1147,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203090,
+      "num": 157192,
+      "word": "金鸡奖",
+      "onboard_time": 1731673759,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202560,
       "num": 202560,
       "word": "两警员玩忽职守被定罪免罚",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1731655218,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196859,
+      "num": 156596,
+      "word": "大鹏感谢王一博",
+      "onboard_time": 1731673698,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 196459,
@@ -1299,20 +1371,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191668,
+      "num": 156425,
+      "word": "再见爱人4 留几手葛夕还是敢说",
+      "onboard_time": 1731673398,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191148,
       "num": 273047,
       "word": "文俊辉古装",
       "onboard_time": 1731636679,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190927,
-      "num": 190927,
-      "word": "丁禹兮人挺好的别说他坏话",
-      "onboard_time": 1731669858,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 190210,
@@ -1619,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164460,
+      "num": 317601,
+      "word": "43岁司机高速上猝死卡友接力送货",
+      "onboard_time": 1731665718,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164328,
       "num": 164328,
       "word": "金鸡奖提名表彰内场",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1731664818,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162374,
+      "num": 156204,
+      "word": "赵丽颖金鸡奖提名视频",
+      "onboard_time": 1731671359,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 162022,
@@ -1739,6 +1827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157421,
+      "num": 227778,
+      "word": "涵艺怒喷Doinb",
+      "onboard_time": 1731669199,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156798,
       "num": 156798,
       "word": "成都混团抢票",
@@ -1761,6 +1857,14 @@
       "onboard_time": 1731593482,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 155331,
+      "num": 155331,
+      "word": "王安宇四个想你的动态眼技",
+      "onboard_time": 1731674059,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 154689,
@@ -1793,6 +1897,14 @@
       "onboard_time": 1731664458,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150967,
+      "num": 150967,
+      "word": "下一战歌手",
+      "onboard_time": 1731669438,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 150475,
@@ -1915,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140142,
+      "num": 156065,
+      "word": "中俄三款隐身战机齐聚中国航展",
+      "onboard_time": 1731670219,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 138428,
       "num": 138428,
       "word": "蔡徐坤回国纯黑look",
@@ -1971,14 +2091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134616,
-      "num": 332774,
-      "word": "海马体称试衣间天花板监控已拆除",
-      "onboard_time": 1731668118,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134474,
       "num": 134474,
       "word": "国足离小组第2仅差3分",
@@ -1987,12 +2099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134039,
-      "num": 134039,
-      "word": "下一战歌手",
-      "onboard_time": 1731669438,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 134308,
+      "num": 155856,
+      "word": "永夜星河29集预告25秒",
+      "onboard_time": 1731674179,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 131396,
@@ -2019,12 +2131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130359,
+      "num": 130359,
+      "word": "潘展乐张雨霏等奥运健儿上联播了",
+      "onboard_time": 1731673578,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129951,
       "num": 535114,
       "word": "中国山水原来藏着巨型几何图案",
       "onboard_time": 1731634998,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129444,
+      "num": 129444,
+      "word": "登陆少年金鸡献唱只此青绿",
+      "onboard_time": 1731673039,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 129386,
@@ -2091,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124559,
+      "num": 312066,
+      "word": "金俊秀被曝遭女主播敲诈超8亿韩元",
+      "onboard_time": 1731665299,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124449,
       "num": 124449,
       "word": "芒果精",
@@ -2115,12 +2251,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122655,
-      "num": 312066,
-      "word": "金俊秀被曝遭女主播敲诈超8亿韩元",
-      "onboard_time": 1731665299,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 122417,
+      "num": 122417,
+      "word": "永夜星河26集",
+      "onboard_time": 1731672679,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 121680,
@@ -2145,6 +2281,14 @@
       "onboard_time": 1731627017,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120039,
+      "num": 120039,
+      "word": "林高远 感谢国乒队对我的培养",
+      "onboard_time": 1731671119,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 119969,
@@ -2235,6 +2379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115187,
+      "num": 115187,
+      "word": "邓超有新团队五哈集体吃醋",
+      "onboard_time": 1731673339,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114994,
+      "num": 364606,
+      "word": "近500人300元抢到6399元九号电车",
+      "onboard_time": 1731674059,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114771,
       "num": 114771,
       "word": "食用植物油散装运输国家标准即将实施",
@@ -2291,14 +2451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112294,
-      "num": 112294,
-      "word": "中俄三款隐身战机齐聚中国航展",
-      "onboard_time": 1731670219,
-      "rank": 47,
-      "category": "军事"
-    },
-    {
       "raw_hot": 112008,
       "num": 112008,
       "word": "A股机构举报游资传闻是怎么回事",
@@ -2345,6 +2497,14 @@
       "onboard_time": 1731657500,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 105984,
+      "num": 124944,
+      "word": "专家称本轮房价拐点全方位到来",
+      "onboard_time": 1731672499,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 105318,
@@ -2419,6 +2579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 97304,
+      "num": 97304,
+      "word": "湖南13岁学生被班主任打肿脸",
+      "onboard_time": 1731674000,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96407,
       "num": 313818,
       "word": "国足抵达厦门",
@@ -2443,19 +2611,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 93646,
-      "num": 227778,
-      "word": "涵艺怒喷Doinb",
-      "onboard_time": 1731669199,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 88565,
       "num": 364571,
       "word": "武磊大赞张玉宁",
       "onboard_time": 1731601577,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88547,
+      "num": 96102,
+      "word": "中国奥运天团把我带回了2024的夏天",
+      "onboard_time": 1731674541,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2595,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64646,
+      "num": 155406,
+      "word": "Uzi复盘首局失利",
+      "onboard_time": 1731673339,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64480,
       "num": 350541,
       "word": "小伙称在缅北电诈窝点被强迫吸毒",
@@ -2641,6 +2817,22 @@
       "onboard_time": 1731644662,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62013,
+      "num": 156831,
+      "word": "哏的",
+      "onboard_time": 1731674240,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 61717,
+      "num": 155639,
+      "word": "赵一博全黑look",
+      "onboard_time": 1731673339,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 61400,
@@ -2817,14 +3009,6 @@
       "onboard_time": 1731651681,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43133,
-      "num": 317601,
-      "word": "43岁司机高速上猝死卡友接力送货",
-      "onboard_time": 1731665718,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42717,
@@ -3009,6 +3193,14 @@
       "onboard_time": 1731643579,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32145,
+      "num": 158179,
+      "word": "吃喝玩乐皆是非遗",
+      "onboard_time": 1731672799,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 32084,
@@ -3299,6 +3491,14 @@
       "category": "综艺,情感"
     },
     {
+      "raw_hot": 20352,
+      "num": 143076,
+      "word": "南方人闪现北方该怎么穿",
+      "onboard_time": 1731673640,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 19700,
       "num": 230043,
       "word": "真实的情感经不起镜头的极度放大",
@@ -3364,7 +3564,7 @@
     },
     {
       "raw_hot": 17333,
-      "num": 771816,
+      "num": 878461,
       "word": "在利马感受中秘情谊",
       "onboard_time": 1731659118,
       "rank": 2,
@@ -3425,6 +3625,14 @@
       "onboard_time": 1731626596,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 14340,
+      "num": 96128,
+      "word": "四川一地停气4月1500户居民受影响",
+      "onboard_time": 1731672440,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14235,

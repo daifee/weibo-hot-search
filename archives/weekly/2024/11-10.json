@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731670541930,
+  "endTime": 1731674606770,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -339,6 +339,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 1659937,
+      "num": 1659937,
+      "word": "上海截取不雅字的打卡地走红",
+      "onboard_time": 1731670580,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1652649,
       "num": 1024960,
       "word": "00后代孕流产女孩发声",
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 1635851,
-      "num": 331316,
+      "num": 865441,
       "word": "祝绪丹回应与丁禹兮关系",
       "onboard_time": 1731666619,
       "rank": 22,
@@ -1515,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 856335,
+      "num": 356376,
+      "word": "BBC报道李子柒复出打上灰色滤镜",
+      "onboard_time": 1731672737,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 855889,
       "num": 855889,
       "word": "榜一大哥沙特来了",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1731656478,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 696178,
+      "num": 493694,
+      "word": "永夜星河 女主戏份",
+      "onboard_time": 1731668839,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 695465,
@@ -3635,12 +3659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 462721,
-      "num": 462721,
-      "word": "永夜星河 女主戏份",
-      "onboard_time": 1731668839,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 462352,
+      "num": 462352,
+      "word": "李行亮坚定选择不离婚",
+      "onboard_time": 1731669020,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 461032,
@@ -4041,6 +4065,14 @@
       "onboard_time": 1731330199,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 411825,
+      "num": 331484,
+      "word": "祝绪丹 直女",
+      "onboard_time": 1731671839,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 411108,
@@ -5107,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321800,
+      "num": 321800,
+      "word": "王一博彭昱畅让C位",
+      "onboard_time": 1731671359,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320847,
       "num": 320847,
       "word": "男子骑车撞上供热管道身亡",
@@ -5289,6 +5329,14 @@
       "onboard_time": 1731643461,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 308030,
+      "num": 308030,
+      "word": "小巷人家",
+      "onboard_time": 1731241339,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 307553,
@@ -5504,14 +5552,6 @@
       "word": "永夜星河微博开分9.3",
       "onboard_time": 1731460761,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 292358,
-      "num": 292358,
-      "word": "小巷人家",
-      "onboard_time": 1731241339,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -5899,6 +5939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 270016,
+      "num": 190927,
+      "word": "丁禹兮人挺好的别说他坏话",
+      "onboard_time": 1731669858,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269838,
       "num": 284761,
       "word": "中山大学",
@@ -5985,6 +6033,14 @@
       "onboard_time": 1731393139,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 265153,
+      "num": 332774,
+      "word": "海马体称试衣间天花板监控已拆除",
+      "onboard_time": 1731668118,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264849,
@@ -6673,14 +6729,6 @@
       "onboard_time": 1731389240,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238522,
-      "num": 187796,
-      "word": "李行亮坚定选择不离婚",
-      "onboard_time": 1731669020,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 237328,
@@ -8003,6 +8051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203090,
+      "num": 157192,
+      "word": "金鸡奖",
+      "onboard_time": 1731673759,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202963,
       "num": 202963,
       "word": "微博竞燃之夜直播",
@@ -8433,6 +8489,14 @@
       "onboard_time": 1731587241,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196859,
+      "num": 156596,
+      "word": "大鹏感谢王一博",
+      "onboard_time": 1731673698,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 196847,
@@ -8867,6 +8931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191668,
+      "num": 156425,
+      "word": "再见爱人4 留几手葛夕还是敢说",
+      "onboard_time": 1731673398,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191372,
       "num": 221536,
       "word": "国足半场0比0巴林",
@@ -8897,14 +8969,6 @@
       "onboard_time": 1731471859,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190927,
-      "num": 190927,
-      "word": "丁禹兮人挺好的别说他坏话",
-      "onboard_time": 1731669858,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 190848,
@@ -10659,6 +10723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164460,
+      "num": 317601,
+      "word": "43岁司机高速上猝死卡友接力送货",
+      "onboard_time": 1731665718,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164446,
       "num": 164446,
       "word": "假期增加为何选在春节五一",
@@ -10809,6 +10881,14 @@
       "onboard_time": 1731249860,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162374,
+      "num": 156204,
+      "word": "赵丽颖金鸡奖提名视频",
+      "onboard_time": 1731671359,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 162127,
@@ -11203,6 +11283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157421,
+      "num": 227778,
+      "word": "涵艺怒喷Doinb",
+      "onboard_time": 1731669199,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157293,
       "num": 195749,
       "word": "失笑微博追剧团",
@@ -11329,6 +11417,14 @@
       "onboard_time": 1731336740,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155331,
+      "num": 155331,
+      "word": "王安宇四个想你的动态眼技",
+      "onboard_time": 1731674059,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 155199,
@@ -11737,6 +11833,14 @@
       "onboard_time": 1731563241,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150967,
+      "num": 150967,
+      "word": "下一战歌手",
+      "onboard_time": 1731669438,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 150901,
@@ -12435,6 +12539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140142,
+      "num": 156065,
+      "word": "中俄三款隐身战机齐聚中国航展",
+      "onboard_time": 1731670219,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 140043,
       "num": 140043,
       "word": "库里37分",
@@ -12795,14 +12907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134616,
-      "num": 332774,
-      "word": "海马体称试衣间天花板监控已拆除",
-      "onboard_time": 1731668118,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134473,
       "num": 134473,
       "word": "凌妙妙开大",
@@ -12811,12 +12915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134039,
-      "num": 134039,
-      "word": "下一战歌手",
-      "onboard_time": 1731669438,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 134308,
+      "num": 155856,
+      "word": "永夜星河29集预告25秒",
+      "onboard_time": 1731674179,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 134033,
@@ -13075,6 +13179,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 130359,
+      "num": 130359,
+      "word": "潘展乐张雨霏等奥运健儿上联播了",
+      "onboard_time": 1731673578,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130356,
       "num": 130356,
       "word": "假如让古人来卖货",
@@ -13113,6 +13225,14 @@
       "onboard_time": 1731278415,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129444,
+      "num": 129444,
+      "word": "登陆少年金鸡献唱只此青绿",
+      "onboard_time": 1731673039,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 129386,
@@ -13403,6 +13523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124559,
+      "num": 312066,
+      "word": "金俊秀被曝遭女主播敲诈超8亿韩元",
+      "onboard_time": 1731665299,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124460,
       "num": 124460,
       "word": "12K极清摄像沉浸式体验飞行表演",
@@ -13507,14 +13635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122655,
-      "num": 312066,
-      "word": "金俊秀被曝遭女主播敲诈超8亿韩元",
-      "onboard_time": 1731665299,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122497,
       "num": 317248,
       "word": "歼35A首秀表演瞬间加力出现马赫环",
@@ -13529,6 +13649,14 @@
       "onboard_time": 1731304159,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122417,
+      "num": 122417,
+      "word": "永夜星河26集",
+      "onboard_time": 1731672679,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122176,
@@ -13673,6 +13801,14 @@
       "onboard_time": 1731294499,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120039,
+      "num": 120039,
+      "word": "林高远 感谢国乒队对我的培养",
+      "onboard_time": 1731671119,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 119990,
@@ -13987,6 +14123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115187,
+      "num": 115187,
+      "word": "邓超有新团队五哈集体吃醋",
+      "onboard_time": 1731673339,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114994,
+      "num": 364606,
+      "word": "近500人300元抢到6399元九号电车",
+      "onboard_time": 1731674059,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114944,
       "num": 114944,
       "word": "你好星期六下期是永夜星河",
@@ -14121,14 +14273,6 @@
       "onboard_time": 1731642261,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 112294,
-      "num": 112294,
-      "word": "中俄三款隐身战机齐聚中国航展",
-      "onboard_time": 1731670219,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 112133,
@@ -14457,6 +14601,14 @@
       "onboard_time": 1731538635,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105984,
+      "num": 124944,
+      "word": "专家称本轮房价拐点全方位到来",
+      "onboard_time": 1731672499,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 105880,
@@ -14835,6 +14987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97304,
+      "num": 97304,
+      "word": "湖南13岁学生被班主任打肿脸",
+      "onboard_time": 1731674000,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97258,
       "num": 125825,
       "word": "李子柒弹唱如愿",
@@ -14953,14 +15113,6 @@
       "onboard_time": 1731549498,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 93646,
-      "num": 227778,
-      "word": "涵艺怒喷Doinb",
-      "onboard_time": 1731669199,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 93521,
@@ -15120,6 +15272,14 @@
       "word": "武磊大赞张玉宁",
       "onboard_time": 1731601577,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88547,
+      "num": 96102,
+      "word": "中国奥运天团把我带回了2024的夏天",
+      "onboard_time": 1731674541,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -16163,6 +16323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64646,
+      "num": 155406,
+      "word": "Uzi复盘首局失利",
+      "onboard_time": 1731673339,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64480,
       "num": 350541,
       "word": "小伙称在缅北电诈窝点被强迫吸毒",
@@ -16307,6 +16475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 62013,
+      "num": 156831,
+      "word": "哏的",
+      "onboard_time": 1731674240,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 61989,
       "num": 272076,
       "word": "多方回应记者追访合新铁路事件遭袭",
@@ -16321,6 +16497,14 @@
       "onboard_time": 1731229220,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61717,
+      "num": 155639,
+      "word": "赵一博全黑look",
+      "onboard_time": 1731673339,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 61582,
@@ -17635,14 +17819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43133,
-      "num": 317601,
-      "word": "43岁司机高速上猝死卡友接力送货",
-      "onboard_time": 1731665718,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43089,
       "num": 515388,
       "word": "网络众筹不能成为一笔糊涂账",
@@ -18649,6 +18825,14 @@
       "onboard_time": 1731313338,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32145,
+      "num": 158179,
+      "word": "吃喝玩乐皆是非遗",
+      "onboard_time": 1731672799,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 32084,
@@ -20003,6 +20187,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 20352,
+      "num": 143076,
+      "word": "南方人闪现北方该怎么穿",
+      "onboard_time": 1731673640,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 20317,
       "num": 267898,
       "word": "困在工时里的新就业形态劳动者",
@@ -20356,7 +20548,7 @@
     },
     {
       "raw_hot": 17333,
-      "num": 771816,
+      "num": 878461,
       "word": "在利马感受中秘情谊",
       "onboard_time": 1731659118,
       "rank": 2,
@@ -20633,6 +20825,14 @@
       "onboard_time": 1731626596,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 14340,
+      "num": 96128,
+      "word": "四川一地停气4月1500户居民受影响",
+      "onboard_time": 1731672440,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14235,

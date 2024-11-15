@@ -1,0 +1,410 @@
+{
+  "runTime": 1731674606770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659937,
+        "num": 1659937,
+        "word": "上海截取不雅字的打卡地走红",
+        "onboard_time": 1731670580,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1236136,
+        "num": 1236136,
+        "word": "外卖员吐槽尽量不要点黄焖鸡",
+        "onboard_time": 1731667219,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1977,
+        "num": 878461,
+        "word": "在利马感受中秘情谊",
+        "onboard_time": 1731659118,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 865441,
+        "num": 865441,
+        "word": "祝绪丹回应与丁禹兮关系",
+        "onboard_time": 1731666619,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514669,
+        "num": 514669,
+        "word": "男教师被指猥亵指认现场翻窗坠亡",
+        "onboard_time": 1731665958,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696178,
+        "num": 493694,
+        "word": "永夜星河 女主戏份",
+        "onboard_time": 1731668839,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462352,
+        "num": 462352,
+        "word": "李行亮坚定选择不离婚",
+        "onboard_time": 1731669020,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383377,
+        "num": 383377,
+        "word": "网曝海马体一试衣间天花板装有监控",
+        "onboard_time": 1731664818,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454992,
+        "num": 381637,
+        "word": "麦琳不是第一次提离婚了",
+        "onboard_time": 1731666139,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114994,
+        "num": 364606,
+        "word": "近500人300元抢到6399元九号电车",
+        "onboard_time": 1731674059,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 856335,
+        "num": 356376,
+        "word": "BBC报道李子柒复出打上灰色滤镜",
+        "onboard_time": 1731672737,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 411825,
+        "num": 331484,
+        "word": "祝绪丹 直女",
+        "onboard_time": 1731671839,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329984,
+        "num": 329984,
+        "word": "彭高 蓝色是天空和大海的颜色",
+        "onboard_time": 1731667279,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321800,
+        "num": 321800,
+        "word": "王一博彭昱畅让C位",
+        "onboard_time": 1731671359,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308030,
+        "num": 308030,
+        "word": "小巷人家",
+        "onboard_time": 1731672737,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265153,
+        "num": 265153,
+        "word": "海马体称试衣间天花板监控已拆除",
+        "onboard_time": 1731668118,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240922,
+        "num": 240922,
+        "word": "李子柒说互联网真的和以前不一样了",
+        "onboard_time": 1731664938,
+        "rank": 16,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 164460,
+        "num": 164460,
+        "word": "43岁司机高速上猝死卡友接力送货",
+        "onboard_time": 1731665718,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32145,
+        "num": 158179,
+        "word": "吃喝玩乐皆是非遗",
+        "onboard_time": 1731672799,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157421,
+        "num": 157421,
+        "word": "涵艺怒喷Doinb",
+        "onboard_time": 1731669199,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270016,
+        "num": 157389,
+        "word": "丁禹兮人挺好的别说他坏话",
+        "onboard_time": 1731669858,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203090,
+        "num": 157192,
+        "word": "金鸡奖",
+        "onboard_time": 1731673759,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199819,
+        "num": 156995,
+        "word": "女生不喝奶茶却查出糖尿病无法接受",
+        "onboard_time": 1731656060,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62013,
+        "num": 156831,
+        "word": "哏的",
+        "onboard_time": 1731674240,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196859,
+        "num": 156596,
+        "word": "大鹏感谢王一博",
+        "onboard_time": 1731673698,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191668,
+        "num": 156425,
+        "word": "再见爱人4 留几手葛夕还是敢说",
+        "onboard_time": 1731673398,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162374,
+        "num": 156204,
+        "word": "赵丽颖金鸡奖提名视频",
+        "onboard_time": 1731671359,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140142,
+        "num": 156065,
+        "word": "中俄三款隐身战机齐聚中国航展",
+        "onboard_time": 1731670219,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134308,
+        "num": 155856,
+        "word": "永夜星河29集预告25秒",
+        "onboard_time": 1731674179,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61717,
+        "num": 155639,
+        "word": "赵一博全黑look",
+        "onboard_time": 1731673339,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64646,
+        "num": 155406,
+        "word": "Uzi复盘首局失利",
+        "onboard_time": 1731673339,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155331,
+        "num": 155331,
+        "word": "王安宇四个想你的动态眼技",
+        "onboard_time": 1731674059,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150967,
+        "num": 150967,
+        "word": "下一战歌手",
+        "onboard_time": 1731669438,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20352,
+        "num": 143076,
+        "word": "南方人闪现北方该怎么穿",
+        "onboard_time": 1731673640,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 135397,
+        "num": 135397,
+        "word": "葛夕 送礼教科书",
+        "onboard_time": 1731668359,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130359,
+        "num": 130359,
+        "word": "潘展乐张雨霏等奥运健儿上联播了",
+        "onboard_time": 1731673578,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "登陆少年金鸡献唱只此青绿",
+        "onboard_time": 1731673039,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105984,
+        "num": 124944,
+        "word": "专家称本轮房价拐点全方位到来",
+        "onboard_time": 1731672499,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124559,
+        "num": 124559,
+        "word": "金俊秀被曝遭女主播敲诈超8亿韩元",
+        "onboard_time": 1731665299,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122903,
+        "num": 122903,
+        "word": "天舟八号瞄准23时13分发射",
+        "onboard_time": 1731666678,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122627,
+        "num": 122627,
+        "word": "女子吃了三年牛黄解毒片后砒霜中毒",
+        "onboard_time": 1731662298,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122417,
+        "num": 122417,
+        "word": "永夜星河26集",
+        "onboard_time": 1731672679,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120039,
+        "num": 120039,
+        "word": "林高远 感谢国乒队对我的培养",
+        "onboard_time": 1731671119,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116449,
+        "num": 116449,
+        "word": "马嘉祺单人直播",
+        "onboard_time": 1731661218,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115187,
+        "num": 115187,
+        "word": "邓超有新团队五哈集体吃醋",
+        "onboard_time": 1731673339,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109459,
+        "num": 109459,
+        "word": "让韩国服帖烫永远留在韩国吧",
+        "onboard_time": 1731669798,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 97304,
+        "num": 97304,
+        "word": "湖南13岁学生被班主任打肿脸",
+        "onboard_time": 1731674000,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88790,
+        "num": 96222,
+        "word": "张云龙打球娜扎给他送水",
+        "onboard_time": 1731662060,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14340,
+        "num": 96128,
+        "word": "四川一地停气4月1500户居民受影响",
+        "onboard_time": 1731672440,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88547,
+        "num": 96102,
+        "word": "中国奥运天团把我带回了2024的夏天",
+        "onboard_time": 1731674541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秘关于深化全面战略伙伴关系的联合声明#"
+    }
+  }
+}
