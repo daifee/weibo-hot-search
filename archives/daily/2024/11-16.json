@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731695473543,
+  "endTime": 1731696273691,
   "band_list": [
     {
       "raw_hot": 1423536,
@@ -339,6 +339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85585,
+      "num": 85585,
+      "word": "记者采访被袭中铁七局5人就地免职",
+      "onboard_time": 1731693554,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 85359,
       "num": 85359,
       "word": "袁一琦成立个人工作室了",
@@ -387,14 +395,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 74646,
-      "num": 74646,
-      "word": "记者采访被袭中铁七局5人就地免职",
-      "onboard_time": 1731693554,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 74462,
       "num": 82408,
       "word": "证监会正式发布市值管理指引",
@@ -417,6 +417,14 @@
       "onboard_time": 1731678320,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72508,
+      "num": 77156,
+      "word": "当地回应上海截取不雅字打卡地走红",
+      "onboard_time": 1731692713,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69302,
@@ -451,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41144,
+      "num": 41144,
+      "word": "小巷人家",
+      "onboard_time": 1731672737,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39735,
       "num": 51589,
       "word": "涵艺怒喷Doinb",
       "onboard_time": 1731669199,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 39570,
-      "num": 39570,
-      "word": "小巷人家",
-      "onboard_time": 1731672737,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 37481,
@@ -491,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26896,
-      "num": 77156,
-      "word": "当地回应上海截取不雅字打卡地走红",
-      "onboard_time": 1731692713,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 31091,
+      "num": 56691,
+      "word": "关晓彤吴艳妮活动同框",
+      "onboard_time": 1731695171,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29560,
+      "num": 29560,
+      "word": "登陆少年组合登陆金鸡",
+      "onboard_time": 1731695892,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 21492,
@@ -507,18 +523,26 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18793,
+      "num": 40513,
+      "word": "中秘同为文明古国",
+      "onboard_time": 1731695532,
+      "rank": 25,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 18707,
+      "num": 40628,
+      "word": "李在明被判有期徒刑1年",
+      "onboard_time": 1731695892,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11616,
       "num": 110432,
       "word": "赵一博召唤了一群190男大",
       "onboard_time": 1731690256,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8274,
-      "num": 56691,
-      "word": "关晓彤吴艳妮活动同框",
-      "onboard_time": 1731695171,
       "rank": 19,
       "category": "艺人"
     },
@@ -531,7 +555,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5842,
+      "raw_hot": 5975,
       "num": 143325,
       "word": "航拍秘鲁钱凯港",
       "onboard_time": 1731678320,
