@@ -1,0 +1,410 @@
+{
+  "runTime": 1731681647267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1438551,
+        "num": 1438551,
+        "word": "外卖员吐槽尽量不要点黄焖鸡",
+        "onboard_time": 1731667219,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911552,
+        "num": 911552,
+        "word": "丁禹兮主持",
+        "onboard_time": 1731676579,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34945,
+        "num": 571058,
+        "word": "秘鲁姑娘想在本国坐上中国高铁",
+        "onboard_time": 1731678440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 523800,
+        "num": 523800,
+        "word": "BBC报道李子柒复出打上灰色滤镜",
+        "onboard_time": 1731672737,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 515965,
+        "num": 515965,
+        "word": "涂毓麟 欢迎来到毓言的奇妙之旅",
+        "onboard_time": 1731678499,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441367,
+        "num": 441367,
+        "word": "李在明获刑",
+        "onboard_time": 1731677840,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421635,
+        "num": 421635,
+        "word": "张艺谋女儿任达华女儿 巴黎名媛舞会",
+        "onboard_time": 1731675800,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394922,
+        "num": 394922,
+        "word": "喻言 垫音",
+        "onboard_time": 1731677420,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382222,
+        "num": 382222,
+        "word": "女子面试还没入职先欠2.5万元贷款",
+        "onboard_time": 1731675319,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293147,
+        "num": 293147,
+        "word": "近500人300元抢到6399元九号电车",
+        "onboard_time": 1731674059,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888344,
+        "num": 291965,
+        "word": "上海截取不雅字的打卡地走红",
+        "onboard_time": 1731670580,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581714,
+        "num": 286845,
+        "word": "京东物流已向警方报案",
+        "onboard_time": 1731676640,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 539441,
+        "num": 281332,
+        "word": "秋瓷炫带儿子第一次在中国坐地铁",
+        "onboard_time": 1731678381,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364877,
+        "num": 279536,
+        "word": "再见爱人4 留几手葛夕还是敢说",
+        "onboard_time": 1731673398,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325812,
+        "num": 275069,
+        "word": "男教师被指猥亵指认现场翻窗坠亡",
+        "onboard_time": 1731665958,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271818,
+        "num": 271818,
+        "word": "云南一司机卸货不慎连人带车滚下山崖",
+        "onboard_time": 1731676280,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264943,
+        "num": 264943,
+        "word": "43岁司机高速上猝死卡友接力送货",
+        "onboard_time": 1731665718,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259888,
+        "num": 259888,
+        "word": "关晓彤王安宇CP感",
+        "onboard_time": 1731680361,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 239144,
+        "word": "苏新皓又换发色了",
+        "onboard_time": 1731681319,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 230056,
+        "word": "印尼0比4日本",
+        "onboard_time": 1731681380,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284928,
+        "num": 227391,
+        "word": "女生不喝奶茶却查出糖尿病无法接受",
+        "onboard_time": 1731656060,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223964,
+        "num": 223964,
+        "word": "李子柒学缫丝1天睡两三个小时",
+        "onboard_time": 1731677900,
+        "rank": 21,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 205064,
+        "num": 205064,
+        "word": "妙妙慕声AI吻戏",
+        "onboard_time": 1731674719,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203903,
+        "num": 203903,
+        "word": "官方调查中学生上台指责学校被带离",
+        "onboard_time": 1731676640,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 196516,
+        "num": 196516,
+        "word": "李行亮坚定选择不离婚",
+        "onboard_time": 1731669020,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195959,
+        "num": 195959,
+        "word": "永夜星河 女主戏份",
+        "onboard_time": 1731668839,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193835,
+        "num": 193835,
+        "word": "徐峥在耶鲁上课",
+        "onboard_time": 1731676939,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173803,
+        "num": 173803,
+        "word": "印尼vs日本",
+        "onboard_time": 1731676399,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164673,
+        "num": 164673,
+        "word": "凌妙妙29集恢复记忆了",
+        "onboard_time": 1731678320,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67794,
+        "num": 163607,
+        "word": "黄玲的第一条金项链是宋莹送的",
+        "onboard_time": 1731680720,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162741,
+        "num": 162741,
+        "word": "祝绪丹漏勺型直播",
+        "onboard_time": 1731676760,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159307,
+        "num": 159307,
+        "word": "永夜星河OST",
+        "onboard_time": 1731680001,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148890,
+        "num": 148890,
+        "word": "央视曝光招工医美贷骗局",
+        "onboard_time": 1731680241,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144616,
+        "num": 144616,
+        "word": "金鸡奖",
+        "onboard_time": 1731673759,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40502,
+        "num": 141326,
+        "word": "律师解读电动车闯红灯被撞要负全责",
+        "onboard_time": 1731679639,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141162,
+        "num": 141162,
+        "word": "李子柒说互联网真的和以前不一样了",
+        "onboard_time": 1731664938,
+        "rank": 35,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 138807,
+        "num": 138807,
+        "word": "王一博 我觉得自己还是太幸运了",
+        "onboard_time": 1731675739,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132397,
+        "num": 132397,
+        "word": "彭高 蓝色是天空和大海的颜色",
+        "onboard_time": 1731667279,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131185,
+        "num": 131185,
+        "word": "天舟八号发射",
+        "onboard_time": 1731678320,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130529,
+        "num": 130529,
+        "word": "王子文把莫奈花园穿在身上",
+        "onboard_time": 1731678800,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126090,
+        "num": 126090,
+        "word": "央视曝光网约车外挂作弊抢单",
+        "onboard_time": 1731676159,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122866,
+        "num": 122866,
+        "word": "小巷人家",
+        "onboard_time": 1731672737,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121986,
+        "num": 121986,
+        "word": "麦琳不是第一次提离婚了",
+        "onboard_time": 1731666139,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113159,
+        "num": 113159,
+        "word": "我国首次在沙特发行20亿美元主权债券",
+        "onboard_time": 1731680421,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102306,
+        "num": 102306,
+        "word": "天舟八号瞄准23时13分发射",
+        "onboard_time": 1731666678,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101062,
+        "num": 101062,
+        "word": "王一博彭昱畅让C位",
+        "onboard_time": 1731671359,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99714,
+        "num": 99714,
+        "word": "邵子恒一公舞台",
+        "onboard_time": 1731679401,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86619,
+        "num": 99706,
+        "word": "62岁苏57飞行员休息时每天走10公里",
+        "onboard_time": 1731681440,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 83633,
+        "num": 99622,
+        "word": "教体局回应学生吐槽学校被闭麦拉走",
+        "onboard_time": 1731680901,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79682,
+        "num": 99576,
+        "word": "涵艺怒喷Doinb",
+        "onboard_time": 1731669199,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席的利马时间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731680505923,
+  "endTime": 1731681647267,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1438551,
+      "num": 1438551,
+      "word": "外卖员吐槽尽量不要点黄焖鸡",
+      "onboard_time": 1731667219,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1407640,
       "num": 1407640,
       "word": "反诈老陈称当年辞职太冲动",
@@ -97,14 +105,6 @@
       "onboard_time": 1731653958,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1292660,
-      "num": 1292660,
-      "word": "外卖员吐槽尽量不要点黄焖鸡",
-      "onboard_time": 1731667219,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1222231,
@@ -475,6 +475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 581714,
+      "num": 381154,
+      "word": "京东物流已向警方报案",
+      "onboard_time": 1731676640,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 581374,
       "num": 550843,
       "word": "王一博范丞丞金鸡红毯生图",
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539441,
+      "num": 389907,
+      "word": "秋瓷炫带儿子第一次在中国坐地铁",
+      "onboard_time": 1731678381,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533491,
       "num": 533491,
       "word": "麦琳不是第一次提离婚了",
@@ -531,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515965,
+      "num": 515965,
+      "word": "涂毓麟 欢迎来到毓言的奇妙之旅",
+      "onboard_time": 1731678499,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515714,
       "num": 430967,
       "word": "喻言 垫音",
@@ -545,14 +569,6 @@
       "onboard_time": 1731599361,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 502971,
-      "num": 389907,
-      "word": "秋瓷炫带儿子第一次在中国坐地铁",
-      "onboard_time": 1731678381,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 500319,
@@ -577,22 +593,6 @@
       "onboard_time": 1731659899,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 479654,
-      "num": 385294,
-      "word": "涂毓麟 欢迎来到毓言的奇妙之旅",
-      "onboard_time": 1731678499,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 471256,
-      "num": 381154,
-      "word": "京东物流已向警方报案",
-      "onboard_time": 1731676640,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 468895,
@@ -625,6 +625,14 @@
       "onboard_time": 1731644060,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 441367,
+      "num": 441367,
+      "word": "李在明获刑",
+      "onboard_time": 1731677840,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 437624,
@@ -673,6 +681,14 @@
       "onboard_time": 1731664818,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 421635,
+      "num": 421635,
+      "word": "张艺谋女儿任达华女儿 巴黎名媛舞会",
+      "onboard_time": 1731675800,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 420642,
@@ -875,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323756,
-      "num": 400846,
-      "word": "李在明获刑",
-      "onboard_time": 1731677840,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 323323,
       "num": 323323,
       "word": "洪承汉将solo",
@@ -1027,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271818,
+      "num": 271818,
+      "word": "云南一司机卸货不慎连人带车滚下山崖",
+      "onboard_time": 1731676280,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270016,
       "num": 191056,
       "word": "丁禹兮人挺好的别说他坏话",
@@ -1059,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259888,
+      "num": 259888,
+      "word": "关晓彤王安宇CP感",
+      "onboard_time": 1731680361,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257817,
       "num": 257817,
       "word": "一个恶心的方法拿下四六级",
@@ -1088,14 +1112,6 @@
       "word": "这一刻64岁的她迎来了自己的16岁",
       "onboard_time": 1731662358,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253504,
-      "num": 253504,
-      "word": "云南一司机卸货不慎连人带车滚下山崖",
-      "onboard_time": 1731676280,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1201,6 +1217,14 @@
       "onboard_time": 1731600620,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223964,
+      "num": 223964,
+      "word": "李子柒学缫丝1天睡两三个小时",
+      "onboard_time": 1731677900,
+      "rank": 39,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 223333,
@@ -1331,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203903,
+      "num": 414939,
+      "word": "官方调查中学生上台指责学校被带离",
+      "onboard_time": 1731676640,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 203090,
       "num": 193412,
       "word": "金鸡奖",
@@ -1451,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193835,
+      "num": 302130,
+      "word": "徐峥在耶鲁上课",
+      "onboard_time": 1731676939,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193544,
       "num": 193544,
       "word": "女子吃了三年牛黄解毒片后砒霜中毒",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1731654440,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192472,
-      "num": 414939,
-      "word": "官方调查中学生上台指责学校被带离",
-      "onboard_time": 1731676640,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 192248,
@@ -1707,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175329,
-      "num": 175329,
-      "word": "李子柒学缫丝1天睡两三个小时",
-      "onboard_time": 1731677900,
-      "rank": 39,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 174996,
       "num": 174996,
       "word": "邓超给鹿晗画的大饼",
@@ -1737,14 +1761,6 @@
       "onboard_time": 1731638960,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172961,
-      "num": 302130,
-      "word": "徐峥在耶鲁上课",
-      "onboard_time": 1731676939,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 172491,
@@ -1883,6 +1899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164673,
+      "num": 164673,
+      "word": "凌妙妙29集恢复记忆了",
+      "onboard_time": 1731678320,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164328,
       "num": 164328,
       "word": "金鸡奖提名表彰内场",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1731647600,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 159307,
+      "num": 159307,
+      "word": "永夜星河OST",
+      "onboard_time": 1731680001,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159149,
@@ -2083,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153306,
+      "num": 230056,
+      "word": "印尼0比4日本",
+      "onboard_time": 1731681380,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152047,
       "num": 152047,
       "word": "余承东称尊界很大很尊很亮",
@@ -2131,12 +2171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149223,
-      "num": 149223,
-      "word": "凌妙妙29集恢复记忆了",
-      "onboard_time": 1731678320,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 148890,
+      "num": 148890,
+      "word": "央视曝光招工医美贷骗局",
+      "onboard_time": 1731680241,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147899,
@@ -2299,19 +2339,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136099,
+      "num": 239144,
+      "word": "苏新皓又换发色了",
+      "onboard_time": 1731681319,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135359,
       "num": 135359,
       "word": "庄超英被骂我看爽了",
       "onboard_time": 1731628038,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134928,
-      "num": 134928,
-      "word": "永夜星河OST",
-      "onboard_time": 1731680001,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2473,14 +2513,6 @@
       "onboard_time": 1731587061,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 123379,
-      "num": 123379,
-      "word": "关晓彤王安宇CP感",
-      "onboard_time": 1731680361,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 123233,
@@ -2675,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113159,
+      "num": 113159,
+      "word": "我国首次在沙特发行20亿美元主权债券",
+      "onboard_time": 1731680421,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113002,
       "num": 113002,
       "word": "田沁鑫是张艺兴孙红雷cp粉头吧",
@@ -2761,14 +2801,6 @@
       "onboard_time": 1731593002,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104912,
-      "num": 104912,
-      "word": "央视曝光招工医美贷骗局",
-      "onboard_time": 1731680241,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104549,
@@ -2899,12 +2931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86425,
-      "num": 86425,
-      "word": "我国首次在沙特发行20亿美元主权债券",
-      "onboard_time": 1731680421,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 86619,
+      "num": 99706,
+      "word": "62岁苏57飞行员休息时每天走10公里",
+      "onboard_time": 1731681440,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 85536,
@@ -2921,6 +2953,14 @@
       "onboard_time": 1731673816,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83633,
+      "num": 99622,
+      "word": "教体局回应学生吐槽学校被闭麦拉走",
+      "onboard_time": 1731680901,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82557,
@@ -3001,6 +3041,14 @@
       "onboard_time": 1731660140,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67794,
+      "num": 163607,
+      "word": "黄玲的第一条金项链是宋莹送的",
+      "onboard_time": 1731680720,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 67220,
@@ -3355,6 +3403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 40502,
+      "num": 378396,
+      "word": "律师解读电动车闯红灯被撞要负全责",
+      "onboard_time": 1731679639,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40323,
       "num": 244635,
       "word": "运动员的力量美学",
@@ -3451,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34945,
+      "num": 695418,
+      "word": "秘鲁姑娘想在本国坐上中国高铁",
+      "onboard_time": 1731678440,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34714,
       "num": 225871,
       "word": "价格是车最好的医美",
@@ -3521,14 +3585,6 @@
       "onboard_time": 1731663439,
       "rank": 18,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 32911,
-      "num": 695418,
-      "word": "秘鲁姑娘想在本国坐上中国高铁",
-      "onboard_time": 1731678440,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32442,
@@ -3721,14 +3777,6 @@
       "onboard_time": 1731675380,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27424,
-      "num": 378396,
-      "word": "律师解读电动车闯红灯被撞要负全责",
-      "onboard_time": 1731679639,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26947,
@@ -4192,6 +4240,9 @@
     },
     {
       "word": "#中秘关于深化全面战略伙伴关系的联合声明#"
+    },
+    {
+      "word": "#习近平主席的利马时间#"
     }
   ]
 }
