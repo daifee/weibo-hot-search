@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731635262234,
+  "endTime": 1731636602577,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -17,6 +17,14 @@
       "onboard_time": 1731590901,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1107696,
+      "num": 1177231,
+      "word": "劳斯莱斯车主已走保险理赔",
+      "onboard_time": 1731632359,
+      "rank": 1,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 1083024,
@@ -59,14 +67,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 743260,
-      "num": 743260,
-      "word": "劳斯莱斯车主已走保险理赔",
-      "onboard_time": 1731632359,
-      "rank": 1,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 737866,
       "num": 449623,
       "word": "武磊怒赞张玉宁",
@@ -107,6 +107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549909,
+      "num": 549909,
+      "word": "丁禹兮录团综染发了",
+      "onboard_time": 1731635117,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 521601,
+      "num": 521601,
+      "word": "王者荣耀 柯南",
+      "onboard_time": 1731633260,
+      "rank": 3,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 520134,
       "num": 298859,
       "word": "麦琳也没选李行亮",
@@ -115,20 +131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513530,
-      "num": 513530,
-      "word": "王者荣耀 柯南",
-      "onboard_time": 1731633260,
-      "rank": 3,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 504306,
       "num": 360629,
       "word": "国足 裁判",
       "onboard_time": 1731599361,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 493480,
+      "num": 493480,
+      "word": "迈巴赫漏水事件解决方案",
+      "onboard_time": 1731634880,
+      "rank": 39,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 468895,
@@ -228,11 +244,19 @@
     },
     {
       "raw_hot": 332299,
-      "num": 279839,
+      "num": 280383,
       "word": "虞书欣北海",
       "onboard_time": 1731630259,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327215,
+      "num": 274010,
+      "word": "身份证上的姓名能想改就改吗",
+      "onboard_time": 1731633198,
+      "rank": 31,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 301141,
@@ -241,6 +265,14 @@
       "onboard_time": 1731580461,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297001,
+      "num": 297001,
+      "word": "大学生300元抢6399元九号电车提车被拒",
+      "onboard_time": 1731635718,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294001,
@@ -299,16 +331,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265761,
-      "num": 265761,
-      "word": "身份证上的姓名能想改就改吗",
-      "onboard_time": 1731633198,
-      "rank": 31,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 247667,
-      "num": 247667,
+      "raw_hot": 250155,
+      "num": 250155,
       "word": "福宝假吃胡萝卜",
       "onboard_time": 1731633559,
       "rank": 32,
@@ -323,12 +347,12 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 235038,
-      "num": 279430,
-      "word": "丁禹兮录团综染发了",
-      "onboard_time": 1731635117,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 234488,
+      "num": 256311,
+      "word": "张艺兴让孙红雷坐他腿上",
+      "onboard_time": 1731635239,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 231801,
@@ -361,6 +385,14 @@
       "onboard_time": 1731600620,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215876,
+      "num": 215876,
+      "word": "金价连跌5天创两月新低",
+      "onboard_time": 1731635539,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 212035,
@@ -427,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173980,
+      "num": 173980,
+      "word": "一句减肥包美的半年减了30多斤",
+      "onboard_time": 1731632840,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171837,
       "num": 171837,
       "word": "广州车展",
@@ -439,6 +479,14 @@
       "num": 215888,
       "word": "妙妙失忆忘了子期",
       "onboard_time": 1731584120,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170216,
+      "num": 254551,
+      "word": "小巷人家 三人行必有一嫌",
+      "onboard_time": 1731635958,
       "rank": 27,
       "category": "剧集"
     },
@@ -507,14 +555,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 153674,
-      "num": 153674,
-      "word": "迈巴赫漏水事件解决方案",
-      "onboard_time": 1731634880,
-      "rank": 39,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 149630,
       "num": 277598,
       "word": "张云龙参加新剧开机宴",
@@ -545,14 +585,6 @@
       "onboard_time": 1731622391,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140530,
-      "num": 140530,
-      "word": "一句减肥包美的半年减了30多斤",
-      "onboard_time": 1731632840,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 138428,
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127024,
+      "num": 127024,
+      "word": "巴拉圭2比1阿根廷",
+      "onboard_time": 1731636078,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126742,
       "num": 126742,
       "word": "周杰伦王嘉尔为林俊杰新书写推荐语",
@@ -627,12 +667,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 121390,
+      "num": 121390,
+      "word": "你见过能长一米多的猫咪吗",
+      "onboard_time": 1731635778,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120184,
       "num": 183232,
       "word": "万鹏生图",
       "onboard_time": 1731627017,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119912,
+      "num": 119912,
+      "word": "糖尿病不是吃糖吃出来的",
+      "onboard_time": 1731633078,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118892,
@@ -667,12 +723,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 117688,
-      "num": 117688,
-      "word": "张艺兴让孙红雷坐他腿上",
-      "onboard_time": 1731635239,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 116645,
+      "num": 116645,
+      "word": "这不是电影这是真实的缉毒现场",
+      "onboard_time": 1731631339,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115392,
@@ -704,14 +760,6 @@
       "word": "双11有女装店发2000单退了1500单",
       "onboard_time": 1731631220,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112195,
-      "num": 112195,
-      "word": "这不是电影这是真实的缉毒现场",
-      "onboard_time": 1731631339,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -963,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30347,
+      "num": 280988,
+      "word": "A股",
+      "onboard_time": 1731552679,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 29877,
       "num": 29877,
       "word": "虞书欣看到林大厨cos慕声的反应",
@@ -1011,6 +1067,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 27776,
+      "num": 275454,
+      "word": "广州发生多起狗被投毒事件",
+      "onboard_time": 1731636501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25751,
       "num": 25751,
       "word": "巴林进球越位",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1731607093,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 18810,
+      "num": 251490,
+      "word": "伊万18强赛前的计划全实现了",
+      "onboard_time": 1731636138,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 18442,
@@ -1172,7 +1244,7 @@
     },
     {
       "raw_hot": 5499,
-      "num": 550427,
+      "num": 593094,
       "word": "80秒带你走进魅力秘鲁",
       "onboard_time": 1731589521,
       "rank": 2,
@@ -1201,6 +1273,9 @@
     },
     {
       "word": "#习近平同秘鲁总统举行会谈#"
+    },
+    {
+      "word": "#习近平主席抵达秘鲁受到热烈欢迎#"
     }
   ]
 }

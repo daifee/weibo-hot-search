@@ -1,0 +1,410 @@
+{
+  "runTime": 1731636602577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107696,
+        "num": 1177231,
+        "word": "劳斯莱斯车主已走保险理赔",
+        "onboard_time": 1731632359,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 681496,
+        "num": 681496,
+        "word": "除夕不用请假了你打算回家还是旅游",
+        "onboard_time": 1731616390,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 4282,
+        "num": 593094,
+        "word": "80秒带你走进魅力秘鲁",
+        "onboard_time": 1731589521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549909,
+        "num": 549909,
+        "word": "丁禹兮录团综染发了",
+        "onboard_time": 1731635117,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521601,
+        "num": 521601,
+        "word": "王者荣耀 柯南",
+        "onboard_time": 1731633260,
+        "rank": 4,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 493480,
+        "num": 493480,
+        "word": "迈巴赫漏水事件解决方案",
+        "onboard_time": 1731634880,
+        "rank": 5,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 380994,
+        "num": 380994,
+        "word": "papi酱说李行亮不哄了",
+        "onboard_time": 1731596003,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297001,
+        "num": 297001,
+        "word": "大学生300元抢6399元九号电车提车被拒",
+        "onboard_time": 1731635718,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288339,
+        "num": 288339,
+        "word": "国足赢了",
+        "onboard_time": 1731600381,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282163,
+        "num": 282163,
+        "word": "侯佩岑 婚姻中有6个人",
+        "onboard_time": 1731627077,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790454,
+        "num": 282038,
+        "word": "电影院是救了胡冰卿的命吗",
+        "onboard_time": 1731630800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773592,
+        "num": 281825,
+        "word": "男婴在月子中心肚子肿胀送医后离世",
+        "onboard_time": 1731629839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619124,
+        "num": 281657,
+        "word": "夫妻海上遇险妻子悬空呼救丈夫遇难",
+        "onboard_time": 1731632061,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459447,
+        "num": 281264,
+        "word": "麦琳也没选李行亮",
+        "onboard_time": 1731628518,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30347,
+        "num": 280988,
+        "word": "A股",
+        "onboard_time": 1731552679,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 450438,
+        "num": 280842,
+        "word": "丁禹兮很讨厌被你拍",
+        "onboard_time": 1731630259,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334184,
+        "num": 280642,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1731632061,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294523,
+        "num": 280383,
+        "word": "虞书欣北海",
+        "onboard_time": 1731630259,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280194,
+        "num": 280194,
+        "word": "37岁副教授因白血病去世",
+        "onboard_time": 1731629418,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27776,
+        "num": 275454,
+        "word": "广州发生多起狗被投毒事件",
+        "onboard_time": 1731636501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344295,
+        "num": 274794,
+        "word": "断糖60天面部的变化",
+        "onboard_time": 1731627017,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327215,
+        "num": 274010,
+        "word": "身份证上的姓名能想改就改吗",
+        "onboard_time": 1731633198,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 272456,
+        "num": 272456,
+        "word": "顺风车迟迟不到或用了外挂抢单",
+        "onboard_time": 1731630140,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174587,
+        "num": 262437,
+        "word": "俄宣布苏57已出口",
+        "onboard_time": 1731634399,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 257656,
+        "num": 257656,
+        "word": "李行亮说麦琳连离婚都很强势",
+        "onboard_time": 1731595162,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234488,
+        "num": 256311,
+        "word": "张艺兴让孙红雷坐他腿上",
+        "onboard_time": 1731635239,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174355,
+        "num": 254907,
+        "word": "黄子弘凡被黄圣依的名字吓退了半步",
+        "onboard_time": 1731634338,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170216,
+        "num": 254551,
+        "word": "小巷人家 三人行必有一嫌",
+        "onboard_time": 1731635958,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148823,
+        "num": 252950,
+        "word": "被山海经的相柳转场震撼到",
+        "onboard_time": 1731627017,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18810,
+        "num": 251490,
+        "word": "伊万18强赛前的计划全实现了",
+        "onboard_time": 1731636138,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250155,
+        "num": 250155,
+        "word": "福宝假吃胡萝卜",
+        "onboard_time": 1731633559,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247818,
+        "num": 247818,
+        "word": "不吸烟女性肺癌发病率越来越高",
+        "onboard_time": 1731627017,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241538,
+        "num": 241538,
+        "word": "雷军承认车间睡觉照是摆拍",
+        "onboard_time": 1731586940,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215876,
+        "num": 215876,
+        "word": "金价连跌5天创两月新低",
+        "onboard_time": 1731635539,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137335,
+        "num": 199242,
+        "word": "张云龙参加新剧开机宴",
+        "onboard_time": 1731632241,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191360,
+        "num": 191360,
+        "word": "李子柒曾当服务员月入300仍资助学生",
+        "onboard_time": 1731633619,
+        "rank": 35,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 179981,
+        "num": 179981,
+        "word": "韩国高考听力时段全境暂停飞机起降",
+        "onboard_time": 1731611592,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188724,
+        "num": 177466,
+        "word": "李子柒说满园春色才是春",
+        "onboard_time": 1731630680,
+        "rank": 37,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 174479,
+        "num": 174479,
+        "word": "国足1比0巴林队",
+        "onboard_time": 1731600260,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173980,
+        "num": 173980,
+        "word": "一句减肥包美的半年减了30多斤",
+        "onboard_time": 1731632840,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162877,
+        "num": 162877,
+        "word": "Uzi被弹幕搞破防",
+        "onboard_time": 1731632539,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149850,
+        "num": 149850,
+        "word": "王者荣耀",
+        "onboard_time": 1731629478,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129926,
+        "num": 129926,
+        "word": "3绒3羊3胞胎妈妈已坚持33周",
+        "onboard_time": 1731606314,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 127024,
+        "num": 127024,
+        "word": "巴拉圭2比1阿根廷",
+        "onboard_time": 1731636078,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121390,
+        "num": 121390,
+        "word": "你见过能长一米多的猫咪吗",
+        "onboard_time": 1731635778,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121145,
+        "num": 121145,
+        "word": "王一博到达厦门",
+        "onboard_time": 1731631879,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119912,
+        "num": 119912,
+        "word": "糖尿病不是吃糖吃出来的",
+        "onboard_time": 1731633078,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116645,
+        "num": 116645,
+        "word": "这不是电影这是真实的缉毒现场",
+        "onboard_time": 1731631339,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107579,
+        "num": 107579,
+        "word": "朴彩英直播",
+        "onboard_time": 1731630379,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105659,
+        "num": 105659,
+        "word": "THEBOYZ签约MC梦公司",
+        "onboard_time": 1731634638,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达秘鲁受到热烈欢迎#"
+    }
+  }
+}
