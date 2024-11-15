@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731710534962,
+  "endTime": 1731712940311,
   "band_list": [
     {
       "raw_hot": 1423536,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 637782,
-      "num": 637782,
+      "num": 792164,
       "word": "人被被子单杀可能性几乎但并不为零",
       "onboard_time": 1731686899,
       "rank": 22,
@@ -65,6 +65,14 @@
       "onboard_time": 1731681440,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426754,
+      "num": 119763,
+      "word": "祝绪丹一次直播漏个大的",
+      "onboard_time": 1731704892,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 407725,
@@ -155,12 +163,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 226519,
-      "num": 62304,
-      "word": "祝绪丹一次直播漏个大的",
-      "onboard_time": 1731704892,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 228728,
+      "num": 228728,
+      "word": "记者采访被袭中铁七局5人就地免职",
+      "onboard_time": 1731693554,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 203310,
@@ -169,6 +177,14 @@
       "onboard_time": 1731687918,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199855,
+      "num": 199855,
+      "word": "青岛一建筑突发爆炸",
+      "onboard_time": 1731686539,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 199357,
@@ -187,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175464,
-      "num": 195895,
-      "word": "青岛一建筑突发爆炸",
-      "onboard_time": 1731686539,
-      "rank": 23,
-      "category": "突发/灾害"
+      "raw_hot": 173117,
+      "num": 173117,
+      "word": "中领馆通报破获多名中国女性在德遭强奸案",
+      "onboard_time": 1731686179,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169500,
@@ -203,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163544,
+      "num": 78976,
+      "word": "女子称将狗借给剧组当群演1年多未还",
+      "onboard_time": 1731712635,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155171,
       "num": 155171,
       "word": "女生不喝奶茶却查出糖尿病无法接受",
       "onboard_time": 1731656060,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144858,
+      "num": 144858,
+      "word": "16万元的婚宴菜不热能索赔吗",
+      "onboard_time": 1731702791,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 143095,
@@ -225,14 +257,6 @@
       "onboard_time": 1731685220,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140109,
-      "num": 140109,
-      "word": "记者采访被袭中铁七局5人就地免职",
-      "onboard_time": 1731693554,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 132049,
@@ -259,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124098,
-      "num": 134575,
-      "word": "中领馆通报破获多名中国女性在德遭强奸案",
-      "onboard_time": 1731686179,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 115903,
+      "num": 115903,
+      "word": "5千多一桌的婚宴菜大部分都是凉的",
+      "onboard_time": 1731700271,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114512,
@@ -331,12 +355,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89404,
-      "num": 89404,
-      "word": "5千多一桌的婚宴菜大部分都是凉的",
-      "onboard_time": 1731700271,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 95721,
+      "num": 122709,
+      "word": "徐克射雕重点在襄阳保卫战",
+      "onboard_time": 1731693554,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 91394,
+      "num": 85894,
+      "word": "煮虾别等水开了才下锅",
+      "onboard_time": 1731690676,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 88228,
@@ -353,14 +385,6 @@
       "onboard_time": 1731682279,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85894,
-      "num": 85894,
-      "word": "煮虾别等水开了才下锅",
-      "onboard_time": 1731690676,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 85359,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80043,
+      "num": 80043,
+      "word": "成龙呼吁大家到电影院看电影",
+      "onboard_time": 1731712574,
+      "rank": 19,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 79946,
       "num": 75021,
       "word": "李子柒为什么没有平替",
@@ -451,20 +483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69215,
-      "num": 69215,
-      "word": "16万元的婚宴菜不热能索赔吗",
-      "onboard_time": 1731702791,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 68341,
       "num": 68341,
       "word": "金鸡奖",
       "onboard_time": 1731673759,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68276,
+      "num": 63924,
+      "word": "吴梦知从湖南卫视离职",
+      "onboard_time": 1731712814,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 66428,
@@ -483,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60372,
+      "num": 60372,
+      "word": "蔡琳否认不让高梓淇见儿子",
+      "onboard_time": 1731712754,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58954,
       "num": 56691,
       "word": "关晓彤吴艳妮活动同框",
@@ -491,12 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48640,
-      "num": 60711,
-      "word": "徐克射雕重点在襄阳保卫战",
-      "onboard_time": 1731693554,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 56317,
+      "num": 56317,
+      "word": "男子夜驾撞飞两头野猪被判全责",
+      "onboard_time": 1731706091,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50588,
+      "num": 50588,
+      "word": "美媒称马斯克与伊朗驻联合国大使会面",
+      "onboard_time": 1731711974,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41144,
@@ -507,12 +555,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40978,
+      "num": 40978,
+      "word": "章丘一动物园给黑猩猩吃大葱",
+      "onboard_time": 1731706450,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39735,
       "num": 51589,
       "word": "涵艺怒喷Doinb",
       "onboard_time": 1731669199,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38678,
+      "num": 38678,
+      "word": "菲在南海频繁兴风作浪破坏和平稳定",
+      "onboard_time": 1731709452,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 38471,
+      "num": 38641,
+      "word": "王安宇 破碎小狗",
+      "onboard_time": 1731704831,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 37481,
@@ -523,28 +595,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35002,
-      "num": 35002,
-      "word": "章丘一动物园给黑猩猩吃大葱",
-      "onboard_time": 1731706450,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34791,
-      "num": 34791,
-      "word": "男子夜驾撞飞两头野猪被判全责",
-      "onboard_time": 1731706091,
+      "raw_hot": 35929,
+      "num": 35929,
+      "word": "云南豌豆尖120元1kg热销韩国",
+      "onboard_time": 1731712695,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "美食,国际时政"
     },
     {
-      "raw_hot": 33747,
-      "num": 38641,
-      "word": "王安宇 破碎小狗",
-      "onboard_time": 1731704831,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 35810,
+      "num": 36043,
+      "word": "男子登山时坠崖救治无效身亡",
+      "onboard_time": 1731697572,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32608,
@@ -571,20 +635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28193,
+      "num": 121457,
+      "word": "四川文旅出手全是王炸",
+      "onboard_time": 1731711793,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26780,
       "num": 40628,
       "word": "李在明被判有期徒刑1年",
       "onboard_time": 1731695892,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25868,
-      "num": 36043,
-      "word": "男子登山时坠崖救治无效身亡",
-      "onboard_time": 1731697572,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25613,
@@ -627,20 +691,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18841,
+      "num": 48749,
+      "word": "西安千年银杏雨后迎颜值巅峰",
+      "onboard_time": 1731712754,
+      "rank": 38,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 16031,
       "num": 32572,
       "word": "又到了一年一度顺其自然捐款时刻",
       "onboard_time": 1731699192,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14417,
-      "num": 37749,
-      "word": "菲在南海频繁兴风作浪破坏和平稳定",
-      "onboard_time": 1731709452,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14299,
@@ -716,7 +780,7 @@
     },
     {
       "raw_hot": 5975,
-      "num": 149871,
+      "num": 257492,
       "word": "航拍秘鲁钱凯港",
       "onboard_time": 1731678320,
       "rank": 2,
