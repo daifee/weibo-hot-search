@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731644914378,
+  "endTime": 1731645790362,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -187,6 +187,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 592758,
+      "num": 249454,
+      "word": "葛夕冷脸洗内裤",
+      "onboard_time": 1731644720,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588512,
       "num": 588512,
       "word": "金价连跌5天创两月新低",
@@ -339,6 +347,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 366113,
+      "num": 366113,
+      "word": "宁波顺其自然又捐款109万元",
+      "onboard_time": 1731643881,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 359683,
       "num": 359683,
       "word": "退货",
@@ -361,6 +377,14 @@
       "onboard_time": 1731629418,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333506,
+      "num": 262382,
+      "word": "原著作者谈永夜星河",
+      "onboard_time": 1731644060,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 332299,
@@ -387,12 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306523,
-      "num": 239085,
+      "raw_hot": 317962,
+      "num": 246308,
       "word": "建议大家一定要远离恋爱式友情",
       "onboard_time": 1731641659,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308300,
+      "num": 291008,
+      "word": "肖战骑马训练花絮",
+      "onboard_time": 1731643461,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 301141,
@@ -401,6 +433,14 @@
       "onboard_time": 1731580461,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296927,
+      "num": 544949,
+      "word": "中国新增7个世界最佳旅游乡村",
+      "onboard_time": 1731639798,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 294001,
@@ -459,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265980,
-      "num": 544949,
-      "word": "中国新增7个世界最佳旅游乡村",
-      "onboard_time": 1731639798,
-      "rank": 8,
-      "category": "正能量"
+      "raw_hot": 268932,
+      "num": 229699,
+      "word": "文俊辉赵昭仪合作",
+      "onboard_time": 1731645741,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 265926,
@@ -473,14 +513,6 @@
       "onboard_time": 1731640578,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262534,
-      "num": 262534,
-      "word": "肖战骑马训练花絮",
-      "onboard_time": 1731643461,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 257485,
@@ -507,12 +539,12 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 238318,
-      "num": 238318,
-      "word": "宁波顺其自然又捐款109万元",
-      "onboard_time": 1731643881,
-      "rank": 25,
-      "category": "正能量"
+      "raw_hot": 240492,
+      "num": 240492,
+      "word": "妙妙子期抢买单这段笑崩溃了",
+      "onboard_time": 1731643520,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 236180,
@@ -521,14 +553,6 @@
       "onboard_time": 1731638479,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 234616,
-      "num": 234616,
-      "word": "妙妙子期抢买单这段笑崩溃了",
-      "onboard_time": 1731643520,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 234488,
@@ -579,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216607,
+      "num": 245355,
+      "word": "黄圣依四年前vs四年后",
+      "onboard_time": 1731640578,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212035,
       "num": 278771,
       "word": "被山海经的相柳转场震撼到",
@@ -593,6 +625,14 @@
       "onboard_time": 1731585679,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 207687,
+      "num": 243650,
+      "word": "奔跑吧团建拍了拍自己",
+      "onboard_time": 1731644781,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 207519,
@@ -619,12 +659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193219,
-      "num": 193219,
-      "word": "黄圣依四年前vs四年后",
-      "onboard_time": 1731640578,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 194650,
+      "num": 229763,
+      "word": "雨霖铃首发剧照",
+      "onboard_time": 1731644480,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191775,
@@ -643,20 +683,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191583,
-      "num": 242660,
-      "word": "原著作者谈永夜星河",
-      "onboard_time": 1731644060,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191148,
       "num": 273047,
       "word": "文俊辉古装",
       "onboard_time": 1731636679,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191103,
+      "num": 191103,
+      "word": "长沙南站一学生安检时砸伤民警",
+      "onboard_time": 1731645320,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190210,
@@ -683,20 +723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188803,
-      "num": 188803,
-      "word": "雨霖铃首发剧照",
-      "onboard_time": 1731644480,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187841,
       "num": 262694,
       "word": "小巷人家 三人行必有一嫌",
       "onboard_time": 1731635958,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185853,
+      "num": 242511,
+      "word": "国足vs日本门票全网售罄",
+      "onboard_time": 1731643941,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 185815,
@@ -713,14 +753,6 @@
       "onboard_time": 1731582019,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179198,
-      "num": 179198,
-      "word": "葛夕冷脸洗内裤",
-      "onboard_time": 1731644720,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 175680,
@@ -753,6 +785,14 @@
       "onboard_time": 1731634338,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 171318,
+      "num": 253872,
+      "word": "THEBOYZ或改名THEBOYS",
+      "onboard_time": 1731644961,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 170925,
@@ -867,28 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147777,
-      "num": 242511,
-      "word": "国足vs日本门票全网售罄",
-      "onboard_time": 1731643941,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143545,
       "num": 143545,
       "word": "黄金跌上热搜",
       "onboard_time": 1731622811,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 142706,
-      "num": 142706,
-      "word": "奔跑吧团建拍了拍自己",
-      "onboard_time": 1731644781,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 141316,
@@ -963,6 +987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128255,
+      "num": 263892,
+      "word": "养老问题成了海外独生子最深的痛",
+      "onboard_time": 1731643819,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 127024,
       "num": 127024,
       "word": "巴拉圭2比1阿根廷",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1731627017,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119448,
+      "num": 243221,
+      "word": "顺其自然再捐109万元",
+      "onboard_time": 1731644420,
+      "rank": 27,
+      "category": "正能量"
     },
     {
       "raw_hot": 119433,
@@ -1163,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108233,
-      "num": 263892,
-      "word": "养老问题成了海外独生子最深的痛",
-      "onboard_time": 1731643819,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 108141,
       "num": 108141,
       "word": "计划有变 准备出线",
@@ -1187,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104549,
+      "num": 162468,
+      "word": "赵丽颖将出席新加坡国际电影节",
+      "onboard_time": 1731645382,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104082,
       "num": 104082,
       "word": "考公人在自习室看到这正确率心死了",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1731591681,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101796,
+      "num": 253472,
+      "word": "国足赛后退钱哥笑称不退钱了",
+      "onboard_time": 1731644961,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 101100,
@@ -1259,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79266,
+      "num": 177527,
+      "word": "祝绪丹小学生春游综合症",
+      "onboard_time": 1731643279,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77225,
       "num": 77225,
       "word": "绍伊古在中国航母电子沙盘前驻足",
@@ -1307,6 +1363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 63118,
+      "num": 220377,
+      "word": "电影胜券在握今日上映",
+      "onboard_time": 1731644662,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61400,
       "num": 61400,
       "word": "国足两连胜",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1731596662,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48435,
-      "num": 220377,
-      "word": "电影胜券在握今日上映",
-      "onboard_time": 1731644662,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 48014,
@@ -1515,6 +1571,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 27934,
+      "num": 251706,
+      "word": "极氪端到端Plus上车",
+      "onboard_time": 1731642501,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 27796,
       "num": 277011,
       "word": "白帝空天战机震撼亮相航展",
@@ -1547,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25095,
-      "num": 241819,
-      "word": "极氪端到端Plus上车",
-      "onboard_time": 1731642501,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 24918,
       "num": 104186,
       "word": "采访权是新闻记者的正当权利",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1731625095,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21083,
+      "num": 242382,
+      "word": "广州车展上的王炸组合",
+      "onboard_time": 1731644901,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 19692,
@@ -1619,12 +1683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16086,
+      "num": 250849,
+      "word": "一台车两间房三张床",
+      "onboard_time": 1731644901,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 14849,
       "num": 21775,
       "word": "为都一样制作MV",
       "onboard_time": 1731609972,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14608,
+      "num": 195133,
+      "word": "王俊凯每份幸运都在冬日蓄力",
+      "onboard_time": 1731644961,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14419,
@@ -1649,6 +1729,14 @@
       "onboard_time": 1731621131,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11890,
+      "num": 240789,
+      "word": "TGA2024",
+      "onboard_time": 1731644961,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 11343,

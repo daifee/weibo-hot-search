@@ -1,0 +1,410 @@
+{
+  "runTime": 1731645790362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373744,
+        "num": 1373744,
+        "word": "反诈老陈称当年辞职太冲动",
+        "onboard_time": 1731642079,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 918967,
+        "num": 918967,
+        "word": "31省份平均工资",
+        "onboard_time": 1731638658,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21083,
+        "num": 729197,
+        "word": "秘鲁接机女孩说我爱你中国",
+        "onboard_time": 1731639918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 558092,
+        "num": 558092,
+        "word": "大学生300元抢6399元九号电车提车被拒",
+        "onboard_time": 1731635718,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458663,
+        "num": 458663,
+        "word": "华为Mate70",
+        "onboard_time": 1731642680,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 366113,
+        "num": 366113,
+        "word": "宁波顺其自然又捐款109万元",
+        "onboard_time": 1731643881,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 360802,
+        "num": 360802,
+        "word": "肖战首部春节档电影",
+        "onboard_time": 1731641659,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342929,
+        "num": 342929,
+        "word": "除夕不用请假了你打算回家还是旅游",
+        "onboard_time": 1731616390,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 296927,
+        "num": 296927,
+        "word": "中国新增7个世界最佳旅游乡村",
+        "onboard_time": 1731639798,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 308300,
+        "num": 291008,
+        "word": "肖战骑马训练花絮",
+        "onboard_time": 1731643461,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 572886,
+        "num": 284781,
+        "word": "145斤女生减重35斤撞脸王祖贤",
+        "onboard_time": 1731637818,
+        "rank": 10,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 448563,
+        "num": 279866,
+        "word": "TFBOYS古装",
+        "onboard_time": 1731637339,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 385453,
+        "num": 265526,
+        "word": "男婴在月子中心肚子肿胀送医后离世",
+        "onboard_time": 1731629839,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333506,
+        "num": 262382,
+        "word": "原著作者谈永夜星河",
+        "onboard_time": 1731644060,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255619,
+        "num": 255619,
+        "word": "丁禹兮录团综染发了",
+        "onboard_time": 1731635117,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115059,
+        "num": 255280,
+        "word": "小巷人家 三人行必有一嫌",
+        "onboard_time": 1731635958,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171318,
+        "num": 253872,
+        "word": "THEBOYZ或改名THEBOYS",
+        "onboard_time": 1731644961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101796,
+        "num": 253472,
+        "word": "国足赛后退钱哥笑称不退钱了",
+        "onboard_time": 1731644961,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27934,
+        "num": 251706,
+        "word": "极氪端到端Plus上车",
+        "onboard_time": 1731642501,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16086,
+        "num": 250849,
+        "word": "一台车两间房三张床",
+        "onboard_time": 1731644901,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 663858,
+        "num": 250372,
+        "word": "李子柒说奶奶不知道她有多火",
+        "onboard_time": 1731637400,
+        "rank": 20,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 592758,
+        "num": 249454,
+        "word": "葛夕冷脸洗内裤",
+        "onboard_time": 1731644720,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128255,
+        "num": 247875,
+        "word": "养老问题成了海外独生子最深的痛",
+        "onboard_time": 1731643819,
+        "rank": 22,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 384521,
+        "num": 247076,
+        "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
+        "onboard_time": 1731641659,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317962,
+        "num": 246308,
+        "word": "建议大家一定要远离恋爱式友情",
+        "onboard_time": 1731641659,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216607,
+        "num": 245355,
+        "word": "黄圣依四年前vs四年后",
+        "onboard_time": 1731640578,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207687,
+        "num": 243650,
+        "word": "奔跑吧团建拍了拍自己",
+        "onboard_time": 1731644781,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119448,
+        "num": 243221,
+        "word": "顺其自然再捐109万元",
+        "onboard_time": 1731644420,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21083,
+        "num": 242382,
+        "word": "广州车展上的王炸组合",
+        "onboard_time": 1731644901,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11890,
+        "num": 240789,
+        "word": "TGA2024",
+        "onboard_time": 1731644961,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240492,
+        "num": 240492,
+        "word": "妙妙子期抢买单这段笑崩溃了",
+        "onboard_time": 1731643520,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205864,
+        "num": 230322,
+        "word": "云归喜事开机",
+        "onboard_time": 1731638598,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194650,
+        "num": 229763,
+        "word": "雨霖铃首发剧照",
+        "onboard_time": 1731644480,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268932,
+        "num": 229699,
+        "word": "文俊辉赵昭仪合作",
+        "onboard_time": 1731645741,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229236,
+        "num": 229236,
+        "word": "戴萌与丝芭解约",
+        "onboard_time": 1731640160,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215882,
+        "num": 215882,
+        "word": "王者荣耀 柯南",
+        "onboard_time": 1731633260,
+        "rank": 35,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 63118,
+        "num": 206555,
+        "word": "电影胜券在握今日上映",
+        "onboard_time": 1731644662,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199920,
+        "num": 199920,
+        "word": "男子骑车撞上供热管道身亡",
+        "onboard_time": 1731637221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14608,
+        "num": 195133,
+        "word": "王俊凯每份幸运都在冬日蓄力",
+        "onboard_time": 1731644961,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191103,
+        "num": 191103,
+        "word": "长沙南站一学生安检时砸伤民警",
+        "onboard_time": 1731645320,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185853,
+        "num": 185853,
+        "word": "国足vs日本门票全网售罄",
+        "onboard_time": 1731643941,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185766,
+        "num": 185766,
+        "word": "45岁妻子与23岁丈夫互称遭家暴",
+        "onboard_time": 1731640699,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180118,
+        "num": 180118,
+        "word": "断糖60天面部的变化",
+        "onboard_time": 1731627017,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79266,
+        "num": 177527,
+        "word": "祝绪丹小学生春游综合症",
+        "onboard_time": 1731643279,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177454,
+        "num": 177454,
+        "word": "射雕英雄传侠之大者定档",
+        "onboard_time": 1731637339,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174740,
+        "num": 174740,
+        "word": "金价连跌5天创两月新低",
+        "onboard_time": 1731635539,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171369,
+        "num": 171369,
+        "word": "迈巴赫漏水事件解决方案",
+        "onboard_time": 1731634880,
+        "rank": 46,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 165702,
+        "num": 165702,
+        "word": "山东单亲妈妈带2娃住烂尾楼",
+        "onboard_time": 1731639739,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162951,
+        "num": 162951,
+        "word": "洪承汉将solo",
+        "onboard_time": 1731641659,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104549,
+        "num": 162468,
+        "word": "赵丽颖将出席新加坡国际电影节",
+        "onboard_time": 1731645382,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和秘鲁友谊源远流长#"
+    }
+  }
+}
