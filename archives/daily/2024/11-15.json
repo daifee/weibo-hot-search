@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731656269093,
+  "endTime": 1731659351848,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -9,6 +9,14 @@
       "onboard_time": 1731600260,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1835327,
+      "num": 642446,
+      "word": "女生不喝奶茶却查出糖尿病无法接受",
+      "onboard_time": 1731656060,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1714132,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1296949,
-      "num": 347395,
+      "num": 370813,
       "word": "林彦俊 韩国教中文",
       "onboard_time": 1731653958,
       "rank": 10,
@@ -81,6 +89,14 @@
       "onboard_time": 1731635718,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1210246,
+      "num": 1210246,
+      "word": "永夜星河oe开放式结局",
+      "onboard_time": 1731655400,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1107696,
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 735093,
-      "num": 347305,
+      "num": 357489,
       "word": "麦琳下期首选离婚",
       "onboard_time": 1731652459,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 719433,
+      "num": 719433,
+      "word": "股市",
+      "onboard_time": 1731655099,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 688106,
@@ -251,14 +275,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 640083,
-      "num": 640083,
-      "word": "股市",
-      "onboard_time": 1731655099,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 624612,
       "num": 624612,
       "word": "杨紫 嫡谋",
@@ -299,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 588942,
+      "num": 588942,
+      "word": "慢牛",
+      "onboard_time": 1731655940,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 588512,
       "num": 588512,
       "word": "金价连跌5天创两月新低",
@@ -321,6 +345,14 @@
       "onboard_time": 1731635117,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 548002,
+      "num": 358948,
+      "word": "九号公司就无法核销发说明",
+      "onboard_time": 1731656478,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 521601,
@@ -401,14 +433,6 @@
       "onboard_time": 1731641659,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 428208,
-      "num": 428208,
-      "word": "永夜星河oe开放式结局",
-      "onboard_time": 1731655400,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 420642,
@@ -499,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350254,
+      "num": 350254,
+      "word": "文淇 我希望让你们骄傲",
+      "onboard_time": 1731657260,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349484,
       "num": 329101,
       "word": "范志毅说国足你慌个啥啊",
@@ -521,6 +553,14 @@
       "onboard_time": 1731629418,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337499,
+      "num": 337499,
+      "word": "中国无人机蜂群作战系统曝光",
+      "onboard_time": 1731655042,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 332299,
@@ -723,6 +763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 235585,
+      "num": 235585,
+      "word": "范丞丞新戏路透表情",
+      "onboard_time": 1731657799,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234488,
       "num": 256311,
       "word": "张艺兴让孙红雷坐他腿上",
@@ -771,20 +819,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 222896,
+      "num": 195547,
+      "word": "孙杨与妻子同游环球影城",
+      "onboard_time": 1731658579,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222567,
       "num": 222567,
       "word": "山东年平均工资107131元",
       "onboard_time": 1731651558,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219415,
-      "num": 222644,
-      "word": "中国无人机蜂群作战系统曝光",
-      "onboard_time": 1731655042,
-      "rank": 39,
-      "category": "军事"
     },
     {
       "raw_hot": 218340,
@@ -883,6 +931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197024,
+      "num": 197024,
+      "word": "李行亮问怎么没有人哄他呢",
+      "onboard_time": 1731656839,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196459,
       "num": 278288,
       "word": "THEBOYZ签约MC梦公司",
@@ -897,6 +953,14 @@
       "onboard_time": 1731654198,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195092,
+      "num": 195091,
+      "word": "24岁男生全职带娃五个月后的变化",
+      "onboard_time": 1731655940,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 194650,
@@ -1027,11 +1091,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184673,
-      "num": 184673,
-      "word": "女生不喝奶茶却查出糖尿病无法接受",
-      "onboard_time": 1731656060,
-      "rank": 41,
+      "raw_hot": 182538,
+      "num": 182538,
+      "word": "村委会通知未缴医保年终困难不予照顾",
+      "onboard_time": 1731655640,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1081,6 +1145,14 @@
       "onboard_time": 1731638960,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172491,
+      "num": 196470,
+      "word": "到底什么垃圾桶还得报案找啊",
+      "onboard_time": 1731658760,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 171837,
@@ -1139,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168786,
+      "num": 157118,
+      "word": "证监会原发行监管部副主任李筱强被查",
+      "onboard_time": 1731658461,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166881,
       "num": 166881,
       "word": "美国防部发布UFO年度报告",
@@ -1179,28 +1259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164273,
-      "num": 164273,
-      "word": "24岁男生全职带娃五个月后的变化",
-      "onboard_time": 1731655940,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163860,
       "num": 299882,
       "word": "祝绪丹对虞书欣的初印象",
       "onboard_time": 1731641419,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163818,
-      "num": 163818,
-      "word": "村委会通知未缴医保年终困难不予照顾",
-      "onboard_time": 1731655640,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163281,
@@ -1339,6 +1403,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 145140,
+      "num": 330727,
+      "word": "三亚教育局局长被举报毕业论文涉抄袭",
+      "onboard_time": 1731654440,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 144276,
       "num": 144276,
       "word": "全国城镇单位年平均工资120698元",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1731622811,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143511,
+      "num": 143511,
+      "word": "Gr对战TE",
+      "onboard_time": 1731658940,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 143200,
@@ -1385,6 +1465,22 @@
       "onboard_time": 1731634338,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137262,
+      "num": 347582,
+      "word": "韩最大在野党党首李在明失去议员资格",
+      "onboard_time": 1731656120,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136675,
+      "num": 137562,
+      "word": "高圆圆松江大学城等车等雨停",
+      "onboard_time": 1731653299,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 135359,
@@ -1515,14 +1611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 119764,
-      "num": 330727,
-      "word": "三亚教育局局长被举报毕业论文涉抄袭",
-      "onboard_time": 1731654440,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 119448,
       "num": 243221,
       "word": "顺其自然再捐109万元",
@@ -1617,14 +1705,6 @@
       "onboard_time": 1731606433,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112841,
-      "num": 337723,
-      "word": "慢牛",
-      "onboard_time": 1731655940,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 112740,
@@ -1763,6 +1843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 94173,
+      "num": 196211,
+      "word": "我将化身怨女",
+      "onboard_time": 1731659299,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88565,
       "num": 364571,
       "word": "武磊大赞张玉宁",
@@ -1851,20 +1939,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68301,
-      "num": 347582,
-      "word": "韩最大在野党党首李在明失去议员资格",
-      "onboard_time": 1731656120,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65627,
       "num": 1234978,
       "word": "张玉宁谈最后的进球",
       "onboard_time": 1731601577,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64871,
+      "num": 195092,
+      "word": "林一三折叠式撸猫",
+      "onboard_time": 1731658579,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 64480,
+      "num": 350541,
+      "word": "小伙称在缅北电诈窝点被强迫吸毒",
+      "onboard_time": 1731657978,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63570,
@@ -1915,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60340,
+      "num": 341317,
+      "word": "黄仁俊给地租逆应援",
+      "onboard_time": 1731658699,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56685,
       "num": 243984,
       "word": "李宇春林宥嘉谁不想",
@@ -1937,6 +2041,14 @@
       "onboard_time": 1731627197,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54242,
+      "num": 376123,
+      "word": "世界最佳旅游乡村我国新增7个",
+      "onboard_time": 1731658159,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 51393,
@@ -2073,6 +2185,22 @@
       "onboard_time": 1731641419,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35972,
+      "num": 339331,
+      "word": "被辅导宁夏考生称不记得北大老师",
+      "onboard_time": 1731658039,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35758,
+      "num": 345196,
+      "word": "球迷拿球衣和鲜花接机国足",
+      "onboard_time": 1731658639,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 34714,
@@ -2251,6 +2379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27835,
+      "num": 373068,
+      "word": "工厂直发成套路让消费者心寒",
+      "onboard_time": 1731657978,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27796,
       "num": 277011,
       "word": "白帝空天战机震撼亮相航展",
@@ -2283,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26462,
+      "num": 195092,
+      "word": "打工人最强腿替铂智3X",
+      "onboard_time": 1731658819,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26003,
       "num": 358137,
       "word": "情绪自由比情绪稳定更重要吗",
@@ -2297,6 +2441,14 @@
       "onboard_time": 1731599780,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25118,
+      "num": 365442,
+      "word": "余承东首谈智界新S7四大升级",
+      "onboard_time": 1731656599,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 24918,
@@ -2435,6 +2587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12243,
+      "num": 177676,
+      "word": "王俊凯今天你咖了吗",
+      "onboard_time": 1731658579,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11890,
       "num": 240789,
       "word": "TGA2024",
@@ -2481,6 +2641,14 @@
       "onboard_time": 1731605713,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10158,
+      "num": 651964,
+      "word": "在利马感受中秘情谊",
+      "onboard_time": 1731659118,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10052,
@@ -2554,6 +2722,9 @@
     },
     {
       "word": "#中国和秘鲁友谊源远流长#"
+    },
+    {
+      "word": "#中秘友谊源远流长友好深入人心#"
     }
   ]
 }
