@@ -1,0 +1,410 @@
+{
+  "runTime": 1731685150640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1223065,
+        "num": 1223065,
+        "word": "外卖员吐槽尽量不要点黄焖鸡",
+        "onboard_time": 1731667219,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027786,
+        "num": 1027786,
+        "word": "德国连环强奸案告破",
+        "onboard_time": 1731683480,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18001,
+        "num": 934984,
+        "word": "秘鲁姑娘想在本国坐上中国高铁",
+        "onboard_time": 1731678440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 926099,
+        "num": 926099,
+        "word": "丁禹兮应该开演唱会",
+        "onboard_time": 1731681440,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463871,
+        "num": 463871,
+        "word": "BBC报道李子柒复出打上灰色滤镜",
+        "onboard_time": 1731672737,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375545,
+        "num": 375545,
+        "word": "德连环强奸案嫌疑人系43岁中国公民",
+        "onboard_time": 1731683600,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 398675,
+        "num": 365822,
+        "word": "徐海乔上海外滩上演一秒变脸",
+        "onboard_time": 1731682520,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333999,
+        "num": 333999,
+        "word": "云南一司机卸货不慎连人带车滚下山崖",
+        "onboard_time": 1731676280,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466130,
+        "num": 331267,
+        "word": "祝绪丹回应与丁禹兮关系",
+        "onboard_time": 1731666619,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39695,
+        "num": 325368,
+        "word": "主播销售收入160万付620余万推广费",
+        "onboard_time": 1731683360,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 453692,
+        "num": 325100,
+        "word": "京东物流已向警方报案",
+        "onboard_time": 1731676640,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320311,
+        "num": 320311,
+        "word": "张艺谋女儿任达华女儿 巴黎名媛舞会",
+        "onboard_time": 1731675800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15452,
+        "num": 311154,
+        "word": "被再见爱人带火的熏鸡什么来头",
+        "onboard_time": 1731684498,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13649,
+        "num": 310655,
+        "word": "情绪不应被当成行压迫之实的借口",
+        "onboard_time": 1731683719,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310559,
+        "num": 310559,
+        "word": "再见爱人4 留几手葛夕还是敢说",
+        "onboard_time": 1731673398,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305231,
+        "num": 305231,
+        "word": "关晓彤演技",
+        "onboard_time": 1731683179,
+        "rank": 15,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 97669,
+        "num": 305081,
+        "word": "袁一琦成立个人工作室了",
+        "onboard_time": 1731684438,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56269,
+        "num": 304902,
+        "word": "国足展望直接晋级",
+        "onboard_time": 1731684201,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13460,
+        "num": 304491,
+        "word": "看再见爱人寻找亲密关系中的动态平衡",
+        "onboard_time": 1731684919,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22896,
+        "num": 304369,
+        "word": "王丹妮跟白宇拍焚城入戏太深",
+        "onboard_time": 1731683420,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304166,
+        "num": 304166,
+        "word": "天舟八号发射",
+        "onboard_time": 1731678320,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223597,
+        "num": 280871,
+        "word": "印尼0比4日本",
+        "onboard_time": 1731681380,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278604,
+        "num": 278604,
+        "word": "涂毓麟 欢迎来到毓言的奇妙之旅",
+        "onboard_time": 1731678499,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239814,
+        "num": 239814,
+        "word": "王昶 钱天一",
+        "onboard_time": 1731684498,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213762,
+        "num": 213762,
+        "word": "女生不喝奶茶却查出糖尿病无法接受",
+        "onboard_time": 1731656060,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263256,
+        "num": 208431,
+        "word": "秋瓷炫带儿子第一次在中国坐地铁",
+        "onboard_time": 1731678381,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222292,
+        "num": 205816,
+        "word": "林栋哲求婚看哭了",
+        "onboard_time": 1731683420,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202594,
+        "num": 202594,
+        "word": "迪丽热巴兔子头套照",
+        "onboard_time": 1731684079,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138632,
+        "num": 194620,
+        "word": "齐哥收拾收拾准备升咖吧",
+        "onboard_time": 1731684438,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35826,
+        "num": 192315,
+        "word": "国足赛程过半小组第4",
+        "onboard_time": 1731684919,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192162,
+        "num": 192162,
+        "word": "关晓彤王安宇CP感",
+        "onboard_time": 1731680361,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45456,
+        "num": 186506,
+        "word": "龚俊小狗营业照",
+        "onboard_time": 1731683719,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184230,
+        "num": 184230,
+        "word": "永夜星河 女主戏份",
+        "onboard_time": 1731668839,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181946,
+        "num": 181946,
+        "word": "近500人300元抢到6399元九号电车",
+        "onboard_time": 1731674059,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179679,
+        "num": 179679,
+        "word": "教体局回应学生吐槽学校被闭麦拉走",
+        "onboard_time": 1731680901,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49343,
+        "num": 168907,
+        "word": "1700件中国珍品应还给故宫博物院",
+        "onboard_time": 1731683120,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164612,
+        "num": 164612,
+        "word": "女子面试还没入职先欠2.5万元贷款",
+        "onboard_time": 1731675319,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163795,
+        "num": 163795,
+        "word": "李行亮坚定选择不离婚",
+        "onboard_time": 1731669020,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158226,
+        "num": 158226,
+        "word": "李在明获刑",
+        "onboard_time": 1731677840,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157739,
+        "num": 157739,
+        "word": "GimGoon好强",
+        "onboard_time": 1731684379,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146106,
+        "num": 146106,
+        "word": "喻言 垫音",
+        "onboard_time": 1731677420,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140185,
+        "num": 140185,
+        "word": "天舟八号瞄准23时13分发射",
+        "onboard_time": 1731666678,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140133,
+        "num": 140133,
+        "word": "官方回应8岁娃终身禁入熊猫基地",
+        "onboard_time": 1731684319,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128002,
+        "num": 128002,
+        "word": "我国首次在沙特发行20亿美元主权债券",
+        "onboard_time": 1731680421,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125662,
+        "num": 125662,
+        "word": "大熊猫丽丽去世",
+        "onboard_time": 1731684379,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122660,
+        "num": 122660,
+        "word": "李子柒学缫丝1天睡两三个小时",
+        "onboard_time": 1731677900,
+        "rank": 45,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 116382,
+        "num": 116382,
+        "word": "李子柒说互联网真的和以前不一样了",
+        "onboard_time": 1731664938,
+        "rank": 46,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 108956,
+        "num": 108956,
+        "word": "央视曝光招工医美贷骗局",
+        "onboard_time": 1731680241,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102806,
+        "num": 102806,
+        "word": "官方调查中学生上台指责学校被带离",
+        "onboard_time": 1731676640,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97084,
+        "num": 97084,
+        "word": "天舟八号发射直播",
+        "onboard_time": 1731683840,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席的利马时间#"
+    }
+  }
+}

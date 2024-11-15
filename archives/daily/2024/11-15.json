@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731684289181,
+  "endTime": 1731685150640,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -193,6 +193,14 @@
       "onboard_time": 1731632061,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1027786,
+      "num": 1027786,
+      "word": "德国连环强奸案告破",
+      "onboard_time": 1731683480,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1017310,
@@ -499,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 571028,
-      "num": 571028,
-      "word": "德国连环强奸案告破",
-      "onboard_time": 1731683480,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 564482,
       "num": 303402,
       "word": "丁禹兮很讨厌被你拍",
@@ -779,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398675,
+      "num": 365822,
+      "word": "徐海乔上海外滩上演一秒变脸",
+      "onboard_time": 1731682520,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398098,
       "num": 1380908,
       "word": "李行亮说麦琳连离婚都很强势",
@@ -801,6 +809,14 @@
       "onboard_time": 1731676280,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375545,
+      "num": 375545,
+      "word": "德连环强奸案嫌疑人系43岁中国公民",
+      "onboard_time": 1731683600,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 374693,
@@ -971,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 313785,
-      "num": 313785,
-      "word": "徐海乔上海外滩上演一秒变脸",
-      "onboard_time": 1731682520,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313705,
       "num": 544949,
       "word": "中国新增7个世界最佳旅游乡村",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1731672737,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305231,
+      "num": 305231,
+      "word": "关晓彤演技",
+      "onboard_time": 1731683179,
+      "rank": 22,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 301141,
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 267198,
-      "num": 267198,
+      "num": 280871,
       "word": "印尼0比4日本",
       "onboard_time": 1731681380,
       "rank": 19,
@@ -1163,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252214,
-      "num": 252214,
-      "word": "德连环强奸案嫌疑人系43岁中国公民",
-      "onboard_time": 1731683600,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 250155,
       "num": 250155,
       "word": "福宝假吃胡萝卜",
@@ -1219,12 +1227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238236,
-      "num": 238236,
-      "word": "关晓彤演技",
-      "onboard_time": 1731683179,
-      "rank": 22,
-      "category": "剧集,艺人"
+      "raw_hot": 239814,
+      "num": 239814,
+      "word": "王昶 钱天一",
+      "onboard_time": 1731684498,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 236180,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1731651558,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222292,
+      "num": 205816,
+      "word": "林栋哲求婚看哭了",
+      "onboard_time": 1731683420,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 221551,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1731673759,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202594,
+      "num": 202594,
+      "word": "迪丽热巴兔子头套照",
+      "onboard_time": 1731684079,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 202560,
@@ -1755,14 +1779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184639,
-      "num": 184639,
-      "word": "林栋哲求婚看哭了",
-      "onboard_time": 1731683420,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183919,
       "num": 183919,
       "word": "葛夕 送礼教科书",
@@ -1803,8 +1819,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176212,
-      "num": 176212,
+      "raw_hot": 179679,
+      "num": 179679,
       "word": "教体局回应学生吐槽学校被闭麦拉走",
       "onboard_time": 1731680901,
       "rank": 48,
@@ -2115,6 +2131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 157739,
+      "num": 157739,
+      "word": "GimGoon好强",
+      "onboard_time": 1731684379,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157425,
       "num": 157425,
       "word": "AG年总逆光出征照",
@@ -2243,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149527,
-      "num": 149527,
-      "word": "迪丽热巴兔子头套照",
-      "onboard_time": 1731684079,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149429,
       "num": 149429,
       "word": "郭艾伦张予曦有点嗑你俩了",
@@ -2363,12 +2379,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 140133,
+      "num": 140133,
+      "word": "官方回应8岁娃终身禁入熊猫基地",
+      "onboard_time": 1731684319,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139643,
       "num": 139643,
       "word": "王子文把莫奈花园穿在身上",
       "onboard_time": 1731678800,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138632,
+      "num": 194620,
+      "word": "齐哥收拾收拾准备升咖吧",
+      "onboard_time": 1731684438,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 138428,
@@ -2553,6 +2585,14 @@
       "onboard_time": 1731631879,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125662,
+      "num": 125662,
+      "word": "大熊猫丽丽去世",
+      "onboard_time": 1731684379,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125060,
@@ -2947,12 +2987,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 97669,
+      "num": 305081,
+      "word": "袁一琦成立个人工作室了",
+      "onboard_time": 1731684438,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97304,
       "num": 97304,
       "word": "湖南13岁学生被班主任打肿脸",
       "onboard_time": 1731674000,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97084,
+      "num": 100393,
+      "word": "天舟八号发射直播",
+      "onboard_time": 1731683840,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96407,
@@ -2977,14 +3033,6 @@
       "onboard_time": 1731642800,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 89895,
-      "num": 100393,
-      "word": "天舟八号发射直播",
-      "onboard_time": 1731683840,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 88565,
@@ -3307,6 +3355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56269,
+      "num": 304902,
+      "word": "国足展望直接晋级",
+      "onboard_time": 1731684201,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56205,
       "num": 194637,
       "word": "惠英红馆藏云锦高定",
@@ -3337,6 +3393,14 @@
       "onboard_time": 1731601400,
       "rank": 25,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 49343,
+      "num": 313953,
+      "word": "1700件中国珍品应还给故宫博物院",
+      "onboard_time": 1731683120,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49061,
@@ -3427,6 +3491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45456,
+      "num": 186506,
+      "word": "龚俊小狗营业照",
+      "onboard_time": 1731683719,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45450,
       "num": 190873,
       "word": "星闪少年一公舞台",
@@ -3515,20 +3587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40105,
-      "num": 157322,
-      "word": "龚俊小狗营业照",
-      "onboard_time": 1731683719,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40067,
       "num": 197362,
       "word": "王一栩你最好能圆回来",
       "onboard_time": 1731683120,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39695,
+      "num": 332484,
+      "word": "主播销售收入160万付620余万推广费",
+      "onboard_time": 1731683360,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 39619,
@@ -3561,14 +3633,6 @@
       "onboard_time": 1731665360,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37803,
-      "num": 332484,
-      "word": "主播销售收入160万付620余万推广费",
-      "onboard_time": 1731683360,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 37509,
@@ -3611,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35826,
+      "num": 192315,
+      "word": "国足赛程过半小组第4",
+      "onboard_time": 1731684919,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35758,
       "num": 345196,
       "word": "球迷拿球衣和鲜花接机国足",
@@ -3620,7 +3692,7 @@
     },
     {
       "raw_hot": 34945,
-      "num": 695418,
+      "num": 934984,
       "word": "秘鲁姑娘想在本国坐上中国高铁",
       "onboard_time": 1731678440,
       "rank": 2,
@@ -3689,14 +3761,6 @@
       "onboard_time": 1731668419,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33240,
-      "num": 313953,
-      "word": "1700件中国珍品应还给故宫博物院",
-      "onboard_time": 1731683120,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32955,
@@ -4019,8 +4083,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22835,
-      "num": 244234,
+      "raw_hot": 22896,
+      "num": 304369,
       "word": "王丹妮跟白宇拍焚城入戏太深",
       "onboard_time": 1731683420,
       "rank": 19,
@@ -4163,6 +4227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15452,
+      "num": 311154,
+      "word": "被再见爱人带火的熏鸡什么来头",
+      "onboard_time": 1731684498,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14849,
       "num": 21775,
       "word": "为都一样制作MV",
@@ -4193,6 +4265,22 @@
       "onboard_time": 1731607033,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13649,
+      "num": 314172,
+      "word": "情绪不应被当成行压迫之实的借口",
+      "onboard_time": 1731683719,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13460,
+      "num": 304491,
+      "word": "看再见爱人寻找亲密关系中的动态平衡",
+      "onboard_time": 1731684919,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 12780,
@@ -4291,14 +4379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 8762,
-      "num": 314172,
-      "word": "情绪不应被当成行压迫之实的借口",
-      "onboard_time": 1731683719,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 7570,
       "num": 134296,
       "word": "下班后fitcheck一下",
@@ -4329,14 +4409,6 @@
       "onboard_time": 1731606073,
       "rank": 19,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 5713,
-      "num": 252714,
-      "word": "国足展望直接晋级",
-      "onboard_time": 1731684201,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 5499,
