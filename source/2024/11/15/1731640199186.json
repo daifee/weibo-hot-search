@@ -1,0 +1,410 @@
+{
+  "runTime": 1731640199186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1714132,
+        "num": 1714132,
+        "word": "145斤女生减重35斤撞脸王祖贤",
+        "onboard_time": 1731637818,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1169754,
+        "num": 1169754,
+        "word": "大学生300元抢6399元九号电车提车被拒",
+        "onboard_time": 1731635718,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19326,
+        "num": 917355,
+        "word": "秘鲁接机女孩说我爱你中国",
+        "onboard_time": 1731639918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 840696,
+        "num": 840696,
+        "word": "劳斯莱斯车主已走保险理赔",
+        "onboard_time": 1731632359,
+        "rank": 3,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 678050,
+        "num": 678050,
+        "word": "射雕英雄传侠之大者定档",
+        "onboard_time": 1731637339,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 633109,
+        "num": 633109,
+        "word": "迈巴赫漏水事件解决方案",
+        "onboard_time": 1731634880,
+        "rank": 5,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 584775,
+        "num": 584775,
+        "word": "金价连跌5天创两月新低",
+        "onboard_time": 1731635539,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 492471,
+        "num": 492471,
+        "word": "丁禹兮 凝眸",
+        "onboard_time": 1731638837,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50193,
+        "num": 457723,
+        "word": "中国新增7个世界最佳旅游乡村",
+        "onboard_time": 1731639798,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 444827,
+        "num": 444827,
+        "word": "31省份平均工资",
+        "onboard_time": 1731638658,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 731086,
+        "num": 444351,
+        "word": "TFBOYS古装",
+        "onboard_time": 1731637339,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 439969,
+        "num": 439969,
+        "word": "男婴在月子中心肚子肿胀送医后离世",
+        "onboard_time": 1731629839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407306,
+        "num": 407306,
+        "word": "电影院是救了胡冰卿的命吗",
+        "onboard_time": 1731630800,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403981,
+        "num": 403981,
+        "word": "王者荣耀 柯南",
+        "onboard_time": 1731633260,
+        "rank": 13,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 403660,
+        "num": 403660,
+        "word": "丁禹兮录团综染发了",
+        "onboard_time": 1731635117,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662004,
+        "num": 383925,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1731632061,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331049,
+        "num": 331049,
+        "word": "云归喜事开机",
+        "onboard_time": 1731638598,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274967,
+        "num": 329908,
+        "word": "papi酱说李行亮不哄了",
+        "onboard_time": 1731596003,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106618,
+        "num": 328390,
+        "word": "山东单亲妈妈带2娃住烂尾楼",
+        "onboard_time": 1731639739,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63260,
+        "num": 327345,
+        "word": "哪类人容易被带状疱疹盯上",
+        "onboard_time": 1731638359,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 949223,
+        "num": 326095,
+        "word": "李子柒说奶奶不知道她有多火",
+        "onboard_time": 1731637400,
+        "rank": 20,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 324898,
+        "num": 324898,
+        "word": "除夕不用请假了你打算回家还是旅游",
+        "onboard_time": 1731616390,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 69217,
+        "num": 296763,
+        "word": "朴彩英直播",
+        "onboard_time": 1731630379,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493863,
+        "num": 296714,
+        "word": "身份证上的姓名能想改就改吗",
+        "onboard_time": 1731633198,
+        "rank": 23,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 296545,
+        "num": 296545,
+        "word": "男子骑车撞上供热管道身亡",
+        "onboard_time": 1731637221,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149533,
+        "num": 289020,
+        "word": "湖南十八洞村等入选最佳旅游乡村",
+        "onboard_time": 1731638059,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191775,
+        "num": 288719,
+        "word": "武侠是全球华人血脉觉醒的文化密码",
+        "onboard_time": 1731639378,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184077,
+        "num": 280429,
+        "word": "下一战歌手歌单",
+        "onboard_time": 1731638479,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176524,
+        "num": 273047,
+        "word": "文俊辉古装",
+        "onboard_time": 1731636679,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48584,
+        "num": 259864,
+        "word": "戴萌与丝芭解约",
+        "onboard_time": 1731640160,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28673,
+        "num": 253875,
+        "word": "中国人有一国的老乡",
+        "onboard_time": 1731639618,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250456,
+        "num": 250456,
+        "word": "断糖60天面部的变化",
+        "onboard_time": 1731627017,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248222,
+        "num": 248222,
+        "word": "巴基斯坦小伙来中国震惊于凌晨有饭吃",
+        "onboard_time": 1731638298,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236180,
+        "num": 236180,
+        "word": "尊界",
+        "onboard_time": 1731638479,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214021,
+        "num": 214021,
+        "word": "不吸烟女性肺癌发病率越来越高",
+        "onboard_time": 1731627017,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179756,
+        "num": 179756,
+        "word": "夫妻海上遇险妻子悬空呼救丈夫遇难",
+        "onboard_time": 1731632061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24726,
+        "num": 175592,
+        "word": "张玉宁说一起输的我们一起赢回来",
+        "onboard_time": 1731638960,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172703,
+        "num": 172703,
+        "word": "福宝假吃胡萝卜",
+        "onboard_time": 1731633559,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171470,
+        "num": 171470,
+        "word": "麦琳也没选李行亮",
+        "onboard_time": 1731628518,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168720,
+        "num": 168720,
+        "word": "小巷人家 三人行必有一嫌",
+        "onboard_time": 1731635958,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162200,
+        "num": 162200,
+        "word": "黄子弘凡被黄圣依的名字吓退了半步",
+        "onboard_time": 1731634338,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156161,
+        "num": 156161,
+        "word": "侯佩岑 婚姻中有6个人",
+        "onboard_time": 1731627077,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140391,
+        "num": 140391,
+        "word": "国足赢了",
+        "onboard_time": 1731600381,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132264,
+        "num": 132264,
+        "word": "张艺兴让孙红雷坐他腿上",
+        "onboard_time": 1731635239,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128895,
+        "num": 128895,
+        "word": "余承东直播",
+        "onboard_time": 1731640099,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128872,
+        "num": 128872,
+        "word": "国足将主场迎战日本",
+        "onboard_time": 1731634338,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127454,
+        "num": 127454,
+        "word": "虞书欣北海",
+        "onboard_time": 1731630259,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125060,
+        "num": 125060,
+        "word": "樊振东说巴黎奥运会是一次新生",
+        "onboard_time": 1731638359,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121328,
+        "num": 121328,
+        "word": "国足1比0巴林队",
+        "onboard_time": 1731600260,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113381,
+        "num": 113381,
+        "word": "南天门计划的白帝概念战机模型来了",
+        "onboard_time": 1731639319,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席抵达秘鲁受到热烈欢迎#"
+    }
+  }
+}

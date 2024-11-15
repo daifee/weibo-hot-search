@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731639658549,
+  "endTime": 1731640199186,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -289,6 +289,14 @@
       "onboard_time": 1731383239,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1714132,
+      "num": 1714132,
+      "word": "145斤女生减重35斤撞脸王祖贤",
+      "onboard_time": 1731637818,
+      "rank": 0,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1707612,
@@ -697,14 +705,6 @@
       "onboard_time": 1731326058,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1283493,
-      "num": 1283493,
-      "word": "145斤女生减重35斤撞脸王祖贤",
-      "onboard_time": 1731637818,
-      "rank": 0,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1275707,
@@ -1803,6 +1803,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 731086,
+      "num": 526768,
+      "word": "TFBOYS古装",
+      "onboard_time": 1731637339,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 730070,
       "num": 730070,
       "word": "何与 双轨",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1731273791,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 716231,
-      "num": 526768,
-      "word": "TFBOYS古装",
-      "onboard_time": 1731637339,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 715768,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1731221780,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662004,
+      "num": 387015,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1731632061,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 658240,
@@ -2329,14 +2337,6 @@
       "onboard_time": 1731590361,
       "rank": 41,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 610946,
-      "num": 387015,
-      "word": "李行亮 麦琳",
-      "onboard_time": 1731632061,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 606381,
@@ -3115,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492471,
+      "num": 492471,
+      "word": "丁禹兮 凝眸",
+      "onboard_time": 1731638837,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491655,
       "num": 491655,
       "word": "金价",
@@ -3499,6 +3507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444827,
+      "num": 444827,
+      "word": "31省份平均工资",
+      "onboard_time": 1731638658,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 443197,
       "num": 443197,
       "word": "肖战首专唱片公司肖战工作室",
@@ -3601,14 +3617,6 @@
       "onboard_time": 1731452716,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429276,
-      "num": 381787,
-      "word": "丁禹兮 凝眸",
-      "onboard_time": 1731638837,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 428754,
@@ -4571,6 +4579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331049,
+      "num": 374523,
+      "word": "云归喜事开机",
+      "onboard_time": 1731638598,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329197,
       "num": 341908,
       "word": "金饰价格一夜下跌14元每克",
@@ -4705,14 +4721,6 @@
       "onboard_time": 1731370760,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318852,
-      "num": 318852,
-      "word": "31省份平均工资",
-      "onboard_time": 1731638658,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 316579,
@@ -6115,14 +6123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239181,
-      "num": 374523,
-      "word": "云归喜事开机",
-      "onboard_time": 1731638598,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238931,
       "num": 184140,
       "word": "上海月租3500的房子",
@@ -6177,6 +6177,14 @@
       "onboard_time": 1731489020,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236180,
+      "num": 236180,
+      "word": "尊界",
+      "onboard_time": 1731638479,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 235937,
@@ -6601,14 +6609,6 @@
       "onboard_time": 1731378919,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 222563,
-      "num": 222563,
-      "word": "尊界",
-      "onboard_time": 1731638479,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 222464,
@@ -7644,7 +7644,7 @@
     },
     {
       "raw_hot": 198000,
-      "num": 257969,
+      "num": 280429,
       "word": "下一战歌手歌单",
       "onboard_time": 1731638479,
       "rank": 26,
@@ -8099,6 +8099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191775,
+      "num": 288719,
+      "word": "武侠是全球华人血脉觉醒的文化密码",
+      "onboard_time": 1731639378,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191372,
       "num": 221536,
       "word": "国足半场0比0巴林",
@@ -8108,7 +8116,7 @@
     },
     {
       "raw_hot": 191148,
-      "num": 257699,
+      "num": 273047,
       "word": "文俊辉古装",
       "onboard_time": 1731636679,
       "rank": 27,
@@ -9393,14 +9401,6 @@
       "onboard_time": 1731217340,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 168225,
-      "num": 168225,
-      "word": "武侠是全球华人血脉觉醒的文化密码",
-      "onboard_time": 1731639378,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 168090,
@@ -10771,6 +10771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149533,
+      "num": 289020,
+      "word": "湖南十八洞村等入选最佳旅游乡村",
+      "onboard_time": 1731638059,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149531,
       "num": 149531,
       "word": "咱们空军的飞机你认识多少",
@@ -11851,6 +11859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128895,
+      "num": 128895,
+      "word": "余承东直播",
+      "onboard_time": 1731640099,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128854,
       "num": 128854,
       "word": "俄方人员在苏35战机下喝啤酒",
@@ -11905,14 +11921,6 @@
       "onboard_time": 1731336020,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127333,
-      "num": 127333,
-      "word": "湖南十八洞村等入选最佳旅游乡村",
-      "onboard_time": 1731638059,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127146,
@@ -12075,6 +12083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125060,
+      "num": 125060,
+      "word": "樊振东说巴黎奥运会是一次新生",
+      "onboard_time": 1731638359,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125007,
       "num": 125007,
       "word": "小米双十一销售额创纪录",
@@ -12209,14 +12225,6 @@
       "onboard_time": 1731316520,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122839,
-      "num": 122839,
-      "word": "樊振东说巴黎奥运会是一次新生",
-      "onboard_time": 1731638359,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 122497,
@@ -12460,7 +12468,7 @@
     },
     {
       "raw_hot": 118289,
-      "num": 118289,
+      "num": 296763,
       "word": "朴彩英直播",
       "onboard_time": 1731630379,
       "rank": 46,
@@ -12713,6 +12721,14 @@
       "onboard_time": 1731280876,
       "rank": 32,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 113381,
+      "num": 113381,
+      "word": "南天门计划的白帝概念战机模型来了",
+      "onboard_time": 1731639319,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 113252,
@@ -13017,6 +13033,14 @@
       "onboard_time": 1731588141,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106618,
+      "num": 328390,
+      "word": "山东单亲妈妈带2娃住烂尾楼",
+      "onboard_time": 1731639739,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106617,
@@ -14651,6 +14675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63260,
+      "num": 368929,
+      "word": "哪类人容易被带状疱疹盯上",
+      "onboard_time": 1731638359,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63004,
       "num": 63004,
       "word": "62岁传奇与26岁新星同框了",
@@ -15427,14 +15459,6 @@
       "category": "正能量,军事"
     },
     {
-      "raw_hot": 51031,
-      "num": 368929,
-      "word": "哪类人容易被带状疱疹盯上",
-      "onboard_time": 1731638359,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 50955,
       "num": 979128,
       "word": "直播间对对碰利润高达20%",
@@ -15473,6 +15497,14 @@
       "onboard_time": 1731467118,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50193,
+      "num": 457723,
+      "word": "中国新增7个世界最佳旅游乡村",
+      "onboard_time": 1731639798,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 49988,
@@ -15521,6 +15553,14 @@
       "onboard_time": 1731430576,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48584,
+      "num": 259864,
+      "word": "戴萌与丝芭解约",
+      "onboard_time": 1731640160,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 48566,
@@ -17147,6 +17187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28673,
+      "num": 963168,
+      "word": "中国人有一国的老乡",
+      "onboard_time": 1731639618,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28573,
       "num": 796868,
       "word": "律师谈平台筹款27万后晒新房涉诈骗",
@@ -17555,6 +17603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24726,
+      "num": 476081,
+      "word": "张玉宁说一起输的我们一起赢回来",
+      "onboard_time": 1731638960,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24583,
       "num": 37654,
       "word": "这是我们的黄岩岛",
@@ -17753,14 +17809,6 @@
       "onboard_time": 1731263711,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22157,
-      "num": 476081,
-      "word": "张玉宁说一起输的我们一起赢回来",
-      "onboard_time": 1731638960,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 22032,
@@ -18121,6 +18169,14 @@
       "onboard_time": 1731354131,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 19326,
+      "num": 917355,
+      "word": "秘鲁接机女孩说我爱你中国",
+      "onboard_time": 1731639918,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19282,
@@ -19049,14 +19105,6 @@
       "onboard_time": 1731611651,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7200,
-      "num": 963168,
-      "word": "中国人有一国的老乡",
-      "onboard_time": 1731639618,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6904,
