@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731660171337,
+  "endTime": 1731662653911,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2340,7 +2340,7 @@
     },
     {
       "raw_hot": 1296949,
-      "num": 370813,
+      "num": 412869,
       "word": "林彦俊 韩国教中文",
       "onboard_time": 1731653958,
       "rank": 10,
@@ -5883,6 +5883,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 694071,
+      "num": 303044,
+      "word": "生理性喜欢的真实表现",
+      "onboard_time": 1731659659,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 694063,
       "num": 386748,
       "word": "物业私停电梯孕妇未及时送医致流产",
@@ -6969,6 +6977,14 @@
       "onboard_time": 1730782642,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 617554,
+      "num": 617554,
+      "word": "同花顺",
+      "onboard_time": 1731659419,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 617182,
@@ -9331,6 +9347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481778,
+      "num": 481778,
+      "word": "祝绪丹直播",
+      "onboard_time": 1731659899,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480443,
       "num": 512931,
       "word": "你会每月核对工资是否到账吗",
@@ -9851,20 +9875,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 455676,
-      "num": 303044,
-      "word": "生理性喜欢的真实表现",
-      "onboard_time": 1731659659,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 455424,
       "num": 297094,
       "word": "村民发现烈士墓碑被绑电线杆上",
       "onboard_time": 1730623518,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454498,
+      "num": 411380,
+      "word": "张云龙脸和身材各长各的",
+      "onboard_time": 1731659419,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 454467,
@@ -10513,6 +10537,14 @@
       "onboard_time": 1731584601,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 428098,
+      "num": 378659,
+      "word": "张云龙打球娜扎给他送水",
+      "onboard_time": 1731662060,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 427688,
@@ -11177,6 +11209,14 @@
       "onboard_time": 1731401479,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 401108,
+      "num": 401108,
+      "word": "李行亮问怎么没有人哄他呢",
+      "onboard_time": 1731656839,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 401018,
@@ -13865,6 +13905,14 @@
       "onboard_time": 1731521412,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 309019,
+      "num": 309019,
+      "word": "王一博金鸡奖表彰大会生图",
+      "onboard_time": 1731659960,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 308893,
@@ -16635,6 +16683,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 248450,
+      "num": 248450,
+      "word": "iPhone16和15Pro谁更值",
+      "onboard_time": 1731661218,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 248331,
       "num": 366283,
       "word": "慕声半妖身份曝光",
@@ -16785,14 +16841,6 @@
       "onboard_time": 1731303797,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 246078,
-      "num": 305122,
-      "word": "李行亮问怎么没有人哄他呢",
-      "onboard_time": 1731656839,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 245708,
@@ -17451,14 +17499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234131,
-      "num": 302608,
-      "word": "张云龙脸和身材各长各的",
-      "onboard_time": 1731659419,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234039,
       "num": 212203,
       "word": "立冬吃什么",
@@ -17529,6 +17569,14 @@
       "onboard_time": 1731243619,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232656,
+      "num": 198989,
+      "word": "我们无孩爱猫女老了就这样",
+      "onboard_time": 1731661398,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 232259,
@@ -17921,14 +17969,6 @@
       "onboard_time": 1730803041,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 226883,
-      "num": 226883,
-      "word": "同花顺",
-      "onboard_time": 1731659419,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 226828,
@@ -18769,6 +18809,14 @@
       "onboard_time": 1731218840,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215173,
+      "num": 215173,
+      "word": "高叶 李川油疯了",
+      "onboard_time": 1731661819,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 214967,
@@ -20843,6 +20891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199282,
+      "num": 199282,
+      "word": "张佳宁时隔七年再演古装",
+      "onboard_time": 1731660380,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199271,
       "num": 199271,
       "word": "hybe称边伯贤参考田柾国",
@@ -21867,6 +21923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193075,
+      "num": 193075,
+      "word": "网传同花顺被立案或遭禁业数月",
+      "onboard_time": 1731662119,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193074,
       "num": 193074,
       "word": "女老师操场踢打学生派出所已介入",
@@ -22009,14 +22073,6 @@
       "onboard_time": 1731593603,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192309,
-      "num": 303267,
-      "word": "祝绪丹直播",
-      "onboard_time": 1731659899,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 192300,
@@ -22441,6 +22497,14 @@
       "onboard_time": 1730383041,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189861,
+      "num": 189861,
+      "word": "美团哈啰单车暂停在郑州运营",
+      "onboard_time": 1731660440,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 189783,
@@ -23867,6 +23931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179273,
+      "num": 179273,
+      "word": "这一刻64岁的她迎来了自己的16岁",
+      "onboard_time": 1731662358,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179007,
       "num": 179007,
       "word": "孙俪带等等小花支持邓超新片",
@@ -24113,14 +24185,6 @@
       "onboard_time": 1731334160,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177147,
-      "num": 177147,
-      "word": "王一博金鸡奖表彰大会生图",
-      "onboard_time": 1731659960,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 177143,
@@ -24729,6 +24793,14 @@
       "onboard_time": 1731377779,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173207,
+      "num": 173207,
+      "word": "王一博范丞丞金鸡红毯生图",
+      "onboard_time": 1731662478,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 173117,
@@ -25699,6 +25771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167169,
+      "num": 167169,
+      "word": "还好月光变奏曲亲了三十多次",
+      "onboard_time": 1731661218,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167095,
       "num": 167095,
       "word": "Bin说就差一点点",
@@ -25809,6 +25889,14 @@
       "onboard_time": 1730528417,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166425,
+      "num": 166425,
+      "word": "肖战版郭靖大年初一见",
+      "onboard_time": 1731662478,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 166266,
@@ -26819,6 +26907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160744,
+      "num": 160744,
+      "word": "马嘉祺单人直播",
+      "onboard_time": 1731661218,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160737,
       "num": 160737,
       "word": "越来越多年轻人选择电动车通勤",
@@ -27443,6 +27539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156935,
+      "num": 156935,
+      "word": "女子吃了三年牛黄解毒片后砒霜中毒",
+      "onboard_time": 1731662298,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156872,
       "num": 151733,
       "word": "黄磊回应资源背景争议",
@@ -27977,6 +28081,14 @@
       "onboard_time": 1731160281,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153959,
+      "num": 153959,
+      "word": "四川九峰山一驴友坠崖身亡",
+      "onboard_time": 1731662540,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153860,
@@ -30227,6 +30339,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 140326,
+      "num": 201018,
+      "word": "陈哲远回看这段还笑得出来吗",
+      "onboard_time": 1731661338,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140274,
       "num": 140274,
       "word": "李一桐丝滑变装",
@@ -30753,6 +30873,14 @@
       "onboard_time": 1731289157,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136917,
+      "num": 136917,
+      "word": "客服回应传同花顺涉非法荐股被立案",
+      "onboard_time": 1731662358,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 136733,
@@ -35979,6 +36107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98657,
+      "num": 304596,
+      "word": "三胎宝妈在月子会所充55万成股东",
+      "onboard_time": 1731661699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98594,
       "num": 129498,
       "word": "马龙分享奥运经历",
@@ -37539,6 +37675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78896,
+      "num": 306221,
+      "word": "小狗偷穿了陈哲远的鞋",
+      "onboard_time": 1731660919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78856,
       "num": 78856,
       "word": "Excel装修风",
@@ -37801,6 +37945,14 @@
       "onboard_time": 1731591441,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74949,
+      "num": 403577,
+      "word": "买黄金不发货不退款麦多多跑路",
+      "onboard_time": 1731660799,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74700,
@@ -42196,7 +42348,7 @@
     },
     {
       "raw_hot": 40323,
-      "num": 136375,
+      "num": 236095,
       "word": "运动员的力量美学",
       "onboard_time": 1731660019,
       "rank": 46,
@@ -43819,6 +43971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32091,
+      "num": 408634,
+      "word": "为了这个必须要去澳门一趟",
+      "onboard_time": 1731660380,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32084,
       "num": 942887,
       "word": "秘鲁接机女孩说我爱你中国",
@@ -44545,6 +44705,14 @@
       "onboard_time": 1731598280,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 29036,
+      "num": 415371,
+      "word": "第三方平台买机票暗藏多少猫腻",
+      "onboard_time": 1731661638,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 29033,
@@ -45979,6 +46147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22838,
+      "num": 403898,
+      "word": "男教师被举报猥亵后坠亡案一审判决",
+      "onboard_time": 1731662599,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22837,
       "num": 435728,
       "word": "麦琳不认可自己强势",
@@ -47291,6 +47467,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 17333,
+      "num": 681349,
+      "word": "在利马感受中秘情谊",
+      "onboard_time": 1731659118,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17316,
       "num": 252889,
       "word": "美国大选追踪",
@@ -48489,14 +48673,6 @@
       "onboard_time": 1730723059,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11099,
-      "num": 681349,
-      "word": "在利马感受中秘情谊",
-      "onboard_time": 1731659118,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11088,

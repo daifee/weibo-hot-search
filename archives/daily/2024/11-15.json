@@ -1,6 +1,6 @@
 {
   "startTime": 1731601751687,
-  "endTime": 1731660171337,
+  "endTime": 1731662653911,
   "band_list": [
     {
       "raw_hot": 4996898,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1296949,
-      "num": 370813,
+      "num": 412869,
       "word": "林彦俊 韩国教中文",
       "onboard_time": 1731653958,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 694071,
+      "num": 303044,
+      "word": "生理性喜欢的真实表现",
+      "onboard_time": 1731659659,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 688106,
       "num": 1471070,
       "word": "papi酱说李行亮不哄了",
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617554,
+      "num": 617554,
+      "word": "同花顺",
+      "onboard_time": 1731659419,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 606267,
       "num": 606267,
       "word": "宁波顺其自然又捐款109万元",
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481778,
+      "num": 481778,
+      "word": "祝绪丹直播",
+      "onboard_time": 1731659899,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468895,
       "num": 280649,
       "word": "断糖60天面部的变化",
@@ -403,12 +427,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 455676,
-      "num": 303044,
-      "word": "生理性喜欢的真实表现",
-      "onboard_time": 1731659659,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 454498,
+      "num": 411380,
+      "word": "张云龙脸和身材各长各的",
+      "onboard_time": 1731659419,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 448691,
@@ -441,6 +465,14 @@
       "onboard_time": 1731641659,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 428098,
+      "num": 378659,
+      "word": "张云龙打球娜扎给他送水",
+      "onboard_time": 1731662060,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 420642,
@@ -481,6 +513,14 @@
       "onboard_time": 1731586940,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 401108,
+      "num": 401108,
+      "word": "李行亮问怎么没有人哄他呢",
+      "onboard_time": 1731656839,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 398098,
@@ -635,6 +675,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 309019,
+      "num": 309019,
+      "word": "王一博金鸡奖表彰大会生图",
+      "onboard_time": 1731659960,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308300,
       "num": 291008,
       "word": "肖战骑马训练花絮",
@@ -755,12 +803,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246078,
-      "num": 305122,
-      "word": "李行亮问怎么没有人哄他呢",
-      "onboard_time": 1731656839,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 248450,
+      "num": 248450,
+      "word": "iPhone16和15Pro谁更值",
+      "onboard_time": 1731661218,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 244030,
@@ -803,12 +851,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 234131,
-      "num": 302608,
-      "word": "张云龙脸和身材各长各的",
-      "onboard_time": 1731659419,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 232656,
+      "num": 198989,
+      "word": "我们无孩爱猫女老了就这样",
+      "onboard_time": 1731661398,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 231801,
@@ -833,14 +881,6 @@
       "onboard_time": 1731585380,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226883,
-      "num": 226883,
-      "word": "同花顺",
-      "onboard_time": 1731659419,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 225673,
@@ -891,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215173,
+      "num": 215173,
+      "word": "高叶 李川油疯了",
+      "onboard_time": 1731661819,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214081,
       "num": 214081,
       "word": "汪苏泷素龙",
@@ -937,6 +985,14 @@
       "onboard_time": 1731643819,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199282,
+      "num": 199282,
+      "word": "张佳宁时隔七年再演古装",
+      "onboard_time": 1731660380,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 199249,
@@ -995,19 +1051,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193075,
+      "num": 193075,
+      "word": "网传同花顺被立案或遭禁业数月",
+      "onboard_time": 1731662119,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192613,
       "num": 241129,
       "word": "永夜星河你要是敢oe",
       "onboard_time": 1731654440,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192309,
-      "num": 303267,
-      "word": "祝绪丹直播",
-      "onboard_time": 1731659899,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -1057,6 +1113,14 @@
       "onboard_time": 1731634399,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 189861,
+      "num": 189861,
+      "word": "美团哈啰单车暂停在郑州运营",
+      "onboard_time": 1731660440,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 189084,
@@ -1155,12 +1219,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177147,
-      "num": 177147,
-      "word": "王一博金鸡奖表彰大会生图",
-      "onboard_time": 1731659960,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 179273,
+      "num": 179273,
+      "word": "这一刻64岁的她迎来了自己的16岁",
+      "onboard_time": 1731662358,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175680,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1731638960,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173207,
+      "num": 173207,
+      "word": "王一博范丞丞金鸡红毯生图",
+      "onboard_time": 1731662478,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 172491,
@@ -1267,6 +1339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167169,
+      "num": 167169,
+      "word": "还好月光变奏曲亲了三十多次",
+      "onboard_time": 1731661218,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166881,
       "num": 166881,
       "word": "美国防部发布UFO年度报告",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1731643819,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 166425,
+      "num": 166425,
+      "word": "肖战版郭靖大年初一见",
+      "onboard_time": 1731662478,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 166206,
@@ -1355,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160744,
+      "num": 160744,
+      "word": "马嘉祺单人直播",
+      "onboard_time": 1731661218,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159554,
       "num": 159554,
       "word": "小米回应网友让雷军造飞机",
@@ -1379,6 +1475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 156935,
+      "num": 156935,
+      "word": "女子吃了三年牛黄解毒片后砒霜中毒",
+      "onboard_time": 1731662298,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156798,
       "num": 156798,
       "word": "成都混团抢票",
@@ -1401,6 +1505,14 @@
       "onboard_time": 1731651200,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153959,
+      "num": 153959,
+      "word": "四川九峰山一驴友坠崖身亡",
+      "onboard_time": 1731662540,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152047,
@@ -1507,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140326,
+      "num": 201018,
+      "word": "陈哲远回看这段还笑得出来吗",
+      "onboard_time": 1731661338,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138428,
       "num": 138428,
       "word": "蔡徐坤回国纯黑look",
@@ -1529,6 +1649,14 @@
       "onboard_time": 1731656120,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136917,
+      "num": 136917,
+      "word": "客服回应传同花顺涉非法荐股被立案",
+      "onboard_time": 1731662358,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 136675,
@@ -1899,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98657,
+      "num": 304596,
+      "word": "三胎宝妈在月子会所充55万成股东",
+      "onboard_time": 1731661699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98249,
       "num": 376123,
       "word": "世界最佳旅游乡村我国新增7个",
@@ -1971,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78896,
+      "num": 306221,
+      "word": "小狗偷穿了陈哲远的鞋",
+      "onboard_time": 1731660919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77601,
       "num": 337709,
       "word": "多方回应未缴医保年终困难不予照顾",
@@ -2001,6 +2145,14 @@
       "onboard_time": 1731607633,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 74949,
+      "num": 403577,
+      "word": "买黄金不发货不退款麦多多跑路",
+      "onboard_time": 1731660799,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72769,
@@ -2252,7 +2404,7 @@
     },
     {
       "raw_hot": 40323,
-      "num": 136375,
+      "num": 236095,
       "word": "运动员的力量美学",
       "onboard_time": 1731660019,
       "rank": 46,
@@ -2336,6 +2488,14 @@
       "word": "成都一青少年机构疑似卷款千万跑路",
       "onboard_time": 1731643579,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32091,
+      "num": 408634,
+      "word": "为了这个必须要去澳门一趟",
+      "onboard_time": 1731660380,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2449,6 +2609,14 @@
       "onboard_time": 1731598280,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 29036,
+      "num": 415371,
+      "word": "第三方平台买机票暗藏多少猫腻",
+      "onboard_time": 1731661638,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 28673,
@@ -2579,6 +2747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 22838,
+      "num": 403898,
+      "word": "男教师被举报猥亵后坠亡案一审判决",
+      "onboard_time": 1731662599,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19692,
       "num": 43501,
       "word": "珠海航展科技感溢出屏幕了",
@@ -2617,6 +2793,14 @@
       "onboard_time": 1731614110,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17333,
+      "num": 681349,
+      "word": "在利马感受中秘情谊",
+      "onboard_time": 1731659118,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16542,
@@ -2704,14 +2888,6 @@
       "word": "中国海警位中国黄岩岛领海执法巡查",
       "onboard_time": 1731611171,
       "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11099,
-      "num": 681349,
-      "word": "在利马感受中秘情谊",
-      "onboard_time": 1731659118,
-      "rank": 2,
       "category": "国内时政"
     },
     {
