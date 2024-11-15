@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731653289872,
+  "endTime": 1731655370495,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2323,6 +2323,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1299124,
+      "num": 1299124,
+      "word": "横店群演降薪",
+      "onboard_time": 1731649878,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1296949,
+      "num": 330458,
+      "word": "林彦俊 韩国教中文",
+      "onboard_time": 1731653958,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1296692,
       "num": 1296692,
       "word": "良品铺子被立案调查",
@@ -2377,14 +2393,6 @@
       "onboard_time": 1730573836,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1280907,
-      "num": 1280907,
-      "word": "横店群演降薪",
-      "onboard_time": 1731649878,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1277393,
@@ -5481,6 +5489,14 @@
       "onboard_time": 1731331820,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735093,
+      "num": 326239,
+      "word": "麦琳下期首选离婚",
+      "onboard_time": 1731652459,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 734419,
@@ -10811,14 +10827,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 410206,
-      "num": 325584,
-      "word": "麦琳下期首选离婚",
-      "onboard_time": 1731652459,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410089,
       "num": 410089,
       "word": "虞书欣丁禹兮腾讯扫楼",
@@ -12427,6 +12435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351433,
+      "num": 351433,
+      "word": "头一次见有人用脸打双闪",
+      "onboard_time": 1731649999,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351369,
       "num": 351369,
       "word": "库里杀死比赛",
@@ -12609,6 +12625,14 @@
       "onboard_time": 1731382041,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343591,
+      "num": 343591,
+      "word": "顺其自然每一笔捐款都用在了孩子身上",
+      "onboard_time": 1731653119,
+      "rank": 16,
+      "category": "正能量"
     },
     {
       "raw_hot": 343576,
@@ -13171,14 +13195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327639,
-      "num": 327639,
-      "word": "头一次见有人用脸打双闪",
-      "onboard_time": 1731649999,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327334,
       "num": 275742,
       "word": "许昕谈王曼昱夺冠",
@@ -13681,6 +13697,14 @@
       "onboard_time": 1730966540,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311920,
+      "num": 344216,
+      "word": "沙特官员辟谣来珠海航展只为扫货",
+      "onboard_time": 1731650899,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 311759,
@@ -18627,6 +18651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215082,
+      "num": 215082,
+      "word": "山东年平均工资107131元",
+      "onboard_time": 1731651558,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214967,
       "num": 214967,
       "word": "世界之外",
@@ -21331,6 +21363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195263,
+      "num": 220866,
+      "word": "金鸡奖提名表彰红毯",
+      "onboard_time": 1731654198,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195234,
       "num": 865914,
       "word": "近年来力度最大的化债举措审议通过",
@@ -21936,6 +21976,14 @@
       "word": "徐冬冬 我会一直继续性感",
       "onboard_time": 1731230599,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191789,
+      "num": 191789,
+      "word": "杨仕泽祝绪丹穿了同款",
+      "onboard_time": 1731653418,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -22593,6 +22641,14 @@
       "onboard_time": 1730878171,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187070,
+      "num": 187070,
+      "word": "股市",
+      "onboard_time": 1731655099,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 187027,
@@ -24163,14 +24219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175517,
-      "num": 175517,
-      "word": "山东年平均工资107131元",
-      "onboard_time": 1731651558,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 175508,
       "num": 175508,
       "word": "小巷人家庄桦林自私吗",
@@ -24232,6 +24280,14 @@
       "word": "大张伟始终不敢唱那首歌",
       "onboard_time": 1731144198,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174996,
+      "num": 174996,
+      "word": "邓超给鹿晗画的大饼",
+      "onboard_time": 1731653839,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -24465,6 +24521,14 @@
       "onboard_time": 1731215058,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173412,
+      "num": 173412,
+      "word": "中国无人机蜂群作战系统曝光",
+      "onboard_time": 1731655042,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 173376,
@@ -25521,6 +25585,14 @@
       "onboard_time": 1731492499,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166754,
+      "num": 166754,
+      "word": "华为发布会所有新品曝光",
+      "onboard_time": 1731654378,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 166737,
@@ -28891,6 +28963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147424,
+      "num": 149547,
+      "word": "歼35A飞出超炫马赫环",
+      "onboard_time": 1731649340,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 147329,
       "num": 147329,
       "word": "虞书欣说邓超红发魔男",
@@ -29584,6 +29664,14 @@
       "word": "蒲熠星音乐节",
       "onboard_time": 1730637320,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 142516,
+      "num": 142516,
+      "word": "林俊杰王源同台合唱",
+      "onboard_time": 1731655159,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -30473,14 +30561,6 @@
       "onboard_time": 1731289157,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136770,
-      "num": 344216,
-      "word": "沙特官员辟谣来珠海航展只为扫货",
-      "onboard_time": 1731650899,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 136733,
@@ -32851,6 +32931,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 121445,
+      "num": 216327,
+      "word": "永夜星河你要是敢oe",
+      "onboard_time": 1731654440,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121390,
       "num": 121390,
       "word": "你见过能长一米多的猫咪吗",
@@ -33105,14 +33193,6 @@
       "onboard_time": 1730593397,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119679,
-      "num": 149547,
-      "word": "歼35A飞出超炫马赫环",
-      "onboard_time": 1731649340,
-      "rank": 39,
-      "category": "军事"
     },
     {
       "raw_hot": 119627,
@@ -34833,14 +34913,6 @@
       "onboard_time": 1731343217,
       "rank": 24,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 106849,
-      "num": 315845,
-      "word": "顺其自然每一笔捐款都用在了孩子身上",
-      "onboard_time": 1731653119,
-      "rank": 16,
-      "category": "正能量"
     },
     {
       "raw_hot": 106815,
@@ -37347,6 +37419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76911,
+      "num": 219813,
+      "word": "T1官宣oner续约",
+      "onboard_time": 1731655218,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76733,
       "num": 263576,
       "word": "中国航展亮点满满",
@@ -37865,6 +37945,14 @@
       "onboard_time": 1731158600,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70356,
+      "num": 297430,
+      "word": "三亚教育局局长被举报毕业论文涉抄袭",
+      "onboard_time": 1731654440,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 70043,
@@ -38427,6 +38515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66001,
+      "num": 337709,
+      "word": "多方回应未缴医保年终困难不予照顾",
+      "onboard_time": 1731654260,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65916,
       "num": 330128,
       "word": "任敏发长文告别锦绣安宁",
@@ -38641,6 +38737,14 @@
       "onboard_time": 1731597561,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63744,
+      "num": 255245,
+      "word": "蔡徐坤墨镜潮酷风",
+      "onboard_time": 1731655218,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 63506,
@@ -41539,6 +41643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 41958,
+      "num": 261926,
+      "word": "陈梦称这一路走来很快乐也艰辛",
+      "onboard_time": 1731655218,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41907,
       "num": 206792,
       "word": "凌妙妙记者发布会",
@@ -42788,7 +42900,7 @@
     },
     {
       "raw_hot": 34714,
-      "num": 210158,
+      "num": 216920,
       "word": "价格是车最好的医美",
       "onboard_time": 1731652459,
       "rank": 48,
@@ -43555,6 +43667,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 31617,
+      "num": 173501,
+      "word": "iCAR找到爆款密码",
+      "onboard_time": 1731654860,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31589,
       "num": 258666,
       "word": "极氪无图城市NZP万人公测",
@@ -44100,7 +44220,7 @@
     },
     {
       "raw_hot": 29181,
-      "num": 168090,
+      "num": 173439,
       "word": "雷军体验小鹏P7+频频点赞",
       "onboard_time": 1731652278,
       "rank": 38,
@@ -47409,6 +47529,14 @@
       "onboard_time": 1730869897,
       "rank": 29,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 14605,
+      "num": 260009,
+      "word": "野猪在北京郊区频频撒野",
+      "onboard_time": 1731654318,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14576,
