@@ -1,10 +1,10 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731688154561,
+  "endTime": 1731689130641,
   "band_list": [
     {
       "raw_hot": 1423536,
-      "num": 281432,
+      "num": 331741,
       "word": "王昶 钱天一",
       "onboard_time": 1731684498,
       "rank": 10,
@@ -27,12 +27,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 780582,
-      "num": 279790,
+      "raw_hot": 851793,
+      "num": 317337,
       "word": "张云龙",
       "onboard_time": 1731685879,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 681705,
+      "num": 435828,
+      "word": "德连环强奸案嫌疑人系43岁中国公民",
+      "onboard_time": 1731683600,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 668437,
@@ -43,20 +51,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 637524,
-      "num": 435828,
-      "word": "德连环强奸案嫌疑人系43岁中国公民",
-      "onboard_time": 1731683600,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 451427,
       "num": 451427,
       "word": "丁禹兮应该开演唱会",
       "onboard_time": 1731681440,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407725,
+      "num": 407725,
+      "word": "男子恶意将小狗踢下五台山",
+      "onboard_time": 1731686359,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387855,
+      "num": 387855,
+      "word": "11岁男孩爬火车头遭电击全身起火",
+      "onboard_time": 1731686959,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381051,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 356921,
-      "num": 283869,
+      "num": 359770,
       "word": "祝绪丹回应与丁禹兮关系",
       "onboard_time": 1731666619,
       "rank": 9,
@@ -81,14 +97,6 @@
       "onboard_time": 1731683179,
       "rank": 7,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 321388,
-      "num": 276526,
-      "word": "男子恶意将小狗踢下五台山",
-      "onboard_time": 1731686359,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285857,
@@ -104,6 +112,14 @@
       "word": "教体局回应学生吐槽学校被闭麦拉走",
       "onboard_time": 1731680901,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269097,
+      "num": 269097,
+      "word": "人被被子单杀可能性几乎但并不为零",
+      "onboard_time": 1731686899,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -123,20 +139,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 240237,
-      "num": 240237,
-      "word": "11岁男孩爬火车头遭电击全身起火",
-      "onboard_time": 1731686959,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230230,
       "num": 230230,
       "word": "京东物流已向警方报案",
       "onboard_time": 1731676640,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 203310,
+      "num": 203310,
+      "word": "茉莉奶白道歉",
+      "onboard_time": 1731687918,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199357,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 194362,
-      "num": 275165,
+      "num": 341967,
       "word": "记者采访被袭5名相关人员被拘",
       "onboard_time": 1731686179,
       "rank": 13,
@@ -156,19 +172,11 @@
     },
     {
       "raw_hot": 186574,
-      "num": 186574,
+      "num": 196187,
       "word": "永夜星河 女主戏份",
       "onboard_time": 1731668839,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183240,
-      "num": 183240,
-      "word": "人被被子单杀可能性几乎但并不为零",
-      "onboard_time": 1731686899,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175464,
@@ -307,14 +315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95779,
-      "num": 95779,
-      "word": "茉莉奶白道歉",
-      "onboard_time": 1731687918,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88228,
       "num": 88228,
       "word": "永夜星河",
@@ -379,19 +379,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69302,
+      "num": 69302,
+      "word": "彭高 蓝色是天空和大海的颜色",
+      "onboard_time": 1731667279,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68341,
+      "num": 68341,
+      "word": "金鸡奖",
+      "onboard_time": 1731673759,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 66428,
+      "num": 156160,
+      "word": "赵小童拍的青岛秋天",
+      "onboard_time": 1731688457,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65209,
+      "num": 214137,
+      "word": "aespa黑白领带长裤造型",
+      "onboard_time": 1731687857,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32608,
       "num": 95836,
       "word": "赵一博主场少年合体现身澳门",
       "onboard_time": 1731686599,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 10586,
-      "num": 214137,
-      "word": "aespa黑白领带长裤造型",
-      "onboard_time": 1731687857,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习近平主席的利马时间#"
+    },
+    {
+      "word": "#在秘鲁举行的欢迎仪式什么样#"
     }
   ]
 }
