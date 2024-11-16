@@ -1,0 +1,410 @@
+{
+  "runTime": 1731766784903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9775493,
+        "num": 9775493,
+        "word": "李庚希金鸡影后",
+        "onboard_time": 1731765565,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 3389971,
+        "num": 3389971,
+        "word": "AG夺冠",
+        "onboard_time": 1731765565,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52059,
+        "num": 1966380,
+        "word": "男子在秘鲁40多年开了60多家中餐厅",
+        "onboard_time": 1731759020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3581174,
+        "num": 1794096,
+        "word": "雷佳音金鸡影帝",
+        "onboard_time": 1731765082,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1032088,
+        "num": 1032088,
+        "word": "AG对战狼队",
+        "onboard_time": 1731749960,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 344446,
+        "num": 815260,
+        "word": "王皓回应樊振东马龙退出总决赛",
+        "onboard_time": 1731760640,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803045,
+        "num": 803045,
+        "word": "刘丹金鸡奖最佳女配角",
+        "onboard_time": 1731757879,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27062,
+        "num": 796381,
+        "word": "太空快递送去了哪些家乡货",
+        "onboard_time": 1731765082,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 793163,
+        "num": 793163,
+        "word": "金鸡奖直播",
+        "onboard_time": 1731748218,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180561,
+        "num": 619546,
+        "word": "捐日军侵华罪行相册的美国小伙来中国了",
+        "onboard_time": 1731765805,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593961,
+        "num": 593961,
+        "word": "关晓彤红发",
+        "onboard_time": 1731751339,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 457672,
+        "num": 457672,
+        "word": "范丞丞金鸡奖红毯让C位",
+        "onboard_time": 1731761360,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80247,
+        "num": 452470,
+        "word": "AG死亡上半区杀出来的冠军",
+        "onboard_time": 1731766164,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114614,
+        "num": 448352,
+        "word": "AG四冠王",
+        "onboard_time": 1731766164,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8913,
+        "num": 435401,
+        "word": "把观众带回电影院得有真功夫",
+        "onboard_time": 1731766585,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6456,
+        "num": 425691,
+        "word": "神十九乘组看到快递发出一起鼓掌",
+        "onboard_time": 1731746539,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423104,
+        "num": 423104,
+        "word": "长生FMVP",
+        "onboard_time": 1731766526,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255635,
+        "num": 255635,
+        "word": "AG剧透",
+        "onboard_time": 1731753380,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20832,
+        "num": 254788,
+        "word": "金鸡电影节追星神器",
+        "onboard_time": 1731765082,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199995,
+        "num": 254288,
+        "word": "孙燕姿参加儿子小学毕业典礼",
+        "onboard_time": 1731764182,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720723,
+        "num": 252921,
+        "word": "六公主发了赵丽颖大特写",
+        "onboard_time": 1731750679,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 437252,
+        "num": 251299,
+        "word": "虞书欣真的很想抱起丁禹兮",
+        "onboard_time": 1731758661,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395217,
+        "num": 250291,
+        "word": "王骁金鸡奖最佳男配角",
+        "onboard_time": 1731757520,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96912,
+        "num": 249781,
+        "word": "马琳回应陈梦退赛",
+        "onboard_time": 1731765624,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212718,
+        "num": 248571,
+        "word": "献血100次可免费吃酒店自助餐",
+        "onboard_time": 1731735979,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354571,
+        "num": 246730,
+        "word": "留几手向麦琳道歉",
+        "onboard_time": 1731756740,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345644,
+        "num": 246237,
+        "word": "大梦归离大结局",
+        "onboard_time": 1731759380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340129,
+        "num": 244347,
+        "word": "69岁产女婴老夫妻为女儿过5岁生日",
+        "onboard_time": 1731755418,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327957,
+        "num": 243629,
+        "word": "金鸡奖获奖名单",
+        "onboard_time": 1731766465,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318632,
+        "num": 241981,
+        "word": "孙怡带7岁女儿逛超市",
+        "onboard_time": 1731761721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287767,
+        "num": 241494,
+        "word": "关晓彤把我演哭了",
+        "onboard_time": 1731763342,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273508,
+        "num": 240143,
+        "word": "永夜星河27集好虐",
+        "onboard_time": 1731762442,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239685,
+        "num": 239685,
+        "word": "汤唯纠正百度百科",
+        "onboard_time": 1731762680,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236549,
+        "num": 236549,
+        "word": "外卖员送餐汤汁洒出街头将汤倒回",
+        "onboard_time": 1731762261,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233418,
+        "num": 233418,
+        "word": "尹正爆料黄晓明杀青状态",
+        "onboard_time": 1731745938,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225238,
+        "num": 225238,
+        "word": "巴西总统怒斥一边战争一边饿着孩子",
+        "onboard_time": 1731762022,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213452,
+        "num": 213452,
+        "word": "登陆少年古装",
+        "onboard_time": 1731763700,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6551,
+        "num": 201423,
+        "word": "老外报中餐菜名太溜了",
+        "onboard_time": 1731747020,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195061,
+        "num": 195061,
+        "word": "KPL总决赛现场太燃了",
+        "onboard_time": 1731753200,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193312,
+        "num": 193312,
+        "word": "狼队扳回一局",
+        "onboard_time": 1731757520,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189741,
+        "num": 189741,
+        "word": "丁禹兮好六街跳了yesok",
+        "onboard_time": 1731760880,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182599,
+        "num": 182599,
+        "word": "遭学生质问的10人间宿舍条件怎样",
+        "onboard_time": 1731748399,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 177261,
+        "num": 177261,
+        "word": "小红稳住",
+        "onboard_time": 1731757101,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176376,
+        "num": 176376,
+        "word": "沙溢回应瘦身",
+        "onboard_time": 1731764302,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159857,
+        "num": 159857,
+        "word": "金鸡奖节目单",
+        "onboard_time": 1731758062,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156886,
+        "num": 156886,
+        "word": "张子枫妆造",
+        "onboard_time": 1731757339,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153170,
+        "num": 153170,
+        "word": "惠英红 惠英绿",
+        "onboard_time": 1731750378,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149931,
+        "num": 149931,
+        "word": "好六下周有王星越卢昱晓",
+        "onboard_time": 1731765805,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99827,
+        "num": 137775,
+        "word": "金饰价格跌至700元以下",
+        "onboard_time": 1731756920,
+        "rank": 48,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 131885,
+        "num": 131885,
+        "word": "惠英红拥抱鼓励赵丽颖",
+        "onboard_time": 1731758481,
+        "rank": 49,
+        "category": "综艺,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#各国共同发展才是真发展#"
+    }
+  }
+}

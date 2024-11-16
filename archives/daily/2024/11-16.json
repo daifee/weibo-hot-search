@@ -1,7 +1,31 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731764287408,
+  "endTime": 1731766784903,
   "band_list": [
+    {
+      "raw_hot": 9775493,
+      "num": 9775493,
+      "word": "李庚希金鸡影后",
+      "onboard_time": 1731765565,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3581174,
+      "num": 1794096,
+      "word": "雷佳音金鸡影帝",
+      "onboard_time": 1731765082,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3389971,
+      "num": 3389971,
+      "word": "AG夺冠",
+      "onboard_time": 1731765565,
+      "rank": 1,
+      "category": "电竞"
+    },
     {
       "raw_hot": 2294363,
       "num": 2294363,
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 1482780,
-      "num": 380608,
+      "num": 593961,
       "word": "关晓彤红发",
       "onboard_time": 1731751339,
       "rank": 15,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 1154413,
-      "num": 775558,
+      "num": 793163,
       "word": "金鸡奖直播",
       "onboard_time": 1731748218,
       "rank": 1,
@@ -97,6 +121,14 @@
       "onboard_time": 1731748399,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1032088,
+      "num": 1032088,
+      "word": "AG对战狼队",
+      "onboard_time": 1731749960,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 1000232,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 691819,
-      "num": 691819,
+      "num": 815260,
       "word": "王皓回应樊振东马龙退出总决赛",
       "onboard_time": 1731760640,
       "rank": 39,
@@ -443,12 +475,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 452892,
-      "num": 452892,
-      "word": "AG对战狼队",
-      "onboard_time": 1731749960,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 457672,
+      "num": 457672,
+      "word": "范丞丞金鸡奖红毯让C位",
+      "onboard_time": 1731761360,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 451427,
@@ -475,12 +507,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 437252,
+      "num": 251299,
+      "word": "虞书欣真的很想抱起丁禹兮",
+      "onboard_time": 1731758661,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429716,
       "num": 429716,
       "word": "泰森vs保罗",
       "onboard_time": 1731728118,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423104,
+      "num": 423104,
+      "word": "长生FMVP",
+      "onboard_time": 1731766526,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 421792,
@@ -569,14 +617,6 @@
       "onboard_time": 1731672737,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 376238,
-      "num": 376238,
-      "word": "范丞丞金鸡奖红毯让C位",
-      "onboard_time": 1731761360,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 372929,
@@ -683,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 327957,
+      "num": 243629,
+      "word": "金鸡奖获奖名单",
+      "onboard_time": 1731766465,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 325057,
       "num": 335987,
       "word": "印尼火山喷发滞留中国游客发声",
@@ -755,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287380,
-      "num": 250176,
-      "word": "虞书欣真的很想抱起丁禹兮",
-      "onboard_time": 1731758661,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 287767,
+      "num": 241494,
+      "word": "关晓彤把我演哭了",
+      "onboard_time": 1731763342,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 286552,
@@ -811,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273508,
+      "num": 281045,
+      "word": "永夜星河27集好虐",
+      "onboard_time": 1731762442,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272993,
       "num": 272993,
       "word": "教体局回应学生吐槽学校被闭麦拉走",
@@ -857,6 +913,14 @@
       "onboard_time": 1731721758,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255635,
+      "num": 255635,
+      "word": "AG剧透",
+      "onboard_time": 1731753380,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 253998,
@@ -923,12 +987,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 241615,
-      "num": 281045,
-      "word": "永夜星河27集好虐",
-      "onboard_time": 1731762442,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 239685,
+      "num": 348059,
+      "word": "汤唯纠正百度百科",
+      "onboard_time": 1731762680,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 238562,
@@ -937,6 +1001,14 @@
       "onboard_time": 1731756920,
       "rank": 9,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 236549,
+      "num": 236549,
+      "word": "外卖员送餐汤汁洒出街头将汤倒回",
+      "onboard_time": 1731762261,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236033,
@@ -963,20 +1035,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231109,
-      "num": 348059,
-      "word": "汤唯纠正百度百科",
-      "onboard_time": 1731762680,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230230,
       "num": 230230,
       "word": "京东物流已向警方报案",
       "onboard_time": 1731676640,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 225238,
+      "num": 381238,
+      "word": "巴西总统怒斥一边战争一边饿着孩子",
+      "onboard_time": 1731762022,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 219247,
@@ -1027,12 +1099,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214205,
-      "num": 214205,
-      "word": "关晓彤把我演哭了",
-      "onboard_time": 1731763342,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 213452,
+      "num": 213452,
+      "word": "登陆少年古装",
+      "onboard_time": 1731763700,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 210041,
@@ -1065,14 +1137,6 @@
       "onboard_time": 1731672737,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209288,
-      "num": 209288,
-      "word": "外卖员送餐汤汁洒出街头将汤倒回",
-      "onboard_time": 1731762261,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204088,
@@ -1147,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199995,
+      "num": 254288,
+      "word": "孙燕姿参加儿子小学毕业典礼",
+      "onboard_time": 1731764182,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199950,
       "num": 293679,
       "word": "戚薇田曦薇在聊什么",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1731751939,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193312,
+      "num": 193312,
+      "word": "狼队扳回一局",
+      "onboard_time": 1731757520,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 192994,
@@ -1275,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180561,
+      "num": 619546,
+      "word": "捐日军侵华罪行相册的美国小伙来中国了",
+      "onboard_time": 1731765805,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "杨子说黄圣依不折腾就开心了",
@@ -1299,6 +1387,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177261,
+      "num": 177261,
+      "word": "小红稳住",
+      "onboard_time": 1731757101,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 176376,
+      "num": 176376,
+      "word": "沙溢回应瘦身",
+      "onboard_time": 1731764302,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175242,
       "num": 175242,
       "word": "官方回应学生质疑学校没钱修宿舍",
@@ -1321,14 +1425,6 @@
       "onboard_time": 1731732318,
       "rank": 32,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 174706,
-      "num": 381238,
-      "word": "巴西总统怒斥一边战争一边饿着孩子",
-      "onboard_time": 1731762022,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173778,
@@ -1401,14 +1497,6 @@
       "onboard_time": 1731721820,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 166765,
-      "num": 166765,
-      "word": "AG剧透",
-      "onboard_time": 1731753380,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 164149,
@@ -1611,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149931,
+      "num": 149931,
+      "word": "好六下周有王星越卢昱晓",
+      "onboard_time": 1731765805,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149667,
       "num": 234442,
       "word": "高校回应男生扮女装进女澡堂偷拍",
@@ -1665,14 +1761,6 @@
       "onboard_time": 1731717258,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145143,
-      "num": 145143,
-      "word": "登陆少年古装",
-      "onboard_time": 1731763700,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 143362,
@@ -1731,16 +1819,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 138497,
-      "num": 138497,
-      "word": "孙燕姿参加儿子小学毕业典礼",
-      "onboard_time": 1731764182,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138162,
-      "num": 138162,
+      "num": 1966380,
       "word": "男子在秘鲁40多年开了60多家中餐厅",
       "onboard_time": 1731759020,
       "rank": 48,
@@ -2067,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114614,
+      "num": 448352,
+      "word": "AG四冠王",
+      "onboard_time": 1731766164,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114512,
       "num": 114512,
       "word": "近500人300元抢到6399元九号电车",
@@ -2331,6 +2419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96912,
+      "num": 249781,
+      "word": "马琳回应陈梦退赛",
+      "onboard_time": 1731765624,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96721,
       "num": 96721,
       "word": "勇士紧追西部第一",
@@ -2536,6 +2632,14 @@
       "word": "AG先下一城",
       "onboard_time": 1731754098,
       "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 80247,
+      "num": 452470,
+      "word": "AG死亡上半区杀出来的冠军",
+      "onboard_time": 1731766164,
+      "rank": 12,
       "category": "电竞"
     },
     {
@@ -2828,7 +2932,7 @@
     },
     {
       "raw_hot": 39566,
-      "num": 382692,
+      "num": 425691,
       "word": "神十九乘组看到快递发出一起鼓掌",
       "onboard_time": 1731746539,
       "rank": 8,
@@ -3059,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27062,
+      "num": 796381,
+      "word": "太空快递送去了哪些家乡货",
+      "onboard_time": 1731765082,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 26780,
       "num": 40628,
       "word": "李在明被判有期徒刑1年",
@@ -3161,6 +3273,14 @@
       "onboard_time": 1731695053,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 20832,
+      "num": 254788,
+      "word": "金鸡电影节追星神器",
+      "onboard_time": 1731765082,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 20158,
@@ -3355,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8913,
+      "num": 435401,
+      "word": "把观众带回电影院得有真功夫",
+      "onboard_time": 1731766585,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 7214,
       "num": 192474,
       "word": "鹭卓左勾手上篮转身跳投",
@@ -3414,6 +3542,9 @@
     },
     {
       "word": "#习近平主席这样阐述亚太合作#"
+    },
+    {
+      "word": "#各国共同发展才是真发展#"
     }
   ]
 }

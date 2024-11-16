@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/11/16 21:38:07
+本榜单时间：2024/01/01 00:21:05 ~ 2024/11/16 22:19:44
 </p>
 </blockquote>
 <p>
@@ -1173,6 +1173,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%23" target="weibo">
+李庚希金鸡影后（热度：9775493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%8D%A1%E5%B0%94%E6%A3%AE%23" target="weibo">
 王楚钦vs卡尔森（热度：9738507）
 </a>
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23" target="weibo">
 中国女排vs美国女排（热度：7962979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%89%E8%8E%B7%E5%BE%AE%E5%8D%9AQueen%23" target="weibo">
-杨紫三获微博Queen（热度：7952941）
 </a>
 </li>
 
