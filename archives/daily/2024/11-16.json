@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731735596250,
+  "endTime": 1731738597174,
   "band_list": [
     {
       "raw_hot": 1697049,
@@ -33,6 +33,14 @@
       "onboard_time": 1731732318,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1128441,
+      "num": 1180550,
+      "word": "官方称有80人满足免费吃自助餐条件",
+      "onboard_time": 1731734238,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1000232,
@@ -89,6 +97,14 @@
       "onboard_time": 1731685879,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 790506,
+      "num": 264768,
+      "word": "考古麦琳微博",
+      "onboard_time": 1731736098,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 785831,
@@ -259,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 372929,
+      "num": 317114,
+      "word": "今天把掌声送给河南籍演员王一博",
+      "onboard_time": 1731736458,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 372527,
       "num": 372527,
       "word": "珠帘玉幕造型师回应收腰囚服争议",
@@ -299,6 +323,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 340143,
+      "num": 314276,
+      "word": "你心中的金鸡奖最佳主角",
+      "onboard_time": 1731733638,
+      "rank": 9,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 337496,
       "num": 337496,
       "word": "成龙呼吁大家到电影院看电影",
@@ -307,12 +339,36 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 319815,
+      "num": 319815,
+      "word": "国企高中学历总监称家里困难没上大学",
+      "onboard_time": 1731731598,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310780,
+      "num": 310780,
+      "word": "男大学生扮女装进女澡堂偷拍被抓",
+      "onboard_time": 1731733279,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304185,
       "num": 218986,
       "word": "徐冬冬完全把汉语和英语融合了",
       "onboard_time": 1731730038,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290682,
+      "num": 180304,
+      "word": "发现麦琳以前是好有生命力的人",
+      "onboard_time": 1731734898,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 286552,
@@ -344,14 +400,6 @@
       "word": "教体局回应学生吐槽学校被闭麦拉走",
       "onboard_time": 1731680901,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266128,
-      "num": 266128,
-      "word": "国企高中学历总监称家里困难没上大学",
-      "onboard_time": 1731731598,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -419,12 +467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 234604,
-      "num": 234604,
-      "word": "官方称有80人满足免费吃自助餐条件",
-      "onboard_time": 1731734238,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 236033,
+      "num": 179652,
+      "word": "珍珠蚌也会拉肚子",
+      "onboard_time": 1731736458,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 232640,
@@ -449,6 +497,14 @@
       "onboard_time": 1731732378,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 218430,
+      "num": 175262,
+      "word": "再见爱人背景音没消掉",
+      "onboard_time": 1731738318,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 216805,
@@ -483,14 +539,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 204340,
-      "num": 204340,
-      "word": "男大学生扮女装进女澡堂偷拍被抓",
-      "onboard_time": 1731733279,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203879,
       "num": 195022,
       "word": "家长觉得孩子反常查监控发现被虐待",
@@ -521,6 +569,22 @@
       "onboard_time": 1731712635,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199610,
+      "num": 266877,
+      "word": "献血100次可免费吃酒店自助餐",
+      "onboard_time": 1731735979,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199471,
+      "num": 173717,
+      "word": "张继科发文致敬泰森",
+      "onboard_time": 1731738197,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 199357,
@@ -555,6 +619,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188245,
+      "num": 172747,
+      "word": "中国医院专科声誉排行榜",
+      "onboard_time": 1731737418,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186789,
+      "num": 186789,
+      "word": "国产车把中东土豪拿捏住了",
+      "onboard_time": 1731736638,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 186574,
       "num": 196187,
       "word": "永夜星河 女主戏份",
@@ -569,14 +649,6 @@
       "onboard_time": 1731722357,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177307,
-      "num": 177307,
-      "word": "发现麦琳以前是好有生命力的人",
-      "onboard_time": 1731734898,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 175242,
@@ -787,6 +859,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147153,
+      "num": 186693,
+      "word": "蔡徐坤库存持续loading",
+      "onboard_time": 1731737297,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147119,
+      "num": 147119,
+      "word": "放假去埃及玩的人嘴真严啊",
+      "onboard_time": 1731737418,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 145248,
       "num": 145248,
       "word": "天舟八号成功对接空间站",
@@ -899,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128895,
+      "num": 128895,
+      "word": "福克斯60分",
+      "onboard_time": 1731737418,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127948,
       "num": 163344,
       "word": "KPL年总决赛首发名单",
@@ -920,6 +1016,14 @@
       "word": "医生说学霸厕纸易诱发肛肠疾病",
       "onboard_time": 1731728178,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123475,
+      "num": 123475,
+      "word": "河蚌加餐喝豆浆长出的珍珠会更好看",
+      "onboard_time": 1731737418,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -945,6 +1049,14 @@
       "onboard_time": 1731729498,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119874,
+      "num": 275278,
+      "word": "质问不修宿舍学生曾反映过宿舍漏水",
+      "onboard_time": 1731735439,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114989,
@@ -1011,6 +1123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107803,
+      "num": 107803,
+      "word": "官方通报村委会发通知不缴医保不盖章",
+      "onboard_time": 1731738020,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 107509,
       "num": 107509,
       "word": "涂毓麟 欢迎来到毓言的奇妙之旅",
@@ -1024,6 +1144,22 @@
       "word": "国足展望直接晋级",
       "onboard_time": 1731684201,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107471,
+      "num": 120712,
+      "word": "郑雅贤service突破百万播放量",
+      "onboard_time": 1731737477,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 106987,
+      "num": 185815,
+      "word": "泰森复出不敌27岁网红",
+      "onboard_time": 1731737118,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1049,6 +1185,14 @@
       "onboard_time": 1731731778,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102581,
+      "num": 102581,
+      "word": "恋爱脑是对女性的污名化",
+      "onboard_time": 1731738077,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 102284,
@@ -1291,14 +1435,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 76797,
-      "num": 236036,
-      "word": "你心中的金鸡奖最佳主角",
-      "onboard_time": 1731733638,
-      "rank": 9,
-      "category": "电影,艺人"
-    },
-    {
       "raw_hot": 74462,
       "num": 82408,
       "word": "证监会正式发布市值管理指引",
@@ -1411,14 +1547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49731,
-      "num": 275278,
-      "word": "质问不修宿舍学生曾反映过宿舍漏水",
-      "onboard_time": 1731735439,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47659,
       "num": 47659,
       "word": "王安宇 破碎小狗",
@@ -1483,6 +1611,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 35870,
+      "num": 216947,
+      "word": "7.7万名村干部被立案背后",
+      "onboard_time": 1731737238,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35810,
       "num": 36043,
       "word": "男子登山时坠崖救治无效身亡",
@@ -1539,12 +1675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28846,
+      "num": 175776,
+      "word": "龚俊冬天穿搭",
+      "onboard_time": 1731734598,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 28693,
       "num": 33483,
       "word": "祝绪丹说虞书欣像个小充电宝",
       "onboard_time": 1731698833,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27450,
+      "num": 184861,
+      "word": "韩国体坛的前辈霸凌",
+      "onboard_time": 1731737477,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27429,
@@ -1577,6 +1729,14 @@
       "onboard_time": 1731704110,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24602,
+      "num": 177720,
+      "word": "龚俊使命必达",
+      "onboard_time": 1731732978,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 23219,
@@ -1729,6 +1889,14 @@
       "onboard_time": 1731678440,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6043,
+      "num": 128206,
+      "word": "三百人在南京一起晨跑有多热闹",
+      "onboard_time": 1731738558,
+      "rank": 39,
+      "category": "休闲"
     },
     {
       "raw_hot": 5975,
