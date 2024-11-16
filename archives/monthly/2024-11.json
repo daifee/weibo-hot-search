@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731766784903,
+  "endTime": 1731767900872,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -49,6 +49,14 @@
       "onboard_time": 1730600600,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12010171,
+      "num": 12010171,
+      "word": "李庚希金鸡影后",
+      "onboard_time": 1731765565,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 11735355,
@@ -105,14 +113,6 @@
       "onboard_time": 1730814262,
       "rank": 0,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 9775493,
-      "num": 9775493,
-      "word": "李庚希金鸡影后",
-      "onboard_time": 1731765565,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 8517226,
@@ -2691,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1211875,
+      "num": 730702,
+      "word": "金鸡 离谱",
+      "onboard_time": 1731767366,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1210318,
       "num": 1210318,
       "word": "永夜星河oe开放式结局",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1730705540,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173129,
+      "num": 730578,
+      "word": "金鸡奖获奖名单",
+      "onboard_time": 1731766465,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 1172692,
@@ -5923,6 +5939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727775,
+      "num": 727775,
+      "word": "长生FMVP",
+      "onboard_time": 1731766526,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 727405,
       "num": 569440,
       "word": "王心凌音乐节只唱4首观众齐喊退票",
@@ -5993,6 +6017,14 @@
       "onboard_time": 1731123319,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722060,
+      "num": 722060,
+      "word": "王昭君FMVP皮肤",
+      "onboard_time": 1731767005,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 721472,
@@ -6265,6 +6297,14 @@
       "onboard_time": 1730623158,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 694392,
+      "num": 694392,
+      "word": "王一博站起来为热烈鼓掌",
+      "onboard_time": 1731767005,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 694071,
@@ -10996,7 +11036,7 @@
     },
     {
       "raw_hot": 437252,
-      "num": 251299,
+      "num": 423228,
       "word": "虞书欣真的很想抱起丁禹兮",
       "onboard_time": 1731758661,
       "rank": 31,
@@ -11361,14 +11401,6 @@
       "onboard_time": 1731055100,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 423104,
-      "num": 423104,
-      "word": "长生FMVP",
-      "onboard_time": 1731766526,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 421836,
@@ -11921,6 +11953,14 @@
       "onboard_time": 1730620218,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403988,
+      "num": 678580,
+      "word": "金玟庭崔然竣GQ封面",
+      "onboard_time": 1731767126,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 403864,
@@ -12860,7 +12900,7 @@
     },
     {
       "raw_hot": 372268,
-      "num": 372268,
+      "num": 683018,
       "word": "王皓回应王楚钦近期状态",
       "onboard_time": 1731761302,
       "rank": 35,
@@ -14131,6 +14171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332217,
+      "num": 731404,
+      "word": "捐日军侵华罪行相册的美国小伙来中国了",
+      "onboard_time": 1731765805,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332155,
       "num": 399744,
       "word": "60个离婚律师把麦琳当典型研讨",
@@ -14273,14 +14321,6 @@
       "onboard_time": 1730684719,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327957,
-      "num": 243629,
-      "word": "金鸡奖获奖名单",
-      "onboard_time": 1731766465,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 327951,
@@ -15748,7 +15788,7 @@
     },
     {
       "raw_hot": 287767,
-      "num": 241494,
+      "num": 273301,
       "word": "关晓彤把我演哭了",
       "onboard_time": 1731763342,
       "rank": 41,
@@ -22307,6 +22347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200203,
+      "num": 200203,
+      "word": "圣龙杯",
+      "onboard_time": 1731767325,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200194,
       "num": 186108,
       "word": "虞书欣骂人最狠的时候",
@@ -24403,6 +24451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188349,
+      "num": 188349,
+      "word": "只此青绿",
+      "onboard_time": 1731767366,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188201,
       "num": 188201,
       "word": "文班亚马太夸张了",
@@ -25227,6 +25283,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182396,
+      "num": 724286,
+      "word": "江苏盐城村干部被曝工作日聚餐饮酒",
+      "onboard_time": 1731766885,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 182263,
+      "num": 182263,
+      "word": "我们一起摇太阳",
+      "onboard_time": 1731767726,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182173,
       "num": 182173,
       "word": "西行纪完结篇正式开播",
@@ -25465,14 +25537,6 @@
       "onboard_time": 1730464099,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180561,
-      "num": 619546,
-      "word": "捐日军侵华罪行相册的美国小伙来中国了",
-      "onboard_time": 1731765805,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180498,
@@ -25851,6 +25915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178401,
+      "num": 178401,
+      "word": "长生火舞有一腿",
+      "onboard_time": 1731754221,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178397,
       "num": 299218,
       "word": "央视曝光所谓军字号特供酒产业链",
@@ -25921,6 +25993,14 @@
       "onboard_time": 1731147619,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177808,
+      "num": 372723,
+      "word": "马琳回应陈梦退赛",
+      "onboard_time": 1731765624,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 177716,
@@ -26172,7 +26252,7 @@
     },
     {
       "raw_hot": 176376,
-      "num": 176376,
+      "num": 353309,
       "word": "沙溢回应瘦身",
       "onboard_time": 1731764302,
       "rank": 43,
@@ -30403,6 +30483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152885,
+      "num": 323309,
+      "word": "你好星期六下期是五福临门",
+      "onboard_time": 1731767065,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152873,
       "num": 268184,
       "word": "aespa四周年内地封面照",
@@ -34387,6 +34475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130474,
+      "num": 162468,
+      "word": "长生嬴政绕后",
+      "onboard_time": 1731756379,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130448,
       "num": 130448,
       "word": "军事专家航展现场一度哽咽",
@@ -34553,6 +34649,14 @@
       "onboard_time": 1730855123,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129403,
+      "num": 192186,
+      "word": "网传无锡一高校发生持刀伤人事件",
+      "onboard_time": 1731767605,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129386,
@@ -38235,6 +38339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105973,
+      "num": 161120,
+      "word": "沙特在中国航展包一个大展台会客",
+      "onboard_time": 1731764722,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 105967,
       "num": 105967,
       "word": "大梦归离两个大男人互扇巴掌",
@@ -39369,14 +39481,6 @@
       "onboard_time": 1731410907,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96912,
-      "num": 249781,
-      "word": "马琳回应陈梦退赛",
-      "onboard_time": 1731765624,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 96834,
@@ -40553,6 +40657,14 @@
       "onboard_time": 1731016391,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 83396,
+      "num": 722079,
+      "word": "一诺说放马过来吧",
+      "onboard_time": 1731767366,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 83355,
@@ -43089,6 +43201,14 @@
       "onboard_time": 1731441013,
       "rank": 8,
       "category": "军事"
+    },
+    {
+      "raw_hot": 59687,
+      "num": 685130,
+      "word": "长生中单FMVP",
+      "onboard_time": 1731766826,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 59653,
@@ -49987,6 +50107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23928,
+      "num": 681174,
+      "word": "金鸡电影节追星神器",
+      "onboard_time": 1731765082,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23925,
       "num": 201719,
       "word": "马龙体验九个不同的职业角色",
@@ -50833,14 +50961,6 @@
       "onboard_time": 1730983701,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 20832,
-      "num": 254788,
-      "word": "金鸡电影节追星神器",
-      "onboard_time": 1731765082,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 20776,
@@ -52467,6 +52587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14270,
+      "num": 694250,
+      "word": "把观众带回电影院得有真功夫",
+      "onboard_time": 1731766585,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 14253,
       "num": 23559,
       "word": "军字号特供酒年份高低全靠色素调",
@@ -53441,14 +53569,6 @@
       "onboard_time": 1731446591,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8913,
-      "num": 435401,
-      "word": "把观众带回电影院得有真功夫",
-      "onboard_time": 1731766585,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 8791,
