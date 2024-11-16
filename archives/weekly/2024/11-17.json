@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731778596630,
+  "endTime": 1731781714767,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -145,6 +145,14 @@
       "onboard_time": 1731751339,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289085,
+      "num": 289085,
+      "word": "俄罗斯宣布临时限制向美出口浓缩铀",
+      "onboard_time": 1731778515,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 275495,
@@ -427,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57673,
+      "num": 162638,
+      "word": "小渔船一网下去捞起美国核潜艇",
+      "onboard_time": 1731777257,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57176,
       "num": 274031,
       "word": "黄子弘凡北京演唱会下班直播",
@@ -443,12 +459,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 48690,
-      "num": 162638,
-      "word": "小渔船一网下去捞起美国核潜艇",
-      "onboard_time": 1731777257,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 51457,
+      "num": 51457,
+      "word": "黄铉辰大屏",
+      "onboard_time": 1731778755,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 47142,
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42663,
+      "num": 42663,
+      "word": "永夜星河",
+      "onboard_time": 1731757699,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33290,
       "num": 388557,
       "word": "男子在秘鲁40多年开了60多家中餐厅",
@@ -467,20 +491,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28580,
-      "num": 140857,
-      "word": "俄罗斯宣布临时限制向美出口浓缩铀",
-      "onboard_time": 1731778515,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26655,
       "num": 114216,
       "word": "周翊然见面会",
       "onboard_time": 1731776238,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21652,
+      "num": 53417,
+      "word": "这就是解放军的硬核浪漫",
+      "onboard_time": 1731779955,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 21306,
+      "num": 110352,
+      "word": "全国月亮大赏",
+      "onboard_time": 1731779715,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19043,
@@ -507,10 +539,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13293,
+      "num": 68490,
+      "word": "雷佳音影视全面开花",
+      "onboard_time": 1731780792,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11005,
       "num": 156537,
       "word": "周峻纬生日直播",
       "onboard_time": 1731778218,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6107,
+      "num": 83646,
+      "word": "明星生日汇",
+      "onboard_time": 1731780614,
       "rank": 19,
       "category": "艺人"
     }
