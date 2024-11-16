@@ -1,0 +1,410 @@
+{
+  "runTime": 1731771461952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6529861,
+        "num": 6529861,
+        "word": "李庚希金鸡影后",
+        "onboard_time": 1731765565,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 751555,
+        "num": 751555,
+        "word": "AG夺冠",
+        "onboard_time": 1731765565,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62943,
+        "num": 594458,
+        "word": "男子在秘鲁40多年开了60多家中餐厅",
+        "onboard_time": 1731759020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 943977,
+        "num": 571563,
+        "word": "雷佳音金鸡影帝",
+        "onboard_time": 1731765082,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 511512,
+        "num": 511512,
+        "word": "王昭君FMVP皮肤",
+        "onboard_time": 1731767005,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 321433,
+        "num": 321433,
+        "word": "江苏盐城村干部被曝工作日聚餐饮酒",
+        "onboard_time": 1731766885,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 653332,
+        "num": 303967,
+        "word": "金鸡奖获奖名单",
+        "onboard_time": 1731766465,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456516,
+        "num": 293397,
+        "word": "王一博站起来为热烈鼓掌",
+        "onboard_time": 1731767005,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267635,
+        "num": 267635,
+        "word": "捐日军侵华罪行相册的美国小伙来中国了",
+        "onboard_time": 1731765805,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65012,
+        "num": 257143,
+        "word": "空军军乐团指挥航展群众齐唱歌唱祖国",
+        "onboard_time": 1731766885,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 477410,
+        "num": 247199,
+        "word": "关晓彤红发",
+        "onboard_time": 1731751339,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458941,
+        "num": 235299,
+        "word": "徐静蕾",
+        "onboard_time": 1731768562,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434087,
+        "num": 215725,
+        "word": "林保怡 可惜",
+        "onboard_time": 1731767905,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397691,
+        "num": 207560,
+        "word": "王一博紧张得深呼吸",
+        "onboard_time": 1731768742,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198224,
+        "num": 198224,
+        "word": "马琳回应陈梦退赛",
+        "onboard_time": 1731765624,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268817,
+        "num": 193767,
+        "word": "大梦归离大结局",
+        "onboard_time": 1731759380,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181332,
+        "num": 181332,
+        "word": "外卖员送餐汤汁洒出街头将汤倒回",
+        "onboard_time": 1731762261,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174332,
+        "num": 174332,
+        "word": "王皓回应王楚钦近期状态",
+        "onboard_time": 1731761302,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151372,
+        "num": 174165,
+        "word": "小胖状态",
+        "onboard_time": 1731769283,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97475,
+        "num": 173838,
+        "word": "张峻豪我是好心情",
+        "onboard_time": 1731770422,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578310,
+        "num": 173650,
+        "word": "六公主发了赵丽颖大特写",
+        "onboard_time": 1731750679,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331763,
+        "num": 173426,
+        "word": "85花 电影圈",
+        "onboard_time": 1731769105,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242642,
+        "num": 172992,
+        "word": "虞书欣真的很想抱起丁禹兮",
+        "onboard_time": 1731758661,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219308,
+        "num": 172899,
+        "word": "69岁产女婴老夫妻为女儿过5岁生日",
+        "onboard_time": 1731755418,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204714,
+        "num": 172689,
+        "word": "刘丹金鸡奖最佳女配角",
+        "onboard_time": 1731757879,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194741,
+        "num": 172258,
+        "word": "你好星期六下期是五福临门",
+        "onboard_time": 1731767065,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192102,
+        "num": 171982,
+        "word": "王源日落可以慢半拍舞台首秀",
+        "onboard_time": 1731770422,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171874,
+        "num": 171874,
+        "word": "彭昱畅演技",
+        "onboard_time": 1731768203,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113932,
+        "num": 171324,
+        "word": "沙特在中国航展包一个大展台会客",
+        "onboard_time": 1731764722,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 124647,
+        "num": 167261,
+        "word": "第二十条最佳故事片",
+        "onboard_time": 1731771381,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2834346,
+        "num": 165268,
+        "word": "金鸡 离谱",
+        "onboard_time": 1731767366,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286229,
+        "num": 160467,
+        "word": "金鸡奖含金量",
+        "onboard_time": 1731768804,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159418,
+        "num": 159418,
+        "word": "关晓彤把我演哭了",
+        "onboard_time": 1731763342,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158977,
+        "num": 158977,
+        "word": "留几手向麦琳道歉",
+        "onboard_time": 1731756740,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148544,
+        "num": 148544,
+        "word": "锖青磁退圈了但檀健次不会",
+        "onboard_time": 1731770841,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148321,
+        "num": 148321,
+        "word": "AG对战狼队",
+        "onboard_time": 1731749960,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145004,
+        "num": 145004,
+        "word": "范丞丞金鸡奖红毯让C位",
+        "onboard_time": 1731761360,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141038,
+        "num": 141038,
+        "word": "雷佳音说王骁获奖他翻跟头",
+        "onboard_time": 1731769162,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138630,
+        "num": 138630,
+        "word": "王皓回应樊振东马龙退出总决赛",
+        "onboard_time": 1731760640,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125636,
+        "num": 138595,
+        "word": "永夜星河27集好虐",
+        "onboard_time": 1731762442,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123996,
+        "num": 138577,
+        "word": "李子柒回应被各地文旅邀请",
+        "onboard_time": 1731769224,
+        "rank": 40,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 112055,
+        "num": 138548,
+        "word": "孙怡带7岁女儿逛超市",
+        "onboard_time": 1731761721,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110417,
+        "num": 138481,
+        "word": "永夜星河",
+        "onboard_time": 1731757699,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109318,
+        "num": 138456,
+        "word": "金鸡奖直播",
+        "onboard_time": 1731748218,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108018,
+        "num": 138424,
+        "word": "献血100次可免费吃酒店自助餐",
+        "onboard_time": 1731735979,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104036,
+        "num": 138359,
+        "word": "丁禹兮好六街跳了yesok",
+        "onboard_time": 1731760880,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103476,
+        "num": 138326,
+        "word": "AG红色王朝",
+        "onboard_time": 1731769105,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92892,
+        "num": 138295,
+        "word": "遭学生质问的10人间宿舍条件怎样",
+        "onboard_time": 1731748399,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72705,
+        "num": 138252,
+        "word": "长生FMVP",
+        "onboard_time": 1731766526,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70948,
+        "num": 138184,
+        "word": "金饰价格跌至700元以下",
+        "onboard_time": 1731756920,
+        "rank": 49,
+        "category": "民生新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国有一个跨越半个地球的邻居#"
+    }
+  }
+}
