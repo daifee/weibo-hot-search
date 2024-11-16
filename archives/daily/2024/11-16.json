@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731734539808,
+  "endTime": 1731735596250,
   "band_list": [
     {
       "raw_hot": 1697049,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1076147,
-      "num": 1172183,
+      "raw_hot": 1254626,
+      "num": 1254626,
       "word": "血站回应献血100次可免费吃自助餐",
       "onboard_time": 1731732318,
       "rank": 0,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 915680,
-      "num": 233319,
+      "num": 270817,
       "word": "丁禹兮火了之后第一步",
       "onboard_time": 1731726737,
       "rank": 11,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 780254,
+      "num": 780254,
+      "word": "李行亮 如果我有病谁来治我",
+      "onboard_time": 1731731958,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743111,
       "num": 254197,
       "word": "袁泉给女儿开家长会",
@@ -108,19 +116,27 @@
     },
     {
       "raw_hot": 730572,
-      "num": 202550,
+      "num": 208292,
       "word": "李子柒回应奶奶有没有催婚",
       "onboard_time": 1731726737,
       "rank": 20,
       "category": "美食,网红"
     },
     {
-      "raw_hot": 720586,
-      "num": 720586,
-      "word": "李行亮 如果我有病谁来治我",
-      "onboard_time": 1731731958,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 726620,
+      "num": 223577,
+      "word": "丁禹兮直播",
+      "onboard_time": 1731734598,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 686455,
+      "num": 686455,
+      "word": "沈月文笔",
+      "onboard_time": 1731733339,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 668437,
@@ -163,12 +179,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 519699,
-      "num": 519699,
-      "word": "沈月文笔",
-      "onboard_time": 1731733339,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 513817,
+      "num": 210465,
+      "word": "怀9胞胎女子靠输营养液保胎",
+      "onboard_time": 1731734298,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 512319,
@@ -185,6 +201,14 @@
       "onboard_time": 1731681440,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429716,
+      "num": 429716,
+      "word": "泰森vs保罗",
+      "onboard_time": 1731728118,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 420850,
@@ -283,14 +307,6 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 331112,
-      "num": 331112,
-      "word": "泰森vs保罗",
-      "onboard_time": 1731728118,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304185,
       "num": 218986,
       "word": "徐冬冬完全把汉语和英语融合了",
@@ -331,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266128,
+      "num": 266128,
+      "word": "国企高中学历总监称家里困难没上大学",
+      "onboard_time": 1731731598,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265035,
-      "num": 202141,
+      "num": 204381,
       "word": "你盖被子的顺序可能错了",
       "onboard_time": 1731729318,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 263341,
+      "num": 263341,
+      "word": "久诚开团久哲",
+      "onboard_time": 1731732318,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 259212,
@@ -387,12 +419,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 238325,
-      "num": 238325,
-      "word": "久诚开团久哲",
-      "onboard_time": 1731732318,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 234604,
+      "num": 234604,
+      "word": "官方称有80人满足免费吃自助餐条件",
+      "onboard_time": 1731734238,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232640,
@@ -427,14 +459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 215801,
-      "num": 215801,
-      "word": "官方称有80人满足免费吃自助餐条件",
-      "onboard_time": 1731734238,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215247,
       "num": 198850,
       "word": "学校里的猫被喂成了三个型号",
@@ -459,11 +483,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 205243,
-      "num": 234742,
-      "word": "国企高中学历总监称家里困难没上大学",
-      "onboard_time": 1731731598,
-      "rank": 9,
+      "raw_hot": 204340,
+      "num": 204340,
+      "word": "男大学生扮女装进女澡堂偷拍被抓",
+      "onboard_time": 1731733279,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -489,14 +513,6 @@
       "onboard_time": 1731723617,
       "rank": 26,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 202075,
-      "num": 202075,
-      "word": "怀9胞胎女子靠输营养液保胎",
-      "onboard_time": 1731734298,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200915,
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177307,
+      "num": 177307,
+      "word": "发现麦琳以前是好有生命力的人",
+      "onboard_time": 1731734898,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175242,
       "num": 175242,
       "word": "官方回应学生质疑学校没钱修宿舍",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 174788,
-      "num": 174788,
+      "num": 206837,
       "word": "王珞丹杀回短发了",
       "onboard_time": 1731732318,
       "rank": 32,
@@ -739,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153057,
+      "num": 207457,
+      "word": "鲜衣怒马少年时此刻具象化了",
+      "onboard_time": 1731732737,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152441,
       "num": 152441,
       "word": "跟着李子柒做缙云烧饼",
       "onboard_time": 1731731658,
       "rank": 32,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 149828,
-      "num": 149828,
-      "word": "男大学生扮女装进女澡堂偷拍被抓",
-      "onboard_time": 1731733279,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149363,
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 143303,
-      "num": 143303,
+      "num": 205013,
       "word": "白夜追凶2有费启鸣",
       "onboard_time": 1731729619,
       "rank": 40,
@@ -827,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133092,
+      "num": 133092,
+      "word": "现在就出发",
+      "onboard_time": 1731734718,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "齐哥收拾收拾准备升咖吧",
@@ -857,14 +889,6 @@
       "onboard_time": 1731717198,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129775,
-      "num": 129775,
-      "word": "鲜衣怒马少年时此刻具象化了",
-      "onboard_time": 1731732737,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129341,
@@ -905,6 +929,14 @@
       "onboard_time": 1731725838,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122257,
+      "num": 122257,
+      "word": "以闪亮之名柯尔克孜非遗联动",
+      "onboard_time": 1731734960,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 119878,
@@ -995,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106544,
+      "num": 106544,
+      "word": "登陆少年厦门应援",
+      "onboard_time": 1731735259,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106521,
       "num": 106521,
       "word": "迪丽热巴兔子头套照",
@@ -1035,6 +1075,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 100534,
+      "num": 100534,
+      "word": "海军首批舰载机女飞亮相中国航展",
+      "onboard_time": 1731735498,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 100381,
       "num": 100381,
       "word": "官方通报学校有钱请表演没钱修宿舍",
@@ -1052,7 +1100,7 @@
     },
     {
       "raw_hot": 99971,
-      "num": 608768,
+      "num": 722781,
       "word": "秘鲁邮票上印有中国炒饭",
       "onboard_time": 1731723978,
       "rank": 40,
@@ -1243,6 +1291,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 76797,
+      "num": 236036,
+      "word": "你心中的金鸡奖最佳主角",
+      "onboard_time": 1731733638,
+      "rank": 9,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 74462,
       "num": 82408,
       "word": "证监会正式发布市值管理指引",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1731689896,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73619,
+      "num": 219279,
+      "word": "周翊然生日会抢票",
+      "onboard_time": 1731734179,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 73484,
@@ -1299,14 +1363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66805,
-      "num": 203251,
-      "word": "周翊然生日会抢票",
-      "onboard_time": 1731734179,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66428,
       "num": 156160,
       "word": "赵小童拍的青岛秋天",
@@ -1337,6 +1393,30 @@
       "onboard_time": 1731695171,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52204,
+      "num": 205755,
+      "word": "2024KPL年总决赛宣传片",
+      "onboard_time": 1731735139,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 50191,
+      "num": 221923,
+      "word": "严浩翔录音侧颜照",
+      "onboard_time": 1731734478,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 49731,
+      "num": 275278,
+      "word": "质问不修宿舍学生曾反映过宿舍漏水",
+      "onboard_time": 1731735439,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47659,
@@ -1395,20 +1475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36816,
+      "num": 214842,
+      "word": "霸总短剧如何俘获中老年人",
+      "onboard_time": 1731733878,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 35810,
       "num": 36043,
       "word": "男子登山时坠崖救治无效身亡",
       "onboard_time": 1731697572,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34430,
-      "num": 198929,
-      "word": "严浩翔录音侧颜照",
-      "onboard_time": 1731734478,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 32608,
@@ -1507,14 +1587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22545,
-      "num": 236036,
-      "word": "你心中的金鸡奖最佳主角",
-      "onboard_time": 1731733638,
-      "rank": 9,
-      "category": "电影,艺人"
-    },
-    {
       "raw_hot": 21672,
       "num": 40513,
       "word": "中秘同为文明古国",
@@ -1529,14 +1601,6 @@
       "onboard_time": 1731695053,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 20742,
-      "num": 204736,
-      "word": "霸总短剧如何俘获中老年人",
-      "onboard_time": 1731733878,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 20158,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1731699192,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 15443,
+      "num": 215620,
+      "word": "再见爱人直击感情中的表达困境",
+      "onboard_time": 1731733817,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 14299,
@@ -1617,14 +1689,6 @@
       "onboard_time": 1731686299,
       "rank": 10,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 11846,
-      "num": 204957,
-      "word": "再见爱人直击感情中的表达困境",
-      "onboard_time": 1731733817,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 11723,
