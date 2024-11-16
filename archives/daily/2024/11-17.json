@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731774473487,
+  "endTime": 1731775441994,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -35,6 +35,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 570200,
+      "num": 252107,
+      "word": "资源咖",
+      "onboard_time": 1731774319,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 528209,
+      "num": 288409,
+      "word": "虞书欣丁禹兮hi6收视率历史最高",
+      "onboard_time": 1731774319,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519918,
+      "num": 296484,
+      "word": "派出所回应丢38吨稻谷报警被怼",
+      "onboard_time": 1731772102,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470545,
       "num": 343288,
       "word": "雷佳音金鸡影帝",
@@ -59,28 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 425657,
-      "num": 425657,
+      "raw_hot": 432049,
+      "num": 432049,
       "word": "AG夺冠",
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
     },
     {
-      "raw_hot": 387344,
+      "raw_hot": 401481,
       "num": 308852,
       "word": "黄晓明一个月瘦了15公斤",
       "onboard_time": 1731772222,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 363219,
-      "num": 296484,
-      "word": "派出所回应丢38吨稻谷报警被怼",
-      "onboard_time": 1731772102,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360951,
@@ -99,6 +115,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 340916,
+      "num": 340916,
+      "word": "广州打破最长夏天纪录",
+      "onboard_time": 1731773328,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319207,
+      "num": 273602,
+      "word": "姜妍是虞书欣的认证闺蜜",
+      "onboard_time": 1731772161,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295623,
       "num": 295623,
       "word": "徐静蕾",
@@ -115,20 +147,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 273602,
-      "num": 273602,
-      "word": "姜妍是虞书欣的认证闺蜜",
-      "onboard_time": 1731772161,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270747,
       "num": 270747,
       "word": "林保怡 可惜",
       "onboard_time": 1731767905,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259833,
+      "num": 259833,
+      "word": "王者荣耀王昭君",
+      "onboard_time": 1731773781,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 255939,
@@ -147,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238106,
-      "num": 238106,
-      "word": "虞书欣丁禹兮hi6收视率历史最高",
-      "onboard_time": 1731774319,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237315,
       "num": 349898,
       "word": "江苏盐城村干部被曝工作日聚餐饮酒",
@@ -168,6 +192,14 @@
       "word": "沈腾没来",
       "onboard_time": 1731771682,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 221128,
+      "num": 221128,
+      "word": "00花第一位金鸡影后",
+      "onboard_time": 1731774141,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -195,27 +227,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191818,
-      "num": 191818,
-      "word": "00花第一位金鸡影后",
-      "onboard_time": 1731774141,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 188965,
       "num": 183450,
       "word": "王一博紧张得深呼吸",
       "onboard_time": 1731768742,
       "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 183557,
-      "num": 183557,
-      "word": "资源咖",
-      "onboard_time": 1731774319,
-      "rank": 36,
       "category": "电影"
     },
     {
@@ -251,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166154,
-      "num": 166154,
-      "word": "王者荣耀王昭君",
-      "onboard_time": 1731773781,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 161921,
+      "num": 236841,
+      "word": "空军军乐团指挥航展群众齐唱歌唱祖国",
+      "onboard_time": 1731766885,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 155999,
@@ -275,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150157,
-      "num": 318449,
-      "word": "广州打破最长夏天纪录",
-      "onboard_time": 1731773328,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 152030,
+      "num": 270857,
+      "word": "唐九洲说文韬的梗太伟大了",
+      "onboard_time": 1731774319,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 149277,
@@ -323,12 +339,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139053,
+      "num": 139053,
+      "word": "AG成功复仇春决",
+      "onboard_time": 1731774499,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135413,
       "num": 135413,
       "word": "留几手向麦琳道歉",
       "onboard_time": 1731756740,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121070,
+      "num": 121070,
+      "word": "阿娇王晓晨新剧白蛇青蛇",
+      "onboard_time": 1731772941,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112519,
@@ -347,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97203,
-      "num": 270857,
-      "word": "唐九洲说文韬的梗太伟大了",
-      "onboard_time": 1731774319,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 99520,
+      "num": 233890,
+      "word": "好东西 票房",
+      "onboard_time": 1731773841,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 96788,
@@ -363,15 +395,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87198,
-      "num": 124539,
-      "word": "格林威治",
-      "onboard_time": 1731773541,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86045,
+      "raw_hot": 89724,
       "num": 235013,
       "word": "奥地利称俄停止向其供应天然气",
       "onboard_time": 1731772102,
@@ -379,12 +403,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 82445,
-      "num": 233890,
-      "word": "好东西 票房",
-      "onboard_time": 1731773841,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 88325,
+      "num": 148592,
+      "word": "格林威治",
+      "onboard_time": 1731773541,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 57176,
@@ -401,11 +425,22 @@
       "onboard_time": 1731759020,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19043,
+      "num": 256595,
+      "word": "张家界桑植县通报一民房发生火灾",
+      "onboard_time": 1731774740,
+      "rank": 10,
+      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [
     {
       "word": "#各国共同发展才是真发展#"
+    },
+    {
+      "word": "#习近平出席APEC领导人非正式会议#"
     }
   ]
 }
