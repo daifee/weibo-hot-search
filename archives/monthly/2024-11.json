@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731755914203,
+  "endTime": 1731756919823,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1779,20 +1779,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1482780,
+      "num": 342486,
+      "word": "关晓彤红发",
+      "onboard_time": 1731751339,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1479779,
       "num": 532957,
       "word": "陈乔恩为乔任梁传言发声",
       "onboard_time": 1730593217,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1478556,
-      "num": 287377,
-      "word": "关晓彤红发",
-      "onboard_time": 1731751339,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 1476958,
@@ -2556,7 +2556,7 @@
     },
     {
       "raw_hot": 1248835,
-      "num": 283976,
+      "num": 337305,
       "word": "尹正爆料黄晓明杀青状态",
       "onboard_time": 1731745938,
       "rank": 15,
@@ -5548,7 +5548,7 @@
     },
     {
       "raw_hot": 758098,
-      "num": 272016,
+      "num": 305689,
       "word": "虞书欣团综抹胸妆造",
       "onboard_time": 1731744617,
       "rank": 12,
@@ -7323,6 +7323,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 620694,
+      "num": 620694,
+      "word": "金鸡奖预测",
+      "onboard_time": 1731754818,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 619869,
       "num": 474064,
       "word": "内华达州11000张选票签名有问题",
@@ -8939,6 +8947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526285,
+      "num": 335988,
+      "word": "别人嘴都特严 然后我智障",
+      "onboard_time": 1731754579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525897,
       "num": 499113,
       "word": "丁禹兮连女儿名字都想好了",
@@ -9145,6 +9161,14 @@
       "onboard_time": 1731417563,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 516792,
+      "num": 349855,
+      "word": "钟楚曦 油画美人",
+      "onboard_time": 1731754098,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 516451,
@@ -10228,7 +10252,7 @@
     },
     {
       "raw_hot": 464972,
-      "num": 270690,
+      "num": 329818,
       "word": "官方通报男子骑车撞上供热管道身亡",
       "onboard_time": 1731747620,
       "rank": 19,
@@ -11460,7 +11484,7 @@
     },
     {
       "raw_hot": 412653,
-      "num": 255267,
+      "num": 298971,
       "word": "赵丽颖生图",
       "onboard_time": 1731752959,
       "rank": 21,
@@ -11785,14 +11809,6 @@
       "onboard_time": 1730601259,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 403189,
-      "num": 251477,
-      "word": "钟楚曦 油画美人",
-      "onboard_time": 1731754098,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 403104,
@@ -13155,6 +13171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356465,
+      "num": 310017,
+      "word": "69岁产女婴老夫妻为女儿过5岁生日",
+      "onboard_time": 1731755418,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355826,
       "num": 223376,
       "word": "陈妍希戴婚戒逛商场",
@@ -14065,14 +14089,6 @@
       "onboard_time": 1731379339,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 328665,
-      "num": 244663,
-      "word": "金鸡奖预测",
-      "onboard_time": 1731754818,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 328655,
@@ -15900,7 +15916,7 @@
     },
     {
       "raw_hot": 280527,
-      "num": 280527,
+      "num": 299540,
       "word": "KPL总决赛现场太燃了",
       "onboard_time": 1731753200,
       "rank": 27,
@@ -16657,6 +16673,14 @@
       "onboard_time": 1730553739,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266681,
+      "num": 266681,
+      "word": "年会不能停2",
+      "onboard_time": 1731755598,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 266185,
@@ -17417,6 +17441,14 @@
       "onboard_time": 1731071061,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253464,
+      "num": 253464,
+      "word": "留几手向麦琳道歉",
+      "onboard_time": 1731756740,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 253459,
@@ -18969,14 +19001,6 @@
       "onboard_time": 1730892140,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228048,
-      "num": 228048,
-      "word": "别人嘴都特严 然后我智障",
-      "onboard_time": 1731754579,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 227920,
@@ -21435,6 +21459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203637,
+      "num": 203637,
+      "word": "双城之战编剧太牛了",
+      "onboard_time": 1731756319,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 203558,
       "num": 203558,
       "word": "肖战专辑我们分三节上线",
@@ -23449,14 +23481,6 @@
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192262,
-      "num": 192262,
-      "word": "69岁产女婴老夫妻为女儿过5岁生日",
-      "onboard_time": 1731755418,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192248,
@@ -25499,6 +25523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178493,
+      "num": 178493,
+      "word": "苏新皓直拍",
+      "onboard_time": 1731755598,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178481,
       "num": 178481,
       "word": "丁禹兮是虞书欣铁粉",
@@ -25673,6 +25705,14 @@
       "onboard_time": 1730707338,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177189,
+      "num": 177189,
+      "word": "紫色的程潇",
+      "onboard_time": 1731756559,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 177174,
@@ -27939,14 +27979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163981,
-      "num": 163981,
-      "word": "年会不能停2",
-      "onboard_time": 1731755598,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163972,
       "num": 310958,
       "word": "林高远红毯穿搭太潮了",
@@ -29563,6 +29595,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 155430,
+      "num": 155430,
+      "word": "质问不修宿舍学生已被家长领回家",
+      "onboard_time": 1731755539,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155331,
       "num": 155331,
       "word": "王安宇四个想你的动态眼技",
@@ -30865,6 +30905,14 @@
       "onboard_time": 1730553200,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149077,
+      "num": 254159,
+      "word": "中国微波武器专治自杀无人机",
+      "onboard_time": 1731750558,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 149032,
@@ -32443,14 +32491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139705,
-      "num": 218353,
-      "word": "中国微波武器专治自杀无人机",
-      "onboard_time": 1731750558,
-      "rank": 41,
-      "category": "军事"
-    },
-    {
       "raw_hot": 139674,
       "num": 139674,
       "word": "余依婷200混夺冠",
@@ -33443,14 +33483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133536,
-      "num": 133536,
-      "word": "苏新皓直拍",
-      "onboard_time": 1731755598,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133513,
       "num": 133513,
       "word": "xun 起床",
@@ -33617,6 +33649,14 @@
       "onboard_time": 1730473459,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132363,
+      "num": 260863,
+      "word": "周深看见我现场好绝",
+      "onboard_time": 1731755779,
+      "rank": 12,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 132348,
@@ -34763,6 +34803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125362,
+      "num": 125362,
+      "word": "双城之战 艺术品",
+      "onboard_time": 1731753859,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125335,
       "num": 173778,
       "word": "歼15T结合新型隐身舰载机作战更丰富",
@@ -35795,6 +35843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119829,
+      "num": 347446,
+      "word": "狼队醒醒",
+      "onboard_time": 1731756199,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119798,
       "num": 119798,
       "word": "林诗栋蒯曼马斯喀特站夺冠",
@@ -36283,14 +36339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116646,
-      "num": 116646,
-      "word": "质问不修宿舍学生已被家长领回家",
-      "onboard_time": 1731755539,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116645,
       "num": 116645,
       "word": "这不是电影这是真实的缉毒现场",
@@ -36385,6 +36433,14 @@
       "onboard_time": 1730443520,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115983,
+      "num": 254867,
+      "word": "AG连拿两分",
+      "onboard_time": 1731755779,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 115972,
@@ -36987,14 +37043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111680,
-      "num": 115834,
-      "word": "双城之战 艺术品",
-      "onboard_time": 1731753859,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 111677,
       "num": 111677,
       "word": "李子柒一夜涨粉超百万",
@@ -37161,6 +37209,14 @@
       "onboard_time": 1730515997,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110447,
+      "num": 115728,
+      "word": "杰斯你在干什么",
+      "onboard_time": 1731755598,
+      "rank": 47,
+      "category": "动漫,游戏"
     },
     {
       "raw_hot": 110401,
@@ -39627,6 +39683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87733,
+      "num": 143981,
+      "word": "印尼火山喷发滞留中国游客发声",
+      "onboard_time": 1731756617,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87613,
       "num": 87613,
       "word": "男子砍妻事件双方和解",
@@ -39657,14 +39721,6 @@
       "onboard_time": 1731706091,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87397,
-      "num": 115728,
-      "word": "杰斯你在干什么",
-      "onboard_time": 1731755598,
-      "rank": 47,
-      "category": "动漫,游戏"
     },
     {
       "raw_hot": 87036,
@@ -40881,14 +40937,6 @@
       "onboard_time": 1731339559,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73462,
-      "num": 260863,
-      "word": "周深看见我现场好绝",
-      "onboard_time": 1731755779,
-      "rank": 12,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 73406,
@@ -43099,6 +43147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55592,
+      "num": 313475,
+      "word": "周峻纬生日大片",
+      "onboard_time": 1731756498,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55581,
       "num": 55581,
       "word": "筱婷栋哲嗑点要素过多",
@@ -43387,6 +43443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53994,
+      "num": 344775,
+      "word": "金鸡奖内场",
+      "onboard_time": 1731756258,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53993,
       "num": 258951,
       "word": "医保局五问五答一盒药重复结算60次",
@@ -43601,6 +43665,14 @@
       "onboard_time": 1731431234,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52216,
+      "num": 332648,
+      "word": "员工出差归来直接回家被算旷工开除",
+      "onboard_time": 1731756139,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52204,
@@ -46315,6 +46387,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 36497,
+      "num": 338591,
+      "word": "长生嬴政绕后名场面",
+      "onboard_time": 1731756617,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 36445,
       "num": 46943,
       "word": "王俊凯灰西装look",
@@ -46969,14 +47049,6 @@
       "onboard_time": 1731531910,
       "rank": 44,
       "category": "军事"
-    },
-    {
-      "raw_hot": 33728,
-      "num": 254867,
-      "word": "AG连拿两分",
-      "onboard_time": 1731755779,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 33708,
@@ -49092,7 +49164,7 @@
     },
     {
       "raw_hot": 25142,
-      "num": 213715,
+      "num": 318268,
       "word": "KPL开幕式iQOO含量好高",
       "onboard_time": 1731754999,
       "rank": 24,
@@ -49337,6 +49409,14 @@
       "onboard_time": 1730366119,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24271,
+      "num": 302890,
+      "word": "丧偶式育儿成女性家庭场景痛点",
+      "onboard_time": 1731755118,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 24260,
@@ -50433,14 +50513,6 @@
       "onboard_time": 1731707831,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20156,
-      "num": 226379,
-      "word": "丧偶式育儿成女性家庭场景痛点",
-      "onboard_time": 1731755118,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 20142,
@@ -52977,6 +53049,14 @@
       "onboard_time": 1731328159,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6848,
+      "num": 321669,
+      "word": "周奇现场观赛kpl总决赛",
+      "onboard_time": 1731756798,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 6578,

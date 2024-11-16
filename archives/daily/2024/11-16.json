@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731755914203,
+  "endTime": 1731756919823,
   "band_list": [
     {
       "raw_hot": 1743128,
@@ -27,8 +27,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1478556,
-      "num": 287377,
+      "raw_hot": 1482780,
+      "num": 342486,
       "word": "关晓彤红发",
       "onboard_time": 1731751339,
       "rank": 15,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1248835,
-      "num": 283976,
+      "num": 337305,
       "word": "尹正爆料黄晓明杀青状态",
       "onboard_time": 1731745938,
       "rank": 15,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 758098,
-      "num": 272016,
+      "num": 305689,
       "word": "虞书欣团综抹胸妆造",
       "onboard_time": 1731744617,
       "rank": 12,
@@ -267,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 620694,
+      "num": 620694,
+      "word": "金鸡奖预测",
+      "onboard_time": 1731754818,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 601089,
       "num": 270368,
       "word": "富商被妻子绑架勒索4900万",
@@ -307,6 +315,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 526285,
+      "num": 335988,
+      "word": "别人嘴都特严 然后我智障",
+      "onboard_time": 1731754579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516792,
+      "num": 349855,
+      "word": "钟楚曦 油画美人",
+      "onboard_time": 1731754098,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 513817,
       "num": 247769,
       "word": "怀9胞胎女子靠输营养液保胎",
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 464972,
-      "num": 270690,
+      "num": 329818,
       "word": "官方通报男子骑车撞上供热管道身亡",
       "onboard_time": 1731747620,
       "rank": 19,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 412653,
-      "num": 255267,
+      "num": 298971,
       "word": "赵丽颖生图",
       "onboard_time": 1731752959,
       "rank": 21,
@@ -433,14 +457,6 @@
       "onboard_time": 1731738738,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 403189,
-      "num": 251477,
-      "word": "钟楚曦 油画美人",
-      "onboard_time": 1731754098,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 390454,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356465,
+      "num": 310017,
+      "word": "69岁产女婴老夫妻为女儿过5岁生日",
+      "onboard_time": 1731755418,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354828,
       "num": 354828,
       "word": "泰森复出不敌27岁网红",
@@ -545,14 +569,6 @@
       "onboard_time": 1731712574,
       "rank": 19,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 328665,
-      "num": 244663,
-      "word": "金鸡奖预测",
-      "onboard_time": 1731754818,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 319815,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 280527,
-      "num": 280527,
+      "num": 299540,
       "word": "KPL总决赛现场太燃了",
       "onboard_time": 1731753200,
       "rank": 27,
@@ -649,6 +665,14 @@
       "onboard_time": 1731680901,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266681,
+      "num": 266681,
+      "word": "年会不能停2",
+      "onboard_time": 1731755598,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 265274,
@@ -689,6 +713,14 @@
       "onboard_time": 1731745519,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253464,
+      "num": 253464,
+      "word": "留几手向麦琳道歉",
+      "onboard_time": 1731756740,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 252923,
@@ -771,14 +803,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 228048,
-      "num": 228048,
-      "word": "别人嘴都特严 然后我智障",
-      "onboard_time": 1731754579,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219247,
       "num": 219247,
       "word": "短发金晨",
@@ -857,6 +881,14 @@
       "onboard_time": 1731718818,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203637,
+      "num": 203637,
+      "word": "双城之战编剧太牛了",
+      "onboard_time": 1731756319,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 203310,
@@ -947,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192262,
-      "num": 192262,
-      "word": "69岁产女婴老夫妻为女儿过5岁生日",
-      "onboard_time": 1731755418,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192083,
       "num": 201495,
       "word": "Doinb自曝要一亿买LPL名额",
@@ -1041,6 +1065,22 @@
       "onboard_time": 1731747079,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178493,
+      "num": 178493,
+      "word": "苏新皓直拍",
+      "onboard_time": 1731755598,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 177189,
+      "num": 177189,
+      "word": "紫色的程潇",
+      "onboard_time": 1731756559,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 175242,
@@ -1139,14 +1179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 163981,
-      "num": 163981,
-      "word": "年会不能停2",
-      "onboard_time": 1731755598,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162919,
       "num": 162919,
       "word": "李行亮麦琳离婚理财收益怎么分",
@@ -1243,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155430,
+      "num": 155430,
+      "word": "质问不修宿舍学生已被家长领回家",
+      "onboard_time": 1731755539,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155171,
       "num": 155171,
       "word": "女生不喝奶茶却查出糖尿病无法接受",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1731714315,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149077,
+      "num": 254159,
+      "word": "中国微波武器专治自杀无人机",
+      "onboard_time": 1731750558,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 148106,
@@ -1411,14 +1459,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 139705,
-      "num": 218353,
-      "word": "中国微波武器专治自杀无人机",
-      "onboard_time": 1731750558,
-      "rank": 41,
-      "category": "军事"
-    },
-    {
       "raw_hot": 137468,
       "num": 226479,
       "word": "姐弟俩偷盗为网店供货",
@@ -1467,20 +1507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133536,
-      "num": 133536,
-      "word": "苏新皓直拍",
-      "onboard_time": 1731755598,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133092,
       "num": 133092,
       "word": "现在就出发",
       "onboard_time": 1731734718,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132363,
+      "num": 260863,
+      "word": "周深看见我现场好绝",
+      "onboard_time": 1731755779,
+      "rank": 12,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 132049,
@@ -1571,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125362,
+      "num": 125362,
+      "word": "双城之战 艺术品",
+      "onboard_time": 1731753859,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 124886,
       "num": 124886,
       "word": "NBA杯",
@@ -1635,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119829,
+      "num": 347446,
+      "word": "狼队醒醒",
+      "onboard_time": 1731756199,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "沈腾说王安宇是五阿呆",
@@ -1651,20 +1707,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 116646,
-      "num": 116646,
-      "word": "质问不修宿舍学生已被家长领回家",
-      "onboard_time": 1731755539,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116377,
       "num": 116377,
       "word": "王安宇唱冬天里的一把火直拍",
       "onboard_time": 1731745037,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115983,
+      "num": 254867,
+      "word": "AG连拿两分",
+      "onboard_time": 1731755779,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 115180,
@@ -1731,12 +1787,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111680,
-      "num": 115834,
-      "word": "双城之战 艺术品",
-      "onboard_time": 1731753859,
-      "rank": 45,
-      "category": "动漫"
+      "raw_hot": 110447,
+      "num": 115728,
+      "word": "杰斯你在干什么",
+      "onboard_time": 1731755598,
+      "rank": 47,
+      "category": "动漫,游戏"
     },
     {
       "raw_hot": 110360,
@@ -2035,20 +2091,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87733,
+      "num": 143981,
+      "word": "印尼火山喷发滞留中国游客发声",
+      "onboard_time": 1731756617,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87405,
       "num": 87405,
       "word": "男子夜驾撞飞两头野猪被判全责",
       "onboard_time": 1731706091,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87397,
-      "num": 115728,
-      "word": "杰斯你在干什么",
-      "onboard_time": 1731755598,
-      "rank": 47,
-      "category": "动漫,游戏"
     },
     {
       "raw_hot": 86403,
@@ -2211,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73462,
-      "num": 260863,
-      "word": "周深看见我现场好绝",
-      "onboard_time": 1731755779,
-      "rank": 12,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 69394,
       "num": 69394,
       "word": "aespa获TikTok颁奖礼年度艺人",
@@ -2283,6 +2331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55592,
+      "num": 313475,
+      "word": "周峻纬生日大片",
+      "onboard_time": 1731756498,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54366,
       "num": 270253,
       "word": "都暻秀心动时刻",
@@ -2291,12 +2347,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 53994,
+      "num": 344775,
+      "word": "金鸡奖内场",
+      "onboard_time": 1731756258,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 52959,
       "num": 797591,
       "word": "老外报中餐菜名太溜了",
       "onboard_time": 1731747020,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52216,
+      "num": 332648,
+      "word": "员工出差归来直接回家被算旷工开除",
+      "onboard_time": 1731756139,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52204,
@@ -2427,6 +2499,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 36497,
+      "num": 338591,
+      "word": "长生嬴政绕后名场面",
+      "onboard_time": 1731756617,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 35893,
       "num": 225385,
       "word": "58岁泰森复出打满8回合",
@@ -2457,14 +2537,6 @@
       "onboard_time": 1731741019,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 33728,
-      "num": 254867,
-      "word": "AG连拿两分",
-      "onboard_time": 1731755779,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 33359,
@@ -2628,7 +2700,7 @@
     },
     {
       "raw_hot": 25142,
-      "num": 213715,
+      "num": 318268,
       "word": "KPL开幕式iQOO含量好高",
       "onboard_time": 1731754999,
       "rank": 24,
@@ -2649,6 +2721,14 @@
       "onboard_time": 1731732978,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 24271,
+      "num": 302890,
+      "word": "丧偶式育儿成女性家庭场景痛点",
+      "onboard_time": 1731755118,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 23530,
@@ -2697,14 +2777,6 @@
       "onboard_time": 1731707831,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20156,
-      "num": 226379,
-      "word": "丧偶式育儿成女性家庭场景痛点",
-      "onboard_time": 1731755118,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 19710,
@@ -2889,6 +2961,14 @@
       "onboard_time": 1731754938,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6848,
+      "num": 321669,
+      "word": "周奇现场观赛kpl总决赛",
+      "onboard_time": 1731756798,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 6134,
