@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731753616947,
+  "endTime": 1731755914203,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1478556,
+      "num": 287377,
+      "word": "关晓彤红发",
+      "onboard_time": 1731751339,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1476958,
       "num": 1476958,
       "word": "拉夫劳伦退货率达95%成凑单神器",
@@ -985,14 +993,6 @@
       "onboard_time": 1731307097,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1117589,
-      "num": 287377,
-      "word": "关晓彤红发",
-      "onboard_time": 1731751339,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 1114224,
@@ -3652,7 +3652,7 @@
     },
     {
       "raw_hot": 508741,
-      "num": 306192,
+      "num": 445237,
       "word": "金鸡奖红毯直拍",
       "onboard_time": 1731750198,
       "rank": 19,
@@ -4227,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447278,
+      "num": 447278,
+      "word": "AG对战狼队",
+      "onboard_time": 1731749960,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 447018,
       "num": 447018,
       "word": "再见爱人 华人春晚",
@@ -4713,6 +4721,14 @@
       "onboard_time": 1731738738,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403189,
+      "num": 251477,
+      "word": "钟楚曦 油画美人",
+      "onboard_time": 1731754098,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 403104,
@@ -5667,6 +5683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 328665,
+      "num": 244663,
+      "word": "金鸡奖预测",
+      "onboard_time": 1731754818,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328655,
       "num": 328655,
       "word": "江苏无锡京东物流园突发大火",
@@ -6017,14 +6041,6 @@
       "onboard_time": 1731462140,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306900,
-      "num": 306900,
-      "word": "AG对战狼队",
-      "onboard_time": 1731749960,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 305815,
@@ -6441,6 +6457,14 @@
       "onboard_time": 1731611592,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 280527,
+      "num": 280527,
+      "word": "KPL总决赛现场太燃了",
+      "onboard_time": 1731753200,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 280500,
@@ -7851,6 +7875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228048,
+      "num": 228048,
+      "word": "别人嘴都特严 然后我智障",
+      "onboard_time": 1731754579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227810,
       "num": 357273,
       "word": "小巷人家 林家欢喜庄家愁",
@@ -8651,6 +8683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209803,
+      "num": 265250,
+      "word": "丁禹兮把直播间当成KTV",
+      "onboard_time": 1731753259,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209798,
       "num": 201644,
       "word": "何炅欢迎谢娜回家",
@@ -9259,6 +9299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200307,
+      "num": 200307,
+      "word": "成毅新剧哥哥太爱我了怎么办",
+      "onboard_time": 1731753859,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200194,
       "num": 186108,
       "word": "虞书欣骂人最狠的时候",
@@ -9569,14 +9617,6 @@
       "onboard_time": 1731634638,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195970,
-      "num": 195970,
-      "word": "KPL总决赛现场太燃了",
-      "onboard_time": 1731753200,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 195655,
@@ -9929,6 +9969,14 @@
       "onboard_time": 1731593603,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192262,
+      "num": 192262,
+      "word": "69岁产女婴老夫妻为女儿过5岁生日",
+      "onboard_time": 1731755418,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192248,
@@ -12011,6 +12059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163981,
+      "num": 163981,
+      "word": "年会不能停2",
+      "onboard_time": 1731755598,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163972,
       "num": 310958,
       "word": "林高远红毯穿搭太潮了",
@@ -12513,6 +12569,14 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158734,
+      "num": 158734,
+      "word": "声生不息",
+      "onboard_time": 1731755179,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 158623,
@@ -13515,6 +13579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148106,
+      "num": 148106,
+      "word": "沈月回应cp粉",
+      "onboard_time": 1731754638,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148068,
       "num": 148068,
       "word": "王多多回应LPL明年没热度",
@@ -13801,14 +13873,6 @@
       "onboard_time": 1731338839,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143593,
-      "num": 265250,
-      "word": "丁禹兮把直播间当成KTV",
-      "onboard_time": 1731753259,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 143545,
@@ -14108,7 +14172,7 @@
     },
     {
       "raw_hot": 139705,
-      "num": 139705,
+      "num": 218353,
       "word": "中国微波武器专治自杀无人机",
       "onboard_time": 1731750558,
       "rank": 41,
@@ -14444,7 +14508,7 @@
     },
     {
       "raw_hot": 135351,
-      "num": 135351,
+      "num": 195676,
       "word": "为攀岩打26个岩钉无知任性必须付出代价",
       "onboard_time": 1731751038,
       "rank": 39,
@@ -14561,6 +14625,14 @@
       "onboard_time": 1731564681,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133536,
+      "num": 133536,
+      "word": "苏新皓直拍",
+      "onboard_time": 1731755598,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 133119,
@@ -14747,6 +14819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 131166,
+      "num": 131166,
+      "word": "AG剧透",
+      "onboard_time": 1731753380,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131070,
       "num": 131070,
       "word": "追星后的反向收入",
@@ -14865,14 +14945,6 @@
       "onboard_time": 1731466878,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129549,
-      "num": 129549,
-      "word": "AG剧透",
-      "onboard_time": 1731753380,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 129519,
@@ -15819,6 +15891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116646,
+      "num": 116646,
+      "word": "质问不修宿舍学生已被家长领回家",
+      "onboard_time": 1731755539,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116645,
       "num": 116645,
       "word": "这不是电影这是真实的缉毒现场",
@@ -16137,6 +16217,14 @@
       "onboard_time": 1731206419,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111680,
+      "num": 115834,
+      "word": "双城之战 艺术品",
+      "onboard_time": 1731753859,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 111677,
@@ -16924,7 +17012,7 @@
     },
     {
       "raw_hot": 98421,
-      "num": 112340,
+      "num": 115802,
       "word": "双城之战",
       "onboard_time": 1731747140,
       "rank": 49,
@@ -16953,6 +17041,14 @@
       "onboard_time": 1731218959,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97921,
+      "num": 293393,
+      "word": "人一生最多可以献血超过1000次",
+      "onboard_time": 1731753200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97749,
@@ -17395,6 +17491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87397,
+      "num": 115728,
+      "word": "杰斯你在干什么",
+      "onboard_time": 1731755598,
+      "rank": 47,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 86975,
       "num": 86975,
       "word": "平台已全额退还女子6万房费",
@@ -17643,6 +17747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81587,
+      "num": 164742,
+      "word": "国足对日本已连续15场不胜",
+      "onboard_time": 1731751518,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81418,
       "num": 436183,
       "word": "九尾久违的自拍",
@@ -17673,6 +17785,14 @@
       "onboard_time": 1731224479,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81052,
+      "num": 220584,
+      "word": "AG先下一城",
+      "onboard_time": 1731754098,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 81011,
@@ -17769,6 +17889,14 @@
       "onboard_time": 1731643279,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79035,
+      "num": 115650,
+      "word": "刘丁硕抢到成都混团门票",
+      "onboard_time": 1731753859,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78856,
@@ -18001,6 +18129,14 @@
       "onboard_time": 1731339559,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73462,
+      "num": 260863,
+      "word": "周深看见我现场好绝",
+      "onboard_time": 1731755779,
+      "rank": 12,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 73406,
@@ -20508,7 +20644,7 @@
     },
     {
       "raw_hot": 39566,
-      "num": 298054,
+      "num": 359915,
       "word": "神十九乘组看到快递发出一起鼓掌",
       "onboard_time": 1731746539,
       "rank": 8,
@@ -20761,14 +20897,6 @@
       "onboard_time": 1731693074,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37473,
-      "num": 293393,
-      "word": "人一生最多可以献血超过1000次",
-      "onboard_time": 1731753200,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37442,
@@ -21233,6 +21361,14 @@
       "onboard_time": 1731531910,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 33728,
+      "num": 254867,
+      "word": "AG连拿两分",
+      "onboard_time": 1731755779,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 33522,
@@ -22395,6 +22531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25142,
+      "num": 213715,
+      "word": "KPL开幕式iQOO含量好高",
+      "onboard_time": 1731754999,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 25126,
       "num": 473871,
       "word": "A股成交连续30个交易日破1万亿",
@@ -22697,14 +22841,6 @@
       "onboard_time": 1731683420,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22772,
-      "num": 164742,
-      "word": "国足对日本已连续15场不胜",
-      "onboard_time": 1731751518,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 22764,
@@ -23049,6 +23185,14 @@
       "onboard_time": 1731707831,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20156,
+      "num": 226379,
+      "word": "丧偶式育儿成女性家庭场景痛点",
+      "onboard_time": 1731755118,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 20142,
@@ -24401,6 +24545,14 @@
       "onboard_time": 1731611651,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7214,
+      "num": 192474,
+      "word": "鹭卓左勾手上篮转身跳投",
+      "onboard_time": 1731754938,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 6904,
