@@ -1,0 +1,410 @@
+{
+  "runTime": 1731749780746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845885,
+        "num": 1135341,
+        "word": "献血100次可免费吃酒店自助餐",
+        "onboard_time": 1731735979,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775558,
+        "num": 775558,
+        "word": "金鸡奖直播",
+        "onboard_time": 1731748218,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41082,
+        "num": 574216,
+        "word": "老外报中餐菜名太溜了",
+        "onboard_time": 1731747020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547978,
+        "num": 547978,
+        "word": "武艺 你也没在乎我的感受",
+        "onboard_time": 1731747620,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308931,
+        "num": 308931,
+        "word": "女子裸辞半年后转行当绿领收入翻番",
+        "onboard_time": 1731740777,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236538,
+        "num": 236538,
+        "word": "遭学生质问的10人间宿舍条件怎样",
+        "onboard_time": 1731748399,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 467609,
+        "num": 230848,
+        "word": "再见爱人背景音没消掉",
+        "onboard_time": 1731738318,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223059,
+        "num": 223059,
+        "word": "德华被挤出C位",
+        "onboard_time": 1731739820,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39566,
+        "num": 223049,
+        "word": "神十九乘组看到快递发出一起鼓掌",
+        "onboard_time": 1731746539,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298627,
+        "num": 222493,
+        "word": "李行亮 如果我有病谁来治我",
+        "onboard_time": 1731731958,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1248835,
+        "num": 222175,
+        "word": "尹正爆料黄晓明杀青状态",
+        "onboard_time": 1731745938,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 759552,
+        "num": 221866,
+        "word": "李子柒一身黑衣干练亮相微笑打招呼",
+        "onboard_time": 1731746299,
+        "rank": 11,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 716206,
+        "num": 221566,
+        "word": "虞书欣团综抹胸妆造",
+        "onboard_time": 1731744617,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37023,
+        "num": 221046,
+        "word": "无偿献的血最后都用到哪里了",
+        "onboard_time": 1731748458,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601089,
+        "num": 220662,
+        "word": "富商被妻子绑架勒索4900万",
+        "onboard_time": 1731745398,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464972,
+        "num": 220421,
+        "word": "官方通报男子骑车撞上供热管道身亡",
+        "onboard_time": 1731747620,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 444924,
+        "num": 219947,
+        "word": "羡慕给王一博安检的安检员",
+        "onboard_time": 1731747558,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371254,
+        "num": 219844,
+        "word": "理记 江秋莲",
+        "onboard_time": 1731744018,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25533,
+        "num": 219254,
+        "word": "惠英红曾黎搂肩合照",
+        "onboard_time": 1731744497,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51515,
+        "num": 219028,
+        "word": "研究显示屁股大腿粗的人更长寿",
+        "onboard_time": 1731749179,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163368,
+        "num": 218710,
+        "word": "李诗沣2比0安赛龙",
+        "onboard_time": 1731747079,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281999,
+        "num": 218248,
+        "word": "考古麦琳微博",
+        "onboard_time": 1731736098,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254820,
+        "num": 217803,
+        "word": "怀9胞胎女子靠输营养液保胎",
+        "onboard_time": 1731734298,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217763,
+        "num": 217763,
+        "word": "丁禹兮急出English",
+        "onboard_time": 1731748579,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87222,
+        "num": 205589,
+        "word": "海关工作犬找到违禁物握手庆祝",
+        "onboard_time": 1731749658,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200384,
+        "num": 200384,
+        "word": "韩国KGMA颁奖典礼",
+        "onboard_time": 1731747379,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199736,
+        "num": 199736,
+        "word": "陈都灵文潇封神镜头又多一个",
+        "onboard_time": 1731747739,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194168,
+        "num": 194168,
+        "word": "祝绪丹好宠",
+        "onboard_time": 1731745519,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193945,
+        "num": 193945,
+        "word": "金鸡奖闭幕红毯",
+        "onboard_time": 1731747020,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172524,
+        "num": 172524,
+        "word": "珠帘玉幕 处处吻",
+        "onboard_time": 1731741318,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162919,
+        "num": 162919,
+        "word": "李行亮麦琳离婚理财收益怎么分",
+        "onboard_time": 1731748218,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150058,
+        "num": 150058,
+        "word": "被抢走330天后离世的3岁女童",
+        "onboard_time": 1731746658,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149904,
+        "num": 149904,
+        "word": "子午线复合",
+        "onboard_time": 1731747920,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17736,
+        "num": 146597,
+        "word": "首支华为手机水下纪录片获金鸡奖",
+        "onboard_time": 1731748879,
+        "rank": 33,
+        "category": "电影,数码"
+      },
+      {
+        "raw_hot": 146253,
+        "num": 146253,
+        "word": "虞书欣丁禹兮超绝二搭默契",
+        "onboard_time": 1731746238,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142420,
+        "num": 142420,
+        "word": "杨紫三色蝴蝶结高定造型",
+        "onboard_time": 1731738738,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 138868,
+        "word": "蒲熠星陈卓璇为狼队加油",
+        "onboard_time": 1731749479,
+        "rank": 36,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 138404,
+        "num": 138404,
+        "word": "丁禹兮团综上岛路透",
+        "onboard_time": 1731743597,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132445,
+        "num": 132445,
+        "word": "杨超越 感谢老师给我这个机会",
+        "onboard_time": 1731748039,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124211,
+        "num": 124211,
+        "word": "发现麦琳以前是好有生命力的人",
+        "onboard_time": 1731734898,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122704,
+        "num": 122704,
+        "word": "金鸡奖颁奖典礼座位图",
+        "onboard_time": 1731749419,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 119276,
+        "word": "中国往太空送快递3个多小时到达",
+        "onboard_time": 1731737177,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116683,
+        "num": 116683,
+        "word": "时代少年团二开",
+        "onboard_time": 1731746058,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113817,
+        "num": 113817,
+        "word": "沈月文笔",
+        "onboard_time": 1731733339,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110930,
+        "num": 110930,
+        "word": "男大学生扮女装进女澡堂偷拍被抓",
+        "onboard_time": 1731733279,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106580,
+        "num": 106580,
+        "word": "对战劣迹网红的拳王泰森到底多缺钱",
+        "onboard_time": 1731744318,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103169,
+        "num": 103169,
+        "word": "郑钦文已解散粉丝群",
+        "onboard_time": 1731728957,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103084,
+        "num": 103084,
+        "word": "你心中的金鸡奖最佳主角",
+        "onboard_time": 1731733638,
+        "rank": 47,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 102755,
+        "num": 102755,
+        "word": "官方称有80人满足免费吃自助餐条件",
+        "onboard_time": 1731734238,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80529,
+        "num": 98398,
+        "word": "泰森复出不敌27岁网红",
+        "onboard_time": 1731737118,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样阐述亚太合作#"
+    }
+  }
+}
