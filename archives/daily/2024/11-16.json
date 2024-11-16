@@ -1,7 +1,15 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731739420751,
+  "endTime": 1731741623482,
   "band_list": [
+    {
+      "raw_hot": 1743128,
+      "num": 1743128,
+      "word": "献血100次可免费吃酒店自助餐",
+      "onboard_time": 1731735979,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1697049,
       "num": 254397,
@@ -75,28 +83,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 920131,
+      "num": 276382,
+      "word": "考古麦琳微博",
+      "onboard_time": 1731736098,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 915680,
       "num": 270817,
       "word": "丁禹兮火了之后第一步",
       "onboard_time": 1731726737,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 888153,
-      "num": 888153,
-      "word": "献血100次可免费吃酒店自助餐",
-      "onboard_time": 1731735979,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 879614,
-      "num": 275326,
-      "word": "考古麦琳微博",
-      "onboard_time": 1731736098,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 858896,
@@ -137,6 +137,14 @@
       "onboard_time": 1731723678,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738510,
+      "num": 738510,
+      "word": "再见爱人背景音没消掉",
+      "onboard_time": 1731738318,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 730572,
@@ -275,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 405126,
-      "num": 255995,
-      "word": "再见爱人背景音没消掉",
-      "onboard_time": 1731738318,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 405397,
+      "num": 405397,
+      "word": "杨紫三色蝴蝶结高定造型",
+      "onboard_time": 1731738738,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 390454,
+      "num": 255990,
+      "word": "国产车把中东土豪拿捏住了",
+      "onboard_time": 1731736638,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 381051,
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354828,
+      "num": 354828,
+      "word": "泰森复出不敌27岁网红",
+      "onboard_time": 1731737118,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353004,
       "num": 353004,
       "word": "关晓彤演技",
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 340143,
-      "num": 314276,
+      "num": 336028,
       "word": "你心中的金鸡奖最佳主角",
       "onboard_time": 1731733638,
       "rank": 9,
@@ -443,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 255990,
-      "num": 255990,
-      "word": "国产车把中东土豪拿捏住了",
-      "onboard_time": 1731736638,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 252923,
       "num": 214915,
       "word": "白夜破晓全阵容官宣",
@@ -491,14 +507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 237662,
-      "num": 237662,
-      "word": "杨紫三色蝴蝶结高定造型",
-      "onboard_time": 1731738738,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 236033,
       "num": 191661,
       "word": "珍珠蚌也会拉肚子",
@@ -521,6 +529,14 @@
       "onboard_time": 1731676640,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 220041,
+      "num": 220041,
+      "word": "放假去埃及玩的人嘴真严啊",
+      "onboard_time": 1731737418,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 219247,
@@ -619,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197608,
+      "num": 188479,
+      "word": "焦俊艳回应再见爱人最大受益者",
+      "onboard_time": 1731739579,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195657,
+      "num": 195657,
+      "word": "德华被挤出C位",
+      "onboard_time": 1731739820,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194812,
       "num": 194812,
       "word": "你好星期六",
@@ -659,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182887,
+      "num": 182887,
+      "word": "珠帘玉幕 处处吻",
+      "onboard_time": 1731741318,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "杨子说黄圣依不折腾就开心了",
@@ -681,14 +721,6 @@
       "onboard_time": 1731690676,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 174789,
-      "num": 174789,
-      "word": "放假去埃及玩的人嘴真严啊",
-      "onboard_time": 1731737418,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 174788,
@@ -795,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160150,
+      "num": 281560,
+      "word": "官方通报村委会发通知不缴医保不盖章",
+      "onboard_time": 1731738020,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 160120,
       "num": 160120,
       "word": "十万狂花入梦来 古偶玩惊悚",
@@ -835,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155782,
+      "num": 155782,
+      "word": "女子裸辞半年后转行当绿领收入翻番",
+      "onboard_time": 1731740777,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155171,
       "num": 155171,
       "word": "女生不喝奶茶却查出糖尿病无法接受",
@@ -873,14 +921,6 @@
       "onboard_time": 1731732737,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152448,
-      "num": 185815,
-      "word": "泰森复出不敌27岁网红",
-      "onboard_time": 1731737118,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 152441,
@@ -945,6 +985,14 @@
       "onboard_time": 1731685220,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140876,
+      "num": 157822,
+      "word": "虞书欣鱼缸光影大片",
+      "onboard_time": 1731739998,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137468,
@@ -1115,14 +1163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113979,
-      "num": 281560,
-      "word": "官方通报村委会发通知不缴医保不盖章",
-      "onboard_time": 1731738020,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 112154,
       "num": 112154,
       "word": "以闪亮之名",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1731684201,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107068,
+      "num": 107068,
+      "word": "这跟上班有什么区别",
+      "onboard_time": 1731741318,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 106544,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1731717797,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100078,
+      "num": 155942,
+      "word": "星宇西装清冷氛围感拉满",
+      "onboard_time": 1731741318,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 99971,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1731730638,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88870,
+      "num": 88870,
+      "word": "涵艺连续爆料",
+      "onboard_time": 1731741437,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 88228,
@@ -1611,6 +1675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38868,
+      "num": 194227,
+      "word": "丁禹兮上岛防晒包到位的",
+      "onboard_time": 1731740777,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38678,
       "num": 38678,
       "word": "菲在南海频繁兴风作浪破坏和平稳定",
@@ -1651,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33956,
+      "num": 133546,
+      "word": "尊界这一界太尊了",
+      "onboard_time": 1731741019,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32608,
       "num": 95836,
       "word": "赵一博主场少年合体现身澳门",
@@ -1689,6 +1769,14 @@
       "onboard_time": 1731737477,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30623,
+      "num": 220580,
+      "word": "农村老人取快递要走6公里",
+      "onboard_time": 1731740958,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29560,
@@ -1745,6 +1833,14 @@
       "onboard_time": 1731704470,
       "rank": 40,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 24896,
+      "num": 191855,
+      "word": "培训机构套现离场为何如此潇酒",
+      "onboard_time": 1731740717,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24671,
@@ -1809,6 +1905,14 @@
       "onboard_time": 1731712754,
       "rank": 38,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 17692,
+      "num": 195585,
+      "word": "杨丞琳发文庆祝出道24周年",
+      "onboard_time": 1731740358,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 16031,

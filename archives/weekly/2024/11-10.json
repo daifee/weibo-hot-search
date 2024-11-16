@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731739420751,
+  "endTime": 1731741623482,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -297,6 +297,14 @@
       "onboard_time": 1731383239,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1743128,
+      "num": 1743128,
+      "word": "献血100次可免费吃酒店自助餐",
+      "onboard_time": 1731735979,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1714132,
@@ -1443,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 920131,
+      "num": 276382,
+      "word": "考古麦琳微博",
+      "onboard_time": 1731736098,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 919461,
       "num": 397897,
       "word": "宋慧乔金高银Jennie出席婚礼",
@@ -1499,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 888153,
-      "num": 888153,
-      "word": "献血100次可免费吃酒店自助餐",
-      "onboard_time": 1731735979,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 884975,
       "num": 1712883,
       "word": "李子柒开始清库存了",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1731479838,
       "rank": 33,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 879614,
-      "num": 275326,
-      "word": "考古麦琳微博",
-      "onboard_time": 1731736098,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 876094,
@@ -2073,6 +2073,14 @@
       "onboard_time": 1731424282,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738510,
+      "num": 738510,
+      "word": "再见爱人背景音没消掉",
+      "onboard_time": 1731738318,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 737866,
@@ -4563,12 +4571,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 405126,
-      "num": 255995,
-      "word": "再见爱人背景音没消掉",
-      "onboard_time": 1731738318,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 405397,
+      "num": 405397,
+      "word": "杨紫三色蝴蝶结高定造型",
+      "onboard_time": 1731738738,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403104,
@@ -4713,6 +4721,14 @@
       "onboard_time": 1731384801,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390454,
+      "num": 255990,
+      "word": "国产车把中东土豪拿捏住了",
+      "onboard_time": 1731736638,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 390313,
@@ -5155,6 +5171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 354828,
+      "num": 354828,
+      "word": "泰森复出不敌27岁网红",
+      "onboard_time": 1731737118,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353575,
       "num": 353575,
       "word": "王一栩 崇拜虞书欣供着虞书欣",
@@ -5340,7 +5364,7 @@
     },
     {
       "raw_hot": 340143,
-      "num": 314276,
+      "num": 336028,
       "word": "你心中的金鸡奖最佳主角",
       "onboard_time": 1731733638,
       "rank": 9,
@@ -6827,14 +6851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255990,
-      "num": 255990,
-      "word": "国产车把中东土豪拿捏住了",
-      "onboard_time": 1731736638,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 255770,
       "num": 255770,
       "word": "杭州23周超早产儿米宝出院了",
@@ -7337,14 +7353,6 @@
       "onboard_time": 1731389240,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237662,
-      "num": 237662,
-      "word": "杨紫三色蝴蝶结高定造型",
-      "onboard_time": 1731738738,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237328,
@@ -7921,6 +7929,14 @@
       "onboard_time": 1731582740,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220041,
+      "num": 220041,
+      "word": "放假去埃及玩的人嘴真严啊",
+      "onboard_time": 1731737418,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 219247,
@@ -9187,6 +9203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197608,
+      "num": 188479,
+      "word": "焦俊艳回应再见爱人最大受益者",
+      "onboard_time": 1731739579,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197490,
       "num": 329029,
       "word": "蔡徐坤墨镜潮酷风",
@@ -9313,6 +9337,14 @@
       "onboard_time": 1731634638,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195657,
+      "num": 195657,
+      "word": "德华被挤出C位",
+      "onboard_time": 1731739820,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 195655,
@@ -10283,6 +10315,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 182887,
+      "num": 182887,
+      "word": "珠帘玉幕 处处吻",
+      "onboard_time": 1731741318,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182635,
       "num": 182635,
       "word": "ksg剧透",
@@ -10753,14 +10793,6 @@
       "onboard_time": 1731653839,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174789,
-      "num": 174789,
-      "word": "放假去埃及玩的人嘴真严啊",
-      "onboard_time": 1731737418,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 174788,
@@ -12019,6 +12051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160150,
+      "num": 281560,
+      "word": "官方通报村委会发通知不缴医保不盖章",
+      "onboard_time": 1731738020,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 160120,
       "num": 160120,
       "word": "十万狂花入梦来 古偶玩惊悚",
@@ -12427,6 +12467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155782,
+      "num": 155782,
+      "word": "女子裸辞半年后转行当绿领收入翻番",
+      "onboard_time": 1731740777,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155767,
       "num": 155767,
       "word": "浙江回应鼓励有条件家庭生四孩",
@@ -12721,14 +12769,6 @@
       "onboard_time": 1731467958,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152448,
-      "num": 185815,
-      "word": "泰森复出不敌27岁网红",
-      "onboard_time": 1731737118,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 152441,
@@ -13609,6 +13649,14 @@
       "onboard_time": 1731218420,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 140876,
+      "num": 157822,
+      "word": "虞书欣鱼缸光影大片",
+      "onboard_time": 1731739998,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 140823,
@@ -15491,14 +15539,6 @@
       "category": "国外时政,财经"
     },
     {
-      "raw_hot": 113979,
-      "num": 281560,
-      "word": "官方通报村委会发通知不缴医保不盖章",
-      "onboard_time": 1731738020,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 113890,
       "num": 230680,
       "word": "刘宇宁演技",
@@ -15865,6 +15905,14 @@
       "onboard_time": 1731293538,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 107068,
+      "num": 107068,
+      "word": "这跟上班有什么区别",
+      "onboard_time": 1731741318,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 106995,
@@ -16323,6 +16371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100078,
+      "num": 155942,
+      "word": "星宇西装清冷氛围感拉满",
+      "onboard_time": 1731741318,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99971,
       "num": 747549,
       "word": "秘鲁邮票上印有中国炒饭",
@@ -16753,6 +16809,14 @@
       "onboard_time": 1731168620,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 88870,
+      "num": 88870,
+      "word": "涵艺连续爆料",
+      "onboard_time": 1731741437,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 88824,
@@ -19939,6 +20003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38868,
+      "num": 194227,
+      "word": "丁禹兮上岛防晒包到位的",
+      "onboard_time": 1731740777,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38812,
       "num": 402867,
       "word": "时代少年团要在天猫摆摊上热搜",
@@ -20539,6 +20611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33956,
+      "num": 133546,
+      "word": "尊界这一界太尊了",
+      "onboard_time": 1731741019,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33933,
       "num": 333849,
       "word": "四环奥迪多一环",
@@ -20977,6 +21057,14 @@
       "onboard_time": 1731328578,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30623,
+      "num": 220580,
+      "word": "农村老人取快递要走6公里",
+      "onboard_time": 1731740958,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30541,
@@ -21713,6 +21801,14 @@
       "onboard_time": 1731626297,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24896,
+      "num": 191855,
+      "word": "培训机构套现离场为何如此潇酒",
+      "onboard_time": 1731740717,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24756,
@@ -22617,6 +22713,14 @@
       "onboard_time": 1731582381,
       "rank": 9,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 17692,
+      "num": 195585,
+      "word": "杨丞琳发文庆祝出道24周年",
+      "onboard_time": 1731740358,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 17550,
