@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731788569218,
+  "endTime": 1731789469142,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -579,6 +579,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 17064,
+      "num": 37361,
+      "word": "APEC官方用车是中国新能源车",
+      "onboard_time": 1731787511,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16833,
       "num": 158782,
       "word": "奥本海默最佳外语片",
@@ -601,14 +609,6 @@
       "onboard_time": 1731772222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13800,
-      "num": 37361,
-      "word": "APEC官方用车是中国新能源车",
-      "onboard_time": 1731787511,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13293,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 11228,
-      "num": 22522,
+      "num": 26052,
       "word": "徐枫灿航展现场给观众发礼物",
       "onboard_time": 1731787811,
       "rank": 39,
@@ -665,6 +665,14 @@
       "onboard_time": 1731778218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10611,
+      "num": 22288,
+      "word": "中国声音顺应大势中国行动体现担当",
+      "onboard_time": 1731789379,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6107,
@@ -681,6 +689,14 @@
       "onboard_time": 1731781873,
       "rank": 19,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 5416,
+      "num": 28468,
+      "word": "丁禹兮今天是机车慕声",
+      "onboard_time": 1731789140,
+      "rank": 19,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

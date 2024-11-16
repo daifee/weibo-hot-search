@@ -1,0 +1,410 @@
+{
+  "runTime": 1731789469142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109108,
+        "num": 109108,
+        "word": "俄罗斯宣布临时限制向美出口浓缩铀",
+        "onboard_time": 1731778515,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107717,
+        "num": 107717,
+        "word": "李庚希金鸡影后",
+        "onboard_time": 1731765565,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2329,
+        "num": 102732,
+        "word": "男子在秘鲁40多年开了60多家中餐厅",
+        "onboard_time": 1731759020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99758,
+        "num": 99758,
+        "word": "虞书欣丁禹兮hi6收视率历史最高",
+        "onboard_time": 1731774319,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46146,
+        "num": 46146,
+        "word": "广州打破最长夏天纪录",
+        "onboard_time": 1731773328,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43797,
+        "num": 43797,
+        "word": "江苏盐城村干部被曝工作日聚餐饮酒",
+        "onboard_time": 1731766885,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 52467,
+        "num": 43645,
+        "word": "00花第一位金鸡影后",
+        "onboard_time": 1731774141,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43823,
+        "num": 43636,
+        "word": "秦海璐又在金鸡后台睡着了",
+        "onboard_time": 1731772161,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43406,
+        "num": 43406,
+        "word": "AG夺冠",
+        "onboard_time": 1731765565,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31589,
+        "num": 31589,
+        "word": "王昭君FMVP皮肤",
+        "onboard_time": 1731767005,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226092,
+        "num": 31570,
+        "word": "资源咖",
+        "onboard_time": 1731774319,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77006,
+        "num": 31249,
+        "word": "派出所回应丢38吨稻谷报警被怼",
+        "onboard_time": 1731772102,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64465,
+        "num": 30906,
+        "word": "张家界火灾遇难者系一家祖孙三代",
+        "onboard_time": 1731772102,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51230,
+        "num": 30426,
+        "word": "黄晓明一个月瘦了15公斤",
+        "onboard_time": 1731772222,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42688,
+        "num": 30203,
+        "word": "姜妍是虞书欣的认证闺蜜",
+        "onboard_time": 1731772161,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37524,
+        "num": 29968,
+        "word": "大梦归离大结局",
+        "onboard_time": 1731759380,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26218,
+        "num": 29420,
+        "word": "格林威治",
+        "onboard_time": 1731773541,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24952,
+        "num": 29077,
+        "word": "空军军乐团指挥航展群众齐唱歌唱祖国",
+        "onboard_time": 1731766885,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 34338,
+        "num": 28766,
+        "word": "徐静蕾",
+        "onboard_time": 1731768562,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5416,
+        "num": 28468,
+        "word": "丁禹兮今天是机车慕声",
+        "onboard_time": 1731789140,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142076,
+        "num": 28039,
+        "word": "特朗普说马斯克喜欢我家赶都赶不走他",
+        "onboard_time": 1731772041,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28027,
+        "num": 28027,
+        "word": "李庚希说了7个非常感谢",
+        "onboard_time": 1731772102,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27021,
+        "num": 27021,
+        "word": "六公主发了赵丽颖大特写",
+        "onboard_time": 1731750679,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26405,
+        "num": 26405,
+        "word": "林保怡 可惜",
+        "onboard_time": 1731767905,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26189,
+        "num": 26189,
+        "word": "王者荣耀王昭君",
+        "onboard_time": 1731773781,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11085,
+        "num": 26052,
+        "word": "徐枫灿航展现场给观众发礼物",
+        "onboard_time": 1731787811,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 26015,
+        "num": 26015,
+        "word": "69岁产女婴老夫妻为女儿过5岁生日",
+        "onboard_time": 1731755418,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25311,
+        "num": 25311,
+        "word": "雷佳音金鸡影帝",
+        "onboard_time": 1731765082,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24349,
+        "num": 24349,
+        "word": "永夜星河团综",
+        "onboard_time": 1731773841,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23589,
+        "num": 23589,
+        "word": "群演变明星的概率越来越小",
+        "onboard_time": 1731784752,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104272,
+        "num": 23543,
+        "word": "金鸡 离谱",
+        "onboard_time": 1731767366,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23408,
+        "num": 23408,
+        "word": "白夜破晓",
+        "onboard_time": 1731783612,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23011,
+        "num": 23011,
+        "word": "小渔船一网下去捞起美国核潜艇",
+        "onboard_time": 1731777257,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22602,
+        "num": 22602,
+        "word": "关晓彤红发",
+        "onboard_time": 1731751339,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10611,
+        "num": 22288,
+        "word": "中国声音顺应大势中国行动体现担当",
+        "onboard_time": 1731789379,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22199,
+        "num": 22199,
+        "word": "王者荣耀",
+        "onboard_time": 1731773899,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22149,
+        "num": 22149,
+        "word": "留几手向麦琳道歉",
+        "onboard_time": 1731756740,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21850,
+        "num": 21850,
+        "word": "中国担任APEC2026年东道主",
+        "onboard_time": 1731782713,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21602,
+        "num": 21602,
+        "word": "捐日军侵华罪行相册的美国小伙来中国了",
+        "onboard_time": 1731765805,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21574,
+        "num": 21574,
+        "word": "烧伤妈妈恢复期忍痛练习吃饭",
+        "onboard_time": 1731784453,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21388,
+        "num": 21388,
+        "word": "小巷人家",
+        "onboard_time": 1731759800,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17064,
+        "num": 21130,
+        "word": "APEC官方用车是中国新能源车",
+        "onboard_time": 1731787511,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21117,
+        "num": 21117,
+        "word": "奥地利称俄停止向其供应天然气",
+        "onboard_time": 1731772102,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20315,
+        "num": 20315,
+        "word": "天狼星由我们AG亲手熄灭",
+        "onboard_time": 1731772041,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19184,
+        "num": 19184,
+        "word": "aespa1117出道四周年",
+        "onboard_time": 1731773003,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18732,
+        "num": 18732,
+        "word": "王一博站起来为热烈鼓掌",
+        "onboard_time": 1731767005,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17933,
+        "num": 17933,
+        "word": "小巷人家提档",
+        "onboard_time": 1731772282,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17693,
+        "num": 17933,
+        "word": "阿娇王晓晨新剧白蛇青蛇",
+        "onboard_time": 1731772941,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16516,
+        "num": 17932,
+        "word": "王源把演唱会现场变成游乐场",
+        "onboard_time": 1731772222,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16017,
+        "num": 17932,
+        "word": "何运晨看黄子弘凡演唱会",
+        "onboard_time": 1731771923,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国有一个跨越半个地球的邻居#"
+    }
+  }
+}
