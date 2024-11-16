@@ -1,6 +1,6 @@
 {
   "startTime": 1731169502859,
-  "endTime": 1731752544891,
+  "endTime": 1731753616947,
   "band_list": [
     {
       "raw_hot": 29571263,
@@ -347,6 +347,14 @@
       "category": "国内时政,作品衍生"
     },
     {
+      "raw_hot": 1676780,
+      "num": 1676780,
+      "word": "六公主发了赵丽颖大特写",
+      "onboard_time": 1731750679,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1660906,
       "num": 535833,
       "word": "越南模仿李子柒的博主也停更三年",
@@ -425,14 +433,6 @@
       "onboard_time": 1731313939,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1613899,
-      "num": 1613899,
-      "word": "六公主发了赵丽颖大特写",
-      "onboard_time": 1731750679,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1609367,
@@ -860,7 +860,7 @@
     },
     {
       "raw_hot": 1248835,
-      "num": 272892,
+      "num": 283976,
       "word": "尹正爆料黄晓明杀青状态",
       "onboard_time": 1731745938,
       "rank": 15,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1117589,
+      "num": 287377,
+      "word": "关晓彤红发",
+      "onboard_time": 1731751339,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1114224,
       "num": 479470,
       "word": "美国要求台积电停供大陆7纳米AI芯片",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1731306079,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098198,
+      "num": 1098198,
+      "word": "遭学生质问的10人间宿舍条件怎样",
+      "onboard_time": 1731748399,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1096228,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1731165678,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1031464,
-      "num": 1031464,
-      "word": "遭学生质问的10人间宿舍条件怎样",
-      "onboard_time": 1731748399,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1031062,
@@ -2771,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624741,
+      "num": 624741,
+      "word": "惠英红 惠英绿",
+      "onboard_time": 1731750378,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 624612,
       "num": 624612,
       "word": "杨紫 嫡谋",
@@ -2929,14 +2945,6 @@
       "onboard_time": 1731745398,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 599686,
-      "num": 599686,
-      "word": "惠英红 惠英绿",
-      "onboard_time": 1731750378,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 597034,
@@ -3643,6 +3651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 508741,
+      "num": 306192,
+      "word": "金鸡奖红毯直拍",
+      "onboard_time": 1731750198,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 507790,
       "num": 507790,
       "word": "米诺地尔副作用",
@@ -3907,6 +3923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 475438,
+      "num": 272856,
+      "word": "蓝盈莹 共情李行亮",
+      "onboard_time": 1731750978,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474822,
       "num": 359768,
       "word": "丁禹兮唱歌是真好听",
@@ -3961,14 +3985,6 @@
       "onboard_time": 1731568102,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 470631,
-      "num": 271167,
-      "word": "关晓彤红发",
-      "onboard_time": 1731751339,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 470567,
@@ -4475,14 +4491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420857,
-      "num": 269695,
-      "word": "金鸡奖红毯直拍",
-      "onboard_time": 1731750198,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 420850,
       "num": 420850,
       "word": "39岁C罗倒钩",
@@ -4529,6 +4537,14 @@
       "onboard_time": 1731676760,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412653,
+      "num": 255267,
+      "word": "赵丽颖生图",
+      "onboard_time": 1731752959,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 412615,
@@ -6003,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306900,
+      "num": 306900,
+      "word": "AG对战狼队",
+      "onboard_time": 1731749960,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305815,
       "num": 305815,
       "word": "赵丽颖雁背斜阳",
@@ -7443,14 +7467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241107,
-      "num": 241107,
-      "word": "AG对战狼队",
-      "onboard_time": 1731749960,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 241023,
       "num": 241023,
       "word": "我国南海部分岛礁标准名称公布",
@@ -8065,14 +8081,6 @@
       "onboard_time": 1731502761,
       "rank": 27,
       "category": "网红,美食"
-    },
-    {
-      "raw_hot": 222328,
-      "num": 222328,
-      "word": "蓝盈莹 共情李行亮",
-      "onboard_time": 1731750978,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 222292,
@@ -8916,7 +8924,7 @@
     },
     {
       "raw_hot": 204088,
-      "num": 204088,
+      "num": 260973,
       "word": "周深KPL开幕式现场",
       "onboard_time": 1731751339,
       "rank": 25,
@@ -9561,6 +9569,14 @@
       "onboard_time": 1731634638,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195970,
+      "num": 195970,
+      "word": "KPL总决赛现场太燃了",
+      "onboard_time": 1731753200,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 195655,
@@ -10585,6 +10601,14 @@
       "onboard_time": 1731388342,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182542,
+      "num": 219028,
+      "word": "研究显示屁股大腿粗的人更长寿",
+      "onboard_time": 1731749179,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182538,
@@ -13467,14 +13491,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 148793,
-      "num": 219028,
-      "word": "研究显示屁股大腿粗的人更长寿",
-      "onboard_time": 1731749179,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148715,
       "num": 148715,
       "word": "台前舰长在珠海航展哽咽发声",
@@ -13785,6 +13801,14 @@
       "onboard_time": 1731338839,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143593,
+      "num": 265250,
+      "word": "丁禹兮把直播间当成KTV",
+      "onboard_time": 1731753259,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 143545,
@@ -14419,6 +14443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135351,
+      "num": 135351,
+      "word": "为攀岩打26个岩钉无知任性必须付出代价",
+      "onboard_time": 1731751038,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 135284,
       "num": 392627,
       "word": "郑钦文冲冠加油",
@@ -14465,6 +14497,14 @@
       "onboard_time": 1731395539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134371,
+      "num": 300785,
+      "word": "AG拿到一血",
+      "onboard_time": 1731753200,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 134308,
@@ -14825,6 +14865,14 @@
       "onboard_time": 1731466878,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129549,
+      "num": 129549,
+      "word": "AG剧透",
+      "onboard_time": 1731753380,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 129519,
@@ -16211,6 +16259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108277,
+      "num": 108277,
+      "word": "警方回应陕西一举报腐败电话是空号",
+      "onboard_time": 1731753081,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 108246,
       "num": 108246,
       "word": "王艺迪世界排名上升至第3",
@@ -16867,6 +16923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98421,
+      "num": 112340,
+      "word": "双城之战",
+      "onboard_time": 1731747140,
+      "rank": 49,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 98249,
       "num": 376123,
       "word": "世界最佳旅游乡村我国新增7个",
@@ -16889,14 +16953,6 @@
       "onboard_time": 1731218959,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97827,
-      "num": 112340,
-      "word": "双城之战",
-      "onboard_time": 1731747140,
-      "rank": 49,
-      "category": "动漫,游戏"
     },
     {
       "raw_hot": 97749,
@@ -18979,6 +19035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58132,
+      "num": 191630,
+      "word": "双城人也有自己的痛车",
+      "onboard_time": 1731752721,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57573,
       "num": 151480,
       "word": "歼35A歼20苏57首次同台",
@@ -20124,7 +20188,7 @@
     },
     {
       "raw_hot": 43390,
-      "num": 156784,
+      "num": 193002,
       "word": "梁代文好多星星啊",
       "onboard_time": 1731751638,
       "rank": 36,
@@ -20347,6 +20411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40725,
+      "num": 157501,
+      "word": "王鹤棣沉浸盎然",
+      "onboard_time": 1731753021,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40623,
       "num": 323636,
       "word": "2024金鸡百花电影节",
@@ -20436,7 +20508,7 @@
     },
     {
       "raw_hot": 39566,
-      "num": 273526,
+      "num": 298054,
       "word": "神十九乘组看到快递发出一起鼓掌",
       "onboard_time": 1731746539,
       "rank": 8,
@@ -20689,6 +20761,14 @@
       "onboard_time": 1731693074,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37473,
+      "num": 293393,
+      "word": "人一生最多可以献血超过1000次",
+      "onboard_time": 1731753200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37442,
@@ -21625,6 +21705,14 @@
       "onboard_time": 1731647421,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30058,
+      "num": 137038,
+      "word": "尚雯婕跳舞 反向表情管理",
+      "onboard_time": 1731753439,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 29999,
@@ -23291,6 +23379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17631,
+      "num": 278694,
+      "word": "益生菌活君一号宣称降血压却非标",
+      "onboard_time": 1731752178,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17550,
       "num": 29957,
       "word": "4000名航展观众可以亲手摸到胖妞",
@@ -23393,14 +23489,6 @@
       "onboard_time": 1731432314,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16723,
-      "num": 271515,
-      "word": "益生菌活君一号宣称降血压却非标",
-      "onboard_time": 1731752178,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 16542,
@@ -24025,6 +24113,14 @@
       "onboard_time": 1731360911,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11175,
+      "num": 280115,
+      "word": "三体制片人称做微短剧失败因为不够Low",
+      "onboard_time": 1731753200,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 11159,

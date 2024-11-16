@@ -1,0 +1,410 @@
+{
+  "runTime": 1731753616947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676780,
+        "num": 1676780,
+        "word": "六公主发了赵丽颖大特写",
+        "onboard_time": 1731750679,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1098198,
+        "num": 1098198,
+        "word": "遭学生质问的10人间宿舍条件怎样",
+        "onboard_time": 1731748399,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47464,
+        "num": 796126,
+        "word": "老外报中餐菜名太溜了",
+        "onboard_time": 1731747020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633014,
+        "num": 633014,
+        "word": "献血100次可免费吃酒店自助餐",
+        "onboard_time": 1731735979,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624741,
+        "num": 624741,
+        "word": "惠英红 惠英绿",
+        "onboard_time": 1731750378,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306900,
+        "num": 306900,
+        "word": "AG对战狼队",
+        "onboard_time": 1731749960,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 508741,
+        "num": 306192,
+        "word": "金鸡奖红毯直拍",
+        "onboard_time": 1731750198,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134371,
+        "num": 300785,
+        "word": "AG拿到一血",
+        "onboard_time": 1731753200,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29361,
+        "num": 298054,
+        "word": "神十九乘组看到快递发出一起鼓掌",
+        "onboard_time": 1731746539,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37473,
+        "num": 293393,
+        "word": "人一生最多可以献血超过1000次",
+        "onboard_time": 1731753200,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508531,
+        "num": 291153,
+        "word": "金鸡奖直播",
+        "onboard_time": 1731748218,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1117589,
+        "num": 287377,
+        "word": "关晓彤红发",
+        "onboard_time": 1731751339,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 875215,
+        "num": 283976,
+        "word": "尹正爆料黄晓明杀青状态",
+        "onboard_time": 1731745938,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11175,
+        "num": 280115,
+        "word": "三体制片人称做微短剧失败因为不够Low",
+        "onboard_time": 1731753200,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17631,
+        "num": 278694,
+        "word": "益生菌活君一号宣称降血压却非标",
+        "onboard_time": 1731752178,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 475438,
+        "num": 272856,
+        "word": "蓝盈莹 共情李行亮",
+        "onboard_time": 1731750978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441592,
+        "num": 272482,
+        "word": "李子柒一身黑衣干练亮相微笑打招呼",
+        "onboard_time": 1731746299,
+        "rank": 16,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 436578,
+        "num": 268412,
+        "word": "官方通报男子骑车撞上供热管道身亡",
+        "onboard_time": 1731747620,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143593,
+        "num": 265250,
+        "word": "丁禹兮把直播间当成KTV",
+        "onboard_time": 1731753259,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115315,
+        "num": 260973,
+        "word": "周深KPL开幕式现场",
+        "onboard_time": 1731751339,
+        "rank": 19,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 474936,
+        "num": 258245,
+        "word": "虞书欣团综抹胸妆造",
+        "onboard_time": 1731744617,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412653,
+        "num": 255267,
+        "word": "赵丽颖生图",
+        "onboard_time": 1731752959,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374671,
+        "num": 250374,
+        "word": "武艺 你也没在乎我的感受",
+        "onboard_time": 1731747620,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322424,
+        "num": 246604,
+        "word": "富商被妻子绑架勒索4900万",
+        "onboard_time": 1731745398,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245294,
+        "num": 245294,
+        "word": "女子裸辞半年后转行当绿领收入翻番",
+        "onboard_time": 1731740777,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237738,
+        "num": 237738,
+        "word": "再见爱人背景音没消掉",
+        "onboard_time": 1731738318,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224261,
+        "num": 224261,
+        "word": "羡慕给王一博安检的安检员",
+        "onboard_time": 1731747558,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195970,
+        "num": 195970,
+        "word": "KPL总决赛现场太燃了",
+        "onboard_time": 1731753200,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39794,
+        "num": 193002,
+        "word": "梁代文好多星星啊",
+        "onboard_time": 1731751638,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58132,
+        "num": 191630,
+        "word": "双城人也有自己的痛车",
+        "onboard_time": 1731752721,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191601,
+        "num": 191601,
+        "word": "怀9胞胎女子靠输营养液保胎",
+        "onboard_time": 1731734298,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182542,
+        "num": 182542,
+        "word": "研究显示屁股大腿粗的人更长寿",
+        "onboard_time": 1731749179,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178450,
+        "num": 178450,
+        "word": "王一博金鸡奖颁奖典礼仪式入场",
+        "onboard_time": 1731751939,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163501,
+        "num": 163501,
+        "word": "考古麦琳微博",
+        "onboard_time": 1731736098,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163033,
+        "num": 163033,
+        "word": "陈都灵文潇封神镜头又多一个",
+        "onboard_time": 1731747739,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40725,
+        "num": 157501,
+        "word": "王鹤棣沉浸盎然",
+        "onboard_time": 1731753021,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157213,
+        "num": 157213,
+        "word": "理记 江秋莲",
+        "onboard_time": 1731744018,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139896,
+        "num": 139896,
+        "word": "韩国KGMA颁奖典礼",
+        "onboard_time": 1731747379,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30058,
+        "num": 137038,
+        "word": "尚雯婕跳舞 反向表情管理",
+        "onboard_time": 1731753439,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135351,
+        "num": 135351,
+        "word": "为攀岩打26个岩钉无知任性必须付出代价",
+        "onboard_time": 1731751038,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 134094,
+        "num": 134094,
+        "word": "被抢走330天后离世的3岁女童",
+        "onboard_time": 1731746658,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131489,
+        "num": 131489,
+        "word": "丁禹兮团综录制",
+        "onboard_time": 1731750499,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131179,
+        "num": 131179,
+        "word": "李行亮 如果我有病谁来治我",
+        "onboard_time": 1731731958,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129549,
+        "num": 129549,
+        "word": "AG剧透",
+        "onboard_time": 1731753380,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122375,
+        "num": 122375,
+        "word": "中国微波武器专治自杀无人机",
+        "onboard_time": 1731750558,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113151,
+        "num": 113151,
+        "word": "李行亮麦琳离婚理财收益怎么分",
+        "onboard_time": 1731748218,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110956,
+        "num": 110956,
+        "word": "杨紫三色蝴蝶结高定造型",
+        "onboard_time": 1731738738,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108277,
+        "num": 108277,
+        "word": "警方回应陕西一举报腐败电话是空号",
+        "onboard_time": 1731753081,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104061,
+        "num": 104061,
+        "word": "中级经济师",
+        "onboard_time": 1731752239,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98421,
+        "num": 103835,
+        "word": "双城之战",
+        "onboard_time": 1731747140,
+        "rank": 49,
+        "category": "动漫,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席这样阐述亚太合作#"
+    }
+  }
+}

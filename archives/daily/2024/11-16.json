@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731752544891,
+  "endTime": 1731753616947,
   "band_list": [
     {
       "raw_hot": 1743128,
@@ -19,8 +19,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1613899,
-      "num": 1613899,
+      "raw_hot": 1676780,
+      "num": 1676780,
       "word": "六公主发了赵丽颖大特写",
       "onboard_time": 1731750679,
       "rank": 0,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1248835,
-      "num": 272892,
+      "num": 283976,
       "word": "尹正爆料黄晓明杀青状态",
       "onboard_time": 1731745938,
       "rank": 15,
@@ -67,8 +67,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1031464,
-      "num": 1031464,
+      "raw_hot": 1117589,
+      "num": 287377,
+      "word": "关晓彤红发",
+      "onboard_time": 1731751339,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1098198,
+      "num": 1098198,
       "word": "遭学生质问的10人间宿舍条件怎样",
       "onboard_time": 1731748399,
       "rank": 9,
@@ -251,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624741,
+      "num": 624741,
+      "word": "惠英红 惠英绿",
+      "onboard_time": 1731750378,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 601089,
       "num": 270368,
       "word": "富商被妻子绑架勒索4900万",
       "onboard_time": 1731745398,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 599686,
-      "num": 599686,
-      "word": "惠英红 惠英绿",
-      "onboard_time": 1731750378,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 561761,
@@ -315,12 +323,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 470631,
-      "num": 271167,
-      "word": "关晓彤红发",
-      "onboard_time": 1731751339,
-      "rank": 15,
+      "raw_hot": 508741,
+      "num": 306192,
+      "word": "金鸡奖红毯直拍",
+      "onboard_time": 1731750198,
+      "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 475438,
+      "num": 272856,
+      "word": "蓝盈莹 共情李行亮",
+      "onboard_time": 1731750978,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 464972,
@@ -355,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 420857,
-      "num": 269695,
-      "word": "金鸡奖红毯直拍",
-      "onboard_time": 1731750198,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 420850,
       "num": 420850,
       "word": "39岁C罗倒钩",
@@ -377,6 +385,14 @@
       "onboard_time": 1731726438,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412653,
+      "num": 255267,
+      "word": "赵丽颖生图",
+      "onboard_time": 1731752959,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 412615,
@@ -539,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306900,
+      "num": 306900,
+      "word": "AG对战狼队",
+      "onboard_time": 1731749960,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304185,
       "num": 218986,
       "word": "徐冬冬完全把汉语和英语融合了",
@@ -699,14 +723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 241107,
-      "num": 241107,
-      "word": "AG对战狼队",
-      "onboard_time": 1731749960,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 236033,
       "num": 191661,
       "word": "珍珠蚌也会拉肚子",
@@ -729,14 +745,6 @@
       "onboard_time": 1731676640,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 222328,
-      "num": 222328,
-      "word": "蓝盈莹 共情李行亮",
-      "onboard_time": 1731750978,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 219247,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 204088,
-      "num": 204088,
+      "num": 260973,
       "word": "周深KPL开幕式现场",
       "onboard_time": 1731751339,
       "rank": 25,
@@ -865,6 +873,14 @@
       "onboard_time": 1731683420,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195970,
+      "num": 195970,
+      "word": "KPL总决赛现场太燃了",
+      "onboard_time": 1731753200,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 194812,
@@ -945,6 +961,14 @@
       "onboard_time": 1731746058,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182542,
+      "num": 219028,
+      "word": "研究显示屁股大腿粗的人更长寿",
+      "onboard_time": 1731749179,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181346,
@@ -1235,14 +1259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148793,
-      "num": 219028,
-      "word": "研究显示屁股大腿粗的人更长寿",
-      "onboard_time": 1731749179,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147153,
       "num": 186693,
       "word": "蔡徐坤库存持续loading",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1731717258,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143593,
+      "num": 265250,
+      "word": "丁禹兮把直播间当成KTV",
+      "onboard_time": 1731753259,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 143362,
@@ -1347,6 +1371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135351,
+      "num": 135351,
+      "word": "为攀岩打26个岩钉无知任性必须付出代价",
+      "onboard_time": 1731751038,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 134371,
+      "num": 300785,
+      "word": "AG拿到一血",
+      "onboard_time": 1731753200,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134013,
       "num": 275278,
       "word": "质问不修宿舍学生曾反映过宿舍漏水",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1731717198,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129549,
+      "num": 129549,
+      "word": "AG剧透",
+      "onboard_time": 1731753380,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 129341,
@@ -1619,6 +1667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108277,
+      "num": 108277,
+      "word": "警方回应陕西一举报腐败电话是空号",
+      "onboard_time": 1731753081,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 107509,
       "num": 107509,
       "word": "涂毓麟 欢迎来到毓言的奇妙之旅",
@@ -1771,20 +1827,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98421,
+      "num": 112340,
+      "word": "双城之战",
+      "onboard_time": 1731747140,
+      "rank": 49,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 98195,
       "num": 186629,
       "word": "杨紫编织冬的乐章",
       "onboard_time": 1731722178,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 97827,
-      "num": 112340,
-      "word": "双城之战",
-      "onboard_time": 1731747140,
-      "rank": 49,
-      "category": "动漫,游戏"
     },
     {
       "raw_hot": 97720,
@@ -2083,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58132,
+      "num": 191630,
+      "word": "双城人也有自己的痛车",
+      "onboard_time": 1731752721,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54366,
       "num": 270253,
       "word": "都暻秀心动时刻",
@@ -2140,7 +2204,7 @@
     },
     {
       "raw_hot": 43390,
-      "num": 156784,
+      "num": 193002,
       "word": "梁代文好多星星啊",
       "onboard_time": 1731751638,
       "rank": 36,
@@ -2163,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40725,
+      "num": 157501,
+      "word": "王鹤棣沉浸盎然",
+      "onboard_time": 1731753021,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39735,
       "num": 51589,
       "word": "涵艺怒喷Doinb",
@@ -2172,7 +2244,7 @@
     },
     {
       "raw_hot": 39566,
-      "num": 273526,
+      "num": 298054,
       "word": "神十九乘组看到快递发出一起鼓掌",
       "onboard_time": 1731746539,
       "rank": 8,
@@ -2201,6 +2273,14 @@
       "onboard_time": 1731693074,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37473,
+      "num": 293393,
+      "word": "人一生最多可以献血超过1000次",
+      "onboard_time": 1731753200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37023,
@@ -2313,6 +2393,14 @@
       "onboard_time": 1731737477,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30058,
+      "num": 137038,
+      "word": "尚雯婕跳舞 反向表情管理",
+      "onboard_time": 1731753439,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 29810,
@@ -2507,8 +2595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16723,
-      "num": 271515,
+      "raw_hot": 17631,
+      "num": 278694,
       "word": "益生菌活君一号宣称降血压却非标",
       "onboard_time": 1731752178,
       "rank": 14,
@@ -2625,6 +2713,14 @@
       "onboard_time": 1731690256,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11175,
+      "num": 280115,
+      "word": "三体制片人称做微短剧失败因为不够Low",
+      "onboard_time": 1731753200,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 10613,
