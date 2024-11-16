@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731785755046,
+  "endTime": 1731788569218,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -515,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25116,
+      "num": 25116,
+      "word": "群演变明星的概率越来越小",
+      "onboard_time": 1731784752,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24311,
       "num": 30681,
       "word": "中国担任APEC2026年东道主",
@@ -579,12 +587,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15316,
+      "num": 25035,
+      "word": "好事不说坏事不做顺其自然26年",
+      "onboard_time": 1731788532,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 14896,
       "num": 159316,
       "word": "SHUN理成张",
       "onboard_time": 1731772222,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13800,
+      "num": 37361,
+      "word": "APEC官方用车是中国新能源车",
+      "onboard_time": 1731787511,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13293,
@@ -625,6 +649,14 @@
       "onboard_time": 1731784812,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11228,
+      "num": 22522,
+      "word": "徐枫灿航展现场给观众发礼物",
+      "onboard_time": 1731787811,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 11005,

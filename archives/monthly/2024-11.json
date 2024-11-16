@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731785755046,
+  "endTime": 1731788569218,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -50235,6 +50235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 25116,
+      "num": 25116,
+      "word": "群演变明星的概率越来越小",
+      "onboard_time": 1731784752,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25101,
       "num": 424254,
       "word": "苦情短视频假剧情伤害真骑手",
@@ -52827,6 +52835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15316,
+      "num": 25035,
+      "word": "好事不说坏事不做顺其自然26年",
+      "onboard_time": 1731788532,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 15308,
       "num": 992244,
       "word": "一起看进博",
@@ -53265,6 +53281,14 @@
       "onboard_time": 1731053720,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13800,
+      "num": 37361,
+      "word": "APEC官方用车是中国新能源车",
+      "onboard_time": 1731787511,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13764,
@@ -53777,6 +53801,14 @@
       "onboard_time": 1731611171,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11228,
+      "num": 22522,
+      "word": "徐枫灿航展现场给观众发礼物",
+      "onboard_time": 1731787811,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 11216,
