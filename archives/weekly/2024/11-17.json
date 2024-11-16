@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731782531586,
+  "endTime": 1731784716307,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50799,
+      "num": 50799,
+      "word": "白夜破晓",
+      "onboard_time": 1731783612,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47142,
       "num": 158555,
       "word": "新疆沙漠里瓜果蔬菜水灵灵丰收了",
@@ -480,6 +488,14 @@
       "word": "永夜星河",
       "onboard_time": 1731757699,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33513,
+      "num": 33513,
+      "word": "小巷人家",
+      "onboard_time": 1731759800,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -497,6 +513,22 @@
       "onboard_time": 1731776238,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24311,
+      "num": 30681,
+      "word": "中国担任APEC2026年东道主",
+      "onboard_time": 1731782713,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23820,
+      "num": 30616,
+      "word": "乘船而去",
+      "onboard_time": 1731784632,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 22787,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 12798,
-      "num": 48555,
+      "num": 73587,
       "word": "APEC第31次领导人非正式会议",
       "onboard_time": 1731782353,
       "rank": 33,
