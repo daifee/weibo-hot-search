@@ -1,0 +1,410 @@
+{
+  "runTime": 1731734539808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076147,
+        "num": 1172183,
+        "word": "血站回应献血100次可免费吃自助餐",
+        "onboard_time": 1731732318,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 720586,
+        "num": 720586,
+        "word": "李行亮 如果我有病谁来治我",
+        "onboard_time": 1731731958,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49633,
+        "num": 608768,
+        "word": "秘鲁邮票上印有中国炒饭",
+        "onboard_time": 1731723978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 550864,
+        "num": 550864,
+        "word": "国企董事长回应运营总监高中学历",
+        "onboard_time": 1731726438,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 519699,
+        "num": 519699,
+        "word": "沈月文笔",
+        "onboard_time": 1731733339,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512319,
+        "num": 512319,
+        "word": "父母未尽抚养义务子女可拒绝赡养吗",
+        "onboard_time": 1731729678,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370946,
+        "num": 370946,
+        "word": "祝绪丹一次直播漏个大的",
+        "onboard_time": 1731704892,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331112,
+        "num": 331112,
+        "word": "泰森vs保罗",
+        "onboard_time": 1731728118,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238325,
+        "num": 238325,
+        "word": "久诚开团久哲",
+        "onboard_time": 1731732318,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22545,
+        "num": 236036,
+        "word": "你心中的金鸡奖最佳主角",
+        "onboard_time": 1731733638,
+        "rank": 9,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 915680,
+        "num": 233319,
+        "word": "丁禹兮火了之后第一步",
+        "onboard_time": 1731726737,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352795,
+        "num": 230957,
+        "word": "时代峰峻声明",
+        "onboard_time": 1731731238,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262926,
+        "num": 226469,
+        "word": "袁泉给女儿开家长会",
+        "onboard_time": 1731723678,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242720,
+        "num": 223325,
+        "word": "学校未责罚质问不修宿舍学生",
+        "onboard_time": 1731724638,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222149,
+        "num": 222149,
+        "word": "久诚晒聊天记录",
+        "onboard_time": 1731728357,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219247,
+        "num": 219247,
+        "word": "短发金晨",
+        "onboard_time": 1731732378,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215801,
+        "num": 215801,
+        "word": "官方称有80人满足免费吃自助餐条件",
+        "onboard_time": 1731734238,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205243,
+        "num": 205243,
+        "word": "国企高中学历总监称家里困难没上大学",
+        "onboard_time": 1731731598,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11846,
+        "num": 204957,
+        "word": "再见爱人直击感情中的表达困境",
+        "onboard_time": 1731733817,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20742,
+        "num": 204736,
+        "word": "霸总短剧如何俘获中老年人",
+        "onboard_time": 1731733878,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1027663,
+        "num": 204176,
+        "word": "黄晓明为近期争议道歉",
+        "onboard_time": 1731720618,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 941644,
+        "num": 203996,
+        "word": "郑钦文已解散粉丝群",
+        "onboard_time": 1731728957,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69250,
+        "num": 203273,
+        "word": "张婉婷说录再见爱人不是为了气观众",
+        "onboard_time": 1731723017,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66805,
+        "num": 203251,
+        "word": "周翊然生日会抢票",
+        "onboard_time": 1731734179,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511405,
+        "num": 202550,
+        "word": "李子柒回应奶奶有没有催婚",
+        "onboard_time": 1731726737,
+        "rank": 24,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 265035,
+        "num": 202141,
+        "word": "你盖被子的顺序可能错了",
+        "onboard_time": 1731729318,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202075,
+        "num": 202075,
+        "word": "怀9胞胎女子靠输营养液保胎",
+        "onboard_time": 1731734298,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31835,
+        "num": 199653,
+        "word": "白夜破晓高亚楠呢",
+        "onboard_time": 1731734419,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34430,
+        "num": 198929,
+        "word": "严浩翔录音侧颜照",
+        "onboard_time": 1731734478,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56945,
+        "num": 198885,
+        "word": "DLC可评选TGA年度游戏",
+        "onboard_time": 1731729498,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198850,
+        "num": 198850,
+        "word": "学校里的猫被喂成了三个型号",
+        "onboard_time": 1731729318,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191269,
+        "num": 191269,
+        "word": "麦琳像请回答1988罗美兰",
+        "onboard_time": 1731719177,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174788,
+        "num": 174788,
+        "word": "王珞丹杀回短发了",
+        "onboard_time": 1731732318,
+        "rank": 32,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 152441,
+        "num": 152441,
+        "word": "跟着李子柒做缙云烧饼",
+        "onboard_time": 1731731658,
+        "rank": 33,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 151081,
+        "num": 151081,
+        "word": "徐冬冬完全把汉语和英语融合了",
+        "onboard_time": 1731730038,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149828,
+        "num": 149828,
+        "word": "男大学生扮女装进女澡堂偷拍被抓",
+        "onboard_time": 1731733279,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143671,
+        "num": 143671,
+        "word": "国足直接晋级概率为2.2%",
+        "onboard_time": 1731729257,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131070,
+        "num": 131070,
+        "word": "追星后的反向收入",
+        "onboard_time": 1731730217,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129775,
+        "num": 129775,
+        "word": "鲜衣怒马少年时此刻具象化了",
+        "onboard_time": 1731732737,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125324,
+        "num": 125324,
+        "word": "官方回应8岁娃终身禁入熊猫基地",
+        "onboard_time": 1731684319,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123187,
+        "num": 123187,
+        "word": "你好星期六全员损友局",
+        "onboard_time": 1731726438,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121756,
+        "num": 121756,
+        "word": "王曼昱给患罕见病小朋友寄礼物",
+        "onboard_time": 1731730158,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113225,
+        "num": 113225,
+        "word": "白夜追凶2有费启鸣",
+        "onboard_time": 1731729619,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112154,
+        "num": 112154,
+        "word": "以闪亮之名",
+        "onboard_time": 1731732318,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155346,
+        "num": 111981,
+        "word": "丁禹兮应该开演唱会",
+        "onboard_time": 1731681440,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110241,
+        "num": 110241,
+        "word": "张家界一民房火灾致7人遇难",
+        "onboard_time": 1731729021,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106845,
+        "num": 106845,
+        "word": "珠帘玉幕造型师回应收腰囚服争议",
+        "onboard_time": 1731715876,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103478,
+        "num": 103478,
+        "word": "中国兵器过于先进无可奉告",
+        "onboard_time": 1731723617,
+        "rank": 47,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 95344,
+        "num": 95344,
+        "word": "郭沫若之子郭志鸿逝世",
+        "onboard_time": 1731730518,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94422,
+        "num": 94422,
+        "word": "aespa四个人的背影",
+        "onboard_time": 1731727038,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#互鉴#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731732213161,
+  "endTime": 1731734539808,
   "band_list": [
     {
       "raw_hot": 1697049,
@@ -25,6 +25,14 @@
       "onboard_time": 1731728957,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1076147,
+      "num": 1172183,
+      "word": "血站回应献血100次可免费吃自助餐",
+      "onboard_time": 1731732318,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1000232,
@@ -59,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 881052,
-      "num": 228237,
+      "raw_hot": 915680,
+      "num": 233319,
       "word": "丁禹兮火了之后第一步",
       "onboard_time": 1731726737,
       "rank": 11,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 730572,
-      "num": 199089,
+      "num": 202550,
       "word": "李子柒回应奶奶有没有催婚",
       "onboard_time": 1731726737,
       "rank": 20,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 720586,
+      "num": 720586,
+      "word": "李行亮 如果我有病谁来治我",
+      "onboard_time": 1731731958,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 668437,
@@ -145,6 +161,22 @@
       "onboard_time": 1731718577,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 519699,
+      "num": 519699,
+      "word": "沈月文笔",
+      "onboard_time": 1731733339,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 512319,
+      "num": 512319,
+      "word": "父母未尽抚养义务子女可拒绝赡养吗",
+      "onboard_time": 1731729678,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451427,
@@ -251,6 +283,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 331112,
+      "num": 331112,
+      "word": "泰森vs保罗",
+      "onboard_time": 1731728118,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304185,
       "num": 218986,
       "word": "徐冬冬完全把汉语和英语融合了",
@@ -289,6 +329,14 @@
       "onboard_time": 1731680901,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265035,
+      "num": 202141,
+      "word": "你盖被子的顺序可能错了",
+      "onboard_time": 1731729318,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 259212,
@@ -339,20 +387,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238325,
+      "num": 238325,
+      "word": "久诚开团久哲",
+      "onboard_time": 1731732318,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232640,
       "num": 209726,
       "word": "丁禹兮凌晨北海到达",
       "onboard_time": 1731717077,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231752,
-      "num": 195907,
-      "word": "你盖被子的顺序可能错了",
-      "onboard_time": 1731729318,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 230230,
@@ -363,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219247,
+      "num": 219247,
+      "word": "短发金晨",
+      "onboard_time": 1731732378,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216805,
       "num": 238162,
       "word": "中日关系处于改善发展的关键时期",
@@ -371,8 +427,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215801,
+      "num": 215801,
+      "word": "官方称有80人满足免费吃自助餐条件",
+      "onboard_time": 1731734238,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215247,
-      "num": 195934,
+      "num": 198850,
       "word": "学校里的猫被喂成了三个型号",
       "onboard_time": 1731729318,
       "rank": 21,
@@ -393,6 +457,14 @@
       "onboard_time": 1731686539,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 234742,
+      "word": "国企高中学历总监称家里困难没上大学",
+      "onboard_time": 1731731598,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203879,
@@ -417,6 +489,14 @@
       "onboard_time": 1731723617,
       "rank": 26,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 202075,
+      "num": 202075,
+      "word": "怀9胞胎女子靠输营养液保胎",
+      "onboard_time": 1731734298,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200915,
@@ -459,14 +539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188954,
-      "num": 188954,
-      "word": "泰森vs保罗",
-      "onboard_time": 1731728118,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186574,
       "num": 196187,
       "word": "永夜星河 女主戏份",
@@ -483,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186098,
-      "num": 197262,
-      "word": "父母未尽抚养义务子女可拒绝赡养吗",
-      "onboard_time": 1731729678,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175242,
       "num": 175242,
       "word": "官方回应学生质疑学校没钱修宿舍",
@@ -505,6 +569,14 @@
       "onboard_time": 1731690676,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 174788,
+      "num": 174788,
+      "word": "王珞丹杀回短发了",
+      "onboard_time": 1731732318,
+      "rank": 32,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 173778,
@@ -588,7 +660,7 @@
     },
     {
       "raw_hot": 162687,
-      "num": 191110,
+      "num": 203273,
       "word": "张婉婷说录再见爱人不是为了气观众",
       "onboard_time": 1731723017,
       "rank": 31,
@@ -667,20 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151225,
-      "num": 151225,
-      "word": "李行亮 如果我有病谁来治我",
-      "onboard_time": 1731731958,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 149441,
-      "num": 149441,
+      "raw_hot": 152441,
+      "num": 152441,
       "word": "跟着李子柒做缙云烧饼",
       "onboard_time": 1731731658,
       "rank": 32,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 149828,
+      "num": 149828,
+      "word": "男大学生扮女装进女澡堂偷拍被抓",
+      "onboard_time": 1731733279,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149363,
@@ -763,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131070,
+      "num": 131070,
+      "word": "追星后的反向收入",
+      "onboard_time": 1731730217,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130764,
       "num": 130764,
       "word": "大熊猫丽丽去世",
@@ -777,6 +857,14 @@
       "onboard_time": 1731717198,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129775,
+      "num": 129775,
+      "word": "鲜衣怒马少年时此刻具象化了",
+      "onboard_time": 1731732737,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129341,
@@ -819,16 +907,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122175,
-      "num": 122175,
-      "word": "追星后的反向收入",
-      "onboard_time": 1731730217,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119878,
-      "num": 119878,
+      "num": 198885,
       "word": "DLC可评选TGA年度游戏",
       "onboard_time": 1731729498,
       "rank": 46,
@@ -864,6 +944,14 @@
       "word": "星宝",
       "onboard_time": 1731721520,
       "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112154,
+      "num": 112154,
+      "word": "以闪亮之名",
+      "onboard_time": 1731732318,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -931,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102167,
-      "num": 234742,
-      "word": "国企高中学历总监称家里困难没上大学",
-      "onboard_time": 1731731598,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101426,
       "num": 101426,
       "word": "一群青壮年威胁瘦弱狗狗表演",
@@ -972,7 +1052,7 @@
     },
     {
       "raw_hot": 99971,
-      "num": 433181,
+      "num": 608768,
       "word": "秘鲁邮票上印有中国炒饭",
       "onboard_time": 1731723978,
       "rank": 40,
@@ -1033,6 +1113,14 @@
       "onboard_time": 1731725538,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95344,
+      "num": 239730,
+      "word": "郭沫若之子郭志鸿逝世",
+      "onboard_time": 1731730518,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95255,
@@ -1211,20 +1299,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66805,
+      "num": 203251,
+      "word": "周翊然生日会抢票",
+      "onboard_time": 1731734179,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66428,
       "num": 156160,
       "word": "赵小童拍的青岛秋天",
       "onboard_time": 1731688457,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65335,
-      "num": 239730,
-      "word": "郭沫若之子郭志鸿逝世",
-      "onboard_time": 1731730518,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65209,
@@ -1315,12 +1403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34430,
+      "num": 198929,
+      "word": "严浩翔录音侧颜照",
+      "onboard_time": 1731734478,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32608,
       "num": 95836,
       "word": "赵一博主场少年合体现身澳门",
       "onboard_time": 1731686599,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31835,
+      "num": 199653,
+      "word": "白夜破晓高亚楠呢",
+      "onboard_time": 1731734419,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 31622,
@@ -1403,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22545,
+      "num": 236036,
+      "word": "你心中的金鸡奖最佳主角",
+      "onboard_time": 1731733638,
+      "rank": 9,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 21672,
       "num": 40513,
       "word": "中秘同为文明古国",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1731695053,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 20742,
+      "num": 204736,
+      "word": "霸总短剧如何俘获中老年人",
+      "onboard_time": 1731733878,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 20158,
@@ -1499,6 +1619,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11846,
+      "num": 204957,
+      "word": "再见爱人直击感情中的表达困境",
+      "onboard_time": 1731733817,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11723,
       "num": 27854,
       "word": "大冰助麦子阿姨往南走委托朋友护送",
@@ -1565,6 +1693,9 @@
     },
     {
       "word": "#中秘文明交相辉映之处#"
+    },
+    {
+      "word": "#互鉴#"
     }
   ]
 }
