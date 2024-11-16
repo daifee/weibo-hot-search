@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731726498264,
+  "endTime": 1731727982427,
   "band_list": [
     {
       "raw_hot": 1697049,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 756026,
+      "num": 202204,
+      "word": "丁禹兮火了之后第一步",
+      "onboard_time": 1731726737,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743111,
       "num": 254197,
       "word": "袁泉给女儿开家长会",
@@ -88,6 +96,14 @@
       "word": "人被被子单杀可能性几乎但并不为零",
       "onboard_time": 1731686899,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561761,
+      "num": 561761,
+      "word": "学校未责罚质问不修宿舍学生",
+      "onboard_time": 1731724638,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -155,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362325,
+      "num": 294938,
+      "word": "你好星期六全员损友局",
+      "onboard_time": 1731726438,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358522,
       "num": 358522,
       "word": "16万元的婚宴菜不热能索赔吗",
@@ -195,6 +219,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 325095,
+      "num": 181305,
+      "word": "李子柒回应奶奶有没有催婚",
+      "onboard_time": 1731726737,
+      "rank": 20,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 286552,
       "num": 286552,
       "word": "吴梦知从湖南卫视离职",
@@ -224,14 +256,6 @@
       "word": "教体局回应学生吐槽学校被闭麦拉走",
       "onboard_time": 1731680901,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252941,
-      "num": 252941,
-      "word": "学校未责罚质问不修宿舍学生",
-      "onboard_time": 1731724638,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -291,7 +315,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 207462,
+      "raw_hot": 208940,
       "num": 207462,
       "word": "白夜破晓全阵容官宣",
       "onboard_time": 1731726377,
@@ -353,14 +377,6 @@
       "onboard_time": 1731713054,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190991,
-      "num": 190991,
-      "word": "你好星期六全员损友局",
-      "onboard_time": 1731726438,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 186574,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159677,
+      "num": 159677,
+      "word": "黄金跌上热搜有人抄底买1公斤金条",
+      "onboard_time": 1731726377,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158623,
       "num": 158623,
       "word": "四川文旅出手全是王炸",
@@ -481,6 +505,14 @@
       "onboard_time": 1731656060,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153604,
+      "num": 129780,
+      "word": "勇士vs鹈鹕",
+      "onboard_time": 1731726917,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 149363,
@@ -531,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133486,
+      "num": 133486,
+      "word": "aespa四个人的背影",
+      "onboard_time": 1731727038,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "齐哥收拾收拾准备升咖吧",
@@ -571,6 +611,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125244,
+      "num": 239066,
+      "word": "国企董事长回应运营总监高中学历",
+      "onboard_time": 1731726438,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 123229,
+      "num": 228141,
+      "word": "尤长靖三折叠人形立牌",
+      "onboard_time": 1731725838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114989,
       "num": 114989,
       "word": "特朗普宣布多项任命",
@@ -603,12 +659,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110461,
-      "num": 110461,
-      "word": "黄金跌上热搜有人抄底买1公斤金条",
-      "onboard_time": 1731726377,
-      "rank": 40,
-      "category": "财经"
+      "raw_hot": 111867,
+      "num": 111867,
+      "word": "KPL",
+      "onboard_time": 1731726678,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 110360,
@@ -723,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98901,
+      "num": 98901,
+      "word": "航天员要考近100门学科是标配",
+      "onboard_time": 1731727217,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98195,
       "num": 186629,
       "word": "杨紫编织冬的乐章",
@@ -811,6 +875,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83355,
+      "num": 254928,
+      "word": "11月起黄金变现激增",
+      "onboard_time": 1731724397,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 83235,
+      "num": 254041,
+      "word": "国足刚下飞机就训练",
+      "onboard_time": 1731725538,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82840,
       "num": 153309,
       "word": "故宫博物院原常务副院长王亚民被查",
@@ -833,6 +913,14 @@
       "onboard_time": 1731692713,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81039,
+      "num": 81039,
+      "word": "十万狂花入梦来 古偶玩惊悚",
+      "onboard_time": 1731727938,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 79946,
@@ -875,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71042,
-      "num": 254928,
-      "word": "11月起黄金变现激增",
-      "onboard_time": 1731724397,
-      "rank": 9,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 69394,
       "num": 69394,
       "word": "aespa获TikTok颁奖礼年度艺人",
@@ -907,14 +987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66718,
-      "num": 239066,
-      "word": "国企董事长回应运营总监高中学历",
-      "onboard_time": 1731726438,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 66428,
       "num": 156160,
       "word": "赵小童拍的青岛秋天",
@@ -931,11 +1003,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63886,
-      "num": 228141,
-      "word": "尤长靖三折叠人形立牌",
-      "onboard_time": 1731725838,
-      "rank": 29,
+      "raw_hot": 61077,
+      "num": 106385,
+      "word": "宋轶复古波点碎钻裙",
+      "onboard_time": 1731723378,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -947,20 +1019,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56048,
-      "num": 254041,
-      "word": "国足刚下飞机就训练",
-      "onboard_time": 1731725538,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47659,
       "num": 47659,
       "word": "王安宇 破碎小狗",
       "onboard_time": 1731704831,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47194,
+      "num": 226479,
+      "word": "姐弟俩偷盗为网店供货",
+      "onboard_time": 1731726256,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42169,
@@ -1059,14 +1131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25705,
-      "num": 226479,
-      "word": "姐弟俩偷盗为网店供货",
-      "onboard_time": 1731726256,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25613,
       "num": 33487,
       "word": "李子柒拜非遗蓝印花布传人王振兴为师",
@@ -1155,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12499,
+      "num": 99139,
+      "word": "被仓鼠视角的猫萌晕了",
+      "onboard_time": 1731727338,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 11723,
       "num": 27854,
       "word": "大冰助麦子阿姨往南走委托朋友护送",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1731702730,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6530,
+      "num": 184933,
+      "word": "TWS南山塔挂锁",
+      "onboard_time": 1731727697,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 6134,

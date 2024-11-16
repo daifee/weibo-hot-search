@@ -1,0 +1,410 @@
+{
+  "runTime": 1731727982427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666454,
+        "num": 1106632,
+        "word": "祝绪丹一次直播漏个大的",
+        "onboard_time": 1731704892,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561761,
+        "num": 561761,
+        "word": "学校未责罚质问不修宿舍学生",
+        "onboard_time": 1731724638,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3583,
+        "num": 374422,
+        "word": "航拍秘鲁钱凯港",
+        "onboard_time": 1731678320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365296,
+        "num": 365296,
+        "word": "麦琳像请回答1988罗美兰",
+        "onboard_time": 1731719177,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302457,
+        "num": 302457,
+        "word": "16万元的婚宴菜不热能索赔吗",
+        "onboard_time": 1731702791,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 332035,
+        "num": 302300,
+        "word": "中铁七局道歉",
+        "onboard_time": 1731715817,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 362325,
+        "num": 294938,
+        "word": "你好星期六全员损友局",
+        "onboard_time": 1731726438,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270369,
+        "num": 270369,
+        "word": "珠帘玉幕造型师回应收腰囚服争议",
+        "onboard_time": 1731715876,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206728,
+        "num": 206728,
+        "word": "39岁C罗倒钩",
+        "onboard_time": 1731716477,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125244,
+        "num": 204851,
+        "word": "国企董事长回应运营总监高中学历",
+        "onboard_time": 1731726438,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1661588,
+        "num": 204180,
+        "word": "黄晓明为近期争议道歉",
+        "onboard_time": 1731720618,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 756026,
+        "num": 202204,
+        "word": "丁禹兮火了之后第一步",
+        "onboard_time": 1731726737,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729578,
+        "num": 199443,
+        "word": "袁泉给女儿开家长会",
+        "onboard_time": 1731723678,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271291,
+        "num": 196236,
+        "word": "德连环强奸案嫌疑人系43岁中国公民",
+        "onboard_time": 1731683600,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265613,
+        "num": 194711,
+        "word": "官方通报中学生质问学校问题核查情况",
+        "onboard_time": 1731718577,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 237291,
+        "num": 191994,
+        "word": "人生不设限的一博为金鸡再添热烈",
+        "onboard_time": 1731721758,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226244,
+        "num": 191235,
+        "word": "王昶 钱天一",
+        "onboard_time": 1731684498,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213023,
+        "num": 188659,
+        "word": "成龙呼吁大家到电影院看电影",
+        "onboard_time": 1731712574,
+        "rank": 17,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 6530,
+        "num": 184933,
+        "word": "TWS南山塔挂锁",
+        "onboard_time": 1731727697,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47194,
+        "num": 183566,
+        "word": "姐弟俩偷盗为网店供货",
+        "onboard_time": 1731726256,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325095,
+        "num": 181305,
+        "word": "李子柒回应奶奶有没有催婚",
+        "onboard_time": 1731726737,
+        "rank": 20,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 286768,
+        "num": 179633,
+        "word": "官方回应8岁娃终身禁入熊猫基地",
+        "onboard_time": 1731684319,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208940,
+        "num": 177530,
+        "word": "白夜破晓全阵容官宣",
+        "onboard_time": 1731726377,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175818,
+        "num": 175818,
+        "word": "中国兵器过于先进无可奉告",
+        "onboard_time": 1731723617,
+        "rank": 23,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 175651,
+        "num": 175651,
+        "word": "中日关系处于改善发展的关键时期",
+        "onboard_time": 1731724158,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159677,
+        "num": 159677,
+        "word": "黄金跌上热搜有人抄底买1公斤金条",
+        "onboard_time": 1731726377,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153812,
+        "num": 153812,
+        "word": "女子称将狗借给剧组当群演1年多未还",
+        "onboard_time": 1731712635,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150584,
+        "num": 150584,
+        "word": "张婉婷说录再见爱人不是为了气观众",
+        "onboard_time": 1731723017,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133486,
+        "num": 133486,
+        "word": "aespa四个人的背影",
+        "onboard_time": 1731727038,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129853,
+        "num": 129853,
+        "word": "人被被子单杀可能性几乎但并不为零",
+        "onboard_time": 1731686899,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153604,
+        "num": 129780,
+        "word": "勇士vs鹈鹕",
+        "onboard_time": 1731726917,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126829,
+        "num": 126829,
+        "word": "煮虾别等水开了才下锅",
+        "onboard_time": 1731690676,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125429,
+        "num": 125429,
+        "word": "女子被骗不听劝称喜欢把钱扔水里",
+        "onboard_time": 1731724277,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123229,
+        "num": 123961,
+        "word": "尤长靖三折叠人形立牌",
+        "onboard_time": 1731725838,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123430,
+        "num": 123430,
+        "word": "以军在加沙行为符合种族灭绝特征",
+        "onboard_time": 1731722777,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122103,
+        "num": 122103,
+        "word": "KPL年总决赛首发名单",
+        "onboard_time": 1731725956,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121426,
+        "num": 121426,
+        "word": "天舟八号成功对接空间站",
+        "onboard_time": 1731717258,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111867,
+        "num": 111867,
+        "word": "KPL",
+        "onboard_time": 1731726678,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108512,
+        "num": 108512,
+        "word": "蔡琳否认不让高梓淇见儿子",
+        "onboard_time": 1731712754,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107699,
+        "num": 107699,
+        "word": "家长觉得孩子反常查监控发现被虐待",
+        "onboard_time": 1731718818,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107307,
+        "num": 107307,
+        "word": "特朗普宣布多项任命",
+        "onboard_time": 1731713837,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61077,
+        "num": 106385,
+        "word": "宋轶复古波点碎钻裙",
+        "onboard_time": 1731723378,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105764,
+        "num": 105764,
+        "word": "丁禹兮凌晨北海到达",
+        "onboard_time": 1731717077,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100296,
+        "num": 100296,
+        "word": "记者采访被袭中铁七局5人就地免职",
+        "onboard_time": 1731693554,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12499,
+        "num": 99139,
+        "word": "被仓鼠视角的猫萌晕了",
+        "onboard_time": 1731727338,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98901,
+        "num": 98901,
+        "word": "航天员要考近100门学科是标配",
+        "onboard_time": 1731727217,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90706,
+        "num": 90706,
+        "word": "Doinb自曝要一亿买LPL名额",
+        "onboard_time": 1731713054,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83355,
+        "num": 83355,
+        "word": "11月起黄金变现激增",
+        "onboard_time": 1731724397,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 83235,
+        "num": 83235,
+        "word": "国足刚下飞机就训练",
+        "onboard_time": 1731725538,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81039,
+        "num": 81039,
+        "word": "十万狂花入梦来 古偶玩惊悚",
+        "onboard_time": 1731727938,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动普惠包容的经济全球化#"
+    }
+  }
+}
