@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731725892321,
+  "endTime": 1731726498264,
   "band_list": [
     {
       "raw_hot": 1697049,
@@ -291,6 +291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 207462,
+      "num": 207462,
+      "word": "白夜破晓全阵容官宣",
+      "onboard_time": 1731726377,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203879,
       "num": 195022,
       "word": "家长觉得孩子反常查监控发现被虐待",
@@ -305,6 +313,14 @@
       "onboard_time": 1731687918,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203310,
+      "num": 203310,
+      "word": "中国兵器过于先进无可奉告",
+      "onboard_time": 1731723617,
+      "rank": 26,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 200915,
@@ -339,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190991,
+      "num": 190991,
+      "word": "你好星期六全员损友局",
+      "onboard_time": 1731726438,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186574,
       "num": 196187,
       "word": "永夜星河 女主戏份",
@@ -356,19 +380,11 @@
     },
     {
       "raw_hot": 184593,
-      "num": 184593,
+      "num": 238162,
       "word": "中日关系处于改善发展的关键时期",
       "onboard_time": 1731724158,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 177471,
-      "num": 177471,
-      "word": "中国兵器过于先进无可奉告",
-      "onboard_time": 1731723617,
-      "rank": 26,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 175238,
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162687,
+      "num": 162687,
+      "word": "张婉婷说录再见爱人不是为了气观众",
+      "onboard_time": 1731723017,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158623,
       "num": 158623,
       "word": "四川文旅出手全是王炸",
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 157535,
-      "num": 157535,
+      "num": 239248,
       "word": "以军在加沙行为符合种族灭绝特征",
       "onboard_time": 1731722777,
       "rank": 48,
@@ -457,14 +481,6 @@
       "onboard_time": 1731656060,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154744,
-      "num": 154744,
-      "word": "张婉婷说录再见爱人不是为了气观众",
-      "onboard_time": 1731723017,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 149363,
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133706,
+      "num": 200675,
+      "word": "女子被骗不听劝称喜欢把钱扔水里",
+      "onboard_time": 1731724277,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "齐哥收拾收拾准备升咖吧",
@@ -539,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127948,
+      "num": 163344,
+      "word": "KPL年总决赛首发名单",
+      "onboard_time": 1731725956,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114989,
       "num": 114989,
       "word": "特朗普宣布多项任命",
@@ -569,6 +601,14 @@
       "onboard_time": 1731721520,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110461,
+      "num": 110461,
+      "word": "黄金跌上热搜有人抄底买1公斤金条",
+      "onboard_time": 1731726377,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 110360,
@@ -659,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99776,
+      "num": 99776,
+      "word": "于洪文旅副局长火了后被争相模仿",
+      "onboard_time": 1731724997,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99070,
       "num": 99070,
       "word": "国足取胜后男生宿舍沸腾了",
@@ -705,14 +753,6 @@
       "onboard_time": 1731725298,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 92114,
-      "num": 92114,
-      "word": "于洪文旅副局长火了后被争相模仿",
-      "onboard_time": 1731724997,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88228,
@@ -835,12 +875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73475,
-      "num": 200675,
-      "word": "女子被骗不听劝称喜欢把钱扔水里",
-      "onboard_time": 1731724277,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 71042,
+      "num": 254928,
+      "word": "11月起黄金变现激增",
+      "onboard_time": 1731724397,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 69394,
@@ -867,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66718,
+      "num": 239066,
+      "word": "国企董事长回应运营总监高中学历",
+      "onboard_time": 1731726438,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 66428,
       "num": 156160,
       "word": "赵小童拍的青岛秋天",
@@ -883,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63886,
+      "num": 228141,
+      "word": "尤长靖三折叠人形立牌",
+      "onboard_time": 1731725838,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58954,
       "num": 56691,
       "word": "关晓彤吴艳妮活动同框",
@@ -891,12 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52226,
-      "num": 254928,
-      "word": "11月起黄金变现激增",
-      "onboard_time": 1731724397,
-      "rank": 9,
-      "category": "民生新闻,财经"
+      "raw_hot": 56048,
+      "num": 254041,
+      "word": "国足刚下飞机就训练",
+      "onboard_time": 1731725538,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 47659,
@@ -905,14 +961,6 @@
       "onboard_time": 1731704831,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43930,
-      "num": 158533,
-      "word": "尤长靖三折叠人形立牌",
-      "onboard_time": 1731725838,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 42169,
@@ -971,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29847,
-      "num": 254041,
-      "word": "国足刚下飞机就训练",
-      "onboard_time": 1731725538,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29560,
       "num": 29560,
       "word": "登陆少年组合登陆金鸡",
@@ -1003,12 +1043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27429,
+      "num": 253720,
+      "word": "台积电在美国遭指控",
+      "onboard_time": 1731725358,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26780,
       "num": 40628,
       "word": "李在明被判有期徒刑1年",
       "onboard_time": 1731695892,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25705,
+      "num": 226479,
+      "word": "姐弟俩偷盗为网店供货",
+      "onboard_time": 1731726256,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25613,
@@ -1113,14 +1169,6 @@
       "onboard_time": 1731690256,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11462,
-      "num": 253720,
-      "word": "台积电在美国遭指控",
-      "onboard_time": 1731725358,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10613,
