@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731741623482,
+  "endTime": 1731742538999,
   "band_list": [
     {
       "raw_hot": 1743128,
@@ -131,20 +131,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762894,
+      "num": 762894,
+      "word": "再见爱人背景音没消掉",
+      "onboard_time": 1731738318,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743111,
       "num": 254197,
       "word": "袁泉给女儿开家长会",
       "onboard_time": 1731723678,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 738510,
-      "num": 738510,
-      "word": "再见爱人背景音没消掉",
-      "onboard_time": 1731738318,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 730572,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 513817,
-      "num": 210465,
+      "num": 211048,
       "word": "怀9胞胎女子靠输营养液保胎",
       "onboard_time": 1731734298,
       "rank": 26,
@@ -371,6 +371,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 338961,
+      "num": 256470,
+      "word": "珠帘玉幕 处处吻",
+      "onboard_time": 1731741318,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337496,
       "num": 337496,
       "word": "成龙呼吁大家到电影院看电影",
@@ -385,6 +393,14 @@
       "onboard_time": 1731731598,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313614,
+      "num": 227407,
+      "word": "放假去埃及玩的人嘴真严啊",
+      "onboard_time": 1731737418,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 310780,
@@ -467,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256060,
+      "num": 219650,
+      "word": "德华被挤出C位",
+      "onboard_time": 1731739820,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252923,
       "num": 214915,
       "word": "白夜破晓全阵容官宣",
@@ -529,14 +553,6 @@
       "onboard_time": 1731676640,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 220041,
-      "num": 220041,
-      "word": "放假去埃及玩的人嘴真严啊",
-      "onboard_time": 1731737418,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 219247,
@@ -611,6 +627,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 201542,
+      "num": 201542,
+      "word": "焦俊艳回应再见爱人最大受益者",
+      "onboard_time": 1731739579,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200915,
       "num": 200915,
       "word": "女子称将狗借给剧组当群演1年多未还",
@@ -633,22 +657,6 @@
       "onboard_time": 1731683420,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197608,
-      "num": 188479,
-      "word": "焦俊艳回应再见爱人最大受益者",
-      "onboard_time": 1731739579,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195657,
-      "num": 195657,
-      "word": "德华被挤出C位",
-      "onboard_time": 1731739820,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 194812,
@@ -675,6 +683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191188,
+      "num": 242272,
+      "word": "女子裸辞半年后转行当绿领收入翻番",
+      "onboard_time": 1731740777,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186574,
       "num": 196187,
       "word": "永夜星河 女主戏份",
@@ -688,14 +704,6 @@
       "word": "枭起青壤预约量破100万",
       "onboard_time": 1731722357,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 182887,
-      "num": 182887,
-      "word": "珠帘玉幕 处处吻",
-      "onboard_time": 1731741318,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -851,6 +859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158665,
+      "num": 158665,
+      "word": "涵艺连续爆料",
+      "onboard_time": 1731741437,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158623,
       "num": 158623,
       "word": "四川文旅出手全是王炸",
@@ -873,14 +889,6 @@
       "onboard_time": 1731730759,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155782,
-      "num": 155782,
-      "word": "女子裸辞半年后转行当绿领收入翻番",
-      "onboard_time": 1731740777,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155171,
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 140876,
-      "num": 157822,
+      "num": 214535,
       "word": "虞书欣鱼缸光影大片",
       "onboard_time": 1731739998,
       "rank": 26,
@@ -1075,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129018,
+      "num": 129018,
+      "word": "这跟上班有什么区别",
+      "onboard_time": 1731741318,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128895,
       "num": 128895,
       "word": "福克斯60分",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1731728357,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124877,
+      "num": 124877,
+      "word": "丁程鑫述职小会",
+      "onboard_time": 1731742277,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 123857,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1731684201,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107068,
-      "num": 107068,
-      "word": "这跟上班有什么区别",
-      "onboard_time": 1731741318,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 106544,
@@ -1411,12 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88870,
-      "num": 88870,
-      "word": "涵艺连续爆料",
-      "onboard_time": 1731741437,
-      "rank": 45,
-      "category": "电竞"
+      "raw_hot": 91414,
+      "num": 91414,
+      "word": "十个勤天叫哥哥最多的一集",
+      "onboard_time": 1731741737,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 88228,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1731684438,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84527,
+      "num": 84527,
+      "word": "好东西",
+      "onboard_time": 1731742158,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 84355,
@@ -1635,6 +1659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 47743,
+      "num": 224965,
+      "word": "农村老人取快递要走6公里",
+      "onboard_time": 1731740958,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47659,
       "num": 47659,
       "word": "王安宇 破碎小狗",
@@ -1724,7 +1756,7 @@
     },
     {
       "raw_hot": 33956,
-      "num": 133546,
+      "num": 204504,
       "word": "尊界这一界太尊了",
       "onboard_time": 1731741019,
       "rank": 34,
@@ -1763,20 +1795,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 31513,
+      "num": 195016,
+      "word": "培训机构套现离场为何如此潇酒",
+      "onboard_time": 1731740717,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 31235,
       "num": 184861,
       "word": "韩国体坛的前辈霸凌",
       "onboard_time": 1731737477,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30623,
-      "num": 220580,
-      "word": "农村老人取快递要走6公里",
-      "onboard_time": 1731740958,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29560,
@@ -1833,14 +1865,6 @@
       "onboard_time": 1731704470,
       "rank": 40,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 24896,
-      "num": 191855,
-      "word": "培训机构套现离场为何如此潇酒",
-      "onboard_time": 1731740717,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 24671,
