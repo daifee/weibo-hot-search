@@ -1,0 +1,410 @@
+{
+  "runTime": 1731792029336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 113433,
+        "num": 129260,
+        "word": "俄罗斯宣布临时限制向美出口浓缩铀",
+        "onboard_time": 1731778515,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96083,
+        "num": 96083,
+        "word": "李庚希金鸡影后",
+        "onboard_time": 1731765565,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2345,
+        "num": 85663,
+        "word": "男子在秘鲁40多年开了60多家中餐厅",
+        "onboard_time": 1731759020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80564,
+        "num": 80564,
+        "word": "虞书欣丁禹兮hi6收视率历史最高",
+        "onboard_time": 1731774319,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39036,
+        "num": 39036,
+        "word": "江苏盐城村干部被曝工作日聚餐饮酒",
+        "onboard_time": 1731766885,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 38426,
+        "num": 38426,
+        "word": "广州打破最长夏天纪录",
+        "onboard_time": 1731773328,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41091,
+        "num": 38422,
+        "word": "00花第一位金鸡影后",
+        "onboard_time": 1731774141,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38285,
+        "num": 38285,
+        "word": "秦海璐又在金鸡后台睡着了",
+        "onboard_time": 1731772161,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35123,
+        "num": 35123,
+        "word": "AG夺冠",
+        "onboard_time": 1731765565,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25906,
+        "num": 25906,
+        "word": "王昭君FMVP皮肤",
+        "onboard_time": 1731767005,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198396,
+        "num": 25887,
+        "word": "资源咖",
+        "onboard_time": 1731774319,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128194,
+        "num": 25876,
+        "word": "淮北师大称警方已介入",
+        "onboard_time": 1731789731,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76412,
+        "num": 25833,
+        "word": "张家界火灾遇难者系一家祖孙三代",
+        "onboard_time": 1731772102,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71348,
+        "num": 25812,
+        "word": "派出所回应丢38吨稻谷报警被怼",
+        "onboard_time": 1731772102,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54159,
+        "num": 25789,
+        "word": "黄晓明一个月瘦了15公斤",
+        "onboard_time": 1731772222,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36239,
+        "num": 25777,
+        "word": "徐静蕾",
+        "onboard_time": 1731768562,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30367,
+        "num": 25726,
+        "word": "姜妍是虞书欣的认证闺蜜",
+        "onboard_time": 1731772161,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29247,
+        "num": 25724,
+        "word": "大梦归离大结局",
+        "onboard_time": 1731759380,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26514,
+        "num": 25692,
+        "word": "林保怡 可惜",
+        "onboard_time": 1731767905,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12388,
+        "num": 25659,
+        "word": "天舟八号快递是怎么打包派送的",
+        "onboard_time": 1731791831,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137455,
+        "num": 25636,
+        "word": "特朗普说马斯克喜欢我家赶都赶不走他",
+        "onboard_time": 1731772041,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29703,
+        "num": 25609,
+        "word": "69岁产女婴老夫妻为女儿过5岁生日",
+        "onboard_time": 1731755418,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25597,
+        "num": 25597,
+        "word": "李庚希说了7个非常感谢",
+        "onboard_time": 1731772102,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23368,
+        "num": 23368,
+        "word": "小渔船一网下去捞起美国核潜艇",
+        "onboard_time": 1731777257,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22369,
+        "num": 22369,
+        "word": "奥地利称俄停止向其供应天然气",
+        "onboard_time": 1731772102,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22070,
+        "num": 22070,
+        "word": "王者荣耀",
+        "onboard_time": 1731773899,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21242,
+        "num": 21242,
+        "word": "王一博站起来为热烈鼓掌",
+        "onboard_time": 1731767005,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20532,
+        "num": 20532,
+        "word": "空军军乐团指挥航展群众齐唱歌唱祖国",
+        "onboard_time": 1731766885,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20133,
+        "num": 20133,
+        "word": "六公主发了赵丽颖大特写",
+        "onboard_time": 1731750679,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19684,
+        "num": 19684,
+        "word": "王者荣耀王昭君",
+        "onboard_time": 1731773781,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12144,
+        "num": 19676,
+        "word": "专属于航天员的拆快递乐趣",
+        "onboard_time": 1731791171,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92705,
+        "num": 19676,
+        "word": "金鸡 离谱",
+        "onboard_time": 1731767366,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23424,
+        "num": 19675,
+        "word": "男子称快递370克黄金被代签收损失20万",
+        "onboard_time": 1731789731,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19675,
+        "num": 19674,
+        "word": "小巷人家",
+        "onboard_time": 1731759800,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19414,
+        "num": 19414,
+        "word": "中国担任APEC2026年东道主",
+        "onboard_time": 1731782713,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19378,
+        "num": 19378,
+        "word": "关晓彤红发",
+        "onboard_time": 1731751339,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18622,
+        "num": 18622,
+        "word": "永夜星河团综",
+        "onboard_time": 1731773841,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18614,
+        "num": 18614,
+        "word": "捐日军侵华罪行相册的美国小伙来中国了",
+        "onboard_time": 1731765805,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18460,
+        "num": 18460,
+        "word": "留几手向麦琳道歉",
+        "onboard_time": 1731756740,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18076,
+        "num": 18076,
+        "word": "小巷人家提档",
+        "onboard_time": 1731772282,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17712,
+        "num": 17712,
+        "word": "白夜破晓",
+        "onboard_time": 1731783612,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17664,
+        "num": 17664,
+        "word": "群演变明星的概率越来越小",
+        "onboard_time": 1731784752,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17351,
+        "num": 17351,
+        "word": "烧伤妈妈恢复期忍痛练习吃饭",
+        "onboard_time": 1731784453,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16893,
+        "num": 16893,
+        "word": "阿娇王晓晨新剧白蛇青蛇",
+        "onboard_time": 1731772941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16632,
+        "num": 16892,
+        "word": "雷佳音金鸡影帝",
+        "onboard_time": 1731765082,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16365,
+        "num": 16890,
+        "word": "格林威治",
+        "onboard_time": 1731773541,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15885,
+        "num": 16889,
+        "word": "这就是解放军的硬核浪漫",
+        "onboard_time": 1731779955,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 15276,
+        "num": 16888,
+        "word": "天狼星由我们AG亲手熄灭",
+        "onboard_time": 1731772041,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14327,
+        "num": 16887,
+        "word": "APEC官方用车是中国新能源车",
+        "onboard_time": 1731787511,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14200,
+        "num": 16886,
+        "word": "NEWJEANS颁奖词感谢闵熙珍",
+        "onboard_time": 1731772881,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席APEC领导人非正式会议#"
+    }
+  }
+}
