@@ -1,0 +1,410 @@
+{
+  "runTime": 1731732213161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 874380,
+        "num": 1139900,
+        "word": "国企董事长回应运营总监高中学历",
+        "onboard_time": 1731726438,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 455124,
+        "num": 455124,
+        "word": "祝绪丹一次直播漏个大的",
+        "onboard_time": 1731704892,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46714,
+        "num": 433181,
+        "word": "秘鲁邮票上印有中国炒饭",
+        "onboard_time": 1731723978,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412615,
+        "num": 412615,
+        "word": "时代峰峻声明",
+        "onboard_time": 1731731238,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247556,
+        "num": 247556,
+        "word": "久诚晒聊天记录",
+        "onboard_time": 1731728357,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270489,
+        "num": 245907,
+        "word": "学校未责罚质问不修宿舍学生",
+        "onboard_time": 1731724638,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273943,
+        "num": 244305,
+        "word": "麦琳像请回答1988罗美兰",
+        "onboard_time": 1731719177,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65335,
+        "num": 239730,
+        "word": "郭沫若之子郭志鸿逝世",
+        "onboard_time": 1731730518,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257395,
+        "num": 238142,
+        "word": "你好星期六全员损友局",
+        "onboard_time": 1731726438,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102167,
+        "num": 234742,
+        "word": "国企高中学历总监称家里困难没上大学",
+        "onboard_time": 1731731598,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1249430,
+        "num": 230549,
+        "word": "郑钦文已解散粉丝群",
+        "onboard_time": 1731728957,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1065249,
+        "num": 228886,
+        "word": "黄晓明为近期争议道歉",
+        "onboard_time": 1731720618,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 809734,
+        "num": 224715,
+        "word": "丁禹兮火了之后第一步",
+        "onboard_time": 1731726737,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373421,
+        "num": 222222,
+        "word": "袁泉给女儿开家长会",
+        "onboard_time": 1731723678,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304185,
+        "num": 218986,
+        "word": "徐冬冬完全把汉语和英语融合了",
+        "onboard_time": 1731730038,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216805,
+        "num": 216805,
+        "word": "中日关系处于改善发展的关键时期",
+        "onboard_time": 1731724158,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214915,
+        "num": 214915,
+        "word": "白夜破晓全阵容官宣",
+        "onboard_time": 1731726377,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210041,
+        "num": 210041,
+        "word": "丁禹兮hi6新剧照",
+        "onboard_time": 1731731178,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188954,
+        "num": 188954,
+        "word": "泰森vs保罗",
+        "onboard_time": 1731728118,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186098,
+        "num": 186098,
+        "word": "父母未尽抚养义务子女可拒绝赡养吗",
+        "onboard_time": 1731729678,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682258,
+        "num": 181194,
+        "word": "李子柒回应奶奶有没有催婚",
+        "onboard_time": 1731726737,
+        "rank": 20,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 231752,
+        "num": 179632,
+        "word": "你盖被子的顺序可能错了",
+        "onboard_time": 1731729318,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 208767,
+        "num": 178827,
+        "word": "学校里的猫被喂成了三个型号",
+        "onboard_time": 1731729318,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175538,
+        "num": 175538,
+        "word": "国足直接晋级概率为2.2%",
+        "onboard_time": 1731729257,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171846,
+        "num": 171846,
+        "word": "官方回应8岁娃终身禁入熊猫基地",
+        "onboard_time": 1731684319,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31534,
+        "num": 164545,
+        "word": "三甲医院医生美妆代言被明码标价",
+        "onboard_time": 1731730337,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161176,
+        "num": 161176,
+        "word": "aespa四个人的背影",
+        "onboard_time": 1731727038,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160694,
+        "num": 160694,
+        "word": "张家界一民房火灾致7人遇难",
+        "onboard_time": 1731729021,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149729,
+        "num": 156441,
+        "word": "虞书欣hi6花絮照",
+        "onboard_time": 1731730759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31622,
+        "num": 155172,
+        "word": "合资电车终于有能打的了",
+        "onboard_time": 1731728957,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155026,
+        "num": 155026,
+        "word": "航天员要考近100门学科是标配",
+        "onboard_time": 1731727217,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151225,
+        "num": 151225,
+        "word": "李行亮 如果我有病谁来治我",
+        "onboard_time": 1731731958,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149441,
+        "num": 149441,
+        "word": "跟着李子柒做缙云烧饼",
+        "onboard_time": 1731731658,
+        "rank": 32,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 144828,
+        "num": 144828,
+        "word": "杨紫视频含糖量",
+        "onboard_time": 1731729021,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142241,
+        "num": 142241,
+        "word": "珠帘玉幕造型师回应收腰囚服争议",
+        "onboard_time": 1731715876,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141051,
+        "num": 141051,
+        "word": "湖人四连胜",
+        "onboard_time": 1731730938,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137468,
+        "num": 137468,
+        "word": "姐弟俩偷盗为网店供货",
+        "onboard_time": 1731726256,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129164,
+        "num": 129164,
+        "word": "成龙呼吁大家到电影院看电影",
+        "onboard_time": 1731712574,
+        "rank": 37,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 122175,
+        "num": 122175,
+        "word": "追星后的反向收入",
+        "onboard_time": 1731730217,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90881,
+        "num": 121924,
+        "word": "毛不易李雪琴reaction永夜星河",
+        "onboard_time": 1731730638,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121862,
+        "num": 121862,
+        "word": "王曼昱给患罕见病小朋友寄礼物",
+        "onboard_time": 1731730158,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120820,
+        "num": 120820,
+        "word": "张婉婷说录再见爱人不是为了气观众",
+        "onboard_time": 1731723017,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113571,
+        "num": 113571,
+        "word": "德连环强奸案嫌疑人系43岁中国公民",
+        "onboard_time": 1731683600,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112916,
+        "num": 112916,
+        "word": "黄金跌上热搜有人抄底买1公斤金条",
+        "onboard_time": 1731726377,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111937,
+        "num": 111937,
+        "word": "中国兵器过于先进无可奉告",
+        "onboard_time": 1731723617,
+        "rank": 44,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 111028,
+        "num": 111028,
+        "word": "白夜追凶2有费启鸣",
+        "onboard_time": 1731729619,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104250,
+        "num": 104250,
+        "word": "官方回应学生质疑学校没钱修宿舍",
+        "onboard_time": 1731728838,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102935,
+        "num": 102935,
+        "word": "燃月做奶皮子现挤奶",
+        "onboard_time": 1731731778,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97582,
+        "num": 97582,
+        "word": "39岁C罗倒钩",
+        "onboard_time": 1731716477,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96927,
+        "num": 96927,
+        "word": "医生说学霸厕纸易诱发肛肠疾病",
+        "onboard_time": 1731728178,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秘文明交相辉映之处#"
+    }
+  }
+}

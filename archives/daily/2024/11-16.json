@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731731324029,
+  "endTime": 1731732213161,
   "band_list": [
     {
       "raw_hot": 1697049,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1313055,
-      "num": 197067,
+      "num": 230549,
       "word": "郑钦文已解散粉丝群",
       "onboard_time": 1731728957,
       "rank": 11,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412615,
+      "num": 412615,
+      "word": "时代峰峻声明",
+      "onboard_time": 1731731238,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407725,
       "num": 407725,
       "word": "男子恶意将小狗踢下五台山",
@@ -243,6 +251,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 304185,
+      "num": 218986,
+      "word": "徐冬冬完全把汉语和英语融合了",
+      "onboard_time": 1731730038,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286552,
       "num": 286552,
       "word": "吴梦知从湖南卫视离职",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 252923,
-      "num": 214352,
+      "num": 214915,
       "word": "白夜破晓全阵容官宣",
       "onboard_time": 1731726377,
       "rank": 23,
@@ -315,12 +331,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 247556,
+      "num": 247556,
+      "word": "久诚晒聊天记录",
+      "onboard_time": 1731728357,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232640,
       "num": 209726,
       "word": "丁禹兮凌晨北海到达",
       "onboard_time": 1731717077,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231752,
+      "num": 195907,
+      "word": "你盖被子的顺序可能错了",
+      "onboard_time": 1731729318,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 230230,
@@ -331,12 +363,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 218283,
-      "num": 196352,
-      "word": "徐冬冬完全把汉语和英语融合了",
-      "onboard_time": 1731730038,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 216805,
+      "num": 238162,
+      "word": "中日关系处于改善发展的关键时期",
+      "onboard_time": 1731724158,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215247,
@@ -345,6 +377,14 @@
       "onboard_time": 1731729318,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210041,
+      "num": 210041,
+      "word": "丁禹兮hi6新剧照",
+      "onboard_time": 1731731178,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 209678,
@@ -395,22 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197598,
-      "num": 238162,
-      "word": "中日关系处于改善发展的关键时期",
-      "onboard_time": 1731724158,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 195907,
-      "num": 195907,
-      "word": "你盖被子的顺序可能错了",
-      "onboard_time": 1731729318,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 194812,
       "num": 194812,
       "word": "你好星期六",
@@ -435,20 +459,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191737,
-      "num": 196282,
-      "word": "丁禹兮hi6新剧照",
-      "onboard_time": 1731731178,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188894,
-      "num": 188894,
-      "word": "久诚晒聊天记录",
-      "onboard_time": 1731728357,
-      "rank": 33,
-      "category": "电竞"
+      "raw_hot": 188954,
+      "num": 188954,
+      "word": "泰森vs保罗",
+      "onboard_time": 1731728118,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 186574,
@@ -465,6 +481,14 @@
       "onboard_time": 1731722357,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186098,
+      "num": 197262,
+      "word": "父母未尽抚养义务子女可拒绝赡养吗",
+      "onboard_time": 1731729678,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175242,
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160694,
+      "num": 197378,
+      "word": "张家界一民房火灾致7人遇难",
+      "onboard_time": 1731729021,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160120,
       "num": 160120,
       "word": "十万狂花入梦来 古偶玩惊悚",
@@ -619,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155026,
+      "num": 155026,
+      "word": "航天员要考近100门学科是标配",
+      "onboard_time": 1731727217,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153604,
       "num": 129780,
       "word": "勇士vs鹈鹕",
@@ -627,20 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151225,
+      "num": 151225,
+      "word": "李行亮 如果我有病谁来治我",
+      "onboard_time": 1731731958,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149441,
+      "num": 149441,
+      "word": "跟着李子柒做缙云烧饼",
+      "onboard_time": 1731731658,
+      "rank": 32,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 149363,
       "num": 149363,
       "word": "范丞丞说提名金鸡奖光宗耀祖",
       "onboard_time": 1731714315,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146898,
-      "num": 146898,
-      "word": "泰森vs保罗",
-      "onboard_time": 1731728118,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 145248,
@@ -683,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137468,
+      "num": 226479,
+      "word": "姐弟俩偷盗为网店供货",
+      "onboard_time": 1731726256,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135911,
       "num": 135911,
       "word": "5千多一桌的婚宴菜大部分都是凉的",
@@ -721,14 +777,6 @@
       "onboard_time": 1731717198,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129463,
-      "num": 226479,
-      "word": "姐弟俩偷盗为网店供货",
-      "onboard_time": 1731726256,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129341,
@@ -771,20 +819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122175,
+      "num": 122175,
+      "word": "追星后的反向收入",
+      "onboard_time": 1731730217,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119878,
       "num": 119878,
       "word": "DLC可评选TGA年度游戏",
       "onboard_time": 1731729498,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119264,
-      "num": 139331,
-      "word": "航天员要考近100门学科是标配",
-      "onboard_time": 1731727217,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114989,
@@ -827,14 +875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111279,
-      "num": 190978,
-      "word": "时代峰峻声明",
-      "onboard_time": 1731731238,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110360,
       "num": 110360,
       "word": "GimGoon好强",
@@ -875,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102935,
+      "num": 102935,
+      "word": "燃月做奶皮子现挤奶",
+      "onboard_time": 1731731778,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102284,
       "num": 102284,
       "word": "印尼0比4日本",
@@ -883,10 +931,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101674,
-      "num": 197262,
-      "word": "父母未尽抚养义务子女可拒绝赡养吗",
-      "onboard_time": 1731729678,
+      "raw_hot": 102167,
+      "num": 234742,
+      "word": "国企高中学历总监称家里困难没上大学",
+      "onboard_time": 1731731598,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -924,7 +972,7 @@
     },
     {
       "raw_hot": 99971,
-      "num": 332186,
+      "num": 433181,
       "word": "秘鲁邮票上印有中国炒饭",
       "onboard_time": 1731723978,
       "rank": 40,
@@ -961,14 +1009,6 @@
       "onboard_time": 1731722178,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 98037,
-      "num": 197378,
-      "word": "张家界一民房火灾致7人遇难",
-      "onboard_time": 1731729021,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96389,
@@ -1179,20 +1219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65335,
+      "num": 239730,
+      "word": "郭沫若之子郭志鸿逝世",
+      "onboard_time": 1731730518,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65209,
       "num": 214137,
       "word": "aespa黑白领带长裤造型",
       "onboard_time": 1731687857,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61438,
-      "num": 197440,
-      "word": "郭沫若之子郭志鸿逝世",
-      "onboard_time": 1731730518,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61077,
@@ -1283,6 +1323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31622,
+      "num": 188939,
+      "word": "合资电车终于有能打的了",
+      "onboard_time": 1731728957,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 31534,
+      "num": 196662,
+      "word": "三甲医院医生美妆代言被明码标价",
+      "onboard_time": 1731730337,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29560,
       "num": 29560,
       "word": "登陆少年组合登陆金鸡",
@@ -1321,22 +1377,6 @@
       "onboard_time": 1731695892,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26023,
-      "num": 196662,
-      "word": "三甲医院医生美妆代言被明码标价",
-      "onboard_time": 1731730337,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 25894,
-      "num": 188939,
-      "word": "合资电车终于有能打的了",
-      "onboard_time": 1731728957,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 25613,
