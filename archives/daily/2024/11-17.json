@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731792932511,
+  "endTime": 1731795639318,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 289085,
-      "num": 289085,
+      "num": 366191,
       "word": "俄罗斯宣布临时限制向美出口浓缩铀",
       "onboard_time": 1731778515,
       "rank": 24,
@@ -363,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141208,
+      "num": 38206,
+      "word": "淮北师大称警方已介入",
+      "onboard_time": 1731789731,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139053,
       "num": 139053,
       "word": "AG成功复仇春决",
@@ -377,14 +385,6 @@
       "onboard_time": 1731756740,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130046,
-      "num": 25876,
-      "word": "淮北师大称警方已介入",
-      "onboard_time": 1731789731,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121070,
@@ -433,6 +433,14 @@
       "onboard_time": 1731772102,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84803,
+      "num": 44857,
+      "word": "李庚希给大鹏白客职场建议别干了辞吧",
+      "onboard_time": 1731793152,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 76351,
@@ -499,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36623,
+      "num": 23057,
+      "word": "男子称快递370克黄金被代签收损失20万",
+      "onboard_time": 1731789731,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33513,
       "num": 33513,
       "word": "小巷人家",
@@ -513,14 +529,6 @@
       "onboard_time": 1731759020,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27686,
-      "num": 20759,
-      "word": "男子称快递370克黄金被代签收损失20万",
-      "onboard_time": 1731789731,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26655,
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22497,
+      "num": 22497,
+      "word": "媒体评学生质问没钱修宿舍被带走",
+      "onboard_time": 1731792611,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21306,
       "num": 110352,
       "word": "全国月亮大赏",
@@ -587,12 +603,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19439,
+      "num": 19439,
+      "word": "男生为什么不把妹妹介绍给兄弟",
+      "onboard_time": 1731794651,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19043,
       "num": 256595,
       "word": "张家界桑植县通报一民房发生火灾",
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17643,
+      "num": 18097,
+      "word": "马斯克将领导美国政府效率部",
+      "onboard_time": 1731795552,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17479,
+      "num": 18096,
+      "word": "伊朗断然否认与马斯克会晤",
+      "onboard_time": 1731793091,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17064,
@@ -635,20 +675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14735,
+      "num": 37659,
+      "word": "徐枫灿说自己是一名战斗员",
+      "onboard_time": 1731791051,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 14386,
       "num": 25659,
       "word": "天舟八号快递是怎么打包派送的",
       "onboard_time": 1731791831,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14062,
-      "num": 16195,
-      "word": "媒体评学生质问没钱修宿舍被带走",
-      "onboard_time": 1731792611,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 13293,
@@ -672,6 +712,14 @@
       "word": "亚太命运共同体",
       "onboard_time": 1731782472,
       "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12117,
+      "num": 23180,
+      "word": "我国载人航天2024发射任务收官",
+      "onboard_time": 1731793751,
+      "rank": 28,
       "category": "国内时政"
     },
     {
