@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731799407409,
+  "endTime": 1731800215687,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -107,8 +107,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 364719,
-      "num": 773789,
+      "raw_hot": 376711,
+      "num": 870273,
       "word": "俄罗斯宣布临时限制向美出口浓缩铀",
       "onboard_time": 1731778515,
       "rank": 24,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281910,
+      "num": 110235,
+      "word": "淮北师大称警方已介入",
+      "onboard_time": 1731789731,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275495,
       "num": 221128,
       "word": "00花第一位金鸡影后",
@@ -163,12 +171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 273284,
-      "num": 85379,
-      "word": "淮北师大称警方已介入",
-      "onboard_time": 1731789731,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 271504,
+      "num": 107895,
+      "word": "刘亦菲这段话救我千万次于水火",
+      "onboard_time": 1731798793,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 270747,
@@ -192,6 +200,14 @@
       "word": "金鸡奖获奖名单",
       "onboard_time": 1731766465,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 253277,
+      "num": 140041,
+      "word": "李庚希给大鹏白客职场建议别干了辞吧",
+      "onboard_time": 1731793152,
+      "rank": 6,
       "category": "电影"
     },
     {
@@ -235,28 +251,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213344,
-      "num": 95089,
-      "word": "李庚希给大鹏白客职场建议别干了辞吧",
-      "onboard_time": 1731793152,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 211546,
       "num": 331325,
       "word": "天狼星由我们AG亲手熄灭",
       "onboard_time": 1731772041,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 208815,
-      "num": 80578,
-      "word": "刘亦菲这段话救我千万次于水火",
-      "onboard_time": 1731798793,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 208676,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168381,
+      "num": 168381,
+      "word": "小渔船一网下去捞起美国核潜艇",
+      "onboard_time": 1731777257,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 168185,
       "num": 168185,
       "word": "永夜星河团综",
@@ -337,14 +345,6 @@
       "onboard_time": 1731774319,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151701,
-      "num": 162638,
-      "word": "小渔船一网下去捞起美国核潜艇",
-      "onboard_time": 1731777257,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 150660,
@@ -435,6 +435,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106112,
+      "num": 101813,
+      "word": "男生为什么不把妹妹介绍给兄弟",
+      "onboard_time": 1731794651,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105807,
+      "num": 105807,
+      "word": "禹宙中欣",
+      "onboard_time": 1731799394,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105060,
       "num": 236253,
       "word": "小胖状态",
@@ -459,20 +475,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 82539,
-      "num": 72272,
-      "word": "男生为什么不把妹妹介绍给兄弟",
-      "onboard_time": 1731794651,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76351,
       "num": 79221,
       "word": "梁博 音乐节",
       "onboard_time": 1731777976,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71996,
+      "num": 65952,
+      "word": "赵丽颖金鸡奖造型师是闵塔鲨",
+      "onboard_time": 1731797294,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 66596,
+      "num": 66596,
+      "word": "马斯克将领导美国政府效率部",
+      "onboard_time": 1731795552,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62303,
+      "num": 62303,
+      "word": "男子称快递370克黄金被代签收损失20万",
+      "onboard_time": 1731789731,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61226,
@@ -483,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58183,
-      "num": 58183,
-      "word": "赵丽颖金鸡奖造型师是闵塔鲨",
-      "onboard_time": 1731797294,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 57176,
       "num": 274031,
       "word": "黄子弘凡北京演唱会下班直播",
@@ -499,12 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56717,
-      "num": 56717,
-      "word": "马斯克将领导美国政府效率部",
-      "onboard_time": 1731795552,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 56822,
+      "num": 56822,
+      "word": "大梦归离",
+      "onboard_time": 1731799515,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54850,
+      "num": 54850,
+      "word": "把学生闭麦拉走是学校育人错误示范",
+      "onboard_time": 1731798915,
+      "rank": 37,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 53944,
@@ -513,6 +545,14 @@
       "onboard_time": 1731745338,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 51701,
+      "num": 51701,
+      "word": "姿态回应打野不带惩戒",
+      "onboard_time": 1731799275,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 51457,
@@ -531,35 +571,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47142,
-      "num": 158555,
-      "word": "新疆沙漠里瓜果蔬菜水灵灵丰收了",
-      "onboard_time": 1731776120,
-      "rank": 29,
+      "raw_hot": 48743,
+      "num": 48743,
+      "word": "烧伤妈妈恢复期忍痛练习吃饭",
+      "onboard_time": 1731784453,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45790,
-      "num": 45790,
+      "raw_hot": 47617,
+      "num": 47617,
       "word": "美议员推动调查马斯克与俄通信",
       "onboard_time": 1731798373,
       "rank": 37,
       "category": "国际时政"
     },
     {
-      "raw_hot": 45170,
-      "num": 45170,
-      "word": "姿态回应打野不带惩戒",
-      "onboard_time": 1731799275,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 43068,
-      "num": 43068,
-      "word": "男子称快递370克黄金被代签收损失20万",
-      "onboard_time": 1731789731,
-      "rank": 32,
+      "raw_hot": 47142,
+      "num": 158555,
+      "word": "新疆沙漠里瓜果蔬菜水灵灵丰收了",
+      "onboard_time": 1731776120,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -579,14 +611,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 41067,
-      "num": 41067,
-      "word": "烧伤妈妈恢复期忍痛练习吃饭",
-      "onboard_time": 1731784453,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40359,
       "num": 40359,
       "word": "群演变明星的概率越来越小",
@@ -595,12 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40061,
-      "num": 40061,
-      "word": "禹宙中欣",
-      "onboard_time": 1731799394,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 39224,
+      "num": 104215,
+      "word": "中国担任APEC2026年东道主",
+      "onboard_time": 1731782713,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39102,
+      "num": 75828,
+      "word": "迪丽热巴冷帽look",
+      "onboard_time": 1731798853,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 38809,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 37531,
-      "num": 38787,
+      "num": 40310,
       "word": "张玉宁回应脚伤",
       "onboard_time": 1731798373,
       "rank": 47,
@@ -643,20 +675,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25123,
-      "num": 75828,
-      "word": "迪丽热巴冷帽look",
-      "onboard_time": 1731798853,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 24311,
-      "num": 30681,
-      "word": "中国担任APEC2026年东道主",
-      "onboard_time": 1731782713,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 24210,
+      "num": 89202,
+      "word": "青花壶意外沉海被大海打扮了一番",
+      "onboard_time": 1731798974,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23820,
@@ -787,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12656,
+      "num": 105531,
+      "word": "陈都灵弹春风不问",
+      "onboard_time": 1731800055,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 12117,
       "num": 23180,
       "word": "我国载人航天2024发射任务收官",
@@ -841,14 +873,6 @@
       "onboard_time": 1731796212,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9086,
-      "num": 89202,
-      "word": "青花壶意外沉海被大海打扮了一番",
-      "onboard_time": 1731798974,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6107,
