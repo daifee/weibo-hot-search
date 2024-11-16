@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731749780746,
+  "endTime": 1731752544891,
   "band_list": [
     {
       "raw_hot": 1743128,
@@ -16,6 +16,14 @@
       "word": "黄晓明为近期争议道歉",
       "onboard_time": 1731720618,
       "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1613899,
+      "num": 1613899,
+      "word": "六公主发了赵丽颖大特写",
+      "onboard_time": 1731750679,
+      "rank": 0,
       "category": "电影"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1248835,
-      "num": 247919,
+      "num": 272892,
       "word": "尹正爆料黄晓明杀青状态",
       "onboard_time": 1731745938,
       "rank": 15,
@@ -57,6 +65,14 @@
       "onboard_time": 1731734238,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1031464,
+      "num": 1031464,
+      "word": "遭学生质问的10人间宿舍条件怎样",
+      "onboard_time": 1731748399,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1000232,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 759552,
-      "num": 247895,
+      "num": 272542,
       "word": "李子柒一身黑衣干练亮相微笑打招呼",
       "onboard_time": 1731746299,
       "rank": 42,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 758098,
-      "num": 247910,
+      "num": 272016,
       "word": "虞书欣团综抹胸妆造",
       "onboard_time": 1731744617,
       "rank": 12,
@@ -236,11 +252,19 @@
     },
     {
       "raw_hot": 601089,
-      "num": 247852,
+      "num": 270368,
       "word": "富商被妻子绑架勒索4900万",
       "onboard_time": 1731745398,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599686,
+      "num": 599686,
+      "word": "惠英红 惠英绿",
+      "onboard_time": 1731750378,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 561761,
@@ -291,8 +315,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 470631,
+      "num": 271167,
+      "word": "关晓彤红发",
+      "onboard_time": 1731751339,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 464972,
-      "num": 247797,
+      "num": 270690,
       "word": "官方通报男子骑车撞上供热管道身亡",
       "onboard_time": 1731747620,
       "rank": 19,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 444924,
-      "num": 247824,
+      "num": 269312,
       "word": "羡慕给王一博安检的安检员",
       "onboard_time": 1731747558,
       "rank": 17,
@@ -321,6 +353,14 @@
       "onboard_time": 1731728118,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420857,
+      "num": 269695,
+      "word": "金鸡奖红毯直拍",
+      "onboard_time": 1731750198,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 420850,
@@ -659,12 +699,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 236538,
-      "num": 247929,
-      "word": "遭学生质问的10人间宿舍条件怎样",
-      "onboard_time": 1731748399,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 241107,
+      "num": 241107,
+      "word": "AG对战狼队",
+      "onboard_time": 1731749960,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 236033,
@@ -689,6 +729,14 @@
       "onboard_time": 1731676640,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 222328,
+      "num": 222328,
+      "word": "蓝盈莹 共情李行亮",
+      "onboard_time": 1731750978,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 219247,
@@ -745,6 +793,14 @@
       "onboard_time": 1731686539,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 204088,
+      "num": 204088,
+      "word": "周深KPL开幕式现场",
+      "onboard_time": 1731751339,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 203879,
@@ -819,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194798,
+      "num": 194798,
+      "word": "王一博金鸡奖颁奖典礼仪式入场",
+      "onboard_time": 1731751939,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192994,
       "num": 192994,
       "word": "国足直接晋级概率为2.2%",
@@ -843,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186740,
+      "num": 186740,
+      "word": "丁禹兮团综录制",
+      "onboard_time": 1731750499,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186574,
       "num": 196187,
       "word": "永夜星河 女主戏份",
@@ -857,6 +929,14 @@
       "onboard_time": 1731722357,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183956,
+      "num": 183956,
+      "word": "月亮",
+      "onboard_time": 1731751638,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183670,
@@ -1155,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148793,
+      "num": 219028,
+      "word": "研究显示屁股大腿粗的人更长寿",
+      "onboard_time": 1731749179,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147153,
       "num": 186693,
       "word": "蔡徐坤库存持续loading",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1731739998,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139705,
+      "num": 139705,
+      "word": "中国微波武器专治自杀无人机",
+      "onboard_time": 1731750558,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 137468,
@@ -1339,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127024,
+      "num": 127024,
+      "word": "中级经济师",
+      "onboard_time": 1731752239,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126959,
       "num": 126959,
       "word": "对战劣迹网红的拳王泰森到底多缺钱",
@@ -1360,6 +1464,14 @@
       "word": "丁程鑫述职小会",
       "onboard_time": 1731742277,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124424,
+      "num": 124424,
+      "word": "张云龙调侃赵一博你这么重要",
+      "onboard_time": 1731750079,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1667,6 +1779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97827,
+      "num": 112340,
+      "word": "双城之战",
+      "onboard_time": 1731747140,
+      "rank": 49,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 97720,
       "num": 97720,
       "word": "了解History续写Herstory",
@@ -1747,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88509,
+      "num": 273195,
+      "word": "海关工作犬找到违禁物握手庆祝",
+      "onboard_time": 1731749658,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88228,
       "num": 88228,
       "word": "永夜星河",
@@ -1760,14 +1888,6 @@
       "word": "男子夜驾撞飞两头野猪被判全责",
       "onboard_time": 1731706091,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87222,
-      "num": 205589,
-      "word": "海关工作犬找到违禁物握手庆祝",
-      "onboard_time": 1731749658,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1963,20 +2083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54366,
+      "num": 270253,
+      "word": "都暻秀心动时刻",
+      "onboard_time": 1731751879,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 52959,
+      "num": 797591,
+      "word": "老外报中餐菜名太溜了",
+      "onboard_time": 1731747020,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52204,
       "num": 205755,
       "word": "2024KPL年总决赛宣传片",
       "onboard_time": 1731735139,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 51515,
-      "num": 219028,
-      "word": "研究显示屁股大腿粗的人更长寿",
-      "onboard_time": 1731749179,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50191,
@@ -2011,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43390,
+      "num": 156784,
+      "word": "梁代文好多星星啊",
+      "onboard_time": 1731751638,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42169,
       "num": 42169,
       "word": "章丘一动物园给黑猩猩吃大葱",
@@ -2027,14 +2163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41082,
-      "num": 590839,
-      "word": "老外报中餐菜名太溜了",
-      "onboard_time": 1731747020,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39735,
       "num": 51589,
       "word": "涵艺怒喷Doinb",
@@ -2044,7 +2172,7 @@
     },
     {
       "raw_hot": 39566,
-      "num": 247947,
+      "num": 273526,
       "word": "神十九乘组看到快递发出一起鼓掌",
       "onboard_time": 1731746539,
       "rank": 8,
@@ -2123,6 +2251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33359,
+      "num": 184101,
+      "word": "泰森与保罗出场费预计超6000万美元",
+      "onboard_time": 1731751220,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32608,
       "num": 95836,
       "word": "赵一博主场少年合体现身澳门",
@@ -2137,6 +2273,14 @@
       "onboard_time": 1731734419,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31750,
+      "num": 153045,
+      "word": "首支华为手机水下纪录片获金鸡奖",
+      "onboard_time": 1731748879,
+      "rank": 48,
+      "category": "电影,数码"
     },
     {
       "raw_hot": 31622,
@@ -2187,6 +2331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29256,
+      "num": 271687,
+      "word": "红狼cp的宿命感",
+      "onboard_time": 1731751518,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28847,
       "num": 167015,
       "word": "阿姨谈婚姻生活称儿子要站在媳妇这边",
@@ -2209,6 +2361,14 @@
       "onboard_time": 1731698833,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28304,
+      "num": 186923,
+      "word": "国足vs日本门票被炒到8280元",
+      "onboard_time": 1731751879,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 27429,
@@ -2283,6 +2443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22772,
+      "num": 164742,
+      "word": "国足对日本已连续15场不胜",
+      "onboard_time": 1731751518,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21672,
       "num": 40513,
       "word": "中秘同为文明古国",
@@ -2331,20 +2499,20 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 17736,
-      "num": 146597,
-      "word": "首支华为手机水下纪录片获金鸡奖",
-      "onboard_time": 1731748879,
-      "rank": 48,
-      "category": "电影,数码"
-    },
-    {
       "raw_hot": 17692,
       "num": 195585,
       "word": "杨丞琳发文庆祝出道24周年",
       "onboard_time": 1731740358,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16723,
+      "num": 271515,
+      "word": "益生菌活君一号宣称降血压却非标",
+      "onboard_time": 1731752178,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 16035,
