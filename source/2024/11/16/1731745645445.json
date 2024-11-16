@@ -1,0 +1,410 @@
+{
+  "runTime": 1731745645445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200791,
+        "num": 1200791,
+        "word": "献血100次可免费吃酒店自助餐",
+        "onboard_time": 1731735979,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726334,
+        "num": 726334,
+        "word": "再见爱人背景音没消掉",
+        "onboard_time": 1731738318,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18405,
+        "num": 632358,
+        "word": "秘鲁老人爱上在中式凉亭里聊天",
+        "onboard_time": 1731729678,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631026,
+        "num": 631026,
+        "word": "女子裸辞半年后转行当绿领收入翻番",
+        "onboard_time": 1731740777,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385151,
+        "num": 385151,
+        "word": "德华被挤出C位",
+        "onboard_time": 1731739820,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 326706,
+        "num": 326706,
+        "word": "珠帘玉幕 处处吻",
+        "onboard_time": 1731741318,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319593,
+        "num": 319593,
+        "word": "李行亮 如果我有病谁来治我",
+        "onboard_time": 1731731958,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297374,
+        "num": 297374,
+        "word": "丁禹兮团综上岛路透",
+        "onboard_time": 1731743597,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234902,
+        "num": 234902,
+        "word": "男大学生扮女装进女澡堂偷拍被抓",
+        "onboard_time": 1731733279,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232278,
+        "num": 232278,
+        "word": "泰森复出不敌27岁网红",
+        "onboard_time": 1731737118,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670327,
+        "num": 231062,
+        "word": "理记 江秋莲",
+        "onboard_time": 1731744018,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545178,
+        "num": 227987,
+        "word": "考古麦琳微博",
+        "onboard_time": 1731736098,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419343,
+        "num": 225580,
+        "word": "虞书欣团综抹胸妆造",
+        "onboard_time": 1731744617,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29896,
+        "num": 225385,
+        "word": "58岁泰森复出打满8回合",
+        "onboard_time": 1731744078,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14520,
+        "num": 222349,
+        "word": "律师解读教师接受调查时坠亡案",
+        "onboard_time": 1731744440,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300161,
+        "num": 220281,
+        "word": "涵艺连续爆料",
+        "onboard_time": 1731741437,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277289,
+        "num": 218011,
+        "word": "丁禹兮火了之后第一步",
+        "onboard_time": 1731726737,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216483,
+        "num": 216483,
+        "word": "杨紫三色蝴蝶结高定造型",
+        "onboard_time": 1731738738,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205768,
+        "num": 205768,
+        "word": "你心中的金鸡奖最佳主角",
+        "onboard_time": 1731733638,
+        "rank": 18,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 23372,
+        "num": 189435,
+        "word": "隐秘的角落向未署名编剧致歉",
+        "onboard_time": 1731744258,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134707,
+        "num": 181155,
+        "word": "中国往太空送快递3个多小时到达",
+        "onboard_time": 1731737177,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282549,
+        "num": 180411,
+        "word": "怀9胞胎女子靠输营养液保胎",
+        "onboard_time": 1731734298,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178733,
+        "num": 178733,
+        "word": "官方称有80人满足免费吃自助餐条件",
+        "onboard_time": 1731734238,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174211,
+        "num": 174211,
+        "word": "焦俊艳回应再见爱人最大受益者",
+        "onboard_time": 1731739579,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34054,
+        "num": 162007,
+        "word": "尊界这一界太尊了",
+        "onboard_time": 1731741019,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159355,
+        "num": 159355,
+        "word": "王一博与自我对话向艺术生长",
+        "onboard_time": 1731744258,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158883,
+        "num": 158883,
+        "word": "沈月文笔",
+        "onboard_time": 1731733339,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154218,
+        "num": 154218,
+        "word": "登陆少年金鸡奖出发图",
+        "onboard_time": 1731745159,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115180,
+        "num": 150249,
+        "word": "王一博沉浸光影盛景",
+        "onboard_time": 1731744858,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101609,
+        "num": 150233,
+        "word": "印度一医院火灾10名新生儿死亡",
+        "onboard_time": 1731744978,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150230,
+        "num": 150230,
+        "word": "这跟上班有什么区别",
+        "onboard_time": 1731741318,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148487,
+        "num": 148487,
+        "word": "血站回应献血100次可免费吃自助餐",
+        "onboard_time": 1731732318,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 149803,
+        "num": 146884,
+        "word": "郑钦文已解散粉丝群",
+        "onboard_time": 1731728957,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145236,
+        "num": 145236,
+        "word": "农村老人取快递要走6公里",
+        "onboard_time": 1731740958,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142286,
+        "num": 142286,
+        "word": "田曦薇花朵针织套装",
+        "onboard_time": 1731744318,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140014,
+        "num": 140014,
+        "word": "放假去埃及玩的人嘴真严啊",
+        "onboard_time": 1731737418,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 130222,
+        "num": 130222,
+        "word": "唯一没和Faker搭档过的双冠王",
+        "onboard_time": 1731744198,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129515,
+        "num": 129515,
+        "word": "发现麦琳以前是好有生命力的人",
+        "onboard_time": 1731734898,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120000,
+        "num": 120000,
+        "word": "富商被妻子绑架勒索4900万",
+        "onboard_time": 1731745398,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119262,
+        "num": 119262,
+        "word": "珠海航展",
+        "onboard_time": 1731745338,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117098,
+        "num": 117098,
+        "word": "李子柒回应奶奶有没有催婚",
+        "onboard_time": 1731726737,
+        "rank": 40,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 116377,
+        "num": 116377,
+        "word": "王安宇唱冬天里的一把火直拍",
+        "onboard_time": 1731745037,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113014,
+        "num": 113014,
+        "word": "你盖被子的顺序可能错了",
+        "onboard_time": 1731729318,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112822,
+        "num": 112822,
+        "word": "对战劣迹网红的拳王泰森到底多缺钱",
+        "onboard_time": 1731744318,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109383,
+        "num": 109383,
+        "word": "时代峰峻声明",
+        "onboard_time": 1731731238,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105538,
+        "num": 105538,
+        "word": "张继科发文致敬泰森",
+        "onboard_time": 1731738197,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103794,
+        "num": 103794,
+        "word": "杨子说黄圣依不折腾就开心了",
+        "onboard_time": 1731738798,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101111,
+        "num": 101111,
+        "word": "祝绪丹好宠",
+        "onboard_time": 1731745519,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96721,
+        "num": 96721,
+        "word": "勇士紧追西部第一",
+        "onboard_time": 1731744617,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93147,
+        "num": 93147,
+        "word": "丁程鑫述职小会",
+        "onboard_time": 1731742277,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秘文明交相辉映之处#"
+    }
+  }
+}

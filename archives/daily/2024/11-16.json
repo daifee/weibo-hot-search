@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731742538999,
+  "endTime": 1731745645445,
   "band_list": [
     {
       "raw_hot": 1743128,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670327,
+      "num": 231062,
+      "word": "理记 江秋莲",
+      "onboard_time": 1731744018,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 668437,
       "num": 668437,
       "word": "官方回应8岁娃终身禁入熊猫基地",
@@ -184,6 +192,14 @@
       "word": "人被被子单杀可能性几乎但并不为零",
       "onboard_time": 1731686899,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631026,
+      "num": 631026,
+      "word": "女子裸辞半年后转行当绿领收入翻番",
+      "onboard_time": 1731740777,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419343,
+      "num": 225580,
+      "word": "虞书欣团综抹胸妆造",
+      "onboard_time": 1731744617,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 417774,
       "num": 417774,
       "word": "你好星期六全员损友局",
@@ -297,6 +321,14 @@
       "onboard_time": 1731736638,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 385151,
+      "num": 385151,
+      "word": "德华被挤出C位",
+      "onboard_time": 1731739820,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 381051,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 338961,
-      "num": 256470,
+      "num": 326706,
       "word": "珠帘玉幕 处处吻",
       "onboard_time": 1731741318,
       "rank": 24,
@@ -417,6 +449,22 @@
       "onboard_time": 1731730038,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300161,
+      "num": 220281,
+      "word": "涵艺连续爆料",
+      "onboard_time": 1731741437,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 297374,
+      "num": 297374,
+      "word": "丁禹兮团综上岛路透",
+      "onboard_time": 1731743597,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 290682,
@@ -481,14 +529,6 @@
       "onboard_time": 1731721758,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 256060,
-      "num": 219650,
-      "word": "德华被挤出C位",
-      "onboard_time": 1731739820,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 252923,
@@ -683,14 +723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191188,
-      "num": 242272,
-      "word": "女子裸辞半年后转行当绿领收入翻番",
-      "onboard_time": 1731740777,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186574,
       "num": 196187,
       "word": "永夜星河 女主戏份",
@@ -859,12 +891,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 158665,
-      "num": 158665,
-      "word": "涵艺连续爆料",
-      "onboard_time": 1731741437,
-      "rank": 45,
-      "category": "电竞"
+      "raw_hot": 159355,
+      "num": 159355,
+      "word": "王一博与自我对话向艺术生长",
+      "onboard_time": 1731744258,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158623,
@@ -915,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154218,
+      "num": 154218,
+      "word": "登陆少年金鸡奖出发图",
+      "onboard_time": 1731745159,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153604,
       "num": 129780,
       "word": "勇士vs鹈鹕",
@@ -937,6 +977,14 @@
       "onboard_time": 1731731658,
       "rank": 32,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 150230,
+      "num": 150230,
+      "word": "这跟上班有什么区别",
+      "onboard_time": 1731741318,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 149363,
@@ -963,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145236,
+      "num": 224965,
+      "word": "农村老人取快递要走6公里",
+      "onboard_time": 1731740958,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143362,
       "num": 143362,
       "word": "湖人四连胜",
@@ -984,6 +1040,14 @@
       "word": "李行亮坚定选择不离婚",
       "onboard_time": 1731669020,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142286,
+      "num": 142286,
+      "word": "田曦薇花朵针织套装",
+      "onboard_time": 1731744318,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1017,6 +1081,14 @@
       "onboard_time": 1731700271,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134707,
+      "num": 181155,
+      "word": "中国往太空送快递3个多小时到达",
+      "onboard_time": 1731737177,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134013,
@@ -1067,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130222,
+      "num": 130222,
+      "word": "唯一没和Faker搭档过的双冠王",
+      "onboard_time": 1731744198,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129999,
       "num": 129999,
       "word": "国足对阵日本4万多张球票已售罄",
@@ -1081,14 +1161,6 @@
       "onboard_time": 1731676280,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129018,
-      "num": 129018,
-      "word": "这跟上班有什么区别",
-      "onboard_time": 1731741318,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 128895,
@@ -1147,12 +1219,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120000,
+      "num": 120000,
+      "word": "富商被妻子绑架勒索4900万",
+      "onboard_time": 1731745398,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119878,
       "num": 198885,
       "word": "DLC可评选TGA年度游戏",
       "onboard_time": 1731729498,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119262,
+      "num": 119262,
+      "word": "珠海航展",
+      "onboard_time": 1731745338,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 116377,
+      "num": 116377,
+      "word": "王安宇唱冬天里的一把火直拍",
+      "onboard_time": 1731745037,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115180,
+      "num": 150249,
+      "word": "王一博沉浸光影盛景",
+      "onboard_time": 1731744858,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114989,
@@ -1185,6 +1289,14 @@
       "onboard_time": 1731721520,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112822,
+      "num": 112822,
+      "word": "对战劣迹网红的拳王泰森到底多缺钱",
+      "onboard_time": 1731744318,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 112154,
@@ -1283,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101609,
+      "num": 150233,
+      "word": "印度一医院火灾10名新生儿死亡",
+      "onboard_time": 1731744978,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101426,
       "num": 101426,
       "word": "一群青壮年威胁瘦弱狗狗表演",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1731719238,
       "rank": 37,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 101111,
+      "num": 101111,
+      "word": "祝绪丹好宠",
+      "onboard_time": 1731745519,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100534,
@@ -1369,6 +1497,14 @@
       "onboard_time": 1731722178,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 96721,
+      "num": 96721,
+      "word": "勇士紧追西部第一",
+      "onboard_time": 1731744617,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 96389,
@@ -1659,14 +1795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 47743,
-      "num": 224965,
-      "word": "农村老人取快递要走6公里",
-      "onboard_time": 1731740958,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47659,
       "num": 47659,
       "word": "王安宇 破碎小狗",
@@ -1755,7 +1883,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33956,
+      "raw_hot": 34054,
       "num": 204504,
       "word": "尊界这一界太尊了",
       "onboard_time": 1731741019,
@@ -1809,6 +1937,14 @@
       "onboard_time": 1731737477,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29896,
+      "num": 225385,
+      "word": "58岁泰森复出打满8回合",
+      "onboard_time": 1731744078,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 29560,
@@ -1883,6 +2019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23372,
+      "num": 189435,
+      "word": "隐秘的角落向未署名编剧致歉",
+      "onboard_time": 1731744258,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23219,
       "num": 99139,
       "word": "被仓鼠视角的猫萌晕了",
@@ -1931,6 +2075,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 18405,
+      "num": 632358,
+      "word": "秘鲁老人爱上在中式凉亭里聊天",
+      "onboard_time": 1731729678,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17692,
       "num": 195585,
       "word": "杨丞琳发文庆祝出道24周年",
@@ -1961,6 +2113,14 @@
       "onboard_time": 1731733817,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14520,
+      "num": 222349,
+      "word": "律师解读教师接受调查时坠亡案",
+      "onboard_time": 1731744440,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14299,
