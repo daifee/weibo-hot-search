@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731767900872,
+  "endTime": 1731770636626,
   "band_list": [
     {
       "raw_hot": 12010171,
@@ -25,6 +25,14 @@
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3374408,
+      "num": 730702,
+      "word": "金鸡 离谱",
+      "onboard_time": 1731767366,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 2294363,
@@ -96,14 +104,6 @@
       "word": "尹正爆料黄晓明杀青状态",
       "onboard_time": 1731745938,
       "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1211875,
-      "num": 730702,
-      "word": "金鸡 离谱",
-      "onboard_time": 1731767366,
-      "rank": 6,
       "category": "电影"
     },
     {
@@ -491,12 +491,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 497935,
+      "num": 497935,
+      "word": "林保怡 可惜",
+      "onboard_time": 1731767905,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 492728,
       "num": 377352,
       "word": "大梦归离大结局",
       "onboard_time": 1731759380,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 491884,
+      "num": 491884,
+      "word": "徐静蕾",
+      "onboard_time": 1731768562,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 475438,
@@ -520,6 +536,14 @@
       "word": "范丞丞金鸡奖红毯让C位",
       "onboard_time": 1731761360,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 457359,
+      "num": 281562,
+      "word": "85花 电影圈",
+      "onboard_time": 1731769105,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -568,6 +592,14 @@
       "word": "紫色的程潇",
       "onboard_time": 1731756559,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 421405,
+      "num": 421405,
+      "word": "王一博紧张得深呼吸",
+      "onboard_time": 1731768742,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -683,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364545,
+      "num": 724286,
+      "word": "江苏盐城村干部被曝工作日聚餐饮酒",
+      "onboard_time": 1731766885,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 358522,
       "num": 358522,
       "word": "16万元的婚宴菜不热能索赔吗",
@@ -769,6 +809,14 @@
       "onboard_time": 1731765805,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327733,
+      "num": 263162,
+      "word": "金鸡奖含金量",
+      "onboard_time": 1731768804,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 325057,
@@ -1044,7 +1092,7 @@
     },
     {
       "raw_hot": 236549,
-      "num": 236549,
+      "num": 263772,
       "word": "外卖员送餐汤汁洒出街头将汤倒回",
       "onboard_time": 1731762261,
       "rank": 38,
@@ -1091,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 220326,
+      "num": 265297,
+      "word": "彭昱畅演技",
+      "onboard_time": 1731768203,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219247,
       "num": 219247,
       "word": "短发金晨",
@@ -1116,7 +1172,7 @@
     },
     {
       "raw_hot": 216506,
-      "num": 201699,
+      "num": 259169,
       "word": "丁禹兮好六街跳了yesok",
       "onboard_time": 1731760880,
       "rank": 33,
@@ -1177,6 +1233,22 @@
       "onboard_time": 1731672737,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206771,
+      "num": 503008,
+      "word": "马琳回应陈梦退赛",
+      "onboard_time": 1731765624,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205783,
+      "num": 323309,
+      "word": "你好星期六下期是五福临门",
+      "onboard_time": 1731767065,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 204088,
@@ -1331,6 +1403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189881,
+      "num": 264482,
+      "word": "雷佳音说王骁获奖他翻跟头",
+      "onboard_time": 1731769162,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188405,
       "num": 188405,
       "word": "子午线复合",
@@ -1395,14 +1475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182396,
-      "num": 724286,
-      "word": "江苏盐城村干部被曝工作日聚餐饮酒",
-      "onboard_time": 1731766885,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 182263,
       "num": 182263,
       "word": "我们一起摇太阳",
@@ -1459,11 +1531,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177808,
-      "num": 372723,
-      "word": "马琳回应陈梦退赛",
-      "onboard_time": 1731765624,
-      "rank": 23,
+      "raw_hot": 177410,
+      "num": 286335,
+      "word": "小胖状态",
+      "onboard_time": 1731769283,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -1739,14 +1811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152885,
-      "num": 323309,
-      "word": "你好星期六下期是五福临门",
-      "onboard_time": 1731767065,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152857,
       "num": 152857,
       "word": "这跟上班有什么区别",
@@ -1772,7 +1836,7 @@
     },
     {
       "raw_hot": 151236,
-      "num": 238853,
+      "num": 258516,
       "word": "部分地区居民医保参保意愿弱",
       "onboard_time": 1731759140,
       "rank": 14,
@@ -1809,6 +1873,14 @@
       "onboard_time": 1731714315,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149322,
+      "num": 261594,
+      "word": "李子柒回应被各地文旅邀请",
+      "onboard_time": 1731769224,
+      "rank": 38,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 149077,
@@ -1923,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137083,
+      "num": 260969,
+      "word": "王源日落可以慢半拍舞台首秀",
+      "onboard_time": 1731770422,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136519,
       "num": 136519,
       "word": "AG水晶名刀",
@@ -2001,6 +2081,14 @@
       "onboard_time": 1731730217,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131038,
+      "num": 260401,
+      "word": "陈都灵弹钢琴背影",
+      "onboard_time": 1731768863,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130764,
@@ -2163,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119980,
+      "num": 264336,
+      "word": "沙特在中国航展包一个大展台会客",
+      "onboard_time": 1731764722,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 119878,
       "num": 198885,
       "word": "DLC可评选TGA年度游戏",
@@ -2307,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110918,
+      "num": 259247,
+      "word": "永夜星河追平看hi6",
+      "onboard_time": 1731768094,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110447,
       "num": 115728,
       "word": "杰斯你在干什么",
@@ -2371,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105973,
-      "num": 161120,
-      "word": "沙特在中国航展包一个大展台会客",
-      "onboard_time": 1731764722,
-      "rank": 49,
-      "category": "军事"
-    },
-    {
       "raw_hot": 105504,
       "num": 105504,
       "word": "王者营地崩了",
@@ -2393,6 +2489,14 @@
       "onboard_time": 1731731778,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102730,
+      "num": 444861,
+      "word": "空军军乐团指挥航展群众齐唱歌唱祖国",
+      "onboard_time": 1731766885,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 102581,
@@ -2593,6 +2697,14 @@
       "onboard_time": 1731730638,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93176,
+      "num": 258832,
+      "word": "歼35A是否会颠覆传统的空战模式",
+      "onboard_time": 1731767005,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 91520,
@@ -2995,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44282,
+      "num": 284248,
+      "word": "吴尊给孩子开家长会",
+      "onboard_time": 1731763882,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44176,
       "num": 101769,
       "word": "献血小板一年最多可采24次",
@@ -3009,6 +3129,14 @@
       "onboard_time": 1731751638,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43201,
+      "num": 259785,
+      "word": "张峻豪我是好心情",
+      "onboard_time": 1731770422,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 42169,
@@ -3489,6 +3617,14 @@
       "onboard_time": 1731733817,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14804,
+      "num": 264057,
+      "word": "大鹏在红毯上飞起来了",
+      "onboard_time": 1731763582,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 14698,
