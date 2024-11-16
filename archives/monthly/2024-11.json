@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731775441994,
+  "endTime": 1731777530739,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1730428457,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1769791,
+      "num": 252107,
+      "word": "资源咖",
+      "onboard_time": 1731774319,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 1769284,
@@ -5835,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 736413,
+      "num": 299475,
+      "word": "虞书欣丁禹兮hi6收视率历史最高",
+      "onboard_time": 1731774319,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736300,
       "num": 736300,
       "word": "日本石破内阁集体辞职",
@@ -6393,6 +6409,14 @@
       "onboard_time": 1730462359,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688362,
+      "num": 296484,
+      "word": "派出所回应丢38吨稻谷报警被怼",
+      "onboard_time": 1731772102,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 688054,
@@ -8283,14 +8307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 570200,
-      "num": 252107,
-      "word": "资源咖",
-      "onboard_time": 1731774319,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 570151,
       "num": 570151,
       "word": "窦骁中国杯帆船赛夺冠",
@@ -9075,14 +9091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 528209,
-      "num": 288409,
-      "word": "虞书欣丁禹兮hi6收视率历史最高",
-      "onboard_time": 1731774319,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 527835,
       "num": 403315,
       "word": "林大厨爆改慕子期",
@@ -9281,14 +9289,6 @@
       "onboard_time": 1731628518,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 519918,
-      "num": 296484,
-      "word": "派出所回应丢38吨稻谷报警被怼",
-      "onboard_time": 1731772102,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 519602,
@@ -11971,6 +11971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406432,
+      "num": 406432,
+      "word": "广州打破最长夏天纪录",
+      "onboard_time": 1731773328,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406364,
       "num": 406364,
       "word": "鹿晗丁程鑫贺峻霖首映礼同框",
@@ -13913,14 +13921,6 @@
       "onboard_time": 1731379218,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340916,
-      "num": 340916,
-      "word": "广州打破最长夏天纪录",
-      "onboard_time": 1731773328,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 340728,
@@ -16523,6 +16523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275495,
+      "num": 221128,
+      "word": "00花第一位金鸡影后",
+      "onboard_time": 1731774141,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275101,
       "num": 434039,
       "word": "践踏舆论监督要为此付出代价",
@@ -18387,6 +18395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244174,
+      "num": 244174,
+      "word": "格林威治",
+      "onboard_time": 1731773541,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243972,
       "num": 243972,
       "word": "小巷人家提档",
@@ -19921,14 +19937,6 @@
       "onboard_time": 1730455338,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221128,
-      "num": 221128,
-      "word": "00花第一位金鸡影后",
-      "onboard_time": 1731774141,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 221069,
@@ -31243,6 +31251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150660,
+      "num": 233890,
+      "word": "好东西 票房",
+      "onboard_time": 1731773841,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150633,
       "num": 150633,
       "word": "虞书欣哭戏片段",
@@ -38043,6 +38059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 110187,
+      "num": 110187,
+      "word": "宿敌",
+      "onboard_time": 1731777077,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110154,
       "num": 110154,
       "word": "故宫银杏叶已满目金黄",
@@ -39451,14 +39475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99520,
-      "num": 233890,
-      "word": "好东西 票房",
-      "onboard_time": 1731773841,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 99510,
       "num": 99510,
       "word": "张凯莹 机械姬",
@@ -40505,14 +40521,6 @@
       "onboard_time": 1731678920,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88325,
-      "num": 148592,
-      "word": "格林威治",
-      "onboard_time": 1731773541,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 88246,
@@ -46587,6 +46595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39662,
+      "num": 158555,
+      "word": "新疆沙漠里瓜果蔬菜水灵灵丰收了",
+      "onboard_time": 1731776120,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39650,
       "num": 309906,
       "word": "当你拿到樊振东的乒乓球你会怎么做",
@@ -47833,6 +47849,14 @@
       "onboard_time": 1731244161,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34301,
+      "num": 162638,
+      "word": "小渔船一网下去捞起美国核潜艇",
+      "onboard_time": 1731777257,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34252,
@@ -49785,6 +49809,14 @@
       "onboard_time": 1730485632,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26655,
+      "num": 114216,
+      "word": "周翊然见面会",
+      "onboard_time": 1731776238,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26614,
@@ -52387,6 +52419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16833,
+      "num": 158782,
+      "word": "奥本海默最佳外语片",
+      "onboard_time": 1731769883,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16805,
       "num": 1282878,
       "word": "必须把顶层设计和摸着石头过河结合起来",
@@ -52817,6 +52857,14 @@
       "onboard_time": 1730452280,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14896,
+      "num": 159316,
+      "word": "SHUN理成张",
+      "onboard_time": 1731772222,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 14874,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731775441994,
+  "endTime": 1731777530739,
   "band_list": [
     {
       "raw_hot": 2927693,
@@ -8,6 +8,14 @@
       "word": "李庚希金鸡影后",
       "onboard_time": 1731765565,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1769791,
+      "num": 252107,
+      "word": "资源咖",
+      "onboard_time": 1731774319,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -27,36 +35,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 638406,
-      "num": 380425,
-      "word": "秦海璐又在金鸡后台睡着了",
-      "onboard_time": 1731772161,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 570200,
-      "num": 252107,
-      "word": "资源咖",
-      "onboard_time": 1731774319,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 528209,
-      "num": 288409,
+      "raw_hot": 736413,
+      "num": 299475,
       "word": "虞书欣丁禹兮hi6收视率历史最高",
       "onboard_time": 1731774319,
       "rank": 25,
       "category": "综艺"
     },
     {
-      "raw_hot": 519918,
+      "raw_hot": 688362,
       "num": 296484,
       "word": "派出所回应丢38吨稻谷报警被怼",
       "onboard_time": 1731772102,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 638406,
+      "num": 380425,
+      "word": "秦海璐又在金鸡后台睡着了",
+      "onboard_time": 1731772161,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 470545,
@@ -91,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 406432,
+      "num": 406432,
+      "word": "广州打破最长夏天纪录",
+      "onboard_time": 1731773328,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401481,
       "num": 308852,
       "word": "黄晓明一个月瘦了15公斤",
@@ -115,14 +123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 340916,
-      "num": 340916,
-      "word": "广州打破最长夏天纪录",
-      "onboard_time": 1731773328,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319207,
       "num": 273602,
       "word": "姜妍是虞书欣的认证闺蜜",
@@ -144,6 +144,14 @@
       "word": "关晓彤红发",
       "onboard_time": 1731751339,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 275495,
+      "num": 221128,
+      "word": "00花第一位金鸡影后",
+      "onboard_time": 1731774141,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -171,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244174,
+      "num": 244174,
+      "word": "格林威治",
+      "onboard_time": 1731773541,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243972,
       "num": 243972,
       "word": "小巷人家提档",
@@ -192,14 +208,6 @@
       "word": "沈腾没来",
       "onboard_time": 1731771682,
       "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 221128,
-      "num": 221128,
-      "word": "00花第一位金鸡影后",
-      "onboard_time": 1731774141,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150660,
+      "num": 233890,
+      "word": "好东西 票房",
+      "onboard_time": 1731773841,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149277,
       "num": 280127,
       "word": "捐日军侵华罪行相册的美国小伙来中国了",
@@ -371,20 +387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110187,
+      "num": 110187,
+      "word": "宿敌",
+      "onboard_time": 1731777077,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105060,
       "num": 236253,
       "word": "小胖状态",
       "onboard_time": 1731769283,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99520,
-      "num": 233890,
-      "word": "好东西 票房",
-      "onboard_time": 1731773841,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 96788,
@@ -403,20 +419,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 88325,
-      "num": 148592,
-      "word": "格林威治",
-      "onboard_time": 1731773541,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57176,
       "num": 274031,
       "word": "黄子弘凡北京演唱会下班直播",
       "onboard_time": 1731773420,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53944,
+      "num": 84777,
+      "word": "珠海航展",
+      "onboard_time": 1731745338,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 39662,
+      "num": 158555,
+      "word": "新疆沙漠里瓜果蔬菜水灵灵丰收了",
+      "onboard_time": 1731776120,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34301,
+      "num": 162638,
+      "word": "小渔船一网下去捞起美国核潜艇",
+      "onboard_time": 1731777257,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33290,
@@ -427,12 +459,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26655,
+      "num": 114216,
+      "word": "周翊然见面会",
+      "onboard_time": 1731776238,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19043,
       "num": 256595,
       "word": "张家界桑植县通报一民房发生火灾",
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16833,
+      "num": 158782,
+      "word": "奥本海默最佳外语片",
+      "onboard_time": 1731769883,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14896,
+      "num": 159316,
+      "word": "SHUN理成张",
+      "onboard_time": 1731772222,
+      "rank": 24,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
