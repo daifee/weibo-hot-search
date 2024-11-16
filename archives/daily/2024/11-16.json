@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731713792961,
+  "endTime": 1731721527816,
   "band_list": [
     {
       "raw_hot": 1423536,
@@ -9,6 +9,22 @@
       "onboard_time": 1731684498,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1000232,
+      "num": 1160037,
+      "word": "中铁七局道歉",
+      "onboard_time": 1731715817,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 946712,
+      "num": 946712,
+      "word": "祝绪丹一次直播漏个大的",
+      "onboard_time": 1731704892,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 945840,
@@ -59,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 507152,
-      "num": 166936,
-      "word": "祝绪丹一次直播漏个大的",
-      "onboard_time": 1731704892,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 467056,
+      "num": 210284,
+      "word": "黄晓明为近期争议道歉",
+      "onboard_time": 1731720618,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 451427,
@@ -73,6 +89,14 @@
       "onboard_time": 1731681440,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420850,
+      "num": 420850,
+      "word": "39岁C罗倒钩",
+      "onboard_time": 1731716477,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 407725,
@@ -99,6 +123,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 372527,
+      "num": 372527,
+      "word": "珠帘玉幕造型师回应收腰囚服争议",
+      "onboard_time": 1731715876,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 358522,
+      "num": 358522,
+      "word": "16万元的婚宴菜不热能索赔吗",
+      "onboard_time": 1731702791,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 356951,
+      "num": 246488,
+      "word": "记者采访被袭中铁七局5人就地免职",
+      "onboard_time": 1731693554,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 356921,
       "num": 359770,
       "word": "祝绪丹回应与丁禹兮关系",
@@ -115,11 +163,35 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 337496,
+      "num": 337496,
+      "word": "成龙呼吁大家到电影院看电影",
+      "onboard_time": 1731712574,
+      "rank": 19,
+      "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 286552,
+      "num": 286552,
+      "word": "吴梦知从湖南卫视离职",
+      "onboard_time": 1731712814,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285857,
       "num": 285857,
       "word": "徐海乔上海外滩上演一秒变脸",
       "onboard_time": 1731682520,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282710,
+      "num": 209803,
+      "word": "蔡琳否认不让高梓淇见儿子",
+      "onboard_time": 1731712754,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -129,6 +201,14 @@
       "onboard_time": 1731680901,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268965,
+      "num": 201343,
+      "word": "麦琳像请回答1988罗美兰",
+      "onboard_time": 1731719177,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 251122,
@@ -155,12 +235,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 246488,
-      "num": 246488,
-      "word": "记者采访被袭中铁七局5人就地免职",
-      "onboard_time": 1731693554,
-      "rank": 14,
-      "category": "辟谣/通报"
+      "raw_hot": 232640,
+      "num": 209726,
+      "word": "丁禹兮凌晨北海到达",
+      "onboard_time": 1731717077,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 230230,
@@ -171,6 +251,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 210515,
+      "num": 210515,
+      "word": "官方通报中学生质问学校问题核查情况",
+      "onboard_time": 1731718577,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 209678,
+      "num": 209678,
+      "word": "青岛一建筑突发爆炸",
+      "onboard_time": 1731686539,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 203310,
       "num": 203310,
       "word": "茉莉奶白道歉",
@@ -179,20 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200529,
-      "num": 166900,
-      "word": "成龙呼吁大家到电影院看电影",
-      "onboard_time": 1731712574,
-      "rank": 19,
-      "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 199855,
-      "num": 199855,
-      "word": "青岛一建筑突发爆炸",
-      "onboard_time": 1731686539,
-      "rank": 23,
-      "category": "突发/灾害"
+      "raw_hot": 200915,
+      "num": 200915,
+      "word": "女子称将狗借给剧组当群演1年多未还",
+      "onboard_time": 1731712635,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199357,
@@ -203,12 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194353,
-      "num": 122305,
-      "word": "女子称将狗借给剧组当群演1年多未还",
-      "onboard_time": 1731712635,
-      "rank": 21,
+      "raw_hot": 195022,
+      "num": 195022,
+      "word": "家长觉得孩子反常查监控发现被虐待",
+      "onboard_time": 1731718818,
+      "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192083,
+      "num": 201495,
+      "word": "Doinb自曝要一亿买LPL名额",
+      "onboard_time": 1731713054,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 186574,
@@ -227,12 +323,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171565,
-      "num": 171565,
-      "word": "16万元的婚宴菜不热能索赔吗",
-      "onboard_time": 1731702791,
-      "rank": 19,
-      "category": "议题讨论"
+      "raw_hot": 171673,
+      "num": 171673,
+      "word": "煮虾别等水开了才下锅",
+      "onboard_time": 1731690676,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 170430,
+      "num": 170430,
+      "word": "8岁儿童扔玩具被终身禁入熊猫基地",
+      "onboard_time": 1731720379,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169500,
@@ -240,14 +344,6 @@
       "word": "张艺谋女儿任达华女儿 巴黎名媛舞会",
       "onboard_time": 1731675800,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 166875,
-      "num": 166875,
-      "word": "吴梦知从湖南卫视离职",
-      "onboard_time": 1731712814,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -265,6 +361,22 @@
       "onboard_time": 1731656060,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149363,
+      "num": 149363,
+      "word": "范丞丞说提名金鸡奖光宗耀祖",
+      "onboard_time": 1731714315,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145248,
+      "num": 145248,
+      "word": "天舟八号成功对接空间站",
+      "onboard_time": 1731717258,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143095,
@@ -315,12 +427,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120736,
-      "num": 120736,
-      "word": "煮虾别等水开了才下锅",
-      "onboard_time": 1731690676,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 126565,
+      "num": 126565,
+      "word": "国足对阵日本4万多张球票已售罄",
+      "onboard_time": 1731717198,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116441,
+      "num": 210356,
+      "word": "大熊猫回国收到一屋子吃的",
+      "onboard_time": 1731719058,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116103,
+      "num": 147264,
+      "word": "心理医生称麦琳买熏鸡是情绪宣泄",
+      "onboard_time": 1731720858,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114598,
+      "num": 125895,
+      "word": "闫妮关晓彤小巷人家母女线",
+      "onboard_time": 1731717617,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 114512,
@@ -379,12 +515,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102038,
-      "num": 102038,
-      "word": "蔡琳否认不让高梓淇见儿子",
-      "onboard_time": 1731712754,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 101426,
+      "num": 101426,
+      "word": "一群青壮年威胁瘦弱狗狗表演",
+      "onboard_time": 1731720439,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101335,
+      "num": 101335,
+      "word": "起名改名要慎之又慎",
+      "onboard_time": 1731719238,
+      "rank": 37,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 100381,
+      "num": 100381,
+      "word": "官方通报学校有钱请表演没钱修宿舍",
+      "onboard_time": 1731719177,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 98987,
@@ -411,12 +563,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93867,
-      "num": 93867,
-      "word": "Doinb自曝要一亿买LPL名额",
-      "onboard_time": 1731713054,
-      "rank": 27,
-      "category": "电竞"
+      "raw_hot": 89137,
+      "num": 89137,
+      "word": "特朗普宣布多项任命",
+      "onboard_time": 1731713837,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88228,
@@ -425,6 +577,22 @@
       "onboard_time": 1731664759,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87405,
+      "num": 87405,
+      "word": "男子夜驾撞飞两头野猪被判全责",
+      "onboard_time": 1731706091,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86403,
+      "num": 86403,
+      "word": "云南豌豆尖120元1kg热销韩国",
+      "onboard_time": 1731712695,
+      "rank": 48,
+      "category": "美食,国际时政"
     },
     {
       "raw_hot": 86018,
@@ -483,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80758,
+      "num": 80758,
+      "word": "北京最低气温降幅将达10度",
+      "onboard_time": 1731717797,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79946,
       "num": 75021,
       "word": "李子柒为什么没有平替",
@@ -491,12 +667,28 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 75694,
+      "num": 91967,
+      "word": "国足取胜后男生宿舍沸腾了",
+      "onboard_time": 1731719297,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74462,
       "num": 82408,
       "word": "证监会正式发布市值管理指引",
       "onboard_time": 1731685578,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74436,
+      "num": 74436,
+      "word": "永夜星河 没有吻戏自己p",
+      "onboard_time": 1731713896,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 74002,
@@ -513,6 +705,14 @@
       "onboard_time": 1731678320,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69394,
+      "num": 69394,
+      "word": "aespa获TikTok颁奖礼年度艺人",
+      "onboard_time": 1731718878,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 69302,
@@ -547,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59140,
-      "num": 59140,
-      "word": "男子夜驾撞飞两头野猪被判全责",
-      "onboard_time": 1731706091,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58954,
       "num": 56691,
       "word": "关晓彤吴艳妮活动同框",
@@ -577,14 +769,6 @@
       "onboard_time": 1731706450,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42022,
-      "num": 42022,
-      "word": "云南豌豆尖120元1kg热销韩国",
-      "onboard_time": 1731712695,
-      "rank": 48,
-      "category": "美食,国际时政"
     },
     {
       "raw_hot": 41144,
@@ -796,7 +980,7 @@
     },
     {
       "raw_hot": 5975,
-      "num": 260169,
+      "num": 646257,
       "word": "航拍秘鲁钱凯港",
       "onboard_time": 1731678320,
       "rank": 2,
@@ -812,6 +996,9 @@
     },
     {
       "word": "#习主席谈中秘美好未来#"
+    },
+    {
+      "word": "#习近平向亚太经合组织工商领导人峰会发表书面演讲#"
     }
   ]
 }
