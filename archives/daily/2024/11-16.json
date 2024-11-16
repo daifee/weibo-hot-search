@@ -1,6 +1,6 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731727982427,
+  "endTime": 1731728736310,
   "band_list": [
     {
       "raw_hot": 1697049,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 881052,
+      "num": 228237,
+      "word": "丁禹兮火了之后第一步",
+      "onboard_time": 1731726737,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 858896,
       "num": 538215,
       "word": "德国连环强奸案告破",
@@ -67,14 +75,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 756026,
-      "num": 202204,
-      "word": "丁禹兮火了之后第一步",
-      "onboard_time": 1731726737,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 743111,
       "num": 254197,
       "word": "袁泉给女儿开家长会",
@@ -97,6 +97,14 @@
       "onboard_time": 1731686899,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585942,
+      "num": 199089,
+      "word": "李子柒回应奶奶有没有催婚",
+      "onboard_time": 1731726737,
+      "rank": 20,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 561761,
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417774,
+      "num": 417774,
+      "word": "你好星期六全员损友局",
+      "onboard_time": 1731726438,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407725,
       "num": 407725,
       "word": "男子恶意将小狗踢下五台山",
@@ -169,14 +185,6 @@
       "onboard_time": 1731715876,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362325,
-      "num": 294938,
-      "word": "你好星期六全员损友局",
-      "onboard_time": 1731726438,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 358522,
@@ -219,14 +227,6 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 325095,
-      "num": 181305,
-      "word": "李子柒回应奶奶有没有催婚",
-      "onboard_time": 1731726737,
-      "rank": 20,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 286552,
       "num": 286552,
       "word": "吴梦知从湖南卫视离职",
@@ -259,6 +259,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265631,
+      "num": 265631,
+      "word": "国企董事长回应运营总监高中学历",
+      "onboard_time": 1731726438,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 259212,
+      "num": 249804,
+      "word": "人生不设限的一博为金鸡再添热烈",
+      "onboard_time": 1731721758,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 252923,
+      "num": 214352,
+      "word": "白夜破晓全阵容官宣",
+      "onboard_time": 1731726377,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251122,
       "num": 251122,
       "word": "再见爱人4 留几手葛夕还是敢说",
@@ -283,14 +307,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 249804,
-      "num": 249804,
-      "word": "人生不设限的一博为金鸡再添热烈",
-      "onboard_time": 1731721758,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 232640,
       "num": 209726,
       "word": "丁禹兮凌晨北海到达",
@@ -313,14 +329,6 @@
       "onboard_time": 1731686539,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 208940,
-      "num": 207462,
-      "word": "白夜破晓全阵容官宣",
-      "onboard_time": 1731726377,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 203879,
@@ -475,6 +483,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162680,
+      "num": 162680,
+      "word": "aespa四个人的背影",
+      "onboard_time": 1731727038,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 160120,
+      "num": 160120,
+      "word": "十万狂花入梦来 古偶玩惊悚",
+      "onboard_time": 1731727938,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159677,
       "num": 159677,
       "word": "黄金跌上热搜有人抄底买1公斤金条",
@@ -563,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133486,
-      "num": 133486,
-      "word": "aespa四个人的背影",
-      "onboard_time": 1731727038,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "齐哥收拾收拾准备升咖吧",
@@ -611,12 +627,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125244,
-      "num": 239066,
-      "word": "国企董事长回应运营总监高中学历",
-      "onboard_time": 1731726438,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 124886,
+      "num": 124886,
+      "word": "NBA杯",
+      "onboard_time": 1731728357,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 123229,
@@ -657,6 +673,14 @@
       "onboard_time": 1731721520,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111872,
+      "num": 111872,
+      "word": "久诚晒聊天记录",
+      "onboard_time": 1731728357,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 111867,
@@ -712,6 +736,14 @@
       "word": "印尼0比4日本",
       "onboard_time": 1731681380,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102027,
+      "num": 102027,
+      "word": "泰森vs保罗",
+      "onboard_time": 1731728118,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -780,7 +812,7 @@
     },
     {
       "raw_hot": 98901,
-      "num": 98901,
+      "num": 139331,
       "word": "航天员要考近100门学科是标配",
       "onboard_time": 1731727217,
       "rank": 45,
@@ -811,12 +843,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95386,
+      "num": 254041,
+      "word": "国足刚下飞机就训练",
+      "onboard_time": 1731725538,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95255,
       "num": 95255,
       "word": "空军八一飞行表演队上演空中炫舞",
       "onboard_time": 1731725298,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 93128,
+      "num": 226479,
+      "word": "姐弟俩偷盗为网店供货",
+      "onboard_time": 1731726256,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88228,
@@ -883,14 +931,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 83235,
-      "num": 254041,
-      "word": "国足刚下飞机就训练",
-      "onboard_time": 1731725538,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82840,
       "num": 153309,
       "word": "故宫博物院原常务副院长王亚民被查",
@@ -915,12 +955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81039,
-      "num": 81039,
-      "word": "十万狂花入梦来 古偶玩惊悚",
-      "onboard_time": 1731727938,
+      "raw_hot": 79989,
+      "num": 79989,
+      "word": "王源新歌日落可以慢半拍",
+      "onboard_time": 1731728718,
       "rank": 49,
-      "category": "剧集"
+      "category": "音乐"
     },
     {
       "raw_hot": 79946,
@@ -1019,20 +1059,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50013,
+      "num": 221023,
+      "word": "医生说学霸厕纸易诱发肛肠疾病",
+      "onboard_time": 1731728178,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47659,
       "num": 47659,
       "word": "王安宇 破碎小狗",
       "onboard_time": 1731704831,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47194,
-      "num": 226479,
-      "word": "姐弟俩偷盗为网店供货",
-      "onboard_time": 1731726256,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42169,
@@ -1147,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23219,
+      "num": 99139,
+      "word": "被仓鼠视角的猫萌晕了",
+      "onboard_time": 1731727338,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21672,
       "num": 40513,
       "word": "中秘同为文明古国",
@@ -1219,12 +1267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12499,
-      "num": 99139,
-      "word": "被仓鼠视角的猫萌晕了",
-      "onboard_time": 1731727338,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 12441,
+      "num": 203445,
+      "word": "TWS南山塔挂锁",
+      "onboard_time": 1731727697,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 11723,
@@ -1257,14 +1305,6 @@
       "onboard_time": 1731702730,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6530,
-      "num": 184933,
-      "word": "TWS南山塔挂锁",
-      "onboard_time": 1731727697,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 6134,
