@@ -1,7 +1,15 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731721527816,
+  "endTime": 1731722862645,
   "band_list": [
+    {
+      "raw_hot": 1617272,
+      "num": 210284,
+      "word": "黄晓明为近期争议道歉",
+      "onboard_time": 1731720618,
+      "rank": 10,
+      "category": "电影"
+    },
     {
       "raw_hot": 1423536,
       "num": 331741,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 946712,
-      "num": 946712,
+      "num": 1138058,
       "word": "祝绪丹一次直播漏个大的",
       "onboard_time": 1731704892,
       "rank": 18,
@@ -75,12 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 467056,
-      "num": 210284,
-      "word": "黄晓明为近期争议道歉",
-      "onboard_time": 1731720618,
-      "rank": 10,
-      "category": "电影"
+      "raw_hot": 530602,
+      "num": 530602,
+      "word": "官方通报中学生质问学校问题核查情况",
+      "onboard_time": 1731718577,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 451427,
@@ -88,6 +96,14 @@
       "word": "丁禹兮应该开演唱会",
       "onboard_time": 1731681440,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 428660,
+      "num": 428660,
+      "word": "麦琳像请回答1988罗美兰",
+      "onboard_time": 1731719177,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268965,
-      "num": 201343,
-      "word": "麦琳像请回答1988罗美兰",
-      "onboard_time": 1731719177,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251122,
       "num": 251122,
       "word": "再见爱人4 留几手葛夕还是敢说",
@@ -251,20 +259,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 210515,
-      "num": 210515,
-      "word": "官方通报中学生质问学校问题核查情况",
-      "onboard_time": 1731718577,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 209678,
       "num": 209678,
       "word": "青岛一建筑突发爆炸",
       "onboard_time": 1731686539,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 203879,
+      "num": 195022,
+      "word": "家长觉得孩子反常查监控发现被虐待",
+      "onboard_time": 1731718818,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203310,
@@ -291,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195022,
-      "num": 195022,
-      "word": "家长觉得孩子反常查监控发现被虐待",
-      "onboard_time": 1731718818,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192083,
       "num": 201495,
       "word": "Doinb自曝要一亿买LPL名额",
@@ -315,6 +315,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186446,
+      "num": 186446,
+      "word": "枭起青壤预约量破100万",
+      "onboard_time": 1731722357,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175238,
+      "num": 175238,
+      "word": "煮虾别等水开了才下锅",
+      "onboard_time": 1731690676,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173117,
       "num": 173117,
       "word": "中领馆通报破获多名中国女性在德遭强奸案",
@@ -323,12 +339,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171673,
-      "num": 171673,
-      "word": "煮虾别等水开了才下锅",
-      "onboard_time": 1731690676,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 173031,
+      "num": 210356,
+      "word": "大熊猫回国收到一屋子吃的",
+      "onboard_time": 1731719058,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170430,
@@ -345,6 +361,22 @@
       "onboard_time": 1731675800,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169312,
+      "num": 169312,
+      "word": "轮到10后把95后拍在了沙滩上",
+      "onboard_time": 1731721820,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 162697,
+      "num": 162697,
+      "word": "心理医生称麦琳买熏鸡是情绪宣泄",
+      "onboard_time": 1731720858,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 158623,
@@ -419,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129999,
+      "num": 129999,
+      "word": "国足对阵日本4万多张球票已售罄",
+      "onboard_time": 1731717198,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129341,
       "num": 129341,
       "word": "云南一司机卸货不慎连人带车滚下山崖",
@@ -427,31 +467,23 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126565,
-      "num": 126565,
-      "word": "国足对阵日本4万多张球票已售罄",
-      "onboard_time": 1731717198,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116441,
-      "num": 210356,
-      "word": "大熊猫回国收到一屋子吃的",
-      "onboard_time": 1731719058,
+      "raw_hot": 123040,
+      "num": 187018,
+      "word": "人生不设限的一博为金鸡再添热烈",
+      "onboard_time": 1731721758,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "电影"
     },
     {
-      "raw_hot": 116103,
-      "num": 147264,
-      "word": "心理医生称麦琳买熏鸡是情绪宣泄",
-      "onboard_time": 1731720858,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 114989,
+      "num": 114989,
+      "word": "特朗普宣布多项任命",
+      "onboard_time": 1731713837,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 114598,
+      "raw_hot": 114687,
       "num": 125895,
       "word": "闫妮关晓彤小巷人家母女线",
       "onboard_time": 1731717617,
@@ -465,6 +497,14 @@
       "onboard_time": 1731674059,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114202,
+      "num": 114202,
+      "word": "星宝",
+      "onboard_time": 1731721520,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 110360,
@@ -539,6 +579,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 100195,
+      "num": 100195,
+      "word": "北京最低气温降幅将达10度",
+      "onboard_time": 1731717797,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99070,
+      "num": 99070,
+      "word": "国足取胜后男生宿舍沸腾了",
+      "onboard_time": 1731719297,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98987,
       "num": 123569,
       "word": "徐克射雕重点在襄阳保卫战",
@@ -563,12 +619,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89137,
-      "num": 89137,
-      "word": "特朗普宣布多项任命",
-      "onboard_time": 1731713837,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 92677,
+      "num": 186629,
+      "word": "杨紫编织冬的乐章",
+      "onboard_time": 1731722178,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 88228,
@@ -651,12 +707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80758,
-      "num": 80758,
-      "word": "北京最低气温降幅将达10度",
-      "onboard_time": 1731717797,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 80403,
+      "num": 80403,
+      "word": "以军在加沙行为符合种族灭绝特征",
+      "onboard_time": 1731722777,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79946,
@@ -665,14 +721,6 @@
       "onboard_time": 1731689597,
       "rank": 30,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 75694,
-      "num": 91967,
-      "word": "国足取胜后男生宿舍沸腾了",
-      "onboard_time": 1731719297,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 74462,
@@ -999,6 +1047,9 @@
     },
     {
       "word": "#习近平向亚太经合组织工商领导人峰会发表书面演讲#"
+    },
+    {
+      "word": "#携手推动普惠包容的经济全球化#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731722862645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 862865,
+        "num": 1138058,
+        "word": "祝绪丹一次直播漏个大的",
+        "onboard_time": 1731704892,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759150,
+        "num": 759150,
+        "word": "中铁七局道歉",
+        "onboard_time": 1731715817,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 4053,
+        "num": 632108,
+        "word": "航拍秘鲁钱凯港",
+        "onboard_time": 1731678320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530602,
+        "num": 530602,
+        "word": "官方通报中学生质问学校问题核查情况",
+        "onboard_time": 1731718577,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 428660,
+        "num": 428660,
+        "word": "麦琳像请回答1988罗美兰",
+        "onboard_time": 1731719177,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299943,
+        "num": 299943,
+        "word": "39岁C罗倒钩",
+        "onboard_time": 1731716477,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327025,
+        "num": 297505,
+        "word": "珠帘玉幕造型师回应收腰囚服争议",
+        "onboard_time": 1731715876,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280572,
+        "num": 280572,
+        "word": "16万元的婚宴菜不热能索赔吗",
+        "onboard_time": 1731702791,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 187038,
+        "num": 187038,
+        "word": "BBC报道李子柒复出打上灰色滤镜",
+        "onboard_time": 1731672737,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123040,
+        "num": 187018,
+        "word": "人生不设限的一博为金鸡再添热烈",
+        "onboard_time": 1731721758,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1617272,
+        "num": 186980,
+        "word": "黄晓明为近期争议道歉",
+        "onboard_time": 1731720618,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409686,
+        "num": 186947,
+        "word": "德连环强奸案嫌疑人系43岁中国公民",
+        "onboard_time": 1731683600,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317537,
+        "num": 186896,
+        "word": "王昶 钱天一",
+        "onboard_time": 1731684498,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340029,
+        "num": 186824,
+        "word": "记者采访被袭中铁七局5人就地免职",
+        "onboard_time": 1731693554,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 283385,
+        "num": 186780,
+        "word": "人被被子单杀可能性几乎但并不为零",
+        "onboard_time": 1731686899,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270863,
+        "num": 186761,
+        "word": "成龙呼吁大家到电影院看电影",
+        "onboard_time": 1731712574,
+        "rank": 15,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 226104,
+        "num": 186709,
+        "word": "蔡琳否认不让高梓淇见儿子",
+        "onboard_time": 1731712754,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212509,
+        "num": 186674,
+        "word": "丁禹兮凌晨北海到达",
+        "onboard_time": 1731717077,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186633,
+        "num": 186633,
+        "word": "青岛一建筑突发爆炸",
+        "onboard_time": 1731686539,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 92677,
+        "num": 186629,
+        "word": "杨紫编织冬的乐章",
+        "onboard_time": 1731722178,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 362232,
+        "num": 186580,
+        "word": "官方回应8岁娃终身禁入熊猫基地",
+        "onboard_time": 1731684319,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203879,
+        "num": 186553,
+        "word": "家长觉得孩子反常查监控发现被虐待",
+        "onboard_time": 1731718818,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194589,
+        "num": 186539,
+        "word": "女子称将狗借给剧组当群演1年多未还",
+        "onboard_time": 1731712635,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188411,
+        "num": 186489,
+        "word": "吴梦知从湖南卫视离职",
+        "onboard_time": 1731712814,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187494,
+        "num": 186456,
+        "word": "张云龙",
+        "onboard_time": 1731685879,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186446,
+        "num": 186446,
+        "word": "枭起青壤预约量破100万",
+        "onboard_time": 1731722357,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175238,
+        "num": 175238,
+        "word": "煮虾别等水开了才下锅",
+        "onboard_time": 1731690676,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173031,
+        "num": 173031,
+        "word": "大熊猫回国收到一屋子吃的",
+        "onboard_time": 1731719058,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169312,
+        "num": 169312,
+        "word": "轮到10后把95后拍在了沙滩上",
+        "onboard_time": 1731721820,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162697,
+        "num": 162697,
+        "word": "心理医生称麦琳买熏鸡是情绪宣泄",
+        "onboard_time": 1731720858,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146084,
+        "num": 146084,
+        "word": "Doinb自曝要一亿买LPL名额",
+        "onboard_time": 1731713054,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133944,
+        "num": 133944,
+        "word": "丁禹兮应该开演唱会",
+        "onboard_time": 1731681440,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129999,
+        "num": 129999,
+        "word": "国足对阵日本4万多张球票已售罄",
+        "onboard_time": 1731717198,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120431,
+        "num": 120431,
+        "word": "男子恶意将小狗踢下五台山",
+        "onboard_time": 1731686359,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117019,
+        "num": 117019,
+        "word": "天舟八号成功对接空间站",
+        "onboard_time": 1731717258,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114989,
+        "num": 114989,
+        "word": "特朗普宣布多项任命",
+        "onboard_time": 1731713837,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114687,
+        "num": 114687,
+        "word": "闫妮关晓彤小巷人家母女线",
+        "onboard_time": 1731717617,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114202,
+        "num": 114202,
+        "word": "星宝",
+        "onboard_time": 1731721520,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112532,
+        "num": 112532,
+        "word": "范丞丞说提名金鸡奖光宗耀祖",
+        "onboard_time": 1731714315,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108351,
+        "num": 108351,
+        "word": "教体局回应学生吐槽学校被闭麦拉走",
+        "onboard_time": 1731680901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102078,
+        "num": 102078,
+        "word": "天舟八号发射",
+        "onboard_time": 1731678320,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100195,
+        "num": 100195,
+        "word": "北京最低气温降幅将达10度",
+        "onboard_time": 1731717797,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99070,
+        "num": 99070,
+        "word": "国足取胜后男生宿舍沸腾了",
+        "onboard_time": 1731719297,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95267,
+        "num": 95267,
+        "word": "一群青壮年威胁瘦弱狗狗表演",
+        "onboard_time": 1731720439,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84049,
+        "num": 84049,
+        "word": "张艺谋女儿任达华女儿 巴黎名媛舞会",
+        "onboard_time": 1731675800,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83415,
+        "num": 83415,
+        "word": "8岁儿童扔玩具被终身禁入熊猫基地",
+        "onboard_time": 1731720379,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82344,
+        "num": 82344,
+        "word": "云南豌豆尖120元1kg热销韩国",
+        "onboard_time": 1731712695,
+        "rank": 46,
+        "category": "美食,国际时政"
+      },
+      {
+        "raw_hot": 80801,
+        "num": 80801,
+        "word": "男子夜驾撞飞两头野猪被判全责",
+        "onboard_time": 1731706091,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80403,
+        "num": 80403,
+        "word": "以军在加沙行为符合种族灭绝特征",
+        "onboard_time": 1731722777,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77709,
+        "num": 77709,
+        "word": "官方通报学校有钱请表演没钱修宿舍",
+        "onboard_time": 1731719177,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手推动普惠包容的经济全球化#"
+    }
+  }
+}
