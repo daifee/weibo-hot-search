@@ -1,10 +1,10 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731722862645,
+  "endTime": 1731725892321,
   "band_list": [
     {
-      "raw_hot": 1617272,
-      "num": 210284,
+      "raw_hot": 1697049,
+      "num": 254397,
       "word": "黄晓明为近期争议道歉",
       "onboard_time": 1731720618,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 743111,
+      "num": 254197,
+      "word": "袁泉给女儿开家长会",
+      "onboard_time": 1731723678,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668437,
       "num": 668437,
       "word": "官方回应8岁娃终身禁入熊猫基地",
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539751,
+      "num": 428660,
+      "word": "麦琳像请回答1988罗美兰",
+      "onboard_time": 1731719177,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530602,
       "num": 530602,
       "word": "官方通报中学生质问学校问题核查情况",
@@ -96,14 +112,6 @@
       "word": "丁禹兮应该开演唱会",
       "onboard_time": 1731681440,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 428660,
-      "num": 428660,
-      "word": "麦琳像请回答1988罗美兰",
-      "onboard_time": 1731719177,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252941,
+      "num": 252941,
+      "word": "学校未责罚质问不修宿舍学生",
+      "onboard_time": 1731724638,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251122,
       "num": 251122,
       "word": "再见爱人4 留几手葛夕还是敢说",
@@ -241,6 +257,14 @@
       "onboard_time": 1731678320,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 249804,
+      "num": 249804,
+      "word": "人生不设限的一博为金鸡再添热烈",
+      "onboard_time": 1731721758,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 232640,
@@ -299,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194812,
+      "num": 194812,
+      "word": "你好星期六",
+      "onboard_time": 1731725118,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192083,
       "num": 201495,
       "word": "Doinb自曝要一亿买LPL名额",
@@ -323,6 +355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184593,
+      "num": 184593,
+      "word": "中日关系处于改善发展的关键时期",
+      "onboard_time": 1731724158,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 177471,
+      "num": 177471,
+      "word": "中国兵器过于先进无可奉告",
+      "onboard_time": 1731723617,
+      "rank": 26,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 175238,
       "num": 175238,
       "word": "煮虾别等水开了才下锅",
@@ -345,6 +393,14 @@
       "onboard_time": 1731719058,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172859,
+      "num": 185553,
+      "word": "朝朝穆穆",
+      "onboard_time": 1731724638,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 170430,
@@ -387,12 +443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157535,
+      "num": 157535,
+      "word": "以军在加沙行为符合种族灭绝特征",
+      "onboard_time": 1731722777,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155171,
       "num": 155171,
       "word": "女生不喝奶茶却查出糖尿病无法接受",
       "onboard_time": 1731656060,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154744,
+      "num": 154744,
+      "word": "张婉婷说录再见爱人不是为了气观众",
+      "onboard_time": 1731723017,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 149363,
@@ -465,14 +537,6 @@
       "onboard_time": 1731676280,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123040,
-      "num": 187018,
-      "word": "人生不设限的一博为金鸡再添热烈",
-      "onboard_time": 1731721758,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 114989,
@@ -587,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99971,
+      "num": 99971,
+      "word": "秘鲁邮票上印有中国炒饭",
+      "onboard_time": 1731723978,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99070,
       "num": 99070,
       "word": "国足取胜后男生宿舍沸腾了",
@@ -601,6 +673,14 @@
       "onboard_time": 1731693554,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98195,
+      "num": 186629,
+      "word": "杨紫编织冬的乐章",
+      "onboard_time": 1731722178,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 96389,
@@ -619,12 +699,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92677,
-      "num": 186629,
-      "word": "杨紫编织冬的乐章",
-      "onboard_time": 1731722178,
-      "rank": 19,
-      "category": "作品衍生,时尚"
+      "raw_hot": 95255,
+      "num": 95255,
+      "word": "空军八一飞行表演队上演空中炫舞",
+      "onboard_time": 1731725298,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 92114,
+      "num": 92114,
+      "word": "于洪文旅副局长火了后被争相模仿",
+      "onboard_time": 1731724997,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88228,
@@ -707,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80403,
-      "num": 80403,
-      "word": "以军在加沙行为符合种族灭绝特征",
-      "onboard_time": 1731722777,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79946,
       "num": 75021,
       "word": "李子柒为什么没有平替",
@@ -753,6 +833,14 @@
       "onboard_time": 1731678320,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73475,
+      "num": 200675,
+      "word": "女子被骗不听劝称喜欢把钱扔水里",
+      "onboard_time": 1731724277,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69394,
@@ -803,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52226,
+      "num": 254928,
+      "word": "11月起黄金变现激增",
+      "onboard_time": 1731724397,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 47659,
       "num": 47659,
       "word": "王安宇 破碎小狗",
       "onboard_time": 1731704831,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43930,
+      "num": 158533,
+      "word": "尤长靖三折叠人形立牌",
+      "onboard_time": 1731725838,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 42169,
@@ -865,6 +969,14 @@
       "onboard_time": 1731686599,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29847,
+      "num": 254041,
+      "word": "国足刚下飞机就训练",
+      "onboard_time": 1731725538,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 29560,
@@ -1001,6 +1113,14 @@
       "onboard_time": 1731690256,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11462,
+      "num": 253720,
+      "word": "台积电在美国遭指控",
+      "onboard_time": 1731725358,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10613,
