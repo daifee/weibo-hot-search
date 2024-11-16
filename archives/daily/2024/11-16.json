@@ -1,7 +1,15 @@
 {
   "startTime": 1731688154561,
-  "endTime": 1731756919823,
+  "endTime": 1731760863927,
   "band_list": [
+    {
+      "raw_hot": 2294363,
+      "num": 2294363,
+      "word": "刘丹金鸡奖最佳女配角",
+      "onboard_time": 1731757879,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 1743128,
       "num": 1743128,
@@ -83,12 +91,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1021386,
+      "num": 775558,
+      "word": "金鸡奖直播",
+      "onboard_time": 1731748218,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1000232,
       "num": 1160037,
       "word": "中铁七局道歉",
       "onboard_time": 1731715817,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 999399,
+      "num": 245106,
+      "word": "王骁金鸡奖最佳男配角",
+      "onboard_time": 1731757520,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 955996,
@@ -163,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 775558,
-      "num": 775558,
-      "word": "金鸡奖直播",
-      "onboard_time": 1731748218,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 762894,
       "num": 762894,
       "word": "再见爱人背景音没消掉",
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720855,
+      "num": 253464,
+      "word": "留几手向麦琳道歉",
+      "onboard_time": 1731756740,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686455,
       "num": 686455,
       "word": "沈月文笔",
@@ -248,6 +272,14 @@
       "word": "女子裸辞半年后转行当绿领收入翻番",
       "onboard_time": 1731740777,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643259,
+      "num": 310017,
+      "word": "69岁产女婴老夫妻为女儿过5岁生日",
+      "onboard_time": 1731755418,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -305,6 +337,14 @@
       "onboard_time": 1731719177,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 536435,
+      "num": 239520,
+      "word": "张子枫妆造",
+      "onboard_time": 1731757339,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 530602,
@@ -403,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427729,
+      "num": 237781,
+      "word": "你好星期六",
+      "onboard_time": 1731725118,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421792,
+      "num": 237040,
+      "word": "紫色的程潇",
+      "onboard_time": 1731756559,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420850,
       "num": 420850,
       "word": "39岁C罗倒钩",
@@ -483,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 377714,
+      "num": 235051,
+      "word": "大梦归离大结局",
+      "onboard_time": 1731759380,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372929,
       "num": 317114,
       "word": "今天把掌声送给河南籍演员王一博",
@@ -523,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356465,
-      "num": 310017,
-      "word": "69岁产女婴老夫妻为女儿过5岁生日",
-      "onboard_time": 1731755418,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 354828,
       "num": 354828,
       "word": "泰森复出不敌27岁网红",
@@ -545,6 +601,14 @@
       "onboard_time": 1731683179,
       "rank": 7,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 350923,
+      "num": 266681,
+      "word": "年会不能停2",
+      "onboard_time": 1731755598,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 340143,
@@ -577,6 +641,14 @@
       "onboard_time": 1731731598,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313688,
+      "num": 233980,
+      "word": "永夜星河",
+      "onboard_time": 1731664759,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 313614,
@@ -627,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287380,
+      "num": 224912,
+      "word": "虞书欣真的很想抱起丁禹兮",
+      "onboard_time": 1731758661,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286552,
       "num": 286552,
       "word": "吴梦知从湖南卫视离职",
@@ -667,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266681,
-      "num": 266681,
-      "word": "年会不能停2",
-      "onboard_time": 1731755598,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 265274,
       "num": 247787,
       "word": "韩国KGMA颁奖典礼",
@@ -689,6 +761,14 @@
       "onboard_time": 1731729318,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 264765,
+      "num": 215744,
+      "word": "惠英红拥抱鼓励赵丽颖",
+      "onboard_time": 1731758481,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 263341,
@@ -713,14 +793,6 @@
       "onboard_time": 1731745519,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 253464,
-      "num": 253464,
-      "word": "留几手向麦琳道歉",
-      "onboard_time": 1731756740,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 252923,
@@ -779,12 +851,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245736,
+      "num": 245736,
+      "word": "马琳说孙颖莎王曼昱状态逐渐恢复",
+      "onboard_time": 1731758720,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245531,
+      "num": 205275,
+      "word": "金鸡奖节目单",
+      "onboard_time": 1731758062,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236033,
       "num": 191661,
       "word": "珍珠蚌也会拉肚子",
       "onboard_time": 1731736458,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 235341,
+      "num": 235341,
+      "word": "徐若晗越素越美丽",
+      "onboard_time": 1731757399,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233826,
+      "num": 233826,
+      "word": "两代妲己",
+      "onboard_time": 1731759681,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 232640,
@@ -841,6 +945,14 @@
       "onboard_time": 1731729318,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215070,
+      "num": 243241,
+      "word": "金饰价格跌至700元以下",
+      "onboard_time": 1731756920,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 210041,
@@ -955,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194812,
-      "num": 194812,
-      "word": "你好星期六",
-      "onboard_time": 1731725118,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194798,
       "num": 194798,
       "word": "王一博金鸡奖颁奖典礼仪式入场",
@@ -1072,14 +1176,6 @@
       "word": "苏新皓直拍",
       "onboard_time": 1731755598,
       "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 177189,
-      "num": 177189,
-      "word": "紫色的程潇",
-      "onboard_time": 1731756559,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -1201,6 +1297,14 @@
       "onboard_time": 1731723017,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161025,
+      "num": 344775,
+      "word": "金鸡奖内场",
+      "onboard_time": 1731756258,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 160694,
@@ -1387,6 +1491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 147122,
+      "num": 147122,
+      "word": "小巷人家",
+      "onboard_time": 1731672737,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146253,
       "num": 146253,
       "word": "虞书欣丁禹兮超绝二搭默契",
@@ -1465,6 +1577,14 @@
       "onboard_time": 1731726256,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136519,
+      "num": 136519,
+      "word": "AG水晶名刀",
+      "onboard_time": 1731758481,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 135911,
@@ -1555,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130492,
+      "num": 140947,
+      "word": "王皓回应樊振东马龙退出总决赛",
+      "onboard_time": 1731760640,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130222,
       "num": 130222,
       "word": "唯一没和Faker搭档过的双冠王",
@@ -1611,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126799,
+      "num": 126799,
+      "word": "路过我年少时光的蓝色",
+      "onboard_time": 1731759501,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125362,
       "num": 125362,
       "word": "双城之战 艺术品",
@@ -1651,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123710,
+      "num": 123710,
+      "word": "光与夜之恋",
+      "onboard_time": 1731758601,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123229,
       "num": 228141,
       "word": "尤长靖三折叠人形立牌",
@@ -1689,6 +1833,14 @@
       "onboard_time": 1731756199,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119638,
+      "num": 209492,
+      "word": "李光洁夸王安宇演戏很细心",
+      "onboard_time": 1731758540,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119413,
@@ -1763,6 +1915,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114134,
+      "num": 114134,
+      "word": "丁程鑫直播",
+      "onboard_time": 1731758179,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112981,
+      "num": 234442,
+      "word": "高校回应男生扮女装进女澡堂偷拍",
+      "onboard_time": 1731757938,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 112881,
+      "num": 112881,
+      "word": "汪苏泷重庆演唱会吃太好了",
+      "onboard_time": 1731760699,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112154,
       "num": 112154,
       "word": "以闪亮之名",
@@ -1787,6 +1963,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111837,
+      "num": 111837,
+      "word": "男子在秘鲁40多年开了60多家中餐厅",
+      "onboard_time": 1731759020,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 110505,
+      "num": 110505,
+      "word": "周深中场秀",
+      "onboard_time": 1731760823,
+      "rank": 49,
+      "category": "演出,电竞"
+    },
+    {
       "raw_hot": 110447,
       "num": 115728,
       "word": "杰斯你在干什么",
@@ -1801,6 +1993,14 @@
       "onboard_time": 1731684379,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109464,
+      "num": 236659,
+      "word": "印尼火山喷发滞留中国游客发声",
+      "onboard_time": 1731756617,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108678,
@@ -2067,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91520,
+      "num": 236115,
+      "word": "周深再唱起风了还是那么动人",
+      "onboard_time": 1731759980,
+      "rank": 18,
+      "category": "演出,电竞"
+    },
+    {
       "raw_hot": 91414,
       "num": 91414,
       "word": "十个勤天叫哥哥最多的一集",
@@ -2080,22 +2288,6 @@
       "word": "海关工作犬找到违禁物握手庆祝",
       "onboard_time": 1731749658,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88228,
-      "num": 88228,
-      "word": "永夜星河",
-      "onboard_time": 1731664759,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 87733,
-      "num": 143981,
-      "word": "印尼火山喷发滞留中国游客发声",
-      "onboard_time": 1731756617,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2283,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69293,
+      "num": 238853,
+      "word": "部分地区居民医保参保意愿弱",
+      "onboard_time": 1731759140,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68341,
       "num": 68341,
       "word": "金鸡奖",
@@ -2345,14 +2545,6 @@
       "onboard_time": 1731751879,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 53994,
-      "num": 344775,
-      "word": "金鸡奖内场",
-      "onboard_time": 1731756258,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 52959,
@@ -2427,11 +2619,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41144,
-      "num": 41144,
-      "word": "小巷人家",
-      "onboard_time": 1731672737,
-      "rank": 29,
+      "raw_hot": 41955,
+      "num": 232492,
+      "word": "彭昱畅李庚希再现没头脑不高兴",
+      "onboard_time": 1731757038,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2801,6 +2993,14 @@
       "onboard_time": 1731712754,
       "rank": 38,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 18144,
+      "num": 234726,
+      "word": "KPL选手决赛装备iQOO13",
+      "onboard_time": 1731756978,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 17692,
