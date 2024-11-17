@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731868965305,
+  "endTime": 1731871096007,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -2731,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79312,
+      "num": 79312,
+      "word": "捐出日军侵华相册的小伙来中国了",
+      "onboard_time": 1731867732,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 77036,
       "num": 77036,
       "word": "家的样子就是生活的样子",
@@ -3403,6 +3411,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 28990,
+      "num": 29778,
+      "word": "终于明白为什么古代人喜欢听说书了",
+      "onboard_time": 1731868572,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28510,
       "num": 357032,
       "word": "演技是打破偏见的最好武器",
@@ -3483,6 +3499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23671,
+      "num": 29767,
+      "word": "庄图南李佳戏份好多",
+      "onboard_time": 1731868331,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22787,
       "num": 53417,
       "word": "这就是解放军的硬核浪漫",
@@ -3523,28 +3547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20346,
-      "num": 78578,
-      "word": "捐出日军侵华相册的小伙来中国了",
-      "onboard_time": 1731867732,
-      "rank": 32,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 20271,
       "num": 396849,
       "word": "看了会变清新的去班味大法",
       "onboard_time": 1731834137,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20248,
-      "num": 29778,
-      "word": "终于明白为什么古代人喜欢听说书了",
-      "onboard_time": 1731868572,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 19863,
@@ -3561,14 +3569,6 @@
       "onboard_time": 1731865273,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19149,
-      "num": 29767,
-      "word": "庄图南李佳戏份好多",
-      "onboard_time": 1731868331,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 19043,
@@ -3617,6 +3617,14 @@
       "onboard_time": 1731769883,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16085,
+      "num": 23643,
+      "word": "中国航展最后一天",
+      "onboard_time": 1731868152,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 15316,
@@ -3763,6 +3771,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 11177,
+      "num": 34268,
+      "word": "五台山被踢小狗在新家适应得很好",
+      "onboard_time": 1731870911,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11005,
       "num": 156537,
       "word": "周峻纬生日直播",
@@ -3785,6 +3801,14 @@
       "onboard_time": 1731789379,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10591,
+      "num": 23656,
+      "word": "汽车遇涨潮落海众人拔河式救援",
+      "onboard_time": 1731870791,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10231,
