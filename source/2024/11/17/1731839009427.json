@@ -1,0 +1,410 @@
+{
+  "runTime": 1731839009427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2440428,
+        "num": 2440428,
+        "word": "永夜星河大结局",
+        "onboard_time": 1731837739,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580296,
+        "num": 580296,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17323,
+        "num": 508060,
+        "word": "秘鲁与中国渊源有多深",
+        "onboard_time": 1731831259,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1508489,
+        "num": 496623,
+        "word": "杨子 死嘴快嚼啊",
+        "onboard_time": 1731836359,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465583,
+        "num": 465583,
+        "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+        "onboard_time": 1731817941,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 351923,
+        "num": 351923,
+        "word": "捐日军侵华相册美国小伙在家穿防弹背心",
+        "onboard_time": 1731826638,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 711008,
+        "num": 348914,
+        "word": "永夜星河",
+        "onboard_time": 1731837978,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673640,
+        "num": 348118,
+        "word": "黄玲停薪留职",
+        "onboard_time": 1731836239,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343755,
+        "num": 343755,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10936,
+        "num": 339216,
+        "word": "钱凯港可将中秘航程缩短至23天",
+        "onboard_time": 1731837859,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593329,
+        "num": 335287,
+        "word": "宋祖儿更新日常",
+        "onboard_time": 1731833239,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552296,
+        "num": 328505,
+        "word": "被丈夫举报出轨学生女教师二提离婚",
+        "onboard_time": 1731820759,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439790,
+        "num": 324283,
+        "word": "娜扎经纪人都有超话了",
+        "onboard_time": 1731832339,
+        "rank": 12,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 318621,
+        "num": 318621,
+        "word": "郑钦文回应像科比",
+        "onboard_time": 1731836957,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16956,
+        "num": 317906,
+        "word": "希望质疑学校的学生不会被区别对待",
+        "onboard_time": 1731837978,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414752,
+        "num": 316371,
+        "word": "永夜星河超点",
+        "onboard_time": 1731823160,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83453,
+        "num": 316026,
+        "word": "祝绪丹的rap是小鬼教的",
+        "onboard_time": 1731837859,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33730,
+        "num": 314789,
+        "word": "郑钦文有了新身份",
+        "onboard_time": 1731836298,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56154,
+        "num": 313217,
+        "word": "WTT福冈总决赛双打参赛名单出炉",
+        "onboard_time": 1731837918,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380479,
+        "num": 312440,
+        "word": "让杨子害怕的女人出现了",
+        "onboard_time": 1731825978,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466433,
+        "num": 310782,
+        "word": "月薪四千24岁女生有车的变化",
+        "onboard_time": 1731838158,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377896,
+        "num": 309726,
+        "word": "永夜星河能不能这样一辈子",
+        "onboard_time": 1731832998,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309441,
+        "num": 309441,
+        "word": "将门毒后",
+        "onboard_time": 1731833239,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268231,
+        "num": 268231,
+        "word": "换血减龄的美亿万富翁整脸翻车",
+        "onboard_time": 1731834680,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265256,
+        "num": 265256,
+        "word": "卫生巾 C类",
+        "onboard_time": 1731814038,
+        "rank": 24,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 252166,
+        "num": 252166,
+        "word": "文咏珊光腿穿羽绒服",
+        "onboard_time": 1731836839,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248103,
+        "num": 248103,
+        "word": "年龄5岁 工龄10年",
+        "onboard_time": 1731830479,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 199956,
+        "num": 199956,
+        "word": "31岁女生不婚不生的真实感受",
+        "onboard_time": 1731820580,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190230,
+        "num": 190230,
+        "word": "Wendy现场",
+        "onboard_time": 1731838459,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188439,
+        "num": 188439,
+        "word": "旅俄大熊猫一掌打翻雪人",
+        "onboard_time": 1731835759,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182339,
+        "num": 182339,
+        "word": "肖战骑马训练花絮",
+        "onboard_time": 1731838938,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180608,
+        "num": 180608,
+        "word": "宋亚轩直播",
+        "onboard_time": 1731838459,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176378,
+        "num": 176378,
+        "word": "锤娜丽莎最好用的卸妆油是李川",
+        "onboard_time": 1731833899,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175835,
+        "num": 175835,
+        "word": "Deft暂别赛场",
+        "onboard_time": 1731838399,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164292,
+        "num": 164292,
+        "word": "黄翠如官宣怀孕",
+        "onboard_time": 1731825318,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158158,
+        "num": 158158,
+        "word": "全红婵也被今天的武汉冷到了",
+        "onboard_time": 1731832458,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154536,
+        "num": 154536,
+        "word": "西南政法大学喊话徐枫灿",
+        "onboard_time": 1731827299,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 145343,
+        "num": 145343,
+        "word": "宋雨琦KGMA红毯",
+        "onboard_time": 1731838099,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141474,
+        "num": 141474,
+        "word": "本届中国航展签约金额超2800亿",
+        "onboard_time": 1731827598,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137899,
+        "num": 137899,
+        "word": "传奇杯",
+        "onboard_time": 1731838579,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135304,
+        "num": 135304,
+        "word": "因为租房跟男朋友吵架了",
+        "onboard_time": 1731831858,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134859,
+        "num": 134859,
+        "word": "微笑回应水晶哥队判负",
+        "onboard_time": 1731838278,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132357,
+        "num": 132357,
+        "word": "我们无孩爱猫女老了就这样",
+        "onboard_time": 1731836659,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129871,
+        "num": 129871,
+        "word": "35岁对未婚未育女生意味着什么",
+        "onboard_time": 1731816738,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129319,
+        "num": 129319,
+        "word": "00后开1400公里赶上航展末班车",
+        "onboard_time": 1731835278,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113830,
+        "num": 113830,
+        "word": "王安宇上桌",
+        "onboard_time": 1731822199,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105346,
+        "num": 105346,
+        "word": "李庚希回应金鸡影后",
+        "onboard_time": 1731813679,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106596,
+        "num": 104975,
+        "word": "小巷人家卧龙凤雏大he",
+        "onboard_time": 1731837498,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104407,
+        "num": 104407,
+        "word": "捷克外长遭伦敦大学生当面怒斥",
+        "onboard_time": 1731829099,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100365,
+        "num": 100365,
+        "word": "庄图南长成了黄玲的底气",
+        "onboard_time": 1731836179,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在巴西媒体发表署名文章#"
+    }
+  }
+}

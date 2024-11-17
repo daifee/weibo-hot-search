@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731836301520,
+  "endTime": 1731839009427,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -593,6 +593,14 @@
       "onboard_time": 1730730501,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2440428,
+      "num": 2440428,
+      "word": "永夜星河大结局",
+      "onboard_time": 1731837739,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2417601,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1730803282,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1508489,
+      "num": 496623,
+      "word": "杨子 死嘴快嚼啊",
+      "onboard_time": 1731836359,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1508342,
@@ -6763,6 +6779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 673640,
+      "num": 348118,
+      "word": "黄玲停薪留职",
+      "onboard_time": 1731836239,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 672798,
       "num": 672798,
       "word": "BLG赛后采访",
@@ -10715,6 +10739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 466433,
+      "num": 310782,
+      "word": "月薪四千24岁女生有车的变化",
+      "onboard_time": 1731838158,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 466131,
       "num": 466131,
       "word": "白鹿小水同框",
@@ -11992,6 +12024,14 @@
       "word": "失笑摇来了刘亦菲",
       "onboard_time": 1731070220,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 414752,
+      "num": 349148,
+      "word": "永夜星河超点",
+      "onboard_time": 1731823160,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -13987,14 +14027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 349148,
-      "num": 349148,
-      "word": "永夜星河超点",
-      "onboard_time": 1731823160,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 349046,
       "num": 349046,
       "word": "李子柒熊猫蜀锦裙是自己缝的",
@@ -15121,6 +15153,14 @@
       "onboard_time": 1731131599,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 318621,
+      "num": 318621,
+      "word": "郑钦文回应像科比",
+      "onboard_time": 1731836957,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 318429,
@@ -17347,6 +17387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268231,
+      "num": 268231,
+      "word": "换血减龄的美亿万富翁整脸翻车",
+      "onboard_time": 1731834680,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 268160,
       "num": 426504,
       "word": "假如宋莹有八个瑞士卷",
@@ -18313,6 +18361,14 @@
       "onboard_time": 1731203057,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 252166,
+      "num": 252166,
+      "word": "文咏珊光腿穿羽绒服",
+      "onboard_time": 1731836839,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 252030,
@@ -24963,6 +25019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190230,
+      "num": 190230,
+      "word": "Wendy现场",
+      "onboard_time": 1731838459,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190210,
       "num": 323767,
       "word": "俄宣布苏57已出口",
@@ -25273,6 +25337,14 @@
       "onboard_time": 1730709680,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188439,
+      "num": 188439,
+      "word": "旅俄大熊猫一掌打翻雪人",
+      "onboard_time": 1731835759,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188405,
@@ -26019,14 +26091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183539,
-      "num": 154156,
-      "word": "换血减龄的美亿万富翁整脸翻车",
-      "onboard_time": 1731834680,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 183521,
       "num": 183521,
       "word": "黄执中 点评",
@@ -26425,6 +26489,14 @@
       "onboard_time": 1730464099,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180608,
+      "num": 180608,
+      "word": "宋亚轩直播",
+      "onboard_time": 1731838459,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 180498,
@@ -27209,6 +27281,14 @@
       "onboard_time": 1731807920,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 175835,
+      "num": 175835,
+      "word": "Deft暂别赛场",
+      "onboard_time": 1731838399,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 175825,
@@ -33011,6 +33091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145343,
+      "num": 145343,
+      "word": "宋雨琦KGMA红毯",
+      "onboard_time": 1731838099,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145304,
       "num": 353085,
       "word": "BLG C过送过没懦过",
@@ -33217,14 +33305,6 @@
       "onboard_time": 1731043520,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144176,
-      "num": 144176,
-      "word": "旅俄大熊猫一掌打翻雪人",
-      "onboard_time": 1731835759,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144096,
@@ -34411,6 +34491,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 137899,
+      "num": 137899,
+      "word": "传奇杯",
+      "onboard_time": 1731838579,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137894,
       "num": 311251,
       "word": "国足将主场迎战日本",
@@ -34881,6 +34969,14 @@
       "onboard_time": 1730419817,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134859,
+      "num": 134859,
+      "word": "微笑回应水晶哥队判负",
+      "onboard_time": 1731838278,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 134819,
@@ -35865,6 +35961,14 @@
       "onboard_time": 1731602537,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129319,
+      "num": 237137,
+      "word": "00后开1400公里赶上航展末班车",
+      "onboard_time": 1731835278,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 129212,
@@ -39067,14 +39171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110696,
-      "num": 110696,
-      "word": "黄玲停薪留职",
-      "onboard_time": 1731836239,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110683,
       "num": 110683,
       "word": "近20个省份明确痛经假权益",
@@ -39699,6 +39795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106596,
+      "num": 104975,
+      "word": "小巷人家卧龙凤雏大he",
+      "onboard_time": 1731837498,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106583,
       "num": 242198,
       "word": "王者玩家侦探浓度检测",
@@ -39841,14 +39945,6 @@
       "onboard_time": 1731201078,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105426,
-      "num": 237137,
-      "word": "00后开1400公里赶上航展末班车",
-      "onboard_time": 1731835278,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 105415,
@@ -42305,6 +42401,14 @@
       "onboard_time": 1731429017,
       "rank": 38,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 83453,
+      "num": 316026,
+      "word": "祝绪丹的rap是小鬼教的",
+      "onboard_time": 1731837859,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 83434,
@@ -45392,6 +45496,14 @@
       "word": "郑钦文年度奖金刷新李娜纪录",
       "onboard_time": 1731209298,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56154,
+      "num": 313217,
+      "word": "WTT福冈总决赛双打参赛名单出炉",
+      "onboard_time": 1731837918,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -49633,6 +49745,14 @@
       "onboard_time": 1731531910,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 33730,
+      "num": 314789,
+      "word": "郑钦文有了新身份",
+      "onboard_time": 1731836298,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 33708,
@@ -54179,6 +54299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16956,
+      "num": 317906,
+      "word": "希望质疑学校的学生不会被区别对待",
+      "onboard_time": 1731837978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16833,
       "num": 158782,
       "word": "奥本海默最佳外语片",
@@ -55593,6 +55721,14 @@
       "onboard_time": 1731778218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10936,
+      "num": 339216,
+      "word": "钱凯港可将中秘航程缩短至23天",
+      "onboard_time": 1731837859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10930,

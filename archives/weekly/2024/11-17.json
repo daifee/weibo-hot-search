@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731836301520,
+  "endTime": 1731839009427,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -19,6 +19,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2440428,
+      "num": 2440428,
+      "word": "永夜星河大结局",
+      "onboard_time": 1731837739,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1796358,
       "num": 524928,
       "word": "卫生巾 C类",
@@ -33,6 +41,14 @@
       "onboard_time": 1731774319,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1508489,
+      "num": 496623,
+      "word": "杨子 死嘴快嚼啊",
+      "onboard_time": 1731836359,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1508008,
@@ -227,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 711008,
+      "num": 348914,
+      "word": "永夜星河",
+      "onboard_time": 1731757699,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 700316,
       "num": 700316,
       "word": "中美元首会见现场",
@@ -241,6 +265,14 @@
       "onboard_time": 1731772102,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673640,
+      "num": 348118,
+      "word": "黄玲停薪留职",
+      "onboard_time": 1731836239,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 655239,
@@ -371,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466433,
+      "num": 310782,
+      "word": "月薪四千24岁女生有车的变化",
+      "onboard_time": 1731838158,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 465902,
       "num": 335889,
       "word": "李庚希说了7个非常感谢",
@@ -401,6 +441,14 @@
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 414752,
+      "num": 349148,
+      "word": "永夜星河超点",
+      "onboard_time": 1731823160,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 406432,
@@ -459,14 +507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 349148,
-      "num": 349148,
-      "word": "永夜星河超点",
-      "onboard_time": 1731823160,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343524,
       "num": 343524,
       "word": "用人民币感受英国的工资水平",
@@ -481,6 +521,14 @@
       "onboard_time": 1731772161,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318621,
+      "num": 318621,
+      "word": "郑钦文回应像科比",
+      "onboard_time": 1731836957,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 313406,
@@ -587,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268231,
+      "num": 268231,
+      "word": "换血减龄的美亿万富翁整脸翻车",
+      "onboard_time": 1731834680,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 259833,
       "num": 259833,
       "word": "王者荣耀王昭君",
@@ -617,6 +673,14 @@
       "onboard_time": 1731766465,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252166,
+      "num": 252166,
+      "word": "文咏珊光腿穿羽绒服",
+      "onboard_time": 1731836839,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 251117,
@@ -867,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190230,
+      "num": 190230,
+      "word": "Wendy现场",
+      "onboard_time": 1731838459,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188965,
       "num": 183450,
       "word": "王一博紧张得深呼吸",
@@ -889,6 +961,14 @@
       "onboard_time": 1731817877,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 188439,
+      "num": 188439,
+      "word": "旅俄大熊猫一掌打翻雪人",
+      "onboard_time": 1731835759,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187973,
@@ -915,14 +995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 183539,
-      "num": 154156,
-      "word": "换血减龄的美亿万富翁整脸翻车",
-      "onboard_time": 1731834680,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 183401,
       "num": 344510,
       "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
@@ -947,12 +1019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182339,
+      "num": 182339,
+      "word": "肖战骑马训练花絮",
+      "onboard_time": 1731838938,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182194,
       "num": 182194,
       "word": "声生不息港乐季2首发阵容",
       "onboard_time": 1731825379,
       "rank": 33,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 180608,
+      "num": 180608,
+      "word": "宋亚轩直播",
+      "onboard_time": 1731838459,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 180073,
@@ -977,6 +1065,14 @@
       "onboard_time": 1731807920,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 175835,
+      "num": 175835,
+      "word": "Deft暂别赛场",
+      "onboard_time": 1731838399,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 175825,
@@ -1187,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145343,
+      "num": 145343,
+      "word": "宋雨琦KGMA红毯",
+      "onboard_time": 1731838099,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145215,
       "num": 145215,
       "word": "NEWJEANS颁奖词感谢闵熙珍",
@@ -1209,14 +1313,6 @@
       "onboard_time": 1731807859,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144176,
-      "num": 144176,
-      "word": "旅俄大熊猫一掌打翻雪人",
-      "onboard_time": 1731835759,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142034,
@@ -1267,6 +1363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137899,
+      "num": 137899,
+      "word": "传奇杯",
+      "onboard_time": 1731838579,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
@@ -1291,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134859,
+      "num": 134859,
+      "word": "微笑回应水晶哥队判负",
+      "onboard_time": 1731838278,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133685,
       "num": 133685,
       "word": "中美元首会晤持续1小时45分钟",
@@ -1307,12 +1419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132357,
+      "num": 132357,
+      "word": "我们无孩爱猫女老了就这样",
+      "onboard_time": 1731836659,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131552,
       "num": 131552,
       "word": "樊振东入选亚太U30杰出青年领袖",
       "onboard_time": 1731828320,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129319,
+      "num": 237137,
+      "word": "00后开1400公里赶上航展末班车",
+      "onboard_time": 1731835278,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 128191,
@@ -1467,14 +1595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110696,
-      "num": 110696,
-      "word": "黄玲停薪留职",
-      "onboard_time": 1731836239,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110548,
       "num": 110548,
       "word": "王一博厦门出发look",
@@ -1539,20 +1659,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106596,
+      "num": 104975,
+      "word": "小巷人家卧龙凤雏大he",
+      "onboard_time": 1731837498,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106042,
       "num": 106042,
       "word": "WTT福冈总决赛",
       "onboard_time": 1731829819,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105426,
-      "num": 237137,
-      "word": "00后开1400公里赶上航展末班车",
-      "onboard_time": 1731835278,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 105361,
@@ -1755,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83453,
+      "num": 316026,
+      "word": "祝绪丹的rap是小鬼教的",
+      "onboard_time": 1731837859,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76663,
       "num": 264855,
       "word": "gidle获奖感言",
@@ -1891,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56154,
+      "num": 313217,
+      "word": "WTT福冈总决赛双打参赛名单出炉",
+      "onboard_time": 1731837918,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54925,
       "num": 376379,
       "word": "00后开1400公里去看徐枫灿",
@@ -2011,14 +2147,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 42663,
-      "num": 42663,
-      "word": "永夜星河",
-      "onboard_time": 1731757699,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41789,
       "num": 184891,
       "word": "向鱼 不会在同一个地方摔倒",
@@ -2113,6 +2241,14 @@
       "onboard_time": 1731831259,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33730,
+      "num": 314789,
+      "word": "郑钦文有了新身份",
+      "onboard_time": 1731836298,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 33691,
@@ -2307,6 +2443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16956,
+      "num": 317906,
+      "word": "希望质疑学校的学生不会被区别对待",
+      "onboard_time": 1731837978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16833,
       "num": 158782,
       "word": "奥本海默最佳外语片",
@@ -2433,6 +2577,14 @@
       "onboard_time": 1731778218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10936,
+      "num": 339216,
+      "word": "钱凯港可将中秘航程缩短至23天",
+      "onboard_time": 1731837859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10611,
