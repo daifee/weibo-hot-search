@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731840072719,
+  "endTime": 1731842351317,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2535180,
+      "num": 2535180,
+      "word": "永夜星河 HE",
+      "onboard_time": 1731839117,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2534184,
       "num": 2534184,
       "word": "蜂花",
@@ -833,14 +841,6 @@
       "onboard_time": 1730625079,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2048440,
-      "num": 436857,
-      "word": "永夜星河 HE",
-      "onboard_time": 1731839117,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2040858,
@@ -2153,6 +2153,14 @@
       "onboard_time": 1730387120,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1392998,
+      "num": 357235,
+      "word": "目击者称女孩和商场玻璃一同坠落",
+      "onboard_time": 1731839538,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1391757,
@@ -6116,7 +6124,7 @@
     },
     {
       "raw_hot": 732721,
-      "num": 318621,
+      "num": 683893,
       "word": "郑钦文回应像科比",
       "onboard_time": 1731836957,
       "rank": 13,
@@ -6217,6 +6225,14 @@
       "onboard_time": 1730702059,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723548,
+      "num": 310782,
+      "word": "月薪四千24岁女生有车的变化",
+      "onboard_time": 1731838158,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 722933,
@@ -6796,7 +6812,7 @@
     },
     {
       "raw_hot": 673640,
-      "num": 348118,
+      "num": 380688,
       "word": "黄玲停薪留职",
       "onboard_time": 1731836239,
       "rank": 40,
@@ -8003,14 +8019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 603880,
-      "num": 310782,
-      "word": "月薪四千24岁女生有车的变化",
-      "onboard_time": 1731838158,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 603612,
       "num": 603612,
       "word": "珠海航展惊现中国版变形金刚",
@@ -8547,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573726,
+      "num": 573726,
+      "word": "印度示威者高喊自己才是加拿大的主人",
+      "onboard_time": 1731839058,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 572276,
       "num": 572276,
       "word": "婚后发现丈夫婚前确诊艾滋病能撤婚吗",
@@ -8657,6 +8673,14 @@
       "onboard_time": 1731469401,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567005,
+      "num": 390904,
+      "word": "子期是浮舟还是浮舟是子期",
+      "onboard_time": 1731840919,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 566696,
@@ -13803,6 +13827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357473,
+      "num": 357473,
+      "word": "传奇杯",
+      "onboard_time": 1731838579,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 357297,
       "num": 357297,
       "word": "歼20S亮相",
@@ -15977,6 +16009,14 @@
       "onboard_time": 1731484940,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295892,
+      "num": 197389,
+      "word": "马斯克发帖嘲笑泽连斯基言论",
+      "onboard_time": 1731840320,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295840,
@@ -18819,14 +18859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245795,
-      "num": 245795,
-      "word": "印度示威者高喊自己才是加拿大的主人",
-      "onboard_time": 1731839058,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 245708,
       "num": 245708,
       "word": "永夜星河有自己的奥特曼",
@@ -18889,6 +18921,14 @@
       "onboard_time": 1730869347,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244409,
+      "num": 195701,
+      "word": "王一栩白锦锦各领十巴掌",
+      "onboard_time": 1731840558,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 244311,
@@ -19657,14 +19697,6 @@
       "onboard_time": 1731717077,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232294,
-      "num": 232294,
-      "word": "传奇杯",
-      "onboard_time": 1731838579,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 232259,
@@ -20713,6 +20745,14 @@
       "onboard_time": 1730720420,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218855,
+      "num": 218855,
+      "word": "安宥真开球状态",
+      "onboard_time": 1731840260,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 218738,
@@ -26035,6 +26075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183922,
+      "num": 183922,
+      "word": "宋亚轩直播",
+      "onboard_time": 1731838459,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183919,
       "num": 183919,
       "word": "葛夕 送礼教科书",
@@ -26515,14 +26563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180608,
-      "num": 180608,
-      "word": "宋亚轩直播",
-      "onboard_time": 1731838459,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180498,
       "num": 180498,
       "word": "曝iG锅盔被禁业一年",
@@ -26793,14 +26833,6 @@
       "onboard_time": 1730695581,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179363,
-      "num": 179363,
-      "word": "目击者称女孩和商场玻璃一同坠落",
-      "onboard_time": 1731839538,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179007,
@@ -28321,6 +28353,14 @@
       "onboard_time": 1730456180,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169954,
+      "num": 169954,
+      "word": "在迪士尼最震惊的一幕",
+      "onboard_time": 1731840138,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 169946,
@@ -33219,6 +33259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144885,
+      "num": 144885,
+      "word": "宁艺卓庆祝aespa四周年",
+      "onboard_time": 1731841818,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144854,
       "num": 144854,
       "word": "喜人复刻二喜舞台",
@@ -33897,6 +33945,14 @@
       "onboard_time": 1730972659,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141232,
+      "num": 141232,
+      "word": "商场刚开业女孩因护栏脱落坠亡",
+      "onboard_time": 1731842180,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141192,
@@ -35849,6 +35905,14 @@
       "onboard_time": 1730551999,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130088,
+      "num": 130088,
+      "word": "金玟庭KGMAsolo舞台",
+      "onboard_time": 1731840919,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 130026,
@@ -38267,6 +38331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116667,
+      "num": 116667,
+      "word": "伊朗向美国索赔1万亿美元",
+      "onboard_time": 1731841578,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116645,
       "num": 116645,
       "word": "这不是电影这是真实的缉毒现场",
@@ -39273,6 +39345,14 @@
       "onboard_time": 1730846715,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110073,
+      "num": 110073,
+      "word": "时代少年团演唱会联排下班",
+      "onboard_time": 1731841218,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 110027,
@@ -40675,6 +40755,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 100141,
+      "num": 100141,
+      "word": "意大利车展中国三蹦子火了",
+      "onboard_time": 1731842239,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 100104,
       "num": 333206,
       "word": "吃完炒饭后出现多器官功能衰竭",
@@ -40841,6 +40929,14 @@
       "onboard_time": 1731056718,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98737,
+      "num": 98737,
+      "word": "中国战机壁纸满屏大写的帅",
+      "onboard_time": 1731842299,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 98594,
@@ -54451,6 +54547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16405,
+      "num": 357032,
+      "word": "演技是打破偏见的最好武器",
+      "onboard_time": 1731841699,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16363,
       "num": 405251,
       "word": "燕云十六声年底公测",
@@ -54481,6 +54585,14 @@
       "onboard_time": 1731433333,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 16276,
+      "num": 357446,
+      "word": "探店街拍拍到路人可能侵权了",
+      "onboard_time": 1731841578,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16168,

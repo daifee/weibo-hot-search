@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731840072719,
+  "endTime": 1731842351317,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -19,19 +19,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2535180,
+      "num": 2535180,
+      "word": "永夜星河 HE",
+      "onboard_time": 1731839117,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2440428,
       "num": 2440428,
       "word": "永夜星河大结局",
       "onboard_time": 1731837739,
       "rank": 0,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 2048440,
-      "num": 436857,
-      "word": "永夜星河 HE",
-      "onboard_time": 1731839117,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -72,6 +72,14 @@
       "word": "被丈夫举报出轨学生女教师二提离婚",
       "onboard_time": 1731820759,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1392998,
+      "num": 357235,
+      "word": "目击者称女孩和商场玻璃一同坠落",
+      "onboard_time": 1731839538,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -244,11 +252,19 @@
     },
     {
       "raw_hot": 732721,
-      "num": 318621,
+      "num": 683893,
       "word": "郑钦文回应像科比",
       "onboard_time": 1731836957,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 723548,
+      "num": 310782,
+      "word": "月薪四千24岁女生有车的变化",
+      "onboard_time": 1731838158,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 711022,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 711008,
-      "num": 348914,
+      "num": 357185,
       "word": "永夜星河",
       "onboard_time": 1731757699,
       "rank": 43,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 673640,
-      "num": 348118,
+      "num": 380688,
       "word": "黄玲停薪留职",
       "onboard_time": 1731836239,
       "rank": 40,
@@ -331,14 +347,6 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 603880,
-      "num": 310782,
-      "word": "月薪四千24岁女生有车的变化",
-      "onboard_time": 1731838158,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 602050,
       "num": 602050,
       "word": "永夜星河能不能这样一辈子",
@@ -361,6 +369,22 @@
       "onboard_time": 1731826638,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 573726,
+      "num": 573726,
+      "word": "印度示威者高喊自己才是加拿大的主人",
+      "onboard_time": 1731839058,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 567005,
+      "num": 390904,
+      "word": "子期是浮舟还是浮舟是子期",
+      "onboard_time": 1731840919,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 555986,
@@ -515,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357473,
+      "num": 357473,
+      "word": "传奇杯",
+      "onboard_time": 1731838579,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 353777,
       "num": 353777,
       "word": "王昭君FMVP皮肤",
@@ -545,6 +577,14 @@
       "onboard_time": 1731800655,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 295892,
+      "num": 197389,
+      "word": "马斯克发帖嘲笑泽连斯基言论",
+      "onboard_time": 1731840320,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295623,
@@ -731,12 +771,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245795,
-      "num": 245795,
-      "word": "印度示威者高喊自己才是加拿大的主人",
-      "onboard_time": 1731839058,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 244409,
+      "num": 195701,
+      "word": "王一栩白锦锦各领十巴掌",
+      "onboard_time": 1731840558,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 244174,
@@ -803,14 +843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 232294,
-      "num": 232294,
-      "word": "传奇杯",
-      "onboard_time": 1731838579,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 230178,
       "num": 230178,
       "word": "月鳞绮纪鞠婧祎一番",
@@ -833,6 +865,14 @@
       "onboard_time": 1731831198,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218855,
+      "num": 218855,
+      "word": "安宥真开球状态",
+      "onboard_time": 1731840260,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 217439,
@@ -1027,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183922,
+      "num": 183922,
+      "word": "宋亚轩直播",
+      "onboard_time": 1731838459,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183401,
       "num": 344510,
       "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
@@ -1059,28 +1107,12 @@
       "category": "综艺,作品衍生"
     },
     {
-      "raw_hot": 180608,
-      "num": 180608,
-      "word": "宋亚轩直播",
-      "onboard_time": 1731838459,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180073,
       "num": 274818,
       "word": "孙颖莎出席福冈总决赛抽签",
       "onboard_time": 1731820941,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179363,
-      "num": 179363,
-      "word": "目击者称女孩和商场玻璃一同坠落",
-      "onboard_time": 1731839538,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176175,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1731771923,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169954,
+      "num": 169954,
+      "word": "在迪士尼最震惊的一幕",
+      "onboard_time": 1731840138,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 169425,
@@ -1347,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144885,
+      "num": 144885,
+      "word": "宁艺卓庆祝aespa四周年",
+      "onboard_time": 1731841818,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144389,
       "num": 144389,
       "word": "毓言cp",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1731810438,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 141232,
+      "num": 141232,
+      "word": "商场刚开业女孩因护栏脱落坠亡",
+      "onboard_time": 1731842180,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140443,
@@ -1411,6 +1467,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 136059,
+      "num": 136059,
+      "word": "老头杯",
+      "onboard_time": 1731839778,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135728,
       "num": 135728,
       "word": "00后舰载机女飞行员上大分",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1731756740,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134428,
-      "num": 134428,
-      "word": "老头杯",
-      "onboard_time": 1731839778,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 133685,
@@ -1473,6 +1529,22 @@
       "onboard_time": 1731828320,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130088,
+      "num": 130088,
+      "word": "金玟庭KGMAsolo舞台",
+      "onboard_time": 1731840919,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 129340,
+      "num": 129340,
+      "word": "丁禹兮工作室",
+      "onboard_time": 1731841040,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 129319,
@@ -1579,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116667,
+      "num": 116667,
+      "word": "伊朗向美国索赔1万亿美元",
+      "onboard_time": 1731841578,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "涵艺说LPL报价Zeus",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1731777077,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110073,
+      "num": 110073,
+      "word": "时代少年团演唱会联排下班",
+      "onboard_time": 1731841218,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 109545,
@@ -1755,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100141,
+      "num": 100141,
+      "word": "意大利车展中国三蹦子火了",
+      "onboard_time": 1731842239,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 99099,
       "num": 99099,
       "word": "沈腾希望黄景瑜别碰到其他会做饭的",
@@ -1769,6 +1865,14 @@
       "onboard_time": 1731810858,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98737,
+      "num": 98737,
+      "word": "中国战机壁纸满屏大写的帅",
+      "onboard_time": 1731842299,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 98095,
@@ -2529,6 +2633,22 @@
       "onboard_time": 1731769883,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16405,
+      "num": 357032,
+      "word": "演技是打破偏见的最好武器",
+      "onboard_time": 1731841699,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16276,
+      "num": 357446,
+      "word": "探店街拍拍到路人可能侵权了",
+      "onboard_time": 1731841578,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15316,
