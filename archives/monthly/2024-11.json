@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731860756164,
+  "endTime": 1731861755948,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4235,6 +4235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949291,
+      "num": 949291,
+      "word": "75岁阿姨在美容店消费96万",
+      "onboard_time": 1731858619,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 948470,
       "num": 948470,
       "word": "虞书欣向腾讯视频催更",
@@ -6275,14 +6283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 729212,
-      "num": 919191,
-      "word": "75岁阿姨在美容店消费96万",
-      "onboard_time": 1731858619,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 729063,
       "num": 964290,
       "word": "花少7是回归季",
@@ -7433,6 +7433,14 @@
       "onboard_time": 1731655940,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 644936,
+      "num": 644936,
+      "word": "丁舟杰文学",
+      "onboard_time": 1731859038,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 644714,
@@ -9089,14 +9097,6 @@
       "onboard_time": 1730629040,
       "rank": 45,
       "category": "体育,美食"
-    },
-    {
-      "raw_hot": 552168,
-      "num": 552168,
-      "word": "丁舟杰文学",
-      "onboard_time": 1731859038,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 551383,
@@ -17449,6 +17449,14 @@
       "onboard_time": 1731031640,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273148,
+      "num": 273148,
+      "word": "永昼",
+      "onboard_time": 1731858319,
+      "rank": 19,
+      "category": "动漫,游戏"
     },
     {
       "raw_hot": 273117,
@@ -27241,14 +27249,6 @@
       "onboard_time": 1731070941,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178812,
-      "num": 178812,
-      "word": "永昼",
-      "onboard_time": 1731858319,
-      "rank": 19,
-      "category": "动漫,游戏"
     },
     {
       "raw_hot": 178793,
@@ -42931,6 +42931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85462,
+      "num": 85462,
+      "word": "薛凯琪把陈小春夸成了翘嘴",
+      "onboard_time": 1731860957,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85203,
       "num": 442746,
       "word": "奥迪新品牌AUDI官宣了",
@@ -44027,6 +44035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73955,
+      "num": 95598,
+      "word": "我国造出全球唯一可钻11000米钻探船",
+      "onboard_time": 1731861017,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 73807,
       "num": 472338,
       "word": "2023年黑龙江出生率全国垫底",
@@ -44833,6 +44849,14 @@
       "onboard_time": 1731334220,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67047,
+      "num": 352927,
+      "word": "8K镜头看中国航展帅气值满分",
+      "onboard_time": 1731858079,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 67043,
@@ -45953,14 +45977,6 @@
       "onboard_time": 1731761421,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59132,
-      "num": 352927,
-      "word": "8K镜头看中国航展帅气值满分",
-      "onboard_time": 1731858079,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 59103,
@@ -49979,6 +49995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36300,
+      "num": 248993,
+      "word": "3岁男童失踪被找到时没穿衣服",
+      "onboard_time": 1731861017,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36271,
       "num": 346124,
       "word": "中国航展听取哇声一片",
@@ -50113,6 +50137,14 @@
       "onboard_time": 1730725940,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35516,
+      "num": 178866,
+      "word": "宋亚轩发日常视频",
+      "onboard_time": 1731861197,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 35466,

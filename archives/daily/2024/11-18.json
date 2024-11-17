@@ -1,10 +1,10 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731860756164,
+  "endTime": 1731861755948,
   "band_list": [
     {
-      "raw_hot": 729212,
-      "num": 919191,
+      "raw_hot": 949291,
+      "num": 949291,
       "word": "75岁阿姨在美容店消费96万",
       "onboard_time": 1731858619,
       "rank": 0,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 572354,
-      "num": 177984,
-      "word": "顾客试衣服7小时买走15件",
-      "onboard_time": 1731847040,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 552168,
-      "num": 552168,
+      "raw_hot": 644936,
+      "num": 644936,
       "word": "丁舟杰文学",
       "onboard_time": 1731859038,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 572354,
+      "num": 178679,
+      "word": "顾客试衣服7小时买走15件",
+      "onboard_time": 1731847040,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477431,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 396464,
-      "num": 174752,
+      "num": 178612,
       "word": "官方回应济宁一女孩商场内坠亡",
       "onboard_time": 1731844039,
       "rank": 21,
@@ -124,15 +124,23 @@
     },
     {
       "raw_hot": 273220,
-      "num": 170749,
+      "num": 178299,
       "word": "女子与婆婆厮打把儿子摔成颅内出血",
       "onboard_time": 1731852921,
       "rank": 22,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273148,
+      "num": 273148,
+      "word": "永昼",
+      "onboard_time": 1731858319,
+      "rank": 19,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 255022,
-      "num": 168480,
+      "num": 178456,
       "word": "ABC卫生巾",
       "onboard_time": 1731816619,
       "rank": 23,
@@ -169,14 +177,6 @@
       "onboard_time": 1731851181,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178812,
-      "num": 178812,
-      "word": "永昼",
-      "onboard_time": 1731858319,
-      "rank": 19,
-      "category": "动漫,游戏"
     },
     {
       "raw_hot": 166418,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85462,
+      "num": 85462,
+      "word": "薛凯琪把陈小春夸成了翘嘴",
+      "onboard_time": 1731860957,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83247,
       "num": 83247,
       "word": "奶龙",
@@ -379,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73955,
+      "num": 95598,
+      "word": "我国造出全球唯一可钻11000米钻探船",
+      "onboard_time": 1731861017,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 69847,
       "num": 74349,
       "word": "目击者称女孩和商场玻璃一同坠落",
@@ -387,12 +403,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59132,
+      "raw_hot": 67047,
       "num": 352927,
       "word": "8K镜头看中国航展帅气值满分",
       "onboard_time": 1731858079,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 36300,
+      "num": 248993,
+      "word": "3岁男童失踪被找到时没穿衣服",
+      "onboard_time": 1731861017,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35516,
+      "num": 178866,
+      "word": "宋亚轩发日常视频",
+      "onboard_time": 1731861197,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 7606,
