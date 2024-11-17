@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731871096007,
+  "endTime": 1731872146713,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -3619,7 +3619,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16085,
+      "raw_hot": 16279,
       "num": 23643,
       "word": "中国航展最后一天",
       "onboard_time": 1731868152,
@@ -3667,6 +3667,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 14463,
+      "num": 20241,
+      "word": "巴西人体验一次针灸就上头了",
+      "onboard_time": 1731868992,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14386,
       "num": 25659,
       "word": "天舟八号快递是怎么打包派送的",
@@ -3699,12 +3707,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 12939,
+      "num": 30554,
+      "word": "珠海航展最后一天人山人海",
+      "onboard_time": 1731871092,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 12922,
       "num": 73587,
       "word": "APEC第31次领导人非正式会议",
       "onboard_time": 1731782353,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12879,
+      "num": 28204,
+      "word": "日本自民党高官再提自卫队常驻美国",
+      "onboard_time": 1731871510,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12773,
