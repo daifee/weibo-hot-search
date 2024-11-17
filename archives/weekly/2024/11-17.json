@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731868137246,
+  "endTime": 1731868965305,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -2139,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130252,
+      "num": 130252,
+      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
+      "onboard_time": 1731865933,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130088,
       "num": 130088,
       "word": "金玟庭KGMAsolo舞台",
@@ -2489,14 +2497,6 @@
       "onboard_time": 1731769283,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104765,
-      "num": 104765,
-      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
-      "onboard_time": 1731865933,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 101535,
@@ -3523,12 +3523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20346,
+      "num": 78578,
+      "word": "捐出日军侵华相册的小伙来中国了",
+      "onboard_time": 1731867732,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 20271,
       "num": 396849,
       "word": "看了会变清新的去班味大法",
       "onboard_time": 1731834137,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20248,
+      "num": 29778,
+      "word": "终于明白为什么古代人喜欢听说书了",
+      "onboard_time": 1731868572,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 19863,
@@ -3547,20 +3563,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19149,
+      "num": 29767,
+      "word": "庄图南李佳戏份好多",
+      "onboard_time": 1731868331,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19043,
       "num": 256595,
       "word": "张家界桑植县通报一民房发生火灾",
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 18180,
-      "num": 32570,
-      "word": "捐出日军侵华相册的小伙来中国了",
-      "onboard_time": 1731867732,
-      "rank": 32,
-      "category": "正能量"
     },
     {
       "raw_hot": 17521,
