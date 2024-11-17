@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731853178086,
+  "endTime": 1731854295841,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1326369,
+      "num": 1326369,
+      "word": "美国确诊首例猴痘新变异株感染者",
+      "onboard_time": 1731849020,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1264887,
       "num": 1264887,
       "word": "李庚希回应金鸡影后",
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1019499,
+      "num": 300794,
+      "word": "女子与婆婆厮打把儿子摔成颅内出血",
+      "onboard_time": 1731852921,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 952633,
       "num": 474675,
       "word": "三里屯三姐妹",
@@ -185,14 +201,6 @@
       "onboard_time": 1731846858,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 897706,
-      "num": 897706,
-      "word": "美国确诊首例猴痘新变异株感染者",
-      "onboard_time": 1731849020,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 892580,
@@ -235,6 +243,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 847930,
+      "num": 313516,
+      "word": "周润发说权志龙变靓女了",
+      "onboard_time": 1731849080,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 845842,
       "num": 845842,
       "word": "女性上桌不代表男性下桌",
@@ -249,14 +265,6 @@
       "onboard_time": 1731844940,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 821204,
-      "num": 313516,
-      "word": "周润发说权志龙变靓女了",
-      "onboard_time": 1731849080,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 816551,
@@ -379,11 +387,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 673730,
+      "num": 305342,
+      "word": "男子地铁猥亵被抓后下跪求原谅",
+      "onboard_time": 1731851181,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673640,
       "num": 380688,
       "word": "黄玲停薪留职",
       "onboard_time": 1731836239,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 667918,
+      "num": 667918,
+      "word": "大结局怎么没有鹏飞",
+      "onboard_time": 1731850520,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -499,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 570948,
+      "num": 307648,
+      "word": "世上再无子期",
+      "onboard_time": 1731850760,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555986,
       "num": 460607,
       "word": "将门毒后",
@@ -512,14 +544,6 @@
       "word": "甄嬛传晚会官宣",
       "onboard_time": 1731823099,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 539150,
-      "num": 397553,
-      "word": "大结局怎么没有鹏飞",
-      "onboard_time": 1731850520,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -603,12 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433386,
-      "num": 307648,
-      "word": "世上再无子期",
-      "onboard_time": 1731850760,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 434252,
+      "num": 304176,
+      "word": "奶龙",
+      "onboard_time": 1731849260,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 432049,
@@ -633,14 +657,6 @@
       "onboard_time": 1731849860,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 418219,
-      "num": 305342,
-      "word": "男子地铁猥亵被抓后下跪求原谅",
-      "onboard_time": 1731851181,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 414752,
@@ -739,14 +755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 351863,
-      "num": 304176,
-      "word": "奶龙",
-      "onboard_time": 1731849260,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344870,
       "num": 344870,
       "word": "意大利车展中国三蹦子火了",
@@ -776,6 +784,14 @@
       "word": "王源演唱会收官",
       "onboard_time": 1731852321,
       "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 319678,
+      "num": 257427,
+      "word": "林更新问汪苏泷重庆到底有谁在",
+      "onboard_time": 1731853041,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -1099,14 +1115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230567,
-      "num": 230567,
-      "word": "女子与婆婆厮打把儿子摔成颅内出血",
-      "onboard_time": 1731852921,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230178,
       "num": 230178,
       "word": "月鳞绮纪鞠婧祎一番",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1731767005,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216153,
+      "num": 216153,
+      "word": "蔡徐坤上海人气",
+      "onboard_time": 1731852261,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 213124,
@@ -1203,6 +1219,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 205306,
+      "num": 280194,
+      "word": "保安收400元就被包装成企业高管",
+      "onboard_time": 1731850880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204880,
       "num": 270202,
       "word": "刘雯井柏然一起现身机场",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1731817160,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202561,
+      "num": 202561,
+      "word": "珠帘玉幕非遗螺钿",
+      "onboard_time": 1731853640,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 201770,
@@ -1272,14 +1304,6 @@
       "word": "多少年轻人把冰箱当时间静止器用",
       "onboard_time": 1731819440,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195108,
-      "num": 195108,
-      "word": "保安收400元就被包装成企业高管",
-      "onboard_time": 1731850880,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1491,19 +1515,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171402,
+      "num": 171402,
+      "word": "汪苏泷演唱会嘉宾陈楚生",
+      "onboard_time": 1731850581,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170988,
       "num": 170988,
       "word": "何运晨看黄子弘凡演唱会",
       "onboard_time": 1731771923,
       "rank": 39,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 170452,
-      "num": 170452,
-      "word": "林更新问汪苏泷重庆到底有谁在",
-      "onboard_time": 1731853041,
-      "rank": 36,
       "category": "演出"
     },
     {
@@ -1555,6 +1579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165996,
+      "num": 165996,
+      "word": "王一栩还我妈生八个机位的吻戏",
+      "onboard_time": 1731853581,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164309,
       "num": 164309,
       "word": "金鸡历届影后",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1731845059,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161283,
-      "num": 161283,
-      "word": "蔡徐坤上海人气",
-      "onboard_time": 1731852261,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 160935,
@@ -1947,14 +1971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135313,
-      "num": 135313,
-      "word": "汪苏泷演唱会嘉宾陈楚生",
-      "onboard_time": 1731850581,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 133685,
       "num": 133685,
       "word": "中美元首会晤持续1小时45分钟",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1731827419,
       "rank": 38,
       "category": "演出,作品衍生"
+    },
+    {
+      "raw_hot": 128135,
+      "num": 144087,
+      "word": "樊振东打棒球",
+      "onboard_time": 1731851601,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127930,
@@ -2699,6 +2723,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 54606,
+      "num": 192964,
+      "word": "赵小童耶嘿下班咯",
+      "onboard_time": 1731853881,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53944,
       "num": 84777,
       "word": "珠海航展",
@@ -3059,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31287,
+      "num": 822196,
+      "word": "巴西交响乐团奏响我爱你中国",
+      "onboard_time": 1731850520,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30932,
       "num": 419557,
       "word": "在文昌见证一场独属于中国人的浪漫",
@@ -3067,20 +3107,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30521,
+      "num": 243912,
+      "word": "贾樟柯电影风流一代首映礼",
+      "onboard_time": 1731853461,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28510,
       "num": 357032,
       "word": "演技是打破偏见的最好武器",
       "onboard_time": 1731841699,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28103,
-      "num": 822196,
-      "word": "巴西交响乐团奏响我爱你中国",
-      "onboard_time": 1731850520,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28008,
@@ -3097,6 +3137,14 @@
       "onboard_time": 1731776238,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26572,
+      "num": 287476,
+      "word": "女性消费品应正视女性真正的需求",
+      "onboard_time": 1731853761,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26060,
@@ -3171,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20576,
+      "num": 246086,
+      "word": "飞行教员看徒弟航展表演有多自豪",
+      "onboard_time": 1731853461,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 20398,
       "num": 339216,
       "word": "钱凯港可将中秘航程缩短至23天",
@@ -3225,6 +3281,14 @@
       "onboard_time": 1731787511,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16877,
+      "num": 312429,
+      "word": "调查以次充好真相需看到执法力度",
+      "onboard_time": 1731852261,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16833,
@@ -3291,6 +3355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13312,
+      "num": 274279,
+      "word": "运20运油20肚肚里各装了啥",
+      "onboard_time": 1731853461,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 13293,
       "num": 68490,
       "word": "雷佳音影视全面开花",
@@ -3323,14 +3395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12051,
-      "num": 312429,
-      "word": "调查以次充好真相需看到执法力度",
-      "onboard_time": 1731852261,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11811,
       "num": 42035,
       "word": "女生在伯克利弹琵琶惊艳外国教授",
@@ -3353,6 +3417,14 @@
       "onboard_time": 1731807079,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11720,
+      "num": 301653,
+      "word": "贵州兴义涉嫌虐童托育机构停止服务",
+      "onboard_time": 1731852261,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11228,
@@ -3393,14 +3465,6 @@
       "onboard_time": 1731831018,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8999,
-      "num": 301653,
-      "word": "贵州兴义涉嫌虐童托育机构停止服务",
-      "onboard_time": 1731852261,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7599,
@@ -3468,6 +3532,9 @@
     },
     {
       "word": "#习近平再论中美相处之道#"
+    },
+    {
+      "word": "#习近平致信祝贺梦想号建成入列#"
     }
   ]
 }
