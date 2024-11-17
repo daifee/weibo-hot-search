@@ -1,0 +1,410 @@
+{
+  "runTime": 1731813184881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2996258,
+        "num": 2996258,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1054481,
+        "num": 1054481,
+        "word": "安徽一县政府大院因敞开大门火了",
+        "onboard_time": 1731810258,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13571,
+        "num": 969955,
+        "word": "男子在秘鲁40多年开了60多家中餐厅",
+        "onboard_time": 1731759020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 916264,
+        "num": 916264,
+        "word": "已确认超40只宠物狗疑似中毒死亡",
+        "onboard_time": 1731811578,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645276,
+        "num": 645276,
+        "word": "彭高参加乐言生日聚会",
+        "onboard_time": 1731810199,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492414,
+        "num": 492414,
+        "word": "中美元首会见现场",
+        "onboard_time": 1731800596,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 491190,
+        "num": 491190,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1731810498,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 488731,
+        "num": 488731,
+        "word": "泽连斯基称美国不能逼我们坐在谈判桌上",
+        "onboard_time": 1731809537,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 478208,
+        "num": 478208,
+        "word": "麦琳不接受李行亮讲道理",
+        "onboard_time": 1731801616,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57138,
+        "num": 463685,
+        "word": "中国航展今天闭幕",
+        "onboard_time": 1731810980,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 573253,
+        "num": 462391,
+        "word": "资源咖",
+        "onboard_time": 1731774319,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461004,
+        "num": 461004,
+        "word": "张予曦也自己化妆了",
+        "onboard_time": 1731811099,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 356361,
+        "num": 356361,
+        "word": "李庚希金鸡影后",
+        "onboard_time": 1731765565,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319766,
+        "num": 319766,
+        "word": "禹宙中欣",
+        "onboard_time": 1731799394,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298004,
+        "num": 298004,
+        "word": "汪顺 霸王茶姬活动",
+        "onboard_time": 1731811459,
+        "rank": 14,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 297797,
+        "num": 297797,
+        "word": "用人民币感受英国的工资水平",
+        "onboard_time": 1731800415,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262343,
+        "num": 262343,
+        "word": "把学生闭麦拉走是学校育人错误示范",
+        "onboard_time": 1731798915,
+        "rank": 16,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 217371,
+        "num": 217371,
+        "word": "秦海璐又在金鸡后台睡着了",
+        "onboard_time": 1731772161,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25979,
+        "num": 201045,
+        "word": "歼35亮相了罗阳你看到了吗",
+        "onboard_time": 1731812058,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 196237,
+        "num": 196237,
+        "word": "虞书欣丁禹兮hi6收视率历史最高",
+        "onboard_time": 1731774319,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440399,
+        "num": 191473,
+        "word": "白灼虾最忌用水煮",
+        "onboard_time": 1731805999,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226716,
+        "num": 189664,
+        "word": "有车以后的真实感受",
+        "onboard_time": 1731808458,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185739,
+        "num": 185739,
+        "word": "张韶涵雨夜美貌三折叠",
+        "onboard_time": 1731811999,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184753,
+        "num": 184753,
+        "word": "派出所回应丢38吨稻谷报警被怼",
+        "onboard_time": 1731772102,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176175,
+        "num": 176175,
+        "word": "安徽舒城县长回应县政府大院随便进",
+        "onboard_time": 1731811698,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171832,
+        "num": 171832,
+        "word": "男生为什么不把妹妹介绍给兄弟",
+        "onboard_time": 1731794651,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170814,
+        "num": 170814,
+        "word": "李行亮麦琳兰因絮果具象化",
+        "onboard_time": 1731803897,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166952,
+        "num": 166952,
+        "word": "SofM弃赛",
+        "onboard_time": 1731805579,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152635,
+        "num": 165265,
+        "word": "林保怡回应憾失金鸡影帝",
+        "onboard_time": 1731812658,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31316,
+        "num": 165178,
+        "word": "林高远梁靖崑进入较好备战状态",
+        "onboard_time": 1731812178,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351404,
+        "num": 165175,
+        "word": "金鸡 离谱",
+        "onboard_time": 1731767366,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165096,
+        "num": 165096,
+        "word": "金鸡奖颁奖现场观众喊黑幕",
+        "onboard_time": 1731812779,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159523,
+        "num": 159523,
+        "word": "中国6岁小朋友开始设想歼90了",
+        "onboard_time": 1731800655,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 155824,
+        "num": 155824,
+        "word": "黄晓明一个月瘦了15公斤",
+        "onboard_time": 1731772222,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152570,
+        "num": 152570,
+        "word": "捐二战相册美国小伙来华首站看升旗",
+        "onboard_time": 1731808939,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 141622,
+        "num": 141622,
+        "word": "金鸡历届影后",
+        "onboard_time": 1731806299,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132116,
+        "num": 132116,
+        "word": "28楼业主在外立面破墙开门多方回应",
+        "onboard_time": 1731803178,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 125577,
+        "num": 125577,
+        "word": "2架歼20贴脸飞行太酷了",
+        "onboard_time": 1731807920,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 121843,
+        "num": 121843,
+        "word": "广东通报宠物中毒事件",
+        "onboard_time": 1731810918,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118054,
+        "num": 118054,
+        "word": "中美元首会晤持续1小时45分钟",
+        "onboard_time": 1731809719,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116284,
+        "num": 116284,
+        "word": "李庚希给大鹏白客职场建议别干了辞吧",
+        "onboard_time": 1731793152,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105210,
+        "num": 105210,
+        "word": "徐静蕾",
+        "onboard_time": 1731768562,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81629,
+        "num": 104960,
+        "word": "拳王泰森回应不敌27岁网红",
+        "onboard_time": 1731812239,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104944,
+        "num": 104944,
+        "word": "女生分享光腿神器不勒脚穿法",
+        "onboard_time": 1731810438,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 99388,
+        "num": 99388,
+        "word": "房东的猫定居杭州",
+        "onboard_time": 1731803478,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98831,
+        "num": 98831,
+        "word": "大梦归离哭死我了",
+        "onboard_time": 1731810858,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96451,
+        "num": 96451,
+        "word": "LWX怒喷诺夏",
+        "onboard_time": 1731805458,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90831,
+        "num": 90831,
+        "word": "张立业董雨欣BE",
+        "onboard_time": 1731813078,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89354,
+        "num": 89354,
+        "word": "武汉东湖共享电单车被吐槽价格刺客",
+        "onboard_time": 1731806958,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88801,
+        "num": 88801,
+        "word": "王楚钦孙颖莎将出征WTT总决赛",
+        "onboard_time": 1731800596,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国总统拜登#"
+    }
+  }
+}

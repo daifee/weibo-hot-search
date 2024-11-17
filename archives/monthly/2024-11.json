@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731812651157,
+  "endTime": 1731813184881,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1156,7 +1156,7 @@
     },
     {
       "raw_hot": 1769791,
-      "num": 327115,
+      "num": 462391,
       "word": "资源咖",
       "onboard_time": 1731774319,
       "rank": 36,
@@ -3395,6 +3395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1054481,
+      "num": 1054481,
+      "word": "安徽一县政府大院因敞开大门火了",
+      "onboard_time": 1731810258,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1053516,
       "num": 968748,
       "word": "Uzi怒喷On",
@@ -3737,14 +3745,6 @@
       "onboard_time": 1730802742,
       "rank": 34,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1006079,
-      "num": 1006079,
-      "word": "安徽一县政府大院因敞开大门火了",
-      "onboard_time": 1731810258,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1003762,
@@ -4321,6 +4321,14 @@
       "onboard_time": 1731474080,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 916264,
+      "num": 916264,
+      "word": "已确认超40只宠物狗疑似中毒死亡",
+      "onboard_time": 1731811578,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 916195,
@@ -7035,6 +7043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645276,
+      "num": 645276,
+      "word": "彭高参加乐言生日聚会",
+      "onboard_time": 1731810199,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645234,
       "num": 645234,
       "word": "建议每个恐华症的人都到中国看看",
@@ -7353,14 +7369,6 @@
       "onboard_time": 1731321199,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 627682,
-      "num": 627682,
-      "word": "彭高参加乐言生日聚会",
-      "onboard_time": 1731810199,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 627681,
@@ -9051,14 +9059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 533345,
-      "num": 533345,
-      "word": "已确认超40只宠物狗疑似中毒死亡",
-      "onboard_time": 1731811578,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 533237,
       "num": 383312,
       "word": "刘晓庆曾给刘涛演丫鬟",
@@ -9979,6 +9979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 491190,
+      "num": 491190,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1731810498,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 490957,
       "num": 490957,
       "word": "蒋欣演技 拿奖",
@@ -10017,6 +10025,14 @@
       "onboard_time": 1730536877,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488731,
+      "num": 488731,
+      "word": "泽连斯基称美国不能逼我们坐在谈判桌上",
+      "onboard_time": 1731809537,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 488633,
@@ -10595,20 +10611,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461004,
+      "num": 461004,
+      "word": "张予曦也自己化妆了",
+      "onboard_time": 1731811099,
+      "rank": 11,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 460990,
       "num": 460990,
       "word": "腾讯视频11月大剧片单上新",
       "onboard_time": 1730436620,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 460980,
-      "num": 460980,
-      "word": "泽连斯基称美国不能逼我们坐在谈判桌上",
-      "onboard_time": 1731809537,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 460397,
@@ -14315,14 +14331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334061,
-      "num": 326723,
-      "word": "张予曦也自己化妆了",
-      "onboard_time": 1731811099,
-      "rank": 11,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 334022,
       "num": 334022,
       "word": "天舟八号发射",
@@ -14561,14 +14569,6 @@
       "onboard_time": 1731253819,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327131,
-      "num": 327131,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1731810498,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 327006,
@@ -15601,6 +15601,14 @@
       "onboard_time": 1731541697,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 298004,
+      "num": 298004,
+      "word": "汪顺 霸王茶姬活动",
+      "onboard_time": 1731811459,
+      "rank": 24,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 297919,
@@ -23459,14 +23467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195941,
-      "num": 195941,
-      "word": "汪顺 霸王茶姬活动",
-      "onboard_time": 1731811459,
-      "rank": 24,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 195909,
       "num": 195909,
       "word": "哈里斯特朗普在同一个地方拉票",
@@ -25227,6 +25227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185739,
+      "num": 185739,
+      "word": "张韶涵雨夜美貌三折叠",
+      "onboard_time": 1731811999,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185719,
       "num": 185719,
       "word": "庄超英一巴掌打了仨",
@@ -26665,6 +26673,14 @@
       "onboard_time": 1730634319,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176175,
+      "num": 200499,
+      "word": "安徽舒城县长回应县政府大院随便进",
+      "onboard_time": 1731811698,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176128,
@@ -28561,6 +28577,14 @@
       "onboard_time": 1730961439,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165096,
+      "num": 165096,
+      "word": "金鸡奖颁奖现场观众喊黑幕",
+      "onboard_time": 1731812779,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 165026,
@@ -30995,6 +31019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152635,
+      "num": 165265,
+      "word": "林保怡回应憾失金鸡影帝",
+      "onboard_time": 1731812658,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152608,
       "num": 348291,
       "word": "歼15T也来了",
@@ -31009,6 +31041,14 @@
       "onboard_time": 1731118457,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152570,
+      "num": 157228,
+      "word": "捐二战相册美国小伙来华首站看升旗",
+      "onboard_time": 1731808939,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 152552,
@@ -31577,14 +31617,6 @@
       "onboard_time": 1730732061,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150095,
-      "num": 200499,
-      "word": "安徽舒城县长回应县政府大院随便进",
-      "onboard_time": 1731811698,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150058,
@@ -33915,14 +33947,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136889,
-      "num": 157228,
-      "word": "捐二战相册美国小伙来华首站看升旗",
-      "onboard_time": 1731808939,
-      "rank": 28,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 136733,
       "num": 136733,
       "word": "袁励岑向鹏男双世界第一",
@@ -34513,14 +34537,6 @@
       "onboard_time": 1730536578,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133366,
-      "num": 133366,
-      "word": "张韶涵雨夜美貌三折叠",
-      "onboard_time": 1731811999,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 133281,
@@ -39867,6 +39883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98831,
+      "num": 98831,
+      "word": "大梦归离哭死我了",
+      "onboard_time": 1731810858,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98779,
       "num": 325783,
       "word": "25块的短途高铁真的赢很大",
@@ -40379,14 +40403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94941,
-      "num": 94941,
-      "word": "大梦归离哭死我了",
-      "onboard_time": 1731810858,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94921,
       "num": 265740,
       "word": "易烊千玺街头巷尾的月光",
@@ -40649,6 +40665,14 @@
       "onboard_time": 1731469459,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90831,
+      "num": 90831,
+      "word": "张立业董雨欣BE",
+      "onboard_time": 1731813078,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 90772,
@@ -41563,6 +41587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81629,
+      "num": 158695,
+      "word": "拳王泰森回应不敌27岁网红",
+      "onboard_time": 1731812239,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81615,
       "num": 308930,
       "word": "花海挑战者杯当作最后一程",
@@ -42377,14 +42409,6 @@
       "onboard_time": 1731797294,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 71892,
-      "num": 158695,
-      "word": "拳王泰森回应不敌27岁网红",
-      "onboard_time": 1731812239,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 71876,
@@ -44273,6 +44297,14 @@
       "onboard_time": 1731773420,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57138,
+      "num": 463685,
+      "word": "中国航展今天闭幕",
+      "onboard_time": 1731810980,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 56944,
@@ -49227,6 +49259,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 31316,
+      "num": 165178,
+      "word": "林高远梁靖崑进入较好备战状态",
+      "onboard_time": 1731812178,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31250,
       "num": 232350,
       "word": "刘敏涛天猫双11广告超疯的",
@@ -49465,14 +49505,6 @@
       "onboard_time": 1731495980,
       "rank": 13,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 30366,
-      "num": 158242,
-      "word": "林高远梁靖崑进入较好备战状态",
-      "onboard_time": 1731812178,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 30285,
