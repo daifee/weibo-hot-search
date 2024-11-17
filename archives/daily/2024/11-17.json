@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731820985249,
+  "endTime": 1731822007800,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1090265,
+      "num": 1090265,
+      "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+      "onboard_time": 1731817941,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1054481,
       "num": 1054481,
       "word": "安徽一县政府大院因敞开大门火了",
@@ -83,12 +91,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 954610,
-      "num": 954610,
-      "word": "央视曝光8万月薪工作暗藏医美贷骗局",
-      "onboard_time": 1731817941,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 952633,
+      "num": 373805,
+      "word": "三里屯三姐妹",
+      "onboard_time": 1731818299,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 885895,
@@ -99,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 877885,
+      "num": 877885,
+      "word": "中方不会允许朝鲜半岛生战生乱",
+      "onboard_time": 1731819559,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 845842,
       "num": 845842,
       "word": "女性上桌不代表男性下桌",
       "onboard_time": 1731815900,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 840059,
-      "num": 306211,
-      "word": "三里屯三姐妹",
-      "onboard_time": 1731818299,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 811289,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 781299,
-      "num": 304534,
+      "num": 312376,
       "word": "妻子患癌去世丈夫失联构成遗弃罪",
       "onboard_time": 1731818239,
       "rank": 19,
@@ -137,6 +145,14 @@
       "onboard_time": 1731812779,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 745774,
+      "num": 343162,
+      "word": "烧伤妈妈丈夫问没有房产证如何卖房",
+      "onboard_time": 1731819620,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 736413,
@@ -203,20 +219,20 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 608363,
-      "num": 608363,
-      "word": "中方不会允许朝鲜半岛生战生乱",
-      "onboard_time": 1731819559,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 528303,
       "num": 259039,
       "word": "白灼虾最忌用水煮",
       "onboard_time": 1731805999,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 494927,
+      "num": 494927,
+      "word": "被丈夫举报出轨学生女教师二提离婚",
+      "onboard_time": 1731820759,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488731,
@@ -275,12 +291,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 430481,
-      "num": 189183,
-      "word": "烧伤妈妈丈夫问没有房产证如何卖房",
-      "onboard_time": 1731819620,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 414197,
+      "num": 273788,
+      "word": "31岁女生不婚不生的真实感受",
+      "onboard_time": 1731820580,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 406432,
@@ -443,12 +459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 270604,
+      "num": 270604,
+      "word": "不建议囤太多卫生巾",
+      "onboard_time": 1731819499,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259833,
       "num": 259833,
       "word": "王者荣耀王昭君",
       "onboard_time": 1731773781,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258935,
+      "num": 258935,
+      "word": "孙颖莎入选亚太U30杰出青年领袖",
+      "onboard_time": 1731820339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 256909,
@@ -539,14 +571,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 217227,
-      "num": 180240,
-      "word": "31岁女生不婚不生的真实感受",
-      "onboard_time": 1731820580,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 216644,
       "num": 216644,
       "word": "王一博站起来为热烈鼓掌",
@@ -571,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208295,
+      "num": 267748,
+      "word": "武艺李行亮 抓马故事",
+      "onboard_time": 1731815838,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204192,
       "num": 299419,
       "word": "王俊凯入选亚太U30杰出青年领袖",
@@ -588,11 +620,19 @@
     },
     {
       "raw_hot": 190626,
-      "num": 190626,
+      "num": 271070,
       "word": "时代少年团新歌角色卡牌",
       "onboard_time": 1731820460,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190607,
+      "num": 269278,
+      "word": "李昊争取了三年等了三年",
+      "onboard_time": 1731820999,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 188965,
@@ -601,14 +641,6 @@
       "onboard_time": 1731768742,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187228,
-      "num": 187228,
-      "word": "孙颖莎入选亚太U30杰出青年领袖",
-      "onboard_time": 1731820339,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 185739,
@@ -635,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180073,
+      "num": 274818,
+      "word": "孙颖莎出席福冈总决赛抽签",
+      "onboard_time": 1731820941,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176175,
       "num": 200499,
       "word": "安徽舒城县长回应县政府大院随便进",
@@ -657,14 +697,6 @@
       "onboard_time": 1731813078,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175822,
-      "num": 213599,
-      "word": "武艺李行亮 抓马故事",
-      "onboard_time": 1731815838,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 171754,
@@ -721,6 +753,14 @@
       "onboard_time": 1731806299,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162422,
+      "num": 278507,
+      "word": "多少年轻人把冰箱当时间静止器用",
+      "onboard_time": 1731819440,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161921,
@@ -792,6 +832,14 @@
       "word": "唐九洲说文韬的梗太伟大了",
       "onboard_time": 1731774319,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151417,
+      "num": 190244,
+      "word": "李光洁 叔圈天菜",
+      "onboard_time": 1731819440,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -867,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142580,
+      "num": 142580,
+      "word": "2中企高管在菲遭撕票案主犯落网",
+      "onboard_time": 1731817877,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142034,
       "num": 142034,
       "word": "湖人5连胜",
@@ -931,28 +987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134233,
-      "num": 134233,
-      "word": "2中企高管在菲遭撕票案主犯落网",
-      "onboard_time": 1731817877,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133685,
       "num": 133685,
       "word": "中美元首会晤持续1小时45分钟",
       "onboard_time": 1731809719,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 131611,
-      "num": 233027,
-      "word": "孙颖莎出席福冈总决赛抽签",
-      "onboard_time": 1731820941,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 127930,
@@ -963,28 +1003,12 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 125590,
-      "num": 125590,
-      "word": "被丈夫举报出轨学生女教师二提离婚",
-      "onboard_time": 1731820759,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124794,
       "num": 124794,
       "word": "LWX怒喷诺夏",
       "onboard_time": 1731805458,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122499,
-      "num": 190244,
-      "word": "李光洁 叔圈天菜",
-      "onboard_time": 1731819440,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 121567,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1731814759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114655,
+      "num": 114655,
+      "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
+      "onboard_time": 1731821538,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112519,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1731769283,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102629,
+      "num": 102629,
+      "word": "减重版司美格鲁肽在中国正式上市",
+      "onboard_time": 1731821960,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100228,
@@ -1203,6 +1243,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 86903,
+      "num": 259032,
+      "word": "AG获得2200万奖金",
+      "onboard_time": 1731821719,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86625,
       "num": 86625,
       "word": "德国7比0波黑",
@@ -1211,20 +1259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83555,
-      "num": 235707,
-      "word": "不建议囤太多卫生巾",
-      "onboard_time": 1731819499,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76663,
-      "num": 188012,
+      "num": 264855,
       "word": "gidle获奖感言",
       "onboard_time": 1731819620,
       "rank": 29,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 76429,
+      "num": 265936,
+      "word": "刘诗诗风从海上来",
+      "onboard_time": 1731820941,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 76351,
@@ -1267,14 +1315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67536,
-      "num": 278507,
-      "word": "多少年轻人把冰箱当时间静止器用",
-      "onboard_time": 1731819440,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66596,
       "num": 66596,
       "word": "马斯克将领导美国政府效率部",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1731797593,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59493,
+      "num": 128768,
+      "word": "曝Chovy和Canyon续约",
+      "onboard_time": 1731821059,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 58386,
@@ -1355,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50439,
+      "num": 260428,
+      "word": "岛屿少年重现餐桌吵架名场面",
+      "onboard_time": 1731820700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48743,
       "num": 48743,
       "word": "烧伤妈妈恢复期忍痛练习吃饭",
@@ -1419,14 +1475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40344,
-      "num": 188408,
-      "word": "刘诗诗风从海上来",
-      "onboard_time": 1731820941,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 39224,
       "num": 104215,
       "word": "中国担任APEC2026年东道主",
@@ -1467,14 +1515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35719,
-      "num": 188614,
-      "word": "岛屿少年重现餐桌吵架名场面",
-      "onboard_time": 1731820700,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33691,
       "num": 587820,
       "word": "一图看懂中美这次见面",
@@ -1508,7 +1548,7 @@
     },
     {
       "raw_hot": 33254,
-      "num": 218756,
+      "num": 279499,
       "word": "锦绣万千唯蜀更美",
       "onboard_time": 1731820038,
       "rank": 19,

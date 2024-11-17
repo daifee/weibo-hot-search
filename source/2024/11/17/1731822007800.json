@@ -1,0 +1,410 @@
+{
+  "runTime": 1731822007800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1659405,
+        "num": 1659405,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1090265,
+        "num": 1090265,
+        "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+        "onboard_time": 1731817941,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85349,
+        "num": 917303,
+        "word": "恶意差评法律不容",
+        "onboard_time": 1731819079,
+        "rank": 2,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1393428,
+        "num": 914623,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877885,
+        "num": 877885,
+        "word": "中方不会允许朝鲜半岛生战生乱",
+        "onboard_time": 1731819559,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759815,
+        "num": 759815,
+        "word": "李庚希回应金鸡影后",
+        "onboard_time": 1731813679,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 590070,
+        "num": 590070,
+        "word": "女性上桌不代表男性下桌",
+        "onboard_time": 1731815900,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 494927,
+        "num": 494927,
+        "word": "被丈夫举报出轨学生女教师二提离婚",
+        "onboard_time": 1731820759,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472090,
+        "num": 472090,
+        "word": "已确认超40只宠物狗疑似中毒死亡",
+        "onboard_time": 1731811578,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401241,
+        "num": 401241,
+        "word": "中美元首会见现场",
+        "onboard_time": 1731800596,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1073915,
+        "num": 397711,
+        "word": "卫生巾 C类",
+        "onboard_time": 1731814038,
+        "rank": 10,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 952633,
+        "num": 373805,
+        "word": "三里屯三姐妹",
+        "onboard_time": 1731818299,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745774,
+        "num": 343162,
+        "word": "烧伤妈妈丈夫问没有房产证如何卖房",
+        "onboard_time": 1731819620,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612838,
+        "num": 312376,
+        "word": "妻子患癌去世丈夫失联构成遗弃罪",
+        "onboard_time": 1731818239,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509805,
+        "num": 300247,
+        "word": "35岁对未婚未育女生意味着什么",
+        "onboard_time": 1731816738,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282081,
+        "num": 282081,
+        "word": "张予曦也自己化妆了",
+        "onboard_time": 1731811099,
+        "rank": 15,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 252583,
+        "num": 280629,
+        "word": "彭高参加乐言生日聚会",
+        "onboard_time": 1731810199,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21812,
+        "num": 279499,
+        "word": "锦绣万千唯蜀更美",
+        "onboard_time": 1731820038,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 242824,
+        "num": 276448,
+        "word": "小巷人家",
+        "onboard_time": 1731817579,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180073,
+        "num": 274818,
+        "word": "孙颖莎出席福冈总决赛抽签",
+        "onboard_time": 1731820941,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414197,
+        "num": 273788,
+        "word": "31岁女生不婚不生的真实感受",
+        "onboard_time": 1731820580,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165987,
+        "num": 271070,
+        "word": "时代少年团新歌角色卡牌",
+        "onboard_time": 1731820460,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270604,
+        "num": 270604,
+        "word": "不建议囤太多卫生巾",
+        "onboard_time": 1731819499,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190607,
+        "num": 269278,
+        "word": "李昊争取了三年等了三年",
+        "onboard_time": 1731820999,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208295,
+        "num": 267748,
+        "word": "武艺李行亮 抓马故事",
+        "onboard_time": 1731815838,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76429,
+        "num": 265936,
+        "word": "刘诗诗风从海上来",
+        "onboard_time": 1731820941,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 59831,
+        "num": 264855,
+        "word": "gidle获奖感言",
+        "onboard_time": 1731819620,
+        "rank": 26,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 264086,
+        "num": 264086,
+        "word": "安徽一县政府大院因敞开大门火了",
+        "onboard_time": 1731810258,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50439,
+        "num": 260428,
+        "word": "岛屿少年重现餐桌吵架名场面",
+        "onboard_time": 1731820700,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86903,
+        "num": 259032,
+        "word": "AG获得2200万奖金",
+        "onboard_time": 1731821719,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258935,
+        "num": 258935,
+        "word": "孙颖莎入选亚太U30杰出青年领袖",
+        "onboard_time": 1731820339,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174647,
+        "num": 174647,
+        "word": "月鳞绮纪鞠婧祎一番",
+        "onboard_time": 1731816859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163908,
+        "num": 163908,
+        "word": "白灼虾最忌用水煮",
+        "onboard_time": 1731805999,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "多少年轻人把冰箱当时间静止器用",
+        "onboard_time": 1731819440,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157838,
+        "num": 157838,
+        "word": "资源咖",
+        "onboard_time": 1731774319,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151417,
+        "num": 151417,
+        "word": "李光洁 叔圈天菜",
+        "onboard_time": 1731819440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142580,
+        "num": 142580,
+        "word": "2中企高管在菲遭撕票案主犯落网",
+        "onboard_time": 1731817877,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140074,
+        "num": 140074,
+        "word": "麦琳不接受李行亮讲道理",
+        "onboard_time": 1731801616,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129070,
+        "num": 129070,
+        "word": "秘鲁人从小就吃中餐",
+        "onboard_time": 1731816859,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59493,
+        "num": 128768,
+        "word": "曝Chovy和Canyon续约",
+        "onboard_time": 1731821059,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128639,
+        "num": 128639,
+        "word": "恋与王者",
+        "onboard_time": 1731815417,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127115,
+        "num": 127115,
+        "word": "黎巴嫩男子冲着救人自己却被炸身亡",
+        "onboard_time": 1731817517,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125693,
+        "num": 125693,
+        "word": "虞书欣好六节目拍摄vlog",
+        "onboard_time": 1731816798,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114655,
+        "num": 114655,
+        "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
+        "onboard_time": 1731821538,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111853,
+        "num": 111853,
+        "word": "泽连斯基称美国不能逼我们坐在谈判桌上",
+        "onboard_time": 1731809537,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6549,
+        "num": 109480,
+        "word": "影视飓风团队获金鸡手机电影奖",
+        "onboard_time": 1731816798,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108680,
+        "num": 108680,
+        "word": "王俊凯入选亚太U30杰出青年领袖",
+        "onboard_time": 1731817160,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105892,
+        "num": 105892,
+        "word": "拒绝肥胖污名化",
+        "onboard_time": 1731816379,
+        "rank": 47,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 102629,
+        "num": 102629,
+        "word": "减重版司美格鲁肽在中国正式上市",
+        "onboard_time": 1731821960,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101329,
+        "num": 101329,
+        "word": "小巷人家超点",
+        "onboard_time": 1731815238,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国发展将为世界发展提供更多新机遇#"
+    }
+  }
+}
