@@ -1,7 +1,15 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731800215687,
+  "endTime": 1731808310149,
   "band_list": [
+    {
+      "raw_hot": 3737280,
+      "num": 4474560,
+      "word": "美国不支持台湾独立",
+      "onboard_time": 1731805999,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2927693,
       "num": 2927693,
@@ -35,12 +43,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 885895,
+      "num": 233107,
+      "word": "淮北师大称警方已介入",
+      "onboard_time": 1731789731,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 736413,
       "num": 299475,
       "word": "虞书欣丁禹兮hi6收视率历史最高",
       "onboard_time": 1731774319,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 700316,
+      "num": 700316,
+      "word": "中美元首会见现场",
+      "onboard_time": 1731800596,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 688362,
@@ -57,6 +81,14 @@
       "onboard_time": 1731772161,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 623341,
+      "num": 623341,
+      "word": "麦琳不接受李行亮讲道理",
+      "onboard_time": 1731801616,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 470545,
@@ -83,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439029,
+      "num": 218651,
+      "word": "白灼虾最忌用水煮",
+      "onboard_time": 1731805999,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 432049,
       "num": 432049,
       "word": "AG夺冠",
@@ -105,6 +145,14 @@
       "onboard_time": 1731772222,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 387823,
+      "num": 297463,
+      "word": "禹宙中欣",
+      "onboard_time": 1731799394,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 376711,
@@ -139,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313406,
+      "num": 313406,
+      "word": "中国6岁小朋友开始设想歼90了",
+      "onboard_time": 1731800655,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
       "raw_hot": 295623,
       "num": 295623,
       "word": "徐静蕾",
@@ -155,12 +211,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 281910,
-      "num": 110235,
-      "word": "淮北师大称警方已介入",
-      "onboard_time": 1731789731,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 287617,
+      "num": 242322,
+      "word": "SofM弃赛",
+      "onboard_time": 1731805579,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 276382,
+      "num": 230028,
+      "word": "李庚希给大鹏白客职场建议别干了辞吧",
+      "onboard_time": 1731793152,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 275495,
@@ -195,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256453,
+      "num": 227414,
+      "word": "房东的猫定居杭州",
+      "onboard_time": 1731803478,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255939,
       "num": 255939,
       "word": "金鸡奖获奖名单",
@@ -203,12 +275,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253277,
-      "num": 140041,
-      "word": "李庚希给大鹏白客职场建议别干了辞吧",
-      "onboard_time": 1731793152,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 254075,
+      "num": 254075,
+      "word": "用人民币感受英国的工资水平",
+      "onboard_time": 1731800415,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 244174,
@@ -243,6 +315,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225090,
+      "num": 225090,
+      "word": "李行亮麦琳兰因絮果具象化",
+      "onboard_time": 1731803897,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217439,
+      "num": 217439,
+      "word": "纪委介入调查村干部工作日聚餐饮酒",
+      "onboard_time": 1731800476,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 216644,
       "num": 216644,
       "word": "王一博站起来为热烈鼓掌",
@@ -265,6 +353,14 @@
       "onboard_time": 1731759380,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201770,
+      "num": 201770,
+      "word": "男生为什么不把妹妹介绍给兄弟",
+      "onboard_time": 1731794651,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 188965,
@@ -300,7 +396,7 @@
     },
     {
       "raw_hot": 168381,
-      "num": 168381,
+      "num": 240469,
       "word": "小渔船一网下去捞起美国核潜艇",
       "onboard_time": 1731777257,
       "rank": 22,
@@ -321,6 +417,22 @@
       "onboard_time": 1731766885,
       "rank": 17,
       "category": "军事"
+    },
+    {
+      "raw_hot": 157452,
+      "num": 157452,
+      "word": "听到大合唱的那一刻热泪盈眶了",
+      "onboard_time": 1731803657,
+      "rank": 25,
+      "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 157156,
+      "num": 157156,
+      "word": "金鸡历届影后",
+      "onboard_time": 1731806299,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 155999,
@@ -371,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146297,
+      "num": 146297,
+      "word": "28楼业主在外立面破墙开门多方回应",
+      "onboard_time": 1731803178,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145534,
       "num": 145534,
       "word": "金鸡奖含金量",
@@ -387,12 +507,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143231,
+      "num": 143231,
+      "word": "把学生闭麦拉走是学校育人错误示范",
+      "onboard_time": 1731798915,
+      "rank": 37,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 141645,
       "num": 141645,
       "word": "王源把演唱会现场变成游乐场",
       "onboard_time": 1731772222,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140662,
+      "num": 140662,
+      "word": "毓言cp",
+      "onboard_time": 1731807859,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 139053,
@@ -419,6 +555,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119217,
+      "num": 119217,
+      "word": "男子称快递370克黄金被代签收损失20万",
+      "onboard_time": 1731789731,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118010,
+      "num": 118010,
+      "word": "潘粤明白夜破晓演技",
+      "onboard_time": 1731804077,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113690,
+      "num": 113690,
+      "word": "LWX怒喷诺夏",
+      "onboard_time": 1731805458,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112519,
       "num": 237624,
       "word": "马琳回应陈梦退赛",
@@ -435,20 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106112,
-      "num": 101813,
-      "word": "男生为什么不把妹妹介绍给兄弟",
-      "onboard_time": 1731794651,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 105807,
-      "num": 105807,
-      "word": "禹宙中欣",
-      "onboard_time": 1731799394,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 107495,
+      "num": 107495,
+      "word": "王楚钦孙颖莎将出征WTT总决赛",
+      "onboard_time": 1731800596,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 105060,
@@ -459,6 +611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98095,
+      "num": 98095,
+      "word": "特朗普被曝计划让伊朗破产",
+      "onboard_time": 1731800415,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 97317,
+      "num": 97317,
+      "word": "王一博四部电影三部提名金鸡奖",
+      "onboard_time": 1731803778,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96788,
       "num": 126475,
       "word": "王皓回应樊振东马龙退出总决赛",
@@ -467,12 +635,68 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94961,
+      "num": 94961,
+      "word": "王楚钦林诗栋总决赛将承担重任",
+      "onboard_time": 1731803536,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94214,
+      "num": 94214,
+      "word": "金价高位回落",
+      "onboard_time": 1731803358,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 92018,
+      "num": 92018,
+      "word": "李光洁 内娱河道英",
+      "onboard_time": 1731802817,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 91783,
+      "num": 253554,
+      "word": "2架歼20贴脸飞行太酷了",
+      "onboard_time": 1731807920,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 89724,
       "num": 235013,
       "word": "奥地利称俄停止向其供应天然气",
       "onboard_time": 1731772102,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87058,
+      "num": 87058,
+      "word": "武汉东湖共享电单车被吐槽价格刺客",
+      "onboard_time": 1731806958,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86625,
+      "num": 86625,
+      "word": "德国7比0波黑",
+      "onboard_time": 1731807558,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82288,
+      "num": 82288,
+      "word": "博格丹买了一堆中国战斗机模型",
+      "onboard_time": 1731807499,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 76351,
@@ -499,14 +723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62303,
-      "num": 62303,
-      "word": "男子称快递370克黄金被代签收损失20万",
-      "onboard_time": 1731789731,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61226,
       "num": 61226,
       "word": "中国服装把天圆地方披在肩上",
@@ -531,20 +747,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54850,
-      "num": 54850,
-      "word": "把学生闭麦拉走是学校育人错误示范",
-      "onboard_time": 1731798915,
-      "rank": 37,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 53944,
       "num": 84777,
       "word": "珠海航展",
       "onboard_time": 1731745338,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 53313,
+      "num": 88923,
+      "word": "共担时代责任共促亚太发展",
+      "onboard_time": 1731805759,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51701,
@@ -579,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48205,
+      "num": 143411,
+      "word": "Doinb谈LWX破防",
+      "onboard_time": 1731807739,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47617,
       "num": 47617,
       "word": "美议员推动调查马斯克与俄通信",
@@ -593,6 +817,14 @@
       "onboard_time": 1731776120,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45035,
+      "num": 218888,
+      "word": "长生KPL第一中单",
+      "onboard_time": 1731808039,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 42663,
@@ -660,7 +892,7 @@
     },
     {
       "raw_hot": 33290,
-      "num": 388557,
+      "num": 628563,
       "word": "男子在秘鲁40多年开了60多家中餐厅",
       "onboard_time": 1731759020,
       "rank": 2,
@@ -713,6 +945,14 @@
       "onboard_time": 1731779715,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19863,
+      "num": 149097,
+      "word": "陈都灵弹春风不问",
+      "onboard_time": 1731800055,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19043,
@@ -811,14 +1051,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12656,
-      "num": 105531,
-      "word": "陈都灵弹春风不问",
-      "onboard_time": 1731800055,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 12117,
       "num": 23180,
       "word": "我国载人航天2024发射任务收官",
@@ -908,6 +1140,9 @@
     },
     {
       "word": "#中国有一个跨越半个地球的邻居#"
+    },
+    {
+      "word": "#习近平同拜登举行会晤#"
     }
   ]
 }
