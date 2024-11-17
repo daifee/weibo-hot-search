@@ -1,0 +1,410 @@
+{
+  "runTime": 1731817612968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2347551,
+        "num": 2347551,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1264887,
+        "num": 1264887,
+        "word": "李庚希回应金鸡影后",
+        "onboard_time": 1731813679,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54083,
+        "num": 924903,
+        "word": "秘鲁人从小就吃中餐",
+        "onboard_time": 1731816859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 794916,
+        "num": 794916,
+        "word": "已确认超40只宠物狗疑似中毒死亡",
+        "onboard_time": 1731811578,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508085,
+        "num": 508085,
+        "word": "女性上桌不代表男性下桌",
+        "onboard_time": 1731815900,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440999,
+        "num": 440999,
+        "word": "安徽一县政府大院因敞开大门火了",
+        "onboard_time": 1731810258,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427051,
+        "num": 427051,
+        "word": "彭高参加乐言生日聚会",
+        "onboard_time": 1731810199,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419856,
+        "num": 419856,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24408,
+        "num": 419557,
+        "word": "在文昌见证一场独属于中国人的浪漫",
+        "onboard_time": 1731816619,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 77405,
+        "num": 417713,
+        "word": "当歌唱祖国在航展现场响起",
+        "onboard_time": 1731816258,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1752959,
+        "num": 416561,
+        "word": "卫生巾 C类",
+        "onboard_time": 1731814038,
+        "rank": 10,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 601598,
+        "num": 415410,
+        "word": "35岁对未婚未育女生意味着什么",
+        "onboard_time": 1731816738,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414352,
+        "num": 414352,
+        "word": "中美元首会见现场",
+        "onboard_time": 1731800596,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394541,
+        "num": 394541,
+        "word": "张予曦也自己化妆了",
+        "onboard_time": 1731811099,
+        "rank": 13,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 49901,
+        "num": 348620,
+        "word": "中企高管在菲遭撕票主犯美国落网",
+        "onboard_time": 1731816978,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346243,
+        "num": 346243,
+        "word": "资源咖",
+        "onboard_time": 1731774319,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187826,
+        "num": 333702,
+        "word": "林保怡回应憾失金鸡影帝",
+        "onboard_time": 1731812658,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328683,
+        "num": 328683,
+        "word": "小巷人家",
+        "onboard_time": 1731817579,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117154,
+        "num": 299419,
+        "word": "王俊凯入选亚太U30杰出青年领袖",
+        "onboard_time": 1731817160,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70777,
+        "num": 297103,
+        "word": "小朋友抱紧徐枫灿不放手",
+        "onboard_time": 1731817097,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 296459,
+        "num": 296459,
+        "word": "麦琳不接受李行亮讲道理",
+        "onboard_time": 1731801616,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275544,
+        "num": 275544,
+        "word": "江苏淮安小伙把自己棉大衣给埃文凯尔穿",
+        "onboard_time": 1731813499,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 268474,
+        "num": 268474,
+        "word": "汪顺 霸王茶姬活动",
+        "onboard_time": 1731811459,
+        "rank": 22,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 13729,
+        "num": 259157,
+        "word": "影视飓风团队获金鸡手机电影奖",
+        "onboard_time": 1731816798,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259039,
+        "num": 259039,
+        "word": "白灼虾最忌用水煮",
+        "onboard_time": 1731805999,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250735,
+        "num": 250735,
+        "word": "小巷人家超点",
+        "onboard_time": 1731815238,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248912,
+        "num": 248912,
+        "word": "泽连斯基称美国不能逼我们坐在谈判桌上",
+        "onboard_time": 1731809537,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230178,
+        "num": 230178,
+        "word": "月鳞绮纪鞠婧祎一番",
+        "onboard_time": 1731816859,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223305,
+        "num": 223305,
+        "word": "塔图姆绝杀",
+        "onboard_time": 1731816018,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168136,
+        "num": 213599,
+        "word": "武艺李行亮 抓马故事",
+        "onboard_time": 1731815838,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204951,
+        "num": 204951,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1731810498,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182825,
+        "num": 182825,
+        "word": "易烊千玺2024亚太U30杰出青年领袖",
+        "onboard_time": 1731815959,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175825,
+        "num": 175825,
+        "word": "张立业董雨欣BE",
+        "onboard_time": 1731813078,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171754,
+        "num": 171754,
+        "word": "虞书欣好六节目拍摄vlog",
+        "onboard_time": 1731816798,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170676,
+        "num": 170676,
+        "word": "用人民币感受英国的工资水平",
+        "onboard_time": 1731800415,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154330,
+        "num": 154330,
+        "word": "禹宙中欣",
+        "onboard_time": 1731799394,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146274,
+        "num": 146274,
+        "word": "国企高中学历运营总监本人回应",
+        "onboard_time": 1731813319,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144677,
+        "num": 144677,
+        "word": "李庚希金鸡影后",
+        "onboard_time": 1731765565,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142034,
+        "num": 142034,
+        "word": "湖人5连胜",
+        "onboard_time": 1731817038,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141164,
+        "num": 141164,
+        "word": "金鸡 离谱",
+        "onboard_time": 1731767366,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138482,
+        "num": 138482,
+        "word": "粉笔模考",
+        "onboard_time": 1731816018,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136397,
+        "num": 136397,
+        "word": "女生分享光腿神器不勒脚穿法",
+        "onboard_time": 1731810438,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 130181,
+        "num": 130181,
+        "word": "虞书欣丁禹兮hi6收视率历史最高",
+        "onboard_time": 1731774319,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127669,
+        "num": 127669,
+        "word": "埃文凯尔回应所捐日本侵华相册去向",
+        "onboard_time": 1731814998,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 127341,
+        "num": 127341,
+        "word": "恋与王者",
+        "onboard_time": 1731815417,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126682,
+        "num": 126682,
+        "word": "有车以后的真实感受",
+        "onboard_time": 1731808458,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123881,
+        "num": 123881,
+        "word": "SofM弃赛",
+        "onboard_time": 1731805579,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122456,
+        "num": 122456,
+        "word": "00后舰载机女飞行员上大分",
+        "onboard_time": 1731814879,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113154,
+        "num": 113154,
+        "word": "安徽舒城县长回应县政府大院随便进",
+        "onboard_time": 1731811698,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109545,
+        "num": 109545,
+        "word": "塔图姆绝杀猛龙",
+        "onboard_time": 1731816679,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中美关系#"
+    }
+  }
+}
