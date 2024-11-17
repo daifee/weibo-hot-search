@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731883167025,
+  "endTime": 1731885746370,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -176,6 +176,14 @@
       "word": "女子与婆婆厮打把儿子摔成颅内出血",
       "onboard_time": 1731852921,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 991530,
+      "num": 991530,
+      "word": "3岁男童失踪被找到时没穿衣服",
+      "onboard_time": 1731861017,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -651,14 +659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 464832,
-      "num": 513279,
-      "word": "3岁男童失踪被找到时没穿衣服",
-      "onboard_time": 1731861017,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 460070,
       "num": 352308,
       "word": "31岁女生不婚不生的真实感受",
@@ -737,6 +737,14 @@
       "onboard_time": 1731773328,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405913,
+      "num": 405913,
+      "word": "习惯咬指甲的人遇到了提醒他的人",
+      "onboard_time": 1731882193,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 401481,
@@ -905,6 +913,14 @@
       "onboard_time": 1731798915,
       "rank": 37,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 292512,
+      "num": 292512,
+      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
+      "onboard_time": 1731865933,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 290766,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1731767005,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214746,
+      "num": 214746,
+      "word": "我国造出全球唯一可钻11000米钻探船",
+      "onboard_time": 1731861017,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 213124,
@@ -1731,12 +1755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159901,
-      "num": 159901,
-      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
-      "onboard_time": 1731865933,
-      "rank": 7,
-      "category": "海外新闻"
+      "raw_hot": 160533,
+      "num": 160533,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158597,
@@ -1907,14 +1931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148028,
-      "num": 148028,
-      "word": "我国造出全球唯一可钻11000米钻探船",
-      "onboard_time": 1731861017,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 147484,
       "num": 189857,
       "word": "黎巴嫩男子冲着救人自己却被炸身亡",
@@ -1992,6 +2008,14 @@
       "word": "毓言cp",
       "onboard_time": 1731807859,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143422,
+      "num": 143422,
+      "word": "陈小春说李宇春看起来很冷",
+      "onboard_time": 1731864254,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2643,6 +2667,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 90227,
+      "num": 90227,
+      "word": "以色列上万名抗议者呼吁停战",
+      "onboard_time": 1731876191,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89724,
       "num": 235013,
       "word": "奥地利称俄停止向其供应天然气",
@@ -2715,20 +2747,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83971,
+      "num": 83971,
+      "word": "全红婵说武汉好冷全场爆笑",
+      "onboard_time": 1731863114,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83453,
       "num": 316026,
       "word": "祝绪丹的rap是小鬼教的",
       "onboard_time": 1731837859,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82873,
-      "num": 82873,
-      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
-      "onboard_time": 1731876850,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82046,
@@ -2843,14 +2875,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 68935,
-      "num": 68935,
-      "word": "以色列上万名抗议者呼吁停战",
-      "onboard_time": 1731876191,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68861,
       "num": 348620,
       "word": "中企高管在菲遭撕票主犯美国落网",
@@ -2883,28 +2907,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 62003,
-      "num": 62003,
-      "word": "陈小春说李宇春看起来很冷",
-      "onboard_time": 1731864254,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61428,
       "num": 102219,
       "word": "韩延为李庚希得影后自豪",
       "onboard_time": 1731826579,
       "rank": 45,
       "category": "电影,演出"
-    },
-    {
-      "raw_hot": 61300,
-      "num": 57249,
-      "word": "全红婵说武汉好冷全场爆笑",
-      "onboard_time": 1731863114,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 61226,
@@ -2971,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55789,
+      "num": 55789,
+      "word": "特朗普提名石油大亨出任能源部长",
+      "onboard_time": 1731873371,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54925,
       "num": 376379,
       "word": "00后开1400公里去看徐枫灿",
@@ -3016,6 +3032,14 @@
       "word": "姿态回应打野不带惩戒",
       "onboard_time": 1731799275,
       "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 51640,
+      "num": 51640,
+      "word": "Uzi传奇杯卡莎一打三",
+      "onboard_time": 1731885555,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -3115,12 +3139,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44849,
+      "num": 44849,
+      "word": "日本自民党高官再提自卫队常驻美国",
+      "onboard_time": 1731871510,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44342,
       "num": 552089,
       "word": "中国制造业规模连续14年世界第一",
       "onboard_time": 1731830838,
       "rank": 7,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 43096,
+      "num": 43096,
+      "word": "mlxg和无状态复盘红温",
+      "onboard_time": 1731885555,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 41789,
@@ -3211,6 +3251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38748,
+      "num": 38748,
+      "word": "我国正研发六足登月机器人",
+      "onboard_time": 1731871811,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38673,
       "num": 231908,
       "word": "谢霆锋晒苏翊鸣to签滑雪板",
@@ -3243,12 +3291,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 36381,
+      "num": 36381,
+      "word": "五月天顽固上海场安可",
+      "onboard_time": 1731885076,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36081,
       "num": 251447,
       "word": "男子徒步哈巴雪山失联近10天",
       "onboard_time": 1731848600,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36052,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36019,
@@ -3265,6 +3329,14 @@
       "onboard_time": 1731852382,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35679,
+      "num": 35679,
+      "word": "感受到了上海的松弛感",
+      "onboard_time": 1731885555,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 35516,
@@ -3371,28 +3443,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 32942,
-      "num": 36318,
-      "word": "里约热内卢G20时间",
-      "onboard_time": 1731874211,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32274,
       "num": 384390,
       "word": "律师称毒杀宠物狗可判有期徒刑",
       "onboard_time": 1731834379,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32225,
-      "num": 32761,
-      "word": "习惯咬指甲的人遇到了提醒他的人",
-      "onboard_time": 1731882193,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 31845,
@@ -3499,28 +3555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25611,
-      "num": 25611,
-      "word": "特朗普提名石油大亨出任能源部长",
-      "onboard_time": 1731873371,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 25470,
       "num": 469607,
       "word": "股价异动不用披露了系误读",
       "onboard_time": 1731830716,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25451,
-      "num": 28204,
-      "word": "日本自民党高官再提自卫队常驻美国",
-      "onboard_time": 1731871510,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25197,
@@ -3585,14 +3625,6 @@
       "onboard_time": 1731880811,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 22341,
-      "num": 22681,
-      "word": "我国正研发六足登月机器人",
-      "onboard_time": 1731871811,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22112,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17665,
+      "num": 210447,
+      "word": "天舟七号完成所有任务下班了",
+      "onboard_time": 1731883813,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 17521,

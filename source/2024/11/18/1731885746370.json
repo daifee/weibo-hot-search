@@ -1,0 +1,410 @@
+{
+  "runTime": 1731885746370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991530,
+        "num": 991530,
+        "word": "3岁男童失踪被找到时没穿衣服",
+        "onboard_time": 1731861017,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423403,
+        "num": 423403,
+        "word": "75岁阿姨在美容店消费96万",
+        "onboard_time": 1731858619,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2933,
+        "num": 412222,
+        "word": "巴西交响乐团奏响我爱你中国",
+        "onboard_time": 1731850520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405913,
+        "num": 405913,
+        "word": "习惯咬指甲的人遇到了提醒他的人",
+        "onboard_time": 1731882193,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312544,
+        "num": 312544,
+        "word": "大结局怎么没有鹏飞",
+        "onboard_time": 1731850520,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292512,
+        "num": 292512,
+        "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
+        "onboard_time": 1731865933,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242913,
+        "num": 242913,
+        "word": "超强台风万宜",
+        "onboard_time": 1731856640,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229952,
+        "num": 229952,
+        "word": "央视曝光洗车场盗取地下水",
+        "onboard_time": 1731855320,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214746,
+        "num": 214746,
+        "word": "我国造出全球唯一可钻11000米钻探船",
+        "onboard_time": 1731861017,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17665,
+        "num": 210447,
+        "word": "天舟七号完成所有任务下班了",
+        "onboard_time": 1731883813,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 239804,
+        "num": 210114,
+        "word": "周润发说权志龙变靓女了",
+        "onboard_time": 1731849080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208575,
+        "num": 208575,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 161254,
+        "num": 161254,
+        "word": "大结局虞书欣对面站的是丁禹兮",
+        "onboard_time": 1731848180,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160533,
+        "num": 160533,
+        "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+        "onboard_time": 1731876850,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143422,
+        "num": 143422,
+        "word": "陈小春说李宇春看起来很冷",
+        "onboard_time": 1731864254,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142962,
+        "num": 142962,
+        "word": "丁舟杰文学",
+        "onboard_time": 1731859038,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140938,
+        "num": 140938,
+        "word": "男子地铁猥亵被抓后下跪求原谅",
+        "onboard_time": 1731851181,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124736,
+        "num": 124736,
+        "word": "央视揭秘职业闭店人黑产链",
+        "onboard_time": 1731844518,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112489,
+        "num": 112489,
+        "word": "美国确诊首例猴痘新变异株感染者",
+        "onboard_time": 1731849020,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71953,
+        "num": 111803,
+        "word": "怨女原来在慕瑶体内",
+        "onboard_time": 1731846858,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433999,
+        "num": 104395,
+        "word": "官方回应济宁一女孩商场内坠亡",
+        "onboard_time": 1731844039,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 423808,
+        "num": 99765,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190648,
+        "num": 91252,
+        "word": "女子与婆婆厮打把儿子摔成颅内出血",
+        "onboard_time": 1731852921,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90227,
+        "num": 90227,
+        "word": "以色列上万名抗议者呼吁停战",
+        "onboard_time": 1731876191,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83971,
+        "num": 83971,
+        "word": "全红婵说武汉好冷全场爆笑",
+        "onboard_time": 1731863114,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80675,
+        "num": 80675,
+        "word": "保安收400元就被包装成企业高管",
+        "onboard_time": 1731850880,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76501,
+        "num": 76501,
+        "word": "换血减龄的美亿万富翁整脸翻车",
+        "onboard_time": 1731834680,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59523,
+        "num": 68242,
+        "word": "长安的荔枝",
+        "onboard_time": 1731854481,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56285,
+        "num": 67955,
+        "word": "2025内娱最受期待十大综艺",
+        "onboard_time": 1731843318,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55426,
+        "num": 67916,
+        "word": "卢昱晓配音谁找的",
+        "onboard_time": 1731852020,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67907,
+        "num": 67907,
+        "word": "商场刚开业女孩因护栏脱落坠亡",
+        "onboard_time": 1731842180,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64284,
+        "num": 64284,
+        "word": "马斯克发帖嘲笑泽连斯基言论",
+        "onboard_time": 1731840320,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61538,
+        "num": 61538,
+        "word": "记者调查兰州牛皮纸井盖一碰就碎",
+        "onboard_time": 1731849860,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55789,
+        "num": 55789,
+        "word": "特朗普提名石油大亨出任能源部长",
+        "onboard_time": 1731873371,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51853,
+        "num": 51853,
+        "word": "永夜星河 HE",
+        "onboard_time": 1731839117,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51640,
+        "num": 51640,
+        "word": "Uzi传奇杯卡莎一打三",
+        "onboard_time": 1731885555,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48992,
+        "num": 48992,
+        "word": "王一栩 爱奇艺卧底",
+        "onboard_time": 1731848299,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47561,
+        "num": 47561,
+        "word": "捐出日军侵华相册的小伙来中国了",
+        "onboard_time": 1731867732,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 45438,
+        "num": 45438,
+        "word": "林更新问汪苏泷重庆到底有谁在",
+        "onboard_time": 1731853041,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45114,
+        "num": 45114,
+        "word": "小巷人家大结局",
+        "onboard_time": 1731845299,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44849,
+        "num": 44849,
+        "word": "日本自民党高官再提自卫队常驻美国",
+        "onboard_time": 1731871510,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44655,
+        "num": 44655,
+        "word": "无状态疑似退赛",
+        "onboard_time": 1731856581,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43096,
+        "num": 43096,
+        "word": "mlxg和无状态复盘红温",
+        "onboard_time": 1731885555,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41820,
+        "num": 41820,
+        "word": "奥斯卡 孙乐言",
+        "onboard_time": 1731849260,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40462,
+        "num": 40462,
+        "word": "日本队全程开放训练",
+        "onboard_time": 1731859758,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38748,
+        "num": 38748,
+        "word": "我国正研发六足登月机器人",
+        "onboard_time": 1731871811,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36713,
+        "num": 36713,
+        "word": "禹宙中欣cp超话榜TOP1",
+        "onboard_time": 1731856100,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36381,
+        "num": 36381,
+        "word": "五月天顽固上海场安可",
+        "onboard_time": 1731885076,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36052,
+        "num": 36052,
+        "word": "里约热内卢G20时间",
+        "onboard_time": 1731874211,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35679,
+        "num": 35679,
+        "word": "感受到了上海的松弛感",
+        "onboard_time": 1731885555,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平再论中美相处之道#"
+    }
+  }
+}
