@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731808310149,
+  "endTime": 1731809658048,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528303,
+      "num": 218651,
+      "word": "白灼虾最忌用水煮",
+      "onboard_time": 1731805999,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 470545,
       "num": 343288,
       "word": "雷佳音金鸡影帝",
@@ -113,14 +121,6 @@
       "onboard_time": 1731772102,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 439029,
-      "num": 218651,
-      "word": "白灼虾最忌用水煮",
-      "onboard_time": 1731805999,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 432049,
@@ -148,10 +148,18 @@
     },
     {
       "raw_hot": 387823,
-      "num": 297463,
+      "num": 314832,
       "word": "禹宙中欣",
       "onboard_time": 1731799394,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378459,
+      "num": 225090,
+      "word": "李行亮麦琳兰因絮果具象化",
+      "onboard_time": 1731803897,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -177,6 +185,14 @@
       "onboard_time": 1731767005,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 343524,
+      "num": 343524,
+      "word": "用人民币感受英国的工资水平",
+      "onboard_time": 1731800415,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 319207,
@@ -219,6 +235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284637,
+      "num": 284637,
+      "word": "房东的猫定居杭州",
+      "onboard_time": 1731803478,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276382,
       "num": 230028,
       "word": "李庚希给大鹏白客职场建议别干了辞吧",
@@ -259,28 +283,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256453,
-      "num": 227414,
-      "word": "房东的猫定居杭州",
-      "onboard_time": 1731803478,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255939,
       "num": 255939,
       "word": "金鸡奖获奖名单",
       "onboard_time": 1731766465,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254075,
-      "num": 254075,
-      "word": "用人民币感受英国的工资水平",
-      "onboard_time": 1731800415,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 244174,
@@ -313,14 +321,6 @@
       "onboard_time": 1731771682,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 225090,
-      "num": 225090,
-      "word": "李行亮麦琳兰因絮果具象化",
-      "onboard_time": 1731803897,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 217439,
@@ -371,12 +371,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187960,
+      "num": 187960,
+      "word": "把学生闭麦拉走是学校育人错误示范",
+      "onboard_time": 1731798915,
+      "rank": 37,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 182559,
       "num": 182559,
       "word": "69岁产女婴老夫妻为女儿过5岁生日",
       "onboard_time": 1731755418,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175891,
+      "num": 253554,
+      "word": "2架歼20贴脸飞行太酷了",
+      "onboard_time": 1731807920,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 171231,
+      "num": 171231,
+      "word": "有车以后的真实感受",
+      "onboard_time": 1731808458,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 170988,
@@ -411,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164309,
+      "num": 164309,
+      "word": "金鸡历届影后",
+      "onboard_time": 1731806299,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161921,
       "num": 236841,
       "word": "空军军乐团指挥航展群众齐唱歌唱祖国",
@@ -425,14 +457,6 @@
       "onboard_time": 1731803657,
       "rank": 25,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 157156,
-      "num": 157156,
-      "word": "金鸡历届影后",
-      "onboard_time": 1731806299,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 155999,
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151285,
+      "num": 151285,
+      "word": "28楼业主在外立面破墙开门多方回应",
+      "onboard_time": 1731803178,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150660,
       "num": 233890,
       "word": "好东西 票房",
@@ -483,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146297,
-      "num": 146297,
-      "word": "28楼业主在外立面破墙开门多方回应",
-      "onboard_time": 1731803178,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145534,
       "num": 145534,
       "word": "金鸡奖含金量",
@@ -507,12 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 143231,
-      "num": 143231,
-      "word": "把学生闭麦拉走是学校育人错误示范",
-      "onboard_time": 1731798915,
-      "rank": 37,
-      "category": "教育,民生新闻"
+      "raw_hot": 144389,
+      "num": 144389,
+      "word": "毓言cp",
+      "onboard_time": 1731807859,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 141645,
@@ -521,14 +545,6 @@
       "onboard_time": 1731772222,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140662,
-      "num": 140662,
-      "word": "毓言cp",
-      "onboard_time": 1731807859,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 139053,
@@ -545,6 +561,14 @@
       "onboard_time": 1731756740,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124794,
+      "num": 124794,
+      "word": "LWX怒喷诺夏",
+      "onboard_time": 1731805458,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 121070,
@@ -569,14 +593,6 @@
       "onboard_time": 1731804077,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113690,
-      "num": 113690,
-      "word": "LWX怒喷诺夏",
-      "onboard_time": 1731805458,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 112519,
@@ -635,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96440,
+      "num": 184432,
+      "word": "武汉东湖共享电单车被吐槽价格刺客",
+      "onboard_time": 1731806958,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94961,
       "num": 94961,
       "word": "王楚钦林诗栋总决赛将承担重任",
       "onboard_time": 1731803536,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94815,
+      "num": 143411,
+      "word": "Doinb谈LWX破防",
+      "onboard_time": 1731807739,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 94214,
@@ -659,12 +691,12 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 91783,
-      "num": 253554,
-      "word": "2架歼20贴脸飞行太酷了",
-      "onboard_time": 1731807920,
-      "rank": 9,
-      "category": "军事"
+      "raw_hot": 90057,
+      "num": 90057,
+      "word": "泽连斯基称美国不能逼我们坐在谈判桌上",
+      "onboard_time": 1731809537,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89724,
@@ -675,12 +707,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 87058,
-      "num": 87058,
-      "word": "武汉东湖共享电单车被吐槽价格刺客",
-      "onboard_time": 1731806958,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 88236,
+      "num": 88236,
+      "word": "博格丹买了一堆中国战斗机模型",
+      "onboard_time": 1731807499,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 87200,
+      "num": 157228,
+      "word": "捐二战相册美国小伙来华首站看升旗",
+      "onboard_time": 1731808939,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 86625,
@@ -689,14 +729,6 @@
       "onboard_time": 1731807558,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82288,
-      "num": 82288,
-      "word": "博格丹买了一堆中国战斗机模型",
-      "onboard_time": 1731807499,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 76351,
@@ -795,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48205,
-      "num": 143411,
-      "word": "Doinb谈LWX破防",
-      "onboard_time": 1731807739,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 47617,
       "num": 47617,
       "word": "美议员推动调查马斯克与俄通信",
@@ -833,6 +857,14 @@
       "onboard_time": 1731757699,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41789,
+      "num": 184891,
+      "word": "向鱼 不会在同一个地方摔倒",
+      "onboard_time": 1731808999,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 41480,
@@ -883,12 +915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36019,
+      "num": 181629,
+      "word": "道崽 这次不会把我打倒",
+      "onboard_time": 1731809119,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33513,
       "num": 33513,
       "word": "小巷人家",
       "onboard_time": 1731759800,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33300,
+      "num": 107831,
+      "word": "金价下跌背后推手是谁",
+      "onboard_time": 1731808578,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 33290,
@@ -899,12 +947,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31618,
+      "num": 185552,
+      "word": "一笙说结果不是特别完美",
+      "onboard_time": 1731808999,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 26655,
       "num": 114216,
       "word": "周翊然见面会",
       "onboard_time": 1731776238,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25197,
+      "num": 152226,
+      "word": "泽连斯基称努力确保明年结束俄乌冲突",
+      "onboard_time": 1731808939,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24210,
@@ -1143,6 +1207,9 @@
     },
     {
       "word": "#习近平同拜登举行会晤#"
+    },
+    {
+      "word": "#习近平会见美国总统拜登#"
     }
   ]
 }
