@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731817612968,
+  "endTime": 1731818495358,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -19,20 +19,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1796358,
+      "num": 491156,
+      "word": "卫生巾 C类",
+      "onboard_time": 1731814038,
+      "rank": 10,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 1769791,
       "num": 462391,
       "word": "资源咖",
       "onboard_time": 1731774319,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1752959,
-      "num": 491156,
-      "word": "卫生巾 C类",
-      "onboard_time": 1731814038,
-      "rank": 10,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 1264887,
@@ -75,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 943781,
+      "num": 943781,
+      "word": "ABC卫生巾",
+      "onboard_time": 1731816619,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 885895,
       "num": 233107,
       "word": "淮北师大称警方已介入",
       "onboard_time": 1731789731,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 845842,
+      "num": 845842,
+      "word": "女性上桌不代表男性下桌",
+      "onboard_time": 1731815900,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 811289,
@@ -105,6 +121,14 @@
       "onboard_time": 1731774319,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 711022,
+      "num": 415410,
+      "word": "35岁对未婚未育女生意味着什么",
+      "onboard_time": 1731816738,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 700316,
@@ -155,28 +179,12 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 601598,
-      "num": 415410,
-      "word": "35岁对未婚未育女生意味着什么",
-      "onboard_time": 1731816738,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 528303,
       "num": 259039,
       "word": "白灼虾最忌用水煮",
       "onboard_time": 1731805999,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 508085,
-      "num": 508085,
-      "word": "女性上桌不代表男性下桌",
-      "onboard_time": 1731815900,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 488731,
@@ -193,6 +201,14 @@
       "onboard_time": 1731811099,
       "rank": 11,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 480069,
+      "num": 480069,
+      "word": "小巷人家",
+      "onboard_time": 1731759800,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 470545,
@@ -225,14 +241,6 @@
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 419856,
-      "num": 419856,
-      "word": "ABC卫生巾",
-      "onboard_time": 1731816619,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 406432,
@@ -297,14 +305,6 @@
       "onboard_time": 1731800415,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 328683,
-      "num": 328683,
-      "word": "小巷人家",
-      "onboard_time": 1731759800,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 319207,
@@ -409,6 +409,14 @@
       "onboard_time": 1731773781,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257866,
+      "num": 387409,
+      "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+      "onboard_time": 1731817941,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 256909,
@@ -523,12 +531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204192,
+      "num": 299419,
+      "word": "王俊凯入选亚太U30杰出青年领袖",
+      "onboard_time": 1731817160,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201770,
       "num": 201770,
       "word": "男生为什么不把妹妹介绍给兄弟",
       "onboard_time": 1731794651,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201574,
+      "num": 201574,
+      "word": "妻子患癌去世丈夫失联构成遗弃罪",
+      "onboard_time": 1731818239,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188965,
@@ -587,8 +611,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175822,
+      "num": 213599,
+      "word": "武艺李行亮 抓马故事",
+      "onboard_time": 1731815838,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171754,
-      "num": 171754,
+      "num": 179015,
       "word": "虞书欣好六节目拍摄vlog",
       "onboard_time": 1731816798,
       "rank": 33,
@@ -627,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168136,
-      "num": 213599,
-      "word": "武艺李行亮 抓马故事",
-      "onboard_time": 1731815838,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 166329,
+      "num": 189820,
+      "word": "刘诗诗时装十二月封面",
+      "onboard_time": 1731818059,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164309,
@@ -651,12 +683,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 159465,
+      "num": 159465,
+      "word": "三里屯三姐妹",
+      "onboard_time": 1731818299,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158170,
       "num": 158170,
       "word": "28楼业主在外立面破墙开门多方回应",
       "onboard_time": 1731803178,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157591,
+      "num": 157591,
+      "word": "恋与王者",
+      "onboard_time": 1731815417,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 157452,
@@ -803,6 +851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 136270,
+      "num": 136270,
+      "word": "埃文凯尔回应所捐日本侵华相册去向",
+      "onboard_time": 1731814998,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 135728,
       "num": 135728,
       "word": "00后舰载机女飞行员上大分",
@@ -819,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "2中企高管在菲遭撕票案主犯落网",
+      "onboard_time": 1731817877,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133685,
       "num": 133685,
       "word": "中美元首会晤持续1小时45分钟",
@@ -827,28 +891,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 127669,
-      "num": 127669,
-      "word": "埃文凯尔回应所捐日本侵华相册去向",
-      "onboard_time": 1731814998,
-      "rank": 42,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 127341,
-      "num": 127341,
-      "word": "恋与王者",
-      "onboard_time": 1731815417,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124794,
       "num": 124794,
       "word": "LWX怒喷诺夏",
       "onboard_time": 1731805458,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124508,
+      "num": 124508,
+      "word": "黎巴嫩男子冲着救人自己却被炸身亡",
+      "onboard_time": 1731817517,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121567,
@@ -881,14 +937,6 @@
       "onboard_time": 1731804077,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117154,
-      "num": 299419,
-      "word": "王俊凯入选亚太U30杰出青年领袖",
-      "onboard_time": 1731817160,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 115428,
@@ -1051,6 +1099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 87858,
+      "num": 417713,
+      "word": "当歌唱祖国在航展现场响起",
+      "onboard_time": 1731816258,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 86625,
       "num": 86625,
       "word": "德国7比0波黑",
@@ -1059,12 +1115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77405,
-      "num": 417713,
-      "word": "当歌唱祖国在航展现场响起",
-      "onboard_time": 1731816258,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 82675,
+      "num": 1026364,
+      "word": "秘鲁人从小就吃中餐",
+      "onboard_time": 1731816859,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76351,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1731817097,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 68861,
+      "num": 348620,
+      "word": "中企高管在菲遭撕票主犯美国落网",
+      "onboard_time": 1731816978,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66596,
@@ -1139,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54083,
-      "num": 924903,
-      "word": "秘鲁人从小就吃中餐",
-      "onboard_time": 1731816859,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 53944,
       "num": 84777,
       "word": "珠海航展",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1731783612,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49901,
-      "num": 348620,
-      "word": "中企高管在菲遭撕票主犯美国落网",
-      "onboard_time": 1731816978,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48743,
@@ -1347,6 +1395,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30932,
+      "num": 419557,
+      "word": "在文昌见证一场独属于中国人的浪漫",
+      "onboard_time": 1731816619,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 28008,
+      "num": 177611,
+      "word": "白夜破晓七年情怀特辑",
+      "onboard_time": 1731818479,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26655,
       "num": 114216,
       "word": "周翊然见面会",
@@ -1361,14 +1425,6 @@
       "onboard_time": 1731808939,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24408,
-      "num": 419557,
-      "word": "在文昌见证一场独属于中国人的浪漫",
-      "onboard_time": 1731816619,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 24210,
@@ -1624,6 +1680,9 @@
     },
     {
       "word": "#习近平谈中美关系#"
+    },
+    {
+      "word": "#中国发展将为世界发展提供更多新机遇#"
     }
   ]
 }
