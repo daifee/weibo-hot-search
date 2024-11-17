@@ -1,0 +1,410 @@
+{
+  "runTime": 1731825063900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1196987,
+        "num": 1196987,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 879684,
+        "num": 879684,
+        "word": "王安宇上桌",
+        "onboard_time": 1731822199,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7273,
+        "num": 828024,
+        "word": "公安部网安局提醒恶意差评法律不容",
+        "onboard_time": 1731825019,
+        "rank": 2,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1491040,
+        "num": 826683,
+        "word": "被丈夫举报出轨学生女教师二提离婚",
+        "onboard_time": 1731820759,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 962374,
+        "num": 815665,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798739,
+        "num": 798739,
+        "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+        "onboard_time": 1731817941,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 798264,
+        "num": 798264,
+        "word": "中方不会允许朝鲜半岛生战生乱",
+        "onboard_time": 1731819559,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530825,
+        "num": 530825,
+        "word": "甄嬛传晚会官宣",
+        "onboard_time": 1731823099,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30190,
+        "num": 530555,
+        "word": "中美两个大国应该计天下利",
+        "onboard_time": 1731823760,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47485,
+        "num": 527494,
+        "word": "没了手机的生活会是什么样",
+        "onboard_time": 1731823338,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69508,
+        "num": 526360,
+        "word": "秘鲁人从小就吃中餐",
+        "onboard_time": 1731816859,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 894567,
+        "num": 524928,
+        "word": "卫生巾 C类",
+        "onboard_time": 1731814038,
+        "rank": 11,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 523986,
+        "num": 523986,
+        "word": "李庚希回应金鸡影后",
+        "onboard_time": 1731813679,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 775774,
+        "num": 474675,
+        "word": "三里屯三姐妹",
+        "onboard_time": 1731818299,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41323,
+        "num": 378887,
+        "word": "共享菜园经营主称一百多块地年年爆满",
+        "onboard_time": 1731823458,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349215,
+        "num": 349215,
+        "word": "女性上桌不代表男性下桌",
+        "onboard_time": 1731815900,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540475,
+        "num": 349012,
+        "word": "烧伤妈妈丈夫问没有房产证如何卖房",
+        "onboard_time": 1731819620,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48964,
+        "num": 346410,
+        "word": "王源翻唱对面的女孩看过来",
+        "onboard_time": 1731824599,
+        "rank": 17,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 379069,
+        "num": 344738,
+        "word": "吴倩带女儿出行",
+        "onboard_time": 1731824179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88008,
+        "num": 344510,
+        "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
+        "onboard_time": 1731821538,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460070,
+        "num": 342805,
+        "word": "31岁女生不婚不生的真实感受",
+        "onboard_time": 1731820580,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341500,
+        "num": 341500,
+        "word": "35岁对未婚未育女生意味着什么",
+        "onboard_time": 1731816738,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334431,
+        "num": 334431,
+        "word": "永夜星河超点",
+        "onboard_time": 1731823160,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301745,
+        "num": 301745,
+        "word": "已确认超40只宠物狗疑似中毒死亡",
+        "onboard_time": 1731811578,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260075,
+        "num": 260075,
+        "word": "妻子患癌去世丈夫失联构成遗弃罪",
+        "onboard_time": 1731818239,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252644,
+        "num": 252644,
+        "word": "中美元首会见现场",
+        "onboard_time": 1731800596,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206953,
+        "num": 250074,
+        "word": "张予曦也自己化妆了",
+        "onboard_time": 1731811099,
+        "rank": 26,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 200012,
+        "num": 246409,
+        "word": "小巷人家",
+        "onboard_time": 1731817579,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17521,
+        "num": 242303,
+        "word": "中国跳水队7人入围年度最佳候选",
+        "onboard_time": 1731824179,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191080,
+        "num": 240319,
+        "word": "关晓彤周洁琼对手戏",
+        "onboard_time": 1731822319,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238562,
+        "num": 238562,
+        "word": "减重版司美格鲁肽在中国正式上市",
+        "onboard_time": 1731821960,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229340,
+        "num": 229340,
+        "word": "精神病患捐空家里积蓄40多万无法要回",
+        "onboard_time": 1731822019,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196497,
+        "num": 196497,
+        "word": "多少年轻人把冰箱当时间静止器用",
+        "onboard_time": 1731819440,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190222,
+        "num": 190222,
+        "word": "孙颖莎入选亚太U30杰出青年领袖",
+        "onboard_time": 1731820339,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188757,
+        "num": 188757,
+        "word": "第五人格",
+        "onboard_time": 1731822679,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165216,
+        "num": 165216,
+        "word": "刘雯井柏然一起现身机场",
+        "onboard_time": 1731824599,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 142727,
+        "word": "彭高参加乐言生日聚会",
+        "onboard_time": 1731810199,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116266,
+        "num": 116266,
+        "word": "安徽一县政府大院因敞开大门火了",
+        "onboard_time": 1731810258,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115984,
+        "num": 115984,
+        "word": "白灼虾最忌用水煮",
+        "onboard_time": 1731805999,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112763,
+        "num": 112763,
+        "word": "月鳞绮纪鞠婧祎一番",
+        "onboard_time": 1731816859,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50706,
+        "num": 111766,
+        "word": "运油20破雾而来有多震撼",
+        "onboard_time": 1731823699,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 111168,
+        "num": 111168,
+        "word": "Doinb已取关涵艺",
+        "onboard_time": 1731823219,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105361,
+        "num": 105361,
+        "word": "UFC",
+        "onboard_time": 1731824059,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102233,
+        "num": 102233,
+        "word": "武艺李行亮 抓马故事",
+        "onboard_time": 1731815838,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100242,
+        "num": 100242,
+        "word": "舒淇林心如林熙蕾同游日本",
+        "onboard_time": 1731824899,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96600,
+        "num": 96600,
+        "word": "2中企高管在菲遭撕票案主犯落网",
+        "onboard_time": 1731817877,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92428,
+        "num": 92428,
+        "word": "麦琳不接受李行亮讲道理",
+        "onboard_time": 1731801616,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91437,
+        "num": 91437,
+        "word": "时代少年团新歌角色卡牌",
+        "onboard_time": 1731820460,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90612,
+        "num": 90612,
+        "word": "李光洁 叔圈天菜",
+        "onboard_time": 1731819440,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88942,
+        "num": 88942,
+        "word": "朴彩英试听会",
+        "onboard_time": 1731823338,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈中美关系#"
+    }
+  }
+}
