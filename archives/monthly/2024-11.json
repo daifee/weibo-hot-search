@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731885746370,
+  "endTime": 1731886631836,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -6140,7 +6140,7 @@
     },
     {
       "raw_hot": 740016,
-      "num": 667918,
+      "num": 872375,
       "word": "大结局怎么没有鹏飞",
       "onboard_time": 1731850520,
       "rank": 41,
@@ -14043,6 +14043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359490,
+      "num": 292512,
+      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
+      "onboard_time": 1731865933,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 358777,
       "num": 336682,
       "word": "乔任梁父母再回应非本人质疑",
@@ -16489,14 +16497,6 @@
       "onboard_time": 1731363733,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292512,
-      "num": 292512,
-      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
-      "onboard_time": 1731865933,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 292395,
@@ -20689,6 +20689,14 @@
       "onboard_time": 1731568280,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223463,
+      "num": 124292,
+      "word": "30岁不婚不育不买房买车的生活",
+      "onboard_time": 1731885975,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 223333,
@@ -27739,6 +27747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176106,
+      "num": 160533,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176061,
       "num": 176061,
       "word": "逆水寒",
@@ -30641,14 +30657,6 @@
       "onboard_time": 1731854782,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160533,
-      "num": 160533,
-      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
-      "onboard_time": 1731876850,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160483,
@@ -36643,6 +36651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129436,
+      "num": 75895,
+      "word": "菜市场的肉丸子一夜没放冰箱变红了",
+      "onboard_time": 1731885736,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129403,
       "num": 129403,
       "word": "付航红毯再现passion",
@@ -41043,6 +41059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102787,
+      "num": 102787,
+      "word": "永夜星河终于亲了",
+      "onboard_time": 1731885437,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102751,
       "num": 102751,
       "word": "玉茗茶骨",
@@ -42459,6 +42483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90172,
+      "num": 83971,
+      "word": "全红婵说武汉好冷全场爆笑",
+      "onboard_time": 1731863114,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90154,
       "num": 90154,
       "word": "庆祝第25个中国记者节",
@@ -43153,14 +43185,6 @@
       "onboard_time": 1730887223,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 83971,
-      "num": 83971,
-      "word": "全红婵说武汉好冷全场爆笑",
-      "onboard_time": 1731863114,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 83940,
@@ -44403,6 +44427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70719,
+      "num": 70719,
+      "word": "mlxg和无状态复盘红温",
+      "onboard_time": 1731885555,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70667,
       "num": 288077,
       "word": "绝区零星见雅",
@@ -44691,6 +44723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68695,
+      "num": 68695,
+      "word": "Uzi传奇杯卡莎一打三",
+      "onboard_time": 1731885555,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68536,
       "num": 244192,
       "word": "网友喜爱运动员樊振东",
@@ -44768,6 +44808,14 @@
       "word": "微念李子柒商标均被判无效",
       "onboard_time": 1731443711,
       "rank": 49,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 68040,
+      "num": 68040,
+      "word": "李子柒 轻舟已过万重山",
+      "onboard_time": 1731886036,
+      "rank": 37,
       "category": "美食,网红"
     },
     {
@@ -45361,6 +45409,14 @@
       "onboard_time": 1731668959,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63688,
+      "num": 63688,
+      "word": "感受到了上海的松弛感",
+      "onboard_time": 1731885555,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 63570,
@@ -46387,6 +46443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56312,
+      "num": 56312,
+      "word": "特朗普提名石油大亨出任能源部长",
+      "onboard_time": 1731873371,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56205,
       "num": 194637,
       "word": "惠英红馆藏云锦高定",
@@ -46473,14 +46537,6 @@
       "onboard_time": 1731023118,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 55789,
-      "num": 55789,
-      "word": "特朗普提名石油大亨出任能源部长",
-      "onboard_time": 1731873371,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55676,
@@ -47027,6 +47083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52477,
+      "num": 52477,
+      "word": "五月天顽固上海场安可",
+      "onboard_time": 1731885076,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52430,
       "num": 372698,
       "word": "失笑巡回开麦直播局",
@@ -47139,14 +47203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51640,
-      "num": 51640,
-      "word": "Uzi传奇杯卡莎一打三",
-      "onboard_time": 1731885555,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 51592,
       "num": 272931,
       "word": "华晨宇陪张大大过了两场生日",
@@ -47225,6 +47281,14 @@
       "onboard_time": 1731573741,
       "rank": 8,
       "category": "正能量,军事"
+    },
+    {
+      "raw_hot": 51187,
+      "num": 51187,
+      "word": "日本自民党高官再提自卫队常驻美国",
+      "onboard_time": 1731871510,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51136,
@@ -47995,6 +48059,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46574,
+      "num": 46574,
+      "word": "BABYMONSTER官宣世巡",
+      "onboard_time": 1731886576,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46513,
       "num": 329559,
       "word": "无畏吃柠檬酸到模糊",
@@ -48275,14 +48347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44849,
-      "num": 44849,
-      "word": "日本自民党高官再提自卫队常驻美国",
-      "onboard_time": 1731871510,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44838,
       "num": 1529848,
       "word": "秘鲁人举剪刀跳舞比赛10小时",
@@ -48561,14 +48625,6 @@
       "onboard_time": 1731341957,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43096,
-      "num": 43096,
-      "word": "mlxg和无状态复盘红温",
-      "onboard_time": 1731885555,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 43089,
@@ -50115,14 +50171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36381,
-      "num": 36381,
-      "word": "五月天顽固上海场安可",
-      "onboard_time": 1731885076,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 36271,
       "num": 346124,
       "word": "中国航展听取哇声一片",
@@ -50249,14 +50297,6 @@
       "onboard_time": 1731178871,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35679,
-      "num": 35679,
-      "word": "感受到了上海的松弛感",
-      "onboard_time": 1731885555,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 35604,
@@ -50505,6 +50545,14 @@
       "onboard_time": 1730900663,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34581,
+      "num": 80501,
+      "word": "民警霸气安慰是骗子可恨你没错",
+      "onboard_time": 1731885736,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34576,
@@ -56777,6 +56825,14 @@
       "onboard_time": 1730701099,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11978,
+      "num": 86951,
+      "word": "开放政府大院县长邀大家来舒城",
+      "onboard_time": 1731886456,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11938,

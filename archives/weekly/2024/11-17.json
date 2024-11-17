@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731885746370,
+  "endTime": 1731886631836,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 740016,
-      "num": 667918,
+      "num": 872375,
       "word": "大结局怎么没有鹏飞",
       "onboard_time": 1731850520,
       "rank": 41,
@@ -819,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 359490,
+      "num": 292512,
+      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
+      "onboard_time": 1731865933,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 353777,
       "num": 353777,
       "word": "王昭君FMVP皮肤",
@@ -913,14 +921,6 @@
       "onboard_time": 1731798915,
       "rank": 37,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 292512,
-      "num": 292512,
-      "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
-      "onboard_time": 1731865933,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 290766,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1731852261,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223463,
+      "num": 124292,
+      "word": "30岁不婚不育不买房买车的生活",
+      "onboard_time": 1731885975,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 223305,
@@ -1579,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176106,
+      "num": 160533,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175891,
       "num": 253554,
       "word": "2架歼20贴脸飞行太酷了",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1731854782,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160533,
-      "num": 160533,
-      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
-      "onboard_time": 1731876850,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158597,
@@ -2179,6 +2187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129436,
+      "num": 75895,
+      "word": "菜市场的肉丸子一夜没放冰箱变红了",
+      "onboard_time": 1731885736,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129340,
       "num": 129340,
       "word": "丁禹兮工作室",
@@ -2523,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102787,
+      "num": 102787,
+      "word": "永夜星河终于亲了",
+      "onboard_time": 1731885437,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101535,
       "num": 101535,
       "word": "BLG疑似全员续约",
@@ -2675,6 +2699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90172,
+      "num": 83971,
+      "word": "全红婵说武汉好冷全场爆笑",
+      "onboard_time": 1731863114,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89724,
       "num": 235013,
       "word": "奥地利称俄停止向其供应天然气",
@@ -2745,14 +2777,6 @@
       "onboard_time": 1731860957,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83971,
-      "num": 83971,
-      "word": "全红婵说武汉好冷全场爆笑",
-      "onboard_time": 1731863114,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 83453,
@@ -2875,12 +2899,36 @@
       "category": "军事"
     },
     {
+      "raw_hot": 70719,
+      "num": 70719,
+      "word": "mlxg和无状态复盘红温",
+      "onboard_time": 1731885555,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68861,
       "num": 348620,
       "word": "中企高管在菲遭撕票主犯美国落网",
       "onboard_time": 1731816978,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68695,
+      "num": 68695,
+      "word": "Uzi传奇杯卡莎一打三",
+      "onboard_time": 1731885555,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 68040,
+      "num": 68040,
+      "word": "李子柒 轻舟已过万重山",
+      "onboard_time": 1731886036,
+      "rank": 37,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 67047,
@@ -2897,6 +2945,14 @@
       "onboard_time": 1731795552,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63688,
+      "num": 63688,
+      "word": "感受到了上海的松弛感",
+      "onboard_time": 1731885555,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 62232,
@@ -2971,20 +3027,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56312,
+      "num": 56312,
+      "word": "特朗普提名石油大亨出任能源部长",
+      "onboard_time": 1731873371,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56154,
       "num": 313217,
       "word": "WTT福冈总决赛双打参赛名单出炉",
       "onboard_time": 1731837918,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55789,
-      "num": 55789,
-      "word": "特朗普提名石油大亨出任能源部长",
-      "onboard_time": 1731873371,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54925,
@@ -3027,19 +3083,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52477,
+      "num": 52477,
+      "word": "五月天顽固上海场安可",
+      "onboard_time": 1731885076,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51701,
       "num": 51701,
       "word": "姿态回应打野不带惩戒",
       "onboard_time": 1731799275,
       "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 51640,
-      "num": 51640,
-      "word": "Uzi传奇杯卡莎一打三",
-      "onboard_time": 1731885555,
-      "rank": 35,
       "category": "电竞"
     },
     {
@@ -3049,6 +3105,14 @@
       "onboard_time": 1731778755,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51187,
+      "num": 51187,
+      "word": "日本自民党高官再提自卫队常驻美国",
+      "onboard_time": 1731871510,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51012,
@@ -3131,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46574,
+      "num": 46574,
+      "word": "BABYMONSTER官宣世巡",
+      "onboard_time": 1731886576,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45035,
       "num": 218888,
       "word": "长生KPL第一中单",
@@ -3139,28 +3211,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44849,
-      "num": 44849,
-      "word": "日本自民党高官再提自卫队常驻美国",
-      "onboard_time": 1731871510,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44342,
       "num": 552089,
       "word": "中国制造业规模连续14年世界第一",
       "onboard_time": 1731830838,
       "rank": 7,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 43096,
-      "num": 43096,
-      "word": "mlxg和无状态复盘红温",
-      "onboard_time": 1731885555,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 41789,
@@ -3291,14 +3347,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 36381,
-      "num": 36381,
-      "word": "五月天顽固上海场安可",
-      "onboard_time": 1731885076,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 36081,
       "num": 251447,
       "word": "男子徒步哈巴雪山失联近10天",
@@ -3331,20 +3379,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35679,
-      "num": 35679,
-      "word": "感受到了上海的松弛感",
-      "onboard_time": 1731885555,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 35516,
       "num": 178866,
       "word": "宋亚轩发日常视频",
       "onboard_time": 1731861197,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34581,
+      "num": 80501,
+      "word": "民警霸气安慰是骗子可恨你没错",
+      "onboard_time": 1731885736,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34425,
@@ -3881,6 +3929,14 @@
       "onboard_time": 1731793751,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11978,
+      "num": 86951,
+      "word": "开放政府大院县长邀大家来舒城",
+      "onboard_time": 1731886456,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11811,
