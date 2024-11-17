@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731854295841,
+  "endTime": 1731856919005,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -155,6 +155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1083591,
+      "num": 1173374,
+      "word": "世上再无子期",
+      "onboard_time": 1731850760,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1054481,
       "num": 1054481,
       "word": "安徽一县政府大院因敞开大门火了",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 847930,
-      "num": 313516,
+      "num": 324954,
       "word": "周润发说权志龙变靓女了",
       "onboard_time": 1731849080,
       "rank": 16,
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 740016,
+      "num": 667918,
+      "word": "大结局怎么没有鹏飞",
+      "onboard_time": 1731850520,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 736413,
       "num": 299475,
       "word": "虞书欣丁禹兮hi6收视率历史最高",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 673730,
-      "num": 305342,
+      "num": 314137,
       "word": "男子地铁猥亵被抓后下跪求原谅",
       "onboard_time": 1731851181,
       "rank": 16,
@@ -400,14 +416,6 @@
       "word": "黄玲停薪留职",
       "onboard_time": 1731836239,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 667918,
-      "num": 667918,
-      "word": "大结局怎么没有鹏飞",
-      "onboard_time": 1731850520,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -523,14 +531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 570948,
-      "num": 307648,
-      "word": "世上再无子期",
-      "onboard_time": 1731850760,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 555986,
       "num": 460607,
       "word": "将门毒后",
@@ -553,6 +553,14 @@
       "onboard_time": 1731805999,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 518480,
+      "num": 430202,
+      "word": "长安的荔枝",
+      "onboard_time": 1731854481,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 518243,
@@ -627,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 441679,
+      "num": 441679,
+      "word": "白桃星座",
+      "onboard_time": 1731854660,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434252,
       "num": 304176,
       "word": "奶龙",
@@ -665,6 +681,14 @@
       "onboard_time": 1731823160,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411281,
+      "num": 411281,
+      "word": "央视曝光洗车场盗取地下水",
+      "onboard_time": 1731855320,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406432,
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 319678,
-      "num": 257427,
+      "num": 266492,
       "word": "林更新问汪苏泷重庆到底有谁在",
       "onboard_time": 1731853041,
       "rank": 36,
@@ -851,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289515,
+      "num": 289515,
+      "word": "华为Mate70",
+      "onboard_time": 1731856161,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 287617,
       "num": 242322,
       "word": "SofM弃赛",
@@ -867,12 +899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283644,
+      "num": 283644,
+      "word": "保安收400元就被包装成企业高管",
+      "onboard_time": 1731850880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278258,
       "num": 204823,
       "word": "商场刚开业女孩因护栏脱落坠亡",
       "onboard_time": 1731842180,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276677,
+      "num": 276677,
+      "word": "禹宙中欣cp超话榜TOP1",
+      "onboard_time": 1731856100,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 276382,
@@ -1123,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224888,
+      "num": 224888,
+      "word": "蔡徐坤上海人气",
+      "onboard_time": 1731852261,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223305,
       "num": 223305,
       "word": "塔图姆绝杀",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1731767005,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216153,
-      "num": 216153,
-      "word": "蔡徐坤上海人气",
-      "onboard_time": 1731852261,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 213124,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1731830958,
       "rank": 19,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 205306,
-      "num": 280194,
-      "word": "保安收400元就被包装成企业高管",
-      "onboard_time": 1731850880,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204880,
@@ -1595,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164249,
+      "num": 164249,
+      "word": "卧龙凤雏没有吻戏",
+      "onboard_time": 1731855561,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162170,
       "num": 162170,
       "word": "月光变奏曲前传",
@@ -1624,6 +1672,14 @@
       "word": "猴系帅哥的一滴泪演技",
       "onboard_time": 1731831858,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160554,
+      "num": 160554,
+      "word": "李昊回应4次面试声生不息",
+      "onboard_time": 1731854782,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1761,6 +1817,14 @@
       "onboard_time": 1731843619,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 150351,
+      "num": 150351,
+      "word": "Doinb说复出的希望只有百分之一",
+      "onboard_time": 1731855561,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 149277,
@@ -2003,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131653,
+      "num": 131653,
+      "word": "无状态疑似退赛",
+      "onboard_time": 1731856581,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131552,
       "num": 131552,
       "word": "樊振东入选亚太U30杰出青年领袖",
@@ -2201,6 +2273,14 @@
       "onboard_time": 1731814759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115196,
+      "num": 115196,
+      "word": "超强台风万宜",
+      "onboard_time": 1731856640,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114040,
@@ -2556,7 +2636,7 @@
     },
     {
       "raw_hot": 76905,
-      "num": 217125,
+      "num": 276720,
       "word": "校方回应扮女装进澡堂男子未被释放",
       "onboard_time": 1731848120,
       "rank": 23,
@@ -2843,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46997,
+      "num": 211520,
+      "word": "邓超公主抱郑云龙",
+      "onboard_time": 1731856460,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45035,
       "num": 218888,
       "word": "长生KPL第一中单",
@@ -2995,6 +3083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35888,
+      "num": 295762,
+      "word": "孤单北半球女主很可能在秘鲁",
+      "onboard_time": 1731855860,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34006,
       "num": 693392,
       "word": "秘鲁与中国渊源有多深",
@@ -3092,7 +3188,7 @@
     },
     {
       "raw_hot": 31287,
-      "num": 822196,
+      "num": 915592,
       "word": "巴西交响乐团奏响我爱你中国",
       "onboard_time": 1731850520,
       "rank": 2,
