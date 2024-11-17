@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731861755948,
+  "endTime": 1731863963211,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651803,
+      "num": 651803,
+      "word": "丁舟杰文学",
+      "onboard_time": 1731859038,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 646360,
       "num": 646360,
       "word": "超强台风万宜",
@@ -473,14 +481,6 @@
       "onboard_time": 1731810199,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 644936,
-      "num": 644936,
-      "word": "丁舟杰文学",
-      "onboard_time": 1731859038,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 638406,
@@ -1891,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148028,
+      "num": 148028,
+      "word": "我国造出全球唯一可钻11000米钻探船",
+      "onboard_time": 1731861017,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 147484,
       "num": 189857,
       "word": "黎巴嫩男子冲着救人自己却被炸身亡",
@@ -2041,6 +2049,14 @@
       "onboard_time": 1731816018,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136821,
+      "num": 248993,
+      "word": "3岁男童失踪被找到时没穿衣服",
+      "onboard_time": 1731861017,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136270,
@@ -2771,14 +2787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73955,
-      "num": 95598,
-      "word": "我国造出全球唯一可钻11000米钻探船",
-      "onboard_time": 1731861017,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 71996,
       "num": 65952,
       "word": "赵丽颖金鸡奖造型师是闵塔鲨",
@@ -2947,12 +2955,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52721,
+      "num": 57419,
+      "word": "小巷人家 戒断反应",
+      "onboard_time": 1731854423,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51701,
       "num": 51701,
       "word": "姿态回应打野不带惩戒",
       "onboard_time": 1731799275,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51668,
+      "num": 57249,
+      "word": "全红婵说武汉好冷全场爆笑",
+      "onboard_time": 1731863114,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 51457,
@@ -3171,14 +3195,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 36300,
-      "num": 248993,
-      "word": "3岁男童失踪被找到时没穿衣服",
-      "onboard_time": 1731861017,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36081,
       "num": 251447,
       "word": "男子徒步哈巴雪山失联近10天",
@@ -3209,6 +3225,14 @@
       "onboard_time": 1731861197,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34425,
+      "num": 118909,
+      "word": "律师称毒杀宠物狗涉嫌犯罪",
+      "onboard_time": 1731863295,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34006,
@@ -3329,6 +3353,14 @@
       "onboard_time": 1731853461,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30289,
+      "num": 93914,
+      "word": "梦想号中国造",
+      "onboard_time": 1731862755,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 28510,
