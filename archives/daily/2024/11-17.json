@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731829000300,
+  "endTime": 1731832003514,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -147,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 814411,
+      "num": 1130305,
+      "word": "西南政法大学喊话徐枫灿",
+      "onboard_time": 1731827299,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 811289,
       "num": 811289,
       "word": "霸王茶姬口令",
@@ -211,6 +219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680457,
+      "num": 680457,
+      "word": "让杨子害怕的女人出现了",
+      "onboard_time": 1731825978,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 655239,
+      "num": 498366,
+      "word": "下辈子换我长高圆圆这样",
+      "onboard_time": 1731829700,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645276,
       "num": 645276,
       "word": "彭高参加乐言生日聚会",
@@ -251,20 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582328,
-      "num": 582328,
-      "word": "西南政法大学喊话徐枫灿",
-      "onboard_time": 1731827299,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 577950,
-      "num": 577950,
-      "word": "让杨子害怕的女人出现了",
-      "onboard_time": 1731825978,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 601258,
+      "num": 601258,
+      "word": "捐日军侵华相册美国小伙在家穿防弹背心",
+      "onboard_time": 1731826638,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 550147,
@@ -385,14 +401,6 @@
       "onboard_time": 1731778515,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 363812,
-      "num": 363812,
-      "word": "捐日军侵华相册美国小伙在家穿防弹背心",
-      "onboard_time": 1731826638,
-      "rank": 26,
-      "category": "正能量"
     },
     {
       "raw_hot": 360951,
@@ -651,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223193,
+      "num": 223193,
+      "word": "齐思钧 五年了还不了解你们吗",
+      "onboard_time": 1731831198,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217439,
       "num": 217439,
       "word": "纪委介入调查村干部工作日聚餐饮酒",
@@ -665,6 +681,14 @@
       "onboard_time": 1731767005,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215861,
+      "num": 215861,
+      "word": "年龄5岁 工龄10年",
+      "onboard_time": 1731830479,
+      "rank": 24,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 211546,
@@ -779,12 +803,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 187973,
+      "num": 187973,
+      "word": "许嵩 衣不如新人不如故",
+      "onboard_time": 1731831438,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185739,
       "num": 185739,
       "word": "张韶涵雨夜美貌三折叠",
       "onboard_time": 1731811999,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185081,
+      "num": 284828,
+      "word": "刘耀文新发型还没驯服",
+      "onboard_time": 1731830958,
+      "rank": 19,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 183401,
@@ -817,6 +857,14 @@
       "onboard_time": 1731825379,
       "rank": 33,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 182051,
+      "num": 182051,
+      "word": "捷克外长遭伦敦大学生当面怒斥",
+      "onboard_time": 1731829099,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180073,
@@ -1083,12 +1131,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 140722,
+      "num": 140722,
+      "word": "徐枫灿",
+      "onboard_time": 1731829158,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 140443,
       "num": 140443,
       "word": "李诗沣日本赛男单冠军",
       "onboard_time": 1731826699,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139413,
+      "num": 316397,
+      "word": "本届中国航展签约金额超2800亿",
+      "onboard_time": 1731827598,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 139053,
@@ -1235,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116214,
+      "num": 116214,
+      "word": "因为租房跟男朋友吵架了",
+      "onboard_time": 1731831858,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "涵艺说LPL报价Zeus",
@@ -1251,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114240,
+      "num": 114240,
+      "word": "奥运冠军谢瑜头戴发箍看许嵩演唱会",
+      "onboard_time": 1731829399,
+      "rank": 40,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 114040,
       "num": 114040,
       "word": "张远原来万人场的星光是这样的",
       "onboard_time": 1731828379,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113795,
+      "num": 113795,
+      "word": "猴系帅哥的一滴泪演技",
+      "onboard_time": 1731831858,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 112519,
@@ -1283,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110548,
+      "num": 110548,
+      "word": "王一博厦门出发look",
+      "onboard_time": 1731831619,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110187,
       "num": 110187,
       "word": "宿敌",
@@ -1297,6 +1393,14 @@
       "onboard_time": 1731816679,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108952,
+      "num": 108952,
+      "word": "加油哥28年航展见证中国战机越来越强",
+      "onboard_time": 1731831079,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 108745,
@@ -1316,11 +1420,19 @@
     },
     {
       "raw_hot": 107330,
-      "num": 107330,
+      "num": 515048,
       "word": "女生火裙舞表演裙摆意外被点燃",
       "onboard_time": 1731827058,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106042,
+      "num": 106042,
+      "word": "WTT福冈总决赛",
+      "onboard_time": 1731829819,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 105361,
@@ -1393,6 +1505,22 @@
       "onboard_time": 1731760640,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96598,
+      "num": 96598,
+      "word": "小巷人家吻戏",
+      "onboard_time": 1731831978,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96358,
+      "num": 498385,
+      "word": "第十五届中国航展闭幕",
+      "onboard_time": 1731825379,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 95258,
@@ -1507,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84341,
-      "num": 316397,
-      "word": "本届中国航展签约金额超2800亿",
-      "onboard_time": 1731827598,
-      "rank": 19,
-      "category": "军事"
-    },
-    {
       "raw_hot": 76663,
       "num": 264855,
       "word": "gidle获奖感言",
@@ -1561,14 +1681,6 @@
       "onboard_time": 1731825019,
       "rank": 2,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 71633,
-      "num": 498385,
-      "word": "第十五届中国航展闭幕",
-      "onboard_time": 1731825379,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 70777,
@@ -1907,11 +2019,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24929,
+      "num": 540318,
+      "word": "老街区里潮流新",
+      "onboard_time": 1731830598,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24210,
       "num": 89202,
       "word": "青花壶意外沉海被大海打扮了一番",
       "onboard_time": 1731798974,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24137,
+      "num": 552089,
+      "word": "中国制造业规模连续14年世界第一",
+      "onboard_time": 1731830838,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 24099,
+      "num": 469607,
+      "word": "股价异动不用披露了系误读",
+      "onboard_time": 1731830716,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1961,6 +2097,14 @@
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17832,
+      "num": 685275,
+      "word": "秘鲁与中国渊源有多深",
+      "onboard_time": 1731831259,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17521,
@@ -2187,6 +2331,9 @@
     },
     {
       "word": "#中国发展将为世界发展提供更多新机遇#"
+    },
+    {
+      "word": "#习近平在巴西媒体发表署名文章#"
     }
   ]
 }
