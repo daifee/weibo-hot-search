@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731842351317,
+  "endTime": 1731843323228,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1637382,
+      "num": 357235,
+      "word": "目击者称女孩和商场玻璃一同坠落",
+      "onboard_time": 1731839538,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1508489,
       "num": 496623,
       "word": "杨子 死嘴快嚼啊",
@@ -72,14 +80,6 @@
       "word": "被丈夫举报出轨学生女教师二提离婚",
       "onboard_time": 1731820759,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1392998,
-      "num": 357235,
-      "word": "目击者称女孩和商场玻璃一同坠落",
-      "onboard_time": 1731839538,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661239,
+      "num": 390904,
+      "word": "子期是浮舟还是浮舟是子期",
+      "onboard_time": 1731840919,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655239,
       "num": 498366,
       "word": "下辈子换我长高圆圆这样",
@@ -329,6 +337,14 @@
       "onboard_time": 1731772161,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 628412,
+      "num": 197389,
+      "word": "马斯克发帖嘲笑泽连斯基言论",
+      "onboard_time": 1731840320,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 623341,
@@ -377,14 +393,6 @@
       "onboard_time": 1731839058,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 567005,
-      "num": 390904,
-      "word": "子期是浮舟还是浮舟是子期",
-      "onboard_time": 1731840919,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 555986,
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378388,
+      "num": 354670,
+      "word": "王一栩白锦锦各领十巴掌",
+      "onboard_time": 1731840558,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376711,
       "num": 870273,
       "word": "俄罗斯宣布临时限制向美出口浓缩铀",
@@ -531,20 +547,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 371261,
+      "num": 371261,
+      "word": "传奇杯",
+      "onboard_time": 1731838579,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 360951,
       "num": 270804,
       "word": "六公主发了赵丽颖大特写",
       "onboard_time": 1731750679,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 357473,
-      "num": 357473,
-      "word": "传奇杯",
-      "onboard_time": 1731838579,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 353777,
@@ -577,14 +593,6 @@
       "onboard_time": 1731800655,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 295892,
-      "num": 197389,
-      "word": "马斯克发帖嘲笑泽连斯基言论",
-      "onboard_time": 1731840320,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 295623,
@@ -633,6 +641,14 @@
       "onboard_time": 1731803478,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278258,
+      "num": 142116,
+      "word": "商场刚开业女孩因护栏脱落坠亡",
+      "onboard_time": 1731842180,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276382,
@@ -769,14 +785,6 @@
       "onboard_time": 1731831858,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244409,
-      "num": 195701,
-      "word": "王一栩白锦锦各领十巴掌",
-      "onboard_time": 1731840558,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 244174,
@@ -1035,6 +1043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 188528,
+      "num": 169954,
+      "word": "在迪士尼最震惊的一幕",
+      "onboard_time": 1731840138,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188439,
       "num": 188439,
       "word": "旅俄大熊猫一掌打翻雪人",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1731771923,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169954,
-      "num": 169954,
-      "word": "在迪士尼最震惊的一幕",
-      "onboard_time": 1731840138,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 169425,
@@ -1403,12 +1411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142254,
+      "num": 142254,
+      "word": "老头杯",
+      "onboard_time": 1731839778,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142034,
       "num": 142034,
       "word": "湖人5连胜",
       "onboard_time": 1731817038,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141876,
+      "num": 141876,
+      "word": "伊朗向美国索赔1万亿美元",
+      "onboard_time": 1731841578,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141645,
@@ -1427,12 +1451,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 141232,
-      "num": 141232,
-      "word": "商场刚开业女孩因护栏脱落坠亡",
-      "onboard_time": 1731842180,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 140523,
+      "num": 140523,
+      "word": "意大利车展中国三蹦子火了",
+      "onboard_time": 1731842239,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 140443,
@@ -1459,20 +1483,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138242,
+      "num": 138242,
+      "word": "恋与深空 豫园",
+      "onboard_time": 1731842839,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
       "onboard_time": 1731814998,
       "rank": 42,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 136059,
-      "num": 136059,
-      "word": "老头杯",
-      "onboard_time": 1731839778,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 135728,
@@ -1595,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125741,
+      "num": 125741,
+      "word": "水晶哥力挺微笑",
+      "onboard_time": 1731842897,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124794,
       "num": 124794,
       "word": "LWX怒喷诺夏",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1731823338,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122753,
+      "num": 122753,
+      "word": "小巷人家卧龙凤雏大he",
+      "onboard_time": 1731837498,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121567,
@@ -1651,14 +1691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116667,
-      "num": 116667,
-      "word": "伊朗向美国索赔1万亿美元",
-      "onboard_time": 1731841578,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "涵艺说LPL报价Zeus",
@@ -1691,20 +1723,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112840,
-      "num": 112840,
-      "word": "小巷人家卧龙凤雏大he",
-      "onboard_time": 1731837498,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112519,
       "num": 237624,
       "word": "马琳回应陈梦退赛",
       "onboard_time": 1731765624,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112239,
+      "num": 112239,
+      "word": "狗狗 终于可以交班了",
+      "onboard_time": 1731842538,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 112133,
@@ -1764,7 +1796,7 @@
     },
     {
       "raw_hot": 109446,
-      "num": 109446,
+      "num": 141879,
       "word": "水晶哥队首场比赛被判负",
       "onboard_time": 1731835399,
       "rank": 41,
@@ -1785,6 +1817,14 @@
       "onboard_time": 1731806958,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108662,
+      "num": 108662,
+      "word": "奖励沈腾马丽演将门毒后",
+      "onboard_time": 1731842118,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107651,
@@ -1841,14 +1881,6 @@
       "onboard_time": 1731813559,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100141,
-      "num": 100141,
-      "word": "意大利车展中国三蹦子火了",
-      "onboard_time": 1731842239,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 99099,
@@ -2363,6 +2395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39141,
+      "num": 357446,
+      "word": "探店街拍拍到路人可能侵权了",
+      "onboard_time": 1731841578,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39102,
       "num": 75828,
       "word": "迪丽热巴冷帽look",
@@ -2427,6 +2467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33386,
+      "num": 141011,
+      "word": "金珉奎模仿向佐摸鼻梁",
+      "onboard_time": 1731842719,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33300,
       "num": 107831,
       "word": "金价下跌背后推手是谁",
@@ -2489,6 +2537,14 @@
       "onboard_time": 1731816619,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 28510,
+      "num": 357032,
+      "word": "演技是打破偏见的最好武器",
+      "onboard_time": 1731841699,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 28008,
@@ -2635,22 +2691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16405,
-      "num": 357032,
-      "word": "演技是打破偏见的最好武器",
-      "onboard_time": 1731841699,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 16276,
-      "num": 357446,
-      "word": "探店街拍拍到路人可能侵权了",
-      "onboard_time": 1731841578,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15316,
       "num": 25035,
       "word": "好事不说坏事不做顺其自然26年",
@@ -2673,6 +2713,14 @@
       "onboard_time": 1731772222,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14817,
+      "num": 151456,
+      "word": "中国航展的含金量还在上升",
+      "onboard_time": 1731842359,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 14735,
