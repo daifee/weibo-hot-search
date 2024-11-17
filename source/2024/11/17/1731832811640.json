@@ -1,0 +1,410 @@
+{
+  "runTime": 1731832811640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 892580,
+        "num": 1142812,
+        "word": "西南政法大学喊话徐枫灿",
+        "onboard_time": 1731827299,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 756512,
+        "num": 756512,
+        "word": "让杨子害怕的女人出现了",
+        "onboard_time": 1731825978,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31354,
+        "num": 693392,
+        "word": "秘鲁与中国渊源有多深",
+        "onboard_time": 1731831259,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 685460,
+        "num": 685460,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613839,
+        "num": 613839,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547276,
+        "num": 547276,
+        "word": "捐日军侵华相册美国小伙在家穿防弹背心",
+        "onboard_time": 1731826638,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 454617,
+        "num": 454617,
+        "word": "王安宇上桌",
+        "onboard_time": 1731822199,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424381,
+        "num": 424381,
+        "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+        "onboard_time": 1731817941,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 351541,
+        "num": 351541,
+        "word": "黄翠如官宣怀孕",
+        "onboard_time": 1731825318,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311852,
+        "num": 311852,
+        "word": "永夜星河超点",
+        "onboard_time": 1731823160,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 962347,
+        "num": 311128,
+        "word": "被丈夫举报出轨学生女教师二提离婚",
+        "onboard_time": 1731820759,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 675293,
+        "num": 304218,
+        "word": "卫生巾 C类",
+        "onboard_time": 1731814038,
+        "rank": 11,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 165936,
+        "num": 297861,
+        "word": "捷克外长遭伦敦大学生当面怒斥",
+        "onboard_time": 1731829099,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 623696,
+        "num": 293883,
+        "word": "下辈子换我长高圆圆这样",
+        "onboard_time": 1731829700,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291824,
+        "num": 291824,
+        "word": "31岁女生不婚不生的真实感受",
+        "onboard_time": 1731820580,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277774,
+        "num": 277774,
+        "word": "李庚希回应金鸡影后",
+        "onboard_time": 1731813679,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273051,
+        "num": 273051,
+        "word": "中方不会允许朝鲜半岛生战生乱",
+        "onboard_time": 1731819559,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265736,
+        "num": 265736,
+        "word": "年龄5岁 工龄10年",
+        "onboard_time": 1731830479,
+        "rank": 17,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 73709,
+        "num": 249698,
+        "word": "娜扎经纪人都有超话了",
+        "onboard_time": 1731832339,
+        "rank": 18,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 49620,
+        "num": 249584,
+        "word": "婚期临近定好的酒店突然关门引纠纷",
+        "onboard_time": 1731832458,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249561,
+        "num": 249561,
+        "word": "徐枫灿",
+        "onboard_time": 1731829158,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 232130,
+        "num": 232130,
+        "word": "35岁对未婚未育女生意味着什么",
+        "onboard_time": 1731816738,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44342,
+        "num": 215375,
+        "word": "中国制造业规模连续14年世界第一",
+        "onboard_time": 1731830838,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 206561,
+        "num": 206561,
+        "word": "齐思钧 五年了还不了解你们吗",
+        "onboard_time": 1731831198,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206387,
+        "num": 206387,
+        "word": "刘耀文新发型还没驯服",
+        "onboard_time": 1731830958,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 202260,
+        "num": 202260,
+        "word": "吴倩带女儿出行",
+        "onboard_time": 1731824179,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183911,
+        "num": 183911,
+        "word": "三里屯三姐妹",
+        "onboard_time": 1731818299,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174571,
+        "num": 174571,
+        "word": "本届中国航展签约金额超2800亿",
+        "onboard_time": 1731827598,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 165406,
+        "num": 165406,
+        "word": "小巷人家吻戏",
+        "onboard_time": 1731831978,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160935,
+        "num": 160935,
+        "word": "猴系帅哥的一滴泪演技",
+        "onboard_time": 1731831858,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157439,
+        "num": 157439,
+        "word": "女生火裙舞表演裙摆意外被点燃",
+        "onboard_time": 1731827058,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155044,
+        "num": 155044,
+        "word": "多少年轻人把冰箱当时间静止器用",
+        "onboard_time": 1731819440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136698,
+        "num": 136698,
+        "word": "小巷人家",
+        "onboard_time": 1731817579,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135778,
+        "num": 135778,
+        "word": "许嵩 衣不如新人不如故",
+        "onboard_time": 1731831438,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129907,
+        "num": 129907,
+        "word": "精神病患捐空家里积蓄40多万无法要回",
+        "onboard_time": 1731822019,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129323,
+        "num": 129323,
+        "word": "声生不息港乐季2首发阵容",
+        "onboard_time": 1731825379,
+        "rank": 35,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 128838,
+        "num": 128838,
+        "word": "烧伤妈妈丈夫问没有房产证如何卖房",
+        "onboard_time": 1731819620,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127942,
+        "num": 127942,
+        "word": "全红婵也被今天的武汉冷到了",
+        "onboard_time": 1731832458,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126043,
+        "num": 126043,
+        "word": "减重版司美格鲁肽在中国正式上市",
+        "onboard_time": 1731821960,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122969,
+        "num": 122969,
+        "word": "妻子患癌去世丈夫失联构成遗弃罪",
+        "onboard_time": 1731818239,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25470,
+        "num": 117078,
+        "word": "股价异动不用披露了系误读",
+        "onboard_time": 1731830716,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115580,
+        "num": 115580,
+        "word": "奥运冠军谢瑜头戴发箍看许嵩演唱会",
+        "onboard_time": 1731829399,
+        "rank": 41,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 115157,
+        "num": 115157,
+        "word": "孙颖莎入选亚太U30杰出青年领袖",
+        "onboard_time": 1731820339,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37477,
+        "num": 113561,
+        "word": "老街区里潮流新",
+        "onboard_time": 1731830598,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 112604,
+        "num": 112604,
+        "word": "因为租房跟男朋友吵架了",
+        "onboard_time": 1731831858,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104957,
+        "num": 104957,
+        "word": "甄嬛传晚会官宣",
+        "onboard_time": 1731823099,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101845,
+        "num": 101845,
+        "word": "丁禹兮背虞书欣",
+        "onboard_time": 1731825559,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101327,
+        "num": 101327,
+        "word": "王一博厦门出发look",
+        "onboard_time": 1731831619,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99099,
+        "num": 99099,
+        "word": "沈腾希望黄景瑜别碰到其他会做饭的",
+        "onboard_time": 1731832579,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98128,
+        "num": 98128,
+        "word": "WTT福冈总决赛",
+        "onboard_time": 1731829819,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在巴西媒体发表署名文章#"
+    }
+  }
+}

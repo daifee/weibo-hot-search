@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731832003514,
+  "endTime": 1731832811640,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 892580,
+      "num": 1142812,
+      "word": "西南政法大学喊话徐枫灿",
+      "onboard_time": 1731827299,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 885895,
       "num": 233107,
       "word": "淮北师大称警方已介入",
@@ -147,14 +155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 814411,
-      "num": 1130305,
-      "word": "西南政法大学喊话徐枫灿",
-      "onboard_time": 1731827299,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
       "raw_hot": 811289,
       "num": 811289,
       "word": "霸王茶姬口令",
@@ -177,6 +177,14 @@
       "onboard_time": 1731812779,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 756512,
+      "num": 756512,
+      "word": "让杨子害怕的女人出现了",
+      "onboard_time": 1731825978,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 745774,
@@ -217,14 +225,6 @@
       "onboard_time": 1731772102,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 680457,
-      "num": 680457,
-      "word": "让杨子害怕的女人出现了",
-      "onboard_time": 1731825978,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 655239,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265736,
+      "num": 265736,
+      "word": "年龄5岁 工龄10年",
+      "onboard_time": 1731830479,
+      "rank": 24,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 259833,
       "num": 259833,
       "word": "王者荣耀王昭君",
@@ -593,6 +601,14 @@
       "onboard_time": 1731825559,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249561,
+      "num": 249561,
+      "word": "徐枫灿",
+      "onboard_time": 1731829158,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 244174,
@@ -683,14 +699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 215861,
-      "num": 215861,
-      "word": "年龄5岁 工龄10年",
-      "onboard_time": 1731830479,
-      "rank": 24,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 211546,
       "num": 331325,
       "word": "天狼星由我们AG亲手熄灭",
@@ -713,6 +721,14 @@
       "onboard_time": 1731815838,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206387,
+      "num": 284828,
+      "word": "刘耀文新发型还没驯服",
+      "onboard_time": 1731830958,
+      "rank": 19,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 204880,
@@ -819,14 +835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 185081,
-      "num": 284828,
-      "word": "刘耀文新发型还没驯服",
-      "onboard_time": 1731830958,
-      "rank": 19,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 183401,
       "num": 344510,
       "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 182051,
-      "num": 182051,
+      "num": 297861,
       "word": "捷克外长遭伦敦大学生当面怒斥",
       "onboard_time": 1731829099,
       "rank": 27,
@@ -897,6 +905,14 @@
       "onboard_time": 1731813078,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174571,
+      "num": 316397,
+      "word": "本届中国航展签约金额超2800亿",
+      "onboard_time": 1731827598,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 171754,
@@ -947,6 +963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165406,
+      "num": 165406,
+      "word": "小巷人家吻戏",
+      "onboard_time": 1731831978,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164309,
       "num": 164309,
       "word": "金鸡历届影后",
@@ -961,6 +985,14 @@
       "onboard_time": 1731766885,
       "rank": 17,
       "category": "军事"
+    },
+    {
+      "raw_hot": 160935,
+      "num": 160935,
+      "word": "猴系帅哥的一滴泪演技",
+      "onboard_time": 1731831858,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 158170,
@@ -985,6 +1017,14 @@
       "onboard_time": 1731803657,
       "rank": 25,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 157439,
+      "num": 515048,
+      "word": "女生火裙舞表演裙摆意外被点燃",
+      "onboard_time": 1731827058,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157036,
@@ -1131,28 +1171,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 140722,
-      "num": 140722,
-      "word": "徐枫灿",
-      "onboard_time": 1731829158,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 140443,
       "num": 140443,
       "word": "李诗沣日本赛男单冠军",
       "onboard_time": 1731826699,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139413,
-      "num": 316397,
-      "word": "本届中国航展签约金额超2800亿",
-      "onboard_time": 1731827598,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 139053,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1731827419,
       "rank": 38,
       "category": "演出,作品衍生"
+    },
+    {
+      "raw_hot": 127942,
+      "num": 127942,
+      "word": "全红婵也被今天的武汉冷到了",
+      "onboard_time": 1731832458,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 127930,
@@ -1315,6 +1347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115580,
+      "num": 115580,
+      "word": "奥运冠军谢瑜头戴发箍看许嵩演唱会",
+      "onboard_time": 1731829399,
+      "rank": 40,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 115428,
       "num": 219430,
       "word": "苏新皓还有56天十八岁",
@@ -1323,28 +1363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114240,
-      "num": 114240,
-      "word": "奥运冠军谢瑜头戴发箍看许嵩演唱会",
-      "onboard_time": 1731829399,
-      "rank": 40,
-      "category": "演出,体育"
-    },
-    {
       "raw_hot": 114040,
       "num": 114040,
       "word": "张远原来万人场的星光是这样的",
       "onboard_time": 1731828379,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113795,
-      "num": 113795,
-      "word": "猴系帅哥的一滴泪演技",
-      "onboard_time": 1731831858,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 112519,
@@ -1419,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107330,
-      "num": 515048,
-      "word": "女生火裙舞表演裙摆意外被点燃",
-      "onboard_time": 1731827058,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106042,
       "num": 106042,
       "word": "WTT福冈总决赛",
@@ -1467,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99099,
+      "num": 99099,
+      "word": "沈腾希望黄景瑜别碰到其他会做饭的",
+      "onboard_time": 1731832579,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98831,
       "num": 98831,
       "word": "大梦归离哭死我了",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1731760640,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96598,
-      "num": 96598,
-      "word": "小巷人家吻戏",
-      "onboard_time": 1731831978,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 96358,
@@ -1667,6 +1683,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 73709,
+      "num": 249698,
+      "word": "娜扎经纪人都有超话了",
+      "onboard_time": 1731832339,
+      "rank": 18,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 71996,
       "num": 65952,
       "word": "赵丽颖金鸡奖造型师是闵塔鲨",
@@ -1811,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49620,
+      "num": 249584,
+      "word": "婚期临近定好的酒店突然关门引纠纷",
+      "onboard_time": 1731832458,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48743,
       "num": 48743,
       "word": "烧伤妈妈恢复期忍痛练习吃饭",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1731808039,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44342,
+      "num": 552089,
+      "word": "中国制造业规模连续14年世界第一",
+      "onboard_time": 1731830838,
+      "rank": 7,
+      "category": "正能量"
     },
     {
       "raw_hot": 42663,
@@ -1923,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37477,
+      "num": 540318,
+      "word": "老街区里潮流新",
+      "onboard_time": 1731830598,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36019,
       "num": 181629,
       "word": "道崽 这次不会把我打倒",
@@ -1979,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31354,
+      "num": 693392,
+      "word": "秘鲁与中国渊源有多深",
+      "onboard_time": 1731831259,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31316,
       "num": 165178,
       "word": "林高远梁靖崑进入较好备战状态",
@@ -2011,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25470,
+      "num": 469607,
+      "word": "股价异动不用披露了系误读",
+      "onboard_time": 1731830716,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25197,
       "num": 152226,
       "word": "泽连斯基称努力确保明年结束俄乌冲突",
@@ -2019,35 +2083,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24929,
-      "num": 540318,
-      "word": "老街区里潮流新",
-      "onboard_time": 1731830598,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 24210,
       "num": 89202,
       "word": "青花壶意外沉海被大海打扮了一番",
       "onboard_time": 1731798974,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24137,
-      "num": 552089,
-      "word": "中国制造业规模连续14年世界第一",
-      "onboard_time": 1731830838,
-      "rank": 7,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 24099,
-      "num": 469607,
-      "word": "股价异动不用披露了系误读",
-      "onboard_time": 1731830716,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2097,14 +2137,6 @@
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 17832,
-      "num": 685275,
-      "word": "秘鲁与中国渊源有多深",
-      "onboard_time": 1731831259,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17521,
