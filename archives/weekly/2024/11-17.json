@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731863963211,
+  "endTime": 1731865153289,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -841,6 +841,14 @@
       "onboard_time": 1731853041,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 332402,
+      "num": 332402,
+      "word": "3岁男童失踪被找到时没穿衣服",
+      "onboard_time": 1731861017,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324408,
@@ -2051,14 +2059,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 136821,
-      "num": 248993,
-      "word": "3岁男童失踪被找到时没穿衣服",
-      "onboard_time": 1731861017,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
@@ -2859,6 +2859,14 @@
       "category": "电影,演出"
     },
     {
+      "raw_hot": 61300,
+      "num": 57249,
+      "word": "全红婵说武汉好冷全场爆笑",
+      "onboard_time": 1731863114,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61226,
       "num": 61226,
       "word": "中国服装把天圆地方披在肩上",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1731821059,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 58662,
+      "num": 58662,
+      "word": "陈小春说李宇春看起来很冷",
+      "onboard_time": 1731864254,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 58386,
@@ -2969,14 +2985,6 @@
       "onboard_time": 1731799275,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 51668,
-      "num": 57249,
-      "word": "全红婵说武汉好冷全场爆笑",
-      "onboard_time": 1731863114,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 51457,
@@ -3228,7 +3236,7 @@
     },
     {
       "raw_hot": 34425,
-      "num": 118909,
+      "num": 163743,
       "word": "律师称毒杀宠物狗涉嫌犯罪",
       "onboard_time": 1731863295,
       "rank": 19,
@@ -3241,6 +3249,14 @@
       "onboard_time": 1731831259,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34000,
+      "num": 42526,
+      "word": "爱上吴邪结果是徐磊",
+      "onboard_time": 1731855261,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 33972,
@@ -3315,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31845,
+      "num": 42478,
+      "word": "航展上的关键零部件你注意到了吗",
+      "onboard_time": 1731864553,
+      "rank": 47,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 31618,
       "num": 185552,
       "word": "一笙说结果不是特别完美",
@@ -3345,6 +3369,14 @@
       "onboard_time": 1731816619,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 30581,
+      "num": 42450,
+      "word": "卫生巾pH值并不能影响阴道内环境",
+      "onboard_time": 1731864974,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30521,

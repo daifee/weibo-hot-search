@@ -1,0 +1,410 @@
+{
+  "runTime": 1731865153289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497641,
+        "num": 497641,
+        "word": "丁舟杰文学",
+        "onboard_time": 1731859038,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478567,
+        "num": 478567,
+        "word": "75岁阿姨在美容店消费96万",
+        "onboard_time": 1731858619,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2139,
+        "num": 335804,
+        "word": "巴西交响乐团奏响我爱你中国",
+        "onboard_time": 1731850520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332402,
+        "num": 332402,
+        "word": "3岁男童失踪被找到时没穿衣服",
+        "onboard_time": 1731861017,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267424,
+        "num": 267424,
+        "word": "永昼",
+        "onboard_time": 1731858319,
+        "rank": 4,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 231283,
+        "num": 231283,
+        "word": "世上再无子期",
+        "onboard_time": 1731850760,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172264,
+        "num": 172264,
+        "word": "超强台风万宜",
+        "onboard_time": 1731856640,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224465,
+        "num": 168288,
+        "word": "永夜星河 HE",
+        "onboard_time": 1731839117,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163963,
+        "num": 163963,
+        "word": "大结局怎么没有鹏飞",
+        "onboard_time": 1731850520,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29403,
+        "num": 163743,
+        "word": "律师称毒杀宠物狗涉嫌犯罪",
+        "onboard_time": 1731863295,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207065,
+        "num": 163708,
+        "word": "周润发说权志龙变靓女了",
+        "onboard_time": 1731849080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163611,
+        "num": 163611,
+        "word": "大结局虞书欣对面站的是丁禹兮",
+        "onboard_time": 1731848180,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132823,
+        "num": 132823,
+        "word": "禹宙中欣cp超话榜TOP1",
+        "onboard_time": 1731856100,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121891,
+        "num": 121891,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 121770,
+        "num": 121770,
+        "word": "王一栩 爱奇艺卧底",
+        "onboard_time": 1731848299,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105494,
+        "num": 105494,
+        "word": "我国造出全球唯一可钻11000米钻探船",
+        "onboard_time": 1731861017,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 95436,
+        "num": 95436,
+        "word": "央视曝光洗车场盗取地下水",
+        "onboard_time": 1731855320,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94781,
+        "num": 94781,
+        "word": "永夜星河",
+        "onboard_time": 1731837978,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91071,
+        "num": 91071,
+        "word": "美国确诊首例猴痘新变异株感染者",
+        "onboard_time": 1731849020,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83292,
+        "num": 83292,
+        "word": "男子地铁猥亵被抓后下跪求原谅",
+        "onboard_time": 1731851181,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227881,
+        "num": 82637,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160455,
+        "num": 81641,
+        "word": "官方回应济宁一女孩商场内坠亡",
+        "onboard_time": 1731844039,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 100513,
+        "num": 80830,
+        "word": "女子与婆婆厮打把儿子摔成颅内出血",
+        "onboard_time": 1731852921,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74857,
+        "num": 74857,
+        "word": "奥斯卡 孙乐言",
+        "onboard_time": 1731849260,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73488,
+        "num": 73488,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71915,
+        "num": 71915,
+        "word": "商场刚开业女孩因护栏脱落坠亡",
+        "onboard_time": 1731842180,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61243,
+        "num": 61243,
+        "word": "林更新问汪苏泷重庆到底有谁在",
+        "onboard_time": 1731853041,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58662,
+        "num": 58662,
+        "word": "陈小春说李宇春看起来很冷",
+        "onboard_time": 1731864254,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58359,
+        "num": 58359,
+        "word": "小巷人家大结局",
+        "onboard_time": 1731845299,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56377,
+        "num": 56377,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1731859459,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61300,
+        "num": 55731,
+        "word": "全红婵说武汉好冷全场爆笑",
+        "onboard_time": 1731863114,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54858,
+        "num": 54858,
+        "word": "长安的荔枝",
+        "onboard_time": 1731854481,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52196,
+        "num": 52196,
+        "word": "卢昱晓配音谁找的",
+        "onboard_time": 1731852020,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44337,
+        "num": 44337,
+        "word": "王一栩还我妈生八个机位的吻戏",
+        "onboard_time": 1731853581,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45687,
+        "num": 44337,
+        "word": "小巷人家 戒断反应",
+        "onboard_time": 1731854423,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44328,
+        "num": 44328,
+        "word": "无状态疑似退赛",
+        "onboard_time": 1731856581,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43176,
+        "num": 43176,
+        "word": "白桃星座",
+        "onboard_time": 1731854660,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42696,
+        "num": 42696,
+        "word": "日本队全程开放训练",
+        "onboard_time": 1731859758,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42641,
+        "num": 42641,
+        "word": "央视揭秘职业闭店人黑产链",
+        "onboard_time": 1731844518,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37832,
+        "num": 42641,
+        "word": "虞书欣跳ohmybaby手势舞",
+        "onboard_time": 1731850040,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37067,
+        "num": 42616,
+        "word": "薛凯琪把陈小春夸成了翘嘴",
+        "onboard_time": 1731860957,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36822,
+        "num": 42604,
+        "word": "蔡徐坤上海人气",
+        "onboard_time": 1731852261,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36140,
+        "num": 42568,
+        "word": "换血减龄的美亿万富翁整脸翻车",
+        "onboard_time": 1731834680,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35239,
+        "num": 42564,
+        "word": "宿敌",
+        "onboard_time": 1731857958,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34785,
+        "num": 42534,
+        "word": "保安收400元就被包装成企业高管",
+        "onboard_time": 1731850880,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34000,
+        "num": 42526,
+        "word": "爱上吴邪结果是徐磊",
+        "onboard_time": 1731855261,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31999,
+        "num": 42507,
+        "word": "Doinb说复出的希望只有百分之一",
+        "onboard_time": 1731855561,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31845,
+        "num": 42478,
+        "word": "航展上的关键零部件你注意到了吗",
+        "onboard_time": 1731864553,
+        "rank": 47,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 30831,
+        "num": 42475,
+        "word": "容祖儿曾以为李昊的田是家族企业",
+        "onboard_time": 1731857958,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30581,
+        "num": 42450,
+        "word": "卫生巾pH值并不能影响阴道内环境",
+        "onboard_time": 1731864974,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平再论中美相处之道#"
+    }
+  }
+}
