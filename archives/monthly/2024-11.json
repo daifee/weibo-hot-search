@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731813184881,
+  "endTime": 1731815293074,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2731,6 +2731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1199651,
+      "num": 916264,
+      "word": "已确认超40只宠物狗疑似中毒死亡",
+      "onboard_time": 1731811578,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1196956,
       "num": 1196956,
       "word": "王曼昱WTT女单夺冠",
@@ -3779,6 +3787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 997558,
+      "num": 997558,
+      "word": "李庚希回应金鸡影后",
+      "onboard_time": 1731813679,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 994739,
       "num": 829486,
       "word": "美国可能面临五大变化",
@@ -4321,14 +4337,6 @@
       "onboard_time": 1731474080,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 916264,
-      "num": 916264,
-      "word": "已确认超40只宠物狗疑似中毒死亡",
-      "onboard_time": 1731811578,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 916195,
@@ -5251,6 +5259,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 811289,
+      "num": 811289,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1731810498,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 808865,
       "num": 808865,
       "word": "理发师晓华说30元的价格不低",
@@ -5513,6 +5529,14 @@
       "onboard_time": 1730806160,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 773332,
+      "num": 165096,
+      "word": "金鸡奖颁奖现场观众喊黑幕",
+      "onboard_time": 1731812779,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 773057,
@@ -7619,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616495,
+      "num": 616495,
+      "word": "汪顺 霸王茶姬活动",
+      "onboard_time": 1731811459,
+      "rank": 24,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 616290,
       "num": 372190,
       "word": "Faker状态",
@@ -9148,7 +9180,7 @@
     },
     {
       "raw_hot": 528303,
-      "num": 218651,
+      "num": 219056,
       "word": "白灼虾最忌用水煮",
       "onboard_time": 1731805999,
       "rank": 20,
@@ -9699,6 +9731,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 504870,
+      "num": 491156,
+      "word": "卫生巾 C类",
+      "onboard_time": 1731814038,
+      "rank": 10,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 504306,
       "num": 360629,
       "word": "国足 裁判",
@@ -9979,14 +10019,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 491190,
-      "num": 491190,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1731810498,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 490957,
       "num": 490957,
       "word": "蒋欣演技 拿奖",
@@ -10161,6 +10193,14 @@
       "onboard_time": 1731659899,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481043,
+      "num": 481043,
+      "word": "张予曦也自己化妆了",
+      "onboard_time": 1731811099,
+      "rank": 11,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 480443,
@@ -10609,14 +10649,6 @@
       "onboard_time": 1731342976,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461004,
-      "num": 461004,
-      "word": "张予曦也自己化妆了",
-      "onboard_time": 1731811099,
-      "rank": 11,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 460990,
@@ -15603,14 +15635,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 298004,
-      "num": 298004,
-      "word": "汪顺 霸王茶姬活动",
-      "onboard_time": 1731811459,
-      "rank": 24,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 297919,
       "num": 252162,
       "word": "大四男生确诊糖尿病称曾想轻生",
@@ -19185,6 +19209,14 @@
       "onboard_time": 1730441539,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234148,
+      "num": 234148,
+      "word": "林保怡回应憾失金鸡影帝",
+      "onboard_time": 1731812658,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 234039,
@@ -28139,6 +28171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167549,
+      "num": 284109,
+      "word": "江苏淮安小伙把自己棉大衣给埃文凯尔穿",
+      "onboard_time": 1731813499,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 167527,
       "num": 243916,
       "word": "小孩被异物卡喉路过民警20秒成功施救",
@@ -28577,14 +28617,6 @@
       "onboard_time": 1730961439,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165096,
-      "num": 165096,
-      "word": "金鸡奖颁奖现场观众喊黑幕",
-      "onboard_time": 1731812779,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 165026,
@@ -31019,14 +31051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152635,
-      "num": 165265,
-      "word": "林保怡回应憾失金鸡影帝",
-      "onboard_time": 1731812658,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152608,
       "num": 348291,
       "word": "歼15T也来了",
@@ -32667,6 +32691,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 144205,
+      "num": 144205,
+      "word": "张立业董雨欣BE",
+      "onboard_time": 1731813078,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144180,
       "num": 218832,
       "word": "华晨宇直播过早",
@@ -33185,6 +33217,14 @@
       "onboard_time": 1730520918,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141358,
+      "num": 141358,
+      "word": "女生分享光腿神器不勒脚穿法",
+      "onboard_time": 1731810438,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 141316,
@@ -34161,6 +34201,14 @@
       "onboard_time": 1731070279,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135728,
+      "num": 135728,
+      "word": "00后舰载机女飞行员上大分",
+      "onboard_time": 1731814879,
+      "rank": 33,
+      "category": "军事"
     },
     {
       "raw_hot": 135538,
@@ -36643,6 +36691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121567,
+      "num": 121567,
+      "word": "Doinb说重赛也不会输",
+      "onboard_time": 1731813619,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121546,
       "num": 157108,
       "word": "SBS阵容",
@@ -37619,6 +37675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115428,
+      "num": 219430,
+      "word": "苏新皓还有56天十八岁",
+      "onboard_time": 1731814759,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115392,
       "num": 115392,
       "word": "爱奇艺 花钱看不了国足",
@@ -37817,14 +37881,6 @@
       "onboard_time": 1731065538,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114510,
-      "num": 114510,
-      "word": "女生分享光腿神器不勒脚穿法",
-      "onboard_time": 1731810438,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 114393,
@@ -38121,6 +38177,14 @@
       "onboard_time": 1731519613,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112133,
+      "num": 158695,
+      "word": "拳王泰森回应不敌27岁网红",
+      "onboard_time": 1731812239,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 112060,
@@ -38849,6 +38913,14 @@
       "onboard_time": 1730519838,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107036,
+      "num": 107036,
+      "word": "埃文凯尔回应所捐日本侵华相册去向",
+      "onboard_time": 1731814998,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 106998,
@@ -39723,6 +39795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100228,
+      "num": 100228,
+      "word": "王一博上榜亚太U30杰出青年领袖",
+      "onboard_time": 1731813559,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100195,
       "num": 100195,
       "word": "北京最低气温降幅将达10度",
@@ -39816,6 +39896,14 @@
       "word": "永夜星河好看",
       "onboard_time": 1730477899,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99512,
+      "num": 99512,
+      "word": "小巷人家超点",
+      "onboard_time": 1731815238,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -40443,6 +40531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 94448,
+      "num": 141679,
+      "word": "国企高中学历运营总监本人回应",
+      "onboard_time": 1731813319,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94214,
       "num": 94214,
       "word": "金价高位回落",
@@ -40537,6 +40633,14 @@
       "onboard_time": 1731202098,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92956,
+      "num": 463685,
+      "word": "中国航展今天闭幕",
+      "onboard_time": 1731810980,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 92407,
@@ -40665,14 +40769,6 @@
       "onboard_time": 1731469459,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90831,
-      "num": 90831,
-      "word": "张立业董雨欣BE",
-      "onboard_time": 1731813078,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 90772,
@@ -41587,14 +41683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81629,
-      "num": 158695,
-      "word": "拳王泰森回应不敌27岁网红",
-      "onboard_time": 1731812239,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81615,
       "num": 308930,
       "word": "花海挑战者杯当作最后一程",
@@ -42105,6 +42193,14 @@
       "onboard_time": 1730535498,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75649,
+      "num": 156930,
+      "word": "王铮亮为AG祝贺夺冠",
+      "onboard_time": 1731814338,
+      "rank": 23,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 75631,
@@ -44171,6 +44267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58386,
+      "num": 142771,
+      "word": "情绪上头时讲道理有用吗",
+      "onboard_time": 1731813379,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58355,
       "num": 492186,
       "word": "我国自主研制最大直径盾构机下线",
@@ -44297,14 +44401,6 @@
       "onboard_time": 1731773420,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57138,
-      "num": 463685,
-      "word": "中国航展今天闭幕",
-      "onboard_time": 1731810980,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 56944,
@@ -48625,6 +48721,14 @@
       "onboard_time": 1730434940,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33691,
+      "num": 587820,
+      "word": "一图看懂中美这次见面",
+      "onboard_time": 1731814699,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33658,
