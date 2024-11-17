@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/17 23:21:59
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/17 23:38:05
 </p>
 </blockquote>
 <p>
@@ -5247,6 +5247,12 @@ BLG赛后采访（热度：672798）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B4%97%E8%BD%A6%E5%9C%BA%E7%9B%97%E5%8F%96%E5%9C%B0%E4%B8%8B%E6%B0%B4%23" target="weibo">
+央视曝光洗车场盗取地下水（热度：669567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AF%B4%E9%9F%A9%E5%AE%89%E5%86%89%E5%BE%88%E9%BC%93%E5%8A%B1%E5%A5%B9%23" target="weibo">
 赵露思说韩安冉很鼓励她（热度：669371）
 </a>
@@ -6005,12 +6011,6 @@ Faker状态（热度：616290）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%93%88%E9%87%8C%E6%96%AF%E7%BB%A7%E7%BB%AD%E5%86%B3%E6%88%98%E6%91%87%E6%91%86%E5%B7%9E%23" target="weibo">
 特朗普与哈里斯继续决战摇摆州（热度：616272）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%89%93%E6%AD%BB%E8%80%81%E6%9D%BF%E5%A6%BB%E5%AD%90%E4%B8%80%E5%BA%A6%E4%BB%A5%E4%B8%BA%E4%BB%96%E5%9C%A8%E6%95%91%E4%BA%BA%23" target="weibo">
-被医生打死老板妻子一度以为他在救人（热度：614854）
 </a>
 </li>
 
