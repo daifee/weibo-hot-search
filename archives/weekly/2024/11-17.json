@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731872146713,
+  "endTime": 1731874991867,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -3507,6 +3507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22891,
+      "num": 28204,
+      "word": "日本自民党高官再提自卫队常驻美国",
+      "onboard_time": 1731871510,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22787,
       "num": 53417,
       "word": "这就是解放军的硬核浪漫",
@@ -3579,6 +3587,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 18827,
+      "num": 30554,
+      "word": "珠海航展最后一天人山人海",
+      "onboard_time": 1731871092,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 18358,
+      "num": 18358,
+      "word": "特朗普提名石油大亨出任能源部长",
+      "onboard_time": 1731873371,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17521,
       "num": 242303,
       "word": "中国跳水队7人入围年度最佳候选",
@@ -3619,7 +3643,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16279,
+      "raw_hot": 16427,
       "num": 23643,
       "word": "中国航展最后一天",
       "onboard_time": 1731868152,
@@ -3651,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14871,
+      "num": 16416,
+      "word": "我国正研发六足登月机器人",
+      "onboard_time": 1731871811,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14817,
       "num": 151456,
       "word": "中国航展的含金量还在上升",
@@ -3673,6 +3705,14 @@
       "onboard_time": 1731868992,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14408,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14386,
@@ -3707,28 +3747,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12939,
-      "num": 30554,
-      "word": "珠海航展最后一天人山人海",
-      "onboard_time": 1731871092,
-      "rank": 19,
-      "category": "军事"
-    },
-    {
       "raw_hot": 12922,
       "num": 73587,
       "word": "APEC第31次领导人非正式会议",
       "onboard_time": 1731782353,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12879,
-      "num": 28204,
-      "word": "日本自民党高官再提自卫队常驻美国",
-      "onboard_time": 1731871510,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12773,

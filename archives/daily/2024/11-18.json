@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731872146713,
+  "endTime": 1731874991867,
   "band_list": [
     {
       "raw_hot": 949291,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22891,
+      "num": 28204,
+      "word": "日本自民党高官再提自卫队常驻美国",
+      "onboard_time": 1731871510,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19572,
       "num": 31451,
       "word": "7点经验启示为中美关系发展指明方向",
@@ -547,12 +555,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16279,
+      "raw_hot": 18827,
+      "num": 30554,
+      "word": "珠海航展最后一天人山人海",
+      "onboard_time": 1731871092,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 18358,
+      "num": 18358,
+      "word": "特朗普提名石油大亨出任能源部长",
+      "onboard_time": 1731873371,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16427,
       "num": 23643,
       "word": "中国航展最后一天",
       "onboard_time": 1731868152,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 14871,
+      "num": 16416,
+      "word": "我国正研发六足登月机器人",
+      "onboard_time": 1731871811,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14463,
@@ -563,19 +595,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 12939,
-      "num": 30554,
-      "word": "珠海航展最后一天人山人海",
-      "onboard_time": 1731871092,
-      "rank": 19,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 12879,
-      "num": 28204,
-      "word": "日本自民党高官再提自卫队常驻美国",
-      "onboard_time": 1731871510,
-      "rank": 24,
+      "raw_hot": 14408,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
       "category": "国际时政"
     },
     {
