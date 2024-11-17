@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731878442066,
+  "endTime": 1731879324421,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -48619,6 +48619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42498,
+      "num": 42498,
+      "word": "以色列上万名抗议者呼吁停战",
+      "onboard_time": 1731876191,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42444,
       "num": 192616,
       "word": "大梦归离三杯酒换一剑",
@@ -48945,14 +48953,6 @@
       "onboard_time": 1730646320,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41087,
-      "num": 41087,
-      "word": "以色列上万名抗议者呼吁停战",
-      "onboard_time": 1731876191,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 41044,
@@ -53851,6 +53851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 22566,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22563,
       "num": 47952,
       "word": "蜂花真假闺蜜画师账号已改名",
@@ -54145,6 +54153,14 @@
       "onboard_time": 1730539699,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21364,
+      "num": 20438,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21351,
@@ -54803,12 +54819,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 19349,
-      "num": 36318,
-      "word": "里约热内卢G20时间",
-      "onboard_time": 1731874211,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 19339,
+      "num": 30554,
+      "word": "珠海航展最后一天人山人海",
+      "onboard_time": 1731871092,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 19294,
@@ -54915,14 +54931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18917,
-      "num": 18917,
-      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
-      "onboard_time": 1731876850,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18909,
       "num": 308671,
       "word": "三大股指今日低开",
@@ -54945,14 +54953,6 @@
       "onboard_time": 1731712754,
       "rank": 38,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 18827,
-      "num": 30554,
-      "word": "珠海航展最后一天人山人海",
-      "onboard_time": 1731871092,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 18812,
@@ -54993,6 +54993,14 @@
       "onboard_time": 1731175634,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18607,
+      "num": 20622,
+      "word": "试飞员也是普通人但干着惊天动地的事",
+      "onboard_time": 1731877691,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 18602,
@@ -55315,6 +55323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17368,
+      "num": 23643,
+      "word": "中国航展最后一天",
+      "onboard_time": 1731868152,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 17357,
       "num": 328126,
       "word": "良品铺子回应配料表造假传闻",
@@ -55537,14 +55553,6 @@
       "onboard_time": 1730996478,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16473,
-      "num": 23643,
-      "word": "中国航展最后一天",
-      "onboard_time": 1731868152,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 16428,
@@ -56763,14 +56771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11761,
-      "num": 20576,
-      "word": "试飞员也是普通人但干着惊天动地的事",
-      "onboard_time": 1731877691,
-      "rank": 19,
-      "category": "军事"
-    },
-    {
       "raw_hot": 11742,
       "num": 744516,
       "word": "中国与APEC双向奔赴了",
@@ -56881,6 +56881,14 @@
       "onboard_time": 1731611171,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11297,
+      "num": 21132,
+      "word": "梦想号能抵御16级的超强台风",
+      "onboard_time": 1731876551,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 11228,
