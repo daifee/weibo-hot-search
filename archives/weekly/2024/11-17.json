@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731839009427,
+  "endTime": 1731840072719,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -24,6 +24,14 @@
       "word": "永夜星河大结局",
       "onboard_time": 1731837739,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2048440,
+      "num": 436857,
+      "word": "永夜星河 HE",
+      "onboard_time": 1731839117,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 732721,
+      "num": 318621,
+      "word": "郑钦文回应像科比",
+      "onboard_time": 1731836957,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 711022,
       "num": 415410,
       "word": "35岁对未婚未育女生意味着什么",
@@ -313,6 +329,14 @@
       "onboard_time": 1731811459,
       "rank": 24,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 603880,
+      "num": 310782,
+      "word": "月薪四千24岁女生有车的变化",
+      "onboard_time": 1731838158,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 602050,
@@ -401,14 +425,6 @@
       "onboard_time": 1731765082,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 466433,
-      "num": 310782,
-      "word": "月薪四千24岁女生有车的变化",
-      "onboard_time": 1731838158,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 465902,
@@ -521,14 +537,6 @@
       "onboard_time": 1731772161,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318621,
-      "num": 318621,
-      "word": "郑钦文回应像科比",
-      "onboard_time": 1731836957,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 313406,
@@ -723,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245795,
+      "num": 245795,
+      "word": "印度示威者高喊自己才是加拿大的主人",
+      "onboard_time": 1731839058,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 244174,
       "num": 244174,
       "word": "格林威治",
@@ -785,6 +801,14 @@
       "onboard_time": 1731771682,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232294,
+      "num": 232294,
+      "word": "传奇杯",
+      "onboard_time": 1731838579,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 230178,
@@ -939,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190135,
+      "num": 190135,
+      "word": "肖战骑马训练花絮",
+      "onboard_time": 1731838938,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188965,
       "num": 183450,
       "word": "王一博紧张得深呼吸",
@@ -1019,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182339,
-      "num": 182339,
-      "word": "肖战骑马训练花絮",
-      "onboard_time": 1731838938,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 182194,
       "num": 182194,
       "word": "声生不息港乐季2首发阵容",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1731820941,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179363,
+      "num": 179363,
+      "word": "目击者称女孩和商场玻璃一同坠落",
+      "onboard_time": 1731839538,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176175,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1731773899,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154677,
+      "num": 154677,
+      "word": "微笑回应水晶哥队判负",
+      "onboard_time": 1731838278,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 152570,
@@ -1363,14 +1403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 137899,
-      "num": 137899,
-      "word": "传奇杯",
-      "onboard_time": 1731838579,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
@@ -1395,11 +1427,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134859,
-      "num": 134859,
-      "word": "微笑回应水晶哥队判负",
-      "onboard_time": 1731838278,
-      "rank": 41,
+      "raw_hot": 134428,
+      "num": 134428,
+      "word": "老头杯",
+      "onboard_time": 1731839778,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -1409,6 +1441,14 @@
       "onboard_time": 1731809719,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133494,
+      "num": 133494,
+      "word": "林一现偶",
+      "onboard_time": 1731839598,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 132653,
@@ -1571,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112840,
+      "num": 112840,
+      "word": "小巷人家卧龙凤雏大he",
+      "onboard_time": 1731837498,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112519,
       "num": 237624,
       "word": "马琳回应陈梦退赛",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1731823219,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110910,
+      "num": 110910,
+      "word": "宁艺卓KGMA颁奖礼红毯",
+      "onboard_time": 1731840019,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 110548,
@@ -1657,14 +1713,6 @@
       "onboard_time": 1731800596,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106596,
-      "num": 104975,
-      "word": "小巷人家卧龙凤雏大he",
-      "onboard_time": 1731837498,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 106042,
@@ -1963,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63507,
+      "num": 201234,
+      "word": "孙乐言生日聚会",
+      "onboard_time": 1731839298,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62232,
       "num": 190896,
       "word": "水晶哥谈KO队现状",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1731820700,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50085,
+      "num": 215542,
+      "word": "中国航展绝美壁纸大放送",
+      "onboard_time": 1731839117,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 49620,
@@ -2243,7 +2307,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33730,
+      "raw_hot": 33972,
       "num": 314789,
       "word": "郑钦文有了新身份",
       "onboard_time": 1731836298,
@@ -2339,6 +2403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26060,
+      "num": 317906,
+      "word": "希望质疑学校的学生不会被区别对待",
+      "onboard_time": 1731837978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25470,
       "num": 469607,
       "word": "股价异动不用披露了系误读",
@@ -2395,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20398,
+      "num": 339216,
+      "word": "钱凯港可将中秘航程缩短至23天",
+      "onboard_time": 1731837859,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20271,
       "num": 396849,
       "word": "看了会变清新的去班味大法",
@@ -2441,14 +2521,6 @@
       "onboard_time": 1731787511,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16956,
-      "num": 317906,
-      "word": "希望质疑学校的学生不会被区别对待",
-      "onboard_time": 1731837978,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16833,
@@ -2577,14 +2649,6 @@
       "onboard_time": 1731778218,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10936,
-      "num": 339216,
-      "word": "钱凯港可将中秘航程缩短至23天",
-      "onboard_time": 1731837859,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10611,
