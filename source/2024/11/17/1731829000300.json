@@ -1,0 +1,410 @@
+{
+  "runTime": 1731829000300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 873527,
+        "num": 1139764,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 850945,
+        "num": 850945,
+        "word": "王安宇上桌",
+        "onboard_time": 1731822199,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11742,
+        "num": 744516,
+        "word": "中国与APEC双向奔赴了",
+        "onboard_time": 1731807079,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 869876,
+        "num": 737041,
+        "word": "被丈夫举报出轨学生女教师二提离婚",
+        "onboard_time": 1731820759,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691832,
+        "num": 691832,
+        "word": "黄翠如官宣怀孕",
+        "onboard_time": 1731825318,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686878,
+        "num": 686878,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648309,
+        "num": 648309,
+        "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+        "onboard_time": 1731817941,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 582328,
+        "num": 582328,
+        "word": "西南政法大学喊话徐枫灿",
+        "onboard_time": 1731827299,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 577950,
+        "num": 577950,
+        "word": "让杨子害怕的女人出现了",
+        "onboard_time": 1731825978,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66829,
+        "num": 498385,
+        "word": "第十五届中国航展闭幕",
+        "onboard_time": 1731825379,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 698460,
+        "num": 494687,
+        "word": "卫生巾 C类",
+        "onboard_time": 1731814038,
+        "rank": 10,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 482385,
+        "num": 482385,
+        "word": "吴倩带女儿出行",
+        "onboard_time": 1731824179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366965,
+        "num": 366965,
+        "word": "中方不会允许朝鲜半岛生战生乱",
+        "onboard_time": 1731819559,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363812,
+        "num": 363812,
+        "word": "捐日军侵华相册美国小伙在家穿防弹背心",
+        "onboard_time": 1731826638,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 334632,
+        "num": 334632,
+        "word": "永夜星河超点",
+        "onboard_time": 1731823160,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330169,
+        "num": 330169,
+        "word": "31岁女生不婚不生的真实感受",
+        "onboard_time": 1731820580,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303957,
+        "num": 303957,
+        "word": "35岁对未婚未育女生意味着什么",
+        "onboard_time": 1731816738,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298539,
+        "num": 298539,
+        "word": "三里屯三姐妹",
+        "onboard_time": 1731818299,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283005,
+        "num": 283005,
+        "word": "甄嬛传晚会官宣",
+        "onboard_time": 1731823099,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131439,
+        "num": 270202,
+        "word": "刘雯井柏然一起现身机场",
+        "onboard_time": 1731824599,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106738,
+        "num": 265979,
+        "word": "减重版司美格鲁肽在中国正式上市",
+        "onboard_time": 1731821960,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264871,
+        "num": 264871,
+        "word": "李庚希回应金鸡影后",
+        "onboard_time": 1731813679,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225336,
+        "num": 225336,
+        "word": "烧伤妈妈丈夫问没有房产证如何卖房",
+        "onboard_time": 1731819620,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222325,
+        "num": 222325,
+        "word": "丁禹兮背虞书欣",
+        "onboard_time": 1731825559,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219564,
+        "num": 219564,
+        "word": "已确认超40只宠物狗疑似中毒死亡",
+        "onboard_time": 1731811578,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194740,
+        "num": 194740,
+        "word": "精神病患捐空家里积蓄40多万无法要回",
+        "onboard_time": 1731822019,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182194,
+        "num": 182194,
+        "word": "声生不息港乐季2首发阵容",
+        "onboard_time": 1731825379,
+        "rank": 26,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 165960,
+        "num": 165960,
+        "word": "多少年轻人把冰箱当时间静止器用",
+        "onboard_time": 1731819440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157739,
+        "num": 157739,
+        "word": "孙颖莎入选亚太U30杰出青年领袖",
+        "onboard_time": 1731820339,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146014,
+        "num": 146014,
+        "word": "小巷人家",
+        "onboard_time": 1731817579,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140443,
+        "num": 140443,
+        "word": "李诗沣日本赛男单冠军",
+        "onboard_time": 1731826699,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138190,
+        "num": 138190,
+        "word": "2中企高管在菲遭撕票案主犯落网",
+        "onboard_time": 1731817877,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133669,
+        "num": 133669,
+        "word": "舒淇林心如林熙蕾同游日本",
+        "onboard_time": 1731824899,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "樊振东入选亚太U30杰出青年领袖",
+        "onboard_time": 1731828320,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126854,
+        "num": 126854,
+        "word": "日本偶遇罗恩",
+        "onboard_time": 1731827058,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125634,
+        "num": 125634,
+        "word": "妻子患癌去世丈夫失联构成遗弃罪",
+        "onboard_time": 1731818239,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117351,
+        "num": 117351,
+        "word": "女性上桌不代表男性下桌",
+        "onboard_time": 1731815900,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116511,
+        "num": 116511,
+        "word": "没了手机的生活会是什么样",
+        "onboard_time": 1731823338,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114040,
+        "num": 114040,
+        "word": "张远原来万人场的星光是这样的",
+        "onboard_time": 1731828379,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111780,
+        "num": 111780,
+        "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
+        "onboard_time": 1731821538,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106709,
+        "num": 106709,
+        "word": "女生火裙舞表演裙摆意外被点燃",
+        "onboard_time": 1731827058,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96118,
+        "num": 96118,
+        "word": "张予曦也自己化妆了",
+        "onboard_time": 1731811099,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 94395,
+        "num": 94395,
+        "word": "彭高参加乐言生日聚会",
+        "onboard_time": 1731810199,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91079,
+        "num": 91079,
+        "word": "BLG疑似全员续约",
+        "onboard_time": 1731825978,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89616,
+        "num": 89616,
+        "word": "关晓彤周洁琼对手戏",
+        "onboard_time": 1731822319,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84591,
+        "num": 84591,
+        "word": "UFC",
+        "onboard_time": 1731824059,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84341,
+        "num": 84341,
+        "word": "本届中国航展签约金额超2800亿",
+        "onboard_time": 1731827598,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 83866,
+        "num": 83866,
+        "word": "丁程鑫预言家造型",
+        "onboard_time": 1731827419,
+        "rank": 47,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 82646,
+        "num": 82646,
+        "word": "涵艺爆料BeryL回归DK",
+        "onboard_time": 1731825559,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81283,
+        "num": 81283,
+        "word": "涵艺说LPL报价Zeus",
+        "onboard_time": 1731825198,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国发展将为世界发展提供更多新机遇#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731828080027,
+  "endTime": 1731829000300,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -244,11 +244,27 @@
     },
     {
       "raw_hot": 601466,
-      "num": 394027,
+      "num": 482385,
       "word": "吴倩带女儿出行",
       "onboard_time": 1731824179,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582328,
+      "num": 582328,
+      "word": "西南政法大学喊话徐枫灿",
+      "onboard_time": 1731827299,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 577950,
+      "num": 577950,
+      "word": "让杨子害怕的女人出现了",
+      "onboard_time": 1731825978,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 550147,
@@ -371,12 +387,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 375272,
-      "num": 375272,
-      "word": "让杨子害怕的女人出现了",
-      "onboard_time": 1731825978,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 363812,
+      "num": 363812,
+      "word": "捐日军侵华相册美国小伙在家穿防弹背心",
+      "onboard_time": 1731826638,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 360951,
@@ -409,14 +425,6 @@
       "onboard_time": 1731800415,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322635,
-      "num": 322635,
-      "word": "西南政法大学喊话徐枫灿",
-      "onboard_time": 1731827299,
-      "rank": 17,
-      "category": "军事"
     },
     {
       "raw_hot": 319207,
@@ -635,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223628,
-      "num": 223628,
-      "word": "捐日军侵华相册美国小伙在家穿防弹背心",
-      "onboard_time": 1731826638,
-      "rank": 26,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 223305,
       "num": 223305,
       "word": "塔图姆绝杀",
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 204880,
-      "num": 167893,
+      "num": 270202,
       "word": "刘雯井柏然一起现身机场",
       "onboard_time": 1731824599,
       "rank": 35,
@@ -811,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182194,
+      "num": 182194,
+      "word": "声生不息港乐季2首发阵容",
+      "onboard_time": 1731825379,
+      "rank": 33,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 180073,
       "num": 274818,
       "word": "孙颖莎出席福冈总决赛抽签",
@@ -905,14 +913,6 @@
       "onboard_time": 1731766885,
       "rank": 17,
       "category": "军事"
-    },
-    {
-      "raw_hot": 161277,
-      "num": 161277,
-      "word": "声生不息港乐季2首发阵容",
-      "onboard_time": 1731825379,
-      "rank": 33,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 158170,
@@ -1083,6 +1083,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 140443,
+      "num": 140443,
+      "word": "李诗沣日本赛男单冠军",
+      "onboard_time": 1731826699,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139053,
       "num": 139053,
       "word": "AG成功复仇春决",
@@ -1131,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131552,
+      "num": 131552,
+      "word": "樊振东入选亚太U30杰出青年领袖",
+      "onboard_time": 1731828320,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128191,
       "num": 128191,
       "word": "丁程鑫预言家造型",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1731824599,
       "rank": 17,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 126854,
+      "num": 317460,
+      "word": "日本偶遇罗恩",
+      "onboard_time": 1731827058,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 124794,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1731814759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114040,
+      "num": 114040,
+      "word": "张远原来万人场的星光是这样的",
+      "onboard_time": 1731828379,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 112519,
@@ -1304,14 +1336,6 @@
       "word": "小胖状态",
       "onboard_time": 1731769283,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102264,
-      "num": 102264,
-      "word": "李诗沣日本赛男单冠军",
-      "onboard_time": 1731826699,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1427,14 +1451,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 90316,
-      "num": 317460,
-      "word": "日本偶遇罗恩",
-      "onboard_time": 1731827058,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89724,
       "num": 235013,
       "word": "奥地利称俄停止向其供应天然气",
@@ -1491,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84341,
+      "num": 316397,
+      "word": "本届中国航展签约金额超2800亿",
+      "onboard_time": 1731827598,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 76663,
       "num": 264855,
       "word": "gidle获奖感言",
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 71633,
-      "num": 357830,
+      "num": 498385,
       "word": "第十五届中国航展闭幕",
       "onboard_time": 1731825379,
       "rank": 19,
@@ -1593,14 +1617,6 @@
       "onboard_time": 1731821059,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 58425,
-      "num": 316397,
-      "word": "本届中国航展签约金额超2800亿",
-      "onboard_time": 1731827598,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 58386,
@@ -2073,6 +2089,14 @@
       "onboard_time": 1731784812,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11742,
+      "num": 744516,
+      "word": "中国与APEC双向奔赴了",
+      "onboard_time": 1731807079,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11228,
