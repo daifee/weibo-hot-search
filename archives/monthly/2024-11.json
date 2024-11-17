@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731843323228,
+  "endTime": 1731847241899,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 1637382,
-      "num": 357235,
+      "num": 373263,
       "word": "目击者称女孩和商场玻璃一同坠落",
       "onboard_time": 1731839538,
       "rank": 28,
@@ -2401,6 +2401,14 @@
       "onboard_time": 1730877453,
       "rank": 26,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1334012,
+      "num": 396713,
+      "word": "小巷人家大结局",
+      "onboard_time": 1731845299,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1330559,
@@ -5235,6 +5243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 826602,
+      "num": 395787,
+      "word": "永夜星河无缝衔接月光变奏曲",
+      "onboard_time": 1731844940,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 824462,
       "num": 1131913,
       "word": "除夕不用请假了你打算回家还是旅游",
@@ -5305,6 +5321,14 @@
       "onboard_time": 1730866045,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 816551,
+      "num": 388429,
+      "word": "子期 皮套",
+      "onboard_time": 1731841519,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 815524,
@@ -7587,6 +7611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 628063,
+      "num": 362949,
+      "word": "怨女原来在慕瑶体内",
+      "onboard_time": 1731846858,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628058,
       "num": 628058,
       "word": "杨幂与国旗同框",
@@ -8512,6 +8544,14 @@
       "word": "校园招聘严禁限定985和211高校",
       "onboard_time": 1731516797,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576376,
+      "num": 396693,
+      "word": "广州宠物狗疑似中毒死亡数仍在增加",
+      "onboard_time": 1731844099,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -12699,6 +12739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396941,
+      "num": 396941,
+      "word": "官方回应济宁一女孩商场内坠亡",
+      "onboard_time": 1731844039,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 396387,
       "num": 466938,
       "word": "永夜星河买了原版版权",
@@ -13731,6 +13779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360893,
+      "num": 360893,
+      "word": "李梦晒与朋友聊天记录谈友情",
+      "onboard_time": 1731845478,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360613,
       "num": 360613,
       "word": "子期杀了子期",
@@ -14185,6 +14241,14 @@
       "onboard_time": 1731224359,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344870,
+      "num": 344870,
+      "word": "意大利车展中国三蹦子火了",
+      "onboard_time": 1731842239,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 344863,
@@ -16844,7 +16908,7 @@
     },
     {
       "raw_hot": 278258,
-      "num": 142116,
+      "num": 179108,
       "word": "商场刚开业女孩因护栏脱落坠亡",
       "onboard_time": 1731842180,
       "rank": 31,
@@ -19035,6 +19099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242848,
+      "num": 178348,
+      "word": "珠海航展2万1套半真枪被抢光",
+      "onboard_time": 1731846139,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
       "raw_hot": 242520,
       "num": 312793,
       "word": "永夜星河预告",
@@ -19745,6 +19817,14 @@
       "onboard_time": 1731574641,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231926,
+      "num": 178073,
+      "word": "2025内娱最受期待十大综艺",
+      "onboard_time": 1731843318,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 231882,
@@ -21235,6 +21315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213124,
+      "num": 175958,
+      "word": "Suki怒喷Puff",
+      "onboard_time": 1731846559,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213101,
       "num": 213101,
       "word": "永夜星河收妖塔 浣衣局",
@@ -21913,6 +22001,14 @@
       "onboard_time": 1731079880,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207829,
+      "num": 176614,
+      "word": "胡先煦 饭好吃确实没人说话",
+      "onboard_time": 1731846379,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 207821,
@@ -25611,6 +25707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187152,
+      "num": 174391,
+      "word": "顾客试衣服7小时买走15件",
+      "onboard_time": 1731847040,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187027,
       "num": 187027,
       "word": "终于明白北方人说三层穿衣法保暖了",
@@ -26497,6 +26601,14 @@
       "onboard_time": 1731251600,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181225,
+      "num": 181225,
+      "word": "姑娘面试销售贷款9万买公司设备",
+      "onboard_time": 1731843799,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181199,
@@ -27635,6 +27747,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174096,
+      "num": 174096,
+      "word": "奖励沈腾马丽演将门毒后",
+      "onboard_time": 1731842118,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173999,
+      "num": 377240,
+      "word": "央视揭秘职业闭店人黑产链",
+      "onboard_time": 1731844518,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 173998,
       "num": 258266,
       "word": "代高政 脱的衣服我要一件件穿回来",
@@ -27817,6 +27945,14 @@
       "onboard_time": 1731377779,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173135,
+      "num": 173135,
+      "word": "李子柒师傅谈李子柒艰辛三年",
+      "onboard_time": 1731846678,
+      "rank": 36,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 173117,
@@ -28411,6 +28547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169795,
+      "num": 169795,
+      "word": "声生不息港乐季2",
+      "onboard_time": 1731845839,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169792,
       "num": 169792,
       "word": "黎巴嫩一座250年建筑被炸成平地",
@@ -28497,6 +28641,14 @@
       "onboard_time": 1731200237,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169321,
+      "num": 177139,
+      "word": "一个人改造爸妈住了30年的卧室",
+      "onboard_time": 1731844879,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 169312,
@@ -29795,6 +29947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162170,
+      "num": 162170,
+      "word": "月光变奏曲前传",
+      "onboard_time": 1731843918,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162127,
       "num": 162127,
       "word": "比起牺牲更希望父母有自己的人生",
@@ -29977,6 +30137,14 @@
       "onboard_time": 1730611578,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161347,
+      "num": 161347,
+      "word": "丁禹兮新歌发布通知",
+      "onboard_time": 1731845059,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 161308,
@@ -32275,6 +32443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150391,
+      "num": 150391,
+      "word": "济宁回应一小女孩从商场四楼坠落",
+      "onboard_time": 1731843619,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 150336,
       "num": 150336,
       "word": "歼20S战斗机正式揭开神秘面纱",
@@ -33057,6 +33233,14 @@
       "onboard_time": 1730454858,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146173,
+      "num": 146173,
+      "word": "恋与深空 豫园",
+      "onboard_time": 1731842839,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 146148,
@@ -34075,20 +34259,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140552,
+      "num": 140552,
+      "word": "Uzi谈水晶哥队判负",
+      "onboard_time": 1731846979,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140536,
       "num": 140536,
       "word": "金智秀新歌制作团队",
       "onboard_time": 1730540778,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 140523,
-      "num": 140523,
-      "word": "意大利车展中国三蹦子火了",
-      "onboard_time": 1731842239,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 140480,
@@ -34523,14 +34707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138242,
-      "num": 138242,
-      "word": "恋与深空 豫园",
-      "onboard_time": 1731842839,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138238,
       "num": 337377,
       "word": "潘宏爱玩狗称自己做得没错",
@@ -34873,6 +35049,14 @@
       "onboard_time": 1731484639,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136164,
+      "num": 136164,
+      "word": "金鸡奖女演员合照",
+      "onboard_time": 1731845778,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 136163,
@@ -38859,6 +39043,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 113575,
+      "num": 201234,
+      "word": "孙乐言生日聚会",
+      "onboard_time": 1731839298,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113551,
       "num": 113551,
       "word": "鸡柳哥1部剧获得6个绰号",
@@ -39625,14 +39817,6 @@
       "onboard_time": 1731205457,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108662,
-      "num": 108662,
-      "word": "奖励沈腾马丽演将门毒后",
-      "onboard_time": 1731842118,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108611,
@@ -44649,14 +44833,6 @@
       "onboard_time": 1731655578,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63507,
-      "num": 201234,
-      "word": "孙乐言生日聚会",
-      "onboard_time": 1731839298,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 63506,
@@ -50145,6 +50321,14 @@
       "onboard_time": 1730553561,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33074,
+      "num": 181059,
+      "word": "揽胜太有范儿了",
+      "onboard_time": 1731846498,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 33065,
@@ -56155,6 +56339,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 9895,
+      "num": 396754,
+      "word": "一组知识帖助你了解G20",
+      "onboard_time": 1731831018,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9797,
       "num": 201044,
       "word": "小伙把家乡做成游戏拟登陆steam",
@@ -56369,6 +56561,14 @@
       "onboard_time": 1731328159,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6882,
+      "num": 178635,
+      "word": "谢霆锋晒苏翊鸣to签滑雪板",
+      "onboard_time": 1731847159,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 6848,

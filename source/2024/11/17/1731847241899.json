@@ -1,0 +1,410 @@
+{
+  "runTime": 1731847241899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1348856,
+        "num": 1348856,
+        "word": "永夜星河 HE",
+        "onboard_time": 1731839117,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396941,
+        "num": 396941,
+        "word": "官方回应济宁一女孩商场内坠亡",
+        "onboard_time": 1731844039,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 9895,
+        "num": 396754,
+        "word": "一组知识帖助你了解G20",
+        "onboard_time": 1731831018,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1334012,
+        "num": 396713,
+        "word": "小巷人家大结局",
+        "onboard_time": 1731845299,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576376,
+        "num": 396693,
+        "word": "广州宠物狗疑似中毒死亡数仍在增加",
+        "onboard_time": 1731844099,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396662,
+        "num": 396662,
+        "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+        "onboard_time": 1731817941,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 826602,
+        "num": 395787,
+        "word": "永夜星河无缝衔接月光变奏曲",
+        "onboard_time": 1731844940,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389244,
+        "num": 389244,
+        "word": "印度示威者高喊自己才是加拿大的主人",
+        "onboard_time": 1731839058,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 816551,
+        "num": 388429,
+        "word": "子期 皮套",
+        "onboard_time": 1731841519,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173999,
+        "num": 377240,
+        "word": "央视揭秘职业闭店人黑产链",
+        "onboard_time": 1731844518,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1261123,
+        "num": 373263,
+        "word": "目击者称女孩和商场玻璃一同坠落",
+        "onboard_time": 1731839538,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628063,
+        "num": 362949,
+        "word": "怨女原来在慕瑶体内",
+        "onboard_time": 1731846858,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360893,
+        "num": 360893,
+        "word": "李梦晒与朋友聊天记录谈友情",
+        "onboard_time": 1731845478,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344870,
+        "num": 344870,
+        "word": "意大利车展中国三蹦子火了",
+        "onboard_time": 1731842239,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 344575,
+        "num": 344575,
+        "word": "永夜星河大结局",
+        "onboard_time": 1731837739,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319526,
+        "num": 319526,
+        "word": "王一栩白锦锦各领十巴掌",
+        "onboard_time": 1731840558,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266887,
+        "num": 266887,
+        "word": "郑钦文回应像科比",
+        "onboard_time": 1731836957,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261445,
+        "num": 261445,
+        "word": "恋与深空",
+        "onboard_time": 1731845539,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181225,
+        "num": 181225,
+        "word": "姑娘面试销售贷款9万买公司设备",
+        "onboard_time": 1731843799,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33074,
+        "num": 181059,
+        "word": "揽胜太有范儿了",
+        "onboard_time": 1731846498,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 440889,
+        "num": 180736,
+        "word": "月薪四千24岁女生有车的变化",
+        "onboard_time": 1731838158,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 380724,
+        "num": 180007,
+        "word": "马斯克发帖嘲笑泽连斯基言论",
+        "onboard_time": 1731840320,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281540,
+        "num": 179754,
+        "word": "被丈夫举报出轨学生女教师二提离婚",
+        "onboard_time": 1731820759,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253534,
+        "num": 179108,
+        "word": "商场刚开业女孩因护栏脱落坠亡",
+        "onboard_time": 1731842180,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6882,
+        "num": 178635,
+        "word": "谢霆锋晒苏翊鸣to签滑雪板",
+        "onboard_time": 1731847159,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242848,
+        "num": 178348,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 231926,
+        "num": 178073,
+        "word": "2025内娱最受期待十大综艺",
+        "onboard_time": 1731843318,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219376,
+        "num": 177470,
+        "word": "黄玲停薪留职",
+        "onboard_time": 1731836239,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169321,
+        "num": 177139,
+        "word": "一个人改造爸妈住了30年的卧室",
+        "onboard_time": 1731844879,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207829,
+        "num": 176614,
+        "word": "胡先煦 饭好吃确实没人说话",
+        "onboard_time": 1731846379,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213124,
+        "num": 175958,
+        "word": "Suki怒喷Puff",
+        "onboard_time": 1731846559,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203428,
+        "num": 175486,
+        "word": "换血减龄的美亿万富翁整脸翻车",
+        "onboard_time": 1731834680,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201051,
+        "num": 175252,
+        "word": "月光变奏曲",
+        "onboard_time": 1731846259,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193546,
+        "num": 174562,
+        "word": "宋祖儿更新日常",
+        "onboard_time": 1731833239,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187152,
+        "num": 174391,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174096,
+        "num": 174096,
+        "word": "奖励沈腾马丽演将门毒后",
+        "onboard_time": 1731842118,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173135,
+        "num": 173135,
+        "word": "李子柒师傅谈李子柒艰辛三年",
+        "onboard_time": 1731846678,
+        "rank": 36,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 169795,
+        "num": 169795,
+        "word": "声生不息港乐季2",
+        "onboard_time": 1731845839,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162170,
+        "num": 162170,
+        "word": "月光变奏曲前传",
+        "onboard_time": 1731843918,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161347,
+        "num": 161347,
+        "word": "丁禹兮新歌发布通知",
+        "onboard_time": 1731845059,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150391,
+        "num": 150391,
+        "word": "济宁回应一小女孩从商场四楼坠落",
+        "onboard_time": 1731843619,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 149715,
+        "num": 149715,
+        "word": "将门毒后",
+        "onboard_time": 1731833239,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148634,
+        "num": 148634,
+        "word": "美国不支持台湾独立",
+        "onboard_time": 1731805999,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146173,
+        "num": 146173,
+        "word": "恋与深空 豫园",
+        "onboard_time": 1731842839,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140552,
+        "num": 140552,
+        "word": "Uzi谈水晶哥队判负",
+        "onboard_time": 1731846979,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136164,
+        "num": 136164,
+        "word": "金鸡奖女演员合照",
+        "onboard_time": 1731845778,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132868,
+        "num": 132868,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121712,
+        "num": 121712,
+        "word": "卫生巾 C类",
+        "onboard_time": 1731814038,
+        "rank": 47,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 114301,
+        "num": 114301,
+        "word": "安宥真开球状态",
+        "onboard_time": 1731840260,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113575,
+        "num": 113575,
+        "word": "孙乐言生日聚会",
+        "onboard_time": 1731839298,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在巴西媒体发表署名文章#"
+    }
+  }
+}
