@@ -1,0 +1,410 @@
+{
+  "runTime": 1731850007317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344318,
+        "num": 1344318,
+        "word": "小巷人家大结局",
+        "onboard_time": 1731845299,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760790,
+        "num": 760790,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 6678,
+        "num": 523647,
+        "word": "一组知识帖助你了解G20",
+        "onboard_time": 1731831018,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1140974,
+        "num": 514961,
+        "word": "永夜星河 HE",
+        "onboard_time": 1731839117,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498510,
+        "num": 498510,
+        "word": "央视揭秘职业闭店人黑产链",
+        "onboard_time": 1731844518,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 372837,
+        "num": 372837,
+        "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+        "onboard_time": 1731817941,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 660404,
+        "num": 347348,
+        "word": "怨女原来在慕瑶体内",
+        "onboard_time": 1731846858,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275017,
+        "num": 275017,
+        "word": "姑娘面试销售贷款9万买公司设备",
+        "onboard_time": 1731843799,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18179,
+        "num": 274565,
+        "word": "航天员在太空开启上班模式",
+        "onboard_time": 1731826518,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18467,
+        "num": 271744,
+        "word": "我国实施67次航天发射居世界第二",
+        "onboard_time": 1731849439,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1451468,
+        "num": 269745,
+        "word": "官方回应济宁一女孩商场内坠亡",
+        "onboard_time": 1731844039,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 655735,
+        "num": 268135,
+        "word": "王一栩 爱奇艺卧底",
+        "onboard_time": 1731848299,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524014,
+        "num": 265615,
+        "word": "永夜星河无缝衔接月光变奏曲",
+        "onboard_time": 1731844940,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420747,
+        "num": 263746,
+        "word": "奥斯卡 孙乐言",
+        "onboard_time": 1731849260,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392230,
+        "num": 261834,
+        "word": "子期 皮套",
+        "onboard_time": 1731841519,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380082,
+        "num": 258651,
+        "word": "李子柒师傅谈李子柒艰辛三年",
+        "onboard_time": 1731846678,
+        "rank": 15,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 351718,
+        "num": 257665,
+        "word": "周润发说权志龙变靓女了",
+        "onboard_time": 1731849080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345859,
+        "num": 255925,
+        "word": "李梦晒与朋友聊天记录谈友情",
+        "onboard_time": 1731845478,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342254,
+        "num": 252929,
+        "word": "2025内娱最受期待十大综艺",
+        "onboard_time": 1731843318,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26875,
+        "num": 251447,
+        "word": "男子徒步哈巴雪山失联近10天",
+        "onboard_time": 1731848600,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1211639,
+        "num": 250117,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659576,
+        "num": 246859,
+        "word": "目击者称女孩和商场玻璃一同坠落",
+        "onboard_time": 1731839538,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359454,
+        "num": 245373,
+        "word": "月薪四千24岁女生有车的变化",
+        "onboard_time": 1731838158,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513859,
+        "num": 243557,
+        "word": "广州宠物狗疑似中毒死亡数仍在增加",
+        "onboard_time": 1731844099,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296666,
+        "num": 241584,
+        "word": "永夜星河大结局",
+        "onboard_time": 1731837739,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239833,
+        "num": 239833,
+        "word": "孙俪陪女儿参加拉丁舞比赛",
+        "onboard_time": 1731848360,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 196061,
+        "word": "柳智敏看金玟庭的眼神",
+        "onboard_time": 1731848960,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192921,
+        "num": 192921,
+        "word": "印度示威者高喊自己才是加拿大的主人",
+        "onboard_time": 1731839058,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190248,
+        "num": 190248,
+        "word": "宋亚轩撒娇前vs撒娇后",
+        "onboard_time": 1731849380,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50134,
+        "num": 190077,
+        "word": "小巷人家大团圆",
+        "onboard_time": 1731849139,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190007,
+        "num": 190007,
+        "word": "ABC卫生巾",
+        "onboard_time": 1731816619,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188471,
+        "num": 188471,
+        "word": "换血减龄的美亿万富翁整脸翻车",
+        "onboard_time": 1731834680,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185495,
+        "num": 185495,
+        "word": "美国确诊首例猴痘新变异株感染者",
+        "onboard_time": 1731849020,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182505,
+        "num": 182505,
+        "word": "奶龙",
+        "onboard_time": 1731849260,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32587,
+        "num": 169286,
+        "word": "揽胜太有范儿了",
+        "onboard_time": 1731846498,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165389,
+        "num": 165389,
+        "word": "意大利车展中国三蹦子火了",
+        "onboard_time": 1731842239,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156836,
+        "num": 156836,
+        "word": "王一栩白锦锦各领十巴掌",
+        "onboard_time": 1731840558,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155645,
+        "num": 155645,
+        "word": "马斯克发帖嘲笑泽连斯基言论",
+        "onboard_time": 1731840320,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154454,
+        "num": 154454,
+        "word": "郑钦文回应像科比",
+        "onboard_time": 1731836957,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144365,
+        "num": 144365,
+        "word": "珠海航展顶流文创已卖空",
+        "onboard_time": 1731848718,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 143518,
+        "num": 143518,
+        "word": "商场刚开业女孩因护栏脱落坠亡",
+        "onboard_time": 1731842180,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141873,
+        "num": 141873,
+        "word": "一个人改造爸妈住了30年的卧室",
+        "onboard_time": 1731844879,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141282,
+        "num": 141282,
+        "word": "月光变奏曲",
+        "onboard_time": 1731846259,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138264,
+        "num": 138264,
+        "word": "黄玲停薪留职",
+        "onboard_time": 1731836239,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135314,
+        "num": 135314,
+        "word": "Suki怒喷Puff",
+        "onboard_time": 1731846559,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132689,
+        "num": 132689,
+        "word": "孙乐言生日聚会",
+        "onboard_time": 1731839298,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39720,
+        "num": 131814,
+        "word": "跑酷世锦赛商春松摘金",
+        "onboard_time": 1731848539,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131738,
+        "num": 131738,
+        "word": "记者调查兰州牛皮纸井盖一碰就碎",
+        "onboard_time": 1731849860,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 126315,
+        "num": 126315,
+        "word": "汪苏泷陈楚生思念一个荒废的名字",
+        "onboard_time": 1731849980,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126313,
+        "num": 126313,
+        "word": "村里新换的井盖铁锹一敲一个洞",
+        "onboard_time": 1731849980,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#在习近平的比喻中看中国与亚太#"
+    }
+  }
+}
