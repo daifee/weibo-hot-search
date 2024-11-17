@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731850712478,
+  "endTime": 1731853178086,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1211639,
-      "num": 281191,
+      "num": 300647,
       "word": "顾客试衣服7小时买走15件",
       "onboard_time": 1731847040,
       "rank": 34,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 897706,
+      "num": 897706,
+      "word": "美国确诊首例猴痘新变异株感染者",
+      "onboard_time": 1731849020,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 892580,
       "num": 1142812,
       "word": "西南政法大学喊话徐枫灿",
@@ -241,6 +249,14 @@
       "onboard_time": 1731844940,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 821204,
+      "num": 313516,
+      "word": "周润发说权志龙变靓女了",
+      "onboard_time": 1731849080,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 816551,
@@ -435,6 +451,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 608879,
+      "num": 418271,
+      "word": "大结局虞书欣对面站的是丁禹兮",
+      "onboard_time": 1731848180,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 602050,
       "num": 602050,
       "word": "永夜星河能不能这样一辈子",
@@ -483,19 +507,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 555220,
-      "num": 313516,
-      "word": "周润发说权志龙变靓女了",
-      "onboard_time": 1731849080,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 550147,
       "num": 550147,
       "word": "甄嬛传晚会官宣",
       "onboard_time": 1731823099,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 539150,
+      "num": 397553,
+      "word": "大结局怎么没有鹏飞",
+      "onboard_time": 1731850520,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -579,12 +603,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433386,
+      "num": 307648,
+      "word": "世上再无子期",
+      "onboard_time": 1731850760,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432049,
       "num": 432049,
       "word": "AG夺冠",
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 423991,
+      "num": 305901,
+      "word": "虞书欣跳ohmybaby手势舞",
+      "onboard_time": 1731850040,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 421567,
+      "num": 421567,
+      "word": "记者调查兰州牛皮纸井盖一碰就碎",
+      "onboard_time": 1731849860,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 418219,
+      "num": 305342,
+      "word": "男子地铁猥亵被抓后下跪求原谅",
+      "onboard_time": 1731851181,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 414752,
@@ -683,6 +739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 351863,
+      "num": 304176,
+      "word": "奶龙",
+      "onboard_time": 1731849260,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344870,
       "num": 344870,
       "word": "意大利车展中国三蹦子火了",
@@ -707,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324408,
+      "num": 296408,
+      "word": "王源演唱会收官",
+      "onboard_time": 1731852321,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319207,
       "num": 273602,
       "word": "姜妍是虞书欣的认证闺蜜",
@@ -729,14 +801,6 @@
       "onboard_time": 1731768562,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 295455,
-      "num": 295455,
-      "word": "美国确诊首例猴痘新变异株感染者",
-      "onboard_time": 1731849020,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 294532,
@@ -859,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261355,
+      "num": 261355,
+      "word": "筱婷 大女主",
+      "onboard_time": 1731851660,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259833,
       "num": 259833,
       "word": "王者荣耀王昭君",
@@ -929,6 +1001,14 @@
       "onboard_time": 1731829158,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 247744,
+      "num": 247744,
+      "word": "卢昱晓配音谁找的",
+      "onboard_time": 1731852020,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 246706,
@@ -1019,20 +1099,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230567,
+      "num": 230567,
+      "word": "女子与婆婆厮打把儿子摔成颅内出血",
+      "onboard_time": 1731852921,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230178,
       "num": 230178,
       "word": "月鳞绮纪鞠婧祎一番",
       "onboard_time": 1731816859,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227623,
-      "num": 227623,
-      "word": "奶龙",
-      "onboard_time": 1731849260,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 223305,
@@ -1171,12 +1251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197818,
-      "num": 273426,
-      "word": "虞书欣跳ohmybaby手势舞",
-      "onboard_time": 1731850040,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 197483,
+      "num": 212989,
+      "word": "珠海航展顶流文创已卖空",
+      "onboard_time": 1731848718,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 196637,
@@ -1192,6 +1272,14 @@
       "word": "多少年轻人把冰箱当时间静止器用",
       "onboard_time": 1731819440,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195108,
+      "num": 195108,
+      "word": "保安收400元就被包装成企业高管",
+      "onboard_time": 1731850880,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1411,6 +1499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170452,
+      "num": 170452,
+      "word": "林更新问汪苏泷重庆到底有谁在",
+      "onboard_time": 1731853041,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170135,
       "num": 177139,
       "word": "一个人改造爸妈住了30年的卧室",
@@ -1483,14 +1579,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 161679,
-      "num": 212989,
-      "word": "珠海航展顶流文创已卖空",
-      "onboard_time": 1731848718,
-      "rank": 39,
-      "category": "军事"
-    },
-    {
       "raw_hot": 161347,
       "num": 161347,
       "word": "丁禹兮新歌发布通知",
@@ -1499,12 +1587,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161283,
+      "num": 161283,
+      "word": "蔡徐坤上海人气",
+      "onboard_time": 1731852261,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160935,
       "num": 190978,
       "word": "猴系帅哥的一滴泪演技",
       "onboard_time": 1731831858,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158597,
+      "num": 158597,
+      "word": "水晶哥队罢赛",
+      "onboard_time": 1731850040,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 158170,
@@ -1537,6 +1641,14 @@
       "onboard_time": 1731827058,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157349,
+      "num": 157349,
+      "word": "aespa年度歌曲",
+      "onboard_time": 1731852681,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 157036,
@@ -1595,20 +1707,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151431,
+      "num": 151431,
+      "word": "天舟七号货运飞船受控再入大气层",
+      "onboard_time": 1731852681,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151417,
       "num": 190244,
       "word": "李光洁 叔圈天菜",
       "onboard_time": 1731819440,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150817,
-      "num": 150817,
-      "word": "水晶哥队罢赛",
-      "onboard_time": 1731850040,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 150660,
@@ -1681,14 +1793,6 @@
       "onboard_time": 1731842839,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145884,
-      "num": 145884,
-      "word": "大结局怎么没有鹏飞",
-      "onboard_time": 1731850520,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 145534,
@@ -1811,14 +1915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 137157,
-      "num": 137157,
-      "word": "记者调查兰州牛皮纸井盖一碰就碎",
-      "onboard_time": 1731849860,
-      "rank": 47,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
@@ -1849,6 +1945,14 @@
       "onboard_time": 1731756740,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135313,
+      "num": 135313,
+      "word": "汪苏泷演唱会嘉宾陈楚生",
+      "onboard_time": 1731850581,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 133685,
@@ -1891,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130641,
+      "num": 130641,
+      "word": "正年",
+      "onboard_time": 1731852202,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130088,
       "num": 130088,
       "word": "金玟庭KGMAsolo舞台",
@@ -1915,12 +2027,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 128849,
-      "num": 128849,
-      "word": "汪苏泷演唱会嘉宾陈楚生",
-      "onboard_time": 1731850581,
-      "rank": 48,
-      "category": "演出"
+      "raw_hot": 128789,
+      "num": 128789,
+      "word": "宋亚轩喊话刘耀文你跑不了了",
+      "onboard_time": 1731851360,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 128191,
@@ -2065,14 +2177,6 @@
       "onboard_time": 1731814759,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114608,
-      "num": 114608,
-      "word": "大结局虞书欣对面站的是丁禹兮",
-      "onboard_time": 1731848180,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 114040,
@@ -2339,6 +2443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 93764,
+      "num": 123608,
+      "word": "通用汽车两个月已裁员近3000人",
+      "onboard_time": 1731852921,
+      "rank": 49,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 92956,
       "num": 463685,
       "word": "中国航展今天闭幕",
@@ -2481,6 +2593,14 @@
       "onboard_time": 1731825019,
       "rank": 2,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 71059,
+      "num": 252182,
+      "word": "不能没有子期",
+      "onboard_time": 1731852382,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 70777,
@@ -2835,6 +2955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35993,
+      "num": 248418,
+      "word": "传奇杯KB直接判负",
+      "onboard_time": 1731852382,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34006,
       "num": 693392,
       "word": "秘鲁与中国渊源有多深",
@@ -2945,6 +3073,14 @@
       "onboard_time": 1731841699,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28103,
+      "num": 822196,
+      "word": "巴西交响乐团奏响我爱你中国",
+      "onboard_time": 1731850520,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28008,
@@ -3187,6 +3323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12051,
+      "num": 312429,
+      "word": "调查以次充好真相需看到执法力度",
+      "onboard_time": 1731852261,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11811,
       "num": 42035,
       "word": "女生在伯克利弹琵琶惊艳外国教授",
@@ -3207,14 +3351,6 @@
       "num": 744516,
       "word": "中国与APEC双向奔赴了",
       "onboard_time": 1731807079,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11661,
-      "num": 401988,
-      "word": "巴西交响乐团奏响我爱你中国",
-      "onboard_time": 1731850520,
       "rank": 2,
       "category": "国内时政"
     },
@@ -3257,6 +3393,14 @@
       "onboard_time": 1731831018,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8999,
+      "num": 301653,
+      "word": "贵州兴义涉嫌虐童托育机构停止服务",
+      "onboard_time": 1731852261,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7599,
@@ -3321,6 +3465,9 @@
     },
     {
       "word": "#在习近平的比喻中看中国与亚太#"
+    },
+    {
+      "word": "#习近平再论中美相处之道#"
     }
   ]
 }
