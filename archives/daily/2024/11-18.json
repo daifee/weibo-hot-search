@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731875832022,
+  "endTime": 1731878442066,
   "band_list": [
     {
       "raw_hot": 949291,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41087,
+      "num": 41087,
+      "word": "以色列上万名抗议者呼吁停战",
+      "onboard_time": 1731876191,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39192,
       "num": 42450,
       "word": "卫生巾pH值并不能影响阴道内环境",
@@ -571,6 +579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19349,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18917,
+      "num": 18917,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18827,
       "num": 30554,
       "word": "珠海航展最后一天人山人海",
@@ -579,15 +603,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 17605,
-      "num": 36318,
-      "word": "里约热内卢G20时间",
-      "onboard_time": 1731874211,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16427,
+      "raw_hot": 16473,
       "num": 23643,
       "word": "中国航展最后一天",
       "onboard_time": 1731868152,
@@ -611,6 +627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 11761,
+      "num": 20576,
+      "word": "试飞员也是普通人但干着惊天动地的事",
+      "onboard_time": 1731877691,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 11177,
       "num": 34268,
       "word": "五台山被踢小狗在新家适应得很好",
@@ -625,6 +649,14 @@
       "onboard_time": 1731870791,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10088,
+      "num": 18752,
+      "word": "中智两国始终是好朋友好伙伴",
+      "onboard_time": 1731877991,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7606,

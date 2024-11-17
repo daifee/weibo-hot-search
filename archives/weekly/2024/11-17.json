@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731875832022,
+  "endTime": 1731878442066,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -3139,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41087,
+      "num": 41087,
+      "word": "以色列上万名抗议者呼吁停战",
+      "onboard_time": 1731876191,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40359,
       "num": 40359,
       "word": "群演变明星的概率越来越小",
@@ -3595,6 +3603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19349,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19043,
       "num": 256595,
       "word": "张家界桑植县通报一民房发生火灾",
@@ -3603,20 +3619,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 18917,
+      "num": 18917,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18827,
       "num": 30554,
       "word": "珠海航展最后一天人山人海",
       "onboard_time": 1731871092,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 17605,
-      "num": 36318,
-      "word": "里约热内卢G20时间",
-      "onboard_time": 1731874211,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17521,
@@ -3659,7 +3675,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16427,
+      "raw_hot": 16473,
       "num": 23643,
       "word": "中国航展最后一天",
       "onboard_time": 1731868152,
@@ -3795,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11761,
+      "num": 20576,
+      "word": "试飞员也是普通人但干着惊天动地的事",
+      "onboard_time": 1731877691,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 11742,
       "num": 744516,
       "word": "中国与APEC双向奔赴了",
@@ -3873,6 +3897,14 @@
       "onboard_time": 1731796212,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10088,
+      "num": 18752,
+      "word": "中智两国始终是好朋友好伙伴",
+      "onboard_time": 1731877991,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9895,

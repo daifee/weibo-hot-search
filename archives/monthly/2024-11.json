@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731875832022,
+  "endTime": 1731878442066,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -48947,6 +48947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41087,
+      "num": 41087,
+      "word": "以色列上万名抗议者呼吁停战",
+      "onboard_time": 1731876191,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41044,
       "num": 224948,
       "word": "EDGM对战WB",
@@ -54795,6 +54803,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 19349,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19294,
       "num": 19294,
       "word": "留几手曾是微博第一鉴美师",
@@ -54897,6 +54913,14 @@
       "onboard_time": 1730665270,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18917,
+      "num": 18917,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18909,
@@ -55219,14 +55243,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 17605,
-      "num": 36318,
-      "word": "里约热内卢G20时间",
-      "onboard_time": 1731874211,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17592,
       "num": 1025109,
       "word": "2024年进博会亮点抢先看",
@@ -55523,20 +55539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16473,
+      "num": 23643,
+      "word": "中国航展最后一天",
+      "onboard_time": 1731868152,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 16428,
       "num": 29822,
       "word": "记者第一次进鸡棚差点被臭个跟头",
       "onboard_time": 1731006612,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16427,
-      "num": 23643,
-      "word": "中国航展最后一天",
-      "onboard_time": 1731868152,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 16426,
@@ -56747,6 +56763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11761,
+      "num": 20576,
+      "word": "试飞员也是普通人但干着惊天动地的事",
+      "onboard_time": 1731877691,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 11742,
       "num": 744516,
       "word": "中国与APEC双向奔赴了",
@@ -57105,6 +57129,14 @@
       "onboard_time": 1730417777,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10088,
+      "num": 18752,
+      "word": "中智两国始终是好朋友好伙伴",
+      "onboard_time": 1731877991,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10080,
