@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/17 23:38:05
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 00:25:56
 </p>
 </blockquote>
 <p>
@@ -4719,6 +4719,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2375%E5%B2%81%E9%98%BF%E5%A7%A8%E5%9C%A8%E7%BE%8E%E5%AE%B9%E5%BA%97%E6%B6%88%E8%B4%B996%E4%B8%87%23" target="weibo">
+75岁阿姨在美容店消费96万（热度：729212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E6%98%AF%E5%9B%9E%E5%BD%92%E5%AD%A3%23" target="weibo">
 花少7是回归季（热度：729063）
 </a>
@@ -5547,6 +5553,12 @@ BLG赛后发博（热度：654460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E4%B8%87%E5%AE%9C%23" target="weibo">
+超强台风万宜（热度：646360）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%82%B9%E8%B5%9E%E7%8E%A9%E8%87%AA%E5%B7%B1%E6%A2%97%E7%9A%84%E7%BD%91%E5%8F%8B%23" target="weibo">
 权志龙点赞玩自己梗的网友（热度：645890）
 </a>
@@ -5999,18 +6011,6 @@ BLG教练（热度：627145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%20%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E6%B4%BB%E5%8A%A8%23" target="weibo">
 汪顺 霸王茶姬活动（热度：616495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E7%8A%B6%E6%80%81%23" target="weibo">
-Faker状态（热度：616290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%93%88%E9%87%8C%E6%96%AF%E7%BB%A7%E7%BB%AD%E5%86%B3%E6%88%98%E6%91%87%E6%91%86%E5%B7%9E%23" target="weibo">
-特朗普与哈里斯继续决战摇摆州（热度：616272）
 </a>
 </li>
 

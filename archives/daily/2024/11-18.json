@@ -1,0 +1,411 @@
+{
+  "startTime": 1731860756164,
+  "endTime": 1731860756164,
+  "band_list": [
+    {
+      "raw_hot": 729212,
+      "num": 919191,
+      "word": "75岁阿姨在美容店消费96万",
+      "onboard_time": 1731858619,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 711550,
+      "num": 711550,
+      "word": "世上再无子期",
+      "onboard_time": 1731850760,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 646360,
+      "num": 646360,
+      "word": "超强台风万宜",
+      "onboard_time": 1731856640,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572354,
+      "num": 177984,
+      "word": "顾客试衣服7小时买走15件",
+      "onboard_time": 1731847040,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552168,
+      "num": 552168,
+      "word": "丁舟杰文学",
+      "onboard_time": 1731859038,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 477431,
+      "num": 412067,
+      "word": "永夜星河 HE",
+      "onboard_time": 1731839117,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 447557,
+      "num": 406963,
+      "word": "大结局怎么没有鹏飞",
+      "onboard_time": 1731850520,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 445068,
+      "num": 352768,
+      "word": "周润发说权志龙变靓女了",
+      "onboard_time": 1731849080,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 413354,
+      "num": 413354,
+      "word": "美国确诊首例猴痘新变异株感染者",
+      "onboard_time": 1731849020,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 396464,
+      "num": 174752,
+      "word": "官方回应济宁一女孩商场内坠亡",
+      "onboard_time": 1731844039,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 393399,
+      "num": 350625,
+      "word": "禹宙中欣cp超话榜TOP1",
+      "onboard_time": 1731856100,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 389872,
+      "num": 389872,
+      "word": "央视曝光洗车场盗取地下水",
+      "onboard_time": 1731855320,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346751,
+      "num": 346751,
+      "word": "长安的荔枝",
+      "onboard_time": 1731854481,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 303933,
+      "num": 303933,
+      "word": "大结局虞书欣对面站的是丁禹兮",
+      "onboard_time": 1731848180,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281517,
+      "num": 281517,
+      "word": "珠海航展2万1套半真枪被抢光",
+      "onboard_time": 1731846139,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 273220,
+      "num": 170749,
+      "word": "女子与婆婆厮打把儿子摔成颅内出血",
+      "onboard_time": 1731852921,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255022,
+      "num": 168480,
+      "word": "ABC卫生巾",
+      "onboard_time": 1731816619,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250755,
+      "num": 250755,
+      "word": "奥斯卡 孙乐言",
+      "onboard_time": 1731849260,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229317,
+      "num": 229317,
+      "word": "白桃星座",
+      "onboard_time": 1731854660,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209801,
+      "num": 209801,
+      "word": "林更新问汪苏泷重庆到底有谁在",
+      "onboard_time": 1731853041,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 206784,
+      "num": 206784,
+      "word": "男子地铁猥亵被抓后下跪求原谅",
+      "onboard_time": 1731851181,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178812,
+      "num": 178812,
+      "word": "永昼",
+      "onboard_time": 1731858319,
+      "rank": 19,
+      "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 166418,
+      "num": 166418,
+      "word": "王一栩 爱奇艺卧底",
+      "onboard_time": 1731848299,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158856,
+      "num": 158856,
+      "word": "永夜星河大结局",
+      "onboard_time": 1731837739,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142188,
+      "num": 142188,
+      "word": "记者调查兰州牛皮纸井盖一碰就碎",
+      "onboard_time": 1731849860,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 131866,
+      "num": 131866,
+      "word": "无状态疑似退赛",
+      "onboard_time": 1731856581,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 130210,
+      "num": 130210,
+      "word": "商场刚开业女孩因护栏脱落坠亡",
+      "onboard_time": 1731842180,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124820,
+      "num": 124820,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1731859459,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117158,
+      "num": 117158,
+      "word": "小巷人家大结局",
+      "onboard_time": 1731845299,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116512,
+      "num": 116512,
+      "word": "蔡徐坤上海人气",
+      "onboard_time": 1731852261,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "容祖儿曾以为李昊的田是家族企业",
+      "onboard_time": 1731857958,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107431,
+      "num": 107431,
+      "word": "李子柒支持师傅产品年轻化市场化",
+      "onboard_time": 1731856640,
+      "rank": 33,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 106858,
+      "num": 106858,
+      "word": "卧龙凤雏没有吻戏",
+      "onboard_time": 1731855561,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102910,
+      "num": 102910,
+      "word": "宿敌",
+      "onboard_time": 1731857958,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101594,
+      "num": 101594,
+      "word": "卢昱晓配音谁找的",
+      "onboard_time": 1731852020,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94523,
+      "num": 94523,
+      "word": "王一栩还我妈生八个机位的吻戏",
+      "onboard_time": 1731853581,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93205,
+      "num": 93205,
+      "word": "保安收400元就被包装成企业高管",
+      "onboard_time": 1731850880,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90960,
+      "num": 90960,
+      "word": "央视揭秘职业闭店人黑产链",
+      "onboard_time": 1731844518,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 85722,
+      "num": 85722,
+      "word": "日本队全程开放训练",
+      "onboard_time": 1731859758,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83247,
+      "num": 83247,
+      "word": "奶龙",
+      "onboard_time": 1731849260,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82046,
+      "num": 82046,
+      "word": "洗车行业水费猫腻曝光",
+      "onboard_time": 1731856221,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81110,
+      "num": 81110,
+      "word": "筱婷 大女主",
+      "onboard_time": 1731851660,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80843,
+      "num": 80843,
+      "word": "换血减龄的美亿万富翁整脸翻车",
+      "onboard_time": 1731834680,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77036,
+      "num": 77036,
+      "word": "家的样子就是生活的样子",
+      "onboard_time": 1731859698,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 76826,
+      "num": 76826,
+      "word": "虞书欣跳ohmybaby手势舞",
+      "onboard_time": 1731850040,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75480,
+      "num": 75480,
+      "word": "李宇春参加声生不息的原因",
+      "onboard_time": 1731854060,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74349,
+      "num": 74349,
+      "word": "Doinb说复出的希望只有百分之一",
+      "onboard_time": 1731855561,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 69847,
+      "num": 74349,
+      "word": "目击者称女孩和商场玻璃一同坠落",
+      "onboard_time": 1731839538,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59132,
+      "num": 352927,
+      "word": "8K镜头看中国航展帅气值满分",
+      "onboard_time": 1731858079,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 7606,
+      "num": 672653,
+      "word": "巴西交响乐团奏响我爱你中国",
+      "onboard_time": 1731850520,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平致信祝贺梦想号建成入列#"
+    }
+  ]
+}

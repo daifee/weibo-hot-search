@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731857885779,
+  "endTime": 1731860756164,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 729212,
+      "num": 919191,
+      "word": "75岁阿姨在美容店消费96万",
+      "onboard_time": 1731858619,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 723548,
       "num": 310782,
       "word": "月薪四千24岁女生有车的变化",
@@ -449,6 +457,14 @@
       "onboard_time": 1731829700,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 646360,
+      "num": 646360,
+      "word": "超强台风万宜",
+      "onboard_time": 1731856640,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 645276,
@@ -544,6 +560,14 @@
       "word": "将门毒后",
       "onboard_time": 1731833239,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 552168,
+      "num": 552168,
+      "word": "丁舟杰文学",
+      "onboard_time": 1731859038,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -1507,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178812,
+      "num": 178812,
+      "word": "永昼",
+      "onboard_time": 1731858319,
+      "rank": 19,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 176175,
       "num": 200499,
       "word": "安徽舒城县长回应县政府大院随便进",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1731853581,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165169,
-      "num": 165169,
-      "word": "超强台风万宜",
-      "onboard_time": 1731856640,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164309,
@@ -2195,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124820,
+      "num": 124820,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1731859459,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124794,
       "num": 124794,
       "word": "LWX怒喷诺夏",
@@ -2315,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111949,
+      "num": 111949,
+      "word": "容祖儿曾以为李昊的田是家族企业",
+      "onboard_time": 1731857958,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111168,
       "num": 111168,
       "word": "Doinb已取关涵艺",
@@ -2403,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107431,
+      "num": 110317,
+      "word": "李子柒支持师傅产品年轻化市场化",
+      "onboard_time": 1731856640,
+      "rank": 47,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 106042,
       "num": 106042,
       "word": "WTT福冈总决赛",
@@ -2433,14 +2481,6 @@
       "onboard_time": 1731825978,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100684,
-      "num": 110317,
-      "word": "李子柒支持师傅产品年轻化市场化",
-      "onboard_time": 1731856640,
-      "rank": 47,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 100228,
@@ -2635,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85722,
+      "num": 85722,
+      "word": "日本队全程开放训练",
+      "onboard_time": 1731859758,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83453,
       "num": 316026,
       "word": "祝绪丹的rap是小鬼教的",
@@ -2643,12 +2691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81086,
+      "raw_hot": 82046,
       "num": 398291,
       "word": "洗车行业水费猫腻曝光",
       "onboard_time": 1731856221,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77036,
+      "num": 77036,
+      "word": "家的样子就是生活的样子",
+      "onboard_time": 1731859698,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 76905,
@@ -2697,6 +2753,14 @@
       "onboard_time": 1731814338,
       "rank": 23,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 75480,
+      "num": 75480,
+      "word": "李宇春参加声生不息的原因",
+      "onboard_time": 1731854060,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 71996,
@@ -2785,6 +2849,14 @@
       "onboard_time": 1731821059,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59132,
+      "num": 352927,
+      "word": "8K镜头看中国航展帅气值满分",
+      "onboard_time": 1731858079,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 58386,
