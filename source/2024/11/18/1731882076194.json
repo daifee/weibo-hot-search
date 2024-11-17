@@ -1,0 +1,410 @@
+{
+  "runTime": 1731882076194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 332627,
+        "num": 393498,
+        "word": "3岁男童失踪被找到时没穿衣服",
+        "onboard_time": 1731861017,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167501,
+        "num": 167501,
+        "word": "75岁阿姨在美容店消费96万",
+        "onboard_time": 1731858619,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1460,
+        "num": 103334,
+        "word": "巴西交响乐团奏响我爱你中国",
+        "onboard_time": 1731850520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100155,
+        "num": 100155,
+        "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
+        "onboard_time": 1731865933,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87792,
+        "num": 87792,
+        "word": "大结局怎么没有鹏飞",
+        "onboard_time": 1731850520,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86665,
+        "num": 86665,
+        "word": "我国造出全球唯一可钻11000米钻探船",
+        "onboard_time": 1731861017,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 76999,
+        "num": 76999,
+        "word": "超强台风万宜",
+        "onboard_time": 1731856640,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69881,
+        "num": 69881,
+        "word": "央视曝光洗车场盗取地下水",
+        "onboard_time": 1731855320,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59446,
+        "num": 67020,
+        "word": "大结局虞书欣对面站的是丁禹兮",
+        "onboard_time": 1731848180,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15138,
+        "num": 66879,
+        "word": "如何区别运20和运油20",
+        "onboard_time": 1731880811,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 76931,
+        "num": 66851,
+        "word": "周润发说权志龙变靓女了",
+        "onboard_time": 1731849080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66754,
+        "num": 66754,
+        "word": "以色列上万名抗议者呼吁停战",
+        "onboard_time": 1731876191,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55075,
+        "num": 55075,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 52488,
+        "num": 52488,
+        "word": "丁舟杰文学",
+        "onboard_time": 1731859038,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46560,
+        "num": 46560,
+        "word": "男子地铁猥亵被抓后下跪求原谅",
+        "onboard_time": 1731851181,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42915,
+        "num": 42915,
+        "word": "美国确诊首例猴痘新变异株感染者",
+        "onboard_time": 1731849020,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42384,
+        "num": 42384,
+        "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+        "onboard_time": 1731876850,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41258,
+        "num": 41258,
+        "word": "陈小春说李宇春看起来很冷",
+        "onboard_time": 1731864254,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33299,
+        "num": 33299,
+        "word": "央视揭秘职业闭店人黑产链",
+        "onboard_time": 1731844518,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33118,
+        "num": 33118,
+        "word": "永夜星河 HE",
+        "onboard_time": 1731839117,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144860,
+        "num": 33109,
+        "word": "官方回应济宁一女孩商场内坠亡",
+        "onboard_time": 1731844039,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124609,
+        "num": 33042,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68088,
+        "num": 33003,
+        "word": "女子与婆婆厮打把儿子摔成颅内出血",
+        "onboard_time": 1731852921,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38853,
+        "num": 32970,
+        "word": "全红婵说武汉好冷全场爆笑",
+        "onboard_time": 1731863114,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32942,
+        "num": 32942,
+        "word": "里约热内卢G20时间",
+        "onboard_time": 1731874211,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32336,
+        "num": 32336,
+        "word": "奥斯卡 孙乐言",
+        "onboard_time": 1731849260,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30336,
+        "num": 30336,
+        "word": "现代子期",
+        "onboard_time": 1731874991,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27267,
+        "num": 27267,
+        "word": "保安收400元就被包装成企业高管",
+        "onboard_time": 1731850880,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23310,
+        "num": 27165,
+        "word": "林更新问汪苏泷重庆到底有谁在",
+        "onboard_time": 1731853041,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23124,
+        "num": 27154,
+        "word": "卢昱晓配音谁找的",
+        "onboard_time": 1731852020,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27154,
+        "num": 27153,
+        "word": "商场刚开业女孩因护栏脱落坠亡",
+        "onboard_time": 1731842180,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25900,
+        "num": 25900,
+        "word": "换血减龄的美亿万富翁整脸翻车",
+        "onboard_time": 1731834680,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23592,
+        "num": 23592,
+        "word": "日本队全程开放训练",
+        "onboard_time": 1731859758,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22859,
+        "num": 22859,
+        "word": "记者调查兰州牛皮纸井盖一碰就碎",
+        "onboard_time": 1731849860,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22112,
+        "num": 22112,
+        "word": "试飞员也是普通人但干着惊天动地的事",
+        "onboard_time": 1731877691,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21629,
+        "num": 21629,
+        "word": "特朗普提名石油大亨出任能源部长",
+        "onboard_time": 1731873371,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20643,
+        "num": 20643,
+        "word": "小巷人家大结局",
+        "onboard_time": 1731845299,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20168,
+        "num": 20168,
+        "word": "日本自民党高官再提自卫队常驻美国",
+        "onboard_time": 1731871510,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18963,
+        "num": 20166,
+        "word": "长安的荔枝",
+        "onboard_time": 1731854481,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18274,
+        "num": 20163,
+        "word": "无状态疑似退赛",
+        "onboard_time": 1731856581,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17820,
+        "num": 20161,
+        "word": "珠海航展最后一天人山人海",
+        "onboard_time": 1731871092,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 17641,
+        "num": 20158,
+        "word": "捐出日军侵华相册的小伙来中国了",
+        "onboard_time": 1731867732,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 16518,
+        "num": 20157,
+        "word": "王一栩 爱奇艺卧底",
+        "onboard_time": 1731848299,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16063,
+        "num": 20152,
+        "word": "我国正研发六足登月机器人",
+        "onboard_time": 1731871811,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16061,
+        "num": 20151,
+        "word": "永昼",
+        "onboard_time": 1731858319,
+        "rank": 44,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 15133,
+        "num": 20145,
+        "word": "永夜星河",
+        "onboard_time": 1731837978,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14518,
+        "num": 20143,
+        "word": "Doinb说复出的希望只有百分之一",
+        "onboard_time": 1731855561,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14488,
+        "num": 20141,
+        "word": "中国航展最后一天",
+        "onboard_time": 1731868152,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 13741,
+        "num": 20137,
+        "word": "女生生病独自输液遇善良外卖小哥",
+        "onboard_time": 1731881952,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13713,
+        "num": 20137,
+        "word": "7点经验启示为中美关系发展指明方向",
+        "onboard_time": 1731865273,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平再论中美相处之道#"
+    }
+  }
+}

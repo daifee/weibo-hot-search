@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731879324421,
+  "endTime": 1731882076194,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -843,8 +843,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 332402,
-      "num": 332402,
+      "raw_hot": 332627,
+      "num": 393498,
       "word": "3岁男童失踪被找到时没穿衣服",
       "onboard_time": 1731861017,
       "rank": 14,
@@ -2851,6 +2851,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 66754,
+      "num": 66754,
+      "word": "以色列上万名抗议者呼吁停战",
+      "onboard_time": 1731876191,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66596,
       "num": 66596,
       "word": "马斯克将领导美国政府效率部",
@@ -3107,12 +3115,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 42498,
-      "num": 42498,
-      "word": "以色列上万名抗议者呼吁停战",
-      "onboard_time": 1731876191,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 42384,
+      "num": 42384,
+      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+      "onboard_time": 1731876850,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41789,
@@ -3355,6 +3363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32942,
+      "num": 36318,
+      "word": "里约热内卢G20时间",
+      "onboard_time": 1731874211,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32274,
       "num": 384390,
       "word": "律师称毒杀宠物狗可判有期徒刑",
@@ -3547,20 +3563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22566,
-      "num": 36318,
-      "word": "里约热内卢G20时间",
-      "onboard_time": 1731874211,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 22112,
+      "num": 22112,
+      "word": "试飞员也是普通人但干着惊天动地的事",
+      "onboard_time": 1731877691,
+      "rank": 19,
+      "category": "军事"
     },
     {
-      "raw_hot": 21364,
-      "num": 20438,
-      "word": "九旬夫妇赠与儿子3套房反被故意伤害",
-      "onboard_time": 1731876850,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 21629,
+      "num": 21629,
+      "word": "特朗普提名石油大亨出任能源部长",
+      "onboard_time": 1731873371,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21306,
@@ -3569,14 +3585,6 @@
       "onboard_time": 1731779715,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20817,
-      "num": 20817,
-      "word": "特朗普提名石油大亨出任能源部长",
-      "onboard_time": 1731873371,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20576,
@@ -3635,14 +3643,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 18607,
-      "num": 20622,
-      "word": "试飞员也是普通人但干着惊天动地的事",
-      "onboard_time": 1731877691,
-      "rank": 19,
-      "category": "军事"
-    },
-    {
       "raw_hot": 17521,
       "num": 242303,
       "word": "中国跳水队7人入围年度最佳候选",
@@ -3691,6 +3691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16063,
+      "num": 22681,
+      "word": "我国正研发六足登月机器人",
+      "onboard_time": 1731871811,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15316,
       "num": 25035,
       "word": "好事不说坏事不做顺其自然26年",
@@ -3707,20 +3715,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15138,
+      "num": 66879,
+      "word": "如何区别运20和运油20",
+      "onboard_time": 1731880811,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 14896,
       "num": 159316,
       "word": "SHUN理成张",
       "onboard_time": 1731772222,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14871,
-      "num": 22681,
-      "word": "我国正研发六足登月机器人",
-      "onboard_time": 1731871811,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14817,
@@ -3753,6 +3761,14 @@
       "onboard_time": 1731791831,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13741,
+      "num": 20137,
+      "word": "女生生病独自输液遇善良外卖小哥",
+      "onboard_time": 1731881952,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13729,
