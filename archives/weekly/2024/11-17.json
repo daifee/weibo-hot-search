@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731818495358,
+  "endTime": 1731820985249,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -33,6 +33,14 @@
       "onboard_time": 1731774319,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1508008,
+      "num": 943781,
+      "word": "ABC卫生巾",
+      "onboard_time": 1731816619,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1264887,
@@ -75,12 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 943781,
-      "num": 943781,
-      "word": "ABC卫生巾",
-      "onboard_time": 1731816619,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 954610,
+      "num": 954610,
+      "word": "央视曝光8万月薪工作暗藏医美贷骗局",
+      "onboard_time": 1731817941,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 885895,
@@ -99,12 +107,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 840059,
+      "num": 306211,
+      "word": "三里屯三姐妹",
+      "onboard_time": 1731818299,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811289,
       "num": 811289,
       "word": "霸王茶姬口令",
       "onboard_time": 1731810498,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 781299,
+      "num": 304534,
+      "word": "妻子患癌去世丈夫失联构成遗弃罪",
+      "onboard_time": 1731818239,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 773332,
@@ -179,6 +203,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 608363,
+      "num": 608363,
+      "word": "中方不会允许朝鲜半岛生战生乱",
+      "onboard_time": 1731819559,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 528303,
       "num": 259039,
       "word": "白灼虾最忌用水煮",
@@ -241,6 +273,14 @@
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 430481,
+      "num": 189183,
+      "word": "烧伤妈妈丈夫问没有房产证如何卖房",
+      "onboard_time": 1731819620,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406432,
@@ -411,14 +451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257866,
-      "num": 387409,
-      "word": "央视曝光8万月薪工作暗藏医美贷骗局",
-      "onboard_time": 1731817941,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 256909,
       "num": 201571,
       "word": "有车以后的真实感受",
@@ -507,6 +539,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 217227,
+      "num": 180240,
+      "word": "31岁女生不婚不生的真实感受",
+      "onboard_time": 1731820580,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216644,
       "num": 216644,
       "word": "王一博站起来为热烈鼓掌",
@@ -547,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201574,
-      "num": 201574,
-      "word": "妻子患癌去世丈夫失联构成遗弃罪",
-      "onboard_time": 1731818239,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 190626,
+      "num": 190626,
+      "word": "时代少年团新歌角色卡牌",
+      "onboard_time": 1731820460,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 188965,
@@ -561,6 +601,14 @@
       "onboard_time": 1731768742,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187228,
+      "num": 187228,
+      "word": "孙颖莎入选亚太U30杰出青年领袖",
+      "onboard_time": 1731820339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 185739,
@@ -683,14 +731,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 159465,
-      "num": 159465,
-      "word": "三里屯三姐妹",
-      "onboard_time": 1731818299,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158170,
       "num": 158170,
       "word": "28楼业主在外立面破墙开门多方回应",
@@ -713,6 +753,14 @@
       "onboard_time": 1731803657,
       "rank": 25,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 157036,
+      "num": 1026364,
+      "word": "秘鲁人从小就吃中餐",
+      "onboard_time": 1731816859,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155999,
@@ -769,6 +817,14 @@
       "onboard_time": 1731761302,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147484,
+      "num": 189857,
+      "word": "黎巴嫩男子冲着救人自己却被炸身亡",
+      "onboard_time": 1731817517,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146274,
@@ -891,6 +947,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131611,
+      "num": 233027,
+      "word": "孙颖莎出席福冈总决赛抽签",
+      "onboard_time": 1731820941,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127930,
+      "num": 127930,
+      "word": "拒绝肥胖污名化",
+      "onboard_time": 1731816379,
+      "rank": 43,
+      "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 125590,
+      "num": 125590,
+      "word": "被丈夫举报出轨学生女教师二提离婚",
+      "onboard_time": 1731820759,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124794,
       "num": 124794,
       "word": "LWX怒喷诺夏",
@@ -899,12 +979,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124508,
-      "num": 124508,
-      "word": "黎巴嫩男子冲着救人自己却被炸身亡",
-      "onboard_time": 1731817517,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 122499,
+      "num": 190244,
+      "word": "李光洁 叔圈天菜",
+      "onboard_time": 1731819440,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 121567,
@@ -937,6 +1017,14 @@
       "onboard_time": 1731804077,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117170,
+      "num": 117170,
+      "word": "专家称消费者对卫生巾pH值有误解",
+      "onboard_time": 1731818539,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115428,
@@ -1067,6 +1155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94107,
+      "num": 936398,
+      "word": "恶意差评法律不容",
+      "onboard_time": 1731819079,
+      "rank": 2,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 92956,
       "num": 463685,
       "word": "中国航展今天闭幕",
@@ -1115,12 +1211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82675,
-      "num": 1026364,
-      "word": "秘鲁人从小就吃中餐",
-      "onboard_time": 1731816859,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 83555,
+      "num": 235707,
+      "word": "不建议囤太多卫生巾",
+      "onboard_time": 1731819499,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76663,
+      "num": 188012,
+      "word": "gidle获奖感言",
+      "onboard_time": 1731819620,
+      "rank": 29,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 76351,
@@ -1159,6 +1263,14 @@
       "num": 348620,
       "word": "中企高管在菲遭撕票主犯美国落网",
       "onboard_time": 1731816978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67536,
+      "num": 278507,
+      "word": "多少年轻人把冰箱当时间静止器用",
+      "onboard_time": 1731819440,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -1307,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40344,
+      "num": 188408,
+      "word": "刘诗诗风从海上来",
+      "onboard_time": 1731820941,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39224,
       "num": 104215,
       "word": "中国担任APEC2026年东道主",
@@ -1347,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35719,
+      "num": 188614,
+      "word": "岛屿少年重现餐桌吵架名场面",
+      "onboard_time": 1731820700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33691,
       "num": 587820,
       "word": "一图看懂中美这次见面",
@@ -1377,6 +1505,14 @@
       "onboard_time": 1731812058,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 33254,
+      "num": 218756,
+      "word": "锦绣万千唯蜀更美",
+      "onboard_time": 1731820038,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 31618,
