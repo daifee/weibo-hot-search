@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731894587380,
+  "endTime": 1731895931190,
   "band_list": [
     {
       "raw_hot": 1025095,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 768054,
+      "raw_hot": 795766,
       "num": 181271,
       "word": "用苹果的人嘴真严啊",
       "onboard_time": 1731893477,
@@ -67,12 +67,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629961,
+      "num": 629961,
+      "word": "A股",
+      "onboard_time": 1731894257,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 572354,
       "num": 178679,
       "word": "顾客试衣服7小时买走15件",
       "onboard_time": 1731847040,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563596,
+      "num": 563596,
+      "word": "华为Mate70来了",
+      "onboard_time": 1731893477,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 519348,
@@ -179,20 +195,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 346423,
-      "num": 346423,
-      "word": "华为Mate70来了",
-      "onboard_time": 1731893477,
-      "rank": 5,
-      "category": "数码"
-    },
-    {
       "raw_hot": 303933,
       "num": 303933,
       "word": "大结局虞书欣对面站的是丁禹兮",
       "onboard_time": 1731848180,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294124,
+      "num": 294124,
+      "word": "去有风的地方获五个一工程奖",
+      "onboard_time": 1731892037,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 273220,
@@ -227,6 +243,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 261162,
+      "num": 166557,
+      "word": "无意识伤腰的5个习惯",
+      "onboard_time": 1731893477,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 255022,
       "num": 178456,
       "word": "ABC卫生巾",
@@ -241,14 +265,6 @@
       "onboard_time": 1731849260,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248693,
-      "num": 248693,
-      "word": "去有风的地方获五个一工程奖",
-      "onboard_time": 1731892037,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 246053,
@@ -267,14 +283,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 230183,
-      "num": 166557,
-      "word": "无意识伤腰的5个习惯",
-      "onboard_time": 1731893477,
-      "rank": 25,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 229317,
       "num": 229317,
       "word": "白桃星座",
@@ -291,20 +299,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207814,
+      "num": 207814,
+      "word": "网友质疑父母让4岁女童独自坐地铁",
+      "onboard_time": 1731893657,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206784,
       "num": 206784,
       "word": "男子地铁猥亵被抓后下跪求原谅",
       "onboard_time": 1731851181,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202074,
-      "num": 202074,
-      "word": "A股",
-      "onboard_time": 1731894257,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 189059,
@@ -331,19 +339,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168765,
+      "num": 168765,
+      "word": "永夜星河终于亲了",
+      "onboard_time": 1731885437,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166418,
       "num": 166418,
       "word": "王一栩 爱奇艺卧底",
       "onboard_time": 1731848299,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165690,
-      "num": 165690,
-      "word": "永夜星河终于亲了",
-      "onboard_time": 1731885437,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -363,20 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155498,
+      "num": 155498,
+      "word": "珠海航展顶流文创已卖空",
+      "onboard_time": 1731848718,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 153726,
       "num": 153726,
       "word": "菜市场的肉丸子一夜没放冰箱变红了",
       "onboard_time": 1731885736,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145708,
-      "num": 145708,
-      "word": "珠海航展顶流文创已卖空",
-      "onboard_time": 1731848718,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 143422,
@@ -395,12 +403,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 137241,
-      "num": 137241,
-      "word": "网友质疑父母让4岁女童独自坐地铁",
-      "onboard_time": 1731893657,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 137485,
+      "num": 137485,
+      "word": "庄筱婷林栋哲求婚",
+      "onboard_time": 1731895158,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 131866,
@@ -411,11 +419,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131466,
+      "num": 131466,
+      "word": "全红婵和同学握手比谁弯腰低",
+      "onboard_time": 1731894797,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130210,
       "num": 130210,
       "word": "商场刚开业女孩因护栏脱落坠亡",
       "onboard_time": 1731842180,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125649,
+      "num": 125649,
+      "word": "父亲回应4岁女童独自坐地铁回家",
+      "onboard_time": 1731895877,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -425,6 +449,14 @@
       "onboard_time": 1731859459,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122206,
+      "num": 122206,
+      "word": "印度成功试射远程高超音速导弹",
+      "onboard_time": 1731895217,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121692,
@@ -467,8 +499,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115338,
-      "num": 115338,
+      "raw_hot": 115546,
+      "num": 115546,
       "word": "全红婵说武汉好冷全场爆笑",
       "onboard_time": 1731863114,
       "rank": 41,
@@ -489,6 +521,22 @@
       "onboard_time": 1731840320,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113565,
+      "num": 113565,
+      "word": "你一年收几件快递",
+      "onboard_time": 1731895638,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112566,
+      "num": 112566,
+      "word": "虞书欣拉着丁禹兮的手拍照",
+      "onboard_time": 1731892577,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111949,
@@ -571,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88185,
+      "num": 88185,
+      "word": "华为Mate品牌盛典官宣定档",
+      "onboard_time": 1731894977,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85722,
       "num": 85722,
       "word": "日本队全程开放训练",
@@ -601,14 +657,6 @@
       "onboard_time": 1731849260,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83146,
-      "num": 83146,
-      "word": "虞书欣拉着丁禹兮的手拍照",
-      "onboard_time": 1731892577,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 82046,
@@ -785,6 +833,14 @@
       "onboard_time": 1731871811,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36351,
+      "num": 162252,
+      "word": "肖战告黑粉侵权",
+      "onboard_time": 1731895638,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 36052,
@@ -1012,6 +1068,9 @@
     },
     {
       "word": "#大国要有大国的担当#"
+    },
+    {
+      "word": "#引领中巴关系进入新的黄金50年#"
     }
   ]
 }
