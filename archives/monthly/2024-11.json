@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731905001781,
+  "endTime": 1731907407051,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4243,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953142,
+      "num": 351103,
+      "word": "范丞丞承认被网评打击",
+      "onboard_time": 1731903140,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 953020,
       "num": 953020,
       "word": "店铺钉死窗户应对美国大选",
@@ -4632,14 +4640,6 @@
       "word": "清华大学发了凌妙妙转场",
       "onboard_time": 1730798122,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 904974,
-      "num": 351103,
-      "word": "范丞丞承认被网评打击",
-      "onboard_time": 1731903140,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -8675,6 +8675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587187,
+      "num": 334997,
+      "word": "娜扎恋情曝光后首露面",
+      "onboard_time": 1731906321,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587108,
       "num": 834808,
       "word": "正午阳光 切不动了",
@@ -9595,6 +9603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536441,
+      "num": 536441,
+      "word": "WTT",
+      "onboard_time": 1730458099,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 536435,
       "num": 293513,
       "word": "张子枫妆造",
@@ -9761,6 +9777,14 @@
       "onboard_time": 1731475161,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 527303,
+      "num": 333024,
+      "word": "麦琳五杀",
+      "onboard_time": 1731904282,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 527009,
@@ -12571,14 +12595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411163,
-      "num": 310232,
-      "word": "麦琳五杀",
-      "onboard_time": 1731904282,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 411108,
       "num": 296278,
       "word": "母亲骨灰盒从他人墓里找到儿子发声",
@@ -12777,14 +12793,6 @@
       "onboard_time": 1731503541,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 406258,
-      "num": 406258,
-      "word": "WTT",
-      "onboard_time": 1730458099,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 406203,
@@ -13475,6 +13483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382606,
+      "num": 328910,
+      "word": "企业担心痛经假被滥用",
+      "onboard_time": 1731904821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382398,
       "num": 382398,
       "word": "慕瑶 蓝兔",
@@ -13876,7 +13892,7 @@
     },
     {
       "raw_hot": 371121,
-      "num": 324419,
+      "num": 326444,
       "word": "95后女子涉嫌开设赌场被通缉",
       "onboard_time": 1731901038,
       "rank": 38,
@@ -13963,20 +13979,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367962,
+      "num": 367962,
+      "word": "赵晓卉说只有五月天关心她快不快乐",
+      "onboard_time": 1731900798,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367606,
       "num": 903520,
       "word": "麦麦想要的安全感原来是这样",
       "onboard_time": 1730895080,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366872,
-      "num": 366872,
-      "word": "赵晓卉说只有五月天关心她快不快乐",
-      "onboard_time": 1731900798,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 366866,
@@ -14715,6 +14731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343824,
+      "num": 343824,
+      "word": "刚果金一山体崩塌疑发现大量铜矿",
+      "onboard_time": 1731902180,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 343698,
       "num": 418221,
       "word": "太阳星辰定档",
@@ -15105,6 +15129,14 @@
       "onboard_time": 1731489618,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334794,
+      "num": 334794,
+      "word": "丁舟杰 祝你年年有虞",
+      "onboard_time": 1731905481,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 334698,
@@ -15561,6 +15593,14 @@
       "onboard_time": 1731641659,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 322919,
+      "num": 322919,
+      "word": "怀9胞胎女子身体比较虚弱",
+      "onboard_time": 1731905781,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322798,
@@ -16563,6 +16603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 295209,
+      "num": 335137,
+      "word": "永夜星河NPC越狱",
+      "onboard_time": 1731904821,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295126,
       "num": 295126,
       "word": "肖战黑粉未道歉被公告",
@@ -16769,14 +16817,6 @@
       "onboard_time": 1731210017,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290343,
-      "num": 320051,
-      "word": "刚果金一山体崩塌疑发现大量铜矿",
-      "onboard_time": 1731902180,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 290330,
@@ -17241,6 +17281,14 @@
       "onboard_time": 1730947460,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 281492,
+      "num": 281492,
+      "word": "刘丁硕谈王楚钦教练分配",
+      "onboard_time": 1731907339,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 280961,
@@ -18347,6 +18395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262630,
+      "num": 343002,
+      "word": "周冬雨巨型水晶项链",
+      "onboard_time": 1731903800,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262501,
       "num": 262501,
       "word": "意大利总统收到中国月壤开心写在脸上",
@@ -19089,14 +19145,6 @@
       "onboard_time": 1731815238,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250665,
-      "num": 343002,
-      "word": "周冬雨巨型水晶项链",
-      "onboard_time": 1731903800,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 250518,
@@ -21051,6 +21099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223041,
+      "num": 223041,
+      "word": "19岁小伙在迈巴赫车尾贴满寻人启示",
+      "onboard_time": 1731906741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222914,
       "num": 214977,
       "word": "虞书欣新增永夜星河团综行程",
@@ -21233,6 +21289,14 @@
       "onboard_time": 1731127701,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221049,
+      "num": 221049,
+      "word": "华为Mate70四种配色",
+      "onboard_time": 1731905781,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 220915,
@@ -24395,6 +24459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197861,
+      "num": 197861,
+      "word": "老虎",
+      "onboard_time": 1731906500,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197823,
       "num": 226112,
       "word": "永夜星河寄明月MV",
@@ -24761,6 +24833,14 @@
       "onboard_time": 1731125240,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195735,
+      "num": 313146,
+      "word": "好东西 含霉量好高",
+      "onboard_time": 1731904881,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 195655,
@@ -27899,6 +27979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "马斯克上位史",
+      "onboard_time": 1731904701,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177410,
       "num": 286335,
       "word": "小胖状态",
@@ -29155,6 +29243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170503,
+      "num": 170503,
+      "word": "网传8名学生运动会携手冲刺被开除",
+      "onboard_time": 1731906620,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170430,
       "num": 170430,
       "word": "8岁儿童扔玩具被终身禁入熊猫基地",
@@ -30107,14 +30203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165224,
-      "num": 165224,
-      "word": "马斯克上位史",
-      "onboard_time": 1731904701,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 165193,
       "num": 190873,
       "word": "刘宇宁看见热搜的反应",
@@ -30569,14 +30657,6 @@
       "onboard_time": 1731748218,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162887,
-      "num": 162887,
-      "word": "永夜星河NPC越狱",
-      "onboard_time": 1731904821,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 162856,
@@ -32649,14 +32729,6 @@
       "onboard_time": 1731213558,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153191,
-      "num": 153191,
-      "word": "企业担心痛经假被滥用",
-      "onboard_time": 1731904821,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153169,
@@ -36257,6 +36329,14 @@
       "onboard_time": 1731395539,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134411,
+      "num": 134411,
+      "word": "不追星的人不准写娱乐圈文的原因",
+      "onboard_time": 1731906981,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134371,
@@ -43539,6 +43619,14 @@
       "category": "艺人,军事"
     },
     {
+      "raw_hot": 86519,
+      "num": 129275,
+      "word": "刘诗诗十二月时装封面",
+      "onboard_time": 1731905301,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 86459,
       "num": 239401,
       "word": "道崽鲁班神炮",
@@ -45243,14 +45331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69411,
-      "num": 313146,
-      "word": "好东西 含霉量好高",
-      "onboard_time": 1731904881,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 69394,
       "num": 69394,
       "word": "aespa获TikTok颁奖礼年度艺人",
@@ -46321,6 +46401,14 @@
       "onboard_time": 1731085815,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61735,
+      "num": 334804,
+      "word": "张萌说短剧是演员的优速通",
+      "onboard_time": 1731906981,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 61717,
@@ -51259,6 +51347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34594,
+      "num": 335103,
+      "word": "俄乌冲突即将迎来第1000天",
+      "onboard_time": 1731906799,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34576,
       "num": 498878,
       "word": "狼队对战KSG",
@@ -51441,6 +51537,14 @@
       "onboard_time": 1731071061,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34178,
+      "num": 285011,
+      "word": "陈昊宇天才计划⻘年荣誉推介人",
+      "onboard_time": 1731906981,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 34167,
@@ -53563,6 +53667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26497,
+      "num": 324505,
+      "word": "一本书全面了解比亚迪",
+      "onboard_time": 1731905420,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26490,
       "num": 386603,
       "word": "直播带货5年投诉量增幅达47倍",
@@ -53673,6 +53785,14 @@
       "onboard_time": 1730885485,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26091,
+      "num": 333815,
+      "word": "比亚迪30年30亿聚焦教育慈善",
+      "onboard_time": 1731905601,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 26060,
@@ -55539,6 +55659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19647,
+      "num": 326029,
+      "word": "广州车展智界R7敲敲有惊喜",
+      "onboard_time": 1731904221,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19635,
       "num": 113541,
       "word": "正式确诊为偷感恋爱人",
@@ -55905,14 +56033,6 @@
       "onboard_time": 1730441179,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18367,
-      "num": 321382,
-      "word": "广州车展智界R7敲敲有惊喜",
-      "onboard_time": 1731904221,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 18343,
@@ -56433,6 +56553,14 @@
       "onboard_time": 1731095530,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16312,
+      "num": 334905,
+      "word": "舆论监督也是正面报道",
+      "onboard_time": 1731907099,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 16291,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731905001781,
+  "endTime": 1731907407051,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953142,
+      "num": 351103,
+      "word": "范丞丞承认被网评打击",
+      "onboard_time": 1731903140,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 949291,
       "num": 949291,
       "word": "75岁阿姨在美容店消费96万",
@@ -73,14 +81,6 @@
       "onboard_time": 1731890959,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 904974,
-      "num": 351103,
-      "word": "范丞丞承认被网评打击",
-      "onboard_time": 1731903140,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 838337,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 587187,
+      "num": 334997,
+      "word": "娜扎恋情曝光后首露面",
+      "onboard_time": 1731906321,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572354,
       "num": 199882,
       "word": "顾客试衣服7小时买走15件",
@@ -193,6 +201,22 @@
       "onboard_time": 1731895877,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536441,
+      "num": 536441,
+      "word": "WTT",
+      "onboard_time": 1731905721,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 527303,
+      "num": 333024,
+      "word": "麦琳五杀",
+      "onboard_time": 1731904282,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 519348,
@@ -251,14 +275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 411163,
-      "num": 310232,
-      "word": "麦琳五杀",
-      "onboard_time": 1731904282,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 405913,
       "num": 405913,
       "word": "习惯咬指甲的人遇到了提醒他的人",
@@ -299,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382606,
+      "num": 328910,
+      "word": "企业担心痛经假被滥用",
+      "onboard_time": 1731904821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381674,
       "num": 381674,
       "word": "于东来直播落泪",
@@ -308,15 +332,15 @@
     },
     {
       "raw_hot": 371121,
-      "num": 324419,
+      "num": 326444,
       "word": "95后女子涉嫌开设赌场被通缉",
       "onboard_time": 1731901038,
       "rank": 38,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366872,
-      "num": 366872,
+      "raw_hot": 367962,
+      "num": 367962,
       "word": "赵晓卉说只有五月天关心她快不快乐",
       "onboard_time": 1731900798,
       "rank": 19,
@@ -347,6 +371,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343824,
+      "num": 343824,
+      "word": "刚果金一山体崩塌疑发现大量铜矿",
+      "onboard_time": 1731902180,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 334794,
+      "num": 334794,
+      "word": "丁舟杰 祝你年年有虞",
+      "onboard_time": 1731905481,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322919,
+      "num": 322919,
+      "word": "怀9胞胎女子身体比较虚弱",
+      "onboard_time": 1731905781,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310304,
       "num": 347060,
       "word": "雷军让李斌别唱了",
@@ -371,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295209,
+      "num": 335137,
+      "word": "永夜星河NPC越狱",
+      "onboard_time": 1731904821,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294124,
       "num": 294124,
       "word": "去有风的地方获五个一工程奖",
@@ -379,12 +435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 290343,
-      "num": 320051,
-      "word": "刚果金一山体崩塌疑发现大量铜矿",
-      "onboard_time": 1731902180,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 281492,
+      "num": 281492,
+      "word": "刘丁硕谈王楚钦教练分配",
+      "onboard_time": 1731907339,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 273220,
@@ -435,6 +491,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 262630,
+      "num": 343002,
+      "word": "周冬雨巨型水晶项链",
+      "onboard_time": 1731903800,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261162,
       "num": 231145,
       "word": "无意识伤腰的5个习惯",
@@ -457,14 +521,6 @@
       "onboard_time": 1731849260,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250665,
-      "num": 343002,
-      "word": "周冬雨巨型水晶项链",
-      "onboard_time": 1731903800,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246053,
@@ -531,6 +587,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 223041,
+      "num": 223041,
+      "word": "19岁小伙在迈巴赫车尾贴满寻人启示",
+      "onboard_time": 1731906741,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221049,
+      "num": 221049,
+      "word": "华为Mate70四种配色",
+      "onboard_time": 1731905781,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209801,
       "num": 209801,
       "word": "林更新问汪苏泷重庆到底有谁在",
@@ -587,11 +659,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197861,
+      "num": 197861,
+      "word": "老虎",
+      "onboard_time": 1731906500,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "五个一工程奖",
       "onboard_time": 1731898698,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 195735,
+      "num": 313146,
+      "word": "好东西 含霉量好高",
+      "onboard_time": 1731904881,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -659,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "马斯克上位史",
+      "onboard_time": 1731904701,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176106,
       "num": 160533,
       "word": "九旬夫妇赠与儿子3套房反被故意伤害",
@@ -673,6 +769,14 @@
       "onboard_time": 1731901881,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170503,
+      "num": 170503,
+      "word": "网传8名学生运动会携手冲刺被开除",
+      "onboard_time": 1731906620,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169003,
@@ -704,22 +808,6 @@
       "word": "王一栩 爱奇艺卧底",
       "onboard_time": 1731848299,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165224,
-      "num": 165224,
-      "word": "马斯克上位史",
-      "onboard_time": 1731904701,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 162887,
-      "num": 162887,
-      "word": "永夜星河NPC越狱",
-      "onboard_time": 1731904821,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -779,14 +867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 153191,
-      "num": 153191,
-      "word": "企业担心痛经假被滥用",
-      "onboard_time": 1731904821,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152745,
       "num": 308413,
       "word": "李斯丹妮催更再见爱人",
@@ -800,6 +880,14 @@
       "word": "这个丁子期有点入戏太深",
       "onboard_time": 1731901819,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147269,
+      "num": 147269,
+      "word": "珠帘玉幕",
+      "onboard_time": 1731907219,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -849,6 +937,14 @@
       "onboard_time": 1731895158,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134411,
+      "num": 134411,
+      "word": "不追星的人不准写娱乐圈文的原因",
+      "onboard_time": 1731906981,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134332,
@@ -1115,6 +1211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86519,
+      "num": 129275,
+      "word": "刘诗诗十二月时装封面",
+      "onboard_time": 1731905301,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 85722,
       "num": 85722,
       "word": "日本队全程开放训练",
@@ -1251,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69411,
-      "num": 313146,
-      "word": "好东西 含霉量好高",
-      "onboard_time": 1731904881,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 68695,
       "num": 68695,
       "word": "Uzi传奇杯卡莎一打三",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1731885555,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 61735,
+      "num": 334804,
+      "word": "张萌说短剧是演员的优速通",
+      "onboard_time": 1731906981,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 56312,
@@ -1411,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34594,
+      "num": 335103,
+      "word": "俄乌冲突即将迎来第1000天",
+      "onboard_time": 1731906799,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34425,
       "num": 163743,
       "word": "律师称毒杀宠物狗涉嫌犯罪",
@@ -1425,6 +1537,14 @@
       "onboard_time": 1731874991,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34178,
+      "num": 285011,
+      "word": "陈昊宇天才计划⻘年荣誉推介人",
+      "onboard_time": 1731906981,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 34000,
@@ -1483,6 +1603,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26497,
+      "num": 324505,
+      "word": "一本书全面了解比亚迪",
+      "onboard_time": 1731905420,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 26091,
+      "num": 333815,
+      "word": "比亚迪30年30亿聚焦教育慈善",
+      "onboard_time": 1731905601,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 23671,
       "num": 29767,
       "word": "庄图南李佳戏份好多",
@@ -1507,6 +1643,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 19647,
+      "num": 326029,
+      "word": "广州车展智界R7敲敲有惊喜",
+      "onboard_time": 1731904221,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19572,
       "num": 31451,
       "word": "7点经验启示为中美关系发展指明方向",
@@ -1523,14 +1667,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 18367,
-      "num": 321382,
-      "word": "广州车展智界R7敲敲有惊喜",
-      "onboard_time": 1731904221,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 17665,
       "num": 210447,
       "word": "天舟七号完成所有任务下班了",
@@ -1545,6 +1681,14 @@
       "onboard_time": 1731868152,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 16312,
+      "num": 334905,
+      "word": "舆论监督也是正面报道",
+      "onboard_time": 1731907099,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 14786,
