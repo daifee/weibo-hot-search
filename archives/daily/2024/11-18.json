@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731933996257,
+  "endTime": 1731934971402,
   "band_list": [
     {
       "raw_hot": 2800811,
@@ -89,6 +89,14 @@
       "onboard_time": 1731919579,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1067032,
+      "num": 630839,
+      "word": "新疆喀什一中学发生踩踏事故",
+      "onboard_time": 1731932900,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1025095,
@@ -227,6 +235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 802822,
+      "num": 1128451,
+      "word": "官方回应湘江现大量病毒采样管",
+      "onboard_time": 1731931399,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 796255,
       "num": 496615,
       "word": "杨超越无发缝双丸子头",
@@ -241,6 +257,14 @@
       "onboard_time": 1731893477,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 788978,
+      "num": 261788,
+      "word": "虞书欣丁禹兮双人古风大片",
+      "onboard_time": 1731932840,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 773812,
@@ -299,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 706102,
-      "num": 261788,
-      "word": "虞书欣丁禹兮双人古风大片",
-      "onboard_time": 1731932840,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 675539,
       "num": 675539,
       "word": "刘诗诗提灯神女",
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657641,
+      "num": 253566,
+      "word": "济宁女孩坠亡商场已装防护网",
+      "onboard_time": 1731931460,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 654932,
       "num": 535283,
       "word": "老虎进村扑咬老人快速拉门脱险",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 652457,
-      "num": 207683,
+      "num": 231633,
       "word": "女子掉进温泉池2秒皮被烫掉",
       "onboard_time": 1731929719,
       "rank": 29,
@@ -355,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 641927,
+      "num": 641927,
+      "word": "东北虎",
+      "onboard_time": 1731929479,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 629961,
       "num": 629961,
       "word": "A股",
@@ -369,22 +401,6 @@
       "onboard_time": 1731896599,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 579854,
-      "num": 458971,
-      "word": "新疆喀什一中学发生踩踏事故",
-      "onboard_time": 1731932900,
-      "rank": 3,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 575581,
-      "num": 253566,
-      "word": "济宁女孩坠亡商场已装防护网",
-      "onboard_time": 1731931460,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 572354,
@@ -497,14 +513,6 @@
       "onboard_time": 1731915739,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 486609,
-      "num": 486609,
-      "word": "官方回应湘江现大量病毒采样管",
-      "onboard_time": 1731931399,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 477431,
@@ -707,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361417,
+      "num": 230624,
+      "word": "小米现金储备1516亿",
+      "onboard_time": 1731933800,
+      "rank": 34,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 359490,
       "num": 292512,
       "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
@@ -860,11 +876,19 @@
     },
     {
       "raw_hot": 282818,
-      "num": 197154,
+      "num": 202125,
       "word": "禹宙中欣",
       "onboard_time": 1731929660,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279865,
+      "num": 279865,
+      "word": "小巷人家 孝庄",
+      "onboard_time": 1731933140,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 279197,
@@ -939,14 +963,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 266865,
-      "num": 266865,
-      "word": "东北虎",
-      "onboard_time": 1731929479,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 262630,
       "num": 343002,
       "word": "周冬雨巨型水晶项链",
@@ -993,14 +1009,6 @@
       "onboard_time": 1731849260,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 247636,
-      "num": 247635,
-      "word": "小巷人家 孝庄",
-      "onboard_time": 1731933140,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 246053,
@@ -1155,12 +1163,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217988,
+      "num": 217988,
+      "word": "警方通报男子因行车纠纷将人刺死",
+      "onboard_time": 1731934280,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 217419,
       "num": 217419,
       "word": "孙颖莎展望洛杉矶奥运会",
       "onboard_time": 1731921439,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216134,
+      "num": 234673,
+      "word": "夏弃疾 永夜星河壁纸",
+      "onboard_time": 1731930259,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 211377,
@@ -1195,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208671,
+      "num": 228791,
+      "word": "子期的梦",
+      "onboard_time": 1731934280,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207814,
       "num": 207814,
       "word": "网友质疑父母让4岁女童独自坐地铁",
@@ -1227,28 +1259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204587,
-      "num": 204587,
-      "word": "夏弃疾 永夜星河壁纸",
-      "onboard_time": 1731930259,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203597,
       "num": 309074,
       "word": "世上还有慕子期",
       "onboard_time": 1731900859,
       "rank": 28,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 203343,
-      "num": 197113,
-      "word": "小米现金储备1516亿",
-      "onboard_time": 1731933800,
-      "rank": 34,
-      "category": "财经,数码"
     },
     {
       "raw_hot": 202752,
@@ -1507,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175597,
+      "num": 175597,
+      "word": "吐槽黄焖鸡不要点的博主被禁言",
+      "onboard_time": 1731933981,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171979,
       "num": 171979,
       "word": "王楚钦林高远福冈赛前对练",
@@ -1611,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162944,
+      "num": 251132,
+      "word": "官方称江边现病毒采样试管并无病毒",
+      "onboard_time": 1731934221,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161594,
       "num": 315388,
       "word": "失笑",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1731891918,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156720,
+      "num": 156720,
+      "word": "任嘉伦首位古现剧集双亿男主",
+      "onboard_time": 1731934821,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 155498,
@@ -1715,6 +1755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151776,
+      "num": 151776,
+      "word": "再见爱人 高开癫走",
+      "onboard_time": 1731931100,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151340,
       "num": 151340,
       "word": "73岁张纪中为四胎女儿办满月",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1731913939,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150492,
+      "num": 150492,
+      "word": "刘耀文模仿奶龙",
+      "onboard_time": 1731934880,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 149655,
@@ -1772,7 +1828,7 @@
     },
     {
       "raw_hot": 146100,
-      "num": 205152,
+      "num": 239002,
       "word": "妙趣横声双人古风大片",
       "onboard_time": 1731933860,
       "rank": 24,
@@ -1801,6 +1857,14 @@
       "onboard_time": 1731913098,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 144532,
+      "num": 144532,
+      "word": "班主任怒批家长送孩子上学迟到",
+      "onboard_time": 1731934641,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 143422,
@@ -1835,14 +1899,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 141761,
-      "num": 141761,
-      "word": "再见爱人 高开癫走",
-      "onboard_time": 1731931100,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140577,
       "num": 140577,
       "word": "国乒女队福冈总决赛训练",
@@ -1867,12 +1923,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139433,
+      "num": 139433,
+      "word": "孕妇被劝退公司称不知怀孕",
+      "onboard_time": 1731930919,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139152,
       "num": 139152,
       "word": "小米su7已交付超10万",
       "onboard_time": 1731920419,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 138644,
+      "num": 197192,
+      "word": "浙江实行痛经假已经七年",
+      "onboard_time": 1731932058,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138175,
@@ -1897,14 +1969,6 @@
       "onboard_time": 1731895158,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136980,
-      "num": 136980,
-      "word": "吐槽黄焖鸡不要点的博主被禁言",
-      "onboard_time": 1731933981,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136948,
@@ -2339,14 +2403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 88083,
-      "num": 197192,
-      "word": "浙江实行痛经假已经七年",
-      "onboard_time": 1731932058,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86519,
       "num": 204960,
       "word": "刘诗诗十二月时装封面",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1731913098,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81112,
+      "num": 191284,
+      "word": "于适不是于小师是于老师",
+      "onboard_time": 1731933860,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 81110,
@@ -2545,6 +2609,14 @@
       "onboard_time": 1731858079,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 66443,
+      "num": 197244,
+      "word": "给学生戴小蜜蜂上网曝光太越界",
+      "onboard_time": 1731932840,
+      "rank": 27,
+      "category": "议题讨论,教育"
     },
     {
       "raw_hot": 64800,
@@ -2739,14 +2811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46548,
-      "num": 191284,
-      "word": "于适不是于小师是于老师",
-      "onboard_time": 1731933860,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44866,
       "num": 277389,
       "word": "启蒙教练说张博恒长大了",
@@ -2777,6 +2841,14 @@
       "onboard_time": 1731919699,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 41876,
+      "num": 221417,
+      "word": "孙颖莎希望4年后还能听到欢呼声",
+      "onboard_time": 1731934940,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 41549,
@@ -2891,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33334,
+      "num": 256424,
+      "word": "日本国脚回应在中国客战国足",
+      "onboard_time": 1731932479,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32459,
       "num": 335742,
       "word": "这首歌献给勇敢出发的人",
@@ -2980,11 +3060,19 @@
     },
     {
       "raw_hot": 28225,
-      "num": 197209,
+      "num": 223448,
       "word": "开局五子棋 结局无子期",
       "onboard_time": 1731932720,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27765,
+      "num": 219626,
+      "word": "日媒提醒日本队谨防国足野蛮动作",
+      "onboard_time": 1731934100,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 27693,
@@ -3043,28 +3131,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 24356,
-      "num": 256424,
-      "word": "日本国脚回应在中国客战国足",
-      "onboard_time": 1731932479,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24318,
       "num": 247856,
       "word": "乌克兰全境将紧急限电",
       "onboard_time": 1731914839,
       "rank": 29,
       "category": "国际时政,军事"
-    },
-    {
-      "raw_hot": 24019,
-      "num": 197244,
-      "word": "给学生戴小蜜蜂上网曝光太越界",
-      "onboard_time": 1731932840,
-      "rank": 27,
-      "category": "议题讨论,教育"
     },
     {
       "raw_hot": 23885,
@@ -3145,6 +3217,22 @@
       "onboard_time": 1731907099,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20779,
+      "num": 197221,
+      "word": "王上源称国足主场面对日本有信心",
+      "onboard_time": 1731933921,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20313,
+      "num": 241205,
+      "word": "伊万说0比7后队员学到很多",
+      "onboard_time": 1731934221,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 19647,
@@ -3299,6 +3387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11881,
+      "num": 236687,
+      "word": "职业背债人先被利用后被抛弃",
+      "onboard_time": 1731933441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11297,
       "num": 21132,
       "word": "梦想号能抵御16级的超强台风",
@@ -3339,14 +3435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 8145,
-      "num": 208525,
-      "word": "职业背债人先被利用后被抛弃",
-      "onboard_time": 1731933441,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 7606,
       "num": 927424,
       "word": "巴西交响乐团奏响我爱你中国",
@@ -3377,14 +3465,6 @@
       "onboard_time": 1731928159,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 5765,
-      "num": 197221,
-      "word": "王上源称国足主场面对日本有信心",
-      "onboard_time": 1731933921,
-      "rank": 28,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

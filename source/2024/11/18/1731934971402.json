@@ -1,0 +1,410 @@
+{
+  "runTime": 1731934971402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 802822,
+        "num": 1128451,
+        "word": "官方回应湘江现大量病毒采样管",
+        "onboard_time": 1731931399,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 641927,
+        "num": 641927,
+        "word": "东北虎",
+        "onboard_time": 1731929479,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1870,
+        "num": 632691,
+        "word": "数读中国巴西务实合作成果",
+        "onboard_time": 1731915799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1067032,
+        "num": 630839,
+        "word": "新疆喀什一中学发生踩踏事故",
+        "onboard_time": 1731932900,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 625731,
+        "num": 625731,
+        "word": "永夜星河",
+        "onboard_time": 1731932000,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404359,
+        "num": 404359,
+        "word": "女子取现700万给骗子怼民警管的宽",
+        "onboard_time": 1731922879,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279865,
+        "num": 279865,
+        "word": "小巷人家 孝庄",
+        "onboard_time": 1731933140,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270517,
+        "num": 270517,
+        "word": "官方通报黑龙江老虎进村咬伤村民",
+        "onboard_time": 1731915559,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 266632,
+        "num": 266632,
+        "word": "东北虎视频发布者称山上常有野猪熊",
+        "onboard_time": 1731927677,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 254563,
+        "num": 254563,
+        "word": "白夜破晓",
+        "onboard_time": 1731928639,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1164537,
+        "num": 253795,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162944,
+        "num": 251132,
+        "word": "官方称江边现病毒采样试管并无病毒",
+        "onboard_time": 1731934221,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788978,
+        "num": 250515,
+        "word": "虞书欣丁禹兮双人古风大片",
+        "onboard_time": 1731932840,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 657641,
+        "num": 247638,
+        "word": "济宁女孩坠亡商场已装防护网",
+        "onboard_time": 1731931460,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518619,
+        "num": 246201,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515621,
+        "num": 244917,
+        "word": "李行亮朋友回应借钱",
+        "onboard_time": 1731927319,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419668,
+        "num": 243299,
+        "word": "39岁男子杀害初二女生芒市落网",
+        "onboard_time": 1731930319,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 20313,
+        "num": 241205,
+        "word": "伊万说0比7后队员学到很多",
+        "onboard_time": 1731934221,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142268,
+        "num": 239002,
+        "word": "妙趣横声双人古风大片",
+        "onboard_time": 1731933860,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11881,
+        "num": 236687,
+        "word": "职业背债人先被利用后被抛弃",
+        "onboard_time": 1731933441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216134,
+        "num": 234673,
+        "word": "夏弃疾 永夜星河壁纸",
+        "onboard_time": 1731930259,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579967,
+        "num": 234180,
+        "word": "大四学生挂8科后失联多月被发现溺亡",
+        "onboard_time": 1731919640,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516106,
+        "num": 231633,
+        "word": "女子掉进温泉池2秒皮被烫掉",
+        "onboard_time": 1731929719,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361417,
+        "num": 230624,
+        "word": "小米现金储备1516亿",
+        "onboard_time": 1731933800,
+        "rank": 23,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 208671,
+        "num": 228791,
+        "word": "子期的梦",
+        "onboard_time": 1731934280,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168317,
+        "num": 225692,
+        "word": "新射雕能复兴徐克的武侠梦吗",
+        "onboard_time": 1731918260,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324394,
+        "num": 225178,
+        "word": "鹿晗关晓彤王安宇cp名",
+        "onboard_time": 1731927918,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27068,
+        "num": 223448,
+        "word": "开局五子棋 结局无子期",
+        "onboard_time": 1731932720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41876,
+        "num": 221417,
+        "word": "孙颖莎希望4年后还能听到欢呼声",
+        "onboard_time": 1731934940,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27765,
+        "num": 219626,
+        "word": "日媒提醒日本队谨防国足野蛮动作",
+        "onboard_time": 1731934100,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217988,
+        "num": 217988,
+        "word": "警方通报男子因行车纠纷将人刺死",
+        "onboard_time": 1731934280,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 202125,
+        "num": 202125,
+        "word": "禹宙中欣",
+        "onboard_time": 1731929660,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156232,
+        "num": 190577,
+        "word": "凌妙妙遗忘的人是自己",
+        "onboard_time": 1731928219,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190343,
+        "num": 190343,
+        "word": "男子告诉的哥我杀人了开快点",
+        "onboard_time": 1731920599,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177704,
+        "num": 177704,
+        "word": "以色列士兵在玩手机时被击中",
+        "onboard_time": 1731928400,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 66443,
+        "num": 176290,
+        "word": "给学生戴小蜜蜂上网曝光太越界",
+        "onboard_time": 1731932840,
+        "rank": 35,
+        "category": "议题讨论,教育"
+      },
+      {
+        "raw_hot": 175597,
+        "num": 175597,
+        "word": "吐槽黄焖鸡不要点的博主被禁言",
+        "onboard_time": 1731933981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20779,
+        "num": 167123,
+        "word": "王上源称国足主场面对日本有信心",
+        "onboard_time": 1731933921,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160343,
+        "num": 160343,
+        "word": "康师傅鱼片汤面Q版鱼片被群嘲",
+        "onboard_time": 1731930919,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 159813,
+        "word": "怪盗基德皮肤",
+        "onboard_time": 1731929899,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33334,
+        "num": 157360,
+        "word": "日本国脚回应在中国客战国足",
+        "onboard_time": 1731932479,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156720,
+        "num": 156720,
+        "word": "任嘉伦首位古现剧集双亿男主",
+        "onboard_time": 1731934821,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151776,
+        "num": 151776,
+        "word": "再见爱人 高开癫走",
+        "onboard_time": 1731931100,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150492,
+        "num": 150492,
+        "word": "刘耀文模仿奶龙",
+        "onboard_time": 1731934880,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150477,
+        "num": 150477,
+        "word": "钟楚曦 喜欢恋爱不是一种病",
+        "onboard_time": 1731927740,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146746,
+        "num": 146746,
+        "word": "一个林更新一个庄国栋",
+        "onboard_time": 1731921439,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81112,
+        "num": 145019,
+        "word": "于适不是于小师是于老师",
+        "onboard_time": 1731933860,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144532,
+        "num": 144532,
+        "word": "班主任怒批家长送孩子上学迟到",
+        "onboard_time": 1731934641,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 139433,
+        "num": 139433,
+        "word": "孕妇被劝退公司称不知怀孕",
+        "onboard_time": 1731930919,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138644,
+        "num": 138644,
+        "word": "浙江实行痛经假已经七年",
+        "onboard_time": 1731932058,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两国是跨越山海的好朋友#"
+    }
+  }
+}
