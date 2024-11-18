@@ -1,0 +1,410 @@
+{
+  "runTime": 1731928825617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 823249,
+        "num": 1131719,
+        "word": "女子取现700万给骗子怼民警管的宽",
+        "onboard_time": 1731922879,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420888,
+        "num": 420888,
+        "word": "李倩演技",
+        "onboard_time": 1731924739,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1928,
+        "num": 416281,
+        "word": "数读中国巴西务实合作成果",
+        "onboard_time": 1731915799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413184,
+        "num": 413184,
+        "word": "广州购房并缴社保满1年可落户",
+        "onboard_time": 1731925219,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354680,
+        "num": 354680,
+        "word": "官方通报黑龙江老虎进村咬伤村民",
+        "onboard_time": 1731915559,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 964621,
+        "num": 311245,
+        "word": "大四学生挂8科后失联多月被发现溺亡",
+        "onboard_time": 1731919640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661330,
+        "num": 307803,
+        "word": "被老虎咬伤家属说左手保不住了",
+        "onboard_time": 1731917300,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 240872,
+        "num": 240872,
+        "word": "宋佳 观众缘",
+        "onboard_time": 1731925520,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233728,
+        "num": 233728,
+        "word": "反写符",
+        "onboard_time": 1731921019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36247,
+        "num": 233341,
+        "word": "央视揭秘自证清白骗局",
+        "onboard_time": 1731927859,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2284854,
+        "num": 233247,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 993862,
+        "num": 232329,
+        "word": "男子告诉的哥我杀人了开快点",
+        "onboard_time": 1731920599,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218164,
+        "num": 231856,
+        "word": "一个林更新一个庄国栋",
+        "onboard_time": 1731921439,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739717,
+        "num": 231501,
+        "word": "李行亮朋友回应借钱",
+        "onboard_time": 1731927319,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25941,
+        "num": 231009,
+        "word": "上海买1000万房子契税最高可减20万",
+        "onboard_time": 1731927440,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9457,
+        "num": 230581,
+        "word": "周润发参加十公里长跑比赛",
+        "onboard_time": 1731928400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21589,
+        "num": 230172,
+        "word": "梁王冲击总决赛入场券",
+        "onboard_time": 1731928339,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534037,
+        "num": 229839,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6490,
+        "num": 229016,
+        "word": "上观专访里斯本丸沉没导演方励",
+        "onboard_time": 1731928159,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6540,
+        "num": 228912,
+        "word": "对话电影出走的决心原型",
+        "onboard_time": 1731927979,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415052,
+        "num": 228499,
+        "word": "鹿晗关晓彤王安宇cp名",
+        "onboard_time": 1731927918,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165430,
+        "num": 227652,
+        "word": "陈道明 还不回家睡觉",
+        "onboard_time": 1731923960,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227550,
+        "num": 227550,
+        "word": "新射雕能复兴徐克的武侠梦吗",
+        "onboard_time": 1731918260,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224311,
+        "num": 224311,
+        "word": "东北虎视频发布者称山上常有野猪熊",
+        "onboard_time": 1731927677,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 209744,
+        "num": 209744,
+        "word": "财政部已将6万亿元债务限额下达各地",
+        "onboard_time": 1731925580,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209645,
+        "num": 209645,
+        "word": "窦靖童越来越像王菲",
+        "onboard_time": 1731923059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197444,
+        "num": 197444,
+        "word": "于东来要花50亿建超大商业体",
+        "onboard_time": 1731924558,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193282,
+        "num": 193282,
+        "word": "凌妙妙遗忘的人是自己",
+        "onboard_time": 1731928219,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35346,
+        "num": 184932,
+        "word": "钟楚曦 喜欢恋爱不是一种病",
+        "onboard_time": 1731927740,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111721,
+        "num": 181978,
+        "word": "丁禹兮背头粉夹克",
+        "onboard_time": 1731923000,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180483,
+        "num": 180483,
+        "word": "马嘉祺丁程鑫月夜狂想曲cha",
+        "onboard_time": 1731927500,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169848,
+        "num": 169848,
+        "word": "孙颖莎说失败让自己更强大",
+        "onboard_time": 1731925101,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163236,
+        "num": 163236,
+        "word": "虞书欣荡秋千呀的一声",
+        "onboard_time": 1731927199,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156083,
+        "num": 156083,
+        "word": "以色列士兵在玩手机时被击中",
+        "onboard_time": 1731928400,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 155523,
+        "num": 155523,
+        "word": "丁禹兮这一秒第三视角",
+        "onboard_time": 1731921199,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152242,
+        "num": 152242,
+        "word": "俄军在乌克兰战场正大量使用诱饵无人机",
+        "onboard_time": 1731925340,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145239,
+        "num": 145239,
+        "word": "怀9胞胎女子将减去7个胚胎",
+        "onboard_time": 1731913640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140382,
+        "num": 140382,
+        "word": "宋佳工作室 一种很新的出发图",
+        "onboard_time": 1731927440,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139687,
+        "num": 139687,
+        "word": "黑龙江一野生东北虎咬伤人",
+        "onboard_time": 1731909139,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 138716,
+        "num": 138716,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131000,
+        "num": 131000,
+        "word": "花3000元买了个7平米小家",
+        "onboard_time": 1731919757,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129415,
+        "num": 129415,
+        "word": "RA正式退出LPL",
+        "onboard_time": 1731915739,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128446,
+        "num": 128446,
+        "word": "白夜破晓",
+        "onboard_time": 1731928639,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124104,
+        "num": 124104,
+        "word": "小米三季度营收925.1亿元",
+        "onboard_time": 1731927979,
+        "rank": 43,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 122355,
+        "num": 122355,
+        "word": "4岁女童真独立违法假独立是炒作",
+        "onboard_time": 1731926841,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122240,
+        "num": 122240,
+        "word": "不讨好的勇气 爹味男友",
+        "onboard_time": 1731926961,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119899,
+        "num": 119899,
+        "word": "永夜星河再见",
+        "onboard_time": 1731928699,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118370,
+        "num": 118370,
+        "word": "这样做一顿饭我得休一星期",
+        "onboard_time": 1731927078,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114875,
+        "num": 114875,
+        "word": "36岁抗癌网红陈班长去世",
+        "onboard_time": 1731916462,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109597,
+        "num": 109597,
+        "word": "雷佳音李庚希大片",
+        "onboard_time": 1731921980,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两国是跨越山海的好朋友#"
+    }
+  }
+}

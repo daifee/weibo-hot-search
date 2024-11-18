@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731926687460,
+  "endTime": 1731928825617,
   "band_list": [
     {
       "raw_hot": 2800811,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 823249,
+      "num": 1131719,
+      "word": "女子取现700万给骗子怼民警管的宽",
+      "onboard_time": 1731922879,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 819577,
       "num": 819577,
       "word": "华为Mate70来了",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739717,
+      "num": 231501,
+      "word": "李行亮朋友回应借钱",
+      "onboard_time": 1731927319,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723367,
       "num": 723367,
       "word": "庄筱婷林栋哲的小孩",
@@ -265,14 +281,6 @@
       "onboard_time": 1731850760,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 677296,
-      "num": 1098808,
-      "word": "女子取现700万给骗子怼民警管的宽",
-      "onboard_time": 1731922879,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 675539,
@@ -499,12 +507,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 420888,
+      "num": 420888,
+      "word": "李倩演技",
+      "onboard_time": 1731924739,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 415052,
+      "num": 228499,
+      "word": "鹿晗关晓彤王安宇cp名",
+      "onboard_time": 1731927918,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413354,
       "num": 413354,
       "word": "美国确诊首例猴痘新变异株感染者",
       "onboard_time": 1731849020,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 413184,
+      "num": 413184,
+      "word": "广州购房并缴社保满1年可落户",
+      "onboard_time": 1731925219,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407054,
@@ -521,14 +553,6 @@
       "onboard_time": 1731882193,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401440,
-      "num": 401440,
-      "word": "李倩演技",
-      "onboard_time": 1731924739,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 396939,
@@ -891,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240872,
+      "num": 240872,
+      "word": "宋佳 观众缘",
+      "onboard_time": 1731925520,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238459,
       "num": 251728,
       "word": "孙颖莎首轮对阵陈幸同",
@@ -963,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 224311,
+      "num": 224311,
+      "word": "东北虎视频发布者称山上常有野猪熊",
+      "onboard_time": 1731927677,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 223235,
       "num": 223235,
       "word": "AG有楼是真扫",
@@ -988,7 +1028,7 @@
     },
     {
       "raw_hot": 221675,
-      "num": 193089,
+      "num": 209744,
       "word": "财政部已将6万亿元债务限额下达各地",
       "onboard_time": 1731925580,
       "rank": 20,
@@ -1099,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201910,
-      "num": 201910,
-      "word": "宋佳 观众缘",
-      "onboard_time": 1731925520,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200191,
       "num": 200191,
       "word": "美柚回应准爸爸注册后频接涉黄短信",
@@ -1120,6 +1152,14 @@
       "word": "海南州原副州长酒后失德失范",
       "onboard_time": 1731903560,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197444,
+      "num": 197444,
+      "word": "于东来要花50亿建超大商业体",
+      "onboard_time": 1731924558,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1145,6 +1185,14 @@
       "onboard_time": 1731925101,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193282,
+      "num": 193282,
+      "word": "凌妙妙遗忘的人是自己",
+      "onboard_time": 1731928219,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 192983,
@@ -1235,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183870,
-      "num": 183870,
-      "word": "于东来要花50亿建超大商业体",
-      "onboard_time": 1731924558,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183660,
       "num": 200586,
       "word": "魏大勋 一看你就没听过刘旸的脱口秀",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1731898517,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180483,
+      "num": 180483,
+      "word": "马嘉祺丁程鑫月夜狂想曲cha",
+      "onboard_time": 1731927500,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 178208,
@@ -1371,6 +1419,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165430,
+      "num": 227652,
+      "word": "陈道明 还不回家睡觉",
+      "onboard_time": 1731923960,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163236,
+      "num": 163236,
+      "word": "虞书欣荡秋千呀的一声",
+      "onboard_time": 1731927199,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161594,
       "num": 315388,
       "word": "失笑",
@@ -1419,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156083,
+      "num": 156083,
+      "word": "以色列士兵在玩手机时被击中",
+      "onboard_time": 1731928400,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 155498,
       "num": 155498,
       "word": "珠海航展顶流文创已卖空",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1731903020,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152242,
+      "num": 152242,
+      "word": "俄军在乌克兰战场正大量使用诱饵无人机",
+      "onboard_time": 1731925340,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151340,
@@ -1556,7 +1636,7 @@
     },
     {
       "raw_hot": 143064,
-      "num": 143064,
+      "num": 181978,
       "word": "丁禹兮背头粉夹克",
       "onboard_time": 1731923000,
       "rank": 37,
@@ -1571,20 +1651,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 141533,
-      "num": 141533,
-      "word": "俄军在乌克兰战场正大量使用诱饵无人机",
-      "onboard_time": 1731925340,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140577,
       "num": 140577,
       "word": "国乒女队福冈总决赛训练",
       "onboard_time": 1731899599,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140382,
+      "num": 140382,
+      "word": "宋佳工作室 一种很新的出发图",
+      "onboard_time": 1731927440,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 139446,
@@ -1601,14 +1681,6 @@
       "onboard_time": 1731920419,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 139104,
-      "num": 139104,
-      "word": "陈道明 还不回家睡觉",
-      "onboard_time": 1731923960,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 138175,
@@ -1641,14 +1713,6 @@
       "onboard_time": 1731897557,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 134307,
-      "num": 178628,
-      "word": "广州购房并缴社保满1年可落户",
-      "onboard_time": 1731925219,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134069,
@@ -1715,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128446,
+      "num": 128446,
+      "word": "白夜破晓",
+      "onboard_time": 1731928639,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126237,
       "num": 126237,
       "word": "恒星引力冬日限定EP先行曲",
@@ -1747,12 +1819,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124104,
+      "num": 124104,
+      "word": "小米三季度营收925.1亿元",
+      "onboard_time": 1731927979,
+      "rank": 43,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 123549,
       "num": 123549,
       "word": "印度成功试射远程高超音速导弹",
       "onboard_time": 1731895217,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122355,
+      "num": 122355,
+      "word": "4岁女童真独立违法假独立是炒作",
+      "onboard_time": 1731926841,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 122240,
+      "num": 122240,
+      "word": "不讨好的勇气 爹味男友",
+      "onboard_time": 1731926961,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 121692,
@@ -1787,12 +1883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119899,
+      "num": 119899,
+      "word": "永夜星河再见",
+      "onboard_time": 1731928699,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119856,
       "num": 230703,
       "word": "浮舟造型",
       "onboard_time": 1731910998,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118370,
+      "num": 118370,
+      "word": "这样做一顿饭我得休一星期",
+      "onboard_time": 1731927078,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 117663,
@@ -2467,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36247,
+      "num": 233341,
+      "word": "央视揭秘自证清白骗局",
+      "onboard_time": 1731927859,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36052,
       "num": 36318,
       "word": "里约热内卢G20时间",
@@ -2481,6 +2601,14 @@
       "onboard_time": 1731861197,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35346,
+      "num": 184932,
+      "word": "钟楚曦 喜欢恋爱不是一种病",
+      "onboard_time": 1731927740,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 34789,
@@ -2627,6 +2755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 25941,
+      "num": 231009,
+      "word": "上海买1000万房子契税最高可减20万",
+      "onboard_time": 1731927440,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24738,
       "num": 385332,
       "word": "新诈骗手法通过跨多个平台躲避追踪",
@@ -2713,6 +2849,14 @@
       "onboard_time": 1731922337,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21589,
+      "num": 230172,
+      "word": "梁王冲击总决赛入场券",
+      "onboard_time": 1731928339,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 21306,
@@ -2899,6 +3043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 9457,
+      "num": 230581,
+      "word": "周润发参加十公里长跑比赛",
+      "onboard_time": 1731928400,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7606,
       "num": 927424,
       "word": "巴西交响乐团奏响我爱你中国",
@@ -2913,6 +3065,22 @@
       "onboard_time": 1731899538,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 6540,
+      "num": 228912,
+      "word": "对话电影出走的决心原型",
+      "onboard_time": 1731927979,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 6490,
+      "num": 229016,
+      "word": "上观专访里斯本丸沉没导演方励",
+      "onboard_time": 1731928159,
+      "rank": 18,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
