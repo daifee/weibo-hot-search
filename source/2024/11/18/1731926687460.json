@@ -1,0 +1,410 @@
+{
+  "runTime": 1731926687460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 617553,
+        "num": 1098808,
+        "word": "女子取现700万给骗子怼民警管的宽",
+        "onboard_time": 1731922879,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560440,
+        "num": 560440,
+        "word": "被老虎咬伤家属说左手保不住了",
+        "onboard_time": 1731917300,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 3935,
+        "num": 544568,
+        "word": "数读中国巴西务实合作成果",
+        "onboard_time": 1731915799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571690,
+        "num": 508509,
+        "word": "小伙1个月赶10场演唱会还挣了5万",
+        "onboard_time": 1731919579,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664057,
+        "num": 487544,
+        "word": "杨子后悔参加再见爱人",
+        "onboard_time": 1731917779,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2800811,
+        "num": 454760,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1086596,
+        "num": 450599,
+        "word": "大四学生挂8科后失联多月被发现溺亡",
+        "onboard_time": 1731919640,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1013813,
+        "num": 403348,
+        "word": "男子告诉的哥我杀人了开快点",
+        "onboard_time": 1731920599,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401440,
+        "num": 401440,
+        "word": "李倩演技",
+        "onboard_time": 1731924739,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338769,
+        "num": 338769,
+        "word": "新射雕能复兴徐克的武侠梦吗",
+        "onboard_time": 1731918260,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 651225,
+        "num": 338039,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336832,
+        "num": 336832,
+        "word": "一个林更新一个庄国栋",
+        "onboard_time": 1731921439,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51975,
+        "num": 330662,
+        "word": "王曼昱想找到新的自己",
+        "onboard_time": 1731926541,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21306,
+        "num": 327427,
+        "word": "警惕摄影服务的美丽陷阱",
+        "onboard_time": 1731925580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324511,
+        "num": 324511,
+        "word": "反写符",
+        "onboard_time": 1731921019,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323800,
+        "num": 323800,
+        "word": "窦靖童越来越像王菲",
+        "onboard_time": 1731923059,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314829,
+        "num": 314829,
+        "word": "官方通报黑龙江老虎进村咬伤村民",
+        "onboard_time": 1731915559,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 304235,
+        "num": 304235,
+        "word": "花3000元买了个7平米小家",
+        "onboard_time": 1731919757,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201910,
+        "num": 201910,
+        "word": "宋佳 观众缘",
+        "onboard_time": 1731925520,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193900,
+        "num": 193900,
+        "word": "孙颖莎说失败让自己更强大",
+        "onboard_time": 1731925101,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221675,
+        "num": 193089,
+        "word": "财政部已将6万亿元债务限额下达各地",
+        "onboard_time": 1731925580,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214360,
+        "num": 192874,
+        "word": "丁禹兮这一秒第三视角",
+        "onboard_time": 1731921199,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191743,
+        "num": 191743,
+        "word": "尚雯婕朱丹正是藏得住惊喜的年纪",
+        "onboard_time": 1731925760,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183870,
+        "num": 183870,
+        "word": "于东来要花50亿建超大商业体",
+        "onboard_time": 1731924558,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180222,
+        "num": 180222,
+        "word": "RA正式退出LPL",
+        "onboard_time": 1731915739,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134307,
+        "num": 178628,
+        "word": "广州购房并缴社保满1年可落户",
+        "onboard_time": 1731925219,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178062,
+        "num": 178062,
+        "word": "黑龙江一野生东北虎咬伤人",
+        "onboard_time": 1731909139,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 177610,
+        "num": 177610,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177533,
+        "num": 177533,
+        "word": "36岁抗癌网红陈班长去世",
+        "onboard_time": 1731916462,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23191,
+        "num": 168838,
+        "word": "钟楚曦说邵艺辉随时随地刷微博",
+        "onboard_time": 1731925520,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161167,
+        "num": 161167,
+        "word": "怀9胞胎女子将减去7个胚胎",
+        "onboard_time": 1731913640,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152688,
+        "num": 152688,
+        "word": "雷佳音李庚希大片",
+        "onboard_time": 1731921980,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141533,
+        "num": 141533,
+        "word": "俄军在乌克兰战场正大量使用诱饵无人机",
+        "onboard_time": 1731925340,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74030,
+        "num": 132567,
+        "word": "野生动物造成人伤亡当地政府应补偿",
+        "onboard_time": 1731922758,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131438,
+        "num": 131438,
+        "word": "丁禹兮背头粉夹克",
+        "onboard_time": 1731923000,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129907,
+        "num": 129907,
+        "word": "娜扎恋情曝光后首露面",
+        "onboard_time": 1731906321,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1508644,
+        "num": 127695,
+        "word": "17岁女孩产后发现宫颈癌晚期",
+        "onboard_time": 1731924019,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120910,
+        "num": 120910,
+        "word": "原神",
+        "onboard_time": 1731907998,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120285,
+        "num": 120285,
+        "word": "孙颖莎展望洛杉矶奥运会",
+        "onboard_time": 1731921439,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116682,
+        "num": 116682,
+        "word": "韩国吃播",
+        "onboard_time": 1731918018,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113866,
+        "num": 113866,
+        "word": "陈道明 还不回家睡觉",
+        "onboard_time": 1731923960,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113705,
+        "num": 113705,
+        "word": "广州全面放宽入户条件",
+        "onboard_time": 1731926119,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109382,
+        "num": 109382,
+        "word": "麦琳五杀",
+        "onboard_time": 1731904282,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107181,
+        "num": 107181,
+        "word": "张博恒遗憾没在教练退休前拿奥运金牌",
+        "onboard_time": 1731920840,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58991,
+        "num": 105037,
+        "word": "的哥接到警方电话你的乘客是杀人逃犯",
+        "onboard_time": 1731925281,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104367,
+        "num": 104367,
+        "word": "庄筱婷林栋哲的小孩",
+        "onboard_time": 1731911659,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101310,
+        "num": 101310,
+        "word": "73岁张纪中为四胎女儿办满月",
+        "onboard_time": 1731924558,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99547,
+        "num": 99547,
+        "word": "再见爱人观察室嘉宾",
+        "onboard_time": 1731925520,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97592,
+        "num": 97592,
+        "word": "刘耀文狼塑",
+        "onboard_time": 1731924019,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96207,
+        "num": 96207,
+        "word": "范丞丞承认被网评打击",
+        "onboard_time": 1731903140,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两国是跨越山海的好朋友#"
+    }
+  }
+}
