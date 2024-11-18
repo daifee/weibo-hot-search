@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731901760385,
+  "endTime": 1731904092621,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -51,6 +51,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 953712,
+      "num": 376212,
+      "word": "黄晓明觉得自己40岁前很傻",
+      "onboard_time": 1731901038,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 949291,
       "num": 949291,
       "word": "75岁阿姨在美容店消费96万",
@@ -64,6 +72,14 @@
       "word": "男子被骗2万崩溃大喊我错了",
       "onboard_time": 1731890959,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 838337,
+      "num": 838337,
+      "word": "上海取消普通住房标准",
+      "onboard_time": 1731900019,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -105,6 +121,14 @@
       "onboard_time": 1731850760,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 703466,
+      "num": 310125,
+      "word": "王九龙结婚",
+      "onboard_time": 1731902420,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 669127,
@@ -187,6 +211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453616,
+      "num": 309804,
+      "word": "范丞丞承认被网评打击",
+      "onboard_time": 1731903140,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452321,
+      "num": 547417,
+      "word": "给爱说话学生戴小蜜蜂的老师离职",
+      "onboard_time": 1731898698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447557,
       "num": 872375,
       "word": "大结局怎么没有鹏飞",
@@ -201,14 +241,6 @@
       "onboard_time": 1731849080,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430890,
-      "num": 547417,
-      "word": "给爱说话学生戴小蜜蜂的老师离职",
-      "onboard_time": 1731898698,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 413354,
@@ -267,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376212,
-      "num": 376212,
-      "word": "黄晓明觉得自己40岁前很傻",
-      "onboard_time": 1731901038,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362834,
       "num": 362834,
       "word": "妙声吻戏 借位",
@@ -299,6 +323,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310304,
+      "num": 310304,
+      "word": "雷军让李斌别唱了",
+      "onboard_time": 1731900257,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308628,
+      "num": 308628,
+      "word": "95后女子涉嫌开设赌场被通缉",
+      "onboard_time": 1731901038,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308342,
+      "num": 361243,
+      "word": "金宇硕和女友拍人生四格",
+      "onboard_time": 1731900918,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303933,
       "num": 303933,
       "word": "大结局虞书欣对面站的是丁禹兮",
@@ -315,12 +363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 274070,
-      "num": 274070,
-      "word": "雷军让李斌别唱了",
-      "onboard_time": 1731900257,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 290343,
+      "num": 290343,
+      "word": "刚果金一山体崩塌疑发现大量铜矿",
+      "onboard_time": 1731902180,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 273220,
@@ -355,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267447,
+      "num": 309686,
+      "word": "吉林一滑冰馆屋顶坍塌目击者发声",
+      "onboard_time": 1731903080,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 267394,
       "num": 267394,
       "word": "我国造出全球唯一可钻11000米钻探船",
@@ -371,12 +427,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 257841,
-      "num": 559178,
-      "word": "上海取消普通住房标准",
-      "onboard_time": 1731900019,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 259575,
+      "num": 354775,
+      "word": "赵晓卉说只有五月天关心她快不快乐",
+      "onboard_time": 1731900798,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 255022,
@@ -385,14 +441,6 @@
       "onboard_time": 1731816619,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252751,
-      "num": 361243,
-      "word": "金宇硕和女友拍人生四格",
-      "onboard_time": 1731900918,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 250755,
@@ -499,8 +547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199527,
-      "num": 199527,
+      "raw_hot": 203597,
+      "num": 309074,
       "word": "世上还有慕子期",
       "onboard_time": 1731900859,
       "rank": 28,
@@ -539,12 +587,28 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 184821,
+      "num": 488632,
+      "word": "律师解读济宁一女孩从商场四楼坠亡",
+      "onboard_time": 1731900257,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182505,
       "num": 182505,
       "word": "mlxg向无状态道歉",
       "onboard_time": 1731888678,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181809,
+      "num": 309557,
+      "word": "赵丽颖生活生动时刻",
+      "onboard_time": 1731903560,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 181644,
@@ -555,11 +619,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178208,
+      "num": 178208,
+      "word": "闪耀暖暖",
+      "onboard_time": 1731903321,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176106,
       "num": 160533,
       "word": "九旬夫妇赠与儿子3套房反被故意伤害",
       "onboard_time": 1731876850,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173340,
+      "num": 173340,
+      "word": "海南州原副州长酒后失德失范",
+      "onboard_time": 1731903560,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -569,6 +649,14 @@
       "onboard_time": 1731885437,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "王楚钦林高远福冈赛前对练",
+      "onboard_time": 1731901881,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 166550,
@@ -585,14 +673,6 @@
       "onboard_time": 1731848299,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159146,
-      "num": 159146,
-      "word": "95后女子涉嫌开设赌场被通缉",
-      "onboard_time": 1731901038,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158856,
@@ -619,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156089,
+      "num": 156089,
+      "word": "女子吃完红心甘蔗后多器官衰竭",
+      "onboard_time": 1731898878,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155498,
       "num": 155498,
       "word": "珠海航展顶流文创已卖空",
@@ -627,20 +715,36 @@
       "category": "军事"
     },
     {
-      "raw_hot": 154031,
-      "num": 154031,
-      "word": "女子吃完红心甘蔗后多器官衰竭",
-      "onboard_time": 1731898878,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153726,
       "num": 153726,
       "word": "菜市场的肉丸子一夜没放冰箱变红了",
       "onboard_time": 1731885736,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 152745,
+      "num": 308413,
+      "word": "李斯丹妮催更再见爱人",
+      "onboard_time": 1731903020,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148850,
+      "num": 148850,
+      "word": "官方回应女子将黔灵山猴子捡回家",
+      "onboard_time": 1731903981,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147399,
+      "num": 147399,
+      "word": "周冬雨巨型水晶项链",
+      "onboard_time": 1731903800,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143422,
@@ -667,6 +771,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139446,
+      "num": 139446,
+      "word": "华为Mate70系列有超大杯机型",
+      "onboard_time": 1731899777,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 138175,
+      "num": 138175,
+      "word": "孙颖莎福冈总决赛训练",
+      "onboard_time": 1731902661,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137485,
       "num": 137485,
       "word": "庄筱婷林栋哲求婚",
@@ -675,20 +795,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134798,
+      "num": 309959,
+      "word": "心理脱敏治疗后女子从18楼跳楼自杀",
+      "onboard_time": 1731903080,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134332,
       "num": 134332,
       "word": "俄传奇飞行员与中国观众依依惜别",
       "onboard_time": 1731897557,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 132547,
-      "num": 132547,
-      "word": "华为Mate70系列有超大杯机型",
-      "onboard_time": 1731899777,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 132218,
@@ -713,6 +833,14 @@
       "onboard_time": 1731894797,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131108,
+      "num": 173634,
+      "word": "这个丁子期有点入戏太深",
+      "onboard_time": 1731901819,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 130210,
@@ -883,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102468,
+      "num": 187115,
+      "word": "白城滑冰馆坍塌施工质量或存在问题",
+      "onboard_time": 1731901819,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 101594,
       "num": 101594,
       "word": "卢昱晓配音谁找的",
@@ -905,6 +1041,14 @@
       "onboard_time": 1731885736,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96321,
+      "num": 308374,
+      "word": "学习困难症一下子具象化了",
+      "onboard_time": 1731903441,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 94523,
@@ -1019,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75619,
+      "num": 309876,
+      "word": "痛经假怎么休困扰女职工",
+      "onboard_time": 1731902780,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75480,
       "num": 75480,
       "word": "李宇春参加声生不息的原因",
@@ -1033,14 +1185,6 @@
       "onboard_time": 1731855561,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 72854,
-      "num": 488632,
-      "word": "律师解读济宁一女孩从商场四楼坠亡",
-      "onboard_time": 1731900257,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70719,
@@ -1091,6 +1235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 57821,
+      "num": 309466,
+      "word": "荣耀官微3天连发14000条唱歌视频",
+      "onboard_time": 1731901579,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56312,
       "num": 56312,
       "word": "特朗普提名石油大亨出任能源部长",
@@ -1123,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52550,
-      "num": 354775,
-      "word": "赵晓卉说只有五月天关心她快不快乐",
-      "onboard_time": 1731900798,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52477,
       "num": 52477,
       "word": "五月天顽固上海场安可",
@@ -1147,6 +1291,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 51656,
+      "num": 991654,
+      "word": "秘鲁国菜有自己的专属纪念日",
+      "onboard_time": 1731900378,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51187,
       "num": 51187,
       "word": "日本自民党高官再提自卫队常驻美国",
@@ -1161,14 +1313,6 @@
       "onboard_time": 1731886576,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43847,
-      "num": 991654,
-      "word": "秘鲁国菜有自己的专属纪念日",
-      "onboard_time": 1731900378,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 41549,
@@ -1244,7 +1388,7 @@
     },
     {
       "raw_hot": 32459,
-      "num": 169306,
+      "num": 309359,
       "word": "这首歌献给勇敢出发的人",
       "onboard_time": 1731901340,
       "rank": 36,
@@ -1289,14 +1433,6 @@
       "onboard_time": 1731899058,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25795,
-      "num": 136081,
-      "word": "荣耀官微3天连发14000条唱歌视频",
-      "onboard_time": 1731901579,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 23671,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731904092621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2355941,
+        "num": 2355941,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 838337,
+        "num": 838337,
+        "word": "上海取消普通住房标准",
+        "onboard_time": 1731900019,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51656,
+        "num": 763823,
+        "word": "秘鲁国菜有自己的专属纪念日",
+        "onboard_time": 1731900378,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 722412,
+        "num": 722412,
+        "word": "吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731897678,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 682351,
+        "num": 682351,
+        "word": "华为Mate70开启预定",
+        "onboard_time": 1731897197,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 584489,
+        "num": 584489,
+        "word": "郝蕾演技班",
+        "onboard_time": 1731899840,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478113,
+        "num": 478113,
+        "word": "霸王茶姬 口令",
+        "onboard_time": 1731898097,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 452321,
+        "num": 452321,
+        "word": "给爱说话学生戴小蜜蜂的老师离职",
+        "onboard_time": 1731898698,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360219,
+        "num": 360219,
+        "word": "普通人第一次见到战火崩溃大哭",
+        "onboard_time": 1731896599,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310304,
+        "num": 310304,
+        "word": "雷军让李斌别唱了",
+        "onboard_time": 1731900257,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953712,
+        "num": 310227,
+        "word": "黄晓明觉得自己40岁前很傻",
+        "onboard_time": 1731901038,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703466,
+        "num": 310125,
+        "word": "王九龙结婚",
+        "onboard_time": 1731902420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304705,
+        "num": 310018,
+        "word": "关晓彤演技",
+        "onboard_time": 1731899898,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134798,
+        "num": 309959,
+        "word": "心理脱敏治疗后女子从18楼跳楼自杀",
+        "onboard_time": 1731903080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75619,
+        "num": 309876,
+        "word": "痛经假怎么休困扰女职工",
+        "onboard_time": 1731902780,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453616,
+        "num": 309804,
+        "word": "范丞丞承认被网评打击",
+        "onboard_time": 1731903140,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267447,
+        "num": 309686,
+        "word": "吉林一滑冰馆屋顶坍塌目击者发声",
+        "onboard_time": 1731903080,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 181809,
+        "num": 309557,
+        "word": "赵丽颖生活生动时刻",
+        "onboard_time": 1731903560,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57821,
+        "num": 309466,
+        "word": "荣耀官微3天连发14000条唱歌视频",
+        "onboard_time": 1731901579,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29943,
+        "num": 309359,
+        "word": "这首歌献给勇敢出发的人",
+        "onboard_time": 1731901340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679978,
+        "num": 309288,
+        "word": "家长曝儿子被8学生持钉棍打入院",
+        "onboard_time": 1731897317,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684870,
+        "num": 309161,
+        "word": "杨超越无发缝双丸子头",
+        "onboard_time": 1731898818,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203597,
+        "num": 309074,
+        "word": "世上还有慕子期",
+        "onboard_time": 1731900859,
+        "rank": 22,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 587109,
+        "num": 309016,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460986,
+        "num": 308846,
+        "word": "刘爽向麦琳道歉",
+        "onboard_time": 1731888739,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286392,
+        "num": 308778,
+        "word": "妙声吻戏 借位",
+        "onboard_time": 1731898998,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259575,
+        "num": 308670,
+        "word": "赵晓卉说只有五月天关心她快不快乐",
+        "onboard_time": 1731900798,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308628,
+        "num": 308628,
+        "word": "95后女子涉嫌开设赌场被通缉",
+        "onboard_time": 1731901038,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152745,
+        "num": 308413,
+        "word": "李斯丹妮催更再见爱人",
+        "onboard_time": 1731903020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96321,
+        "num": 308374,
+        "word": "学习困难症一下子具象化了",
+        "onboard_time": 1731903441,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308342,
+        "num": 308342,
+        "word": "金宇硕和女友拍人生四格",
+        "onboard_time": 1731900918,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290343,
+        "num": 290343,
+        "word": "刚果金一山体崩塌疑发现大量铜矿",
+        "onboard_time": 1731902180,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238980,
+        "num": 238980,
+        "word": "父亲回应4岁女童独自坐地铁回家",
+        "onboard_time": 1731895877,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198486,
+        "num": 198486,
+        "word": "30岁不婚不育不买房买车的生活",
+        "onboard_time": 1731885975,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139057,
+        "num": 193969,
+        "word": "电影长安的荔枝阵容",
+        "onboard_time": 1731897497,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192165,
+        "num": 192165,
+        "word": "华为Mate70来了",
+        "onboard_time": 1731893477,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102468,
+        "num": 187115,
+        "word": "白城滑冰馆坍塌施工质量或存在问题",
+        "onboard_time": 1731901819,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 184821,
+        "num": 184821,
+        "word": "律师解读济宁一女孩从商场四楼坠亡",
+        "onboard_time": 1731900257,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178208,
+        "num": 178208,
+        "word": "闪耀暖暖",
+        "onboard_time": 1731903321,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131108,
+        "num": 173634,
+        "word": "这个丁子期有点入戏太深",
+        "onboard_time": 1731901819,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173340,
+        "num": 173340,
+        "word": "海南州原副州长酒后失德失范",
+        "onboard_time": 1731903560,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167454,
+        "num": 167454,
+        "word": "王楚钦林高远福冈赛前对练",
+        "onboard_time": 1731901881,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161270,
+        "num": 161270,
+        "word": "女子参加自行车比赛被风筝线割喉",
+        "onboard_time": 1731899119,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156089,
+        "num": 156089,
+        "word": "女子吃完红心甘蔗后多器官衰竭",
+        "onboard_time": 1731898878,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148850,
+        "num": 148850,
+        "word": "官方回应女子将黔灵山猴子捡回家",
+        "onboard_time": 1731903981,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147399,
+        "num": 147399,
+        "word": "周冬雨巨型水晶项链",
+        "onboard_time": 1731903800,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145982,
+        "num": 145982,
+        "word": "我国一年快递量首次超1500亿件",
+        "onboard_time": 1731897557,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142185,
+        "num": 142185,
+        "word": "官方回应吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731898758,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139446,
+        "num": 139446,
+        "word": "华为Mate70系列有超大杯机型",
+        "onboard_time": 1731899777,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138175,
+        "num": 138175,
+        "word": "孙颖莎福冈总决赛训练",
+        "onboard_time": 1731902661,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#引领中巴关系进入新的黄金50年#"
+    }
+  }
+}
