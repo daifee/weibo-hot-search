@@ -1,0 +1,410 @@
+{
+  "runTime": 1731908472581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560067,
+        "num": 1560067,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491887,
+        "num": 491887,
+        "word": "刘丁硕谈王楚钦教练分配",
+        "onboard_time": 1731907339,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18445,
+        "num": 454556,
+        "word": "秘鲁国菜有自己的专属纪念日",
+        "onboard_time": 1731900378,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453632,
+        "num": 453632,
+        "word": "刚果金一山体崩塌疑发现大量铜矿",
+        "onboard_time": 1731902180,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 432486,
+        "num": 432486,
+        "word": "WTT",
+        "onboard_time": 1731905721,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384812,
+        "num": 384812,
+        "word": "赵晓卉说只有五月天关心她快不快乐",
+        "onboard_time": 1731900798,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379618,
+        "num": 379618,
+        "word": "上海取消普通住房标准",
+        "onboard_time": 1731900019,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282068,
+        "num": 377543,
+        "word": "永夜星河NPC越狱",
+        "onboard_time": 1731904821,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17678,
+        "num": 374911,
+        "word": "官方回应滑冰馆坍塌暂无人员被困",
+        "onboard_time": 1731908120,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 50330,
+        "num": 372011,
+        "word": "俄乌冲突即将迎来第1000天",
+        "onboard_time": 1731906799,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1017938,
+        "num": 367452,
+        "word": "娜扎恋情曝光后首露面",
+        "onboard_time": 1731906321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743401,
+        "num": 365293,
+        "word": "范丞丞承认被网评打击",
+        "onboard_time": 1731903140,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8102,
+        "num": 361602,
+        "word": "卫生巾长度虚标ABC客服称可以不买",
+        "onboard_time": 1731908299,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538472,
+        "num": 357646,
+        "word": "企业担心痛经假被滥用",
+        "onboard_time": 1731904821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21025,
+        "num": 355541,
+        "word": "舆论监督也是正面报道",
+        "onboard_time": 1731907099,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 517416,
+        "num": 352774,
+        "word": "黄晓明觉得自己40岁前很傻",
+        "onboard_time": 1731901038,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48990,
+        "num": 349867,
+        "word": "邓紫棋首位五大体育场歌手",
+        "onboard_time": 1731898517,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187512,
+        "num": 346161,
+        "word": "迪丽热巴工作室公布维权案件进展",
+        "onboard_time": 1731907521,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31670,
+        "num": 342038,
+        "word": "比亚迪30年30亿聚焦教育慈善",
+        "onboard_time": 1731905601,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 424675,
+        "num": 340612,
+        "word": "王九龙结婚",
+        "onboard_time": 1731902420,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558393,
+        "num": 337200,
+        "word": "麦琳五杀",
+        "onboard_time": 1731904282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451293,
+        "num": 332728,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386383,
+        "num": 331512,
+        "word": "丁舟杰 祝你年年有虞",
+        "onboard_time": 1731905481,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329102,
+        "num": 329102,
+        "word": "吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731897678,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 326584,
+        "num": 326584,
+        "word": "杨超越无发缝双丸子头",
+        "onboard_time": 1731898818,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23555,
+        "num": 324941,
+        "word": "一本书全面了解比亚迪",
+        "onboard_time": 1731905420,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248483,
+        "num": 322088,
+        "word": "张萌说短剧是演员的优速通",
+        "onboard_time": 1731906981,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196496,
+        "num": 321107,
+        "word": "郝蕾演技班",
+        "onboard_time": 1731899840,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177082,
+        "num": 316553,
+        "word": "好东西 含霉量好高",
+        "onboard_time": 1731904881,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161594,
+        "num": 315388,
+        "word": "失笑",
+        "onboard_time": 1731907819,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313525,
+        "num": 313525,
+        "word": "95后女子涉嫌开设赌场被通缉",
+        "onboard_time": 1731901038,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302153,
+        "num": 302153,
+        "word": "家长曝儿子被8学生持钉棍打入院",
+        "onboard_time": 1731897317,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293986,
+        "num": 293986,
+        "word": "怀9胞胎女子身体比较虚弱",
+        "onboard_time": 1731905781,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241965,
+        "num": 241965,
+        "word": "华为Mate70开启预定",
+        "onboard_time": 1731897197,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230253,
+        "num": 230253,
+        "word": "老虎",
+        "onboard_time": 1731906500,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222799,
+        "num": 222799,
+        "word": "网传8名学生运动会携手冲刺被开除",
+        "onboard_time": 1731906620,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190786,
+        "num": 190786,
+        "word": "给爱说话学生戴小蜜蜂的老师离职",
+        "onboard_time": 1731898698,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190305,
+        "num": 190305,
+        "word": "WTT抽签仪式延迟",
+        "onboard_time": 1731907639,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189294,
+        "num": 189294,
+        "word": "周冬雨巨型水晶项链",
+        "onboard_time": 1731903800,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185733,
+        "num": 185733,
+        "word": "华为Mate70四种配色",
+        "onboard_time": 1731905781,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166062,
+        "num": 166062,
+        "word": "不追星的人不准写娱乐圈文的原因",
+        "onboard_time": 1731906981,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164145,
+        "num": 164145,
+        "word": "普通人第一次见到战火崩溃大哭",
+        "onboard_time": 1731896599,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156209,
+        "num": 156209,
+        "word": "WTT福冈总决赛签表",
+        "onboard_time": 1731908239,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 156156,
+        "word": "马斯克上位史",
+        "onboard_time": 1731904701,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146449,
+        "num": 146449,
+        "word": "父亲回应4岁女童独自坐地铁回家",
+        "onboard_time": 1731895877,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141628,
+        "num": 141628,
+        "word": "吉林一滑冰馆屋顶坍塌目击者发声",
+        "onboard_time": 1731903080,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 102413,
+        "num": 140348,
+        "word": "王祖蓝夫妇出席蔡少芬儿子生日宴",
+        "onboard_time": 1731908180,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139539,
+        "num": 139539,
+        "word": "官方回应女子将黔灵山猴子捡回家",
+        "onboard_time": 1731903981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138261,
+        "num": 138261,
+        "word": "刘爽向麦琳道歉",
+        "onboard_time": 1731888739,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120870,
+        "num": 120870,
+        "word": "女子将黔灵山猴子捡回家喂养",
+        "onboard_time": 1731903501,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国要有大国的担当#"
+    }
+  }
+}
