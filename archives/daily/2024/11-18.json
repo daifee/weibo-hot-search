@@ -1,7 +1,15 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731922895417,
+  "endTime": 1731925576302,
   "band_list": [
+    {
+      "raw_hot": 2659081,
+      "num": 2659081,
+      "word": "鹿晗对不起 关晓彤王安宇挺配的",
+      "onboard_time": 1731923419,
+      "rank": 0,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 2494565,
       "num": 2494565,
@@ -35,12 +43,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1421978,
+      "num": 479002,
+      "word": "17岁女孩产后发现宫颈癌晚期",
+      "onboard_time": 1731924019,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1407422,
       "num": 1407422,
       "word": "霸王茶姬 口令",
       "onboard_time": 1731898097,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1291376,
+      "num": 1243041,
+      "word": "大四学生挂8科后失联多月被发现溺亡",
+      "onboard_time": 1731919640,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1282169,
@@ -56,14 +80,6 @@
       "word": "黑龙江被老虎咬伤村民家属发声",
       "onboard_time": 1731911541,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1243041,
-      "num": 1243041,
-      "word": "大四学生挂8科后失联多月被发现溺亡",
-      "onboard_time": 1731919640,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -121,6 +137,14 @@
       "onboard_time": 1731897678,
       "rank": 11,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 966404,
+      "num": 966404,
+      "word": "男子告诉的哥我杀人了开快点",
+      "onboard_time": 1731920599,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 953712,
@@ -241,6 +265,14 @@
       "onboard_time": 1731850760,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 677296,
+      "num": 677296,
+      "word": "女子取现700万给骗子怼民警管的宽",
+      "onboard_time": 1731922879,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 675539,
@@ -411,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463930,
+      "num": 463930,
+      "word": "一个林更新一个庄国栋",
+      "onboard_time": 1731921439,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453632,
       "num": 453632,
       "word": "刚果金一山体崩塌疑发现大量铜矿",
@@ -491,14 +531,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 396091,
-      "num": 437687,
-      "word": "一个林更新一个庄国栋",
-      "onboard_time": 1731921439,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 393399,
       "num": 350625,
       "word": "禹宙中欣cp超话榜TOP1",
@@ -547,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378693,
+      "num": 475687,
+      "word": "新射雕能复兴徐克的武侠梦吗",
+      "onboard_time": 1731918260,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371121,
       "num": 326444,
       "word": "95后女子涉嫌开设赌场被通缉",
@@ -579,12 +619,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 348788,
-      "num": 475687,
-      "word": "新射雕能复兴徐克的武侠梦吗",
-      "onboard_time": 1731918260,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 357775,
+      "num": 357775,
+      "word": "反写符",
+      "onboard_time": 1731921019,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 346751,
@@ -625,14 +665,6 @@
       "onboard_time": 1731905781,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318727,
-      "num": 318727,
-      "word": "反写符",
-      "onboard_time": 1731921019,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 314339,
@@ -691,12 +723,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 289905,
-      "num": 340681,
-      "word": "男子告诉的哥我杀人了开快点",
-      "onboard_time": 1731920599,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 292680,
+      "num": 292680,
+      "word": "窦靖童越来越像王菲",
+      "onboard_time": 1731923059,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 279197,
@@ -729,6 +761,14 @@
       "onboard_time": 1731858319,
       "rank": 19,
       "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 271083,
+      "num": 271083,
+      "word": "花3000元买了个7平米小家",
+      "onboard_time": 1731919757,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 269352,
@@ -777,14 +817,6 @@
       "onboard_time": 1731903800,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 261883,
-      "num": 261883,
-      "word": "花3000元买了个7平米小家",
-      "onboard_time": 1731919757,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 261162,
@@ -1083,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194971,
+      "num": 194971,
+      "word": "李倩演技",
+      "onboard_time": 1731924739,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192983,
       "num": 192983,
       "word": "多方回应黑龙江老虎咬伤村民",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1731903321,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177890,
+      "num": 177890,
+      "word": "于东来要花50亿建超大商业体",
+      "onboard_time": 1731924558,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177452,
@@ -1387,12 +1435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151340,
+      "num": 151340,
+      "word": "73岁张纪中为四胎女儿办满月",
+      "onboard_time": 1731924558,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150875,
       "num": 150875,
       "word": "近五成投资者认为牛市还在",
       "onboard_time": 1731913939,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149870,
+      "num": 149870,
+      "word": "孙颖莎说失败让自己更强大",
+      "onboard_time": 1731925101,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 149655,
@@ -1459,6 +1523,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143171,
+      "num": 143171,
+      "word": "原神",
+      "onboard_time": 1731907998,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143064,
+      "num": 143064,
+      "word": "丁禹兮背头粉夹克",
+      "onboard_time": 1731923000,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142188,
       "num": 142188,
       "word": "记者调查兰州牛皮纸井盖一碰就碎",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1731920419,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139104,
+      "num": 139104,
+      "word": "陈道明 还不回家睡觉",
+      "onboard_time": 1731923960,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 138175,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1731921439,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 133575,
+      "num": 167939,
+      "word": "刘耀文狼塑",
+      "onboard_time": 1731924019,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132218,
@@ -1619,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123327,
+      "num": 123327,
+      "word": "广州购房并缴社保满1年可落户",
+      "onboard_time": 1731925219,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121692,
       "num": 121692,
       "word": "消防搜救犬广告大片反差感拉满",
@@ -1633,6 +1737,14 @@
       "onboard_time": 1731837978,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120925,
+      "num": 315823,
+      "word": "野生动物造成人伤亡当地政府应补偿",
+      "onboard_time": 1731922758,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120870,
@@ -1681,14 +1793,6 @@
       "onboard_time": 1731912558,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116778,
-      "num": 116778,
-      "word": "女子取现700万给骗子怼民警管的宽",
-      "onboard_time": 1731922879,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116512,
@@ -1752,6 +1856,22 @@
       "word": "容祖儿曾以为李昊的田是家族企业",
       "onboard_time": 1731857958,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110443,
+      "num": 110319,
+      "word": "宋佳 观众缘",
+      "onboard_time": 1731925520,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110360,
+      "num": 110360,
+      "word": "再见爱人观察室嘉宾",
+      "onboard_time": 1731925520,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2091,20 +2211,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 61895,
+      "num": 480480,
+      "word": "的哥接到警方电话你的乘客是杀人逃犯",
+      "onboard_time": 1731925281,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60249,
+      "num": 295845,
+      "word": "俄罗斯参展人员拎着整箱啤酒登机",
+      "onboard_time": 1731924440,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 59340,
       "num": 281627,
       "word": "徐梦洁杀青记录",
       "onboard_time": 1731910400,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58464,
-      "num": 315823,
-      "word": "野生动物造成人伤亡当地政府应补偿",
-      "onboard_time": 1731922758,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56312,
@@ -2137,6 +2265,14 @@
       "onboard_time": 1731901099,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53262,
+      "num": 114601,
+      "word": "张玉宁无缘中日二番战",
+      "onboard_time": 1731924139,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 52721,
@@ -2233,6 +2369,14 @@
       "onboard_time": 1731918380,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43629,
+      "num": 365198,
+      "word": "交付不满5年的滑冰馆怎么就塌了",
+      "onboard_time": 1731924380,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 42906,
@@ -2467,6 +2611,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 23885,
+      "num": 304351,
+      "word": "法院强制执行文件被快递误退",
+      "onboard_time": 1731924679,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23671,
       "num": 29767,
       "word": "庄图南李佳戏份好多",
@@ -2545,6 +2697,14 @@
       "onboard_time": 1731871092,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 18480,
+      "num": 168056,
+      "word": "钟楚曦说邵艺辉随时随地刷微博",
+      "onboard_time": 1731925520,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 18165,
