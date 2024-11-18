@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731940944837,
+  "endTime": 1731943544000,
   "band_list": [
     {
       "raw_hot": 2800811,
@@ -17,6 +17,14 @@
       "onboard_time": 1731896357,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2010120,
+      "num": 348016,
+      "word": "全球首例成功换脸换手男子将结婚",
+      "onboard_time": 1731940282,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1917915,
@@ -105,6 +113,14 @@
       "onboard_time": 1731919579,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1046568,
+      "num": 1167450,
+      "word": "挖呀挖黄老师怒怼营销号",
+      "onboard_time": 1731941241,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 1025095,
@@ -233,6 +249,14 @@
       "onboard_time": 1731908659,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 865057,
+      "num": 865057,
+      "word": "金价暴跌近10%",
+      "onboard_time": 1731939803,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 838337,
@@ -579,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 476589,
-      "num": 476589,
-      "word": "金价暴跌近10%",
-      "onboard_time": 1731939803,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 463930,
       "num": 463930,
       "word": "一个林更新一个庄国栋",
       "onboard_time": 1731921439,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461874,
+      "num": 461874,
+      "word": "女子正上着班公司突然解散",
+      "onboard_time": 1731938720,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453632,
@@ -691,6 +715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 394530,
+      "num": 394530,
+      "word": "小米汽车卖一辆亏3万",
+      "onboard_time": 1731939260,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 393399,
       "num": 350625,
       "word": "禹宙中欣cp超话榜TOP1",
@@ -769,6 +801,14 @@
       "onboard_time": 1731934940,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375934,
+      "num": 326555,
+      "word": "竹林四侠玩密室还在炸火花",
+      "onboard_time": 1731942020,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371121,
@@ -859,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331118,
+      "num": 272754,
+      "word": "虞书欣剧播期间涨粉100万",
+      "onboard_time": 1731941539,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324423,
       "num": 564021,
       "word": "EXO初雪回榜",
@@ -883,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317970,
-      "num": 317970,
-      "word": "小米汽车卖一辆亏3万",
-      "onboard_time": 1731939260,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 314339,
       "num": 344159,
       "word": "丁禹兮这一秒第三视角",
@@ -913,14 +953,6 @@
       "onboard_time": 1731900257,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309363,
-      "num": 437037,
-      "word": "女子正上着班公司突然解散",
-      "onboard_time": 1731938720,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308342,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1731858319,
       "rank": 19,
       "category": "动漫,游戏"
+    },
+    {
+      "raw_hot": 272760,
+      "num": 317833,
+      "word": "当红男女爱豆的边界感",
+      "onboard_time": 1731939620,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 269352,
@@ -1179,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238853,
-      "num": 317833,
-      "word": "当红男女爱豆的边界感",
-      "onboard_time": 1731939620,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238459,
       "num": 251728,
       "word": "孙颖莎首轮对阵陈幸同",
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216198,
+      "num": 216198,
+      "word": "被东北虎咬伤村民无截肢风险",
+      "onboard_time": 1731938541,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 211428,
       "num": 281241,
       "word": "赵小童做了全套体检",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1731928219,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211123,
-      "num": 211123,
-      "word": "全球首例成功换脸换手男子将结婚",
-      "onboard_time": 1731940282,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 211025,
@@ -1555,6 +1587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 189782,
+      "num": 189782,
+      "word": "东方公主号游轮突发大火",
+      "onboard_time": 1731940642,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 189059,
       "num": 189059,
       "word": "李子柒 轻舟已过万重山",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1731939201,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 186089,
+      "num": 186088,
+      "word": "金价",
+      "onboard_time": 1731942740,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 185672,
@@ -1657,6 +1705,14 @@
       "onboard_time": 1731898517,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181082,
+      "num": 181082,
+      "word": "王昶刹不住车",
+      "onboard_time": 1731941539,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 180483,
@@ -1803,14 +1859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164358,
-      "num": 164358,
-      "word": "被东北虎咬伤村民无截肢风险",
-      "onboard_time": 1731938541,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 163236,
       "num": 163236,
       "word": "虞书欣荡秋千呀的一声",
@@ -1899,6 +1947,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 153745,
+      "num": 186089,
+      "word": "不看月光变奏曲你什么都不知道",
+      "onboard_time": 1731942200,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153726,
       "num": 153726,
       "word": "菜市场的肉丸子一夜没放冰箱变红了",
@@ -1971,12 +2027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149694,
+      "num": 149694,
+      "word": "赵小童检查结果跟如图所示一样",
+      "onboard_time": 1731940522,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149655,
       "num": 173634,
       "word": "这个丁子期有点入戏太深",
       "onboard_time": 1731901819,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148959,
+      "num": 148959,
+      "word": "麦琳和李行亮的老兄弟都吵过",
+      "onboard_time": 1731941841,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148946,
@@ -2075,14 +2147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142736,
-      "num": 142736,
-      "word": "赵小童检查结果跟如图所示一样",
-      "onboard_time": 1731940522,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142188,
       "num": 142188,
       "word": "记者调查兰州牛皮纸井盖一碰就碎",
@@ -2131,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138184,
+      "num": 138184,
+      "word": "愿你拥有这5种高能量心态",
+      "onboard_time": 1731940820,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138175,
       "num": 138175,
       "word": "孙颖莎福冈总决赛训练",
@@ -2161,6 +2233,14 @@
       "onboard_time": 1731933800,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 134643,
+      "num": 134643,
+      "word": "上班睡觉1小时被开除起诉获赔35万",
+      "onboard_time": 1731942920,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134332,
@@ -2251,14 +2331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126664,
-      "num": 126664,
-      "word": "东方公主号游轮突发大火",
-      "onboard_time": 1731940642,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 126237,
       "num": 126237,
       "word": "恒星引力冬日限定EP先行曲",
@@ -2305,14 +2377,6 @@
       "onboard_time": 1731926841,
       "rank": 44,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 122355,
-      "num": 122355,
-      "word": "愿你拥有这5种高能量心态",
-      "onboard_time": 1731940820,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122240,
@@ -2435,6 +2499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116247,
+      "num": 116247,
+      "word": "深圳水贝黄金销量下滑",
+      "onboard_time": 1731940881,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115546,
       "num": 115546,
       "word": "全红婵说武汉好冷全场爆笑",
@@ -2483,14 +2555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112082,
-      "num": 112082,
-      "word": "深圳水贝黄金销量下滑",
-      "onboard_time": 1731940881,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 111949,
       "num": 111949,
       "word": "容祖儿曾以为李昊的田是家族企业",
@@ -2515,6 +2579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108992,
+      "num": 108992,
+      "word": "AED又立功了",
+      "onboard_time": 1731942681,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107431,
       "num": 107431,
       "word": "李子柒支持师傅产品年轻化市场化",
@@ -2531,8 +2603,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105377,
+      "num": 338132,
+      "word": "高校回应本科生与其教授母亲同发论文",
+      "onboard_time": 1731939981,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104132,
-      "num": 192481,
+      "num": 271058,
       "word": "王源这种饭撒一定要缠上我",
       "onboard_time": 1731937581,
       "rank": 35,
@@ -2891,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60959,
+      "num": 149067,
+      "word": "AG打卡星光电梯",
+      "onboard_time": 1731942799,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60518,
       "num": 268176,
       "word": "伊万回应能否战胜日本",
@@ -2929,6 +3017,14 @@
       "onboard_time": 1731923780,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55616,
+      "num": 270412,
+      "word": "妇联回应毒犯4年生3孩刑期监外执行",
+      "onboard_time": 1731941721,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54544,
@@ -3059,14 +3155,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 47121,
-      "num": 338132,
-      "word": "高校回应本科生与其教授母亲同发论文",
-      "onboard_time": 1731939981,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46692,
       "num": 353001,
       "word": "蒋欣get到华妃重生文的点了",
@@ -3113,6 +3201,14 @@
       "onboard_time": 1731919699,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42292,
+      "num": 350851,
+      "word": "如何让痛经假无痛落地",
+      "onboard_time": 1731942200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41549,
@@ -3233,6 +3329,14 @@
       "onboard_time": 1731936561,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33790,
+      "num": 134830,
+      "word": "孙颖莎回应近期状态",
+      "onboard_time": 1731942142,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 33753,

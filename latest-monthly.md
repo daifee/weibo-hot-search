@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 22:42:24
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 23:25:44
 </p>
 </blockquote>
 <p>
@@ -695,6 +695,12 @@ Faker太猛了（热度：2522854）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%BA%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
 多名运动员为王楚钦发声（热度：2010592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E6%88%90%E5%8A%9F%E6%8D%A2%E8%84%B8%E6%8D%A2%E6%89%8B%E7%94%B7%E5%AD%90%E5%B0%86%E7%BB%93%E5%A9%9A%23" target="weibo">
+全球首例成功换脸换手男子将结婚（热度：2010120）
 </a>
 </li>
 
@@ -2781,6 +2787,12 @@ Uzi怒喷On（热度：1053516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E6%80%92%E6%80%BC%E8%90%A5%E9%94%80%E5%8F%B7%23" target="weibo">
+挖呀挖黄老师怒怼营销号（热度：1046568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23S14%E5%BC%80%E5%B9%95%E5%BC%8F%E6%92%AD%E4%B8%8D%E6%92%AD%23" target="weibo">
 S14开幕式播不播（热度：1045831）
 </a>
@@ -3845,6 +3857,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E5%87%A4%23" target="weibo">
 权志凤（热度：865595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E8%BF%9110%25%23" target="weibo">
+金价暴跌近10%（热度：865057）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ BLG赛后发博（热度：654460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E9%81%AD%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%A6%BB%E5%AD%90%E6%94%BB%E5%87%BB%23" target="weibo">
 特朗普不满遭奥巴马妻子攻击（热度：637150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E8%AF%B4%E7%B9%81%E8%8A%B1%E7%89%87%E5%9C%BA%E5%90%B5%E6%9E%B6%E5%90%B5%E4%BA%86%E4%B8%89%E5%A4%A9%23" target="weibo">
-papi酱说繁花片场吵架吵了三天（热度：637006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B8%E4%B9%B3%20%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
-优酸乳 虞书欣（热度：636003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E9%A6%99%E6%B8%AF%E6%8C%81%E5%88%80%E6%8A%A2%E5%8A%AB%E8%AD%A6%E9%95%BF%E8%A2%AB%E6%8D%855%E5%88%80%23" target="weibo">
-外籍男子在香港持刀抢劫警长被捅5刀（热度：635786）
 </a>
 </li>
 
