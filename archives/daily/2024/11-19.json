@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731947393743,
+  "endTime": 1731948402543,
   "band_list": [
     {
       "raw_hot": 1211083,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 443556,
-      "num": 443556,
+      "raw_hot": 529406,
+      "num": 529406,
       "word": "圆明园通报四只黑天鹅死亡",
       "onboard_time": 1731943820,
       "rank": 3,
@@ -49,6 +49,14 @@
       "onboard_time": 1731939803,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 392090,
+      "num": 392090,
+      "word": "摄影展1997年作品出现喜羊羊元素",
+      "onboard_time": 1731944899,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 323417,
@@ -65,14 +73,6 @@
       "onboard_time": 1731919458,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301440,
-      "num": 301440,
-      "word": "摄影展1997年作品出现喜羊羊元素",
-      "onboard_time": 1731944899,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 294783,
@@ -99,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231056,
+      "num": 188579,
+      "word": "怀9胞胎女子丈夫希望留两胎",
+      "onboard_time": 1731944839,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229964,
+      "num": 229964,
+      "word": "金价",
+      "onboard_time": 1731942740,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 217460,
       "num": 217460,
       "word": "孙颖莎希望4年后还能听到欢呼声",
@@ -123,14 +139,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 202320,
-      "num": 202320,
-      "word": "金价",
-      "onboard_time": 1731942740,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 199894,
       "num": 199894,
       "word": "小米汽车卖一辆亏3万",
@@ -139,12 +147,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 188579,
-      "num": 188579,
-      "word": "怀9胞胎女子丈夫希望留两胎",
-      "onboard_time": 1731944839,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 195642,
+      "num": 199104,
+      "word": "麦琳和李行亮的老兄弟都吵过",
+      "onboard_time": 1731941841,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 168901,
@@ -155,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166601,
-      "num": 199104,
-      "word": "麦琳和李行亮的老兄弟都吵过",
-      "onboard_time": 1731941841,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 163655,
+      "num": 163655,
+      "word": "北京取消普通住房和非普通住房标准",
+      "onboard_time": 1731947417,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144819,
@@ -203,6 +211,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 131034,
+      "num": 217436,
+      "word": "圆明园4只抱窝黑天鹅陆续死亡",
+      "onboard_time": 1731945078,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125569,
       "num": 125569,
       "word": "当红男女爱豆的边界感",
@@ -217,14 +233,6 @@
       "onboard_time": 1731931100,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123774,
-      "num": 217436,
-      "word": "圆明园4只抱窝黑天鹅陆续死亡",
-      "onboard_time": 1731945078,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 119749,
@@ -283,6 +291,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 94129,
+      "num": 94129,
+      "word": "官方通报游客夜爬大牯牛山纵火烧山",
+      "onboard_time": 1731944478,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 90437,
       "num": 90437,
       "word": "赵小童检查结果跟如图所示一样",
@@ -331,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79624,
-      "num": 79624,
-      "word": "官方通报游客夜爬大牯牛山纵火烧山",
-      "onboard_time": 1731944478,
-      "rank": 42,
-      "category": "舆论监督"
+      "raw_hot": 77675,
+      "num": 77675,
+      "word": "黑龙江一地发现大型野生老虎",
+      "onboard_time": 1731946936,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75030,
@@ -379,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67225,
-      "num": 67225,
-      "word": "黑龙江一地发现大型野生老虎",
-      "onboard_time": 1731946936,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 68680,
+      "num": 68680,
+      "word": "竹林四侠",
+      "onboard_time": 1731948196,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 67151,
@@ -393,6 +409,14 @@
       "onboard_time": 1731945199,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24228,
+      "num": 157516,
+      "word": "昆凌陪女儿堆沙子",
+      "onboard_time": 1731947656,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 7249,
