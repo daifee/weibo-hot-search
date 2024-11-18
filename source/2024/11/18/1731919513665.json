@@ -1,0 +1,410 @@
+{
+  "runTime": 1731919513665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356926,
+        "num": 1356926,
+        "word": "官方通报黑龙江老虎进村咬伤村民",
+        "onboard_time": 1731915559,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1234992,
+        "num": 1234992,
+        "word": "杨子后悔参加再见爱人",
+        "onboard_time": 1731917779,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15981,
+        "num": 1051722,
+        "word": "数读中国巴西务实合作成果",
+        "onboard_time": 1731915799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 994742,
+        "num": 994742,
+        "word": "被老虎咬伤家属说左手保不住了",
+        "onboard_time": 1731917300,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 504414,
+        "num": 504414,
+        "word": "刘诗诗提灯神女",
+        "onboard_time": 1731915139,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 487554,
+        "num": 487554,
+        "word": "RA正式退出LPL",
+        "onboard_time": 1731915739,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 414611,
+        "num": 414611,
+        "word": "无孩爱猫女",
+        "onboard_time": 1731918018,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409613,
+        "num": 409613,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33753,
+        "num": 408287,
+        "word": "全国多地政府大院向公众开放",
+        "onboard_time": 1731918558,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21910,
+        "num": 408021,
+        "word": "新射雕能复兴徐克的武侠梦吗",
+        "onboard_time": 1731918260,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408013,
+        "num": 408013,
+        "word": "王楚钦坐裁判椅",
+        "onboard_time": 1731913999,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 931276,
+        "num": 406726,
+        "word": "老虎",
+        "onboard_time": 1731906500,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897972,
+        "num": 392327,
+        "word": "黑龙江被老虎咬伤村民家属发声",
+        "onboard_time": 1731911541,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24738,
+        "num": 385332,
+        "word": "新诈骗手法通过跨多个平台躲避追踪",
+        "onboard_time": 1731918739,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224900,
+        "num": 377749,
+        "word": "被野生动物咬伤如何维权",
+        "onboard_time": 1731917120,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 806570,
+        "num": 372464,
+        "word": "36岁抗癌网红陈班长去世",
+        "onboard_time": 1731916462,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 631209,
+        "num": 357196,
+        "word": "老虎进村扑咬老人快速拉门脱险",
+        "onboard_time": 1731914119,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 356166,
+        "num": 356166,
+        "word": "好东西豆瓣开分9.1",
+        "onboard_time": 1731915378,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27195,
+        "num": 355571,
+        "word": "AG微博小编上线",
+        "onboard_time": 1731919159,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64800,
+        "num": 355543,
+        "word": "王一博叫你关注联合国气候变化大会",
+        "onboard_time": 1731918439,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504879,
+        "num": 355539,
+        "word": "娜扎恋情曝光后首露面",
+        "onboard_time": 1731906321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355531,
+        "num": 355531,
+        "word": "19岁小伙在迈巴赫车尾贴满寻人启事",
+        "onboard_time": 1731906741,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345083,
+        "num": 345083,
+        "word": "庄筱婷林栋哲的小孩",
+        "onboard_time": 1731911659,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342488,
+        "num": 342488,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302893,
+        "num": 302893,
+        "word": "怀9胞胎女子将减去7个胚胎",
+        "onboard_time": 1731913640,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258096,
+        "num": 258096,
+        "word": "韩国吃播",
+        "onboard_time": 1731918018,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184419,
+        "num": 216480,
+        "word": "麦琳五杀",
+        "onboard_time": 1731904282,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184345,
+        "num": 213181,
+        "word": "手指吻",
+        "onboard_time": 1731913398,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179813,
+        "num": 212793,
+        "word": "武契奇深夜给中国工人送夜宵",
+        "onboard_time": 1731911478,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212679,
+        "num": 212679,
+        "word": "黄晓明觉得自己40岁前很傻",
+        "onboard_time": 1731901038,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183660,
+        "num": 200586,
+        "word": "魏大勋 一看你就没听过刘旸的脱口秀",
+        "onboard_time": 1731918138,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196684,
+        "num": 196684,
+        "word": "张志杰猝死事件后世界羽联更改规则",
+        "onboard_time": 1731910759,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190549,
+        "num": 190549,
+        "word": "黑龙江一野生东北虎咬伤人",
+        "onboard_time": 1731909139,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 22983,
+        "num": 183911,
+        "word": "刘诗诗心有明月",
+        "onboard_time": 1731918678,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182182,
+        "num": 182182,
+        "word": "A股缩量673亿下跌个股超4100只",
+        "onboard_time": 1731916099,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178334,
+        "num": 178334,
+        "word": "这张脸做男做女都精彩",
+        "onboard_time": 1731915918,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167709,
+        "num": 167709,
+        "word": "怀9胞胎女子18日做减胎手术",
+        "onboard_time": 1731916702,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153976,
+        "num": 153976,
+        "word": "老人听说有老虎正瞅着猛虎就扑来",
+        "onboard_time": 1731916939,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 150264,
+        "num": 150264,
+        "word": "孙颖莎王楚钦像两个季节的人",
+        "onboard_time": 1731913098,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148489,
+        "num": 148489,
+        "word": "看小说最讨厌看到的女主称呼",
+        "onboard_time": 1731916879,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 77467,
+        "num": 148293,
+        "word": "吉林坍塌滑冰馆投用不满5年",
+        "onboard_time": 1731917479,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 148246,
+        "num": 148246,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144601,
+        "num": 144601,
+        "word": "范丞丞承认被网评打击",
+        "onboard_time": 1731903140,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143792,
+        "num": 143792,
+        "word": "何炅 丁禹兮你就这么听话啊",
+        "onboard_time": 1731910819,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137309,
+        "num": 137309,
+        "word": "上海外籍游客投诉自主寄存柜难用",
+        "onboard_time": 1731912379,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126183,
+        "num": 126183,
+        "word": "EXO初雪回榜",
+        "onboard_time": 1731914538,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123320,
+        "num": 123320,
+        "word": "多方回应黑龙江老虎咬伤村民",
+        "onboard_time": 1731908719,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 122612,
+        "num": 122612,
+        "word": "赵露思唐装",
+        "onboard_time": 1731912799,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117212,
+        "num": 117212,
+        "word": "姚景元 你又不是我你怎么会懂我",
+        "onboard_time": 1731919159,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115615,
+        "num": 115615,
+        "word": "95后女子涉嫌开设赌场被通缉",
+        "onboard_time": 1731901038,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两国是跨越山海的好朋友#"
+    }
+  }
+}
