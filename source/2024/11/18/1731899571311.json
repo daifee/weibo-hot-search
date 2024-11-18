@@ -1,0 +1,410 @@
+{
+  "runTime": 1731899571311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2206354,
+        "num": 2206354,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1379495,
+        "num": 1379495,
+        "word": "霸王茶姬 口令",
+        "onboard_time": 1731898097,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 6959,
+        "num": 1151553,
+        "word": "一篇文章了解巴西",
+        "onboard_time": 1731899538,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 636065,
+        "num": 968674,
+        "word": "刘爽向麦琳道歉",
+        "onboard_time": 1731888739,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246314,
+        "num": 941775,
+        "word": "丁舟杰文学",
+        "onboard_time": 1731859038,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 936392,
+        "num": 936392,
+        "word": "吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731897678,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 5201,
+        "num": 927424,
+        "word": "巴西交响乐团奏响我爱你中国",
+        "onboard_time": 1731850520,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67229,
+        "num": 889703,
+        "word": "我国正研发六足登月机器人",
+        "onboard_time": 1731871811,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 52251,
+        "num": 862993,
+        "word": "2025二十四节气日历",
+        "onboard_time": 1731899178,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 27693,
+        "num": 827075,
+        "word": "低价助听器老人们可能越戴越聋",
+        "onboard_time": 1731899058,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819577,
+        "num": 819577,
+        "word": "华为Mate70来了",
+        "onboard_time": 1731893477,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 640435,
+        "num": 640435,
+        "word": "华为Mate70开启预定",
+        "onboard_time": 1731897197,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 593429,
+        "num": 593429,
+        "word": "普通人第一次见到战火崩溃大哭",
+        "onboard_time": 1731896599,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 514777,
+        "num": 514777,
+        "word": "父亲回应4岁女童独自坐地铁回家",
+        "onboard_time": 1731895877,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502182,
+        "num": 502182,
+        "word": "家长曝儿子被8学生持钉棍打入院",
+        "onboard_time": 1731897317,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393445,
+        "num": 393445,
+        "word": "男子被骗2万崩溃大喊我错了",
+        "onboard_time": 1731890959,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242050,
+        "num": 242050,
+        "word": "电影误判定档",
+        "onboard_time": 1731898157,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234436,
+        "num": 234436,
+        "word": "电影长安的荔枝阵容",
+        "onboard_time": 1731897497,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210055,
+        "num": 233873,
+        "word": "妙声吻戏 借位",
+        "onboard_time": 1731898998,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123312,
+        "num": 233229,
+        "word": "杨超越无发缝双丸子头",
+        "onboard_time": 1731898818,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281895,
+        "num": 232467,
+        "word": "A股",
+        "onboard_time": 1731894257,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268648,
+        "num": 232372,
+        "word": "官方回应吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731898758,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620776,
+        "num": 231714,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231145,
+        "num": 231145,
+        "word": "无意识伤腰的5个习惯",
+        "onboard_time": 1731893477,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 227901,
+        "num": 227901,
+        "word": "30岁不婚不育不买房买车的生活",
+        "onboard_time": 1731885975,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226242,
+        "num": 226242,
+        "word": "我国一年快递量首次超1500亿件",
+        "onboard_time": 1731897557,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224597,
+        "num": 224597,
+        "word": "给爱说话学生戴小蜜蜂的老师离职",
+        "onboard_time": 1731898698,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197196,
+        "num": 197196,
+        "word": "五个一工程奖",
+        "onboard_time": 1731898698,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181644,
+        "num": 181644,
+        "word": "邓紫棋首位五大体育场歌手",
+        "onboard_time": 1731898517,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179824,
+        "num": 179824,
+        "word": "习惯咬指甲的人遇到了提醒他的人",
+        "onboard_time": 1731882193,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212204,
+        "num": 177630,
+        "word": "起底针孔摄像头偷拍黑色产业链",
+        "onboard_time": 1731896177,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212201,
+        "num": 176384,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174678,
+        "num": 174678,
+        "word": "黄金",
+        "onboard_time": 1731898637,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164089,
+        "num": 164089,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 156032,
+        "num": 156032,
+        "word": "AI自习室在县城悄悄兴起",
+        "onboard_time": 1731896599,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155565,
+        "num": 155565,
+        "word": "虞书欣拉着丁禹兮的手拍照",
+        "onboard_time": 1731892577,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154031,
+        "num": 154031,
+        "word": "女子吃完红心甘蔗后多器官衰竭",
+        "onboard_time": 1731898878,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149341,
+        "num": 149341,
+        "word": "女子参加自行车比赛被风筝线割喉",
+        "onboard_time": 1731899119,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143474,
+        "num": 143474,
+        "word": "女子与婆婆厮打把儿子摔成颅内出血",
+        "onboard_time": 1731852921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134332,
+        "num": 134332,
+        "word": "俄传奇飞行员与中国观众依依惜别",
+        "onboard_time": 1731897557,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134019,
+        "num": 134019,
+        "word": "我国造出全球唯一可钻11000米钻探船",
+        "onboard_time": 1731861017,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 133890,
+        "num": 133890,
+        "word": "网友质疑父母让4岁女童独自坐地铁",
+        "onboard_time": 1731893657,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133542,
+        "num": 133542,
+        "word": "周润发说权志龙变靓女了",
+        "onboard_time": 1731849080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126237,
+        "num": 126237,
+        "word": "恒星引力冬日限定EP先行曲",
+        "onboard_time": 1731899418,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122000,
+        "num": 122000,
+        "word": "帮助转移财产者可以共犯论处",
+        "onboard_time": 1731898038,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117663,
+        "num": 117663,
+        "word": "骑士15连胜",
+        "onboard_time": 1731896238,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115931,
+        "num": 115931,
+        "word": "永夜星河终于亲了",
+        "onboard_time": 1731885437,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115650,
+        "num": 115650,
+        "word": "印度成功试射远程高超音速导弹",
+        "onboard_time": 1731895217,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111632,
+        "num": 111632,
+        "word": "王一博两部作品入选五个一工程奖",
+        "onboard_time": 1731897918,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110648,
+        "num": 110648,
+        "word": "全红婵和同学握手比谁弯腰低",
+        "onboard_time": 1731894797,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国要有大国的担当#"
+    }
+  }
+}
