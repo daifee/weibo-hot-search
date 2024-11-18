@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 23:40:36
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/19 00:29:53
 </p>
 </blockquote>
 <p>
@@ -6611,6 +6611,12 @@ BLG赛后发博（热度：654460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%B0%B1%E5%AE%9B%E8%8B%A5%E4%B8%80%E5%BA%A7%E6%A1%A5%23%23" target="weibo">
 #二十国集团就宛若一座桥#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%A1%AE%E4%BF%9D%E4%B8%AD%E8%8B%B1%E5%85%B3%E7%B3%BB%E8%B5%B0%E5%BE%97%E7%A8%B3%E8%B5%B0%E5%BE%97%E5%AE%9E%E8%B5%B0%E5%BE%97%E8%BF%9C%23%23" target="weibo">
+#确保中英关系走得稳走得实走得远#
 </a>
 </li>
 
