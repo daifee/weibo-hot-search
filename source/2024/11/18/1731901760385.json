@@ -1,0 +1,410 @@
+{
+  "runTime": 1731901760385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2494565,
+        "num": 2494565,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1407422,
+        "num": 1407422,
+        "word": "霸王茶姬 口令",
+        "onboard_time": 1731898097,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 43847,
+        "num": 991654,
+        "word": "秘鲁国菜有自己的专属纪念日",
+        "onboard_time": 1731900378,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 979479,
+        "num": 979479,
+        "word": "吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731897678,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 669127,
+        "num": 669127,
+        "word": "郝蕾演技班",
+        "onboard_time": 1731899840,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584496,
+        "num": 584496,
+        "word": "华为Mate70开启预定",
+        "onboard_time": 1731897197,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 257841,
+        "num": 559178,
+        "word": "上海取消普通住房标准",
+        "onboard_time": 1731900019,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496605,
+        "num": 551988,
+        "word": "关晓彤演技",
+        "onboard_time": 1731899898,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551404,
+        "num": 551404,
+        "word": "华为Mate70来了",
+        "onboard_time": 1731893477,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 430890,
+        "num": 547417,
+        "word": "给爱说话学生戴小蜜蜂的老师离职",
+        "onboard_time": 1731898698,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1023795,
+        "num": 537185,
+        "word": "家长曝儿子被8学生持钉棍打入院",
+        "onboard_time": 1731897317,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53651,
+        "num": 527874,
+        "word": "白城坍塌滑冰馆投资超5000万元",
+        "onboard_time": 1731901099,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13489,
+        "num": 514145,
+        "word": "李昊见到容祖儿说我有一块田",
+        "onboard_time": 1731900918,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 796255,
+        "num": 496615,
+        "word": "杨超越无发缝双丸子头",
+        "onboard_time": 1731898818,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72854,
+        "num": 488632,
+        "word": "律师解读济宁一女孩从商场四楼坠亡",
+        "onboard_time": 1731900257,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484362,
+        "num": 484362,
+        "word": "普通人第一次见到战火崩溃大哭",
+        "onboard_time": 1731896599,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376212,
+        "num": 376212,
+        "word": "黄晓明觉得自己40岁前很傻",
+        "onboard_time": 1731901038,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362834,
+        "num": 362834,
+        "word": "妙声吻戏 借位",
+        "onboard_time": 1731898998,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252751,
+        "num": 361243,
+        "word": "金宇硕和女友拍人生四格",
+        "onboard_time": 1731900918,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52550,
+        "num": 354775,
+        "word": "赵晓卉说只有五月天关心她快不快乐",
+        "onboard_time": 1731900798,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603479,
+        "num": 352699,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 544148,
+        "num": 343962,
+        "word": "刘爽向麦琳道歉",
+        "onboard_time": 1731888739,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342912,
+        "num": 342912,
+        "word": "父亲回应4岁女童独自坐地铁回家",
+        "onboard_time": 1731895877,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274070,
+        "num": 274070,
+        "word": "雷军让李斌别唱了",
+        "onboard_time": 1731900257,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225286,
+        "num": 225286,
+        "word": "黄金",
+        "onboard_time": 1731898637,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214189,
+        "num": 214189,
+        "word": "电影长安的荔枝阵容",
+        "onboard_time": 1731897497,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204879,
+        "num": 204879,
+        "word": "佘诗曼新剧开机路透",
+        "onboard_time": 1731901218,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201888,
+        "num": 201888,
+        "word": "我国一年快递量首次超1500亿件",
+        "onboard_time": 1731897557,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199527,
+        "num": 199527,
+        "word": "世上还有慕子期",
+        "onboard_time": 1731900859,
+        "rank": 28,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 54434,
+        "num": 199138,
+        "word": "孤星计划谍战版剧本杀",
+        "onboard_time": 1731901279,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199086,
+        "num": 199086,
+        "word": "30岁不婚不育不买房买车的生活",
+        "onboard_time": 1731885975,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197174,
+        "num": 197174,
+        "word": "官方回应吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731898758,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194528,
+        "num": 194528,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189208,
+        "num": 189208,
+        "word": "男子被骗2万崩溃大喊我错了",
+        "onboard_time": 1731890959,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177997,
+        "num": 177997,
+        "word": "电影误判定档",
+        "onboard_time": 1731898157,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176755,
+        "num": 176755,
+        "word": "无意识伤腰的5个习惯",
+        "onboard_time": 1731893477,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 32459,
+        "num": 169306,
+        "word": "这首歌献给勇敢出发的人",
+        "onboard_time": 1731901340,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166550,
+        "num": 166550,
+        "word": "女子参加自行车比赛被风筝线割喉",
+        "onboard_time": 1731899119,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159146,
+        "num": 159146,
+        "word": "95后女子涉嫌开设赌场被通缉",
+        "onboard_time": 1731901038,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157027,
+        "num": 157027,
+        "word": "丁舟杰文学",
+        "onboard_time": 1731859038,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151004,
+        "num": 151004,
+        "word": "女子吃完红心甘蔗后多器官衰竭",
+        "onboard_time": 1731898878,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149222,
+        "num": 149222,
+        "word": "A股",
+        "onboard_time": 1731894257,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140577,
+        "num": 140577,
+        "word": "国乒女队福冈总决赛训练",
+        "onboard_time": 1731899599,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137466,
+        "num": 137466,
+        "word": "AI自习室在县城悄悄兴起",
+        "onboard_time": 1731896599,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25795,
+        "num": 136081,
+        "word": "荣耀官微3天连发14000条唱歌视频",
+        "onboard_time": 1731901579,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136035,
+        "num": 136035,
+        "word": "五个一工程奖",
+        "onboard_time": 1731898698,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132547,
+        "num": 132547,
+        "word": "华为Mate70系列有超大杯机型",
+        "onboard_time": 1731899777,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130055,
+        "num": 130055,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1731810498,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128086,
+        "num": 128086,
+        "word": "俄传奇飞行员与中国观众依依惜别",
+        "onboard_time": 1731897557,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 124653,
+        "num": 124653,
+        "word": "外国小姐姐穿中国民族服饰追星",
+        "onboard_time": 1731901459,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国要有大国的担当#"
+    }
+  }
+}
