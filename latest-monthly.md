@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 21:32:29
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 21:43:30
 </p>
 </blockquote>
 <p>
@@ -3471,6 +3471,12 @@ Elk神箭（热度：991451）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9B%A0%E8%A1%8C%E8%BD%A6%E7%BA%A0%E7%BA%B7%E5%B0%86%E4%BA%BA%E5%88%BA%E6%AD%BB%23" target="weibo">
+警方通报男子因行车纠纷将人刺死（热度：928574）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E6%89%93%E7%90%83%E5%A8%9C%E6%89%8E%E7%BB%99%E4%BB%96%E9%80%81%E6%B0%B4%23" target="weibo">
 张云龙打球娜扎给他送水（热度：927558）
 </a>
@@ -5121,12 +5127,6 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9B%A0%E8%A1%8C%E8%BD%A6%E7%BA%A0%E7%BA%B7%E5%B0%86%E4%BA%BA%E5%88%BA%E6%AD%BB%23" target="weibo">
-警方通报男子因行车纠纷将人刺死（热度：708736）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B8%B8%E6%B3%B3%E9%80%89%E6%89%8B%E5%A4%BA%E5%86%A0%E5%90%8E%E5%A4%9A%E6%B8%B8%E4%BA%86%E4%B8%80%E5%9C%88%23" target="weibo">
 日本游泳选手夺冠后多游了一圈（热度：707414）
 </a>
@@ -6605,6 +6605,12 @@ Knight删除BLG相关微博（热度：635402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%BC%80%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%8F%91%E5%B1%95%E6%96%B0%E6%97%B6%E4%BB%A3%23%23" target="weibo">
 #开创亚太发展新时代#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%B0%B1%E5%AE%9B%E8%8B%A5%E4%B8%80%E5%BA%A7%E6%A1%A5%23%23" target="weibo">
+#二十国集团就宛若一座桥#
 </a>
 </li>
 

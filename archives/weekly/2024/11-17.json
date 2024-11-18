@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731936749700,
+  "endTime": 1731937410473,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1189233,
-      "num": 630839,
+      "num": 646212,
       "word": "新疆喀什一中学发生踩踏事故",
       "onboard_time": 1731932900,
       "rank": 3,
@@ -385,6 +385,14 @@
       "onboard_time": 1731833239,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 928574,
+      "num": 928574,
+      "word": "警方通报男子因行车纠纷将人刺死",
+      "onboard_time": 1731934280,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 922454,
@@ -689,14 +697,6 @@
       "onboard_time": 1731816738,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 708736,
-      "num": 708736,
-      "word": "警方通报男子因行车纠纷将人刺死",
-      "onboard_time": 1731934280,
-      "rank": 30,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 700316,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1731805999,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 520580,
+      "num": 444790,
+      "word": "永夜星河 怪不得没吻戏",
+      "onboard_time": 1731936202,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 518480,
@@ -1451,6 +1459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 351568,
+      "num": 579581,
+      "word": "小巷人家 孝庄",
+      "onboard_time": 1731933140,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350461,
       "num": 215500,
       "word": "刘耀文直播",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1731842239,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 344859,
-      "num": 579581,
-      "word": "小巷人家 孝庄",
-      "onboard_time": 1731933140,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 343971,
@@ -1611,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304011,
+      "num": 564467,
+      "word": "小蜜蜂老师离职事件疑云重重",
+      "onboard_time": 1731935122,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 299169,
       "num": 197178,
       "word": "以色列士兵在玩手机时被击中",
@@ -1667,6 +1683,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 291680,
+      "num": 542059,
+      "word": "张馨予 对于伤害不会心软",
+      "onboard_time": 1731935541,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290766,
       "num": 290766,
       "word": "关晓彤红发",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1731805579,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285349,
+      "num": 285349,
+      "word": "班主任怒批家长送孩子上学迟到",
+      "onboard_time": 1731934641,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 284637,
@@ -1859,14 +1891,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 260234,
-      "num": 260234,
-      "word": "班主任怒批家长送孩子上学迟到",
-      "onboard_time": 1731934641,
-      "rank": 47,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 259833,
       "num": 259833,
       "word": "王者荣耀王昭君",
@@ -1889,14 +1913,6 @@
       "onboard_time": 1731820339,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257294,
-      "num": 564467,
-      "word": "小蜜蜂老师离职事件疑云重重",
-      "onboard_time": 1731935122,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 257196,
@@ -1971,27 +1987,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 248889,
-      "num": 542059,
-      "word": "张馨予 对于伤害不会心软",
-      "onboard_time": 1731935541,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247744,
       "num": 247744,
       "word": "卢昱晓配音谁找的",
       "onboard_time": 1731852020,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 246732,
-      "num": 397311,
-      "word": "永夜星河 怪不得没吻戏",
-      "onboard_time": 1731936202,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -2059,6 +2059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239834,
+      "num": 239834,
+      "word": "儿子大喝一声虎口救父",
+      "onboard_time": 1731935182,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239833,
       "num": 265909,
       "word": "孙俪陪女儿参加拉丁舞比赛",
@@ -2091,20 +2099,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 237192,
-      "num": 237192,
-      "word": "儿子大喝一声虎口救父",
-      "onboard_time": 1731935182,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235791,
       "num": 235791,
       "word": "汪苏泷陈楚生思念一个荒废的名字",
       "onboard_time": 1731849980,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235501,
+      "num": 235501,
+      "word": "吐槽黄焖鸡不要点的博主被禁言",
+      "onboard_time": 1731933981,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234436,
@@ -2315,6 +2323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211428,
+      "num": 211428,
+      "word": "赵小童做了全套体检",
+      "onboard_time": 1731936082,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211377,
       "num": 211377,
       "word": "凌妙妙遗忘的人是自己",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1731893657,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206939,
+      "num": 206939,
+      "word": "官方称野生老虎来源尚不明确",
+      "onboard_time": 1731936981,
+      "rank": 35,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 206387,
@@ -2555,14 +2579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195385,
-      "num": 195385,
-      "word": "吐槽黄焖鸡不要点的博主被禁言",
-      "onboard_time": 1731933981,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193900,
       "num": 193900,
       "word": "孙颖莎说失败让自己更强大",
@@ -2731,14 +2747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186583,
-      "num": 186583,
-      "word": "赵小童做了全套体检",
-      "onboard_time": 1731936082,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186572,
       "num": 372526,
       "word": "本届中国航展签约金额超2800亿",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1731930919,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185566,
+      "num": 185566,
+      "word": "任嘉伦首位古现剧集双亿男主",
+      "onboard_time": 1731934821,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 184821,
@@ -2899,14 +2915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177807,
-      "num": 177807,
-      "word": "任嘉伦首位古现剧集双亿男主",
-      "onboard_time": 1731934821,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "马斯克上位史",
@@ -3001,6 +3009,14 @@
       "onboard_time": 1731771923,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170880,
+      "num": 421201,
+      "word": "丁禹兮额角的汗",
+      "onboard_time": 1731936380,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 170415,
@@ -3396,7 +3412,7 @@
     },
     {
       "raw_hot": 151776,
-      "num": 152892,
+      "num": 212142,
       "word": "再见爱人 高开癫走",
       "onboard_time": 1731931100,
       "rank": 47,
@@ -3467,6 +3483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149994,
+      "num": 149994,
+      "word": "孕妇被劝退公司称不知怀孕",
+      "onboard_time": 1731930919,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149655,
       "num": 173634,
       "word": "这个丁子期有点入戏太深",
@@ -3507,20 +3531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148314,
+      "num": 148314,
+      "word": "伯牙绝弦拿铁",
+      "onboard_time": 1731932119,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148030,
       "num": 215815,
       "word": "时代少年团角色花絮照",
       "onboard_time": 1731914779,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147857,
-      "num": 147857,
-      "word": "孕妇被劝退公司称不知怀孕",
-      "onboard_time": 1731930919,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147484,
@@ -3553,6 +3577,14 @@
       "onboard_time": 1731907219,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146826,
+      "num": 146826,
+      "word": "成都警方通报一起持械伤人案",
+      "onboard_time": 1731936322,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 146274,
@@ -3659,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143224,
+      "num": 143224,
+      "word": "A股行情",
+      "onboard_time": 1731936322,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 143171,
       "num": 143171,
       "word": "原神",
@@ -3747,14 +3787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 139756,
-      "num": 186320,
-      "word": "丁禹兮额角的汗",
-      "onboard_time": 1731936380,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139446,
       "num": 139446,
       "word": "华为Mate70系列有超大杯机型",
@@ -3769,6 +3801,14 @@
       "onboard_time": 1731920419,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139129,
+      "num": 221417,
+      "word": "孙颖莎希望4年后还能听到欢呼声",
+      "onboard_time": 1731934940,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 139053,
@@ -4025,14 +4065,6 @@
       "onboard_time": 1731816379,
       "rank": 43,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 127469,
-      "num": 127469,
-      "word": "A股行情",
-      "onboard_time": 1731936322,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 127426,
@@ -4753,6 +4785,14 @@
       "onboard_time": 1731823338,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88561,
+      "num": 242253,
+      "word": "向佐 不漂亮的时候也不想人见到我",
+      "onboard_time": 1731937220,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 88236,
@@ -5507,20 +5547,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 41876,
-      "num": 221417,
-      "word": "孙颖莎希望4年后还能听到欢呼声",
-      "onboard_time": 1731934940,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41789,
       "num": 184891,
       "word": "向鱼 不会在同一个地方摔倒",
       "onboard_time": 1731808999,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41785,
+      "num": 433126,
+      "word": "日本队主教练回应国足两连胜",
+      "onboard_time": 1731937161,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 41480,
@@ -6291,6 +6331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19976,
+      "num": 572424,
+      "word": "世界互联网再次进入乌镇时间",
+      "onboard_time": 1731935721,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 19863,
       "num": 149097,
       "word": "陈都灵弹春风不问",
@@ -6329,14 +6377,6 @@
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 18753,
-      "num": 572424,
-      "word": "世界互联网再次进入乌镇时间",
-      "onboard_time": 1731935721,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 18165,
@@ -6435,6 +6475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15485,
+      "num": 703677,
+      "word": "60秒带你看里约热内卢",
+      "onboard_time": 1731937041,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15316,
       "num": 25035,
       "word": "好事不说坏事不做顺其自然26年",
@@ -6489,6 +6537,14 @@
       "onboard_time": 1731929599,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14594,
+      "num": 537400,
+      "word": "WTT福冈总决赛抽签结果出炉",
+      "onboard_time": 1731936322,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 14463,
@@ -6649,14 +6705,6 @@
       "onboard_time": 1731857480,
       "rank": 18,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11317,
-      "num": 537400,
-      "word": "WTT福冈总决赛抽签结果出炉",
-      "onboard_time": 1731936322,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 11297,
@@ -6854,6 +6902,9 @@
     },
     {
       "word": "#开创亚太发展新时代#"
+    },
+    {
+      "word": "#二十国集团就宛若一座桥#"
     }
   ]
 }
