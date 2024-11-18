@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731968540835,
+  "endTime": 1731969658591,
   "band_list": [
     {
       "raw_hot": 1211083,
@@ -163,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193289,
+      "num": 193289,
+      "word": "官方通报游客夜爬大牯牛山纵火烧山",
+      "onboard_time": 1731944478,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 190144,
+      "num": 190144,
+      "word": "NASA准备随时撤离国际空间站",
+      "onboard_time": 1731965110,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173946,
       "num": 173946,
       "word": "TGA2024提名公布",
@@ -211,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134447,
-      "num": 134447,
-      "word": "NASA准备随时撤离国际空间站",
-      "onboard_time": 1731965110,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 133352,
       "num": 195805,
       "word": "夏弃疾把妙声强制爱拍出来了",
@@ -249,14 +257,6 @@
       "onboard_time": 1731939620,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125485,
-      "num": 125485,
-      "word": "官方通报游客夜爬大牯牛山纵火烧山",
-      "onboard_time": 1731944478,
-      "rank": 42,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 124993,
@@ -427,20 +427,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 72761,
+      "num": 72761,
+      "word": "宠协工作人员称死亡犬数仍上升",
+      "onboard_time": 1731956771,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 72482,
       "num": 72482,
       "word": "高校回应本科生与其教授母亲同发论文",
       "onboard_time": 1731939981,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71076,
-      "num": 71076,
-      "word": "宠协工作人员称死亡犬数仍上升",
-      "onboard_time": 1731956771,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 68680,
@@ -451,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63454,
+      "num": 63454,
+      "word": "李子柒称不希望青少年梦想当网红",
+      "onboard_time": 1731967992,
+      "rank": 33,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 62083,
+      "num": 62083,
+      "word": "网传某国企员工上班不笑将被处罚",
+      "onboard_time": 1731964692,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52334,
       "num": 52334,
       "word": "卫生巾质量",
@@ -459,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47759,
-      "num": 47759,
-      "word": "网传某国企员工上班不笑将被处罚",
-      "onboard_time": 1731964692,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 45155,
+      "num": 45155,
+      "word": "当地群众在大牯牛山偶遇游客纵火烧山",
+      "onboard_time": 1731963912,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 42823,
@@ -481,14 +497,6 @@
       "onboard_time": 1731949993,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39980,
-      "num": 39980,
-      "word": "当地群众在大牯牛山偶遇游客纵火烧山",
-      "onboard_time": 1731963912,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 38180,
@@ -515,36 +523,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29381,
-      "num": 29381,
-      "word": "李子柒称不希望青少年梦想当网红",
-      "onboard_time": 1731967992,
-      "rank": 33,
-      "category": "美食,网红"
+      "raw_hot": 33281,
+      "num": 79542,
+      "word": "中方在军品出口方面一向慎重负责",
+      "onboard_time": 1731961751,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 25920,
-      "num": 25920,
-      "word": "幼儿园殴打学生老师已被辞退",
-      "onboard_time": 1731957851,
-      "rank": 44,
-      "category": "舆论监督"
+      "raw_hot": 29773,
+      "num": 29773,
+      "word": "虞书欣绿色格子套装",
+      "onboard_time": 1731962241,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 24876,
-      "num": 24876,
+      "raw_hot": 28997,
+      "num": 28997,
       "word": "G20里约峰会",
       "onboard_time": 1731957191,
       "rank": 45,
       "category": "国际时政"
     },
     {
-      "raw_hot": 24725,
-      "num": 25950,
-      "word": "虞书欣绿色格子套装",
-      "onboard_time": 1731962241,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 27142,
+      "num": 27142,
+      "word": "幼儿园殴打学生老师已被辞退",
+      "onboard_time": 1731957851,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 25794,
+      "num": 53823,
+      "word": "自主研发的中国芯片有多强",
+      "onboard_time": 1731956351,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24228,
@@ -579,16 +595,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21336,
-      "num": 79542,
-      "word": "中方在军品出口方面一向慎重负责",
-      "onboard_time": 1731961751,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21045,
-      "num": 26570,
+      "num": 27074,
       "word": "张杰要得第三篇章预告",
       "onboard_time": 1731953412,
       "rank": 46,
@@ -611,12 +619,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 19563,
-      "num": 24087,
-      "word": "自主研发的中国芯片有多强",
-      "onboard_time": 1731956351,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 20055,
+      "num": 78555,
+      "word": "李子柒谈对青少年的引导",
+      "onboard_time": 1731968532,
+      "rank": 15,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 18262,
