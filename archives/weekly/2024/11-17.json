@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731914586354,
+  "endTime": 1731915522482,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -155,8 +155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1142282,
-      "num": 1142282,
+      "raw_hot": 1185368,
+      "num": 1185368,
       "word": "黑龙江被老虎咬伤村民家属发声",
       "onboard_time": 1731911541,
       "rank": 48,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1017938,
-      "num": 524088,
+      "num": 529398,
       "word": "娜扎恋情曝光后首露面",
       "onboard_time": 1731906321,
       "rank": 12,
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 723367,
+      "num": 723367,
+      "word": "庄筱婷林栋哲的小孩",
+      "onboard_time": 1731911659,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 711022,
       "num": 415410,
       "word": "35岁对未婚未育女生意味着什么",
@@ -553,14 +561,6 @@
       "onboard_time": 1731800596,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 698968,
-      "num": 698968,
-      "word": "庄筱婷林栋哲的小孩",
-      "onboard_time": 1731911659,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 688362,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564900,
+      "num": 564900,
+      "word": "张志杰猝死事件后世界羽联更改规则",
+      "onboard_time": 1731910759,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562210,
       "num": 562210,
       "word": "父亲回应4岁女童独自坐地铁回家",
@@ -808,14 +816,6 @@
       "word": "WTT",
       "onboard_time": 1731905721,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 535533,
-      "num": 535533,
-      "word": "张志杰猝死事件后世界羽联更改规则",
-      "onboard_time": 1731910759,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -945,6 +945,14 @@
       "onboard_time": 1731854660,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 439197,
+      "num": 439197,
+      "word": "武契奇深夜给中国工人送夜宵",
+      "onboard_time": 1731911478,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 434252,
@@ -1091,14 +1099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 374474,
-      "num": 374474,
-      "word": "武契奇深夜给中国工人送夜宵",
-      "onboard_time": 1731911478,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 371261,
       "num": 371261,
       "word": "传奇杯",
@@ -1112,6 +1112,14 @@
       "word": "95后女子涉嫌开设赌场被通缉",
       "onboard_time": 1731901038,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368589,
+      "num": 345929,
+      "word": "怀9胞胎女子将减去7个胚胎",
+      "onboard_time": 1731913640,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1153,6 +1161,14 @@
       "onboard_time": 1731767005,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 345869,
+      "num": 345869,
+      "word": "王楚钦坐裁判椅",
+      "onboard_time": 1731913999,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 344870,
@@ -1203,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324423,
+      "num": 564021,
+      "word": "EXO初雪回榜",
+      "onboard_time": 1731914538,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324408,
       "num": 296408,
       "word": "王源演唱会收官",
@@ -1235,6 +1259,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 312716,
+      "num": 312716,
+      "word": "A股牛市结束了吗",
+      "onboard_time": 1731908898,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 310304,
       "num": 347060,
       "word": "雷军让李斌别唱了",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1731900918,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307242,
-      "num": 307242,
-      "word": "A股牛市结束了吗",
-      "onboard_time": 1731908898,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 295623,
@@ -1356,7 +1380,7 @@
     },
     {
       "raw_hot": 276526,
-      "num": 219831,
+      "num": 266933,
       "word": "孙颖莎王楚钦像两个季节的人",
       "onboard_time": 1731913098,
       "rank": 21,
@@ -1508,7 +1532,7 @@
     },
     {
       "raw_hot": 257196,
-      "num": 219539,
+      "num": 247812,
       "word": "卡皮巴拉在塌一种很新的房",
       "onboard_time": 1731909979,
       "rank": 41,
@@ -1707,8 +1731,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232747,
+      "num": 365739,
+      "word": "刘诗诗提灯神女",
+      "onboard_time": 1731915139,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 232168,
-      "num": 232168,
+      "num": 253145,
       "word": "何炅 丁禹兮你就这么听话啊",
       "onboard_time": 1731910819,
       "rank": 26,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1731816018,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223235,
+      "num": 223235,
+      "word": "AG有楼是真扫",
+      "onboard_time": 1731914299,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 223193,
@@ -1851,20 +1891,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 210640,
-      "num": 210640,
-      "word": "王楚钦坐裁判椅",
-      "onboard_time": 1731913999,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 210065,
-      "num": 200209,
-      "word": "怀9胞胎女子将减去7个胚胎",
-      "onboard_time": 1731913640,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 210880,
+      "num": 220270,
+      "word": "张云雷参加王九龙婚礼",
+      "onboard_time": 1731912080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 208676,
@@ -2065,14 +2097,6 @@
       "onboard_time": 1731908719,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 192324,
-      "num": 192324,
-      "word": "EXO初雪回榜",
-      "onboard_time": 1731914538,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 191720,
@@ -2379,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173773,
-      "num": 220270,
-      "word": "张云雷参加王九龙婚礼",
-      "onboard_time": 1731912080,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172947,
       "num": 172947,
       "word": "无状态疑似退赛",
@@ -2611,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157949,
+      "num": 230613,
+      "word": "上海外籍游客投诉自主寄存柜难用",
+      "onboard_time": 1731912379,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157675,
       "num": 157675,
       "word": "女子吃完红心甘蔗后多器官衰竭",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1731847999,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148030,
+      "num": 215815,
+      "word": "时代少年团角色花絮照",
+      "onboard_time": 1731914779,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 147484,
@@ -3123,14 +3155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131702,
-      "num": 131702,
-      "word": "AG有楼是真扫",
-      "onboard_time": 1731914299,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131552,
       "num": 131552,
       "word": "樊振东入选亚太U30杰出青年领袖",
@@ -3315,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122750,
+      "num": 535283,
+      "word": "老虎进村扑咬老人快速拉门脱险",
+      "onboard_time": 1731914119,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121692,
       "num": 121692,
       "word": "消防搜救犬广告大片反差感拉满",
@@ -3441,6 +3473,14 @@
       "onboard_time": 1731890059,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 114215,
+      "num": 220326,
+      "word": "好东西豆瓣开分9.1",
+      "onboard_time": 1731915378,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 114040,
@@ -3593,14 +3633,6 @@
       "onboard_time": 1731829819,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105811,
-      "num": 524181,
-      "word": "老虎进村扑咬老人快速拉门脱险",
-      "onboard_time": 1731914119,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105361,
@@ -4043,14 +4075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71194,
-      "num": 230613,
-      "word": "上海外籍游客投诉自主寄存柜难用",
-      "onboard_time": 1731912379,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71059,
       "num": 252182,
       "word": "不能没有子期",
@@ -4307,6 +4331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51556,
+      "num": 825460,
+      "word": "里约遇见G20",
+      "onboard_time": 1731915259,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51457,
       "num": 51457,
       "word": "黄铉辰大屏",
@@ -4537,6 +4569,14 @@
       "onboard_time": 1731847159,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38581,
+      "num": 345962,
+      "word": "被东北虎咬伤者事发地发现血迹",
+      "onboard_time": 1731914779,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38505,
@@ -4795,6 +4835,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30344,
+      "num": 365876,
+      "word": "老虎咬伤村民警方建议少出门",
+      "onboard_time": 1731914958,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30322,
+      "num": 346431,
+      "word": "梁王组合中国大师赛训练",
+      "onboard_time": 1731915018,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30289,
       "num": 93914,
       "word": "梦想号中国造",
@@ -4899,6 +4955,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 24318,
+      "num": 247856,
+      "word": "乌克兰全境将紧急限电",
+      "onboard_time": 1731914839,
+      "rank": 29,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 24210,
       "num": 89202,
       "word": "青花壶意外沉海被大海打扮了一番",
@@ -4921,6 +4985,14 @@
       "onboard_time": 1731868331,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22917,
+      "num": 553981,
+      "word": "触网30年中国N个全球第一",
+      "onboard_time": 1731914839,
+      "rank": 7,
+      "category": "正能量"
     },
     {
       "raw_hot": 22787,
@@ -5033,6 +5105,14 @@
       "onboard_time": 1731774740,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 18165,
+      "num": 545880,
+      "word": "文化中国行看见大美山河",
+      "onboard_time": 1731914779,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 17678,
