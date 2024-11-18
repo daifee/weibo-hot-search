@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731928825617,
+  "endTime": 1731929741317,
   "band_list": [
     {
       "raw_hot": 2800811,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 904283,
+      "num": 231501,
+      "word": "李行亮朋友回应借钱",
+      "onboard_time": 1731927319,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 894460,
       "num": 894460,
       "word": "俄对乌发动大规模导弹和无人机袭击",
@@ -259,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 739717,
-      "num": 231501,
-      "word": "李行亮朋友回应借钱",
-      "onboard_time": 1731927319,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 735843,
+      "num": 228499,
+      "word": "鹿晗关晓彤王安宇cp名",
+      "onboard_time": 1731927918,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 723367,
@@ -515,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415052,
-      "num": 228499,
-      "word": "鹿晗关晓彤王安宇cp名",
-      "onboard_time": 1731927918,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 413354,
       "num": 413354,
       "word": "美国确诊首例猴痘新变异株感染者",
@@ -657,6 +657,14 @@
       "onboard_time": 1731921019,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350461,
+      "num": 215500,
+      "word": "刘耀文直播",
+      "onboard_time": 1731928818,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 346751,
@@ -899,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243188,
+      "num": 243188,
+      "word": "白夜破晓",
+      "onboard_time": 1731928639,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242830,
       "num": 242830,
       "word": "央视揭秘职业闭店人黑产链",
@@ -937,6 +953,14 @@
       "onboard_time": 1731897497,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234361,
+      "num": 165852,
+      "word": "以色列士兵在玩手机时被击中",
+      "onboard_time": 1731928400,
+      "rank": 33,
+      "category": "军事"
     },
     {
       "raw_hot": 234165,
@@ -1059,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211377,
+      "num": 211377,
+      "word": "凌妙妙遗忘的人是自己",
+      "onboard_time": 1731928219,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211025,
       "num": 314551,
       "word": "雷佳音李庚希大片",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1731851181,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205129,
+      "num": 198498,
+      "word": "永夜星河再见",
+      "onboard_time": 1731928699,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 204879,
@@ -1185,14 +1225,6 @@
       "onboard_time": 1731925101,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193282,
-      "num": 193282,
-      "word": "凌妙妙遗忘的人是自己",
-      "onboard_time": 1731928219,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 192983,
@@ -1419,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165644,
+      "num": 165644,
+      "word": "小米三季度营收925.1亿元",
+      "onboard_time": 1731927979,
+      "rank": 43,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 165430,
       "num": 227652,
       "word": "陈道明 还不回家睡觉",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1731891918,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156083,
-      "num": 156083,
-      "word": "以色列士兵在玩手机时被击中",
-      "onboard_time": 1731928400,
-      "rank": 33,
-      "category": "军事"
     },
     {
       "raw_hot": 155498,
@@ -1779,12 +1811,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128446,
-      "num": 128446,
-      "word": "白夜破晓",
-      "onboard_time": 1731928639,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 127534,
+      "num": 127534,
+      "word": "东北虎",
+      "onboard_time": 1731929479,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 126237,
@@ -1793,6 +1825,14 @@
       "onboard_time": 1731899418,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125454,
+      "num": 190752,
+      "word": "禹宙中欣",
+      "onboard_time": 1731929660,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124820,
@@ -1819,14 +1859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124104,
-      "num": 124104,
-      "word": "小米三季度营收925.1亿元",
-      "onboard_time": 1731927979,
-      "rank": 43,
-      "category": "财经,数码"
-    },
-    {
       "raw_hot": 123549,
       "num": 123549,
       "word": "印度成功试射远程高超音速导弹",
@@ -1851,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122079,
+      "num": 122079,
+      "word": "马思纯张若昀演不出爱情",
+      "onboard_time": 1731929119,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121692,
       "num": 121692,
       "word": "消防搜救犬广告大片反差感拉满",
@@ -1867,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121208,
+      "num": 121208,
+      "word": "李一桐 我以为你让我展示8块腹肌呢",
+      "onboard_time": 1731929538,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120925,
       "num": 315823,
       "word": "野生动物造成人伤亡当地政府应补偿",
@@ -1881,14 +1929,6 @@
       "onboard_time": 1731903501,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119899,
-      "num": 119899,
-      "word": "永夜星河再见",
-      "onboard_time": 1731928699,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 119856,
@@ -2139,6 +2179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87242,
+      "num": 166954,
+      "word": "女子掉进温泉池2秒皮被烫掉",
+      "onboard_time": 1731929719,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86519,
       "num": 204960,
       "word": "刘诗诗十二月时装封面",
@@ -2387,6 +2435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56087,
+      "num": 166492,
+      "word": "王一博再次登上联合国新闻",
+      "onboard_time": 1731923780,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54544,
       "num": 995477,
       "word": "秘鲁国菜有自己的专属纪念日",
@@ -2417,6 +2473,14 @@
       "onboard_time": 1731924139,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52787,
+      "num": 233341,
+      "word": "央视揭秘自证清白骗局",
+      "onboard_time": 1731927859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52721,
@@ -2579,14 +2643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36247,
-      "num": 233341,
-      "word": "央视揭秘自证清白骗局",
-      "onboard_time": 1731927859,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36052,
       "num": 36318,
       "word": "里约热内卢G20时间",
@@ -2691,6 +2747,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 30666,
+      "num": 230172,
+      "word": "梁王冲击总决赛入场券",
+      "onboard_time": 1731928339,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30344,
       "num": 365876,
       "word": "老虎咬伤村民警方建议少出门",
@@ -2737,6 +2801,14 @@
       "onboard_time": 1731899058,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27589,
+      "num": 167364,
+      "word": "邵艺辉许愿让天下的车都不臭",
+      "onboard_time": 1731929059,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 27195,
@@ -2851,14 +2923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21589,
-      "num": 230172,
-      "word": "梁王冲击总决赛入场券",
-      "onboard_time": 1731928339,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21306,
       "num": 327427,
       "word": "警惕摄影服务的美丽陷阱",
@@ -2931,6 +2995,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 17077,
+      "num": 230581,
+      "word": "周润发参加十公里长跑比赛",
+      "onboard_time": 1731928400,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15981,
       "num": 1051722,
       "word": "数读中国巴西务实合作成果",
@@ -2945,6 +3017,14 @@
       "onboard_time": 1731880392,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14672,
+      "num": 221873,
+      "word": "毛绒玩具成消费新宠",
+      "onboard_time": 1731929599,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14463,
@@ -3043,14 +3123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 9457,
-      "num": 230581,
-      "word": "周润发参加十公里长跑比赛",
-      "onboard_time": 1731928400,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 7606,
       "num": 927424,
       "word": "巴西交响乐团奏响我爱你中国",
@@ -3067,7 +3139,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 6540,
+      "raw_hot": 6887,
       "num": 228912,
       "word": "对话电影出走的决心原型",
       "onboard_time": 1731927979,

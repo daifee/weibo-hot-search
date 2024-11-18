@@ -1,0 +1,410 @@
+{
+  "runTime": 1731929741317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 742695,
+        "num": 1118831,
+        "word": "女子取现700万给骗子怼民警管的宽",
+        "onboard_time": 1731922879,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437068,
+        "num": 437068,
+        "word": "官方通报黑龙江老虎进村咬伤村民",
+        "onboard_time": 1731915559,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1649,
+        "num": 421570,
+        "word": "数读中国巴西务实合作成果",
+        "onboard_time": 1731915799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406651,
+        "num": 406651,
+        "word": "广州购房并缴社保满1年可落户",
+        "onboard_time": 1731925219,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376279,
+        "num": 376279,
+        "word": "李倩演技",
+        "onboard_time": 1731924739,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 767183,
+        "num": 309796,
+        "word": "大四学生挂8科后失联多月被发现溺亡",
+        "onboard_time": 1731919640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722031,
+        "num": 283101,
+        "word": "被老虎咬伤家属说左手保不住了",
+        "onboard_time": 1731917300,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 243188,
+        "num": 243188,
+        "word": "白夜破晓",
+        "onboard_time": 1731928639,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241969,
+        "num": 241969,
+        "word": "新射雕能复兴徐克的武侠梦吗",
+        "onboard_time": 1731918260,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229005,
+        "num": 229005,
+        "word": "宋佳 观众缘",
+        "onboard_time": 1731925520,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2146194,
+        "num": 228307,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 925871,
+        "num": 226783,
+        "word": "男子告诉的哥我杀人了开快点",
+        "onboard_time": 1731920599,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 904283,
+        "num": 224397,
+        "word": "李行亮朋友回应借钱",
+        "onboard_time": 1731927319,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524569,
+        "num": 222245,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 221873,
+        "word": "毛绒玩具成消费新宠",
+        "onboard_time": 1731929599,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52787,
+        "num": 219811,
+        "word": "央视揭秘自证清白骗局",
+        "onboard_time": 1731927859,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735843,
+        "num": 217265,
+        "word": "鹿晗关晓彤王安宇cp名",
+        "onboard_time": 1731927918,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350461,
+        "num": 215500,
+        "word": "刘耀文直播",
+        "onboard_time": 1731928818,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4999,
+        "num": 214799,
+        "word": "上观专访里斯本丸沉没导演方励",
+        "onboard_time": 1731928159,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6887,
+        "num": 212660,
+        "word": "对话电影出走的决心原型",
+        "onboard_time": 1731927979,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211377,
+        "num": 211377,
+        "word": "凌妙妙遗忘的人是自己",
+        "onboard_time": 1731928219,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199855,
+        "num": 199855,
+        "word": "东北虎视频发布者称山上常有野猪熊",
+        "onboard_time": 1731927677,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 205129,
+        "num": 198498,
+        "word": "永夜星河再见",
+        "onboard_time": 1731928699,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194535,
+        "num": 194535,
+        "word": "窦靖童越来越像王菲",
+        "onboard_time": 1731923059,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125454,
+        "num": 190752,
+        "word": "禹宙中欣",
+        "onboard_time": 1731929660,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189844,
+        "num": 189844,
+        "word": "财政部已将6万亿元债务限额下达各地",
+        "onboard_time": 1731925580,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178270,
+        "num": 178270,
+        "word": "反写符",
+        "onboard_time": 1731921019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167622,
+        "num": 167622,
+        "word": "一个林更新一个庄国栋",
+        "onboard_time": 1731921439,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27589,
+        "num": 167364,
+        "word": "邵艺辉许愿让天下的车都不臭",
+        "onboard_time": 1731929059,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87242,
+        "num": 166954,
+        "word": "女子掉进温泉池2秒皮被烫掉",
+        "onboard_time": 1731929719,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56087,
+        "num": 166492,
+        "word": "王一博再次登上联合国新闻",
+        "onboard_time": 1731923780,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234361,
+        "num": 165852,
+        "word": "以色列士兵在玩手机时被击中",
+        "onboard_time": 1731928400,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 165644,
+        "num": 165644,
+        "word": "小米三季度营收925.1亿元",
+        "onboard_time": 1731927979,
+        "rank": 32,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 158341,
+        "num": 158341,
+        "word": "于东来要花50亿建超大商业体",
+        "onboard_time": 1731924558,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155551,
+        "num": 155551,
+        "word": "陈道明 还不回家睡觉",
+        "onboard_time": 1731923960,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152503,
+        "num": 152503,
+        "word": "孙颖莎说失败让自己更强大",
+        "onboard_time": 1731925101,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 143163,
+        "word": "怀9胞胎女子将减去7个胚胎",
+        "onboard_time": 1731913640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132510,
+        "num": 132510,
+        "word": "虞书欣荡秋千呀的一声",
+        "onboard_time": 1731927199,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131018,
+        "num": 131018,
+        "word": "俄军在乌克兰战场正大量使用诱饵无人机",
+        "onboard_time": 1731925340,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127534,
+        "num": 127534,
+        "word": "东北虎",
+        "onboard_time": 1731929479,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 125586,
+        "num": 125586,
+        "word": "娜扎恋情曝光后首露面",
+        "onboard_time": 1731906321,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17077,
+        "num": 125483,
+        "word": "周润发参加十公里长跑比赛",
+        "onboard_time": 1731928400,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125440,
+        "num": 125440,
+        "word": "丁禹兮这一秒第三视角",
+        "onboard_time": 1731921199,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123698,
+        "num": 123698,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30666,
+        "num": 122120,
+        "word": "梁王冲击总决赛入场券",
+        "onboard_time": 1731928339,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119411,
+        "num": 122093,
+        "word": "黑龙江一野生东北虎咬伤人",
+        "onboard_time": 1731909139,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122079,
+        "num": 122079,
+        "word": "马思纯张若昀演不出爱情",
+        "onboard_time": 1731929119,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121208,
+        "num": 121208,
+        "word": "李一桐 我以为你让我展示8块腹肌呢",
+        "onboard_time": 1731929538,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115327,
+        "num": 115327,
+        "word": "4岁女童真独立违法假独立是炒作",
+        "onboard_time": 1731926841,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 114754,
+        "num": 114754,
+        "word": "这样做一顿饭我得休一星期",
+        "onboard_time": 1731927078,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两国是跨越山海的好朋友#"
+    }
+  }
+}
