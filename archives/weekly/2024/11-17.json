@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731955525924,
+  "endTime": 1731957545526,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -6075,6 +6075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38180,
+      "num": 73230,
+      "word": "官方回应非必要情况不会击毙老虎",
+      "onboard_time": 1731953832,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 37531,
       "num": 40310,
       "word": "张玉宁回应脚伤",
@@ -6723,14 +6731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21486,
-      "num": 73230,
-      "word": "官方回应非必要情况不会击毙老虎",
-      "onboard_time": 1731953832,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 21351,
       "num": 21351,
       "word": "祝绪丹说唱vlog",
@@ -6811,6 +6811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20184,
+      "num": 56754,
+      "word": "宠协工作人员称死亡犬数仍上升",
+      "onboard_time": 1731956771,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 19976,
       "num": 572424,
       "word": "世界互联网再次进入乌镇时间",
@@ -6841,6 +6849,14 @@
       "onboard_time": 1731865273,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19415,
+      "num": 19415,
+      "word": "自主研发的中国芯片有多强",
+      "onboard_time": 1731956351,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19339,
@@ -6953,6 +6969,14 @@
       "onboard_time": 1731769883,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16407,
+      "num": 17422,
+      "word": "G20里约峰会",
+      "onboard_time": 1731957191,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15981,
@@ -7257,6 +7281,14 @@
       "onboard_time": 1731796212,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10206,
+      "num": 26404,
+      "word": "张若昀说好东西真是好东西",
+      "onboard_time": 1731956771,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 10088,
