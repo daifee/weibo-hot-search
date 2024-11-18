@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731948402543,
+  "endTime": 1731950475900,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -2011,6 +2011,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 260733,
+      "num": 260733,
+      "word": "北京取消普通住房和非普通住房标准",
+      "onboard_time": 1731947417,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259833,
       "num": 259833,
       "word": "王者荣耀王昭君",
@@ -3361,14 +3369,6 @@
       "onboard_time": 1731855561,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163655,
-      "num": 163655,
-      "word": "北京取消普通住房和非普通住房标准",
-      "onboard_time": 1731947417,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163236,
@@ -4972,7 +4972,7 @@
     },
     {
       "raw_hot": 94129,
-      "num": 94129,
+      "num": 102753,
       "word": "官方通报游客夜爬大牯牛山纵火烧山",
       "onboard_time": 1731944478,
       "rank": 42,
@@ -5203,6 +5203,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 77196,
+      "num": 84900,
+      "word": "上海浦西第一高楼高度超东方明珠",
+      "onboard_time": 1731948436,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77036,
       "num": 77036,
       "word": "家的样子就是生活的样子",
@@ -5355,20 +5363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68060,
+      "num": 68060,
+      "word": "TGA官方入驻微博",
+      "onboard_time": 1731945199,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67229,
       "num": 889703,
       "word": "我国正研发六足登月机器人",
       "onboard_time": 1731871811,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67151,
-      "num": 67151,
-      "word": "TGA官方入驻微博",
-      "onboard_time": 1731945199,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 67047,
@@ -5659,6 +5667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52334,
+      "num": 52334,
+      "word": "卫生巾质量",
+      "onboard_time": 1731949694,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52251,
       "num": 862993,
       "word": "2025二十四节气日历",
@@ -5891,6 +5907,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42823,
+      "num": 42823,
+      "word": "中国和巴西是志同道合的好朋友",
+      "onboard_time": 1731949456,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41789,
       "num": 184891,
       "word": "向鱼 不会在同一个地方摔倒",
@@ -5921,6 +5945,14 @@
       "onboard_time": 1731823760,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40585,
+      "num": 40585,
+      "word": "中国支持全球发展的八项行动",
+      "onboard_time": 1731949993,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40459,
@@ -6049,6 +6081,14 @@
       "onboard_time": 1731895638,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36201,
+      "num": 39374,
+      "word": "2024年中国羽毛球大师赛",
+      "onboard_time": 1731950414,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 36081,
@@ -7179,12 +7219,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9101,
+      "num": 84904,
+      "word": "王劲松印象最深刻的一顿饭",
+      "onboard_time": 1731945678,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7599,
       "num": 118271,
       "word": "除了拼性能这届汽车开始卷颜值了",
       "onboard_time": 1731827839,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 7596,
+      "num": 305962,
+      "word": "一个视频带你了解G20",
+      "onboard_time": 1731936922,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6959,

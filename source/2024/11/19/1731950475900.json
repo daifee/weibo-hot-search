@@ -1,0 +1,410 @@
+{
+  "runTime": 1731950475900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 391653,
+        "num": 507108,
+        "word": "圆明园通报四只黑天鹅死亡",
+        "onboard_time": 1731943820,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 320533,
+        "num": 320533,
+        "word": "摄影展1997年作品出现喜羊羊元素",
+        "onboard_time": 1731944899,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 7596,
+        "num": 305962,
+        "word": "一个视频带你了解G20",
+        "onboard_time": 1731936922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296426,
+        "num": 296426,
+        "word": "挖呀挖黄老师怒怼营销号",
+        "onboard_time": 1731941241,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281986,
+        "num": 281986,
+        "word": "上班睡觉1小时被开除起诉获赔35万",
+        "onboard_time": 1731942920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260733,
+        "num": 260733,
+        "word": "北京取消普通住房和非普通住房标准",
+        "onboard_time": 1731947417,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165340,
+        "num": 165340,
+        "word": "永夜星河 怪不得没吻戏",
+        "onboard_time": 1731936202,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151143,
+        "num": 151143,
+        "word": "金价暴跌近10%",
+        "onboard_time": 1731939803,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130060,
+        "num": 130060,
+        "word": "麦琳和李行亮的老兄弟都吵过",
+        "onboard_time": 1731941841,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106514,
+        "num": 106514,
+        "word": "圆明园4只抱窝黑天鹅陆续死亡",
+        "onboard_time": 1731945078,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 574613,
+        "num": 106278,
+        "word": "全球首例成功换脸换手男子将结婚",
+        "onboard_time": 1731940282,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 287353,
+        "num": 105574,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196564,
+        "num": 104427,
+        "word": "怀9胞胎女子丈夫希望留两胎",
+        "onboard_time": 1731944839,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157537,
+        "num": 103613,
+        "word": "虞书欣丁禹兮双人古风大片",
+        "onboard_time": 1731932840,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150197,
+        "num": 102882,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79355,
+        "num": 102753,
+        "word": "官方通报游客夜爬大牯牛山纵火烧山",
+        "onboard_time": 1731944478,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102042,
+        "num": 102042,
+        "word": "济宁女孩坠亡商场已装防护网",
+        "onboard_time": 1731931460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101666,
+        "num": 101666,
+        "word": "女子正上着班公司突然解散",
+        "onboard_time": 1731938720,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84908,
+        "num": 84908,
+        "word": "再见爱人 高开癫走",
+        "onboard_time": 1731931100,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9101,
+        "num": 84904,
+        "word": "王劲松印象最深刻的一顿饭",
+        "onboard_time": 1731945678,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148685,
+        "num": 84902,
+        "word": "女子掉进温泉池2秒皮被烫掉",
+        "onboard_time": 1731929719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77196,
+        "num": 84900,
+        "word": "上海浦西第一高楼高度超东方明珠",
+        "onboard_time": 1731948436,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84900,
+        "num": 84899,
+        "word": "孙颖莎希望4年后还能听到欢呼声",
+        "onboard_time": 1731934940,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84470,
+        "num": 84470,
+        "word": "金价",
+        "onboard_time": 1731942740,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82143,
+        "num": 82143,
+        "word": "官方回应湘江现大量病毒采样管",
+        "onboard_time": 1731931399,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 79658,
+        "num": 79658,
+        "word": "虞书欣剧播期间涨粉100万",
+        "onboard_time": 1731941539,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77363,
+        "num": 77363,
+        "word": "小米汽车卖一辆亏3万",
+        "onboard_time": 1731939260,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 73543,
+        "num": 73543,
+        "word": "东北虎",
+        "onboard_time": 1731929479,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 68568,
+        "num": 68568,
+        "word": "夏弃疾把妙声强制爱拍出来了",
+        "onboard_time": 1731937641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63408,
+        "num": 68152,
+        "word": "永夜星河",
+        "onboard_time": 1731932000,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70995,
+        "num": 68142,
+        "word": "李行亮朋友回应借钱",
+        "onboard_time": 1731927319,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68060,
+        "num": 68060,
+        "word": "TGA官方入驻微博",
+        "onboard_time": 1731945199,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65076,
+        "num": 65076,
+        "word": "黑龙江一地发现大型野生老虎",
+        "onboard_time": 1731946936,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61237,
+        "num": 61237,
+        "word": "禹宙中欣",
+        "onboard_time": 1731929660,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58494,
+        "num": 58494,
+        "word": "东方公主号游轮突发大火",
+        "onboard_time": 1731940642,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 58623,
+        "num": 58097,
+        "word": "竹林四侠",
+        "onboard_time": 1731948196,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57540,
+        "num": 57540,
+        "word": "小米现金储备1516亿",
+        "onboard_time": 1731933800,
+        "rank": 36,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 54412,
+        "num": 54412,
+        "word": "当红男女爱豆的边界感",
+        "onboard_time": 1731939620,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52334,
+        "num": 52334,
+        "word": "卫生巾质量",
+        "onboard_time": 1731949694,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50098,
+        "num": 50098,
+        "word": "被东北虎咬伤村民无截肢风险",
+        "onboard_time": 1731938541,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 48830,
+        "num": 48830,
+        "word": "钟楚曦 喜欢恋爱不是一种病",
+        "onboard_time": 1731927740,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48468,
+        "num": 48468,
+        "word": "鹿晗关晓彤王安宇cp名",
+        "onboard_time": 1731927918,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46003,
+        "num": 46003,
+        "word": "不看月光变奏曲你什么都不知道",
+        "onboard_time": 1731942200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45653,
+        "num": 45653,
+        "word": "刘耀文带土豆上班",
+        "onboard_time": 1731946279,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42823,
+        "num": 42823,
+        "word": "中国和巴西是志同道合的好朋友",
+        "onboard_time": 1731949456,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41429,
+        "num": 41429,
+        "word": "高校回应本科生与其教授母亲同发论文",
+        "onboard_time": 1731939981,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40585,
+        "num": 40585,
+        "word": "中国支持全球发展的八项行动",
+        "onboard_time": 1731949993,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39483,
+        "num": 39483,
+        "word": "赵小童检查结果跟如图所示一样",
+        "onboard_time": 1731940522,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39374,
+        "num": 39374,
+        "word": "小巷人家 孝庄",
+        "onboard_time": 1731933140,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36201,
+        "num": 39374,
+        "word": "2024年中国羽毛球大师赛",
+        "onboard_time": 1731950414,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席拉美之行#"
+    }
+  }
+}
