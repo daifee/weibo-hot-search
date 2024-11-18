@@ -1,0 +1,410 @@
+{
+  "runTime": 1731899023243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2172444,
+        "num": 2172444,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833896,
+        "num": 833896,
+        "word": "霸王茶姬 口令",
+        "onboard_time": 1731898097,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 5640,
+        "num": 821662,
+        "word": "巴西交响乐团奏响我爱你中国",
+        "onboard_time": 1731850520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 815413,
+        "num": 815413,
+        "word": "华为Mate70来了",
+        "onboard_time": 1731893477,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 773812,
+        "num": 773812,
+        "word": "华为Mate70开启预定",
+        "onboard_time": 1731897197,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 665232,
+        "num": 665232,
+        "word": "刘爽向麦琳道歉",
+        "onboard_time": 1731888739,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603703,
+        "num": 603703,
+        "word": "普通人第一次见到战火崩溃大哭",
+        "onboard_time": 1731896599,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264196,
+        "num": 567906,
+        "word": "丁舟杰文学",
+        "onboard_time": 1731859038,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562210,
+        "num": 562210,
+        "word": "父亲回应4岁女童独自坐地铁回家",
+        "onboard_time": 1731895877,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110339,
+        "num": 450249,
+        "word": "给爱说话学生戴小蜜蜂的老师离职",
+        "onboard_time": 1731898698,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449960,
+        "num": 449960,
+        "word": "男子被骗2万崩溃大喊我错了",
+        "onboard_time": 1731890959,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387884,
+        "num": 387884,
+        "word": "吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731897678,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 342936,
+        "num": 342936,
+        "word": "A股",
+        "onboard_time": 1731894257,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282029,
+        "num": 282029,
+        "word": "家长曝儿子被8学生持钉棍打入院",
+        "onboard_time": 1731897317,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239838,
+        "num": 239838,
+        "word": "30岁不婚不育不买房买车的生活",
+        "onboard_time": 1731885975,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227118,
+        "num": 227118,
+        "word": "起底针孔摄像头偷拍黑色产业链",
+        "onboard_time": 1731896177,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209891,
+        "num": 209891,
+        "word": "电影误判定档",
+        "onboard_time": 1731898157,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203965,
+        "num": 203965,
+        "word": "习惯咬指甲的人遇到了提醒他的人",
+        "onboard_time": 1731882193,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201706,
+        "num": 201706,
+        "word": "官方回应吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731898758,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198483,
+        "num": 201644,
+        "word": "电影长安的荔枝阵容",
+        "onboard_time": 1731897497,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 667819,
+        "num": 201338,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190979,
+        "num": 200745,
+        "word": "王一博两部作品入选五个一工程奖",
+        "onboard_time": 1731897918,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259079,
+        "num": 200665,
+        "word": "无意识伤腰的5个习惯",
+        "onboard_time": 1731893477,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 35568,
+        "num": 200139,
+        "word": "杨超越无发缝双丸子头",
+        "onboard_time": 1731898818,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221404,
+        "num": 199882,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199667,
+        "num": 199667,
+        "word": "我国一年快递量首次超1500亿件",
+        "onboard_time": 1731897557,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194969,
+        "num": 194969,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 191720,
+        "num": 191720,
+        "word": "虞书欣拉着丁禹兮的手拍照",
+        "onboard_time": 1731892577,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109510,
+        "num": 172525,
+        "word": "妙声吻戏 借位",
+        "onboard_time": 1731898998,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38934,
+        "num": 166369,
+        "word": "姜思达说跑步是强效去班味剂",
+        "onboard_time": 1731898998,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163326,
+        "num": 163326,
+        "word": "周润发说权志龙变靓女了",
+        "onboard_time": 1731849080,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158557,
+        "num": 158557,
+        "word": "AI自习室在县城悄悄兴起",
+        "onboard_time": 1731896599,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156501,
+        "num": 156501,
+        "word": "女子与婆婆厮打把儿子摔成颅内出血",
+        "onboard_time": 1731852921,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135995,
+        "num": 153314,
+        "word": "去有风的地方获五个一工程奖",
+        "onboard_time": 1731892037,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152910,
+        "num": 152910,
+        "word": "我国造出全球唯一可钻11000米钻探船",
+        "onboard_time": 1731861017,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 140217,
+        "num": 140217,
+        "word": "五个一工程奖",
+        "onboard_time": 1731898698,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133653,
+        "num": 133653,
+        "word": "邓紫棋首位五大体育场歌手",
+        "onboard_time": 1731898517,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128596,
+        "num": 128596,
+        "word": "永夜星河终于亲了",
+        "onboard_time": 1731885437,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132218,
+        "num": 126082,
+        "word": "帮助转移财产者可以共犯论处",
+        "onboard_time": 1731898038,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123549,
+        "num": 123549,
+        "word": "印度成功试射远程高超音速导弹",
+        "onboard_time": 1731895217,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120664,
+        "num": 120664,
+        "word": "全红婵和同学握手比谁弯腰低",
+        "onboard_time": 1731894797,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120122,
+        "num": 120122,
+        "word": "官方回应济宁一女孩商场内坠亡",
+        "onboard_time": 1731844039,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 119381,
+        "num": 119381,
+        "word": "女子吃完红心甘蔗后多器官衰竭",
+        "onboard_time": 1731898878,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118795,
+        "num": 118795,
+        "word": "黄金",
+        "onboard_time": 1731898637,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116894,
+        "num": 116894,
+        "word": "央视曝光洗车场盗取地下水",
+        "onboard_time": 1731855320,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114237,
+        "num": 116387,
+        "word": "骑士15连胜",
+        "onboard_time": 1731896238,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116103,
+        "num": 116103,
+        "word": "75岁阿姨在美容店消费96万",
+        "onboard_time": 1731858619,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114412,
+        "num": 114412,
+        "word": "台湾一男子高铁上持刀猛插椅背",
+        "onboard_time": 1731888739,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111102,
+        "num": 111102,
+        "word": "网友质疑父母让4岁女童独自坐地铁",
+        "onboard_time": 1731893657,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109508,
+        "num": 109508,
+        "word": "保安收400元就被包装成企业高管",
+        "onboard_time": 1731850880,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国要有大国的担当#"
+    }
+  }
+}

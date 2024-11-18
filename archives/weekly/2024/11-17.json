@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731895931190,
+  "endTime": 1731899023243,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -33,6 +33,14 @@
       "onboard_time": 1731837739,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2172444,
+      "num": 2172444,
+      "word": "给学生戴小蜜蜂的女老师道歉",
+      "onboard_time": 1731896357,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1796358,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 907515,
-      "num": 253501,
+      "num": 449960,
       "word": "男子被骗2万崩溃大喊我错了",
       "onboard_time": 1731890959,
       "rank": 10,
@@ -299,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 833896,
+      "num": 833896,
+      "word": "霸王茶姬 口令",
+      "onboard_time": 1731898097,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 826602,
       "num": 395787,
       "word": "永夜星河无缝衔接月光变奏曲",
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 815413,
+      "num": 815413,
+      "word": "华为Mate70来了",
+      "onboard_time": 1731893477,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 811289,
       "num": 811289,
       "word": "霸王茶姬口令",
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 795766,
-      "num": 181271,
+      "num": 201338,
       "word": "用苹果的人嘴真严啊",
       "onboard_time": 1731893477,
       "rank": 20,
@@ -345,6 +369,14 @@
       "onboard_time": 1731832339,
       "rank": 18,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 773812,
+      "num": 773812,
+      "word": "华为Mate70开启预定",
+      "onboard_time": 1731897197,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 773332,
@@ -563,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 603703,
+      "num": 603703,
+      "word": "普通人第一次见到战火崩溃大哭",
+      "onboard_time": 1731896599,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 602050,
       "num": 602050,
       "word": "永夜星河能不能这样一辈子",
@@ -603,12 +643,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 563596,
-      "num": 563596,
-      "word": "华为Mate70来了",
-      "onboard_time": 1731893477,
-      "rank": 5,
-      "category": "数码"
+      "raw_hot": 562210,
+      "num": 562210,
+      "word": "父亲回应4岁女童独自坐地铁回家",
+      "onboard_time": 1731895877,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 555986,
@@ -793,6 +833,14 @@
       "onboard_time": 1731772222,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 387884,
+      "num": 387884,
+      "word": "吉林一滑冰馆被曝坍塌",
+      "onboard_time": 1731897678,
+      "rank": 11,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 387823,
@@ -1027,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282029,
+      "num": 282029,
+      "word": "家长曝儿子被8学生持钉棍打入院",
+      "onboard_time": 1731897317,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278258,
       "num": 204823,
       "word": "商场刚开业女孩因护栏脱落坠亡",
@@ -1124,7 +1180,7 @@
     },
     {
       "raw_hot": 261162,
-      "num": 166557,
+      "num": 200665,
       "word": "无意识伤腰的5个习惯",
       "onboard_time": 1731893477,
       "rank": 25,
@@ -1315,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227118,
+      "num": 227118,
+      "word": "起底针孔摄像头偷拍黑色产业链",
+      "onboard_time": 1731896177,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224888,
       "num": 224888,
       "word": "蔡徐坤上海人气",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1731772041,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209891,
+      "num": 209891,
+      "word": "电影误判定档",
+      "onboard_time": 1731898157,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 208676,
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201706,
+      "num": 201706,
+      "word": "官方回应吉林一滑冰馆被曝坍塌",
+      "onboard_time": 1731898758,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201051,
       "num": 175252,
       "word": "月光变奏曲",
@@ -1467,12 +1547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199667,
+      "num": 199667,
+      "word": "我国一年快递量首次超1500亿件",
+      "onboard_time": 1731897557,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198664,
       "num": 198664,
       "word": "舒淇林心如林熙蕾同游日本",
       "onboard_time": 1731824899,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198483,
+      "num": 201644,
+      "word": "电影长安的荔枝阵容",
+      "onboard_time": 1731897497,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 197483,
@@ -1499,12 +1595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191720,
+      "num": 191720,
+      "word": "虞书欣拉着丁禹兮的手拍照",
+      "onboard_time": 1731892577,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191080,
       "num": 240319,
       "word": "关晓彤周洁琼对手戏",
       "onboard_time": 1731822319,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190979,
+      "num": 200745,
+      "word": "王一博两部作品入选五个一工程奖",
+      "onboard_time": 1731897918,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 190626,
@@ -1883,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158557,
+      "num": 158557,
+      "word": "AI自习室在县城悄悄兴起",
+      "onboard_time": 1731896599,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158170,
       "num": 158170,
       "word": "28楼业主在外立面破墙开门多方回应",
@@ -2203,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140217,
+      "num": 140217,
+      "word": "五个一工程奖",
+      "onboard_time": 1731898698,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139053,
       "num": 139053,
       "word": "AG成功复仇春决",
@@ -2267,6 +2395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133653,
+      "num": 133653,
+      "word": "邓紫棋首位五大体育场歌手",
+      "onboard_time": 1731898517,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133494,
       "num": 133494,
       "word": "林一现偶",
@@ -2289,6 +2425,14 @@
       "onboard_time": 1731836659,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132218,
+      "num": 126082,
+      "word": "帮助转移财产者可以共犯论处",
+      "onboard_time": 1731898038,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131552,
@@ -2411,14 +2555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125649,
-      "num": 125649,
-      "word": "父亲回应4岁女童独自坐地铁回家",
-      "onboard_time": 1731895877,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124820,
       "num": 124820,
       "word": "凤凰传奇演唱会",
@@ -2443,20 +2579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123549,
+      "num": 123549,
+      "word": "印度成功试射远程高超音速导弹",
+      "onboard_time": 1731895217,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122753,
       "num": 122753,
       "word": "小巷人家卧龙凤雏大he",
       "onboard_time": 1731837498,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122206,
-      "num": 122206,
-      "word": "印度成功试射远程高超音速导弹",
-      "onboard_time": 1731895217,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121692,
@@ -2483,12 +2619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119381,
+      "num": 119381,
+      "word": "女子吃完红心甘蔗后多器官衰竭",
+      "onboard_time": 1731898878,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119217,
       "num": 119217,
       "word": "男子称快递370克黄金被代签收损失20万",
       "onboard_time": 1731789731,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118795,
+      "num": 118795,
+      "word": "黄金",
+      "onboard_time": 1731898637,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 118010,
@@ -2555,6 +2707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 114237,
+      "num": 116387,
+      "word": "骑士15连胜",
+      "onboard_time": 1731896238,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114040,
       "num": 114040,
       "word": "张远原来万人场的星光是这样的",
@@ -2569,14 +2729,6 @@
       "onboard_time": 1731895638,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112566,
-      "num": 112566,
-      "word": "虞书欣拉着丁禹兮的手拍照",
-      "onboard_time": 1731892577,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 112519,
@@ -2635,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110339,
+      "num": 450249,
+      "word": "给爱说话学生戴小蜜蜂的老师离职",
+      "onboard_time": 1731898698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110187,
       "num": 110187,
       "word": "宿敌",
@@ -2657,6 +2817,14 @@
       "onboard_time": 1731816679,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109510,
+      "num": 172525,
+      "word": "妙声吻戏 借位",
+      "onboard_time": 1731898998,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 109446,
@@ -3499,6 +3667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 38934,
+      "num": 166369,
+      "word": "姜思达说跑步是强效去班味剂",
+      "onboard_time": 1731898998,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38809,
       "num": 38809,
       "word": "陈坤评委身份亮相金鸡颁奖典礼",
@@ -3585,6 +3761,14 @@
       "onboard_time": 1731852382,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35568,
+      "num": 200139,
+      "word": "杨超越无发缝双丸子头",
+      "onboard_time": 1731898818,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 35516,
