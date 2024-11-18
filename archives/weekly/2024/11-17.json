@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731972172630,
+  "endTime": 1731973030930,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 881403,
+      "num": 951024,
+      "word": "摄影展1997年作品出现喜羊羊元素",
+      "onboard_time": 1731944899,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 877885,
       "num": 877885,
       "word": "中方不会允许朝鲜半岛生战生乱",
@@ -649,14 +657,6 @@
       "onboard_time": 1731918018,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 764450,
-      "num": 830714,
-      "word": "摄影展1997年作品出现喜羊羊元素",
-      "onboard_time": 1731944899,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 760029,
@@ -851,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651873,
+      "num": 651873,
+      "word": "圆明园通报四只黑天鹅死亡",
+      "onboard_time": 1731943820,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 651803,
       "num": 941775,
       "word": "丁舟杰文学",
@@ -945,14 +953,6 @@
       "onboard_time": 1731848180,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 605589,
-      "num": 605589,
-      "word": "圆明园通报四只黑天鹅死亡",
-      "onboard_time": 1731943820,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 603703,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1731938720,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499983,
+      "num": 255515,
+      "word": "李子柒称不希望青少年梦想当网红",
+      "onboard_time": 1731967992,
+      "rank": 33,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 498510,
@@ -1755,14 +1763,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 298579,
-      "num": 249077,
-      "word": "李子柒称不希望青少年梦想当网红",
-      "onboard_time": 1731967992,
-      "rank": 33,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 295623,
       "num": 295623,
       "word": "徐静蕾",
@@ -1897,6 +1897,14 @@
       "onboard_time": 1731913098,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276442,
+      "num": 282800,
+      "word": "正式确诊衣领综合征",
+      "onboard_time": 1731970755,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 276382,
@@ -2049,6 +2057,14 @@
       "onboard_time": 1731934280,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259046,
+      "num": 259046,
+      "word": "丁禹兮新加坡到底有谁在啊",
+      "onboard_time": 1731972916,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 258935,
@@ -2355,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225477,
+      "num": 225477,
+      "word": "NASA准备随时撤离国际空间站",
+      "onboard_time": 1731965110,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225286,
       "num": 225286,
       "word": "黄金",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1731925580,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 221543,
-      "num": 221543,
-      "word": "NASA准备随时撤离国际空间站",
-      "onboard_time": 1731965110,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 221049,
@@ -2537,6 +2553,22 @@
       "onboard_time": 1731912080,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209804,
+      "num": 290317,
+      "word": "麦琳和李行亮的老兄弟都吵过",
+      "onboard_time": 1731941841,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209050,
+      "num": 209050,
+      "word": "官方通报良品铺子被举报事件",
+      "onboard_time": 1731972136,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208676,
@@ -2769,14 +2801,6 @@
       "onboard_time": 1731904881,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195642,
-      "num": 290317,
-      "word": "麦琳和李行亮的老兄弟都吵过",
-      "onboard_time": 1731941841,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 193900,
@@ -3684,7 +3708,7 @@
     },
     {
       "raw_hot": 151776,
-      "num": 212142,
+      "num": 245915,
       "word": "再见爱人 高开癫走",
       "onboard_time": 1731931100,
       "rank": 47,
@@ -4419,6 +4443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124497,
+      "num": 124497,
+      "word": "良品铺子",
+      "onboard_time": 1731972136,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123688,
       "num": 527494,
       "word": "没了手机的生活会是什么样",
@@ -4867,14 +4899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103175,
-      "num": 282800,
-      "word": "正式确诊衣领综合征",
-      "onboard_time": 1731970755,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 102800,
       "num": 162366,
       "word": "好东西",
@@ -4913,6 +4937,22 @@
       "onboard_time": 1731813559,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99838,
+      "num": 99838,
+      "word": "黑神话获TGA年度游戏提名",
+      "onboard_time": 1731972197,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 99712,
+      "num": 99712,
+      "word": "中国和巴西是志同道合的好朋友",
+      "onboard_time": 1731949456,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99099,
@@ -5003,6 +5043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95994,
+      "num": 95994,
+      "word": "06年男生当小学老师的一天",
+      "onboard_time": 1731972317,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95258,
       "num": 95258,
       "word": "刘耀文狼人造型",
@@ -5059,6 +5107,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 92223,
+      "num": 92223,
+      "word": "宠协工作人员称死亡犬数仍上升",
+      "onboard_time": 1731956771,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 92018,
       "num": 92018,
       "word": "李光洁 内娱河道英",
@@ -5073,14 +5129,6 @@
       "onboard_time": 1731921138,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91571,
-      "num": 91571,
-      "word": "宠协工作人员称死亡犬数仍上升",
-      "onboard_time": 1731956771,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 91034,
@@ -5137,6 +5185,14 @@
       "onboard_time": 1731894977,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87966,
+      "num": 87966,
+      "word": "网传某国企员工上班不笑将被处罚",
+      "onboard_time": 1731964692,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87858,
@@ -5211,12 +5267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82672,
-      "num": 82672,
-      "word": "网传某国企员工上班不笑将被处罚",
-      "onboard_time": 1731964692,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 83328,
+      "num": 83328,
+      "word": "良品铺子转发官方调查结果",
+      "onboard_time": 1731972197,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82046,
@@ -5235,14 +5291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81354,
-      "num": 81354,
-      "word": "中国和巴西是志同道合的好朋友",
-      "onboard_time": 1731949456,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 81112,
       "num": 191284,
       "word": "于适不是于小师是于老师",
@@ -5257,6 +5305,14 @@
       "onboard_time": 1731901579,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 80256,
+      "num": 258919,
+      "word": "身体有5个寒气入口",
+      "onboard_time": 1731972557,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 79312,
@@ -5483,12 +5539,12 @@
       "category": "议题讨论,教育"
     },
     {
-      "raw_hot": 66088,
-      "num": 66088,
-      "word": "官方通报良品铺子被举报事件",
-      "onboard_time": 1731972136,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 65727,
+      "num": 65727,
+      "word": "江苏一办事大厅员工10点离岗吃饭",
+      "onboard_time": 1731972736,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 64800,
@@ -5617,6 +5673,14 @@
       "onboard_time": 1731813379,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58003,
+      "num": 58003,
+      "word": "主办方回应两马拉松选手打包能量胶",
+      "onboard_time": 1731972916,
+      "rank": 49,
+      "category": "运动健身,体育"
     },
     {
       "raw_hot": 57176,
@@ -6059,14 +6123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41239,
-      "num": 48930,
-      "word": "良品铺子",
-      "onboard_time": 1731972136,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40585,
       "num": 40585,
       "word": "中国支持全球发展的八项行动",
@@ -6177,6 +6233,14 @@
       "onboard_time": 1731850401,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38083,
+      "num": 91222,
+      "word": "小蜜蜂老师疑似在职学校否认任教",
+      "onboard_time": 1731927141,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 37888,
@@ -6593,6 +6657,14 @@
       "onboard_time": 1731932720,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28136,
+      "num": 231468,
+      "word": "环球影城偶遇古力娜扎",
+      "onboard_time": 1731972436,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 28008,
@@ -7435,6 +7507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7712,
+      "num": 113268,
+      "word": "永夜星河清水文",
+      "onboard_time": 1731972676,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 7599,
       "num": 118271,
       "word": "除了拼性能这届汽车开始卷颜值了",
@@ -7444,7 +7524,7 @@
     },
     {
       "raw_hot": 7596,
-      "num": 545231,
+      "num": 619719,
       "word": "一个视频带你了解G20",
       "onboard_time": 1731936922,
       "rank": 2,
