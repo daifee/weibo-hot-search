@@ -1,0 +1,410 @@
+{
+  "runTime": 1731922895417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243041,
+        "num": 1243041,
+        "word": "大四学生挂8科后失联多月被发现溺亡",
+        "onboard_time": 1731919640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 991870,
+        "num": 991870,
+        "word": "小伙1个月赶10场演唱会还挣了5万",
+        "onboard_time": 1731919579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7683,
+        "num": 904299,
+        "word": "数读中国巴西务实合作成果",
+        "onboard_time": 1731915799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1348371,
+        "num": 872924,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1130671,
+        "num": 864612,
+        "word": "杨子后悔参加再见爱人",
+        "onboard_time": 1731917779,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 834099,
+        "num": 834099,
+        "word": "被老虎咬伤家属说左手保不住了",
+        "onboard_time": 1731917300,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 464095,
+        "num": 464095,
+        "word": "官方通报黑龙江老虎进村咬伤村民",
+        "onboard_time": 1731915559,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 24504,
+        "num": 461250,
+        "word": "90岁老飞说能飞国产战机是最大幸福",
+        "onboard_time": 1731922399,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 51302,
+        "num": 447134,
+        "word": "女子吃山楂致结石喝可乐化解",
+        "onboard_time": 1731921740,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396091,
+        "num": 437687,
+        "word": "一个林更新一个庄国栋",
+        "onboard_time": 1731921439,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567095,
+        "num": 431835,
+        "word": "老虎",
+        "onboard_time": 1731906500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424934,
+        "num": 424934,
+        "word": "韩国吃播",
+        "onboard_time": 1731918018,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49163,
+        "num": 409385,
+        "word": "野生东北虎伤人村子已戒严",
+        "onboard_time": 1731922099,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 402605,
+        "num": 402605,
+        "word": "36岁抗癌网红陈班长去世",
+        "onboard_time": 1731916462,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21715,
+        "num": 369220,
+        "word": "社恐到底算不算是个问题",
+        "onboard_time": 1731922337,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348788,
+        "num": 348788,
+        "word": "新射雕能复兴徐克的武侠梦吗",
+        "onboard_time": 1731918260,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318727,
+        "num": 318727,
+        "word": "反写符",
+        "onboard_time": 1731921019,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58464,
+        "num": 315823,
+        "word": "野生动物造成人伤亡当地政府应补偿",
+        "onboard_time": 1731922758,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91034,
+        "num": 314878,
+        "word": "微博给AG下金色雨",
+        "onboard_time": 1731922399,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211025,
+        "num": 314551,
+        "word": "雷佳音李庚希大片",
+        "onboard_time": 1731921980,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 314339,
+        "num": 314339,
+        "word": "丁禹兮这一秒第三视角",
+        "onboard_time": 1731921199,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290030,
+        "num": 290030,
+        "word": "黑龙江被老虎咬伤村民家属发声",
+        "onboard_time": 1731911541,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 289905,
+        "num": 289905,
+        "word": "男子告诉的哥我杀人了开快点",
+        "onboard_time": 1731920599,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289351,
+        "num": 289351,
+        "word": "RA正式退出LPL",
+        "onboard_time": 1731915739,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259717,
+        "num": 289160,
+        "word": "庄筱婷林栋哲的小孩",
+        "onboard_time": 1731911659,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181619,
+        "num": 286419,
+        "word": "好东西豆瓣开分9.1",
+        "onboard_time": 1731915378,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174884,
+        "num": 284555,
+        "word": "刘诗诗提灯神女",
+        "onboard_time": 1731915139,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144864,
+        "num": 282493,
+        "word": "麦琳五杀",
+        "onboard_time": 1731904282,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42906,
+        "num": 280531,
+        "word": "雷军车展只拥抱了何小鹏",
+        "onboard_time": 1731919699,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44866,
+        "num": 277389,
+        "word": "启蒙教练说张博恒长大了",
+        "onboard_time": 1731922579,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77920,
+        "num": 275763,
+        "word": "黑龙江警方启动无人机寻找老虎",
+        "onboard_time": 1731920840,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 275105,
+        "num": 275105,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266599,
+        "num": 266599,
+        "word": "娜扎恋情曝光后首露面",
+        "onboard_time": 1731906321,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228705,
+        "num": 228705,
+        "word": "19岁小伙在迈巴赫车尾贴满寻人启事",
+        "onboard_time": 1731906741,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221164,
+        "num": 221164,
+        "word": "花3000元买了个7平米小家",
+        "onboard_time": 1731919757,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214437,
+        "num": 214437,
+        "word": "孙颖莎展望洛杉矶奥运会",
+        "onboard_time": 1731921439,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127783,
+        "num": 192792,
+        "word": "魏大勋 一看你就没听过刘旸的脱口秀",
+        "onboard_time": 1731918138,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184661,
+        "num": 184661,
+        "word": "张博恒遗憾没在教练退休前拿奥运金牌",
+        "onboard_time": 1731920840,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169065,
+        "num": 169065,
+        "word": "黑龙江一野生东北虎咬伤人",
+        "onboard_time": 1731909139,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 163494,
+        "num": 163494,
+        "word": "怀9胞胎女子将减去7个胚胎",
+        "onboard_time": 1731913640,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145134,
+        "num": 145134,
+        "word": "实拍歼35A真的会隐身",
+        "onboard_time": 1731921619,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 132421,
+        "num": 132421,
+        "word": "老虎进村扑咬老人快速拉门脱险",
+        "onboard_time": 1731914119,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 126101,
+        "num": 126101,
+        "word": "小米su7已交付超10万",
+        "onboard_time": 1731920419,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124750,
+        "num": 124750,
+        "word": "刘冠佑KGMA颁奖礼C位表演",
+        "onboard_time": 1731922758,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121104,
+        "num": 121104,
+        "word": "王楚钦坐裁判椅",
+        "onboard_time": 1731913999,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120275,
+        "num": 120275,
+        "word": "看小说最讨厌看到的女主称呼",
+        "onboard_time": 1731916879,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 116778,
+        "num": 116778,
+        "word": "女子取现700万给骗子怼民警管的宽",
+        "onboard_time": 1731922879,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 113804,
+        "word": "孙颖莎王楚钦像两个季节的人",
+        "onboard_time": 1731913098,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112874,
+        "num": 112874,
+        "word": "吴克群在天津看大爷跳水",
+        "onboard_time": 1731922879,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112485,
+        "num": 112485,
+        "word": "黄晓明觉得自己40岁前很傻",
+        "onboard_time": 1731901038,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中巴两国是跨越山海的好朋友#"
+    }
+  }
+}

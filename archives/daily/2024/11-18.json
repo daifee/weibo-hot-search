@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731922000750,
+  "endTime": 1731922895417,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -56,6 +56,14 @@
       "word": "黑龙江被老虎咬伤村民家属发声",
       "onboard_time": 1731911541,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1243041,
+      "num": 1243041,
+      "word": "大四学生挂8科后失联多月被发现溺亡",
+      "onboard_time": 1731919640,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -443,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 424934,
+      "num": 424934,
+      "word": "韩国吃播",
+      "onboard_time": 1731918018,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 413354,
       "num": 413354,
       "word": "美国确诊首例猴痘新变异株感染者",
@@ -467,20 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403554,
-      "num": 403554,
-      "word": "大四学生挂8科后失联多月被发现溺亡",
-      "onboard_time": 1731919640,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 396939,
       "num": 396939,
       "word": "珠海航展2万1套半真枪被抢光",
       "onboard_time": 1731846139,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 396091,
+      "num": 437687,
+      "word": "一个林更新一个庄国栋",
+      "onboard_time": 1731921439,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 393399,
@@ -555,20 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362156,
-      "num": 362156,
-      "word": "韩国吃播",
-      "onboard_time": 1731918018,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 359490,
       "num": 292512,
       "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
       "onboard_time": 1731865933,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 348788,
+      "num": 475687,
+      "word": "新射雕能复兴徐克的武侠梦吗",
+      "onboard_time": 1731918260,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 346751,
@@ -609,6 +625,22 @@
       "onboard_time": 1731905781,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318727,
+      "num": 318727,
+      "word": "反写符",
+      "onboard_time": 1731921019,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 314339,
+      "num": 344159,
+      "word": "丁禹兮这一秒第三视角",
+      "onboard_time": 1731921199,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 312716,
@@ -657,6 +689,14 @@
       "onboard_time": 1731892037,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289905,
+      "num": 340681,
+      "word": "男子告诉的哥我杀人了开快点",
+      "onboard_time": 1731920599,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279197,
@@ -811,28 +851,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 241326,
-      "num": 241326,
-      "word": "反写符",
-      "onboard_time": 1731921019,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238459,
       "num": 251728,
       "word": "孙颖莎首轮对阵陈幸同",
       "onboard_time": 1731910218,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236097,
-      "num": 475687,
-      "word": "新射雕能复兴徐克的武侠梦吗",
-      "onboard_time": 1731918260,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 234436,
@@ -939,14 +963,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 219885,
-      "num": 344159,
-      "word": "丁禹兮这一秒第三视角",
-      "onboard_time": 1731921199,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217419,
       "num": 217419,
       "word": "孙颖莎展望洛杉矶奥运会",
@@ -955,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217160,
-      "num": 217160,
-      "word": "一个林更新一个庄国栋",
-      "onboard_time": 1731921439,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 211025,
+      "num": 314551,
+      "word": "雷佳音李庚希大片",
+      "onboard_time": 1731921980,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 210880,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1731900257,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184661,
+      "num": 188592,
+      "word": "张博恒遗憾没在教练退休前拿奥运金牌",
+      "onboard_time": 1731920840,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 184048,
@@ -1315,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156300,
-      "num": 188592,
-      "word": "张博恒遗憾没在教练退休前拿奥运金牌",
-      "onboard_time": 1731920840,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155498,
       "num": 155498,
       "word": "珠海航展顶流文创已卖空",
@@ -1419,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145134,
+      "num": 145134,
+      "word": "实拍歼35A真的会隐身",
+      "onboard_time": 1731921619,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 144925,
       "num": 144925,
       "word": "华为Mate70系列预约数破百万",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1731899599,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140011,
-      "num": 140011,
-      "word": "实拍歼35A真的会隐身",
-      "onboard_time": 1731921619,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 139446,
@@ -1579,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124750,
+      "num": 124750,
+      "word": "刘冠佑KGMA颁奖礼C位表演",
+      "onboard_time": 1731922758,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124653,
       "num": 124653,
       "word": "外国小姐姐穿中国民族服饰追星",
@@ -1616,14 +1640,6 @@
       "word": "女子将黔灵山猴子捡回家喂养",
       "onboard_time": 1731903501,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120003,
-      "num": 340681,
-      "word": "男子告诉的哥我杀人了开快点",
-      "onboard_time": 1731920599,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1667,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116778,
+      "num": 116778,
+      "word": "女子取现700万给骗子怼民警管的宽",
+      "onboard_time": 1731922879,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116512,
       "num": 116512,
       "word": "蔡徐坤上海人气",
@@ -1707,20 +1731,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113628,
-      "num": 113628,
-      "word": "雷佳音李庚希大片",
-      "onboard_time": 1731921980,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 113565,
       "num": 113565,
       "word": "你一年收几件快递",
       "onboard_time": 1731895638,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112874,
+      "num": 112874,
+      "word": "吴克群在天津看大爷跳水",
+      "onboard_time": 1731922879,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 111949,
@@ -1827,6 +1851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91034,
+      "num": 314878,
+      "word": "微博给AG下金色雨",
+      "onboard_time": 1731922399,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90227,
       "num": 90227,
       "word": "以色列上万名抗议者呼吁停战",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1731867732,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 77920,
+      "num": 360170,
+      "word": "黑龙江警方启动无人机寻找老虎",
+      "onboard_time": 1731920840,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 77467,
@@ -2051,20 +2091,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 61611,
-      "num": 360170,
-      "word": "黑龙江警方启动无人机寻找老虎",
-      "onboard_time": 1731920840,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 59340,
       "num": 281627,
       "word": "徐梦洁杀青记录",
       "onboard_time": 1731910400,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58464,
+      "num": 315823,
+      "word": "野生动物造成人伤亡当地政府应补偿",
+      "onboard_time": 1731922758,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56312,
@@ -2131,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51302,
+      "num": 447134,
+      "word": "女子吃山楂致结石喝可乐化解",
+      "onboard_time": 1731921740,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51187,
       "num": 51187,
       "word": "日本自民党高官再提自卫队常驻美国",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1731906799,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49163,
+      "num": 409385,
+      "word": "野生东北虎伤人村子已戒严",
+      "onboard_time": 1731922099,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 46692,
@@ -2163,12 +2219,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44866,
+      "num": 277389,
+      "word": "启蒙教练说张博恒长大了",
+      "onboard_time": 1731922579,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44532,
       "num": 425409,
       "word": "AG扫楼下班照",
       "onboard_time": 1731918380,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42906,
+      "num": 280531,
+      "word": "雷军车展只拥抱了何小鹏",
+      "onboard_time": 1731919699,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 41549,
@@ -2233,14 +2305,6 @@
       "onboard_time": 1731917659,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 34501,
-      "num": 217185,
-      "word": "雷军车展只拥抱了何小鹏",
-      "onboard_time": 1731919699,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 34425,
@@ -2339,14 +2403,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 29516,
-      "num": 360717,
-      "word": "女子吃山楂致结石喝可乐化解",
-      "onboard_time": 1731921740,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28990,
       "num": 29778,
       "word": "终于明白为什么古代人喜欢听说书了",
@@ -2395,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24504,
+      "num": 461250,
+      "word": "90岁老飞说能飞国产战机是最大幸福",
+      "onboard_time": 1731922399,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24318,
       "num": 247856,
       "word": "乌克兰全境将紧急限电",
@@ -2441,6 +2505,14 @@
       "onboard_time": 1731877691,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 21715,
+      "num": 369220,
+      "word": "社恐到底算不算是个问题",
+      "onboard_time": 1731922337,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21025,
