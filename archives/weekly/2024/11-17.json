@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731929741317,
+  "endTime": 1731933996257,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 904283,
-      "num": 231501,
+      "num": 260420,
       "word": "李行亮朋友回应借钱",
       "onboard_time": 1731927319,
       "rank": 13,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 712466,
+      "num": 1113994,
+      "word": "永夜星河",
+      "onboard_time": 1731757699,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 711022,
       "num": 415410,
       "word": "35岁对未婚未育女生意味着什么",
@@ -659,12 +667,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 711008,
-      "num": 357185,
-      "word": "永夜星河",
-      "onboard_time": 1731757699,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 706102,
+      "num": 261788,
+      "word": "虞书欣丁禹兮双人古风大片",
+      "onboard_time": 1731932840,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 700316,
@@ -752,6 +760,14 @@
       "word": "老虎进村扑咬老人快速拉门脱险",
       "onboard_time": 1731914119,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652457,
+      "num": 207683,
+      "word": "女子掉进温泉池2秒皮被烫掉",
+      "onboard_time": 1731929719,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -867,6 +883,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579854,
+      "num": 458971,
+      "word": "新疆喀什一中学发生踩踏事故",
+      "onboard_time": 1731932900,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 575581,
+      "num": 253566,
+      "word": "济宁女孩坠亡商场已装防护网",
+      "onboard_time": 1731931460,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573726,
       "num": 573726,
       "word": "印度示威者高喊自己才是加拿大的主人",
@@ -913,6 +945,14 @@
       "onboard_time": 1731833239,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553263,
+      "num": 247636,
+      "word": "39岁男子杀害初二女生芒市落网",
+      "onboard_time": 1731930319,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 550147,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1731915739,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 486609,
+      "num": 486609,
+      "word": "官方回应湘江现大量病毒采样管",
+      "onboard_time": 1731931399,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 481043,
@@ -1235,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385463,
+      "num": 385463,
+      "word": "东北虎视频发布者称山上常有野猪熊",
+      "onboard_time": 1731927677,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 384812,
       "num": 384812,
       "word": "赵晓卉说只有五月天关心她快不快乐",
@@ -1371,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350334,
+      "num": 350334,
+      "word": "白夜破晓",
+      "onboard_time": 1731783612,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344870,
       "num": 344870,
       "word": "意大利车展中国三蹦子火了",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1731919757,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299169,
+      "num": 197178,
+      "word": "以色列士兵在玩手机时被击中",
+      "onboard_time": 1731928400,
+      "rank": 33,
+      "category": "军事"
     },
     {
       "raw_hot": 295623,
@@ -1715,6 +1787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 266865,
+      "num": 266865,
+      "word": "东北虎",
+      "onboard_time": 1731929479,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 262630,
       "num": 343002,
       "word": "周冬雨巨型水晶项链",
@@ -1843,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247636,
+      "num": 247635,
+      "word": "小巷人家 孝庄",
+      "onboard_time": 1731933140,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246706,
       "num": 225450,
       "word": "因为租房跟男朋友吵架了",
@@ -1872,14 +1960,6 @@
       "word": "小巷人家提档",
       "onboard_time": 1731772282,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 243188,
-      "num": 243188,
-      "word": "白夜破晓",
-      "onboard_time": 1731783612,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1963,14 +2043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 234361,
-      "num": 165852,
-      "word": "以色列士兵在玩手机时被击中",
-      "onboard_time": 1731928400,
-      "rank": 33,
-      "category": "军事"
-    },
-    {
       "raw_hot": 234165,
       "num": 234165,
       "word": "怀9胞胎女子18日做减胎手术",
@@ -2049,14 +2121,6 @@
       "onboard_time": 1731852261,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224311,
-      "num": 224311,
-      "word": "东北虎视频发布者称山上常有野猪熊",
-      "onboard_time": 1731927677,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 223305,
@@ -2259,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204587,
+      "num": 204587,
+      "word": "夏弃疾 永夜星河壁纸",
+      "onboard_time": 1731930259,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204571,
       "num": 204571,
       "word": "柳智敏看金玟庭的眼神",
@@ -2281,6 +2353,14 @@
       "onboard_time": 1731900859,
       "rank": 28,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 203343,
+      "num": 197113,
+      "word": "小米现金储备1516亿",
+      "onboard_time": 1731933800,
+      "rank": 34,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 202752,
@@ -2376,6 +2456,14 @@
       "word": "五个一工程奖",
       "onboard_time": 1731898698,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197107,
+      "num": 197107,
+      "word": "钟楚曦 喜欢恋爱不是一种病",
+      "onboard_time": 1731927740,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -2587,6 +2675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185672,
+      "num": 185672,
+      "word": "康师傅鱼片汤面Q版鱼片被群嘲",
+      "onboard_time": 1731930919,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184821,
       "num": 488632,
       "word": "律师解读济宁一女孩从商场四楼坠亡",
@@ -2697,6 +2793,14 @@
       "onboard_time": 1731927500,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180084,
+      "num": 180084,
+      "word": "白夜追凶速通版",
+      "onboard_time": 1731933441,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 180073,
@@ -2835,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169539,
+      "num": 169539,
+      "word": "怪盗基德皮肤",
+      "onboard_time": 1731929899,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169425,
       "num": 169425,
       "word": "丁程鑫直播涨了10万粉",
@@ -2929,6 +3041,14 @@
       "onboard_time": 1731923960,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165323,
+      "num": 165323,
+      "word": "老师不敢管学生害了谁",
+      "onboard_time": 1731931341,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164309,
@@ -3299,6 +3419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147412,
+      "num": 147412,
+      "word": "小米SU7提前完成全年目标",
+      "onboard_time": 1731929838,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 147372,
       "num": 201234,
       "word": "孙乐言生日聚会",
@@ -3329,6 +3457,14 @@
       "onboard_time": 1731842839,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146100,
+      "num": 205152,
+      "word": "妙趣横声双人古风大片",
+      "onboard_time": 1731933860,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145668,
@@ -3451,6 +3587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141761,
+      "num": 141761,
+      "word": "再见爱人 高开癫走",
+      "onboard_time": 1731931100,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141645,
       "num": 141645,
       "word": "王源把演唱会现场变成游乐场",
@@ -3553,6 +3697,22 @@
       "onboard_time": 1731895158,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136980,
+      "num": 136980,
+      "word": "吐槽黄焖鸡不要点的博主被禁言",
+      "onboard_time": 1731933981,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136948,
+      "num": 136948,
+      "word": "中国航展版如愿听到泪目",
+      "onboard_time": 1731933800,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 136270,
@@ -3737,14 +3897,6 @@
       "onboard_time": 1731816379,
       "rank": 43,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 127534,
-      "num": 127534,
-      "word": "东北虎",
-      "onboard_time": 1731929479,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 127426,
@@ -4115,6 +4267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110710,
+      "num": 165334,
+      "word": "米卡见到刘亦菲会害羞",
+      "onboard_time": 1731931938,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110548,
       "num": 110548,
       "word": "王一博厦门出发look",
@@ -4475,20 +4635,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88083,
+      "num": 197192,
+      "word": "浙江实行痛经假已经七年",
+      "onboard_time": 1731932058,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87858,
       "num": 417713,
       "word": "当歌唱祖国在航展现场响起",
       "onboard_time": 1731816258,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 87242,
-      "num": 166954,
-      "word": "女子掉进温泉池2秒皮被烫掉",
-      "onboard_time": 1731929719,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86903,
@@ -4801,6 +4961,14 @@
       "onboard_time": 1731797593,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60518,
+      "num": 268176,
+      "word": "伊万回应能否战胜日本",
+      "onboard_time": 1731930139,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 60249,
@@ -5139,6 +5307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46548,
+      "num": 191284,
+      "word": "于适不是于小师是于老师",
+      "onboard_time": 1731933860,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45035,
       "num": 218888,
       "word": "长生KPL第一中单",
@@ -5217,6 +5393,14 @@
       "onboard_time": 1731823760,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40459,
+      "num": 169704,
+      "word": "王曼昱被冻的缩成一团",
+      "onboard_time": 1731932781,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 40359,
@@ -5369,14 +5553,6 @@
       "onboard_time": 1731861197,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35346,
-      "num": 184932,
-      "word": "钟楚曦 喜欢恋爱不是一种病",
-      "onboard_time": 1731927740,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 34789,
@@ -5611,6 +5787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 29888,
+      "num": 209136,
+      "word": "专家分析老虎进村伤人原因",
+      "onboard_time": 1731932840,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28990,
       "num": 29778,
       "word": "终于明白为什么古代人喜欢听说书了",
@@ -5633,6 +5817,14 @@
       "onboard_time": 1731841699,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28225,
+      "num": 197209,
+      "word": "开局五子棋 结局无子期",
+      "onboard_time": 1731932720,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 28008,
@@ -5747,6 +5939,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 24356,
+      "num": 256424,
+      "word": "日本国脚回应在中国客战国足",
+      "onboard_time": 1731932479,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24318,
       "num": 247856,
       "word": "乌克兰全境将紧急限电",
@@ -5761,6 +5961,14 @@
       "onboard_time": 1731798974,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24019,
+      "num": 197244,
+      "word": "给学生戴小蜜蜂上网曝光太越界",
+      "onboard_time": 1731932840,
+      "rank": 27,
+      "category": "议题讨论,教育"
     },
     {
       "raw_hot": 23885,
@@ -5985,6 +6193,14 @@
       "onboard_time": 1731868152,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 17141,
+      "num": 142024,
+      "word": "宋佳今年2部9分作品",
+      "onboard_time": 1731933800,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17077,
@@ -6323,6 +6539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8145,
+      "num": 208525,
+      "word": "职业背债人先被利用后被抛弃",
+      "onboard_time": 1731933441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7599,
       "num": 118271,
       "word": "除了拼性能这届汽车开始卷颜值了",
@@ -6361,6 +6585,14 @@
       "onboard_time": 1731780614,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5765,
+      "num": 197221,
+      "word": "王上源称国足主场面对日本有信心",
+      "onboard_time": 1731933921,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 5685,
