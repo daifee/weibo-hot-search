@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731886631836,
+  "endTime": 1731894587380,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1025095,
+      "num": 1164015,
+      "word": "刘爽向麦琳道歉",
+      "onboard_time": 1731888739,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1019499,
       "num": 300794,
       "word": "女子与婆婆厮打把儿子摔成颅内出血",
@@ -225,6 +233,14 @@
       "onboard_time": 1731846858,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 907515,
+      "num": 253501,
+      "word": "男子被骗2万崩溃大喊我错了",
+      "onboard_time": 1731890959,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 892580,
@@ -337,6 +353,14 @@
       "onboard_time": 1731849260,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 768054,
+      "num": 181271,
+      "word": "用苹果的人嘴真严啊",
+      "onboard_time": 1731893477,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 760029,
@@ -763,6 +787,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387109,
+      "num": 251504,
+      "word": "30岁不婚不育不买房买车的生活",
+      "onboard_time": 1731885975,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 381674,
+      "num": 381674,
+      "word": "于东来直播落泪",
+      "onboard_time": 1731888678,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380082,
       "num": 337682,
       "word": "李子柒师傅谈李子柒艰辛三年",
@@ -833,6 +873,14 @@
       "onboard_time": 1731767005,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 346423,
+      "num": 346423,
+      "word": "华为Mate70来了",
+      "onboard_time": 1731893477,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 344870,
@@ -1035,6 +1083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 267394,
+      "num": 267394,
+      "word": "我国造出全球唯一可钻11000米钻探船",
+      "onboard_time": 1731861017,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 261445,
       "num": 261445,
       "word": "恋与深空",
@@ -1123,6 +1179,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 248693,
+      "num": 248693,
+      "word": "去有风的地方获五个一工程奖",
+      "onboard_time": 1731892037,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247744,
       "num": 247744,
       "word": "卢昱晓配音谁找的",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1731831858,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246053,
+      "num": 173552,
+      "word": "台湾一男子高铁上持刀猛插椅背",
+      "onboard_time": 1731888739,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244174,
@@ -1219,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230183,
+      "num": 166557,
+      "word": "无意识伤腰的5个习惯",
+      "onboard_time": 1731893477,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 230178,
       "num": 230178,
       "word": "月鳞绮纪鞠婧祎一番",
@@ -1233,14 +1313,6 @@
       "onboard_time": 1731852261,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223463,
-      "num": 124292,
-      "word": "30岁不婚不育不买房买车的生活",
-      "onboard_time": 1731885975,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 223305,
@@ -1281,14 +1353,6 @@
       "onboard_time": 1731767005,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214746,
-      "num": 214746,
-      "word": "我国造出全球唯一可钻11000米钻探船",
-      "onboard_time": 1731861017,
-      "rank": 33,
-      "category": "正能量"
     },
     {
       "raw_hot": 213124,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1731853640,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202074,
+      "num": 202074,
+      "word": "A股",
+      "onboard_time": 1731894257,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 201770,
@@ -1467,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189059,
+      "num": 189059,
+      "word": "李子柒 轻舟已过万重山",
+      "onboard_time": 1731886036,
+      "rank": 37,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 188965,
       "num": 183450,
       "word": "王一博紧张得深呼吸",
@@ -1561,6 +1641,14 @@
       "onboard_time": 1731755418,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182505,
+      "num": 182505,
+      "word": "mlxg向无状态道歉",
+      "onboard_time": 1731888678,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 182194,
@@ -1715,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165690,
+      "num": 165690,
+      "word": "永夜星河终于亲了",
+      "onboard_time": 1731885437,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164309,
       "num": 164309,
       "word": "金鸡历届影后",
@@ -1787,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157634,
+      "num": 157634,
+      "word": "3名医护在悬崖边接力跪地救人",
+      "onboard_time": 1731891918,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157591,
       "num": 157591,
       "word": "恋与王者",
@@ -1849,6 +1953,14 @@
       "onboard_time": 1731847279,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 153726,
+      "num": 153726,
+      "word": "菜市场的肉丸子一夜没放冰箱变红了",
+      "onboard_time": 1731885736,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 152570,
@@ -2099,6 +2211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137241,
+      "num": 137241,
+      "word": "网友质疑父母让4岁女童独自坐地铁",
+      "onboard_time": 1731893657,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
@@ -2185,14 +2305,6 @@
       "onboard_time": 1731840919,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 129436,
-      "num": 75895,
-      "word": "菜市场的肉丸子一夜没放冰箱变红了",
-      "onboard_time": 1731885736,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 129340,
@@ -2315,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121692,
+      "num": 121692,
+      "word": "消防搜救犬广告大片反差感拉满",
+      "onboard_time": 1731888857,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121567,
       "num": 121567,
       "word": "Doinb说重赛也不会输",
@@ -2355,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116403,
+      "num": 116403,
+      "word": "中俄东线天然气管道工程全线完工",
+      "onboard_time": 1731889939,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "涵艺说LPL报价Zeus",
@@ -2377,6 +2505,22 @@
       "onboard_time": 1731814759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115338,
+      "num": 115338,
+      "word": "全红婵说武汉好冷全场爆笑",
+      "onboard_time": 1731863114,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114648,
+      "num": 114648,
+      "word": "神十九航天员在轨工作vlog",
+      "onboard_time": 1731890059,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 114040,
@@ -2539,12 +2683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102787,
-      "num": 102787,
-      "word": "永夜星河终于亲了",
-      "onboard_time": 1731885437,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 102800,
+      "num": 162366,
+      "word": "好东西",
+      "onboard_time": 1731889097,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 101535,
@@ -2585,6 +2729,14 @@
       "onboard_time": 1731842299,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 98281,
+      "num": 98281,
+      "word": "民警霸气安慰是骗子可恨你没错",
+      "onboard_time": 1731885736,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98095,
@@ -2699,14 +2851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90172,
-      "num": 83971,
-      "word": "全红婵说武汉好冷全场爆笑",
-      "onboard_time": 1731863114,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89724,
       "num": 235013,
       "word": "奥地利称俄停止向其供应天然气",
@@ -2779,12 +2923,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83689,
+      "num": 83689,
+      "word": "TheBoyz改用fromm",
+      "onboard_time": 1731891318,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83453,
       "num": 316026,
       "word": "祝绪丹的rap是小鬼教的",
       "onboard_time": 1731837859,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83146,
+      "num": 83146,
+      "word": "虞书欣拉着丁禹兮的手拍照",
+      "onboard_time": 1731892577,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 82046,
@@ -2921,14 +3081,6 @@
       "onboard_time": 1731885555,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68040,
-      "num": 68040,
-      "word": "李子柒 轻舟已过万重山",
-      "onboard_time": 1731886036,
-      "rank": 37,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 67047,
@@ -3387,14 +3539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34581,
-      "num": 80501,
-      "word": "民警霸气安慰是骗子可恨你没错",
-      "onboard_time": 1731885736,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34425,
       "num": 163743,
       "word": "律师称毒杀宠物狗涉嫌犯罪",
@@ -3561,6 +3705,14 @@
       "onboard_time": 1731868572,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28564,
+      "num": 162302,
+      "word": "哈兰德国家队帽子戏法",
+      "onboard_time": 1731894557,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 28510,
@@ -3883,6 +4035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13375,
+      "num": 257262,
+      "word": "天舟八号瞄准23时13分发射",
+      "onboard_time": 1731893717,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13312,
       "num": 274279,
       "word": "运20运油20肚肚里各装了啥",
@@ -4127,6 +4287,9 @@
     },
     {
       "word": "#习近平致信祝贺梦想号建成入列#"
+    },
+    {
+      "word": "#大国要有大国的担当#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1731894587380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025095,
+        "num": 1164015,
+        "word": "刘爽向麦琳道歉",
+        "onboard_time": 1731888739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396939,
+        "num": 396939,
+        "word": "珠海航展2万1套半真枪被抢光",
+        "onboard_time": 1731846139,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 7019,
+        "num": 384817,
+        "word": "巴西交响乐团奏响我爱你中国",
+        "onboard_time": 1731850520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381674,
+        "num": 381674,
+        "word": "于东来直播落泪",
+        "onboard_time": 1731888678,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364088,
+        "num": 364088,
+        "word": "习惯咬指甲的人遇到了提醒他的人",
+        "onboard_time": 1731882193,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346423,
+        "num": 346423,
+        "word": "华为Mate70来了",
+        "onboard_time": 1731893477,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291705,
+        "num": 291705,
+        "word": "央视曝光洗车场盗取地下水",
+        "onboard_time": 1731855320,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269352,
+        "num": 269352,
+        "word": "保安收400元就被包装成企业高管",
+        "onboard_time": 1731850880,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267394,
+        "num": 267394,
+        "word": "我国造出全球唯一可钻11000米钻探船",
+        "onboard_time": 1731861017,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 13375,
+        "num": 257262,
+        "word": "天舟八号瞄准23时13分发射",
+        "onboard_time": 1731893717,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 907515,
+        "num": 253501,
+        "word": "男子被骗2万崩溃大喊我错了",
+        "onboard_time": 1731890959,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387109,
+        "num": 251504,
+        "word": "30岁不婚不育不买房买车的生活",
+        "onboard_time": 1731885975,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248693,
+        "num": 248693,
+        "word": "去有风的地方获五个一工程奖",
+        "onboard_time": 1731892037,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242830,
+        "num": 242830,
+        "word": "央视揭秘职业闭店人黑产链",
+        "onboard_time": 1731844518,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 233056,
+        "num": 233056,
+        "word": "大结局怎么没有鹏飞",
+        "onboard_time": 1731850520,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220182,
+        "num": 220182,
+        "word": "周润发说权志龙变靓女了",
+        "onboard_time": 1731849080,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202074,
+        "num": 202074,
+        "word": "A股",
+        "onboard_time": 1731894257,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191499,
+        "num": 191499,
+        "word": "丁舟杰文学",
+        "onboard_time": 1731859038,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189059,
+        "num": 189059,
+        "word": "李子柒 轻舟已过万重山",
+        "onboard_time": 1731886036,
+        "rank": 18,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 182505,
+        "num": 182505,
+        "word": "mlxg向无状态道歉",
+        "onboard_time": 1731888678,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 768054,
+        "num": 181271,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383148,
+        "num": 178588,
+        "word": "顾客试衣服7小时买走15件",
+        "onboard_time": 1731847040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284309,
+        "num": 176251,
+        "word": "官方回应济宁一女孩商场内坠亡",
+        "onboard_time": 1731844039,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 246053,
+        "num": 173552,
+        "word": "台湾一男子高铁上持刀猛插椅背",
+        "onboard_time": 1731888739,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239155,
+        "num": 168788,
+        "word": "女子与婆婆厮打把儿子摔成颅内出血",
+        "onboard_time": 1731852921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230183,
+        "num": 166557,
+        "word": "无意识伤腰的5个习惯",
+        "onboard_time": 1731893477,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165690,
+        "num": 165690,
+        "word": "永夜星河终于亲了",
+        "onboard_time": 1731885437,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141194,
+        "num": 162791,
+        "word": "大结局虞书欣对面站的是丁禹兮",
+        "onboard_time": 1731848180,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102800,
+        "num": 162366,
+        "word": "好东西",
+        "onboard_time": 1731889097,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28564,
+        "num": 162302,
+        "word": "哈兰德国家队帽子戏法",
+        "onboard_time": 1731894557,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162277,
+        "num": 162277,
+        "word": "男子地铁猥亵被抓后下跪求原谅",
+        "onboard_time": 1731851181,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162002,
+        "num": 162002,
+        "word": "75岁阿姨在美容店消费96万",
+        "onboard_time": 1731858619,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157634,
+        "num": 157634,
+        "word": "3名医护在悬崖边接力跪地救人",
+        "onboard_time": 1731891918,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153726,
+        "num": 153726,
+        "word": "菜市场的肉丸子一夜没放冰箱变红了",
+        "onboard_time": 1731885736,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145708,
+        "num": 145708,
+        "word": "珠海航展顶流文创已卖空",
+        "onboard_time": 1731848718,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137241,
+        "num": 137241,
+        "word": "网友质疑父母让4岁女童独自坐地铁",
+        "onboard_time": 1731893657,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128943,
+        "num": 128943,
+        "word": "超强台风万宜",
+        "onboard_time": 1731856640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121692,
+        "num": 121692,
+        "word": "消防搜救犬广告大片反差感拉满",
+        "onboard_time": 1731888857,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117548,
+        "num": 117548,
+        "word": "九旬夫妇赠与儿子3套房反被故意伤害",
+        "onboard_time": 1731876850,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116403,
+        "num": 116403,
+        "word": "中俄东线天然气管道工程全线完工",
+        "onboard_time": 1731889939,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115338,
+        "num": 115338,
+        "word": "全红婵说武汉好冷全场爆笑",
+        "onboard_time": 1731863114,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114648,
+        "num": 114648,
+        "word": "神十九航天员在轨工作vlog",
+        "onboard_time": 1731890059,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108000,
+        "num": 108000,
+        "word": "3岁男童失踪被找到时没穿衣服",
+        "onboard_time": 1731861017,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106847,
+        "num": 106847,
+        "word": "美国确诊首例猴痘新变异株感染者",
+        "onboard_time": 1731849020,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98281,
+        "num": 98281,
+        "word": "民警霸气安慰是骗子可恨你没错",
+        "onboard_time": 1731885736,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92688,
+        "num": 92688,
+        "word": "记者调查兰州牛皮纸井盖一碰就碎",
+        "onboard_time": 1731849860,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 83689,
+        "num": 83689,
+        "word": "TheBoyz改用fromm",
+        "onboard_time": 1731891318,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83146,
+        "num": 83146,
+        "word": "虞书欣拉着丁禹兮的手拍照",
+        "onboard_time": 1731892577,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82915,
+        "num": 82915,
+        "word": "长安的荔枝",
+        "onboard_time": 1731854481,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77443,
+        "num": 77443,
+        "word": "捐出日军侵华相册的小伙来中国了",
+        "onboard_time": 1731867732,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国要有大国的担当#"
+    }
+  }
+}
