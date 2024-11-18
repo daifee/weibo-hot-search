@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731961458372,
+  "endTime": 1731962337497,
   "band_list": [
     {
       "raw_hot": 1211083,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20432,
+      "num": 36987,
+      "word": "警方悬赏通缉10名在逃嫌疑人",
+      "onboard_time": 1731959531,
+      "rank": 15,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 19415,
       "num": 19415,
       "word": "自主研发的中国芯片有多强",
@@ -555,20 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18186,
-      "num": 36987,
-      "word": "警方悬赏通缉10名在逃嫌疑人",
-      "onboard_time": 1731959531,
-      "rank": 15,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 17371,
       "num": 23450,
       "word": "G20里约峰会",
       "onboard_time": 1731957191,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15705,
+      "num": 15705,
+      "word": "国际金价一周跌去4%",
+      "onboard_time": 1731961151,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 14719,
@@ -579,12 +587,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 13454,
-      "num": 13454,
-      "word": "国际金价一周跌去4%",
-      "onboard_time": 1731961151,
-      "rank": 44,
-      "category": "财经"
+      "raw_hot": 13679,
+      "num": 14576,
+      "word": "中方在军品出口方面一向慎重负责",
+      "onboard_time": 1731961751,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13278,
@@ -593,6 +601,14 @@
       "onboard_time": 1731961390,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 10866,
+      "num": 25950,
+      "word": "虞书欣绿色格子套装",
+      "onboard_time": 1731962241,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10206,
