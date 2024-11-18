@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731939766492,
+  "endTime": 1731940944837,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 928530,
-      "num": 928530,
+      "num": 1144986,
       "word": "小蜜蜂老师离职事件疑云重重",
       "onboard_time": 1731935122,
       "rank": 9,
@@ -547,6 +547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 808020,
+      "num": 808020,
+      "word": "永夜星河 怪不得没吻戏",
+      "onboard_time": 1731936202,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 796255,
       "num": 496615,
       "word": "杨超越无发缝双丸子头",
@@ -625,14 +633,6 @@
       "onboard_time": 1731825978,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 745883,
-      "num": 745883,
-      "word": "永夜星河 怪不得没吻戏",
-      "onboard_time": 1731936202,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 745774,
@@ -875,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 626071,
+      "num": 444945,
+      "word": "向佐 不漂亮的时候也不想人见到我",
+      "onboard_time": 1731937220,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623341,
       "num": 623341,
       "word": "麦琳不接受李行亮讲道理",
@@ -1059,14 +1067,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 523661,
-      "num": 444945,
-      "word": "向佐 不漂亮的时候也不想人见到我",
-      "onboard_time": 1731937220,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 518480,
       "num": 430202,
       "word": "长安的荔枝",
@@ -1145,6 +1145,14 @@
       "onboard_time": 1731759800,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 476589,
+      "num": 476589,
+      "word": "金价暴跌近10%",
+      "onboard_time": 1731939803,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 470545,
@@ -1323,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392422,
+      "num": 447616,
+      "word": "夏弃疾把妙声强制爱拍出来了",
+      "onboard_time": 1731937641,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387823,
       "num": 325086,
       "word": "禹宙中欣",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1731918260,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 378634,
+      "num": 378634,
+      "word": "孙颖莎希望4年后还能听到欢呼声",
+      "onboard_time": 1731934940,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 378459,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1731750679,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 360799,
-      "num": 447616,
-      "word": "夏弃疾把妙声强制爱拍出来了",
-      "onboard_time": 1731937641,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 359490,
@@ -1603,20 +1619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317970,
+      "num": 317970,
+      "word": "小米汽车卖一辆亏3万",
+      "onboard_time": 1731939260,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 314339,
       "num": 344159,
       "word": "丁禹兮这一秒第三视角",
       "onboard_time": 1731921199,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314206,
-      "num": 314206,
-      "word": "孙颖莎希望4年后还能听到欢呼声",
-      "onboard_time": 1731934940,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 313406,
@@ -1641,6 +1657,14 @@
       "onboard_time": 1731900257,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309363,
+      "num": 437037,
+      "word": "女子正上着班公司突然解散",
+      "onboard_time": 1731938720,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308342,
@@ -1761,6 +1785,14 @@
       "onboard_time": 1731850880,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280520,
+      "num": 393705,
+      "word": "夏弃疾 永夜星河壁纸",
+      "onboard_time": 1731930259,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 279197,
@@ -2075,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241991,
+      "num": 241991,
+      "word": "任嘉伦首位古现剧集双亿男主",
+      "onboard_time": 1731934821,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241866,
       "num": 241866,
       "word": "全红婵也被今天的武汉冷到了",
@@ -2091,14 +2131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 240665,
-      "num": 240665,
-      "word": "任嘉伦首位古现剧集双亿男主",
-      "onboard_time": 1731934821,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239834,
       "num": 239834,
       "word": "儿子大喝一声虎口救父",
@@ -2112,6 +2144,14 @@
       "word": "孙俪陪女儿参加拉丁舞比赛",
       "onboard_time": 1731848360,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238853,
+      "num": 317833,
+      "word": "当红男女爱豆的边界感",
+      "onboard_time": 1731939620,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -2131,28 +2171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237783,
-      "num": 237783,
-      "word": "小米汽车卖一辆亏3万",
-      "onboard_time": 1731939260,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 237315,
       "num": 349898,
       "word": "江苏盐城村干部被曝工作日聚餐饮酒",
       "onboard_time": 1731766885,
       "rank": 5,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 236972,
-      "num": 393705,
-      "word": "夏弃疾 永夜星河壁纸",
-      "onboard_time": 1731930259,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 235791,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1731852261,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224250,
+      "num": 192037,
+      "word": "成都警方通报一起持械伤人案",
+      "onboard_time": 1731936322,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 223305,
@@ -2377,6 +2409,14 @@
       "onboard_time": 1731928219,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211123,
+      "num": 211123,
+      "word": "全球首例成功换脸换手男子将结婚",
+      "onboard_time": 1731940282,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 211025,
@@ -2643,14 +2683,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 192037,
-      "num": 192037,
-      "word": "成都警方通报一起持械伤人案",
-      "onboard_time": 1731936322,
-      "rank": 41,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 191743,
       "num": 191743,
       "word": "尚雯婕朱丹正是藏得住惊喜的年纪",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1731827598,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 186508,
+      "num": 186508,
+      "word": "男子曝执法局工作人员上班时间提前吃饭",
+      "onboard_time": 1731939201,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 185739,
@@ -3211,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164358,
+      "num": 164358,
+      "word": "被东北虎咬伤村民无截肢风险",
+      "onboard_time": 1731938541,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 164309,
       "num": 164309,
       "word": "金鸡历届影后",
@@ -3233,22 +3281,6 @@
       "onboard_time": 1731927199,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162357,
-      "num": 162357,
-      "word": "被东北虎咬伤村民无截肢风险",
-      "onboard_time": 1731938541,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 162279,
-      "num": 437037,
-      "word": "女子正上着班公司突然解散",
-      "onboard_time": 1731938720,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162170,
@@ -3779,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142736,
+      "num": 142736,
+      "word": "赵小童检查结果跟如图所示一样",
+      "onboard_time": 1731940522,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142254,
       "num": 142254,
       "word": "老头杯",
@@ -4139,6 +4179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126664,
+      "num": 126664,
+      "word": "东方公主号游轮突发大火",
+      "onboard_time": 1731940642,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 126313,
       "num": 126313,
       "word": "村里新换的井盖铁锹一敲一个洞",
@@ -4169,14 +4217,6 @@
       "onboard_time": 1731842897,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124947,
-      "num": 124947,
-      "word": "男子曝执法局工作人员上班时间提前吃饭",
-      "onboard_time": 1731939201,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 124820,
@@ -4241,6 +4281,14 @@
       "onboard_time": 1731926841,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 122355,
+      "num": 122355,
+      "word": "愿你拥有这5种高能量心态",
+      "onboard_time": 1731940820,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122240,
@@ -4321,6 +4369,14 @@
       "onboard_time": 1731789731,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118657,
+      "num": 118657,
+      "word": "当地回应咬人老虎是否击毙",
+      "onboard_time": 1731940761,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 118370,
@@ -4475,20 +4531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112082,
+      "num": 112082,
+      "word": "深圳水贝黄金销量下滑",
+      "onboard_time": 1731940881,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111949,
       "num": 111949,
       "word": "容祖儿曾以为李昊的田是家族企业",
       "onboard_time": 1731857958,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111530,
-      "num": 164847,
-      "word": "当红男女爱豆的边界感",
-      "onboard_time": 1731939620,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 111168,
@@ -5435,6 +5491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51865,
+      "num": 350637,
+      "word": "野保会称村民可常备爆竹驱虎",
+      "onboard_time": 1731940700,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51701,
       "num": 51701,
       "word": "姿态回应打野不带惩戒",
@@ -5560,6 +5624,14 @@
       "word": "新疆沙漠里瓜果蔬菜水灵灵丰收了",
       "onboard_time": 1731776120,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47121,
+      "num": 338132,
+      "word": "高校回应本科生与其教授母亲同发论文",
+      "onboard_time": 1731939981,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -6307,6 +6379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23197,
+      "num": 372938,
+      "word": "律师解析老虎咬伤村民四大焦点问题",
+      "onboard_time": 1731940221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23191,
       "num": 168838,
       "word": "钟楚曦说邵艺辉随时随地刷微博",
@@ -6361,6 +6441,14 @@
       "onboard_time": 1731877691,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 21735,
+      "num": 317779,
+      "word": "省宠协呼吁保留中毒宠物遗体",
+      "onboard_time": 1731940700,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21715,
