@@ -1,0 +1,410 @@
+{
+  "runTime": 1731939766492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294429,
+        "num": 1294429,
+        "word": "警方通报男子因行车纠纷将人刺死",
+        "onboard_time": 1731934280,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 928530,
+        "num": 928530,
+        "word": "小蜜蜂老师离职事件疑云重重",
+        "onboard_time": 1731935122,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31222,
+        "num": 829161,
+        "word": "60秒带你看里约热内卢",
+        "onboard_time": 1731937041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 745883,
+        "num": 745883,
+        "word": "永夜星河 怪不得没吻戏",
+        "onboard_time": 1731936202,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556591,
+        "num": 556591,
+        "word": "班主任怒批家长送孩子上学迟到",
+        "onboard_time": 1731934641,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 916081,
+        "num": 517480,
+        "word": "新疆喀什一中学发生踩踏事故",
+        "onboard_time": 1731932900,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 448790,
+        "num": 448790,
+        "word": "官方称江边现病毒采样试管并无病毒",
+        "onboard_time": 1731934221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61895,
+        "num": 448353,
+        "word": "日本队主教练回应国足两连胜",
+        "onboard_time": 1731937161,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360799,
+        "num": 447616,
+        "word": "夏弃疾把妙声强制爱拍出来了",
+        "onboard_time": 1731937641,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29809,
+        "num": 446915,
+        "word": "卫生巾pH值标准和窗帘相同安全吗",
+        "onboard_time": 1731938300,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1093257,
+        "num": 446157,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 754644,
+        "num": 445720,
+        "word": "26岁二胎宝妈产下3斤宝宝后去世",
+        "onboard_time": 1731919458,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523661,
+        "num": 444945,
+        "word": "向佐 不漂亮的时候也不想人见到我",
+        "onboard_time": 1731937220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444213,
+        "num": 444213,
+        "word": "虞书欣丁禹兮双人古风大片",
+        "onboard_time": 1731932840,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162279,
+        "num": 437037,
+        "word": "女子正上着班公司突然解散",
+        "onboard_time": 1731938720,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434141,
+        "num": 434141,
+        "word": "官方回应湘江现大量病毒采样管",
+        "onboard_time": 1731931399,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 400333,
+        "num": 400333,
+        "word": "济宁女孩坠亡商场已装防护网",
+        "onboard_time": 1731931460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261256,
+        "num": 398792,
+        "word": "小巷人家 孝庄",
+        "onboard_time": 1731933140,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236972,
+        "num": 393705,
+        "word": "夏弃疾 永夜星河壁纸",
+        "onboard_time": 1731930259,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39652,
+        "num": 388386,
+        "word": "摄协主席作品疑现喜羊羊被指作假",
+        "onboard_time": 1731938601,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491888,
+        "num": 384347,
+        "word": "女子掉进温泉池2秒皮被烫掉",
+        "onboard_time": 1731929719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383906,
+        "num": 383906,
+        "word": "小米现金储备1516亿",
+        "onboard_time": 1731933800,
+        "rank": 21,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 376956,
+        "num": 376956,
+        "word": "东北虎",
+        "onboard_time": 1731929479,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 319979,
+        "num": 319979,
+        "word": "大四学生挂8科后失联多月被发现溺亡",
+        "onboard_time": 1731919640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315119,
+        "num": 315119,
+        "word": "李行亮朋友回应借钱",
+        "onboard_time": 1731927319,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314206,
+        "num": 314206,
+        "word": "孙颖莎希望4年后还能听到欢呼声",
+        "onboard_time": 1731934940,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223251,
+        "num": 307897,
+        "word": "永夜星河",
+        "onboard_time": 1731932000,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195955,
+        "num": 287347,
+        "word": "永夜星河密室",
+        "onboard_time": 1731939620,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109951,
+        "num": 281241,
+        "word": "赵小童做了全套体检",
+        "onboard_time": 1731936082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6132,
+        "num": 254443,
+        "word": "保平争胜阴雨天或成制胜关键",
+        "onboard_time": 1731939260,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250674,
+        "num": 250674,
+        "word": "吐槽黄焖鸡不要点的博主被禁言",
+        "onboard_time": 1731933981,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240665,
+        "num": 240665,
+        "word": "任嘉伦首位古现剧集双亿男主",
+        "onboard_time": 1731934821,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237783,
+        "num": 237783,
+        "word": "小米汽车卖一辆亏3万",
+        "onboard_time": 1731939260,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230521,
+        "num": 230521,
+        "word": "儿子大喝一声虎口救父",
+        "onboard_time": 1731935182,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193607,
+        "num": 193607,
+        "word": "39岁男子杀害初二女生芒市落网",
+        "onboard_time": 1731930319,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104132,
+        "num": 192481,
+        "word": "王源这种饭撒一定要缠上我",
+        "onboard_time": 1731937581,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192037,
+        "num": 192037,
+        "word": "成都警方通报一起持械伤人案",
+        "onboard_time": 1731936322,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 188274,
+        "num": 188274,
+        "word": "A股行情",
+        "onboard_time": 1731936322,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185526,
+        "num": 185526,
+        "word": "鹿晗关晓彤王安宇cp名",
+        "onboard_time": 1731927918,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169835,
+        "num": 169835,
+        "word": "张馨予 对于伤害不会心软",
+        "onboard_time": 1731935541,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111530,
+        "num": 164847,
+        "word": "当红男女爱豆的边界感",
+        "onboard_time": 1731939620,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162357,
+        "num": 162357,
+        "word": "被东北虎咬伤村民无截肢风险",
+        "onboard_time": 1731938541,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 161106,
+        "num": 161106,
+        "word": "女子取现700万给骗子怼民警管的宽",
+        "onboard_time": 1731922879,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159641,
+        "num": 159641,
+        "word": "喀什第八中学踩踏事故致3重伤11轻伤",
+        "onboard_time": 1731937641,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 155747,
+        "num": 155747,
+        "word": "子期的梦",
+        "onboard_time": 1731934280,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145500,
+        "num": 145500,
+        "word": "官方称野生老虎来源尚不明确",
+        "onboard_time": 1731936981,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 136133,
+        "num": 136133,
+        "word": "一个林更新一个庄国栋",
+        "onboard_time": 1731921439,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134565,
+        "num": 134565,
+        "word": "钟楚曦 喜欢恋爱不是一种病",
+        "onboard_time": 1731927740,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131897,
+        "num": 131897,
+        "word": "刘耀文模仿奶龙",
+        "onboard_time": 1731934880,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124947,
+        "num": 124947,
+        "word": "男子曝执法局工作人员上班时间提前吃饭",
+        "onboard_time": 1731939201,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创亚太发展新时代#"
+    }
+  }
+}
