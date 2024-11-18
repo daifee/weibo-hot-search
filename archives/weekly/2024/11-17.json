@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731958549152,
+  "endTime": 1731961458372,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -5339,6 +5339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71076,
+      "num": 71076,
+      "word": "宠协工作人员称死亡犬数仍上升",
+      "onboard_time": 1731956771,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 71059,
       "num": 252182,
       "word": "不能没有子期",
@@ -6475,14 +6483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28238,
-      "num": 56754,
-      "word": "宠协工作人员称死亡犬数仍上升",
-      "onboard_time": 1731956771,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 28225,
       "num": 223448,
       "word": "开局五子棋 结局无子期",
@@ -6569,6 +6569,14 @@
       "onboard_time": 1731927440,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25920,
+      "num": 25920,
+      "word": "幼儿园殴打学生老师已被辞退",
+      "onboard_time": 1731957851,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25470,
@@ -6883,6 +6891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18186,
+      "num": 36987,
+      "word": "警方悬赏通缉10名在逃嫌疑人",
+      "onboard_time": 1731959531,
+      "rank": 15,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 18165,
       "num": 545880,
       "word": "文化中国行看见大美山河",
@@ -6985,14 +7001,6 @@
       "onboard_time": 1731915799,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15915,
-      "num": 15915,
-      "word": "幼儿园殴打学生老师已被辞退",
-      "onboard_time": 1731957851,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 15316,
@@ -7105,6 +7113,14 @@
       "onboard_time": 1731900918,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13454,
+      "num": 13454,
+      "word": "国际金价一周跌去4%",
+      "onboard_time": 1731961151,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 13375,

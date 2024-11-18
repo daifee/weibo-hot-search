@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/19 00:29:53 ~ 2024/11/19 03:35:49
+本榜单时间：2024/11/19 00:29:53 ~ 2024/11/19 04:24:18
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ TGA官方入驻微博（热度：73983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
+宠协工作人员称死亡犬数仍上升（热度：71076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E6%9E%97%E5%9B%9B%E4%BE%A0%23" target="weibo">
 竹林四侠（热度：68680）
 </a>
@@ -375,8 +381,8 @@ TGA官方入驻微博（热度：73983）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
-宠协工作人员称死亡犬数仍上升（热度：28238）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+幼儿园殴打学生老师已被辞退（热度：25920）
 </a>
 </li>
 
@@ -423,20 +429,32 @@ TGA官方入驻微博（热度：73983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%82%AC%E8%B5%8F%E9%80%9A%E7%BC%8910%E5%90%8D%E5%9C%A8%E9%80%83%E5%AB%8C%E7%96%91%E4%BA%BA%23" target="weibo">
+警方悬赏通缉10名在逃嫌疑人（热度：18186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23G20%E9%87%8C%E7%BA%A6%E5%B3%B0%E4%BC%9A%23" target="weibo">
 G20里约峰会（热度：17371）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
-幼儿园殴打学生老师已被辞退（热度：15915）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%91%84%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%82%E5%B1%95%E7%85%A7%E7%89%87%E7%96%91%E4%BD%9C%E5%81%87%23" target="weibo">
+当地回应摄协主席参展照片疑作假（热度：14719）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%91%84%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%82%E5%B1%95%E7%85%A7%E7%89%87%E7%96%91%E4%BD%9C%E5%81%87%23" target="weibo">
-当地回应摄协主席参展照片疑作假（热度：14719）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%80%E5%91%A8%E8%B7%8C%E5%8E%BB4%25%23" target="weibo">
+国际金价一周跌去4%（热度：13454）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95%23" target="weibo">
+珠海航展（热度：13278）
 </a>
 </li>
 

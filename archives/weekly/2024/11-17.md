@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/17 00:27:53 ~ 2024/11/19 03:35:49
+本榜单时间：2024/11/17 00:27:53 ~ 2024/11/19 04:24:18
 </p>
 </blockquote>
 <p>
@@ -4017,6 +4017,12 @@ TGA官方入驻微博（热度：73983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
+宠协工作人员称死亡犬数仍上升（热度：71076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E5%AD%90%E6%9C%9F%23" target="weibo">
 不能没有子期（热度：71059）
 </a>
@@ -4869,12 +4875,6 @@ KPL的人脉也太开门了（热度：34789）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
-宠协工作人员称死亡犬数仍上升（热度：28238）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%BA%94%E5%AD%90%E6%A3%8B%20%E7%BB%93%E5%B1%80%E6%97%A0%E5%AD%90%E6%9C%9F%23" target="weibo">
 开局五子棋 结局无子期（热度：28225）
 </a>
@@ -4937,6 +4937,12 @@ AG微博小编上线（热度：27195）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B9%B01000%E4%B8%87%E6%88%BF%E5%AD%90%E5%A5%91%E7%A8%8E%E6%9C%80%E9%AB%98%E5%8F%AF%E5%87%8F20%E4%B8%87%23" target="weibo">
 上海买1000万房子契税最高可减20万（热度：25941）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+幼儿园殴打学生老师已被辞退（热度：25920）
 </a>
 </li>
 
@@ -5175,6 +5181,12 @@ AG微博小编上线（热度：27195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%82%AC%E8%B5%8F%E9%80%9A%E7%BC%8910%E5%90%8D%E5%9C%A8%E9%80%83%E5%AB%8C%E7%96%91%E4%BA%BA%23" target="weibo">
+警方悬赏通缉10名在逃嫌疑人（热度：18186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%9C%8B%E8%A7%81%E5%A4%A7%E7%BE%8E%E5%B1%B1%E6%B2%B3%23" target="weibo">
 文化中国行看见大美山河（热度：18165）
 </a>
@@ -5249,12 +5261,6 @@ APEC官方用车是中国新能源车（热度：17064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%E5%B7%B4%E8%A5%BF%E5%8A%A1%E5%AE%9E%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%23" target="weibo">
 数读中国巴西务实合作成果（热度：15981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
-幼儿园殴打学生老师已被辞退（热度：15915）
 </a>
 </li>
 
@@ -5339,6 +5345,12 @@ WTT福冈总决赛抽签结果出炉（热度：14594）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8A%E8%A7%81%E5%88%B0%E5%AE%B9%E7%A5%96%E5%84%BF%E8%AF%B4%E6%88%91%E6%9C%89%E4%B8%80%E5%9D%97%E7%94%B0%23" target="weibo">
 李昊见到容祖儿说我有一块田（热度：13489）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E4%B8%80%E5%91%A8%E8%B7%8C%E5%8E%BB4%25%23" target="weibo">
+国际金价一周跌去4%（热度：13454）
 </a>
 </li>
 
