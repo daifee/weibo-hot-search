@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731915522482,
+  "endTime": 1731918668850,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1541222,
+      "num": 1541222,
+      "word": "官方通报黑龙江老虎进村咬伤村民",
+      "onboard_time": 1731915559,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1407422,
       "num": 1407422,
       "word": "霸王茶姬 口令",
@@ -27,7 +35,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1185368,
+      "raw_hot": 1266753,
       "num": 1185368,
       "word": "黑龙江被老虎咬伤村民家属发声",
       "onboard_time": 1731911541,
@@ -97,6 +105,14 @@
       "onboard_time": 1731858619,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 920565,
+      "num": 451041,
+      "word": "36岁抗癌网红陈班长去世",
+      "onboard_time": 1731916462,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 907515,
@@ -179,12 +195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 675539,
+      "num": 675539,
+      "word": "刘诗诗提灯神女",
+      "onboard_time": 1731915139,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 669127,
       "num": 669127,
       "word": "郝蕾演技班",
       "onboard_time": 1731899840,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 654932,
+      "num": 535283,
+      "word": "老虎进村扑咬老人快速拉门脱险",
+      "onboard_time": 1731914119,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651803,
@@ -283,12 +315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535201,
+      "num": 535201,
+      "word": "王楚钦坐裁判椅",
+      "onboard_time": 1731913999,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 519348,
       "num": 178612,
       "word": "官方回应济宁一女孩商场内坠亡",
       "onboard_time": 1731844039,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 504591,
+      "num": 504591,
+      "word": "被老虎咬伤家属说左手保不住了",
+      "onboard_time": 1731917300,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 496605,
@@ -299,12 +347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496057,
+      "num": 496057,
+      "word": "杨子后悔参加再见爱人",
+      "onboard_time": 1731917779,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491887,
       "num": 491887,
       "word": "刘丁硕谈王楚钦教练分配",
       "onboard_time": 1731907339,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 486490,
+      "num": 486490,
+      "word": "RA正式退出LPL",
+      "onboard_time": 1731915739,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 477431,
@@ -361,6 +425,14 @@
       "onboard_time": 1731849020,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 407054,
+      "num": 407054,
+      "word": "好东西豆瓣开分9.1",
+      "onboard_time": 1731915378,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 405913,
@@ -467,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345869,
-      "num": 345869,
-      "word": "王楚钦坐裁判椅",
-      "onboard_time": 1731913999,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 343971,
       "num": 343971,
       "word": "WTT福冈总决赛签表",
@@ -553,6 +617,14 @@
       "onboard_time": 1731892037,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279197,
+      "num": 279197,
+      "word": "被野生动物咬伤如何维权",
+      "onboard_time": 1731917120,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 276526,
@@ -707,12 +779,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 232747,
-      "num": 365739,
-      "word": "刘诗诗提灯神女",
-      "onboard_time": 1731915139,
-      "rank": 16,
-      "category": "作品衍生,时尚"
+      "raw_hot": 234165,
+      "num": 234165,
+      "word": "怀9胞胎女子18日做减胎手术",
+      "onboard_time": 1731916702,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232168,
@@ -803,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 216225,
+      "num": 216225,
+      "word": "无孩爱猫女",
+      "onboard_time": 1731918018,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210880,
       "num": 220270,
       "word": "张云雷参加王九龙婚礼",
@@ -868,7 +948,7 @@
     },
     {
       "raw_hot": 202280,
-      "num": 202280,
+      "num": 257798,
       "word": "手指吻",
       "onboard_time": 1731913398,
       "rank": 26,
@@ -971,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "这张脸做男做女都精彩",
+      "onboard_time": 1731915918,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182505,
       "num": 182505,
       "word": "mlxg向无状态道歉",
@@ -1019,12 +1107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172939,
+      "num": 172939,
+      "word": "魏大勋 一看你就没听过刘旸的脱口秀",
+      "onboard_time": 1731918138,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171979,
       "num": 171979,
       "word": "王楚钦林高远福冈赛前对练",
       "onboard_time": 1731901881,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170220,
+      "num": 170220,
+      "word": "韩国吃播",
+      "onboard_time": 1731918018,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 169095,
@@ -1099,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158501,
+      "num": 158501,
+      "word": "A股缩量673亿下跌个股超4100只",
+      "onboard_time": 1731916099,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157949,
       "num": 230613,
       "word": "上海外籍游客投诉自主寄存柜难用",
@@ -1147,6 +1259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153551,
+      "num": 153551,
+      "word": "夏以昼 请求回归",
+      "onboard_time": 1731917537,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 152745,
       "num": 308413,
       "word": "李斯丹妮催更再见爱人",
@@ -1171,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148946,
+      "num": 148946,
+      "word": "看小说最讨厌看到的女主称呼",
+      "onboard_time": 1731916879,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 148030,
       "num": 215815,
       "word": "时代少年团角色花絮照",
@@ -1184,6 +1312,14 @@
       "word": "珠帘玉幕",
       "onboard_time": 1731907219,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145668,
+      "num": 145668,
+      "word": "赵露思唐装",
+      "onboard_time": 1731912799,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1217,14 +1353,6 @@
       "onboard_time": 1731899599,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139557,
-      "num": 139557,
-      "word": "赵露思唐装",
-      "onboard_time": 1731912799,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 139446,
@@ -1347,14 +1475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122750,
-      "num": 535283,
-      "word": "老虎进村扑咬老人快速拉门脱险",
-      "onboard_time": 1731914119,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121692,
       "num": 121692,
       "word": "消防搜救犬广告大片反差感拉满",
@@ -1441,14 +1561,6 @@
       "onboard_time": 1731890059,
       "rank": 41,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 114215,
-      "num": 220326,
-      "word": "好东西豆瓣开分9.1",
-      "onboard_time": 1731915378,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 113982,
@@ -1561,6 +1673,14 @@
       "onboard_time": 1731853581,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94424,
+      "num": 441551,
+      "word": "老人听说有老虎正瞅着猛虎就扑来",
+      "onboard_time": 1731916939,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 90227,
@@ -1787,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54599,
+      "num": 413857,
+      "word": "吉林坍塌滑冰馆投用不满5年",
+      "onboard_time": 1731917479,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 54544,
       "num": 995477,
       "word": "秘鲁国菜有自己的专属纪念日",
@@ -1867,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44532,
+      "num": 425409,
+      "word": "AG扫楼下班照",
+      "onboard_time": 1731918380,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 41549,
       "num": 57004,
       "word": "aespa年度歌曲",
@@ -1907,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36351,
+      "num": 429149,
+      "word": "王一博叫你关注联合国气候变化大会",
+      "onboard_time": 1731918439,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36052,
       "num": 36318,
       "word": "里约热内卢G20时间",
@@ -1921,6 +2065,14 @@
       "onboard_time": 1731861197,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34789,
+      "num": 418304,
+      "word": "KPL的人脉也太开门了",
+      "onboard_time": 1731917659,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 34425,
@@ -2027,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27786,
+      "num": 481916,
+      "word": "全国多地政府大院向公众开放",
+      "onboard_time": 1731918558,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27693,
       "num": 827075,
       "word": "低价助听器老人们可能越戴越聋",
@@ -2115,6 +2275,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 18876,
+      "num": 475687,
+      "word": "新射雕能复兴徐克的武侠梦吗",
+      "onboard_time": 1731918260,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18165,
       "num": 545880,
       "word": "文化中国行看见大美山河",
@@ -2153,6 +2321,14 @@
       "onboard_time": 1731880392,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14765,
+      "num": 582728,
+      "word": "数读中国巴西务实合作成果",
+      "onboard_time": 1731915799,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14463,

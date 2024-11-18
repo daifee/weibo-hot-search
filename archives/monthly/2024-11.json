@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731915522482,
+  "endTime": 1731918668850,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1747,6 +1747,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1541222,
+      "num": 1541222,
+      "word": "官方通报黑龙江老虎进村咬伤村民",
+      "onboard_time": 1731915559,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1530418,
       "num": 1530418,
       "word": "李子柒给手工厂提建议从滞销变脱销",
@@ -2667,6 +2675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1266753,
+      "num": 1185368,
+      "word": "黑龙江被老虎咬伤村民家属发声",
+      "onboard_time": 1731911541,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1264887,
       "num": 1264887,
       "word": "李庚希回应金鸡影后",
@@ -2889,14 +2905,6 @@
       "onboard_time": 1731487099,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1185368,
-      "num": 1185368,
-      "word": "黑龙江被老虎咬伤村民家属发声",
-      "onboard_time": 1731911541,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1184250,
@@ -4561,6 +4569,14 @@
       "onboard_time": 1730897242,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920565,
+      "num": 451041,
+      "word": "36岁抗癌网红陈班长去世",
+      "onboard_time": 1731916462,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 920131,
@@ -7075,6 +7091,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 675539,
+      "num": 675539,
+      "word": "刘诗诗提灯神女",
+      "onboard_time": 1731915139,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 675280,
       "num": 675280,
       "word": "今年美国大选将成史上最贵一次",
@@ -7417,6 +7441,14 @@
       "onboard_time": 1731473300,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 654932,
+      "num": 535283,
+      "word": "老虎进村扑咬老人快速拉门脱险",
+      "onboard_time": 1731914119,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 654460,
@@ -9707,6 +9739,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 535201,
+      "num": 535201,
+      "word": "王楚钦坐裁判椅",
+      "onboard_time": 1731913999,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535033,
       "num": 363908,
       "word": "陈星旭说迪丽热巴很轻",
@@ -10403,6 +10443,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 504591,
+      "num": 504591,
+      "word": "被老虎咬伤家属说左手保不住了",
+      "onboard_time": 1731917300,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 504306,
       "num": 360629,
       "word": "国足 裁判",
@@ -10544,6 +10592,14 @@
       "word": "心动的信号 剪辑",
       "onboard_time": 1731026601,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 496057,
+      "num": 496057,
+      "word": "杨子后悔参加再见爱人",
+      "onboard_time": 1731917779,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -10793,6 +10849,14 @@
       "onboard_time": 1730534237,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486490,
+      "num": 486490,
+      "word": "RA正式退出LPL",
+      "onboard_time": 1731915739,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 486174,
@@ -12859,6 +12923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407054,
+      "num": 407054,
+      "word": "好东西豆瓣开分9.1",
+      "onboard_time": 1731915378,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 406926,
       "num": 406926,
       "word": "顺风车迟迟不到或用了外挂抢单",
@@ -14729,14 +14801,6 @@
       "onboard_time": 1731657799,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345869,
-      "num": 345869,
-      "word": "王楚钦坐裁判椅",
-      "onboard_time": 1731913999,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 345797,
@@ -17497,6 +17561,14 @@
       "onboard_time": 1730554099,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279197,
+      "num": 279197,
+      "word": "被野生动物咬伤如何维权",
+      "onboard_time": 1731917120,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 279176,
@@ -20443,6 +20515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234165,
+      "num": 234165,
+      "word": "怀9胞胎女子18日做减胎手术",
+      "onboard_time": 1731916702,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234148,
       "num": 333702,
       "word": "林保怡回应憾失金鸡影帝",
@@ -20529,14 +20609,6 @@
       "onboard_time": 1731243619,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232747,
-      "num": 365739,
-      "word": "刘诗诗提灯神女",
-      "onboard_time": 1731915139,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 232640,
@@ -21881,6 +21953,14 @@
       "onboard_time": 1731760880,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216225,
+      "num": 216225,
+      "word": "无孩爱猫女",
+      "onboard_time": 1731918018,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 216143,
@@ -27179,6 +27259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "这张脸做男做女都精彩",
+      "onboard_time": 1731915918,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184046,
       "num": 184046,
       "word": "王楚钦法兰克福首秀",
@@ -29043,6 +29131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172939,
+      "num": 172939,
+      "word": "魏大勋 一看你就没听过刘旸的脱口秀",
+      "onboard_time": 1731918138,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172937,
       "num": 172937,
       "word": "白夜追凶欠了多少坑没填",
@@ -29513,6 +29609,14 @@
       "onboard_time": 1731676579,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170220,
+      "num": 170220,
+      "word": "韩国吃播",
+      "onboard_time": 1731918018,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 170209,
@@ -31907,6 +32011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158501,
+      "num": 158501,
+      "word": "A股缩量673亿下跌个股超4100只",
+      "onboard_time": 1731916099,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158457,
       "num": 158457,
       "word": "余承东称Mate70将在26号发布",
@@ -32921,6 +33033,14 @@
       "onboard_time": 1731556584,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153551,
+      "num": 153551,
+      "word": "夏以昼 请求回归",
+      "onboard_time": 1731917537,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 153537,
@@ -33971,6 +34091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148946,
+      "num": 148946,
+      "word": "看小说最讨厌看到的女主称呼",
+      "onboard_time": 1731916879,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 148896,
       "num": 148896,
       "word": "女子带日本人入住酒店被拒",
@@ -34577,6 +34705,14 @@
       "onboard_time": 1730529738,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145668,
+      "num": 145668,
+      "word": "赵露思唐装",
+      "onboard_time": 1731912799,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 145647,
@@ -35753,14 +35889,6 @@
       "onboard_time": 1731172396,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139557,
-      "num": 139557,
-      "word": "赵露思唐装",
-      "onboard_time": 1731912799,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 139538,
@@ -38915,14 +39043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122750,
-      "num": 535283,
-      "word": "老虎进村扑咬老人快速拉门脱险",
-      "onboard_time": 1731914119,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122726,
       "num": 122726,
       "word": "院方回应120司机参与贩卖女婴",
@@ -40449,14 +40569,6 @@
       "onboard_time": 1730874324,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114215,
-      "num": 220326,
-      "word": "好东西豆瓣开分9.1",
-      "onboard_time": 1731915378,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 114207,
@@ -43257,6 +43369,14 @@
       "onboard_time": 1730663112,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 94424,
+      "num": 441551,
+      "word": "老人听说有老虎正瞅着猛虎就扑来",
+      "onboard_time": 1731916939,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 94214,
@@ -47859,6 +47979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54599,
+      "num": 413857,
+      "word": "吉林坍塌滑冰馆投用不满5年",
+      "onboard_time": 1731917479,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 54567,
       "num": 417609,
       "word": "做了一周轻体力活我开始怀念上班",
@@ -49577,6 +49705,14 @@
       "onboard_time": 1731207617,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44532,
+      "num": 425409,
+      "word": "AG扫楼下班照",
+      "onboard_time": 1731918380,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 44518,
@@ -51363,6 +51499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36351,
+      "num": 429149,
+      "word": "王一博叫你关注联合国气候变化大会",
+      "onboard_time": 1731918439,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36271,
       "num": 346124,
       "word": "中国航展听取哇声一片",
@@ -51641,6 +51785,14 @@
       "onboard_time": 1730726842,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34789,
+      "num": 418304,
+      "word": "KPL的人脉也太开门了",
+      "onboard_time": 1731917659,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 34788,
@@ -53729,6 +53881,14 @@
       "onboard_time": 1731634459,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 27786,
+      "num": 481916,
+      "word": "全国多地政府大院向公众开放",
+      "onboard_time": 1731918558,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27776,
@@ -56347,6 +56507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18876,
+      "num": 475687,
+      "word": "新射雕能复兴徐克的武侠梦吗",
+      "onboard_time": 1731918260,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18841,
       "num": 48749,
       "word": "西安千年银杏雨后迎颜值巅峰",
@@ -57417,6 +57585,14 @@
       "onboard_time": 1731880392,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14765,
+      "num": 582728,
+      "word": "数读中国巴西务实合作成果",
+      "onboard_time": 1731915799,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14748,
