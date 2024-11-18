@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731908472581,
+  "endTime": 1731911623385,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -17,6 +17,14 @@
       "onboard_time": 1731898097,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1362631,
+      "num": 1362631,
+      "word": "老虎",
+      "onboard_time": 1731906500,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1025095,
@@ -89,6 +97,14 @@
       "onboard_time": 1731890959,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 854348,
+      "num": 854348,
+      "word": "俄对乌发动大规模导弹和无人机袭击",
+      "onboard_time": 1731908659,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 838337,
@@ -395,11 +411,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343971,
+      "num": 343971,
+      "word": "WTT福冈总决赛签表",
+      "onboard_time": 1731908239,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322919,
       "num": 322919,
       "word": "怀9胞胎女子身体比较虚弱",
       "onboard_time": 1731905781,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312284,
+      "num": 312284,
+      "word": "19岁小伙在迈巴赫车尾贴满寻人启事",
+      "onboard_time": 1731906741,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269352,
+      "num": 334804,
+      "word": "张萌说短剧是演员的优速通",
+      "onboard_time": 1731906981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268648,
       "num": 232372,
       "word": "官方回应吉林一滑冰馆被曝坍塌",
@@ -515,20 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251766,
+      "num": 251766,
+      "word": "黑龙江一野生东北虎咬伤人",
+      "onboard_time": 1731909139,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251639,
+      "num": 251639,
+      "word": "珠帘玉幕豆瓣6.3分",
+      "onboard_time": 1731909859,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250755,
       "num": 250755,
       "word": "奥斯卡 孙乐言",
       "onboard_time": 1731849260,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248483,
-      "num": 334804,
-      "word": "张萌说短剧是演员的优速通",
-      "onboard_time": 1731906981,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 246053,
@@ -555,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238459,
+      "num": 251728,
+      "word": "孙颖莎首轮对阵陈幸同",
+      "onboard_time": 1731910218,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234436,
       "num": 234436,
       "word": "电影长安的荔枝阵容",
@@ -563,12 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230253,
-      "num": 230253,
-      "word": "老虎",
-      "onboard_time": 1731906500,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 232168,
+      "num": 232168,
+      "word": "何炅 丁禹兮你就这么听话啊",
+      "onboard_time": 1731910819,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 229317,
@@ -579,12 +635,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229001,
+      "num": 229001,
+      "word": "A股牛市结束了吗",
+      "onboard_time": 1731908898,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 227118,
       "num": 227118,
       "word": "起底针孔摄像头偷拍黑色产业链",
       "onboard_time": 1731896177,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226390,
+      "num": 200529,
+      "word": "王楚钦vs弗朗西斯卡",
+      "onboard_time": 1731909559,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 226242,
@@ -627,6 +699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 218396,
+      "num": 251699,
+      "word": "庄桦林你这话里有话啊",
+      "onboard_time": 1731910700,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209801,
       "num": 209801,
       "word": "林更新问汪苏泷重庆到底有谁在",
@@ -665,6 +745,14 @@
       "onboard_time": 1731900859,
       "rank": 28,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 202752,
+      "num": 202752,
+      "word": "黑龙江一农户家遭野生东北虎撞门",
+      "onboard_time": 1731909979,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202397,
@@ -721,6 +809,14 @@
       "onboard_time": 1731907639,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190199,
+      "num": 190199,
+      "word": "比亚迪抽奖",
+      "onboard_time": 1731910939,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 189059,
@@ -787,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176778,
+      "num": 176778,
+      "word": "美柚回应准爸爸注册后频接涉黄短信",
+      "onboard_time": 1731910879,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 176106,
       "num": 160533,
       "word": "九旬夫妇赠与儿子3套房反被故意伤害",
@@ -795,11 +899,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172661,
+      "num": 172661,
+      "word": "卡皮巴拉在塌一种很新的房",
+      "onboard_time": 1731909979,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171979,
       "num": 171979,
       "word": "王楚钦林高远福冈赛前对练",
       "onboard_time": 1731901881,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169095,
+      "num": 169095,
+      "word": "王楚钦首轮对战弗朗西斯卡",
+      "onboard_time": 1731910280,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -867,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157867,
+      "num": 157867,
+      "word": "武契奇深夜给中国工人送夜宵",
+      "onboard_time": 1731911478,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157675,
       "num": 157675,
       "word": "女子吃完红心甘蔗后多器官衰竭",
@@ -881,14 +1009,6 @@
       "onboard_time": 1731891918,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156209,
-      "num": 156209,
-      "word": "WTT福冈总决赛签表",
-      "onboard_time": 1731908239,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 155498,
@@ -939,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144432,
+      "num": 144432,
+      "word": "多方回应黑龙江老虎咬伤村民",
+      "onboard_time": 1731908719,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 143422,
       "num": 143422,
       "word": "陈小春说李宇春看起来很冷",
@@ -969,6 +1097,14 @@
       "onboard_time": 1731899777,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138925,
+      "num": 138925,
+      "word": "黑龙江被老虎咬伤村民家属发声",
+      "onboard_time": 1731911541,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138175,
@@ -1016,6 +1152,14 @@
       "word": "全红婵和同学握手比谁弯腰低",
       "onboard_time": 1731894797,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130690,
+      "num": 251731,
+      "word": "张志杰猝死事件后世界羽联更改规则",
+      "onboard_time": 1731910759,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -1219,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101272,
+      "num": 208580,
+      "word": "浮舟造型",
+      "onboard_time": 1731910998,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101112,
       "num": 111803,
       "word": "怨女原来在慕瑶体内",
@@ -1251,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90896,
+      "num": 361602,
+      "word": "卫生巾长度虚标ABC客服称可以不买",
+      "onboard_time": 1731908299,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90227,
       "num": 90227,
       "word": "以色列上万名抗议者呼吁停战",
@@ -1268,7 +1428,7 @@
     },
     {
       "raw_hot": 86519,
-      "num": 129275,
+      "num": 204960,
       "word": "刘诗诗十二月时装封面",
       "onboard_time": 1731905301,
       "rank": 49,
@@ -1395,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71737,
+      "num": 200961,
+      "word": "2024中国男足最后一战",
+      "onboard_time": 1731910579,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70719,
       "num": 70719,
       "word": "mlxg和无状态复盘红温",
@@ -1449,6 +1617,14 @@
       "onboard_time": 1731873371,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55148,
+      "num": 251655,
+      "word": "倪妮给自己拍了组封面",
+      "onboard_time": 1731911180,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 54544,
@@ -1795,6 +1971,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12014,
+      "num": 208911,
+      "word": "进博会上欧莱雅董事长E人社交局",
+      "onboard_time": 1731909799,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11978,
       "num": 86951,
       "word": "开放政府大院县长邀大家来舒城",
@@ -1841,14 +2025,6 @@
       "onboard_time": 1731877991,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 8102,
-      "num": 361602,
-      "word": "卫生巾长度虚标ABC客服称可以不买",
-      "onboard_time": 1731908299,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7606,
