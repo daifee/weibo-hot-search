@@ -1,0 +1,410 @@
+{
+  "runTime": 1731912436281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1833287,
+        "num": 1833287,
+        "word": "老虎",
+        "onboard_time": 1731906500,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1109039,
+        "num": 1109039,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7073,
+        "num": 972250,
+        "word": "秘鲁国菜有自己的专属纪念日",
+        "onboard_time": 1731900378,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 894460,
+        "num": 894460,
+        "word": "俄对乌发动大规模导弹和无人机袭击",
+        "onboard_time": 1731908659,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 565952,
+        "num": 565952,
+        "word": "19岁小伙在迈巴赫车尾贴满寻人启事",
+        "onboard_time": 1731906741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400995,
+        "num": 400995,
+        "word": "黑龙江一野生东北虎咬伤人",
+        "onboard_time": 1731909139,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334158,
+        "num": 334158,
+        "word": "庄桦林你这话里有话啊",
+        "onboard_time": 1731910700,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297761,
+        "num": 297761,
+        "word": "刘丁硕谈王楚钦教练分配",
+        "onboard_time": 1731907339,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288169,
+        "num": 288169,
+        "word": "赵晓卉说只有五月天关心她快不快乐",
+        "onboard_time": 1731900798,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31563,
+        "num": 287903,
+        "word": "吉林一滑冰馆屋顶塌落官方成立调查组",
+        "onboard_time": 1731911898,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 859431,
+        "num": 287190,
+        "word": "娜扎恋情曝光后首露面",
+        "onboard_time": 1731906321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413715,
+        "num": 286021,
+        "word": "范丞丞承认被网评打击",
+        "onboard_time": 1731903140,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97417,
+        "num": 285743,
+        "word": "卫生巾长度虚标ABC客服称可以不买",
+        "onboard_time": 1731908299,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351316,
+        "num": 284965,
+        "word": "黄晓明觉得自己40岁前很傻",
+        "onboard_time": 1731901038,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334668,
+        "num": 283735,
+        "word": "企业担心痛经假被滥用",
+        "onboard_time": 1731904821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274076,
+        "num": 282861,
+        "word": "庄筱婷林栋哲的小孩",
+        "onboard_time": 1731911659,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291772,
+        "num": 282752,
+        "word": "丁舟杰 祝你年年有虞",
+        "onboard_time": 1731905481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59340,
+        "num": 281627,
+        "word": "徐梦洁杀青记录",
+        "onboard_time": 1731910400,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114324,
+        "num": 280824,
+        "word": "倪妮给自己拍了组封面",
+        "onboard_time": 1731911180,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280585,
+        "num": 280585,
+        "word": "武契奇深夜给中国工人送夜宵",
+        "onboard_time": 1731911478,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311102,
+        "num": 280011,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308261,
+        "num": 279712,
+        "word": "麦琳五杀",
+        "onboard_time": 1731904282,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277940,
+        "num": 277940,
+        "word": "黑龙江被老虎咬伤村民家属发声",
+        "onboard_time": 1731911541,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270287,
+        "num": 271189,
+        "word": "WTT福冈总决赛签表",
+        "onboard_time": 1731908239,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271005,
+        "num": 271005,
+        "word": "A股",
+        "onboard_time": 1731894257,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230866,
+        "num": 230866,
+        "word": "珠帘玉幕豆瓣6.3分",
+        "onboard_time": 1731909859,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264424,
+        "num": 230835,
+        "word": "A股牛市结束了吗",
+        "onboard_time": 1731908898,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119856,
+        "num": 230703,
+        "word": "浮舟造型",
+        "onboard_time": 1731910998,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71194,
+        "num": 230613,
+        "word": "上海外籍游客投诉自主寄存柜难用",
+        "onboard_time": 1731912379,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6770,
+        "num": 230432,
+        "word": "进博会上欧莱雅董事长E人社交局",
+        "onboard_time": 1731909799,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230398,
+        "num": 230398,
+        "word": "何炅 丁禹兮你就这么听话啊",
+        "onboard_time": 1731910819,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256454,
+        "num": 227857,
+        "word": "王九龙结婚",
+        "onboard_time": 1731902420,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212978,
+        "num": 212978,
+        "word": "孙颖莎首轮对阵陈幸同",
+        "onboard_time": 1731910218,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205127,
+        "num": 205127,
+        "word": "怀9胞胎女子身体比较虚弱",
+        "onboard_time": 1731905781,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203340,
+        "num": 203340,
+        "word": "杨超越无发缝双丸子头",
+        "onboard_time": 1731898818,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200861,
+        "num": 200861,
+        "word": "网传8名学生运动会携手冲刺被开除",
+        "onboard_time": 1731906620,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200191,
+        "num": 200191,
+        "word": "美柚回应准爸爸注册后频接涉黄短信",
+        "onboard_time": 1731910879,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191277,
+        "num": 191277,
+        "word": "张志杰猝死事件后世界羽联更改规则",
+        "onboard_time": 1731910759,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185924,
+        "num": 185924,
+        "word": "黑龙江一农户家遭野生东北虎撞门",
+        "onboard_time": 1731909979,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185816,
+        "num": 185816,
+        "word": "卡皮巴拉在塌一种很新的房",
+        "onboard_time": 1731909979,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183517,
+        "num": 183517,
+        "word": "95后女子涉嫌开设赌场被通缉",
+        "onboard_time": 1731901038,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185110,
+        "num": 181251,
+        "word": "张萌说短剧是演员的优速通",
+        "onboard_time": 1731906981,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174285,
+        "num": 174285,
+        "word": "上海取消普通住房标准",
+        "onboard_time": 1731900019,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163399,
+        "num": 163399,
+        "word": "华为Mate70四种配色",
+        "onboard_time": 1731905781,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158267,
+        "num": 158267,
+        "word": "多方回应黑龙江老虎咬伤村民",
+        "onboard_time": 1731908719,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154797,
+        "num": 154797,
+        "word": "比亚迪抽奖",
+        "onboard_time": 1731910939,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141993,
+        "num": 141993,
+        "word": "王楚钦首轮对战弗朗西斯卡",
+        "onboard_time": 1731910280,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138264,
+        "num": 138264,
+        "word": "给爱说话学生戴小蜜蜂的老师离职",
+        "onboard_time": 1731898698,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132051,
+        "num": 132051,
+        "word": "迪丽热巴工作室公布维权案件进展",
+        "onboard_time": 1731907521,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129652,
+        "num": 129652,
+        "word": "巴西卡皮巴拉大军画风有点不同",
+        "onboard_time": 1731912379,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国要有大国的担当#"
+    }
+  }
+}

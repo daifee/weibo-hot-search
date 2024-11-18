@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731911623385,
+  "endTime": 1731912436281,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1833287,
+      "num": 1833287,
+      "word": "老虎",
+      "onboard_time": 1731906500,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1407422,
       "num": 1407422,
       "word": "霸王茶姬 口令",
       "onboard_time": 1731898097,
       "rank": 1,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1362631,
-      "num": 1362631,
-      "word": "老虎",
-      "onboard_time": 1731906500,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1025095,
@@ -99,8 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 854348,
-      "num": 854348,
+      "raw_hot": 894460,
+      "num": 894460,
       "word": "俄对乌发动大规模导弹和无人机袭击",
       "onboard_time": 1731908659,
       "rank": 3,
@@ -208,6 +208,14 @@
       "word": "顾客试衣服7小时买走15件",
       "onboard_time": 1731847040,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565952,
+      "num": 565952,
+      "word": "19岁小伙在迈巴赫车尾贴满寻人启事",
+      "onboard_time": 1731906741,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400995,
+      "num": 400995,
+      "word": "黑龙江一野生东北虎咬伤人",
+      "onboard_time": 1731909139,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396939,
       "num": 396939,
       "word": "珠海航展2万1套半真枪被抢光",
@@ -419,19 +435,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334158,
+      "num": 334158,
+      "word": "庄桦林你这话里有话啊",
+      "onboard_time": 1731910700,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322919,
       "num": 322919,
       "word": "怀9胞胎女子身体比较虚弱",
       "onboard_time": 1731905781,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312284,
-      "num": 312284,
-      "word": "19岁小伙在迈巴赫车尾贴满寻人启事",
-      "onboard_time": 1731906741,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -473,6 +489,30 @@
       "onboard_time": 1731892037,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280585,
+      "num": 280585,
+      "word": "武契奇深夜给中国工人送夜宵",
+      "onboard_time": 1731911478,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 277940,
+      "num": 277940,
+      "word": "黑龙江被老虎咬伤村民家属发声",
+      "onboard_time": 1731911541,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274076,
+      "num": 282861,
+      "word": "庄筱婷林栋哲的小孩",
+      "onboard_time": 1731911659,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 273220,
@@ -531,6 +571,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 264424,
+      "num": 230835,
+      "word": "A股牛市结束了吗",
+      "onboard_time": 1731908898,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 262630,
       "num": 343002,
       "word": "周冬雨巨型水晶项链",
@@ -552,14 +600,6 @@
       "word": "ABC卫生巾",
       "onboard_time": 1731816619,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251766,
-      "num": 251766,
-      "word": "黑龙江一野生东北虎咬伤人",
-      "onboard_time": 1731909139,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -635,14 +675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229001,
-      "num": 229001,
-      "word": "A股牛市结束了吗",
-      "onboard_time": 1731908898,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 227118,
       "num": 227118,
       "word": "起底针孔摄像头偷拍黑色产业链",
@@ -697,14 +729,6 @@
       "onboard_time": 1731905781,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 218396,
-      "num": 251699,
-      "word": "庄桦林你这话里有话啊",
-      "onboard_time": 1731910700,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 209801,
@@ -763,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200191,
+      "num": 200191,
+      "word": "美柚回应准爸爸注册后频接涉黄短信",
+      "onboard_time": 1731910879,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199279,
       "num": 199279,
       "word": "海南州原副州长酒后失德失范",
@@ -793,6 +825,14 @@
       "onboard_time": 1731892577,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191277,
+      "num": 251731,
+      "word": "张志杰猝死事件后世界羽联更改规则",
+      "onboard_time": 1731910759,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 190979,
@@ -833,6 +873,14 @@
       "onboard_time": 1731907521,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185816,
+      "num": 185816,
+      "word": "卡皮巴拉在塌一种很新的房",
+      "onboard_time": 1731909979,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184821,
@@ -883,27 +931,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176778,
-      "num": 176778,
-      "word": "美柚回应准爸爸注册后频接涉黄短信",
-      "onboard_time": 1731910879,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 176106,
       "num": 160533,
       "word": "九旬夫妇赠与儿子3套房反被故意伤害",
       "onboard_time": 1731876850,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172661,
-      "num": 172661,
-      "word": "卡皮巴拉在塌一种很新的房",
-      "onboard_time": 1731909979,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -987,12 +1019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157867,
-      "num": 157867,
-      "word": "武契奇深夜给中国工人送夜宵",
-      "onboard_time": 1731911478,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 158267,
+      "num": 158267,
+      "word": "多方回应黑龙江老虎咬伤村民",
+      "onboard_time": 1731908719,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 157675,
@@ -1059,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144432,
-      "num": 144432,
-      "word": "多方回应黑龙江老虎咬伤村民",
-      "onboard_time": 1731908719,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 143422,
       "num": 143422,
       "word": "陈小春说李宇春看起来很冷",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1731899777,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 138925,
-      "num": 138925,
-      "word": "黑龙江被老虎咬伤村民家属发声",
-      "onboard_time": 1731911541,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138175,
@@ -1155,14 +1171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130690,
-      "num": 251731,
-      "word": "张志杰猝死事件后世界羽联更改规则",
-      "onboard_time": 1731910759,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130210,
       "num": 130210,
       "word": "商场刚开业女孩因护栏脱落坠亡",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1731810498,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129652,
+      "num": 129652,
+      "word": "巴西卡皮巴拉大军画风有点不同",
+      "onboard_time": 1731912379,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126237,
@@ -1235,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119856,
+      "num": 230703,
+      "word": "浮舟造型",
+      "onboard_time": 1731910998,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117663,
       "num": 117663,
       "word": "骑士15连胜",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1731890059,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 114324,
+      "num": 280824,
+      "word": "倪妮给自己拍了组封面",
+      "onboard_time": 1731911180,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113982,
@@ -1363,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101272,
-      "num": 208580,
-      "word": "浮舟造型",
-      "onboard_time": 1731910998,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101112,
       "num": 111803,
       "word": "怨女原来在慕瑶体内",
@@ -1384,6 +1408,14 @@
       "word": "民警霸气安慰是骗子可恨你没错",
       "onboard_time": 1731885736,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97417,
+      "num": 361602,
+      "word": "卫生巾长度虚标ABC客服称可以不买",
+      "onboard_time": 1731908299,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1401,14 +1433,6 @@
       "onboard_time": 1731853581,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90896,
-      "num": 361602,
-      "word": "卫生巾长度虚标ABC客服称可以不买",
-      "onboard_time": 1731908299,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90227,
@@ -1563,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71194,
+      "num": 230613,
+      "word": "上海外籍游客投诉自主寄存柜难用",
+      "onboard_time": 1731912379,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70719,
       "num": 70719,
       "word": "mlxg和无状态复盘红温",
@@ -1611,20 +1643,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 59340,
+      "num": 281627,
+      "word": "徐梦洁杀青记录",
+      "onboard_time": 1731910400,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56312,
       "num": 56312,
       "word": "特朗普提名石油大亨出任能源部长",
       "onboard_time": 1731873371,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 55148,
-      "num": 251655,
-      "word": "倪妮给自己拍了组封面",
-      "onboard_time": 1731911180,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 54544,
@@ -1803,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31563,
+      "num": 287903,
+      "word": "吉林一滑冰馆屋顶塌落官方成立调查组",
+      "onboard_time": 1731911898,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 30289,
       "num": 93914,
       "word": "梦想号中国造",
@@ -1972,7 +2012,7 @@
     },
     {
       "raw_hot": 12014,
-      "num": 208911,
+      "num": 230432,
       "word": "进博会上欧莱雅董事长E人社交局",
       "onboard_time": 1731909799,
       "rank": 29,
