@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731904092621,
+  "endTime": 1731905001781,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 904974,
+      "num": 351103,
+      "word": "范丞丞承认被网评打击",
+      "onboard_time": 1731903140,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 838337,
       "num": 838337,
       "word": "上海取消普通住房标准",
@@ -115,20 +123,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 744224,
+      "num": 348779,
+      "word": "王九龙结婚",
+      "onboard_time": 1731902420,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711550,
       "num": 711550,
       "word": "世上再无子期",
       "onboard_time": 1731850760,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 703466,
-      "num": 310125,
-      "word": "王九龙结婚",
-      "onboard_time": 1731902420,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 669127,
@@ -211,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 453616,
-      "num": 309804,
-      "word": "范丞丞承认被网评打击",
-      "onboard_time": 1731903140,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 452321,
       "num": 547417,
       "word": "给爱说话学生戴小蜜蜂的老师离职",
@@ -249,6 +249,14 @@
       "onboard_time": 1731849020,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 411163,
+      "num": 310232,
+      "word": "麦琳五杀",
+      "onboard_time": 1731904282,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 405913,
@@ -299,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371121,
+      "num": 324419,
+      "word": "95后女子涉嫌开设赌场被通缉",
+      "onboard_time": 1731901038,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366872,
+      "num": 366872,
+      "word": "赵晓卉说只有五月天关心她快不快乐",
+      "onboard_time": 1731900798,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362834,
       "num": 362834,
       "word": "妙声吻戏 借位",
@@ -324,19 +348,11 @@
     },
     {
       "raw_hot": 310304,
-      "num": 310304,
+      "num": 347060,
       "word": "雷军让李斌别唱了",
       "onboard_time": 1731900257,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308628,
-      "num": 308628,
-      "word": "95后女子涉嫌开设赌场被通缉",
-      "onboard_time": 1731901038,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308342,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 290343,
-      "num": 290343,
+      "num": 320051,
       "word": "刚果金一山体崩塌疑发现大量铜矿",
       "onboard_time": 1731902180,
       "rank": 31,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 267447,
-      "num": 309686,
+      "num": 355486,
       "word": "吉林一滑冰馆屋顶坍塌目击者发声",
       "onboard_time": 1731903080,
       "rank": 16,
@@ -427,14 +443,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 259575,
-      "num": 354775,
-      "word": "赵晓卉说只有五月天关心她快不快乐",
-      "onboard_time": 1731900798,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255022,
       "num": 178456,
       "word": "ABC卫生巾",
@@ -449,6 +457,14 @@
       "onboard_time": 1731849260,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250665,
+      "num": 343002,
+      "word": "周冬雨巨型水晶项链",
+      "onboard_time": 1731903800,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246053,
@@ -555,6 +571,22 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 202397,
+      "num": 315788,
+      "word": "心理脱敏治疗后女子从18楼跳楼自杀",
+      "onboard_time": 1731903080,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199279,
+      "num": 199279,
+      "word": "海南州原副州长酒后失德失范",
+      "onboard_time": 1731903560,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197196,
       "num": 197196,
       "word": "五个一工程奖",
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 181809,
-      "num": 309557,
+      "num": 340385,
       "word": "赵丽颖生活生动时刻",
       "onboard_time": 1731903560,
       "rank": 17,
@@ -635,11 +667,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173340,
-      "num": 173340,
-      "word": "海南州原副州长酒后失德失范",
-      "onboard_time": 1731903560,
-      "rank": 40,
+      "raw_hot": 171979,
+      "num": 171979,
+      "word": "王楚钦林高远福冈赛前对练",
+      "onboard_time": 1731901881,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169003,
+      "num": 169003,
+      "word": "官方回应女子将黔灵山猴子捡回家",
+      "onboard_time": 1731903981,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -649,14 +689,6 @@
       "onboard_time": 1731885437,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167454,
-      "num": 167454,
-      "word": "王楚钦林高远福冈赛前对练",
-      "onboard_time": 1731901881,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 166550,
@@ -672,6 +704,22 @@
       "word": "王一栩 爱奇艺卧底",
       "onboard_time": 1731848299,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165224,
+      "num": 165224,
+      "word": "马斯克上位史",
+      "onboard_time": 1731904701,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 162887,
+      "num": 162887,
+      "word": "永夜星河NPC越狱",
+      "onboard_time": 1731904821,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -691,19 +739,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157675,
+      "num": 157675,
+      "word": "女子吃完红心甘蔗后多器官衰竭",
+      "onboard_time": 1731898878,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157634,
       "num": 157634,
       "word": "3名医护在悬崖边接力跪地救人",
       "onboard_time": 1731891918,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156089,
-      "num": 156089,
-      "word": "女子吃完红心甘蔗后多器官衰竭",
-      "onboard_time": 1731898878,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -715,12 +763,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 154558,
+      "num": 339041,
+      "word": "闪耀暖暖白蛇传",
+      "onboard_time": 1731904582,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153726,
       "num": 153726,
       "word": "菜市场的肉丸子一夜没放冰箱变红了",
       "onboard_time": 1731885736,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153191,
+      "num": 153191,
+      "word": "企业担心痛经假被滥用",
+      "onboard_time": 1731904821,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152745,
@@ -731,20 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148850,
-      "num": 148850,
-      "word": "官方回应女子将黔灵山猴子捡回家",
-      "onboard_time": 1731903981,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147399,
-      "num": 147399,
-      "word": "周冬雨巨型水晶项链",
-      "onboard_time": 1731903800,
-      "rank": 45,
-      "category": "作品衍生,时尚"
+      "raw_hot": 149655,
+      "num": 173634,
+      "word": "这个丁子期有点入戏太深",
+      "onboard_time": 1731901819,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 143422,
@@ -795,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134798,
-      "num": 309959,
-      "word": "心理脱敏治疗后女子从18楼跳楼自杀",
-      "onboard_time": 1731903080,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134332,
       "num": 134332,
       "word": "俄传奇飞行员与中国观众依依惜别",
@@ -833,14 +881,6 @@
       "onboard_time": 1731894797,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131108,
-      "num": 173634,
-      "word": "这个丁子期有点入戏太深",
-      "onboard_time": 1731901819,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 130210,
@@ -1131,6 +1171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80385,
+      "num": 337160,
+      "word": "荣耀官微3天连发14000条唱歌视频",
+      "onboard_time": 1731901579,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79312,
       "num": 79312,
       "word": "捐出日军侵华相册的小伙来中国了",
@@ -1203,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69411,
+      "num": 313146,
+      "word": "好东西 含霉量好高",
+      "onboard_time": 1731904881,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68695,
       "num": 68695,
       "word": "Uzi传奇杯卡莎一打三",
@@ -1235,19 +1291,19 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 57821,
-      "num": 309466,
-      "word": "荣耀官微3天连发14000条唱歌视频",
-      "onboard_time": 1731901579,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 56312,
       "num": 56312,
       "word": "特朗普提名石油大亨出任能源部长",
       "onboard_time": 1731873371,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 54544,
+      "num": 991654,
+      "word": "秘鲁国菜有自己的专属纪念日",
+      "onboard_time": 1731900378,
+      "rank": 2,
       "category": "国际时政"
     },
     {
@@ -1289,14 +1345,6 @@
       "onboard_time": 1731899178,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 51656,
-      "num": 991654,
-      "word": "秘鲁国菜有自己的专属纪念日",
-      "onboard_time": 1731900378,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51187,
@@ -1388,7 +1436,7 @@
     },
     {
       "raw_hot": 32459,
-      "num": 309359,
+      "num": 335742,
       "word": "这首歌献给勇敢出发的人",
       "onboard_time": 1731901340,
       "rank": 36,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1731871092,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 18367,
+      "num": 321382,
+      "word": "广州车展智界R7敲敲有惊喜",
+      "onboard_time": 1731904221,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 17665,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1731870911,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10706,
+      "num": 344835,
+      "word": "贾樟柯回应电影上映前盗版流出",
+      "onboard_time": 1731904641,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 10591,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 12:28:12
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/18 12:43:21
 </p>
 </blockquote>
 <p>
@@ -3489,6 +3489,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%89%BF%E8%AE%A4%E8%A2%AB%E7%BD%91%E8%AF%84%E6%89%93%E5%87%BB%23" target="weibo">
+范丞丞承认被网评打击（热度：904974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%A4%E4%BA%BA%E5%9D%A0%E6%B2%B31%E4%BA%BA%E8%A2%AB%E6%95%911%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 苏州两人坠河1人被救1人死亡（热度：902782）
 </a>
@@ -4641,6 +4647,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%9D%E9%BE%99%E7%BB%93%E5%A9%9A%23" target="weibo">
+王九龙结婚（热度：744224）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%23" target="weibo">
 特斯拉（热度：744158）
 </a>
@@ -5021,12 +5033,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%BF%98%E6%B2%A1%E5%AD%A6%E4%BC%9A%E5%89%AA%E5%A5%B3%E5%8F%91%23" target="weibo">
 晓华说自己还没学会剪女发（热度：704027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%9D%E9%BE%99%E7%BB%93%E5%A9%9A%23" target="weibo">
-王九龙结婚（热度：703466）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG教练（热度：627145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E5%A4%A7%E7%88%86%23" target="weibo">
 于正回应虞书欣永夜星河大爆（热度：622479）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%81%B7%E5%A5%B6%E8%8C%B6%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%AF%8D%E4%BA%B2%E6%AE%B4%E6%89%93%E5%A5%B3%E5%BA%97%E5%91%98%23" target="weibo">
-孩子偷奶茶被发现母亲殴打女店员（热度：621859）
 </a>
 </li>
 

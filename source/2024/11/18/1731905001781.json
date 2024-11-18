@@ -1,0 +1,410 @@
+{
+  "runTime": 1731905001781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2202750,
+        "num": 2202750,
+        "word": "给学生戴小蜜蜂的女老师道歉",
+        "onboard_time": 1731896357,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827732,
+        "num": 827732,
+        "word": "上海取消普通住房标准",
+        "onboard_time": 1731900019,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54544,
+        "num": 670337,
+        "word": "秘鲁国菜有自己的专属纪念日",
+        "onboard_time": 1731900378,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 623656,
+        "num": 623656,
+        "word": "吉林一滑冰馆被曝坍塌",
+        "onboard_time": 1731897678,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 600514,
+        "num": 600514,
+        "word": "华为Mate70开启预定",
+        "onboard_time": 1731897197,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 522966,
+        "num": 522966,
+        "word": "郝蕾演技班",
+        "onboard_time": 1731899840,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403978,
+        "num": 403978,
+        "word": "给爱说话学生戴小蜜蜂的老师离职",
+        "onboard_time": 1731898698,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366872,
+        "num": 366872,
+        "word": "赵晓卉说只有五月天关心她快不快乐",
+        "onboard_time": 1731900798,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357222,
+        "num": 357222,
+        "word": "普通人第一次见到战火崩溃大哭",
+        "onboard_time": 1731896599,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192394,
+        "num": 355486,
+        "word": "吉林一滑冰馆屋顶坍塌目击者发声",
+        "onboard_time": 1731903080,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 927035,
+        "num": 353399,
+        "word": "黄晓明觉得自己40岁前很傻",
+        "onboard_time": 1731901038,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 904974,
+        "num": 351103,
+        "word": "范丞丞承认被网评打击",
+        "onboard_time": 1731903140,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 744224,
+        "num": 348779,
+        "word": "王九龙结婚",
+        "onboard_time": 1731902420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293890,
+        "num": 347060,
+        "word": "雷军让李斌别唱了",
+        "onboard_time": 1731900257,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10706,
+        "num": 344835,
+        "word": "贾樟柯回应电影上映前盗版流出",
+        "onboard_time": 1731904641,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250665,
+        "num": 343002,
+        "word": "周冬雨巨型水晶项链",
+        "onboard_time": 1731903800,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166497,
+        "num": 340385,
+        "word": "赵丽颖生活生动时刻",
+        "onboard_time": 1731903560,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154558,
+        "num": 339041,
+        "word": "闪耀暖暖白蛇传",
+        "onboard_time": 1731904582,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80385,
+        "num": 337160,
+        "word": "荣耀官微3天连发14000条唱歌视频",
+        "onboard_time": 1731901579,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31736,
+        "num": 335742,
+        "word": "这首歌献给勇敢出发的人",
+        "onboard_time": 1731901340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581313,
+        "num": 331927,
+        "word": "杨超越无发缝双丸子头",
+        "onboard_time": 1731898818,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548405,
+        "num": 331519,
+        "word": "家长曝儿子被8学生持钉棍打入院",
+        "onboard_time": 1731897317,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563646,
+        "num": 327996,
+        "word": "用苹果的人嘴真严啊",
+        "onboard_time": 1731893477,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414561,
+        "num": 326684,
+        "word": "刘爽向麦琳道歉",
+        "onboard_time": 1731888739,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371121,
+        "num": 324419,
+        "word": "95后女子涉嫌开设赌场被通缉",
+        "onboard_time": 1731901038,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18367,
+        "num": 321382,
+        "word": "广州车展智界R7敲敲有惊喜",
+        "onboard_time": 1731904221,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243531,
+        "num": 320051,
+        "word": "刚果金一山体崩塌疑发现大量铜矿",
+        "onboard_time": 1731902180,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224459,
+        "num": 317988,
+        "word": "妙声吻戏 借位",
+        "onboard_time": 1731898998,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202397,
+        "num": 315788,
+        "word": "心理脱敏治疗后女子从18楼跳楼自杀",
+        "onboard_time": 1731903080,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69411,
+        "num": 313146,
+        "word": "好东西 含霉量好高",
+        "onboard_time": 1731904881,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411163,
+        "num": 310232,
+        "word": "麦琳五杀",
+        "onboard_time": 1731904282,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220901,
+        "num": 309493,
+        "word": "关晓彤演技",
+        "onboard_time": 1731899898,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224688,
+        "num": 307935,
+        "word": "父亲回应4岁女童独自坐地铁回家",
+        "onboard_time": 1731895877,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305947,
+        "num": 305947,
+        "word": "霸王茶姬 口令",
+        "onboard_time": 1731898097,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277568,
+        "num": 277568,
+        "word": "金宇硕和女友拍人生四格",
+        "onboard_time": 1731900918,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199279,
+        "num": 199279,
+        "word": "海南州原副州长酒后失德失范",
+        "onboard_time": 1731903560,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196777,
+        "num": 196777,
+        "word": "30岁不婚不育不买房买车的生活",
+        "onboard_time": 1731885975,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177394,
+        "num": 177394,
+        "word": "律师解读济宁一女孩从商场四楼坠亡",
+        "onboard_time": 1731900257,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176580,
+        "num": 176580,
+        "word": "闪耀暖暖",
+        "onboard_time": 1731903321,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171979,
+        "num": 171979,
+        "word": "王楚钦林高远福冈赛前对练",
+        "onboard_time": 1731901881,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171279,
+        "num": 171279,
+        "word": "世上还有慕子期",
+        "onboard_time": 1731900859,
+        "rank": 40,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 169003,
+        "num": 169003,
+        "word": "官方回应女子将黔灵山猴子捡回家",
+        "onboard_time": 1731903981,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165224,
+        "num": 165224,
+        "word": "马斯克上位史",
+        "onboard_time": 1731904701,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162887,
+        "num": 162887,
+        "word": "永夜星河NPC越狱",
+        "onboard_time": 1731904821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157675,
+        "num": 157675,
+        "word": "女子吃完红心甘蔗后多器官衰竭",
+        "onboard_time": 1731898878,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154526,
+        "num": 154526,
+        "word": "女子参加自行车比赛被风筝线割喉",
+        "onboard_time": 1731899119,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153191,
+        "num": 153191,
+        "word": "企业担心痛经假被滥用",
+        "onboard_time": 1731904821,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149655,
+        "num": 149655,
+        "word": "这个丁子期有点入戏太深",
+        "onboard_time": 1731901819,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136914,
+        "num": 136914,
+        "word": "华为Mate70来了",
+        "onboard_time": 1731893477,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136341,
+        "num": 136341,
+        "word": "华为Mate70系列有超大杯机型",
+        "onboard_time": 1731899777,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#引领中巴关系进入新的黄金50年#"
+    }
+  }
+}
