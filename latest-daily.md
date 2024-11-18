@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/19 00:29:53 ~ 2024/11/19 03:19:05
+本榜单时间：2024/11/19 00:29:53 ~ 2024/11/19 03:35:49
 </p>
 </blockquote>
 <p>
@@ -375,8 +375,20 @@ TGA官方入驻微博（热度：73983）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
+宠协工作人员称死亡犬数仍上升（热度：28238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E9%99%AA%E5%A5%B3%E5%84%BF%E5%A0%86%E6%B2%99%E5%AD%90%23" target="weibo">
 昆凌陪女儿堆沙子（热度：24228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%89%E6%B4%81%20%E5%86%85%E5%A8%B1%E6%B2%B3%E9%81%93%E8%8B%B1%23" target="weibo">
+李光洁 内娱河道英（热度：23099）
 </a>
 </li>
 
@@ -399,20 +411,8 @@ TGA官方入驻微博（热度：73983）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
-宠协工作人员称死亡犬数仍上升（热度：20184）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
 自主研发的中国芯片有多强（热度：19415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%89%E6%B4%81%20%E5%86%85%E5%A8%B1%E6%B2%B3%E9%81%93%E8%8B%B1%23" target="weibo">
-李光洁 内娱河道英（热度：19045）
 </a>
 </li>
 
@@ -424,7 +424,19 @@ TGA官方入驻微博（热度：73983）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23G20%E9%87%8C%E7%BA%A6%E5%B3%B0%E4%BC%9A%23" target="weibo">
-G20里约峰会（热度：16407）
+G20里约峰会（热度：17371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+幼儿园殴打学生老师已被辞退（热度：15915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%91%84%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%82%E5%B1%95%E7%85%A7%E7%89%87%E7%96%91%E4%BD%9C%E5%81%87%23" target="weibo">
+当地回应摄协主席参展照片疑作假（热度：14719）
 </a>
 </li>
 

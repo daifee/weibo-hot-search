@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731957545526,
+  "endTime": 1731958549152,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -6475,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28238,
+      "num": 56754,
+      "word": "宠协工作人员称死亡犬数仍上升",
+      "onboard_time": 1731956771,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 28225,
       "num": 223448,
       "word": "开局五子棋 结局无子期",
@@ -6811,14 +6819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20184,
-      "num": 56754,
-      "word": "宠协工作人员称死亡犬数仍上升",
-      "onboard_time": 1731956771,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 19976,
       "num": 572424,
       "word": "世界互联网再次进入乌镇时间",
@@ -6923,6 +6923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17371,
+      "num": 23450,
+      "word": "G20里约峰会",
+      "onboard_time": 1731957191,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17368,
       "num": 23643,
       "word": "中国航展最后一天",
@@ -6971,20 +6979,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16407,
-      "num": 17422,
-      "word": "G20里约峰会",
-      "onboard_time": 1731957191,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15981,
       "num": 1051722,
       "word": "数读中国巴西务实合作成果",
       "onboard_time": 1731915799,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15915,
+      "num": 15915,
+      "word": "幼儿园殴打学生老师已被辞退",
+      "onboard_time": 1731957851,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 15316,
@@ -7033,6 +7041,14 @@
       "onboard_time": 1731791051,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 14719,
+      "num": 15751,
+      "word": "当地回应摄协主席参展照片疑作假",
+      "onboard_time": 1731958211,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 14672,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731957545526,
+  "endTime": 1731958549152,
   "band_list": [
     {
       "raw_hot": 1211083,
@@ -483,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28238,
+      "num": 56754,
+      "word": "宠协工作人员称死亡犬数仍上升",
+      "onboard_time": 1731956771,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 24228,
       "num": 157516,
       "word": "昆凌陪女儿堆沙子",
       "onboard_time": 1731947656,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23099,
+      "num": 47455,
+      "word": "李光洁 内娱河道英",
+      "onboard_time": 1731953891,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21351,
@@ -515,28 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20184,
-      "num": 56754,
-      "word": "宠协工作人员称死亡犬数仍上升",
-      "onboard_time": 1731956771,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 19415,
       "num": 19415,
       "word": "自主研发的中国芯片有多强",
       "onboard_time": 1731956351,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19045,
-      "num": 47455,
-      "word": "李光洁 内娱河道英",
-      "onboard_time": 1731953891,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18262,
@@ -547,12 +547,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16407,
-      "num": 17422,
+      "raw_hot": 17371,
+      "num": 23450,
       "word": "G20里约峰会",
       "onboard_time": 1731957191,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15915,
+      "num": 15915,
+      "word": "幼儿园殴打学生老师已被辞退",
+      "onboard_time": 1731957851,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 14719,
+      "num": 15751,
+      "word": "当地回应摄协主席参展照片疑作假",
+      "onboard_time": 1731958211,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 10206,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/17 00:27:53 ~ 2024/11/19 03:19:05
+本榜单时间：2024/11/17 00:27:53 ~ 2024/11/19 03:35:49
 </p>
 </blockquote>
 <p>
@@ -4869,6 +4869,12 @@ KPL的人脉也太开门了（热度：34789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
+宠协工作人员称死亡犬数仍上升（热度：28238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%BA%94%E5%AD%90%E6%A3%8B%20%E7%BB%93%E5%B1%80%E6%97%A0%E5%AD%90%E6%9C%9F%23" target="weibo">
 开局五子棋 结局无子期（热度：28225）
 </a>
@@ -5121,12 +5127,6 @@ AG微博小编上线（热度：27195）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23" target="weibo">
-宠协工作人员称死亡犬数仍上升（热度：20184）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%86%8D%E6%AC%A1%E8%BF%9B%E5%85%A5%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%23" target="weibo">
 世界互联网再次进入乌镇时间（热度：19976）
 </a>
@@ -5205,6 +5205,12 @@ AG微博小编上线（热度：27195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23G20%E9%87%8C%E7%BA%A6%E5%B3%B0%E4%BC%9A%23" target="weibo">
+G20里约峰会（热度：17371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%B1%95%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23" target="weibo">
 中国航展最后一天（热度：17368）
 </a>
@@ -5241,14 +5247,14 @@ APEC官方用车是中国新能源车（热度：17064）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23G20%E9%87%8C%E7%BA%A6%E5%B3%B0%E4%BC%9A%23" target="weibo">
-G20里约峰会（热度：16407）
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%E5%B7%B4%E8%A5%BF%E5%8A%A1%E5%AE%9E%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%23" target="weibo">
+数读中国巴西务实合作成果（热度：15981）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%AD%E5%9B%BD%E5%B7%B4%E8%A5%BF%E5%8A%A1%E5%AE%9E%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%23" target="weibo">
-数读中国巴西务实合作成果（热度：15981）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%80%81%E5%B8%88%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+幼儿园殴打学生老师已被辞退（热度：15915）
 </a>
 </li>
 
@@ -5285,6 +5291,12 @@ SHUN理成张（热度：14896）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%9E%AB%E7%81%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%80%E5%90%8D%E6%88%98%E6%96%97%E5%91%98%23" target="weibo">
 徐枫灿说自己是一名战斗员（热度：14735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%91%84%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%82%E5%B1%95%E7%85%A7%E7%89%87%E7%96%91%E4%BD%9C%E5%81%87%23" target="weibo">
+当地回应摄协主席参展照片疑作假（热度：14719）
 </a>
 </li>
 
