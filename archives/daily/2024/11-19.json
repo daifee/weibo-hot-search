@@ -1,14 +1,22 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731969658591,
+  "endTime": 1731972172630,
   "band_list": [
     {
       "raw_hot": 1211083,
-      "num": 213525,
+      "num": 273614,
       "word": "全球首例成功换脸换手男子将结婚",
       "onboard_time": 1731940282,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 764450,
+      "num": 830714,
+      "word": "摄影展1997年作品出现喜羊羊元素",
+      "onboard_time": 1731944899,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 691315,
@@ -27,20 +35,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 572420,
-      "num": 209118,
-      "word": "鹿晗对不起 关晓彤王安宇挺配的",
-      "onboard_time": 1731923419,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 529406,
-      "num": 529406,
+      "raw_hot": 605589,
+      "num": 605589,
       "word": "圆明园通报四只黑天鹅死亡",
       "onboard_time": 1731943820,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 572420,
+      "num": 259704,
+      "word": "鹿晗对不起 关晓彤王安宇挺配的",
+      "onboard_time": 1731923419,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398941,
@@ -51,11 +59,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 392090,
-      "num": 392090,
-      "word": "摄影展1997年作品出现喜羊羊元素",
-      "onboard_time": 1731944899,
-      "rank": 6,
+      "raw_hot": 346216,
+      "num": 346216,
+      "word": "女子正上着班公司突然解散",
+      "onboard_time": 1731938720,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342907,
+      "num": 342907,
+      "word": "官方通报游客夜爬大牯牛山纵火烧山",
+      "onboard_time": 1731944478,
+      "rank": 42,
       "category": "舆论监督"
     },
     {
@@ -68,11 +84,19 @@
     },
     {
       "raw_hot": 314458,
-      "num": 207716,
+      "num": 229496,
       "word": "26岁二胎宝妈产下3斤宝宝后去世",
       "onboard_time": 1731919458,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298579,
+      "num": 249077,
+      "word": "李子柒称不希望青少年梦想当网红",
+      "onboard_time": 1731967992,
+      "rank": 33,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 294783,
@@ -83,27 +107,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 263471,
-      "num": 192960,
-      "word": "女子掉进温泉池2秒皮被烫掉",
-      "onboard_time": 1731929719,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260733,
-      "num": 260733,
+      "raw_hot": 293362,
+      "num": 293362,
       "word": "北京取消普通住房和非普通住房标准",
       "onboard_time": 1731947417,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243444,
-      "num": 243444,
-      "word": "女子正上着班公司突然解散",
-      "onboard_time": 1731938720,
-      "rank": 7,
+      "raw_hot": 263471,
+      "num": 192960,
+      "word": "女子掉进温泉池2秒皮被烫掉",
+      "onboard_time": 1731929719,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -121,6 +137,14 @@
       "onboard_time": 1731942740,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 221543,
+      "num": 221543,
+      "word": "NASA准备随时撤离国际空间站",
+      "onboard_time": 1731965110,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 217460,
@@ -156,27 +180,11 @@
     },
     {
       "raw_hot": 195642,
-      "num": 199104,
+      "num": 290317,
       "word": "麦琳和李行亮的老兄弟都吵过",
       "onboard_time": 1731941841,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193289,
-      "num": 193289,
-      "word": "官方通报游客夜爬大牯牛山纵火烧山",
-      "onboard_time": 1731944478,
-      "rank": 42,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 190144,
-      "num": 190144,
-      "word": "NASA准备随时撤离国际空间站",
-      "onboard_time": 1731965110,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173946,
@@ -200,6 +208,14 @@
       "word": "济宁女孩坠亡商场已装防护网",
       "onboard_time": 1731931460,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154936,
+      "num": 154936,
+      "word": "上海浦西第一高楼高度超东方明珠",
+      "onboard_time": 1731948436,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 124993,
-      "num": 124993,
+      "num": 144598,
       "word": "再见爱人 高开癫走",
       "onboard_time": 1731931100,
       "rank": 28,
@@ -291,12 +307,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 108761,
-      "num": 111192,
-      "word": "上海浦西第一高楼高度超东方明珠",
-      "onboard_time": 1731948436,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 103175,
+      "num": 282800,
+      "word": "正式确诊衣领综合征",
+      "onboard_time": 1731970755,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101145,
@@ -323,12 +339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96424,
+      "num": 96424,
+      "word": "黑龙江一地发现大型野生老虎",
+      "onboard_time": 1731946936,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95576,
       "num": 95576,
       "word": "小米现金储备1516亿",
       "onboard_time": 1731933800,
       "rank": 35,
       "category": "财经,数码"
+    },
+    {
+      "raw_hot": 91571,
+      "num": 91571,
+      "word": "宠协工作人员称死亡犬数仍上升",
+      "onboard_time": 1731956771,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 90437,
@@ -363,6 +395,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83345,
+      "num": 83345,
+      "word": "自主研发的中国芯片有多强",
+      "onboard_time": 1731956351,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 82672,
+      "num": 82672,
+      "word": "网传某国企员工上班不笑将被处罚",
+      "onboard_time": 1731964692,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81354,
+      "num": 81354,
+      "word": "中国和巴西是志同道合的好朋友",
+      "onboard_time": 1731949456,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80763,
       "num": 80763,
       "word": "愿你拥有这5种高能量心态",
@@ -377,14 +433,6 @@
       "onboard_time": 1731927918,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77675,
-      "num": 77675,
-      "word": "黑龙江一地发现大型野生老虎",
-      "onboard_time": 1731946936,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75030,
@@ -412,7 +460,7 @@
     },
     {
       "raw_hot": 73518,
-      "num": 73518,
+      "num": 109731,
       "word": "小巷人家 孝庄",
       "onboard_time": 1731933140,
       "rank": 45,
@@ -425,14 +473,6 @@
       "onboard_time": 1731934641,
       "rank": 46,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 72761,
-      "num": 72761,
-      "word": "宠协工作人员称死亡犬数仍上升",
-      "onboard_time": 1731956771,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 72482,
@@ -451,20 +491,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63454,
-      "num": 63454,
-      "word": "李子柒称不希望青少年梦想当网红",
-      "onboard_time": 1731967992,
-      "rank": 33,
+      "raw_hot": 66452,
+      "num": 78555,
+      "word": "李子柒谈对青少年的引导",
+      "onboard_time": 1731968532,
+      "rank": 15,
       "category": "美食,网红"
     },
     {
-      "raw_hot": 62083,
-      "num": 62083,
-      "word": "网传某国企员工上班不笑将被处罚",
-      "onboard_time": 1731964692,
-      "rank": 47,
+      "raw_hot": 66088,
+      "num": 66088,
+      "word": "官方通报良品铺子被举报事件",
+      "onboard_time": 1731972136,
+      "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61967,
+      "num": 61967,
+      "word": "官方称野生老虎来源尚不明确",
+      "onboard_time": 1731936981,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 60715,
+      "num": 60715,
+      "word": "虞书欣绿色格子套装",
+      "onboard_time": 1731962241,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 52334,
@@ -475,20 +531,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45155,
-      "num": 45155,
+      "raw_hot": 51406,
+      "num": 51406,
       "word": "当地群众在大牯牛山偶遇游客纵火烧山",
       "onboard_time": 1731963912,
       "rank": 42,
       "category": "旅游"
     },
     {
-      "raw_hot": 42823,
-      "num": 42823,
-      "word": "中国和巴西是志同道合的好朋友",
-      "onboard_time": 1731949456,
+      "raw_hot": 48988,
+      "num": 73230,
+      "word": "官方回应非必要情况不会击毙老虎",
+      "onboard_time": 1731953832,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 45815,
+      "num": 48970,
+      "word": "幼儿园殴打学生老师已被辞退",
+      "onboard_time": 1731957851,
       "rank": 44,
-      "category": "国内时政"
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 41239,
+      "num": 48930,
+      "word": "良品铺子",
+      "onboard_time": 1731972136,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40585,
@@ -499,20 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38180,
-      "num": 73230,
-      "word": "官方回应非必要情况不会击毙老虎",
-      "onboard_time": 1731953832,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 37293,
-      "num": 37293,
-      "word": "官方称野生老虎来源尚不明确",
-      "onboard_time": 1731936981,
-      "rank": 47,
-      "category": "突发/灾害"
+      "raw_hot": 37888,
+      "num": 48900,
+      "word": "G20里约峰会",
+      "onboard_time": 1731957191,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36201,
@@ -528,38 +592,6 @@
       "word": "中方在军品出口方面一向慎重负责",
       "onboard_time": 1731961751,
       "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 29773,
-      "num": 29773,
-      "word": "虞书欣绿色格子套装",
-      "onboard_time": 1731962241,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 28997,
-      "num": 28997,
-      "word": "G20里约峰会",
-      "onboard_time": 1731957191,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27142,
-      "num": 27142,
-      "word": "幼儿园殴打学生老师已被辞退",
-      "onboard_time": 1731957851,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 25794,
-      "num": 53823,
-      "word": "自主研发的中国芯片有多强",
-      "onboard_time": 1731956351,
-      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -619,14 +651,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 20055,
-      "num": 78555,
-      "word": "李子柒谈对青少年的引导",
-      "onboard_time": 1731968532,
-      "rank": 15,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 18262,
       "num": 26541,
       "word": "原来东方明珠有11颗珠",
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 7596,
-      "num": 305962,
+      "num": 545231,
       "word": "一个视频带你了解G20",
       "onboard_time": 1731936922,
       "rank": 2,
