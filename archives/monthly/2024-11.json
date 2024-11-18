@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731954706866,
+  "endTime": 1731955525924,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -29579,6 +29579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173946,
+      "num": 173946,
+      "word": "TGA2024提名公布",
+      "onboard_time": 1731954851,
+      "rank": 0,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 173904,
       "num": 173904,
       "word": "永夜星河双榜登顶",
@@ -29665,6 +29673,14 @@
       "onboard_time": 1731480260,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173471,
+      "num": 173471,
+      "word": "tga",
+      "onboard_time": 1731954912,
+      "rank": 1,
+      "category": "游戏,电竞"
     },
     {
       "raw_hot": 173467,
@@ -57179,6 +57195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21486,
+      "num": 73230,
+      "word": "官方回应非必要情况不会击毙老虎",
+      "onboard_time": 1731953832,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 21467,
       "num": 230492,
       "word": "剑网三限量外观加NFT码",
@@ -57225,6 +57249,14 @@
       "onboard_time": 1730776640,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21351,
+      "num": 21351,
+      "word": "祝绪丹说唱vlog",
+      "onboard_time": 1731954851,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 21327,
@@ -57801,14 +57833,6 @@
       "onboard_time": 1731904221,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 19645,
-      "num": 56739,
-      "word": "官方回应非必要情况不会击毙老虎",
-      "onboard_time": 1731953832,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 19635,
@@ -60825,6 +60849,14 @@
       "onboard_time": 1731789140,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5375,
+      "num": 59423,
+      "word": "太好了是丞磊的起床铃声",
+      "onboard_time": 1731947477,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 5203,

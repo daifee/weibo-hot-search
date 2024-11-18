@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731954706866,
+  "endTime": 1731955525924,
   "band_list": [
     {
       "raw_hot": 3737280,
@@ -3169,6 +3169,22 @@
       "onboard_time": 1731842118,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173946,
+      "num": 173946,
+      "word": "TGA2024提名公布",
+      "onboard_time": 1731954851,
+      "rank": 0,
+      "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 173471,
+      "num": 173471,
+      "word": "tga",
+      "onboard_time": 1731954912,
+      "rank": 1,
+      "category": "游戏,电竞"
     },
     {
       "raw_hot": 172947,
@@ -6707,6 +6723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21486,
+      "num": 73230,
+      "word": "官方回应非必要情况不会击毙老虎",
+      "onboard_time": 1731953832,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 21351,
+      "num": 21351,
+      "word": "祝绪丹说唱vlog",
+      "onboard_time": 1731954851,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21306,
       "num": 110352,
       "word": "全国月亮大赏",
@@ -6801,14 +6833,6 @@
       "onboard_time": 1731904221,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 19645,
-      "num": 56739,
-      "word": "官方回应非必要情况不会击毙老虎",
-      "onboard_time": 1731953832,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 19572,
@@ -7337,6 +7361,14 @@
       "onboard_time": 1731789140,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5375,
+      "num": 59423,
+      "word": "太好了是丞磊的起床铃声",
+      "onboard_time": 1731947477,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

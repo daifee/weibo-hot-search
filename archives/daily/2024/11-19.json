@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731954706866,
+  "endTime": 1731955525924,
   "band_list": [
     {
       "raw_hot": 1211083,
@@ -161,6 +161,22 @@
       "onboard_time": 1731941841,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173946,
+      "num": 173946,
+      "word": "TGA2024提名公布",
+      "onboard_time": 1731954851,
+      "rank": 0,
+      "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 173471,
+      "num": 173471,
+      "word": "tga",
+      "onboard_time": 1731954912,
+      "rank": 1,
+      "category": "游戏,电竞"
     },
     {
       "raw_hot": 168901,
@@ -443,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37293,
+      "num": 37293,
+      "word": "官方称野生老虎来源尚不明确",
+      "onboard_time": 1731936981,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 36201,
       "num": 39374,
       "word": "2024年中国羽毛球大师赛",
@@ -451,20 +475,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34250,
-      "num": 34250,
-      "word": "官方称野生老虎来源尚不明确",
-      "onboard_time": 1731936981,
-      "rank": 47,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 24228,
       "num": 157516,
       "word": "昆凌陪女儿堆沙子",
       "onboard_time": 1731947656,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21486,
+      "num": 73230,
+      "word": "官方回应非必要情况不会击毙老虎",
+      "onboard_time": 1731953832,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 21351,
+      "num": 21351,
+      "word": "祝绪丹说唱vlog",
+      "onboard_time": 1731954851,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 21045,
@@ -483,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19645,
-      "num": 56739,
-      "word": "官方回应非必要情况不会击毙老虎",
-      "onboard_time": 1731953832,
-      "rank": 14,
-      "category": "辟谣/通报"
+      "raw_hot": 19045,
+      "num": 47455,
+      "word": "李光洁 内娱河道英",
+      "onboard_time": 1731953891,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18262,
@@ -505,14 +537,6 @@
       "onboard_time": 1731945678,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8349,
-      "num": 47455,
-      "word": "李光洁 内娱河道英",
-      "onboard_time": 1731953891,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 7596,
@@ -537,6 +561,14 @@
       "onboard_time": 1731937041,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 5375,
+      "num": 59423,
+      "word": "太好了是丞磊的起床铃声",
+      "onboard_time": 1731947477,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
