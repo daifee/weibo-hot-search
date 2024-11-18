@@ -1,6 +1,6 @@
 {
   "startTime": 1731860756164,
-  "endTime": 1731919513665,
+  "endTime": 1731922000750,
   "band_list": [
     {
       "raw_hot": 2494565,
@@ -16,6 +16,14 @@
       "word": "老虎",
       "onboard_time": 1731906500,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1879015,
+      "num": 952577,
+      "word": "26岁二胎宝妈产下3斤宝宝后去世",
+      "onboard_time": 1731919458,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -35,6 +43,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1282169,
+      "num": 1282169,
+      "word": "杨子后悔参加再见爱人",
+      "onboard_time": 1731917779,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1266753,
       "num": 1185368,
       "word": "黑龙江被老虎咬伤村民家属发声",
@@ -43,12 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1234992,
-      "num": 1234992,
-      "word": "杨子后悔参加再见爱人",
-      "onboard_time": 1731917779,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 1143625,
+      "num": 1143625,
+      "word": "小伙1个月赶10场演唱会还挣了5万",
+      "onboard_time": 1731919579,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1025095,
@@ -185,6 +201,14 @@
       "onboard_time": 1731897197,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 766378,
+      "num": 414611,
+      "word": "无孩爱猫女",
+      "onboard_time": 1731918018,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 744224,
@@ -419,14 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 414611,
-      "num": 414611,
-      "word": "无孩爱猫女",
-      "onboard_time": 1731918018,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 413354,
       "num": 413354,
       "word": "美国确诊首例猴痘新变异株感染者",
@@ -449,6 +465,14 @@
       "onboard_time": 1731882193,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403554,
+      "num": 403554,
+      "word": "大四学生挂8科后失联多月被发现溺亡",
+      "onboard_time": 1731919640,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396939,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362156,
+      "num": 362156,
+      "word": "韩国吃播",
+      "onboard_time": 1731918018,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 359490,
       "num": 292512,
       "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
@@ -553,14 +585,6 @@
       "onboard_time": 1731908239,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342488,
-      "num": 342488,
-      "word": "26岁二胎宝妈产下3斤宝宝后去世",
-      "onboard_time": 1731919458,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334158,
@@ -715,20 +739,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 261883,
+      "num": 261883,
+      "word": "花3000元买了个7平米小家",
+      "onboard_time": 1731919757,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261162,
       "num": 231145,
       "word": "无意识伤腰的5个习惯",
       "onboard_time": 1731893477,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 258096,
-      "num": 258096,
-      "word": "韩国吃播",
-      "onboard_time": 1731918018,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 257196,
@@ -787,12 +811,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241326,
+      "num": 241326,
+      "word": "反写符",
+      "onboard_time": 1731921019,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238459,
       "num": 251728,
       "word": "孙颖莎首轮对阵陈幸同",
       "onboard_time": 1731910218,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236097,
+      "num": 475687,
+      "word": "新射雕能复兴徐克的武侠梦吗",
+      "onboard_time": 1731918260,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 234436,
@@ -897,6 +937,30 @@
       "onboard_time": 1731911180,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 219885,
+      "num": 344159,
+      "word": "丁禹兮这一秒第三视角",
+      "onboard_time": 1731921199,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217419,
+      "num": 217419,
+      "word": "孙颖莎展望洛杉矶奥运会",
+      "onboard_time": 1731921439,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217160,
+      "num": 217160,
+      "word": "一个林更新一个庄国栋",
+      "onboard_time": 1731921439,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 210880,
@@ -1147,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170415,
+      "num": 170415,
+      "word": "当我担发了一段意义不明的话时",
+      "onboard_time": 1731920059,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169095,
       "num": 169095,
       "word": "王楚钦首轮对战弗朗西斯卡",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1731891918,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156300,
+      "num": 188592,
+      "word": "张博恒遗憾没在教练退休前拿奥运金牌",
+      "onboard_time": 1731920840,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 155498,
@@ -1371,12 +1451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140011,
+      "num": 140011,
+      "word": "实拍歼35A真的会隐身",
+      "onboard_time": 1731921619,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 139446,
       "num": 139446,
       "word": "华为Mate70系列有超大杯机型",
       "onboard_time": 1731899777,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139152,
+      "num": 139152,
+      "word": "小米su7已交付超10万",
+      "onboard_time": 1731920419,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 138175,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1731897557,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 134069,
+      "num": 134069,
+      "word": "60秒打卡乌镇之美",
+      "onboard_time": 1731921439,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 132218,
@@ -1515,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120003,
+      "num": 340681,
+      "word": "男子告诉的哥我杀人了开快点",
+      "onboard_time": 1731920599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119856,
       "num": 230703,
       "word": "浮舟造型",
@@ -1593,6 +1705,14 @@
       "onboard_time": 1731840320,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113628,
+      "num": 113628,
+      "word": "雷佳音李庚希大片",
+      "onboard_time": 1731921980,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113565,
@@ -1697,6 +1817,14 @@
       "onboard_time": 1731853581,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91850,
+      "num": 346644,
+      "word": "涵艺爆料还有两支队伍或退出LPL",
+      "onboard_time": 1731921138,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 90227,
@@ -1923,6 +2051,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 61611,
+      "num": 360170,
+      "word": "黑龙江警方启动无人机寻找老虎",
+      "onboard_time": 1731920840,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 59340,
       "num": 281627,
       "word": "徐梦洁杀青记录",
@@ -2011,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46692,
+      "num": 353001,
+      "word": "蒋欣get到华妃重生文的点了",
+      "onboard_time": 1731920719,
+      "rank": 13,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 46574,
       "num": 46574,
       "word": "BABYMONSTER官宣世巡",
@@ -2089,6 +2233,14 @@
       "onboard_time": 1731917659,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34501,
+      "num": 217185,
+      "word": "雷军车展只拥抱了何小鹏",
+      "onboard_time": 1731919699,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 34425,
@@ -2187,6 +2339,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 29516,
+      "num": 360717,
+      "word": "女子吃山楂致结石喝可乐化解",
+      "onboard_time": 1731921740,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28990,
       "num": 29778,
       "word": "终于明白为什么古代人喜欢听说书了",
@@ -2281,14 +2441,6 @@
       "onboard_time": 1731877691,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 21910,
-      "num": 475687,
-      "word": "新射雕能复兴徐克的武侠梦吗",
-      "onboard_time": 1731918260,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 21025,
@@ -2498,6 +2650,9 @@
     },
     {
       "word": "#中巴两国是跨越山海的好朋友#"
+    },
+    {
+      "word": "#智利总统邀请习主席在著作上签字#"
     }
   ]
 }

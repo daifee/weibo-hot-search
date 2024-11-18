@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1731919513665,
+  "endTime": 1731922000750,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1731288019,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1879015,
+      "num": 952577,
+      "word": "26岁二胎宝妈产下3斤宝宝后去世",
+      "onboard_time": 1731919458,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1861305,
@@ -2635,6 +2643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1282169,
+      "num": 1282169,
+      "word": "杨子后悔参加再见爱人",
+      "onboard_time": 1731917779,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1282167,
       "num": 1282167,
       "word": "Faker FMVP",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1731080839,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1234992,
-      "num": 1234992,
-      "word": "杨子后悔参加再见爱人",
-      "onboard_time": 1731917779,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1229668,
@@ -3056,6 +3064,14 @@
       "word": "官方称有80人满足免费吃自助餐条件",
       "onboard_time": 1731734238,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1143625,
+      "num": 1143625,
+      "word": "小伙1个月赶10场演唱会还挣了5万",
+      "onboard_time": 1731919579,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -6009,6 +6025,14 @@
       "onboard_time": 1731205221,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766378,
+      "num": 414611,
+      "word": "无孩爱猫女",
+      "onboard_time": 1731918018,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 764933,
@@ -12651,14 +12675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 414611,
-      "num": 414611,
-      "word": "无孩爱猫女",
-      "onboard_time": 1731918018,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 414379,
       "num": 414379,
       "word": "AG晋级年总胜者组决赛",
@@ -13049,6 +13065,14 @@
       "onboard_time": 1730680099,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403554,
+      "num": 403554,
+      "word": "大四学生挂8科后失联多月被发现溺亡",
+      "onboard_time": 1731919640,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403439,
@@ -14339,6 +14363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362156,
+      "num": 362156,
+      "word": "韩国吃播",
+      "onboard_time": 1731918018,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 362121,
       "num": 362121,
       "word": "日本石破内阁仅存在一个多月",
@@ -14953,14 +14985,6 @@
       "onboard_time": 1730903602,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 342488,
-      "num": 342488,
-      "word": "26岁二胎宝妈产下3斤宝宝后去世",
-      "onboard_time": 1731919458,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 342426,
@@ -18635,6 +18659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261883,
+      "num": 261883,
+      "word": "花3000元买了个7平米小家",
+      "onboard_time": 1731919757,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261640,
       "num": 238298,
       "word": "黄晓明未删与叶珂官宣微博",
@@ -18881,14 +18913,6 @@
       "onboard_time": 1731150257,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258096,
-      "num": 258096,
-      "word": "韩国吃播",
-      "onboard_time": 1731918018,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 257817,
@@ -20027,6 +20051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241326,
+      "num": 241326,
+      "word": "反写符",
+      "onboard_time": 1731921019,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241023,
       "num": 241023,
       "word": "我国南海部分岛礁标准名称公布",
@@ -20377,6 +20409,14 @@
       "onboard_time": 1731638479,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 236097,
+      "num": 475687,
+      "word": "新射雕能复兴徐克的武侠梦吗",
+      "onboard_time": 1731918260,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 236089,
@@ -21691,6 +21731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219885,
+      "num": 344159,
+      "word": "丁禹兮这一秒第三视角",
+      "onboard_time": 1731921199,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219648,
       "num": 219648,
       "word": "我家那小子",
@@ -21875,6 +21923,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 217419,
+      "num": 217419,
+      "word": "孙颖莎展望洛杉矶奥运会",
+      "onboard_time": 1731921439,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217366,
       "num": 217366,
       "word": "江浙沪地区羽绒服销量反超北方",
@@ -21897,6 +21953,14 @@
       "onboard_time": 1730442919,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217160,
+      "num": 217160,
+      "word": "一个林更新一个庄国栋",
+      "onboard_time": 1731921439,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 217064,
@@ -29619,6 +29683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170415,
+      "num": 170415,
+      "word": "当我担发了一段意义不明的话时",
+      "onboard_time": 1731920059,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170376,
       "num": 170376,
       "word": "原来凌妙妙还在酒店上过班呢",
@@ -32457,6 +32529,14 @@
       "onboard_time": 1731491720,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156300,
+      "num": 188592,
+      "word": "张博恒遗憾没在教练退休前拿奥运金牌",
+      "onboard_time": 1731920840,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 156288,
@@ -35827,6 +35907,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 140011,
+      "num": 140011,
+      "word": "实拍歼35A真的会隐身",
+      "onboard_time": 1731921619,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 139892,
       "num": 139892,
       "word": "李一桐粉色高定",
@@ -36009,6 +36097,14 @@
       "onboard_time": 1730418377,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139152,
+      "num": 139152,
+      "word": "小米su7已交付超10万",
+      "onboard_time": 1731920419,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 139126,
@@ -36849,6 +36945,14 @@
       "onboard_time": 1730759714,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134069,
+      "num": 134069,
+      "word": "60秒打卡乌镇之美",
+      "onboard_time": 1731921439,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 134033,
@@ -39547,6 +39651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120003,
+      "num": 340681,
+      "word": "男子告诉的哥我杀人了开快点",
+      "onboard_time": 1731920599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119990,
       "num": 119990,
       "word": "东北大姨真的太会给情绪价值了",
@@ -40665,6 +40777,14 @@
       "onboard_time": 1731139819,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 113628,
+      "num": 113628,
+      "word": "雷佳音李庚希大片",
+      "onboard_time": 1731921980,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113565,
@@ -43561,6 +43681,14 @@
       "onboard_time": 1731342258,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 91850,
+      "num": 346644,
+      "word": "涵艺爆料还有两支队伍或退出LPL",
+      "onboard_time": 1731921138,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 91520,
@@ -46939,6 +47067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 61611,
+      "num": 360170,
+      "word": "黑龙江警方启动无人机寻找老虎",
+      "onboard_time": 1731920840,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 61582,
       "num": 184326,
       "word": "人民网评李子柒回归",
@@ -49345,6 +49481,14 @@
       "onboard_time": 1731515057,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 46692,
+      "num": 353001,
+      "word": "蒋欣get到华妃重生文的点了",
+      "onboard_time": 1731920719,
+      "rank": 13,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 46685,
@@ -51939,6 +52083,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 34501,
+      "num": 217185,
+      "word": "雷军车展只拥抱了何小鹏",
+      "onboard_time": 1731919699,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34497,
       "num": 41831,
       "word": "军事专家夸歼35A好形象",
@@ -53457,6 +53609,14 @@
       "onboard_time": 1731695892,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29516,
+      "num": 360717,
+      "word": "女子吃山楂致结石喝可乐化解",
+      "onboard_time": 1731921740,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29490,
@@ -55593,14 +55753,6 @@
       "onboard_time": 1730991863,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21910,
-      "num": 475687,
-      "word": "新射雕能复兴徐克的武侠梦吗",
-      "onboard_time": 1731918260,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 21905,
@@ -59531,6 +59683,9 @@
     },
     {
       "word": "#中巴两国是跨越山海的好朋友#"
+    },
+    {
+      "word": "#智利总统邀请习主席在著作上签字#"
     }
   ]
 }
