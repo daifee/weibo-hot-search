@@ -1,0 +1,410 @@
+{
+  "runTime": 1732000933112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1418265,
+        "num": 1418265,
+        "word": "将门独后 刘浩存",
+        "onboard_time": 1731997340,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 770645,
+        "num": 770645,
+        "word": "对重大恶性犯罪依法从严从快惩治",
+        "onboard_time": 1731997580,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5278,
+        "num": 683193,
+        "word": "一组图了解多彩巴西",
+        "onboard_time": 1731987981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 627292,
+        "num": 627292,
+        "word": "石破茂遭日本网友吐槽",
+        "onboard_time": 1731997340,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 613684,
+        "num": 613684,
+        "word": "关晓彤去了王安宇外婆家",
+        "onboard_time": 1731991162,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584843,
+        "num": 584843,
+        "word": "冰墩墩变身蛇墩墩",
+        "onboard_time": 1731986059,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570353,
+        "num": 570353,
+        "word": "被东北虎袭击老人头皮有撕裂伤",
+        "onboard_time": 1731996799,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 488652,
+        "num": 568044,
+        "word": "炸火花已全面入侵韩娱签售",
+        "onboard_time": 1731990563,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21181,
+        "num": 560941,
+        "word": "依法严厉打击让偷拍者无孔可入",
+        "onboard_time": 1732000520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36418,
+        "num": 558126,
+        "word": "被老虎咬伤手的村民手术持续4小时",
+        "onboard_time": 1732000760,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593915,
+        "num": 552318,
+        "word": "九华山景区多只狗的脚被砍断",
+        "onboard_time": 1731994100,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 550127,
+        "num": 550127,
+        "word": "李庚希 华为代言",
+        "onboard_time": 1731994640,
+        "rank": 11,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 530583,
+        "num": 530583,
+        "word": "预制菜影后",
+        "onboard_time": 1731990142,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51001,
+        "num": 464611,
+        "word": "外卖明明评分挺高为啥那么难吃",
+        "onboard_time": 1731999799,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442067,
+        "num": 442067,
+        "word": "华为Mate70价格",
+        "onboard_time": 1731996559,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 345885,
+        "num": 429472,
+        "word": "林一把和沈月的合照藏了三年",
+        "onboard_time": 1731996680,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324496,
+        "num": 425196,
+        "word": "孙丞潇演网剧男主了",
+        "onboard_time": 1731996021,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311460,
+        "num": 416381,
+        "word": "祝绪丹说媚眼抛给瞎子看",
+        "onboard_time": 1731995899,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6373,
+        "num": 393710,
+        "word": "国足对阵日本有60余名日媒记者",
+        "onboard_time": 1732000819,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26442,
+        "num": 383991,
+        "word": "多方回应小区消火栓5年来没有水",
+        "onboard_time": 1731999799,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378158,
+        "num": 378158,
+        "word": "耿爽回怼美方一个动作气势拉满",
+        "onboard_time": 1731995239,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286161,
+        "num": 286161,
+        "word": "许凯被审判",
+        "onboard_time": 1731986540,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88148,
+        "num": 283306,
+        "word": "曾舜晞网速",
+        "onboard_time": 1731999919,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283081,
+        "num": 283081,
+        "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+        "onboard_time": 1731985580,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277929,
+        "num": 277929,
+        "word": "钟楚曦抽烟好港",
+        "onboard_time": 1731994700,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194698,
+        "num": 194698,
+        "word": "乐华大厦是杜华贷款买的",
+        "onboard_time": 1731993261,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37144,
+        "num": 194650,
+        "word": "檀健次一份巴适的惊喜派送中",
+        "onboard_time": 1732000880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33831,
+        "num": 194090,
+        "word": "范志毅谈国足对阵日本",
+        "onboard_time": 1732000399,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127234,
+        "num": 193652,
+        "word": "斗2唐三 恋爱脑",
+        "onboard_time": 1732000640,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63649,
+        "num": 193368,
+        "word": "上海网红餐厅被曝用亚硝酸盐",
+        "onboard_time": 1732000159,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 144943,
+        "num": 192759,
+        "word": "耿爽联合国2次驳斥美方抹黑言论",
+        "onboard_time": 1731993379,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186229,
+        "num": 192456,
+        "word": "女子推理社谈不合格卫生巾",
+        "onboard_time": 1732000219,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236473,
+        "num": 192204,
+        "word": "男子为骗保开车撞树当场身亡",
+        "onboard_time": 1731980659,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191833,
+        "num": 191833,
+        "word": "男子开钟点房洗8件羽绒服10件毛衣",
+        "onboard_time": 1731979578,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189941,
+        "num": 189941,
+        "word": "90后把600万房款投入股市",
+        "onboard_time": 1731997700,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 186088,
+        "num": 186088,
+        "word": "樊振东和王楚钦关于五花肉的故事",
+        "onboard_time": 1731999380,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184332,
+        "num": 184332,
+        "word": "释小龙室外抽烟",
+        "onboard_time": 1731994640,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181144,
+        "num": 181144,
+        "word": "华为再掀涨停潮",
+        "onboard_time": 1731999618,
+        "rank": 37,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 173437,
+        "num": 173437,
+        "word": "国足要怎么踢才可能赢日本",
+        "onboard_time": 1731982279,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163714,
+        "num": 163714,
+        "word": "炎症拖着不治可能会成癌",
+        "onboard_time": 1731990321,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163441,
+        "num": 163441,
+        "word": "Zoom红温怒喷Cat",
+        "onboard_time": 1732000341,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152529,
+        "num": 152529,
+        "word": "甘肃一县月均新生儿不足5个",
+        "onboard_time": 1731995239,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150694,
+        "num": 150694,
+        "word": "本周五北京可买蛇墩墩",
+        "onboard_time": 1732000219,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150078,
+        "num": 150078,
+        "word": "黄之锋被判56个月",
+        "onboard_time": 1731991463,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147854,
+        "num": 147854,
+        "word": "21年的李行亮麦琳",
+        "onboard_time": 1731992064,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143462,
+        "num": 143462,
+        "word": "老公婚后反悔丁克",
+        "onboard_time": 1731984860,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138312,
+        "num": 143445,
+        "word": "刘谦抗癌成功后去医院",
+        "onboard_time": 1731997221,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143440,
+        "num": 143440,
+        "word": "45名反中乱港分子被判刑",
+        "onboard_time": 1731986120,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142495,
+        "num": 142495,
+        "word": "ABC卫生巾所属公司6年上市未果",
+        "onboard_time": 1731996200,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130501,
+        "num": 130501,
+        "word": "官方回应群发再婚后可生3孩短信",
+        "onboard_time": 1732000280,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国支持全球发展的八项行动#"
+    }
+  }
+}
