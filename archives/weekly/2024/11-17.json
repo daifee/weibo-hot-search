@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731994815041,
+  "endTime": 1731997960900,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -683,12 +683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 816291,
+      "num": 317784,
+      "word": "李庚希 华为代言",
+      "onboard_time": 1731994640,
+      "rank": 39,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 811289,
       "num": 811289,
       "word": "霸王茶姬口令",
       "onboard_time": 1731810498,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 809781,
+      "num": 314338,
+      "word": "九华山景区多只狗的脚被砍断",
+      "onboard_time": 1731994100,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 808020,
@@ -1411,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475917,
+      "num": 331170,
+      "word": "孙丞潇演网剧男主了",
+      "onboard_time": 1731996021,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470545,
       "num": 343288,
       "word": "雷佳音金鸡影帝",
@@ -1483,6 +1507,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 445457,
+      "num": 445457,
+      "word": "耿爽回怼美方一个动作气势拉满",
+      "onboard_time": 1731995239,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 443904,
       "num": 316632,
       "word": "张家界火灾遇难者系一家祖孙三代",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 430507,
+      "num": 328739,
+      "word": "乐华大厦是杜华贷款买的",
+      "onboard_time": 1731993261,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 428180,
@@ -1563,11 +1603,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 420125,
-      "num": 237026,
-      "word": "乐华大厦是杜华贷款买的",
-      "onboard_time": 1731993261,
-      "rank": 33,
+      "raw_hot": 419643,
+      "num": 303431,
+      "word": "钟楚曦抽烟好港",
+      "onboard_time": 1731994700,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1771,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 372765,
+      "num": 291487,
+      "word": "将门独后 刘浩存",
+      "onboard_time": 1731997340,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371261,
       "num": 371261,
       "word": "传奇杯",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1731853041,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 339674,
+      "num": 339674,
+      "word": "对重大恶性犯罪依法从严从快惩治",
+      "onboard_time": 1731997580,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 339121,
@@ -2107,6 +2163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300801,
+      "num": 300801,
+      "word": "祝绪丹说媚眼抛给瞎子看",
+      "onboard_time": 1731995899,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299169,
       "num": 197178,
       "word": "以色列士兵在玩手机时被击中",
@@ -2219,6 +2283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 286508,
+      "num": 286508,
+      "word": "华为Mate70价格",
+      "onboard_time": 1731996559,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 284637,
       "num": 284637,
       "word": "房东的猫定居杭州",
@@ -2281,6 +2353,14 @@
       "onboard_time": 1731842180,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277115,
+      "num": 277115,
+      "word": "林一把和沈月的合照藏了三年",
+      "onboard_time": 1731996680,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 276526,
@@ -2347,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271697,
+      "num": 271697,
+      "word": "释小龙室外抽烟",
+      "onboard_time": 1731994640,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271504,
       "num": 107895,
       "word": "刘亦菲这段话救我千万次于水火",
@@ -2369,6 +2457,14 @@
       "onboard_time": 1731819499,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269587,
+      "num": 334944,
+      "word": "谷歌聊天机器人竟回复称人类去死吧",
+      "onboard_time": 1731990742,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 269352,
@@ -2491,14 +2587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258540,
-      "num": 231297,
-      "word": "钟楚曦抽烟好港",
-      "onboard_time": 1731994700,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257196,
       "num": 247812,
       "word": "卡皮巴拉在塌一种很新的房",
@@ -2571,14 +2659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249900,
-      "num": 334944,
-      "word": "谷歌聊天机器人竟回复称人类去死吧",
-      "onboard_time": 1731990742,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 249561,
       "num": 249561,
       "word": "徐枫灿",
@@ -2601,14 +2681,6 @@
       "onboard_time": 1731831858,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246410,
-      "num": 230365,
-      "word": "释小龙室外抽烟",
-      "onboard_time": 1731994640,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 246053,
@@ -2915,14 +2987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222396,
-      "num": 222396,
-      "word": "九华山景区多只狗的脚被砍断",
-      "onboard_time": 1731994100,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 221675,
       "num": 209744,
       "word": "财政部已将6万亿元债务限额下达各地",
@@ -3177,6 +3241,22 @@
       "onboard_time": 1731848960,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204437,
+      "num": 204437,
+      "word": "石破茂遭日本网友吐槽",
+      "onboard_time": 1731997340,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 204355,
+      "num": 288697,
+      "word": "林俊杰新书",
+      "onboard_time": 1731996501,
+      "rank": 22,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 204192,
@@ -3635,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184476,
+      "num": 184476,
+      "word": "被东北虎袭击老人头皮有撕裂伤",
+      "onboard_time": 1731996799,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 184048,
       "num": 184048,
       "word": "这张脸做男做女都精彩",
@@ -3753,6 +3841,14 @@
       "onboard_time": 1731927500,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180113,
+      "num": 180113,
+      "word": "刘谦抗癌成功后去医院",
+      "onboard_time": 1731997221,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 180084,
@@ -4155,12 +4251,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162520,
-      "num": 162520,
-      "word": "李庚希 华为代言",
-      "onboard_time": 1731994640,
-      "rank": 39,
-      "category": "艺人,数码"
+      "raw_hot": 162763,
+      "num": 162763,
+      "word": "Ning输给Kid红温下播",
+      "onboard_time": 1731996381,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 162170,
@@ -4241,6 +4337,14 @@
       "onboard_time": 1731975020,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160307,
+      "num": 160307,
+      "word": "甘肃一县月均新生儿不足5个",
+      "onboard_time": 1731995239,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160263,
@@ -5451,6 +5555,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 118652,
+      "num": 180445,
+      "word": "小巷人家 原件对复印件就错不了",
+      "onboard_time": 1731996501,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118370,
       "num": 118370,
       "word": "这样做一顿饭我得休一星期",
@@ -5747,6 +5859,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 106224,
+      "num": 275060,
+      "word": "郭晓东孝庄表情包是自己P的",
+      "onboard_time": 1731997940,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106042,
       "num": 106042,
       "word": "WTT福冈总决赛",
@@ -5857,6 +5977,14 @@
       "onboard_time": 1731810858,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98777,
+      "num": 182162,
+      "word": "霉霉主动给朴彩英电话号码",
+      "onboard_time": 1731997759,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 98737,
@@ -6851,6 +6979,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 50479,
+      "num": 318835,
+      "word": "人造古城如何拖垮一家上市公司",
+      "onboard_time": 1731996440,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50439,
       "num": 260428,
       "word": "岛屿少年重现餐桌吵架名场面",
@@ -7019,12 +7155,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 43314,
+      "num": 305985,
+      "word": "ABC卫生巾所属公司6年上市未果",
+      "onboard_time": 1731996200,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42906,
       "num": 280531,
       "word": "雷军车展只拥抱了何小鹏",
       "onboard_time": 1731919699,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42823,
+      "num": 298120,
+      "word": "90后把600万房款投入股市",
+      "onboard_time": 1731997700,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 41789,
@@ -7627,6 +7779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28789,
+      "num": 275635,
+      "word": "WTT福冈总决赛首日赛程",
+      "onboard_time": 1731997880,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28664,
       "num": 333666,
       "word": "良品铺子线上销售未受风波影响",
@@ -7771,6 +7931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24628,
+      "num": 222881,
+      "word": "日本主帅说要忘掉7比0",
+      "onboard_time": 1731996799,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24504,
       "num": 461250,
       "word": "90岁老飞说能飞国产战机是最大幸福",
@@ -7913,6 +8081,14 @@
       "onboard_time": 1731922337,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21535,
+      "num": 295756,
+      "word": "用X200拍到了神级照片",
+      "onboard_time": 1731996261,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 21366,
@@ -8187,6 +8363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15350,
+      "num": 197185,
+      "word": "享界S9智驾快人一步",
+      "onboard_time": 1731995181,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 15316,
       "num": 25035,
       "word": "好事不说坏事不做顺其自然26年",
@@ -8353,6 +8537,14 @@
       "onboard_time": 1731879911,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12409,
+      "num": 164650,
+      "word": "王上源希望拿出200%的能量对战日本",
+      "onboard_time": 1731996620,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 12117,
@@ -8585,6 +8777,14 @@
       "onboard_time": 1731928159,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 6381,
+      "num": 306740,
+      "word": "小巷人家气人的设定要改吗",
+      "onboard_time": 1731997759,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 6132,

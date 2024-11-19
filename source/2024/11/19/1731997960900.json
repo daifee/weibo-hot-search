@@ -1,0 +1,410 @@
+{
+  "runTime": 1731997960900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 869759,
+        "num": 1139161,
+        "word": "关晓彤去了王安宇外婆家",
+        "onboard_time": 1731991162,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517993,
+        "num": 517993,
+        "word": "冰墩墩变身蛇墩墩",
+        "onboard_time": 1731986059,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8421,
+        "num": 465806,
+        "word": "一组图了解多彩巴西",
+        "onboard_time": 1731987981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 557413,
+        "num": 462747,
+        "word": "炸火花已全面入侵韩娱签售",
+        "onboard_time": 1731990563,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 445457,
+        "num": 445457,
+        "word": "耿爽回怼美方一个动作气势拉满",
+        "onboard_time": 1731995239,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339674,
+        "num": 339674,
+        "word": "对重大恶性犯罪依法从严从快惩治",
+        "onboard_time": 1731997580,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475917,
+        "num": 331170,
+        "word": "孙丞潇演网剧男主了",
+        "onboard_time": 1731996021,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430507,
+        "num": 328739,
+        "word": "乐华大厦是杜华贷款买的",
+        "onboard_time": 1731993261,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321515,
+        "num": 321515,
+        "word": "炎症拖着不治可能会成癌",
+        "onboard_time": 1731990321,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50479,
+        "num": 318835,
+        "word": "人造古城如何拖垮一家上市公司",
+        "onboard_time": 1731996440,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 816291,
+        "num": 317784,
+        "word": "李庚希 华为代言",
+        "onboard_time": 1731994640,
+        "rank": 10,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 809781,
+        "num": 314338,
+        "word": "九华山景区多只狗的脚被砍断",
+        "onboard_time": 1731994100,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 764541,
+        "num": 311813,
+        "word": "预制菜影后",
+        "onboard_time": 1731990142,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6381,
+        "num": 306740,
+        "word": "小巷人家气人的设定要改吗",
+        "onboard_time": 1731997759,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43314,
+        "num": 305985,
+        "word": "ABC卫生巾所属公司6年上市未果",
+        "onboard_time": 1731996200,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 419643,
+        "num": 303431,
+        "word": "钟楚曦抽烟好港",
+        "onboard_time": 1731994700,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300801,
+        "num": 300801,
+        "word": "祝绪丹说媚眼抛给瞎子看",
+        "onboard_time": 1731995899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401933,
+        "num": 298983,
+        "word": "许凯被审判",
+        "onboard_time": 1731986540,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42823,
+        "num": 298120,
+        "word": "90后把600万房款投入股市",
+        "onboard_time": 1731997700,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 21535,
+        "num": 295756,
+        "word": "用X200拍到了神级照片",
+        "onboard_time": 1731996261,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265550,
+        "num": 293122,
+        "word": "45名反中乱港分子被判刑",
+        "onboard_time": 1731986120,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372765,
+        "num": 291487,
+        "word": "将门独后 刘浩存",
+        "onboard_time": 1731997340,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204355,
+        "num": 288697,
+        "word": "林俊杰新书",
+        "onboard_time": 1731996501,
+        "rank": 22,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 345170,
+        "num": 287365,
+        "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+        "onboard_time": 1731985580,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286508,
+        "num": 286508,
+        "word": "华为Mate70价格",
+        "onboard_time": 1731996559,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 269587,
+        "num": 283283,
+        "word": "谷歌聊天机器人竟回复称人类去死吧",
+        "onboard_time": 1731990742,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283095,
+        "num": 283095,
+        "word": "男子为骗保开车撞树当场身亡",
+        "onboard_time": 1731980659,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277115,
+        "num": 277115,
+        "word": "林一把和沈月的合照藏了三年",
+        "onboard_time": 1731996680,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28789,
+        "num": 275635,
+        "word": "WTT福冈总决赛首日赛程",
+        "onboard_time": 1731997880,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106224,
+        "num": 275060,
+        "word": "郭晓东孝庄表情包是自己P的",
+        "onboard_time": 1731997940,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275018,
+        "num": 275018,
+        "word": "男子开钟点房洗8件羽绒服10件毛衣",
+        "onboard_time": 1731979578,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271697,
+        "num": 271697,
+        "word": "释小龙室外抽烟",
+        "onboard_time": 1731994640,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234016,
+        "num": 234016,
+        "word": "21年的李行亮麦琳",
+        "onboard_time": 1731992064,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231139,
+        "num": 231139,
+        "word": "国足要怎么踢才可能赢日本",
+        "onboard_time": 1731982279,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24628,
+        "num": 222881,
+        "word": "日本主帅说要忘掉7比0",
+        "onboard_time": 1731996799,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215832,
+        "num": 215832,
+        "word": "裴珠泫对抗黄牛公开小卡",
+        "onboard_time": 1731991343,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206445,
+        "num": 206445,
+        "word": "黄之锋被判56个月",
+        "onboard_time": 1731991463,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204437,
+        "num": 204437,
+        "word": "石破茂遭日本网友吐槽",
+        "onboard_time": 1731997340,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15350,
+        "num": 197185,
+        "word": "享界S9智驾快人一步",
+        "onboard_time": 1731995181,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195715,
+        "num": 195715,
+        "word": "老公婚后反悔丁克",
+        "onboard_time": 1731984860,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186048,
+        "num": 186048,
+        "word": "巴西首都27岁就被列入世界遗产名录",
+        "onboard_time": 1731978979,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184476,
+        "num": 184476,
+        "word": "被东北虎袭击老人头皮有撕裂伤",
+        "onboard_time": 1731996799,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 98777,
+        "num": 182162,
+        "word": "霉霉主动给朴彩英电话号码",
+        "onboard_time": 1731997759,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182123,
+        "num": 182123,
+        "word": "赵薇公司被强制执行14177元",
+        "onboard_time": 1731976941,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118652,
+        "num": 180445,
+        "word": "小巷人家 原件对复印件就错不了",
+        "onboard_time": 1731996501,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180113,
+        "num": 180113,
+        "word": "刘谦抗癌成功后去医院",
+        "onboard_time": 1731997221,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168650,
+        "num": 168650,
+        "word": "贺峻霖cue小宋回国",
+        "onboard_time": 1731989601,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12409,
+        "num": 164650,
+        "word": "王上源希望拿出200%的能量对战日本",
+        "onboard_time": 1731996620,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162763,
+        "num": 162763,
+        "word": "Ning输给Kid红温下播",
+        "onboard_time": 1731996381,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160307,
+        "num": 160307,
+        "word": "甘肃一县月均新生儿不足5个",
+        "onboard_time": 1731995239,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国支持全球发展的八项行动#"
+    }
+  }
+}

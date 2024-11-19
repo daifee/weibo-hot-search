@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731994815041,
+  "endTime": 1731997960900,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -129,6 +129,22 @@
       "onboard_time": 1731990563,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 816291,
+      "num": 317784,
+      "word": "李庚希 华为代言",
+      "onboard_time": 1731994640,
+      "rank": 39,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 809781,
+      "num": 314338,
+      "word": "九华山景区多只狗的脚被砍断",
+      "onboard_time": 1731994100,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 797893,
@@ -267,6 +283,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 475917,
+      "num": 331170,
+      "word": "孙丞潇演网剧男主了",
+      "onboard_time": 1731996021,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456050,
       "num": 270114,
       "word": "北京月租7000的房子",
@@ -291,11 +315,27 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 420125,
-      "num": 237026,
+      "raw_hot": 445457,
+      "num": 445457,
+      "word": "耿爽回怼美方一个动作气势拉满",
+      "onboard_time": 1731995239,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 430507,
+      "num": 328739,
       "word": "乐华大厦是杜华贷款买的",
       "onboard_time": 1731993261,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419643,
+      "num": 303431,
+      "word": "钟楚曦抽烟好港",
+      "onboard_time": 1731994700,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -347,6 +387,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 372765,
+      "num": 291487,
+      "word": "将门独后 刘浩存",
+      "onboard_time": 1731997340,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358913,
       "num": 333144,
       "word": "贺峻霖cue小宋回国",
@@ -361,6 +409,14 @@
       "onboard_time": 1731944478,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 339674,
+      "num": 339674,
+      "word": "对重大恶性犯罪依法从严从快惩治",
+      "onboard_time": 1731997580,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 339121,
@@ -459,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300801,
+      "num": 300801,
+      "word": "祝绪丹说媚眼抛给瞎子看",
+      "onboard_time": 1731995899,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297960,
       "num": 409600,
       "word": "良品铺子将对打假网红提起诉讼",
@@ -491,6 +555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286508,
+      "num": 286508,
+      "word": "华为Mate70价格",
+      "onboard_time": 1731996559,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 281463,
       "num": 281463,
       "word": "江苏一办事大厅员工10点离岗吃饭",
@@ -515,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277115,
+      "num": 277115,
+      "word": "林一把和沈月的合照藏了三年",
+      "onboard_time": 1731996680,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276442,
       "num": 282800,
       "word": "正式确诊衣领综合征",
@@ -531,12 +611,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271697,
+      "num": 271697,
+      "word": "释小龙室外抽烟",
+      "onboard_time": 1731994640,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270810,
       "num": 256367,
       "word": "女子掉进温泉池2秒皮被烫掉",
       "onboard_time": 1731929719,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269587,
+      "num": 334944,
+      "word": "谷歌聊天机器人竟回复称人类去死吧",
+      "onboard_time": 1731990742,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 259316,
@@ -560,30 +656,6 @@
       "word": "丁禹兮新加坡到底有谁在啊",
       "onboard_time": 1731972916,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 258540,
-      "num": 231297,
-      "word": "钟楚曦抽烟好港",
-      "onboard_time": 1731994700,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 249900,
-      "num": 334944,
-      "word": "谷歌聊天机器人竟回复称人类去死吧",
-      "onboard_time": 1731990742,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 246410,
-      "num": 230365,
-      "word": "释小龙室外抽烟",
-      "onboard_time": 1731994640,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -641,14 +713,6 @@
       "onboard_time": 1731965110,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 222396,
-      "num": 222396,
-      "word": "九华山景区多只狗的脚被砍断",
-      "onboard_time": 1731994100,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 217460,
@@ -729,6 +793,22 @@
       "onboard_time": 1731986059,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204437,
+      "num": 204437,
+      "word": "石破茂遭日本网友吐槽",
+      "onboard_time": 1731997340,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 204355,
+      "num": 288697,
+      "word": "林俊杰新书",
+      "onboard_time": 1731996501,
+      "rank": 22,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 203023,
@@ -819,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184476,
+      "num": 184476,
+      "word": "被东北虎袭击老人头皮有撕裂伤",
+      "onboard_time": 1731996799,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 181824,
       "num": 181824,
       "word": "2马拉松选手被曝拿走大量补给",
@@ -833,6 +921,14 @@
       "onboard_time": 1731980240,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 180113,
+      "num": 180113,
+      "word": "刘谦抗癌成功后去医院",
+      "onboard_time": 1731997221,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 179357,
@@ -955,12 +1051,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162520,
-      "num": 162520,
-      "word": "李庚希 华为代言",
-      "onboard_time": 1731994640,
-      "rank": 39,
-      "category": "艺人,数码"
+      "raw_hot": 162763,
+      "num": 162763,
+      "word": "Ning输给Kid红温下播",
+      "onboard_time": 1731996381,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 161570,
@@ -993,6 +1089,14 @@
       "onboard_time": 1731975020,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160307,
+      "num": 160307,
+      "word": "甘肃一县月均新生儿不足5个",
+      "onboard_time": 1731995239,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160263,
@@ -1219,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118652,
+      "num": 180445,
+      "word": "小巷人家 原件对复印件就错不了",
+      "onboard_time": 1731996501,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118353,
       "num": 214046,
       "word": "TGA年度最佳游戏提名",
@@ -1233,6 +1345,14 @@
       "onboard_time": 1731938541,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 106224,
+      "num": 275060,
+      "word": "郭晓东孝庄表情包是自己P的",
+      "onboard_time": 1731997940,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 101145,
@@ -1273,6 +1393,14 @@
       "onboard_time": 1731989841,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98777,
+      "num": 182162,
+      "word": "霉霉主动给朴彩英电话号码",
+      "onboard_time": 1731997759,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 98450,
@@ -1531,6 +1659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 50479,
+      "num": 318835,
+      "word": "人造古城如何拖垮一家上市公司",
+      "onboard_time": 1731996440,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 49571,
       "num": 449470,
       "word": "各类珍稀动物上镜率不断提升",
@@ -1569,6 +1705,22 @@
       "onboard_time": 1731957851,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 43314,
+      "num": 305985,
+      "word": "ABC卫生巾所属公司6年上市未果",
+      "onboard_time": 1731996200,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 42823,
+      "num": 298120,
+      "word": "90后把600万房款投入股市",
+      "onboard_time": 1731997700,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 40646,
@@ -1667,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28789,
+      "num": 275635,
+      "word": "WTT福冈总决赛首日赛程",
+      "onboard_time": 1731997880,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28664,
       "num": 333666,
       "word": "良品铺子线上销售未受风波影响",
@@ -1680,6 +1840,14 @@
       "word": "两连胜后国足士气正盛一票难求",
       "onboard_time": 1731981919,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24628,
+      "num": 222881,
+      "word": "日本主帅说要忘掉7比0",
+      "onboard_time": 1731996799,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1697,6 +1865,14 @@
       "onboard_time": 1731953891,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21535,
+      "num": 295756,
+      "word": "用X200拍到了神级照片",
+      "onboard_time": 1731996261,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 21366,
@@ -1771,6 +1947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15350,
+      "num": 197185,
+      "word": "享界S9智驾快人一步",
+      "onboard_time": 1731995181,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 14719,
       "num": 15751,
       "word": "当地回应摄协主席参展照片疑作假",
@@ -1793,6 +1977,14 @@
       "onboard_time": 1731961390,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12409,
+      "num": 164650,
+      "word": "王上源希望拿出200%的能量对战日本",
+      "onboard_time": 1731996620,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 10640,
@@ -1841,6 +2033,14 @@
       "onboard_time": 1731937041,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6381,
+      "num": 306740,
+      "word": "小巷人家气人的设定要改吗",
+      "onboard_time": 1731997759,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 5375,
