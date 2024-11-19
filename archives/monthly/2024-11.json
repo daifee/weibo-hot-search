@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732027356469,
+  "endTime": 1732029957425,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2211,6 +2211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1424356,
+      "num": 1424356,
+      "word": "何同学致歉",
+      "onboard_time": 1732028600,
+      "rank": 1,
+      "category": "数码,网红"
+    },
+    {
       "raw_hot": 1423536,
       "num": 331741,
       "word": "王昶 钱天一",
@@ -2361,6 +2369,14 @@
       "onboard_time": 1731474080,
       "rank": 1,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 1387808,
+      "num": 1387808,
+      "word": "Doran加入T1",
+      "onboard_time": 1732028001,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1386927,
@@ -3001,6 +3017,14 @@
       "onboard_time": 1731076101,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1224601,
+      "num": 1224601,
+      "word": "Zeus离队",
+      "onboard_time": 1732028120,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1223984,
@@ -5788,7 +5812,7 @@
     },
     {
       "raw_hot": 830078,
-      "num": 417830,
+      "num": 444882,
       "word": "医用卫生巾",
       "onboard_time": 1732013240,
       "rank": 13,
@@ -8323,6 +8347,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 638163,
+      "num": 528540,
+      "word": "祝绪祝绪丹丹 祝绪祝绪丹",
+      "onboard_time": 1732024282,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 637844,
       "num": 637844,
       "word": "中国买家拍下一块77年前的蛋糕",
@@ -8947,6 +8979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606792,
+      "num": 606792,
+      "word": "宋莹经典台词是蒋欣即兴发挥",
+      "onboard_time": 1732026322,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 606381,
       "num": 252782,
       "word": "郝婧怡 退团",
@@ -9417,14 +9457,6 @@
       "onboard_time": 1731243619,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 584761,
-      "num": 424008,
-      "word": "祝绪祝绪丹丹 祝绪祝绪丹",
-      "onboard_time": 1732024282,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 584644,
@@ -10011,6 +10043,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 552078,
+      "num": 552078,
+      "word": "酒后在足疗店死亡家属索赔194万",
+      "onboard_time": 1732025602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551383,
       "num": 551383,
       "word": "林青霞姜涛牵手出席活动",
@@ -10585,6 +10625,14 @@
       "onboard_time": 1731475161,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 527446,
+      "num": 527446,
+      "word": "国足2胜4负暂列小组第5",
+      "onboard_time": 1732026262,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 527009,
@@ -12027,6 +12075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468306,
+      "num": 468306,
+      "word": "丁禹兮回来路上了",
+      "onboard_time": 1732028303,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468272,
       "num": 468272,
       "word": "耿爽回怼美方一个动作气势拉满",
@@ -13459,14 +13515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 418231,
-      "num": 418231,
-      "word": "宋莹经典台词是蒋欣即兴发挥",
-      "onboard_time": 1732026322,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 418160,
       "num": 418160,
       "word": "丁禹兮演出了书里的微表情",
@@ -14505,6 +14553,14 @@
       "onboard_time": 1731288917,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387683,
+      "num": 387683,
+      "word": "百雀羚",
+      "onboard_time": 1732028182,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 387449,
@@ -17043,14 +17099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320508,
-      "num": 420359,
-      "word": "酒后在足疗店死亡家属索赔194万",
-      "onboard_time": 1732025602,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320397,
       "num": 320397,
       "word": "白鹿赵露思聊什么呢",
@@ -17209,6 +17257,14 @@
       "onboard_time": 1730858540,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315930,
+      "num": 348282,
+      "word": "麦琳 美环花子",
+      "onboard_time": 1732027042,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315747,
@@ -18777,6 +18833,14 @@
       "onboard_time": 1731458721,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283151,
+      "num": 283151,
+      "word": "T1官宣Zeus合约终止",
+      "onboard_time": 1732027882,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 283053,
@@ -25371,6 +25435,14 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 204806,
+      "num": 204806,
+      "word": "麦子阿姨说土地是农民的孩子",
+      "onboard_time": 1732029320,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204778,
       "num": 204778,
       "word": "王腾让雷军盖个被子别感冒了",
@@ -26569,14 +26641,6 @@
       "onboard_time": 1731824899,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198611,
-      "num": 350620,
-      "word": "国足2胜4负暂列小组第5",
-      "onboard_time": 1732026262,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 198585,
@@ -27939,6 +28003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192199,
+      "num": 192199,
+      "word": "张真源微醺了",
+      "onboard_time": 1732029020,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192176,
       "num": 233507,
       "word": "产量仅1%的黑刺榴莲有多好吃",
@@ -28675,6 +28747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188731,
+      "num": 188731,
+      "word": "HLE与Viper续约",
+      "onboard_time": 1732021102,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188729,
       "num": 211675,
       "word": "2中企高管在菲遭撕票案主犯落网",
@@ -29121,14 +29201,6 @@
       "onboard_time": 1731652879,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186314,
-      "num": 186314,
-      "word": "HLE与Viper续约",
-      "onboard_time": 1732021102,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 186233,
@@ -29857,6 +29929,14 @@
       "onboard_time": 1730460378,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182115,
+      "num": 182115,
+      "word": "eStar 小玖",
+      "onboard_time": 1732028120,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 182005,
@@ -30755,6 +30835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177318,
+      "num": 177318,
+      "word": "久保建英对国足有点惊讶",
+      "onboard_time": 1732029381,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177261,
       "num": 177261,
       "word": "小红稳住",
@@ -30897,6 +30985,14 @@
       "onboard_time": 1731299839,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 176480,
+      "num": 176480,
+      "word": "往南走的麦子阿姨说放不下土地",
+      "onboard_time": 1732027821,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176468,
@@ -33889,14 +33985,6 @@
       "onboard_time": 1730606541,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161849,
-      "num": 348282,
-      "word": "麦琳 美环花子",
-      "onboard_time": 1732027042,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161815,
@@ -46787,6 +46875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94983,
+      "num": 363159,
+      "word": "脱粉后被前爱豆抓现形",
+      "onboard_time": 1732027281,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94961,
       "num": 94961,
       "word": "王楚钦林诗栋总决赛将承担重任",
@@ -51723,6 +51819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55431,
+      "num": 529114,
+      "word": "网络鉴宝靠谱吗",
+      "onboard_time": 1732028660,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 55363,
       "num": 55363,
       "word": "航展首日中国商飞签下130架飞机订单",
@@ -51753,6 +51857,14 @@
       "onboard_time": 1730700860,
       "rank": 14,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 55203,
+      "num": 534938,
+      "word": "北上深均已取消普通住房标准",
+      "onboard_time": 1732029559,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55180,
@@ -52459,6 +52571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51670,
+      "num": 469357,
+      "word": "限速新规会让数亿小电驴更安全吗",
+      "onboard_time": 1732029081,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 51640,
       "num": 326890,
       "word": "羽超联赛名单公布",
@@ -52593,6 +52713,14 @@
       "onboard_time": 1730967500,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51125,
+      "num": 468347,
+      "word": "良品铺子举报人对证据有信心",
+      "onboard_time": 1732028720,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 51074,
@@ -53593,14 +53721,6 @@
       "onboard_time": 1731582019,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45614,
-      "num": 308318,
-      "word": "脱粉后被前爱豆抓现形",
-      "onboard_time": 1732027281,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 45489,
@@ -54649,6 +54769,14 @@
       "onboard_time": 1731240020,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40761,
+      "num": 358804,
+      "word": "小区外围投放驱狗药引热议",
+      "onboard_time": 1732028541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40725,
@@ -58449,6 +58577,14 @@
       "onboard_time": 1730988504,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27854,
+      "num": 471931,
+      "word": "官方调查检察官反映其儿子遭蒙冤关押",
+      "onboard_time": 1732029741,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 27796,
