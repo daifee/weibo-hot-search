@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732016152993,
+  "endTime": 1732020303269,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -257,6 +257,14 @@
       "onboard_time": 1730870663,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 4577692,
+      "num": 4577692,
+      "word": "国足vs日本",
+      "onboard_time": 1732016119,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 4144002,
@@ -5675,6 +5683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836627,
+      "num": 283567,
+      "word": "唯一纯白的茉莉花",
+      "onboard_time": 1732015220,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 835976,
       "num": 835976,
       "word": "坚决纠正幼儿园小学化等行为",
@@ -7603,6 +7619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 670384,
+      "num": 281488,
+      "word": "刘亚仁因父亲去世请求减刑",
+      "onboard_time": 1732017020,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670068,
       "num": 670068,
       "word": "国足进球",
@@ -7689,6 +7713,14 @@
       "onboard_time": 1731492319,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 666341,
+      "num": 272458,
+      "word": "网曝幼儿园老师教唆全班扇男孩耳光",
+      "onboard_time": 1732014980,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 666243,
@@ -10011,6 +10043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547282,
+      "num": 547282,
+      "word": "降低身体慢性炎症的2个方法",
+      "onboard_time": 1732017260,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 547185,
       "num": 547185,
       "word": "S14开幕式",
@@ -10721,6 +10761,14 @@
       "onboard_time": 1731076881,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 517020,
+      "num": 517020,
+      "word": "珠帘玉幕 赵露思写真集",
+      "onboard_time": 1732017859,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 516874,
@@ -15123,6 +15171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365795,
+      "num": 365795,
+      "word": "丁禹兮戴慕声的手镯录团综",
+      "onboard_time": 1732016299,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365182,
       "num": 365182,
       "word": "广州大学食堂被曝售卖过期食品",
@@ -17435,6 +17491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304769,
+      "num": 251477,
+      "word": "美国瘫痪男子大脑植芯片恢复活动能力",
+      "onboard_time": 1732019239,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 304751,
       "num": 304751,
       "word": "燕子京 死嘴你快哄啊",
@@ -17963,6 +18027,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 294425,
+      "num": 335836,
+      "word": "朱志鑫直播",
+      "onboard_time": 1732014200,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294268,
       "num": 294268,
       "word": "永夜星河 亲情刀",
@@ -18057,6 +18129,14 @@
       "onboard_time": 1731363733,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292929,
+      "num": 375129,
+      "word": "国足今日主场迎战日本队",
+      "onboard_time": 1732013299,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 292395,
@@ -18385,6 +18465,14 @@
       "onboard_time": 1731501261,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285507,
+      "num": 285507,
+      "word": "年轻奔放不是犯错的挡箭牌",
+      "onboard_time": 1732018999,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 285495,
@@ -19219,14 +19307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272458,
-      "num": 272458,
-      "word": "网曝幼儿园老师教唆全班扇男孩耳光",
-      "onboard_time": 1732014980,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272442,
       "num": 272442,
       "word": "幼儿园是否从此变成了国家队",
@@ -19851,14 +19931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262431,
-      "num": 375129,
-      "word": "国足今日主场迎战日本队",
-      "onboard_time": 1732013299,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261640,
       "num": 238298,
       "word": "黄晓明未删与叶珂官宣微博",
@@ -20371,6 +20443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254807,
+      "num": 254807,
+      "word": "陈晓演的白玉堂vs杨子演的白玉堂",
+      "onboard_time": 1732016058,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254789,
       "num": 254789,
       "word": "载有辽师大学生客车高速起火",
@@ -20697,6 +20777,14 @@
       "onboard_time": 1731633559,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250105,
+      "num": 250105,
+      "word": "丁禹兮 拜拜不要再被抓到啦",
+      "onboard_time": 1732017620,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250102,
@@ -22171,14 +22259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230576,
-      "num": 335836,
-      "word": "朱志鑫直播",
-      "onboard_time": 1732014200,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230534,
       "num": 190066,
       "word": "男子找5个对象同住一小区隐瞒4年",
@@ -22897,6 +22977,14 @@
       "onboard_time": 1731683420,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221871,
+      "num": 221871,
+      "word": "阴阳师",
+      "onboard_time": 1732019960,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 221855,
@@ -23785,6 +23873,14 @@
       "onboard_time": 1731222559,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212740,
+      "num": 254502,
+      "word": "苍月无烬开机",
+      "onboard_time": 1732017678,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212710,
@@ -24937,6 +25033,14 @@
       "onboard_time": 1731669919,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205196,
+      "num": 205196,
+      "word": "靠谱的国货卫生巾",
+      "onboard_time": 1732017920,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 205129,
@@ -27561,14 +27665,6 @@
       "onboard_time": 1731317240,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192113,
-      "num": 192113,
-      "word": "唯一纯白的茉莉花",
-      "onboard_time": 1732015220,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 192102,
@@ -30219,6 +30315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177550,
+      "num": 254176,
+      "word": "丁禹兮同款扁头",
+      "onboard_time": 1732019780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177547,
       "num": 177547,
       "word": "SuperJunior出道十九周年",
@@ -30811,6 +30915,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 174384,
+      "num": 174384,
+      "word": "天津一教师被曝诱导全班掌掴一孩子",
+      "onboard_time": 1732019300,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174288,
       "num": 174288,
       "word": "王曼昱4比1陈幸同",
@@ -30841,6 +30953,14 @@
       "onboard_time": 1730703258,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173998,
+      "num": 173998,
+      "word": "成毅新剧演了个清汤二少爷",
+      "onboard_time": 1732018700,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 173983,
@@ -30881,6 +31001,14 @@
       "onboard_time": 1731223160,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173780,
+      "num": 173780,
+      "word": "闪耀的恒星",
+      "onboard_time": 1732018279,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173778,
@@ -31745,6 +31873,14 @@
       "onboard_time": 1731085815,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169692,
+      "num": 253099,
+      "word": "尤长靖又闷声干大事了",
+      "onboard_time": 1732018819,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 169642,
@@ -34819,6 +34955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155590,
+      "num": 155590,
+      "word": "我恋6还没录完嘉宾就见家长了",
+      "onboard_time": 1732018040,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155576,
       "num": 155576,
       "word": "东方甄选交个朋友掉出双11带货前10",
@@ -37691,14 +37835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142574,
-      "num": 373431,
-      "word": "国足vs日本",
-      "onboard_time": 1732016119,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142534,
       "num": 142534,
       "word": "蒲熠星音乐节",
@@ -38985,14 +39121,6 @@
       "onboard_time": 1731659719,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136483,
-      "num": 136483,
-      "word": "陈晓演的白玉堂vs杨子演的白玉堂",
-      "onboard_time": 1732016058,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 136465,
@@ -42131,6 +42259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120787,
+      "num": 280888,
+      "word": "国足防守",
+      "onboard_time": 1732019360,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120684,
       "num": 120684,
       "word": "老头杯S2阵容确定",
@@ -44611,6 +44747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106600,
+      "num": 279422,
+      "word": "TGA2024微博投票开启",
+      "onboard_time": 1732020080,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106583,
       "num": 242198,
       "word": "王者玩家侦探浓度检测",
@@ -45667,6 +45811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98914,
+      "num": 177566,
+      "word": "农耕探文明",
+      "onboard_time": 1732018759,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98831,
       "num": 98831,
       "word": "大梦归离哭死我了",
@@ -46425,6 +46577,14 @@
       "onboard_time": 1731810980,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 92617,
+      "num": 250790,
+      "word": "张若昀 人在慌乱时显得特别忙",
+      "onboard_time": 1732018759,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 92407,
@@ -48643,6 +48803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 71468,
+      "num": 267118,
+      "word": "徐振轩直播",
+      "onboard_time": 1732020139,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71457,
       "num": 71457,
       "word": "院方回应更衣室发现隐藏摄像头",
@@ -49827,6 +49995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63428,
+      "num": 277277,
+      "word": "球迷冲场",
+      "onboard_time": 1732020080,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63330,
       "num": 304810,
       "word": "Fly狼尾造型",
@@ -49889,6 +50065,14 @@
       "onboard_time": 1731317240,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62799,
+      "num": 273487,
+      "word": "HR的工作是招聘不是相亲",
+      "onboard_time": 1732019061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62678,
@@ -51523,6 +51707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53036,
+      "num": 256209,
+      "word": "本场比赛第一脚射门来自国足",
+      "onboard_time": 1732019121,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53028,
       "num": 389281,
       "word": "为什么糖友需警惕带状疱疹",
@@ -53091,6 +53283,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 44916,
+      "num": 254046,
+      "word": "国足主场对阵日本主办方倡议文明观赛",
+      "onboard_time": 1732019538,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44909,
       "num": 288964,
       "word": "居民吐槽一段路半年挖开2次",
@@ -54401,6 +54601,14 @@
       "onboard_time": 1730395693,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 38945,
+      "num": 276372,
+      "word": "国足6分钟2人染黄",
+      "onboard_time": 1732019720,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 38940,
@@ -56921,6 +57129,14 @@
       "onboard_time": 1730550619,
       "rank": 29,
       "category": "社会新闻,剧集"
+    },
+    {
+      "raw_hot": 30744,
+      "num": 275243,
+      "word": "五问黑龙江老虎进村伤人",
+      "onboard_time": 1732019839,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30668,
@@ -60083,6 +60299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20504,
+      "num": 253401,
+      "word": "无票球迷跨千里场外为国足加油",
+      "onboard_time": 1732019239,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20483,
       "num": 24842,
       "word": "于适聊封神第二部姬发成长",
@@ -63009,6 +63233,14 @@
       "onboard_time": 1731667038,
       "rank": 14,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 10454,
+      "num": 287583,
+      "word": "互联网之光博览会盛大开幕",
+      "onboard_time": 1732020139,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 10416,
