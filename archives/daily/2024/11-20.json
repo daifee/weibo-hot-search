@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732051330551,
+  "endTime": 1732052224178,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -435,8 +435,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73010,
-      "num": 73010,
+      "raw_hot": 75605,
+      "num": 75605,
       "word": "被老虎咬伤村民家大门紧闭",
       "onboard_time": 1732047370,
       "rank": 9,
@@ -457,6 +457,14 @@
       "onboard_time": 1732001180,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58795,
+      "num": 31344,
+      "word": "马斯克将领导美国政府效率部",
+      "onboard_time": 1732049052,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57942,
@@ -531,14 +539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 35299,
-      "num": 31344,
-      "word": "马斯克将领导美国政府效率部",
-      "onboard_time": 1732049052,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35285,
       "num": 117790,
       "word": "包包生日",
@@ -547,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34503,
+      "num": 55656,
+      "word": "62岁飞行员返俄前和观众挥手告别",
+      "onboard_time": 1732050071,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 33026,
       "num": 745103,
       "word": "电力高速公路上的中巴友谊",
       "onboard_time": 1732020440,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32413,
-      "num": 55656,
-      "word": "62岁飞行员返俄前和观众挥手告别",
-      "onboard_time": 1732050071,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 31591,
@@ -643,6 +643,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 14375,
+      "num": 31542,
+      "word": "谁不想拥有水哥的树屋",
+      "onboard_time": 1732049231,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13176,
+      "num": 41115,
+      "word": "俄黑海舰队一军官汽车遭爆炸袭击",
+      "onboard_time": 1732051331,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12319,
       "num": 33439,
       "word": "袁一琦 好绝的毕业公演设计",
@@ -691,11 +707,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 5728,
-      "num": 31542,
-      "word": "谁不想拥有水哥的树屋",
-      "onboard_time": 1732049231,
-      "rank": 19,
+      "raw_hot": 5895,
+      "num": 28898,
+      "word": "水哥说长大后都是童年还的债",
+      "onboard_time": 1732052112,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
