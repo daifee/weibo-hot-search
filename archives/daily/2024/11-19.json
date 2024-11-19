@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1732023810377,
+  "endTime": 1732026173316,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -25,6 +25,14 @@
       "onboard_time": 1731986779,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2804270,
+      "num": 2804270,
+      "word": "国足1比3日本",
+      "onboard_time": 1732023742,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 2694028,
@@ -123,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1250985,
+      "num": 427275,
+      "word": "姐姐姐夫牵手了",
+      "onboard_time": 1732024221,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1218673,
       "num": 1218673,
       "word": "2岁男童下楼买糖时被人拐走",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 1001433,
-      "num": 385503,
+      "num": 386826,
       "word": "麦琳 不是好妻子但是好老公",
       "onboard_time": 1732009520,
       "rank": 10,
@@ -219,6 +235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 863057,
+      "num": 863057,
+      "word": "石云鹏回应小巷人家大结局没鹏飞",
+      "onboard_time": 1732021522,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 836627,
       "num": 283567,
       "word": "唯一纯白的茉莉花",
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 830078,
-      "num": 359375,
+      "num": 417830,
       "word": "医用卫生巾",
       "onboard_time": 1732013240,
       "rank": 13,
@@ -251,14 +275,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 815926,
-      "num": 815926,
-      "word": "石云鹏回应小巷人家大结局没鹏飞",
-      "onboard_time": 1732021522,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 809781,
       "num": 552318,
       "word": "九华山景区多只狗的脚被砍断",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 809380,
-      "num": 351555,
+      "num": 356697,
       "word": "释小龙近照",
       "onboard_time": 1732012040,
       "rank": 24,
@@ -305,6 +321,14 @@
       "onboard_time": 1731984800,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 719406,
+      "num": 425843,
+      "word": "范志毅看国足比赛吸上氧了",
+      "onboard_time": 1732022782,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 706549,
@@ -435,6 +459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 584761,
+      "num": 424008,
+      "word": "祝绪祝绪丹丹 祝绪祝绪丹",
+      "onboard_time": 1732024282,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 572420,
       "num": 340256,
       "word": "鹿晗对不起 关晓彤王安宇挺配的",
@@ -475,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 532272,
-      "num": 343152,
-      "word": "范志毅看国足比赛吸上氧了",
-      "onboard_time": 1732022782,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 516543,
       "num": 498974,
       "word": "葛夕身材好辣",
@@ -497,6 +521,14 @@
       "onboard_time": 1731983359,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 515472,
+      "num": 421618,
+      "word": "韦世豪牛",
+      "onboard_time": 1732024103,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 510232,
@@ -603,6 +635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 434821,
+      "num": 434821,
+      "word": "印尼vs沙特",
+      "onboard_time": 1732025183,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430507,
       "num": 343658,
       "word": "乐华大厦是杜华贷款买的",
@@ -641,6 +681,14 @@
       "onboard_time": 1732013299,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 416298,
+      "num": 416298,
+      "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
+      "onboard_time": 1732021821,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 413386,
@@ -771,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360590,
-      "num": 360590,
-      "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
-      "onboard_time": 1732021821,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 358913,
       "num": 333144,
       "word": "贺峻霖cue小宋回国",
@@ -792,6 +832,14 @@
       "word": "国足防守",
       "onboard_time": 1732019360,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 347611,
+      "num": 347611,
+      "word": "国足再战日本开局九分半差点进球",
+      "onboard_time": 1732025122,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -849,6 +897,14 @@
       "onboard_time": 1731936202,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321159,
+      "num": 321159,
+      "word": "王楚钦福冈总决赛宣传照",
+      "onboard_time": 1732023081,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 316289,
@@ -979,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286681,
+      "num": 286681,
+      "word": "官方通报民警将报警人关留置室逼和解",
+      "onboard_time": 1732023022,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 285043,
       "num": 285043,
       "word": "男子家暴妻子称尼龙绳抽打死不了人",
@@ -1083,6 +1147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 261795,
+      "num": 261795,
+      "word": "丁禹兮回应看狗都深情",
+      "onboard_time": 1732022782,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259316,
       "num": 259316,
       "word": "巴西首都27岁就被列入世界遗产名录",
@@ -1131,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251055,
+      "num": 251055,
+      "word": "孙颖莎福冈总决赛宣传照",
+      "onboard_time": 1732023683,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250105,
       "num": 250105,
       "word": "丁禹兮 拜拜不要再被抓到啦",
@@ -1139,12 +1219,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248753,
+      "num": 321664,
+      "word": "丁禹兮活该你红",
+      "onboard_time": 1732023861,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246561,
+      "num": 430967,
+      "word": "乌军首次使用美导弹系统袭击俄罗斯",
+      "onboard_time": 1732024584,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243107,
       "num": 329007,
       "word": "向佐要走颜值路线了",
       "onboard_time": 1731992000,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242340,
+      "num": 430321,
+      "word": "无人机找到疑似咬伤人东北虎热源",
+      "onboard_time": 1732024702,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237098,
@@ -1251,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222919,
-      "num": 222919,
-      "word": "丁禹兮回应看狗都深情",
-      "onboard_time": 1732022782,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222153,
       "num": 358228,
       "word": "仙台有树过审了",
@@ -1289,14 +1385,6 @@
       "onboard_time": 1731984978,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215791,
-      "num": 215791,
-      "word": "王楚钦福冈总决赛宣传照",
-      "onboard_time": 1732023081,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 215555,
@@ -1348,7 +1436,7 @@
     },
     {
       "raw_hot": 211785,
-      "num": 211785,
+      "num": 301348,
       "word": "朱志鑫生日live",
       "onboard_time": 1732017980,
       "rank": 37,
@@ -1531,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192383,
+      "num": 192383,
+      "word": "女子用过期眼药水视力降至0.1",
+      "onboard_time": 1732024464,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191800,
       "num": 333886,
       "word": "杨仕泽 祝绪丹不止微醺还断片",
@@ -1571,6 +1667,22 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 189367,
+      "num": 388088,
+      "word": "国足有进步了",
+      "onboard_time": 1732025543,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188027,
+      "num": 288150,
+      "word": "TVB台庆",
+      "onboard_time": 1732023442,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187228,
       "num": 187228,
       "word": "爷爷接孙女放学买1米长糖葫芦",
@@ -1585,14 +1697,6 @@
       "onboard_time": 1732000219,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185748,
-      "num": 185748,
-      "word": "官方通报民警将报警人关留置室逼和解",
-      "onboard_time": 1732023022,
-      "rank": 48,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 184986,
@@ -1731,14 +1835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177603,
-      "num": 177603,
-      "word": "TVB台庆",
-      "onboard_time": 1732023442,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177407,
       "num": 332028,
       "word": "虞书欣丁禹兮翻跳forhastik",
@@ -1753,6 +1849,14 @@
       "onboard_time": 1732004660,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176984,
+      "num": 420359,
+      "word": "酒后在足疗店死亡家属索赔194万",
+      "onboard_time": 1732025602,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176946,
@@ -1777,6 +1881,14 @@
       "onboard_time": 1732018700,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173961,
+      "num": 173961,
+      "word": "王大雷",
+      "onboard_time": 1732025663,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 173946,
@@ -1859,14 +1971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169107,
-      "num": 238125,
-      "word": "孙颖莎福冈总决赛宣传照",
-      "onboard_time": 1732023683,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168998,
       "num": 168998,
       "word": "甘肃一县月均新生儿不足5个",
@@ -1945,6 +2049,14 @@
       "onboard_time": 1731986120,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164270,
+      "num": 164270,
+      "word": "双城之战神仙二创",
+      "onboard_time": 1732026142,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 163475,
@@ -2176,14 +2288,6 @@
       "word": "退钱哥怒斥部分球迷为日本队加油",
       "onboard_time": 1731990321,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145070,
-      "num": 145070,
-      "word": "国足1比3日本",
-      "onboard_time": 1732023742,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -2483,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112610,
+      "num": 334950,
+      "word": "小巷人家宋莹是华妃转世",
+      "onboard_time": 1732023561,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111797,
       "num": 111797,
       "word": "被东北虎咬伤村民无截肢风险",
@@ -2521,6 +2633,14 @@
       "onboard_time": 1732014260,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104614,
+      "num": 387272,
+      "word": "落马局长家中桌椅都由老板买单",
+      "onboard_time": 1732025543,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102405,
@@ -2867,14 +2987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67876,
-      "num": 334950,
-      "word": "小巷人家宋莹是华妃转世",
-      "onboard_time": 1732023561,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66452,
       "num": 78555,
       "word": "李子柒谈对青少年的引导",
@@ -2993,6 +3105,14 @@
       "onboard_time": 1732010479,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55114,
+      "num": 1797996,
+      "word": "电力高速公路上的中巴友谊",
+      "onboard_time": 1732020440,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54963,
@@ -3313,14 +3433,6 @@
       "onboard_time": 1732000880,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36741,
-      "num": 1579833,
-      "word": "电力高速公路上的中巴友谊",
-      "onboard_time": 1732020440,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36442,
