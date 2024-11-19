@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1732000933112,
+  "endTime": 1732001903306,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -97,6 +97,14 @@
       "onboard_time": 1731940282,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1048690,
+      "num": 1048690,
+      "word": "被东北虎袭击老人头皮有撕裂伤",
+      "onboard_time": 1731996799,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1038857,
@@ -243,14 +251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 570353,
-      "num": 570353,
-      "word": "被东北虎袭击老人头皮有撕裂伤",
-      "onboard_time": 1731996799,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 549870,
       "num": 549870,
       "word": "国足要怎么踢才可能赢日本",
@@ -307,6 +307,22 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 498743,
+      "num": 498743,
+      "word": "赵丽颖 别逼我变成薛扇扇",
+      "onboard_time": 1732001180,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 498299,
+      "num": 498299,
+      "word": "华为Mate70价格",
+      "onboard_time": 1731996559,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 484690,
       "num": 484690,
       "word": "多方回应太原一社区多名干部分香烟",
@@ -353,14 +369,6 @@
       "onboard_time": 1731981259,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 442067,
-      "num": 442067,
-      "word": "华为Mate70价格",
-      "onboard_time": 1731996559,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 430507,
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252947,
+      "num": 396424,
+      "word": "90后把600万房款投入股市",
+      "onboard_time": 1731997700,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 243107,
       "num": 329007,
       "word": "向佐要走颜值路线了",
@@ -697,6 +713,14 @@
       "onboard_time": 1731983239,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 231620,
+      "num": 231620,
+      "word": "樊振东和王楚钦关于五花肉的故事",
+      "onboard_time": 1731999380,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 231056,
@@ -795,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206943,
+      "num": 206943,
+      "word": "本周五北京可买蛇墩墩",
+      "onboard_time": 1732000219,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206403,
       "num": 288085,
       "word": "大梦想家开机",
@@ -891,28 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189941,
-      "num": 396424,
-      "word": "90后把600万房款投入股市",
-      "onboard_time": 1731997700,
-      "rank": 18,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 186229,
       "num": 192456,
       "word": "女子推理社谈不合格卫生巾",
       "onboard_time": 1732000219,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186088,
-      "num": 186088,
-      "word": "樊振东和王楚钦关于五花肉的故事",
-      "onboard_time": 1731999380,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 184986,
@@ -929,6 +945,14 @@
       "onboard_time": 1731983057,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183045,
+      "num": 183045,
+      "word": "崔秀彬缺席年末",
+      "onboard_time": 1732001599,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 181824,
@@ -1051,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166338,
+      "num": 166338,
+      "word": "Zoom红温怒喷Cat",
+      "onboard_time": 1732000341,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166281,
       "num": 166281,
       "word": "太原一社区书记疑索香烟现场分赃",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1731990441,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163441,
-      "num": 163441,
-      "word": "Zoom红温怒喷Cat",
-      "onboard_time": 1732000341,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 163276,
@@ -1163,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157799,
+      "num": 157799,
+      "word": "白夜破晓芭莎大片",
+      "onboard_time": 1732001120,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 157630,
       "num": 256454,
       "word": "冈田将生高畑充希结婚",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1731988222,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155505,
+      "num": 155505,
+      "word": "重庆一区群发再婚后可生3孩短信",
+      "onboard_time": 1732001541,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154936,
@@ -1195,20 +1235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150694,
-      "num": 150694,
-      "word": "本周五北京可买蛇墩墩",
-      "onboard_time": 1732000219,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149275,
       "num": 149275,
       "word": "A股",
       "onboard_time": 1731995780,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146745,
+      "num": 297927,
+      "word": "曾舜晞网速",
+      "onboard_time": 1731999919,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 146156,
@@ -1257,6 +1297,22 @@
       "onboard_time": 1731996200,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 141190,
+      "num": 141190,
+      "word": "官方回应群发再婚后可生3孩短信",
+      "onboard_time": 1732000280,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 140197,
+      "num": 222520,
+      "word": "斗2唐三 恋爱脑",
+      "onboard_time": 1732000640,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 139846,
@@ -1331,14 +1387,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 130501,
-      "num": 130501,
-      "word": "官方回应群发再婚后可生3孩短信",
-      "onboard_time": 1732000280,
-      "rank": 49,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 128020,
       "num": 128020,
       "word": "战损妆配上张予曦的建模脸",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1731931100,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127234,
-      "num": 193652,
-      "word": "斗2唐三 恋爱脑",
-      "onboard_time": 1732000640,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 125700,
@@ -1563,20 +1603,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88148,
-      "num": 283306,
-      "word": "曾舜晞网速",
-      "onboard_time": 1731999919,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87966,
       "num": 87966,
       "word": "网传某国企员工上班不笑将被处罚",
       "onboard_time": 1731964692,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86519,
+      "num": 302072,
+      "word": "姚琛 我直播不是为了展示这个",
+      "onboard_time": 1732001239,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 83345,
@@ -1603,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80865,
+      "num": 464611,
+      "word": "外卖明明评分挺高为啥那么难吃",
+      "onboard_time": 1731999799,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80763,
       "num": 80763,
       "word": "愿你拥有这5种高能量心态",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1731927918,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76817,
+      "num": 222084,
+      "word": "上海网红餐厅被曝用亚硝酸盐",
+      "onboard_time": 1732000159,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 75030,
@@ -1691,14 +1747,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 63649,
-      "num": 193368,
-      "word": "上海网红餐厅被曝用亚硝酸盐",
-      "onboard_time": 1732000159,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 61967,
       "num": 61967,
       "word": "官方称野生老虎来源尚不明确",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1731984319,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59110,
+      "num": 222135,
+      "word": "2024LPL全明星官宣",
+      "onboard_time": 1732001359,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 58003,
@@ -1755,14 +1811,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 51001,
-      "num": 464611,
-      "word": "外卖明明评分挺高为啥那么难吃",
-      "onboard_time": 1731999799,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50479,
       "num": 318835,
       "word": "人造古城如何拖垮一家上市公司",
@@ -1795,6 +1843,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 48032,
+      "num": 560941,
+      "word": "依法严厉打击让偷拍者无孔可入",
+      "onboard_time": 1732000520,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46084,
       "num": 252895,
       "word": "詹俊说国足尽全力去拼就好",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1731957851,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44906,
+      "num": 393710,
+      "word": "国足对阵日本有60余名日媒记者",
+      "onboard_time": 1732000819,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 44360,
@@ -1875,7 +1939,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36418,
+      "raw_hot": 36442,
       "num": 558126,
       "word": "被老虎咬伤手的村民手术持续4小时",
       "onboard_time": 1732000760,
@@ -1963,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27069,
+      "num": 190648,
+      "word": "好东西排片",
+      "onboard_time": 1732001541,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26959,
       "num": 394128,
       "word": "用X200拍到了神级照片",
@@ -1995,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23195,
+      "num": 404245,
+      "word": "被老虎咬伤村民完成手术转入重症科",
+      "onboard_time": 1732001239,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23099,
       "num": 47455,
       "word": "李光洁 内娱河道英",
@@ -2017,14 +2097,6 @@
       "onboard_time": 1731954851,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21181,
-      "num": 560941,
-      "word": "依法严厉打击让偷拍者无孔可入",
-      "onboard_time": 1732000520,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21045,
@@ -2193,14 +2265,6 @@
       "onboard_time": 1731937041,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6373,
-      "num": 393710,
-      "word": "国足对阵日本有60余名日媒记者",
-      "onboard_time": 1732000819,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 5375,

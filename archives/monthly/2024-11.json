@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732000933112,
+  "endTime": 1732001903306,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3777,6 +3777,14 @@
       "onboard_time": 1731504200,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1048690,
+      "num": 1048690,
+      "word": "被东北虎袭击老人头皮有撕裂伤",
+      "onboard_time": 1731996799,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1047505,
@@ -9427,14 +9435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 570353,
-      "num": 570353,
-      "word": "被东北虎袭击老人头皮有撕裂伤",
-      "onboard_time": 1731996799,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 570151,
       "num": 570151,
       "word": "窦骁中国杯帆船赛夺冠",
@@ -11035,12 +11035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498743,
+      "num": 498743,
+      "word": "赵丽颖 别逼我变成薛扇扇",
+      "onboard_time": 1732001180,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498510,
       "num": 498510,
       "word": "央视揭秘职业闭店人黑产链",
       "onboard_time": 1731844518,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 498299,
+      "num": 498299,
+      "word": "华为Mate70价格",
+      "onboard_time": 1731996559,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 498213,
@@ -12481,14 +12497,6 @@
       "onboard_time": 1731139517,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 442067,
-      "num": 442067,
-      "word": "华为Mate70价格",
-      "onboard_time": 1731996559,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 441679,
@@ -20219,6 +20227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252947,
+      "num": 396424,
+      "word": "90后把600万房款投入股市",
+      "onboard_time": 1731997700,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 252923,
       "num": 214915,
       "word": "白夜破晓全阵容官宣",
@@ -21768,6 +21784,14 @@
       "word": "郑钦文回应再次不敌萨巴伦卡",
       "onboard_time": 1730594419,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231620,
+      "num": 231620,
+      "word": "樊振东和王楚钦关于五花肉的故事",
+      "onboard_time": 1731999380,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -24273,6 +24297,14 @@
       "onboard_time": 1730950341,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206943,
+      "num": 206943,
+      "word": "本周五北京可买蛇墩墩",
+      "onboard_time": 1732000219,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 206939,
@@ -27627,14 +27659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189941,
-      "num": 396424,
-      "word": "90后把600万房款投入股市",
-      "onboard_time": 1731997700,
-      "rank": 18,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 189932,
       "num": 189932,
       "word": "税务师法律",
@@ -28307,14 +28331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186088,
-      "num": 186088,
-      "word": "樊振东和王楚钦关于五花肉的故事",
-      "onboard_time": 1731999380,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "妈妈一个人改造了女儿的房间",
@@ -28833,6 +28849,14 @@
       "onboard_time": 1731234019,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183045,
+      "num": 183045,
+      "word": "崔秀彬缺席年末",
+      "onboard_time": 1732001599,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 182893,
@@ -31875,6 +31899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166338,
+      "num": 166338,
+      "word": "Zoom红温怒喷Cat",
+      "onboard_time": 1732000341,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166329,
       "num": 189820,
       "word": "刘诗诗时装十二月封面",
@@ -32497,14 +32529,6 @@
       "onboard_time": 1731990441,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163441,
-      "num": 163441,
-      "word": "Zoom红温怒喷Cat",
-      "onboard_time": 1732000341,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 163422,
@@ -33795,6 +33819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157799,
+      "num": 157799,
+      "word": "白夜破晓芭莎大片",
+      "onboard_time": 1732001120,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 157777,
       "num": 157777,
       "word": "陈梦说自己无惧攻击和议论",
@@ -34297,6 +34329,14 @@
       "onboard_time": 1731021917,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155505,
+      "num": 155505,
+      "word": "重庆一区群发再婚后可生3孩短信",
+      "onboard_time": 1732001541,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155468,
@@ -35475,14 +35515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150694,
-      "num": 150694,
-      "word": "本周五北京可买蛇墩墩",
-      "onboard_time": 1732000219,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150687,
       "num": 150687,
       "word": "金价跌破2620美元",
@@ -36329,6 +36361,14 @@
       "onboard_time": 1731117138,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146745,
+      "num": 297927,
+      "word": "曾舜晞网速",
+      "onboard_time": 1731999919,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 146738,
@@ -37411,6 +37451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141190,
+      "num": 141190,
+      "word": "官方回应群发再婚后可生3孩短信",
+      "onboard_time": 1732000280,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 141145,
       "num": 141145,
       "word": "王源叫谢可寅shaking",
@@ -37633,6 +37681,14 @@
       "onboard_time": 1731595942,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140197,
+      "num": 222520,
+      "word": "斗2唐三 恋爱脑",
+      "onboard_time": 1732000640,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 140142,
@@ -39507,14 +39563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130501,
-      "num": 130501,
-      "word": "官方回应群发再婚后可生3孩短信",
-      "onboard_time": 1732000280,
-      "rank": 49,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 130474,
       "num": 162468,
       "word": "长生嬴政绕后",
@@ -40041,14 +40089,6 @@
       "onboard_time": 1730891722,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127234,
-      "num": 193652,
-      "word": "斗2唐三 恋爱脑",
-      "onboard_time": 1732000640,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 127232,
@@ -46179,14 +46219,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 88148,
-      "num": 283306,
-      "word": "曾舜晞网速",
-      "onboard_time": 1731999919,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88103,
       "num": 88103,
       "word": "向南不再是软柿子了",
@@ -46361,6 +46393,14 @@
       "onboard_time": 1731905301,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86519,
+      "num": 302072,
+      "word": "姚琛 我直播不是为了展示这个",
+      "onboard_time": 1732001239,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 86459,
@@ -47027,6 +47067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80865,
+      "num": 464611,
+      "word": "外卖明明评分挺高为啥那么难吃",
+      "onboard_time": 1731999799,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80809,
       "num": 382079,
       "word": "中介收200万造假文凭成本几毛",
@@ -47377,6 +47425,14 @@
       "onboard_time": 1731848120,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76817,
+      "num": 222084,
+      "word": "上海网红餐厅被曝用亚硝酸盐",
+      "onboard_time": 1732000159,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 76733,
@@ -49027,14 +49083,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 63649,
-      "num": 193368,
-      "word": "上海网红餐厅被曝用亚硝酸盐",
-      "onboard_time": 1732000159,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 63570,
       "num": 344997,
       "word": "全红婵说做好自己别人都会夸你",
@@ -49785,6 +49833,14 @@
       "onboard_time": 1731984319,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59110,
+      "num": 222135,
+      "word": "2024LPL全明星官宣",
+      "onboard_time": 1732001359,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 59103,
@@ -51163,14 +51219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51001,
-      "num": 464611,
-      "word": "外卖明明评分挺高为啥那么难吃",
-      "onboard_time": 1731999799,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50955,
       "num": 979128,
       "word": "直播间对对碰利润高达20%",
@@ -51641,6 +51689,14 @@
       "onboard_time": 1730758272,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48032,
+      "num": 560941,
+      "word": "依法严厉打击让偷拍者无孔可入",
+      "onboard_time": 1732000520,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48014,
@@ -52249,6 +52305,14 @@
       "onboard_time": 1731306738,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44906,
+      "num": 393710,
+      "word": "国足对阵日本有60余名日媒记者",
+      "onboard_time": 1732000819,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 44897,
@@ -54187,7 +54251,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 36418,
+      "raw_hot": 36442,
       "num": 558126,
       "word": "被老虎咬伤手的村民手术持续4小时",
       "onboard_time": 1732000760,
@@ -57003,6 +57067,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 27069,
+      "num": 190648,
+      "word": "好东西排片",
+      "onboard_time": 1732001541,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27062,
       "num": 796381,
       "word": "太空快递送去了哪些家乡货",
@@ -58179,6 +58251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23195,
+      "num": 404245,
+      "word": "被老虎咬伤村民完成手术转入重症科",
+      "onboard_time": 1732001239,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23191,
       "num": 168838,
       "word": "钟楚曦说邵艺辉随时随地刷微博",
@@ -58841,14 +58921,6 @@
       "onboard_time": 1730744892,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 21181,
-      "num": 560941,
-      "word": "依法严厉打击让偷拍者无孔可入",
-      "onboard_time": 1732000520,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21073,
@@ -62345,14 +62417,6 @@
       "onboard_time": 1731928159,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6373,
-      "num": 393710,
-      "word": "国足对阵日本有60余名日媒记者",
-      "onboard_time": 1732000819,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 6219,
