@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732041104059,
+  "endTime": 1732041916338,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -2611,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319346,
+      "num": 319346,
+      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+      "onboard_time": 1732036454,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319207,
       "num": 273602,
       "word": "姜妍是虞书欣的认证闺蜜",
@@ -2665,14 +2673,6 @@
       "onboard_time": 1731908898,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 312269,
-      "num": 312269,
-      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
-      "onboard_time": 1732036454,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310304,
@@ -10059,6 +10059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26990,
+      "num": 41304,
+      "word": "邵艺辉上桌",
+      "onboard_time": 1732041372,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26959,
       "num": 394128,
       "word": "用X200拍到了神级照片",
@@ -10145,6 +10153,14 @@
       "onboard_time": 1731808939,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24904,
+      "num": 41180,
+      "word": "朱志鑫MAMACITA舞蹈cover",
+      "onboard_time": 1732041432,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 24738,
@@ -10403,6 +10419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20731,
+      "num": 41038,
+      "word": "朱从玖受贿1.05亿余元被判无期",
+      "onboard_time": 1732041252,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 20576,
       "num": 246086,
       "word": "飞行教员看徒弟航展表演有多自豪",
@@ -10577,6 +10601,14 @@
       "onboard_time": 1732005438,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17541,
+      "num": 75829,
+      "word": "建设一个共同发展的公正世界",
+      "onboard_time": 1732041132,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17521,
@@ -10945,6 +10977,14 @@
       "onboard_time": 1731870911,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11049,
+      "num": 51361,
+      "word": "钥和卓沅一起创造专属记忆",
+      "onboard_time": 1732038792,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 11005,
