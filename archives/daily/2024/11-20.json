@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732054920403,
+  "endTime": 1732056054793,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -51,6 +51,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 537483,
+      "num": 537483,
+      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+      "onboard_time": 1732036454,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532404,
       "num": 532404,
       "word": "国足所在小组彻底乱了",
@@ -89,14 +97,6 @@
       "onboard_time": 1732034836,
       "rank": 3,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 349467,
-      "num": 401071,
-      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
-      "onboard_time": 1732036454,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 344425,
@@ -171,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207221,
+      "num": 207221,
+      "word": "被老虎咬伤村民家大门紧闭",
+      "onboard_time": 1732047370,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183729,
       "num": 183729,
       "word": "国足进球了",
@@ -203,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164184,
+      "num": 84624,
+      "word": "离职小蜜蜂老师称还想加入教师行列",
+      "onboard_time": 1732034176,
+      "rank": 45,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 161371,
       "num": 161371,
       "word": "请不遗余力照顾好自己",
       "onboard_time": 1732031479,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146494,
+      "num": 146494,
+      "word": "海关截获超9000吨洋垃圾",
+      "onboard_time": 1732053912,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144758,
@@ -243,14 +267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137892,
-      "num": 137892,
-      "word": "被老虎咬伤村民家大门紧闭",
-      "onboard_time": 1732047370,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135391,
       "num": 135391,
       "word": "丁禹兮捡垃圾差点把建构甲弄坏",
@@ -259,8 +275,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128719,
-      "num": 42365,
+      "raw_hot": 131071,
+      "num": 54233,
       "word": "马斯克将领导美国政府效率部",
       "onboard_time": 1732049052,
       "rank": 20,
@@ -297,14 +313,6 @@
       "onboard_time": 1732030040,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103387,
-      "num": 84624,
-      "word": "离职小蜜蜂老师称还想加入教师行列",
-      "onboard_time": 1732034176,
-      "rank": 45,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 101644,
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60129,
+      "num": 60129,
+      "word": "水哥说长大后都是童年还的债",
+      "onboard_time": 1732052112,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57942,
       "num": 262650,
       "word": "赵小童愿红包能早日觅得一心上狗",
@@ -489,6 +505,14 @@
       "onboard_time": 1732034716,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53045,
+      "num": 57337,
+      "word": "时隔37天星舰进行第六次试飞",
+      "onboard_time": 1732037833,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51956,
@@ -515,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41903,
-      "num": 42382,
-      "word": "水哥说长大后都是童年还的债",
-      "onboard_time": 1732052112,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 41795,
       "num": 72422,
       "word": "林一 沈月你少看点士兵突击吧",
@@ -539,12 +555,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36965,
-      "num": 57337,
-      "word": "时隔37天星舰进行第六次试飞",
-      "onboard_time": 1732037833,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 38770,
+      "num": 55656,
+      "word": "62岁飞行员返俄前和观众挥手告别",
+      "onboard_time": 1732050071,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 38426,
+      "num": 41115,
+      "word": "俄黑海舰队一军官汽车遭爆炸袭击",
+      "onboard_time": 1732051331,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36178,
+      "num": 36178,
+      "word": "重庆市卫健委回应群发短信宣传政策无误",
+      "onboard_time": 1732042272,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 35285,
@@ -555,28 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34817,
-      "num": 65748,
-      "word": "海关截获超9000吨洋垃圾",
-      "onboard_time": 1732053912,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34738,
-      "num": 34738,
+      "raw_hot": 34842,
+      "num": 34842,
       "word": "团伙回收洋垃圾制作衣服和日常用品",
       "onboard_time": 1732051449,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34503,
-      "num": 55656,
-      "word": "62岁飞行员返俄前和观众挥手告别",
-      "onboard_time": 1732050071,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 33026,
@@ -593,14 +609,6 @@
       "onboard_time": 1732034895,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29120,
-      "num": 41115,
-      "word": "俄黑海舰队一军官汽车遭爆炸袭击",
-      "onboard_time": 1732051331,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27529,
@@ -627,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26063,
-      "num": 26063,
-      "word": "重庆市卫健委回应群发短信宣传政策无误",
-      "onboard_time": 1732042272,
-      "rank": 37,
-      "category": "舆论监督"
+      "raw_hot": 25636,
+      "num": 31542,
+      "word": "谁不想拥有水哥的树屋",
+      "onboard_time": 1732049231,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24904,
@@ -659,14 +667,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 20596,
-      "num": 31542,
-      "word": "谁不想拥有水哥的树屋",
-      "onboard_time": 1732049231,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 19881,
       "num": 75829,
       "word": "建设一个共同发展的公正世界",
@@ -681,6 +681,22 @@
       "onboard_time": 1732043531,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18802,
+      "num": 40939,
+      "word": "大牯牛山走红后垃圾遍地",
+      "onboard_time": 1732053251,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16560,
+      "num": 95976,
+      "word": "打卡冬日里的美丽中国",
+      "onboard_time": 1732055172,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12319,
