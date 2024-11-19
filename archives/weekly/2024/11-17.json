@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732033738304,
+  "endTime": 1732034733074,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -1899,6 +1899,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 444969,
+      "num": 386485,
+      "word": "歌手鹿晗",
+      "onboard_time": 1732030340,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443904,
       "num": 316632,
       "word": "张家界火灾遇难者系一家祖孙三代",
@@ -2176,14 +2184,6 @@
       "word": "范丞丞粉丝致范丞丞工作室的一封信",
       "onboard_time": 1731988222,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 386485,
-      "num": 386485,
-      "word": "歌手鹿晗",
-      "onboard_time": 1732030340,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2867,6 +2867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 286747,
+      "num": 286747,
+      "word": "国足所在小组彻底乱了",
+      "onboard_time": 1732032859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286681,
       "num": 354502,
       "word": "官方通报民警将报警人关留置室逼和解",
@@ -3067,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272396,
+      "num": 272396,
+      "word": "靠谱的国货卫生巾",
+      "onboard_time": 1732017920,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271697,
       "num": 271697,
       "word": "释小龙室外抽烟",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1731798793,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270977,
-      "num": 270977,
-      "word": "靠谱的国货卫生巾",
-      "onboard_time": 1732017920,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 270747,
@@ -5987,14 +5995,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 148920,
-      "num": 148920,
-      "word": "国足所在小组彻底乱了",
-      "onboard_time": 1732032859,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148630,
       "num": 276280,
       "word": "王皓回应王楚钦近期状态",
@@ -6380,7 +6380,7 @@
     },
     {
       "raw_hot": 139514,
-      "num": 178133,
+      "num": 240679,
       "word": "现在就出发直播",
       "onboard_time": 1732030998,
       "rank": 24,
@@ -7411,6 +7411,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 102424,
+      "num": 146206,
+      "word": "奥斯卡参加TVB台庆",
+      "onboard_time": 1732034236,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102413,
       "num": 140348,
       "word": "王祖蓝夫妇出席蔡少芬儿子生日宴",
@@ -7433,6 +7441,14 @@
       "onboard_time": 1731825978,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101431,
+      "num": 485337,
+      "word": "公园通报东北虎伤人事件",
+      "onboard_time": 1732032859,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 100228,
@@ -7529,6 +7545,14 @@
       "onboard_time": 1731826518,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 96916,
+      "num": 474395,
+      "word": "日本主帅说中国队很有潜力",
+      "onboard_time": 1732030340,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 96788,
@@ -7723,12 +7747,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88896,
-      "num": 485337,
-      "word": "公园通报东北虎伤人事件",
-      "onboard_time": 1732032859,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 88262,
+      "num": 136704,
+      "word": "付出型的含金量持续上升",
+      "onboard_time": 1732033457,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 88236,
@@ -7769,14 +7793,6 @@
       "onboard_time": 1731816258,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 87694,
-      "num": 87694,
-      "word": "付出型的含金量持续上升",
-      "onboard_time": 1732033457,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 86903,
@@ -7824,14 +7840,6 @@
       "word": "国足结束2024年征程",
       "onboard_time": 1732027281,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 83893,
-      "num": 474395,
-      "word": "日本主帅说中国队很有潜力",
-      "onboard_time": 1732030340,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -8155,6 +8163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70239,
+      "num": 70239,
+      "word": "离职小蜜蜂老师称还想加入教师行列",
+      "onboard_time": 1732034176,
+      "rank": 45,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 69763,
       "num": 336805,
       "word": "罗云熙照片不发会过期",
@@ -8441,6 +8457,14 @@
       "onboard_time": 1731972916,
       "rank": 49,
       "category": "运动健身,体育"
+    },
+    {
+      "raw_hot": 57942,
+      "num": 262650,
+      "word": "赵小童愿红包能早日觅得一心上狗",
+      "onboard_time": 1732033516,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 57725,
@@ -8769,14 +8793,6 @@
       "onboard_time": 1731836118,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50900,
-      "num": 262650,
-      "word": "赵小童愿红包能早日觅得一心上狗",
-      "onboard_time": 1732033516,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 50793,
@@ -9529,6 +9545,14 @@
       "onboard_time": 1732000399,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33799,
+      "num": 132841,
+      "word": "朱志鑫19岁第一天有很多爱与陪伴",
+      "onboard_time": 1732034716,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 33798,

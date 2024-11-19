@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732033738304,
+  "endTime": 1732034733074,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -59,20 +59,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444969,
+      "num": 386485,
+      "word": "歌手鹿晗",
+      "onboard_time": 1732030340,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420049,
       "num": 420049,
       "word": "Doran加入T1",
       "onboard_time": 1732028001,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 386485,
-      "num": 386485,
-      "word": "歌手鹿晗",
-      "onboard_time": 1732030340,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 344425,
@@ -115,16 +115,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275701,
-      "num": 275701,
+      "raw_hot": 298522,
+      "num": 298522,
       "word": "麦琳 不是好妻子但是好老公",
       "onboard_time": 1732009520,
       "rank": 17,
       "category": "综艺"
     },
     {
-      "raw_hot": 270977,
-      "num": 270977,
+      "raw_hot": 286747,
+      "num": 286747,
+      "word": "国足所在小组彻底乱了",
+      "onboard_time": 1732032859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 272396,
+      "num": 272396,
       "word": "靠谱的国货卫生巾",
       "onboard_time": 1732017920,
       "rank": 18,
@@ -171,20 +179,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165764,
+      "num": 165764,
+      "word": "丁禹兮回应看狗都深情",
+      "onboard_time": 1732022782,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161371,
       "num": 161371,
       "word": "请不遗余力照顾好自己",
       "onboard_time": 1732031479,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148920,
-      "num": 148920,
-      "word": "国足所在小组彻底乱了",
-      "onboard_time": 1732032859,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 144758,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 139514,
-      "num": 178133,
+      "num": 240679,
       "word": "现在就出发直播",
       "onboard_time": 1732030998,
       "rank": 24,
@@ -243,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102424,
+      "num": 146206,
+      "word": "奥斯卡参加TVB台庆",
+      "onboard_time": 1732034236,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101644,
       "num": 166147,
       "word": "珠帘玉幕 赵露思写真集",
       "onboard_time": 1732017859,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101431,
+      "num": 485337,
+      "word": "公园通报东北虎伤人事件",
+      "onboard_time": 1732032859,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 98959,
@@ -273,6 +297,14 @@
       "onboard_time": 1732003400,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96916,
+      "num": 96916,
+      "word": "日本主帅说中国队很有潜力",
+      "onboard_time": 1732030340,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 96444,
@@ -315,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88896,
-      "num": 485337,
-      "word": "公园通报东北虎伤人事件",
-      "onboard_time": 1732032859,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 88825,
       "num": 88825,
       "word": "张真源微醺了",
@@ -331,8 +355,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87694,
-      "num": 87694,
+      "raw_hot": 88262,
+      "num": 136704,
       "word": "付出型的含金量持续上升",
       "onboard_time": 1732033457,
       "rank": 44,
@@ -345,14 +369,6 @@
       "onboard_time": 1732014200,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83893,
-      "num": 83893,
-      "word": "日本主帅说中国队很有潜力",
-      "onboard_time": 1732030340,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 82096,
@@ -379,6 +395,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70239,
+      "num": 70239,
+      "word": "离职小蜜蜂老师称还想加入教师行列",
+      "onboard_time": 1732034176,
+      "rank": 45,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 63659,
+      "num": 63659,
+      "word": "赵丽颖 别逼我变成薛扇扇",
+      "onboard_time": 1732001180,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57942,
+      "num": 262650,
+      "word": "赵小童愿红包能早日觅得一心上狗",
+      "onboard_time": 1732033516,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51956,
       "num": 91926,
       "word": "陈奕迅被唱歌耽误的功夫大师",
@@ -387,11 +427,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50900,
-      "num": 262650,
-      "word": "赵小童愿红包能早日觅得一心上狗",
-      "onboard_time": 1732033516,
-      "rank": 19,
+      "raw_hot": 33799,
+      "num": 132841,
+      "word": "朱志鑫19岁第一天有很多爱与陪伴",
+      "onboard_time": 1732034716,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#我立志要办成的一件大事#"
+    },
+    {
+      "word": "#习近平秘鲁巴西行#"
     }
   ]
 }
