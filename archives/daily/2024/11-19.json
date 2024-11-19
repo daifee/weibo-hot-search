@@ -1,12 +1,20 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731987415594,
+  "endTime": 1731988222965,
   "band_list": [
     {
       "raw_hot": 4726710,
       "num": 4726710,
       "word": "湖南常德一学校门口发生撞人事件",
       "onboard_time": 1731980419,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2916588,
+      "num": 2916588,
+      "word": "浙江发生重大刑案54岁男子在逃",
+      "onboard_time": 1731986779,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -19,20 +27,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1415138,
-      "num": 645503,
-      "word": "四川14岁学生晨跑倒地后脑死亡",
-      "onboard_time": 1731983479,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1239900,
-      "num": 388921,
+      "raw_hot": 2085091,
+      "num": 424214,
       "word": "许凯被审判",
       "onboard_time": 1731986540,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1594129,
+      "num": 234787,
+      "word": "特朗普政府将宣布美国进入紧急状态",
+      "onboard_time": 1731986299,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1415138,
+      "num": 679958,
+      "word": "四川14岁学生晨跑倒地后脑死亡",
+      "onboard_time": 1731983479,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1211083,
@@ -75,20 +91,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 751747,
+      "num": 233051,
+      "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+      "onboard_time": 1731985580,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 736155,
       "num": 736155,
       "word": "为什么癌症早期一般没有征兆",
       "onboard_time": 1731976520,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 734595,
-      "num": 203346,
-      "word": "特朗普政府将宣布美国进入紧急状态",
-      "onboard_time": 1731986299,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 727741,
@@ -99,20 +115,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 697349,
-      "num": 200778,
-      "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
-      "onboard_time": 1731985580,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 691315,
       "num": 883544,
       "word": "挖呀挖黄老师怒怼营销号",
       "onboard_time": 1731941241,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 677827,
+      "num": 677827,
+      "word": "45名反中乱港分子被判刑",
+      "onboard_time": 1731986120,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 651873,
@@ -129,22 +145,6 @@
       "onboard_time": 1731942920,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 613376,
-      "num": 613376,
-      "word": "浙江发生重大刑案54岁男子在逃",
-      "onboard_time": 1731986779,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 606292,
-      "num": 606292,
-      "word": "45名反中乱港分子被判刑",
-      "onboard_time": 1731986120,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 572420,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 517072,
-      "num": 198491,
+      "num": 231821,
       "word": "冰墩墩变身蛇墩墩",
       "onboard_time": 1731986059,
       "rank": 24,
@@ -211,12 +211,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 469427,
-      "num": 387869,
+      "raw_hot": 483550,
+      "num": 483550,
       "word": "打假良品铺子博主称看完调查很寒心",
       "onboard_time": 1731983658,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 456050,
+      "num": 214346,
+      "word": "北京月租7000的房子",
+      "onboard_time": 1731986179,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 445687,
@@ -224,6 +232,14 @@
       "word": "打假博主称将再送检良品铺子",
       "onboard_time": 1731981259,
       "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 423801,
+      "num": 423801,
+      "word": "给学生戴小蜜蜂别又是秦朗事件",
+      "onboard_time": 1731983359,
+      "rank": 24,
       "category": "舆论监督"
     },
     {
@@ -249,22 +265,6 @@
       "onboard_time": 1731938720,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386175,
-      "num": 194390,
-      "word": "北京月租7000的房子",
-      "onboard_time": 1731986179,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 378862,
-      "num": 378862,
-      "word": "给学生戴小蜜蜂别又是秦朗事件",
-      "onboard_time": 1731983359,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 342907,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303319,
+      "num": 424954,
+      "word": "朴彩英二单",
+      "onboard_time": 1731986120,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294783,
       "num": 204120,
       "word": "虞书欣丁禹兮双人古风大片",
@@ -345,14 +353,6 @@
       "onboard_time": 1731947417,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284646,
-      "num": 391259,
-      "word": "朴彩英二单",
-      "onboard_time": 1731986120,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 281463,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211195,
+      "num": 211195,
+      "word": "无锡持刀伤人案嫌疑人不止一人为谣言",
+      "onboard_time": 1731987560,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 211141,
       "num": 211141,
       "word": "巴西首都27岁就被列入世界遗产名录",
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209439,
+      "num": 248860,
+      "word": "林一说现偶关键在男主爱女主",
+      "onboard_time": 1731987199,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207056,
       "num": 231468,
       "word": "环球影城偶遇古力娜扎",
@@ -499,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204585,
-      "num": 204585,
+      "raw_hot": 205834,
+      "num": 235512,
       "word": "宋亚轩翻牌",
       "onboard_time": 1731986059,
       "rank": 18,
@@ -531,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200018,
+      "num": 200018,
+      "word": "年轻人有自己的晒谷文学",
+      "onboard_time": 1731987320,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199971,
       "num": 258919,
       "word": "身体有5个寒气入口",
@@ -553,14 +577,6 @@
       "onboard_time": 1731984018,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191438,
-      "num": 191438,
-      "word": "年轻人有自己的晒谷文学",
-      "onboard_time": 1731987320,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 184986,
@@ -627,6 +643,14 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 171919,
+      "num": 171919,
+      "word": "宁夏银川发生多车相撞交通事故",
+      "onboard_time": 1731987141,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 171752,
       "num": 171752,
       "word": "永安小学",
@@ -651,8 +675,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166277,
+      "num": 166277,
+      "word": "肖战新歌漂流歌词",
+      "onboard_time": 1731987981,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165365,
-      "num": 197991,
+      "num": 237031,
       "word": "时代少年团微博互动",
       "onboard_time": 1731986120,
       "rank": 25,
@@ -715,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150093,
+      "num": 150093,
+      "word": "BLG与T1角逐TGA最佳电竞俱乐部",
+      "onboard_time": 1731988162,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144819,
       "num": 144819,
       "word": "小蜜蜂老师离职事件疑云重重",
@@ -731,28 +771,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 142952,
-      "num": 142952,
-      "word": "宁夏银川发生多车相撞交通事故",
-      "onboard_time": 1731987141,
-      "rank": 46,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 142601,
       "num": 142601,
       "word": "特朗普提名达菲担任交通部长",
       "onboard_time": 1731982398,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 139892,
-      "num": 139892,
-      "word": "林一说现偶关键在男主爱女主",
-      "onboard_time": 1731987199,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 139846,
@@ -825,6 +849,14 @@
       "onboard_time": 1731931100,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125700,
+      "num": 228881,
+      "word": "国足最近一次赢日本是1998年",
+      "onboard_time": 1731987861,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 125569,
@@ -1083,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71951,
+      "num": 217516,
+      "word": "郭俊辰看代拍吵架憋出内伤",
+      "onboard_time": 1731987981,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70452,
       "num": 255681,
       "word": "丁真诉网友侵权",
@@ -1139,6 +1179,14 @@
       "category": "运动健身,体育"
     },
     {
+      "raw_hot": 56952,
+      "num": 225135,
+      "word": "黑神话获TGA四项提名",
+      "onboard_time": 1731986779,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52334,
       "num": 52334,
       "word": "卫生巾质量",
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 49157,
-      "num": 197289,
+      "num": 226797,
       "word": "LOL冬季转会期已开始",
       "onboard_time": 1731986779,
       "rank": 27,
@@ -1187,6 +1235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 40667,
+      "num": 424294,
+      "word": "各类珍稀动物上镜率不断提升",
+      "onboard_time": 1731987442,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 40585,
       "num": 40585,
       "word": "中国支持全球发展的八项行动",
@@ -1195,12 +1251,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38609,
-      "num": 196491,
-      "word": "黑神话获TGA四项提名",
-      "onboard_time": 1731986779,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 40246,
+      "num": 236643,
+      "word": "显眼包碰显眼杯",
+      "onboard_time": 1731986240,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 39821,
+      "num": 236764,
+      "word": "前国脚李毅说今晚国足核心是防守",
+      "onboard_time": 1731987621,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 38083,
@@ -1227,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34238,
+      "num": 227963,
+      "word": "国足对日本若拿分是超额完成任务",
+      "onboard_time": 1731987621,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33692,
       "num": 342733,
       "word": "黎真主党袭击以色列致1死30伤",
@@ -1241,14 +1313,6 @@
       "onboard_time": 1731961751,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32973,
-      "num": 203671,
-      "word": "显眼包碰显眼杯",
-      "onboard_time": 1731986240,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 31113,
@@ -1363,6 +1427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12946,
+      "num": 681402,
+      "word": "一组图了解多彩巴西",
+      "onboard_time": 1731987981,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 10640,
       "num": 1008374,
       "word": "一个视频带你了解G20",
@@ -1431,6 +1503,9 @@
     },
     {
       "word": "#关于全球治理机构改革议题的讲话#"
+    },
+    {
+      "word": "#中国支持全球发展的八项行动#"
     }
   ]
 }
