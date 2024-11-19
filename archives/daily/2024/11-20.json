@@ -1,7 +1,15 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732058553417,
+  "endTime": 1732059458403,
   "band_list": [
+    {
+      "raw_hot": 1330013,
+      "num": 1330013,
+      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+      "onboard_time": 1732036454,
+      "rank": 44,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1079048,
       "num": 1079048,
@@ -9,14 +17,6 @@
       "onboard_time": 1732028600,
       "rank": 0,
       "category": "数码,网红"
-    },
-    {
-      "raw_hot": 1072612,
-      "num": 1072612,
-      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
-      "onboard_time": 1732036454,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 875408,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 670327,
-      "num": 245326,
+      "raw_hot": 684274,
+      "num": 476104,
       "word": "离职小蜜蜂老师称还想加入教师行列",
       "onboard_time": 1732034176,
       "rank": 45,
@@ -75,6 +75,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 473219,
+      "num": 473219,
+      "word": "王大发说丁禹兮火不久",
+      "onboard_time": 1732059196,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 471795,
+      "num": 471795,
+      "word": "被老虎咬伤村民家大门紧闭",
+      "onboard_time": 1732047370,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447425,
       "num": 447425,
       "word": "祝绪祝绪丹丹 祝绪祝绪丹",
@@ -91,20 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423311,
-      "num": 423311,
-      "word": "被老虎咬伤村民家大门紧闭",
-      "onboard_time": 1732047370,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 420049,
       "num": 420049,
       "word": "Doran加入T1",
       "onboard_time": 1732028001,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 383052,
+      "num": 532066,
+      "word": "宋莹经典台词是蒋欣即兴发挥",
+      "onboard_time": 1732026322,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 371030,
@@ -124,19 +140,11 @@
     },
     {
       "raw_hot": 337396,
-      "num": 337396,
+      "num": 491286,
       "word": "海关截获超9000吨洋垃圾",
       "onboard_time": 1732053912,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 335854,
-      "num": 532066,
-      "word": "宋莹经典台词是蒋欣即兴发挥",
-      "onboard_time": 1732026322,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 321140,
@@ -195,12 +203,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 202622,
-      "num": 109930,
+      "raw_hot": 240538,
+      "num": 189670,
       "word": "马斯克将领导美国政府效率部",
       "onboard_time": 1732049052,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229481,
+      "num": 229481,
+      "word": "官方通报民警将报警人关留置室逼和解",
+      "onboard_time": 1732023022,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 189229,
+      "num": 189229,
+      "word": "站姐拍的虞书欣丁禹兮",
+      "onboard_time": 1732059377,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183729,
@@ -219,11 +243,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178595,
-      "num": 178595,
-      "word": "官方通报民警将报警人关留置室逼和解",
-      "onboard_time": 1732023022,
-      "rank": 35,
+      "raw_hot": 179119,
+      "num": 179119,
+      "word": "朱从玖受贿1.05亿余元被判无期",
+      "onboard_time": 1732041252,
+      "rank": 29,
       "category": "辟谣/通报"
     },
     {
@@ -251,12 +275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144819,
-      "num": 144819,
-      "word": "朱从玖受贿1.05亿余元被判无期",
-      "onboard_time": 1732041252,
-      "rank": 29,
-      "category": "辟谣/通报"
+      "raw_hot": 150972,
+      "num": 150972,
+      "word": "女子用过期眼药水视力降至0.1",
+      "onboard_time": 1732024464,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144758,
@@ -267,12 +291,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143978,
+      "num": 143978,
+      "word": "时隔37天星舰进行第六次试飞",
+      "onboard_time": 1732037833,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141105,
       "num": 215024,
       "word": "奥斯卡参加TVB台庆",
       "onboard_time": 1732034236,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139957,
+      "num": 177392,
+      "word": "降低身体慢性炎症的2个方法",
+      "onboard_time": 1732017260,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139514,
@@ -291,12 +331,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137465,
+      "num": 193640,
+      "word": "水哥说长大后都是童年还的债",
+      "onboard_time": 1732052112,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136855,
+      "num": 111173,
+      "word": "Rookie说Ben找他诉苦",
+      "onboard_time": 1732058837,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135391,
       "num": 135391,
       "word": "丁禹兮捡垃圾差点把建构甲弄坏",
       "onboard_time": 1732036813,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133137,
+      "num": 133137,
+      "word": "男生看见雷军直接递上简历",
+      "onboard_time": 1732059076,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 125994,
@@ -307,40 +371,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125599,
-      "num": 125599,
-      "word": "水哥说长大后都是童年还的债",
-      "onboard_time": 1732052112,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122928,
-      "num": 177392,
-      "word": "降低身体慢性炎症的2个方法",
-      "onboard_time": 1732017260,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 116483,
-      "num": 116483,
-      "word": "女子用过期眼药水视力降至0.1",
-      "onboard_time": 1732024464,
-      "rank": 34,
+      "raw_hot": 122147,
+      "num": 122147,
+      "word": "落马局长家中桌椅都由老板买单",
+      "onboard_time": 1732025543,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111095,
-      "num": 111095,
-      "word": "时隔37天星舰进行第六次试飞",
-      "onboard_time": 1732037833,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 109978,
-      "num": 109978,
+      "raw_hot": 119206,
+      "num": 119206,
       "word": "杜华每个月都要为乐华大厦还贷款",
       "onboard_time": 1732011861,
       "rank": 47,
@@ -475,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79296,
-      "num": 79296,
-      "word": "落马局长家中桌椅都由老板买单",
-      "onboard_time": 1732025543,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 79334,
+      "num": 79334,
+      "word": "重庆市卫健委回应群发短信宣传政策无误",
+      "onboard_time": 1732042272,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 78595,
@@ -491,12 +531,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65117,
-      "num": 65117,
-      "word": "重庆市卫健委回应群发短信宣传政策无误",
-      "onboard_time": 1732042272,
-      "rank": 37,
-      "category": "舆论监督"
+      "raw_hot": 75839,
+      "num": 75839,
+      "word": "俄黑海舰队一军官汽车遭爆炸袭击",
+      "onboard_time": 1732051331,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 70847,
+      "num": 483488,
+      "word": "给学生戴小蜜蜂的老师再次道歉",
+      "onboard_time": 1732058956,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 65896,
+      "num": 65896,
+      "word": "甘肃教育厅正在核实小蜜蜂老师身份",
+      "onboard_time": 1732059437,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 64962,
+      "num": 64962,
+      "word": "家长吐槽10元配餐简陋孩子吃不饱",
+      "onboard_time": 1732059437,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64714,
@@ -513,14 +577,6 @@
       "onboard_time": 1732001180,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59940,
-      "num": 59940,
-      "word": "俄黑海舰队一军官汽车遭爆炸袭击",
-      "onboard_time": 1732051331,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57942,
@@ -564,7 +620,7 @@
     },
     {
       "raw_hot": 50865,
-      "num": 50865,
+      "num": 63472,
       "word": "谁不想拥有水哥的树屋",
       "onboard_time": 1732049231,
       "rank": 19,
@@ -643,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30968,
+      "num": 480238,
+      "word": "森保一说国足很有潜力",
+      "onboard_time": 1732058655,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26990,
       "num": 41304,
       "word": "邵艺辉上桌",
@@ -713,6 +777,14 @@
       "onboard_time": 1732055172,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13744,
+      "num": 189900,
+      "word": "鹿晗ins晒定制话筒",
+      "onboard_time": 1732059257,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 12319,

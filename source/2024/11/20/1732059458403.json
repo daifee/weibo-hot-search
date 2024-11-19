@@ -1,0 +1,410 @@
+{
+  "runTime": 1732059458403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1330013,
+        "num": 1330013,
+        "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+        "onboard_time": 1732036454,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860865,
+        "num": 860865,
+        "word": "国足所在小组彻底乱了",
+        "onboard_time": 1732032859,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31081,
+        "num": 583077,
+        "word": "电力高速公路上的中巴友谊",
+        "onboard_time": 1732020440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514465,
+        "num": 514465,
+        "word": "何同学致歉",
+        "onboard_time": 1732028600,
+        "rank": 3,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 495210,
+        "num": 495210,
+        "word": "27岁女子祛斑手术10天后离世",
+        "onboard_time": 1732030159,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383052,
+        "num": 494291,
+        "word": "宋莹经典台词是蒋欣即兴发挥",
+        "onboard_time": 1732026322,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323846,
+        "num": 491286,
+        "word": "海关截获超9000吨洋垃圾",
+        "onboard_time": 1732053912,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296211,
+        "num": 486120,
+        "word": "石云鹏回应小巷人家大结局没鹏飞",
+        "onboard_time": 1732021522,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70847,
+        "num": 483488,
+        "word": "给学生戴小蜜蜂的老师再次道歉",
+        "onboard_time": 1732058956,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30968,
+        "num": 480238,
+        "word": "森保一说国足很有潜力",
+        "onboard_time": 1732058655,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684274,
+        "num": 476104,
+        "word": "离职小蜜蜂老师称还想加入教师行列",
+        "onboard_time": 1732034176,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 473219,
+        "num": 473219,
+        "word": "王大发说丁禹兮火不久",
+        "onboard_time": 1732059196,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 471795,
+        "num": 471795,
+        "word": "被老虎咬伤村民家大门紧闭",
+        "onboard_time": 1732047370,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395762,
+        "num": 395762,
+        "word": "ABC卫生巾",
+        "onboard_time": 1732028541,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248853,
+        "num": 248853,
+        "word": "歌手鹿晗",
+        "onboard_time": 1732030340,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229481,
+        "num": 229481,
+        "word": "官方通报民警将报警人关留置室逼和解",
+        "onboard_time": 1732023022,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 211258,
+        "num": 211258,
+        "word": "Zeus离队",
+        "onboard_time": 1732028120,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203974,
+        "num": 203974,
+        "word": "国足vs日本",
+        "onboard_time": 1732016119,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137465,
+        "num": 193640,
+        "word": "水哥说长大后都是童年还的债",
+        "onboard_time": 1732052112,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13744,
+        "num": 189900,
+        "word": "鹿晗ins晒定制话筒",
+        "onboard_time": 1732059257,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240538,
+        "num": 189670,
+        "word": "马斯克将领导美国政府效率部",
+        "onboard_time": 1732049052,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189229,
+        "num": 189229,
+        "word": "站姐拍的虞书欣丁禹兮",
+        "onboard_time": 1732059377,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179119,
+        "num": 179119,
+        "word": "朱从玖受贿1.05亿余元被判无期",
+        "onboard_time": 1732041252,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150972,
+        "num": 150972,
+        "word": "女子用过期眼药水视力降至0.1",
+        "onboard_time": 1732024464,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143978,
+        "num": 143978,
+        "word": "时隔37天星舰进行第六次试飞",
+        "onboard_time": 1732037833,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139957,
+        "num": 139957,
+        "word": "降低身体慢性炎症的2个方法",
+        "onboard_time": 1732017260,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133137,
+        "num": 133137,
+        "word": "男生看见雷军直接递上简历",
+        "onboard_time": 1732059076,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122147,
+        "num": 122147,
+        "word": "落马局长家中桌椅都由老板买单",
+        "onboard_time": 1732025543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119206,
+        "num": 119206,
+        "word": "杜华每个月都要为乐华大厦还贷款",
+        "onboard_time": 1732011861,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52772,
+        "num": 111902,
+        "word": "奥斯卡参加TVB台庆",
+        "onboard_time": 1732034236,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136855,
+        "num": 111173,
+        "word": "Rookie说Ben找他诉苦",
+        "onboard_time": 1732058837,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106508,
+        "num": 106508,
+        "word": "百雀羚",
+        "onboard_time": 1732028182,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 104960,
+        "num": 104960,
+        "word": "Doran加入T1",
+        "onboard_time": 1732028001,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100495,
+        "num": 100495,
+        "word": "靠谱的国货卫生巾",
+        "onboard_time": 1732017920,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96390,
+        "num": 96390,
+        "word": "酒后在足疗店死亡家属索赔194万",
+        "onboard_time": 1732025602,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89205,
+        "num": 89205,
+        "word": "医用卫生巾",
+        "onboard_time": 1732013240,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84086,
+        "num": 84086,
+        "word": "祝绪祝绪丹丹 祝绪祝绪丹",
+        "onboard_time": 1732024282,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82771,
+        "num": 82771,
+        "word": "国足进球了",
+        "onboard_time": 1732022062,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82681,
+        "num": 82681,
+        "word": "东北虎进村咬伤人事件背后",
+        "onboard_time": 1732039452,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79334,
+        "num": 79334,
+        "word": "重庆市卫健委回应群发短信宣传政策无误",
+        "onboard_time": 1732042272,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 78356,
+        "num": 78356,
+        "word": "刘亚仁因父亲去世请求减刑",
+        "onboard_time": 1732017020,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75839,
+        "num": 75839,
+        "word": "俄黑海舰队一军官汽车遭爆炸袭击",
+        "onboard_time": 1732051331,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71265,
+        "num": 71265,
+        "word": "2岁男童下楼买糖时被人拐走",
+        "onboard_time": 1732003400,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66623,
+        "num": 66623,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732024584,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65896,
+        "num": 65896,
+        "word": "甘肃教育厅正在核实小蜜蜂老师身份",
+        "onboard_time": 1732059437,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64962,
+        "num": 64962,
+        "word": "家长吐槽10元配餐简陋孩子吃不饱",
+        "onboard_time": 1732059437,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63889,
+        "num": 63889,
+        "word": "公园通报东北虎伤人事件",
+        "onboard_time": 1732032859,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 47862,
+        "num": 63472,
+        "word": "谁不想拥有水哥的树屋",
+        "onboard_time": 1732049231,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39310,
+        "num": 63296,
+        "word": "珠帘玉幕 赵露思写真集",
+        "onboard_time": 1732017859,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63130,
+        "num": 63130,
+        "word": "北上深均已取消普通住房标准",
+        "onboard_time": 1732029559,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马克龙#"
+    }
+  }
+}
