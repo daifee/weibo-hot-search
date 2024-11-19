@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732005012920,
+  "endTime": 1732005871325,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2979,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1218673,
+      "num": 1218673,
+      "word": "2岁男童下楼买糖时被人拐走",
+      "onboard_time": 1732003400,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1216987,
       "num": 1216987,
       "word": "兮妃回宫",
@@ -3881,6 +3889,14 @@
       "onboard_time": 1730906300,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1034951,
+      "num": 380707,
+      "word": "夫妻花19万去南极想睡一间房被拒",
+      "onboard_time": 1732004240,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1034579,
@@ -7017,14 +7033,6 @@
       "onboard_time": 1730891121,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 712172,
-      "num": 712172,
-      "word": "2岁男童下楼买糖时被人拐走",
-      "onboard_time": 1732003400,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 711022,
@@ -13291,6 +13299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413386,
+      "num": 234431,
+      "word": "殷世航 东南vip",
+      "onboard_time": 1732004120,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 413357,
       "num": 417332,
       "word": "小小的我",
@@ -13979,6 +13995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393641,
+      "num": 321529,
+      "word": "现在美甲已经进化到这样了吗",
+      "onboard_time": 1732003040,
+      "rank": 22,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 393001,
       "num": 393001,
       "word": "王楚钦第46周继续霸榜世一",
@@ -14433,14 +14457,6 @@
       "onboard_time": 1731549437,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 380707,
-      "num": 380707,
-      "word": "夫妻花19万去南极想睡一间房被拒",
-      "onboard_time": 1732004240,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380335,
@@ -16619,14 +16635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321529,
-      "num": 321529,
-      "word": "现在美甲已经进化到这样了吗",
-      "onboard_time": 1732003040,
-      "rank": 22,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 321254,
       "num": 321254,
       "word": "张拿铁禁止爸爸跟他说中文",
@@ -18411,6 +18419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 281547,
+      "num": 273501,
+      "word": "姿态队迟到被判负",
+      "onboard_time": 1732003520,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 281463,
       "num": 281463,
       "word": "江苏一办事大厅员工10点离岗吃饭",
@@ -18881,14 +18897,6 @@
       "onboard_time": 1731762442,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273501,
-      "num": 273501,
-      "word": "姿态队迟到被判负",
-      "onboard_time": 1732003520,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 273486,
@@ -20979,6 +20987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242924,
+      "num": 242924,
+      "word": "父子俩双双跳水1分23秒救起2人",
+      "onboard_time": 1732002620,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 242520,
       "num": 312793,
       "word": "永夜星河预告",
@@ -21443,14 +21459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236261,
-      "num": 236261,
-      "word": "父子俩双双跳水1分23秒救起2人",
-      "onboard_time": 1732002620,
-      "rank": 32,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 236224,
       "num": 236224,
       "word": "越来越多的美国富人计划离开美国",
@@ -21799,6 +21807,14 @@
       "num": 243760,
       "word": "东京电影节",
       "onboard_time": 1730531957,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 231829,
+      "num": 231829,
+      "word": "钟楚曦 不要随便评价别人",
+      "onboard_time": 1732004779,
       "rank": 47,
       "category": "电影"
     },
@@ -23441,6 +23457,14 @@
       "onboard_time": 1731500481,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213308,
+      "num": 213308,
+      "word": "CPA",
+      "onboard_time": 1732003581,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 213124,
@@ -26771,6 +26795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194117,
+      "num": 203954,
+      "word": "燕子京满头长生辫终是难长生",
+      "onboard_time": 1732004840,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194107,
       "num": 194107,
       "word": "一起打卡大美中国",
@@ -28227,14 +28259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186965,
-      "num": 186965,
-      "word": "殷世航 东南vip",
-      "onboard_time": 1732004120,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 186942,
       "num": 235201,
       "word": "我将化身怨女",
@@ -28625,6 +28649,14 @@
       "onboard_time": 1731983057,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184789,
+      "num": 184789,
+      "word": "刘浩存对接否认接触将门独后",
+      "onboard_time": 1732005319,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 184661,
@@ -29923,6 +29955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177351,
+      "num": 177351,
+      "word": "刘爽 死嘴快答",
+      "onboard_time": 1732005800,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177261,
       "num": 177261,
       "word": "小红稳住",
@@ -30873,6 +30913,14 @@
       "onboard_time": 1731729021,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172194,
+      "num": 172194,
+      "word": "涵艺说五支LPL队伍开摆",
+      "onboard_time": 1732005379,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 172189,
@@ -32747,14 +32795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162862,
-      "num": 162862,
-      "word": "CPA",
-      "onboard_time": 1732003581,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 162856,
       "num": 162856,
       "word": "天津市考",
@@ -34195,14 +34235,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 156689,
-      "num": 156689,
-      "word": "钟楚曦 不要随便评价别人",
-      "onboard_time": 1732004779,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 156672,
       "num": 156672,
       "word": "独行侠vs掘金",
@@ -35129,14 +35161,6 @@
       "onboard_time": 1731731658,
       "rank": 32,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 152427,
-      "num": 152427,
-      "word": "燕子京满头长生辫终是难长生",
-      "onboard_time": 1732004840,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 152420,
@@ -36177,6 +36201,14 @@
       "onboard_time": 1731327859,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148129,
+      "num": 148129,
+      "word": "国足vs日本23人名单",
+      "onboard_time": 1732002741,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 148106,
@@ -42315,6 +42347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117050,
+      "num": 423918,
+      "word": "国足上次击败日本还是26年前",
+      "onboard_time": 1732004660,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117023,
       "num": 122501,
       "word": "郑思维黄雅琼退出中国大师赛",
@@ -42617,6 +42657,14 @@
       "onboard_time": 1731130399,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 115217,
+      "num": 240450,
+      "word": "梁伟铿救的球打到王昶了",
+      "onboard_time": 1732005200,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 115188,
@@ -49283,14 +49331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62913,
-      "num": 423918,
-      "word": "国足上次击败日本还是26年前",
-      "onboard_time": 1732004660,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62862,
       "num": 457466,
       "word": "A股成交连续3个交易日破2万亿",
@@ -50107,6 +50147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57725,
+      "num": 428112,
+      "word": "被野生虎咬伤村民左手保住了",
+      "onboard_time": 1732004900,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57709,
       "num": 274643,
       "word": "何卓佳vs张本美和",
@@ -50611,6 +50659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54700,
+      "num": 413293,
+      "word": "A股逆转翻红",
+      "onboard_time": 1732004481,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54687,
       "num": 278076,
       "word": "运油20的压迫感到底有多强",
@@ -51065,6 +51121,14 @@
       "onboard_time": 1731899178,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 52222,
+      "num": 216535,
+      "word": "好东西排片",
+      "onboard_time": 1732001541,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 52216,
@@ -51801,6 +51865,14 @@
       "onboard_time": 1731053659,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 48098,
+      "num": 426869,
+      "word": "100秒看乌镇古韵与科技交融",
+      "onboard_time": 1732003820,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 48097,
@@ -54531,6 +54603,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 35858,
+      "num": 412800,
+      "word": "王濛在线感谢护士粉丝",
+      "onboard_time": 1732003520,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35826,
       "num": 192315,
       "word": "国足赛程过半小组第4",
@@ -55091,14 +55171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33976,
-      "num": 412800,
-      "word": "王濛在线感谢护士粉丝",
-      "onboard_time": 1732003520,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33972,
       "num": 314789,
       "word": "郑钦文有了新身份",
@@ -55481,6 +55553,14 @@
       "onboard_time": 1731207617,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32942,
+      "num": 242792,
+      "word": "马嘉祺黑西装vs白衬衫",
+      "onboard_time": 1732005679,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 32929,
@@ -56363,14 +56443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 29995,
-      "num": 426869,
-      "word": "100秒看乌镇古韵与科技交融",
-      "onboard_time": 1732003820,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 29891,
       "num": 656261,
       "word": "官方回应养老服务项目涉嫌摆拍",
@@ -56529,6 +56601,14 @@
       "onboard_time": 1731633198,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29412,
+      "num": 214038,
+      "word": "姚琛直播攀岩",
+      "onboard_time": 1732005200,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 29299,
@@ -57225,14 +57305,6 @@
       "onboard_time": 1730712739,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 27069,
-      "num": 190648,
-      "word": "好东西排片",
-      "onboard_time": 1732001541,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 27062,
@@ -57937,6 +58009,14 @@
       "onboard_time": 1730528957,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24527,
+      "num": 238213,
+      "word": "回到打工子弟学校的哈佛毕业生",
+      "onboard_time": 1732005200,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24507,
@@ -58995,14 +59075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21316,
-      "num": 428112,
-      "word": "被野生虎咬伤村民左手保住了",
-      "onboard_time": 1732004900,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21306,
       "num": 110352,
       "word": "全国月亮大赏",
@@ -59209,6 +59281,14 @@
       "onboard_time": 1731281175,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20738,
+      "num": 196124,
+      "word": "25岁拖延症严重确诊成人ADHD",
+      "onboard_time": 1732004359,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20717,
@@ -60187,6 +60267,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 17616,
+      "num": 241707,
+      "word": "九华山被断脚白狗已得到救治",
+      "onboard_time": 1732005438,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17592,
       "num": 1025109,
       "word": "2024年进博会亮点抢先看",
@@ -60345,14 +60433,6 @@
       "onboard_time": 1731281175,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17203,
-      "num": 413293,
-      "word": "A股逆转翻红",
-      "onboard_time": 1732004481,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 17200,
@@ -60921,14 +61001,6 @@
       "onboard_time": 1730452280,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14912,
-      "num": 196124,
-      "word": "25岁拖延症严重确诊成人ADHD",
-      "onboard_time": 1732004359,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14896,
@@ -62179,6 +62251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 10563,
+      "num": 413137,
+      "word": "邓超说演员像剑客一样",
+      "onboard_time": 1732003520,
+      "rank": 17,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 10559,
       "num": 315574,
       "word": "宋佳ELLE12月刊封面",
@@ -62377,14 +62457,6 @@
       "onboard_time": 1731076042,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9157,
-      "num": 413137,
-      "word": "邓超说演员像剑客一样",
-      "onboard_time": 1732003520,
-      "rank": 17,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 9139,
