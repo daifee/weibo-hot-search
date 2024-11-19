@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732026173316,
+  "endTime": 1732027356469,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -1955,6 +1955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 418231,
+      "num": 418231,
+      "word": "宋莹经典台词是蒋欣即兴发挥",
+      "onboard_time": 1732026322,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416298,
       "num": 416298,
       "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
@@ -2507,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320508,
+      "num": 420359,
+      "word": "酒后在足疗店死亡家属索赔194万",
+      "onboard_time": 1732025602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319207,
       "num": 273602,
       "word": "姜妍是虞书欣的认证闺蜜",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1732021041,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308290,
+      "num": 308290,
+      "word": "女子用过期眼药水视力降至0.1",
+      "onboard_time": 1732024464,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306565,
@@ -2764,7 +2788,7 @@
     },
     {
       "raw_hot": 286681,
-      "num": 286681,
+      "num": 354502,
       "word": "官方通报民警将报警人关留置室逼和解",
       "onboard_time": 1732023022,
       "rank": 48,
@@ -2915,6 +2939,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 273784,
+      "num": 321664,
+      "word": "丁禹兮活该你红",
+      "onboard_time": 1732023861,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273565,
+      "num": 261795,
+      "word": "丁禹兮回应看狗都深情",
+      "onboard_time": 1732022782,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273148,
       "num": 273148,
       "word": "永昼",
@@ -3003,6 +3043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 267968,
+      "num": 430321,
+      "word": "无人机找到疑似咬伤人东北虎热源",
+      "onboard_time": 1732024702,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267447,
       "num": 355486,
       "word": "吉林一滑冰馆屋顶坍塌目击者发声",
@@ -3027,12 +3075,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 261795,
-      "num": 261795,
-      "word": "丁禹兮回应看狗都深情",
-      "onboard_time": 1732022782,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 262301,
+      "num": 262301,
+      "word": "王大雷",
+      "onboard_time": 1732025663,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 261445,
@@ -3057,6 +3105,14 @@
       "onboard_time": 1731893477,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 259984,
+      "num": 430967,
+      "word": "乌军首次使用美导弹系统袭击俄罗斯",
+      "onboard_time": 1732024584,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259833,
@@ -3227,14 +3283,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 248753,
-      "num": 321664,
-      "word": "丁禹兮活该你红",
-      "onboard_time": 1732023861,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247744,
       "num": 247744,
       "word": "卢昱晓配音谁找的",
@@ -3249,14 +3297,6 @@
       "onboard_time": 1731831858,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246561,
-      "num": 430967,
-      "word": "乌军首次使用美导弹系统袭击俄罗斯",
-      "onboard_time": 1732024584,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 246053,
@@ -3297,14 +3337,6 @@
       "onboard_time": 1731829099,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 242340,
-      "num": 430321,
-      "word": "无人机找到疑似咬伤人东北虎热源",
-      "onboard_time": 1732024702,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242050,
@@ -3979,6 +4011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202759,
+      "num": 202759,
+      "word": "5种蔬菜是隐藏的嘌呤大户",
+      "onboard_time": 1732027161,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202752,
       "num": 202752,
       "word": "黑龙江一农户家遭野生东北虎撞门",
@@ -4083,6 +4123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198611,
+      "num": 350620,
+      "word": "国足2胜4负暂列小组第5",
+      "onboard_time": 1732026262,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198532,
       "num": 198532,
       "word": "特朗普再提名福克斯新闻主播任部长",
@@ -4155,6 +4203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196461,
+      "num": 196461,
+      "word": "国足积分",
+      "onboard_time": 1732026561,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195955,
       "num": 287347,
       "word": "永夜星河密室",
@@ -4217,14 +4273,6 @@
       "onboard_time": 1732020619,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192383,
-      "num": 192383,
-      "word": "女子用过期眼药水视力降至0.1",
-      "onboard_time": 1732024464,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191800,
@@ -4321,6 +4369,14 @@
       "onboard_time": 1731910939,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 190155,
+      "num": 190155,
+      "word": "Uzi解释老头杯新身份",
+      "onboard_time": 1732026803,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 190135,
@@ -4473,6 +4529,14 @@
       "onboard_time": 1731939201,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 186314,
+      "num": 186314,
+      "word": "HLE与Viper续约",
+      "onboard_time": 1732021102,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 186229,
@@ -4803,14 +4867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176984,
-      "num": 420359,
-      "word": "酒后在足疗店死亡家属索赔194万",
-      "onboard_time": 1732025602,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176946,
       "num": 176946,
       "word": "马嘉祺波西米亚风额饰",
@@ -4881,14 +4937,6 @@
       "onboard_time": 1732018700,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173961,
-      "num": 173961,
-      "word": "王大雷",
-      "onboard_time": 1732025663,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 173946,
@@ -5081,14 +5129,6 @@
       "onboard_time": 1731995239,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168971,
-      "num": 168971,
-      "word": "HLE与Viper续约",
-      "onboard_time": 1732021102,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 168765,
@@ -5291,6 +5331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162278,
+      "num": 334950,
+      "word": "小巷人家宋莹是华妃转世",
+      "onboard_time": 1732023561,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162170,
       "num": 162170,
       "word": "月光变奏曲前传",
@@ -5305,6 +5353,14 @@
       "onboard_time": 1731766885,
       "rank": 17,
       "category": "军事"
+    },
+    {
+      "raw_hot": 161849,
+      "num": 348282,
+      "word": "麦琳 美环花子",
+      "onboard_time": 1732027042,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161594,
@@ -6947,12 +7003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112610,
-      "num": 334950,
-      "word": "小巷人家宋莹是华妃转世",
-      "onboard_time": 1732023561,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 112752,
+      "num": 387272,
+      "word": "落马局长家中桌椅都由老板买单",
+      "onboard_time": 1732025543,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112519,
@@ -7169,14 +7225,6 @@
       "onboard_time": 1731769283,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104614,
-      "num": 387272,
-      "word": "落马局长家中桌椅都由老板买单",
-      "onboard_time": 1732025543,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104132,
@@ -7587,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84945,
+      "num": 356320,
+      "word": "国足结束2024年征程",
+      "onboard_time": 1732027281,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83689,
       "num": 83689,
       "word": "TheBoyz改用fromm",
@@ -7665,6 +7721,14 @@
       "onboard_time": 1731901579,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 79676,
+      "num": 351819,
+      "word": "德国球迷飞行十余小时为国足加油",
+      "onboard_time": 1732026381,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 79312,
@@ -8651,6 +8715,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45614,
+      "num": 308318,
+      "word": "脱粉后被前爱豆抓现形",
+      "onboard_time": 1732027281,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45485,
       "num": 348708,
       "word": "电影好东西好笑又好哭",
@@ -8721,6 +8793,14 @@
       "onboard_time": 1731830838,
       "rank": 7,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 44306,
+      "num": 349876,
+      "word": "45336人现场观战国足vs日本",
+      "onboard_time": 1732027221,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 44220,

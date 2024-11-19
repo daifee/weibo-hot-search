@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1732026173316,
+  "endTime": 1732027356469,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -683,6 +683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 418231,
+      "num": 418231,
+      "word": "宋莹经典台词是蒋欣即兴发挥",
+      "onboard_time": 1732026322,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416298,
       "num": 416298,
       "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320508,
+      "num": 420359,
+      "word": "酒后在足疗店死亡家属索赔194万",
+      "onboard_time": 1732025602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316289,
       "num": 316289,
       "word": "丁禹兮涨粉",
@@ -953,6 +969,14 @@
       "onboard_time": 1732021041,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308290,
+      "num": 308290,
+      "word": "女子用过期眼药水视力降至0.1",
+      "onboard_time": 1732024464,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306565,
@@ -1036,7 +1060,7 @@
     },
     {
       "raw_hot": 286681,
-      "num": 286681,
+      "num": 354502,
       "word": "官方通报民警将报警人关留置室逼和解",
       "onboard_time": 1732023022,
       "rank": 48,
@@ -1115,6 +1139,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273784,
+      "num": 321664,
+      "word": "丁禹兮活该你红",
+      "onboard_time": 1732023861,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273565,
+      "num": 261795,
+      "word": "丁禹兮回应看狗都深情",
+      "onboard_time": 1732022782,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272762,
       "num": 288394,
       "word": "好东西 孙红雷发言",
@@ -1147,12 +1187,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 261795,
-      "num": 261795,
-      "word": "丁禹兮回应看狗都深情",
-      "onboard_time": 1732022782,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 267968,
+      "num": 430321,
+      "word": "无人机找到疑似咬伤人东北虎热源",
+      "onboard_time": 1732024702,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262301,
+      "num": 262301,
+      "word": "王大雷",
+      "onboard_time": 1732025663,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 259984,
+      "num": 430967,
+      "word": "乌军首次使用美导弹系统袭击俄罗斯",
+      "onboard_time": 1732024584,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259316,
@@ -1219,36 +1275,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 248753,
-      "num": 321664,
-      "word": "丁禹兮活该你红",
-      "onboard_time": 1732023861,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 246561,
-      "num": 430967,
-      "word": "乌军首次使用美导弹系统袭击俄罗斯",
-      "onboard_time": 1732024584,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 243107,
       "num": 329007,
       "word": "向佐要走颜值路线了",
       "onboard_time": 1731992000,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242340,
-      "num": 430321,
-      "word": "无人机找到疑似咬伤人东北虎热源",
-      "onboard_time": 1732024702,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237098,
@@ -1515,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202759,
+      "num": 202759,
+      "word": "5种蔬菜是隐藏的嘌呤大户",
+      "onboard_time": 1732027161,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202591,
       "num": 202591,
       "word": "东北虎",
@@ -1563,6 +1603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198611,
+      "num": 350620,
+      "word": "国足2胜4负暂列小组第5",
+      "onboard_time": 1732026262,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198532,
       "num": 198532,
       "word": "特朗普再提名福克斯新闻主播任部长",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1732008501,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196461,
+      "num": 196461,
+      "word": "国足积分",
+      "onboard_time": 1732026561,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 194759,
@@ -1619,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192383,
-      "num": 192383,
-      "word": "女子用过期眼药水视力降至0.1",
-      "onboard_time": 1732024464,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191800,
       "num": 333886,
       "word": "杨仕泽 祝绪丹不止微醺还断片",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1732006399,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190155,
+      "num": 190155,
+      "word": "Uzi解释老头杯新身份",
+      "onboard_time": 1732026803,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 190063,
@@ -1689,6 +1745,14 @@
       "onboard_time": 1732014799,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186314,
+      "num": 186314,
+      "word": "HLE与Viper续约",
+      "onboard_time": 1732021102,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 186229,
@@ -1851,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176984,
-      "num": 420359,
-      "word": "酒后在足疗店死亡家属索赔194万",
-      "onboard_time": 1732025602,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176946,
       "num": 176946,
       "word": "马嘉祺波西米亚风额饰",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1732018700,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173961,
-      "num": 173961,
-      "word": "王大雷",
-      "onboard_time": 1732025663,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 173946,
@@ -1977,14 +2025,6 @@
       "onboard_time": 1731995239,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168971,
-      "num": 168971,
-      "word": "HLE与Viper续约",
-      "onboard_time": 1732021102,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 168901,
@@ -2089,6 +2129,22 @@
       "onboard_time": 1731996381,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162278,
+      "num": 334950,
+      "word": "小巷人家宋莹是华妃转世",
+      "onboard_time": 1732023561,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161849,
+      "num": 348282,
+      "word": "麦琳 美环花子",
+      "onboard_time": 1732027042,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161570,
@@ -2587,12 +2643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112610,
-      "num": 334950,
-      "word": "小巷人家宋莹是华妃转世",
-      "onboard_time": 1732023561,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 112752,
+      "num": 387272,
+      "word": "落马局长家中桌椅都由老板买单",
+      "onboard_time": 1732025543,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111797,
@@ -2633,14 +2689,6 @@
       "onboard_time": 1732014260,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104614,
-      "num": 387272,
-      "word": "落马局长家中桌椅都由老板买单",
-      "onboard_time": 1732025543,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102405,
@@ -2819,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84945,
+      "num": 356320,
+      "word": "国足结束2024年征程",
+      "onboard_time": 1732027281,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83345,
       "num": 83345,
       "word": "自主研发的中国芯片有多强",
@@ -2865,6 +2921,14 @@
       "onboard_time": 1731927918,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79676,
+      "num": 351819,
+      "word": "德国球迷飞行十余小时为国足加油",
+      "onboard_time": 1732026381,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 76817,
@@ -3251,6 +3315,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45614,
+      "num": 308318,
+      "word": "脱粉后被前爱豆抓现形",
+      "onboard_time": 1732027281,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45485,
       "num": 348708,
       "word": "电影好东西好笑又好哭",
@@ -3288,6 +3360,14 @@
       "word": "梁王组合晋级中国赛16强",
       "onboard_time": 1731998420,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44306,
+      "num": 349876,
+      "word": "45336人现场观战国足vs日本",
+      "onboard_time": 1732027221,
+      "rank": 18,
       "category": "体育"
     },
     {
