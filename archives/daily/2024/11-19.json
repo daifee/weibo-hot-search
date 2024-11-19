@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731997960900,
+  "endTime": 1731998771061,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1251873,
-      "num": 398307,
+      "num": 404569,
       "word": "预制菜影后",
       "onboard_time": 1731990142,
       "rank": 11,
@@ -123,6 +123,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 870281,
+      "num": 1139245,
+      "word": "将门独后 刘浩存",
+      "onboard_time": 1731997340,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829547,
       "num": 829547,
       "word": "炸火花已全面入侵韩娱签售",
@@ -131,8 +139,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 816291,
-      "num": 317784,
+      "raw_hot": 817682,
+      "num": 406457,
       "word": "李庚希 华为代言",
       "onboard_time": 1731994640,
       "rank": 39,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 809781,
-      "num": 314338,
+      "num": 405118,
       "word": "九华山景区多只狗的脚被砍断",
       "onboard_time": 1731994100,
       "rank": 35,
@@ -193,6 +201,14 @@
       "onboard_time": 1731943820,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 633822,
+      "num": 633822,
+      "word": "对重大恶性犯罪依法从严从快惩治",
+      "onboard_time": 1731997580,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 632919,
@@ -283,12 +299,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 475917,
-      "num": 331170,
+      "raw_hot": 481875,
+      "num": 430135,
       "word": "孙丞潇演网剧男主了",
       "onboard_time": 1731996021,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 468272,
+      "num": 468272,
+      "word": "耿爽回怼美方一个动作气势拉满",
+      "onboard_time": 1731995239,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 456050,
@@ -315,16 +339,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 445457,
-      "num": 445457,
-      "word": "耿爽回怼美方一个动作气势拉满",
-      "onboard_time": 1731995239,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 430507,
-      "num": 328739,
+      "num": 343658,
       "word": "乐华大厦是杜华贷款买的",
       "onboard_time": 1731993261,
       "rank": 33,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 419643,
-      "num": 303431,
+      "num": 398715,
       "word": "钟楚曦抽烟好港",
       "onboard_time": 1731994700,
       "rank": 26,
@@ -345,6 +361,14 @@
       "onboard_time": 1731978679,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408931,
+      "num": 408931,
+      "word": "祝绪丹说媚眼抛给瞎子看",
+      "onboard_time": 1731995899,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 398941,
@@ -387,14 +411,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 372765,
-      "num": 291487,
-      "word": "将门独后 刘浩存",
-      "onboard_time": 1731997340,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358913,
       "num": 333144,
       "word": "贺峻霖cue小宋回国",
@@ -409,14 +425,6 @@
       "onboard_time": 1731944478,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 339674,
-      "num": 339674,
-      "word": "对重大恶性犯罪依法从严从快惩治",
-      "onboard_time": 1731997580,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 339121,
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313471,
+      "num": 400344,
+      "word": "华为Mate70价格",
+      "onboard_time": 1731996559,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 313232,
       "num": 313232,
       "word": "林一说现偶关键在男主爱女主",
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304867,
+      "num": 345607,
+      "word": "林一把和沈月的合照藏了三年",
+      "onboard_time": 1731996680,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303717,
       "num": 303717,
       "word": "王一博 那我就给你多说一点",
@@ -513,14 +537,6 @@
       "onboard_time": 1731986120,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 300801,
-      "num": 300801,
-      "word": "祝绪丹说媚眼抛给瞎子看",
-      "onboard_time": 1731995899,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 297960,
@@ -555,14 +571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 286508,
-      "num": 286508,
-      "word": "华为Mate70价格",
-      "onboard_time": 1731996559,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 281463,
       "num": 281463,
       "word": "江苏一办事大厅员工10点离岗吃饭",
@@ -583,14 +591,6 @@
       "num": 288649,
       "word": "孔雪儿竟然有九部待播剧",
       "onboard_time": 1731990682,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 277115,
-      "num": 277115,
-      "word": "林一把和沈月的合照藏了三年",
-      "onboard_time": 1731996680,
       "rank": 27,
       "category": "剧集"
     },
@@ -657,6 +657,14 @@
       "onboard_time": 1731972916,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256154,
+      "num": 407699,
+      "word": "石破茂遭日本网友吐槽",
+      "onboard_time": 1731997340,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 243107,
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216043,
+      "num": 216043,
+      "word": "被东北虎袭击老人头皮有撕裂伤",
+      "onboard_time": 1731996799,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 215555,
       "num": 189030,
       "word": "虞书欣剧播期间涨粉100万",
@@ -793,14 +809,6 @@
       "onboard_time": 1731986059,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204437,
-      "num": 204437,
-      "word": "石破茂遭日本网友吐槽",
-      "onboard_time": 1731997340,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 204355,
@@ -899,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184476,
-      "num": 184476,
-      "word": "被东北虎袭击老人头皮有撕裂伤",
-      "onboard_time": 1731996799,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 181824,
       "num": 181824,
       "word": "2马拉松选手被曝拿走大量补给",
@@ -993,6 +993,14 @@
       "onboard_time": 1731987981,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168998,
+      "num": 168998,
+      "word": "甘肃一县月均新生儿不足5个",
+      "onboard_time": 1731995239,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168901,
@@ -1091,14 +1099,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 160307,
-      "num": 160307,
-      "word": "甘肃一县月均新生儿不足5个",
-      "onboard_time": 1731995239,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160263,
       "num": 160263,
       "word": "JackeyLove谈退役",
@@ -1155,6 +1155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149275,
+      "num": 149275,
+      "word": "A股",
+      "onboard_time": 1731995780,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 146156,
+      "num": 146156,
+      "word": "耿爽联合国2次驳斥美方抹黑言论",
+      "onboard_time": 1731993379,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145118,
       "num": 248970,
       "word": "退钱哥怒斥部分球迷为日本队加油",
@@ -1195,6 +1211,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 137045,
+      "num": 397829,
+      "word": "郭晓东孝庄表情包是自己P的",
+      "onboard_time": 1731997940,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136715,
       "num": 136715,
       "word": "李行亮朋友回应借钱",
@@ -1217,14 +1241,6 @@
       "onboard_time": 1731982941,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135093,
-      "num": 135093,
-      "word": "耿爽联合国2次驳斥美方抹黑言论",
-      "onboard_time": 1731993379,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 133352,
@@ -1347,14 +1363,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 106224,
-      "num": 275060,
-      "word": "郭晓东孝庄表情包是自己P的",
-      "onboard_time": 1731997940,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101145,
       "num": 101145,
       "word": "禹宙中欣",
@@ -1396,7 +1404,7 @@
     },
     {
       "raw_hot": 98777,
-      "num": 182162,
+      "num": 191900,
       "word": "霉霉主动给朴彩英电话号码",
       "onboard_time": 1731997759,
       "rank": 42,
@@ -1635,6 +1643,14 @@
       "category": "运动健身,体育"
     },
     {
+      "raw_hot": 57335,
+      "num": 396424,
+      "word": "90后把600万房款投入股市",
+      "onboard_time": 1731997700,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 56952,
       "num": 225135,
       "word": "黑神话获TGA四项提名",
@@ -1707,20 +1723,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 44360,
+      "num": 217690,
+      "word": "梁王组合晋级中国赛16强",
+      "onboard_time": 1731998420,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43314,
       "num": 305985,
       "word": "ABC卫生巾所属公司6年上市未果",
       "onboard_time": 1731996200,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 42823,
-      "num": 298120,
-      "word": "90后把600万房款投入股市",
-      "onboard_time": 1731997700,
-      "rank": 18,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 40646,
@@ -1843,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26959,
+      "num": 394128,
+      "word": "用X200拍到了神级照片",
+      "onboard_time": 1731996261,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 24628,
       "num": 222881,
       "word": "日本主帅说要忘掉7比0",
@@ -1865,14 +1889,6 @@
       "onboard_time": 1731953891,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21535,
-      "num": 295756,
-      "word": "用X200拍到了神级照片",
-      "onboard_time": 1731996261,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 21366,
@@ -1923,11 +1939,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 19159,
+      "num": 402090,
+      "word": "小巷人家气人的设定要改吗",
+      "onboard_time": 1731997759,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18262,
       "num": 26541,
       "word": "原来东方明珠有11颗珠",
       "onboard_time": 1731951913,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17972,
+      "num": 400852,
+      "word": "新设免陪照护服务能缓解看护难吗",
+      "onboard_time": 1731998360,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1987,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10947,
+      "num": 124010,
+      "word": "我的阿勒泰fitcheck",
+      "onboard_time": 1731997999,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 10640,
       "num": 1008374,
       "word": "一个视频带你了解G20",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1731937041,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6381,
-      "num": 306740,
-      "word": "小巷人家气人的设定要改吗",
-      "onboard_time": 1731997759,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 5375,
