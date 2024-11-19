@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732048763339,
+  "endTime": 1732051330551,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -8131,6 +8131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73010,
+      "num": 73010,
+      "word": "被老虎咬伤村民家大门紧闭",
+      "onboard_time": 1732047370,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71996,
       "num": 65952,
       "word": "赵丽颖金鸡奖造型师是闵塔鲨",
@@ -8617,6 +8625,14 @@
       "onboard_time": 1731835037,
       "rank": 17,
       "category": "军事"
+    },
+    {
+      "raw_hot": 54908,
+      "num": 54908,
+      "word": "专家称目前是老虎繁殖期游荡范围大",
+      "onboard_time": 1732048580,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54700,
@@ -9547,14 +9563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35159,
-      "num": 51586,
-      "word": "被老虎咬伤村民家大门紧闭",
-      "onboard_time": 1732047370,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34789,
       "num": 418304,
       "word": "KPL的人脉也太开门了",
@@ -9753,6 +9761,14 @@
       "onboard_time": 1731901340,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32413,
+      "num": 55656,
+      "word": "62岁飞行员返俄前和观众挥手告别",
+      "onboard_time": 1732050071,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 32274,
@@ -10843,14 +10859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13694,
-      "num": 25140,
-      "word": "专家称目前是老虎繁殖期游荡范围大",
-      "onboard_time": 1732048580,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13489,
       "num": 514145,
       "word": "李昊见到容祖儿说我有一块田",
@@ -11233,6 +11241,14 @@
       "onboard_time": 1731780614,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5728,
+      "num": 31542,
+      "word": "谁不想拥有水哥的树屋",
+      "onboard_time": 1732049231,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 5716,
