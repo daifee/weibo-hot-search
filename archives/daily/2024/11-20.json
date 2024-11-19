@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732036868725,
+  "endTime": 1732037980890,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135391,
+      "num": 135391,
+      "word": "丁禹兮捡垃圾差点把建构甲弄坏",
+      "onboard_time": 1732036813,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125994,
       "num": 125994,
       "word": "释小龙近照",
@@ -297,14 +305,6 @@
       "onboard_time": 1732021821,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 98097,
-      "num": 98097,
-      "word": "丁禹兮捡垃圾差点把建构甲弄坏",
-      "onboard_time": 1732036813,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 97931,
@@ -419,6 +419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72407,
+      "num": 72407,
+      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+      "onboard_time": 1732036454,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64714,
+      "num": 187767,
+      "word": "对战日本看到了国足的进步",
+      "onboard_time": 1732036633,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63659,
       "num": 63659,
       "word": "赵丽颖 别逼我变成薛扇扇",
@@ -451,20 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50175,
-      "num": 50175,
-      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
-      "onboard_time": 1732036454,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43261,
-      "num": 43261,
+      "raw_hot": 46652,
+      "num": 118143,
       "word": "国足再战日本开局九分半差点进球",
       "onboard_time": 1732025122,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41795,
+      "num": 72422,
+      "word": "林一 沈月你少看点士兵突击吧",
+      "onboard_time": 1732036753,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 40977,
@@ -475,12 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37146,
-      "num": 187767,
-      "word": "对战日本看到了国足的进步",
-      "onboard_time": 1732036633,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 36965,
+      "num": 36965,
+      "word": "时隔37天星舰进行第六次试飞",
+      "onboard_time": 1732037833,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 35285,
+      "num": 117790,
+      "word": "包包生日",
+      "onboard_time": 1732037593,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 33026,
