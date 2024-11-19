@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1732013058729,
+  "endTime": 1732015191050,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -115,11 +115,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1180409,
+      "num": 299214,
+      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
+      "onboard_time": 1732010779,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1155150,
       "num": 380707,
       "word": "夫妻花19万去南极想睡一间房被拒",
       "onboard_time": 1732004240,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1085707,
+      "num": 345174,
+      "word": "张咪自曝第三次患癌将切掉半个舌头",
+      "onboard_time": 1732012818,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1731980659,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 978217,
-      "num": 299214,
-      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
-      "onboard_time": 1732010779,
-      "rank": 22,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 914365,
@@ -241,6 +249,14 @@
       "onboard_time": 1731984800,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 707264,
+      "num": 326092,
+      "word": "释小龙近照",
+      "onboard_time": 1732012040,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 695721,
@@ -369,6 +385,14 @@
       "onboard_time": 1731977780,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518027,
+      "num": 321627,
+      "word": "医用卫生巾",
+      "onboard_time": 1732013240,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 516543,
@@ -507,12 +531,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 425246,
+      "num": 292202,
+      "word": "杜华每个月都要为乐华大厦还贷款",
+      "onboard_time": 1732011861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419643,
       "num": 398715,
       "word": "钟楚曦抽烟好港",
       "onboard_time": 1731994700,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419387,
+      "num": 419387,
+      "word": "余承东晒出华为Mate70",
+      "onboard_time": 1732013299,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 413386,
@@ -587,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386078,
+      "num": 386078,
+      "word": "以为王楚钦要跳小天鹅了",
+      "onboard_time": 1732010959,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384814,
       "num": 211195,
       "word": "无锡持刀伤人案嫌疑人不止一人为谣言",
@@ -603,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353988,
-      "num": 211882,
-      "word": "释小龙近照",
-      "onboard_time": 1732012040,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 357696,
+      "num": 396752,
+      "word": "国足vs日本首发",
+      "onboard_time": 1732011861,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 345885,
@@ -649,14 +697,6 @@
       "onboard_time": 1731991282,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326967,
-      "num": 332588,
-      "word": "以为王楚钦要跳小天鹅了",
-      "onboard_time": 1732010959,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 323417,
@@ -867,11 +907,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 265325,
-      "num": 396752,
-      "word": "国足vs日本首发",
-      "onboard_time": 1732011861,
-      "rank": 8,
+      "raw_hot": 262431,
+      "num": 262431,
+      "word": "国足今日主场迎战日本队",
+      "onboard_time": 1732013299,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -955,12 +995,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230991,
+      "num": 230991,
+      "word": "男子带着代孕婴儿争夺亡妻遗产",
+      "onboard_time": 1732012818,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230576,
+      "num": 276959,
+      "word": "朱志鑫直播",
+      "onboard_time": 1732014200,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229964,
       "num": 229964,
       "word": "金价",
       "onboard_time": 1731942740,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229445,
+      "num": 229445,
+      "word": "脱口秀人团建是不是忘叫付航了",
+      "onboard_time": 1732013780,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 229188,
@@ -1267,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184446,
+      "num": 239642,
+      "word": "水龙吟",
+      "onboard_time": 1732012698,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183045,
       "num": 183045,
       "word": "崔秀彬缺席年末",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1732004660,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176946,
+      "num": 176946,
+      "word": "马嘉祺波西米亚风额饰",
+      "onboard_time": 1732014380,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175624,
@@ -1411,14 +1491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169120,
-      "num": 169120,
-      "word": "张咪自曝第三次患癌将切掉半个舌头",
-      "onboard_time": 1732012818,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168998,
       "num": 168998,
       "word": "甘肃一县月均新生儿不足5个",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1732007780,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168024,
+      "num": 234271,
+      "word": "斗罗大陆2接档永夜星河",
+      "onboard_time": 1732013359,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 166491,
@@ -1563,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160225,
+      "num": 235449,
+      "word": "虞书欣丁禹兮翻跳forhastik",
+      "onboard_time": 1732013240,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159418,
       "num": 159418,
       "word": "华为手表将首发支持动态血压监测",
@@ -1627,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149320,
+      "num": 149320,
+      "word": "白夜破晓最新版预告",
+      "onboard_time": 1732014680,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149275,
       "num": 149275,
       "word": "A股",
@@ -1667,14 +1763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145276,
-      "num": 145276,
-      "word": "男子带着代孕婴儿争夺亡妻遗产",
-      "onboard_time": 1732012818,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145118,
       "num": 248970,
       "word": "退钱哥怒斥部分球迷为日本队加油",
@@ -1689,14 +1777,6 @@
       "onboard_time": 1731935122,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 144436,
-      "num": 144436,
-      "word": "水龙吟",
-      "onboard_time": 1732012698,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 143614,
@@ -1739,6 +1819,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 140204,
+      "num": 140204,
+      "word": "爷爷接孙女放学买1米长糖葫芦",
+      "onboard_time": 1732014799,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140197,
       "num": 222520,
       "word": "斗2唐三 恋爱脑",
@@ -1753,6 +1841,14 @@
       "onboard_time": 1731987380,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 139622,
+      "num": 139622,
+      "word": "角斗士2 尺度",
+      "onboard_time": 1732014320,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 137045,
@@ -1811,14 +1907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132458,
-      "num": 202809,
-      "word": "杜华每个月都要为乐华大厦还贷款",
-      "onboard_time": 1732011861,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132345,
       "num": 132345,
       "word": "重庆人以后可以打飞的上班了",
@@ -1841,6 +1929,22 @@
       "onboard_time": 1731945078,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 129408,
+      "num": 129408,
+      "word": "网曝幼儿园老师教唆全班扇男孩耳光",
+      "onboard_time": 1732014980,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128348,
+      "num": 349591,
+      "word": "宁夏有一个蛋卷式防洪水法",
+      "onboard_time": 1732014440,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128020,
@@ -1947,6 +2051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 116107,
+      "num": 235160,
+      "word": "直击国足迎战日本队",
+      "onboard_time": 1732012519,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115217,
       "num": 240450,
       "word": "梁伟铿救的球打到王昶了",
@@ -1968,6 +2080,14 @@
       "word": "你没看过白夜追凶啊",
       "onboard_time": 1732010420,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105930,
+      "num": 126549,
+      "word": "魏大勋新剧社交0帧起手",
+      "onboard_time": 1732014260,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2291,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62662,
+      "num": 267360,
+      "word": "退钱哥称今天绝不退钱",
+      "onboard_time": 1732014980,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61967,
       "num": 61967,
       "word": "官方称野生老虎来源尚不明确",
@@ -2371,6 +2499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 53897,
+      "num": 258794,
+      "word": "小鹏发布史上最强财报",
+      "onboard_time": 1732010779,
+      "rank": 29,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 52334,
       "num": 52334,
       "word": "卫生巾质量",
@@ -2401,14 +2537,6 @@
       "onboard_time": 1731996440,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 50136,
-      "num": 258794,
-      "word": "小鹏发布史上最强财报",
-      "onboard_time": 1732010779,
-      "rank": 29,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 50106,
@@ -2521,6 +2649,14 @@
       "onboard_time": 1732004720,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43189,
+      "num": 283429,
+      "word": "他们在哈 我在哈哈",
+      "onboard_time": 1732014320,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 40646,
@@ -2707,6 +2843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30616,
+      "num": 308691,
+      "word": "79元99元的猫猫绝育手术你敢信么",
+      "onboard_time": 1732014380,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29412,
       "num": 214038,
       "word": "姚琛直播攀岩",
@@ -2744,14 +2888,6 @@
       "word": "两连胜后国足士气正盛一票难求",
       "onboard_time": 1731981919,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27862,
-      "num": 235160,
-      "word": "直击国足迎战日本队",
-      "onboard_time": 1732012519,
-      "rank": 14,
       "category": "体育"
     },
     {

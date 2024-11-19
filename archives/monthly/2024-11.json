@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732013058729,
+  "endTime": 1732015191050,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3099,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1180409,
+      "num": 299214,
+      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
+      "onboard_time": 1732010779,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1177683,
       "num": 448131,
       "word": "女子遭家暴婆婆抱孩子站一旁",
@@ -3553,6 +3561,14 @@
       "onboard_time": 1730601259,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1085707,
+      "num": 345174,
+      "word": "张咪自曝第三次患癌将切掉半个舌头",
+      "onboard_time": 1732012818,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1083840,
@@ -4369,14 +4385,6 @@
       "onboard_time": 1730693182,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 978217,
-      "num": 299214,
-      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
-      "onboard_time": 1732010779,
-      "rank": 22,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 977002,
@@ -7105,6 +7113,14 @@
       "onboard_time": 1730792120,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 707264,
+      "num": 326092,
+      "word": "释小龙近照",
+      "onboard_time": 1732012040,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 706720,
@@ -10683,6 +10699,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 518027,
+      "num": 321627,
+      "word": "医用卫生巾",
+      "onboard_time": 1732013240,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 517682,
       "num": 587295,
       "word": "没有伤害任何人",
@@ -13107,6 +13131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425246,
+      "num": 292202,
+      "word": "杜华每个月都要为乐华大厦还贷款",
+      "onboard_time": 1732011861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424934,
       "num": 424934,
       "word": "韩国吃播",
@@ -13289,6 +13321,14 @@
       "onboard_time": 1731994700,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419387,
+      "num": 419387,
+      "word": "余承东晒出华为Mate70",
+      "onboard_time": 1732013299,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 418160,
@@ -14371,6 +14411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 386078,
+      "num": 386078,
+      "word": "以为王楚钦要跳小天鹅了",
+      "onboard_time": 1732010959,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386052,
       "num": 386052,
       "word": "食用植物油散装运输国家标准即将实施",
@@ -15363,6 +15411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357696,
+      "num": 396752,
+      "word": "国足vs日本首发",
+      "onboard_time": 1732011861,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357509,
       "num": 357509,
       "word": "虞书欣丁禹兮CP名 丁程鑫",
@@ -15449,14 +15505,6 @@
       "onboard_time": 1730952381,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353988,
-      "num": 211882,
-      "word": "释小龙近照",
-      "onboard_time": 1732012040,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 353980,
@@ -16537,14 +16585,6 @@
       "onboard_time": 1731400819,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 326967,
-      "num": 332588,
-      "word": "以为王楚钦要跳小天鹅了",
-      "onboard_time": 1732010959,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 326824,
@@ -19627,14 +19667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265325,
-      "num": 396752,
-      "word": "国足vs日本首发",
-      "onboard_time": 1732011861,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265277,
       "num": 265277,
       "word": "A股重磅来袭",
@@ -19809,6 +19841,14 @@
       "onboard_time": 1731210918,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262431,
+      "num": 262431,
+      "word": "国足今日主场迎战日本队",
+      "onboard_time": 1732013299,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 261640,
@@ -22091,6 +22131,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 230991,
+      "num": 230991,
+      "word": "男子带着代孕婴儿争夺亡妻遗产",
+      "onboard_time": 1732012818,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230847,
       "num": 230847,
       "word": "徐佳莹 好听",
@@ -22112,6 +22160,14 @@
       "word": "王一栩救星",
       "onboard_time": 1730637738,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230576,
+      "num": 276959,
+      "word": "朱志鑫直播",
+      "onboard_time": 1732014200,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -22201,6 +22257,14 @@
       "onboard_time": 1731210798,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229445,
+      "num": 229445,
+      "word": "脱口秀人团建是不是忘叫付航了",
+      "onboard_time": 1732013780,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 229276,
@@ -28899,6 +28963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184446,
+      "num": 341231,
+      "word": "水龙吟",
+      "onboard_time": 1731380299,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184442,
       "num": 259319,
       "word": "孙千的腿好长",
@@ -30243,6 +30315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176946,
+      "num": 176946,
+      "word": "马嘉祺波西米亚风额饰",
+      "onboard_time": 1732014380,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176891,
       "num": 176891,
       "word": "凌妙妙 抹水乳",
@@ -30657,14 +30737,6 @@
       "onboard_time": 1730870663,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174580,
-      "num": 341231,
-      "word": "水龙吟",
-      "onboard_time": 1731380299,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 174558,
@@ -31763,14 +31835,6 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 169120,
-      "num": 169120,
-      "word": "张咪自曝第三次患癌将切掉半个舌头",
-      "onboard_time": 1732012818,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169095,
       "num": 169095,
       "word": "王楚钦首轮对战弗朗西斯卡",
@@ -31961,6 +32025,14 @@
       "onboard_time": 1731289336,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 168024,
+      "num": 234271,
+      "word": "斗罗大陆2接档永夜星河",
+      "onboard_time": 1732013359,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 168000,
@@ -33665,6 +33737,14 @@
       "onboard_time": 1731979940,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160225,
+      "num": 235449,
+      "word": "虞书欣丁禹兮翻跳forhastik",
+      "onboard_time": 1732013240,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 160189,
@@ -36267,6 +36347,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 149320,
+      "num": 149320,
+      "word": "白夜破晓最新版预告",
+      "onboard_time": 1732014680,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149268,
       "num": 149268,
       "word": "天舟八号船箭组合体转运至发射区",
@@ -37033,14 +37121,6 @@
       "onboard_time": 1730565498,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145276,
-      "num": 145276,
-      "word": "男子带着代孕婴儿争夺亡妻遗产",
-      "onboard_time": 1732012818,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145248,
@@ -38091,6 +38171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140204,
+      "num": 140204,
+      "word": "爷爷接孙女放学买1米长糖葫芦",
+      "onboard_time": 1732014799,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140198,
       "num": 140198,
       "word": "永夜星河15集",
@@ -38224,6 +38312,14 @@
       "word": "王子文把莫奈花园穿在身上",
       "onboard_time": 1731678800,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 139622,
+      "num": 139622,
+      "word": "角斗士2 尺度",
+      "onboard_time": 1732014320,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -39547,14 +39643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132458,
-      "num": 202809,
-      "word": "杜华每个月都要为乐华大厦还贷款",
-      "onboard_time": 1732011861,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132401,
       "num": 132401,
       "word": "迎接神十八航天员回家",
@@ -40203,6 +40291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129408,
+      "num": 129408,
+      "word": "网曝幼儿园老师教唆全班扇男孩耳光",
+      "onboard_time": 1732014980,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129403,
       "num": 129403,
       "word": "付航红毯再现passion",
@@ -40369,6 +40465,14 @@
       "onboard_time": 1731114978,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128348,
+      "num": 349591,
+      "word": "宁夏有一个蛋卷式防洪水法",
+      "onboard_time": 1732014440,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128305,
@@ -42843,6 +42947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116107,
+      "num": 235160,
+      "word": "直击国足迎战日本队",
+      "onboard_time": 1732012519,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116073,
       "num": 116073,
       "word": "时代少年团直播",
@@ -44553,6 +44665,14 @@
       "onboard_time": 1730505738,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105930,
+      "num": 126549,
+      "word": "魏大勋新剧社交0帧起手",
+      "onboard_time": 1732014260,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 105895,
@@ -49723,6 +49843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62662,
+      "num": 267360,
+      "word": "退钱哥称今天绝不退钱",
+      "onboard_time": 1732014980,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62651,
       "num": 213066,
       "word": "好团圆收官",
@@ -51235,6 +51363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53897,
+      "num": 258794,
+      "word": "小鹏发布史上最强财报",
+      "onboard_time": 1732010779,
+      "rank": 29,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 53893,
       "num": 411014,
       "word": "医保催缴不能与学生受教育权挂钩",
@@ -51953,14 +52089,6 @@
       "onboard_time": 1731734478,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 50136,
-      "num": 258794,
-      "word": "小鹏发布史上最强财报",
-      "onboard_time": 1732010779,
-      "rank": 29,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 50134,
@@ -53240,6 +53368,14 @@
       "word": "梁代文好多星星啊",
       "onboard_time": 1731751638,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43189,
+      "num": 283429,
+      "word": "他们在哈 我在哈哈",
+      "onboard_time": 1732014320,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -56747,6 +56883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30616,
+      "num": 308691,
+      "word": "79元99元的猫猫绝育手术你敢信么",
+      "onboard_time": 1732014380,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30601,
       "num": 651448,
       "word": "和王俊凯一起凯启幸运",
@@ -57529,14 +57673,6 @@
       "onboard_time": 1730988504,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27862,
-      "num": 235160,
-      "word": "直击国足迎战日本队",
-      "onboard_time": 1732012519,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 27796,
