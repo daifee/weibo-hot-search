@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731991344608,
+  "endTime": 1731993750228,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -67,6 +67,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1343871,
+      "num": 1343871,
+      "word": "关晓彤去了王安宇外婆家",
+      "onboard_time": 1731991162,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1251873,
+      "num": 398307,
+      "word": "预制菜影后",
+      "onboard_time": 1731990142,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1211083,
       "num": 499525,
       "word": "全球首例成功换脸换手男子将结婚",
@@ -92,19 +108,11 @@
     },
     {
       "raw_hot": 999012,
-      "num": 269177,
+      "num": 328461,
       "word": "男子为骗保开车撞树当场身亡",
       "onboard_time": 1731980659,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 952105,
-      "num": 398307,
-      "word": "预制菜影后",
-      "onboard_time": 1731990142,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 881403,
@@ -115,8 +123,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 817044,
+      "num": 817044,
+      "word": "炸火花已全面入侵韩娱签售",
+      "onboard_time": 1731990563,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 797893,
-      "num": 279244,
+      "num": 328622,
       "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
       "onboard_time": 1731985580,
       "rank": 35,
@@ -219,8 +235,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 510232,
+      "num": 510232,
+      "word": "炎症拖着不治可能会成癌",
+      "onboard_time": 1731990321,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 500239,
-      "num": 263751,
+      "num": 288714,
       "word": "老公婚后反悔丁克",
       "onboard_time": 1731984860,
       "rank": 25,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 456050,
-      "num": 260714,
+      "num": 270114,
       "word": "北京月租7000的房子",
       "onboard_time": 1731986179,
       "rank": 32,
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390169,
+      "num": 334047,
+      "word": "审判麦琳 对女性的围剿",
+      "onboard_time": 1731991343,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387041,
       "num": 387041,
       "word": "范丞丞粉丝致范丞丞工作室的一封信",
@@ -299,11 +331,19 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 384164,
-      "num": 384164,
-      "word": "炸火花已全面入侵韩娱签售",
-      "onboard_time": 1731990563,
-      "rank": 13,
+      "raw_hot": 372177,
+      "num": 332704,
+      "word": "21年的李行亮麦琳",
+      "onboard_time": 1731992064,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 358913,
+      "num": 333144,
+      "word": "贺峻霖cue小宋回国",
+      "onboard_time": 1731989601,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -331,20 +371,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 332520,
+      "num": 332520,
+      "word": "许凯的评论区",
+      "onboard_time": 1731991282,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323417,
       "num": 323417,
       "word": "永夜星河 怪不得没吻戏",
       "onboard_time": 1731936202,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317624,
-      "num": 317624,
-      "word": "贺峻霖cue小宋回国",
-      "onboard_time": 1731989601,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 316289,
@@ -403,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297960,
+      "num": 409600,
+      "word": "良品铺子将对打假网红提起诉讼",
+      "onboard_time": 1731986179,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 294783,
       "num": 204120,
       "word": "虞书欣丁禹兮双人古风大片",
@@ -417,6 +465,14 @@
       "onboard_time": 1731947417,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287743,
+      "num": 287743,
+      "word": "黄之锋被判56个月",
+      "onboard_time": 1731991463,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 281463,
@@ -435,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278632,
+      "num": 288649,
+      "word": "孔雪儿竟然有九部待播剧",
+      "onboard_time": 1731990682,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276442,
       "num": 282800,
       "word": "正式确诊衣领综合征",
       "onboard_time": 1731970755,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272762,
+      "num": 288394,
+      "word": "好东西 孙红雷发言",
+      "onboard_time": 1731990682,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 270810,
@@ -451,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268793,
-      "num": 409600,
-      "word": "良品铺子将对打假网红提起诉讼",
-      "onboard_time": 1731986179,
-      "rank": 42,
-      "category": "舆论监督"
+      "raw_hot": 260175,
+      "num": 288317,
+      "word": "顶流男主回村相亲",
+      "onboard_time": 1731992842,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 259316,
@@ -480,6 +552,22 @@
       "word": "丁禹兮新加坡到底有谁在啊",
       "onboard_time": 1731972916,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249900,
+      "num": 334944,
+      "word": "谷歌聊天机器人竟回复称人类去死吧",
+      "onboard_time": 1731990742,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 243107,
+      "num": 329007,
+      "word": "向佐要走颜值路线了",
+      "onboard_time": 1731992000,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -515,36 +603,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 229602,
-      "num": 282844,
-      "word": "好东西 孙红雷发言",
-      "onboard_time": 1731990682,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225477,
       "num": 225477,
       "word": "NASA准备随时撤离国际空间站",
       "onboard_time": 1731965110,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 223559,
-      "num": 223559,
-      "word": "炎症拖着不治可能会成癌",
-      "onboard_time": 1731990321,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219468,
-      "num": 239141,
-      "word": "孔雪儿竟然有九部待播剧",
-      "onboard_time": 1731990682,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 217460,
@@ -587,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214326,
-      "num": 214326,
-      "word": "关晓彤去了王安宇外婆家",
-      "onboard_time": 1731991162,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212995,
       "num": 212995,
       "word": "浙江宁波一工厂突发火灾",
@@ -617,6 +673,14 @@
       "onboard_time": 1731972436,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206403,
+      "num": 288085,
+      "word": "大梦想家开机",
+      "onboard_time": 1731992722,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 205834,
@@ -667,6 +731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199963,
+      "num": 199963,
+      "word": "乐华大厦是杜华贷款买的",
+      "onboard_time": 1731993261,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199894,
       "num": 199894,
       "word": "小米汽车卖一辆亏3万",
@@ -683,12 +755,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188821,
-      "num": 188821,
-      "word": "谷歌聊天机器人竟回复称人类去死吧",
-      "onboard_time": 1731990742,
+      "raw_hot": 196960,
+      "num": 196960,
+      "word": "裴珠泫对抗黄牛公开小卡",
+      "onboard_time": 1731991343,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193485,
+      "num": 193485,
+      "word": "星穹铁道大黑塔",
+      "onboard_time": 1731992303,
       "rank": 36,
-      "category": "互联网"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 189944,
+      "num": 258177,
+      "word": "梦天拍朱志鑫",
+      "onboard_time": 1731991041,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 184986,
@@ -705,14 +793,6 @@
       "onboard_time": 1731983057,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183800,
-      "num": 258177,
-      "word": "梦天拍朱志鑫",
-      "onboard_time": 1731991041,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 181824,
@@ -793,6 +873,14 @@
       "onboard_time": 1731931460,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166368,
+      "num": 166368,
+      "word": "朴彩英感谢霉霉在低谷时指导自己",
+      "onboard_time": 1731992601,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 166281,
@@ -907,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "关晓彤王安宇谈三搭",
+      "onboard_time": 1731993140,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144819,
       "num": 144819,
       "word": "小蜜蜂老师离职事件疑云重重",
@@ -939,6 +1035,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 137985,
+      "num": 248970,
+      "word": "退钱哥怒斥部分球迷为日本队加油",
+      "onboard_time": 1731990321,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136715,
       "num": 136715,
       "word": "李行亮朋友回应借钱",
@@ -961,6 +1065,14 @@
       "onboard_time": 1731982941,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135093,
+      "num": 135093,
+      "word": "耿爽联合国2次驳斥美方抹黑言论",
+      "onboard_time": 1731993379,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133352,
@@ -993,14 +1105,6 @@
       "onboard_time": 1731945078,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 130435,
-      "num": 130435,
-      "word": "许凯的评论区",
-      "onboard_time": 1731991282,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 128020,
@@ -1251,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80384,
-      "num": 248970,
-      "word": "退钱哥怒斥部分球迷为日本队加油",
-      "onboard_time": 1731990321,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75030,
       "num": 75030,
       "word": "官方就东北虎伤人事件成立工作组",
@@ -1483,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36142,
+      "num": 287933,
+      "word": "国足队员称对阵日本将很难踢",
+      "onboard_time": 1731993140,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34238,
       "num": 227963,
       "word": "国足对日本若拿分是超额完成任务",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1731947656,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23840,
+      "num": 333666,
+      "word": "良品铺子线上销售未受风波影响",
+      "onboard_time": 1731993502,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23099,

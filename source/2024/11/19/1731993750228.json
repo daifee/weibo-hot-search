@@ -1,0 +1,410 @@
+{
+  "runTime": 1731993750228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1343871,
+        "num": 1343871,
+        "word": "关晓彤去了王安宇外婆家",
+        "onboard_time": 1731991162,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1053186,
+        "num": 1053186,
+        "word": "冰墩墩变身蛇墩墩",
+        "onboard_time": 1731986059,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15188,
+        "num": 883538,
+        "word": "一组图了解多彩巴西",
+        "onboard_time": 1731987981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 817044,
+        "num": 817044,
+        "word": "炸火花已全面入侵韩娱签售",
+        "onboard_time": 1731990563,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510232,
+        "num": 510232,
+        "word": "炎症拖着不治可能会成癌",
+        "onboard_time": 1731990321,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347028,
+        "num": 347028,
+        "word": "打假良品铺子博主称看完调查很寒心",
+        "onboard_time": 1731983658,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 371513,
+        "num": 344932,
+        "word": "赵薇公司被强制执行14177元",
+        "onboard_time": 1731976941,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342372,
+        "num": 342372,
+        "word": "国足要怎么踢才可能赢日本",
+        "onboard_time": 1731982279,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335207,
+        "num": 335207,
+        "word": "45名反中乱港分子被判刑",
+        "onboard_time": 1731986120,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249900,
+        "num": 334944,
+        "word": "谷歌聊天机器人竟回复称人类去死吧",
+        "onboard_time": 1731990742,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1703664,
+        "num": 334824,
+        "word": "许凯被审判",
+        "onboard_time": 1731986540,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1251873,
+        "num": 334353,
+        "word": "预制菜影后",
+        "onboard_time": 1731990142,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390169,
+        "num": 334047,
+        "word": "审判麦琳 对女性的围剿",
+        "onboard_time": 1731991343,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297960,
+        "num": 333725,
+        "word": "良品铺子将对打假网红提起诉讼",
+        "onboard_time": 1731986179,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23840,
+        "num": 333666,
+        "word": "良品铺子线上销售未受风波影响",
+        "onboard_time": 1731993502,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358913,
+        "num": 333144,
+        "word": "贺峻霖cue小宋回国",
+        "onboard_time": 1731989601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342253,
+        "num": 332879,
+        "word": "范丞丞粉丝致范丞丞工作室的一封信",
+        "onboard_time": 1731988222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372177,
+        "num": 332704,
+        "word": "21年的李行亮麦琳",
+        "onboard_time": 1731992064,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332520,
+        "num": 332520,
+        "word": "许凯的评论区",
+        "onboard_time": 1731991282,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243107,
+        "num": 329007,
+        "word": "向佐要走颜值路线了",
+        "onboard_time": 1731992000,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503193,
+        "num": 328622,
+        "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+        "onboard_time": 1731985580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377345,
+        "num": 328461,
+        "word": "男子为骗保开车撞树当场身亡",
+        "onboard_time": 1731980659,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327950,
+        "num": 327950,
+        "word": "男子开钟点房洗8件羽绒服10件毛衣",
+        "onboard_time": 1731979578,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297669,
+        "num": 297669,
+        "word": "给学生戴小蜜蜂别又是秦朗事件",
+        "onboard_time": 1731983359,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 288714,
+        "num": 288714,
+        "word": "老公婚后反悔丁克",
+        "onboard_time": 1731984860,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278632,
+        "num": 288649,
+        "word": "孔雪儿竟然有九部待播剧",
+        "onboard_time": 1731990682,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272762,
+        "num": 288394,
+        "word": "好东西 孙红雷发言",
+        "onboard_time": 1731990682,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260175,
+        "num": 288317,
+        "word": "顶流男主回村相亲",
+        "onboard_time": 1731992842,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206403,
+        "num": 288085,
+        "word": "大梦想家开机",
+        "onboard_time": 1731992722,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36142,
+        "num": 287933,
+        "word": "国足队员称对阵日本将很难踢",
+        "onboard_time": 1731993140,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287743,
+        "num": 287743,
+        "word": "黄之锋被判56个月",
+        "onboard_time": 1731991463,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270114,
+        "num": 270114,
+        "word": "北京月租7000的房子",
+        "onboard_time": 1731986179,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228593,
+        "num": 228593,
+        "word": "巴西首都27岁就被列入世界遗产名录",
+        "onboard_time": 1731978979,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199963,
+        "num": 199963,
+        "word": "乐华大厦是杜华贷款买的",
+        "onboard_time": 1731993261,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197320,
+        "num": 197320,
+        "word": "男子猥亵被抓下跪警察说道歉有用要我们干嘛",
+        "onboard_time": 1731988762,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196960,
+        "num": 196960,
+        "word": "裴珠泫对抗黄牛公开小卡",
+        "onboard_time": 1731991343,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193485,
+        "num": 193485,
+        "word": "星穹铁道大黑塔",
+        "onboard_time": 1731992303,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189944,
+        "num": 189944,
+        "word": "梦天拍朱志鑫",
+        "onboard_time": 1731991041,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187587,
+        "num": 187587,
+        "word": "上班睡觉1小时被开除起诉获赔35万",
+        "onboard_time": 1731942920,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170867,
+        "num": 170867,
+        "word": "浙江宁波一工厂突发火灾",
+        "onboard_time": 1731989421,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 166368,
+        "num": 166368,
+        "word": "朴彩英感谢霉霉在低谷时指导自己",
+        "onboard_time": 1731992601,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148025,
+        "num": 148025,
+        "word": "关晓彤王安宇谈三搭",
+        "onboard_time": 1731993140,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146085,
+        "num": 146085,
+        "word": "5种不舒服可能是癌症信号",
+        "onboard_time": 1731979518,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139818,
+        "num": 139818,
+        "word": "郭俊辰看代拍吵架憋出内伤",
+        "onboard_time": 1731987981,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139061,
+        "num": 139061,
+        "word": "冰墩墩换上蛇年新皮肤回归",
+        "onboard_time": 1731990441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "退钱哥怒斥部分球迷为日本队加油",
+        "onboard_time": 1731990321,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135093,
+        "num": 135093,
+        "word": "耿爽联合国2次驳斥美方抹黑言论",
+        "onboard_time": 1731993379,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134630,
+        "num": 134630,
+        "word": "丁禹兮涨粉",
+        "onboard_time": 1731974057,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124480,
+        "num": 124480,
+        "word": "林一说现偶关键在男主爱女主",
+        "onboard_time": 1731987199,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116809,
+        "num": 116809,
+        "word": "陈都灵一秒代入晋江女主",
+        "onboard_time": 1731990381,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国支持全球发展的八项行动#"
+    }
+  }
+}
