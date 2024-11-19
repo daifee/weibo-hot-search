@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/19 23:40:42
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 00:28:58
 </p>
 </blockquote>
 <p>
@@ -4449,6 +4449,12 @@ papi酱说李行亮不哄了（热度：846286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%9B%80%E7%BE%9A%23" target="weibo">
+百雀羚（热度：819854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E7%94%B5%E6%A2%AF%E5%86%85%E5%B0%86%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%8D%82%E5%98%B4%E6%8A%B1%E8%B5%B0%23" target="weibo">
 警方回应男孩电梯内将小女孩捂嘴抱走（热度：819594）
 </a>
@@ -5045,6 +5051,12 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%BE%E5%B7%9E%E6%8A%95%E7%A5%A8%E5%A4%A7%E6%A5%BC%E9%81%AD%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%23" target="weibo">
 美国宾州投票大楼遭炸弹威胁（热度：744771）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E7%A5%9B%E6%96%91%E6%89%8B%E6%9C%AF10%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96%23" target="weibo">
+27岁女子祛斑手术10天后离世（热度：744756）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Mate70（热度：663151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E5%AF%B9%E7%8F%A0%E6%B5%B7%E9%A9%BE%E8%BD%A6%E5%86%B2%E6%92%9E%E8%A1%8C%E4%BA%BA%E6%A1%88%E8%A1%A8%E6%80%81%23" target="weibo">
 最高检对珠海驾车冲撞行人案表态（热度：655550）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E8%BE%88%E5%AD%90%E6%8D%A2%E6%88%91%E9%95%BF%E9%AB%98%E5%9C%86%E5%9C%86%E8%BF%99%E6%A0%B7%23" target="weibo">
-下辈子换我长高圆圆这样（热度：655239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%AD%A6%E6%BC%86%E8%89%BA%E6%97%B6%E4%B8%A5%E9%87%8D%E8%BF%87%E6%95%8F%23" target="weibo">
-李子柒学漆艺时严重过敏（热度：655073）
 </a>
 </li>
 

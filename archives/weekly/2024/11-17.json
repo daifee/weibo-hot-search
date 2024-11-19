@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732030842532,
+  "endTime": 1732033738304,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -827,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 819854,
+      "num": 819854,
+      "word": "百雀羚",
+      "onboard_time": 1732028182,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 819577,
       "num": 819577,
       "word": "华为Mate70来了",
@@ -992,6 +1000,14 @@
       "word": "烧伤妈妈丈夫问没有房产证如何卖房",
       "onboard_time": 1731819620,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744756,
+      "num": 744756,
+      "word": "27岁女子祛斑手术10天后离世",
+      "onboard_time": 1732030159,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1449,14 +1465,6 @@
       "onboard_time": 1731844099,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592409,
-      "num": 592409,
-      "word": "百雀羚",
-      "onboard_time": 1732028182,
-      "rank": 17,
-      "category": "美妆"
     },
     {
       "raw_hot": 589471,
@@ -2171,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386485,
+      "num": 386485,
+      "word": "歌手鹿晗",
+      "onboard_time": 1732030340,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386383,
       "num": 334794,
       "word": "丁舟杰 祝你年年有虞",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1731842239,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 344425,
+      "num": 344425,
+      "word": "丁禹兮自拍报备行程",
+      "onboard_time": 1732030879,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 343971,
@@ -3059,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270977,
+      "num": 270977,
+      "word": "靠谱的国货卫生巾",
+      "onboard_time": 1732017920,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270747,
       "num": 270747,
       "word": "林保怡 可惜",
@@ -3147,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261606,
+      "num": 261606,
+      "word": "ZOFGK解散",
+      "onboard_time": 1732031899,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 261445,
       "num": 261445,
       "word": "恋与深空",
@@ -3225,14 +3265,6 @@
       "onboard_time": 1731820339,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258767,
-      "num": 258767,
-      "word": "靠谱的国货卫生巾",
-      "onboard_time": 1732017920,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 258079,
@@ -4339,14 +4371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192873,
-      "num": 403983,
-      "word": "27岁女子祛斑手术10天后离世",
-      "onboard_time": 1732030159,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192199,
       "num": 192199,
       "word": "张真源微醺了",
@@ -4939,6 +4963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177572,
+      "num": 817437,
+      "word": "北上深均已取消普通住房标准",
+      "onboard_time": 1732029559,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "马斯克上位史",
@@ -5483,6 +5515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161371,
+      "num": 161371,
+      "word": "请不遗余力照顾好自己",
+      "onboard_time": 1732031479,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161347,
       "num": 161347,
       "word": "丁禹兮新歌发布通知",
@@ -5947,6 +5987,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 148920,
+      "num": 148920,
+      "word": "国足所在小组彻底乱了",
+      "onboard_time": 1732032859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148630,
       "num": 276280,
       "word": "王皓回应王楚钦近期状态",
@@ -6331,6 +6379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139514,
+      "num": 178133,
+      "word": "现在就出发直播",
+      "onboard_time": 1732030998,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139446,
       "num": 139446,
       "word": "华为Mate70系列有超大杯机型",
@@ -6417,14 +6473,6 @@
       "onboard_time": 1731933800,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 136885,
-      "num": 817437,
-      "word": "北上深均已取消普通住房标准",
-      "onboard_time": 1732029559,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 136619,
@@ -7675,6 +7723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88896,
+      "num": 485337,
+      "word": "公园通报东北虎伤人事件",
+      "onboard_time": 1732032859,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 88236,
       "num": 88236,
       "word": "博格丹买了一堆中国战斗机模型",
@@ -7713,6 +7769,14 @@
       "onboard_time": 1731816258,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 87694,
+      "num": 87694,
+      "word": "付出型的含金量持续上升",
+      "onboard_time": 1732033457,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 86903,
@@ -7760,6 +7824,14 @@
       "word": "国足结束2024年征程",
       "onboard_time": 1732027281,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83893,
+      "num": 474395,
+      "word": "日本主帅说中国队很有潜力",
+      "onboard_time": 1732030340,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -7832,6 +7904,14 @@
       "word": "外卖明明评分挺高为啥那么难吃",
       "onboard_time": 1731999799,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80616,
+      "num": 80616,
+      "word": "教育局调查教师让学生轮流掌掴一孩子",
+      "onboard_time": 1732031239,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -8611,6 +8691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51956,
+      "num": 400250,
+      "word": "陈奕迅被唱歌耽误的功夫大师",
+      "onboard_time": 1732030159,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51928,
       "num": 542548,
       "word": "专家科普路遇东北虎如何脱险",
@@ -8675,20 +8763,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51140,
-      "num": 400250,
-      "word": "陈奕迅被唱歌耽误的功夫大师",
-      "onboard_time": 1732030159,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51012,
       "num": 226562,
       "word": "孟晚舟最新演讲寄语毕业生",
       "onboard_time": 1731836118,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50900,
+      "num": 262650,
+      "word": "赵小童愿红包能早日觅得一心上狗",
+      "onboard_time": 1732033516,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 50793,
@@ -8921,14 +9009,6 @@
       "onboard_time": 1731918380,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44486,
-      "num": 474395,
-      "word": "日本主帅说中国队很有潜力",
-      "onboard_time": 1732030340,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 44389,

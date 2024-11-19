@@ -1,0 +1,411 @@
+{
+  "startTime": 1732033738304,
+  "endTime": 1732033738304,
+  "band_list": [
+    {
+      "raw_hot": 1079048,
+      "num": 1079048,
+      "word": "何同学致歉",
+      "onboard_time": 1732028600,
+      "rank": 0,
+      "category": "数码,网红"
+    },
+    {
+      "raw_hot": 864663,
+      "num": 461587,
+      "word": "ABC卫生巾",
+      "onboard_time": 1732028541,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 819854,
+      "num": 819854,
+      "word": "百雀羚",
+      "onboard_time": 1732028182,
+      "rank": 1,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 744756,
+      "num": 744756,
+      "word": "27岁女子祛斑手术10天后离世",
+      "onboard_time": 1732030159,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632726,
+      "num": 632726,
+      "word": "国足vs日本",
+      "onboard_time": 1732016119,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 549410,
+      "num": 549410,
+      "word": "Zeus离队",
+      "onboard_time": 1732028120,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 447425,
+      "num": 447425,
+      "word": "祝绪祝绪丹丹 祝绪祝绪丹",
+      "onboard_time": 1732024282,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 420049,
+      "num": 420049,
+      "word": "Doran加入T1",
+      "onboard_time": 1732028001,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 386485,
+      "num": 386485,
+      "word": "歌手鹿晗",
+      "onboard_time": 1732030340,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344425,
+      "num": 344425,
+      "word": "丁禹兮自拍报备行程",
+      "onboard_time": 1732030879,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335854,
+      "num": 532066,
+      "word": "宋莹经典台词是蒋欣即兴发挥",
+      "onboard_time": 1732026322,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 321140,
+      "num": 515433,
+      "word": "石云鹏回应小巷人家大结局没鹏飞",
+      "onboard_time": 1732021522,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 310933,
+      "num": 310933,
+      "word": "国足2胜4负暂列小组第5",
+      "onboard_time": 1732026262,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 299031,
+      "num": 299031,
+      "word": "酒后在足疗店死亡家属索赔194万",
+      "onboard_time": 1732025602,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275701,
+      "num": 275701,
+      "word": "麦琳 不是好妻子但是好老公",
+      "onboard_time": 1732009520,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270977,
+      "num": 270977,
+      "word": "靠谱的国货卫生巾",
+      "onboard_time": 1732017920,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261606,
+      "num": 261606,
+      "word": "ZOFGK解散",
+      "onboard_time": 1732031899,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 249899,
+      "num": 249899,
+      "word": "医用卫生巾",
+      "onboard_time": 1732013240,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183729,
+      "num": 183729,
+      "word": "国足进球了",
+      "onboard_time": 1732022062,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182679,
+      "num": 182679,
+      "word": "丁禹兮回来路上了",
+      "onboard_time": 1732028303,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177572,
+      "num": 177572,
+      "word": "北上深均已取消普通住房标准",
+      "onboard_time": 1732029559,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 161371,
+      "num": 161371,
+      "word": "请不遗余力照顾好自己",
+      "onboard_time": 1732031479,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148920,
+      "num": 148920,
+      "word": "国足所在小组彻底乱了",
+      "onboard_time": 1732032859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144758,
+      "num": 507121,
+      "word": "乌军首次使用美导弹系统袭击俄罗斯",
+      "onboard_time": 1732024584,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139514,
+      "num": 178133,
+      "word": "现在就出发直播",
+      "onboard_time": 1732030998,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138741,
+      "num": 138741,
+      "word": "麦琳 美环花子",
+      "onboard_time": 1732027042,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125994,
+      "num": 125994,
+      "word": "释小龙近照",
+      "onboard_time": 1732012040,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122928,
+      "num": 177392,
+      "word": "降低身体慢性炎症的2个方法",
+      "onboard_time": 1732017260,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116483,
+      "num": 116483,
+      "word": "女子用过期眼药水视力降至0.1",
+      "onboard_time": 1732024464,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107503,
+      "num": 172784,
+      "word": "关晓彤替庄筱婷发个自拍",
+      "onboard_time": 1732030040,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101644,
+      "num": 166147,
+      "word": "珠帘玉幕 赵露思写真集",
+      "onboard_time": 1732017859,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98959,
+      "num": 98959,
+      "word": "官方通报民警将报警人关留置室逼和解",
+      "onboard_time": 1732023022,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 98379,
+      "num": 98379,
+      "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
+      "onboard_time": 1732021821,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 97931,
+      "num": 97931,
+      "word": "2岁男童下楼买糖时被人拐走",
+      "onboard_time": 1732003400,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96444,
+      "num": 96444,
+      "word": "刘亚仁因父亲去世请求减刑",
+      "onboard_time": 1732017020,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95971,
+      "num": 164024,
+      "word": "TVB台庆",
+      "onboard_time": 1732023442,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93476,
+      "num": 93476,
+      "word": "HLE与Viper续约",
+      "onboard_time": 1732021102,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 91672,
+      "num": 91672,
+      "word": "eStar 小玖",
+      "onboard_time": 1732028120,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90678,
+      "num": 90678,
+      "word": "往南走的麦子阿姨说放不下土地",
+      "onboard_time": 1732027821,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88896,
+      "num": 485337,
+      "word": "公园通报东北虎伤人事件",
+      "onboard_time": 1732032859,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 88825,
+      "num": 88825,
+      "word": "张真源微醺了",
+      "onboard_time": 1732029020,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87694,
+      "num": 87694,
+      "word": "付出型的含金量持续上升",
+      "onboard_time": 1732033457,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84069,
+      "num": 84069,
+      "word": "朱志鑫直播",
+      "onboard_time": 1732014200,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83893,
+      "num": 83893,
+      "word": "日本主帅说中国队很有潜力",
+      "onboard_time": 1732030340,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82096,
+      "num": 82096,
+      "word": "杜华每个月都要为乐华大厦还贷款",
+      "onboard_time": 1732011861,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80616,
+      "num": 80616,
+      "word": "教育局调查教师让学生轮流掌掴一孩子",
+      "onboard_time": 1732031239,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78595,
+      "num": 78595,
+      "word": "范志毅看国足比赛吸上氧了",
+      "onboard_time": 1732022782,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51956,
+      "num": 91926,
+      "word": "陈奕迅被唱歌耽误的功夫大师",
+      "onboard_time": 1732030159,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50900,
+      "num": 262650,
+      "word": "赵小童愿红包能早日觅得一心上狗",
+      "onboard_time": 1732033516,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33026,
+      "num": 745103,
+      "word": "电力高速公路上的中巴友谊",
+      "onboard_time": 1732020440,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#我立志要办成的一件大事#"
+    }
+  ]
+}
