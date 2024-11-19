@@ -1,0 +1,410 @@
+{
+  "runTime": 1732011960191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 685656,
+        "num": 1109705,
+        "word": "广州将在全市收购90平以下存量房",
+        "onboard_time": 1732006160,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 568076,
+        "num": 568076,
+        "word": "官方通报办事大厅员工10点离岗吃饭",
+        "onboard_time": 1732007181,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 119930,
+        "num": 544931,
+        "word": "中医火到巴西",
+        "onboard_time": 1732007478,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 830680,
+        "num": 544451,
+        "word": "2岁男童下楼买糖时被人拐走",
+        "onboard_time": 1732003400,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605951,
+        "num": 544079,
+        "word": "刘爽 死嘴快答",
+        "onboard_time": 1732005800,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543546,
+        "num": 543546,
+        "word": "爱上黄圣依",
+        "onboard_time": 1732007120,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429066,
+        "num": 429066,
+        "word": "好东西小孩是梅婷女儿",
+        "onboard_time": 1732009278,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 400669,
+        "num": 400669,
+        "word": "父子俩双双跳水1分23秒救起2人",
+        "onboard_time": 1732002620,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 5904,
+        "num": 396752,
+        "word": "国足vs日本首发",
+        "onboard_time": 1732011861,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117712,
+        "num": 389229,
+        "word": "警方介入打假博主团队被商户围殴",
+        "onboard_time": 1732010959,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 737810,
+        "num": 385503,
+        "word": "麦琳 不是好妻子但是好老公",
+        "onboard_time": 1732009520,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 728232,
+        "num": 375614,
+        "word": "夫妻花19万去南极想睡一间房被拒",
+        "onboard_time": 1732004240,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16833,
+        "num": 373745,
+        "word": "好东西呈现幽默而生猛的两性议题",
+        "onboard_time": 1732011922,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87949,
+        "num": 362001,
+        "word": "吉林一高校拟推校园礼仪规范遭质疑",
+        "onboard_time": 1732010658,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614831,
+        "num": 356910,
+        "word": "严浩翔评论区 公务员面试现场",
+        "onboard_time": 1732009399,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612311,
+        "num": 354612,
+        "word": "赵丽颖 别逼我变成薛扇扇",
+        "onboard_time": 1732001180,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554308,
+        "num": 343966,
+        "word": "去银行提7万块钱结果被抓了",
+        "onboard_time": 1732007602,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69763,
+        "num": 336805,
+        "word": "罗云熙照片不发会过期",
+        "onboard_time": 1732010420,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249814,
+        "num": 332588,
+        "word": "以为王楚钦要跳小天鹅了",
+        "onboard_time": 1732010959,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38629,
+        "num": 326177,
+        "word": "4岁女童独自坐地铁回家不值得提倡",
+        "onboard_time": 1732010120,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322118,
+        "num": 322118,
+        "word": "将门独后 刘浩存",
+        "onboard_time": 1731997340,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544733,
+        "num": 319492,
+        "word": "月薪2万5万10万本质上的不同",
+        "onboard_time": 1732011619,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299214,
+        "num": 299214,
+        "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
+        "onboard_time": 1732010779,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 273695,
+        "num": 273695,
+        "word": "美国男子杀全家后踢破审讯室墙壁逃跑",
+        "onboard_time": 1732009340,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44389,
+        "num": 270575,
+        "word": "银川一高架桥13车相撞3人受伤",
+        "onboard_time": 1732010120,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40226,
+        "num": 269152,
+        "word": "付航的passion浓度还在上升",
+        "onboard_time": 1732008621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267899,
+        "num": 267899,
+        "word": "硬核版炸火花来啦",
+        "onboard_time": 1732006340,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 190063,
+        "num": 262121,
+        "word": "肖战我们第二小节宣传视频",
+        "onboard_time": 1732011619,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188388,
+        "num": 259761,
+        "word": "关晓彤去了王安宇外婆家",
+        "onboard_time": 1731991162,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50136,
+        "num": 258794,
+        "word": "小鹏发布史上最强财报",
+        "onboard_time": 1732010779,
+        "rank": 29,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 258079,
+        "num": 258079,
+        "word": "珠帘玉幕导演追求真实摒弃古偶",
+        "onboard_time": 1732007181,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254924,
+        "num": 254924,
+        "word": "殷世航 东南vip",
+        "onboard_time": 1732004120,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 244683,
+        "num": 244683,
+        "word": "冰墩墩变身蛇墩墩",
+        "onboard_time": 1731986059,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50017,
+        "num": 202809,
+        "word": "杜华每个月都要为乐华大厦还贷款",
+        "onboard_time": 1732011861,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194710,
+        "num": 194710,
+        "word": "现在美甲已经进化到这样了吗",
+        "onboard_time": 1732003040,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 177374,
+        "num": 177374,
+        "word": "国足上次击败日本还是26年前",
+        "onboard_time": 1732004660,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176256,
+        "num": 176256,
+        "word": "2025春节档有你想看的吗",
+        "onboard_time": 1732006399,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172613,
+        "num": 172613,
+        "word": "夏弃疾 神厨",
+        "onboard_time": 1732011198,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166975,
+        "num": 166975,
+        "word": "华为Mate70价格",
+        "onboard_time": 1731996559,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166491,
+        "num": 166491,
+        "word": "永夜星河 时间线",
+        "onboard_time": 1732010239,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162498,
+        "num": 162498,
+        "word": "被东北虎袭击老人头皮有撕裂伤",
+        "onboard_time": 1731996799,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 56332,
+        "num": 159258,
+        "word": "75岁球迷大爷挥舞国旗高喊中国必胜",
+        "onboard_time": 1732010479,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158074,
+        "num": 158074,
+        "word": "炸火花已全面入侵韩娱签售",
+        "onboard_time": 1731990563,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153181,
+        "num": 153181,
+        "word": "WTT福冈总决赛球员宣传照",
+        "onboard_time": 1732008441,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146946,
+        "num": 146946,
+        "word": "90后把600万房款投入股市",
+        "onboard_time": 1731997700,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 145848,
+        "num": 145848,
+        "word": "Ning回应姿态队被判负",
+        "onboard_time": 1732008379,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109749,
+        "num": 141851,
+        "word": "你没看过白夜追凶啊",
+        "onboard_time": 1732010420,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141358,
+        "num": 141358,
+        "word": "LPC解释迟到原因",
+        "onboard_time": 1732009399,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130651,
+        "num": 130651,
+        "word": "王昶 讹梁伟铿一顿饭是免不了",
+        "onboard_time": 1732006279,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130275,
+        "num": 130275,
+        "word": "预制菜影后",
+        "onboard_time": 1731990142,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#我立志要办成的一件大事#"
+    }
+  }
+}
