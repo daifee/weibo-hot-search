@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732047936577,
+  "endTime": 1732048763339,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -9547,6 +9547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35159,
+      "num": 51586,
+      "word": "被老虎咬伤村民家大门紧闭",
+      "onboard_time": 1732047370,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34789,
       "num": 418304,
       "word": "KPL的人脉也太开门了",
@@ -10835,11 +10843,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13708,
-      "num": 51586,
-      "word": "被老虎咬伤村民家大门紧闭",
-      "onboard_time": 1732047370,
-      "rank": 9,
+      "raw_hot": 13694,
+      "num": 25140,
+      "word": "专家称目前是老虎繁殖期游荡范围大",
+      "onboard_time": 1732048580,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -11139,6 +11147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9379,
+      "num": 27674,
+      "word": "尹子维 痞帅渣苏感",
+      "onboard_time": 1732047310,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 9101,
       "num": 84904,
       "word": "王劲松印象最深刻的一顿饭",
@@ -11169,14 +11185,6 @@
       "onboard_time": 1731951193,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7253,
-      "num": 27674,
-      "word": "尹子维 痞帅渣苏感",
-      "onboard_time": 1732047310,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6959,
@@ -11225,6 +11233,14 @@
       "onboard_time": 1731780614,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5716,
+      "num": 30252,
+      "word": "严浩翔拍摄搭档",
+      "onboard_time": 1732048519,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 5685,
