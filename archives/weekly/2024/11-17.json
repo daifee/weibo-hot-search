@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732044962889,
+  "endTime": 1732047936577,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -10083,6 +10083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 26863,
+      "num": 26863,
+      "word": "专家称野生东北虎咬人属应激反应",
+      "onboard_time": 1732044971,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26655,
       "num": 114216,
       "word": "周翊然见面会",
@@ -10177,6 +10185,14 @@
       "onboard_time": 1732041432,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24824,
+      "num": 24824,
+      "word": "我立志要办成的一件大事",
+      "onboard_time": 1732045213,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24738,
@@ -10819,6 +10835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13708,
+      "num": 51586,
+      "word": "被老虎咬伤村民家大门紧闭",
+      "onboard_time": 1732047370,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13489,
       "num": 514145,
       "word": "李昊见到容祖儿说我有一块田",
@@ -11145,6 +11169,14 @@
       "onboard_time": 1731951193,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7253,
+      "num": 27674,
+      "word": "尹子维 痞帅渣苏感",
+      "onboard_time": 1732047310,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6959,

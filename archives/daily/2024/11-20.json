@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732044962889,
+  "endTime": 1732047936577,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -547,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26863,
+      "num": 26863,
+      "word": "专家称野生东北虎咬人属应激反应",
+      "onboard_time": 1732044971,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25805,
       "num": 25805,
       "word": "重庆市卫健委回应群发短信宣传政策无误",
@@ -571,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24824,
+      "num": 24824,
+      "word": "我立志要办成的一件大事",
+      "onboard_time": 1732045213,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21326,
       "num": 63441,
       "word": "这一刻爷爷的爱有了形状",
@@ -593,6 +609,14 @@
       "onboard_time": 1732043531,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13708,
+      "num": 51586,
+      "word": "被老虎咬伤村民家大门紧闭",
+      "onboard_time": 1732047370,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12319,
@@ -625,6 +649,14 @@
       "onboard_time": 1732043112,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7253,
+      "num": 27674,
+      "word": "尹子维 痞帅渣苏感",
+      "onboard_time": 1732047310,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6557,
