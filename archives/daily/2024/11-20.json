@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732043938995,
+  "endTime": 1732044962889,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -547,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25805,
+      "num": 25805,
+      "word": "重庆市卫健委回应群发短信宣传政策无误",
+      "onboard_time": 1732042272,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 25027,
       "num": 25027,
       "word": "国足1比3日本",
@@ -561,14 +569,6 @@
       "onboard_time": 1732041432,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23423,
-      "num": 23423,
-      "word": "重庆市卫健委回应群发短信宣传政策无误",
-      "onboard_time": 1732042272,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 21326,
@@ -587,8 +587,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19064,
-      "num": 38620,
+      "raw_hot": 19630,
+      "num": 65002,
       "word": "二十国集团里约峰会",
       "onboard_time": 1732043531,
       "rank": 19,
@@ -619,12 +619,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 7540,
+      "raw_hot": 9449,
       "num": 32241,
       "word": "时代少年团星光璀璨前是不断地磨合与努力",
       "onboard_time": 1732043112,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6557,
+      "num": 28711,
+      "word": "赵丽颖马丽神同步",
+      "onboard_time": 1732044911,
+      "rank": 29,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
