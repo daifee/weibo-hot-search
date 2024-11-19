@@ -1,0 +1,410 @@
+{
+  "runTime": 1732005012920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 754969,
+        "num": 1120795,
+        "word": "将门独后 刘浩存",
+        "onboard_time": 1731997340,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 712172,
+        "num": 712172,
+        "word": "2岁男童下楼买糖时被人拐走",
+        "onboard_time": 1732003400,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3642,
+        "num": 653538,
+        "word": "一组图了解多彩巴西",
+        "onboard_time": 1731987981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 622462,
+        "num": 622462,
+        "word": "被东北虎袭击老人头皮有撕裂伤",
+        "onboard_time": 1731996799,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 599309,
+        "num": 599309,
+        "word": "冰墩墩变身蛇墩墩",
+        "onboard_time": 1731986059,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529111,
+        "num": 529111,
+        "word": "对重大恶性犯罪依法从严从快惩治",
+        "onboard_time": 1731997580,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 502383,
+        "num": 502383,
+        "word": "关晓彤去了王安宇外婆家",
+        "onboard_time": 1731991162,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428827,
+        "num": 428827,
+        "word": "90后把600万房款投入股市",
+        "onboard_time": 1731997700,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 21316,
+        "num": 428112,
+        "word": "被野生虎咬伤村民左手保住了",
+        "onboard_time": 1732004900,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29995,
+        "num": 426869,
+        "word": "100秒看乌镇古韵与科技交融",
+        "onboard_time": 1732003820,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1564274,
+        "num": 426220,
+        "word": "赵丽颖 别逼我变成薛扇扇",
+        "onboard_time": 1732001180,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229188,
+        "num": 425067,
+        "word": "金莎见周迅紧张到结巴",
+        "onboard_time": 1732003938,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62913,
+        "num": 423918,
+        "word": "国足上次击败日本还是26年前",
+        "onboard_time": 1732004660,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423798,
+        "num": 423798,
+        "word": "炸火花已全面入侵韩娱签售",
+        "onboard_time": 1731990563,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 413672,
+        "num": 413672,
+        "word": "预制菜影后",
+        "onboard_time": 1731990142,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102405,
+        "num": 413647,
+        "word": "日本战国足名单总身价近3亿",
+        "onboard_time": 1732004000,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17203,
+        "num": 413293,
+        "word": "A股逆转翻红",
+        "onboard_time": 1732004481,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9157,
+        "num": 413137,
+        "word": "邓超说演员像剑客一样",
+        "onboard_time": 1732003520,
+        "rank": 17,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 33976,
+        "num": 412800,
+        "word": "王濛在线感谢护士粉丝",
+        "onboard_time": 1732003520,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73627,
+        "num": 412440,
+        "word": "华为Mate70金丝银锦",
+        "onboard_time": 1732003640,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 412363,
+        "num": 412363,
+        "word": "重庆一区群发再婚后可生3孩短信",
+        "onboard_time": 1732001541,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380707,
+        "num": 380707,
+        "word": "夫妻花19万去南极想睡一间房被拒",
+        "onboard_time": 1732004240,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321529,
+        "num": 321529,
+        "word": "现在美甲已经进化到这样了吗",
+        "onboard_time": 1732003040,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 292175,
+        "num": 292175,
+        "word": "九华山景区多只狗的脚被砍断",
+        "onboard_time": 1731994100,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 44220,
+        "num": 282220,
+        "word": "朱志鑫倒刺",
+        "onboard_time": 1732004481,
+        "rank": 24,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 43544,
+        "num": 278724,
+        "word": "米爆娃",
+        "onboard_time": 1732004720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277830,
+        "num": 277830,
+        "word": "姚琛 我直播不是为了展示这个",
+        "onboard_time": 1732001239,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186930,
+        "num": 275172,
+        "word": "孙丞潇演网剧男主了",
+        "onboard_time": 1731996021,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70246,
+        "num": 274063,
+        "word": "好东西 妈妈的声音",
+        "onboard_time": 1732003820,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273501,
+        "num": 273501,
+        "word": "姿态队迟到被判负",
+        "onboard_time": 1732003520,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266304,
+        "num": 266304,
+        "word": "华为Mate70价格",
+        "onboard_time": 1731996559,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246792,
+        "num": 246792,
+        "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+        "onboard_time": 1731985580,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236261,
+        "num": 236261,
+        "word": "父子俩双双跳水1分23秒救起2人",
+        "onboard_time": 1732002620,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 218498,
+        "num": 218498,
+        "word": "男子开钟点房洗8件羽绒服10件毛衣",
+        "onboard_time": 1731979578,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211095,
+        "num": 211095,
+        "word": "石破茂遭日本网友吐槽",
+        "onboard_time": 1731997340,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202373,
+        "num": 202373,
+        "word": "许凯被审判",
+        "onboard_time": 1731986540,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181860,
+        "num": 196268,
+        "word": "祝绪丹说媚眼抛给瞎子看",
+        "onboard_time": 1731995899,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54963,
+        "num": 196145,
+        "word": "孙颖莎10800分世排第一",
+        "onboard_time": 1732003938,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14912,
+        "num": 196124,
+        "word": "25岁拖延症严重确诊成人ADHD",
+        "onboard_time": 1732004359,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196123,
+        "num": 196123,
+        "word": "本周五北京可买蛇墩墩",
+        "onboard_time": 1732000219,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186965,
+        "num": 186965,
+        "word": "殷世航 东南vip",
+        "onboard_time": 1732004120,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186492,
+        "num": 186492,
+        "word": "樊振东和王楚钦关于五花肉的故事",
+        "onboard_time": 1731999380,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181439,
+        "num": 181439,
+        "word": "男子手持仪器扫描航展军事设备",
+        "onboard_time": 1732002140,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 173130,
+        "num": 173130,
+        "word": "林一把和沈月的合照藏了三年",
+        "onboard_time": 1731996680,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169101,
+        "num": 169101,
+        "word": "男子为骗保开车撞树当场身亡",
+        "onboard_time": 1731980659,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162862,
+        "num": 162862,
+        "word": "CPA",
+        "onboard_time": 1732003581,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162486,
+        "num": 162486,
+        "word": "国足要怎么踢才可能赢日本",
+        "onboard_time": 1731982279,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156689,
+        "num": 156689,
+        "word": "钟楚曦 不要随便评价别人",
+        "onboard_time": 1732004779,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153797,
+        "num": 153797,
+        "word": "崔秀彬缺席年末",
+        "onboard_time": 1732001599,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152427,
+        "num": 152427,
+        "word": "燕子京满头长生辫终是难长生",
+        "onboard_time": 1732004840,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国支持全球发展的八项行动#"
+    }
+  }
+}

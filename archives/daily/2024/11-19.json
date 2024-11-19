@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1732001903306,
+  "endTime": 1732005012920,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -49,6 +49,14 @@
       "onboard_time": 1731986299,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1564274,
+      "num": 498743,
+      "word": "赵丽颖 别逼我变成薛扇扇",
+      "onboard_time": 1732001180,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1562735,
@@ -195,6 +203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 712172,
+      "num": 712172,
+      "word": "2岁男童下楼买糖时被人拐走",
+      "onboard_time": 1732003400,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 691315,
       "num": 883544,
       "word": "挖呀挖黄老师怒怼营销号",
@@ -307,14 +323,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 498743,
-      "num": 498743,
-      "word": "赵丽颖 别逼我变成薛扇扇",
-      "onboard_time": 1732001180,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 498299,
       "num": 498299,
       "word": "华为Mate70价格",
@@ -379,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428827,
+      "num": 428827,
+      "word": "90后把600万房款投入股市",
+      "onboard_time": 1731997700,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 419643,
       "num": 398715,
       "word": "钟楚曦抽烟好港",
       "onboard_time": 1731994700,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412363,
+      "num": 412363,
+      "word": "重庆一区群发再婚后可生3孩短信",
+      "onboard_time": 1732001541,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409270,
@@ -443,6 +467,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 380707,
+      "num": 380707,
+      "word": "夫妻花19万去南极想睡一间房被拒",
+      "onboard_time": 1732004240,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358913,
       "num": 333144,
       "word": "贺峻霖cue小宋回国",
@@ -497,6 +529,14 @@
       "onboard_time": 1731936202,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321529,
+      "num": 321529,
+      "word": "现在美甲已经进化到这样了吗",
+      "onboard_time": 1732003040,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 316289,
@@ -619,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277830,
+      "num": 302072,
+      "word": "姚琛 我直播不是为了展示这个",
+      "onboard_time": 1732001239,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276442,
       "num": 282800,
       "word": "正式确诊衣领综合征",
       "onboard_time": 1731970755,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 273501,
+      "num": 273501,
+      "word": "姿态队迟到被判负",
+      "onboard_time": 1732003520,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 272762,
@@ -683,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252947,
-      "num": 396424,
-      "word": "90后把600万房款投入股市",
-      "onboard_time": 1731997700,
-      "rank": 18,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 243107,
       "num": 329007,
       "word": "向佐要走颜值路线了",
       "onboard_time": 1731992000,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236261,
+      "num": 236261,
+      "word": "父子俩双双跳水1分23秒救起2人",
+      "onboard_time": 1732002620,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 234661,
@@ -737,6 +793,14 @@
       "onboard_time": 1731942740,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229188,
+      "num": 425067,
+      "word": "金莎见周迅紧张到结巴",
+      "onboard_time": 1732003938,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 227915,
@@ -923,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186965,
+      "num": 186965,
+      "word": "殷世航 东南vip",
+      "onboard_time": 1732004120,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186229,
       "num": 192456,
       "word": "女子推理社谈不合格卫生巾",
@@ -961,6 +1033,14 @@
       "onboard_time": 1731978200,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181439,
+      "num": 181439,
+      "word": "男子手持仪器扫描航展军事设备",
+      "onboard_time": 1732002140,
+      "rank": 42,
+      "category": "军事"
     },
     {
       "raw_hot": 181144,
@@ -1123,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162862,
+      "num": 162862,
+      "word": "CPA",
+      "onboard_time": 1732003581,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162763,
       "num": 162763,
       "word": "Ning输给Kid红温下播",
@@ -1211,12 +1299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155505,
-      "num": 155505,
-      "word": "重庆一区群发再婚后可生3孩短信",
-      "onboard_time": 1732001541,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 156689,
+      "num": 156689,
+      "word": "钟楚曦 不要随便评价别人",
+      "onboard_time": 1732004779,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 154936,
@@ -1225,6 +1313,14 @@
       "onboard_time": 1731948436,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152427,
+      "num": 152427,
+      "word": "燕子京满头长生辫终是难长生",
+      "onboard_time": 1732004840,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 151147,
@@ -1475,6 +1571,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 102405,
+      "num": 413647,
+      "word": "日本战国足名单总身价近3亿",
+      "onboard_time": 1732004000,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101145,
       "num": 101145,
       "word": "禹宙中欣",
@@ -1611,14 +1715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86519,
-      "num": 302072,
-      "word": "姚琛 我直播不是为了展示这个",
-      "onboard_time": 1732001239,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83345,
       "num": 83345,
       "word": "自主研发的中国芯片有多强",
@@ -1699,6 +1795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73627,
+      "num": 412440,
+      "word": "华为Mate70金丝银锦",
+      "onboard_time": 1732003640,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73518,
       "num": 120820,
       "word": "小巷人家 孝庄",
@@ -1731,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70246,
+      "num": 274063,
+      "word": "好东西 妈妈的声音",
+      "onboard_time": 1732003820,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68680,
       "num": 68680,
       "word": "竹林四侠",
@@ -1745,6 +1857,14 @@
       "onboard_time": 1731968532,
       "rank": 15,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 62913,
+      "num": 423918,
+      "word": "国足上次击败日本还是26年前",
+      "onboard_time": 1732004660,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 61967,
@@ -1793,6 +1913,14 @@
       "onboard_time": 1731986779,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54963,
+      "num": 196145,
+      "word": "孙颖莎10800分世排第一",
+      "onboard_time": 1732003938,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 52334,
@@ -1883,6 +2011,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44220,
+      "num": 282220,
+      "word": "朱志鑫倒刺",
+      "onboard_time": 1732004481,
+      "rank": 24,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 43544,
+      "num": 278724,
+      "word": "米爆娃",
+      "onboard_time": 1732004720,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40646,
       "num": 286356,
       "word": "黑神话没提最佳音乐",
@@ -1971,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33976,
+      "num": 412800,
+      "word": "王濛在线感谢护士粉丝",
+      "onboard_time": 1732003520,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33831,
       "num": 194090,
       "word": "范志毅谈国足对阵日本",
@@ -2001,6 +2153,14 @@
       "onboard_time": 1731986240,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29995,
+      "num": 426869,
+      "word": "100秒看乌镇古韵与科技交融",
+      "onboard_time": 1732003820,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 28789,
@@ -2099,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21316,
+      "num": 428112,
+      "word": "被野生虎咬伤村民左手保住了",
+      "onboard_time": 1732004900,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21045,
       "num": 27074,
       "word": "张杰要得第三篇章预告",
@@ -2171,12 +2339,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17203,
+      "num": 413293,
+      "word": "A股逆转翻红",
+      "onboard_time": 1732004481,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 15350,
       "num": 197185,
       "word": "享界S9智驾快人一步",
       "onboard_time": 1731995181,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 14912,
+      "num": 196124,
+      "word": "25岁拖延症严重确诊成人ADHD",
+      "onboard_time": 1732004359,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14719,
@@ -2233,6 +2417,14 @@
       "onboard_time": 1731956771,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9157,
+      "num": 413137,
+      "word": "邓超说演员像剑客一样",
+      "onboard_time": 1732003520,
+      "rank": 17,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 9101,
