@@ -1,0 +1,410 @@
+{
+  "runTime": 1732021304630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6960870,
+        "num": 6960870,
+        "word": "国足vs日本",
+        "onboard_time": 1732016119,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596645,
+        "num": 596645,
+        "word": "年轻奔放不是犯错的挡箭牌",
+        "onboard_time": 1732018999,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23248,
+        "num": 542646,
+        "word": "电力高速公路上的中巴友谊",
+        "onboard_time": 1732020440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 535919,
+        "num": 535919,
+        "word": "珠帘玉幕 赵露思写真集",
+        "onboard_time": 1732017859,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367868,
+        "num": 367868,
+        "word": "国足今日主场迎战日本队",
+        "onboard_time": 1732013299,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355671,
+        "num": 355671,
+        "word": "国足防守",
+        "onboard_time": 1732019360,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612083,
+        "num": 354472,
+        "word": "2岁男童下楼买糖时被人拐走",
+        "onboard_time": 1732003400,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184153,
+        "num": 352867,
+        "word": "国足落后日本",
+        "onboard_time": 1732020619,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28404,
+        "num": 350106,
+        "word": "互联网之光博览会盛大开幕",
+        "onboard_time": 1732020139,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 706549,
+        "num": 349798,
+        "word": "降低身体慢性炎症的2个方法",
+        "onboard_time": 1732017260,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 697880,
+        "num": 347139,
+        "word": "刘亚仁因父亲去世请求减刑",
+        "onboard_time": 1732017020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680120,
+        "num": 344571,
+        "word": "医用卫生巾",
+        "onboard_time": 1732013240,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 637941,
+        "num": 344369,
+        "word": "释小龙近照",
+        "onboard_time": 1732012040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538544,
+        "num": 342123,
+        "word": "网曝幼儿园老师教唆全班扇男孩耳光",
+        "onboard_time": 1732014980,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129439,
+        "num": 339254,
+        "word": "多吃这些食物有助对抗慢性炎症",
+        "onboard_time": 1732020801,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 477500,
+        "num": 338387,
+        "word": "麦琳 不是好妻子但是好老公",
+        "onboard_time": 1732009520,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239876,
+        "num": 336175,
+        "word": "永夜星河团综结束录制",
+        "onboard_time": 1732020379,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91065,
+        "num": 335148,
+        "word": "五问黑龙江老虎进村伤人",
+        "onboard_time": 1732019839,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35589,
+        "num": 332359,
+        "word": "两个角球丢球",
+        "onboard_time": 1732021282,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299648,
+        "num": 330908,
+        "word": "丁禹兮同款扁头",
+        "onboard_time": 1732019780,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422265,
+        "num": 328580,
+        "word": "张咪自曝第三次患癌将切掉半个舌头",
+        "onboard_time": 1732012818,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385981,
+        "num": 326566,
+        "word": "朱志鑫直播",
+        "onboard_time": 1732014200,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384355,
+        "num": 324598,
+        "word": "美国瘫痪男子大脑植芯片恢复活动能力",
+        "onboard_time": 1732019239,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 380529,
+        "num": 322824,
+        "word": "杜华每个月都要为乐华大厦还贷款",
+        "onboard_time": 1732011861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322246,
+        "num": 322246,
+        "word": "广州将在全市收购90平以下存量房",
+        "onboard_time": 1732006160,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 303601,
+        "num": 303601,
+        "word": "球迷冲场",
+        "onboard_time": 1732020080,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88540,
+        "num": 303534,
+        "word": "TGA2024微博投票开启",
+        "onboard_time": 1732020080,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218518,
+        "num": 303368,
+        "word": "陈晓演的白玉堂vs杨子演的白玉堂",
+        "onboard_time": 1732016058,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193523,
+        "num": 303133,
+        "word": "苍月无烬开机",
+        "onboard_time": 1732017678,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111298,
+        "num": 303058,
+        "word": "农耕探文明",
+        "onboard_time": 1732018759,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339232,
+        "num": 302882,
+        "word": "丁禹兮戴慕声的手镯录团综",
+        "onboard_time": 1732016299,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314637,
+        "num": 302693,
+        "word": "夫妻花19万去南极想睡一间房被拒",
+        "onboard_time": 1732004240,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302555,
+        "num": 302555,
+        "word": "国足半场0比2日本",
+        "onboard_time": 1732021041,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257837,
+        "num": 257837,
+        "word": "赵丽颖 别逼我变成薛扇扇",
+        "onboard_time": 1732001180,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256699,
+        "num": 256699,
+        "word": "月薪2万5万10万本质上的不同",
+        "onboard_time": 1732011619,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232827,
+        "num": 232827,
+        "word": "阴阳师",
+        "onboard_time": 1732019960,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218036,
+        "num": 218036,
+        "word": "靠谱的国货卫生巾",
+        "onboard_time": 1732017920,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211785,
+        "num": 211785,
+        "word": "朱志鑫生日live",
+        "onboard_time": 1732017980,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194759,
+        "num": 194759,
+        "word": "国足势头不错",
+        "onboard_time": 1732020861,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193822,
+        "num": 193822,
+        "word": "严浩翔评论区 公务员面试现场",
+        "onboard_time": 1732009399,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214084,
+        "num": 193520,
+        "word": "丁禹兮 拜拜不要再被抓到啦",
+        "onboard_time": 1732017620,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192972,
+        "num": 192972,
+        "word": "赵小童愿包包收获一份纯粹的爱情",
+        "onboard_time": 1732020619,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191678,
+        "num": 191678,
+        "word": "余承东晒出华为Mate70",
+        "onboard_time": 1732013299,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192393,
+        "num": 186555,
+        "word": "天津一教师被曝诱导全班掌掴一孩子",
+        "onboard_time": 1732019300,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168971,
+        "num": 168971,
+        "word": "HLE与Viper续约",
+        "onboard_time": 1732021102,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162243,
+        "num": 162243,
+        "word": "杨仕泽 祝绪丹不止微醺还断片",
+        "onboard_time": 1732020983,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148894,
+        "num": 148894,
+        "word": "尤长靖又闷声干大事了",
+        "onboard_time": 1732018819,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144748,
+        "num": 144748,
+        "word": "邱贻可带孙颖莎吃拉面",
+        "onboard_time": 1732018040,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138890,
+        "num": 138890,
+        "word": "好东西小孩是梅婷女儿",
+        "onboard_time": 1732009278,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132831,
+        "num": 132831,
+        "word": "成毅新剧演了个清汤二少爷",
+        "onboard_time": 1732018700,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#我立志要办成的一件大事#"
+    }
+  }
+}

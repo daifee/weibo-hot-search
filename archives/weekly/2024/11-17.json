@@ -1,7 +1,15 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732020303269,
+  "endTime": 1732021304630,
   "band_list": [
+    {
+      "raw_hot": 6960870,
+      "num": 6960870,
+      "word": "国足vs日本",
+      "onboard_time": 1732016119,
+      "rank": 7,
+      "category": "体育"
+    },
     {
       "raw_hot": 4726710,
       "num": 4726710,
@@ -9,14 +17,6 @@
       "onboard_time": 1731980419,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4577692,
-      "num": 4577692,
-      "word": "国足vs日本",
-      "onboard_time": 1732016119,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 3737280,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 809380,
-      "num": 334421,
+      "num": 344369,
       "word": "释小龙近照",
       "onboard_time": 1732012040,
       "rank": 24,
@@ -1003,12 +1003,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 706549,
+      "num": 547282,
+      "word": "降低身体慢性炎症的2个方法",
+      "onboard_time": 1732017260,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 700316,
       "num": 700316,
       "word": "中美元首会见现场",
       "onboard_time": 1731800596,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 697880,
+      "num": 347139,
+      "word": "刘亚仁因父亲去世请求减刑",
+      "onboard_time": 1732017020,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 695721,
@@ -1067,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 670384,
-      "num": 281488,
-      "word": "刘亚仁因父亲去世请求减刑",
-      "onboard_time": 1732017020,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 669567,
       "num": 669567,
       "word": "央视曝光洗车场盗取地下水",
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 666341,
-      "num": 272458,
+      "num": 342123,
       "word": "网曝幼儿园老师教唆全班扇男孩耳光",
       "onboard_time": 1732014980,
       "rank": 43,
@@ -1323,6 +1331,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 596645,
+      "num": 596645,
+      "word": "年轻奔放不是犯错的挡箭牌",
+      "onboard_time": 1732018999,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 592684,
       "num": 396693,
       "word": "广州宠物狗疑似中毒死亡数仍在增加",
@@ -1427,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 547282,
-      "num": 547282,
-      "word": "降低身体慢性炎症的2个方法",
-      "onboard_time": 1732017260,
-      "rank": 1,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 542962,
       "num": 542962,
       "word": "女学生找工作被HR夸漂亮表示想认识",
@@ -1475,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535919,
+      "num": 535919,
+      "word": "珠帘玉幕 赵露思写真集",
+      "onboard_time": 1732017859,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535201,
       "num": 535201,
       "word": "王楚钦坐裁判椅",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1731830479,
       "rank": 24,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 517020,
-      "num": 517020,
-      "word": "珠帘玉幕 赵露思写真集",
-      "onboard_time": 1732017859,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 516543,
@@ -2035,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385981,
+      "num": 335836,
+      "word": "朱志鑫直播",
+      "onboard_time": 1732014200,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385463,
       "num": 385463,
       "word": "东北虎视频发布者称山上常有野猪熊",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1731900798,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384355,
+      "num": 324598,
+      "word": "美国瘫痪男子大脑植芯片恢复活动能力",
+      "onboard_time": 1732019239,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 381674,
@@ -2147,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367868,
+      "num": 375129,
+      "word": "国足今日主场迎战日本队",
+      "onboard_time": 1732013299,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365795,
       "num": 365795,
       "word": "丁禹兮戴慕声的手镯录团综",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1731921019,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355671,
+      "num": 355671,
+      "word": "国足防守",
+      "onboard_time": 1732019360,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 353777,
@@ -2459,14 +2499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304769,
-      "num": 251477,
-      "word": "美国瘫痪男子大脑植芯片恢复活动能力",
-      "onboard_time": 1732019239,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 304235,
       "num": 304235,
       "word": "花3000元买了个7平米小家",
@@ -2483,12 +2515,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303601,
+      "num": 303601,
+      "word": "球迷冲场",
+      "onboard_time": 1732020080,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303319,
       "num": 424954,
       "word": "朴彩英二单",
       "onboard_time": 1731986120,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302555,
+      "num": 302555,
+      "word": "国足半场0比2日本",
+      "onboard_time": 1732021041,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 299648,
+      "num": 330908,
+      "word": "丁禹兮同款扁头",
+      "onboard_time": 1732019780,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 299169,
@@ -2539,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294425,
-      "num": 335836,
-      "word": "朱志鑫直播",
-      "onboard_time": 1732014200,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294124,
       "num": 294124,
       "word": "去有风的地方获五个一工程奖",
@@ -2577,14 +2625,6 @@
       "onboard_time": 1731947417,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292929,
-      "num": 375129,
-      "word": "国足今日主场迎战日本队",
-      "onboard_time": 1732013299,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 291680,
@@ -2625,14 +2665,6 @@
       "onboard_time": 1731805579,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 285507,
-      "num": 285507,
-      "word": "年轻奔放不是犯错的挡箭牌",
-      "onboard_time": 1732018999,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 284637,
@@ -2980,7 +3012,7 @@
     },
     {
       "raw_hot": 254807,
-      "num": 254807,
+      "num": 303368,
       "word": "陈晓演的白玉堂vs杨子演的白玉堂",
       "onboard_time": 1732016058,
       "rank": 46,
@@ -3139,6 +3171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239876,
+      "num": 336175,
+      "word": "永夜星河团综结束录制",
+      "onboard_time": 1732020379,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239834,
       "num": 239834,
       "word": "儿子大喝一声虎口救父",
@@ -3233,6 +3273,14 @@
       "onboard_time": 1731771682,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232827,
+      "num": 232827,
+      "word": "阴阳师",
+      "onboard_time": 1732019960,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 232168,
@@ -3419,14 +3467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221871,
-      "num": 221871,
-      "word": "阴阳师",
-      "onboard_time": 1732019960,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221675,
       "num": 209744,
       "word": "财政部已将6万亿元债务限额下达各地",
@@ -3457,6 +3497,14 @@
       "onboard_time": 1731840260,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218036,
+      "num": 218036,
+      "word": "靠谱的国货卫生巾",
+      "onboard_time": 1732017920,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 217439,
@@ -3540,11 +3588,19 @@
     },
     {
       "raw_hot": 212740,
-      "num": 254502,
+      "num": 303133,
       "word": "苍月无烬开机",
       "onboard_time": 1732017678,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211785,
+      "num": 211785,
+      "word": "朱志鑫生日live",
+      "onboard_time": 1732017980,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 211546,
@@ -3689,14 +3745,6 @@
       "onboard_time": 1731986059,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205196,
-      "num": 205196,
-      "word": "靠谱的国货卫生巾",
-      "onboard_time": 1732017920,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 205129,
@@ -3955,6 +4003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194759,
+      "num": 194759,
+      "word": "国足势头不错",
+      "onboard_time": 1732020861,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194117,
       "num": 203954,
       "word": "燕子京满头长生辫终是难长生",
@@ -3985,6 +4041,22 @@
       "onboard_time": 1731908719,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 192972,
+      "num": 192972,
+      "word": "赵小童愿包包收获一份纯粹的爱情",
+      "onboard_time": 1732020619,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192393,
+      "num": 186555,
+      "word": "天津一教师被曝诱导全班掌掴一孩子",
+      "onboard_time": 1732019300,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191743,
@@ -4283,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184153,
+      "num": 352867,
+      "word": "国足落后日本",
+      "onboard_time": 1732020619,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184048,
       "num": 184048,
       "word": "这张脸做男做女都精彩",
@@ -4475,14 +4555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177550,
-      "num": 254176,
-      "word": "丁禹兮同款扁头",
-      "onboard_time": 1732019780,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "马斯克上位史",
@@ -4561,14 +4633,6 @@
       "onboard_time": 1732008379,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174384,
-      "num": 174384,
-      "word": "天津一教师被曝诱导全班掌掴一孩子",
-      "onboard_time": 1732019300,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174096,
@@ -4779,6 +4843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168971,
+      "num": 168971,
+      "word": "HLE与Viper续约",
+      "onboard_time": 1732021102,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168765,
       "num": 168765,
       "word": "永夜星河终于亲了",
@@ -4969,6 +5041,14 @@
       "onboard_time": 1731996381,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162243,
+      "num": 162243,
+      "word": "杨仕泽 祝绪丹不止微醺还断片",
+      "onboard_time": 1732020983,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162170,
@@ -5667,6 +5747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144748,
+      "num": 144748,
+      "word": "邱贻可带孙颖莎吃拉面",
+      "onboard_time": 1732018040,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144389,
       "num": 144389,
       "word": "毓言cp",
@@ -6115,6 +6203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129439,
+      "num": 339254,
+      "word": "多吃这些食物有助对抗慢性炎症",
+      "onboard_time": 1732020801,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129340,
       "num": 129340,
       "word": "丁禹兮工作室",
@@ -6387,14 +6483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120787,
-      "num": 280888,
-      "word": "国足防守",
-      "onboard_time": 1732019360,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120073,
       "num": 254564,
       "word": "黑神话悟空销量破2200万",
@@ -6643,6 +6731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111298,
+      "num": 303058,
+      "word": "农耕探文明",
+      "onboard_time": 1732018759,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111168,
       "num": 111168,
       "word": "Doinb已取关涵艺",
@@ -6772,7 +6868,7 @@
     },
     {
       "raw_hot": 106600,
-      "num": 279422,
+      "num": 303534,
       "word": "TGA2024微博投票开启",
       "onboard_time": 1732020080,
       "rank": 14,
@@ -6897,14 +6993,6 @@
       "onboard_time": 1731832579,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98914,
-      "num": 177566,
-      "word": "农耕探文明",
-      "onboard_time": 1732018759,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98831,
@@ -7097,6 +7185,14 @@
       "onboard_time": 1731921138,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91065,
+      "num": 335148,
+      "word": "五问黑龙江老虎进村伤人",
+      "onboard_time": 1732019839,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 91034,
@@ -7601,14 +7697,6 @@
       "onboard_time": 1731885555,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 63428,
-      "num": 277277,
-      "word": "球迷冲场",
-      "onboard_time": 1732020080,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 62799,
@@ -8707,6 +8795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35589,
+      "num": 332359,
+      "word": "两个角球丢球",
+      "onboard_time": 1732021282,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35516,
       "num": 178866,
       "word": "宋亚轩发日常视频",
@@ -9011,14 +9107,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 30744,
-      "num": 275243,
-      "word": "五问黑龙江老虎进村伤人",
-      "onboard_time": 1732019839,
-      "rank": 17,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 30666,
       "num": 230172,
       "word": "梁王冲击总决赛入场券",
@@ -9145,6 +9233,14 @@
       "onboard_time": 1731841699,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28404,
+      "num": 350106,
+      "word": "互联网之光博览会盛大开幕",
+      "onboard_time": 1732020139,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 28225,
@@ -9393,6 +9489,14 @@
       "onboard_time": 1731868331,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23248,
+      "num": 542646,
+      "word": "电力高速公路上的中巴友谊",
+      "onboard_time": 1732020440,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23197,
@@ -10145,14 +10249,6 @@
       "onboard_time": 1732003520,
       "rank": 17,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 10454,
-      "num": 287583,
-      "word": "互联网之光博览会盛大开幕",
-      "onboard_time": 1732020139,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 10231,
