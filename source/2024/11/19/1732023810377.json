@@ -1,0 +1,410 @@
+{
+  "runTime": 1732023810377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10290215,
+        "num": 10290215,
+        "word": "国足vs日本",
+        "onboard_time": 1732016119,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2106886,
+        "num": 2106886,
+        "word": "国足进球了",
+        "onboard_time": 1732022062,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36741,
+        "num": 1579833,
+        "word": "电力高速公路上的中巴友谊",
+        "onboard_time": 1732020440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1169666,
+        "num": 1169666,
+        "word": "球迷冲场",
+        "onboard_time": 1732020080,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 815926,
+        "num": 815926,
+        "word": "石云鹏回应小巷人家大结局没鹏飞",
+        "onboard_time": 1732021522,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15999,
+        "num": 425314,
+        "word": "互联网之光博览会盛大开幕",
+        "onboard_time": 1732020139,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400472,
+        "num": 400472,
+        "word": "年轻奔放不是犯错的挡箭牌",
+        "onboard_time": 1732018999,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 363588,
+        "num": 363588,
+        "word": "珠帘玉幕 赵露思写真集",
+        "onboard_time": 1732017859,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360590,
+        "num": 360590,
+        "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
+        "onboard_time": 1732021821,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222153,
+        "num": 358228,
+        "word": "仙台有树过审了",
+        "onboard_time": 1732022182,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 639960,
+        "num": 356150,
+        "word": "医用卫生巾",
+        "onboard_time": 1732013240,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 598990,
+        "num": 355308,
+        "word": "2岁男童下楼买糖时被人拐走",
+        "onboard_time": 1732003400,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543912,
+        "num": 351555,
+        "word": "释小龙近照",
+        "onboard_time": 1732012040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45485,
+        "num": 348708,
+        "word": "电影好东西好笑又好哭",
+        "onboard_time": 1732023201,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537109,
+        "num": 345219,
+        "word": "刘亚仁因父亲去世请求减刑",
+        "onboard_time": 1732017020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532272,
+        "num": 343152,
+        "word": "范志毅看国足比赛吸上氧了",
+        "onboard_time": 1732022782,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61227,
+        "num": 340096,
+        "word": "张玉宁上场",
+        "onboard_time": 1732022903,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453674,
+        "num": 337789,
+        "word": "麦琳 不是好妻子但是好老公",
+        "onboard_time": 1732009520,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67876,
+        "num": 334950,
+        "word": "小巷人家宋莹是华妃转世",
+        "onboard_time": 1732023561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184774,
+        "num": 333886,
+        "word": "杨仕泽 祝绪丹不止微醺还断片",
+        "onboard_time": 1732020983,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362739,
+        "num": 329942,
+        "word": "降低身体慢性炎症的2个方法",
+        "onboard_time": 1732017260,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329461,
+        "num": 329461,
+        "word": "美国瘫痪男子大脑植芯片恢复活动能力",
+        "onboard_time": 1732019239,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 324268,
+        "num": 324268,
+        "word": "丁禹兮同款扁头",
+        "onboard_time": 1732019780,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285043,
+        "num": 285043,
+        "word": "男子家暴妻子称尼龙绳抽打死不了人",
+        "onboard_time": 1732021222,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271716,
+        "num": 271716,
+        "word": "张咪自曝第三次患癌将切掉半个舌头",
+        "onboard_time": 1732012818,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267435,
+        "num": 267435,
+        "word": "网曝幼儿园老师教唆全班扇男孩耳光",
+        "onboard_time": 1732014980,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244814,
+        "num": 244814,
+        "word": "靠谱的国货卫生巾",
+        "onboard_time": 1732017920,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241099,
+        "num": 241099,
+        "word": "朱志鑫直播",
+        "onboard_time": 1732014200,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239767,
+        "num": 239767,
+        "word": "杜华每个月都要为乐华大厦还贷款",
+        "onboard_time": 1732011861,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169107,
+        "num": 238125,
+        "word": "孙颖莎福冈总决赛宣传照",
+        "onboard_time": 1732023683,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236667,
+        "num": 236667,
+        "word": "天津一教师被曝诱导全班掌掴一孩子",
+        "onboard_time": 1732019300,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227192,
+        "num": 227192,
+        "word": "国足半场0比2日本",
+        "onboard_time": 1732021041,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226588,
+        "num": 226588,
+        "word": "赵丽颖 别逼我变成薛扇扇",
+        "onboard_time": 1732001180,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225224,
+        "num": 225224,
+        "word": "月薪2万5万10万本质上的不同",
+        "onboard_time": 1732011619,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222919,
+        "num": 222919,
+        "word": "丁禹兮回应看狗都深情",
+        "onboard_time": 1732022782,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50726,
+        "num": 218079,
+        "word": "陈都灵希望未来成为永不设限的演员",
+        "onboard_time": 1732021762,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215791,
+        "num": 215791,
+        "word": "王楚钦福冈总决赛宣传照",
+        "onboard_time": 1732023081,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214273,
+        "num": 214273,
+        "word": "孙颖莎的莎式耳机戴法",
+        "onboard_time": 1732022782,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206854,
+        "num": 206854,
+        "word": "夫妻花19万去南极想睡一间房被拒",
+        "onboard_time": 1732004240,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195074,
+        "num": 195074,
+        "word": "国足今日主场迎战日本队",
+        "onboard_time": 1732013299,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189444,
+        "num": 189444,
+        "word": "小鹏汽车第三季度营收101亿",
+        "onboard_time": 1732023442,
+        "rank": 40,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 185748,
+        "num": 185748,
+        "word": "官方通报民警将报警人关留置室逼和解",
+        "onboard_time": 1732023022,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 183752,
+        "num": 183752,
+        "word": "张碧晨十年老粉是清华博士",
+        "onboard_time": 1732022543,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177603,
+        "num": 177603,
+        "word": "TVB台庆",
+        "onboard_time": 1732023442,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123966,
+        "num": 175269,
+        "word": "林良铭破门",
+        "onboard_time": 1732022303,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173101,
+        "num": 173101,
+        "word": "广州将在全市收购90平以下存量房",
+        "onboard_time": 1732006160,
+        "rank": 45,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 154254,
+        "num": 154254,
+        "word": "张真源新晋道歉主播",
+        "onboard_time": 1732021583,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145070,
+        "num": 145070,
+        "word": "国足1比3日本",
+        "onboard_time": 1732023742,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144505,
+        "num": 144505,
+        "word": "将门独后 刘浩存",
+        "onboard_time": 1731997340,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142731,
+        "num": 142731,
+        "word": "严浩翔评论区 公务员面试现场",
+        "onboard_time": 1732009399,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平秘鲁巴西行#"
+    }
+  }
+}
