@@ -1,7 +1,15 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731980857752,
+  "endTime": 1731982204547,
   "band_list": [
+    {
+      "raw_hot": 4726710,
+      "num": 4726710,
+      "word": "湖南常德一学校门口发生撞人事件",
+      "onboard_time": 1731980419,
+      "rank": 4,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 3737280,
       "num": 4474560,
@@ -299,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1038857,
+      "num": 1038857,
+      "word": "赵薇公司被强制执行14177元",
+      "onboard_time": 1731976941,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025095,
       "num": 1164015,
       "word": "刘爽向麦琳道歉",
@@ -339,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1015286,
-      "num": 1015286,
-      "word": "赵薇公司被强制执行14177元",
-      "onboard_time": 1731976941,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1013813,
       "num": 966404,
       "word": "男子告诉的哥我杀人了开快点",
@@ -360,6 +368,14 @@
       "word": "官方通报良品铺子被举报事件",
       "onboard_time": 1731972136,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 999012,
+      "num": 222068,
+      "word": "男子为骗保开车撞树当场身亡",
+      "onboard_time": 1731980659,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -625,14 +641,6 @@
       "onboard_time": 1731893477,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 789640,
-      "num": 789640,
-      "word": "湖南常德一学校门口发生撞人事件",
-      "onboard_time": 1731980419,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 788978,
@@ -1179,6 +1187,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 516543,
+      "num": 498974,
+      "word": "葛夕身材好辣",
+      "onboard_time": 1731974299,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502331,
       "num": 502331,
       "word": "女子正上着班公司突然解散",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1731967992,
       "rank": 33,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 498974,
-      "num": 498974,
-      "word": "葛夕身材好辣",
-      "onboard_time": 1731974299,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 498510,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1731925219,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409270,
+      "num": 311872,
+      "word": "吃路边摊偶遇檀健次",
+      "onboard_time": 1731978679,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 407054,
@@ -1771,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316289,
+      "num": 316289,
+      "word": "丁禹兮涨粉",
+      "onboard_time": 1731974057,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314339,
       "num": 344159,
       "word": "丁禹兮这一秒第三视角",
@@ -1795,14 +1819,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 311872,
-      "num": 311872,
-      "word": "吃路边摊偶遇檀健次",
-      "onboard_time": 1731978679,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310304,
       "num": 347060,
       "word": "雷军让李斌别唱了",
@@ -1811,12 +1827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308517,
+      "num": 273075,
+      "word": "华为Mate70已到店",
+      "onboard_time": 1731978619,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 308342,
       "num": 361243,
       "word": "金宇硕和女友拍人生四格",
       "onboard_time": 1731900918,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306565,
+      "num": 289914,
+      "word": "5种不舒服可能是癌症信号",
+      "onboard_time": 1731979518,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 304235,
@@ -1915,14 +1947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 289914,
-      "num": 289914,
-      "word": "5种不舒服可能是癌症信号",
-      "onboard_time": 1731979518,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 289515,
       "num": 289515,
       "word": "华为Mate70",
@@ -1937,14 +1961,6 @@
       "onboard_time": 1731805579,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 284756,
-      "num": 302104,
-      "word": "丁禹兮涨粉",
-      "onboard_time": 1731974057,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 284637,
@@ -2057,14 +2073,6 @@
       "onboard_time": 1731939620,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272208,
-      "num": 272208,
-      "word": "华为Mate70已到店",
-      "onboard_time": 1731978619,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 271504,
@@ -2281,6 +2289,14 @@
       "onboard_time": 1731852020,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247477,
+      "num": 247477,
+      "word": "经常腰疼的人建议练练核心",
+      "onboard_time": 1731977840,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 246706,
@@ -2523,6 +2539,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 224020,
+      "num": 224020,
+      "word": "举报良品铺子所涉问题不成立",
+      "onboard_time": 1731977421,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 223305,
       "num": 223305,
       "word": "塔图姆绝杀",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1731893657,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207056,
+      "num": 231468,
+      "word": "环球影城偶遇古力娜扎",
+      "onboard_time": 1731972436,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 206939,
@@ -2947,28 +2979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193304,
-      "num": 193304,
-      "word": "男子为骗保开车撞树当场身亡",
-      "onboard_time": 1731980659,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192983,
       "num": 192983,
       "word": "多方回应黑龙江老虎咬伤村民",
       "onboard_time": 1731908719,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 192886,
-      "num": 192886,
-      "word": "经常腰疼的人建议练练核心",
-      "onboard_time": 1731977840,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 191743,
@@ -3267,6 +3283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181824,
+      "num": 181824,
+      "word": "2马拉松选手被曝拿走大量补给",
+      "onboard_time": 1731978200,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 181809,
       "num": 340385,
       "word": "赵丽颖生活生动时刻",
@@ -3435,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171752,
+      "num": 171752,
+      "word": "永安小学",
+      "onboard_time": 1731981978,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 171402,
       "num": 171402,
       "word": "汪苏泷演唱会嘉宾陈楚生",
@@ -3537,6 +3569,14 @@
       "onboard_time": 1731773841,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168101,
+      "num": 283778,
+      "word": "打假博主称将再送检良品铺子",
+      "onboard_time": 1731981259,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 166550,
@@ -4331,6 +4371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138353,
+      "num": 499646,
+      "word": "被老虎咬伤村民手术结束情况较乐观",
+      "onboard_time": 1731979998,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138184,
       "num": 266233,
       "word": "愿你拥有这5种高能量心态",
@@ -4369,14 +4417,6 @@
       "onboard_time": 1731933800,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 136919,
-      "num": 136919,
-      "word": "2马拉松选手被曝拿走大量补给",
-      "onboard_time": 1731978200,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 136619,
@@ -4497,6 +4537,14 @@
       "onboard_time": 1731894797,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131193,
+      "num": 216371,
+      "word": "陈伟霆给导演当普通话翻译",
+      "onboard_time": 1731980959,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 131034,
@@ -4809,6 +4857,14 @@
       "onboard_time": 1731927078,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118353,
+      "num": 214046,
+      "word": "TGA年度最佳游戏提名",
+      "onboard_time": 1731981679,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 118010,
@@ -5841,14 +5897,6 @@
       "onboard_time": 1731962241,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60705,
-      "num": 499646,
-      "word": "被老虎咬伤村民手术结束情况较乐观",
-      "onboard_time": 1731979998,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60518,
@@ -6891,12 +6939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28136,
-      "num": 231468,
-      "word": "环球影城偶遇古力娜扎",
-      "onboard_time": 1731972436,
+      "raw_hot": 28034,
+      "num": 223272,
+      "word": "两连胜后国足士气正盛一票难求",
+      "onboard_time": 1731981919,
       "rank": 19,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 28008,
@@ -7906,6 +7954,9 @@
     },
     {
       "word": "#中国的成就不是天上掉下来的#"
+    },
+    {
+      "word": "#关于全球治理机构改革议题的讲话#"
     }
   ]
 }

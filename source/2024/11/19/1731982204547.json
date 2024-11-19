@@ -1,0 +1,410 @@
+{
+  "runTime": 1731982204547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4726710,
+        "num": 4726710,
+        "word": "湖南常德一学校门口发生撞人事件",
+        "onboard_time": 1731980419,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1038857,
+        "num": 1038857,
+        "word": "赵薇公司被强制执行14177元",
+        "onboard_time": 1731976941,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8105,
+        "num": 661111,
+        "word": "一个视频带你了解G20",
+        "onboard_time": 1731936922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580363,
+        "num": 580363,
+        "word": "官方通报良品铺子被举报事件",
+        "onboard_time": 1731972136,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 554224,
+        "num": 554224,
+        "word": "上班睡觉1小时被开除起诉获赔35万",
+        "onboard_time": 1731942920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368972,
+        "num": 368972,
+        "word": "多方回应太原一社区多名干部分香烟",
+        "onboard_time": 1731975560,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 316289,
+        "num": 316289,
+        "word": "丁禹兮涨粉",
+        "onboard_time": 1731974057,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299875,
+        "num": 299875,
+        "word": "挖呀挖黄老师怒怼营销号",
+        "onboard_time": 1731941241,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 285688,
+        "num": 285688,
+        "word": "王一博 那我就给你多说一点",
+        "onboard_time": 1731974359,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168101,
+        "num": 283778,
+        "word": "打假博主称将再送检良品铺子",
+        "onboard_time": 1731981259,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 516543,
+        "num": 280746,
+        "word": "葛夕身材好辣",
+        "onboard_time": 1731974299,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409270,
+        "num": 278033,
+        "word": "吃路边摊偶遇檀健次",
+        "onboard_time": 1731978679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321030,
+        "num": 276965,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308517,
+        "num": 273075,
+        "word": "华为Mate70已到店",
+        "onboard_time": 1731978619,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271426,
+        "num": 271426,
+        "word": "圆明园通报四只黑天鹅死亡",
+        "onboard_time": 1731943820,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 262999,
+        "num": 262999,
+        "word": "失笑 silk感",
+        "onboard_time": 1731977060,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247477,
+        "num": 247477,
+        "word": "经常腰疼的人建议练练核心",
+        "onboard_time": 1731977840,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 237732,
+        "num": 237732,
+        "word": "金价暴跌近10%",
+        "onboard_time": 1731939803,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224020,
+        "num": 224020,
+        "word": "举报良品铺子所涉问题不成立",
+        "onboard_time": 1731977421,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 28034,
+        "num": 223272,
+        "word": "两连胜后国足士气正盛一票难求",
+        "onboard_time": 1731981919,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1679854,
+        "num": 222206,
+        "word": "男子开钟点房洗8件羽绒服10件毛衣",
+        "onboard_time": 1731979578,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999012,
+        "num": 222068,
+        "word": "男子为骗保开车撞树当场身亡",
+        "onboard_time": 1731980659,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608912,
+        "num": 221159,
+        "word": "为什么癌症早期一般没有征兆",
+        "onboard_time": 1731976520,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 553926,
+        "num": 220378,
+        "word": "全球首例成功换脸换手男子将结婚",
+        "onboard_time": 1731940282,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306565,
+        "num": 219416,
+        "word": "5种不舒服可能是癌症信号",
+        "onboard_time": 1731979518,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265153,
+        "num": 218291,
+        "word": "女子正上着班公司突然解散",
+        "onboard_time": 1731938720,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169488,
+        "num": 216941,
+        "word": "丁禹兮新加坡到底有谁在啊",
+        "onboard_time": 1731972916,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131193,
+        "num": 216371,
+        "word": "陈伟霆给导演当普通话翻译",
+        "onboard_time": 1731980959,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128750,
+        "num": 215645,
+        "word": "冈田将生高畑充希结婚",
+        "onboard_time": 1731977300,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118353,
+        "num": 214046,
+        "word": "TGA年度最佳游戏提名",
+        "onboard_time": 1731981679,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236080,
+        "num": 213318,
+        "word": "女学生找工作被HR夸漂亮表示想认识",
+        "onboard_time": 1731977780,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213120,
+        "num": 213120,
+        "word": "李子柒称不希望青少年梦想当网红",
+        "onboard_time": 1731967992,
+        "rank": 31,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 207056,
+        "num": 207056,
+        "word": "环球影城偶遇古力娜扎",
+        "onboard_time": 1731972436,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193057,
+        "num": 193057,
+        "word": "女子掉进温泉池2秒皮被烫掉",
+        "onboard_time": 1731929719,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189701,
+        "num": 189701,
+        "word": "外卖员吐槽尽量不要点黄焖鸡",
+        "onboard_time": 1731975139,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189084,
+        "num": 189084,
+        "word": "巴西首都27岁就被列入世界遗产名录",
+        "onboard_time": 1731978979,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181824,
+        "num": 181824,
+        "word": "2马拉松选手被曝拿走大量补给",
+        "onboard_time": 1731978200,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 173680,
+        "num": 173680,
+        "word": "摄影展1997年作品出现喜羊羊元素",
+        "onboard_time": 1731944899,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171752,
+        "num": 171752,
+        "word": "永安小学",
+        "onboard_time": 1731981978,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 165382,
+        "num": 165382,
+        "word": "当如愿配上2024年的国之重器",
+        "onboard_time": 1731980240,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158608,
+        "num": 158608,
+        "word": "身体有5个寒气入口",
+        "onboard_time": 1731972557,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16453,
+        "num": 153385,
+        "word": "国服盲僧许昕闭眼入",
+        "onboard_time": 1731978499,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153326,
+        "num": 153326,
+        "word": "东北虎",
+        "onboard_time": 1731929479,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 152550,
+        "num": 152550,
+        "word": "JackeyLove谈退役",
+        "onboard_time": 1731979940,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147337,
+        "num": 147337,
+        "word": "江苏一办事大厅员工10点离岗吃饭",
+        "onboard_time": 1731972736,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 145577,
+        "num": 145577,
+        "word": "2024大国重器好多新突破",
+        "onboard_time": 1731977780,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 142736,
+        "num": 142736,
+        "word": "太原一社区书记疑索香烟现场分赃",
+        "onboard_time": 1731976340,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138353,
+        "num": 138353,
+        "word": "被老虎咬伤村民手术结束情况较乐观",
+        "onboard_time": 1731979998,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76990,
+        "num": 135453,
+        "word": "永夜星河 怪不得没吻戏",
+        "onboard_time": 1731936202,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134945,
+        "num": 134945,
+        "word": "JackeyLove谈乐言打老头杯",
+        "onboard_time": 1731976460,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于全球治理机构改革议题的讲话#"
+    }
+  }
+}
