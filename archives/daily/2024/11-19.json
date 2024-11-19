@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731982204547,
+  "endTime": 1731985239315,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -27,8 +27,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1140014,
+      "num": 381699,
+      "word": "四川14岁学生晨跑倒地后脑死亡",
+      "onboard_time": 1731983479,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1038857,
-      "num": 1038857,
+      "num": 1146716,
       "word": "赵薇公司被强制执行14177元",
       "onboard_time": 1731976941,
       "rank": 1,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 999012,
-      "num": 222068,
+      "num": 254951,
       "word": "男子为骗保开车撞树当场身亡",
       "onboard_time": 1731980659,
       "rank": 35,
@@ -163,6 +171,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 337198,
+      "num": 337198,
+      "word": "经常腰疼的人建议练练核心",
+      "onboard_time": 1731977840,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 327719,
+      "num": 327719,
+      "word": "打假博主称将再送检良品铺子",
+      "onboard_time": 1731981259,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 323417,
       "num": 323417,
       "word": "永夜星河 怪不得没吻戏",
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 308517,
-      "num": 273075,
+      "num": 292175,
       "word": "华为Mate70已到店",
       "onboard_time": 1731978619,
       "rank": 24,
@@ -259,6 +283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267322,
+      "num": 260367,
+      "word": "打假良品铺子博主称看完调查很寒心",
+      "onboard_time": 1731983658,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 259100,
+      "num": 259100,
+      "word": "举报良品铺子所涉问题不成立",
+      "onboard_time": 1731977421,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 259046,
       "num": 259046,
       "word": "丁禹兮新加坡到底有谁在啊",
@@ -267,12 +307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247477,
-      "num": 247477,
-      "word": "经常腰疼的人建议练练核心",
-      "onboard_time": 1731977840,
-      "rank": 36,
-      "category": "运动健身"
+      "raw_hot": 253526,
+      "num": 253526,
+      "word": "老公婚后反悔丁克",
+      "onboard_time": 1731984860,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 232021,
+      "num": 232021,
+      "word": "华为Mate70全新AI功能曝光",
+      "onboard_time": 1731983239,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 231056,
@@ -299,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 224020,
-      "num": 224020,
-      "word": "举报良品铺子所涉问题不成立",
-      "onboard_time": 1731977421,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 217460,
       "num": 217460,
       "word": "孙颖莎希望4年后还能听到欢呼声",
@@ -323,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215754,
+      "num": 261565,
+      "word": "国足要怎么踢才可能赢日本",
+      "onboard_time": 1731982279,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215555,
       "num": 189030,
       "word": "虞书欣剧播期间涨粉100万",
@@ -331,8 +379,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210804,
-      "num": 210804,
+      "raw_hot": 215330,
+      "num": 253371,
+      "word": "惊天魔盗团3杀青",
+      "onboard_time": 1731985158,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 211141,
+      "num": 211141,
       "word": "巴西首都27岁就被列入世界遗产名录",
       "onboard_time": 1731978979,
       "rank": 33,
@@ -353,6 +409,14 @@
       "onboard_time": 1731972436,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203023,
+      "num": 499646,
+      "word": "被老虎咬伤村民手术结束情况较乐观",
+      "onboard_time": 1731979998,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202591,
@@ -379,12 +443,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198464,
+      "num": 252631,
+      "word": "斗罗大陆之燃魂战定档",
+      "onboard_time": 1731985040,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184986,
       "num": 184986,
       "word": "2024大国重器好多新突破",
       "onboard_time": 1731977780,
       "rank": 37,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 184821,
+      "num": 151855,
+      "word": "丁禹兮密室大喊炸火花破",
+      "onboard_time": 1731983057,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 181824,
@@ -401,6 +481,14 @@
       "onboard_time": 1731980240,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179205,
+      "num": 179205,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1731984800,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 177990,
@@ -443,20 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168101,
-      "num": 283778,
-      "word": "打假博主称将再送检良品铺子",
-      "onboard_time": 1731981259,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 166281,
       "num": 166281,
       "word": "太原一社区书记疑索香烟现场分赃",
       "onboard_time": 1731976340,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164857,
+      "num": 164857,
+      "word": "特朗普再提名福克斯新闻主播任部长",
+      "onboard_time": 1731984018,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162876,
@@ -491,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159296,
+      "num": 256204,
+      "word": "时代少年团开场嘉宾",
+      "onboard_time": 1731984978,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157630,
       "num": 256454,
       "word": "冈田将生高畑充希结婚",
@@ -505,6 +601,14 @@
       "onboard_time": 1731948436,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149819,
+      "num": 253613,
+      "word": "给学生戴小蜜蜂别又是秦朗事件",
+      "onboard_time": 1731983359,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 144819,
@@ -523,14 +627,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 138353,
-      "num": 499646,
-      "word": "被老虎咬伤村民手术结束情况较乐观",
-      "onboard_time": 1731979998,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136715,
       "num": 136715,
       "word": "李行亮朋友回应借钱",
@@ -547,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135773,
+      "num": 241564,
+      "word": "时代少年团时光圆五曲",
+      "onboard_time": 1731982941,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133352,
       "num": 195805,
       "word": "夏弃疾把妙声强制爱拍出来了",
       "onboard_time": 1731937641,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131626,
+      "num": 131626,
+      "word": "特朗普提名达菲担任交通部长",
+      "onboard_time": 1731982398,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131193,
@@ -619,12 +731,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116672,
+      "num": 255980,
+      "word": "中国游戏的TGA十年",
+      "onboard_time": 1731985040,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111797,
       "num": 111797,
       "word": "被东北虎咬伤村民无截肢风险",
       "onboard_time": 1731938541,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 110233,
+      "num": 254564,
+      "word": "黑神话悟空销量破2200万",
+      "onboard_time": 1731984079,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 101145,
@@ -819,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70452,
+      "num": 255681,
+      "word": "丁真诉网友侵权",
+      "onboard_time": 1731983599,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68680,
       "num": 68680,
       "word": "竹林四侠",
@@ -851,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59116,
+      "num": 253064,
+      "word": "绝区零和鸣潮提名TGA最佳手游",
+      "onboard_time": 1731984319,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58003,
       "num": 58003,
       "word": "主办方回应两马拉松选手打包能量胶",
@@ -881,6 +1025,14 @@
       "onboard_time": 1731953832,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 46084,
+      "num": 252895,
+      "word": "詹俊说国足尽全力去拼就好",
+      "onboard_time": 1731984199,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 45815,
