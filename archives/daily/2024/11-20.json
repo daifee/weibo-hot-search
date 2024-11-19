@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732052224178,
+  "endTime": 1732054920403,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -91,6 +91,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 349467,
+      "num": 401071,
+      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+      "onboard_time": 1732036454,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344425,
       "num": 344425,
       "word": "丁禹兮自拍报备行程",
@@ -113,14 +121,6 @@
       "onboard_time": 1732021522,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 319346,
-      "num": 319346,
-      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
-      "onboard_time": 1732036454,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310933,
@@ -243,12 +243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137892,
+      "num": 137892,
+      "word": "被老虎咬伤村民家大门紧闭",
+      "onboard_time": 1732047370,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135391,
       "num": 135391,
       "word": "丁禹兮捡垃圾差点把建构甲弄坏",
       "onboard_time": 1732036813,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128719,
+      "num": 42365,
+      "word": "马斯克将领导美国政府效率部",
+      "onboard_time": 1732049052,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125994,
@@ -281,6 +297,14 @@
       "onboard_time": 1732030040,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103387,
+      "num": 84624,
+      "word": "离职小蜜蜂老师称还想加入教师行列",
+      "onboard_time": 1732034176,
+      "rank": 45,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 101644,
@@ -395,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84624,
-      "num": 84624,
-      "word": "离职小蜜蜂老师称还想加入教师行列",
-      "onboard_time": 1732034176,
-      "rank": 45,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 84069,
       "num": 84069,
       "word": "朱志鑫直播",
@@ -435,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75605,
-      "num": 75605,
-      "word": "被老虎咬伤村民家大门紧闭",
-      "onboard_time": 1732047370,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64714,
       "num": 187767,
       "word": "对战日本看到了国足的进步",
@@ -457,14 +465,6 @@
       "onboard_time": 1732001180,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58795,
-      "num": 31344,
-      "word": "马斯克将领导美国政府效率部",
-      "onboard_time": 1732049052,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57942,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41903,
+      "num": 42382,
+      "word": "水哥说长大后都是童年还的债",
+      "onboard_time": 1732052112,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41795,
       "num": 72422,
       "word": "林一 沈月你少看点士兵突击吧",
@@ -547,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34817,
+      "num": 65748,
+      "word": "海关截获超9000吨洋垃圾",
+      "onboard_time": 1732053912,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34738,
+      "num": 34738,
+      "word": "团伙回收洋垃圾制作衣服和日常用品",
+      "onboard_time": 1732051449,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34503,
       "num": 55656,
       "word": "62岁飞行员返俄前和观众挥手告别",
@@ -571,6 +595,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29120,
+      "num": 41115,
+      "word": "俄黑海舰队一军官汽车遭爆炸袭击",
+      "onboard_time": 1732051331,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27529,
+      "num": 27529,
+      "word": "国足1比3日本",
+      "onboard_time": 1732023742,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26990,
       "num": 41304,
       "word": "邵艺辉上桌",
@@ -587,20 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25805,
-      "num": 25805,
+      "raw_hot": 26063,
+      "num": 26063,
       "word": "重庆市卫健委回应群发短信宣传政策无误",
       "onboard_time": 1732042272,
       "rank": 37,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 25027,
-      "num": 25027,
-      "word": "国足1比3日本",
-      "onboard_time": 1732023742,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 24904,
@@ -627,6 +659,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 20596,
+      "num": 31542,
+      "word": "谁不想拥有水哥的树屋",
+      "onboard_time": 1732049231,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19881,
       "num": 75829,
       "word": "建设一个共同发展的公正世界",
@@ -641,22 +681,6 @@
       "onboard_time": 1732043531,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 14375,
-      "num": 31542,
-      "word": "谁不想拥有水哥的树屋",
-      "onboard_time": 1732049231,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13176,
-      "num": 41115,
-      "word": "俄黑海舰队一军官汽车遭爆炸袭击",
-      "onboard_time": 1732051331,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12319,
@@ -704,14 +728,6 @@
       "word": "赵丽颖马丽神同步",
       "onboard_time": 1732044911,
       "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 5895,
-      "num": 28898,
-      "word": "水哥说长大后都是童年还的债",
-      "onboard_time": 1732052112,
-      "rank": 24,
       "category": "作品衍生"
     },
     {
