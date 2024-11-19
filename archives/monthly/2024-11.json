@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732011960191,
+  "endTime": 1732013058729,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4179,6 +4179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1001433,
+      "num": 385503,
+      "word": "麦琳 不是好妻子但是好老公",
+      "onboard_time": 1732009520,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1000232,
       "num": 1160037,
       "word": "中铁七局道歉",
@@ -4361,6 +4369,14 @@
       "onboard_time": 1730693182,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 978217,
+      "num": 299214,
+      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
+      "onboard_time": 1732010779,
+      "rank": 22,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 977002,
@@ -6691,14 +6707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 737810,
-      "num": 385503,
-      "word": "麦琳 不是好妻子但是好老公",
-      "onboard_time": 1732009520,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 736413,
       "num": 299475,
       "word": "虞书欣丁禹兮hi6收视率历史最高",
@@ -7217,6 +7225,14 @@
       "onboard_time": 1731668839,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 695721,
+      "num": 319492,
+      "word": "月薪2万5万10万本质上的不同",
+      "onboard_time": 1732011619,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 695465,
@@ -8891,6 +8907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 603702,
+      "num": 603702,
+      "word": "官方通报办事大厅员工10点离岗吃饭",
+      "onboard_time": 1732007181,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 603612,
       "num": 603612,
       "word": "珠海航展惊现中国版变形金刚",
@@ -9555,14 +9579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 568076,
-      "num": 568076,
-      "word": "官方通报办事大厅员工10点离岗吃饭",
-      "onboard_time": 1732007181,
-      "rank": 26,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 567750,
       "num": 345450,
       "word": "怀上九胞胎女子发声",
@@ -10009,14 +10025,6 @@
       "onboard_time": 1730866226,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544733,
-      "num": 319492,
-      "word": "月薪2万5万10万本质上的不同",
-      "onboard_time": 1732011619,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 544562,
@@ -15443,6 +15451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353988,
+      "num": 211882,
+      "word": "释小龙近照",
+      "onboard_time": 1732012040,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353980,
       "num": 353980,
       "word": "川大智胜午后涨停",
@@ -16521,6 +16537,14 @@
       "onboard_time": 1731400819,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326967,
+      "num": 332588,
+      "word": "以为王楚钦要跳小天鹅了",
+      "onboard_time": 1732010959,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 326824,
@@ -17625,14 +17649,6 @@
       "onboard_time": 1730801782,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299214,
-      "num": 299214,
-      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
-      "onboard_time": 1732010779,
-      "rank": 22,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 299194,
@@ -18835,6 +18851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276513,
+      "num": 273695,
+      "word": "美国男子杀全家后踢破审讯室墙壁逃跑",
+      "onboard_time": 1732009340,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 276442,
       "num": 282800,
       "word": "正式确诊衣领综合征",
@@ -18985,14 +19009,6 @@
       "onboard_time": 1730617398,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273695,
-      "num": 273695,
-      "word": "美国男子杀全家后踢破审讯室墙壁逃跑",
-      "onboard_time": 1732009340,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 273618,
@@ -19609,6 +19625,14 @@
       "onboard_time": 1731062240,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265325,
+      "num": 396752,
+      "word": "国足vs日本首发",
+      "onboard_time": 1732011861,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 265277,
@@ -20657,14 +20681,6 @@
       "onboard_time": 1730442739,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249814,
-      "num": 332588,
-      "word": "以为王楚钦要跳小天鹅了",
-      "onboard_time": 1732010959,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 249691,
@@ -22641,6 +22657,14 @@
       "onboard_time": 1731233420,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223290,
+      "num": 223290,
+      "word": "丁禹兮圣猴名不虚传",
+      "onboard_time": 1732012220,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 223235,
@@ -25739,6 +25763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200672,
+      "num": 200672,
+      "word": "国足首发",
+      "onboard_time": 1732012100,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200520,
       "num": 200520,
       "word": "费加罗红毯",
@@ -26281,6 +26313,14 @@
       "onboard_time": 1731381919,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197866,
+      "num": 197866,
+      "word": "张真源直播",
+      "onboard_time": 1732012160,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 197823,
@@ -31723,6 +31763,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 169120,
+      "num": 169120,
+      "word": "张咪自曝第三次患癌将切掉半个舌头",
+      "onboard_time": 1732012818,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169095,
       "num": 169095,
       "word": "王楚钦首轮对战弗朗西斯卡",
@@ -36539,6 +36587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147591,
+      "num": 147591,
+      "word": "当90岁老飞行员看到歼35A",
+      "onboard_time": 1732011800,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 147577,
       "num": 147577,
       "word": "Bin与BLG合同即将到期",
@@ -36977,6 +37033,14 @@
       "onboard_time": 1730565498,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145276,
+      "num": 145276,
+      "word": "男子带着代孕婴儿争夺亡妻遗产",
+      "onboard_time": 1732012818,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145248,
@@ -39051,6 +39115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134824,
+      "num": 221843,
+      "word": "巴西副总统懂针灸",
+      "onboard_time": 1732012818,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134819,
       "num": 134819,
       "word": "歼35A轰鸣声太震撼",
@@ -39459,11 +39531,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132517,
+      "num": 389229,
+      "word": "警方介入打假博主团队被商户围殴",
+      "onboard_time": 1732010959,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132510,
       "num": 339796,
       "word": "易烊千玺以一组锻炼收尾",
       "onboard_time": 1731574702,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132458,
+      "num": 202809,
+      "word": "杜华每个月都要为乐华大厦还贷款",
+      "onboard_time": 1732011861,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -42457,14 +42545,6 @@
       "onboard_time": 1730816784,
       "rank": 22,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 117712,
-      "num": 389229,
-      "word": "警方介入打假博主团队被商户围殴",
-      "onboard_time": 1732010959,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117666,
@@ -51923,14 +52003,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 50017,
-      "num": 202809,
-      "word": "杜华每个月都要为乐华大厦还贷款",
-      "onboard_time": 1732011861,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49988,
       "num": 173415,
       "word": "杨迪你这样让我好不习惯",
@@ -53113,6 +53185,14 @@
       "onboard_time": 1731481940,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43578,
+      "num": 201779,
+      "word": "张玉宁替补待命",
+      "onboard_time": 1732011979,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 43554,
@@ -54865,6 +54945,14 @@
       "onboard_time": 1731895638,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36322,
+      "num": 220210,
+      "word": "林诗栋说总决赛没有弱者",
+      "onboard_time": 1732012220,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 36271,
@@ -57235,6 +57323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28558,
+      "num": 373745,
+      "word": "好东西呈现幽默而生猛的两性议题",
+      "onboard_time": 1732011922,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28529,
       "num": 44186,
       "word": "逛公园带来的好心情能持续4小时",
@@ -57433,6 +57529,14 @@
       "onboard_time": 1730988504,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27862,
+      "num": 235160,
+      "word": "直击国足迎战日本队",
+      "onboard_time": 1732012519,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 27796,
@@ -60283,6 +60387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 18958,
+      "num": 227674,
+      "word": "古偶101最该卷的是导演",
+      "onboard_time": 1732012220,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18926,
       "num": 28252,
       "word": "多地出现邮寄黄金类诈骗案",
@@ -60928,14 +61040,6 @@
       "word": "奥本海默最佳外语片",
       "onboard_time": 1731769883,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 16833,
-      "num": 373745,
-      "word": "好东西呈现幽默而生猛的两性议题",
-      "onboard_time": 1732011922,
-      "rank": 12,
       "category": "电影"
     },
     {
@@ -63137,14 +63241,6 @@
       "onboard_time": 1731678320,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5904,
-      "num": 396752,
-      "word": "国足vs日本首发",
-      "onboard_time": 1732011861,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 5743,

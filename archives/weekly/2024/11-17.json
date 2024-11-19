@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732011960191,
+  "endTime": 1732013058729,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1001433,
+      "num": 385503,
+      "word": "麦琳 不是好妻子但是好老公",
+      "onboard_time": 1732009520,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 999012,
       "num": 328461,
       "word": "男子为骗保开车撞树当场身亡",
@@ -504,6 +512,14 @@
       "word": "吉林一滑冰馆被曝坍塌",
       "onboard_time": 1731897678,
       "rank": 11,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 978217,
+      "num": 299214,
+      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
+      "onboard_time": 1732010779,
+      "rank": 22,
       "category": "突发/灾害"
     },
     {
@@ -883,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 737810,
-      "num": 385503,
-      "word": "麦琳 不是好妻子但是好老公",
-      "onboard_time": 1732009520,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 736413,
       "num": 299475,
       "word": "虞书欣丁禹兮hi6收视率历史最高",
@@ -961,6 +969,14 @@
       "onboard_time": 1731800596,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 695721,
+      "num": 319492,
+      "word": "月薪2万5万10万本质上的不同",
+      "onboard_time": 1732011619,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 688362,
@@ -1219,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 603702,
+      "num": 603702,
+      "word": "官方通报办事大厅员工10点离岗吃饭",
+      "onboard_time": 1732007181,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 602050,
       "num": 602050,
       "word": "永夜星河能不能这样一辈子",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1731839058,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 568076,
-      "num": 568076,
-      "word": "官方通报办事大厅员工10点离岗吃饭",
-      "onboard_time": 1732007181,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 565952,
@@ -1353,14 +1369,6 @@
       "onboard_time": 1731982279,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 544733,
-      "num": 319492,
-      "word": "月薪2万5万10万本质上的不同",
-      "onboard_time": 1732011619,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 542962,
@@ -2083,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353988,
+      "num": 211882,
+      "word": "释小龙近照",
+      "onboard_time": 1732012040,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353777,
       "num": 353777,
       "word": "王昭君FMVP皮肤",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1731941539,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326967,
+      "num": 332588,
+      "word": "以为王楚钦要跳小天鹅了",
+      "onboard_time": 1732010959,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 324423,
@@ -2361,14 +2385,6 @@
       "onboard_time": 1731986120,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 299214,
-      "num": 299214,
-      "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
-      "onboard_time": 1732010779,
-      "rank": 22,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 299169,
@@ -2579,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276513,
+      "num": 273695,
+      "word": "美国男子杀全家后踢破审讯室墙壁逃跑",
+      "onboard_time": 1732009340,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 276442,
       "num": 282800,
       "word": "正式确诊衣领综合征",
@@ -2609,14 +2633,6 @@
       "onboard_time": 1731774141,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273695,
-      "num": 273695,
-      "word": "美国男子杀全家后踢破审讯室墙壁逃跑",
-      "onboard_time": 1732009340,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 273148,
@@ -2721,6 +2737,14 @@
       "onboard_time": 1731861017,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 265325,
+      "num": 396752,
+      "word": "国足vs日本首发",
+      "onboard_time": 1732011861,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 262630,
@@ -2881,14 +2905,6 @@
       "onboard_time": 1731825559,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249814,
-      "num": 332588,
-      "word": "以为王楚钦要跳小天鹅了",
-      "onboard_time": 1732010959,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 249561,
@@ -3209,6 +3225,14 @@
       "onboard_time": 1731816018,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223290,
+      "num": 223290,
+      "word": "丁禹兮圣猴名不虚传",
+      "onboard_time": 1732012220,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 223235,
@@ -3611,6 +3635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200672,
+      "num": 200672,
+      "word": "国足首发",
+      "onboard_time": 1732012100,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200447,
       "num": 252631,
       "word": "斗罗大陆之燃魂战定档",
@@ -3665,6 +3697,14 @@
       "onboard_time": 1731984018,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197866,
+      "num": 197866,
+      "word": "张真源直播",
+      "onboard_time": 1732012160,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 197777,
@@ -4459,6 +4499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169120,
+      "num": 169120,
+      "word": "张咪自曝第三次患癌将切掉半个舌头",
+      "onboard_time": 1732012818,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169095,
       "num": 169095,
       "word": "王楚钦首轮对战弗朗西斯卡",
@@ -5179,6 +5227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147591,
+      "num": 147591,
+      "word": "当90岁老飞行员看到歼35A",
+      "onboard_time": 1732011800,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 147484,
       "num": 189857,
       "word": "黎巴嫩男子冲着救人自己却被炸身亡",
@@ -5275,6 +5331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145276,
+      "num": 145276,
+      "word": "男子带着代孕婴儿争夺亡妻遗产",
+      "onboard_time": 1732012818,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145215,
       "num": 145215,
       "word": "NEWJEANS颁奖词感谢闵熙珍",
@@ -5321,6 +5385,14 @@
       "onboard_time": 1731841818,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144436,
+      "num": 144436,
+      "word": "水龙吟",
+      "onboard_time": 1732012698,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 144389,
@@ -5611,6 +5683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134824,
+      "num": 221843,
+      "word": "巴西副总统懂针灸",
+      "onboard_time": 1732012818,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134332,
       "num": 134332,
       "word": "俄传奇飞行员与中国观众依依惜别",
@@ -5657,6 +5737,22 @@
       "onboard_time": 1731835099,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132517,
+      "num": 389229,
+      "word": "警方介入打假博主团队被商户围殴",
+      "onboard_time": 1732010959,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132458,
+      "num": 202809,
+      "word": "杜华每个月都要为乐华大厦还贷款",
+      "onboard_time": 1732011861,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 132357,
@@ -6081,14 +6177,6 @@
       "onboard_time": 1731804077,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117712,
-      "num": 389229,
-      "word": "警方介入打假博主团队被商户围殴",
-      "onboard_time": 1732010959,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117663,
@@ -7675,14 +7763,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 50017,
-      "num": 202809,
-      "word": "杜华每个月都要为乐华大厦还贷款",
-      "onboard_time": 1732011861,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49620,
       "num": 249584,
       "word": "婚期临近定好的酒店突然关门引纠纷",
@@ -7865,6 +7945,14 @@
       "onboard_time": 1731924380,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 43578,
+      "num": 201779,
+      "word": "张玉宁替补待命",
+      "onboard_time": 1732011979,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 43544,
@@ -8137,6 +8225,14 @@
       "onboard_time": 1731895638,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36322,
+      "num": 220210,
+      "word": "林诗栋说总决赛没有弱者",
+      "onboard_time": 1732012220,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 36201,
@@ -8595,6 +8691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28558,
+      "num": 373745,
+      "word": "好东西呈现幽默而生猛的两性议题",
+      "onboard_time": 1732011922,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28510,
       "num": 357032,
       "word": "演技是打破偏见的最好武器",
@@ -8625,6 +8729,14 @@
       "onboard_time": 1731818479,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27862,
+      "num": 235160,
+      "word": "直击国足迎战日本队",
+      "onboard_time": 1732012519,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 27765,
@@ -9091,6 +9203,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 18958,
+      "num": 227674,
+      "word": "古偶101最该卷的是导演",
+      "onboard_time": 1732012220,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18262,
       "num": 26541,
       "word": "原来东方明珠有11颗珠",
@@ -9216,14 +9336,6 @@
       "word": "奥本海默最佳外语片",
       "onboard_time": 1731769883,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 16833,
-      "num": 373745,
-      "word": "好东西呈现幽默而生猛的两性议题",
-      "onboard_time": 1732011922,
-      "rank": 12,
       "category": "电影"
     },
     {
@@ -9691,14 +9803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5904,
-      "num": 396752,
-      "word": "国足vs日本首发",
-      "onboard_time": 1732011861,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 5685,
       "num": 76114,
       "word": "李承铉现场给AG打call",
@@ -9795,6 +9899,9 @@
     },
     {
       "word": "#我立志要办成的一件大事#"
+    },
+    {
+      "word": "#习主席秘鲁巴西之行#"
     }
   ]
 }

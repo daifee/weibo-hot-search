@@ -1,0 +1,410 @@
+{
+  "runTime": 1732013058729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635315,
+        "num": 1101650,
+        "word": "广州将在全市收购90平以下存量房",
+        "onboard_time": 1732006160,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 603702,
+        "num": 603702,
+        "word": "官方通报办事大厅员工10点离岗吃饭",
+        "onboard_time": 1732007181,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115705,
+        "num": 410245,
+        "word": "中医火到巴西",
+        "onboard_time": 1732007478,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 899883,
+        "num": 409557,
+        "word": "2岁男童下楼买糖时被人拐走",
+        "onboard_time": 1732003400,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404653,
+        "num": 404653,
+        "word": "爱上黄圣依",
+        "onboard_time": 1732007120,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494210,
+        "num": 393795,
+        "word": "刘爽 死嘴快答",
+        "onboard_time": 1732005800,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359818,
+        "num": 359818,
+        "word": "好东西小孩是梅婷女儿",
+        "onboard_time": 1732009278,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326967,
+        "num": 326967,
+        "word": "以为王楚钦要跳小天鹅了",
+        "onboard_time": 1732010959,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281742,
+        "num": 281742,
+        "word": "将门独后 刘浩存",
+        "onboard_time": 1731997340,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257987,
+        "num": 257987,
+        "word": "父子俩双双跳水1分23秒救起2人",
+        "onboard_time": 1732002620,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1001433,
+        "num": 257773,
+        "word": "麦琳 不是好妻子但是好老公",
+        "onboard_time": 1732009520,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598399,
+        "num": 250910,
+        "word": "夫妻花19万去南极想睡一间房被拒",
+        "onboard_time": 1732004240,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28558,
+        "num": 244344,
+        "word": "好东西呈现幽默而生猛的两性议题",
+        "onboard_time": 1732011922,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 556051,
+        "num": 240892,
+        "word": "赵丽颖 别逼我变成薛扇扇",
+        "onboard_time": 1732001180,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27862,
+        "num": 235160,
+        "word": "直击国足迎战日本队",
+        "onboard_time": 1732012519,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545485,
+        "num": 230675,
+        "word": "严浩翔评论区 公务员面试现场",
+        "onboard_time": 1732009399,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18958,
+        "num": 227674,
+        "word": "古偶101最该卷的是导演",
+        "onboard_time": 1732012220,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223290,
+        "num": 223290,
+        "word": "丁禹兮圣猴名不虚传",
+        "onboard_time": 1732012220,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134824,
+        "num": 221843,
+        "word": "巴西副总统懂针灸",
+        "onboard_time": 1732012818,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36322,
+        "num": 220210,
+        "word": "林诗栋说总决赛没有弱者",
+        "onboard_time": 1732012220,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265325,
+        "num": 219072,
+        "word": "国足vs日本首发",
+        "onboard_time": 1732011861,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 978217,
+        "num": 216177,
+        "word": "浙江重大刑案54岁嫌犯在逃知情人发声",
+        "onboard_time": 1732010779,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 695721,
+        "num": 214991,
+        "word": "月薪2万5万10万本质上的不同",
+        "onboard_time": 1732011619,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398914,
+        "num": 212744,
+        "word": "去银行提7万块钱结果被抓了",
+        "onboard_time": 1732007602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353988,
+        "num": 211882,
+        "word": "释小龙近照",
+        "onboard_time": 1732012040,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276513,
+        "num": 210371,
+        "word": "美国男子杀全家后踢破审讯室墙壁逃跑",
+        "onboard_time": 1732009340,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208656,
+        "num": 208656,
+        "word": "殷世航 东南vip",
+        "onboard_time": 1732004120,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 208313,
+        "word": "硬核版炸火花来啦",
+        "onboard_time": 1732006340,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 195997,
+        "num": 206186,
+        "word": "珠帘玉幕导演追求真实摒弃古偶",
+        "onboard_time": 1732007181,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39038,
+        "num": 205296,
+        "word": "小鹏发布史上最强财报",
+        "onboard_time": 1732010779,
+        "rank": 29,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 132517,
+        "num": 202909,
+        "word": "警方介入打假博主团队被商户围殴",
+        "onboard_time": 1732010959,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43578,
+        "num": 201779,
+        "word": "张玉宁替补待命",
+        "onboard_time": 1732011979,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200672,
+        "num": 200672,
+        "word": "国足首发",
+        "onboard_time": 1732012100,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197866,
+        "num": 197866,
+        "word": "张真源直播",
+        "onboard_time": 1732012160,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183493,
+        "num": 183493,
+        "word": "冰墩墩变身蛇墩墩",
+        "onboard_time": 1731986059,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182550,
+        "num": 182550,
+        "word": "关晓彤去了王安宇外婆家",
+        "onboard_time": 1731991162,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169120,
+        "num": 169120,
+        "word": "张咪自曝第三次患癌将切掉半个舌头",
+        "onboard_time": 1732012818,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165336,
+        "num": 165336,
+        "word": "夏弃疾 神厨",
+        "onboard_time": 1732011198,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150019,
+        "num": 150019,
+        "word": "预制菜影后",
+        "onboard_time": 1731990142,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148405,
+        "num": 148405,
+        "word": "肖战我们第二小节宣传视频",
+        "onboard_time": 1732011619,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 148100,
+        "word": "华为Mate70价格",
+        "onboard_time": 1731996559,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147591,
+        "num": 147591,
+        "word": "当90岁老飞行员看到歼35A",
+        "onboard_time": 1732011800,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 145276,
+        "num": 145276,
+        "word": "男子带着代孕婴儿争夺亡妻遗产",
+        "onboard_time": 1732012818,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144436,
+        "num": 144436,
+        "word": "水龙吟",
+        "onboard_time": 1732012698,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143378,
+        "num": 143378,
+        "word": "国足上次击败日本还是26年前",
+        "onboard_time": 1732004660,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143321,
+        "num": 143321,
+        "word": "被东北虎袭击老人头皮有撕裂伤",
+        "onboard_time": 1731996799,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 141118,
+        "num": 141118,
+        "word": "永夜星河 时间线",
+        "onboard_time": 1732010239,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137986,
+        "num": 137986,
+        "word": "现在美甲已经进化到这样了吗",
+        "onboard_time": 1732003040,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 135746,
+        "num": 135746,
+        "word": "WTT福冈总决赛球员宣传照",
+        "onboard_time": 1732008441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132458,
+        "num": 132458,
+        "word": "杜华每个月都要为乐华大厦还贷款",
+        "onboard_time": 1732011861,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席秘鲁巴西之行#"
+    }
+  }
+}
