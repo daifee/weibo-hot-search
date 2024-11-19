@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1732008342232,
+  "endTime": 1732009185660,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -251,6 +251,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 645893,
+      "num": 645893,
+      "word": "爱上黄圣依",
+      "onboard_time": 1732007120,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632919,
       "num": 632919,
       "word": "上班睡觉1小时被开除起诉获赔35万",
@@ -275,6 +283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 589471,
+      "num": 589471,
+      "word": "父子俩双双跳水1分23秒救起2人",
+      "onboard_time": 1732002620,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 572420,
       "num": 340256,
       "word": "鹿晗对不起 关晓彤王安宇挺配的",
@@ -297,14 +313,6 @@
       "onboard_time": 1731977780,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 523511,
-      "num": 342805,
-      "word": "爱上黄圣依",
-      "onboard_time": 1732007120,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 516543,
@@ -523,12 +531,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 378566,
-      "num": 378566,
-      "word": "父子俩双双跳水1分23秒救起2人",
-      "onboard_time": 1732002620,
-      "rank": 32,
-      "category": "正能量"
+      "raw_hot": 371310,
+      "num": 371310,
+      "word": "广州将在全市收购90平以下存量房",
+      "onboard_time": 1732006160,
+      "rank": 23,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 358913,
@@ -659,12 +667,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 300407,
-      "num": 300407,
-      "word": "广州将在全市收购90平以下存量房",
-      "onboard_time": 1732006160,
-      "rank": 23,
-      "category": "民生新闻,财经"
+      "raw_hot": 302093,
+      "num": 302093,
+      "word": "官方通报办事大厅员工10点离岗吃饭",
+      "onboard_time": 1732007181,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 297960,
@@ -673,6 +681,14 @@
       "onboard_time": 1731986179,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 296785,
+      "num": 335733,
+      "word": "丁禹兮海边捡垃圾路透",
+      "onboard_time": 1732007120,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 294783,
@@ -688,6 +704,14 @@
       "word": "北京取消普通住房和非普通住房标准",
       "onboard_time": 1731947417,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291044,
+      "num": 291044,
+      "word": "去银行提7万块钱结果被抓了",
+      "onboard_time": 1732007602,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -801,22 +825,6 @@
       "onboard_time": 1731972916,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254126,
-      "num": 335733,
-      "word": "丁禹兮海边捡垃圾路透",
-      "onboard_time": 1732007120,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 243350,
-      "num": 243350,
-      "word": "官方通报办事大厅员工10点离岗吃饭",
-      "onboard_time": 1732007181,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 243107,
@@ -995,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205952,
+      "num": 333863,
+      "word": "WTT福冈总决赛球员宣传照",
+      "onboard_time": 1732008441,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205834,
       "num": 257670,
       "word": "宋亚轩翻牌",
@@ -1067,6 +1083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197777,
+      "num": 197777,
+      "word": "虞书欣丁禹兮车窗视角",
+      "onboard_time": 1732008501,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194117,
       "num": 203954,
       "word": "燕子京满头长生辫终是难长生",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1731992303,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190431,
+      "num": 231567,
+      "word": "2025春节档有你想看的吗",
+      "onboard_time": 1732006399,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 189944,
@@ -1187,12 +1219,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177884,
-      "num": 177884,
-      "word": "去银行提7万块钱结果被抓了",
-      "onboard_time": 1732007602,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 175624,
+      "num": 175624,
+      "word": "Ning回应姿态队被判负",
+      "onboard_time": 1732008379,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 173946,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1732007780,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167582,
-      "num": 231567,
-      "word": "2025春节档有你想看的吗",
-      "onboard_time": 1732006399,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 166368,
@@ -1707,6 +1731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117091,
+      "num": 117091,
+      "word": "CPA成绩",
+      "onboard_time": 1732008740,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117050,
       "num": 423918,
       "word": "国足上次击败日本还是26年前",
@@ -1947,6 +1979,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 74280,
+      "num": 169128,
+      "word": "冯德伦冷脸吐烟",
+      "onboard_time": 1732008621,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73983,
       "num": 73983,
       "word": "TGA官方入驻微博",
@@ -2003,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67815,
+      "num": 332987,
+      "word": "珠帘玉幕导演追求真实摒弃古偶",
+      "onboard_time": 1732007181,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66452,
       "num": 78555,
       "word": "李子柒谈对青少年的引导",
@@ -2016,6 +2064,14 @@
       "word": "国足对阵日本球票被炒至8280元",
       "onboard_time": 1732007540,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62678,
+      "num": 342589,
+      "word": "国足加油",
+      "onboard_time": 1732008740,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -2121,6 +2177,14 @@
       "onboard_time": 1731996440,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 50122,
+      "num": 680159,
+      "word": "中医火到巴西",
+      "onboard_time": 1732007478,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50106,
@@ -2243,6 +2307,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 40024,
+      "num": 340706,
+      "word": "专家谈教师给学生戴小蜜蜂惹争议",
+      "onboard_time": 1732008501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39870,
+      "num": 347224,
+      "word": "外交部回应45名反中乱港分子被判刑",
+      "onboard_time": 1732007900,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39821,
       "num": 236764,
       "word": "前国脚李毅说今晚国足核心是防守",
@@ -2347,22 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32521,
-      "num": 346912,
-      "word": "外交部回应45名反中乱港分子被判刑",
-      "onboard_time": 1732007900,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 32375,
-      "num": 624875,
-      "word": "中医火到巴西",
-      "onboard_time": 1732007478,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 31810,
       "num": 196124,
       "word": "25岁拖延症严重确诊成人ADHD",
@@ -2377,14 +2441,6 @@
       "onboard_time": 1731986240,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30013,
-      "num": 332987,
-      "word": "珠帘玉幕导演追求真实摒弃古偶",
-      "onboard_time": 1732007181,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 29412,
@@ -2416,6 +2472,22 @@
       "word": "两连胜后国足士气正盛一票难求",
       "onboard_time": 1731981919,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27567,
+      "num": 190251,
+      "word": "陈伟霆刘雅瑟首部网飞剧",
+      "onboard_time": 1732009159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27021,
+      "num": 334748,
+      "word": "黄健翔说若能拿分是奇迹",
+      "onboard_time": 1732008199,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2464,6 +2536,14 @@
       "word": "昆凌陪女儿堆沙子",
       "onboard_time": 1731947656,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23828,
+      "num": 190186,
+      "word": "付航的passion浓度还在上升",
+      "onboard_time": 1732008621,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -2529,14 +2609,6 @@
       "onboard_time": 1731959531,
       "rank": 15,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 19181,
-      "num": 334748,
-      "word": "黄健翔说若能拿分是奇迹",
-      "onboard_time": 1732008199,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 19159,

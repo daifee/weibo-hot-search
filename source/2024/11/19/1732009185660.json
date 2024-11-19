@@ -1,0 +1,410 @@
+{
+  "runTime": 1732009185660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 981882,
+        "num": 1157101,
+        "word": "2岁男童下楼买糖时被人拐走",
+        "onboard_time": 1732003400,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861321,
+        "num": 861321,
+        "word": "刘爽 死嘴快答",
+        "onboard_time": 1732005800,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50122,
+        "num": 680159,
+        "word": "中医火到巴西",
+        "onboard_time": 1732007478,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 645893,
+        "num": 645893,
+        "word": "爱上黄圣依",
+        "onboard_time": 1732007120,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589471,
+        "num": 589471,
+        "word": "父子俩双双跳水1分23秒救起2人",
+        "onboard_time": 1732002620,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 371310,
+        "num": 371310,
+        "word": "广州将在全市收购90平以下存量房",
+        "onboard_time": 1732006160,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 423636,
+        "num": 367185,
+        "word": "将门独后 刘浩存",
+        "onboard_time": 1731997340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355391,
+        "num": 355391,
+        "word": "硬核版炸火花来啦",
+        "onboard_time": 1732006340,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 348108,
+        "num": 348108,
+        "word": "冰墩墩变身蛇墩墩",
+        "onboard_time": 1731986059,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39870,
+        "num": 347224,
+        "word": "外交部回应45名反中乱港分子被判刑",
+        "onboard_time": 1732007900,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1058603,
+        "num": 345483,
+        "word": "夫妻花19万去南极想睡一间房被拒",
+        "onboard_time": 1732004240,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796606,
+        "num": 343579,
+        "word": "赵丽颖 别逼我变成薛扇扇",
+        "onboard_time": 1732001180,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62678,
+        "num": 342589,
+        "word": "国足加油",
+        "onboard_time": 1732008740,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40024,
+        "num": 340706,
+        "word": "专家谈教师给学生戴小蜜蜂惹争议",
+        "onboard_time": 1732008501,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467566,
+        "num": 338981,
+        "word": "现在美甲已经进化到这样了吗",
+        "onboard_time": 1732003040,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 363223,
+        "num": 337469,
+        "word": "殷世航 东南vip",
+        "onboard_time": 1732004120,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283820,
+        "num": 335278,
+        "word": "关晓彤去了王安宇外婆家",
+        "onboard_time": 1731991162,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205952,
+        "num": 333863,
+        "word": "WTT福冈总决赛球员宣传照",
+        "onboard_time": 1732008441,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27021,
+        "num": 332440,
+        "word": "黄健翔说若能拿分是奇迹",
+        "onboard_time": 1732008199,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296785,
+        "num": 330912,
+        "word": "丁禹兮海边捡垃圾路透",
+        "onboard_time": 1732007120,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329277,
+        "num": 329277,
+        "word": "90后把600万房款投入股市",
+        "onboard_time": 1731997700,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 320896,
+        "num": 320896,
+        "word": "被东北虎袭击老人头皮有撕裂伤",
+        "onboard_time": 1731996799,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 302093,
+        "num": 302093,
+        "word": "官方通报办事大厅员工10点离岗吃饭",
+        "onboard_time": 1732007181,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 293141,
+        "num": 293141,
+        "word": "男子频繁家暴妻子致其脾脏破裂死亡",
+        "onboard_time": 1732005919,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291044,
+        "num": 291044,
+        "word": "去银行提7万块钱结果被抓了",
+        "onboard_time": 1732007602,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225467,
+        "num": 225467,
+        "word": "炸火花已全面入侵韩娱签售",
+        "onboard_time": 1731990563,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197777,
+        "num": 197777,
+        "word": "虞书欣丁禹兮车窗视角",
+        "onboard_time": 1732008501,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190431,
+        "num": 190431,
+        "word": "2025春节档有你想看的吗",
+        "onboard_time": 1732006399,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27567,
+        "num": 190251,
+        "word": "陈伟霆刘雅瑟首部网飞剧",
+        "onboard_time": 1732009159,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23828,
+        "num": 190186,
+        "word": "付航的passion浓度还在上升",
+        "onboard_time": 1732008621,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216952,
+        "num": 190176,
+        "word": "王昶 讹梁伟铿一顿饭是免不了",
+        "onboard_time": 1732006279,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190164,
+        "num": 190164,
+        "word": "重庆一区群发再婚后可生3孩短信",
+        "onboard_time": 1732001541,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187490,
+        "num": 187490,
+        "word": "姿态队迟到被判负",
+        "onboard_time": 1732003520,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175624,
+        "num": 175624,
+        "word": "Ning回应姿态队被判负",
+        "onboard_time": 1732008379,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74280,
+        "num": 169128,
+        "word": "冯德伦冷脸吐烟",
+        "onboard_time": 1732008621,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166529,
+        "num": 166529,
+        "word": "预制菜影后",
+        "onboard_time": 1731990142,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161128,
+        "num": 161128,
+        "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+        "onboard_time": 1731985580,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159363,
+        "num": 159363,
+        "word": "LPC比赛前失联",
+        "onboard_time": 1732007780,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146415,
+        "num": 146415,
+        "word": "九华山景区多只狗的脚被砍断",
+        "onboard_time": 1731994100,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141251,
+        "num": 141251,
+        "word": "疑似减肥人饿死前的幻想",
+        "onboard_time": 1732006160,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67815,
+        "num": 139982,
+        "word": "珠帘玉幕导演追求真实摒弃古偶",
+        "onboard_time": 1732007181,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139771,
+        "num": 139771,
+        "word": "失笑 那英人没到梗到了",
+        "onboard_time": 1732006100,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133503,
+        "num": 133503,
+        "word": "华为Mate70价格",
+        "onboard_time": 1731996559,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130662,
+        "num": 130662,
+        "word": "许凯被审判",
+        "onboard_time": 1731986540,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117547,
+        "num": 117547,
+        "word": "男子手持仪器扫描航展军事设备",
+        "onboard_time": 1732002140,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117091,
+        "num": 117091,
+        "word": "CPA成绩",
+        "onboard_time": 1732008740,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111192,
+        "num": 111192,
+        "word": "孙颖莎王楚钦备战WTT福冈总决赛",
+        "onboard_time": 1732006219,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111103,
+        "num": 111103,
+        "word": "林一把和沈月的合照藏了三年",
+        "onboard_time": 1731996680,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110719,
+        "num": 110719,
+        "word": "孙丞潇演网剧男主了",
+        "onboard_time": 1731996021,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109705,
+        "num": 109705,
+        "word": "涵艺说五支LPL队伍开摆",
+        "onboard_time": 1732005379,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国支持全球发展的八项行动#"
+    }
+  }
+}
