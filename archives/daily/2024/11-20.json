@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732034733074,
+  "endTime": 1732036868725,
   "band_list": [
     {
       "raw_hot": 1079048,
@@ -51,6 +51,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 532404,
+      "num": 532404,
+      "word": "国足所在小组彻底乱了",
+      "onboard_time": 1732032859,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447425,
       "num": 447425,
       "word": "祝绪祝绪丹丹 祝绪祝绪丹",
@@ -73,6 +81,14 @@
       "onboard_time": 1732028001,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 371030,
+      "num": 371030,
+      "word": "ABC所属公司称正修改全线产品",
+      "onboard_time": 1732034836,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 344425,
@@ -121,14 +137,6 @@
       "onboard_time": 1732009520,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286747,
-      "num": 286747,
-      "word": "国足所在小组彻底乱了",
-      "onboard_time": 1732032859,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 272396,
@@ -203,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141105,
+      "num": 215024,
+      "word": "奥斯卡参加TVB台庆",
+      "onboard_time": 1732034236,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139514,
       "num": 240679,
       "word": "现在就出发直播",
@@ -251,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102424,
-      "num": 146206,
-      "word": "奥斯卡参加TVB台庆",
-      "onboard_time": 1732034236,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101644,
       "num": 166147,
       "word": "珠帘玉幕 赵露思写真集",
@@ -289,6 +297,14 @@
       "onboard_time": 1732021821,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 98097,
+      "num": 98097,
+      "word": "丁禹兮捡垃圾差点把建构甲弄坏",
+      "onboard_time": 1732036813,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97931,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84624,
+      "num": 84624,
+      "word": "离职小蜜蜂老师称还想加入教师行列",
+      "onboard_time": 1732034176,
+      "rank": 45,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 84069,
       "num": 84069,
       "word": "朱志鑫直播",
@@ -395,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70239,
-      "num": 70239,
-      "word": "离职小蜜蜂老师称还想加入教师行列",
-      "onboard_time": 1732034176,
-      "rank": 45,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 63659,
       "num": 63659,
       "word": "赵丽颖 别逼我变成薛扇扇",
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53320,
+      "num": 132841,
+      "word": "朱志鑫19岁第一天有很多爱与陪伴",
+      "onboard_time": 1732034716,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51956,
       "num": 91926,
       "word": "陈奕迅被唱歌耽误的功夫大师",
@@ -427,12 +451,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33799,
-      "num": 132841,
-      "word": "朱志鑫19岁第一天有很多爱与陪伴",
-      "onboard_time": 1732034716,
-      "rank": 29,
+      "raw_hot": 50175,
+      "num": 50175,
+      "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+      "onboard_time": 1732036454,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43261,
+      "num": 43261,
+      "word": "国足再战日本开局九分半差点进球",
+      "onboard_time": 1732025122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40977,
+      "num": 40977,
+      "word": "朱志鑫生日live",
+      "onboard_time": 1732017980,
+      "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37146,
+      "num": 187767,
+      "word": "对战日本看到了国足的进步",
+      "onboard_time": 1732036633,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 33026,
@@ -441,6 +489,14 @@
       "onboard_time": 1732020440,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31591,
+      "num": 137284,
+      "word": "王源明年见晚安",
+      "onboard_time": 1732034895,
+      "rank": 18,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
