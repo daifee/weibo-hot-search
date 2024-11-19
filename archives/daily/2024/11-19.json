@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731985239315,
+  "endTime": 1731985803830,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1276243,
+      "num": 421167,
+      "word": "四川14岁学生晨跑倒地后脑死亡",
+      "onboard_time": 1731983479,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1211083,
       "num": 499525,
       "word": "全球首例成功换脸换手男子将结婚",
       "onboard_time": 1731940282,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1140014,
-      "num": 381699,
-      "word": "四川14岁学生晨跑倒地后脑死亡",
-      "onboard_time": 1731983479,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 1038857,
@@ -139,12 +139,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 429118,
+      "num": 253526,
+      "word": "老公婚后反悔丁克",
+      "onboard_time": 1731984860,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409270,
       "num": 311872,
       "word": "吃路边摊偶遇檀健次",
       "onboard_time": 1731978679,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399727,
+      "num": 399727,
+      "word": "国足要怎么踢才可能赢日本",
+      "onboard_time": 1731982279,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 398941,
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354277,
+      "num": 354277,
+      "word": "打假博主称将再送检良品铺子",
+      "onboard_time": 1731981259,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 342907,
       "num": 342907,
       "word": "官方通报游客夜爬大牯牛山纵火烧山",
@@ -177,14 +201,6 @@
       "onboard_time": 1731977840,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 327719,
-      "num": 327719,
-      "word": "打假博主称将再送检良品铺子",
-      "onboard_time": 1731981259,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 323417,
@@ -209,6 +225,14 @@
       "onboard_time": 1731919458,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312586,
+      "num": 301817,
+      "word": "打假良品铺子博主称看完调查很寒心",
+      "onboard_time": 1731983658,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 308517,
@@ -283,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267322,
-      "num": 260367,
-      "word": "打假良品铺子博主称看完调查很寒心",
-      "onboard_time": 1731983658,
-      "rank": 12,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 259100,
       "num": 259100,
       "word": "举报良品铺子所涉问题不成立",
@@ -307,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253526,
-      "num": 253526,
-      "word": "老公婚后反悔丁克",
-      "onboard_time": 1731984860,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 241701,
+      "num": 241701,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1731984800,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 232021,
@@ -321,6 +337,14 @@
       "onboard_time": 1731983239,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 231598,
+      "num": 253613,
+      "word": "给学生戴小蜜蜂别又是秦朗事件",
+      "onboard_time": 1731983359,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 231056,
@@ -361,14 +385,6 @@
       "onboard_time": 1731975139,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215754,
-      "num": 261565,
-      "word": "国足要怎么踢才可能赢日本",
-      "onboard_time": 1731982279,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 215555,
@@ -427,6 +443,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 200447,
+      "num": 252631,
+      "word": "斗罗大陆之燃魂战定档",
+      "onboard_time": 1731985040,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199971,
       "num": 258919,
       "word": "身体有5个寒气入口",
@@ -443,12 +467,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 198464,
-      "num": 252631,
-      "word": "斗罗大陆之燃魂战定档",
-      "onboard_time": 1731985040,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 198532,
+      "num": 198532,
+      "word": "特朗普再提名福克斯新闻主播任部长",
+      "onboard_time": 1731984018,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 189895,
+      "num": 256204,
+      "word": "时代少年团开场嘉宾",
+      "onboard_time": 1731984978,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 184986,
@@ -481,14 +513,6 @@
       "onboard_time": 1731980240,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 179205,
-      "num": 179205,
-      "word": "霸王茶姬口令",
-      "onboard_time": 1731984800,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 177990,
@@ -539,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164857,
-      "num": 164857,
-      "word": "特朗普再提名福克斯新闻主播任部长",
-      "onboard_time": 1731984018,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162876,
       "num": 162876,
       "word": "JackeyLove谈乐言打老头杯",
@@ -579,14 +595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159296,
-      "num": 256204,
-      "word": "时代少年团开场嘉宾",
-      "onboard_time": 1731984978,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157630,
       "num": 256454,
       "word": "冈田将生高畑充希结婚",
@@ -603,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149819,
-      "num": 253613,
-      "word": "给学生戴小蜜蜂别又是秦朗事件",
-      "onboard_time": 1731983359,
-      "rank": 24,
-      "category": "舆论监督"
+      "raw_hot": 149724,
+      "num": 255980,
+      "word": "中国游戏的TGA十年",
+      "onboard_time": 1731985040,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 144819,
@@ -625,6 +633,22 @@
       "onboard_time": 1731931399,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 143143,
+      "num": 143143,
+      "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+      "onboard_time": 1731985580,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142601,
+      "num": 142601,
+      "word": "特朗普提名达菲担任交通部长",
+      "onboard_time": 1731982398,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136715,
@@ -659,12 +683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131626,
-      "num": 131626,
-      "word": "特朗普提名达菲担任交通部长",
-      "onboard_time": 1731982398,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 132345,
+      "num": 132345,
+      "word": "重庆人以后可以打飞的上班了",
+      "onboard_time": 1731985279,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131193,
@@ -707,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120073,
+      "num": 254564,
+      "word": "黑神话悟空销量破2200万",
+      "onboard_time": 1731984079,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119749,
       "num": 119749,
       "word": "东方公主号游轮突发大火",
@@ -731,28 +763,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116672,
-      "num": 255980,
-      "word": "中国游戏的TGA十年",
-      "onboard_time": 1731985040,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 111797,
       "num": 111797,
       "word": "被东北虎咬伤村民无截肢风险",
       "onboard_time": 1731938541,
       "rank": 31,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 110233,
-      "num": 254564,
-      "word": "黑神话悟空销量破2200万",
-      "onboard_time": 1731984079,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 101145,
@@ -1040,6 +1056,14 @@
       "word": "幼儿园殴打学生老师已被辞退",
       "onboard_time": 1731957851,
       "rank": 44,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44326,
+      "num": 303911,
+      "word": "网上卖微型摄像头边警示边暗示",
+      "onboard_time": 1731985339,
+      "rank": 9,
       "category": "舆论监督"
     },
     {

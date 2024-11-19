@@ -1,0 +1,410 @@
+{
+  "runTime": 1731985803830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 877746,
+        "num": 1140439,
+        "word": "赵薇公司被强制执行14177元",
+        "onboard_time": 1731976941,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513905,
+        "num": 513905,
+        "word": "上班睡觉1小时被开除起诉获赔35万",
+        "onboard_time": 1731942920,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6555,
+        "num": 430683,
+        "word": "一个视频带你了解G20",
+        "onboard_time": 1731936922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1276243,
+        "num": 421167,
+        "word": "四川14岁学生晨跑倒地后脑死亡",
+        "onboard_time": 1731983479,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399727,
+        "num": 399727,
+        "word": "国足要怎么踢才可能赢日本",
+        "onboard_time": 1731982279,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354277,
+        "num": 354277,
+        "word": "打假博主称将再送检良品铺子",
+        "onboard_time": 1731981259,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 322427,
+        "num": 322427,
+        "word": "官方通报良品铺子被举报事件",
+        "onboard_time": 1731972136,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 305571,
+        "num": 305571,
+        "word": "经常腰疼的人建议练练核心",
+        "onboard_time": 1731977840,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 272065,
+        "num": 305460,
+        "word": "挖呀挖黄老师怒怼营销号",
+        "onboard_time": 1731941241,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44326,
+        "num": 303911,
+        "word": "网上卖微型摄像头边警示边暗示",
+        "onboard_time": 1731985339,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 315911,
+        "num": 302209,
+        "word": "吃路边摊偶遇檀健次",
+        "onboard_time": 1731978679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312586,
+        "num": 301817,
+        "word": "打假良品铺子博主称看完调查很寒心",
+        "onboard_time": 1731983658,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 300887,
+        "num": 300887,
+        "word": "葛夕身材好辣",
+        "onboard_time": 1731974299,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283061,
+        "num": 283061,
+        "word": "华为Mate70已到店",
+        "onboard_time": 1731978619,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248728,
+        "num": 248728,
+        "word": "丁禹兮涨粉",
+        "onboard_time": 1731974057,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212403,
+        "num": 244751,
+        "word": "王一博 那我就给你多说一点",
+        "onboard_time": 1731974359,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200447,
+        "num": 242096,
+        "word": "斗罗大陆之燃魂战定档",
+        "onboard_time": 1731985040,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149724,
+        "num": 241746,
+        "word": "中国游戏的TGA十年",
+        "onboard_time": 1731985040,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241701,
+        "num": 241701,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1731984800,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189895,
+        "num": 240868,
+        "word": "时代少年团开场嘉宾",
+        "onboard_time": 1731984978,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616031,
+        "num": 239357,
+        "word": "男子为骗保开车撞树当场身亡",
+        "onboard_time": 1731980659,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584290,
+        "num": 238317,
+        "word": "男子开钟点房洗8件羽绒服10件毛衣",
+        "onboard_time": 1731979578,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429118,
+        "num": 237403,
+        "word": "老公婚后反悔丁克",
+        "onboard_time": 1731984860,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259453,
+        "num": 236111,
+        "word": "5种不舒服可能是癌症信号",
+        "onboard_time": 1731979518,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235520,
+        "num": 235520,
+        "word": "多方回应太原一社区多名干部分香烟",
+        "onboard_time": 1731975560,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 233172,
+        "num": 233172,
+        "word": "全球首例成功换脸换手男子将结婚",
+        "onboard_time": 1731940282,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231598,
+        "num": 231598,
+        "word": "给学生戴小蜜蜂别又是秦朗事件",
+        "onboard_time": 1731983359,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231360,
+        "num": 231360,
+        "word": "举报良品铺子所涉问题不成立",
+        "onboard_time": 1731977421,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 210988,
+        "num": 210988,
+        "word": "为什么癌症早期一般没有征兆",
+        "onboard_time": 1731976520,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182281,
+        "num": 201874,
+        "word": "惊天魔盗团3杀青",
+        "onboard_time": 1731985158,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198532,
+        "num": 198532,
+        "word": "特朗普再提名福克斯新闻主播任部长",
+        "onboard_time": 1731984018,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185668,
+        "num": 185668,
+        "word": "华为Mate70全新AI功能曝光",
+        "onboard_time": 1731983239,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182884,
+        "num": 182884,
+        "word": "巴西首都27岁就被列入世界遗产名录",
+        "onboard_time": 1731978979,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171632,
+        "num": 171632,
+        "word": "被老虎咬伤村民手术结束情况较乐观",
+        "onboard_time": 1731979998,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149929,
+        "num": 149929,
+        "word": "怀9胞胎女子丈夫希望留两胎",
+        "onboard_time": 1731944839,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143143,
+        "num": 143143,
+        "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+        "onboard_time": 1731985580,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142601,
+        "num": 142601,
+        "word": "特朗普提名达菲担任交通部长",
+        "onboard_time": 1731982398,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138100,
+        "num": 138100,
+        "word": "鹿晗对不起 关晓彤王安宇挺配的",
+        "onboard_time": 1731923419,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133197,
+        "num": 136348,
+        "word": "时代少年团时光圆五曲",
+        "onboard_time": 1731982941,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134819,
+        "num": 136332,
+        "word": "丁禹兮新加坡到底有谁在啊",
+        "onboard_time": 1731972916,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136329,
+        "num": 136329,
+        "word": "圆明园通报四只黑天鹅死亡",
+        "onboard_time": 1731943820,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 134976,
+        "num": 134976,
+        "word": "JackeyLove谈退役",
+        "onboard_time": 1731979940,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134192,
+        "num": 134192,
+        "word": "东北虎",
+        "onboard_time": 1731929479,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 132345,
+        "num": 132345,
+        "word": "重庆人以后可以打飞的上班了",
+        "onboard_time": 1731985279,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131603,
+        "num": 131603,
+        "word": "李子柒称不希望青少年梦想当网红",
+        "onboard_time": 1731967992,
+        "rank": 44,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 127848,
+        "num": 127848,
+        "word": "2马拉松选手被曝拿走大量补给",
+        "onboard_time": 1731978200,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125829,
+        "num": 125829,
+        "word": "外卖员吐槽尽量不要点黄焖鸡",
+        "onboard_time": 1731975139,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124053,
+        "num": 124053,
+        "word": "失笑 silk感",
+        "onboard_time": 1731977060,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120073,
+        "num": 120073,
+        "word": "黑神话悟空销量破2200万",
+        "onboard_time": 1731984079,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115653,
+        "num": 115653,
+        "word": "女子掉进温泉池2秒皮被烫掉",
+        "onboard_time": 1731929719,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于全球治理机构改革议题的讲话#"
+    }
+  }
+}
