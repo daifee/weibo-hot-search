@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731985803830,
+  "endTime": 1731987415594,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -163,6 +163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1415138,
+      "num": 645503,
+      "word": "四川14岁学生晨跑倒地后脑死亡",
+      "onboard_time": 1731983479,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1407422,
       "num": 1407422,
       "word": "霸王茶姬 口令",
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1276243,
-      "num": 421167,
-      "word": "四川14岁学生晨跑倒地后脑死亡",
-      "onboard_time": 1731983479,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1266753,
       "num": 1185368,
       "word": "黑龙江被老虎咬伤村民家属发声",
@@ -233,6 +233,14 @@
       "onboard_time": 1731813679,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1239900,
+      "num": 388921,
+      "word": "许凯被审判",
+      "onboard_time": 1731986540,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1211639,
@@ -763,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734595,
+      "num": 203346,
+      "word": "特朗普政府将宣布美国进入紧急状态",
+      "onboard_time": 1731986299,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 732721,
       "num": 683893,
       "word": "郑钦文回应像科比",
@@ -809,6 +825,14 @@
       "onboard_time": 1731800596,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 697349,
+      "num": 200778,
+      "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
+      "onboard_time": 1731985580,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 688362,
@@ -1003,12 +1027,28 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 613376,
+      "num": 613376,
+      "word": "浙江发生重大刑案54岁男子在逃",
+      "onboard_time": 1731986779,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608879,
       "num": 418271,
       "word": "大结局虞书欣对面站的是丁禹兮",
       "onboard_time": 1731848180,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 606292,
+      "num": 606292,
+      "word": "45名反中乱港分子被判刑",
+      "onboard_time": 1731986120,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 603703,
@@ -1123,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 549870,
+      "num": 549870,
+      "word": "国足要怎么踢才可能赢日本",
+      "onboard_time": 1731982279,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 542962,
       "num": 542962,
       "word": "女学生找工作被HR夸漂亮表示想认识",
@@ -1195,6 +1243,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 517072,
+      "num": 198491,
+      "word": "冰墩墩变身蛇墩墩",
+      "onboard_time": 1731986059,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 516543,
       "num": 498974,
       "word": "葛夕身材好辣",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1731938720,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500239,
+      "num": 253526,
+      "word": "老公婚后反悔丁克",
+      "onboard_time": 1731984860,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 499983,
@@ -1299,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 469427,
+      "num": 387869,
+      "word": "打假良品铺子博主称看完调查很寒心",
+      "onboard_time": 1731983658,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 465902,
       "num": 335889,
       "word": "李庚希说了7个非常感谢",
@@ -1339,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445687,
+      "num": 445687,
+      "word": "打假博主称将再送检良品铺子",
+      "onboard_time": 1731981259,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 443904,
       "num": 316632,
       "word": "张家界火灾遇难者系一家祖孙三代",
@@ -1377,14 +1457,6 @@
       "onboard_time": 1731765565,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 429118,
-      "num": 253526,
-      "word": "老公婚后反悔丁克",
-      "onboard_time": 1731984860,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 428180,
@@ -1491,14 +1563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 399727,
-      "num": 399727,
-      "word": "国足要怎么踢才可能赢日本",
-      "onboard_time": 1731982279,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 392422,
       "num": 447616,
       "word": "夏弃疾把妙声强制爱拍出来了",
@@ -1539,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386175,
+      "num": 194390,
+      "word": "北京月租7000的房子",
+      "onboard_time": 1731986179,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385463,
       "num": 385463,
       "word": "东北虎视频发布者称山上常有野猪熊",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1731846678,
       "rank": 36,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 378862,
+      "num": 378862,
+      "word": "给学生戴小蜜蜂别又是秦朗事件",
+      "onboard_time": 1731983359,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 378693,
@@ -1673,14 +1753,6 @@
       "onboard_time": 1731921019,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354277,
-      "num": 354277,
-      "word": "打假博主称将再送检良品铺子",
-      "onboard_time": 1731981259,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 353777,
@@ -1859,14 +1931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 312586,
-      "num": 301817,
-      "word": "打假良品铺子博主称看完调查很寒心",
-      "onboard_time": 1731983658,
-      "rank": 12,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 310304,
       "num": 347060,
       "word": "雷军让李斌别唱了",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1731805579,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284646,
+      "num": 391259,
+      "word": "朴彩英二单",
+      "onboard_time": 1731986120,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 284637,
@@ -2515,14 +2587,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 231598,
-      "num": 253613,
-      "word": "给学生戴小蜜蜂别又是秦朗事件",
-      "onboard_time": 1731983359,
-      "rank": 24,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 231056,
       "num": 188579,
       "word": "怀9胞胎女子丈夫希望留两胎",
@@ -2715,6 +2779,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 216125,
+      "num": 256204,
+      "word": "时代少年团开场嘉宾",
+      "onboard_time": 1731984978,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215330,
       "num": 253371,
       "word": "惊天魔盗团3杀青",
@@ -2865,6 +2937,14 @@
       "onboard_time": 1731901218,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204585,
+      "num": 204585,
+      "word": "宋亚轩翻牌",
+      "onboard_time": 1731986059,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 204571,
@@ -3091,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191438,
+      "num": 191438,
+      "word": "年轻人有自己的晒谷文学",
+      "onboard_time": 1731987320,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191080,
       "num": 240319,
       "word": "关晓彤周洁琼对手戏",
@@ -3161,14 +3249,6 @@
       "onboard_time": 1731838938,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189895,
-      "num": 256204,
-      "word": "时代少年团开场嘉宾",
-      "onboard_time": 1731984978,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 189782,
@@ -3475,6 +3555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176833,
+      "num": 176833,
+      "word": "良品铺子将对打假网红提起诉讼",
+      "onboard_time": 1731986179,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 176175,
       "num": 200499,
       "word": "安徽舒城县长回应县政府大院随便进",
@@ -3731,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165365,
+      "num": 197991,
+      "word": "时代少年团微博互动",
+      "onboard_time": 1731986120,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165323,
       "num": 540292,
       "word": "老师不敢管学生害了谁",
@@ -3793,6 +3889,14 @@
       "onboard_time": 1731907819,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161570,
+      "num": 255980,
+      "word": "中国游戏的TGA十年",
+      "onboard_time": 1731985040,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 161516,
@@ -4147,14 +4251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149724,
-      "num": 255980,
-      "word": "中国游戏的TGA十年",
-      "onboard_time": 1731985040,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149655,
       "num": 173634,
       "word": "这个丁子期有点入戏太深",
@@ -4355,20 +4451,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143143,
-      "num": 143143,
-      "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
-      "onboard_time": 1731985580,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143064,
       "num": 181978,
       "word": "丁禹兮背头粉夹克",
       "onboard_time": 1731923000,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142952,
+      "num": 142952,
+      "word": "宁夏银川发生多车相撞交通事故",
+      "onboard_time": 1731987141,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 142601,
@@ -4449,6 +4545,22 @@
       "onboard_time": 1731927440,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139892,
+      "num": 139892,
+      "word": "林一说现偶关键在男主爱女主",
+      "onboard_time": 1731987199,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139846,
+      "num": 139846,
+      "word": "太原通报社区干部瓜分捐赠香烟问题",
+      "onboard_time": 1731987380,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 139446,
@@ -5467,6 +5579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96231,
+      "num": 303911,
+      "word": "网上卖微型摄像头边警示边暗示",
+      "onboard_time": 1731985339,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 95994,
       "num": 95994,
       "word": "06年男生当小学老师的一天",
@@ -6411,6 +6531,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 49157,
+      "num": 197289,
+      "word": "LOL冬季转会期已开始",
+      "onboard_time": 1731986779,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48988,
       "num": 73230,
       "word": "官方回应非必要情况不会击毙老虎",
@@ -6505,14 +6633,6 @@
       "onboard_time": 1731830838,
       "rank": 7,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 44326,
-      "num": 303911,
-      "word": "网上卖微型摄像头边警示边暗示",
-      "onboard_time": 1731985339,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 43629,
@@ -6657,6 +6777,14 @@
       "onboard_time": 1731847159,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38609,
+      "num": 196491,
+      "word": "黑神话获TGA四项提名",
+      "onboard_time": 1731986779,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 38581,
@@ -6923,6 +7051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32973,
+      "num": 203671,
+      "word": "显眼包碰显眼杯",
+      "onboard_time": 1731986240,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 32459,
       "num": 335742,
       "word": "这首歌献给勇敢出发的人",
@@ -7001,6 +7137,14 @@
       "onboard_time": 1731937041,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31113,
+      "num": 196203,
+      "word": "北欧三国向民众发放战时手册",
+      "onboard_time": 1731986240,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30932,
