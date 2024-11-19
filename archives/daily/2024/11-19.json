@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1732029957425,
+  "endTime": 1732030842532,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 863057,
-      "num": 863057,
+      "num": 886569,
       "word": "石云鹏回应小巷人家大结局没鹏飞",
       "onboard_time": 1732021522,
       "rank": 4,
@@ -320,6 +320,14 @@
       "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
       "onboard_time": 1731985580,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774950,
+      "num": 774950,
+      "word": "酒后在足疗店死亡家属索赔194万",
+      "onboard_time": 1732025602,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -403,6 +411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 671091,
+      "num": 671091,
+      "word": "祝绪祝绪丹丹 祝绪祝绪丹",
+      "onboard_time": 1732024282,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 666341,
       "num": 342123,
       "word": "网曝幼儿园老师教唆全班扇男孩耳光",
@@ -425,14 +441,6 @@
       "onboard_time": 1732007120,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 638163,
-      "num": 528540,
-      "word": "祝绪祝绪丹丹 祝绪祝绪丹",
-      "onboard_time": 1732024282,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 632919,
@@ -459,8 +467,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611067,
+      "num": 611067,
+      "word": "国足2胜4负暂列小组第5",
+      "onboard_time": 1732026262,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606792,
-      "num": 606792,
+      "num": 920337,
       "word": "宋莹经典台词是蒋欣即兴发挥",
       "onboard_time": 1732026322,
       "rank": 5,
@@ -473,6 +489,14 @@
       "onboard_time": 1731983658,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 603724,
+      "num": 603724,
+      "word": "ABC卫生巾",
+      "onboard_time": 1732028541,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 603702,
@@ -489,6 +513,14 @@
       "onboard_time": 1732018999,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 592409,
+      "num": 592409,
+      "word": "百雀羚",
+      "onboard_time": 1732028182,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 589471,
@@ -515,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552078,
-      "num": 552078,
-      "word": "酒后在足疗店死亡家属索赔194万",
-      "onboard_time": 1732025602,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 549870,
       "num": 549870,
       "word": "国足要怎么踢才可能赢日本",
@@ -545,14 +569,6 @@
       "onboard_time": 1732017859,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 527446,
-      "num": 527446,
-      "word": "国足2胜4负暂列小组第5",
-      "onboard_time": 1732026262,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 516543,
@@ -811,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387683,
-      "num": 387683,
-      "word": "百雀羚",
-      "onboard_time": 1732028182,
-      "rank": 17,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 387041,
       "num": 387041,
       "word": "范丞丞粉丝致范丞丞工作室的一封信",
@@ -889,14 +897,6 @@
       "onboard_time": 1731989601,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355719,
-      "num": 355719,
-      "word": "ABC卫生巾",
-      "onboard_time": 1732028541,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 355671,
@@ -1276,7 +1276,7 @@
     },
     {
       "raw_hot": 259984,
-      "num": 430967,
+      "num": 864292,
       "word": "乌军首次使用美导弹系统袭击俄罗斯",
       "onboard_time": 1732024584,
       "rank": 8,
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192873,
+      "num": 403983,
+      "word": "27岁女子祛斑手术10天后离世",
+      "onboard_time": 1732030159,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192199,
       "num": 192199,
       "word": "张真源微醺了",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1732023442,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187719,
+      "num": 794999,
+      "word": "往南走的麦子阿姨说放不下土地",
+      "onboard_time": 1732027821,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187228,
@@ -2017,14 +2033,6 @@
       "onboard_time": 1732014380,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176480,
-      "num": 176480,
-      "word": "往南走的麦子阿姨说放不下土地",
-      "onboard_time": 1732027821,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175624,
@@ -2323,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157584,
+      "num": 220102,
+      "word": "关晓彤替庄筱婷发个自拍",
+      "onboard_time": 1732030040,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157245,
       "num": 259586,
       "word": "好东西",
@@ -2499,6 +2515,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 141031,
+      "num": 363159,
+      "word": "脱粉后被前爱豆抓现形",
+      "onboard_time": 1732027281,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140197,
       "num": 222520,
       "word": "斗2唐三 恋爱脑",
@@ -2529,6 +2553,14 @@
       "onboard_time": 1731997940,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136885,
+      "num": 817437,
+      "word": "北上深均已取消普通住房标准",
+      "onboard_time": 1732029559,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136715,
@@ -2883,14 +2915,6 @@
       "category": "财经,数码"
     },
     {
-      "raw_hot": 94983,
-      "num": 363159,
-      "word": "脱粉后被前爱豆抓现形",
-      "onboard_time": 1732027281,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94006,
       "num": 273597,
       "word": "官方回应粤东沿海出现海水倒灌",
@@ -3033,6 +3057,14 @@
       "onboard_time": 1732026381,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77465,
+      "num": 603944,
+      "word": "限速新规会让数亿小电驴更安全吗",
+      "onboard_time": 1732029081,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 76817,
@@ -3203,6 +3235,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 61896,
+      "num": 529114,
+      "word": "网络鉴宝靠谱吗",
+      "onboard_time": 1732028660,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 61227,
       "num": 340096,
       "word": "张玉宁上场",
@@ -3211,12 +3251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60950,
+      "num": 468347,
+      "word": "良品铺子举报人对证据有信心",
+      "onboard_time": 1732028720,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 60715,
       "num": 60715,
       "word": "虞书欣绿色格子套装",
       "onboard_time": 1731962241,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60476,
+      "num": 162782,
+      "word": "33PEL非正式歌王",
+      "onboard_time": 1732030159,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 59116,
@@ -3275,22 +3331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55431,
-      "num": 529114,
-      "word": "网络鉴宝靠谱吗",
-      "onboard_time": 1732028660,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 55203,
-      "num": 534938,
-      "word": "北上深均已取消普通住房标准",
-      "onboard_time": 1732029559,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55114,
       "num": 1797996,
       "word": "电力高速公路上的中巴友谊",
@@ -3347,14 +3387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51670,
-      "num": 469357,
-      "word": "限速新规会让数亿小电驴更安全吗",
-      "onboard_time": 1732029081,
-      "rank": 13,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 51406,
       "num": 51406,
       "word": "当地群众在大牯牛山偶遇游客纵火烧山",
@@ -3363,12 +3395,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 51125,
-      "num": 468347,
-      "word": "良品铺子举报人对证据有信心",
-      "onboard_time": 1732028720,
-      "rank": 14,
-      "category": "舆论监督"
+      "raw_hot": 51140,
+      "num": 400250,
+      "word": "陈奕迅被唱歌耽误的功夫大师",
+      "onboard_time": 1732030159,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 50726,
@@ -3472,6 +3504,14 @@
       "word": "国足对阵日本有60余名日媒记者",
       "onboard_time": 1732000819,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44486,
+      "num": 474395,
+      "word": "日本主帅说中国队很有潜力",
+      "onboard_time": 1732030340,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -3905,6 +3945,14 @@
       "onboard_time": 1731953891,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21855,
+      "num": 219917,
+      "word": "董路 踢的挺好的",
+      "onboard_time": 1732030340,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 21366,

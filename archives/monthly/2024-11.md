@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/19 23:25:57
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/19 23:40:42
 </p>
 </blockquote>
 <p>
@@ -4779,6 +4779,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%9C%A8%E8%B6%B3%E7%96%97%E5%BA%97%E6%AD%BB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94194%E4%B8%87%23" target="weibo">
+酒后在足疗店死亡家属索赔194万（热度：774950）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A6%88%E5%A6%88%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94%E5%A6%BB%E5%AD%90%E8%84%B8%E4%B8%8A%E6%98%AF%E5%90%A6%E8%90%BD%E7%96%A4%23" target="weibo">
 烧伤妈妈丈夫回应妻子脸上是否落疤（热度：774623）
 </a>
@@ -5793,6 +5799,12 @@ BLG赛后采访（热度：672798）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%B8%B9%20%E7%A5%9D%E7%BB%AA%E7%A5%9D%E7%BB%AA%E4%B8%B9%23" target="weibo">
+祝绪祝绪丹丹 祝绪祝绪丹（热度：671091）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%23" target="weibo">
 国足进球（热度：670068）
 </a>
@@ -5999,18 +6011,6 @@ Mate70（热度：663151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%AD%A6%E6%BC%86%E8%89%BA%E6%97%B6%E4%B8%A5%E9%87%8D%E8%BF%87%E6%95%8F%23" target="weibo">
 李子柒学漆艺时严重过敏（热度：655073）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%9A%E8%B1%AA%20%E9%98%AE%E5%B0%8F%E5%92%AA%23" target="weibo">
-李定豪 阮小咪（热度：655068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%86%8D%E4%B8%B4%E9%81%97%E7%85%A7%E5%85%AC%E5%BC%80%23" target="weibo">
-宋再临遗照公开（热度：655021）
 </a>
 </li>
 
