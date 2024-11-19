@@ -1,6 +1,6 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731993750228,
+  "endTime": 1731994815041,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -67,8 +67,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1343871,
-      "num": 1343871,
+      "raw_hot": 1412717,
+      "num": 1412717,
       "word": "关晓彤去了王安宇外婆家",
       "onboard_time": 1731991162,
       "rank": 32,
@@ -123,8 +123,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 817044,
-      "num": 817044,
+      "raw_hot": 829547,
+      "num": 829547,
       "word": "炸火花已全面入侵韩娱签售",
       "onboard_time": 1731990563,
       "rank": 13,
@@ -275,12 +275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 451212,
+      "num": 332704,
+      "word": "21年的李行亮麦琳",
+      "onboard_time": 1731992064,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445687,
       "num": 445687,
       "word": "打假博主称将再送检良品铺子",
       "onboard_time": 1731981259,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 420125,
+      "num": 237026,
+      "word": "乐华大厦是杜华贷款买的",
+      "onboard_time": 1731993261,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 409270,
@@ -329,14 +345,6 @@
       "onboard_time": 1731987560,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 372177,
-      "num": 332704,
-      "word": "21年的李行亮麦琳",
-      "onboard_time": 1731992064,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 358913,
@@ -425,6 +433,14 @@
       "onboard_time": 1731979518,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 305877,
+      "num": 288317,
+      "word": "顶流男主回村相亲",
+      "onboard_time": 1731992842,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 303717,
@@ -523,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260175,
-      "num": 288317,
-      "word": "顶流男主回村相亲",
-      "onboard_time": 1731992842,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259316,
       "num": 259316,
       "word": "巴西首都27岁就被列入世界遗产名录",
@@ -555,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258540,
+      "num": 231297,
+      "word": "钟楚曦抽烟好港",
+      "onboard_time": 1731994700,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249900,
       "num": 334944,
       "word": "谷歌聊天机器人竟回复称人类去死吧",
       "onboard_time": 1731990742,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 246410,
+      "num": 230365,
+      "word": "释小龙室外抽烟",
+      "onboard_time": 1731994640,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 243107,
@@ -603,12 +627,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227915,
+      "num": 233481,
+      "word": "裴珠泫对抗黄牛公开小卡",
+      "onboard_time": 1731991343,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225477,
       "num": 225477,
       "word": "NASA准备随时撤离国际空间站",
       "onboard_time": 1731965110,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222396,
+      "num": 222396,
+      "word": "九华山景区多只狗的脚被砍断",
+      "onboard_time": 1731994100,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 217460,
@@ -731,14 +771,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 199963,
-      "num": 199963,
-      "word": "乐华大厦是杜华贷款买的",
-      "onboard_time": 1731993261,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199894,
       "num": 199894,
       "word": "小米汽车卖一辆亏3万",
@@ -753,14 +785,6 @@
       "onboard_time": 1731984018,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 196960,
-      "num": 196960,
-      "word": "裴珠泫对抗黄牛公开小卡",
-      "onboard_time": 1731991343,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 193485,
@@ -843,6 +867,14 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 173115,
+      "num": 233683,
+      "word": "关晓彤王安宇谈三搭",
+      "onboard_time": 1731993140,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171919,
       "num": 171919,
       "word": "宁夏银川发生多车相撞交通事故",
@@ -923,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162520,
+      "num": 162520,
+      "word": "李庚希 华为代言",
+      "onboard_time": 1731994640,
+      "rank": 39,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 161570,
       "num": 255980,
       "word": "中国游戏的TGA十年",
@@ -971,6 +1011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 159393,
+      "num": 159393,
+      "word": "炸火花",
+      "onboard_time": 1731994100,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157630,
       "num": 256454,
       "word": "冈田将生高畑充希结婚",
@@ -995,12 +1043,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148025,
-      "num": 148025,
-      "word": "关晓彤王安宇谈三搭",
-      "onboard_time": 1731993140,
+      "raw_hot": 151147,
+      "num": 151147,
+      "word": "港姐麦明诗怀孕",
+      "onboard_time": 1731994160,
       "rank": 41,
-      "category": "剧集"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145118,
+      "num": 248970,
+      "word": "退钱哥怒斥部分球迷为日本队加油",
+      "onboard_time": 1731990321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 144819,
@@ -1033,14 +1089,6 @@
       "onboard_time": 1731987380,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 137985,
-      "num": 248970,
-      "word": "退钱哥怒斥部分球迷为日本队加油",
-      "onboard_time": 1731990321,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 136715,
@@ -1619,6 +1667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28664,
+      "num": 333666,
+      "word": "良品铺子线上销售未受风波影响",
+      "onboard_time": 1731993502,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28034,
       "num": 223272,
       "word": "两连胜后国足士气正盛一票难求",
@@ -1633,14 +1689,6 @@
       "onboard_time": 1731947656,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23840,
-      "num": 333666,
-      "word": "良品铺子线上销售未受风波影响",
-      "onboard_time": 1731993502,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23099,

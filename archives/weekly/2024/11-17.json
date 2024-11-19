@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1731993750228,
+  "endTime": 1731994815041,
   "band_list": [
     {
       "raw_hot": 4726710,
@@ -211,6 +211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1412717,
+      "num": 1412717,
+      "word": "关晓彤去了王安宇外婆家",
+      "onboard_time": 1731991162,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1407422,
       "num": 1407422,
       "word": "霸王茶姬 口令",
@@ -224,14 +232,6 @@
       "word": "小巷人家大结局",
       "onboard_time": 1731845299,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1343871,
-      "num": 1343871,
-      "word": "关晓彤去了王安宇外婆家",
-      "onboard_time": 1731991162,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 829547,
+      "num": 829547,
+      "word": "炸火花已全面入侵韩娱签售",
+      "onboard_time": 1731990563,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 826602,
       "num": 395787,
       "word": "永夜星河无缝衔接月光变奏曲",
@@ -665,14 +673,6 @@
       "onboard_time": 1731893477,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 817044,
-      "num": 817044,
-      "word": "炸火花已全面入侵韩娱签售",
-      "onboard_time": 1731990563,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 816551,
@@ -1467,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451212,
+      "num": 332704,
+      "word": "21年的李行亮麦琳",
+      "onboard_time": 1731992064,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445687,
       "num": 445687,
       "word": "打假博主称将再送检良品铺子",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1731924739,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420125,
+      "num": 237026,
+      "word": "乐华大厦是杜华贷款买的",
+      "onboard_time": 1731993261,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 414752,
@@ -1753,14 +1769,6 @@
       "onboard_time": 1731778515,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 372177,
-      "num": 332704,
-      "word": "21年的李行亮麦琳",
-      "onboard_time": 1731992064,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 371261,
@@ -2065,6 +2073,14 @@
       "onboard_time": 1731979518,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 305877,
+      "num": 288317,
+      "word": "顶流男主回村相亲",
+      "onboard_time": 1731992842,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 304235,
@@ -2427,14 +2443,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 260175,
-      "num": 288317,
-      "word": "顶流男主回村相亲",
-      "onboard_time": 1731992842,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259833,
       "num": 259833,
       "word": "王者荣耀王昭君",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1731820339,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258540,
+      "num": 231297,
+      "word": "钟楚曦抽烟好港",
+      "onboard_time": 1731994700,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 257196,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1731831858,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246410,
+      "num": 230365,
+      "word": "释小龙室外抽烟",
+      "onboard_time": 1731994640,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 246053,
@@ -2787,6 +2811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227915,
+      "num": 233481,
+      "word": "裴珠泫对抗黄牛公开小卡",
+      "onboard_time": 1731991343,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227118,
       "num": 227118,
       "word": "起底针孔摄像头偷拍黑色产业链",
@@ -2881,6 +2913,14 @@
       "onboard_time": 1731906620,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222396,
+      "num": 222396,
+      "word": "九华山景区多只狗的脚被砍断",
+      "onboard_time": 1731994100,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 221675,
@@ -3243,14 +3283,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 199963,
-      "num": 199963,
-      "word": "乐华大厦是杜华贷款买的",
-      "onboard_time": 1731993261,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199279,
       "num": 199279,
       "word": "海南州原副州长酒后失德失范",
@@ -3305,14 +3337,6 @@
       "onboard_time": 1731927740,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 196960,
-      "num": 196960,
-      "word": "裴珠泫对抗黄牛公开小卡",
-      "onboard_time": 1731991343,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 196637,
@@ -3843,6 +3867,14 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 173115,
+      "num": 233683,
+      "word": "关晓彤王安宇谈三搭",
+      "onboard_time": 1731993140,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172947,
       "num": 172947,
       "word": "无状态疑似退赛",
@@ -4123,6 +4155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162520,
+      "num": 162520,
+      "word": "李庚希 华为代言",
+      "onboard_time": 1731994640,
+      "rank": 39,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 162170,
       "num": 162170,
       "word": "月光变奏曲前传",
@@ -4225,6 +4265,14 @@
       "onboard_time": 1731989782,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 159393,
+      "num": 159393,
+      "word": "炸火花",
+      "onboard_time": 1731994100,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 158597,
@@ -4483,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151147,
+      "num": 151147,
+      "word": "港姐麦明诗怀孕",
+      "onboard_time": 1731994160,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150875,
       "num": 150875,
       "word": "近五成投资者认为牛市还在",
@@ -4587,14 +4643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148025,
-      "num": 148025,
-      "word": "关晓彤王安宇谈三搭",
-      "onboard_time": 1731993140,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147484,
       "num": 189857,
       "word": "黎巴嫩男子冲着救人自己却被炸身亡",
@@ -4689,6 +4737,14 @@
       "onboard_time": 1731921619,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 145118,
+      "num": 248970,
+      "word": "退钱哥怒斥部分球迷为日本队加油",
+      "onboard_time": 1731990321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 144925,
@@ -4897,14 +4953,6 @@
       "onboard_time": 1731908299,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137985,
-      "num": 248970,
-      "word": "退钱哥怒斥部分球迷为日本队加油",
-      "onboard_time": 1731990321,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 137485,
@@ -7579,6 +7627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28664,
+      "num": 333666,
+      "word": "良品铺子线上销售未受风波影响",
+      "onboard_time": 1731993502,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28564,
       "num": 162302,
       "word": "哈兰德国家队帽子戏法",
@@ -7760,14 +7816,6 @@
       "word": "法院强制执行文件被快递误退",
       "onboard_time": 1731924679,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23840,
-      "num": 333666,
-      "word": "良品铺子线上销售未受风波影响",
-      "onboard_time": 1731993502,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
