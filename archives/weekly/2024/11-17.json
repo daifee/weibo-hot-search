@@ -1,10 +1,10 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732021304630,
+  "endTime": 1732023138669,
   "band_list": [
     {
-      "raw_hot": 6960870,
-      "num": 6960870,
+      "raw_hot": 10491853,
+      "num": 10491853,
       "word": "国足vs日本",
       "onboard_time": 1732016119,
       "rank": 7,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1608308,
+      "num": 1608308,
+      "word": "国足进球了",
+      "onboard_time": 1732022062,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1594129,
       "num": 234787,
       "word": "特朗普政府将宣布美国进入紧急状态",
@@ -249,6 +257,14 @@
       "onboard_time": 1731898097,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1372056,
+      "num": 1372056,
+      "word": "球迷冲场",
+      "onboard_time": 1732020080,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1345175,
@@ -816,6 +832,14 @@
       "word": "永夜星河 怪不得没吻戏",
       "onboard_time": 1731936202,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 806583,
+      "num": 806583,
+      "word": "石云鹏回应小巷人家大结局没鹏飞",
+      "onboard_time": 1732021522,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -2403,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320959,
+      "num": 330908,
+      "word": "丁禹兮同款扁头",
+      "onboard_time": 1732019780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319207,
       "num": 273602,
       "word": "姜妍是虞书欣的认证闺蜜",
@@ -2483,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308293,
+      "num": 302555,
+      "word": "国足半场0比2日本",
+      "onboard_time": 1732021041,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306565,
       "num": 289914,
       "word": "5种不舒服可能是癌症信号",
@@ -2515,36 +2555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 303601,
-      "num": 303601,
-      "word": "球迷冲场",
-      "onboard_time": 1732020080,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 303319,
       "num": 424954,
       "word": "朴彩英二单",
       "onboard_time": 1731986120,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 302555,
-      "num": 302555,
-      "word": "国足半场0比2日本",
-      "onboard_time": 1732021041,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 299648,
-      "num": 330908,
-      "word": "丁禹兮同款扁头",
-      "onboard_time": 1732019780,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 299169,
@@ -2643,6 +2659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289993,
+      "num": 261967,
+      "word": "天津一教师被曝诱导全班掌掴一孩子",
+      "onboard_time": 1732019300,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289515,
       "num": 289515,
       "word": "华为Mate70",
@@ -2683,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282151,
+      "num": 336175,
+      "word": "永夜星河团综结束录制",
+      "onboard_time": 1732020379,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281547,
       "num": 273501,
       "word": "姿态队迟到被判负",
@@ -2713,6 +2745,14 @@
       "onboard_time": 1731977060,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279498,
+      "num": 279498,
+      "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
+      "onboard_time": 1732021821,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 279197,
@@ -2979,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258767,
+      "num": 258767,
+      "word": "靠谱的国货卫生巾",
+      "onboard_time": 1732017920,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258079,
       "num": 332987,
       "word": "珠帘玉幕导演追求真实摒弃古偶",
@@ -2987,12 +3035,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257984,
+      "num": 257984,
+      "word": "男子家暴妻子称尼龙绳抽打死不了人",
+      "onboard_time": 1732021222,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257196,
       "num": 247812,
       "word": "卡皮巴拉在塌一种很新的房",
       "onboard_time": 1731909979,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257135,
+      "num": 257135,
+      "word": "范志毅看国足比赛吸上氧了",
+      "onboard_time": 1732022782,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 256909,
@@ -3169,14 +3233,6 @@
       "onboard_time": 1731925520,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 239876,
-      "num": 336175,
-      "word": "永夜星河团综结束录制",
-      "onboard_time": 1732020379,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 239834,
@@ -3497,14 +3553,6 @@
       "onboard_time": 1731840260,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218036,
-      "num": 218036,
-      "word": "靠谱的国货卫生巾",
-      "onboard_time": 1732017920,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 217439,
@@ -4004,7 +4052,7 @@
     },
     {
       "raw_hot": 194759,
-      "num": 194759,
+      "num": 270744,
       "word": "国足势头不错",
       "onboard_time": 1732020861,
       "rank": 38,
@@ -4051,12 +4099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192393,
-      "num": 186555,
-      "word": "天津一教师被曝诱导全班掌掴一孩子",
-      "onboard_time": 1732019300,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 191800,
+      "num": 191800,
+      "word": "杨仕泽 祝绪丹不止微醺还断片",
+      "onboard_time": 1732020983,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191743,
@@ -4177,6 +4225,14 @@
       "onboard_time": 1731940642,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 189611,
+      "num": 259331,
+      "word": "仙台有树过审了",
+      "onboard_time": 1732022182,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 189059,
@@ -4387,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183577,
+      "num": 183577,
+      "word": "孙颖莎的莎式耳机戴法",
+      "onboard_time": 1732022782,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183401,
       "num": 344510,
       "word": "女子8岁时被舅舅拐卖44年后与亲人团聚",
@@ -4499,6 +4563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180691,
+      "num": 275432,
+      "word": "林良铭破门",
+      "onboard_time": 1732022303,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180483,
       "num": 180483,
       "word": "马嘉祺丁程鑫月夜狂想曲cha",
@@ -4537,6 +4609,14 @@
       "onboard_time": 1731988162,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178573,
+      "num": 178573,
+      "word": "张真源新晋道歉主播",
+      "onboard_time": 1732021583,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 178208,
@@ -4609,6 +4689,14 @@
       "onboard_time": 1731807920,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 175847,
+      "num": 175847,
+      "word": "张碧晨十年老粉是清华博士",
+      "onboard_time": 1732022543,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175835,
@@ -4987,6 +5075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164562,
+      "num": 164562,
+      "word": "丁禹兮回应看狗都深情",
+      "onboard_time": 1732022782,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164309,
       "num": 164309,
       "word": "金鸡历届影后",
@@ -5041,14 +5137,6 @@
       "onboard_time": 1731996381,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162243,
-      "num": 162243,
-      "word": "杨仕泽 祝绪丹不止微醺还断片",
-      "onboard_time": 1732020983,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 162170,
@@ -5675,6 +5763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145722,
+      "num": 145722,
+      "word": "日本队进球",
+      "onboard_time": 1732021941,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145668,
       "num": 145668,
       "word": "赵露思唐装",
@@ -6011,6 +6107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136497,
+      "num": 136497,
+      "word": "官方通报民警将报警人关留置室逼和解",
+      "onboard_time": 1732023022,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
@@ -6241,6 +6345,14 @@
       "onboard_time": 1731851360,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128740,
+      "num": 128740,
+      "word": "王楚钦福冈总决赛宣传照",
+      "onboard_time": 1732023081,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128348,
@@ -7139,6 +7251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 94006,
+      "num": 273597,
+      "word": "官方回应粤东沿海出现海水倒灌",
+      "onboard_time": 1732021583,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 93764,
       "num": 123608,
       "word": "通用汽车两个月已裁员近3000人",
@@ -7512,6 +7632,14 @@
       "word": "官方就东北虎伤人事件成立工作组",
       "onboard_time": 1731943760,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74826,
+      "num": 277702,
+      "word": "央视曝光假冒纪念币",
+      "onboard_time": 1732021402,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -8451,6 +8579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43071,
+      "num": 268535,
+      "word": "陈都灵希望未来成为永不设限的演员",
+      "onboard_time": 1732021762,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42906,
       "num": 280531,
       "word": "雷军车展只拥抱了何小鹏",
@@ -8857,6 +8993,14 @@
       "onboard_time": 1731906981,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34100,
+      "num": 1465270,
+      "word": "电力高速公路上的中巴友谊",
+      "onboard_time": 1732020440,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34006,
@@ -9299,6 +9443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27329,
+      "num": 271621,
+      "word": "张玉宁上场",
+      "onboard_time": 1732022903,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27195,
       "num": 355571,
       "word": "AG微博小编上线",
@@ -9489,14 +9641,6 @@
       "onboard_time": 1731868331,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23248,
-      "num": 542646,
-      "word": "电力高速公路上的中巴友谊",
-      "onboard_time": 1732020440,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23197,
