@@ -1,14 +1,38 @@
 {
   "startTime": 1731947393743,
-  "endTime": 1731973030930,
+  "endTime": 1731980857752,
   "band_list": [
     {
+      "raw_hot": 2087509,
+      "num": 2087509,
+      "word": "男子开钟点房洗8件羽绒服10件毛衣",
+      "onboard_time": 1731979578,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1211083,
-      "num": 273614,
+      "num": 499525,
       "word": "全球首例成功换脸换手男子将结婚",
       "onboard_time": 1731940282,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1015286,
+      "num": 1015286,
+      "word": "赵薇公司被强制执行14177元",
+      "onboard_time": 1731976941,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1007349,
+      "num": 1007349,
+      "word": "官方通报良品铺子被举报事件",
+      "onboard_time": 1731972136,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 881403,
@@ -17,6 +41,22 @@
       "onboard_time": 1731944899,
       "rank": 6,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 789640,
+      "num": 789640,
+      "word": "湖南常德一学校门口发生撞人事件",
+      "onboard_time": 1731980419,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 736155,
+      "num": 736155,
+      "word": "为什么癌症早期一般没有征兆",
+      "onboard_time": 1731976520,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 691315,
@@ -35,8 +75,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 622091,
-      "num": 622091,
+      "raw_hot": 632919,
+      "num": 632919,
       "word": "上班睡觉1小时被开除起诉获赔35万",
       "onboard_time": 1731942920,
       "rank": 1,
@@ -44,11 +84,19 @@
     },
     {
       "raw_hot": 572420,
-      "num": 259704,
+      "num": 340256,
       "word": "鹿晗对不起 关晓彤王安宇挺配的",
       "onboard_time": 1731923419,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 542962,
+      "num": 542962,
+      "word": "女学生找工作被HR夸漂亮表示想认识",
+      "onboard_time": 1731977780,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499983,
@@ -57,6 +105,22 @@
       "onboard_time": 1731967992,
       "rank": 33,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 498974,
+      "num": 498974,
+      "word": "葛夕身材好辣",
+      "onboard_time": 1731974299,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 484690,
+      "num": 484690,
+      "word": "多方回应太原一社区多名干部分香烟",
+      "onboard_time": 1731975560,
+      "rank": 12,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 398941,
@@ -99,6 +163,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311872,
+      "num": 311872,
+      "word": "吃路边摊偶遇檀健次",
+      "onboard_time": 1731978679,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303717,
+      "num": 303717,
+      "word": "王一博 那我就给你多说一点",
+      "onboard_time": 1731974359,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294783,
       "num": 204120,
       "word": "虞书欣丁禹兮双人古风大片",
@@ -115,6 +195,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289914,
+      "num": 289914,
+      "word": "5种不舒服可能是癌症信号",
+      "onboard_time": 1731979518,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 284756,
+      "num": 302104,
+      "word": "丁禹兮涨粉",
+      "onboard_time": 1731974057,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281463,
+      "num": 281463,
+      "word": "江苏一办事大厅员工10点离岗吃饭",
+      "onboard_time": 1731972736,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 280091,
+      "num": 280091,
+      "word": "失笑 silk感",
+      "onboard_time": 1731977060,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276442,
       "num": 282800,
       "word": "正式确诊衣领综合征",
@@ -123,8 +235,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 272208,
+      "num": 272208,
+      "word": "华为Mate70已到店",
+      "onboard_time": 1731978619,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 270810,
-      "num": 226798,
+      "num": 256367,
       "word": "女子掉进温泉池2秒皮被烫掉",
       "onboard_time": 1731929719,
       "rank": 20,
@@ -171,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217419,
+      "num": 217419,
+      "word": "外卖员吐槽尽量不要点黄焖鸡",
+      "onboard_time": 1731975139,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215555,
       "num": 189030,
       "word": "虞书欣剧播期间涨粉100万",
       "onboard_time": 1731941539,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210804,
+      "num": 210804,
+      "word": "巴西首都27岁就被列入世界遗产名录",
+      "onboard_time": 1731978979,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209804,
@@ -187,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209050,
-      "num": 209050,
-      "word": "官方通报良品铺子被举报事件",
-      "onboard_time": 1731972136,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202591,
       "num": 202591,
       "word": "东北虎",
@@ -203,12 +331,60 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 199971,
+      "num": 258919,
+      "word": "身体有5个寒气入口",
+      "onboard_time": 1731972557,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199894,
       "num": 199894,
       "word": "小米汽车卖一辆亏3万",
       "onboard_time": 1731939260,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 193304,
+      "num": 193304,
+      "word": "男子为骗保开车撞树当场身亡",
+      "onboard_time": 1731980659,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192886,
+      "num": 192886,
+      "word": "经常腰疼的人建议练练核心",
+      "onboard_time": 1731977840,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 184986,
+      "num": 184986,
+      "word": "2024大国重器好多新突破",
+      "onboard_time": 1731977780,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 180969,
+      "num": 180969,
+      "word": "当如愿配上2024年的国之重器",
+      "onboard_time": 1731980240,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 177990,
+      "num": 177990,
+      "word": "黑神话悟空",
+      "onboard_time": 1731973398,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 173946,
@@ -235,6 +411,54 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166281,
+      "num": 166281,
+      "word": "太原一社区书记疑索香烟现场分赃",
+      "onboard_time": 1731976340,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162876,
+      "num": 162876,
+      "word": "JackeyLove谈乐言打老头杯",
+      "onboard_time": 1731976460,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 161516,
+      "num": 161516,
+      "word": "4岁小朋友幼儿园放学独自回家",
+      "onboard_time": 1731973098,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160554,
+      "num": 160554,
+      "word": "多地银杏叶迎来颜值巅峰",
+      "onboard_time": 1731975020,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 160263,
+      "num": 160263,
+      "word": "JackeyLove谈退役",
+      "onboard_time": 1731979940,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 157630,
+      "num": 256454,
+      "word": "冈田将生高畑充希结婚",
+      "onboard_time": 1731977300,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154936,
       "num": 154936,
       "word": "上海浦西第一高楼高度超东方明珠",
@@ -257,6 +481,14 @@
       "onboard_time": 1731931399,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 136919,
+      "num": 136919,
+      "word": "2马拉松选手被曝拿走大量补给",
+      "onboard_time": 1731978200,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 136715,
@@ -483,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80256,
-      "num": 258919,
-      "word": "身体有5个寒气入口",
-      "onboard_time": 1731972557,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 75030,
       "num": 75030,
       "word": "官方就东北虎伤人事件成立工作组",
@@ -555,14 +779,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 65727,
-      "num": 65727,
-      "word": "江苏一办事大厅员工10点离岗吃饭",
-      "onboard_time": 1731972736,
-      "rank": 47,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 61967,
       "num": 61967,
       "word": "官方称野生老虎来源尚不明确",
@@ -577,6 +793,14 @@
       "onboard_time": 1731962241,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60705,
+      "num": 499646,
+      "word": "被老虎咬伤村民手术结束情况较乐观",
+      "onboard_time": 1731979998,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58003,
@@ -651,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33692,
+      "num": 342733,
+      "word": "黎真主党袭击以色列致1死30伤",
+      "onboard_time": 1731979998,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33281,
       "num": 79542,
       "word": "中方在军品出口方面一向慎重负责",
@@ -707,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20853,
+      "num": 301499,
+      "word": "国服盲僧许昕闭眼入",
+      "onboard_time": 1731978499,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20575,
       "num": 26556,
       "word": "竹林四侠按二创图坐的位置吗",
@@ -755,6 +995,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 10640,
+      "num": 1008374,
+      "word": "一个视频带你了解G20",
+      "onboard_time": 1731936922,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10206,
       "num": 26404,
       "word": "张若昀说好东西真是好东西",
@@ -777,14 +1025,6 @@
       "onboard_time": 1731972676,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 7596,
-      "num": 619719,
-      "word": "一个视频带你了解G20",
-      "onboard_time": 1731936922,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7324,
@@ -817,6 +1057,9 @@
     },
     {
       "word": "#习主席拉美之行#"
+    },
+    {
+      "word": "#中国的成就不是天上掉下来的#"
     }
   ]
 }
