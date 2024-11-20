@@ -1,10 +1,10 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732109493716,
+  "endTime": 1732110182761,
   "band_list": [
     {
       "raw_hot": 3006607,
-      "num": 463375,
+      "num": 500416,
       "word": "遭多人强奸智残女子家中装7个监控",
       "onboard_time": 1732105222,
       "rank": 10,
@@ -99,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1443691,
+      "num": 1443691,
+      "word": "国乒男队一轮游",
+      "onboard_time": 1732108221,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1334697,
       "num": 452380,
       "word": "邻居为麦琳发声",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1174885,
-      "num": 462703,
+      "num": 493019,
       "word": "关晓彤19岁就拿了白玉兰",
       "onboard_time": 1732102878,
       "rank": 11,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 821068,
-      "num": 462309,
+      "num": 484364,
       "word": "听泉鉴宝 徐志胜",
       "onboard_time": 1732102940,
       "rank": 13,
@@ -289,14 +297,6 @@
       "onboard_time": 1732028182,
       "rank": 1,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 815699,
-      "num": 815699,
-      "word": "国乒男队一轮游",
-      "onboard_time": 1732108221,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 806107,
@@ -369,6 +369,14 @@
       "onboard_time": 1732077980,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722415,
+      "num": 488176,
+      "word": "HLE官宣Zeus加入",
+      "onboard_time": 1732109842,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 706076,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 603411,
-      "num": 460295,
+      "num": 469055,
       "word": "庾澄庆晒与老婆合照",
       "onboard_time": 1732105880,
       "rank": 30,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550454,
+      "num": 550454,
+      "word": "张本智和跳APT庆祝",
+      "onboard_time": 1732107441,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 549410,
       "num": 549410,
       "word": "Zeus离队",
@@ -561,6 +577,14 @@
       "onboard_time": 1732090521,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541787,
+      "num": 541787,
+      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+      "onboard_time": 1732105521,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 539810,
@@ -601,6 +625,14 @@
       "onboard_time": 1732077081,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 514648,
+      "num": 514648,
+      "word": "胖东来宣布员工结婚不允许要或付彩礼",
+      "onboard_time": 1732106721,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510376,
@@ -683,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 451175,
-      "num": 451175,
-      "word": "胖东来宣布员工结婚不允许要或付彩礼",
-      "onboard_time": 1732106721,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 447425,
       "num": 447425,
       "word": "祝绪祝绪丹丹 祝绪祝绪丹",
@@ -721,14 +745,6 @@
       "onboard_time": 1732061600,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 427721,
-      "num": 410173,
-      "word": "张本智和跳APT庆祝",
-      "onboard_time": 1732107441,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 420049,
@@ -827,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371105,
+      "num": 249159,
+      "word": "李庚希还有个姐姐",
+      "onboard_time": 1732109720,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371030,
       "num": 371030,
       "word": "ABC所属公司称正修改全线产品",
@@ -867,20 +891,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344615,
+      "num": 344615,
+      "word": "林小姐你今天不嫁也得嫁",
+      "onboard_time": 1732104860,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344425,
       "num": 344425,
       "word": "丁禹兮自拍报备行程",
       "onboard_time": 1732030879,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 343065,
-      "num": 343065,
-      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
-      "onboard_time": 1732105521,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 337396,
@@ -891,12 +915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333419,
-      "num": 333419,
-      "word": "林小姐你今天不嫁也得嫁",
-      "onboard_time": 1732104860,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 332936,
+      "num": 332936,
+      "word": "小狗离世前十分钟医师对它吐烟",
+      "onboard_time": 1732104740,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 331572,
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 324340,
-      "num": 464581,
+      "num": 515517,
       "word": "奔跑吧全员都哭了",
       "onboard_time": 1732101500,
       "rank": 44,
@@ -937,14 +961,6 @@
       "onboard_time": 1732085599,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 315888,
-      "num": 306922,
-      "word": "小狗离世前十分钟医师对它吐烟",
-      "onboard_time": 1732104740,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 315346,
@@ -1323,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208172,
+      "num": 208172,
+      "word": "73岁王石独自带娃被偶遇",
+      "onboard_time": 1732109842,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207723,
       "num": 207723,
       "word": "吴谨言模仿赵小棠跳顶碗舞",
@@ -1636,7 +1660,7 @@
     },
     {
       "raw_hot": 184314,
-      "num": 288012,
+      "num": 333033,
       "word": "失笑在红和糊中选择了黄",
       "onboard_time": 1732108162,
       "rank": 26,
@@ -1755,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176438,
+      "num": 466871,
+      "word": "方时赫瘦好多",
+      "onboard_time": 1732108940,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176126,
       "num": 176126,
       "word": "卢伟冰吐槽友商三千的空调卖两万",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1732091601,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170456,
+      "num": 170456,
+      "word": "家长曝育儿嫂给婴儿喂安眠药",
+      "onboard_time": 1732108401,
+      "rank": 37,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 170405,
@@ -1939,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155053,
-      "num": 155053,
-      "word": "家长曝育儿嫂给婴儿喂安眠药",
-      "onboard_time": 1732108401,
-      "rank": 37,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 153847,
       "num": 282925,
       "word": "肖战把设计变成MV",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1732097900,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148659,
+      "num": 512651,
+      "word": "小蜜蜂老师陷直播带货罗生门",
+      "onboard_time": 1732108641,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148650,
@@ -2283,6 +2323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134467,
+      "num": 134467,
+      "word": "早田希娜总决赛止步16强",
+      "onboard_time": 1732108821,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134439,
       "num": 134439,
       "word": "WTT福冈总决赛比赛首日",
@@ -2427,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121322,
-      "num": 121322,
-      "word": "小蜜蜂老师陷直播带货罗生门",
-      "onboard_time": 1732108641,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120957,
       "num": 311898,
       "word": "杨幂胡歌内娱启蒙cp",
@@ -2467,14 +2507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113963,
-      "num": 113963,
-      "word": "早田希娜总决赛止步16强",
-      "onboard_time": 1732108821,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110452,
       "num": 110452,
       "word": "老虎伤人当地要求提前准备麻醉枪",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1732086019,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108613,
+      "num": 256314,
+      "word": "田嘉瑞用诀别书告别卓翼宸",
+      "onboard_time": 1732110022,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 108123,
@@ -2561,6 +2601,14 @@
       "onboard_time": 1732093161,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99694,
+      "num": 360390,
+      "word": "孙颖莎亚锦赛退赛后首次出战",
+      "onboard_time": 1732108881,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 98379,
@@ -2675,20 +2723,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90002,
-      "num": 244559,
-      "word": "方时赫瘦好多",
-      "onboard_time": 1732108940,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89193,
       "num": 291998,
       "word": "人口老龄化养活了哪些新产业",
       "onboard_time": 1732086261,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89151,
+      "num": 350855,
+      "word": "官方回应电梯冲顶28楼致男孩骨折",
+      "onboard_time": 1732108221,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88825,
@@ -2712,14 +2760,6 @@
       "word": "东北虎进村咬伤人事件背后",
       "onboard_time": 1732039452,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84209,
-      "num": 350855,
-      "word": "官方回应电梯冲顶28楼致男孩骨折",
-      "onboard_time": 1732108221,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2857,14 +2897,6 @@
       "onboard_time": 1732076000,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66717,
-      "num": 360390,
-      "word": "孙颖莎亚锦赛退赛后首次出战",
-      "onboard_time": 1732108881,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 65726,
@@ -3115,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44676,
+      "num": 478564,
+      "word": "对偷拍黑产顶格处罚才能形成威慑力",
+      "onboard_time": 1732108641,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44573,
       "num": 238097,
       "word": "李昊直播给红包过生日",
@@ -3193,14 +3233,6 @@
       "onboard_time": 1732091781,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39433,
-      "num": 358491,
-      "word": "对偷拍黑产顶格处罚才能形成威慑力",
-      "onboard_time": 1732108641,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38247,
@@ -3371,12 +3403,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 27980,
+      "num": 457343,
+      "word": "孙颖莎现身秀英文好可爱",
+      "onboard_time": 1732110022,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27250,
       "num": 305381,
       "word": "梦之队星青年云访谈",
       "onboard_time": 1732093519,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27091,
+      "num": 450672,
+      "word": "赵一博吃火锅嘴没停过",
+      "onboard_time": 1732107441,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 26990,
@@ -3475,14 +3523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23693,
-      "num": 347670,
-      "word": "赵一博吃火锅嘴没停过",
-      "onboard_time": 1732107441,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22655,
       "num": 332473,
       "word": "用法律解读好团圆",
@@ -3520,6 +3560,14 @@
       "word": "2024乌镇网事",
       "onboard_time": 1732092262,
       "rank": 7,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 20701,
+      "num": 503938,
+      "word": "4分15秒见证中国载人航天传奇史",
+      "onboard_time": 1732109481,
+      "rank": 9,
       "category": "正能量"
     },
     {
@@ -3561,6 +3609,14 @@
       "onboard_time": 1732041132,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19734,
+      "num": 577128,
+      "word": "互联网之光点亮乌镇",
+      "onboard_time": 1732109003,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19630,
@@ -3611,14 +3667,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12706,
-      "num": 577128,
-      "word": "互联网之光点亮乌镇",
-      "onboard_time": 1732109003,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12610,
       "num": 119230,
       "word": "一分钟教你冬天跑步怎么穿",
@@ -3657,6 +3705,14 @@
       "onboard_time": 1732038792,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10402,
+      "num": 615668,
+      "word": "蓝色经济为中巴经济增长注入新动能",
+      "onboard_time": 1732109781,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10225,
