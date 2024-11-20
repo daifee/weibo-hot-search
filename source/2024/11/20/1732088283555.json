@@ -1,0 +1,410 @@
+{
+  "runTime": 1732088283555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1278928,
+        "num": 1278928,
+        "word": "跑男变走男",
+        "onboard_time": 1732084279,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 796645,
+        "num": 796645,
+        "word": "中方在联合国点名一个常任理事国",
+        "onboard_time": 1732085778,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29119,
+        "num": 685429,
+        "word": "2024世界互联网大会乌镇峰会开幕",
+        "onboard_time": 1732072700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1541872,
+        "num": 657864,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616599,
+        "num": 616599,
+        "word": "俄军在境内打死一名美军游骑兵",
+        "onboard_time": 1732085539,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1183697,
+        "num": 584735,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 499136,
+        "num": 499136,
+        "word": "这些症状是心脏在求救",
+        "onboard_time": 1732084518,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 458606,
+        "num": 458606,
+        "word": "林高远止步总决赛16强",
+        "onboard_time": 1732086620,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354234,
+        "num": 354234,
+        "word": "林高远0比3达科",
+        "onboard_time": 1732086080,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346819,
+        "num": 346819,
+        "word": "费启鸣还我高亚楠",
+        "onboard_time": 1732083019,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588679,
+        "num": 346705,
+        "word": "花少6你早这么剪不就没事了",
+        "onboard_time": 1732084099,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26274,
+        "num": 345863,
+        "word": "总决赛袁励岑向鹏首轮出局",
+        "onboard_time": 1732087400,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304405,
+        "num": 345255,
+        "word": "举报史航性骚扰当事人道歉",
+        "onboard_time": 1732077980,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213941,
+        "num": 344203,
+        "word": "一个国家一再否决导致安理会软弱无能",
+        "onboard_time": 1732086799,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58161,
+        "num": 343891,
+        "word": "村小5年间一年级人数从21人减至7人",
+        "onboard_time": 1732086980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328869,
+        "num": 343232,
+        "word": "武艺 死车快开啊",
+        "onboard_time": 1732087640,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29597,
+        "num": 342638,
+        "word": "国足主帅称国足队员配得上掌声",
+        "onboard_time": 1732087400,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40308,
+        "num": 341851,
+        "word": "男子找两女冒充妻子离婚后过户两房",
+        "onboard_time": 1732087819,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61697,
+        "num": 340736,
+        "word": "继子想独占11万拆迁款遭继父起诉",
+        "onboard_time": 1732087520,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28025,
+        "num": 340148,
+        "word": "在郑州邂逅一场诗词盛宴",
+        "onboard_time": 1732086559,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 761429,
+        "num": 339518,
+        "word": "费启鸣资源",
+        "onboard_time": 1732085000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598109,
+        "num": 338723,
+        "word": "邻居为麦琳发声",
+        "onboard_time": 1732078104,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393984,
+        "num": 338106,
+        "word": "单亲妈妈做试管婴儿送外卖途中早产",
+        "onboard_time": 1732069878,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373963,
+        "num": 337669,
+        "word": "72岁老人谈恋爱女友被女儿打",
+        "onboard_time": 1732082659,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370185,
+        "num": 336663,
+        "word": "曾轶可长发",
+        "onboard_time": 1732075639,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336396,
+        "num": 336396,
+        "word": "红米 樊振东",
+        "onboard_time": 1732081999,
+        "rank": 25,
+        "category": "数码,体育"
+      },
+      {
+        "raw_hot": 309551,
+        "num": 309551,
+        "word": "医院CT等收费将执行新规",
+        "onboard_time": 1732086920,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54601,
+        "num": 298578,
+        "word": "日本主帅说伊万是好教练",
+        "onboard_time": 1732087459,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247793,
+        "num": 295664,
+        "word": "虞书欣五大女刊首秀",
+        "onboard_time": 1732085599,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57996,
+        "num": 294470,
+        "word": "成毅深潜第一场吻戏",
+        "onboard_time": 1732088240,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293910,
+        "num": 293910,
+        "word": "闵熙珍取关NewJeans",
+        "onboard_time": 1732082300,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96592,
+        "num": 274027,
+        "word": "信贷主管挪用1866万赌球判缓刑",
+        "onboard_time": 1732086261,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 263513,
+        "num": 263513,
+        "word": "女子分手20年前男友突然出现在房本",
+        "onboard_time": 1732073237,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104623,
+        "num": 254812,
+        "word": "是枝裕和 中国观众值得双向奔赴",
+        "onboard_time": 1732085599,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229002,
+        "num": 254294,
+        "word": "花少6 黑暗荣耀",
+        "onboard_time": 1732084759,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197314,
+        "num": 254149,
+        "word": "柳宗源拍的虞书欣",
+        "onboard_time": 1732087819,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254115,
+        "num": 254115,
+        "word": "济南推出把子肉公交卡",
+        "onboard_time": 1732084160,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230239,
+        "num": 230239,
+        "word": "8岁小学生沉迷拍烟卡手指溃烂",
+        "onboard_time": 1732077320,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214196,
+        "num": 214196,
+        "word": "央视镜头下的丁禹兮",
+        "onboard_time": 1732087279,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208399,
+        "num": 208399,
+        "word": "药监局回应会尽快通报百雀羚立案详情",
+        "onboard_time": 1732078703,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 172754,
+        "num": 205178,
+        "word": "歌幂余孽",
+        "onboard_time": 1732087938,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204693,
+        "num": 204693,
+        "word": "王楚钦 我比赛打的真挺少的",
+        "onboard_time": 1732086080,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197009,
+        "num": 197009,
+        "word": "涵艺说Zeus得不到尊重",
+        "onboard_time": 1732084701,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193541,
+        "num": 193541,
+        "word": "内耗的人永远在保护别人伤害自己",
+        "onboard_time": 1732087520,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182046,
+        "num": 182046,
+        "word": "赵露思新剧恋人路透造型",
+        "onboard_time": 1732084040,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181891,
+        "num": 181891,
+        "word": "月光变奏曲新图",
+        "onboard_time": 1732085421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181403,
+        "num": 181403,
+        "word": "涵艺爆料TheShy与Rookie新队友",
+        "onboard_time": 1732083798,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177014,
+        "num": 177014,
+        "word": "黄圣依疑似失去所有手段和力气",
+        "onboard_time": 1732086500,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175838,
+        "num": 175838,
+        "word": "张婉婷再次为麦琳发声",
+        "onboard_time": 1732088000,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175654,
+        "num": 175654,
+        "word": "小巷人家 和谁在一起真的不一样",
+        "onboard_time": 1732077081,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}

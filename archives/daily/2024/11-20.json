@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732087350257,
+  "endTime": 1732088283555,
   "band_list": [
     {
       "raw_hot": 2313016,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1541872,
+      "num": 657864,
+      "word": "29岁抗癌博主一只羊吖去世",
+      "onboard_time": 1732086261,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1484456,
       "num": 449765,
       "word": "曾轶可长发",
@@ -67,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1214019,
-      "num": 1214019,
+      "raw_hot": 1278928,
+      "num": 1278928,
       "word": "跑男变走男",
       "onboard_time": 1732084279,
       "rank": 32,
@@ -105,14 +113,6 @@
       "onboard_time": 1732028600,
       "rank": 0,
       "category": "数码,网红"
-    },
-    {
-      "raw_hot": 1044042,
-      "num": 638454,
-      "word": "29岁抗癌博主一只羊吖去世",
-      "onboard_time": 1732086261,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 995380,
@@ -185,6 +185,14 @@
       "onboard_time": 1732084099,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 796645,
+      "num": 796645,
+      "word": "中方在联合国点名一个常任理事国",
+      "onboard_time": 1732085778,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 795458,
@@ -283,14 +291,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 638181,
-      "num": 638181,
-      "word": "中方在联合国点名一个常任理事国",
-      "onboard_time": 1732085778,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 635817,
       "num": 635817,
       "word": "花少6",
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499136,
+      "num": 499136,
+      "word": "这些症状是心脏在求救",
+      "onboard_time": 1732084518,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 492193,
       "num": 492193,
       "word": "华为官宣MateX6",
@@ -411,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 471739,
-      "num": 471739,
-      "word": "这些症状是心脏在求救",
-      "onboard_time": 1732084518,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 458606,
+      "num": 458606,
+      "word": "林高远止步总决赛16强",
+      "onboard_time": 1732086620,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 447425,
@@ -547,6 +555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 328869,
+      "num": 343232,
+      "word": "武艺 死车快开啊",
+      "onboard_time": 1732087640,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321140,
       "num": 515433,
       "word": "石云鹏回应小巷人家大结局没鹏飞",
@@ -571,20 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311091,
-      "num": 311091,
-      "word": "林高远止步总决赛16强",
-      "onboard_time": 1732086620,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310933,
       "num": 310933,
       "word": "国足2胜4负暂列小组第5",
       "onboard_time": 1732026262,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309551,
+      "num": 309551,
+      "word": "医院CT等收费将执行新规",
+      "onboard_time": 1732086920,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 299031,
@@ -651,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254115,
+      "num": 254115,
+      "word": "济南推出把子肉公交卡",
+      "onboard_time": 1732084160,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249899,
       "num": 249899,
       "word": "医用卫生巾",
@@ -691,14 +715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 240124,
-      "num": 240124,
-      "word": "济南推出把子肉公交卡",
-      "onboard_time": 1732084160,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233085,
       "num": 255973,
       "word": "白鹿给粉丝准备的逆应援",
@@ -729,6 +745,14 @@
       "onboard_time": 1732083798,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229002,
+      "num": 306536,
+      "word": "花少6 黑暗荣耀",
+      "onboard_time": 1732084759,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 227756,
@@ -771,12 +795,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214196,
+      "num": 303797,
+      "word": "央视镜头下的丁禹兮",
+      "onboard_time": 1732087279,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214096,
       "num": 214096,
       "word": "半夜饿了起床煮了只鸭子",
       "onboard_time": 1732079301,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 213941,
+      "num": 344203,
+      "word": "一个国家一再否决导致安理会软弱无能",
+      "onboard_time": 1732086799,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213528,
@@ -843,6 +883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204693,
+      "num": 459342,
+      "word": "王楚钦 我比赛打的真挺少的",
+      "onboard_time": 1732086080,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203774,
       "num": 344139,
       "word": "日本主帅说国足不是有进步是潜力大",
@@ -891,6 +939,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197314,
+      "num": 254149,
+      "word": "柳宗源拍的虞书欣",
+      "onboard_time": 1732087819,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197009,
+      "num": 233994,
+      "word": "涵艺说Zeus得不到尊重",
+      "onboard_time": 1732084701,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196013,
       "num": 196013,
       "word": "安静公主 迪士尼",
@@ -915,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192852,
-      "num": 233994,
-      "word": "涵艺说Zeus得不到尊重",
-      "onboard_time": 1732084701,
-      "rank": 27,
-      "category": "电竞"
+      "raw_hot": 193541,
+      "num": 193541,
+      "word": "内耗的人永远在保护别人伤害自己",
+      "onboard_time": 1732087520,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 191675,
@@ -1075,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177014,
+      "num": 177014,
+      "word": "黄圣依疑似失去所有手段和力气",
+      "onboard_time": 1732086500,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176981,
       "num": 176981,
       "word": "国足跌至小组垫底",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1732076779,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 175838,
+      "num": 175838,
+      "word": "张婉婷再次为麦琳发声",
+      "onboard_time": 1732088000,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 175656,
@@ -1115,6 +1195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172754,
+      "num": 205178,
+      "word": "歌幂余孽",
+      "onboard_time": 1732087938,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172420,
       "num": 172420,
       "word": "我恋6康奶馨cp返场亲了",
@@ -1129,22 +1217,6 @@
       "onboard_time": 1732067839,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 168342,
-      "num": 168342,
-      "word": "医院CT等收费将执行新规",
-      "onboard_time": 1732086920,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 167716,
-      "num": 167716,
-      "word": "黄圣依疑似失去所有手段和力气",
-      "onboard_time": 1732086500,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 167301,
@@ -1195,14 +1267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157547,
-      "num": 157547,
-      "word": "一个国家一再否决导致安理会软弱无能",
-      "onboard_time": 1732086799,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157485,
       "num": 157485,
       "word": "克内克特单节21分",
@@ -1240,14 +1304,6 @@
       "word": "张真源 我永远忘不掉这几天的日子",
       "onboard_time": 1732080921,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 149862,
-      "num": 306536,
-      "word": "花少6 黑暗荣耀",
-      "onboard_time": 1732084759,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1323,28 +1379,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141770,
-      "num": 303797,
-      "word": "央视镜头下的丁禹兮",
-      "onboard_time": 1732087279,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141105,
       "num": 215024,
       "word": "奥斯卡参加TVB台庆",
       "onboard_time": 1732034236,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141050,
-      "num": 459342,
-      "word": "王楚钦 我比赛打的真挺少的",
-      "onboard_time": 1732086080,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 140701,
@@ -1627,6 +1667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104623,
+      "num": 280449,
+      "word": "是枝裕和 中国观众值得双向奔赴",
+      "onboard_time": 1732085599,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101644,
       "num": 166147,
       "word": "珠帘玉幕 赵露思写真集",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1732030340,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96592,
+      "num": 465980,
+      "word": "信贷主管挪用1866万赌球判缓刑",
+      "onboard_time": 1732086261,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 96444,
@@ -1827,14 +1883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75662,
-      "num": 465980,
-      "word": "信贷主管挪用1866万赌球判缓刑",
-      "onboard_time": 1732086261,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 75393,
       "num": 370454,
       "word": "王源V中文版封面预告",
@@ -1891,12 +1939,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61697,
+      "num": 340736,
+      "word": "继子想独占11万拆迁款遭继父起诉",
+      "onboard_time": 1732087520,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61401,
       "num": 272748,
       "word": "张杰新专辑要得",
       "onboard_time": 1732083199,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 58161,
+      "num": 454654,
+      "word": "村小5年间一年级人数从21人减至7人",
+      "onboard_time": 1732086980,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57996,
+      "num": 294470,
+      "word": "成毅深潜第一场吻戏",
+      "onboard_time": 1732088240,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 57942,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1732084701,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54601,
+      "num": 298578,
+      "word": "日本主帅说伊万是好教练",
+      "onboard_time": 1732087459,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 53320,
@@ -2019,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44199,
-      "num": 280449,
-      "word": "是枝裕和 中国观众值得双向奔赴",
-      "onboard_time": 1732085599,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 43772,
       "num": 213916,
       "word": "马嘉祺光影侧颜",
@@ -2075,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40308,
+      "num": 341851,
+      "word": "男子找两女冒充妻子离婚后过户两房",
+      "onboard_time": 1732087819,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38247,
       "num": 250200,
       "word": "律师称若认定为高山杜鹃责任人或受刑罚",
@@ -2097,14 +2177,6 @@
       "onboard_time": 1732037593,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34189,
-      "num": 454654,
-      "word": "村小5年间一年级人数从21人减至7人",
-      "onboard_time": 1732086980,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33360,
@@ -2131,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29597,
+      "num": 342638,
+      "word": "国足主帅称国足队员配得上掌声",
+      "onboard_time": 1732087400,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29361,
       "num": 213789,
       "word": "华为折叠屏寰宇家族摄像头",
@@ -2145,6 +2225,14 @@
       "onboard_time": 1732080500,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28025,
+      "num": 340148,
+      "word": "在郑州邂逅一场诗词盛宴",
+      "onboard_time": 1732086559,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 26990,
@@ -2163,12 +2251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26665,
-      "num": 282999,
-      "word": "在郑州邂逅一场诗词盛宴",
-      "onboard_time": 1732086559,
-      "rank": 31,
-      "category": "读书作家"
+      "raw_hot": 26274,
+      "num": 345863,
+      "word": "总决赛袁励岑向鹏首轮出局",
+      "onboard_time": 1732087400,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 24904,
