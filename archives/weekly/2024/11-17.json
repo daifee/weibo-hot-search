@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732110182761,
+  "endTime": 1732112502304,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -267,6 +267,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1528937,
+      "num": 1528937,
+      "word": "国乒男队一轮游",
+      "onboard_time": 1732108221,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1516524,
       "num": 461972,
       "word": "卫生巾塌房",
@@ -329,14 +337,6 @@
       "onboard_time": 1731844039,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1443691,
-      "num": 1443691,
-      "word": "国乒男队一轮游",
-      "onboard_time": 1732108221,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1424356,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1265827,
+      "num": 424487,
+      "word": "李庚希还有个姐姐",
+      "onboard_time": 1732109720,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1264887,
       "num": 1264887,
       "word": "李庚希回应金鸡影后",
@@ -561,6 +569,14 @@
       "onboard_time": 1732004240,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1147362,
+      "num": 1147362,
+      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+      "onboard_time": 1732105521,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1143625,
@@ -945,6 +961,14 @@
       "onboard_time": 1731819559,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 877049,
+      "num": 877049,
+      "word": "胖东来宣布员工结婚不允许要或付彩礼",
+      "onboard_time": 1732106721,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 875408,
@@ -2099,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 541787,
-      "num": 541787,
-      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
-      "onboard_time": 1732105521,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 539810,
       "num": 533014,
       "word": "虞书欣11个行李箱没白带",
@@ -2241,14 +2257,6 @@
       "onboard_time": 1732024103,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 514648,
-      "num": 514648,
-      "word": "胖东来宣布员工结婚不允许要或付彩礼",
-      "onboard_time": 1732106721,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 510376,
@@ -2483,6 +2491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 467684,
+      "num": 467684,
+      "word": "孙颖莎王艺迪无缘女双四强",
+      "onboard_time": 1732111463,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466667,
       "num": 491727,
       "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
@@ -2553,6 +2569,14 @@
       "onboard_time": 1731992064,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449878,
+      "num": 449878,
+      "word": "73岁王石独自带娃被偶遇",
+      "onboard_time": 1732109842,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 445687,
@@ -3083,14 +3107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371105,
-      "num": 249159,
-      "word": "李庚希还有个姐姐",
-      "onboard_time": 1732109720,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 371030,
       "num": 371030,
       "word": "ABC所属公司称正修改全线产品",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1732019360,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355521,
+      "num": 512651,
+      "word": "小蜜蜂老师陷直播带货罗生门",
+      "onboard_time": 1732108641,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353777,
@@ -4483,6 +4507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240057,
+      "num": 240057,
+      "word": "百雀羚否认化妆品添加禁用原料",
+      "onboard_time": 1732112182,
+      "rank": 31,
+      "category": "舆论监督,美妆"
+    },
+    {
       "raw_hot": 239834,
       "num": 239834,
       "word": "儿子大喝一声虎口救父",
@@ -4739,6 +4771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225393,
+      "num": 292424,
+      "word": "白夜破晓5集2个案子",
+      "onboard_time": 1732110382,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225286,
       "num": 225286,
       "word": "黄金",
@@ -4828,7 +4868,7 @@
     },
     {
       "raw_hot": 222234,
-      "num": 267902,
+      "num": 271203,
       "word": "原来华妃年轻时也像纯元",
       "onboard_time": 1732099400,
       "rank": 48,
@@ -5043,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212492,
+      "num": 466871,
+      "word": "方时赫瘦好多",
+      "onboard_time": 1732108940,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211785,
       "num": 301348,
       "word": "朱志鑫生日live",
@@ -5155,14 +5203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208172,
-      "num": 208172,
-      "word": "73岁王石独自带娃被偶遇",
-      "onboard_time": 1732109842,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 207829,
       "num": 176614,
       "word": "胡先煦 饭好吃确实没人说话",
@@ -5233,6 +5273,14 @@
       "onboard_time": 1731830958,
       "rank": 19,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 206331,
+      "num": 206331,
+      "word": "超实力版炸火花",
+      "onboard_time": 1732109542,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 206057,
@@ -5635,6 +5683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197020,
+      "num": 273936,
+      "word": "不提麦琳两个字证明你看过再见爱人",
+      "onboard_time": 1732111703,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197009,
       "num": 233994,
       "word": "涵艺说Zeus得不到尊重",
@@ -5779,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192668,
+      "num": 192668,
+      "word": "日本队双削",
+      "onboard_time": 1732111821,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192199,
       "num": 192199,
       "word": "张真源微醺了",
@@ -5921,6 +5985,14 @@
       "onboard_time": 1731910939,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 190178,
+      "num": 419045,
+      "word": "女双 削球",
+      "onboard_time": 1732111522,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 190155,
@@ -6609,14 +6681,6 @@
       "onboard_time": 1732014380,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176438,
-      "num": 466871,
-      "word": "方时赫瘦好多",
-      "onboard_time": 1732108940,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 176175,
@@ -7843,14 +7907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148659,
-      "num": 512651,
-      "word": "小蜜蜂老师陷直播带货罗生门",
-      "onboard_time": 1732108641,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148650,
       "num": 148650,
       "word": "姿态说Uzi在国内LOL影响力最大",
@@ -8147,6 +8203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143685,
+      "num": 420038,
+      "word": "医院偶遇周深检查眼睛",
+      "onboard_time": 1732110561,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143422,
       "num": 143422,
       "word": "陈小春说李宇春看起来很冷",
@@ -8185,6 +8249,14 @@
       "onboard_time": 1731996200,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 142326,
+      "num": 142326,
+      "word": "看到妈妈36年前的产后日记泪腺崩了",
+      "onboard_time": 1732112242,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 142254,
@@ -8249,6 +8321,14 @@
       "onboard_time": 1732000280,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 141137,
+      "num": 141137,
+      "word": "白鹿走啦下次见爱你们",
+      "onboard_time": 1732112362,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 141105,
@@ -8603,6 +8683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134410,
+      "num": 134410,
+      "word": "胖东来将不允许员工靠父母买房买车",
+      "onboard_time": 1732112421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134332,
       "num": 134332,
       "word": "俄传奇飞行员与中国观众依依惜别",
@@ -8761,6 +8849,14 @@
       "onboard_time": 1731840919,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129695,
+      "num": 129695,
+      "word": "2025HLE阵容",
+      "onboard_time": 1732110561,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 129652,
@@ -9955,6 +10051,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 93221,
+      "num": 231314,
+      "word": "张小斐 我属于晚间新闻",
+      "onboard_time": 1732112421,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92956,
       "num": 463685,
       "word": "中国航展今天闭幕",
@@ -10251,6 +10355,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81777,
+      "num": 416110,
+      "word": "为什么四成中国老年人过得不开心",
+      "onboard_time": 1732110920,
+      "rank": 19,
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 81651,
+      "num": 432077,
+      "word": "林高远林诗栋vs户上隼辅篠塚大登",
+      "onboard_time": 1732111881,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81520,
       "num": 193894,
       "word": "关晓彤带庄筱婷回上海交大",
@@ -10491,6 +10611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75029,
+      "num": 128511,
+      "word": "闵熙珍ins发辞职表情包",
+      "onboard_time": 1732112242,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74826,
       "num": 277702,
       "word": "央视曝光假冒纪念币",
@@ -10729,6 +10857,14 @@
       "onboard_time": 1731885555,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 63493,
+      "num": 429451,
+      "word": "大四学生曾冒用他人身份被取消学籍",
+      "onboard_time": 1732111403,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62799,
@@ -11041,6 +11177,14 @@
       "onboard_time": 1731856460,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56368,
+      "num": 444833,
+      "word": "关爱女性健康不能停留在营销口号中",
+      "onboard_time": 1732111642,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56332,
@@ -11849,6 +11993,14 @@
       "onboard_time": 1731823760,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40922,
+      "num": 243577,
+      "word": "当5G遇上AI能有多便捷",
+      "onboard_time": 1732111164,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 40915,
@@ -12785,6 +12937,14 @@
       "onboard_time": 1732080500,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28052,
+      "num": 949148,
+      "word": "蓝色经济为中巴经济增长注入新动能",
+      "onboard_time": 1732109781,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28034,
@@ -14105,14 +14265,6 @@
       "onboard_time": 1732003520,
       "rank": 17,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 10402,
-      "num": 615668,
-      "word": "蓝色经济为中巴经济增长注入新动能",
-      "onboard_time": 1732109781,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10231,
