@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 15:38:03
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 16:30:48
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ AG夺冠（热度：3389971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B8%E6%A3%80%E6%98%BE%E7%A4%BA%E8%BE%9B%E7%93%A6%E5%B0%94%E6%AD%BB%E5%89%8D%E4%B8%89%E5%A4%A9%E6%B2%A1%E5%90%83%E4%BB%BB%E4%BD%95%E4%B8%9C%E8%A5%BF%23" target="weibo">
 尸检显示辛瓦尔死前三天没吃任何东西（热度：2614296）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%B4%A9%E4%BA%86%23" target="weibo">
+抖音崩了（热度：2602429）
 </a>
 </li>
 
@@ -4137,6 +4143,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2CT%E7%AD%89%E6%94%B6%E8%B4%B9%E5%B0%86%E6%89%A7%E8%A1%8C%E6%96%B0%E8%A7%84%23" target="weibo">
+医院CT等收费将执行新规（热度：867421）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%BD%E8%B7%91%E6%96%B0%E5%A8%98%E5%87%8C%E5%A6%99%E5%A6%99%23" target="weibo">
 落跑新娘凌妙妙（热度：865857）
 </a>
@@ -4271,6 +4283,12 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%23" target="weibo">
 张云龙（热度：851793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%20%E6%AD%BB%E8%BD%A6%E5%BF%AB%E5%BC%80%E5%95%8A%23" target="weibo">
+武艺 死车快开啊（热度：851672）
 </a>
 </li>
 
@@ -5667,6 +5685,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%8C%BB%E9%99%A2CT%E5%9B%BE%E5%83%8F%E5%B0%B1%E8%A6%81%E5%B0%91%E6%94%B6%E8%B4%B9%23" target="weibo">
+手机不能看医院CT图像就要少收费（热度：698089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%971.6%E4%BA%BF%E8%8B%B1%E9%95%91%E5%8D%96%E6%8E%89%E8%8B%B1%E5%9B%BD%E6%B8%B8%E8%89%87%E5%88%B6%E9%80%A0%E5%95%86%23" target="weibo">
 王健林1.6亿英镑卖掉英国游艇制造商（热度：697913）
 </a>
@@ -5987,30 +6011,6 @@ BLG赛后采访（热度：672798）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%23" target="weibo">
 国足进球（热度：670068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B4%97%E8%BD%A6%E5%9C%BA%E7%9B%97%E5%8F%96%E5%9C%B0%E4%B8%8B%E6%B0%B4%23" target="weibo">
-央视曝光洗车场盗取地下水（热度：669567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AF%B4%E9%9F%A9%E5%AE%89%E5%86%89%E5%BE%88%E9%BC%93%E5%8A%B1%E5%A5%B9%23" target="weibo">
-赵露思说韩安冉很鼓励她（热度：669371）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E6%BC%94%E6%8A%80%E7%8F%AD%23" target="weibo">
-郝蕾演技班（热度：669127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%20%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%23" target="weibo">
-卢昱晓 小巷人家（热度：669089）
 </a>
 </li>
 

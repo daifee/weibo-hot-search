@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732088283555,
+  "endTime": 1732091448981,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -65,6 +65,14 @@
       "onboard_time": 1731986540,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2602429,
+      "num": 254111,
+      "word": "抖音崩了",
+      "onboard_time": 1732089019,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 2535180,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 1541872,
-      "num": 657864,
+      "num": 710656,
       "word": "29岁抗癌博主一只羊吖去世",
       "onboard_time": 1732086261,
       "rank": 3,
@@ -867,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867421,
+      "num": 1138787,
+      "word": "医院CT等收费将执行新规",
+      "onboard_time": 1732086920,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 865057,
       "num": 865057,
       "word": "金价暴跌近10%",
@@ -897,6 +913,14 @@
       "onboard_time": 1731846139,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 851672,
+      "num": 443146,
+      "word": "武艺 死车快开啊",
+      "onboard_time": 1732087640,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 847930,
@@ -1312,6 +1336,14 @@
       "word": "中美元首会见现场",
       "onboard_time": 1731800596,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 698089,
+      "num": 698089,
+      "word": "手机不能看医院CT图像就要少收费",
+      "onboard_time": 1732088720,
+      "rank": 4,
       "category": "国内时政"
     },
     {
@@ -1755,6 +1787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 586727,
+      "num": 586727,
+      "word": "一个国家一再否决导致安理会软弱无能",
+      "onboard_time": 1732086799,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 573726,
       "num": 573726,
       "word": "印度示威者高喊自己才是加拿大的主人",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1732024103,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 510376,
+      "num": 510376,
+      "word": "葛夕说麦琳会把旧冰箱挂闲鱼",
+      "onboard_time": 1732088420,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 510232,
@@ -2459,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410983,
+      "num": 248923,
+      "word": "44岁农村智障女性遭数次性侵产女",
+      "onboard_time": 1732090521,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409270,
       "num": 311872,
       "word": "吃路边摊偶遇檀健次",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1731915378,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 406501,
+      "num": 406501,
+      "word": "花少后期 终于是癫了",
+      "onboard_time": 1732090459,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 406432,
@@ -3011,14 +3075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 328869,
-      "num": 343232,
-      "word": "武艺 死车快开啊",
-      "onboard_time": 1732087640,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324423,
       "num": 564021,
       "word": "EXO初雪回榜",
@@ -3155,14 +3211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309551,
-      "num": 309551,
-      "word": "医院CT等收费将执行新规",
-      "onboard_time": 1732086920,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 308517,
       "num": 292175,
       "word": "华为Mate70已到店",
@@ -3201,6 +3249,14 @@
       "onboard_time": 1731979518,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 306434,
+      "num": 491727,
+      "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
+      "onboard_time": 1732090279,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 305877,
@@ -3673,6 +3729,14 @@
       "onboard_time": 1731861017,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 265397,
+      "num": 265397,
+      "word": "邱党3比2林昀儒",
+      "onboard_time": 1732090100,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 262630,
@@ -4515,14 +4579,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 213941,
-      "num": 344203,
-      "word": "一个国家一再否决导致安理会软弱无能",
-      "onboard_time": 1732086799,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 213528,
       "num": 213528,
       "word": "雷军喊话欢迎大家投递简历",
@@ -4680,6 +4736,14 @@
       "word": "网友质疑父母让4岁女童独自坐地铁",
       "onboard_time": 1731893657,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207803,
+      "num": 207803,
+      "word": "粉红税",
+      "onboard_time": 1732090700,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -4923,6 +4987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201516,
+      "num": 263542,
+      "word": "朱珠演技",
+      "onboard_time": 1732089800,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201051,
       "num": 175252,
       "word": "月光变奏曲",
@@ -5153,6 +5225,14 @@
       "onboard_time": 1732020861,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194298,
+      "num": 407987,
+      "word": "美驻乌使馆称收到可能发生重大空袭信息",
+      "onboard_time": 1732089559,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194117,
@@ -6491,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163906,
+      "num": 163906,
+      "word": "白鹿欧豪翟子路穿出三个季节",
+      "onboard_time": 1732088780,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163475,
       "num": 163475,
       "word": "冰墩墩换上蛇年新皮肤回归",
@@ -7059,12 +7147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149767,
+      "num": 149767,
+      "word": "上班搭子离职堪比断崖式分手",
+      "onboard_time": 1732089501,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149655,
       "num": 173634,
       "word": "这个丁子期有点入戏太深",
       "onboard_time": 1731901819,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149391,
+      "num": 294780,
+      "word": "签售哥送申有娜洗碗三件套",
+      "onboard_time": 1732088481,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 149320,
@@ -7425,6 +7529,14 @@
       "onboard_time": 1731839778,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142192,
+      "num": 142192,
+      "word": "李一桐 笑失禁体质",
+      "onboard_time": 1732089380,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 142034,
@@ -7825,6 +7937,14 @@
       "onboard_time": 1731839598,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133109,
+      "num": 133109,
+      "word": "谭松韵进组我和我的命",
+      "onboard_time": 1732088901,
+      "rank": 49,
+      "category": "电影,综艺"
     },
     {
       "raw_hot": 132653,
@@ -8241,6 +8361,14 @@
       "onboard_time": 1732069518,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121630,
+      "num": 150041,
+      "word": "侯明昊工作室审美",
+      "onboard_time": 1732090521,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 121567,
@@ -9731,6 +9859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65390,
+      "num": 480985,
+      "word": "律师解读百雀羚添加禁用原料",
+      "onboard_time": 1732090581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64800,
       "num": 429149,
       "word": "王一博叫你关注联合国气候变化大会",
@@ -10163,6 +10299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54052,
+      "num": 256803,
+      "word": "女子被家暴16次离婚案将二次开庭",
+      "onboard_time": 1732090341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53944,
       "num": 84777,
       "word": "珠海航展",
@@ -10425,6 +10569,14 @@
       "onboard_time": 1731906799,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50322,
+      "num": 293351,
+      "word": "DK官宣Siwoo上调到一队",
+      "onboard_time": 1732090341,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 50134,
@@ -11363,6 +11515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32053,
+      "num": 292272,
+      "word": "常见的化妆品禁用原料‌有哪些",
+      "onboard_time": 1732090279,
+      "rank": 19,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 31845,
       "num": 44034,
       "word": "航展上的关键零部件你注意到了吗",
@@ -11819,6 +11979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25399,
+      "num": 259418,
+      "word": "闫妮说细节决定黄玲的丰富度",
+      "onboard_time": 1732089980,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25197,
       "num": 152226,
       "word": "泽连斯基称努力确保明年结束俄乌冲突",
@@ -12187,6 +12355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19984,
+      "num": 251193,
+      "word": "邵艺辉 拒绝屏摄文明观影",
+      "onboard_time": 1732087701,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19976,
       "num": 572424,
       "word": "世界互联网再次进入乌镇时间",
@@ -12504,6 +12680,14 @@
       "word": "WTT福冈总决赛抽签结果出炉",
       "onboard_time": 1731936322,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14574,
+      "num": 257542,
+      "word": "王艺迪回应3比1郑怡静",
+      "onboard_time": 1732091001,
+      "rank": 28,
       "category": "体育"
     },
     {
