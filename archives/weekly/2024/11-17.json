@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732127529296,
+  "endTime": 1732128315478,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -12603,6 +12603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37872,
+      "num": 38911,
+      "word": "美国驻基辅大使馆将关闭",
+      "onboard_time": 1732125312,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37531,
       "num": 40310,
       "word": "张玉宁回应脚伤",
@@ -12625,6 +12633,14 @@
       "onboard_time": 1732000880,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37073,
+      "num": 42656,
+      "word": "钟南山建议这类人群每年查肺功能",
+      "onboard_time": 1732127414,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36629,
@@ -12737,14 +12753,6 @@
       "onboard_time": 1732037593,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35227,
-      "num": 38911,
-      "word": "美国驻基辅大使馆将关闭",
-      "onboard_time": 1732125312,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34789,
@@ -14027,6 +14035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20037,
+      "num": 21186,
+      "word": "等了七年了",
+      "onboard_time": 1732128073,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19976,
       "num": 572424,
       "word": "世界互联网再次进入乌镇时间",
@@ -14089,14 +14105,6 @@
       "onboard_time": 1731871092,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 19212,
-      "num": 38427,
-      "word": "钟南山建议这类人群每年查肺功能",
-      "onboard_time": 1732127414,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 19159,
@@ -14740,7 +14748,7 @@
     },
     {
       "raw_hot": 10026,
-      "num": 38236,
+      "num": 41542,
       "word": "许魏洲素颜吉他solo 爷青回",
       "onboard_time": 1732126933,
       "rank": 24,
