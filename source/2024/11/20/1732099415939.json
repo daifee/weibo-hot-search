@@ -1,0 +1,410 @@
+{
+  "runTime": 1732099415939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 473568,
+        "num": 1075770,
+        "word": "Zeus道歉",
+        "onboard_time": 1732093579,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 415887,
+        "num": 415887,
+        "word": "华为Mate70或将首发全新红枫摄像头",
+        "onboard_time": 1732097780,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84990,
+        "num": 415199,
+        "word": "互鉴",
+        "onboard_time": 1732093161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542327,
+        "num": 414938,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414561,
+        "num": 414561,
+        "word": "医院CT等收费将执行新规",
+        "onboard_time": 1732086920,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393266,
+        "num": 393266,
+        "word": "让我爆哭的综艺又回来了",
+        "onboard_time": 1732096701,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388544,
+        "num": 388544,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382927,
+        "num": 382927,
+        "word": "流浪狗撞翻骑车人投喂者被判赔6万",
+        "onboard_time": 1732093340,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323378,
+        "num": 379627,
+        "word": "猎罪图鉴全集限免",
+        "onboard_time": 1732096161,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92104,
+        "num": 376475,
+        "word": "人民网评严打偷拍黑灰产",
+        "onboard_time": 1732098260,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1104242,
+        "num": 371717,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 748979,
+        "num": 369019,
+        "word": "宋仲基二胎出生",
+        "onboard_time": 1732098320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560785,
+        "num": 361875,
+        "word": "杨仕泽在祝绪丹进直播后秒变脸",
+        "onboard_time": 1732095500,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15501,
+        "num": 358040,
+        "word": "专家谈再见爱人中的心理问题",
+        "onboard_time": 1732099100,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26438,
+        "num": 356170,
+        "word": "抓住心梗抢救黄金时间120分钟",
+        "onboard_time": 1732098441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1223906,
+        "num": 350093,
+        "word": "男士卫生巾",
+        "onboard_time": 1732095200,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45636,
+        "num": 344046,
+        "word": "徐振轩看到收拾收拾升咖暗爽",
+        "onboard_time": 1732099160,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438337,
+        "num": 343467,
+        "word": "19岁孤儿被骗到郑州4天没吃没喝",
+        "onboard_time": 1732095799,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401022,
+        "num": 338000,
+        "word": "欧阳妮妮张书豪办宝宝性别趴",
+        "onboard_time": 1732095019,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334922,
+        "num": 334922,
+        "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+        "onboard_time": 1732098141,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359603,
+        "num": 334302,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331948,
+        "num": 331948,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84493,
+        "num": 325175,
+        "word": "Faker说现在自己正是全盛时期",
+        "onboard_time": 1732098260,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 321953,
+        "num": 321953,
+        "word": "一个国家一再否决导致安理会软弱无能",
+        "onboard_time": 1732086799,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301993,
+        "num": 301993,
+        "word": "戚薇边哭边给NPC打伞",
+        "onboard_time": 1732095078,
+        "rank": 24,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 287309,
+        "num": 287309,
+        "word": "44岁农村智障女性遭数次性侵产女",
+        "onboard_time": 1732090521,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203371,
+        "num": 268992,
+        "word": "听泉鉴宝古装",
+        "onboard_time": 1732096939,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192092,
+        "num": 260272,
+        "word": "永夜星河好东西11月黑马",
+        "onboard_time": 1732098740,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259004,
+        "num": 259004,
+        "word": "国家烟草专卖局原副局长被双开",
+        "onboard_time": 1732096099,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31034,
+        "num": 222136,
+        "word": "黄霄雲下一战歌手帮唱",
+        "onboard_time": 1732098501,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 799166,
+        "num": 222082,
+        "word": "杀人凶手出狱后在受害者家门口大摆宴席",
+        "onboard_time": 1732097660,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216556,
+        "num": 216556,
+        "word": "这赛道莎莎强得可怕",
+        "onboard_time": 1732098260,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211671,
+        "num": 211671,
+        "word": "两警察私带警用装备跨省抓人索财",
+        "onboard_time": 1732098561,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202430,
+        "num": 202430,
+        "word": "粉红税",
+        "onboard_time": 1732090700,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191715,
+        "num": 197280,
+        "word": "跑男变走男",
+        "onboard_time": 1732084279,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195906,
+        "num": 195906,
+        "word": "钟睒睒公开喊话张一鸣",
+        "onboard_time": 1732096161,
+        "rank": 35,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 194026,
+        "num": 194026,
+        "word": "钟睒睒回应儿子是否为美国籍",
+        "onboard_time": 1732099040,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189200,
+        "num": 189200,
+        "word": "虞书欣11个行李箱没白带",
+        "onboard_time": 1732099220,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33762,
+        "num": 187505,
+        "word": "首个真无图智驾豪华品牌车型交付",
+        "onboard_time": 1732098740,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187206,
+        "num": 187206,
+        "word": "武艺 死车快开啊",
+        "onboard_time": 1732087640,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65726,
+        "num": 185091,
+        "word": "排水管网改造2亿合同期限773年",
+        "onboard_time": 1732097539,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183230,
+        "num": 183230,
+        "word": "女性神车为何受到女车主吐槽",
+        "onboard_time": 1732098260,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 182384,
+        "num": 182384,
+        "word": "金晨 这是我今年最开心的一天",
+        "onboard_time": 1732092679,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172936,
+        "num": 172936,
+        "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
+        "onboard_time": 1732090279,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169146,
+        "num": 169146,
+        "word": "周鸿祎卖掉迈巴赫买了12辆国产车",
+        "onboard_time": 1732099160,
+        "rank": 44,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 154122,
+        "num": 154122,
+        "word": "钟睒睒说会一直等张一鸣道歉",
+        "onboard_time": 1732099280,
+        "rank": 45,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 152195,
+        "num": 152195,
+        "word": "别让酒店成为偷拍黑洞",
+        "onboard_time": 1732095379,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 145162,
+        "num": 145162,
+        "word": "王楚钦林诗栋训练场打闹",
+        "onboard_time": 1732099400,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141340,
+        "num": 141340,
+        "word": "原来华妃年轻时也像纯元",
+        "onboard_time": 1732099400,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139862,
+        "num": 139862,
+        "word": "手机不能看医院CT图像就要少收费",
+        "onboard_time": 1732088720,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
