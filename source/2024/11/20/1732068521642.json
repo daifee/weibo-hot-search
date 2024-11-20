@@ -1,0 +1,410 @@
+{
+  "runTime": 1732068521642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 846595,
+        "num": 1135455,
+        "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+        "onboard_time": 1732036454,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645164,
+        "num": 645164,
+        "word": "雅加达不再为印尼首都",
+        "onboard_time": 1732061418,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31615,
+        "num": 529356,
+        "word": "电力高速公路上的中巴友谊",
+        "onboard_time": 1732020440,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520677,
+        "num": 520677,
+        "word": "专家称伤人老虎或来自俄罗斯",
+        "onboard_time": 1732062020,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 492193,
+        "num": 492193,
+        "word": "华为官宣MateX6",
+        "onboard_time": 1732066459,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 408291,
+        "num": 408291,
+        "word": "心梗发作如何自救和互救",
+        "onboard_time": 1732063099,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 396911,
+        "num": 396911,
+        "word": "何同学致歉",
+        "onboard_time": 1732028600,
+        "rank": 6,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 395421,
+        "num": 395421,
+        "word": "Hanni受职场霸凌信访被驳回",
+        "onboard_time": 1732066459,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337521,
+        "num": 389035,
+        "word": "白夜破晓开播",
+        "onboard_time": 1732060999,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310600,
+        "num": 386164,
+        "word": "特朗普现身星舰发射现场",
+        "onboard_time": 1732061600,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 942039,
+        "num": 386004,
+        "word": "王大发说丁禹兮火不久",
+        "onboard_time": 1732059196,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385700,
+        "num": 385700,
+        "word": "国足所在小组彻底乱了",
+        "onboard_time": 1732032859,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383160,
+        "num": 383160,
+        "word": "俄认定有核国家支持的侵略为联合攻击",
+        "onboard_time": 1732061299,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 368028,
+        "num": 368028,
+        "word": "漾漾 丁飞俊",
+        "onboard_time": 1732065078,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353685,
+        "num": 353685,
+        "word": "歌手鹿晗",
+        "onboard_time": 1732030340,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302992,
+        "num": 302992,
+        "word": "百雀羚",
+        "onboard_time": 1732028182,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 258040,
+        "num": 258040,
+        "word": "宋莹经典台词是蒋欣即兴发挥",
+        "onboard_time": 1732026322,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242856,
+        "num": 242856,
+        "word": "27岁女子祛斑手术10天后离世",
+        "onboard_time": 1732030159,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209224,
+        "num": 242511,
+        "word": "庄筱婷智性恋天菜",
+        "onboard_time": 1732066758,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192661,
+        "num": 241303,
+        "word": "耳帝发长文谈麦琳",
+        "onboard_time": 1732067479,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 997881,
+        "num": 240792,
+        "word": "家长吐槽10元配餐简陋孩子吃不饱",
+        "onboard_time": 1732059437,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 683516,
+        "num": 240052,
+        "word": "浙江烧伤妈妈丈夫已开橱窗带货",
+        "onboard_time": 1732061717,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656878,
+        "num": 239035,
+        "word": "花16万治前列腺炎后得知不吃药能好",
+        "onboard_time": 1732063519,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 291686,
+        "num": 238788,
+        "word": "男生看见雷军直接递上简历",
+        "onboard_time": 1732059076,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44573,
+        "num": 238097,
+        "word": "李昊直播给红包过生日",
+        "onboard_time": 1732066277,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290304,
+        "num": 237007,
+        "word": "ABC卫生巾",
+        "onboard_time": 1732028541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236592,
+        "num": 236592,
+        "word": "下班后最轻松的副业",
+        "onboard_time": 1732062319,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235486,
+        "num": 235486,
+        "word": "神舟一号首飞成功25周年",
+        "onboard_time": 1732063220,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115271,
+        "num": 195183,
+        "word": "白夜追凶",
+        "onboard_time": 1732063880,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20185,
+        "num": 194174,
+        "word": "朱志鑫雀斑晒伤妆",
+        "onboard_time": 1732068498,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193442,
+        "num": 193442,
+        "word": "T1与Zeus未续约原因",
+        "onboard_time": 1732060398,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191546,
+        "num": 191546,
+        "word": "98年小伙上班视频成网友解压助眠神器",
+        "onboard_time": 1732067839,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184802,
+        "num": 184802,
+        "word": "丁禹兮捡垃圾差点把建构甲弄坏",
+        "onboard_time": 1732036813,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174667,
+        "num": 174667,
+        "word": "范丞丞直播",
+        "onboard_time": 1732064719,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169055,
+        "num": 169055,
+        "word": "95后女孩带77岁父亲穿汉服欧洲炸街",
+        "onboard_time": 1732067839,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164989,
+        "num": 164989,
+        "word": "孙颖莎王艺迪今晚出战女双",
+        "onboard_time": 1732065378,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162368,
+        "num": 162368,
+        "word": "Zeus曾和T1一度断联",
+        "onboard_time": 1732068138,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151487,
+        "num": 151487,
+        "word": "吉林一高校倡导女生主动微笑点头",
+        "onboard_time": 1732060879,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144269,
+        "num": 144269,
+        "word": "酒店针孔摄像头安装工佣金上万元",
+        "onboard_time": 1732068017,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143329,
+        "num": 143329,
+        "word": "时隔37天星舰进行第六次试飞",
+        "onboard_time": 1732037833,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139357,
+        "num": 139357,
+        "word": "海关截获超9000吨洋垃圾",
+        "onboard_time": 1732053912,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134635,
+        "num": 134635,
+        "word": "原神",
+        "onboard_time": 1732065140,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134439,
+        "num": 134439,
+        "word": "WTT福冈总决赛比赛首日",
+        "onboard_time": 1732067958,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113552,
+        "num": 132341,
+        "word": "石云鹏回应小巷人家大结局没鹏飞",
+        "onboard_time": 1732021522,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130264,
+        "num": 130264,
+        "word": "阿根廷vs秘鲁",
+        "onboard_time": 1732066818,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471981,
+        "num": 128539,
+        "word": "甘肃教育厅正在核实小蜜蜂老师身份",
+        "onboard_time": 1732059437,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124825,
+        "num": 124825,
+        "word": "中国每一个早晨都有限时美景",
+        "onboard_time": 1732061118,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121841,
+        "num": 121841,
+        "word": "Zeus离队",
+        "onboard_time": 1732028120,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119222,
+        "num": 119222,
+        "word": "国足跌至小组垫底",
+        "onboard_time": 1732061418,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91811,
+        "num": 113637,
+        "word": "林峯TVB台庆压轴",
+        "onboard_time": 1732066699,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平开始对巴西进行国事访问#"
+    }
+  }
+}

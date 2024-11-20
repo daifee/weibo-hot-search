@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732067189134,
+  "endTime": 1732068521642,
   "band_list": [
     {
       "raw_hot": 1330013,
@@ -91,6 +91,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 683516,
+      "num": 458527,
+      "word": "浙江烧伤妈妈丈夫已开橱窗带货",
+      "onboard_time": 1732061717,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 650542,
       "num": 1104086,
       "word": "俄认定有核国家支持的侵略为联合攻击",
@@ -99,12 +107,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 638928,
-      "num": 458527,
-      "word": "浙江烧伤妈妈丈夫已开橱窗带货",
-      "onboard_time": 1732061717,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 645164,
+      "num": 645164,
+      "word": "雅加达不再为印尼首都",
+      "onboard_time": 1732061418,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 632726,
@@ -115,14 +123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 632013,
-      "num": 632013,
-      "word": "雅加达不再为印尼首都",
-      "onboard_time": 1732061418,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 549410,
       "num": 549410,
       "word": "Zeus离队",
@@ -131,20 +131,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 520677,
+      "num": 520677,
+      "word": "专家称伤人老虎或来自俄罗斯",
+      "onboard_time": 1732062020,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 492193,
+      "num": 492193,
+      "word": "华为官宣MateX6",
+      "onboard_time": 1732066459,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 471795,
       "num": 471795,
       "word": "被老虎咬伤村民家大门紧闭",
       "onboard_time": 1732047370,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462793,
-      "num": 462793,
-      "word": "专家称伤人老虎或来自俄罗斯",
-      "onboard_time": 1732062020,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 447425,
@@ -179,6 +187,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 408291,
+      "num": 408291,
+      "word": "心梗发作如何自救和互救",
+      "onboard_time": 1732063099,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 395421,
+      "num": 395421,
+      "word": "Hanni受职场霸凌信访被驳回",
+      "onboard_time": 1732066459,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383052,
       "num": 532066,
       "word": "宋莹经典台词是蒋欣即兴发挥",
@@ -201,6 +225,14 @@
       "onboard_time": 1732034836,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 368028,
+      "num": 368028,
+      "word": "漾漾 丁飞俊",
+      "onboard_time": 1732065078,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 344425,
@@ -243,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309647,
-      "num": 309647,
-      "word": "漾漾 丁飞俊",
-      "onboard_time": 1732065078,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299031,
       "num": 299031,
       "word": "酒后在足疗店死亡家属索赔194万",
@@ -265,14 +289,6 @@
       "onboard_time": 1732009520,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283060,
-      "num": 283060,
-      "word": "心梗发作如何自救和互救",
-      "onboard_time": 1732063099,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 277742,
@@ -315,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 241011,
-      "num": 241011,
-      "word": "华为官宣MateX6",
-      "onboard_time": 1732066459,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 240538,
       "num": 189670,
       "word": "马斯克将领导美国政府效率部",
@@ -347,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209224,
+      "num": 242511,
+      "word": "庄筱婷智性恋天菜",
+      "onboard_time": 1732066758,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207671,
       "num": 207671,
       "word": "吉林一高校倡导女生主动微笑点头",
@@ -355,12 +371,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205837,
-      "num": 279979,
-      "word": "Hanni受职场霸凌信访被驳回",
-      "onboard_time": 1732066459,
+      "raw_hot": 192661,
+      "num": 241303,
+      "word": "耳帝发长文谈麦琳",
+      "onboard_time": 1732067479,
       "rank": 19,
-      "category": "艺人"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191546,
+      "num": 191546,
+      "word": "98年小伙上班视频成网友解压助眠神器",
+      "onboard_time": 1732067839,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191056,
@@ -368,6 +392,14 @@
       "word": "站姐拍的虞书欣丁禹兮",
       "onboard_time": 1732059377,
       "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184802,
+      "num": 184802,
+      "word": "丁禹兮捡垃圾差点把建构甲弄坏",
+      "onboard_time": 1732036813,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -427,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169055,
+      "num": 169055,
+      "word": "95后女孩带77岁父亲穿汉服欧洲炸街",
+      "onboard_time": 1732067839,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166411,
       "num": 166411,
       "word": "孙颖莎王艺迪今晚出战女双",
@@ -449,6 +489,14 @@
       "onboard_time": 1732037833,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 162368,
+      "num": 162368,
+      "word": "Zeus曾和T1一度断联",
+      "onboard_time": 1732068138,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 161371,
@@ -483,12 +531,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144215,
-      "num": 229858,
-      "word": "庄筱婷智性恋天菜",
-      "onboard_time": 1732066758,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 144269,
+      "num": 144269,
+      "word": "酒店针孔摄像头安装工佣金上万元",
+      "onboard_time": 1732068017,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 141105,
@@ -539,12 +587,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135391,
-      "num": 135391,
-      "word": "丁禹兮捡垃圾差点把建构甲弄坏",
-      "onboard_time": 1732036813,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 134635,
+      "num": 134635,
+      "word": "原神",
+      "onboard_time": 1732065140,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 134516,
@@ -553,6 +601,14 @@
       "onboard_time": 1732061539,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134439,
+      "num": 134439,
+      "word": "WTT福冈总决赛比赛首日",
+      "onboard_time": 1732067958,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 125994,
@@ -580,7 +636,7 @@
     },
     {
       "raw_hot": 122045,
-      "num": 183024,
+      "num": 195183,
       "word": "白夜追凶",
       "onboard_time": 1732063880,
       "rank": 34,
@@ -875,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44573,
+      "num": 238097,
+      "word": "李昊直播给红包过生日",
+      "onboard_time": 1732066277,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41795,
       "num": 72422,
       "word": "林一 沈月你少看点士兵突击吧",
@@ -977,6 +1041,14 @@
       "onboard_time": 1732040952,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 20185,
+      "num": 194174,
+      "word": "朱志鑫雀斑晒伤妆",
+      "onboard_time": 1732068498,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19881,
