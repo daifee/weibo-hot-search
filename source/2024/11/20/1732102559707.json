@@ -1,0 +1,410 @@
+{
+  "runTime": 1732102559707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1145006,
+        "num": 1183200,
+        "word": "杀人凶手出狱后在受害者家门口大摆宴席",
+        "onboard_time": 1732097660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821126,
+        "num": 821126,
+        "word": "钟睒睒回应儿子是否为美国籍",
+        "onboard_time": 1732099040,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57148,
+        "num": 699087,
+        "word": "互鉴",
+        "onboard_time": 1732093161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 683445,
+        "num": 683445,
+        "word": "央视起底水军运作完整黑产链",
+        "onboard_time": 1732100420,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 533014,
+        "num": 533014,
+        "word": "虞书欣11个行李箱没白带",
+        "onboard_time": 1732099220,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443591,
+        "num": 443591,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414862,
+        "num": 414862,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327656,
+        "num": 327656,
+        "word": "19岁孤儿被骗到郑州4天没吃没喝",
+        "onboard_time": 1732095799,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315346,
+        "num": 315346,
+        "word": "两警察私带警用装备跨省抓人索财",
+        "onboard_time": 1732098561,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96095,
+        "num": 314683,
+        "word": "钟睒睒称儿子一分股权都没有",
+        "onboard_time": 1732101680,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1036126,
+        "num": 314636,
+        "word": "宋仲基二胎出生",
+        "onboard_time": 1732098320,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314438,
+        "num": 314438,
+        "word": "让我爆哭的综艺又回来了",
+        "onboard_time": 1732096701,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563747,
+        "num": 301576,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281412,
+        "num": 281412,
+        "word": "Zeus道歉",
+        "onboard_time": 1732093579,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30188,
+        "num": 268637,
+        "word": "九价HPV疫苗卷向男性市场",
+        "onboard_time": 1732101860,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258820,
+        "num": 258820,
+        "word": "华为Mate70或将首发全新红枫摄像头",
+        "onboard_time": 1732097780,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 404897,
+        "num": 258168,
+        "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+        "onboard_time": 1732098141,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18667,
+        "num": 256891,
+        "word": "郑钦文希望在国外喝到霸王茶姬",
+        "onboard_time": 1732099641,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31007,
+        "num": 255904,
+        "word": "台湾民众期待马龙杨倩等赴台",
+        "onboard_time": 1732102039,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24957,
+        "num": 254780,
+        "word": "小默在微博公开道歉具有法律效力",
+        "onboard_time": 1732101139,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950578,
+        "num": 253004,
+        "word": "男士卫生巾",
+        "onboard_time": 1732095200,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200221,
+        "num": 251531,
+        "word": "宋亚轩16岁vs20岁",
+        "onboard_time": 1732101860,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306488,
+        "num": 250943,
+        "word": "杨仕泽在祝绪丹进直播后秒变脸",
+        "onboard_time": 1732095500,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222234,
+        "num": 249433,
+        "word": "原来华妃年轻时也像纯元",
+        "onboard_time": 1732099400,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294198,
+        "num": 248827,
+        "word": "奔跑吧全员都哭了",
+        "onboard_time": 1732101500,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129177,
+        "num": 246574,
+        "word": "易烊千玺云螭二四逴跞山极",
+        "onboard_time": 1732100600,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182301,
+        "num": 245984,
+        "word": "潘粤明为保持身形几乎不吃晚饭",
+        "onboard_time": 1732100540,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102876,
+        "num": 244049,
+        "word": "白夜破晓 剧王白月光回归",
+        "onboard_time": 1732100420,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4484,
+        "num": 243803,
+        "word": "是球迷冲进赛场导致国足输球的吗",
+        "onboard_time": 1732101860,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298030,
+        "num": 241819,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241479,
+        "num": 241479,
+        "word": "周鸿祎卖掉迈巴赫买了12辆国产车",
+        "onboard_time": 1732099160,
+        "rank": 30,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 26278,
+        "num": 233617,
+        "word": "首个真无图智驾豪华品牌车型交付",
+        "onboard_time": 1732098740,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60336,
+        "num": 232127,
+        "word": "白夜2还是那味儿",
+        "onboard_time": 1732100479,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231192,
+        "num": 231192,
+        "word": "流浪狗撞翻骑车人投喂者被判赔6万",
+        "onboard_time": 1732093340,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27820,
+        "num": 209432,
+        "word": "白夜追凶原班人马找回那个味儿",
+        "onboard_time": 1732100719,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199540,
+        "num": 199540,
+        "word": "永夜星河强制爱花絮",
+        "onboard_time": 1732102039,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194084,
+        "num": 194084,
+        "word": "医院CT等收费将执行新规",
+        "onboard_time": 1732086920,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85289,
+        "num": 189795,
+        "word": "如何看待投喂流浪狗被判赔",
+        "onboard_time": 1732098141,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 188762,
+        "num": 188762,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 184887,
+        "num": 184887,
+        "word": "44岁农村智障女性遭数次性侵产女",
+        "onboard_time": 1732090521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183492,
+        "num": 183492,
+        "word": "这赛道莎莎强得可怕",
+        "onboard_time": 1732098260,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163287,
+        "num": 163287,
+        "word": "国家烟草专卖局原副局长被双开",
+        "onboard_time": 1732096099,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163132,
+        "num": 163132,
+        "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
+        "onboard_time": 1732090279,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 153018,
+        "num": 153018,
+        "word": "猎罪图鉴全集限免",
+        "onboard_time": 1732096161,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141821,
+        "num": 141821,
+        "word": "钟睒睒说会一直等张一鸣道歉",
+        "onboard_time": 1732099280,
+        "rank": 44,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 138396,
+        "num": 138396,
+        "word": "欧阳妮妮张书豪办宝宝性别趴",
+        "onboard_time": 1732095019,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137013,
+        "num": 137013,
+        "word": "科切拉阵容",
+        "onboard_time": 1732097480,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136747,
+        "num": 136747,
+        "word": "张本美和vs田志希",
+        "onboard_time": 1732101561,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136142,
+        "num": 136142,
+        "word": "Gumayusi明年等着被我教训",
+        "onboard_time": 1732100061,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20334,
+        "num": 135242,
+        "word": "雪梨茅根竹蔗水",
+        "onboard_time": 1732101739,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
