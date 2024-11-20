@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 12:28:31
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 12:43:03
 </p>
 </blockquote>
 <p>
@@ -1359,6 +1359,12 @@ K7034列车发生脱轨事故（热度：1833924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2331%E5%B2%81985%E6%AF%95%E4%B8%9A%E5%9B%BD%E4%BC%81%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%9D%A0%E4%BA%A1%23" target="weibo">
+31岁985毕业国企设计师坠亡（热度：1584226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%BB%BA%E8%AE%AE%E5%85%B3%E9%97%AD%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%BF%99%E9%A1%B9%E5%8A%9F%E8%83%BD%23" target="weibo">
 民警建议关闭苹果手机这项功能（热度：1579878）
 </a>
@@ -1547,6 +1553,12 @@ ABC卫生巾（热度：1508008）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%93%A5%E6%8E%A5%E5%88%B0%E5%A5%87%E6%80%AA%E8%AE%A2%E5%8D%95%E9%80%8118%E4%B8%87%E5%88%B0%E7%A8%BB%E7%94%B0%23" target="weibo">
 小哥接到奇怪订单送18万到稻田（热度：1486323）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BD%B6%E5%8F%AF%E9%95%BF%E5%8F%91%23" target="weibo">
+曾轶可长发（热度：1484456）
 </a>
 </li>
 
@@ -2597,12 +2609,6 @@ Zeus离队（热度：1224601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%9C%A8%E5%B7%B7%E5%AD%90%E8%A2%AB%E6%8D%858%E5%88%80%E8%87%B4%E6%AD%BB%23" target="weibo">
 男子凌晨在巷子被捅8刀致死（热度：1119164）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BD%B6%E5%8F%AF%E9%95%BF%E5%8F%91%23" target="weibo">
-曾轶可长发（热度：1116966）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG赛后采访（热度：672798）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BD%9C%E8%AF%8D%23" target="weibo">
 肖战作词（热度：664357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BA%BA%E5%A4%B4%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%81%B6%E4%BD%9C%E5%89%A7%23" target="weibo">
-英国男子捡到人头以为是恶作剧（热度：664328）
 </a>
 </li>
 

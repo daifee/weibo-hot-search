@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732076911426,
+  "endTime": 1732077783757,
   "band_list": [
     {
       "raw_hot": 2313016,
@@ -27,20 +27,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1584226,
+      "num": 613115,
+      "word": "31岁985毕业国企设计师坠亡",
+      "onboard_time": 1732076600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1484456,
+      "num": 419158,
+      "word": "曾轶可长发",
+      "onboard_time": 1732075639,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1330013,
       "num": 1330013,
       "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
       "onboard_time": 1732036454,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1116966,
-      "num": 313599,
-      "word": "曾轶可长发",
-      "onboard_time": 1732075639,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 1107133,
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 597041,
+      "num": 597041,
+      "word": "因果报应 复仇爽片",
+      "onboard_time": 1732076661,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 555691,
       "num": 555691,
       "word": "耳帝发长文谈麦琳",
@@ -227,20 +243,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 518768,
+      "num": 518768,
+      "word": "男子欺负卖花母子事件反转当事人发声",
+      "onboard_time": 1732075399,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517953,
       "num": 517953,
       "word": "广州拟将低使用率男厕改为无性别公厕",
       "onboard_time": 1732069938,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 504862,
-      "num": 295579,
-      "word": "因果报应 复仇爽片",
-      "onboard_time": 1732076661,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 492193,
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382844,
+      "num": 382844,
+      "word": "小巷人家 和谁在一起真的不一样",
+      "onboard_time": 1732077081,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382341,
       "num": 461236,
       "word": "白夜破晓开播",
@@ -337,14 +361,6 @@
       "onboard_time": 1732065078,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353851,
-      "num": 283672,
-      "word": "男子欺负卖花母子事件反转当事人发声",
-      "onboard_time": 1732075399,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 346378,
@@ -377,14 +393,6 @@
       "onboard_time": 1732059076,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 327979,
-      "num": 327979,
-      "word": "31岁985毕业国企设计师坠亡",
-      "onboard_time": 1732076600,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321140,
@@ -531,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204701,
+      "num": 204701,
+      "word": "A股迎来两大信号",
+      "onboard_time": 1732076360,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203774,
       "num": 344139,
       "word": "日本主帅说国足不是有进步是潜力大",
@@ -545,6 +561,14 @@
       "onboard_time": 1732073718,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199786,
+      "num": 277242,
+      "word": "丁禹兮杂志",
+      "onboard_time": 1732077201,
+      "rank": 32,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 197912,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 195284,
-      "num": 195284,
+      "num": 414356,
       "word": "北京儿童医院夜诊排了近600号",
       "onboard_time": 1732073958,
       "rank": 38,
@@ -603,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190731,
+      "num": 309529,
+      "word": "钱天一vs迪亚兹",
+      "onboard_time": 1732073778,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186564,
       "num": 394732,
       "word": "酒店偷拍摄像头借合规APP直播",
@@ -635,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183673,
+      "num": 183673,
+      "word": "肖战把自己的画拍成了MV",
+      "onboard_time": 1732077621,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182943,
       "num": 182943,
       "word": "中国每一个早晨都有限时美景",
@@ -649,14 +689,6 @@
       "onboard_time": 1732028303,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181835,
-      "num": 181835,
-      "word": "A股迎来两大信号",
-      "onboard_time": 1732076360,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 180121,
@@ -691,12 +723,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176126,
+      "num": 176126,
+      "word": "卢伟冰吐槽友商三千的空调卖两万",
+      "onboard_time": 1732076779,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175656,
       "num": 209927,
       "word": "肖战漂流MV",
       "onboard_time": 1732071798,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173668,
+      "num": 173668,
+      "word": "白夜追凶2空降",
+      "onboard_time": 1732077020,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 172795,
@@ -763,20 +811,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151690,
+      "num": 151690,
+      "word": "最终幻想14水晶世界",
+      "onboard_time": 1732077261,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150972,
       "num": 150972,
       "word": "女子用过期眼药水视力降至0.1",
       "onboard_time": 1732024464,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150495,
-      "num": 150495,
-      "word": "卢伟冰吐槽友商三千的空调卖两万",
-      "onboard_time": 1732076779,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 149066,
@@ -793,6 +841,14 @@
       "onboard_time": 1732066818,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147369,
+      "num": 147369,
+      "word": "光与夜之恋萧逸生日娃",
+      "onboard_time": 1732077740,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 146429,
@@ -851,6 +907,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 139996,
+      "num": 353278,
+      "word": "双关生日",
+      "onboard_time": 1732076479,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139957,
       "num": 177392,
       "word": "降低身体慢性炎症的2个方法",
@@ -873,14 +937,6 @@
       "onboard_time": 1732075940,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138962,
-      "num": 291675,
-      "word": "双关生日",
-      "onboard_time": 1732076479,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 138741,
@@ -1099,6 +1155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 99321,
+      "num": 375944,
+      "word": "8岁小学生沉迷拍烟卡手指溃烂",
+      "onboard_time": 1732077320,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98379,
       "num": 98379,
       "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
@@ -1235,12 +1299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78267,
+      "num": 340352,
+      "word": "张含韵 没加过戏",
+      "onboard_time": 1732077380,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75839,
       "num": 75839,
       "word": "俄黑海舰队一军官汽车遭爆炸袭击",
       "onboard_time": 1732051331,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75393,
+      "num": 370454,
+      "word": "王源V中文版封面预告",
+      "onboard_time": 1732076600,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 73969,
@@ -1272,6 +1352,14 @@
       "word": "百雀羚官方直播间照常运营",
       "onboard_time": 1732069998,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65432,
+      "num": 409717,
+      "word": "百雀羚曾称产品1小时极速淡纹37%",
+      "onboard_time": 1732076902,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1355,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48966,
+      "num": 466543,
+      "word": "王艺迪vs郑怡静",
+      "onboard_time": 1732077443,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48358,
       "num": 55656,
       "word": "62岁飞行员返俄前和观众挥手告别",
@@ -1363,12 +1459,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 46927,
-      "num": 309529,
-      "word": "钱天一vs迪亚兹",
-      "onboard_time": 1732073778,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 47323,
+      "num": 362218,
+      "word": "闵熙珍与HYBE解约",
+      "onboard_time": 1732077501,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 46652,
@@ -1395,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42562,
-      "num": 278338,
-      "word": "王源V中文版封面预告",
-      "onboard_time": 1732076600,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 41795,
       "num": 72422,
       "word": "林一 沈月你少看点士兵突击吧",
@@ -1417,6 +1505,14 @@
       "onboard_time": 1732017980,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40915,
+      "num": 394314,
+      "word": "中国在美留学生连续第四年减少",
+      "onboard_time": 1732077261,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38247,
@@ -1499,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22655,
+      "num": 332473,
+      "word": "用法律解读好团圆",
+      "onboard_time": 1732076902,
+      "rank": 29,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 21326,
       "num": 63441,
       "word": "这一刻爷爷的爱有了形状",
@@ -1577,6 +1681,14 @@
       "onboard_time": 1732038792,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10225,
+      "num": 380095,
+      "word": "王大雷说每个人都有进步",
+      "onboard_time": 1732076902,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 9449,

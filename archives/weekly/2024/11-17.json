@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732076911426,
+  "endTime": 1732077783757,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1584226,
+      "num": 613115,
+      "word": "31岁985毕业国企设计师坠亡",
+      "onboard_time": 1732076600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1564274,
       "num": 498743,
       "word": "赵丽颖 别逼我变成薛扇扇",
@@ -249,6 +257,14 @@
       "onboard_time": 1731820759,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1484456,
+      "num": 419158,
+      "word": "曾轶可长发",
+      "onboard_time": 1732075639,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 1451468,
@@ -473,14 +489,6 @@
       "onboard_time": 1731767366,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1116966,
-      "num": 313599,
-      "word": "曾轶可长发",
-      "onboard_time": 1732075639,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 1107133,
@@ -1611,6 +1619,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 597041,
+      "num": 597041,
+      "word": "因果报应 复仇爽片",
+      "onboard_time": 1732076661,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 596645,
       "num": 596645,
       "word": "年轻奔放不是犯错的挡箭牌",
@@ -1803,6 +1819,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 518768,
+      "num": 518768,
+      "word": "男子欺负卖花母子事件反转当事人发声",
+      "onboard_time": 1732075399,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518480,
       "num": 430202,
       "word": "长安的荔枝",
@@ -1865,14 +1889,6 @@
       "onboard_time": 1732011861,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504862,
-      "num": 295579,
-      "word": "因果报应 复仇爽片",
-      "onboard_time": 1732076661,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 502331,
@@ -2475,6 +2491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 382844,
+      "num": 382844,
+      "word": "小巷人家 和谁在一起真的不一样",
+      "onboard_time": 1732077081,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382341,
       "num": 461236,
       "word": "白夜破晓开播",
@@ -2659,14 +2683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353851,
-      "num": 283672,
-      "word": "男子欺负卖花母子事件反转当事人发声",
-      "onboard_time": 1732075399,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353777,
       "num": 353777,
       "word": "王昭君FMVP皮肤",
@@ -2833,14 +2849,6 @@
       "onboard_time": 1731941539,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327979,
-      "num": 327979,
-      "word": "31岁985毕业国企设计师坠亡",
-      "onboard_time": 1732076600,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324423,
@@ -4451,6 +4459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204701,
+      "num": 204701,
+      "word": "A股迎来两大信号",
+      "onboard_time": 1732076360,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 204571,
       "num": 204571,
       "word": "柳智敏看金玟庭的眼神",
@@ -4603,6 +4619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199786,
+      "num": 277242,
+      "word": "丁禹兮杂志",
+      "onboard_time": 1732077201,
+      "rank": 32,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 199279,
       "num": 199279,
       "word": "海南州原副州长酒后失德失范",
@@ -4732,7 +4756,7 @@
     },
     {
       "raw_hot": 195284,
-      "num": 195284,
+      "num": 414356,
       "word": "北京儿童医院夜诊排了近600号",
       "onboard_time": 1732073958,
       "rank": 38,
@@ -4865,6 +4889,14 @@
       "onboard_time": 1731897918,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190731,
+      "num": 309529,
+      "word": "钱天一vs迪亚兹",
+      "onboard_time": 1732073778,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 190626,
@@ -5235,6 +5267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183673,
+      "num": 183673,
+      "word": "肖战把自己的画拍成了MV",
+      "onboard_time": 1732077621,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183660,
       "num": 200586,
       "word": "魏大勋 一看你就没听过刘旸的脱口秀",
@@ -5313,14 +5353,6 @@
       "onboard_time": 1732028120,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181835,
-      "num": 181835,
-      "word": "A股迎来两大信号",
-      "onboard_time": 1732076360,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 181824,
@@ -5531,6 +5563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176126,
+      "num": 176126,
+      "word": "卢伟冰吐槽友商三千的空调卖两万",
+      "onboard_time": 1732076779,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176106,
       "num": 160533,
       "word": "九旬夫妇赠与儿子3套房反被故意伤害",
@@ -5609,6 +5649,14 @@
       "onboard_time": 1732018279,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173668,
+      "num": 173668,
+      "word": "白夜追凶2空降",
+      "onboard_time": 1732077020,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 173471,
@@ -6443,6 +6491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151690,
+      "num": 151690,
+      "word": "最终幻想14水晶世界",
+      "onboard_time": 1732077261,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151431,
       "num": 151431,
       "word": "天舟七号货运飞船受控再入大气层",
@@ -6489,14 +6545,6 @@
       "onboard_time": 1731773841,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150495,
-      "num": 150495,
-      "word": "卢伟冰吐槽友商三千的空调卖两万",
-      "onboard_time": 1732076779,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 150492,
@@ -6649,6 +6697,14 @@
       "onboard_time": 1731839298,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147369,
+      "num": 147369,
+      "word": "光与夜之恋萧逸生日娃",
+      "onboard_time": 1732077740,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 147269,
@@ -6995,6 +7051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139996,
+      "num": 353278,
+      "word": "双关生日",
+      "onboard_time": 1732076479,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139846,
       "num": 139846,
       "word": "太原通报社区干部瓜分捐赠香烟问题",
@@ -7049,14 +7113,6 @@
       "onboard_time": 1731774499,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138962,
-      "num": 291675,
-      "word": "双关生日",
-      "onboard_time": 1732076479,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 138644,
@@ -8259,6 +8315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99321,
+      "num": 375944,
+      "word": "8岁小学生沉迷拍烟卡手指溃烂",
+      "onboard_time": 1732077320,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99099,
       "num": 99099,
       "word": "沈腾希望黄景瑜别碰到其他会做饭的",
@@ -8755,6 +8819,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 78267,
+      "num": 340352,
+      "word": "张含韵 没加过戏",
+      "onboard_time": 1732077380,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77920,
       "num": 360170,
       "word": "黑龙江警方启动无人机寻找老虎",
@@ -8873,6 +8945,14 @@
       "onboard_time": 1731854060,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75393,
+      "num": 370454,
+      "word": "王源V中文版封面预告",
+      "onboard_time": 1732076600,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 75030,
@@ -9080,6 +9160,14 @@
       "word": "百雀羚官方直播间照常运营",
       "onboard_time": 1732069998,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65432,
+      "num": 409717,
+      "word": "百雀羚曾称产品1小时极速淡纹37%",
+      "onboard_time": 1732076902,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -9787,6 +9875,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 48966,
+      "num": 466543,
+      "word": "王艺迪vs郑怡静",
+      "onboard_time": 1732077443,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48743,
       "num": 48743,
       "word": "烧伤妈妈恢复期忍痛练习吃饭",
@@ -9827,20 +9923,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47323,
+      "num": 362218,
+      "word": "闵熙珍与HYBE解约",
+      "onboard_time": 1732077501,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47142,
       "num": 158555,
       "word": "新疆沙漠里瓜果蔬菜水灵灵丰收了",
       "onboard_time": 1731776120,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46927,
-      "num": 309529,
-      "word": "钱天一vs迪亚兹",
-      "onboard_time": 1732073778,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 46692,
@@ -10019,14 +10115,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 42562,
-      "num": 278338,
-      "word": "王源V中文版封面预告",
-      "onboard_time": 1732076600,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 41795,
       "num": 72422,
       "word": "林一 沈月你少看点士兵突击吧",
@@ -10072,6 +10160,14 @@
       "word": "中美两个大国应该计天下利",
       "onboard_time": 1731823760,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40915,
+      "num": 394314,
+      "word": "中国在美留学生连续第四年减少",
+      "onboard_time": 1732077261,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -11203,6 +11299,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 22655,
+      "num": 332473,
+      "word": "用法律解读好团圆",
+      "onboard_time": 1732076902,
+      "rank": 29,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 22639,
       "num": 27024,
       "word": "合作需要诚意快让成毅来谈",
@@ -12001,6 +12105,14 @@
       "onboard_time": 1731796212,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10225,
+      "num": 380095,
+      "word": "王大雷说每个人都有进步",
+      "onboard_time": 1732076902,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 10206,
