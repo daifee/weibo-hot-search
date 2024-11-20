@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 23:25:09
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 23:40:07
 </p>
 </blockquote>
 <p>
@@ -6689,6 +6689,12 @@ LV 王楚钦（热度：684376）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E5%8D%A2%E6%8B%89%E4%BC%9A%E8%B0%88%23%23" target="weibo">
 #习近平同巴西总统卢拉会谈#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E7%9A%84%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%23%23" target="weibo">
+#习近平出席巴西总统举行的欢迎仪式#
 </a>
 </li>
 
