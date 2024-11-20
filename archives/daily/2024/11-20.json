@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732112502304,
+  "endTime": 1732113696126,
   "band_list": [
     {
       "raw_hot": 3006607,
@@ -51,6 +51,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1755298,
+      "num": 1755298,
+      "word": "国乒男队一轮游",
+      "onboard_time": 1732108221,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1725907,
       "num": 613115,
       "word": "31岁985毕业国企设计师坠亡",
@@ -73,14 +81,6 @@
       "onboard_time": 1732086261,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1528937,
-      "num": 1528937,
-      "word": "国乒男队一轮游",
-      "onboard_time": 1732108221,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1516524,
@@ -203,6 +203,14 @@
       "category": "数码,网红"
     },
     {
+      "raw_hot": 1032799,
+      "num": 1032799,
+      "word": "胖东来宣布员工结婚不允许要或付彩礼",
+      "onboard_time": 1732106721,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 995380,
       "num": 1159260,
       "word": "关宏峰被抓2小时7年后才放出来",
@@ -243,12 +251,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 877049,
-      "num": 877049,
-      "word": "胖东来宣布员工结婚不允许要或付彩礼",
-      "onboard_time": 1732106721,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 918857,
+      "num": 918857,
+      "word": "孙颖莎王艺迪无缘女双四强",
+      "onboard_time": 1732111463,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 875408,
@@ -659,6 +667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 497867,
+      "num": 497867,
+      "word": "73岁王石独自带娃被偶遇",
+      "onboard_time": 1732109842,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 492193,
       "num": 492193,
       "word": "华为官宣MateX6",
@@ -707,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467684,
-      "num": 467684,
-      "word": "孙颖莎王艺迪无缘女双四强",
-      "onboard_time": 1732111463,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 466667,
       "num": 491727,
       "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
@@ -729,14 +737,6 @@
       "onboard_time": 1732086620,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449878,
-      "num": 449878,
-      "word": "73岁王石独自带娃被偶遇",
-      "onboard_time": 1732109842,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 447425,
@@ -867,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371367,
+      "num": 432077,
+      "word": "林高远林诗栋vs户上隼辅篠塚大登",
+      "onboard_time": 1732111881,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371030,
       "num": 371030,
       "word": "ABC所属公司称正修改全线产品",
@@ -929,6 +937,14 @@
       "onboard_time": 1732030879,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343517,
+      "num": 375824,
+      "word": "不提麦琳两个字证明你看过再见爱人",
+      "onboard_time": 1732111703,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 337396,
@@ -1123,6 +1139,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256932,
+      "num": 382960,
+      "word": "百雀羚否认化妆品添加禁用原料",
+      "onboard_time": 1732112182,
+      "rank": 31,
+      "category": "舆论监督,美妆"
+    },
+    {
+      "raw_hot": 255405,
+      "num": 466871,
+      "word": "方时赫瘦好多",
+      "onboard_time": 1732108940,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254115,
       "num": 254115,
       "word": "济南推出把子肉公交卡",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1732013240,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 248627,
+      "num": 248627,
+      "word": "董思成 受伤",
+      "onboard_time": 1732112602,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 247127,
@@ -1187,12 +1227,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 240057,
-      "num": 240057,
-      "word": "百雀羚否认化妆品添加禁用原料",
-      "onboard_time": 1732112182,
-      "rank": 31,
-      "category": "舆论监督,美妆"
+      "raw_hot": 238332,
+      "num": 419045,
+      "word": "女双 削球",
+      "onboard_time": 1732111522,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 237386,
+      "num": 374282,
+      "word": "日本队双削",
+      "onboard_time": 1732111821,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 233085,
@@ -1209,6 +1257,14 @@
       "onboard_time": 1732077501,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230577,
+      "num": 230577,
+      "word": "女孩称川西徒步遭马夫猥亵",
+      "onboard_time": 1732113022,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229481,
@@ -1267,6 +1323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222977,
+      "num": 222977,
+      "word": "警方通报女子驾车碾压一倒地者致死",
+      "onboard_time": 1732113263,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 222234,
       "num": 271203,
       "word": "原来华妃年轻时也像纯元",
@@ -1315,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217674,
+      "num": 217674,
+      "word": "胖东来将不允许员工靠父母买房买车",
+      "onboard_time": 1732112421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216556,
       "num": 216556,
       "word": "这赛道莎莎强得可怕",
@@ -1347,14 +1419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 212492,
-      "num": 466871,
-      "word": "方时赫瘦好多",
-      "onboard_time": 1732108940,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211721,
       "num": 295206,
       "word": "白夜破晓书接上回",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1732096161,
       "rank": 37,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 208837,
+      "num": 208837,
+      "word": "白鹿走啦下次见爱你们",
+      "onboard_time": 1732112362,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 208715,
@@ -1404,7 +1476,7 @@
     },
     {
       "raw_hot": 206331,
-      "num": 206331,
+      "num": 246472,
       "word": "超实力版炸火花",
       "onboard_time": 1732109542,
       "rank": 37,
@@ -1555,20 +1627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197020,
-      "num": 273936,
-      "word": "不提麦琳两个字证明你看过再见爱人",
-      "onboard_time": 1732111703,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197009,
       "num": 233994,
       "word": "涵艺说Zeus得不到尊重",
       "onboard_time": 1732084701,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196553,
+      "num": 245844,
+      "word": "易烊千玺打麻将",
+      "onboard_time": 1732113441,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 196085,
@@ -1603,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194506,
+      "num": 194506,
+      "word": "Ruler回归GEN",
+      "onboard_time": 1732113382,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194431,
       "num": 194431,
       "word": "王一博上榜好莱坞最受瞩目演员",
@@ -1617,14 +1697,6 @@
       "onboard_time": 1732087520,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192668,
-      "num": 192668,
-      "word": "日本队双削",
-      "onboard_time": 1732111821,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 192092,
@@ -1663,14 +1735,6 @@
       "num": 309529,
       "word": "钱天一vs迪亚兹",
       "onboard_time": 1732073778,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190178,
-      "num": 419045,
-      "word": "女双 削球",
-      "onboard_time": 1732111522,
       "rank": 18,
       "category": "体育"
     },
@@ -1721,6 +1785,14 @@
       "onboard_time": 1732071258,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 185408,
+      "num": 185408,
+      "word": "金价连跌近10%后二连涨",
+      "onboard_time": 1732112362,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 184802,
@@ -1929,6 +2001,14 @@
       "onboard_time": 1732105461,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169191,
+      "num": 248227,
+      "word": "张小斐 我属于晚间新闻",
+      "onboard_time": 1732112421,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 169055,
@@ -2235,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141137,
-      "num": 141137,
-      "word": "白鹿走啦下次见爱你们",
-      "onboard_time": 1732112362,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141105,
       "num": 215024,
       "word": "奥斯卡参加TVB台庆",
@@ -2417,14 +2489,6 @@
       "onboard_time": 1732067958,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134410,
-      "num": 134410,
-      "word": "胖东来将不允许员工靠父母买房买车",
-      "onboard_time": 1732112421,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133109,
@@ -2771,20 +2835,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 94207,
+      "num": 444833,
+      "word": "关爱女性健康不能停留在营销口号中",
+      "onboard_time": 1732111642,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93476,
       "num": 93476,
       "word": "HLE与Viper续约",
       "onboard_time": 1732021102,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 93221,
-      "num": 231314,
-      "word": "张小斐 我属于晚间新闻",
-      "onboard_time": 1732112421,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 92104,
@@ -2897,14 +2961,6 @@
       "onboard_time": 1732110920,
       "rank": 19,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 81651,
-      "num": 432077,
-      "word": "林高远林诗栋vs户上隼辅篠塚大登",
-      "onboard_time": 1732111881,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 81183,
@@ -3107,6 +3163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 58511,
+      "num": 399620,
+      "word": "林高远林诗栋无缘男双四强",
+      "onboard_time": 1732113441,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58161,
       "num": 454654,
       "word": "村小5年间一年级人数从21人减至7人",
@@ -3137,14 +3201,6 @@
       "onboard_time": 1732072339,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 56368,
-      "num": 444833,
-      "word": "关爱女性健康不能停留在营销口号中",
-      "onboard_time": 1732111642,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54908,
@@ -3241,6 +3297,14 @@
       "onboard_time": 1732090341,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49760,
+      "num": 395822,
+      "word": "约奇克感觉林高远有点紧张",
+      "onboard_time": 1732113082,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 48966,
@@ -3417,6 +3481,14 @@
       "onboard_time": 1732037593,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34518,
+      "num": 503938,
+      "word": "4分15秒见证中国载人航天传奇史",
+      "onboard_time": 1732109481,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 33762,
@@ -3723,14 +3795,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 20701,
-      "num": 503938,
-      "word": "4分15秒见证中国载人航天传奇史",
-      "onboard_time": 1732109481,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 20500,
       "num": 314792,
       "word": "王艺迪说赢得比较幸运",
@@ -3772,7 +3836,7 @@
     },
     {
       "raw_hot": 19734,
-      "num": 577128,
+      "num": 948534,
       "word": "互联网之光点亮乌镇",
       "onboard_time": 1732109003,
       "rank": 2,

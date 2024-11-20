@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732112502304,
+  "endTime": 1732113696126,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1371,6 +1371,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1755298,
+      "num": 1755298,
+      "word": "国乒男队一轮游",
+      "onboard_time": 1732108221,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1753625,
       "num": 623811,
       "word": "王楚钦状态",
@@ -1945,14 +1953,6 @@
       "onboard_time": 1731463639,
       "rank": 1,
       "category": "美食,网红"
-    },
-    {
-      "raw_hot": 1528937,
-      "num": 1528937,
-      "word": "国乒男队一轮游",
-      "onboard_time": 1732108221,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1527363,
@@ -4195,6 +4195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1032799,
+      "num": 1032799,
+      "word": "胖东来宣布员工结婚不允许要或付彩礼",
+      "onboard_time": 1732106721,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1032088,
       "num": 1032088,
       "word": "AG对战狼队",
@@ -5171,6 +5179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 918857,
+      "num": 918857,
+      "word": "孙颖莎王艺迪无缘女双四强",
+      "onboard_time": 1732111463,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 916195,
       "num": 565182,
       "word": "李玟姐姐回应李玟墓地杂草丛生",
@@ -5465,14 +5481,6 @@
       "onboard_time": 1731819559,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 877049,
-      "num": 877049,
-      "word": "胖东来宣布员工结婚不允许要或付彩礼",
-      "onboard_time": 1732106721,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 876770,
@@ -12003,6 +12011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 497867,
+      "num": 497867,
+      "word": "73岁王石独自带娃被偶遇",
+      "onboard_time": 1732109842,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 497337,
       "num": 497337,
       "word": "赵露思王鹤棣内娱同桌",
@@ -12779,14 +12795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467684,
-      "num": 467684,
-      "word": "孙颖莎王艺迪无缘女双四强",
-      "onboard_time": 1732111463,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 467522,
       "num": 342478,
       "word": "原来下肢是人体的血糖仪",
@@ -13257,14 +13265,6 @@
       "onboard_time": 1731214878,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449878,
-      "num": 449878,
-      "word": "73岁王石独自带娃被偶遇",
-      "onboard_time": 1732109842,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 449521,
@@ -15971,6 +15971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371367,
+      "num": 432077,
+      "word": "林高远林诗栋vs户上隼辅篠塚大登",
+      "onboard_time": 1732111881,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371261,
       "num": 371261,
       "word": "传奇杯",
@@ -16993,6 +17001,14 @@
       "onboard_time": 1731800415,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343517,
+      "num": 375824,
+      "word": "不提麦琳两个字证明你看过再见爱人",
+      "onboard_time": 1732111703,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 343513,
@@ -21611,6 +21627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256932,
+      "num": 382960,
+      "word": "百雀羚否认化妆品添加禁用原料",
+      "onboard_time": 1732112182,
+      "rank": 31,
+      "category": "舆论监督,美妆"
+    },
+    {
       "raw_hot": 256909,
       "num": 201571,
       "word": "有车以后的真实感受",
@@ -21687,6 +21711,14 @@
       "num": 255588,
       "word": "薛之谦朱桢喝趴了",
       "onboard_time": 1730769859,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255405,
+      "num": 466871,
+      "word": "方时赫瘦好多",
+      "onboard_time": 1732108940,
       "rank": 28,
       "category": "艺人"
     },
@@ -22209,6 +22241,14 @@
       "onboard_time": 1731250641,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248627,
+      "num": 248627,
+      "word": "董思成 受伤",
+      "onboard_time": 1732112602,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 248589,
@@ -22859,14 +22899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240057,
-      "num": 240057,
-      "word": "百雀羚否认化妆品添加禁用原料",
-      "onboard_time": 1732112182,
-      "rank": 31,
-      "category": "舆论监督,美妆"
-    },
-    {
       "raw_hot": 240043,
       "num": 435341,
       "word": "所谓军中茅台一瓶成本仅3元",
@@ -23027,6 +23059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238332,
+      "num": 419045,
+      "word": "女双 削球",
+      "onboard_time": 1732111522,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238278,
       "num": 238278,
       "word": "丁禹兮发烧了",
@@ -23049,6 +23089,14 @@
       "onboard_time": 1730875167,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237386,
+      "num": 374282,
+      "word": "日本队双削",
+      "onboard_time": 1732111821,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 237328,
@@ -23641,6 +23689,14 @@
       "onboard_time": 1730637738,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230577,
+      "num": 230577,
+      "word": "女孩称川西徒步遭马夫猥亵",
+      "onboard_time": 1732113022,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230534,
@@ -24299,6 +24355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222977,
+      "num": 222977,
+      "word": "警方通报女子驾车碾压一倒地者致死",
+      "onboard_time": 1732113263,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 222914,
       "num": 214977,
       "word": "虞书欣新增永夜星河团综行程",
@@ -24841,6 +24905,14 @@
       "onboard_time": 1731195734,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 217674,
+      "num": 217674,
+      "word": "胖东来将不允许员工靠父母买房买车",
+      "onboard_time": 1732112421,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217439,
@@ -25443,14 +25515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212492,
-      "num": 466871,
-      "word": "方时赫瘦好多",
-      "onboard_time": 1732108940,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212427,
       "num": 212427,
       "word": "丁禹兮谨言慎行最早源头",
@@ -26011,6 +26075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208837,
+      "num": 208837,
+      "word": "白鹿走啦下次见爱你们",
+      "onboard_time": 1732112362,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208753,
       "num": 208753,
       "word": "比特币站上75000美元每枚",
@@ -26428,7 +26500,7 @@
     },
     {
       "raw_hot": 206331,
-      "num": 206331,
+      "num": 246472,
       "word": "超实力版炸火花",
       "onboard_time": 1732109542,
       "rank": 37,
@@ -28443,14 +28515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197020,
-      "num": 273936,
-      "word": "不提麦琳两个字证明你看过再见爱人",
-      "onboard_time": 1732111703,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197009,
       "num": 233994,
       "word": "涵艺说Zeus得不到尊重",
@@ -28569,6 +28633,14 @@
       "onboard_time": 1730909538,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196553,
+      "num": 245844,
+      "word": "易烊千玺打麻将",
+      "onboard_time": 1732113441,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 196497,
@@ -28937,6 +29009,14 @@
       "onboard_time": 1731497542,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194506,
+      "num": 194506,
+      "word": "Ruler回归GEN",
+      "onboard_time": 1732113382,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 194435,
@@ -29385,14 +29465,6 @@
       "onboard_time": 1731493940,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192668,
-      "num": 192668,
-      "word": "日本队双削",
-      "onboard_time": 1732111821,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 192654,
@@ -29977,14 +30049,6 @@
       "onboard_time": 1731910939,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 190178,
-      "num": 419045,
-      "word": "女双 削球",
-      "onboard_time": 1732111522,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 190158,
@@ -30921,6 +30985,14 @@
       "onboard_time": 1730573178,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185408,
+      "num": 185408,
+      "word": "金价连跌近10%后二连涨",
+      "onboard_time": 1732112362,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 185336,
@@ -34217,6 +34289,14 @@
       "onboard_time": 1730851641,
       "rank": 34,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 169191,
+      "num": 248227,
+      "word": "张小斐 我属于晚间新闻",
+      "onboard_time": 1732112421,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 169162,
@@ -40699,14 +40779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141137,
-      "num": 141137,
-      "word": "白鹿走啦下次见爱你们",
-      "onboard_time": 1732112362,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141105,
       "num": 215024,
       "word": "奥斯卡参加TVB台庆",
@@ -42153,14 +42225,6 @@
       "onboard_time": 1732067958,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134410,
-      "num": 134410,
-      "word": "胖东来将不允许员工靠父母买房买车",
-      "onboard_time": 1732112421,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134371,
@@ -49403,6 +49467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94207,
+      "num": 444833,
+      "word": "关爱女性健康不能停留在营销口号中",
+      "onboard_time": 1732111642,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94107,
       "num": 936398,
       "word": "恶意差评法律不容",
@@ -49473,14 +49545,6 @@
       "onboard_time": 1731464839,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93221,
-      "num": 231314,
-      "word": "张小斐 我属于晚间新闻",
-      "onboard_time": 1732112421,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 93176,
@@ -50833,14 +50897,6 @@
       "onboard_time": 1731229699,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81651,
-      "num": 432077,
-      "word": "林高远林诗栋vs户上隼辅篠塚大登",
-      "onboard_time": 1732111881,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 81615,
@@ -54091,6 +54147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58511,
+      "num": 399620,
+      "word": "林高远林诗栋无缘男双四强",
+      "onboard_time": 1732113441,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58500,
       "num": 99614,
       "word": "赵小童在广东什么水平",
@@ -54433,14 +54497,6 @@
       "onboard_time": 1731194833,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56368,
-      "num": 444833,
-      "word": "关爱女性健康不能停留在营销口号中",
-      "onboard_time": 1732111642,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56332,
@@ -55841,6 +55897,14 @@
       "onboard_time": 1730928311,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49760,
+      "num": 395822,
+      "word": "约奇克感觉林高远有点紧张",
+      "onboard_time": 1732113082,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 49620,
@@ -59409,6 +59473,14 @@
       "onboard_time": 1730978243,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34518,
+      "num": 503938,
+      "word": "4分15秒见证中国载人航天传奇史",
+      "onboard_time": 1732109481,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 34502,
@@ -64171,14 +64243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20701,
-      "num": 503938,
-      "word": "4分15秒见证中国载人航天传奇史",
-      "onboard_time": 1732109481,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 20634,
       "num": 230522,
       "word": "无罪之身班底",
@@ -64532,7 +64596,7 @@
     },
     {
       "raw_hot": 19734,
-      "num": 577128,
+      "num": 948534,
       "word": "互联网之光点亮乌镇",
       "onboard_time": 1732109003,
       "rank": 2,

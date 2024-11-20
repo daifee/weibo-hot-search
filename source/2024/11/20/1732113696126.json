@@ -1,0 +1,410 @@
+{
+  "runTime": 1732113696126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1755298,
+        "num": 1755298,
+        "word": "国乒男队一轮游",
+        "onboard_time": 1732108221,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1032799,
+        "num": 1032799,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13691,
+        "num": 948534,
+        "word": "互联网之光点亮乌镇",
+        "onboard_time": 1732109003,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 918857,
+        "num": 918857,
+        "word": "孙颖莎王艺迪无缘女双四强",
+        "onboard_time": 1732111463,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717085,
+        "num": 717085,
+        "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+        "onboard_time": 1732105521,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519740,
+        "num": 519740,
+        "word": "胖东来宣布员工结婚酒席不超5桌",
+        "onboard_time": 1732105341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497867,
+        "num": 497867,
+        "word": "73岁王石独自带娃被偶遇",
+        "onboard_time": 1732109842,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 416635,
+        "num": 416635,
+        "word": "市药监局认定百雀羚不存在违规行为",
+        "onboard_time": 1732103841,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 327427,
+        "num": 415967,
+        "word": "虞书欣11个行李箱没白带",
+        "onboard_time": 1732099220,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279880,
+        "num": 409827,
+        "word": "奔跑吧全员都哭了",
+        "onboard_time": 1732101500,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2295332,
+        "num": 406146,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 704252,
+        "num": 404337,
+        "word": "关晓彤19岁就拿了白玉兰",
+        "onboard_time": 1732102878,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58511,
+        "num": 399620,
+        "word": "林高远林诗栋无缘男双四强",
+        "onboard_time": 1732113441,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49760,
+        "num": 395822,
+        "word": "约奇克感觉林高远有点紧张",
+        "onboard_time": 1732113082,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592164,
+        "num": 392852,
+        "word": "听泉鉴宝 徐志胜",
+        "onboard_time": 1732102940,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556706,
+        "num": 388205,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256932,
+        "num": 382960,
+        "word": "百雀羚否认化妆品添加禁用原料",
+        "onboard_time": 1732112182,
+        "rank": 16,
+        "category": "舆论监督,美妆"
+      },
+      {
+        "raw_hot": 464704,
+        "num": 381152,
+        "word": "宋仲基二胎出生",
+        "onboard_time": 1732098320,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343517,
+        "num": 375824,
+        "word": "不提麦琳两个字证明你看过再见爱人",
+        "onboard_time": 1732111703,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237386,
+        "num": 374282,
+        "word": "日本队双削",
+        "onboard_time": 1732111821,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371367,
+        "num": 371367,
+        "word": "林高远林诗栋vs户上隼辅篠塚大登",
+        "onboard_time": 1732111881,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334567,
+        "num": 334567,
+        "word": "小蜜蜂老师陷直播带货罗生门",
+        "onboard_time": 1732108641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331780,
+        "num": 331780,
+        "word": "张本智和跳APT庆祝",
+        "onboard_time": 1732107441,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306984,
+        "num": 306984,
+        "word": "HLE官宣Zeus加入",
+        "onboard_time": 1732109842,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248627,
+        "num": 248627,
+        "word": "董思成 受伤",
+        "onboard_time": 1732112602,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169191,
+        "num": 248227,
+        "word": "张小斐 我属于晚间新闻",
+        "onboard_time": 1732112421,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94207,
+        "num": 247667,
+        "word": "关爱女性健康不能停留在营销口号中",
+        "onboard_time": 1732111642,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255405,
+        "num": 247186,
+        "word": "方时赫瘦好多",
+        "onboard_time": 1732108940,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204957,
+        "num": 246472,
+        "word": "超实力版炸火花",
+        "onboard_time": 1732109542,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 196553,
+        "num": 245844,
+        "word": "易烊千玺打麻将",
+        "onboard_time": 1732113441,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245841,
+        "num": 245841,
+        "word": "林小姐你今天不嫁也得嫁",
+        "onboard_time": 1732104860,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238332,
+        "num": 238332,
+        "word": "女双 削球",
+        "onboard_time": 1732111522,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34518,
+        "num": 232393,
+        "word": "4分15秒见证中国载人航天传奇史",
+        "onboard_time": 1732109481,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230577,
+        "num": 230577,
+        "word": "女孩称川西徒步遭马夫猥亵",
+        "onboard_time": 1732113022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226477,
+        "num": 226477,
+        "word": "庾澄庆晒与老婆合照",
+        "onboard_time": 1732105880,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176660,
+        "num": 226256,
+        "word": "白夜破晓5集2个案子",
+        "onboard_time": 1732110382,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226079,
+        "num": 226079,
+        "word": "王皓抬头望天",
+        "onboard_time": 1732106000,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222977,
+        "num": 222977,
+        "word": "警方通报女子驾车碾压一倒地者致死",
+        "onboard_time": 1732113263,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 222620,
+        "num": 222620,
+        "word": "小狗离世前十分钟医师对它吐烟",
+        "onboard_time": 1732104740,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217674,
+        "num": 217674,
+        "word": "胖东来将不允许员工靠父母买房买车",
+        "onboard_time": 1732112421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208837,
+        "num": 208837,
+        "word": "白鹿走啦下次见爱你们",
+        "onboard_time": 1732112362,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200939,
+        "num": 200939,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194506,
+        "num": 194506,
+        "word": "Ruler回归GEN",
+        "onboard_time": 1732113382,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187901,
+        "num": 187901,
+        "word": "东部战区陆军某旅开展浮桥架设演练",
+        "onboard_time": 1732105402,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 185408,
+        "num": 185408,
+        "word": "金价连跌近10%后二连涨",
+        "onboard_time": 1732112362,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160948,
+        "num": 160948,
+        "word": "男士卫生巾",
+        "onboard_time": 1732095200,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151991,
+        "num": 151991,
+        "word": "减重版司美格鲁肽已上架开售",
+        "onboard_time": 1732108401,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142225,
+        "num": 142225,
+        "word": "家长曝育儿嫂给婴儿喂安眠药",
+        "onboard_time": 1732108401,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 140289,
+        "num": 140289,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120848,
+        "num": 140283,
+        "word": "原来华妃年轻时也像纯元",
+        "onboard_time": 1732099400,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
