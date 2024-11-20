@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732123269028,
+  "endTime": 1732124357554,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -47947,6 +47947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105936,
+      "num": 105936,
+      "word": "巴西歌手中文演唱我的祖国",
+      "onboard_time": 1732121176,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105930,
       "num": 329557,
       "word": "魏大勋新剧社交0帧起手",
@@ -50921,14 +50929,6 @@
       "onboard_time": 1732090581,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82983,
-      "num": 82983,
-      "word": "巴西歌手中文演唱我的祖国",
-      "onboard_time": 1732121176,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 82928,
@@ -58099,6 +58099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40712,
+      "num": 82977,
+      "word": "朱志鑫自拍视角vs他拍视角",
+      "onboard_time": 1732119077,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40646,
       "num": 286356,
       "word": "黑神话没提最佳音乐",
@@ -59265,6 +59273,14 @@
       "onboard_time": 1731053720,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 36544,
+      "num": 76665,
+      "word": "周鸿祎回应有企业家看不起企业家带货",
+      "onboard_time": 1732123454,
+      "rank": 9,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 36497,
@@ -61235,6 +61251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30558,
+      "num": 30558,
+      "word": "日本发生5级地震东京有明显震感",
+      "onboard_time": 1732123873,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 30541,
       "num": 279625,
       "word": "扫码领礼物背后有什么风险",
@@ -62073,14 +62097,6 @@
       "onboard_time": 1730815404,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27942,
-      "num": 82977,
-      "word": "朱志鑫自拍视角vs他拍视角",
-      "onboard_time": 1732119077,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 27934,
@@ -65929,6 +65945,14 @@
       "onboard_time": 1731608472,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16421,
+      "num": 69519,
+      "word": "卓沅冬天记得添衣",
+      "onboard_time": 1732123754,
+      "rank": 19,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 16363,
