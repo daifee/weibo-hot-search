@@ -1,0 +1,410 @@
+{
+  "runTime": 1732076911426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 995380,
+        "num": 1159260,
+        "word": "关宏峰被抓2小时7年后才放出来",
+        "onboard_time": 1732074500,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 773795,
+        "num": 773795,
+        "word": "百雀羚回应",
+        "onboard_time": 1732069816,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 39117,
+        "num": 761274,
+        "word": "2024世界互联网大会乌镇峰会开幕",
+        "onboard_time": 1732072700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752073,
+        "num": 752073,
+        "word": "何同学抄袭风波原作者发声",
+        "onboard_time": 1732070238,
+        "rank": 3,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 646614,
+        "num": 646614,
+        "word": "卫生巾偷工减料压缩的不是成本是口碑",
+        "onboard_time": 1732073540,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 477507,
+        "num": 477507,
+        "word": "杨幂和胡歌之间只差5个key",
+        "onboard_time": 1732071499,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 450348,
+        "num": 450348,
+        "word": "酒店针孔摄像头安装工佣金上万元",
+        "onboard_time": 1732068017,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 408071,
+        "num": 408071,
+        "word": "广州拟将低使用率男厕改为无性别公厕",
+        "onboard_time": 1732069938,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350337,
+        "num": 350337,
+        "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+        "onboard_time": 1732036454,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327979,
+        "num": 327979,
+        "word": "31岁985毕业国企设计师坠亡",
+        "onboard_time": 1732076600,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1958571,
+        "num": 324496,
+        "word": "女子分手20年前男友突然出现在房本",
+        "onboard_time": 1732073237,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1542311,
+        "num": 320273,
+        "word": "单亲妈妈做试管婴儿送外卖途中早产",
+        "onboard_time": 1732069878,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1116966,
+        "num": 313599,
+        "word": "曾轶可长发",
+        "onboard_time": 1732075639,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46613,
+        "num": 310862,
+        "word": "三页纸的戏宋佳拍了100多条",
+        "onboard_time": 1732075340,
+        "rank": 13,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 641436,
+        "num": 306932,
+        "word": "Doinb老头杯下跪道歉",
+        "onboard_time": 1732073299,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 586018,
+        "num": 299235,
+        "word": "王大发说丁禹兮火不久",
+        "onboard_time": 1732059196,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 504862,
+        "num": 295579,
+        "word": "因果报应 复仇爽片",
+        "onboard_time": 1732076661,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138962,
+        "num": 291675,
+        "word": "双关生日",
+        "onboard_time": 1732076479,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353851,
+        "num": 283672,
+        "word": "男子欺负卖花母子事件反转当事人发声",
+        "onboard_time": 1732075399,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42562,
+        "num": 278338,
+        "word": "王源V中文版封面预告",
+        "onboard_time": 1732076600,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361278,
+        "num": 272612,
+        "word": "家长吐槽10元配餐简陋孩子吃不饱",
+        "onboard_time": 1732059437,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271018,
+        "num": 271018,
+        "word": "下班后最轻松的副业",
+        "onboard_time": 1732062319,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266024,
+        "num": 266024,
+        "word": "耳帝发长文谈麦琳",
+        "onboard_time": 1732067479,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249986,
+        "num": 249986,
+        "word": "国足所在小组彻底乱了",
+        "onboard_time": 1732032859,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249781,
+        "num": 249781,
+        "word": "花16万治前列腺炎后得知不吃药能好",
+        "onboard_time": 1732063519,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 208715,
+        "num": 208715,
+        "word": "冒充未成年人游戏退费或涉嫌诈骗",
+        "onboard_time": 1732075100,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205209,
+        "num": 205209,
+        "word": "Hanni受职场霸凌信访被驳回",
+        "onboard_time": 1732066459,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202245,
+        "num": 202245,
+        "word": "MAMA出发图",
+        "onboard_time": 1732073718,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199412,
+        "num": 199412,
+        "word": "丁禹兮之前回复粉丝",
+        "onboard_time": 1732070598,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69721,
+        "num": 196460,
+        "word": "奔跑吧把壮丽山河具象化了",
+        "onboard_time": 1732076000,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196013,
+        "num": 196013,
+        "word": "安静公主 迪士尼",
+        "onboard_time": 1732074859,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195284,
+        "num": 195284,
+        "word": "北京儿童医院夜诊排了近600号",
+        "onboard_time": 1732073958,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194763,
+        "num": 194763,
+        "word": "李晨张真源辈分乱套了",
+        "onboard_time": 1732076120,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190676,
+        "num": 190676,
+        "word": "ABC卫生巾",
+        "onboard_time": 1732028541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94517,
+        "num": 188031,
+        "word": "偷拍神器买卖不能屡禁不绝",
+        "onboard_time": 1732074739,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 187274,
+        "num": 187274,
+        "word": "雅加达不再为印尼首都",
+        "onboard_time": 1732061418,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181835,
+        "num": 181835,
+        "word": "A股迎来两大信号",
+        "onboard_time": 1732076360,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172420,
+        "num": 172420,
+        "word": "我恋6康奶馨cp返场亲了",
+        "onboard_time": 1732075639,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168397,
+        "num": 168397,
+        "word": "专家称伤人老虎或来自俄罗斯",
+        "onboard_time": 1732062020,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 167301,
+        "num": 167301,
+        "word": "奔跑吧茶马古道篇",
+        "onboard_time": 1732075340,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167064,
+        "num": 167064,
+        "word": "白夜破晓开播",
+        "onboard_time": 1732060999,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152145,
+        "num": 152145,
+        "word": "华为官宣MateX6",
+        "onboard_time": 1732066459,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 150495,
+        "word": "卢伟冰吐槽友商三千的空调卖两万",
+        "onboard_time": 1732076779,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146429,
+        "num": 146429,
+        "word": "上海迪士尼12月23日起实名制购票",
+        "onboard_time": 1732076841,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144051,
+        "num": 144051,
+        "word": "5年期和1年期LPR均维持不变",
+        "onboard_time": 1732073299,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143087,
+        "num": 143087,
+        "word": "漾漾 丁飞俊",
+        "onboard_time": 1732065078,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 142868,
+        "word": "男生看见雷军直接递上简历",
+        "onboard_time": 1732059076,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139209,
+        "num": 139209,
+        "word": "时代少年团世界儿童日主题歌",
+        "onboard_time": 1732075940,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137932,
+        "num": 137932,
+        "word": "Zeus曾和T1一度断联",
+        "onboard_time": 1732068138,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137717,
+        "num": 137717,
+        "word": "小蜜蜂老师称家长找自己一起带货",
+        "onboard_time": 1732075520,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
