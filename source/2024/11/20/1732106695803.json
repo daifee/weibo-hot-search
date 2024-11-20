@@ -1,0 +1,410 @@
+{
+  "runTime": 1732106695803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 850459,
+        "num": 1136073,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1732103299,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745938,
+        "num": 745938,
+        "word": "钟睒睒不建议长期喝绿瓶水",
+        "onboard_time": 1732104740,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56561,
+        "num": 586163,
+        "word": "互鉴",
+        "onboard_time": 1732093161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 428675,
+        "num": 428675,
+        "word": "市药监局认定百雀羚不存在违规行为",
+        "onboard_time": 1732103841,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 369916,
+        "num": 369916,
+        "word": "虞书欣11个行李箱没白带",
+        "onboard_time": 1732099220,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535833,
+        "num": 369743,
+        "word": "钟睒睒回应儿子是否为美国籍",
+        "onboard_time": 1732099040,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 369120,
+        "num": 369120,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363537,
+        "num": 363537,
+        "word": "梁靖崑1比3张本智和",
+        "onboard_time": 1732105161,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357567,
+        "num": 357567,
+        "word": "央视起底水军运作完整黑产链",
+        "onboard_time": 1732100420,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 324340,
+        "num": 324340,
+        "word": "奔跑吧全员都哭了",
+        "onboard_time": 1732101500,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2737177,
+        "num": 310055,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1174885,
+        "num": 300959,
+        "word": "关晓彤19岁就拿了白玉兰",
+        "onboard_time": 1732102878,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274708,
+        "num": 274708,
+        "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+        "onboard_time": 1732105521,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 768781,
+        "num": 274298,
+        "word": "听泉鉴宝 徐志胜",
+        "onboard_time": 1732102940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14191,
+        "num": 273708,
+        "word": "白夜破晓的后期改到导演一直量血压",
+        "onboard_time": 1732106541,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676591,
+        "num": 272802,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 615657,
+        "num": 272622,
+        "word": "胖东来宣布员工结婚酒席不超5桌",
+        "onboard_time": 1732105341,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576588,
+        "num": 271961,
+        "word": "宋仲基二胎出生",
+        "onboard_time": 1732098320,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293680,
+        "num": 271110,
+        "word": "王皓抬头望天",
+        "onboard_time": 1732106000,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270784,
+        "num": 270784,
+        "word": "林小姐你今天不嫁也得嫁",
+        "onboard_time": 1732104860,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221762,
+        "num": 270630,
+        "word": "东部战区陆军某旅开展浮桥架设演练",
+        "onboard_time": 1732105402,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 315888,
+        "num": 269977,
+        "word": "小狗离世前十分钟医师对它吐烟",
+        "onboard_time": 1732104740,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271706,
+        "num": 269929,
+        "word": "男士卫生巾",
+        "onboard_time": 1732095200,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227268,
+        "num": 269124,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140420,
+        "num": 268769,
+        "word": "东部战区搭桥速度也太快了",
+        "onboard_time": 1732106481,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 163407,
+        "num": 268476,
+        "word": "白夜破晓",
+        "onboard_time": 1732106302,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156096,
+        "num": 267902,
+        "word": "原来华妃年轻时也像纯元",
+        "onboard_time": 1732099400,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77362,
+        "num": 267854,
+        "word": "澳科大食堂偶遇向佐",
+        "onboard_time": 1732104620,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21176,
+        "num": 267278,
+        "word": "贾樟柯谈头部电影变少",
+        "onboard_time": 1732105761,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69589,
+        "num": 266660,
+        "word": "对话赵露思",
+        "onboard_time": 1732104981,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316146,
+        "num": 266319,
+        "word": "庾澄庆晒与老婆合照",
+        "onboard_time": 1732105880,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266206,
+        "num": 266206,
+        "word": "惠英红夸赵丽颖",
+        "onboard_time": 1732103539,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252055,
+        "num": 252055,
+        "word": "两警察私带警用装备跨省抓人索财",
+        "onboard_time": 1732098561,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233173,
+        "num": 233173,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205737,
+        "num": 205737,
+        "word": "李子柒木活字师傅一套作品卖22万元",
+        "onboard_time": 1732103118,
+        "rank": 34,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 170405,
+        "num": 170405,
+        "word": "林一支支吾吾 沈月脱口而出",
+        "onboard_time": 1732105461,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162469,
+        "num": 162469,
+        "word": "19岁孤儿被骗到郑州4天没吃没喝",
+        "onboard_time": 1732095799,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159438,
+        "num": 159438,
+        "word": "孙颖莎第一副球拍4块钱",
+        "onboard_time": 1732106000,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149517,
+        "num": 149517,
+        "word": "WTT福冈总决赛",
+        "onboard_time": 1732100300,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146669,
+        "num": 146669,
+        "word": "周鸿祎卖掉迈巴赫买了12辆国产车",
+        "onboard_time": 1732099160,
+        "rank": 39,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 146469,
+        "num": 146469,
+        "word": "杨仕泽在祝绪丹进直播后秒变脸",
+        "onboard_time": 1732095500,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143339,
+        "num": 143339,
+        "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+        "onboard_time": 1732098141,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142442,
+        "num": 142442,
+        "word": "Zeus道歉",
+        "onboard_time": 1732093579,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139838,
+        "num": 139838,
+        "word": "钟睒睒称儿子一分股权都没有",
+        "onboard_time": 1732101680,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139763,
+        "num": 139763,
+        "word": "猎罪图鉴",
+        "onboard_time": 1732099820,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130473,
+        "num": 130473,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125315,
+        "num": 125315,
+        "word": "永夜星河强制爱花絮",
+        "onboard_time": 1732102039,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47735,
+        "num": 119397,
+        "word": "梁靖崑无缘男单八强",
+        "onboard_time": 1732105222,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118455,
+        "num": 118455,
+        "word": "让我爆哭的综艺又回来了",
+        "onboard_time": 1732096701,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113536,
+        "num": 113536,
+        "word": "这赛道莎莎强得可怕",
+        "onboard_time": 1732098260,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}

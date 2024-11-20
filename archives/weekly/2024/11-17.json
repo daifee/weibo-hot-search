@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732102559707,
+  "endTime": 1732106695803,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -57,6 +57,14 @@
       "onboard_time": 1731923419,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2737177,
+      "num": 310055,
+      "word": "遭多人强奸智残女子家中装7个监控",
+      "onboard_time": 1732105222,
+      "rank": 10,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2694028,
@@ -523,6 +531,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1174885,
+      "num": 300959,
+      "word": "关晓彤19岁就拿了白玉兰",
+      "onboard_time": 1732102878,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1155150,
       "num": 380707,
       "word": "夫妻花19万去南极想睡一间房被拒",
@@ -971,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 850459,
+      "num": 1136073,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1732100120,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 847930,
       "num": 395833,
       "word": "周润发说权志龙变靓女了",
@@ -1243,6 +1267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 768781,
+      "num": 274298,
+      "word": "听泉鉴宝 徐志胜",
+      "onboard_time": 1732102940,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766378,
       "num": 414611,
       "word": "无孩爱猫女",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1732059437,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 745938,
+      "num": 745938,
+      "word": "钟睒睒不建议长期喝绿瓶水",
+      "onboard_time": 1732104740,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 745774,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1731811459,
       "rank": 24,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 615657,
+      "num": 272622,
+      "word": "胖东来宣布员工结婚酒席不超5桌",
+      "onboard_time": 1732105341,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614831,
@@ -2539,6 +2587,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 428675,
+      "num": 428675,
+      "word": "市药监局认定百雀羚不存在违规行为",
+      "onboard_time": 1732103841,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 428180,
       "num": 391488,
       "word": "禹宙中欣cp超话榜TOP1",
@@ -3011,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363537,
+      "num": 363537,
+      "word": "梁靖崑1比3张本智和",
+      "onboard_time": 1732105161,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362834,
       "num": 362834,
       "word": "妙声吻戏 借位",
@@ -3251,6 +3315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324340,
+      "num": 324340,
+      "word": "奔跑吧全员都哭了",
+      "onboard_time": 1732101500,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324268,
       "num": 330908,
       "word": "丁禹兮同款扁头",
@@ -3315,12 +3387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316146,
+      "num": 266319,
+      "word": "庾澄庆晒与老婆合照",
+      "onboard_time": 1732105880,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315930,
       "num": 348282,
       "word": "麦琳 美环花子",
       "onboard_time": 1732027042,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315888,
+      "num": 269977,
+      "word": "小狗离世前十分钟医师对它吐烟",
+      "onboard_time": 1732104740,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 315346,
@@ -3531,14 +3619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294198,
-      "num": 248827,
-      "word": "奔跑吧全员都哭了",
-      "onboard_time": 1732101500,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294124,
       "num": 294124,
       "word": "去有风的地方获五个一工程奖",
@@ -3553,6 +3633,14 @@
       "onboard_time": 1731833899,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 293680,
+      "num": 271110,
+      "word": "王皓抬头望天",
+      "onboard_time": 1732106000,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 293461,
@@ -3795,6 +3883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274708,
+      "num": 274708,
+      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+      "onboard_time": 1732105521,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273784,
       "num": 321664,
       "word": "丁禹兮活该你红",
@@ -3857,6 +3953,14 @@
       "onboard_time": 1731798793,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270784,
+      "num": 270784,
+      "word": "林小姐你今天不嫁也得嫁",
+      "onboard_time": 1732104860,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 270747,
@@ -3929,6 +4033,14 @@
       "onboard_time": 1731861017,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 266206,
+      "num": 266206,
+      "word": "惠英红夸赵丽颖",
+      "onboard_time": 1732103539,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 265397,
@@ -4660,7 +4772,7 @@
     },
     {
       "raw_hot": 222234,
-      "num": 259587,
+      "num": 267902,
       "word": "原来华妃年轻时也像纯元",
       "onboard_time": 1732099400,
       "rank": 48,
@@ -4689,6 +4801,14 @@
       "onboard_time": 1732077380,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221762,
+      "num": 270630,
+      "word": "东部战区陆军某旅开展浮桥架设演练",
+      "onboard_time": 1732105402,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 221675,
@@ -5073,6 +5193,14 @@
       "onboard_time": 1731986059,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205737,
+      "num": 205737,
+      "word": "李子柒木活字师傅一套作品卖22万元",
+      "onboard_time": 1732103118,
+      "rank": 34,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 205129,
@@ -6659,6 +6787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170405,
+      "num": 170405,
+      "word": "林一支支吾吾 沈月脱口而出",
+      "onboard_time": 1732105461,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170135,
       "num": 177139,
       "word": "一个人改造爸妈住了30年的卧室",
@@ -7113,6 +7249,14 @@
       "onboard_time": 1731937641,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 159438,
+      "num": 159438,
+      "word": "孙颖莎第一副球拍4块钱",
+      "onboard_time": 1732106000,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 159418,
@@ -8051,6 +8195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140420,
+      "num": 268769,
+      "word": "东部战区搭桥速度也太快了",
+      "onboard_time": 1732106481,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 140382,
       "num": 140382,
       "word": "宋佳工作室 一种很新的出发图",
@@ -8089,6 +8241,14 @@
       "onboard_time": 1731987380,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 139838,
+      "num": 314683,
+      "word": "钟睒睒称儿子一分股权都没有",
+      "onboard_time": 1732101680,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 139622,
@@ -9579,14 +9739,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 96095,
-      "num": 314683,
-      "word": "钟睒睒称儿子一分股权都没有",
-      "onboard_time": 1732101680,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 95994,
       "num": 95994,
       "word": "06年男生当小学老师的一天",
@@ -10051,6 +10203,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 77362,
+      "num": 267854,
+      "word": "澳科大食堂偶遇向佐",
+      "onboard_time": 1732104620,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77146,
       "num": 218109,
       "word": "张含韵辟谣南烟斋笔录加戏",
@@ -10305,6 +10465,14 @@
       "onboard_time": 1732076000,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69589,
+      "num": 266660,
+      "word": "对话赵露思",
+      "onboard_time": 1732104981,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 68861,
@@ -11235,6 +11403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47735,
+      "num": 119397,
+      "word": "梁靖崑无缘男单八强",
+      "onboard_time": 1732105222,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47617,
       "num": 47617,
       "word": "美议员推动调查马斯克与俄通信",
@@ -11905,14 +12081,6 @@
       "onboard_time": 1732008021,
       "rank": 34,
       "category": "作品衍生,作品衍生"
-    },
-    {
-      "raw_hot": 34339,
-      "num": 263430,
-      "word": "梁靖崑vs张本智和",
-      "onboard_time": 1732100120,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 34238,
@@ -12955,6 +13123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21176,
+      "num": 267278,
+      "word": "贾樟柯谈头部电影变少",
+      "onboard_time": 1732105761,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21045,
       "num": 27074,
       "word": "张杰要得第三篇章预告",
@@ -13417,6 +13593,14 @@
       "onboard_time": 1731791831,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14191,
+      "num": 273708,
+      "word": "白夜破晓的后期改到导演一直量血压",
+      "onboard_time": 1732106541,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 13744,
