@@ -1,10 +1,10 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732085164460,
+  "endTime": 1732087350257,
   "band_list": [
     {
       "raw_hot": 2313016,
-      "num": 391388,
+      "num": 451852,
       "word": "单亲妈妈做试管婴儿送外卖途中早产",
       "onboard_time": 1732069878,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1484456,
-      "num": 419158,
+      "num": 449765,
       "word": "曾轶可长发",
       "onboard_time": 1732075639,
       "rank": 12,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1334697,
-      "num": 359428,
+      "num": 452380,
       "word": "邻居为麦琳发声",
       "onboard_time": 1732078104,
       "rank": 10,
@@ -67,8 +67,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1214019,
+      "num": 1214019,
+      "word": "跑男变走男",
+      "onboard_time": 1732084279,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1141624,
-      "num": 327994,
+      "num": 344999,
       "word": "72岁老人谈恋爱女友被女儿打",
       "onboard_time": 1732082659,
       "rank": 11,
@@ -97,6 +105,14 @@
       "onboard_time": 1732028600,
       "rank": 0,
       "category": "数码,网红"
+    },
+    {
+      "raw_hot": 1044042,
+      "num": 638454,
+      "word": "29岁抗癌博主一只羊吖去世",
+      "onboard_time": 1732086261,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 995380,
@@ -163,12 +179,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 802563,
+      "num": 464368,
+      "word": "花少6你早这么剪不就没事了",
+      "onboard_time": 1732084099,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 795458,
       "num": 795458,
       "word": "酒店针孔摄像头安装工佣金上万元",
       "onboard_time": 1732068017,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 776109,
+      "num": 461317,
+      "word": "费启鸣资源",
+      "onboard_time": 1732085000,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 752114,
@@ -240,6 +272,22 @@
       "word": "雅加达不再为印尼首都",
       "onboard_time": 1732061418,
       "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 639130,
+      "num": 639130,
+      "word": "俄军在境内打死一名美军游骑兵",
+      "onboard_time": 1732085539,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 638181,
+      "num": 638181,
+      "word": "中方在联合国点名一个常任理事国",
+      "onboard_time": 1732085778,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -340,7 +388,7 @@
     },
     {
       "raw_hot": 481075,
-      "num": 321292,
+      "num": 328178,
       "word": "闵熙珍取关NewJeans",
       "onboard_time": 1732082300,
       "rank": 16,
@@ -361,6 +409,14 @@
       "onboard_time": 1732047370,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471739,
+      "num": 471739,
+      "word": "这些症状是心脏在求救",
+      "onboard_time": 1732084518,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 447425,
@@ -409,6 +465,14 @@
       "onboard_time": 1732066459,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384052,
+      "num": 467539,
+      "word": "林高远0比3达科",
+      "onboard_time": 1732086080,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 383052,
@@ -467,14 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 340334,
-      "num": 319028,
-      "word": "花少6你早这么剪不就没事了",
-      "onboard_time": 1732084099,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 337396,
       "num": 491286,
       "word": "海关截获超9000吨洋垃圾",
@@ -499,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319135,
+      "num": 319135,
+      "word": "虞书欣五大女刊首秀",
+      "onboard_time": 1732085599,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 314064,
       "num": 314064,
       "word": "百雀羚年内线上销售额近3亿元",
       "onboard_time": 1732080680,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311091,
+      "num": 311091,
+      "word": "林高远止步总决赛16强",
+      "onboard_time": 1732086620,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 310933,
@@ -540,7 +612,7 @@
     },
     {
       "raw_hot": 276206,
-      "num": 276206,
+      "num": 311348,
       "word": "赵露思新剧恋人路透造型",
       "onboard_time": 1732084040,
       "rank": 26,
@@ -619,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240124,
+      "num": 240124,
+      "word": "济南推出把子肉公交卡",
+      "onboard_time": 1732084160,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233085,
       "num": 255973,
       "word": "白鹿给粉丝准备的逆应援",
@@ -673,14 +753,6 @@
       "onboard_time": 1732077380,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221649,
-      "num": 317314,
-      "word": "跑男变走男",
-      "onboard_time": 1732084279,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 220203,
@@ -739,12 +811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207723,
+      "num": 207723,
+      "word": "吴谨言模仿赵小棠跳顶碗舞",
+      "onboard_time": 1732086199,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207671,
       "num": 207671,
       "word": "吉林一高校倡导女生主动微笑点头",
       "onboard_time": 1732060879,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206057,
+      "num": 206057,
+      "word": "月光变奏曲新图",
+      "onboard_time": 1732085421,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 204701,
@@ -827,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192852,
+      "num": 233994,
+      "word": "涵艺说Zeus得不到尊重",
+      "onboard_time": 1732084701,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191675,
       "num": 191675,
       "word": "90多岁村民第一次听说老虎进村",
@@ -849,14 +945,6 @@
       "onboard_time": 1732059377,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 191016,
-      "num": 191016,
-      "word": "济南推出把子肉公交卡",
-      "onboard_time": 1732084160,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190731,
@@ -915,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183758,
-      "num": 183758,
-      "word": "这些症状是心脏在求救",
-      "onboard_time": 1732084518,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183729,
       "num": 183729,
       "word": "国足进球了",
@@ -945,6 +1025,14 @@
       "onboard_time": 1732028303,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182397,
+      "num": 182397,
+      "word": "向鹏袁励岑0比3冯耀恩郭勇",
+      "onboard_time": 1732086199,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 180785,
@@ -1011,14 +1099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 174787,
-      "num": 174787,
-      "word": "费启鸣资源",
-      "onboard_time": 1732085000,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174662,
       "num": 174662,
       "word": "副镇长陪外卖员跑单全程跟不上",
@@ -1049,6 +1129,22 @@
       "onboard_time": 1732067839,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 168342,
+      "num": 168342,
+      "word": "医院CT等收费将执行新规",
+      "onboard_time": 1732086920,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 167716,
+      "num": 167716,
+      "word": "黄圣依疑似失去所有手段和力气",
+      "onboard_time": 1732086500,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 167301,
@@ -1099,20 +1195,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157547,
+      "num": 157547,
+      "word": "一个国家一再否决导致安理会软弱无能",
+      "onboard_time": 1732086799,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157485,
       "num": 157485,
       "word": "克内克特单节21分",
       "onboard_time": 1732082240,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154762,
-      "num": 233994,
-      "word": "涵艺说Zeus得不到尊重",
-      "onboard_time": 1732084701,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 153833,
@@ -1144,6 +1240,14 @@
       "word": "张真源 我永远忘不掉这几天的日子",
       "onboard_time": 1732080921,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149862,
+      "num": 306536,
+      "word": "花少6 黑暗荣耀",
+      "onboard_time": 1732084759,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1219,12 +1323,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141770,
+      "num": 303797,
+      "word": "央视镜头下的丁禹兮",
+      "onboard_time": 1732087279,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141105,
       "num": 215024,
       "word": "奥斯卡参加TVB台庆",
       "onboard_time": 1732034236,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141050,
+      "num": 459342,
+      "word": "王楚钦 我比赛打的真挺少的",
+      "onboard_time": 1732086080,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 140701,
@@ -1475,6 +1595,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 109603,
+      "num": 457448,
+      "word": "多给女性增加厕所坑位有多难",
+      "onboard_time": 1732086019,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108123,
       "num": 108123,
       "word": "T1",
@@ -1595,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89193,
+      "num": 291998,
+      "word": "人口老龄化养活了哪些新产业",
+      "onboard_time": 1732086261,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88825,
       "num": 88825,
       "word": "张真源微醺了",
@@ -1691,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75662,
+      "num": 465980,
+      "word": "信贷主管挪用1866万赌球判缓刑",
+      "onboard_time": 1732086261,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 75393,
       "num": 370454,
       "word": "王源V中文版封面预告",
@@ -1705,14 +1849,6 @@
       "onboard_time": 1732072700,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 73167,
-      "num": 181325,
-      "word": "花少6 黑暗荣耀",
-      "onboard_time": 1732084759,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 70847,
@@ -1883,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44199,
+      "num": 280449,
+      "word": "是枝裕和 中国观众值得双向奔赴",
+      "onboard_time": 1732085599,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43772,
       "num": 213916,
       "word": "马嘉祺光影侧颜",
@@ -1955,6 +2099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34189,
+      "num": 454654,
+      "word": "村小5年间一年级人数从21人减至7人",
+      "onboard_time": 1732086980,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33360,
+      "num": 301089,
+      "word": "纽约要求市民减少洗澡次数",
+      "onboard_time": 1732086320,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31591,
       "num": 137284,
       "word": "王源明年见晚安",
@@ -2001,6 +2161,14 @@
       "onboard_time": 1732044971,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26665,
+      "num": 282999,
+      "word": "在郑州邂逅一场诗词盛宴",
+      "onboard_time": 1732086559,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 24904,
