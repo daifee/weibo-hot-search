@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732099415939,
+  "endTime": 1732101591588,
   "band_list": [
     {
       "raw_hot": 2602429,
@@ -107,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1243338,
+      "num": 282696,
+      "word": "杀人凶手出狱后在受害者家门口大摆宴席",
+      "onboard_time": 1732097660,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1141624,
       "num": 344999,
       "word": "72岁老人谈恋爱女友被女儿打",
       "onboard_time": 1732082659,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1140610,
+      "num": 369019,
+      "word": "宋仲基二胎出生",
+      "onboard_time": 1732098320,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1107133,
@@ -243,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 799166,
-      "num": 222082,
-      "word": "杀人凶手出狱后在受害者家门口大摆宴席",
-      "onboard_time": 1732097660,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 796645,
       "num": 796645,
       "word": "中方在联合国点名一个常任理事国",
@@ -267,6 +275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 778078,
+      "num": 282658,
+      "word": "钟睒睒回应儿子是否为美国籍",
+      "onboard_time": 1732099040,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 776109,
       "num": 461317,
       "word": "费启鸣资源",
@@ -281,14 +297,6 @@
       "onboard_time": 1732059437,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 748979,
-      "num": 369019,
-      "word": "宋仲基二胎出生",
-      "onboard_time": 1732098320,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 744756,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 653715,
-      "num": 653715,
+      "num": 1071940,
       "word": "花少后期 终于是癫了",
       "onboard_time": 1732090459,
       "rank": 13,
@@ -465,6 +473,14 @@
       "onboard_time": 1732090521,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539810,
+      "num": 282570,
+      "word": "虞书欣11个行李箱没白带",
+      "onboard_time": 1732099220,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 520677,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 438337,
-      "num": 343467,
+      "num": 406794,
       "word": "19岁孤儿被骗到郑州4天没吃没喝",
       "onboard_time": 1732095799,
       "rank": 23,
@@ -625,6 +641,14 @@
       "onboard_time": 1732063099,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401389,
+      "num": 334922,
+      "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+      "onboard_time": 1732098141,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 399546,
@@ -739,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334922,
-      "num": 334922,
-      "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
-      "onboard_time": 1732098141,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331572,
       "num": 278717,
       "word": "男生看见雷军直接递上简历",
@@ -841,6 +857,14 @@
       "onboard_time": 1732070598,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282464,
+      "num": 282464,
+      "word": "两警察私带警用装备跨省抓人索财",
+      "onboard_time": 1732098561,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276206,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222200,
+      "num": 222200,
+      "word": "潘粤明为保持身形几乎不吃晚饭",
+      "onboard_time": 1732100540,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222066,
       "num": 340352,
       "word": "张含韵 没加过戏",
@@ -1019,12 +1051,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220957,
+      "num": 282741,
+      "word": "央视起底水军运作完整黑产链",
+      "onboard_time": 1732100420,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 220203,
       "num": 220203,
       "word": "白夜追凶法医姐姐呢",
       "onboard_time": 1732081101,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219290,
+      "num": 219290,
+      "word": "周鸿祎卖掉迈巴赫买了12辆国产车",
+      "onboard_time": 1732099160,
+      "rank": 44,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 218031,
@@ -1059,6 +1107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 213760,
+      "num": 259587,
+      "word": "原来华妃年轻时也像纯元",
+      "onboard_time": 1732099400,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213528,
       "num": 213528,
       "word": "雷军喊话欢迎大家投递简历",
@@ -1073,14 +1129,6 @@
       "onboard_time": 1732082119,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211671,
-      "num": 211671,
-      "word": "两警察私带警用装备跨省抓人索财",
-      "onboard_time": 1732098561,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210092,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1732066818,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203580,
+      "num": 276406,
+      "word": "易烊千玺云螭二四逴跞山极",
+      "onboard_time": 1732100600,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 203555,
@@ -1283,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194026,
-      "num": 194026,
-      "word": "钟睒睒回应儿子是否为美国籍",
-      "onboard_time": 1732099040,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193541,
       "num": 193541,
       "word": "内耗的人永远在保护别人伤害自己",
@@ -1339,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189200,
-      "num": 189200,
-      "word": "虞书欣11个行李箱没白带",
-      "onboard_time": 1732099220,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188911,
       "num": 264120,
       "word": "丁禹兮这次火是一种必然",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1732078581,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 188267,
+      "num": 188267,
+      "word": "WTT福冈总决赛",
+      "onboard_time": 1732100300,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 187962,
@@ -1571,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169146,
-      "num": 169146,
-      "word": "周鸿祎卖掉迈巴赫买了12辆国产车",
-      "onboard_time": 1732099160,
-      "rank": 44,
-      "category": "汽车,互联网"
-    },
-    {
       "raw_hot": 169055,
       "num": 169055,
       "word": "95后女孩带77岁父亲穿汉服欧洲炸街",
@@ -1651,20 +1691,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159784,
+      "num": 159784,
+      "word": "钟睒睒说会一直等张一鸣道歉",
+      "onboard_time": 1732099280,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 157485,
       "num": 157485,
       "word": "克内克特单节21分",
       "onboard_time": 1732082240,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154122,
-      "num": 154122,
-      "word": "钟睒睒说会一直等张一鸣道歉",
-      "onboard_time": 1732099280,
-      "rank": 45,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 153847,
@@ -1681,6 +1721,14 @@
       "onboard_time": 1732080141,
       "rank": 46,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 152988,
+      "num": 152988,
+      "word": "猎罪图鉴",
+      "onboard_time": 1732099820,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 151690,
@@ -1753,6 +1801,14 @@
       "onboard_time": 1732083079,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148202,
+      "num": 148202,
+      "word": "奔跑吧全员都哭了",
+      "onboard_time": 1732101500,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 147927,
@@ -1833,14 +1889,6 @@
       "onboard_time": 1732089380,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141340,
-      "num": 141340,
-      "word": "原来华妃年轻时也像纯元",
-      "onboard_time": 1732099400,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 141105,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1732077921,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128229,
+      "num": 128229,
+      "word": "张本美和vs田志希",
+      "onboard_time": 1732101561,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128225,
@@ -2307,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90694,
+      "num": 237544,
+      "word": "白夜2还是那味儿",
+      "onboard_time": 1732100479,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90678,
       "num": 90678,
       "word": "往南走的麦子阿姨说放不下土地",
@@ -2595,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53361,
+      "num": 219664,
+      "word": "白夜破晓 剧王白月光回归",
+      "onboard_time": 1732100420,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53320,
       "num": 132841,
       "word": "朱志鑫19岁第一天有很多爱与陪伴",
@@ -2819,8 +2891,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34339,
+      "num": 263430,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1732100120,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33762,
-      "num": 187505,
+      "num": 220147,
       "word": "首个真无图智驾豪华品牌车型交付",
       "onboard_time": 1732098740,
       "rank": 38,
@@ -2905,6 +2985,14 @@
       "onboard_time": 1732087701,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 28221,
+      "num": 225203,
+      "word": "白夜追凶原班人马找回那个味儿",
+      "onboard_time": 1732100719,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 28133,
@@ -3019,6 +3107,14 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 22488,
+      "num": 282468,
+      "word": "郑钦文希望在国外喝到霸王茶姬",
+      "onboard_time": 1732099641,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21326,
       "num": 63441,
       "word": "这一刻爷爷的爱有了形状",
@@ -3081,6 +3177,14 @@
       "onboard_time": 1732053251,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16655,
+      "num": 277731,
+      "word": "小默在微博公开道歉具有法律效力",
+      "onboard_time": 1732101139,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 16560,

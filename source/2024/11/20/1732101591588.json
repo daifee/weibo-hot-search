@@ -1,0 +1,410 @@
+{
+  "runTime": 1732101591588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 449626,
+        "num": 1071940,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406794,
+        "num": 406794,
+        "word": "19岁孤儿被骗到郑州4天没吃没喝",
+        "onboard_time": 1732095799,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62630,
+        "num": 377775,
+        "word": "互鉴",
+        "onboard_time": 1732093161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475980,
+        "num": 377345,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374513,
+        "num": 374513,
+        "word": "让我爆哭的综艺又回来了",
+        "onboard_time": 1732096701,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336006,
+        "num": 336006,
+        "word": "Zeus道歉",
+        "onboard_time": 1732093579,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333413,
+        "num": 333413,
+        "word": "华为Mate70或将首发全新红枫摄像头",
+        "onboard_time": 1732097780,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303712,
+        "num": 303712,
+        "word": "流浪狗撞翻骑车人投喂者被判赔6万",
+        "onboard_time": 1732093340,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282758,
+        "num": 282758,
+        "word": "医院CT等收费将执行新规",
+        "onboard_time": 1732086920,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220957,
+        "num": 282741,
+        "word": "央视起底水军运作完整黑产链",
+        "onboard_time": 1732100420,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1243338,
+        "num": 282696,
+        "word": "杀人凶手出狱后在受害者家门口大摆宴席",
+        "onboard_time": 1732097660,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1140610,
+        "num": 282669,
+        "word": "宋仲基二胎出生",
+        "onboard_time": 1732098320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778078,
+        "num": 282658,
+        "word": "钟睒睒回应儿子是否为美国籍",
+        "onboard_time": 1732099040,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 686280,
+        "num": 282622,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 539810,
+        "num": 282570,
+        "word": "虞书欣11个行李箱没白带",
+        "onboard_time": 1732099220,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401389,
+        "num": 282551,
+        "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+        "onboard_time": 1732098141,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359931,
+        "num": 282503,
+        "word": "杨仕泽在祝绪丹进直播后秒变脸",
+        "onboard_time": 1732095500,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22488,
+        "num": 282468,
+        "word": "郑钦文希望在国外喝到霸王茶姬",
+        "onboard_time": 1732099641,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282464,
+        "num": 282464,
+        "word": "两警察私带警用装备跨省抓人索财",
+        "onboard_time": 1732098561,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16655,
+        "num": 277731,
+        "word": "小默在微博公开道歉具有法律效力",
+        "onboard_time": 1732101139,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203580,
+        "num": 276406,
+        "word": "易烊千玺云螭二四逴跞山极",
+        "onboard_time": 1732100600,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960076,
+        "num": 271988,
+        "word": "男士卫生巾",
+        "onboard_time": 1732095200,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34339,
+        "num": 263430,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1732100120,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213760,
+        "num": 259587,
+        "word": "原来华妃年轻时也像纯元",
+        "onboard_time": 1732099400,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345443,
+        "num": 257109,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164606,
+        "num": 253826,
+        "word": "永夜星河好东西11月黑马",
+        "onboard_time": 1732098740,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249155,
+        "num": 249155,
+        "word": "国家烟草专卖局原副局长被双开",
+        "onboard_time": 1732096099,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 90694,
+        "num": 237544,
+        "word": "白夜2还是那味儿",
+        "onboard_time": 1732100479,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235399,
+        "num": 235399,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28221,
+        "num": 225203,
+        "word": "白夜追凶原班人马找回那个味儿",
+        "onboard_time": 1732100719,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211379,
+        "num": 223259,
+        "word": "猎罪图鉴全集限免",
+        "onboard_time": 1732096161,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222200,
+        "num": 222200,
+        "word": "潘粤明为保持身形几乎不吃晚饭",
+        "onboard_time": 1732100540,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24080,
+        "num": 220147,
+        "word": "首个真无图智驾豪华品牌车型交付",
+        "onboard_time": 1732098740,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53361,
+        "num": 219664,
+        "word": "白夜破晓 剧王白月光回归",
+        "onboard_time": 1732100420,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219290,
+        "num": 219290,
+        "word": "周鸿祎卖掉迈巴赫买了12辆国产车",
+        "onboard_time": 1732099160,
+        "rank": 34,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 213487,
+        "num": 213487,
+        "word": "44岁农村智障女性遭数次性侵产女",
+        "onboard_time": 1732090521,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196361,
+        "num": 196361,
+        "word": "这赛道莎莎强得可怕",
+        "onboard_time": 1732098260,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188267,
+        "num": 188267,
+        "word": "WTT福冈总决赛",
+        "onboard_time": 1732100300,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181319,
+        "num": 181319,
+        "word": "欧阳妮妮张书豪办宝宝性别趴",
+        "onboard_time": 1732095019,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171729,
+        "num": 171729,
+        "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
+        "onboard_time": 1732090279,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171358,
+        "num": 171358,
+        "word": "戚薇边哭边给NPC打伞",
+        "onboard_time": 1732095078,
+        "rank": 40,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 165791,
+        "num": 165791,
+        "word": "钟睒睒公开喊话张一鸣",
+        "onboard_time": 1732096161,
+        "rank": 41,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 159784,
+        "num": 159784,
+        "word": "钟睒睒说会一直等张一鸣道歉",
+        "onboard_time": 1732099280,
+        "rank": 42,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 152988,
+        "num": 152988,
+        "word": "猎罪图鉴",
+        "onboard_time": 1732099820,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148202,
+        "num": 148202,
+        "word": "奔跑吧全员都哭了",
+        "onboard_time": 1732101500,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145598,
+        "num": 145598,
+        "word": "听泉鉴宝古装",
+        "onboard_time": 1732096939,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139089,
+        "num": 139089,
+        "word": "一个国家一再否决导致安理会软弱无能",
+        "onboard_time": 1732086799,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132523,
+        "num": 132523,
+        "word": "科切拉阵容",
+        "onboard_time": 1732097480,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128229,
+        "num": 128229,
+        "word": "张本美和vs田志希",
+        "onboard_time": 1732101561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125929,
+        "num": 125929,
+        "word": "跑男变走男",
+        "onboard_time": 1732084279,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
