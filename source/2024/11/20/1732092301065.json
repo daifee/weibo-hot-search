@@ -1,0 +1,410 @@
+{
+  "runTime": 1732092301065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 936105,
+        "num": 1149776,
+        "word": "医院CT等收费将执行新规",
+        "onboard_time": 1732086920,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 692931,
+        "num": 692931,
+        "word": "跑男变走男",
+        "onboard_time": 1732084279,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27550,
+        "num": 659643,
+        "word": "2024世界互联网大会乌镇峰会开幕",
+        "onboard_time": 1732072700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 903362,
+        "num": 658557,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656887,
+        "num": 656887,
+        "word": "一个国家一再否决导致安理会软弱无能",
+        "onboard_time": 1732086799,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 626501,
+        "num": 626501,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584973,
+        "num": 584973,
+        "word": "手机不能看医院CT图像就要少收费",
+        "onboard_time": 1732088720,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20733,
+        "num": 496905,
+        "word": "2024乌镇网事",
+        "onboard_time": 1732092262,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 466667,
+        "num": 466667,
+        "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
+        "onboard_time": 1732090279,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 83043,
+        "num": 465327,
+        "word": "律师解读百雀羚添加禁用原料",
+        "onboard_time": 1732090581,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 870441,
+        "num": 464680,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 775197,
+        "num": 462309,
+        "word": "武艺 死车快开啊",
+        "onboard_time": 1732087640,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195254,
+        "num": 460583,
+        "word": "美驻乌使馆称收到可能发生重大空袭信息",
+        "onboard_time": 1732089559,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 460514,
+        "num": 460514,
+        "word": "中方在联合国点名一个常任理事国",
+        "onboard_time": 1732085778,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 445202,
+        "num": 445202,
+        "word": "葛夕说麦琳会把旧冰箱挂闲鱼",
+        "onboard_time": 1732088420,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305688,
+        "num": 305688,
+        "word": "这些症状是心脏在求救",
+        "onboard_time": 1732084518,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289094,
+        "num": 289094,
+        "word": "俄军在境内打死一名美军游骑兵",
+        "onboard_time": 1732085539,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285582,
+        "num": 285582,
+        "word": "粉红税",
+        "onboard_time": 1732090700,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8219,
+        "num": 283848,
+        "word": "詹俊称国足出线仍有机会需一场场拼",
+        "onboard_time": 1732091840,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236702,
+        "num": 279244,
+        "word": "花少6你早这么剪不就没事了",
+        "onboard_time": 1732084099,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534101,
+        "num": 278800,
+        "word": "44岁农村智障女性遭数次性侵产女",
+        "onboard_time": 1732090521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321038,
+        "num": 273232,
+        "word": "邻居为麦琳发声",
+        "onboard_time": 1732078104,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272070,
+        "num": 272070,
+        "word": "单亲妈妈做试管婴儿送外卖途中早产",
+        "onboard_time": 1732069878,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240504,
+        "num": 240504,
+        "word": "费启鸣资源",
+        "onboard_time": 1732085000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217681,
+        "num": 217681,
+        "word": "曾轶可长发",
+        "onboard_time": 1732075639,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215528,
+        "num": 215528,
+        "word": "林高远止步总决赛16强",
+        "onboard_time": 1732086620,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168750,
+        "num": 215174,
+        "word": "费启鸣还我高亚楠",
+        "onboard_time": 1732083019,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215119,
+        "num": 215119,
+        "word": "邱党3比2林昀儒",
+        "onboard_time": 1732090100,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109893,
+        "num": 209274,
+        "word": "恋人",
+        "onboard_time": 1732091601,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84453,
+        "num": 207509,
+        "word": "侯明昊工作室审美",
+        "onboard_time": 1732090521,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80440,
+        "num": 199912,
+        "word": "郑业成4分钟花絮20年功底",
+        "onboard_time": 1732092080,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1800440,
+        "num": 192715,
+        "word": "抖音崩了",
+        "onboard_time": 1732089019,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188294,
+        "num": 188294,
+        "word": "女子分手20年前男友突然出现在房本",
+        "onboard_time": 1732073237,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179366,
+        "num": 179366,
+        "word": "闵熙珍取关NewJeans",
+        "onboard_time": 1732082300,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39483,
+        "num": 177655,
+        "word": "白夜破晓有吴晓亮",
+        "onboard_time": 1732091781,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164852,
+        "num": 176323,
+        "word": "白鹿欧豪翟子路穿出三个季节",
+        "onboard_time": 1732088780,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176030,
+        "num": 176030,
+        "word": "央视镜头下的丁禹兮",
+        "onboard_time": 1732087279,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169231,
+        "num": 169231,
+        "word": "8岁小学生沉迷拍烟卡手指溃烂",
+        "onboard_time": 1732077320,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149748,
+        "num": 149748,
+        "word": "柳宗源拍的虞书欣",
+        "onboard_time": 1732087819,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148060,
+        "num": 148060,
+        "word": "红米 樊振东",
+        "onboard_time": 1732081999,
+        "rank": 39,
+        "category": "数码,体育"
+      },
+      {
+        "raw_hot": 78002,
+        "num": 146097,
+        "word": "女子被家暴16次离婚案将二次开庭",
+        "onboard_time": 1732090341,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145740,
+        "num": 145740,
+        "word": "若非美国安理会本不会如此软弱无能",
+        "onboard_time": 1732089800,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145564,
+        "num": 145564,
+        "word": "内耗的人永远在保护别人伤害自己",
+        "onboard_time": 1732087520,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19957,
+        "num": 145031,
+        "word": "王艺迪回应3比1郑怡静",
+        "onboard_time": 1732091001,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144820,
+        "num": 144820,
+        "word": "周雨彤镜头下的金晨宋茜",
+        "onboard_time": 1732091901,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141817,
+        "num": 141817,
+        "word": "虞书欣五大女刊首秀",
+        "onboard_time": 1732085599,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141670,
+        "num": 141670,
+        "word": "济南推出把子肉公交卡",
+        "onboard_time": 1732084160,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32351,
+        "num": 134798,
+        "word": "常见的化妆品禁用原料‌有哪些",
+        "onboard_time": 1732090279,
+        "rank": 47,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 131635,
+        "num": 131635,
+        "word": "朱珠演技",
+        "onboard_time": 1732089800,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130925,
+        "num": 130925,
+        "word": "签售哥送申有娜洗碗三件套",
+        "onboard_time": 1732088481,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
