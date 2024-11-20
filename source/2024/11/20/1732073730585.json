@@ -1,0 +1,410 @@
+{
+  "runTime": 1732073730585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1778732,
+        "num": 1778732,
+        "word": "百雀羚回应",
+        "onboard_time": 1732069816,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 795458,
+        "num": 795458,
+        "word": "酒店针孔摄像头安装工佣金上万元",
+        "onboard_time": 1732068017,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 73969,
+        "num": 774368,
+        "word": "2024世界互联网大会乌镇峰会开幕",
+        "onboard_time": 1732072700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 753917,
+        "num": 753917,
+        "word": "何同学抄袭风波原作者发声",
+        "onboard_time": 1732070238,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 674575,
+        "num": 674575,
+        "word": "杨幂和胡歌之间只差5个key",
+        "onboard_time": 1732071499,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 508593,
+        "num": 508593,
+        "word": "广州拟将低使用率男厕改为无性别公厕",
+        "onboard_time": 1732069938,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436906,
+        "num": 436906,
+        "word": "耳帝发长文谈麦琳",
+        "onboard_time": 1732067479,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428067,
+        "num": 428067,
+        "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+        "onboard_time": 1732036454,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51481,
+        "num": 412362,
+        "word": "相约乌镇峰会",
+        "onboard_time": 1732072339,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 405928,
+        "num": 405928,
+        "word": "国足所在小组彻底乱了",
+        "onboard_time": 1732032859,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2196930,
+        "num": 389577,
+        "word": "单亲妈妈做试管婴儿送外卖途中早产",
+        "onboard_time": 1732069878,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804549,
+        "num": 373488,
+        "word": "王大发说丁禹兮火不久",
+        "onboard_time": 1732059196,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186564,
+        "num": 363803,
+        "word": "酒店偷拍摄像头借合规APP直播",
+        "onboard_time": 1732071258,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 11961,
+        "num": 349769,
+        "word": "韦世豪不能接受1比3",
+        "onboard_time": 1732073659,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333748,
+        "num": 333748,
+        "word": "专家称伤人老虎或来自俄罗斯",
+        "onboard_time": 1732062020,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 307188,
+        "num": 307188,
+        "word": "雅加达不再为印尼首都",
+        "onboard_time": 1732061418,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286721,
+        "num": 286721,
+        "word": "丁禹兮之前回复粉丝",
+        "onboard_time": 1732070598,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254284,
+        "num": 271096,
+        "word": "Hanni受职场霸凌信访被驳回",
+        "onboard_time": 1732066459,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157150,
+        "num": 266931,
+        "word": "沈泉锐背头",
+        "onboard_time": 1732072879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81183,
+        "num": 265811,
+        "word": "孙颖莎说英语",
+        "onboard_time": 1732073237,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265437,
+        "num": 265437,
+        "word": "华为官宣MateX6",
+        "onboard_time": 1732066459,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443686,
+        "num": 263169,
+        "word": "家长吐槽10元配餐简陋孩子吃不饱",
+        "onboard_time": 1732059437,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308110,
+        "num": 260997,
+        "word": "下班后最轻松的副业",
+        "onboard_time": 1732062319,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267988,
+        "num": 259409,
+        "word": "花16万治前列腺炎后得知不吃药能好",
+        "onboard_time": 1732063519,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 256573,
+        "num": 256573,
+        "word": "ABC卫生巾",
+        "onboard_time": 1732028541,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242153,
+        "num": 242153,
+        "word": "Zeus曾和T1一度断联",
+        "onboard_time": 1732068138,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210092,
+        "num": 242100,
+        "word": "火星7这把熟人局",
+        "onboard_time": 1732073299,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202165,
+        "num": 241771,
+        "word": "白夜破晓开播",
+        "onboard_time": 1732060999,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167181,
+        "num": 241596,
+        "word": "白夜破晓追剧日历",
+        "onboard_time": 1732070418,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108584,
+        "num": 241289,
+        "word": "孙颖莎王艺迪今晚出战女双",
+        "onboard_time": 1732065378,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241145,
+        "num": 241145,
+        "word": "昨晚的禹宙中欣",
+        "onboard_time": 1732071857,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236775,
+        "num": 236775,
+        "word": "心梗发作如何自救和互救",
+        "onboard_time": 1732063099,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359194,
+        "num": 233675,
+        "word": "Doinb老头杯下跪道歉",
+        "onboard_time": 1732073299,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225034,
+        "num": 225034,
+        "word": "女子分手20年前男友突然出现在房本",
+        "onboard_time": 1732073237,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220995,
+        "num": 220995,
+        "word": "浙江烧伤妈妈丈夫已开橱窗带货",
+        "onboard_time": 1732061717,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211115,
+        "num": 211115,
+        "word": "歌手鹿晗",
+        "onboard_time": 1732030340,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202455,
+        "num": 202455,
+        "word": "漾漾 丁飞俊",
+        "onboard_time": 1732065078,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182782,
+        "num": 182782,
+        "word": "男生看见雷军直接递上简历",
+        "onboard_time": 1732059076,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160181,
+        "num": 160181,
+        "word": "何同学致歉",
+        "onboard_time": 1732028600,
+        "rank": 38,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 145726,
+        "num": 145726,
+        "word": "日本主帅说国足不是有进步是潜力大",
+        "onboard_time": 1732066818,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140319,
+        "num": 140319,
+        "word": "林俊杰新书超越音符",
+        "onboard_time": 1732072637,
+        "rank": 40,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 138173,
+        "num": 138173,
+        "word": "宝蓝队疑似中野决裂",
+        "onboard_time": 1732072217,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138126,
+        "num": 138126,
+        "word": "庄筱婷智性恋天菜",
+        "onboard_time": 1732066758,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135847,
+        "num": 135847,
+        "word": "肖战漂流MV",
+        "onboard_time": 1732071798,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128375,
+        "num": 133091,
+        "word": "百雀羚",
+        "onboard_time": 1732028182,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132616,
+        "num": 132616,
+        "word": "5年期和1年期LPR均维持不变",
+        "onboard_time": 1732073299,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132466,
+        "num": 132466,
+        "word": "神舟一号首飞成功25周年",
+        "onboard_time": 1732063220,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123990,
+        "num": 123990,
+        "word": "98年小伙上班视频成网友解压助眠神器",
+        "onboard_time": 1732067839,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114965,
+        "num": 114965,
+        "word": "27岁女子祛斑手术10天后离世",
+        "onboard_time": 1732030159,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114687,
+        "num": 114687,
+        "word": "卫生巾偷工减料压缩的不是成本是口碑",
+        "onboard_time": 1732073540,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
