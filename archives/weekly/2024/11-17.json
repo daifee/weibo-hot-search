@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732134340988,
+  "endTime": 1732135165082,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -13115,6 +13115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31157,
+      "num": 31157,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31113,
       "num": 196203,
       "word": "北欧三国向民众发放战时手册",
@@ -13345,14 +13353,6 @@
       "onboard_time": 1732020139,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 28398,
-      "num": 28398,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28225,
@@ -14355,6 +14355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15416,
+      "num": 27309,
+      "word": "曾志伟回应炎明熹合约",
+      "onboard_time": 1732133651,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15350,
       "num": 197185,
       "word": "享界S9智驾快人一步",
@@ -14377,6 +14385,22 @@
       "onboard_time": 1731791171,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15267,
+      "num": 15267,
+      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
+      "onboard_time": 1732133292,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 15089,
+      "num": 16390,
+      "word": "电诈骗子又出损招",
+      "onboard_time": 1732134131,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14896,
@@ -14451,6 +14475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 14404,
+      "num": 21375,
+      "word": "每天认识一件文物",
+      "onboard_time": 1732123333,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 14386,
       "num": 25659,
       "word": "天舟八号快递是怎么打包派送的",
@@ -14497,14 +14529,6 @@
       "onboard_time": 1732131191,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13510,
-      "num": 21375,
-      "word": "每天认识一件文物",
-      "onboard_time": 1732123333,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 13489,
@@ -14579,6 +14603,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 12547,
+      "num": 28814,
+      "word": "ABC所属公司回应下架",
+      "onboard_time": 1732134791,
+      "rank": 14,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 12473,
       "num": 31141,
       "word": "承载了全人类科学家的梦想之船",
@@ -14609,14 +14641,6 @@
       "onboard_time": 1732134310,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 12148,
-      "num": 16390,
-      "word": "电诈骗子又出损招",
-      "onboard_time": 1732134131,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12117,
@@ -14907,6 +14931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8668,
+      "num": 27877,
+      "word": "杨天真为VOGUE红毯一天往返东京",
+      "onboard_time": 1732133111,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 8219,
       "num": 283848,
       "word": "詹俊称国足出线仍有机会需一场场拼",
@@ -14975,14 +15007,6 @@
       "num": 31033,
       "word": "张杰吸粉狂魔",
       "onboard_time": 1732129752,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6554,
-      "num": 27309,
-      "word": "曾志伟回应炎明熹合约",
-      "onboard_time": 1732133651,
       "rank": 19,
       "category": "艺人"
     },

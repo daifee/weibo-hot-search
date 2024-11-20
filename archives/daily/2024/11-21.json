@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732134340988,
+  "endTime": 1732135165082,
   "band_list": [
     {
       "raw_hot": 1111331,
@@ -515,20 +515,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31157,
+      "num": 31157,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30558,
       "num": 30558,
       "word": "日本发生5级地震东京有明显震感",
       "onboard_time": 1732123873,
       "rank": 46,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 28398,
-      "num": 28398,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24462,
@@ -611,12 +611,44 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 15416,
+      "num": 27309,
+      "word": "曾志伟回应炎明熹合约",
+      "onboard_time": 1732133651,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15267,
+      "num": 15267,
+      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
+      "onboard_time": 1732133292,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 15089,
+      "num": 16390,
+      "word": "电诈骗子又出损招",
+      "onboard_time": 1732134131,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14754,
       "num": 16645,
       "word": "刘宇宁原声台词",
       "onboard_time": 1732130413,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14404,
+      "num": 21375,
+      "word": "每天认识一件文物",
+      "onboard_time": 1732123333,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 13698,
@@ -627,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13510,
-      "num": 21375,
-      "word": "每天认识一件文物",
-      "onboard_time": 1732123333,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 12547,
+      "num": 28814,
+      "word": "ABC所属公司回应下架",
+      "onboard_time": 1732134791,
+      "rank": 14,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 12287,
@@ -641,14 +673,6 @@
       "onboard_time": 1732134310,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 12148,
-      "num": 16390,
-      "word": "电诈骗子又出损招",
-      "onboard_time": 1732134131,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12012,
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8668,
+      "num": 27877,
+      "word": "杨天真为VOGUE红毯一天往返东京",
+      "onboard_time": 1732133111,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 6557,
       "num": 19744,
       "word": "吉林文旅发了肖战",
@@ -703,14 +735,6 @@
       "num": 31033,
       "word": "张杰吸粉狂魔",
       "onboard_time": 1732129752,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6554,
-      "num": 27309,
-      "word": "曾志伟回应炎明熹合约",
-      "onboard_time": 1732133651,
       "rank": 19,
       "category": "艺人"
     },
