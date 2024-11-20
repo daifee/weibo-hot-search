@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732073730585,
+  "endTime": 1732074464799,
   "band_list": [
     {
       "raw_hot": 2313016,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 887293,
+      "num": 887293,
+      "word": "女子分手20年前男友突然出现在房本",
+      "onboard_time": 1732073237,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 875408,
       "num": 875408,
       "word": "国足所在小组彻底乱了",
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 821869,
+      "num": 386809,
+      "word": "Doinb老头杯下跪道歉",
+      "onboard_time": 1732073299,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 819854,
       "num": 819854,
       "word": "百雀羚",
@@ -83,20 +99,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 806107,
+      "num": 806107,
+      "word": "何同学抄袭风波原作者发声",
+      "onboard_time": 1732070238,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 795458,
       "num": 795458,
       "word": "酒店针孔摄像头安装工佣金上万元",
       "onboard_time": 1732068017,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 753917,
-      "num": 753917,
-      "word": "何同学抄袭风波原作者发声",
-      "onboard_time": 1732070238,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 752114,
@@ -187,8 +203,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 508593,
-      "num": 508593,
+      "raw_hot": 517953,
+      "num": 517953,
       "word": "广州拟将低使用率男厕改为无性别公厕",
       "onboard_time": 1732069938,
       "rank": 20,
@@ -291,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359194,
-      "num": 233675,
-      "word": "Doinb老头杯下跪道歉",
-      "onboard_time": 1732073299,
-      "rank": 32,
-      "category": "电竞"
+      "raw_hot": 346378,
+      "num": 281401,
+      "word": "下班后最轻松的副业",
+      "onboard_time": 1732062319,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 344425,
@@ -337,14 +353,6 @@
       "onboard_time": 1732026262,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308110,
-      "num": 277742,
-      "word": "下班后最轻松的副业",
-      "onboard_time": 1732062319,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 299031,
@@ -451,12 +459,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 225034,
-      "num": 225034,
-      "word": "女子分手20年前男友突然出现在房本",
-      "onboard_time": 1732073237,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 220692,
+      "num": 389529,
+      "word": "卫生巾偷工减料压缩的不是成本是口碑",
+      "onboard_time": 1732073540,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 210092,
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197912,
+      "num": 331724,
+      "word": "沈泉锐背头",
+      "onboard_time": 1732072879,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191675,
       "num": 191675,
       "word": "90多岁村民第一次听说老虎进村",
@@ -505,6 +521,14 @@
       "onboard_time": 1732059377,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190468,
+      "num": 226586,
+      "word": "MAMA出发图",
+      "onboard_time": 1732073718,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 186564,
@@ -595,6 +619,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172795,
+      "num": 172795,
+      "word": "何同学",
+      "onboard_time": 1732074439,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 169471,
+      "num": 169471,
+      "word": "北京儿童医院夜诊排了近600号",
+      "onboard_time": 1732073958,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169055,
       "num": 169055,
       "word": "95后女孩带77岁父亲穿汉服欧洲炸街",
@@ -633,14 +673,6 @@
       "onboard_time": 1732031479,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157150,
-      "num": 266931,
-      "word": "沈泉锐背头",
-      "onboard_time": 1732072879,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 150972,
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 140319,
-      "num": 140319,
+      "num": 192098,
       "word": "林俊杰新书超越音符",
       "onboard_time": 1732072637,
       "rank": 40,
@@ -753,6 +785,14 @@
       "onboard_time": 1732058837,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135069,
+      "num": 135069,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1732074439,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 134635,
@@ -873,14 +913,6 @@
       "onboard_time": 1732011861,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114687,
-      "num": 114687,
-      "word": "卫生巾偷工减料压缩的不是成本是口碑",
-      "onboard_time": 1732073540,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 114483,
@@ -1036,7 +1068,7 @@
     },
     {
       "raw_hot": 81183,
-      "num": 265811,
+      "num": 282621,
       "word": "孙颖莎说英语",
       "onboard_time": 1732073237,
       "rank": 19,
@@ -1076,7 +1108,7 @@
     },
     {
       "raw_hot": 73969,
-      "num": 774368,
+      "num": 836495,
       "word": "2024世界互联网大会乌镇峰会开幕",
       "onboard_time": 1732072700,
       "rank": 2,
@@ -1123,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57230,
+      "num": 412362,
+      "word": "相约乌镇峰会",
+      "onboard_time": 1732072339,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 54908,
       "num": 54908,
       "word": "专家称目前是老虎繁殖期游荡范围大",
@@ -1155,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51481,
-      "num": 412362,
-      "word": "相约乌镇峰会",
-      "onboard_time": 1732072339,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 50865,
       "num": 63472,
       "word": "谁不想拥有水哥的树屋",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1732050071,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 46927,
+      "num": 309529,
+      "word": "钱天一vs迪亚兹",
+      "onboard_time": 1732073778,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 46652,
@@ -1291,6 +1331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23760,
+      "num": 381672,
+      "word": "韦世豪不能接受1比3",
+      "onboard_time": 1732073659,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21326,
       "num": 63441,
       "word": "这一刻爷爷的爱有了形状",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1732042511,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11961,
-      "num": 349769,
-      "word": "韦世豪不能接受1比3",
-      "onboard_time": 1732073659,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 11493,
@@ -1429,6 +1469,9 @@
     },
     {
       "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    },
+    {
+      "word": "#数览习主席在G20里约峰会上的讲话要点#"
     }
   ]
 }
