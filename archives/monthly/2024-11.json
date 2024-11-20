@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732081222977,
+  "endTime": 1732084370001,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5099,6 +5099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 910698,
+      "num": 304933,
+      "word": "72岁老人谈恋爱女友被女儿打",
+      "onboard_time": 1732082659,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 910242,
       "num": 1145638,
       "word": "校方回应年薪50万送住房招老师",
@@ -7163,6 +7171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 723778,
+      "num": 723778,
+      "word": "举报史航性骚扰当事人道歉",
+      "onboard_time": 1732077980,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723742,
       "num": 406380,
       "word": "工作人员实名吐槽王楚然",
@@ -7305,14 +7321,6 @@
       "onboard_time": 1730810121,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 718561,
-      "num": 718561,
-      "word": "举报史航性骚扰当事人道歉",
-      "onboard_time": 1732077980,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 717010,
@@ -8651,6 +8659,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 635817,
+      "num": 635817,
+      "word": "花少6",
+      "onboard_time": 1731474621,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635786,
       "num": 412933,
       "word": "外籍男子在香港持刀抢劫警长被捅5刀",
@@ -9651,6 +9667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588098,
+      "num": 588098,
+      "word": "红米 樊振东",
+      "onboard_time": 1732081999,
+      "rank": 4,
+      "category": "数码,体育"
+    },
+    {
       "raw_hot": 587623,
       "num": 408792,
       "word": "晚晚大嘴 再见爱人",
@@ -9873,6 +9897,14 @@
       "onboard_time": 1731839058,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 572288,
+      "num": 572288,
+      "word": "药监局回应会尽快通报百雀羚立案详情",
+      "onboard_time": 1732078703,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 572276,
@@ -10952,14 +10984,6 @@
       "word": "尖叫之夜名单",
       "onboard_time": 1731394699,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 523770,
-      "num": 523770,
-      "word": "花少6",
-      "onboard_time": 1731474621,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -12067,6 +12091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 481075,
+      "num": 274290,
+      "word": "闵熙珍取关NewJeans",
+      "onboard_time": 1732082300,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481043,
       "num": 481043,
       "word": "张予曦也自己化妆了",
@@ -12257,6 +12289,14 @@
       "onboard_time": 1730615899,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472347,
+      "num": 472347,
+      "word": "虞书欣杂志",
+      "onboard_time": 1732081340,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 472129,
@@ -18083,6 +18123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304911,
+      "num": 304911,
+      "word": "百雀羚年内线上销售额近3亿元",
+      "onboard_time": 1732080680,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304855,
       "num": 304855,
       "word": "打电话是一个侵入性特别强的动作",
@@ -21987,6 +22035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242767,
+      "num": 242767,
+      "word": "费启鸣还我高亚楠",
+      "onboard_time": 1732083019,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242520,
       "num": 312793,
       "word": "永夜星河预告",
@@ -23851,14 +23907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220908,
-      "num": 299744,
-      "word": "药监局回应会尽快通报百雀羚立案详情",
-      "onboard_time": 1732078703,
-      "rank": 42,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 220807,
       "num": 220807,
       "word": "雷军回应小米洗衣机火爆",
@@ -23945,6 +23993,14 @@
       "onboard_time": 1730854403,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 220203,
+      "num": 220203,
+      "word": "白夜追凶法医姐姐呢",
+      "onboard_time": 1732081101,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 220147,
@@ -24121,14 +24177,6 @@
       "onboard_time": 1732077621,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217837,
-      "num": 217837,
-      "word": "百雀羚年内线上销售额近3亿元",
-      "onboard_time": 1732080680,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217763,
@@ -24451,6 +24499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214540,
+      "num": 214540,
+      "word": "赵露思新剧恋人路透造型",
+      "onboard_time": 1732084040,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214504,
       "num": 214504,
       "word": "叠纸心意",
@@ -24553,6 +24609,14 @@
       "onboard_time": 1730711419,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213528,
+      "num": 213528,
+      "word": "雷军喊话欢迎大家投递简历",
+      "onboard_time": 1732081699,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 213452,
@@ -26099,6 +26163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204165,
+      "num": 295206,
+      "word": "白夜破晓书接上回",
+      "onboard_time": 1732082119,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204151,
       "num": 470160,
       "word": "因为记者所以记着",
@@ -27171,6 +27243,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 198815,
+      "num": 198815,
+      "word": "广东人开始了时尚穿衣模式",
+      "onboard_time": 1732080260,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198792,
       "num": 198792,
       "word": "永夜星河团综",
@@ -27739,6 +27819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196354,
+      "num": 196354,
+      "word": "涵艺爆料TheShy与Rookie新队友",
+      "onboard_time": 1732083798,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196353,
       "num": 440887,
       "word": "传奇杯S2队长官宣",
@@ -27961,14 +28049,6 @@
       "onboard_time": 1731679401,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194862,
-      "num": 194862,
-      "word": "广东人开始了时尚穿衣模式",
-      "onboard_time": 1732080260,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194839,
@@ -29465,6 +29545,14 @@
       "onboard_time": 1731835759,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188418,
+      "num": 360568,
+      "word": "酒店偷拍已形成从生产到交易产业链",
+      "onboard_time": 1732078581,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 188405,
@@ -31243,6 +31331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178959,
+      "num": 264120,
+      "word": "丁禹兮这次火是一种必然",
+      "onboard_time": 1732081459,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178933,
       "num": 178933,
       "word": "留几手",
@@ -31689,14 +31785,6 @@
       "onboard_time": 1730441659,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176496,
-      "num": 360568,
-      "word": "酒店偷拍已形成从生产到交易产业链",
-      "onboard_time": 1732078581,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 176487,
@@ -33987,6 +34075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165402,
+      "num": 165402,
+      "word": "为什么我烤的蛋挞变成了鸡蛋",
+      "onboard_time": 1732082599,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165374,
       "num": 165374,
       "word": "美一医学研究机构43只实验猴出逃",
@@ -35833,6 +35929,14 @@
       "onboard_time": 1731251899,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157485,
+      "num": 157485,
+      "word": "克内克特单节21分",
+      "onboard_time": 1732082240,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 157471,
@@ -37931,6 +38035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 148650,
+      "num": 148650,
+      "word": "姿态说Uzi在国内LOL影响力最大",
+      "onboard_time": 1732083079,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148619,
       "num": 148619,
       "word": "时隔5年巴黎圣母院钟声再次响起",
@@ -38953,6 +39065,14 @@
       "onboard_time": 1730451798,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143615,
+      "num": 143615,
+      "word": "济南推出把子肉公交卡",
+      "onboard_time": 1732084160,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143545,
@@ -42283,14 +42403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127672,
-      "num": 206028,
-      "word": "白夜追凶法医姐姐呢",
-      "onboard_time": 1732081101,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127584,
       "num": 127584,
       "word": "hybe说朴成训变丑了",
@@ -43753,6 +43865,14 @@
       "onboard_time": 1731209899,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120957,
+      "num": 203208,
+      "word": "杨幂胡歌内娱启蒙cp",
+      "onboard_time": 1732083379,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120925,
@@ -48323,6 +48443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91011,
+      "num": 207779,
+      "word": "孙颖莎希望所有女性都更自信",
+      "onboard_time": 1732082659,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90943,
       "num": 113418,
       "word": "蔡磊破冰驿站跻身双11带货榜前10",
@@ -49801,6 +49929,14 @@
       "onboard_time": 1731577521,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 78107,
+      "num": 214361,
+      "word": "花少6你早这么剪不就没事了",
+      "onboard_time": 1732084099,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 77920,
@@ -52057,6 +52193,14 @@
       "onboard_time": 1731826579,
       "rank": 45,
       "category": "电影,演出"
+    },
+    {
+      "raw_hot": 61401,
+      "num": 272748,
+      "word": "张杰新专辑要得",
+      "onboard_time": 1732083199,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 61400,
@@ -55435,6 +55579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43772,
+      "num": 213916,
+      "word": "马嘉祺光影侧颜",
+      "onboard_time": 1732082719,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43649,
       "num": 213158,
       "word": "一图读懂国足生死战",
@@ -55825,6 +55977,14 @@
       "onboard_time": 1730884645,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41901,
+      "num": 213544,
+      "word": "跑男变走男",
+      "onboard_time": 1732084279,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 41884,
@@ -59475,6 +59635,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 29361,
+      "num": 213789,
+      "word": "华为折叠屏寰宇家族摄像头",
+      "onboard_time": 1732080800,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29299,
       "num": 338182,
       "word": "中国电动车企绝不能内讧",
@@ -59873,14 +60041,6 @@
       "onboard_time": 1730914813,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28077,
-      "num": 177000,
-      "word": "华为折叠屏寰宇家族摄像头",
-      "onboard_time": 1732080800,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 28066,
@@ -63011,6 +63171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18569,
+      "num": 304965,
+      "word": "专家称大牯牛山被烧植物为杜鹃类",
+      "onboard_time": 1732083920,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18553,
       "num": 365238,
       "word": "研究称体罚会影响大脑发育",
@@ -65761,6 +65929,14 @@
       "onboard_time": 1731756798,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 6681,
+      "num": 214182,
+      "word": "2024年注会成绩11月22日公布",
+      "onboard_time": 1732084160,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 6578,
