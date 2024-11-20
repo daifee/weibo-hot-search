@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732130356256,
+  "endTime": 1732131357458,
   "band_list": [
     {
       "raw_hot": 1111331,
@@ -411,6 +411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64383,
+      "num": 33042,
+      "word": "被家暴16次女子希望男方定罪故意杀人",
+      "onboard_time": 1732128792,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 57131,
       "num": 182321,
       "word": "余宇涵翻跳sayyes",
@@ -475,20 +483,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37029,
-      "num": 30996,
-      "word": "被家暴16次女子希望男方定罪故意杀人",
-      "onboard_time": 1732128792,
-      "rank": 20,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 36544,
       "num": 76665,
       "word": "周鸿祎回应有企业家看不起企业家带货",
       "onboard_time": 1732123454,
       "rank": 9,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 36077,
+      "num": 36077,
+      "word": "多国驻乌使馆因袭击风险关闭",
+      "onboard_time": 1732129632,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31636,
@@ -507,6 +515,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28398,
+      "num": 28398,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24462,
       "num": 24462,
       "word": "李商隐诗中的锦瑟其实一般25根弦",
@@ -521,14 +537,6 @@
       "onboard_time": 1732106000,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24350,
-      "num": 24350,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22574,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 16525,
-      "num": 16525,
+      "num": 21463,
       "word": "我和我的命",
       "onboard_time": 1732125552,
       "rank": 47,
@@ -587,12 +595,36 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 15858,
-      "num": 31377,
-      "word": "多国驻乌使馆因袭击风险关闭",
-      "onboard_time": 1732129632,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 14754,
+      "num": 16645,
+      "word": "刘宇宁原声台词",
+      "onboard_time": 1732130413,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13934,
+      "num": 16571,
+      "word": "白夜破晓",
+      "onboard_time": 1732106302,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13698,
+      "num": 29924,
+      "word": "91岁老人走失超20小时多亏了技术汪",
+      "onboard_time": 1732131191,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11162,
+      "num": 19744,
+      "word": "9旬老人深夜走失4岁技术汪立大功",
+      "onboard_time": 1732131012,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10992,
@@ -619,12 +651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6557,
+      "num": 19744,
+      "word": "吉林文旅发了肖战",
+      "onboard_time": 1732130951,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6554,
       "num": 31033,
       "word": "张杰吸粉狂魔",
       "onboard_time": 1732129752,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5650,
+      "num": 30081,
+      "word": "许凯背着薯条",
+      "onboard_time": 1732131191,
+      "rank": 18,
+      "category": "艺人,时尚"
     }
   ],
   "hotgov_list": [
