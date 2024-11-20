@@ -1,0 +1,410 @@
+{
+  "runTime": 1732145822459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 650840,
+        "num": 914134,
+        "word": "国乒教练说寒冬来得比预想要快",
+        "onboard_time": 1732116260,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567018,
+        "num": 567018,
+        "word": "一人控制600台手机不停转评赞",
+        "onboard_time": 1732126511,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25423,
+        "num": 299205,
+        "word": "蓝色经济为中巴经济增长注入新动能",
+        "onboard_time": 1732109781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262694,
+        "num": 262694,
+        "word": "国乒男队一轮游",
+        "onboard_time": 1732108221,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257488,
+        "num": 257488,
+        "word": "圆明园考古又有新发现",
+        "onboard_time": 1732139771,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 250967,
+        "num": 250967,
+        "word": "钟南山建议这类人群每年查肺功能",
+        "onboard_time": 1732127414,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232133,
+        "num": 232133,
+        "word": "安理会加沙停火决议遭美国否决",
+        "onboard_time": 1732117939,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160356,
+        "num": 160356,
+        "word": "胖东来将不允许员工靠父母买房买车",
+        "onboard_time": 1732112421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151803,
+        "num": 151803,
+        "word": "奔跑吧全员都哭了",
+        "onboard_time": 1732101500,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97558,
+        "num": 151395,
+        "word": "王一博嘉人周年刊",
+        "onboard_time": 1732144515,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 893833,
+        "num": 151216,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893700,
+        "num": 150570,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 567195,
+        "num": 149591,
+        "word": "警方已立案调查博主徒步被马夫猥亵",
+        "onboard_time": 1732117699,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 499978,
+        "num": 148991,
+        "word": "女子驾车碾压倒地者致其死亡",
+        "onboard_time": 1732117039,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 355803,
+        "num": 148676,
+        "word": "被家暴16次女子希望男方定罪故意杀人",
+        "onboard_time": 1732128792,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 331146,
+        "num": 147896,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312524,
+        "num": 147312,
+        "word": "马斯克同款减肥药中国上市引热议",
+        "onboard_time": 1732117579,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272060,
+        "num": 146879,
+        "word": "关晓彤19岁就拿了白玉兰",
+        "onboard_time": 1732102878,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228895,
+        "num": 146364,
+        "word": "李子柒王冰冰一起玩碰碰车",
+        "onboard_time": 1732117999,
+        "rank": 18,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 21859,
+        "num": 145598,
+        "word": "CPR和AED救命神器学起来",
+        "onboard_time": 1732145656,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179606,
+        "num": 145169,
+        "word": "听泉鉴宝 徐志胜",
+        "onboard_time": 1732102940,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144927,
+        "num": 144927,
+        "word": "易烊千玺打麻将",
+        "onboard_time": 1732113441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66380,
+        "num": 125586,
+        "word": "医院偶遇周深",
+        "onboard_time": 1732145295,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117098,
+        "num": 117098,
+        "word": "庾澄庆晒与老婆合照",
+        "onboard_time": 1732105880,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113389,
+        "num": 113389,
+        "word": "快递员用肢体语言提醒聋哑人",
+        "onboard_time": 1732144455,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 97402,
+        "num": 97402,
+        "word": "丁禹兮以拥有好人品自豪",
+        "onboard_time": 1732144455,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92223,
+        "num": 92223,
+        "word": "央视起底水军运作完整黑产链",
+        "onboard_time": 1732100420,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 79860,
+        "num": 92009,
+        "word": "虞书欣11个行李箱没白带",
+        "onboard_time": 1732099220,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56263,
+        "num": 91907,
+        "word": "夏弃疾说丁禹兮本人真的很帅",
+        "onboard_time": 1732144936,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48940,
+        "num": 91440,
+        "word": "不提麦琳两个字证明你看过再见爱人",
+        "onboard_time": 1732111703,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 91189,
+        "word": "开了包的卫生巾1个月内用完",
+        "onboard_time": 1732145295,
+        "rank": 30,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 90171,
+        "num": 90966,
+        "word": "孙颖莎王艺迪无缘女双四强",
+        "onboard_time": 1732111463,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110303,
+        "num": 90734,
+        "word": "小狗离世前十分钟医师对它吐烟",
+        "onboard_time": 1732104740,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90613,
+        "num": 90613,
+        "word": "2025年单休比双休多上52天班",
+        "onboard_time": 1732145295,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90463,
+        "num": 90463,
+        "word": "宋仲基二胎出生",
+        "onboard_time": 1732098320,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88170,
+        "num": 88170,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85946,
+        "num": 85946,
+        "word": "总决赛首日国乒男单全军覆没",
+        "onboard_time": 1732122915,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84342,
+        "num": 84342,
+        "word": "苏炳添收到雷军送的钻石黑小米SU7",
+        "onboard_time": 1732115480,
+        "rank": 37,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 79785,
+        "num": 79785,
+        "word": "不建议用有香味的卫生巾",
+        "onboard_time": 1732120397,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76913,
+        "num": 76913,
+        "word": "海玲孕晚期两周胖四斤",
+        "onboard_time": 1732144275,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76496,
+        "num": 76496,
+        "word": "WTT",
+        "onboard_time": 1732145598,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75193,
+        "num": 75193,
+        "word": "mlxg怒喷虎牙官方",
+        "onboard_time": 1732115242,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71936,
+        "num": 71936,
+        "word": "英伟达公布2025财年第三季度财报",
+        "onboard_time": 1732145477,
+        "rank": 42,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 69598,
+        "num": 69598,
+        "word": "Uzi为无状态鼓掌",
+        "onboard_time": 1732145416,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66414,
+        "num": 66414,
+        "word": "小蜜蜂老师回应直播带货争议",
+        "onboard_time": 1732145295,
+        "rank": 44,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 64429,
+        "num": 64429,
+        "word": "国乒无缘总决赛男双四强",
+        "onboard_time": 1732114640,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61145,
+        "num": 61145,
+        "word": "曝Zeus被T1减薪",
+        "onboard_time": 1732145295,
+        "rank": 46,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 59503,
+        "num": 59503,
+        "word": "科学家突破垄断为国家省下几亿元",
+        "onboard_time": 1732117100,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 59144,
+        "num": 59144,
+        "word": "姿态队宣告怒喷队友",
+        "onboard_time": 1732145295,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44619,
+        "num": 58282,
+        "word": "白夜破晓",
+        "onboard_time": 1732106302,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉会谈#"
+    }
+  }
+}

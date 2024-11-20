@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732144962192,
+  "endTime": 1732145822459,
   "band_list": [
     {
       "raw_hot": 1111331,
@@ -19,7 +19,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 842614,
+      "raw_hot": 893833,
       "num": 842614,
       "word": "胖东来宣布员工结婚不允许要或付彩礼",
       "onboard_time": 1732106721,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567018,
+      "num": 567018,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514336,
       "num": 203353,
       "word": "女孩称川西徒步遭马夫猥亵",
@@ -51,16 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 439847,
-      "num": 439847,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437009,
-      "num": 141448,
+      "raw_hot": 499978,
+      "num": 148991,
       "word": "女子驾车碾压倒地者致其死亡",
       "onboard_time": 1732117039,
       "rank": 27,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355803,
+      "num": 148676,
+      "word": "被家暴16次女子希望男方定罪故意杀人",
+      "onboard_time": 1732128792,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 317805,
       "num": 200657,
       "word": "警方通报女子驾车碾压一倒地者致死",
@@ -115,8 +123,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 297806,
-      "num": 140699,
+      "raw_hot": 312524,
+      "num": 147312,
       "word": "马斯克同款减肥药中国上市引热议",
       "onboard_time": 1732117579,
       "rank": 42,
@@ -139,12 +147,12 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 258384,
-      "num": 138542,
-      "word": "被家暴16次女子希望男方定罪故意杀人",
-      "onboard_time": 1732128792,
-      "rank": 20,
-      "category": "舆论监督"
+      "raw_hot": 257488,
+      "num": 257488,
+      "word": "圆明园考古又有新发现",
+      "onboard_time": 1732139771,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 254373,
@@ -155,6 +163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250967,
+      "num": 250967,
+      "word": "钟南山建议这类人群每年查肺功能",
+      "onboard_time": 1732127414,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232133,
+      "num": 232133,
+      "word": "安理会加沙停火决议遭美国否决",
+      "onboard_time": 1732117939,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227519,
       "num": 227519,
       "word": "孙颖莎王艺迪无缘女双四强",
@@ -163,28 +187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227133,
-      "num": 227133,
-      "word": "安理会加沙停火决议遭美国否决",
-      "onboard_time": 1732117939,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 223653,
       "num": 197977,
       "word": "侯明昊工作室发文维权",
       "onboard_time": 1732113862,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222537,
-      "num": 222537,
-      "word": "圆明园考古又有新发现",
-      "onboard_time": 1732139771,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 212550,
@@ -211,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198814,
-      "num": 198814,
-      "word": "钟南山建议这类人群每年查肺功能",
-      "onboard_time": 1732127414,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 197305,
       "num": 197305,
       "word": "奔跑吧全员都哭了",
@@ -233,6 +233,14 @@
       "onboard_time": 1732117879,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160356,
+      "num": 160356,
+      "word": "胖东来将不允许员工靠父母买房买车",
+      "onboard_time": 1732112421,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143756,
@@ -251,14 +259,6 @@
       "category": "辟谣/通报,美妆"
     },
     {
-      "raw_hot": 133237,
-      "num": 133237,
-      "word": "胖东来将不允许员工靠父母买房买车",
-      "onboard_time": 1732112421,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125846,
       "num": 125846,
       "word": "HLE官宣Zeus加入",
@@ -275,8 +275,32 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117098,
+      "num": 117098,
+      "word": "庾澄庆晒与老婆合照",
+      "onboard_time": 1732105880,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113389,
+      "num": 146341,
+      "word": "快递员用肢体语言提醒聋哑人",
+      "onboard_time": 1732144455,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 112982,
+      "num": 91189,
+      "word": "开了包的卫生巾1个月内用完",
+      "onboard_time": 1732145295,
+      "rank": 30,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 112521,
-      "num": 148219,
+      "num": 151395,
       "word": "王一博嘉人周年刊",
       "onboard_time": 1732144515,
       "rank": 8,
@@ -307,20 +331,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100453,
-      "num": 100453,
-      "word": "庾澄庆晒与老婆合照",
-      "onboard_time": 1732105880,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97530,
       "num": 97530,
       "word": "老人狂扇自己50下只为出门洗脚",
       "onboard_time": 1732096399,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97402,
+      "num": 134780,
+      "word": "丁禹兮以拥有好人品自豪",
+      "onboard_time": 1732144455,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 97011,
@@ -347,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92223,
+      "num": 92223,
+      "word": "央视起底水军运作完整黑产链",
+      "onboard_time": 1732100420,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 91983,
       "num": 129374,
       "word": "原来华妃年轻时也像纯元",
       "onboard_time": 1732099400,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90613,
+      "num": 90613,
+      "word": "2025年单休比双休多上52天班",
+      "onboard_time": 1732145295,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 88094,
@@ -371,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 85946,
+      "num": 85946,
+      "word": "总决赛首日国乒男单全军覆没",
+      "onboard_time": 1732122915,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85392,
       "num": 85392,
       "word": "女子上7天班竟成公司股东被追债",
@@ -385,14 +433,6 @@
       "onboard_time": 1732114342,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81237,
-      "num": 134780,
-      "word": "丁禹兮以拥有好人品自豪",
-      "onboard_time": 1732144455,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 78858,
@@ -427,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76913,
+      "num": 76913,
+      "word": "海玲孕晚期两周胖四斤",
+      "onboard_time": 1732144275,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76496,
+      "num": 76496,
+      "word": "WTT",
+      "onboard_time": 1732145598,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75882,
       "num": 75882,
       "word": "王艺迪孙颖莎止步女双八强",
@@ -443,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75309,
-      "num": 75309,
-      "word": "总决赛首日国乒男单全军覆没",
-      "onboard_time": 1732122915,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74671,
       "num": 74671,
       "word": "沉浸式感受沙湖灰雁为您导航",
@@ -459,12 +507,52 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 69168,
-      "num": 69168,
-      "word": "央视起底水军运作完整黑产链",
-      "onboard_time": 1732100420,
-      "rank": 32,
-      "category": "舆论监督"
+      "raw_hot": 71936,
+      "num": 71936,
+      "word": "英伟达公布2025财年第三季度财报",
+      "onboard_time": 1732145477,
+      "rank": 42,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 69598,
+      "num": 69598,
+      "word": "Uzi为无状态鼓掌",
+      "onboard_time": 1732145416,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 66414,
+      "num": 66414,
+      "word": "小蜜蜂老师回应直播带货争议",
+      "onboard_time": 1732145295,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 66380,
+      "num": 125586,
+      "word": "医院偶遇周深",
+      "onboard_time": 1732145295,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61145,
+      "num": 61145,
+      "word": "曝Zeus被T1减薪",
+      "onboard_time": 1732145295,
+      "rank": 46,
+      "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 59144,
+      "num": 59144,
+      "word": "姿态队宣告怒喷队友",
+      "onboard_time": 1732145295,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 57131,
@@ -473,6 +561,14 @@
       "onboard_time": 1732118839,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56263,
+      "num": 91907,
+      "word": "夏弃疾说丁禹兮本人真的很帅",
+      "onboard_time": 1732144936,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 54880,
@@ -515,20 +611,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44619,
+      "num": 75189,
+      "word": "白夜破晓",
+      "onboard_time": 1732106302,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44295,
       "num": 44295,
       "word": "总决赛首日中国男单无人晋级八强",
       "onboard_time": 1732121656,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43673,
-      "num": 54182,
-      "word": "海玲孕晚期两周胖四斤",
-      "onboard_time": 1732144275,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 43482,
@@ -561,22 +657,6 @@
       "onboard_time": 1732129632,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 38970,
-      "num": 75189,
-      "word": "白夜破晓",
-      "onboard_time": 1732106302,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 38706,
-      "num": 54123,
-      "word": "夏弃疾说丁禹兮本人真的很帅",
-      "onboard_time": 1732144936,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 37872,
@@ -628,11 +708,11 @@
     },
     {
       "raw_hot": 25423,
-      "num": 146341,
-      "word": "快递员用肢体语言提醒聋哑人",
-      "onboard_time": 1732144455,
-      "rank": 9,
-      "category": "正能量"
+      "num": 323393,
+      "word": "蓝色经济为中巴经济增长注入新动能",
+      "onboard_time": 1732109781,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24462,
@@ -667,12 +747,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 21716,
-      "num": 323393,
-      "word": "蓝色经济为中巴经济增长注入新动能",
-      "onboard_time": 1732109781,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 21859,
+      "num": 145598,
+      "word": "CPR和AED救命神器学起来",
+      "onboard_time": 1732145656,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21162,
