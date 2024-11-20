@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732084370001,
+  "endTime": 1732085164460,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1141624,
+      "num": 327994,
+      "word": "72岁老人谈恋爱女友被女儿打",
+      "onboard_time": 1732082659,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1133133,
       "num": 270808,
       "word": "特朗普说马斯克喜欢我家赶都赶不走他",
@@ -769,14 +777,6 @@
       "onboard_time": 1732005800,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 910698,
-      "num": 304933,
-      "word": "72岁老人谈恋爱女友被女儿打",
-      "onboard_time": 1732082659,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 907515,
@@ -1683,6 +1683,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 593497,
+      "num": 593497,
+      "word": "红米 樊振东",
+      "onboard_time": 1732081999,
+      "rank": 4,
+      "category": "数码,体育"
+    },
+    {
       "raw_hot": 592684,
       "num": 396693,
       "word": "广州宠物狗疑似中毒死亡数仍在增加",
@@ -1697,14 +1705,6 @@
       "onboard_time": 1732002620,
       "rank": 32,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 588098,
-      "num": 588098,
-      "word": "红米 樊振东",
-      "onboard_time": 1732081999,
-      "rank": 4,
-      "category": "数码,体育"
     },
     {
       "raw_hot": 573726,
@@ -2084,7 +2084,7 @@
     },
     {
       "raw_hot": 481075,
-      "num": 274290,
+      "num": 321292,
       "word": "闵熙珍取关NewJeans",
       "onboard_time": 1732082300,
       "rank": 16,
@@ -2643,6 +2643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 374915,
+      "num": 374915,
+      "word": "费启鸣还我高亚楠",
+      "onboard_time": 1732083019,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373097,
       "num": 396752,
       "word": "国足vs日本首发",
@@ -2875,6 +2883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 340334,
+      "num": 319028,
+      "word": "花少6你早这么剪不就没事了",
+      "onboard_time": 1732084099,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339121,
       "num": 469342,
       "word": "郭俊辰看代拍吵架憋出内伤",
@@ -3011,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314064,
+      "num": 314064,
+      "word": "百雀羚年内线上销售额近3亿元",
+      "onboard_time": 1732080680,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313406,
       "num": 313406,
       "word": "中国6岁小朋友开始设想歼90了",
@@ -3097,14 +3121,6 @@
       "onboard_time": 1731992842,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304911,
-      "num": 304911,
-      "word": "百雀羚年内线上销售额近3亿元",
-      "onboard_time": 1732080680,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304235,
@@ -3409,6 +3425,14 @@
       "onboard_time": 1731793152,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276206,
+      "num": 276206,
+      "word": "赵露思新剧恋人路透造型",
+      "onboard_time": 1732084040,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 275544,
@@ -3851,14 +3875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242767,
-      "num": 242767,
-      "word": "费启鸣还我高亚楠",
-      "onboard_time": 1732083019,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242441,
       "num": 297861,
       "word": "捷克外长遭伦敦大学生当面怒斥",
@@ -4107,6 +4123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229290,
+      "num": 229290,
+      "word": "涵艺爆料TheShy与Rookie新队友",
+      "onboard_time": 1732083798,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229188,
       "num": 425067,
       "word": "金莎见周迅紧张到结巴",
@@ -4267,6 +4291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221649,
+      "num": 317314,
+      "word": "跑男变走男",
+      "onboard_time": 1732084279,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221049,
       "num": 221049,
       "word": "华为Mate70四种配色",
@@ -4363,14 +4395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214540,
-      "num": 214540,
-      "word": "赵露思新剧恋人路透造型",
-      "onboard_time": 1732084040,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214273,
       "num": 214273,
       "word": "孙颖莎的莎式耳机戴法",
@@ -4433,6 +4457,14 @@
       "onboard_time": 1732017980,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211721,
+      "num": 295206,
+      "word": "白夜破晓书接上回",
+      "onboard_time": 1732082119,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 211546,
@@ -4665,14 +4697,6 @@
       "onboard_time": 1731817160,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204165,
-      "num": 295206,
-      "word": "白夜破晓书接上回",
-      "onboard_time": 1732082119,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 203774,
@@ -4931,14 +4955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196354,
-      "num": 196354,
-      "word": "涵艺爆料TheShy与Rookie新队友",
-      "onboard_time": 1732083798,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 196013,
       "num": 196013,
       "word": "安静公主 迪士尼",
@@ -5091,6 +5107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191016,
+      "num": 191016,
+      "word": "济南推出把子肉公交卡",
+      "onboard_time": 1732084160,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190979,
       "num": 200745,
       "word": "王一博两部作品入选五个一工程奖",
@@ -5233,6 +5257,14 @@
       "onboard_time": 1731768742,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188911,
+      "num": 264120,
+      "word": "丁禹兮这次火是一种必然",
+      "onboard_time": 1732081459,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 188757,
@@ -5483,6 +5515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183758,
+      "num": 183758,
+      "word": "这些症状是心脏在求救",
+      "onboard_time": 1732084518,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183752,
       "num": 183752,
       "word": "张碧晨十年老粉是清华博士",
@@ -5627,6 +5667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180785,
+      "num": 180785,
+      "word": "为什么我烤的蛋挞变成了鸡蛋",
+      "onboard_time": 1732082599,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180691,
       "num": 275432,
       "word": "林良铭破门",
@@ -5697,14 +5745,6 @@
       "onboard_time": 1732041252,
       "rank": 29,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 178959,
-      "num": 264120,
-      "word": "丁禹兮这次火是一种必然",
-      "onboard_time": 1732081459,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 178573,
@@ -5849,6 +5889,22 @@
       "onboard_time": 1732008379,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174787,
+      "num": 174787,
+      "word": "费启鸣资源",
+      "onboard_time": 1732085000,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174662,
+      "num": 174662,
+      "word": "副镇长陪外卖员跑单全程跟不上",
+      "onboard_time": 1732084701,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 174096,
@@ -6225,14 +6281,6 @@
       "onboard_time": 1731923960,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165402,
-      "num": 165402,
-      "word": "为什么我烤的蛋挞变成了鸡蛋",
-      "onboard_time": 1732082599,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 165365,
@@ -6625,6 +6673,14 @@
       "onboard_time": 1731948436,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154762,
+      "num": 233994,
+      "word": "涵艺说Zeus得不到尊重",
+      "onboard_time": 1732084701,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 154677,
@@ -7161,14 +7217,6 @@
       "onboard_time": 1732073299,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143615,
-      "num": 143615,
-      "word": "济南推出把子肉公交卡",
-      "onboard_time": 1732084160,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143422,
@@ -8060,7 +8108,7 @@
     },
     {
       "raw_hot": 120957,
-      "num": 203208,
+      "num": 311898,
       "word": "杨幂胡歌内娱启蒙cp",
       "onboard_time": 1732083379,
       "rank": 36,
@@ -9139,14 +9187,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 78107,
-      "num": 214361,
-      "word": "花少6你早这么剪不就没事了",
-      "onboard_time": 1732084099,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77920,
       "num": 360170,
       "word": "黑龙江警方启动无人机寻找老虎",
@@ -9329,6 +9369,14 @@
       "onboard_time": 1732072700,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 73167,
+      "num": 181325,
+      "word": "花少6 黑暗荣耀",
+      "onboard_time": 1732084759,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 71996,
@@ -9867,6 +9915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54679,
+      "num": 231243,
+      "word": "姿态说Faker值得尊敬",
+      "onboard_time": 1732084701,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54606,
       "num": 192964,
       "word": "赵小童耶嘿下班咯",
@@ -10033,6 +10089,14 @@
       "onboard_time": 1731799275,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51696,
+      "num": 329986,
+      "word": "专家称大牯牛山被烧植物为杜鹃类",
+      "onboard_time": 1732083920,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51556,
@@ -10465,14 +10529,6 @@
       "onboard_time": 1732080079,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41901,
-      "num": 213544,
-      "word": "跑男变走男",
-      "onboard_time": 1732084279,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 41795,
@@ -11523,6 +11579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24830,
+      "num": 235805,
+      "word": "花少你竟然背着我偷偷开始美好了",
+      "onboard_time": 1732084819,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24824,
       "num": 24824,
       "word": "我立志要办成的一件大事",
@@ -11827,6 +11891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20500,
+      "num": 314792,
+      "word": "王艺迪说赢得比较幸运",
+      "onboard_time": 1732084701,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20432,
       "num": 36987,
       "word": "警方悬赏通缉10名在逃嫌疑人",
@@ -11944,14 +12016,6 @@
       "word": "大牯牛山走红后垃圾遍地",
       "onboard_time": 1732053251,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18569,
-      "num": 304965,
-      "word": "专家称大牯牛山被烧植物为杜鹃类",
-      "onboard_time": 1732083920,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -12539,6 +12603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 9232,
+      "num": 230346,
+      "word": "2024年注会成绩11月22日公布",
+      "onboard_time": 1732084160,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 9101,
       "num": 84904,
       "word": "王劲松印象最深刻的一顿饭",
@@ -12585,14 +12657,6 @@
       "onboard_time": 1731927979,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6681,
-      "num": 214182,
-      "word": "2024年注会成绩11月22日公布",
-      "onboard_time": 1732084160,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 6557,

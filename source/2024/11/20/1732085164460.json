@@ -1,0 +1,410 @@
+{
+  "runTime": 1732085164460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1690437,
+        "num": 1690437,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 611622,
+        "num": 611622,
+        "word": "花少6",
+        "onboard_time": 1732079242,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27947,
+        "num": 604037,
+        "word": "2024世界互联网大会乌镇峰会开幕",
+        "onboard_time": 1732072700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 603271,
+        "num": 603271,
+        "word": "举报史航性骚扰当事人道歉",
+        "onboard_time": 1732077980,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593497,
+        "num": 593497,
+        "word": "红米 樊振东",
+        "onboard_time": 1732081999,
+        "rank": 4,
+        "category": "数码,体育"
+      },
+      {
+        "raw_hot": 435566,
+        "num": 435566,
+        "word": "虞书欣杂志",
+        "onboard_time": 1732081340,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 409083,
+        "num": 409083,
+        "word": "药监局回应会尽快通报百雀羚立案详情",
+        "onboard_time": 1732078703,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 374915,
+        "num": 374915,
+        "word": "费启鸣还我高亚楠",
+        "onboard_time": 1732083019,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331106,
+        "num": 331106,
+        "word": "卫生巾偷工减料压缩的不是成本是口碑",
+        "onboard_time": 1732073540,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 51696,
+        "num": 329986,
+        "word": "专家称大牯牛山被烧植物为杜鹃类",
+        "onboard_time": 1732083920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1141624,
+        "num": 327994,
+        "word": "72岁老人谈恋爱女友被女儿打",
+        "onboard_time": 1732082659,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908562,
+        "num": 325818,
+        "word": "邻居为麦琳发声",
+        "onboard_time": 1732078104,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655025,
+        "num": 324134,
+        "word": "曾轶可长发",
+        "onboard_time": 1732075639,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 633935,
+        "num": 322502,
+        "word": "单亲妈妈做试管婴儿送外卖途中早产",
+        "onboard_time": 1732069878,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452872,
+        "num": 321292,
+        "word": "闵熙珍取关NewJeans",
+        "onboard_time": 1732082300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340334,
+        "num": 319028,
+        "word": "花少6你早这么剪不就没事了",
+        "onboard_time": 1732084099,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221649,
+        "num": 317314,
+        "word": "跑男变走男",
+        "onboard_time": 1732084279,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20500,
+        "num": 314792,
+        "word": "王艺迪说赢得比较幸运",
+        "onboard_time": 1732084701,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314064,
+        "num": 314064,
+        "word": "百雀羚年内线上销售额近3亿元",
+        "onboard_time": 1732080680,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79742,
+        "num": 311898,
+        "word": "杨幂胡歌内娱启蒙cp",
+        "onboard_time": 1732083379,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311197,
+        "num": 311197,
+        "word": "女子分手20年前男友突然出现在房本",
+        "onboard_time": 1732073237,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281038,
+        "num": 281038,
+        "word": "8岁小学生沉迷拍烟卡手指溃烂",
+        "onboard_time": 1732077320,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277659,
+        "num": 277659,
+        "word": "小巷人家 和谁在一起真的不一样",
+        "onboard_time": 1732077081,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276206,
+        "num": 276206,
+        "word": "赵露思新剧恋人路透造型",
+        "onboard_time": 1732084040,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142707,
+        "num": 248020,
+        "word": "广州拟将低使用率男厕改为无性别公厕",
+        "onboard_time": 1732069938,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236064,
+        "num": 236064,
+        "word": "王大发说丁禹兮火不久",
+        "onboard_time": 1732059196,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24830,
+        "num": 235805,
+        "word": "花少你竟然背着我偷偷开始美好了",
+        "onboard_time": 1732084819,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154762,
+        "num": 233994,
+        "word": "涵艺说Zeus得不到尊重",
+        "onboard_time": 1732084701,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54679,
+        "num": 231243,
+        "word": "姿态说Faker值得尊敬",
+        "onboard_time": 1732084701,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9232,
+        "num": 230346,
+        "word": "2024年注会成绩11月22日公布",
+        "onboard_time": 1732084160,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229290,
+        "num": 229290,
+        "word": "涵艺爆料TheShy与Rookie新队友",
+        "onboard_time": 1732083798,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211721,
+        "num": 211721,
+        "word": "白夜破晓书接上回",
+        "onboard_time": 1732082119,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201895,
+        "num": 201895,
+        "word": "雷军喊话欢迎大家投递简历",
+        "onboard_time": 1732081699,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191016,
+        "num": 191016,
+        "word": "济南推出把子肉公交卡",
+        "onboard_time": 1732084160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188911,
+        "num": 188911,
+        "word": "丁禹兮这次火是一种必然",
+        "onboard_time": 1732081459,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186952,
+        "num": 186952,
+        "word": "白鹿给粉丝准备的逆应援",
+        "onboard_time": 1732080440,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183758,
+        "num": 183758,
+        "word": "这些症状是心脏在求救",
+        "onboard_time": 1732084518,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73167,
+        "num": 181325,
+        "word": "花少6 黑暗荣耀",
+        "onboard_time": 1732084759,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180785,
+        "num": 180785,
+        "word": "为什么我烤的蛋挞变成了鸡蛋",
+        "onboard_time": 1732082599,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180656,
+        "num": 180656,
+        "word": "广东人开始了时尚穿衣模式",
+        "onboard_time": 1732080260,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177871,
+        "num": 177871,
+        "word": "关宏峰被抓2小时7年后才放出来",
+        "onboard_time": 1732074500,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174787,
+        "num": 174787,
+        "word": "费启鸣资源",
+        "onboard_time": 1732085000,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177288,
+        "num": 174768,
+        "word": "白夜追凶法医姐姐呢",
+        "onboard_time": 1732081101,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174662,
+        "num": 174662,
+        "word": "副镇长陪外卖员跑单全程跟不上",
+        "onboard_time": 1732084701,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163883,
+        "num": 163883,
+        "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
+        "onboard_time": 1732036454,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163827,
+        "num": 163827,
+        "word": "Doinb老头杯下跪道歉",
+        "onboard_time": 1732073299,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154525,
+        "num": 154525,
+        "word": "白夜追凶2空降",
+        "onboard_time": 1732077020,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152979,
+        "num": 152979,
+        "word": "酒店偷拍已形成从生产到交易产业链",
+        "onboard_time": 1732078581,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 147680,
+        "num": 147680,
+        "word": "杨幂和胡歌之间只差5个key",
+        "onboard_time": 1732071499,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139556,
+        "num": 139556,
+        "word": "男子欺负卖花母子事件反转当事人发声",
+        "onboard_time": 1732075399,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
