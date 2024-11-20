@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732135165082,
+  "endTime": 1732137724766,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -10739,6 +10739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77291,
+      "num": 126272,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77146,
       "num": 218109,
       "word": "张含韵辟谣南烟斋笔录加戏",
@@ -13115,14 +13123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31157,
-      "num": 31157,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31113,
       "num": 196203,
       "word": "北欧三国向民众发放战时手册",
@@ -13971,6 +13971,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20983,
+      "num": 28814,
+      "word": "ABC所属公司回应下架",
+      "onboard_time": 1732134791,
+      "rank": 14,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 20853,
       "num": 301499,
       "word": "国服盲僧许昕闭眼入",
@@ -14009,6 +14017,14 @@
       "onboard_time": 1731950235,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20522,
+      "num": 20522,
+      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
+      "onboard_time": 1732133292,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 20504,
@@ -14065,6 +14081,14 @@
       "onboard_time": 1732068498,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20172,
+      "num": 20172,
+      "word": "又到了跳初雪的季节",
+      "onboard_time": 1732137200,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 20037,
@@ -14275,6 +14299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17120,
+      "num": 17120,
+      "word": "电诈骗子又出损招",
+      "onboard_time": 1732134131,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17077,
       "num": 230581,
       "word": "周润发参加十公里长跑比赛",
@@ -14305,6 +14337,14 @@
       "onboard_time": 1731769883,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16594,
+      "num": 27877,
+      "word": "杨天真为VOGUE红毯一天往返东京",
+      "onboard_time": 1732133111,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 16560,
@@ -14385,22 +14425,6 @@
       "onboard_time": 1731791171,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15267,
-      "num": 15267,
-      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
-      "onboard_time": 1732133292,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 15089,
-      "num": 16390,
-      "word": "电诈骗子又出损招",
-      "onboard_time": 1732134131,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14896,
@@ -14587,6 +14611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12914,
+      "num": 27353,
+      "word": "防虎公告称弯腰劳作脑后可带假面具",
+      "onboard_time": 1732137259,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 12773,
       "num": 55094,
       "word": "亚太命运共同体",
@@ -14601,14 +14633,6 @@
       "onboard_time": 1732107140,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 12547,
-      "num": 28814,
-      "word": "ABC所属公司回应下架",
-      "onboard_time": 1732134791,
-      "rank": 14,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 12473,
@@ -14931,14 +14955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8668,
-      "num": 27877,
-      "word": "杨天真为VOGUE红毯一天往返东京",
-      "onboard_time": 1732133111,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 8219,
       "num": 283848,
       "word": "詹俊称国足出线仍有机会需一场场拼",
@@ -15057,6 +15073,14 @@
       "onboard_time": 1732131191,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 5423,
+      "num": 20555,
+      "word": "谭松韵出发深圳",
+      "onboard_time": 1732136831,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 5416,

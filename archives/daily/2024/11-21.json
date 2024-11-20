@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732135165082,
+  "endTime": 1732137724766,
   "band_list": [
     {
       "raw_hot": 1111331,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77291,
+      "num": 126272,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76894,
       "num": 76894,
       "word": "钟南山建议这类人群每年查肺功能",
@@ -515,14 +523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31157,
-      "num": 31157,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30558,
       "num": 30558,
       "word": "日本发生5级地震东京有明显震感",
@@ -571,6 +571,30 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 20983,
+      "num": 28814,
+      "word": "ABC所属公司回应下架",
+      "onboard_time": 1732134791,
+      "rank": 14,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 20522,
+      "num": 20522,
+      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
+      "onboard_time": 1732133292,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 20172,
+      "num": 20172,
+      "word": "又到了跳初雪的季节",
+      "onboard_time": 1732137200,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20037,
       "num": 21186,
       "word": "等了七年了",
@@ -587,12 +611,28 @@
       "category": "音乐,旅游"
     },
     {
+      "raw_hot": 17120,
+      "num": 17120,
+      "word": "电诈骗子又出损招",
+      "onboard_time": 1732134131,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16866,
       "num": 21548,
       "word": "白夜破晓",
       "onboard_time": 1732106302,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16594,
+      "num": 27877,
+      "word": "杨天真为VOGUE红毯一天往返东京",
+      "onboard_time": 1732133111,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 16525,
@@ -619,22 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15267,
-      "num": 15267,
-      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
-      "onboard_time": 1732133292,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 15089,
-      "num": 16390,
-      "word": "电诈骗子又出损招",
-      "onboard_time": 1732134131,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14754,
       "num": 16645,
       "word": "刘宇宁原声台词",
@@ -659,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12547,
-      "num": 28814,
-      "word": "ABC所属公司回应下架",
-      "onboard_time": 1732134791,
-      "rank": 14,
-      "category": "民生新闻,财经"
+      "raw_hot": 12914,
+      "num": 27353,
+      "word": "防虎公告称弯腰劳作脑后可带假面具",
+      "onboard_time": 1732137259,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 12287,
@@ -691,7 +715,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10992,
+      "raw_hot": 10999,
       "num": 84678,
       "word": "蓝色经济为中巴经济增长注入新动能",
       "onboard_time": 1732109781,
@@ -715,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8668,
-      "num": 27877,
-      "word": "杨天真为VOGUE红毯一天往返东京",
-      "onboard_time": 1732133111,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 6557,
       "num": 19744,
       "word": "吉林文旅发了肖战",
@@ -739,12 +755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6436,
+      "num": 20201,
+      "word": "王一博两部作品入选五个一工程奖",
+      "onboard_time": 1732136049,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 5650,
       "num": 30081,
       "word": "许凯背着薯条",
       "onboard_time": 1732131191,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 5423,
+      "num": 20555,
+      "word": "谭松韵出发深圳",
+      "onboard_time": 1732136831,
+      "rank": 24,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
