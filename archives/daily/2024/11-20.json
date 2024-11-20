@@ -1,10 +1,10 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732106695803,
+  "endTime": 1732107687633,
   "band_list": [
     {
-      "raw_hot": 2737177,
-      "num": 310055,
+      "raw_hot": 2882235,
+      "num": 463375,
       "word": "遭多人强奸智残女子家中装7个监控",
       "onboard_time": 1732105222,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1516524,
-      "num": 371717,
+      "num": 461972,
       "word": "卫生巾塌房",
       "onboard_time": 1732094241,
       "rank": 27,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1329270,
+      "num": 1329270,
+      "word": "胖东来宣布员工结婚酒席不超5桌",
+      "onboard_time": 1732105341,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1278928,
       "num": 1278928,
       "word": "跑男变走男",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1174885,
-      "num": 300959,
+      "num": 462703,
       "word": "关晓彤19岁就拿了白玉兰",
       "onboard_time": 1732102878,
       "rank": 11,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1140610,
-      "num": 369019,
+      "num": 460691,
       "word": "宋仲基二胎出生",
       "onboard_time": 1732098320,
       "rank": 11,
@@ -267,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 821068,
+      "num": 462309,
+      "word": "听泉鉴宝 徐志胜",
+      "onboard_time": 1732102940,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 819854,
       "num": 819854,
       "word": "百雀羚",
@@ -312,14 +328,6 @@
       "word": "费启鸣资源",
       "onboard_time": 1732085000,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 768781,
-      "num": 274298,
-      "word": "听泉鉴宝 徐志胜",
-      "onboard_time": 1732102940,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -459,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 615657,
-      "num": 272622,
-      "word": "胖东来宣布员工结婚酒席不超5桌",
-      "onboard_time": 1732105341,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 628295,
+      "num": 628295,
+      "word": "王皓抬头望天",
+      "onboard_time": 1732106000,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 597041,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478394,
+      "num": 478394,
+      "word": "市药监局认定百雀羚不存在违规行为",
+      "onboard_time": 1732103841,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 472347,
       "num": 472347,
       "word": "虞书欣杂志",
@@ -633,6 +649,14 @@
       "onboard_time": 1732090279,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 460295,
+      "num": 460295,
+      "word": "庾澄庆晒与老婆合照",
+      "onboard_time": 1732105880,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 458606,
@@ -673,14 +697,6 @@
       "onboard_time": 1732061600,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 428675,
-      "num": 428675,
-      "word": "市药监局认定百雀羚不存在违规行为",
-      "onboard_time": 1732103841,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 420049,
@@ -803,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360578,
+      "num": 360578,
+      "word": "东部战区陆军某旅开展浮桥架设演练",
+      "onboard_time": 1732105402,
+      "rank": 20,
+      "category": "军事"
+    },
+    {
       "raw_hot": 357011,
       "num": 379627,
       "word": "猎罪图鉴全集限免",
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 324340,
-      "num": 324340,
+      "num": 464581,
       "word": "奔跑吧全员都哭了",
       "onboard_time": 1732101500,
       "rank": 44,
@@ -857,6 +881,14 @@
       "onboard_time": 1732021522,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321100,
+      "num": 321100,
+      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+      "onboard_time": 1732105521,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 320418,
@@ -875,16 +907,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 316146,
-      "num": 266319,
-      "word": "庾澄庆晒与老婆合照",
-      "onboard_time": 1732105880,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315888,
-      "num": 269977,
+      "num": 306922,
       "word": "小狗离世前十分钟医师对它吐烟",
       "onboard_time": 1732104740,
       "rank": 21,
@@ -913,6 +937,14 @@
       "onboard_time": 1732026262,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309766,
+      "num": 309766,
+      "word": "林小姐你今天不嫁也得嫁",
+      "onboard_time": 1732104860,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 306519,
@@ -955,12 +987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293680,
-      "num": 271110,
-      "word": "王皓抬头望天",
-      "onboard_time": 1732106000,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 293491,
+      "num": 293491,
+      "word": "胖东来宣布员工结婚不允许要或付彩礼",
+      "onboard_time": 1732106721,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288362,
@@ -979,28 +1011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274708,
-      "num": 274708,
-      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
-      "onboard_time": 1732105521,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272396,
       "num": 272396,
       "word": "靠谱的国货卫生巾",
       "onboard_time": 1732017920,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 270784,
-      "num": 270784,
-      "word": "林小姐你今天不嫁也得嫁",
-      "onboard_time": 1732104860,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 266206,
@@ -1195,11 +1211,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221762,
-      "num": 270630,
-      "word": "东部战区陆军某旅开展浮桥架设演练",
-      "onboard_time": 1732105402,
-      "rank": 20,
+      "raw_hot": 221638,
+      "num": 277427,
+      "word": "东部战区搭桥速度也太快了",
+      "onboard_time": 1732106481,
+      "rank": 24,
       "category": "军事"
     },
     {
@@ -1836,7 +1852,7 @@
     },
     {
       "raw_hot": 163407,
-      "num": 268476,
+      "num": 284578,
       "word": "白夜破晓",
       "onboard_time": 1732106302,
       "rank": 25,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1732071137,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140420,
-      "num": 268769,
-      "word": "东部战区搭桥速度也太快了",
-      "onboard_time": 1732106481,
-      "rank": 24,
-      "category": "军事"
     },
     {
       "raw_hot": 140319,
@@ -2331,6 +2339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122357,
+      "num": 122357,
+      "word": "女子推理社NPC演技",
+      "onboard_time": 1732107320,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122147,
       "num": 122147,
       "word": "落马局长家中桌椅都由老板买单",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1732083379,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120723,
+      "num": 410173,
+      "word": "张本智和跳APT庆祝",
+      "onboard_time": 1732107441,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 119206,
@@ -2715,6 +2739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74825,
+      "num": 266660,
+      "word": "对话赵露思",
+      "onboard_time": 1732104981,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73969,
       "num": 836495,
       "word": "2024世界互联网大会乌镇峰会开幕",
@@ -2737,14 +2769,6 @@
       "onboard_time": 1732076000,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69589,
-      "num": 266660,
-      "word": "对话赵露思",
-      "onboard_time": 1732104981,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 65726,
@@ -2809,6 +2833,14 @@
       "onboard_time": 1732097719,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60626,
+      "num": 464035,
+      "word": "教育局回应小蜜蜂老师身份质疑",
+      "onboard_time": 1732107382,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59553,
@@ -3179,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30100,
+      "num": 375407,
+      "word": "军团杯明星赛训团集结",
+      "onboard_time": 1732107201,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 29665,
       "num": 300727,
       "word": "教育对人的评价只有分数这个标准吗",
@@ -3267,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26698,
+      "num": 461341,
+      "word": "白夜破晓的后期改到导演一直量血压",
+      "onboard_time": 1732106541,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26438,
       "num": 356170,
       "word": "抓住心梗抢救黄金时间120分钟",
@@ -3329,6 +3377,14 @@
       "onboard_time": 1732073659,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23693,
+      "num": 129252,
+      "word": "赵一博吃火锅嘴没停过",
+      "onboard_time": 1732107441,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 22655,
@@ -3443,14 +3499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14191,
-      "num": 273708,
-      "word": "白夜破晓的后期改到导演一直量血压",
-      "onboard_time": 1732106541,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13744,
       "num": 189900,
       "word": "鹿晗ins晒定制话筒",
@@ -3459,12 +3507,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13348,
+      "num": 658418,
+      "word": "马克龙说喜爱中国和中国人民",
+      "onboard_time": 1732092979,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12610,
+      "num": 119230,
+      "word": "一分钟教你冬天跑步怎么穿",
+      "onboard_time": 1732107140,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 12319,
       "num": 33439,
       "word": "袁一琦 好绝的毕业公演设计",
       "onboard_time": 1732042511,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11624,
+      "num": 282580,
+      "word": "女推社谈生理期",
+      "onboard_time": 1732106961,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 11493,
