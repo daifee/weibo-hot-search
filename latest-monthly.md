@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 16:45:01
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/20 17:25:28
 </p>
 </blockquote>
 <p>
@@ -4035,6 +4035,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%BA%A2%E7%A8%8E%23" target="weibo">
+粉红税（热度：880505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E4%BC%9A%E5%85%81%E8%AE%B8%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B%E7%94%9F%E6%88%98%E7%94%9F%E4%B9%B1%23" target="weibo">
 中方不会允许朝鲜半岛生战生乱（热度：877885）
 </a>
@@ -4307,6 +4313,12 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E6%9D%A1%E5%8B%87%E6%95%A2%E7%9A%84%E6%B1%89%E5%AD%90%23" target="weibo">
 普京称特朗普是条勇敢的汉子（热度：850138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Zeus%E9%81%93%E6%AD%89%23" target="weibo">
+Zeus道歉（热度：849243）
 </a>
 </li>
 
@@ -5625,6 +5637,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%8C%BB%E9%99%A2CT%E5%9B%BE%E5%83%8F%E5%B0%B1%E8%A6%81%E5%B0%91%E6%94%B6%E8%B4%B9%23" target="weibo">
+手机不能看医院CT图像就要少收费（热度：706076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%90%8E%E8%A2%AB%E4%BB%A3%E5%AD%95%E6%9C%BA%E6%9E%84%E6%8B%89%E9%BB%91%23" target="weibo">
 女子怀孕后被代孕机构拉黑（热度：705881）
 </a>
@@ -5681,12 +5699,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%BB%8E%E9%83%91%E5%B7%9E%E5%A4%9C%E9%AA%91%E5%BC%80%E5%B0%81%E7%9A%84%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
 第一个从郑州夜骑开封的女生发声（热度：698855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%8C%BB%E9%99%A2CT%E5%9B%BE%E5%83%8F%E5%B0%B1%E8%A6%81%E5%B0%91%E6%94%B6%E8%B4%B9%23" target="weibo">
-手机不能看医院CT图像就要少收费（热度：698089）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLG赛后采访（热度：672798）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%B3%B0%E5%9B%BD%E8%A7%81%E9%9D%A2%E4%BC%9A%E7%BB%BF%E6%AF%AF%23" target="weibo">
 白鹿泰国见面会绿毯（热度：671553）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%B8%B9%20%E7%A5%9D%E7%BB%AA%E7%A5%9D%E7%BB%AA%E4%B8%B9%23" target="weibo">
-祝绪祝绪丹丹 祝绪祝绪丹（热度：671091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%23" target="weibo">
-国足进球（热度：670068）
 </a>
 </li>
 

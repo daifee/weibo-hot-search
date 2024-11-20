@@ -1,0 +1,410 @@
+{
+  "runTime": 1732094728947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 849243,
+        "num": 1135878,
+        "word": "Zeus道歉",
+        "onboard_time": 1732093579,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 789461,
+        "num": 789461,
+        "word": "医院CT等收费将执行新规",
+        "onboard_time": 1732086920,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60186,
+        "num": 721605,
+        "word": "互鉴",
+        "onboard_time": 1732093161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 803831,
+        "num": 717795,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706076,
+        "num": 706076,
+        "word": "手机不能看医院CT图像就要少收费",
+        "onboard_time": 1732088720,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 653715,
+        "num": 653715,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451817,
+        "num": 451817,
+        "word": "一个国家一再否决导致安理会软弱无能",
+        "onboard_time": 1732086799,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 447939,
+        "num": 447939,
+        "word": "跑男变走男",
+        "onboard_time": 1732084279,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404440,
+        "num": 404440,
+        "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
+        "onboard_time": 1732090279,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209351,
+        "num": 402905,
+        "word": "流浪狗撞翻骑车人投喂者被判赔6万",
+        "onboard_time": 1732093340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880505,
+        "num": 386234,
+        "word": "粉红税",
+        "onboard_time": 1732090700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604638,
+        "num": 378648,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 480534,
+        "num": 371029,
+        "word": "金晨 这是我今年最开心的一天",
+        "onboard_time": 1732092679,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31147,
+        "num": 366078,
+        "word": "别让酒店成为隐私黑洞",
+        "onboard_time": 1732094000,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 432008,
+        "num": 352994,
+        "word": "武艺 死车快开啊",
+        "onboard_time": 1732087640,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348746,
+        "num": 348746,
+        "word": "葛夕说麦琳会把旧冰箱挂闲鱼",
+        "onboard_time": 1732088420,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307767,
+        "num": 307767,
+        "word": "中方在联合国点名一个常任理事国",
+        "onboard_time": 1732085778,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216566,
+        "num": 307149,
+        "word": "杨仕泽直播",
+        "onboard_time": 1732093879,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 49588,
+        "num": 306575,
+        "word": "百雀羚还灵不灵",
+        "onboard_time": 1732093819,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 164690,
+        "num": 305844,
+        "word": "黄子弘凡轻熟质感封面大片",
+        "onboard_time": 1732094301,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27250,
+        "num": 305381,
+        "word": "梦之队星青年云访谈",
+        "onboard_time": 1732093519,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26698,
+        "num": 304839,
+        "word": "马龙谈迷茫受挫时如何调整",
+        "onboard_time": 1732093519,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549048,
+        "num": 304180,
+        "word": "44岁农村智障女性遭数次性侵产女",
+        "onboard_time": 1732090521,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303639,
+        "num": 303639,
+        "word": "周雨彤镜头下的金晨宋茜",
+        "onboard_time": 1732091901,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284269,
+        "num": 284269,
+        "word": "这些症状是心脏在求救",
+        "onboard_time": 1732084518,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245061,
+        "num": 245061,
+        "word": "女子被家暴16次离婚案将二次开庭",
+        "onboard_time": 1732090341,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241496,
+        "num": 241496,
+        "word": "单亲妈妈做试管婴儿送外卖途中早产",
+        "onboard_time": 1732069878,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216352,
+        "num": 216352,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28720,
+        "num": 214451,
+        "word": "邵艺辉 拒绝屏摄文明观影",
+        "onboard_time": 1732087701,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31656,
+        "num": 211880,
+        "word": "何小鹏称12月P7+交付将破万",
+        "onboard_time": 1732093340,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 714757,
+        "num": 210339,
+        "word": "抖音崩了",
+        "onboard_time": 1732089019,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168283,
+        "num": 204899,
+        "word": "花少6你早这么剪不就没事了",
+        "onboard_time": 1732084099,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204512,
+        "num": 204512,
+        "word": "俄军在境内打死一名美军游骑兵",
+        "onboard_time": 1732085539,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26252,
+        "num": 200414,
+        "word": "白夜破晓有吴晓亮",
+        "onboard_time": 1732091781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198467,
+        "num": 198467,
+        "word": "严浩翔五周年单人直播",
+        "onboard_time": 1732093879,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198172,
+        "num": 198172,
+        "word": "央视镜头下的丁禹兮",
+        "onboard_time": 1732087279,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196085,
+        "num": 196085,
+        "word": "美驻乌使馆称收到可能发生重大空袭信息",
+        "onboard_time": 1732089559,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194431,
+        "num": 194431,
+        "word": "王一博上榜好莱坞最受瞩目演员",
+        "onboard_time": 1732093519,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171686,
+        "num": 171686,
+        "word": "恋人",
+        "onboard_time": 1732091601,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170071,
+        "num": 170071,
+        "word": "学古人坐姿后我的状态",
+        "onboard_time": 1732092859,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169040,
+        "num": 169040,
+        "word": "邻居为麦琳发声",
+        "onboard_time": 1732078104,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160722,
+        "num": 160722,
+        "word": "曾轶可长发",
+        "onboard_time": 1732075639,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160641,
+        "num": 160641,
+        "word": "闵熙珍取关NewJeans",
+        "onboard_time": 1732082300,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157207,
+        "num": 157207,
+        "word": "Tom HLE",
+        "onboard_time": 1732093939,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148406,
+        "num": 148406,
+        "word": "8岁小学生沉迷拍烟卡手指溃烂",
+        "onboard_time": 1732077320,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139393,
+        "num": 139393,
+        "word": "KB呆又呆 年轻人倒头就睡",
+        "onboard_time": 1732094540,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134257,
+        "num": 134257,
+        "word": "肖战把设计变成MV",
+        "onboard_time": 1732094659,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44394,
+        "num": 132691,
+        "word": "和郑钦文碰上杯了",
+        "onboard_time": 1732094600,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131674,
+        "num": 131674,
+        "word": "东北虎呈现向长白山腹地迁移扩散趋势",
+        "onboard_time": 1732091901,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130907,
+        "num": 130907,
+        "word": "林高远止步总决赛16强",
+        "onboard_time": 1732086620,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
