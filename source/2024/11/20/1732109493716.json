@@ -1,0 +1,410 @@
+{
+  "runTime": 1732109493716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649233,
+        "num": 1649233,
+        "word": "胖东来宣布员工结婚酒席不超5桌",
+        "onboard_time": 1732105341,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815699,
+        "num": 815699,
+        "word": "国乒男队一轮游",
+        "onboard_time": 1732108221,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12706,
+        "num": 577128,
+        "word": "互联网之光点亮乌镇",
+        "onboard_time": 1732109003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564275,
+        "num": 564275,
+        "word": "王皓抬头望天",
+        "onboard_time": 1732106000,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560708,
+        "num": 560708,
+        "word": "东部战区陆军某旅开展浮桥架设演练",
+        "onboard_time": 1732105402,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 486672,
+        "num": 486672,
+        "word": "市药监局认定百雀羚不存在违规行为",
+        "onboard_time": 1732103841,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 451175,
+        "num": 451175,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371269,
+        "num": 371269,
+        "word": "虞书欣11个行李箱没白带",
+        "onboard_time": 1732099220,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251938,
+        "num": 369323,
+        "word": "奔跑吧全员都哭了",
+        "onboard_time": 1732101500,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132961,
+        "num": 368303,
+        "word": "东部战区搭桥速度也太快了",
+        "onboard_time": 1732106481,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 3006607,
+        "num": 365285,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 427721,
+        "num": 364211,
+        "word": "张本智和跳APT庆祝",
+        "onboard_time": 1732107441,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 797027,
+        "num": 362042,
+        "word": "关晓彤19岁就拿了白玉兰",
+        "onboard_time": 1732102878,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66717,
+        "num": 360390,
+        "word": "孙颖莎亚锦赛退赛后首次出战",
+        "onboard_time": 1732108881,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39433,
+        "num": 358491,
+        "word": "对偷拍黑产顶格处罚才能形成威慑力",
+        "onboard_time": 1732108641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755387,
+        "num": 356869,
+        "word": "听泉鉴宝 徐志胜",
+        "onboard_time": 1732102940,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603411,
+        "num": 354937,
+        "word": "庾澄庆晒与老婆合照",
+        "onboard_time": 1732105880,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480276,
+        "num": 352263,
+        "word": "宋仲基二胎出生",
+        "onboard_time": 1732098320,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84209,
+        "num": 350855,
+        "word": "官方回应电梯冲顶28楼致男孩骨折",
+        "onboard_time": 1732108221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23000,
+        "num": 347670,
+        "word": "赵一博吃火锅嘴没停过",
+        "onboard_time": 1732107441,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431073,
+        "num": 346906,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116164,
+        "num": 343630,
+        "word": "宋亚轩流苏耳饰",
+        "onboard_time": 1732107981,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 343065,
+        "num": 343065,
+        "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+        "onboard_time": 1732105521,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333419,
+        "num": 333419,
+        "word": "林小姐你今天不嫁也得嫁",
+        "onboard_time": 1732104860,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320472,
+        "num": 320472,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1732103299,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298294,
+        "num": 298294,
+        "word": "小狗离世前十分钟医师对它吐烟",
+        "onboard_time": 1732104740,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184314,
+        "num": 288012,
+        "word": "失笑在红和糊中选择了黄",
+        "onboard_time": 1732108162,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173627,
+        "num": 273821,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90002,
+        "num": 244559,
+        "word": "方时赫瘦好多",
+        "onboard_time": 1732108940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126486,
+        "num": 236700,
+        "word": "原来华妃年轻时也像纯元",
+        "onboard_time": 1732099400,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224387,
+        "num": 224387,
+        "word": "减重版司美格鲁肽已上架开售",
+        "onboard_time": 1732108401,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211826,
+        "num": 211826,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205756,
+        "num": 205756,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175132,
+        "num": 175132,
+        "word": "男士卫生巾",
+        "onboard_time": 1732095200,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172376,
+        "num": 172376,
+        "word": "惠英红夸赵丽颖",
+        "onboard_time": 1732103539,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168611,
+        "num": 168611,
+        "word": "教育局回应小蜜蜂老师身份质疑",
+        "onboard_time": 1732107382,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163872,
+        "num": 163872,
+        "word": "央视起底水军运作完整黑产链",
+        "onboard_time": 1732100420,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155053,
+        "num": 155053,
+        "word": "家长曝育儿嫂给婴儿喂安眠药",
+        "onboard_time": 1732108401,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 153020,
+        "num": 153020,
+        "word": "林一支支吾吾 沈月脱口而出",
+        "onboard_time": 1732105461,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153005,
+        "num": 153005,
+        "word": "李子柒木活字师傅一套作品卖22万元",
+        "onboard_time": 1732103118,
+        "rank": 39,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 150176,
+        "num": 150176,
+        "word": "两警察私带警用装备跨省抓人索财",
+        "onboard_time": 1732098561,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140904,
+        "num": 140904,
+        "word": "Zeus道歉",
+        "onboard_time": 1732093579,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129683,
+        "num": 129683,
+        "word": "梁靖崑1比3张本智和",
+        "onboard_time": 1732105161,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121322,
+        "num": 121322,
+        "word": "小蜜蜂老师陷直播带货罗生门",
+        "onboard_time": 1732108641,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116279,
+        "num": 116279,
+        "word": "孙颖莎第一副球拍4块钱",
+        "onboard_time": 1732106000,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113963,
+        "num": 113963,
+        "word": "早田希娜总决赛止步16强",
+        "onboard_time": 1732108821,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113269,
+        "num": 113269,
+        "word": "杨仕泽在祝绪丹进直播后秒变脸",
+        "onboard_time": 1732095500,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108509,
+        "num": 108509,
+        "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+        "onboard_time": 1732098141,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106551,
+        "num": 106551,
+        "word": "让我爆哭的综艺又回来了",
+        "onboard_time": 1732096701,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103870,
+        "num": 103870,
+        "word": "KPL",
+        "onboard_time": 1732109422,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平G20里约峰会展现大国担当#"
+    }
+  }
+}

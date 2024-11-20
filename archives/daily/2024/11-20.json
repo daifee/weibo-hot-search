@@ -1,9 +1,9 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732107687633,
+  "endTime": 1732109493716,
   "band_list": [
     {
-      "raw_hot": 2882235,
+      "raw_hot": 3006607,
       "num": 463375,
       "word": "遭多人强奸智残女子家中装7个监控",
       "onboard_time": 1732105222,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1649233,
+      "num": 1649233,
+      "word": "胖东来宣布员工结婚酒席不超5桌",
+      "onboard_time": 1732105341,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1541872,
       "num": 717795,
       "word": "29岁抗癌博主一只羊吖去世",
@@ -104,14 +112,6 @@
       "word": "百雀羚化妆品涉嫌添加禁用原料基本属实",
       "onboard_time": 1732036454,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1329270,
-      "num": 1329270,
-      "word": "胖东来宣布员工结婚酒席不超5桌",
-      "onboard_time": 1732105341,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -289,6 +289,14 @@
       "onboard_time": 1732028182,
       "rank": 1,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 815699,
+      "num": 815699,
+      "word": "国乒男队一轮游",
+      "onboard_time": 1732108221,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 806107,
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 603411,
+      "num": 460295,
+      "word": "庾澄庆晒与老婆合照",
+      "onboard_time": 1732105880,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597041,
       "num": 597041,
       "word": "因果报应 复仇爽片",
@@ -513,6 +529,14 @@
       "onboard_time": 1732092679,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560708,
+      "num": 560708,
+      "word": "东部战区陆军某旅开展浮桥架设演练",
+      "onboard_time": 1732105402,
+      "rank": 20,
+      "category": "军事"
     },
     {
       "raw_hot": 555691,
@@ -603,20 +627,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 486672,
+      "num": 486672,
+      "word": "市药监局认定百雀羚不存在违规行为",
+      "onboard_time": 1732103841,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 481075,
       "num": 328178,
       "word": "闵熙珍取关NewJeans",
       "onboard_time": 1732082300,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 478394,
-      "num": 478394,
-      "word": "市药监局认定百雀羚不存在违规行为",
-      "onboard_time": 1732103841,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 472347,
@@ -651,20 +675,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 460295,
-      "num": 460295,
-      "word": "庾澄庆晒与老婆合照",
-      "onboard_time": 1732105880,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 458606,
       "num": 458606,
       "word": "林高远止步总决赛16强",
       "onboard_time": 1732086620,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 451175,
+      "num": 451175,
+      "word": "胖东来宣布员工结婚不允许要或付彩礼",
+      "onboard_time": 1732106721,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447425,
@@ -697,6 +721,14 @@
       "onboard_time": 1732061600,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 427721,
+      "num": 410173,
+      "word": "张本智和跳APT庆祝",
+      "onboard_time": 1732107441,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 420049,
@@ -819,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360578,
-      "num": 360578,
-      "word": "东部战区陆军某旅开展浮桥架设演练",
-      "onboard_time": 1732105402,
-      "rank": 20,
-      "category": "军事"
-    },
-    {
       "raw_hot": 357011,
       "num": 379627,
       "word": "猎罪图鉴全集限免",
@@ -851,12 +875,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343065,
+      "num": 343065,
+      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
+      "onboard_time": 1732105521,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337396,
       "num": 491286,
       "word": "海关截获超9000吨洋垃圾",
       "onboard_time": 1732053912,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333419,
+      "num": 333419,
+      "word": "林小姐你今天不嫁也得嫁",
+      "onboard_time": 1732104860,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 331572,
@@ -881,14 +921,6 @@
       "onboard_time": 1732021522,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321100,
-      "num": 321100,
-      "word": "孙颖莎王艺迪vs佐藤瞳桥本帆乃香",
-      "onboard_time": 1732105521,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 320418,
@@ -939,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 309766,
-      "num": 309766,
-      "word": "林小姐你今天不嫁也得嫁",
-      "onboard_time": 1732104860,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306519,
       "num": 306519,
       "word": "国家烟草专卖局原副局长被双开",
@@ -985,14 +1009,6 @@
       "onboard_time": 1732009520,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293491,
-      "num": 293491,
-      "word": "胖东来宣布员工结婚不允许要或付彩礼",
-      "onboard_time": 1732106721,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288362,
@@ -1187,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224387,
+      "num": 224387,
+      "word": "减重版司美格鲁肽已上架开售",
+      "onboard_time": 1732108401,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222234,
       "num": 267902,
       "word": "原来华妃年轻时也像纯元",
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 221638,
-      "num": 277427,
+      "num": 368303,
       "word": "东部战区搭桥速度也太快了",
       "onboard_time": 1732106481,
       "rank": 24,
@@ -1611,6 +1635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184314,
+      "num": 288012,
+      "word": "失笑在红和糊中选择了黄",
+      "onboard_time": 1732108162,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184060,
       "num": 184060,
       "word": "范丞丞直播",
@@ -1811,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168611,
+      "num": 464035,
+      "word": "教育局回应小蜜蜂老师身份质疑",
+      "onboard_time": 1732107382,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "奔跑吧茶马古道篇",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1732082240,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155053,
+      "num": 155053,
+      "word": "家长曝育儿嫂给婴儿喂安眠药",
+      "onboard_time": 1732108401,
+      "rank": 37,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 153847,
@@ -2379,20 +2427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121322,
+      "num": 121322,
+      "word": "小蜜蜂老师陷直播带货罗生门",
+      "onboard_time": 1732108641,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120957,
       "num": 311898,
       "word": "杨幂胡歌内娱启蒙cp",
       "onboard_time": 1732083379,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120723,
-      "num": 410173,
-      "word": "张本智和跳APT庆祝",
-      "onboard_time": 1732107441,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 119206,
@@ -2403,12 +2451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116164,
+      "num": 343630,
+      "word": "宋亚轩流苏耳饰",
+      "onboard_time": 1732107981,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 114483,
       "num": 114483,
       "word": "林峯TVB台庆压轴",
       "onboard_time": 1732066699,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113963,
+      "num": 113963,
+      "word": "早田希娜总决赛止步16强",
+      "onboard_time": 1732108821,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 110452,
@@ -2457,6 +2521,14 @@
       "onboard_time": 1732085599,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103870,
+      "num": 103870,
+      "word": "KPL",
+      "onboard_time": 1732109422,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 102876,
@@ -2603,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90002,
+      "num": 244559,
+      "word": "方时赫瘦好多",
+      "onboard_time": 1732108940,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89193,
       "num": 291998,
       "word": "人口老龄化养活了哪些新产业",
@@ -2632,6 +2712,14 @@
       "word": "东北虎进村咬伤人事件背后",
       "onboard_time": 1732039452,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84209,
+      "num": 350855,
+      "word": "官方回应电梯冲顶28楼致男孩骨折",
+      "onboard_time": 1732108221,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2771,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66717,
+      "num": 360390,
+      "word": "孙颖莎亚锦赛退赛后首次出战",
+      "onboard_time": 1732108881,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65726,
       "num": 243687,
       "word": "排水管网改造2亿合同期限773年",
@@ -2833,14 +2929,6 @@
       "onboard_time": 1732097719,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60626,
-      "num": 464035,
-      "word": "教育局回应小蜜蜂老师身份质疑",
-      "onboard_time": 1732107382,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59553,
@@ -3105,6 +3193,14 @@
       "onboard_time": 1732091781,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39433,
+      "num": 358491,
+      "word": "对偷拍黑产顶格处罚才能形成威慑力",
+      "onboard_time": 1732108641,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38247,
@@ -3380,7 +3476,7 @@
     },
     {
       "raw_hot": 23693,
-      "num": 129252,
+      "num": 347670,
       "word": "赵一博吃火锅嘴没停过",
       "onboard_time": 1732107441,
       "rank": 43,
@@ -3515,6 +3611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12706,
+      "num": 577128,
+      "word": "互联网之光点亮乌镇",
+      "onboard_time": 1732109003,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12610,
       "num": 119230,
       "word": "一分钟教你冬天跑步怎么穿",
@@ -3643,6 +3747,9 @@
     },
     {
       "word": "#跟着习主席去拉美#"
+    },
+    {
+      "word": "#习近平G20里约峰会展现大国担当#"
     }
   ]
 }
