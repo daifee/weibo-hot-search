@@ -1,6 +1,6 @@
 {
   "startTime": 1732033738304,
-  "endTime": 1732095566414,
+  "endTime": 1732098307194,
   "band_list": [
     {
       "raw_hot": 2602429,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1516524,
+      "num": 306999,
+      "word": "卫生巾塌房",
+      "onboard_time": 1732094241,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1484456,
       "num": 449765,
       "word": "曾轶可长发",
       "onboard_time": 1732075639,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1464637,
+      "num": 305647,
+      "word": "男士卫生巾",
+      "onboard_time": 1732095200,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1334697,
@@ -97,14 +113,6 @@
       "onboard_time": 1732082659,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1111428,
-      "num": 306999,
-      "word": "卫生巾塌房",
-      "onboard_time": 1732094241,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1107133,
@@ -403,6 +411,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 572215,
+      "num": 305604,
+      "word": "杨仕泽在祝绪丹进直播后秒变脸",
+      "onboard_time": 1732095500,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570011,
       "num": 371029,
       "word": "金晨 这是我今年最开心的一天",
@@ -515,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469970,
+      "num": 254925,
+      "word": "欧阳妮妮张书豪办宝宝性别趴",
+      "onboard_time": 1732095019,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466667,
       "num": 491727,
       "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
@@ -569,6 +593,22 @@
       "onboard_time": 1732063099,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 399546,
+      "num": 249099,
+      "word": "老人狂扇自己50下只为出门洗脚",
+      "onboard_time": 1732096399,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399118,
+      "num": 402905,
+      "word": "流浪狗撞翻骑车人投喂者被判赔6万",
+      "onboard_time": 1732093340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395421,
@@ -627,6 +667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360185,
+      "num": 247782,
+      "word": "19岁孤儿被骗到郑州4天没吃没喝",
+      "onboard_time": 1732095799,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357011,
+      "num": 357011,
+      "word": "猎罪图鉴全集限免",
+      "onboard_time": 1732096161,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346378,
       "num": 281401,
       "word": "下班后最轻松的副业",
@@ -641,6 +697,14 @@
       "onboard_time": 1732030879,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341871,
+      "num": 341871,
+      "word": "华为Mate70或将首发全新红枫摄像头",
+      "onboard_time": 1732097780,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 337396,
@@ -699,6 +763,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306519,
+      "num": 306519,
+      "word": "国家烟草专卖局原副局长被双开",
+      "onboard_time": 1732096099,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 304068,
+      "num": 304068,
+      "word": "让我爆哭的综艺又回来了",
+      "onboard_time": 1732096701,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303639,
       "num": 303639,
       "word": "周雨彤镜头下的金晨宋茜",
@@ -729,14 +809,6 @@
       "onboard_time": 1732070598,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280746,
-      "num": 402905,
-      "word": "流浪狗撞翻骑车人投喂者被判赔6万",
-      "onboard_time": 1732093340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276206,
@@ -795,14 +867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254925,
-      "num": 254925,
-      "word": "欧阳妮妮张书豪办宝宝性别趴",
-      "onboard_time": 1732095019,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254115,
       "num": 254115,
       "word": "济南推出把子肉公交卡",
@@ -841,6 +905,14 @@
       "onboard_time": 1732071857,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240946,
+      "num": 240946,
+      "word": "别让酒店成为偷拍黑洞",
+      "onboard_time": 1732095379,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 240538,
@@ -907,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223794,
+      "num": 223794,
+      "word": "戚薇边哭边给NPC打伞",
+      "onboard_time": 1732095078,
+      "rank": 44,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 222066,
       "num": 340352,
       "word": "张含韵 没加过戏",
@@ -971,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209483,
+      "num": 209483,
+      "word": "钟睒睒公开喊话张一鸣",
+      "onboard_time": 1732096161,
+      "rank": 37,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 208715,
       "num": 208715,
       "word": "冒充未成年人游戏退费或涉嫌诈骗",
@@ -1033,6 +1121,14 @@
       "onboard_time": 1732080020,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203082,
+      "num": 254153,
+      "word": "听泉鉴宝古装",
+      "onboard_time": 1732096939,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 202245,
@@ -1128,6 +1224,14 @@
       "word": "北京儿童医院夜诊排了近600号",
       "onboard_time": 1732073958,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195163,
+      "num": 195163,
+      "word": "杀人凶手出狱后在受害者家门口大摆宴席",
+      "onboard_time": 1732097660,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1275,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181801,
+      "num": 181801,
+      "word": "这赛道莎莎强得可怕",
+      "onboard_time": 1732098260,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180785,
       "num": 180785,
       "word": "为什么我烤的蛋挞变成了鸡蛋",
@@ -1411,6 +1523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169049,
+      "num": 242352,
+      "word": "娜扎隐藏的事业粉头子是杨迪",
+      "onboard_time": 1732097660,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "奔跑吧茶马古道篇",
@@ -1491,14 +1611,6 @@
       "category": "民生新闻,美妆"
     },
     {
-      "raw_hot": 152264,
-      "num": 152264,
-      "word": "别让酒店成为偷拍黑洞",
-      "onboard_time": 1732095379,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 151690,
       "num": 151690,
       "word": "最终幻想14水晶世界",
@@ -1539,12 +1651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149183,
-      "num": 149183,
-      "word": "男士卫生巾",
-      "onboard_time": 1732095200,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 149165,
+      "num": 149165,
+      "word": "科切拉阵容",
+      "onboard_time": 1732097480,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 149066,
@@ -1553,6 +1665,14 @@
       "onboard_time": 1732070717,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148785,
+      "num": 148785,
+      "word": "高圆圆陪女儿公园玩耍",
+      "onboard_time": 1732097900,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 148650,
@@ -1609,6 +1729,14 @@
       "onboard_time": 1732070899,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145053,
+      "num": 145053,
+      "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+      "onboard_time": 1732098141,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 144758,
@@ -1697,14 +1825,6 @@
       "onboard_time": 1732094540,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139388,
-      "num": 139388,
-      "word": "戚薇边哭边给NPC打伞",
-      "onboard_time": 1732095078,
-      "rank": 44,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 139209,
@@ -1827,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128154,
+      "num": 128154,
+      "word": "如何看待投喂流浪狗被判赔",
+      "onboard_time": 1732098141,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 125994,
       "num": 125994,
       "word": "释小龙近照",
@@ -1843,12 +1971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124646,
-      "num": 124646,
-      "word": "杨仕泽在祝绪丹进直播后秒变脸",
-      "onboard_time": 1732095500,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 123974,
+      "num": 123974,
+      "word": "女性神车为何受到女车主吐槽",
+      "onboard_time": 1732098260,
+      "rank": 49,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 123275,
@@ -2003,12 +2131,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 100701,
+      "num": 721605,
+      "word": "互鉴",
+      "onboard_time": 1732093161,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98379,
       "num": 98379,
       "word": "深圳中院宣告深圳柔宇显示技术有限公司破产",
       "onboard_time": 1732021821,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97997,
+      "num": 253021,
+      "word": "Faker说现在自己正是全盛时期",
+      "onboard_time": 1732098260,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 97931,
@@ -2291,12 +2435,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 61164,
-      "num": 721605,
-      "word": "互鉴",
-      "onboard_time": 1732093161,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 60669,
+      "num": 244040,
+      "word": "周巡 这个家没我得散",
+      "onboard_time": 1732097719,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59553,
+      "num": 251453,
+      "word": "当地回应部分男厕拟改为无性别公厕",
+      "onboard_time": 1732097240,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 58161,
@@ -2387,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51798,
+      "num": 252374,
+      "word": "一镜到底看国足打穿日本防线",
+      "onboard_time": 1732097420,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51696,
       "num": 329986,
       "word": "专家称大牯牛山被烧植物为杜鹃类",
@@ -2401,6 +2561,14 @@
       "onboard_time": 1732049231,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 50840,
+      "num": 244843,
+      "word": "人民网评严打偷拍黑灰产",
+      "onboard_time": 1732098260,
+      "rank": 27,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 50835,
@@ -2497,6 +2665,14 @@
       "onboard_time": 1732036753,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41311,
+      "num": 243687,
+      "word": "排水管网改造2亿合同期限773年",
+      "onboard_time": 1732097539,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40977,

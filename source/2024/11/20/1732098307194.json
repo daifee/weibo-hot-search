@@ -1,0 +1,410 @@
+{
+  "runTime": 1732098307194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 560297,
+        "num": 1089647,
+        "word": "Zeus道歉",
+        "onboard_time": 1732093579,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 486479,
+        "num": 486479,
+        "word": "医院CT等收费将执行新规",
+        "onboard_time": 1732086920,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100701,
+        "num": 466384,
+        "word": "互鉴",
+        "onboard_time": 1732093161,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 595098,
+        "num": 459787,
+        "word": "29岁抗癌博主一只羊吖去世",
+        "onboard_time": 1732086261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446763,
+        "num": 446763,
+        "word": "花少后期 终于是癫了",
+        "onboard_time": 1732090459,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399118,
+        "num": 399118,
+        "word": "流浪狗撞翻骑车人投喂者被判赔6万",
+        "onboard_time": 1732093340,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387722,
+        "num": 387722,
+        "word": "一个国家一再否决导致安理会软弱无能",
+        "onboard_time": 1732086799,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357011,
+        "num": 357011,
+        "word": "猎罪图鉴全集限免",
+        "onboard_time": 1732096161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341871,
+        "num": 341871,
+        "word": "华为Mate70或将首发全新红枫摄像头",
+        "onboard_time": 1732097780,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 306519,
+        "num": 306519,
+        "word": "国家烟草专卖局原副局长被双开",
+        "onboard_time": 1732096099,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1516524,
+        "num": 305885,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1464637,
+        "num": 305647,
+        "word": "男士卫生巾",
+        "onboard_time": 1732095200,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 572215,
+        "num": 305604,
+        "word": "杨仕泽在祝绪丹进直播后秒变脸",
+        "onboard_time": 1732095500,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304068,
+        "num": 304068,
+        "word": "让我爆哭的综艺又回来了",
+        "onboard_time": 1732096701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254328,
+        "num": 254328,
+        "word": "跑男变走男",
+        "onboard_time": 1732084279,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203082,
+        "num": 254153,
+        "word": "听泉鉴宝古装",
+        "onboard_time": 1732096939,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97997,
+        "num": 253021,
+        "word": "Faker说现在自己正是全盛时期",
+        "onboard_time": 1732098260,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51798,
+        "num": 252374,
+        "word": "一镜到底看国足打穿日本防线",
+        "onboard_time": 1732097420,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59553,
+        "num": 251453,
+        "word": "当地回应部分男厕拟改为无性别公厕",
+        "onboard_time": 1732097240,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 31526,
+        "num": 250686,
+        "word": "和郑钦文碰上杯了",
+        "onboard_time": 1732094600,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469970,
+        "num": 250014,
+        "word": "欧阳妮妮张书豪办宝宝性别趴",
+        "onboard_time": 1732095019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380543,
+        "num": 249166,
+        "word": "付费就能观看万部酒店偷拍视频",
+        "onboard_time": 1732078221,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 399546,
+        "num": 249099,
+        "word": "老人狂扇自己50下只为出门洗脚",
+        "onboard_time": 1732096399,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360185,
+        "num": 247782,
+        "word": "19岁孤儿被骗到郑州4天没吃没喝",
+        "onboard_time": 1732095799,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359682,
+        "num": 247026,
+        "word": "44岁农村智障女性遭数次性侵产女",
+        "onboard_time": 1732090521,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186444,
+        "num": 246833,
+        "word": "葛夕说麦琳会把旧冰箱挂闲鱼",
+        "onboard_time": 1732088420,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349281,
+        "num": 245984,
+        "word": "粉红税",
+        "onboard_time": 1732090700,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50840,
+        "num": 244843,
+        "word": "人民网评严打偷拍黑灰产",
+        "onboard_time": 1732098260,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 60669,
+        "num": 244040,
+        "word": "周巡 这个家没我得散",
+        "onboard_time": 1732097719,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41311,
+        "num": 243687,
+        "word": "排水管网改造2亿合同期限773年",
+        "onboard_time": 1732097539,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305356,
+        "num": 242780,
+        "word": "金晨 这是我今年最开心的一天",
+        "onboard_time": 1732092679,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169049,
+        "num": 242352,
+        "word": "娜扎隐藏的事业粉头子是杨迪",
+        "onboard_time": 1732097660,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256009,
+        "num": 241655,
+        "word": "武艺 死车快开啊",
+        "onboard_time": 1732087640,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240946,
+        "num": 240946,
+        "word": "别让酒店成为偷拍黑洞",
+        "onboard_time": 1732095379,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 223794,
+        "num": 223794,
+        "word": "戚薇边哭边给NPC打伞",
+        "onboard_time": 1732095078,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 223056,
+        "num": 223056,
+        "word": "酒店偷拍团伙藏匿摄像头位置揭秘",
+        "onboard_time": 1732090279,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 217468,
+        "num": 217468,
+        "word": "抖音崩了",
+        "onboard_time": 1732089019,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209483,
+        "num": 209483,
+        "word": "钟睒睒公开喊话张一鸣",
+        "onboard_time": 1732096161,
+        "rank": 37,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 205320,
+        "num": 205320,
+        "word": "手机不能看医院CT图像就要少收费",
+        "onboard_time": 1732088720,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195163,
+        "num": 195163,
+        "word": "杀人凶手出狱后在受害者家门口大摆宴席",
+        "onboard_time": 1732097660,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181801,
+        "num": 181801,
+        "word": "这赛道莎莎强得可怕",
+        "onboard_time": 1732098260,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173189,
+        "num": 173189,
+        "word": "女子被家暴16次离婚案将二次开庭",
+        "onboard_time": 1732090341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164035,
+        "num": 164035,
+        "word": "这些症状是心脏在求救",
+        "onboard_time": 1732084518,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152608,
+        "num": 152608,
+        "word": "中方在联合国点名一个常任理事国",
+        "onboard_time": 1732085778,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149165,
+        "num": 149165,
+        "word": "科切拉阵容",
+        "onboard_time": 1732097480,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 148785,
+        "word": "高圆圆陪女儿公园玩耍",
+        "onboard_time": 1732097900,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145053,
+        "num": 145053,
+        "word": "易烊千玺 喜欢和小猫交朋友的大朋友",
+        "onboard_time": 1732098141,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137943,
+        "num": 137943,
+        "word": "周雨彤镜头下的金晨宋茜",
+        "onboard_time": 1732091901,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128154,
+        "num": 128154,
+        "word": "如何看待投喂流浪狗被判赔",
+        "onboard_time": 1732098141,
+        "rank": 48,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 123974,
+        "num": 123974,
+        "word": "女性神车为何受到女车主吐槽",
+        "onboard_time": 1732098260,
+        "rank": 49,
+        "category": "议题讨论"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致贺世界互联网大会乌镇峰会开幕#"
+    }
+  }
+}
