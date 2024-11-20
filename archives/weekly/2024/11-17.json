@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732068521642,
+  "endTime": 1732071591900,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2313016,
+      "num": 320487,
+      "word": "单亲妈妈做试管婴儿送外卖途中早产",
+      "onboard_time": 1732069878,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2106886,
       "num": 2106886,
       "word": "国足进球了",
@@ -121,6 +129,14 @@
       "onboard_time": 1731989181,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1923730,
+      "num": 1923730,
+      "word": "百雀羚回应",
+      "onboard_time": 1732069816,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1917915,
@@ -1611,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555691,
+      "num": 555691,
+      "word": "耳帝发长文谈麦琳",
+      "onboard_time": 1732067479,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 554308,
       "num": 343966,
       "word": "去银行提7万块钱结果被抓了",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1731899898,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493070,
+      "num": 493070,
+      "word": "酒店针孔摄像头安装工佣金上万元",
+      "onboard_time": 1732068017,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 492193,
@@ -2875,6 +2907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 306355,
+      "num": 306355,
+      "word": "何同学抄袭风波原作者发声",
+      "onboard_time": 1732070238,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 305877,
       "num": 288317,
       "word": "顶流男主回村相亲",
@@ -3387,6 +3427,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 260179,
+      "num": 260179,
+      "word": "庄筱婷智性恋天菜",
+      "onboard_time": 1732066758,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259984,
       "num": 864292,
       "word": "乌军首次使用美导弹系统袭击俄罗斯",
@@ -3547,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250217,
+      "num": 241060,
+      "word": "广州拟将低使用率男厕改为无性别公厕",
+      "onboard_time": 1732069938,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250105,
       "num": 250105,
       "word": "丁禹兮 拜拜不要再被抓到啦",
@@ -3611,12 +3667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242931,
+      "num": 242931,
+      "word": "丁禹兮之前回复粉丝",
+      "onboard_time": 1732070598,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242441,
       "num": 297861,
       "word": "捷克外长遭伦敦大学生当面怒斥",
       "onboard_time": 1731829099,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242104,
+      "num": 213682,
+      "word": "Zeus曾和T1一度断联",
+      "onboard_time": 1732068138,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 242050,
@@ -4147,14 +4219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209224,
-      "num": 242511,
-      "word": "庄筱婷智性恋天菜",
-      "onboard_time": 1732066758,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208883,
       "num": 208883,
       "word": "疑似减肥人饿死前的幻想",
@@ -4321,6 +4385,14 @@
       "onboard_time": 1731900859,
       "rank": 28,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 203024,
+      "num": 344139,
+      "word": "日本主帅说国足不是有进步是潜力大",
+      "onboard_time": 1732066818,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 203023,
@@ -4587,14 +4659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192661,
-      "num": 241303,
-      "word": "耳帝发长文谈麦琳",
-      "onboard_time": 1732067479,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192199,
       "num": 192199,
       "word": "张真源微醺了",
@@ -4625,6 +4689,14 @@
       "onboard_time": 1731892577,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191675,
+      "num": 191675,
+      "word": "90多岁村民第一次听说老虎进村",
+      "onboard_time": 1732068738,
+      "rank": 35,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 191546,
@@ -5169,6 +5241,14 @@
       "onboard_time": 1731927500,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180121,
+      "num": 223676,
+      "word": "白夜破晓追剧日历",
+      "onboard_time": 1732070418,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 180113,
@@ -5771,14 +5851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162368,
-      "num": 162368,
-      "word": "Zeus曾和T1一度断联",
-      "onboard_time": 1732068138,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 162278,
       "num": 334950,
       "word": "小巷人家宋莹是华妃转世",
@@ -6291,6 +6363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149066,
+      "num": 149066,
+      "word": "阿根廷1比0秘鲁",
+      "onboard_time": 1732070717,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148946,
       "num": 148946,
       "word": "看小说最讨厌看到的女主称呼",
@@ -6523,20 +6603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144587,
+      "num": 144587,
+      "word": "凯尔特人终结骑士15连胜",
+      "onboard_time": 1732070899,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144389,
       "num": 144389,
       "word": "毓言cp",
       "onboard_time": 1731807859,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144269,
-      "num": 144269,
-      "word": "酒店针孔摄像头安装工佣金上万元",
-      "onboard_time": 1732068017,
-      "rank": 38,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 143422,
@@ -7123,6 +7203,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 127126,
+      "num": 158569,
+      "word": "杨幂和胡歌之间只差5个key",
+      "onboard_time": 1732071499,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126854,
       "num": 317460,
       "word": "日本偶遇罗恩",
@@ -7177,6 +7265,22 @@
       "onboard_time": 1731987861,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125643,
+      "num": 218731,
+      "word": "韩劳动部否认Hanni为劳动者",
+      "onboard_time": 1732069279,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124909,
+      "num": 124909,
+      "word": "时代少年团试灯",
+      "onboard_time": 1732071137,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 124820,
@@ -7251,6 +7355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122564,
+      "num": 122564,
+      "word": "加沙每一张完好的纸币都十分珍贵",
+      "onboard_time": 1732068558,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122355,
       "num": 122355,
       "word": "4岁女童真独立违法假独立是炒作",
@@ -7297,6 +7409,14 @@
       "onboard_time": 1731888857,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121662,
+      "num": 196853,
+      "word": "宋亚轩solo曲 落叶归根",
+      "onboard_time": 1732069518,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 121567,
@@ -8665,6 +8785,14 @@
       "onboard_time": 1732007540,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65680,
+      "num": 297553,
+      "word": "百雀羚官方直播间照常运营",
+      "onboard_time": 1732069998,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64800,
@@ -10096,14 +10224,6 @@
       "word": "日本国脚回应在中国客战国足",
       "onboard_time": 1731932479,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33303,
-      "num": 344139,
-      "word": "日本主帅说国足不是有进步是潜力大",
-      "onboard_time": 1732066818,
-      "rank": 14,
       "category": "体育"
     },
     {
