@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732137724766,
+  "endTime": 1732138623296,
   "band_list": [
     {
       "raw_hot": 1111331,
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91818,
+      "num": 174691,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88094,
       "num": 88094,
       "word": "百雀羚否认化妆品添加禁用原料",
@@ -377,14 +385,6 @@
       "onboard_time": 1732116141,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77291,
-      "num": 126272,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76894,
@@ -563,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 21026,
+      "num": 21025,
+      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
+      "onboard_time": 1732133292,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 20987,
       "num": 512131,
       "word": "互联网之光点亮乌镇",
@@ -577,14 +585,6 @@
       "onboard_time": 1732134791,
       "rank": 14,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 20522,
-      "num": 20522,
-      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
-      "onboard_time": 1732133292,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 20172,
@@ -611,8 +611,8 @@
       "category": "音乐,旅游"
     },
     {
-      "raw_hot": 17120,
-      "num": 17120,
+      "raw_hot": 18030,
+      "num": 18030,
       "word": "电诈骗子又出损招",
       "onboard_time": 1732134131,
       "rank": 44,
@@ -627,7 +627,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16594,
+      "raw_hot": 16828,
       "num": 27877,
       "word": "杨天真为VOGUE红毯一天往返东京",
       "onboard_time": 1732133111,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14930,
+      "num": 27353,
+      "word": "防虎公告称弯腰劳作脑后可带假面具",
+      "onboard_time": 1732137259,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 14754,
       "num": 16645,
       "word": "刘宇宁原声台词",
@@ -675,6 +683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14338,
+      "num": 17752,
+      "word": "宿敌",
+      "onboard_time": 1732138332,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13698,
       "num": 29924,
       "word": "91岁老人走失超20小时多亏了技术汪",
@@ -683,15 +699,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12914,
-      "num": 27353,
-      "word": "防虎公告称弯腰劳作脑后可带假面具",
-      "onboard_time": 1732137259,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 12287,
+      "raw_hot": 13439,
       "num": 21390,
       "word": "农行原副行长楼文龙被开除党籍",
       "onboard_time": 1732134310,
@@ -715,7 +723,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10999,
+      "raw_hot": 11131,
       "num": 84678,
       "word": "蓝色经济为中巴经济增长注入新动能",
       "onboard_time": 1732109781,
@@ -736,6 +744,14 @@
       "word": "任苒时光",
       "onboard_time": 1732124952,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7306,
+      "num": 20555,
+      "word": "谭松韵出发深圳",
+      "onboard_time": 1732136831,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -771,10 +787,10 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 5423,
-      "num": 20555,
-      "word": "谭松韵出发深圳",
-      "onboard_time": 1732136831,
+      "raw_hot": 5245,
+      "num": 21027,
+      "word": "前BigHit组长诈骗BTS粉丝获刑",
+      "onboard_time": 1732138451,
       "rank": 24,
       "category": "艺人"
     }
