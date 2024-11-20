@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732142452332,
+  "endTime": 1732144962192,
   "band_list": [
     {
       "raw_hot": 1111331,
@@ -51,6 +51,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439847,
+      "num": 439847,
+      "word": "一人控制600台手机不停转评赞",
+      "onboard_time": 1732126511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437009,
+      "num": 141448,
+      "word": "女子驾车碾压倒地者致其死亡",
+      "onboard_time": 1732117039,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 420241,
       "num": 420241,
       "word": "国乒男队一轮游",
@@ -99,6 +115,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 297806,
+      "num": 140699,
+      "word": "马斯克同款减肥药中国上市引热议",
+      "onboard_time": 1732117579,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293244,
       "num": 293244,
       "word": "科学家突破垄断为国家省下几亿元",
@@ -115,20 +139,20 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 258384,
+      "num": 138542,
+      "word": "被家暴16次女子希望男方定罪故意杀人",
+      "onboard_time": 1732128792,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 254373,
       "num": 254373,
       "word": "国乒无缘总决赛男双四强",
       "onboard_time": 1732114640,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234474,
-      "num": 372257,
-      "word": "一人控制600台手机不停转评赞",
-      "onboard_time": 1732126511,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227519,
@@ -155,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221031,
-      "num": 141118,
-      "word": "女子驾车碾压倒地者致其死亡",
-      "onboard_time": 1732117039,
-      "rank": 27,
-      "category": "舆论监督"
+      "raw_hot": 222537,
+      "num": 222537,
+      "word": "圆明园考古又有新发现",
+      "onboard_time": 1732139771,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 212550,
@@ -187,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198814,
+      "num": 198814,
+      "word": "钟南山建议这类人群每年查肺功能",
+      "onboard_time": 1732127414,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197305,
       "num": 197305,
       "word": "奔跑吧全员都哭了",
@@ -211,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140648,
-      "num": 56580,
-      "word": "被家暴16次女子希望男方定罪故意杀人",
-      "onboard_time": 1732128792,
-      "rank": 20,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 138358,
       "num": 138358,
       "word": "市药监局认定百雀羚不存在违规行为",
@@ -227,16 +251,8 @@
       "category": "辟谣/通报,美妆"
     },
     {
-      "raw_hot": 134012,
-      "num": 104477,
-      "word": "马斯克同款减肥药中国上市引热议",
-      "onboard_time": 1732117579,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126915,
-      "num": 127419,
+      "raw_hot": 133237,
+      "num": 133237,
       "word": "胖东来将不允许员工靠父母买房买车",
       "onboard_time": 1732112421,
       "rank": 31,
@@ -257,6 +273,14 @@
       "onboard_time": 1732115242,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112521,
+      "num": 148219,
+      "word": "王一博嘉人周年刊",
+      "onboard_time": 1732144515,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 111543,
@@ -283,16 +307,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99233,
-      "num": 99233,
-      "word": "钟南山建议这类人群每年查肺功能",
-      "onboard_time": 1732127414,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98982,
-      "num": 98982,
+      "raw_hot": 100453,
+      "num": 100453,
       "word": "庾澄庆晒与老婆合照",
       "onboard_time": 1732105880,
       "rank": 36,
@@ -371,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80433,
-      "num": 80433,
-      "word": "圆明园考古又有新发现",
-      "onboard_time": 1732139771,
-      "rank": 9,
-      "category": "科学科普"
+      "raw_hot": 81237,
+      "num": 134780,
+      "word": "丁禹兮以拥有好人品自豪",
+      "onboard_time": 1732144455,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 78858,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75309,
+      "num": 75309,
+      "word": "总决赛首日国乒男单全军覆没",
+      "onboard_time": 1732122915,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74671,
       "num": 74671,
       "word": "沉浸式感受沙湖灰雁为您导航",
@@ -435,12 +459,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 62306,
-      "num": 53717,
-      "word": "总决赛首日国乒男单全军覆没",
-      "onboard_time": 1732122915,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 69168,
+      "num": 69168,
+      "word": "央视起底水军运作完整黑产链",
+      "onboard_time": 1732100420,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 57131,
@@ -451,12 +475,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54880,
+      "num": 54880,
+      "word": "让我爆哭的综艺又回来了",
+      "onboard_time": 1732096701,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50691,
       "num": 184490,
       "word": "王一博上榜好莱坞最受欢迎演员",
       "onboard_time": 1732118539,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49234,
+      "num": 54205,
+      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
+      "onboard_time": 1732133292,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 46682,
@@ -483,12 +523,60 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43673,
+      "num": 54182,
+      "word": "海玲孕晚期两周胖四斤",
+      "onboard_time": 1732144275,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43482,
+      "num": 54178,
+      "word": "又到了跳初雪的季节",
+      "onboard_time": 1732137200,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 40955,
+      "num": 54136,
+      "word": "内塔尼亚胡重金悬赏",
+      "onboard_time": 1732139472,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40712,
       "num": 82977,
       "word": "朱志鑫自拍视角vs他拍视角",
       "onboard_time": 1732119077,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40086,
+      "num": 54124,
+      "word": "多国驻乌使馆因袭击风险关闭",
+      "onboard_time": 1732129632,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38970,
+      "num": 75189,
+      "word": "白夜破晓",
+      "onboard_time": 1732106302,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38706,
+      "num": 54123,
+      "word": "夏弃疾说丁禹兮本人真的很帅",
+      "onboard_time": 1732144936,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 37872,
@@ -499,20 +587,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37220,
+      "num": 54159,
+      "word": "我和我的命",
+      "onboard_time": 1732125552,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36544,
       "num": 76665,
       "word": "周鸿祎回应有企业家看不起企业家带货",
       "onboard_time": 1732123454,
       "rank": 9,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 36077,
-      "num": 36077,
-      "word": "多国驻乌使馆因袭击风险关闭",
-      "onboard_time": 1732129632,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31636,
@@ -539,28 +627,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 29602,
-      "num": 29602,
-      "word": "内塔尼亚胡重金悬赏",
-      "onboard_time": 1732139472,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27808,
-      "num": 27808,
-      "word": "警方回应育儿嫂被指给婴儿喂安眠药",
-      "onboard_time": 1732133292,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 26388,
-      "num": 26388,
-      "word": "又到了跳初雪的季节",
-      "onboard_time": 1732137200,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 25423,
+      "num": 146341,
+      "word": "快递员用肢体语言提醒聋哑人",
+      "onboard_time": 1732144455,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 24462,
@@ -579,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22933,
-      "num": 42389,
-      "word": "我和我的命",
-      "onboard_time": 1732125552,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22574,
       "num": 22574,
       "word": "失笑开怀大笑卡",
@@ -601,6 +665,14 @@
       "onboard_time": 1732127232,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 21716,
+      "num": 323393,
+      "word": "蓝色经济为中巴经济增长注入新动能",
+      "onboard_time": 1732109781,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21162,
@@ -667,14 +739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 16866,
-      "num": 42272,
-      "word": "白夜破晓",
-      "onboard_time": 1732106302,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16421,
       "num": 69519,
       "word": "卓沅冬天记得添衣",
@@ -705,14 +769,6 @@
       "onboard_time": 1732137259,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 14881,
-      "num": 157520,
-      "word": "蓝色经济为中巴经济增长注入新动能",
-      "onboard_time": 1732109781,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14754,
