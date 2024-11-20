@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732077783757,
+  "endTime": 1732080163756,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -179,6 +179,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1725907,
+      "num": 613115,
+      "word": "31岁985毕业国企设计师坠亡",
+      "onboard_time": 1732076600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1661421,
+      "num": 1661421,
+      "word": "付费就能观看万部酒店偷拍视频",
+      "onboard_time": 1732078221,
+      "rank": 0,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1637382,
       "num": 373263,
       "word": "目击者称女孩和商场玻璃一同坠落",
@@ -193,14 +209,6 @@
       "onboard_time": 1731986299,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1584226,
-      "num": 613115,
-      "word": "31岁985毕业国企设计师坠亡",
-      "onboard_time": 1732076600,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1564274,
@@ -337,6 +345,14 @@
       "onboard_time": 1731845299,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1334697,
+      "num": 359428,
+      "word": "邻居为麦琳发声",
+      "onboard_time": 1732078104,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1330013,
@@ -985,6 +1001,14 @@
       "onboard_time": 1731936202,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 806233,
+      "num": 806233,
+      "word": "8岁小学生沉迷拍烟卡手指溃烂",
+      "onboard_time": 1732077320,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 806107,
@@ -1747,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 543843,
+      "num": 543843,
+      "word": "举报史航性骚扰当事人道歉",
+      "onboard_time": 1732077980,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542962,
       "num": 542962,
       "word": "女学生找工作被HR夸漂亮表示想认识",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1732069938,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517642,
+      "num": 517642,
+      "word": "小巷人家 和谁在一起真的不一样",
+      "onboard_time": 1732077081,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 516543,
@@ -2491,14 +2531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 382844,
-      "num": 382844,
-      "word": "小巷人家 和谁在一起真的不一样",
-      "onboard_time": 1732077081,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 382341,
       "num": 461236,
       "word": "白夜破晓开播",
@@ -2729,6 +2761,14 @@
       "onboard_time": 1732062319,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 346031,
+      "num": 346031,
+      "word": "花少6",
+      "onboard_time": 1732079242,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 345885,
@@ -3923,6 +3963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232743,
+      "num": 362218,
+      "word": "闵熙珍与HYBE解约",
+      "onboard_time": 1732077501,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232168,
       "num": 253145,
       "word": "何炅 丁禹兮你就这么听话啊",
@@ -4059,6 +4107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224754,
+      "num": 224754,
+      "word": "网友说李行亮麦琳没离婚",
+      "onboard_time": 1732079058,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224250,
       "num": 192037,
       "word": "成都警方通报一起持械伤人案",
@@ -4123,6 +4179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222066,
+      "num": 340352,
+      "word": "张含韵 没加过戏",
+      "onboard_time": 1732077380,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221675,
       "num": 209744,
       "word": "财政部已将6万亿元债务限额下达各地",
@@ -4153,6 +4217,14 @@
       "onboard_time": 1731840260,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218031,
+      "num": 218031,
+      "word": "肖战把自己的画拍成了MV",
+      "onboard_time": 1732077621,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 217439,
@@ -4481,6 +4553,14 @@
       "onboard_time": 1731996501,
       "rank": 22,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 204208,
+      "num": 204208,
+      "word": "白夜追凶2空降",
+      "onboard_time": 1732077020,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 204192,
@@ -5051,6 +5131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 188648,
+      "num": 188648,
+      "word": "官方回应公交站椅子只能坐半个屁股",
+      "onboard_time": 1732077681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188528,
       "num": 169954,
       "word": "在迪士尼最震惊的一幕",
@@ -5267,14 +5355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183673,
-      "num": 183673,
-      "word": "肖战把自己的画拍成了MV",
-      "onboard_time": 1732077621,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 183660,
       "num": 200586,
       "word": "魏大勋 一看你就没听过刘旸的脱口秀",
@@ -5459,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179793,
+      "num": 179793,
+      "word": "钱天一3比0迪亚兹",
+      "onboard_time": 1732079123,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179357,
       "num": 179357,
       "word": "BLG与T1角逐TGA最佳电竞俱乐部",
@@ -5555,6 +5643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176299,
+      "num": 176299,
+      "word": "半夜饿了起床煮了只鸭子",
+      "onboard_time": 1732079301,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176175,
       "num": 200499,
       "word": "安徽舒城县长回应县政府大院随便进",
@@ -5649,14 +5745,6 @@
       "onboard_time": 1732018279,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173668,
-      "num": 173668,
-      "word": "白夜追凶2空降",
-      "onboard_time": 1732077020,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 173471,
@@ -6131,6 +6219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161435,
+      "num": 360568,
+      "word": "酒店偷拍已形成从生产到交易产业链",
+      "onboard_time": 1732078581,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 161371,
       "num": 161371,
       "word": "请不遗余力照顾好自己",
@@ -6233,6 +6329,14 @@
       "onboard_time": 1731896599,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158209,
+      "num": 158209,
+      "word": "药监局回应会尽快通报百雀羚立案详情",
+      "onboard_time": 1732078703,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 158170,
@@ -6732,7 +6836,7 @@
     },
     {
       "raw_hot": 146429,
-      "num": 146429,
+      "num": 356002,
       "word": "上海迪士尼12月23日起实名制购票",
       "onboard_time": 1732076841,
       "rank": 43,
@@ -6761,6 +6865,14 @@
       "onboard_time": 1731993379,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146102,
+      "num": 146102,
+      "word": "百雀羚称不存在违法添加禁用原料",
+      "onboard_time": 1732080141,
+      "rank": 46,
+      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 146100,
@@ -6832,6 +6944,14 @@
       "word": "退钱哥怒斥部分球迷为日本队加油",
       "onboard_time": 1731990321,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145067,
+      "num": 145067,
+      "word": "爵士vs湖人",
+      "onboard_time": 1732080020,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -7081,6 +7201,14 @@
       "onboard_time": 1732030998,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139514,
+      "num": 409717,
+      "word": "百雀羚曾称产品1小时极速淡纹37%",
+      "onboard_time": 1732076902,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139446,
@@ -7457,6 +7585,14 @@
       "onboard_time": 1731835278,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 129072,
+      "num": 218667,
+      "word": "太阳星辰开播",
+      "onboard_time": 1732077921,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 128983,
@@ -8315,14 +8451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99321,
-      "num": 375944,
-      "word": "8岁小学生沉迷拍烟卡手指溃烂",
-      "onboard_time": 1732077320,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99099,
       "num": 99099,
       "word": "沈腾希望黄景瑜别碰到其他会做饭的",
@@ -8819,14 +8947,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 78267,
-      "num": 340352,
-      "word": "张含韵 没加过戏",
-      "onboard_time": 1732077380,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77920,
       "num": 360170,
       "word": "黑龙江警方启动无人机寻找老虎",
@@ -8851,6 +8971,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 77146,
+      "num": 218109,
+      "word": "张含韵辟谣南烟斋笔录加戏",
+      "onboard_time": 1732077921,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77036,
       "num": 77036,
       "word": "家的样子就是生活的样子",
@@ -8873,6 +9001,14 @@
       "onboard_time": 1732000159,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 76724,
+      "num": 239819,
+      "word": "钱天一晋级总决赛8强",
+      "onboard_time": 1732078460,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 76663,
@@ -9160,14 +9296,6 @@
       "word": "百雀羚官方直播间照常运营",
       "onboard_time": 1732069998,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65432,
-      "num": 409717,
-      "word": "百雀羚曾称产品1小时极速淡纹37%",
-      "onboard_time": 1732076902,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -9921,14 +10049,6 @@
       "onboard_time": 1731798373,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47323,
-      "num": 362218,
-      "word": "闵熙珍与HYBE解约",
-      "onboard_time": 1732077501,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 47142,
@@ -11697,6 +11817,14 @@
       "onboard_time": 1731769883,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16716,
+      "num": 357058,
+      "word": "律师谈史航案聊天记录是表面证据",
+      "onboard_time": 1732080079,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 16560,
