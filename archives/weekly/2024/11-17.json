@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732184711283,
+  "endTime": 1732185811737,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2677500,
-      "num": 423366,
+      "num": 424349,
       "word": "丁禹兮买了1218套虞书欣杂志",
       "onboard_time": 1732179679,
       "rank": 10,
@@ -1115,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 915516,
+      "num": 425091,
+      "word": "郭碧婷 怀孕生子是一件很美好的事",
+      "onboard_time": 1732183582,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914365,
       "num": 914365,
       "word": "刘爽 死嘴快答",
@@ -1692,7 +1700,7 @@
     },
     {
       "raw_hot": 734834,
-      "num": 386799,
+      "num": 424534,
       "word": "李行亮离婚会把四分之三财产给麦琳",
       "onboard_time": 1732180640,
       "rank": 31,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1732088720,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 703818,
+      "num": 703818,
+      "word": "洲际导弹",
+      "onboard_time": 1732182020,
+      "rank": 3,
+      "category": "军事"
     },
     {
       "raw_hot": 700316,
@@ -2139,6 +2155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 637494,
+      "num": 637494,
+      "word": "缅北规模化电诈园区全部被铲除",
+      "onboard_time": 1732183941,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 635817,
       "num": 635817,
       "word": "花少6",
@@ -2211,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617432,
+      "num": 617432,
+      "word": "网友连卫生巾名字都帮雷军想好了",
+      "onboard_time": 1732182920,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 616495,
       "num": 616495,
       "word": "汪顺 霸王茶姬活动",
@@ -2265,14 +2297,6 @@
       "onboard_time": 1731983658,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 604743,
-      "num": 604743,
-      "word": "洲际导弹",
-      "onboard_time": 1732182020,
-      "rank": 3,
-      "category": "军事"
     },
     {
       "raw_hot": 603703,
@@ -3219,14 +3243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436773,
-      "num": 361194,
-      "word": "郭碧婷 怀孕生子是一件很美好的事",
-      "onboard_time": 1732183582,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 435669,
       "num": 459727,
       "word": "特朗普现身星舰发射现场",
@@ -3505,14 +3521,6 @@
       "onboard_time": 1732153579,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399962,
-      "num": 399962,
-      "word": "网友连卫生巾名字都帮雷军想好了",
-      "onboard_time": 1732182920,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 399546,
@@ -4027,14 +4035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 344159,
-      "num": 344159,
-      "word": "缅北规模化电诈园区全部被铲除",
-      "onboard_time": 1732183941,
-      "rank": 31,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 343971,
       "num": 343971,
       "word": "WTT福冈总决赛签表",
@@ -4267,6 +4267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 318728,
+      "num": 318728,
+      "word": "浙大回应家庭困难学生晒旅游照",
+      "onboard_time": 1732184600,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317305,
       "num": 317305,
       "word": "国乒无缘总决赛男双四强",
@@ -4281,6 +4289,14 @@
       "onboard_time": 1731974057,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316154,
+      "num": 316154,
+      "word": "马嘉祺 蜚蜚",
+      "onboard_time": 1732184961,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 315930,
@@ -5355,6 +5371,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 249475,
+      "num": 249475,
+      "word": "我愿为了这个房子爬七楼",
+      "onboard_time": 1732184241,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249376,
       "num": 509066,
       "word": "丁禹兮说想尝试比较疯的角色",
@@ -5795,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226404,
+      "num": 425293,
+      "word": "又有763名缅甸电诈嫌犯移交我方",
+      "onboard_time": 1732184661,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 226390,
       "num": 200529,
       "word": "王楚钦vs弗朗西斯卡",
@@ -6025,6 +6057,14 @@
       "onboard_time": 1732081101,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219454,
+      "num": 219454,
+      "word": "湖南平江发现超40条金矿脉",
+      "onboard_time": 1732180820,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218855,
@@ -6369,14 +6409,6 @@
       "onboard_time": 1732165340,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207930,
-      "num": 207930,
-      "word": "湖南平江发现超40条金矿脉",
-      "onboard_time": 1732180820,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207829,
@@ -7227,6 +7259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191091,
+      "num": 191091,
+      "word": "英伟达一天赚8套北京四合院",
+      "onboard_time": 1732185440,
+      "rank": 34,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 191080,
       "num": 240319,
       "word": "关晓彤周洁琼对手戏",
@@ -7249,6 +7289,14 @@
       "onboard_time": 1731897918,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190777,
+      "num": 190777,
+      "word": "女子取走男友部分骨灰被其母诉赔偿",
+      "onboard_time": 1732184600,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190731,
@@ -7931,6 +7979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180867,
+      "num": 354296,
+      "word": "何同学致歉说明",
+      "onboard_time": 1732183881,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 180785,
       "num": 180785,
       "word": "为什么我烤的蛋挞变成了鸡蛋",
@@ -8235,6 +8291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174466,
+      "num": 174466,
+      "word": "华为官宣史上最强鸿蒙平板",
+      "onboard_time": 1732185081,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174096,
       "num": 174096,
       "word": "奖励沈腾马丽演将门毒后",
@@ -8417,14 +8481,6 @@
       "onboard_time": 1732108401,
       "rank": 37,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 170451,
-      "num": 170451,
-      "word": "我愿为了这个房子爬七楼",
-      "onboard_time": 1732184241,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 170415,
@@ -8899,6 +8955,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 161811,
+      "num": 161811,
+      "word": "丁禹兮背影神图",
+      "onboard_time": 1732185320,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161594,
       "num": 315388,
       "word": "失笑",
@@ -9025,6 +9089,14 @@
       "onboard_time": 1731994100,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159192,
+      "num": 159192,
+      "word": "网易第五人格",
+      "onboard_time": 1732183700,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 158597,
@@ -9339,6 +9411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152051,
+      "num": 152051,
+      "word": "宋亚轩急出English",
+      "onboard_time": 1732185739,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152030,
       "num": 270857,
       "word": "唐九洲说文韬的梗太伟大了",
@@ -9385,6 +9465,22 @@
       "onboard_time": 1731819440,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151409,
+      "num": 376100,
+      "word": "考研和考公哪个更好",
+      "onboard_time": 1732184541,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 151349,
+      "num": 151349,
+      "word": "黑龙江东北虎伤人事件后续",
+      "onboard_time": 1732185739,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 151340,
@@ -9449,14 +9545,6 @@
       "onboard_time": 1731855561,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150337,
-      "num": 150337,
-      "word": "又有763名缅甸电诈嫌犯移交我方",
-      "onboard_time": 1732184661,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 150281,
@@ -9601,14 +9689,6 @@
       "onboard_time": 1731932119,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 148204,
-      "num": 148204,
-      "word": "浙大回应家庭困难学生晒旅游照",
-      "onboard_time": 1732184600,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148129,
@@ -9873,14 +9953,6 @@
       "onboard_time": 1732159879,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144420,
-      "num": 144420,
-      "word": "女子取走男友部分骨灰被其母诉赔偿",
-      "onboard_time": 1732184600,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144389,
@@ -10905,14 +10977,6 @@
       "onboard_time": 1732061118,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122934,
-      "num": 354296,
-      "word": "何同学致歉说明",
-      "onboard_time": 1732183881,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 122753,
@@ -12891,20 +12955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70250,
-      "num": 376100,
-      "word": "考研和考公哪个更好",
-      "onboard_time": 1732184541,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 70246,
       "num": 274063,
       "word": "好东西 妈妈的声音",
       "onboard_time": 1732003820,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70188,
+      "num": 254885,
+      "word": "关宏宇好哄",
+      "onboard_time": 1732184721,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 69763,
@@ -13713,6 +13777,14 @@
       "onboard_time": 1731949694,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52308,
+      "num": 381993,
+      "word": "3.5秒急速安检的科技含量有多高",
+      "onboard_time": 1732183762,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 52251,
@@ -14723,14 +14795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 38735,
-      "num": 381993,
-      "word": "3.5秒急速安检的科技含量有多高",
-      "onboard_time": 1732183762,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 38673,
       "num": 231908,
       "word": "谢霆锋晒苏翊鸣to签滑雪板",
@@ -15019,6 +15083,14 @@
       "category": "作品衍生,作品衍生"
     },
     {
+      "raw_hot": 34270,
+      "num": 424777,
+      "word": "麦琳成了一个形容词",
+      "onboard_time": 1732185200,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34238,
       "num": 227963,
       "word": "国足对日本若拿分是超额完成任务",
@@ -15201,6 +15273,14 @@
       "onboard_time": 1731846498,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32994,
+      "num": 424969,
+      "word": "王昶说一直有高光和低谷",
+      "onboard_time": 1732185681,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 32957,
@@ -17457,6 +17537,14 @@
       "onboard_time": 1731780614,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6079,
+      "num": 147512,
+      "word": "百香果柠檬蜜",
+      "onboard_time": 1732185681,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 5791,
