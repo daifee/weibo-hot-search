@@ -1,0 +1,410 @@
+{
+  "runTime": 1732184711283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3605762,
+        "num": 3605762,
+        "word": "王宝强被举报涉嫌欺诈",
+        "onboard_time": 1732181121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654730,
+        "num": 654730,
+        "word": "卫生巾新国标正在起草",
+        "onboard_time": 1732179320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55337,
+        "num": 623598,
+        "word": "乌镇峰会AI元素满满",
+        "onboard_time": 1732179500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604743,
+        "num": 604743,
+        "word": "洲际导弹",
+        "onboard_time": 1732182020,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 522337,
+        "num": 522337,
+        "word": "韩国地铁播中国大爷被东北虎追",
+        "onboard_time": 1732182681,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 521259,
+        "num": 521259,
+        "word": "考研人数10年来第二次下降",
+        "onboard_time": 1732175360,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493529,
+        "num": 493529,
+        "word": "王楚钦换手救球",
+        "onboard_time": 1732181719,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476290,
+        "num": 476290,
+        "word": "虞书欣翻牌",
+        "onboard_time": 1732176739,
+        "rank": 7,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 399962,
+        "num": 399962,
+        "word": "网友连卫生巾名字都帮雷军想好了",
+        "onboard_time": 1732182920,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 389488,
+        "num": 389488,
+        "word": "房贷利率下调月供反而多了",
+        "onboard_time": 1732181181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695479,
+        "num": 387477,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690958,
+        "num": 386799,
+        "word": "李行亮离婚会把四分之三财产给麦琳",
+        "onboard_time": 1732180640,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330868,
+        "num": 384162,
+        "word": "禹宙中欣",
+        "onboard_time": 1732182199,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38735,
+        "num": 381993,
+        "word": "3.5秒急速安检的科技含量有多高",
+        "onboard_time": 1732183762,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 43170,
+        "num": 379554,
+        "word": "88岁游戏博主高龄破世界纪录",
+        "onboard_time": 1732162639,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201610,
+        "num": 377222,
+        "word": "白夜破晓 嫂子开门我是我哥",
+        "onboard_time": 1732183640,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70250,
+        "num": 376100,
+        "word": "考研和考公哪个更好",
+        "onboard_time": 1732184541,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89452,
+        "num": 372248,
+        "word": "钱天一说陈幸同状态火热",
+        "onboard_time": 1732184420,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84777,
+        "num": 370670,
+        "word": "王曼昱又空耳了",
+        "onboard_time": 1732184541,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47100,
+        "num": 369128,
+        "word": "网约车司机为骗保1年半碰瓷41次",
+        "onboard_time": 1732183401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1351617,
+        "num": 366420,
+        "word": "丁禹兮买了1218套虞书欣杂志",
+        "onboard_time": 1732179679,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457510,
+        "num": 363505,
+        "word": "李行亮公主抱麦琳摔了",
+        "onboard_time": 1732165525,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436773,
+        "num": 361194,
+        "word": "郭碧婷 怀孕生子是一件很美好的事",
+        "onboard_time": 1732183582,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181389,
+        "num": 360478,
+        "word": "潘粤明转了7年前的微博",
+        "onboard_time": 1732176020,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178267,
+        "num": 356782,
+        "word": "何与 双轨",
+        "onboard_time": 1732174760,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394980,
+        "num": 354666,
+        "word": "企业请离员工私生活远一点",
+        "onboard_time": 1732160239,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122934,
+        "num": 354296,
+        "word": "何同学致歉说明",
+        "onboard_time": 1732183881,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50641,
+        "num": 350700,
+        "word": "周雨彤 人生可以有多种喜欢",
+        "onboard_time": 1732183040,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162720,
+        "num": 348886,
+        "word": "肖战释放自己",
+        "onboard_time": 1732183941,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22480,
+        "num": 346577,
+        "word": "以色列被曝两周内吞并约旦河西岸",
+        "onboard_time": 1732183881,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345735,
+        "num": 345735,
+        "word": "乌军称俄罗斯发射洲际弹道导弹",
+        "onboard_time": 1732179320,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 344159,
+        "num": 344159,
+        "word": "缅北规模化电诈园区全部被铲除",
+        "onboard_time": 1732183941,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 337191,
+        "num": 337191,
+        "word": "人社局回应胖东来员工新规",
+        "onboard_time": 1732171399,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 286646,
+        "num": 286646,
+        "word": "孙颖莎说虽渴望赢但也坦然接受输球",
+        "onboard_time": 1732182260,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257535,
+        "num": 257535,
+        "word": "请于东来去除爹味",
+        "onboard_time": 1732176619,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231741,
+        "num": 231741,
+        "word": "中国妇女报评卫生巾缩水事件",
+        "onboard_time": 1732181362,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 208900,
+        "num": 208900,
+        "word": "36岁男子熬夜5点睡着7点发生心梗",
+        "onboard_time": 1732165762,
+        "rank": 36,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 164724,
+        "num": 208408,
+        "word": "麦琳 难哄",
+        "onboard_time": 1732166120,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207930,
+        "num": 207930,
+        "word": "湖南平江发现超40条金矿脉",
+        "onboard_time": 1732180820,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204042,
+        "num": 204042,
+        "word": "mlxg拒绝让Uzi无状态同队",
+        "onboard_time": 1732182740,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200180,
+        "num": 200180,
+        "word": "奶奶为除虱子用敌敌畏给孩子洗头",
+        "onboard_time": 1732175300,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184451,
+        "num": 184451,
+        "word": "23岁女生花18万隆胸术后胸硬如石",
+        "onboard_time": 1732169239,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 170451,
+        "num": 170451,
+        "word": "我愿为了这个房子爬七楼",
+        "onboard_time": 1732184241,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164981,
+        "num": 164981,
+        "word": "王源鸳鸯鞋",
+        "onboard_time": 1732180640,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151982,
+        "num": 151982,
+        "word": "张本智和气得跺脚",
+        "onboard_time": 1732178839,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150337,
+        "num": 150337,
+        "word": "又有763名缅甸电诈嫌犯移交我方",
+        "onboard_time": 1732184661,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 148204,
+        "num": 148204,
+        "word": "浙大回应家庭困难学生晒旅游照",
+        "onboard_time": 1732184600,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51664,
+        "num": 145520,
+        "word": "中国男足2024最佳进球",
+        "onboard_time": 1732183522,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145118,
+        "num": 145118,
+        "word": "李行亮开车哭",
+        "onboard_time": 1732167619,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144420,
+        "num": 144420,
+        "word": "女子取走男友部分骨灰被其母诉赔偿",
+        "onboard_time": 1732184600,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#里约G20峰会高光时刻#"
+    }
+  }
+}
