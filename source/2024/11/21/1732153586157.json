@@ -1,0 +1,410 @@
+{
+  "runTime": 1732153586157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2161475,
+        "num": 2161475,
+        "word": "4万人死亡也换不来美国的同情心吗",
+        "onboard_time": 1732147098,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1318614,
+        "num": 1318614,
+        "word": "巴勒斯坦代表气愤到捶桌子",
+        "onboard_time": 1732151359,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46056,
+        "num": 1190920,
+        "word": "蓝色经济为中巴经济增长注入新动能",
+        "onboard_time": 1732109781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1148961,
+        "num": 1148961,
+        "word": "医用级卫生巾搜索量飙升",
+        "onboard_time": 1732147939,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 573011,
+        "num": 573011,
+        "word": "科切拉",
+        "onboard_time": 1732147160,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 562948,
+        "num": 562948,
+        "word": "五月天演唱会再次引发居民楼地震",
+        "onboard_time": 1732148600,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 530314,
+        "num": 530314,
+        "word": "中方回应美国一票否决加沙停火决议",
+        "onboard_time": 1732148239,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410143,
+        "num": 410143,
+        "word": "胖东来将不允许员工靠父母买房买车",
+        "onboard_time": 1732112421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345617,
+        "num": 345617,
+        "word": "一人控制600台手机不停转评赞",
+        "onboard_time": 1732126511,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254779,
+        "num": 344626,
+        "word": "78岁老太将减持2.5亿股股票",
+        "onboard_time": 1732151180,
+        "rank": 9,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 1099385,
+        "num": 341492,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966581,
+        "num": 337661,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 501818,
+        "num": 334123,
+        "word": "郑铮去世",
+        "onboard_time": 1732152438,
+        "rank": 12,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 401323,
+        "num": 333152,
+        "word": "易烊千玺打麻将",
+        "onboard_time": 1732113441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330630,
+        "num": 330630,
+        "word": "四川一女干部被曝培训期间出轨同事",
+        "onboard_time": 1732152979,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308098,
+        "num": 308098,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732148059,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298362,
+        "num": 298362,
+        "word": "国乒教练说寒冬来得比预想要快",
+        "onboard_time": 1732116260,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296960,
+        "num": 296960,
+        "word": "安理会加沙停火决议遭美国否决",
+        "onboard_time": 1732117939,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174459,
+        "num": 291708,
+        "word": "夏弃疾说丁禹兮本人真的很帅",
+        "onboard_time": 1732144936,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135785,
+        "num": 288131,
+        "word": "五月天呼吁歌迷用挥手代替跳跃",
+        "onboard_time": 1732149620,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 721862,
+        "num": 276226,
+        "word": "姐姐送房给弟弟住被1400万卖掉",
+        "onboard_time": 1732146918,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517942,
+        "num": 274497,
+        "word": "金莎孙丞潇车内亲密互动",
+        "onboard_time": 1732152319,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268817,
+        "num": 268817,
+        "word": "被家暴16次女子希望男方定罪故意杀人",
+        "onboard_time": 1732128792,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237856,
+        "num": 237856,
+        "word": "李子柒王冰冰一起玩碰碰车",
+        "onboard_time": 1732117999,
+        "rank": 23,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 223333,
+        "num": 223333,
+        "word": "鸟飞到养殖场把螃蟹当瓜子嗑",
+        "onboard_time": 1732152138,
+        "rank": 24,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 221221,
+        "num": 221221,
+        "word": "2025年单休比双休多上52天班",
+        "onboard_time": 1732145295,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220245,
+        "num": 220245,
+        "word": "山西明确婚假30天",
+        "onboard_time": 1732152799,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134335,
+        "num": 219306,
+        "word": "ENHYPEN将登科切拉",
+        "onboard_time": 1732151839,
+        "rank": 27,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 120966,
+        "num": 218857,
+        "word": "医院偶遇周深",
+        "onboard_time": 1732145295,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113377,
+        "num": 218824,
+        "word": "王楚然丞磊成何体统将开机",
+        "onboard_time": 1732152738,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218805,
+        "num": 218805,
+        "word": "卫生巾塌房",
+        "onboard_time": 1732094241,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201634,
+        "num": 201634,
+        "word": "关晓彤19岁就拿了白玉兰",
+        "onboard_time": 1732102878,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196245,
+        "num": 196245,
+        "word": "开了包的卫生巾1个月内用完",
+        "onboard_time": 1732145295,
+        "rank": 32,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 179331,
+        "num": 179331,
+        "word": "央视起底水军运作完整黑产链",
+        "onboard_time": 1732100420,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 178379,
+        "num": 178379,
+        "word": "不建议用有香味的卫生巾",
+        "onboard_time": 1732120397,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164916,
+        "num": 164916,
+        "word": "多家快递公司擅自把快件放在驿站被罚",
+        "onboard_time": 1732150820,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158943,
+        "num": 158943,
+        "word": "警方已立案调查博主徒步被马夫猥亵",
+        "onboard_time": 1732117699,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158924,
+        "num": 158924,
+        "word": "国乒男队一轮游",
+        "onboard_time": 1732108221,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142109,
+        "num": 142109,
+        "word": "苏炳添收到雷军送的钻石黑小米SU7",
+        "onboard_time": 1732115480,
+        "rank": 38,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 128289,
+        "word": "福冈总决赛中国男乒遭遇噩梦开局",
+        "onboard_time": 1732150161,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120133,
+        "num": 120133,
+        "word": "Uzi梦回巅峰",
+        "onboard_time": 1732148600,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108512,
+        "num": 108512,
+        "word": "圆明园考古又有新发现",
+        "onboard_time": 1732139771,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107401,
+        "num": 107401,
+        "word": "孙燕姿上海站获批",
+        "onboard_time": 1732149081,
+        "rank": 42,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 103704,
+        "num": 103704,
+        "word": "张本智和说奥运后只休息了3天",
+        "onboard_time": 1732147219,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95979,
+        "num": 95979,
+        "word": "警惕新型寄送现金诈骗",
+        "onboard_time": 1732149562,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94832,
+        "num": 94832,
+        "word": "梅尔顿赛季报销",
+        "onboard_time": 1732153040,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91056,
+        "num": 91056,
+        "word": "小狗离世前十分钟医师对它吐烟",
+        "onboard_time": 1732104740,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90390,
+        "num": 90390,
+        "word": "钟南山建议这类人群每年查肺功能",
+        "onboard_time": 1732127414,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89632,
+        "num": 89632,
+        "word": "马斯克同款减肥药中国上市引热议",
+        "onboard_time": 1732117579,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88700,
+        "num": 88700,
+        "word": "英伟达",
+        "onboard_time": 1732147278,
+        "rank": 49,
+        "category": "财经,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国愿同巴西做相互成就的黄金搭档#"
+    }
+  }
+}
