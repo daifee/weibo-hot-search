@@ -1,10 +1,10 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732160127233,
+  "endTime": 1732160848170,
   "band_list": [
     {
-      "raw_hot": 2177327,
-      "num": 2177327,
+      "raw_hot": 2433990,
+      "num": 2433990,
       "word": "于东来发文",
       "onboard_time": 1732157599,
       "rank": 32,
@@ -83,6 +83,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 781870,
+      "num": 345693,
+      "word": "虞书欣拦酒",
+      "onboard_time": 1732159639,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 761458,
       "num": 507503,
       "word": "马夫儿子否认父亲猥亵",
@@ -112,6 +120,14 @@
       "word": "警方已立案调查博主徒步被马夫猥亵",
       "onboard_time": 1732117699,
       "rank": 20,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 639579,
+      "num": 639579,
+      "word": "女子发现摄像头给酒店差评被起诉",
+      "onboard_time": 1732158199,
+      "rank": 8,
       "category": "舆论监督"
     },
     {
@@ -219,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 450616,
-      "num": 513723,
-      "word": "女子发现摄像头给酒店差评被起诉",
-      "onboard_time": 1732158199,
-      "rank": 8,
-      "category": "舆论监督"
+      "raw_hot": 430462,
+      "num": 430462,
+      "word": "MAMA",
+      "onboard_time": 1732158798,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 420241,
@@ -259,20 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393813,
-      "num": 398773,
-      "word": "MAMA",
-      "onboard_time": 1732158798,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 393506,
       "num": 218805,
       "word": "卫生巾塌房",
       "onboard_time": 1732094241,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 385234,
+      "num": 385234,
+      "word": "企业请离员工私生活远一点",
+      "onboard_time": 1732160239,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373311,
@@ -363,8 +379,8 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 266228,
-      "num": 266228,
+      "raw_hot": 290809,
+      "num": 290809,
       "word": "霸王茶姬免单券",
       "onboard_time": 1732159998,
       "rank": 30,
@@ -377,14 +393,6 @@
       "onboard_time": 1732156159,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258032,
-      "num": 258032,
-      "word": "虞书欣拦酒",
-      "onboard_time": 1732159639,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 257488,
@@ -409,6 +417,14 @@
       "onboard_time": 1732114640,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253577,
+      "num": 438877,
+      "word": "律师解读胖东来人结婚不许要或付彩礼",
+      "onboard_time": 1732160239,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250967,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206641,
+      "num": 513141,
+      "word": "小巷人家是中国版请回答1988吗",
+      "onboard_time": 1732158378,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205341,
       "num": 205341,
       "word": "虞书欣11个行李箱没白带",
@@ -505,6 +529,14 @@
       "onboard_time": 1732144936,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199242,
+      "num": 199242,
+      "word": "徐明浩首张个人EP",
+      "onboard_time": 1732160419,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 197305,
@@ -531,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189868,
+      "num": 189868,
+      "word": "再见爱人",
+      "onboard_time": 1732160479,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189276,
       "num": 189276,
       "word": "河村勇辉15分16助攻",
@@ -539,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188775,
+      "num": 188775,
+      "word": "薅免费能量胶的男女已找到将被罚",
+      "onboard_time": 1732159578,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188568,
       "num": 393740,
       "word": "电影好运来定档",
       "onboard_time": 1732156940,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188391,
+      "num": 188391,
+      "word": "原神超话",
+      "onboard_time": 1732159159,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 188215,
@@ -563,6 +619,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 182280,
+      "num": 182280,
+      "word": "荣耀300",
+      "onboard_time": 1732159339,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 179331,
       "num": 179331,
       "word": "央视起底水军运作完整黑产链",
@@ -577,14 +641,6 @@
       "onboard_time": 1732120397,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 177566,
-      "num": 177566,
-      "word": "原神超话",
-      "onboard_time": 1732159159,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 174724,
@@ -603,14 +659,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 168603,
-      "num": 168603,
-      "word": "薅免费能量胶的男女已找到将被罚",
-      "onboard_time": 1732159578,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164916,
       "num": 164916,
       "word": "多家快递公司擅自把快件放在驿站被罚",
@@ -627,12 +675,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151714,
-      "num": 151714,
-      "word": "荣耀300",
-      "onboard_time": 1732159339,
-      "rank": 47,
-      "category": "数码"
+      "raw_hot": 151510,
+      "num": 151510,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1732160419,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 149720,
+      "num": 392813,
+      "word": "WTT总决赛首日国乒仅2胜5负",
+      "onboard_time": 1732160180,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144644,
+      "num": 378495,
+      "word": "丁禹兮北京机场vip出发路透",
+      "onboard_time": 1732159879,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 143756,
@@ -643,12 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140323,
-      "num": 513141,
-      "word": "小巷人家是中国版请回答1988吗",
-      "onboard_time": 1732158378,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 142454,
+      "num": 142454,
+      "word": "权志龙出发MAMA",
+      "onboard_time": 1732160598,
+      "rank": 47,
+      "category": "音乐,演出"
     },
     {
       "raw_hot": 138358,
@@ -763,14 +827,6 @@
       "category": "演出,艺人"
     },
     {
-      "raw_hot": 116285,
-      "num": 378495,
-      "word": "丁禹兮北京机场vip出发路透",
-      "onboard_time": 1732159879,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113389,
       "num": 146341,
       "word": "快递员用肢体语言提醒聋哑人",
@@ -856,6 +912,14 @@
       "word": "警惕新型寄送现金诈骗",
       "onboard_time": 1732149562,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95157,
+      "num": 281374,
+      "word": "马拉松薅能量胶2人已找到",
+      "onboard_time": 1732159159,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1035,20 +1099,20 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 62628,
+      "num": 374945,
+      "word": "考研倒计时30天",
+      "onboard_time": 1732159879,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 61145,
       "num": 61145,
       "word": "曝Zeus被T1减薪",
       "onboard_time": 1732145295,
       "rank": 46,
       "category": "电竞,游戏"
-    },
-    {
-      "raw_hot": 60694,
-      "num": 266588,
-      "word": "马拉松薅能量胶2人已找到",
-      "onboard_time": 1732159159,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59144,
@@ -1489,14 +1553,6 @@
       "onboard_time": 1732124952,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9587,
-      "num": 374945,
-      "word": "考研倒计时30天",
-      "onboard_time": 1732159879,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 7819,
