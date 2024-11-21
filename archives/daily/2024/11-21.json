@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732153586157,
+  "endTime": 1732154917183,
   "band_list": [
     {
       "raw_hot": 2161475,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1111331,
-      "num": 337661,
+      "num": 428620,
       "word": "遭多人强奸智残女子家中装7个监控",
       "onboard_time": 1732105222,
       "rank": 10,
@@ -43,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1089227,
+      "num": 1089227,
+      "word": "四川一女干部被曝培训期间出轨同事",
+      "onboard_time": 1732152979,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1067319,
       "num": 1067319,
       "word": "国乒教练说寒冬来得比预想要快",
       "onboard_time": 1732116260,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 784763,
+      "num": 784763,
+      "word": "郑铮去世",
+      "onboard_time": 1732152438,
+      "rank": 12,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 721862,
@@ -67,8 +83,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 681136,
+      "num": 681136,
+      "word": "山西明确婚假30天",
+      "onboard_time": 1732152799,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605029,
-      "num": 333152,
+      "num": 393066,
       "word": "易烊千玺打麻将",
       "onboard_time": 1732113441,
       "rank": 11,
@@ -121,14 +145,6 @@
       "onboard_time": 1732113022,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 501818,
-      "num": 334123,
-      "word": "郑铮去世",
-      "onboard_time": 1732152438,
-      "rank": 12,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 499978,
@@ -195,14 +211,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 330630,
-      "num": 330630,
-      "word": "四川一女干部被曝培训期间出轨同事",
-      "onboard_time": 1732152979,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 317805,
       "num": 200657,
       "word": "警方通报女子驾车碾压一倒地者致死",
@@ -251,6 +259,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 287156,
+      "num": 251902,
+      "word": "女子疑遭丈夫家暴灌面汤呛死",
+      "onboard_time": 1732153579,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257488,
       "num": 257488,
       "word": "圆明园考古又有新发现",
@@ -283,6 +299,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248365,
+      "num": 438156,
+      "word": "开了包的卫生巾1个月内用完",
+      "onboard_time": 1732145295,
+      "rank": 30,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 241590,
+      "num": 243513,
+      "word": "鸟飞到养殖场把螃蟹当瓜子嗑",
+      "onboard_time": 1732152138,
+      "rank": 24,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 227519,
       "num": 227519,
       "word": "孙颖莎王艺迪无缘女双四强",
@@ -299,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223333,
-      "num": 223333,
-      "word": "鸟飞到养殖场把螃蟹当瓜子嗑",
-      "onboard_time": 1732152138,
-      "rank": 24,
-      "category": "民生新闻,幽默"
-    },
-    {
       "raw_hot": 221221,
       "num": 221221,
       "word": "2025年单休比双休多上52天班",
       "onboard_time": 1732145295,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220245,
-      "num": 220245,
-      "word": "山西明确婚假30天",
-      "onboard_time": 1732152799,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212550,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201252,
+      "num": 291708,
+      "word": "夏弃疾说丁禹兮本人真的很帅",
+      "onboard_time": 1732144936,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197305,
       "num": 197305,
       "word": "奔跑吧全员都哭了",
@@ -355,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196245,
-      "num": 196245,
-      "word": "开了包的卫生巾1个月内用完",
-      "onboard_time": 1732145295,
-      "rank": 30,
-      "category": "幽默,民生新闻"
+      "raw_hot": 188215,
+      "num": 235603,
+      "word": "交警狂飙护送超早产重症男婴转院",
+      "onboard_time": 1732154600,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 179331,
@@ -379,20 +403,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 174459,
-      "num": 291708,
-      "word": "夏弃疾说丁禹兮本人真的很帅",
-      "onboard_time": 1732144936,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170086,
       "num": 170086,
       "word": "宁夏沙湖成群野雁追着人飞",
       "onboard_time": 1732117879,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 166433,
+      "num": 166433,
+      "word": "吴敬平教练",
+      "onboard_time": 1732154298,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 164916,
@@ -419,12 +443,36 @@
       "category": "辟谣/通报,美妆"
     },
     {
+      "raw_hot": 137445,
+      "num": 137445,
+      "word": "国乒连输五场",
+      "onboard_time": 1732153699,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137090,
+      "num": 269973,
+      "word": "IVE 科切拉",
+      "onboard_time": 1732154537,
+      "rank": 19,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 135785,
       "num": 288131,
       "word": "五月天呼吁歌迷用挥手代替跳跃",
       "onboard_time": 1732149620,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134783,
+      "num": 134783,
+      "word": "马夫儿子否认父亲猥亵",
+      "onboard_time": 1732154360,
+      "rank": 43,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 134335,
@@ -435,12 +483,28 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 133858,
+      "num": 133858,
+      "word": "一个动作改善圆肩驼背",
+      "onboard_time": 1732153819,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128289,
       "num": 128289,
       "word": "福冈总决赛中国男乒遭遇噩梦开局",
       "onboard_time": 1732150161,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128105,
+      "num": 218824,
+      "word": "王楚然丞磊成何体统将开机",
+      "onboard_time": 1732152738,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 125846,
@@ -483,20 +547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116969,
+      "num": 210850,
+      "word": "孙燕姿上海站获批",
+      "onboard_time": 1732149081,
+      "rank": 42,
+      "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 115124,
+      "num": 115124,
+      "word": "24款卫生巾缩水实测",
+      "onboard_time": 1732154121,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113389,
       "num": 146341,
       "word": "快递员用肢体语言提醒聋哑人",
       "onboard_time": 1732144455,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 113377,
-      "num": 218824,
-      "word": "王楚然丞磊成何体统将开机",
-      "onboard_time": 1732152738,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 112521,
@@ -507,12 +579,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 107401,
-      "num": 107401,
-      "word": "孙燕姿上海站获批",
-      "onboard_time": 1732149081,
-      "rank": 42,
-      "category": "演出,艺人"
+      "raw_hot": 108925,
+      "num": 108925,
+      "word": "蒋欣 人间处处是超英",
+      "onboard_time": 1732154839,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105936,
@@ -867,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39171,
+      "num": 1187410,
+      "word": "文化何以遇鉴文化",
+      "onboard_time": 1732154419,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37872,
       "num": 38911,
       "word": "美国驻基辅大使馆将关闭",
@@ -1131,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6794,
+      "num": 461620,
+      "word": "帮偷拍黑产装摄像头或被视作共犯",
+      "onboard_time": 1732154900,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 6557,
       "num": 19744,
       "word": "吉林文旅发了肖战",
@@ -1188,6 +1276,9 @@
     },
     {
       "word": "#中国愿同巴西做相互成就的黄金搭档#"
+    },
+    {
+      "word": "#携手构建中巴命运共同体#"
     }
   ]
 }
