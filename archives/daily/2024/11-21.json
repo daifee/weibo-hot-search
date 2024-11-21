@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732195916203,
+  "endTime": 1732196599905,
   "band_list": [
     {
       "raw_hot": 4213662,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1319233,
+      "num": 1319233,
+      "word": "王楚钦vs弗朗西斯卡",
+      "onboard_time": 1732188380,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1318614,
       "num": 1318614,
       "word": "巴勒斯坦代表气愤到捶桌子",
@@ -137,14 +145,6 @@
       "onboard_time": 1732179320,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1124592,
-      "num": 1124592,
-      "word": "王楚钦vs弗朗西斯卡",
-      "onboard_time": 1732188380,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 1111659,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1069157,
-      "num": 445302,
+      "num": 473468,
       "word": "兰州交大回应情侣楼梯间不雅行为",
       "onboard_time": 1732194020,
       "rank": 46,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 721983,
-      "num": 445797,
+      "num": 471238,
       "word": "金靖出月子",
       "onboard_time": 1732193362,
       "rank": 28,
@@ -579,6 +579,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 556674,
+      "num": 389788,
+      "word": "自然堂 端水",
+      "onboard_time": 1732194980,
+      "rank": 33,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 548889,
       "num": 345735,
       "word": "乌军称俄罗斯发射洲际弹道导弹",
@@ -731,6 +739,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 469910,
+      "num": 469910,
+      "word": "烧饼任德云社副总",
+      "onboard_time": 1732195039,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461852,
       "num": 519429,
       "word": "麦琳骂李行亮神经病",
@@ -867,14 +883,6 @@
       "category": "正能量,正能量"
     },
     {
-      "raw_hot": 363969,
-      "num": 363969,
-      "word": "自然堂 端水",
-      "onboard_time": 1732194980,
-      "rank": 33,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 363063,
       "num": 201634,
       "word": "关晓彤19岁就拿了白玉兰",
@@ -913,14 +921,6 @@
       "onboard_time": 1732157961,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 345828,
-      "num": 345828,
-      "word": "烧饼任德云社副总",
-      "onboard_time": 1732195039,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 338457,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1732148059,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 302181,
+      "num": 302181,
+      "word": "iG 全神班",
+      "onboard_time": 1732195763,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 301578,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 257488,
-      "num": 464163,
+      "num": 491893,
       "word": "圆明园考古又有新发现",
       "onboard_time": 1732139771,
       "rank": 9,
@@ -1227,6 +1235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249757,
+      "num": 249757,
+      "word": "男子实名举报县委副书记婚内出轨",
+      "onboard_time": 1732194861,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249376,
       "num": 509066,
       "word": "丁禹兮说想尝试比较疯的角色",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1732185982,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244666,
+      "num": 244666,
+      "word": "王楚钦总决赛登场",
+      "onboard_time": 1732196000,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 243390,
@@ -1443,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207087,
-      "num": 207087,
-      "word": "男子实名举报县委副书记婚内出轨",
-      "onboard_time": 1732194861,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206353,
       "num": 650545,
       "word": "再见爱人真是史诗级别的抽象",
@@ -1603,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195492,
+      "num": 489978,
+      "word": "币圈富豪花4500万买了一根香蕉",
+      "onboard_time": 1732193362,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195151,
       "num": 195151,
       "word": "涵艺力挺Zeus",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1732185739,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 189538,
-      "num": 189538,
-      "word": "iG 全神班",
-      "onboard_time": 1732195763,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 189276,
@@ -1763,20 +1779,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 182149,
-      "num": 489978,
-      "word": "币圈富豪花4500万买了一根香蕉",
-      "onboard_time": 1732193362,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180867,
       "num": 354296,
       "word": "何同学致歉说明",
       "onboard_time": 1732183881,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 179987,
+      "num": 179987,
+      "word": "Uzi队差点被判负",
+      "onboard_time": 1732196240,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 179331,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1732175300,
       "rank": 44,
       "category": "舆论监督,美食"
+    },
+    {
+      "raw_hot": 175657,
+      "num": 175657,
+      "word": "中国男篮48分大胜关岛男篮",
+      "onboard_time": 1732194320,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 175505,
@@ -1977,6 +2001,14 @@
       "onboard_time": 1732183700,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158717,
+      "num": 514426,
+      "word": "林诗栋顶住了",
+      "onboard_time": 1732193961,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 158597,
@@ -2403,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104993,
+      "num": 489615,
+      "word": "情侣住酒店突遇2陌生人刷卡进房间",
+      "onboard_time": 1732196360,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104688,
       "num": 104688,
       "word": "再见导师真被网友拍出来了",
@@ -2467,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97096,
+      "num": 462533,
+      "word": "多家药企叫停创新药研发项目",
+      "onboard_time": 1732194440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97011,
       "num": 97011,
       "word": "小胖续约狼队",
@@ -2481,14 +2529,6 @@
       "onboard_time": 1732120038,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96012,
-      "num": 462533,
-      "word": "多家药企叫停创新药研发项目",
-      "onboard_time": 1732194440,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95979,
@@ -2627,6 +2667,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 84243,
+      "num": 487502,
+      "word": "王楚钦拧神",
+      "onboard_time": 1732195880,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83997,
       "num": 590516,
       "word": "陈幸同钱天一晋级4强",
@@ -2761,6 +2809,14 @@
       "onboard_time": 1732145598,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76225,
+      "num": 159245,
+      "word": "圆肩驼背不只是体态问题",
+      "onboard_time": 1732196300,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 75882,
@@ -3131,6 +3187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46255,
+      "num": 480809,
+      "word": "宁波一医院煎药房环境脏乱系外包",
+      "onboard_time": 1732195640,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46056,
       "num": 1190920,
       "word": "蓝色经济为中巴经济增长注入新动能",
@@ -3152,6 +3216,14 @@
       "word": "总决赛首日中国男单无人晋级八强",
       "onboard_time": 1732121656,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44152,
+      "num": 484072,
+      "word": "林诗栋勒布伦中远台对拉太精彩",
+      "onboard_time": 1732195640,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -3339,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37166,
+      "num": 465820,
+      "word": "女子称网购给差评被商家寄纸钱",
+      "onboard_time": 1732196420,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36703,
       "num": 124406,
       "word": "曾凡博扣篮",
@@ -3401,6 +3481,14 @@
       "onboard_time": 1732179978,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 33462,
+      "num": 492651,
+      "word": "林诗栋回应战胜A勒布伦",
+      "onboard_time": 1732196300,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 32994,
@@ -3491,6 +3579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30285,
+      "num": 482908,
+      "word": "林高远看台观赛",
+      "onboard_time": 1732195519,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30009,
       "num": 794068,
       "word": "巴西与中国茶原来这么有缘",
@@ -3507,20 +3603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29389,
-      "num": 449744,
-      "word": "宁波一医院煎药房环境脏乱系外包",
-      "onboard_time": 1732195640,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29381,
       "num": 508520,
       "word": "削球为何难打",
       "onboard_time": 1732157421,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28389,
+      "num": 774953,
+      "word": "我的祖国在巴西唱响见证了什么",
+      "onboard_time": 1732195460,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28063,
@@ -3535,14 +3631,6 @@
       "num": 657228,
       "word": "郑钦文连续3年入围WTA年度奖项",
       "onboard_time": 1732170260,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 25711,
-      "num": 452121,
-      "word": "林高远看台观赛",
-      "onboard_time": 1732195519,
       "rank": 12,
       "category": "体育"
     },
@@ -3691,14 +3779,6 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 20311,
-      "num": 455816,
-      "word": "林诗栋勒布伦中远台对拉太精彩",
-      "onboard_time": 1732195640,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20037,
       "num": 21186,
       "word": "等了七年了",
@@ -3731,12 +3811,12 @@
       "category": "音乐,旅游"
     },
     {
-      "raw_hot": 17917,
-      "num": 690689,
-      "word": "我的祖国在巴西唱响见证了什么",
-      "onboard_time": 1732195460,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 17930,
+      "num": 477245,
+      "word": "林诗栋不想辜负教练的期望",
+      "onboard_time": 1732196360,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 16965,
@@ -3907,12 +3987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7177,
-      "num": 514426,
-      "word": "林诗栋顶住了",
-      "onboard_time": 1732193961,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 6824,
+      "num": 325694,
+      "word": "周巡 关宏峰毒唯",
+      "onboard_time": 1732196121,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 6794,
@@ -3953,14 +4033,6 @@
       "onboard_time": 1732185681,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 5867,
-      "num": 459573,
-      "word": "王楚钦拧神",
-      "onboard_time": 1732195880,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 5791,
@@ -4014,6 +4086,9 @@
     },
     {
       "word": "#习主席乘专机离开巴西利亚#"
+    },
+    {
+      "word": "#为全球南方国家团结自强树立榜样#"
     }
   ]
 }
