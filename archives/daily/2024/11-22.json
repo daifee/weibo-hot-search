@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732207558748,
+  "endTime": 1732209664862,
   "band_list": [
     {
       "raw_hot": 1150779,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 527672,
-      "num": 257207,
+      "num": 492200,
       "word": "王宝强被举报涉嫌欺诈",
       "onboard_time": 1732181121,
       "rank": 3,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110397,
+      "num": 93921,
+      "word": "麦琳有腰椎滑脱",
+      "onboard_time": 1732207574,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106732,
       "num": 106732,
       "word": "李行亮离婚会把四分之三财产给麦琳",
@@ -233,6 +241,14 @@
       "onboard_time": 1732191079,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92320,
+      "num": 85335,
+      "word": "女技师背几个月大婴儿足疗店上班",
+      "onboard_time": 1732206438,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91983,
@@ -299,16 +315,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85335,
-      "num": 85335,
-      "word": "女技师背几个月大婴儿足疗店上班",
-      "onboard_time": 1732206438,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84248,
-      "num": 84248,
+      "num": 99944,
       "word": "圆肩驼背不只是体态问题",
       "onboard_time": 1732196300,
       "rank": 42,
@@ -363,7 +371,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57693,
+      "raw_hot": 61048,
       "num": 67942,
       "word": "费启鸣演技",
       "onboard_time": 1732207155,
@@ -379,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37361,
+      "num": 114401,
+      "word": "辛芷蕾侯明昊井柏然齐聚成都",
+      "onboard_time": 1732207217,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36561,
       "num": 133874,
       "word": "百雀羚为什么被称为国货之光",
       "onboard_time": 1732190720,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 35145,
+      "num": 45559,
+      "word": "埃文凯尔感谢中国小姐姐赠送国博限量文创",
+      "onboard_time": 1732209374,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33168,
@@ -395,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29168,
-      "num": 114401,
-      "word": "辛芷蕾侯明昊井柏然齐聚成都",
-      "onboard_time": 1732207217,
+      "raw_hot": 27661,
+      "num": 83859,
+      "word": "V中文版王源24岁首封",
+      "onboard_time": 1732208415,
       "rank": 19,
-      "category": "艺人"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 21313,
@@ -417,11 +441,22 @@
       "onboard_time": 1732206196,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6743,
+      "num": 106826,
+      "word": "乌镇再相逢",
+      "onboard_time": 1732194680,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习主席拉美之行#"
+    },
+    {
+      "word": "#习近平乘专机启程回国#"
     }
   ]
 }
