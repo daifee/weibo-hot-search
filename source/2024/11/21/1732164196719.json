@@ -1,0 +1,410 @@
+{
+  "runTime": 1732164196719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4213662,
+        "num": 4213662,
+        "word": "企业请离员工私生活远一点",
+        "onboard_time": 1732160239,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1742081,
+        "num": 1742081,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29577,
+        "num": 1258473,
+        "word": "文化中国行看中国茶在巴西",
+        "onboard_time": 1732163600,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1089847,
+        "num": 1089847,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1732161319,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796066,
+        "num": 796066,
+        "word": "4万人死亡也换不来美国的同情心吗",
+        "onboard_time": 1732147098,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1084276,
+        "num": 789523,
+        "word": "律师解读胖东来人结婚不许要或付彩礼",
+        "onboard_time": 1732160239,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780380,
+        "num": 780380,
+        "word": "再见爱人",
+        "onboard_time": 1732160479,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35371,
+        "num": 759838,
+        "word": "我国载人登月火箭再传喜讯",
+        "onboard_time": 1732163240,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 788015,
+        "num": 759425,
+        "word": "卫生巾",
+        "onboard_time": 1732161260,
+        "rank": 8,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 193583,
+        "num": 752557,
+        "word": "87版红楼梦这些演员已离我们远去",
+        "onboard_time": 1732163420,
+        "rank": 9,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 749909,
+        "num": 749909,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 739125,
+        "num": 739125,
+        "word": "陈伟霆刘雅瑟演父女",
+        "onboard_time": 1732161859,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570602,
+        "num": 570602,
+        "word": "小巷人家是中国版请回答1988吗",
+        "onboard_time": 1732158378,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32957,
+        "num": 539905,
+        "word": "球迷对国足比分有遗憾但能接受",
+        "onboard_time": 1732163120,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516540,
+        "num": 516540,
+        "word": "丁禹兮这组出圈图居然没修",
+        "onboard_time": 1732161020,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 430680,
+        "num": 430680,
+        "word": "巴勒斯坦代表气愤到捶桌子",
+        "onboard_time": 1732151359,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424387,
+        "num": 424387,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148122,
+        "num": 387155,
+        "word": "时代少年团每片雪花都有意义",
+        "onboard_time": 1732163780,
+        "rank": 17,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 371475,
+        "num": 371475,
+        "word": "女子发现摄像头给酒店差评被起诉",
+        "onboard_time": 1732158199,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212409,
+        "num": 360166,
+        "word": "林俊杰超越音符",
+        "onboard_time": 1732162760,
+        "rank": 19,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 462986,
+        "num": 357915,
+        "word": "姐姐送房给弟弟住被1400万卖掉",
+        "onboard_time": 1732146918,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349336,
+        "num": 349336,
+        "word": "山西明确婚假30天",
+        "onboard_time": 1732152799,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337816,
+        "num": 337816,
+        "word": "男子称杀父凶手大摆宴席是挑衅",
+        "onboard_time": 1732158497,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309466,
+        "num": 309466,
+        "word": "蒋欣 人间处处是超英",
+        "onboard_time": 1732154839,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283434,
+        "num": 283434,
+        "word": "刘宪华现身粉丝婚礼献唱",
+        "onboard_time": 1732159698,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283396,
+        "num": 283396,
+        "word": "MAMA",
+        "onboard_time": 1732158798,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208634,
+        "num": 272553,
+        "word": "老人买基金亏损过半家属质疑银行",
+        "onboard_time": 1732162279,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270864,
+        "num": 270864,
+        "word": "0个人相信孙颖莎的认路能力",
+        "onboard_time": 1732161260,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269314,
+        "num": 269314,
+        "word": "医用级卫生巾搜索量飙升",
+        "onboard_time": 1732147939,
+        "rank": 28,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 39280,
+        "num": 261404,
+        "word": "侯明昊荣梓杉狂夸陈好",
+        "onboard_time": 1732163902,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258960,
+        "num": 258960,
+        "word": "红米K80",
+        "onboard_time": 1732157961,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251792,
+        "num": 251792,
+        "word": "泰坦尼克号杰克露丝重聚",
+        "onboard_time": 1732157778,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236277,
+        "num": 236277,
+        "word": "金莎孙丞潇车内亲密互动",
+        "onboard_time": 1732152319,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216620,
+        "num": 216620,
+        "word": "黑心卫生巾",
+        "onboard_time": 1732163720,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208944,
+        "num": 208944,
+        "word": "白夜破晓第一个意难平",
+        "onboard_time": 1732163720,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203080,
+        "num": 203080,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732148059,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202156,
+        "num": 202156,
+        "word": "郑铮去世",
+        "onboard_time": 1732152438,
+        "rank": 36,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 198329,
+        "num": 198329,
+        "word": "雷军",
+        "onboard_time": 1732163420,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194140,
+        "num": 194140,
+        "word": "徐明浩solo",
+        "onboard_time": 1732162881,
+        "rank": 38,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 187585,
+        "num": 187585,
+        "word": "沈月包场失笑",
+        "onboard_time": 1732163600,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187039,
+        "num": 187039,
+        "word": "江苏一快递小哥退休挣了2套房",
+        "onboard_time": 1732163661,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177330,
+        "num": 177330,
+        "word": "国乒连输五场",
+        "onboard_time": 1732153699,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175007,
+        "num": 175007,
+        "word": "涵艺力挺Zeus",
+        "onboard_time": 1732163000,
+        "rank": 42,
+        "category": "电竞,电竞"
+      },
+      {
+        "raw_hot": 171065,
+        "num": 171065,
+        "word": "薅免费能量胶的男女已找到将被罚",
+        "onboard_time": 1732159578,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167589,
+        "num": 167589,
+        "word": "詹姆斯宣布退网",
+        "onboard_time": 1732157118,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157305,
+        "num": 157305,
+        "word": "中国新任驻乌克兰大使抵达乌克兰",
+        "onboard_time": 1732162340,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153693,
+        "num": 153693,
+        "word": "78岁老太将减持2.5亿股股票",
+        "onboard_time": 1732151180,
+        "rank": 46,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 151244,
+        "num": 151244,
+        "word": "珠帘玉幕",
+        "onboard_time": 1732162160,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27784,
+        "num": 150932,
+        "word": "李书福称甲醇汽车风口已到来",
+        "onboard_time": 1732163902,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150925,
+        "num": 150925,
+        "word": "跳槽后才发现前公司有多离谱",
+        "onboard_time": 1732164140,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#从北京到巴西利亚的两首歌#"
+    }
+  }
+}
