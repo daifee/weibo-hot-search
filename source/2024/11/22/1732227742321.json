@@ -1,0 +1,410 @@
+{
+  "runTime": 1732227742321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109546,
+        "num": 362683,
+        "word": "乌方想通过外交途径收复克里米亚",
+        "onboard_time": 1732221021,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101647,
+        "num": 101647,
+        "word": "王宝强被举报涉嫌欺诈",
+        "onboard_time": 1732181121,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9689,
+        "num": 77211,
+        "word": "乌镇再相逢",
+        "onboard_time": 1732194680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76147,
+        "num": 76147,
+        "word": "乌用英风暴之影导弹打击俄境内目标",
+        "onboard_time": 1732223351,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50680,
+        "num": 50680,
+        "word": "小雪到了",
+        "onboard_time": 1732204699,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 50309,
+        "num": 50309,
+        "word": "一片好心没盖住于东来的爹味",
+        "onboard_time": 1732217532,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49630,
+        "num": 49630,
+        "word": "烧饼任德云社副总",
+        "onboard_time": 1732195039,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45251,
+        "num": 45251,
+        "word": "中国记者灵魂拷问联合国电梯修3个月",
+        "onboard_time": 1732215130,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42446,
+        "num": 42446,
+        "word": "王楚钦说输谁都很正常",
+        "onboard_time": 1732199002,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40322,
+        "num": 40322,
+        "word": "洲际导弹",
+        "onboard_time": 1732182020,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 146253,
+        "num": 40215,
+        "word": "女子拒还前男友1170万买房款",
+        "onboard_time": 1732200800,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102674,
+        "num": 38663,
+        "word": "青年干部培训期间出轨被免职",
+        "onboard_time": 1732220830,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100297,
+        "num": 38064,
+        "word": "浙大回应家庭困难学生晒旅游照",
+        "onboard_time": 1732184600,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92096,
+        "num": 37687,
+        "word": "虞书欣登顶内娱女星杂志销量第一",
+        "onboard_time": 1732203379,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 65519,
+        "num": 36219,
+        "word": "医生建议别疯抢医用卫生巾",
+        "onboard_time": 1732188919,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41404,
+        "num": 35409,
+        "word": "王楚钦把对手拍子打掉了",
+        "onboard_time": 1732202001,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35091,
+        "num": 35091,
+        "word": "黄执中在奇葩说都没这么激动过",
+        "onboard_time": 1732196782,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32690,
+        "num": 32690,
+        "word": "麦琳有腰椎滑脱",
+        "onboard_time": 1732207574,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29531,
+        "num": 32669,
+        "word": "王宝强工作室回应",
+        "onboard_time": 1732191741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13753,
+        "num": 32632,
+        "word": "要向前瞻性战略性新兴产业集中",
+        "onboard_time": 1732225871,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188601,
+        "num": 32608,
+        "word": "工作人员看麦琳的表情",
+        "onboard_time": 1732202720,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40465,
+        "num": 32564,
+        "word": "卫生巾是否应该纳入医保",
+        "onboard_time": 1732203258,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 59962,
+        "num": 32530,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1732188739,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38664,
+        "num": 32504,
+        "word": "金靖出月子",
+        "onboard_time": 1732193362,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32903,
+        "num": 32481,
+        "word": "情侣住酒店突遇2陌生人刷卡进房间",
+        "onboard_time": 1732196360,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32450,
+        "num": 32450,
+        "word": "安理会非常任理事国呼吁加沙立即无条件停火",
+        "onboard_time": 1732216331,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32070,
+        "num": 32070,
+        "word": "女生隆胸不适发现主诊医生资质造假",
+        "onboard_time": 1732217892,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30503,
+        "num": 30503,
+        "word": "员工称胖东来不卖农夫山泉绿瓶水",
+        "onboard_time": 1732214352,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28529,
+        "num": 28529,
+        "word": "警方回应多名未成年闯陌生人家盗窃",
+        "onboard_time": 1732222092,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15430,
+        "num": 27655,
+        "word": "王鹤棣演唱会二开",
+        "onboard_time": 1732203139,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12715,
+        "num": 27639,
+        "word": "卫生巾虚标长度暴露哪些问题",
+        "onboard_time": 1732225390,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52147,
+        "num": 27636,
+        "word": "女技师背几个月大婴儿足疗店上班",
+        "onboard_time": 1732206438,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27634,
+        "num": 27634,
+        "word": "Mata加入T1",
+        "onboard_time": 1732203319,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27193,
+        "num": 27193,
+        "word": "圆肩驼背不只是体态问题",
+        "onboard_time": 1732196300,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 26701,
+        "num": 26701,
+        "word": "国博补赠中国小姐姐凤冠冰箱贴",
+        "onboard_time": 1732212612,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26659,
+        "num": 26659,
+        "word": "百雀羚官旗日销售额涨500%",
+        "onboard_time": 1732191079,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26512,
+        "num": 26512,
+        "word": "埃文凯尔感谢中国小姐姐赠送国博限量文创",
+        "onboard_time": 1732209374,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26046,
+        "num": 26046,
+        "word": "虞书欣站姐",
+        "onboard_time": 1732204818,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25814,
+        "num": 25814,
+        "word": "郭碧婷 怀孕生子是一件很美好的事",
+        "onboard_time": 1732183582,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23857,
+        "num": 23857,
+        "word": "小雪节气该吃啥",
+        "onboard_time": 1732219271,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 23407,
+        "num": 23407,
+        "word": "妇联介入女子举报民警丈夫长期家暴",
+        "onboard_time": 1732203859,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23088,
+        "num": 23088,
+        "word": "女子恋爱1个月被骗贷17万",
+        "onboard_time": 1732203439,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22822,
+        "num": 22822,
+        "word": "加沙已是孤儿之城这还不够吗",
+        "onboard_time": 1732212432,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22416,
+        "num": 22416,
+        "word": "杨子疑似失去所有的力气和手段",
+        "onboard_time": 1732188680,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22074,
+        "num": 22074,
+        "word": "国际刑事法院向内塔尼亚胡发出逮捕令",
+        "onboard_time": 1732199241,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21452,
+        "num": 21452,
+        "word": "以方回应国际刑事法院逮捕令",
+        "onboard_time": 1732210274,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21024,
+        "num": 21024,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1732218672,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 20998,
+        "word": "卫生巾新国标正在起草",
+        "onboard_time": 1732179320,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17718,
+        "num": 19260,
+        "word": "如父如子 丧偶式育儿",
+        "onboard_time": 1732227432,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12543,
+        "num": 18716,
+        "word": "费启鸣演技",
+        "onboard_time": 1732207155,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平乘专机启程回国#"
+    }
+  }
+}
