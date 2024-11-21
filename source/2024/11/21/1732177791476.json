@@ -1,0 +1,410 @@
+{
+  "runTime": 1732177791476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 852093,
+        "num": 1136334,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800637,
+        "num": 800637,
+        "word": "王一栩买了3000份虞书欣杂志",
+        "onboard_time": 1732174579,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13463,
+        "num": 794068,
+        "word": "巴西与中国茶原来这么有缘",
+        "onboard_time": 1732177400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792843,
+        "num": 792843,
+        "word": "小米高管回应网友催产卫生巾",
+        "onboard_time": 1732173319,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 789965,
+        "num": 789965,
+        "word": "李行亮公主抱麦琳摔了",
+        "onboard_time": 1732165525,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536174,
+        "num": 536174,
+        "word": "考研人数10年来第二次下降",
+        "onboard_time": 1732175360,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 582848,
+        "num": 535614,
+        "word": "何与 双轨",
+        "onboard_time": 1732174760,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550953,
+        "num": 534287,
+        "word": "祝绪丹照片是嫡长闺虞书欣包的",
+        "onboard_time": 1732172001,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58212,
+        "num": 533814,
+        "word": "2024年世界职业技术教育发展大会在津举办",
+        "onboard_time": 1732177338,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 42125,
+        "num": 532297,
+        "word": "该为酒店偷拍负责的元凶都有谁",
+        "onboard_time": 1732177099,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2375758,
+        "num": 531719,
+        "word": "高三女生被灌醉后遭强奸致死",
+        "onboard_time": 1732168159,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784798,
+        "num": 530286,
+        "word": "企业请离员工私生活远一点",
+        "onboard_time": 1732160239,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32875,
+        "num": 529130,
+        "word": "企业家要克制当大家长的冲动",
+        "onboard_time": 1732177278,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78760,
+        "num": 527799,
+        "word": "被家暴16次女子称未收到男方抚养费",
+        "onboard_time": 1732176379,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43882,
+        "num": 527121,
+        "word": "陈幸同钱天一三局仅耗时19分钟",
+        "onboard_time": 1732176979,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34623,
+        "num": 525552,
+        "word": "被红米体刷屏了",
+        "onboard_time": 1732176319,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 525546,
+        "num": 525546,
+        "word": "人社局回应胖东来员工新规",
+        "onboard_time": 1732171399,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 419711,
+        "num": 519429,
+        "word": "麦琳骂李行亮神经病",
+        "onboard_time": 1732171460,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25492,
+        "num": 503987,
+        "word": "林良铭说国足内部非常团结",
+        "onboard_time": 1732176798,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 482479,
+        "word": "李木戈改名",
+        "onboard_time": 1732177519,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660927,
+        "num": 457534,
+        "word": "奶奶为除虱子用敌敌畏给孩子洗头",
+        "onboard_time": 1732175300,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455175,
+        "num": 455175,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381584,
+        "num": 381584,
+        "word": "难哄",
+        "onboard_time": 1732164320,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325417,
+        "num": 325417,
+        "word": "小米称短期应该不做卫生巾",
+        "onboard_time": 1732174639,
+        "rank": 23,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 322250,
+        "num": 322250,
+        "word": "潘粤明转了7年前的微博",
+        "onboard_time": 1732176020,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319033,
+        "num": 319033,
+        "word": "孙颖莎场下摇头",
+        "onboard_time": 1732170081,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289166,
+        "num": 289166,
+        "word": "李行亮开车哭",
+        "onboard_time": 1732167619,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228032,
+        "num": 281742,
+        "word": "2025考研388万人报名",
+        "onboard_time": 1732168820,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278419,
+        "num": 278419,
+        "word": "36岁男子熬夜5点睡着7点发生心梗",
+        "onboard_time": 1732165762,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 16327,
+        "num": 264377,
+        "word": "麦琳把离婚挂嘴边",
+        "onboard_time": 1732177459,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65193,
+        "num": 263119,
+        "word": "王曼昱谈首次跟申裕斌交手",
+        "onboard_time": 1732176798,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262384,
+        "num": 262384,
+        "word": "裁员为啥都是裁干活的人",
+        "onboard_time": 1732171761,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 261478,
+        "num": 261478,
+        "word": "iG",
+        "onboard_time": 1732174160,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112635,
+        "num": 255677,
+        "word": "王曼昱的护台能力",
+        "onboard_time": 1732176679,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255197,
+        "num": 255197,
+        "word": "23岁女生花18万隆胸术后胸硬如石",
+        "onboard_time": 1732169239,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 219894,
+        "num": 219894,
+        "word": "莫雷加德3比2卡尔伯格",
+        "onboard_time": 1732177640,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213465,
+        "num": 213465,
+        "word": "中国人首次登月动画演示",
+        "onboard_time": 1732168219,
+        "rank": 36,
+        "category": "正能量,正能量"
+      },
+      {
+        "raw_hot": 207463,
+        "num": 207463,
+        "word": "双轨",
+        "onboard_time": 1732169779,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197837,
+        "num": 197837,
+        "word": "女子被家暴16次需终身挂粪袋",
+        "onboard_time": 1732171880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196589,
+        "num": 196589,
+        "word": "尤长靖 我一直有一颗热爱中国的心",
+        "onboard_time": 1732175059,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196229,
+        "num": 196229,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732148059,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180517,
+        "num": 180517,
+        "word": "孙颖莎2比3遭陈幸同逆转",
+        "onboard_time": 1732167499,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177834,
+        "num": 177834,
+        "word": "丁禹兮素颜",
+        "onboard_time": 1732171519,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176742,
+        "num": 176742,
+        "word": "今年春节档好热闹",
+        "onboard_time": 1732173078,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175843,
+        "num": 175843,
+        "word": "汉堡王被指设霸王条款",
+        "onboard_time": 1732175300,
+        "rank": 44,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 172952,
+        "num": 172952,
+        "word": "男子在小米总部喊话雷军后道歉",
+        "onboard_time": 1732177519,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51543,
+        "num": 169736,
+        "word": "世界互联网迎来乌镇时间",
+        "onboard_time": 1732162760,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169011,
+        "num": 169011,
+        "word": "加盟商300万投资汉堡王血本无归",
+        "onboard_time": 1732172060,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 168427,
+        "num": 168427,
+        "word": "卫生巾",
+        "onboard_time": 1732161260,
+        "rank": 48,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 160344,
+        "num": 160344,
+        "word": "WBG疑似全员离队",
+        "onboard_time": 1732174100,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#从北京到巴西利亚的两首歌#"
+    }
+  }
+}

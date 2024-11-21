@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732174672943,
+  "endTime": 1732177791476,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -1371,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800637,
+      "num": 800637,
+      "word": "王一栩买了3000份虞书欣杂志",
+      "onboard_time": 1732174579,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 797893,
       "num": 328622,
       "word": "女子隐瞒子宫全切闪婚被撤销婚姻",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1732152799,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 792843,
+      "num": 792843,
+      "word": "小米高管回应网友催产卫生巾",
+      "onboard_time": 1732173319,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 788978,
@@ -1585,14 +1601,6 @@
       "onboard_time": 1731902420,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 742600,
-      "num": 742600,
-      "word": "王一栩买了3000份虞书欣杂志",
-      "onboard_time": 1732174579,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 740016,
@@ -1905,6 +1913,14 @@
       "onboard_time": 1731840919,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660927,
+      "num": 457534,
+      "word": "奶奶为除虱子用敌敌畏给孩子洗头",
+      "onboard_time": 1732175300,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660807,
@@ -2283,6 +2299,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 582848,
+      "num": 535614,
+      "word": "何与 双轨",
+      "onboard_time": 1732174760,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582573,
       "num": 953883,
       "word": "36岁男子熬夜5点睡着7点发生心梗",
@@ -2539,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536174,
+      "num": 536174,
+      "word": "考研人数10年来第二次下降",
+      "onboard_time": 1732175360,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 535919,
       "num": 535919,
       "word": "珠帘玉幕 赵露思写真集",
@@ -2585,6 +2617,14 @@
       "onboard_time": 1732157778,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 525546,
+      "num": 587909,
+      "word": "人社局回应胖东来员工新规",
+      "onboard_time": 1732171399,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 520677,
@@ -2713,14 +2753,6 @@
       "onboard_time": 1732154121,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 503426,
-      "num": 587909,
-      "word": "人社局回应胖东来员工新规",
-      "onboard_time": 1732171399,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 502331,
@@ -2972,7 +3004,7 @@
     },
     {
       "raw_hot": 461852,
-      "num": 461852,
+      "num": 519429,
       "word": "麦琳骂李行亮神经病",
       "onboard_time": 1732171460,
       "rank": 26,
@@ -3153,14 +3185,6 @@
       "onboard_time": 1731856100,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 426951,
-      "num": 426951,
-      "word": "小米高管回应网友催产卫生巾",
-      "onboard_time": 1732173319,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 424934,
@@ -4003,6 +4027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325417,
+      "num": 325417,
+      "word": "小米称短期应该不做卫生巾",
+      "onboard_time": 1732174639,
+      "rank": 48,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 324423,
       "num": 564021,
       "word": "EXO初雪回榜",
@@ -4057,6 +4089,14 @@
       "onboard_time": 1731905781,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322250,
+      "num": 322250,
+      "word": "潘粤明转了7年前的微博",
+      "onboard_time": 1732176020,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 321159,
@@ -4904,6 +4944,14 @@
       "word": "ZOFGK解散",
       "onboard_time": 1732031899,
       "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 261478,
+      "num": 261478,
+      "word": "iG",
+      "onboard_time": 1732174160,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -5811,6 +5859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219894,
+      "num": 219894,
+      "word": "莫雷加德3比2卡尔伯格",
+      "onboard_time": 1732177640,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218855,
       "num": 218855,
       "word": "安宥真开球状态",
@@ -6507,14 +6563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200544,
-      "num": 200544,
-      "word": "iG",
-      "onboard_time": 1732174160,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200447,
       "num": 252631,
       "word": "斗罗大陆之燃魂战定档",
@@ -6651,6 +6699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197837,
+      "num": 579394,
+      "word": "女子被家暴16次需终身挂粪袋",
+      "onboard_time": 1732171880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197777,
       "num": 197777,
       "word": "虞书欣丁禹兮车窗视角",
@@ -6721,6 +6777,14 @@
       "onboard_time": 1731831978,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196589,
+      "num": 196589,
+      "word": "尤长靖 我一直有一颗热爱中国的心",
+      "onboard_time": 1732175059,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 196497,
@@ -7699,14 +7763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180368,
-      "num": 579394,
-      "word": "女子被家暴16次需终身挂粪袋",
-      "onboard_time": 1732171880,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180121,
       "num": 241596,
       "word": "白夜破晓追剧日历",
@@ -7891,6 +7947,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 175843,
+      "num": 175843,
+      "word": "汉堡王被指设霸王条款",
+      "onboard_time": 1732175300,
+      "rank": 44,
+      "category": "舆论监督,美食"
+    },
+    {
       "raw_hot": 175838,
       "num": 175838,
       "word": "张婉婷再次为麦琳发声",
@@ -8017,6 +8081,14 @@
       "onboard_time": 1731993140,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172952,
+      "num": 172952,
+      "word": "男子在小米总部喊话雷军后道歉",
+      "onboard_time": 1732177519,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 172947,
@@ -9041,14 +9113,6 @@
       "onboard_time": 1732077261,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151662,
-      "num": 151662,
-      "word": "小米称短期应该不做卫生巾",
-      "onboard_time": 1732174639,
-      "rank": 48,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 151431,
@@ -10947,6 +11011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112635,
+      "num": 255677,
+      "word": "王曼昱的护台能力",
+      "onboard_time": 1732176679,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112521,
       "num": 151395,
       "word": "王一博嘉人周年刊",
@@ -10977,6 +11049,14 @@
       "onboard_time": 1731842538,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112149,
+      "num": 482479,
+      "word": "李木戈改名",
+      "onboard_time": 1732177519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 112133,
@@ -12075,6 +12155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78760,
+      "num": 527799,
+      "word": "被家暴16次女子称未收到男方抚养费",
+      "onboard_time": 1732176379,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78392,
       "num": 193716,
       "word": "特邀撰稿王源",
@@ -12571,6 +12659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65193,
+      "num": 263119,
+      "word": "王曼昱谈首次跟申裕斌交手",
+      "onboard_time": 1732176798,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64800,
       "num": 429149,
       "word": "王一博叫你关注联合国气候变化大会",
@@ -12889,6 +12985,14 @@
       "onboard_time": 1731813379,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58212,
+      "num": 533814,
+      "word": "2024年世界职业技术教育发展大会在津举办",
+      "onboard_time": 1732177338,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 58161,
@@ -13763,6 +13867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 43882,
+      "num": 527121,
+      "word": "陈幸同钱天一三局仅耗时19分钟",
+      "onboard_time": 1732176979,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43772,
       "num": 213916,
       "word": "马嘉祺光影侧颜",
@@ -13849,6 +13961,14 @@
       "onboard_time": 1732080079,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42125,
+      "num": 532297,
+      "word": "该为酒店偷拍负责的元凶都有谁",
+      "onboard_time": 1732177099,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 42056,
@@ -14395,6 +14515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34623,
+      "num": 525552,
+      "word": "被红米体刷屏了",
+      "onboard_time": 1732176319,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34518,
       "num": 503938,
       "word": "4分15秒见证中国载人航天传奇史",
@@ -14609,6 +14737,14 @@
       "onboard_time": 1732005679,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32875,
+      "num": 529130,
+      "word": "企业家要克制当大家长的冲动",
+      "onboard_time": 1732177278,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32459,
@@ -15281,6 +15417,14 @@
       "onboard_time": 1732156577,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25492,
+      "num": 503987,
+      "word": "林良铭说国足内部非常团结",
+      "onboard_time": 1732176798,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 25484,
@@ -16051,6 +16195,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 16327,
+      "num": 264377,
+      "word": "麦琳把离婚挂嘴边",
+      "onboard_time": 1732177459,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15981,
       "num": 1051722,
       "word": "数读中国巴西务实合作成果",
@@ -16257,6 +16409,14 @@
       "onboard_time": 1731900918,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13463,
+      "num": 794068,
+      "word": "巴西与中国茶原来这么有缘",
+      "onboard_time": 1732177400,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13439,
