@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732196599905,
+  "endTime": 1732198957169,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 1069157,
-      "num": 473468,
+      "num": 526221,
       "word": "兰州交大回应情侣楼梯间不雅行为",
       "onboard_time": 1732194020,
       "rank": 46,
@@ -1427,6 +1427,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 817310,
+      "num": 817310,
+      "word": "情侣住酒店突遇2陌生人刷卡进房间",
+      "onboard_time": 1732196360,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 816551,
       "num": 388429,
       "word": "子期 皮套",
@@ -1836,7 +1844,7 @@
     },
     {
       "raw_hot": 721983,
-      "num": 471238,
+      "num": 493745,
       "word": "金靖出月子",
       "onboard_time": 1732193362,
       "rank": 28,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1732183941,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 702143,
+      "num": 702143,
+      "word": "王楚钦拧神",
+      "onboard_time": 1732195880,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 700316,
@@ -2243,6 +2259,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 641534,
+      "num": 389788,
+      "word": "自然堂 端水",
+      "onboard_time": 1732194980,
+      "rank": 33,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 639579,
       "num": 639579,
       "word": "女子发现摄像头给酒店差评被起诉",
@@ -2499,6 +2523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 587638,
+      "num": 587638,
+      "word": "王楚钦爆拧",
+      "onboard_time": 1732197022,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 582573,
       "num": 953883,
       "word": "36岁男子熬夜5点睡着7点发生心梗",
@@ -2625,14 +2657,6 @@
       "onboard_time": 1731904282,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 556674,
-      "num": 389788,
-      "word": "自然堂 端水",
-      "onboard_time": 1732194980,
-      "rank": 33,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 556591,
@@ -2809,6 +2833,14 @@
       "onboard_time": 1732187361,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 531544,
+      "num": 531544,
+      "word": "烧饼任德云社副总",
+      "onboard_time": 1732195039,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 530314,
@@ -3227,14 +3259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469910,
-      "num": 469910,
-      "word": "烧饼任德云社副总",
-      "onboard_time": 1732195039,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 468306,
       "num": 468306,
       "word": "丁禹兮回来路上了",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1731992064,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446352,
+      "num": 244666,
+      "word": "王楚钦总决赛登场",
+      "onboard_time": 1732196000,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 445687,
@@ -3787,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386856,
+      "num": 386856,
+      "word": "王楚钦进8强",
+      "onboard_time": 1732196662,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386383,
       "num": 334794,
       "word": "丁舟杰 祝你年年有虞",
@@ -3841,6 +3881,14 @@
       "onboard_time": 1732019239,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 384126,
+      "num": 384126,
+      "word": "虞书欣五大杂志销售额95花TOP",
+      "onboard_time": 1732197142,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 384052,
@@ -4171,6 +4219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345987,
+      "num": 345987,
+      "word": "iG 全神班",
+      "onboard_time": 1732195763,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345885,
       "num": 429472,
       "word": "林一把和沈月的合照藏了三年",
@@ -4475,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314621,
+      "num": 314621,
+      "word": "丁禹兮金发",
+      "onboard_time": 1732197562,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314339,
       "num": 344159,
       "word": "丁禹兮这一秒第三视角",
@@ -4643,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303571,
+      "num": 303571,
+      "word": "王楚钦下场对阵莫雷加德",
+      "onboard_time": 1732197981,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303319,
       "num": 424954,
       "word": "朴彩英二单",
@@ -4651,20 +4723,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 302181,
-      "num": 302181,
-      "word": "iG 全神班",
-      "onboard_time": 1732195763,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 301993,
       "num": 301993,
       "word": "戚薇边哭边给NPC打伞",
       "onboard_time": 1732095078,
       "rank": 44,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 301594,
+      "num": 301594,
+      "word": "王楚钦状态",
+      "onboard_time": 1732197442,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 301578,
@@ -4889,6 +4961,14 @@
       "onboard_time": 1732182260,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285268,
+      "num": 285268,
+      "word": "黄执中在奇葩说都没这么激动过",
+      "onboard_time": 1732196782,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 285043,
@@ -5184,6 +5264,14 @@
       "word": "官方回应吉林一滑冰馆被曝坍塌",
       "onboard_time": 1731898758,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268295,
+      "num": 268295,
+      "word": "男子实名举报县委副书记婚内出轨",
+      "onboard_time": 1732194861,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -5563,14 +5651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 249757,
-      "num": 249757,
-      "word": "男子实名举报县委副书记婚内出轨",
-      "onboard_time": 1732194861,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249561,
       "num": 249561,
       "word": "徐枫灿",
@@ -5649,14 +5729,6 @@
       "onboard_time": 1731888739,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244666,
-      "num": 244666,
-      "word": "王楚钦总决赛登场",
-      "onboard_time": 1732196000,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 244174,
@@ -8027,6 +8099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183951,
+      "num": 183951,
+      "word": "东方明珠为五月天5525亮灯",
+      "onboard_time": 1732197622,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183922,
       "num": 183922,
       "word": "宋亚轩直播",
@@ -8873,6 +8953,14 @@
       "onboard_time": 1732169419,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168789,
+      "num": 168789,
+      "word": "苏新皓跳了StillWithYou",
+      "onboard_time": 1732198581,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 168765,
@@ -9979,6 +10067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148593,
+      "num": 526343,
+      "word": "1克拉裸钻还没有戒托贵",
+      "onboard_time": 1732198041,
+      "rank": 9,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 148376,
       "num": 148376,
       "word": "时代少年团有你挑战",
@@ -10833,6 +10929,14 @@
       "onboard_time": 1731897557,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 134193,
+      "num": 134193,
+      "word": "百雀羚称被迫卷入商战",
+      "onboard_time": 1732198460,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 134069,
@@ -12059,14 +12163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104993,
-      "num": 489615,
-      "word": "情侣住酒店突遇2陌生人刷卡进房间",
-      "onboard_time": 1732196360,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104688,
       "num": 104688,
       "word": "再见导师真被网友拍出来了",
@@ -12265,6 +12361,14 @@
       "onboard_time": 1732158378,
       "rank": 7,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 98637,
+      "num": 276069,
+      "word": "王楚钦扫堂腿暴扣",
+      "onboard_time": 1732197981,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 98281,
@@ -12793,14 +12897,6 @@
       "onboard_time": 1732039452,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84243,
-      "num": 487502,
-      "word": "王楚钦拧神",
-      "onboard_time": 1732195880,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 83997,
@@ -13484,7 +13580,7 @@
     },
     {
       "raw_hot": 67769,
-      "num": 527170,
+      "num": 528089,
       "word": "百雀羚为什么被称为国货之光",
       "onboard_time": 1732190720,
       "rank": 8,
@@ -15427,6 +15523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37884,
+      "num": 268708,
+      "word": "从再见爱人关注女性的爱与自我",
+      "onboard_time": 1732198041,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37872,
       "num": 38911,
       "word": "美国驻基辅大使馆将关闭",
@@ -15441,6 +15545,14 @@
       "onboard_time": 1732177459,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37599,
+      "num": 384240,
+      "word": "闫妮说微醺不是我的常态",
+      "onboard_time": 1732197802,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 37531,
@@ -15601,6 +15713,14 @@
       "onboard_time": 1731852382,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35971,
+      "num": 838467,
+      "word": "我的祖国在巴西唱响见证了什么",
+      "onboard_time": 1732195460,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35589,
@@ -16337,14 +16457,6 @@
       "onboard_time": 1732020139,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 28389,
-      "num": 774953,
-      "word": "我的祖国在巴西唱响见证了什么",
-      "onboard_time": 1732195460,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28225,
