@@ -1,0 +1,410 @@
+{
+  "runTime": 1732173738053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212166,
+        "num": 1212166,
+        "word": "李行亮公主抱麦琳摔了",
+        "onboard_time": 1732165525,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1074998,
+        "num": 1074998,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62677,
+        "num": 861166,
+        "word": "世界互联网迎来乌镇时间",
+        "onboard_time": 1732162760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 772578,
+        "num": 772578,
+        "word": "娃哈哈回应钟睒睒绿瓶纯净水言论",
+        "onboard_time": 1732170379,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673028,
+        "num": 673028,
+        "word": "2025考研388万人报名",
+        "onboard_time": 1732168820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 993148,
+        "num": 649696,
+        "word": "企业请离员工私生活远一点",
+        "onboard_time": 1732160239,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590524,
+        "num": 590524,
+        "word": "李行亮开车哭",
+        "onboard_time": 1732167619,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83997,
+        "num": 590516,
+        "word": "陈幸同钱天一晋级4强",
+        "onboard_time": 1732172720,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503426,
+        "num": 587909,
+        "word": "人社局回应胖东来员工新规",
+        "onboard_time": 1732171399,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 210050,
+        "num": 586482,
+        "word": "加盟商300万投资汉堡王血本无归",
+        "onboard_time": 1732172060,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2895849,
+        "num": 584526,
+        "word": "高三女生被灌醉后遭强奸致死",
+        "onboard_time": 1732168159,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647849,
+        "num": 583337,
+        "word": "祝绪丹照片是嫡长闺虞书欣包的",
+        "onboard_time": 1732172001,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 65289,
+        "num": 581341,
+        "word": "陈幸同钱天一3比0郑怡静李昱谆",
+        "onboard_time": 1732172839,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580840,
+        "num": 580840,
+        "word": "难哄",
+        "onboard_time": 1732164320,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139075,
+        "num": 579394,
+        "word": "女子被家暴16次需终身挂粪袋",
+        "onboard_time": 1732171880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362959,
+        "num": 578587,
+        "word": "疯狂熏鸡四",
+        "onboard_time": 1732166961,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 578570,
+        "num": 578570,
+        "word": "孙颖莎场下摇头",
+        "onboard_time": 1732170081,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137180,
+        "num": 510924,
+        "word": "梁王组合无缘年终总决赛",
+        "onboard_time": 1732173619,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121116,
+        "num": 502414,
+        "word": "王曼昱回应晋级总决赛8强",
+        "onboard_time": 1732173319,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210557,
+        "num": 501692,
+        "word": "时代峰峻承认内部员工售卖艺人信息",
+        "onboard_time": 1732171640,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501454,
+        "num": 501454,
+        "word": "23岁女生花18万隆胸术后胸硬如石",
+        "onboard_time": 1732169239,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 480825,
+        "num": 480825,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431413,
+        "num": 431413,
+        "word": "孙颖莎2比3遭陈幸同逆转",
+        "onboard_time": 1732167499,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376872,
+        "num": 376872,
+        "word": "胖东来回应员工结婚不许要彩礼",
+        "onboard_time": 1732169660,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372208,
+        "num": 372208,
+        "word": "考研人数",
+        "onboard_time": 1732169479,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359988,
+        "num": 359988,
+        "word": "中国人首次登月动画演示",
+        "onboard_time": 1732168219,
+        "rank": 25,
+        "category": "正能量,正能量"
+      },
+      {
+        "raw_hot": 347182,
+        "num": 347182,
+        "word": "麦琳骂李行亮神经病",
+        "onboard_time": 1732171460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317574,
+        "num": 317574,
+        "word": "虞书欣杂志",
+        "onboard_time": 1732170319,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 331061,
+        "num": 309116,
+        "word": "36岁男子熬夜5点睡着7点发生心梗",
+        "onboard_time": 1732165762,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 144118,
+        "num": 302247,
+        "word": "今年春节档好热闹",
+        "onboard_time": 1732173078,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299299,
+        "num": 299299,
+        "word": "裁员为啥都是裁干活的人",
+        "onboard_time": 1732171761,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 285439,
+        "num": 285439,
+        "word": "孙颖莎无缘女单8强",
+        "onboard_time": 1732166002,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256936,
+        "num": 256936,
+        "word": "留几手想和葛夕住只是想有人洗衣服",
+        "onboard_time": 1732164500,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236997,
+        "num": 236997,
+        "word": "丁禹兮素颜",
+        "onboard_time": 1732171519,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230876,
+        "num": 230876,
+        "word": "麦琳 难哄",
+        "onboard_time": 1732166120,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214099,
+        "num": 214099,
+        "word": "李承铉接女儿放学",
+        "onboard_time": 1732172299,
+        "rank": 35,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 200346,
+        "num": 200346,
+        "word": "梁王止步中国赛16强",
+        "onboard_time": 1732169120,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193483,
+        "num": 193483,
+        "word": "JYP公司只有JYP去了MAMA",
+        "onboard_time": 1732167560,
+        "rank": 37,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 188755,
+        "num": 188755,
+        "word": "律师解读胖东来人结婚不许要或付彩礼",
+        "onboard_time": 1732160239,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188183,
+        "num": 188183,
+        "word": "小米高管回应网友催产卫生巾",
+        "onboard_time": 1732173319,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174133,
+        "num": 174133,
+        "word": "黑心卫生巾",
+        "onboard_time": 1732163720,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172211,
+        "num": 172211,
+        "word": "孙颖莎总决赛单双打均首轮出局",
+        "onboard_time": 1732170319,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164082,
+        "num": 164082,
+        "word": "4万人死亡也换不来美国的同情心吗",
+        "onboard_time": 1732147098,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163517,
+        "num": 163517,
+        "word": "女孩狂学非遗不回避流量变现",
+        "onboard_time": 1732168040,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154348,
+        "num": 154348,
+        "word": "双轨",
+        "onboard_time": 1732169779,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148755,
+        "num": 148755,
+        "word": "网友喊话雷军生产卫生巾",
+        "onboard_time": 1732164800,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144084,
+        "num": 144084,
+        "word": "王昶我们知道自己在干什么",
+        "onboard_time": 1732173500,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142570,
+        "num": 142570,
+        "word": "王曼昱晋级总决赛8强",
+        "onboard_time": 1732169001,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 140146,
+        "word": "2025考研12月21日开考",
+        "onboard_time": 1732172598,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136453,
+        "num": 136453,
+        "word": "丁禹兮这组出圈图居然没修",
+        "onboard_time": 1732161020,
+        "rank": 49,
+        "category": "作品衍生,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席巴西总统举行的欢迎宴会#"
+    }
+  }
+}

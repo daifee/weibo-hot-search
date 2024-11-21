@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732171593994,
+  "endTime": 1732173738053,
   "band_list": [
     {
       "raw_hot": 4213662,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 772578,
+      "num": 772578,
+      "word": "娃哈哈回应钟睒睒绿瓶纯净水言论",
+      "onboard_time": 1732170379,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 761458,
       "num": 507503,
       "word": "马夫儿子否认父亲猥亵",
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647849,
+      "num": 583337,
+      "word": "祝绪丹照片是嫡长闺虞书欣包的",
+      "onboard_time": 1732172001,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 639579,
       "num": 639579,
       "word": "女子发现摄像头给酒店差评被起诉",
@@ -289,6 +305,14 @@
       "onboard_time": 1732165762,
       "rank": 13,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 578570,
+      "num": 648675,
+      "word": "孙颖莎场下摇头",
+      "onboard_time": 1732170081,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 573011,
@@ -395,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503426,
+      "num": 587909,
+      "word": "人社局回应胖东来员工新规",
+      "onboard_time": 1732171399,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 499978,
       "num": 148991,
       "word": "女子驾车碾压倒地者致其死亡",
@@ -467,12 +499,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 376872,
+      "num": 664333,
+      "word": "胖东来回应员工结婚不许要彩礼",
+      "onboard_time": 1732169660,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373311,
       "num": 201668,
       "word": "听泉鉴宝 徐志胜",
       "onboard_time": 1732102940,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372208,
+      "num": 372208,
+      "word": "考研人数",
+      "onboard_time": 1732169479,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 363063,
@@ -483,12 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362959,
+      "num": 578587,
+      "word": "疯狂熏鸡四",
+      "onboard_time": 1732166961,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361779,
       "num": 361779,
       "word": "梁王止步中国赛16强",
       "onboard_time": 1732169120,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359988,
+      "num": 359988,
+      "word": "中国人首次登月动画演示",
+      "onboard_time": 1732168219,
+      "rank": 41,
+      "category": "正能量,正能量"
     },
     {
       "raw_hot": 355803,
@@ -499,20 +563,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 355235,
-      "num": 648675,
-      "word": "孙颖莎场下摇头",
-      "onboard_time": 1732170081,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 353754,
       "num": 353754,
       "word": "红米K80",
       "onboard_time": 1732157961,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 347182,
+      "num": 347182,
+      "word": "麦琳骂李行亮神经病",
+      "onboard_time": 1732171460,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 338457,
@@ -529,14 +593,6 @@
       "onboard_time": 1732165039,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332125,
-      "num": 408116,
-      "word": "疯狂熏鸡四",
-      "onboard_time": 1732166961,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 329040,
@@ -563,6 +619,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 317574,
+      "num": 651230,
+      "word": "虞书欣杂志",
+      "onboard_time": 1732170319,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 312524,
       "num": 147312,
       "word": "马斯克同款减肥药中国上市引热议",
@@ -587,20 +651,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 307868,
-      "num": 307868,
-      "word": "考研人数",
-      "onboard_time": 1732169479,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 301562,
       "num": 525575,
       "word": "朴智妍黄载均确定离婚",
       "onboard_time": 1732164560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299299,
+      "num": 299299,
+      "word": "裁员为啥都是裁干活的人",
+      "onboard_time": 1732171761,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 296960,
@@ -665,22 +729,6 @@
       "onboard_time": 1732164320,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277189,
-      "num": 664333,
-      "word": "胖东来回应员工结婚不许要彩礼",
-      "onboard_time": 1732169660,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264895,
-      "num": 651230,
-      "word": "虞书欣杂志",
-      "onboard_time": 1732170319,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 261757,
@@ -771,6 +819,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 236997,
+      "num": 236997,
+      "word": "丁禹兮素颜",
+      "onboard_time": 1732171519,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227519,
       "num": 227519,
       "word": "孙颖莎王艺迪无缘女双四强",
@@ -811,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214099,
+      "num": 214099,
+      "word": "李承铉接女儿放学",
+      "onboard_time": 1732172299,
+      "rank": 35,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 212550,
       "num": 212550,
       "word": "不提麦琳两个字证明你看过再见爱人",
@@ -825,6 +889,22 @@
       "onboard_time": 1732162760,
       "rank": 35,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 210557,
+      "num": 501692,
+      "word": "时代峰峻承认内部员工售卖艺人信息",
+      "onboard_time": 1732171640,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210050,
+      "num": 586482,
+      "word": "加盟商300万投资汉堡王血本无归",
+      "onboard_time": 1732172060,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 209316,
@@ -897,14 +977,6 @@
       "onboard_time": 1732153819,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 201453,
-      "num": 201453,
-      "word": "中国人首次登月动画演示",
-      "onboard_time": 1732168219,
-      "rank": 41,
-      "category": "正能量,正能量"
     },
     {
       "raw_hot": 201398,
@@ -1019,14 +1091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189442,
-      "num": 189442,
-      "word": "娃哈哈回应钟睒睒绿瓶纯净水言论",
-      "onboard_time": 1732170379,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189276,
       "num": 189276,
       "word": "河村勇辉15分16助攻",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1732154600,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 188183,
+      "num": 188183,
+      "word": "小米高管回应网友催产卫生巾",
+      "onboard_time": 1732173319,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 187585,
@@ -1195,6 +1267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 154348,
+      "num": 154348,
+      "word": "双轨",
+      "onboard_time": 1732169779,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151510,
       "num": 151510,
       "word": "霸王茶姬口令",
@@ -1235,6 +1315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144118,
+      "num": 302247,
+      "word": "今年春节档好热闹",
+      "onboard_time": 1732173078,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144084,
+      "num": 144084,
+      "word": "王昶我们知道自己在干什么",
+      "onboard_time": 1732173500,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143756,
       "num": 143756,
       "word": "小狗离世前十分钟医师对它吐烟",
@@ -1251,12 +1347,36 @@
       "category": "音乐,演出"
     },
     {
+      "raw_hot": 140146,
+      "num": 140146,
+      "word": "2025考研12月21日开考",
+      "onboard_time": 1732172598,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 139075,
+      "num": 579394,
+      "word": "女子被家暴16次需终身挂粪袋",
+      "onboard_time": 1732171880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138358,
       "num": 138358,
       "word": "市药监局认定百雀羚不存在违规行为",
       "onboard_time": 1732103841,
       "rank": 28,
       "category": "辟谣/通报,美妆"
+    },
+    {
+      "raw_hot": 137180,
+      "num": 510924,
+      "word": "梁王组合无缘年终总决赛",
+      "onboard_time": 1732173619,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 135785,
@@ -1337,6 +1457,14 @@
       "onboard_time": 1732158139,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121116,
+      "num": 502414,
+      "word": "王曼昱回应晋级总决赛8强",
+      "onboard_time": 1732173319,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 120966,
@@ -1563,6 +1691,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 83997,
+      "num": 590516,
+      "word": "陈幸同钱天一晋级4强",
+      "onboard_time": 1732172720,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83686,
       "num": 83686,
       "word": "张本智和说想在日本拿冠军",
@@ -1713,6 +1849,22 @@
       "onboard_time": 1732145295,
       "rank": 44,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 65289,
+      "num": 581341,
+      "word": "陈幸同钱天一3比0郑怡静李昱谆",
+      "onboard_time": 1732172839,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62677,
+      "num": 1349755,
+      "word": "世界互联网迎来乌镇时间",
+      "onboard_time": 1732162760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62628,
@@ -1953,14 +2105,6 @@
       "onboard_time": 1732163240,
       "rank": 7,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 33880,
-      "num": 1349755,
-      "word": "世界互联网迎来乌镇时间",
-      "onboard_time": 1732162760,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32957,
