@@ -1,0 +1,410 @@
+{
+  "runTime": 1732166564528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2811313,
+        "num": 2811313,
+        "word": "企业请离员工私生活远一点",
+        "onboard_time": 1732160239,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2545376,
+        "num": 2545376,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1732161319,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27093,
+        "num": 1636626,
+        "word": "文化中国行看中国茶在巴西",
+        "onboard_time": 1732163600,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1480130,
+        "num": 1480130,
+        "word": "李行亮公主抱麦琳摔了",
+        "onboard_time": 1732165525,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1382773,
+        "num": 1382773,
+        "word": "黑心卫生巾",
+        "onboard_time": 1732163720,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1263364,
+        "num": 1263364,
+        "word": "难哄",
+        "onboard_time": 1732164320,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1198707,
+        "num": 1198707,
+        "word": "孙颖莎无缘女单8强",
+        "onboard_time": 1732166002,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1177964,
+        "num": 1177964,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206595,
+        "num": 1024355,
+        "word": "陈幸同3比2孙颖莎",
+        "onboard_time": 1732166002,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47284,
+        "num": 1008070,
+        "word": "山上放火岂能把危险当浪漫",
+        "onboard_time": 1732165340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001703,
+        "num": 1001703,
+        "word": "雷军",
+        "onboard_time": 1732163420,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 660807,
+        "num": 977383,
+        "word": "留几手想和葛夕住只是想有人洗衣服",
+        "onboard_time": 1732164500,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25536,
+        "num": 956701,
+        "word": "梁王组合vs印尼组合",
+        "onboard_time": 1732149800,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173774,
+        "num": 953883,
+        "word": "36岁男子熬夜5点睡着7点发生心梗",
+        "onboard_time": 1732165762,
+        "rank": 13,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 953581,
+        "num": 953581,
+        "word": "律师解读胖东来人结婚不许要或付彩礼",
+        "onboard_time": 1732160239,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418401,
+        "num": 947220,
+        "word": "小巷人家是中国版请回答1988吗",
+        "onboard_time": 1732158378,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404163,
+        "num": 939612,
+        "word": "陈伟霆刘雅瑟演父女",
+        "onboard_time": 1732161859,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84621,
+        "num": 929261,
+        "word": "官方辟谣19岁孤儿被骗至郑州",
+        "onboard_time": 1732165461,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 28063,
+        "num": 923308,
+        "word": "机器狗无人机成新挑山工",
+        "onboard_time": 1732165401,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31151,
+        "num": 913867,
+        "word": "李书福称甲醇汽车风口已到来",
+        "onboard_time": 1732163902,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 912677,
+        "num": 912677,
+        "word": "再见爱人",
+        "onboard_time": 1732160479,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275456,
+        "num": 549144,
+        "word": "麦琳 难哄",
+        "onboard_time": 1732166120,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301562,
+        "num": 525575,
+        "word": "朴智妍黄载均确定离婚",
+        "onboard_time": 1732164560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519350,
+        "num": 519350,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 494768,
+        "num": 494768,
+        "word": "4万人死亡也换不来美国的同情心吗",
+        "onboard_time": 1732147098,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376004,
+        "num": 376004,
+        "word": "卫生巾",
+        "onboard_time": 1732161260,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 363551,
+        "num": 363551,
+        "word": "丁禹兮这组出圈图居然没修",
+        "onboard_time": 1732161020,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 208124,
+        "num": 322953,
+        "word": "许幻山下桌胡成上桌",
+        "onboard_time": 1732165340,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203491,
+        "num": 318012,
+        "word": "尤长靖事业粉狂喜",
+        "onboard_time": 1732165461,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317070,
+        "num": 317070,
+        "word": "姐姐送房给弟弟住被1400万卖掉",
+        "onboard_time": 1732146918,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308718,
+        "num": 308718,
+        "word": "李子柒公园套娃送小朋友被拒",
+        "onboard_time": 1732165461,
+        "rank": 30,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 261654,
+        "num": 261654,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253354,
+        "num": 253354,
+        "word": "跳槽后才发现前公司有多离谱",
+        "onboard_time": 1732164140,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 250870,
+        "num": 250870,
+        "word": "巴勒斯坦代表气愤到捶桌子",
+        "onboard_time": 1732151359,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249341,
+        "num": 249341,
+        "word": "网友喊话雷军生产卫生巾",
+        "onboard_time": 1732164800,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237826,
+        "num": 237826,
+        "word": "0个人相信孙颖莎的认路能力",
+        "onboard_time": 1732161260,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237402,
+        "num": 237402,
+        "word": "王曼昱vs申裕斌",
+        "onboard_time": 1732164320,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232471,
+        "num": 232471,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336154,
+        "num": 229276,
+        "word": "孙颖莎陈幸同大比分1比1",
+        "onboard_time": 1732165039,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217009,
+        "num": 217009,
+        "word": "男子称杀父凶手大摆宴席是挑衅",
+        "onboard_time": 1732158497,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216994,
+        "num": 216994,
+        "word": "医用级卫生巾搜索量飙升",
+        "onboard_time": 1732147939,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 201398,
+        "num": 201398,
+        "word": "江苏一快递小哥退休挣了2套房",
+        "onboard_time": 1732163661,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193735,
+        "num": 193735,
+        "word": "麦琳是一种处境",
+        "onboard_time": 1732165642,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193531,
+        "num": 193531,
+        "word": "老人买基金亏损过半家属质疑银行",
+        "onboard_time": 1732162279,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193057,
+        "num": 193057,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732148059,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188623,
+        "num": 188623,
+        "word": "赵露思发型学的我的教程",
+        "onboard_time": 1732166361,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 187914,
+        "num": 187914,
+        "word": "山西明确婚假30天",
+        "onboard_time": 1732152799,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184749,
+        "num": 184749,
+        "word": "顶流也扛不住回村的诱惑",
+        "onboard_time": 1732164741,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181570,
+        "num": 181570,
+        "word": "金莎孙丞潇车内亲密互动",
+        "onboard_time": 1732152319,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176502,
+        "num": 176502,
+        "word": "刘宪华现身粉丝婚礼献唱",
+        "onboard_time": 1732159698,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席巴西总统举行的欢迎宴会#"
+    }
+  }
+}
