@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732185811737,
+  "endTime": 1732188051759,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -1115,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 918538,
+      "num": 340807,
+      "word": "麦琳 窒息",
+      "onboard_time": 1732186340,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 915516,
       "num": 425091,
       "word": "郭碧婷 怀孕生子是一件很美好的事",
@@ -1723,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 725747,
+      "num": 725747,
+      "word": "网友连卫生巾名字都帮雷军想好了",
+      "onboard_time": 1732182920,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 723778,
       "num": 723778,
       "word": "举报史航性骚扰当事人道歉",
@@ -1795,6 +1811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 707298,
+      "num": 307263,
+      "word": "虞书欣给丁禹兮认错",
+      "onboard_time": 1732187480,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 706549,
       "num": 547282,
       "word": "降低身体慢性炎症的2个方法",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1732182020,
       "rank": 3,
       "category": "军事"
+    },
+    {
+      "raw_hot": 703086,
+      "num": 703086,
+      "word": "缅北规模化电诈园区全部被铲除",
+      "onboard_time": 1732183941,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 700316,
@@ -2155,14 +2187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 637494,
-      "num": 637494,
-      "word": "缅北规模化电诈园区全部被铲除",
-      "onboard_time": 1732183941,
-      "rank": 31,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 635817,
       "num": 635817,
       "word": "花少6",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1731801616,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 617432,
-      "num": 617432,
-      "word": "网友连卫生巾名字都帮雷军想好了",
-      "onboard_time": 1732182920,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 616495,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1731826638,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 597435,
+      "num": 318728,
+      "word": "浙大回应家庭困难学生晒旅游照",
+      "onboard_time": 1732184600,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 597041,
@@ -3049,6 +3073,14 @@
       "onboard_time": 1731759800,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473578,
+      "num": 283302,
+      "word": "英伟达一天赚8套北京四合院",
+      "onboard_time": 1732185440,
+      "rank": 34,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 472347,
@@ -4219,6 +4251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321200,
+      "num": 321200,
+      "word": "马嘉祺 蜚蜚",
+      "onboard_time": 1732184961,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 321159,
       "num": 321159,
       "word": "王楚钦福冈总决赛宣传照",
@@ -4267,14 +4307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 318728,
-      "num": 318728,
-      "word": "浙大回应家庭困难学生晒旅游照",
-      "onboard_time": 1732184600,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 317305,
       "num": 317305,
       "word": "国乒无缘总决赛男双四强",
@@ -4289,14 +4321,6 @@
       "onboard_time": 1731974057,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 316154,
-      "num": 316154,
-      "word": "马嘉祺 蜚蜚",
-      "onboard_time": 1732184961,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 315930,
@@ -4353,6 +4377,14 @@
       "onboard_time": 1731987199,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312971,
+      "num": 312971,
+      "word": "女子取走男友部分骨灰被其母诉赔偿",
+      "onboard_time": 1732184600,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312716,
@@ -4835,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277309,
+      "num": 277309,
+      "word": "我愿为了这个房子爬七楼",
+      "onboard_time": 1732184241,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276526,
       "num": 266933,
       "word": "孙颖莎王楚钦像两个季节的人",
@@ -5065,6 +5105,14 @@
       "onboard_time": 1732171519,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263374,
+      "num": 263374,
+      "word": "湖南平江发现超40条金矿脉",
+      "onboard_time": 1732180820,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262630,
@@ -5369,14 +5417,6 @@
       "onboard_time": 1731829158,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 249475,
-      "num": 249475,
-      "word": "我愿为了这个房子爬七楼",
-      "onboard_time": 1732184241,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 249376,
@@ -6059,14 +6099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219454,
-      "num": 219454,
-      "word": "湖南平江发现超40条金矿脉",
-      "onboard_time": 1732180820,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218855,
       "num": 218855,
       "word": "安宥真开球状态",
@@ -6113,6 +6145,14 @@
       "onboard_time": 1731975139,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217138,
+      "num": 295754,
+      "word": "鞠婧祎身上有两只蝴蝶",
+      "onboard_time": 1732187179,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 216644,
@@ -6593,6 +6633,14 @@
       "onboard_time": 1731996501,
       "rank": 22,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 204275,
+      "num": 297388,
+      "word": "留几手说丁克的原因",
+      "onboard_time": 1732185982,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 204192,
@@ -7259,14 +7307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191091,
-      "num": 191091,
-      "word": "英伟达一天赚8套北京四合院",
-      "onboard_time": 1732185440,
-      "rank": 34,
-      "category": "财经,数码"
-    },
-    {
       "raw_hot": 191080,
       "num": 240319,
       "word": "关晓彤周洁琼对手戏",
@@ -7289,14 +7329,6 @@
       "onboard_time": 1731897918,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190777,
-      "num": 190777,
-      "word": "女子取走男友部分骨灰被其母诉赔偿",
-      "onboard_time": 1732184600,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190731,
@@ -7385,6 +7417,14 @@
       "onboard_time": 1731838938,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190116,
+      "num": 190116,
+      "word": "黑龙江东北虎伤人事件后续",
+      "onboard_time": 1732185739,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 190063,
@@ -7865,6 +7905,14 @@
       "onboard_time": 1731815959,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182799,
+      "num": 280820,
+      "word": "时代少年团演唱会彩排",
+      "onboard_time": 1732186820,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 182559,
@@ -9315,6 +9363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153843,
+      "num": 278621,
+      "word": "庄筱婷林栋哲秀婚戒",
+      "onboard_time": 1732187539,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153833,
       "num": 153833,
       "word": "百雀羚称不存在违法添加禁用原料",
@@ -9473,14 +9529,6 @@
       "onboard_time": 1732184541,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 151349,
-      "num": 151349,
-      "word": "黑龙江东北虎伤人事件后续",
-      "onboard_time": 1732185739,
-      "rank": 48,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 151340,
@@ -11073,6 +11121,22 @@
       "onboard_time": 1731813619,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121510,
+      "num": 121510,
+      "word": "obgg显示jiejie加入iG",
+      "onboard_time": 1732186280,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121498,
+      "num": 121498,
+      "word": "家暴前夫写信求原谅称做人留一线",
+      "onboard_time": 1732187901,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 121208,
@@ -12787,6 +12851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75353,
+      "num": 310715,
+      "word": "林诗栋vsA勒布伦",
+      "onboard_time": 1732187361,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75320,
       "num": 202123,
       "word": "国乒男队一日四连败",
@@ -13619,6 +13691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54797,
+      "num": 268758,
+      "word": "关宏峰 社会哥",
+      "onboard_time": 1732187361,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54700,
       "num": 413293,
       "word": "A股逆转翻红",
@@ -13705,6 +13785,14 @@
       "onboard_time": 1731901099,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53492,
+      "num": 306568,
+      "word": "中国男篮vs关岛男篮",
+      "onboard_time": 1732186940,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 53320,
@@ -14153,6 +14241,14 @@
       "onboard_time": 1731798373,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47254,
+      "num": 265420,
+      "word": "韩涵压力德华",
+      "onboard_time": 1732187660,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 47142,
@@ -15635,6 +15731,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 29411,
+      "num": 292205,
+      "word": "住建局回应工程公示合同期限773年",
+      "onboard_time": 1732187060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29381,
       "num": 508520,
       "word": "削球为何难打",
@@ -15880,6 +15984,14 @@
       "word": "专家称野生东北虎咬人属应激反应",
       "onboard_time": 1732044971,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26829,
+      "num": 303551,
+      "word": "无创血糖手表无病测出糖尿病",
+      "onboard_time": 1732187120,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
