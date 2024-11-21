@@ -1,0 +1,410 @@
+{
+  "runTime": 1732160127233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2177327,
+        "num": 2177327,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1141080,
+        "num": 1141080,
+        "word": "4万人死亡也换不来美国的同情心吗",
+        "onboard_time": 1732147098,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22253,
+        "num": 707464,
+        "word": "蓝色经济为中巴经济增长注入新动能",
+        "onboard_time": 1732109781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 576401,
+        "num": 576401,
+        "word": "国乒连输五场",
+        "onboard_time": 1732153699,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574110,
+        "num": 574110,
+        "word": "山西明确婚假30天",
+        "onboard_time": 1732152799,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573238,
+        "num": 573238,
+        "word": "蒋欣 人间处处是超英",
+        "onboard_time": 1732154839,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547735,
+        "num": 547735,
+        "word": "巴勒斯坦代表气愤到捶桌子",
+        "onboard_time": 1732151359,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98637,
+        "num": 462423,
+        "word": "一个琵琶弹出世界",
+        "onboard_time": 1732158378,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 450616,
+        "num": 450616,
+        "word": "女子发现摄像头给酒店差评被起诉",
+        "onboard_time": 1732158199,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140323,
+        "num": 444656,
+        "word": "小巷人家是中国版请回答1988吗",
+        "onboard_time": 1732158378,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 874562,
+        "num": 442635,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 787425,
+        "num": 431746,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527687,
+        "num": 423796,
+        "word": "泰坦尼克号杰克露丝重聚",
+        "onboard_time": 1732157778,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483310,
+        "num": 419787,
+        "word": "马夫儿子否认父亲猥亵",
+        "onboard_time": 1732154360,
+        "rank": 13,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 412760,
+        "num": 412760,
+        "word": "医用级卫生巾搜索量飙升",
+        "onboard_time": 1732147939,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 393813,
+        "num": 398773,
+        "word": "MAMA",
+        "onboard_time": 1732158798,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338457,
+        "num": 398183,
+        "word": "徐志胜回家也得当德华",
+        "onboard_time": 1732155558,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397619,
+        "num": 397619,
+        "word": "24款卫生巾缩水实测",
+        "onboard_time": 1732154121,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 116285,
+        "num": 378495,
+        "word": "丁禹兮北京机场vip出发路透",
+        "onboard_time": 1732159879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9587,
+        "num": 374945,
+        "word": "考研倒计时30天",
+        "onboard_time": 1732159879,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 557254,
+        "num": 374918,
+        "word": "姐姐送房给弟弟住被1400万卖掉",
+        "onboard_time": 1732146918,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374855,
+        "num": 374855,
+        "word": "吴敬平教练",
+        "onboard_time": 1732154298,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368667,
+        "num": 368667,
+        "word": "女子疑遭丈夫家暴灌面汤呛死",
+        "onboard_time": 1732153579,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352906,
+        "num": 352906,
+        "word": "红米K80",
+        "onboard_time": 1732157961,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260138,
+        "num": 326020,
+        "word": "郑铮去世",
+        "onboard_time": 1732152438,
+        "rank": 24,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 317935,
+        "num": 317935,
+        "word": "詹姆斯宣布退网",
+        "onboard_time": 1732157118,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312655,
+        "num": 312655,
+        "word": "金莎孙丞潇车内亲密互动",
+        "onboard_time": 1732152319,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25644,
+        "num": 282017,
+        "word": "电影欢迎来龙餐馆概念海报",
+        "onboard_time": 1732156577,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84194,
+        "num": 267366,
+        "word": "男子称杀父凶手大摆宴席是挑衅",
+        "onboard_time": 1732158497,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60694,
+        "num": 266588,
+        "word": "马拉松薅能量胶2人已找到",
+        "onboard_time": 1732159159,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266228,
+        "num": 266228,
+        "word": "霸王茶姬免单券",
+        "onboard_time": 1732159998,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258032,
+        "num": 258032,
+        "word": "虞书欣拦酒",
+        "onboard_time": 1732159639,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124601,
+        "num": 246063,
+        "word": "马夫儿子回应父亲猥亵女驴友",
+        "onboard_time": 1732158139,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241259,
+        "num": 241259,
+        "word": "丁禹兮说想尝试比较疯的角色",
+        "onboard_time": 1732157421,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239361,
+        "num": 239361,
+        "word": "盛李豪说黄雨婷比赛不会看对手成绩",
+        "onboard_time": 1732156159,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212636,
+        "num": 212636,
+        "word": "易烊千玺打麻将",
+        "onboard_time": 1732113441,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207063,
+        "num": 207063,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732148059,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206865,
+        "num": 206865,
+        "word": "开了包的卫生巾1个月内用完",
+        "onboard_time": 1732145295,
+        "rank": 37,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 190213,
+        "num": 190213,
+        "word": "因果报应 印度版周处除三害",
+        "onboard_time": 1732158020,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177566,
+        "num": 177566,
+        "word": "原神超话",
+        "onboard_time": 1732159159,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172089,
+        "num": 172089,
+        "word": "安理会加沙停火决议遭美国否决",
+        "onboard_time": 1732117939,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168603,
+        "num": 168603,
+        "word": "薅免费能量胶的男女已找到将被罚",
+        "onboard_time": 1732159578,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58995,
+        "num": 167152,
+        "word": "刘宪华现身粉丝婚礼献唱",
+        "onboard_time": 1732159698,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166664,
+        "num": 166664,
+        "word": "河村勇辉15分16助攻",
+        "onboard_time": 1732157299,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162391,
+        "num": 162391,
+        "word": "REDMI换新logo了",
+        "onboard_time": 1732156517,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161269,
+        "num": 161269,
+        "word": "IVE 科切拉",
+        "onboard_time": 1732154537,
+        "rank": 45,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 155528,
+        "num": 155528,
+        "word": "五月天演唱会再次引发居民楼地震",
+        "onboard_time": 1732148600,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151714,
+        "num": 151714,
+        "word": "荣耀300",
+        "onboard_time": 1732159339,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144516,
+        "num": 144516,
+        "word": "78岁老太将减持2.5亿股股票",
+        "onboard_time": 1732151180,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 141956,
+        "num": 141956,
+        "word": "华为折叠屏最新专利曝光",
+        "onboard_time": 1732156940,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#携手构建中巴命运共同体#"
+    }
+  }
+}

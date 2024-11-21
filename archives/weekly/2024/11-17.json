@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732158554468,
+  "endTime": 1732160127233,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -112,6 +112,14 @@
       "word": "单亲妈妈做试管婴儿送外卖途中早产",
       "onboard_time": 1732069878,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2177327,
+      "num": 2177327,
+      "word": "于东来发文",
+      "onboard_time": 1732157599,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2363,6 +2371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 527687,
+      "num": 505585,
+      "word": "泰坦尼克号杰克露丝重聚",
+      "onboard_time": 1732157778,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 520677,
       "num": 520677,
       "word": "专家称伤人老虎或来自俄罗斯",
@@ -2465,14 +2481,6 @@
       "onboard_time": 1732011861,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507061,
-      "num": 507061,
-      "word": "于东来发文",
-      "onboard_time": 1732157599,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 505393,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1731992064,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450616,
+      "num": 513723,
+      "word": "女子发现摄像头给酒店差评被起诉",
+      "onboard_time": 1732158199,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 445687,
@@ -3121,6 +3137,14 @@
       "onboard_time": 1732066459,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393813,
+      "num": 398773,
+      "word": "MAMA",
+      "onboard_time": 1732158798,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 393266,
@@ -3483,6 +3507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 352906,
+      "num": 352906,
+      "word": "红米K80",
+      "onboard_time": 1732157961,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 351568,
       "num": 579581,
       "word": "小巷人家 孝庄",
@@ -3603,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338457,
+      "num": 510622,
+      "word": "徐志胜回家也得当德华",
+      "onboard_time": 1732155558,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337396,
       "num": 491286,
       "word": "海关截获超9000吨洋垃圾",
@@ -3657,14 +3697,6 @@
       "onboard_time": 1731941539,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327718,
-      "num": 510622,
-      "word": "徐志胜回家也得当德华",
-      "onboard_time": 1732155558,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 324423,
@@ -4419,6 +4451,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 266228,
+      "num": 266228,
+      "word": "霸王茶姬免单券",
+      "onboard_time": 1732159998,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 266206,
       "num": 266206,
       "word": "惠英红夸赵丽颖",
@@ -4568,6 +4608,14 @@
       "word": "珠帘玉幕导演追求真实摒弃古偶",
       "onboard_time": 1732007181,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258032,
+      "num": 258032,
+      "word": "虞书欣拦酒",
+      "onboard_time": 1732159639,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -5129,14 +5177,6 @@
       "onboard_time": 1732060398,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 227362,
-      "num": 505585,
-      "word": "泰坦尼克号杰克露丝重聚",
-      "onboard_time": 1732157778,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 227118,
@@ -6083,14 +6123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197766,
-      "num": 197766,
-      "word": "红米K80",
-      "onboard_time": 1732157961,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 197483,
       "num": 212989,
       "word": "珠海航展顶流文创已卖空",
@@ -6425,6 +6457,14 @@
       "onboard_time": 1731838459,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190213,
+      "num": 496056,
+      "word": "因果报应 印度版周处除三害",
+      "onboard_time": 1732158020,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 190199,
@@ -7115,6 +7155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177566,
+      "num": 177566,
+      "word": "原神超话",
+      "onboard_time": 1732159159,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "马斯克上位史",
@@ -7571,6 +7619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168603,
+      "num": 168603,
+      "word": "薅免费能量胶的男女已找到将被罚",
+      "onboard_time": 1732159578,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168381,
       "num": 240469,
       "word": "小渔船一网下去捞起美国核潜艇",
@@ -7817,6 +7873,14 @@
       "onboard_time": 1731996381,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162391,
+      "num": 162391,
+      "word": "REDMI换新logo了",
+      "onboard_time": 1732156517,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 162278,
@@ -8281,6 +8345,14 @@
       "onboard_time": 1732006219,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151714,
+      "num": 151714,
+      "word": "荣耀300",
+      "onboard_time": 1732159339,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 151690,
@@ -8939,6 +9011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140323,
+      "num": 513141,
+      "word": "小巷人家是中国版请回答1988吗",
+      "onboard_time": 1732158378,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140319,
       "num": 192098,
       "word": "林俊杰新书超越音符",
@@ -9137,14 +9217,6 @@
       "onboard_time": 1732058837,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136824,
-      "num": 136824,
-      "word": "REDMI换新logo了",
-      "onboard_time": 1732156517,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 136747,
@@ -9419,14 +9491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130321,
-      "num": 496056,
-      "word": "因果报应 印度版周处除三害",
-      "onboard_time": 1732158020,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130088,
       "num": 130088,
       "word": "金玟庭KGMAsolo舞台",
@@ -9680,6 +9744,14 @@
       "word": "外国小姐姐穿中国民族服饰追星",
       "onboard_time": 1731901459,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124601,
+      "num": 510539,
+      "word": "马夫儿子回应父亲猥亵女驴友",
+      "onboard_time": 1732158139,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -10001,6 +10073,14 @@
       "onboard_time": 1731889939,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116285,
+      "num": 378495,
+      "word": "丁禹兮北京机场vip出发路透",
+      "onboard_time": 1732159879,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 116247,
@@ -10563,6 +10643,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 98637,
+      "num": 514314,
+      "word": "一个琵琶弹出世界",
+      "onboard_time": 1732158378,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 98281,
       "num": 98281,
       "word": "民警霸气安慰是骗子可恨你没错",
@@ -10728,14 +10816,6 @@
       "word": "偷拍神器买卖不能屡禁不绝",
       "onboard_time": 1732074739,
       "rank": 34,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 94474,
-      "num": 513723,
-      "word": "女子发现摄像头给酒店差评被起诉",
-      "onboard_time": 1732158199,
-      "rank": 8,
       "category": "舆论监督"
     },
     {
@@ -11024,6 +11104,14 @@
       "word": "东北虎进村咬伤人事件背后",
       "onboard_time": 1732039452,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84194,
+      "num": 480806,
+      "word": "男子称杀父凶手大摆宴席是挑衅",
+      "onboard_time": 1732158497,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -11819,6 +11907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60694,
+      "num": 266588,
+      "word": "马拉松薅能量胶2人已找到",
+      "onboard_time": 1732159159,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60669,
       "num": 244040,
       "word": "周巡 这个家没我得散",
@@ -11905,6 +12001,14 @@
       "onboard_time": 1732001359,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 58995,
+      "num": 167152,
+      "word": "刘宪华现身粉丝婚礼献唱",
+      "onboard_time": 1732159698,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 58511,
@@ -13019,14 +13123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39934,
-      "num": 514314,
-      "word": "一个琵琶弹出世界",
-      "onboard_time": 1732158378,
-      "rank": 7,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 39870,
       "num": 347224,
       "word": "外交部回应45名反中乱港分子被判刑",
@@ -13569,14 +13665,6 @@
       "onboard_time": 1731820038,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 33134,
-      "num": 510539,
-      "word": "马夫儿子回应父亲猥亵女驴友",
-      "onboard_time": 1732158139,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33074,
@@ -14219,6 +14307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25644,
+      "num": 282017,
+      "word": "电影欢迎来龙餐馆概念海报",
+      "onboard_time": 1732156577,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25484,
       "num": 510053,
       "word": "2025考研加油壁纸",
@@ -14363,14 +14459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23873,
-      "num": 513141,
-      "word": "小巷人家是中国版请回答1988吗",
-      "onboard_time": 1732158378,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23820,
       "num": 30616,
       "word": "乘船而去",
@@ -14393,14 +14481,6 @@
       "onboard_time": 1731868331,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23470,
-      "num": 258062,
-      "word": "电影欢迎来龙餐馆概念海报",
-      "onboard_time": 1732156577,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 23197,
@@ -15219,14 +15299,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 13382,
-      "num": 480806,
-      "word": "男子称杀父凶手大摆宴席是挑衅",
-      "onboard_time": 1732158497,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13375,
       "num": 257262,
       "word": "天舟八号瞄准23时13分发射",
@@ -15561,6 +15633,14 @@
       "onboard_time": 1732124952,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9587,
+      "num": 374945,
+      "word": "考研倒计时30天",
+      "onboard_time": 1732159879,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 9449,

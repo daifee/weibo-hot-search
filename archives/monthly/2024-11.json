@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732158554468,
+  "endTime": 1732160127233,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -809,6 +809,14 @@
       "onboard_time": 1730432359,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2177327,
+      "num": 2177327,
+      "word": "于东来发文",
+      "onboard_time": 1732157599,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2176588,
@@ -11387,6 +11395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527687,
+      "num": 505585,
+      "word": "泰坦尼克号杰克露丝重聚",
+      "onboard_time": 1732157778,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 527009,
       "num": 263531,
       "word": "她一个月做了我一辈子的工作",
@@ -12001,14 +12017,6 @@
       "onboard_time": 1730883984,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 507061,
-      "num": 507061,
-      "word": "于东来发文",
-      "onboard_time": 1732157599,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 506363,
@@ -13449,6 +13457,14 @@
       "onboard_time": 1731330139,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450616,
+      "num": 513723,
+      "word": "女子发现摄像头给酒店差评被起诉",
+      "onboard_time": 1732158199,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 450353,
@@ -15347,6 +15363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393813,
+      "num": 398773,
+      "word": "MAMA",
+      "onboard_time": 1732158798,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 393266,
       "num": 393266,
       "word": "让我爆哭的综艺又回来了",
@@ -16867,6 +16891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 352906,
+      "num": 352906,
+      "word": "红米K80",
+      "onboard_time": 1732157961,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 352883,
       "num": 352883,
       "word": "南宁一公交车发生交通事故",
@@ -17459,6 +17491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338457,
+      "num": 510622,
+      "word": "徐志胜回家也得当德华",
+      "onboard_time": 1732155558,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338178,
       "num": 252432,
       "word": "李子柒新视频外网评论",
@@ -17945,14 +17985,6 @@
       "onboard_time": 1731768804,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 327718,
-      "num": 510622,
-      "word": "徐志胜回家也得当德华",
-      "onboard_time": 1732155558,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 327334,
@@ -21251,6 +21283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266228,
+      "num": 266228,
+      "word": "霸王茶姬免单券",
+      "onboard_time": 1732159998,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 266206,
       "num": 266206,
       "word": "惠英红夸赵丽颖",
@@ -21832,6 +21872,14 @@
       "word": "珠帘玉幕导演追求真实摒弃古偶",
       "onboard_time": 1732007181,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258032,
+      "num": 258032,
+      "word": "虞书欣拦酒",
+      "onboard_time": 1732159639,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -24305,14 +24353,6 @@
       "onboard_time": 1731569720,
       "rank": 47,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 227362,
-      "num": 505585,
-      "word": "泰坦尼克号杰克露丝重聚",
-      "onboard_time": 1732157778,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 227217,
@@ -28691,14 +28731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197766,
-      "num": 197766,
-      "word": "红米K80",
-      "onboard_time": 1732157961,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 197629,
       "num": 197629,
       "word": "郭晓婷 女师尊赛道",
@@ -30409,6 +30441,14 @@
       "onboard_time": 1731838459,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190213,
+      "num": 496056,
+      "word": "因果报应 印度版周处除三害",
+      "onboard_time": 1732158020,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 190210,
@@ -32939,6 +32979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177566,
+      "num": 177566,
+      "word": "原神超话",
+      "onboard_time": 1732159159,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177547,
       "num": 177547,
       "word": "SuperJunior出道十九周年",
@@ -34867,6 +34915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168603,
+      "num": 168603,
+      "word": "薅免费能量胶的男女已找到将被罚",
+      "onboard_time": 1732159578,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168593,
       "num": 168593,
       "word": "赵牧辰要发歌了",
@@ -36233,6 +36289,14 @@
       "onboard_time": 1731572360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162391,
+      "num": 162391,
+      "word": "REDMI换新logo了",
+      "onboard_time": 1732156517,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 162374,
@@ -38825,6 +38889,14 @@
       "onboard_time": 1732006219,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151714,
+      "num": 151714,
+      "word": "荣耀300",
+      "onboard_time": 1732159339,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 151690,
@@ -41451,6 +41523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140323,
+      "num": 513141,
+      "word": "小巷人家是中国版请回答1988吗",
+      "onboard_time": 1732158378,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140319,
       "num": 210785,
       "word": "林俊杰新书超越音符",
@@ -42217,14 +42297,6 @@
       "onboard_time": 1732058837,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136824,
-      "num": 136824,
-      "word": "REDMI换新logo了",
-      "onboard_time": 1732156517,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 136747,
@@ -43619,14 +43691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130321,
-      "num": 496056,
-      "word": "因果报应 印度版周处除三害",
-      "onboard_time": 1732158020,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130289,
       "num": 130289,
       "word": "永夜星河首日百指",
@@ -44817,6 +44881,14 @@
       "onboard_time": 1730608700,
       "rank": 44,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 124601,
+      "num": 510539,
+      "word": "马夫儿子回应父亲猥亵女驴友",
+      "onboard_time": 1732158139,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124600,
@@ -46561,6 +46633,14 @@
       "onboard_time": 1731289038,
       "rank": 48,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 116285,
+      "num": 378495,
+      "word": "丁禹兮北京机场vip出发路透",
+      "onboard_time": 1732159879,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 116258,
@@ -49435,6 +49515,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 98637,
+      "num": 514314,
+      "word": "一个琵琶弹出世界",
+      "onboard_time": 1732158378,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 98594,
       "num": 129498,
       "word": "马龙分享奥运经历",
@@ -50096,14 +50184,6 @@
       "word": "偷拍神器买卖不能屡禁不绝",
       "onboard_time": 1732074739,
       "rank": 34,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 94474,
-      "num": 513723,
-      "word": "女子发现摄像头给酒店差评被起诉",
-      "onboard_time": 1732158199,
-      "rank": 8,
       "category": "舆论监督"
     },
     {
@@ -51241,6 +51321,14 @@
       "onboard_time": 1730676676,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84194,
+      "num": 480806,
+      "word": "男子称杀父凶手大摆宴席是挑衅",
+      "onboard_time": 1732158497,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84118,
@@ -54547,6 +54635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60694,
+      "num": 266588,
+      "word": "马拉松薅能量胶2人已找到",
+      "onboard_time": 1732159159,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60693,
       "num": 108182,
       "word": "中国航展超燃画面连连看",
@@ -54865,6 +54961,14 @@
       "onboard_time": 1731116239,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58995,
+      "num": 167152,
+      "word": "刘宪华现身粉丝婚礼献唱",
+      "onboard_time": 1732159698,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 58954,
@@ -58851,14 +58955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39934,
-      "num": 514314,
-      "word": "一个琵琶弹出世界",
-      "onboard_time": 1732158378,
-      "rank": 7,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 39895,
       "num": 50805,
       "word": "姆巴佩状态",
@@ -61009,14 +61105,6 @@
       "onboard_time": 1730727321,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33134,
-      "num": 510539,
-      "word": "马夫儿子回应父亲猥亵女驴友",
-      "onboard_time": 1732158139,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33102,
@@ -63531,6 +63619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25644,
+      "num": 282017,
+      "word": "电影欢迎来龙餐馆概念海报",
+      "onboard_time": 1732156577,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25613,
       "num": 33487,
       "word": "李子柒拜非遗蓝印花布传人王振兴为师",
@@ -64139,14 +64235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23873,
-      "num": 513141,
-      "word": "小巷人家是中国版请回答1988吗",
-      "onboard_time": 1732158378,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23857,
       "num": 288043,
       "word": "离岸人民币兑美元升穿7.17",
@@ -64297,14 +64385,6 @@
       "onboard_time": 1730802801,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23470,
-      "num": 258062,
-      "word": "电影欢迎来龙餐馆概念海报",
-      "onboard_time": 1732156577,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 23445,
@@ -67715,14 +67795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13382,
-      "num": 480806,
-      "word": "男子称杀父凶手大摆宴席是挑衅",
-      "onboard_time": 1732158497,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13348,
       "num": 658418,
       "word": "马克龙说喜爱中国和中国人民",
@@ -68697,6 +68769,14 @@
       "onboard_time": 1730864303,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 9587,
+      "num": 374945,
+      "word": "考研倒计时30天",
+      "onboard_time": 1732159879,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 9554,
