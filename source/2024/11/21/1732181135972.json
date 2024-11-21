@@ -1,0 +1,410 @@
+{
+  "runTime": 1732181135972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2084830,
+        "num": 2084830,
+        "word": "王宝强被举报涉嫌欺诈",
+        "onboard_time": 1732181121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1133719,
+        "num": 1133719,
+        "word": "卫生巾新国标正在起草",
+        "onboard_time": 1732179320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51138,
+        "num": 1100879,
+        "word": "乌镇峰会AI元素满满",
+        "onboard_time": 1732179500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1071543,
+        "num": 1071543,
+        "word": "考研人数10年来第二次下降",
+        "onboard_time": 1732175360,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 682638,
+        "num": 682638,
+        "word": "虞书欣翻牌",
+        "onboard_time": 1732176739,
+        "rank": 4,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 71767,
+        "num": 656520,
+        "word": "一人一句为388万考研人加油",
+        "onboard_time": 1732174998,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 950337,
+        "num": 655050,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648213,
+        "num": 648213,
+        "word": "李行亮公主抱麦琳摔了",
+        "onboard_time": 1732165525,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427849,
+        "num": 427849,
+        "word": "人社局回应胖东来员工新规",
+        "onboard_time": 1732171399,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 426620,
+        "num": 426620,
+        "word": "潘粤明转了7年前的微博",
+        "onboard_time": 1732176020,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2677500,
+        "num": 423366,
+        "word": "丁禹兮买了1218套虞书欣杂志",
+        "onboard_time": 1732179679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24134,
+        "num": 419984,
+        "word": "中国男篮亚预赛实力榜第八",
+        "onboard_time": 1732180040,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46476,
+        "num": 417820,
+        "word": "卫生巾不需要太多花哨的功能",
+        "onboard_time": 1732180159,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28305,
+        "num": 411707,
+        "word": "踩不完的彩妆雷",
+        "onboard_time": 1732180339,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 30941,
+        "num": 407908,
+        "word": "T1与教练Tom达成续约",
+        "onboard_time": 1732180940,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79572,
+        "num": 404271,
+        "word": "被红米体刷屏了",
+        "onboard_time": 1732176319,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14047,
+        "num": 403452,
+        "word": "各国卫生巾健康隐患",
+        "onboard_time": 1732180940,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40241,
+        "num": 399325,
+        "word": "国足对阵日本vlog",
+        "onboard_time": 1732180519,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396404,
+        "num": 396404,
+        "word": "何与 双轨",
+        "onboard_time": 1732174760,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24480,
+        "num": 383679,
+        "word": "不同级别的卫生巾有什么区别",
+        "onboard_time": 1732180100,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1111659,
+        "num": 362779,
+        "word": "女孩被同学拉去喝酒遭强奸致死",
+        "onboard_time": 1732168159,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607481,
+        "num": 334064,
+        "word": "奶奶为除虱子用敌敌畏给孩子洗头",
+        "onboard_time": 1732175300,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548889,
+        "num": 319657,
+        "word": "乌军称俄罗斯发射洲际弹道导弹",
+        "onboard_time": 1732179320,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309962,
+        "num": 309962,
+        "word": "难哄",
+        "onboard_time": 1732164320,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87681,
+        "num": 307802,
+        "word": "王源鸳鸯鞋",
+        "onboard_time": 1732180640,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251023,
+        "num": 306822,
+        "word": "李行亮开车哭",
+        "onboard_time": 1732167619,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273669,
+        "num": 301922,
+        "word": "请于东来去除爹味",
+        "onboard_time": 1732176619,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171212,
+        "num": 298996,
+        "word": "迪丽热巴玩雨路透",
+        "onboard_time": 1732180700,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128645,
+        "num": 296431,
+        "word": "关宏峰关宏宇吵翻脸了",
+        "onboard_time": 1732180279,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445498,
+        "num": 294514,
+        "word": "刘涛 淡颜骨相美",
+        "onboard_time": 1732179439,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34206,
+        "num": 291448,
+        "word": "徐涛谈考研倒计时30天如何备考",
+        "onboard_time": 1732179978,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 417559,
+        "num": 289543,
+        "word": "李行亮离婚会把四分之三财产给麦琳",
+        "onboard_time": 1732180640,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410278,
+        "num": 285968,
+        "word": "企业请离员工私生活远一点",
+        "onboard_time": 1732160239,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284613,
+        "num": 284613,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262447,
+        "num": 262447,
+        "word": "张本智和气得跺脚",
+        "onboard_time": 1732178839,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254608,
+        "num": 254608,
+        "word": "孙颖莎场下摇头",
+        "onboard_time": 1732170081,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231259,
+        "num": 231259,
+        "word": "36岁男子熬夜5点睡着7点发生心梗",
+        "onboard_time": 1732165762,
+        "rank": 36,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 202352,
+        "num": 202352,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732148059,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182663,
+        "num": 182663,
+        "word": "23岁女生花18万隆胸术后胸硬如石",
+        "onboard_time": 1732169239,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 168789,
+        "num": 168789,
+        "word": "中国人首次登月动画演示",
+        "onboard_time": 1732168219,
+        "rank": 39,
+        "category": "正能量,正能量"
+      },
+      {
+        "raw_hot": 165861,
+        "num": 165861,
+        "word": "海南舰顺利抵达香港",
+        "onboard_time": 1732179380,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154425,
+        "num": 154425,
+        "word": "iG",
+        "onboard_time": 1732174160,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153663,
+        "num": 153663,
+        "word": "我国载人登月最新进展",
+        "onboard_time": 1732179320,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153418,
+        "num": 153418,
+        "word": "裁员为啥都是裁干活的人",
+        "onboard_time": 1732171761,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 346435,
+        "num": 153333,
+        "word": "小米高管回应网友催产卫生巾",
+        "onboard_time": 1732173319,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 499099,
+        "num": 152482,
+        "word": "小米称短期应该不做卫生巾",
+        "onboard_time": 1732174639,
+        "rank": 45,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 150823,
+        "num": 150823,
+        "word": "卫生巾",
+        "onboard_time": 1732161260,
+        "rank": 46,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 144917,
+        "num": 150027,
+        "word": "男子在小米总部喊话雷军后道歉",
+        "onboard_time": 1732177519,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149442,
+        "num": 149442,
+        "word": "湖南平江发现超40条金矿脉",
+        "onboard_time": 1732180820,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 148061,
+        "word": "丁禹兮见证了子期的爱",
+        "onboard_time": 1732179320,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#相约2024世界互联网大会#"
+    }
+  }
+}
