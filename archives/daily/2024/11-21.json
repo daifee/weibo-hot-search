@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732188051759,
+  "endTime": 1732188979519,
   "band_list": [
     {
       "raw_hot": 4213662,
@@ -81,6 +81,14 @@
       "onboard_time": 1732163720,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1326184,
+      "num": 340807,
+      "word": "麦琳 窒息",
+      "onboard_time": 1732186340,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1318614,
@@ -211,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 918538,
-      "num": 340807,
-      "word": "麦琳 窒息",
-      "onboard_time": 1732186340,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 915516,
       "num": 425091,
       "word": "郭碧婷 怀孕生子是一件很美好的事",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 707298,
-      "num": 307263,
+      "num": 319877,
       "word": "虞书欣给丁禹兮认错",
       "onboard_time": 1732187480,
       "rank": 12,
@@ -361,6 +361,14 @@
       "onboard_time": 1732183941,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 695497,
+      "num": 695497,
+      "word": "女子取走男友部分骨灰被其母诉赔偿",
+      "onboard_time": 1732184600,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 683752,
@@ -619,8 +627,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479007,
+      "num": 479007,
+      "word": "李行亮 麦琳",
+      "onboard_time": 1732188739,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473578,
-      "num": 283302,
+      "num": 313972,
       "word": "英伟达一天赚8套北京四合院",
       "onboard_time": 1732185440,
       "rank": 34,
@@ -803,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333949,
+      "num": 333949,
+      "word": "马嘉祺 蜚蜚",
+      "onboard_time": 1732184961,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 330868,
       "num": 384162,
       "word": "禹宙中欣",
@@ -817,14 +841,6 @@
       "onboard_time": 1732166002,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321200,
-      "num": 321200,
-      "word": "马嘉祺 蜚蜚",
-      "onboard_time": 1732184961,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 320230,
@@ -867,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312971,
-      "num": 312971,
-      "word": "女子取走男友部分骨灰被其母诉赔偿",
-      "onboard_time": 1732184600,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312524,
       "num": 147312,
       "word": "马斯克同款减肥药中国上市引热议",
@@ -897,6 +905,14 @@
       "onboard_time": 1732148059,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 301578,
+      "num": 301578,
+      "word": "鞠婧祎身上有两只蝴蝶",
+      "onboard_time": 1732187179,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 301562,
@@ -1107,6 +1123,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 246503,
+      "num": 313117,
+      "word": "留几手说丁克的原因",
+      "onboard_time": 1732185982,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243390,
       "num": 339863,
       "word": "赵露思发型学的我的教程",
@@ -1203,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217138,
-      "num": 295754,
-      "word": "鞠婧祎身上有两只蝴蝶",
-      "onboard_time": 1732187179,
-      "rank": 18,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 214363,
       "num": 214363,
       "word": "女孩狂学非遗不回避流量变现",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1732099220,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204275,
-      "num": 297388,
-      "word": "留几手说丁克的原因",
-      "onboard_time": 1732185982,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 204042,
@@ -1432,6 +1440,14 @@
       "word": "孙颖莎总决赛单双打均首轮出局",
       "onboard_time": 1732170319,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195380,
+      "num": 324412,
+      "word": "王楚钦vs弗朗西斯卡",
+      "onboard_time": 1732188380,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -1891,6 +1907,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 140503,
+      "num": 140503,
+      "word": "家暴前夫写信求原谅称做人留一线",
+      "onboard_time": 1732187901,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 140151,
       "num": 148061,
       "word": "丁禹兮见证了子期的爱",
@@ -1987,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125510,
+      "num": 125510,
+      "word": "原作者回复何同学",
+      "onboard_time": 1732188141,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125244,
       "num": 125244,
       "word": "遭遇严重事故后会PTSD多久",
@@ -2011,20 +2043,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124560,
+      "num": 124560,
+      "word": "医生建议别疯抢医用卫生巾",
+      "onboard_time": 1732188919,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121510,
       "num": 121510,
       "word": "obgg显示jiejie加入iG",
       "onboard_time": 1732186280,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121498,
-      "num": 121498,
-      "word": "家暴前夫写信求原谅称做人留一线",
-      "onboard_time": 1732187901,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 121116,
@@ -2131,6 +2163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105009,
+      "num": 105009,
+      "word": "大藤沙月3比1伊藤美诚",
+      "onboard_time": 1732188919,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104688,
       "num": 104688,
       "word": "再见导师真被网友拍出来了",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1732147219,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102768,
+      "num": 310927,
+      "word": "侯佩岑 台阶不需等待别人给",
+      "onboard_time": 1732188619,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 98919,
@@ -2227,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94027,
+      "num": 327143,
+      "word": "林诗栋vsA勒布伦",
+      "onboard_time": 1732187361,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93724,
       "num": 656523,
       "word": "怎么选择卫生巾才卫生",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1732181781,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92437,
+      "num": 330263,
+      "word": "获校资助困难学生晒国内外旅游照",
+      "onboard_time": 1732188200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91983,
@@ -2443,19 +2507,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75353,
-      "num": 310715,
-      "word": "林诗栋vsA勒布伦",
-      "onboard_time": 1732187361,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75320,
       "num": 202123,
       "word": "国乒男队一日四连败",
       "onboard_time": 1732119858,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74711,
+      "num": 306568,
+      "word": "中国男篮vs关岛男篮",
+      "onboard_time": 1732186940,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -2603,6 +2667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59025,
+      "num": 256063,
+      "word": "杨子疑似失去所有的力气和手段",
+      "onboard_time": 1732188680,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58212,
       "num": 533814,
       "word": "2024年世界职业技术教育发展大会在津举办",
@@ -2649,14 +2721,6 @@
       "onboard_time": 1732177099,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 53492,
-      "num": 306568,
-      "word": "中国男篮vs关岛男篮",
-      "onboard_time": 1732186940,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 52308,
@@ -2803,6 +2867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 42803,
+      "num": 292205,
+      "word": "住建局回应工程公示合同期限773年",
+      "onboard_time": 1732187060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42056,
       "num": 347061,
       "word": "勒布伦兄弟男双进4强",
@@ -2833,6 +2905,14 @@
       "onboard_time": 1732119077,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40447,
+      "num": 309556,
+      "word": "无创血糖手表无病测出糖尿病",
+      "onboard_time": 1732187120,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40241,
@@ -3075,14 +3155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29411,
-      "num": 292205,
-      "word": "住建局回应工程公示合同期限773年",
-      "onboard_time": 1732187060,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29381,
       "num": 508520,
       "word": "削球为何难打",
@@ -3096,14 +3168,6 @@
       "word": "机器狗无人机成新挑山工",
       "onboard_time": 1732165401,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26829,
-      "num": 303551,
-      "word": "无创血糖手表无病测出糖尿病",
-      "onboard_time": 1732187120,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
