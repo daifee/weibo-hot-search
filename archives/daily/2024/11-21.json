@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732157979045,
+  "endTime": 1732158554468,
   "band_list": [
     {
       "raw_hot": 2161475,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1111331,
-      "num": 473498,
+      "num": 508361,
       "word": "遭多人强奸智残女子家中装7个监控",
       "onboard_time": 1732105222,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 794939,
+      "num": 794939,
+      "word": "山西明确婚假30天",
+      "onboard_time": 1732152799,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 784763,
       "num": 784763,
       "word": "郑铮去世",
@@ -68,23 +76,15 @@
     },
     {
       "raw_hot": 761458,
-      "num": 471892,
+      "num": 507503,
       "word": "马夫儿子否认父亲猥亵",
       "onboard_time": 1732154360,
       "rank": 43,
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 760254,
-      "num": 760254,
-      "word": "山西明确婚假30天",
-      "onboard_time": 1732152799,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 724250,
-      "num": 724250,
+      "raw_hot": 729211,
+      "num": 729211,
       "word": "蒋欣 人间处处是超英",
       "onboard_time": 1732154839,
       "rank": 49,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 721862,
-      "num": 440272,
+      "num": 507364,
       "word": "姐姐送房给弟弟住被1400万卖掉",
       "onboard_time": 1732146918,
       "rank": 20,
@@ -113,6 +113,14 @@
       "onboard_time": 1732113441,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593017,
+      "num": 593017,
+      "word": "国乒连输五场",
+      "onboard_time": 1732153699,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 573011,
@@ -171,6 +179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507061,
+      "num": 507061,
+      "word": "于东来发文",
+      "onboard_time": 1732157599,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505393,
+      "num": 505393,
+      "word": "24款卫生巾缩水实测",
+      "onboard_time": 1732154121,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499978,
       "num": 148991,
       "word": "女子驾车碾压倒地者致其死亡",
@@ -179,20 +203,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 489458,
-      "num": 489458,
-      "word": "国乒连输五场",
-      "onboard_time": 1732153699,
-      "rank": 41,
+      "raw_hot": 455826,
+      "num": 455826,
+      "word": "詹姆斯宣布退网",
+      "onboard_time": 1732157118,
+      "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 432210,
-      "num": 432210,
-      "word": "24款卫生巾缩水实测",
-      "onboard_time": 1732154121,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 420241,
@@ -219,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408589,
-      "num": 408589,
-      "word": "詹姆斯宣布退网",
-      "onboard_time": 1732157118,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 400959,
+      "num": 400959,
+      "word": "女子疑遭丈夫家暴灌面汤呛死",
+      "onboard_time": 1732153579,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393506,
@@ -233,14 +249,6 @@
       "onboard_time": 1732094241,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 393367,
-      "num": 393367,
-      "word": "女子疑遭丈夫家暴灌面汤呛死",
-      "onboard_time": 1732153579,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373311,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 327718,
-      "num": 468810,
+      "num": 510622,
       "word": "徐志胜回家也得当德华",
       "onboard_time": 1732155558,
       "rank": 13,
@@ -363,20 +371,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249376,
+      "num": 509066,
+      "word": "丁禹兮说想尝试比较疯的角色",
+      "onboard_time": 1732157421,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248365,
       "num": 438156,
       "word": "开了包的卫生巾1个月内用完",
       "onboard_time": 1732145295,
       "rank": 30,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 244523,
-      "num": 244523,
-      "word": "于东来发文",
-      "onboard_time": 1732157599,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241590,
@@ -387,20 +395,20 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 228843,
-      "num": 454078,
-      "word": "丁禹兮说想尝试比较疯的角色",
-      "onboard_time": 1732157421,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227519,
       "num": 227519,
       "word": "孙颖莎王艺迪无缘女双四强",
       "onboard_time": 1732111463,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227362,
+      "num": 505585,
+      "word": "泰坦尼克号杰克露丝重聚",
+      "onboard_time": 1732157778,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 223653,
@@ -443,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202542,
+      "num": 483973,
+      "word": "一个动作改善圆肩驼背",
+      "onboard_time": 1732153819,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201252,
       "num": 291708,
       "word": "夏弃疾说丁禹兮本人真的很帅",
       "onboard_time": 1732144936,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197766,
+      "num": 197766,
+      "word": "红米K80",
+      "onboard_time": 1732157961,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 197305,
@@ -467,6 +491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 189276,
+      "num": 189276,
+      "word": "河村勇辉15分16助攻",
+      "onboard_time": 1732157299,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188568,
       "num": 393740,
       "word": "电影好运来定档",
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 188215,
-      "num": 235603,
+      "num": 265866,
       "word": "交警狂飙护送超早产重症男婴转院",
       "onboard_time": 1732154600,
       "rank": 25,
@@ -508,19 +540,11 @@
     },
     {
       "raw_hot": 174724,
-      "num": 434985,
+      "num": 459780,
       "word": "NewJeans大部分工作人员将辞职",
       "onboard_time": 1732156517,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171215,
-      "num": 483973,
-      "word": "一个动作改善圆肩驼背",
-      "onboard_time": 1732153819,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 170086,
@@ -529,14 +553,6 @@
       "onboard_time": 1732117879,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 168522,
-      "num": 168522,
-      "word": "河村勇辉15分16助攻",
-      "onboard_time": 1732157299,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 164916,
@@ -553,14 +569,6 @@
       "onboard_time": 1732104740,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141760,
-      "num": 141760,
-      "word": "泰坦尼克号杰克露丝重聚",
-      "onboard_time": 1732157778,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 138358,
@@ -603,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130321,
+      "num": 496056,
+      "word": "因果报应 印度版周处除三害",
+      "onboard_time": 1732158020,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128289,
       "num": 128289,
       "word": "福冈总决赛中国男乒遭遇噩梦开局",
@@ -617,14 +633,6 @@
       "onboard_time": 1732152738,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126712,
-      "num": 126712,
-      "word": "红米K80",
-      "onboard_time": 1732157961,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 125846,
@@ -769,6 +777,14 @@
       "onboard_time": 1732153040,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94474,
+      "num": 513723,
+      "word": "女子发现摄像头给酒店差评被起诉",
+      "onboard_time": 1732158199,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 93640,
@@ -963,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52399,
+      "num": 260862,
+      "word": "博主称徒步甘孜遭马夫猥亵",
+      "onboard_time": 1732158320,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50691,
       "num": 184490,
       "word": "王一博上榜好莱坞最受欢迎演员",
@@ -1051,6 +1075,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39934,
+      "num": 514314,
+      "word": "一个琵琶弹出世界",
+      "onboard_time": 1732158378,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 39812,
+      "num": 473478,
+      "word": "官方辟谣伤人老虎已被制服",
+      "onboard_time": 1732156940,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 39742,
+      "num": 512180,
+      "word": "张本智和推荐博多拉面",
+      "onboard_time": 1732158078,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39171,
       "num": 1187410,
       "word": "文化何以遇鉴文化",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1732125312,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37461,
+      "num": 509560,
+      "word": "黄金经历过山车后还能买吗",
+      "onboard_time": 1732157299,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 37220,
@@ -1083,12 +1139,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 32994,
-      "num": 265956,
-      "word": "官方辟谣伤人老虎已被制服",
-      "onboard_time": 1732156940,
-      "rank": 29,
-      "category": "辟谣/通报"
+      "raw_hot": 33134,
+      "num": 510539,
+      "word": "马夫儿子回应父亲猥亵女驴友",
+      "onboard_time": 1732158139,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31636,
@@ -1115,6 +1171,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 29381,
+      "num": 508520,
+      "word": "削球为何难打",
+      "onboard_time": 1732157421,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25484,
+      "num": 510053,
+      "word": "2025考研加油壁纸",
+      "onboard_time": 1732157421,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 24462,
       "num": 24462,
       "word": "李商隐诗中的锦瑟其实一般25根弦",
@@ -1131,20 +1203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23873,
+      "num": 513141,
+      "word": "小巷人家是中国版请回答1988吗",
+      "onboard_time": 1732158378,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23470,
+      "num": 258062,
+      "word": "电影欢迎来龙餐馆概念海报",
+      "onboard_time": 1732156577,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22574,
       "num": 22574,
       "word": "失笑开怀大笑卡",
       "onboard_time": 1732127112,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22388,
-      "num": 463937,
-      "word": "削球为何难打",
-      "onboard_time": 1732157421,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 22350,
@@ -1179,14 +1259,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 21040,
-      "num": 451817,
-      "word": "2025考研加油壁纸",
-      "onboard_time": 1732157421,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 20987,
       "num": 512131,
       "word": "互联网之光点亮乌镇",
@@ -1200,14 +1272,6 @@
       "word": "ABC所属公司回应下架",
       "onboard_time": 1732134791,
       "rank": 14,
-      "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 20822,
-      "num": 446551,
-      "word": "黄金经历过山车后还能买吗",
-      "onboard_time": 1732157299,
-      "rank": 18,
       "category": "民生新闻,财经"
     },
     {
@@ -1315,6 +1379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 13382,
+      "num": 480806,
+      "word": "男子称杀父凶手大摆宴席是挑衅",
+      "onboard_time": 1732158497,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12012,
       "num": 21276,
       "word": "长征十号整流罩分离试验成功",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1732139051,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 7532,
+      "num": 511916,
+      "word": "刑法案例分析重点真题汇总",
+      "onboard_time": 1732158020,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 7306,

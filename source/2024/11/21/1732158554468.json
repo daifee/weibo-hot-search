@@ -1,0 +1,410 @@
+{
+  "runTime": 1732158554468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1284112,
+        "num": 1284112,
+        "word": "4万人死亡也换不来美国的同情心吗",
+        "onboard_time": 1732147098,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 794939,
+        "num": 794939,
+        "word": "山西明确婚假30天",
+        "onboard_time": 1732152799,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23034,
+        "num": 765366,
+        "word": "蓝色经济为中巴经济增长注入新动能",
+        "onboard_time": 1732109781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764073,
+        "num": 764073,
+        "word": "巴勒斯坦代表气愤到捶桌子",
+        "onboard_time": 1732151359,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 729211,
+        "num": 729211,
+        "word": "蒋欣 人间处处是超英",
+        "onboard_time": 1732154839,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593017,
+        "num": 593017,
+        "word": "国乒连输五场",
+        "onboard_time": 1732153699,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514583,
+        "num": 514583,
+        "word": "医用级卫生巾搜索量飙升",
+        "onboard_time": 1732147939,
+        "rank": 6,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 39934,
+        "num": 514314,
+        "word": "一个琵琶弹出世界",
+        "onboard_time": 1732158378,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 94474,
+        "num": 513723,
+        "word": "女子发现摄像头给酒店差评被起诉",
+        "onboard_time": 1732158199,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23873,
+        "num": 513141,
+        "word": "小巷人家是中国版请回答1988吗",
+        "onboard_time": 1732158378,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1006336,
+        "num": 512527,
+        "word": "胖东来宣布员工结婚不允许要或付彩礼",
+        "onboard_time": 1732106721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512361,
+        "num": 512361,
+        "word": "吴敬平教练",
+        "onboard_time": 1732154298,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39742,
+        "num": 512180,
+        "word": "张本智和推荐博多拉面",
+        "onboard_time": 1732158078,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7532,
+        "num": 511916,
+        "word": "刑法案例分析重点真题汇总",
+        "onboard_time": 1732158020,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 332060,
+        "num": 511414,
+        "word": "郑铮去世",
+        "onboard_time": 1732152438,
+        "rank": 14,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 305860,
+        "num": 510622,
+        "word": "徐志胜回家也得当德华",
+        "onboard_time": 1732155558,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33134,
+        "num": 510539,
+        "word": "马夫儿子回应父亲猥亵女驴友",
+        "onboard_time": 1732158139,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25484,
+        "num": 510053,
+        "word": "2025考研加油壁纸",
+        "onboard_time": 1732157421,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37461,
+        "num": 509560,
+        "word": "黄金经历过山车后还能买吗",
+        "onboard_time": 1732157299,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 249376,
+        "num": 509066,
+        "word": "丁禹兮说想尝试比较疯的角色",
+        "onboard_time": 1732157421,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29381,
+        "num": 508520,
+        "word": "削球为何难打",
+        "onboard_time": 1732157421,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820930,
+        "num": 508361,
+        "word": "遭多人强奸智残女子家中装7个监控",
+        "onboard_time": 1732105222,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 717156,
+        "num": 507503,
+        "word": "马夫儿子否认父亲猥亵",
+        "onboard_time": 1732154360,
+        "rank": 22,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 538019,
+        "num": 507364,
+        "word": "姐姐送房给弟弟住被1400万卖掉",
+        "onboard_time": 1732146918,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507061,
+        "num": 507061,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227362,
+        "num": 505585,
+        "word": "泰坦尼克号杰克露丝重聚",
+        "onboard_time": 1732157778,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 505393,
+        "num": 505393,
+        "word": "24款卫生巾缩水实测",
+        "onboard_time": 1732154121,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130321,
+        "num": 496056,
+        "word": "因果报应 印度版周处除三害",
+        "onboard_time": 1732158020,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13382,
+        "num": 480806,
+        "word": "男子称杀父凶手大摆宴席是挑衅",
+        "onboard_time": 1732158497,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39812,
+        "num": 473478,
+        "word": "官方辟谣伤人老虎已被制服",
+        "onboard_time": 1732156940,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 161894,
+        "num": 459780,
+        "word": "NewJeans大部分工作人员将辞职",
+        "onboard_time": 1732156517,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455826,
+        "num": 455826,
+        "word": "詹姆斯宣布退网",
+        "onboard_time": 1732157118,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400959,
+        "num": 400959,
+        "word": "女子疑遭丈夫家暴灌面汤呛死",
+        "onboard_time": 1732153579,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372425,
+        "num": 372425,
+        "word": "金莎孙丞潇车内亲密互动",
+        "onboard_time": 1732152319,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272425,
+        "num": 272425,
+        "word": "乌军首次使用美导弹系统袭击俄罗斯",
+        "onboard_time": 1732148059,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207551,
+        "num": 269270,
+        "word": "五月天演唱会再次引发居民楼地震",
+        "onboard_time": 1732148600,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125745,
+        "num": 265866,
+        "word": "交警狂飙护送超早产重症男婴转院",
+        "onboard_time": 1732154600,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 52399,
+        "num": 260862,
+        "word": "博主称徒步甘孜遭马夫猥亵",
+        "onboard_time": 1732158320,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23470,
+        "num": 258062,
+        "word": "电影欢迎来龙餐馆概念海报",
+        "onboard_time": 1732156577,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255348,
+        "num": 255348,
+        "word": "盛李豪说黄雨婷比赛不会看对手成绩",
+        "onboard_time": 1732156159,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239592,
+        "num": 239592,
+        "word": "易烊千玺打麻将",
+        "onboard_time": 1732113441,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236415,
+        "num": 236415,
+        "word": "开了包的卫生巾1个月内用完",
+        "onboard_time": 1732145295,
+        "rank": 41,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 202542,
+        "num": 202542,
+        "word": "一个动作改善圆肩驼背",
+        "onboard_time": 1732153819,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 197766,
+        "num": 197766,
+        "word": "红米K80",
+        "onboard_time": 1732157961,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189276,
+        "num": 189276,
+        "word": "河村勇辉15分16助攻",
+        "onboard_time": 1732157299,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179960,
+        "num": 179960,
+        "word": "中方回应美国一票否决加沙停火决议",
+        "onboard_time": 1732148239,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175423,
+        "num": 175423,
+        "word": "IVE 科切拉",
+        "onboard_time": 1732154537,
+        "rank": 46,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 170846,
+        "num": 170846,
+        "word": "电影好运来定档",
+        "onboard_time": 1732156940,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163877,
+        "num": 163877,
+        "word": "78岁老太将减持2.5亿股股票",
+        "onboard_time": 1732151180,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 14315,
+        "num": 162366,
+        "word": "小高 签名会影响工作",
+        "onboard_time": 1732157178,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国愿同巴西做相互成就的黄金搭档#"
+    }
+  }
+}
