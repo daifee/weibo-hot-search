@@ -1,0 +1,410 @@
+{
+  "runTime": 1732170761788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345106,
+        "num": 1345106,
+        "word": "李行亮公主抱麦琳摔了",
+        "onboard_time": 1732165525,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1234328,
+        "num": 1234328,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17698,
+        "num": 1184361,
+        "word": "世界互联网迎来乌镇时间",
+        "onboard_time": 1732162760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1183185,
+        "num": 1183185,
+        "word": "孙颖莎无缘女单8强",
+        "onboard_time": 1732166002,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 976078,
+        "num": 976078,
+        "word": "2025考研388万人报名",
+        "onboard_time": 1732168820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 881930,
+        "num": 881930,
+        "word": "企业请离员工私生活远一点",
+        "onboard_time": 1732160239,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664738,
+        "num": 664738,
+        "word": "李行亮开车哭",
+        "onboard_time": 1732167619,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277189,
+        "num": 664333,
+        "word": "胖东来回应员工结婚不许要彩礼",
+        "onboard_time": 1732169660,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505565,
+        "num": 663140,
+        "word": "23岁女生花18万隆胸术后胸硬如石",
+        "onboard_time": 1732169239,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36328,
+        "num": 660990,
+        "word": "律师分析多只宠物狗疑遭毒死",
+        "onboard_time": 1732169061,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31935,
+        "num": 659950,
+        "word": "文化中国行看中国茶在巴西",
+        "onboard_time": 1732163600,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 583597,
+        "num": 658069,
+        "word": "难哄",
+        "onboard_time": 1732164320,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26687,
+        "num": 657228,
+        "word": "郑钦文连续3年入围WTA年度奖项",
+        "onboard_time": 1732170260,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93724,
+        "num": 656523,
+        "word": "怎么选择卫生巾才卫生",
+        "onboard_time": 1732169299,
+        "rank": 13,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 72907,
+        "num": 654406,
+        "word": "节假日不等于休息日",
+        "onboard_time": 1732169061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3453068,
+        "num": 652720,
+        "word": "高三女生被灌醉后遭强奸致死",
+        "onboard_time": 1732168159,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264895,
+        "num": 651230,
+        "word": "虞书欣杂志",
+        "onboard_time": 1732170319,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206353,
+        "num": 650545,
+        "word": "再见爱人真是史诗级别的抽象",
+        "onboard_time": 1732166898,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355235,
+        "num": 648675,
+        "word": "孙颖莎场下摇头",
+        "onboard_time": 1732170081,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292219,
+        "num": 647983,
+        "word": "陈幸同说从结果上来看对比赛满意",
+        "onboard_time": 1732167799,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372639,
+        "num": 646084,
+        "word": "留几手想和葛夕住只是想有人洗衣服",
+        "onboard_time": 1732164500,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645795,
+        "num": 645795,
+        "word": "麦琳 难哄",
+        "onboard_time": 1732166120,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627745,
+        "num": 627745,
+        "word": "于东来发文",
+        "onboard_time": 1732157599,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582573,
+        "num": 582573,
+        "word": "36岁男子熬夜5点睡着7点发生心梗",
+        "onboard_time": 1732165762,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 541143,
+        "num": 541143,
+        "word": "孙颖莎2比3遭陈幸同逆转",
+        "onboard_time": 1732167499,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414852,
+        "num": 414852,
+        "word": "律师解读胖东来人结婚不许要或付彩礼",
+        "onboard_time": 1732160239,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332125,
+        "num": 408116,
+        "word": "疯狂熏鸡四",
+        "onboard_time": 1732166961,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280953,
+        "num": 401300,
+        "word": "JYP公司只有JYP去了MAMA",
+        "onboard_time": 1732167560,
+        "rank": 27,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 147767,
+        "num": 386227,
+        "word": "涵艺说Zeka大于Faker",
+        "onboard_time": 1732170740,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16732,
+        "num": 368537,
+        "word": "李磊张玉宁赴荷兰疗伤",
+        "onboard_time": 1732170440,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361779,
+        "num": 361779,
+        "word": "梁王止步中国赛16强",
+        "onboard_time": 1732169120,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341315,
+        "num": 341315,
+        "word": "黑心卫生巾",
+        "onboard_time": 1732163720,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43275,
+        "num": 321275,
+        "word": "周翊然时装男士十一月封面",
+        "onboard_time": 1732169960,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307868,
+        "num": 307868,
+        "word": "考研人数",
+        "onboard_time": 1732169479,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278754,
+        "num": 278754,
+        "word": "王曼昱vs申裕斌",
+        "onboard_time": 1732164320,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240010,
+        "num": 240010,
+        "word": "4万人死亡也换不来美国的同情心吗",
+        "onboard_time": 1732147098,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225527,
+        "num": 225527,
+        "word": "王曼昱晋级总决赛8强",
+        "onboard_time": 1732169001,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218181,
+        "num": 218181,
+        "word": "雷军",
+        "onboard_time": 1732163420,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214363,
+        "num": 214363,
+        "word": "女孩狂学非遗不回避流量变现",
+        "onboard_time": 1732168040,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209590,
+        "num": 209590,
+        "word": "赵露思发型学的我的教程",
+        "onboard_time": 1732166361,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 203749,
+        "num": 203749,
+        "word": "丁禹兮这组出圈图居然没修",
+        "onboard_time": 1732161020,
+        "rank": 40,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 201453,
+        "num": 201453,
+        "word": "中国人首次登月动画演示",
+        "onboard_time": 1732168219,
+        "rank": 41,
+        "category": "正能量,正能量"
+      },
+      {
+        "raw_hot": 198490,
+        "num": 198490,
+        "word": "时代少年团演唱会特别曲目",
+        "onboard_time": 1732169660,
+        "rank": 42,
+        "category": "演出,演出"
+      },
+      {
+        "raw_hot": 195996,
+        "num": 195996,
+        "word": "孙颖莎总决赛单双打均首轮出局",
+        "onboard_time": 1732170319,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189442,
+        "num": 189442,
+        "word": "娃哈哈回应钟睒睒绿瓶纯净水言论",
+        "onboard_time": 1732170379,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178580,
+        "num": 178580,
+        "word": "网友喊话雷军生产卫生巾",
+        "onboard_time": 1732164800,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173755,
+        "num": 173755,
+        "word": "权志龙漂眉",
+        "onboard_time": 1732167199,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54392,
+        "num": 169178,
+        "word": "王曼昱3比1胜申裕斌",
+        "onboard_time": 1732169239,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168939,
+        "num": 168939,
+        "word": "永夜星河爱一人先爱自己",
+        "onboard_time": 1732169419,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163525,
+        "num": 163525,
+        "word": "姐姐送房给弟弟住被1400万卖掉",
+        "onboard_time": 1732146918,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从北京到巴西利亚的两首歌#"
+    }
+  }
+}

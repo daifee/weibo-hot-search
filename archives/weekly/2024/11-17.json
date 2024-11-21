@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732167646557,
+  "endTime": 1732170761788,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -33,6 +33,14 @@
       "onboard_time": 1731805999,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3453068,
+      "num": 652720,
+      "word": "高三女生被灌醉后遭强奸致死",
+      "onboard_time": 1732168159,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3006607,
@@ -579,20 +587,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1234328,
+      "num": 1234328,
+      "word": "胖东来神似倪妮员工离职",
+      "onboard_time": 1732166419,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1224601,
       "num": 1224601,
       "word": "Zeus离队",
       "onboard_time": 1732028120,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1221989,
-      "num": 852856,
-      "word": "胖东来神似倪妮员工离职",
-      "onboard_time": 1732166419,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1218673,
@@ -945,6 +953,14 @@
       "onboard_time": 1731897678,
       "rank": 11,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 976078,
+      "num": 976078,
+      "word": "2025考研388万人报名",
+      "onboard_time": 1732168820,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 953712,
@@ -1851,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664738,
+      "num": 664738,
+      "word": "李行亮开车哭",
+      "onboard_time": 1732167619,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661239,
       "num": 390904,
       "word": "子期是浮舟还是浮舟是子期",
@@ -2235,6 +2259,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 582573,
+      "num": 953883,
+      "word": "36岁男子熬夜5点睡着7点发生心梗",
+      "onboard_time": 1732165762,
+      "rank": 13,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 573726,
       "num": 573726,
       "word": "印度示威者高喊自己才是加拿大的主人",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1732111703,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 541143,
+      "num": 635076,
+      "word": "孙颖莎2比3遭陈幸同逆转",
+      "onboard_time": 1732167499,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 539810,
@@ -2627,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505565,
+      "num": 663140,
+      "word": "23岁女生花18万隆胸术后胸硬如石",
+      "onboard_time": 1732169239,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 505393,
       "num": 505393,
       "word": "24款卫生巾缩水实测",
@@ -2812,7 +2860,7 @@
     },
     {
       "raw_hot": 472347,
-      "num": 472347,
+      "num": 651230,
       "word": "虞书欣杂志",
       "onboard_time": 1732081340,
       "rank": 6,
@@ -3579,6 +3627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361779,
+      "num": 361779,
+      "word": "梁王止步中国赛16强",
+      "onboard_time": 1732169120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360951,
       "num": 270804,
       "word": "六公主发了赵丽颖大特写",
@@ -3641,6 +3697,14 @@
       "onboard_time": 1732108641,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355235,
+      "num": 648675,
+      "word": "孙颖莎场下摇头",
+      "onboard_time": 1732170081,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 353777,
@@ -3819,14 +3883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333560,
-      "num": 953883,
-      "word": "36岁男子熬夜5点睡着7点发生心梗",
-      "onboard_time": 1732165762,
-      "rank": 13,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 332936,
       "num": 332936,
       "word": "小狗离世前十分钟医师对它吐烟",
@@ -3840,6 +3896,14 @@
       "word": "许凯的评论区",
       "onboard_time": 1731991282,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 332125,
+      "num": 408116,
+      "word": "疯狂熏鸡四",
+      "onboard_time": 1732166961,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -4107,6 +4171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307868,
+      "num": 307868,
+      "word": "考研人数",
+      "onboard_time": 1732169479,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 306565,
       "num": 289914,
       "word": "5种不舒服可能是癌症信号",
@@ -4283,6 +4355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 292219,
+      "num": 647983,
+      "word": "陈幸同说从结果上来看对比赛满意",
+      "onboard_time": 1732167799,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291680,
       "num": 542059,
       "word": "张馨予 对于伤害不会心软",
@@ -4419,6 +4499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 280953,
+      "num": 401300,
+      "word": "JYP公司只有JYP去了MAMA",
+      "onboard_time": 1732167560,
+      "rank": 37,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 280520,
       "num": 393705,
       "word": "夏弃疾 永夜星河壁纸",
@@ -4443,6 +4531,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 278754,
+      "num": 278754,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1732164320,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278632,
       "num": 288649,
       "word": "孔雪儿竟然有九部待播剧",
@@ -4465,6 +4561,14 @@
       "onboard_time": 1732001239,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277189,
+      "num": 664333,
+      "word": "胖东来回应员工结婚不许要彩礼",
+      "onboard_time": 1732169660,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276526,
@@ -4505,14 +4609,6 @@
       "onboard_time": 1732084040,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275768,
-      "num": 275768,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1732164320,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 275544,
@@ -5427,6 +5523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225527,
+      "num": 225527,
+      "word": "王曼昱晋级总决赛8强",
+      "onboard_time": 1732169001,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225477,
       "num": 225477,
       "word": "NASA准备随时撤离国际空间站",
@@ -5579,14 +5683,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 221283,
-      "num": 221283,
-      "word": "JYP公司只有JYP去了MAMA",
-      "onboard_time": 1732167560,
-      "rank": 37,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 221221,
       "num": 221221,
       "word": "2025年单休比双休多上52天班",
@@ -5697,6 +5793,14 @@
       "onboard_time": 1731985158,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 214363,
+      "num": 214363,
+      "word": "女孩狂学非遗不回避流量变现",
+      "onboard_time": 1732168040,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214273,
@@ -6011,6 +6115,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 206353,
+      "num": 650545,
+      "word": "再见爱人真是史诗级别的抽象",
+      "onboard_time": 1732166898,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206331,
       "num": 246472,
       "word": "超实力版炸火花",
@@ -6251,6 +6363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201453,
+      "num": 201453,
+      "word": "中国人首次登月动画演示",
+      "onboard_time": 1732168219,
+      "rank": 41,
+      "category": "正能量,正能量"
+    },
+    {
       "raw_hot": 201398,
       "num": 201398,
       "word": "江苏一快递小哥退休挣了2套房",
@@ -6387,6 +6507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198490,
+      "num": 198490,
+      "word": "时代少年团演唱会特别曲目",
+      "onboard_time": 1732169660,
+      "rank": 42,
+      "category": "演出,演出"
+    },
+    {
       "raw_hot": 198467,
       "num": 198467,
       "word": "严浩翔五周年单人直播",
@@ -6507,20 +6635,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 196034,
-      "num": 196034,
-      "word": "疯狂熏鸡四",
-      "onboard_time": 1732166961,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196013,
       "num": 196013,
       "word": "安静公主 迪士尼",
       "onboard_time": 1732074859,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 195996,
+      "num": 195996,
+      "word": "孙颖莎总决赛单双打均首轮出局",
+      "onboard_time": 1732170319,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 195955,
@@ -6865,6 +6993,14 @@
       "onboard_time": 1732023442,
       "rank": 40,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 189442,
+      "num": 189442,
+      "word": "娃哈哈回应钟睒睒绿瓶纯净水言论",
+      "onboard_time": 1732170379,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189367,
@@ -8003,6 +8139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168939,
+      "num": 168939,
+      "word": "永夜星河爱一人先爱自己",
+      "onboard_time": 1732169419,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168765,
       "num": 168765,
       "word": "永夜星河终于亲了",
@@ -9003,6 +9147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147767,
+      "num": 386227,
+      "word": "涵艺说Zeka大于Faker",
+      "onboard_time": 1732170740,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147591,
       "num": 147591,
       "word": "当90岁老飞行员看到歼35A",
@@ -9699,14 +9851,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 135717,
-      "num": 275908,
-      "word": "李行亮开车哭",
-      "onboard_time": 1732167619,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135413,
       "num": 135413,
       "word": "留几手向麦琳道歉",
@@ -9849,14 +9993,6 @@
       "onboard_time": 1731898038,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131903,
-      "num": 635076,
-      "word": "孙颖莎2比3遭陈幸同逆转",
-      "onboard_time": 1732167499,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 131674,
@@ -11315,6 +11451,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 93724,
+      "num": 656523,
+      "word": "怎么选择卫生巾才卫生",
+      "onboard_time": 1732169299,
+      "rank": 13,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 92956,
       "num": 463685,
       "word": "中国航展今天闭幕",
@@ -12009,6 +12153,14 @@
       "onboard_time": 1732072700,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72907,
+      "num": 654406,
+      "word": "节假日不等于休息日",
+      "onboard_time": 1732169061,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71996,
@@ -12739,6 +12891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54392,
+      "num": 169178,
+      "word": "王曼昱3比1胜申裕斌",
+      "onboard_time": 1732169239,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53944,
       "num": 84777,
       "word": "珠海航展",
@@ -13435,6 +13595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43275,
+      "num": 321275,
+      "word": "周翊然时装男士十一月封面",
+      "onboard_time": 1732169960,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 43189,
       "num": 283429,
       "word": "他们在哈 我在哈哈",
@@ -13891,6 +14059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36328,
+      "num": 660990,
+      "word": "律师分析多只宠物狗疑遭毒死",
+      "onboard_time": 1732169061,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36322,
       "num": 220210,
       "word": "林诗栋说总决赛没有弱者",
@@ -14235,6 +14411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31935,
+      "num": 1991798,
+      "word": "文化中国行看中国茶在巴西",
+      "onboard_time": 1732163600,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 31845,
       "num": 44034,
       "word": "航展上的关键零部件你注意到了吗",
@@ -14489,14 +14673,6 @@
       "onboard_time": 1732087400,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29577,
-      "num": 1991798,
-      "word": "文化中国行看中国茶在巴西",
-      "onboard_time": 1732163600,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 29412,
@@ -14777,6 +14953,14 @@
       "onboard_time": 1732106541,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26687,
+      "num": 657228,
+      "word": "郑钦文连续3年入围WTA年度奖项",
+      "onboard_time": 1732170260,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 26655,
@@ -15609,6 +15793,14 @@
       "onboard_time": 1731769883,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16732,
+      "num": 368537,
+      "word": "李磊张玉宁赴荷兰疗伤",
+      "onboard_time": 1732170440,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 16560,

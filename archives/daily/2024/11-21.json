@@ -1,12 +1,20 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732167646557,
+  "endTime": 1732170761788,
   "band_list": [
     {
       "raw_hot": 4213662,
       "num": 4213662,
       "word": "企业请离员工私生活远一点",
       "onboard_time": 1732160239,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3453068,
+      "num": 652720,
+      "word": "高三女生被灌醉后遭强奸致死",
+      "onboard_time": 1732168159,
       "rank": 15,
       "category": "民生新闻"
     },
@@ -75,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1221989,
-      "num": 852856,
+      "raw_hot": 1234328,
+      "num": 1234328,
       "word": "胖东来神似倪妮员工离职",
       "onboard_time": 1732166419,
       "rank": 31,
@@ -145,6 +153,14 @@
       "onboard_time": 1732163420,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 976078,
+      "num": 976078,
+      "word": "2025考研388万人报名",
+      "onboard_time": 1732168820,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 912677,
@@ -227,6 +243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 664738,
+      "num": 664738,
+      "word": "李行亮开车哭",
+      "onboard_time": 1732167619,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660807,
       "num": 977383,
       "word": "留几手想和葛夕住只是想有人洗衣服",
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582573,
+      "num": 953883,
+      "word": "36岁男子熬夜5点睡着7点发生心梗",
+      "onboard_time": 1732165762,
+      "rank": 13,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 573011,
       "num": 573011,
       "word": "科切拉",
@@ -289,6 +321,14 @@
       "onboard_time": 1732148600,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 541143,
+      "num": 635076,
+      "word": "孙颖莎2比3遭陈幸同逆转",
+      "onboard_time": 1732167499,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 530314,
@@ -337,6 +377,14 @@
       "onboard_time": 1732113022,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505565,
+      "num": 663140,
+      "word": "23岁女生花18万隆胸术后胸硬如石",
+      "onboard_time": 1732169239,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 505393,
@@ -435,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361779,
+      "num": 361779,
+      "word": "梁王止步中国赛16强",
+      "onboard_time": 1732169120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355803,
       "num": 268817,
       "word": "被家暴16次女子希望男方定罪故意杀人",
       "onboard_time": 1732128792,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 355235,
+      "num": 648675,
+      "word": "孙颖莎场下摇头",
+      "onboard_time": 1732170081,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 353754,
@@ -467,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333560,
-      "num": 953883,
-      "word": "36岁男子熬夜5点睡着7点发生心梗",
-      "onboard_time": 1732165762,
-      "rank": 13,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 332125,
+      "num": 408116,
+      "word": "疯狂熏鸡四",
+      "onboard_time": 1732166961,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 329040,
@@ -523,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307868,
+      "num": 307868,
+      "word": "考研人数",
+      "onboard_time": 1732169479,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 301562,
       "num": 525575,
       "word": "朴智妍黄载均确定离婚",
@@ -555,6 +627,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 292219,
+      "num": 647983,
+      "word": "陈幸同说从结果上来看对比赛满意",
+      "onboard_time": 1732167799,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290809,
       "num": 290809,
       "word": "霸王茶姬免单券",
@@ -571,12 +651,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275768,
-      "num": 275768,
+      "raw_hot": 280953,
+      "num": 401300,
+      "word": "JYP公司只有JYP去了MAMA",
+      "onboard_time": 1732167560,
+      "rank": 37,
+      "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 278754,
+      "num": 278754,
       "word": "王曼昱vs申裕斌",
       "onboard_time": 1732164320,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277189,
+      "num": 664333,
+      "word": "胖东来回应员工结婚不许要彩礼",
+      "onboard_time": 1732169660,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264895,
+      "num": 651230,
+      "word": "虞书欣杂志",
+      "onboard_time": 1732170319,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 261757,
@@ -675,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225527,
+      "num": 225527,
+      "word": "王曼昱晋级总决赛8强",
+      "onboard_time": 1732169001,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223653,
       "num": 197977,
       "word": "侯明昊工作室发文维权",
@@ -683,20 +795,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221283,
-      "num": 221283,
-      "word": "JYP公司只有JYP去了MAMA",
-      "onboard_time": 1732167560,
-      "rank": 37,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 221221,
       "num": 221221,
       "word": "2025年单休比双休多上52天班",
       "onboard_time": 1732145295,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214363,
+      "num": 214363,
+      "word": "女孩狂学非遗不回避流量变现",
+      "onboard_time": 1732168040,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212550,
@@ -755,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206353,
+      "num": 650545,
+      "word": "再见爱人真是史诗级别的抽象",
+      "onboard_time": 1732166898,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205341,
       "num": 205341,
       "word": "虞书欣11个行李箱没白带",
@@ -777,6 +897,14 @@
       "onboard_time": 1732153819,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 201453,
+      "num": 201453,
+      "word": "中国人首次登月动画演示",
+      "onboard_time": 1732168219,
+      "rank": 41,
+      "category": "正能量,正能量"
     },
     {
       "raw_hot": 201398,
@@ -811,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198490,
+      "num": 198490,
+      "word": "时代少年团演唱会特别曲目",
+      "onboard_time": 1732169660,
+      "rank": 42,
+      "category": "演出,演出"
+    },
+    {
       "raw_hot": 197354,
       "num": 197354,
       "word": "刘宇宁斗罗大陆海神造型",
@@ -827,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196034,
-      "num": 196034,
-      "word": "疯狂熏鸡四",
-      "onboard_time": 1732166961,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 195996,
+      "num": 195996,
+      "word": "孙颖莎总决赛单双打均首轮出局",
+      "onboard_time": 1732170319,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 195151,
@@ -881,6 +1017,14 @@
       "onboard_time": 1732158020,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189442,
+      "num": 189442,
+      "word": "娃哈哈回应钟睒睒绿瓶纯净水言论",
+      "onboard_time": 1732170379,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189276,
@@ -1011,6 +1155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 168939,
+      "num": 168939,
+      "word": "永夜星河爱一人先爱自己",
+      "onboard_time": 1732169419,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165424,
       "num": 165424,
       "word": "涵艺爆料定制版本",
@@ -1067,6 +1219,14 @@
       "category": "演出,综艺"
     },
     {
+      "raw_hot": 147767,
+      "num": 386227,
+      "word": "涵艺说Zeka大于Faker",
+      "onboard_time": 1732170740,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144644,
       "num": 378495,
       "word": "丁禹兮北京机场vip出发路透",
@@ -1107,14 +1267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135717,
-      "num": 275908,
-      "word": "李行亮开车哭",
-      "onboard_time": 1732167619,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134335,
       "num": 219306,
       "word": "ENHYPEN将登科切拉",
@@ -1129,14 +1281,6 @@
       "onboard_time": 1732156218,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131903,
-      "num": 635076,
-      "word": "孙颖莎2比3遭陈幸同逆转",
-      "onboard_time": 1732167499,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 129934,
@@ -1347,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93724,
+      "num": 656523,
+      "word": "怎么选择卫生巾才卫生",
+      "onboard_time": 1732169299,
+      "rank": 13,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 93640,
       "num": 93640,
       "word": "花少后期 终于是癫了",
@@ -1523,6 +1675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 72907,
+      "num": 654406,
+      "word": "节假日不等于休息日",
+      "onboard_time": 1732169061,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71936,
       "num": 71936,
       "word": "英伟达公布2025财年第三季度财报",
@@ -1603,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54392,
+      "num": 169178,
+      "word": "王曼昱3比1胜申裕斌",
+      "onboard_time": 1732169239,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50691,
       "num": 184490,
       "word": "王一博上榜好莱坞最受欢迎演员",
@@ -1673,6 +1841,14 @@
       "onboard_time": 1732137200,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43275,
+      "num": 321275,
+      "word": "周翊然时装男士十一月封面",
+      "onboard_time": 1732169960,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 40955,
@@ -1763,6 +1939,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 36328,
+      "num": 660990,
+      "word": "律师分析多只宠物狗疑遭毒死",
+      "onboard_time": 1732169061,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35371,
       "num": 759838,
       "word": "我国载人登月火箭再传喜讯",
@@ -1785,6 +1969,14 @@
       "onboard_time": 1732163120,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31935,
+      "num": 1991798,
+      "word": "文化中国行看中国茶在巴西",
+      "onboard_time": 1732163600,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 31636,
@@ -1819,14 +2011,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 29577,
-      "num": 1991798,
-      "word": "文化中国行看中国茶在巴西",
-      "onboard_time": 1732163600,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 29381,
       "num": 508520,
       "word": "削球为何难打",
@@ -1841,6 +2025,14 @@
       "onboard_time": 1732165401,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26687,
+      "num": 657228,
+      "word": "郑钦文连续3年入围WTA年度奖项",
+      "onboard_time": 1732170260,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 25644,
@@ -1961,6 +2153,14 @@
       "onboard_time": 1732141993,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 16732,
+      "num": 368537,
+      "word": "李磊张玉宁赴荷兰疗伤",
+      "onboard_time": 1732170440,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 16421,
