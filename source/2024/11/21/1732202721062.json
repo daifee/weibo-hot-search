@@ -1,0 +1,410 @@
+{
+  "runTime": 1732202721062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 899692,
+        "num": 1143950,
+        "word": "王宝强被举报涉嫌欺诈",
+        "onboard_time": 1732181121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868524,
+        "num": 868524,
+        "word": "医生建议别疯抢医用卫生巾",
+        "onboard_time": 1732188919,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35326,
+        "num": 679152,
+        "word": "我的祖国在巴西唱响见证了什么",
+        "onboard_time": 1732195460,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 642260,
+        "num": 642260,
+        "word": "王楚钦说输谁都很正常",
+        "onboard_time": 1732199002,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486259,
+        "num": 486259,
+        "word": "黄执中在奇葩说都没这么激动过",
+        "onboard_time": 1732196782,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336445,
+        "num": 336445,
+        "word": "王楚钦拧神",
+        "onboard_time": 1732195880,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463924,
+        "num": 324613,
+        "word": "杨子疑似失去所有的力气和手段",
+        "onboard_time": 1732188680,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290963,
+        "num": 290963,
+        "word": "烧饼任德云社副总",
+        "onboard_time": 1732195039,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287360,
+        "num": 287360,
+        "word": "卫生巾新国标主要起草单位",
+        "onboard_time": 1732199121,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231621,
+        "num": 231621,
+        "word": "iG 全神班",
+        "onboard_time": 1732195763,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 934675,
+        "num": 231210,
+        "word": "祝绪丹买了520本虞书欣杂志",
+        "onboard_time": 1732199241,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 531006,
+        "num": 229893,
+        "word": "金靖出月子",
+        "onboard_time": 1732193362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523729,
+        "num": 229326,
+        "word": "女子拒还前男友1170万买房款",
+        "onboard_time": 1732200800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399201,
+        "num": 228370,
+        "word": "情侣住酒店突遇2陌生人刷卡进房间",
+        "onboard_time": 1732196360,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16536,
+        "num": 227728,
+        "word": "养生课售卖OTC药品多不合法",
+        "onboard_time": 1732201461,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 306761,
+        "num": 226258,
+        "word": "丁禹兮人生一直在请客",
+        "onboard_time": 1732199481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226150,
+        "num": 226150,
+        "word": "王楚钦下场对阵莫雷加德",
+        "onboard_time": 1732197981,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224005,
+        "num": 224005,
+        "word": "王楚钦爆拧",
+        "onboard_time": 1732197022,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203834,
+        "num": 203834,
+        "word": "宋亚轩 路就这样开始走",
+        "onboard_time": 1732201700,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25858,
+        "num": 203746,
+        "word": "付航说定义无非就是为了分级",
+        "onboard_time": 1732201640,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921401,
+        "num": 202545,
+        "word": "麦琳 窒息",
+        "onboard_time": 1732186340,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480776,
+        "num": 201966,
+        "word": "丁禹兮买了1218套虞书欣杂志",
+        "onboard_time": 1732179679,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254967,
+        "num": 201630,
+        "word": "姑娘频繁美甲指甲上现三叉戟",
+        "onboard_time": 1732189820,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229127,
+        "num": 200624,
+        "word": "李行亮离婚会把四分之三财产给麦琳",
+        "onboard_time": 1732180640,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222658,
+        "num": 200552,
+        "word": "自然堂 端水",
+        "onboard_time": 1732194980,
+        "rank": 24,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 199962,
+        "num": 199962,
+        "word": "王楚钦加油",
+        "onboard_time": 1732201700,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194911,
+        "num": 194911,
+        "word": "卫生巾不该缩水更不该糊弄用户",
+        "onboard_time": 1732199660,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161587,
+        "num": 177014,
+        "word": "永夜星河",
+        "onboard_time": 1732198641,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198036,
+        "num": 176948,
+        "word": "郭碧婷 怀孕生子是一件很美好的事",
+        "onboard_time": 1732183582,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73340,
+        "num": 176144,
+        "word": "全国各地的文旅都吻上奔跑吧",
+        "onboard_time": 1732201762,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175779,
+        "num": 175779,
+        "word": "百雀羚官旗日销售额涨500%",
+        "onboard_time": 1732191079,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171037,
+        "num": 171037,
+        "word": "闫桉直播",
+        "onboard_time": 1732200921,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170926,
+        "num": 170926,
+        "word": "王楚钦把对手拍子打掉了",
+        "onboard_time": 1732202001,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168485,
+        "num": 168485,
+        "word": "浙大回应家庭困难学生晒旅游照",
+        "onboard_time": 1732184600,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162098,
+        "num": 162098,
+        "word": "洲际导弹",
+        "onboard_time": 1732182020,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 157177,
+        "num": 157177,
+        "word": "国际刑事法院向内塔尼亚胡发出逮捕令",
+        "onboard_time": 1732199241,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155858,
+        "num": 155858,
+        "word": "女子取走男友部分骨灰被其母诉赔偿",
+        "onboard_time": 1732184600,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143082,
+        "num": 143082,
+        "word": "圆肩驼背不只是体态问题",
+        "onboard_time": 1732196300,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137230,
+        "num": 137230,
+        "word": "imp怒喷xxp",
+        "onboard_time": 1732202239,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133175,
+        "num": 133175,
+        "word": "鞠婧祎身上有两只蝴蝶",
+        "onboard_time": 1732187179,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 131096,
+        "num": 131096,
+        "word": "卫生巾新国标正在起草",
+        "onboard_time": 1732179320,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127459,
+        "num": 127459,
+        "word": "infj是真的不会喜欢很吵的人吗",
+        "onboard_time": 1732193840,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123806,
+        "num": 123806,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120657,
+        "num": 120657,
+        "word": "susu福福",
+        "onboard_time": 1732201280,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119779,
+        "num": 119779,
+        "word": "涵艺怒喷T1",
+        "onboard_time": 1732202480,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115271,
+        "num": 115271,
+        "word": "断眉演唱会",
+        "onboard_time": 1732202001,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114305,
+        "num": 114305,
+        "word": "花少三代成都同框",
+        "onboard_time": 1732200620,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114083,
+        "num": 114083,
+        "word": "上等兵做了911个单杠卷身上",
+        "onboard_time": 1732201520,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112658,
+        "num": 112658,
+        "word": "贺峻霖模仿宋亚轩回国照",
+        "onboard_time": 1732199301,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108130,
+        "num": 108130,
+        "word": "4个动作瘦腿提臀减肚子",
+        "onboard_time": 1732202660,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#为全球南方国家团结自强树立榜样#"
+    }
+  }
+}
