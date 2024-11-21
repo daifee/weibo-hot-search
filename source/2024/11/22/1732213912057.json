@@ -1,0 +1,410 @@
+{
+  "runTime": 1732213912057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 146012,
+        "num": 160879,
+        "word": "王宝强被举报涉嫌欺诈",
+        "onboard_time": 1732181121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81772,
+        "num": 81772,
+        "word": "埃文凯尔感谢中国小姐姐赠送国博限量文创",
+        "onboard_time": 1732209374,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8612,
+        "num": 58935,
+        "word": "乌镇再相逢",
+        "onboard_time": 1732194680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100635,
+        "num": 58292,
+        "word": "麦琳有腰椎滑脱",
+        "onboard_time": 1732207574,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57484,
+        "num": 57484,
+        "word": "河南总工会热线回应胖东来彩礼新规",
+        "onboard_time": 1732210992,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52367,
+        "num": 52367,
+        "word": "国博补赠中国小姐姐凤冠冰箱贴",
+        "onboard_time": 1732212612,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57153,
+        "num": 51932,
+        "word": "黄执中在奇葩说都没这么激动过",
+        "onboard_time": 1732196782,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50956,
+        "num": 50956,
+        "word": "费启鸣演技",
+        "onboard_time": 1732207155,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50285,
+        "num": 50285,
+        "word": "iG 全神班",
+        "onboard_time": 1732195763,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47275,
+        "num": 47275,
+        "word": "小雪到了",
+        "onboard_time": 1732204699,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 171579,
+        "num": 46694,
+        "word": "虞书欣登顶内娱女星杂志销量第一",
+        "onboard_time": 1732203379,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 93302,
+        "num": 46361,
+        "word": "卫生巾是否应该纳入医保",
+        "onboard_time": 1732203258,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 67009,
+        "num": 45650,
+        "word": "女子拒还前男友1170万买房款",
+        "onboard_time": 1732200800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64048,
+        "num": 44636,
+        "word": "医生建议别疯抢医用卫生巾",
+        "onboard_time": 1732188919,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44539,
+        "num": 44539,
+        "word": "浙大回应家庭困难学生晒旅游照",
+        "onboard_time": 1732184600,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42945,
+        "num": 42945,
+        "word": "Mata加入T1",
+        "onboard_time": 1732203319,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42251,
+        "num": 42251,
+        "word": "王鹤棣演唱会二开",
+        "onboard_time": 1732203139,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40219,
+        "num": 40219,
+        "word": "洲际导弹",
+        "onboard_time": 1732182020,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 38005,
+        "num": 38005,
+        "word": "圆肩驼背不只是体态问题",
+        "onboard_time": 1732196300,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 7539,
+        "num": 37552,
+        "word": "惠英红 大型主办方气质",
+        "onboard_time": 1732213331,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223165,
+        "num": 36844,
+        "word": "工作人员看麦琳的表情",
+        "onboard_time": 1732202720,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161404,
+        "num": 35743,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1732188739,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144189,
+        "num": 34187,
+        "word": "虞书欣站姐",
+        "onboard_time": 1732204818,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66852,
+        "num": 33311,
+        "word": "金靖出月子",
+        "onboard_time": 1732193362,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32992,
+        "num": 32992,
+        "word": "自然堂 端水",
+        "onboard_time": 1732194980,
+        "rank": 24,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 32267,
+        "num": 32267,
+        "word": "王宝强工作室回应",
+        "onboard_time": 1732191741,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31727,
+        "num": 31727,
+        "word": "卫生巾新国标正在起草",
+        "onboard_time": 1732179320,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31622,
+        "num": 31622,
+        "word": "国际刑事法院向内塔尼亚胡发出逮捕令",
+        "onboard_time": 1732199241,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31326,
+        "num": 31326,
+        "word": "杨子疑似失去所有的力气和手段",
+        "onboard_time": 1732188680,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30025,
+        "num": 30025,
+        "word": "王楚钦说输谁都很正常",
+        "onboard_time": 1732199002,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48904,
+        "num": 29966,
+        "word": "女技师背几个月大婴儿足疗店上班",
+        "onboard_time": 1732206438,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29489,
+        "num": 29489,
+        "word": "以方回应国际刑事法院逮捕令",
+        "onboard_time": 1732210274,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29358,
+        "num": 29358,
+        "word": "丁禹兮人生一直在请客",
+        "onboard_time": 1732199481,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28646,
+        "num": 28646,
+        "word": "情侣住酒店突遇2陌生人刷卡进房间",
+        "onboard_time": 1732196360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28539,
+        "num": 28539,
+        "word": "女子恋爱1个月被骗贷17万",
+        "onboard_time": 1732203439,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28160,
+        "num": 28160,
+        "word": "infj是真的不会喜欢很吵的人吗",
+        "onboard_time": 1732193840,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27816,
+        "num": 27816,
+        "word": "百雀羚官旗日销售额涨500%",
+        "onboard_time": 1732191079,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26825,
+        "num": 26825,
+        "word": "张峻豪定制手表",
+        "onboard_time": 1732204518,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26335,
+        "num": 26335,
+        "word": "卫生巾新国标主要起草单位",
+        "onboard_time": 1732199121,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26221,
+        "num": 26221,
+        "word": "烧饼任德云社副总",
+        "onboard_time": 1732195039,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25552,
+        "num": 25552,
+        "word": "郭碧婷 怀孕生子是一件很美好的事",
+        "onboard_time": 1732183582,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24843,
+        "num": 24843,
+        "word": "王楚钦把对手拍子打掉了",
+        "onboard_time": 1732202001,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23642,
+        "num": 24843,
+        "word": "妇联介入女子举报民警丈夫长期家暴",
+        "onboard_time": 1732203859,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23169,
+        "num": 24840,
+        "word": "imp怒喷xxp",
+        "onboard_time": 1732202239,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22414,
+        "num": 24838,
+        "word": "团建不能停开播",
+        "onboard_time": 1732212072,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22407,
+        "num": 24837,
+        "word": "求职者入职未成面试作品疑遭盗用",
+        "onboard_time": 1732203499,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21930,
+        "num": 24835,
+        "word": "适合中国宝宝的减肥操",
+        "onboard_time": 1732213813,
+        "rank": 46,
+        "category": "运动健身,母婴育儿"
+      },
+      {
+        "raw_hot": 21542,
+        "num": 24833,
+        "word": "王楚钦说感谢鼓励我的人",
+        "onboard_time": 1732203200,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21405,
+        "num": 24829,
+        "word": "加沙已是孤儿之城这还不够吗",
+        "onboard_time": 1732212432,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20756,
+        "num": 24827,
+        "word": "李行亮离婚会把四分之三财产给麦琳",
+        "onboard_time": 1732180640,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平乘专机启程回国#"
+    }
+  }
+}
