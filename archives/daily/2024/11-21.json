@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732166564528,
+  "endTime": 1732167646557,
   "band_list": [
     {
       "raw_hot": 4213662,
@@ -9,6 +9,14 @@
       "onboard_time": 1732160239,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2635867,
+      "num": 2635867,
+      "word": "孙颖莎无缘女单8强",
+      "onboard_time": 1732166002,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 2545376,
@@ -35,8 +43,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1480130,
-      "num": 1480130,
+      "raw_hot": 1978630,
+      "num": 1978630,
       "word": "李行亮公主抱麦琳摔了",
       "onboard_time": 1732165525,
       "rank": 3,
@@ -67,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1198707,
-      "num": 1198707,
-      "word": "孙颖莎无缘女单8强",
-      "onboard_time": 1732166002,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 1221989,
+      "num": 852856,
+      "word": "胖东来神似倪妮员工离职",
+      "onboard_time": 1732166419,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1148961,
@@ -121,6 +129,14 @@
       "onboard_time": 1732116260,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1006173,
+      "num": 1006173,
+      "word": "麦琳 难哄",
+      "onboard_time": 1732166120,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1001703,
@@ -451,6 +467,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333560,
+      "num": 953883,
+      "word": "36岁男子熬夜5点睡着7点发生心梗",
+      "onboard_time": 1732165762,
+      "rank": 13,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 329040,
+      "num": 1024355,
+      "word": "陈幸同3比2孙颖莎",
+      "onboard_time": 1732166002,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320230,
       "num": 459738,
       "word": "刘宪华现身粉丝婚礼献唱",
@@ -539,12 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275456,
-      "num": 549144,
-      "word": "麦琳 难哄",
-      "onboard_time": 1732166120,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 275768,
+      "num": 275768,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1732164320,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 261757,
@@ -553,14 +585,6 @@
       "onboard_time": 1732156159,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261654,
-      "num": 261654,
-      "word": "胖东来神似倪妮员工离职",
-      "onboard_time": 1732166419,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257488,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 249341,
-      "num": 249341,
+      "num": 856137,
       "word": "网友喊话雷军生产卫生巾",
       "onboard_time": 1732164800,
       "rank": 34,
@@ -627,20 +651,20 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 243390,
+      "num": 339863,
+      "word": "赵露思发型学的我的教程",
+      "onboard_time": 1732166361,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 241590,
       "num": 243513,
       "word": "鸟飞到养殖场把螃蟹当瓜子嗑",
       "onboard_time": 1732152138,
       "rank": 24,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 237402,
-      "num": 237402,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1732164320,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 227519,
@@ -657,6 +681,14 @@
       "onboard_time": 1732113862,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221283,
+      "num": 221283,
+      "word": "JYP公司只有JYP去了MAMA",
+      "onboard_time": 1732167560,
+      "rank": 37,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 221221,
@@ -723,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206595,
-      "num": 1024355,
-      "word": "陈幸同3比2孙颖莎",
-      "onboard_time": 1732166002,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205341,
       "num": 205341,
       "word": "虞书欣11个行李箱没白带",
@@ -787,11 +811,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197354,
+      "num": 197354,
+      "word": "刘宇宁斗罗大陆海神造型",
+      "onboard_time": 1732167139,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197305,
       "num": 197305,
       "word": "奔跑吧全员都哭了",
       "onboard_time": 1732101500,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196034,
+      "num": 196034,
+      "word": "疯狂熏鸡四",
+      "onboard_time": 1732166961,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 193735,
-      "num": 193735,
+      "num": 442100,
       "word": "麦琳是一种处境",
       "onboard_time": 1732165642,
       "rank": 42,
@@ -857,14 +897,6 @@
       "onboard_time": 1732159578,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188623,
-      "num": 188623,
-      "word": "赵露思发型学的我的教程",
-      "onboard_time": 1732166361,
-      "rank": 45,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 188568,
@@ -915,6 +947,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 184390,
+      "num": 276813,
+      "word": "权志龙漂眉",
+      "onboard_time": 1732167199,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182280,
       "num": 182280,
       "word": "荣耀300",
@@ -963,20 +1003,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173774,
-      "num": 953883,
-      "word": "36岁男子熬夜5点睡着7点发生心梗",
-      "onboard_time": 1732165762,
-      "rank": 13,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 170086,
       "num": 170086,
       "word": "宁夏沙湖成群野雁追着人飞",
       "onboard_time": 1732117879,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 165424,
+      "num": 165424,
+      "word": "涵艺爆料定制版本",
+      "onboard_time": 1732167319,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 164916,
@@ -1067,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135717,
+      "num": 275908,
+      "word": "李行亮开车哭",
+      "onboard_time": 1732167619,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134335,
       "num": 219306,
       "word": "ENHYPEN将登科切拉",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1732156218,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131903,
+      "num": 635076,
+      "word": "孙颖莎2比3遭陈幸同逆转",
+      "onboard_time": 1732167499,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 129934,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1732144515,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112343,
+      "num": 843215,
+      "word": "陈幸同女单8强",
+      "onboard_time": 1732166719,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 105936,
@@ -1355,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80455,
+      "num": 956701,
+      "word": "梁王组合vs印尼组合",
+      "onboard_time": 1732149800,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78858,
       "num": 78858,
       "word": "白鹿走啦下次见爱你们",
@@ -1467,6 +1539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68755,
+      "num": 260211,
+      "word": "林一手疼是自己设计的",
+      "onboard_time": 1732166898,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66414,
       "num": 66414,
       "word": "小蜜蜂老师回应直播带货争议",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1732145295,
       "rank": 46,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 59338,
+      "num": 1008070,
+      "word": "山上放火岂能把危险当浪漫",
+      "onboard_time": 1732165340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59144,
@@ -1531,14 +1619,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 47284,
-      "num": 1008070,
-      "word": "山上放火岂能把危险当浪漫",
-      "onboard_time": 1732165340,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46682,
       "num": 46682,
       "word": "林小姐你今天不嫁也得嫁",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1732121656,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43927,
+      "num": 913867,
+      "word": "李书福称甲醇汽车风口已到来",
+      "onboard_time": 1732163902,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 43482,
@@ -1715,12 +1803,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31151,
-      "num": 913867,
-      "word": "李书福称甲醇汽车风口已到来",
-      "onboard_time": 1732163902,
-      "rank": 48,
-      "category": "汽车"
+      "raw_hot": 31324,
+      "num": 358508,
+      "word": "男性看电影好东西",
+      "onboard_time": 1732167499,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 30558,
@@ -1732,7 +1820,7 @@
     },
     {
       "raw_hot": 29577,
-      "num": 1636626,
+      "num": 1991798,
       "word": "文化中国行看中国茶在巴西",
       "onboard_time": 1732163600,
       "rank": 2,
@@ -1761,14 +1849,6 @@
       "onboard_time": 1732156577,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25536,
-      "num": 956701,
-      "word": "梁王组合vs印尼组合",
-      "onboard_time": 1732149800,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 25484,

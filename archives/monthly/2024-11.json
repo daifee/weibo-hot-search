@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732166564528,
+  "endTime": 1732167646557,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -587,6 +587,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 2635867,
+      "num": 2635867,
+      "word": "孙颖莎无缘女单8强",
+      "onboard_time": 1732166002,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2618094,
       "num": 2618094,
       "word": "网信办将核实调查瑞士卷事件",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1731407123,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1978630,
+      "num": 1978630,
+      "word": "李行亮公主抱麦琳摔了",
+      "onboard_time": 1732165525,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1971047,
@@ -2171,14 +2187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1480130,
-      "num": 1480130,
-      "word": "李行亮公主抱麦琳摔了",
-      "onboard_time": 1732165525,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1479779,
       "num": 532957,
       "word": "陈乔恩为乔任梁传言发声",
@@ -3251,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1221989,
+      "num": 852856,
+      "word": "胖东来神似倪妮员工离职",
+      "onboard_time": 1732166419,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1218673,
       "num": 1218673,
       "word": "2岁男童下楼买糖时被人拐走",
@@ -3305,14 +3321,6 @@
       "onboard_time": 1731811578,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1198707,
-      "num": 1198707,
-      "word": "孙颖莎无缘女单8强",
-      "onboard_time": 1732166002,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1196956,
@@ -4561,6 +4569,14 @@
       "onboard_time": 1731972136,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1006173,
+      "num": 1006173,
+      "word": "麦琳 难哄",
+      "onboard_time": 1732166120,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1003762,
@@ -17875,6 +17891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333560,
+      "num": 953883,
+      "word": "36岁男子熬夜5点睡着7点发生心梗",
+      "onboard_time": 1732165762,
+      "rank": 13,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 333277,
       "num": 333277,
       "word": "乌克兰朝鲜",
@@ -18065,6 +18089,14 @@
       "onboard_time": 1731379339,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 329040,
+      "num": 1024355,
+      "word": "陈幸同3比2孙颖莎",
+      "onboard_time": 1732166002,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 328655,
@@ -20779,6 +20811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275768,
+      "num": 275768,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1732164320,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275544,
       "num": 284109,
       "word": "江苏淮安小伙把自己棉大衣给埃文凯尔穿",
@@ -20793,14 +20833,6 @@
       "onboard_time": 1731774141,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 275456,
-      "num": 549144,
-      "word": "麦琳 难哄",
-      "onboard_time": 1732166120,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 275101,
@@ -21729,14 +21761,6 @@
       "onboard_time": 1732156159,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261654,
-      "num": 261654,
-      "word": "胖东来神似倪妮员工离职",
-      "onboard_time": 1732166419,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261640,
@@ -22764,7 +22788,7 @@
     },
     {
       "raw_hot": 249341,
-      "num": 249341,
+      "num": 856137,
       "word": "网友喊话雷军生产卫生巾",
       "onboard_time": 1732164800,
       "rank": 34,
@@ -23201,6 +23225,14 @@
       "onboard_time": 1731570679,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243390,
+      "num": 339863,
+      "word": "赵露思发型学的我的教程",
+      "onboard_time": 1732166361,
+      "rank": 45,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 243296,
@@ -23665,14 +23697,6 @@
       "onboard_time": 1730875167,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237402,
-      "num": 237402,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1732164320,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 237386,
@@ -25145,6 +25169,14 @@
       "onboard_time": 1731227300,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221283,
+      "num": 221283,
+      "word": "JYP公司只有JYP去了MAMA",
+      "onboard_time": 1732167560,
+      "rank": 37,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 221221,
@@ -27073,14 +27105,6 @@
       "onboard_time": 1731502519,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206595,
-      "num": 1024355,
-      "word": "陈幸同3比2孙颖莎",
-      "onboard_time": 1732166002,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 206461,
@@ -29075,6 +29099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197354,
+      "num": 197354,
+      "word": "刘宇宁斗罗大陆海神造型",
+      "onboard_time": 1732167139,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197351,
       "num": 233957,
       "word": "陈好被花椒打脸了",
@@ -29353,6 +29385,14 @@
       "onboard_time": 1732089559,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196034,
+      "num": 196034,
+      "word": "疯狂熏鸡四",
+      "onboard_time": 1732166961,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 196013,
@@ -29868,7 +29908,7 @@
     },
     {
       "raw_hot": 193735,
-      "num": 193735,
+      "num": 442100,
       "word": "麦琳是一种处境",
       "onboard_time": 1732165642,
       "rank": 42,
@@ -31123,14 +31163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188623,
-      "num": 188623,
-      "word": "赵露思发型学的我的教程",
-      "onboard_time": 1732166361,
-      "rank": 45,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 188574,
       "num": 188574,
       "word": "苏57一来就是招牌动作落叶飘",
@@ -31969,6 +32001,14 @@
       "onboard_time": 1730872223,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 184390,
+      "num": 276813,
+      "word": "权志龙漂眉",
+      "onboard_time": 1732167199,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 184370,
@@ -34083,14 +34123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173774,
-      "num": 953883,
-      "word": "36岁男子熬夜5点睡着7点发生心梗",
-      "onboard_time": 1732165762,
-      "rank": 13,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 173671,
       "num": 173671,
       "word": "凌妙妙 甜不甜嘛",
@@ -35961,6 +35993,14 @@
       "onboard_time": 1731923960,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165424,
+      "num": 165424,
+      "word": "涵艺爆料定制版本",
+      "onboard_time": 1732167319,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 165374,
@@ -42947,6 +42987,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 135717,
+      "num": 275908,
+      "word": "李行亮开车哭",
+      "onboard_time": 1732167619,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135538,
       "num": 135538,
       "word": "永夜星河 捡手机",
@@ -43681,6 +43729,14 @@
       "onboard_time": 1730456117,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131903,
+      "num": 635076,
+      "word": "孙颖莎2比3遭陈幸同逆转",
+      "onboard_time": 1732167499,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 131879,
@@ -47697,6 +47753,14 @@
       "onboard_time": 1730803582,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112343,
+      "num": 843215,
+      "word": "陈幸同女单8强",
+      "onboard_time": 1732166719,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 112247,
@@ -52203,6 +52267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80455,
+      "num": 956701,
+      "word": "梁王组合vs印尼组合",
+      "onboard_time": 1732149800,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80440,
       "num": 199912,
       "word": "郑业成4分钟花絮20年功底",
@@ -53689,6 +53761,14 @@
       "onboard_time": 1730867545,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68755,
+      "num": 260211,
+      "word": "林一手疼是自己设计的",
+      "onboard_time": 1732166898,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 68752,
@@ -55289,6 +55369,14 @@
       "onboard_time": 1731910400,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59338,
+      "num": 1008070,
+      "word": "山上放火岂能把危险当浪漫",
+      "onboard_time": 1732165340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59313,
@@ -57627,14 +57715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47284,
-      "num": 1008070,
-      "word": "山上放火岂能把危险当浪漫",
-      "onboard_time": 1732165340,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47277,
       "num": 478993,
       "word": "张泽禹进入速冻模式",
@@ -58441,6 +58521,14 @@
       "onboard_time": 1731493099,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43927,
+      "num": 913867,
+      "word": "李书福称甲醇汽车风口已到来",
+      "onboard_time": 1732163902,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 43802,
@@ -62131,6 +62219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31324,
+      "num": 358508,
+      "word": "男性看电影好东西",
+      "onboard_time": 1732167499,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31321,
       "num": 421193,
       "word": "重庆秀山教委回应三学生疑遭校园欺凌",
@@ -62225,14 +62321,6 @@
       "onboard_time": 1730984843,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31151,
-      "num": 913867,
-      "word": "李书福称甲醇汽车风口已到来",
-      "onboard_time": 1732163902,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 31113,
@@ -62724,7 +62812,7 @@
     },
     {
       "raw_hot": 29577,
-      "num": 1636626,
+      "num": 1991798,
       "word": "文化中国行看中国茶在巴西",
       "onboard_time": 1732163600,
       "rank": 2,
@@ -64105,14 +64193,6 @@
       "onboard_time": 1731218420,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25536,
-      "num": 956701,
-      "word": "梁王组合vs印尼组合",
-      "onboard_time": 1732149800,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 25535,
