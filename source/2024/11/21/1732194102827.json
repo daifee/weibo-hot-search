@@ -1,0 +1,410 @@
+{
+  "runTime": 1732194102827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1547365,
+        "num": 1547365,
+        "word": "王宝强被举报涉嫌欺诈",
+        "onboard_time": 1732181121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1029474,
+        "num": 1029474,
+        "word": "医生建议别疯抢医用卫生巾",
+        "onboard_time": 1732188919,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11970,
+        "num": 709123,
+        "word": "巴西与中国茶原来这么有缘",
+        "onboard_time": 1732177400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705773,
+        "num": 705773,
+        "word": "杨子疑似失去所有的力气和手段",
+        "onboard_time": 1732188680,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577576,
+        "num": 577576,
+        "word": "王楚钦vs弗朗西斯卡",
+        "onboard_time": 1732188380,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561944,
+        "num": 561944,
+        "word": "百雀羚官旗日销售额涨500%",
+        "onboard_time": 1732191079,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 534054,
+        "num": 534054,
+        "word": "林诗栋vsA勒布伦",
+        "onboard_time": 1732187361,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88841,
+        "num": 532849,
+        "word": "恩波格斗称举报王宝强属实",
+        "onboard_time": 1732193420,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44436,
+        "num": 527170,
+        "word": "百雀羚为什么被称为国货之光",
+        "onboard_time": 1732190720,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83936,
+        "num": 523771,
+        "word": "加强监管让卫生巾缩水无处遁形",
+        "onboard_time": 1732192281,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 849419,
+        "num": 521376,
+        "word": "姑娘频繁美甲指甲上现三叉戟",
+        "onboard_time": 1732189820,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7177,
+        "num": 514426,
+        "word": "林诗栋顶住了",
+        "onboard_time": 1732193961,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31773,
+        "num": 511149,
+        "word": "林诗栋晋级总决赛8强",
+        "onboard_time": 1732193902,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18917,
+        "num": 507887,
+        "word": "国乒男队首胜",
+        "onboard_time": 1732193902,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8617,
+        "num": 502015,
+        "word": "林诗栋3比1A勒布伦",
+        "onboard_time": 1732193902,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393418,
+        "num": 499273,
+        "word": "BIGBANG",
+        "onboard_time": 1732190360,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64426,
+        "num": 494933,
+        "word": "网传iG新赛季阵容",
+        "onboard_time": 1732193601,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78084,
+        "num": 489978,
+        "word": "币圈富豪花4500万买了一根香蕉",
+        "onboard_time": 1732193362,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30843,
+        "num": 485696,
+        "word": "保护好我们的国货品牌",
+        "onboard_time": 1732190720,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31677,
+        "num": 483488,
+        "word": "百雀羚圆叶牵牛提取物是什么",
+        "onboard_time": 1732192459,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 324025,
+        "num": 479671,
+        "word": "小S戒酒后状态",
+        "onboard_time": 1732192219,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1592016,
+        "num": 473808,
+        "word": "兰州交大情侣楼梯间发生不雅行为",
+        "onboard_time": 1732191980,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1261448,
+        "num": 471188,
+        "word": "麦琳 窒息",
+        "onboard_time": 1732186340,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706807,
+        "num": 466134,
+        "word": "卫生巾新国标正在起草",
+        "onboard_time": 1732179320,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661035,
+        "num": 464290,
+        "word": "李行亮 麦琳",
+        "onboard_time": 1732188739,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580067,
+        "num": 457915,
+        "word": "丁禹兮买了1218套虞书欣杂志",
+        "onboard_time": 1732179679,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234119,
+        "num": 457221,
+        "word": "马嘉祺宋亚轩 走马",
+        "onboard_time": 1732192580,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103744,
+        "num": 452073,
+        "word": "李行亮送给麦琳的七夕礼物",
+        "onboard_time": 1732190179,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339967,
+        "num": 445797,
+        "word": "金靖出月子",
+        "onboard_time": 1732193362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45005,
+        "num": 445150,
+        "word": "原来百雀羚一直在坚持植物提取",
+        "onboard_time": 1732190540,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 441138,
+        "num": 441138,
+        "word": "郭碧婷 怀孕生子是一件很美好的事",
+        "onboard_time": 1732183582,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34898,
+        "num": 414420,
+        "word": "下一战歌手总决赛宣言",
+        "onboard_time": 1732192762,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413435,
+        "num": 413435,
+        "word": "获校资助困难学生晒国内外旅游照",
+        "onboard_time": 1732188200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390612,
+        "num": 390612,
+        "word": "网友连卫生巾名字都帮雷军想好了",
+        "onboard_time": 1732182920,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 319773,
+        "num": 319773,
+        "word": "虞书欣给丁禹兮认错",
+        "onboard_time": 1732187480,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255109,
+        "num": 255109,
+        "word": "浙大回应家庭困难学生晒旅游照",
+        "onboard_time": 1732184600,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83075,
+        "num": 232903,
+        "word": "白夜破晓审讯戏",
+        "onboard_time": 1732193420,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218983,
+        "num": 218983,
+        "word": "WTT福冈总决赛2024",
+        "onboard_time": 1732192459,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212344,
+        "num": 212344,
+        "word": "女子取走男友部分骨灰被其母诉赔偿",
+        "onboard_time": 1732184600,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182385,
+        "num": 182385,
+        "word": "胖东来神似倪妮员工离职",
+        "onboard_time": 1732166419,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179424,
+        "num": 179424,
+        "word": "洲际导弹",
+        "onboard_time": 1732182020,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 30581,
+        "num": 179346,
+        "word": "乌镇峰会AI元素满满",
+        "onboard_time": 1732179500,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179340,
+        "num": 179340,
+        "word": "李行亮公主抱麦琳摔了",
+        "onboard_time": 1732165525,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174240,
+        "num": 174240,
+        "word": "中美防长未会晤责任完全在美方",
+        "onboard_time": 1732193119,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160461,
+        "num": 160461,
+        "word": "英伟达一天赚8套北京四合院",
+        "onboard_time": 1732185440,
+        "rank": 44,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 160199,
+        "num": 160199,
+        "word": "小伙满身疤痕自信展示身材",
+        "onboard_time": 1732192819,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 159365,
+        "num": 159365,
+        "word": "兰州交大回应情侣楼梯间不雅行为",
+        "onboard_time": 1732194020,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 158597,
+        "num": 158597,
+        "word": "无期迷途新ui",
+        "onboard_time": 1732193542,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153378,
+        "num": 153378,
+        "word": "留几手说丁克的原因",
+        "onboard_time": 1732185982,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153347,
+        "num": 153347,
+        "word": "金靖疑似生的男孩",
+        "onboard_time": 1732193542,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#相约2024世界互联网大会#"
+    }
+  }
+}
