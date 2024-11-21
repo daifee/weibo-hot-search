@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732181135972,
+  "endTime": 1732181984690,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -361,6 +361,14 @@
       "onboard_time": 1731765082,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3532757,
+      "num": 3532757,
+      "word": "王宝强被举报涉嫌欺诈",
+      "onboard_time": 1732181121,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3475710,
@@ -977,14 +985,6 @@
       "onboard_time": 1731979578,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2084830,
-      "num": 2084830,
-      "word": "王宝强被举报涉嫌欺诈",
-      "onboard_time": 1732181121,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2064336,
@@ -7539,6 +7539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734834,
+      "num": 327968,
+      "word": "李行亮离婚会把四分之三财产给麦琳",
+      "onboard_time": 1732180640,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734419,
       "num": 734419,
       "word": "迪丽热巴掏出睫毛夹笑飞了",
@@ -11124,7 +11132,7 @@
     },
     {
       "raw_hot": 548889,
-      "num": 319657,
+      "num": 325014,
       "word": "乌军称俄罗斯发射洲际弹道导弹",
       "onboard_time": 1732179320,
       "rank": 22,
@@ -14833,14 +14841,6 @@
       "onboard_time": 1731128360,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 417559,
-      "num": 289543,
-      "word": "李行亮离婚会把四分之三财产给麦琳",
-      "onboard_time": 1732180640,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 417468,
@@ -18763,6 +18763,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 319467,
+      "num": 319467,
+      "word": "请于东来去除爹味",
+      "onboard_time": 1732176619,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 319207,
       "num": 273602,
       "word": "姜妍是虞书欣的认证闺蜜",
@@ -20011,6 +20019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293829,
+      "num": 293829,
+      "word": "房贷利率下调月供反而多了",
+      "onboard_time": 1732181181,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293787,
       "num": 371386,
       "word": "锤娜丽莎最好用的卸妆油是李川",
@@ -21169,14 +21185,6 @@
       "onboard_time": 1732023861,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273669,
-      "num": 301922,
-      "word": "请于东来去除爹味",
-      "onboard_time": 1732176619,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 273618,
@@ -31547,6 +31555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188633,
+      "num": 188633,
+      "word": "湖南平江发现超40条金矿脉",
+      "onboard_time": 1732180820,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188574,
       "num": 188574,
       "word": "苏57一来就是招牌动作落叶飘",
@@ -31681,6 +31697,14 @@
       "onboard_time": 1731413903,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188060,
+      "num": 188060,
+      "word": "胖东来",
+      "onboard_time": 1732181301,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188027,
@@ -39427,6 +39451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152663,
+      "num": 152663,
+      "word": "医生建议避免医用卫生巾过度消费",
+      "onboard_time": 1732181900,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 152608,
       "num": 348291,
       "word": "歼15T也来了",
@@ -40345,14 +40377,6 @@
       "onboard_time": 1731288917,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 149442,
-      "num": 149442,
-      "word": "湖南平江发现超40条金矿脉",
-      "onboard_time": 1732180820,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149429,
@@ -41923,6 +41947,14 @@
       "category": "音乐,演出"
     },
     {
+      "raw_hot": 142443,
+      "num": 458639,
+      "word": "王楚钦换手救球",
+      "onboard_time": 1732181719,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142381,
       "num": 142381,
       "word": "祁煜 猫咪小鱼",
@@ -42225,6 +42257,14 @@
       "onboard_time": 1732034236,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141039,
+      "num": 418159,
+      "word": "文旅局回应女驴友遭马夫猥亵",
+      "onboard_time": 1732181301,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 141031,
@@ -45129,6 +45169,14 @@
       "onboard_time": 1730688619,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127653,
+      "num": 360315,
+      "word": "王源鸳鸯鞋",
+      "onboard_time": 1732180640,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127584,
@@ -51091,6 +51139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94947,
+      "num": 656520,
+      "word": "一人一句为388万考研人加油",
+      "onboard_time": 1732174998,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 94943,
       "num": 213131,
       "word": "B超里的我们",
@@ -51305,6 +51361,14 @@
       "onboard_time": 1731810980,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 92749,
+      "num": 188117,
+      "word": "林允眼神里的悲悯感",
+      "onboard_time": 1732181781,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 92617,
@@ -51889,14 +51953,6 @@
       "onboard_time": 1730512157,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87681,
-      "num": 307802,
-      "word": "王源鸳鸯鞋",
-      "onboard_time": 1732180640,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 87613,
@@ -52547,6 +52603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82461,
+      "num": 525552,
+      "word": "被红米体刷屏了",
+      "onboard_time": 1732176319,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82411,
       "num": 82411,
       "word": "蔡徐坤上海活动生图状态",
@@ -52811,6 +52875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80522,
+      "num": 492828,
+      "word": "中国妇女报评卫生巾缩水事件",
+      "onboard_time": 1732181362,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 80455,
       "num": 956701,
       "word": "梁王组合vs印尼组合",
@@ -52937,14 +53009,6 @@
       "onboard_time": 1730484433,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79572,
-      "num": 525552,
-      "word": "被红米体刷屏了",
-      "onboard_time": 1732176319,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 79334,
@@ -53883,14 +53947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71767,
-      "num": 656520,
-      "word": "一人一句为388万考研人加油",
-      "onboard_time": 1732174998,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 71737,
       "num": 200961,
       "word": "2024中国男足最后一战",
@@ -54825,6 +54881,14 @@
       "onboard_time": 1731583941,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65907,
+      "num": 417820,
+      "word": "卫生巾不需要太多花哨的功能",
+      "onboard_time": 1732180159,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65847,
@@ -55929,6 +55993,14 @@
       "onboard_time": 1731425422,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 59565,
+      "num": 1100879,
+      "word": "乌镇峰会AI元素满满",
+      "onboard_time": 1732179500,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59553,
@@ -57603,14 +57675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51138,
-      "num": 1100879,
-      "word": "乌镇峰会AI元素满满",
-      "onboard_time": 1732179500,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51136,
       "num": 385359,
       "word": "贾樟柯请求观众抵制盗版风流一代",
@@ -58595,14 +58659,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 46476,
-      "num": 417820,
-      "word": "卫生巾不需要太多花哨的功能",
-      "onboard_time": 1732180159,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46376,
       "num": 363975,
       "word": "竞业限制补少赔多公平吗",
@@ -59200,6 +59256,14 @@
       "word": "陈幸同钱天一三局仅耗时19分钟",
       "onboard_time": 1732176979,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43806,
+      "num": 432161,
+      "word": "陈幸同钱天一回应晋级4强",
+      "onboard_time": 1732181301,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -59841,6 +59905,14 @@
       "onboard_time": 1730646320,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41146,
+      "num": 377389,
+      "word": "毕雯珺生日直播",
+      "onboard_time": 1732181420,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 41044,
@@ -60705,6 +60777,14 @@
       "onboard_time": 1731060380,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38127,
+      "num": 424204,
+      "word": "CPA接上岸",
+      "onboard_time": 1732181420,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 38109,
@@ -61723,6 +61803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34537,
+      "num": 407908,
+      "word": "T1与教练Tom达成续约",
+      "onboard_time": 1732180940,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34527,
       "num": 468289,
       "word": "专家回应游客在湖南太浮山发现文物",
@@ -62451,6 +62539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32580,
+      "num": 411707,
+      "word": "踩不完的彩妆雷",
+      "onboard_time": 1732180339,
+      "rank": 13,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 32574,
       "num": 517618,
       "word": "来看航展上这些大国重器",
@@ -62601,6 +62697,14 @@
       "onboard_time": 1731639918,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32053,
+      "num": 403452,
+      "word": "各国卫生巾健康隐患",
+      "onboard_time": 1732180940,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32021,
@@ -63123,14 +63227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30941,
-      "num": 407908,
-      "word": "T1与教练Tom达成续约",
-      "onboard_time": 1732180940,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 30940,
       "num": 334234,
       "word": "瑞士卷博主称当时与丈夫闹矛盾",
@@ -63579,6 +63675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29504,
+      "num": 443735,
+      "word": "梁王组合从失利中积累经验",
+      "onboard_time": 1732181600,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29490,
       "num": 462813,
       "word": "徐明浩说想继续更新TEA8",
@@ -63969,14 +64073,6 @@
       "onboard_time": 1731627017,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 28305,
-      "num": 411707,
-      "word": "踩不完的彩妆雷",
-      "onboard_time": 1732180339,
-      "rank": 13,
-      "category": "美妆"
     },
     {
       "raw_hot": 28304,
@@ -66731,6 +66827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20604,
+      "num": 332055,
+      "word": "邵艺辉宋佳钟楚曦谈婚育自由",
+      "onboard_time": 1732178839,
+      "rank": 29,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 20576,
       "num": 246086,
       "word": "飞行教员看徒弟航展表演有多自豪",
@@ -68883,14 +68987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14047,
-      "num": 403452,
-      "word": "各国卫生巾健康隐患",
-      "onboard_time": 1732180940,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14005,
       "num": 45646,
       "word": "盘点中国航展国之重器亮相瞬间",
@@ -70273,6 +70369,14 @@
       "onboard_time": 1731447191,
       "rank": 19,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 8070,
+      "num": 370228,
+      "word": "如何评价伊万用人策略",
+      "onboard_time": 1732181362,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 8007,
