@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732177791476,
+  "endTime": 1732178645937,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4875,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963962,
+      "num": 457534,
+      "word": "奶奶为除虱子用敌敌畏给孩子洗头",
+      "onboard_time": 1732175300,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 959672,
       "num": 959672,
       "word": "救妻丈夫去世妻子目前不知情",
@@ -5633,6 +5641,14 @@
       "onboard_time": 1731479838,
       "rank": 33,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 878149,
+      "num": 1140503,
+      "word": "考研人数10年来第二次下降",
+      "onboard_time": 1732175360,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 877885,
@@ -8396,7 +8412,7 @@
     },
     {
       "raw_hot": 671816,
-      "num": 583337,
+      "num": 651405,
       "word": "祝绪丹照片是嫡长闺虞书欣包的",
       "onboard_time": 1732172001,
       "rank": 11,
@@ -8617,14 +8633,6 @@
       "onboard_time": 1731840919,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 660927,
-      "num": 457534,
-      "word": "奶奶为除虱子用敌敌畏给孩子洗头",
-      "onboard_time": 1732175300,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 660807,
@@ -11427,14 +11435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 536174,
-      "num": 536174,
-      "word": "考研人数10年来第二次下降",
-      "onboard_time": 1732175360,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 536041,
       "num": 536041,
       "word": "范丞丞回应小巷人家演技争议",
@@ -12617,6 +12617,14 @@
       "onboard_time": 1731638837,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492373,
+      "num": 359947,
+      "word": "潘粤明转了7年前的微博",
+      "onboard_time": 1732176020,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 492193,
@@ -18553,14 +18561,6 @@
       "onboard_time": 1730812884,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322250,
-      "num": 322250,
-      "word": "潘粤明转了7年前的微博",
-      "onboard_time": 1732176020,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 321800,
@@ -24947,6 +24947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225174,
+      "num": 225174,
+      "word": "莫雷加德3比2卡尔伯格",
+      "onboard_time": 1732177640,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225074,
       "num": 225074,
       "word": "BLG on",
@@ -25403,6 +25411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221273,
+      "num": 221273,
+      "word": "男子在小米总部喊话雷军后道歉",
+      "onboard_time": 1732177519,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 221221,
       "num": 221221,
       "word": "2025年单休比双休多上52天班",
@@ -25555,14 +25571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219894,
-      "num": 219894,
-      "word": "莫雷加德3比2卡尔伯格",
-      "onboard_time": 1732177640,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219648,
       "num": 219648,
       "word": "我家那小子",
@@ -25705,6 +25713,14 @@
       "onboard_time": 1731644000,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218277,
+      "num": 482479,
+      "word": "李木戈改名",
+      "onboard_time": 1732177519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 218269,
@@ -28651,6 +28667,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 200508,
+      "num": 302247,
+      "word": "今年春节档好热闹",
+      "onboard_time": 1732173078,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200461,
       "num": 200461,
       "word": "双十一",
@@ -30041,14 +30065,6 @@
       "onboard_time": 1731035479,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 194255,
-      "num": 302247,
-      "word": "今年春节档好热闹",
-      "onboard_time": 1732173078,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 194197,
@@ -32555,6 +32571,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 183279,
+      "num": 183279,
+      "word": "请于东来去除爹味",
+      "onboard_time": 1732176619,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 183230,
       "num": 183230,
       "word": "女性神车为何受到女车主吐槽",
@@ -34625,14 +34649,6 @@
       "onboard_time": 1731320000,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 172952,
-      "num": 172952,
-      "word": "男子在小米总部喊话雷军后道歉",
-      "onboard_time": 1732177519,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 172947,
@@ -43347,6 +43363,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 135687,
+      "num": 135687,
+      "word": "35秒直击人民子弟兵训练现场",
+      "onboard_time": 1732178418,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 135538,
       "num": 135538,
       "word": "永夜星河 捡手机",
@@ -46531,6 +46555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120901,
+      "num": 120901,
+      "word": "费启鸣 这次真不演傻子了",
+      "onboard_time": 1732178600,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120870,
       "num": 120870,
       "word": "女子将黔灵山猴子捡回家喂养",
@@ -46568,6 +46600,14 @@
       "word": "老头杯S2阵容确定",
       "onboard_time": 1731164241,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 120605,
+      "num": 120605,
+      "word": "涵艺爆料Gala或加入iG",
+      "onboard_time": 1732174940,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -48161,14 +48201,6 @@
       "onboard_time": 1731732318,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112149,
-      "num": 482479,
-      "word": "李木戈改名",
-      "onboard_time": 1732177519,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 112133,
@@ -53779,6 +53811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71130,
+      "num": 529130,
+      "word": "企业家要克制当大家长的冲动",
+      "onboard_time": 1732177278,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71059,
       "num": 252182,
       "word": "不能没有子期",
@@ -56835,6 +56875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53900,
+      "num": 532297,
+      "word": "该为酒店偷拍负责的元凶都有谁",
+      "onboard_time": 1732177099,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 53897,
       "num": 258794,
       "word": "小鹏发布史上最强财报",
@@ -59371,14 +59419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42125,
-      "num": 532297,
-      "word": "该为酒店偷拍负责的元凶都有谁",
-      "onboard_time": 1732177099,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 42093,
       "num": 1548915,
       "word": "数读我国防沙治沙成绩单",
@@ -59513,6 +59553,14 @@
       "onboard_time": 1731332900,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41657,
+      "num": 525552,
+      "word": "被红米体刷屏了",
+      "onboard_time": 1732176319,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 41656,
@@ -60001,6 +60049,14 @@
       "onboard_time": 1731683360,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 39687,
+      "num": 345364,
+      "word": "王曼昱说赛程更多是以赛代练",
+      "onboard_time": 1732178298,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 39677,
@@ -60617,6 +60673,14 @@
       "onboard_time": 1731552619,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37669,
+      "num": 264377,
+      "word": "麦琳把离婚挂嘴边",
+      "onboard_time": 1732177459,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 37636,
@@ -61467,14 +61531,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 34623,
-      "num": 525552,
-      "word": "被红米体刷屏了",
-      "onboard_time": 1732176319,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 34620,
       "num": 201901,
       "word": "钎城镜头里的夕阳好美",
@@ -62193,14 +62249,6 @@
       "onboard_time": 1731410007,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32875,
-      "num": 529130,
-      "word": "企业家要克制当大家长的冲动",
-      "onboard_time": 1732177278,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32850,
@@ -63185,6 +63233,14 @@
       "onboard_time": 1731753439,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30009,
+      "num": 794068,
+      "word": "巴西与中国茶原来这么有缘",
+      "onboard_time": 1732177400,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30007,
@@ -67891,14 +67947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16327,
-      "num": 264377,
-      "word": "麦琳把离婚挂嘴边",
-      "onboard_time": 1732177459,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16291,
       "num": 58172,
       "word": "神十九发射任务全过程回顾",
@@ -68833,14 +68881,6 @@
       "onboard_time": 1731702370,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13463,
-      "num": 794068,
-      "word": "巴西与中国茶原来这么有缘",
-      "onboard_time": 1732177400,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13460,

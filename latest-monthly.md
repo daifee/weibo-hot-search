@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/21 16:29:51
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/21 16:44:05
 </p>
 </blockquote>
 <p>
@@ -3669,6 +3669,12 @@ Elk神箭（热度：991451）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E4%B8%BA%E9%99%A4%E8%99%B1%E5%AD%90%E7%94%A8%E6%95%8C%E6%95%8C%E7%95%8F%E7%BB%99%E5%AD%A9%E5%AD%90%E6%B4%97%E5%A4%B4%23" target="weibo">
+奶奶为除虱子用敌敌畏给孩子洗头（热度：963962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E5%A6%BB%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96%E5%A6%BB%E5%AD%90%E7%9B%AE%E5%89%8D%E4%B8%8D%E7%9F%A5%E6%83%85%23" target="weibo">
 救妻丈夫去世妻子目前不知情（热度：959672）
 </a>
@@ -4235,6 +4241,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%81%9C%E6%9B%B4%E6%97%B6%E8%A1%A5%E7%9E%8C%E7%9D%A1%E9%99%AA%E5%A5%B6%E5%A5%B6%23" target="weibo">
 李子柒停更时补瞌睡陪奶奶（热度：880517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B010%E5%B9%B4%E6%9D%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%8B%E9%99%8D%23" target="weibo">
+考研人数10年来第二次下降（热度：878149）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ HLE官宣Zeus加入（热度：722415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%81%A5%E6%9E%971.6%E4%BA%BF%E8%8B%B1%E9%95%91%E5%8D%96%E6%8E%89%E8%8B%B1%E5%9B%BD%E6%B8%B8%E8%89%87%E5%88%B6%E9%80%A0%E5%95%86%23" target="weibo">
 王健林1.6亿英镑卖掉英国游艇制造商（热度：697913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9A%E4%BB%81%E5%9B%A0%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E8%AF%B7%E6%B1%82%E5%87%8F%E5%88%91%23" target="weibo">
-刘亚仁因父亲去世请求减刑（热度：697880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%23" target="weibo">
-美联储降息（热度：697382）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1732120202413,
-  "endTime": 1732177791476,
+  "endTime": 1732178645937,
   "band_list": [
     {
       "raw_hot": 4213662,
@@ -163,12 +163,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 963962,
+      "num": 457534,
+      "word": "奶奶为除虱子用敌敌畏给孩子洗头",
+      "onboard_time": 1732175300,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 912677,
       "num": 912677,
       "word": "再见爱人",
       "onboard_time": 1732160479,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 878149,
+      "num": 1140503,
+      "word": "考研人数10年来第二次下降",
+      "onboard_time": 1732175360,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 800637,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 671816,
-      "num": 583337,
+      "num": 651405,
       "word": "祝绪丹照片是嫡长闺虞书欣包的",
       "onboard_time": 1732172001,
       "rank": 11,
@@ -281,14 +297,6 @@
       "onboard_time": 1732167619,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 660927,
-      "num": 457534,
-      "word": "奶奶为除虱子用敌敌畏给孩子洗头",
-      "onboard_time": 1732175300,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 660807,
@@ -307,6 +315,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 609943,
+      "num": 609943,
+      "word": "何与 双轨",
+      "onboard_time": 1732174760,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 605029,
       "num": 393066,
       "word": "易烊千玺打麻将",
@@ -321,14 +337,6 @@
       "onboard_time": 1732153699,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 582848,
-      "num": 535614,
-      "word": "何与 双轨",
-      "onboard_time": 1732174760,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 582573,
@@ -385,14 +393,6 @@
       "onboard_time": 1732167499,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 536174,
-      "num": 536174,
-      "word": "考研人数10年来第二次下降",
-      "onboard_time": 1732175360,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 530314,
@@ -473,6 +473,14 @@
       "onboard_time": 1732117039,
       "rank": 27,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 492373,
+      "num": 359947,
+      "word": "潘粤明转了7年前的微博",
+      "onboard_time": 1732176020,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 461852,
@@ -649,14 +657,6 @@
       "onboard_time": 1732174639,
       "rank": 48,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 322250,
-      "num": 322250,
-      "word": "潘粤明转了7年前的微博",
-      "onboard_time": 1732176020,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 320230,
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225174,
+      "num": 225174,
+      "word": "莫雷加德3比2卡尔伯格",
+      "onboard_time": 1732177640,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223653,
       "num": 197977,
       "word": "侯明昊工作室发文维权",
@@ -939,6 +947,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 221273,
+      "num": 221273,
+      "word": "男子在小米总部喊话雷军后道歉",
+      "onboard_time": 1732177519,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 221221,
       "num": 221221,
       "word": "2025年单休比双休多上52天班",
@@ -947,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219894,
-      "num": 219894,
-      "word": "莫雷加德3比2卡尔伯格",
-      "onboard_time": 1732177640,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 218277,
+      "num": 482479,
+      "word": "李木戈改名",
+      "onboard_time": 1732177519,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 214363,
@@ -1083,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200508,
+      "num": 302247,
+      "word": "今年春节档好热闹",
+      "onboard_time": 1732173078,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199242,
       "num": 199242,
       "word": "徐明浩首张个人EP",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1732163000,
       "rank": 38,
       "category": "电竞,电竞"
-    },
-    {
-      "raw_hot": 194255,
-      "num": 302247,
-      "word": "今年春节档好热闹",
-      "onboard_time": 1732173078,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 194168,
@@ -1275,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183279,
+      "num": 183279,
+      "word": "请于东来去除爹味",
+      "onboard_time": 1732176619,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 182280,
       "num": 182280,
       "word": "荣耀300",
@@ -1339,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172952,
-      "num": 172952,
-      "word": "男子在小米总部喊话雷军后道歉",
-      "onboard_time": 1732177519,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 170086,
       "num": 170086,
       "word": "宁夏沙湖成群野雁追着人飞",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1732156517,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154769,
+      "num": 134097,
+      "word": "丁禹兮工作室",
+      "onboard_time": 1732175478,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 151510,
@@ -1499,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135687,
+      "num": 135687,
+      "word": "35秒直击人民子弟兵训练现场",
+      "onboard_time": 1732178418,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 134335,
       "num": 219306,
       "word": "ENHYPEN将登科切拉",
@@ -1587,6 +1619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120901,
+      "num": 120901,
+      "word": "费启鸣 这次真不演傻子了",
+      "onboard_time": 1732178600,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120605,
+      "num": 120605,
+      "word": "涵艺爆料Gala或加入iG",
+      "onboard_time": 1732174940,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120133,
       "num": 120133,
       "word": "Uzi梦回巅峰",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1732166719,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112149,
-      "num": 482479,
-      "word": "李木戈改名",
-      "onboard_time": 1732177519,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 105936,
@@ -1971,6 +2011,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 71130,
+      "num": 529130,
+      "word": "企业家要克制当大家长的冲动",
+      "onboard_time": 1732177278,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69598,
       "num": 69598,
       "word": "Uzi为无状态鼓掌",
@@ -2091,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53900,
+      "num": 532297,
+      "word": "该为酒店偷拍负责的元凶都有谁",
+      "onboard_time": 1732177099,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50691,
       "num": 184490,
       "word": "王一博上榜好莱坞最受欢迎演员",
@@ -2187,20 +2243,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 42125,
-      "num": 532297,
-      "word": "该为酒店偷拍负责的元凶都有谁",
-      "onboard_time": 1732177099,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 42056,
       "num": 347061,
       "word": "勒布伦兄弟男双进4强",
       "onboard_time": 1732173800,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41657,
+      "num": 525552,
+      "word": "被红米体刷屏了",
+      "onboard_time": 1732176319,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 40955,
@@ -2243,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39687,
+      "num": 345364,
+      "word": "王曼昱说赛程更多是以赛代练",
+      "onboard_time": 1732178298,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39280,
       "num": 261404,
       "word": "侯明昊荣梓杉狂夸陈好",
@@ -2265,6 +2329,14 @@
       "onboard_time": 1732125312,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37669,
+      "num": 264377,
+      "word": "麦琳把离婚挂嘴边",
+      "onboard_time": 1732177459,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 37461,
@@ -2307,28 +2379,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 34623,
-      "num": 525552,
-      "word": "被红米体刷屏了",
-      "onboard_time": 1732176319,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 32957,
       "num": 539905,
       "word": "球迷对国足比分有遗憾但能接受",
       "onboard_time": 1732163120,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32875,
-      "num": 529130,
-      "word": "企业家要克制当大家长的冲动",
-      "onboard_time": 1732177278,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31935,
@@ -2377,6 +2433,14 @@
       "onboard_time": 1732174040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30009,
+      "num": 794068,
+      "word": "巴西与中国茶原来这么有缘",
+      "onboard_time": 1732177400,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29381,
@@ -2547,14 +2611,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 16327,
-      "num": 264377,
-      "word": "麦琳把离婚挂嘴边",
-      "onboard_time": 1732177459,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15430,
       "num": 441126,
       "word": "小高 签名会影响工作",
@@ -2608,14 +2664,6 @@
       "word": "91岁老人走失超20小时多亏了技术汪",
       "onboard_time": 1732131191,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13463,
-      "num": 794068,
-      "word": "巴西与中国茶原来这么有缘",
-      "onboard_time": 1732177400,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
