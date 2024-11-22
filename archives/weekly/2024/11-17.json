@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732296035057,
+  "endTime": 1732297149162,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -5937,6 +5937,14 @@
       "onboard_time": 1731843799,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294436,
+      "num": 294436,
+      "word": "旺仔提出一赔十异物正在检测",
+      "onboard_time": 1732291700,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 294124,
@@ -14043,14 +14051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128051,
-      "num": 173187,
-      "word": "旺仔提出一赔十异物正在检测",
-      "onboard_time": 1732291700,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128020,
       "num": 128020,
       "word": "战损妆配上张予曦的建模脸",
@@ -14817,6 +14817,14 @@
       "onboard_time": 1732144455,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113066,
+      "num": 113066,
+      "word": "丁禹兮早期这么潮",
+      "onboard_time": 1732295355,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 112874,
@@ -15817,14 +15825,6 @@
       "onboard_time": 1731921138,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91361,
-      "num": 72366,
-      "word": "丁禹兮早期这么潮",
-      "onboard_time": 1732295355,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 91065,
@@ -18627,6 +18627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44878,
+      "num": 44878,
+      "word": "MAMA开场",
+      "onboard_time": 1732296914,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44866,
       "num": 277389,
       "word": "启蒙教练说张博恒长大了",
@@ -19771,6 +19779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33649,
+      "num": 93258,
+      "word": "恋与制作人",
+      "onboard_time": 1732296494,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33462,
       "num": 492651,
       "word": "林诗栋回应战胜A勒布伦",
@@ -20444,7 +20460,7 @@
     },
     {
       "raw_hot": 28038,
-      "num": 71767,
+      "num": 72298,
       "word": "张峻豪全白套装墨镜look",
       "onboard_time": 1732295235,
       "rank": 33,
@@ -20545,6 +20561,14 @@
       "onboard_time": 1732222271,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27425,
+      "num": 141967,
+      "word": "旺仔客服称问题商品为线下购买",
+      "onboard_time": 1732296375,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 27250,
@@ -21105,6 +21129,14 @@
       "onboard_time": 1732243218,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22131,
+      "num": 51172,
+      "word": "张杰外南街小孩回家",
+      "onboard_time": 1732296973,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 22112,
@@ -22315,6 +22347,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 10260,
+      "num": 49042,
+      "word": "为什么单向 海猫好没用",
+      "onboard_time": 1732296375,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 10231,
       "num": 34957,
       "word": "60秒速览天舟八号发射",
@@ -22337,6 +22377,14 @@
       "onboard_time": 1731956771,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10117,
+      "num": 114739,
+      "word": "白夜破晓热度破9500",
+      "onboard_time": 1732296195,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 10088,
