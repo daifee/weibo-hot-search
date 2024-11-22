@@ -1,0 +1,410 @@
+{
+  "runTime": 1732245022425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 698625,
+        "num": 1111780,
+        "word": "李行亮道歉这段",
+        "onboard_time": 1732236798,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610332,
+        "num": 610332,
+        "word": "丫丫的脸逐渐向着正圆发展",
+        "onboard_time": 1732239378,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 32250,
+        "num": 580608,
+        "word": "乌镇来了个机器人导游",
+        "onboard_time": 1732244118,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572524,
+        "num": 572524,
+        "word": "电影误杀3定档",
+        "onboard_time": 1732244059,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369257,
+        "num": 369257,
+        "word": "小雪",
+        "onboard_time": 1732233978,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399392,
+        "num": 365131,
+        "word": "员工称胖东来不卖农夫山泉绿瓶水",
+        "onboard_time": 1732214352,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 553696,
+        "num": 358084,
+        "word": "李行亮听到麦琳怕动物的表情",
+        "onboard_time": 1732240758,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375790,
+        "num": 357968,
+        "word": "金正恩说朝鲜半岛核战争一触即发",
+        "onboard_time": 1732236019,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349821,
+        "num": 349821,
+        "word": "地铁通勤每月费用超过300元贵吗",
+        "onboard_time": 1732236378,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 22761,
+        "num": 347574,
+        "word": "记者打卡互联网之光新看点",
+        "onboard_time": 1732243578,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2026055,
+        "num": 337341,
+        "word": "情侣亲密时酒店房间遭两男子闯入",
+        "onboard_time": 1732241418,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542904,
+        "num": 326843,
+        "word": "涉事骑友回应女子被其嘲讽后自杀",
+        "onboard_time": 1732239796,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 534221,
+        "num": 316131,
+        "word": "于正曝演员因粉丝抵制剧本而睡不着",
+        "onboard_time": 1732240159,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352939,
+        "num": 311929,
+        "word": "王安宇收拾收拾准备升咖",
+        "onboard_time": 1732243398,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307689,
+        "num": 307689,
+        "word": "家业",
+        "onboard_time": 1732240698,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275143,
+        "num": 275143,
+        "word": "这下我承认丁禹兮付出的比我多了",
+        "onboard_time": 1732240878,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257752,
+        "num": 257752,
+        "word": "郭晓东回应蒋欣人间处处是超英",
+        "onboard_time": 1732238839,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256013,
+        "num": 256013,
+        "word": "泽连斯基回应俄对乌试验新型中程导弹",
+        "onboard_time": 1732233077,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239110,
+        "num": 239110,
+        "word": "女子偷记密码转走老人百万存款",
+        "onboard_time": 1732237338,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68238,
+        "num": 233565,
+        "word": "殷世航 东南vip",
+        "onboard_time": 1732244358,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372504,
+        "num": 232964,
+        "word": "工作人员看麦琳的表情",
+        "onboard_time": 1732202720,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232355,
+        "num": 232355,
+        "word": "内蒙古奶皮子冰糖葫芦爆火",
+        "onboard_time": 1732236919,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216066,
+        "num": 216066,
+        "word": "小偷车里睡了一觉到派出所了",
+        "onboard_time": 1732243218,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188736,
+        "num": 188736,
+        "word": "小孩哥竟然在酒店窗台发现化石",
+        "onboard_time": 1732235838,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18882,
+        "num": 177148,
+        "word": "电影好东西里的新关系",
+        "onboard_time": 1732243218,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169700,
+        "num": 177147,
+        "word": "徐志胜 我blue了",
+        "onboard_time": 1732239197,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177147,
+        "num": 177146,
+        "word": "永夜星河团综",
+        "onboard_time": 1732238957,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52484,
+        "num": 177109,
+        "word": "王楚钦说想专注赢下每一分",
+        "onboard_time": 1732244838,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27616,
+        "num": 176735,
+        "word": "金摇杆最佳独立游戏奖",
+        "onboard_time": 1732243818,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14129,
+        "num": 176564,
+        "word": "出圈群演沈凯谈做群演也要认真对待",
+        "onboard_time": 1732243218,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332120,
+        "num": 176116,
+        "word": "金正恩称朝鲜尽了最大努力和美国协商",
+        "onboard_time": 1732237699,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160218,
+        "num": 175840,
+        "word": "陈哲远比心张婧仪比赞",
+        "onboard_time": 1732242917,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175758,
+        "num": 175758,
+        "word": "小雪节气该吃啥",
+        "onboard_time": 1732219271,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 160441,
+        "num": 160441,
+        "word": "赵露思拍戏休息时购物",
+        "onboard_time": 1732236438,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 152914,
+        "word": "普京回应俄罗斯发射高超音速导弹",
+        "onboard_time": 1732242678,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149077,
+        "num": 149077,
+        "word": "王OK 李天责",
+        "onboard_time": 1732238419,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146577,
+        "num": 146577,
+        "word": "喜剧大会 按时下班就是消极加班",
+        "onboard_time": 1732244358,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142089,
+        "num": 142089,
+        "word": "女子拒还前男友1170万买房款",
+        "onboard_time": 1732200800,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140892,
+        "num": 140892,
+        "word": "虞书欣登顶内娱女星杂志销量第一",
+        "onboard_time": 1732203379,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139825,
+        "num": 139825,
+        "word": "香港空姐10平米月租8千的家",
+        "onboard_time": 1732236378,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138547,
+        "num": 138547,
+        "word": "MAMA颁奖礼",
+        "onboard_time": 1732241418,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136418,
+        "num": 136418,
+        "word": "月经期间身体发生了什么变化",
+        "onboard_time": 1732235359,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133523,
+        "num": 133523,
+        "word": "丁禹兮年上沈渡年下慕声",
+        "onboard_time": 1732240818,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131867,
+        "num": 131867,
+        "word": "知情人透露卫生巾新国标起草进度",
+        "onboard_time": 1732240578,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127351,
+        "num": 127351,
+        "word": "王楚钦谈再战莫雷加德",
+        "onboard_time": 1732241238,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123477,
+        "num": 123477,
+        "word": "MAMA直播",
+        "onboard_time": 1732239319,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118232,
+        "num": 118232,
+        "word": "一片好心没盖住于东来的爹味",
+        "onboard_time": 1732217532,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117551,
+        "num": 117551,
+        "word": "用中式美学打开小雪节气",
+        "onboard_time": 1732241061,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 117044,
+        "num": 117044,
+        "word": "CPA成绩",
+        "onboard_time": 1732233136,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113455,
+        "num": 113455,
+        "word": "T1老板爆料Zeus离队始末",
+        "onboard_time": 1732235838,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#相约2024世界互联网大会#"
+    }
+  }
+}
