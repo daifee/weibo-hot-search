@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732275349806,
+  "endTime": 1732279444744,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1421701,
-      "num": 431596,
+      "num": 627937,
       "word": "麦琳 删评论",
       "onboard_time": 1732268058,
       "rank": 28,
@@ -569,6 +569,14 @@
       "onboard_time": 1732020080,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1351322,
+      "num": 1351322,
+      "word": "旺仔回应",
+      "onboard_time": 1732276040,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 1345175,
@@ -633,6 +641,14 @@
       "onboard_time": 1732151359,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1306615,
+      "num": 1306615,
+      "word": "教育局称出轨中学生女教师已停职",
+      "onboard_time": 1732277359,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1294429,
@@ -721,6 +737,14 @@
       "onboard_time": 1732097660,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1236161,
+      "num": 1236161,
+      "word": "何炅主持最尴尬的一次",
+      "onboard_time": 1732276040,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1234328,
@@ -3331,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527338,
+      "num": 286731,
+      "word": "卫生巾塌房用什么才安全",
+      "onboard_time": 1732274720,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 525546,
       "num": 587909,
       "word": "人社局回应胖东来员工新规",
@@ -3473,6 +3505,14 @@
       "onboard_time": 1732011861,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508499,
+      "num": 286243,
+      "word": "张本智和vs张禹珍",
+      "onboard_time": 1732278140,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 505565,
@@ -3987,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440611,
+      "num": 440611,
+      "word": "全场一起APT",
+      "onboard_time": 1732277179,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 439197,
       "num": 439197,
       "word": "武契奇深夜给中国工人送夜宵",
@@ -4161,6 +4209,14 @@
       "onboard_time": 1732235838,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416337,
+      "num": 284657,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1732272918,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 416298,
@@ -4963,6 +5019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 344227,
+      "num": 283562,
+      "word": "解说称王楚钦最后一板做到了极致",
+      "onboard_time": 1732274240,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343971,
       "num": 343971,
       "word": "WTT福冈总决赛签表",
@@ -5331,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313039,
+      "num": 281762,
+      "word": "朴智旻获MAMA大赏",
+      "onboard_time": 1732278799,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 312716,
       "num": 312716,
       "word": "A股牛市结束了吗",
@@ -5577,6 +5649,14 @@
       "onboard_time": 1731986179,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 297866,
+      "num": 319428,
+      "word": "2019年的肖战vs2024年的肖战",
+      "onboard_time": 1732273579,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 296960,
@@ -5859,6 +5939,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 281344,
+      "num": 281344,
+      "word": "男子花三千嫖娼后又偷走犯盗窃罪",
+      "onboard_time": 1732279039,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280953,
       "num": 401300,
       "word": "JYP公司只有JYP去了MAMA",
@@ -5985,14 +6073,6 @@
       "onboard_time": 1731774141,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 275265,
-      "num": 275265,
-      "word": "卫生巾塌房用什么才安全",
-      "onboard_time": 1732274720,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 275141,
@@ -6611,14 +6691,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 247764,
-      "num": 247764,
-      "word": "MAMA获奖名单",
-      "onboard_time": 1732272918,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 247744,
       "num": 247744,
       "word": "卢昱晓配音谁找的",
@@ -7059,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231232,
+      "num": 231232,
+      "word": "麦琳",
+      "onboard_time": 1732275619,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231056,
       "num": 188579,
       "word": "怀9胞胎女子丈夫希望留两胎",
@@ -7299,6 +7379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223300,
+      "num": 223300,
+      "word": "王耀庆 丁禹兮随谁叫的舅舅",
+      "onboard_time": 1732279340,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223290,
       "num": 223290,
       "word": "丁禹兮圣猴名不虚传",
@@ -7441,6 +7529,14 @@
       "onboard_time": 1731905781,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 220910,
+      "num": 220910,
+      "word": "虞书欣刚开机就请客了",
+      "onboard_time": 1732279280,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 220470,
@@ -7715,6 +7811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212556,
+      "num": 212556,
+      "word": "旺旺集团首席营运官回应",
+      "onboard_time": 1732278380,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 212409,
       "num": 360166,
       "word": "林俊杰超越音符",
@@ -7969,14 +8073,6 @@
       "onboard_time": 1732165340,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207974,
-      "num": 319428,
-      "word": "2019年的肖战vs2024年的肖战",
-      "onboard_time": 1732273579,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 207838,
@@ -8555,14 +8651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199109,
-      "num": 199109,
-      "word": "解说称王楚钦最后一板做到了极致",
-      "onboard_time": 1732274240,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198815,
       "num": 198815,
       "word": "广东人开始了时尚穿衣模式",
@@ -8801,6 +8889,14 @@
       "onboard_time": 1731904881,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195689,
+      "num": 282961,
+      "word": "内娱艺人实体杂志销量TOP30",
+      "onboard_time": 1732278078,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 195659,
@@ -9177,6 +9273,14 @@
       "onboard_time": 1731991041,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189837,
+      "num": 189837,
+      "word": "崩坏星穹铁道前瞻",
+      "onboard_time": 1732279039,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 189782,
@@ -9779,6 +9883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182340,
+      "num": 182340,
+      "word": "网红丐中丐夫妻车上直播时遇难",
+      "onboard_time": 1732276221,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182280,
       "num": 182280,
       "word": "荣耀300",
@@ -9849,6 +9961,14 @@
       "onboard_time": 1732250120,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181153,
+      "num": 181153,
+      "word": "下一战歌手总决赛",
+      "onboard_time": 1732278859,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 181144,
@@ -10059,6 +10179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177474,
+      "num": 259586,
+      "word": "好东西",
+      "onboard_time": 1731889097,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177452,
       "num": 177452,
       "word": "马斯克上位史",
@@ -10251,6 +10379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174728,
+      "num": 174728,
+      "word": "丁禹兮请同事喝下午茶",
+      "onboard_time": 1732277240,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174724,
       "num": 459780,
       "word": "NewJeans大部分工作人员将辞职",
@@ -10315,6 +10451,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 173865,
+      "num": 173865,
+      "word": "好了现在赵露思欠我15块钱",
+      "onboard_time": 1732278620,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173780,
       "num": 173780,
       "word": "闪耀的恒星",
@@ -10329,6 +10473,14 @@
       "onboard_time": 1731954912,
       "rank": 1,
       "category": "游戏,电竞"
+    },
+    {
+      "raw_hot": 173144,
+      "num": 173144,
+      "word": "王楚钦回应一举一动都被关注",
+      "onboard_time": 1732276700,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 173115,
@@ -10659,6 +10811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168682,
+      "num": 168682,
+      "word": "小米回应70多辆SU7自动泊车撞墙",
+      "onboard_time": 1732279159,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168611,
       "num": 464035,
       "word": "教育局回应小蜜蜂老师身份质疑",
@@ -10689,6 +10849,14 @@
       "onboard_time": 1732013359,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167833,
+      "num": 167833,
+      "word": "朴成训 吸血鬼王子",
+      "onboard_time": 1732279280,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 167301,
@@ -11203,6 +11371,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 159468,
+      "num": 159468,
+      "word": "李祯的开机日记",
+      "onboard_time": 1732278559,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159438,
       "num": 159438,
       "word": "孙颖莎第一副球拍4块钱",
@@ -11411,14 +11587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157245,
-      "num": 259586,
-      "word": "好东西",
-      "onboard_time": 1731889097,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157177,
       "num": 157177,
       "word": "国际刑事法院向内塔尼亚胡发出逮捕令",
@@ -11433,6 +11601,14 @@
       "onboard_time": 1731816859,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156920,
+      "num": 156920,
+      "word": "卫生巾们正视女性需求很难吗",
+      "onboard_time": 1732274900,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 156872,
@@ -12299,14 +12475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144896,
-      "num": 144896,
-      "word": "卫生巾们正视女性需求很难吗",
-      "onboard_time": 1732274900,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 144885,
       "num": 144885,
       "word": "宁艺卓庆祝aespa四周年",
@@ -13161,6 +13329,14 @@
       "onboard_time": 1731945078,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 130714,
+      "num": 285557,
+      "word": "林诗栋vs邱党",
+      "onboard_time": 1732278559,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 130641,
@@ -16324,7 +16500,7 @@
     },
     {
       "raw_hot": 62853,
-      "num": 1062140,
+      "num": 1252903,
       "word": "中国已发展成全球最大互联网市场",
       "onboard_time": 1732264279,
       "rank": 2,
@@ -16667,6 +16843,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 58546,
+      "num": 285486,
+      "word": "30天婚假如何真正落地",
+      "onboard_time": 1732277600,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58511,
       "num": 399620,
       "word": "林高远林诗栋无缘男双四强",
@@ -16737,6 +16921,14 @@
       "onboard_time": 1732033516,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57925,
+      "num": 267708,
+      "word": "边狱巴士 明日方舟",
+      "onboard_time": 1732276098,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 57725,
@@ -17385,6 +17577,14 @@
       "onboard_time": 1732090341,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50229,
+      "num": 285434,
+      "word": "白夜2林嘉茵死因",
+      "onboard_time": 1732272858,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 50134,
@@ -19243,6 +19443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30128,
+      "num": 157088,
+      "word": "花椒冰淇淋",
+      "onboard_time": 1732276040,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30100,
       "num": 375407,
       "word": "军团杯明星赛训团集结",
@@ -19353,14 +19561,6 @@
       "onboard_time": 1732199840,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29247,
-      "num": 285434,
-      "word": "白夜2林嘉茵死因",
-      "onboard_time": 1732272858,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 29221,
@@ -19560,6 +19760,14 @@
       "word": "陈伟霆刘雅瑟首部网飞剧",
       "onboard_time": 1732009159,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27431,
+      "num": 283210,
+      "word": "韩彬人设",
+      "onboard_time": 1732273820,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -21497,6 +21705,14 @@
       "onboard_time": 1732254020,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7646,
+      "num": 152271,
+      "word": "红枣姜奶茶",
+      "onboard_time": 1732279220,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 7599,
