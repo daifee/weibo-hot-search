@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732257154277,
+  "endTime": 1732257968208,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2297539,
+      "num": 2297539,
+      "word": "受王宝强资助孩子父亲发声",
+      "onboard_time": 1732254139,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2161475,
       "num": 2161475,
       "word": "4万人死亡也换不来美国的同情心吗",
@@ -184,14 +192,6 @@
       "word": "制片人晒王宝强转账记录",
       "onboard_time": 1732247538,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2129059,
-      "num": 2129059,
-      "word": "受王宝强资助孩子父亲发声",
-      "onboard_time": 1732254139,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -2563,6 +2563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 626254,
+      "num": 605163,
+      "word": "中方回应特朗普所谓60%关税",
+      "onboard_time": 1732255939,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 626071,
       "num": 444945,
       "word": "向佐 不漂亮的时候也不想人见到我",
@@ -2633,14 +2641,6 @@
       "onboard_time": 1731983658,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 605163,
-      "num": 605163,
-      "word": "中方回应特朗普所谓60%关税",
-      "onboard_time": 1732255939,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 603703,
@@ -3523,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477228,
+      "num": 385953,
+      "word": "费启鸣 出戏",
+      "onboard_time": 1732256118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476393,
       "num": 282539,
       "word": "这下我承认丁禹兮付出的比我多了",
@@ -3747,6 +3755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 440623,
+      "num": 414858,
+      "word": "林栋哲头发是王安宇在冰岛剪的",
+      "onboard_time": 1732254439,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439197,
       "num": 439197,
       "word": "武契奇深夜给中国工人送夜宵",
@@ -3937,14 +3953,6 @@
       "onboard_time": 1732097780,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 414858,
-      "num": 414858,
-      "word": "林栋哲头发是王安宇在冰岛剪的",
-      "onboard_time": 1732254439,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 414752,
@@ -4627,6 +4635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350422,
+      "num": 350422,
+      "word": "虞书欣丁禹兮月光新图",
+      "onboard_time": 1732256359,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350334,
       "num": 350334,
       "word": "白夜破晓",
@@ -4825,14 +4841,6 @@
       "onboard_time": 1732166002,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 324747,
-      "num": 262262,
-      "word": "费启鸣 出戏",
-      "onboard_time": 1732256118,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 324423,
@@ -5289,6 +5297,14 @@
       "onboard_time": 1732007120,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296435,
+      "num": 204463,
+      "word": "麦琳戳穿了李行亮的爱妻面具",
+      "onboard_time": 1732257379,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 295623,
@@ -6139,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250985,
+      "num": 427476,
+      "word": "官方回应卫生巾新国标",
+      "onboard_time": 1732256661,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 250967,
       "num": 250967,
       "word": "钟南山建议这类人群每年查肺功能",
@@ -6259,20 +6283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246099,
+      "num": 244675,
+      "word": "麦学 1加1等于10理论",
+      "onboard_time": 1732254739,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246053,
       "num": 173552,
       "word": "台湾一男子高铁上持刀猛插椅背",
       "onboard_time": 1731888739,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244675,
-      "num": 244675,
-      "word": "麦学 1加1等于10理论",
-      "onboard_time": 1732254739,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 244174,
@@ -6457,6 +6481,14 @@
       "onboard_time": 1731821960,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238498,
+      "num": 238498,
+      "word": "A股牛结束了吗",
+      "onboard_time": 1732254318,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 238459,
@@ -6675,14 +6707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 229799,
-      "num": 293845,
-      "word": "虞书欣丁禹兮月光新图",
-      "onboard_time": 1732256359,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229445,
       "num": 229445,
       "word": "脱口秀人团建是不是忘叫付航了",
@@ -6713,6 +6737,14 @@
       "onboard_time": 1732084759,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228604,
+      "num": 228604,
+      "word": "瓦格纳绝杀湖人",
+      "onboard_time": 1732256899,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 227915,
@@ -6761,14 +6793,6 @@
       "onboard_time": 1732256118,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225927,
-      "num": 225927,
-      "word": "A股牛结束了吗",
-      "onboard_time": 1732254318,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 225527,
@@ -7257,6 +7281,14 @@
       "onboard_time": 1731928219,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211261,
+      "num": 416867,
+      "word": "李行亮干翻扬子霸总人设",
+      "onboard_time": 1732253480,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 211227,
@@ -8097,14 +8129,6 @@
       "onboard_time": 1732084701,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196999,
-      "num": 416867,
-      "word": "李行亮干翻扬子霸总人设",
-      "onboard_time": 1732253480,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 196637,
@@ -9955,14 +9979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167663,
-      "num": 167663,
-      "word": "瓦格纳绝杀湖人",
-      "onboard_time": 1732256899,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "奔跑吧茶马古道篇",
@@ -10699,14 +10715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154743,
-      "num": 427476,
-      "word": "官方回应卫生巾新国标",
-      "onboard_time": 1732256661,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 154677,
       "num": 154677,
       "word": "微笑回应水晶哥队判负",
@@ -10971,6 +10979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151029,
+      "num": 150081,
+      "word": "留几手 天天都是别人的事",
+      "onboard_time": 1732257919,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150908,
       "num": 184246,
       "word": "网剧星辰令",
@@ -11027,6 +11043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150318,
+      "num": 150318,
+      "word": "中国已同25个国家全面免签",
+      "onboard_time": 1732257198,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150281,
       "num": 150281,
       "word": "张真源 我永远忘不掉这几天的日子",
@@ -11073,6 +11097,14 @@
       "onboard_time": 1731901819,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149608,
+      "num": 149608,
+      "word": "恩波格斗俱乐部声明",
+      "onboard_time": 1732257919,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149469,
@@ -11891,6 +11923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139024,
+      "num": 139024,
+      "word": "税务师",
+      "onboard_time": 1732257679,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138644,
       "num": 197192,
       "word": "浙江实行痛经假已经七年",
@@ -12419,6 +12459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128883,
+      "num": 128883,
+      "word": "不要彩礼不啃老关老板什么事",
+      "onboard_time": 1732256299,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128826,
       "num": 128826,
       "word": "微信内测原图14天变普通图",
@@ -12481,6 +12529,14 @@
       "onboard_time": 1731827419,
       "rank": 38,
       "category": "演出,作品衍生"
+    },
+    {
+      "raw_hot": 128169,
+      "num": 128169,
+      "word": "股票代码后两位数字相同个股掀涨停潮",
+      "onboard_time": 1732257679,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 128154,
@@ -12632,14 +12688,6 @@
       "word": "遭遇严重事故后会PTSD多久",
       "onboard_time": 1732157898,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125181,
-      "num": 125181,
-      "word": "不要彩礼不啃老关老板什么事",
-      "onboard_time": 1732256299,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -14835,6 +14883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75396,
+      "num": 380787,
+      "word": "恩波格斗声明",
+      "onboard_time": 1732257560,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75393,
       "num": 370454,
       "word": "王源V中文版封面预告",
@@ -16787,6 +16843,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42862,
+      "num": 204408,
+      "word": "双关同框 周巡破防",
+      "onboard_time": 1732256960,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42803,
       "num": 292205,
       "word": "住建局回应工程公示合同期限773年",
@@ -17267,6 +17331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37555,
+      "num": 203569,
+      "word": "陈幸同回应3比0战胜平野美宇",
+      "onboard_time": 1732257620,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37531,
       "num": 40310,
       "word": "张玉宁回应脚伤",
@@ -17489,6 +17561,14 @@
       "onboard_time": 1731917659,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34726,
+      "num": 203756,
+      "word": "祝绪丹发了好多自拍",
+      "onboard_time": 1732257919,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 34537,
@@ -17753,14 +17833,6 @@
       "onboard_time": 1732005679,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32780,
-      "num": 144092,
-      "word": "双关同框 周巡破防",
-      "onboard_time": 1732256960,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 32580,
@@ -19075,6 +19147,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 21136,
+      "num": 204842,
+      "word": "孟子义西部牛仔风",
+      "onboard_time": 1732251080,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 21045,
       "num": 27074,
       "word": "张杰要得第三篇章预告",
@@ -19193,6 +19273,14 @@
       "onboard_time": 1732101739,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 20334,
+      "num": 149739,
+      "word": "用灯塔安利我的家乡",
+      "onboard_time": 1732256180,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 20271,
@@ -20225,6 +20313,14 @@
       "onboard_time": 1732213331,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8370,
+      "num": 122537,
+      "word": "王楚钦说每一局都很纠缠很胶着",
+      "onboard_time": 1732257739,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 8219,

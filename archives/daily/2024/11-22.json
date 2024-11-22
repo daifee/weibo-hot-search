@@ -1,21 +1,21 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732257154277,
+  "endTime": 1732257968208,
   "band_list": [
+    {
+      "raw_hot": 2297539,
+      "num": 2297539,
+      "word": "受王宝强资助孩子父亲发声",
+      "onboard_time": 1732254139,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2145933,
       "num": 1850018,
       "word": "制片人晒王宝强转账记录",
       "onboard_time": 1732247538,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2129059,
-      "num": 2129059,
-      "word": "受王宝强资助孩子父亲发声",
-      "onboard_time": 1732254139,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -195,7 +195,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 605163,
+      "raw_hot": 626254,
       "num": 605163,
       "word": "中方回应特朗普所谓60%关税",
       "onboard_time": 1732255939,
@@ -307,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 477228,
+      "num": 385953,
+      "word": "费启鸣 出戏",
+      "onboard_time": 1732256118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476393,
       "num": 282539,
       "word": "这下我承认丁禹兮付出的比我多了",
@@ -347,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440623,
+      "num": 414858,
+      "word": "林栋哲头发是王安宇在冰岛剪的",
+      "onboard_time": 1732254439,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438590,
       "num": 438590,
       "word": "小雪",
@@ -377,14 +393,6 @@
       "onboard_time": 1732235838,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414858,
-      "num": 414858,
-      "word": "林栋哲头发是王安宇在冰岛剪的",
-      "onboard_time": 1732254439,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 413612,
@@ -427,20 +435,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350422,
+      "num": 350422,
+      "word": "虞书欣丁禹兮月光新图",
+      "onboard_time": 1732256359,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334916,
       "num": 181291,
       "word": "青年干部培训期间出轨被免职",
       "onboard_time": 1732220830,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324747,
-      "num": 262262,
-      "word": "费启鸣 出戏",
-      "onboard_time": 1732256118,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 319783,
@@ -481,6 +489,14 @@
       "onboard_time": 1732234518,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 296435,
+      "num": 204463,
+      "word": "麦琳戳穿了李行亮的爱妻面具",
+      "onboard_time": 1732257379,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 287160,
@@ -555,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250985,
+      "num": 427476,
+      "word": "官方回应卫生巾新国标",
+      "onboard_time": 1732256661,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 248702,
       "num": 248702,
       "word": "王OK 李天责",
@@ -563,7 +587,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244675,
+      "raw_hot": 246099,
       "num": 244675,
       "word": "麦学 1加1等于10理论",
       "onboard_time": 1732254739,
@@ -611,6 +635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 238498,
+      "num": 238498,
+      "word": "A股牛结束了吗",
+      "onboard_time": 1732254318,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238347,
       "num": 238347,
       "word": "小米回应SU7自动泊车功能异常",
@@ -651,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229799,
-      "num": 293845,
-      "word": "虞书欣丁禹兮月光新图",
-      "onboard_time": 1732256359,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229518,
       "num": 132277,
       "word": "卫生巾新国标主要起草单位",
@@ -667,20 +691,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 228604,
+      "num": 228604,
+      "word": "瓦格纳绝杀湖人",
+      "onboard_time": 1732256899,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225938,
       "num": 240643,
       "word": "ILLIT获MAMA最佳女新人",
       "onboard_time": 1732256118,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225927,
-      "num": 225927,
-      "word": "A股牛结束了吗",
-      "onboard_time": 1732254318,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 223182,
@@ -721,6 +745,14 @@
       "onboard_time": 1732219271,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 211261,
+      "num": 416867,
+      "word": "李行亮干翻扬子霸总人设",
+      "onboard_time": 1732253480,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 210598,
@@ -809,14 +841,6 @@
       "onboard_time": 1732235359,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 196999,
-      "num": 416867,
-      "word": "李行亮干翻扬子霸总人设",
-      "onboard_time": 1732253480,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 195147,
@@ -955,14 +979,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 167663,
-      "num": 167663,
-      "word": "瓦格纳绝杀湖人",
-      "onboard_time": 1732256899,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "MAMA直播",
@@ -1067,14 +1083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 154743,
-      "num": 427476,
-      "word": "官方回应卫生巾新国标",
-      "onboard_time": 1732256661,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 153984,
       "num": 616024,
       "word": "陈幸同3比0战胜平野美宇",
@@ -1115,12 +1123,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151029,
+      "num": 150081,
+      "word": "留几手 天天都是别人的事",
+      "onboard_time": 1732257919,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150782,
       "num": 150782,
       "word": "沙溢要把姚译添行李箱套寄给范丞丞",
       "onboard_time": 1732250541,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150318,
+      "num": 150318,
+      "word": "中国已同25个国家全面免签",
+      "onboard_time": 1732257198,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 149608,
+      "num": 149608,
+      "word": "恩波格斗俱乐部声明",
+      "onboard_time": 1732257919,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149469,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1732253960,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139024,
+      "num": 139024,
+      "word": "税务师",
+      "onboard_time": 1732257679,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 138463,
@@ -1283,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128883,
+      "num": 128883,
+      "word": "不要彩礼不啃老关老板什么事",
+      "onboard_time": 1732256299,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128826,
       "num": 128826,
       "word": "微信内测原图14天变普通图",
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128169,
+      "num": 128169,
+      "word": "股票代码后两位数字相同个股掀涨停潮",
+      "onboard_time": 1732257679,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127653,
       "num": 528323,
       "word": "恩波格斗称会发公告",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1732252761,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125181,
-      "num": 125181,
-      "word": "不要彩礼不啃老关老板什么事",
-      "onboard_time": 1732256299,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123698,
@@ -1619,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75396,
+      "num": 380787,
+      "word": "恩波格斗声明",
+      "onboard_time": 1732257560,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75173,
       "num": 570652,
       "word": "专家建议偷拍入刑增设侵犯隐私罪",
@@ -1771,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42862,
+      "num": 204408,
+      "word": "双关同框 周巡破防",
+      "onboard_time": 1732256960,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41729,
       "num": 41729,
       "word": "俄乌局势新进展",
@@ -1803,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37555,
+      "num": 203569,
+      "word": "陈幸同回应3比0战胜平野美宇",
+      "onboard_time": 1732257620,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37361,
       "num": 114401,
       "word": "辛芷蕾侯明昊井柏然齐聚成都",
@@ -1827,6 +1899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34726,
+      "num": 203756,
+      "word": "祝绪丹发了好多自拍",
+      "onboard_time": 1732257919,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33664,
       "num": 33664,
       "word": "女生隆胸不适发现主诊医生资质造假",
@@ -1841,14 +1921,6 @@
       "onboard_time": 1732201280,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32780,
-      "num": 144092,
-      "word": "双关同框 周巡破防",
-      "onboard_time": 1732256960,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 31007,
@@ -2011,12 +2083,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 21136,
+      "num": 204842,
+      "word": "孟子义西部牛仔风",
+      "onboard_time": 1732251080,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 20744,
       "num": 151546,
       "word": "小雪节气该有的仪式感",
       "onboard_time": 1732245258,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20334,
+      "num": 149739,
+      "word": "用灯塔安利我的家乡",
+      "onboard_time": 1732256180,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 19747,
@@ -2121,6 +2209,14 @@
       "onboard_time": 1732213331,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8370,
+      "num": 122537,
+      "word": "王楚钦说每一局都很纠缠很胶着",
+      "onboard_time": 1732257739,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7711,
