@@ -1,0 +1,410 @@
+{
+  "runTime": 1732272213933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307085,
+        "num": 1307085,
+        "word": "微信一次性查询所有单删好友",
+        "onboard_time": 1732261341,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 741912,
+        "num": 741912,
+        "word": "女生酒店半裸遭男保洁刷卡闯入",
+        "onboard_time": 1732268840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48235,
+        "num": 662128,
+        "word": "中国已发展成全球最大互联网市场",
+        "onboard_time": 1732264279,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657794,
+        "num": 657794,
+        "word": "MAMA",
+        "onboard_time": 1732267879,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 653015,
+        "num": 653015,
+        "word": "酒店回应女生半裸遭男保洁刷卡闯入",
+        "onboard_time": 1732265779,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597932,
+        "num": 597932,
+        "word": "免签",
+        "onboard_time": 1732263438,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 583416,
+        "num": 583416,
+        "word": "受王宝强资助孩子父亲发声",
+        "onboard_time": 1732254139,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579874,
+        "num": 579874,
+        "word": "王楚钦霸气敲桌子",
+        "onboard_time": 1732265898,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452965,
+        "num": 452965,
+        "word": "麦琳戳穿了李行亮的爱妻面具",
+        "onboard_time": 1732257379,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116175,
+        "num": 447279,
+        "word": "羽绒服吊牌标70%绒实际含量为0",
+        "onboard_time": 1732271298,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668187,
+        "num": 447041,
+        "word": "赵露思发了49995元粉丝红包",
+        "onboard_time": 1732258880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446693,
+        "num": 446693,
+        "word": "姐姐离婚为亡弟流浪追凶27年",
+        "onboard_time": 1732262240,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415948,
+        "num": 415948,
+        "word": "朴彩英火星哥并排坐",
+        "onboard_time": 1732271119,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73449,
+        "num": 377615,
+        "word": "卫生巾不是踩线就算合规",
+        "onboard_time": 1732270760,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1414319,
+        "num": 374536,
+        "word": "麦琳 删评论",
+        "onboard_time": 1732268058,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366527,
+        "num": 366527,
+        "word": "科普博主向市监局举报农夫山泉",
+        "onboard_time": 1732270159,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 363835,
+        "num": 363835,
+        "word": "李现回谢之遥的家了",
+        "onboard_time": 1732269559,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334887,
+        "num": 334887,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322590,
+        "num": 322590,
+        "word": "多少天婚假能让你结婚",
+        "onboard_time": 1732259899,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293101,
+        "num": 293101,
+        "word": "赵露思外网更新",
+        "onboard_time": 1732269500,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287044,
+        "num": 287044,
+        "word": "日本克罗地亚等9国来华免签",
+        "onboard_time": 1732263139,
+        "rank": 20,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 281358,
+        "num": 281358,
+        "word": "怀9胞胎当事人做第二次减胎手术",
+        "onboard_time": 1732268180,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278769,
+        "num": 278769,
+        "word": "丁禹兮杂志限量",
+        "onboard_time": 1732263199,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267310,
+        "num": 267310,
+        "word": "王艺迪3比1张本美和",
+        "onboard_time": 1732270699,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19077,
+        "num": 261361,
+        "word": "黑豆花是川渝吃烤鱼的标配吗",
+        "onboard_time": 1732271598,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 255567,
+        "num": 255567,
+        "word": "A股大跌原因找到了",
+        "onboard_time": 1732264399,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255126,
+        "num": 255126,
+        "word": "82岁拜登打起了篮球",
+        "onboard_time": 1732267460,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216010,
+        "num": 235947,
+        "word": "柳智敏开场",
+        "onboard_time": 1732271240,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101377,
+        "num": 231004,
+        "word": "虞书欣发的全是右脸",
+        "onboard_time": 1732268659,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39485,
+        "num": 230373,
+        "word": "武汉一大学内惊现野猪狂奔",
+        "onboard_time": 1732271598,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229946,
+        "num": 229946,
+        "word": "徐冬冬爆改尹子维",
+        "onboard_time": 1732269918,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547777,
+        "num": 229466,
+        "word": "房东先生去世了",
+        "onboard_time": 1732270940,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38554,
+        "num": 229076,
+        "word": "真实评测排队7小时的网红烤鱼",
+        "onboard_time": 1732269979,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88716,
+        "num": 228235,
+        "word": "短发的向佐也曾是我的白月光",
+        "onboard_time": 1732272139,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48071,
+        "num": 227709,
+        "word": "小巷人家全员告别",
+        "onboard_time": 1732267820,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227646,
+        "num": 227646,
+        "word": "王皓称赞王楚钦",
+        "onboard_time": 1732270279,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222733,
+        "num": 227332,
+        "word": "颖儿演技",
+        "onboard_time": 1732270699,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20607,
+        "num": 227271,
+        "word": "陈幸同钱天一vs佐藤瞳桥本帆乃香",
+        "onboard_time": 1732271419,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16259,
+        "num": 227234,
+        "word": "对手教练谈王楚钦表现",
+        "onboard_time": 1732258638,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227227,
+        "num": 227227,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1732258518,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190800,
+        "num": 190800,
+        "word": "王艺迪vs张本美和",
+        "onboard_time": 1732268779,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186916,
+        "num": 186916,
+        "word": "重庆一小区有人高空抛菜刀砸中居民",
+        "onboard_time": 1732266260,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172230,
+        "num": 172230,
+        "word": "吉赛尔没领奖",
+        "onboard_time": 1732268898,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171419,
+        "num": 171419,
+        "word": "旺仔",
+        "onboard_time": 1732271779,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166641,
+        "num": 166641,
+        "word": "肖战灯塔和长春雪景适配度",
+        "onboard_time": 1732271660,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162106,
+        "num": 162106,
+        "word": "这六省婚假只有3天",
+        "onboard_time": 1732262660,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161589,
+        "num": 161589,
+        "word": "白夜追凶2把仙人跳拍出来了",
+        "onboard_time": 1732269739,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147334,
+        "num": 147334,
+        "word": "Giselle因过敏缺席MAMA",
+        "onboard_time": 1732269918,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147062,
+        "num": 147062,
+        "word": "明日方舟",
+        "onboard_time": 1732271838,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "Zeus经纪公司发文",
+        "onboard_time": 1732269918,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席拉美之行#"
+    }
+  }
+}
