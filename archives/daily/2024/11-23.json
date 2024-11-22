@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732314134361,
+  "endTime": 1732315289671,
   "band_list": [
     {
       "raw_hot": 699606,
@@ -131,6 +131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226391,
+      "num": 486240,
+      "word": "网红丐中丐夫妻直播遇车祸遇难",
+      "onboard_time": 1732301891,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222010,
       "num": 222010,
       "word": "丁禹兮满钻胸花",
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176657,
+      "num": 68991,
+      "word": "交大教练说张雨绮对象输球输人",
+      "onboard_time": 1732305671,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176184,
       "num": 176184,
       "word": "男子花三千嫖娼后又偷走犯盗窃罪",
@@ -193,14 +209,6 @@
       "onboard_time": 1732279340,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161749,
-      "num": 371036,
-      "word": "网红丐中丐夫妻直播遇车祸遇难",
-      "onboard_time": 1732301891,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156837,
@@ -289,14 +297,6 @@
       "onboard_time": 1732282582,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130034,
-      "num": 63491,
-      "word": "交大教练说张雨绮对象输球输人",
-      "onboard_time": 1732305671,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 129635,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86626,
+      "num": 86626,
+      "word": "120你只管踩油门剩下的交给我们",
+      "onboard_time": 1732310831,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 85528,
       "num": 85528,
       "word": "为什么不是李佩玲",
@@ -443,8 +451,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67896,
-      "num": 67896,
+      "raw_hot": 70587,
+      "num": 70587,
       "word": "胖东来得听劝人文关怀要继续",
       "onboard_time": 1732308911,
       "rank": 11,
@@ -491,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40733,
+      "num": 82783,
+      "word": "中国姑娘集体跳舞宛如复制粘贴",
+      "onboard_time": 1732300092,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39871,
       "num": 39871,
       "word": "美驻英使馆附近发现可疑包裹",
@@ -529,22 +545,6 @@
       "onboard_time": 1732296494,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33337,
-      "num": 64527,
-      "word": "120你只管踩油门剩下的交给我们",
-      "onboard_time": 1732310831,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 32409,
-      "num": 82783,
-      "word": "中国姑娘集体跳舞宛如复制粘贴",
-      "onboard_time": 1732300092,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31239,
@@ -611,12 +611,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24182,
+      "num": 40294,
+      "word": "律师称现有证据下王宝强不构成欺诈",
+      "onboard_time": 1732314312,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24032,
       "num": 24032,
       "word": "朴综星弹吉他",
       "onboard_time": 1732300512,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23832,
+      "num": 25803,
+      "word": "华山回应拆除金锁关许愿锁",
+      "onboard_time": 1732306331,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22973,
@@ -651,12 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19770,
-      "num": 25803,
-      "word": "华山回应拆除金锁关许愿锁",
-      "onboard_time": 1732306331,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 18905,
+      "num": 298537,
+      "word": "乌镇峰会人形机器人加速进化",
+      "onboard_time": 1732279461,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 18618,
+      "num": 23813,
+      "word": "八角笼中制片人晒证据反驳恩波俱乐部",
+      "onboard_time": 1732314972,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 18002,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 16798,
-      "num": 19819,
+      "num": 29705,
       "word": "专家称胖东来新规执行难度大",
       "onboard_time": 1732308370,
       "rank": 47,
@@ -691,14 +715,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 16585,
-      "num": 298537,
-      "word": "乌镇峰会人形机器人加速进化",
-      "onboard_time": 1732279461,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 15693,
       "num": 15693,
       "word": "史野果然有点野史在身上",
@@ -707,20 +723,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15531,
+      "num": 24366,
+      "word": "扎哈罗娃被告知不要评论俄导弹袭乌",
+      "onboard_time": 1732304110,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15164,
       "num": 24445,
       "word": "十个勤天广州演唱会现场",
       "onboard_time": 1732303813,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14731,
-      "num": 24366,
-      "word": "扎哈罗娃被告知不要评论俄导弹袭乌",
-      "onboard_time": 1732304110,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13360,
