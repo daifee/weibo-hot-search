@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732311442010,
+  "endTime": 1732314134361,
   "band_list": [
     {
       "raw_hot": 699606,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161749,
+      "num": 371036,
+      "word": "网红丐中丐夫妻直播遇车祸遇难",
+      "onboard_time": 1732301891,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156837,
       "num": 228419,
       "word": "国乒无缘总决赛女双冠军",
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130034,
+      "num": 63491,
+      "word": "交大教练说张雨绮对象输球输人",
+      "onboard_time": 1732305671,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129635,
       "num": 129635,
       "word": "杂志销量榜",
@@ -331,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98894,
-      "num": 175464,
-      "word": "网红丐中丐夫妻直播遇车祸遇难",
-      "onboard_time": 1732301891,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97611,
       "num": 97611,
       "word": "房东先生去世了",
@@ -377,14 +385,6 @@
       "onboard_time": 1732298172,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 89002,
-      "num": 32298,
-      "word": "交大教练说张雨绮对象输球输人",
-      "onboard_time": 1732305671,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 87675,
@@ -435,6 +435,22 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 72649,
+      "num": 72649,
+      "word": "又要见证56个民族55个能歌善舞了",
+      "onboard_time": 1732304171,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67896,
+      "num": 67896,
+      "word": "胖东来得听劝人文关怀要继续",
+      "onboard_time": 1732308911,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60618,
       "num": 60618,
       "word": "by2的凑热闹原来是林俊杰操刀",
@@ -457,14 +473,6 @@
       "onboard_time": 1732281441,
       "rank": 2,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 49632,
-      "num": 49632,
-      "word": "又要见证56个民族55个能歌善舞了",
-      "onboard_time": 1732304171,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46918,
@@ -523,6 +531,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33337,
+      "num": 64527,
+      "word": "120你只管踩油门剩下的交给我们",
+      "onboard_time": 1732310831,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 32409,
+      "num": 82783,
+      "word": "中国姑娘集体跳舞宛如复制粘贴",
+      "onboard_time": 1732300092,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31239,
       "num": 141967,
       "word": "旺仔客服称问题商品为线下购买",
@@ -531,7 +555,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 29999,
+      "raw_hot": 30674,
       "num": 37967,
       "word": "警方调查男子失踪18年自述被困黑砖窑",
       "onboard_time": 1732306391,
@@ -545,6 +569,14 @@
       "onboard_time": 1732291578,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29278,
+      "num": 29278,
+      "word": "加沙男孩说你们感受不到我们的痛苦",
+      "onboard_time": 1732308131,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28546,
@@ -571,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26463,
-      "num": 26463,
-      "word": "加沙男孩说你们感受不到我们的痛苦",
-      "onboard_time": 1732308131,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24980,
       "num": 24980,
       "word": "张杰成都六场演唱会",
@@ -587,28 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24830,
-      "num": 82783,
-      "word": "中国姑娘集体跳舞宛如复制粘贴",
-      "onboard_time": 1732300092,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24032,
       "num": 24032,
       "word": "朴综星弹吉他",
       "onboard_time": 1732300512,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23124,
-      "num": 32165,
-      "word": "胖东来得听劝人文关怀要继续",
-      "onboard_time": 1732308911,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22973,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19770,
+      "num": 25803,
+      "word": "华山回应拆除金锁关许愿锁",
+      "onboard_time": 1732306331,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18002,
       "num": 56292,
       "word": "一人一句致敬英烈",
@@ -657,6 +673,14 @@
       "onboard_time": 1732302551,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16798,
+      "num": 19819,
+      "word": "专家称胖东来新规执行难度大",
+      "onboard_time": 1732308370,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16740,
@@ -691,15 +715,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14892,
-      "num": 25803,
-      "word": "华山回应拆除金锁关许愿锁",
-      "onboard_time": 1732306331,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13642,
+      "raw_hot": 14731,
       "num": 24366,
       "word": "扎哈罗娃被告知不要评论俄导弹袭乌",
       "onboard_time": 1732304110,
@@ -715,28 +731,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 13086,
-      "num": 14882,
-      "word": "120你只管踩油门剩下的交给我们",
-      "onboard_time": 1732310831,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 12990,
       "num": 15410,
       "word": "薛之谦时隔两年完成第13张专辑",
       "onboard_time": 1732304951,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 12978,
-      "num": 14878,
-      "word": "专家称胖东来新规执行难度大",
-      "onboard_time": 1732308370,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11241,
@@ -785,6 +785,14 @@
       "onboard_time": 1732300092,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8482,
+      "num": 19902,
+      "word": "年内1184款国产游戏获批",
+      "onboard_time": 1732312751,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 7230,

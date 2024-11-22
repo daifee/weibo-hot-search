@@ -1,0 +1,410 @@
+{
+  "runTime": 1732314134361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 161749,
+        "num": 371036,
+        "word": "网红丐中丐夫妻直播遇车祸遇难",
+        "onboard_time": 1732301891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100957,
+        "num": 100957,
+        "word": "微信一次性查询所有单删好友",
+        "onboard_time": 1732261341,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15200,
+        "num": 83746,
+        "word": "乌镇峰会人形机器人加速进化",
+        "onboard_time": 1732279461,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 72649,
+        "num": 72649,
+        "word": "又要见证56个民族55个能歌善舞了",
+        "onboard_time": 1732304171,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69332,
+        "num": 69332,
+        "word": "当地民政局回应浙大贫困生晒旅游照",
+        "onboard_time": 1732297993,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68144,
+        "num": 68144,
+        "word": "直播间159买的鹅绒服是什么绒",
+        "onboard_time": 1732284621,
+        "rank": 5,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 49050,
+        "num": 67996,
+        "word": "虞书欣何与cp感",
+        "onboard_time": 1732293675,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35562,
+        "num": 67918,
+        "word": "何炅主持最尴尬的一次",
+        "onboard_time": 1732276040,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67896,
+        "num": 67896,
+        "word": "胖东来得听劝人文关怀要继续",
+        "onboard_time": 1732308911,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33337,
+        "num": 64527,
+        "word": "120你只管踩油门剩下的交给我们",
+        "onboard_time": 1732310831,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 130034,
+        "num": 63491,
+        "word": "交大教练说张雨绮对象输球输人",
+        "onboard_time": 1732305671,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68851,
+        "num": 62953,
+        "word": "乌称俄新型中程导弹末端速度超11马赫",
+        "onboard_time": 1732288280,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62230,
+        "num": 62230,
+        "word": "卫生巾塌房用什么才安全",
+        "onboard_time": 1732274720,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51061,
+        "num": 51061,
+        "word": "医生谈减重版司美格鲁肽",
+        "onboard_time": 1732292597,
+        "rank": 13,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 38211,
+        "num": 38211,
+        "word": "安徽妈妈向28689位网友退还善款",
+        "onboard_time": 1732290259,
+        "rank": 14,
+        "category": "民生新闻,正能量"
+      },
+      {
+        "raw_hot": 37899,
+        "num": 37899,
+        "word": "旺仔提出一赔十异物正在检测",
+        "onboard_time": 1732291700,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34815,
+        "num": 34815,
+        "word": "丁禹兮早期这么潮",
+        "onboard_time": 1732295355,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34773,
+        "num": 34773,
+        "word": "美驻英使馆附近发现可疑包裹",
+        "onboard_time": 1732306990,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32409,
+        "num": 32409,
+        "word": "中国姑娘集体跳舞宛如复制粘贴",
+        "onboard_time": 1732300092,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30331,
+        "num": 32097,
+        "word": "歌手2025",
+        "onboard_time": 1732281260,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53817,
+        "num": 31961,
+        "word": "男子花三千嫖娼后又偷走犯盗窃罪",
+        "onboard_time": 1732279039,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39125,
+        "num": 31225,
+        "word": "女生酒店半裸遭男保洁刷卡闯入",
+        "onboard_time": 1732268840,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33466,
+        "num": 30871,
+        "word": "女子晒100多个柿子全被鸟叼走了",
+        "onboard_time": 1732284981,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30674,
+        "num": 30674,
+        "word": "警方调查男子失踪18年自述被困黑砖窑",
+        "onboard_time": 1732306391,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29278,
+        "num": 29278,
+        "word": "加沙男孩说你们感受不到我们的痛苦",
+        "onboard_time": 1732308131,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28954,
+        "num": 28954,
+        "word": "Doinb怒喷Letme",
+        "onboard_time": 1732288159,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28046,
+        "num": 28046,
+        "word": "麦琳 删评论",
+        "onboard_time": 1732268058,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27610,
+        "num": 27610,
+        "word": "刮刮乐中奖5000后背上9万债",
+        "onboard_time": 1732282582,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26043,
+        "num": 26043,
+        "word": "男子心脏骤停4小时后奇迹发生了",
+        "onboard_time": 1732287680,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25408,
+        "num": 25971,
+        "word": "麦琳",
+        "onboard_time": 1732275619,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25902,
+        "num": 25902,
+        "word": "国乒无缘总决赛女双冠军",
+        "onboard_time": 1732283660,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25274,
+        "num": 25274,
+        "word": "女子称父亲失踪18年被困黑窑厂",
+        "onboard_time": 1732303391,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24354,
+        "num": 24354,
+        "word": "殷世航 东南vip",
+        "onboard_time": 1732298172,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23360,
+        "num": 23360,
+        "word": "偷奖",
+        "onboard_time": 1732288880,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21586,
+        "num": 21586,
+        "word": "虞书欣真心换真心",
+        "onboard_time": 1732295355,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21291,
+        "num": 21291,
+        "word": "赵露思发了49995元粉丝红包",
+        "onboard_time": 1732258880,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20048,
+        "num": 20048,
+        "word": "安宥真张元英楚河汉界",
+        "onboard_time": 1732286900,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8482,
+        "num": 19902,
+        "word": "年内1184款国产游戏获批",
+        "onboard_time": 1732312751,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16798,
+        "num": 19819,
+        "word": "专家称胖东来新规执行难度大",
+        "onboard_time": 1732308370,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19770,
+        "num": 19770,
+        "word": "华山回应拆除金锁关许愿锁",
+        "onboard_time": 1732306331,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19678,
+        "num": 19678,
+        "word": "时代少年团五周年灯光秀",
+        "onboard_time": 1732290618,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19114,
+        "num": 19114,
+        "word": "把心情照顾好比什么都重要",
+        "onboard_time": 1732290558,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18366,
+        "num": 18366,
+        "word": "0.01的svip",
+        "onboard_time": 1732284502,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17937,
+        "num": 17937,
+        "word": "胖东来员工称可以接受不要彩礼",
+        "onboard_time": 1732285701,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17391,
+        "num": 17937,
+        "word": "蔡昆廷向郭旭求婚",
+        "onboard_time": 1732280721,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16990,
+        "num": 17937,
+        "word": "好东西",
+        "onboard_time": 1732275859,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16580,
+        "num": 17936,
+        "word": "沈奕斐说留几手更像npd",
+        "onboard_time": 1732290738,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14731,
+        "num": 17936,
+        "word": "扎哈罗娃被告知不要评论俄导弹袭乌",
+        "onboard_time": 1732304110,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14409,
+        "num": 17936,
+        "word": "涵艺 Doinb",
+        "onboard_time": 1732288040,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13997,
+        "num": 17936,
+        "word": "内娱艺人实体杂志销量TOP30",
+        "onboard_time": 1732278078,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拉美之行的三个一#"
+    }
+  }
+}
