@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732267519487,
+  "endTime": 1732268361465,
   "band_list": [
     {
       "raw_hot": 2318472,
@@ -75,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1310908,
-      "num": 1310908,
+      "raw_hot": 1339755,
+      "num": 1339755,
       "word": "免签",
       "onboard_time": 1732263438,
       "rank": 34,
@@ -315,6 +315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 575274,
+      "num": 485806,
+      "word": "王楚钦霸气敲桌子",
+      "onboard_time": 1732265898,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572110,
       "num": 235189,
       "word": "医生建议别疯抢医用卫生巾",
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514883,
+      "num": 585591,
+      "word": "这六省婚假只有3天",
+      "onboard_time": 1732262660,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510499,
       "num": 510499,
       "word": "MAMA红毯",
@@ -416,6 +432,14 @@
       "word": "女驴友遭马夫猥亵事件最新进展",
       "onboard_time": 1732250659,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494953,
+      "num": 494953,
+      "word": "酒店回应女生半裸遭男保洁刷卡闯入",
+      "onboard_time": 1732265779,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -467,20 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 470842,
-      "num": 585591,
-      "word": "这六省婚假只有3天",
-      "onboard_time": 1732262660,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 459867,
       "num": 311929,
       "word": "王安宇收拾收拾准备升咖",
       "onboard_time": 1732243398,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 457239,
+      "num": 620893,
+      "word": "A股大跌原因找到了",
+      "onboard_time": 1732264399,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 454056,
@@ -523,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434006,
-      "num": 620893,
-      "word": "A股大跌原因找到了",
-      "onboard_time": 1732264399,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 426971,
       "num": 426971,
       "word": "谭松韵任嘉伦悼念蓝色狮",
@@ -555,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404000,
-      "num": 404000,
-      "word": "王楚钦霸气敲桌子",
-      "onboard_time": 1732265898,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 408125,
+      "num": 475886,
+      "word": "谢娜晒跳跳的填空题",
+      "onboard_time": 1732265961,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 388628,
@@ -595,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359719,
-      "num": 359719,
-      "word": "酒店回应女生半裸遭男保洁刷卡闯入",
-      "onboard_time": 1732265779,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 357058,
+      "num": 357058,
+      "word": "MAMA",
+      "onboard_time": 1732267879,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 354489,
@@ -651,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315220,
+      "num": 315220,
+      "word": "82岁拜登打起了篮球",
+      "onboard_time": 1732267460,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 311406,
       "num": 323657,
       "word": "被娃娃脸支配的恐惧",
@@ -659,11 +683,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304354,
-      "num": 475886,
-      "word": "谢娜晒跳跳的填空题",
-      "onboard_time": 1732265961,
-      "rank": 18,
+      "raw_hot": 308441,
+      "num": 308441,
+      "word": "麦琳 删评论",
+      "onboard_time": 1732268058,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -723,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274231,
+      "num": 274231,
+      "word": "华为享界正式起诉自媒体袁启聪",
+      "onboard_time": 1732266800,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 269312,
       "num": 269311,
       "word": "网友曝再见爱人下期历史最精彩",
@@ -777,6 +809,14 @@
       "onboard_time": 1732256661,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 250590,
+      "num": 250590,
+      "word": "杨紫韩东君开机照",
+      "onboard_time": 1732267041,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 249447,
@@ -939,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 218844,
+      "num": 353691,
+      "word": "梦花廷官宣",
+      "onboard_time": 1732266559,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218781,
       "num": 232320,
       "word": "家业开机现场",
@@ -993,6 +1041,14 @@
       "onboard_time": 1732253480,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211051,
+      "num": 416476,
+      "word": "易烊千玺生日ssr卡",
+      "onboard_time": 1732268058,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 210970,
@@ -1059,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206630,
-      "num": 206630,
-      "word": "杨紫韩东君开机照",
-      "onboard_time": 1732267041,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206135,
       "num": 206135,
       "word": "华晨宇请工作人员吃500斤龙虾",
@@ -1091,12 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201218,
-      "num": 353691,
-      "word": "梦花廷官宣",
-      "onboard_time": 1732266559,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 203510,
+      "num": 203510,
+      "word": "缅北规模化电诈园区已全被铲除",
+      "onboard_time": 1732267640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200396,
@@ -1123,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199420,
-      "num": 199420,
-      "word": "华为享界正式起诉自媒体袁启聪",
-      "onboard_time": 1732266800,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 199271,
       "num": 199271,
       "word": "月经期间身体发生了什么变化",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1732262179,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195794,
+      "num": 195794,
+      "word": "身份证自拍可不能随便发",
+      "onboard_time": 1732265179,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195147,
@@ -1195,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189546,
+      "num": 189546,
+      "word": "林昀儒退出老瓦杯",
+      "onboard_time": 1732267820,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189154,
       "num": 189154,
       "word": "税务师",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1732227432,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187416,
+      "num": 353017,
+      "word": "重庆一小区有人高空抛菜刀砸中居民",
+      "onboard_time": 1732266260,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186068,
@@ -1315,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178205,
+      "num": 178205,
+      "word": "怀9胞胎当事人做第二次减胎手术",
+      "onboard_time": 1732268180,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178087,
       "num": 178087,
       "word": "端午燕子京拥吻",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1732257919,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167117,
+      "num": 167117,
+      "word": "王楚钦说场上打球场下做人",
+      "onboard_time": 1732266920,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164980,
@@ -1507,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155820,
-      "num": 155820,
-      "word": "王楚钦说场上打球场下做人",
-      "onboard_time": 1732266920,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155595,
       "num": 155595,
       "word": "一梦江湖",
@@ -1579,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149514,
-      "num": 149514,
-      "word": "身份证自拍可不能随便发",
-      "onboard_time": 1732265179,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149469,
       "num": 149469,
       "word": "王楚钦坦言自己近期状态不佳",
@@ -1633,14 +1697,6 @@
       "onboard_time": 1732244358,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143757,
-      "num": 143757,
-      "word": "82岁拜登打起了篮球",
-      "onboard_time": 1732267460,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141694,
@@ -1771,20 +1827,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130125,
+      "num": 168103,
+      "word": "赵露思平等对待粉丝",
+      "onboard_time": 1732267219,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128826,
       "num": 128826,
       "word": "微信内测原图14天变普通图",
       "onboard_time": 1732236378,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 128418,
-      "num": 353017,
-      "word": "重庆一小区有人高空抛菜刀砸中居民",
-      "onboard_time": 1732266260,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128234,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1732251200,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111495,
+      "num": 489072,
+      "word": "恩波格斗负责人发声",
+      "onboard_time": 1732267640,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 110973,
@@ -2139,6 +2203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80022,
+      "num": 602373,
+      "word": "话费打折慢充成洗钱陷阱",
+      "onboard_time": 1732266320,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79707,
       "num": 79707,
       "word": "卫生巾不该缩水更不该糊弄用户",
@@ -2177,6 +2249,14 @@
       "onboard_time": 1732246998,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76258,
+      "num": 307194,
+      "word": "好东西观众都在偷偷背梗",
+      "onboard_time": 1732267519,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 75396,
@@ -2227,14 +2307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65965,
-      "num": 602373,
-      "word": "话费打折慢充成洗钱陷阱",
-      "onboard_time": 1732266320,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65736,
       "num": 199690,
       "word": "九尾 22岁我来啦",
@@ -2257,6 +2329,14 @@
       "onboard_time": 1732263379,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62853,
+      "num": 1062140,
+      "word": "中国已发展成全球最大互联网市场",
+      "onboard_time": 1732264279,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61048,
@@ -2299,14 +2379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 59774,
-      "num": 1062140,
-      "word": "中国已发展成全球最大互联网市场",
-      "onboard_time": 1732264279,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59532,
       "num": 182857,
       "word": "杨奇称黑神话拿奖是实至名归也有运气使然",
@@ -2316,7 +2388,7 @@
     },
     {
       "raw_hot": 58433,
-      "num": 189957,
+      "num": 201580,
       "word": "对手教练谈王楚钦表现",
       "onboard_time": 1732258638,
       "rank": 38,
@@ -2331,20 +2403,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56326,
+      "num": 548401,
+      "word": "教体局回应发文撤销39所村小",
+      "onboard_time": 1732266500,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56073,
       "num": 713567,
       "word": "一下雪中式意境更浓了",
       "onboard_time": 1732263559,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 55111,
-      "num": 548401,
-      "word": "教体局回应发文撤销39所村小",
-      "onboard_time": 1732266500,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54766,
@@ -2491,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34063,
+      "num": 472637,
+      "word": "一线城市为何纷纷取消豪宅税",
+      "onboard_time": 1732267219,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33664,
       "num": 33664,
       "word": "女生隆胸不适发现主诊医生资质造假",
@@ -2513,6 +2593,14 @@
       "onboard_time": 1732246459,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30798,
+      "num": 549095,
+      "word": "贾樟柯谈风流一代拍22年上映22天",
+      "onboard_time": 1732266439,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 30381,
@@ -2579,14 +2667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28455,
-      "num": 472637,
-      "word": "一线城市为何纷纷取消豪宅税",
-      "onboard_time": 1732267219,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27661,
       "num": 83859,
       "word": "V中文版王源24岁首封",
@@ -2609,14 +2689,6 @@
       "onboard_time": 1732262719,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 26473,
-      "num": 549095,
-      "word": "贾樟柯谈风流一代拍22年上映22天",
-      "onboard_time": 1732266439,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 26222,
@@ -2930,6 +3002,9 @@
     },
     {
       "word": "#跟着习主席去拉美#"
+    },
+    {
+      "word": "#习主席谈完善全球数字治理#"
     }
   ]
 }

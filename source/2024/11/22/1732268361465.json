@@ -1,0 +1,410 @@
+{
+  "runTime": 1732268361465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1726398,
+        "num": 1726398,
+        "word": "微信一次性查询所有单删好友",
+        "onboard_time": 1732261341,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1339755,
+        "num": 1339755,
+        "word": "免签",
+        "onboard_time": 1732263438,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62853,
+        "num": 828332,
+        "word": "中国已发展成全球最大互联网市场",
+        "onboard_time": 1732264279,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 790144,
+        "num": 790144,
+        "word": "麦琳戳穿了李行亮的爱妻面具",
+        "onboard_time": 1732257379,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789620,
+        "num": 789620,
+        "word": "姐姐离婚为亡弟流浪追凶27年",
+        "onboard_time": 1732262240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706804,
+        "num": 706804,
+        "word": "受王宝强资助孩子父亲发声",
+        "onboard_time": 1732254139,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602133,
+        "num": 602133,
+        "word": "日本克罗地亚等9国来华免签",
+        "onboard_time": 1732263139,
+        "rank": 6,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 551093,
+        "num": 551093,
+        "word": "多少天婚假能让你结婚",
+        "onboard_time": 1732259899,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541282,
+        "num": 541282,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1732258518,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514883,
+        "num": 514883,
+        "word": "这六省婚假只有3天",
+        "onboard_time": 1732262660,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494953,
+        "num": 494953,
+        "word": "酒店回应女生半裸遭男保洁刷卡闯入",
+        "onboard_time": 1732265779,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111495,
+        "num": 489072,
+        "word": "恩波格斗负责人发声",
+        "onboard_time": 1732267640,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836970,
+        "num": 486561,
+        "word": "赵露思发了49995元粉丝红包",
+        "onboard_time": 1732258880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575274,
+        "num": 485806,
+        "word": "王楚钦霸气敲桌子",
+        "onboard_time": 1732265898,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483884,
+        "num": 483884,
+        "word": "MAMA红毯",
+        "onboard_time": 1732262778,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473261,
+        "num": 473261,
+        "word": "丁禹兮杂志限量",
+        "onboard_time": 1732263199,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457239,
+        "num": 457239,
+        "word": "A股大跌原因找到了",
+        "onboard_time": 1732264399,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431543,
+        "num": 431543,
+        "word": "杨幂 英雄是民族最闪亮的坐标",
+        "onboard_time": 1732262361,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211051,
+        "num": 416476,
+        "word": "易烊千玺生日ssr卡",
+        "onboard_time": 1732268058,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34063,
+        "num": 410340,
+        "word": "一线城市为何纷纷取消豪宅税",
+        "onboard_time": 1732267219,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56326,
+        "num": 409093,
+        "word": "教体局回应发文撤销39所村小",
+        "onboard_time": 1732266500,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408125,
+        "num": 408125,
+        "word": "谢娜晒跳跳的填空题",
+        "onboard_time": 1732265961,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399986,
+        "num": 399986,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80022,
+        "num": 363456,
+        "word": "话费打折慢充成洗钱陷阱",
+        "onboard_time": 1732266320,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357058,
+        "num": 357058,
+        "word": "MAMA",
+        "onboard_time": 1732267879,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317855,
+        "num": 317855,
+        "word": "ABC创始人公开致歉",
+        "onboard_time": 1732254080,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30798,
+        "num": 316270,
+        "word": "贾樟柯谈风流一代拍22年上映22天",
+        "onboard_time": 1732266439,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315220,
+        "num": 315220,
+        "word": "82岁拜登打起了篮球",
+        "onboard_time": 1732267460,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308441,
+        "num": 308441,
+        "word": "麦琳 删评论",
+        "onboard_time": 1732268058,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76258,
+        "num": 307194,
+        "word": "好东西观众都在偷偷背梗",
+        "onboard_time": 1732267519,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307095,
+        "num": 307095,
+        "word": "王楚钦采访逗笑全场",
+        "onboard_time": 1732263379,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274231,
+        "num": 274231,
+        "word": "华为享界正式起诉自媒体袁启聪",
+        "onboard_time": 1732266800,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250590,
+        "num": 250590,
+        "word": "杨紫韩东君开机照",
+        "onboard_time": 1732267041,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258200,
+        "num": 247220,
+        "word": "麦琳以为黄圣依没收到七夕礼物",
+        "onboard_time": 1732259420,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231701,
+        "num": 231701,
+        "word": "IVE白裙",
+        "onboard_time": 1732266139,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218844,
+        "num": 218844,
+        "word": "梦花廷官宣",
+        "onboard_time": 1732266559,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218000,
+        "num": 218000,
+        "word": "虞书欣双轨开拍路透",
+        "onboard_time": 1732260620,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203510,
+        "num": 203510,
+        "word": "缅北规模化电诈园区已全被铲除",
+        "onboard_time": 1732267640,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23392,
+        "num": 201580,
+        "word": "对手教练谈王楚钦表现",
+        "onboard_time": 1732258638,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199809,
+        "num": 199809,
+        "word": "享界 袁启聪",
+        "onboard_time": 1732267099,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195794,
+        "num": 195794,
+        "word": "身份证自拍可不能随便发",
+        "onboard_time": 1732265179,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189546,
+        "num": 189546,
+        "word": "林昀儒退出老瓦杯",
+        "onboard_time": 1732267820,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187416,
+        "num": 187416,
+        "word": "重庆一小区有人高空抛菜刀砸中居民",
+        "onboard_time": 1732266260,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178205,
+        "num": 178205,
+        "word": "怀9胞胎当事人做第二次减胎手术",
+        "onboard_time": 1732268180,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169850,
+        "num": 169850,
+        "word": "端午燕子京拥吻",
+        "onboard_time": 1732267041,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130125,
+        "num": 168103,
+        "word": "赵露思平等对待粉丝",
+        "onboard_time": 1732267219,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90684,
+        "num": 167408,
+        "word": "沪指跌超3%失守3300点",
+        "onboard_time": 1732266379,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167117,
+        "num": 167117,
+        "word": "王楚钦说场上打球场下做人",
+        "onboard_time": 1732266920,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166317,
+        "num": 166317,
+        "word": "徐冬冬尹子维重回吵架最凶的地方",
+        "onboard_time": 1732264759,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162678,
+        "num": 162678,
+        "word": "程莉莎是小巷人家真剧粉",
+        "onboard_time": 1732265479,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席谈完善全球数字治理#"
+    }
+  }
+}
