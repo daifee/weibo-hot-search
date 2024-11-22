@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732286448082,
+  "endTime": 1732289079485,
   "band_list": [
     {
       "raw_hot": 2637126,
@@ -185,6 +185,14 @@
       "onboard_time": 1732245078,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1053930,
+      "num": 414506,
+      "word": "偷奖",
+      "onboard_time": 1732288880,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1045185,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 641806,
+      "num": 641806,
+      "word": "直播间159买的鹅绒服是什么绒",
+      "onboard_time": 1732284621,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 635496,
       "num": 635496,
       "word": "丫丫的脸逐渐向着正圆发展",
@@ -611,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494865,
+      "num": 494865,
+      "word": "安宥真张元英楚河汉界",
+      "onboard_time": 1732286900,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 489992,
       "num": 337226,
       "word": "女子拒还前男友1170万买房款",
@@ -667,6 +691,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468282,
+      "num": 468282,
+      "word": "国乒无缘总决赛女双冠军",
+      "onboard_time": 1732283660,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 465719,
+      "num": 465719,
+      "word": "周洁琼弹琵琶告别小巷人家",
+      "onboard_time": 1732286721,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460180,
       "num": 460180,
       "word": "王艺迪3比1张本美和",
@@ -681,14 +721,6 @@
       "onboard_time": 1732243398,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 458546,
-      "num": 458546,
-      "word": "国乒无缘总决赛女双冠军",
-      "onboard_time": 1732283660,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 457239,
@@ -963,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 320612,
+      "num": 320612,
+      "word": "Doinb怒喷Letme",
+      "onboard_time": 1732288159,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319783,
       "num": 319783,
       "word": "MAMA颁奖礼",
@@ -1011,12 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304977,
-      "num": 397237,
-      "word": "直播间159买的鹅绒服是什么绒",
-      "onboard_time": 1732284621,
-      "rank": 14,
-      "category": "民生新闻,舆论监督"
+      "raw_hot": 309354,
+      "num": 309354,
+      "word": "涵艺 Doinb",
+      "onboard_time": 1732288040,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 299726,
@@ -1041,6 +1081,22 @@
       "onboard_time": 1732273579,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295960,
+      "num": 295960,
+      "word": "丁禹兮满钻胸花",
+      "onboard_time": 1732286781,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 291270,
+      "num": 291270,
+      "word": "麦琳",
+      "onboard_time": 1732275619,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 287194,
@@ -1283,6 +1339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240172,
+      "num": 240172,
+      "word": "男子心脏骤停4小时后奇迹发生了",
+      "onboard_time": 1732287680,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239953,
       "num": 239953,
       "word": "丁禹兮杂志",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1732254380,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 238552,
+      "num": 238552,
+      "word": "林虞凌妙妙一人饰演是虞书欣争取的",
+      "onboard_time": 1732286360,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 238347,
@@ -1329,14 +1401,6 @@
       "onboard_time": 1732249400,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231232,
-      "num": 231232,
-      "word": "麦琳",
-      "onboard_time": 1732275619,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 230662,
@@ -1441,14 +1505,6 @@
       "onboard_time": 1732285342,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223304,
-      "num": 223304,
-      "word": "林虞凌妙妙一人饰演是虞书欣争取的",
-      "onboard_time": 1732286360,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 223266,
@@ -2003,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178765,
+      "num": 321801,
+      "word": "郜君然或将下线",
+      "onboard_time": 1732287981,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178721,
       "num": 178721,
       "word": "DFM战胜EDG",
@@ -2227,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161758,
+      "num": 161758,
+      "word": "乌称俄新型中程导弹末端速度超11马赫",
+      "onboard_time": 1732288280,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161594,
       "num": 131096,
       "word": "侯明昊辛芷蕾豪门姐弟",
@@ -2427,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150322,
+      "num": 150322,
+      "word": "有条件中小学应建立家长陪餐制度",
+      "onboard_time": 1732287321,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149956,
       "num": 149956,
       "word": "林诗栋3比0胜邱党",
@@ -2497,6 +2577,22 @@
       "onboard_time": 1732244358,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145193,
+      "num": 238748,
+      "word": "那个熟悉的王楚钦回来了",
+      "onboard_time": 1732287860,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142840,
+      "num": 486325,
+      "word": "胖东来员工称可以接受不要彩礼",
+      "onboard_time": 1732285701,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141694,
@@ -2721,6 +2817,14 @@
       "onboard_time": 1732246998,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122185,
+      "num": 321676,
+      "word": "祝绪丹翻牌",
+      "onboard_time": 1732288340,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 121682,
@@ -3099,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81126,
+      "num": 239228,
+      "word": "杂志销量榜",
+      "onboard_time": 1732289059,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 80421,
       "num": 124425,
       "word": "女性一生约使用1.5万片卫生巾",
@@ -3251,6 +3363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68636,
+      "num": 321219,
+      "word": "情侣亲密遭闯入酒店已道歉赔偿",
+      "onboard_time": 1732288400,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68453,
       "num": 487483,
       "word": "记者调查晒旅游照贫困生收入证明",
@@ -3289,14 +3409,6 @@
       "onboard_time": 1732269798,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63765,
-      "num": 486325,
-      "word": "胖东来员工称可以接受不要彩礼",
-      "onboard_time": 1732285701,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63464,
@@ -3483,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54390,
+      "num": 358148,
+      "word": "市监所回应大学生曝光学校附近饭店",
+      "onboard_time": 1732288220,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52874,
       "num": 150414,
       "word": "卫生巾吸收层比实际标长还要短",
@@ -3553,6 +3673,14 @@
       "onboard_time": 1732259420,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45756,
+      "num": 420345,
+      "word": "给杨妞花留言的女孩帮妈妈找到家了",
+      "onboard_time": 1732287981,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43712,

@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732286448082,
+  "endTime": 1732289079485,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1731810258,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1053930,
+      "num": 414506,
+      "word": "偷奖",
+      "onboard_time": 1732288880,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1052125,
@@ -2707,6 +2715,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 641806,
+      "num": 641806,
+      "word": "直播间159买的鹅绒服是什么绒",
+      "onboard_time": 1732284621,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 641534,
       "num": 389788,
       "word": "自然堂 端水",
@@ -3707,6 +3723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494865,
+      "num": 494865,
+      "word": "安宥真张元英楚河汉界",
+      "onboard_time": 1732286900,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 493529,
       "num": 493529,
       "word": "王楚钦换手救球",
@@ -3923,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468282,
+      "num": 468282,
+      "word": "国乒无缘总决赛女双冠军",
+      "onboard_time": 1732283660,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468272,
       "num": 468272,
       "word": "耿爽回怼美方一个动作气势拉满",
@@ -3945,6 +3977,14 @@
       "onboard_time": 1731772102,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 465719,
+      "num": 465719,
+      "word": "周洁琼弹琵琶告别小巷人家",
+      "onboard_time": 1732286721,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 463930,
@@ -3992,14 +4032,6 @@
       "word": "林高远止步总决赛16强",
       "onboard_time": 1732086620,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 458546,
-      "num": 458546,
-      "word": "国乒无缘总决赛女双冠军",
-      "onboard_time": 1732283660,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -5411,6 +5443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320612,
+      "num": 320612,
+      "word": "Doinb怒喷Letme",
+      "onboard_time": 1732288159,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 320418,
       "num": 307149,
       "word": "杨仕泽直播",
@@ -5611,6 +5651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309354,
+      "num": 309354,
+      "word": "涵艺 Doinb",
+      "onboard_time": 1732288040,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308718,
       "num": 308718,
       "word": "李子柒公园套娃送小朋友被拒",
@@ -5697,14 +5745,6 @@
       "onboard_time": 1731992842,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304977,
-      "num": 397237,
-      "word": "直播间159买的鹅绒服是什么绒",
-      "onboard_time": 1732284621,
-      "rank": 14,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 304235,
@@ -5843,6 +5883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295960,
+      "num": 295960,
+      "word": "丁禹兮满钻胸花",
+      "onboard_time": 1732286781,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295623,
       "num": 295623,
       "word": "徐静蕾",
@@ -5921,6 +5969,14 @@
       "onboard_time": 1731935541,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291270,
+      "num": 291270,
+      "word": "麦琳",
+      "onboard_time": 1732275619,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 290809,
@@ -7099,6 +7155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240172,
+      "num": 240172,
+      "word": "男子心脏骤停4小时后奇迹发生了",
+      "onboard_time": 1732287680,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239953,
       "num": 277242,
       "word": "丁禹兮杂志",
@@ -7137,6 +7201,14 @@
       "onboard_time": 1731821960,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238552,
+      "num": 238552,
+      "word": "林虞凌妙妙一人饰演是虞书欣争取的",
+      "onboard_time": 1732286360,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 238459,
@@ -7329,14 +7401,6 @@
       "onboard_time": 1731999380,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231232,
-      "num": 231232,
-      "word": "麦琳",
-      "onboard_time": 1732275619,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 231056,
@@ -7601,14 +7665,6 @@
       "onboard_time": 1731816018,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223304,
-      "num": 223304,
-      "word": "林虞凌妙妙一人饰演是虞书欣争取的",
-      "onboard_time": 1732286360,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 223290,
@@ -10371,6 +10427,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 178765,
+      "num": 321801,
+      "word": "郜君然或将下线",
+      "onboard_time": 1732287981,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178721,
       "num": 178721,
       "word": "DFM战胜EDG",
@@ -11523,6 +11587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161758,
+      "num": 161758,
+      "word": "乌称俄新型中程导弹末端速度超11马赫",
+      "onboard_time": 1732288280,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161594,
       "num": 315388,
       "word": "失笑",
@@ -12307,6 +12379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150322,
+      "num": 150322,
+      "word": "有条件中小学应建立家长陪餐制度",
+      "onboard_time": 1732287321,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150281,
       "num": 150281,
       "word": "张真源 我永远忘不掉这几天的日子",
@@ -12747,6 +12827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145193,
+      "num": 238748,
+      "word": "那个熟悉的王楚钦回来了",
+      "onboard_time": 1732287860,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145162,
       "num": 145162,
       "word": "王楚钦林诗栋训练场打闹",
@@ -12865,6 +12953,14 @@
       "onboard_time": 1731923000,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142840,
+      "num": 486325,
+      "word": "胖东来员工称可以接受不要彩礼",
+      "onboard_time": 1732285701,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142601,
@@ -14137,6 +14233,14 @@
       "onboard_time": 1731926961,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122185,
+      "num": 321676,
+      "word": "祝绪丹翻牌",
+      "onboard_time": 1732288340,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 122147,
@@ -16019,6 +16123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81126,
+      "num": 239228,
+      "word": "杂志销量榜",
+      "onboard_time": 1732289059,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 81112,
       "num": 191284,
       "word": "于适不是于小师是于老师",
@@ -16723,6 +16835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68636,
+      "num": 321219,
+      "word": "情侣亲密遭闯入酒店已道歉赔偿",
+      "onboard_time": 1732288400,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68453,
       "num": 487483,
       "word": "记者调查晒旅游照贫困生收入证明",
@@ -16881,14 +17001,6 @@
       "onboard_time": 1732193601,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63765,
-      "num": 486325,
-      "word": "胖东来员工称可以接受不要彩礼",
-      "onboard_time": 1732285701,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63688,
@@ -17651,6 +17763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54390,
+      "num": 358148,
+      "word": "市监所回应大学生曝光学校附近饭店",
+      "onboard_time": 1732288220,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53944,
       "num": 84777,
       "word": "珠海航展",
@@ -18305,6 +18425,14 @@
       "onboard_time": 1731957851,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45756,
+      "num": 420345,
+      "word": "给杨妞花留言的女孩帮妈妈找到家了",
+      "onboard_time": 1732287981,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45636,
