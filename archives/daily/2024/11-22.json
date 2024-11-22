@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732268361465,
+  "endTime": 1732271104600,
   "band_list": [
     {
       "raw_hot": 2318472,
@@ -73,6 +73,14 @@
       "onboard_time": 1732246160,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1421701,
+      "num": 431596,
+      "word": "麦琳 删评论",
+      "onboard_time": 1732268058,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1339755,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 775000,
+      "num": 775000,
+      "word": "酒店回应女生半裸遭男保洁刷卡闯入",
+      "onboard_time": 1732265779,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 772416,
       "num": 772416,
       "word": "王楚钦采访逗笑全场",
@@ -217,6 +233,14 @@
       "onboard_time": 1732244059,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 759750,
+      "num": 759750,
+      "word": "MAMA",
+      "onboard_time": 1732267879,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 757093,
@@ -257,6 +281,14 @@
       "onboard_time": 1732250000,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 685351,
+      "num": 685351,
+      "word": "王楚钦霸气敲桌子",
+      "onboard_time": 1732265898,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 683399,
@@ -313,14 +345,6 @@
       "onboard_time": 1732239796,
       "rank": 35,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 575274,
-      "num": 485806,
-      "word": "王楚钦霸气敲桌子",
-      "onboard_time": 1732265898,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 572110,
@@ -432,14 +456,6 @@
       "word": "女驴友遭马夫猥亵事件最新进展",
       "onboard_time": 1732250659,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 494953,
-      "num": 494953,
-      "word": "酒店回应女生半裸遭男保洁刷卡闯入",
-      "onboard_time": 1732265779,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -611,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 357058,
-      "num": 357058,
-      "word": "MAMA",
-      "onboard_time": 1732267879,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 354489,
       "num": 371504,
       "word": "王曼昱vs钱天一",
@@ -649,6 +657,14 @@
       "onboard_time": 1732220830,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327860,
+      "num": 327860,
+      "word": "李现回谢之遥的家了",
+      "onboard_time": 1732269559,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 319783,
@@ -683,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308441,
-      "num": 308441,
-      "word": "麦琳 删评论",
-      "onboard_time": 1732268058,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299726,
       "num": 299726,
       "word": "美方首次公开承认仁爱礁特遣队",
@@ -705,6 +713,30 @@
       "onboard_time": 1732234518,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 294791,
+      "num": 294791,
+      "word": "女生酒店半裸遭男保洁刷卡闯入",
+      "onboard_time": 1732268840,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288123,
+      "num": 351680,
+      "word": "赵露思外网更新",
+      "onboard_time": 1732269500,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 287194,
+      "num": 287194,
+      "word": "怀9胞胎当事人做第二次减胎手术",
+      "onboard_time": 1732268180,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287160,
@@ -745,6 +777,14 @@
       "onboard_time": 1732193362,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275141,
+      "num": 275141,
+      "word": "吉赛尔没领奖",
+      "onboard_time": 1732268898,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 274231,
@@ -835,12 +875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247023,
+      "num": 271587,
+      "word": "王皓称赞王楚钦",
+      "onboard_time": 1732270279,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246099,
       "num": 244675,
       "word": "麦学 1加1等于10理论",
       "onboard_time": 1732254739,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246000,
+      "num": 353017,
+      "word": "重庆一小区有人高空抛菜刀砸中居民",
+      "onboard_time": 1732266260,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243460,
@@ -947,6 +1003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229118,
+      "num": 229118,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1732268779,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228604,
       "num": 228604,
       "word": "瓦格纳绝杀湖人",
@@ -971,11 +1035,43 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225136,
+      "num": 477141,
+      "word": "科普博主向市监局举报农夫山泉",
+      "onboard_time": 1732270159,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 224748,
+      "num": 224748,
+      "word": "Zeus经纪公司发文",
+      "onboard_time": 1732269918,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223182,
       "num": 223182,
       "word": "RIIZE获MAMA最佳男子全球表演奖",
       "onboard_time": 1732248559,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 221781,
+      "num": 221781,
+      "word": "胡锡进浮盈超4%",
+      "onboard_time": 1732270159,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 219950,
+      "num": 219950,
+      "word": "Giselle因过敏缺席MAMA",
+      "onboard_time": 1732269918,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -1049,6 +1145,14 @@
       "onboard_time": 1732268058,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211003,
+      "num": 211003,
+      "word": "白夜追凶2把仙人跳拍出来了",
+      "onboard_time": 1732269739,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 210970,
@@ -1147,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200532,
+      "num": 272623,
+      "word": "徐冬冬爆改尹子维",
+      "onboard_time": 1732269918,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200396,
       "num": 200396,
       "word": "肖战灯塔立麦纯享版MV",
@@ -1179,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198605,
+      "num": 198605,
+      "word": "房东先生去世了",
+      "onboard_time": 1732270940,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196937,
       "num": 196937,
       "word": "ENHYPEN全员黑西装",
@@ -1193,6 +1313,14 @@
       "onboard_time": 1732262179,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196088,
+      "num": 271665,
+      "word": "再见爱人 留几手反骨具象化",
+      "onboard_time": 1732269500,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 195794,
@@ -1291,14 +1419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187416,
-      "num": 353017,
-      "word": "重庆一小区有人高空抛菜刀砸中居民",
-      "onboard_time": 1732266260,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186068,
       "num": 186068,
       "word": "小雪到了",
@@ -1371,20 +1491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179364,
+      "num": 179364,
+      "word": "颖儿演技",
+      "onboard_time": 1732270699,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178362,
       "num": 199897,
       "word": "永夜星河团综",
       "onboard_time": 1732238957,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178205,
-      "num": 178205,
-      "word": "怀9胞胎当事人做第二次减胎手术",
-      "onboard_time": 1732268180,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178087,
@@ -1481,6 +1601,14 @@
       "onboard_time": 1732252040,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163930,
+      "num": 163930,
+      "word": "恩波负责人称愿和王宝强协商",
+      "onboard_time": 1732268719,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 162424,
@@ -1641,6 +1769,14 @@
       "onboard_time": 1732238117,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151244,
+      "num": 151244,
+      "word": "虞书欣发的全是右脸",
+      "onboard_time": 1732268659,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 150782,
@@ -2051,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94823,
+      "num": 436439,
+      "word": "一线城市全部取消普通住房标准",
+      "onboard_time": 1732269739,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94484,
       "num": 239893,
       "word": "找工作又多了条性格歧视",
@@ -2129,6 +2273,14 @@
       "onboard_time": 1732202239,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87020,
+      "num": 219965,
+      "word": "小雪低温补贴",
+      "onboard_time": 1732251620,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 85749,
@@ -2243,6 +2395,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 77985,
+      "num": 428457,
+      "word": "林一直播",
+      "onboard_time": 1732269979,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77326,
       "num": 212431,
       "word": "韩乔生说国乒称霸太久打法被摸透",
@@ -2313,6 +2473,22 @@
       "onboard_time": 1732236559,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65390,
+      "num": 445223,
+      "word": "王艺迪3比1张本美和",
+      "onboard_time": 1732270699,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65016,
+      "num": 353457,
+      "word": "麦琳为何会引发如此轰动效应",
+      "onboard_time": 1732269798,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 63319,
@@ -2388,7 +2564,7 @@
     },
     {
       "raw_hot": 58433,
-      "num": 201580,
+      "num": 220042,
       "word": "对手教练谈王楚钦表现",
       "onboard_time": 1732258638,
       "rank": 38,
@@ -2643,14 +2819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29337,
-      "num": 167758,
-      "word": "小雪低温补贴",
-      "onboard_time": 1732251620,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 29221,
       "num": 762483,
       "word": "乌镇再相逢",
@@ -2681,6 +2849,22 @@
       "onboard_time": 1732222271,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27203,
+      "num": 437977,
+      "word": "卫生巾不是踩线就算合规",
+      "onboard_time": 1732270760,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26830,
+      "num": 254222,
+      "word": "真实评测排队7小时的网红烤鱼",
+      "onboard_time": 1732269979,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 26495,
