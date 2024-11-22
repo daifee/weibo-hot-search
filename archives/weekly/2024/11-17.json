@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732260124162,
+  "endTime": 1732261085067,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2318472,
+      "num": 2318472,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1732258518,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2313016,
       "num": 451852,
       "word": "单亲妈妈做试管婴儿送外卖途中早产",
@@ -176,6 +184,14 @@
       "word": "受王宝强资助孩子父亲发声",
       "onboard_time": 1732254139,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2296309,
+      "num": 489475,
+      "word": "赵露思发了49995元粉丝红包",
+      "onboard_time": 1732258880,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -537,14 +553,6 @@
       "onboard_time": 1731845299,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1341048,
-      "num": 489475,
-      "word": "赵露思发了49995元粉丝红包",
-      "onboard_time": 1732258880,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1334697,
@@ -1011,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1022582,
-      "num": 1022582,
-      "word": "王楚钦vs莫雷加德",
-      "onboard_time": 1732258518,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1022154,
       "num": 1163544,
       "word": "官方回应湘江现大量病毒采样管",
@@ -1049,6 +1049,14 @@
       "onboard_time": 1731906321,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1017067,
+      "num": 1017067,
+      "word": "麦琳戳穿了李行亮的爱妻面具",
+      "onboard_time": 1732257379,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1013813,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1731861017,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 990689,
-      "num": 990689,
-      "word": "麦琳戳穿了李行亮的爱妻面具",
-      "onboard_time": 1732257379,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 980438,
@@ -2083,6 +2083,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 716075,
+      "num": 716075,
+      "word": "中方回应特朗普所谓60%关税",
+      "onboard_time": 1732255939,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 712466,
       "num": 1113994,
       "word": "永夜星河",
@@ -2307,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 673456,
+      "num": 673456,
+      "word": "虞书欣双轨开拍路透",
+      "onboard_time": 1732260620,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 671816,
       "num": 651405,
       "word": "祝绪丹照片是嫡长闺虞书欣包的",
@@ -2369,14 +2385,6 @@
       "onboard_time": 1732164500,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 659111,
-      "num": 659111,
-      "word": "中方回应特朗普所谓60%关税",
-      "onboard_time": 1732255939,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 657641,
@@ -4083,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408814,
+      "num": 408814,
+      "word": "麦琳以为黄圣依没收到七夕礼物",
+      "onboard_time": 1732259420,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408291,
       "num": 408291,
       "word": "心梗发作如何自救和互救",
@@ -4883,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325202,
+      "num": 325202,
+      "word": "股市",
+      "onboard_time": 1732260079,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 324423,
       "num": 564021,
       "word": "EXO初雪回榜",
@@ -5481,14 +5505,6 @@
       "onboard_time": 1731805579,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 287509,
-      "num": 287509,
-      "word": "麦琳以为黄圣依没收到七夕礼物",
-      "onboard_time": 1732259420,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 287160,
@@ -6123,6 +6139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255675,
+      "num": 255675,
+      "word": "恩波俱乐部称票房超9亿有分账约定",
+      "onboard_time": 1732260019,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255405,
       "num": 466871,
       "word": "方时赫瘦好多",
@@ -6169,6 +6193,14 @@
       "onboard_time": 1731836839,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252163,
+      "num": 252163,
+      "word": "中国已同25个国家全面免签",
+      "onboard_time": 1732257198,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 251639,
@@ -6249,6 +6281,14 @@
       "onboard_time": 1731829158,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 249447,
+      "num": 249447,
+      "word": "王楚钦说对阵莫雷加德自己是下风球",
+      "onboard_time": 1732249219,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 249376,
@@ -6577,6 +6617,14 @@
       "onboard_time": 1731849980,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234744,
+      "num": 234744,
+      "word": "不要彩礼不啃老关老板什么事",
+      "onboard_time": 1732256299,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234661,
@@ -7339,6 +7387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 210970,
+      "num": 285840,
+      "word": "虞书欣闭年刊24小时战报",
+      "onboard_time": 1732258880,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210880,
       "num": 220270,
       "word": "张云雷参加王九龙婚礼",
@@ -7451,14 +7507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208657,
-      "num": 208657,
-      "word": "中国已同25个国家全面免签",
-      "onboard_time": 1732257198,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 208634,
       "num": 475700,
       "word": "老人买基金亏损过半家属质疑银行",
@@ -7537,6 +7585,14 @@
       "onboard_time": 1731972436,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207031,
+      "num": 207031,
+      "word": "留几手 天天都是别人的事",
+      "onboard_time": 1732257919,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 206943,
@@ -7787,14 +7843,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 203357,
-      "num": 285840,
-      "word": "虞书欣闭年刊24小时战报",
-      "onboard_time": 1732258880,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 203023,
       "num": 499646,
       "word": "被老虎咬伤村民手术结束情况较乐观",
@@ -7913,6 +7961,14 @@
       "onboard_time": 1732173500,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200850,
+      "num": 200850,
+      "word": "多少天婚假能让你结婚",
+      "onboard_time": 1732259899,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200672,
@@ -8051,14 +8107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198741,
-      "num": 198741,
-      "word": "不要彩礼不啃老关老板什么事",
-      "onboard_time": 1732256299,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198664,
       "num": 198664,
       "word": "舒淇林心如林熙蕾同游日本",
@@ -8193,14 +8241,6 @@
       "onboard_time": 1731831978,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196599,
-      "num": 196599,
-      "word": "留几手 天天都是别人的事",
-      "onboard_time": 1732257919,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 196589,
@@ -8481,6 +8521,14 @@
       "onboard_time": 1732068738,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 191661,
+      "num": 161018,
+      "word": "权志龙新歌空降第一",
+      "onboard_time": 1732260379,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 191546,
@@ -9020,7 +9068,7 @@
     },
     {
       "raw_hot": 184538,
-      "num": 184538,
+      "num": 230236,
       "word": "2024MAMA开场表演",
       "onboard_time": 1732255579,
       "rank": 34,
@@ -10483,14 +10531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160782,
-      "num": 198001,
-      "word": "恩波俱乐部称票房超9亿有分账约定",
-      "onboard_time": 1732260019,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160554,
       "num": 160554,
       "word": "李昊回应4次面试声生不息",
@@ -10665,6 +10705,14 @@
       "onboard_time": 1731977300,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157612,
+      "num": 157612,
+      "word": "邓布利多3个遗物别有深意",
+      "onboard_time": 1732260800,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 157591,
@@ -11001,6 +11049,14 @@
       "onboard_time": 1731931100,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151761,
+      "num": 151761,
+      "word": "当爱养生的年轻人遇上中药餐饮",
+      "onboard_time": 1732260320,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151754,
@@ -11417,14 +11473,6 @@
       "onboard_time": 1732015999,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146974,
-      "num": 146974,
-      "word": "股市",
-      "onboard_time": 1732260079,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 146745,
@@ -12211,14 +12259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135026,
-      "num": 223505,
-      "word": "王楚钦说对阵莫雷加德自己是下风球",
-      "onboard_time": 1732249219,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134824,
       "num": 221843,
       "word": "巴西副总统懂针灸",
@@ -12801,6 +12841,14 @@
       "onboard_time": 1731972136,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124324,
+      "num": 124324,
+      "word": "石宇奇晋级中国赛4强",
+      "onboard_time": 1732258399,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123698,
@@ -13395,6 +13443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112004,
+      "num": 346848,
+      "word": "一研为定",
+      "onboard_time": 1732260679,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111949,
       "num": 111949,
       "word": "容祖儿曾以为李昊的田是家族企业",
@@ -13915,6 +13971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97998,
+      "num": 282705,
+      "word": "肖战灯塔点燃奔向梦想",
+      "onboard_time": 1732260921,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97997,
       "num": 325175,
       "word": "Faker说现在自己正是全盛时期",
@@ -14433,6 +14497,14 @@
       "onboard_time": 1731859758,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85556,
+      "num": 281360,
+      "word": "A股出现代码玄学",
+      "onboard_time": 1732260558,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 85462,
@@ -16115,6 +16187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52811,
+      "num": 285802,
+      "word": "广东一对六旬夫妻上山后失联多日",
+      "onboard_time": 1732259240,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52787,
       "num": 233341,
       "word": "央视揭秘自证清白骗局",
@@ -16385,14 +16465,6 @@
       "onboard_time": 1731820700,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50368,
-      "num": 285802,
-      "word": "广东一对六旬夫妻上山后失联多日",
-      "onboard_time": 1732259240,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50330,
