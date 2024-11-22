@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732315289671,
+  "endTime": 1732317810485,
   "band_list": [
     {
       "raw_hot": 699606,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475191,
+      "num": 791464,
+      "word": "网红丐中丐夫妻直播遇车祸遇难",
+      "onboard_time": 1732301891,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456632,
       "num": 456632,
       "word": "何炅主持最尴尬的一次",
@@ -65,6 +73,14 @@
       "onboard_time": 1732286900,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 361363,
+      "num": 107595,
+      "word": "交大教练说张雨绮对象输球输人",
+      "onboard_time": 1732305671,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 357214,
@@ -131,12 +147,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 226391,
-      "num": 486240,
-      "word": "网红丐中丐夫妻直播遇车祸遇难",
-      "onboard_time": 1732301891,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 234758,
+      "num": 106108,
+      "word": "韩安冉要备孕三胎了",
+      "onboard_time": 1732316894,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 222010,
@@ -187,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176657,
-      "num": 68991,
-      "word": "交大教练说张雨绮对象输球输人",
-      "onboard_time": 1732305671,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 181201,
+      "num": 181201,
+      "word": "律师称现有证据下王宝强不构成欺诈",
+      "onboard_time": 1732314312,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 176184,
@@ -200,6 +216,14 @@
       "word": "男子花三千嫖娼后又偷走犯盗窃罪",
       "onboard_time": 1732279039,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173876,
+      "num": 173876,
+      "word": "当地民政局回应浙大贫困生晒旅游照",
+      "onboard_time": 1732297993,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -275,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134444,
+      "num": 134444,
+      "word": "120你只管踩油门剩下的交给我们",
+      "onboard_time": 1732310831,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 131143,
       "num": 131143,
       "word": "周洁琼弹琵琶告别小巷人家",
@@ -315,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127109,
-      "num": 127109,
-      "word": "当地民政局回应浙大贫困生晒旅游照",
-      "onboard_time": 1732297993,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120028,
       "num": 120028,
       "word": "胖东来员工称可以接受不要彩礼",
@@ -339,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112665,
+      "num": 57583,
+      "word": "八角笼中制片人晒证据反驳恩波俱乐部",
+      "onboard_time": 1732314972,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 110479,
+      "num": 267136,
+      "word": "医生谈减重版司美格鲁肽",
+      "onboard_time": 1732292597,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 102949,
       "num": 102949,
       "word": "女子晒100多个柿子全被鸟叼走了",
@@ -353,6 +393,14 @@
       "onboard_time": 1732270940,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96448,
+      "num": 96448,
+      "word": "胖东来得听劝人文关怀要继续",
+      "onboard_time": 1732308911,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96059,
@@ -395,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86626,
-      "num": 86626,
-      "word": "120你只管踩油门剩下的交给我们",
-      "onboard_time": 1732310831,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 85528,
       "num": 85528,
       "word": "为什么不是李佩玲",
@@ -435,28 +475,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75912,
-      "num": 267136,
-      "word": "医生谈减重版司美格鲁肽",
-      "onboard_time": 1732292597,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 72649,
-      "num": 72649,
+      "raw_hot": 77261,
+      "num": 77261,
       "word": "又要见证56个民族55个能歌善舞了",
       "onboard_time": 1732304171,
       "rank": 4,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70587,
-      "num": 70587,
-      "word": "胖东来得听劝人文关怀要继续",
-      "onboard_time": 1732308911,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 64408,
+      "num": 64408,
+      "word": "恩波员工称与王宝强方力量悬殊",
+      "onboard_time": 1732278019,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 60618,
@@ -467,12 +499,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59306,
+      "num": 59306,
+      "word": "女子称父亲失踪18年被困黑窑厂",
+      "onboard_time": 1732303391,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58285,
+      "num": 82783,
+      "word": "中国姑娘集体跳舞宛如复制粘贴",
+      "onboard_time": 1732300092,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57524,
       "num": 148133,
       "word": "朱志鑫cha了Peaches",
       "onboard_time": 1732293317,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57027,
+      "num": 108905,
+      "word": "中央气象台寒潮大风双预警齐发",
+      "onboard_time": 1732313651,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56838,
@@ -483,12 +539,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54181,
+      "num": 54181,
+      "word": "沈奕斐说麦琳是脆弱型自恋",
+      "onboard_time": 1732317613,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46918,
       "num": 80387,
       "word": "网传TES新赛季阵容",
       "onboard_time": 1732286840,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45063,
+      "num": 45063,
+      "word": "徐璐正骨跟放鞭炮一样",
+      "onboard_time": 1732316533,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 44878,
@@ -499,12 +571,52 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 40733,
-      "num": 82783,
-      "word": "中国姑娘集体跳舞宛如复制粘贴",
-      "onboard_time": 1732300092,
-      "rank": 17,
+      "raw_hot": 44004,
+      "num": 44004,
+      "word": "gapday音乐节",
+      "onboard_time": 1732317373,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 42748,
+      "num": 42748,
+      "word": "警方调查男子失踪18年自述被困黑砖窑",
+      "onboard_time": 1732306391,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41679,
+      "num": 298537,
+      "word": "乌镇峰会人形机器人加速进化",
+      "onboard_time": 1732279461,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 41547,
+      "num": 41547,
+      "word": "华山回应拆除金锁关许愿锁",
+      "onboard_time": 1732306331,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40819,
+      "num": 40819,
+      "word": "时代少年团五周年",
+      "onboard_time": 1732317554,
+      "rank": 44,
+      "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 40322,
+      "num": 40322,
+      "word": "周鸿祎称企业家搞流量不是不务正业",
+      "onboard_time": 1732316653,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 39871,
@@ -531,12 +643,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 36186,
-      "num": 46094,
-      "word": "女子称父亲失踪18年被困黑窑厂",
-      "onboard_time": 1732303391,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 35408,
+      "num": 35408,
+      "word": "加沙男孩说你们感受不到我们的痛苦",
+      "onboard_time": 1732308131,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33649,
@@ -555,28 +667,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 30674,
-      "num": 37967,
-      "word": "警方调查男子失踪18年自述被困黑砖窑",
-      "onboard_time": 1732306391,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29789,
       "num": 215754,
       "word": "刘宇奥利双C动了男团DNA",
       "onboard_time": 1732291578,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29278,
-      "num": 29278,
-      "word": "加沙男孩说你们感受不到我们的痛苦",
-      "onboard_time": 1732308131,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28546,
@@ -611,28 +707,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24182,
-      "num": 40294,
-      "word": "律师称现有证据下王宝强不构成欺诈",
-      "onboard_time": 1732314312,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24032,
       "num": 24032,
       "word": "朴综星弹吉他",
       "onboard_time": 1732300512,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23832,
-      "num": 25803,
-      "word": "华山回应拆除金锁关许愿锁",
-      "onboard_time": 1732306331,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22973,
@@ -665,22 +745,6 @@
       "onboard_time": 1732296973,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18905,
-      "num": 298537,
-      "word": "乌镇峰会人形机器人加速进化",
-      "onboard_time": 1732279461,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 18618,
-      "num": 23813,
-      "word": "八角笼中制片人晒证据反驳恩波俱乐部",
-      "onboard_time": 1732314972,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 18002,
@@ -753,6 +817,14 @@
       "onboard_time": 1732304951,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12846,
+      "num": 77192,
+      "word": "刘雨昕将出席英国时尚大奖",
+      "onboard_time": 1732316954,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 11241,
