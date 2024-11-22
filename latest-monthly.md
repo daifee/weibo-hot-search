@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/22 13:40:36
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/22 14:32:34
 </p>
 </blockquote>
 <p>
@@ -693,6 +693,12 @@ Faker太猛了（热度：2522854）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%97%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%B5%84%E5%8A%A9%E5%AD%A9%E5%AD%90%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+受王宝强资助孩子父亲发声（热度：2129059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E35%E4%B8%AA%E5%B7%9E%E5%92%8C%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%89%B9%E5%8C%BA%E7%BB%93%E6%9D%9F%E5%A4%A7%E9%80%89%E6%8A%95%E7%A5%A8%23" target="weibo">
 美35个州和华盛顿特区结束大选投票（热度：2116621）
 </a>
@@ -1223,6 +1229,12 @@ K7034列车发生脱轨事故（热度：1833924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2%E8%82%A2%E4%BD%93%E6%8E%A5%E8%A7%A6%E6%98%8E%E7%A0%81%E6%A0%87%E4%BB%B7%23" target="weibo">
 私人影院肢体接触明码标价（热度：1688745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23ABC%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%85%AC%E5%BC%80%E8%87%B4%E6%AD%89%23" target="weibo">
+ABC创始人公开致歉（热度：1678763）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ HLE官宣Zeus加入（热度：722415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%89%E6%BA%AA%20%E5%9C%A3%E7%8C%B4%23" target="weibo">
 玉溪 圣猴（热度：722168）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E7%88%B6%E6%AF%8D%E8%A6%81%E6%B1%82%E5%8A%A030%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%B7%B3%E6%B2%B3%E8%BD%BB%E7%94%9F%23" target="weibo">
-女子因父母要求加30万彩礼跳河轻生（热度：722129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%AD%E5%90%9BFMVP%E7%9A%AE%E8%82%A4%23" target="weibo">
-王昭君FMVP皮肤（热度：722060）
 </a>
 </li>
 

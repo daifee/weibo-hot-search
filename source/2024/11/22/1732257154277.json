@@ -1,0 +1,410 @@
+{
+  "runTime": 1732257154277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2129059,
+        "num": 2129059,
+        "word": "受王宝强资助孩子父亲发声",
+        "onboard_time": 1732254139,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1678763,
+        "num": 1678763,
+        "word": "ABC创始人公开致歉",
+        "onboard_time": 1732254080,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56673,
+        "num": 1281881,
+        "word": "乌镇来了个机器人导游",
+        "onboard_time": 1732244118,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908769,
+        "num": 908769,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 605163,
+        "num": 605163,
+        "word": "中方回应特朗普所谓60%关税",
+        "onboard_time": 1732255939,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 950224,
+        "num": 567239,
+        "word": "制片人晒王宝强转账记录",
+        "onboard_time": 1732247538,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494194,
+        "num": 494194,
+        "word": "任嘉伦发文悼念锦衣之下作者",
+        "onboard_time": 1732249640,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457923,
+        "num": 457923,
+        "word": "多位车主称小米SU7自动泊车撞墙撞柱",
+        "onboard_time": 1732250000,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 448429,
+        "num": 448429,
+        "word": "跳水",
+        "onboard_time": 1732250720,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154743,
+        "num": 427476,
+        "word": "官方回应卫生巾新国标",
+        "onboard_time": 1732256661,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 504477,
+        "num": 425482,
+        "word": "情侣亲密时酒店房间遭两男子闯入",
+        "onboard_time": 1732241418,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421079,
+        "num": 421079,
+        "word": "权志龙新歌",
+        "onboard_time": 1732252399,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196999,
+        "num": 416867,
+        "word": "李行亮干翻扬子霸总人设",
+        "onboard_time": 1732253480,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414858,
+        "num": 414858,
+        "word": "林栋哲头发是王安宇在冰岛剪的",
+        "onboard_time": 1732254439,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78939,
+        "num": 383891,
+        "word": "留学回国后我成了一个烂尾娃",
+        "onboard_time": 1732255461,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 382412,
+        "num": 382412,
+        "word": "上海迪士尼下月起取消儿童票身高标准",
+        "onboard_time": 1732251080,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 326655,
+        "num": 326655,
+        "word": "女生被风筝线割喉组委会称签了免责",
+        "onboard_time": 1732246160,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322491,
+        "num": 322491,
+        "word": "女驴友遭马夫猥亵事件最新进展",
+        "onboard_time": 1732250659,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102301,
+        "num": 322383,
+        "word": "林一说我还挺爱吃锁骨的",
+        "onboard_time": 1732255759,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156872,
+        "num": 313578,
+        "word": "韩女团成员被认定不属于劳动者",
+        "onboard_time": 1732254919,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375012,
+        "num": 298561,
+        "word": "李行亮听到麦琳怕动物的表情",
+        "onboard_time": 1732240758,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229799,
+        "num": 293845,
+        "word": "虞书欣丁禹兮月光新图",
+        "onboard_time": 1732256359,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355243,
+        "num": 284461,
+        "word": "张杰妈妈做的米线",
+        "onboard_time": 1732251260,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328948,
+        "num": 278987,
+        "word": "Rose新单曲MV",
+        "onboard_time": 1732253000,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324747,
+        "num": 262262,
+        "word": "费启鸣 出戏",
+        "onboard_time": 1732256118,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261758,
+        "num": 261758,
+        "word": "谭松韵任嘉伦悼念蓝色狮",
+        "onboard_time": 1732250902,
+        "rank": 25,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 244675,
+        "num": 244675,
+        "word": "麦学 1加1等于10理论",
+        "onboard_time": 1732254739,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225938,
+        "num": 240643,
+        "word": "ILLIT获MAMA最佳女新人",
+        "onboard_time": 1732256118,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37946,
+        "num": 240139,
+        "word": "周巡曲弦 再见爱人",
+        "onboard_time": 1732255519,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94484,
+        "num": 239893,
+        "word": "找工作又多了条性格歧视",
+        "onboard_time": 1732255640,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 239828,
+        "num": 239828,
+        "word": "雷军一条视频拯救了这家辣酱企业",
+        "onboard_time": 1732254380,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225927,
+        "num": 225927,
+        "word": "A股牛结束了吗",
+        "onboard_time": 1732254318,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221015,
+        "num": 221015,
+        "word": "小米回应SU7自动泊车功能异常",
+        "onboard_time": 1732251920,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204636,
+        "num": 204636,
+        "word": "锦衣之下作者蓝色狮去世",
+        "onboard_time": 1732245317,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184538,
+        "num": 184538,
+        "word": "2024MAMA开场表演",
+        "onboard_time": 1732255579,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181811,
+        "num": 181811,
+        "word": "杨紫新剧家业开机造型",
+        "onboard_time": 1732250180,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167663,
+        "num": 167663,
+        "word": "瓦格纳绝杀湖人",
+        "onboard_time": 1732256899,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162424,
+        "num": 162424,
+        "word": "魔术vs湖人",
+        "onboard_time": 1732251020,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158275,
+        "num": 158275,
+        "word": "将门独后",
+        "onboard_time": 1732245078,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153984,
+        "num": 153984,
+        "word": "陈幸同3比0战胜平野美宇",
+        "onboard_time": 1732252580,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149313,
+        "num": 149313,
+        "word": "孙颖莎看台观战",
+        "onboard_time": 1732254739,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146492,
+        "num": 146492,
+        "word": "周杰伦参加孩子运动会",
+        "onboard_time": 1732253359,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32780,
+        "num": 144092,
+        "word": "双关同框 周巡破防",
+        "onboard_time": 1732256960,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143992,
+        "num": 143992,
+        "word": "王曼昱说钱天一战斗力很强",
+        "onboard_time": 1732253660,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140941,
+        "num": 140941,
+        "word": "papi酱理解李行亮为什么发癫了",
+        "onboard_time": 1732245258,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139414,
+        "num": 139414,
+        "word": "刘纪鹏称3000点经历17年不正常",
+        "onboard_time": 1732253960,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133833,
+        "num": 133833,
+        "word": "网友曝再见爱人下期历史最精彩",
+        "onboard_time": 1732250902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132602,
+        "num": 132602,
+        "word": "我们有能力化解抵御外部冲击影响",
+        "onboard_time": 1732257078,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127653,
+        "num": 127653,
+        "word": "恩波格斗称会发公告",
+        "onboard_time": 1732253600,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125181,
+        "num": 125181,
+        "word": "不要彩礼不啃老关老板什么事",
+        "onboard_time": 1732256299,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#相约2024世界互联网大会#"
+    }
+  }
+}
