@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732272213933,
+  "endTime": 1732274416683,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2505,6 +2505,14 @@
       "onboard_time": 1730623819,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1420354,
+      "num": 1420354,
+      "word": "旺仔",
+      "onboard_time": 1732271779,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 1419475,
@@ -11724,7 +11732,7 @@
     },
     {
       "raw_hot": 547777,
-      "num": 229466,
+      "num": 407275,
       "word": "房东先生去世了",
       "onboard_time": 1732270940,
       "rank": 42,
@@ -14251,6 +14259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460180,
+      "num": 460180,
+      "word": "王艺迪3比1张本美和",
+      "onboard_time": 1732270699,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460070,
       "num": 352308,
       "word": "31岁女生不婚不生的真实感受",
@@ -15033,6 +15049,14 @@
       "onboard_time": 1731136038,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436316,
+      "num": 436316,
+      "word": "赵露思外网更新",
+      "onboard_time": 1732269500,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 436216,
@@ -16891,6 +16915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385875,
+      "num": 477141,
+      "word": "科普博主向市监局举报农夫山泉",
+      "onboard_time": 1732270159,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 385835,
       "num": 385835,
       "word": "春节和劳动节各增1天",
@@ -17649,14 +17681,6 @@
       "onboard_time": 1731199336,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366527,
-      "num": 477141,
-      "word": "科普博主向市监局举报农夫山泉",
-      "onboard_time": 1732270159,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 366500,
@@ -19771,6 +19795,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 318544,
+      "num": 306296,
+      "word": "火星哥你的treasure来了",
+      "onboard_time": 1732273640,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318429,
       "num": 295304,
       "word": "广西大学被指强奸女学生教授报案",
@@ -19905,6 +19937,14 @@
       "onboard_time": 1732267460,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 314858,
+      "num": 314858,
+      "word": "柳智敏开场",
+      "onboard_time": 1732271240,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 314621,
@@ -20137,6 +20177,14 @@
       "onboard_time": 1731064820,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310851,
+      "num": 380995,
+      "word": "短发的向佐也曾是我的白月光",
+      "onboard_time": 1732272139,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 310780,
@@ -21115,14 +21163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293101,
-      "num": 351680,
-      "word": "赵露思外网更新",
-      "onboard_time": 1732269500,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292395,
       "num": 415864,
       "word": "永夜星河微博开分9.3",
@@ -21745,6 +21785,14 @@
       "onboard_time": 1731225079,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282556,
+      "num": 447279,
+      "word": "羽绒服吊牌标70%绒实际含量为0",
+      "onboard_time": 1732271298,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282151,
@@ -22804,7 +22852,7 @@
     },
     {
       "raw_hot": 267460,
-      "num": 267460,
+      "num": 355274,
       "word": "双轨",
       "onboard_time": 1731238038,
       "rank": 33,
@@ -22825,14 +22873,6 @@
       "onboard_time": 1731861017,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 267310,
-      "num": 445223,
-      "word": "王艺迪3比1张本美和",
-      "onboard_time": 1732270699,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 267198,
@@ -27451,14 +27491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216010,
-      "num": 235947,
-      "word": "柳智敏开场",
-      "onboard_time": 1732271240,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 215980,
       "num": 215980,
       "word": "电梯被捂嘴女孩母亲要求追究对方刑责",
@@ -29299,6 +29331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205279,
+      "num": 233220,
+      "word": "2019年的肖战vs2024年的肖战",
+      "onboard_time": 1732273579,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205252,
       "num": 185582,
       "word": "张艺兴开灯",
@@ -29825,6 +29865,14 @@
       "onboard_time": 1731236239,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203112,
+      "num": 203112,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1732272918,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 203090,
@@ -37099,14 +37147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171419,
-      "num": 171419,
-      "word": "旺仔",
-      "onboard_time": 1732271779,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 171402,
       "num": 171402,
       "word": "汪苏泷演唱会嘉宾陈楚生",
@@ -38227,6 +38267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166425,
+      "num": 166425,
+      "word": "婚礼炒饭有何深意",
+      "onboard_time": 1732273339,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166411,
       "num": 241289,
       "word": "孙颖莎王艺迪今晚出战女双",
@@ -38729,6 +38777,14 @@
       "onboard_time": 1731371600,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164500,
+      "num": 164500,
+      "word": "解说称王楚钦最后一板做到了极致",
+      "onboard_time": 1732274240,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164494,
@@ -39401,6 +39457,14 @@
       "onboard_time": 1730532916,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161808,
+      "num": 227271,
+      "word": "陈幸同钱天一vs佐藤瞳桥本帆乃香",
+      "onboard_time": 1732271419,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 161783,
@@ -46963,6 +47027,14 @@
       "category": "动漫,游戏"
     },
     {
+      "raw_hot": 131202,
+      "num": 131202,
+      "word": "金道荣中文感言",
+      "onboard_time": 1732274359,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131193,
       "num": 216371,
       "word": "陈伟霆给导演当普通话翻译",
@@ -47361,6 +47433,14 @@
       "onboard_time": 1731767605,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129328,
+      "num": 341191,
+      "word": "Zeus经纪公司公布与T1沟通时间线",
+      "onboard_time": 1732274120,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 129319,
@@ -50297,14 +50377,6 @@
       "onboard_time": 1730773338,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116175,
-      "num": 447279,
-      "word": "羽绒服吊牌标70%绒实际含量为0",
-      "onboard_time": 1732271298,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116164,
@@ -54683,14 +54755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88716,
-      "num": 228235,
-      "word": "短发的向佐也曾是我的白月光",
-      "onboard_time": 1732272139,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88703,
       "num": 115428,
       "word": "鞠婧祎超绝表现力",
@@ -58883,6 +58947,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 61061,
+      "num": 246499,
+      "word": "狼队严正声明",
+      "onboard_time": 1732273699,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61048,
       "num": 88063,
       "word": "费启鸣演技",
@@ -59467,6 +59539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58308,
+      "num": 386815,
+      "word": "广州超40只宠物死亡谁该担责",
+      "onboard_time": 1732273521,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58254,
       "num": 275069,
       "word": "妇幼保健院回应博主曝房间暗藏摄像头",
@@ -60025,6 +60105,14 @@
       "onboard_time": 1731340638,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55266,
+      "num": 379215,
+      "word": "国际空间站漏气问题加剧",
+      "onboard_time": 1732272980,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55241,
@@ -61091,6 +61179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50907,
+      "num": 370213,
+      "word": "刘宇沙漠公路大片",
+      "onboard_time": 1732273339,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 50865,
       "num": 63472,
       "word": "谁不想拥有水哥的树屋",
@@ -61353,6 +61449,14 @@
       "onboard_time": 1730928311,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49837,
+      "num": 316009,
+      "word": "黑豆花是川渝吃烤鱼的标配吗",
+      "onboard_time": 1732271598,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 49760,
@@ -61929,6 +62033,14 @@
       "onboard_time": 1730795421,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46906,
+      "num": 254222,
+      "word": "真实评测排队7小时的网红烤鱼",
+      "onboard_time": 1732269979,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 46870,
@@ -64131,14 +64243,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 38554,
-      "num": 254222,
-      "word": "真实评测排队7小时的网红烤鱼",
-      "onboard_time": 1732269979,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 38547,
       "num": 434097,
       "word": "64岁脱口秀演员说幽默不退休",
@@ -66281,6 +66385,14 @@
       "onboard_time": 1730977582,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32224,
+      "num": 423526,
+      "word": "酒店偷拍直播涉事公司回应",
+      "onboard_time": 1732273940,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32199,
@@ -70707,14 +70819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20607,
-      "num": 227271,
-      "word": "陈幸同钱天一vs佐藤瞳桥本帆乃香",
-      "onboard_time": 1732271419,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20604,
       "num": 332055,
       "word": "邵艺辉宋佳钟楚曦谈婚育自由",
@@ -71337,14 +71441,6 @@
       "onboard_time": 1731265632,
       "rank": 10,
       "category": "军事"
-    },
-    {
-      "raw_hot": 19077,
-      "num": 261361,
-      "word": "黑豆花是川渝吃烤鱼的标配吗",
-      "onboard_time": 1732271598,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 19043,

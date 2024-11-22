@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732272213933,
+  "endTime": 1732274416683,
   "band_list": [
     {
       "raw_hot": 2318472,
@@ -81,6 +81,14 @@
       "onboard_time": 1732268058,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1420354,
+      "num": 1420354,
+      "word": "旺仔",
+      "onboard_time": 1732271779,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 1339755,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 547777,
-      "num": 229466,
+      "num": 407275,
       "word": "房东先生去世了",
       "onboard_time": 1732270940,
       "rank": 42,
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460180,
+      "num": 460180,
+      "word": "王艺迪3比1张本美和",
+      "onboard_time": 1732270699,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459867,
       "num": 311929,
       "word": "王安宇收拾收拾准备升咖",
@@ -569,6 +585,14 @@
       "onboard_time": 1732233978,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436316,
+      "num": 436316,
+      "word": "赵露思外网更新",
+      "onboard_time": 1732269500,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 436103,
@@ -635,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385875,
+      "num": 477141,
+      "word": "科普博主向市监局举报农夫山泉",
+      "onboard_time": 1732270159,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 375445,
       "num": 375445,
       "word": "卫生巾是否应该纳入医保",
@@ -649,14 +681,6 @@
       "onboard_time": 1732261102,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366527,
-      "num": 477141,
-      "word": "科普博主向市监局举报农夫山泉",
-      "onboard_time": 1732270159,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 363835,
@@ -715,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318544,
+      "num": 306296,
+      "word": "火星哥你的treasure来了",
+      "onboard_time": 1732273640,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 315220,
       "num": 315220,
       "word": "82岁拜登打起了篮球",
@@ -723,12 +755,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 314858,
+      "num": 314858,
+      "word": "柳智敏开场",
+      "onboard_time": 1732271240,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311406,
       "num": 323657,
       "word": "被娃娃脸支配的恐惧",
       "onboard_time": 1732249219,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310851,
+      "num": 380995,
+      "word": "短发的向佐也曾是我的白月光",
+      "onboard_time": 1732272139,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 299726,
@@ -745,14 +793,6 @@
       "onboard_time": 1732234518,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 293101,
-      "num": 351680,
-      "word": "赵露思外网更新",
-      "onboard_time": 1732269500,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 287194,
@@ -795,6 +835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 282556,
+      "num": 447279,
+      "word": "羽绒服吊牌标70%绒实际含量为0",
+      "onboard_time": 1732271298,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281328,
       "num": 138419,
       "word": "金靖出月子",
@@ -825,14 +873,6 @@
       "onboard_time": 1732250902,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267310,
-      "num": 445223,
-      "word": "王艺迪3比1张本美和",
-      "onboard_time": 1732270699,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 257840,
@@ -1139,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216010,
-      "num": 235947,
-      "word": "柳智敏开场",
-      "onboard_time": 1732271240,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 215784,
       "num": 261372,
       "word": "徐冬冬尹子维重回吵架最凶的地方",
@@ -1275,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205279,
+      "num": 233220,
+      "word": "2019年的肖战vs2024年的肖战",
+      "onboard_time": 1732273579,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204810,
       "num": 204810,
       "word": "时代少年团 还会再相遇",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1732267640,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203112,
+      "num": 203112,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1732272918,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 200396,
@@ -1476,7 +1524,7 @@
     },
     {
       "raw_hot": 185282,
-      "num": 185282,
+      "num": 355274,
       "word": "双轨",
       "onboard_time": 1732261102,
       "rank": 39,
@@ -1587,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171419,
-      "num": 171419,
-      "word": "旺仔",
-      "onboard_time": 1732271779,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 170012,
       "num": 170012,
       "word": "知情人透露卫生巾新国标起草进度",
@@ -1627,12 +1667,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166425,
+      "num": 166425,
+      "word": "婚礼炒饭有何深意",
+      "onboard_time": 1732273339,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "MAMA直播",
       "onboard_time": 1732239319,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164500,
+      "num": 164500,
+      "word": "解说称王楚钦最后一板做到了极致",
+      "onboard_time": 1732274240,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164305,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1732253239,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161808,
+      "num": 227271,
+      "word": "陈幸同钱天一vs佐藤瞳桥本帆乃香",
+      "onboard_time": 1732271419,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 161594,
@@ -1995,6 +2059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131202,
+      "num": 131202,
+      "word": "金道荣中文感言",
+      "onboard_time": 1732274359,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131013,
       "num": 131013,
       "word": "洲际导弹",
@@ -2017,6 +2089,14 @@
       "onboard_time": 1732267219,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129328,
+      "num": 341191,
+      "word": "Zeus经纪公司公布与T1沟通时间线",
+      "onboard_time": 1732274120,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 128826,
@@ -2120,14 +2200,6 @@
       "word": "情侣住酒店突遇2陌生人刷卡进房间",
       "onboard_time": 1732196360,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116175,
-      "num": 447279,
-      "word": "羽绒服吊牌标70%绒实际含量为0",
-      "onboard_time": 1732271298,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2321,14 +2393,6 @@
       "onboard_time": 1732203499,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88716,
-      "num": 228235,
-      "word": "短发的向佐也曾是我的白月光",
-      "onboard_time": 1732272139,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 88319,
@@ -2579,6 +2643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61061,
+      "num": 246499,
+      "word": "狼队严正声明",
+      "onboard_time": 1732273699,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61048,
       "num": 88063,
       "word": "费启鸣演技",
@@ -2635,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58308,
+      "num": 386815,
+      "word": "广州超40只宠物死亡谁该担责",
+      "onboard_time": 1732273521,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57484,
       "num": 57484,
       "word": "河南总工会热线回应胖东来彩礼新规",
@@ -2657,6 +2737,14 @@
       "onboard_time": 1732263559,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 55266,
+      "num": 379215,
+      "word": "国际空间站漏气问题加剧",
+      "onboard_time": 1732272980,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54766,
@@ -2699,6 +2787,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50907,
+      "num": 370213,
+      "word": "刘宇沙漠公路大片",
+      "onboard_time": 1732273339,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 49837,
+      "num": 316009,
+      "word": "黑豆花是川渝吃烤鱼的标配吗",
+      "onboard_time": 1732271598,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 49340,
       "num": 56916,
       "word": "中国航天员开月球车模拟动画",
@@ -2713,6 +2817,14 @@
       "onboard_time": 1732267820,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46906,
+      "num": 254222,
+      "word": "真实评测排队7小时的网红烤鱼",
+      "onboard_time": 1732269979,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 46641,
@@ -2761,14 +2873,6 @@
       "onboard_time": 1732250000,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38554,
-      "num": 254222,
-      "word": "真实评测排队7小时的网红烤鱼",
-      "onboard_time": 1732269979,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 38385,
@@ -2849,6 +2953,14 @@
       "onboard_time": 1732201280,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32224,
+      "num": 423526,
+      "word": "酒店偷拍直播涉事公司回应",
+      "onboard_time": 1732273940,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31007,
@@ -3059,14 +3171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20607,
-      "num": 227271,
-      "word": "陈幸同钱天一vs佐藤瞳桥本帆乃香",
-      "onboard_time": 1732271419,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20334,
       "num": 149739,
       "word": "用灯塔安利我的家乡",
@@ -3081,14 +3185,6 @@
       "onboard_time": 1732214112,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19077,
-      "num": 261361,
-      "word": "黑豆花是川渝吃烤鱼的标配吗",
-      "onboard_time": 1732271598,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 18780,
