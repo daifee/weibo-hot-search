@@ -1,7 +1,15 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732247295482,
+  "endTime": 1732249717167,
   "band_list": [
+    {
+      "raw_hot": 2145933,
+      "num": 345849,
+      "word": "制片人晒王宝强转账记录",
+      "onboard_time": 1732247538,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2026055,
       "num": 368899,
@@ -11,12 +19,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1586244,
+      "num": 1586244,
+      "word": "女生被风筝线割喉组委会称签了免责",
+      "onboard_time": 1732246160,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1150779,
       "num": 291641,
       "word": "虞书欣登顶内娱女星杂志销量第一",
       "onboard_time": 1732203379,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1072256,
+      "num": 1072256,
+      "word": "将门独后",
+      "onboard_time": 1732245078,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1045185,
@@ -33,6 +57,14 @@
       "onboard_time": 1732236019,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 921493,
+      "num": 921493,
+      "word": "女装卖了2000单退了1500单",
+      "onboard_time": 1732248259,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 873352,
@@ -59,16 +91,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 808576,
-      "num": 371443,
-      "word": "将门独后",
-      "onboard_time": 1732245078,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 807633,
-      "num": 298967,
+      "num": 320283,
       "word": "金正恩称朝鲜尽了最大努力和美国协商",
       "onboard_time": 1732237699,
       "rank": 30,
@@ -89,6 +113,14 @@
       "onboard_time": 1732244059,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 757093,
+      "num": 340698,
+      "word": "麦琳没有偷吃熏鸡",
+      "onboard_time": 1732248139,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 747833,
@@ -155,6 +187,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 538571,
+      "num": 538571,
+      "word": "年轻人做的副业太全面了",
+      "onboard_time": 1732245618,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 535914,
       "num": 130147,
       "word": "李行亮 麦琳",
@@ -211,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439714,
+      "num": 334769,
+      "word": "洲际导弹首次投入实战",
+      "onboard_time": 1732247360,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 438590,
       "num": 438590,
       "word": "小雪",
@@ -251,28 +299,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 371413,
-      "num": 371413,
-      "word": "女生被风筝线割喉组委会称签了免责",
-      "onboard_time": 1732246160,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343436,
-      "num": 343436,
-      "word": "年轻人做的副业太全面了",
-      "onboard_time": 1732245618,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 334916,
       "num": 181291,
       "word": "青年干部培训期间出轨被免职",
       "onboard_time": 1732220830,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319783,
+      "num": 319783,
+      "word": "MAMA颁奖礼",
+      "onboard_time": 1732241418,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 319586,
@@ -307,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 286959,
-      "num": 286959,
-      "word": "MAMA颁奖礼",
-      "onboard_time": 1732241418,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 285110,
       "num": 285110,
       "word": "张婧仪陈哲远新剧改名梦花廷",
@@ -337,6 +369,22 @@
       "onboard_time": 1732193362,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273198,
+      "num": 273198,
+      "word": "sm出差十五夜预告",
+      "onboard_time": 1732248860,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 268370,
+      "num": 268370,
+      "word": "美方首次公开承认仁爱礁特遣队",
+      "onboard_time": 1732247117,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 257840,
@@ -435,12 +483,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 223182,
+      "num": 223182,
+      "word": "RIIZE获MAMA最佳男子全球表演奖",
+      "onboard_time": 1732248559,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218781,
       "num": 232320,
       "word": "家业开机现场",
       "onboard_time": 1732245498,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218760,
+      "num": 218760,
+      "word": "李一桐县城文学女主代入感",
+      "onboard_time": 1732247238,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 213767,
@@ -489,6 +553,14 @@
       "onboard_time": 1732246219,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203440,
+      "num": 323657,
+      "word": "被娃娃脸支配的恐惧",
+      "onboard_time": 1732249219,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 200396,
@@ -555,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187026,
+      "num": 187026,
+      "word": "普京证实对乌实战测试新型中程导弹",
+      "onboard_time": 1732248799,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186068,
       "num": 186068,
       "word": "小雪到了",
@@ -563,12 +643,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 185924,
+      "num": 240822,
+      "word": "赶路赶到食堂了",
+      "onboard_time": 1732241118,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182810,
+      "num": 182810,
+      "word": "莫雷加德回应再战王楚钦",
+      "onboard_time": 1732248860,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180196,
       "num": 180196,
       "word": "陈哲远比心张婧仪比赞",
       "onboard_time": 1732242917,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178476,
+      "num": 178476,
+      "word": "王楚钦说世排第一并没多重要",
+      "onboard_time": 1732249400,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 178362,
@@ -585,6 +689,14 @@
       "onboard_time": 1732247059,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177583,
+      "num": 371504,
+      "word": "王曼昱vs钱天一",
+      "onboard_time": 1732247179,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 171497,
@@ -617,6 +729,14 @@
       "onboard_time": 1732203139,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 161296,
+      "num": 161296,
+      "word": "任嘉伦发文悼念锦衣之下作者",
+      "onboard_time": 1732249640,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 160846,
@@ -723,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144872,
+      "num": 348279,
+      "word": "流氓兔入侵马拉松",
+      "onboard_time": 1732248559,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140756,
       "num": 140756,
       "word": "同一张脸却能看出不同的两个人",
@@ -777,14 +905,6 @@
       "onboard_time": 1732195763,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133096,
-      "num": 133096,
-      "word": "美方首次公开承认仁爱礁特遣队",
-      "onboard_time": 1732247117,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132814,
@@ -864,6 +984,14 @@
       "word": "情侣住酒店突遇2陌生人刷卡进房间",
       "onboard_time": 1732196360,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111780,
+      "num": 336374,
+      "word": "父亲总被催出院俩月换了4家医院",
+      "onboard_time": 1732248678,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -963,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87865,
+      "num": 219609,
+      "word": "再见爱人后期",
+      "onboard_time": 1732248319,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85749,
       "num": 99944,
       "word": "圆肩驼背不只是体态问题",
@@ -979,8 +1115,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83134,
+      "num": 223505,
+      "word": "王楚钦说对阵莫雷加德自己是下风球",
+      "onboard_time": 1732249219,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83046,
-      "num": 580608,
+      "num": 942721,
       "word": "乌镇来了个机器人导游",
       "onboard_time": 1732244118,
       "rank": 2,
@@ -1083,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63319,
+      "num": 182822,
+      "word": "黑神话年底惊喜是影神图实体书",
+      "onboard_time": 1732248799,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61048,
       "num": 88063,
       "word": "费启鸣演技",
@@ -1107,12 +1259,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59532,
+      "num": 182857,
+      "word": "杨奇称黑神话拿奖是实至名归也有运气使然",
+      "onboard_time": 1732249580,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57484,
       "num": 57484,
       "word": "河南总工会热线回应胖东来彩礼新规",
       "onboard_time": 1732210992,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 54766,
+      "num": 325043,
+      "word": "周鸿祎谈钟睒睒看不起直播带货",
+      "onboard_time": 1732248620,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 54496,
@@ -1147,14 +1315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47882,
-      "num": 213014,
-      "word": "李一桐县城文学女主代入感",
-      "onboard_time": 1732247238,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43712,
       "num": 128892,
       "word": "时代少年团换五周年背景图",
@@ -1180,7 +1340,7 @@
     },
     {
       "raw_hot": 37062,
-      "num": 124644,
+      "num": 241043,
       "word": "小雪外出穿衣指南",
       "onboard_time": 1732247179,
       "rank": 47,
@@ -1283,6 +1443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26998,
+      "num": 219147,
+      "word": "下雪天送火锅食材",
+      "onboard_time": 1732249039,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 26222,
       "num": 20825,
       "word": "虞书欣COSMO销量",
@@ -1371,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18780,
+      "num": 337801,
+      "word": "王曼昱拿下首局",
+      "onboard_time": 1732249521,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16027,
       "num": 100196,
       "word": "丁禹兮飘雪战损",
@@ -1443,14 +1619,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11876,
-      "num": 240822,
-      "word": "赶路赶到食堂了",
-      "onboard_time": 1732241118,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 8429,
       "num": 37552,
       "word": "惠英红 大型主办方气质",
@@ -1459,20 +1627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6743,
-      "num": 371504,
-      "word": "王曼昱vs钱天一",
-      "onboard_time": 1732247179,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 6089,
       "num": 36784,
       "word": "张钧甯我老公风",
       "onboard_time": 1732214532,
       "rank": 19,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 5761,
+      "num": 327592,
+      "word": "钱天一扳平",
+      "onboard_time": 1732249700,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 5699,
