@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732245022425,
+  "endTime": 1732246612772,
   "band_list": [
     {
       "raw_hot": 2026055,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 873352,
+      "num": 537040,
+      "word": "李行亮听到麦琳怕动物的表情",
+      "onboard_time": 1732240758,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 848309,
       "num": 1135729,
       "word": "李行亮道歉这段",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 807633,
-      "num": 199684,
+      "num": 280391,
       "word": "金正恩称朝鲜尽了最大努力和美国协商",
       "onboard_time": 1732237699,
       "rank": 30,
@@ -57,6 +65,14 @@
       "onboard_time": 1732204818,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 762184,
+      "num": 1121949,
+      "word": "电影误杀3定档",
+      "onboard_time": 1732244059,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 747833,
@@ -83,14 +99,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 572524,
-      "num": 572524,
-      "word": "电影误杀3定档",
-      "onboard_time": 1732244059,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 572110,
       "num": 235189,
       "word": "医生建议别疯抢医用卫生巾",
@@ -99,8 +107,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 569356,
+      "num": 331356,
+      "word": "锦衣之下作者蓝色狮去世",
+      "onboard_time": 1732245317,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559944,
-      "num": 316131,
+      "num": 324335,
       "word": "于正曝演员因粉丝抵制剧本而睡不着",
       "onboard_time": 1732240159,
       "rank": 11,
@@ -115,12 +131,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 553696,
-      "num": 537040,
-      "word": "李行亮听到麦琳怕动物的表情",
-      "onboard_time": 1732240758,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 549804,
+      "num": 326004,
+      "word": "将门独后",
+      "onboard_time": 1732245078,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 535914,
@@ -129,6 +145,14 @@
       "onboard_time": 1732188739,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532474,
+      "num": 532474,
+      "word": "地铁通勤每月费用超过300元贵吗",
+      "onboard_time": 1732236378,
+      "rank": 33,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 527672,
@@ -169,6 +193,14 @@
       "onboard_time": 1732243398,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 452191,
+      "num": 325449,
+      "word": "papi酱理解李行亮为什么发癫了",
+      "onboard_time": 1732245258,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 452138,
@@ -219,14 +251,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 352856,
-      "num": 352856,
-      "word": "地铁通勤每月费用超过300元贵吗",
-      "onboard_time": 1732236378,
-      "rank": 33,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 334916,
       "num": 181291,
       "word": "青年干部培训期间出轨被免职",
@@ -235,8 +259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307689,
-      "num": 307689,
+      "raw_hot": 319586,
+      "num": 319586,
       "word": "家业",
       "onboard_time": 1732240698,
       "rank": 29,
@@ -275,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283275,
+      "num": 283275,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1732246459,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 281328,
       "num": 138419,
       "word": "金靖出月子",
       "onboard_time": 1732193362,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257840,
+      "num": 257840,
+      "word": "小偷车里睡了一觉到派出所了",
+      "onboard_time": 1732243218,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256484,
@@ -332,11 +372,19 @@
     },
     {
       "raw_hot": 232355,
-      "num": 232355,
+      "num": 320406,
       "word": "内蒙古奶皮子冰糖葫芦爆火",
       "onboard_time": 1732236919,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231040,
+      "num": 231040,
+      "word": "年轻人做的副业太全面了",
+      "onboard_time": 1732245618,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 230662,
@@ -369,14 +417,6 @@
       "onboard_time": 1732199121,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 216066,
-      "num": 216066,
-      "word": "小偷车里睡了一觉到派出所了",
-      "onboard_time": 1732243218,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213767,
@@ -417,6 +457,14 @@
       "onboard_time": 1732203139,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207925,
+      "num": 232320,
+      "word": "家业开机现场",
+      "onboard_time": 1732245498,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 199665,
@@ -499,6 +547,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177441,
+      "num": 177441,
+      "word": "时代少年团 还会再相遇",
+      "onboard_time": 1732246219,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 174321,
+      "num": 327804,
+      "word": "女生被风筝线割喉组委会称签了免责",
+      "onboard_time": 1732246160,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171497,
       "num": 132119,
       "word": "王楚钦把对手拍子打掉了",
@@ -571,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153029,
+      "num": 233565,
+      "word": "殷世航 东南vip",
+      "onboard_time": 1732244358,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 152914,
       "num": 152914,
       "word": "普京回应俄罗斯发射高超音速导弹",
@@ -579,11 +651,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152090,
+      "num": 152090,
+      "word": "肖战灯塔立麦纯享版MV",
+      "onboard_time": 1732246339,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151693,
       "num": 151693,
       "word": "逆水寒",
       "onboard_time": 1732238117,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 151439,
+      "num": 151439,
+      "word": "一梦江湖",
+      "onboard_time": 1732245799,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -617,6 +705,14 @@
       "onboard_time": 1732244358,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140756,
+      "num": 140756,
+      "word": "同一张脸却能看出不同的两个人",
+      "onboard_time": 1732245498,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138463,
@@ -665,6 +761,14 @@
       "onboard_time": 1732195763,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132814,
+      "num": 132814,
+      "word": "郭碧婷尚雯婕好嗑",
+      "onboard_time": 1732246517,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 131013,
@@ -723,6 +827,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 108664,
+      "num": 330100,
+      "word": "拜登回应ICC对以总理发出逮捕令",
+      "onboard_time": 1732245018,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106732,
       "num": 106732,
       "word": "李行亮离婚会把四分之三财产给麦琳",
@@ -768,6 +880,14 @@
       "word": "女子恋爱1个月被骗贷17万",
       "onboard_time": 1732203439,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91493,
+      "num": 329330,
+      "word": "小雪初冬看一场九寨沟的雪",
+      "onboard_time": 1732245317,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -835,6 +955,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 81790,
+      "num": 231286,
+      "word": "林诗栋说总决赛自己特别想打好",
+      "onboard_time": 1732246278,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81772,
       "num": 81772,
       "word": "埃文凯尔感谢中国小姐姐赠送国博限量文创",
@@ -875,12 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75124,
-      "num": 233565,
-      "word": "殷世航 东南vip",
-      "onboard_time": 1732244358,
-      "rank": 22,
-      "category": "网红"
+      "raw_hot": 75489,
+      "num": 580608,
+      "word": "乌镇来了个机器人导游",
+      "onboard_time": 1732244118,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71637,
+      "num": 305285,
+      "word": "杨幂黑粉未履行赔偿被强执",
+      "onboard_time": 1732245618,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 70209,
@@ -1019,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32250,
-      "num": 580608,
-      "word": "乌镇来了个机器人导游",
-      "onboard_time": 1732244118,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30381,
       "num": 41386,
       "word": "以方回应国际刑事法院逮捕令",
@@ -1057,6 +1185,14 @@
       "onboard_time": 1732210213,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29439,
+      "num": 152522,
+      "word": "带着93岁姥姥来追星孙颖莎",
+      "onboard_time": 1732246459,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 29221,
@@ -1147,12 +1283,28 @@
       "category": "运动健身,母婴育儿"
     },
     {
+      "raw_hot": 21873,
+      "num": 162251,
+      "word": "小雪节气遇上冷空气",
+      "onboard_time": 1732245258,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21313,
       "num": 257732,
       "word": "我的祖国在巴西唱响见证了什么",
       "onboard_time": 1732195460,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 20744,
+      "num": 151546,
+      "word": "小雪节气该有的仪式感",
+      "onboard_time": 1732245258,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19747,
