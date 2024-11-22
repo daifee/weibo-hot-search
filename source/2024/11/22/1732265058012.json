@@ -1,0 +1,410 @@
+{
+  "runTime": 1732265058012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2315284,
+        "num": 2315284,
+        "word": "微信一次性查询所有单删好友",
+        "onboard_time": 1732261341,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1222723,
+        "num": 1222723,
+        "word": "姐姐离婚为亡弟流浪追凶27年",
+        "onboard_time": 1732262240,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44633,
+        "num": 1062140,
+        "word": "中国已发展成全球最大互联网市场",
+        "onboard_time": 1732264279,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1040882,
+        "num": 1040882,
+        "word": "日本克罗地亚等9国来华免签",
+        "onboard_time": 1732263139,
+        "rank": 3,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 871625,
+        "num": 871625,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1732258518,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 790624,
+        "num": 790624,
+        "word": "麦琳戳穿了李行亮的爱妻面具",
+        "onboard_time": 1732257379,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 772416,
+        "num": 772416,
+        "word": "王楚钦采访逗笑全场",
+        "onboard_time": 1732263379,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 759705,
+        "num": 759705,
+        "word": "受王宝强资助孩子父亲发声",
+        "onboard_time": 1732254139,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56073,
+        "num": 663562,
+        "word": "一下雪中式意境更浓了",
+        "onboard_time": 1732263559,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 622827,
+        "num": 622827,
+        "word": "丁禹兮杂志限量",
+        "onboard_time": 1732263199,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1128317,
+        "num": 622090,
+        "word": "赵露思发了49995元粉丝红包",
+        "onboard_time": 1732258880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619928,
+        "num": 619928,
+        "word": "多少天婚假能让你结婚",
+        "onboard_time": 1732259899,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508649,
+        "num": 508649,
+        "word": "王楚钦进四强",
+        "onboard_time": 1732261102,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438043,
+        "num": 438043,
+        "word": "MAMA红毯",
+        "onboard_time": 1732262778,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412036,
+        "num": 412036,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 408033,
+        "num": 408033,
+        "word": "免签",
+        "onboard_time": 1732263438,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383988,
+        "num": 383988,
+        "word": "麦琳以为黄圣依没收到七夕礼物",
+        "onboard_time": 1732259420,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310257,
+        "num": 310257,
+        "word": "虞书欣双轨开拍路透",
+        "onboard_time": 1732260620,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63163,
+        "num": 309851,
+        "word": "卫生巾缩水但监管不能缩水",
+        "onboard_time": 1732263379,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23645,
+        "num": 308477,
+        "word": "荣耀300配色竟是一条旅拍路线",
+        "onboard_time": 1732262719,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 406790,
+        "num": 306748,
+        "word": "ABC创始人公开致歉",
+        "onboard_time": 1732254080,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161698,
+        "num": 305528,
+        "word": "杨幂 英雄是民族最闪亮的坐标",
+        "onboard_time": 1732262361,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195126,
+        "num": 304040,
+        "word": "A股全市超4900股飘绿",
+        "onboard_time": 1732262420,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23631,
+        "num": 303500,
+        "word": "K80性能狂暴辣",
+        "onboard_time": 1732262719,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 302217,
+        "num": 302217,
+        "word": "A股大跌原因找到了",
+        "onboard_time": 1732264399,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85935,
+        "num": 299221,
+        "word": "宋佳称铁梅的魅力是她永远活得积极",
+        "onboard_time": 1732262958,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237099,
+        "num": 297850,
+        "word": "恩波格斗俱乐部声明",
+        "onboard_time": 1732257919,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296541,
+        "num": 296541,
+        "word": "股市",
+        "onboard_time": 1732260079,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158024,
+        "num": 262621,
+        "word": "MAMA日本场红毯",
+        "onboard_time": 1732264339,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74956,
+        "num": 261372,
+        "word": "徐冬冬尹子维重回吵架最凶的地方",
+        "onboard_time": 1732264759,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261208,
+        "num": 261208,
+        "word": "这六省婚假只有3天",
+        "onboard_time": 1732262660,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252796,
+        "num": 252796,
+        "word": "中方回应特朗普所谓60%关税",
+        "onboard_time": 1732255939,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 245842,
+        "num": 245842,
+        "word": "王楚钦3比1战胜莫雷加德",
+        "onboard_time": 1732261102,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222967,
+        "num": 222967,
+        "word": "费启鸣 出戏",
+        "onboard_time": 1732256118,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114618,
+        "num": 213880,
+        "word": "中国载人航天发展蓝图画好了",
+        "onboard_time": 1732261761,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 213115,
+        "num": 213115,
+        "word": "迪丽热巴慕胥辞牵手跑路透",
+        "onboard_time": 1732264039,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206135,
+        "num": 206135,
+        "word": "华晨宇请工作人员吃500斤龙虾",
+        "onboard_time": 1732264098,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198496,
+        "num": 198496,
+        "word": "情侣亲密时酒店房间遭两男子闯入",
+        "onboard_time": 1732241418,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51716,
+        "num": 189957,
+        "word": "对手教练谈王楚钦表现",
+        "onboard_time": 1732258638,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188344,
+        "num": 188344,
+        "word": "肖战包场钟楚曦电影",
+        "onboard_time": 1732263678,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160991,
+        "num": 160991,
+        "word": "双轨",
+        "onboard_time": 1732261102,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157556,
+        "num": 157556,
+        "word": "鸣潮2.0版本",
+        "onboard_time": 1732264640,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151825,
+        "num": 151825,
+        "word": "杨幂参观叶城烈士陵园",
+        "onboard_time": 1732262179,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150885,
+        "num": 150885,
+        "word": "赵晓卉 再见老板",
+        "onboard_time": 1732262778,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143218,
+        "num": 143218,
+        "word": "王楚钦半决赛对阵约奇克",
+        "onboard_time": 1732262958,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141694,
+        "num": 141694,
+        "word": "媒体评胖东来员工新规",
+        "onboard_time": 1732264879,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141642,
+        "num": 141642,
+        "word": "王楚钦说没联想巴黎那场球",
+        "onboard_time": 1732263501,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139496,
+        "num": 139496,
+        "word": "不要彩礼不啃老关老板什么事",
+        "onboard_time": 1732256299,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138824,
+        "num": 138824,
+        "word": "王楚钦回应胜莫雷加德",
+        "onboard_time": 1732264220,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138376,
+        "num": 138376,
+        "word": "何与双轨开机造型",
+        "onboard_time": 1732262240,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席拉美之行#"
+    }
+  }
+}
