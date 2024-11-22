@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732241389245,
+  "endTime": 1732244460221,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1731237860,
       "rank": 23,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 1953730,
+      "num": 290537,
+      "word": "情侣亲密时酒店房间遭两男子闯入",
+      "onboard_time": 1732241418,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1953571,
@@ -9523,6 +9531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635496,
+      "num": 635496,
+      "word": "丫丫的脸逐渐向着正圆发展",
+      "onboard_time": 1732239378,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 635402,
       "num": 635402,
       "word": "Knight删除BLG相关微博",
@@ -10707,6 +10723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579460,
+      "num": 293966,
+      "word": "涉事骑友回应女子被其嘲讽后自杀",
+      "onboard_time": 1732239796,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 578570,
       "num": 648675,
       "word": "孙颖莎场下摇头",
@@ -11113,6 +11137,14 @@
       "onboard_time": 1732105402,
       "rank": 20,
       "category": "军事"
+    },
+    {
+      "raw_hot": 559944,
+      "num": 287553,
+      "word": "于正曝演员因粉丝抵制剧本而睡不着",
+      "onboard_time": 1732240159,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 559161,
@@ -11721,6 +11753,14 @@
       "onboard_time": 1731567262,
       "rank": 20,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 537040,
+      "num": 537040,
+      "word": "李行亮听到麦琳怕动物的表情",
+      "onboard_time": 1732240758,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 536801,
@@ -12507,14 +12547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 511255,
-      "num": 293966,
-      "word": "涉事骑友回应女子被其嘲讽后自杀",
-      "onboard_time": 1732239796,
-      "rank": 35,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 511217,
       "num": 435336,
       "word": "刘宇宁直播了5个小时",
@@ -12617,14 +12649,6 @@
       "onboard_time": 1730883984,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506630,
-      "num": 287553,
-      "word": "于正曝演员因粉丝抵制剧本而睡不着",
-      "onboard_time": 1732240159,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 506363,
@@ -13388,7 +13412,7 @@
     },
     {
       "raw_hot": 476393,
-      "num": 279323,
+      "num": 282539,
       "word": "这下我承认丁禹兮付出的比我多了",
       "onboard_time": 1732240878,
       "rank": 12,
@@ -13873,6 +13897,14 @@
       "onboard_time": 1731820580,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 459867,
+      "num": 292592,
+      "word": "王安宇收拾收拾准备升咖",
+      "onboard_time": 1732243398,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459704,
@@ -14729,14 +14761,6 @@
       "onboard_time": 1730610139,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 432276,
-      "num": 274116,
-      "word": "丫丫的脸逐渐向着正圆发展",
-      "onboard_time": 1732239378,
-      "rank": 26,
-      "category": "正能量"
     },
     {
       "raw_hot": 431949,
@@ -17737,6 +17761,14 @@
       "onboard_time": 1730463799,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352856,
+      "num": 352856,
+      "word": "地铁通勤每月费用超过300元贵吗",
+      "onboard_time": 1732236378,
+      "rank": 33,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 352749,
@@ -22147,6 +22179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269260,
+      "num": 269260,
+      "word": "电影误杀3定档",
+      "onboard_time": 1732244059,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268824,
       "num": 268824,
       "word": "忽然明白少年夫妻老来伴的含义",
@@ -23971,6 +24011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245734,
+      "num": 245734,
+      "word": "家业",
+      "onboard_time": 1732240698,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245708,
       "num": 245708,
       "word": "永夜星河有自己的奥特曼",
@@ -24361,14 +24409,6 @@
       "onboard_time": 1731643520,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240479,
-      "num": 240479,
-      "word": "李行亮听到麦琳怕动物的表情",
-      "onboard_time": 1732240758,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 240413,
@@ -25433,14 +25473,6 @@
       "onboard_time": 1731250701,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 228794,
-      "num": 228794,
-      "word": "地铁通勤每月费用超过300元贵吗",
-      "onboard_time": 1732236378,
-      "rank": 33,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 228593,
@@ -26969,6 +27001,14 @@
       "onboard_time": 1732212612,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213728,
+      "num": 213728,
+      "word": "内蒙古奶皮子冰糖葫芦爆火",
+      "onboard_time": 1732236919,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 213557,
@@ -32235,28 +32275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189241,
-      "num": 195665,
-      "word": "家业",
-      "onboard_time": 1732240698,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189212,
       "num": 189212,
       "word": "刘德华演出唱中国人遭台政客挑刺",
       "onboard_time": 1730606181,
       "rank": 38,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 189116,
-      "num": 189116,
-      "word": "内蒙古奶皮子冰糖葫芦爆火",
-      "onboard_time": 1732236919,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 189084,
@@ -32393,6 +32417,14 @@
       "onboard_time": 1731165501,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188611,
+      "num": 188611,
+      "word": "小偷车里睡了一觉到派出所了",
+      "onboard_time": 1732243218,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188574,
@@ -34129,6 +34161,14 @@
       "onboard_time": 1730552960,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180196,
+      "num": 180196,
+      "word": "陈哲远比心张婧仪比赞",
+      "onboard_time": 1732242917,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 180192,
@@ -36331,6 +36371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170012,
+      "num": 170012,
+      "word": "知情人透露卫生巾新国标起草进度",
+      "onboard_time": 1732240578,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169946,
       "num": 169946,
       "word": "郑钦文世界排名升至第六",
@@ -36689,6 +36737,14 @@
       "onboard_time": 1730419999,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168581,
+      "num": 168581,
+      "word": "MAMA颁奖礼",
+      "onboard_time": 1732241418,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 168494,
@@ -44723,6 +44779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135234,
+      "num": 135234,
+      "word": "王楚钦谈再战莫雷加德",
+      "onboard_time": 1732241238,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135213,
       "num": 326408,
       "word": "K7034列车脱轨事故亲历者发声",
@@ -47219,6 +47283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123925,
+      "num": 123925,
+      "word": "普京回应俄罗斯发射高超音速导弹",
+      "onboard_time": 1732242678,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123884,
       "num": 332584,
       "word": "九尾帅出新高度",
@@ -48073,6 +48145,14 @@
       "onboard_time": 1731207497,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120201,
+      "num": 120201,
+      "word": "喜剧大会 按时下班就是消极加班",
+      "onboard_time": 1732244358,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 120184,
@@ -50153,14 +50233,6 @@
       "onboard_time": 1730813783,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109277,
-      "num": 109277,
-      "word": "王楚钦谈再战莫雷加德",
-      "onboard_time": 1732241238,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 109181,
@@ -56825,14 +56897,6 @@
       "onboard_time": 1732019061,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62735,
-      "num": 138708,
-      "word": "知情人透露卫生巾新国标起草进度",
-      "onboard_time": 1732240578,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 62680,
@@ -65883,6 +65947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28486,
+      "num": 178115,
+      "word": "金摇杆最佳独立游戏奖",
+      "onboard_time": 1732243818,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28434,
       "num": 223167,
       "word": "华为见非凡徐冰谈敢于探索",
@@ -68163,6 +68235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 22200,
+      "num": 283099,
+      "word": "电影好东西里的新关系",
+      "onboard_time": 1732243218,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22182,
       "num": 43174,
       "word": "杨妞花说如果是炒作要炒得天下无拐",
@@ -69523,6 +69603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18601,
+      "num": 293945,
+      "word": "记者打卡互联网之光新看点",
+      "onboard_time": 1732243578,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 18553,
       "num": 365238,
       "word": "研究称体罚会影响大脑发育",
@@ -70179,6 +70267,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 16524,
+      "num": 558751,
+      "word": "乌镇来了个机器人导游",
+      "onboard_time": 1732244118,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16490,
       "num": 211178,
       "word": "黄子华 我又不姓何",
@@ -70625,6 +70721,14 @@
       "onboard_time": 1731155299,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15055,
+      "num": 177727,
+      "word": "出圈群演沈凯谈做群演也要认真对待",
+      "onboard_time": 1732243218,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 15032,
