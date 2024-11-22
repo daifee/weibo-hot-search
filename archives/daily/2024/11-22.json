@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732252959346,
+  "endTime": 1732254036869,
   "band_list": [
     {
       "raw_hot": 2145933,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 812379,
+      "num": 812379,
+      "word": "权志龙新歌",
+      "onboard_time": 1732252399,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 807633,
       "num": 344801,
       "word": "金正恩称朝鲜尽了最大努力和美国协商",
@@ -147,12 +155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 672632,
+      "raw_hot": 689843,
       "num": 672632,
       "word": "多位车主称小米SU7自动泊车撞墙撞柱",
       "onboard_time": 1732250000,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 683399,
+      "num": 683399,
+      "word": "上海迪士尼下月起取消儿童票身高标准",
+      "onboard_time": 1732251080,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 635496,
@@ -203,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 541903,
+      "num": 541903,
+      "word": "跳水",
+      "onboard_time": 1732250720,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 538734,
       "num": 538734,
       "word": "地铁通勤每月费用超过300元贵吗",
@@ -217,14 +241,6 @@
       "onboard_time": 1732245618,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 536390,
-      "num": 536390,
-      "word": "权志龙新歌",
-      "onboard_time": 1732252399,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 535914,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488169,
+      "num": 488169,
+      "word": "Rose新单曲MV",
+      "onboard_time": 1732253000,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 476393,
       "num": 282539,
       "word": "这下我承认丁禹兮付出的比我多了",
@@ -283,14 +307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 457208,
-      "num": 457208,
-      "word": "上海迪士尼下月起取消儿童票身高标准",
-      "onboard_time": 1732251080,
-      "rank": 15,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 454056,
       "num": 376748,
       "word": "洲际导弹首次投入实战",
@@ -305,14 +321,6 @@
       "onboard_time": 1732238839,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 446936,
-      "num": 446936,
-      "word": "跳水",
-      "onboard_time": 1732250720,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 438590,
@@ -547,6 +555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 238347,
+      "num": 238347,
+      "word": "小米回应SU7自动泊车功能异常",
+      "onboard_time": 1732251920,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 231999,
       "num": 231999,
       "word": "王楚钦说世排第一并没多重要",
@@ -611,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215394,
-      "num": 215394,
-      "word": "小米回应SU7自动泊车功能异常",
-      "onboard_time": 1732251920,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 213767,
       "num": 213767,
       "word": "国博补赠中国小姐姐凤冠冰箱贴",
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 208623,
-      "num": 208623,
+      "num": 227373,
       "word": "普京证实对乌实战测试新型中程导弹",
       "onboard_time": 1732248799,
       "rank": 36,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192570,
+      "num": 300654,
+      "word": "周杰伦参加孩子运动会",
+      "onboard_time": 1732253359,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191459,
       "num": 191459,
       "word": "烧饼任德云社副总",
@@ -769,6 +785,14 @@
       "onboard_time": 1732204699,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 184775,
+      "num": 287175,
+      "word": "王曼昱说钱天一战斗力很强",
+      "onboard_time": 1732253660,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 182810,
@@ -811,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176235,
+      "num": 311245,
+      "word": "小巷人家 真正的爱意会从眼里溢出来",
+      "onboard_time": 1732253059,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171497,
       "num": 132119,
       "word": "王楚钦把对手拍子打掉了",
@@ -841,6 +873,14 @@
       "onboard_time": 1732252040,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162420,
+      "num": 162420,
+      "word": "蓝色狮丈夫在微博发文悼念",
+      "onboard_time": 1732253239,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 161594,
@@ -987,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141699,
+      "num": 141699,
+      "word": "李行亮干翻扬子霸总人设",
+      "onboard_time": 1732253480,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140756,
       "num": 140756,
       "word": "同一张脸却能看出不同的两个人",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1732195763,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134224,
+      "num": 134224,
+      "word": "刘纪鹏称3000点经历17年不正常",
+      "onboard_time": 1732253960,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 132814,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1732241179,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 107720,
+      "num": 616024,
+      "word": "陈幸同3比0战胜平野美宇",
+      "onboard_time": 1732252580,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 106732,
@@ -1379,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75173,
+      "num": 570652,
+      "word": "专家建议偷拍入刑增设侵犯隐私罪",
+      "onboard_time": 1732251741,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71637,
       "num": 305285,
       "word": "杨幂黑粉未履行赔偿被强执",
@@ -1411,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64130,
+      "num": 528323,
+      "word": "恩波格斗称会发公告",
+      "onboard_time": 1732253600,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63319,
       "num": 182822,
       "word": "黑神话年底惊喜是影神图实体书",
@@ -1435,6 +1515,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60302,
+      "num": 464225,
+      "word": "专家分析广州多只宠物狗中毒死因",
+      "onboard_time": 1732252700,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60241,
+      "num": 182882,
+      "word": "阿娇晒合照给阿Sa庆生",
+      "onboard_time": 1732253660,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60238,
       "num": 60238,
       "word": "加沙已是孤儿之城这还不够吗",
@@ -1449,14 +1545,6 @@
       "onboard_time": 1732249580,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 57881,
-      "num": 570652,
-      "word": "专家建议偷拍入刑增设侵犯隐私罪",
-      "onboard_time": 1732251741,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57484,
@@ -1539,14 +1627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 37890,
-      "num": 457384,
-      "word": "专家分析广州多只宠物狗中毒死因",
-      "onboard_time": 1732252700,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37361,
       "num": 114401,
       "word": "辛芷蕾侯明昊井柏然齐聚成都",
@@ -1569,14 +1649,6 @@
       "onboard_time": 1732190720,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 33775,
-      "num": 616024,
-      "word": "陈幸同3比0战胜平野美宇",
-      "onboard_time": 1732252580,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 33664,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1732210213,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29337,
+      "num": 167758,
+      "word": "小雪低温补贴",
+      "onboard_time": 1732251620,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 29221,
@@ -1731,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21624,
+      "num": 215500,
+      "word": "白夜破晓节奏",
+      "onboard_time": 1732254020,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21313,
       "num": 257732,
       "word": "我的祖国在巴西唱响见证了什么",
@@ -1785,14 +1873,6 @@
       "onboard_time": 1732215791,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15299,
-      "num": 164310,
-      "word": "小雪低温补贴",
-      "onboard_time": 1732251620,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 15055,
@@ -1857,6 +1937,14 @@
       "onboard_time": 1732213331,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7711,
+      "num": 212185,
+      "word": "王楚钦莫雷加德将迎奥运后首次交手",
+      "onboard_time": 1732254020,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 6089,

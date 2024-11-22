@@ -1,0 +1,410 @@
+{
+  "runTime": 1732254036869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672734,
+        "num": 1672734,
+        "word": "制片人晒王宝强转账记录",
+        "onboard_time": 1732247538,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1345469,
+        "num": 1345469,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61497,
+        "num": 947544,
+        "word": "乌镇来了个机器人导游",
+        "onboard_time": 1732244118,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812379,
+        "num": 812379,
+        "word": "权志龙新歌",
+        "onboard_time": 1732252399,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 683399,
+        "num": 683399,
+        "word": "上海迪士尼下月起取消儿童票身高标准",
+        "onboard_time": 1732251080,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 552542,
+        "num": 552542,
+        "word": "女生被风筝线割喉组委会称签了免责",
+        "onboard_time": 1732246160,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790540,
+        "num": 547430,
+        "word": "任嘉伦发文悼念锦衣之下作者",
+        "onboard_time": 1732249640,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 689843,
+        "num": 544846,
+        "word": "多位车主称小米SU7自动泊车撞墙撞柱",
+        "onboard_time": 1732250000,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 541903,
+        "num": 541903,
+        "word": "跳水",
+        "onboard_time": 1732250720,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64130,
+        "num": 528323,
+        "word": "恩波格斗称会发公告",
+        "onboard_time": 1732253600,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605238,
+        "num": 527964,
+        "word": "情侣亲密时酒店房间遭两男子闯入",
+        "onboard_time": 1732241418,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603829,
+        "num": 527712,
+        "word": "张杰妈妈做的米线",
+        "onboard_time": 1732251260,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 526519,
+        "num": 526519,
+        "word": "锦衣之下作者蓝色狮去世",
+        "onboard_time": 1732245317,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488169,
+        "num": 488169,
+        "word": "Rose新单曲MV",
+        "onboard_time": 1732253000,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60302,
+        "num": 464225,
+        "word": "专家分析广州多只宠物狗中毒死因",
+        "onboard_time": 1732252700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464157,
+        "num": 464157,
+        "word": "女驴友遭马夫猥亵事件最新进展",
+        "onboard_time": 1732250659,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321160,
+        "num": 321160,
+        "word": "王曼昱vs钱天一",
+        "onboard_time": 1732247179,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176235,
+        "num": 311245,
+        "word": "小巷人家 真正的爱意会从眼里溢出来",
+        "onboard_time": 1732253059,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192570,
+        "num": 300654,
+        "word": "周杰伦参加孩子运动会",
+        "onboard_time": 1732253359,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184775,
+        "num": 287175,
+        "word": "王曼昱说钱天一战斗力很强",
+        "onboard_time": 1732253660,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587910,
+        "num": 278429,
+        "word": "李行亮听到麦琳怕动物的表情",
+        "onboard_time": 1732240758,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378721,
+        "num": 262387,
+        "word": "杨紫新剧家业开机造型",
+        "onboard_time": 1732250180,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254704,
+        "num": 254704,
+        "word": "洲际导弹首次投入实战",
+        "onboard_time": 1732247360,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238347,
+        "num": 238347,
+        "word": "小米回应SU7自动泊车功能异常",
+        "onboard_time": 1732251920,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 341900,
+        "num": 237585,
+        "word": "将门独后",
+        "onboard_time": 1732245078,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336156,
+        "num": 232061,
+        "word": "谭松韵任嘉伦悼念蓝色狮",
+        "onboard_time": 1732250902,
+        "rank": 25,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 198036,
+        "num": 227373,
+        "word": "普京证实对乌实战测试新型中程导弹",
+        "onboard_time": 1732248799,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295246,
+        "num": 221529,
+        "word": "papi酱理解李行亮为什么发癫了",
+        "onboard_time": 1732245258,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21624,
+        "num": 215500,
+        "word": "白夜破晓节奏",
+        "onboard_time": 1732254020,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7711,
+        "num": 212185,
+        "word": "王楚钦莫雷加德将迎奥运后首次交手",
+        "onboard_time": 1732254020,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210099,
+        "num": 210099,
+        "word": "网友曝再见爱人下期历史最精彩",
+        "onboard_time": 1732250902,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205010,
+        "num": 205010,
+        "word": "被娃娃脸支配的恐惧",
+        "onboard_time": 1732249219,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60241,
+        "num": 182882,
+        "word": "阿娇晒合照给阿Sa庆生",
+        "onboard_time": 1732253660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182337,
+        "num": 182337,
+        "word": "陈幸同vs平野美宇",
+        "onboard_time": 1732250902,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107720,
+        "num": 179195,
+        "word": "陈幸同3比0战胜平野美宇",
+        "onboard_time": 1732252580,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193503,
+        "num": 178056,
+        "word": "MAMA颁奖礼",
+        "onboard_time": 1732241418,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171408,
+        "num": 176874,
+        "word": "丫丫的脸逐渐向着正圆发展",
+        "onboard_time": 1732239378,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 176419,
+        "num": 176419,
+        "word": "金正恩称朝鲜尽了最大努力和美国协商",
+        "onboard_time": 1732237699,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173749,
+        "num": 173749,
+        "word": "内娱首个被叫strong哥而开心的明星",
+        "onboard_time": 1732250360,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29337,
+        "num": 167758,
+        "word": "小雪低温补贴",
+        "onboard_time": 1732251620,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162431,
+        "num": 162431,
+        "word": "年轻人做的副业太全面了",
+        "onboard_time": 1732245618,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 162420,
+        "num": 162420,
+        "word": "蓝色狮丈夫在微博发文悼念",
+        "onboard_time": 1732253239,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145769,
+        "num": 145769,
+        "word": "泽连斯基称俄再次升级战争",
+        "onboard_time": 1732250061,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142176,
+        "num": 142176,
+        "word": "王曼昱晋级WTT总决赛4强",
+        "onboard_time": 1732252819,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141699,
+        "num": 141699,
+        "word": "李行亮干翻扬子霸总人设",
+        "onboard_time": 1732253480,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75173,
+        "num": 140956,
+        "word": "专家建议偷拍入刑增设侵犯隐私罪",
+        "onboard_time": 1732251741,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140735,
+        "num": 140735,
+        "word": "美方首次公开承认仁爱礁特遣队",
+        "onboard_time": 1732247117,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136249,
+        "num": 136249,
+        "word": "王楚钦说世排第一并没多重要",
+        "onboard_time": 1732249400,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134224,
+        "num": 134224,
+        "word": "刘纪鹏称3000点经历17年不正常",
+        "onboard_time": 1732253960,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131960,
+        "num": 131960,
+        "word": "涉事骑友回应女子被其嘲讽后自杀",
+        "onboard_time": 1732239796,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习主席去拉美#"
+    }
+  }
+}
