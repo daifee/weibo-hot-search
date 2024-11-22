@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732261085067,
+  "endTime": 1732264204699,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 2296309,
-      "num": 489475,
+      "num": 666271,
       "word": "赵露思发了49995元粉丝红包",
       "onboard_time": 1732258880,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2238435,
+      "num": 2238435,
+      "word": "微信一次性查询所有单删好友",
+      "onboard_time": 1732261341,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2161475,
@@ -1403,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 866680,
+      "num": 866680,
+      "word": "日本克罗地亚等9国来华免签",
+      "onboard_time": 1732263139,
+      "rank": 3,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 865057,
       "num": 865057,
       "word": "金价暴跌近10%",
@@ -1528,6 +1544,14 @@
       "word": "女子取现700万给骗子怼民警管的宽",
       "onboard_time": 1731922879,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 822544,
+      "num": 822544,
+      "word": "姐姐离婚为亡弟流浪追凶27年",
+      "onboard_time": 1732262240,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -2435,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653518,
+      "num": 653518,
+      "word": "多少天婚假能让你结婚",
+      "onboard_time": 1732259899,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 652457,
       "num": 495952,
       "word": "女子掉进温泉池2秒皮被烫掉",
@@ -2617,6 +2649,14 @@
       "onboard_time": 1731937220,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623567,
+      "num": 623567,
+      "word": "王楚钦进四强",
+      "onboard_time": 1732261102,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 623341,
@@ -3539,6 +3579,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 484201,
+      "num": 484201,
+      "word": "麦琳以为黄圣依没收到七夕礼物",
+      "onboard_time": 1732259420,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481875,
       "num": 430135,
       "word": "孙丞潇演网剧男主了",
@@ -3697,6 +3745,14 @@
       "onboard_time": 1732086620,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458167,
+      "num": 612209,
+      "word": "丁禹兮杂志限量",
+      "onboard_time": 1732263199,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 456050,
@@ -4091,14 +4147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408814,
-      "num": 408814,
-      "word": "麦琳以为黄圣依没收到七夕礼物",
-      "onboard_time": 1732259420,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408291,
       "num": 408291,
       "word": "心梗发作如何自救和互救",
@@ -4379,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381805,
+      "num": 546933,
+      "word": "王楚钦采访逗笑全场",
+      "onboard_time": 1732263379,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381674,
       "num": 381674,
       "word": "于东来直播落泪",
@@ -4393,6 +4449,14 @@
       "onboard_time": 1731846678,
       "rank": 36,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 379488,
+      "num": 379488,
+      "word": "MAMA红毯",
+      "onboard_time": 1732262778,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 378693,
@@ -4449,6 +4513,14 @@
       "onboard_time": 1732203258,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 375059,
+      "num": 375059,
+      "word": "王楚钦3比1战胜莫雷加德",
+      "onboard_time": 1732261102,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 374915,
@@ -4803,6 +4875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338691,
+      "num": 338691,
+      "word": "股市",
+      "onboard_time": 1732260079,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 338457,
       "num": 510622,
       "word": "徐志胜回家也得当德华",
@@ -4897,14 +4977,6 @@
       "onboard_time": 1732166002,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325202,
-      "num": 325202,
-      "word": "股市",
-      "onboard_time": 1732260079,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 324423,
@@ -6843,6 +6915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 227130,
+      "num": 227130,
+      "word": "A股全市超4900股飘绿",
+      "onboard_time": 1732262420,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 227118,
       "num": 227118,
       "word": "起底针孔摄像头偷拍黑色产业链",
@@ -7579,6 +7659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207527,
+      "num": 207527,
+      "word": "免签",
+      "onboard_time": 1732263438,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207056,
       "num": 231468,
       "word": "环球影城偶遇古力娜扎",
@@ -7673,6 +7761,14 @@
       "onboard_time": 1732103118,
       "rank": 34,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 205230,
+      "num": 585591,
+      "word": "这六省婚假只有3天",
+      "onboard_time": 1732262660,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205129,
@@ -7961,14 +8057,6 @@
       "onboard_time": 1732173500,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200850,
-      "num": 200850,
-      "word": "多少天婚假能让你结婚",
-      "onboard_time": 1732259899,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200672,
@@ -8267,6 +8355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196203,
+      "num": 328784,
+      "word": "杨幂参观叶城烈士陵园",
+      "onboard_time": 1732262179,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196085,
       "num": 460583,
       "word": "美驻乌使馆称收到可能发生重大空袭信息",
@@ -8377,6 +8473,14 @@
       "onboard_time": 1732113382,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194493,
+      "num": 194493,
+      "word": "王楚钦半决赛对阵约奇克",
+      "onboard_time": 1732262958,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 194431,
@@ -8987,6 +9091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185364,
+      "num": 185364,
+      "word": "王楚钦说没联想巴黎那场球",
+      "onboard_time": 1732263501,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184986,
       "num": 184986,
       "word": "2024大国重器好多新突破",
@@ -9097,6 +9209,14 @@
       "onboard_time": 1732108162,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184305,
+      "num": 184305,
+      "word": "肖战包场钟楚曦电影",
+      "onboard_time": 1732263678,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 184153,
@@ -9563,6 +9683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176207,
+      "num": 176207,
+      "word": "何与双轨开机造型",
+      "onboard_time": 1732262240,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176175,
       "num": 200499,
       "word": "安徽舒城县长回应县政府大院随便进",
@@ -9625,6 +9753,14 @@
       "onboard_time": 1731813078,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175736,
+      "num": 302140,
+      "word": "赵晓卉 再见老板",
+      "onboard_time": 1732262778,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 175657,
@@ -11115,6 +11251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151305,
+      "num": 151305,
+      "word": "迪丽热巴慕胥辞牵手跑路透",
+      "onboard_time": 1732264039,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151147,
       "num": 151147,
       "word": "港姐麦明诗怀孕",
@@ -11241,6 +11385,14 @@
       "onboard_time": 1732088481,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149354,
+      "num": 149354,
+      "word": "华晨宇请工作人员吃500斤龙虾",
+      "onboard_time": 1732264098,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 149344,
@@ -14243,6 +14395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92620,
+      "num": 539076,
+      "word": "WE官宣与Zoom解约",
+      "onboard_time": 1732263079,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92617,
       "num": 250790,
       "word": "张若昀 人在慌乱时显得特别忙",
@@ -14337,6 +14497,14 @@
       "onboard_time": 1731876191,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89736,
+      "num": 670737,
+      "word": "宋佳称铁梅的魅力是她永远活得积极",
+      "onboard_time": 1732262958,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 89724,
@@ -14785,6 +14953,14 @@
       "onboard_time": 1731867732,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 79241,
+      "num": 150906,
+      "word": "税务师成绩",
+      "onboard_time": 1732262120,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 78939,
@@ -15323,6 +15499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68062,
+      "num": 1027160,
+      "word": "巴西点心不仅撞脸中国粽子还分甜咸",
+      "onboard_time": 1732263801,
+      "rank": 2,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67769,
       "num": 528089,
       "word": "百雀羚为什么被称为国货之光",
@@ -15824,6 +16008,14 @@
       "word": "林高远林诗栋无缘男双四强",
       "onboard_time": 1732113441,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58433,
+      "num": 185309,
+      "word": "对手教练谈王楚钦表现",
+      "onboard_time": 1732258638,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -16787,6 +16979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44808,
+      "num": 828887,
+      "word": "中国载人航天发展蓝图画好了",
+      "onboard_time": 1732261761,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 44676,
       "num": 478564,
       "word": "对偷拍黑产顶格处罚才能形成威慑力",
@@ -16963,6 +17163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43280,
+      "num": 518862,
+      "word": "卫生巾缩水但监管不能缩水",
+      "onboard_time": 1732263379,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43275,
       "num": 321275,
       "word": "周翊然时装男士十一月封面",
@@ -17105,6 +17313,14 @@
       "onboard_time": 1732077261,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40866,
+      "num": 713567,
+      "word": "一下雪中式意境更浓了",
+      "onboard_time": 1732263559,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 40761,
@@ -18131,14 +18347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31260,
-      "num": 168805,
-      "word": "对手教练谈王楚钦表现",
-      "onboard_time": 1732258638,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31222,
       "num": 829161,
       "word": "60秒带你看里约热内卢",
@@ -18747,6 +18955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26495,
+      "num": 503634,
+      "word": "荣耀300配色竟是一条旅拍路线",
+      "onboard_time": 1732262719,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26442,
       "num": 383991,
       "word": "多方回应小区消火栓5年来没有水",
@@ -19193,6 +19409,14 @@
       "onboard_time": 1732209673,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21944,
+      "num": 396180,
+      "word": "K80性能狂暴辣",
+      "onboard_time": 1732262719,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 21930,

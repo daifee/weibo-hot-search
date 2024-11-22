@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732261085067,
+  "endTime": 1732264204699,
   "band_list": [
     {
       "raw_hot": 2318472,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2296309,
-      "num": 489475,
+      "num": 666271,
       "word": "赵露思发了49995元粉丝红包",
       "onboard_time": 1732258880,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2238435,
+      "num": 2238435,
+      "word": "微信一次性查询所有单删好友",
+      "onboard_time": 1732261341,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2145933,
@@ -131,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 866680,
+      "num": 866680,
+      "word": "日本克罗地亚等9国来华免签",
+      "onboard_time": 1732263139,
+      "rank": 3,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 848309,
       "num": 1135729,
       "word": "李行亮道歉这段",
       "onboard_time": 1732236798,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 822544,
+      "num": 822544,
+      "word": "姐姐离婚为亡弟流浪追凶27年",
+      "onboard_time": 1732262240,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 812379,
@@ -235,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653518,
+      "num": 653518,
+      "word": "多少天婚假能让你结婚",
+      "onboard_time": 1732259899,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635496,
       "num": 635496,
       "word": "丫丫的脸逐渐向着正圆发展",
       "onboard_time": 1732239378,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 623567,
+      "num": 623567,
+      "word": "王楚钦进四强",
+      "onboard_time": 1732261102,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 579460,
@@ -363,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484201,
+      "num": 484201,
+      "word": "麦琳以为黄圣依没收到七夕礼物",
+      "onboard_time": 1732259420,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476393,
       "num": 282539,
       "word": "这下我承认丁禹兮付出的比我多了",
@@ -385,6 +433,14 @@
       "onboard_time": 1732243398,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458167,
+      "num": 612209,
+      "word": "丁禹兮杂志限量",
+      "onboard_time": 1732263199,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 454056,
@@ -451,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408814,
-      "num": 408814,
-      "word": "麦琳以为黄圣依没收到七夕礼物",
-      "onboard_time": 1732259420,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 388628,
       "num": 388628,
       "word": "泽连斯基回应俄对乌试验新型中程导弹",
@@ -475,12 +523,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381805,
+      "num": 546933,
+      "word": "王楚钦采访逗笑全场",
+      "onboard_time": 1732263379,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 379488,
+      "num": 379488,
+      "word": "MAMA红毯",
+      "onboard_time": 1732262778,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 375445,
       "num": 375445,
       "word": "卫生巾是否应该纳入医保",
       "onboard_time": 1732203258,
       "rank": 1,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 375059,
+      "num": 375059,
+      "word": "王楚钦3比1战胜莫雷加德",
+      "onboard_time": 1732261102,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 354489,
@@ -499,20 +571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338691,
+      "num": 338691,
+      "word": "股市",
+      "onboard_time": 1732260079,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 334916,
       "num": 181291,
       "word": "青年干部培训期间出轨被免职",
       "onboard_time": 1732220830,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325202,
-      "num": 325202,
-      "word": "股市",
-      "onboard_time": 1732260079,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 319783,
@@ -779,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227130,
+      "num": 227130,
+      "word": "A股全市超4900股飘绿",
+      "onboard_time": 1732262420,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225938,
       "num": 240643,
       "word": "ILLIT获MAMA最佳女新人",
@@ -883,12 +963,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207527,
+      "num": 207527,
+      "word": "免签",
+      "onboard_time": 1732263438,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207031,
       "num": 207031,
       "word": "留几手 天天都是别人的事",
       "onboard_time": 1732257919,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205230,
+      "num": 585591,
+      "word": "这六省婚假只有3天",
+      "onboard_time": 1732262660,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204810,
@@ -905,14 +1001,6 @@
       "onboard_time": 1732250360,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200850,
-      "num": 200850,
-      "word": "多少天婚假能让你结婚",
-      "onboard_time": 1732259899,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200396,
@@ -947,12 +1035,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 196203,
+      "num": 328784,
+      "word": "杨幂参观叶城烈士陵园",
+      "onboard_time": 1732262179,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195147,
       "num": 350500,
       "word": "旅客在护照上画验讫章被拒绝出境",
       "onboard_time": 1732239378,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194493,
+      "num": 194493,
+      "word": "王楚钦半决赛对阵约奇克",
+      "onboard_time": 1732262958,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 192570,
@@ -1019,6 +1123,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 185364,
+      "num": 185364,
+      "word": "王楚钦说没联想巴黎那场球",
+      "onboard_time": 1732263501,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185282,
+      "num": 185282,
+      "word": "双轨",
+      "onboard_time": 1732261102,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184775,
       "num": 287175,
       "word": "王曼昱说钱天一战斗力很强",
@@ -1033,6 +1153,14 @@
       "onboard_time": 1732255579,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184305,
+      "num": 184305,
+      "word": "肖战包场钟楚曦电影",
+      "onboard_time": 1732263678,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 182810,
@@ -1081,6 +1209,22 @@
       "onboard_time": 1732253059,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176207,
+      "num": 176207,
+      "word": "何与双轨开机造型",
+      "onboard_time": 1732262240,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175736,
+      "num": 302140,
+      "word": "赵晓卉 再见老板",
+      "onboard_time": 1732262778,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 171497,
@@ -1267,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151305,
+      "num": 151305,
+      "word": "迪丽热巴慕胥辞牵手跑路透",
+      "onboard_time": 1732264039,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150782,
       "num": 150782,
       "word": "沙溢要把姚译添行李箱套寄给范丞丞",
@@ -1281,6 +1433,14 @@
       "onboard_time": 1732239137,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149354,
+      "num": 149354,
+      "word": "华晨宇请工作人员吃500斤龙虾",
+      "onboard_time": 1732264098,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 149313,
@@ -1643,6 +1803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92620,
+      "num": 539076,
+      "word": "WE官宣与Zoom解约",
+      "onboard_time": 1732263079,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91983,
       "num": 91983,
       "word": "女子恋爱1个月被骗贷17万",
@@ -1665,6 +1833,14 @@
       "onboard_time": 1732199241,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89736,
+      "num": 670737,
+      "word": "宋佳称铁梅的魅力是她永远活得积极",
+      "onboard_time": 1732262958,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 89151,
@@ -1779,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79241,
+      "num": 150906,
+      "word": "税务师成绩",
+      "onboard_time": 1732262120,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 78939,
       "num": 383891,
       "word": "留学回国后我成了一个烂尾娃",
@@ -1825,6 +2009,14 @@
       "onboard_time": 1732215130,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68062,
+      "num": 1027160,
+      "word": "巴西点心不仅撞脸中国粽子还分甜咸",
+      "onboard_time": 1732263801,
+      "rank": 2,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 66252,
@@ -1899,6 +2091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58433,
+      "num": 185309,
+      "word": "对手教练谈王楚钦表现",
+      "onboard_time": 1732258638,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57484,
       "num": 57484,
       "word": "河南总工会热线回应胖东来彩礼新规",
@@ -1963,12 +2163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44808,
+      "num": 828887,
+      "word": "中国载人航天发展蓝图画好了",
+      "onboard_time": 1732261761,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 43712,
       "num": 128892,
       "word": "时代少年团换五周年背景图",
       "onboard_time": 1732205837,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43280,
+      "num": 518862,
+      "word": "卫生巾缩水但监管不能缩水",
+      "onboard_time": 1732263379,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42862,
@@ -1985,6 +2201,14 @@
       "onboard_time": 1732218672,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40866,
+      "num": 713567,
+      "word": "一下雪中式意境更浓了",
+      "onboard_time": 1732263559,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 39189,
@@ -2065,14 +2289,6 @@
       "onboard_time": 1732201280,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31260,
-      "num": 168805,
-      "word": "对手教练谈王楚钦表现",
-      "onboard_time": 1732258638,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 31007,
@@ -2163,6 +2379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26495,
+      "num": 503634,
+      "word": "荣耀300配色竟是一条旅拍路线",
+      "onboard_time": 1732262719,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26222,
       "num": 20825,
       "word": "虞书欣COSMO销量",
@@ -2217,6 +2441,14 @@
       "onboard_time": 1732209673,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21944,
+      "num": 396180,
+      "word": "K80性能狂暴辣",
+      "onboard_time": 1732262719,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 21930,
