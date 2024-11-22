@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732279444744,
+  "endTime": 1732280440358,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1571829,
+      "num": 1571829,
+      "word": "教育局称出轨中学生女教师已停职",
+      "onboard_time": 1732277359,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1564274,
       "num": 498743,
       "word": "赵丽颖 别逼我变成薛扇扇",
@@ -643,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1306615,
-      "num": 1306615,
-      "word": "教育局称出轨中学生女教师已停职",
-      "onboard_time": 1732277359,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 1294429,
       "num": 1294429,
       "word": "警方通报男子因行车纠纷将人刺死",
@@ -795,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1197557,
+      "num": 1197557,
+      "word": "厦门震感",
+      "onboard_time": 1732279880,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1189233,
       "num": 646212,
       "word": "新疆喀什一中学发生踩踏事故",
@@ -889,6 +897,14 @@
       "onboard_time": 1731772041,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1130152,
+      "num": 1130152,
+      "word": "王耀庆 丁禹兮随谁叫的舅舅",
+      "onboard_time": 1732279340,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1122351,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1732173319,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 790206,
+      "num": 790206,
+      "word": "男子花三千嫖娼后又偷走犯盗窃罪",
+      "onboard_time": 1732279039,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 788978,
@@ -2947,6 +2971,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 580417,
+      "num": 580417,
+      "word": "卫生巾塌房用什么才安全",
+      "onboard_time": 1732274720,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 579460,
       "num": 347900,
       "word": "涉事骑友回应女子被其嘲讽后自杀",
@@ -3355,20 +3387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527338,
-      "num": 286731,
-      "word": "卫生巾塌房用什么才安全",
-      "onboard_time": 1732274720,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 525546,
       "num": 587909,
       "word": "人社局回应胖东来员工新规",
       "onboard_time": 1732171399,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 523775,
+      "num": 523775,
+      "word": "旺旺集团首席营运官回应",
+      "onboard_time": 1732278380,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 522337,
@@ -3508,7 +3540,7 @@
     },
     {
       "raw_hot": 508499,
-      "num": 286243,
+      "num": 439361,
       "word": "张本智和vs张禹珍",
       "onboard_time": 1732278140,
       "rank": 11,
@@ -3713,6 +3745,14 @@
       "onboard_time": 1732196782,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486143,
+      "num": 486143,
+      "word": "全场一起APT",
+      "onboard_time": 1732277179,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 484690,
@@ -4027,14 +4067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440611,
-      "num": 440611,
-      "word": "全场一起APT",
-      "onboard_time": 1732277179,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 439197,
       "num": 439197,
       "word": "武契奇深夜给中国工人送夜宵",
@@ -4212,7 +4244,7 @@
     },
     {
       "raw_hot": 416337,
-      "num": 284657,
+      "num": 362218,
       "word": "MAMA获奖名单",
       "onboard_time": 1732272918,
       "rank": 37,
@@ -4339,6 +4371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 408227,
+      "num": 408227,
+      "word": "虞书欣刚开机就请客了",
+      "onboard_time": 1732279280,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408125,
       "num": 475886,
       "word": "谢娜晒跳跳的填空题",
@@ -4417,6 +4457,14 @@
       "onboard_time": 1732153579,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400301,
+      "num": 307048,
+      "word": "虞书欣何与同框",
+      "onboard_time": 1732279580,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 399546,
@@ -5235,6 +5283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322246,
+      "num": 322246,
+      "word": "朴智旻获MAMA大赏",
+      "onboard_time": 1732278799,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 321159,
       "num": 321159,
       "word": "王楚钦福冈总决赛宣传照",
@@ -5393,14 +5449,6 @@
       "onboard_time": 1731987199,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313039,
-      "num": 281762,
-      "word": "朴智旻获MAMA大赏",
-      "onboard_time": 1732278799,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 312716,
@@ -5635,6 +5683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 299292,
+      "num": 299292,
+      "word": "小米回应70多辆SU7自动泊车撞墙",
+      "onboard_time": 1732279159,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 299169,
       "num": 197178,
       "word": "以色列士兵在玩手机时被击中",
@@ -5859,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286297,
+      "num": 286297,
+      "word": "MAMA录播APT",
+      "onboard_time": 1732279640,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 285110,
       "num": 285110,
       "word": "张婧仪陈哲远新剧改名梦花廷",
@@ -5939,14 +6003,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 281344,
-      "num": 281344,
-      "word": "男子花三千嫖娼后又偷走犯盗窃罪",
-      "onboard_time": 1732279039,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280953,
       "num": 401300,
       "word": "JYP公司只有JYP去了MAMA",
@@ -5985,6 +6041,14 @@
       "onboard_time": 1732164320,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278754,
+      "num": 282961,
+      "word": "内娱艺人实体杂志销量TOP30",
+      "onboard_time": 1732278078,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 278632,
@@ -6257,6 +6321,14 @@
       "onboard_time": 1732103539,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265759,
+      "num": 265759,
+      "word": "麦琳闺蜜发声",
+      "onboard_time": 1732279939,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 265397,
@@ -6793,6 +6865,14 @@
       "onboard_time": 1731992000,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243005,
+      "num": 285557,
+      "word": "林诗栋vs邱党",
+      "onboard_time": 1732278559,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 242945,
@@ -7379,14 +7459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223300,
-      "num": 223300,
-      "word": "王耀庆 丁禹兮随谁叫的舅舅",
-      "onboard_time": 1732279340,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223290,
       "num": 223290,
       "word": "丁禹兮圣猴名不虚传",
@@ -7529,14 +7601,6 @@
       "onboard_time": 1731905781,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 220910,
-      "num": 220910,
-      "word": "虞书欣刚开机就请客了",
-      "onboard_time": 1732279280,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 220470,
@@ -7809,14 +7873,6 @@
       "onboard_time": 1732017678,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212556,
-      "num": 212556,
-      "word": "旺旺集团首席营运官回应",
-      "onboard_time": 1732278380,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 212409,
@@ -8531,6 +8587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200608,
+      "num": 200608,
+      "word": "中学女教师出轨学生聊天记录曝光",
+      "onboard_time": 1732280060,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200508,
       "num": 302247,
       "word": "今年春节档好热闹",
@@ -8891,14 +8955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195689,
-      "num": 282961,
-      "word": "内娱艺人实体杂志销量TOP30",
-      "onboard_time": 1732278078,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 195659,
       "num": 170529,
       "word": "Mata加入T1",
@@ -9203,6 +9259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190261,
+      "num": 190261,
+      "word": "崩坏星穹铁道前瞻",
+      "onboard_time": 1732279039,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190248,
       "num": 190248,
       "word": "宋亚轩撒娇前vs撒娇后",
@@ -9273,14 +9337,6 @@
       "onboard_time": 1731991041,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189837,
-      "num": 189837,
-      "word": "崩坏星穹铁道前瞻",
-      "onboard_time": 1732279039,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 189782,
@@ -9577,6 +9633,14 @@
       "onboard_time": 1731939201,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 186370,
+      "num": 186370,
+      "word": "朴成训 吸血鬼王子",
+      "onboard_time": 1732279280,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 186229,
@@ -9964,7 +10028,7 @@
     },
     {
       "raw_hot": 181153,
-      "num": 181153,
+      "num": 427783,
       "word": "下一战歌手总决赛",
       "onboard_time": 1732278859,
       "rank": 37,
@@ -10267,6 +10331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176164,
+      "num": 176164,
+      "word": "张本智和3比0张禹珍",
+      "onboard_time": 1732279939,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176126,
       "num": 176126,
       "word": "卢伟冰吐槽友商三千的空调卖两万",
@@ -10380,7 +10452,7 @@
     },
     {
       "raw_hot": 174728,
-      "num": 174728,
+      "num": 269419,
       "word": "丁禹兮请同事喝下午茶",
       "onboard_time": 1732277240,
       "rank": 39,
@@ -10811,14 +10883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168682,
-      "num": 168682,
-      "word": "小米回应70多辆SU7自动泊车撞墙",
-      "onboard_time": 1732279159,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 168611,
       "num": 464035,
       "word": "教育局回应小蜜蜂老师身份质疑",
@@ -10849,14 +10913,6 @@
       "onboard_time": 1732013359,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167833,
-      "num": 167833,
-      "word": "朴成训 吸血鬼王子",
-      "onboard_time": 1732279280,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 167301,
@@ -11401,6 +11457,14 @@
       "onboard_time": 1731994100,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159265,
+      "num": 187401,
+      "word": "今天星期五",
+      "onboard_time": 1732280360,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 159192,
@@ -13331,14 +13395,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 130714,
-      "num": 285557,
-      "word": "林诗栋vs邱党",
-      "onboard_time": 1732278559,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130641,
       "num": 130641,
       "word": "正年",
@@ -14012,7 +14068,7 @@
     },
     {
       "raw_hot": 119773,
-      "num": 371671,
+      "num": 698932,
       "word": "小雪初冬看一场九寨沟的雪",
       "onboard_time": 1732245317,
       "rank": 8,
@@ -14769,6 +14825,14 @@
       "onboard_time": 1731813559,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100187,
+      "num": 310231,
+      "word": "Uzi复盘被自己气红温",
+      "onboard_time": 1732277478,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 99838,
@@ -16305,6 +16369,14 @@
       "onboard_time": 1731948196,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68453,
+      "num": 487483,
+      "word": "记者调查晒旅游照贫困生收入证明",
+      "onboard_time": 1732279939,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68062,
@@ -18787,6 +18859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35978,
+      "num": 1148769,
+      "word": "乌镇峰会人形机器人加速进化",
+      "onboard_time": 1732279461,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35971,
       "num": 838467,
       "word": "我的祖国在巴西唱响见证了什么",
@@ -18857,6 +18937,14 @@
       "onboard_time": 1732109481,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 34492,
+      "num": 157088,
+      "word": "花椒冰淇淋",
+      "onboard_time": 1732276040,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 34425,
@@ -19441,14 +19529,6 @@
       "onboard_time": 1732101860,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30128,
-      "num": 157088,
-      "word": "花椒冰淇淋",
-      "onboard_time": 1732276040,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 30100,
@@ -20248,6 +20328,14 @@
       "word": "触网30年中国N个全球第一",
       "onboard_time": 1731914839,
       "rank": 7,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 22838,
+      "num": 656934,
+      "word": "中国已分别成功将猪肾和肝移植进人体",
+      "onboard_time": 1732280239,
+      "rank": 9,
       "category": "正能量"
     },
     {

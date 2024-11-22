@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732279444744,
+  "endTime": 1732280440358,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2027,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1571829,
+      "num": 1571829,
+      "word": "教育局称出轨中学生女教师已停职",
+      "onboard_time": 1732277359,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1564758,
       "num": 443021,
       "word": "电梯被捂嘴女孩事后大哭做噩梦",
@@ -3067,14 +3075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1306615,
-      "num": 1306615,
-      "word": "教育局称出轨中学生女教师已停职",
-      "onboard_time": 1732277359,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 1303762,
       "num": 1303762,
       "word": "海马体创始人发声",
@@ -3499,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1197557,
+      "num": 1197557,
+      "word": "厦门震感",
+      "onboard_time": 1731553159,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1196956,
       "num": 1196956,
       "word": "王曼昱WTT女单夺冠",
@@ -3817,6 +3825,14 @@
       "onboard_time": 1730869226,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1130152,
+      "num": 1130152,
+      "word": "王耀庆 丁禹兮随谁叫的舅舅",
+      "onboard_time": 1732279340,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1128988,
@@ -7057,6 +7073,14 @@
       "onboard_time": 1731333081,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 790206,
+      "num": 790206,
+      "word": "男子花三千嫖娼后又偷走犯盗窃罪",
+      "onboard_time": 1732279039,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 789810,
@@ -11011,6 +11035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580417,
+      "num": 580417,
+      "word": "卫生巾塌房用什么才安全",
+      "onboard_time": 1732274720,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 579996,
       "num": 897935,
       "word": "台风",
@@ -12355,14 +12387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527338,
-      "num": 286731,
-      "word": "卫生巾塌房用什么才安全",
-      "onboard_time": 1732274720,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 527009,
       "num": 263531,
       "word": "她一个月做了我一辈子的工作",
@@ -12457,6 +12481,14 @@
       "onboard_time": 1731394699,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523775,
+      "num": 523775,
+      "word": "旺旺集团首席营运官回应",
+      "onboard_time": 1732278380,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 523235,
@@ -12996,7 +13028,7 @@
     },
     {
       "raw_hot": 508499,
-      "num": 286243,
+      "num": 439361,
       "word": "张本智和vs张禹珍",
       "onboard_time": 1732278140,
       "rank": 11,
@@ -13609,6 +13641,14 @@
       "onboard_time": 1730774719,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 486143,
+      "num": 486143,
+      "word": "全场一起APT",
+      "onboard_time": 1732277179,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 484690,
@@ -14963,14 +15003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440611,
-      "num": 440611,
-      "word": "全场一起APT",
-      "onboard_time": 1732277179,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 440525,
       "num": 440525,
       "word": "郑钦文 收视率打法",
@@ -15740,7 +15772,7 @@
     },
     {
       "raw_hot": 416337,
-      "num": 284657,
+      "num": 362218,
       "word": "MAMA获奖名单",
       "onboard_time": 1732272918,
       "rank": 37,
@@ -16081,6 +16113,14 @@
       "onboard_time": 1732063099,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 408227,
+      "num": 408227,
+      "word": "虞书欣刚开机就请客了",
+      "onboard_time": 1732279280,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 408125,
@@ -16481,6 +16521,14 @@
       "onboard_time": 1730573477,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 400301,
+      "num": 307048,
+      "word": "虞书欣何与同框",
+      "onboard_time": 1732279580,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 400278,
@@ -19675,6 +19723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322246,
+      "num": 322246,
+      "word": "朴智旻获MAMA大赏",
+      "onboard_time": 1732278799,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 321800,
       "num": 321800,
       "word": "王一博彭昱畅让C位",
@@ -20121,14 +20177,6 @@
       "onboard_time": 1731138918,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313039,
-      "num": 281762,
-      "word": "朴智旻获MAMA大赏",
-      "onboard_time": 1732278799,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 312802,
@@ -20841,6 +20889,14 @@
       "onboard_time": 1732171761,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 299292,
+      "num": 299292,
+      "word": "小米回应70多辆SU7自动泊车撞墙",
+      "onboard_time": 1732279159,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 299217,
@@ -21635,6 +21691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286297,
+      "num": 286297,
+      "word": "MAMA录播APT",
+      "onboard_time": 1732279640,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286236,
       "num": 286236,
       "word": "两代妲己",
@@ -21923,14 +21987,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 281344,
-      "num": 281344,
-      "word": "男子花三千嫖娼后又偷走犯盗窃罪",
-      "onboard_time": 1732279039,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280961,
       "num": 280961,
       "word": "韩国高考听力时段全境暂停飞机起降",
@@ -22073,6 +22129,14 @@
       "onboard_time": 1732164320,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278754,
+      "num": 282961,
+      "word": "内娱艺人实体杂志销量TOP30",
+      "onboard_time": 1732278078,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 278713,
@@ -23072,6 +23136,14 @@
       "word": "麦琳 句句都提爱句句都伤害",
       "onboard_time": 1730385559,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265759,
+      "num": 265759,
+      "word": "麦琳闺蜜发声",
+      "onboard_time": 1732279939,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -24923,6 +24995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243005,
+      "num": 285557,
+      "word": "林诗栋vs邱党",
+      "onboard_time": 1732278559,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242945,
       "num": 242945,
       "word": "一片好心没盖住于东来的爹味",
@@ -26723,14 +26803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 223300,
-      "num": 223300,
-      "word": "王耀庆 丁禹兮随谁叫的舅舅",
-      "onboard_time": 1732279340,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223290,
       "num": 223290,
       "word": "丁禹兮圣猴名不虚传",
@@ -27088,14 +27160,6 @@
       "word": "丁禹兮永夜星河小剧场",
       "onboard_time": 1730729424,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 220910,
-      "num": 220910,
-      "word": "虞书欣刚开机就请客了",
-      "onboard_time": 1732279280,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -28097,14 +28161,6 @@
       "onboard_time": 1730727501,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212556,
-      "num": 212556,
-      "word": "旺旺集团首席营运官回应",
-      "onboard_time": 1732278380,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 212427,
@@ -30563,6 +30619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200608,
+      "num": 200608,
+      "word": "中学女教师出轨学生聊天记录曝光",
+      "onboard_time": 1732280060,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200520,
       "num": 200520,
       "word": "费加罗红毯",
@@ -31729,14 +31793,6 @@
       "onboard_time": 1731904881,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195689,
-      "num": 282961,
-      "word": "内娱艺人实体杂志销量TOP30",
-      "onboard_time": 1732278078,
-      "rank": 19,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 195659,
@@ -33091,6 +33147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190261,
+      "num": 190261,
+      "word": "崩坏星穹铁道前瞻",
+      "onboard_time": 1732279039,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190248,
       "num": 190248,
       "word": "宋亚轩撒娇前vs撒娇后",
@@ -33249,14 +33313,6 @@
       "onboard_time": 1731660440,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 189837,
-      "num": 189837,
-      "word": "崩坏星穹铁道前瞻",
-      "onboard_time": 1732279039,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 189783,
@@ -34033,6 +34089,14 @@
       "onboard_time": 1730698579,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186370,
+      "num": 186370,
+      "word": "朴成训 吸血鬼王子",
+      "onboard_time": 1732279280,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 186346,
@@ -35140,7 +35204,7 @@
     },
     {
       "raw_hot": 181153,
-      "num": 181153,
+      "num": 427783,
       "word": "下一战歌手总决赛",
       "onboard_time": 1732278859,
       "rank": 37,
@@ -36227,6 +36291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176164,
+      "num": 176164,
+      "word": "张本智和3比0张禹珍",
+      "onboard_time": 1732279939,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176128,
       "num": 176128,
       "word": "周深和观众都背过梗来看演唱会",
@@ -36540,7 +36612,7 @@
     },
     {
       "raw_hot": 174728,
-      "num": 174728,
+      "num": 269419,
       "word": "丁禹兮请同事喝下午茶",
       "onboard_time": 1732277240,
       "rank": 39,
@@ -37987,14 +38059,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 168682,
-      "num": 168682,
-      "word": "小米回应70多辆SU7自动泊车撞墙",
-      "onboard_time": 1732279159,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 168611,
       "num": 464035,
       "word": "教育局回应小蜜蜂老师身份质疑",
@@ -38145,14 +38209,6 @@
       "onboard_time": 1731243560,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167833,
-      "num": 167833,
-      "word": "朴成训 吸血鬼王子",
-      "onboard_time": 1732279280,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 167790,
@@ -40329,6 +40385,14 @@
       "onboard_time": 1730540058,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159265,
+      "num": 187401,
+      "word": "今天星期五",
+      "onboard_time": 1732280360,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 159238,
@@ -47355,14 +47419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130714,
-      "num": 285557,
-      "word": "林诗栋vs邱党",
-      "onboard_time": 1732278559,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130670,
       "num": 212659,
       "word": "金珉奎IG更新",
@@ -48489,14 +48545,6 @@
       "onboard_time": 1731289579,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125422,
-      "num": 125422,
-      "word": "厦门震感",
-      "onboard_time": 1731553159,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125367,
@@ -49908,7 +49956,7 @@
     },
     {
       "raw_hot": 119773,
-      "num": 371671,
+      "num": 698932,
       "word": "小雪初冬看一场九寨沟的雪",
       "onboard_time": 1732245317,
       "rank": 8,
@@ -53361,6 +53409,14 @@
       "onboard_time": 1731717797,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100187,
+      "num": 310231,
+      "word": "Uzi复盘被自己气红温",
+      "onboard_time": 1732277478,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 100142,
@@ -57865,6 +57921,14 @@
       "onboard_time": 1731315318,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68453,
+      "num": 487483,
+      "word": "记者调查晒旅游照贫困生收入证明",
+      "onboard_time": 1732279939,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68419,
@@ -65363,6 +65427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35978,
+      "num": 1148769,
+      "word": "乌镇峰会人形机器人加速进化",
+      "onboard_time": 1732279461,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35972,
       "num": 339331,
       "word": "被辅导宁夏考生称不记得北大老师",
@@ -65785,6 +65857,14 @@
       "onboard_time": 1731343995,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 34492,
+      "num": 157088,
+      "word": "花椒冰淇淋",
+      "onboard_time": 1732276040,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 34487,
@@ -67505,14 +67585,6 @@
       "onboard_time": 1731093911,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30128,
-      "num": 157088,
-      "word": "花椒冰淇淋",
-      "onboard_time": 1732276040,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 30101,
@@ -70217,6 +70289,14 @@
       "onboard_time": 1731683420,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22838,
+      "num": 656934,
+      "word": "中国已分别成功将猪肾和肝移植进人体",
+      "onboard_time": 1732280239,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 22837,
