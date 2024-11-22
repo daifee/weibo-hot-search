@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732282261440,
+  "endTime": 1732282924581,
   "band_list": [
     {
       "raw_hot": 2508832,
@@ -121,6 +121,14 @@
       "onboard_time": 1732279039,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1241146,
+      "num": 1241146,
+      "word": "中学女教师出轨学生聊天记录曝光",
+      "onboard_time": 1732280060,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 1236161,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 775659,
+      "num": 775659,
+      "word": "蔡昆廷向郭旭求婚",
+      "onboard_time": 1732280721,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 775000,
       "num": 775000,
       "word": "酒店回应女生半裸遭男保洁刷卡闯入",
@@ -289,6 +305,14 @@
       "onboard_time": 1732244059,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 768495,
+      "num": 768495,
+      "word": "歌手2025",
+      "onboard_time": 1732281260,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 759750,
@@ -331,22 +355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 722142,
-      "num": 722142,
-      "word": "蔡昆廷向郭旭求婚",
-      "onboard_time": 1732280721,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 718639,
-      "num": 718639,
-      "word": "中学女教师出轨学生聊天记录曝光",
-      "onboard_time": 1732280060,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 716075,
       "num": 716075,
       "word": "中方回应特朗普所谓60%关税",
@@ -377,6 +385,14 @@
       "onboard_time": 1732251080,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 680850,
+      "num": 680850,
+      "word": "卫生巾塌房用什么才安全",
+      "onboard_time": 1732274720,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 677965,
@@ -433,14 +449,6 @@
       "onboard_time": 1732263199,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 580417,
-      "num": 580417,
-      "word": "卫生巾塌房用什么才安全",
-      "onboard_time": 1732274720,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 579460,
@@ -707,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433692,
-      "num": 433692,
-      "word": "歌手2025",
-      "onboard_time": 1732281260,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 433362,
       "num": 433362,
       "word": "虞书欣何与同框",
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 385464,
-      "num": 385464,
+      "num": 393754,
       "word": "林诗栋vs邱党",
       "onboard_time": 1732278559,
       "rank": 12,
@@ -859,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350717,
+      "num": 697235,
+      "word": "小米回应70多辆SU7自动泊车撞墙",
+      "onboard_time": 1732279159,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 344227,
       "num": 283562,
       "word": "解说称王楚钦最后一板做到了极致",
@@ -881,6 +889,14 @@
       "onboard_time": 1732220830,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331627,
+      "num": 331627,
+      "word": "禹宙中欣 预制饭也很香",
+      "onboard_time": 1732281919,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 322246,
@@ -953,14 +969,6 @@
       "onboard_time": 1732234518,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 299292,
-      "num": 602202,
-      "word": "小米回应70多辆SU7自动泊车撞墙",
-      "onboard_time": 1732279159,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 297866,
@@ -1051,6 +1059,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 272737,
+      "num": 272737,
+      "word": "亚0",
+      "onboard_time": 1732282101,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271691,
+      "num": 271691,
+      "word": "台湾台南市发生4.7级地震",
+      "onboard_time": 1732281140,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 269312,
       "num": 269311,
       "word": "网友曝再见爱人下期历史最精彩",
@@ -1067,12 +1091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265194,
-      "num": 265194,
-      "word": "台湾台南市发生4.7级地震",
-      "onboard_time": 1732281140,
-      "rank": 26,
-      "category": "突发/灾害"
+      "raw_hot": 258964,
+      "num": 258964,
+      "word": "好东西",
+      "onboard_time": 1732275859,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 257840,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1732257198,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 251732,
-      "num": 251732,
-      "word": "好东西",
-      "onboard_time": 1732275859,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 250985,
@@ -1283,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230377,
+      "num": 230377,
+      "word": "林诗栋晋级总决赛4强",
+      "onboard_time": 1732280960,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229946,
       "num": 272623,
       "word": "徐冬冬爆改尹子维",
@@ -1435,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212530,
+      "num": 368898,
+      "word": "齐思钧拿起话筒就是直播的兵",
+      "onboard_time": 1732281680,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211604,
       "num": 211604,
       "word": "小雪节气该吃啥",
@@ -1563,19 +1595,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201004,
-      "num": 201004,
-      "word": "齐思钧拿起话筒就是直播的兵",
-      "onboard_time": 1732281680,
+      "raw_hot": 201866,
+      "num": 201866,
+      "word": "成毅跪地哭戏",
+      "onboard_time": 1732282280,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 200830,
-      "num": 200830,
-      "word": "禹宙中欣 预制饭也很香",
-      "onboard_time": 1732281919,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1625,14 +1649,6 @@
       "onboard_time": 1732281080,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198695,
-      "num": 198695,
-      "word": "林诗栋晋级总决赛4强",
-      "onboard_time": 1732280960,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 196937,
@@ -1779,20 +1795,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188037,
-      "num": 188037,
-      "word": "亚0",
-      "onboard_time": 1732282101,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187948,
       "num": 87818,
       "word": "如父如子 丧偶式育儿",
       "onboard_time": 1732227432,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187449,
+      "num": 187449,
+      "word": "aespaMAMA生图",
+      "onboard_time": 1732282221,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 186370,
@@ -1963,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174087,
+      "num": 174087,
+      "word": "哄人哄一辈子",
+      "onboard_time": 1732282701,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173865,
       "num": 173865,
       "word": "好了现在赵露思欠我15块钱",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1732266920,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167102,
+      "num": 421219,
+      "word": "刮刮乐中奖5000后背上9万债",
+      "onboard_time": 1732282582,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166641,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1732264640,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157515,
+      "num": 157515,
+      "word": "林诗栋半决赛对阵张本智和",
+      "onboard_time": 1732282822,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 156920,
@@ -2379,14 +2419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138506,
-      "num": 138506,
-      "word": "aespaMAMA生图",
-      "onboard_time": 1732282221,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 138463,
       "num": 138463,
       "word": "雪落人间万物都裹上了浪漫",
@@ -2555,6 +2587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121444,
+      "num": 743005,
+      "word": "中国人的舞蹈每一下都跳在审美点上",
+      "onboard_time": 1732280481,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 120813,
       "num": 656934,
       "word": "中国已分别成功将猪肾和肝移植进人体",
@@ -2611,6 +2651,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 114238,
+      "num": 360065,
+      "word": "邝玲玲生图",
+      "onboard_time": 1732282461,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112004,
       "num": 346848,
       "word": "一研为定",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1732255759,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 101262,
-      "num": 743005,
-      "word": "中国人的舞蹈每一下都跳在审美点上",
-      "onboard_time": 1732280481,
-      "rank": 7,
-      "category": "正能量"
     },
     {
       "raw_hot": 100738,
@@ -2795,6 +2835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89544,
+      "num": 305978,
+      "word": "日本队包揽女双冠亚军",
+      "onboard_time": 1732282641,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89151,
       "num": 89151,
       "word": "明日小雪",
@@ -2889,6 +2937,14 @@
       "onboard_time": 1732191741,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80751,
+      "num": 1223971,
+      "word": "正宗巴西烤肉以烤牛肉为主",
+      "onboard_time": 1732281441,
+      "rank": 2,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80421,
@@ -3065,6 +3121,14 @@
       "onboard_time": 1732269798,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63464,
+      "num": 785114,
+      "word": "中国空间站已在轨运行1300余天",
+      "onboard_time": 1732281380,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 63319,
@@ -3307,14 +3371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45829,
-      "num": 1223971,
-      "word": "正宗巴西烤肉以烤牛肉为主",
-      "onboard_time": 1732281441,
-      "rank": 2,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 43712,
       "num": 128892,
       "word": "时代少年团换五周年背景图",
@@ -3329,14 +3385,6 @@
       "onboard_time": 1732256960,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42571,
-      "num": 785114,
-      "word": "中国空间站已在轨运行1300余天",
-      "onboard_time": 1732281380,
-      "rank": 6,
-      "category": "正能量"
     },
     {
       "raw_hot": 41729,

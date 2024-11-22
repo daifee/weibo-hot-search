@@ -1,0 +1,410 @@
+{
+  "runTime": 1732282924581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1241146,
+        "num": 1241146,
+        "word": "中学女教师出轨学生聊天记录曝光",
+        "onboard_time": 1732280060,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1215702,
+        "num": 1215702,
+        "word": "教育局称出轨中学生女教师已停职",
+        "onboard_time": 1732277359,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 80751,
+        "num": 1126551,
+        "word": "正宗巴西烤肉以烤牛肉为主",
+        "onboard_time": 1732281441,
+        "rank": 2,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1124245,
+        "num": 1124245,
+        "word": "王耀庆 丁禹兮随谁叫的舅舅",
+        "onboard_time": 1732279340,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 775659,
+        "num": 775659,
+        "word": "蔡昆廷向郭旭求婚",
+        "onboard_time": 1732280721,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1136055,
+        "num": 772489,
+        "word": "旺仔",
+        "onboard_time": 1732271779,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63464,
+        "num": 769142,
+        "word": "中国空间站已在轨运行1300余天",
+        "onboard_time": 1732281380,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 768495,
+        "num": 768495,
+        "word": "歌手2025",
+        "onboard_time": 1732281260,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720845,
+        "num": 720845,
+        "word": "何炅主持最尴尬的一次",
+        "onboard_time": 1732276040,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350717,
+        "num": 697235,
+        "word": "小米回应70多辆SU7自动泊车撞墙",
+        "onboard_time": 1732279159,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 680850,
+        "num": 680850,
+        "word": "卫生巾塌房用什么才安全",
+        "onboard_time": 1732274720,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 598670,
+        "num": 598670,
+        "word": "旺旺集团首席营运官回应",
+        "onboard_time": 1732278380,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 582606,
+        "num": 582606,
+        "word": "微信一次性查询所有单删好友",
+        "onboard_time": 1732261341,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 496849,
+        "num": 496849,
+        "word": "麦琳 删评论",
+        "onboard_time": 1732268058,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167102,
+        "num": 421219,
+        "word": "刮刮乐中奖5000后背上9万债",
+        "onboard_time": 1732282582,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400940,
+        "num": 400940,
+        "word": "赵露思发了49995元粉丝红包",
+        "onboard_time": 1732258880,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351539,
+        "num": 393754,
+        "word": "林诗栋vs邱党",
+        "onboard_time": 1732278559,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387309,
+        "num": 387309,
+        "word": "虞书欣何与同框",
+        "onboard_time": 1732279580,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212530,
+        "num": 368898,
+        "word": "齐思钧拿起话筒就是直播的兵",
+        "onboard_time": 1732281680,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114238,
+        "num": 360065,
+        "word": "邝玲玲生图",
+        "onboard_time": 1732282461,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1186132,
+        "num": 358182,
+        "word": "男子花三千嫖娼后又偷走犯盗窃罪",
+        "onboard_time": 1732279039,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356074,
+        "num": 356074,
+        "word": "内娱艺人实体杂志销量TOP30",
+        "onboard_time": 1732278078,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 338862,
+        "num": 338862,
+        "word": "虞书欣刚开机就请客了",
+        "onboard_time": 1732279280,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331627,
+        "num": 331627,
+        "word": "禹宙中欣 预制饭也很香",
+        "onboard_time": 1732281919,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89544,
+        "num": 305978,
+        "word": "日本队包揽女双冠亚军",
+        "onboard_time": 1732282641,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281732,
+        "num": 281732,
+        "word": "厦门震感",
+        "onboard_time": 1732279880,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 272737,
+        "num": 272737,
+        "word": "亚0",
+        "onboard_time": 1732282101,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271691,
+        "num": 271691,
+        "word": "台湾台南市发生4.7级地震",
+        "onboard_time": 1732281140,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 261380,
+        "num": 261380,
+        "word": "全场一起APT",
+        "onboard_time": 1732277179,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121444,
+        "num": 259824,
+        "word": "中国人的舞蹈每一下都跳在审美点上",
+        "onboard_time": 1732280481,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 258964,
+        "num": 258964,
+        "word": "好东西",
+        "onboard_time": 1732275859,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250486,
+        "num": 250486,
+        "word": "MAMA获奖名单",
+        "onboard_time": 1732272918,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230377,
+        "num": 230377,
+        "word": "林诗栋晋级总决赛4强",
+        "onboard_time": 1732280960,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215615,
+        "num": 215615,
+        "word": "房东先生去世了",
+        "onboard_time": 1732270940,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202099,
+        "num": 202099,
+        "word": "麦琳闺蜜发声",
+        "onboard_time": 1732279939,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201866,
+        "num": 201866,
+        "word": "成毅跪地哭戏",
+        "onboard_time": 1732282280,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197119,
+        "num": 197119,
+        "word": "朴智旻获MAMA大赏",
+        "onboard_time": 1732278799,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187449,
+        "num": 187449,
+        "word": "aespaMAMA生图",
+        "onboard_time": 1732282221,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174087,
+        "num": 174087,
+        "word": "哄人哄一辈子",
+        "onboard_time": 1732282701,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173729,
+        "num": 173729,
+        "word": "王安宇 栋哲要幸福",
+        "onboard_time": 1732281380,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171609,
+        "num": 171609,
+        "word": "女生酒店半裸遭男保洁刷卡闯入",
+        "onboard_time": 1732268840,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171272,
+        "num": 171272,
+        "word": "MAMA录播APT",
+        "onboard_time": 1732279640,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162439,
+        "num": 162439,
+        "word": "旺仔回应",
+        "onboard_time": 1732276040,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161116,
+        "num": 161116,
+        "word": "by2的凑热闹原来是林俊杰操刀",
+        "onboard_time": 1732280600,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160570,
+        "num": 160570,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159585,
+        "num": 159585,
+        "word": "张本智和vs张禹珍",
+        "onboard_time": 1732278140,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157515,
+        "num": 157515,
+        "word": "林诗栋半决赛对阵张本智和",
+        "onboard_time": 1732282822,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151018,
+        "num": 151018,
+        "word": "火星哥你的treasure来了",
+        "onboard_time": 1732273640,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149690,
+        "num": 149690,
+        "word": "姐姐离婚为亡弟流浪追凶27年",
+        "onboard_time": 1732262240,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148865,
+        "num": 148865,
+        "word": "解说称王楚钦最后一板做到了极致",
+        "onboard_time": 1732274240,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席拉美之行#"
+    }
+  }
+}
