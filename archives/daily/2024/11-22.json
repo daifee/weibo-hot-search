@@ -1,10 +1,10 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732250583931,
+  "endTime": 1732252959346,
   "band_list": [
     {
       "raw_hot": 2145933,
-      "num": 345849,
+      "num": 1850018,
       "word": "制片人晒王宝强转账记录",
       "onboard_time": 1732247538,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2026055,
-      "num": 368899,
+      "num": 548083,
       "word": "情侣亲密时酒店房间遭两男子闯入",
       "onboard_time": 1732241418,
       "rank": 11,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 959117,
+      "num": 959117,
+      "word": "任嘉伦发文悼念锦衣之下作者",
+      "onboard_time": 1732249640,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 897800,
       "num": 1137924,
       "word": "锦衣之下作者蓝色狮去世",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 807633,
-      "num": 320283,
+      "num": 344801,
       "word": "金正恩称朝鲜尽了最大努力和美国协商",
       "onboard_time": 1732237699,
       "rank": 30,
@@ -129,6 +137,22 @@
       "onboard_time": 1732214352,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 734557,
+      "num": 660849,
+      "word": "张杰妈妈做的米线",
+      "onboard_time": 1732251260,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 672632,
+      "num": 672632,
+      "word": "多位车主称小米SU7自动泊车撞墙撞柱",
+      "onboard_time": 1732250000,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 635496,
@@ -195,6 +219,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 536390,
+      "num": 536390,
+      "word": "权志龙新歌",
+      "onboard_time": 1732252399,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 535914,
       "num": 130147,
       "word": "李行亮 麦琳",
@@ -209,6 +241,14 @@
       "onboard_time": 1732181121,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496837,
+      "num": 496837,
+      "word": "女驴友遭马夫猥亵事件最新进展",
+      "onboard_time": 1732250659,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489992,
@@ -243,8 +283,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457208,
+      "num": 457208,
+      "word": "上海迪士尼下月起取消儿童票身高标准",
+      "onboard_time": 1732251080,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 454056,
-      "num": 334769,
+      "num": 376748,
       "word": "洲际导弹首次投入实战",
       "onboard_time": 1732247360,
       "rank": 15,
@@ -257,6 +305,14 @@
       "onboard_time": 1732238839,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446936,
+      "num": 446936,
+      "word": "跳水",
+      "onboard_time": 1732250720,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 438590,
@@ -275,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426971,
+      "num": 426971,
+      "word": "谭松韵任嘉伦悼念蓝色狮",
+      "onboard_time": 1732250902,
+      "rank": 17,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 416466,
       "num": 321766,
       "word": "小孩哥竟然在酒店窗台发现化石",
@@ -283,11 +347,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396899,
-      "num": 396899,
-      "word": "任嘉伦发文悼念锦衣之下作者",
-      "onboard_time": 1732249640,
-      "rank": 48,
+      "raw_hot": 413612,
+      "num": 362118,
+      "word": "杨紫新剧家业开机造型",
+      "onboard_time": 1732250180,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -305,6 +369,14 @@
       "onboard_time": 1732203258,
       "rank": 1,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 354489,
+      "num": 371504,
+      "word": "王曼昱vs钱天一",
+      "onboard_time": 1732247179,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 351457,
@@ -339,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311406,
+      "num": 323657,
+      "word": "被娃娃脸支配的恐惧",
+      "onboard_time": 1732249219,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299726,
       "num": 299726,
       "word": "美方首次公开承认仁爱礁特遣队",
@@ -353,14 +433,6 @@
       "onboard_time": 1732234518,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 291977,
-      "num": 323657,
-      "word": "被娃娃脸支配的恐惧",
-      "onboard_time": 1732249219,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 287160,
@@ -401,6 +473,14 @@
       "onboard_time": 1732193362,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269312,
+      "num": 269311,
+      "word": "网友曝再见爱人下期历史最精彩",
+      "onboard_time": 1732250902,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 257840,
@@ -515,22 +595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 222959,
-      "num": 371504,
-      "word": "王曼昱vs钱天一",
-      "onboard_time": 1732247179,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 222607,
-      "num": 222607,
-      "word": "多位车主称小米SU7自动泊车撞墙撞柱",
-      "onboard_time": 1732250000,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 218781,
       "num": 232320,
       "word": "家业开机现场",
@@ -545,6 +609,14 @@
       "onboard_time": 1732247238,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215394,
+      "num": 215394,
+      "word": "小米回应SU7自动泊车功能异常",
+      "onboard_time": 1732251920,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 213767,
@@ -603,20 +675,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204843,
-      "num": 204843,
-      "word": "杨紫新剧家业开机造型",
-      "onboard_time": 1732250180,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204810,
       "num": 204810,
       "word": "时代少年团 还会再相遇",
       "onboard_time": 1732246219,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204442,
+      "num": 204442,
+      "word": "内娱首个被叫strong哥而开心的明星",
+      "onboard_time": 1732250360,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 200396,
@@ -665,6 +737,14 @@
       "onboard_time": 1732195039,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188861,
+      "num": 188861,
+      "word": "陈幸同vs平野美宇",
+      "onboard_time": 1732250902,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 188722,
@@ -731,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173900,
-      "num": 173900,
-      "word": "内娱首个被叫strong哥而开心的明星",
-      "onboard_time": 1732250360,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171497,
       "num": 132119,
       "word": "王楚钦把对手拍子打掉了",
@@ -763,12 +835,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164305,
+      "num": 164305,
+      "word": "戴景耀想做一回顶流",
+      "onboard_time": 1732252040,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161594,
       "num": 131096,
       "word": "侯明昊辛芷蕾豪门姐弟",
       "onboard_time": 1732203139,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 161140,
+      "num": 161140,
+      "word": "王曼昱晋级WTT总决赛4强",
+      "onboard_time": 1732252819,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 160846,
@@ -907,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140558,
+      "num": 140558,
+      "word": "原来花游是把芭蕾倒过来练",
+      "onboard_time": 1732251260,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138463,
       "num": 138463,
       "word": "雪落人间万物都裹上了浪漫",
@@ -1003,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126332,
+      "num": 126332,
+      "word": "永夜星河会员大结局",
+      "onboard_time": 1732252761,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123698,
       "num": 123698,
       "word": "被家暴16次女子不要赔偿要重判前夫",
@@ -1059,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111728,
+      "num": 345324,
+      "word": "MAMA美国场",
+      "onboard_time": 1732251200,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110973,
       "num": 110973,
       "word": "女子被嘲讽后自杀涉事骑友被判1年",
@@ -1113,6 +1225,14 @@
       "onboard_time": 1732249219,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95704,
+      "num": 363932,
+      "word": "恩波格斗俱乐部已成被执行人",
+      "onboard_time": 1732252460,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 92805,
@@ -1188,7 +1308,7 @@
     },
     {
       "raw_hot": 83046,
-      "num": 1057429,
+      "num": 1151102,
       "word": "乌镇来了个机器人导游",
       "onboard_time": 1732244118,
       "rank": 2,
@@ -1331,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57881,
+      "num": 570652,
+      "word": "专家建议偷拍入刑增设侵犯隐私罪",
+      "onboard_time": 1732251741,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57484,
       "num": 57484,
       "word": "河南总工会热线回应胖东来彩礼新规",
@@ -1411,6 +1539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 37890,
+      "num": 457384,
+      "word": "专家分析广州多只宠物狗中毒死因",
+      "onboard_time": 1732252700,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37361,
       "num": 114401,
       "word": "辛芷蕾侯明昊井柏然齐聚成都",
@@ -1433,6 +1569,14 @@
       "onboard_time": 1732190720,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 33775,
+      "num": 616024,
+      "word": "陈幸同3比0战胜平野美宇",
+      "onboard_time": 1732252580,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 33664,
@@ -1619,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17367,
+      "num": 269312,
+      "word": "张艺曼无缘中国赛四强",
+      "onboard_time": 1732252640,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16027,
       "num": 100196,
       "word": "丁禹兮飘雪战损",
@@ -1633,6 +1785,14 @@
       "onboard_time": 1732215791,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15299,
+      "num": 164310,
+      "word": "小雪低温补贴",
+      "onboard_time": 1732251620,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 15055,
