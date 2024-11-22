@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732289079485,
+  "endTime": 1732289972546,
   "band_list": [
     {
       "raw_hot": 2637126,
@@ -563,6 +563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 531303,
+      "num": 494865,
+      "word": "安宥真张元英楚河汉界",
+      "onboard_time": 1732286900,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 527672,
       "num": 866045,
       "word": "王宝强被举报涉嫌欺诈",
@@ -625,14 +633,6 @@
       "onboard_time": 1732250659,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 494865,
-      "num": 494865,
-      "word": "安宥真张元英楚河汉界",
-      "onboard_time": 1732286900,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 489992,
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366813,
+      "num": 366813,
+      "word": "Doinb怒喷Letme",
+      "onboard_time": 1732288159,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363835,
       "num": 363835,
       "word": "李现回谢之遥的家了",
@@ -995,20 +1003,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 320612,
-      "num": 320612,
-      "word": "Doinb怒喷Letme",
-      "onboard_time": 1732288159,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 319783,
       "num": 319783,
       "word": "MAMA颁奖礼",
       "onboard_time": 1732241418,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 319603,
+      "num": 295960,
+      "word": "丁禹兮满钻胸花",
+      "onboard_time": 1732286781,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 319586,
@@ -1081,14 +1089,6 @@
       "onboard_time": 1732273579,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295960,
-      "num": 295960,
-      "word": "丁禹兮满钻胸花",
-      "onboard_time": 1732286781,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 291270,
@@ -1379,6 +1379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 235516,
+      "num": 263284,
+      "word": "乌称俄新型中程导弹末端速度超11马赫",
+      "onboard_time": 1732288280,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234744,
       "num": 234744,
       "word": "不要彩礼不啃老关老板什么事",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1732269918,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224487,
+      "num": 321676,
+      "word": "祝绪丹翻牌",
+      "onboard_time": 1732288340,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 223819,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1732262958,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193250,
+      "num": 193250,
+      "word": "李耕耘状态",
+      "onboard_time": 1732289358,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 192570,
@@ -2291,14 +2315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161758,
-      "num": 161758,
-      "word": "乌称俄新型中程导弹末端速度超11马赫",
-      "onboard_time": 1732288280,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 161594,
       "num": 131096,
       "word": "侯明昊辛芷蕾豪门姐弟",
@@ -2563,6 +2579,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 147532,
+      "num": 486325,
+      "word": "胖东来员工称可以接受不要彩礼",
+      "onboard_time": 1732285701,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147062,
       "num": 147062,
       "word": "明日方舟",
@@ -2585,14 +2609,6 @@
       "onboard_time": 1732287860,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142840,
-      "num": 486325,
-      "word": "胖东来员工称可以接受不要彩礼",
-      "onboard_time": 1732285701,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141694,
@@ -2819,12 +2835,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122185,
-      "num": 321676,
-      "word": "祝绪丹翻牌",
-      "onboard_time": 1732288340,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 123152,
+      "num": 123152,
+      "word": "为什么不是李佩玲",
+      "onboard_time": 1732289240,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121682,
@@ -2947,6 +2963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107591,
+      "num": 245298,
+      "word": "杂志销量榜",
+      "onboard_time": 1732289059,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 107508,
       "num": 302245,
       "word": "许凯方恳请理智追星",
@@ -2961,6 +2985,14 @@
       "onboard_time": 1732180640,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103842,
+      "num": 321219,
+      "word": "情侣亲密遭闯入酒店已道歉赔偿",
+      "onboard_time": 1732288400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102301,
@@ -3057,6 +3089,14 @@
       "onboard_time": 1732231215,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92705,
+      "num": 257923,
+      "word": "周翊然本周报备 见面",
+      "onboard_time": 1732289600,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 92620,
@@ -3203,14 +3243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81126,
-      "num": 239228,
-      "word": "杂志销量榜",
-      "onboard_time": 1732289059,
-      "rank": 29,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 80421,
       "num": 124425,
       "word": "女性一生约使用1.5万片卫生巾",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1732262120,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 79124,
+      "num": 264396,
+      "word": "关宏宇终于把关宏峰踩在脚下",
+      "onboard_time": 1732286660,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 78939,
@@ -3363,14 +3403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 68636,
-      "num": 321219,
-      "word": "情侣亲密遭闯入酒店已道歉赔偿",
-      "onboard_time": 1732288400,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68453,
       "num": 487483,
       "word": "记者调查晒旅游照贫困生收入证明",
@@ -3385,6 +3417,14 @@
       "onboard_time": 1732263801,
       "rank": 2,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67199,
+      "num": 358148,
+      "word": "市监所回应大学生曝光学校附近饭店",
+      "onboard_time": 1732288220,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66252,
@@ -3595,14 +3635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54390,
-      "num": 358148,
-      "word": "市监所回应大学生曝光学校附近饭店",
-      "onboard_time": 1732288220,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52874,
       "num": 150414,
       "word": "卫生巾吸收层比实际标长还要短",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1732244838,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51538,
+      "num": 420345,
+      "word": "给杨妞花留言的女孩帮妈妈找到家了",
+      "onboard_time": 1732287981,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50907,
@@ -3675,14 +3715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45756,
-      "num": 420345,
-      "word": "给杨妞花留言的女孩帮妈妈找到家了",
-      "onboard_time": 1732287981,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43712,
       "num": 128892,
       "word": "时代少年团换五周年背景图",
@@ -3697,6 +3729,14 @@
       "onboard_time": 1732256960,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42780,
+      "num": 236139,
+      "word": "曝143娱乐社长性骚扰女团成员",
+      "onboard_time": 1732289779,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 41729,
