@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732285289046,
+  "endTime": 1732286448082,
   "band_list": [
     {
       "raw_hot": 2637126,
@@ -97,6 +97,14 @@
       "onboard_time": 1732277359,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1455056,
+      "num": 1455056,
+      "word": "歌手2025",
+      "onboard_time": 1732281260,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1421701,
@@ -235,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 859809,
-      "num": 768495,
-      "word": "歌手2025",
-      "onboard_time": 1732281260,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 848309,
       "num": 1135729,
       "word": "李行亮道歉这段",
@@ -273,6 +273,14 @@
       "onboard_time": 1732204818,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 802981,
+      "num": 802981,
+      "word": "0.01的svip",
+      "onboard_time": 1732284502,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 782106,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498651,
+      "num": 672282,
+      "word": "刮刮乐中奖5000后背上9万债",
+      "onboard_time": 1732282582,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497673,
       "num": 497673,
       "word": "A股牛结束了吗",
@@ -667,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458546,
+      "num": 458546,
+      "word": "国乒无缘总决赛女双冠军",
+      "onboard_time": 1732283660,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457239,
       "num": 620893,
       "word": "A股大跌原因找到了",
@@ -745,6 +769,22 @@
       "onboard_time": 1732250902,
       "rank": 17,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 425752,
+      "num": 425752,
+      "word": "哄人哄一辈子",
+      "onboard_time": 1732282701,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 417004,
+      "num": 330128,
+      "word": "陈哲远张婧仪平番",
+      "onboard_time": 1732283902,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 416466,
@@ -907,22 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333087,
-      "num": 425567,
-      "word": "刮刮乐中奖5000后背上9万债",
-      "onboard_time": 1732282582,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330128,
-      "num": 330128,
-      "word": "陈哲远张婧仪平番",
-      "onboard_time": 1732283902,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 329530,
       "num": 329530,
       "word": "好东西",
@@ -955,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319213,
-      "num": 393581,
-      "word": "哄人哄一辈子",
-      "onboard_time": 1732282701,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315220,
       "num": 315220,
       "word": "82岁拜登打起了篮球",
@@ -993,6 +1009,14 @@
       "onboard_time": 1732272139,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304977,
+      "num": 397237,
+      "word": "直播间159买的鹅绒服是什么绒",
+      "onboard_time": 1732284621,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 299726,
@@ -1083,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276102,
-      "num": 388659,
-      "word": "国乒无缘总决赛女双冠军",
-      "onboard_time": 1732283660,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275141,
       "num": 275141,
       "word": "吉赛尔没领奖",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1732279939,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263220,
+      "num": 263220,
+      "word": "女子晒100多个柿子全被鸟叼走了",
+      "onboard_time": 1732284981,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257840,
@@ -1411,8 +1435,24 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223819,
+      "num": 223819,
+      "word": "白举纲首发歌手2025",
+      "onboard_time": 1732285342,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223304,
+      "num": 223304,
+      "word": "林虞凌妙妙一人饰演是虞书欣争取的",
+      "onboard_time": 1732286360,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223266,
-      "num": 223266,
+      "num": 449515,
       "word": "这种茶把20根捆在一起喝",
       "onboard_time": 1732283422,
       "rank": 29,
@@ -1724,7 +1764,7 @@
     },
     {
       "raw_hot": 196154,
-      "num": 196154,
+      "num": 304784,
       "word": "王安宇 栋哲要幸福",
       "onboard_time": 1732281380,
       "rank": 39,
@@ -2051,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174056,
+      "num": 174056,
+      "word": "薛之谦有这事业心做什么都会成功的",
+      "onboard_time": 1732285823,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173865,
       "num": 173865,
       "word": "好了现在赵露思欠我15块钱",
@@ -2067,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172906,
+      "num": 387254,
+      "word": "王烁然 TFING",
+      "onboard_time": 1732284140,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172311,
       "num": 172311,
       "word": "王楚钦说最近进到半决赛不容易",
@@ -2081,14 +2137,6 @@
       "onboard_time": 1732202001,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170166,
-      "num": 387254,
-      "word": "王烁然 TFING",
-      "onboard_time": 1732284140,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 170012,
@@ -2131,14 +2179,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 165654,
-      "num": 397237,
-      "word": "直播间159买的鹅绒服是什么绒",
-      "onboard_time": 1732284621,
-      "rank": 14,
-      "category": "民生新闻,舆论监督"
-    },
-    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "MAMA直播",
@@ -2153,14 +2193,6 @@
       "onboard_time": 1732252040,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164008,
-      "num": 164008,
-      "word": "0.01的svip",
-      "onboard_time": 1732284502,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 163930,
@@ -2331,14 +2363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155011,
-      "num": 155011,
-      "word": "女子晒100多个柿子全被鸟叼走了",
-      "onboard_time": 1732284981,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153984,
       "num": 616024,
       "word": "陈幸同3比0战胜平野美宇",
@@ -2433,6 +2457,14 @@
       "onboard_time": 1732246639,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149004,
+      "num": 149004,
+      "word": "时代少年团睫毛弯弯彩排",
+      "onboard_time": 1732285641,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 148780,
@@ -2579,6 +2611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131651,
+      "num": 131651,
+      "word": "林诗栋说对阵张本智和一定会非常艰难",
+      "onboard_time": 1732286181,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131013,
       "num": 131013,
       "word": "洲际导弹",
@@ -2635,6 +2675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128163,
+      "num": 128163,
+      "word": "星穹铁道黄金裔",
+      "onboard_time": 1732286360,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127653,
       "num": 528323,
       "word": "恩波格斗称会发公告",
@@ -2673,6 +2721,14 @@
       "onboard_time": 1732246998,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121682,
+      "num": 121682,
+      "word": "福原爱想和王曼昱孙颖莎打球",
+      "onboard_time": 1732286422,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121444,
@@ -2739,6 +2795,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 112719,
+      "num": 1223971,
+      "word": "正宗巴西烤肉以烤牛肉为主",
+      "onboard_time": 1732281441,
+      "rank": 2,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112004,
       "num": 346848,
       "word": "一研为定",
@@ -2771,20 +2835,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 109306,
+      "num": 287359,
+      "word": "Uzi说新一打Doinb巨急",
+      "onboard_time": 1732285880,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 107508,
+      "num": 302245,
+      "word": "许凯方恳请理智追星",
+      "onboard_time": 1732284561,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106732,
       "num": 106732,
       "word": "李行亮离婚会把四分之三财产给麦琳",
       "onboard_time": 1732180640,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103852,
-      "num": 1223971,
-      "word": "正宗巴西烤肉以烤牛肉为主",
-      "onboard_time": 1732281441,
-      "rank": 2,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 102301,
@@ -3051,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79880,
+      "num": 414723,
+      "word": "医用卫生巾概念股连日大涨",
+      "onboard_time": 1732284381,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 79707,
       "num": 79707,
       "word": "卫生巾不该缩水更不该糊弄用户",
@@ -3073,14 +3153,6 @@
       "onboard_time": 1732262120,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 78940,
-      "num": 218935,
-      "word": "许凯方恳请理智追星",
-      "onboard_time": 1732284561,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 78939,
@@ -3217,6 +3289,14 @@
       "onboard_time": 1732269798,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63765,
+      "num": 486325,
+      "word": "胖东来员工称可以接受不要彩礼",
+      "onboard_time": 1732285701,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63464,
@@ -3401,14 +3481,6 @@
       "onboard_time": 1732222092,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52973,
-      "num": 414723,
-      "word": "医用卫生巾概念股连日大涨",
-      "onboard_time": 1732284381,
-      "rank": 9,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 52874,
@@ -4061,6 +4133,9 @@
     },
     {
       "word": "#习主席谈完善全球数字治理#"
+    },
+    {
+      "word": "#习近平会见摩洛哥王储哈桑#"
     }
   ]
 }
