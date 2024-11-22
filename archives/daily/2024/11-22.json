@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732249717167,
+  "endTime": 1732250583931,
   "band_list": [
     {
       "raw_hot": 2145933,
@@ -17,6 +17,14 @@
       "onboard_time": 1732241418,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1609928,
+      "num": 1609928,
+      "word": "女装卖了2000单退了1500单",
+      "onboard_time": 1732248259,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1586244,
@@ -59,12 +67,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 921493,
-      "num": 921493,
-      "word": "女装卖了2000单退了1500单",
-      "onboard_time": 1732248259,
-      "rank": 3,
-      "category": "互联网"
+      "raw_hot": 897800,
+      "num": 1137924,
+      "word": "锦衣之下作者蓝色狮去世",
+      "onboard_time": 1732245317,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 873352,
@@ -73,14 +81,6 @@
       "onboard_time": 1732240758,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 862025,
-      "num": 1137924,
-      "word": "锦衣之下作者蓝色狮去世",
-      "onboard_time": 1732245317,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 848309,
@@ -243,20 +243,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 454056,
+      "num": 334769,
+      "word": "洲际导弹首次投入实战",
+      "onboard_time": 1732247360,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 452138,
       "num": 452138,
       "word": "郭晓东回应蒋欣人间处处是超英",
       "onboard_time": 1732238839,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439714,
-      "num": 334769,
-      "word": "洲际导弹首次投入实战",
-      "onboard_time": 1732247360,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 438590,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396899,
+      "num": 396899,
+      "word": "任嘉伦发文悼念锦衣之下作者",
+      "onboard_time": 1732249640,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388628,
       "num": 388628,
       "word": "泽连斯基回应俄对乌试验新型中程导弹",
@@ -297,6 +305,14 @@
       "onboard_time": 1732203258,
       "rank": 1,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 351457,
+      "num": 293433,
+      "word": "sm出差十五夜预告",
+      "onboard_time": 1732248860,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 334916,
@@ -323,12 +339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299726,
+      "num": 299726,
+      "word": "美方首次公开承认仁爱礁特遣队",
+      "onboard_time": 1732247117,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299507,
       "num": 299507,
       "word": "俄发射洲际弹道导弹未携带核弹头",
       "onboard_time": 1732234518,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 291977,
+      "num": 323657,
+      "word": "被娃娃脸支配的恐惧",
+      "onboard_time": 1732249219,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 287160,
@@ -369,22 +401,6 @@
       "onboard_time": 1732193362,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273198,
-      "num": 273198,
-      "word": "sm出差十五夜预告",
-      "onboard_time": 1732248860,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 268370,
-      "num": 268370,
-      "word": "美方首次公开承认仁爱礁特遣队",
-      "onboard_time": 1732247117,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 257840,
@@ -451,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 231999,
+      "num": 231999,
+      "word": "王楚钦说世排第一并没多重要",
+      "onboard_time": 1732249400,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230662,
       "num": 230662,
       "word": "乌用英风暴之影导弹打击俄境内目标",
@@ -489,6 +513,22 @@
       "onboard_time": 1732248559,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222959,
+      "num": 371504,
+      "word": "王曼昱vs钱天一",
+      "onboard_time": 1732247179,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222607,
+      "num": 222607,
+      "word": "多位车主称小米SU7自动泊车撞墙撞柱",
+      "onboard_time": 1732250000,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 218781,
@@ -539,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209892,
+      "num": 240822,
+      "word": "赶路赶到食堂了",
+      "onboard_time": 1732241118,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208623,
+      "num": 208623,
+      "word": "普京证实对乌实战测试新型中程导弹",
+      "onboard_time": 1732248799,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208563,
       "num": 155759,
       "word": "王鹤棣演唱会二开",
@@ -547,20 +603,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204843,
+      "num": 204843,
+      "word": "杨紫新剧家业开机造型",
+      "onboard_time": 1732250180,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204810,
       "num": 204810,
       "word": "时代少年团 还会再相遇",
       "onboard_time": 1732246219,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203440,
-      "num": 323657,
-      "word": "被娃娃脸支配的恐惧",
-      "onboard_time": 1732249219,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 200396,
@@ -627,28 +683,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187026,
-      "num": 187026,
-      "word": "普京证实对乌实战测试新型中程导弹",
-      "onboard_time": 1732248799,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 186068,
       "num": 186068,
       "word": "小雪到了",
       "onboard_time": 1732204699,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 185924,
-      "num": 240822,
-      "word": "赶路赶到食堂了",
-      "onboard_time": 1732241118,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 182810,
@@ -659,20 +699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181345,
+      "num": 181345,
+      "word": "将门独后官微发文回应",
+      "onboard_time": 1732250120,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180196,
       "num": 180196,
       "word": "陈哲远比心张婧仪比赞",
       "onboard_time": 1732242917,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178476,
-      "num": 178476,
-      "word": "王楚钦说世排第一并没多重要",
-      "onboard_time": 1732249400,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 178362,
@@ -691,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177583,
-      "num": 371504,
-      "word": "王曼昱vs钱天一",
-      "onboard_time": 1732247179,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 173900,
+      "num": 173900,
+      "word": "内娱首个被叫strong哥而开心的明星",
+      "onboard_time": 1732250360,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171497,
@@ -731,14 +771,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 161296,
-      "num": 161296,
-      "word": "任嘉伦发文悼念锦衣之下作者",
-      "onboard_time": 1732249640,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160846,
       "num": 131409,
       "word": "杨子疑似失去所有的力气和手段",
@@ -763,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157956,
+      "num": 157956,
+      "word": "泽连斯基称俄再次升级战争",
+      "onboard_time": 1732250061,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157905,
       "num": 114951,
       "word": "Mata加入T1",
@@ -777,6 +817,14 @@
       "onboard_time": 1732245799,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153944,
+      "num": 348279,
+      "word": "流氓兔入侵马拉松",
+      "onboard_time": 1732248559,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153594,
@@ -801,6 +849,14 @@
       "onboard_time": 1732238117,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150782,
+      "num": 150782,
+      "word": "沙溢要把姚译添行李箱套寄给范丞丞",
+      "onboard_time": 1732250541,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 149469,
@@ -843,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144872,
-      "num": 348279,
-      "word": "流氓兔入侵马拉松",
-      "onboard_time": 1732248559,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140756,
       "num": 140756,
       "word": "同一张脸却能看出不同的两个人",
@@ -865,6 +913,14 @@
       "onboard_time": 1732235899,
       "rank": 42,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 138434,
+      "num": 219609,
+      "word": "再见爱人后期",
+      "onboard_time": 1732248319,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 138407,
@@ -963,11 +1019,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120488,
+      "num": 336374,
+      "word": "父亲总被催出院俩月换了4家医院",
+      "onboard_time": 1732248678,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119773,
       "num": 371671,
       "word": "小雪初冬看一场九寨沟的雪",
       "onboard_time": 1732245317,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117253,
+      "num": 297589,
+      "word": "被强闯房间旅客称酒店存消防隐患",
+      "onboard_time": 1732250422,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -987,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111780,
-      "num": 336374,
-      "word": "父亲总被催出院俩月换了4家医院",
-      "onboard_time": 1732248678,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110973,
       "num": 110973,
       "word": "女子被嘲讽后自杀涉事骑友被判1年",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1732180640,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100738,
+      "num": 230718,
+      "word": "周舒桐成长热血型女主",
+      "onboard_time": 1732249880,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 99662,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1732191079,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95799,
+      "num": 223505,
+      "word": "王楚钦说对阵莫雷加德自己是下风球",
+      "onboard_time": 1732249219,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 92805,
@@ -1091,14 +1171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87865,
-      "num": 219609,
-      "word": "再见爱人后期",
-      "onboard_time": 1732248319,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85749,
       "num": 99944,
       "word": "圆肩驼背不只是体态问题",
@@ -1115,16 +1187,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83134,
-      "num": 223505,
-      "word": "王楚钦说对阵莫雷加德自己是下风球",
-      "onboard_time": 1732249219,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83046,
-      "num": 942721,
+      "num": 1057429,
       "word": "乌镇来了个机器人导游",
       "onboard_time": 1732244118,
       "rank": 2,
@@ -1331,6 +1395,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39189,
+      "num": 294791,
+      "word": "王曼昱拿下第三局",
+      "onboard_time": 1732250000,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38385,
+      "num": 294524,
+      "word": "下雪天送火锅食材",
+      "onboard_time": 1732249039,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 37361,
       "num": 114401,
       "word": "辛芷蕾侯明昊井柏然齐聚成都",
@@ -1441,14 +1521,6 @@
       "onboard_time": 1732222271,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 26998,
-      "num": 219147,
-      "word": "下雪天送火锅食材",
-      "onboard_time": 1732249039,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 26222,
