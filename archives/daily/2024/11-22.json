@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732265058012,
+  "endTime": 1732267519487,
   "band_list": [
     {
       "raw_hot": 2318472,
@@ -73,6 +73,14 @@
       "onboard_time": 1732246160,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1310908,
+      "num": 1310908,
+      "word": "免签",
+      "onboard_time": 1732263438,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1222723,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510499,
+      "num": 510499,
+      "word": "MAMA红毯",
+      "onboard_time": 1732262778,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 497673,
       "num": 497673,
       "word": "A股牛结束了吗",
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481419,
+      "num": 481419,
+      "word": "杨幂 英雄是民族最闪亮的坐标",
+      "onboard_time": 1732262361,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476393,
       "num": 282539,
       "word": "这下我承认丁禹兮付出的比我多了",
@@ -440,6 +464,14 @@
       "word": "浙大回应家庭困难学生晒旅游照",
       "onboard_time": 1732184600,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470842,
+      "num": 585591,
+      "word": "这六省婚假只有3天",
+      "onboard_time": 1732262660,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -483,20 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438043,
-      "num": 438043,
-      "word": "MAMA红毯",
-      "onboard_time": 1732262778,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 436103,
       "num": 436103,
       "word": "赵露思拍戏休息时购物",
       "onboard_time": 1732236438,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434006,
+      "num": 620893,
+      "word": "A股大跌原因找到了",
+      "onboard_time": 1732264399,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 426971,
@@ -523,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408033,
-      "num": 408033,
-      "word": "免签",
-      "onboard_time": 1732263438,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 404000,
+      "num": 404000,
+      "word": "王楚钦霸气敲桌子",
+      "onboard_time": 1732265898,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 388628,
@@ -561,6 +593,14 @@
       "onboard_time": 1732261102,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359719,
+      "num": 359719,
+      "word": "酒店回应女生半裸遭男保洁刷卡闯入",
+      "onboard_time": 1732265779,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354489,
@@ -619,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302217,
-      "num": 302217,
-      "word": "A股大跌原因找到了",
-      "onboard_time": 1732264399,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 304354,
+      "num": 475886,
+      "word": "谢娜晒跳跳的填空题",
+      "onboard_time": 1732265961,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 299726,
@@ -689,14 +729,6 @@
       "onboard_time": 1732250902,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261208,
-      "num": 585591,
-      "word": "这六省婚假只有3天",
-      "onboard_time": 1732262660,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257840,
@@ -827,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233256,
+      "num": 361187,
+      "word": "IVE白裙",
+      "onboard_time": 1732266139,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231999,
       "num": 231999,
       "word": "王楚钦说世排第一并没多重要",
@@ -915,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215784,
+      "num": 261372,
+      "word": "徐冬冬尹子维重回吵架最凶的地方",
+      "onboard_time": 1732264759,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213767,
       "num": 213767,
       "word": "国博补赠中国小姐姐凤冠冰箱贴",
@@ -995,12 +1043,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207838,
+      "num": 207838,
+      "word": "享界 袁启聪",
+      "onboard_time": 1732267099,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207031,
       "num": 207031,
       "word": "留几手 天天都是别人的事",
       "onboard_time": 1732257919,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206630,
+      "num": 206630,
+      "word": "杨紫韩东君开机照",
+      "onboard_time": 1732267041,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 206135,
@@ -1027,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201218,
+      "num": 353691,
+      "word": "梦花廷官宣",
+      "onboard_time": 1732266559,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200396,
       "num": 200396,
       "word": "肖战灯塔立麦纯享版MV",
@@ -1051,12 +1123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199420,
+      "num": 199420,
+      "word": "华为享界正式起诉自媒体袁启聪",
+      "onboard_time": 1732266800,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199271,
       "num": 199271,
       "word": "月经期间身体发生了什么变化",
       "onboard_time": 1732235359,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196937,
+      "num": 196937,
+      "word": "ENHYPEN全员黑西装",
+      "onboard_time": 1732266739,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 196203,
@@ -1155,6 +1243,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 185657,
+      "num": 185657,
+      "word": "程莉莎是小巷人家真剧粉",
+      "onboard_time": 1732265479,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185364,
       "num": 185364,
       "word": "王楚钦说没联想巴黎那场球",
@@ -1219,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178087,
+      "num": 178087,
+      "word": "端午燕子京拥吻",
+      "onboard_time": 1732267041,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177942,
       "num": 177942,
       "word": "再见爱人招剪辑",
@@ -1249,6 +1353,14 @@
       "onboard_time": 1732262778,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172311,
+      "num": 172311,
+      "word": "王楚钦说最近进到半决赛不容易",
+      "onboard_time": 1732265239,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 171497,
@@ -1305,14 +1417,6 @@
       "onboard_time": 1732253239,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161698,
-      "num": 305528,
-      "word": "杨幂 英雄是民族最闪亮的坐标",
-      "onboard_time": 1732262361,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 161594,
@@ -1403,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155820,
+      "num": 155820,
+      "word": "王楚钦说场上打球场下做人",
+      "onboard_time": 1732266920,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155595,
       "num": 155595,
       "word": "一梦江湖",
@@ -1467,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149514,
+      "num": 149514,
+      "word": "身份证自拍可不能随便发",
+      "onboard_time": 1732265179,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149469,
       "num": 149469,
       "word": "王楚钦坦言自己近期状态不佳",
@@ -1513,6 +1633,14 @@
       "onboard_time": 1732244358,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143757,
+      "num": 143757,
+      "word": "82岁拜登打起了篮球",
+      "onboard_time": 1732267460,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141694,
@@ -1649,6 +1777,14 @@
       "onboard_time": 1732236378,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128418,
+      "num": 353017,
+      "word": "重庆一小区有人高空抛菜刀砸中居民",
+      "onboard_time": 1732266260,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128234,
@@ -1801,6 +1937,14 @@
       "onboard_time": 1732249880,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99731,
+      "num": 551101,
+      "word": "沪指跌超3%失守3300点",
+      "onboard_time": 1732266379,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 99662,
@@ -2051,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74956,
-      "num": 261372,
-      "word": "徐冬冬尹子维重回吵架最凶的地方",
-      "onboard_time": 1732264759,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71637,
       "num": 305285,
       "word": "杨幂黑粉未履行赔偿被强执",
@@ -2089,6 +2225,14 @@
       "onboard_time": 1732201700,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65965,
+      "num": 602373,
+      "word": "话费打折慢充成洗钱陷阱",
+      "onboard_time": 1732266320,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65736,
@@ -2155,6 +2299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59774,
+      "num": 1062140,
+      "word": "中国已发展成全球最大互联网市场",
+      "onboard_time": 1732264279,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59532,
       "num": 182857,
       "word": "杨奇称黑神话拿奖是实至名归也有运气使然",
@@ -2185,6 +2337,14 @@
       "onboard_time": 1732263559,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 55111,
+      "num": 548401,
+      "word": "教体局回应发文撤销39所村小",
+      "onboard_time": 1732266500,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54766,
@@ -2241,14 +2401,6 @@
       "onboard_time": 1732259420,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44633,
-      "num": 1062140,
-      "word": "中国已发展成全球最大互联网市场",
-      "onboard_time": 1732264279,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43712,
@@ -2427,6 +2579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28455,
+      "num": 472637,
+      "word": "一线城市为何纷纷取消豪宅税",
+      "onboard_time": 1732267219,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27661,
       "num": 83859,
       "word": "V中文版王源24岁首封",
@@ -2449,6 +2609,14 @@
       "onboard_time": 1732262719,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 26473,
+      "num": 549095,
+      "word": "贾樟柯谈风流一代拍22年上映22天",
+      "onboard_time": 1732266439,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 26222,
