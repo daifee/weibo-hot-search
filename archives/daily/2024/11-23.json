@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732307121369,
+  "endTime": 1732307947979,
   "band_list": [
     {
       "raw_hot": 699606,
@@ -451,6 +451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49632,
+      "num": 49632,
+      "word": "又要见证56个民族55个能歌善舞了",
+      "onboard_time": 1732304171,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46918,
       "num": 80387,
       "word": "网传TES新赛季阵容",
@@ -465,14 +473,6 @@
       "onboard_time": 1732296914,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 40870,
-      "num": 40870,
-      "word": "又要见证56个民族55个能歌善舞了",
-      "onboard_time": 1732304171,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39848,
@@ -515,6 +515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 29999,
+      "num": 37967,
+      "word": "警方调查男子失踪18年自述被困黑砖窑",
+      "onboard_time": 1732306391,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29789,
       "num": 215754,
       "word": "刘宇奥利双C动了男团DNA",
@@ -537,6 +545,14 @@
       "onboard_time": 1732295235,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27713,
+      "num": 30169,
+      "word": "交大教练说张雨绮对象输球输人",
+      "onboard_time": 1732305671,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 27621,
@@ -576,14 +592,6 @@
       "word": "伯远唱跳",
       "onboard_time": 1732300872,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22774,
-      "num": 22774,
-      "word": "交大教练说张雨绮对象输球输人",
-      "onboard_time": 1732305671,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -651,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14509,
+      "num": 21658,
+      "word": "美驻英使馆附近发现可疑包裹",
+      "onboard_time": 1732306990,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13642,
       "num": 24366,
       "word": "扎哈罗娃被告知不要评论俄导弹袭乌",
@@ -675,19 +691,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 12853,
-      "num": 15410,
-      "word": "美驻英使馆附近发现可疑包裹",
-      "onboard_time": 1732306990,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11886,
-      "num": 37967,
-      "word": "警方调查男子失踪18年自述被困黑砖窑",
-      "onboard_time": 1732306391,
-      "rank": 9,
+      "raw_hot": 12286,
+      "num": 25803,
+      "word": "华山回应拆除金锁关许愿锁",
+      "onboard_time": 1732306331,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -779,12 +787,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 5631,
+      "raw_hot": 5658,
       "num": 35640,
       "word": "MIYAVI雅的费加罗封面",
       "onboard_time": 1732306691,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 5319,
+      "num": 21645,
+      "word": "马来西亚媒体夸尤长靖优秀",
+      "onboard_time": 1732307891,
+      "rank": 29,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
