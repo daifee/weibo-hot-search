@@ -1,0 +1,410 @@
+{
+  "runTime": 1732260124162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1945550,
+        "num": 1945550,
+        "word": "受王宝强资助孩子父亲发声",
+        "onboard_time": 1732254139,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1108976,
+        "num": 1108976,
+        "word": "ABC创始人公开致歉",
+        "onboard_time": 1732254080,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75335,
+        "num": 1053619,
+        "word": "乌镇来了个机器人导游",
+        "onboard_time": 1732244118,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1022582,
+        "num": 1022582,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1732258518,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990689,
+        "num": 990689,
+        "word": "麦琳戳穿了李行亮的爱妻面具",
+        "onboard_time": 1732257379,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782230,
+        "num": 782230,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 782106,
+        "num": 782106,
+        "word": "恩波格斗俱乐部声明",
+        "onboard_time": 1732257919,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659111,
+        "num": 659111,
+        "word": "中方回应特朗普所谓60%关税",
+        "onboard_time": 1732255939,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 527452,
+        "num": 527452,
+        "word": "费启鸣 出戏",
+        "onboard_time": 1732256118,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497673,
+        "num": 497673,
+        "word": "A股牛结束了吗",
+        "onboard_time": 1732254318,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1341048,
+        "num": 489475,
+        "word": "赵露思发了49995元粉丝红包",
+        "onboard_time": 1732258880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478915,
+        "num": 478915,
+        "word": "情侣亲密时酒店房间遭两男子闯入",
+        "onboard_time": 1732241418,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392910,
+        "num": 392910,
+        "word": "跳水",
+        "onboard_time": 1732250720,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 387431,
+        "num": 387431,
+        "word": "虞书欣丁禹兮月光新图",
+        "onboard_time": 1732256359,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319142,
+        "num": 319142,
+        "word": "林栋哲头发是王安宇在冰岛剪的",
+        "onboard_time": 1732254439,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298961,
+        "num": 298961,
+        "word": "多位车主称小米SU7自动泊车撞墙撞柱",
+        "onboard_time": 1732250000,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 287509,
+        "num": 287509,
+        "word": "麦琳以为黄圣依没收到七夕礼物",
+        "onboard_time": 1732259420,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46641,
+        "num": 286260,
+        "word": "王楚钦赢得首局",
+        "onboard_time": 1732259420,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203357,
+        "num": 285840,
+        "word": "虞书欣闭年刊24小时战报",
+        "onboard_time": 1732258880,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50368,
+        "num": 285802,
+        "word": "广东一对六旬夫妻上山后失联多日",
+        "onboard_time": 1732259240,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285796,
+        "num": 285796,
+        "word": "任嘉伦发文悼念锦衣之下作者",
+        "onboard_time": 1732249640,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271704,
+        "num": 271704,
+        "word": "上海迪士尼下月起取消儿童票身高标准",
+        "onboard_time": 1732251080,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 260006,
+        "num": 260006,
+        "word": "权志龙新歌",
+        "onboard_time": 1732252399,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230976,
+        "num": 230976,
+        "word": "张杰妈妈做的米线",
+        "onboard_time": 1732251260,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208657,
+        "num": 208657,
+        "word": "中国已同25个国家全面免签",
+        "onboard_time": 1732257198,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202001,
+        "num": 202001,
+        "word": "官方回应卫生巾新国标",
+        "onboard_time": 1732256661,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 198741,
+        "num": 198741,
+        "word": "不要彩礼不啃老关老板什么事",
+        "onboard_time": 1732256299,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20294,
+        "num": 198250,
+        "word": "双关同框 周巡破防",
+        "onboard_time": 1732256960,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35008,
+        "num": 198064,
+        "word": "一图看懂王宝强被举报事件",
+        "onboard_time": 1732259119,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160782,
+        "num": 198001,
+        "word": "恩波俱乐部称票房超9亿有分账约定",
+        "onboard_time": 1732260019,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197938,
+        "num": 197938,
+        "word": "李行亮听到麦琳怕动物的表情",
+        "onboard_time": 1732240758,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196948,
+        "num": 196948,
+        "word": "ILLIT获MAMA最佳女新人",
+        "onboard_time": 1732256118,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196599,
+        "num": 196599,
+        "word": "留几手 天天都是别人的事",
+        "onboard_time": 1732257919,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189154,
+        "num": 189154,
+        "word": "税务师",
+        "onboard_time": 1732257679,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29903,
+        "num": 186755,
+        "word": "王楚钦说比之前更投入",
+        "onboard_time": 1732258880,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185942,
+        "num": 185942,
+        "word": "女生被风筝线割喉组委会称签了免责",
+        "onboard_time": 1732246160,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169472,
+        "num": 169472,
+        "word": "麦学 1加1等于10理论",
+        "onboard_time": 1732254739,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26202,
+        "num": 169007,
+        "word": "留几手跳科目三",
+        "onboard_time": 1732259719,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31260,
+        "num": 168805,
+        "word": "对手教练谈王楚钦表现",
+        "onboard_time": 1732258638,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91205,
+        "num": 168720,
+        "word": "我们有能力化解抵御外部冲击影响",
+        "onboard_time": 1732257078,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168717,
+        "num": 168717,
+        "word": "祝绪丹发了好多自拍",
+        "onboard_time": 1732257919,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168364,
+        "num": 168364,
+        "word": "2024MAMA开场表演",
+        "onboard_time": 1732255579,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165308,
+        "num": 165308,
+        "word": "瓦格纳绝杀湖人",
+        "onboard_time": 1732256899,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160833,
+        "num": 160833,
+        "word": "女驴友遭马夫猥亵事件最新进展",
+        "onboard_time": 1732250659,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148913,
+        "num": 148913,
+        "word": "Rose新单曲MV",
+        "onboard_time": 1732253000,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146974,
+        "num": 146974,
+        "word": "股市",
+        "onboard_time": 1732260079,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144461,
+        "num": 144461,
+        "word": "雷军一条视频拯救了这家辣酱企业",
+        "onboard_time": 1732254380,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135026,
+        "num": 135026,
+        "word": "王楚钦说对阵莫雷加德自己是下风球",
+        "onboard_time": 1732249219,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134765,
+        "num": 134765,
+        "word": "杨紫新剧家业开机造型",
+        "onboard_time": 1732250180,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70275,
+        "num": 133057,
+        "word": "恩波格斗声明",
+        "onboard_time": 1732257560,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#相约2024世界互联网大会#"
+    }
+  }
+}

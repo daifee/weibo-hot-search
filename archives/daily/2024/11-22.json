@@ -1,6 +1,6 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732257968208,
+  "endTime": 1732260124162,
   "band_list": [
     {
       "raw_hot": 2297539,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1341048,
+      "num": 489475,
+      "word": "赵露思发了49995元粉丝红包",
+      "onboard_time": 1732258880,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1150779,
       "num": 291641,
       "word": "虞书欣登顶内娱女星杂志销量第一",
@@ -75,12 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1022582,
+      "num": 1022582,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1732258518,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1020860,
       "num": 1163337,
       "word": "金正恩说朝鲜半岛核战争一触即发",
       "onboard_time": 1732236019,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 990689,
+      "num": 990689,
+      "word": "麦琳戳穿了李行亮的爱妻面具",
+      "onboard_time": 1732257379,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 959117,
@@ -139,6 +163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 782106,
+      "num": 782106,
+      "word": "恩波格斗俱乐部声明",
+      "onboard_time": 1732257919,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770756,
       "num": 1121949,
       "word": "电影误杀3定档",
@@ -187,20 +219,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 659111,
+      "num": 659111,
+      "word": "中方回应特朗普所谓60%关税",
+      "onboard_time": 1732255939,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 635496,
       "num": 635496,
       "word": "丫丫的脸逐渐向着正圆发展",
       "onboard_time": 1732239378,
       "rank": 26,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 626254,
-      "num": 605163,
-      "word": "中方回应特朗普所谓60%关税",
-      "onboard_time": 1732255939,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 579460,
@@ -283,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527452,
+      "num": 527452,
+      "word": "费启鸣 出戏",
+      "onboard_time": 1732256118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 497673,
+      "num": 497673,
+      "word": "A股牛结束了吗",
+      "onboard_time": 1732254318,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 496837,
       "num": 496837,
       "word": "女驴友遭马夫猥亵事件最新进展",
@@ -305,14 +353,6 @@
       "onboard_time": 1732253000,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 477228,
-      "num": 385953,
-      "word": "费启鸣 出戏",
-      "onboard_time": 1732256118,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 476393,
@@ -411,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 387431,
+      "num": 387431,
+      "word": "虞书欣丁禹兮月光新图",
+      "onboard_time": 1732256359,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375445,
       "num": 375445,
       "word": "卫生巾是否应该纳入医保",
@@ -433,14 +481,6 @@
       "onboard_time": 1732248860,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 350422,
-      "num": 350422,
-      "word": "虞书欣丁禹兮月光新图",
-      "onboard_time": 1732256359,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 334916,
@@ -491,11 +531,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 296435,
-      "num": 204463,
-      "word": "麦琳戳穿了李行亮的爱妻面具",
-      "onboard_time": 1732257379,
-      "rank": 26,
+      "raw_hot": 287509,
+      "num": 287509,
+      "word": "麦琳以为黄圣依没收到七夕礼物",
+      "onboard_time": 1732259420,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -635,14 +675,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 238498,
-      "num": 238498,
-      "word": "A股牛结束了吗",
-      "onboard_time": 1732254318,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 238347,
       "num": 238347,
       "word": "小米回应SU7自动泊车功能异常",
@@ -779,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208657,
+      "num": 208657,
+      "word": "中国已同25个国家全面免签",
+      "onboard_time": 1732257198,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208623,
       "num": 227373,
       "word": "普京证实对乌实战测试新型中程导弹",
@@ -809,6 +849,14 @@
       "onboard_time": 1732250360,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203357,
+      "num": 285840,
+      "word": "虞书欣闭年刊24小时战报",
+      "onboard_time": 1732258880,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200396,
@@ -843,6 +891,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198741,
+      "num": 198741,
+      "word": "不要彩礼不啃老关老板什么事",
+      "onboard_time": 1732256299,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196599,
+      "num": 196599,
+      "word": "留几手 天天都是别人的事",
+      "onboard_time": 1732257919,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195147,
       "num": 350500,
       "word": "旅客在护照上画验讫章被拒绝出境",
@@ -865,6 +929,14 @@
       "onboard_time": 1732195039,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189154,
+      "num": 189154,
+      "word": "税务师",
+      "onboard_time": 1732257679,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 188861,
@@ -979,6 +1051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 168717,
+      "num": 203756,
+      "word": "祝绪丹发了好多自拍",
+      "onboard_time": 1732257919,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "MAMA直播",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1732188680,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160782,
+      "num": 198001,
+      "word": "恩波俱乐部称票房超9亿有分账约定",
+      "onboard_time": 1732260019,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 160534,
@@ -1123,36 +1211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151029,
-      "num": 150081,
-      "word": "留几手 天天都是别人的事",
-      "onboard_time": 1732257919,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150782,
       "num": 150782,
       "word": "沙溢要把姚译添行李箱套寄给范丞丞",
       "onboard_time": 1732250541,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150318,
-      "num": 150318,
-      "word": "中国已同25个国家全面免签",
-      "onboard_time": 1732257198,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 149608,
-      "num": 149608,
-      "word": "恩波格斗俱乐部声明",
-      "onboard_time": 1732257919,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 149469,
@@ -1195,6 +1259,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 146974,
+      "num": 146974,
+      "word": "股市",
+      "onboard_time": 1732260079,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146577,
       "num": 146577,
       "word": "喜剧大会 按时下班就是消极加班",
@@ -1225,14 +1297,6 @@
       "onboard_time": 1732253960,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139024,
-      "num": 139024,
-      "word": "税务师",
-      "onboard_time": 1732257679,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 138463,
@@ -1283,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135026,
+      "num": 223505,
+      "word": "王楚钦说对阵莫雷加德自己是下风球",
+      "onboard_time": 1732249219,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134857,
       "num": 134857,
       "word": "iG 全神班",
@@ -1300,7 +1372,7 @@
     },
     {
       "raw_hot": 132602,
-      "num": 132602,
+      "num": 168720,
       "word": "我们有能力化解抵御外部冲击影响",
       "onboard_time": 1732257078,
       "rank": 47,
@@ -1321,14 +1393,6 @@
       "onboard_time": 1732245018,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128883,
-      "num": 128883,
-      "word": "不要彩礼不啃老关老板什么事",
-      "onboard_time": 1732256299,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128826,
@@ -1489,14 +1553,6 @@
       "onboard_time": 1732191079,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 95799,
-      "num": 223505,
-      "word": "王楚钦说对阵莫雷加德自己是下风球",
-      "onboard_time": 1732249219,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 95704,
@@ -1811,12 +1867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50368,
+      "num": 285802,
+      "word": "广东一对六旬夫妻上山后失联多日",
+      "onboard_time": 1732259240,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49340,
       "num": 56916,
       "word": "中国航天员开月球车模拟动画",
       "onboard_time": 1732228273,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46641,
+      "num": 286260,
+      "word": "王楚钦赢得首局",
+      "onboard_time": 1732259420,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 43712,
@@ -1899,10 +1971,10 @@
       "category": "财经"
     },
     {
-      "raw_hot": 34726,
-      "num": 203756,
-      "word": "祝绪丹发了好多自拍",
-      "onboard_time": 1732257919,
+      "raw_hot": 35008,
+      "num": 198064,
+      "word": "一图看懂王宝强被举报事件",
+      "onboard_time": 1732259119,
       "rank": 28,
       "category": "艺人"
     },
@@ -1921,6 +1993,14 @@
       "onboard_time": 1732201280,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31260,
+      "num": 168805,
+      "word": "对手教练谈王楚钦表现",
+      "onboard_time": 1732258638,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 31007,
@@ -1961,6 +2041,14 @@
       "onboard_time": 1732210213,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29903,
+      "num": 186755,
+      "word": "王楚钦说比之前更投入",
+      "onboard_time": 1732258880,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 29337,
@@ -2009,6 +2097,14 @@
       "onboard_time": 1732224550,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 26202,
+      "num": 169007,
+      "word": "留几手跳科目三",
+      "onboard_time": 1732259719,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 26032,
