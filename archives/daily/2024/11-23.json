@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732304140122,
+  "endTime": 1732307121369,
   "band_list": [
     {
       "raw_hot": 699606,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98894,
+      "num": 98894,
+      "word": "网红丐中丐夫妻直播遇车祸遇难",
+      "onboard_time": 1732301891,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97611,
       "num": 97611,
       "word": "房东先生去世了",
@@ -419,14 +427,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 73238,
-      "num": 73238,
-      "word": "网红丐中丐夫妻直播遇车祸遇难",
-      "onboard_time": 1732301891,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60618,
       "num": 60618,
       "word": "by2的凑热闹原来是林俊杰操刀",
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40870,
+      "num": 40870,
+      "word": "又要见证56个民族55个能歌善舞了",
+      "onboard_time": 1732304171,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39848,
       "num": 178704,
       "word": "战胜小莫和复仇无关",
@@ -481,6 +489,14 @@
       "onboard_time": 1732278078,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 36186,
+      "num": 46094,
+      "word": "女子称父亲失踪18年被困黑窑厂",
+      "onboard_time": 1732303391,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33649,
@@ -563,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22774,
+      "num": 22774,
+      "word": "交大教练说张雨绮对象输球输人",
+      "onboard_time": 1732305671,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22519,
       "num": 22519,
       "word": "鹭卓和花束合照",
@@ -585,14 +609,6 @@
       "onboard_time": 1732296973,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18358,
-      "num": 46094,
-      "word": "女子称父亲失踪18年被困黑窑厂",
-      "onboard_time": 1732303391,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18002,
@@ -641,6 +657,38 @@
       "onboard_time": 1732304110,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13360,
+      "num": 15414,
+      "word": "重生之老猫永久禁言",
+      "onboard_time": 1732305491,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 12990,
+      "num": 15410,
+      "word": "薛之谦时隔两年完成第13张专辑",
+      "onboard_time": 1732304951,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 12853,
+      "num": 15410,
+      "word": "美驻英使馆附近发现可疑包裹",
+      "onboard_time": 1732306990,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11886,
+      "num": 37967,
+      "word": "警方调查男子失踪18年自述被困黑砖窑",
+      "onboard_time": 1732306391,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11241,
@@ -729,6 +777,14 @@
       "onboard_time": 1732302432,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 5631,
+      "num": 35640,
+      "word": "MIYAVI雅的费加罗封面",
+      "onboard_time": 1732306691,
+      "rank": 19,
+      "category": "艺人,时尚"
     }
   ],
   "hotgov_list": [
