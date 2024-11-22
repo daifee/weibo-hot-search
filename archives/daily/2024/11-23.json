@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732293008297,
+  "endTime": 1732293973097,
   "band_list": [
     {
       "raw_hot": 699606,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 379725,
-      "num": 267149,
+      "num": 328496,
       "word": "麦琳 删评论",
       "onboard_time": 1732268058,
       "rank": 6,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 363802,
-      "num": 267144,
+      "num": 287980,
       "word": "安宥真张元英楚河汉界",
       "onboard_time": 1732286900,
       "rank": 7,
@@ -65,6 +65,14 @@
       "onboard_time": 1732288280,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 311023,
+      "num": 311023,
+      "word": "男子心脏骤停4小时后奇迹发生了",
+      "onboard_time": 1732287680,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269724,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264464,
+      "num": 264464,
+      "word": "时代少年团五周年灯光秀",
+      "onboard_time": 1732290618,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243473,
       "num": 243473,
       "word": "Doinb怒喷Letme",
@@ -99,20 +115,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 240861,
-      "num": 240861,
-      "word": "时代少年团五周年灯光秀",
-      "onboard_time": 1732290618,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 236490,
-      "num": 236490,
-      "word": "男子心脏骤停4小时后奇迹发生了",
-      "onboard_time": 1732287680,
+      "raw_hot": 231074,
+      "num": 221888,
+      "word": "虞书欣何与cp感",
+      "onboard_time": 1732293675,
       "rank": 15,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 222010,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 192855,
-      "num": 178039,
+      "num": 183900,
       "word": "虞书欣开启海岛副本",
       "onboard_time": 1732291757,
       "rank": 25,
@@ -203,8 +211,8 @@
       "category": "民生新闻,正能量"
     },
     {
-      "raw_hot": 142285,
-      "num": 142285,
+      "raw_hot": 146390,
+      "num": 146390,
       "word": "沈奕斐说留几手更像npd",
       "onboard_time": 1732290738,
       "rank": 30,
@@ -315,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 92333,
+      "num": 216458,
+      "word": "宋佳骑平衡车出场这一幕",
+      "onboard_time": 1732292537,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87675,
       "num": 87675,
       "word": "王安宇 栋哲要幸福",
@@ -355,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69681,
+      "num": 267136,
+      "word": "医生谈减重版司美格鲁肽",
+      "onboard_time": 1732292597,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 56838,
       "num": 465114,
       "word": "正宗巴西烤肉以烤牛肉为主",
@@ -371,7 +395,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38900,
+      "raw_hot": 39848,
       "num": 178704,
       "word": "战胜小莫和复仇无关",
       "onboard_time": 1732292717,
@@ -379,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34097,
-      "num": 267136,
-      "word": "医生谈减重版司美格鲁肽",
-      "onboard_time": 1732292597,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 33789,
+      "num": 148133,
+      "word": "朱志鑫cha了Peaches",
+      "onboard_time": 1732293317,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 29789,
@@ -395,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12555,
-      "num": 216458,
-      "word": "宋佳骑平衡车出场这一幕",
-      "onboard_time": 1732292537,
+      "raw_hot": 27621,
+      "num": 133677,
+      "word": "星穹铁道黄金裔",
+      "onboard_time": 1732286360,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 6652,
+      "num": 187874,
+      "word": "金角大王银角大王",
+      "onboard_time": 1732293736,
       "rank": 18,
-      "category": "电影"
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
