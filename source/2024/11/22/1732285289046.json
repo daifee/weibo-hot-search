@@ -1,0 +1,410 @@
+{
+  "runTime": 1732285289046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 928942,
+        "num": 1148630,
+        "word": "何炅主持最尴尬的一次",
+        "onboard_time": 1732276040,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706600,
+        "num": 706600,
+        "word": "微信一次性查询所有单删好友",
+        "onboard_time": 1732261341,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103852,
+        "num": 430662,
+        "word": "正宗巴西烤肉以烤牛肉为主",
+        "onboard_time": 1732281441,
+        "rank": 2,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 859809,
+        "num": 429831,
+        "word": "歌手2025",
+        "onboard_time": 1732281260,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428755,
+        "num": 428755,
+        "word": "旺旺集团首席营运官回应",
+        "onboard_time": 1732278380,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333087,
+        "num": 425567,
+        "word": "刮刮乐中奖5000后背上9万债",
+        "onboard_time": 1732282582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765808,
+        "num": 423223,
+        "word": "蔡昆廷向郭旭求婚",
+        "onboard_time": 1732280721,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721054,
+        "num": 420669,
+        "word": "王耀庆 丁禹兮随谁叫的舅舅",
+        "onboard_time": 1732279340,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533700,
+        "num": 416133,
+        "word": "旺仔",
+        "onboard_time": 1732271779,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52973,
+        "num": 414723,
+        "word": "医用卫生巾概念股连日大涨",
+        "onboard_time": 1732284381,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 643060,
+        "num": 409494,
+        "word": "卫生巾塌房用什么才安全",
+        "onboard_time": 1732274720,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 534048,
+        "num": 406421,
+        "word": "小米回应70多辆SU7自动泊车撞墙",
+        "onboard_time": 1732279159,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 452484,
+        "num": 403370,
+        "word": "麦琳 删评论",
+        "onboard_time": 1732268058,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447519,
+        "num": 398946,
+        "word": "禹宙中欣 预制饭也很香",
+        "onboard_time": 1732281919,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165654,
+        "num": 397237,
+        "word": "直播间159买的鹅绒服是什么绒",
+        "onboard_time": 1732284621,
+        "rank": 14,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 319213,
+        "num": 393581,
+        "word": "哄人哄一辈子",
+        "onboard_time": 1732282701,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276102,
+        "num": 388659,
+        "word": "国乒无缘总决赛女双冠军",
+        "onboard_time": 1732283660,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170166,
+        "num": 387254,
+        "word": "王烁然 TFING",
+        "onboard_time": 1732284140,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2637126,
+        "num": 382394,
+        "word": "中学女教师出轨学生聊天记录曝光",
+        "onboard_time": 1732280060,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77242,
+        "num": 378791,
+        "word": "游客算命花费3333元喇叭喊话避坑",
+        "onboard_time": 1732283660,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377160,
+        "num": 377160,
+        "word": "赵露思发了49995元粉丝红包",
+        "onboard_time": 1732258880,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393482,
+        "num": 368481,
+        "word": "男子花三千嫖娼后又偷走犯盗窃罪",
+        "onboard_time": 1732279039,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346751,
+        "num": 346751,
+        "word": "邝玲玲生图",
+        "onboard_time": 1732282461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330128,
+        "num": 330128,
+        "word": "陈哲远张婧仪平番",
+        "onboard_time": 1732283902,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63164,
+        "num": 329726,
+        "word": "崩坏星穹铁道 爱莉希雅",
+        "onboard_time": 1732285040,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329530,
+        "num": 329530,
+        "word": "好东西",
+        "onboard_time": 1732275859,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320972,
+        "num": 320972,
+        "word": "虞书欣何与同框",
+        "onboard_time": 1732279580,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242583,
+        "num": 242583,
+        "word": "内娱艺人实体杂志销量TOP30",
+        "onboard_time": 1732278078,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 226203,
+        "num": 226203,
+        "word": "芒果 CP粉头",
+        "onboard_time": 1732284320,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223266,
+        "num": 223266,
+        "word": "这种茶把20根捆在一起喝",
+        "onboard_time": 1732283422,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 225271,
+        "num": 219938,
+        "word": "房东先生去世了",
+        "onboard_time": 1732270940,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78940,
+        "num": 218935,
+        "word": "许凯方恳请理智追星",
+        "onboard_time": 1732284561,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255937,
+        "num": 213962,
+        "word": "虞书欣刚开机就请客了",
+        "onboard_time": 1732279280,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421564,
+        "num": 211449,
+        "word": "教育局称出轨中学生女教师已停职",
+        "onboard_time": 1732277359,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 208305,
+        "num": 208305,
+        "word": "女生酒店半裸遭男保洁刷卡闯入",
+        "onboard_time": 1732268840,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205891,
+        "num": 205891,
+        "word": "MAMA获奖名单",
+        "onboard_time": 1732272918,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203322,
+        "num": 203322,
+        "word": "麦琳闺蜜发声",
+        "onboard_time": 1732279939,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181866,
+        "num": 181866,
+        "word": "女装卖了2000单退了1500单",
+        "onboard_time": 1732248259,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181652,
+        "num": 181652,
+        "word": "亚0",
+        "onboard_time": 1732282101,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178721,
+        "num": 178721,
+        "word": "DFM战胜EDG",
+        "onboard_time": 1732284381,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178274,
+        "num": 178274,
+        "word": "林诗栋vs邱党",
+        "onboard_time": 1732278559,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176045,
+        "num": 176045,
+        "word": "关晓彤给庄筱婷的一封信",
+        "onboard_time": 1732283960,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59872,
+        "num": 168767,
+        "word": "日本队包揽女双冠亚军",
+        "onboard_time": 1732282641,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164008,
+        "num": 164008,
+        "word": "0.01的svip",
+        "onboard_time": 1732284502,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162905,
+        "num": 162905,
+        "word": "by2的凑热闹原来是林俊杰操刀",
+        "onboard_time": 1732280600,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156224,
+        "num": 156224,
+        "word": "aespaMAMA生图",
+        "onboard_time": 1732282221,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155011,
+        "num": 155011,
+        "word": "女子晒100多个柿子全被鸟叼走了",
+        "onboard_time": 1732284981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154550,
+        "num": 154550,
+        "word": "王安宇 栋哲要幸福",
+        "onboard_time": 1732281380,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142273,
+        "num": 142273,
+        "word": "全场一起APT",
+        "onboard_time": 1732277179,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138145,
+        "num": 138145,
+        "word": "朴智旻获MAMA大赏",
+        "onboard_time": 1732278799,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席拉美之行#"
+    }
+  }
+}

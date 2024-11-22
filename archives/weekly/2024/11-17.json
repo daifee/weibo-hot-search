@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732282924581,
+  "endTime": 1732285289046,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -105,6 +105,14 @@
       "onboard_time": 1732179679,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2637126,
+      "num": 1241146,
+      "word": "中学女教师出轨学生聊天记录曝光",
+      "onboard_time": 1732280060,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 2635867,
@@ -745,14 +753,6 @@
       "onboard_time": 1732097660,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1241146,
-      "num": 1241146,
-      "word": "中学女教师出轨学生聊天记录曝光",
-      "onboard_time": 1732280060,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 1236161,
@@ -1523,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 859809,
+      "num": 768495,
+      "word": "歌手2025",
+      "onboard_time": 1732281260,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 858872,
       "num": 858872,
       "word": "黄翠如官宣怀孕",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1731997580,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 768495,
-      "num": 768495,
-      "word": "歌手2025",
-      "onboard_time": 1732281260,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 766378,
@@ -3371,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534048,
+      "num": 697235,
+      "word": "小米回应70多辆SU7自动泊车撞墙",
+      "onboard_time": 1732279159,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 531544,
       "num": 531544,
       "word": "烧饼任德云社副总",
@@ -4033,6 +4041,14 @@
       "onboard_time": 1731992064,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447519,
+      "num": 398946,
+      "word": "禹宙中欣 预制饭也很香",
+      "onboard_time": 1732281919,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 446352,
@@ -5043,14 +5059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 350717,
-      "num": 697235,
-      "word": "小米回应70多辆SU7自动泊车撞墙",
-      "onboard_time": 1732279159,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 350461,
       "num": 215500,
       "word": "刘耀文直播",
@@ -5073,6 +5081,14 @@
       "onboard_time": 1732025122,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346751,
+      "num": 360065,
+      "word": "邝玲玲生图",
+      "onboard_time": 1732282461,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 346378,
@@ -5235,6 +5251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 333087,
+      "num": 425567,
+      "word": "刮刮乐中奖5000后背上9万债",
+      "onboard_time": 1732282582,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332936,
       "num": 332936,
       "word": "小狗离世前十分钟医师对它吐烟",
@@ -5251,14 +5275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331627,
-      "num": 331627,
-      "word": "禹宙中欣 预制饭也很香",
-      "onboard_time": 1732281919,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331572,
       "num": 278717,
       "word": "男生看见雷军直接递上简历",
@@ -5273,6 +5289,22 @@
       "onboard_time": 1731941539,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330128,
+      "num": 330128,
+      "word": "陈哲远张婧仪平番",
+      "onboard_time": 1732283902,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329530,
+      "num": 329530,
+      "word": "好东西",
+      "onboard_time": 1731889097,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 329040,
@@ -5393,6 +5425,14 @@
       "onboard_time": 1732176619,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 319213,
+      "num": 393581,
+      "word": "哄人哄一辈子",
+      "onboard_time": 1732282701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 319207,
@@ -6163,6 +6203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276102,
+      "num": 388659,
+      "word": "国乒无缘总决赛女双冠军",
+      "onboard_time": 1732283660,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275544,
       "num": 284109,
       "word": "江苏淮安小伙把自己棉大衣给埃文凯尔穿",
@@ -6545,14 +6593,6 @@
       "onboard_time": 1731972916,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258964,
-      "num": 259586,
-      "word": "好东西",
-      "onboard_time": 1731889097,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 258935,
@@ -7427,6 +7467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226203,
+      "num": 226203,
+      "word": "芒果 CP粉头",
+      "onboard_time": 1732284320,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225938,
       "num": 240643,
       "word": "ILLIT获MAMA最佳女新人",
@@ -7529,6 +7577,14 @@
       "onboard_time": 1732012220,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223266,
+      "num": 223266,
+      "word": "这种茶把20根捆在一起喝",
+      "onboard_time": 1732283422,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 223235,
@@ -10275,6 +10331,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 178721,
+      "num": 178721,
+      "word": "DFM战胜EDG",
+      "onboard_time": 1732284381,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178573,
       "num": 178573,
       "word": "张真源新晋道歉主播",
@@ -10451,6 +10515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176045,
+      "num": 176045,
+      "word": "关晓彤给庄筱婷的一封信",
+      "onboard_time": 1732283960,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175891,
       "num": 253554,
       "word": "2架歼20贴脸飞行太酷了",
@@ -10601,14 +10673,6 @@
       "onboard_time": 1731842118,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174087,
-      "num": 174087,
-      "word": "哄人哄一辈子",
-      "onboard_time": 1732282701,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 173998,
@@ -10843,6 +10907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170166,
+      "num": 387254,
+      "word": "王烁然 TFING",
+      "onboard_time": 1732284140,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170135,
       "num": 177139,
       "word": "一个人改造爸妈住了30年的卧室",
@@ -11035,14 +11107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167102,
-      "num": 421219,
-      "word": "刮刮乐中奖5000后背上9万债",
-      "onboard_time": 1732282582,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166893,
       "num": 333414,
       "word": "张本智和说想在日本拿冠军",
@@ -11163,6 +11227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165654,
+      "num": 397237,
+      "word": "直播间159买的鹅绒服是什么绒",
+      "onboard_time": 1732284621,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 165644,
       "num": 165644,
       "word": "小米三季度营收925.1亿元",
@@ -11265,6 +11337,14 @@
       "onboard_time": 1731855561,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164008,
+      "num": 164008,
+      "word": "0.01的svip",
+      "onboard_time": 1732284502,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 163930,
@@ -11841,6 +11921,14 @@
       "onboard_time": 1731940522,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155011,
+      "num": 155011,
+      "word": "女子晒100多个柿子全被鸟叼走了",
+      "onboard_time": 1732284981,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154936,
@@ -14435,14 +14523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114238,
-      "num": 360065,
-      "word": "邝玲玲生图",
-      "onboard_time": 1732282461,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114083,
       "num": 114083,
       "word": "上等兵做了911个单杠卷身上",
@@ -14873,6 +14953,14 @@
       "onboard_time": 1732109422,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103852,
+      "num": 1223971,
+      "word": "正宗巴西烤肉以烤牛肉为主",
+      "onboard_time": 1732281441,
+      "rank": 2,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103744,
@@ -15875,14 +15963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80751,
-      "num": 1223971,
-      "word": "正宗巴西烤肉以烤牛肉为主",
-      "onboard_time": 1732281441,
-      "rank": 2,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80616,
       "num": 80616,
       "word": "教育局调查教师让学生轮流掌掴一孩子",
@@ -15977,6 +16057,14 @@
       "onboard_time": 1732262120,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 78940,
+      "num": 218935,
+      "word": "许凯方恳请理智追星",
+      "onboard_time": 1732284561,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 78939,
@@ -16081,6 +16169,14 @@
       "onboard_time": 1732246998,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77242,
+      "num": 378791,
+      "word": "游客算命花费3333元喇叭喊话避坑",
+      "onboard_time": 1732283660,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77146,
@@ -16753,6 +16849,14 @@
       "onboard_time": 1732115961,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63164,
+      "num": 329726,
+      "word": "崩坏星穹铁道 爱莉希雅",
+      "onboard_time": 1732285040,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 63163,
@@ -17529,6 +17633,14 @@
       "onboard_time": 1732019121,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52973,
+      "num": 414723,
+      "word": "医用卫生巾概念股连日大涨",
+      "onboard_time": 1732284381,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 52874,

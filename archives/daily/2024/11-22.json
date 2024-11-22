@@ -1,7 +1,15 @@
 {
   "startTime": 1732206586593,
-  "endTime": 1732282924581,
+  "endTime": 1732285289046,
   "band_list": [
+    {
+      "raw_hot": 2637126,
+      "num": 1241146,
+      "word": "中学女教师出轨学生聊天记录曝光",
+      "onboard_time": 1732280060,
+      "rank": 37,
+      "category": "教育"
+    },
     {
       "raw_hot": 2508832,
       "num": 2508832,
@@ -123,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1241146,
-      "num": 1241146,
-      "word": "中学女教师出轨学生聊天记录曝光",
-      "onboard_time": 1732280060,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1236161,
       "num": 1236161,
       "word": "何炅主持最尴尬的一次",
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 859809,
+      "num": 768495,
+      "word": "歌手2025",
+      "onboard_time": 1732281260,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 848309,
       "num": 1135729,
       "word": "李行亮道歉这段",
@@ -305,14 +313,6 @@
       "onboard_time": 1732244059,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 768495,
-      "num": 768495,
-      "word": "歌手2025",
-      "onboard_time": 1732281260,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 759750,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534048,
+      "num": 697235,
+      "word": "小米回应70多辆SU7自动泊车撞墙",
+      "onboard_time": 1732279159,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 527672,
       "num": 866045,
       "word": "王宝强被举报涉嫌欺诈",
@@ -680,6 +688,14 @@
       "word": "郭晓东回应蒋欣人间处处是超英",
       "onboard_time": 1732238839,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 447519,
+      "num": 398946,
+      "word": "禹宙中欣 预制饭也很香",
+      "onboard_time": 1732281919,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -859,12 +875,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 350717,
-      "num": 697235,
-      "word": "小米回应70多辆SU7自动泊车撞墙",
-      "onboard_time": 1732279159,
-      "rank": 42,
-      "category": "汽车"
+      "raw_hot": 346751,
+      "num": 360065,
+      "word": "邝玲玲生图",
+      "onboard_time": 1732282461,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 344227,
@@ -891,12 +907,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331627,
-      "num": 331627,
-      "word": "禹宙中欣 预制饭也很香",
-      "onboard_time": 1732281919,
-      "rank": 36,
+      "raw_hot": 333087,
+      "num": 425567,
+      "word": "刮刮乐中奖5000后背上9万债",
+      "onboard_time": 1732282582,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330128,
+      "num": 330128,
+      "word": "陈哲远张婧仪平番",
+      "onboard_time": 1732283902,
+      "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329530,
+      "num": 329530,
+      "word": "好东西",
+      "onboard_time": 1732275859,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 322246,
@@ -921,6 +953,14 @@
       "onboard_time": 1732240698,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319213,
+      "num": 393581,
+      "word": "哄人哄一辈子",
+      "onboard_time": 1732282701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 315220,
@@ -1043,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276102,
+      "num": 388659,
+      "word": "国乒无缘总决赛女双冠军",
+      "onboard_time": 1732283660,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275141,
       "num": 275141,
       "word": "吉赛尔没领奖",
@@ -1089,14 +1137,6 @@
       "onboard_time": 1732279939,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258964,
-      "num": 258964,
-      "word": "好东西",
-      "onboard_time": 1732275859,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 257840,
@@ -1347,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 226203,
+      "num": 226203,
+      "word": "芒果 CP粉头",
+      "onboard_time": 1732284320,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225938,
       "num": 240643,
       "word": "ILLIT获MAMA最佳女新人",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1732269918,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223266,
+      "num": 223266,
+      "word": "这种茶把20根捆在一起喝",
+      "onboard_time": 1732283422,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 223182,
@@ -1907,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178721,
+      "num": 178721,
+      "word": "DFM战胜EDG",
+      "onboard_time": 1732284381,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178362,
       "num": 199897,
       "word": "永夜星河团综",
@@ -1963,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176045,
+      "num": 176045,
+      "word": "关晓彤给庄筱婷的一封信",
+      "onboard_time": 1732283960,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175736,
       "num": 302140,
       "word": "赵晓卉 再见老板",
@@ -1977,14 +2049,6 @@
       "onboard_time": 1732277240,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174087,
-      "num": 174087,
-      "word": "哄人哄一辈子",
-      "onboard_time": 1732282701,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 173865,
@@ -2019,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170166,
+      "num": 387254,
+      "word": "王烁然 TFING",
+      "onboard_time": 1732284140,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170012,
       "num": 170012,
       "word": "知情人透露卫生巾新国标起草进度",
@@ -2043,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167102,
-      "num": 421219,
-      "word": "刮刮乐中奖5000后背上9万债",
-      "onboard_time": 1732282582,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166641,
       "num": 166641,
       "word": "肖战灯塔和长春雪景适配度",
@@ -2067,6 +2131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165654,
+      "num": 397237,
+      "word": "直播间159买的鹅绒服是什么绒",
+      "onboard_time": 1732284621,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "MAMA直播",
@@ -2081,6 +2153,14 @@
       "onboard_time": 1732252040,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164008,
+      "num": 164008,
+      "word": "0.01的svip",
+      "onboard_time": 1732284502,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 163930,
@@ -2249,6 +2329,14 @@
       "onboard_time": 1732245799,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155011,
+      "num": 155011,
+      "word": "女子晒100多个柿子全被鸟叼走了",
+      "onboard_time": 1732284981,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153984,
@@ -2651,14 +2739,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 114238,
-      "num": 360065,
-      "word": "邝玲玲生图",
-      "onboard_time": 1732282461,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112004,
       "num": 346848,
       "word": "一研为定",
@@ -2697,6 +2777,14 @@
       "onboard_time": 1732180640,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103852,
+      "num": 1223971,
+      "word": "正宗巴西烤肉以烤牛肉为主",
+      "onboard_time": 1732281441,
+      "rank": 2,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102301,
@@ -2939,14 +3027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80751,
-      "num": 1223971,
-      "word": "正宗巴西烤肉以烤牛肉为主",
-      "onboard_time": 1732281441,
-      "rank": 2,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80421,
       "num": 124425,
       "word": "女性一生约使用1.5万片卫生巾",
@@ -2995,6 +3075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78940,
+      "num": 218935,
+      "word": "许凯方恳请理智追星",
+      "onboard_time": 1732284561,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78939,
       "num": 383891,
       "word": "留学回国后我成了一个烂尾娃",
@@ -3017,6 +3105,14 @@
       "onboard_time": 1732246998,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77242,
+      "num": 378791,
+      "word": "游客算命花费3333元喇叭喊话避坑",
+      "onboard_time": 1732283660,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76258,
@@ -3136,6 +3232,14 @@
       "word": "黑神话年底惊喜是影神图实体书",
       "onboard_time": 1732248799,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 63164,
+      "num": 329726,
+      "word": "崩坏星穹铁道 爱莉希雅",
+      "onboard_time": 1732285040,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -3297,6 +3401,14 @@
       "onboard_time": 1732222092,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52973,
+      "num": 414723,
+      "word": "医用卫生巾概念股连日大涨",
+      "onboard_time": 1732284381,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 52874,
