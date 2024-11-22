@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732300280880,
+  "endTime": 1732301099762,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -70163,6 +70163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24980,
+      "num": 24980,
+      "word": "张杰成都六场演唱会",
+      "onboard_time": 1732300331,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24957,
       "num": 277731,
       "word": "小默在微博公开道歉具有法律效力",
@@ -70201,6 +70209,14 @@
       "onboard_time": 1732084819,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24830,
+      "num": 82783,
+      "word": "中国姑娘集体跳舞宛如复制粘贴",
+      "onboard_time": 1732300092,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24824,
@@ -70521,6 +70537,14 @@
       "onboard_time": 1731144919,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24032,
+      "num": 24032,
+      "word": "朴综星弹吉他",
+      "onboard_time": 1732300512,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 23976,
@@ -70963,6 +70987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 22973,
+      "num": 22973,
+      "word": "伯远唱跳",
+      "onboard_time": 1732300872,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22935,
       "num": 66069,
       "word": "女子生命只剩仨月当志愿者10年后康复",
@@ -71105,6 +71137,14 @@
       "onboard_time": 1731207918,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 22519,
+      "num": 22519,
+      "word": "鹭卓和花束合照",
+      "onboard_time": 1732300631,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 22508,
@@ -73267,14 +73307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16768,
-      "num": 64629,
-      "word": "中国姑娘集体跳舞宛如复制粘贴",
-      "onboard_time": 1732300092,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16767,
       "num": 18447,
       "word": "直击第十五届中国航展",
@@ -75147,6 +75179,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 10832,
+      "num": 27457,
+      "word": "刘宇 乌海",
+      "onboard_time": 1732300512,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 10778,
       "num": 18857,
       "word": "呼叫81192我们有歼35A了",
@@ -75523,6 +75563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9042,
+      "num": 56258,
+      "word": "王楚钦继续拼搏",
+      "onboard_time": 1732300092,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9010,
       "num": 17962,
       "word": "三个维度看公休假调整",
@@ -75745,14 +75793,6 @@
       "onboard_time": 1732136831,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7304,
-      "num": 56258,
-      "word": "王楚钦继续拼搏",
-      "onboard_time": 1732300092,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 7214,
