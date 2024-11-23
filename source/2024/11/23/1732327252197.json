@@ -1,0 +1,410 @@
+{
+  "runTime": 1732327252197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1371942,
+        "num": 1371942,
+        "word": "川航3U3859已安全到达",
+        "onboard_time": 1732320017,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1022418,
+        "num": 1022418,
+        "word": "再见爱人 李行亮不容许有离婚的选项",
+        "onboard_time": 1732318696,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58771,
+        "num": 576675,
+        "word": "乌镇峰会人形机器人加速进化",
+        "onboard_time": 1732279461,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 570441,
+        "num": 570441,
+        "word": "权志龙点赞苏新皓",
+        "onboard_time": 1732317974,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483883,
+        "num": 483883,
+        "word": "日本直飞中国航班搜索热度大涨",
+        "onboard_time": 1732320917,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 402195,
+        "num": 402195,
+        "word": "旺旺集团声明",
+        "onboard_time": 1732318515,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 430852,
+        "num": 400737,
+        "word": "交大教练说张雨绮对象输球输人",
+        "onboard_time": 1732305671,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380793,
+        "num": 380793,
+        "word": "网传广东潮汕现关门潮",
+        "onboard_time": 1732318575,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377308,
+        "num": 377308,
+        "word": "再见爱人弹幕",
+        "onboard_time": 1732324277,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107621,
+        "num": 345057,
+        "word": "朝鲜军队提升至战斗准备状态",
+        "onboard_time": 1732325957,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 313935,
+        "num": 313935,
+        "word": "卫生巾塌房用什么才安全",
+        "onboard_time": 1732274720,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304150,
+        "num": 304150,
+        "word": "西安警方通报报警人称被民警关留置室",
+        "onboard_time": 1732322958,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 279123,
+        "num": 279123,
+        "word": "XLB曝Doinb聊天截图",
+        "onboard_time": 1732318575,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278000,
+        "num": 278000,
+        "word": "120你只管踩油门剩下的交给我们",
+        "onboard_time": 1732310831,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 98539,
+        "num": 273099,
+        "word": "带母养老被拒男子称将起诉酒店",
+        "onboard_time": 1732325597,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271897,
+        "num": 271897,
+        "word": "质问不修宿舍学生是否复学当有准信",
+        "onboard_time": 1732319956,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 270923,
+        "num": 270923,
+        "word": "韩安冉要备孕三胎了",
+        "onboard_time": 1732316894,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 240994,
+        "num": 240994,
+        "word": "直播间159买的鹅绒服是什么绒",
+        "onboard_time": 1732284621,
+        "rank": 17,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 235216,
+        "num": 235216,
+        "word": "虞书欣晒与永夜星河主创合照",
+        "onboard_time": 1732319055,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214142,
+        "num": 214142,
+        "word": "捐赠日本侵华罪行相册的美国小伙声明",
+        "onboard_time": 1732326318,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883549,
+        "num": 210961,
+        "word": "网红丐中丐夫妻直播遇车祸遇难",
+        "onboard_time": 1732301891,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360789,
+        "num": 209867,
+        "word": "小伙天生会扭脖子意外发现身世",
+        "onboard_time": 1732318575,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325017,
+        "num": 205416,
+        "word": "以后男主名字禁止叫远舟",
+        "onboard_time": 1732318635,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197274,
+        "num": 197274,
+        "word": "鹿晗音乐节逆应援",
+        "onboard_time": 1732319296,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192635,
+        "num": 192635,
+        "word": "歼15成功起降辽宁舰12周年",
+        "onboard_time": 1732325179,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 170345,
+        "num": 170345,
+        "word": "女子晒100多个柿子全被鸟叼走了",
+        "onboard_time": 1732284981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165779,
+        "num": 165779,
+        "word": "男子心脏骤停4小时后奇迹发生了",
+        "onboard_time": 1732287680,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159378,
+        "num": 159378,
+        "word": "papi酱 杨子一个字都不会做到的",
+        "onboard_time": 1732326857,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158786,
+        "num": 158786,
+        "word": "麦琳杨子是两种不同的自恋",
+        "onboard_time": 1732326378,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126475,
+        "num": 156518,
+        "word": "孙颖莎被递麦唱APT",
+        "onboard_time": 1732320977,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155993,
+        "num": 155993,
+        "word": "王楚钦把莫雷高德打炸毛了",
+        "onboard_time": 1732320917,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151001,
+        "num": 151001,
+        "word": "男子花三千嫖娼后又偷走犯盗窃罪",
+        "onboard_time": 1732279039,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147331,
+        "num": 147331,
+        "word": "川航回应成都飞温哥华航班遇炸弹气旋",
+        "onboard_time": 1732325179,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145118,
+        "num": 145118,
+        "word": "虞书欣何与cp感",
+        "onboard_time": 1732293675,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141305,
+        "num": 141305,
+        "word": "律师解读旺仔被曝疑似喝出老鼠",
+        "onboard_time": 1732323738,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 131536,
+        "num": 131536,
+        "word": "妖刀给小胖道歉",
+        "onboard_time": 1732321998,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127460,
+        "num": 127460,
+        "word": "乌称俄新型中程导弹末端速度超11马赫",
+        "onboard_time": 1732288280,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125212,
+        "num": 125212,
+        "word": "邓超晒和妈妈自拍合照",
+        "onboard_time": 1732323197,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122138,
+        "num": 122138,
+        "word": "微信一次性查询所有单删好友",
+        "onboard_time": 1732261341,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119009,
+        "num": 119009,
+        "word": "原来模仿航母style已是12年前了",
+        "onboard_time": 1732323798,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 115995,
+        "num": 115995,
+        "word": "官方回应女子跪地自述抽脂险丧命",
+        "onboard_time": 1732325718,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 100104,
+        "word": "当地民政局回应浙大贫困生晒旅游照",
+        "onboard_time": 1732297993,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99152,
+        "num": 99152,
+        "word": "旺仔官方回应旺仔牛奶有死老鼠事件",
+        "onboard_time": 1732323858,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98486,
+        "num": 98486,
+        "word": "默克尔称特朗普对普京很着迷",
+        "onboard_time": 1732322117,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96704,
+        "num": 96704,
+        "word": "丁禹兮早期这么潮",
+        "onboard_time": 1732295355,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87027,
+        "num": 92491,
+        "word": "日本禽流感扑杀超120万只禽类",
+        "onboard_time": 1732325837,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92392,
+        "num": 92392,
+        "word": "胖东来得听劝人文关怀要继续",
+        "onboard_time": 1732308911,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88182,
+        "num": 88182,
+        "word": "安睡裤价格",
+        "onboard_time": 1732324758,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86347,
+        "num": 86347,
+        "word": "歌手2025",
+        "onboard_time": 1732281260,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81483,
+        "num": 81483,
+        "word": "中央气象台寒潮大风双预警齐发",
+        "onboard_time": 1732313651,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拉美之行的三个一#"
+    }
+  }
+}

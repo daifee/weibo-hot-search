@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732326276295,
+  "endTime": 1732327252197,
   "band_list": [
     {
       "raw_hot": 1421753,
@@ -51,20 +51,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 570441,
+      "num": 570441,
+      "word": "权志龙点赞苏新皓",
+      "onboard_time": 1732317974,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544006,
       "num": 544006,
       "word": "歌手2025",
       "onboard_time": 1732281260,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535714,
-      "num": 535714,
-      "word": "权志龙点赞苏新皓",
-      "onboard_time": 1732317974,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 502287,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 445329,
-      "num": 309219,
+      "num": 313935,
       "word": "卫生巾塌房用什么才安全",
       "onboard_time": 1732274720,
       "rank": 11,
@@ -136,6 +136,14 @@
       "word": "麦琳 删评论",
       "onboard_time": 1732268058,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377308,
+      "num": 377308,
+      "word": "再见爱人弹幕",
+      "onboard_time": 1732324277,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -203,20 +211,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 278000,
+      "num": 278000,
+      "word": "120你只管踩油门剩下的交给我们",
+      "onboard_time": 1732310831,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 269724,
       "num": 267137,
       "word": "0.01的svip",
       "onboard_time": 1732284502,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 268613,
-      "num": 268613,
-      "word": "120你只管踩油门剩下的交给我们",
-      "onboard_time": 1732310831,
-      "rank": 46,
-      "category": "正能量"
     },
     {
       "raw_hot": 267154,
@@ -241,14 +249,6 @@
       "onboard_time": 1732290618,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258102,
-      "num": 258102,
-      "word": "再见爱人弹幕",
-      "onboard_time": 1732324277,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 247421,
@@ -297,6 +297,14 @@
       "onboard_time": 1732286360,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214142,
+      "num": 214142,
+      "word": "捐赠日本侵华罪行相册的美国小伙声明",
+      "onboard_time": 1732326318,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198537,
@@ -371,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159378,
+      "num": 159378,
+      "word": "papi酱 杨子一个字都不会做到的",
+      "onboard_time": 1732326857,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158786,
+      "num": 158786,
+      "word": "麦琳杨子是两种不同的自恋",
+      "onboard_time": 1732326378,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157973,
       "num": 157973,
       "word": "王楚钦把莫雷高德打炸毛了",
@@ -403,6 +427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 147331,
+      "num": 243672,
+      "word": "川航回应成都飞温哥华航班遇炸弹气旋",
+      "onboard_time": 1732325179,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146736,
       "num": 146736,
       "word": "安徽妈妈向28689位网友退还善款",
@@ -433,6 +465,14 @@
       "onboard_time": 1732323197,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141305,
+      "num": 141305,
+      "word": "律师解读旺仔被曝疑似喝出老鼠",
+      "onboard_time": 1732323738,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 138581,
@@ -507,14 +547,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 128052,
-      "num": 128052,
-      "word": "律师解读旺仔被曝疑似喝出老鼠",
-      "onboard_time": 1732323738,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 127514,
       "num": 127514,
       "word": "把心情照顾好比什么都重要",
@@ -523,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126155,
-      "num": 243672,
-      "word": "川航回应成都飞温哥华航班遇炸弹气旋",
-      "onboard_time": 1732325179,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 126475,
+      "num": 156518,
+      "word": "孙颖莎被递麦唱APT",
+      "onboard_time": 1732320977,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 120028,
@@ -536,6 +568,14 @@
       "word": "胖东来员工称可以接受不要彩礼",
       "onboard_time": 1732285701,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115995,
+      "num": 115995,
+      "word": "官方回应女子跪地自述抽脂险丧命",
+      "onboard_time": 1732325718,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -563,6 +603,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 107621,
+      "num": 370572,
+      "word": "朝鲜军队提升至战斗准备状态",
+      "onboard_time": 1732325957,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 105512,
       "num": 105512,
       "word": "日本禽流感扑杀超120万只禽类",
@@ -577,14 +625,6 @@
       "onboard_time": 1732322117,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 101856,
-      "num": 101856,
-      "word": "孙颖莎被递麦唱APT",
-      "onboard_time": 1732320977,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 101778,
@@ -611,20 +651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98539,
+      "num": 273099,
+      "word": "带母养老被拒男子称将起诉酒店",
+      "onboard_time": 1732325597,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97611,
       "num": 97611,
       "word": "房东先生去世了",
       "onboard_time": 1732270940,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96704,
-      "num": 96704,
-      "word": "官方回应女子跪地自述抽脂险丧命",
-      "onboard_time": 1732325718,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96059,
@@ -771,14 +811,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 59290,
-      "num": 370572,
-      "word": "朝鲜军队提升至战斗准备状态",
-      "onboard_time": 1732325957,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 57524,
       "num": 148133,
       "word": "朱志鑫cha了Peaches",
@@ -865,14 +897,6 @@
       "onboard_time": 1732316653,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 40238,
-      "num": 268937,
-      "word": "带母养老被拒男子称将起诉酒店",
-      "onboard_time": 1732325597,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39871,
