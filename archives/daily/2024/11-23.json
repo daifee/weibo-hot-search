@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732327252197,
+  "endTime": 1732330567865,
   "band_list": [
     {
       "raw_hot": 1421753,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 922465,
+      "num": 922465,
+      "word": "捐赠日本侵华罪行相册的美国小伙声明",
+      "onboard_time": 1732326318,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 699606,
       "num": 884871,
       "word": "微信一次性查询所有单删好友",
@@ -35,12 +43,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 676075,
+      "num": 297452,
+      "word": "麦琳 先天带货圣体",
+      "onboard_time": 1732328057,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653640,
       "num": 267127,
       "word": "偷奖",
       "onboard_time": 1732288880,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 644347,
+      "num": 644347,
+      "word": "papi酱 杨子一个字都不会做到的",
+      "onboard_time": 1732326857,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 601719,
+      "num": 601719,
+      "word": "旺旺发布声明函",
+      "onboard_time": 1732327337,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 586724,
@@ -97,6 +129,14 @@
       "onboard_time": 1732274720,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 434864,
+      "num": 434864,
+      "word": "女游客跟团徒步时坠崖身亡",
+      "onboard_time": 1732329378,
+      "rank": 7,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 430998,
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 278000,
-      "num": 278000,
+      "num": 328761,
       "word": "120你只管踩油门剩下的交给我们",
       "onboard_time": 1732310831,
       "rank": 46,
@@ -259,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245168,
+      "num": 301030,
+      "word": "俄传奇飞行员降落太原继续扫货",
+      "onboard_time": 1732328478,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243473,
       "num": 243473,
       "word": "Doinb怒喷Letme",
@@ -273,6 +321,22 @@
       "onboard_time": 1732325179,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 229155,
+      "num": 176919,
+      "word": "律师解读旺仔被曝疑似喝出老鼠",
+      "onboard_time": 1732323738,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 227136,
+      "num": 227136,
+      "word": "王楚钦把莫雷高德打炸毛了",
+      "onboard_time": 1732320917,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 222010,
@@ -299,20 +363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214142,
-      "num": 214142,
-      "word": "捐赠日本侵华罪行相册的美国小伙声明",
-      "onboard_time": 1732326318,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198537,
       "num": 246998,
       "word": "鹿晗音乐节逆应援",
       "onboard_time": 1732319296,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194996,
+      "num": 194996,
+      "word": "微信或将迎史诗级瘦身",
+      "onboard_time": 1732328837,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 192855,
@@ -355,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181179,
+      "num": 181179,
+      "word": "税务师查成绩",
+      "onboard_time": 1732327937,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 176526,
+      "num": 176526,
+      "word": "旺仔承诺产品质量安全可靠",
+      "onboard_time": 1732328777,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 176184,
       "num": 176184,
       "word": "男子花三千嫖娼后又偷走犯盗窃罪",
@@ -379,28 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159378,
-      "num": 159378,
-      "word": "papi酱 杨子一个字都不会做到的",
-      "onboard_time": 1732326857,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158786,
       "num": 158786,
       "word": "麦琳杨子是两种不同的自恋",
       "onboard_time": 1732326378,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157973,
-      "num": 157973,
-      "word": "王楚钦把莫雷高德打炸毛了",
-      "onboard_time": 1732320917,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 156837,
@@ -417,6 +481,14 @@
       "onboard_time": 1732280721,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153427,
+      "num": 153427,
+      "word": "好东西 亲密关系低成本试错",
+      "onboard_time": 1732329078,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 152206,
@@ -467,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141305,
-      "num": 141305,
-      "word": "律师解读旺仔被曝疑似喝出老鼠",
-      "onboard_time": 1732323738,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 142828,
+      "num": 142828,
+      "word": "安睡裤价格",
+      "onboard_time": 1732324758,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 138581,
@@ -547,6 +619,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 128332,
+      "num": 370572,
+      "word": "朝鲜军队提升至战斗准备状态",
+      "onboard_time": 1732325957,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 127514,
       "num": 127514,
       "word": "把心情照顾好比什么都重要",
@@ -571,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119900,
+      "num": 119900,
+      "word": "旺旺三公子称明显有人在搞事",
+      "onboard_time": 1732330277,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 115995,
       "num": 115995,
       "word": "官方回应女子跪地自述抽脂险丧命",
@@ -587,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110614,
-      "num": 110614,
-      "word": "安睡裤价格",
-      "onboard_time": 1732324758,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 111445,
+      "num": 111445,
+      "word": "超早产重症男婴被救治爸爸发声",
+      "onboard_time": 1732327757,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110479,
@@ -601,14 +689,6 @@
       "onboard_time": 1732292597,
       "rank": 9,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 107621,
-      "num": 370572,
-      "word": "朝鲜军队提升至战斗准备状态",
-      "onboard_time": 1732325957,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 105512,
@@ -707,6 +787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 89509,
+      "num": 89509,
+      "word": "炸弹气旋袭击美国2人死亡",
+      "onboard_time": 1732330457,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88950,
       "num": 88950,
       "word": "又要见证56个民族55个能歌善舞了",
@@ -729,6 +817,22 @@
       "onboard_time": 1732281380,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86822,
+      "num": 86822,
+      "word": "官方回应新乡一游客徒步时坠崖身亡",
+      "onboard_time": 1732329138,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 86762,
+      "num": 86762,
+      "word": "镇魂街4",
+      "onboard_time": 1732330518,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 85528,
@@ -779,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68990,
+      "num": 120562,
+      "word": "XLB回应Doinb",
+      "onboard_time": 1732318575,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64256,
       "num": 64256,
       "word": "女子称父亲失踪18年被困黑窑厂",
@@ -817,6 +929,14 @@
       "onboard_time": 1732293317,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57383,
+      "num": 86729,
+      "word": "此次寒潮强度到底有多强",
+      "onboard_time": 1732328958,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56838,
@@ -921,6 +1041,14 @@
       "onboard_time": 1732278078,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 37118,
+      "num": 182860,
+      "word": "想喊宋佳妈妈",
+      "onboard_time": 1732329978,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 35408,
@@ -1057,6 +1185,14 @@
       "onboard_time": 1732301413,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 16070,
+      "num": 154381,
+      "word": "2024花滑大奖赛中国站",
+      "onboard_time": 1732330457,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 15693,

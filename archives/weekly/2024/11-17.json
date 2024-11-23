@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732327252197,
+  "endTime": 1732330567865,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -1411,6 +1411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 922465,
+      "num": 922465,
+      "word": "捐赠日本侵华罪行相册的美国小伙声明",
+      "onboard_time": 1732326318,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 922454,
       "num": 362949,
       "word": "怨女原来在慕瑶体内",
@@ -2499,6 +2507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 676075,
+      "num": 297452,
+      "word": "麦琳 先天带货圣体",
+      "onboard_time": 1732328057,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 675539,
       "num": 675539,
       "word": "刘诗诗提灯神女",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1732061418,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 644347,
+      "num": 644347,
+      "word": "papi酱 杨子一个字都不会做到的",
+      "onboard_time": 1732326857,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 641927,
@@ -2969,6 +2993,14 @@
       "onboard_time": 1731832998,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601719,
+      "num": 601719,
+      "word": "旺旺发布声明函",
+      "onboard_time": 1732327337,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 601466,
@@ -4265,6 +4297,14 @@
       "onboard_time": 1732061600,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 434864,
+      "num": 434864,
+      "word": "女游客跟团徒步时坠崖身亡",
+      "onboard_time": 1732329378,
+      "rank": 7,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 434821,
@@ -6380,7 +6420,7 @@
     },
     {
       "raw_hot": 278000,
-      "num": 278000,
+      "num": 328761,
       "word": "120你只管踩油门剩下的交给我们",
       "onboard_time": 1732310831,
       "rank": 46,
@@ -7187,6 +7227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245168,
+      "num": 301030,
+      "word": "俄传奇飞行员降落太原继续扫货",
+      "onboard_time": 1732328478,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244174,
       "num": 244174,
       "word": "格林威治",
@@ -7659,6 +7707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229155,
+      "num": 176919,
+      "word": "律师解读旺仔被曝疑似喝出老鼠",
+      "onboard_time": 1732323738,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 229118,
       "num": 229118,
       "word": "王艺迪vs张本美和",
@@ -7697,6 +7753,14 @@
       "onboard_time": 1732060398,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 227136,
+      "num": 227136,
+      "word": "王楚钦把莫雷高德打炸毛了",
+      "onboard_time": 1732320917,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 227130,
@@ -8209,14 +8273,6 @@
       "onboard_time": 1732087279,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214142,
-      "num": 214142,
-      "word": "捐赠日本侵华罪行相册的美国小伙声明",
-      "onboard_time": 1732326318,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214099,
@@ -9451,6 +9507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194996,
+      "num": 194996,
+      "word": "微信或将迎史诗级瘦身",
+      "onboard_time": 1732328837,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194911,
       "num": 432726,
       "word": "卫生巾不该缩水更不该糊弄用户",
@@ -10515,6 +10579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181179,
+      "num": 181179,
+      "word": "税务师查成绩",
+      "onboard_time": 1732327937,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181153,
       "num": 427783,
       "word": "下一战歌手总决赛",
@@ -10801,6 +10873,14 @@
       "onboard_time": 1732014380,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176526,
+      "num": 176526,
+      "word": "旺仔承诺产品质量安全可靠",
+      "onboard_time": 1732328777,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 176235,
@@ -11979,14 +12059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159378,
-      "num": 159378,
-      "word": "papi酱 杨子一个字都不会做到的",
-      "onboard_time": 1732326857,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159265,
       "num": 187401,
       "word": "今天星期五",
@@ -12073,14 +12145,6 @@
       "onboard_time": 1732264339,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157973,
-      "num": 157973,
-      "word": "王楚钦把莫雷高德打炸毛了",
-      "onboard_time": 1732320917,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 157956,
@@ -12393,6 +12457,14 @@
       "onboard_time": 1731917537,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 153427,
+      "num": 153427,
+      "word": "好东西 亲密关系低成本试错",
+      "onboard_time": 1732329078,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 153375,
@@ -13259,6 +13331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142828,
+      "num": 142828,
+      "word": "安睡裤价格",
+      "onboard_time": 1732324758,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142601,
       "num": 142601,
       "word": "特朗普提名达菲担任交通部长",
@@ -13361,14 +13441,6 @@
       "onboard_time": 1732009399,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141305,
-      "num": 141305,
-      "word": "律师解读旺仔被曝疑似喝出老鼠",
-      "onboard_time": 1732323738,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 141190,
@@ -14227,6 +14299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128332,
+      "num": 370572,
+      "word": "朝鲜军队提升至战斗准备状态",
+      "onboard_time": 1732325957,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 128289,
       "num": 128289,
       "word": "福冈总决赛中国男乒遭遇噩梦开局",
@@ -14795,6 +14875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119900,
+      "num": 119900,
+      "word": "旺旺三公子称明显有人在搞事",
+      "onboard_time": 1732330277,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 119856,
       "num": 230703,
       "word": "浮舟造型",
@@ -15195,6 +15283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111445,
+      "num": 111445,
+      "word": "超早产重症男婴被救治爸爸发声",
+      "onboard_time": 1732327757,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111298,
       "num": 303058,
       "word": "农耕探文明",
@@ -15233,14 +15329,6 @@
       "onboard_time": 1731931938,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110614,
-      "num": 110614,
-      "word": "安睡裤价格",
-      "onboard_time": 1732324758,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 110548,
@@ -15393,14 +15481,6 @@
       "onboard_time": 1731836179,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107621,
-      "num": 370572,
-      "word": "朝鲜军队提升至战斗准备状态",
-      "onboard_time": 1732325957,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 107508,
@@ -16235,6 +16315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89509,
+      "num": 89509,
+      "word": "炸弹气旋袭击美国2人死亡",
+      "onboard_time": 1732330457,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89452,
       "num": 372248,
       "word": "钱天一说陈幸同状态火热",
@@ -16377,6 +16465,22 @@
       "onboard_time": 1731821719,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86822,
+      "num": 86822,
+      "word": "官方回应新乡一游客徒步时坠崖身亡",
+      "onboard_time": 1732329138,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 86762,
+      "num": 86762,
+      "word": "镇魂街4",
+      "onboard_time": 1732330518,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 86625,
@@ -17307,6 +17411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68990,
+      "num": 120562,
+      "word": "XLB回应Doinb",
+      "onboard_time": 1732318575,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68861,
       "num": 348620,
       "word": "中企高管在菲遭撕票主犯美国落网",
@@ -18056,6 +18168,14 @@
       "word": "79元99元的猫猫绝育手术你敢信么",
       "onboard_time": 1732014380,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57383,
+      "num": 86729,
+      "word": "此次寒潮强度到底有多强",
+      "onboard_time": 1732328958,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -19857,6 +19977,14 @@
       "onboard_time": 1732000880,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37118,
+      "num": 182860,
+      "word": "想喊宋佳妈妈",
+      "onboard_time": 1732329978,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 37062,
@@ -22265,6 +22393,14 @@
       "onboard_time": 1732123754,
       "rank": 19,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 16070,
+      "num": 154381,
+      "word": "2024花滑大奖赛中国站",
+      "onboard_time": 1732330457,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 16027,
