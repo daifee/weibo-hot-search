@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732351332469,
+  "endTime": 1732353725215,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -1003,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1129551,
+      "num": 519936,
+      "word": "难听",
+      "onboard_time": 1732350738,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1122351,
       "num": 232395,
       "word": "金鸡 离谱",
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 1060270,
-      "num": 729125,
+      "num": 809947,
       "word": "管晨辰 吴柳芳",
       "onboard_time": 1732340897,
       "rank": 10,
@@ -1385,6 +1393,14 @@
       "onboard_time": 1732301891,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 966173,
+      "num": 629425,
+      "word": "人类对内衣的开发不足1%",
+      "onboard_time": 1732350139,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 963962,
@@ -1697,14 +1713,6 @@
       "onboard_time": 1732100120,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 850366,
-      "num": 629425,
-      "word": "人类对内衣的开发不足1%",
-      "onboard_time": 1732350139,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 849419,
@@ -2875,6 +2883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 647518,
+      "num": 647518,
+      "word": "田小娟rap歌词提徐穗珍",
+      "onboard_time": 1732350859,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 646614,
       "num": 646614,
       "word": "卫生巾偷工减料压缩的不是成本是口碑",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1731811459,
       "rank": 24,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 615286,
+      "num": 615286,
+      "word": "浙大通报家庭困难学生晒旅游照",
+      "onboard_time": 1732346779,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 614831,
@@ -3795,6 +3819,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 520167,
+      "num": 520167,
+      "word": "Supernova年歌",
+      "onboard_time": 1732352420,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518768,
       "num": 518768,
       "word": "男子欺负卖花母子事件反转当事人发声",
@@ -4001,14 +4033,6 @@
       "onboard_time": 1732174639,
       "rank": 48,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 498858,
-      "num": 498858,
-      "word": "浙大通报家庭困难学生晒旅游照",
-      "onboard_time": 1732346779,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 498651,
@@ -4289,6 +4313,14 @@
       "onboard_time": 1731765082,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 470066,
+      "num": 578334,
+      "word": "王艺迪vs陈幸同",
+      "onboard_time": 1732349659,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 469970,
@@ -4857,6 +4889,14 @@
       "onboard_time": 1731925219,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 412459,
+      "num": 512539,
+      "word": "丁禹兮进组南部档案",
+      "onboard_time": 1732350738,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 412363,
@@ -5547,14 +5587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356201,
-      "num": 356201,
-      "word": "难听",
-      "onboard_time": 1732350738,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 355803,
       "num": 268817,
       "word": "被家暴16次女子希望男方定罪故意杀人",
@@ -5585,6 +5617,14 @@
       "onboard_time": 1732108641,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355428,
+      "num": 511552,
+      "word": "SEVENTEEN年度专辑",
+      "onboard_time": 1732351519,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 354489,
@@ -6387,14 +6427,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 299869,
-      "num": 299869,
-      "word": "田小娟rap歌词提徐穗珍",
-      "onboard_time": 1732350859,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 299726,
       "num": 299726,
       "word": "美方首次公开承认仁爱礁特遣队",
@@ -6480,14 +6512,6 @@
       "word": "永夜星河NPC越狱",
       "onboard_time": 1731904821,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 294606,
-      "num": 294606,
-      "word": "丁禹兮进组南部档案",
-      "onboard_time": 1732350738,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -6747,6 +6771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 282830,
+      "num": 282830,
+      "word": "SEVENTEEN看BIGBANG舞台反应",
+      "onboard_time": 1732352959,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282556,
       "num": 447279,
       "word": "羽绒服吊牌标70%绒实际含量为0",
@@ -6849,6 +6881,14 @@
       "onboard_time": 1732310831,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 277886,
+      "num": 277886,
+      "word": "浙大受资助困难生晒国外旅游照",
+      "onboard_time": 1732350980,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 277830,
@@ -7067,6 +7107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270498,
+      "num": 270498,
+      "word": "虞书欣ins 他拍的",
+      "onboard_time": 1732347499,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269587,
       "num": 334944,
       "word": "谷歌聊天机器人竟回复称人类去死吧",
@@ -7281,6 +7329,14 @@
       "onboard_time": 1731893477,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 260856,
+      "num": 518822,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1732352600,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 260179,
@@ -7707,6 +7763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243773,
+      "num": 243773,
+      "word": "旺仔当事人发声",
+      "onboard_time": 1732352600,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 243460,
       "num": 320406,
       "word": "内蒙古奶皮子冰糖葫芦爆火",
@@ -7809,6 +7873,14 @@
       "onboard_time": 1732071857,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 240947,
+      "num": 628901,
+      "word": "国乒包揽总决赛女单冠亚军",
+      "onboard_time": 1732349539,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 240946,
@@ -7929,6 +8001,14 @@
       "onboard_time": 1731766885,
       "rank": 5,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 237152,
+      "num": 237152,
+      "word": "aespa成员MAMAsolo舞台",
+      "onboard_time": 1732353319,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 237098,
@@ -8113,14 +8193,6 @@
       "onboard_time": 1731944839,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230782,
-      "num": 230782,
-      "word": "虞书欣ins 他拍的",
-      "onboard_time": 1732347499,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 230662,
@@ -9267,6 +9339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205749,
+      "num": 205749,
+      "word": "麦琳李行亮十年老友发文",
+      "onboard_time": 1732353079,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205737,
       "num": 205737,
       "word": "李子柒木活字师傅一套作品卖22万元",
@@ -9523,6 +9603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202219,
+      "num": 202219,
+      "word": "男子打赏女主播400万平时啃馒头",
+      "onboard_time": 1732351399,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201866,
       "num": 201866,
       "word": "成毅跪地哭戏",
@@ -9673,6 +9761,14 @@
       "onboard_time": 1731987320,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199974,
+      "num": 199974,
+      "word": "凌妙妙慕声牵手奔向下个瞬间",
+      "onboard_time": 1732352838,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 199971,
@@ -10243,6 +10339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192770,
+      "num": 192770,
+      "word": "TFING音乐节首秀",
+      "onboard_time": 1732352959,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192570,
       "num": 300654,
       "word": "周杰伦参加孩子运动会",
@@ -10369,14 +10473,6 @@
       "onboard_time": 1731820999,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190548,
-      "num": 578334,
-      "word": "王艺迪vs陈幸同",
-      "onboard_time": 1732349659,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 190431,
@@ -10665,6 +10761,14 @@
       "onboard_time": 1732154600,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 188150,
+      "num": 487278,
+      "word": "教练夸樊振东打棒球有点天赋",
+      "onboard_time": 1732352600,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 188084,
@@ -12043,14 +12147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169620,
-      "num": 628901,
-      "word": "国乒包揽总决赛女单冠亚军",
-      "onboard_time": 1732349539,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169613,
       "num": 169613,
       "word": "张哥别怕你的天来了",
@@ -12369,14 +12465,6 @@
       "onboard_time": 1731986120,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165335,
-      "num": 246372,
-      "word": "浙大受资助困难生晒国外旅游照",
-      "onboard_time": 1732350980,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 165323,
@@ -15331,6 +15419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125916,
+      "num": 515375,
+      "word": "吴磊出门溜达溜达",
+      "onboard_time": 1732353260,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125831,
       "num": 125831,
       "word": "虞书欣海上钓鱼",
@@ -16427,6 +16523,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 107344,
+      "num": 518462,
+      "word": "陈幸同4比0王艺迪",
+      "onboard_time": 1732352300,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106810,
       "num": 106810,
       "word": "T1连夜清空Zeus信息",
@@ -16691,6 +16795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 101104,
+      "num": 517150,
+      "word": "王曼昱说这场比赛跌宕起伏",
+      "onboard_time": 1732353499,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100738,
       "num": 230718,
       "word": "周舒桐成长热血型女主",
@@ -16889,6 +17001,14 @@
       "onboard_time": 1731803778,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97191,
+      "num": 509444,
+      "word": "乌克兰计划要求美提供战斧导弹",
+      "onboard_time": 1732353680,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97096,
@@ -17459,6 +17579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87198,
+      "num": 514742,
+      "word": "陈幸同晋级决赛",
+      "onboard_time": 1732352240,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87020,
       "num": 219965,
       "word": "小雪低温补贴",
@@ -18019,6 +18147,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 76626,
+      "num": 519163,
+      "word": "王曼昱顶住了",
+      "onboard_time": 1732353499,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76429,
       "num": 265936,
       "word": "刘诗诗风从海上来",
@@ -18096,6 +18232,14 @@
       "word": "痛经假怎么休困扰女职工",
       "onboard_time": 1731902780,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75541,
+      "num": 547191,
+      "word": "湖南发现金矿估值达6000亿元",
+      "onboard_time": 1732353019,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -18673,6 +18817,14 @@
       "onboard_time": 1731885555,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 63560,
+      "num": 514952,
+      "word": "越来越多年轻人患胆结石",
+      "onboard_time": 1732352539,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63493,
@@ -19507,6 +19659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54176,
+      "num": 514080,
+      "word": "王曼昱陈幸同会师决赛",
+      "onboard_time": 1732352360,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53944,
       "num": 84777,
       "word": "珠海航展",
@@ -19659,6 +19819,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 52336,
+      "num": 510321,
+      "word": "张子墨红发挑染造型",
+      "onboard_time": 1732353019,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 52334,
       "num": 52334,
       "word": "卫生巾质量",
@@ -19721,6 +19889,14 @@
       "onboard_time": 1732030159,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51951,
+      "num": 1025249,
+      "word": "何以乌镇",
+      "onboard_time": 1732351640,
+      "rank": 2,
+      "category": "互联网"
     },
     {
       "raw_hot": 51928,
@@ -22259,6 +22435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 27848,
+      "num": 516263,
+      "word": "李现周末这样充电",
+      "onboard_time": 1732351998,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27765,
       "num": 219626,
       "word": "日媒提醒日本队谨防国足野蛮动作",
@@ -24387,6 +24571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8563,
+      "num": 517777,
+      "word": "这球打到了我的心巴上",
+      "onboard_time": 1732352420,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8551,
+      "num": 172968,
+      "word": "尊界S800官宣发布时间",
+      "onboard_time": 1732353680,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 8482,
       "num": 19902,
       "word": "年内1184款国产游戏获批",
@@ -24905,6 +25105,9 @@
     },
     {
       "word": "#习主席妙喻引领开放合作#"
+    },
+    {
+      "word": "#让新技术新产业新业态赋能可持续发展#"
     }
   ]
 }

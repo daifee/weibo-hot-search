@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732351332469,
+  "endTime": 1732353725215,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1129551,
+      "num": 519936,
+      "word": "难听",
+      "onboard_time": 1732350738,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1117571,
       "num": 1117571,
       "word": "丁禹兮微博改名字",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1060270,
-      "num": 729125,
+      "num": 809947,
       "word": "管晨辰 吴柳芳",
       "onboard_time": 1732340897,
       "rank": 10,
@@ -105,6 +113,14 @@
       "onboard_time": 1732301891,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 966173,
+      "num": 629425,
+      "word": "人类对内衣的开发不足1%",
+      "onboard_time": 1732350139,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 922465,
@@ -129,14 +145,6 @@
       "onboard_time": 1732342580,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 850366,
-      "num": 629425,
-      "word": "人类对内衣的开发不足1%",
-      "onboard_time": 1732350139,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 841065,
@@ -227,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 647518,
+      "num": 647518,
+      "word": "田小娟rap歌词提徐穗珍",
+      "onboard_time": 1732350859,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 644347,
       "num": 644347,
       "word": "papi酱 杨子一个字都不会做到的",
@@ -256,6 +272,14 @@
       "word": "7家医院被国家医保局通报",
       "onboard_time": 1732331177,
       "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 615286,
+      "num": 615286,
+      "word": "浙大通报家庭困难学生晒旅游照",
+      "onboard_time": 1732346779,
+      "rank": 23,
       "category": "辟谣/通报"
     },
     {
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520167,
+      "num": 520167,
+      "word": "Supernova年歌",
+      "onboard_time": 1732352420,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 507981,
       "num": 507981,
       "word": "句句不提内娱 句句在说内娱",
@@ -353,14 +385,6 @@
       "onboard_time": 1732318515,
       "rank": 40,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 498858,
-      "num": 498858,
-      "word": "浙大通报家庭困难学生晒旅游照",
-      "onboard_time": 1732346779,
-      "rank": 23,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 491097,
@@ -385,6 +409,14 @@
       "onboard_time": 1732333697,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470066,
+      "num": 578334,
+      "word": "王艺迪vs陈幸同",
+      "onboard_time": 1732349659,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 465348,
@@ -459,6 +491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 412459,
+      "num": 512539,
+      "word": "丁禹兮进组南部档案",
+      "onboard_time": 1732350738,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405010,
       "num": 239575,
       "word": "小伙天生会扭脖子意外发现身世",
@@ -531,20 +571,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 356201,
-      "num": 356201,
-      "word": "难听",
-      "onboard_time": 1732350738,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 355567,
       "num": 331459,
       "word": "李庚希魏大勋的吻戏",
       "onboard_time": 1732335498,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355428,
+      "num": 511552,
+      "word": "SEVENTEEN年度专辑",
+      "onboard_time": 1732351519,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 353896,
@@ -619,28 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299869,
-      "num": 299869,
-      "word": "田小娟rap歌词提徐穗珍",
-      "onboard_time": 1732350859,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 295504,
       "num": 295504,
       "word": "苏新皓在演我追星",
       "onboard_time": 1732341678,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294606,
-      "num": 294606,
-      "word": "丁禹兮进组南部档案",
-      "onboard_time": 1732350738,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 294436,
@@ -667,6 +691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 282830,
+      "num": 282830,
+      "word": "SEVENTEEN看BIGBANG舞台反应",
+      "onboard_time": 1732352959,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279878,
       "num": 279878,
       "word": "XLB曝Doinb聊天截图",
@@ -681,6 +713,14 @@
       "onboard_time": 1732310831,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 277886,
+      "num": 277886,
+      "word": "浙大受资助困难生晒国外旅游照",
+      "onboard_time": 1732350980,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 274569,
@@ -715,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270498,
+      "num": 270498,
+      "word": "虞书欣ins 他拍的",
+      "onboard_time": 1732347499,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269724,
       "num": 267137,
       "word": "0.01的svip",
@@ -747,12 +795,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260856,
+      "num": 518822,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1732352600,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252561,
       "num": 252561,
       "word": "微信或将迎史诗级瘦身",
       "onboard_time": 1732328837,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 247630,
+      "num": 247630,
+      "word": "好东西",
+      "onboard_time": 1732275859,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 247421,
@@ -763,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246127,
-      "num": 246127,
-      "word": "好东西",
-      "onboard_time": 1732275859,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 243773,
+      "num": 243773,
+      "word": "旺仔当事人发声",
+      "onboard_time": 1732352600,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 243473,
@@ -779,12 +843,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 240947,
+      "num": 628901,
+      "word": "国乒包揽总决赛女单冠亚军",
+      "onboard_time": 1732349539,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240518,
       "num": 240518,
       "word": "侃爷再被曝性侵丑闻",
       "onboard_time": 1732342638,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237152,
+      "num": 237152,
+      "word": "aespa成员MAMAsolo舞台",
+      "onboard_time": 1732353319,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 235701,
@@ -809,14 +889,6 @@
       "onboard_time": 1732325179,
       "rank": 23,
       "category": "军事"
-    },
-    {
-      "raw_hot": 230782,
-      "num": 230782,
-      "word": "虞书欣ins 他拍的",
-      "onboard_time": 1732347499,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 227136,
@@ -891,12 +963,28 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 205749,
+      "num": 205749,
+      "word": "麦琳李行亮十年老友发文",
+      "onboard_time": 1732353079,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202755,
       "num": 202755,
       "word": "SEVENTEEN获超级舞台奖",
       "onboard_time": 1732346598,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202219,
+      "num": 202219,
+      "word": "男子打赏女主播400万平时啃馒头",
+      "onboard_time": 1732351399,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201600,
@@ -921,6 +1009,14 @@
       "onboard_time": 1732330457,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 199974,
+      "num": 199974,
+      "word": "凌妙妙慕声牵手奔向下个瞬间",
+      "onboard_time": 1732352838,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 198575,
@@ -979,20 +1075,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192770,
+      "num": 192770,
+      "word": "TFING音乐节首秀",
+      "onboard_time": 1732352959,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192158,
       "num": 192158,
       "word": "我是刑警请了大半个叔圈",
       "onboard_time": 1732339517,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190548,
-      "num": 578334,
-      "word": "王艺迪vs陈幸同",
-      "onboard_time": 1732349659,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 188938,
@@ -1003,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188150,
+      "num": 487278,
+      "word": "教练夸樊振东打棒球有点天赋",
+      "onboard_time": 1732352600,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187820,
       "num": 187820,
       "word": "律师称现有证据下王宝强不构成欺诈",
       "onboard_time": 1732314312,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187272,
+      "num": 510733,
+      "word": "WTT",
+      "onboard_time": 1732352420,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 186897,
@@ -1115,14 +1227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169620,
-      "num": 628901,
-      "word": "国乒包揽总决赛女单冠亚军",
-      "onboard_time": 1732349539,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169613,
       "num": 169613,
       "word": "张哥别怕你的天来了",
@@ -1137,14 +1241,6 @@
       "onboard_time": 1732349598,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165335,
-      "num": 246372,
-      "word": "浙大受资助困难生晒国外旅游照",
-      "onboard_time": 1732350980,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 165068,
@@ -1523,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125916,
+      "num": 515375,
+      "word": "吴磊出门溜达溜达",
+      "onboard_time": 1732353260,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125200,
       "num": 125200,
       "word": "王曼昱赢得首局",
@@ -1635,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107344,
+      "num": 518462,
+      "word": "陈幸同4比0王艺迪",
+      "onboard_time": 1732352300,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105512,
       "num": 105512,
       "word": "日本禽流感扑杀超120万只禽类",
@@ -1707,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101104,
+      "num": 517150,
+      "word": "王曼昱说这场比赛跌宕起伏",
+      "onboard_time": 1732353499,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100727,
       "num": 100727,
       "word": "胖东来得听劝人文关怀要继续",
@@ -1745,6 +1865,14 @@
       "onboard_time": 1732270940,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97191,
+      "num": 509444,
+      "word": "乌克兰计划要求美提供战斧导弹",
+      "onboard_time": 1732353680,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96889,
@@ -1851,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87198,
+      "num": 514742,
+      "word": "陈幸同晋级决赛",
+      "onboard_time": 1732352240,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85528,
       "num": 85528,
       "word": "为什么不是李佩玲",
@@ -1897,6 +2033,22 @@
       "onboard_time": 1732291459,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76626,
+      "num": 519163,
+      "word": "王曼昱顶住了",
+      "onboard_time": 1732353499,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75541,
+      "num": 547191,
+      "word": "湖南发现金矿估值达6000亿元",
+      "onboard_time": 1732353019,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74628,
@@ -1960,6 +2112,14 @@
       "word": "女子称父亲失踪18年被困黑窑厂",
       "onboard_time": 1732303391,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63560,
+      "num": 514952,
+      "word": "越来越多年轻人患胆结石",
+      "onboard_time": 1732352539,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2067,6 +2227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54176,
+      "num": 514080,
+      "word": "王曼昱陈幸同会师决赛",
+      "onboard_time": 1732352360,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53567,
       "num": 53567,
       "word": "徐璐正骨跟放鞭炮一样",
@@ -2097,6 +2265,22 @@
       "onboard_time": 1732317554,
       "rank": 44,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 52336,
+      "num": 510321,
+      "word": "张子墨红发挑染造型",
+      "onboard_time": 1732353019,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51951,
+      "num": 1025249,
+      "word": "何以乌镇",
+      "onboard_time": 1732351640,
+      "rank": 2,
+      "category": "互联网"
     },
     {
       "raw_hot": 50481,
@@ -2288,6 +2472,14 @@
       "word": "张峻豪全白套装墨镜look",
       "onboard_time": 1732295235,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27848,
+      "num": 516263,
+      "word": "李现周末这样充电",
+      "onboard_time": 1732351998,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2515,6 +2707,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8563,
+      "num": 517777,
+      "word": "这球打到了我的心巴上",
+      "onboard_time": 1732352420,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8551,
+      "num": 172968,
+      "word": "尊界S800官宣发布时间",
+      "onboard_time": 1732353680,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 8482,
       "num": 19902,
       "word": "年内1184款国产游戏获批",
@@ -2591,6 +2799,9 @@
     },
     {
       "word": "#习主席妙喻引领开放合作#"
+    },
+    {
+      "word": "#让新技术新产业新业态赋能可持续发展#"
     }
   ]
 }

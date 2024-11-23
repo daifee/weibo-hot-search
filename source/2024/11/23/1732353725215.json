@@ -1,0 +1,410 @@
+{
+  "runTime": 1732353725215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1561221,
+        "num": 1561221,
+        "word": "BIGBANG合体",
+        "onboard_time": 1732348459,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1058267,
+        "num": 1058267,
+        "word": "浙大贫困生被取消受资助资格",
+        "onboard_time": 1732346779,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51951,
+        "num": 1025249,
+        "word": "何以乌镇",
+        "onboard_time": 1732351640,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1376579,
+        "num": 1019079,
+        "word": "麦琳要用吃剩的熏鸡骨头煲汤",
+        "onboard_time": 1732349718,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1008698,
+        "num": 1008698,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 809947,
+        "num": 809947,
+        "word": "管晨辰 吴柳芳",
+        "onboard_time": 1732340897,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 647518,
+        "num": 647518,
+        "word": "田小娟rap歌词提徐穗珍",
+        "onboard_time": 1732350859,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 615286,
+        "num": 615286,
+        "word": "浙大通报家庭困难学生晒旅游照",
+        "onboard_time": 1732346779,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 75541,
+        "num": 547191,
+        "word": "湖南发现金矿估值达6000亿元",
+        "onboard_time": 1732353019,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520167,
+        "num": 520167,
+        "word": "Supernova年歌",
+        "onboard_time": 1732352420,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1129551,
+        "num": 519936,
+        "word": "难听",
+        "onboard_time": 1732350738,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76626,
+        "num": 519163,
+        "word": "王曼昱顶住了",
+        "onboard_time": 1732353499,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260856,
+        "num": 518822,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1732352600,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107344,
+        "num": 518462,
+        "word": "陈幸同4比0王艺迪",
+        "onboard_time": 1732352300,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8563,
+        "num": 517777,
+        "word": "这球打到了我的心巴上",
+        "onboard_time": 1732352420,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101104,
+        "num": 517150,
+        "word": "王曼昱说这场比赛跌宕起伏",
+        "onboard_time": 1732353499,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42976,
+        "num": 516891,
+        "word": "尊界S800外观官宣",
+        "onboard_time": 1732345818,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27848,
+        "num": 516263,
+        "word": "李现周末这样充电",
+        "onboard_time": 1732351998,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125916,
+        "num": 515375,
+        "word": "吴磊出门溜达溜达",
+        "onboard_time": 1732353260,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63560,
+        "num": 514952,
+        "word": "越来越多年轻人患胆结石",
+        "onboard_time": 1732352539,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87198,
+        "num": 514742,
+        "word": "陈幸同晋级决赛",
+        "onboard_time": 1732352240,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54176,
+        "num": 514080,
+        "word": "王曼昱陈幸同会师决赛",
+        "onboard_time": 1732352360,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 966173,
+        "num": 513194,
+        "word": "人类对内衣的开发不足1%",
+        "onboard_time": 1732350139,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520785,
+        "num": 513098,
+        "word": "丁禹兮微博改名字",
+        "onboard_time": 1732339998,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412459,
+        "num": 512539,
+        "word": "丁禹兮进组南部档案",
+        "onboard_time": 1732350738,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355428,
+        "num": 511552,
+        "word": "SEVENTEEN年度专辑",
+        "onboard_time": 1732351519,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299403,
+        "num": 511497,
+        "word": "权志龙 无题",
+        "onboard_time": 1732347679,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187272,
+        "num": 510733,
+        "word": "WTT",
+        "onboard_time": 1732352420,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52336,
+        "num": 510321,
+        "word": "张子墨红发挑染造型",
+        "onboard_time": 1732353019,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97191,
+        "num": 509444,
+        "word": "乌克兰计划要求美提供战斧导弹",
+        "onboard_time": 1732353680,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411860,
+        "num": 508848,
+        "word": "aespa横扫",
+        "onboard_time": 1732346478,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 508828,
+        "num": 508828,
+        "word": "旺仔当事人拒绝一赔十方案",
+        "onboard_time": 1732346838,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188150,
+        "num": 487278,
+        "word": "教练夸樊振东打棒球有点天赋",
+        "onboard_time": 1732352600,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470066,
+        "num": 470066,
+        "word": "王艺迪vs陈幸同",
+        "onboard_time": 1732349659,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394117,
+        "num": 394117,
+        "word": "王宝强凌晨带女友回别墅",
+        "onboard_time": 1732342338,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346276,
+        "num": 346276,
+        "word": "一个985研究生成了小学打杂老师",
+        "onboard_time": 1732345338,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282830,
+        "num": 282830,
+        "word": "SEVENTEEN看BIGBANG舞台反应",
+        "onboard_time": 1732352959,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277886,
+        "num": 277886,
+        "word": "浙大受资助困难生晒国外旅游照",
+        "onboard_time": 1732350980,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 270498,
+        "num": 270498,
+        "word": "虞书欣ins 他拍的",
+        "onboard_time": 1732347499,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247630,
+        "num": 247630,
+        "word": "好东西",
+        "onboard_time": 1732339998,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243773,
+        "num": 243773,
+        "word": "旺仔当事人发声",
+        "onboard_time": 1732352600,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 240947,
+        "num": 240947,
+        "word": "国乒包揽总决赛女单冠亚军",
+        "onboard_time": 1732349539,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237152,
+        "num": 237152,
+        "word": "aespa成员MAMAsolo舞台",
+        "onboard_time": 1732353319,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205749,
+        "num": 205749,
+        "word": "麦琳李行亮十年老友发文",
+        "onboard_time": 1732353079,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202219,
+        "num": 202219,
+        "word": "男子打赏女主播400万平时啃馒头",
+        "onboard_time": 1732351399,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199974,
+        "num": 199974,
+        "word": "凌妙妙慕声牵手奔向下个瞬间",
+        "onboard_time": 1732352838,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192770,
+        "num": 192770,
+        "word": "TFING音乐节首秀",
+        "onboard_time": 1732352959,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183823,
+        "num": 183823,
+        "word": "赵露思又发49999微博红包",
+        "onboard_time": 1732342760,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177153,
+        "num": 177153,
+        "word": "MAMA Day2",
+        "onboard_time": 1732345758,
+        "rank": 48,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 8551,
+        "num": 172968,
+        "word": "尊界S800官宣发布时间",
+        "onboard_time": 1732353680,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#让新技术新产业新业态赋能可持续发展#"
+    }
+  }
+}
