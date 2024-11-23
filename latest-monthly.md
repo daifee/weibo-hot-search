@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/23 23:22:10
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/23 23:36:50
 </p>
 </blockquote>
 <p>
@@ -5991,6 +5991,12 @@ MAMA（热度：759750）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%9B%9D%E5%85%89%E7%89%B9%E8%AE%AD%E5%AD%A6%E6%A0%A1%E9%BB%91%E6%9A%97%E5%86%85%E5%B9%95%23" target="weibo">
+学霸曝光特训学校黑暗内幕（热度：754905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB32%E5%B2%81%E7%94%9F%E6%97%A5%E5%8F%91%E6%96%87%23" target="weibo">
 杨紫32岁生日发文（热度：754688）
 </a>
@@ -6005,12 +6011,6 @@ MAMA（热度：759750）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A8%87%E6%BC%94%E7%9A%84%E6%80%A8%E5%A5%B3%23" target="weibo">
 阿娇演的怨女（热度：754013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%8B%A5%E7%91%84%E8%A2%AB%E6%9B%9D%E6%82%A3%E7%99%8C%E5%90%8E%E5%9B%9E%E5%BA%94%23" target="weibo">
-徐若瑄被曝患癌后回应（热度：753271）
 </a>
 </li>
 

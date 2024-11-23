@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732375330551,
+  "endTime": 1732376210926,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 754905,
+      "num": 754905,
+      "word": "学霸曝光特训学校黑暗内幕",
+      "onboard_time": 1732371141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 746938,
       "num": 746938,
       "word": "王曼昱说按马琳战术赢下决胜局",
@@ -400,14 +408,6 @@
       "word": "独生女婚后全款给父母买房难要回",
       "onboard_time": 1732369941,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 661544,
-      "num": 661544,
-      "word": "学霸曝光特训学校黑暗内幕",
-      "onboard_time": 1732371141,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535524,
+      "num": 465473,
+      "word": "偶遇黄圣依杨子飞新加坡",
+      "onboard_time": 1732372763,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534757,
       "num": 470596,
       "word": "丁禹兮超话热度爆了",
@@ -657,14 +665,6 @@
       "onboard_time": 1732349659,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 465473,
-      "num": 465473,
-      "word": "偶遇黄圣依杨子飞新加坡",
-      "onboard_time": 1732372763,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 465348,
@@ -1403,6 +1403,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 231640,
+      "num": 231640,
+      "word": "范丞丞是跑男特别季的花字",
+      "onboard_time": 1732374560,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227136,
       "num": 227136,
       "word": "王楚钦把莫雷高德打炸毛了",
@@ -1891,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186605,
+      "num": 186605,
+      "word": "官方回应潮州大量商户关门传闻",
+      "onboard_time": 1732373062,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 186438,
       "num": 186438,
       "word": "麦琳",
@@ -1915,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184925,
-      "num": 184925,
-      "word": "官方回应潮州大量商户关门传闻",
-      "onboard_time": 1732373062,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 183806,
       "num": 183806,
       "word": "白夜2编剧",
@@ -1937,6 +1945,22 @@
       "onboard_time": 1732367000,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182768,
+      "num": 182768,
+      "word": "金马影后钟雪莹",
+      "onboard_time": 1732375881,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 181894,
+      "num": 181894,
+      "word": "许光汉吴君如借位接吻",
+      "onboard_time": 1732374860,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 181179,
@@ -2163,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160201,
-      "num": 160201,
-      "word": "范丞丞是跑男特别季的花字",
-      "onboard_time": 1732374560,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160179,
       "num": 351280,
       "word": "祝绪丹BGM闯进文旅赛道了",
@@ -2379,6 +2395,14 @@
       "category": "民生新闻,正能量"
     },
     {
+      "raw_hot": 146730,
+      "num": 146730,
+      "word": "时代少年团演唱会无人机",
+      "onboard_time": 1732375793,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146565,
       "num": 162620,
       "word": "章昊MAMA白马王子",
@@ -2489,14 +2513,6 @@
       "onboard_time": 1732356681,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138840,
-      "num": 138840,
-      "word": "许光汉吴君如借位接吻",
-      "onboard_time": 1732374860,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 138833,
@@ -2795,12 +2811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119920,
+      "num": 233128,
+      "word": "王鹤棣给朋友送新婚祝福",
+      "onboard_time": 1732374621,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119874,
       "num": 119874,
       "word": "镇魂街4",
       "onboard_time": 1732330518,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 117564,
+      "num": 117564,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1732374141,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117028,
@@ -2817,14 +2849,6 @@
       "onboard_time": 1732363459,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116038,
-      "num": 116038,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1732374141,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115995,
@@ -3019,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100437,
+      "num": 232068,
+      "word": "张本智和说不太在意排名",
+      "onboard_time": 1732375401,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100198,
       "num": 481444,
       "word": "中学回应强制学生剪寸头",
@@ -3123,14 +3155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91544,
-      "num": 211693,
-      "word": "王鹤棣给朋友送新婚祝福",
-      "onboard_time": 1732374621,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89553,
       "num": 75732,
       "word": "殷世航 东南vip",
@@ -3168,6 +3192,14 @@
       "word": "又要见证56个民族55个能歌善舞了",
       "onboard_time": 1732304171,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88302,
+      "num": 232846,
+      "word": "中国打击电诈虽远必擒",
+      "onboard_time": 1732375401,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -3233,6 +3265,14 @@
       "onboard_time": 1732366702,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82600,
+      "num": 231917,
+      "word": "感冒都好了为什么还一直咳嗽",
+      "onboard_time": 1732376121,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81570,
@@ -3659,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40814,
+      "num": 411493,
+      "word": "离婚以后还能和前任做朋友吗",
+      "onboard_time": 1732374261,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40322,
       "num": 150663,
       "word": "周鸿祎称企业家搞流量不是不务正业",
@@ -3769,14 +3817,6 @@
       "onboard_time": 1732353799,
       "rank": 27,
       "category": "军事"
-    },
-    {
-      "raw_hot": 32723,
-      "num": 411493,
-      "word": "离婚以后还能和前任做朋友吗",
-      "onboard_time": 1732374261,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 31638,
