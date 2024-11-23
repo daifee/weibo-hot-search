@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732354620495,
+  "endTime": 1732357410052,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 2258741,
-      "num": 575766,
+      "num": 615814,
       "word": "难听",
       "onboard_time": 1731381979,
       "rank": 10,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1731979578,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2087001,
+      "num": 2087001,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1732352600,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 2064336,
@@ -7931,6 +7939,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 746938,
+      "num": 746938,
+      "word": "王曼昱说按马琳战术赢下决胜局",
+      "onboard_time": 1732355359,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 745938,
       "num": 745938,
       "word": "钟睒睒不建议长期喝绿瓶水",
@@ -8537,14 +8553,6 @@
       "onboard_time": 1730891121,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 714918,
-      "num": 714918,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1732352600,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 711022,
@@ -9185,6 +9193,14 @@
       "onboard_time": 1730700920,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 674853,
+      "num": 579312,
+      "word": "旺仔当事人发声",
+      "onboard_time": 1732352600,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 674575,
@@ -10203,6 +10219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632625,
+      "num": 632625,
+      "word": "BIGBANG出现时台下表情",
+      "onboard_time": 1732354998,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 631850,
       "num": 296026,
       "word": "丈夫出轨同学后保证再犯赔10万",
@@ -10233,6 +10257,14 @@
       "onboard_time": 1731337639,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630081,
+      "num": 630081,
+      "word": "林诗栋3比4张本智和",
+      "onboard_time": 1732356441,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 629961,
@@ -11137,6 +11169,14 @@
       "onboard_time": 1730574496,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 591808,
+      "num": 591808,
+      "word": "杨子口型",
+      "onboard_time": 1732356800,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 591460,
@@ -15323,6 +15363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445061,
+      "num": 614611,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1732356980,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444989,
       "num": 444989,
       "word": "每月要女儿五千保姆费给二婚前妻",
@@ -16324,7 +16372,7 @@
     },
     {
       "raw_hot": 416337,
-      "num": 362218,
+      "num": 363838,
       "word": "MAMA获奖名单",
       "onboard_time": 1732272918,
       "rank": 37,
@@ -17721,6 +17769,14 @@
       "onboard_time": 1730624538,
       "rank": 35,
       "category": "军事"
+    },
+    {
+      "raw_hot": 384199,
+      "num": 323929,
+      "word": "崔胜澈哭了",
+      "onboard_time": 1732355421,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 384126,
@@ -19259,14 +19315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345738,
-      "num": 447861,
-      "word": "旺仔当事人发声",
-      "onboard_time": 1732352600,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 345569,
       "num": 345569,
       "word": "嘘国王在冬眠",
@@ -20361,6 +20409,14 @@
       "onboard_time": 1731479120,
       "rank": 32,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 323908,
+      "num": 323908,
+      "word": "太阳摔倒",
+      "onboard_time": 1732356383,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 323893,
@@ -21691,6 +21747,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 299084,
+      "num": 299084,
+      "word": "一念关山",
+      "onboard_time": 1732355599,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298758,
       "num": 298758,
       "word": "张大大晒与赵露思华晨宇合照",
@@ -21801,6 +21865,14 @@
       "onboard_time": 1732007120,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296772,
+      "num": 296772,
+      "word": "Uzi开团无状态",
+      "onboard_time": 1732356383,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 296581,
@@ -22097,6 +22169,14 @@
       "onboard_time": 1730559801,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291838,
+      "num": 594486,
+      "word": "林诗栋无缘决赛",
+      "onboard_time": 1732356441,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 291815,
@@ -26499,6 +26579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236340,
+      "num": 236340,
+      "word": "王楚钦vs达科",
+      "onboard_time": 1732356980,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236224,
       "num": 236224,
       "word": "越来越多的美国富人计划离开美国",
@@ -29627,6 +29715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210374,
+      "num": 324189,
+      "word": "浙大回应馒头冻两天滋生黄曲霉毒素",
+      "onboard_time": 1732354760,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 210178,
       "num": 210178,
       "word": "韩国乳业公司将为牛奶瓶申请国家遗产",
@@ -32107,6 +32203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199261,
+      "num": 199261,
+      "word": "时代少年团五周年演唱会",
+      "onboard_time": 1732350499,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199249,
       "num": 199249,
       "word": "张杰官宣马来西亚演唱会",
@@ -32859,6 +32963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196184,
+      "num": 395366,
+      "word": "imp聊Doinb情绪失控",
+      "onboard_time": 1732356562,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196154,
       "num": 304784,
       "word": "王安宇 栋哲要幸福",
@@ -33155,14 +33267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195095,
-      "num": 195095,
-      "word": "时代少年团五周年演唱会",
-      "onboard_time": 1732350499,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194915,
       "num": 236021,
       "word": "邵子恒一公舞台",
@@ -33321,6 +33425,14 @@
       "onboard_time": 1731460940,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194283,
+      "num": 194283,
+      "word": "37周孕妇摔倒开颅剖宫一起做",
+      "onboard_time": 1732353140,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194282,
@@ -34321,6 +34433,14 @@
       "onboard_time": 1731820999,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190607,
+      "num": 190607,
+      "word": "樱桃琥珀杀青",
+      "onboard_time": 1732355119,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 190555,
@@ -42329,6 +42449,14 @@
       "onboard_time": 1732264640,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157549,
+      "num": 203306,
+      "word": "国乒双打全军覆没",
+      "onboard_time": 1732356562,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157535,
@@ -57707,6 +57835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84713,
+      "num": 573518,
+      "word": "于东来连发11条动态",
+      "onboard_time": 1732357160,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84621,
       "num": 929261,
       "word": "官方辟谣19岁孤儿被骗至郑州",
@@ -60467,6 +60603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66821,
+      "num": 591494,
+      "word": "蔡徐坤小烟熏",
+      "onboard_time": 1732355780,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66615,
       "num": 159653,
       "word": "大梦归离活人剧粉整活",
@@ -61193,6 +61337,22 @@
       "onboard_time": 1732019061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62723,
+      "num": 218027,
+      "word": "张小斐自制的面包好酥脆",
+      "onboard_time": 1732356681,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62712,
+      "num": 699032,
+      "word": "尊界S800外观官宣",
+      "onboard_time": 1732345818,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 62680,
@@ -62475,6 +62635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56946,
+      "num": 1025249,
+      "word": "何以乌镇",
+      "onboard_time": 1732351640,
+      "rank": 2,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 56944,
       "num": 283048,
       "word": "救护车司机被举报勾结医生贩卖婴儿",
@@ -62795,14 +62963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55512,
-      "num": 1025249,
-      "word": "何以乌镇",
-      "onboard_time": 1732351640,
-      "rank": 2,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 55506,
       "num": 279927,
       "word": "郑钦文6比3拿下首盘",
@@ -63121,14 +63281,6 @@
       "onboard_time": 1732169239,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54379,
-      "num": 699032,
-      "word": "尊界S800外观官宣",
-      "onboard_time": 1732345818,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 54366,
@@ -64073,6 +64225,14 @@
       "onboard_time": 1732183040,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50586,
+      "num": 580649,
+      "word": "周巡比关宏峰还怕天黑",
+      "onboard_time": 1732355599,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 50495,
@@ -69315,6 +69475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 32310,
+      "num": 584251,
+      "word": "银紫配是有多配",
+      "onboard_time": 1732354760,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32274,
       "num": 384390,
       "word": "律师称毒杀宠物狗可判有期徒刑",
@@ -70297,6 +70465,14 @@
       "onboard_time": 1731658039,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29917,
+      "num": 220208,
+      "word": "这球被海狮开了天眼吧",
+      "onboard_time": 1732356020,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 29903,
@@ -71995,6 +72171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25411,
+      "num": 602580,
+      "word": "八角笼中到底是如何分成的",
+      "onboard_time": 1732356681,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25403,
       "num": 26854,
       "word": "虞书欣角色宇宙",
@@ -72185,6 +72369,14 @@
       "onboard_time": 1732045213,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24804,
+      "num": 324157,
+      "word": "你对百万豪车尊界S800有何期待",
+      "onboard_time": 1732354760,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 24756,
@@ -76851,6 +77043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12009,
+      "num": 630565,
+      "word": "受资助的困难学生是否能享受高消费",
+      "onboard_time": 1732357280,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11995,
       "num": 21478,
       "word": "AI主题国风说唱自带画面感",
@@ -77353,6 +77553,14 @@
       "onboard_time": 1731667038,
       "rank": 14,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 10445,
+      "num": 218540,
+      "word": "白夜破晓 火锅修罗场",
+      "onboard_time": 1732356980,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 10416,
