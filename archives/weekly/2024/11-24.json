@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732397825983,
+  "endTime": 1732400451185,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -491,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51899,
+      "num": 51899,
+      "word": "做一次CT收了三次的钱",
+      "onboard_time": 1732395612,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46770,
       "num": 46770,
       "word": "马嘉祺白西装飘纱",
@@ -529,14 +537,6 @@
       "onboard_time": 1732379836,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35417,
-      "num": 35417,
-      "word": "做一次CT收了三次的钱",
-      "onboard_time": 1732395612,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 34319,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27142,
+      "num": 27142,
+      "word": "今年约31万人报考导游资格证",
+      "onboard_time": 1732398549,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27108,
       "num": 27726,
       "word": "好东西 声音转场",
@@ -603,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24713,
+      "num": 24713,
+      "word": "特朗普或动用军事力量驱逐非法移民",
+      "onboard_time": 1732394831,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23911,
       "num": 23911,
       "word": "时代少年团彩排影像",
@@ -619,12 +635,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 22527,
-      "num": 22527,
-      "word": "特朗普或动用军事力量驱逐非法移民",
-      "onboard_time": 1732394831,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 22885,
+      "num": 22885,
+      "word": "雨雪降温大风一起来了",
+      "onboard_time": 1732396031,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21483,
@@ -659,6 +675,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19421,
+      "num": 19843,
+      "word": "滨州一小区烟花爆炸致1死",
+      "onboard_time": 1732395131,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 18165,
+      "num": 25787,
+      "word": "陶喆 我的花店生意太过火爆",
+      "onboard_time": 1732393751,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 17201,
       "num": 22177,
       "word": "刘耀文Sugar舞台好甜",
@@ -667,20 +699,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16007,
-      "num": 19843,
-      "word": "滨州一小区烟花爆炸致1死",
-      "onboard_time": 1732395131,
-      "rank": 37,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 14718,
-      "num": 19840,
-      "word": "雨雪降温大风一起来了",
-      "onboard_time": 1732396031,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 16251,
+      "num": 19839,
+      "word": "榛树中程高超音速导弹",
+      "onboard_time": 1732396452,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14447,
@@ -691,12 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14025,
-      "num": 20582,
-      "word": "陶喆 我的花店生意太过火爆",
-      "onboard_time": 1732393751,
+      "raw_hot": 13631,
+      "num": 35503,
+      "word": "潮州回应网传商铺因逃避检查关门",
+      "onboard_time": 1732393031,
       "rank": 45,
-      "category": "演出"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13530,
@@ -705,14 +729,6 @@
       "onboard_time": 1732365741,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12748,
-      "num": 19839,
-      "word": "榛树中程高超音速导弹",
-      "onboard_time": 1732396452,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12032,
@@ -731,11 +747,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10302,
-      "num": 35503,
-      "word": "潮州回应网传商铺因逃避检查关门",
-      "onboard_time": 1732393031,
-      "rank": 45,
+      "raw_hot": 8498,
+      "num": 50239,
+      "word": "资助工作动态管理不可松懈",
+      "onboard_time": 1732399751,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
