@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732343420984,
+  "endTime": 1732344241401,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1211,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1961613,
+      "num": 1961613,
+      "word": "微信将14天后自动清理原图原视频",
+      "onboard_time": 1732340718,
+      "rank": 0,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1958571,
       "num": 887293,
       "word": "女子分手20年前男友突然出现在房本",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1731414203,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1804174,
-      "num": 1804174,
-      "word": "微信将14天后自动清理原图原视频",
-      "onboard_time": 1732340718,
-      "rank": 0,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1796358,
@@ -6579,6 +6579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 841065,
+      "num": 296022,
+      "word": "王宝强凌晨带女友回别墅",
+      "onboard_time": 1732342338,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840092,
       "num": 516047,
       "word": "宗馥莉挨桌敬酒大经销商",
@@ -10763,14 +10771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 602010,
-      "num": 296022,
-      "word": "王宝强凌晨带女友回别墅",
-      "onboard_time": 1732342338,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 601719,
       "num": 601719,
       "word": "旺旺发布声明函",
@@ -13185,6 +13185,14 @@
       "onboard_time": 1730387059,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511809,
+      "num": 406041,
+      "word": "赵露思又发49999微博红包",
+      "onboard_time": 1732342760,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 511760,
@@ -19731,6 +19739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333298,
+      "num": 333298,
+      "word": "旺仔牛奶当事人称异物不像老鼠",
+      "onboard_time": 1732342580,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 333277,
       "num": 333277,
       "word": "乌克兰朝鲜",
@@ -23225,6 +23241,14 @@
       "onboard_time": 1730457739,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272824,
+      "num": 272824,
+      "word": "19岁男子拒服兵役处理通报",
+      "onboard_time": 1732341918,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 272762,
@@ -32179,14 +32203,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197485,
-      "num": 213895,
-      "word": "赵露思又发49999微博红包",
-      "onboard_time": 1732342760,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197483,
       "num": 212989,
       "word": "珠海航展顶流文创已卖空",
@@ -32649,6 +32665,14 @@
       "onboard_time": 1731144378,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 195623,
+      "num": 195623,
+      "word": "文韬倒计时两分钟绝杀",
+      "onboard_time": 1732343418,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 195568,
@@ -36515,14 +36539,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 179651,
-      "num": 179651,
-      "word": "19岁男子拒服兵役处理通报",
-      "onboard_time": 1732341918,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 179622,
       "num": 179622,
       "word": "郑钦文为没控制好情绪致歉",
@@ -38195,6 +38211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172194,
+      "num": 195804,
+      "word": "侃爷再被曝性侵丑闻",
+      "onboard_time": 1732342638,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172189,
       "num": 172189,
       "word": "如鸢",
@@ -39865,14 +39889,6 @@
       "onboard_time": 1730961439,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165066,
-      "num": 165066,
-      "word": "侃爷再被曝性侵丑闻",
-      "onboard_time": 1732342638,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 165026,
@@ -41929,6 +41945,14 @@
       "onboard_time": 1731803657,
       "rank": 25,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 157449,
+      "num": 166966,
+      "word": "BLACKPINK成员应援Rose新歌",
+      "onboard_time": 1732343598,
+      "rank": 29,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 157439,
@@ -44073,14 +44097,6 @@
       "onboard_time": 1731288917,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 149505,
-      "num": 296300,
-      "word": "旺仔牛奶当事人称异物不像老鼠",
-      "onboard_time": 1732342580,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 149469,
@@ -50691,6 +50707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122039,
+      "num": 122039,
+      "word": "你的朋友圈可见范围是多久",
+      "onboard_time": 1732342938,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122022,
       "num": 122022,
       "word": "赵丽颖和表妹好开心",
@@ -52563,6 +52587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113146,
+      "num": 113146,
+      "word": "独行侠战胜掘金",
+      "onboard_time": 1732343358,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113092,
       "num": 113092,
       "word": "迪丽热巴高定裤装look",
@@ -53953,6 +53985,14 @@
       "onboard_time": 1731399679,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105595,
+      "num": 105595,
+      "word": "烧伤妈妈丈夫暂时停更",
+      "onboard_time": 1732343478,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105512,
@@ -55489,14 +55529,6 @@
       "onboard_time": 1730543839,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96756,
-      "num": 96756,
-      "word": "独行侠战胜掘金",
-      "onboard_time": 1732343358,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 96721,
