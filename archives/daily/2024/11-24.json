@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732382379003,
+  "endTime": 1732383408306,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415896,
+      "num": 415896,
+      "word": "吴柳芳涨粉",
+      "onboard_time": 1732379117,
+      "rank": 24,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 399244,
       "num": 276844,
       "word": "鞠婧祎身上有两只蝴蝶",
@@ -81,14 +89,6 @@
       "onboard_time": 1732364780,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 380325,
-      "num": 380325,
-      "word": "吴柳芳涨粉",
-      "onboard_time": 1732379117,
-      "rank": 24,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 375263,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110718,
+      "num": 221557,
+      "word": "你的身份证快到期了吗",
+      "onboard_time": 1732379479,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109500,
       "num": 109500,
       "word": "睡眠不足身体会出现什么变化",
@@ -321,14 +329,6 @@
       "onboard_time": 1732358000,
       "rank": 40,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 105135,
-      "num": 221557,
-      "word": "你的身份证快到期了吗",
-      "onboard_time": 1732379479,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100944,
@@ -411,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73007,
+      "num": 79170,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732379238,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66751,
+      "num": 111215,
+      "word": "苏新皓演我被偶像翻牌",
+      "onboard_time": 1732382295,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63629,
       "num": 84196,
       "word": "抗癌网红湘妹子去世儿子发声",
@@ -427,12 +443,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 58504,
-      "num": 71869,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732379238,
+      "raw_hot": 46770,
+      "num": 46770,
+      "word": "马嘉祺白西装飘纱",
+      "onboard_time": 1732367901,
       "rank": 45,
-      "category": "剧集"
+      "category": "演出"
     },
     {
       "raw_hot": 44580,
@@ -443,18 +459,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44044,
+      "num": 44044,
+      "word": "林一发长文告别失笑",
+      "onboard_time": 1732371982,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40870,
+      "num": 76675,
+      "word": "身份证陆续期满换证攻略",
+      "onboard_time": 1732383374,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36174,
       "num": 187658,
       "word": "畅所余言",
       "onboard_time": 1732379836,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25753,
-      "num": 111215,
-      "word": "苏新皓演我被偶像翻牌",
-      "onboard_time": 1732382295,
       "rank": 19,
       "category": "艺人"
     },
@@ -467,6 +491,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14162,
+      "num": 417051,
+      "word": "海南舰首次对公众开放",
+      "onboard_time": 1732366520,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 12032,
+      "num": 99594,
+      "word": "山东泰山半场0比2上海海港",
+      "onboard_time": 1732381995,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11682,
       "num": 128892,
       "word": "TES冰尘租借至MD",
@@ -475,11 +515,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 9524,
-      "num": 99594,
-      "word": "山东泰山半场0比2上海海港",
-      "onboard_time": 1732381995,
-      "rank": 23,
+      "raw_hot": 8236,
+      "num": 82747,
+      "word": "王曼昱说会从始至终的专注",
+      "onboard_time": 1732383194,
+      "rank": 24,
       "category": "体育"
     }
   ],

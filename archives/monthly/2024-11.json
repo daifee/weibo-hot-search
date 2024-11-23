@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732382379003,
+  "endTime": 1732383408306,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -16627,6 +16627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 415896,
+      "num": 415896,
+      "word": "吴柳芳涨粉",
+      "onboard_time": 1732379117,
+      "rank": 24,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 415887,
       "num": 415887,
       "word": "华为Mate70或将首发全新红枫摄像头",
@@ -18177,14 +18185,6 @@
       "onboard_time": 1730471060,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380325,
-      "num": 380325,
-      "word": "吴柳芳涨粉",
-      "onboard_time": 1732379117,
-      "rank": 24,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 380220,
@@ -54795,6 +54795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110718,
+      "num": 221557,
+      "word": "你的身份证快到期了吗",
+      "onboard_time": 1732379479,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110710,
       "num": 165334,
       "word": "米卡见到刘亦菲会害羞",
@@ -55793,14 +55801,6 @@
       "onboard_time": 1730700379,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105135,
-      "num": 221557,
-      "word": "你的身份证快到期了吗",
-      "onboard_time": 1732379479,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105009,
@@ -60723,6 +60723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73007,
+      "num": 79170,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732379238,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72907,
       "num": 654406,
       "word": "节假日不等于休息日",
@@ -61752,6 +61760,14 @@
       "word": "蔡徐坤小烟熏",
       "onboard_time": 1732355780,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66751,
+      "num": 111215,
+      "word": "苏新皓演我被偶像翻牌",
+      "onboard_time": 1732382295,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -63497,14 +63513,6 @@
       "onboard_time": 1732113441,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58504,
-      "num": 71869,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732379238,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 58500,
@@ -67784,6 +67792,14 @@
       "word": "中国在美留学生连续第四年减少",
       "onboard_time": 1732077261,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40870,
+      "num": 76675,
+      "word": "身份证陆续期满换证攻略",
+      "onboard_time": 1732383374,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -73283,14 +73299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25753,
-      "num": 111215,
-      "word": "苏新皓演我被偶像翻牌",
-      "onboard_time": 1732382295,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25751,
       "num": 25751,
       "word": "巴林进球越位",
@@ -78275,6 +78283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12032,
+      "num": 99594,
+      "word": "山东泰山半场0比2上海海港",
+      "onboard_time": 1732381995,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12014,
       "num": 230432,
       "word": "进博会上欧莱雅董事长E人社交局",
@@ -79019,14 +79035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9524,
-      "num": 99594,
-      "word": "山东泰山半场0比2上海海港",
-      "onboard_time": 1732381995,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 9514,
       "num": 544986,
       "word": "2024进博会黑科技盘点",
@@ -79193,6 +79201,14 @@
       "onboard_time": 1731407964,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 8236,
+      "num": 82747,
+      "word": "王曼昱说会从始至终的专注",
+      "onboard_time": 1732383194,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 8230,
