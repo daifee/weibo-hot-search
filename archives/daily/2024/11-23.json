@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732371660219,
+  "endTime": 1732372722765,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -179,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 885756,
-      "num": 885756,
+      "raw_hot": 907965,
+      "num": 907965,
       "word": "医生称用这3种卫生巾易引病上身",
       "onboard_time": 1732364780,
       "rank": 30,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 855734,
+      "num": 264802,
+      "word": "金马奖将追赠郑佩佩终身成就奖",
+      "onboard_time": 1732372101,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 841065,
       "num": 549268,
       "word": "王宝强凌晨带女友回别墅",
@@ -251,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 787631,
+      "num": 787631,
+      "word": "鹿晗 野玫瑰",
+      "onboard_time": 1732368560,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 785255,
       "num": 785255,
       "word": "菲副总统自爆如被害就找马科斯算账",
@@ -268,19 +284,19 @@
     },
     {
       "raw_hot": 779771,
-      "num": 497537,
+      "num": 517076,
       "word": "林更新 本来挺开心的你给整下头了",
       "onboard_time": 1732363400,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 771553,
-      "num": 771553,
-      "word": "鹿晗 野玫瑰",
-      "onboard_time": 1732368560,
-      "rank": 21,
-      "category": "演出"
+      "raw_hot": 769179,
+      "num": 344649,
+      "word": "马斯克个人财富暴增超6000亿元",
+      "onboard_time": 1732369040,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 761451,
@@ -289,14 +305,6 @@
       "onboard_time": 1732340118,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 754266,
-      "num": 310812,
-      "word": "马斯克个人财富暴增超6000亿元",
-      "onboard_time": 1732369040,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 746938,
@@ -321,6 +329,14 @@
       "onboard_time": 1732357160,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725823,
+      "num": 521584,
+      "word": "黄圣依 死脑快想啊",
+      "onboard_time": 1732370601,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 706716,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 671103,
-      "num": 309260,
+      "num": 343923,
       "word": "独生女婚后全款给父母买房难要回",
       "onboard_time": 1732369941,
       "rank": 21,
@@ -827,6 +843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359615,
+      "num": 359615,
+      "word": "保时捷 货拉拉",
+      "onboard_time": 1732372161,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357214,
       "num": 357214,
       "word": "乌称俄新型中程导弹末端速度超11马赫",
@@ -867,6 +891,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 338489,
+      "num": 338489,
+      "word": "杨超越去了许嵩演唱会",
+      "onboard_time": 1732370781,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 335907,
       "num": 335907,
       "word": "陈奕恒穿时代少年团应援服",
@@ -889,14 +921,6 @@
       "onboard_time": 1732345217,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312567,
-      "num": 312567,
-      "word": "黄圣依 死脑快想啊",
-      "onboard_time": 1732370601,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 311023,
@@ -985,6 +1009,14 @@
       "onboard_time": 1732291700,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 293655,
+      "num": 293655,
+      "word": "时代少年团复刻出道战舞台",
+      "onboard_time": 1732369340,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 291838,
@@ -1139,6 +1171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266498,
+      "num": 345041,
+      "word": "丁禹兮超话热度爆了",
+      "onboard_time": 1732372101,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266405,
+      "num": 266405,
+      "word": "TFING道歉声明",
+      "onboard_time": 1732367421,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 264464,
       "num": 264464,
       "word": "时代少年团五周年灯光秀",
@@ -1251,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240088,
-      "num": 240088,
-      "word": "时代少年团复刻出道战舞台",
-      "onboard_time": 1732369340,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 237152,
       "num": 237152,
       "word": "aespa成员MAMAsolo舞台",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1732336697,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 234991,
-      "num": 234991,
-      "word": "TFING道歉声明",
-      "onboard_time": 1732367421,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 234448,
@@ -1476,7 +1508,7 @@
     },
     {
       "raw_hot": 207185,
-      "num": 207185,
+      "num": 308375,
       "word": "王楚钦与张本智和11次交手8次获胜",
       "onboard_time": 1732370601,
       "rank": 36,
@@ -1579,6 +1611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200467,
+      "num": 200467,
+      "word": "被张杰cheehoo洗脑了",
+      "onboard_time": 1732372341,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199974,
       "num": 199974,
       "word": "凌妙妙慕声牵手奔向下个瞬间",
@@ -1619,20 +1659,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197791,
+      "num": 197791,
+      "word": "双城之战",
+      "onboard_time": 1732371862,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197657,
       "num": 197657,
       "word": "SEVENTEEN获MAMA最佳男团",
       "onboard_time": 1732351099,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197369,
-      "num": 197369,
-      "word": "杨超越去了许嵩演唱会",
-      "onboard_time": 1732370781,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 196811,
@@ -1739,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188964,
+      "num": 188964,
+      "word": "严浩翔dancebreak",
+      "onboard_time": 1732372042,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188938,
       "num": 188938,
       "word": "李耕耘状态",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1732314312,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187281,
+      "num": 187281,
+      "word": "林一发长文告别失笑",
+      "onboard_time": 1732371982,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 187272,
@@ -1827,6 +1883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180605,
+      "num": 180605,
+      "word": "感冒后咳嗽是身体在大扫除",
+      "onboard_time": 1732371621,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180546,
       "num": 180546,
       "word": "田柾国年度最佳男艺人",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1732341139,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175874,
+      "num": 175874,
+      "word": "鹿晗说马上要开四巡了",
+      "onboard_time": 1732372582,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 175495,
@@ -2139,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153705,
+      "num": 153705,
+      "word": "王霏霏演唱会",
+      "onboard_time": 1732372461,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152760,
       "num": 152760,
       "word": "王楚钦晋级决赛",
@@ -2185,6 +2265,14 @@
       "onboard_time": 1732360759,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147993,
+      "num": 530162,
+      "word": "学霸曝光特训学校黑暗内幕",
+      "onboard_time": 1732371141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147848,
@@ -2313,14 +2401,6 @@
       "onboard_time": 1732324758,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 142215,
-      "num": 142215,
-      "word": "感冒后咳嗽是身体在大扫除",
-      "onboard_time": 1732371621,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 141897,
@@ -3083,14 +3163,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 79042,
-      "num": 494240,
-      "word": "学霸曝光特训学校黑暗内幕",
-      "onboard_time": 1732371141,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78472,
       "num": 78472,
       "word": "鹿晗音乐节彩排路透",
@@ -3523,6 +3595,14 @@
       "category": "民生新闻,舆论监督"
     },
     {
+      "raw_hot": 38989,
+      "num": 411579,
+      "word": "为你好不是老师体罚学生的借口",
+      "onboard_time": 1732371501,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38900,
       "num": 42454,
       "word": "内娱艺人实体杂志销量TOP30",
@@ -3609,14 +3689,6 @@
       "onboard_time": 1732335078,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30524,
-      "num": 411579,
-      "word": "为你好不是老师体罚学生的借口",
-      "onboard_time": 1732371501,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29917,
@@ -4008,6 +4080,9 @@
     },
     {
       "word": "#跨越山海的友谊团结合作开拓之旅#"
+    },
+    {
+      "word": "#习近平主席拉美之行#"
     }
   ]
 }
