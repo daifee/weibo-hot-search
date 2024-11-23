@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732346589391,
+  "endTime": 1732347327205,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4436,7 +4436,7 @@
     },
     {
       "raw_hot": 1060270,
-      "num": 308672,
+      "num": 427589,
       "word": "管晨辰 吴柳芳",
       "onboard_time": 1732340897,
       "rank": 10,
@@ -6235,6 +6235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 868169,
+      "num": 868169,
+      "word": "旺仔牛奶当事人称异物不像老鼠",
+      "onboard_time": 1732342580,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 865857,
       "num": 865857,
       "word": "落跑新娘凌妙妙",
@@ -6361,14 +6369,6 @@
       "onboard_time": 1731473601,
       "rank": 6,
       "category": "军事"
-    },
-    {
-      "raw_hot": 855797,
-      "num": 855797,
-      "word": "旺仔牛奶当事人称异物不像老鼠",
-      "onboard_time": 1732342580,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 854620,
@@ -6588,7 +6588,7 @@
     },
     {
       "raw_hot": 841065,
-      "num": 296174,
+      "num": 424381,
       "word": "王宝强凌晨带女友回别墅",
       "onboard_time": 1732342338,
       "rank": 11,
@@ -11420,7 +11420,7 @@
     },
     {
       "raw_hot": 573497,
-      "num": 327541,
+      "num": 493395,
       "word": "杨子麦琳两极反转",
       "onboard_time": 1732346118,
       "rank": 7,
@@ -12260,7 +12260,7 @@
     },
     {
       "raw_hot": 540834,
-      "num": 406041,
+      "num": 485356,
       "word": "赵露思又发49999微博红包",
       "onboard_time": 1732342760,
       "rank": 22,
@@ -13257,6 +13257,14 @@
       "onboard_time": 1731141560,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510919,
+      "num": 510919,
+      "word": "一个985研究生成了小学打杂老师",
+      "onboard_time": 1732345338,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510499,
@@ -14588,7 +14596,7 @@
     },
     {
       "raw_hot": 465348,
-      "num": 289889,
+      "num": 411187,
       "word": "虞书欣ins多发丁禹兮专拍",
       "onboard_time": 1732344319,
       "rank": 12,
@@ -15603,6 +15611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 433381,
+      "num": 433381,
+      "word": "aespa横扫",
+      "onboard_time": 1732346478,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433362,
       "num": 433362,
       "word": "虞书欣何与同框",
@@ -15841,6 +15857,14 @@
       "onboard_time": 1730605160,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 427550,
+      "num": 427550,
+      "word": "MAMA Day2",
+      "onboard_time": 1732345758,
+      "rank": 14,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 427372,
@@ -18009,14 +18033,6 @@
       "onboard_time": 1730981421,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374041,
-      "num": 276945,
-      "word": "MAMA Day2",
-      "onboard_time": 1732345758,
-      "rank": 14,
-      "category": "音乐,艺人"
     },
     {
       "raw_hot": 373838,
@@ -20443,6 +20459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319535,
+      "num": 319535,
+      "word": "苏新皓1088个啊回应权志龙",
+      "onboard_time": 1732345217,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319512,
       "num": 298734,
       "word": "江西一男子涉嫌破坏军婚罪被逮捕",
@@ -20929,6 +20953,14 @@
       "onboard_time": 1731034039,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310000,
+      "num": 310000,
+      "word": "烧伤妈妈丈夫暂时停更",
+      "onboard_time": 1732343478,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309691,
@@ -24995,6 +25027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 250907,
+      "num": 250907,
+      "word": "浙大贫困生被取消受资助资格",
+      "onboard_time": 1732346779,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 250856,
       "num": 341967,
       "word": "记者采访被袭5名相关人员被拘",
@@ -25563,12 +25603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244873,
-      "num": 244873,
-      "word": "苏新皓1088个啊回应权志龙",
-      "onboard_time": 1732345217,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 244990,
+      "num": 244990,
+      "word": "浙大通报家庭困难学生晒旅游照",
+      "onboard_time": 1732346779,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 244863,
@@ -25913,6 +25953,14 @@
       "onboard_time": 1730801480,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 240518,
+      "num": 240518,
+      "word": "侃爷再被曝性侵丑闻",
+      "onboard_time": 1732342638,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 240492,
@@ -26595,14 +26643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232986,
-      "num": 310692,
-      "word": "一个985研究生成了小学打杂老师",
-      "onboard_time": 1732345338,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232955,
       "num": 232955,
       "word": "这届美国大选有多少戏",
@@ -26921,6 +26961,14 @@
       "onboard_time": 1732280960,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230295,
+      "num": 230295,
+      "word": "每月要女儿五千保姆费给二婚前妻",
+      "onboard_time": 1732345399,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230292,
@@ -27289,14 +27337,6 @@
       "onboard_time": 1731462200,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225962,
-      "num": 225962,
-      "word": "烧伤妈妈丈夫暂时停更",
-      "onboard_time": 1732343478,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225938,
@@ -29243,14 +29283,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 211076,
-      "num": 211076,
-      "word": "侃爷再被曝性侵丑闻",
-      "onboard_time": 1732342638,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211061,
       "num": 211061,
       "word": "永夜星河系统包宠的",
@@ -30953,6 +30985,14 @@
       "onboard_time": 1732027161,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202755,
+      "num": 202755,
+      "word": "SEVENTEEN获超级舞台奖",
+      "onboard_time": 1732346598,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 202752,
@@ -34955,6 +34995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186897,
+      "num": 186897,
+      "word": "潘粤明尹姝贻招待柬埔寨小公主",
+      "onboard_time": 1732344618,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186875,
       "num": 435520,
       "word": "律师谈宝妈吃瑞士卷被疑剧本",
@@ -37979,14 +38027,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 173270,
-      "num": 173270,
-      "word": "潘粤明尹姝贻招待柬埔寨小公主",
-      "onboard_time": 1732344618,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173241,
       "num": 226651,
       "word": "尔滨又有新节目了",
@@ -38857,6 +38897,14 @@
       "onboard_time": 1731465859,
       "rank": 18,
       "category": "军事"
+    },
+    {
+      "raw_hot": 169613,
+      "num": 169613,
+      "word": "张哥别怕你的天来了",
+      "onboard_time": 1732346419,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 169583,
@@ -41275,6 +41323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159843,
+      "num": 242462,
+      "word": "中国女子电竞代表队首次为国出征",
+      "onboard_time": 1732347018,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159784,
       "num": 159784,
       "word": "钟睒睒说会一直等张一鸣道歉",
@@ -42289,6 +42345,14 @@
       "onboard_time": 1731760823,
       "rank": 49,
       "category": "演出,电竞"
+    },
+    {
+      "raw_hot": 156225,
+      "num": 287812,
+      "word": "王曼昱vs斯佐科斯",
+      "onboard_time": 1732345818,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 156163,
@@ -47619,14 +47683,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 135546,
-      "num": 227903,
-      "word": "每月要女儿五千保姆费给二婚前妻",
-      "onboard_time": 1732345399,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135538,
       "num": 135538,
       "word": "永夜星河 捡手机",
@@ -49065,6 +49121,14 @@
       "onboard_time": 1730942360,
       "rank": 49,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 129127,
+      "num": 427599,
+      "word": "旺仔当事人拒绝一赔十方案",
+      "onboard_time": 1732346838,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 129072,
@@ -52163,14 +52227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115657,
-      "num": 115657,
-      "word": "aespa横扫",
-      "onboard_time": 1732346478,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "涵艺说LPL报价Zeus",
@@ -52843,20 +52899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112242,
+      "num": 112242,
+      "word": "滨州一小区疑似发生爆炸",
+      "onboard_time": 1732347199,
+      "rank": 45,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 112239,
       "num": 112239,
       "word": "狗狗 终于可以交班了",
       "onboard_time": 1731842538,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112226,
-      "num": 112226,
-      "word": "张哥别怕你的天来了",
-      "onboard_time": 1732346419,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 112200,
@@ -53465,6 +53521,14 @@
       "onboard_time": 1731140959,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109093,
+      "num": 109093,
+      "word": "金泰梨MAMA开场",
+      "onboard_time": 1732346900,
+      "rank": 46,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 109087,
@@ -55627,6 +55691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96889,
+      "num": 251274,
+      "word": "蔡徐坤ins",
+      "onboard_time": 1732347079,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96834,
       "num": 96834,
       "word": "黄圣依 我不想再做婚姻里的懒人",
@@ -57169,14 +57241,6 @@
       "onboard_time": 1731471981,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 84967,
-      "num": 287812,
-      "word": "王曼昱vs斯佐科斯",
-      "onboard_time": 1732345818,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 84959,
@@ -59403,6 +59467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69879,
+      "num": 271277,
+      "word": "张杰献唱海洋奇缘2主题曲勇气之歌",
+      "onboard_time": 1732346419,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69787,
       "num": 397192,
       "word": "檀健次说猎罪图鉴2快了",
@@ -60649,14 +60721,6 @@
       "onboard_time": 1731251300,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62893,
-      "num": 235135,
-      "word": "张杰献唱海洋奇缘2主题曲勇气之歌",
-      "onboard_time": 1732346419,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 62862,
@@ -64836,7 +64900,7 @@
     },
     {
       "raw_hot": 44762,
-      "num": 156501,
+      "num": 251056,
       "word": "尊界S800外观官宣",
       "onboard_time": 1732345818,
       "rank": 33,
