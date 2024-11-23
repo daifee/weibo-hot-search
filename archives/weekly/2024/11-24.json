@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732386570648,
+  "endTime": 1732387346952,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -371,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90676,
+      "num": 90676,
+      "word": "这一次寒潮有两大特点",
+      "onboard_time": 1732384393,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 89195,
       "num": 89195,
       "word": "勒布伦兄弟男双夺冠",
@@ -401,14 +409,6 @@
       "onboard_time": 1732367421,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79726,
-      "num": 79726,
-      "word": "这一次寒潮有两大特点",
-      "onboard_time": 1732384393,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 77697,
@@ -483,8 +483,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36282,
-      "num": 36282,
+      "raw_hot": 40018,
+      "num": 67795,
+      "word": "宋慧乔43岁生日照",
+      "onboard_time": 1732385893,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38666,
+      "num": 38666,
       "word": "好东西票房",
       "onboard_time": 1732383913,
       "rank": 41,
@@ -507,6 +515,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29034,
+      "num": 29034,
+      "word": "南昌文旅为周深歌迷设特别打卡点",
+      "onboard_time": 1732386732,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 27108,
+      "num": 27726,
+      "word": "好东西 声音转场",
+      "onboard_time": 1732386972,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 24889,
+      "num": 27708,
+      "word": "宋亚轩鎏金飘带西装",
+      "onboard_time": 1732387272,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22904,
       "num": 417051,
       "word": "海南舰首次对公众开放",
@@ -515,28 +547,28 @@
       "category": "军事"
     },
     {
-      "raw_hot": 21058,
-      "num": 743641,
-      "word": "当600多岁的长城遇到同龄昆曲",
-      "onboard_time": 1732369040,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 21605,
+      "num": 42977,
+      "word": "普京称目前没有拦截榛树导弹的技术",
+      "onboard_time": 1732386552,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 20684,
-      "num": 76948,
+      "raw_hot": 21482,
+      "num": 89908,
       "word": "曾刷屏的航母style仍激荡人心",
       "onboard_time": 1732377260,
       "rank": 13,
       "category": "国内时政"
     },
     {
-      "raw_hot": 17496,
-      "num": 42977,
-      "word": "普京称目前没有拦截榛树导弹的技术",
-      "onboard_time": 1732386552,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 21058,
+      "num": 743641,
+      "word": "当600多岁的长城遇到同龄昆曲",
+      "onboard_time": 1732369040,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12032,
@@ -553,14 +585,6 @@
       "onboard_time": 1732378397,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 8386,
-      "num": 67795,
-      "word": "宋慧乔43岁生日照",
-      "onboard_time": 1732385893,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 8236,
