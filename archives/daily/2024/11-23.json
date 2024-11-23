@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732331257572,
+  "endTime": 1732332750565,
   "band_list": [
     {
       "raw_hot": 1421753,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 946942,
+      "num": 946942,
+      "word": "李行亮下期要跟麦琳求婚",
+      "onboard_time": 1732331718,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922465,
       "num": 922465,
       "word": "捐赠日本侵华罪行相册的美国小伙声明",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 676075,
-      "num": 645361,
+      "num": 647231,
       "word": "麦琳 先天带货圣体",
       "onboard_time": 1732328057,
       "rank": 10,
@@ -67,6 +75,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631850,
+      "num": 211428,
+      "word": "丈夫出轨同学后保证再犯赔10万",
+      "onboard_time": 1732331718,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 627205,
+      "num": 627205,
+      "word": "7家医院被国家医保局通报",
+      "onboard_time": 1732331177,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 601719,
       "num": 601719,
       "word": "旺旺发布声明函",
@@ -83,12 +107,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 575931,
-      "num": 575931,
+      "raw_hot": 578298,
+      "num": 578298,
       "word": "女游客跟团徒步时坠崖身亡",
       "onboard_time": 1732329378,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 576078,
+      "num": 576078,
+      "word": "旺旺三公子称明显有人在搞事",
+      "onboard_time": 1732330277,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 570441,
@@ -331,20 +363,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235701,
+      "num": 235701,
+      "word": "好东西 亲密关系低成本试错",
+      "onboard_time": 1732329078,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234448,
       "num": 234448,
       "word": "歼15成功起降辽宁舰12周年",
       "onboard_time": 1732325179,
       "rank": 23,
       "category": "军事"
-    },
-    {
-      "raw_hot": 229595,
-      "num": 229595,
-      "word": "旺旺三公子称明显有人在搞事",
-      "onboard_time": 1732330277,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 227136,
@@ -379,12 +411,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211025,
+      "num": 211025,
+      "word": "句句不提内娱 句句在说内娱",
+      "onboard_time": 1732332257,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201600,
+      "num": 201600,
+      "word": "不讨好的勇气开播",
+      "onboard_time": 1732332017,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "炸弹气旋袭击美国2人死亡",
+      "onboard_time": 1732330457,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 198537,
       "num": 246998,
       "word": "鹿晗音乐节逆应援",
       "onboard_time": 1732319296,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195297,
+      "num": 195297,
+      "word": "贫困生一年旅游20多地引争议",
+      "onboard_time": 1732331777,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 192855,
@@ -435,14 +499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177803,
-      "num": 177803,
-      "word": "好东西 亲密关系低成本试错",
-      "onboard_time": 1732329078,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 176526,
       "num": 176526,
       "word": "旺仔承诺产品质量安全可靠",
@@ -465,6 +521,22 @@
       "onboard_time": 1732284981,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171476,
+      "num": 171476,
+      "word": "旺仔事件",
+      "onboard_time": 1732332077,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 166874,
+      "num": 166874,
+      "word": "还有朋友圈全部开放的人吗",
+      "onboard_time": 1732331777,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 162132,
@@ -499,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152506,
-      "num": 160551,
-      "word": "炸弹气旋袭击美国2人死亡",
-      "onboard_time": 1732330457,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 153247,
+      "num": 153247,
+      "word": "旺旺集团称生产线审查没有异常",
+      "onboard_time": 1732331956,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 152206,
@@ -513,6 +585,22 @@
       "onboard_time": 1732323798,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 151526,
+      "num": 151526,
+      "word": "老人领喜糖跌倒去世家属索赔新人",
+      "onboard_time": 1732332618,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147673,
+      "num": 147673,
+      "word": "我是刑警定档",
+      "onboard_time": 1732332558,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 147331,
@@ -611,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131096,
-      "num": 131096,
-      "word": "7家医院被国家医保局通报",
-      "onboard_time": 1732331177,
-      "rank": 33,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 130857,
       "num": 130857,
       "word": "涵艺 Doinb",
@@ -683,19 +763,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 117028,
+      "num": 117028,
+      "word": "超早产重症男婴被救治爸爸发声",
+      "onboard_time": 1732327757,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115995,
       "num": 115995,
       "word": "官方回应女子跪地自述抽脂险丧命",
       "onboard_time": 1732325718,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113499,
-      "num": 113499,
-      "word": "超早产重症男婴被救治爸爸发声",
-      "onboard_time": 1732327757,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -715,12 +795,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 109853,
+      "num": 109853,
+      "word": "王楚钦说好久没进前四了",
+      "onboard_time": 1732332257,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105512,
       "num": 105512,
       "word": "日本禽流感扑杀超120万只禽类",
       "onboard_time": 1732325837,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104988,
+      "num": 104988,
+      "word": "伯远回应耳帝点评",
+      "onboard_time": 1732332319,
+      "rank": 48,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 104749,
@@ -843,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88417,
+      "num": 236143,
+      "word": "遭家暴16次挂粪袋女子重做伤残鉴定",
+      "onboard_time": 1732330637,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87711,
       "num": 87711,
       "word": "迪丽热巴超话发帖量破1亿",
@@ -881,6 +985,14 @@
       "onboard_time": 1732289600,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81275,
+      "num": 165191,
+      "word": "凤凰组合晋级中国赛决赛",
+      "onboard_time": 1732331837,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 79641,
@@ -947,6 +1059,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 59500,
+      "num": 557331,
+      "word": "有摄像头厂家称被警方突查",
+      "onboard_time": 1732331177,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 57524,
       "num": 148133,
       "word": "朱志鑫cha了Peaches",
@@ -1011,12 +1131,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46864,
+      "num": 166595,
+      "word": "王楚钦每一场都会紧咬每一分",
+      "onboard_time": 1732331479,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46706,
       "num": 46706,
       "word": "警方调查男子失踪18年自述被困黑砖窑",
       "onboard_time": 1732306391,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45575,
+      "num": 211611,
+      "word": "陈奕恒穿时代少年团应援服",
+      "onboard_time": 1732332618,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 44878,
@@ -1065,6 +1201,22 @@
       "onboard_time": 1732278078,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 37295,
+      "num": 202156,
+      "word": "C罗911球",
+      "onboard_time": 1732328117,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36546,
+      "num": 211755,
+      "word": "电影蜡笔小新今日上映",
+      "onboard_time": 1732332618,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 35408,
@@ -1307,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8941,
-      "num": 421475,
-      "word": "有摄像头厂家称被警方突查",
-      "onboard_time": 1732331177,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 8482,
       "num": 19902,
       "word": "年内1184款国产游戏获批",
@@ -1385,6 +1529,9 @@
     },
     {
       "word": "#习近平会见摩洛哥王储哈桑#"
+    },
+    {
+      "word": "#习主席结束拉美之行回到北京#"
     }
   ]
 }
