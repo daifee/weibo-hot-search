@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732393414765,
+  "endTime": 1732394257160,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52276,
+      "num": 52276,
+      "word": "朝鲜警告美国及其追随国家",
+      "onboard_time": 1732391832,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46770,
       "num": 46770,
       "word": "马嘉祺白西装飘纱",
@@ -497,14 +505,6 @@
       "onboard_time": 1732371982,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43132,
-      "num": 43132,
-      "word": "朝鲜警告美国及其追随国家",
-      "onboard_time": 1732391832,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38666,
@@ -635,12 +635,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17040,
+      "num": 41165,
+      "word": "我们小孩没做错任何事为什么会被炸",
+      "onboard_time": 1732393211,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14447,
       "num": 48626,
       "word": "特战队员操控穿越机精准打击目标",
       "onboard_time": 1732389372,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13235,
+      "num": 20582,
+      "word": "陶喆 我的花店生意太过火爆",
+      "onboard_time": 1732393751,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12925,
+      "num": 20574,
+      "word": "奔跑吧",
+      "onboard_time": 1732365741,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 12032,
@@ -657,14 +681,6 @@
       "onboard_time": 1732378397,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 10546,
-      "num": 26706,
-      "word": "我们小孩没做错任何事为什么会被炸",
-      "onboard_time": 1732393211,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9898,
