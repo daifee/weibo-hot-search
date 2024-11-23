@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732353725215,
+  "endTime": 1732354620495,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1165465,
+      "num": 575766,
+      "word": "难听",
+      "onboard_time": 1732350738,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1156264,
       "num": 1156264,
       "word": "再见爱人 李行亮不容许有离婚的选项",
       "onboard_time": 1732318696,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1129551,
-      "num": 519936,
-      "word": "难听",
-      "onboard_time": 1732350738,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 1117571,
@@ -192,6 +192,14 @@
       "word": "王曼昱vs斯佐科斯",
       "onboard_time": 1732345818,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 714918,
+      "num": 714918,
+      "word": "林诗栋vs张本智和",
+      "onboard_time": 1732352600,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 520167,
-      "num": 520167,
+      "num": 592588,
       "word": "Supernova年歌",
       "onboard_time": 1732352420,
       "rank": 9,
@@ -595,6 +603,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 345738,
+      "num": 447861,
+      "word": "旺仔当事人发声",
+      "onboard_time": 1732352600,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 340805,
       "num": 340805,
       "word": "西安警方通报报警人称被民警关留置室",
@@ -795,14 +811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 260856,
-      "num": 518822,
-      "word": "林诗栋vs张本智和",
-      "onboard_time": 1732352600,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252561,
       "num": 252561,
       "word": "微信或将迎史诗级瘦身",
@@ -811,8 +819,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 247630,
-      "num": 247630,
+      "raw_hot": 247879,
+      "num": 247879,
       "word": "好东西",
       "onboard_time": 1732275859,
       "rank": 21,
@@ -825,14 +833,6 @@
       "onboard_time": 1732319055,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243773,
-      "num": 243773,
-      "word": "旺仔当事人发声",
-      "onboard_time": 1732352600,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 243473,
@@ -891,6 +891,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 234400,
+      "num": 234400,
+      "word": "麦琳李行亮十年老友发文",
+      "onboard_time": 1732353079,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227136,
       "num": 227136,
       "word": "王楚钦把莫雷高德打炸毛了",
@@ -921,6 +929,14 @@
       "onboard_time": 1732339577,
       "rank": 25,
       "category": "综艺,电影"
+    },
+    {
+      "raw_hot": 216149,
+      "num": 564194,
+      "word": "TFbang",
+      "onboard_time": 1732353739,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 215350,
@@ -961,14 +977,6 @@
       "onboard_time": 1732342698,
       "rank": 26,
       "category": "音乐,综艺"
-    },
-    {
-      "raw_hot": 205749,
-      "num": 205749,
-      "word": "麦琳李行亮十年老友发文",
-      "onboard_time": 1732353079,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 202755,
@@ -1100,7 +1108,7 @@
     },
     {
       "raw_hot": 188150,
-      "num": 487278,
+      "num": 490744,
       "word": "教练夸樊振东打棒球有点天赋",
       "onboard_time": 1732352600,
       "rank": 32,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1732327937,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 176631,
+      "num": 176631,
+      "word": "旺旺集团揭秘旺仔牛奶生产全过程",
+      "onboard_time": 1732354099,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 176526,
@@ -1243,12 +1259,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168993,
+      "num": 515375,
+      "word": "吴磊出门溜达溜达",
+      "onboard_time": 1732353260,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165068,
       "num": 165068,
       "word": "国乒提前锁定女单冠亚军",
       "onboard_time": 1732351218,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164675,
+      "num": 164675,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1732272918,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 164671,
+      "num": 608692,
+      "word": "湖南发现金矿估值达6000亿元",
+      "onboard_time": 1732353019,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164484,
@@ -1539,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135264,
+      "num": 590420,
+      "word": "王曼昱顶住了",
+      "onboard_time": 1732353499,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133159,
       "num": 475380,
       "word": "市监部门回应旺仔牛奶事件",
@@ -1617,14 +1665,6 @@
       "onboard_time": 1732320977,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125916,
-      "num": 515375,
-      "word": "吴磊出门溜达溜达",
-      "onboard_time": 1732353260,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 125200,
@@ -1747,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106088,
+      "num": 348096,
+      "word": "馒头冻两天真的会长黄曲霉毒素吗",
+      "onboard_time": 1732354460,
+      "rank": 34,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 105512,
       "num": 105512,
       "word": "日本禽流感扑杀超120万只禽类",
@@ -1820,7 +1868,7 @@
     },
     {
       "raw_hot": 101104,
-      "num": 517150,
+      "num": 572585,
       "word": "王曼昱说这场比赛跌宕起伏",
       "onboard_time": 1732353499,
       "rank": 15,
@@ -1905,14 +1953,6 @@
       "onboard_time": 1732347558,
       "rank": 21,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 92820,
-      "num": 92820,
-      "word": "MAMA获奖名单",
-      "onboard_time": 1732272918,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 92333,
@@ -2003,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84253,
+      "num": 514952,
+      "word": "越来越多年轻人患胆结石",
+      "onboard_time": 1732352539,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81570,
       "num": 81570,
       "word": "周翊然本周报备 见面",
@@ -2035,22 +2083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76626,
-      "num": 519163,
-      "word": "王曼昱顶住了",
-      "onboard_time": 1732353499,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75541,
-      "num": 547191,
-      "word": "湖南发现金矿估值达6000亿元",
-      "onboard_time": 1732353019,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74628,
       "num": 98323,
       "word": "恩波员工称与王宝强方力量悬殊",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1732349598,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70475,
+      "num": 582760,
+      "word": "少年卧底特训学校遭威胁",
+      "onboard_time": 1732353739,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69879,
@@ -2099,6 +2139,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 65262,
+      "num": 510321,
+      "word": "张子墨红发挑染造型",
+      "onboard_time": 1732353019,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 64679,
       "num": 244161,
       "word": "肖战唱往事随风江湖感拉满",
@@ -2112,14 +2160,6 @@
       "word": "女子称父亲失踪18年被困黑窑厂",
       "onboard_time": 1732303391,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63560,
-      "num": 514952,
-      "word": "越来越多年轻人患胆结石",
-      "onboard_time": 1732352539,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2211,6 +2251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55947,
+      "num": 569654,
+      "word": "赵又廷说好东西给自己上了人生一课",
+      "onboard_time": 1732353978,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55914,
       "num": 55914,
       "word": "再见爱人",
@@ -2219,8 +2267,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55512,
+      "num": 1025249,
+      "word": "何以乌镇",
+      "onboard_time": 1732351640,
+      "rank": 2,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54379,
-      "num": 658144,
+      "num": 699032,
       "word": "尊界S800外观官宣",
       "onboard_time": 1732345818,
       "rank": 33,
@@ -2265,22 +2321,6 @@
       "onboard_time": 1732317554,
       "rank": 44,
       "category": "艺人,演出"
-    },
-    {
-      "raw_hot": 52336,
-      "num": 510321,
-      "word": "张子墨红发挑染造型",
-      "onboard_time": 1732353019,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 51951,
-      "num": 1025249,
-      "word": "何以乌镇",
-      "onboard_time": 1732351640,
-      "rank": 2,
-      "category": "互联网"
     },
     {
       "raw_hot": 50481,
@@ -2427,12 +2467,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34716,
+      "num": 468945,
+      "word": "尊界S800官宣发布时间",
+      "onboard_time": 1732353680,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33649,
       "num": 93258,
       "word": "恋与制作人",
       "onboard_time": 1732296494,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32857,
+      "num": 476863,
+      "word": "海南舰编队访问香港",
+      "onboard_time": 1732353799,
+      "rank": 27,
+      "category": "军事"
     },
     {
       "raw_hot": 31239,
@@ -2459,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29164,
+      "num": 577256,
+      "word": "李现周末这样充电",
+      "onboard_time": 1732351998,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28546,
       "num": 28546,
       "word": "丁禹兮想去看看星河",
@@ -2472,14 +2536,6 @@
       "word": "张峻豪全白套装墨镜look",
       "onboard_time": 1732295235,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27848,
-      "num": 516263,
-      "word": "李现周末这样充电",
-      "onboard_time": 1732351998,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2691,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 9663,
+      "num": 580955,
+      "word": "这球打到了我的心巴上",
+      "onboard_time": 1732352420,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9360,
       "num": 149486,
       "word": "关宏宇是什么小天使啊",
@@ -2705,22 +2769,6 @@
       "onboard_time": 1732300092,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8563,
-      "num": 517777,
-      "word": "这球打到了我的心巴上",
-      "onboard_time": 1732352420,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8551,
-      "num": 172968,
-      "word": "尊界S800官宣发布时间",
-      "onboard_time": 1732353680,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 8482,
@@ -2802,6 +2850,9 @@
     },
     {
       "word": "#让新技术新产业新业态赋能可持续发展#"
+    },
+    {
+      "word": "#习主席结束秘鲁巴西行回到北京#"
     }
   ]
 }
