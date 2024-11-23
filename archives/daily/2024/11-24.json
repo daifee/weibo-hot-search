@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732400451185,
+  "endTime": 1732401558948,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -427,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77768,
+      "num": 77768,
+      "word": "做一次CT收了三次的钱",
+      "onboard_time": 1732395612,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 77697,
       "num": 208079,
       "word": "丁禹兮臭屁大男孩",
@@ -447,6 +455,14 @@
       "num": 111215,
       "word": "苏新皓演我被偶像翻牌",
       "onboard_time": 1732382295,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65322,
+      "num": 67795,
+      "word": "宋慧乔43岁生日照",
+      "onboard_time": 1732385893,
       "rank": 19,
       "category": "艺人"
     },
@@ -475,28 +491,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 58785,
-      "num": 67795,
-      "word": "宋慧乔43岁生日照",
-      "onboard_time": 1732385893,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53804,
       "num": 53804,
       "word": "朝鲜警告美国及其追随国家",
       "onboard_time": 1732391832,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 51899,
-      "num": 51899,
-      "word": "做一次CT收了三次的钱",
-      "onboard_time": 1732395612,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 46770,
@@ -547,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32477,
+      "num": 32477,
+      "word": "今年约31万人报考导游资格证",
+      "onboard_time": 1732398549,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29157,
       "num": 29157,
       "word": "网友喊话旺仔千万别塌",
@@ -572,19 +580,19 @@
     },
     {
       "raw_hot": 27242,
-      "num": 27242,
+      "num": 32383,
       "word": "权志龙我会强势回归",
       "onboard_time": 1732388652,
       "rank": 32,
       "category": "音乐"
     },
     {
-      "raw_hot": 27142,
-      "num": 27142,
-      "word": "今年约31万人报考导游资格证",
-      "onboard_time": 1732398549,
+      "raw_hot": 27145,
+      "num": 27145,
+      "word": "特朗普或动用军事力量驱逐非法移民",
+      "onboard_time": 1732394831,
       "rank": 22,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 27108,
@@ -593,6 +601,14 @@
       "onboard_time": 1732386972,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26107,
+      "num": 26107,
+      "word": "雨雪降温大风一起来了",
+      "onboard_time": 1732396031,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24961,
@@ -611,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24713,
-      "num": 24713,
-      "word": "特朗普或动用军事力量驱逐非法移民",
-      "onboard_time": 1732394831,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23911,
       "num": 23911,
       "word": "时代少年团彩排影像",
@@ -633,14 +641,6 @@
       "onboard_time": 1732366520,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 22885,
-      "num": 22885,
-      "word": "雨雪降温大风一起来了",
-      "onboard_time": 1732396031,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21483,
@@ -667,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20344,
+      "num": 20344,
+      "word": "榛树中程高超音速导弹",
+      "onboard_time": 1732396452,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20282,
       "num": 22727,
       "word": "对重大恶性犯罪依法从严从重惩处",
@@ -675,20 +683,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19421,
-      "num": 19843,
+      "raw_hot": 20248,
+      "num": 20248,
       "word": "滨州一小区烟花爆炸致1死",
       "onboard_time": 1732395131,
       "rank": 37,
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 18165,
-      "num": 25787,
+      "raw_hot": 18828,
+      "num": 32384,
       "word": "陶喆 我的花店生意太过火爆",
       "onboard_time": 1732393751,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17931,
+      "num": 18386,
+      "word": "特斯拉股价已上涨约40%",
+      "onboard_time": 1732401311,
+      "rank": 47,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 17201,
@@ -699,12 +715,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16251,
-      "num": 19839,
-      "word": "榛树中程高超音速导弹",
-      "onboard_time": 1732396452,
+      "raw_hot": 17177,
+      "num": 32383,
+      "word": "跑男的睡衣是批发的吗",
+      "onboard_time": 1732400893,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15972,
+      "num": 18255,
+      "word": "旺仔当事人称异物被厂家取走大部分",
+      "onboard_time": 1732401432,
       "rank": 49,
-      "category": "国际时政"
+      "category": "美食"
     },
     {
       "raw_hot": 14447,
@@ -747,11 +771,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 8498,
+      "raw_hot": 10502,
       "num": 50239,
       "word": "资助工作动态管理不可松懈",
       "onboard_time": 1732399751,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9738,
+      "num": 32383,
+      "word": "贫困生改变境遇后仍被资助才是问题",
+      "onboard_time": 1732400531,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
