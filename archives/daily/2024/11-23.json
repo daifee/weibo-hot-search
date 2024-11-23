@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732369091778,
+  "endTime": 1732371660219,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -179,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 884887,
-      "num": 884887,
+      "raw_hot": 885756,
+      "num": 885756,
       "word": "医生称用这3种卫生巾易引病上身",
       "onboard_time": 1732364780,
       "rank": 30,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 785255,
+      "num": 785255,
+      "word": "菲副总统自爆如被害就找马科斯算账",
+      "onboard_time": 1732367601,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 781106,
       "num": 781106,
       "word": "林诗栋3比4张本智和",
@@ -267,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 771553,
+      "num": 771553,
+      "word": "鹿晗 野玫瑰",
+      "onboard_time": 1732368560,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 761451,
       "num": 761451,
       "word": "麦琳同款马甲售罄",
       "onboard_time": 1732340118,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 754266,
+      "num": 310812,
+      "word": "马斯克个人财富暴增超6000亿元",
+      "onboard_time": 1732369040,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 746938,
@@ -345,6 +369,14 @@
       "onboard_time": 1732346838,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 671103,
+      "num": 309260,
+      "word": "独生女婚后全款给父母买房难要回",
+      "onboard_time": 1732369941,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 653640,
@@ -675,14 +707,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 413032,
-      "num": 413032,
-      "word": "菲副总统自爆如被害就找马科斯算账",
-      "onboard_time": 1732367601,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 412459,
       "num": 512539,
       "word": "丁禹兮进组南部档案",
@@ -739,20 +763,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 381542,
+      "num": 381542,
+      "word": "鹿晗脸颊比心",
+      "onboard_time": 1732368260,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 379725,
       "num": 328496,
       "word": "麦琳 删评论",
       "onboard_time": 1732268058,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379401,
-      "num": 379401,
-      "word": "鹿晗 野玫瑰",
-      "onboard_time": 1732368560,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 377308,
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312567,
+      "num": 312567,
+      "word": "黄圣依 死脑快想啊",
+      "onboard_time": 1732370601,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311023,
       "num": 311023,
       "word": "男子心脏骤停4小时后奇迹发生了",
@@ -897,6 +929,14 @@
       "onboard_time": 1732336159,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302868,
+      "num": 302868,
+      "word": "睡眠不足身体会出现什么变化",
+      "onboard_time": 1732367360,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301853,
@@ -1067,14 +1107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 271407,
-      "num": 271407,
-      "word": "鹿晗脸颊比心",
-      "onboard_time": 1732368260,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 270498,
       "num": 270498,
       "word": "虞书欣ins 他拍的",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1732364060,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 257261,
+      "num": 257261,
+      "word": "勒布伦兄弟男双夺冠",
+      "onboard_time": 1732370660,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 253634,
@@ -1211,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240088,
+      "num": 240088,
+      "word": "时代少年团复刻出道战舞台",
+      "onboard_time": 1732369340,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237152,
       "num": 237152,
       "word": "aespa成员MAMAsolo舞台",
@@ -1243,6 +1291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 234991,
+      "num": 234991,
+      "word": "TFING道歉声明",
+      "onboard_time": 1732367421,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234448,
       "num": 234448,
       "word": "歼15成功起降辽宁舰12周年",
@@ -1267,14 +1323,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 229930,
-      "num": 229930,
-      "word": "睡眠不足身体会出现什么变化",
-      "onboard_time": 1732367360,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 227136,
       "num": 227136,
       "word": "王楚钦把莫雷高德打炸毛了",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1732360040,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223283,
+      "num": 223283,
+      "word": "牛奶现异物争议调查需要追上网速",
+      "onboard_time": 1732370001,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 222010,
@@ -1419,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207185,
+      "num": 207185,
+      "word": "王楚钦与张本智和11次交手8次获胜",
+      "onboard_time": 1732370601,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206437,
       "num": 206437,
       "word": "seventeenMAMA红毯生图",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1732365380,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203128,
+      "num": 203128,
+      "word": "邵子恒 颜值C位",
+      "onboard_time": 1732370180,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 202755,
@@ -1555,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197369,
+      "num": 197369,
+      "word": "杨超越去了许嵩演唱会",
+      "onboard_time": 1732370781,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196811,
       "num": 196811,
       "word": "宫脇咲良许允真cha袁一琦新歌",
@@ -1603,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193246,
+      "num": 193246,
+      "word": "石凯 恶魔之眼",
+      "onboard_time": 1732371021,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192934,
       "num": 178941,
       "word": "宋亚轩张真源贺峻霖 达拉崩吧",
@@ -1649,14 +1737,6 @@
       "onboard_time": 1732355119,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190065,
-      "num": 190065,
-      "word": "TFING道歉声明",
-      "onboard_time": 1732367421,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 188938,
@@ -1811,6 +1891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173125,
+      "num": 173125,
+      "word": "丁禹兮工作室",
+      "onboard_time": 1732369282,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172043,
       "num": 172043,
       "word": "佛山音乐节",
@@ -1932,7 +2020,7 @@
     },
     {
       "raw_hot": 162420,
-      "num": 162420,
+      "num": 231554,
       "word": "王楚钦连续3年进WTT总决赛决赛",
       "onboard_time": 1732363880,
       "rank": 40,
@@ -2187,6 +2275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144331,
+      "num": 339718,
+      "word": "杨子认为父爱缺失是对孩子的挫折教育",
+      "onboard_time": 1732367000,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143932,
       "num": 143932,
       "word": "张本智和进决赛",
@@ -2217,6 +2313,14 @@
       "onboard_time": 1732324758,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142215,
+      "num": 142215,
+      "word": "感冒后咳嗽是身体在大扫除",
+      "onboard_time": 1732371621,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141897,
@@ -2353,14 +2457,6 @@
       "onboard_time": 1732336758,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132380,
-      "num": 132380,
-      "word": "马斯克个人财富暴增超6000亿元",
-      "onboard_time": 1732369040,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 131849,
@@ -2955,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82914,
-      "num": 339718,
-      "word": "杨子认为父爱缺失是对孩子的挫折教育",
-      "onboard_time": 1732367000,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81570,
       "num": 81570,
       "word": "周翊然本周报备 见面",
@@ -2993,6 +3081,14 @@
       "onboard_time": 1732248259,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79042,
+      "num": 494240,
+      "word": "学霸曝光特训学校黑暗内幕",
+      "onboard_time": 1732371141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78472,
@@ -3339,6 +3435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45994,
+      "num": 257396,
+      "word": "张泽禹三只小绵羊毛衣",
+      "onboard_time": 1732370841,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45129,
+      "num": 231312,
+      "word": "张泽禹同步报备含金量还在上升",
+      "onboard_time": 1732370902,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44878,
       "num": 44878,
       "word": "MAMA开场",
@@ -3419,6 +3531,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 37354,
+      "num": 823653,
+      "word": "当600多岁的长城遇到同龄昆曲",
+      "onboard_time": 1732369040,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36168,
       "num": 317691,
       "word": "东电 张本智和胜利的背后",
@@ -3489,6 +3609,14 @@
       "onboard_time": 1732335078,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30524,
+      "num": 411579,
+      "word": "为你好不是老师体罚学生的借口",
+      "onboard_time": 1732371501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29917,
@@ -3585,6 +3713,14 @@
       "onboard_time": 1732300512,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23675,
+      "num": 231215,
+      "word": "mlxg回应无状态",
+      "onboard_time": 1732371021,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 22973,
@@ -3803,14 +3939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7169,
-      "num": 699187,
-      "word": "当600多岁的长城遇到同龄昆曲",
-      "onboard_time": 1732369040,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 6986,
       "num": 30542,
       "word": "岁岁长夏",
@@ -3877,6 +4005,9 @@
     },
     {
       "word": "#习主席结束秘鲁巴西行回到北京#"
+    },
+    {
+      "word": "#跨越山海的友谊团结合作开拓之旅#"
     }
   ]
 }
