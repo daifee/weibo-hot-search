@@ -1,0 +1,410 @@
+{
+  "runTime": 1732343420984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1804174,
+        "num": 1804174,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 1117571,
+        "num": 1117571,
+        "word": "丁禹兮微博改名字",
+        "onboard_time": 1732339998,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38220,
+        "num": 867382,
+        "word": "世界需要多些合作桥梁少点小院高墙",
+        "onboard_time": 1732335618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 761451,
+        "num": 761451,
+        "word": "麦琳同款马甲售罄",
+        "onboard_time": 1732340118,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527137,
+        "num": 527137,
+        "word": "清华回应晒旅游照贫困生被保研",
+        "onboard_time": 1732334477,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 426406,
+        "num": 426406,
+        "word": "男子用铁秤砣疯狂砸楼道逼走5户业主",
+        "onboard_time": 1732340537,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389629,
+        "num": 389629,
+        "word": "丁禹兮 有驾照版",
+        "onboard_time": 1732335917,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296463,
+        "num": 296463,
+        "word": "川航3U3859已安全到达",
+        "onboard_time": 1732320017,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605357,
+        "num": 296382,
+        "word": "李行亮下期要跟麦琳求婚",
+        "onboard_time": 1732331718,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149505,
+        "num": 296300,
+        "word": "旺仔牛奶当事人称异物不像老鼠",
+        "onboard_time": 1732342580,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1060270,
+        "num": 296136,
+        "word": "管晨辰 吴柳芳",
+        "onboard_time": 1732340897,
+        "rank": 10,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 602010,
+        "num": 296022,
+        "word": "王宝强凌晨带女友回别墅",
+        "onboard_time": 1732342338,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421859,
+        "num": 295979,
+        "word": "遭家暴16次挂粪袋女子重做伤残鉴定",
+        "onboard_time": 1732330637,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397325,
+        "num": 295846,
+        "word": "墨总统宣称墨不是中国产品进美的后门",
+        "onboard_time": 1732340178,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60749,
+        "num": 295662,
+        "word": "麦琳和李行亮是东亚夫妻的照妖镜吗",
+        "onboard_time": 1732342279,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379403,
+        "num": 295538,
+        "word": "好东西 虎扑",
+        "onboard_time": 1732337597,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295504,
+        "num": 295504,
+        "word": "苏新皓在演我追星",
+        "onboard_time": 1732341678,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271291,
+        "num": 271291,
+        "word": "因果报应 女性受害者就该这样拍",
+        "onboard_time": 1732333397,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253112,
+        "num": 253112,
+        "word": "老人领喜糖跌倒去世家属索赔新人",
+        "onboard_time": 1732332618,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251543,
+        "num": 251543,
+        "word": "旺旺三公子称明显有人在搞事",
+        "onboard_time": 1732330277,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274072,
+        "num": 251079,
+        "word": "迪拜展出全球最大金条",
+        "onboard_time": 1732341978,
+        "rank": 20,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 237222,
+        "num": 237222,
+        "word": "赵露思发红包",
+        "onboard_time": 1732335618,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197485,
+        "num": 213895,
+        "word": "赵露思又发49999微博红包",
+        "onboard_time": 1732342760,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212745,
+        "num": 212745,
+        "word": "全国家长来出租屋统一动作",
+        "onboard_time": 1732342580,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210125,
+        "num": 210125,
+        "word": "女游客跟团徒步时坠崖身亡",
+        "onboard_time": 1732329378,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 207944,
+        "num": 207944,
+        "word": "李庚希魏大勋的吻戏",
+        "onboard_time": 1732335498,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206437,
+        "num": 206437,
+        "word": "seventeenMAMA红毯生图",
+        "onboard_time": 1732342698,
+        "rank": 26,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 199954,
+        "num": 199954,
+        "word": "丈夫出轨同学后保证再犯赔10万",
+        "onboard_time": 1732331718,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192876,
+        "num": 192876,
+        "word": "7家医院涉违法违规金额共计近9000万",
+        "onboard_time": 1732338978,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 176173,
+        "num": 190818,
+        "word": "珠帘玉幕 OE",
+        "onboard_time": 1732341139,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190491,
+        "num": 190491,
+        "word": "7家医院被国家医保局通报",
+        "onboard_time": 1732331177,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 192728,
+        "num": 185545,
+        "word": "贫困生一年旅游20多地引争议",
+        "onboard_time": 1732331777,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 179651,
+        "num": 179651,
+        "word": "19岁男子拒服兵役处理通报",
+        "onboard_time": 1732341918,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170108,
+        "num": 170108,
+        "word": "丁程鑫王子烟熏妆",
+        "onboard_time": 1732342040,
+        "rank": 33,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 165066,
+        "num": 165066,
+        "word": "侃爷再被曝性侵丑闻",
+        "onboard_time": 1732342638,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163954,
+        "num": 163954,
+        "word": "新疆一摄像头拍下雪崩过程",
+        "onboard_time": 1732333697,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "好东西",
+        "onboard_time": 1732339998,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147216,
+        "num": 147216,
+        "word": "2人操纵股票被证监会罚没3.35亿",
+        "onboard_time": 1732340058,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144736,
+        "num": 144736,
+        "word": "沙溢一年减重36斤",
+        "onboard_time": 1732336159,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142964,
+        "num": 142964,
+        "word": "我是刑警请了大半个叔圈",
+        "onboard_time": 1732339517,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131800,
+        "num": 131800,
+        "word": "虞书欣说自己是从负一点点扳正的",
+        "onboard_time": 1732336697,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124268,
+        "num": 124268,
+        "word": "胖东来",
+        "onboard_time": 1732341078,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123267,
+        "num": 123267,
+        "word": "权志龙点赞苏新皓",
+        "onboard_time": 1732317974,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120436,
+        "num": 120436,
+        "word": "霍建华林心如观看女儿演出",
+        "onboard_time": 1732333339,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 120361,
+        "word": "旺旺发布声明函",
+        "onboard_time": 1732327337,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116624,
+        "num": 116624,
+        "word": "卫生巾塌房用什么才安全",
+        "onboard_time": 1732274720,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115669,
+        "num": 115669,
+        "word": "闪耀的恒星定档",
+        "onboard_time": 1732339577,
+        "rank": 46,
+        "category": "综艺,电影"
+      },
+      {
+        "raw_hot": 105275,
+        "num": 105275,
+        "word": "麦琳 先天带货圣体",
+        "onboard_time": 1732328057,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103148,
+        "num": 103148,
+        "word": "时代少年团盛装出席",
+        "onboard_time": 1732340777,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96756,
+        "num": 96756,
+        "word": "独行侠战胜掘金",
+        "onboard_time": 1732343358,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席结束拉美之行回到北京#"
+    }
+  }
+}

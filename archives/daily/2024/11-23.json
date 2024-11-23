@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732340373703,
+  "endTime": 1732343420984,
   "band_list": [
     {
       "raw_hot": 2158387,
@@ -9,6 +9,14 @@
       "onboard_time": 1732332618,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1804174,
+      "num": 1804174,
+      "word": "微信将14天后自动清理原图原视频",
+      "onboard_time": 1732340718,
+      "rank": 0,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1421753,
@@ -43,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1117571,
+      "num": 1117571,
+      "word": "丁禹兮微博改名字",
+      "onboard_time": 1732339998,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1098392,
       "num": 1098392,
       "word": "清华回应晒旅游照贫困生被保研",
       "onboard_time": 1732334477,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1060270,
+      "num": 296136,
+      "word": "管晨辰 吴柳芳",
+      "onboard_time": 1732340897,
+      "rank": 10,
+      "category": "网红,体育"
     },
     {
       "raw_hot": 968089,
@@ -89,6 +113,14 @@
       "onboard_time": 1732337597,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 761451,
+      "num": 761451,
+      "word": "麦琳同款马甲售罄",
+      "onboard_time": 1732340118,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 703216,
@@ -145,6 +177,14 @@
       "onboard_time": 1732331177,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 602010,
+      "num": 296022,
+      "word": "王宝强凌晨带女友回别墅",
+      "onboard_time": 1732342338,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 601719,
@@ -259,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426406,
+      "num": 426406,
+      "word": "男子用铁秤砣疯狂砸楼道逼走5户业主",
+      "onboard_time": 1732340537,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421859,
+      "num": 295979,
+      "word": "遭家暴16次挂粪袋女子重做伤残鉴定",
+      "onboard_time": 1732330637,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415089,
       "num": 415089,
       "word": "质问不修宿舍学生是否复学当有准信",
@@ -289,6 +345,14 @@
       "onboard_time": 1732318575,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397325,
+      "num": 295846,
+      "word": "墨总统宣称墨不是中国产品进美的后门",
+      "onboard_time": 1732340178,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 379725,
@@ -387,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295504,
+      "num": 295504,
+      "word": "苏新皓在演我追星",
+      "onboard_time": 1732341678,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294436,
       "num": 294436,
       "word": "旺仔提出一赔十异物正在检测",
       "onboard_time": 1732291700,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 293684,
-      "num": 293684,
-      "word": "遭家暴16次挂粪袋女子重做伤残鉴定",
-      "onboard_time": 1732330637,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 287766,
@@ -433,6 +497,14 @@
       "onboard_time": 1732310831,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 274072,
+      "num": 251079,
+      "word": "迪拜展出全球最大金条",
+      "onboard_time": 1732341978,
+      "rank": 20,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 272356,
@@ -473,14 +545,6 @@
       "onboard_time": 1732258880,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265185,
-      "num": 161089,
-      "word": "麦琳同款马甲售罄",
-      "onboard_time": 1732340118,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 264464,
@@ -587,12 +651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211752,
-      "num": 160983,
-      "word": "丁禹兮微博改名字",
-      "onboard_time": 1732339998,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 212745,
+      "num": 212745,
+      "word": "全国家长来出租屋统一动作",
+      "onboard_time": 1732342580,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 207494,
@@ -601,6 +665,14 @@
       "onboard_time": 1732338498,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206437,
+      "num": 206437,
+      "word": "seventeenMAMA红毯生图",
+      "onboard_time": 1732342698,
+      "rank": 26,
+      "category": "音乐,综艺"
     },
     {
       "raw_hot": 201600,
@@ -625,6 +697,14 @@
       "onboard_time": 1732319296,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197485,
+      "num": 213895,
+      "word": "赵露思又发49999微博红包",
+      "onboard_time": 1732342760,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 196811,
@@ -691,6 +771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179651,
+      "num": 179651,
+      "word": "19岁男子拒服兵役处理通报",
+      "onboard_time": 1732341918,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 176526,
       "num": 176526,
       "word": "旺仔承诺产品质量安全可靠",
@@ -707,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176173,
+      "num": 190818,
+      "word": "珠帘玉幕 OE",
+      "onboard_time": 1732341139,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174993,
       "num": 174993,
       "word": "女子晒100多个柿子全被鸟叼走了",
@@ -721,6 +817,22 @@
       "onboard_time": 1732332077,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170108,
+      "num": 170108,
+      "word": "丁程鑫王子烟熏妆",
+      "onboard_time": 1732342040,
+      "rank": 33,
+      "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 165066,
+      "num": 165066,
+      "word": "侃爷再被曝性侵丑闻",
+      "onboard_time": 1732342638,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 164484,
@@ -795,12 +907,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 149505,
+      "num": 296300,
+      "word": "旺仔牛奶当事人称异物不像老鼠",
+      "onboard_time": 1732342580,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147331,
       "num": 243672,
       "word": "川航回应成都飞温哥华航班遇炸弹气旋",
       "onboard_time": 1732325179,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147216,
+      "num": 147216,
+      "word": "2人操纵股票被证监会罚没3.35亿",
+      "onboard_time": 1732340058,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 146736,
@@ -833,14 +961,6 @@
       "onboard_time": 1732337838,
       "rank": 39,
       "category": "演出,音乐"
-    },
-    {
-      "raw_hot": 145632,
-      "num": 145632,
-      "word": "墨总统宣称墨不是中国产品进美的后门",
-      "onboard_time": 1732340178,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144495,
@@ -1003,12 +1123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123041,
-      "num": 123041,
-      "word": "2人操纵股票被证监会罚没3.35亿",
-      "onboard_time": 1732340058,
+      "raw_hot": 124268,
+      "num": 124268,
+      "word": "胖东来",
+      "onboard_time": 1732341078,
       "rank": 41,
-      "category": "财经"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122890,
@@ -1107,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103148,
+      "num": 103148,
+      "word": "时代少年团盛装出席",
+      "onboard_time": 1732340777,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102258,
       "num": 182860,
       "word": "想喊宋佳妈妈",
@@ -1161,6 +1289,14 @@
       "onboard_time": 1732270940,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96756,
+      "num": 96756,
+      "word": "独行侠战胜掘金",
+      "onboard_time": 1732343358,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96059,
@@ -1353,6 +1489,14 @@
       "onboard_time": 1732334418,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60749,
+      "num": 295662,
+      "word": "麦琳和李行亮是东亚夫妻的照妖镜吗",
+      "onboard_time": 1732342279,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 60618,
