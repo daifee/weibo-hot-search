@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732389443553,
+  "endTime": 1732390590590,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -467,7 +467,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 52069,
+      "raw_hot": 58785,
       "num": 67795,
       "word": "宋慧乔43岁生日照",
       "onboard_time": 1732385893,
@@ -531,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28809,
+      "num": 43776,
+      "word": "暴力抗法违规渔船17名嫌疑人被抓",
+      "onboard_time": 1732388172,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27242,
       "num": 27242,
       "word": "权志龙我会强势回归",
@@ -545,14 +553,6 @@
       "onboard_time": 1732386972,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25923,
-      "num": 43776,
-      "word": "暴力抗法违规渔船17名嫌疑人被抓",
-      "onboard_time": 1732388172,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24961,
@@ -611,8 +611,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17201,
+      "num": 19476,
+      "word": "刘耀文Sugar舞台好甜",
+      "onboard_time": 1732387632,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14447,
-      "num": 29359,
+      "num": 48626,
       "word": "特战队员操控穿越机精准打击目标",
       "onboard_time": 1732389372,
       "rank": 29,
