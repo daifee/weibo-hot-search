@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732383408306,
+  "endTime": 1732386570648,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -59771,6 +59771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79726,
+      "num": 79726,
+      "word": "这一次寒潮有两大特点",
+      "onboard_time": 1732384393,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 79676,
       "num": 351819,
       "word": "德国球迷飞行十余小时为国足加油",
@@ -63033,6 +63041,14 @@
       "onboard_time": 1731962241,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60697,
+      "num": 76675,
+      "word": "身份证陆续期满换证攻略",
+      "onboard_time": 1732383374,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60693,
@@ -67795,14 +67811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40870,
-      "num": 76675,
-      "word": "身份证陆续期满换证攻略",
-      "onboard_time": 1732383374,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40814,
       "num": 411493,
       "word": "离婚以后还能和前任做朋友吗",
@@ -69347,6 +69355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36282,
+      "num": 36282,
+      "word": "好东西票房",
+      "onboard_time": 1732383913,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36271,
       "num": 346124,
       "word": "中国航展听取哇声一片",
@@ -69969,6 +69985,14 @@
       "onboard_time": 1731244161,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34319,
+      "num": 34319,
+      "word": "SEVENTEEN年度艺人",
+      "onboard_time": 1732385593,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 34270,
@@ -75307,6 +75331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20684,
+      "num": 76948,
+      "word": "曾刷屏的航母style仍激荡人心",
+      "onboard_time": 1732377260,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20634,
       "num": 230522,
       "word": "无罪之身班底",
@@ -76481,6 +76513,14 @@
       "onboard_time": 1730779461,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17496,
+      "num": 42977,
+      "word": "普京称目前没有拦截榛树导弹的技术",
+      "onboard_time": 1732386552,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17479,
@@ -79185,6 +79225,14 @@
       "onboard_time": 1730464639,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8386,
+      "num": 67795,
+      "word": "宋慧乔43岁生日照",
+      "onboard_time": 1732385893,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 8370,

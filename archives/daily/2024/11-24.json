@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732383408306,
+  "endTime": 1732386570648,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79726,
+      "num": 79726,
+      "word": "这一次寒潮有两大特点",
+      "onboard_time": 1732384393,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 77697,
       "num": 208079,
       "word": "丁禹兮臭屁大男孩",
@@ -433,6 +441,14 @@
       "onboard_time": 1732380857,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 60697,
+      "num": 76675,
+      "word": "身份证陆续期满换证攻略",
+      "onboard_time": 1732383374,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58934,
@@ -467,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40870,
-      "num": 76675,
-      "word": "身份证陆续期满换证攻略",
-      "onboard_time": 1732383374,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 36282,
+      "num": 36282,
+      "word": "好东西票房",
+      "onboard_time": 1732383913,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 36174,
@@ -483,6 +499,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34319,
+      "num": 34319,
+      "word": "SEVENTEEN年度艺人",
+      "onboard_time": 1732385593,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 22904,
+      "num": 417051,
+      "word": "海南舰首次对公众开放",
+      "onboard_time": 1732366520,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 21058,
       "num": 743641,
       "word": "当600多岁的长城遇到同龄昆曲",
@@ -491,12 +523,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14162,
-      "num": 417051,
-      "word": "海南舰首次对公众开放",
-      "onboard_time": 1732366520,
-      "rank": 2,
-      "category": "军事"
+      "raw_hot": 20684,
+      "num": 76948,
+      "word": "曾刷屏的航母style仍激荡人心",
+      "onboard_time": 1732377260,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17496,
+      "num": 42977,
+      "word": "普京称目前没有拦截榛树导弹的技术",
+      "onboard_time": 1732386552,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12032,
@@ -515,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 8386,
+      "num": 67795,
+      "word": "宋慧乔43岁生日照",
+      "onboard_time": 1732385893,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8236,
       "num": 82747,
       "word": "王曼昱说会从始至终的专注",
@@ -526,6 +574,9 @@
   "hotgov_list": [
     {
       "word": "#跨越山海的友谊团结合作开拓之旅#"
+    },
+    {
+      "word": "#习近平主席拉美之行#"
     }
   ]
 }
