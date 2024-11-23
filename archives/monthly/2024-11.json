@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732344241401,
+  "endTime": 1732346589391,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4436,7 +4436,7 @@
     },
     {
       "raw_hot": 1060270,
-      "num": 296136,
+      "num": 308672,
       "word": "管晨辰 吴柳芳",
       "onboard_time": 1732340897,
       "rank": 10,
@@ -6363,6 +6363,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 855797,
+      "num": 855797,
+      "word": "旺仔牛奶当事人称异物不像老鼠",
+      "onboard_time": 1732342580,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 854620,
       "num": 854620,
       "word": "被拐34年男子认亲一年后与家人决裂",
@@ -6580,7 +6588,7 @@
     },
     {
       "raw_hot": 841065,
-      "num": 296022,
+      "num": 296174,
       "word": "王宝强凌晨带女友回别墅",
       "onboard_time": 1732342338,
       "rank": 11,
@@ -11411,6 +11419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 573497,
+      "num": 327541,
+      "word": "杨子麦琳两极反转",
+      "onboard_time": 1732346118,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 573011,
       "num": 573011,
       "word": "科切拉",
@@ -12241,6 +12257,14 @@
       "onboard_time": 1730473098,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540834,
+      "num": 406041,
+      "word": "赵露思又发49999微博红包",
+      "onboard_time": 1732342760,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 540706,
@@ -13187,14 +13211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 511809,
-      "num": 406041,
-      "word": "赵露思又发49999微博红包",
-      "onboard_time": 1732342760,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511760,
       "num": 503381,
       "word": "魅女 怨女",
@@ -13809,6 +13825,14 @@
       "onboard_time": 1731934221,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491097,
+      "num": 491097,
+      "word": "19岁男子拒服兵役处理通报",
+      "onboard_time": 1732341918,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 490957,
@@ -14561,6 +14585,14 @@
       "onboard_time": 1732286721,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465348,
+      "num": 289889,
+      "word": "虞书欣ins多发丁禹兮专拍",
+      "onboard_time": 1732344319,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 465117,
@@ -17979,6 +18011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374041,
+      "num": 276945,
+      "word": "MAMA Day2",
+      "onboard_time": 1732345758,
+      "rank": 14,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 373838,
       "num": 373838,
       "word": "爱侧睡的可以今晚试试这个姿势",
@@ -19737,14 +19777,6 @@
       "onboard_time": 1731252020,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333298,
-      "num": 333298,
-      "word": "旺仔牛奶当事人称异物不像老鼠",
-      "onboard_time": 1732342580,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 333277,
@@ -23243,14 +23275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272824,
-      "num": 272824,
-      "word": "19岁男子拒服兵役处理通报",
-      "onboard_time": 1732341918,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 272762,
       "num": 288394,
       "word": "好东西 孙红雷发言",
@@ -25539,6 +25563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244873,
+      "num": 244873,
+      "word": "苏新皓1088个啊回应权志龙",
+      "onboard_time": 1732345217,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244863,
       "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
@@ -26563,6 +26595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232986,
+      "num": 310692,
+      "word": "一个985研究生成了小学打杂老师",
+      "onboard_time": 1732345338,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232955,
       "num": 232955,
       "word": "这届美国大选有多少戏",
@@ -27249,6 +27289,14 @@
       "onboard_time": 1731462200,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225962,
+      "num": 225962,
+      "word": "烧伤妈妈丈夫暂时停更",
+      "onboard_time": 1732343478,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225938,
@@ -29193,6 +29241,14 @@
       "onboard_time": 1731516435,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 211076,
+      "num": 211076,
+      "word": "侃爷再被曝性侵丑闻",
+      "onboard_time": 1732342638,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 211061,
@@ -37923,6 +37979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173270,
+      "num": 173270,
+      "word": "潘粤明尹姝贻招待柬埔寨小公主",
+      "onboard_time": 1732344618,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173241,
       "num": 226651,
       "word": "尔滨又有新节目了",
@@ -38209,14 +38273,6 @@
       "onboard_time": 1732005379,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172194,
-      "num": 195804,
-      "word": "侃爷再被曝性侵丑闻",
-      "onboard_time": 1732342638,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 172189,
@@ -40499,6 +40555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162649,
+      "num": 162649,
+      "word": "徐明浩MAMA红毯造型",
+      "onboard_time": 1732345818,
+      "rank": 32,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 162611,
       "num": 162611,
       "word": "周深苏州演唱会",
@@ -42273,6 +42337,14 @@
       "onboard_time": 1731470661,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155946,
+      "num": 155946,
+      "word": "被指出轨学生的女老师已停课调岗",
+      "onboard_time": 1732344377,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 155899,
@@ -47403,6 +47475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 136285,
+      "num": 207258,
+      "word": "张本智和解释抽象庆祝动作",
+      "onboard_time": 1732345159,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136270,
       "num": 136270,
       "word": "埃文凯尔回应所捐日本侵华相册去向",
@@ -47537,6 +47617,14 @@
       "onboard_time": 1732178418,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 135546,
+      "num": 227903,
+      "word": "每月要女儿五千保姆费给二婚前妻",
+      "onboard_time": 1732345399,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135538,
@@ -52075,6 +52163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115657,
+      "num": 115657,
+      "word": "aespa横扫",
+      "onboard_time": 1732346478,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 115652,
       "num": 115652,
       "word": "涵艺说LPL报价Zeus",
@@ -52753,6 +52849,14 @@
       "onboard_time": 1731842538,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112226,
+      "num": 112226,
+      "word": "张哥别怕你的天来了",
+      "onboard_time": 1732346419,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 112200,
@@ -53987,14 +54091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105595,
-      "num": 105595,
-      "word": "烧伤妈妈丈夫暂时停更",
-      "onboard_time": 1732343478,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105512,
       "num": 105512,
       "word": "日本禽流感扑杀超120万只禽类",
@@ -54921,6 +55017,14 @@
       "onboard_time": 1730556981,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100083,
+      "num": 100083,
+      "word": "潘粤明眼神转变那一下",
+      "onboard_time": 1732344559,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 100078,
@@ -57065,6 +57169,14 @@
       "onboard_time": 1731471981,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 84967,
+      "num": 287812,
+      "word": "王曼昱vs斯佐科斯",
+      "onboard_time": 1732345818,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 84959,
@@ -60147,6 +60259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65507,
+      "num": 207332,
+      "word": "陈奕迅粉丝十年前的信",
+      "onboard_time": 1732340777,
+      "rank": 23,
+      "category": "艺人,演出"
+    },
+    {
       "raw_hot": 65488,
       "num": 342487,
       "word": "杨子麦琳互相让对方反思",
@@ -60529,6 +60649,14 @@
       "onboard_time": 1731251300,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62893,
+      "num": 235135,
+      "word": "张杰献唱海洋奇缘2主题曲勇气之歌",
+      "onboard_time": 1732346419,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 62862,
@@ -64705,6 +64833,14 @@
       "onboard_time": 1730437939,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44762,
+      "num": 156501,
+      "word": "尊界S800外观官宣",
+      "onboard_time": 1732345818,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 44737,
