@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732387346952,
+  "endTime": 1732389443553,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88149,
+      "num": 88149,
+      "word": "普京称目前没有拦截榛树导弹的技术",
+      "onboard_time": 1732386552,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87525,
       "num": 87525,
       "word": "菲副总统自爆如被害就找马科斯算账",
@@ -459,6 +467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 52069,
+      "num": 67795,
+      "word": "宋慧乔43岁生日照",
+      "onboard_time": 1732385893,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46770,
       "num": 46770,
       "word": "马嘉祺白西装飘纱",
@@ -481,14 +497,6 @@
       "onboard_time": 1732371982,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40018,
-      "num": 67795,
-      "word": "宋慧乔43岁生日照",
-      "onboard_time": 1732385893,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 38666,
@@ -523,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27242,
+      "num": 27242,
+      "word": "权志龙我会强势回归",
+      "onboard_time": 1732388652,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 27108,
       "num": 27726,
       "word": "好东西 声音转场",
@@ -531,11 +547,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25923,
+      "num": 43776,
+      "word": "暴力抗法违规渔船17名嫌疑人被抓",
+      "onboard_time": 1732388172,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24961,
+      "num": 24961,
+      "word": "邓佳鑫唱了醒着",
+      "onboard_time": 1732388413,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24889,
       "num": 27708,
       "word": "宋亚轩鎏金飘带西装",
       "onboard_time": 1732387272,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23911,
+      "num": 23911,
+      "word": "时代少年团彩排影像",
+      "onboard_time": 1732388231,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -547,12 +587,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 21605,
-      "num": 42977,
-      "word": "普京称目前没有拦截榛树导弹的技术",
-      "onboard_time": 1732386552,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 21483,
+      "num": 21483,
+      "word": "丁程鑫的倒三角自画像",
+      "onboard_time": 1732388712,
+      "rank": 46,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 21482,
@@ -569,6 +609,14 @@
       "onboard_time": 1732369040,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14447,
+      "num": 29359,
+      "word": "特战队员操控穿越机精准打击目标",
+      "onboard_time": 1732389372,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12032,
