@@ -1,0 +1,410 @@
+{
+  "runTime": 1732358513920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2003206,
+        "num": 2003206,
+        "word": "王楚钦vs约奇克",
+        "onboard_time": 1732356980,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1367204,
+        "num": 1367204,
+        "word": "杨子口型",
+        "onboard_time": 1732356800,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51385,
+        "num": 1167699,
+        "word": "何以乌镇",
+        "onboard_time": 1732351640,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1117500,
+        "num": 1117500,
+        "word": "林诗栋vs张本智和",
+        "onboard_time": 1732352600,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979480,
+        "num": 979480,
+        "word": "BIGBANG合体",
+        "onboard_time": 1732348459,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 904802,
+        "num": 904802,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 781106,
+        "num": 781106,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1732356441,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606962,
+        "num": 606962,
+        "word": "王曼昱说按马琳战术赢下决胜局",
+        "onboard_time": 1732355359,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81354,
+        "num": 605810,
+        "word": "受资助的困难学生是否能享受高消费",
+        "onboard_time": 1732357280,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418049,
+        "num": 604818,
+        "word": "于东来连发11条动态",
+        "onboard_time": 1732357160,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607100,
+        "num": 604818,
+        "word": "管晨辰 吴柳芳",
+        "onboard_time": 1732340897,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 604715,
+        "num": 604715,
+        "word": "难听",
+        "onboard_time": 1732350738,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 600936,
+        "num": 600936,
+        "word": "太阳摔倒",
+        "onboard_time": 1732356383,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 557920,
+        "num": 557920,
+        "word": "浙大贫困生被取消受资助资格",
+        "onboard_time": 1732346779,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 553740,
+        "num": 553740,
+        "word": "BIGBANG出现时台下表情",
+        "onboard_time": 1732354998,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300165,
+        "num": 377197,
+        "word": "田小娟rap歌词提徐穗珍",
+        "onboard_time": 1732350859,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39919,
+        "num": 355145,
+        "word": "银紫配是有多配",
+        "onboard_time": 1732354760,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 339851,
+        "num": 339851,
+        "word": "一个985研究生成了小学打杂老师",
+        "onboard_time": 1732345338,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31635,
+        "num": 327961,
+        "word": "白夜破晓 火锅修罗场",
+        "onboard_time": 1732356980,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99793,
+        "num": 324339,
+        "word": "张小斐自制的面包好酥脆",
+        "onboard_time": 1732356681,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322107,
+        "num": 322107,
+        "word": "丁禹兮微博改名字",
+        "onboard_time": 1732339998,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313267,
+        "num": 313267,
+        "word": "Uzi开团无状态",
+        "onboard_time": 1732356383,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296760,
+        "num": 296760,
+        "word": "崔胜澈哭了",
+        "onboard_time": 1732355421,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265252,
+        "num": 265252,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1732357701,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249026,
+        "num": 249026,
+        "word": "好东西",
+        "onboard_time": 1732339998,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241244,
+        "num": 241244,
+        "word": "MAMA获奖名单",
+        "onboard_time": 1732354579,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222478,
+        "num": 222478,
+        "word": "一念关山",
+        "onboard_time": 1732355599,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218831,
+        "num": 222253,
+        "word": "浙大回应馒头冻两天滋生黄曲霉毒素",
+        "onboard_time": 1732354760,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 152377,
+        "num": 222131,
+        "word": "Uzi捂脸不看无状态镜头",
+        "onboard_time": 1732358000,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31638,
+        "num": 221885,
+        "word": "你对百万豪车尊界S800有何期待",
+        "onboard_time": 1732354760,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142901,
+        "num": 221648,
+        "word": "imp聊Doinb情绪失控",
+        "onboard_time": 1732356562,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221570,
+        "num": 221570,
+        "word": "林诗栋无缘决赛",
+        "onboard_time": 1732356441,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206366,
+        "num": 206366,
+        "word": "金克丝死了",
+        "onboard_time": 1732358119,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199126,
+        "num": 199126,
+        "word": "Supernova年歌",
+        "onboard_time": 1732352420,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192295,
+        "num": 192295,
+        "word": "虞书欣ins 他拍的",
+        "onboard_time": 1732347499,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186697,
+        "num": 186697,
+        "word": "麦琳李行亮十年老友发文",
+        "onboard_time": 1732353079,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171605,
+        "num": 171605,
+        "word": "樱桃琥珀杀青",
+        "onboard_time": 1732355119,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169495,
+        "num": 169495,
+        "word": "aespa横扫",
+        "onboard_time": 1732346478,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166239,
+        "num": 166239,
+        "word": "时代少年团五周年演唱会",
+        "onboard_time": 1732350499,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24655,
+        "num": 165243,
+        "word": "这球被海狮开了天眼吧",
+        "onboard_time": 1732356020,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165114,
+        "num": 165114,
+        "word": "TFING唱了等你的回答",
+        "onboard_time": 1732357940,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151938,
+        "num": 151938,
+        "word": "37周孕妇摔倒开颅剖宫一起做",
+        "onboard_time": 1732353140,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149644,
+        "num": 149644,
+        "word": "权志龙 无题",
+        "onboard_time": 1732347679,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148784,
+        "num": 148784,
+        "word": "丁禹兮进组南部档案",
+        "onboard_time": 1732350738,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143932,
+        "num": 143932,
+        "word": "张本智和进决赛",
+        "onboard_time": 1732358300,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131849,
+        "num": 131849,
+        "word": "足协杯",
+        "onboard_time": 1732358421,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131847,
+        "num": 131847,
+        "word": "邓佳鑫再唱young",
+        "onboard_time": 1732358480,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54821,
+        "num": 128652,
+        "word": "尊界S800外观官宣",
+        "onboard_time": 1732345818,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128119,
+        "num": 128119,
+        "word": "王宝强凌晨带女友回别墅",
+        "onboard_time": 1732342338,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 127617,
+        "word": "SEVENTEEN压轴",
+        "onboard_time": 1732354879,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席结束秘鲁巴西行回到北京#"
+    }
+  }
+}
