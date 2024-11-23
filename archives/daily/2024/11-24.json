@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732396903752,
+  "endTime": 1732397825983,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35417,
+      "num": 35417,
+      "word": "做一次CT收了三次的钱",
+      "onboard_time": 1732395612,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 34319,
       "num": 34319,
       "word": "SEVENTEEN年度艺人",
@@ -611,6 +619,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 22527,
+      "num": 22527,
+      "word": "特朗普或动用军事力量驱逐非法移民",
+      "onboard_time": 1732394831,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21483,
       "num": 21483,
       "word": "丁程鑫的倒三角自画像",
@@ -625,22 +641,6 @@
       "onboard_time": 1732377260,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21298,
-      "num": 34059,
-      "word": "做一次CT收了三次的钱",
-      "onboard_time": 1732395612,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 21267,
-      "num": 21267,
-      "word": "特朗普或动用军事力量驱逐非法移民",
-      "onboard_time": 1732394831,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21058,
@@ -667,12 +667,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15843,
+      "raw_hot": 16007,
       "num": 19843,
       "word": "滨州一小区烟花爆炸致1死",
       "onboard_time": 1732395131,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 14718,
+      "num": 19840,
+      "word": "雨雪降温大风一起来了",
+      "onboard_time": 1732396031,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14447,
@@ -683,7 +691,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13595,
+      "raw_hot": 14025,
       "num": 20582,
       "word": "陶喆 我的花店生意太过火爆",
       "onboard_time": 1732393751,
@@ -691,15 +699,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13463,
-      "num": 19840,
-      "word": "雨雪降温大风一起来了",
-      "onboard_time": 1732396031,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12925,
+      "raw_hot": 13530,
       "num": 20574,
       "word": "奔跑吧",
       "onboard_time": 1732365741,
@@ -707,7 +707,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12189,
+      "raw_hot": 12748,
       "num": 19839,
       "word": "榛树中程高超音速导弹",
       "onboard_time": 1732396452,
@@ -731,8 +731,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 9898,
-      "num": 22248,
+      "raw_hot": 10302,
+      "num": 35503,
       "word": "潮州回应网传商铺因逃避检查关门",
       "onboard_time": 1732393031,
       "rank": 45,

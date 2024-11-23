@@ -1,0 +1,410 @@
+{
+  "runTime": 1732397825983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100030,
+        "num": 176004,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56304,
+        "num": 56304,
+        "word": "黄圣依 死脑快想啊",
+        "onboard_time": 1732370601,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14384,
+        "num": 52502,
+        "word": "海南舰首次对公众开放",
+        "onboard_time": 1732366520,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 49712,
+        "num": 49712,
+        "word": "朝鲜警告美国及其追随国家",
+        "onboard_time": 1732391832,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45201,
+        "num": 45201,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 44433,
+        "num": 44433,
+        "word": "医生称用这3种卫生巾易引病上身",
+        "onboard_time": 1732364780,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40707,
+        "num": 40707,
+        "word": "我们小孩没做错任何事为什么会被炸",
+        "onboard_time": 1732393211,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27288,
+        "num": 37518,
+        "word": "抗癌博主湘妹子去世瘦成皮包骨",
+        "onboard_time": 1732377739,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36375,
+        "num": 36375,
+        "word": "普京称目前没有拦截榛树导弹的技术",
+        "onboard_time": 1732386552,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10302,
+        "num": 35503,
+        "word": "潮州回应网传商铺因逃避检查关门",
+        "onboard_time": 1732393031,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36770,
+        "num": 35460,
+        "word": "哈尔滨中央大街铺上地毯了",
+        "onboard_time": 1732378279,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 35417,
+        "num": 35417,
+        "word": "做一次CT收了三次的钱",
+        "onboard_time": 1732395612,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34726,
+        "num": 34726,
+        "word": "这一次寒潮有两大特点",
+        "onboard_time": 1732384393,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 32751,
+        "num": 32751,
+        "word": "吴柳芳涨粉",
+        "onboard_time": 1732379117,
+        "rank": 13,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 32104,
+        "num": 32104,
+        "word": "鹿晗眉钉",
+        "onboard_time": 1732364841,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31251,
+        "num": 31251,
+        "word": "保时捷回应货拉拉纠纷事件",
+        "onboard_time": 1732377679,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30492,
+        "num": 30492,
+        "word": "乔欣无名指戒指",
+        "onboard_time": 1732377379,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27631,
+        "num": 27631,
+        "word": "宋慧乔43岁生日照",
+        "onboard_time": 1732385893,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27186,
+        "num": 27186,
+        "word": "官方回应潮州大量商户关门传闻",
+        "onboard_time": 1732373062,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 22878,
+        "num": 25997,
+        "word": "鹿晗说马上要开四巡了",
+        "onboard_time": 1732372582,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41900,
+        "num": 25954,
+        "word": "独生女婚后全款给父母买房难要回",
+        "onboard_time": 1732369941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25874,
+        "num": 25874,
+        "word": "网友喊话旺仔千万别塌",
+        "onboard_time": 1732394420,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24251,
+        "num": 24251,
+        "word": "鞠婧祎身上有两只蝴蝶",
+        "onboard_time": 1732376480,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22527,
+        "num": 22527,
+        "word": "特朗普或动用军事力量驱逐非法移民",
+        "onboard_time": 1732394831,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21776,
+        "num": 21776,
+        "word": "林更新 本来挺开心的你给整下头了",
+        "onboard_time": 1732363400,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21077,
+        "num": 21077,
+        "word": "菲副总统自爆如被害就找马科斯算账",
+        "onboard_time": 1732367601,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20226,
+        "num": 20226,
+        "word": "马斯克个人财富暴增超6000亿元",
+        "onboard_time": 1732369040,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17839,
+        "num": 19672,
+        "word": "鹿晗 野玫瑰",
+        "onboard_time": 1732368560,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17360,
+        "num": 19528,
+        "word": "权志龙我会强势回归",
+        "onboard_time": 1732388652,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15319,
+        "num": 19510,
+        "word": "秦霄贤纲丝节主持",
+        "onboard_time": 1732366520,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19497,
+        "num": 19497,
+        "word": "双城之战",
+        "onboard_time": 1732371862,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19278,
+        "num": 19278,
+        "word": "偶遇黄圣依杨子飞新加坡",
+        "onboard_time": 1732372763,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19161,
+        "num": 19161,
+        "word": "你的身份证快到期了吗",
+        "onboard_time": 1732379479,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17414,
+        "num": 17414,
+        "word": "感冒都好了为什么还一直咳嗽",
+        "onboard_time": 1732376121,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17365,
+        "num": 17365,
+        "word": "医生谈医用卫生巾爆火",
+        "onboard_time": 1732376720,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17004,
+        "num": 17364,
+        "word": "睡眠不足身体会出现什么变化",
+        "onboard_time": 1732367360,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16378,
+        "num": 17364,
+        "word": "学霸曝光特训学校黑暗内幕",
+        "onboard_time": 1732371141,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16007,
+        "num": 17363,
+        "word": "滨州一小区烟花爆炸致1死",
+        "onboard_time": 1732395131,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 15923,
+        "num": 17361,
+        "word": "身份证陆续期满换证攻略",
+        "onboard_time": 1732383374,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15284,
+        "num": 17360,
+        "word": "曾刷屏的航母style仍激荡人心",
+        "onboard_time": 1732377260,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15228,
+        "num": 17360,
+        "word": "王楚钦张本智和争冠",
+        "onboard_time": 1732359622,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14872,
+        "num": 17358,
+        "word": "对重大恶性犯罪依法从严从重惩处",
+        "onboard_time": 1732390632,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14861,
+        "num": 17358,
+        "word": "BIGBANG合体",
+        "onboard_time": 1732348459,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14718,
+        "num": 17357,
+        "word": "雨雪降温大风一起来了",
+        "onboard_time": 1732396031,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14605,
+        "num": 17355,
+        "word": "暴力抗法违规渔船17名嫌疑人被抓",
+        "onboard_time": 1732388172,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14323,
+        "num": 17354,
+        "word": "丁禹兮超话热度爆了",
+        "onboard_time": 1732372101,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14025,
+        "num": 17354,
+        "word": "陶喆 我的花店生意太过火爆",
+        "onboard_time": 1732393751,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13530,
+        "num": 17353,
+        "word": "奔跑吧",
+        "onboard_time": 1732365741,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12748,
+        "num": 17352,
+        "word": "榛树中程高超音速导弹",
+        "onboard_time": 1732396452,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12566,
+        "num": 17351,
+        "word": "双城之战 烂尾",
+        "onboard_time": 1732362979,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}
