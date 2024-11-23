@@ -1,0 +1,410 @@
+{
+  "runTime": 1732339292791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251100,
+        "num": 1251100,
+        "word": "丁禹兮 有驾照版",
+        "onboard_time": 1732335917,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1098392,
+        "num": 1098392,
+        "word": "清华回应晒旅游照贫困生被保研",
+        "onboard_time": 1732334477,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 35294,
+        "num": 1032931,
+        "word": "世界需要多些合作桥梁少点小院高墙",
+        "onboard_time": 1732335618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1013995,
+        "num": 1013995,
+        "word": "李行亮下期要跟麦琳求婚",
+        "onboard_time": 1732331718,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625955,
+        "num": 625955,
+        "word": "旺旺三公子称明显有人在搞事",
+        "onboard_time": 1732330277,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 458303,
+        "num": 458303,
+        "word": "新疆一摄像头拍下雪崩过程",
+        "onboard_time": 1732333697,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658128,
+        "num": 451932,
+        "word": "因果报应 女性受害者就该这样拍",
+        "onboard_time": 1732333397,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407908,
+        "num": 407908,
+        "word": "川航3U3859已安全到达",
+        "onboard_time": 1732320017,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394199,
+        "num": 394199,
+        "word": "女游客跟团徒步时坠崖身亡",
+        "onboard_time": 1732329378,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 136034,
+        "num": 393301,
+        "word": "梁朝伟获荣誉博士",
+        "onboard_time": 1732338498,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571203,
+        "num": 380264,
+        "word": "好东西 虎扑",
+        "onboard_time": 1732337597,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 570287,
+        "num": 368239,
+        "word": "老人领喜糖跌倒去世家属索赔新人",
+        "onboard_time": 1732332618,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430303,
+        "num": 359136,
+        "word": "赵露思发红包",
+        "onboard_time": 1732335618,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354168,
+        "num": 354168,
+        "word": "7家医院被国家医保局通报",
+        "onboard_time": 1732331177,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 40663,
+        "num": 345630,
+        "word": "官方通报男子带孩子欲跳海",
+        "onboard_time": 1732334418,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344699,
+        "num": 344699,
+        "word": "霍建华林心如观看女儿演出",
+        "onboard_time": 1732333339,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258336,
+        "num": 258336,
+        "word": "贫困生一年旅游20多地引争议",
+        "onboard_time": 1732331777,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 240075,
+        "num": 240075,
+        "word": "旺旺集团称生产线审查没有异常",
+        "onboard_time": 1732331956,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52898,
+        "num": 240051,
+        "word": "马铃薯 配角",
+        "onboard_time": 1732336037,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 46560,
+        "num": 239946,
+        "word": "张本说林诗栋很强要好好准备",
+        "onboard_time": 1732338798,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307107,
+        "num": 239849,
+        "word": "沙溢一年减重36斤",
+        "onboard_time": 1732336159,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302508,
+        "num": 239789,
+        "word": "李庚希魏大勋的吻戏",
+        "onboard_time": 1732335498,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286035,
+        "num": 239736,
+        "word": "丈夫出轨同学后保证再犯赔10万",
+        "onboard_time": 1732331718,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239674,
+        "num": 239674,
+        "word": "权志龙点赞苏新皓",
+        "onboard_time": 1732317974,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138833,
+        "num": 231257,
+        "word": "OBGG显示Gala加入iG",
+        "onboard_time": 1732337477,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229103,
+        "num": 229103,
+        "word": "我是刑警定档",
+        "onboard_time": 1732332558,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198019,
+        "num": 198019,
+        "word": "遭家暴16次挂粪袋女子重做伤残鉴定",
+        "onboard_time": 1732330637,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194884,
+        "num": 194884,
+        "word": "虞书欣说自己是从负一点点扳正的",
+        "onboard_time": 1732336697,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186128,
+        "num": 186128,
+        "word": "第一视角看雪崩50秒吞没山谷",
+        "onboard_time": 1732336697,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137538,
+        "num": 185322,
+        "word": "闫妮小巷人家演技",
+        "onboard_time": 1732338138,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185278,
+        "num": 185278,
+        "word": "陈奕恒穿时代少年团应援服",
+        "onboard_time": 1732332618,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174517,
+        "num": 174517,
+        "word": "7家医院涉违法违规金额共计近9000万",
+        "onboard_time": 1732338978,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 172637,
+        "num": 172637,
+        "word": "旺旺发布声明函",
+        "onboard_time": 1732327337,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164662,
+        "num": 164662,
+        "word": "麦琳 先天带货圣体",
+        "onboard_time": 1732328057,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164484,
+        "num": 164484,
+        "word": "樊振东棒球手的一天",
+        "onboard_time": 1732337897,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162612,
+        "num": 162612,
+        "word": "还有朋友圈全部开放的人吗",
+        "onboard_time": 1732331777,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159147,
+        "num": 159147,
+        "word": "卫生巾塌房用什么才安全",
+        "onboard_time": 1732274720,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151203,
+        "num": 151203,
+        "word": "papi酱 杨子一个字都不会做到的",
+        "onboard_time": 1732326857,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151165,
+        "num": 151165,
+        "word": "律师解读旺仔被曝疑似喝出老鼠",
+        "onboard_time": 1732323738,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145757,
+        "num": 145757,
+        "word": "TFING音乐节彩排",
+        "onboard_time": 1732337838,
+        "rank": 39,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 133447,
+        "num": 133447,
+        "word": "以后男主名字禁止叫远舟",
+        "onboard_time": 1732318635,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133159,
+        "num": 133159,
+        "word": "市监部门回应旺仔牛奶事件",
+        "onboard_time": 1732336758,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127195,
+        "num": 127195,
+        "word": "小伙天生会扭脖子意外发现身世",
+        "onboard_time": 1732318575,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122890,
+        "num": 122890,
+        "word": "鹿晗把老舅的rap也唱了",
+        "onboard_time": 1732337357,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116648,
+        "num": 116648,
+        "word": "捐赠日本侵华罪行相册的美国小伙声明",
+        "onboard_time": 1732326318,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104424,
+        "num": 104424,
+        "word": "丁禹兮背虞书欣vs昼川背初礼",
+        "onboard_time": 1732334477,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104260,
+        "num": 104260,
+        "word": "奔跑吧今日首播",
+        "onboard_time": 1732336758,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98692,
+        "num": 98692,
+        "word": "美国坚称不寻求与俄罗斯开战",
+        "onboard_time": 1732338317,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97984,
+        "num": 97984,
+        "word": "再见爱人 李行亮不容许有离婚的选项",
+        "onboard_time": 1732318696,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97669,
+        "num": 97669,
+        "word": "句句不提内娱 句句在说内娱",
+        "onboard_time": 1732332257,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席妙喻引领开放合作#"
+    }
+  }
+}

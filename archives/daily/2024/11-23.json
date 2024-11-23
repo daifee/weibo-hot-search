@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732336910772,
+  "endTime": 1732339292791,
   "band_list": [
     {
       "raw_hot": 2158387,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1251100,
+      "num": 1251100,
+      "word": "丁禹兮 有驾照版",
+      "onboard_time": 1732335917,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1156264,
       "num": 1156264,
       "word": "再见爱人 李行亮不容许有离婚的选项",
@@ -35,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1041947,
-      "num": 1041947,
+      "raw_hot": 1098392,
+      "num": 1098392,
       "word": "清华回应晒旅游照贫困生被保研",
       "onboard_time": 1732334477,
       "rank": 3,
@@ -57,14 +65,6 @@
       "onboard_time": 1732326318,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 848835,
-      "num": 848835,
-      "word": "丁禹兮 有驾照版",
-      "onboard_time": 1732335917,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 840087,
@@ -97,6 +97,14 @@
       "onboard_time": 1732328057,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658128,
+      "num": 451932,
+      "word": "因果报应 女性受害者就该这样拍",
+      "onboard_time": 1732333397,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 653640,
@@ -153,6 +161,14 @@
       "onboard_time": 1732329378,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 571203,
+      "num": 380264,
+      "word": "好东西 虎扑",
+      "onboard_time": 1732337597,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 570441,
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307107,
+      "num": 239849,
+      "word": "沙溢一年减重36斤",
+      "onboard_time": 1732336159,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294436,
       "num": 294436,
       "word": "旺仔提出一赔十异物正在检测",
@@ -475,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 241727,
-      "num": 241727,
-      "word": "因果报应 女性受害者就该这样拍",
-      "onboard_time": 1732333397,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 235701,
       "num": 235701,
       "word": "好东西 亲密关系低成本试错",
@@ -523,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217616,
-      "num": 217616,
-      "word": "沙溢一年减重36斤",
-      "onboard_time": 1732336159,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215350,
       "num": 215350,
       "word": "林虞凌妙妙一人饰演是虞书欣争取的",
@@ -561,6 +569,14 @@
       "onboard_time": 1732319296,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194884,
+      "num": 194884,
+      "word": "虞书欣说自己是从负一点点扳正的",
+      "onboard_time": 1732336697,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192855,
@@ -603,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186128,
+      "num": 290386,
+      "word": "第一视角看雪崩50秒吞没山谷",
+      "onboard_time": 1732336697,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181179,
       "num": 181179,
       "word": "税务师查成绩",
@@ -635,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174517,
+      "num": 174517,
+      "word": "7家医院涉违法违规金额共计近9000万",
+      "onboard_time": 1732338978,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 171476,
       "num": 171476,
       "word": "旺仔事件",
       "onboard_time": 1732332077,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164484,
+      "num": 164484,
+      "word": "樊振东棒球手的一天",
+      "onboard_time": 1732337897,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 162132,
@@ -707,14 +747,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 148385,
-      "num": 123612,
-      "word": "虞书欣说自己是从负一点点扳正的",
-      "onboard_time": 1732336697,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 147331,
       "num": 243672,
       "word": "川航回应成都飞温哥华航班遇炸弹气旋",
@@ -737,6 +769,14 @@
       "onboard_time": 1732290738,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145757,
+      "num": 145757,
+      "word": "TFING音乐节彩排",
+      "onboard_time": 1732337838,
+      "rank": 39,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 144495,
@@ -763,6 +803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138833,
+      "num": 231257,
+      "word": "OBGG显示Gala加入iG",
+      "onboard_time": 1732337477,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138581,
       "num": 149804,
       "word": "虞书欣真心换真心",
@@ -787,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137538,
+      "num": 185322,
+      "word": "闫妮小巷人家演技",
+      "onboard_time": 1732338138,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136574,
       "num": 136574,
       "word": "女生酒店半裸遭男保洁刷卡闯入",
@@ -801,6 +857,22 @@
       "onboard_time": 1732291338,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136034,
+      "num": 393301,
+      "word": "梁朝伟获荣誉博士",
+      "onboard_time": 1732338498,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133159,
+      "num": 475380,
+      "word": "市监部门回应旺仔牛奶事件",
+      "onboard_time": 1732336758,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 133046,
@@ -875,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122890,
+      "num": 122890,
+      "word": "鹿晗把老舅的rap也唱了",
+      "onboard_time": 1732337357,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120880,
       "num": 120880,
       "word": "王楚钦说好久没进前四了",
@@ -921,14 +1001,6 @@
       "onboard_time": 1732295355,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112813,
-      "num": 290386,
-      "word": "第一视角看雪崩50秒吞没山谷",
-      "onboard_time": 1732336697,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110479,
@@ -993,6 +1065,14 @@
       "onboard_time": 1732308911,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98692,
+      "num": 98692,
+      "word": "美国坚称不寻求与俄罗斯开战",
+      "onboard_time": 1732338317,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98539,
@@ -1251,14 +1331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 56243,
-      "num": 475380,
-      "word": "市监部门回应旺仔牛奶事件",
-      "onboard_time": 1732336758,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 55914,
       "num": 55914,
       "word": "再见爱人",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1732316533,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52898,
+      "num": 244157,
+      "word": "马铃薯 配角",
+      "onboard_time": 1732336037,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 52706,
@@ -1307,14 +1387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47267,
-      "num": 244157,
-      "word": "马铃薯 配角",
-      "onboard_time": 1732336037,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 46918,
       "num": 80387,
       "word": "网传TES新赛季阵容",
@@ -1339,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46560,
+      "num": 239946,
+      "word": "张本说林诗栋很强要好好准备",
+      "onboard_time": 1732338798,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44878,
       "num": 44878,
       "word": "MAMA开场",
@@ -1360,6 +1440,14 @@
       "word": "华山回应拆除金锁关许愿锁",
       "onboard_time": 1732306331,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40663,
+      "num": 345630,
+      "word": "官方通报男子带孩子欲跳海",
+      "onboard_time": 1732334418,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1411,6 +1499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35294,
+      "num": 1141425,
+      "word": "世界需要多些合作桥梁少点小院高墙",
+      "onboard_time": 1732335618,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33649,
       "num": 93258,
       "word": "恋与制作人",
@@ -1441,14 +1537,6 @@
       "onboard_time": 1732291578,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28895,
-      "num": 1141425,
-      "word": "世界需要多些合作桥梁少点小院高墙",
-      "onboard_time": 1732335618,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28546,
