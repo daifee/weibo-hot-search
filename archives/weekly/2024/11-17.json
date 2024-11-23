@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732372722765,
+  "endTime": 1732375330551,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -329,6 +329,14 @@
       "onboard_time": 1732165525,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1973371,
+      "num": 1973371,
+      "word": "保时捷 货拉拉",
+      "onboard_time": 1732372161,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1961613,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1732194020,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1068108,
+      "num": 1068108,
+      "word": "黄圣依 死脑快想啊",
+      "onboard_time": 1732370601,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 1067319,
@@ -2507,14 +2523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 725823,
-      "num": 521584,
-      "word": "黄圣依 死脑快想啊",
-      "onboard_time": 1732370601,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 725747,
       "num": 725747,
       "word": "网友连卫生巾名字都帮雷军想好了",
@@ -2945,6 +2953,14 @@
       "onboard_time": 1732167619,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 661544,
+      "num": 661544,
+      "word": "学霸曝光特训学校黑暗内幕",
+      "onboard_time": 1732371141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 661239,
@@ -3907,6 +3923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534757,
+      "num": 470596,
+      "word": "丁禹兮超话热度爆了",
+      "onboard_time": 1732372101,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534054,
       "num": 534054,
       "word": "林诗栋vsA勒布伦",
@@ -4347,6 +4371,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 490426,
+      "num": 490426,
+      "word": "鹿晗说马上要开四巡了",
+      "onboard_time": 1732372582,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 488731,
       "num": 488731,
       "word": "泽连斯基称美国不能逼我们坐在谈判桌上",
@@ -4585,6 +4617,14 @@
       "onboard_time": 1732286721,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465473,
+      "num": 465473,
+      "word": "偶遇黄圣依杨子飞新加坡",
+      "onboard_time": 1732372763,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 465348,
@@ -5267,6 +5307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404331,
+      "num": 404331,
+      "word": "杨超越去了许嵩演唱会",
+      "onboard_time": 1732370781,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 404106,
       "num": 404106,
       "word": "硬核版炸火花来啦",
@@ -5819,14 +5867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 359615,
-      "num": 359615,
-      "word": "保时捷 货拉拉",
-      "onboard_time": 1732372161,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 359490,
       "num": 292512,
       "word": "女儿靠手指辨认遭以军袭击身亡的父亲遗体",
@@ -6097,14 +6137,6 @@
       "onboard_time": 1732260079,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 338489,
-      "num": 338489,
-      "word": "杨超越去了许嵩演唱会",
-      "onboard_time": 1732370781,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 338457,
@@ -6667,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303545,
+      "num": 303545,
+      "word": "勒布伦兄弟男双夺冠",
+      "onboard_time": 1732370660,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303319,
       "num": 424954,
       "word": "朴彩英二单",
@@ -7187,6 +7227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280023,
+      "num": 472383,
+      "word": "感冒后咳嗽是身体在大扫除",
+      "onboard_time": 1732371621,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 279878,
       "num": 279878,
       "word": "XLB曝Doinb聊天截图",
@@ -7555,14 +7603,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 266498,
-      "num": 345041,
-      "word": "丁禹兮超话热度爆了",
-      "onboard_time": 1732372101,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266405,
       "num": 266405,
       "word": "TFING道歉声明",
@@ -7787,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258567,
+      "num": 258567,
+      "word": "马嘉祺一周年vs五周年",
+      "onboard_time": 1732373782,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 258079,
       "num": 332987,
       "word": "珠帘玉幕导演追求真实摒弃古偶",
@@ -7809,14 +7857,6 @@
       "onboard_time": 1732139771,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 257261,
-      "num": 257261,
-      "word": "勒布伦兄弟男双夺冠",
-      "onboard_time": 1732370660,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 257196,
@@ -7961,6 +8001,14 @@
       "onboard_time": 1732023683,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251004,
+      "num": 251004,
+      "word": "戏年",
+      "onboard_time": 1732373182,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 250985,
@@ -10267,6 +10315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201034,
+      "num": 201034,
+      "word": "时代少年团VCR",
+      "onboard_time": 1732374621,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200988,
       "num": 475287,
       "word": "王昶我们知道自己在干什么",
@@ -11675,6 +11731,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 184925,
+      "num": 184925,
+      "word": "官方回应潮州大量商户关门传闻",
+      "onboard_time": 1732373062,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 184821,
       "num": 488632,
       "word": "律师解读济宁一女孩从商场四楼坠亡",
@@ -12083,14 +12147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 180605,
-      "num": 180605,
-      "word": "感冒后咳嗽是身体在大扫除",
-      "onboard_time": 1732371621,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 180546,
       "num": 180546,
       "word": "田柾国年度最佳男艺人",
@@ -12409,14 +12465,6 @@
       "onboard_time": 1731807920,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 175874,
-      "num": 175874,
-      "word": "鹿晗说马上要开四巡了",
-      "onboard_time": 1732372582,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 175843,
@@ -13187,6 +13235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166004,
+      "num": 166004,
+      "word": "全校通报安可",
+      "onboard_time": 1732373661,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165996,
       "num": 165996,
       "word": "王一栩还我妈生八个机位的吻戏",
@@ -13617,6 +13673,14 @@
       "onboard_time": 1731979940,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160201,
+      "num": 160201,
+      "word": "范丞丞是跑男特别季的花字",
+      "onboard_time": 1732374560,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 160199,
@@ -14659,14 +14723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147993,
-      "num": 530162,
-      "word": "学霸曝光特训学校黑暗内幕",
-      "onboard_time": 1732371141,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147927,
       "num": 147927,
       "word": "阿根廷vs秘鲁",
@@ -15505,6 +15561,14 @@
       "onboard_time": 1731774499,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138840,
+      "num": 138840,
+      "word": "许光汉吴君如借位接吻",
+      "onboard_time": 1732374860,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 138833,
@@ -17083,12 +17147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116038,
+      "num": 116038,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1732218672,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115995,
       "num": 115995,
       "word": "官方回应女子跪地自述抽脂险丧命",
       "onboard_time": 1732325718,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115790,
+      "num": 115790,
+      "word": "莱斯特城1比2切尔西",
+      "onboard_time": 1732374201,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 115652,
@@ -17252,7 +17332,7 @@
     },
     {
       "raw_hot": 112521,
-      "num": 151395,
+      "num": 267121,
       "word": "王一博嘉人周年刊",
       "onboard_time": 1732144515,
       "rank": 8,
@@ -18451,6 +18531,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91585,
+      "num": 303029,
+      "word": "邓亚萍总结总决赛双打决赛",
+      "onboard_time": 1732374502,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91544,
+      "num": 211693,
+      "word": "王鹤棣给朋友送新婚祝福",
+      "onboard_time": 1732374621,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91065,
       "num": 335148,
       "word": "五问黑龙江老虎进村伤人",
@@ -19441,6 +19537,14 @@
       "onboard_time": 1732278019,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74464,
+      "num": 260814,
+      "word": "Peyz被曝加入JDG",
+      "onboard_time": 1732374201,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 74280,
@@ -21923,14 +22027,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 41729,
-      "num": 41729,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1732218672,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 41547,
       "num": 41547,
       "word": "华山回应拆除金锁关许愿锁",
@@ -22476,7 +22572,7 @@
     },
     {
       "raw_hot": 37354,
-      "num": 823653,
+      "num": 961295,
       "word": "当600多岁的长城遇到同龄昆曲",
       "onboard_time": 1732369040,
       "rank": 2,
@@ -23001,6 +23097,14 @@
       "onboard_time": 1732353799,
       "rank": 27,
       "category": "军事"
+    },
+    {
+      "raw_hot": 32723,
+      "num": 411493,
+      "word": "离婚以后还能和前任做朋友吗",
+      "onboard_time": 1732374261,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 32580,

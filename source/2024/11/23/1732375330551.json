@@ -1,0 +1,410 @@
+{
+  "runTime": 1732375330551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1973371,
+        "num": 1973371,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1068108,
+        "num": 1068108,
+        "word": "黄圣依 死脑快想啊",
+        "onboard_time": 1732370601,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28409,
+        "num": 961295,
+        "word": "当600多岁的长城遇到同龄昆曲",
+        "onboard_time": 1732369040,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 907885,
+        "num": 907885,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 3,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 661544,
+        "num": 661544,
+        "word": "学霸曝光特训学校黑暗内幕",
+        "onboard_time": 1732371141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660099,
+        "num": 660099,
+        "word": "医生称用这3种卫生巾易引病上身",
+        "onboard_time": 1732364780,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 575280,
+        "num": 575280,
+        "word": "鹿晗 野玫瑰",
+        "onboard_time": 1732368560,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 505726,
+        "num": 505726,
+        "word": "2024KPOP最伟大的14分钟",
+        "onboard_time": 1732363820,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490426,
+        "num": 490426,
+        "word": "鹿晗说马上要开四巡了",
+        "onboard_time": 1732372582,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280023,
+        "num": 472383,
+        "word": "感冒后咳嗽是身体在大扫除",
+        "onboard_time": 1732371621,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 534757,
+        "num": 470596,
+        "word": "丁禹兮超话热度爆了",
+        "onboard_time": 1732372101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465473,
+        "num": 465473,
+        "word": "偶遇黄圣依杨子飞新加坡",
+        "onboard_time": 1732372763,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435702,
+        "num": 435702,
+        "word": "王楚钦张本智和争冠",
+        "onboard_time": 1732359622,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1031691,
+        "num": 425750,
+        "word": "鹿晗眉钉",
+        "onboard_time": 1732364841,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32723,
+        "num": 411493,
+        "word": "离婚以后还能和前任做朋友吗",
+        "onboard_time": 1732374261,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 404331,
+        "num": 404331,
+        "word": "杨超越去了许嵩演唱会",
+        "onboard_time": 1732370781,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371541,
+        "num": 371541,
+        "word": "难听",
+        "onboard_time": 1732350738,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310316,
+        "num": 310316,
+        "word": "林更新 本来挺开心的你给整下头了",
+        "onboard_time": 1732363400,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303545,
+        "num": 303545,
+        "word": "勒布伦兄弟男双夺冠",
+        "onboard_time": 1732370660,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91585,
+        "num": 303029,
+        "word": "邓亚萍总结总决赛双打决赛",
+        "onboard_time": 1732374502,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616749,
+        "num": 291508,
+        "word": "独生女婚后全款给父母买房难要回",
+        "onboard_time": 1732369941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440307,
+        "num": 278426,
+        "word": "马斯克个人财富暴增超6000亿元",
+        "onboard_time": 1732369040,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111319,
+        "num": 267121,
+        "word": "王一博嘉人周年刊",
+        "onboard_time": 1732373062,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265894,
+        "num": 265894,
+        "word": "BIGBANG合体",
+        "onboard_time": 1732348459,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74464,
+        "num": 260814,
+        "word": "Peyz被曝加入JDG",
+        "onboard_time": 1732374201,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258567,
+        "num": 258567,
+        "word": "马嘉祺一周年vs五周年",
+        "onboard_time": 1732373782,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251004,
+        "num": 251004,
+        "word": "戏年",
+        "onboard_time": 1732373182,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227333,
+        "num": 227333,
+        "word": "好东西",
+        "onboard_time": 1732339998,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91544,
+        "num": 211693,
+        "word": "王鹤棣给朋友送新婚祝福",
+        "onboard_time": 1732374621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209406,
+        "num": 209406,
+        "word": "菲副总统自爆如被害就找马科斯算账",
+        "onboard_time": 1732367601,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 715486,
+        "num": 207968,
+        "word": "金马奖将追赠郑佩佩终身成就奖",
+        "onboard_time": 1732372101,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201034,
+        "num": 201034,
+        "word": "时代少年团VCR",
+        "onboard_time": 1732374621,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195602,
+        "num": 195602,
+        "word": "睡眠不足身体会出现什么变化",
+        "onboard_time": 1732367360,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191731,
+        "num": 191731,
+        "word": "杨子口型",
+        "onboard_time": 1732356800,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184925,
+        "num": 184925,
+        "word": "官方回应潮州大量商户关门传闻",
+        "onboard_time": 1732373062,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 177382,
+        "num": 177382,
+        "word": "TFING道歉声明",
+        "onboard_time": 1732367421,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172866,
+        "num": 172866,
+        "word": "妇幼医生多看一眼救了一个家庭",
+        "onboard_time": 1732358000,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 170267,
+        "num": 170267,
+        "word": "秦霄贤纲丝节主持",
+        "onboard_time": 1732366520,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169581,
+        "num": 169581,
+        "word": "王楚钦拿下比赛怒吼",
+        "onboard_time": 1732362621,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166004,
+        "num": 166004,
+        "word": "全校通报安可",
+        "onboard_time": 1732373661,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165630,
+        "num": 165630,
+        "word": "时代少年团复刻出道战舞台",
+        "onboard_time": 1732369340,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160201,
+        "num": 160201,
+        "word": "范丞丞是跑男特别季的花字",
+        "onboard_time": 1732374560,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159323,
+        "num": 159323,
+        "word": "宋亚轩 小怪兽",
+        "onboard_time": 1732363039,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143616,
+        "num": 143616,
+        "word": "马嘉祺白西装飘纱",
+        "onboard_time": 1732367901,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138840,
+        "num": 138840,
+        "word": "许光汉吴君如借位接吻",
+        "onboard_time": 1732374860,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134942,
+        "num": 134942,
+        "word": "王楚钦与张本智和11次交手8次获胜",
+        "onboard_time": 1732370601,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126038,
+        "num": 126038,
+        "word": "林一发长文告别失笑",
+        "onboard_time": 1732371982,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116038,
+        "num": 116038,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1732374141,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115790,
+        "num": 115790,
+        "word": "莱斯特城1比2切尔西",
+        "onboard_time": 1732374201,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114424,
+        "num": 114424,
+        "word": "鹿晗脸颊比心",
+        "onboard_time": 1732368260,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}
