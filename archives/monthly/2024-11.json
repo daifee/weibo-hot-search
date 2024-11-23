@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732366607767,
+  "endTime": 1732368437813,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -7699,6 +7699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 769713,
+      "num": 497537,
+      "word": "林更新 本来挺开心的你给整下头了",
+      "onboard_time": 1732363400,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 769361,
       "num": 629518,
       "word": "95四小花",
@@ -7903,14 +7911,6 @@
       "num": 414942,
       "word": "杨颖空降超话发文想念大家",
       "onboard_time": 1731458240,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 755169,
-      "num": 497537,
-      "word": "林更新 本来挺开心的你给整下头了",
-      "onboard_time": 1732363400,
       "rank": 11,
       "category": "艺人"
     },
@@ -8577,6 +8577,14 @@
       "onboard_time": 1732022782,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 719354,
+      "num": 719354,
+      "word": "医生称用这3种卫生巾易引病上身",
+      "onboard_time": 1732364780,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 719259,
@@ -10025,6 +10033,14 @@
       "onboard_time": 1731318619,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642530,
+      "num": 642530,
+      "word": "2024KPOP最伟大的14分钟",
+      "onboard_time": 1732363820,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 642516,
@@ -12027,14 +12043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557403,
-      "num": 557403,
-      "word": "2024KPOP最伟大的14分钟",
-      "onboard_time": 1732363820,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 557096,
       "num": 557096,
       "word": "正午阳光 流量",
@@ -13611,6 +13619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 506398,
+      "num": 335993,
+      "word": "秦霄贤纲丝节主持",
+      "onboard_time": 1732366520,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506363,
       "num": 387131,
       "word": "哈尔滨中央大街冰糖葫芦男神爆火",
@@ -14857,6 +14873,14 @@
       "onboard_time": 1731747620,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 464653,
+      "num": 554634,
+      "word": "110差点不叫110",
+      "onboard_time": 1732365140,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464477,
@@ -18355,14 +18379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373382,
-      "num": 373382,
-      "word": "医生称用这3种卫生巾易引病上身",
-      "onboard_time": 1732364780,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 373097,
       "num": 396752,
       "word": "国足vs日本首发",
@@ -21027,14 +21043,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 314005,
-      "num": 554634,
-      "word": "110差点不叫110",
-      "onboard_time": 1732365140,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313914,
       "num": 313914,
       "word": "女子网购猕猴桃放20天皮皱了也没熟",
@@ -23667,6 +23675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272985,
+      "num": 272985,
+      "word": "菲副总统自爆如被害就找马科斯算账",
+      "onboard_time": 1732367601,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 272939,
       "num": 383177,
       "word": "国足离小组第2仅差3分",
@@ -24699,6 +24715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 259896,
+      "num": 259896,
+      "word": "旺旺再回应牛奶喝出异物",
+      "onboard_time": 1732364060,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 259888,
       "num": 259888,
       "word": "关晓彤王安宇CP感",
@@ -25051,6 +25075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255230,
+      "num": 255230,
+      "word": "马嘉祺白西装飘纱",
+      "onboard_time": 1732367901,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255218,
       "num": 255218,
       "word": "惠英红 中式吸血鬼",
@@ -25241,6 +25273,14 @@
       "onboard_time": 1731071061,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253634,
+      "num": 205824,
+      "word": "山东旺旺食品称异物初步判断不是老鼠",
+      "onboard_time": 1732366160,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 253459,
@@ -29691,14 +29731,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 211553,
-      "num": 211553,
-      "word": "旺旺再回应牛奶喝出异物",
-      "onboard_time": 1732364060,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 211546,
       "num": 331325,
       "word": "天狼星由我们AG亲手熄灭",
@@ -29843,6 +29875,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 210955,
+      "num": 210955,
+      "word": "好东西男性角色 男演员不愿意演",
+      "onboard_time": 1732362738,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210896,
       "num": 245205,
       "word": "BIGBANG将合体",
@@ -29945,6 +29985,14 @@
       "onboard_time": 1730772680,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210371,
+      "num": 210371,
+      "word": "鹿晗音乐节大屏",
+      "onboard_time": 1732368260,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 210178,
@@ -30417,6 +30465,14 @@
       "onboard_time": 1731477081,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207622,
+      "num": 202286,
+      "word": "丁程鑫solo最后一幕",
+      "onboard_time": 1732367241,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 207617,
@@ -32123,6 +32179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200452,
+      "num": 200452,
+      "word": "赫哲族大姐用几十条鱼做成鱼皮衣",
+      "onboard_time": 1732368141,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200447,
       "num": 252631,
       "word": "斗罗大陆之燃魂战定档",
@@ -33801,6 +33865,14 @@
       "onboard_time": 1730949920,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193924,
+      "num": 193924,
+      "word": "周震南 第一名是命",
+      "onboard_time": 1732367780,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 193900,
@@ -35795,6 +35867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186246,
+      "num": 186246,
+      "word": "鹿晗脸颊比心",
+      "onboard_time": 1732368260,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186233,
       "num": 186233,
       "word": "女子产后出院被老公套袋抬回家",
@@ -35987,14 +36067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185224,
-      "num": 185224,
-      "word": "秦霄贤纲丝节主持",
-      "onboard_time": 1732366520,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185204,
       "num": 269459,
       "word": "中国人爆改沙漠有亿点惊艳",
@@ -36041,6 +36113,14 @@
       "onboard_time": 1731579141,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185016,
+      "num": 185016,
+      "word": "TFING道歉声明",
+      "onboard_time": 1732367421,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 185005,
@@ -36129,14 +36209,6 @@
       "onboard_time": 1732164741,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184748,
-      "num": 184748,
-      "word": "好东西男性角色 男演员不愿意演",
-      "onboard_time": 1732362738,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 184687,
@@ -36579,6 +36651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182773,
+      "num": 182773,
+      "word": "严浩翔ending这一幕",
+      "onboard_time": 1732367000,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182635,
       "num": 182635,
       "word": "ksg剧透",
@@ -36609,6 +36689,14 @@
       "onboard_time": 1731749179,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182541,
+      "num": 182541,
+      "word": "好东西票房破亿",
+      "onboard_time": 1732368082,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 182538,
@@ -38433,6 +38521,14 @@
       "onboard_time": 1730870663,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174588,
+      "num": 183472,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1732367180,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 174585,
@@ -40643,14 +40739,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 165535,
-      "num": 165535,
-      "word": "山东旺旺食品称异物初步判断不是老鼠",
-      "onboard_time": 1732366160,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 165450,
       "num": 165450,
       "word": "KPL",
@@ -41065,6 +41153,14 @@
       "onboard_time": 1731760699,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164133,
+      "num": 310781,
+      "word": "林孝埈 只为奥运",
+      "onboard_time": 1732368320,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 164114,
@@ -42347,6 +42443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159189,
+      "num": 159189,
+      "word": "王楚钦海底捞月",
+      "onboard_time": 1732366881,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159185,
       "num": 227189,
       "word": "刘德华郑秀文同框",
@@ -43137,6 +43241,14 @@
       "onboard_time": 1731162860,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156395,
+      "num": 156395,
+      "word": "睡眠不足身体会出现什么变化",
+      "onboard_time": 1732367360,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156393,
@@ -50987,6 +51099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125242,
+      "num": 205995,
+      "word": "张本智和回应战胜林诗栋",
+      "onboard_time": 1732367241,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125216,
       "num": 125216,
       "word": "上海爷叔爱在深秋账号被封",
@@ -55371,6 +55491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104440,
+      "num": 310931,
+      "word": "丁禹兮后援会确认重组",
+      "onboard_time": 1732367780,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104434,
       "num": 104434,
       "word": "2025年江苏共编制9504个录用计划",
@@ -58475,6 +58603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84333,
+      "num": 752824,
+      "word": "海南舰首次对公众开放",
+      "onboard_time": 1732366520,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 84291,
       "num": 659779,
       "word": "野猪肇事频发什么原因",
@@ -58697,6 +58833,14 @@
       "onboard_time": 1731495801,
       "rank": 9,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 83097,
+      "num": 261227,
+      "word": "王楚钦回应战胜约奇克",
+      "onboard_time": 1732366702,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 83075,
@@ -60985,6 +61129,14 @@
       "onboard_time": 1731193272,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67983,
+      "num": 339718,
+      "word": "杨子认为父爱缺失是对孩子的挫折教育",
+      "onboard_time": 1732367000,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 67969,
@@ -65003,14 +65155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49808,
-      "num": 752824,
-      "word": "海南舰首次对公众开放",
-      "onboard_time": 1732366520,
-      "rank": 2,
-      "category": "军事"
-    },
-    {
       "raw_hot": 49760,
       "num": 395822,
       "word": "约奇克感觉林高远有点紧张",
@@ -66897,6 +67041,14 @@
       "onboard_time": 1730714719,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41879,
+      "num": 604213,
+      "word": "第十二届全国少数民族传统体育运动会",
+      "onboard_time": 1732366520,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41864,
@@ -71761,14 +71913,6 @@
       "onboard_time": 1730914813,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28087,
-      "num": 544627,
-      "word": "第十二届全国少数民族传统体育运动会",
-      "onboard_time": 1732366520,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28066,
