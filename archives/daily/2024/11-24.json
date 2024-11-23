@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732394257160,
+  "endTime": 1732396903752,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -411,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80879,
+      "num": 80879,
+      "word": "我们小孩没做错任何事为什么会被炸",
+      "onboard_time": 1732393211,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80753,
       "num": 80753,
       "word": "TFING道歉声明",
@@ -475,8 +483,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52276,
-      "num": 52276,
+      "raw_hot": 53804,
+      "num": 53804,
       "word": "朝鲜警告美国及其追随国家",
       "onboard_time": 1732391832,
       "rank": 7,
@@ -529,6 +537,14 @@
       "onboard_time": 1732385593,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29157,
+      "num": 29157,
+      "word": "网友喊话旺仔千万别塌",
+      "onboard_time": 1732394420,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 29034,
@@ -611,6 +627,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21298,
+      "num": 34059,
+      "word": "做一次CT收了三次的钱",
+      "onboard_time": 1732395612,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21267,
+      "num": 21267,
+      "word": "特朗普或动用军事力量驱逐非法移民",
+      "onboard_time": 1732394831,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21058,
       "num": 743641,
       "word": "当600多岁的长城遇到同龄昆曲",
@@ -635,12 +667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17040,
-      "num": 41165,
-      "word": "我们小孩没做错任何事为什么会被炸",
-      "onboard_time": 1732393211,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 15843,
+      "num": 19843,
+      "word": "滨州一小区烟花爆炸致1死",
+      "onboard_time": 1732395131,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 14447,
@@ -651,12 +683,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13235,
+      "raw_hot": 13595,
       "num": 20582,
       "word": "陶喆 我的花店生意太过火爆",
       "onboard_time": 1732393751,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13463,
+      "num": 19840,
+      "word": "雨雪降温大风一起来了",
+      "onboard_time": 1732396031,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12925,
@@ -665,6 +705,14 @@
       "onboard_time": 1732365741,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12189,
+      "num": 19839,
+      "word": "榛树中程高超音速导弹",
+      "onboard_time": 1732396452,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12032,
