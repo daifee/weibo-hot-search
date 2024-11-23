@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732350444703,
+  "endTime": 1732351332469,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -553,6 +553,14 @@
       "onboard_time": 1731844039,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1443522,
+      "num": 1443522,
+      "word": "麦琳要用吃剩的熏鸡骨头煲汤",
+      "onboard_time": 1732349718,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1424356,
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 1060270,
-      "num": 586786,
+      "num": 729125,
       "word": "管晨辰 吴柳芳",
       "onboard_time": 1732340897,
       "rank": 10,
@@ -1689,6 +1697,14 @@
       "onboard_time": 1732100120,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 850366,
+      "num": 629425,
+      "word": "人类对内衣的开发不足1%",
+      "onboard_time": 1732350139,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 849419,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1731836957,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 732502,
-      "num": 637884,
-      "word": "麦琳要用吃剩的熏鸡骨头煲汤",
-      "onboard_time": 1732349718,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 729211,
@@ -3017,14 +3025,6 @@
       "onboard_time": 1731894257,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 629425,
-      "num": 629425,
-      "word": "人类对内衣的开发不足1%",
-      "onboard_time": 1732350139,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 628616,
@@ -5547,6 +5547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356201,
+      "num": 356201,
+      "word": "难听",
+      "onboard_time": 1732350738,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355803,
       "num": 268817,
       "word": "被家暴16次女子希望男方定罪故意杀人",
@@ -6339,6 +6347,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 301853,
+      "num": 666410,
+      "word": "王曼昱4比3进决赛",
+      "onboard_time": 1732349480,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301594,
       "num": 301594,
       "word": "王楚钦状态",
@@ -6369,6 +6385,14 @@
       "onboard_time": 1732115480,
       "rank": 31,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 299869,
+      "num": 299869,
+      "word": "田小娟rap歌词提徐穗珍",
+      "onboard_time": 1732350859,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 299726,
@@ -6456,6 +6480,14 @@
       "word": "永夜星河NPC越狱",
       "onboard_time": 1731904821,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294606,
+      "num": 294606,
+      "word": "丁禹兮进组南部档案",
+      "onboard_time": 1732350738,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -6899,6 +6931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274569,
+      "num": 631763,
+      "word": "浙大贫困生旅游做书面检查",
+      "onboard_time": 1732348878,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 274231,
       "num": 274231,
       "word": "华为享界正式起诉自媒体袁启聪",
@@ -7329,14 +7369,6 @@
       "onboard_time": 1732139771,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 257252,
-      "num": 631763,
-      "word": "浙大贫困生旅游做书面检查",
-      "onboard_time": 1732348878,
-      "rank": 12,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257196,
@@ -8707,6 +8739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214720,
+      "num": 214720,
+      "word": "权志龙太阳大声MAMA舞台",
+      "onboard_time": 1732350499,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214363,
       "num": 214363,
       "word": "女孩狂学非遗不回避流量变现",
@@ -9539,6 +9579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201059,
+      "num": 201059,
+      "word": "双城之战2大结局",
+      "onboard_time": 1732350499,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201051,
       "num": 175252,
       "word": "月光变奏曲",
@@ -9803,6 +9851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197657,
+      "num": 197657,
+      "word": "SEVENTEEN获MAMA最佳男团",
+      "onboard_time": 1732351099,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197483,
       "num": 212989,
       "word": "珠海航展顶流文创已卖空",
@@ -10035,6 +10091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195095,
+      "num": 195095,
+      "word": "时代少年团五周年演唱会",
+      "onboard_time": 1732350499,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194911,
       "num": 432726,
       "word": "卫生巾不该缩水更不该糊弄用户",
@@ -10161,14 +10225,6 @@
       "onboard_time": 1731908719,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 192975,
-      "num": 666410,
-      "word": "王曼昱4比3进决赛",
-      "onboard_time": 1732349480,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 192972,
@@ -10313,6 +10369,14 @@
       "onboard_time": 1731820999,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190548,
+      "num": 578334,
+      "word": "王艺迪vs陈幸同",
+      "onboard_time": 1732349659,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 190431,
@@ -11787,6 +11851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172043,
+      "num": 172043,
+      "word": "佛山音乐节",
+      "onboard_time": 1732350919,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171979,
       "num": 171979,
       "word": "王楚钦林高远福冈赛前对练",
@@ -11971,6 +12043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169620,
+      "num": 628901,
+      "word": "国乒包揽总决赛女单冠亚军",
+      "onboard_time": 1732349539,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169613,
       "num": 169613,
       "word": "张哥别怕你的天来了",
@@ -12033,6 +12113,14 @@
       "onboard_time": 1732097660,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169017,
+      "num": 169017,
+      "word": "烧伤妈妈丈夫发布爆炸后的家",
+      "onboard_time": 1732349598,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169003,
@@ -12129,14 +12217,6 @@
       "onboard_time": 1732266920,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166918,
-      "num": 166918,
-      "word": "烧伤妈妈丈夫发布爆炸后的家",
-      "onboard_time": 1732349598,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166893,
@@ -12291,12 +12371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165335,
+      "num": 246372,
+      "word": "浙大受资助困难生晒国外旅游照",
+      "onboard_time": 1732350980,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 165323,
       "num": 540292,
       "word": "老师不敢管学生害了谁",
       "onboard_time": 1731931341,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165068,
+      "num": 165068,
+      "word": "国乒提前锁定女单冠亚军",
+      "onboard_time": 1732351218,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164981,
@@ -12625,6 +12721,14 @@
       "onboard_time": 1732192819,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 160179,
+      "num": 351280,
+      "word": "祝绪丹BGM闯进文旅赛道了",
+      "onboard_time": 1732350259,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 159843,
@@ -16019,14 +16123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112488,
-      "num": 628901,
-      "word": "国乒包揽总决赛女单冠亚军",
-      "onboard_time": 1732349539,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112343,
       "num": 843215,
       "word": "陈幸同女单8强",
@@ -16292,7 +16388,7 @@
     },
     {
       "raw_hot": 107721,
-      "num": 232279,
+      "num": 284156,
       "word": "王曼昱极限对拉",
       "onboard_time": 1732350378,
       "rank": 29,
@@ -17371,14 +17467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 86934,
-      "num": 578334,
-      "word": "王艺迪vs陈幸同",
-      "onboard_time": 1732349659,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86903,
       "num": 259032,
       "word": "AG获得2200万奖金",
@@ -17929,14 +18017,6 @@
       "onboard_time": 1731819620,
       "rank": 29,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 76562,
-      "num": 179673,
-      "word": "祝绪丹BGM闯进文旅赛道了",
-      "onboard_time": 1732350259,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 76429,
@@ -18721,6 +18801,14 @@
       "onboard_time": 1731834557,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62013,
+      "num": 1482856,
+      "word": "43名在韩志愿军烈士下周回家",
+      "onboard_time": 1732348939,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61941,
@@ -19931,6 +20019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49156,
+      "num": 483487,
+      "word": "KSG全员百变cos",
+      "onboard_time": 1732350738,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48988,
       "num": 73230,
       "word": "官方回应非必要情况不会击毙老虎",
@@ -20305,14 +20401,6 @@
       "onboard_time": 1732195640,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43936,
-      "num": 1275047,
-      "word": "43名在韩志愿军烈士下周回家",
-      "onboard_time": 1732348939,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43927,
@@ -20833,6 +20921,14 @@
       "onboard_time": 1731841578,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39131,
+      "num": 609023,
+      "word": "业内称上千家羽绒服厂商掺假售假",
+      "onboard_time": 1732350619,
+      "rank": 8,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 39102,
@@ -22571,6 +22667,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 24267,
+      "num": 651160,
+      "word": "民族运动会在三亚开幕",
+      "onboard_time": 1732349359,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24228,
       "num": 157516,
       "word": "昆凌陪女儿堆沙子",
@@ -22657,14 +22761,6 @@
       "onboard_time": 1732194380,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 23511,
-      "num": 651160,
-      "word": "民族运动会在三亚开幕",
-      "onboard_time": 1732349359,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23409,
@@ -23448,6 +23544,14 @@
       "word": "专家称胖东来新规执行难度大",
       "onboard_time": 1732308370,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16781,
+      "num": 501836,
+      "word": "知名体育培训机构大规模闭店",
+      "onboard_time": 1732350800,
+      "rank": 14,
       "category": "民生新闻"
     },
     {

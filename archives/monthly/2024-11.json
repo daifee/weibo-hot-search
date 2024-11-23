@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732350444703,
+  "endTime": 1732351332469,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2467,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1443522,
+      "num": 1443522,
+      "word": "麦琳要用吃剩的熏鸡骨头煲汤",
+      "onboard_time": 1732349718,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1442587,
       "num": 1442587,
       "word": "12306回应女性列车员裙装改裤装建议",
@@ -4452,7 +4460,7 @@
     },
     {
       "raw_hot": 1060270,
-      "num": 586786,
+      "num": 729125,
       "word": "管晨辰 吴柳芳",
       "onboard_time": 1732340897,
       "rank": 10,
@@ -6483,6 +6491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850366,
+      "num": 629425,
+      "word": "人类对内衣的开发不足1%",
+      "onboard_time": 1732350139,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 850138,
       "num": 850138,
       "word": "普京称特朗普是条勇敢的汉子",
@@ -8193,14 +8209,6 @@
       "onboard_time": 1731836957,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 732502,
-      "num": 637884,
-      "word": "麦琳要用吃剩的熏鸡骨头煲汤",
-      "onboard_time": 1732349718,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 732336,
@@ -10225,14 +10233,6 @@
       "onboard_time": 1730785760,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 629425,
-      "num": 629425,
-      "word": "人类对内衣的开发不足1%",
-      "onboard_time": 1732350139,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 628616,
@@ -21451,6 +21451,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 301853,
+      "num": 666410,
+      "word": "王曼昱4比3进决赛",
+      "onboard_time": 1732349480,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301578,
       "num": 301578,
       "word": "鞠婧祎身上有两只蝴蝶",
@@ -21537,6 +21545,14 @@
       "onboard_time": 1731584900,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 299869,
+      "num": 299869,
+      "word": "田小娟rap歌词提徐穗珍",
+      "onboard_time": 1732350859,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 299853,
@@ -21865,6 +21881,14 @@
       "onboard_time": 1730519478,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 294606,
+      "num": 294606,
+      "word": "丁禹兮进组南部档案",
+      "onboard_time": 1732350738,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 294564,
@@ -23161,6 +23185,14 @@
       "onboard_time": 1731205457,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274569,
+      "num": 631763,
+      "word": "浙大贫困生旅游做书面检查",
+      "onboard_time": 1732348878,
+      "rank": 12,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 274386,
@@ -24569,14 +24601,6 @@
       "onboard_time": 1731333981,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257252,
-      "num": 631763,
-      "word": "浙大贫困生旅游做书面检查",
-      "onboard_time": 1732348878,
-      "rank": 12,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257196,
@@ -28755,6 +28779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214720,
+      "num": 214720,
+      "word": "权志龙太阳大声MAMA舞台",
+      "onboard_time": 1732350499,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214616,
       "num": 214616,
       "word": "朱开想去BLG做教练",
@@ -31499,6 +31531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201059,
+      "num": 201059,
+      "word": "双城之战2大结局",
+      "onboard_time": 1732350499,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 200988,
       "num": 475287,
       "word": "王昶我们知道自己在干什么",
@@ -32315,6 +32355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197657,
+      "num": 197657,
+      "word": "SEVENTEEN获MAMA最佳男团",
+      "onboard_time": 1732351099,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197629,
       "num": 197629,
       "word": "郭晓婷 女师尊赛道",
@@ -33003,6 +33051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195095,
+      "num": 195095,
+      "word": "时代少年团五周年演唱会",
+      "onboard_time": 1732350499,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194915,
       "num": 236021,
       "word": "邵子恒一公舞台",
@@ -33537,14 +33593,6 @@
       "onboard_time": 1731908719,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 192975,
-      "num": 666410,
-      "word": "王曼昱4比3进决赛",
-      "onboard_time": 1732349480,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 192972,
@@ -34169,6 +34217,14 @@
       "onboard_time": 1730546778,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190548,
+      "num": 578334,
+      "word": "王艺迪vs陈幸同",
+      "onboard_time": 1732349659,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 190509,
@@ -38451,6 +38507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172043,
+      "num": 172043,
+      "word": "佛山音乐节",
+      "onboard_time": 1732350919,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171979,
       "num": 171979,
       "word": "王楚钦林高远福冈赛前对练",
@@ -38995,6 +39059,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 169620,
+      "num": 628901,
+      "word": "国乒包揽总决赛女单冠亚军",
+      "onboard_time": 1732349539,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169613,
       "num": 169613,
       "word": "张哥别怕你的天来了",
@@ -39153,6 +39225,14 @@
       "onboard_time": 1732097660,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169017,
+      "num": 169017,
+      "word": "烧伤妈妈丈夫发布爆炸后的家",
+      "onboard_time": 1732349598,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169003,
@@ -39611,14 +39691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166918,
-      "num": 166918,
-      "word": "烧伤妈妈丈夫发布爆炸后的家",
-      "onboard_time": 1732349598,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166893,
       "num": 333414,
       "word": "张本智和说想在日本拿冠军",
@@ -40051,6 +40123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165335,
+      "num": 246372,
+      "word": "浙大受资助困难生晒国外旅游照",
+      "onboard_time": 1732350980,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 165323,
       "num": 540292,
       "word": "老师不敢管学生害了谁",
@@ -40097,6 +40177,14 @@
       "onboard_time": 1730961439,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165068,
+      "num": 165068,
+      "word": "国乒提前锁定女单冠亚军",
+      "onboard_time": 1732351218,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 165026,
@@ -41361,6 +41449,14 @@
       "onboard_time": 1730431219,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160179,
+      "num": 351280,
+      "word": "祝绪丹BGM闯进文旅赛道了",
+      "onboard_time": 1732350259,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 160160,
@@ -53003,14 +53099,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112488,
-      "num": 628901,
-      "word": "国乒包揽总决赛女单冠亚军",
-      "onboard_time": 1732349539,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112343,
       "num": 843215,
       "word": "陈幸同女单8强",
@@ -53892,7 +53980,7 @@
     },
     {
       "raw_hot": 107721,
-      "num": 232279,
+      "num": 284156,
       "word": "王曼昱极限对拉",
       "onboard_time": 1732350378,
       "rank": 29,
@@ -57155,14 +57243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86934,
-      "num": 578334,
-      "word": "王艺迪vs陈幸同",
-      "onboard_time": 1732349659,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86921,
       "num": 86921,
       "word": "别让孩子觉得拿手机可以买任何东西",
@@ -58681,14 +58761,6 @@
       "onboard_time": 1731169038,
       "rank": 18,
       "category": "军事"
-    },
-    {
-      "raw_hot": 76562,
-      "num": 179673,
-      "word": "祝绪丹BGM闯进文旅赛道了",
-      "onboard_time": 1732350259,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 76502,
@@ -61081,6 +61153,14 @@
       "onboard_time": 1731674240,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 62013,
+      "num": 1482856,
+      "word": "43名在韩志愿军烈士下周回家",
+      "onboard_time": 1732348939,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61989,
@@ -64099,6 +64179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49156,
+      "num": 483487,
+      "word": "KSG全员百变cos",
+      "onboard_time": 1732350738,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48993,
       "num": 48993,
       "word": "卫健委回应19岁女生卖卵代孕",
@@ -65329,14 +65417,6 @@
       "onboard_time": 1731493099,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43936,
-      "num": 1275047,
-      "word": "43名在韩志愿军烈士下周回家",
-      "onboard_time": 1732348939,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43927,
@@ -66657,6 +66737,14 @@
       "onboard_time": 1731841578,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39131,
+      "num": 609023,
+      "word": "业内称上千家羽绒服厂商掺假售假",
+      "onboard_time": 1732350619,
+      "rank": 8,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 39122,
@@ -72099,6 +72187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24267,
+      "num": 651160,
+      "word": "民族运动会在三亚开幕",
+      "onboard_time": 1732349359,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24260,
       "num": 157558,
       "word": "美防长下令增加在中东军事部署",
@@ -72401,14 +72497,6 @@
       "onboard_time": 1731164899,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23511,
-      "num": 651160,
-      "word": "民族运动会在三亚开幕",
-      "onboard_time": 1732349359,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23501,
@@ -74960,6 +75048,14 @@
       "word": "专家称胖东来新规执行难度大",
       "onboard_time": 1732308370,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16781,
+      "num": 501836,
+      "word": "知名体育培训机构大规模闭店",
+      "onboard_time": 1732350800,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
