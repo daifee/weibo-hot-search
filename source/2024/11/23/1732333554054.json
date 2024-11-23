@@ -1,0 +1,410 @@
+{
+  "runTime": 1732333554054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1371630,
+        "num": 1371630,
+        "word": "李行亮下期要跟麦琳求婚",
+        "onboard_time": 1732331718,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 974449,
+        "num": 974449,
+        "word": "川航3U3859已安全到达",
+        "onboard_time": 1732320017,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46385,
+        "num": 895743,
+        "word": "乌镇峰会人形机器人加速进化",
+        "onboard_time": 1732279461,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 840087,
+        "num": 840087,
+        "word": "旺旺三公子称明显有人在搞事",
+        "onboard_time": 1732330277,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 615540,
+        "num": 615540,
+        "word": "老人领喜糖跌倒去世家属索赔新人",
+        "onboard_time": 1732332618,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559633,
+        "num": 559633,
+        "word": "7家医院被国家医保局通报",
+        "onboard_time": 1732331177,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 546180,
+        "num": 546180,
+        "word": "女游客跟团徒步时坠崖身亡",
+        "onboard_time": 1732329378,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 523848,
+        "num": 523848,
+        "word": "麦琳 先天带货圣体",
+        "onboard_time": 1732328057,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507981,
+        "num": 507981,
+        "word": "句句不提内娱 句句在说内娱",
+        "onboard_time": 1732332257,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494791,
+        "num": 494791,
+        "word": "papi酱 杨子一个字都不会做到的",
+        "onboard_time": 1732326857,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425030,
+        "num": 425030,
+        "word": "捐赠日本侵华罪行相册的美国小伙声明",
+        "onboard_time": 1732326318,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416706,
+        "num": 416706,
+        "word": "再见爱人 李行亮不容许有离婚的选项",
+        "onboard_time": 1732318696,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337808,
+        "num": 337808,
+        "word": "权志龙点赞苏新皓",
+        "onboard_time": 1732317974,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323680,
+        "num": 323680,
+        "word": "我是刑警定档",
+        "onboard_time": 1732332558,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294181,
+        "num": 294181,
+        "word": "俄传奇飞行员降落太原继续扫货",
+        "onboard_time": 1732328478,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233783,
+        "num": 233783,
+        "word": "卫生巾塌房用什么才安全",
+        "onboard_time": 1732274720,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227497,
+        "num": 227497,
+        "word": "贫困生一年旅游20多地引争议",
+        "onboard_time": 1732331777,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 218643,
+        "num": 218643,
+        "word": "XLB曝Doinb聊天截图",
+        "onboard_time": 1732318575,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89522,
+        "num": 218607,
+        "word": "电影蜡笔小新今日上映",
+        "onboard_time": 1732332618,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201077,
+        "num": 218010,
+        "word": "陈奕恒穿时代少年团应援服",
+        "onboard_time": 1732332618,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149797,
+        "num": 217758,
+        "word": "旺旺集团称生产线审查没有异常",
+        "onboard_time": 1732331956,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 577178,
+        "num": 217110,
+        "word": "丈夫出轨同学后保证再犯赔10万",
+        "onboard_time": 1732331718,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250695,
+        "num": 216881,
+        "word": "还有朋友圈全部开放的人吗",
+        "onboard_time": 1732331777,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241851,
+        "num": 216306,
+        "word": "以后男主名字禁止叫远舟",
+        "onboard_time": 1732318635,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50481,
+        "num": 216088,
+        "word": "C罗911球",
+        "onboard_time": 1732328117,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215706,
+        "num": 215706,
+        "word": "旺旺发布声明函",
+        "onboard_time": 1732327337,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209883,
+        "num": 209883,
+        "word": "小伙天生会扭脖子意外发现身世",
+        "onboard_time": 1732318575,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198908,
+        "num": 198908,
+        "word": "微信或将迎史诗级瘦身",
+        "onboard_time": 1732328837,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196015,
+        "num": 196015,
+        "word": "虞书欣晒与永夜星河主创合照",
+        "onboard_time": 1732319055,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180517,
+        "num": 180517,
+        "word": "律师解读旺仔被曝疑似喝出老鼠",
+        "onboard_time": 1732323738,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173429,
+        "num": 173429,
+        "word": "好东西 亲密关系低成本试错",
+        "onboard_time": 1732329078,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87277,
+        "num": 171979,
+        "word": "遭家暴16次挂粪袋女子重做伤残鉴定",
+        "onboard_time": 1732330637,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171177,
+        "num": 171177,
+        "word": "炸弹气旋袭击美国2人死亡",
+        "onboard_time": 1732330457,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160450,
+        "num": 160450,
+        "word": "旺仔事件",
+        "onboard_time": 1732332077,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150577,
+        "num": 150577,
+        "word": "日本直飞中国航班搜索热度大涨",
+        "onboard_time": 1732320917,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139059,
+        "num": 139059,
+        "word": "王楚钦把莫雷高德打炸毛了",
+        "onboard_time": 1732320917,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138829,
+        "num": 138829,
+        "word": "韩安冉要备孕三胎了",
+        "onboard_time": 1732316894,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134553,
+        "num": 134553,
+        "word": "霍建华林心如观看女儿演出",
+        "onboard_time": 1732333339,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129344,
+        "num": 129344,
+        "word": "鹿晗音乐节逆应援",
+        "onboard_time": 1732319296,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127976,
+        "num": 127976,
+        "word": "伯远回应耳帝点评",
+        "onboard_time": 1732332319,
+        "rank": 39,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 121910,
+        "num": 121910,
+        "word": "乌称俄新型中程导弹末端速度超11马赫",
+        "onboard_time": 1732288280,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120880,
+        "num": 120880,
+        "word": "王楚钦说好久没进前四了",
+        "onboard_time": 1732332257,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119641,
+        "num": 119641,
+        "word": "120你只管踩油门剩下的交给我们",
+        "onboard_time": 1732310831,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 114597,
+        "num": 114597,
+        "word": "虞书欣何与cp感",
+        "onboard_time": 1732293675,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111633,
+        "num": 111633,
+        "word": "不讨好的勇气开播",
+        "onboard_time": 1732332017,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105734,
+        "num": 105734,
+        "word": "网红丐中丐夫妻直播遇车祸遇难",
+        "onboard_time": 1732301891,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104480,
+        "num": 104480,
+        "word": "因果报应 女性受害者就该这样拍",
+        "onboard_time": 1732333397,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104323,
+        "num": 104323,
+        "word": "崔永熙g联赛首秀",
+        "onboard_time": 1732332857,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103210,
+        "num": 103210,
+        "word": "男子心脏骤停4小时后奇迹发生了",
+        "onboard_time": 1732287680,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101087,
+        "num": 101087,
+        "word": "超早产重症男婴被救治爸爸发声",
+        "onboard_time": 1732327757,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席妙喻引领开放合作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732332750565,
+  "endTime": 1732333554054,
   "band_list": [
     {
       "raw_hot": 1421753,
@@ -9,6 +9,14 @@
       "onboard_time": 1732320017,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1371630,
+      "num": 1371630,
+      "word": "李行亮下期要跟麦琳求婚",
+      "onboard_time": 1732331718,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1156264,
@@ -27,20 +35,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 946942,
-      "num": 946942,
-      "word": "李行亮下期要跟麦琳求婚",
-      "onboard_time": 1732331718,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 922465,
       "num": 922465,
       "word": "捐赠日本侵华罪行相册的美国小伙声明",
       "onboard_time": 1732326318,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 840087,
+      "num": 840087,
+      "word": "旺旺三公子称明显有人在搞事",
+      "onboard_time": 1732330277,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 699606,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 631850,
-      "num": 211428,
+      "num": 217110,
       "word": "丈夫出轨同学后保证再犯赔10万",
       "onboard_time": 1732331718,
       "rank": 20,
@@ -89,6 +97,14 @@
       "onboard_time": 1732331177,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 615540,
+      "num": 615540,
+      "word": "老人领喜糖跌倒去世家属索赔新人",
+      "onboard_time": 1732332618,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 601719,
@@ -115,14 +131,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 576078,
-      "num": 576078,
-      "word": "旺旺三公子称明显有人在搞事",
-      "onboard_time": 1732330277,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 570441,
       "num": 570441,
       "word": "权志龙点赞苏新皓",
@@ -136,6 +144,14 @@
       "word": "歌手2025",
       "onboard_time": 1732281260,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 507981,
+      "num": 507981,
+      "word": "句句不提内娱 句句在说内娱",
+      "onboard_time": 1732332257,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -251,6 +267,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 323680,
+      "num": 323680,
+      "word": "我是刑警定档",
+      "onboard_time": 1732332558,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311023,
       "num": 311023,
       "word": "男子心脏骤停4小时后奇迹发生了",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 287766,
-      "num": 180109,
+      "num": 180517,
       "word": "律师解读旺仔被曝疑似喝出老鼠",
       "onboard_time": 1732323738,
       "rank": 35,
@@ -347,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 250695,
+      "num": 216881,
+      "word": "还有朋友圈全部开放的人吗",
+      "onboard_time": 1732331777,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247421,
       "num": 247421,
       "word": "虞书欣晒与永夜星河主创合照",
@@ -377,6 +409,14 @@
       "onboard_time": 1732325179,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 227497,
+      "num": 227497,
+      "word": "贫困生一年旅游20多地引争议",
+      "onboard_time": 1732331777,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 227136,
@@ -411,20 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211025,
-      "num": 211025,
-      "word": "句句不提内娱 句句在说内娱",
-      "onboard_time": 1732332257,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201600,
       "num": 201600,
       "word": "不讨好的勇气开播",
       "onboard_time": 1732332017,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201077,
+      "num": 218010,
+      "word": "陈奕恒穿时代少年团应援服",
+      "onboard_time": 1732332618,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 200551,
@@ -441,14 +481,6 @@
       "onboard_time": 1732319296,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195297,
-      "num": 195297,
-      "word": "贫困生一年旅游20多地引争议",
-      "onboard_time": 1732331777,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 192855,
@@ -531,14 +563,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 166874,
-      "num": 166874,
-      "word": "还有朋友圈全部开放的人吗",
-      "onboard_time": 1732331777,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162132,
       "num": 162132,
       "word": "王耀庆 丁禹兮随谁叫的舅舅",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 153247,
-      "num": 153247,
+      "num": 217758,
       "word": "旺旺集团称生产线审查没有异常",
       "onboard_time": 1732331956,
       "rank": 37,
@@ -585,22 +609,6 @@
       "onboard_time": 1732323798,
       "rank": 32,
       "category": "军事"
-    },
-    {
-      "raw_hot": 151526,
-      "num": 151526,
-      "word": "老人领喜糖跌倒去世家属索赔新人",
-      "onboard_time": 1732332618,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147673,
-      "num": 147673,
-      "word": "我是刑警定档",
-      "onboard_time": 1732332558,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 147331,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134553,
+      "num": 134553,
+      "word": "霍建华林心如观看女儿演出",
+      "onboard_time": 1732333339,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131143,
       "num": 131143,
       "word": "周洁琼弹琵琶告别小巷人家",
@@ -731,6 +747,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 127976,
+      "num": 127976,
+      "word": "伯远回应耳帝点评",
+      "onboard_time": 1732332319,
+      "rank": 48,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 127514,
       "num": 127514,
       "word": "把心情照顾好比什么都重要",
@@ -744,6 +768,14 @@
       "word": "孙颖莎被递麦唱APT",
       "onboard_time": 1732320977,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120880,
+      "num": 120880,
+      "word": "王楚钦说好久没进前四了",
+      "onboard_time": 1732332257,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -795,14 +827,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 109853,
-      "num": 109853,
-      "word": "王楚钦说好久没进前四了",
-      "onboard_time": 1732332257,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105512,
       "num": 105512,
       "word": "日本禽流感扑杀超120万只禽类",
@@ -811,20 +835,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 104988,
-      "num": 104988,
-      "word": "伯远回应耳帝点评",
-      "onboard_time": 1732332319,
-      "rank": 48,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 104749,
       "num": 104749,
       "word": "默克尔称特朗普对普京很着迷",
       "onboard_time": 1732322117,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104480,
+      "num": 104480,
+      "word": "因果报应 女性受害者就该这样拍",
+      "onboard_time": 1732333397,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104323,
+      "num": 104323,
+      "word": "崔永熙g联赛首秀",
+      "onboard_time": 1732332857,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102258,
@@ -913,6 +945,14 @@
       "onboard_time": 1732298172,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 89522,
+      "num": 218607,
+      "word": "电影蜡笔小新今日上映",
+      "onboard_time": 1732332618,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 89402,
@@ -1052,7 +1092,7 @@
     },
     {
       "raw_hot": 59796,
-      "num": 792753,
+      "num": 895743,
       "word": "乌镇峰会人形机器人加速进化",
       "onboard_time": 1732279461,
       "rank": 2,
@@ -1115,6 +1155,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 50481,
+      "num": 216088,
+      "word": "C罗911球",
+      "onboard_time": 1732328117,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47693,
       "num": 52511,
       "word": "gapday音乐节",
@@ -1145,14 +1193,6 @@
       "onboard_time": 1732306391,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45575,
-      "num": 211611,
-      "word": "陈奕恒穿时代少年团应援服",
-      "onboard_time": 1732332618,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 44878,
@@ -1201,22 +1241,6 @@
       "onboard_time": 1732278078,
       "rank": 49,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 37295,
-      "num": 202156,
-      "word": "C罗911球",
-      "onboard_time": 1732328117,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 36546,
-      "num": 211755,
-      "word": "电影蜡笔小新今日上映",
-      "onboard_time": 1732332618,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 35408,
@@ -1532,6 +1556,9 @@
     },
     {
       "word": "#习主席结束拉美之行回到北京#"
+    },
+    {
+      "word": "#习主席妙喻引领开放合作#"
     }
   ]
 }
