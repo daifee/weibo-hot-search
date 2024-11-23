@@ -1,6 +1,6 @@
 {
   "startTime": 1731774473487,
-  "endTime": 1732365710622,
+  "endTime": 1732366607767,
   "band_list": [
     {
       "raw_hot": 10491853,
@@ -193,6 +193,14 @@
       "onboard_time": 1732356980,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2328909,
+      "num": 536001,
+      "word": "鹿晗眉钉",
+      "onboard_time": 1732364841,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 2318472,
@@ -1699,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 872431,
-      "num": 390195,
-      "word": "鹿晗眉钉",
-      "onboard_time": 1732364841,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 869613,
       "num": 869613,
       "word": "权志龙 无题",
@@ -2299,8 +2299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 753002,
-      "num": 385134,
+      "raw_hot": 755169,
+      "num": 497537,
       "word": "林更新 本来挺开心的你给整下头了",
       "onboard_time": 1732363400,
       "rank": 11,
@@ -2569,6 +2569,14 @@
       "onboard_time": 1732187480,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 706716,
+      "num": 706716,
+      "word": "王楚钦拿下比赛怒吼",
+      "onboard_time": 1732362621,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 706549,
@@ -2849,14 +2857,6 @@
       "onboard_time": 1732024282,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670801,
-      "num": 670801,
-      "word": "王楚钦拿下比赛怒吼",
-      "onboard_time": 1732362621,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 669567,
@@ -3625,6 +3625,14 @@
       "onboard_time": 1731904282,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557403,
+      "num": 557403,
+      "word": "2024KPOP最伟大的14分钟",
+      "onboard_time": 1732363820,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 557034,
@@ -5059,14 +5067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411682,
-      "num": 411682,
-      "word": "2024KPOP最伟大的14分钟",
-      "onboard_time": 1732363820,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 411681,
       "num": 237856,
       "word": "李子柒王冰冰一起玩碰碰车",
@@ -5419,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384563,
+      "num": 384563,
+      "word": "宋亚轩小提琴独奏",
+      "onboard_time": 1732366220,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 384355,
       "num": 329461,
       "word": "美国瘫痪男子大脑植芯片恢复活动能力",
@@ -5561,6 +5569,14 @@
       "onboard_time": 1732083019,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373382,
+      "num": 373382,
+      "word": "医生称用这3种卫生巾易引病上身",
+      "onboard_time": 1732364780,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 373097,
@@ -6336,6 +6352,14 @@
       "word": "百雀羚年内线上销售额近3亿元",
       "onboard_time": 1732080680,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314005,
+      "num": 554634,
+      "word": "110差点不叫110",
+      "onboard_time": 1732365140,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -8988,7 +9012,7 @@
     },
     {
       "raw_hot": 218652,
-      "num": 252560,
+      "num": 252698,
       "word": "苏新皓快来听",
       "onboard_time": 1732364899,
       "rank": 21,
@@ -9179,6 +9203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213251,
+      "num": 213251,
+      "word": "鹿晗佛山音乐节人气",
+      "onboard_time": 1732365501,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213124,
       "num": 178322,
       "word": "Suki怒喷Puff",
@@ -9257,6 +9289,14 @@
       "onboard_time": 1732219271,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 211553,
+      "num": 211553,
+      "word": "旺旺再回应牛奶喝出异物",
+      "onboard_time": 1732364060,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 211546,
@@ -9763,6 +9803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204165,
+      "num": 204165,
+      "word": "贺峻霖Silence首舞台",
+      "onboard_time": 1732365380,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204042,
       "num": 204042,
       "word": "mlxg拒绝让Uzi无状态同队",
@@ -9923,14 +9971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202048,
-      "num": 202048,
-      "word": "医生称用这3种卫生巾易引病上身",
-      "onboard_time": 1732364780,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 201866,
       "num": 201866,
       "word": "成毅跪地哭戏",
@@ -9977,6 +10017,14 @@
       "onboard_time": 1732163661,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201395,
+      "num": 201395,
+      "word": "永夜星河团综定档时间",
+      "onboard_time": 1732364659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 201252,
@@ -10121,14 +10169,6 @@
       "onboard_time": 1732102039,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199457,
-      "num": 199457,
-      "word": "110差点不叫110",
-      "onboard_time": 1732365140,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199442,
@@ -10355,14 +10395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196946,
-      "num": 196946,
-      "word": "旺旺再回应牛奶喝出异物",
-      "onboard_time": 1732364060,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 196937,
       "num": 196937,
       "word": "ENHYPEN全员黑西装",
@@ -10521,6 +10553,14 @@
       "onboard_time": 1732193362,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195368,
+      "num": 419994,
+      "word": "周翊然见面会",
+      "onboard_time": 1731776238,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195284,
@@ -10723,12 +10763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192521,
-      "num": 197554,
-      "word": "贺峻霖Silence首舞台",
-      "onboard_time": 1732365380,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 192294,
+      "num": 192294,
+      "word": "奔跑吧",
+      "onboard_time": 1732365741,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 192199,
@@ -10801,14 +10841,6 @@
       "onboard_time": 1732067839,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191083,
-      "num": 191083,
-      "word": "永夜星河团综定档时间",
-      "onboard_time": 1732364659,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 191080,
@@ -11371,6 +11403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185224,
+      "num": 185224,
+      "word": "秦霄贤纲丝节主持",
+      "onboard_time": 1732366520,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184986,
       "num": 184986,
       "word": "2024大国重器好多新突破",
@@ -11425,6 +11465,14 @@
       "onboard_time": 1732164741,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184748,
+      "num": 184748,
+      "word": "好东西男性角色 男演员不愿意演",
+      "onboard_time": 1732362738,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 184687,
@@ -11841,14 +11889,6 @@
       "onboard_time": 1732196240,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179861,
-      "num": 179861,
-      "word": "好东西男性角色 男演员不愿意演",
-      "onboard_time": 1732362738,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 179793,
@@ -12403,6 +12443,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 171859,
+      "num": 287573,
+      "word": "关饕餮现实中是周舒桐的孩子",
+      "onboard_time": 1732364481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171754,
       "num": 179015,
       "word": "虞书欣好六节目拍摄vlog",
@@ -12875,6 +12923,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 165535,
+      "num": 165535,
+      "word": "山东旺旺食品称异物初步判断不是老鼠",
+      "onboard_time": 1732366160,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165430,
       "num": 227652,
       "word": "陈道明 还不回家睡觉",
@@ -12993,6 +13049,14 @@
       "onboard_time": 1731855561,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164208,
+      "num": 164208,
+      "word": "中国航天实现了千年前李白的想象",
+      "onboard_time": 1732365682,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163930,
@@ -14859,14 +14923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141557,
-      "num": 209904,
-      "word": "周翊然见面会",
-      "onboard_time": 1731776238,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141358,
       "num": 141358,
       "word": "女生分享光腿神器不勒脚穿法",
@@ -15635,14 +15691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131792,
-      "num": 131792,
-      "word": "中国航天实现了千年前李白的想象",
-      "onboard_time": 1732365682,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131674,
       "num": 131674,
       "word": "东北虎呈现向长白山腹地迁移扩散趋势",
@@ -16131,6 +16179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124763,
+      "num": 473781,
+      "word": "山东泰山1比3上海海港",
+      "onboard_time": 1732365920,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124750,
       "num": 124750,
       "word": "刘冠佑KGMA颁奖礼C位表演",
@@ -16321,6 +16377,14 @@
       "onboard_time": 1732342938,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121933,
+      "num": 514660,
+      "word": "跨省闪婚灰色产业盯上负债女性",
+      "onboard_time": 1732364960,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 121692,
@@ -16659,6 +16723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116250,
+      "num": 375178,
+      "word": "Mlxg解脱了",
+      "onboard_time": 1732363459,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116247,
       "num": 116247,
       "word": "深圳水贝黄金销量下滑",
@@ -16737,14 +16809,6 @@
       "onboard_time": 1732005200,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114847,
-      "num": 246678,
-      "word": "Mlxg解脱了",
-      "onboard_time": 1732363459,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 114648,
@@ -16947,6 +17011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111404,
+      "num": 519660,
+      "word": "上海海港首夺足协杯冠军",
+      "onboard_time": 1732365860,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111298,
       "num": 303058,
       "word": "农耕探文明",
@@ -17121,6 +17193,14 @@
       "onboard_time": 1732110022,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108332,
+      "num": 530374,
+      "word": "王楚钦说为决赛全力以赴",
+      "onboard_time": 1732366040,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 108130,
@@ -17425,14 +17505,6 @@
       "onboard_time": 1732329978,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101931,
-      "num": 376927,
-      "word": "跨省闪婚灰色产业盯上负债女性",
-      "onboard_time": 1732364960,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 101778,
@@ -18363,6 +18435,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 84468,
+      "num": 165810,
+      "word": "张本智和说对王楚钦战斗到最后一刻",
+      "onboard_time": 1732362680,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84416,
       "num": 84416,
       "word": "东北虎进村咬伤人事件背后",
@@ -18432,14 +18512,6 @@
       "word": "白夜破晓审讯戏",
       "onboard_time": 1732193420,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83048,
-      "num": 287573,
-      "word": "关饕餮现实中是周舒桐的孩子",
-      "onboard_time": 1732364481,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -20627,6 +20699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51824,
+      "num": 475709,
+      "word": "丞磊陷入了投鞋问路无限流",
+      "onboard_time": 1732366160,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51798,
       "num": 252374,
       "word": "一镜到底看国足打穿日本防线",
@@ -20856,6 +20936,14 @@
       "word": "中国航展绝美壁纸大放送",
       "onboard_time": 1731839117,
       "rank": 19,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 49808,
+      "num": 752824,
+      "word": "海南舰首次对公众开放",
+      "onboard_time": 1732366520,
+      "rank": 2,
       "category": "军事"
     },
     {
@@ -23155,6 +23243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28087,
+      "num": 544627,
+      "word": "第十二届全国少数民族传统体育运动会",
+      "onboard_time": 1732366520,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28063,
       "num": 923308,
       "word": "机器狗无人机成新挑山工",
@@ -23569,6 +23665,14 @@
       "onboard_time": 1731996799,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24592,
+      "num": 508566,
+      "word": "决胜巅峰世界总决赛",
+      "onboard_time": 1732365741,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 24527,

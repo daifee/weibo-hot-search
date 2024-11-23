@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732365710622,
+  "endTime": 1732366607767,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -817,6 +817,14 @@
       "onboard_time": 1731460041,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2328909,
+      "num": 536001,
+      "word": "鹿晗眉钉",
+      "onboard_time": 1732364841,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 2325363,
@@ -6275,14 +6283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 872431,
-      "num": 390195,
-      "word": "鹿晗眉钉",
-      "onboard_time": 1732364841,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 872410,
       "num": 872410,
       "word": "女子被丈夫暴打报警后仍遭踢踹",
@@ -7907,6 +7907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 755169,
+      "num": 497537,
+      "word": "林更新 本来挺开心的你给整下头了",
+      "onboard_time": 1732363400,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 754688,
       "num": 789283,
       "word": "杨紫32岁生日发文",
@@ -7936,14 +7944,6 @@
       "word": "徐若瑄被曝患癌后回应",
       "onboard_time": 1730994321,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 753002,
-      "num": 385134,
-      "word": "林更新 本来挺开心的你给整下头了",
-      "onboard_time": 1732363400,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -8699,6 +8699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 706716,
+      "num": 706716,
+      "word": "王楚钦拿下比赛怒吼",
+      "onboard_time": 1732362621,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 706549,
       "num": 547282,
       "word": "降低身体慢性炎症的2个方法",
@@ -9377,14 +9385,6 @@
       "onboard_time": 1732024282,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670801,
-      "num": 670801,
-      "word": "王楚钦拿下比赛怒吼",
-      "onboard_time": 1732362621,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 670068,
@@ -12025,6 +12025,14 @@
       "onboard_time": 1731904282,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557403,
+      "num": 557403,
+      "word": "2024KPOP最伟大的14分钟",
+      "onboard_time": 1732363820,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 557096,
@@ -16691,14 +16699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411682,
-      "num": 411682,
-      "word": "2024KPOP最伟大的14分钟",
-      "onboard_time": 1732363820,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 411681,
       "num": 237856,
       "word": "李子柒王冰冰一起玩碰碰车",
@@ -17851,6 +17851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384563,
+      "num": 384563,
+      "word": "宋亚轩小提琴独奏",
+      "onboard_time": 1732366220,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 384355,
       "num": 329461,
       "word": "美国瘫痪男子大脑植芯片恢复活动能力",
@@ -18345,6 +18353,14 @@
       "onboard_time": 1730544799,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373382,
+      "num": 373382,
+      "word": "医生称用这3种卫生巾易引病上身",
+      "onboard_time": 1732364780,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 373097,
@@ -21009,6 +21025,14 @@
       "onboard_time": 1730387359,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 314005,
+      "num": 554634,
+      "word": "110差点不叫110",
+      "onboard_time": 1732365140,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313914,
@@ -28716,7 +28740,7 @@
     },
     {
       "raw_hot": 218652,
-      "num": 252560,
+      "num": 252698,
       "word": "苏新皓快来听",
       "onboard_time": 1732364899,
       "rank": 21,
@@ -29339,6 +29363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213251,
+      "num": 213251,
+      "word": "鹿晗佛山音乐节人气",
+      "onboard_time": 1732365501,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213124,
       "num": 178322,
       "word": "Suki怒喷Puff",
@@ -29656,6 +29688,14 @@
       "word": "鲜橙脆皮五花肉",
       "onboard_time": 1730860461,
       "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 211553,
+      "num": 211553,
+      "word": "旺旺再回应牛奶喝出异物",
+      "onboard_time": 1732364060,
+      "rank": 34,
       "category": "美食"
     },
     {
@@ -31163,6 +31203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204165,
+      "num": 204165,
+      "word": "贺峻霖Silence首舞台",
+      "onboard_time": 1732365380,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204151,
       "num": 470160,
       "word": "因为记者所以记着",
@@ -31699,14 +31747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 202048,
-      "num": 202048,
-      "word": "医生称用这3种卫生巾易引病上身",
-      "onboard_time": 1732364780,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202011,
       "num": 313055,
       "word": "性别争议奥运冠军医学报告曝光",
@@ -31873,6 +31913,14 @@
       "onboard_time": 1732163661,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201395,
+      "num": 201395,
+      "word": "永夜星河团综定档时间",
+      "onboard_time": 1732364659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 201339,
@@ -32329,14 +32377,6 @@
       "onboard_time": 1731738197,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199457,
-      "num": 199457,
-      "word": "110差点不叫110",
-      "onboard_time": 1732365140,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199442,
@@ -33027,14 +33067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196946,
-      "num": 196946,
-      "word": "旺旺再回应牛奶喝出异物",
-      "onboard_time": 1732364060,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 196937,
       "num": 196937,
       "word": "ENHYPEN全员黑西装",
@@ -33425,6 +33457,14 @@
       "onboard_time": 1731506181,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195368,
+      "num": 419994,
+      "word": "周翊然见面会",
+      "onboard_time": 1731776238,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195307,
@@ -34179,14 +34219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192521,
-      "num": 197554,
-      "word": "贺峻霖Silence首舞台",
-      "onboard_time": 1732365380,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192447,
       "num": 192447,
       "word": "双11晚会 苹果香",
@@ -34241,6 +34273,14 @@
       "onboard_time": 1730563701,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192294,
+      "num": 192294,
+      "word": "奔跑吧",
+      "onboard_time": 1731025220,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 192248,
@@ -34561,14 +34601,6 @@
       "onboard_time": 1730974282,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191083,
-      "num": 191083,
-      "word": "永夜星河团综定档时间",
-      "onboard_time": 1732364659,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 191080,
@@ -35955,6 +35987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185224,
+      "num": 185224,
+      "word": "秦霄贤纲丝节主持",
+      "onboard_time": 1732366520,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185204,
       "num": 269459,
       "word": "中国人爆改沙漠有亿点惊艳",
@@ -36089,6 +36129,14 @@
       "onboard_time": 1732164741,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184748,
+      "num": 184748,
+      "word": "好东西男性角色 男演员不愿意演",
+      "onboard_time": 1732362738,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 184687,
@@ -37201,14 +37249,6 @@
       "onboard_time": 1730551041,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179861,
-      "num": 179861,
-      "word": "好东西男性角色 男演员不愿意演",
-      "onboard_time": 1732362738,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 179855,
@@ -39067,6 +39107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171859,
+      "num": 287573,
+      "word": "关饕餮现实中是周舒桐的孩子",
+      "onboard_time": 1732364481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171837,
       "num": 171837,
       "word": "广州车展",
@@ -40595,6 +40643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 165535,
+      "num": 165535,
+      "word": "山东旺旺食品称异物初步判断不是老鼠",
+      "onboard_time": 1732366160,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165450,
       "num": 165450,
       "word": "KPL",
@@ -40985,6 +41041,14 @@
       "onboard_time": 1731855561,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164208,
+      "num": 164208,
+      "word": "中国航天实现了千年前李白的想象",
+      "onboard_time": 1732365682,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164178,
@@ -47003,14 +47067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141557,
-      "num": 209904,
-      "word": "周翊然见面会",
-      "onboard_time": 1731776238,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141493,
       "num": 141493,
       "word": "斯瓦泰克2比0卡萨金娜",
@@ -49403,14 +49459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131792,
-      "num": 131792,
-      "word": "中国航天实现了千年前李白的想象",
-      "onboard_time": 1732365682,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131757,
       "num": 131757,
       "word": "三清山被打26枚岩钉攀岩者赔600万",
@@ -51083,6 +51131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124763,
+      "num": 473781,
+      "word": "山东泰山1比3上海海港",
+      "onboard_time": 1732365920,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124754,
       "num": 124754,
       "word": "曾舜晞芭莎封面",
@@ -51595,14 +51651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122977,
-      "num": 122977,
-      "word": "奔跑吧",
-      "onboard_time": 1731025220,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122958,
       "num": 210236,
       "word": "律师称老人倒地店员报警已尽帮扶义务",
@@ -51849,6 +51897,14 @@
       "onboard_time": 1731137237,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121933,
+      "num": 514660,
+      "word": "跨省闪婚灰色产业盯上负债女性",
+      "onboard_time": 1732364960,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 121876,
@@ -53083,6 +53139,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 116250,
+      "num": 375178,
+      "word": "Mlxg解脱了",
+      "onboard_time": 1732363459,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116247,
       "num": 116247,
       "word": "深圳水贝黄金销量下滑",
@@ -53361,14 +53425,6 @@
       "onboard_time": 1731553641,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114847,
-      "num": 246678,
-      "word": "Mlxg解脱了",
-      "onboard_time": 1732363459,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 114826,
@@ -54075,6 +54131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111404,
+      "num": 519660,
+      "word": "上海海港首夺足协杯冠军",
+      "onboard_time": 1732365860,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111339,
       "num": 111339,
       "word": "戴珍珠耳环的少女3D版",
@@ -54641,6 +54705,14 @@
       "onboard_time": 1731337040,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108332,
+      "num": 530374,
+      "word": "王楚钦说为决赛全力以赴",
+      "onboard_time": 1732366040,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 108277,
@@ -55769,14 +55841,6 @@
       "onboard_time": 1730994561,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101931,
-      "num": 376927,
-      "word": "跨省闪婚灰色产业盯上负债女性",
-      "onboard_time": 1732364960,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 101796,
@@ -58371,6 +58435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84468,
+      "num": 165810,
+      "word": "张本智和说对王楚钦战斗到最后一刻",
+      "onboard_time": 1732362680,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84418,
       "num": 96804,
       "word": "2025乒乓球世界杯时间确定",
@@ -58632,14 +58704,6 @@
       "word": "白夜破晓审讯戏",
       "onboard_time": 1732193420,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83048,
-      "num": 287573,
-      "word": "关饕餮现实中是周舒桐的孩子",
-      "onboard_time": 1732364481,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -64387,6 +64451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51824,
+      "num": 475709,
+      "word": "丞磊陷入了投鞋问路无限流",
+      "onboard_time": 1732366160,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51798,
       "num": 252374,
       "word": "一镜到底看国足打穿日本防线",
@@ -64929,6 +65001,14 @@
       "onboard_time": 1730928311,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49808,
+      "num": 752824,
+      "word": "海南舰首次对公众开放",
+      "onboard_time": 1732366520,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 49760,
@@ -71683,6 +71763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28087,
+      "num": 544627,
+      "word": "第十二届全国少数民族传统体育运动会",
+      "onboard_time": 1732366520,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28066,
       "num": 277450,
       "word": "机器狼抓娃娃比我手稳",
@@ -72969,6 +73057,14 @@
       "onboard_time": 1731732978,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 24592,
+      "num": 508566,
+      "word": "决胜巅峰世界总决赛",
+      "onboard_time": 1732365741,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 24583,
