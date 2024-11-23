@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732361789517,
+  "endTime": 1732365710622,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1306809,
+      "num": 1306809,
+      "word": "熏鸡事变大结局",
+      "onboard_time": 1732359139,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1251100,
       "num": 1251100,
       "word": "丁禹兮 有驾照版",
@@ -121,14 +129,6 @@
       "onboard_time": 1732339998,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1102038,
-      "num": 1102038,
-      "word": "熏鸡事变大结局",
-      "onboard_time": 1732359139,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1098392,
@@ -169,6 +169,22 @@
       "onboard_time": 1732326318,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 877608,
+      "num": 751928,
+      "word": "时代少年团节目单",
+      "onboard_time": 1732363639,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 872431,
+      "num": 390195,
+      "word": "鹿晗眉钉",
+      "onboard_time": 1732364841,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 869613,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753002,
+      "num": 385134,
+      "word": "林更新 本来挺开心的你给整下头了",
+      "onboard_time": 1732363400,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746938,
       "num": 746938,
       "word": "王曼昱说按马琳战术赢下决胜局",
@@ -305,6 +329,14 @@
       "onboard_time": 1732346838,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 670801,
+      "num": 670801,
+      "word": "王楚钦拿下比赛怒吼",
+      "onboard_time": 1732362621,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 653640,
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526556,
+      "num": 526556,
+      "word": "张本智和说仍有机会战胜王楚钦",
+      "onboard_time": 1732361719,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520167,
       "num": 592588,
       "word": "Supernova年歌",
@@ -611,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411682,
+      "num": 411682,
+      "word": "2024KPOP最伟大的14分钟",
+      "onboard_time": 1732363820,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 405010,
       "num": 239575,
       "word": "小伙天生会扭脖子意外发现身世",
@@ -665,6 +713,14 @@
       "onboard_time": 1732324277,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376692,
+      "num": 376692,
+      "word": "宋亚轩 小怪兽",
+      "onboard_time": 1732363039,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 370150,
@@ -979,12 +1035,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 250091,
-      "num": 250091,
+      "raw_hot": 252069,
+      "num": 252069,
       "word": "好东西",
       "onboard_time": 1732275859,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250959,
+      "num": 250959,
+      "word": "双城之战 烂尾",
+      "onboard_time": 1732362979,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 249992,
@@ -1083,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234151,
+      "num": 234151,
+      "word": "妇幼医生多看一眼救了一个家庭",
+      "onboard_time": 1732358000,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 227136,
       "num": 227136,
       "word": "王楚钦把莫雷高德打炸毛了",
@@ -1123,12 +1195,28 @@
       "category": "综艺,电影"
     },
     {
+      "raw_hot": 219642,
+      "num": 219642,
+      "word": "虞书欣双轨黑长直造型",
+      "onboard_time": 1732364721,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218831,
       "num": 324189,
       "word": "浙大回应馒头冻两天滋生黄曲霉毒素",
       "onboard_time": 1732354760,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 218652,
+      "num": 252560,
+      "word": "苏新皓快来听",
+      "onboard_time": 1732364899,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 216149,
@@ -1195,6 +1283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205051,
+      "num": 205051,
+      "word": "长月烬明衡阳宗拆除",
+      "onboard_time": 1732364120,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202755,
       "num": 202755,
       "word": "SEVENTEEN获超级舞台奖",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1732351399,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202048,
+      "num": 202048,
+      "word": "医生称用这3种卫生巾易引病上身",
+      "onboard_time": 1732364780,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201600,
@@ -1241,6 +1345,14 @@
       "onboard_time": 1732352838,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199457,
+      "num": 199457,
+      "word": "110差点不叫110",
+      "onboard_time": 1732365140,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198825,
@@ -1283,6 +1395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196946,
+      "num": 196946,
+      "word": "旺旺再回应牛奶喝出异物",
+      "onboard_time": 1732364060,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196811,
       "num": 196811,
       "word": "宫脇咲良许允真cha袁一琦新歌",
@@ -1315,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192934,
+      "num": 178941,
+      "word": "宋亚轩张真源贺峻霖 达拉崩吧",
+      "onboard_time": 1732363699,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192855,
       "num": 183900,
       "word": "虞书欣开启海岛副本",
@@ -1331,12 +1459,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192521,
+      "num": 197554,
+      "word": "贺峻霖Silence首舞台",
+      "onboard_time": 1732365380,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192158,
       "num": 192158,
       "word": "我是刑警请了大半个叔圈",
       "onboard_time": 1732339517,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191083,
+      "num": 191083,
+      "word": "永夜星河团综定档时间",
+      "onboard_time": 1732364659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 190607,
@@ -1411,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183806,
+      "num": 183806,
+      "word": "白夜2编剧",
+      "onboard_time": 1732362259,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181179,
       "num": 181179,
       "word": "税务师查成绩",
@@ -1425,6 +1577,14 @@
       "onboard_time": 1732361060,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179861,
+      "num": 179861,
+      "word": "好东西男性角色 男演员不愿意演",
+      "onboard_time": 1732362738,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 176631,
@@ -1563,6 +1723,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 162420,
+      "num": 162420,
+      "word": "王楚钦连续3年进WTT总决赛决赛",
+      "onboard_time": 1732363880,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162132,
       "num": 162132,
       "word": "王耀庆 丁禹兮随谁叫的舅舅",
@@ -1691,6 +1859,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 152082,
+      "num": 394285,
+      "word": "王楚钦说抛除杂念了",
+      "onboard_time": 1732363580,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151255,
       "num": 151255,
       "word": "成毅棕色长皮衣",
@@ -1721,6 +1897,14 @@
       "onboard_time": 1732325179,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147273,
+      "num": 147273,
+      "word": "失笑结局没让我失笑",
+      "onboard_time": 1732364299,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 147216,
@@ -1769,6 +1953,14 @@
       "onboard_time": 1732337838,
       "rank": 39,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 145206,
+      "num": 145206,
+      "word": "许昕说王楚钦是带着决心来的",
+      "onboard_time": 1732363338,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 144495,
@@ -1827,6 +2019,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141557,
+      "num": 209904,
+      "word": "周翊然见面会",
+      "onboard_time": 1732365441,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141251,
+      "num": 141251,
+      "word": "王楚钦赛后采访",
+      "onboard_time": 1732361779,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140388,
       "num": 324339,
       "word": "张小斐自制的面包好酥脆",
@@ -1873,14 +2081,6 @@
       "onboard_time": 1732287321,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 137735,
-      "num": 137735,
-      "word": "张本智和说仍有机会战胜王楚钦",
-      "onboard_time": 1732361719,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 137203,
@@ -1963,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131792,
+      "num": 131792,
+      "word": "中国航天实现了千年前李白的想象",
+      "onboard_time": 1732365682,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131143,
       "num": 131143,
       "word": "周洁琼弹琵琶告别小巷人家",
@@ -1993,14 +2201,6 @@
       "onboard_time": 1732289059,
       "rank": 37,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 129411,
-      "num": 129411,
-      "word": "妇幼医生多看一眼救了一个家庭",
-      "onboard_time": 1732358000,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 128332,
@@ -2147,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114847,
+      "num": 246678,
+      "word": "Mlxg解脱了",
+      "onboard_time": 1732363459,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113146,
       "num": 113146,
       "word": "独行侠战胜掘金",
@@ -2265,6 +2473,14 @@
       "onboard_time": 1732329978,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101931,
+      "num": 376927,
+      "word": "跨省闪婚灰色产业盯上负债女性",
+      "onboard_time": 1732364960,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 101778,
@@ -2473,6 +2689,14 @@
       "onboard_time": 1732352539,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83048,
+      "num": 287573,
+      "word": "关饕餮现实中是周舒桐的孩子",
+      "onboard_time": 1732364481,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 81570,
