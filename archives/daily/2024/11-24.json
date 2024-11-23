@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732379213460,
+  "endTime": 1732380198997,
   "band_list": [
     {
       "raw_hot": 1322682,
@@ -51,6 +51,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 501484,
+      "num": 360362,
+      "word": "鹿晗 野玫瑰",
+      "onboard_time": 1732368560,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 449459,
       "num": 281553,
       "word": "偶遇黄圣依杨子飞新加坡",
@@ -89,14 +97,6 @@
       "onboard_time": 1732363820,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 360362,
-      "num": 360362,
-      "word": "鹿晗 野玫瑰",
-      "onboard_time": 1732368560,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 356938,
@@ -155,7 +155,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215066,
+      "raw_hot": 219548,
+      "num": 219548,
+      "word": "抗癌博主湘妹子去世瘦成皮包骨",
+      "onboard_time": 1732377739,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 217347,
       "num": 269620,
       "word": "感冒都好了为什么还一直咳嗽",
       "onboard_time": 1732376121,
@@ -163,12 +171,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188136,
-      "num": 188136,
-      "word": "抗癌博主湘妹子去世瘦成皮包骨",
-      "onboard_time": 1732377739,
-      "rank": 22,
-      "category": "网红"
+      "raw_hot": 186598,
+      "num": 191029,
+      "word": "医生谈医用卫生巾爆火",
+      "onboard_time": 1732376720,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 186323,
@@ -179,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172464,
+      "num": 172464,
+      "word": "难听",
+      "onboard_time": 1732350738,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169399,
       "num": 169399,
       "word": "杨超越去了许嵩演唱会",
@@ -187,20 +203,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165550,
-      "num": 165550,
-      "word": "难听",
-      "onboard_time": 1732350738,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 149014,
-      "num": 191029,
-      "word": "医生谈医用卫生巾爆火",
-      "onboard_time": 1732376720,
-      "rank": 20,
-      "category": "财经"
+      "raw_hot": 162385,
+      "num": 125866,
+      "word": "哈尔滨中央大街铺上地毯了",
+      "onboard_time": 1732378279,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 147131,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133810,
+      "num": 176154,
+      "word": "吴柳芳涨粉",
+      "onboard_time": 1732379117,
+      "rank": 24,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 132103,
       "num": 132103,
       "word": "张本智和说不太在意排名",
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125866,
-      "num": 125866,
-      "word": "哈尔滨中央大街铺上地毯了",
-      "onboard_time": 1732378279,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 125383,
       "num": 125383,
       "word": "范丞丞是跑男特别季的花字",
@@ -275,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122771,
+      "num": 122771,
+      "word": "虞书欣双轨黑长直造型",
+      "onboard_time": 1732364721,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120633,
       "num": 120633,
       "word": "时代少年团双人拍立得",
       "onboard_time": 1732376301,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116265,
+      "num": 116265,
+      "word": "沈月发长文告别失笑",
+      "onboard_time": 1732379596,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 109500,
@@ -299,14 +323,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 106724,
-      "num": 106724,
-      "word": "虞书欣双轨黑长直造型",
-      "onboard_time": 1732364721,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100944,
       "num": 100944,
       "word": "秦霄贤纲丝节主持",
@@ -321,6 +337,14 @@
       "onboard_time": 1732356800,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98505,
+      "num": 98505,
+      "word": "双城之战 烂尾",
+      "onboard_time": 1732362979,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 97970,
@@ -355,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86503,
+      "num": 86503,
+      "word": "你的身份证快到期了吗",
+      "onboard_time": 1732379479,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81189,
       "num": 81189,
       "word": "全校通报安可",
@@ -371,7 +403,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 61184,
+      "raw_hot": 77697,
       "num": 208079,
       "word": "丁禹兮臭屁大男孩",
       "onboard_time": 1732378638,
@@ -379,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42176,
-      "num": 176154,
-      "word": "吴柳芳涨粉",
-      "onboard_time": 1732379117,
-      "rank": 24,
-      "category": "体育,网红"
+      "raw_hot": 36174,
+      "num": 187658,
+      "word": "畅所余言",
+      "onboard_time": 1732379836,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 21058,
