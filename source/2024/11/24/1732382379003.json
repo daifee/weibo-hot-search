@@ -1,0 +1,410 @@
+{
+  "runTime": 1732382379003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 693336,
+        "num": 693336,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508807,
+        "num": 508807,
+        "word": "黄圣依 死脑快想啊",
+        "onboard_time": 1732370601,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13449,
+        "num": 400246,
+        "word": "当600多岁的长城遇到同龄昆曲",
+        "onboard_time": 1732369040,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380325,
+        "num": 380325,
+        "word": "吴柳芳涨粉",
+        "onboard_time": 1732379117,
+        "rank": 3,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 375263,
+        "num": 375263,
+        "word": "抗癌博主湘妹子去世瘦成皮包骨",
+        "onboard_time": 1732377739,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 296305,
+        "num": 296305,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 252568,
+        "num": 252568,
+        "word": "鹿晗 野玫瑰",
+        "onboard_time": 1732368560,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232475,
+        "num": 232475,
+        "word": "保时捷回应货拉拉纠纷事件",
+        "onboard_time": 1732377679,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223461,
+        "num": 223461,
+        "word": "医生称用这3种卫生巾易引病上身",
+        "onboard_time": 1732364780,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105135,
+        "num": 221557,
+        "word": "你的身份证快到期了吗",
+        "onboard_time": 1732379479,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353355,
+        "num": 217217,
+        "word": "乔欣无名指戒指",
+        "onboard_time": 1732377379,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344475,
+        "num": 211026,
+        "word": "鹿晗眉钉",
+        "onboard_time": 1732364841,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156431,
+        "num": 209425,
+        "word": "医生谈医用卫生巾爆火",
+        "onboard_time": 1732376720,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206076,
+        "num": 206076,
+        "word": "鞠婧祎身上有两只蝴蝶",
+        "onboard_time": 1732376480,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204859,
+        "num": 204859,
+        "word": "偶遇黄圣依杨子飞新加坡",
+        "onboard_time": 1732372763,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189520,
+        "num": 189520,
+        "word": "丁禹兮超话热度爆了",
+        "onboard_time": 1732372101,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157220,
+        "num": 157220,
+        "word": "2024KPOP最伟大的14分钟",
+        "onboard_time": 1732363820,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139053,
+        "num": 139053,
+        "word": "官方回应潮州大量商户关门传闻",
+        "onboard_time": 1732373062,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121490,
+        "num": 121490,
+        "word": "鹿晗说马上要开四巡了",
+        "onboard_time": 1732372582,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25753,
+        "num": 111215,
+        "word": "苏新皓演我被偶像翻牌",
+        "onboard_time": 1732382295,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164325,
+        "num": 109134,
+        "word": "独生女婚后全款给父母买房难要回",
+        "onboard_time": 1732369941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135266,
+        "num": 108491,
+        "word": "王楚钦张本智和争冠",
+        "onboard_time": 1732359622,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106943,
+        "num": 106943,
+        "word": "感冒都好了为什么还一直咳嗽",
+        "onboard_time": 1732376121,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9524,
+        "num": 99594,
+        "word": "山东泰山半场0比2上海海港",
+        "onboard_time": 1732381995,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99279,
+        "num": 99279,
+        "word": "难听",
+        "onboard_time": 1732350738,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97258,
+        "num": 97258,
+        "word": "马斯克个人财富暴增超6000亿元",
+        "onboard_time": 1732369040,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89870,
+        "num": 89870,
+        "word": "杨超越去了许嵩演唱会",
+        "onboard_time": 1732370781,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87669,
+        "num": 87669,
+        "word": "好东西",
+        "onboard_time": 1732339998,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85656,
+        "num": 85656,
+        "word": "双城之战 烂尾",
+        "onboard_time": 1732362979,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 84326,
+        "num": 84326,
+        "word": "虞书欣双轨黑长直造型",
+        "onboard_time": 1732364721,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44580,
+        "num": 84316,
+        "word": "林俊杰新书战报",
+        "onboard_time": 1732381037,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137323,
+        "num": 84260,
+        "word": "哈尔滨中央大街铺上地毯了",
+        "onboard_time": 1732378279,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 88058,
+        "num": 84234,
+        "word": "金马奖将追赠郑佩佩终身成就奖",
+        "onboard_time": 1732372101,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63629,
+        "num": 84196,
+        "word": "抗癌网红湘妹子去世儿子发声",
+        "onboard_time": 1732380857,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84156,
+        "num": 84156,
+        "word": "学霸曝光特训学校黑暗内幕",
+        "onboard_time": 1732371141,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80356,
+        "num": 80356,
+        "word": "许光汉吴君如借位接吻",
+        "onboard_time": 1732374860,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74551,
+        "num": 74551,
+        "word": "BIGBANG合体",
+        "onboard_time": 1732348459,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73936,
+        "num": 73936,
+        "word": "感冒后咳嗽是身体在大扫除",
+        "onboard_time": 1732371621,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73424,
+        "num": 73424,
+        "word": "睡眠不足身体会出现什么变化",
+        "onboard_time": 1732367360,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71980,
+        "num": 71980,
+        "word": "沈月发长文告别失笑",
+        "onboard_time": 1732379596,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71970,
+        "num": 71970,
+        "word": "林更新 本来挺开心的你给整下头了",
+        "onboard_time": 1732363400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69669,
+        "num": 71965,
+        "word": "TFING道歉声明",
+        "onboard_time": 1732367421,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63432,
+        "num": 71932,
+        "word": "秦霄贤纲丝节主持",
+        "onboard_time": 1732366520,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61070,
+        "num": 71908,
+        "word": "宋亚轩 小怪兽",
+        "onboard_time": 1732363039,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58934,
+        "num": 71893,
+        "word": "双城之战",
+        "onboard_time": 1732371862,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 58504,
+        "num": 71869,
+        "word": "现在拨打的电话",
+        "onboard_time": 1732379238,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57012,
+        "num": 71836,
+        "word": "时代少年团双人拍立得",
+        "onboard_time": 1732376301,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56203,
+        "num": 71818,
+        "word": "菲副总统自爆如被害就找马科斯算账",
+        "onboard_time": 1732367601,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54258,
+        "num": 71788,
+        "word": "妇幼医生多看一眼救了一个家庭",
+        "onboard_time": 1732358000,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 52548,
+        "num": 71768,
+        "word": "张本智和说不太在意排名",
+        "onboard_time": 1732375401,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越山海的友谊团结合作开拓之旅#"
+    }
+  }
+}
