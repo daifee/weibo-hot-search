@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732358513920,
+  "endTime": 1732360719374,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -9,6 +9,14 @@
       "onboard_time": 1732348459,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2362812,
+      "num": 2362812,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1732356980,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 2158387,
@@ -27,20 +35,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2003206,
-      "num": 2003206,
-      "word": "王楚钦vs约奇克",
-      "onboard_time": 1732356980,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1961613,
       "num": 1961613,
       "word": "微信将14天后自动清理原图原视频",
       "onboard_time": 1732340718,
       "rank": 0,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 1791958,
+      "num": 1791958,
+      "word": "王楚钦闯进决赛",
+      "onboard_time": 1732359561,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1685199,
@@ -67,19 +75,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1386795,
+      "num": 1367204,
+      "word": "杨子口型",
+      "onboard_time": 1732356800,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1371630,
       "num": 1371630,
       "word": "李行亮下期要跟麦琳求婚",
       "onboard_time": 1732331718,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1367204,
-      "num": 1367204,
-      "word": "杨子口型",
-      "onboard_time": 1732356800,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -171,6 +179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 858160,
+      "num": 473297,
+      "word": "熏鸡事变大结局",
+      "onboard_time": 1732359139,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 841065,
       "num": 549268,
       "word": "王宝强凌晨带女友回别墅",
@@ -233,6 +249,14 @@
       "onboard_time": 1732345818,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 730490,
+      "num": 730490,
+      "word": "于东来连发11条动态",
+      "onboard_time": 1732357160,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 703216,
@@ -515,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436042,
+      "num": 436042,
+      "word": "王楚钦手感绝了",
+      "onboard_time": 1732359319,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430998,
       "num": 430998,
       "word": "交大教练说张雨绮对象输球输人",
@@ -544,14 +576,6 @@
       "word": "遭家暴16次挂粪袋女子重做伤残鉴定",
       "onboard_time": 1732330637,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 418049,
-      "num": 604818,
-      "word": "于东来连发11条动态",
-      "onboard_time": 1732357160,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -627,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370150,
+      "num": 438304,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1732357701,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 363971,
       "num": 235409,
       "word": "以后男主名字禁止叫远舟",
@@ -699,20 +731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323795,
+      "num": 323795,
+      "word": "Uzi开团无状态",
+      "onboard_time": 1732356383,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319535,
       "num": 319535,
       "word": "苏新皓1088个啊回应权志龙",
       "onboard_time": 1732345217,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313267,
-      "num": 313267,
-      "word": "Uzi开团无状态",
-      "onboard_time": 1732356383,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 311023,
@@ -867,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270997,
+      "num": 434784,
+      "word": "王楚钦张本智和争冠",
+      "onboard_time": 1732359622,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270498,
       "num": 270498,
       "word": "虞书欣ins 他拍的",
@@ -899,20 +939,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265252,
-      "num": 265252,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1732357701,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 264464,
       "num": 264464,
       "word": "时代少年团五周年灯光秀",
       "onboard_time": 1732290618,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 261135,
+      "num": 261135,
+      "word": "向佐真是闯进穿搭赛道了",
+      "onboard_time": 1732358719,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 252561,
@@ -923,8 +963,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 249026,
-      "num": 249026,
+      "raw_hot": 250091,
+      "num": 250091,
       "word": "好东西",
       "onboard_time": 1732275859,
       "rank": 21,
@@ -1083,11 +1123,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210411,
+      "num": 210411,
+      "word": "时代少年团五周年演唱会",
+      "onboard_time": 1732350499,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 208906,
+      "num": 208906,
+      "word": "旺旺集团回应旺仔牛奶疑现异物",
+      "onboard_time": 1732357520,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207494,
       "num": 393301,
       "word": "梁朝伟获荣誉博士",
       "onboard_time": 1732338498,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206523,
+      "num": 434043,
+      "word": "娜扎泰国偶遇薛之谦海报",
+      "onboard_time": 1732359080,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1155,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199261,
-      "num": 199261,
-      "word": "时代少年团五周年演唱会",
-      "onboard_time": 1732350499,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 198575,
       "num": 198575,
       "word": "MAMA直播",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1732319296,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198233,
+      "num": 472616,
+      "word": "王楚钦4比1约奇克",
+      "onboard_time": 1732359561,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 197657,
@@ -1363,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173176,
+      "num": 173176,
+      "word": "权志龙获奖感言",
+      "onboard_time": 1732360040,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172043,
       "num": 172043,
       "word": "佛山音乐节",
@@ -1467,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160354,
+      "num": 502744,
+      "word": "深圳一中学被指强制学生剪寸头",
+      "onboard_time": 1732359800,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160179,
       "num": 351280,
       "word": "祝绪丹BGM闯进文旅赛道了",
@@ -1563,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152760,
+      "num": 152760,
+      "word": "王楚钦晋级决赛",
+      "onboard_time": 1732360458,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152377,
       "num": 222131,
       "word": "Uzi捂脸不看无状态镜头",
@@ -1587,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147848,
+      "num": 147848,
+      "word": "日媒高度评价了王楚钦的比赛",
+      "onboard_time": 1732360221,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147331,
       "num": 243672,
       "word": "川航回应成都飞温哥华航班遇炸弹气旋",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1732340058,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146990,
+      "num": 180626,
+      "word": "光与夜之恋",
+      "onboard_time": 1732359561,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 146736,
@@ -1691,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140388,
+      "num": 324339,
+      "word": "张小斐自制的面包好酥脆",
+      "onboard_time": 1732356681,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138833,
       "num": 231257,
       "word": "OBGG显示Gala加入iG",
@@ -1729,6 +1841,14 @@
       "onboard_time": 1732287321,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137203,
+      "num": 178828,
+      "word": "足协杯决赛",
+      "onboard_time": 1732359439,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 136574,
@@ -1835,12 +1955,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 128275,
+      "num": 128275,
+      "word": "白夜破晓 同人",
+      "onboard_time": 1732358899,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127976,
       "num": 127976,
       "word": "伯远回应耳帝点评",
       "onboard_time": 1732332319,
       "rank": 48,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 127896,
+      "num": 127896,
+      "word": "宋亚轩 欢迎赴宴",
+      "onboard_time": 1732359200,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 127617,
@@ -1867,12 +2003,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125337,
+      "num": 125337,
+      "word": "樱桃琥珀",
+      "onboard_time": 1732360700,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125200,
       "num": 125200,
       "word": "王曼昱赢得首局",
       "onboard_time": 1732348759,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124193,
+      "num": 124193,
+      "word": "男子打赏女主播400万自己啃馒头",
+      "onboard_time": 1732360040,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "九尾挑杯休息",
+      "onboard_time": 1732360040,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 122890,
@@ -2089,14 +2249,6 @@
       "onboard_time": 1732344559,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99793,
-      "num": 324339,
-      "word": "张小斐自制的面包好酥脆",
-      "onboard_time": 1732356681,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 98692,

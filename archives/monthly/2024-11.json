@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732358513920,
+  "endTime": 1732360719374,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2362812,
+      "num": 2362812,
+      "word": "王楚钦vs约奇克",
+      "onboard_time": 1732356980,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2345722,
       "num": 655671,
       "word": "泽连斯基",
@@ -1171,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2003206,
-      "num": 2003206,
-      "word": "王楚钦vs约奇克",
-      "onboard_time": 1732356980,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2003177,
       "num": 2003177,
       "word": "网友翻出16年晓华理发店照片",
@@ -1441,6 +1441,14 @@
       "onboard_time": 1731814038,
       "rank": 10,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1791958,
+      "num": 1791958,
+      "word": "王楚钦闯进决赛",
+      "onboard_time": 1732359561,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1791157,
@@ -2747,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1386795,
+      "num": 1367204,
+      "word": "杨子口型",
+      "onboard_time": 1732356800,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1384220,
       "num": 629615,
       "word": "烧伤妈妈说不想再住原来的房子",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1731475280,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1367204,
-      "num": 1367204,
-      "word": "杨子口型",
-      "onboard_time": 1732356800,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1365668,
@@ -6395,6 +6403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 858160,
+      "num": 473297,
+      "word": "熏鸡事变大结局",
+      "onboard_time": 1732359139,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 857836,
       "num": 857836,
       "word": "珠海航展2万1套半真枪被抢光",
@@ -8281,6 +8297,14 @@
       "onboard_time": 1731726737,
       "rank": 20,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 730490,
+      "num": 730490,
+      "word": "于东来连发11条动态",
+      "onboard_time": 1732357160,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 730070,
@@ -15715,6 +15739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436042,
+      "num": 436042,
+      "word": "王楚钦手感绝了",
+      "onboard_time": 1732359319,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435896,
       "num": 317003,
       "word": "父亲陪打游戏凌晨4点儿子崩溃大哭",
@@ -16313,14 +16345,6 @@
       "onboard_time": 1731134657,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418049,
-      "num": 604818,
-      "word": "于东来连发11条动态",
-      "onboard_time": 1732357160,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 417886,
@@ -18369,6 +18393,14 @@
       "onboard_time": 1731544101,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370150,
+      "num": 438304,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1732357701,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 370004,
@@ -20443,6 +20475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323795,
+      "num": 323795,
+      "word": "Uzi开团无状态",
+      "onboard_time": 1732356383,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 323759,
       "num": 323759,
       "word": "为什么数学水平最难造假",
@@ -20945,14 +20985,6 @@
       "onboard_time": 1731800655,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 313267,
-      "num": 313267,
-      "word": "Uzi开团无状态",
-      "onboard_time": 1732356383,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 313232,
@@ -23739,6 +23771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270997,
+      "num": 434784,
+      "word": "王楚钦张本智和争冠",
+      "onboard_time": 1732359622,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270604,
       "num": 270604,
       "word": "不建议囤太多卫生巾",
@@ -24155,14 +24195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 265252,
-      "num": 265252,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1732357701,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 265233,
       "num": 287200,
       "word": "美国大选选举日首个投票点结果出炉",
@@ -24449,6 +24481,14 @@
       "onboard_time": 1731893477,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 261135,
+      "num": 261135,
+      "word": "向佐真是闯进穿搭赛道了",
+      "onboard_time": 1732358719,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 260995,
@@ -29723,6 +29763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210411,
+      "num": 210411,
+      "word": "时代少年团五周年演唱会",
+      "onboard_time": 1732350499,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210409,
       "num": 210409,
       "word": "麦琳有腰椎滑脱",
@@ -29977,6 +30025,14 @@
       "onboard_time": 1730721920,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 208906,
+      "num": 208906,
+      "word": "旺旺集团回应旺仔牛奶疑现异物",
+      "onboard_time": 1732357520,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 208883,
@@ -30425,6 +30481,14 @@
       "onboard_time": 1731502519,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206523,
+      "num": 434043,
+      "word": "娜扎泰国偶遇薛之谦海报",
+      "onboard_time": 1732359080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 206461,
@@ -32227,14 +32291,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 199261,
-      "num": 199261,
-      "word": "时代少年团五周年演唱会",
-      "onboard_time": 1732350499,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199249,
       "num": 199249,
       "word": "张杰官宣马来西亚演唱会",
@@ -32465,6 +32521,14 @@
       "onboard_time": 1731074961,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 198233,
+      "num": 472616,
+      "word": "王楚钦4比1约奇克",
+      "onboard_time": 1732359561,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 198112,
@@ -38443,6 +38507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173176,
+      "num": 173176,
+      "word": "权志龙获奖感言",
+      "onboard_time": 1732360040,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173144,
       "num": 173144,
       "word": "王楚钦回应一举一动都被关注",
@@ -41683,6 +41755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160354,
+      "num": 502744,
+      "word": "深圳一中学被指强制学生剪寸头",
+      "onboard_time": 1732359800,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160314,
       "num": 387723,
       "word": "九寨沟回应被指人为引进水獭",
@@ -43683,6 +43763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152760,
+      "num": 152760,
+      "word": "王楚钦晋级决赛",
+      "onboard_time": 1732360458,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152745,
       "num": 308413,
       "word": "李斯丹妮催更再见爱人",
@@ -45137,6 +45225,14 @@
       "onboard_time": 1731599899,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147848,
+      "num": 147848,
+      "word": "日媒高度评价了王楚钦的比赛",
+      "onboard_time": 1732360221,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 147826,
@@ -46987,6 +47083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140388,
+      "num": 324339,
+      "word": "张小斐自制的面包好酥脆",
+      "onboard_time": 1732356681,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140382,
       "num": 140382,
       "word": "宋佳工作室 一种很新的出发图",
@@ -47833,6 +47937,14 @@
       "onboard_time": 1731332900,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137203,
+      "num": 178828,
+      "word": "足协杯决赛",
+      "onboard_time": 1732359439,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 137115,
@@ -49835,6 +49947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128275,
+      "num": 128275,
+      "word": "白夜破晓 同人",
+      "onboard_time": 1732358899,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128234,
       "num": 128234,
       "word": "张峻豪定制手表",
@@ -49993,6 +50113,14 @@
       "onboard_time": 1730516056,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127896,
+      "num": 127896,
+      "word": "宋亚轩 欢迎赴宴",
+      "onboard_time": 1732359200,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 127847,
@@ -50523,6 +50651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125337,
+      "num": 125337,
+      "word": "樱桃琥珀",
+      "onboard_time": 1732360700,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125335,
       "num": 173778,
       "word": "歼15T结合新型隐身舰载机作战更丰富",
@@ -50883,6 +51019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124193,
+      "num": 124193,
+      "word": "男子打赏女主播400万自己啃馒头",
+      "onboard_time": 1732360040,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124177,
       "num": 124177,
       "word": "裴珠泫ins更新",
@@ -50977,6 +51121,14 @@
       "onboard_time": 1730799320,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "九尾挑杯休息",
+      "onboard_time": 1732360040,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 123726,
@@ -55713,14 +55865,6 @@
       "onboard_time": 1731972197,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99793,
-      "num": 324339,
-      "word": "张小斐自制的面包好酥脆",
-      "onboard_time": 1732356681,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 99776,
