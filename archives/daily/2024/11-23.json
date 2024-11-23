@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732336089481,
+  "endTime": 1732336910772,
   "band_list": [
     {
       "raw_hot": 2158387,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1010894,
-      "num": 1010894,
+      "raw_hot": 1041947,
+      "num": 1041947,
       "word": "清华回应晒旅游照贫困生被保研",
       "onboard_time": 1732334477,
       "rank": 3,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 848835,
+      "num": 848835,
+      "word": "丁禹兮 有驾照版",
+      "onboard_time": 1732335917,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840087,
       "num": 840087,
       "word": "旺旺三公子称明显有人在搞事",
       "onboard_time": 1732330277,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 836958,
+      "num": 528725,
+      "word": "赵露思发红包",
+      "onboard_time": 1732335618,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 699606,
@@ -163,11 +179,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 526028,
-      "num": 526028,
-      "word": "赵露思发红包",
-      "onboard_time": 1732335618,
-      "rank": 7,
+      "raw_hot": 532795,
+      "num": 452252,
+      "word": "霍建华林心如观看女儿演出",
+      "onboard_time": 1732333339,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -195,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484966,
+      "num": 484966,
+      "word": "新疆一摄像头拍下雪崩过程",
+      "onboard_time": 1732333697,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456632,
       "num": 456632,
       "word": "何炅主持最尴尬的一次",
@@ -209,14 +233,6 @@
       "onboard_time": 1732274720,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 437185,
-      "num": 437185,
-      "word": "霍建华林心如观看女儿演出",
-      "onboard_time": 1732333339,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 430998,
@@ -299,12 +315,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 345629,
-      "num": 459720,
-      "word": "新疆一摄像头拍下雪崩过程",
-      "onboard_time": 1732333697,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 355567,
+      "num": 293661,
+      "word": "李庚希魏大勋的吻戏",
+      "onboard_time": 1732335498,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 353896,
+      "num": 353896,
+      "word": "贫困生一年旅游20多地引争议",
+      "onboard_time": 1732331777,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 340805,
@@ -321,14 +345,6 @@
       "onboard_time": 1732332618,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321342,
-      "num": 321342,
-      "word": "贫困生一年旅游20多地引争议",
-      "onboard_time": 1732331777,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 311023,
@@ -387,14 +403,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 273197,
-      "num": 273197,
-      "word": "丁禹兮 有驾照版",
-      "onboard_time": 1732335917,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272050,
       "num": 272050,
       "word": "还有朋友圈全部开放的人吗",
@@ -425,14 +433,6 @@
       "onboard_time": 1732258880,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265606,
-      "num": 265606,
-      "word": "李庚希魏大勋的吻戏",
-      "onboard_time": 1732335498,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 264464,
@@ -475,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241727,
+      "num": 241727,
+      "word": "因果报应 女性受害者就该这样拍",
+      "onboard_time": 1732333397,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235701,
       "num": 235701,
       "word": "好东西 亲密关系低成本试错",
@@ -513,6 +521,14 @@
       "onboard_time": 1732297993,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217616,
+      "num": 217616,
+      "word": "沙溢一年减重36斤",
+      "onboard_time": 1732336159,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 215350,
@@ -627,14 +643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 163512,
-      "num": 163512,
-      "word": "因果报应 女性受害者就该这样拍",
-      "onboard_time": 1732333397,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162132,
       "num": 162132,
       "word": "王耀庆 丁禹兮随谁叫的舅舅",
@@ -667,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156446,
+      "num": 156446,
+      "word": "镇魂街 2D国漫",
+      "onboard_time": 1732336277,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 155394,
       "num": 155394,
       "word": "蔡昆廷向郭旭求婚",
@@ -689,6 +705,14 @@
       "onboard_time": 1732323798,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 148385,
+      "num": 123612,
+      "word": "虞书欣说自己是从负一点点扳正的",
+      "onboard_time": 1732336697,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147331,
@@ -776,6 +800,14 @@
       "word": "赶路暂停",
       "onboard_time": 1732291338,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133046,
+      "num": 133046,
+      "word": "奔跑吧今日首播",
+      "onboard_time": 1732336758,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -889,6 +921,14 @@
       "onboard_time": 1732295355,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112813,
+      "num": 290386,
+      "word": "第一视角看雪崩50秒吞没山谷",
+      "onboard_time": 1732336697,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110479,
@@ -1115,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72022,
+      "num": 233935,
+      "word": "徐明浩新歌",
+      "onboard_time": 1732336818,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68990,
       "num": 120562,
       "word": "XLB回应Doinb",
@@ -1123,20 +1171,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64679,
+      "num": 244161,
+      "word": "肖战唱往事随风江湖感拉满",
+      "onboard_time": 1732335738,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 64256,
       "num": 64256,
       "word": "女子称父亲失踪18年被困黑窑厂",
       "onboard_time": 1732303391,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62699,
-      "num": 244161,
-      "word": "肖战唱往事随风江湖感拉满",
-      "onboard_time": 1732335738,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 62349,
@@ -1153,6 +1201,14 @@
       "onboard_time": 1732280600,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 60494,
+      "num": 311290,
+      "word": "邓为星期五对镜拍",
+      "onboard_time": 1732336338,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 59796,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1732281441,
       "rank": 2,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56243,
+      "num": 475380,
+      "word": "市监部门回应旺仔牛奶事件",
+      "onboard_time": 1732336758,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 55914,
@@ -1283,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42547,
+      "num": 466371,
+      "word": "10个宝藏冬游好去处",
+      "onboard_time": 1732335378,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41547,
       "num": 41547,
       "word": "华山回应拆除金锁关许愿锁",
@@ -1347,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32150,
-      "num": 446239,
-      "word": "10个宝藏冬游好去处",
-      "onboard_time": 1732335378,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31239,
       "num": 141967,
       "word": "旺仔客服称问题商品为线下购买",
@@ -1364,7 +1428,7 @@
     },
     {
       "raw_hot": 31166,
-      "num": 141066,
+      "num": 151336,
       "word": "为全球气候治理作出中国贡献",
       "onboard_time": 1732335078,
       "rank": 43,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1732291578,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28895,
+      "num": 1141425,
+      "word": "世界需要多些合作桥梁少点小院高墙",
+      "onboard_time": 1732335618,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28546,
@@ -1443,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22249,
+      "num": 289764,
+      "word": "凯恩帽子戏法",
+      "onboard_time": 1732336338,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22131,
       "num": 60156,
       "word": "张杰外南街小孩回家",
@@ -1465,14 +1545,6 @@
       "onboard_time": 1732302551,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17556,
-      "num": 1141425,
-      "word": "世界需要多些合作桥梁少点小院高墙",
-      "onboard_time": 1732335618,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17167,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1732316954,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12782,
+      "num": 406342,
+      "word": "钟楚曦说先爱自己才能去爱人",
+      "onboard_time": 1732336818,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 11241,

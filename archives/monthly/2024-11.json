@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732336089481,
+  "endTime": 1732336910772,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4571,6 +4571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1041947,
+      "num": 1041947,
+      "word": "清华回应晒旅游照贫困生被保研",
+      "onboard_time": 1732334477,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1040882,
       "num": 1040882,
       "word": "日本克罗地亚等9国来华免签",
@@ -4889,14 +4897,6 @@
       "onboard_time": 1731920599,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1010894,
-      "num": 1010894,
-      "word": "清华回应晒旅游照贫困生被保研",
-      "onboard_time": 1732334477,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1010322,
@@ -6435,6 +6435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 848835,
+      "num": 848835,
+      "word": "丁禹兮 有驾照版",
+      "onboard_time": 1732335917,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 848309,
       "num": 1135729,
       "word": "李行亮道歉这段",
@@ -6625,6 +6633,14 @@
       "onboard_time": 1731401781,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836958,
+      "num": 528725,
+      "word": "赵露思发红包",
+      "onboard_time": 1732335618,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 836627,
@@ -12451,6 +12467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532795,
+      "num": 452252,
+      "word": "霍建华林心如观看女儿演出",
+      "onboard_time": 1732333339,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531859,
       "num": 531859,
       "word": "彭高回母校中山大学了",
@@ -12624,14 +12648,6 @@
       "word": "别人嘴都特严 然后我智障",
       "onboard_time": 1731754579,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 526028,
-      "num": 526028,
-      "word": "赵露思发红包",
-      "onboard_time": 1732335618,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -13881,6 +13897,14 @@
       "onboard_time": 1732277179,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 484966,
+      "num": 484966,
+      "word": "新疆一摄像头拍下雪崩过程",
+      "onboard_time": 1732333697,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 484690,
@@ -15337,14 +15361,6 @@
       "onboard_time": 1731758661,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 437185,
-      "num": 437185,
-      "word": "霍建华林心如观看女儿演出",
-      "onboard_time": 1732333339,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 437105,
@@ -18619,6 +18635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355567,
+      "num": 293661,
+      "word": "李庚希魏大勋的吻戏",
+      "onboard_time": 1732335498,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355521,
       "num": 512651,
       "word": "小蜜蜂老师陷直播带货罗生门",
@@ -18681,6 +18705,14 @@
       "onboard_time": 1730544078,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 353896,
+      "num": 353896,
+      "word": "贫困生一年旅游20多地引争议",
+      "onboard_time": 1732331777,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 353754,
@@ -18961,14 +18993,6 @@
       "onboard_time": 1730898681,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 345629,
-      "num": 459720,
-      "word": "新疆一摄像头拍下雪崩过程",
-      "onboard_time": 1732333697,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345569,
@@ -20145,14 +20169,6 @@
       "onboard_time": 1731671359,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 321342,
-      "num": 321342,
-      "word": "贫困生一年旅游20多地引争议",
-      "onboard_time": 1732331777,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 321254,
@@ -23043,14 +23059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273197,
-      "num": 273197,
-      "word": "丁禹兮 有驾照版",
-      "onboard_time": 1732335917,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273179,
       "num": 211203,
       "word": "女子飞机上辱骂殴打空少自称有背景",
@@ -23665,14 +23673,6 @@
       "onboard_time": 1731050959,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 265606,
-      "num": 265606,
-      "word": "李庚希魏大勋的吻戏",
-      "onboard_time": 1732335498,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 265593,
@@ -25633,6 +25633,14 @@
       "onboard_time": 1731832458,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241727,
+      "num": 241727,
+      "word": "因果报应 女性受害者就该这样拍",
+      "onboard_time": 1732333397,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 241688,
@@ -28137,6 +28145,14 @@
       "onboard_time": 1732274480,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217616,
+      "num": 217616,
+      "word": "沙溢一年减重36斤",
+      "onboard_time": 1732336159,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 217439,
@@ -40027,14 +40043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163512,
-      "num": 163512,
-      "word": "因果报应 女性受害者就该这样拍",
-      "onboard_time": 1732333397,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163485,
       "num": 505621,
       "word": "年度杰出运动员郑钦文",
@@ -41953,6 +41961,14 @@
       "onboard_time": 1730973618,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156446,
+      "num": 156446,
+      "word": "镇魂街 2D国漫",
+      "onboard_time": 1732336277,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 156429,
@@ -44161,6 +44177,14 @@
       "onboard_time": 1731140719,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148385,
+      "num": 123612,
+      "word": "虞书欣说自己是从负一点点扳正的",
+      "onboard_time": 1732336697,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 148376,
@@ -47825,6 +47849,14 @@
       "onboard_time": 1731495202,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133046,
+      "num": 133046,
+      "word": "奔跑吧今日首播",
+      "onboard_time": 1732336758,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 133039,
@@ -52353,6 +52385,14 @@
       "onboard_time": 1730802742,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112813,
+      "num": 290386,
+      "word": "第一视角看雪崩50秒吞没山谷",
+      "onboard_time": 1732336697,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112740,
@@ -58619,6 +58659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72022,
+      "num": 233935,
+      "word": "徐明浩新歌",
+      "onboard_time": 1732336818,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 71996,
       "num": 65952,
       "word": "赵丽颖金鸡奖造型师是闵塔鲨",
@@ -59923,6 +59971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64679,
+      "num": 244161,
+      "word": "肖战唱往事随风江湖感拉满",
+      "onboard_time": 1732335738,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 64646,
       "num": 155406,
       "word": "Uzi复盘首局失利",
@@ -60193,14 +60249,6 @@
       "onboard_time": 1732019061,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62699,
-      "num": 244161,
-      "word": "肖战唱往事随风江湖感拉满",
-      "onboard_time": 1732335738,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 62680,
@@ -60761,6 +60809,14 @@
       "onboard_time": 1731930139,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60494,
+      "num": 311290,
+      "word": "邓为星期五对镜拍",
+      "onboard_time": 1732336338,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 60482,
@@ -61609,6 +61665,14 @@
       "onboard_time": 1731873371,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56243,
+      "num": 475380,
+      "word": "市监部门回应旺仔牛奶事件",
+      "onboard_time": 1732336758,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 56205,
@@ -64881,6 +64945,14 @@
       "onboard_time": 1731602537,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 42547,
+      "num": 466371,
+      "word": "10个宝藏冬游好去处",
+      "onboard_time": 1732335378,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42541,
@@ -68251,14 +68323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32150,
-      "num": 446239,
-      "word": "10个宝藏冬游好去处",
-      "onboard_time": 1732335378,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32145,
       "num": 208079,
       "word": "吃喝玩乐皆是非遗",
@@ -68740,7 +68804,7 @@
     },
     {
       "raw_hot": 31166,
-      "num": 141066,
+      "num": 151336,
       "word": "为全球气候治理作出中国贡献",
       "onboard_time": 1732335078,
       "rank": 43,
@@ -69561,6 +69625,14 @@
       "onboard_time": 1730703078,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28895,
+      "num": 1141425,
+      "word": "世界需要多些合作桥梁少点小院高墙",
+      "onboard_time": 1732335618,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28847,
@@ -72083,6 +72155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22249,
+      "num": 289764,
+      "word": "凯恩帽子戏法",
+      "onboard_time": 1732336338,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22248,
       "num": 280376,
       "word": "离开大厂我为5000个失意人塔罗占卜",
@@ -73867,14 +73947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17556,
-      "num": 1141425,
-      "word": "世界需要多些合作桥梁少点小院高墙",
-      "onboard_time": 1732335618,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 17550,
       "num": 29957,
       "word": "4000名航展观众可以亲手摸到胖妞",
@@ -75505,6 +75577,14 @@
       "onboard_time": 1730838800,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12782,
+      "num": 406342,
+      "word": "钟楚曦说先爱自己才能去爱人",
+      "onboard_time": 1732336818,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 12780,
