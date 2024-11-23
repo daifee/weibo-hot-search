@@ -1,0 +1,410 @@
+{
+  "runTime": 1732361789517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296152,
+        "num": 1296152,
+        "word": "王楚钦闯进决赛",
+        "onboard_time": 1732359561,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1266125,
+        "num": 1266125,
+        "word": "王楚钦vs约奇克",
+        "onboard_time": 1732356980,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53900,
+        "num": 1124753,
+        "word": "43名在韩志愿军烈士下周回家",
+        "onboard_time": 1732348939,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1102038,
+        "num": 1102038,
+        "word": "熏鸡事变大结局",
+        "onboard_time": 1732359139,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857544,
+        "num": 857544,
+        "word": "王楚钦张本智和争冠",
+        "onboard_time": 1732359622,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 794842,
+        "num": 794842,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 727496,
+        "num": 727496,
+        "word": "BIGBANG合体",
+        "onboard_time": 1732348459,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 666090,
+        "num": 666090,
+        "word": "于东来连发11条动态",
+        "onboard_time": 1732357160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575257,
+        "num": 575257,
+        "word": "林诗栋3比4张本智和",
+        "onboard_time": 1732356441,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100198,
+        "num": 481444,
+        "word": "中学回应强制学生剪寸头",
+        "onboard_time": 1732360999,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1214220,
+        "num": 472275,
+        "word": "杨子口型",
+        "onboard_time": 1732356800,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451192,
+        "num": 451192,
+        "word": "深圳一中学被指强制学生剪寸头",
+        "onboard_time": 1732359800,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441334,
+        "num": 441334,
+        "word": "难听",
+        "onboard_time": 1732350738,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419809,
+        "num": 419809,
+        "word": "王楚钦手感绝了",
+        "onboard_time": 1732359319,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368148,
+        "num": 405433,
+        "word": "BIGBANG出现时台下表情",
+        "onboard_time": 1732354998,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353755,
+        "num": 394511,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1732357701,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394460,
+        "num": 394460,
+        "word": "管晨辰 吴柳芳",
+        "onboard_time": 1732340897,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 284898,
+        "num": 389288,
+        "word": "娜扎泰国偶遇薛之谦海报",
+        "onboard_time": 1732359080,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71700,
+        "num": 385873,
+        "word": "白夜破晓热度破万",
+        "onboard_time": 1732360820,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385820,
+        "num": 385820,
+        "word": "浙大贫困生被取消受资助资格",
+        "onboard_time": 1732346779,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 351330,
+        "num": 351330,
+        "word": "太阳摔倒",
+        "onboard_time": 1732356383,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342487,
+        "num": 342487,
+        "word": "王曼昱说按马琳战术赢下决胜局",
+        "onboard_time": 1732355359,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249992,
+        "num": 249992,
+        "word": "时代少年团五周年演唱会",
+        "onboard_time": 1732350499,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248502,
+        "num": 248502,
+        "word": "Uzi开团无状态",
+        "onboard_time": 1732356383,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118221,
+        "num": 245227,
+        "word": "足协杯决赛",
+        "onboard_time": 1732359439,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244596,
+        "num": 244596,
+        "word": "王皓把手机放冰箱直播",
+        "onboard_time": 1732360939,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237913,
+        "num": 237913,
+        "word": "好东西",
+        "onboard_time": 1732339998,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226582,
+        "num": 226582,
+        "word": "权志龙获奖感言",
+        "onboard_time": 1732360040,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208124,
+        "num": 208124,
+        "word": "向佐真是闯进穿搭赛道了",
+        "onboard_time": 1732358719,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198825,
+        "num": 198825,
+        "word": "樱桃琥珀",
+        "onboard_time": 1732360700,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191056,
+        "num": 191056,
+        "word": "一个985研究生成了小学打杂老师",
+        "onboard_time": 1732345338,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186349,
+        "num": 186349,
+        "word": "田小娟rap歌词提徐穗珍",
+        "onboard_time": 1732350859,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180546,
+        "num": 180546,
+        "word": "田柾国年度最佳男艺人",
+        "onboard_time": 1732361060,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173585,
+        "num": 173585,
+        "word": "虞书欣ins 他拍的",
+        "onboard_time": 1732347499,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154102,
+        "num": 154102,
+        "word": "一念关山",
+        "onboard_time": 1732355599,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148889,
+        "num": 152148,
+        "word": "麦琳李行亮十年老友发文",
+        "onboard_time": 1732353079,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150458,
+        "num": 150458,
+        "word": "旺旺集团回应旺仔牛奶疑现异物",
+        "onboard_time": 1732357520,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149374,
+        "num": 149374,
+        "word": "权志龙 无题",
+        "onboard_time": 1732347679,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149207,
+        "num": 149207,
+        "word": "许昕说曼昱这球是男性打法",
+        "onboard_time": 1732360759,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "浙大回应馒头冻两天滋生黄曲霉毒素",
+        "onboard_time": 1732354760,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 145441,
+        "num": 145441,
+        "word": "日媒高度评价了王楚钦的比赛",
+        "onboard_time": 1732360221,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 140146,
+        "word": "aespa横扫",
+        "onboard_time": 1732346478,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137735,
+        "num": 137735,
+        "word": "张本智和说仍有机会战胜王楚钦",
+        "onboard_time": 1732361719,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133078,
+        "num": 133078,
+        "word": "JDG新阵容疑曝光",
+        "onboard_time": 1732361120,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129411,
+        "num": 129411,
+        "word": "妇幼医生多看一眼救了一个家庭",
+        "onboard_time": 1732358000,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 126494,
+        "num": 126494,
+        "word": "周深南昌演唱会",
+        "onboard_time": 1732361359,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122866,
+        "num": 122866,
+        "word": "张小斐自制的面包好酥脆",
+        "onboard_time": 1732356681,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121273,
+        "num": 121273,
+        "word": "崔胜澈哭了",
+        "onboard_time": 1732355421,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116884,
+        "num": 116884,
+        "word": "光与夜之恋",
+        "onboard_time": 1732359561,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115907,
+        "num": 115907,
+        "word": "丁禹兮微博改名字",
+        "onboard_time": 1732339998,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席结束秘鲁巴西行回到北京#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1732293008297,
-  "endTime": 1732360719374,
+  "endTime": 1732361789517,
   "band_list": [
     {
       "raw_hot": 2423890,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1102038,
+      "num": 1102038,
+      "word": "熏鸡事变大结局",
+      "onboard_time": 1732359139,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1098392,
       "num": 1098392,
       "word": "清华回应晒旅游照贫困生被保研",
@@ -179,12 +187,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 858160,
-      "num": 473297,
-      "word": "熏鸡事变大结局",
-      "onboard_time": 1732359139,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 857544,
+      "num": 857544,
+      "word": "王楚钦张本智和争冠",
+      "onboard_time": 1732359622,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 841065,
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451192,
+      "num": 502744,
+      "word": "深圳一中学被指强制学生剪寸头",
+      "onboard_time": 1732359800,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445329,
       "num": 313935,
       "word": "卫生巾塌房用什么才安全",
@@ -827,6 +843,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 284898,
+      "num": 434043,
+      "word": "娜扎泰国偶遇薛之谦海报",
+      "onboard_time": 1732359080,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283376,
       "num": 283376,
       "word": "韩安冉要备孕三胎了",
@@ -899,14 +923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270997,
-      "num": 434784,
-      "word": "王楚钦张本智和争冠",
-      "onboard_time": 1732359622,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270498,
       "num": 270498,
       "word": "虞书欣ins 他拍的",
@@ -971,11 +987,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249992,
+      "num": 249992,
+      "word": "时代少年团五周年演唱会",
+      "onboard_time": 1732350499,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 247421,
       "num": 247421,
       "word": "虞书欣晒与永夜星河主创合照",
       "onboard_time": 1732319055,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244596,
+      "num": 244596,
+      "word": "王皓把手机放冰箱直播",
+      "onboard_time": 1732360939,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1059,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226582,
+      "num": 226582,
+      "word": "权志龙获奖感言",
+      "onboard_time": 1732360040,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222010,
       "num": 222010,
       "word": "丁禹兮满钻胸花",
@@ -1123,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210411,
-      "num": 210411,
-      "word": "时代少年团五周年演唱会",
-      "onboard_time": 1732350499,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 208906,
       "num": 208906,
       "word": "旺旺集团回应旺仔牛奶疑现异物",
@@ -1144,14 +1176,6 @@
       "word": "梁朝伟获荣誉博士",
       "onboard_time": 1732338498,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 206523,
-      "num": 434043,
-      "word": "娜扎泰国偶遇薛之谦海报",
-      "onboard_time": 1732359080,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1216,6 +1240,14 @@
       "word": "凌妙妙慕声牵手奔向下个瞬间",
       "onboard_time": 1732352838,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198825,
+      "num": 198825,
+      "word": "樱桃琥珀",
+      "onboard_time": 1732360700,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1387,6 +1419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180546,
+      "num": 180546,
+      "word": "田柾国年度最佳男艺人",
+      "onboard_time": 1732361060,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176631,
       "num": 176631,
       "word": "旺旺集团揭秘旺仔牛奶生产全过程",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1732284981,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173176,
-      "num": 173176,
-      "word": "权志龙获奖感言",
-      "onboard_time": 1732360040,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 172043,
@@ -1537,14 +1569,6 @@
       "onboard_time": 1732279340,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160354,
-      "num": 502744,
-      "word": "深圳一中学被指强制学生剪寸头",
-      "onboard_time": 1732359800,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160179,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1732349480,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149207,
+      "num": 149207,
+      "word": "许昕说曼昱这球是男性打法",
+      "onboard_time": 1732360759,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 147848,
@@ -1843,8 +1875,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "张本智和说仍有机会战胜王楚钦",
+      "onboard_time": 1732361719,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137203,
-      "num": 178828,
+      "num": 245227,
       "word": "足协杯决赛",
       "onboard_time": 1732359439,
       "rank": 30,
@@ -1889,6 +1929,14 @@
       "onboard_time": 1732336758,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133078,
+      "num": 133078,
+      "word": "JDG新阵容疑曝光",
+      "onboard_time": 1732361120,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 133046,
@@ -1947,6 +1995,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 129411,
+      "num": 129411,
+      "word": "妇幼医生多看一眼救了一个家庭",
+      "onboard_time": 1732358000,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 128332,
       "num": 370572,
       "word": "朝鲜军队提升至战斗准备状态",
@@ -1995,20 +2051,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126494,
+      "num": 126494,
+      "word": "周深南昌演唱会",
+      "onboard_time": 1732361359,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126475,
       "num": 156518,
       "word": "孙颖莎被递麦唱APT",
       "onboard_time": 1732320977,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125337,
-      "num": 125337,
-      "word": "樱桃琥珀",
-      "onboard_time": 1732360700,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 125200,
@@ -2243,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100198,
+      "num": 481444,
+      "word": "中学回应强制学生剪寸头",
+      "onboard_time": 1732360999,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100083,
       "num": 100083,
       "word": "潘粤明眼神转变那一下",
@@ -2465,6 +2529,14 @@
       "onboard_time": 1732336818,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 71700,
+      "num": 385873,
+      "word": "白夜破晓热度破万",
+      "onboard_time": 1732360820,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 70537,
