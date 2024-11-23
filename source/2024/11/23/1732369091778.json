@@ -1,0 +1,410 @@
+{
+  "runTime": 1732369091778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058213,
+        "num": 1169314,
+        "word": "微信将14天后自动清理原图原视频",
+        "onboard_time": 1732340718,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 884887,
+        "num": 884887,
+        "word": "医生称用这3种卫生巾易引病上身",
+        "onboard_time": 1732364780,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7169,
+        "num": 699187,
+        "word": "当600多岁的长城遇到同龄昆曲",
+        "onboard_time": 1732369040,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 636690,
+        "num": 636690,
+        "word": "2024KPOP最伟大的14分钟",
+        "onboard_time": 1732363820,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 627599,
+        "num": 627599,
+        "word": "王楚钦拿下比赛怒吼",
+        "onboard_time": 1732362621,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 985114,
+        "num": 617360,
+        "word": "熏鸡事变大结局",
+        "onboard_time": 1732359139,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532085,
+        "num": 532085,
+        "word": "秦霄贤纲丝节主持",
+        "onboard_time": 1732366520,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49556,
+        "num": 526275,
+        "word": "第十二届全国少数民族传统体育运动会",
+        "onboard_time": 1732366520,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301208,
+        "num": 520645,
+        "word": "赫哲族大姐用几十条鱼做成鱼皮衣",
+        "onboard_time": 1732368141,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27578,
+        "num": 515685,
+        "word": "尊界S800剑指豪华车市场",
+        "onboard_time": 1732368440,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 96759,
+        "num": 510720,
+        "word": "海南舰首次对公众开放",
+        "onboard_time": 1732366520,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2191491,
+        "num": 504977,
+        "word": "鹿晗眉钉",
+        "onboard_time": 1732364841,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 802417,
+        "num": 497462,
+        "word": "杨子口型",
+        "onboard_time": 1732356800,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779771,
+        "num": 491725,
+        "word": "林更新 本来挺开心的你给整下头了",
+        "onboard_time": 1732363400,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580539,
+        "num": 485043,
+        "word": "难听",
+        "onboard_time": 1732350738,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 479752,
+        "num": 479752,
+        "word": "时代少年团节目单",
+        "onboard_time": 1732363639,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 521554,
+        "num": 466372,
+        "word": "BIGBANG合体",
+        "onboard_time": 1732348459,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196731,
+        "num": 449964,
+        "word": "林孝埈 只为奥运",
+        "onboard_time": 1732368320,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175495,
+        "num": 449820,
+        "word": "丁禹兮后援会确认重组",
+        "onboard_time": 1732367780,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449745,
+        "num": 449745,
+        "word": "110差点不叫110",
+        "onboard_time": 1732365140,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413032,
+        "num": 413032,
+        "word": "菲副总统自爆如被害就找马科斯算账",
+        "onboard_time": 1732367601,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379401,
+        "num": 379401,
+        "word": "鹿晗 野玫瑰",
+        "onboard_time": 1732368560,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343244,
+        "num": 343244,
+        "word": "王楚钦张本智和争冠",
+        "onboard_time": 1732359622,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299584,
+        "num": 299584,
+        "word": "马嘉祺白西装飘纱",
+        "onboard_time": 1732367901,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63294,
+        "num": 293212,
+        "word": "王楚钦回应战胜约奇克",
+        "onboard_time": 1732366702,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292236,
+        "num": 292236,
+        "word": "张本智和说仍有机会战胜王楚钦",
+        "onboard_time": 1732361719,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282144,
+        "num": 282144,
+        "word": "好东西",
+        "onboard_time": 1732339998,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275170,
+        "num": 275170,
+        "word": "周震南 第一名是命",
+        "onboard_time": 1732367780,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273415,
+        "num": 273415,
+        "word": "马嘉祺 蜚蜚",
+        "onboard_time": 1732367719,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271407,
+        "num": 271407,
+        "word": "鹿晗脸颊比心",
+        "onboard_time": 1732368260,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259124,
+        "num": 259124,
+        "word": "宋亚轩小提琴独奏",
+        "onboard_time": 1732366220,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281372,
+        "num": 258138,
+        "word": "于东来连发11条动态",
+        "onboard_time": 1732357160,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248387,
+        "num": 248387,
+        "word": "鹿晗音乐节大屏",
+        "onboard_time": 1732368260,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229930,
+        "num": 229930,
+        "word": "睡眠不足身体会出现什么变化",
+        "onboard_time": 1732367360,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214988,
+        "num": 214988,
+        "word": "好东西票房破亿",
+        "onboard_time": 1732368082,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256241,
+        "num": 213891,
+        "word": "旺旺再回应牛奶喝出异物",
+        "onboard_time": 1732364060,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206955,
+        "num": 206955,
+        "word": "妇幼医生多看一眼救了一个家庭",
+        "onboard_time": 1732358000,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 221189,
+        "num": 206374,
+        "word": "山东旺旺食品称异物初步判断不是老鼠",
+        "onboard_time": 1732366160,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205776,
+        "num": 205776,
+        "word": "好东西男性角色 男演员不愿意演",
+        "onboard_time": 1732362738,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190065,
+        "num": 190065,
+        "word": "TFING道歉声明",
+        "onboard_time": 1732367421,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182482,
+        "num": 182482,
+        "word": "虞书欣双轨黑长直造型",
+        "onboard_time": 1732364721,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177331,
+        "num": 177331,
+        "word": "时代少年团五周年演唱会",
+        "onboard_time": 1732350499,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172787,
+        "num": 172787,
+        "word": "严浩翔ending这一幕",
+        "onboard_time": 1732367000,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82914,
+        "num": 169965,
+        "word": "杨子认为父爱缺失是对孩子的挫折教育",
+        "onboard_time": 1732367000,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167492,
+        "num": 167492,
+        "word": "双城之战 烂尾",
+        "onboard_time": 1732362979,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162741,
+        "num": 162741,
+        "word": "杨蒙恩也是当上总编剧了",
+        "onboard_time": 1732368621,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154083,
+        "num": 154083,
+        "word": "浙大贫困生被取消受资助资格",
+        "onboard_time": 1732346779,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 146073,
+        "num": 146073,
+        "word": "长月烬明衡阳宗拆除",
+        "onboard_time": 1732364120,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142738,
+        "num": 142738,
+        "word": "丁程鑫solo最后一幕",
+        "onboard_time": 1732367241,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132380,
+        "num": 132380,
+        "word": "马斯克个人财富暴增超6000亿元",
+        "onboard_time": 1732369040,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#让新技术新产业新业态赋能可持续发展#"
+    }
+  }
+}
