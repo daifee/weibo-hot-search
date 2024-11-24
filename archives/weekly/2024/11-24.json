@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732452039361,
+  "endTime": 1732453004422,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1389790,
+      "num": 1389790,
+      "word": "7万件羽绒服含绒量0企业主管被抓",
+      "onboard_time": 1732449439,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1366125,
       "num": 424719,
       "word": "男子裸露下体尾随女孩被一棍喝退",
@@ -81,14 +89,6 @@
       "onboard_time": 1732429997,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1343700,
-      "num": 1343700,
-      "word": "7万件羽绒服含绒量0企业主管被抓",
-      "onboard_time": 1732449439,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1337681,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1034500,
+      "num": 1034500,
+      "word": "鹿晗狼奔唇钉",
+      "onboard_time": 1732451120,
+      "rank": 7,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 1004448,
       "num": 1160711,
       "word": "对麦琳的围剿像无意识的集体霸凌",
@@ -217,6 +225,14 @@
       "onboard_time": 1732422557,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 824333,
+      "num": 553267,
+      "word": "疑似李行亮取关麦琳",
+      "onboard_time": 1732451000,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 812162,
@@ -281,6 +297,14 @@
       "onboard_time": 1732449138,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 764984,
+      "num": 513383,
+      "word": "王楚钦感谢马龙给自己的一句话",
+      "onboard_time": 1732451721,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 748603,
@@ -427,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 605241,
-      "num": 605241,
-      "word": "鹿晗狼奔唇钉",
-      "onboard_time": 1732451120,
-      "rank": 7,
-      "category": "演出,时尚"
-    },
-    {
       "raw_hot": 602013,
       "num": 418904,
       "word": "女儿1.4w买皮草买到了妈妈心巴上",
@@ -491,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553267,
-      "num": 553267,
-      "word": "疑似李行亮取关麦琳",
-      "onboard_time": 1732451000,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548700,
       "num": 548700,
       "word": "倒在铁轨上的25岁机械师",
@@ -544,6 +552,14 @@
       "word": "鹿晗 野玫瑰",
       "onboard_time": 1732368560,
       "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 495268,
+      "num": 495268,
+      "word": "丁程鑫 长安教练",
+      "onboard_time": 1732451060,
+      "rank": 21,
       "category": "演出"
     },
     {
@@ -595,12 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 417241,
-      "num": 370082,
-      "word": "丁程鑫 长安教练",
-      "onboard_time": 1732451060,
-      "rank": 21,
-      "category": "演出"
+      "raw_hot": 419710,
+      "num": 419710,
+      "word": "虞书欣慕声 李泽锋陌生",
+      "onboard_time": 1732451602,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 415896,
@@ -633,6 +649,14 @@
       "onboard_time": 1732420278,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 405530,
+      "num": 408949,
+      "word": "在别人婚礼上求婚是大型道德撕票",
+      "onboard_time": 1732449800,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 404996,
@@ -771,6 +795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 346395,
+      "num": 596221,
+      "word": "王曼昱4比3胜陈幸同",
+      "onboard_time": 1732440021,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339986,
       "num": 339986,
       "word": "时代少年团演唱会节目单",
@@ -835,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318285,
+      "num": 596232,
+      "word": "南开大学发布叶嘉莹讣告",
+      "onboard_time": 1732451541,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 314308,
       "num": 314308,
       "word": "林一沈月 海外两个头很大的人",
@@ -856,6 +896,14 @@
       "word": "男子出租屋内种大麻结婚当天被抓",
       "onboard_time": 1732412177,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306234,
+      "num": 306234,
+      "word": "席慕蓉说叶嘉莹就是诗魂",
+      "onboard_time": 1732450159,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -947,14 +995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280761,
-      "num": 408949,
-      "word": "在别人婚礼上求婚是大型道德撕票",
-      "onboard_time": 1732449800,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280410,
       "num": 278497,
       "word": "6万名牌包包落共享单车辗转3次硬是没丢",
@@ -979,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272511,
+      "num": 272511,
+      "word": "鹿晗粉丝帮忙清理音乐节的垃圾",
+      "onboard_time": 1732449919,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271220,
       "num": 271220,
       "word": "余宇涵成人礼特别企划",
@@ -993,14 +1041,6 @@
       "onboard_time": 1732415959,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 269021,
-      "num": 596221,
-      "word": "王曼昱4比3胜陈幸同",
-      "onboard_time": 1732440021,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 268759,
@@ -1019,22 +1059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 262063,
-      "num": 262063,
-      "word": "王楚钦感谢马龙给自己的一句话",
-      "onboard_time": 1732451721,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 261728,
-      "num": 261728,
-      "word": "虞书欣慕声 李泽锋陌生",
-      "onboard_time": 1732451602,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260918,
       "num": 291354,
       "word": "粉丝以余宇涵名义资助了一个孩子",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1732434021,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260440,
+      "num": 260440,
+      "word": "警方通报景德镇发现一具中年男尸",
+      "onboard_time": 1732452021,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 259993,
@@ -1083,22 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250518,
-      "num": 250518,
-      "word": "鹿晗粉丝帮忙清理音乐节的垃圾",
-      "onboard_time": 1732449919,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 244346,
-      "num": 244346,
-      "word": "席慕蓉说叶嘉莹就是诗魂",
-      "onboard_time": 1732450159,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242475,
       "num": 320328,
       "word": "我是刑警西山矿大劫案",
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238185,
+      "num": 238185,
+      "word": "孙颖莎邱贻可场下同款姿势观赛",
+      "onboard_time": 1732450159,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237334,
       "num": 237334,
       "word": "严浩翔一想到自己要干什么就想笑",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1732443679,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235210,
+      "num": 235210,
+      "word": "女子称花十二万整形后被说老了十岁",
+      "onboard_time": 1732452559,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234250,
@@ -1203,12 +1235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222378,
+      "num": 222378,
+      "word": "普京签署法律赴乌参战可免欠款",
+      "onboard_time": 1732448539,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221380,
       "num": 228049,
       "word": "张本智和3进决赛3次亚军",
       "onboard_time": 1732444999,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221161,
+      "num": 344045,
+      "word": "梁洛施 马浴柯",
+      "onboard_time": 1732451421,
+      "rank": 28,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 221018,
@@ -1249,14 +1297,6 @@
       "onboard_time": 1732438820,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211395,
-      "num": 313140,
-      "word": "梁洛施 马浴柯",
-      "onboard_time": 1732451421,
-      "rank": 28,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 210130,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1732432818,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196456,
+      "num": 196456,
+      "word": "建议早读的时候严查这些人",
+      "onboard_time": 1732451602,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 195464,
@@ -1443,28 +1491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184918,
-      "num": 184918,
-      "word": "普京签署法律赴乌参战可免欠款",
-      "onboard_time": 1732448539,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 184618,
       "num": 184618,
       "word": "普京称目前没有拦截榛树导弹的技术",
       "onboard_time": 1732386552,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183935,
-      "num": 183935,
-      "word": "建议早读的时候严查这些人",
-      "onboard_time": 1732451602,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 183652,
@@ -1651,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166180,
-      "num": 166180,
-      "word": "警方通报景德镇发现一具中年男尸",
-      "onboard_time": 1732452021,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 165474,
       "num": 165474,
       "word": "俄军打击乌克兰军用机场",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1732425617,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159664,
-      "num": 596232,
-      "word": "南开大学发布叶嘉莹讣告",
-      "onboard_time": 1732451541,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 158427,
@@ -1881,6 +1897,14 @@
       "onboard_time": 1732371621,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143898,
+      "num": 593788,
+      "word": "男子10个月住380家酒店碰瓷63家",
+      "onboard_time": 1732451362,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142805,
@@ -2219,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119877,
+      "num": 413868,
+      "word": "邓亚萍给WTT福冈赛中国队表现打分",
+      "onboard_time": 1732452860,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119389,
       "num": 119389,
       "word": "降温预报图逐渐冻到发紫",
@@ -2251,6 +2283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117470,
+      "num": 337371,
+      "word": "赵露思钱塘江骑车路透",
+      "onboard_time": 1732452440,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117019,
       "num": 117019,
       "word": "王楚钦1比0张本智和",
@@ -2267,6 +2307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116514,
+      "num": 338752,
+      "word": "美国男子假死为跟情人私奔",
+      "onboard_time": 1732451362,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116370,
       "num": 170616,
       "word": "AG瓦糕大作战",
@@ -2281,6 +2329,14 @@
       "onboard_time": 1732379596,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115910,
+      "num": 418886,
+      "word": "王曼昱说让自己多开朗一点",
+      "onboard_time": 1732452860,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 115706,
@@ -2305,14 +2361,6 @@
       "onboard_time": 1732417699,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 114508,
-      "num": 593788,
-      "word": "男子10个月住380家酒店碰瓷63家",
-      "onboard_time": 1732451362,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114432,
@@ -2491,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106458,
+      "num": 411774,
+      "word": "景德镇浮梁县发现一具中年男性尸体",
+      "onboard_time": 1732452860,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 104235,
       "num": 159645,
       "word": "Doinb聊Icon队内讧",
@@ -2643,14 +2699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92223,
-      "num": 313129,
-      "word": "美国男子假死为跟情人私奔",
-      "onboard_time": 1732451362,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 89238,
       "num": 179649,
       "word": "周巡演我上班发疯",
@@ -2787,6 +2835,14 @@
       "category": "数码,正能量"
     },
     {
+      "raw_hot": 74705,
+      "num": 1262907,
+      "word": "中国山水藏着一整个乐团吧",
+      "onboard_time": 1732440859,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73007,
       "num": 79170,
       "word": "现在拨打的电话",
@@ -2899,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61142,
+      "num": 346027,
+      "word": "陈幸同亚军",
+      "onboard_time": 1732452619,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60697,
       "num": 76675,
       "word": "身份证陆续期满换证攻略",
@@ -2971,12 +3035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50086,
-      "num": 1262907,
-      "word": "中国山水藏着一整个乐团吧",
-      "onboard_time": 1732440859,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 49627,
+      "num": 341330,
+      "word": "于和伟审问戏压迫感好强",
+      "onboard_time": 1732452921,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 49245,
@@ -2992,6 +3056,14 @@
       "word": "横店群演出工时长普遍超12小时",
       "onboard_time": 1732440321,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48963,
+      "num": 496971,
+      "word": "叶嘉莹百岁后还在指导博士生",
+      "onboard_time": 1732451421,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -3123,14 +3195,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 39013,
-      "num": 473006,
-      "word": "叶嘉莹百岁后还在指导博士生",
-      "onboard_time": 1732451421,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38666,
       "num": 38666,
       "word": "好东西票房",
@@ -3209,6 +3273,14 @@
       "onboard_time": 1732416799,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30686,
+      "num": 340510,
+      "word": "国羽中国赛2金2银收官",
+      "onboard_time": 1732452799,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 29199,
@@ -3425,6 +3497,14 @@
       "onboard_time": 1732365741,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12299,
+      "num": 1041078,
+      "word": "寒潮频繁出现是冷冬要来了吗",
+      "onboard_time": 1732452741,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12032,
