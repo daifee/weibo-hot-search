@@ -1,0 +1,410 @@
+{
+  "runTime": 1732465583612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 397552,
+        "num": 866125,
+        "word": "7万件羽绒服含绒量0企业主管被抓",
+        "onboard_time": 1732449439,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379129,
+        "num": 379129,
+        "word": "货拉拉司机回应保时捷",
+        "onboard_time": 1732459701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29168,
+        "num": 356998,
+        "word": "盘点我国医疗服务价格项目新变化",
+        "onboard_time": 1732453101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546725,
+        "num": 356638,
+        "word": "34岁女子骨癌化疗17次又确诊白血病",
+        "onboard_time": 1732458743,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352910,
+        "num": 352910,
+        "word": "国考11月25日0点开始打印准考证",
+        "onboard_time": 1732464620,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 755908,
+        "num": 350030,
+        "word": "鹿晗狼奔唇钉",
+        "onboard_time": 1732451120,
+        "rank": 5,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 339780,
+        "num": 339780,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309538,
+        "num": 309538,
+        "word": "永夜星河团综更改档期",
+        "onboard_time": 1732462999,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277337,
+        "num": 277337,
+        "word": "王曼昱总决赛夺冠",
+        "onboard_time": 1732439960,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219455,
+        "num": 276978,
+        "word": "保险公司回应连交10年保险结果失效",
+        "onboard_time": 1732464018,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344264,
+        "num": 276921,
+        "word": "疑似李行亮取关麦琳",
+        "onboard_time": 1732451000,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276853,
+        "num": 276853,
+        "word": "中国最后一位女先生走了",
+        "onboard_time": 1732457061,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273286,
+        "num": 273286,
+        "word": "OBGG显示Meiko加入iG",
+        "onboard_time": 1732460542,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263443,
+        "num": 263443,
+        "word": "鞠婧祎油管有22多个百万舞台",
+        "onboard_time": 1732463180,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258192,
+        "num": 258192,
+        "word": "祺鑫",
+        "onboard_time": 1732461439,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249843,
+        "num": 249843,
+        "word": "马嘉祺戴头纱",
+        "onboard_time": 1732458563,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221366,
+        "num": 221366,
+        "word": "会长是女仆大人 婚后番外",
+        "onboard_time": 1732457421,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 203465,
+        "num": 220391,
+        "word": "李子柒穿绿色唐朝襦裙太绝了",
+        "onboard_time": 1732456099,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220200,
+        "num": 220200,
+        "word": "JDG",
+        "onboard_time": 1732461200,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116826,
+        "num": 215363,
+        "word": "刘宇晒与汤唯合照",
+        "onboard_time": 1732464978,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440067,
+        "num": 215357,
+        "word": "男子裸露下体尾随女孩被一棍喝退",
+        "onboard_time": 1732439840,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215068,
+        "num": 215068,
+        "word": "王楚钦感谢马龙给自己的一句话",
+        "onboard_time": 1732451721,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201781,
+        "num": 201781,
+        "word": "休息室隐藏版鹿晗",
+        "onboard_time": 1732458802,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191127,
+        "num": 191127,
+        "word": "广东人最怕的湿冷要来了",
+        "onboard_time": 1732463778,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177585,
+        "num": 177585,
+        "word": "谁给贺峻霖打的腮红",
+        "onboard_time": 1732453160,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165121,
+        "num": 165121,
+        "word": "虞书欣慕声 李泽锋陌生",
+        "onboard_time": 1732451602,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152068,
+        "num": 152068,
+        "word": "好东西",
+        "onboard_time": 1732439119,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150148,
+        "num": 150148,
+        "word": "女子称花十二万整形后被说老了十岁",
+        "onboard_time": 1732452559,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146870,
+        "num": 146870,
+        "word": "魏晨疯人愿",
+        "onboard_time": 1732462580,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119734,
+        "num": 143915,
+        "word": "王楚钦说林诗栋刚输完就陪自己训练",
+        "onboard_time": 1732461021,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14228,
+        "num": 143047,
+        "word": "王楚钦想再全力以赴珍惜每一个球",
+        "onboard_time": 1732455020,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142742,
+        "num": 142742,
+        "word": "赵丽颖金莲花双提名",
+        "onboard_time": 1732458621,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136715,
+        "num": 136715,
+        "word": "白桃星座",
+        "onboard_time": 1732461380,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136509,
+        "num": 136509,
+        "word": "Angelababy对接否认将参加最新一季浪姐",
+        "onboard_time": 1732460900,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129803,
+        "num": 129803,
+        "word": "老人交10年保险生病报销被告知失效",
+        "onboard_time": 1732460900,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129701,
+        "num": 129701,
+        "word": "这里的黄河水绿得像翡翠",
+        "onboard_time": 1732464439,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117158,
+        "num": 117158,
+        "word": "时代少年团直播",
+        "onboard_time": 1732460840,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116784,
+        "num": 116784,
+        "word": "美国男子为跟情人私奔假死抛妻弃子",
+        "onboard_time": 1732453522,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111946,
+        "num": 111946,
+        "word": "韩媒说51岁的郑雨盛经常私联",
+        "onboard_time": 1732461380,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104743,
+        "num": 104743,
+        "word": "好东西 快车太臭",
+        "onboard_time": 1732456581,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104431,
+        "num": 104431,
+        "word": "李行亮无名指戒指",
+        "onboard_time": 1732460183,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100458,
+        "num": 100458,
+        "word": "祝绪丹 小神仙",
+        "onboard_time": 1732450579,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99467,
+        "num": 99467,
+        "word": "十个勤天广州演唱会现场",
+        "onboard_time": 1732461140,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98391,
+        "num": 98391,
+        "word": "这跟和周翊然谈了有什么区别",
+        "onboard_time": 1732461140,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96535,
+        "num": 96535,
+        "word": "王楚钦王曼昱拍城市宣传照",
+        "onboard_time": 1732458743,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96344,
+        "num": 96344,
+        "word": "警方通报景德镇发现一具中年男尸",
+        "onboard_time": 1732452021,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 90247,
+        "num": 90247,
+        "word": "王一博金莲花同时提名影帝视帝",
+        "onboard_time": 1732462162,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89329,
+        "num": 89329,
+        "word": "3个动作助你入睡",
+        "onboard_time": 1732465397,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88400,
+        "num": 88400,
+        "word": "睡不着试试做这3步",
+        "onboard_time": 1732465397,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88017,
+        "num": 88017,
+        "word": "鹭卓新歌船上线",
+        "onboard_time": 1732461320,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}

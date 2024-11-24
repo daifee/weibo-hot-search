@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732462607852,
+  "endTime": 1732465583612,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352910,
+      "num": 352910,
+      "word": "国考11月25日0点开始打印准考证",
+      "onboard_time": 1732464620,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 349672,
       "num": 596221,
       "word": "王曼昱4比3胜陈幸同",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1732458621,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 309538,
+      "num": 309538,
+      "word": "永夜星河团综更改档期",
+      "onboard_time": 1732462999,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 306234,
@@ -1227,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263443,
+      "num": 263443,
+      "word": "鞠婧祎油管有22多个百万舞台",
+      "onboard_time": 1732463180,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261132,
       "num": 261132,
       "word": "JDG",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1732450159,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258192,
+      "num": 258192,
+      "word": "祺鑫",
+      "onboard_time": 1732461439,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 253912,
@@ -1475,6 +1507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 219455,
+      "num": 276978,
+      "word": "保险公司回应连交10年保险结果失效",
+      "onboard_time": 1732464018,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217481,
       "num": 196250,
       "word": "黄灿灿回应人工智能对武大校花的定义",
@@ -1561,14 +1601,6 @@
       "onboard_time": 1732419378,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200333,
-      "num": 200333,
-      "word": "祺鑫",
-      "onboard_time": 1732461439,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 199585,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1732429517,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191127,
+      "num": 191127,
+      "word": "广东人最怕的湿冷要来了",
+      "onboard_time": 1732463778,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190136,
@@ -2307,6 +2347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146870,
+      "num": 146870,
+      "word": "魏晨疯人愿",
+      "onboard_time": 1732462580,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146692,
       "num": 146692,
       "word": "文韬蒲熠星强强相撞",
@@ -2435,14 +2483,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 132630,
-      "num": 132630,
-      "word": "魏晨疯人愿",
-      "onboard_time": 1732462580,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132185,
       "num": 132185,
       "word": "北京的雪在路上了",
@@ -2489,6 +2529,14 @@
       "onboard_time": 1732432937,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129701,
+      "num": 129701,
+      "word": "这里的黄河水绿得像翡翠",
+      "onboard_time": 1732464439,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 128894,
@@ -2763,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116826,
+      "num": 215363,
+      "word": "刘宇晒与汤唯合照",
+      "onboard_time": 1732464978,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116688,
       "num": 224182,
       "word": "玩偶之家",
@@ -2905,6 +2961,14 @@
       "onboard_time": 1732422557,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111946,
+      "num": 280016,
+      "word": "韩媒说51岁的郑雨盛经常私联",
+      "onboard_time": 1732461380,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 111741,
@@ -3171,6 +3235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89329,
+      "num": 89329,
+      "word": "3个动作助你入睡",
+      "onboard_time": 1732465397,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89238,
       "num": 179649,
       "word": "周巡演我上班发疯",
@@ -3201,6 +3273,14 @@
       "onboard_time": 1732458501,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88400,
+      "num": 88400,
+      "word": "睡不着试试做这3步",
+      "onboard_time": 1732465397,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87888,
@@ -3353,14 +3433,6 @@
       "onboard_time": 1732421898,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 68246,
-      "num": 280016,
-      "word": "韩媒说51岁的郑雨盛经常私联",
-      "onboard_time": 1732461380,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 67428,
