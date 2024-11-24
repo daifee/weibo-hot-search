@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732417502164,
+  "endTime": 1732418060528,
   "band_list": [
     {
       "raw_hot": 1905809,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 940233,
+      "num": 1150437,
+      "word": "王楚钦说张本智和赢得不容易",
+      "onboard_time": 1732412177,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 931701,
       "num": 931701,
       "word": "考上公务员和考上985哪个厉害",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 718901,
-      "num": 348625,
+      "num": 397711,
       "word": "金敏绪 首尔流浪女",
       "onboard_time": 1732405455,
       "rank": 11,
@@ -80,6 +88,14 @@
       "word": "鹿晗眉钉",
       "onboard_time": 1732364841,
       "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 683013,
+      "num": 683013,
+      "word": "大碗宽面去了王霏霏演唱会",
+      "onboard_time": 1732415959,
+      "rank": 3,
       "category": "演出"
     },
     {
@@ -115,14 +131,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 526668,
-      "num": 526668,
-      "word": "大碗宽面去了王霏霏演唱会",
-      "onboard_time": 1732415959,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 526496,
       "num": 526496,
       "word": "微信将14天后自动清理原图原视频",
@@ -155,6 +163,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 467140,
+      "num": 381721,
+      "word": "陈泽",
+      "onboard_time": 1732415719,
+      "rank": 20,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 449459,
       "num": 281553,
       "word": "偶遇黄圣依杨子飞新加坡",
@@ -179,20 +195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404996,
+      "num": 334328,
+      "word": "男子骑行疑被刮倒后遭车碾压身亡",
+      "onboard_time": 1732413618,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 399244,
       "num": 276844,
       "word": "鞠婧祎身上有两只蝴蝶",
       "onboard_time": 1732376480,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396833,
-      "num": 325392,
-      "word": "男子骑行疑被刮倒后遭车碾压身亡",
-      "onboard_time": 1732413618,
-      "rank": 24,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 389741,
@@ -233,14 +249,6 @@
       "onboard_time": 1732406535,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 363930,
-      "num": 291667,
-      "word": "陈泽",
-      "onboard_time": 1732415719,
-      "rank": 20,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 356938,
@@ -339,8 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282225,
-      "num": 282225,
+      "raw_hot": 286998,
+      "num": 286998,
       "word": "原来睡眠不足真会变胖",
       "onboard_time": 1732415897,
       "rank": 23,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 278233,
-      "num": 289767,
+      "num": 363985,
       "word": "永夜星河 星光大赏",
       "onboard_time": 1732411818,
       "rank": 17,
@@ -443,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186296,
+      "num": 276172,
+      "word": "肖战第三小节预约",
+      "onboard_time": 1732417219,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184618,
       "num": 184618,
       "word": "普京称目前没有拦截榛树导弹的技术",
@@ -475,12 +491,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 156281,
-      "num": 276172,
-      "word": "肖战第三小节预约",
-      "onboard_time": 1732417219,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 165473,
+      "num": 165473,
+      "word": "C位果然有C位的道理",
+      "onboard_time": 1732417519,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163384,
+      "num": 163384,
+      "word": "打工人常跑步能去班味吗",
+      "onboard_time": 1732417458,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160695,
+      "num": 413179,
+      "word": "如何看前体操冠军成擦边主播",
+      "onboard_time": 1732416979,
+      "rank": 12,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 155201,
@@ -539,14 +571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136960,
-      "num": 136960,
-      "word": "打工人常跑步能去班味吗",
-      "onboard_time": 1732417458,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134337,
       "num": 134337,
       "word": "严浩翔五周年发文",
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 133103,
-      "num": 133103,
+      "num": 271229,
       "word": "麦琳提议钱继续给她管",
       "onboard_time": 1732415479,
       "rank": 38,
@@ -587,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125541,
-      "num": 413179,
-      "word": "如何看前体操冠军成擦边主播",
-      "onboard_time": 1732416979,
-      "rank": 12,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 125474,
       "num": 466704,
       "word": "港澳市民登舰感叹祖国强大",
@@ -609,6 +625,14 @@
       "onboard_time": 1732374560,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125140,
+      "num": 125140,
+      "word": "Peyz疑加入LNG",
+      "onboard_time": 1732417458,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 124401,
@@ -643,20 +667,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121101,
+      "num": 121101,
+      "word": "王楚钦说张本状态在顶点",
+      "onboard_time": 1732414578,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120633,
       "num": 120633,
       "word": "时代少年团双人拍立得",
       "onboard_time": 1732376301,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119735,
-      "num": 119735,
-      "word": "Peyz疑加入LNG",
-      "onboard_time": 1732417458,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 119389,
@@ -681,6 +705,14 @@
       "onboard_time": 1732379596,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114551,
+      "num": 114551,
+      "word": "男子进店求助老板送上一大碗麻辣烫",
+      "onboard_time": 1732417699,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 114256,
@@ -723,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108726,
-      "num": 108726,
-      "word": "王楚钦说张本状态在顶点",
-      "onboard_time": 1732414578,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108573,
       "num": 108573,
       "word": "吉赛尔进行曲",
@@ -753,6 +777,22 @@
       "onboard_time": 1732358000,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 104508,
+      "num": 435705,
+      "word": "内蒙古通辽发生4.3级地震",
+      "onboard_time": 1732413377,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101176,
+      "num": 270027,
+      "word": "涵艺爆料LNG新赛季阵容",
+      "onboard_time": 1732415419,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 100944,
@@ -793,14 +833,6 @@
       "onboard_time": 1732373782,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97676,
-      "num": 97676,
-      "word": "内蒙古通辽发生4.3级地震",
-      "onboard_time": 1732413377,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 97209,
@@ -851,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81842,
+      "num": 359357,
+      "word": "羊毛月删除争议视频",
+      "onboard_time": 1732417159,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 81189,
       "num": 81189,
       "word": "全校通报安可",
@@ -865,6 +905,14 @@
       "onboard_time": 1732367421,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78564,
+      "num": 348784,
+      "word": "科员举报局长后从单位借钱被判敲诈",
+      "onboard_time": 1732417878,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77697,
@@ -905,6 +953,14 @@
       "onboard_time": 1732382295,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66144,
+      "num": 391859,
+      "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
+      "onboard_time": 1732416917,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 66035,
@@ -963,28 +1019,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 56489,
-      "num": 294453,
-      "word": "羊毛月删除争议视频",
-      "onboard_time": 1732417159,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 56271,
       "num": 974907,
       "word": "海南舰首次对公众开放",
       "onboard_time": 1732366520,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 53113,
-      "num": 374654,
-      "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
-      "onboard_time": 1732416917,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 46770,
@@ -1067,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36557,
+      "num": 462118,
+      "word": "如何看懂械字号卫生巾包装说明",
+      "onboard_time": 1732417458,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 36174,
       "num": 187658,
       "word": "畅所余言",
@@ -1121,14 +1169,6 @@
       "onboard_time": 1732416799,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29551,
-      "num": 462118,
-      "word": "如何看懂械字号卫生巾包装说明",
-      "onboard_time": 1732417458,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 29157,

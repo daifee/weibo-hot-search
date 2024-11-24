@@ -1,0 +1,410 @@
+{
+  "runTime": 1732418060528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 940233,
+        "num": 1150437,
+        "word": "王楚钦说张本智和赢得不容易",
+        "onboard_time": 1732412177,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683013,
+        "num": 683013,
+        "word": "大碗宽面去了王霏霏演唱会",
+        "onboard_time": 1732415959,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54192,
+        "num": 567750,
+        "word": "海南舰首次对公众开放",
+        "onboard_time": 1732366520,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 545187,
+        "num": 545187,
+        "word": "12岁女孩被尾随热心司机拿撬棍保护",
+        "onboard_time": 1732412658,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 515742,
+        "num": 515742,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1814820,
+        "num": 491646,
+        "word": "前体操冠军吴柳芳擦边争议后发声",
+        "onboard_time": 1732411156,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 458697,
+        "num": 458697,
+        "word": "鹿晗 给我干哪年来了",
+        "onboard_time": 1732413000,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 437053,
+        "num": 437053,
+        "word": "吴柳芳成擦边主播被怒斥",
+        "onboard_time": 1732412177,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 104508,
+        "num": 435705,
+        "word": "内蒙古通辽发生4.3级地震",
+        "onboard_time": 1732413377,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 36557,
+        "num": 423903,
+        "word": "如何看懂械字号卫生巾包装说明",
+        "onboard_time": 1732417458,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 730409,
+        "num": 417110,
+        "word": "羊毛月道歉",
+        "onboard_time": 1732411877,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1178879,
+        "num": 410724,
+        "word": "派出所人员突然殴打路遇的小学生",
+        "onboard_time": 1732414697,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160695,
+        "num": 401683,
+        "word": "如何看前体操冠军成擦边主播",
+        "onboard_time": 1732416979,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 682721,
+        "num": 397711,
+        "word": "金敏绪 首尔流浪女",
+        "onboard_time": 1732405455,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66144,
+        "num": 391859,
+        "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
+        "onboard_time": 1732416917,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467140,
+        "num": 381721,
+        "word": "陈泽",
+        "onboard_time": 1732415719,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 260099,
+        "num": 375203,
+        "word": "素人为参加节目瘦20斤",
+        "onboard_time": 1732412177,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253430,
+        "num": 363985,
+        "word": "永夜星河 星光大赏",
+        "onboard_time": 1732411818,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81842,
+        "num": 359357,
+        "word": "羊毛月删除争议视频",
+        "onboard_time": 1732417159,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78564,
+        "num": 348784,
+        "word": "科员举报局长后从单位借钱被判敲诈",
+        "onboard_time": 1732417878,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348192,
+        "num": 348192,
+        "word": "石破茂回应中国对日本恢复免签",
+        "onboard_time": 1732412177,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 404996,
+        "num": 334328,
+        "word": "男子骑行疑被刮倒后遭车碾压身亡",
+        "onboard_time": 1732413618,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 286998,
+        "num": 286998,
+        "word": "原来睡眠不足真会变胖",
+        "onboard_time": 1732415897,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272523,
+        "num": 272523,
+        "word": "黄圣依 死脑快想啊",
+        "onboard_time": 1732370601,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209260,
+        "num": 272176,
+        "word": "让BIGBANG再次伟大",
+        "onboard_time": 1732412538,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192101,
+        "num": 272043,
+        "word": "向佐药水哥同框直播",
+        "onboard_time": 1732416677,
+        "rank": 25,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 186296,
+        "num": 271386,
+        "word": "肖战第三小节预约",
+        "onboard_time": 1732417219,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128568,
+        "num": 271229,
+        "word": "麦琳提议钱继续给她管",
+        "onboard_time": 1732415479,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 29172,
+        "num": 270528,
+        "word": "两船在日本附近海域相撞",
+        "onboard_time": 1732416799,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101176,
+        "num": 270027,
+        "word": "涵艺爆料LNG新赛季阵容",
+        "onboard_time": 1732415419,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269934,
+        "num": 269934,
+        "word": "保时捷公开道歉",
+        "onboard_time": 1732406535,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 256438,
+        "num": 256438,
+        "word": "蛋糕店把配料成本全标在产品上",
+        "onboard_time": 1732412658,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221814,
+        "num": 221814,
+        "word": "用人民币感受日本工资水平",
+        "onboard_time": 1732412177,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165855,
+        "num": 165855,
+        "word": "独生女婚后全款给父母买房难要回",
+        "onboard_time": 1732369941,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165473,
+        "num": 165473,
+        "word": "C位果然有C位的道理",
+        "onboard_time": 1732417519,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163384,
+        "num": 163384,
+        "word": "打工人常跑步能去班味吗",
+        "onboard_time": 1732417458,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145284,
+        "num": 145284,
+        "word": "男子出租屋内种大麻结婚当天被抓",
+        "onboard_time": 1732412177,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142336,
+        "num": 142336,
+        "word": "睡眠不足身体会出现什么变化",
+        "onboard_time": 1732367360,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139640,
+        "num": 139640,
+        "word": "吴柳芳为占用公共资源致歉",
+        "onboard_time": 1732413857,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138850,
+        "num": 138850,
+        "word": "全红婵被草莓熊硬控8秒",
+        "onboard_time": 1732409418,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125348,
+        "num": 125348,
+        "word": "港澳市民登舰感叹祖国强大",
+        "onboard_time": 1732415299,
+        "rank": 40,
+        "category": "正能量,军事"
+      },
+      {
+        "raw_hot": 125140,
+        "num": 125140,
+        "word": "Peyz疑加入LNG",
+        "onboard_time": 1732417458,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42297,
+        "num": 124309,
+        "word": "货拉拉称未对司机进行封号等处理",
+        "onboard_time": 1732416558,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124192,
+        "num": 124192,
+        "word": "哈尔滨中央大街铺上地毯了",
+        "onboard_time": 1732378279,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121728,
+        "num": 121728,
+        "word": "权志龙只需稍微出手",
+        "onboard_time": 1732404133,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121101,
+        "num": 121101,
+        "word": "王楚钦说张本状态在顶点",
+        "onboard_time": 1732414578,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121097,
+        "num": 121097,
+        "word": "鹿晗说马上要开四巡了",
+        "onboard_time": 1732372582,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120779,
+        "num": 120779,
+        "word": "宋慧乔43岁生日照",
+        "onboard_time": 1732385893,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114697,
+        "num": 114697,
+        "word": "我国大部今起将先后降6到10度",
+        "onboard_time": 1732409656,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114551,
+        "num": 114551,
+        "word": "男子进店求助老板送上一大碗麻辣烫",
+        "onboard_time": 1732417699,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越山海的友谊团结合作开拓之旅#"
+    }
+  }
+}
