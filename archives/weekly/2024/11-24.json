@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732440154490,
+  "endTime": 1732441006445,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -40,6 +40,14 @@
       "word": "媒体评前体操冠军当性感网红",
       "onboard_time": 1732419797,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1533636,
+      "num": 1533636,
+      "word": "王曼昱总决赛夺冠",
+      "onboard_time": 1732439960,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -83,7 +91,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1201836,
+      "raw_hot": 1230941,
       "num": 573872,
       "word": "李行亮梦女",
       "onboard_time": 1732437979,
@@ -299,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 630977,
+      "num": 424719,
+      "word": "男子裸露下体尾随女孩被一棍喝退",
+      "onboard_time": 1732439840,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630863,
       "num": 442798,
       "word": "双关自曝",
@@ -451,11 +467,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 418358,
-      "num": 418358,
+      "raw_hot": 448956,
+      "num": 448956,
       "word": "王楚钦夺冠后与王皓拥抱庆祝",
       "onboard_time": 1732436780,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 423597,
+      "num": 571611,
+      "word": "王楚钦锁定年终世界第1",
+      "onboard_time": 1732439901,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 361685,
-      "num": 361685,
+      "num": 430709,
       "word": "好东西",
       "onboard_time": 1732339998,
       "rank": 29,
@@ -803,16 +827,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 269878,
-      "num": 269878,
-      "word": "男子裸露下体尾随女孩被一棍喝退",
-      "onboard_time": 1732439840,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262734,
-      "num": 262734,
+      "raw_hot": 268759,
+      "num": 268759,
       "word": "发朋友圈仅导师可见是什么体验",
       "onboard_time": 1732437319,
       "rank": 38,
@@ -963,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205608,
+      "num": 205608,
+      "word": "尔滨你有点重南轻北了",
+      "onboard_time": 1732437619,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203511,
       "num": 203511,
       "word": "gapday音乐节",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1732439658,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 191580,
-      "num": 571611,
-      "word": "王楚钦锁定年终世界第1",
-      "onboard_time": 1732439901,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 191128,
@@ -1155,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179417,
+      "num": 179417,
+      "word": "多打多打就知道王楚钦的厉害了",
+      "onboard_time": 1732440859,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178500,
       "num": 178500,
       "word": "宋慧乔43岁生日照",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1732438160,
       "rank": 30,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 172761,
-      "num": 172761,
-      "word": "尔滨你有点重南轻北了",
-      "onboard_time": 1732437619,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 172464,
@@ -1283,6 +1299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 163101,
+      "num": 163101,
+      "word": "张本智和采访",
+      "onboard_time": 1732440981,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162868,
       "num": 292939,
       "word": "焚城就是个巨大的电车难题",
@@ -1300,7 +1324,7 @@
     },
     {
       "raw_hot": 161984,
-      "num": 161984,
+      "num": 403333,
       "word": "王楚钦很开心还能比出3的手势",
       "onboard_time": 1732438940,
       "rank": 46,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1732425617,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159871,
+      "num": 159871,
+      "word": "经济学家预计2026年房地产拐点出现",
+      "onboard_time": 1732440919,
+      "rank": 48,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 156962,
@@ -1425,14 +1457,6 @@
       "onboard_time": 1732371621,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143219,
-      "num": 593299,
-      "word": "王曼昱总决赛夺冠",
-      "onboard_time": 1732439960,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 142805,
@@ -1964,7 +1988,7 @@
     },
     {
       "raw_hot": 104235,
-      "num": 104235,
+      "num": 159645,
       "word": "Doinb聊Icon队内讧",
       "onboard_time": 1732436360,
       "rank": 49,
@@ -2091,6 +2115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94592,
+      "num": 596221,
+      "word": "王曼昱4比3胜陈幸同",
+      "onboard_time": 1732440021,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89238,
       "num": 179649,
       "word": "周巡演我上班发疯",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1732370660,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89042,
+      "num": 401832,
+      "word": "虞书欣双轨粉裙路透",
+      "onboard_time": 1732440680,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89035,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1732413197,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84114,
+      "num": 384998,
+      "word": "张本智和最后一个发球没上台",
+      "onboard_time": 1732440321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 81977,
@@ -2243,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66930,
+      "num": 532886,
+      "word": "一人一句祝贺王楚钦夺冠",
+      "onboard_time": 1732440799,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66891,
       "num": 66891,
       "word": "跑男的睡衣是批发的吗",
@@ -2299,6 +2355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 63024,
+      "num": 412634,
+      "word": "神十九的太空开箱视频",
+      "onboard_time": 1732440260,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 61498,
       "num": 144999,
       "word": "国乒锁定女单冠亚军",
@@ -2339,6 +2403,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 55974,
+      "num": 564313,
+      "word": "如何看待保时捷道歉",
+      "onboard_time": 1732439481,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54247,
       "num": 388833,
       "word": "张艺兴今晚惊喜直播",
@@ -2361,6 +2433,14 @@
       "onboard_time": 1732420338,
       "rank": 9,
       "category": "财经,正能量"
+    },
+    {
+      "raw_hot": 49243,
+      "num": 582636,
+      "word": "横店群演出工时长普遍超12小时",
+      "onboard_time": 1732440321,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46770,
@@ -2419,6 +2499,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 43170,
+      "num": 424998,
+      "word": "租户交全年房租因中介卷款面临被赶",
+      "onboard_time": 1732440380,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42832,
       "num": 116138,
       "word": "广州一手住宅网签面积翻倍增长",
@@ -2465,14 +2553,6 @@
       "onboard_time": 1732417458,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 36196,
-      "num": 564313,
-      "word": "如何看待保时捷道歉",
-      "onboard_time": 1732439481,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36174,
@@ -2675,6 +2755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20042,
+      "num": 215097,
+      "word": "魏你而甜",
+      "onboard_time": 1732439180,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17201,
       "num": 22177,
       "word": "刘耀文Sugar舞台好甜",
@@ -2763,12 +2851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7028,
-      "num": 423872,
-      "word": "王曼昱4比3胜陈幸同",
-      "onboard_time": 1732440021,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 7743,
+      "num": 1262907,
+      "word": "中国山水藏着一整个乐团吧",
+      "onboard_time": 1732440859,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2780,6 +2868,9 @@
     },
     {
       "word": "#习近平主席拉美之行高光时刻#"
+    },
+    {
+      "word": "#时间观里的大国外交#"
     }
   ]
 }
