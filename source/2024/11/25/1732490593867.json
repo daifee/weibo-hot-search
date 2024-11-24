@@ -1,0 +1,410 @@
+{
+  "runTime": 1732490593867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 488705,
+        "num": 786595,
+        "word": "央视曝光劣质羽绒制品以丝充绒",
+        "onboard_time": 1732483510,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298371,
+        "num": 298371,
+        "word": "保险公司回应连交10年保险结果失效",
+        "onboard_time": 1732464018,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26744,
+        "num": 279499,
+        "word": "盘点我国医疗服务价格项目新变化",
+        "onboard_time": 1732453101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319106,
+        "num": 277886,
+        "word": "34岁女子骨癌化疗17次又确诊白血病",
+        "onboard_time": 1732458743,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270821,
+        "num": 270821,
+        "word": "北方这些地方有暴雪",
+        "onboard_time": 1732485911,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202217,
+        "num": 202217,
+        "word": "丁禹兮微博访问量内娱第一",
+        "onboard_time": 1732490056,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164880,
+        "num": 164880,
+        "word": "7万件羽绒服含绒量0企业主管被抓",
+        "onboard_time": 1732449439,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137452,
+        "num": 137452,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93519,
+        "num": 132810,
+        "word": "好东西 快车太臭",
+        "onboard_time": 1732456581,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27459,
+        "num": 130171,
+        "word": "全面公示热搜榜单算法原理",
+        "onboard_time": 1732488734,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129064,
+        "num": 129064,
+        "word": "疑似李行亮取关麦琳",
+        "onboard_time": 1732451000,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127153,
+        "num": 127153,
+        "word": "王曼昱总决赛夺冠",
+        "onboard_time": 1732439960,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123130,
+        "num": 123130,
+        "word": "王楚钦感谢马龙给自己的一句话",
+        "onboard_time": 1732451721,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119582,
+        "num": 119582,
+        "word": "科员举报信访局长被判敲诈入狱4年",
+        "onboard_time": 1732488313,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116773,
+        "num": 116773,
+        "word": "女子称花十二万整形后被说老了十岁",
+        "onboard_time": 1732452559,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100745,
+        "num": 100745,
+        "word": "地沟油变身成飞机飞行的燃料",
+        "onboard_time": 1732481950,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90025,
+        "num": 95357,
+        "word": "李子柒穿绿色唐朝襦裙太绝了",
+        "onboard_time": 1732456099,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73287,
+        "num": 95090,
+        "word": "刀郎经纪公司已报案",
+        "onboard_time": 1732473911,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94850,
+        "num": 94850,
+        "word": "豫P7A525被网友骑电动车帮找到",
+        "onboard_time": 1732470493,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 11654,
+        "num": 93059,
+        "word": "郑雨盛文佳庇年龄差16岁",
+        "onboard_time": 1732490116,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107379,
+        "num": 92585,
+        "word": "美国男子为跟情人私奔假死抛妻弃子",
+        "onboard_time": 1732453522,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92102,
+        "num": 92102,
+        "word": "鞠婧祎油管有22多个百万舞台",
+        "onboard_time": 1732463180,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85549,
+        "num": 85549,
+        "word": "中国最后一位女先生走了",
+        "onboard_time": 1732457061,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77877,
+        "num": 77877,
+        "word": "北京大风雨雪降温强势来袭",
+        "onboard_time": 1732487112,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13036,
+        "num": 76507,
+        "word": "王曼昱说这场比赛赢得很不容易",
+        "onboard_time": 1732489994,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76002,
+        "num": 76002,
+        "word": "男子裸露下体尾随女孩被一棍喝退",
+        "onboard_time": 1732439840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75012,
+        "num": 75012,
+        "word": "广东人最怕的湿冷要来了",
+        "onboard_time": 1732463778,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72036,
+        "num": 72036,
+        "word": "肖战射雕英雄传侠之大者展架海报",
+        "onboard_time": 1732481651,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71611,
+        "num": 71611,
+        "word": "王一博金莲花同时提名影帝视帝",
+        "onboard_time": 1732462162,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68454,
+        "num": 68454,
+        "word": "这样的衣服眉姐姐从未对四郎穿过",
+        "onboard_time": 1732450220,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73800,
+        "num": 66120,
+        "word": "警方通报景德镇发现一具中年男尸",
+        "onboard_time": 1732452021,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 70445,
+        "num": 65242,
+        "word": "梁洛施 马浴柯",
+        "onboard_time": 1732451421,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 63709,
+        "num": 63709,
+        "word": "黄奕 只要不是外公姐就行",
+        "onboard_time": 1732487653,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58423,
+        "num": 58423,
+        "word": "货拉拉司机回应保时捷",
+        "onboard_time": 1732459701,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53191,
+        "num": 53191,
+        "word": "广州长达240天的夏天终于结束",
+        "onboard_time": 1732472232,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49264,
+        "num": 49264,
+        "word": "刘宇晒与汤唯合照",
+        "onboard_time": 1732464978,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47742,
+        "num": 47742,
+        "word": "遇见麦琳前vs遇见麦琳后",
+        "onboard_time": 1732471934,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47170,
+        "num": 47170,
+        "word": "会长是女仆大人 婚后番外",
+        "onboard_time": 1732457421,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 46016,
+        "num": 46016,
+        "word": "车厘子价格可能还要降",
+        "onboard_time": 1732478711,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 44655,
+        "num": 44655,
+        "word": "祝绪丹惊艳亮相国风盛典",
+        "onboard_time": 1732481051,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43339,
+        "num": 44655,
+        "word": "OBGG显示Meiko加入iG",
+        "onboard_time": 1732460542,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43033,
+        "num": 44652,
+        "word": "九江羽绒园区童装厂售假羽绒服",
+        "onboard_time": 1732475831,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41079,
+        "num": 44651,
+        "word": "王楚钦4比0胜张本智和",
+        "onboard_time": 1732434142,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39037,
+        "num": 44647,
+        "word": "肖战我们第三小节预告封面",
+        "onboard_time": 1732489095,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39025,
+        "num": 44647,
+        "word": "女子编造剧本卖惨博眼球被处罚",
+        "onboard_time": 1732473432,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 38901,
+        "num": 44643,
+        "word": "3个动作助你入睡",
+        "onboard_time": 1732465397,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38874,
+        "num": 44642,
+        "word": "武汉一路面突发塌陷两车掉入",
+        "onboard_time": 1732482431,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37063,
+        "num": 44640,
+        "word": "想听课的学生曾多到叶嘉莹进不了教室",
+        "onboard_time": 1732484711,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32645,
+        "num": 44637,
+        "word": "看吧张碧晨下班也得骑车",
+        "onboard_time": 1732480270,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31465,
+        "num": 44635,
+        "word": "高泽宇丸子订婚",
+        "onboard_time": 1732453101,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}
