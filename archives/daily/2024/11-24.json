@@ -1,7 +1,15 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732432932895,
+  "endTime": 1732433719387,
   "band_list": [
+    {
+      "raw_hot": 2708091,
+      "num": 2708091,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1732430658,
+      "rank": 7,
+      "category": "体育"
+    },
     {
       "raw_hot": 1905809,
       "num": 1814112,
@@ -16,14 +24,6 @@
       "word": "媒体评前体操冠军当性感网红",
       "onboard_time": 1732419797,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1453359,
-      "num": 1453359,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1732430658,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1732406956,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 861287,
+      "num": 861287,
+      "word": "虞书欣连喊11声慕声",
+      "onboard_time": 1732432458,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 842788,
@@ -243,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548700,
+      "num": 548700,
+      "word": "倒在铁轨上的25岁机械师",
+      "onboard_time": 1732429578,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526496,
       "num": 526496,
       "word": "微信将14天后自动清理原图原视频",
       "onboard_time": 1732340718,
       "rank": 4,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 523134,
+      "num": 523134,
+      "word": "邓超 最好的小鹿",
+      "onboard_time": 1732432458,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 522071,
@@ -259,28 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 516242,
-      "num": 516242,
-      "word": "倒在铁轨上的25岁机械师",
-      "onboard_time": 1732429578,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 501484,
       "num": 360362,
       "word": "鹿晗 野玫瑰",
       "onboard_time": 1732368560,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 492708,
-      "num": 492708,
-      "word": "虞书欣连喊11声慕声",
-      "onboard_time": 1732432458,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 479682,
@@ -651,6 +659,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 227766,
+      "num": 444593,
+      "word": "老人学芭蕾一边立脚尖一边做家务",
+      "onboard_time": 1732431617,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227236,
+      "num": 124255,
+      "word": "女儿1.4w买皮草买到了妈妈心巴上",
+      "onboard_time": 1732433298,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223437,
       "num": 276263,
       "word": "让BIGBANG再次伟大",
@@ -673,6 +697,14 @@
       "onboard_time": 1732376121,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208751,
+      "num": 443126,
+      "word": "王楚钦开场连得10分",
+      "onboard_time": 1732432818,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 203511,
@@ -699,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197447,
+      "num": 197447,
+      "word": "王俊凯纯白针织套装",
+      "onboard_time": 1732432818,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195464,
       "num": 195464,
       "word": "睡眠不足身体会出现什么变化",
@@ -723,20 +763,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 191422,
-      "num": 191422,
-      "word": "邓超 最好的小鹿",
-      "onboard_time": 1732432458,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191128,
       "num": 191128,
       "word": "肖战MV不要回头",
       "onboard_time": 1732429517,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190136,
+      "num": 190136,
+      "word": "F1拉斯维加斯大奖赛",
+      "onboard_time": 1732432637,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 189638,
@@ -800,6 +840,14 @@
       "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
       "onboard_time": 1732416917,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179493,
+      "num": 179493,
+      "word": "WTT总决赛场馆外大排长龙",
+      "onboard_time": 1732431558,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -875,20 +923,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169329,
+      "num": 169329,
+      "word": "旺旺高管再发文",
+      "onboard_time": 1732427898,
+      "rank": 23,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 168901,
       "num": 168901,
       "word": "肖战无袖肌肉线条",
       "onboard_time": 1732429157,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166474,
-      "num": 166474,
-      "word": "旺旺高管再发文",
-      "onboard_time": 1732427898,
-      "rank": 23,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 163384,
@@ -963,28 +1011,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151666,
-      "num": 310654,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1732421358,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 150590,
-      "num": 150590,
+      "raw_hot": 154983,
+      "num": 154983,
       "word": "院人版晚安大小姐",
       "onboard_time": 1732432519,
       "rank": 26,
       "category": "综艺"
     },
     {
-      "raw_hot": 148634,
-      "num": 444593,
-      "word": "老人学芭蕾一边立脚尖一边做家务",
-      "onboard_time": 1732431617,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 151666,
+      "num": 310654,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1732421358,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 147131,
@@ -1115,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130854,
+      "num": 130854,
+      "word": "关宏峰 死腿快跑啊",
+      "onboard_time": 1732432937,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128756,
       "num": 128756,
       "word": "妙妙子期系铃铛",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1732425438,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125777,
-      "num": 125777,
-      "word": "F1拉斯维加斯大奖赛",
-      "onboard_time": 1732432637,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 125594,
@@ -1217,14 +1257,6 @@
       "onboard_time": 1732408996,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123068,
-      "num": 123068,
-      "word": "王俊凯纯白针织套装",
-      "onboard_time": 1732432818,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 122979,
@@ -1307,12 +1339,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117019,
+      "num": 117019,
+      "word": "王楚钦1比0张本智和",
+      "onboard_time": 1732433238,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116688,
       "num": 224182,
       "word": "玩偶之家",
       "onboard_time": 1732425857,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116370,
+      "num": 170616,
+      "word": "AG瓦糕大作战",
+      "onboard_time": 1732432878,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 116265,
@@ -1459,14 +1507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109125,
-      "num": 150746,
-      "word": "WTT总决赛场馆外大排长龙",
-      "onboard_time": 1732431558,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108872,
       "num": 108872,
       "word": "泽连斯基称俄乌冲突完全有可能明年结束",
@@ -1499,12 +1539,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 107338,
-      "num": 107338,
-      "word": "AG瓦糕大作战",
-      "onboard_time": 1732432878,
-      "rank": 39,
-      "category": "电竞"
+      "raw_hot": 107847,
+      "num": 107847,
+      "word": "宋亚轩站在蹦极台上吓到腿软",
+      "onboard_time": 1732433298,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 103531,
@@ -1547,6 +1587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 99982,
+      "num": 99982,
+      "word": "白夜破晓 逻辑性",
+      "onboard_time": 1732432098,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99256,
       "num": 99256,
       "word": "杨子口型",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1732373782,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97760,
-      "num": 97760,
-      "word": "白夜破晓 逻辑性",
-      "onboard_time": 1732432098,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 97209,
@@ -1683,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81977,
+      "num": 81977,
+      "word": "宋亚轩抽冷子冒犯停不下来",
+      "onboard_time": 1732433658,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81189,
       "num": 81189,
       "word": "全校通报安可",
@@ -1697,6 +1745,22 @@
       "onboard_time": 1732367421,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80058,
+      "num": 80058,
+      "word": "掘金25分大胜湖人",
+      "onboard_time": 1732433478,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79573,
+      "num": 79573,
+      "word": "佛山一小区附近每晚都下鸟屎雨",
+      "onboard_time": 1732433599,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77697,
@@ -2011,6 +2075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28518,
+      "num": 969793,
+      "word": "时间观里的大国外交",
+      "onboard_time": 1732418719,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28442,
       "num": 31295,
       "word": "榛树中程高超音速导弹",
@@ -2115,14 +2187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19168,
-      "num": 873140,
-      "word": "时间观里的大国外交",
-      "onboard_time": 1732418719,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 17201,
       "num": 22177,
       "word": "刘耀文Sugar舞台好甜",
@@ -2208,14 +2272,6 @@
       "word": "王曼昱说会从始至终的专注",
       "onboard_time": 1732383194,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6021,
-      "num": 443126,
-      "word": "王楚钦开场连得10分",
-      "onboard_time": 1732432818,
-      "rank": 9,
       "category": "体育"
     }
   ],
