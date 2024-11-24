@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732436848252,
+  "endTime": 1732437728117,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -43,6 +43,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1337681,
+      "num": 1337681,
+      "word": "王楚钦回应光速夺冠",
+      "onboard_time": 1732435102,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1322682,
       "num": 1322682,
       "word": "保时捷 货拉拉",
@@ -57,14 +65,6 @@
       "onboard_time": 1732414697,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1248531,
-      "num": 1248531,
-      "word": "王楚钦回应光速夺冠",
-      "onboard_time": 1732435102,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1146606,
@@ -219,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 676232,
+      "num": 676232,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1732435102,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 657944,
       "num": 657944,
       "word": "盘点勇闯内娱的真千金",
@@ -233,6 +241,14 @@
       "onboard_time": 1732412177,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 645434,
+      "num": 575661,
+      "word": "陈赫说鹿晗确实有点太帅了",
+      "onboard_time": 1732436240,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 630863,
@@ -259,6 +275,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 627490,
+      "num": 566555,
+      "word": "上海千万豪宅夹层藏超万只蛆",
+      "onboard_time": 1732436539,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 623392,
       "num": 286872,
       "word": "乔欣无名指戒指",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 602013,
-      "num": 252692,
+      "num": 386223,
       "word": "女儿1.4w买皮草买到了妈妈心巴上",
       "onboard_time": 1732433298,
       "rank": 30,
@@ -284,11 +308,19 @@
     },
     {
       "raw_hot": 592045,
-      "num": 412974,
+      "num": 437104,
       "word": "王楚钦4比0胜张本智和",
       "onboard_time": 1732434142,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 589809,
+      "num": 589809,
+      "word": "赵露思王鹤棣 何不同舟渡",
+      "onboard_time": 1732436720,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 586862,
@@ -363,12 +395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 419742,
-      "num": 419742,
-      "word": "王曼昱vs陈幸同",
-      "onboard_time": 1732435102,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 435992,
+      "num": 435992,
+      "word": "Newjeans违约金高达6200亿韩元",
+      "onboard_time": 1732436360,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 415896,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 399375,
-      "num": 149226,
+      "num": 385651,
       "word": "整栋楼都醒了就妹妹没有醒",
       "onboard_time": 1732435223,
       "rank": 30,
@@ -507,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355361,
-      "num": 355361,
-      "word": "陈赫说鹿晗确实有点太帅了",
-      "onboard_time": 1732436240,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 347529,
       "num": 316934,
       "word": "警方回应派出所人员殴打小学生",
@@ -537,6 +561,14 @@
       "onboard_time": 1732424478,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324953,
+      "num": 324953,
+      "word": "丁禹兮刚进组又请客了",
+      "onboard_time": 1732433778,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 324570,
@@ -587,12 +619,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 303239,
+      "num": 303239,
+      "word": "严禁用算法实施大数据杀熟",
+      "onboard_time": 1732435042,
+      "rank": 18,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 302065,
       "num": 218365,
       "word": "独生女婚后全款给父母买房难要回",
       "onboard_time": 1732369941,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299758,
+      "num": 311003,
+      "word": "王楚钦对球迷说今天是我的主场",
+      "onboard_time": 1732436180,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 297106,
@@ -603,28 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295597,
-      "num": 295597,
-      "word": "丁禹兮刚进组又请客了",
-      "onboard_time": 1732433778,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294483,
       "num": 294483,
       "word": "黎巴嫩首都居民睡梦中被炸醒",
       "onboard_time": 1732408336,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 290842,
-      "num": 290842,
-      "word": "严禁用算法实施大数据杀熟",
-      "onboard_time": 1732435042,
-      "rank": 18,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 290248,
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 260656,
-      "num": 148413,
+      "num": 181033,
       "word": "邓亚萍说王楚钦越想赢越要放下",
       "onboard_time": 1732434021,
       "rank": 31,
@@ -780,7 +812,7 @@
     },
     {
       "raw_hot": 228661,
-      "num": 197022,
+      "num": 225729,
       "word": "好东西 山西就是法国",
       "onboard_time": 1732436180,
       "rank": 25,
@@ -793,14 +825,6 @@
       "onboard_time": 1732431617,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224174,
-      "num": 147811,
-      "word": "Newjeans违约金高达6200亿韩元",
-      "onboard_time": 1732436360,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 223437,
@@ -819,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220113,
+      "num": 220113,
+      "word": "王楚钦夺冠后与王皓拥抱庆祝",
+      "onboard_time": 1732436780,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217347,
       "num": 269620,
       "word": "感冒都好了为什么还一直咳嗽",
@@ -833,14 +865,6 @@
       "onboard_time": 1732428797,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202791,
-      "num": 202791,
-      "word": "王楚钦对球迷说今天是我的主场",
-      "onboard_time": 1732436180,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 201742,
@@ -931,14 +955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 186447,
-      "num": 146959,
-      "word": "上海千万豪宅夹层藏超万只蛆",
-      "onboard_time": 1732436539,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186323,
       "num": 186323,
       "word": "马斯克个人财富暴增超6000亿元",
@@ -961,6 +977,14 @@
       "onboard_time": 1732386552,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183652,
+      "num": 183652,
+      "word": "王楚钦总决赛三连冠",
+      "onboard_time": 1732437259,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 181646,
@@ -1075,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165479,
+      "num": 584603,
+      "word": "王楚钦捧起总决赛冠军奖杯",
+      "onboard_time": 1732436900,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163384,
       "num": 163384,
       "word": "打工人常跑步能去班味吗",
@@ -1163,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150769,
+      "num": 150769,
+      "word": "发朋友圈仅导师可见是什么体验",
+      "onboard_time": 1732437319,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149973,
       "num": 149973,
       "word": "WTT",
@@ -1219,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142805,
+      "num": 142805,
+      "word": "丁禹兮为爱做坦克",
+      "onboard_time": 1732437499,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139824,
       "num": 139824,
       "word": "BIGBANG合体",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1732423278,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 134805,
+      "num": 134805,
+      "word": "美国小伙呼吁归还圆明园兽首",
+      "onboard_time": 1732435941,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134568,
@@ -1411,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124188,
+      "num": 124188,
+      "word": "王楚钦希望2025可以变得更好",
+      "onboard_time": 1732437080,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122979,
       "num": 122979,
       "word": "香港市民打卡海南舰说希望福建舰也能来",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1732379596,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115781,
-      "num": 115781,
-      "word": "美国小伙呼吁归还圆明园兽首",
-      "onboard_time": 1732435941,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115706,
@@ -1675,14 +1731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110761,
-      "num": 110761,
-      "word": "赵露思王鹤棣 何不同舟渡",
-      "onboard_time": 1732436720,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110718,
       "num": 221557,
       "word": "你的身份证快到期了吗",
@@ -1729,6 +1777,22 @@
       "onboard_time": 1732433298,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106894,
+      "num": 106894,
+      "word": "尔滨你有点重南轻北了",
+      "onboard_time": 1732437619,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104235,
+      "num": 104235,
+      "word": "Doinb聊Icon队内讧",
+      "onboard_time": 1732436360,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 103531,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1732393211,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 93523,
-      "num": 93523,
-      "word": "王楚钦夺冠后与王皓拥抱庆祝",
-      "onboard_time": 1732436780,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 89238,
@@ -2003,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67237,
+      "num": 386388,
+      "word": "王楚钦板板都强",
+      "onboard_time": 1732437380,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66891,
       "num": 66891,
       "word": "跑男的睡衣是批发的吗",
@@ -2041,6 +2105,14 @@
       "onboard_time": 1732413919,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64456,
+      "num": 437494,
+      "word": "王曼昱1比1陈幸同",
+      "onboard_time": 1732437199,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 63629,
@@ -2089,6 +2161,14 @@
       "onboard_time": 1732366520,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 54247,
+      "num": 388833,
+      "word": "张艺兴今晚惊喜直播",
+      "onboard_time": 1732437080,
+      "rank": 18,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 49245,
@@ -2315,6 +2395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26867,
+      "num": 222053,
+      "word": "WB空降KSG见面会",
+      "onboard_time": 1732437020,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 24961,
       "num": 24961,
       "word": "邓佳鑫唱了醒着",
@@ -2345,6 +2433,14 @@
       "onboard_time": 1732388231,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23704,
+      "num": 581106,
+      "word": "王曼昱陈幸同 精彩",
+      "onboard_time": 1732437499,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 23562,
