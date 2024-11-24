@@ -1,0 +1,410 @@
+{
+  "runTime": 1732426751085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 890354,
+        "num": 1142456,
+        "word": "蓝盈莹编辑微博共情李行亮",
+        "onboard_time": 1732424358,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677912,
+        "num": 677912,
+        "word": "昆明一民宿只接待18至26岁客人",
+        "onboard_time": 1732424957,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29282,
+        "num": 528484,
+        "word": "在乌镇峰会畅聊中国互联网30年",
+        "onboard_time": 1732419078,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1516129,
+        "num": 504393,
+        "word": "媒体评前体操冠军当性感网红",
+        "onboard_time": 1732419797,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842788,
+        "num": 496756,
+        "word": "看因果报应要签保密协议",
+        "onboard_time": 1732422557,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479801,
+        "num": 479801,
+        "word": "12岁女孩被尾随热心司机拿撬棍保护",
+        "onboard_time": 1732412658,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 650295,
+        "num": 478272,
+        "word": "鹿晗 给我干哪年来了",
+        "onboard_time": 1732413000,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203467,
+        "num": 469729,
+        "word": "C位果然有C位的道理",
+        "onboard_time": 1732417519,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74183,
+        "num": 466246,
+        "word": "张本智和说冠军和一轮游都能活",
+        "onboard_time": 1732426698,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86237,
+        "num": 460079,
+        "word": "跨省闪婚乱象调查",
+        "onboard_time": 1732425018,
+        "rank": 9,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 830792,
+        "num": 450496,
+        "word": "羊毛月一夜掉粉近22万",
+        "onboard_time": 1732418959,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 492878,
+        "num": 442893,
+        "word": "王安宇蹦极沈腾看哭了",
+        "onboard_time": 1732421597,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442087,
+        "num": 442087,
+        "word": "秦霄贤回应近期舆论",
+        "onboard_time": 1732420397,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 384387,
+        "num": 384387,
+        "word": "金敏绪 首尔流浪女",
+        "onboard_time": 1732405455,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363694,
+        "num": 363694,
+        "word": "王楚钦说张本智和赢得不容易",
+        "onboard_time": 1732412177,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286761,
+        "num": 286761,
+        "word": "光与夜之恋 齐司礼",
+        "onboard_time": 1732425379,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283122,
+        "num": 283122,
+        "word": "没有退休金的父亲困在打零工里",
+        "onboard_time": 1732425258,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110982,
+        "num": 271843,
+        "word": "现在就出发",
+        "onboard_time": 1732426517,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266230,
+        "num": 266230,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260918,
+        "num": 260918,
+        "word": "粉丝以余宇涵名义资助了一个孩子",
+        "onboard_time": 1732425496,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1009504,
+        "num": 259860,
+        "word": "前体操冠军吴柳芳擦边争议后发声",
+        "onboard_time": 1732411156,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 255373,
+        "num": 255373,
+        "word": "向佐露脐装",
+        "onboard_time": 1732418838,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253934,
+        "num": 253934,
+        "word": "丁禹兮杂志",
+        "onboard_time": 1732421479,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240576,
+        "num": 240576,
+        "word": "时代少年团点赞量排名",
+        "onboard_time": 1732422257,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116688,
+        "num": 224182,
+        "word": "玩偶之家",
+        "onboard_time": 1732425857,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216970,
+        "num": 216970,
+        "word": "保时捷公开道歉",
+        "onboard_time": 1732406535,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147862,
+        "num": 203677,
+        "word": "石破茂回应中国对日本恢复免签",
+        "onboard_time": 1732412177,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199585,
+        "num": 199585,
+        "word": "闪耀的恒星首发预告",
+        "onboard_time": 1732425617,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28105,
+        "num": 181748,
+        "word": "关晓彤费加罗十一月刊封面预告",
+        "onboard_time": 1732426698,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89238,
+        "num": 179649,
+        "word": "周巡演我上班发疯",
+        "onboard_time": 1732426338,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66178,
+        "num": 178106,
+        "word": "业内人士称医用卫生巾是蹭流量的说法",
+        "onboard_time": 1732425317,
+        "rank": 30,
+        "category": "财经,健康医疗"
+      },
+      {
+        "raw_hot": 177971,
+        "num": 177971,
+        "word": "男子骑行疑被刮倒后遭车碾压身亡",
+        "onboard_time": 1732413618,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 172220,
+        "num": 172220,
+        "word": "海南被实名举报县委副书记落马",
+        "onboard_time": 1732424478,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166161,
+        "num": 166161,
+        "word": "用人民币感受日本工资水平",
+        "onboard_time": 1732412177,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160534,
+        "num": 160534,
+        "word": "张真源心虚到语言系统紊乱",
+        "onboard_time": 1732425617,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154310,
+        "num": 154310,
+        "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
+        "onboard_time": 1732416917,
+        "rank": 35,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 150549,
+        "num": 150549,
+        "word": "蛋糕店把配料成本全标在产品上",
+        "onboard_time": 1732412658,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145591,
+        "num": 145591,
+        "word": "王楚钦曾8次战胜张本智和",
+        "onboard_time": 1732423818,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140407,
+        "num": 140407,
+        "word": "胡先煦送宋亚轩花篮",
+        "onboard_time": 1732420759,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139163,
+        "num": 139163,
+        "word": "张凌赫死手你快开啊",
+        "onboard_time": 1732418538,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133704,
+        "num": 133704,
+        "word": "林一沈月 海外两个头很大的人",
+        "onboard_time": 1732426038,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132842,
+        "num": 132842,
+        "word": "网剧星辰令定档",
+        "onboard_time": 1732423338,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132790,
+        "num": 132790,
+        "word": "羊毛月道歉",
+        "onboard_time": 1732411877,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129952,
+        "num": 129952,
+        "word": "吴柳芳成擦边主播被怒斥",
+        "onboard_time": 1732412177,
+        "rank": 43,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 120477,
+        "num": 120477,
+        "word": "优酷放了白鹿泪洒奔跑吧片段",
+        "onboard_time": 1732423398,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114249,
+        "num": 114249,
+        "word": "张本智和称有望战胜王楚钦",
+        "onboard_time": 1732420518,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113072,
+        "num": 113072,
+        "word": "中欧即将达成电动汽车关税协议",
+        "onboard_time": 1732423698,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111896,
+        "num": 111896,
+        "word": "向佐现在算什么赛道",
+        "onboard_time": 1732425438,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110942,
+        "num": 110942,
+        "word": "王楚钦11次对阵张本智和取得8胜",
+        "onboard_time": 1732426637,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108872,
+        "num": 108872,
+        "word": "泽连斯基称俄乌冲突完全有可能明年结束",
+        "onboard_time": 1732423398,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越山海的友谊团结合作开拓之旅#"
+    }
+  }
+}

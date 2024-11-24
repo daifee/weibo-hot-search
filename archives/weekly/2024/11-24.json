@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732425695499,
+  "endTime": 1732426751085,
   "band_list": [
     {
       "raw_hot": 1905809,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 993732,
-      "num": 364052,
+      "num": 450496,
       "word": "羊毛月一夜掉粉近22万",
       "onboard_time": 1732418959,
       "rank": 13,
@@ -89,6 +89,22 @@
       "onboard_time": 1732406956,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 890354,
+      "num": 1142456,
+      "word": "蓝盈莹编辑微博共情李行亮",
+      "onboard_time": 1732424358,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 842788,
+      "num": 496756,
+      "word": "看因果报应要签保密协议",
+      "onboard_time": 1732422557,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 791088,
@@ -139,20 +155,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 677912,
+      "num": 677912,
+      "word": "昆明一民宿只接待18至26岁客人",
+      "onboard_time": 1732424957,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 657394,
       "num": 340195,
       "word": "用人民币感受日本工资水平",
       "onboard_time": 1732412177,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 656886,
-      "num": 395407,
-      "word": "蓝盈莹编辑微博共情李行亮",
-      "onboard_time": 1732424358,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 629182,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 554719,
-      "num": 337404,
+      "num": 442893,
       "word": "王安宇蹦极沈腾看哭了",
       "onboard_time": 1732421597,
       "rank": 25,
@@ -451,6 +467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286761,
+      "num": 286761,
+      "word": "光与夜之恋 齐司礼",
+      "onboard_time": 1732425379,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 283122,
+      "num": 288934,
+      "word": "没有退休金的父亲困在打零工里",
+      "onboard_time": 1732425258,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280410,
       "num": 278497,
       "word": "6万名牌包包落共享单车辗转3次硬是没丢",
@@ -483,20 +515,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260918,
+      "num": 291354,
+      "word": "粉丝以余宇涵名义资助了一个孩子",
+      "onboard_time": 1732425496,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259993,
       "num": 259993,
       "word": "王楚钦张本智和争冠",
       "onboard_time": 1732359622,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247767,
-      "num": 247767,
-      "word": "昆明一民宿只接待18至26岁客人",
-      "onboard_time": 1732424957,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242475,
@@ -531,14 +563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 226236,
-      "num": 226236,
-      "word": "光与夜之恋 齐司礼",
-      "onboard_time": 1732425379,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223437,
       "num": 276263,
       "word": "让BIGBANG再次伟大",
@@ -563,6 +587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199585,
+      "num": 199585,
+      "word": "闪耀的恒星首发预告",
+      "onboard_time": 1732425617,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197197,
       "num": 197197,
       "word": "海南被实名举报县委副书记落马",
@@ -585,14 +617,6 @@
       "onboard_time": 1732420759,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194156,
-      "num": 194156,
-      "word": "闪耀的恒星首发预告",
-      "onboard_time": 1732425617,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 193210,
@@ -731,6 +755,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 160534,
+      "num": 160534,
+      "word": "张真源心虚到语言系统紊乱",
+      "onboard_time": 1732425617,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156962,
       "num": 435705,
       "word": "内蒙古通辽发生4.3级地震",
@@ -761,6 +793,14 @@
       "onboard_time": 1732374860,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145591,
+      "num": 145591,
+      "word": "王楚钦曾8次战胜张本智和",
+      "onboard_time": 1732423818,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 145469,
@@ -825,6 +865,14 @@
       "onboard_time": 1732421358,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133704,
+      "num": 133704,
+      "word": "林一沈月 海外两个头很大的人",
+      "onboard_time": 1732426038,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 133103,
@@ -1011,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116688,
+      "num": 224182,
+      "word": "玩偶之家",
+      "onboard_time": 1732425857,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116265,
       "num": 116265,
       "word": "沈月发长文告别失笑",
@@ -1099,20 +1155,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112087,
-      "num": 288934,
-      "word": "没有退休金的父亲困在打零工里",
-      "onboard_time": 1732425258,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111109,
       "num": 111109,
       "word": "今年约31万人报考导游资格证",
       "onboard_time": 1732398549,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110982,
+      "num": 271843,
+      "word": "现在就出发",
+      "onboard_time": 1732426517,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110942,
+      "num": 110942,
+      "word": "王楚钦11次对阵张本智和取得8胜",
+      "onboard_time": 1732426637,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 110908,
@@ -1129,6 +1193,14 @@
       "onboard_time": 1732379479,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108872,
+      "num": 108872,
+      "word": "泽连斯基称俄乌冲突完全有可能明年结束",
+      "onboard_time": 1732423398,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 108573,
@@ -1153,14 +1225,6 @@
       "onboard_time": 1732358000,
       "rank": 40,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 108114,
-      "num": 108114,
-      "word": "张真源心虚到语言系统紊乱",
-      "onboard_time": 1732425617,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 103531,
@@ -1259,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89238,
+      "num": 179649,
+      "word": "周巡演我上班发疯",
+      "onboard_time": 1732426338,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89195,
       "num": 89195,
       "word": "勒布伦兄弟男双夺冠",
@@ -1283,12 +1355,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87005,
-      "num": 291354,
-      "word": "粉丝以余宇涵名义资助了一个孩子",
-      "onboard_time": 1732425496,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 86237,
+      "num": 460079,
+      "word": "跨省闪婚乱象调查",
+      "onboard_time": 1732425018,
+      "rank": 9,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 85960,
@@ -1331,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74183,
+      "num": 466246,
+      "word": "张本智和说冠军和一轮游都能活",
+      "onboard_time": 1732426698,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73007,
       "num": 79170,
       "word": "现在拨打的电话",
@@ -1371,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66178,
+      "num": 377812,
+      "word": "业内人士称医用卫生巾是蹭流量的说法",
+      "onboard_time": 1732425317,
+      "rank": 8,
+      "category": "财经,健康医疗"
+    },
+    {
       "raw_hot": 66035,
       "num": 66035,
       "word": "朝鲜警告美国及其追随国家",
@@ -1393,14 +1481,6 @@
       "onboard_time": 1732380857,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 61974,
-      "num": 367968,
-      "word": "跨省闪婚乱象调查",
-      "onboard_time": 1732425018,
-      "rank": 9,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 61498,
@@ -1505,14 +1585,6 @@
       "onboard_time": 1732401311,
       "rank": 47,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 42983,
-      "num": 377812,
-      "word": "业内人士称医用卫生巾是蹭流量的说法",
-      "onboard_time": 1732425317,
-      "rank": 8,
-      "category": "财经,健康医疗"
     },
     {
       "raw_hot": 42832,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1732396452,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28105,
+      "num": 181748,
+      "word": "关晓彤费加罗十一月刊封面预告",
+      "onboard_time": 1732426698,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27242,
