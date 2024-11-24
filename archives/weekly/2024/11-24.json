@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732472976379,
+  "endTime": 1732473793056,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -3723,6 +3723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46607,
+      "num": 60748,
+      "word": "广州长达240天的夏天终于结束",
+      "onboard_time": 1732472232,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46490,
       "num": 377748,
       "word": "看待保时捷运费纠纷应客观公允",
@@ -4139,6 +4147,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 23946,
+      "num": 27621,
+      "word": "王曼昱说冠军属于国乒",
+      "onboard_time": 1732463899,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23911,
       "num": 23911,
       "word": "时代少年团彩排影像",
@@ -4155,12 +4171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23369,
-      "num": 27621,
-      "word": "王曼昱说冠军属于国乒",
-      "onboard_time": 1732463899,
+      "raw_hot": 22579,
+      "num": 23853,
+      "word": "今日星拍放送",
+      "onboard_time": 1732473132,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22270,
+      "num": 23852,
+      "word": "张杰成都演唱会",
+      "onboard_time": 1732473072,
       "rank": 46,
-      "category": "体育"
+      "category": "演出"
     },
     {
       "raw_hot": 22005,
@@ -4211,6 +4235,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 19860,
+      "num": 48691,
+      "word": "SEVENTEEN烤肉店聚餐",
+      "onboard_time": 1732469834,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19190,
+      "num": 52132,
+      "word": "女子编造剧本卖惨博眼球被处罚",
+      "onboard_time": 1732473432,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 18660,
       "num": 376652,
       "word": "黄金联赛的实力豹款",
@@ -4235,28 +4275,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16381,
-      "num": 48691,
-      "word": "SEVENTEEN烤肉店聚餐",
-      "onboard_time": 1732469834,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15972,
       "num": 18255,
       "word": "旺仔当事人称异物被厂家取走大部分",
       "onboard_time": 1732401432,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15723,
-      "num": 60748,
-      "word": "广州长达240天的夏天终于结束",
-      "onboard_time": 1732472232,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14636,
@@ -4313,6 +4337,14 @@
       "onboard_time": 1732452741,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12153,
+      "num": 45427,
+      "word": "时代少年团黑西装烟熏妆",
+      "onboard_time": 1732469953,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 12032,

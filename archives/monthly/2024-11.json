@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732472976379,
+  "endTime": 1732473793056,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -69483,6 +69483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46607,
+      "num": 60748,
+      "word": "广州长达240天的夏天终于结束",
+      "onboard_time": 1732472232,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46584,
       "num": 46584,
       "word": "王艺迪回应光速晋级四强",
@@ -77531,6 +77539,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 23946,
+      "num": 27621,
+      "word": "王曼昱说冠军属于国乒",
+      "onboard_time": 1732463899,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23945,
       "num": 507066,
       "word": "虚构销售原因直播卖货构成消费欺诈",
@@ -77809,14 +77825,6 @@
       "onboard_time": 1731744258,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23369,
-      "num": 27621,
-      "word": "王曼昱说冠军属于国乒",
-      "onboard_time": 1732463899,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 23353,
@@ -78115,6 +78123,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 22579,
+      "num": 23853,
+      "word": "今日星拍放送",
+      "onboard_time": 1732473132,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22574,
       "num": 22574,
       "word": "失笑开怀大笑卡",
@@ -78233,6 +78249,14 @@
       "onboard_time": 1731064099,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22270,
+      "num": 23852,
+      "word": "张杰成都演唱会",
+      "onboard_time": 1732473072,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 22249,
@@ -79267,6 +79291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19860,
+      "num": 48691,
+      "word": "SEVENTEEN烤肉店聚餐",
+      "onboard_time": 1732469834,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19812,
       "num": 267041,
       "word": "军训宙斯",
@@ -79537,6 +79569,14 @@
       "onboard_time": 1730863642,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19190,
+      "num": 52132,
+      "word": "女子编造剧本卖惨博眼球被处罚",
+      "onboard_time": 1732473432,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 19159,
@@ -80483,14 +80523,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 16381,
-      "num": 48691,
-      "word": "SEVENTEEN烤肉店聚餐",
-      "onboard_time": 1732469834,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16363,
       "num": 405251,
       "word": "燕云十六声年底公测",
@@ -80705,14 +80737,6 @@
       "onboard_time": 1730674635,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15723,
-      "num": 60748,
-      "word": "广州长达240天的夏天终于结束",
-      "onboard_time": 1732472232,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15693,
@@ -81953,6 +81977,14 @@
       "onboard_time": 1731434712,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12153,
+      "num": 45427,
+      "word": "时代少年团黑西装烟熏妆",
+      "onboard_time": 1732469953,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 12117,
