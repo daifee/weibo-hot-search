@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732423302840,
+  "endTime": 1732425695499,
   "band_list": [
     {
       "raw_hot": 1905809,
@@ -11,7 +11,7 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 1563859,
+      "raw_hot": 1721891,
       "num": 1563859,
       "word": "媒体评前体操冠军当性感网红",
       "onboard_time": 1732419797,
@@ -49,6 +49,14 @@
       "onboard_time": 1732412177,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1100931,
+      "num": 1176148,
+      "word": "因果报应 保密协议",
+      "onboard_time": 1732422557,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 993732,
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 656886,
+      "num": 395407,
+      "word": "蓝盈莹编辑微博共情李行亮",
+      "onboard_time": 1732424358,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 629182,
       "num": 629182,
       "word": "石破茂回应中国对日本恢复免签",
@@ -169,6 +185,14 @@
       "onboard_time": 1732412658,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 554719,
+      "num": 337404,
+      "word": "王安宇蹦极沈腾看哭了",
+      "onboard_time": 1732421597,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 526496,
@@ -339,14 +363,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 331748,
-      "num": 331748,
-      "word": "王安宇蹦极沈腾看哭了",
-      "onboard_time": 1732421597,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324570,
       "num": 142048,
       "word": "金马奖将追赠郑佩佩终身成就奖",
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288393,
+      "num": 320255,
+      "word": "时代少年团点赞量排名",
+      "onboard_time": 1732422257,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288230,
       "num": 288230,
       "word": "蛋糕店把配料成本全标在产品上",
@@ -451,14 +475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275309,
-      "num": 320255,
-      "word": "时代少年团点赞量排名",
-      "onboard_time": 1732422257,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270849,
       "num": 292129,
       "word": "浪姐好友去了王霏霏演唱会",
@@ -473,6 +489,14 @@
       "onboard_time": 1732359622,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247767,
+      "num": 247767,
+      "word": "昆明一民宿只接待18至26岁客人",
+      "onboard_time": 1732424957,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242475,
@@ -507,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226236,
+      "num": 226236,
+      "word": "光与夜之恋 齐司礼",
+      "onboard_time": 1732425379,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223437,
       "num": 276263,
       "word": "让BIGBANG再次伟大",
@@ -523,20 +555,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203736,
-      "num": 203736,
-      "word": "因果报应 保密协议",
-      "onboard_time": 1732422557,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 201742,
       "num": 201742,
       "word": "粉笔模考",
       "onboard_time": 1732419378,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 197197,
+      "num": 197197,
+      "word": "海南被实名举报县委副书记落马",
+      "onboard_time": 1732424478,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195464,
@@ -553,6 +585,14 @@
       "onboard_time": 1732420759,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194156,
+      "num": 194156,
+      "word": "闪耀的恒星首发预告",
+      "onboard_time": 1732425617,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 193210,
@@ -611,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181646,
+      "num": 181646,
+      "word": "网剧星辰令定档",
+      "onboard_time": 1732423338,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179682,
       "num": 391859,
       "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
@@ -625,6 +673,14 @@
       "onboard_time": 1732385893,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175824,
+      "num": 356467,
+      "word": "原来爬树真的有全国比赛",
+      "onboard_time": 1732412658,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 172464,
@@ -731,14 +787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 141266,
-      "num": 356467,
-      "word": "原来爬树真的有全国比赛",
-      "onboard_time": 1732412658,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 139824,
       "num": 139824,
       "word": "BIGBANG合体",
@@ -811,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131472,
+      "num": 131472,
+      "word": "中欧即将达成电动汽车关税协议",
+      "onboard_time": 1732423698,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131270,
       "num": 131270,
       "word": "马刺逆转勇士",
       "onboard_time": 1732422199,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127990,
+      "num": 127990,
+      "word": "闪耀的恒星海岛单人海报",
+      "onboard_time": 1732423758,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 127196,
@@ -832,6 +896,14 @@
       "word": "林更新 本来挺开心的你给整下头了",
       "onboard_time": 1732363400,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125879,
+      "num": 125879,
+      "word": "向佐现在算什么赛道",
+      "onboard_time": 1732425438,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -889,6 +961,14 @@
       "onboard_time": 1732364721,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122073,
+      "num": 122073,
+      "word": "优酷放了白鹿泪洒奔跑吧片段",
+      "onboard_time": 1732423398,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121101,
@@ -1011,12 +1091,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112437,
+      "num": 338120,
+      "word": "WTT总决赛男单女单今日收官之战",
+      "onboard_time": 1732422557,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112087,
+      "num": 288934,
+      "word": "没有退休金的父亲困在打零工里",
+      "onboard_time": 1732425258,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111109,
       "num": 111109,
       "word": "今年约31万人报考导游资格证",
       "onboard_time": 1732398549,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110908,
+      "num": 192536,
+      "word": "宋亚轩solo舞台",
+      "onboard_time": 1732424840,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 110718,
@@ -1049,6 +1153,14 @@
       "onboard_time": 1732358000,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 108114,
+      "num": 108114,
+      "word": "张真源心虚到语言系统紊乱",
+      "onboard_time": 1732425617,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103531,
@@ -1097,6 +1209,14 @@
       "onboard_time": 1732356800,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99159,
+      "num": 114282,
+      "word": "王楚钦球迷自发维持赛场秩序",
+      "onboard_time": 1732424118,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 98505,
@@ -1161,6 +1281,22 @@
       "onboard_time": 1732367601,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87005,
+      "num": 291354,
+      "word": "粉丝以余宇涵名义资助了一个孩子",
+      "onboard_time": 1732425496,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85960,
+      "num": 192558,
+      "word": "保时捷合作方称为安抚司机发生推搡",
+      "onboard_time": 1732423758,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 84808,
@@ -1259,12 +1395,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 62757,
-      "num": 338120,
-      "word": "WTT总决赛男单女单今日收官之战",
-      "onboard_time": 1732422557,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 61974,
+      "num": 367968,
+      "word": "跨省闪婚乱象调查",
+      "onboard_time": 1732425018,
+      "rank": 9,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 61498,
@@ -1371,6 +1507,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 42983,
+      "num": 377812,
+      "word": "业内人士称医用卫生巾是蹭流量的说法",
+      "onboard_time": 1732425317,
+      "rank": 8,
+      "category": "财经,健康医疗"
+    },
+    {
       "raw_hot": 42832,
       "num": 116138,
       "word": "广州一手住宅网签面积翻倍增长",
@@ -1385,6 +1529,14 @@
       "onboard_time": 1732393751,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40349,
+      "num": 840260,
+      "word": "在乌镇峰会畅聊中国互联网30年",
+      "onboard_time": 1732419078,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 39899,
@@ -1457,14 +1609,6 @@
       "onboard_time": 1732400531,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32628,
-      "num": 840260,
-      "word": "在乌镇峰会畅聊中国互联网30年",
-      "onboard_time": 1732419078,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 32003,
@@ -1657,6 +1801,9 @@
     },
     {
       "word": "#习近平主席拉美之行#"
+    },
+    {
+      "word": "#习近平主席拉美之行高光时刻#"
     }
   ]
 }
