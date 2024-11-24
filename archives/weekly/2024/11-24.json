@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732466619481,
+  "endTime": 1732468775202,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -915,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350839,
+      "num": 506151,
+      "word": "广东人最怕的湿冷要来了",
+      "onboard_time": 1732463778,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349672,
       "num": 596221,
       "word": "王曼昱4比3胜陈幸同",
@@ -1243,28 +1251,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267916,
+      "num": 230421,
+      "word": "刘宇晒与汤唯合照",
+      "onboard_time": 1732464978,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267097,
       "num": 267097,
       "word": "李行亮无名指戒指",
       "onboard_time": 1732460183,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 263998,
-      "num": 263998,
-      "word": "广东人最怕的湿冷要来了",
-      "onboard_time": 1732463778,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263545,
-      "num": 230421,
-      "word": "刘宇晒与汤唯合照",
-      "onboard_time": 1732464978,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 263474,
@@ -2611,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125717,
+      "num": 125717,
+      "word": "3个动作助你入睡",
+      "onboard_time": 1732465397,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125594,
       "num": 125594,
       "word": "黎以冲突",
@@ -3091,14 +3099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101857,
-      "num": 101857,
-      "word": "3个动作助你入睡",
-      "onboard_time": 1732465397,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 101176,
       "num": 270027,
       "word": "涵艺爆料LNG新赛季阵容",
@@ -3451,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67131,
+      "num": 197419,
+      "word": "虞书欣留住相遇的美好瞬间",
+      "onboard_time": 1732466236,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66930,
       "num": 532886,
       "word": "一人一句祝贺王楚钦夺冠",
@@ -3473,14 +3481,6 @@
       "onboard_time": 1732382295,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66504,
-      "num": 197419,
-      "word": "虞书欣留住相遇的美好瞬间",
-      "onboard_time": 1732466236,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 66178,
@@ -3611,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54841,
+      "num": 67935,
+      "word": "鹭卓不儿你们干嘛呀",
+      "onboard_time": 1732467435,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54247,
       "num": 388833,
       "word": "张艺兴今晚惊喜直播",
@@ -3640,6 +3648,14 @@
       "word": "于和伟审问戏压迫感好强",
       "onboard_time": 1732452921,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49287,
+      "num": 49287,
+      "word": "不讨好的勇气瞄准我方马超",
+      "onboard_time": 1732467795,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -3785,6 +3801,14 @@
       "onboard_time": 1732393751,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42553,
+      "num": 156772,
+      "word": "养生谣言长了眼睛吗专挑老年人推送",
+      "onboard_time": 1732467914,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42343,
@@ -4059,6 +4083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22332,
+      "num": 121717,
+      "word": "丁禹兮海岛副本开启",
+      "onboard_time": 1732468634,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22005,
       "num": 183256,
       "word": "传奇杯",
@@ -4179,6 +4211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13490,
+      "num": 49149,
+      "word": "中国赛圣坛组合夺冠",
+      "onboard_time": 1732467316,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12299,
       "num": 1041078,
       "word": "寒潮频繁出现是冷冬要来了吗",
@@ -4232,6 +4272,14 @@
       "word": "王曼昱说会从始至终的专注",
       "onboard_time": 1732383194,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7670,
+      "num": 85850,
+      "word": "冯萧灿被石铭扫踢KO后送进医院",
+      "onboard_time": 1732468514,
+      "rank": 23,
       "category": "体育"
     },
     {
