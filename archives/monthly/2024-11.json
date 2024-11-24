@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732459107369,
+  "endTime": 1732461720699,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4305,6 +4305,14 @@
       "onboard_time": 1730967859,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1101094,
+      "num": 537958,
+      "word": "34岁女子骨癌化疗17次又确诊白血病",
+      "onboard_time": 1732458743,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1100931,
@@ -18299,6 +18307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392845,
+      "num": 392845,
+      "word": "货拉拉司机回应保时捷",
+      "onboard_time": 1732459701,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392617,
       "num": 335983,
       "word": "陶昕然8岁女儿首次公开亮相",
@@ -18673,6 +18689,14 @@
       "onboard_time": 1731739820,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 384993,
+      "num": 380726,
+      "word": "马嘉祺戴头纱",
+      "onboard_time": 1732458563,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 384830,
@@ -22251,6 +22275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310779,
+      "num": 310779,
+      "word": "赵丽颖金莲花双提名",
+      "onboard_time": 1732458621,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310559,
       "num": 169288,
       "word": "翁青雅 孙乐言",
@@ -24179,14 +24211,6 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 280808,
-      "num": 280808,
-      "word": "赵丽颖金莲花双提名",
-      "onboard_time": 1732458621,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280800,
       "num": 280800,
       "word": "教体局通报班主任家长群催缴医保",
@@ -25363,6 +25387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267097,
+      "num": 267097,
+      "word": "李行亮无名指戒指",
+      "onboard_time": 1732460183,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266975,
       "num": 241743,
       "word": "爆火的超薄羽绒服真的抗冻吗",
@@ -25825,6 +25857,14 @@
       "onboard_time": 1732358719,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261127,
+      "num": 261127,
+      "word": "王楚钦王曼昱拍城市宣传照",
+      "onboard_time": 1732458743,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 260995,
@@ -26529,6 +26569,14 @@
       "onboard_time": 1732442599,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253875,
+      "num": 253875,
+      "word": "OBGG显示Meiko加入iG",
+      "onboard_time": 1732460542,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 253634,
@@ -28027,6 +28075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237589,
+      "num": 237589,
+      "word": "JDG",
+      "onboard_time": 1732461200,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237386,
       "num": 374282,
       "word": "日本队双削",
@@ -28531,14 +28587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232287,
-      "num": 232287,
-      "word": "34岁女子骨癌化疗17次又确诊白血病",
-      "onboard_time": 1732458743,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232259,
       "num": 232259,
       "word": "无法一觉睡到天亮可能是肝血不足",
@@ -29001,14 +29049,6 @@
       "onboard_time": 1731250701,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 228705,
-      "num": 228705,
-      "word": "马嘉祺戴头纱",
-      "onboard_time": 1732458563,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 228661,
@@ -33451,14 +33491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201613,
-      "num": 201613,
-      "word": "王楚钦王曼昱拍城市宣传照",
-      "onboard_time": 1732458743,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201610,
       "num": 377222,
       "word": "白夜破晓 嫂子开门我是我哥",
@@ -34001,6 +34033,14 @@
       "onboard_time": 1732102039,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199524,
+      "num": 199524,
+      "word": "时代少年团直播",
+      "onboard_time": 1731660860,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 199493,
@@ -34857,6 +34897,14 @@
       "onboard_time": 1731675679,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196734,
+      "num": 196734,
+      "word": "宋亚轩 落叶归根",
+      "onboard_time": 1732460781,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 196731,
@@ -38187,6 +38235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183985,
+      "num": 183985,
+      "word": "风年",
+      "onboard_time": 1732460420,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183956,
       "num": 183956,
       "word": "月亮",
@@ -38393,6 +38449,14 @@
       "onboard_time": 1731234019,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183048,
+      "num": 183048,
+      "word": "鹭卓新歌船上线",
+      "onboard_time": 1732461320,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 183045,
@@ -38787,6 +38851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181313,
+      "num": 181313,
+      "word": "祺鑫",
+      "onboard_time": 1732461439,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181300,
       "num": 181300,
       "word": "北方人要为过冬做准备了",
@@ -39049,6 +39121,14 @@
       "onboard_time": 1731128720,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180185,
+      "num": 180185,
+      "word": "王楚钦说林诗栋刚输完就陪自己训练",
+      "onboard_time": 1732461021,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 180174,
@@ -41747,6 +41827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169348,
+      "num": 169348,
+      "word": "这跟和周翊然谈了有什么区别",
+      "onboard_time": 1732461140,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169329,
       "num": 169329,
       "word": "旺旺高管再发文",
@@ -42161,6 +42249,14 @@
       "onboard_time": 1730940381,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167631,
+      "num": 167631,
+      "word": "五月天上海场收官",
+      "onboard_time": 1732460722,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 167622,
@@ -42809,6 +42905,14 @@
       "onboard_time": 1731541577,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165193,
+      "num": 165193,
+      "word": "魏晨唱了破晓",
+      "onboard_time": 1732461320,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 165137,
@@ -47315,6 +47419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149608,
+      "num": 149608,
+      "word": "十个勤天广州演唱会现场",
+      "onboard_time": 1732303813,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149604,
       "num": 149604,
       "word": "小狗簪花 世世漂亮",
@@ -50219,6 +50331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138932,
+      "num": 138932,
+      "word": "南安普顿vs利物浦",
+      "onboard_time": 1732461439,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138833,
       "num": 231257,
       "word": "OBGG显示Gala加入iG",
@@ -50561,6 +50681,14 @@
       "onboard_time": 1732052112,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137458,
+      "num": 274917,
+      "word": "老人交10年保险生病报销被告知失效",
+      "onboard_time": 1732460900,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137431,
@@ -55947,14 +56075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116073,
-      "num": 116073,
-      "word": "时代少年团直播",
-      "onboard_time": 1731660860,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116011,
       "num": 134750,
       "word": "专家称歼35A与歼20可组合作战",
@@ -58360,6 +58480,14 @@
       "word": "南波万的聚会3开播",
       "onboard_time": 1730525899,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104376,
+      "num": 307471,
+      "word": "Angelababy对接否认将参加最新一季浪姐",
+      "onboard_time": 1732460900,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -64235,6 +64363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68246,
+      "num": 280016,
+      "word": "韩媒说51岁的郑雨盛经常私联",
+      "onboard_time": 1732461380,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68244,
       "num": 233077,
       "word": "丁真扶吉克隽逸上台阶",
@@ -69257,6 +69393,14 @@
       "onboard_time": 1730775500,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46490,
+      "num": 377748,
+      "word": "看待保时捷运费纠纷应客观公允",
+      "onboard_time": 1732459941,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46476,
@@ -80521,14 +80665,6 @@
       "onboard_time": 1731229159,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15164,
-      "num": 24445,
-      "word": "十个勤天广州演唱会现场",
-      "onboard_time": 1732303813,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 15159,
