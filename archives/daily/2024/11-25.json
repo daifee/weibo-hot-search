@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732486852160,
+  "endTime": 1732487952391,
   "band_list": [
     {
       "raw_hot": 755908,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 226446,
-      "num": 361048,
+      "num": 465503,
       "word": "保险公司回应连交10年保险结果失效",
       "onboard_time": 1732464018,
       "rank": 9,
@@ -193,6 +193,14 @@
       "onboard_time": 1732465397,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 184756,
+      "num": 184756,
+      "word": "央视曝光劣质羽绒制品以丝充绒",
+      "onboard_time": 1732483510,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177585,
@@ -323,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103704,
-      "num": 103704,
-      "word": "央视曝光劣质羽绒制品以丝充绒",
-      "onboard_time": 1732483510,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100458,
       "num": 100458,
       "word": "祝绪丹 小神仙",
@@ -387,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89278,
+      "num": 89278,
+      "word": "北方这些地方有暴雪",
+      "onboard_time": 1732485911,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88400,
       "num": 88400,
       "word": "睡不着试试做这3步",
@@ -401,6 +409,14 @@
       "onboard_time": 1732461320,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 76201,
+      "num": 76201,
+      "word": "地沟油变身成飞机飞行的燃料",
+      "onboard_time": 1732481950,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 74406,
@@ -451,14 +467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 51256,
-      "num": 51256,
-      "word": "地沟油变身成飞机飞行的燃料",
-      "onboard_time": 1732481950,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 50732,
       "num": 54607,
       "word": "鹿晗版邪恶栀子花",
@@ -491,20 +499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40529,
-      "num": 40529,
-      "word": "刀郎经纪公司已报案",
-      "onboard_time": 1732473911,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 39553,
-      "num": 33263,
+      "raw_hot": 41460,
+      "num": 41460,
       "word": "肖战射雕英雄传侠之大者展架海报",
       "onboard_time": 1732481651,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40756,
+      "num": 49488,
+      "word": "刀郎经纪公司已报案",
+      "onboard_time": 1732473911,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 37810,
@@ -513,6 +521,14 @@
       "onboard_time": 1732468634,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36908,
+      "num": 36908,
+      "word": "豫P7A525被网友骑电动车帮找到",
+      "onboard_time": 1732470493,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 36855,
@@ -531,12 +547,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34115,
-      "num": 34115,
-      "word": "豫P7A525被网友骑电动车帮找到",
-      "onboard_time": 1732470493,
-      "rank": 28,
-      "category": "正能量"
+      "raw_hot": 34187,
+      "num": 49329,
+      "word": "看吧张碧晨下班也得骑车",
+      "onboard_time": 1732480270,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 33494,
+      "num": 33494,
+      "word": "武汉一路面突发塌陷两车掉入",
+      "onboard_time": 1732482431,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32370,
@@ -545,14 +569,6 @@
       "onboard_time": 1732471392,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30805,
-      "num": 51756,
-      "word": "北方这些地方有暴雪",
-      "onboard_time": 1732485911,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29168,
@@ -564,19 +580,11 @@
     },
     {
       "raw_hot": 29137,
-      "num": 29137,
+      "num": 32114,
       "word": "遇见麦琳前vs遇见麦琳后",
       "onboard_time": 1732471934,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27159,
-      "num": 34451,
-      "word": "看吧张碧晨下班也得骑车",
-      "onboard_time": 1732480270,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 26995,
@@ -587,11 +595,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26209,
+      "num": 26209,
+      "word": "王楚钦4比0胜张本智和",
+      "onboard_time": 1732434142,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26019,
       "num": 27631,
       "word": "杨幂姐感妆容",
       "onboard_time": 1732470253,
       "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25828,
+      "num": 31167,
+      "word": "祝绪丹惊艳亮相国风盛典",
+      "onboard_time": 1732481051,
+      "rank": 26,
       "category": "作品衍生,时尚"
     },
     {
@@ -601,6 +625,14 @@
       "onboard_time": 1732469114,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24265,
+      "num": 25045,
+      "word": "王曼昱4比3胜陈幸同",
+      "onboard_time": 1732440021,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 24217,
@@ -619,28 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23516,
-      "num": 23516,
-      "word": "王楚钦4比0胜张本智和",
-      "onboard_time": 1732434142,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22863,
-      "num": 28038,
-      "word": "祝绪丹惊艳亮相国风盛典",
-      "onboard_time": 1732481051,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 22652,
-      "num": 23516,
-      "word": "武汉一路面突发塌陷两车掉入",
-      "onboard_time": 1732482431,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 23333,
+      "num": 33718,
+      "word": "车厘子价格可能还要降",
+      "onboard_time": 1732478711,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 22579,
@@ -659,6 +675,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21911,
+      "num": 25014,
+      "word": "九江羽绒园区童装厂售假羽绒服",
+      "onboard_time": 1732475831,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21356,
+      "num": 25001,
+      "word": "黄奕 只要不是外公姐就行",
+      "onboard_time": 1732487653,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19860,
       "num": 48691,
       "word": "SEVENTEEN烤肉店聚餐",
@@ -667,36 +699,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19568,
-      "num": 33718,
-      "word": "车厘子价格可能还要降",
-      "onboard_time": 1732478711,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 19477,
-      "num": 23504,
-      "word": "王曼昱4比3胜陈幸同",
-      "onboard_time": 1732440021,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 19116,
-      "num": 23492,
-      "word": "九江羽绒园区童装厂售假羽绒服",
-      "onboard_time": 1732475831,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17867,
       "num": 23413,
       "word": "张泽禹给余宇涵的生日祝福",
       "onboard_time": 1732474212,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16670,
+      "num": 70745,
+      "word": "北京大风雨雪降温强势来袭",
+      "onboard_time": 1732487112,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14228,
@@ -771,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8502,
+      "num": 32593,
+      "word": "宋佳拍杂志也在积累表演素材",
+      "onboard_time": 1732485971,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 8239,
       "num": 27952,
       "word": "李子柒和汉服的适配度",
@@ -793,14 +817,6 @@
       "onboard_time": 1732485251,
       "rank": 27,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 5525,
-      "num": 32593,
-      "word": "宋佳拍杂志也在积累表演素材",
-      "onboard_time": 1732485971,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 5516,
