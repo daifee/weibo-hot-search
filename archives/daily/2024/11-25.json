@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732483221927,
+  "endTime": 1732484126541,
   "band_list": [
     {
       "raw_hot": 755908,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35970,
+      "num": 35970,
+      "word": "中国目的地搜索热度暴涨",
+      "onboard_time": 1732479491,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34115,
       "num": 34115,
       "word": "豫P7A525被网友骑电动车帮找到",
@@ -531,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26378,
-      "num": 26378,
-      "word": "中国目的地搜索热度暴涨",
-      "onboard_time": 1732479491,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 28764,
+      "num": 28764,
+      "word": "地沟油变身成飞机飞行的燃料",
+      "onboard_time": 1732481950,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 26019,
@@ -579,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22307,
-      "num": 26322,
-      "word": "地沟油变身成飞机飞行的燃料",
-      "onboard_time": 1732481950,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 22270,
       "num": 23852,
       "word": "张杰成都演唱会",
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17819,
+      "num": 17819,
+      "word": "肖战射雕英雄传侠之大者展架海报",
+      "onboard_time": 1732481651,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17732,
       "num": 19661,
       "word": "王曼昱4比3胜陈幸同",
@@ -635,15 +643,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15824,
-      "num": 17775,
-      "word": "祝绪丹惊艳亮相国风盛典",
-      "onboard_time": 1732481051,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 15328,
+      "raw_hot": 16507,
       "num": 17578,
       "word": "看吧张碧晨下班也得骑车",
       "onboard_time": 1732480270,
@@ -651,12 +651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14915,
-      "num": 17494,
-      "word": "肖战射雕英雄传侠之大者展架海报",
-      "onboard_time": 1732481651,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 15872,
+      "num": 15872,
+      "word": "武汉一路面突发塌陷两车掉入",
+      "onboard_time": 1732482431,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15824,
+      "num": 17775,
+      "word": "祝绪丹惊艳亮相国风盛典",
+      "onboard_time": 1732481051,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14228,
@@ -683,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12799,
-      "num": 14918,
-      "word": "武汉一路面突发塌陷两车掉入",
-      "onboard_time": 1732482431,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 12269,
+      "num": 14458,
+      "word": "叶嘉莹一生只做了传承中国古诗词一件事",
+      "onboard_time": 1732483931,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 12153,
@@ -697,6 +705,14 @@
       "onboard_time": 1732469953,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 12100,
+      "num": 32346,
+      "word": "央视曝光劣质羽绒制品以丝充绒",
+      "onboard_time": 1732483510,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10844,
@@ -747,8 +763,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5473,
-      "num": 22039,
+      "raw_hot": 5516,
+      "num": 25796,
       "word": "杨幂光投射千丝万缕",
       "onboard_time": 1732482730,
       "rank": 19,
