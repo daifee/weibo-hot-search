@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732453004422,
+  "endTime": 1732454784028,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1731054019,
       "rank": 18,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 1953228,
+      "num": 1953228,
+      "word": "鹿晗狼奔唇钉",
+      "onboard_time": 1732451120,
+      "rank": 7,
+      "category": "演出,时尚"
     },
     {
       "raw_hot": 1952073,
@@ -4051,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1140337,
+      "num": 1140337,
+      "word": "郑雨盛承认有儿子",
+      "onboard_time": 1732453341,
+      "rank": 3,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 1139399,
       "num": 1139399,
       "word": "花儿与中年",
@@ -4905,14 +4921,6 @@
       "onboard_time": 1730770520,
       "rank": 21,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1034500,
-      "num": 1034500,
-      "word": "鹿晗狼奔唇钉",
-      "onboard_time": 1732451120,
-      "rank": 7,
-      "category": "演出,时尚"
     },
     {
       "raw_hot": 1033084,
@@ -6627,6 +6635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 861315,
+      "num": 585281,
+      "word": "疑似李行亮取关麦琳",
+      "onboard_time": 1732451000,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 861287,
       "num": 861287,
       "word": "虞书欣连喊11声慕声",
@@ -7155,14 +7171,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 824333,
-      "num": 553267,
-      "word": "疑似李行亮取关麦琳",
-      "onboard_time": 1732451000,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 824271,
       "num": 824271,
       "word": "人民空军官宣",
@@ -7521,6 +7529,14 @@
       "onboard_time": 1732174579,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 799827,
+      "num": 799827,
+      "word": "王楚钦感谢马龙给自己的一句话",
+      "onboard_time": 1732451721,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 798154,
@@ -8081,14 +8097,6 @@
       "onboard_time": 1731918018,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 764984,
-      "num": 513383,
-      "word": "王楚钦感谢马龙给自己的一句话",
-      "onboard_time": 1732451721,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 764933,
@@ -11187,6 +11195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 617402,
+      "num": 617402,
+      "word": "虞书欣慕声 李泽锋陌生",
+      "onboard_time": 1732451602,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 617182,
       "num": 347565,
       "word": "全红婵也在看刘宇宁直播",
@@ -11353,6 +11369,14 @@
       "onboard_time": 1731162860,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 607903,
+      "num": 607903,
+      "word": "谁给贺峻霖打的腮红",
+      "onboard_time": 1732453160,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 607783,
@@ -11787,6 +11811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590762,
+      "num": 583887,
+      "word": "祝绪丹 小神仙",
+      "onboard_time": 1732450579,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 590658,
       "num": 590658,
       "word": "12岁少女谈小学成绩好的秘密走红",
@@ -11801,6 +11833,14 @@
       "onboard_time": 1730604080,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 590380,
+      "num": 590380,
+      "word": "女子称花十二万整形后被说老了十岁",
+      "onboard_time": 1732452559,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589929,
@@ -13593,14 +13633,6 @@
       "onboard_time": 1731576981,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 524253,
-      "num": 524253,
-      "word": "祝绪丹 小神仙",
-      "onboard_time": 1732450579,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 524186,
@@ -17043,14 +17075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 419710,
-      "num": 419710,
-      "word": "虞书欣慕声 李泽锋陌生",
-      "onboard_time": 1732451602,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419667,
       "num": 340423,
       "word": "于文文回应用小号",
@@ -18987,6 +19011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376671,
+      "num": 596232,
+      "word": "南开大学发布叶嘉莹讣告",
+      "onboard_time": 1732451541,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 376634,
       "num": 307614,
       "word": "被打调查记者曾获8次中国新闻奖",
@@ -19193,6 +19225,14 @@
       "onboard_time": 1731761302,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372131,
+      "num": 372131,
+      "word": "高泽宇丸子订婚",
+      "onboard_time": 1732453101,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 371741,
@@ -20217,6 +20257,14 @@
       "onboard_time": 1730731642,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 347805,
+      "num": 272511,
+      "word": "鹿晗粉丝帮忙清理音乐节的垃圾",
+      "onboard_time": 1732449919,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 347611,
@@ -21729,14 +21777,6 @@
       "onboard_time": 1730738896,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318285,
-      "num": 596232,
-      "word": "南开大学发布叶嘉莹讣告",
-      "onboard_time": 1732451541,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 317962,
@@ -24787,14 +24827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272511,
-      "num": 272511,
-      "word": "鹿晗粉丝帮忙清理音乐节的垃圾",
-      "onboard_time": 1732449919,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 272475,
       "num": 233561,
       "word": "麦琳 双11晚会带货",
@@ -25491,6 +25523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263599,
+      "num": 283970,
+      "word": "卢昱晓王星越我爱你",
+      "onboard_time": 1732454121,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263559,
       "num": 256790,
       "word": "瘦肚子最快的运动其实是跳跃",
@@ -25897,6 +25937,14 @@
       "onboard_time": 1731978979,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259312,
+      "num": 259312,
+      "word": "孙颖莎邱贻可场下同款姿势观赛",
+      "onboard_time": 1732450159,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 259212,
@@ -27875,14 +27923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238185,
-      "num": 238185,
-      "word": "孙颖莎邱贻可场下同款姿势观赛",
-      "onboard_time": 1732450159,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237796,
       "num": 417609,
       "word": "商场也会成为时代的眼泪吗",
@@ -28113,14 +28153,6 @@
       "onboard_time": 1731398840,
       "rank": 26,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 235210,
-      "num": 235210,
-      "word": "女子称花十二万整形后被说老了十岁",
-      "onboard_time": 1732452559,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235012,
@@ -28641,6 +28673,14 @@
       "onboard_time": 1730637738,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230713,
+      "num": 230713,
+      "word": "张真源贺峻霖 左边",
+      "onboard_time": 1732454060,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 230662,
@@ -29467,6 +29507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223045,
+      "num": 344045,
+      "word": "梁洛施 马浴柯",
+      "onboard_time": 1732451421,
+      "rank": 28,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 223041,
       "num": 223041,
       "word": "19岁小伙在迈巴赫车尾贴满寻人启示",
@@ -29761,14 +29809,6 @@
       "onboard_time": 1730713519,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221161,
-      "num": 344045,
-      "word": "梁洛施 马浴柯",
-      "onboard_time": 1732451421,
-      "rank": 28,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 221148,
@@ -31409,6 +31449,14 @@
       "onboard_time": 1730387299,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209874,
+      "num": 209874,
+      "word": "建议早读的时候严查这些人",
+      "onboard_time": 1732451602,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 209804,
@@ -33851,6 +33899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199442,
+      "num": 267894,
+      "word": "偶遇刘亦菲与友人聚餐",
+      "onboard_time": 1732453221,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199427,
       "num": 231663,
       "word": "Faker谈和Knight交手",
@@ -34347,6 +34403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197587,
+      "num": 197587,
+      "word": "鹿晗飞吻",
+      "onboard_time": 1732453221,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197550,
       "num": 197550,
       "word": "Jennie和ZICO合体演唱SPOT",
@@ -34705,14 +34769,6 @@
       "onboard_time": 1731634638,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196456,
-      "num": 196456,
-      "word": "建议早读的时候严查这些人",
-      "onboard_time": 1732451602,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 196452,
@@ -37753,6 +37809,14 @@
       "onboard_time": 1732154537,
       "rank": 19,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 184682,
+      "num": 184682,
+      "word": "丁程鑫细框镜",
+      "onboard_time": 1732454421,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 184665,
@@ -41019,6 +41083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171269,
+      "num": 171269,
+      "word": "TWICE帮走失女孩找到家人",
+      "onboard_time": 1732454480,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171260,
       "num": 171260,
       "word": "小胖续约狼队",
@@ -41961,6 +42033,14 @@
       "onboard_time": 1730708538,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 167390,
+      "num": 411774,
+      "word": "景德镇浮梁县发现一具中年男性尸体",
+      "onboard_time": 1732452860,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167364,
@@ -43329,6 +43409,14 @@
       "onboard_time": 1732363880,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162408,
+      "num": 593788,
+      "word": "男子10个月住380家酒店碰瓷63家",
+      "onboard_time": 1732451362,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162391,
@@ -44899,6 +44987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157054,
+      "num": 157054,
+      "word": "许昕再回应对王楚钦的车尾灯评价",
+      "onboard_time": 1732452380,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157036,
       "num": 1026364,
       "word": "秘鲁人从小就吃中餐",
@@ -44929,6 +45025,14 @@
       "onboard_time": 1731136699,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156973,
+      "num": 156973,
+      "word": "美国男子为跟情人私奔假死抛妻弃子",
+      "onboard_time": 1732453522,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 156962,
@@ -47948,7 +48052,7 @@
     },
     {
       "raw_hot": 146309,
-      "num": 146309,
+      "num": 269611,
       "word": "MRC对战GG",
       "onboard_time": 1732447579,
       "rank": 41,
@@ -48513,14 +48617,6 @@
       "onboard_time": 1732358300,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143898,
-      "num": 593788,
-      "word": "男子10个月住380家酒店碰瓷63家",
-      "onboard_time": 1732451362,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143844,
@@ -49561,6 +49657,14 @@
       "onboard_time": 1731670219,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 140130,
+      "num": 585423,
+      "word": "黄金饰品重回8字头",
+      "onboard_time": 1732453341,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 140102,
@@ -57763,14 +57867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 106458,
-      "num": 411774,
-      "word": "景德镇浮梁县发现一具中年男性尸体",
-      "onboard_time": 1732452860,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 106420,
       "num": 106420,
       "word": "小小的我东京电影节首映",
@@ -64603,6 +64699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64908,
+      "num": 378592,
+      "word": "叶嘉莹曾说要把诗词传给下一代人",
+      "onboard_time": 1732453461,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64904,
       "num": 99581,
       "word": "熊猫宝宝的睡前仪式感有多强",
@@ -67393,6 +67497,14 @@
       "onboard_time": 1731298698,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52394,
+      "num": 1144164,
+      "word": "盘点我国医疗服务价格项目新变化",
+      "onboard_time": 1732453101,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52382,

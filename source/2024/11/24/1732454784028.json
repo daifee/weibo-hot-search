@@ -1,0 +1,410 @@
+{
+  "runTime": 1732454784028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1953228,
+        "num": 1953228,
+        "word": "鹿晗狼奔唇钉",
+        "onboard_time": 1732451120,
+        "rank": 0,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 1216131,
+        "num": 1216131,
+        "word": "7万件羽绒服含绒量0企业主管被抓",
+        "onboard_time": 1732449439,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52394,
+        "num": 1144164,
+        "word": "盘点我国医疗服务价格项目新变化",
+        "onboard_time": 1732453101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1140337,
+        "num": 1140337,
+        "word": "郑雨盛承认有儿子",
+        "onboard_time": 1732453341,
+        "rank": 3,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 866363,
+        "num": 866363,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799827,
+        "num": 799827,
+        "word": "王楚钦感谢马龙给自己的一句话",
+        "onboard_time": 1732451721,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617402,
+        "num": 617402,
+        "word": "虞书欣慕声 李泽锋陌生",
+        "onboard_time": 1732451602,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607903,
+        "num": 607903,
+        "word": "谁给贺峻霖打的腮红",
+        "onboard_time": 1732453160,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 590380,
+        "num": 590380,
+        "word": "女子称花十二万整形后被说老了十岁",
+        "onboard_time": 1732452559,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140130,
+        "num": 585423,
+        "word": "黄金饰品重回8字头",
+        "onboard_time": 1732453341,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 861315,
+        "num": 585281,
+        "word": "疑似李行亮取关麦琳",
+        "onboard_time": 1732451000,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590762,
+        "num": 583887,
+        "word": "祝绪丹 小神仙",
+        "onboard_time": 1732450579,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 580633,
+        "num": 580633,
+        "word": "王楚钦锁定年终世界第1",
+        "onboard_time": 1732439901,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385200,
+        "num": 385200,
+        "word": "丁程鑫 长安教练",
+        "onboard_time": 1732451060,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64908,
+        "num": 378592,
+        "word": "叶嘉莹曾说要把诗词传给下一代人",
+        "onboard_time": 1732453461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376671,
+        "num": 376671,
+        "word": "南开大学发布叶嘉莹讣告",
+        "onboard_time": 1732451541,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 372131,
+        "num": 372131,
+        "word": "高泽宇丸子订婚",
+        "onboard_time": 1732453101,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 344073,
+        "num": 344073,
+        "word": "王曼昱总决赛夺冠",
+        "onboard_time": 1732439960,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263599,
+        "num": 283970,
+        "word": "卢昱晓王星越我爱你",
+        "onboard_time": 1732454121,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278371,
+        "num": 278371,
+        "word": "王曼昱4比3胜陈幸同",
+        "onboard_time": 1732440021,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 720074,
+        "num": 276546,
+        "word": "男子裸露下体尾随女孩被一棍喝退",
+        "onboard_time": 1732439840,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354529,
+        "num": 274621,
+        "word": "马嘉祺宋亚轩走马四手联弹",
+        "onboard_time": 1732449138,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 347805,
+        "num": 272069,
+        "word": "鹿晗粉丝帮忙清理音乐节的垃圾",
+        "onboard_time": 1732449919,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31333,
+        "num": 269611,
+        "word": "MRC对战GG",
+        "onboard_time": 1732447579,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199442,
+        "num": 267894,
+        "word": "偶遇刘亦菲与友人聚餐",
+        "onboard_time": 1732453221,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344705,
+        "num": 266043,
+        "word": "李行亮梦女",
+        "onboard_time": 1732437979,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300345,
+        "num": 262738,
+        "word": "在别人婚礼上求婚是大型道德撕票",
+        "onboard_time": 1732449800,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295129,
+        "num": 260550,
+        "word": "好东西",
+        "onboard_time": 1732439119,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259312,
+        "num": 259312,
+        "word": "孙颖莎邱贻可场下同款姿势观赛",
+        "onboard_time": 1732450159,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244949,
+        "num": 244949,
+        "word": "席慕蓉说叶嘉莹就是诗魂",
+        "onboard_time": 1732450159,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243390,
+        "num": 243390,
+        "word": "警方通报景德镇发现一具中年男尸",
+        "onboard_time": 1732452021,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 230713,
+        "num": 230713,
+        "word": "张真源贺峻霖 左边",
+        "onboard_time": 1732454060,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223045,
+        "num": 223045,
+        "word": "梁洛施 马浴柯",
+        "onboard_time": 1732451421,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 213610,
+        "num": 213610,
+        "word": "严浩翔红发",
+        "onboard_time": 1732450159,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209874,
+        "num": 209874,
+        "word": "建议早读的时候严查这些人",
+        "onboard_time": 1732451602,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203221,
+        "num": 203221,
+        "word": "普京签署法律赴乌参战可免欠款",
+        "onboard_time": 1732448539,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167390,
+        "num": 198731,
+        "word": "景德镇浮梁县发现一具中年男性尸体",
+        "onboard_time": 1732452860,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 197587,
+        "num": 197587,
+        "word": "鹿晗飞吻",
+        "onboard_time": 1732453221,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184682,
+        "num": 184682,
+        "word": "丁程鑫细框镜",
+        "onboard_time": 1732454421,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181462,
+        "num": 181462,
+        "word": "赵露思王鹤棣 何不同舟渡",
+        "onboard_time": 1732436720,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177670,
+        "num": 177670,
+        "word": "风盆",
+        "onboard_time": 1732450759,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 175703,
+        "word": "好东西彩蛋",
+        "onboard_time": 1732438820,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366955,
+        "num": 175446,
+        "word": "杨幂黑丝绒裙装",
+        "onboard_time": 1732446320,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171269,
+        "num": 171269,
+        "word": "TWICE帮走失女孩找到家人",
+        "onboard_time": 1732454480,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167711,
+        "num": 167711,
+        "word": "这样的衣服眉姐姐从未对四郎穿过",
+        "onboard_time": 1732450220,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162408,
+        "num": 162408,
+        "word": "男子10个月住380家酒店碰瓷63家",
+        "onboard_time": 1732451362,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158363,
+        "num": 158363,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1732450820,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157054,
+        "num": 157054,
+        "word": "许昕再回应对王楚钦的车尾灯评价",
+        "onboard_time": 1732452380,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156973,
+        "num": 156973,
+        "word": "美国男子为跟情人私奔假死抛妻弃子",
+        "onboard_time": 1732453522,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147667,
+        "num": 147667,
+        "word": "正直勇敢有阅读量",
+        "onboard_time": 1732438940,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#时间观里的大国外交#"
+    }
+  }
+}
