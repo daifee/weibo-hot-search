@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732418060528,
+  "endTime": 1732420175833,
   "band_list": [
     {
       "raw_hot": 1905809,
@@ -99,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 667674,
+      "num": 667674,
+      "word": "鹿晗 给我干哪年来了",
+      "onboard_time": 1732413000,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 657394,
       "num": 340195,
       "word": "用人民币感受日本工资水平",
@@ -113,6 +121,14 @@
       "onboard_time": 1732412177,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 627925,
+      "num": 381721,
+      "word": "陈泽",
+      "onboard_time": 1732415719,
+      "rank": 20,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 623392,
@@ -131,6 +147,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 555502,
+      "num": 306883,
+      "word": "羊毛月一夜掉粉近22万",
+      "onboard_time": 1732418959,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 526496,
       "num": 526496,
       "word": "微信将14天后自动清理原图原视频",
@@ -147,12 +171,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 491955,
-      "num": 491955,
-      "word": "鹿晗 给我干哪年来了",
-      "onboard_time": 1732413000,
-      "rank": 29,
-      "category": "演出"
+      "raw_hot": 495884,
+      "num": 303300,
+      "word": "C位果然有C位的道理",
+      "onboard_time": 1732417519,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479682,
@@ -161,14 +185,6 @@
       "onboard_time": 1732412177,
       "rank": 19,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 467140,
-      "num": 381721,
-      "word": "陈泽",
-      "onboard_time": 1732415719,
-      "rank": 20,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 449459,
@@ -211,12 +227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394546,
+      "num": 394546,
+      "word": "原来睡眠不足真会变胖",
+      "onboard_time": 1732415897,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 389741,
       "num": 389741,
       "word": "医生称用这3种卫生巾易引病上身",
       "onboard_time": 1732364780,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 389259,
+      "num": 389259,
+      "word": "张凌赫死手你快开啊",
+      "onboard_time": 1732418538,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 375263,
@@ -347,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286998,
-      "num": 286998,
-      "word": "原来睡眠不足真会变胖",
-      "onboard_time": 1732415897,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 280410,
       "num": 278497,
       "word": "6万名牌包包落共享单车辗转3次硬是没丢",
@@ -369,6 +393,14 @@
       "onboard_time": 1732411818,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270849,
+      "num": 292129,
+      "word": "浪姐好友去了王霏霏演唱会",
+      "onboard_time": 1732415959,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 259993,
@@ -409,6 +441,22 @@
       "onboard_time": 1732376121,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201742,
+      "num": 201742,
+      "word": "粉笔模考",
+      "onboard_time": 1732419378,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 195792,
+      "num": 195792,
+      "word": "第五人格",
+      "onboard_time": 1732415419,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 195464,
@@ -483,20 +531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171051,
+      "num": 391859,
+      "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
+      "onboard_time": 1732416917,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169399,
       "num": 169399,
       "word": "杨超越去了许嵩演唱会",
       "onboard_time": 1732370781,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165473,
-      "num": 165473,
-      "word": "C位果然有C位的道理",
-      "onboard_time": 1732417519,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163384,
@@ -513,6 +561,22 @@
       "onboard_time": 1732416979,
       "rank": 12,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 158150,
+      "num": 158150,
+      "word": "向佐露脐装",
+      "onboard_time": 1732418838,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156962,
+      "num": 435705,
+      "word": "内蒙古通辽发生4.3级地震",
+      "onboard_time": 1732413377,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 155201,
@@ -603,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127196,
+      "num": 127196,
+      "word": "檀健次演唱会前排吃这么好",
+      "onboard_time": 1732418778,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125941,
       "num": 125941,
       "word": "林更新 本来挺开心的你给整下头了",
@@ -635,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125026,
+      "num": 125026,
+      "word": "我国大部今起将先后降6到10度",
+      "onboard_time": 1732409656,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124401,
       "num": 124401,
       "word": "德约科维奇宣布新教练是穆雷",
@@ -657,14 +737,6 @@
       "onboard_time": 1732364721,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122543,
-      "num": 122543,
-      "word": "我国大部今起将先后降6到10度",
-      "onboard_time": 1732409656,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121101,
@@ -723,12 +795,36 @@
       "category": "正能量,运动健身"
     },
     {
+      "raw_hot": 114094,
+      "num": 114094,
+      "word": "掘金vs湖人",
+      "onboard_time": 1732419497,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113637,
       "num": 113637,
       "word": "网红湘妹子后悔没重视胃病",
       "onboard_time": 1732403714,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113141,
+      "num": 113141,
+      "word": "派出所民警殴打小学生已成立调查组",
+      "onboard_time": 1732419318,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 113099,
+      "num": 359357,
+      "word": "羊毛月删除争议视频",
+      "onboard_time": 1732417159,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 112483,
@@ -779,20 +875,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 104508,
-      "num": 435705,
-      "word": "内蒙古通辽发生4.3级地震",
-      "onboard_time": 1732413377,
-      "rank": 44,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 101176,
       "num": 270027,
       "word": "涵艺爆料LNG新赛季阵容",
       "onboard_time": 1732415419,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101125,
+      "num": 101125,
+      "word": "这个取暖神器你真的会用吗",
+      "onboard_time": 1732419618,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 100944,
@@ -811,6 +907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 100680,
+      "num": 114336,
+      "word": "北京的雪在路上了",
+      "onboard_time": 1732418538,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99256,
       "num": 99256,
       "word": "杨子口型",
@@ -825,6 +929,14 @@
       "onboard_time": 1732362979,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 98213,
+      "num": 98213,
+      "word": "内蒙古黑龙江将有大暴雪",
+      "onboard_time": 1732418479,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97970,
@@ -875,20 +987,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87268,
+      "num": 314833,
+      "word": "媒体评前体操冠军当性感网红",
+      "onboard_time": 1732419797,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84808,
       "num": 84808,
       "word": "严浩翔演唱会自拍vs他拍",
       "onboard_time": 1732413197,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81842,
-      "num": 359357,
-      "word": "羊毛月删除争议视频",
-      "onboard_time": 1732417159,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 81189,
@@ -953,14 +1065,6 @@
       "onboard_time": 1732382295,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66144,
-      "num": 391859,
-      "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
-      "onboard_time": 1732416917,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 66035,
@@ -1067,6 +1171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43492,
+      "num": 199549,
+      "word": "丁俊晖晋级英锦赛十六强",
+      "onboard_time": 1732420098,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43210,
       "num": 43210,
       "word": "特斯拉股价已上涨约40%",
@@ -1171,6 +1283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29483,
+      "num": 589802,
+      "word": "在乌镇峰会畅聊中国互联网30年",
+      "onboard_time": 1732419078,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29157,
       "num": 29157,
       "word": "网友喊话旺仔千万别塌",
@@ -1193,6 +1313,14 @@
       "onboard_time": 1732396452,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27717,
+      "num": 282954,
+      "word": "宋佳 姐张力",
+      "onboard_time": 1732419978,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27242,

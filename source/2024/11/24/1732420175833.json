@@ -1,0 +1,410 @@
+{
+  "runTime": 1732420175833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 935860,
+        "num": 1149737,
+        "word": "王楚钦说张本智和赢得不容易",
+        "onboard_time": 1732412177,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667674,
+        "num": 667674,
+        "word": "鹿晗 给我干哪年来了",
+        "onboard_time": 1732413000,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29483,
+        "num": 589802,
+        "word": "在乌镇峰会畅聊中国互联网30年",
+        "onboard_time": 1732419078,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 559261,
+        "num": 559261,
+        "word": "12岁女孩被尾随热心司机拿撬棍保护",
+        "onboard_time": 1732412658,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 394546,
+        "num": 394546,
+        "word": "原来睡眠不足真会变胖",
+        "onboard_time": 1732415897,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389490,
+        "num": 389490,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 389259,
+        "num": 389259,
+        "word": "张凌赫死手你快开啊",
+        "onboard_time": 1732418538,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1777859,
+        "num": 360339,
+        "word": "前体操冠军吴柳芳擦边争议后发声",
+        "onboard_time": 1732411156,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 317137,
+        "num": 317137,
+        "word": "石破茂回应中国对日本恢复免签",
+        "onboard_time": 1732412177,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87268,
+        "num": 314833,
+        "word": "媒体评前体操冠军当性感网红",
+        "onboard_time": 1732419797,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 849478,
+        "num": 313817,
+        "word": "羊毛月道歉",
+        "onboard_time": 1732411877,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662108,
+        "num": 311181,
+        "word": "金敏绪 首尔流浪女",
+        "onboard_time": 1732405455,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627925,
+        "num": 309390,
+        "word": "陈泽",
+        "onboard_time": 1732415719,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 555502,
+        "num": 306883,
+        "word": "羊毛月一夜掉粉近22万",
+        "onboard_time": 1732418959,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 495884,
+        "num": 303300,
+        "word": "C位果然有C位的道理",
+        "onboard_time": 1732417519,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302407,
+        "num": 302407,
+        "word": "保时捷公开道歉",
+        "onboard_time": 1732406535,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270849,
+        "num": 292129,
+        "word": "浪姐好友去了王霏霏演唱会",
+        "onboard_time": 1732415959,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231176,
+        "num": 286253,
+        "word": "素人为参加节目瘦20斤",
+        "onboard_time": 1732412177,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283638,
+        "num": 283638,
+        "word": "吴柳芳成擦边主播被怒斥",
+        "onboard_time": 1732412177,
+        "rank": 18,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 27717,
+        "num": 282954,
+        "word": "宋佳 姐张力",
+        "onboard_time": 1732419978,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282866,
+        "num": 282866,
+        "word": "男子骑行疑被刮倒后遭车碾压身亡",
+        "onboard_time": 1732413618,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 263246,
+        "num": 263246,
+        "word": "黄圣依 死脑快想啊",
+        "onboard_time": 1732370601,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206473,
+        "num": 206473,
+        "word": "用人民币感受日本工资水平",
+        "onboard_time": 1732412177,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201742,
+        "num": 201742,
+        "word": "粉笔模考",
+        "onboard_time": 1732419378,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43492,
+        "num": 199549,
+        "word": "丁俊晖晋级英锦赛十六强",
+        "onboard_time": 1732420098,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199210,
+        "num": 199210,
+        "word": "蛋糕店把配料成本全标在产品上",
+        "onboard_time": 1732412658,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197584,
+        "num": 197584,
+        "word": "永夜星河 星光大赏",
+        "onboard_time": 1732411818,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195792,
+        "num": 195792,
+        "word": "第五人格",
+        "onboard_time": 1732415419,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178867,
+        "num": 178867,
+        "word": "让BIGBANG再次伟大",
+        "onboard_time": 1732412538,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158150,
+        "num": 158150,
+        "word": "向佐露脐装",
+        "onboard_time": 1732418838,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171051,
+        "num": 157607,
+        "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
+        "onboard_time": 1732416917,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156962,
+        "num": 156962,
+        "word": "内蒙古通辽发生4.3级地震",
+        "onboard_time": 1732413377,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147527,
+        "num": 147527,
+        "word": "独生女婚后全款给父母买房难要回",
+        "onboard_time": 1732369941,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136921,
+        "num": 136921,
+        "word": "吴柳芳为占用公共资源致歉",
+        "onboard_time": 1732413857,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72382,
+        "num": 133053,
+        "word": "涵艺爆料LNG新赛季阵容",
+        "onboard_time": 1732415419,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141445,
+        "num": 132347,
+        "word": "向佐药水哥同框直播",
+        "onboard_time": 1732416677,
+        "rank": 35,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 131287,
+        "num": 131287,
+        "word": "麦琳提议钱继续给她管",
+        "onboard_time": 1732415479,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 127196,
+        "num": 127196,
+        "word": "檀健次演唱会前排吃这么好",
+        "onboard_time": 1732418778,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125026,
+        "num": 125026,
+        "word": "我国大部今起将先后降6到10度",
+        "onboard_time": 1732409656,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117992,
+        "num": 117992,
+        "word": "鹿晗说马上要开四巡了",
+        "onboard_time": 1732372582,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100680,
+        "num": 114336,
+        "word": "北京的雪在路上了",
+        "onboard_time": 1732418538,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114094,
+        "num": 114094,
+        "word": "掘金vs湖人",
+        "onboard_time": 1732419497,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113141,
+        "num": 113141,
+        "word": "派出所民警殴打小学生已成立调查组",
+        "onboard_time": 1732419318,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113099,
+        "num": 113099,
+        "word": "羊毛月删除争议视频",
+        "onboard_time": 1732417159,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105501,
+        "num": 105501,
+        "word": "男子出租屋内种大麻结婚当天被抓",
+        "onboard_time": 1732412177,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114746,
+        "num": 105381,
+        "word": "全红婵被草莓熊硬控8秒",
+        "onboard_time": 1732409418,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "王楚钦说张本状态在顶点",
+        "onboard_time": 1732414578,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101125,
+        "num": 101125,
+        "word": "这个取暖神器你真的会用吗",
+        "onboard_time": 1732419618,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99727,
+        "num": 99727,
+        "word": "如何看前体操冠军成擦边主播",
+        "onboard_time": 1732416979,
+        "rank": 48,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 98213,
+        "num": 98213,
+        "word": "内蒙古黑龙江将有大暴雪",
+        "onboard_time": 1732418479,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越山海的友谊团结合作开拓之旅#"
+    }
+  }
+}
