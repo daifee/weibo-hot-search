@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732490593867,
+  "endTime": 1732491420029,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551576,
+      "num": 898252,
+      "word": "央视曝光劣质羽绒制品以丝充绒",
+      "onboard_time": 1732483510,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548700,
       "num": 548700,
       "word": "倒在铁轨上的25岁机械师",
@@ -649,14 +657,6 @@
       "onboard_time": 1732451060,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 488705,
-      "num": 786595,
-      "word": "央视曝光劣质羽绒制品以丝充绒",
-      "onboard_time": 1732483510,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 486825,
@@ -955,6 +955,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 345882,
+      "num": 345882,
+      "word": "北方这些地方有暴雪",
+      "onboard_time": 1732485911,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339986,
       "num": 339986,
       "word": "时代少年团演唱会节目单",
@@ -1251,14 +1259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 270821,
-      "num": 270821,
-      "word": "北方这些地方有暴雪",
-      "onboard_time": 1732485911,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269286,
       "num": 269286,
       "word": "警方通报景德镇发现一具中年男尸",
@@ -1345,6 +1345,14 @@
       "onboard_time": 1732450159,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254658,
+      "num": 202301,
+      "word": "丁禹兮微博访问量内娱第一",
+      "onboard_time": 1732490056,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 253912,
@@ -1611,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205236,
+      "num": 205236,
+      "word": "科员举报信访局长被判敲诈入狱4年",
+      "onboard_time": 1732488313,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203511,
       "num": 203511,
       "word": "gapday音乐节",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1732449739,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202217,
-      "num": 202217,
-      "word": "丁禹兮微博访问量内娱第一",
-      "onboard_time": 1732490056,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 201742,
@@ -2251,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160209,
+      "num": 160209,
+      "word": "豫P7A525被网友骑电动车帮找到",
+      "onboard_time": 1732470493,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 158427,
       "num": 158427,
       "word": "这才是王楚钦的正手",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1732374860,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146933,
+      "num": 146933,
+      "word": "地沟油变身成飞机飞行的燃料",
+      "onboard_time": 1732481950,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 146870,
@@ -2803,14 +2827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119582,
-      "num": 119582,
-      "word": "科员举报信访局长被判敲诈入狱4年",
-      "onboard_time": 1732488313,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119389,
       "num": 119389,
       "word": "降温预报图逐渐冻到发紫",
@@ -3163,14 +3179,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 100745,
-      "num": 100745,
-      "word": "地沟油变身成飞机飞行的燃料",
-      "onboard_time": 1732481950,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 99982,
       "num": 99982,
       "word": "白夜破晓 逻辑性",
@@ -3273,14 +3281,6 @@
       "onboard_time": 1732457301,
       "rank": 18,
       "category": "艺人,演出"
-    },
-    {
-      "raw_hot": 94850,
-      "num": 94850,
-      "word": "豫P7A525被网友骑电动车帮找到",
-      "onboard_time": 1732470493,
-      "rank": 28,
-      "category": "正能量"
     },
     {
       "raw_hot": 93721,
@@ -3395,6 +3395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82421,
+      "num": 82421,
+      "word": "北京大风雨雪降温强势来袭",
+      "onboard_time": 1732487112,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81977,
       "num": 81977,
       "word": "宋亚轩抽冷子冒犯停不下来",
@@ -3435,14 +3443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77877,
-      "num": 77877,
-      "word": "北京大风雨雪降温强势来袭",
-      "onboard_time": 1732487112,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77697,
       "num": 208079,
       "word": "丁禹兮臭屁大男孩",
@@ -3457,6 +3457,22 @@
       "onboard_time": 1732436599,
       "rank": 13,
       "category": "数码,正能量"
+    },
+    {
+      "raw_hot": 75779,
+      "num": 95090,
+      "word": "刀郎经纪公司已报案",
+      "onboard_time": 1732473911,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75389,
+      "num": 75389,
+      "word": "肖战射雕英雄传侠之大者展架海报",
+      "onboard_time": 1732481651,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 74714,
@@ -3483,14 +3499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73287,
-      "num": 95090,
-      "word": "刀郎经纪公司已报案",
-      "onboard_time": 1732473911,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73007,
       "num": 79170,
       "word": "现在拨打的电话",
@@ -3499,12 +3507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72036,
-      "num": 72036,
-      "word": "肖战射雕英雄传侠之大者展架海报",
-      "onboard_time": 1732481651,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 72262,
+      "num": 78078,
+      "word": "黄奕 只要不是外公姐就行",
+      "onboard_time": 1732487653,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70939,
@@ -3579,6 +3587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66026,
+      "num": 66026,
+      "word": "广州长达240天的夏天终于结束",
+      "onboard_time": 1732472232,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64968,
       "num": 219782,
       "word": "河南演员王一博上榜2024亚太U30杰出青年领袖",
@@ -3595,20 +3611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63709,
-      "num": 63709,
-      "word": "黄奕 只要不是外公姐就行",
-      "onboard_time": 1732487653,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 63629,
       "num": 84196,
       "word": "抗癌网红湘妹子去世儿子发声",
       "onboard_time": 1732380857,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 63508,
+      "num": 63508,
+      "word": "国考",
+      "onboard_time": 1732490957,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 63024,
@@ -3683,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57297,
+      "num": 63507,
+      "word": "遇见麦琳前vs遇见麦琳后",
+      "onboard_time": 1732471934,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56271,
       "num": 974907,
       "word": "海南舰首次对公众开放",
@@ -3713,14 +3737,6 @@
       "onboard_time": 1732437080,
       "rank": 18,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 53191,
-      "num": 60748,
-      "word": "广州长达240天的夏天终于结束",
-      "onboard_time": 1732472232,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52890,
@@ -3795,12 +3811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47742,
-      "num": 47742,
-      "word": "遇见麦琳前vs遇见麦琳后",
-      "onboard_time": 1732471934,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 48611,
+      "num": 63504,
+      "word": "车厘子价格可能还要降",
+      "onboard_time": 1732478711,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 47096,
@@ -3835,6 +3851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46474,
+      "num": 63503,
+      "word": "祝绪丹惊艳亮相国风盛典",
+      "onboard_time": 1732481051,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 46469,
       "num": 392435,
       "word": "加拿大反北约抗议者与警方激烈冲突",
@@ -3843,28 +3867,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46016,
-      "num": 46016,
-      "word": "车厘子价格可能还要降",
-      "onboard_time": 1732478711,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 45292,
       "num": 310298,
       "word": "格斗女中医石铭扫踢震惊张伟丽",
       "onboard_time": 1732442538,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44655,
-      "num": 44655,
-      "word": "祝绪丹惊艳亮相国风盛典",
-      "onboard_time": 1732481051,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 44580,
@@ -3889,6 +3897,14 @@
       "onboard_time": 1732396031,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43705,
+      "num": 130171,
+      "word": "全面公示热搜榜单算法原理",
+      "onboard_time": 1732488734,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 43547,
@@ -3924,7 +3940,7 @@
     },
     {
       "raw_hot": 43033,
-      "num": 44652,
+      "num": 63496,
       "word": "九江羽绒园区童装厂售假羽绒服",
       "onboard_time": 1732475831,
       "rank": 38,
@@ -3945,6 +3961,14 @@
       "onboard_time": 1732393751,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42477,
+      "num": 63498,
+      "word": "武汉一路面突发塌陷两车掉入",
+      "onboard_time": 1732482431,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42343,
@@ -3987,20 +4011,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 38874,
-      "num": 44642,
-      "word": "武汉一路面突发塌陷两车掉入",
-      "onboard_time": 1732482431,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38666,
       "num": 38666,
       "word": "好东西票房",
       "onboard_time": 1732383913,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38228,
+      "num": 63496,
+      "word": "国考准考证",
+      "onboard_time": 1732491255,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 37810,
@@ -4051,6 +4075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36036,
+      "num": 134904,
+      "word": "祝绪丹说和杨仕泽是老夫老妻状态",
+      "onboard_time": 1732490656,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35970,
       "num": 35970,
       "word": "中国目的地搜索热度暴涨",
@@ -4065,6 +4097,14 @@
       "onboard_time": 1732388172,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35563,
+      "num": 76507,
+      "word": "王曼昱说这场比赛赢得很不容易",
+      "onboard_time": 1732489994,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 34835,
@@ -4131,6 +4171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31992,
+      "num": 128655,
+      "word": "郑雨盛文佳庇年龄差16岁",
+      "onboard_time": 1732490116,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31584,
       "num": 338090,
       "word": "交警大队院前黄牛扎推买卖分赶不走",
@@ -4193,14 +4241,6 @@
       "onboard_time": 1732396452,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27459,
-      "num": 130171,
-      "word": "全面公示热搜榜单算法原理",
-      "onboard_time": 1732488734,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 27306,
@@ -4315,6 +4355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23675,
+      "num": 74280,
+      "word": "东北老人爱上去南方旅居过冬",
+      "onboard_time": 1732490836,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23562,
       "num": 215525,
       "word": "2024年国际乒联世青赛",
@@ -4393,6 +4441,14 @@
       "onboard_time": 1732469834,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19547,
+      "num": 129481,
+      "word": "当长城遇见黄河惊艳了",
+      "onboard_time": 1732490775,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 18660,
@@ -4491,14 +4547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13036,
-      "num": 76507,
-      "word": "王曼昱说这场比赛赢得很不容易",
-      "onboard_time": 1732489994,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 12299,
       "num": 1041078,
       "word": "寒潮频繁出现是冷冬要来了吗",
@@ -4537,14 +4585,6 @@
       "onboard_time": 1732378397,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 11654,
-      "num": 93059,
-      "word": "郑雨盛文佳庇年龄差16岁",
-      "onboard_time": 1732490116,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 11563,
