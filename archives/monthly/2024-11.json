@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732443751906,
+  "endTime": 1732444869931,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5195,6 +5195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004448,
+      "num": 1160711,
+      "word": "对麦琳的围剿像无意识的集体霸凌",
+      "onboard_time": 1732441100,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1003762,
       "num": 444768,
       "word": "张继科球馆开业",
@@ -7523,6 +7531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 795537,
+      "num": 795537,
+      "word": "王楚钦锁定年终世界第1",
+      "onboard_time": 1732439901,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 795461,
       "num": 795461,
       "word": "我喜欢子期我愿意嫁给子期",
@@ -8963,14 +8979,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 714923,
-      "num": 714923,
-      "word": "王楚钦锁定年终世界第1",
-      "onboard_time": 1732439901,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 711022,
       "num": 415410,
       "word": "35岁对未婚未育女生意味着什么",
@@ -9864,14 +9872,6 @@
       "word": "李行亮开车哭",
       "onboard_time": 1732167619,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 664727,
-      "num": 664727,
-      "word": "对麦琳的围剿像无意识的集体霸凌",
-      "onboard_time": 1732441100,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -10899,6 +10899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626180,
+      "num": 326882,
+      "word": "张本智和被打服了",
+      "onboard_time": 1732441460,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626071,
       "num": 444945,
       "word": "向佐 不漂亮的时候也不想人见到我",
@@ -11153,6 +11161,14 @@
       "onboard_time": 1730746572,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 615837,
+      "num": 302005,
+      "word": "王楚钦王曼昱夺冠合影",
+      "onboard_time": 1732443139,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 615286,
@@ -21091,14 +21107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 326882,
-      "num": 326882,
-      "word": "张本智和被打服了",
-      "onboard_time": 1732441460,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 326824,
       "num": 416988,
       "word": "虞书欣泰国生图",
@@ -21569,6 +21577,14 @@
       "onboard_time": 1731131599,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 318824,
+      "num": 486111,
+      "word": "经济学家预计2026年房地产拐点出现",
+      "onboard_time": 1732440919,
+      "rank": 48,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 318772,
@@ -23249,14 +23265,6 @@
       "onboard_time": 1730564301,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 289453,
-      "num": 486111,
-      "word": "经济学家预计2026年房地产拐点出现",
-      "onboard_time": 1732440919,
-      "rank": 48,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 289328,
@@ -26187,12 +26195,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253919,
+      "num": 303532,
+      "word": "殴打小学生派出所人员被撤职",
+      "onboard_time": 1732439658,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 253917,
       "num": 253917,
       "word": "Minnie吴宣仪Freen合照",
       "onboard_time": 1731071061,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253912,
+      "num": 253912,
+      "word": "秦霄贤跳APT",
+      "onboard_time": 1732442599,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 253634,
@@ -27147,14 +27171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 242829,
-      "num": 242829,
-      "word": "秦霄贤跳APT",
-      "onboard_time": 1732442599,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 242520,
       "num": 312793,
       "word": "永夜星河预告",
@@ -27723,6 +27739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236577,
+      "num": 259288,
+      "word": "王者荣耀直播",
+      "onboard_time": 1732443679,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236549,
       "num": 263772,
       "word": "外卖员送餐汤汁洒出街头将汤倒回",
@@ -27825,14 +27849,6 @@
       "onboard_time": 1730967020,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 235730,
-      "num": 192865,
-      "word": "王楚钦王曼昱夺冠合影",
-      "onboard_time": 1732443139,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 235701,
@@ -29667,6 +29683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219783,
+      "num": 219783,
+      "word": "豫P7A525回家了",
+      "onboard_time": 1732442599,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 219648,
       "num": 219648,
       "word": "我家那小子",
@@ -31017,14 +31041,6 @@
       "onboard_time": 1731292218,
       "rank": 38,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 210523,
-      "num": 186276,
-      "word": "豫P7A525回家了",
-      "onboard_time": 1732442599,
-      "rank": 32,
-      "category": "正能量"
     },
     {
       "raw_hot": 210484,
@@ -34027,6 +34043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197713,
+      "num": 596221,
+      "word": "王曼昱4比3胜陈幸同",
+      "onboard_time": 1732440021,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197657,
       "num": 197657,
       "word": "SEVENTEEN获MAMA最佳男团",
@@ -35561,14 +35585,6 @@
       "onboard_time": 1732339517,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192127,
-      "num": 192127,
-      "word": "殴打小学生派出所人员被撤职",
-      "onboard_time": 1732439658,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 192115,
@@ -38339,6 +38355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 180799,
+      "num": 180799,
+      "word": "宋佳太迷人了",
+      "onboard_time": 1732444398,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180785,
       "num": 180785,
       "word": "为什么我烤的蛋挞变成了鸡蛋",
@@ -39193,6 +39217,14 @@
       "onboard_time": 1730543658,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177031,
+      "num": 384998,
+      "word": "张本智和最后一个发球没上台",
+      "onboard_time": 1732440321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 177014,
@@ -40907,6 +40939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170225,
+      "num": 170225,
+      "word": "宋亚轩胡先煦中戏师兄弟",
+      "onboard_time": 1732443498,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170221,
       "num": 190723,
       "word": "想接四川文旅的事业运",
@@ -41841,6 +41881,14 @@
       "onboard_time": 1732010239,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166488,
+      "num": 166488,
+      "word": "王曼昱说第一次总决赛夺冠非常激动",
+      "onboard_time": 1732441998,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 166469,
@@ -44859,6 +44907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155673,
+      "num": 425556,
+      "word": "留学生回国找工作越来越难了吗",
+      "onboard_time": 1732443438,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155610,
       "num": 155610,
       "word": "拍一张秋天的落叶",
@@ -45073,14 +45129,6 @@
       "onboard_time": 1730870007,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154748,
-      "num": 384998,
-      "word": "张本智和最后一个发球没上台",
-      "onboard_time": 1732440321,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 154692,
@@ -46923,6 +46971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148763,
+      "num": 148763,
+      "word": "留几手觉得葛夕在无病呻吟",
+      "onboard_time": 1732443798,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148715,
       "num": 148715,
       "word": "台前舰长在珠海航展哽咽发声",
@@ -48545,14 +48601,6 @@
       "onboard_time": 1731472762,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142359,
-      "num": 142359,
-      "word": "宋亚轩胡先煦中戏师兄弟",
-      "onboard_time": 1732443498,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142347,
@@ -51163,14 +51211,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 132054,
-      "num": 425556,
-      "word": "留学生回国找工作越来越难了吗",
-      "onboard_time": 1732443438,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132030,
       "num": 391023,
       "word": "老人药店晕倒无人扶引发质疑",
@@ -53257,14 +53297,6 @@
       "onboard_time": 1731069440,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124171,
-      "num": 198724,
-      "word": "王者荣耀直播",
-      "onboard_time": 1732443679,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 124158,
@@ -58643,6 +58675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98891,
+      "num": 303278,
+      "word": "喻言空降超话",
+      "onboard_time": 1732443679,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98831,
       "num": 98831,
       "word": "大梦归离哭死我了",
@@ -59449,14 +59489,6 @@
       "onboard_time": 1731236419,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 94592,
-      "num": 596221,
-      "word": "王曼昱4比3胜陈幸同",
-      "onboard_time": 1732440021,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 94517,
@@ -60609,6 +60641,14 @@
       "onboard_time": 1731682279,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85973,
+      "num": 307810,
+      "word": "家长买包上大学套餐10万元打水漂",
+      "onboard_time": 1732443139,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85960,
@@ -65571,6 +65611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58066,
+      "num": 220218,
+      "word": "张本智和说自己没有东西赢王楚钦",
+      "onboard_time": 1732443979,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58003,
       "num": 58003,
       "word": "主办方回应两马拉松选手打包能量胶",
@@ -66851,6 +66899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52615,
+      "num": 302893,
+      "word": "进军UFC女选手主业是中医",
+      "onboard_time": 1732444157,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52539,
       "num": 157802,
       "word": "年轻人买黄金也开始看颜值了",
@@ -67545,6 +67601,14 @@
       "onboard_time": 1732003520,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50086,
+      "num": 1262907,
+      "word": "中国山水藏着一整个乐团吧",
+      "onboard_time": 1732440859,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50085,
@@ -68539,14 +68603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45515,
-      "num": 307810,
-      "word": "家长买包上大学套餐10万元打水漂",
-      "onboard_time": 1732443139,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45489,
       "num": 46560,
       "word": "官方称辽宁大巴起火已致30余人受伤",
@@ -69387,14 +69443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42597,
-      "num": 1262907,
-      "word": "中国山水藏着一整个乐团吧",
-      "onboard_time": 1732440859,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42562,
       "num": 398041,
       "word": "男子手机号被陌生人绑亲情卡3年",
@@ -69761,6 +69809,14 @@
       "onboard_time": 1731823458,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41304,
+      "num": 221247,
+      "word": "王楚钦说冠军属于国乒这个集体",
+      "onboard_time": 1732443979,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 41267,
@@ -71201,14 +71257,6 @@
       "onboard_time": 1731138798,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37190,
-      "num": 200056,
-      "word": "喻言空降超话",
-      "onboard_time": 1732443679,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 37173,
@@ -74203,6 +74251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29199,
+      "num": 215097,
+      "word": "魏你而甜",
+      "onboard_time": 1732439180,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29181,
       "num": 173439,
       "word": "雷军体验小鹏P7+频频点赞",
@@ -75713,14 +75769,6 @@
       "onboard_time": 1731756978,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 25277,
-      "num": 215097,
-      "word": "魏你而甜",
-      "onboard_time": 1732439180,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 25254,
