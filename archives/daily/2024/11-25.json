@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732479795988,
+  "endTime": 1732480623949,
   "band_list": [
     {
       "raw_hot": 755908,
@@ -603,12 +603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17808,
+      "num": 33718,
+      "word": "车厘子价格可能还要降",
+      "onboard_time": 1732478711,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 17732,
       "num": 19661,
       "word": "王曼昱4比3胜陈幸同",
       "onboard_time": 1732440021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15271,
+      "num": 16235,
+      "word": "中国目的地搜索热度暴涨",
+      "onboard_time": 1732479491,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14228,
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13945,
+      "num": 16234,
+      "word": "每天认识一件文物",
+      "onboard_time": 1732470073,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 13490,
       "num": 49149,
       "word": "中国赛圣坛组合夺冠",
@@ -627,28 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13263,
-      "num": 16235,
-      "word": "中国目的地搜索热度暴涨",
-      "onboard_time": 1732479491,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13071,
-      "num": 16234,
-      "word": "每天认识一件文物",
-      "onboard_time": 1732470073,
+      "raw_hot": 12669,
+      "num": 15847,
+      "word": "看吧张碧晨下班也得骑车",
+      "onboard_time": 1732480270,
       "rank": 49,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 12269,
-      "num": 22547,
-      "word": "车厘子价格可能还要降",
-      "onboard_time": 1732478711,
-      "rank": 19,
-      "category": "民生新闻,财经"
+      "category": "演出"
     },
     {
       "raw_hot": 12153,
@@ -697,6 +705,14 @@
       "onboard_time": 1732476613,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 6278,
+      "num": 22716,
+      "word": "张极努力完成了一件小事",
+      "onboard_time": 1732480330,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

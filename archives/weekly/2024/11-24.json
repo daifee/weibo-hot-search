@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732479795988,
+  "endTime": 1732480623949,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -4291,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17808,
+      "num": 33718,
+      "word": "车厘子价格可能还要降",
+      "onboard_time": 1732478711,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 17201,
       "num": 22177,
       "word": "刘耀文Sugar舞台好甜",
@@ -4305,6 +4313,14 @@
       "onboard_time": 1732401432,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15271,
+      "num": 16235,
+      "word": "中国目的地搜索热度暴涨",
+      "onboard_time": 1732479491,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14636,
@@ -4331,6 +4347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13945,
+      "num": 16234,
+      "word": "每天认识一件文物",
+      "onboard_time": 1732470073,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 13631,
       "num": 35503,
       "word": "潮州回应网传商铺因逃避检查关门",
@@ -4355,20 +4379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13263,
-      "num": 16235,
-      "word": "中国目的地搜索热度暴涨",
-      "onboard_time": 1732479491,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13071,
-      "num": 16234,
-      "word": "每天认识一件文物",
-      "onboard_time": 1732470073,
+      "raw_hot": 12669,
+      "num": 15847,
+      "word": "看吧张碧晨下班也得骑车",
+      "onboard_time": 1732480270,
       "rank": 49,
-      "category": "科学科普"
+      "category": "演出"
     },
     {
       "raw_hot": 12299,
@@ -4377,14 +4393,6 @@
       "onboard_time": 1732452741,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12269,
-      "num": 22547,
-      "word": "车厘子价格可能还要降",
-      "onboard_time": 1732478711,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 12153,
@@ -4489,6 +4497,14 @@
       "onboard_time": 1732446021,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6278,
+      "num": 22716,
+      "word": "张极努力完成了一件小事",
+      "onboard_time": 1732480330,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
