@@ -1,0 +1,410 @@
+{
+  "runTime": 1732459107369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907198,
+        "num": 1145151,
+        "word": "网传Angelababy将参加最新一季浪姐",
+        "onboard_time": 1732457181,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 862994,
+        "num": 862994,
+        "word": "7万件羽绒服含绒量0企业主管被抓",
+        "onboard_time": 1732449439,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74714,
+        "num": 686348,
+        "word": "盘点我国医疗服务价格项目新变化",
+        "onboard_time": 1732453101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671753,
+        "num": 671753,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1636120,
+        "num": 648688,
+        "word": "鹿晗狼奔唇钉",
+        "onboard_time": 1732451120,
+        "rank": 4,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 614944,
+        "num": 614944,
+        "word": "王楚钦感谢马龙给自己的一句话",
+        "onboard_time": 1732451721,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 545589,
+        "num": 545589,
+        "word": "谁给贺峻霖打的腮红",
+        "onboard_time": 1732453160,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 532866,
+        "num": 532866,
+        "word": "李子柒穿绿色唐朝襦裙太绝了",
+        "onboard_time": 1732456099,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 473890,
+        "num": 473890,
+        "word": "女子称花十二万整形后被说老了十岁",
+        "onboard_time": 1732452559,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412220,
+        "num": 412220,
+        "word": "iG辅助",
+        "onboard_time": 1732456340,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 631793,
+        "num": 411384,
+        "word": "疑似李行亮取关麦琳",
+        "onboard_time": 1732451000,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 504678,
+        "num": 411119,
+        "word": "休息室隐藏版鹿晗",
+        "onboard_time": 1732458802,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 409211,
+        "num": 409211,
+        "word": "虞书欣慕声 李泽锋陌生",
+        "onboard_time": 1732451602,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31584,
+        "num": 338090,
+        "word": "交警大队院前黄牛扎推买卖分赶不走",
+        "onboard_time": 1732458621,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335446,
+        "num": 335446,
+        "word": "王曼昱总决赛夺冠",
+        "onboard_time": 1732439960,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1137909,
+        "num": 334787,
+        "word": "郑雨盛承认有儿子",
+        "onboard_time": 1732453341,
+        "rank": 15,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 333756,
+        "num": 333756,
+        "word": "中国最后一位女先生走了",
+        "onboard_time": 1732457061,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304993,
+        "num": 304993,
+        "word": "会长是女仆大人 婚后番外",
+        "onboard_time": 1732457421,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 283390,
+        "num": 304190,
+        "word": "东方小孙回归东方甄选",
+        "onboard_time": 1732455441,
+        "rank": 18,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 222450,
+        "num": 303499,
+        "word": "徐梦洁孙美林情敌见面分外眼熟",
+        "onboard_time": 1732458142,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669767,
+        "num": 301545,
+        "word": "男子裸露下体尾随女孩被一棍喝退",
+        "onboard_time": 1732439840,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311162,
+        "num": 300865,
+        "word": "好东西",
+        "onboard_time": 1732439119,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299503,
+        "num": 299503,
+        "word": "美国男子为跟情人私奔假死抛妻弃子",
+        "onboard_time": 1732453522,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294327,
+        "num": 294327,
+        "word": "高泽宇丸子订婚",
+        "onboard_time": 1732453101,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128284,
+        "num": 286066,
+        "word": "王楚钦王曼昱冠军城市宣传照",
+        "onboard_time": 1732458261,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282728,
+        "num": 282728,
+        "word": "南开大学发布叶嘉莹讣告",
+        "onboard_time": 1732451541,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 280808,
+        "num": 280808,
+        "word": "赵丽颖金莲花双提名",
+        "onboard_time": 1732458621,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270151,
+        "num": 270151,
+        "word": "卢昱晓王星越我爱你",
+        "onboard_time": 1732454121,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236389,
+        "num": 236389,
+        "word": "祝绪丹 小神仙",
+        "onboard_time": 1732450579,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232287,
+        "num": 232287,
+        "word": "34岁女子骨癌化疗17次又确诊白血病",
+        "onboard_time": 1732458743,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231578,
+        "num": 231578,
+        "word": "警方通报景德镇发现一具中年男尸",
+        "onboard_time": 1732452021,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 228705,
+        "num": 228705,
+        "word": "马嘉祺戴头纱",
+        "onboard_time": 1732458563,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224888,
+        "num": 224888,
+        "word": "王楚钦锁定年终世界第1",
+        "onboard_time": 1732439901,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207946,
+        "num": 207946,
+        "word": "大学生拿学费旅游白嫖63家酒店",
+        "onboard_time": 1732455800,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205810,
+        "num": 205810,
+        "word": "时代少年团7折叠",
+        "onboard_time": 1732457001,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202777,
+        "num": 202777,
+        "word": "王曼昱4比3胜陈幸同",
+        "onboard_time": 1732440021,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209471,
+        "num": 202524,
+        "word": "马嘉祺宋亚轩走马四手联弹",
+        "onboard_time": 1732449138,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201613,
+        "num": 201613,
+        "word": "王楚钦王曼昱拍城市宣传照",
+        "onboard_time": 1732458743,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675840,
+        "num": 200868,
+        "word": "教育局回应被打学生存在霸凌行为",
+        "onboard_time": 1732456221,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 199164,
+        "num": 199164,
+        "word": "金莲花",
+        "onboard_time": 1732457961,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199106,
+        "num": 199106,
+        "word": "好东西 快车太臭",
+        "onboard_time": 1732456581,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198571,
+        "num": 198571,
+        "word": "丁程鑫 长安教练",
+        "onboard_time": 1732451060,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197262,
+        "num": 197262,
+        "word": "王楚钦夺冠后收到亚冬会吉祥物",
+        "onboard_time": 1732455081,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186965,
+        "num": 186965,
+        "word": "贺峻霖雨中舞台",
+        "onboard_time": 1732458261,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176989,
+        "num": 176989,
+        "word": "席慕蓉说叶嘉莹就是诗魂",
+        "onboard_time": 1732450159,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176572,
+        "num": 176572,
+        "word": "李行亮梦女",
+        "onboard_time": 1732437979,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173126,
+        "num": 173126,
+        "word": "王伟烈士的孩子成了海军军官",
+        "onboard_time": 1732458323,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88836,
+        "num": 170884,
+        "word": "王楚钦高峰不骄低谷不馁",
+        "onboard_time": 1732458501,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170826,
+        "num": 170826,
+        "word": "好东西彩蛋",
+        "onboard_time": 1732438820,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151411,
+        "num": 151411,
+        "word": "赵露思王鹤棣 何不同舟渡",
+        "onboard_time": 1732436720,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}

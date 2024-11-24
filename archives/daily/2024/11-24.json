@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732457997420,
+  "endTime": 1732459107369,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -219,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 907198,
+      "num": 1145151,
+      "word": "网传Angelababy将参加最新一季浪姐",
+      "onboard_time": 1732457181,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 874563,
       "num": 874563,
       "word": "王楚钦感谢马龙给自己的一句话",
@@ -411,6 +419,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 675840,
+      "num": 321240,
+      "word": "教育局回应被打学生存在霸凌行为",
+      "onboard_time": 1732456221,
+      "rank": 16,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 657944,
       "num": 657944,
       "word": "盘点勇闯内娱的真千金",
@@ -595,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504678,
+      "num": 411119,
+      "word": "休息室隐藏版鹿晗",
+      "onboard_time": 1732458802,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 501484,
       "num": 360362,
       "word": "鹿晗 野玫瑰",
@@ -617,14 +641,6 @@
       "onboard_time": 1732440919,
       "rank": 48,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 481320,
-      "num": 481320,
-      "word": "网传Angelababy将参加最新一季浪姐",
-      "onboard_time": 1732457181,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 479682,
@@ -689,6 +705,14 @@
       "onboard_time": 1732421479,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 412220,
+      "num": 412220,
+      "word": "iG辅助",
+      "onboard_time": 1732456340,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 411113,
@@ -891,20 +915,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 333756,
+      "num": 333756,
+      "word": "中国最后一位女先生走了",
+      "onboard_time": 1732457061,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330734,
       "num": 330734,
       "word": "王楚钦11次对阵张本智和取得8胜",
       "onboard_time": 1732426637,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327985,
-      "num": 327985,
-      "word": "iG辅助",
-      "onboard_time": 1732456340,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 325046,
@@ -987,6 +1011,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 304993,
+      "num": 304993,
+      "word": "会长是女仆大人 婚后番外",
+      "onboard_time": 1732457421,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 303239,
       "num": 303239,
       "word": "严禁用算法实施大数据杀熟",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1732436180,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299503,
+      "num": 299503,
+      "word": "美国男子为跟情人私奔假死抛妻弃子",
+      "onboard_time": 1732453522,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 297106,
@@ -1065,6 +1105,22 @@
       "onboard_time": 1732425379,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283390,
+      "num": 304190,
+      "word": "东方小孙回归东方甄选",
+      "onboard_time": 1732455441,
+      "rank": 33,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 280808,
+      "num": 280808,
+      "word": "赵丽颖金莲花双提名",
+      "onboard_time": 1732458621,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 280410,
@@ -1123,14 +1179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265360,
-      "num": 321240,
-      "word": "教育局回应被打学生存在霸凌行为",
-      "onboard_time": 1732456221,
-      "rank": 16,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 263474,
       "num": 263474,
       "word": "祺轩",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1732450159,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256813,
-      "num": 256813,
-      "word": "中国最后一位女先生走了",
-      "onboard_time": 1732457061,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253912,
@@ -1259,14 +1299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 235873,
-      "num": 235873,
-      "word": "美国男子为跟情人私奔假死抛妻弃子",
-      "onboard_time": 1732453522,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 234250,
       "num": 318667,
       "word": "胡先煦送宋亚轩花篮",
@@ -1291,6 +1323,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 232287,
+      "num": 232287,
+      "word": "34岁女子骨癌化疗17次又确诊白血病",
+      "onboard_time": 1732458743,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230750,
       "num": 230750,
       "word": "鹿晗说马上要开四巡了",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1732430598,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228705,
+      "num": 228705,
+      "word": "马嘉祺戴头纱",
+      "onboard_time": 1732458563,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 228661,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1732451421,
       "rank": 28,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 222450,
+      "num": 303499,
+      "word": "徐梦洁孙美林情敌见面分外眼熟",
+      "onboard_time": 1732458142,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 222378,
@@ -1411,12 +1467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209743,
-      "num": 209743,
-      "word": "东方小孙回归东方甄选",
-      "onboard_time": 1732455441,
-      "rank": 33,
-      "category": "互联网,网红"
+      "raw_hot": 205810,
+      "num": 205810,
+      "word": "时代少年团7折叠",
+      "onboard_time": 1732457001,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 205608,
@@ -1425,14 +1481,6 @@
       "onboard_time": 1732437619,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205213,
-      "num": 205213,
-      "word": "会长是女仆大人 婚后番外",
-      "onboard_time": 1732457421,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 203511,
@@ -1459,6 +1507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201613,
+      "num": 201613,
+      "word": "王楚钦王曼昱拍城市宣传照",
+      "onboard_time": 1732458743,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199585,
       "num": 199585,
       "word": "闪耀的恒星首发预告",
@@ -1473,6 +1529,22 @@
       "onboard_time": 1732453221,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199164,
+      "num": 199164,
+      "word": "金莲花",
+      "onboard_time": 1732457961,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199106,
+      "num": 199106,
+      "word": "好东西 快车太臭",
+      "onboard_time": 1732456581,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 197879,
@@ -1507,12 +1579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196115,
-      "num": 196115,
-      "word": "时代少年团7折叠",
-      "onboard_time": 1732457001,
+      "raw_hot": 197262,
+      "num": 260490,
+      "word": "王楚钦夺冠后收到亚冬会吉祥物",
+      "onboard_time": 1732455081,
       "rank": 37,
-      "category": "演出"
+      "category": "体育"
     },
     {
       "raw_hot": 195464,
@@ -1531,14 +1603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193774,
-      "num": 260490,
-      "word": "王楚钦夺冠后收到亚冬会吉祥物",
-      "onboard_time": 1732455081,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193210,
       "num": 278323,
       "word": "向佐药水哥同框直播",
@@ -1553,14 +1617,6 @@
       "onboard_time": 1732457241,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192232,
-      "num": 192232,
-      "word": "好东西 快车太臭",
-      "onboard_time": 1732456581,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 191783,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1732422497,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186965,
+      "num": 186965,
+      "word": "贺峻霖雨中舞台",
+      "onboard_time": 1732458261,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 186598,
@@ -1777,6 +1841,14 @@
       "onboard_time": 1732429878,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173126,
+      "num": 173126,
+      "word": "王伟烈士的孩子成了海军军官",
+      "onboard_time": 1732458323,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172984,
@@ -2075,14 +2147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150682,
-      "num": 150682,
-      "word": "金莲花",
-      "onboard_time": 1732457961,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149973,
       "num": 149973,
       "word": "WTT",
@@ -2281,6 +2345,14 @@
       "onboard_time": 1732427598,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128284,
+      "num": 286066,
+      "word": "王楚钦王曼昱冠军城市宣传照",
+      "onboard_time": 1732458261,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 127990,
@@ -2963,6 +3035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88836,
+      "num": 170884,
+      "word": "王楚钦高峰不骄低谷不馁",
+      "onboard_time": 1732458501,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "闻一多诞辰125周年",
@@ -3075,6 +3155,14 @@
       "category": "数码,正能量"
     },
     {
+      "raw_hot": 74714,
+      "num": 1144164,
+      "word": "盘点我国医疗服务价格项目新变化",
+      "onboard_time": 1732453101,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74705,
       "num": 1262907,
       "word": "中国山水藏着一整个乐团吧",
@@ -3145,14 +3233,6 @@
       "onboard_time": 1732382295,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66430,
-      "num": 1144164,
-      "word": "盘点我国医疗服务价格项目新变化",
-      "onboard_time": 1732453101,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66178,
@@ -3561,6 +3641,14 @@
       "onboard_time": 1732416799,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31584,
+      "num": 338090,
+      "word": "交警大队院前黄牛扎推买卖分赶不走",
+      "onboard_time": 1732458621,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30686,
