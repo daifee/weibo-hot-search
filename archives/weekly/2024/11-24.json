@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732480623949,
+  "endTime": 1732483221927,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -4099,6 +4099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26378,
+      "num": 26378,
+      "word": "中国目的地搜索热度暴涨",
+      "onboard_time": 1732479491,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26019,
       "num": 27631,
       "word": "杨幂姐感妆容",
@@ -4195,6 +4203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22307,
+      "num": 26322,
+      "word": "地沟油变身成飞机飞行的燃料",
+      "onboard_time": 1732481950,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22270,
       "num": 23852,
       "word": "张杰成都演唱会",
@@ -4267,6 +4283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18797,
+      "num": 33718,
+      "word": "车厘子价格可能还要降",
+      "onboard_time": 1732478711,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 18660,
       "num": 376652,
       "word": "黄金联赛的实力豹款",
@@ -4291,14 +4315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17808,
-      "num": 33718,
-      "word": "车厘子价格可能还要降",
-      "onboard_time": 1732478711,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 17201,
       "num": 22177,
       "word": "刘耀文Sugar舞台好甜",
@@ -4315,12 +4331,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 15271,
-      "num": 16235,
-      "word": "中国目的地搜索热度暴涨",
-      "onboard_time": 1732479491,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 15824,
+      "num": 17775,
+      "word": "祝绪丹惊艳亮相国风盛典",
+      "onboard_time": 1732481051,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 15328,
+      "num": 17578,
+      "word": "看吧张碧晨下班也得骑车",
+      "onboard_time": 1732480270,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14915,
+      "num": 17494,
+      "word": "肖战射雕英雄传侠之大者展架海报",
+      "onboard_time": 1732481651,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 14636,
@@ -4347,7 +4379,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13945,
+      "raw_hot": 14051,
       "num": 16234,
       "word": "每天认识一件文物",
       "onboard_time": 1732470073,
@@ -4379,12 +4411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12669,
-      "num": 15847,
-      "word": "看吧张碧晨下班也得骑车",
-      "onboard_time": 1732480270,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 12799,
+      "num": 14918,
+      "word": "武汉一路面突发塌陷两车掉入",
+      "onboard_time": 1732482431,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12299,
@@ -4427,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10844,
+      "num": 17426,
+      "word": "叶嘉莹遗体告别仪式下周六举行",
+      "onboard_time": 1732478890,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10502,
       "num": 50239,
       "word": "资助工作动态管理不可松懈",
@@ -4441,14 +4481,6 @@
       "onboard_time": 1732475831,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 10010,
-      "num": 16248,
-      "word": "叶嘉莹遗体告别仪式下周六举行",
-      "onboard_time": 1732478890,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9958,
@@ -4505,6 +4537,14 @@
       "onboard_time": 1732480330,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5473,
+      "num": 22039,
+      "word": "杨幂光投射千丝万缕",
+      "onboard_time": 1732482730,
+      "rank": 19,
+      "category": "艺人,时尚"
     }
   ],
   "hotgov_list": [
