@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732455502719,
+  "endTime": 1732457997420,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -523,6 +523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 580902,
+      "num": 534854,
+      "word": "李子柒穿绿色唐朝襦裙太绝了",
+      "onboard_time": 1732456099,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 577347,
       "num": 577347,
       "word": "邓超 最好的小鹿",
@@ -609,6 +617,14 @@
       "onboard_time": 1732440919,
       "rank": 48,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 481320,
+      "num": 481320,
+      "word": "网传Angelababy将参加最新一季浪姐",
+      "onboard_time": 1732457181,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 479682,
@@ -883,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327985,
+      "num": 327985,
+      "word": "iG辅助",
+      "onboard_time": 1732456340,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 325046,
       "num": 325046,
       "word": "海南被实名举报县委副书记落马",
@@ -1099,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265360,
+      "num": 321240,
+      "word": "教育局回应被打学生存在霸凌行为",
+      "onboard_time": 1732456221,
+      "rank": 16,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 263474,
       "num": 263474,
       "word": "祺轩",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1732450159,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256813,
+      "num": 256813,
+      "word": "中国最后一位女先生走了",
+      "onboard_time": 1732457061,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253912,
@@ -1187,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240639,
+      "num": 240639,
+      "word": "大学生拿学费旅游白嫖63家酒店",
+      "onboard_time": 1732455800,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239214,
       "num": 239214,
       "word": "留几手觉得葛夕在无病呻吟",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1732443679,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235873,
+      "num": 235873,
+      "word": "美国男子为跟情人私奔假死抛妻弃子",
+      "onboard_time": 1732453522,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 234250,
@@ -1355,8 +1411,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209504,
-      "num": 209504,
+      "raw_hot": 209743,
+      "num": 209743,
       "word": "东方小孙回归东方甄选",
       "onboard_time": 1732455441,
       "rank": 33,
@@ -1371,12 +1427,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205188,
-      "num": 205188,
-      "word": "美国男子为跟情人私奔假死抛妻弃子",
-      "onboard_time": 1732453522,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 205213,
+      "num": 205213,
+      "word": "会长是女仆大人 婚后番外",
+      "onboard_time": 1732457421,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 203511,
@@ -1451,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196115,
+      "num": 196115,
+      "word": "时代少年团7折叠",
+      "onboard_time": 1732457001,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195464,
       "num": 195464,
       "word": "睡眠不足身体会出现什么变化",
@@ -1468,7 +1532,7 @@
     },
     {
       "raw_hot": 193774,
-      "num": 193774,
+      "num": 260490,
       "word": "王楚钦夺冠后收到亚冬会吉祥物",
       "onboard_time": 1732455081,
       "rank": 37,
@@ -1481,6 +1545,22 @@
       "onboard_time": 1732416677,
       "rank": 24,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 192688,
+      "num": 192688,
+      "word": "祝绪丹神女娘娘版寄明月",
+      "onboard_time": 1732457241,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192232,
+      "num": 192232,
+      "word": "好东西 快车太臭",
+      "onboard_time": 1732456581,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 191783,
@@ -1931,6 +2011,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156308,
+      "num": 156308,
+      "word": "张韶涵真不是蝴蝶仙子吗",
+      "onboard_time": 1732457001,
+      "rank": 46,
+      "category": "演出,时尚"
+    },
+    {
+      "raw_hot": 155206,
+      "num": 155206,
+      "word": "贺峻霖胸震",
+      "onboard_time": 1732456160,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155201,
       "num": 184262,
       "word": "好东西 声音蒙太奇",
@@ -1977,6 +2073,14 @@
       "onboard_time": 1732437799,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150682,
+      "num": 150682,
+      "word": "金莲花",
+      "onboard_time": 1732457961,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 149973,
@@ -2667,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107305,
+      "num": 247800,
+      "word": "叶嘉莹生平",
+      "onboard_time": 1732455921,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104235,
       "num": 159645,
       "word": "Doinb聊Icon队内讧",
@@ -2809,6 +2921,14 @@
       "onboard_time": 1732393211,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94858,
+      "num": 316490,
+      "word": "张远下班直播",
+      "onboard_time": 1732457301,
+      "rank": 18,
+      "category": "艺人,演出"
     },
     {
       "raw_hot": 93721,
@@ -3027,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66430,
+      "num": 1144164,
+      "word": "盘点我国医疗服务价格项目新变化",
+      "onboard_time": 1732453101,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66178,
       "num": 377812,
       "word": "业内人士称医用卫生巾是蹭流量的说法",
@@ -3041,14 +3169,6 @@
       "onboard_time": 1732391832,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65651,
-      "num": 1144164,
-      "word": "盘点我国医疗服务价格项目新变化",
-      "onboard_time": 1732453101,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64968,
@@ -3091,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61272,
+      "num": 328147,
+      "word": "叶嘉莹数年前已将全部财产捐赠南开",
+      "onboard_time": 1732456461,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61142,
       "num": 346027,
       "word": "陈幸同亚军",
@@ -3105,6 +3233,14 @@
       "onboard_time": 1732383374,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60309,
+      "num": 237821,
+      "word": "陈幸同发博说下个赛场见",
+      "onboard_time": 1732457122,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 59528,
@@ -3201,6 +3337,14 @@
       "onboard_time": 1732451421,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47096,
+      "num": 170224,
+      "word": "王楚钦备战中受到很多开导",
+      "onboard_time": 1732456641,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 46770,
@@ -3401,6 +3545,14 @@
       "onboard_time": 1732426759,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32324,
+      "num": 314959,
+      "word": "王楚钦对球迷说庆幸遇到你们",
+      "onboard_time": 1732457542,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 32003,
@@ -3735,6 +3887,9 @@
     },
     {
       "word": "#时间观里的大国外交#"
+    },
+    {
+      "word": "#习近平关于依法治军重要论述摘编#"
     }
   ]
 }
