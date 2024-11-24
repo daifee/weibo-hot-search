@@ -1,13 +1,21 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732433719387,
+  "endTime": 1732436848252,
   "band_list": [
     {
-      "raw_hot": 2708091,
-      "num": 2708091,
+      "raw_hot": 7160316,
+      "num": 7160316,
       "word": "王楚钦vs张本智和",
       "onboard_time": 1732430658,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4395104,
+      "num": 4395104,
+      "word": "王楚钦总决赛夺冠",
+      "onboard_time": 1732434201,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -49,6 +57,14 @@
       "onboard_time": 1732414697,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1248531,
+      "num": 1248531,
+      "word": "王楚钦回应光速夺冠",
+      "onboard_time": 1732435102,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1146606,
@@ -171,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 723069,
+      "num": 723069,
+      "word": "王楚钦开场连得10分",
+      "onboard_time": 1732432818,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 718901,
       "num": 397711,
       "word": "金敏绪 首尔流浪女",
@@ -193,6 +217,14 @@
       "onboard_time": 1732415959,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 657944,
+      "num": 657944,
+      "word": "盘点勇闯内娱的真千金",
+      "onboard_time": 1732435281,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 657394,
@@ -235,12 +267,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602013,
+      "num": 252692,
+      "word": "女儿1.4w买皮草买到了妈妈心巴上",
+      "onboard_time": 1732433298,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599156,
+      "num": 599156,
+      "word": "王楚钦状态",
+      "onboard_time": 1732433959,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 592045,
+      "num": 412974,
+      "word": "王楚钦4比0胜张本智和",
+      "onboard_time": 1732434142,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 586862,
       "num": 586862,
       "word": "12岁女孩被尾随热心司机拿撬棍保护",
       "onboard_time": 1732412658,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 577347,
+      "num": 577347,
+      "word": "邓超 最好的小鹿",
+      "onboard_time": 1732432458,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 554719,
@@ -265,14 +329,6 @@
       "onboard_time": 1732340718,
       "rank": 4,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 523134,
-      "num": 523134,
-      "word": "邓超 最好的小鹿",
-      "onboard_time": 1732432458,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 522071,
@@ -305,6 +361,14 @@
       "onboard_time": 1732372763,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419742,
+      "num": 419742,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1732435102,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 415896,
@@ -353,6 +417,14 @@
       "onboard_time": 1732418838,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 399375,
+      "num": 149226,
+      "word": "整栋楼都醒了就妹妹没有醒",
+      "onboard_time": 1732435223,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 399244,
@@ -433,6 +505,14 @@
       "onboard_time": 1732372101,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355361,
+      "num": 355361,
+      "word": "陈赫说鹿晗确实有点太帅了",
+      "onboard_time": 1732436240,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 347529,
@@ -523,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295597,
+      "num": 295597,
+      "word": "丁禹兮刚进组又请客了",
+      "onboard_time": 1732433778,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294483,
       "num": 294483,
       "word": "黎巴嫩首都居民睡梦中被炸醒",
       "onboard_time": 1732408336,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 290842,
+      "num": 290842,
+      "word": "严禁用算法实施大数据杀熟",
+      "onboard_time": 1732435042,
+      "rank": 18,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 290248,
@@ -603,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260656,
+      "num": 148413,
+      "word": "邓亚萍说王楚钦越想赢越要放下",
+      "onboard_time": 1732434021,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259993,
       "num": 259993,
       "word": "王楚钦张本智和争冠",
       "onboard_time": 1732359622,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251634,
+      "num": 251634,
+      "word": "TOP登陆少年组合团体logo亮相",
+      "onboard_time": 1732435340,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 242475,
@@ -635,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234099,
+      "num": 234099,
+      "word": "王楚钦总决赛三杀张本智和",
+      "onboard_time": 1732435042,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233244,
       "num": 233244,
       "word": "哈尔滨中央大街铺上地毯了",
@@ -659,6 +779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228661,
+      "num": 197022,
+      "word": "好东西 山西就是法国",
+      "onboard_time": 1732436180,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227766,
       "num": 444593,
       "word": "老人学芭蕾一边立脚尖一边做家务",
@@ -667,12 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227236,
-      "num": 124255,
-      "word": "女儿1.4w买皮草买到了妈妈心巴上",
-      "onboard_time": 1732433298,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 224174,
+      "num": 147811,
+      "word": "Newjeans违约金高达6200亿韩元",
+      "onboard_time": 1732436360,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 223437,
@@ -699,20 +827,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 208751,
-      "num": 443126,
-      "word": "王楚钦开场连得10分",
-      "onboard_time": 1732432818,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203511,
       "num": 203511,
       "word": "gapday音乐节",
       "onboard_time": 1732428797,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202791,
+      "num": 202791,
+      "word": "王楚钦对球迷说今天是我的主场",
+      "onboard_time": 1732436180,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 201742,
@@ -801,6 +929,14 @@
       "onboard_time": 1732376720,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186447,
+      "num": 146959,
+      "word": "上海千万豪宅夹层藏超万只蛆",
+      "onboard_time": 1732436539,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186323,
@@ -1027,12 +1163,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149973,
+      "num": 149973,
+      "word": "WTT",
+      "onboard_time": 1732435102,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147131,
       "num": 147131,
       "word": "许光汉吴君如借位接吻",
       "onboard_time": 1732374860,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146692,
+      "num": 146692,
+      "word": "文韬蒲熠星强强相撞",
+      "onboard_time": 1732435281,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 145591,
@@ -1275,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122726,
+      "num": 122726,
+      "word": "中南大学教授杨雨想回魏晋看帅哥",
+      "onboard_time": 1732435401,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122073,
       "num": 122073,
       "word": "优酷放了白鹿泪洒奔跑吧片段",
@@ -1369,6 +1529,14 @@
       "onboard_time": 1732379596,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115781,
+      "num": 115781,
+      "word": "美国小伙呼吁归还圆明园兽首",
+      "onboard_time": 1732435941,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115706,
@@ -1475,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111422,
+      "num": 111422,
+      "word": "张凌赫杀青后奔向粉丝",
+      "onboard_time": 1732435102,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111109,
       "num": 111109,
       "word": "今年约31万人报考导游资格证",
@@ -1497,6 +1673,14 @@
       "onboard_time": 1732424840,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110761,
+      "num": 110761,
+      "word": "赵露思王鹤棣 何不同舟渡",
+      "onboard_time": 1732436720,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 110718,
@@ -1619,6 +1803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 98368,
+      "num": 98368,
+      "word": "周冠宇第13",
+      "onboard_time": 1732436360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98213,
       "num": 98213,
       "word": "内蒙古黑龙江将有大暴雪",
@@ -1657,6 +1849,14 @@
       "onboard_time": 1732393211,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93523,
+      "num": 93523,
+      "word": "王楚钦夺冠后与王皓拥抱庆祝",
+      "onboard_time": 1732436780,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89238,
@@ -1769,6 +1969,14 @@
       "onboard_time": 1732378638,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77121,
+      "num": 332745,
+      "word": "中国第一台上网的电脑",
+      "onboard_time": 1732436599,
+      "rank": 13,
+      "category": "数码,正能量"
     },
     {
       "raw_hot": 73007,
@@ -2076,7 +2284,7 @@
     },
     {
       "raw_hot": 28518,
-      "num": 969793,
+      "num": 2676202,
       "word": "时间观里的大国外交",
       "onboard_time": 1732418719,
       "rank": 2,

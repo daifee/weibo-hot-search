@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732433719387,
+  "endTime": 1732436848252,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -187,6 +187,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 7160316,
+      "num": 7160316,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1732430658,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6969469,
       "num": 8102928,
       "word": "王楚钦无缘8强",
@@ -265,6 +273,14 @@
       "onboard_time": 1730870663,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 4395104,
+      "num": 4395104,
+      "word": "王楚钦总决赛夺冠",
+      "onboard_time": 1732434201,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 4213662,
@@ -585,14 +601,6 @@
       "onboard_time": 1730878833,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2708091,
-      "num": 2708091,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1732430658,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 2694028,
@@ -3505,6 +3513,14 @@
       "onboard_time": 1731745938,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1248531,
+      "num": 1248531,
+      "word": "王楚钦回应光速夺冠",
+      "onboard_time": 1732435102,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1244576,
@@ -8659,6 +8675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 723069,
+      "num": 723069,
+      "word": "王楚钦开场连得10分",
+      "onboard_time": 1732432818,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 722933,
       "num": 722933,
       "word": "刘宇宁 救场",
@@ -9849,6 +9873,14 @@
       "onboard_time": 1731482119,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 657944,
+      "num": 657944,
+      "word": "盘点勇闯内娱的真千金",
+      "onboard_time": 1732435281,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 657641,
@@ -11267,6 +11299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602013,
+      "num": 252692,
+      "word": "女儿1.4w买皮草买到了妈妈心巴上",
+      "onboard_time": 1732433298,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 601719,
       "num": 601719,
       "word": "旺旺发布声明函",
@@ -11545,6 +11585,14 @@
       "onboard_time": 1730574496,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 592045,
+      "num": 412974,
+      "word": "王楚钦4比0胜张本智和",
+      "onboard_time": 1732434142,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 591460,
@@ -11857,6 +11905,14 @@
       "onboard_time": 1731516797,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577347,
+      "num": 577347,
+      "word": "邓超 最好的小鹿",
+      "onboard_time": 1732432458,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 575584,
@@ -13361,14 +13417,6 @@
       "onboard_time": 1730555839,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 523134,
-      "num": 523134,
-      "word": "邓超 最好的小鹿",
-      "onboard_time": 1732432458,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 522854,
@@ -16747,6 +16795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419742,
+      "num": 419742,
+      "word": "王曼昱vs陈幸同",
+      "onboard_time": 1731155898,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419667,
       "num": 340423,
       "word": "于文文回应用小号",
@@ -17721,6 +17777,14 @@
       "onboard_time": 1732096399,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399375,
+      "num": 149226,
+      "word": "整栋楼都醒了就妹妹没有醒",
+      "onboard_time": 1732435223,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 399244,
@@ -19585,6 +19649,14 @@
       "onboard_time": 1732351519,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355361,
+      "num": 355361,
+      "word": "陈赫说鹿晗确实有点太帅了",
+      "onboard_time": 1732436240,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 354960,
@@ -22635,6 +22707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295597,
+      "num": 295597,
+      "word": "丁禹兮刚进组又请客了",
+      "onboard_time": 1732433778,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295504,
       "num": 295504,
       "word": "苏新皓在演我追星",
@@ -22921,6 +23001,14 @@
       "onboard_time": 1731575060,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 290842,
+      "num": 290842,
+      "word": "严禁用算法实施大数据杀熟",
+      "onboard_time": 1732435042,
+      "rank": 18,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 290809,
@@ -25299,6 +25387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260656,
+      "num": 148413,
+      "word": "邓亚萍说王楚钦越想赢越要放下",
+      "onboard_time": 1732434021,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260568,
       "num": 400355,
       "word": "王鹤棣泰国演唱会票价",
@@ -26065,6 +26161,14 @@
       "onboard_time": 1731909859,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251634,
+      "num": 251634,
+      "word": "TOP登陆少年组合团体logo亮相",
+      "onboard_time": 1732435340,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 251454,
@@ -27747,6 +27851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234099,
+      "num": 234099,
+      "word": "王楚钦总决赛三杀张本智和",
+      "onboard_time": 1732435042,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234039,
       "num": 212203,
       "word": "立冬吃什么",
@@ -28323,6 +28435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 228661,
+      "num": 197022,
+      "word": "好东西 山西就是法国",
+      "onboard_time": 1732436180,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228604,
       "num": 228604,
       "word": "瓦格纳绝杀湖人",
@@ -28433,14 +28553,6 @@
       "onboard_time": 1731569720,
       "rank": 47,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 227236,
-      "num": 124255,
-      "word": "女儿1.4w买皮草买到了妈妈心巴上",
-      "onboard_time": 1732433298,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227217,
@@ -28769,6 +28881,14 @@
       "onboard_time": 1731936322,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 224174,
+      "num": 147811,
+      "word": "Newjeans违约金高达6200亿韩元",
+      "onboard_time": 1732436360,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 224103,
@@ -31027,14 +31147,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 208751,
-      "num": 443126,
-      "word": "王楚钦开场连得10分",
-      "onboard_time": 1732432818,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208715,
       "num": 208715,
       "word": "冒充未成年人游戏退费或涉嫌诈骗",
@@ -32363,6 +32475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202791,
+      "num": 202791,
+      "word": "王楚钦对球迷说今天是我的主场",
+      "onboard_time": 1732436180,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202759,
       "num": 202759,
       "word": "5种蔬菜是隐藏的嘌呤大户",
@@ -32609,14 +32729,6 @@
       "onboard_time": 1731126439,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201968,
-      "num": 296658,
-      "word": "王曼昱vs陈幸同",
-      "onboard_time": 1731155898,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 201964,
@@ -36705,6 +36817,14 @@
       "onboard_time": 1731662478,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186447,
+      "num": 146959,
+      "word": "上海千万豪宅夹层藏超万只蛆",
+      "onboard_time": 1732436539,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186446,
@@ -47059,6 +47179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146692,
+      "num": 146692,
+      "word": "文韬蒲熠星强强相撞",
+      "onboard_time": 1732435281,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146691,
       "num": 146691,
       "word": "朝鲜试射洲际弹道导弹准确落入目标",
@@ -53099,6 +53227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122726,
+      "num": 122726,
+      "word": "中南大学教授杨雨想回魏晋看帅哥",
+      "onboard_time": 1732435401,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122721,
       "num": 122721,
       "word": "胖女孩 偶像剧女主",
@@ -54771,6 +54907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115781,
+      "num": 115781,
+      "word": "美国小伙呼吁归还圆明园兽首",
+      "onboard_time": 1732435941,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115750,
       "num": 115750,
       "word": "凌妙妙慕声朋友圈",
@@ -55771,6 +55915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111422,
+      "num": 111422,
+      "word": "张凌赫杀青后奔向粉丝",
+      "onboard_time": 1732435102,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111404,
       "num": 519660,
       "word": "上海海港首夺足协杯冠军",
@@ -55937,6 +56089,14 @@
       "onboard_time": 1730804960,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110761,
+      "num": 110761,
+      "word": "赵露思王鹤棣 何不同舟渡",
+      "onboard_time": 1732436720,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 110718,
@@ -58179,6 +58339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98368,
+      "num": 98368,
+      "word": "周冠宇第13",
+      "onboard_time": 1732436360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98352,
       "num": 266047,
       "word": "麦琳买熏鸡",
@@ -59017,6 +59185,14 @@
       "onboard_time": 1731730638,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93523,
+      "num": 93523,
+      "word": "王楚钦夺冠后与王皓拥抱庆祝",
+      "onboard_time": 1732436780,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93521,
@@ -61433,6 +61609,14 @@
       "onboard_time": 1732077921,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77121,
+      "num": 332745,
+      "word": "中国第一台上网的电脑",
+      "onboard_time": 1732436599,
+      "rank": 13,
+      "category": "数码,正能量"
     },
     {
       "raw_hot": 77036,
@@ -73788,7 +73972,7 @@
     },
     {
       "raw_hot": 28518,
-      "num": 969793,
+      "num": 2676202,
       "word": "时间观里的大国外交",
       "onboard_time": 1732418719,
       "rank": 2,
