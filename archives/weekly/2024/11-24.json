@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732469820244,
+  "endTime": 1732472976379,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -3651,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50732,
+      "num": 54607,
+      "word": "鹿晗版邪恶栀子花",
+      "onboard_time": 1732470972,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 49627,
       "num": 346881,
       "word": "于和伟审问戏压迫感好强",
@@ -3859,6 +3867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36855,
+      "num": 36855,
+      "word": "广州正式入秋",
+      "onboard_time": 1732471032,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36557,
       "num": 462118,
       "word": "如何看懂械字号卫生巾包装说明",
@@ -3907,12 +3923,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34115,
+      "num": 34115,
+      "word": "豫P7A525被网友骑电动车帮找到",
+      "onboard_time": 1732470493,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 33986,
       "num": 38186,
       "word": "贫困生改变境遇后仍被资助才是问题",
       "onboard_time": 1732400531,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32370,
+      "num": 32370,
+      "word": "伊普斯维奇vs曼联",
+      "onboard_time": 1732471392,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 32335,
@@ -3979,6 +4011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 29137,
+      "num": 29137,
+      "word": "遇见麦琳前vs遇见麦琳后",
+      "onboard_time": 1732471934,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29034,
       "num": 29034,
       "word": "南昌文旅为周深歌迷设特别打卡点",
@@ -4035,6 +4075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26019,
+      "num": 27631,
+      "word": "杨幂姐感妆容",
+      "onboard_time": 1732470253,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 25247,
       "num": 143350,
       "word": "涉网络平台算法典型问题举报邮箱公布",
@@ -4075,6 +4123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24217,
+      "num": 27624,
+      "word": "棒球",
+      "onboard_time": 1732459281,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23946,
       "num": 441341,
       "word": "导演说宋佳和钟楚曦的表演让人惊喜",
@@ -4096,6 +4152,14 @@
       "word": "2024年国际乒联世青赛",
       "onboard_time": 1732429219,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23369,
+      "num": 27621,
+      "word": "王曼昱说冠军属于国乒",
+      "onboard_time": 1732463899,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -4171,12 +4235,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16381,
+      "num": 48691,
+      "word": "SEVENTEEN烤肉店聚餐",
+      "onboard_time": 1732469834,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15972,
       "num": 18255,
       "word": "旺仔当事人称异物被厂家取走大部分",
       "onboard_time": 1732401432,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15723,
+      "num": 60748,
+      "word": "广州长达240天的夏天终于结束",
+      "onboard_time": 1732472232,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14636,
