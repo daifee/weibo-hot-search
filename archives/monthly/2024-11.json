@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732475966125,
+  "endTime": 1732476940138,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -60571,6 +60571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93403,
+      "num": 93403,
+      "word": "女子编造剧本卖惨博眼球被处罚",
+      "onboard_time": 1732473432,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 93231,
       "num": 413891,
       "word": "小伙初次去女友家买到两条假烟",
@@ -60921,14 +60929,6 @@
       "onboard_time": 1730487432,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90393,
-      "num": 90393,
-      "word": "女子编造剧本卖惨博眼球被处罚",
-      "onboard_time": 1732473432,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 90293,
@@ -71179,6 +71179,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 40529,
+      "num": 40529,
+      "word": "刀郎经纪公司已报案",
+      "onboard_time": 1732473911,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40523,
       "num": 364303,
       "word": "侯明昊闫桉公主抱",
@@ -73865,14 +73873,6 @@
       "onboard_time": 1730727321,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33189,
-      "num": 36549,
-      "word": "刀郎经纪公司已报案",
-      "onboard_time": 1732473911,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 33102,
@@ -80011,6 +80011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17867,
+      "num": 23413,
+      "word": "张泽禹给余宇涵的生日祝福",
+      "onboard_time": 1732474212,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17838,
       "num": 195701,
       "word": "金智秀韩版ELLE12月刊封面",
@@ -80793,14 +80801,6 @@
       "onboard_time": 1731431714,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15577,
-      "num": 23413,
-      "word": "张泽禹给余宇涵的生日祝福",
-      "onboard_time": 1732474212,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 15531,
@@ -82747,6 +82747,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 9958,
+      "num": 39765,
+      "word": "啊呀啦嗦回应刀郎被指剽窃他人作品",
+      "onboard_time": 1732475891,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9895,
       "num": 523647,
       "word": "一组知识帖助你了解G20",
@@ -82875,14 +82883,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 9143,
-      "num": 27529,
-      "word": "啊呀啦嗦回应刀郎被指剽窃他人作品",
-      "onboard_time": 1732475891,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 9139,
       "num": 643164,
       "word": "万千气象看湖南",
@@ -83009,6 +83009,14 @@
       "onboard_time": 1731407964,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 8239,
+      "num": 27952,
+      "word": "李子柒和汉服的适配度",
+      "onboard_time": 1732476613,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 8236,

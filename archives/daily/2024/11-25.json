@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732475966125,
+  "endTime": 1732476940138,
   "band_list": [
     {
       "raw_hot": 755908,
@@ -363,8 +363,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 90393,
-      "num": 90393,
+      "raw_hot": 93403,
+      "num": 93403,
       "word": "女子编造剧本卖惨博眼球被处罚",
       "onboard_time": 1732473432,
       "rank": 9,
@@ -475,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 40529,
+      "num": 40529,
+      "word": "刀郎经纪公司已报案",
+      "onboard_time": 1732473911,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37810,
       "num": 121717,
       "word": "丁禹兮海岛副本开启",
@@ -497,14 +505,6 @@
       "onboard_time": 1732470493,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 33189,
-      "num": 36549,
-      "word": "刀郎经纪公司已报案",
-      "onboard_time": 1732473911,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 32370,
@@ -587,12 +587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15577,
+      "raw_hot": 17867,
       "num": 23413,
       "word": "张泽禹给余宇涵的生日祝福",
       "onboard_time": 1732474212,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17732,
+      "num": 19661,
+      "word": "王曼昱4比3胜陈幸同",
+      "onboard_time": 1732440021,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 14228,
@@ -635,8 +643,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9143,
-      "num": 27529,
+      "raw_hot": 9958,
+      "num": 39765,
       "word": "啊呀啦嗦回应刀郎被指剽窃他人作品",
       "onboard_time": 1732475891,
       "rank": 24,
@@ -649,6 +657,14 @@
       "onboard_time": 1732468514,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8239,
+      "num": 27952,
+      "word": "李子柒和汉服的适配度",
+      "onboard_time": 1732476613,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
