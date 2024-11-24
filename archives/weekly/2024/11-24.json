@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732476940138,
+  "endTime": 1732479795988,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -4259,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19116,
+      "num": 22100,
+      "word": "九江羽绒园区童装厂售假羽绒服",
+      "onboard_time": 1732475831,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18660,
       "num": 376652,
       "word": "黄金联赛的实力豹款",
@@ -4347,12 +4355,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13263,
+      "num": 16235,
+      "word": "中国目的地搜索热度暴涨",
+      "onboard_time": 1732479491,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13071,
+      "num": 16234,
+      "word": "每天认识一件文物",
+      "onboard_time": 1732470073,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12299,
       "num": 1041078,
       "word": "寒潮频繁出现是冷冬要来了吗",
       "onboard_time": 1732452741,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12269,
+      "num": 22547,
+      "word": "车厘子价格可能还要降",
+      "onboard_time": 1732478711,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 12153,
@@ -4387,14 +4419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11237,
-      "num": 22100,
-      "word": "九江羽绒园区童装厂售假羽绒服",
-      "onboard_time": 1732475831,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10502,
       "num": 50239,
       "word": "资助工作动态管理不可松懈",
@@ -4404,11 +4428,19 @@
     },
     {
       "raw_hot": 10397,
-      "num": 22103,
+      "num": 22906,
       "word": "虞书欣海边玩泡泡九宫格",
       "onboard_time": 1732475831,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10010,
+      "num": 16248,
+      "word": "叶嘉莹遗体告别仪式下周六举行",
+      "onboard_time": 1732478890,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9958,
