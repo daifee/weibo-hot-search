@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732465583612,
+  "endTime": 1732466619481,
   "band_list": [
     {
       "raw_hot": 755908,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352910,
-      "num": 352910,
+      "raw_hot": 375143,
+      "num": 733790,
       "word": "国考11月25日0点开始打印准考证",
       "onboard_time": 1732464620,
       "rank": 4,
@@ -75,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303671,
+      "num": 303671,
+      "word": "鞠婧祎油管有22多个百万舞台",
+      "onboard_time": 1732463180,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 284798,
+      "num": 258192,
+      "word": "祺鑫",
+      "onboard_time": 1732461439,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 277337,
       "num": 277337,
       "word": "王曼昱总决赛夺冠",
@@ -99,20 +115,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 263443,
-      "num": 263443,
-      "word": "鞠婧祎油管有22多个百万舞台",
-      "onboard_time": 1732463180,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 263998,
+      "num": 263998,
+      "word": "广东人最怕的湿冷要来了",
+      "onboard_time": 1732463778,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 258192,
-      "num": 258192,
-      "word": "祺鑫",
-      "onboard_time": 1732461439,
-      "rank": 14,
-      "category": "演出"
+      "raw_hot": 263545,
+      "num": 230421,
+      "word": "刘宇晒与汤唯合照",
+      "onboard_time": 1732464978,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 249843,
@@ -121,6 +137,14 @@
       "onboard_time": 1732458563,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226446,
+      "num": 276978,
+      "word": "保险公司回应连交10年保险结果失效",
+      "onboard_time": 1732464018,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221366,
@@ -137,14 +161,6 @@
       "onboard_time": 1732461200,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219455,
-      "num": 276978,
-      "word": "保险公司回应连交10年保险结果失效",
-      "onboard_time": 1732464018,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215068,
@@ -164,19 +180,11 @@
     },
     {
       "raw_hot": 201781,
-      "num": 201781,
+      "num": 226449,
       "word": "休息室隐藏版鹿晗",
       "onboard_time": 1732458802,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191127,
-      "num": 191127,
-      "word": "广东人最怕的湿冷要来了",
-      "onboard_time": 1732463778,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177585,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 119734,
-      "num": 143915,
+      "num": 152773,
       "word": "王楚钦说林诗栋刚输完就陪自己训练",
       "onboard_time": 1732461021,
       "rank": 29,
@@ -273,14 +281,6 @@
       "onboard_time": 1732460840,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116826,
-      "num": 215363,
-      "word": "刘宇晒与汤唯合照",
-      "onboard_time": 1732464978,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 116784,
@@ -313,6 +313,14 @@
       "onboard_time": 1732460183,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101857,
+      "num": 101857,
+      "word": "3个动作助你入睡",
+      "onboard_time": 1732465397,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100458,
@@ -363,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 89329,
-      "num": 89329,
-      "word": "3个动作助你入睡",
-      "onboard_time": 1732465397,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88400,
       "num": 88400,
       "word": "睡不着试试做这3步",
@@ -385,6 +385,38 @@
       "onboard_time": 1732461320,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 74406,
+      "num": 74406,
+      "word": "高泽宇丸子订婚",
+      "onboard_time": 1732453101,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 72717,
+      "num": 72717,
+      "word": "好东西彩蛋",
+      "onboard_time": 1732438820,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 66504,
+      "num": 197419,
+      "word": "虞书欣留住相遇的美好瞬间",
+      "onboard_time": 1732466236,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65378,
+      "num": 65378,
+      "word": "马嘉祺宋亚轩走马四手联弹",
+      "onboard_time": 1732449138,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 29168,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#习近平主席拉美之行#"
+    },
+    {
+      "word": "#习近平关于依法治军重要论述摘编#"
     }
   ]
 }

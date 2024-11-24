@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732465583612,
+  "endTime": 1732466619481,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -19187,6 +19187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 375143,
+      "num": 733790,
+      "word": "国考11月25日0点开始打印准考证",
+      "onboard_time": 1732464620,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 375078,
       "num": 357365,
       "word": "初中生被收手机欲跳楼老师一把拉回",
@@ -20137,14 +20145,6 @@
       "onboard_time": 1730685798,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 352910,
-      "num": 352910,
-      "word": "国考11月25日0点开始打印准考证",
-      "onboard_time": 1732464620,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 352883,
@@ -22731,6 +22731,14 @@
       "category": "艺人,军事"
     },
     {
+      "raw_hot": 303671,
+      "num": 303671,
+      "word": "鞠婧祎油管有22多个百万舞台",
+      "onboard_time": 1732463180,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303639,
       "num": 303639,
       "word": "周雨彤镜头下的金晨宋茜",
@@ -23977,6 +23985,14 @@
       "onboard_time": 1731600679,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284798,
+      "num": 258192,
+      "word": "祺鑫",
+      "onboard_time": 1732461439,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 284659,
@@ -25667,6 +25683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263998,
+      "num": 263998,
+      "word": "广东人最怕的湿冷要来了",
+      "onboard_time": 1732463778,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263950,
       "num": 277952,
       "word": "NASA坚称2名滞留宇航员很健康",
@@ -25683,20 +25707,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 263545,
+      "num": 230421,
+      "word": "刘宇晒与汤唯合照",
+      "onboard_time": 1732464978,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263474,
       "num": 263474,
       "word": "祺轩",
       "onboard_time": 1732451120,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 263443,
-      "num": 263443,
-      "word": "鞠婧祎油管有22多个百万舞台",
-      "onboard_time": 1732463180,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 263374,
@@ -26185,14 +26209,6 @@
       "onboard_time": 1731150257,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258192,
-      "num": 258192,
-      "word": "祺鑫",
-      "onboard_time": 1732461439,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 258079,
@@ -29275,6 +29291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226446,
+      "num": 276978,
+      "word": "保险公司回应连交10年保险结果失效",
+      "onboard_time": 1732464018,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226404,
       "num": 425293,
       "word": "又有763名缅甸电诈嫌犯移交我方",
@@ -30193,14 +30217,6 @@
       "onboard_time": 1730957660,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219455,
-      "num": 276978,
-      "word": "保险公司回应连交10年保险结果失效",
-      "onboard_time": 1732464018,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219355,
@@ -36449,14 +36465,6 @@
       "onboard_time": 1732429517,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191127,
-      "num": 191127,
-      "word": "广东人最怕的湿冷要来了",
-      "onboard_time": 1732463778,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191092,
@@ -55987,14 +55995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116826,
-      "num": 215363,
-      "word": "刘宇晒与汤唯合照",
-      "onboard_time": 1732464978,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116792,
       "num": 116792,
       "word": "好团圆",
@@ -59043,6 +59043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101857,
+      "num": 101857,
+      "word": "3个动作助你入睡",
+      "onboard_time": 1732465397,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101796,
       "num": 253472,
       "word": "国足赛后退钱哥笑称不退钱了",
@@ -61049,14 +61057,6 @@
       "onboard_time": 1732329138,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 89329,
-      "num": 89329,
-      "word": "3个动作助你入睡",
-      "onboard_time": 1732465397,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 89275,
@@ -64777,6 +64777,14 @@
       "onboard_time": 1731135318,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66504,
+      "num": 197419,
+      "word": "虞书欣留住相遇的美好瞬间",
+      "onboard_time": 1732466236,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 66452,
