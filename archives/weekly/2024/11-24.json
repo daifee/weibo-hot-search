@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732484126541,
+  "endTime": 1732486852160,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1468,7 +1468,7 @@
     },
     {
       "raw_hot": 226446,
-      "num": 276978,
+      "num": 361048,
       "word": "保险公司回应连交10年保险结果失效",
       "onboard_time": 1732464018,
       "rank": 9,
@@ -3091,6 +3091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103704,
+      "num": 103704,
+      "word": "央视曝光劣质羽绒制品以丝充绒",
+      "onboard_time": 1732483510,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103531,
       "num": 319361,
       "word": "男子扶老人受伤要求补偿遭拒后起诉",
@@ -3659,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51256,
+      "num": 51256,
+      "word": "地沟油变身成飞机飞行的燃料",
+      "onboard_time": 1732481950,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 50732,
       "num": 54607,
       "word": "鹿晗版邪恶栀子花",
@@ -3875,6 +3891,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 39553,
+      "num": 33263,
+      "word": "肖战射雕英雄传侠之大者展架海报",
+      "onboard_time": 1732481651,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38666,
       "num": 38666,
       "word": "好东西票房",
@@ -4011,6 +4035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30805,
+      "num": 51756,
+      "word": "北方这些地方有暴雪",
+      "onboard_time": 1732485911,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30686,
       "num": 340510,
       "word": "国羽中国赛2金2银收官",
@@ -4059,14 +4091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28764,
-      "num": 28764,
-      "word": "地沟油变身成飞机飞行的燃料",
-      "onboard_time": 1732481950,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 28518,
       "num": 2676202,
       "word": "时间观里的大国外交",
@@ -4099,12 +4123,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27159,
+      "num": 34451,
+      "word": "看吧张碧晨下班也得骑车",
+      "onboard_time": 1732480270,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27108,
       "num": 27726,
       "word": "好东西 声音转场",
       "onboard_time": 1732386972,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26995,
+      "num": 26995,
+      "word": "想听课的学生曾多到叶嘉莹进不了教室",
+      "onboard_time": 1732484711,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26867,
@@ -4203,6 +4243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22863,
+      "num": 28038,
+      "word": "祝绪丹惊艳亮相国风盛典",
+      "onboard_time": 1732481051,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 22652,
+      "num": 23516,
+      "word": "武汉一路面突发塌陷两车掉入",
+      "onboard_time": 1732482431,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22579,
       "num": 23853,
       "word": "今日星拍放送",
@@ -4275,20 +4331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19116,
-      "num": 22100,
-      "word": "九江羽绒园区童装厂售假羽绒服",
-      "onboard_time": 1732475831,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18797,
+      "raw_hot": 19568,
       "num": 33718,
       "word": "车厘子价格可能还要降",
       "onboard_time": 1732478711,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 19116,
+      "num": 23492,
+      "word": "九江羽绒园区童装厂售假羽绒服",
+      "onboard_time": 1732475831,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18660,
@@ -4315,27 +4371,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17819,
-      "num": 17819,
-      "word": "肖战射雕英雄传侠之大者展架海报",
-      "onboard_time": 1732481651,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 17201,
       "num": 22177,
       "word": "刘耀文Sugar舞台好甜",
       "onboard_time": 1732387632,
       "rank": 45,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 16507,
-      "num": 17578,
-      "word": "看吧张碧晨下班也得骑车",
-      "onboard_time": 1732480270,
-      "rank": 49,
       "category": "演出"
     },
     {
@@ -4345,22 +4385,6 @@
       "onboard_time": 1732401432,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15872,
-      "num": 15872,
-      "word": "武汉一路面突发塌陷两车掉入",
-      "onboard_time": 1732482431,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15824,
-      "num": 17775,
-      "word": "祝绪丹惊艳亮相国风盛典",
-      "onboard_time": 1732481051,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14636,
@@ -4441,14 +4465,6 @@
       "onboard_time": 1732469953,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 12100,
-      "num": 32346,
-      "word": "央视曝光劣质羽绒制品以丝充绒",
-      "onboard_time": 1732483510,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12032,
@@ -4553,6 +4569,22 @@
       "onboard_time": 1732480330,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5974,
+      "num": 30888,
+      "word": "杨幂点亮每一个追逐的方向",
+      "onboard_time": 1732485251,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 5525,
+      "num": 32593,
+      "word": "宋佳拍杂志也在积累表演素材",
+      "onboard_time": 1732485971,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 5516,
