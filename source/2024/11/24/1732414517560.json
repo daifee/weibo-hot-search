@@ -1,0 +1,410 @@
+{
+  "runTime": 1732414517560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814112,
+        "num": 1814112,
+        "word": "前体操冠军吴柳芳擦边争议后发声",
+        "onboard_time": 1732411156,
+        "rank": 0,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 952471,
+        "num": 952471,
+        "word": "王楚钦说张本智和赢得很狼狈",
+        "onboard_time": 1732412177,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56271,
+        "num": 688027,
+        "word": "海南舰首次对公众开放",
+        "onboard_time": 1732366520,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 628527,
+        "num": 628527,
+        "word": "石破茂回应中国对日本恢复免签",
+        "onboard_time": 1732412177,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 618673,
+        "num": 618673,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 736001,
+        "num": 609718,
+        "word": "考上公务员和考上985哪个厉害",
+        "onboard_time": 1732406956,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401035,
+        "num": 401035,
+        "word": "素人为参加节目瘦20斤",
+        "onboard_time": 1732412177,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344512,
+        "num": 344512,
+        "word": "12岁女孩被尾随热心司机拿撬棍保护",
+        "onboard_time": 1732412658,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 342432,
+        "num": 342432,
+        "word": "黄圣依 死脑快想啊",
+        "onboard_time": 1732370601,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338160,
+        "num": 338160,
+        "word": "鹿晗 给我干哪年来了",
+        "onboard_time": 1732413000,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1146606,
+        "num": 335585,
+        "word": "羊毛月道歉",
+        "onboard_time": 1732411877,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657394,
+        "num": 326901,
+        "word": "用人民币感受日本工资水平",
+        "onboard_time": 1732412177,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 616489,
+        "num": 324477,
+        "word": "金敏绪 首尔流浪女",
+        "onboard_time": 1732405455,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347529,
+        "num": 316934,
+        "word": "警方回应派出所人员殴打小学生",
+        "onboard_time": 1732413258,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 312739,
+        "num": 312739,
+        "word": "男子出租屋内种大麻结婚当天被抓",
+        "onboard_time": 1732412177,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256229,
+        "num": 256229,
+        "word": "永夜星河 星光大赏",
+        "onboard_time": 1732411818,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255679,
+        "num": 255679,
+        "word": "保时捷公开道歉",
+        "onboard_time": 1732406535,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 220870,
+        "num": 220870,
+        "word": "权志龙只需稍微出手",
+        "onboard_time": 1732404133,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226766,
+        "num": 220681,
+        "word": "医生称用这3种卫生巾易引病上身",
+        "onboard_time": 1732364780,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64968,
+        "num": 219782,
+        "word": "河南演员王一博上榜2024亚太U30杰出青年领袖",
+        "onboard_time": 1732413919,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290248,
+        "num": 219319,
+        "word": "全红婵被草莓熊硬控8秒",
+        "onboard_time": 1732409418,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280410,
+        "num": 218703,
+        "word": "6万名牌包包落共享单车辗转3次硬是没丢",
+        "onboard_time": 1732404675,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145469,
+        "num": 218425,
+        "word": "前体操运动员回应热舞争议",
+        "onboard_time": 1732413857,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217853,
+        "num": 217853,
+        "word": "独生女婚后全款给父母买房难要回",
+        "onboard_time": 1732369941,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216628,
+        "num": 216628,
+        "word": "男子骑行疑被刮倒后遭车碾压身亡",
+        "onboard_time": 1732413618,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 212748,
+        "num": 212748,
+        "word": "蛋糕店把配料成本全标在产品上",
+        "onboard_time": 1732412658,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200569,
+        "num": 200569,
+        "word": "人贩子抱走孩子伎俩曝光",
+        "onboard_time": 1732405635,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197894,
+        "num": 197894,
+        "word": "吴柳芳成擦边主播被怒斥",
+        "onboard_time": 1732412177,
+        "rank": 27,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 195464,
+        "num": 195464,
+        "word": "睡眠不足身体会出现什么变化",
+        "onboard_time": 1732367360,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155201,
+        "num": 184262,
+        "word": "好东西 声音蒙太奇",
+        "onboard_time": 1732413738,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177295,
+        "num": 177295,
+        "word": "宋慧乔43岁生日照",
+        "onboard_time": 1732385893,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176901,
+        "num": 176901,
+        "word": "哈尔滨中央大街铺上地毯了",
+        "onboard_time": 1732378279,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152566,
+        "num": 152566,
+        "word": "黎巴嫩首都居民睡梦中被炸醒",
+        "onboard_time": 1732408336,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137786,
+        "num": 137786,
+        "word": "原来爬树真的有全国比赛",
+        "onboard_time": 1732412658,
+        "rank": 33,
+        "category": "正能量,运动健身"
+      },
+      {
+        "raw_hot": 131383,
+        "num": 131383,
+        "word": "让BIGBANG再次伟大",
+        "onboard_time": 1732412538,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131834,
+        "num": 130790,
+        "word": "鹿晗说马上要开四巡了",
+        "onboard_time": 1732372582,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123489,
+        "num": 123489,
+        "word": "抗癌博主湘妹子去世瘦成皮包骨",
+        "onboard_time": 1732377739,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114430,
+        "num": 114430,
+        "word": "我国大部今起将先后降6到10度",
+        "onboard_time": 1732409656,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109465,
+        "num": 109465,
+        "word": "普京称目前没有拦截榛树导弹的技术",
+        "onboard_time": 1732386552,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108963,
+        "num": 108963,
+        "word": "网红湘妹子后悔没重视胃病",
+        "onboard_time": 1732403714,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108573,
+        "num": 108573,
+        "word": "吉赛尔进行曲",
+        "onboard_time": 1732413857,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103362,
+        "num": 103362,
+        "word": "保时捷回应货拉拉纠纷事件",
+        "onboard_time": 1732377679,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100210,
+        "num": 100210,
+        "word": "十个勤天卡点为鹭卓庆生",
+        "onboard_time": 1732405515,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99124,
+        "num": 99124,
+        "word": "乔欣无名指戒指",
+        "onboard_time": 1732377379,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97676,
+        "num": 97676,
+        "word": "内蒙古通辽发生4.3级地震",
+        "onboard_time": 1732413377,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97358,
+        "num": 97358,
+        "word": "鹿晗 野玫瑰",
+        "onboard_time": 1732368560,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96106,
+        "num": 96106,
+        "word": "王楚钦说球迷是为了我好",
+        "onboard_time": 1732412237,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95142,
+        "num": 95142,
+        "word": "香港市民打卡海南舰说希望福建舰也能来",
+        "onboard_time": 1732408996,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 93779,
+        "num": 93779,
+        "word": "降温预报图逐渐冻到发紫",
+        "onboard_time": 1732408996,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89918,
+        "num": 89918,
+        "word": "偶遇黄圣依杨子飞新加坡",
+        "onboard_time": 1732372763,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}
