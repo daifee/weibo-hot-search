@@ -1,0 +1,410 @@
+{
+  "runTime": 1732443751906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942629,
+        "num": 1150820,
+        "word": "王曼昱总决赛夺冠",
+        "onboard_time": 1732439960,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803141,
+        "num": 803141,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1732430658,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42597,
+        "num": 762487,
+        "word": "中国山水藏着一整个乐团吧",
+        "onboard_time": 1732440859,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 759599,
+        "num": 759599,
+        "word": "赵露思王鹤棣 何不同舟渡",
+        "onboard_time": 1732436720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 714923,
+        "num": 714923,
+        "word": "王楚钦锁定年终世界第1",
+        "onboard_time": 1732439901,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682468,
+        "num": 682468,
+        "word": "张本智和采访",
+        "onboard_time": 1732440981,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664727,
+        "num": 664727,
+        "word": "对麦琳的围剿像无意识的集体霸凌",
+        "onboard_time": 1732441100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515703,
+        "num": 515703,
+        "word": "曝大爆剧顶流花顶流生三搭合作流潋紫",
+        "onboard_time": 1732438700,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490104,
+        "num": 490104,
+        "word": "王楚钦收获4万美元奖金1500积分",
+        "onboard_time": 1732437860,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289453,
+        "num": 486111,
+        "word": "经济学家预计2026年房地产拐点出现",
+        "onboard_time": 1732440919,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1005771,
+        "num": 467397,
+        "word": "李行亮梦女",
+        "onboard_time": 1732437979,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 861479,
+        "num": 454285,
+        "word": "上海千万豪宅夹层藏超万只蛆",
+        "onboard_time": 1732436539,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132054,
+        "num": 425556,
+        "word": "留学生回国找工作越来越难了吗",
+        "onboard_time": 1732443438,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422626,
+        "num": 422626,
+        "word": "陈赫说鹿晗确实有点太帅了",
+        "onboard_time": 1732436240,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18660,
+        "num": 376652,
+        "word": "黄金联赛的实力豹款",
+        "onboard_time": 1732442419,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346535,
+        "num": 346535,
+        "word": "Newjeans违约金高达6200亿韩元",
+        "onboard_time": 1732436360,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326882,
+        "num": 326882,
+        "word": "张本智和被打服了",
+        "onboard_time": 1732441460,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312882,
+        "num": 312882,
+        "word": "好东西",
+        "onboard_time": 1732439119,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45292,
+        "num": 310298,
+        "word": "格斗女中医石铭扫踢震惊张伟丽",
+        "onboard_time": 1732442538,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45515,
+        "num": 307810,
+        "word": "家长买包上大学套餐10万元打水漂",
+        "onboard_time": 1732443139,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323569,
+        "num": 305665,
+        "word": "许昕谈王楚钦夺冠",
+        "onboard_time": 1732439180,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1366125,
+        "num": 301449,
+        "word": "男子裸露下体尾随女孩被一棍喝退",
+        "onboard_time": 1732439840,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299809,
+        "num": 299809,
+        "word": "鹿晗工作室晒祝福",
+        "onboard_time": 1732437799,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274253,
+        "num": 274253,
+        "word": "女儿1.4w买皮草买到了妈妈心巴上",
+        "onboard_time": 1732433298,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242829,
+        "num": 242829,
+        "word": "秦霄贤跳APT",
+        "onboard_time": 1732442599,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219921,
+        "num": 219921,
+        "word": "盘点勇闯内娱的真千金",
+        "onboard_time": 1732435281,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207584,
+        "num": 207584,
+        "word": "发朋友圈仅导师可见是什么体验",
+        "onboard_time": 1732437319,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115083,
+        "num": 204052,
+        "word": "中国男篮38分大胜蒙古男篮",
+        "onboard_time": 1732442059,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37190,
+        "num": 200056,
+        "word": "喻言空降超话",
+        "onboard_time": 1732443679,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124171,
+        "num": 198724,
+        "word": "王者荣耀直播",
+        "onboard_time": 1732443679,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235730,
+        "num": 192865,
+        "word": "王楚钦王曼昱夺冠合影",
+        "onboard_time": 1732443139,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25277,
+        "num": 191536,
+        "word": "魏你而甜",
+        "onboard_time": 1732439180,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210523,
+        "num": 186276,
+        "word": "豫P7A525回家了",
+        "onboard_time": 1732442599,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 175543,
+        "num": 180118,
+        "word": "王楚钦夺冠后与王皓拥抱庆祝",
+        "onboard_time": 1732436780,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179743,
+        "num": 179743,
+        "word": "邓超 最好的小鹿",
+        "onboard_time": 1732432458,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175924,
+        "num": 175924,
+        "word": "王楚钦总决赛夺冠",
+        "onboard_time": 1732434201,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170142,
+        "num": 170142,
+        "word": "王曼昱回应战胜陈幸同",
+        "onboard_time": 1732443320,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169613,
+        "num": 169613,
+        "word": "好东西彩蛋",
+        "onboard_time": 1732438820,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169235,
+        "num": 169235,
+        "word": "尔滨你有点重南轻北了",
+        "onboard_time": 1732437619,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162038,
+        "num": 162038,
+        "word": "虞书欣双轨粉裙路透",
+        "onboard_time": 1732440680,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157289,
+        "num": 157289,
+        "word": "世界乒联恭喜王楚钦",
+        "onboard_time": 1732442480,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154748,
+        "num": 154748,
+        "word": "张本智和最后一个发球没上台",
+        "onboard_time": 1732440321,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153848,
+        "num": 153848,
+        "word": "二刷好东西",
+        "onboard_time": 1732438820,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150834,
+        "num": 150834,
+        "word": "胖东来发声将追责篡改于东来视频者",
+        "onboard_time": 1732438160,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142359,
+        "num": 142359,
+        "word": "宋亚轩胡先煦中戏师兄弟",
+        "onboard_time": 1732443498,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142264,
+        "num": 142264,
+        "word": "正直勇敢有阅读量",
+        "onboard_time": 1732438940,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136462,
+        "num": 136462,
+        "word": "王楚钦状态",
+        "onboard_time": 1732433959,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132996,
+        "num": 132996,
+        "word": "张艺兴直播",
+        "onboard_time": 1732441640,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132584,
+        "num": 132584,
+        "word": "羊毛月一夜掉粉近22万",
+        "onboard_time": 1732418959,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127512,
+        "num": 127512,
+        "word": "丁禹兮刚进组又请客了",
+        "onboard_time": 1732433778,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#时间观里的大国外交#"
+    }
+  }
+}

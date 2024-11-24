@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/24 17:36:46
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/24 18:22:31
 </p>
 </blockquote>
 <p>
@@ -2213,6 +2213,12 @@ Doran加入T1（热度：1387808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2398%E4%B8%87%E9%83%A8%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%8E%A7%E5%88%B6%E6%AF%8F%E6%9C%88%E5%81%B7%E5%81%B7%E6%89%A3%E9%92%B1%23" target="weibo">
 98万部手机被控制每月偷偷扣钱（热度：1370068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A3%B8%E9%9C%B2%E4%B8%8B%E4%BD%93%E5%B0%BE%E9%9A%8F%E5%A5%B3%E5%AD%A9%E8%A2%AB%E4%B8%80%E6%A3%8D%E5%96%9D%E9%80%80%23" target="weibo">
+男子裸露下体尾随女孩被一棍喝退（热度：1366125）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%96%B0%E5%AE%B6%E8%A2%AB%E4%BB%96%E4%BA%BA%E5%BD%93%E5%AE%BE%E9%A6%86%E5%BC%80party%23" target="weibo">
 女子新家被他人当宾馆开party（热度：767373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%80%BC30%E5%85%83%E6%8B%89%E4%BD%8E%E8%A1%8C%E4%B8%9A%E6%A1%A3%E6%AC%A1%23" target="weibo">
-晓华回应被怼30元拉低行业档次（热度：766915）
 </a>
 </li>
 

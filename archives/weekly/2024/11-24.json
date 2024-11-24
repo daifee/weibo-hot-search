@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732441006445,
+  "endTime": 1732443751906,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -56,6 +56,14 @@
       "word": "上海千万豪宅夹层藏超万只蛆",
       "onboard_time": 1732436539,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1366125,
+      "num": 424719,
+      "word": "男子裸露下体尾随女孩被一棍喝退",
+      "onboard_time": 1732439840,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -283,12 +291,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 714923,
+      "num": 714923,
+      "word": "王楚钦锁定年终世界第1",
+      "onboard_time": 1732439901,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 683013,
       "num": 683013,
       "word": "大碗宽面去了王霏霏演唱会",
       "onboard_time": 1732415959,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 682468,
+      "num": 682468,
+      "word": "张本智和采访",
+      "onboard_time": 1732440981,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 664727,
+      "num": 664727,
+      "word": "对麦琳的围剿像无意识的集体霸凌",
+      "onboard_time": 1732441100,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 657944,
@@ -305,14 +337,6 @@
       "onboard_time": 1732412177,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 630977,
-      "num": 424719,
-      "word": "男子裸露下体尾随女孩被一棍喝退",
-      "onboard_time": 1732439840,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630863,
@@ -472,14 +496,6 @@
       "word": "王楚钦夺冠后与王皓拥抱庆祝",
       "onboard_time": 1732436780,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 423597,
-      "num": 571611,
-      "word": "王楚钦锁定年终世界第1",
-      "onboard_time": 1732439901,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -659,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326882,
+      "num": 326882,
+      "word": "张本智和被打服了",
+      "onboard_time": 1732441460,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325046,
       "num": 325046,
       "word": "海南被实名举报县委副书记落马",
@@ -771,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289453,
+      "num": 486111,
+      "word": "经济学家预计2026年房地产拐点出现",
+      "onboard_time": 1732440919,
+      "rank": 48,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 288393,
       "num": 320255,
       "word": "时代少年团点赞量排名",
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242829,
+      "num": 242829,
+      "word": "秦霄贤跳APT",
+      "onboard_time": 1732442599,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242475,
       "num": 320328,
       "word": "我是刑警西山矿大劫案",
@@ -881,6 +921,14 @@
       "onboard_time": 1732429097,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235730,
+      "num": 192865,
+      "word": "王楚钦王曼昱夺冠合影",
+      "onboard_time": 1732443139,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 234250,
@@ -969,6 +1017,14 @@
       "onboard_time": 1732438820,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210523,
+      "num": 186276,
+      "word": "豫P7A525回家了",
+      "onboard_time": 1732442599,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 210130,
@@ -1251,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170142,
+      "num": 170142,
+      "word": "王曼昱回应战胜陈幸同",
+      "onboard_time": 1732443320,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169399,
       "num": 169399,
       "word": "杨超越去了许嵩演唱会",
@@ -1299,14 +1363,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 163101,
-      "num": 163101,
-      "word": "张本智和采访",
-      "onboard_time": 1732440981,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162868,
       "num": 292939,
       "word": "焚城就是个巨大的电车难题",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1732439420,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162038,
+      "num": 401832,
+      "word": "虞书欣双轨粉裙路透",
+      "onboard_time": 1732440680,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161984,
@@ -1355,12 +1419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159871,
-      "num": 159871,
-      "word": "经济学家预计2026年房地产拐点出现",
-      "onboard_time": 1732440919,
-      "rank": 48,
-      "category": "民生新闻,财经"
+      "raw_hot": 157289,
+      "num": 157289,
+      "word": "世界乒联恭喜王楚钦",
+      "onboard_time": 1732442480,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 156962,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1732432519,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154748,
+      "num": 384998,
+      "word": "张本智和最后一个发球没上台",
+      "onboard_time": 1732440321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 151666,
@@ -1467,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142359,
+      "num": 142359,
+      "word": "宋亚轩胡先煦中戏师兄弟",
+      "onboard_time": 1732443498,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139824,
       "num": 139824,
       "word": "BIGBANG合体",
@@ -1523,6 +1603,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 132996,
+      "num": 132996,
+      "word": "张艺兴直播",
+      "onboard_time": 1732441640,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132754,
       "num": 132754,
       "word": "这一次寒潮有两大特点",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1732375401,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132054,
+      "num": 425556,
+      "word": "留学生回国找工作越来越难了吗",
+      "onboard_time": 1732443438,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131472,
@@ -1683,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124171,
+      "num": 198724,
+      "word": "王者荣耀直播",
+      "onboard_time": 1732443679,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122979,
       "num": 122979,
       "word": "香港市民打卡海南舰说希望福建舰也能来",
@@ -1809,6 +1913,14 @@
       "onboard_time": 1732419978,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115083,
+      "num": 204052,
+      "word": "中国男篮38分大胜蒙古男篮",
+      "onboard_time": 1732442059,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 114551,
@@ -2139,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89042,
-      "num": 401832,
-      "word": "虞书欣双轨粉裙路透",
-      "onboard_time": 1732440680,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 89035,
       "num": 203255,
       "word": "潘粤明 潘粤暗",
@@ -2193,14 +2297,6 @@
       "onboard_time": 1732413197,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 84114,
-      "num": 384998,
-      "word": "张本智和最后一个发球没上台",
-      "onboard_time": 1732440321,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 81977,
@@ -2451,6 +2547,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45515,
+      "num": 307810,
+      "word": "家长买包上大学套餐10万元打水漂",
+      "onboard_time": 1732443139,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45292,
+      "num": 310298,
+      "word": "格斗女中医石铭扫踢震惊张伟丽",
+      "onboard_time": 1732442538,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44580,
       "num": 84316,
       "word": "林俊杰新书战报",
@@ -2523,6 +2635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42597,
+      "num": 1262907,
+      "word": "中国山水藏着一整个乐团吧",
+      "onboard_time": 1732440859,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40349,
       "num": 840260,
       "word": "在乌镇峰会畅聊中国互联网30年",
@@ -2545,6 +2665,14 @@
       "onboard_time": 1732383913,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 200056,
+      "word": "喻言空降超话",
+      "onboard_time": 1732443679,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 36557,
@@ -2675,6 +2803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25277,
+      "num": 215097,
+      "word": "魏你而甜",
+      "onboard_time": 1732439180,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24961,
       "num": 24961,
       "word": "邓佳鑫唱了醒着",
@@ -2755,12 +2891,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 20042,
-      "num": 215097,
-      "word": "魏你而甜",
-      "onboard_time": 1732439180,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 18660,
+      "num": 376652,
+      "word": "黄金联赛的实力豹款",
+      "onboard_time": 1732442419,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 17201,
@@ -2849,14 +2985,6 @@
       "onboard_time": 1732383194,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7743,
-      "num": 1262907,
-      "word": "中国山水藏着一整个乐团吧",
-      "onboard_time": 1732440859,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
