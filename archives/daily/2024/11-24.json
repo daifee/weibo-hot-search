@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732444869931,
+  "endTime": 1732447119410,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -17,6 +17,14 @@
       "onboard_time": 1732434201,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3069983,
+      "num": 3069983,
+      "word": "叶嘉莹逝世",
+      "onboard_time": 1732445119,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1905809,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 803841,
+      "num": 803841,
+      "word": "王楚钦王曼昱夺冠合影",
+      "onboard_time": 1732443139,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 795537,
       "num": 795537,
       "word": "王楚钦锁定年终世界第1",
@@ -347,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 630826,
+      "num": 630826,
+      "word": "殴打小学生派出所人员被撤职",
+      "onboard_time": 1732439658,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 629182,
       "num": 629182,
       "word": "石破茂回应中国对日本恢复免签",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 626180,
-      "num": 326882,
+      "num": 443262,
       "word": "张本智和被打服了",
       "onboard_time": 1732441460,
       "rank": 16,
@@ -377,14 +401,6 @@
       "onboard_time": 1732377379,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 615837,
-      "num": 302005,
-      "word": "王楚钦王曼昱夺冠合影",
-      "onboard_time": 1732443139,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 602013,
@@ -483,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 486825,
+      "num": 486825,
+      "word": "经济学家预计2026年房地产拐点出现",
+      "onboard_time": 1732440919,
+      "rank": 48,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 479682,
       "num": 479682,
       "word": "吴柳芳成擦边主播被怒斥",
@@ -553,6 +577,14 @@
       "onboard_time": 1732413618,
       "rank": 24,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 403152,
+      "num": 403152,
+      "word": "杨幂黑丝绒裙装",
+      "onboard_time": 1732446320,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 400917,
@@ -723,14 +755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 318824,
-      "num": 486111,
-      "word": "经济学家预计2026年房地产拐点出现",
-      "onboard_time": 1732440919,
-      "rank": 48,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 318772,
       "num": 318772,
       "word": "人贩子抱走孩子伎俩曝光",
@@ -859,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271220,
+      "num": 271220,
+      "word": "余宇涵成人礼特别企划",
+      "onboard_time": 1732445659,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270849,
       "num": 292129,
       "word": "浪姐好友去了王霏霏演唱会",
@@ -899,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253919,
-      "num": 303532,
-      "word": "殴打小学生派出所人员被撤职",
-      "onboard_time": 1732439658,
-      "rank": 39,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 253912,
       "num": 253912,
       "word": "秦霄贤跳APT",
@@ -929,6 +953,22 @@
       "onboard_time": 1732420818,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240831,
+      "num": 425556,
+      "word": "留学生回国找工作越来越难了吗",
+      "onboard_time": 1732443438,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239214,
+      "num": 239214,
+      "word": "留几手觉得葛夕在无病呻吟",
+      "onboard_time": 1732443798,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 237334,
@@ -1051,12 +1091,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206419,
+      "num": 228049,
+      "word": "张本智和3进决赛3次亚军",
+      "onboard_time": 1732444999,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205608,
       "num": 205608,
       "word": "尔滨你有点重南轻北了",
       "onboard_time": 1732437619,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204898,
+      "num": 204898,
+      "word": "重庆下雨",
+      "onboard_time": 1732446679,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203511,
@@ -1163,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187557,
+      "num": 187557,
+      "word": "宋佳太迷人了",
+      "onboard_time": 1732444398,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187127,
       "num": 187127,
       "word": "赵今麦樱桃琥珀杀青plog",
@@ -1227,12 +1291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180799,
-      "num": 180799,
-      "word": "宋佳太迷人了",
-      "onboard_time": 1732444398,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 181548,
+      "num": 181548,
+      "word": "王楚钦回应赛后庆祝动作",
+      "onboard_time": 1732445299,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 179682,
@@ -1467,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158427,
+      "num": 158427,
+      "word": "这才是王楚钦的正手",
+      "onboard_time": 1732445839,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157289,
       "num": 157289,
       "word": "世界乒联恭喜王楚钦",
@@ -1481,14 +1553,6 @@
       "onboard_time": 1732413377,
       "rank": 44,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 155673,
-      "num": 425556,
-      "word": "留学生回国找工作越来越难了吗",
-      "onboard_time": 1732443438,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155201,
@@ -1539,12 +1603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148763,
-      "num": 148763,
-      "word": "留几手觉得葛夕在无病呻吟",
-      "onboard_time": 1732443798,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 147483,
+      "num": 147483,
+      "word": "仍有4尊圆明园兽首下落不明",
+      "onboard_time": 1732446740,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 147131,
@@ -1707,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129563,
+      "num": 129563,
+      "word": "俄军打击乌克兰军用机场",
+      "onboard_time": 1732446919,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128894,
       "num": 419106,
       "word": "张凌赫给我让条路出来",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1732418778,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126900,
+      "num": 126900,
+      "word": "在香港八旬老人参观长沙舰流泪",
+      "onboard_time": 1732446979,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 125941,
@@ -1817,6 +1897,14 @@
       "onboard_time": 1732437080,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124082,
+      "num": 124082,
+      "word": "深入整治信息茧房",
+      "onboard_time": 1732445720,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 122979,
@@ -2131,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107717,
+      "num": 461213,
+      "word": "送别诗词的女儿叶嘉莹",
+      "onboard_time": 1732446380,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104235,
       "num": 159645,
       "word": "Doinb聊Icon队内讧",
@@ -2265,6 +2361,14 @@
       "onboard_time": 1732393211,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93721,
+      "num": 215481,
+      "word": "祝贺国乒包揽男女单冠军",
+      "onboard_time": 1732446740,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 89238,
@@ -2835,6 +2939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27306,
+      "num": 212756,
+      "word": "王曼昱对粉丝说辛苦了",
+      "onboard_time": 1732446740,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27242,
       "num": 32383,
       "word": "权志龙我会强势回归",
@@ -2873,6 +2985,14 @@
       "onboard_time": 1732387272,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24358,
+      "num": 210600,
+      "word": "全红婵套路王宗源",
+      "onboard_time": 1732446021,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 24251,
@@ -3032,6 +3152,14 @@
       "word": "王曼昱说会从始至终的专注",
       "onboard_time": 1732383194,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7515,
+      "num": 333168,
+      "word": "3X3黄金联赛总决赛",
+      "onboard_time": 1732446021,
+      "rank": 14,
       "category": "体育"
     }
   ],

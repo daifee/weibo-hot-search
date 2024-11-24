@@ -1,0 +1,410 @@
+{
+  "runTime": 1732447119410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3069983,
+        "num": 3069983,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 945828,
+        "num": 945828,
+        "word": "对麦琳的围剿像无意识的集体霸凌",
+        "onboard_time": 1732441100,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45722,
+        "num": 806736,
+        "word": "中国山水藏着一整个乐团吧",
+        "onboard_time": 1732440859,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 803841,
+        "num": 803841,
+        "word": "王楚钦王曼昱夺冠合影",
+        "onboard_time": 1732443139,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699796,
+        "num": 699796,
+        "word": "王楚钦锁定年终世界第1",
+        "onboard_time": 1732439901,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630826,
+        "num": 630826,
+        "word": "殴打小学生派出所人员被撤职",
+        "onboard_time": 1732439658,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 611618,
+        "num": 611618,
+        "word": "赵露思王鹤棣 何不同舟渡",
+        "onboard_time": 1732436720,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499646,
+        "num": 499646,
+        "word": "王曼昱总决赛夺冠",
+        "onboard_time": 1732439960,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486825,
+        "num": 486825,
+        "word": "经济学家预计2026年房地产拐点出现",
+        "onboard_time": 1732440919,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107717,
+        "num": 461213,
+        "word": "送别诗词的女儿叶嘉莹",
+        "onboard_time": 1732446380,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958995,
+        "num": 455532,
+        "word": "李行亮梦女",
+        "onboard_time": 1732437979,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443262,
+        "num": 443262,
+        "word": "张本智和被打服了",
+        "onboard_time": 1732441460,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403152,
+        "num": 403152,
+        "word": "杨幂黑丝绒裙装",
+        "onboard_time": 1732446320,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 337362,
+        "num": 337362,
+        "word": "鹿晗工作室晒祝福",
+        "onboard_time": 1732437799,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 7515,
+        "num": 333168,
+        "word": "3X3黄金联赛总决赛",
+        "onboard_time": 1732446021,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331434,
+        "num": 331434,
+        "word": "陈赫说鹿晗确实有点太帅了",
+        "onboard_time": 1732436240,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302112,
+        "num": 302112,
+        "word": "好东西",
+        "onboard_time": 1732439119,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290281,
+        "num": 290281,
+        "word": "曝大爆剧顶流花顶流生三搭合作流潋紫",
+        "onboard_time": 1732438700,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271220,
+        "num": 271220,
+        "word": "余宇涵成人礼特别企划",
+        "onboard_time": 1732445659,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266426,
+        "num": 266426,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1732430658,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774740,
+        "num": 253970,
+        "word": "男子裸露下体尾随女孩被一棍喝退",
+        "onboard_time": 1732439840,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240831,
+        "num": 240831,
+        "word": "留学生回国找工作越来越难了吗",
+        "onboard_time": 1732443438,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239214,
+        "num": 239214,
+        "word": "留几手觉得葛夕在无病呻吟",
+        "onboard_time": 1732443798,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235354,
+        "num": 235354,
+        "word": "女儿1.4w买皮草买到了妈妈心巴上",
+        "onboard_time": 1732433298,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206419,
+        "num": 228049,
+        "word": "张本智和3进决赛3次亚军",
+        "onboard_time": 1732444999,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222570,
+        "num": 222570,
+        "word": "Newjeans违约金高达6200亿韩元",
+        "onboard_time": 1732436360,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93721,
+        "num": 215481,
+        "word": "祝贺国乒包揽男女单冠军",
+        "onboard_time": 1732446740,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27306,
+        "num": 212756,
+        "word": "王曼昱对粉丝说辛苦了",
+        "onboard_time": 1732446740,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24358,
+        "num": 210600,
+        "word": "全红婵套路王宗源",
+        "onboard_time": 1732446021,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210039,
+        "num": 210039,
+        "word": "豫P7A525回家了",
+        "onboard_time": 1732442599,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 204898,
+        "num": 204898,
+        "word": "重庆下雨",
+        "onboard_time": 1732446679,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193673,
+        "num": 193673,
+        "word": "秦霄贤跳APT",
+        "onboard_time": 1732442599,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187557,
+        "num": 187557,
+        "word": "宋佳太迷人了",
+        "onboard_time": 1732444398,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181548,
+        "num": 181548,
+        "word": "王楚钦回应赛后庆祝动作",
+        "onboard_time": 1732445299,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174891,
+        "num": 174891,
+        "word": "发朋友圈仅导师可见是什么体验",
+        "onboard_time": 1732437319,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174487,
+        "num": 174487,
+        "word": "好东西彩蛋",
+        "onboard_time": 1732438820,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172386,
+        "num": 172386,
+        "word": "许昕谈王楚钦夺冠",
+        "onboard_time": 1732439180,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171856,
+        "num": 171856,
+        "word": "羊毛月一夜掉粉近22万",
+        "onboard_time": 1732418959,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158427,
+        "num": 158427,
+        "word": "这才是王楚钦的正手",
+        "onboard_time": 1732445839,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148907,
+        "num": 148907,
+        "word": "二刷好东西",
+        "onboard_time": 1732438820,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148226,
+        "num": 148226,
+        "word": "王曼昱4比3胜陈幸同",
+        "onboard_time": 1732440021,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147483,
+        "num": 147483,
+        "word": "仍有4尊圆明园兽首下落不明",
+        "onboard_time": 1732446740,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146797,
+        "num": 146797,
+        "word": "正直勇敢有阅读量",
+        "onboard_time": 1732438940,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137609,
+        "num": 137609,
+        "word": "张本智和最后一个发球没上台",
+        "onboard_time": 1732440321,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132172,
+        "num": 132172,
+        "word": "王楚钦总决赛夺冠",
+        "onboard_time": 1732434201,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129717,
+        "num": 129717,
+        "word": "王楚钦收获4万美元奖金1500积分",
+        "onboard_time": 1732437860,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129563,
+        "num": 129563,
+        "word": "俄军打击乌克兰军用机场",
+        "onboard_time": 1732446919,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128555,
+        "num": 128555,
+        "word": "盘点勇闯内娱的真千金",
+        "onboard_time": 1732435281,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126900,
+        "num": 126900,
+        "word": "在香港八旬老人参观长沙舰流泪",
+        "onboard_time": 1732446979,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 124082,
+        "num": 124082,
+        "word": "深入整治信息茧房",
+        "onboard_time": 1732445720,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}
