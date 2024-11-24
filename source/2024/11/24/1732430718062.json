@@ -1,0 +1,410 @@
+{
+  "runTime": 1732430718062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907898,
+        "num": 1145263,
+        "word": "蓝盈莹编辑微博共情李行亮",
+        "onboard_time": 1732424358,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615084,
+        "num": 615084,
+        "word": "昆明一民宿只接待18至26岁客人",
+        "onboard_time": 1732424957,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11725,
+        "num": 338543,
+        "word": "时间观里的大国外交",
+        "onboard_time": 1732418719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 719420,
+        "num": 333011,
+        "word": "没有退休金的父亲困在打零工里",
+        "onboard_time": 1732425258,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630863,
+        "num": 323660,
+        "word": "双关自曝",
+        "onboard_time": 1732427657,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307375,
+        "num": 307375,
+        "word": "12岁女孩被尾随热心司机拿撬棍保护",
+        "onboard_time": 1732412658,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 492164,
+        "num": 307227,
+        "word": "鹿晗 给我干哪年来了",
+        "onboard_time": 1732413000,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18125,
+        "num": 306812,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1732430658,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43928,
+        "num": 306698,
+        "word": "王楚钦球迷自发维持赛场秩序",
+        "onboard_time": 1732424118,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253400,
+        "num": 306416,
+        "word": "警方通报派出所人员殴打小学生",
+        "onboard_time": 1732429997,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 301792,
+        "num": 306051,
+        "word": "海南被实名举报县委副书记落马",
+        "onboard_time": 1732424478,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342979,
+        "num": 305765,
+        "word": "王安宇蹦极沈腾看哭了",
+        "onboard_time": 1732421597,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1065041,
+        "num": 305458,
+        "word": "媒体评前体操冠军当性感网红",
+        "onboard_time": 1732419797,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593468,
+        "num": 305029,
+        "word": "羊毛月一夜掉粉近22万",
+        "onboard_time": 1732418959,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 371665,
+        "num": 304954,
+        "word": "张本智和说冠军和一轮游都能活",
+        "onboard_time": 1732426698,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304687,
+        "num": 304687,
+        "word": "王楚钦11次对阵张本智和取得8胜",
+        "onboard_time": 1732426637,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302487,
+        "num": 302487,
+        "word": "林一沈月 海外两个头很大的人",
+        "onboard_time": 1732426038,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302056,
+        "num": 302056,
+        "word": "秦霄贤回应近期舆论",
+        "onboard_time": 1732420397,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175942,
+        "num": 246420,
+        "word": "奔跑吧接梗全是已读乱回",
+        "onboard_time": 1732429339,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11563,
+        "num": 241875,
+        "word": "邓亚萍说勒布伦兄弟很坚韧",
+        "onboard_time": 1732430177,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238023,
+        "num": 238023,
+        "word": "金敏绪 首尔流浪女",
+        "onboard_time": 1732405455,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237334,
+        "num": 237334,
+        "word": "严浩翔一想到自己要干什么就想笑",
+        "onboard_time": 1732429097,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227799,
+        "num": 227799,
+        "word": "王楚钦说张本智和赢得不容易",
+        "onboard_time": 1732412177,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99119,
+        "num": 227542,
+        "word": "丁禹兮平衡感态度大片",
+        "onboard_time": 1732430598,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23562,
+        "num": 215525,
+        "word": "2024年国际乒联世青赛",
+        "onboard_time": 1732429219,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119141,
+        "num": 212737,
+        "word": "邓亚萍呼吁不要捧杀也不要打杀",
+        "onboard_time": 1732429339,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25655,
+        "num": 207289,
+        "word": "在乌镇峰会畅聊中国互联网30年",
+        "onboard_time": 1732419078,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 202626,
+        "num": 202626,
+        "word": "倒在铁轨上的25岁机械师",
+        "onboard_time": 1732429578,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199545,
+        "num": 199545,
+        "word": "太好了这个编剧真的上过班",
+        "onboard_time": 1732426937,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161124,
+        "num": 192549,
+        "word": "斗罗大陆2三对cp一个steve",
+        "onboard_time": 1732430417,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191128,
+        "num": 191128,
+        "word": "肖战MV不要回头",
+        "onboard_time": 1732429517,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174861,
+        "num": 174861,
+        "word": "为什么女生比男生更怕冷",
+        "onboard_time": 1732429878,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160618,
+        "num": 160618,
+        "word": "向佐露脐装",
+        "onboard_time": 1732418838,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155124,
+        "num": 155124,
+        "word": "许嵩 福州的人都是有福之人",
+        "onboard_time": 1732430358,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138793,
+        "num": 138793,
+        "word": "男子骑行疑被刮倒后遭车碾压身亡",
+        "onboard_time": 1732413618,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 161449,
+        "num": 138492,
+        "word": "肖战无袖肌肉线条",
+        "onboard_time": 1732429157,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135873,
+        "num": 135873,
+        "word": "关晓彤费加罗十一月刊封面预告",
+        "onboard_time": 1732426698,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134742,
+        "num": 134742,
+        "word": "保时捷 货拉拉",
+        "onboard_time": 1732372161,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133692,
+        "num": 133692,
+        "word": "马苏素颜冻疮妆哭戏",
+        "onboard_time": 1732428618,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124516,
+        "num": 124516,
+        "word": "妙妙子期系铃铛",
+        "onboard_time": 1732427598,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123002,
+        "num": 123002,
+        "word": "用人民币感受日本工资水平",
+        "onboard_time": 1732412177,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122502,
+        "num": 122502,
+        "word": "丁禹兮杂志",
+        "onboard_time": 1732421479,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120642,
+        "num": 120642,
+        "word": "好东西 三个女孩三句台词",
+        "onboard_time": 1732430058,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119679,
+        "num": 119679,
+        "word": "金晨王安宇双人拉丁",
+        "onboard_time": 1732428377,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114143,
+        "num": 114143,
+        "word": "宋佳晒王铁梅大学课表",
+        "onboard_time": 1732430237,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113708,
+        "num": 113708,
+        "word": "民宿回应只接待18至26岁客人",
+        "onboard_time": 1732428916,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111683,
+        "num": 111683,
+        "word": "掌握型恋爱让人好窒息",
+        "onboard_time": 1732429757,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111524,
+        "num": 111524,
+        "word": "C位果然有C位的道理",
+        "onboard_time": 1732417519,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109910,
+        "num": 109910,
+        "word": "黎以冲突",
+        "onboard_time": 1732427777,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109840,
+        "num": 109840,
+        "word": "蛋糕店把配料成本全标在产品上",
+        "onboard_time": 1732412658,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行高光时刻#"
+    }
+  }
+}
