@@ -1,7 +1,15 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732405069761,
+  "endTime": 1732413212851,
   "band_list": [
+    {
+      "raw_hot": 1474845,
+      "num": 1474845,
+      "word": "前体操冠军吴柳芳擦边争议后发声",
+      "onboard_time": 1732411156,
+      "rank": 0,
+      "category": "体育,网红"
+    },
     {
       "raw_hot": 1322682,
       "num": 1322682,
@@ -9,6 +17,30 @@
       "onboard_time": 1732372161,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1113485,
+      "num": 1113485,
+      "word": "王楚钦说张本智和赢得很狼狈",
+      "onboard_time": 1732412177,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1036841,
+      "num": 364901,
+      "word": "羊毛月道歉",
+      "onboard_time": 1732411877,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 931701,
+      "num": 931701,
+      "word": "考上公务员和考上985哪个厉害",
+      "onboard_time": 1732406956,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 791088,
@@ -35,12 +67,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 650914,
+      "num": 348625,
+      "word": "金敏绪 首尔流浪女",
+      "onboard_time": 1732405455,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 629182,
+      "num": 629182,
+      "word": "石破茂回应中国对日本恢复免签",
+      "onboard_time": 1732412177,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 623392,
       "num": 286872,
       "word": "乔欣无名指戒指",
       "onboard_time": 1732377379,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546383,
+      "num": 340195,
+      "word": "用人民币感受日本工资水平",
+      "onboard_time": 1732412177,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 526496,
@@ -73,6 +129,14 @@
       "onboard_time": 1732379117,
       "rank": 24,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 411113,
+      "num": 411113,
+      "word": "素人为参加节目瘦20斤",
+      "onboard_time": 1732412177,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 399244,
@@ -115,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 366630,
+      "num": 366630,
+      "word": "保时捷公开道歉",
+      "onboard_time": 1732406535,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 356938,
       "num": 264115,
       "word": "丁禹兮超话热度爆了",
@@ -131,6 +203,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 323181,
+      "num": 323181,
+      "word": "权志龙只需稍微出手",
+      "onboard_time": 1732404133,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 318772,
+      "num": 318772,
+      "word": "人贩子抱走孩子伎俩曝光",
+      "onboard_time": 1732405635,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306178,
       "num": 271384,
       "word": "官方回应潮州大量商户关门传闻",
@@ -140,7 +228,7 @@
     },
     {
       "raw_hot": 302065,
-      "num": 190625,
+      "num": 218365,
       "word": "独生女婚后全款给父母买房难要回",
       "onboard_time": 1732369941,
       "rank": 21,
@@ -155,12 +243,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294483,
+      "num": 294483,
+      "word": "黎巴嫩首都居民睡梦中被炸醒",
+      "onboard_time": 1732408336,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 278497,
+      "num": 278497,
+      "word": "6万名牌包包落共享单车辗转3次硬是没丢",
+      "onboard_time": 1732404675,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269694,
+      "num": 269694,
+      "word": "全红婵被草莓熊硬控8秒",
+      "onboard_time": 1732409418,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259993,
       "num": 259993,
       "word": "王楚钦张本智和争冠",
       "onboard_time": 1732359622,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249864,
+      "num": 374791,
+      "word": "男子出租屋内种大麻结婚当天被抓",
+      "onboard_time": 1732412177,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233244,
+      "num": 233244,
+      "word": "哈尔滨中央大街铺上地毯了",
+      "onboard_time": 1732378279,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 230750,
@@ -171,20 +299,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 219550,
-      "num": 219550,
-      "word": "权志龙只需稍微出手",
-      "onboard_time": 1732404133,
-      "rank": 4,
-      "category": "演出"
-    },
-    {
       "raw_hot": 217347,
       "num": 269620,
       "word": "感冒都好了为什么还一直咳嗽",
       "onboard_time": 1732376121,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199690,
+      "num": 289767,
+      "word": "永夜星河 星光大赏",
+      "onboard_time": 1732411818,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194817,
+      "num": 194817,
+      "word": "12岁女孩被尾随热心司机拿撬棍保护",
+      "onboard_time": 1732412658,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 186598,
@@ -211,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178500,
+      "num": 178500,
+      "word": "宋慧乔43岁生日照",
+      "onboard_time": 1732385893,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172464,
       "num": 172464,
       "word": "难听",
@@ -225,14 +369,6 @@
       "onboard_time": 1732370781,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162385,
-      "num": 125866,
-      "word": "哈尔滨中央大街铺上地毯了",
-      "onboard_time": 1732378279,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 147131,
@@ -251,20 +387,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 144973,
-      "num": 144973,
-      "word": "宋慧乔43岁生日照",
-      "onboard_time": 1732385893,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143895,
       "num": 143895,
       "word": "好东西",
       "onboard_time": 1732339998,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141266,
+      "num": 141266,
+      "word": "原来爬树真的有全国比赛",
+      "onboard_time": 1732412658,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 140706,
+      "num": 142753,
+      "word": "鹿晗 给我干哪年来了",
+      "onboard_time": 1732413000,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 139824,
@@ -299,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130603,
+      "num": 130603,
+      "word": "睡眠不足身体会出现什么变化",
+      "onboard_time": 1732367360,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130488,
+      "num": 130488,
+      "word": "蛋糕店把配料成本全标在产品上",
+      "onboard_time": 1732412658,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125941,
       "num": 125941,
       "word": "林更新 本来挺开心的你给整下头了",
@@ -315,12 +475,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124401,
+      "num": 124401,
+      "word": "德约科维奇宣布新教练是穆雷",
+      "onboard_time": 1732408996,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122979,
+      "num": 122979,
+      "word": "香港市民打卡海南舰说希望福建舰也能来",
+      "onboard_time": 1732408996,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 122771,
       "num": 122771,
       "word": "虞书欣双轨黑长直造型",
       "onboard_time": 1732364721,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122543,
+      "num": 122543,
+      "word": "我国大部今起将先后降6到10度",
+      "onboard_time": 1732409656,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120633,
@@ -331,12 +515,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119389,
+      "num": 119389,
+      "word": "降温预报图逐渐冻到发紫",
+      "onboard_time": 1732408996,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116265,
       "num": 116265,
       "word": "沈月发长文告别失笑",
       "onboard_time": 1732379596,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113637,
+      "num": 113637,
+      "word": "网红湘妹子后悔没重视胃病",
+      "onboard_time": 1732403714,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112483,
+      "num": 112483,
+      "word": "十个勤天卡点为鹭卓庆生",
+      "onboard_time": 1732405515,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 111109,
@@ -355,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109500,
-      "num": 109500,
-      "word": "睡眠不足身体会出现什么变化",
-      "onboard_time": 1732367360,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 108238,
+      "num": 203166,
+      "word": "王楚钦说球迷是为了我好",
+      "onboard_time": 1732412237,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 108160,
@@ -369,6 +577,14 @@
       "onboard_time": 1732358000,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 106489,
+      "num": 106489,
+      "word": "让BIGBANG再次伟大",
+      "onboard_time": 1732412538,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 100944,
@@ -427,12 +643,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96137,
-      "num": 67147,
-      "word": "6万名牌包包落共享单车辗转3次硬是没丢",
-      "onboard_time": 1732404675,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 93359,
+      "num": 281580,
+      "word": "吴柳芳成擦边主播被怒斥",
+      "onboard_time": 1732412177,
+      "rank": 19,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 89195,
@@ -443,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87888,
+      "num": 87888,
+      "word": "闻一多诞辰125周年",
+      "onboard_time": 1732412717,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 87525,
       "num": 87525,
       "word": "菲副总统自爆如被害就找马科斯算账",
       "onboard_time": 1732367601,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84808,
+      "num": 84808,
+      "word": "严浩翔演唱会自拍vs他拍",
+      "onboard_time": 1732413197,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 81189,
@@ -481,6 +713,14 @@
       "onboard_time": 1732379238,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67428,
+      "num": 91471,
+      "word": "宋亚轩再跳怪美的",
+      "onboard_time": 1732411758,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 66891,
@@ -539,6 +779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 51970,
+      "num": 974907,
+      "word": "海南舰首次对公众开放",
+      "onboard_time": 1732366520,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 46770,
       "num": 46770,
       "word": "马嘉祺白西装飘纱",
@@ -577,14 +825,6 @@
       "onboard_time": 1732394831,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43472,
-      "num": 417051,
-      "word": "海南舰首次对公众开放",
-      "onboard_time": 1732366520,
-      "rank": 2,
-      "category": "军事"
     },
     {
       "raw_hot": 43210,
@@ -672,14 +912,6 @@
       "word": "贫困生改变境遇后仍被资助才是问题",
       "onboard_time": 1732400531,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33362,
-      "num": 38189,
-      "word": "网红湘妹子后悔没重视胃病",
-      "onboard_time": 1732403714,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
