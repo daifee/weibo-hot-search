@@ -1,0 +1,410 @@
+{
+  "runTime": 1732432932895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1453359,
+        "num": 1453359,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1732430658,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1356235,
+        "num": 1356235,
+        "word": "警方通报派出所人员殴打小学生",
+        "onboard_time": 1732429997,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 19168,
+        "num": 873140,
+        "word": "时间观里的大国外交",
+        "onboard_time": 1732418719,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 663334,
+        "num": 663334,
+        "word": "蓝盈莹编辑微博共情李行亮",
+        "onboard_time": 1732424358,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516242,
+        "num": 516242,
+        "word": "倒在铁轨上的25岁机械师",
+        "onboard_time": 1732429578,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778814,
+        "num": 511453,
+        "word": "没有退休金的父亲困在打零工里",
+        "onboard_time": 1732425258,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492708,
+        "num": 492708,
+        "word": "虞书欣连喊11声慕声",
+        "onboard_time": 1732432458,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472513,
+        "num": 472513,
+        "word": "鹿晗 给我干哪年来了",
+        "onboard_time": 1732413000,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148634,
+        "num": 444593,
+        "word": "老人学芭蕾一边立脚尖一边做家务",
+        "onboard_time": 1732431617,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6021,
+        "num": 443126,
+        "word": "王楚钦开场连得10分",
+        "onboard_time": 1732432818,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507313,
+        "num": 442973,
+        "word": "羊毛月一夜掉粉近22万",
+        "onboard_time": 1732418959,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 442798,
+        "num": 442798,
+        "word": "双关自曝",
+        "onboard_time": 1732427657,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364056,
+        "num": 364056,
+        "word": "昆明一民宿只接待18至26岁客人",
+        "onboard_time": 1732424957,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356225,
+        "num": 356225,
+        "word": "张本智和说冠军和一轮游都能活",
+        "onboard_time": 1732426698,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272134,
+        "num": 272134,
+        "word": "王安宇蹦极沈腾看哭了",
+        "onboard_time": 1732421597,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267519,
+        "num": 267519,
+        "word": "秦霄贤回应近期舆论",
+        "onboard_time": 1732420397,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230159,
+        "num": 230159,
+        "word": "王楚钦11次对阵张本智和取得8胜",
+        "onboard_time": 1732426637,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229559,
+        "num": 229559,
+        "word": "丁禹兮平衡感态度大片",
+        "onboard_time": 1732430598,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24251,
+        "num": 213511,
+        "word": "好东西 愿女性能开启新的游戏",
+        "onboard_time": 1732431918,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210550,
+        "num": 210550,
+        "word": "12岁女孩被尾随热心司机拿撬棍保护",
+        "onboard_time": 1732412658,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 216467,
+        "num": 208381,
+        "word": "严浩翔一想到自己要干什么就想笑",
+        "onboard_time": 1732429097,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204850,
+        "num": 204850,
+        "word": "林一沈月 海外两个头很大的人",
+        "onboard_time": 1732426038,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191422,
+        "num": 191422,
+        "word": "邓超 最好的小鹿",
+        "onboard_time": 1732432458,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166474,
+        "num": 166474,
+        "word": "旺旺高管再发文",
+        "onboard_time": 1732427898,
+        "rank": 23,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 20119,
+        "num": 151523,
+        "word": "Uzi用imp老鼠皮肤",
+        "onboard_time": 1732432278,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109125,
+        "num": 150746,
+        "word": "WTT总决赛场馆外大排长龙",
+        "onboard_time": 1732431558,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150590,
+        "num": 150590,
+        "word": "院人版晚安大小姐",
+        "onboard_time": 1732432519,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145493,
+        "num": 145493,
+        "word": "金敏绪 首尔流浪女",
+        "onboard_time": 1732405455,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137941,
+        "num": 137941,
+        "word": "太好了这个编剧真的上过班",
+        "onboard_time": 1732426937,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137179,
+        "num": 137179,
+        "word": "肖战无袖肌肉线条",
+        "onboard_time": 1732429157,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128146,
+        "num": 128146,
+        "word": "王楚钦说张本智和赢得不容易",
+        "onboard_time": 1732412177,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195518,
+        "num": 127236,
+        "word": "海南被实名举报县委副书记落马",
+        "onboard_time": 1732424478,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125777,
+        "num": 125777,
+        "word": "F1拉斯维加斯大奖赛",
+        "onboard_time": 1732432637,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123068,
+        "num": 123068,
+        "word": "王俊凯纯白针织套装",
+        "onboard_time": 1732432818,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112229,
+        "num": 112229,
+        "word": "金晨王安宇双人拉丁",
+        "onboard_time": 1732428377,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110440,
+        "num": 110440,
+        "word": "黎以冲突",
+        "onboard_time": 1732427777,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109441,
+        "num": 109441,
+        "word": "肖战MV不要回头",
+        "onboard_time": 1732429517,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108095,
+        "num": 108095,
+        "word": "向佐露脐装",
+        "onboard_time": 1732418838,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107728,
+        "num": 107728,
+        "word": "奔跑吧接梗全是已读乱回",
+        "onboard_time": 1732429339,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107338,
+        "num": 107338,
+        "word": "AG瓦糕大作战",
+        "onboard_time": 1732432878,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100812,
+        "num": 100812,
+        "word": "C位果然有C位的道理",
+        "onboard_time": 1732417519,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100559,
+        "num": 100559,
+        "word": "男子骑行疑被刮倒后遭车碾压身亡",
+        "onboard_time": 1732413618,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 100457,
+        "num": 100457,
+        "word": "邓亚萍呼吁不要捧杀也不要打杀",
+        "onboard_time": 1732429339,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97760,
+        "num": 97760,
+        "word": "白夜破晓 逻辑性",
+        "onboard_time": 1732432098,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97207,
+        "num": 97207,
+        "word": "Duan怒喷yuyanjia",
+        "onboard_time": 1732429097,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93776,
+        "num": 93776,
+        "word": "妙妙子期系铃铛",
+        "onboard_time": 1732427598,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93622,
+        "num": 93622,
+        "word": "宋佳晒王铁梅大学课表",
+        "onboard_time": 1732430237,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91418,
+        "num": 91418,
+        "word": "蛋糕店把配料成本全标在产品上",
+        "onboard_time": 1732412658,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91247,
+        "num": 91247,
+        "word": "关晓彤费加罗十一月刊封面预告",
+        "onboard_time": 1732426698,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 90987,
+        "num": 90987,
+        "word": "斗罗大陆2三对cp一个steve",
+        "onboard_time": 1732430417,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行高光时刻#"
+    }
+  }
+}
