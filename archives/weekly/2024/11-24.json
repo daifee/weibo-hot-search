@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732562367120,
+  "endTime": 1732563348897,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -7227,6 +7227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32875,
+      "num": 32875,
+      "word": "一架货机在立陶宛坠毁",
+      "onboard_time": 1732559413,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32370,
       "num": 32370,
       "word": "伊普斯维奇vs曼联",
@@ -7363,14 +7371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28826,
-      "num": 31430,
-      "word": "一架货机在立陶宛坠毁",
-      "onboard_time": 1732559413,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28761,
       "num": 31459,
       "word": "失笑 女性向",
@@ -7401,6 +7401,14 @@
       "onboard_time": 1732547060,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27728,
+      "num": 37402,
+      "word": "劣质羽绒服不能保暖还危害身体健康",
+      "onboard_time": 1732559652,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27634,
@@ -7585,14 +7593,6 @@
       "onboard_time": 1732429219,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23467,
-      "num": 37402,
-      "word": "劣质羽绒服不能保暖还危害身体健康",
-      "onboard_time": 1732559652,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22853,
@@ -7891,6 +7891,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12860,
+      "num": 28767,
+      "word": "天津广播电视塔点亮送别叶嘉莹",
+      "onboard_time": 1732561811,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12619,
+      "num": 17337,
+      "word": "警方通报男子用充电宝敲击他人头部",
+      "onboard_time": 1732562830,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 12503,
+      "num": 17333,
+      "word": "王楚钦找回内心充斥自信的自己",
+      "onboard_time": 1732562413,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12299,
       "num": 1041078,
       "word": "寒潮频繁出现是冷冬要来了吗",
@@ -7953,14 +7977,6 @@
       "onboard_time": 1732430177,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11550,
-      "num": 28767,
-      "word": "天津广播电视塔点亮送别叶嘉莹",
-      "onboard_time": 1732561811,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11432,
