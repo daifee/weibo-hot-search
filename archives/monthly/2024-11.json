@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732538772690,
+  "endTime": 1732539744522,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3948,7 +3948,7 @@
     },
     {
       "raw_hot": 1182160,
-      "num": 398876,
+      "num": 775443,
       "word": "Angelababy大秀状态",
       "onboard_time": 1732536259,
       "rank": 3,
@@ -7115,6 +7115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843503,
+      "num": 843503,
+      "word": "野猪撕咬老人3条大狗不敢上前",
+      "onboard_time": 1732537880,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 843478,
       "num": 843478,
       "word": "撞上劳斯莱斯的货车只有100万保险",
@@ -8217,6 +8225,14 @@
       "onboard_time": 1731150257,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 772817,
+      "num": 772817,
+      "word": "多地网友给殴打小学生副所长寄锦旗",
+      "onboard_time": 1732534278,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 772578,
@@ -9665,14 +9681,6 @@
       "onboard_time": 1731760640,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 690486,
-      "num": 690486,
-      "word": "多地网友给殴打小学生副所长寄锦旗",
-      "onboard_time": 1732534278,
-      "rank": 46,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 689967,
@@ -15259,6 +15267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489783,
+      "num": 292039,
+      "word": "虞书欣工作室",
+      "onboard_time": 1730555660,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489318,
       "num": 489318,
       "word": "上海住房公积金新政实施",
@@ -15268,7 +15284,7 @@
     },
     {
       "raw_hot": 489117,
-      "num": 197643,
+      "num": 291564,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
       "onboard_time": 1732537040,
       "rank": 30,
@@ -16849,6 +16865,14 @@
       "onboard_time": 1731156018,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442727,
+      "num": 299257,
+      "word": "斗罗2第一集唐昊救场名场面",
+      "onboard_time": 1732537940,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 442511,
@@ -22651,14 +22675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316206,
-      "num": 288496,
-      "word": "虞书欣工作室",
-      "onboard_time": 1730555660,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 316176,
       "num": 259557,
       "word": "永夜星河 月光变奏曲",
@@ -24185,14 +24201,6 @@
       "onboard_time": 1730959099,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293673,
-      "num": 293673,
-      "word": "野猪撕咬老人3条大狗不敢上前",
-      "onboard_time": 1732537880,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293655,
@@ -28347,6 +28355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244953,
+      "num": 244953,
+      "word": "考研学不进去的人在干嘛",
+      "onboard_time": 1732538060,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244863,
       "num": 253562,
       "word": "神舟飞船5次落在我们家草场",
@@ -31825,14 +31841,6 @@
       "onboard_time": 1732368082,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 214988,
-      "num": 251272,
-      "word": "斗罗2第一集唐昊救场名场面",
-      "onboard_time": 1732537940,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 214967,
@@ -38787,6 +38795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187393,
+      "num": 249583,
+      "word": "张云雷直播吃减脂餐",
+      "onboard_time": 1732538600,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187364,
       "num": 358893,
       "word": "王一博上榜全球最具影响力人物",
@@ -39305,6 +39321,14 @@
       "onboard_time": 1731070520,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185174,
+      "num": 185174,
+      "word": "孔雪儿韩剧女主氛围",
+      "onboard_time": 1732538660,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 185131,
@@ -39873,6 +39897,14 @@
       "onboard_time": 1732531578,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182959,
+      "num": 279508,
+      "word": "孙颖莎女子单打赛事冠军榜第一",
+      "onboard_time": 1732538241,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 182943,
@@ -44619,14 +44651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164588,
-      "num": 164588,
-      "word": "考研学不进去的人在干嘛",
-      "onboard_time": 1732538060,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164573,
       "num": 315388,
       "word": "失笑",
@@ -49275,6 +49299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149326,
+      "num": 149326,
+      "word": "Selina带儿子给妹妹庆生",
+      "onboard_time": 1732539140,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149322,
       "num": 261594,
       "word": "李子柒回应被各地文旅邀请",
@@ -50155,6 +50187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146218,
+      "num": 163753,
+      "word": "Angelababy单肩开叉黑裙",
+      "onboard_time": 1732538179,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146212,
       "num": 146212,
       "word": "蒯曼3比1金娜英",
@@ -50593,14 +50633,6 @@
       "onboard_time": 1730552660,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144502,
-      "num": 163753,
-      "word": "Angelababy单肩开叉黑裙",
-      "onboard_time": 1732538179,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144495,
@@ -51105,14 +51137,6 @@
       "onboard_time": 1730768299,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142510,
-      "num": 279508,
-      "word": "孙颖莎女子单打赛事冠军榜第一",
-      "onboard_time": 1732538241,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 142504,
@@ -52825,14 +52849,6 @@
       "onboard_time": 1731069559,
       "rank": 48,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 136286,
-      "num": 136286,
-      "word": "孔雪儿韩剧女主氛围",
-      "onboard_time": 1732538660,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 136285,
@@ -57579,6 +57595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118600,
+      "num": 233267,
+      "word": "野猪咬死老人当地半年猎捕野猪113头",
+      "onboard_time": 1732536860,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118589,
       "num": 118589,
       "word": "台湾前舰长逛航展后哽咽",
@@ -57819,6 +57843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117502,
+      "num": 117502,
+      "word": "Uzi队老头杯被零封",
+      "onboard_time": 1732536620,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117494,
       "num": 325452,
       "word": "歼35A高清壁纸来了",
@@ -57905,14 +57937,6 @@
       "onboard_time": 1730502134,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117116,
-      "num": 117116,
-      "word": "Uzi队老头杯被零封",
-      "onboard_time": 1732536620,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 117106,
@@ -58043,14 +58067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116675,
-      "num": 233267,
-      "word": "野猪咬死老人当地半年猎捕野猪113头",
-      "onboard_time": 1732536860,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116665,
       "num": 116665,
       "word": "梦花廷",
@@ -58105,6 +58121,14 @@
       "onboard_time": 1732451362,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116427,
+      "num": 116427,
+      "word": "前反腐官员被网约车司机认出免单",
+      "onboard_time": 1732539501,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116403,
@@ -63553,6 +63577,14 @@
       "onboard_time": 1730512157,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87713,
+      "num": 293120,
+      "word": "野猪在我国分布情况如何",
+      "onboard_time": 1732538780,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87711,
@@ -69043,6 +69075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57989,
+      "num": 251786,
+      "word": "潘展乐跳新疆舞",
+      "onboard_time": 1732538840,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57960,
       "num": 679794,
       "word": "魏哲鸣摩登大片人夫感的神",
@@ -69441,14 +69481,6 @@
       "onboard_time": 1731837918,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56145,
-      "num": 246389,
-      "word": "张云雷直播吃减脂餐",
-      "onboard_time": 1732538600,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 56139,
@@ -72323,6 +72355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45085,
+      "num": 244868,
+      "word": "OPPO蝶蝶紫",
+      "onboard_time": 1732534699,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45081,
       "num": 183581,
       "word": "Faker单杀",
@@ -74027,14 +74067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39549,
-      "num": 244868,
-      "word": "OPPO蝶蝶紫",
-      "onboard_time": 1732534699,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 39485,
       "num": 230373,
       "word": "武汉一大学内惊现野猪狂奔",
@@ -75547,6 +75579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35304,
+      "num": 776641,
+      "word": "神十九乘组太空出差生活",
+      "onboard_time": 1732521740,
+      "rank": 2,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 35299,
       "num": 278865,
       "word": "迎接叶光富李聪李广苏回家",
@@ -75665,6 +75705,14 @@
       "onboard_time": 1732404974,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34820,
+      "num": 204720,
+      "word": "宋雨琦的Live图是Tim拍的",
+      "onboard_time": 1732538840,
+      "rank": 25,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 34789,
@@ -76777,14 +76825,6 @@
       "onboard_time": 1730920211,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32147,
-      "num": 428860,
-      "word": "神十九乘组太空出差生活",
-      "onboard_time": 1732521740,
-      "rank": 2,
-      "category": "科学科普"
     },
     {
       "raw_hot": 32145,
@@ -83579,6 +83619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15416,
+      "num": 246154,
+      "word": "森林狼vs凯尔特人",
+      "onboard_time": 1732538241,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15400,
       "num": 182529,
       "word": "进博会现场机器狗为记者送祝福",
@@ -85707,14 +85755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8948,
-      "num": 246154,
-      "word": "森林狼vs凯尔特人",
-      "onboard_time": 1732538241,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 8791,
       "num": 172008,
       "word": "何与风度Young十一月刊封面",
@@ -86779,6 +86819,9 @@
     },
     {
       "word": "#习近平拉美之行的六个瞬间#"
+    },
+    {
+      "word": "#解码中华文化基因#"
     }
   ]
 }
