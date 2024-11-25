@@ -1,0 +1,410 @@
+{
+  "runTime": 1732541551805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590733,
+        "num": 1590733,
+        "word": "野猪撕咬老人3条大狗不敢上前",
+        "onboard_time": 1732537880,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 947034,
+        "num": 947034,
+        "word": "Angelababy大秀状态",
+        "onboard_time": 1732536259,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 12689,
+        "num": 608350,
+        "word": "第二届链博会亮点抢先看",
+        "onboard_time": 1732540219,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336958,
+        "num": 336958,
+        "word": "斗罗2第一集唐昊救场名场面",
+        "onboard_time": 1732537940,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313903,
+        "num": 313903,
+        "word": "江浙沪人是先天留学圣体吧",
+        "onboard_time": 1732532360,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296579,
+        "num": 296579,
+        "word": "有家暴倾向的人大多有13个特征",
+        "onboard_time": 1732523358,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 290169,
+        "num": 290169,
+        "word": "野猪咬死老人当地半年猎捕野猪113头",
+        "onboard_time": 1732536860,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259030,
+        "num": 259030,
+        "word": "徐梦洁发了400宫格",
+        "onboard_time": 1732530798,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139926,
+        "num": 258529,
+        "word": "潘展乐等11位奥运冠军抵达新疆",
+        "onboard_time": 1732526420,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85443,
+        "num": 256485,
+        "word": "官方辟谣汕头大量商户为躲检查停业",
+        "onboard_time": 1732539859,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1681758,
+        "num": 254909,
+        "word": "警方通报王宝强被举报涉嫌诈骗",
+        "onboard_time": 1732535419,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197421,
+        "num": 253956,
+        "word": "蔡徐坤雪中撑伞",
+        "onboard_time": 1732540521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853969,
+        "num": 251669,
+        "word": "鹿晗一捯饬内娱天亮了",
+        "onboard_time": 1732523960,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 713207,
+        "num": 250870,
+        "word": "多地网友给殴打小学生副所长寄锦旗",
+        "onboard_time": 1732534278,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26907,
+        "num": 248815,
+        "word": "博主3家店铺买银器2家检测不含银",
+        "onboard_time": 1732541120,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39815,
+        "num": 247314,
+        "word": "宋雨琦的Live图是Tim拍的",
+        "onboard_time": 1732538840,
+        "rank": 15,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 122545,
+        "num": 246752,
+        "word": "祝绪丹直播",
+        "onboard_time": 1732539080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75426,
+        "num": 244758,
+        "word": "货拉拉司机回应600元搬运费质疑",
+        "onboard_time": 1732541360,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126237,
+        "num": 243622,
+        "word": "陈伟霆稳坐女儿奴赛道",
+        "onboard_time": 1732540160,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39731,
+        "num": 242165,
+        "word": "麦琪啦假神药卖得飞起不能没人管",
+        "onboard_time": 1732540040,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 222588,
+        "num": 239757,
+        "word": "孙颖莎女子单打赛事冠军榜第一",
+        "onboard_time": 1732538241,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683138,
+        "num": 238345,
+        "word": "虞书欣工作室",
+        "onboard_time": 1732537761,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640399,
+        "num": 238025,
+        "word": "TF四代魏子宸被校园霸凌",
+        "onboard_time": 1732521260,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565387,
+        "num": 236756,
+        "word": "羊毛月 猫一杯",
+        "onboard_time": 1732523479,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161045,
+        "num": 234383,
+        "word": "货拉拉称确实接到了投诉",
+        "onboard_time": 1732534159,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508225,
+        "num": 233157,
+        "word": "立陶宛称寻求与中国全面恢复外交关系",
+        "onboard_time": 1732537040,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412063,
+        "num": 231384,
+        "word": "如何看待副所长殴打小学生被送锦旗",
+        "onboard_time": 1732534638,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 359209,
+        "num": 230782,
+        "word": "2岁儿童在地下车库玩被车碾压致死",
+        "onboard_time": 1732519398,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283072,
+        "num": 228042,
+        "word": "考研学不进去的人在干嘛",
+        "onboard_time": 1732538060,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65240,
+        "num": 227396,
+        "word": "拒绝上学门诊开设5个月接诊4000人",
+        "onboard_time": 1732540340,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226385,
+        "num": 226385,
+        "word": "货拉拉发布情况说明",
+        "onboard_time": 1732533858,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217978,
+        "num": 217978,
+        "word": "李行亮麦琳全是情绪问题",
+        "onboard_time": 1732532539,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145762,
+        "num": 214686,
+        "word": "工作室给网友发与赵露思合照",
+        "onboard_time": 1732540700,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214623,
+        "num": 214623,
+        "word": "全红婵评论王楚钦",
+        "onboard_time": 1732533079,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190594,
+        "num": 190594,
+        "word": "野猪在我国分布情况如何",
+        "onboard_time": 1732538780,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188576,
+        "num": 188576,
+        "word": "Selina带儿子给妹妹庆生",
+        "onboard_time": 1732539140,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157695,
+        "num": 175912,
+        "word": "李一桐点痣了",
+        "onboard_time": 1732522279,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163296,
+        "num": 172609,
+        "word": "这就是二代爱豆权志龙",
+        "onboard_time": 1732540700,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170240,
+        "num": 170240,
+        "word": "上班后微信不敢乱取名字了",
+        "onboard_time": 1732520779,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166237,
+        "num": 166237,
+        "word": "关晓彤一天穿了四套高定",
+        "onboard_time": 1732525279,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 165610,
+        "num": 165610,
+        "word": "高级幼师徐艺洋全年无休",
+        "onboard_time": 1732523421,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160258,
+        "num": 160258,
+        "word": "丁禹兮进组南部档案",
+        "onboard_time": 1732538720,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156452,
+        "num": 156452,
+        "word": "爱奇艺尖叫之夜阵容名单首发",
+        "onboard_time": 1732530080,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151811,
+        "num": 151811,
+        "word": "孙怡拍的女儿背影",
+        "onboard_time": 1732533799,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151139,
+        "num": 151139,
+        "word": "孔雪儿韩剧女主氛围",
+        "onboard_time": 1732538660,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147028,
+        "num": 147028,
+        "word": "今屿道歉",
+        "onboard_time": 1732535299,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146075,
+        "num": 146075,
+        "word": "女子杀害家暴丈夫获子女和公婆谅解",
+        "onboard_time": 1732529598,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139513,
+        "num": 139513,
+        "word": "羊毛月和猫一杯疑似情侣",
+        "onboard_time": 1732539800,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138103,
+        "num": 138103,
+        "word": "狗 快别拍了我有点尴尬",
+        "onboard_time": 1732539320,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130875,
+        "num": 130875,
+        "word": "魏子宸",
+        "onboard_time": 1732519458,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快推动网络空间创新发展安全发展普惠发展#"
+    }
+  }
+}
