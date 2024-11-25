@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732552197051,
+  "endTime": 1732553173122,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -3579,6 +3579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179057,
+      "num": 400026,
+      "word": "高校回应学生因白事请假被拦",
+      "onboard_time": 1732542920,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 178500,
       "num": 178500,
       "word": "宋慧乔43岁生日照",
@@ -3609,14 +3617,6 @@
       "onboard_time": 1732440321,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176832,
-      "num": 400026,
-      "word": "高校回应学生因白事请假被拦",
-      "onboard_time": 1732542920,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 176778,
@@ -6235,6 +6235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69360,
+      "num": 94573,
+      "word": "5种值得警惕的精神冷暴力",
+      "onboard_time": 1732551078,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69293,
       "num": 217591,
       "word": "轮到沙溢让李晨少吃点",
@@ -6275,6 +6283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66938,
+      "num": 66938,
+      "word": "就算何猷君真的来了也得输吧",
+      "onboard_time": 1732552756,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66930,
       "num": 532886,
       "word": "一人一句祝贺王楚钦夺冠",
@@ -6297,14 +6313,6 @@
       "onboard_time": 1732382295,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66742,
-      "num": 66742,
-      "word": "5种值得警惕的精神冷暴力",
-      "onboard_time": 1732551078,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66396,
@@ -6939,6 +6947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41633,
+      "num": 47028,
+      "word": "十个勤天种下一个未来巡回演唱会",
+      "onboard_time": 1732549819,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 41402,
       "num": 378688,
       "word": "荣耀300杨洋虞书欣同款旅拍神器",
@@ -6953,6 +6969,14 @@
       "onboard_time": 1732443979,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40849,
+      "num": 47026,
+      "word": "鹿晗音乐节背影照",
+      "onboard_time": 1732553055,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 40349,
@@ -7041,6 +7065,14 @@
       "onboard_time": 1732468634,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37477,
+      "num": 94906,
+      "word": "SHUN理成张",
+      "onboard_time": 1732552396,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 37448,
@@ -7633,6 +7665,14 @@
       "onboard_time": 1732529838,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 16773,
+      "num": 92303,
+      "word": "云顶之弈",
+      "onboard_time": 1732545201,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 16070,
