@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732513266360,
+  "endTime": 1732516416947,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1730796322,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2115596,
+      "num": 302026,
+      "word": "网易云音乐发长文称QQ音乐抄袭",
+      "onboard_time": 1732512858,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 2113551,
@@ -12755,6 +12763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560496,
+      "num": 338834,
+      "word": "张本智和说只和妹妹配合打混双",
+      "onboard_time": 1732512260,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559944,
       "num": 351884,
       "word": "于正曝演员因粉丝抵制剧本而睡不着",
@@ -13073,6 +13089,14 @@
       "onboard_time": 1732429578,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548473,
+      "num": 295988,
+      "word": "辛雨锡 秦霄贤",
+      "onboard_time": 1732512379,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 548170,
@@ -13817,6 +13841,14 @@
       "onboard_time": 1731557783,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 525816,
+      "num": 525816,
+      "word": "发型师晓华已经在为流量退去做准备",
+      "onboard_time": 1732512979,
+      "rank": 6,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 525600,
@@ -15433,14 +15465,6 @@
       "onboard_time": 1731750978,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474863,
-      "num": 474863,
-      "word": "发型师晓华已经在为流量退去做准备",
-      "onboard_time": 1732512979,
-      "rank": 6,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 474822,
@@ -21099,14 +21123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338834,
-      "num": 338834,
-      "word": "张本智和说只和妹妹配合打混双",
-      "onboard_time": 1732512260,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338760,
       "num": 338760,
       "word": "外交部称尊重美国人民的选择",
@@ -21321,6 +21337,14 @@
       "onboard_time": 1730773999,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 335314,
+      "num": 335314,
+      "word": "丁禹兮预售秒切10000册",
+      "onboard_time": 1732512979,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 334946,
@@ -21609,6 +21633,14 @@
       "onboard_time": 1730956101,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329288,
+      "num": 291744,
+      "word": "3男子19元点外卖吃霸王餐一个月",
+      "onboard_time": 1732515197,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329211,
@@ -22699,6 +22731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309902,
+      "num": 309902,
+      "word": "景甜手术后复工",
+      "onboard_time": 1732512199,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309691,
       "num": 309691,
       "word": "王昶 讹梁伟铿一顿饭是免不了",
@@ -23627,14 +23667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 295232,
-      "num": 295232,
-      "word": "辛雨锡 秦霄贤",
-      "onboard_time": 1732512379,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295222,
       "num": 295222,
       "word": "美国两州率先结束大选投票",
@@ -23889,6 +23921,14 @@
       "onboard_time": 1731935541,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291635,
+      "num": 291635,
+      "word": "泰山下暴雪了",
+      "onboard_time": 1732515497,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291435,
@@ -27193,6 +27233,14 @@
       "onboard_time": 1731132799,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252017,
+      "num": 292211,
+      "word": "韩国人有自己的S级短剧",
+      "onboard_time": 1732515079,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 251869,
@@ -30963,6 +31011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218126,
+      "num": 292114,
+      "word": "张远疑似失去所有力气和手段",
+      "onboard_time": 1732515259,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218031,
       "num": 218031,
       "word": "肖战把自己的画拍成了MV",
@@ -31017,14 +31073,6 @@
       "onboard_time": 1731921439,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217368,
-      "num": 202863,
-      "word": "网易云音乐发长文称QQ音乐抄袭",
-      "onboard_time": 1732512858,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 217366,
@@ -31273,14 +31321,6 @@
       "onboard_time": 1731423803,
       "rank": 9,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 215310,
-      "num": 272044,
-      "word": "景甜手术后复工",
-      "onboard_time": 1732512199,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 215247,
@@ -34627,14 +34667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199863,
-      "num": 199863,
-      "word": "丁禹兮预售秒切10000册",
-      "onboard_time": 1732512979,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199830,
       "num": 461871,
       "word": "时代少年团养成系的具象化",
@@ -35449,6 +35481,14 @@
       "onboard_time": 1731583579,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197173,
+      "num": 293345,
+      "word": "王一博剃胡须",
+      "onboard_time": 1732515259,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197165,
@@ -37203,6 +37243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191022,
+      "num": 291903,
+      "word": "虞书欣扔牌变装",
+      "onboard_time": 1732515019,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190988,
       "num": 190988,
       "word": "永夜星河官方又开始闹笑话了",
@@ -38899,6 +38947,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 184421,
+      "num": 307877,
+      "word": "千万级带货主播把保健品吹成神药",
+      "onboard_time": 1732514718,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 184390,
       "num": 276813,
       "word": "权志龙漂眉",
@@ -39753,6 +39809,14 @@
       "onboard_time": 1732082599,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180765,
+      "num": 180765,
+      "word": "心碎却着迷道歉",
+      "onboard_time": 1732516098,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 180756,
@@ -41665,6 +41729,14 @@
       "onboard_time": 1731993140,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173111,
+      "num": 173111,
+      "word": "虞书欣首个手机代言",
+      "onboard_time": 1732516339,
+      "rank": 41,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 173096,
@@ -45787,6 +45859,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 158353,
+      "num": 291774,
+      "word": "周翊然张予曦摸头杀",
+      "onboard_time": 1732515920,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158298,
       "num": 266992,
       "word": "李光洁不是林工是老公",
@@ -45865,6 +45945,14 @@
       "onboard_time": 1730769260,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157817,
+      "num": 157817,
+      "word": "周鸿祎称被逼演短剧",
+      "onboard_time": 1732515197,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 157810,
@@ -46385,6 +46473,14 @@
       "onboard_time": 1731760823,
       "rank": 49,
       "category": "演出,电竞"
+    },
+    {
+      "raw_hot": 156231,
+      "num": 156231,
+      "word": "辽宁省气象台发布暴雪蓝色预警",
+      "onboard_time": 1732514718,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156163,
@@ -48555,6 +48651,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 148945,
+      "num": 148945,
+      "word": "晓华理发店热度下降街道恢复宁静",
+      "onboard_time": 1732516038,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148896,
       "num": 148896,
       "word": "女子带日本人入住酒店被拒",
@@ -49225,6 +49329,14 @@
       "onboard_time": 1730769198,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146622,
+      "num": 292317,
+      "word": "原神5.2版本",
+      "onboard_time": 1732516098,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 146577,
@@ -50193,6 +50305,14 @@
       "onboard_time": 1730698760,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142639,
+      "num": 142639,
+      "word": "种下一个未来",
+      "onboard_time": 1732514237,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 142601,
@@ -66851,6 +66971,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 61987,
+      "num": 293549,
+      "word": "减肥神药上市药店不看体重给钱就寄",
+      "onboard_time": 1732515197,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61965,
       "num": 61965,
       "word": "撒贝宁是有点舞蹈天赋在身上的",
@@ -69505,6 +69633,14 @@
       "onboard_time": 1731305779,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51333,
+      "num": 293018,
+      "word": "男子爆改住房变民宿被11名邻居告了",
+      "onboard_time": 1732514958,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51302,
@@ -72403,6 +72539,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 40560,
+      "num": 292914,
+      "word": "古茗百万免单",
+      "onboard_time": 1732513098,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 40523,
       "num": 364303,
       "word": "侯明昊闫桉公主抱",
@@ -73465,6 +73609,14 @@
       "onboard_time": 1732257620,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37536,
+      "num": 293215,
+      "word": "3小伙多次点外卖吃掉后退款",
+      "onboard_time": 1732515857,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37531,
@@ -75337,14 +75489,6 @@
       "onboard_time": 1730495891,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32417,
-      "num": 174622,
-      "word": "古茗百万免单",
-      "onboard_time": 1732513098,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 32414,

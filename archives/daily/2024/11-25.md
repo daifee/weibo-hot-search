@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/25 00:26:23 ~ 2024/11/25 13:41:06
+本榜单时间：2024/11/25 00:26:23 ~ 2024/11/25 14:33:36
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8F%91%E9%95%BF%E6%96%87%E7%A7%B0QQ%E9%9F%B3%E4%B9%90%E6%8A%84%E8%A2%AD%23" target="weibo">
+网易云音乐发长文称QQ音乐抄袭（热度：2115596）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2339%E5%B2%81%E5%A4%B1%E4%B8%9A%E5%90%8E%E5%9C%A8%E8%8F%9C%E5%B8%82%E5%9C%BA%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%23" target="weibo">
@@ -141,8 +147,20 @@ NewJeans谢绝和ZB1合作（热度：680209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%8F%AA%E5%92%8C%E5%A6%B9%E5%A6%B9%E9%85%8D%E5%90%88%E6%89%93%E6%B7%B7%E5%8F%8C%23" target="weibo">
+张本智和说只和妹妹配合打混双（热度：560496）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8A%A3%E8%B4%A8%E7%BE%BD%E7%BB%92%E5%88%B6%E5%93%81%E4%BB%A5%E4%B8%9D%E5%85%85%E7%BB%92%23" target="weibo">
 央视曝光劣质羽绒制品以丝充绒（热度：551576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%9B%A8%E9%94%A1%20%E7%A7%A6%E9%9C%84%E8%B4%A4%23" target="weibo">
+辛雨锡 秦霄贤（热度：548473）
 </a>
 </li>
 
@@ -161,6 +179,12 @@ NewJeans谢绝和ZB1合作（热度：680209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3Mate70%E6%96%B0%E5%8A%9F%E8%83%BD%23" target="weibo">
 余承东官宣Mate70新功能（热度：535704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E5%B7%B2%E7%BB%8F%E5%9C%A8%E4%B8%BA%E6%B5%81%E9%87%8F%E9%80%80%E5%8E%BB%E5%81%9A%E5%87%86%E5%A4%87%23" target="weibo">
+发型师晓华已经在为流量退去做准备（热度：525816）
 </a>
 </li>
 
@@ -185,12 +209,6 @@ NewJeans谢绝和ZB1合作（热度：680209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%23" target="weibo">
 2024爱奇艺尖叫之夜（热度：484885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%9E%8B%E5%B8%88%E6%99%93%E5%8D%8E%E5%B7%B2%E7%BB%8F%E5%9C%A8%E4%B8%BA%E6%B5%81%E9%87%8F%E9%80%80%E5%8E%BB%E5%81%9A%E5%87%86%E5%A4%87%23" target="weibo">
-发型师晓华已经在为流量退去做准备（热度：474863）
 </a>
 </li>
 
@@ -291,14 +309,20 @@ NewJeans谢绝和ZB1合作（热度：680209）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%8F%AA%E5%92%8C%E5%A6%B9%E5%A6%B9%E9%85%8D%E5%90%88%E6%89%93%E6%B7%B7%E5%8F%8C%23" target="weibo">
-张本智和说只和妹妹配合打混双（热度：338834）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%A2%84%E5%94%AE%E7%A7%92%E5%88%8710000%E5%86%8C%23" target="weibo">
+丁禹兮预售秒切10000册（热度：335314）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%BA%B2%E7%AC%94%E7%AD%BE%E5%90%8D%E7%90%83%E6%8B%8D%23" target="weibo">
 雷军晒樊振东亲笔签名球拍（热度：331008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E7%94%B7%E5%AD%9019%E5%85%83%E7%82%B9%E5%A4%96%E5%8D%96%E5%90%83%E9%9C%B8%E7%8E%8B%E9%A4%90%E4%B8%80%E4%B8%AA%E6%9C%88%23" target="weibo">
+3男子19元点外卖吃霸王餐一个月（热度：329288）
 </a>
 </li>
 
@@ -333,6 +357,12 @@ Tian被骗了（热度：321195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%89%8B%E6%9C%AF%E5%90%8E%E5%A4%8D%E5%B7%A5%23" target="weibo">
+景甜手术后复工（热度：309902）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E5%9B%A2%E7%BB%BC%E6%9B%B4%E6%94%B9%E6%A1%A3%E6%9C%9F%23" target="weibo">
 永夜星河团综更改档期（热度：309538）
 </a>
@@ -363,8 +393,8 @@ Tian被骗了（热度：321195）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E9%9B%A8%E9%94%A1%20%E7%A7%A6%E9%9C%84%E8%B4%A4%23" target="weibo">
-辛雨锡 秦霄贤（热度：295232）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B1%B1%E4%B8%8B%E6%9A%B4%E9%9B%AA%E4%BA%86%23" target="weibo">
+泰山下暴雪了（热度：291635）
 </a>
 </li>
 
@@ -377,6 +407,12 @@ Tian被骗了（热度：321195）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%BA%E9%91%AB%23" target="weibo">
 祺鑫（热度：284798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
+A股（热度：284325）
 </a>
 </li>
 
@@ -443,6 +479,12 @@ OBGG显示Meiko加入iG（热度：273286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BE%AE%E5%8D%9A%E8%AE%BF%E9%97%AE%E9%87%8F%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%23" target="weibo">
 丁禹兮微博访问量内娱第一（热度：254658）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84S%E7%BA%A7%E7%9F%AD%E5%89%A7%23" target="weibo">
+韩国人有自己的S级短剧（热度：252017）
 </a>
 </li>
 
@@ -549,14 +591,8 @@ JDG（热度：220200）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8F%91%E9%95%BF%E6%96%87%E7%A7%B0QQ%E9%9F%B3%E4%B9%90%E6%8A%84%E8%A2%AD%23" target="weibo">
-网易云音乐发长文称QQ音乐抄袭（热度：217368）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%89%8B%E6%9C%AF%E5%90%8E%E5%A4%8D%E5%B7%A5%23" target="weibo">
-景甜手术后复工（热度：215310）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E7%96%91%E4%BC%BC%E5%A4%B1%E5%8E%BB%E6%89%80%E6%9C%89%E5%8A%9B%E6%B0%94%E5%92%8C%E6%89%8B%E6%AE%B5%23" target="weibo">
+张远疑似失去所有力气和手段（热度：218126）
 </a>
 </li>
 
@@ -597,12 +633,6 @@ JDG（热度：220200）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：203427）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E7%BB%84%E5%90%88%E9%A6%96%E5%BC%A0%E4%B8%93%E8%BE%91%E6%97%A0%E6%89%80%E7%95%8F%E6%83%A7%23" target="weibo">
 TOP登陆少年组合首张专辑无所畏惧（热度：203037）
 </a>
@@ -633,14 +663,14 @@ TOP登陆少年组合首张专辑无所畏惧（热度：203037）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%A2%84%E5%94%AE%E7%A7%92%E5%88%8710000%E5%86%8C%23" target="weibo">
-丁禹兮预售秒切10000册（热度：199863）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
+种地吧（热度：199231）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
-种地吧（热度：199231）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%89%83%E8%83%A1%E9%A1%BB%23" target="weibo">
+王一博剃胡须（热度：197173）
 </a>
 </li>
 
@@ -705,6 +735,12 @@ Scout JDG（热度：193122）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%89%94%E7%89%8C%E5%8F%98%E8%A3%85%23" target="weibo">
+虞书欣扔牌变装（热度：191022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94AMA%E4%BA%89%E8%AE%AE%23" target="weibo">
 张杰回应AMA争议（热度：189874）
 </a>
@@ -713,6 +749,18 @@ Scout JDG（热度：193122）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
 假羽绒服（热度：186836）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BA%A7%E5%B8%A6%E8%B4%A7%E4%B8%BB%E6%92%AD%E6%8A%8A%E4%BF%9D%E5%81%A5%E5%93%81%E5%90%B9%E6%88%90%E7%A5%9E%E8%8D%AF%23" target="weibo">
+千万级带货主播把保健品吹成神药（热度：184421）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%A2%8E%E5%8D%B4%E7%9D%80%E8%BF%B7%E9%81%93%E6%AD%89%23" target="weibo">
+心碎却着迷道歉（热度：180765）
 </a>
 </li>
 
@@ -743,6 +791,12 @@ Scout JDG（热度：193122）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E9%AA%97%E5%B1%80%E6%9B%9D%E5%85%89%23" target="weibo">
 羽绒骗局曝光（热度：173308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%A6%96%E4%B8%AA%E6%89%8B%E6%9C%BA%E4%BB%A3%E8%A8%80%23" target="weibo">
+虞书欣首个手机代言（热度：173111）
 </a>
 </li>
 
@@ -795,6 +849,18 @@ Kanavi被曝加入TES（热度：158982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%91%B8%E5%A4%B4%E6%9D%80%23" target="weibo">
+周翊然张予曦摸头杀（热度：158353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E8%A2%AB%E9%80%BC%E6%BC%94%E7%9F%AD%E5%89%A7%23" target="weibo">
+周鸿祎称被逼演短剧（热度：157817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%80%E9%94%A6%E4%BA%BA%E5%AE%B6%23" target="weibo">
 蜀锦人家（热度：157810）
 </a>
@@ -809,6 +875,12 @@ Kanavi被曝加入TES（热度：158982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E8%A6%81%E9%99%8D%E8%96%AA%E4%BA%86%23" target="weibo">
 横店群演要降薪了（热度：156336）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E7%9C%81%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
+辽宁省气象台发布暴雪蓝色预警（热度：156231）
 </a>
 </li>
 
@@ -831,8 +903,20 @@ Kanavi被曝加入TES（热度：158982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E7%90%86%E5%8F%91%E5%BA%97%E7%83%AD%E5%BA%A6%E4%B8%8B%E9%99%8D%E8%A1%97%E9%81%93%E6%81%A2%E5%A4%8D%E5%AE%81%E9%9D%99%23" target="weibo">
+晓华理发店热度下降街道恢复宁静（热度：148945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%96%AF%E4%BA%BA%E6%84%BF%23" target="weibo">
 魏晨疯人愿（热度：146870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E5.2%E7%89%88%E6%9C%AC%23" target="weibo">
+原神5.2版本（热度：146622）
 </a>
 </li>
 
@@ -869,6 +953,12 @@ Mate60总销量破1400万台（热度：143909）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%87%91%E8%8E%B2%E8%8A%B1%E5%8F%8C%E6%8F%90%E5%90%8D%23" target="weibo">
 赵丽颖金莲花双提名（热度：142742）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9C%AA%E6%9D%A5%23" target="weibo">
+种下一个未来（热度：142639）
 </a>
 </li>
 
@@ -1239,6 +1329,12 @@ iG新赛季阵容曝光（热度：119138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E4%B8%8A%E5%B8%82%E8%8D%AF%E5%BA%97%E4%B8%8D%E7%9C%8B%E4%BD%93%E9%87%8D%E7%BB%99%E9%92%B1%E5%B0%B1%E5%AF%84%23" target="weibo">
+减肥神药上市药店不看体重给钱就寄（热度：61987）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%B5%E8%89%BA%E7%88%86%E6%96%99WBG%E4%BA%89%E6%8A%A2Meiko%23" target="weibo">
 涵艺爆料WBG争抢Meiko（热度：59368）
 </a>
@@ -1283,6 +1379,12 @@ Icon说B氏家族赢了（热度：56563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%94%9F%E8%B0%A3%E8%A8%80%E9%95%BF%E4%BA%86%E7%9C%BC%E7%9D%9B%E5%90%97%E4%B8%93%E6%8C%91%E8%80%81%E5%B9%B4%E4%BA%BA%E6%8E%A8%E9%80%81%23" target="weibo">
 养生谣言长了眼睛吗专挑老年人推送（热度：52890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%88%86%E6%94%B9%E4%BD%8F%E6%88%BF%E5%8F%98%E6%B0%91%E5%AE%BF%E8%A2%AB11%E5%90%8D%E9%82%BB%E5%B1%85%E5%91%8A%E4%BA%86%23" target="weibo">
+男子爆改住房变民宿被11名邻居告了（热度：51333）
 </a>
 </li>
 
@@ -1341,6 +1443,12 @@ iG辅助（热度：42937）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95%23" target="weibo">
+古茗百万免单（热度：40560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%230.334%E7%BA%B3%E7%B1%B3%E7%9A%84%E7%9F%B3%E5%A2%A8%E7%83%AF%E6%AF%94%E9%87%91%E5%88%9A%E7%9F%B3%E8%BF%98%E7%A1%AC%23" target="weibo">
 0.334纳米的石墨烯比金刚石还硬（热度：40147）
 </a>
@@ -1361,6 +1469,12 @@ iG辅助（热度：42937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%B5%B7%E5%B2%9B%E5%89%AF%E6%9C%AC%E5%BC%80%E5%90%AF%23" target="weibo">
 丁禹兮海岛副本开启（热度：37810）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B0%8F%E4%BC%99%E5%A4%9A%E6%AC%A1%E7%82%B9%E5%A4%96%E5%8D%96%E5%90%83%E6%8E%89%E5%90%8E%E9%80%80%E6%AC%BE%23" target="weibo">
+3小伙多次点外卖吃掉后退款（热度：37536）
 </a>
 </li>
 
@@ -1409,12 +1523,6 @@ iG辅助（热度：42937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%871%E6%AF%941%E6%9B%BC%E8%81%94%23" target="weibo">
 伊普斯维奇1比1曼联（热度：33036）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E7%99%BE%E4%B8%87%E5%85%8D%E5%8D%95%23" target="weibo">
-古茗百万免单（热度：32417）
 </a>
 </li>
 

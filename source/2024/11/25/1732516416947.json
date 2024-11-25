@@ -1,0 +1,410 @@
+{
+  "runTime": 1732516416947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557730,
+        "num": 1557730,
+        "word": "39岁失业后在菜市场重启人生",
+        "onboard_time": 1732510761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589919,
+        "num": 589919,
+        "word": "2年被家暴16次女子幸存后的580天",
+        "onboard_time": 1732503558,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24677,
+        "num": 531433,
+        "word": "当长城遇见黄河惊艳了",
+        "onboard_time": 1732490775,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 779909,
+        "num": 530688,
+        "word": "羊毛月60秒视频广告报价35万",
+        "onboard_time": 1732509382,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 525816,
+        "num": 525816,
+        "word": "发型师晓华已经在为流量退去做准备",
+        "onboard_time": 1732512979,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 384764,
+        "num": 384764,
+        "word": "参加婚礼的吴世勋",
+        "onboard_time": 1732510459,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362978,
+        "num": 362978,
+        "word": "部分劣质羽绒服填充物竟是飞丝",
+        "onboard_time": 1732506379,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 335314,
+        "num": 335314,
+        "word": "丁禹兮预售秒切10000册",
+        "onboard_time": 1732512979,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 309902,
+        "num": 309902,
+        "word": "景甜手术后复工",
+        "onboard_time": 1732512199,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184421,
+        "num": 307877,
+        "word": "千万级带货主播把保健品吹成神药",
+        "onboard_time": 1732514718,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2115596,
+        "num": 302026,
+        "word": "网易云音乐发长文称QQ音乐抄袭",
+        "onboard_time": 1732512858,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 560496,
+        "num": 299334,
+        "word": "张本智和说只和妹妹配合打混双",
+        "onboard_time": 1732512260,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548473,
+        "num": 295988,
+        "word": "辛雨锡 秦霄贤",
+        "onboard_time": 1732512379,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293560,
+        "num": 293560,
+        "word": "NewJeans谢绝和ZB1合作",
+        "onboard_time": 1732506800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61987,
+        "num": 293549,
+        "word": "减肥神药上市药店不看体重给钱就寄",
+        "onboard_time": 1732515197,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197173,
+        "num": 293345,
+        "word": "王一博剃胡须",
+        "onboard_time": 1732515259,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270480,
+        "num": 293327,
+        "word": "小巷人家 好的婚姻不怕谈钱",
+        "onboard_time": 1732509082,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37536,
+        "num": 293215,
+        "word": "3小伙多次点外卖吃掉后退款",
+        "onboard_time": 1732515857,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51333,
+        "num": 293018,
+        "word": "男子爆改住房变民宿被11名邻居告了",
+        "onboard_time": 1732514958,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40560,
+        "num": 292914,
+        "word": "古茗百万免单",
+        "onboard_time": 1732513098,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 448113,
+        "num": 292822,
+        "word": "塞尔维亚著名钟楼遭中文涂鸦",
+        "onboard_time": 1732508120,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543342,
+        "num": 292708,
+        "word": "四川内江公交车失控画面",
+        "onboard_time": 1732509501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424001,
+        "num": 292652,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337887,
+        "num": 292473,
+        "word": "羊毛月",
+        "onboard_time": 1732500558,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146622,
+        "num": 292317,
+        "word": "原神5.2版本",
+        "onboard_time": 1732516098,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252017,
+        "num": 292211,
+        "word": "韩国人有自己的S级短剧",
+        "onboard_time": 1732515079,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218126,
+        "num": 292114,
+        "word": "张远疑似失去所有力气和手段",
+        "onboard_time": 1732515259,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284325,
+        "num": 292060,
+        "word": "A股",
+        "onboard_time": 1732515319,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191022,
+        "num": 291903,
+        "word": "虞书欣扔牌变装",
+        "onboard_time": 1732515019,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158353,
+        "num": 291774,
+        "word": "周翊然张予曦摸头杀",
+        "onboard_time": 1732515920,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329288,
+        "num": 291744,
+        "word": "3男子19元点外卖吃霸王餐一个月",
+        "onboard_time": 1732515197,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291635,
+        "num": 291635,
+        "word": "泰山下暴雪了",
+        "onboard_time": 1732515497,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276957,
+        "num": 276957,
+        "word": "上海200元一锅的潮汕砂锅白粥",
+        "onboard_time": 1732508480,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277018,
+        "num": 263274,
+        "word": "14个癌症早期信号一定要知道",
+        "onboard_time": 1732505658,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222375,
+        "num": 222375,
+        "word": "Rookie谈TheShy加入iG原因",
+        "onboard_time": 1732512260,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193552,
+        "num": 193552,
+        "word": "王楚钦呼吁不要过度解读自己的小动作",
+        "onboard_time": 1732507099,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186631,
+        "num": 186631,
+        "word": "飞行员说有些东西就不太方便介绍了",
+        "onboard_time": 1732509560,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 184338,
+        "num": 184338,
+        "word": "现实版凡人歌",
+        "onboard_time": 1732512199,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180765,
+        "num": 180765,
+        "word": "心碎却着迷道歉",
+        "onboard_time": 1732516098,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179869,
+        "num": 179869,
+        "word": "你的孩子可能正在穿这些劣质羽绒服",
+        "onboard_time": 1732510640,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174820,
+        "num": 174820,
+        "word": "张杰回应AMA争议",
+        "onboard_time": 1732513039,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173111,
+        "num": 173111,
+        "word": "虞书欣首个手机代言",
+        "onboard_time": 1732516339,
+        "rank": 41,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 161667,
+        "num": 161667,
+        "word": "哈利波特演员巴黎重聚",
+        "onboard_time": 1732512560,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157817,
+        "num": 157817,
+        "word": "周鸿祎称被逼演短剧",
+        "onboard_time": 1732515197,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156463,
+        "num": 156463,
+        "word": "男子酒后打折妻子6处肋骨被判刑",
+        "onboard_time": 1732503258,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156231,
+        "num": 156231,
+        "word": "辽宁省气象台发布暴雪蓝色预警",
+        "onboard_time": 1732514718,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148945,
+        "num": 148945,
+        "word": "晓华理发店热度下降街道恢复宁静",
+        "onboard_time": 1732516038,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144143,
+        "num": 144143,
+        "word": "情侣手指轮流被卡一天救助三次",
+        "onboard_time": 1732503678,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142639,
+        "num": 142639,
+        "word": "种下一个未来",
+        "onboard_time": 1732514237,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134691,
+        "num": 134691,
+        "word": "四川内江一公交车失控致1死4伤",
+        "onboard_time": 1732505898,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拉美之行的六个瞬间#"
+    }
+  }
+}
