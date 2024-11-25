@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732549224418,
+  "endTime": 1732552197051,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1347,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 421824,
+      "num": 289921,
+      "word": "被野猪顶撞撕咬老人家属发声",
+      "onboard_time": 1732546459,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418578,
       "num": 418578,
       "word": "好东西 快车太臭",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1732426698,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377497,
+      "num": 288484,
+      "word": "羊毛月 王甜心",
+      "onboard_time": 1732547179,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 376671,
@@ -1809,14 +1825,6 @@
       "onboard_time": 1732404133,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 321757,
-      "num": 288484,
-      "word": "羊毛月 王甜心",
-      "onboard_time": 1732547179,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 321727,
@@ -2283,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258931,
+      "num": 258931,
+      "word": "外交部回应中方对日本试行30天免签",
+      "onboard_time": 1732545800,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 257240,
       "num": 257240,
       "word": "金价又反弹",
@@ -2587,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226940,
+      "num": 226940,
+      "word": "江苏中小学寒假延长",
+      "onboard_time": 1732548257,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225462,
       "num": 225462,
       "word": "遇见麦琳前vs遇见麦琳后",
@@ -2604,7 +2628,7 @@
     },
     {
       "raw_hot": 224726,
-      "num": 132580,
+      "num": 161225,
       "word": "任何人都不该受到任何形式的校园霸凌",
       "onboard_time": 1732546040,
       "rank": 23,
@@ -2801,14 +2825,6 @@
       "onboard_time": 1732438820,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211415,
-      "num": 289921,
-      "word": "被野猪顶撞撕咬老人家属发声",
-      "onboard_time": 1732546459,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210585,
@@ -3065,6 +3081,14 @@
       "onboard_time": 1732457961,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198897,
+      "num": 166852,
+      "word": "丁禹兮有力量渡难关",
+      "onboard_time": 1732548918,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 197879,
@@ -4443,14 +4467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142750,
-      "num": 142750,
-      "word": "外交部回应中方对日本试行30天免签",
-      "onboard_time": 1732545800,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 142654,
       "num": 142654,
       "word": "白夜破晓 内鬼",
@@ -5315,6 +5331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113258,
+      "num": 172641,
+      "word": "红海海域游船沉没事故17人下落不明",
+      "onboard_time": 1732546341,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 113141,
       "num": 113141,
       "word": "派出所民警殴打小学生已成立调查组",
@@ -5451,14 +5475,6 @@
       "category": "音乐,演出"
     },
     {
-      "raw_hot": 109437,
-      "num": 109437,
-      "word": "江苏中小学寒假延长",
-      "onboard_time": 1732548257,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 108872,
       "num": 108872,
       "word": "泽连斯基称俄乌冲突完全有可能明年结束",
@@ -5515,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107200,
+      "num": 107200,
+      "word": "斗罗2唐三小舞刚亲完就异地恋",
+      "onboard_time": 1732550837,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106708,
       "num": 289671,
       "word": "樊振东体验匹克球",
@@ -5537,14 +5561,6 @@
       "onboard_time": 1732504338,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105667,
-      "num": 140762,
-      "word": "丁禹兮有力量渡难关",
-      "onboard_time": 1732548918,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 105203,
@@ -5625,14 +5641,6 @@
       "onboard_time": 1732395612,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 100130,
-      "num": 100130,
-      "word": "红海海域游船沉没事故17人下落不明",
-      "onboard_time": 1732546341,
-      "rank": 38,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 99982,
@@ -5777,6 +5785,14 @@
       "onboard_time": 1732497377,
       "rank": 44,
       "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 93898,
+      "num": 93898,
+      "word": "吉克隽逸的造型师请出来挨夸",
+      "onboard_time": 1732550057,
+      "rank": 28,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 93765,
@@ -6107,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75482,
+      "num": 75482,
+      "word": "王楚钦孙颖莎领跑WTT单打冠军榜",
+      "onboard_time": 1732549578,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75426,
       "num": 244758,
       "word": "货拉拉司机回应600元搬运费质疑",
@@ -6273,6 +6297,22 @@
       "onboard_time": 1732382295,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66742,
+      "num": 66742,
+      "word": "5种值得警惕的精神冷暴力",
+      "onboard_time": 1732551078,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66396,
+      "num": 66396,
+      "word": "红海游船事故中2名中国游客获救",
+      "onboard_time": 1732549637,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 66178,
@@ -6467,6 +6507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 56994,
+      "num": 56994,
+      "word": "声生不息大湾区季",
+      "onboard_time": 1732551199,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56563,
       "num": 138870,
       "word": "Icon说B氏家族赢了",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1732541541,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50046,
+      "num": 56528,
+      "word": "都是流感有什么不同",
+      "onboard_time": 1732551797,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49750,
@@ -7489,6 +7545,14 @@
       "onboard_time": 1732369040,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20358,
+      "num": 107523,
+      "word": "2025国考全流程报考指南",
+      "onboard_time": 1732551317,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 20282,
