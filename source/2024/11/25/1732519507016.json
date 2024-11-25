@@ -1,0 +1,410 @@
+{
+  "runTime": 1732519507016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 928641,
+        "num": 1148582,
+        "word": "39岁失业后在菜市场重启人生",
+        "onboard_time": 1732510761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771581,
+        "num": 771581,
+        "word": "虞书欣首个手机代言",
+        "onboard_time": 1732516339,
+        "rank": 1,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 16045,
+        "num": 712025,
+        "word": "当长城遇见黄河惊艳了",
+        "onboard_time": 1732490775,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 675902,
+        "num": 675902,
+        "word": "泰山下暴雪了",
+        "onboard_time": 1732515497,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627824,
+        "num": 627824,
+        "word": "陆虎陈曌旭预制婚礼写真",
+        "onboard_time": 1732518139,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575003,
+        "num": 575003,
+        "word": "3男子19元点外卖吃霸王餐一个月",
+        "onboard_time": 1732515197,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417733,
+        "num": 417733,
+        "word": "韩国人有自己的S级短剧",
+        "onboard_time": 1732515079,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417385,
+        "num": 417385,
+        "word": "李一桐说的是谁",
+        "onboard_time": 1732517118,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346138,
+        "num": 346138,
+        "word": "2年被家暴16次女子幸存后的580天",
+        "onboard_time": 1732503558,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27828,
+        "num": 344755,
+        "word": "还原阿斯利康骗保案细节",
+        "onboard_time": 1732518739,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1501067,
+        "num": 341981,
+        "word": "网易云音乐发长文称QQ音乐抄袭",
+        "onboard_time": 1732512858,
+        "rank": 10,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 1211625,
+        "num": 340354,
+        "word": "羊毛月曾称万柳书院业主为少爷",
+        "onboard_time": 1732517418,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1084611,
+        "num": 334906,
+        "word": "杭州兔子警官升职啦",
+        "onboard_time": 1732518019,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371847,
+        "num": 332553,
+        "word": "辛雨锡 秦霄贤",
+        "onboard_time": 1732512379,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19422,
+        "num": 330387,
+        "word": "网售百元助听器放大噪音",
+        "onboard_time": 1732518618,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166245,
+        "num": 326954,
+        "word": "羊毛月2天掉粉70万",
+        "onboard_time": 1732517599,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58089,
+        "num": 323939,
+        "word": "心疼小叶",
+        "onboard_time": 1732518739,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323352,
+        "num": 323352,
+        "word": "发型师晓华已经在为流量退去做准备",
+        "onboard_time": 1732512979,
+        "rank": 17,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 166123,
+        "num": 322638,
+        "word": "易烊千玺看待世界的角度",
+        "onboard_time": 1732518618,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18381,
+        "num": 315467,
+        "word": "8000元APP上买牛认购后被骗",
+        "onboard_time": 1732519159,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562456,
+        "num": 307069,
+        "word": "胖东来卫生巾区遭哄抢",
+        "onboard_time": 1732517237,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513385,
+        "num": 300652,
+        "word": "花140万买到了230平的房子",
+        "onboard_time": 1732516758,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300639,
+        "num": 300639,
+        "word": "部分劣质羽绒服填充物竟是飞丝",
+        "onboard_time": 1732506379,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 419566,
+        "num": 299599,
+        "word": "羊毛月60秒视频广告报价35万",
+        "onboard_time": 1732509382,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34625,
+        "num": 283782,
+        "word": "一生要强的中国女人和不服输的DJ",
+        "onboard_time": 1732519101,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318657,
+        "num": 283382,
+        "word": "心碎却着迷道歉",
+        "onboard_time": 1732516098,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282572,
+        "num": 282572,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271627,
+        "num": 271627,
+        "word": "塞尔维亚著名钟楼遭中文涂鸦",
+        "onboard_time": 1732508120,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236484,
+        "num": 236484,
+        "word": "张本智和说只和妹妹配合打混双",
+        "onboard_time": 1732512260,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222326,
+        "num": 222326,
+        "word": "丁禹兮预售秒切10000册",
+        "onboard_time": 1732512979,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265531,
+        "num": 222324,
+        "word": "酷狗音乐回应网易云音乐",
+        "onboard_time": 1732518618,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67624,
+        "num": 220265,
+        "word": "关晓彤费加罗复古油画封面",
+        "onboard_time": 1732518139,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224727,
+        "num": 219362,
+        "word": "14个癌症早期信号一定要知道",
+        "onboard_time": 1732505658,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22556,
+        "num": 217241,
+        "word": "史野七集挨两顿打",
+        "onboard_time": 1732516879,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217130,
+        "num": 217130,
+        "word": "济南下雪啦",
+        "onboard_time": 1732518079,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215861,
+        "num": 215861,
+        "word": "陈牧驰孔雪儿首搭演情侣",
+        "onboard_time": 1732517118,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176233,
+        "num": 176233,
+        "word": "NewJeans谢绝和ZB1合作",
+        "onboard_time": 1732506800,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172895,
+        "num": 172895,
+        "word": "晓华理发店热度下降街道恢复宁静",
+        "onboard_time": 1732516038,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172677,
+        "num": 172677,
+        "word": "参加婚礼的吴世勋",
+        "onboard_time": 1732510459,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166767,
+        "num": 166767,
+        "word": "严浩翔出发南昌进组",
+        "onboard_time": 1732519458,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157038,
+        "num": 157038,
+        "word": "张远疑似失去所有力气和手段",
+        "onboard_time": 1732515259,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154516,
+        "num": 154516,
+        "word": "Rookie谈TheShy加入iG原因",
+        "onboard_time": 1732512260,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149591,
+        "num": 149591,
+        "word": "郑雨盛和女友拍人生四格",
+        "onboard_time": 1732519279,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149207,
+        "num": 149207,
+        "word": "男子酒后打折妻子6处肋骨被判刑",
+        "onboard_time": 1732503258,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148716,
+        "num": 148716,
+        "word": "千万级带货主播把保健品吹成神药",
+        "onboard_time": 1732514718,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 147120,
+        "num": 147120,
+        "word": "学生曾买10斤水饺叶嘉莹连声说好",
+        "onboard_time": 1732518800,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146885,
+        "num": 146885,
+        "word": "2岁儿童在地下车库玩被车碾压致死",
+        "onboard_time": 1732519398,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142392,
+        "num": 142392,
+        "word": "现实版凡人歌",
+        "onboard_time": 1732512199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "魏子宸",
+        "onboard_time": 1732519458,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132978,
+        "num": 132978,
+        "word": "上海200元一锅的潮汕砂锅白粥",
+        "onboard_time": 1732508480,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拉美之行的六个瞬间#"
+    }
+  }
+}
