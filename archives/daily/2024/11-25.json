@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732544566939,
+  "endTime": 1732545750504,
   "band_list": [
     {
       "raw_hot": 2115596,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1006050,
+      "num": 446143,
+      "word": "警方通报王宝强被举报事件",
+      "onboard_time": 1732535419,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953820,
       "num": 953820,
       "word": "长沙县卫健局承认出现工作失误",
@@ -161,14 +169,6 @@
       "onboard_time": 1732522158,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 878488,
-      "num": 407458,
-      "word": "警方通报王宝强被举报事件",
-      "onboard_time": 1732535419,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 873421,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 683138,
-      "num": 361158,
+      "num": 398239,
       "word": "虞书欣工作室",
       "onboard_time": 1732537761,
       "rank": 12,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580291,
+      "num": 403656,
+      "word": "胡彦斌最不敢签名的一次",
+      "onboard_time": 1732544000,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575003,
       "num": 575003,
       "word": "3男子19元点外卖吃霸王餐一个月",
@@ -385,6 +393,14 @@
       "onboard_time": 1732532539,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567770,
+      "num": 402383,
+      "word": "BIGBANG屠榜QQ音乐",
+      "onboard_time": 1732543221,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 563617,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558368,
+      "num": 558368,
+      "word": "野猪咬死老人当地半年猎捕野猪113头",
+      "onboard_time": 1732536860,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 557398,
       "num": 417340,
       "word": "虞书欣确认出席尖叫之夜",
@@ -436,18 +460,10 @@
     },
     {
       "raw_hot": 551574,
-      "num": 364257,
+      "num": 401818,
       "word": "学生请假被拦事件涉事宿管被调离",
       "onboard_time": 1732541721,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 549677,
-      "num": 549677,
-      "word": "野猪咬死老人当地半年猎捕野猪113头",
-      "onboard_time": 1732536860,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 508225,
-      "num": 360557,
+      "num": 399109,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
       "onboard_time": 1732537040,
       "rank": 30,
@@ -553,14 +569,6 @@
       "onboard_time": 1732528278,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463229,
-      "num": 363668,
-      "word": "BIGBANG屠榜QQ音乐",
-      "onboard_time": 1732543221,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 462398,
@@ -923,6 +931,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 299790,
+      "num": 299790,
+      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
+      "onboard_time": 1732543880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298442,
       "num": 298442,
       "word": "中国男篮蒙古男篮冲突",
@@ -1043,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256303,
+      "num": 217243,
+      "word": "羊毛月和猫一杯疑似情侣",
+      "onboard_time": 1732539800,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 255235,
       "num": 255235,
       "word": "男子酒后打折妻子6处肋骨被判刑",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1732506319,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247312,
+      "num": 204812,
+      "word": "田曦薇张凌赫将进组逐玉",
+      "onboard_time": 1732544061,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 246903,
@@ -1243,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222311,
-      "num": 222311,
-      "word": "胡彦斌最不敢签名的一次",
-      "onboard_time": 1732544000,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221397,
       "num": 293120,
       "word": "野猪在我国分布情况如何",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1732515259,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217243,
-      "num": 217243,
-      "word": "羊毛月和猫一杯疑似情侣",
-      "onboard_time": 1732539800,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 217130,
@@ -1427,6 +1443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205036,
+      "num": 205036,
+      "word": "鞠婧祎久违的小提琴营业",
+      "onboard_time": 1732544841,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204722,
+      "num": 204722,
+      "word": "鹿晗壁纸",
+      "onboard_time": 1732543400,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204104,
       "num": 204104,
       "word": "陈昊宇说要看见自己的价值",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1732505839,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203497,
+      "num": 256485,
+      "word": "官方辟谣汕头大量商户为躲检查停业",
+      "onboard_time": 1732539859,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 203465,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1732458802,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201756,
-      "num": 201756,
-      "word": "田曦薇张凌赫将进组逐玉",
-      "onboard_time": 1732544061,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 200843,
@@ -1769,14 +1801,6 @@
       "onboard_time": 1732506079,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173547,
-      "num": 196753,
-      "word": "鹿晗壁纸",
-      "onboard_time": 1732543400,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 173308,
@@ -2099,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150025,
+      "num": 150025,
+      "word": "十二星座水逆指南",
+      "onboard_time": 1732544721,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147143,
       "num": 453163,
       "word": "100万起拍的糖葫芦摊位去年40万成交",
@@ -2113,14 +2145,6 @@
       "onboard_time": 1732462580,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146669,
-      "num": 256485,
-      "word": "官方辟谣汕头大量商户为躲检查停业",
-      "onboard_time": 1732539859,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 146317,
@@ -2292,7 +2316,7 @@
     },
     {
       "raw_hot": 134777,
-      "num": 134777,
+      "num": 204742,
       "word": "英雄联盟",
       "onboard_time": 1732535600,
       "rank": 41,
@@ -2451,14 +2475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121745,
-      "num": 121745,
-      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
-      "onboard_time": 1732543880,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121428,
       "num": 121428,
       "word": "河南民企协会发文称坚定支持胖东来",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1732453522,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118522,
+      "num": 118522,
+      "word": "鞠婧祎拉小提琴",
+      "onboard_time": 1732545320,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 118006,
@@ -2611,18 +2635,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111241,
-      "num": 240958,
-      "word": "日媒感叹中国啦啦队太强",
-      "onboard_time": 1732526778,
+      "raw_hot": 111377,
+      "num": 198275,
+      "word": "王楚钦宣告回归呼应10月对球迷许诺",
+      "onboard_time": 1732539200,
       "rank": 24,
       "category": "体育"
     },
     {
-      "raw_hot": 110786,
-      "num": 198275,
-      "word": "王楚钦宣告回归呼应10月对球迷许诺",
-      "onboard_time": 1732539200,
+      "raw_hot": 111241,
+      "num": 240958,
+      "word": "日媒感叹中国啦啦队太强",
+      "onboard_time": 1732526778,
       "rank": 24,
       "category": "体育"
     },
@@ -2649,6 +2673,14 @@
       "onboard_time": 1732525998,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105892,
+      "num": 400026,
+      "word": "高校回应学生因白事请假被拦",
+      "onboard_time": 1732542920,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 105742,
@@ -2681,6 +2713,14 @@
       "onboard_time": 1732529479,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101761,
+      "num": 101761,
+      "word": "geng录播",
+      "onboard_time": 1732545621,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100458,
@@ -2809,6 +2849,14 @@
       "onboard_time": 1732461320,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87820,
+      "num": 325298,
+      "word": "中小学食堂不能被当某些人的摇钱树",
+      "onboard_time": 1732543640,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87406,
@@ -3048,14 +3096,6 @@
       "word": "拒绝上学门诊开设5个月接诊4000人",
       "onboard_time": 1732540340,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64217,
-      "num": 325298,
-      "word": "中小学食堂不能被当某些人的摇钱树",
-      "onboard_time": 1732543640,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3345,6 +3385,14 @@
       "onboard_time": 1732482431,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41636,
+      "num": 300099,
+      "word": "潘展乐又说大实话了",
+      "onboard_time": 1732544960,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 41402,
@@ -3803,6 +3851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10604,
+      "num": 217919,
+      "word": "看好东西治好我的高敏感",
+      "onboard_time": 1732544780,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10397,
       "num": 22906,
       "word": "虞书欣海边玩泡泡九宫格",
@@ -3828,7 +3884,7 @@
     },
     {
       "raw_hot": 8680,
-      "num": 421908,
+      "num": 449450,
       "word": "奥运冠军在新疆",
       "onboard_time": 1732517299,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 22:22:46
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 22:42:30
 </p>
 </blockquote>
 <p>
@@ -4047,6 +4047,12 @@ AG对战狼队（热度：1032088）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方通报王宝强被举报事件（热度：1006050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E9%BA%A6%E7%90%B3%E7%9A%84%E5%9B%B4%E5%89%BF%E5%83%8F%E6%97%A0%E6%84%8F%E8%AF%86%E7%9A%84%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C%23" target="weibo">
 对麦琳的围剿像无意识的集体霸凌（热度：1004448）
 </a>
@@ -4937,12 +4943,6 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%81%9C%E6%9B%B4%E6%97%B6%E8%A1%A5%E7%9E%8C%E7%9D%A1%E9%99%AA%E5%A5%B6%E5%A5%B6%23" target="weibo">
 李子柒停更时补瞌睡陪奶奶（热度：880517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%23" target="weibo">
-警方通报王宝强被举报事件（热度：878488）
 </a>
 </li>
 
