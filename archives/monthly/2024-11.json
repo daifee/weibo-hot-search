@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732542228134,
+  "endTime": 1732544566939,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3956,7 +3956,7 @@
     },
     {
       "raw_hot": 1182160,
-      "num": 947034,
+      "num": 1169281,
       "word": "Angelababy大秀状态",
       "onboard_time": 1732536259,
       "rank": 3,
@@ -6569,6 +6569,14 @@
       "onboard_time": 1731479838,
       "rank": 33,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 878488,
+      "num": 407458,
+      "word": "警方通报王宝强被举报事件",
+      "onboard_time": 1732535419,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 877885,
@@ -9844,7 +9852,7 @@
     },
     {
       "raw_hot": 683138,
-      "num": 292039,
+      "num": 361158,
       "word": "虞书欣工作室",
       "onboard_time": 1730555660,
       "rank": 40,
@@ -13211,6 +13219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551574,
+      "num": 364257,
+      "word": "学生请假被拦事件涉事宿管被调离",
+      "onboard_time": 1732541721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551383,
       "num": 551383,
       "word": "林青霞姜涛牵手出席活动",
@@ -13281,6 +13297,14 @@
       "onboard_time": 1731982279,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 549677,
+      "num": 549677,
+      "word": "野猪咬死老人当地半年猎捕野猪113头",
+      "onboard_time": 1732536860,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 549258,
@@ -14708,7 +14732,7 @@
     },
     {
       "raw_hot": 508225,
-      "num": 291564,
+      "num": 360557,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
       "onboard_time": 1732537040,
       "rank": 30,
@@ -16123,6 +16147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463229,
+      "num": 363668,
+      "word": "BIGBANG屠榜QQ音乐",
+      "onboard_time": 1732543221,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 462976,
       "num": 390130,
       "word": "林一沈月cos赵露思刘宇宁",
@@ -16769,14 +16801,6 @@
       "onboard_time": 1731200658,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445253,
-      "num": 445253,
-      "word": "野猪咬死老人当地半年猎捕野猪113头",
-      "onboard_time": 1732536860,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 444989,
@@ -18084,7 +18108,7 @@
     },
     {
       "raw_hot": 412063,
-      "num": 341045,
+      "num": 360264,
       "word": "如何看待副所长殴打小学生被送锦旗",
       "onboard_time": 1732534638,
       "rank": 5,
@@ -20185,6 +20209,14 @@
       "onboard_time": 1730895080,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367157,
+      "num": 363392,
+      "word": "张予曦妈生小舞脸",
+      "onboard_time": 1732543221,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 366866,
@@ -22393,6 +22425,14 @@
       "onboard_time": 1731671359,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 321727,
+      "num": 321727,
+      "word": "蔡徐坤雪中撑伞",
+      "onboard_time": 1732540521,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 321254,
@@ -24801,14 +24841,6 @@
       "onboard_time": 1732021222,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284954,
-      "num": 284954,
-      "word": "蔡徐坤雪中撑伞",
-      "onboard_time": 1732540521,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 284898,
@@ -30899,6 +30931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222311,
+      "num": 222311,
+      "word": "胡彦斌最不敢签名的一次",
+      "onboard_time": 1732544000,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222292,
       "num": 205816,
       "word": "林栋哲求婚看哭了",
@@ -31561,6 +31601,14 @@
       "onboard_time": 1732376121,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 217243,
+      "num": 217243,
+      "word": "羊毛月和猫一杯疑似情侣",
+      "onboard_time": 1732539800,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 217220,
@@ -34753,6 +34801,14 @@
       "onboard_time": 1731794651,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201756,
+      "num": 201756,
+      "word": "田曦薇张凌赫将进组逐玉",
+      "onboard_time": 1732544061,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 201705,
@@ -42249,6 +42305,14 @@
       "onboard_time": 1731638960,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173547,
+      "num": 196753,
+      "word": "鹿晗壁纸",
+      "onboard_time": 1732543400,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 173505,
@@ -50155,6 +50219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146669,
+      "num": 256485,
+      "word": "官方辟谣汕头大量商户为躲检查停业",
+      "onboard_time": 1732539859,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 146642,
       "num": 146642,
       "word": "河南固始36岁男子杀妻",
@@ -50497,14 +50569,6 @@
       "onboard_time": 1732413857,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145375,
-      "num": 259441,
-      "word": "学生请假被拦事件涉事宿管被调离",
-      "onboard_time": 1732541721,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145343,
@@ -52129,14 +52193,6 @@
       "onboard_time": 1732076902,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139513,
-      "num": 139513,
-      "word": "羊毛月和猫一杯疑似情侣",
-      "onboard_time": 1732539800,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 139498,
@@ -56803,6 +56859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121745,
+      "num": 121745,
+      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
+      "onboard_time": 1732543880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121744,
       "num": 121744,
       "word": "山取回忆哀牢山见闻",
@@ -59379,6 +59443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111613,
+      "num": 111613,
+      "word": "土象星座在生活感受中发现爱",
+      "onboard_time": 1732543460,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111564,
       "num": 111564,
       "word": "陈都灵潇因出场",
@@ -59592,6 +59664,14 @@
       "word": "WTT中国大满贯女单决赛刷新收视纪录",
       "onboard_time": 1730804960,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110786,
+      "num": 198275,
+      "word": "王楚钦宣告回归呼应10月对球迷许诺",
+      "onboard_time": 1732539200,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -64035,14 +64115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85443,
-      "num": 256485,
-      "word": "官方辟谣汕头大量商户为躲检查停业",
-      "onboard_time": 1732539859,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 85203,
       "num": 442746,
       "word": "奥迪新品牌AUDI官宣了",
@@ -67755,6 +67827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64217,
+      "num": 325298,
+      "word": "中小学食堂不能被当某些人的摇钱树",
+      "onboard_time": 1732543640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64091,
       "num": 279749,
       "word": "公司回应浪胃仙创始人被判刑",
@@ -69969,6 +70049,14 @@
       "onboard_time": 1731579680,
       "rank": 16,
       "category": "军事"
+    },
+    {
+      "raw_hot": 54684,
+      "num": 254202,
+      "word": "宋雨琦的Live图是Tim拍的",
+      "onboard_time": 1732538840,
+      "rank": 25,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 54679,
@@ -72307,6 +72395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45916,
+      "num": 362605,
+      "word": "解决羽绒造假不只能靠行业自律",
+      "onboard_time": 1732543400,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45858,
       "num": 235219,
       "word": "古偶对打最终靠的是内容",
@@ -72521,14 +72617,6 @@
       "onboard_time": 1731479719,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 44956,
-      "num": 254202,
-      "word": "宋雨琦的Live图是Tim拍的",
-      "onboard_time": 1732538840,
-      "rank": 25,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 44945,
@@ -85913,6 +86001,14 @@
       "onboard_time": 1731452716,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8680,
+      "num": 421908,
+      "word": "奥运冠军在新疆",
+      "onboard_time": 1732517299,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 8617,

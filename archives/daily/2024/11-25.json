@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732542228134,
+  "endTime": 1732544566939,
   "band_list": [
     {
       "raw_hot": 2115596,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1182160,
-      "num": 947034,
+      "num": 1169281,
       "word": "Angelababy大秀状态",
       "onboard_time": 1732536259,
       "rank": 3,
@@ -161,6 +161,14 @@
       "onboard_time": 1732522158,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 878488,
+      "num": 407458,
+      "word": "警方通报王宝强被举报事件",
+      "onboard_time": 1732535419,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 873421,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 683138,
-      "num": 292039,
+      "num": 361158,
       "word": "虞书欣工作室",
       "onboard_time": 1732537761,
       "rank": 12,
@@ -427,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551574,
+      "num": 364257,
+      "word": "学生请假被拦事件涉事宿管被调离",
+      "onboard_time": 1732541721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549677,
+      "num": 549677,
+      "word": "野猪咬死老人当地半年猎捕野猪113头",
+      "onboard_time": 1732536860,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548170,
       "num": 333086,
       "word": "谭松韵领衔主演蜀锦人家",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 508225,
-      "num": 291564,
+      "num": 360557,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
       "onboard_time": 1732537040,
       "rank": 30,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463229,
+      "num": 363668,
+      "word": "BIGBANG屠榜QQ音乐",
+      "onboard_time": 1732543221,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 462398,
       "num": 462398,
       "word": "女子杀害家暴丈夫获子女和公婆谅解",
@@ -577,14 +609,6 @@
       "onboard_time": 1732508480,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 445253,
-      "num": 445253,
-      "word": "野猪咬死老人当地半年猎捕野猪113头",
-      "onboard_time": 1732536860,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 442727,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 412063,
-      "num": 341045,
+      "num": 360264,
       "word": "如何看待副所长殴打小学生被送锦旗",
       "onboard_time": 1732534638,
       "rank": 5,
@@ -731,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367157,
+      "num": 363392,
+      "word": "张予曦妈生小舞脸",
+      "onboard_time": 1732543221,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351832,
       "num": 351832,
       "word": "肖战掌镜",
@@ -809,6 +841,14 @@
       "onboard_time": 1732512260,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 321727,
+      "num": 321727,
+      "word": "蔡徐坤雪中撑伞",
+      "onboard_time": 1732540521,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 321195,
@@ -913,14 +953,6 @@
       "onboard_time": 1732498577,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284954,
-      "num": 284954,
-      "word": "蔡徐坤雪中撑伞",
-      "onboard_time": 1732540521,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 284798,
@@ -1211,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222311,
+      "num": 222311,
+      "word": "胡彦斌最不敢签名的一次",
+      "onboard_time": 1732544000,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221397,
       "num": 293120,
       "word": "野猪在我国分布情况如何",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1732515259,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217243,
+      "num": 217243,
+      "word": "羊毛月和猫一杯疑似情侣",
+      "onboard_time": 1732539800,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 217130,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1732458802,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201756,
+      "num": 201756,
+      "word": "田曦薇张凌赫将进组逐玉",
+      "onboard_time": 1732544061,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 200843,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1732506079,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173547,
+      "num": 196753,
+      "word": "鹿晗壁纸",
+      "onboard_time": 1732543400,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 173308,
@@ -2051,6 +2115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146669,
+      "num": 256485,
+      "word": "官方辟谣汕头大量商户为躲检查停业",
+      "onboard_time": 1732539859,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 146317,
       "num": 146317,
       "word": "以色列北部中部遭约150枚火箭弹袭击",
@@ -2088,14 +2160,6 @@
       "word": "东北老人爱上去南方旅居过冬",
       "onboard_time": 1732490836,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145375,
-      "num": 259441,
-      "word": "学生请假被拦事件涉事宿管被调离",
-      "onboard_time": 1732541721,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2169,14 +2233,6 @@
       "onboard_time": 1732526060,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139513,
-      "num": 139513,
-      "word": "羊毛月和猫一杯疑似情侣",
-      "onboard_time": 1732539800,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 138479,
@@ -2395,6 +2451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121745,
+      "num": 121745,
+      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
+      "onboard_time": 1732543880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121428,
       "num": 121428,
       "word": "河南民企协会发文称坚定支持胖东来",
@@ -2539,10 +2603,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111613,
+      "num": 111613,
+      "word": "土象星座在生活感受中发现爱",
+      "onboard_time": 1732543460,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111241,
       "num": 240958,
       "word": "日媒感叹中国啦啦队太强",
       "onboard_time": 1732526778,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110786,
+      "num": 198275,
+      "word": "王楚钦宣告回归呼应10月对球迷许诺",
+      "onboard_time": 1732539200,
       "rank": 24,
       "category": "体育"
     },
@@ -2771,14 +2851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85443,
-      "num": 256485,
-      "word": "官方辟谣汕头大量商户为躲检查停业",
-      "onboard_time": 1732539859,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 84566,
       "num": 84566,
       "word": "肖战射雕英雄传侠之大者展架海报",
@@ -2979,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64217,
+      "num": 325298,
+      "word": "中小学食堂不能被当某些人的摇钱树",
+      "onboard_time": 1732543640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62811,
       "num": 303100,
       "word": "铁梅 Fe male",
@@ -3073,6 +3153,14 @@
       "onboard_time": 1732467435,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54684,
+      "num": 254202,
+      "word": "宋雨琦的Live图是Tim拍的",
+      "onboard_time": 1732538840,
+      "rank": 25,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 53301,
@@ -3187,6 +3275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 45916,
+      "num": 362605,
+      "word": "解决羽绒造假不只能靠行业自律",
+      "onboard_time": 1732543400,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45286,
       "num": 63503,
       "word": "王楚钦4比0胜张本智和",
@@ -3201,14 +3297,6 @@
       "onboard_time": 1732534699,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 44956,
-      "num": 254202,
-      "word": "宋雨琦的Live图是Tim拍的",
-      "onboard_time": 1732538840,
-      "rank": 25,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 44945,
@@ -3475,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27159,
+      "num": 221521,
+      "word": "失笑",
+      "onboard_time": 1732542740,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26265,
       "num": 372377,
       "word": "邵艺辉说自己的电影不现实",
@@ -3728,6 +3824,14 @@
       "word": "冯萧灿被石铭扫踢KO后送进医院",
       "onboard_time": 1732468514,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8680,
+      "num": 421908,
+      "word": "奥运冠军在新疆",
+      "onboard_time": 1732517299,
+      "rank": 2,
       "category": "体育"
     },
     {

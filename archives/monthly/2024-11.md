@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 21:43:48
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 22:22:46
 </p>
 </blockquote>
 <p>
@@ -4941,6 +4941,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方通报王宝强被举报事件（热度：878488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E4%BC%9A%E5%85%81%E8%AE%B8%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B%E7%94%9F%E6%88%98%E7%94%9F%E4%B9%B1%23" target="weibo">
 中方不会允许朝鲜半岛生战生乱（热度：877885）
 </a>
@@ -6005,12 +6011,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B6%82%E7%A2%98%E4%BC%8F%E7%A5%9B%E7%97%983%E5%A4%A9%E5%90%8E%E6%95%88%E6%9E%9C%E6%98%8E%E6%98%BE%23" target="weibo">
 女生涂碘伏祛痘3天后效果明显（热度：784904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%93%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
-郑铮去世（热度：784763）
 </a>
 </li>
 
