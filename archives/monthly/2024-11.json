@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732508911345,
+  "endTime": 1732509819896,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -7459,6 +7459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 810552,
+      "num": 810552,
+      "word": "14个癌症早期信号一定要知道",
+      "onboard_time": 1732505658,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 809781,
       "num": 552318,
       "word": "九华山景区多只狗的脚被砍断",
@@ -8483,6 +8491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 744695,
+      "num": 744695,
+      "word": "孔雪儿即将新组合出道",
+      "onboard_time": 1732508419,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 744224,
       "num": 348779,
       "word": "王九龙结婚",
@@ -9259,14 +9275,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 703050,
-      "num": 703050,
-      "word": "14个癌症早期信号一定要知道",
-      "onboard_time": 1732505658,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 702681,
       "num": 702681,
       "word": "歼35A飞行画面",
@@ -9675,6 +9683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 680209,
+      "num": 680209,
+      "word": "NewJeans谢绝和ZB1合作",
+      "onboard_time": 1732506800,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680088,
       "num": 680088,
       "word": "长沙一小区9栋楼170个井盖",
@@ -9713,6 +9729,14 @@
       "onboard_time": 1731986120,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 677615,
+      "num": 648802,
+      "word": "塞尔维亚著名钟楼遭中文涂鸦",
+      "onboard_time": 1732508120,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 677482,
@@ -9937,14 +9961,6 @@
       "onboard_time": 1731599840,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 670037,
-      "num": 670037,
-      "word": "NewJeans谢绝和ZB1合作",
-      "onboard_time": 1732506800,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 669567,
@@ -10241,6 +10257,14 @@
       "onboard_time": 1731585380,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 655290,
+      "num": 670049,
+      "word": "部分劣质羽绒服填充物竟是飞丝",
+      "onboard_time": 1732506379,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 655239,
@@ -11449,6 +11473,14 @@
       "onboard_time": 1731233297,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 612281,
+      "num": 612281,
+      "word": "王楚钦呼吁不要过度解读自己的小动作",
+      "onboard_time": 1732507099,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 611911,
@@ -13545,14 +13577,6 @@
       "onboard_time": 1732333339,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532448,
-      "num": 532448,
-      "word": "王楚钦呼吁不要过度解读自己的小动作",
-      "onboard_time": 1732507099,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 532085,
@@ -16875,6 +16899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430990,
+      "num": 430990,
+      "word": "上海200元一锅的潮汕砂锅白粥",
+      "onboard_time": 1732508480,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 430778,
       "num": 197632,
       "word": "镇政府回应19岁男孩辍学打工照顾妹妹",
@@ -18483,14 +18515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393002,
-      "num": 670049,
-      "word": "部分劣质羽绒服填充物竟是飞丝",
-      "onboard_time": 1732506379,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 393001,
       "num": 393001,
       "word": "王楚钦第46周继续霸榜世一",
@@ -19651,6 +19675,14 @@
       "category": "正能量,正能量"
     },
     {
+      "raw_hot": 368254,
+      "num": 368254,
+      "word": "关宏峰逃亡",
+      "onboard_time": 1732508060,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368136,
       "num": 368136,
       "word": "这样的衣服眉姐姐从未对四郎穿过",
@@ -20667,14 +20699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 345072,
-      "num": 345071,
-      "word": "塞尔维亚著名钟楼遭中文涂鸦",
-      "onboard_time": 1732508120,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345004,
       "num": 515045,
       "word": "迪丽热巴粉衣撑伞路透",
@@ -21369,6 +21393,14 @@
       "onboard_time": 1732104740,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332869,
+      "num": 332869,
+      "word": "小巷人家 好的婚姻不怕谈钱",
+      "onboard_time": 1732509082,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 332520,
@@ -24603,14 +24635,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 280366,
-      "num": 280366,
-      "word": "孔雪儿即将新组合出道",
-      "onboard_time": 1732508419,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280248,
       "num": 280248,
       "word": "文淇中戏毕业大戏",
@@ -27537,6 +27561,14 @@
       "onboard_time": 1730816304,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247749,
+      "num": 247749,
+      "word": "日本知名摄影家在美遇袭身亡",
+      "onboard_time": 1732508839,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 247744,
@@ -30515,6 +30547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220399,
+      "num": 370158,
+      "word": "郑雨盛有交往对象",
+      "onboard_time": 1732507701,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220326,
       "num": 265297,
       "word": "彭昱畅演技",
@@ -30553,6 +30593,14 @@
       "onboard_time": 1732081101,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220191,
+      "num": 220191,
+      "word": "四川内江公交车失控画面",
+      "onboard_time": 1732509501,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220147,
@@ -33323,6 +33371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204104,
+      "num": 204104,
+      "word": "陈昊宇说要看见自己的价值",
+      "onboard_time": 1732507580,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204088,
       "num": 260973,
       "word": "周深KPL开幕式现场",
@@ -33547,6 +33603,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 203304,
+      "num": 465367,
+      "word": "羊毛月60秒视频广告报价35万",
+      "onboard_time": 1732509382,
+      "rank": 14,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 203296,
       "num": 203296,
       "word": "人怎么可以内向成这样",
@@ -33593,6 +33657,14 @@
       "onboard_time": 1731673759,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203037,
+      "num": 203037,
+      "word": "TOP登陆少年组合首张专辑无所畏惧",
+      "onboard_time": 1732508960,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 203023,
@@ -35475,12 +35547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196403,
+      "num": 242785,
+      "word": "一代人有一代人的重案六组",
+      "onboard_time": 1732509201,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196353,
       "num": 440887,
       "word": "传奇杯S2队长官宣",
       "onboard_time": 1730970080,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196330,
+      "num": 345072,
+      "word": "女子借款百万消失女儿背上70万官司",
+      "onboard_time": 1732507399,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196203,
@@ -35963,6 +36051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194395,
+      "num": 194395,
+      "word": "飞行员说有些东西就不太方便介绍了",
+      "onboard_time": 1732509560,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 194393,
       "num": 194439,
       "word": "陈哲远拖尾红纱",
@@ -36089,14 +36185,6 @@
       "onboard_time": 1731400339,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193868,
-      "num": 193868,
-      "word": "上海200元一锅的潮汕砂锅白粥",
-      "onboard_time": 1732508480,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 193856,
@@ -36289,6 +36377,14 @@
       "onboard_time": 1730449339,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 193325,
+      "num": 193325,
+      "word": "白敬亭提名金莲花奖",
+      "onboard_time": 1732509201,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 193313,
@@ -38819,14 +38915,6 @@
       "category": "作品衍生,电竞"
     },
     {
-      "raw_hot": 183818,
-      "num": 183818,
-      "word": "陈昊宇说要看见自己的价值",
-      "onboard_time": 1732507580,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183806,
       "num": 183806,
       "word": "白夜2编剧",
@@ -40265,14 +40353,6 @@
       "onboard_time": 1730470521,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 177464,
-      "num": 345072,
-      "word": "女子借款百万消失女儿背上70万官司",
-      "onboard_time": 1732507399,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177452,
@@ -43419,6 +43499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165439,
+      "num": 165439,
+      "word": "2024年挑战者杯大名单",
+      "onboard_time": 1732509682,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165430,
       "num": 227652,
       "word": "陈道明 还不回家睡觉",
@@ -45284,7 +45372,7 @@
     },
     {
       "raw_hot": 158982,
-      "num": 158982,
+      "num": 243658,
       "word": "Kanavi被曝加入TES",
       "onboard_time": 1732504579,
       "rank": 39,
@@ -46635,14 +46723,6 @@
       "category": "国外时政,国内时政"
     },
     {
-      "raw_hot": 154008,
-      "num": 154008,
-      "word": "日本知名摄影家在美遇袭身亡",
-      "onboard_time": 1732508839,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 154007,
       "num": 154007,
       "word": "机器狼首次公开亮相",
@@ -46993,6 +47073,14 @@
       "onboard_time": 1731732737,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153056,
+      "num": 153056,
+      "word": "2024PEL全明星",
+      "onboard_time": 1732509801,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 152994,
@@ -53355,14 +53443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 129414,
-      "num": 346426,
-      "word": "关宏峰逃亡",
-      "onboard_time": 1732508060,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129403,
       "num": 129403,
       "word": "付航红毯再现passion",
@@ -55977,14 +56057,6 @@
       "onboard_time": 1732007478,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 119924,
-      "num": 332545,
-      "word": "郑雨盛有交往对象",
-      "onboard_time": 1732507701,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 119920,
@@ -64395,6 +64467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73806,
+      "num": 1146451,
+      "word": "当长城遇见黄河惊艳了",
+      "onboard_time": 1732490775,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 73768,
       "num": 98629,
       "word": "杨仕泽 我要做妙妙子期的孩子",
@@ -66091,14 +66171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64640,
-      "num": 1146451,
-      "word": "当长城遇见黄河惊艳了",
-      "onboard_time": 1732490775,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 64618,
       "num": 238843,
       "word": "珠帘玉幕海外热度",
@@ -67537,6 +67609,14 @@
       "onboard_time": 1731752721,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58106,
+      "num": 379740,
+      "word": "活人共情吴秀雅牛马共情郑昊",
+      "onboard_time": 1732509441,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 58066,
@@ -72225,6 +72305,14 @@
       "onboard_time": 1732008621,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40147,
+      "num": 372095,
+      "word": "0.334纳米的石墨烯比金刚石还硬",
+      "onboard_time": 1732508839,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 40086,
@@ -84193,14 +84281,6 @@
       "onboard_time": 1731899538,
       "rank": 2,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 6944,
-      "num": 345072,
-      "word": "0.334纳米的石墨烯比金刚石还硬",
-      "onboard_time": 1732508839,
-      "rank": 18,
-      "category": "正能量"
     },
     {
       "raw_hot": 6904,

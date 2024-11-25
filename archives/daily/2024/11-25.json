@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732508911345,
+  "endTime": 1732509819896,
   "band_list": [
     {
       "raw_hot": 1499115,
@@ -43,12 +43,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 810552,
+      "num": 810552,
+      "word": "14个癌症早期信号一定要知道",
+      "onboard_time": 1732505658,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 755908,
       "num": 350030,
       "word": "鹿晗狼奔唇钉",
       "onboard_time": 1732451120,
       "rank": 5,
       "category": "演出,时尚"
+    },
+    {
+      "raw_hot": 744695,
+      "num": 744695,
+      "word": "孔雪儿即将新组合出道",
+      "onboard_time": 1732508419,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 714409,
@@ -59,12 +75,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 703050,
-      "num": 703050,
-      "word": "14个癌症早期信号一定要知道",
-      "onboard_time": 1732505658,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 680209,
+      "num": 680209,
+      "word": "NewJeans谢绝和ZB1合作",
+      "onboard_time": 1732506800,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 677615,
+      "num": 648802,
+      "word": "塞尔维亚著名钟楼遭中文涂鸦",
+      "onboard_time": 1732508120,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 673771,
@@ -75,12 +99,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 670037,
-      "num": 670037,
-      "word": "NewJeans谢绝和ZB1合作",
-      "onboard_time": 1732506800,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 655290,
+      "num": 670049,
+      "word": "部分劣质羽绒服填充物竟是飞丝",
+      "onboard_time": 1732506379,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 620590,
@@ -97,6 +121,14 @@
       "onboard_time": 1732498099,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 612281,
+      "num": 612281,
+      "word": "王楚钦呼吁不要过度解读自己的小动作",
+      "onboard_time": 1732507099,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 560976,
@@ -137,14 +169,6 @@
       "onboard_time": 1732499358,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 532448,
-      "num": 532448,
-      "word": "王楚钦呼吁不要过度解读自己的小动作",
-      "onboard_time": 1732507099,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 500895,
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430990,
+      "num": 430990,
+      "word": "上海200元一锅的潮汕砂锅白粥",
+      "onboard_time": 1732508480,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 418578,
       "num": 418578,
       "word": "好东西 快车太臭",
@@ -211,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393002,
-      "num": 670049,
-      "word": "部分劣质羽绒服填充物竟是飞丝",
-      "onboard_time": 1732506379,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 379129,
       "num": 379129,
       "word": "货拉拉司机回应保时捷",
@@ -233,6 +257,14 @@
       "onboard_time": 1732464620,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 368254,
+      "num": 368254,
+      "word": "关宏峰逃亡",
+      "onboard_time": 1732508060,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 351832,
@@ -275,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345072,
-      "num": 345071,
-      "word": "塞尔维亚著名钟楼遭中文涂鸦",
-      "onboard_time": 1732508120,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344264,
       "num": 276921,
       "word": "疑似李行亮取关麦琳",
@@ -297,6 +321,14 @@
       "onboard_time": 1732445119,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332869,
+      "num": 332869,
+      "word": "小巷人家 好的婚姻不怕谈钱",
+      "onboard_time": 1732509082,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 331008,
@@ -387,14 +419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 280366,
-      "num": 280366,
-      "word": "孔雪儿即将新组合出道",
-      "onboard_time": 1732508419,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279519,
       "num": 279519,
       "word": "日媒称王楚钦是无法逾越的高墙",
@@ -425,6 +449,14 @@
       "onboard_time": 1732460542,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 270770,
+      "num": 304285,
+      "word": "原神",
+      "onboard_time": 1732509201,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 267916,
@@ -481,6 +513,14 @@
       "onboard_time": 1732458563,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247749,
+      "num": 247749,
+      "word": "日本知名摄影家在美遇袭身亡",
+      "onboard_time": 1732508839,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 247446,
@@ -547,12 +587,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 220399,
+      "num": 370158,
+      "word": "郑雨盛有交往对象",
+      "onboard_time": 1732507701,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220200,
       "num": 220200,
       "word": "JDG",
       "onboard_time": 1732461200,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220191,
+      "num": 220191,
+      "word": "四川内江公交车失控画面",
+      "onboard_time": 1732509501,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215068,
@@ -579,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204104,
+      "num": 204104,
+      "word": "陈昊宇说要看见自己的价值",
+      "onboard_time": 1732507580,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203900,
       "num": 255380,
       "word": "2024乒超总决赛上海举行",
@@ -601,6 +665,22 @@
       "onboard_time": 1732499358,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 203304,
+      "num": 465367,
+      "word": "羊毛月60秒视频广告报价35万",
+      "onboard_time": 1732509382,
+      "rank": 14,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 203037,
+      "num": 203037,
+      "word": "TOP登陆少年组合首张专辑无所畏惧",
+      "onboard_time": 1732508960,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 201781,
@@ -635,6 +715,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196403,
+      "num": 242785,
+      "word": "一代人有一代人的重案六组",
+      "onboard_time": 1732509201,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196330,
+      "num": 345072,
+      "word": "女子借款百万消失女儿背上70万官司",
+      "onboard_time": 1732507399,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195071,
       "num": 195071,
       "word": "3个动作助你入睡",
@@ -651,12 +747,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193868,
-      "num": 193868,
-      "word": "上海200元一锅的潮汕砂锅白粥",
-      "onboard_time": 1732508480,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 194395,
+      "num": 194395,
+      "word": "飞行员说有些东西就不太方便介绍了",
+      "onboard_time": 1732509560,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 193325,
+      "num": 193325,
+      "word": "白敬亭提名金莲花奖",
+      "onboard_time": 1732509201,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 193122,
@@ -675,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183818,
-      "num": 183818,
-      "word": "陈昊宇说要看见自己的价值",
-      "onboard_time": 1732507580,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180054,
       "num": 316105,
       "word": "当身边人遭家暴我们该怎么办",
@@ -697,14 +793,6 @@
       "onboard_time": 1732453160,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177464,
-      "num": 345072,
-      "word": "女子借款百万消失女儿背上70万官司",
-      "onboard_time": 1732507399,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173763,
@@ -739,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165439,
+      "num": 165439,
+      "word": "2024年挑战者杯大名单",
+      "onboard_time": 1732509682,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165121,
       "num": 165121,
       "word": "虞书欣慕声 李泽锋陌生",
@@ -764,7 +860,7 @@
     },
     {
       "raw_hot": 158982,
-      "num": 158982,
+      "num": 243658,
       "word": "Kanavi被曝加入TES",
       "onboard_time": 1732504579,
       "rank": 39,
@@ -787,12 +883,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154008,
-      "num": 154008,
-      "word": "日本知名摄影家在美遇袭身亡",
-      "onboard_time": 1732508839,
+      "raw_hot": 153056,
+      "num": 153056,
+      "word": "2024PEL全明星",
+      "onboard_time": 1732509801,
       "rank": 49,
-      "category": "海外新闻"
+      "category": "电竞"
     },
     {
       "raw_hot": 152531,
@@ -947,14 +1043,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 129414,
-      "num": 346426,
-      "word": "关宏峰逃亡",
-      "onboard_time": 1732508060,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127846,
       "num": 267012,
       "word": "四维高景二号03和04星发射成功",
@@ -1001,14 +1089,6 @@
       "onboard_time": 1732498577,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 119924,
-      "num": 332545,
-      "word": "郑雨盛有交往对象",
-      "onboard_time": 1732507701,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 119734,
@@ -1283,6 +1363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 73806,
+      "num": 1146451,
+      "word": "当长城遇见黄河惊艳了",
+      "onboard_time": 1732490775,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 72717,
       "num": 72717,
       "word": "好东西彩蛋",
@@ -1323,14 +1411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64640,
-      "num": 1146451,
-      "word": "当长城遇见黄河惊艳了",
-      "onboard_time": 1732490775,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 59368,
       "num": 174614,
       "word": "涵艺爆料WBG争抢Meiko",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1732500378,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58106,
+      "num": 379740,
+      "word": "活人共情吴秀雅牛马共情郑昊",
+      "onboard_time": 1732509441,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 54841,
@@ -1449,6 +1537,14 @@
       "onboard_time": 1732482431,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40147,
+      "num": 372095,
+      "word": "0.334纳米的石墨烯比金刚石还硬",
+      "onboard_time": 1732508839,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 39037,
@@ -1713,14 +1809,6 @@
       "onboard_time": 1732476613,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 6944,
-      "num": 345072,
-      "word": "0.334纳米的石墨烯比金刚石还硬",
-      "onboard_time": 1732508839,
-      "rank": 18,
-      "category": "正能量"
     },
     {
       "raw_hot": 6278,

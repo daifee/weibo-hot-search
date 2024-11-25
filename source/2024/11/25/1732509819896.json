@@ -1,0 +1,410 @@
+{
+  "runTime": 1732509819896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1281420,
+        "num": 1281420,
+        "word": "情侣手指轮流被卡一天救助三次",
+        "onboard_time": 1732503678,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 930658,
+        "num": 930658,
+        "word": "丁禹兮杂志预售",
+        "onboard_time": 1732507640,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73806,
+        "num": 877829,
+        "word": "当长城遇见黄河惊艳了",
+        "onboard_time": 1732490775,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 829505,
+        "num": 829505,
+        "word": "2年被家暴16次女子幸存后的580天",
+        "onboard_time": 1732503558,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810552,
+        "num": 810552,
+        "word": "14个癌症早期信号一定要知道",
+        "onboard_time": 1732505658,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 744695,
+        "num": 744695,
+        "word": "孔雪儿即将新组合出道",
+        "onboard_time": 1732508419,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 726776,
+        "num": 726776,
+        "word": "羊毛月",
+        "onboard_time": 1732500558,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 708886,
+        "num": 708886,
+        "word": "四川内江一公交车失控致1死4伤",
+        "onboard_time": 1732505898,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 680209,
+        "num": 680209,
+        "word": "NewJeans谢绝和ZB1合作",
+        "onboard_time": 1732506800,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655290,
+        "num": 655290,
+        "word": "部分劣质羽绒服填充物竟是飞丝",
+        "onboard_time": 1732506379,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 728712,
+        "num": 649068,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 677615,
+        "num": 648802,
+        "word": "塞尔维亚著名钟楼遭中文涂鸦",
+        "onboard_time": 1732508120,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612281,
+        "num": 612281,
+        "word": "王楚钦呼吁不要过度解读自己的小动作",
+        "onboard_time": 1732507099,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512391,
+        "num": 512391,
+        "word": "婚内婚外定档",
+        "onboard_time": 1732504939,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203304,
+        "num": 465367,
+        "word": "羊毛月60秒视频广告报价35万",
+        "onboard_time": 1732509382,
+        "rank": 14,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 465091,
+        "num": 465091,
+        "word": "阿黛尔暂停个人事业",
+        "onboard_time": 1732507580,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430990,
+        "num": 430990,
+        "word": "上海200元一锅的潮汕砂锅白粥",
+        "onboard_time": 1732508480,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 58106,
+        "num": 379740,
+        "word": "活人共情吴秀雅牛马共情郑昊",
+        "onboard_time": 1732509441,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40147,
+        "num": 372095,
+        "word": "0.334纳米的石墨烯比金刚石还硬",
+        "onboard_time": 1732508839,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 220399,
+        "num": 370158,
+        "word": "郑雨盛有交往对象",
+        "onboard_time": 1732507701,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368254,
+        "num": 368254,
+        "word": "关宏峰逃亡",
+        "onboard_time": 1732508060,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332869,
+        "num": 332869,
+        "word": "小巷人家 好的婚姻不怕谈钱",
+        "onboard_time": 1732509082,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329829,
+        "num": 329829,
+        "word": "肖战掌镜",
+        "onboard_time": 1732505839,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318030,
+        "num": 318030,
+        "word": "雷军晒樊振东亲笔签名球拍",
+        "onboard_time": 1732506980,
+        "rank": 23,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 270770,
+        "num": 304285,
+        "word": "原神",
+        "onboard_time": 1732509201,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296396,
+        "num": 296396,
+        "word": "古茗口令",
+        "onboard_time": 1732503918,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251821,
+        "num": 251821,
+        "word": "张艺兴 你们这名字读的我都出汗了",
+        "onboard_time": 1732501637,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247749,
+        "num": 247749,
+        "word": "日本知名摄影家在美遇袭身亡",
+        "onboard_time": 1732508839,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83717,
+        "num": 243658,
+        "word": "Kanavi被曝加入TES",
+        "onboard_time": 1732504579,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196403,
+        "num": 242785,
+        "word": "一代人有一代人的重案六组",
+        "onboard_time": 1732509201,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242194,
+        "num": 242194,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732498099,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237536,
+        "num": 237536,
+        "word": "库克称没中国就没现在的苹果",
+        "onboard_time": 1732506260,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220741,
+        "num": 220741,
+        "word": "张本智和说最后一个球都不知道往哪发",
+        "onboard_time": 1732506319,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220191,
+        "num": 220191,
+        "word": "四川内江公交车失控画面",
+        "onboard_time": 1732509501,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218200,
+        "num": 218200,
+        "word": "央视曝光劣质羽绒制品以丝充绒",
+        "onboard_time": 1732483510,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216708,
+        "num": 216708,
+        "word": "2024爱奇艺尖叫之夜",
+        "onboard_time": 1732503018,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211724,
+        "num": 211724,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204104,
+        "num": 204104,
+        "word": "陈昊宇说要看见自己的价值",
+        "onboard_time": 1732507580,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203037,
+        "num": 203037,
+        "word": "TOP登陆少年组合首张专辑无所畏惧",
+        "onboard_time": 1732508960,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200381,
+        "num": 200381,
+        "word": "冰雪大世界糖葫芦摊位100万起拍",
+        "onboard_time": 1732493418,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196330,
+        "num": 196330,
+        "word": "女子借款百万消失女儿背上70万官司",
+        "onboard_time": 1732507399,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "飞行员说有些东西就不太方便介绍了",
+        "onboard_time": 1732509560,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 193325,
+        "num": 193325,
+        "word": "白敬亭提名金莲花奖",
+        "onboard_time": 1732509201,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192128,
+        "num": 192128,
+        "word": "男子酒后打折妻子6处肋骨被判刑",
+        "onboard_time": 1732503258,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190845,
+        "num": 190845,
+        "word": "余承东官宣Mate70新功能",
+        "onboard_time": 1732499358,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165439,
+        "num": 165439,
+        "word": "2024年挑战者杯大名单",
+        "onboard_time": 1732509682,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162235,
+        "num": 162235,
+        "word": "乒超",
+        "onboard_time": 1732504518,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153389,
+        "num": 153389,
+        "word": "假羽绒服",
+        "onboard_time": 1732507099,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153381,
+        "num": 153381,
+        "word": "市监局通报以丝充绒情况",
+        "onboard_time": 1732503499,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 153056,
+        "num": 153056,
+        "word": "2024PEL全明星",
+        "onboard_time": 1732509801,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拉美之行的六个瞬间#"
+    }
+  }
+}
