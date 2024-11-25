@@ -1,0 +1,410 @@
+{
+  "runTime": 1732523479237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355170,
+        "num": 1355170,
+        "word": "TF四代魏子宸被校园霸凌",
+        "onboard_time": 1732521260,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444854,
+        "num": 444854,
+        "word": "陕西一野猪闯进村民家顶撞撕咬老人",
+        "onboard_time": 1732520238,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33756,
+        "num": 422333,
+        "word": "AI穿越良渚5000年文明之光",
+        "onboard_time": 1732521620,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 854435,
+        "num": 419959,
+        "word": "李一桐点痣了",
+        "onboard_time": 1732522279,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726814,
+        "num": 418851,
+        "word": "39岁失业后在菜市场重启人生",
+        "onboard_time": 1732510761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413347,
+        "num": 413347,
+        "word": "泰山下暴雪了",
+        "onboard_time": 1732515497,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747926,
+        "num": 409189,
+        "word": "魏子宸",
+        "onboard_time": 1732519458,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557398,
+        "num": 372763,
+        "word": "虞书欣确认出席尖叫之夜",
+        "onboard_time": 1732520539,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214925,
+        "num": 320854,
+        "word": "学生曾买10斤水饺叶嘉莹连声说好",
+        "onboard_time": 1732518800,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309877,
+        "num": 309877,
+        "word": "学生家里办白事凌晨请假宿管未开门",
+        "onboard_time": 1732522158,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 970290,
+        "num": 308947,
+        "word": "多方回应女生因白事凌晨跪求宿管开门",
+        "onboard_time": 1732520838,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 966369,
+        "num": 308363,
+        "word": "杭州兔子警官升职啦",
+        "onboard_time": 1732518019,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837111,
+        "num": 306187,
+        "word": "网易云音乐发长文称QQ音乐抄袭",
+        "onboard_time": 1732512858,
+        "rank": 12,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 832438,
+        "num": 305392,
+        "word": "2岁儿童在地下车库玩被车碾压致死",
+        "onboard_time": 1732519398,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86651,
+        "num": 304413,
+        "word": "长沙县卫健局一份官方文件7处错字",
+        "onboard_time": 1732521918,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621460,
+        "num": 302376,
+        "word": "酷狗音乐回应网易云音乐",
+        "onboard_time": 1732518618,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177381,
+        "num": 300977,
+        "word": "郑雨盛和女友拍人生四格",
+        "onboard_time": 1732519279,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168913,
+        "num": 300074,
+        "word": "最想吃的两个内娱大厨都来了",
+        "onboard_time": 1732522399,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208935,
+        "num": 299143,
+        "word": "羊毛月没资格嘲笑每个努力生活的人",
+        "onboard_time": 1732520419,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177269,
+        "num": 298282,
+        "word": "主播抽象卖包月销超4200万元",
+        "onboard_time": 1732520838,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1106715,
+        "num": 296229,
+        "word": "羊毛月曾称万柳书院业主为少爷",
+        "onboard_time": 1732517418,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 512357,
+        "num": 294583,
+        "word": "陆虎陈曌旭预制婚礼写真",
+        "onboard_time": 1732518139,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470793,
+        "num": 293473,
+        "word": "胖东来卫生巾区遭哄抢",
+        "onboard_time": 1732517237,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420380,
+        "num": 292573,
+        "word": "上班后微信不敢乱取名字了",
+        "onboard_time": 1732520779,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291937,
+        "num": 291937,
+        "word": "花140万买到了230平的房子",
+        "onboard_time": 1732516758,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288949,
+        "num": 288949,
+        "word": "虞书欣首个手机代言",
+        "onboard_time": 1732516339,
+        "rank": 25,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 215222,
+        "num": 215222,
+        "word": "infp确诊ADHD",
+        "onboard_time": 1732521978,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78348,
+        "num": 215194,
+        "word": "王楚钦说胜利属于每个人",
+        "onboard_time": 1732523421,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39635,
+        "num": 214936,
+        "word": "张雨霏的IP是新疆",
+        "onboard_time": 1732522938,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45740,
+        "num": 214799,
+        "word": "为什么餐饮冰火两重天",
+        "onboard_time": 1732521858,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162445,
+        "num": 214585,
+        "word": "王楚钦几乎一样的两颗史诗级精彩球",
+        "onboard_time": 1732521319,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214583,
+        "num": 214583,
+        "word": "3男子19元点外卖吃霸王餐一个月",
+        "onboard_time": 1732515197,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191496,
+        "num": 191496,
+        "word": "羊毛月2天掉粉70万",
+        "onboard_time": 1732517599,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176114,
+        "num": 176114,
+        "word": "韩国人有自己的S级短剧",
+        "onboard_time": 1732515079,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174535,
+        "num": 174535,
+        "word": "李一桐说的是谁",
+        "onboard_time": 1732517118,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166387,
+        "num": 166387,
+        "word": "14个癌症早期信号一定要知道",
+        "onboard_time": 1732505658,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "严浩翔出发南昌进组",
+        "onboard_time": 1732519458,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159565,
+        "num": 159565,
+        "word": "部分劣质羽绒服填充物竟是飞丝",
+        "onboard_time": 1732506379,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176313,
+        "num": 159428,
+        "word": "2年被家暴16次女子幸存后的580天",
+        "onboard_time": 1732503558,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11724,
+        "num": 157176,
+        "word": "去澳门的理由有了",
+        "onboard_time": 1732521620,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157151,
+        "num": 157151,
+        "word": "官方回复文件200余字现7处错字",
+        "onboard_time": 1732522579,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155990,
+        "num": 155990,
+        "word": "田曦薇将参加尖叫之夜",
+        "onboard_time": 1732521799,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150437,
+        "num": 150437,
+        "word": "吉赛尔 天选妈妈",
+        "onboard_time": 1732522459,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141848,
+        "num": 141848,
+        "word": "Rookie谈TheShy加入iG原因",
+        "onboard_time": 1732512260,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134920,
+        "num": 134920,
+        "word": "济南下雪啦",
+        "onboard_time": 1732518079,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133863,
+        "num": 133863,
+        "word": "辛雨锡 秦霄贤",
+        "onboard_time": 1732512379,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129651,
+        "num": 129651,
+        "word": "高级幼师徐艺洋全年无休",
+        "onboard_time": 1732523421,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129583,
+        "num": 129583,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128808,
+        "num": 128808,
+        "word": "A股牛还在吗",
+        "onboard_time": 1732520478,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128402,
+        "num": 128402,
+        "word": "有家暴倾向的人大多有13个特征",
+        "onboard_time": 1732523358,
+        "rank": 49,
+        "category": "议题讨论"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行高光时刻#"
+    }
+  }
+}

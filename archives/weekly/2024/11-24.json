@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732520267818,
+  "endTime": 1732523479237,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -137,6 +137,14 @@
       "onboard_time": 1732429997,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1355170,
+      "num": 1355170,
+      "word": "TF四代魏子宸被校园霸凌",
+      "onboard_time": 1732521260,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1343164,
@@ -283,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 970290,
+      "num": 308947,
+      "word": "多方回应女生因白事凌晨跪求宿管开门",
+      "onboard_time": 1732520838,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 946466,
       "num": 946466,
       "word": "秦霄贤回应近期舆论",
@@ -347,12 +363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 854435,
+      "num": 419959,
+      "word": "李一桐点痣了",
+      "onboard_time": 1732522279,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 842788,
       "num": 496756,
       "word": "看因果报应要签保密协议",
       "onboard_time": 1732422557,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 832438,
+      "num": 306334,
+      "word": "2岁儿童在地下车库玩被车碾压致死",
+      "onboard_time": 1732519398,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 812162,
@@ -457,6 +489,14 @@
       "onboard_time": 1732446320,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 747926,
+      "num": 409189,
+      "word": "魏子宸",
+      "onboard_time": 1732519458,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 744695,
@@ -683,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621460,
+      "num": 306911,
+      "word": "酷狗音乐回应网易云音乐",
+      "onboard_time": 1732518618,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 620590,
       "num": 1099294,
       "word": "货拉拉 保时捷",
@@ -809,6 +857,14 @@
       "onboard_time": 1732512260,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 557398,
+      "num": 372763,
+      "word": "虞书欣确认出席尖叫之夜",
+      "onboard_time": 1732520539,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 554719,
@@ -947,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489126,
-      "num": 306911,
-      "word": "酷狗音乐回应网易云音乐",
-      "onboard_time": 1732518618,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 487326,
       "num": 487326,
       "word": "乒超",
@@ -1027,6 +1075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 444854,
+      "num": 444854,
+      "word": "陕西一野猪闯进村民家顶撞撕咬老人",
+      "onboard_time": 1732520238,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442511,
       "num": 372131,
       "word": "高泽宇丸子订婚",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1732450159,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 420380,
+      "num": 292573,
+      "word": "上班后微信不敢乱取名字了",
+      "onboard_time": 1732520779,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 418578,
@@ -1355,14 +1419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 347757,
-      "num": 306334,
-      "word": "2岁儿童在地下车库玩被车碾压致死",
-      "onboard_time": 1732519398,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347529,
       "num": 316934,
       "word": "警方回应派出所人员殴打小学生",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1732512199,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309877,
+      "num": 309877,
+      "word": "学生家里办白事凌晨请假宿管未开门",
+      "onboard_time": 1732522158,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309538,
@@ -1972,7 +2036,7 @@
     },
     {
       "raw_hot": 244549,
-      "num": 230874,
+      "num": 300977,
       "word": "郑雨盛和女友拍人生四格",
       "onboard_time": 1732519279,
       "rank": 42,
@@ -2020,7 +2084,7 @@
     },
     {
       "raw_hot": 238693,
-      "num": 238693,
+      "num": 320854,
       "word": "学生曾买10斤水饺叶嘉莹连声说好",
       "onboard_time": 1732518800,
       "rank": 45,
@@ -2275,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215222,
+      "num": 215222,
+      "word": "infp确诊ADHD",
+      "onboard_time": 1732521978,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212131,
       "num": 212131,
       "word": "白桃星座",
@@ -2297,6 +2369,14 @@
       "onboard_time": 1732438820,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208935,
+      "num": 299143,
+      "word": "羊毛月没资格嘲笑每个努力生活的人",
+      "onboard_time": 1732520419,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 207109,
@@ -2353,14 +2433,6 @@
       "onboard_time": 1732488313,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204340,
-      "num": 247466,
-      "word": "魏子宸",
-      "onboard_time": 1732519458,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 204104,
@@ -2651,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191496,
+      "num": 326954,
+      "word": "羊毛月2天掉粉70万",
+      "onboard_time": 1732517599,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 191128,
       "num": 191128,
       "word": "肖战MV不要回头",
@@ -2899,12 +2979,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177493,
-      "num": 326954,
-      "word": "羊毛月2天掉粉70万",
-      "onboard_time": 1732517599,
-      "rank": 15,
-      "category": "网红"
+      "raw_hot": 177269,
+      "num": 298282,
+      "word": "主播抽象卖包月销超4200万元",
+      "onboard_time": 1732520838,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177031,
@@ -3075,6 +3155,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 168913,
+      "num": 300074,
+      "word": "最想吃的两个内娱大厨都来了",
+      "onboard_time": 1732522399,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168901,
       "num": 168901,
       "word": "肖战无袖肌肉线条",
@@ -3185,6 +3273,14 @@
       "onboard_time": 1732504278,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162445,
+      "num": 214585,
+      "word": "王楚钦几乎一样的两颗史诗级精彩球",
+      "onboard_time": 1732521319,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 162408,
@@ -3299,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157151,
+      "num": 157151,
+      "word": "官方回复文件200余字现7处错字",
+      "onboard_time": 1732522579,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "许昕再回应对王楚钦的车尾灯评价",
@@ -3353,6 +3457,14 @@
       "onboard_time": 1732514718,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155990,
+      "num": 155990,
+      "word": "田曦薇将参加尖叫之夜",
+      "onboard_time": 1732521799,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 155206,
@@ -3457,6 +3569,14 @@
       "onboard_time": 1732437799,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150437,
+      "num": 150437,
+      "word": "吉赛尔 天选妈妈",
+      "onboard_time": 1732522459,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149973,
@@ -3624,14 +3744,6 @@
       "word": "北京大风雨雪降温强势来袭",
       "onboard_time": 1732487112,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139905,
-      "num": 139905,
-      "word": "陕西一野猪闯进村民家顶撞撕咬老人",
-      "onboard_time": 1732520238,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -3819,6 +3931,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 129651,
+      "num": 129651,
+      "word": "高级幼师徐艺洋全年无休",
+      "onboard_time": 1732523421,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128894,
       "num": 419106,
       "word": "张凌赫给我让条路出来",
@@ -3827,12 +3947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128808,
+      "num": 128808,
+      "word": "A股牛还在吗",
+      "onboard_time": 1732520478,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128756,
       "num": 128756,
       "word": "妙妙子期系铃铛",
       "onboard_time": 1732427598,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "有家暴倾向的人大多有13个特征",
+      "onboard_time": 1732523358,
+      "rank": 49,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 128284,
@@ -4723,6 +4859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86651,
+      "num": 304413,
+      "word": "长沙县卫健局一份官方文件7处错字",
+      "onboard_time": 1732521918,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86237,
       "num": 460079,
       "word": "跨省闪婚乱象调查",
@@ -4833,6 +4977,14 @@
       "onboard_time": 1732433599,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78348,
+      "num": 215194,
+      "word": "王楚钦说胜利属于每个人",
+      "onboard_time": 1732523421,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 77697,
@@ -5347,6 +5499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45740,
+      "num": 214799,
+      "word": "为什么餐饮冰火两重天",
+      "onboard_time": 1732521858,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45292,
       "num": 310298,
       "word": "格斗女中医石铭扫踢震惊张伟丽",
@@ -5507,6 +5667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 39635,
+      "num": 214936,
+      "word": "张雨霏的IP是新疆",
+      "onboard_time": 1732522938,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39037,
       "num": 44647,
       "word": "肖战我们第三小节预告封面",
@@ -5649,6 +5817,14 @@
       "onboard_time": 1732400531,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33756,
+      "num": 422333,
+      "word": "AI穿越良渚5000年文明之光",
+      "onboard_time": 1732521620,
+      "rank": 2,
+      "category": "互联网"
     },
     {
       "raw_hot": 33036,
@@ -6113,6 +6289,14 @@
       "onboard_time": 1732381995,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11724,
+      "num": 157176,
+      "word": "去澳门的理由有了",
+      "onboard_time": 1732521620,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 11682,
