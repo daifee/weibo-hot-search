@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732499363179,
+  "endTime": 1732500711184,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -65,6 +65,14 @@
       "onboard_time": 1732439960,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1499115,
+      "num": 323003,
+      "word": "谢欣桐",
+      "onboard_time": 1732498519,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1413065,
@@ -627,6 +635,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 524749,
+      "num": 314071,
+      "word": "余承东官宣Mate70新功能",
+      "onboard_time": 1732499358,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 522071,
       "num": 522071,
       "word": "C位果然有C位的道理",
@@ -689,14 +705,6 @@
       "onboard_time": 1732412177,
       "rank": 19,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 474038,
-      "num": 323003,
-      "word": "谢欣桐",
-      "onboard_time": 1732498519,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 456375,
@@ -899,6 +907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 373093,
+      "num": 373093,
+      "word": "韩剧现在拨打的电话",
+      "onboard_time": 1732498099,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368136,
       "num": 368136,
       "word": "这样的衣服眉姐姐从未对四郎穿过",
@@ -955,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351426,
+      "num": 348958,
+      "word": "陈奕迅演唱会偶遇赵露思",
+      "onboard_time": 1732496720,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 350839,
       "num": 506151,
       "word": "广东人最怕的湿冷要来了",
@@ -969,6 +993,14 @@
       "onboard_time": 1732440021,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349229,
+      "num": 349229,
+      "word": "造假童装羽绒服两月卖出6万多件",
+      "onboard_time": 1732496598,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347805,
@@ -993,14 +1025,6 @@
       "onboard_time": 1732485911,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343604,
-      "num": 343604,
-      "word": "陈奕迅演唱会偶遇赵露思",
-      "onboard_time": 1732496720,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 339986,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1732426038,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313036,
+      "num": 313036,
+      "word": "豫P7A525被网友骑电动车帮找到",
+      "onboard_time": 1732470493,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 312878,
@@ -1251,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287052,
-      "num": 287052,
-      "word": "造假童装羽绒服两月卖出6万多件",
-      "onboard_time": 1732496598,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286761,
       "num": 286761,
       "word": "光与夜之恋 齐司礼",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1732404675,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279519,
+      "num": 279519,
+      "word": "日媒称王楚钦是无法逾越的高墙",
+      "onboard_time": 1732496539,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 278233,
@@ -1363,6 +1395,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263465,
+      "num": 263465,
+      "word": "一声慕声 丁禹兮带汗冲锋",
+      "onboard_time": 1732498577,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262900,
+      "num": 262900,
+      "word": "中国男篮蒙古男篮冲突",
+      "onboard_time": 1732499778,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261132,
       "num": 261132,
       "word": "JDG",
@@ -1395,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260163,
-      "num": 260163,
-      "word": "豫P7A525被网友骑电动车帮找到",
-      "onboard_time": 1732470493,
-      "rank": 28,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 259993,
       "num": 259993,
       "word": "王楚钦张本智和争冠",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1732450159,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256714,
+      "num": 256714,
+      "word": "小S为二女儿庆17岁生日",
+      "onboard_time": 1732498878,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 254658,
@@ -1659,14 +1707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 213701,
-      "num": 213701,
-      "word": "日媒称王楚钦是无法逾越的高墙",
-      "onboard_time": 1732496539,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212131,
       "num": 212131,
       "word": "白桃星座",
@@ -1731,6 +1771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203427,
+      "num": 203427,
+      "word": "A股",
+      "onboard_time": 1732499358,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202520,
       "num": 202520,
       "word": "黄子弘凡唱着唱着突然yue了",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1732453221,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199231,
+      "num": 199231,
+      "word": "种地吧",
+      "onboard_time": 1732498337,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199164,
@@ -2027,14 +2083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182971,
-      "num": 182971,
-      "word": "韩剧现在拨打的电话",
-      "onboard_time": 1732498099,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182710,
       "num": 182710,
       "word": "王楚钦说林诗栋刚输完就陪自己训练",
@@ -2105,14 +2153,6 @@
       "onboard_time": 1732446740,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 176299,
-      "num": 176299,
-      "word": "一声慕声 丁禹兮带汗冲锋",
-      "onboard_time": 1732498577,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 175942,
@@ -2611,14 +2651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141582,
-      "num": 141582,
-      "word": "小S为二女儿庆17岁生日",
-      "onboard_time": 1732498878,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140380,
       "num": 140380,
       "word": "北京大风雨雪降温强势来袭",
@@ -2867,14 +2899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124474,
-      "num": 124474,
-      "word": "种地吧",
-      "onboard_time": 1732498337,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124444,
       "num": 124444,
       "word": "许嵩 缺一book",
@@ -2908,7 +2932,7 @@
     },
     {
       "raw_hot": 123650,
-      "num": 123650,
+      "num": 197427,
       "word": "国考",
       "onboard_time": 1732490957,
       "rank": 36,
@@ -2953,6 +2977,14 @@
       "onboard_time": 1732423398,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121344,
+      "num": 121344,
+      "word": "微信群里的这种通知可能为木马病毒",
+      "onboard_time": 1732500017,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 121101,
@@ -3211,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112062,
+      "num": 112062,
+      "word": "被格斗女中医击倒对手发声",
+      "onboard_time": 1732495220,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111946,
       "num": 280016,
       "word": "韩媒说51岁的郑雨盛经常私联",
@@ -3339,20 +3379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104455,
+      "num": 104455,
+      "word": "樊振东教王腾打球",
+      "onboard_time": 1732500678,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104235,
       "num": 159645,
       "word": "Doinb聊Icon队内讧",
       "onboard_time": 1732436360,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 103751,
-      "num": 103751,
-      "word": "被格斗女中医击倒对手发声",
-      "onboard_time": 1732495220,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 103531,
@@ -3393,6 +3433,14 @@
       "onboard_time": 1732395612,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100222,
+      "num": 324272,
+      "word": "儿童呼吸道疾病高发怎么办",
+      "onboard_time": 1732498577,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99982,
@@ -3459,6 +3507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97353,
+      "num": 97353,
+      "word": "永夜星河",
+      "onboard_time": 1732499358,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97209,
       "num": 97209,
       "word": "宋亚轩 小怪兽",
@@ -3521,6 +3577,14 @@
       "onboard_time": 1732473432,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 91025,
+      "num": 197252,
+      "word": "羊毛月",
+      "onboard_time": 1732500558,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 89238,
@@ -3915,20 +3979,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 58987,
-      "num": 324272,
-      "word": "儿童呼吸道疾病高发怎么办",
-      "onboard_time": 1732498577,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 58934,
       "num": 71893,
       "word": "双城之战",
       "onboard_time": 1732371862,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 58552,
+      "num": 271985,
+      "word": "18年戍边战士最后一次描红界碑",
+      "onboard_time": 1732500378,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58066,
@@ -4291,6 +4355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36302,
+      "num": 118784,
+      "word": "刘浩存落日氛围感照片",
+      "onboard_time": 1732500139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36174,
       "num": 187658,
       "word": "畅所余言",
@@ -4416,6 +4488,14 @@
       "word": "交警大队院前黄牛扎推买卖分赶不走",
       "onboard_time": 1732458621,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31252,
+      "num": 105215,
+      "word": "叶嘉莹留下诗心映月",
+      "onboard_time": 1732499838,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
