@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732576992211,
+  "endTime": 1732577859693,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -865,6 +865,14 @@
       "onboard_time": 1732518618,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 621096,
+      "num": 225704,
+      "word": "羊毛月北大学历被质疑造假",
+      "onboard_time": 1732577595,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 620590,
@@ -1755,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343841,
+      "num": 872532,
+      "word": "董宇辉不再担任执行董事",
+      "onboard_time": 1732563611,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 339986,
       "num": 339986,
       "word": "时代少年团演唱会节目单",
@@ -2091,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286887,
+      "num": 286887,
+      "word": "女子长期遭严重家暴杀夫后被判5年",
+      "onboard_time": 1732576094,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286761,
       "num": 286761,
       "word": "光与夜之恋 齐司礼",
@@ -2139,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279663,
+      "num": 752695,
+      "word": "央视起底冒充女性网恋骗局",
+      "onboard_time": 1732569851,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 279519,
       "num": 279519,
       "word": "日媒称王楚钦是无法逾越的高墙",
@@ -2155,20 +2187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276830,
-      "num": 752695,
-      "word": "央视起底冒充女性网恋骗局",
-      "onboard_time": 1732569851,
-      "rank": 47,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 275645,
-      "num": 358180,
-      "word": "董宇辉不再担任执行董事",
-      "onboard_time": 1732563611,
-      "rank": 1,
-      "category": "互联网"
+      "raw_hot": 277464,
+      "num": 277464,
+      "word": "民警用羽绒服遮挡嫌疑人手铐",
+      "onboard_time": 1732553893,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275611,
@@ -2305,14 +2329,6 @@
       "onboard_time": 1732450159,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259023,
-      "num": 259023,
-      "word": "民警用羽绒服遮挡嫌疑人手铐",
-      "onboard_time": 1732553893,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258931,
@@ -2523,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238284,
+      "num": 224613,
+      "word": "就算何猷君真的来了也得输吧",
+      "onboard_time": 1732552756,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237334,
       "num": 237334,
       "word": "严浩翔一想到自己要干什么就想笑",
@@ -2603,6 +2627,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228758,
+      "num": 228758,
+      "word": "江苏中小学寒假延长",
+      "onboard_time": 1732548257,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 228661,
       "num": 225729,
       "word": "好东西 山西就是法国",
@@ -2635,14 +2667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226940,
-      "num": 226940,
-      "word": "江苏中小学寒假延长",
-      "onboard_time": 1732548257,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 225462,
       "num": 225462,
       "word": "遇见麦琳前vs遇见麦琳后",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1732526839,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224084,
+      "num": 224084,
+      "word": "淄职院回应女宿管阻止男医生上楼",
+      "onboard_time": 1732572671,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223754,
@@ -3049,14 +3081,6 @@
       "onboard_time": 1732419378,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200976,
-      "num": 200976,
-      "word": "淄职院回应女宿管阻止男医生上楼",
-      "onboard_time": 1732572671,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200843,
@@ -3483,14 +3507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 185600,
-      "num": 185600,
-      "word": "就算何猷君真的来了也得输吧",
-      "onboard_time": 1732552756,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "魏晨音乐节现场",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1732443320,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169632,
+      "num": 169632,
+      "word": "黄金",
+      "onboard_time": 1732577296,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 169484,
@@ -5315,6 +5339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115127,
+      "num": 115127,
+      "word": "校方通报学生因白事请假被拦事件",
+      "onboard_time": 1732546880,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115083,
       "num": 204052,
       "word": "中国男篮38分大胜蒙古男篮",
@@ -5593,14 +5625,6 @@
       "onboard_time": 1732525998,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106457,
-      "num": 106457,
-      "word": "校方通报学生因白事请假被拦事件",
-      "onboard_time": 1732546880,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105742,
@@ -5932,7 +5956,7 @@
     },
     {
       "raw_hot": 87528,
-      "num": 68301,
+      "num": 77796,
       "word": "郑钦文临时换帅",
       "onboard_time": 1732553534,
       "rank": 30,
@@ -5977,6 +6001,14 @@
       "onboard_time": 1732532960,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 86658,
+      "num": 86658,
+      "word": "大熊猫一见到雪忍不住满地打滚儿",
+      "onboard_time": 1732574415,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 86651,
@@ -6059,6 +6091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83386,
+      "num": 114263,
+      "word": "宋慧乔泰媒生图",
+      "onboard_time": 1732577656,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 82323,
       "num": 407433,
       "word": "最高法发布反家庭暴力犯罪典型案例",
@@ -6073,6 +6113,14 @@
       "onboard_time": 1732433658,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81752,
+      "num": 81752,
+      "word": "警方通报男子用充电宝敲击他人头部",
+      "onboard_time": 1732562830,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 81628,
@@ -6153,6 +6201,14 @@
       "onboard_time": 1732551078,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77826,
+      "num": 77826,
+      "word": "羊毛月粉丝掉破800万",
+      "onboard_time": 1732577475,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 77697,
@@ -6419,20 +6475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64174,
+      "num": 64174,
+      "word": "上个学而已没有这个必要吧",
+      "onboard_time": 1732558872,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63629,
       "num": 84196,
       "word": "抗癌网红湘妹子去世儿子发声",
       "onboard_time": 1732380857,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 63185,
-      "num": 201138,
-      "word": "女子长期遭严重家暴杀夫后被判5年",
-      "onboard_time": 1732576094,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63024,
@@ -6491,14 +6547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59822,
-      "num": 59822,
-      "word": "警方通报男子用充电宝敲击他人头部",
-      "onboard_time": 1732562830,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 59528,
       "num": 394850,
       "word": "货拉拉称未对司机进行封号等处理",
@@ -6536,6 +6584,14 @@
       "word": "精神侮辱也是校园欺凌",
       "onboard_time": 1732556172,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58698,
+      "num": 226708,
+      "word": "邻居讲述老人被野猪撕咬致死",
+      "onboard_time": 1732577296,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6739,6 +6795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49717,
+      "num": 49717,
+      "word": "王伟烈士之子成海军军官",
+      "onboard_time": 1732570990,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 49627,
       "num": 346881,
       "word": "于和伟审问戏压迫感好强",
@@ -6803,20 +6867,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 48320,
+      "num": 48320,
+      "word": "玉林一2岁男童骑车被汽车碾压",
+      "onboard_time": 1732563851,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 47964,
+      "num": 47964,
+      "word": "劣质羽绒服不能保暖还危害身体健康",
+      "onboard_time": 1732559652,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47292,
       "num": 221117,
       "word": "为什么餐饮冰火两重天",
       "onboard_time": 1732521858,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 47105,
-      "num": 47105,
-      "word": "上个学而已没有这个必要吧",
-      "onboard_time": 1732558872,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 47096,
@@ -6883,12 +6955,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45578,
-      "num": 45578,
-      "word": "大熊猫一见到雪忍不住满地打滚儿",
-      "onboard_time": 1732574415,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 45916,
+      "num": 45916,
+      "word": "南开大学迦陵学舍前摆满鲜花",
+      "onboard_time": 1732558331,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45824,
+      "num": 45824,
+      "word": "一架货机在立陶宛坠毁",
+      "onboard_time": 1732559413,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 45722,
+      "num": 45722,
+      "word": "博主模拟1864年的欧美女性穿衣服",
+      "onboard_time": 1732577595,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 45292,
@@ -6913,6 +7001,14 @@
       "onboard_time": 1732521620,
       "rank": 2,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 44737,
+      "num": 44737,
+      "word": "广东生态工程职业学院2名宿管员被调离",
+      "onboard_time": 1732577356,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44580,
@@ -7027,6 +7123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42077,
+      "num": 44076,
+      "word": "老人被野猪撕咬家属希望有合理赔偿",
+      "onboard_time": 1732577356,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41770,
+      "num": 44071,
+      "word": "许昕说张本韧带不行打不出背后击球",
+      "onboard_time": 1732577837,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41636,
       "num": 300099,
       "word": "潘展乐又说大实话了",
@@ -7043,36 +7155,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41598,
-      "num": 41598,
-      "word": "一架货机在立陶宛坠毁",
-      "onboard_time": 1732559413,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 41402,
       "num": 378688,
       "word": "荣耀300杨洋虞书欣同款旅拍神器",
       "onboard_time": 1732520057,
       "rank": 40,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 41373,
-      "num": 41373,
-      "word": "玉林一2岁男童骑车被汽车碾压",
-      "onboard_time": 1732563851,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 41350,
-      "num": 41350,
-      "word": "王伟烈士之子成海军军官",
-      "onboard_time": 1732570990,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 41304,
@@ -7219,14 +7307,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 36632,
-      "num": 40826,
-      "word": "南开大学迦陵学舍前摆满鲜花",
-      "onboard_time": 1732558331,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36557,
       "num": 462118,
       "word": "如何看懂械字号卫生巾包装说明",
@@ -7307,6 +7387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34196,
+      "num": 92473,
+      "word": "OBGG显示Crisp加入TES",
+      "onboard_time": 1732577595,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34187,
       "num": 49329,
       "word": "看吧张碧晨下班也得骑车",
@@ -7320,14 +7408,6 @@
       "word": "贫困生改变境遇后仍被资助才是问题",
       "onboard_time": 1732400531,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33440,
-      "num": 40786,
-      "word": "劣质羽绒服不能保暖还危害身体健康",
-      "onboard_time": 1732559652,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7528,6 +7608,14 @@
       "word": "王宝强被举报系民事纠纷",
       "onboard_time": 1732536620,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27512,
+      "num": 51767,
+      "word": "NewJeans台历",
+      "onboard_time": 1732577475,
+      "rank": 35,
       "category": "艺人"
     },
     {
