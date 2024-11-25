@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732566367154,
+  "endTime": 1732567205909,
   "band_list": [
     {
       "raw_hot": 945120,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70849,
+      "num": 70849,
+      "word": "董宇辉不再担任执行董事",
+      "onboard_time": 1732563611,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69429,
       "num": 69429,
       "word": "蔡徐坤雪中撑伞",
@@ -353,14 +361,6 @@
       "onboard_time": 1732545920,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61267,
-      "num": 61267,
-      "word": "董宇辉不再担任执行董事",
-      "onboard_time": 1732563611,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 61185,
@@ -499,20 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24891,
+      "num": 24891,
+      "word": "警方通报男子用充电宝敲击他人头部",
+      "onboard_time": 1732562830,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 24654,
       "num": 58724,
       "word": "鹭卓听着船开启丰收",
       "onboard_time": 1732556354,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22973,
-      "num": 22973,
-      "word": "警方通报男子用充电宝敲击他人头部",
-      "onboard_time": 1732562830,
-      "rank": 47,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22596,
@@ -587,16 +587,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14022,
-      "num": 14022,
+      "raw_hot": 14786,
+      "num": 16724,
       "word": "玉林一2岁男童骑车被汽车碾压",
       "onboard_time": 1732563851,
       "rank": 35,
       "category": "舆论监督"
     },
     {
-      "raw_hot": 13360,
-      "num": 13360,
+      "raw_hot": 14294,
+      "num": 16727,
       "word": "一图教你识别真假羽绒服",
       "onboard_time": 1732564990,
       "rank": 42,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12133,
+      "num": 24373,
+      "word": "九江对伪劣羽绒服企业立案查处",
+      "onboard_time": 1732566612,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11930,
       "num": 25132,
       "word": "链博会高人气彰显了中国链的吸引力",
@@ -627,16 +635,16 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11501,
-      "num": 13779,
+      "raw_hot": 11650,
+      "num": 16712,
       "word": "第二届链博会开幕",
       "onboard_time": 1732564151,
       "rank": 37,
       "category": "正能量"
     },
     {
-      "raw_hot": 11130,
-      "num": 13295,
+      "raw_hot": 11493,
+      "num": 16709,
       "word": "王伟烈士妻子说希望孩子当好兵",
       "onboard_time": 1732566311,
       "rank": 49,
