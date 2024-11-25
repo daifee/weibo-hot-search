@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732548340317,
+  "endTime": 1732549224418,
   "band_list": [
     {
       "raw_hot": 2115596,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1391996,
+      "num": 1391996,
+      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
+      "onboard_time": 1732543880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1355170,
       "num": 1355170,
       "word": "TF四代魏子宸被校园霸凌",
@@ -105,14 +113,6 @@
       "onboard_time": 1732507640,
       "rank": 1,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1257710,
-      "num": 1257710,
-      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
-      "onboard_time": 1732543880,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1245056,
@@ -345,6 +345,14 @@
       "onboard_time": 1732504939,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 667320,
+      "num": 280755,
+      "word": "任嘉伦潮牌价格",
+      "onboard_time": 1732547781,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 655290,
@@ -875,6 +883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321757,
+      "num": 288484,
+      "word": "羊毛月 王甜心",
+      "onboard_time": 1732547179,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 321727,
       "num": 321727,
       "word": "蔡徐坤雪中撑伞",
@@ -921,14 +937,6 @@
       "onboard_time": 1732470493,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 312745,
-      "num": 288484,
-      "word": "羊毛月 王甜心",
-      "onboard_time": 1732547179,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 309902,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1732464978,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261199,
+      "num": 287808,
+      "word": "十二星座水逆指南",
+      "onboard_time": 1732544721,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 257240,
@@ -1235,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232093,
-      "num": 287808,
-      "word": "十二星座水逆指南",
-      "onboard_time": 1732544721,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 227170,
       "num": 227170,
       "word": "微信群里的这种通知可能为木马病毒",
@@ -1272,6 +1280,14 @@
       "word": "外网巨头",
       "onboard_time": 1732534760,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224726,
+      "num": 132580,
+      "word": "任何人都不该受到任何形式的校园霸凌",
+      "onboard_time": 1732546040,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1403,7 +1419,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211339,
+      "raw_hot": 211415,
       "num": 289921,
       "word": "被野猪顶撞撕咬老人家属发声",
       "onboard_time": 1732546459,
@@ -1827,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176832,
+      "num": 400026,
+      "word": "高校回应学生因白事请假被拦",
+      "onboard_time": 1732542920,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 174412,
       "num": 300074,
       "word": "最想吃的两个内娱大厨都来了",
@@ -1952,14 +1976,6 @@
       "word": "北大偶遇戚薇上课",
       "onboard_time": 1732530498,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 163784,
-      "num": 129504,
-      "word": "任何人都不该受到任何形式的校园霸凌",
-      "onboard_time": 1732546040,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2211,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145870,
-      "num": 145870,
-      "word": "任嘉伦潮牌价格",
-      "onboard_time": 1732547781,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145762,
       "num": 214686,
       "word": "工作室给网友发与赵露思合照",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1732502958,
       "rank": 46,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 142750,
+      "num": 142750,
+      "word": "外交部回应中方对日本试行30天免签",
+      "onboard_time": 1732545800,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142742,
@@ -2417,14 +2433,6 @@
       "onboard_time": 1732517899,
       "rank": 49,
       "category": "体育,互联网"
-    },
-    {
-      "raw_hot": 131518,
-      "num": 400026,
-      "word": "高校回应学生因白事请假被拦",
-      "onboard_time": 1732542920,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 129821,
@@ -2668,7 +2676,7 @@
     },
     {
       "raw_hot": 115537,
-      "num": 115537,
+      "num": 129227,
       "word": "西卡疑似内涵Ning",
       "onboard_time": 1732545920,
       "rank": 30,
@@ -2681,14 +2689,6 @@
       "onboard_time": 1732495220,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111954,
-      "num": 131136,
-      "word": "外交部回应中方对日本试行30天免签",
-      "onboard_time": 1732545800,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111946,
@@ -2731,6 +2731,14 @@
       "category": "音乐,演出"
     },
     {
+      "raw_hot": 109437,
+      "num": 109437,
+      "word": "江苏中小学寒假延长",
+      "onboard_time": 1732548257,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 108572,
       "num": 143350,
       "word": "涉网络平台算法典型问题举报邮箱公布",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1732504338,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105667,
+      "num": 140762,
+      "word": "丁禹兮有力量渡难关",
+      "onboard_time": 1732548918,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 105203,
@@ -3011,6 +3027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84238,
+      "num": 129372,
+      "word": "孙颖莎王楚钦单打冠军数量排第一",
+      "onboard_time": 1732547060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84209,
       "num": 84209,
       "word": "kid MVP",
@@ -3027,28 +3051,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 81917,
-      "num": 81917,
-      "word": "江苏中小学寒假延长",
-      "onboard_time": 1732548257,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 81628,
       "num": 267086,
       "word": "冒黑烟的货车是怎么过的年检",
       "onboard_time": 1732506800,
       "rank": 30,
       "category": "民生新闻,舆论监督"
-    },
-    {
-      "raw_hot": 81549,
-      "num": 129372,
-      "word": "孙颖莎王楚钦单打冠军数量排第一",
-      "onboard_time": 1732547060,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 81175,
@@ -3123,6 +3131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75009,
+      "num": 93717,
+      "word": "余宇涵伤痕妆",
+      "onboard_time": 1732548378,
+      "rank": 35,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 74406,
       "num": 74406,
       "word": "高泽宇丸子订婚",
@@ -3168,6 +3184,14 @@
       "word": "减肥神药上市药店不看体重给钱就寄",
       "onboard_time": 1732515197,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69728,
+      "num": 69728,
+      "word": "没有羽绒的羽绒服让消费者身寒心也寒",
+      "onboard_time": 1732549159,
+      "rank": 49,
       "category": "民生新闻"
     },
     {

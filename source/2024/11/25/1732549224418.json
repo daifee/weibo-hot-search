@@ -1,0 +1,410 @@
+{
+  "runTime": 1732549224418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391996,
+        "num": 1391996,
+        "word": "女子不堪家暴刺死睡熟丈夫被判5年",
+        "onboard_time": 1732543880,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1100779,
+        "num": 1100779,
+        "word": "魏子宸妈妈回应",
+        "onboard_time": 1732547240,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3,
+        "num": 825172,
+        "word": "奥运冠军在新疆",
+        "onboard_time": 1732517299,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700460,
+        "num": 700460,
+        "word": "胡彦斌最不敢签名的一次",
+        "onboard_time": 1732544000,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309789,
+        "num": 309789,
+        "word": "卫生巾",
+        "onboard_time": 1732546160,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281451,
+        "num": 281451,
+        "word": "有家暴倾向的人大多有13个特征",
+        "onboard_time": 1732523358,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 667320,
+        "num": 280755,
+        "word": "任嘉伦潮牌价格",
+        "onboard_time": 1732547781,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574046,
+        "num": 274441,
+        "word": "Angelababy大秀状态",
+        "onboard_time": 1732536259,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 261199,
+        "num": 261199,
+        "word": "十二星座水逆指南",
+        "onboard_time": 1732544721,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211415,
+        "num": 211415,
+        "word": "被野猪顶撞撕咬老人家属发声",
+        "onboard_time": 1732546459,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392741,
+        "num": 208120,
+        "word": "警方通报王宝强被举报事件",
+        "onboard_time": 1732535419,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361361,
+        "num": 201460,
+        "word": "BIGBANG屠榜QQ音乐",
+        "onboard_time": 1732543221,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321757,
+        "num": 196656,
+        "word": "羊毛月 王甜心",
+        "onboard_time": 1732547179,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284955,
+        "num": 193356,
+        "word": "立陶宛称寻求与中国全面恢复外交关系",
+        "onboard_time": 1732537040,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276144,
+        "num": 186131,
+        "word": "虞书欣工作室",
+        "onboard_time": 1732537761,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181396,
+        "num": 181396,
+        "word": "学生请假被拦事件涉事宿管被调离",
+        "onboard_time": 1732541721,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176832,
+        "num": 176832,
+        "word": "高校回应学生因白事请假被拦",
+        "onboard_time": 1732542920,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163434,
+        "num": 163434,
+        "word": "江浙沪人是先天留学圣体吧",
+        "onboard_time": 1732532360,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142750,
+        "num": 142750,
+        "word": "外交部回应中方对日本试行30天免签",
+        "onboard_time": 1732545800,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105667,
+        "num": 140762,
+        "word": "丁禹兮有力量渡难关",
+        "onboard_time": 1732548918,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225535,
+        "num": 138278,
+        "word": "田曦薇张凌赫将进组逐玉",
+        "onboard_time": 1732544061,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691833,
+        "num": 136678,
+        "word": "鹿晗一捯饬内娱天亮了",
+        "onboard_time": 1732523960,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 517798,
+        "num": 134503,
+        "word": "TF四代魏子宸被校园霸凌",
+        "onboard_time": 1732521260,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224726,
+        "num": 132580,
+        "word": "任何人都不该受到任何形式的校园霸凌",
+        "onboard_time": 1732546040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95637,
+        "num": 129227,
+        "word": "西卡疑似内涵Ning",
+        "onboard_time": 1732545920,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170449,
+        "num": 126818,
+        "word": "张予曦妈生小舞脸",
+        "onboard_time": 1732543221,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150971,
+        "num": 126001,
+        "word": "鹿晗壁纸",
+        "onboard_time": 1732543400,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124110,
+        "num": 124110,
+        "word": "考研学不进去的人在干嘛",
+        "onboard_time": 1732538060,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117713,
+        "num": 117713,
+        "word": "李一桐点痣了",
+        "onboard_time": 1732522279,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117148,
+        "num": 117148,
+        "word": "蔡徐坤雪中撑伞",
+        "onboard_time": 1732540521,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115945,
+        "num": 115945,
+        "word": "徐梦洁发了400宫格",
+        "onboard_time": 1732530798,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109437,
+        "num": 109437,
+        "word": "江苏中小学寒假延长",
+        "onboard_time": 1732548257,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109123,
+        "num": 109123,
+        "word": "关晓彤一天穿了四套高定",
+        "onboard_time": 1732525279,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 103073,
+        "num": 103073,
+        "word": "全红婵评论王楚钦",
+        "onboard_time": 1732533079,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97403,
+        "num": 97403,
+        "word": "这就是二代爱豆权志龙",
+        "onboard_time": 1732540700,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75009,
+        "num": 93717,
+        "word": "余宇涵伤痕妆",
+        "onboard_time": 1732548378,
+        "rank": 35,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 91882,
+        "num": 91882,
+        "word": "校方通报学生因白事请假被拦事件",
+        "onboard_time": 1732546880,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89583,
+        "num": 89583,
+        "word": "红海海域游船沉没事故17人下落不明",
+        "onboard_time": 1732546341,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 87921,
+        "num": 87921,
+        "word": "爱奇艺尖叫之夜阵容名单首发",
+        "onboard_time": 1732530080,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84977,
+        "num": 84977,
+        "word": "孙颖莎女子单打赛事冠军榜第一",
+        "onboard_time": 1732538241,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84238,
+        "num": 84238,
+        "word": "孙颖莎王楚钦单打冠军数量排第一",
+        "onboard_time": 1732547060,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83232,
+        "num": 83232,
+        "word": "羊毛月和猫一杯疑似情侣",
+        "onboard_time": 1732539800,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81901,
+        "num": 81901,
+        "word": "李行亮麦琳全是情绪问题",
+        "onboard_time": 1732532539,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81036,
+        "num": 81036,
+        "word": "斗罗2第一集唐昊救场名场面",
+        "onboard_time": 1732537940,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78240,
+        "num": 78240,
+        "word": "高级幼师徐艺洋全年无休",
+        "onboard_time": 1732523421,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73427,
+        "num": 73427,
+        "word": "狗 快别拍了我有点尴尬",
+        "onboard_time": 1732539320,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72971,
+        "num": 72971,
+        "word": "今屿道歉",
+        "onboard_time": 1732535299,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71366,
+        "num": 71366,
+        "word": "kid MVP",
+        "onboard_time": 1732546579,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69861,
+        "num": 69861,
+        "word": "医生一大早在上班路上救了一条命",
+        "onboard_time": 1732547539,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 69728,
+        "num": 69728,
+        "word": "没有羽绒的羽绒服让消费者身寒心也寒",
+        "onboard_time": 1732549159,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快推动网络空间创新发展安全发展普惠发展#"
+    }
+  }
+}
