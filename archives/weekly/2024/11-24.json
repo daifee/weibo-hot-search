@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732556393889,
+  "endTime": 1732559508524,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -4059,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159157,
+      "num": 162982,
+      "word": "民警用羽绒服遮挡嫌疑人手铐",
+      "onboard_time": 1732553893,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158982,
       "num": 243658,
       "word": "Kanavi被曝加入TES",
@@ -6475,6 +6483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 58871,
+      "num": 58871,
+      "word": "精神侮辱也是校园欺凌",
+      "onboard_time": 1732556172,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58552,
       "num": 271985,
       "word": "18年戍边战士最后一次描红界碑",
@@ -6609,14 +6625,6 @@
       "onboard_time": 1732467914,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 52755,
-      "num": 68207,
-      "word": "民警用羽绒服遮挡嫌疑人手铐",
-      "onboard_time": 1732553893,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52615,
@@ -7347,14 +7355,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 29056,
-      "num": 58794,
-      "word": "精神侮辱也是校园欺凌",
-      "onboard_time": 1732556172,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29034,
       "num": 29034,
       "word": "南昌文旅为周深歌迷设特别打卡点",
@@ -7483,6 +7483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24914,
+      "num": 31459,
+      "word": "失笑 女性向",
+      "onboard_time": 1732556533,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24889,
       "num": 27708,
       "word": "宋亚轩鎏金飘带西装",
@@ -7585,6 +7593,14 @@
       "onboard_time": 1732473132,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22419,
+      "num": 31514,
+      "word": "75岁男子高空扔菜刀致人受伤被抓",
+      "onboard_time": 1732558213,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22270,
@@ -7739,6 +7755,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16751,
+      "num": 31246,
+      "word": "上个学而已没有这个必要吧",
+      "onboard_time": 1732558872,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 16199,
+      "num": 31223,
+      "word": "南开大学迦陵学舍前摆满鲜花",
+      "onboard_time": 1732558331,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16070,
       "num": 203119,
       "word": "被七年后的call back三杀了",
@@ -7777,6 +7809,14 @@
       "onboard_time": 1732389372,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14328,
+      "num": 31430,
+      "word": "一架货机在立陶宛坠毁",
+      "onboard_time": 1732559413,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14258,
@@ -7993,6 +8033,14 @@
       "onboard_time": 1732446021,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6394,
+      "num": 31524,
+      "word": "郑雨盛与女友相差25岁",
+      "onboard_time": 1732559052,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 6278,

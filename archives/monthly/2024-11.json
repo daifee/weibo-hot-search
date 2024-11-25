@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732556393889,
+  "endTime": 1732559508524,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -46515,6 +46515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159157,
+      "num": 162982,
+      "word": "民警用羽绒服遮挡嫌疑人手铐",
+      "onboard_time": 1732553893,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159149,
       "num": 284970,
       "word": "国企回应运营总监为中学学历",
@@ -69323,6 +69331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58871,
+      "num": 58871,
+      "word": "精神侮辱也是校园欺凌",
+      "onboard_time": 1732556172,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58796,
       "num": 508576,
       "word": "太好了是西装33",
@@ -70769,14 +70785,6 @@
       "onboard_time": 1731184031,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52755,
-      "num": 68207,
-      "word": "民警用羽绒服遮挡嫌疑人手铐",
-      "onboard_time": 1732553893,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52721,
@@ -78747,14 +78755,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 29056,
-      "num": 58794,
-      "word": "精神侮辱也是校园欺凌",
-      "onboard_time": 1732556172,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29041,
       "num": 292950,
       "word": "极氪与领克或将战略整合",
@@ -80395,6 +80395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24914,
+      "num": 31459,
+      "word": "失笑 女性向",
+      "onboard_time": 1732556533,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24904,
       "num": 41180,
       "word": "朱志鑫MAMACITA舞蹈cover",
@@ -81521,6 +81529,14 @@
       "onboard_time": 1731263711,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22419,
+      "num": 31514,
+      "word": "75岁男子高空扔菜刀致人受伤被抓",
+      "onboard_time": 1732558213,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22414,
@@ -83811,6 +83827,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 16751,
+      "num": 31246,
+      "word": "上个学而已没有这个必要吧",
+      "onboard_time": 1732558872,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16740,
       "num": 24638,
       "word": "车主称小米汽车回复故障是系统bug",
@@ -83921,6 +83945,14 @@
       "onboard_time": 1731433333,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 16199,
+      "num": 31223,
+      "word": "南开大学迦陵学舍前摆满鲜花",
+      "onboard_time": 1732558331,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16168,
@@ -84609,6 +84641,14 @@
       "onboard_time": 1731672440,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14328,
+      "num": 31430,
+      "word": "一架货机在立陶宛坠毁",
+      "onboard_time": 1732559413,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14299,
@@ -86737,6 +86777,14 @@
       "onboard_time": 1731928159,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 6394,
+      "num": 31524,
+      "word": "郑雨盛与女友相差25岁",
+      "onboard_time": 1732559052,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 6291,

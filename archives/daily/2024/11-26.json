@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732556393889,
+  "endTime": 1732559508524,
   "band_list": [
     {
       "raw_hot": 945120,
@@ -145,6 +145,14 @@
       "onboard_time": 1732537040,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159157,
+      "num": 162982,
+      "word": "民警用羽绒服遮挡嫌疑人手铐",
+      "onboard_time": 1732553893,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158116,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58871,
+      "num": 58871,
+      "word": "精神侮辱也是校园欺凌",
+      "onboard_time": 1732556172,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58784,
       "num": 112045,
       "word": "工作室给网友发与赵露思合照",
@@ -385,14 +401,6 @@
       "onboard_time": 1732533799,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52755,
-      "num": 68207,
-      "word": "民警用羽绒服遮挡嫌疑人手铐",
-      "onboard_time": 1732553893,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51684,
@@ -443,14 +451,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 29056,
-      "num": 58794,
-      "word": "精神侮辱也是校园欺凌",
-      "onboard_time": 1732556172,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25692,
       "num": 74729,
       "word": "鞠婧祎拉小提琴",
@@ -467,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24914,
+      "num": 31459,
+      "word": "失笑 女性向",
+      "onboard_time": 1732556533,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24654,
       "num": 58724,
       "word": "鹭卓听着船开启丰收",
       "onboard_time": 1732556354,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22419,
+      "num": 31514,
+      "word": "75岁男子高空扔菜刀致人受伤被抓",
+      "onboard_time": 1732558213,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 20358,
@@ -505,6 +521,46 @@
       "onboard_time": 1732545201,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16751,
+      "num": 31246,
+      "word": "上个学而已没有这个必要吧",
+      "onboard_time": 1732558872,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 16199,
+      "num": 31223,
+      "word": "南开大学迦陵学舍前摆满鲜花",
+      "onboard_time": 1732558331,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14328,
+      "num": 31430,
+      "word": "一架货机在立陶宛坠毁",
+      "onboard_time": 1732559413,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 6410,
+      "num": 69802,
+      "word": "第二届链博会亮点抢先看",
+      "onboard_time": 1732540219,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6394,
+      "num": 31524,
+      "word": "郑雨盛与女友相差25岁",
+      "onboard_time": 1732559052,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
