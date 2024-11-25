@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732512198033,
+  "endTime": 1732513266360,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1730822840,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1668072,
+      "num": 1668072,
+      "word": "39岁失业后在菜市场重启人生",
+      "onboard_time": 1732510761,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1660906,
@@ -7195,6 +7203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 830055,
+      "num": 830055,
+      "word": "羊毛月60秒视频广告报价35万",
+      "onboard_time": 1732509382,
+      "rank": 14,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 829547,
       "num": 829547,
       "word": "炸火花已全面入侵韩娱签售",
@@ -7771,14 +7787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 787348,
-      "num": 1125975,
-      "word": "39岁失业后在菜市场重启人生",
-      "onboard_time": 1732510761,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 787275,
       "num": 417747,
       "word": "美媒测算特朗普已获超200张选举人票",
@@ -7801,6 +7809,14 @@
       "onboard_time": 1731056000,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786156,
+      "num": 398180,
+      "word": "四川内江公交车失控画面",
+      "onboard_time": 1732509501,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 786022,
@@ -7865,14 +7881,6 @@
       "onboard_time": 1731132918,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 782287,
-      "num": 382000,
-      "word": "四川内江公交车失控画面",
-      "onboard_time": 1732509501,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 782106,
@@ -11585,14 +11593,6 @@
       "onboard_time": 1731643881,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 606237,
-      "num": 606237,
-      "word": "羊毛月60秒视频广告报价35万",
-      "onboard_time": 1732509382,
-      "rank": 14,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 606082,
@@ -15435,6 +15435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474863,
+      "num": 474863,
+      "word": "发型师晓华已经在为流量退去做准备",
+      "onboard_time": 1732512979,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 474822,
       "num": 359768,
       "word": "丁禹兮唱歌是真好听",
@@ -17441,6 +17449,14 @@
       "onboard_time": 1731128360,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 417593,
+      "num": 417593,
+      "word": "参加婚礼的吴世勋",
+      "onboard_time": 1732510459,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 417468,
@@ -21083,6 +21099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338834,
+      "num": 338834,
+      "word": "张本智和说只和妹妹配合打混双",
+      "onboard_time": 1732512260,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338760,
       "num": 338760,
       "word": "外交部称尊重美国人民的选择",
@@ -21585,6 +21609,14 @@
       "onboard_time": 1730956101,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329211,
+      "num": 329211,
+      "word": "Rookie谈TheShy加入iG原因",
+      "onboard_time": 1732512260,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 329197,
@@ -23067,14 +23099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303671,
-      "num": 303671,
-      "word": "参加婚礼的吴世勋",
-      "onboard_time": 1732510459,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303639,
       "num": 303639,
       "word": "周雨彤镜头下的金晨宋茜",
@@ -23601,6 +23625,14 @@
       "onboard_time": 1731160281,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295232,
+      "num": 295232,
+      "word": "辛雨锡 秦霄贤",
+      "onboard_time": 1732512379,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 295222,
@@ -28979,6 +29011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233799,
+      "num": 233799,
+      "word": "现实版凡人歌",
+      "onboard_time": 1732512199,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233660,
       "num": 233660,
       "word": "阿勒泰暴雪",
@@ -30979,6 +31019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217368,
+      "num": 202863,
+      "word": "网易云音乐发长文称QQ音乐抄袭",
+      "onboard_time": 1732512858,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217366,
       "num": 217366,
       "word": "江浙沪地区羽绒服销量反超北方",
@@ -31225,6 +31273,14 @@
       "onboard_time": 1731423803,
       "rank": 9,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 215310,
+      "num": 272044,
+      "word": "景甜手术后复工",
+      "onboard_time": 1732512199,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 215247,
@@ -33763,6 +33819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202933,
+      "num": 202933,
+      "word": "肖战不要回头MV转场脱衣服",
+      "onboard_time": 1732512560,
+      "rank": 32,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 202759,
       "num": 202759,
       "word": "5种蔬菜是隐藏的嘌呤大户",
@@ -34307,6 +34371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200843,
+      "num": 200843,
+      "word": "黄东萍让王懿律焊在解说席",
+      "onboard_time": 1732512199,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200793,
       "num": 200793,
       "word": "勇士vs凯尔特人",
@@ -34553,6 +34625,14 @@
       "onboard_time": 1730790741,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199863,
+      "num": 199863,
+      "word": "丁禹兮预售秒切10000册",
+      "onboard_time": 1732512979,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199830,
@@ -36259,6 +36339,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 193798,
+      "num": 193798,
+      "word": "哈利波特演员巴黎重聚",
+      "onboard_time": 1732512560,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193797,
       "num": 201559,
       "word": "陶昕然长文回应争议",
@@ -36745,6 +36833,14 @@
       "onboard_time": 1731025220,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192273,
+      "num": 192273,
+      "word": "凛冬的冰",
+      "onboard_time": 1732513157,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 192248,
@@ -37425,6 +37521,14 @@
       "onboard_time": 1731769162,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189874,
+      "num": 251148,
+      "word": "张杰回应AMA争议",
+      "onboard_time": 1732513039,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 189873,
@@ -40393,6 +40497,14 @@
       "onboard_time": 1730863943,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177537,
+      "num": 177537,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1732512739,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 177493,
@@ -57035,6 +57147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 116115,
+      "num": 239958,
+      "word": "王楚钦表情管理进步了",
+      "onboard_time": 1732513219,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116107,
       "num": 235160,
       "word": "直击国足迎战日本队",
@@ -63195,6 +63315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82323,
+      "num": 407433,
+      "word": "最高法发布反家庭暴力犯罪典型案例",
+      "onboard_time": 1732512497,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 82319,
       "num": 259082,
       "word": "一个二本学生的三次考研路",
@@ -68435,6 +68563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54876,
+      "num": 295199,
+      "word": "冷门项目运动员如何开启人生下半场",
+      "onboard_time": 1732511480,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 54841,
       "num": 67935,
       "word": "鹭卓不儿你们干嘛呀",
@@ -69441,14 +69577,6 @@
       "onboard_time": 1730653095,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 51040,
-      "num": 252116,
-      "word": "冷门项目运动员如何开启人生下半场",
-      "onboard_time": 1732511480,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 51012,
@@ -75211,6 +75339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32417,
+      "num": 174622,
+      "word": "古茗百万免单",
+      "onboard_time": 1732513098,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 32414,
       "num": 805688,
       "word": "昆明臭肉事件学校再被处罚",
@@ -77811,6 +77947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26265,
+      "num": 372377,
+      "word": "邵艺辉说自己的电影不现实",
+      "onboard_time": 1732511240,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26222,
       "num": 20825,
       "word": "虞书欣COSMO销量",
@@ -78985,14 +79129,6 @@
       "onboard_time": 1732201040,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23382,
-      "num": 372377,
-      "word": "邵艺辉说自己的电影不现实",
-      "onboard_time": 1732511240,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 23372,

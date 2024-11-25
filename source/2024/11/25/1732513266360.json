@@ -1,0 +1,410 @@
+{
+  "runTime": 1732513266360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1668072,
+        "num": 1668072,
+        "word": "39岁失业后在菜市场重启人生",
+        "onboard_time": 1732510761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 992940,
+        "num": 992940,
+        "word": "2年被家暴16次女子幸存后的580天",
+        "onboard_time": 1732503558,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37764,
+        "num": 893981,
+        "word": "当长城遇见黄河惊艳了",
+        "onboard_time": 1732490775,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 830055,
+        "num": 830055,
+        "word": "羊毛月60秒视频广告报价35万",
+        "onboard_time": 1732509382,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 564346,
+        "num": 564346,
+        "word": "小巷人家 好的婚姻不怕谈钱",
+        "onboard_time": 1732509082,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562109,
+        "num": 562109,
+        "word": "王楚钦呼吁不要过度解读自己的小动作",
+        "onboard_time": 1732507099,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474863,
+        "num": 474863,
+        "word": "发型师晓华已经在为流量退去做准备",
+        "onboard_time": 1732512979,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 417593,
+        "num": 417593,
+        "word": "参加婚礼的吴世勋",
+        "onboard_time": 1732510459,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411323,
+        "num": 411323,
+        "word": "NewJeans谢绝和ZB1合作",
+        "onboard_time": 1732506800,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82323,
+        "num": 407433,
+        "word": "最高法发布反家庭暴力犯罪典型案例",
+        "onboard_time": 1732512497,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 810898,
+        "num": 403569,
+        "word": "塞尔维亚著名钟楼遭中文涂鸦",
+        "onboard_time": 1732508120,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786156,
+        "num": 398180,
+        "word": "四川内江公交车失控画面",
+        "onboard_time": 1732509501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601414,
+        "num": 390159,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 387612,
+        "num": 387612,
+        "word": "部分劣质羽绒服填充物竟是飞丝",
+        "onboard_time": 1732506379,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 338834,
+        "num": 338834,
+        "word": "张本智和说只和妹妹配合打混双",
+        "onboard_time": 1732512260,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329211,
+        "num": 329211,
+        "word": "Rookie谈TheShy加入iG原因",
+        "onboard_time": 1732512260,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325994,
+        "num": 325994,
+        "word": "丁禹兮杂志预售",
+        "onboard_time": 1732507640,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 305448,
+        "num": 305448,
+        "word": "阿黛尔暂停个人事业",
+        "onboard_time": 1732507580,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295232,
+        "num": 295232,
+        "word": "辛雨锡 秦霄贤",
+        "onboard_time": 1732512379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54876,
+        "num": 295199,
+        "word": "冷门项目运动员如何开启人生下半场",
+        "onboard_time": 1732511480,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 704952,
+        "num": 294545,
+        "word": "羊毛月",
+        "onboard_time": 1732500558,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 446603,
+        "num": 293595,
+        "word": "四川内江一公交车失控致1死4伤",
+        "onboard_time": 1732505898,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 424823,
+        "num": 293112,
+        "word": "14个癌症早期信号一定要知道",
+        "onboard_time": 1732505658,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381619,
+        "num": 292534,
+        "word": "上海200元一锅的潮汕砂锅白粥",
+        "onboard_time": 1732508480,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292388,
+        "num": 292388,
+        "word": "飞行员说有些东西就不太方便介绍了",
+        "onboard_time": 1732509560,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 280467,
+        "num": 280467,
+        "word": "关宏峰逃亡",
+        "onboard_time": 1732508060,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215310,
+        "num": 272044,
+        "word": "景甜手术后复工",
+        "onboard_time": 1732512199,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285836,
+        "num": 260562,
+        "word": "情侣手指轮流被卡一天救助三次",
+        "onboard_time": 1732503678,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189874,
+        "num": 251148,
+        "word": "张杰回应AMA争议",
+        "onboard_time": 1732513039,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116115,
+        "num": 239958,
+        "word": "王楚钦表情管理进步了",
+        "onboard_time": 1732513219,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233799,
+        "num": 233799,
+        "word": "现实版凡人歌",
+        "onboard_time": 1732512199,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230399,
+        "num": 230399,
+        "word": "结婚有站姐 包出片的",
+        "onboard_time": 1732510040,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202933,
+        "num": 202933,
+        "word": "肖战不要回头MV转场脱衣服",
+        "onboard_time": 1732512560,
+        "rank": 32,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 217368,
+        "num": 202863,
+        "word": "网易云音乐发长文称QQ音乐抄袭",
+        "onboard_time": 1732512858,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202732,
+        "num": 202732,
+        "word": "你的孩子可能正在穿这些劣质羽绒服",
+        "onboard_time": 1732510640,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200843,
+        "num": 200843,
+        "word": "黄东萍让王懿律焊在解说席",
+        "onboard_time": 1732512199,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199863,
+        "num": 199863,
+        "word": "丁禹兮预售秒切10000册",
+        "onboard_time": 1732512979,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26265,
+        "num": 196339,
+        "word": "邵艺辉说自己的电影不现实",
+        "onboard_time": 1732511240,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193798,
+        "num": 193798,
+        "word": "哈利波特演员巴黎重聚",
+        "onboard_time": 1732512560,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192273,
+        "num": 192273,
+        "word": "凛冬的冰",
+        "onboard_time": 1732513157,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187218,
+        "num": 187218,
+        "word": "原来蜀锦是淳儿织的",
+        "onboard_time": 1732509981,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181018,
+        "num": 181018,
+        "word": "女子借款百万消失女儿背上70万官司",
+        "onboard_time": 1732507399,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178319,
+        "num": 178319,
+        "word": "雷军晒樊振东亲笔签名球拍",
+        "onboard_time": 1732506980,
+        "rank": 42,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 177537,
+        "num": 177537,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1732512739,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32417,
+        "num": 174622,
+        "word": "古茗百万免单",
+        "onboard_time": 1732513098,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173783,
+        "num": 173783,
+        "word": "杨紫提名金莲花奖最佳女主角",
+        "onboard_time": 1732510761,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167370,
+        "num": 167370,
+        "word": "日本知名摄影家在美遇袭身亡",
+        "onboard_time": 1732508839,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166954,
+        "num": 166954,
+        "word": "男子酒后打折妻子6处肋骨被判刑",
+        "onboard_time": 1732503258,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165306,
+        "num": 165306,
+        "word": "央视曝光劣质羽绒制品以丝充绒",
+        "onboard_time": 1732483510,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142622,
+        "num": 142622,
+        "word": "一代人有一代人的重案六组",
+        "onboard_time": 1732509201,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拉美之行的六个瞬间#"
+    }
+  }
+}
