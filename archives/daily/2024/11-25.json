@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732503805516,
+  "endTime": 1732504373502,
   "band_list": [
     {
       "raw_hot": 1499115,
@@ -11,8 +11,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1028134,
-      "num": 1164501,
+      "raw_hot": 1102770,
+      "num": 1176443,
       "word": "羊毛月",
       "onboard_time": 1732500558,
       "rank": 24,
@@ -83,12 +83,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 462263,
-      "num": 303203,
+      "raw_hot": 494944,
+      "num": 322380,
       "word": "张艺兴 你们这名字读的我都出汗了",
       "onboard_time": 1732501637,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484885,
+      "num": 320141,
+      "word": "2024爱奇艺尖叫之夜",
+      "onboard_time": 1732503018,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 440067,
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298442,
+      "num": 298442,
+      "word": "中国男篮蒙古男篮冲突",
+      "onboard_time": 1732499778,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298371,
       "num": 465503,
       "word": "保险公司回应连交10年保险结果失效",
@@ -227,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295412,
-      "num": 295412,
-      "word": "中国男篮蒙古男篮冲突",
-      "onboard_time": 1732499778,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 287840,
+      "num": 283331,
+      "word": "一声慕声 丁禹兮带汗冲锋",
+      "onboard_time": 1732498577,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 284798,
@@ -243,12 +259,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 283331,
-      "num": 283331,
-      "word": "一声慕声 丁禹兮带汗冲锋",
-      "onboard_time": 1732498577,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 284158,
+      "num": 284158,
+      "word": "2年被家暴16次女子幸存后的580天",
+      "onboard_time": 1732503558,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279519,
@@ -291,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261916,
+      "num": 261916,
+      "word": "情侣手指轮流被卡一天救助三次",
+      "onboard_time": 1732503678,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257240,
+      "num": 257240,
+      "word": "金价又反弹",
+      "onboard_time": 1732503198,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256714,
       "num": 256714,
       "word": "小S为二女儿庆17岁生日",
@@ -331,12 +363,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 230616,
-      "num": 230616,
-      "word": "2024爱奇艺尖叫之夜",
-      "onboard_time": 1732503018,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 240536,
+      "num": 240536,
+      "word": "市监局通报以丝充绒情况",
+      "onboard_time": 1732503499,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 227170,
@@ -443,20 +475,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 191220,
-      "num": 191220,
-      "word": "Scout JDG",
-      "onboard_time": 1732500979,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 194705,
+      "num": 194705,
+      "word": "男子酒后打折妻子6处肋骨被判刑",
+      "onboard_time": 1732503258,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 185879,
-      "num": 185879,
+      "raw_hot": 194500,
+      "num": 241012,
       "word": "白夜极光国服停服",
       "onboard_time": 1732502358,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193122,
+      "num": 193122,
+      "word": "Scout JDG",
+      "onboard_time": 1732500979,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 177585,
@@ -467,19 +507,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173943,
-      "num": 173943,
-      "word": "市监局通报以丝充绒情况",
-      "onboard_time": 1732503499,
-      "rank": 24,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 173308,
       "num": 173308,
       "word": "羽绒骗局曝光",
       "onboard_time": 1732493958,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169434,
+      "num": 169434,
+      "word": "本轮寒潮天气有3个特点",
+      "onboard_time": 1732501697,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -491,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160227,
-      "num": 160227,
-      "word": "金价又反弹",
-      "onboard_time": 1732503198,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 162679,
+      "num": 190567,
+      "word": "澳门国际电影节金莲花奖提名名单",
+      "onboard_time": 1732504278,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 156336,
@@ -507,28 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156251,
-      "num": 156251,
-      "word": "男子酒后打折妻子6处肋骨被判刑",
-      "onboard_time": 1732503258,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152068,
       "num": 152068,
       "word": "好东西",
       "onboard_time": 1732439119,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148441,
-      "num": 148441,
-      "word": "本轮寒潮天气有3个特点",
-      "onboard_time": 1732501697,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146870,
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143889,
+      "num": 143889,
+      "word": "什么是充绒量和含绒量",
+      "onboard_time": 1732502958,
+      "rank": 46,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 142742,
       "num": 142742,
       "word": "赵丽颖金莲花双提名",
@@ -577,6 +609,14 @@
       "onboard_time": 1732487112,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137512,
+      "num": 137512,
+      "word": "古茗口令",
+      "onboard_time": 1732503918,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 136715,
@@ -627,12 +667,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 126100,
-      "num": 126100,
-      "word": "2年被家暴16次女子幸存后的580天",
-      "onboard_time": 1732503558,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "爱指责别人是深度自卑的表现",
+      "onboard_time": 1732503678,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 123650,
@@ -649,14 +689,6 @@
       "onboard_time": 1732502478,
       "rank": 41,
       "category": "军事"
-    },
-    {
-      "raw_hot": 120609,
-      "num": 120609,
-      "word": "情侣手指轮流被卡一天救助三次",
-      "onboard_time": 1732503678,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120123,
@@ -715,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114958,
-      "num": 114958,
-      "word": "什么是充绒量和含绒量",
-      "onboard_time": 1732502958,
-      "rank": 46,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 112062,
       "num": 123521,
       "word": "被格斗女中医击倒对手发声",
@@ -755,12 +779,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105669,
-      "num": 105669,
-      "word": "爱指责别人是深度自卑的表现",
-      "onboard_time": 1732503678,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 106626,
+      "num": 316105,
+      "word": "当身边人遭家暴我们该怎么办",
+      "onboard_time": 1732503378,
+      "rank": 9,
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 105742,
+      "num": 105742,
+      "word": "男子怪民警扫了酒兴发视频造谣泄愤",
+      "onboard_time": 1732504338,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104455,
@@ -801,6 +833,14 @@
       "onboard_time": 1732461140,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97967,
+      "num": 125222,
+      "word": "关晓彤解锁第三本主流女刊",
+      "onboard_time": 1732502119,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 97353,
@@ -891,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81175,
+      "num": 264472,
+      "word": "库迪联名蜡笔小新",
+      "onboard_time": 1732501938,
+      "rank": 15,
+      "category": "美食,动漫"
+    },
+    {
       "raw_hot": 77074,
       "num": 77074,
       "word": "全网寻找的豫P7A525找到了",
@@ -939,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69230,
+      "num": 262089,
+      "word": "檀健次硬控10后广场舞",
+      "onboard_time": 1732504097,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67131,
       "num": 197419,
       "word": "虞书欣留住相遇的美好瞬间",
@@ -953,14 +1009,6 @@
       "onboard_time": 1732472232,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65397,
-      "num": 264472,
-      "word": "库迪联名蜡笔小新",
-      "onboard_time": 1732501938,
-      "rank": 15,
-      "category": "美食,动漫"
     },
     {
       "raw_hot": 65378,
@@ -993,14 +1041,6 @@
       "onboard_time": 1732467435,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53202,
-      "num": 303409,
-      "word": "当身边人遭家暴我们该怎么办",
-      "onboard_time": 1732503378,
-      "rank": 9,
-      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 52890,

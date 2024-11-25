@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732503805516,
+  "endTime": 1732504373502,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -4315,6 +4315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1102770,
+      "num": 1176443,
+      "word": "羊毛月",
+      "onboard_time": 1732500558,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1101807,
       "num": 1006417,
       "word": "马斯克为何抢当特朗普的榜1大哥",
@@ -4985,14 +4993,6 @@
       "onboard_time": 1732188919,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1028134,
-      "num": 1164501,
-      "word": "羊毛月",
-      "onboard_time": 1732500558,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 1027786,
@@ -14675,6 +14675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494944,
+      "num": 322380,
+      "word": "张艺兴 你们这名字读的我都出汗了",
+      "onboard_time": 1732501637,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494096,
       "num": 435567,
       "word": "警方回应柳州女子疑喝醉在路边被强暴",
@@ -15009,6 +15017,14 @@
       "onboard_time": 1732333697,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484885,
+      "num": 320141,
+      "word": "2024爱奇艺尖叫之夜",
+      "onboard_time": 1732503018,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 484690,
@@ -15713,14 +15729,6 @@
       "onboard_time": 1731159439,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 462263,
-      "num": 303203,
-      "word": "张艺兴 你们这名字读的我都出汗了",
-      "onboard_time": 1732501637,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 461852,
@@ -23203,6 +23211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 298442,
+      "num": 298442,
+      "word": "中国男篮蒙古男篮冲突",
+      "onboard_time": 1732499778,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298371,
       "num": 465503,
       "word": "保险公司回应连交10年保险结果失效",
@@ -23385,14 +23401,6 @@
       "onboard_time": 1731160281,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295412,
-      "num": 295412,
-      "word": "中国男篮蒙古男篮冲突",
-      "onboard_time": 1732499778,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 295222,
@@ -23843,6 +23851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287840,
+      "num": 283331,
+      "word": "一声慕声 丁禹兮带汗冲锋",
+      "onboard_time": 1732498577,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287767,
       "num": 273301,
       "word": "关晓彤把我演哭了",
@@ -24203,6 +24219,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 284158,
+      "num": 284158,
+      "word": "2年被家暴16次女子幸存后的580天",
+      "onboard_time": 1732503558,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284131,
       "num": 284131,
       "word": "鱿鱼游戏2预告",
@@ -24241,14 +24265,6 @@
       "onboard_time": 1732316894,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 283331,
-      "num": 283331,
-      "word": "一声慕声 丁禹兮带汗冲锋",
-      "onboard_time": 1732498577,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 283316,
@@ -25995,6 +26011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261916,
+      "num": 261916,
+      "word": "情侣手指轮流被卡一天救助三次",
+      "onboard_time": 1732503678,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261757,
       "num": 261757,
       "word": "盛李豪说黄雨婷比赛不会看对手成绩",
@@ -26441,6 +26465,14 @@
       "onboard_time": 1731333981,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257240,
+      "num": 257240,
+      "word": "金价又反弹",
+      "onboard_time": 1732503198,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 257196,
@@ -28019,6 +28051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 240536,
+      "num": 240536,
+      "word": "市监局通报以丝充绒情况",
+      "onboard_time": 1732503499,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 240518,
       "num": 240518,
       "word": "侃爷再被曝性侵丑闻",
@@ -29073,14 +29113,6 @@
       "onboard_time": 1732223351,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 230616,
-      "num": 230616,
-      "word": "2024爱奇艺尖叫之夜",
-      "onboard_time": 1732503018,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 230563,
@@ -35667,6 +35699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194705,
+      "num": 194705,
+      "word": "男子酒后打折妻子6处肋骨被判刑",
+      "onboard_time": 1732503258,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194694,
       "num": 194694,
       "word": "张杰跨年演唱会官宣",
@@ -35721,6 +35761,14 @@
       "onboard_time": 1732113382,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194500,
+      "num": 241012,
+      "word": "白夜极光国服停服",
+      "onboard_time": 1732502358,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 194493,
@@ -36137,6 +36185,14 @@
       "onboard_time": 1731030919,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193122,
+      "num": 193122,
+      "word": "Scout JDG",
+      "onboard_time": 1732500979,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 193075,
@@ -36657,14 +36713,6 @@
       "onboard_time": 1731143297,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191220,
-      "num": 191220,
-      "word": "Scout JDG",
-      "onboard_time": 1732500979,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 191179,
@@ -38081,14 +38129,6 @@
       "onboard_time": 1730606780,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185879,
-      "num": 185879,
-      "word": "白夜极光国服停服",
-      "onboard_time": 1732502358,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 185815,
@@ -40939,14 +40979,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 173943,
-      "num": 173943,
-      "word": "市监局通报以丝充绒情况",
-      "onboard_time": 1732503499,
-      "rank": 24,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 173904,
       "num": 173904,
       "word": "永夜星河双榜登顶",
@@ -42129,6 +42161,14 @@
       "onboard_time": 1730968579,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169434,
+      "num": 169434,
+      "word": "本轮寒潮天气有3个特点",
+      "onboard_time": 1732501697,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169425,
@@ -43931,6 +43971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162679,
+      "num": 190567,
+      "word": "澳门国际电影节金莲花奖提名名单",
+      "onboard_time": 1732504278,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162649,
       "num": 162649,
       "word": "徐明浩MAMA红毯造型",
@@ -44641,14 +44689,6 @@
       "onboard_time": 1731979940,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160227,
-      "num": 160227,
-      "word": "金价又反弹",
-      "onboard_time": 1732503198,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 160199,
@@ -45833,14 +45873,6 @@
       "onboard_time": 1731760823,
       "rank": 49,
       "category": "演出,电竞"
-    },
-    {
-      "raw_hot": 156251,
-      "num": 156251,
-      "word": "男子酒后打折妻子6处肋骨被判刑",
-      "onboard_time": 1732503258,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156163,
@@ -48139,14 +48171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148441,
-      "num": 148441,
-      "word": "本轮寒潮天气有3个特点",
-      "onboard_time": 1732501697,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148376,
       "num": 148376,
       "word": "时代少年团有你挑战",
@@ -49313,6 +49337,14 @@
       "onboard_time": 1732358300,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143889,
+      "num": 143889,
+      "word": "什么是充绒量和含绒量",
+      "onboard_time": 1732502958,
+      "rank": 46,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 143844,
@@ -51057,6 +51089,14 @@
       "onboard_time": 1730644521,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137512,
+      "num": 137512,
+      "word": "古茗口令",
+      "onboard_time": 1732503918,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 137485,
@@ -53595,6 +53635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "爱指责别人是深度自卑的表现",
+      "onboard_time": 1732503678,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127024,
       "num": 127024,
       "word": "巴拉圭2比1阿根廷",
@@ -53865,14 +53913,6 @@
       "onboard_time": 1731234138,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 126100,
-      "num": 126100,
-      "word": "2年被家暴16次女子幸存后的580天",
-      "onboard_time": 1732503558,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126052,
@@ -55443,14 +55483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120609,
-      "num": 120609,
-      "word": "情侣手指轮流被卡一天救助三次",
-      "onboard_time": 1732503678,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120605,
       "num": 120605,
       "word": "涵艺爆料Gala或加入iG",
@@ -56785,14 +56817,6 @@
       "onboard_time": 1730564000,
       "rank": 47,
       "category": "电竞,作品衍生"
-    },
-    {
-      "raw_hot": 114958,
-      "num": 114958,
-      "word": "什么是充绒量和含绒量",
-      "onboard_time": 1732502958,
-      "rank": 46,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 114944,
@@ -58651,6 +58675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 106626,
+      "num": 316105,
+      "word": "当身边人遭家暴我们该怎么办",
+      "onboard_time": 1732503378,
+      "rank": 9,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 106617,
       "num": 106617,
       "word": "十年时间只做一件事情有多卷",
@@ -58811,12 +58843,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105669,
-      "num": 105669,
-      "word": "爱指责别人是深度自卑的表现",
-      "onboard_time": 1732503678,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 105742,
+      "num": 105742,
+      "word": "男子怪民警扫了酒兴发视频造谣泄愤",
+      "onboard_time": 1732504338,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105635,
@@ -60257,6 +60289,14 @@
       "onboard_time": 1730977943,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97967,
+      "num": 125222,
+      "word": "关晓彤解锁第三本主流女刊",
+      "onboard_time": 1732502119,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 97921,
@@ -62875,6 +62915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81175,
+      "num": 264472,
+      "word": "库迪联名蜡笔小新",
+      "onboard_time": 1732501938,
+      "rank": 15,
+      "category": "美食,动漫"
+    },
+    {
       "raw_hot": 81112,
       "num": 191284,
       "word": "于适不是于小师是于老师",
@@ -64747,6 +64795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 69230,
+      "num": 262089,
+      "word": "檀健次硬控10后广场舞",
+      "onboard_time": 1732504097,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69211,
       "num": 1324389,
       "word": "网警提醒切勿随意扫码领礼品",
@@ -65569,14 +65625,6 @@
       "onboard_time": 1731588321,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65397,
-      "num": 264472,
-      "word": "库迪联名蜡笔小新",
-      "onboard_time": 1732501938,
-      "rank": 15,
-      "category": "美食,动漫"
     },
     {
       "raw_hot": 65289,
@@ -68257,14 +68305,6 @@
       "onboard_time": 1731924139,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53202,
-      "num": 303409,
-      "word": "当身边人遭家暴我们该怎么办",
-      "onboard_time": 1732503378,
-      "rank": 9,
-      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 53132,

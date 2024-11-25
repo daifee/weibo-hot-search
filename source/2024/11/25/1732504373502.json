@@ -1,0 +1,410 @@
+{
+  "runTime": 1732504373502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1102770,
+        "num": 1176443,
+        "word": "羊毛月",
+        "onboard_time": 1732500558,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468550,
+        "num": 468550,
+        "word": "余承东官宣Mate70新功能",
+        "onboard_time": 1732499358,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31877,
+        "num": 388828,
+        "word": "盘点我国医疗服务价格项目新变化",
+        "onboard_time": 1732453101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524286,
+        "num": 376482,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732498099,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347447,
+        "num": 347447,
+        "word": "冰雪大世界糖葫芦摊位100万起拍",
+        "onboard_time": 1732493418,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323071,
+        "num": 323071,
+        "word": "34岁女子骨癌化疗17次又确诊白血病",
+        "onboard_time": 1732458743,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494944,
+        "num": 322380,
+        "word": "张艺兴 你们这名字读的我都出汗了",
+        "onboard_time": 1732501637,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484885,
+        "num": 320141,
+        "word": "2024爱奇艺尖叫之夜",
+        "onboard_time": 1732503018,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317706,
+        "num": 317706,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106626,
+        "num": 316105,
+        "word": "当身边人遭家暴我们该怎么办",
+        "onboard_time": 1732503378,
+        "rank": 9,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 1186620,
+        "num": 315967,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467713,
+        "num": 315650,
+        "word": "谭松韵领衔主演蜀锦人家",
+        "onboard_time": 1732501998,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315332,
+        "num": 315332,
+        "word": "央视曝光劣质羽绒制品以丝充绒",
+        "onboard_time": 1732483510,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298442,
+        "num": 298442,
+        "word": "中国男篮蒙古男篮冲突",
+        "onboard_time": 1732499778,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284158,
+        "num": 284158,
+        "word": "2年被家暴16次女子幸存后的580天",
+        "onboard_time": 1732503558,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287840,
+        "num": 279214,
+        "word": "一声慕声 丁禹兮带汗冲锋",
+        "onboard_time": 1732498577,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272405,
+        "num": 272405,
+        "word": "货拉拉 保时捷",
+        "onboard_time": 1732492276,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81175,
+        "num": 262746,
+        "word": "库迪联名蜡笔小新",
+        "onboard_time": 1732501938,
+        "rank": 17,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 69230,
+        "num": 262089,
+        "word": "檀健次硬控10后广场舞",
+        "onboard_time": 1732504097,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261916,
+        "num": 261916,
+        "word": "情侣手指轮流被卡一天救助三次",
+        "onboard_time": 1732503678,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257240,
+        "num": 257240,
+        "word": "金价又反弹",
+        "onboard_time": 1732503198,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248775,
+        "num": 248775,
+        "word": "造假童装羽绒服两月卖出6万多件",
+        "onboard_time": 1732496598,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241796,
+        "num": 241796,
+        "word": "小S为二女儿庆17岁生日",
+        "onboard_time": 1732498878,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194500,
+        "num": 241012,
+        "word": "白夜极光国服停服",
+        "onboard_time": 1732502358,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240536,
+        "num": 240536,
+        "word": "市监局通报以丝充绒情况",
+        "onboard_time": 1732503499,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 216210,
+        "num": 216210,
+        "word": "微信群里的这种通知可能为木马病毒",
+        "onboard_time": 1732500017,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 194705,
+        "num": 194705,
+        "word": "男子酒后打折妻子6处肋骨被判刑",
+        "onboard_time": 1732503258,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193122,
+        "num": 193122,
+        "word": "Scout JDG",
+        "onboard_time": 1732500979,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189404,
+        "num": 190860,
+        "word": "陈奕迅演唱会偶遇赵露思",
+        "onboard_time": 1732496720,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162679,
+        "num": 190567,
+        "word": "澳门国际电影节金莲花奖提名名单",
+        "onboard_time": 1732504278,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190449,
+        "num": 190449,
+        "word": "数电发票",
+        "onboard_time": 1732496658,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169434,
+        "num": 169434,
+        "word": "本轮寒潮天气有3个特点",
+        "onboard_time": 1732501697,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159515,
+        "num": 159515,
+        "word": "日媒称王楚钦是无法逾越的高墙",
+        "onboard_time": 1732496539,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155326,
+        "num": 155326,
+        "word": "Tian被骗了",
+        "onboard_time": 1732496180,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154433,
+        "num": 154433,
+        "word": "种地吧",
+        "onboard_time": 1732498337,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147515,
+        "num": 147515,
+        "word": "丁禹兮 瞳孔地震",
+        "onboard_time": 1732495580,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145548,
+        "num": 145548,
+        "word": "遇见麦琳前vs遇见麦琳后",
+        "onboard_time": 1732471934,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143889,
+        "num": 143889,
+        "word": "什么是充绒量和含绒量",
+        "onboard_time": 1732502958,
+        "rank": 37,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 139522,
+        "num": 139522,
+        "word": "7万件羽绒服含绒量0企业主管被抓",
+        "onboard_time": 1732449439,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137512,
+        "num": 137512,
+        "word": "古茗口令",
+        "onboard_time": 1732503918,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132247,
+        "num": 132247,
+        "word": "特斯拉限时优惠1万元",
+        "onboard_time": 1732501518,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129346,
+        "num": 129346,
+        "word": "刘宇宁提名金莲花奖",
+        "onboard_time": 1732501158,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127098,
+        "num": 127098,
+        "word": "爱指责别人是深度自卑的表现",
+        "onboard_time": 1732503678,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97967,
+        "num": 125222,
+        "word": "关晓彤解锁第三本主流女刊",
+        "onboard_time": 1732502119,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124057,
+        "num": 124057,
+        "word": "好东西 快车太臭",
+        "onboard_time": 1732456581,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113899,
+        "num": 113899,
+        "word": "北方这些地方有暴雪",
+        "onboard_time": 1732485911,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112133,
+        "num": 112133,
+        "word": "以色列北部中部遭约150枚火箭弹袭击",
+        "onboard_time": 1732496180,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109783,
+        "num": 109783,
+        "word": "一通电话竟成罗阳与家人最后告别",
+        "onboard_time": 1732502478,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105742,
+        "num": 105742,
+        "word": "男子怪民警扫了酒兴发视频造谣泄愤",
+        "onboard_time": 1732504338,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105656,
+        "num": 105656,
+        "word": "12月起全国推广应用数电发票",
+        "onboard_time": 1732497319,
+        "rank": 49,
+        "category": "民生新闻,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行#"
+    }
+  }
+}
