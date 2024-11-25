@@ -1,0 +1,410 @@
+{
+  "runTime": 1732533616388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029501,
+        "num": 1164720,
+        "word": "TF四代魏子宸被校园霸凌",
+        "onboard_time": 1732521260,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953820,
+        "num": 953820,
+        "word": "长沙县卫健局承认出现工作失误",
+        "onboard_time": 1732530139,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36528,
+        "num": 816150,
+        "word": "AI穿越良渚5000年文明之光",
+        "onboard_time": 1732521620,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 753219,
+        "num": 753219,
+        "word": "徐梦洁发了400宫格",
+        "onboard_time": 1732530798,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462398,
+        "num": 462398,
+        "word": "女子杀害家暴丈夫获子女和公婆谅解",
+        "onboard_time": 1732529598,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459537,
+        "num": 459537,
+        "word": "有家暴倾向的人大多有13个特征",
+        "onboard_time": 1732523358,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 471314,
+        "num": 457744,
+        "word": "爱奇艺尖叫之夜阵容名单首发",
+        "onboard_time": 1732530080,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410864,
+        "num": 410864,
+        "word": "金钟大真是个好爸爸",
+        "onboard_time": 1732529899,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48968,
+        "num": 410145,
+        "word": "江西伪劣羽绒服制售企业被查",
+        "onboard_time": 1732532960,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 20451,
+        "num": 408901,
+        "word": "叶嘉莹让现代人重新感受斯文的力量",
+        "onboard_time": 1732532780,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1516302,
+        "num": 407504,
+        "word": "鹿晗一捯饬内娱天亮了",
+        "onboard_time": 1732523960,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 788285,
+        "num": 406429,
+        "word": "多方回应女生因白事凌晨跪求宿管开门",
+        "onboard_time": 1732520838,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 405441,
+        "num": 405441,
+        "word": "2岁儿童在地下车库玩被车碾压致死",
+        "onboard_time": 1732519398,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391854,
+        "num": 391854,
+        "word": "学生家里办白事凌晨请假宿管未开门",
+        "onboard_time": 1732522158,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70024,
+        "num": 347774,
+        "word": "劣质羽绒填充物每斤成本7元",
+        "onboard_time": 1732533198,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 232861,
+        "num": 346547,
+        "word": "潘展乐等11位奥运冠军抵达新疆",
+        "onboard_time": 1732526420,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345528,
+        "num": 345528,
+        "word": "李行亮麦琳全是情绪问题",
+        "onboard_time": 1732532539,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338081,
+        "num": 338081,
+        "word": "关晓彤一天穿了四套高定",
+        "onboard_time": 1732525279,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 337406,
+        "num": 337406,
+        "word": "网易云音乐发长文称QQ音乐抄袭",
+        "onboard_time": 1732512858,
+        "rank": 18,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 51971,
+        "num": 333507,
+        "word": "男子5万种进口牙舌头被咬肿",
+        "onboard_time": 1732532780,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808834,
+        "num": 332599,
+        "word": "羊毛月 猫一杯",
+        "onboard_time": 1732523479,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 331090,
+        "num": 331090,
+        "word": "高级幼师徐艺洋全年无休",
+        "onboard_time": 1732523421,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314706,
+        "num": 314706,
+        "word": "魏子宸对接回应校园霸凌",
+        "onboard_time": 1732531939,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239006,
+        "num": 239006,
+        "word": "杭州兔子警官升职啦",
+        "onboard_time": 1732518019,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217293,
+        "num": 217293,
+        "word": "向佐的起床闹钟是女儿的巴掌",
+        "onboard_time": 1732528278,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214407,
+        "num": 214407,
+        "word": "丁禹兮方确认不参加尖叫之夜",
+        "onboard_time": 1732526239,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212145,
+        "num": 212145,
+        "word": "上班后微信不敢乱取名字了",
+        "onboard_time": 1732520779,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89072,
+        "num": 211113,
+        "word": "王楚钦实现WTT总决赛三连冠",
+        "onboard_time": 1732530740,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117955,
+        "num": 209203,
+        "word": "大赏歌手 尹净汉",
+        "onboard_time": 1732532481,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157823,
+        "num": 206668,
+        "word": "蔡文静在遇渣男赛道上无敌了",
+        "onboard_time": 1732531459,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87108,
+        "num": 203840,
+        "word": "王楚钦连续排名男单世界第一",
+        "onboard_time": 1732532239,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203052,
+        "num": 203052,
+        "word": "李一桐点痣了",
+        "onboard_time": 1732522279,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195921,
+        "num": 195921,
+        "word": "全红婵评论王楚钦",
+        "onboard_time": 1732533079,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190547,
+        "num": 190547,
+        "word": "郭碧婷4岁女儿身高",
+        "onboard_time": 1732532660,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182995,
+        "num": 182995,
+        "word": "内蒙古做果丹皮还讲究老带新",
+        "onboard_time": 1732531578,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178994,
+        "num": 178994,
+        "word": "江浙沪人是先天留学圣体吧",
+        "onboard_time": 1732532360,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170377,
+        "num": 170377,
+        "word": "花140万买到了230平的房子",
+        "onboard_time": 1732516758,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167578,
+        "num": 167578,
+        "word": "刘青松 TES",
+        "onboard_time": 1732525459,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153863,
+        "num": 153863,
+        "word": "烈士王伟妻子回应81192重启",
+        "onboard_time": 1732532298,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147459,
+        "num": 147459,
+        "word": "胖东来卫生巾区遭哄抢",
+        "onboard_time": 1732517237,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49750,
+        "num": 143333,
+        "word": "Reno13发布会",
+        "onboard_time": 1732533438,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141868,
+        "num": 141868,
+        "word": "好东西 男性角色没名字",
+        "onboard_time": 1732527920,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137152,
+        "num": 137152,
+        "word": "北大偶遇戚薇上课",
+        "onboard_time": 1732530498,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136306,
+        "num": 136306,
+        "word": "Rookie为Uzi鸣不平",
+        "onboard_time": 1732529658,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134617,
+        "num": 134617,
+        "word": "王安宇秒懂金晨的梗",
+        "onboard_time": 1732531879,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132745,
+        "num": 132745,
+        "word": "鹿晗黄子韬在各自的赛道闪闪发光",
+        "onboard_time": 1732526839,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132358,
+        "num": 132358,
+        "word": "王楚钦总积分8825分",
+        "onboard_time": 1732530498,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127103,
+        "num": 127103,
+        "word": "恩波俱乐部晒合同",
+        "onboard_time": 1732530438,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124597,
+        "num": 124597,
+        "word": "鹿晗 音乐节也可以不吃苦",
+        "onboard_time": 1732525339,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123157,
+        "num": 123157,
+        "word": "李小冉杀回疯批女人赛道",
+        "onboard_time": 1732523779,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行高光时刻#"
+    }
+  }
+}
