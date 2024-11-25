@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732491420029,
+  "endTime": 1732499363179,
   "band_list": [
     {
       "raw_hot": 755908,
@@ -9,6 +9,22 @@
       "onboard_time": 1732451120,
       "rank": 5,
       "category": "演出,时尚"
+    },
+    {
+      "raw_hot": 620590,
+      "num": 1099294,
+      "word": "货拉拉 保时捷",
+      "onboard_time": 1732492276,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560976,
+      "num": 560976,
+      "word": "冰雪大世界糖葫芦摊位100万起拍",
+      "onboard_time": 1732493418,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551576,
@@ -20,11 +36,19 @@
     },
     {
       "raw_hot": 546725,
-      "num": 356638,
+      "num": 381865,
       "word": "34岁女子骨癌化疗17次又确诊白血病",
       "onboard_time": 1732458743,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474038,
+      "num": 323003,
+      "word": "谢欣桐",
+      "onboard_time": 1732498519,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 440067,
@@ -33,6 +57,14 @@
       "onboard_time": 1732439840,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418578,
+      "num": 418578,
+      "word": "好东西 快车太臭",
+      "onboard_time": 1732456581,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 397552,
@@ -83,12 +115,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343604,
+      "num": 343604,
+      "word": "陈奕迅演唱会偶遇赵露思",
+      "onboard_time": 1732496720,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 339780,
       "num": 339780,
       "word": "叶嘉莹逝世",
       "onboard_time": 1732445119,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321195,
+      "num": 321195,
+      "word": "Tian被骗了",
+      "onboard_time": 1732496180,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 315864,
+      "num": 315864,
+      "word": "丁禹兮 瞳孔地震",
+      "onboard_time": 1732495580,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 309538,
@@ -112,6 +168,14 @@
       "word": "保险公司回应连交10年保险结果失效",
       "onboard_time": 1732464018,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287052,
+      "num": 287052,
+      "word": "造假童装羽绒服两月卖出6万多件",
+      "onboard_time": 1732496598,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -155,8 +219,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260163,
+      "num": 260163,
+      "word": "豫P7A525被网友骑电动车帮找到",
+      "onboard_time": 1732470493,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 254658,
-      "num": 202301,
+      "num": 235004,
       "word": "丁禹兮微博访问量内娱第一",
       "onboard_time": 1732490056,
       "rank": 5,
@@ -169,6 +241,30 @@
       "onboard_time": 1732458563,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246903,
+      "num": 246903,
+      "word": "女子称花十二万整形后被说老了十岁",
+      "onboard_time": 1732452559,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241032,
+      "num": 241032,
+      "word": "地沟油变身成飞机飞行的燃料",
+      "onboard_time": 1732481950,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 225462,
+      "num": 225462,
+      "word": "遇见麦琳前vs遇见麦琳后",
+      "onboard_time": 1732471934,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 221366,
@@ -192,6 +288,14 @@
       "word": "王楚钦感谢马龙给自己的一句话",
       "onboard_time": 1732451721,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213701,
+      "num": 213701,
+      "word": "日媒称王楚钦是无法逾越的高墙",
+      "onboard_time": 1732496539,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -219,12 +323,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197037,
+      "num": 216399,
+      "word": "鹿晗绿瞳",
+      "onboard_time": 1732494319,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195071,
       "num": 195071,
       "word": "3个动作助你入睡",
       "onboard_time": 1732465397,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182971,
+      "num": 182971,
+      "word": "韩剧现在拨打的电话",
+      "onboard_time": 1732498099,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 177585,
@@ -235,6 +355,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176299,
+      "num": 176299,
+      "word": "一声慕声 丁禹兮带汗冲锋",
+      "onboard_time": 1732498577,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173308,
+      "num": 173308,
+      "word": "羽绒骗局曝光",
+      "onboard_time": 1732493958,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165121,
       "num": 165121,
       "word": "虞书欣慕声 李泽锋陌生",
@@ -243,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160209,
-      "num": 160209,
-      "word": "豫P7A525被网友骑电动车帮找到",
-      "onboard_time": 1732470493,
-      "rank": 28,
-      "category": "正能量"
+      "raw_hot": 156336,
+      "num": 156336,
+      "word": "横店群演要降薪了",
+      "onboard_time": 1732492879,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152068,
@@ -259,20 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150148,
-      "num": 150148,
-      "word": "女子称花十二万整形后被说老了十岁",
-      "onboard_time": 1732452559,
+      "raw_hot": 150801,
+      "num": 150801,
+      "word": "数电发票",
+      "onboard_time": 1732496658,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146933,
-      "num": 146933,
-      "word": "地沟油变身成飞机飞行的燃料",
-      "onboard_time": 1732481950,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 146870,
@@ -283,6 +411,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146317,
+      "num": 146317,
+      "word": "以色列北部中部遭约150枚火箭弹袭击",
+      "onboard_time": 1732496180,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 145641,
+      "num": 145641,
+      "word": "东北老人爱上去南方旅居过冬",
+      "onboard_time": 1732490836,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142742,
       "num": 142742,
       "word": "赵丽颖金莲花双提名",
@@ -291,12 +435,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140169,
-      "num": 160473,
-      "word": "好东西 快车太臭",
-      "onboard_time": 1732456581,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 141582,
+      "num": 141582,
+      "word": "小S为二女儿庆17岁生日",
+      "onboard_time": 1732498878,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140380,
+      "num": 140380,
+      "word": "北京大风雨雪降温强势来袭",
+      "onboard_time": 1732487112,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136715,
@@ -315,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129821,
+      "num": 129821,
+      "word": "日本消费者爱上中国鲜花",
+      "onboard_time": 1732496180,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129803,
       "num": 129803,
       "word": "老人交10年保险生病报销被告知失效",
@@ -331,12 +491,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124474,
+      "num": 124474,
+      "word": "种地吧",
+      "onboard_time": 1732498337,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123650,
+      "num": 123650,
+      "word": "国考",
+      "onboard_time": 1732490957,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119734,
       "num": 152773,
       "word": "王楚钦说林诗栋刚输完就陪自己训练",
       "onboard_time": 1732461021,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119138,
+      "num": 119138,
+      "word": "iG新赛季阵容曝光",
+      "onboard_time": 1732496239,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 118768,
@@ -355,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116744,
+      "num": 116744,
+      "word": "不达标假羽绒被流向酒店民宿",
+      "onboard_time": 1732498396,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111946,
       "num": 111946,
       "word": "韩媒说51岁的郑雨盛经常私联",
@@ -363,12 +555,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109866,
+      "num": 109866,
+      "word": "权志龙MAMA舞台播放量最高",
+      "onboard_time": 1732497198,
+      "rank": 40,
+      "category": "音乐,演出"
+    },
+    {
+      "raw_hot": 108572,
+      "num": 143350,
+      "word": "涉网络平台算法典型问题举报邮箱公布",
+      "onboard_time": 1732469114,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104431,
       "num": 104431,
       "word": "李行亮无名指戒指",
       "onboard_time": 1732460183,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103751,
+      "num": 103751,
+      "word": "被格斗女中医击倒对手发声",
+      "onboard_time": 1732495220,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 100458,
@@ -411,6 +627,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 94055,
+      "num": 94055,
+      "word": "孩子发烧什么情况要就医",
+      "onboard_time": 1732497377,
+      "rank": 44,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
       "raw_hot": 93403,
       "num": 93403,
       "word": "女子编造剧本卖惨博眼球被处罚",
@@ -451,11 +675,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 82421,
-      "num": 82421,
-      "word": "北京大风雨雪降温强势来袭",
-      "onboard_time": 1732487112,
-      "rank": 9,
+      "raw_hot": 85651,
+      "num": 134904,
+      "word": "祝绪丹说和杨仕泽是老夫老妻状态",
+      "onboard_time": 1732490656,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84566,
+      "num": 84566,
+      "word": "肖战射雕英雄传侠之大者展架海报",
+      "onboard_time": 1732481651,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 77074,
+      "num": 77074,
+      "word": "全网寻找的豫P7A525找到了",
+      "onboard_time": 1732498157,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -473,14 +713,6 @@
       "onboard_time": 1732473911,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75389,
-      "num": 75389,
-      "word": "肖战射雕英雄传侠之大者展架海报",
-      "onboard_time": 1732481651,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 74406,
@@ -531,20 +763,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63508,
-      "num": 63508,
-      "word": "国考",
-      "onboard_time": 1732490957,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 59368,
+      "num": 174614,
+      "word": "涵艺爆料WBG争抢Meiko",
+      "onboard_time": 1732492457,
+      "rank": 24,
+      "category": "电竞"
     },
     {
-      "raw_hot": 57297,
-      "num": 63507,
-      "word": "遇见麦琳前vs遇见麦琳后",
-      "onboard_time": 1732471934,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 58987,
+      "num": 324272,
+      "word": "儿童呼吸道疾病高发怎么办",
+      "onboard_time": 1732498577,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 54841,
@@ -675,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36036,
-      "num": 134904,
-      "word": "祝绪丹说和杨仕泽是老夫老妻状态",
-      "onboard_time": 1732490656,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35970,
       "num": 35970,
       "word": "中国目的地搜索热度暴涨",
@@ -707,6 +931,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34160,
+      "num": 448559,
+      "word": "盘点我国医疗服务价格项目新变化",
+      "onboard_time": 1732453101,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33036,
+      "num": 76409,
+      "word": "伊普斯维奇1比1曼联",
+      "onboard_time": 1732499297,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32370,
       "num": 32370,
       "word": "伊普斯维奇vs曼联",
@@ -723,28 +963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29930,
-      "num": 356998,
-      "word": "盘点我国医疗服务价格项目新变化",
-      "onboard_time": 1732453101,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26019,
       "num": 27631,
       "word": "杨幂姐感妆容",
       "onboard_time": 1732470253,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 25247,
-      "num": 143350,
-      "word": "涉网络平台算法典型问题举报邮箱公布",
-      "onboard_time": 1732469114,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24265,
@@ -769,14 +993,6 @@
       "onboard_time": 1732463899,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23675,
-      "num": 74280,
-      "word": "东北老人爱上去南方旅居过冬",
-      "onboard_time": 1732490836,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22579,

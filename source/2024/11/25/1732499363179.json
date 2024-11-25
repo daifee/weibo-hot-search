@@ -1,0 +1,410 @@
+{
+  "runTime": 1732499363179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 620590,
+        "num": 1099294,
+        "word": "货拉拉 保时捷",
+        "onboard_time": 1732492276,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560976,
+        "num": 560976,
+        "word": "冰雪大世界糖葫芦摊位100万起拍",
+        "onboard_time": 1732493418,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34160,
+        "num": 448559,
+        "word": "盘点我国医疗服务价格项目新变化",
+        "onboard_time": 1732453101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418578,
+        "num": 418578,
+        "word": "好东西 快车太臭",
+        "onboard_time": 1732456581,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381865,
+        "num": 381865,
+        "word": "34岁女子骨癌化疗17次又确诊白血病",
+        "onboard_time": 1732458743,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372327,
+        "num": 372327,
+        "word": "央视曝光劣质羽绒制品以丝充绒",
+        "onboard_time": 1732483510,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343604,
+        "num": 343604,
+        "word": "陈奕迅演唱会偶遇赵露思",
+        "onboard_time": 1732496720,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341532,
+        "num": 341532,
+        "word": "7万件羽绒服含绒量0企业主管被抓",
+        "onboard_time": 1732449439,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331405,
+        "num": 331405,
+        "word": "叶嘉莹逝世",
+        "onboard_time": 1732445119,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58987,
+        "num": 324272,
+        "word": "儿童呼吸道疾病高发怎么办",
+        "onboard_time": 1732498577,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 474038,
+        "num": 323003,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321195,
+        "num": 321195,
+        "word": "Tian被骗了",
+        "onboard_time": 1732496180,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315864,
+        "num": 315864,
+        "word": "丁禹兮 瞳孔地震",
+        "onboard_time": 1732495580,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287052,
+        "num": 287052,
+        "word": "造假童装羽绒服两月卖出6万多件",
+        "onboard_time": 1732496598,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260163,
+        "num": 260163,
+        "word": "豫P7A525被网友骑电动车帮找到",
+        "onboard_time": 1732470493,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 246903,
+        "num": 246903,
+        "word": "女子称花十二万整形后被说老了十岁",
+        "onboard_time": 1732452559,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241032,
+        "num": 241032,
+        "word": "地沟油变身成飞机飞行的燃料",
+        "onboard_time": 1732481950,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 235004,
+        "num": 235004,
+        "word": "丁禹兮微博访问量内娱第一",
+        "onboard_time": 1732490056,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225462,
+        "num": 225462,
+        "word": "遇见麦琳前vs遇见麦琳后",
+        "onboard_time": 1732471934,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197037,
+        "num": 216399,
+        "word": "鹿晗绿瞳",
+        "onboard_time": 1732494319,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213701,
+        "num": 213701,
+        "word": "日媒称王楚钦是无法逾越的高墙",
+        "onboard_time": 1732496539,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199066,
+        "num": 199066,
+        "word": "北方这些地方有暴雪",
+        "onboard_time": 1732485911,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182971,
+        "num": 182971,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732498099,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176299,
+        "num": 176299,
+        "word": "一声慕声 丁禹兮带汗冲锋",
+        "onboard_time": 1732498577,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59368,
+        "num": 174614,
+        "word": "涵艺爆料WBG争抢Meiko",
+        "onboard_time": 1732492457,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173308,
+        "num": 173308,
+        "word": "羽绒骗局曝光",
+        "onboard_time": 1732493958,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156336,
+        "num": 156336,
+        "word": "横店群演要降薪了",
+        "onboard_time": 1732492879,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150801,
+        "num": 150801,
+        "word": "数电发票",
+        "onboard_time": 1732496658,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146317,
+        "num": 146317,
+        "word": "以色列北部中部遭约150枚火箭弹袭击",
+        "onboard_time": 1732496180,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140978,
+        "num": 145647,
+        "word": "李子柒穿绿色唐朝襦裙太绝了",
+        "onboard_time": 1732456099,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145641,
+        "num": 145641,
+        "word": "东北老人爱上去南方旅居过冬",
+        "onboard_time": 1732490836,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144486,
+        "num": 144486,
+        "word": "中国最后一位女先生走了",
+        "onboard_time": 1732457061,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141582,
+        "num": 141582,
+        "word": "小S为二女儿庆17岁生日",
+        "onboard_time": 1732498878,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140380,
+        "num": 140380,
+        "word": "北京大风雨雪降温强势来袭",
+        "onboard_time": 1732487112,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129821,
+        "num": 129821,
+        "word": "日本消费者爱上中国鲜花",
+        "onboard_time": 1732496180,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124474,
+        "num": 124474,
+        "word": "种地吧",
+        "onboard_time": 1732498337,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123650,
+        "num": 123650,
+        "word": "国考",
+        "onboard_time": 1732490957,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119138,
+        "num": 119138,
+        "word": "iG新赛季阵容曝光",
+        "onboard_time": 1732496239,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 116744,
+        "word": "不达标假羽绒被流向酒店民宿",
+        "onboard_time": 1732498396,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112048,
+        "num": 112048,
+        "word": "广东人最怕的湿冷要来了",
+        "onboard_time": 1732463778,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109866,
+        "num": 109866,
+        "word": "权志龙MAMA舞台播放量最高",
+        "onboard_time": 1732497198,
+        "rank": 40,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 108572,
+        "num": 108572,
+        "word": "涉网络平台算法典型问题举报邮箱公布",
+        "onboard_time": 1732469114,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103751,
+        "num": 103751,
+        "word": "被格斗女中医击倒对手发声",
+        "onboard_time": 1732495220,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100706,
+        "num": 100706,
+        "word": "美国男子为跟情人私奔假死抛妻弃子",
+        "onboard_time": 1732453522,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94055,
+        "num": 94055,
+        "word": "孩子发烧什么情况要就医",
+        "onboard_time": 1732497377,
+        "rank": 44,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 85651,
+        "num": 85651,
+        "word": "祝绪丹说和杨仕泽是老夫老妻状态",
+        "onboard_time": 1732490656,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84566,
+        "num": 84566,
+        "word": "肖战射雕英雄传侠之大者展架海报",
+        "onboard_time": 1732481651,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79026,
+        "num": 79026,
+        "word": "鞠婧祎油管有22多个百万舞台",
+        "onboard_time": 1732463180,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77074,
+        "num": 77074,
+        "word": "全网寻找的豫P7A525找到了",
+        "onboard_time": 1732498157,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33036,
+        "num": 76409,
+        "word": "伊普斯维奇1比1曼联",
+        "onboard_time": 1732499297,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关于依法治军重要论述摘编#"
+    }
+  }
+}

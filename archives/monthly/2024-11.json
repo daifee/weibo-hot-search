@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732491420029,
+  "endTime": 1732499363179,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -11195,6 +11195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 620590,
+      "num": 1099294,
+      "word": "货拉拉 保时捷",
+      "onboard_time": 1732492276,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 619869,
       "num": 474064,
       "word": "内华达州11000张选票签名有问题",
@@ -12569,6 +12577,14 @@
       "onboard_time": 1732331956,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 560976,
+      "num": 560976,
+      "word": "冰雪大世界糖葫芦摊位100万起拍",
+      "onboard_time": 1732493418,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560923,
@@ -15251,6 +15267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474038,
+      "num": 323003,
+      "word": "谢欣桐",
+      "onboard_time": 1732498519,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 473578,
       "num": 313972,
       "word": "英伟达一天赚8套北京四合院",
@@ -17169,6 +17193,14 @@
       "onboard_time": 1732013299,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 418578,
+      "num": 418578,
+      "word": "好东西 快车太臭",
+      "onboard_time": 1732456581,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 418160,
@@ -20579,6 +20611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343604,
+      "num": 343604,
+      "word": "陈奕迅演唱会偶遇赵露思",
+      "onboard_time": 1732496720,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343576,
       "num": 199561,
       "word": "警方及乔爸早已公布乔任梁非他杀",
@@ -21683,6 +21723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 321195,
+      "num": 321195,
+      "word": "Tian被骗了",
+      "onboard_time": 1732496180,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321159,
       "num": 321159,
       "word": "王楚钦福冈总决赛宣传照",
@@ -21969,6 +22017,14 @@
       "onboard_time": 1732027042,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315864,
+      "num": 315864,
+      "word": "丁禹兮 瞳孔地震",
+      "onboard_time": 1732495580,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 315747,
@@ -23817,6 +23873,14 @@
       "onboard_time": 1732231276,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287052,
+      "num": 287052,
+      "word": "造假童装羽绒服两月卖出6万多件",
+      "onboard_time": 1732496598,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286995,
@@ -26075,6 +26139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260163,
+      "num": 260163,
+      "word": "豫P7A525被网友骑电动车帮找到",
+      "onboard_time": 1732470493,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 259921,
       "num": 362646,
       "word": "中东大客户已进入珠海航展现场",
@@ -26556,7 +26628,7 @@
     },
     {
       "raw_hot": 254658,
-      "num": 202301,
+      "num": 235004,
       "word": "丁禹兮微博访问量内娱第一",
       "onboard_time": 1732490056,
       "rank": 5,
@@ -27793,6 +27865,14 @@
       "onboard_time": 1732071857,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241032,
+      "num": 241032,
+      "word": "地沟油变身成飞机飞行的燃料",
+      "onboard_time": 1732481950,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 241023,
@@ -29427,6 +29507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225462,
+      "num": 225462,
+      "word": "遇见麦琳前vs遇见麦琳后",
+      "onboard_time": 1732471934,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225393,
       "num": 292424,
       "word": "白夜破晓5集2个案子",
@@ -30977,6 +31065,14 @@
       "onboard_time": 1732212612,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213701,
+      "num": 213701,
+      "word": "日媒称王楚钦是无法逾越的高墙",
+      "onboard_time": 1732496539,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 213557,
@@ -34283,14 +34379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199106,
-      "num": 199106,
-      "word": "好东西 快车太臭",
-      "onboard_time": 1732456581,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 199090,
       "num": 199090,
       "word": "offer律政四季大团建",
@@ -34881,6 +34969,14 @@
       "onboard_time": 1731927740,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197037,
+      "num": 216399,
+      "word": "鹿晗绿瞳",
+      "onboard_time": 1732494319,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 197028,
@@ -38579,6 +38675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182971,
+      "num": 182971,
+      "word": "韩剧现在拨打的电话",
+      "onboard_time": 1732498099,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182943,
       "num": 182943,
       "word": "中国每一个早晨都有限时美景",
@@ -40139,6 +40243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176299,
+      "num": 176299,
+      "word": "一声慕声 丁禹兮带汗冲锋",
+      "onboard_time": 1732498577,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176235,
       "num": 311245,
       "word": "小巷人家 真正的爱意会从眼里溢出来",
@@ -40913,6 +41025,14 @@
       "onboard_time": 1730685440,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 173308,
+      "num": 173308,
+      "word": "羽绒骗局曝光",
+      "onboard_time": 1732493958,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173241,
@@ -44427,14 +44547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160209,
-      "num": 160209,
-      "word": "豫P7A525被网友骑电动车帮找到",
-      "onboard_time": 1732470493,
-      "rank": 28,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 160199,
       "num": 160199,
       "word": "小伙满身疤痕自信展示身材",
@@ -45593,6 +45705,14 @@
       "onboard_time": 1731491720,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156336,
+      "num": 156336,
+      "word": "横店群演要降薪了",
+      "onboard_time": 1732492879,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156308,
@@ -47195,6 +47315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150801,
+      "num": 150801,
+      "word": "数电发票",
+      "onboard_time": 1732496658,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150782,
       "num": 150782,
       "word": "沙溢要把姚译添行李箱套寄给范丞丞",
@@ -48331,14 +48459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146933,
-      "num": 146933,
-      "word": "地沟油变身成飞机飞行的燃料",
-      "onboard_time": 1732481950,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 146908,
       "num": 274914,
       "word": "文俊辉将进组云归喜事",
@@ -48497,6 +48617,14 @@
       "onboard_time": 1732290738,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146317,
+      "num": 146317,
+      "word": "以色列北部中部遭约150枚火箭弹袭击",
+      "onboard_time": 1732496180,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146309,
@@ -48689,6 +48817,14 @@
       "onboard_time": 1730615658,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145641,
+      "num": 145641,
+      "word": "东北老人爱上去南方旅居过冬",
+      "onboard_time": 1732490836,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145632,
@@ -49675,6 +49811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141582,
+      "num": 141582,
+      "word": "小S为二女儿庆17岁生日",
+      "onboard_time": 1732498878,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141493,
       "num": 141493,
       "word": "斯瓦泰克2比0卡萨金娜",
@@ -50001,6 +50145,14 @@
       "onboard_time": 1731927440,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140380,
+      "num": 140380,
+      "word": "北京大风雨雪降温强势来袭",
+      "onboard_time": 1732487112,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140373,
@@ -52649,6 +52801,14 @@
       "onboard_time": 1730978304,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129821,
+      "num": 129821,
+      "word": "日本消费者爱上中国鲜花",
+      "onboard_time": 1732496180,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129776,
@@ -55571,6 +55731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119138,
+      "num": 119138,
+      "word": "iG新赛季阵容曝光",
+      "onboard_time": 1732496239,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119039,
       "num": 119039,
       "word": "锅姨实至名归",
@@ -56057,6 +56225,14 @@
       "onboard_time": 1731095891,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116744,
+      "num": 116744,
+      "word": "不达标假羽绒被流向酒店民宿",
+      "onboard_time": 1732498396,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116688,
@@ -57595,6 +57771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109866,
+      "num": 109866,
+      "word": "权志龙MAMA舞台播放量最高",
+      "onboard_time": 1732497198,
+      "rank": 40,
+      "category": "音乐,演出"
+    },
+    {
       "raw_hot": 109839,
       "num": 109839,
       "word": "神十八3人下周一回地球",
@@ -57905,6 +58089,14 @@
       "onboard_time": 1732413857,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108572,
+      "num": 143350,
+      "word": "涉网络平台算法典型问题举报邮箱公布",
+      "onboard_time": 1732469114,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108429,
@@ -58753,6 +58945,14 @@
       "onboard_time": 1731082698,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103751,
+      "num": 103751,
+      "word": "被格斗女中医击倒对手发声",
+      "onboard_time": 1732495220,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 103744,
@@ -60547,6 +60747,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 94055,
+      "num": 94055,
+      "word": "孩子发烧什么情况要就医",
+      "onboard_time": 1732497377,
+      "rank": 44,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
       "raw_hot": 94006,
       "num": 273597,
       "word": "官方回应粤东沿海出现海水倒灌",
@@ -61755,6 +61963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85651,
+      "num": 134904,
+      "word": "祝绪丹说和杨仕泽是老夫老妻状态",
+      "onboard_time": 1732490656,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85556,
       "num": 281360,
       "word": "A股出现代码玄学",
@@ -61889,6 +62105,14 @@
       "onboard_time": 1731511400,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84566,
+      "num": 84566,
+      "word": "肖战射雕英雄传侠之大者展架海报",
+      "onboard_time": 1732481651,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 84484,
@@ -62249,14 +62473,6 @@
       "onboard_time": 1732176319,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 82421,
-      "num": 82421,
-      "word": "北京大风雨雪降温强势来袭",
-      "onboard_time": 1732487112,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82411,
@@ -63083,6 +63299,14 @@
       "category": "数码,正能量"
     },
     {
+      "raw_hot": 77074,
+      "num": 77074,
+      "word": "全网寻找的豫P7A525找到了",
+      "onboard_time": 1732498157,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77036,
       "num": 77036,
       "word": "家的样子就是生活的样子",
@@ -63385,14 +63609,6 @@
       "onboard_time": 1732076600,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 75389,
-      "num": 75389,
-      "word": "肖战射雕英雄传侠之大者展架海报",
-      "onboard_time": 1732481651,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 75320,
@@ -66491,6 +66707,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 59368,
+      "num": 174614,
+      "word": "涵艺爆料WBG争抢Meiko",
+      "onboard_time": 1732492457,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59364,
       "num": 413810,
       "word": "唐九洲支持虞书欣新剧",
@@ -66601,6 +66825,14 @@
       "onboard_time": 1731116239,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58987,
+      "num": 324272,
+      "word": "儿童呼吸道疾病高发怎么办",
+      "onboard_time": 1732498577,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 58958,
@@ -66913,14 +67145,6 @@
       "onboard_time": 1731406103,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57297,
-      "num": 63507,
-      "word": "遇见麦琳前vs遇见麦琳后",
-      "onboard_time": 1732471934,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 57247,
@@ -72907,14 +73131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36036,
-      "num": 134904,
-      "word": "祝绪丹说和杨仕泽是老夫老妻状态",
-      "onboard_time": 1732490656,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36019,
       "num": 181629,
       "word": "道崽 这次不会把我打倒",
@@ -74081,6 +74297,14 @@
       "onboard_time": 1730946919,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33036,
+      "num": 76409,
+      "word": "伊普斯维奇1比1曼联",
+      "onboard_time": 1732499297,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 32994,
@@ -77179,14 +77403,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 25247,
-      "num": 143350,
-      "word": "涉网络平台算法典型问题举报邮箱公布",
-      "onboard_time": 1732469114,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25198,
       "num": 192905,
       "word": "员工舀潲水油老板发誓没用过",
@@ -77857,14 +78073,6 @@
       "onboard_time": 1732371021,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 23675,
-      "num": 74280,
-      "word": "东北老人爱上去南方旅居过冬",
-      "onboard_time": 1732490836,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23671,
