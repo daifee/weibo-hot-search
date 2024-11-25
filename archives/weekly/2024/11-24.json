@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732504373502,
+  "endTime": 1732506568902,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1499115,
-      "num": 323003,
+      "num": 387293,
       "word": "谢欣桐",
       "onboard_time": 1732498519,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1336764,
+      "num": 1336764,
+      "word": "情侣手指轮流被卡一天救助三次",
+      "onboard_time": 1732503678,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1322682,
       "num": 1322682,
       "word": "保时捷 货拉拉",
@@ -136,6 +144,14 @@
       "word": "派出所人员突然殴打路遇的小学生",
       "onboard_time": 1732414697,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1245056,
+      "num": 1245056,
+      "word": "2年被家暴16次女子幸存后的580天",
+      "onboard_time": 1732503558,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -579,6 +595,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 581448,
+      "num": 581448,
+      "word": "婚内婚外定档",
+      "onboard_time": 1732504939,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580902,
       "num": 534854,
       "word": "李子柒穿绿色唐朝襦裙太绝了",
@@ -716,11 +740,19 @@
     },
     {
       "raw_hot": 494944,
-      "num": 322380,
+      "num": 475122,
       "word": "张艺兴 你们这名字读的我都出汗了",
       "onboard_time": 1732501637,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487326,
+      "num": 487326,
+      "word": "乒超",
+      "onboard_time": 1732504518,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 486825,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 484885,
-      "num": 320141,
+      "num": 365634,
       "word": "2024爱奇艺尖叫之夜",
       "onboard_time": 1732503018,
       "rank": 18,
@@ -1251,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300678,
+      "num": 390281,
+      "word": "市监局通报以丝充绒情况",
+      "onboard_time": 1732503499,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 299758,
       "num": 311003,
       "word": "王楚钦对球迷说今天是我的主场",
@@ -1291,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296178,
+      "num": 296178,
+      "word": "古茗口令",
+      "onboard_time": 1732503918,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 294483,
       "num": 294483,
       "word": "黎巴嫩首都居民睡梦中被炸醒",
       "onboard_time": 1732408336,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293973,
+      "num": 293973,
+      "word": "肖战掌镜",
+      "onboard_time": 1732505839,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 290248,
@@ -1323,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287913,
+      "num": 287913,
+      "word": "14个癌症早期信号一定要知道",
+      "onboard_time": 1732505658,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287840,
       "num": 283331,
       "word": "一声慕声 丁禹兮带汗冲锋",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1732461439,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 284158,
-      "num": 284158,
-      "word": "2年被家暴16次女子幸存后的580天",
-      "onboard_time": 1732503558,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283390,
@@ -1443,20 +1499,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264323,
+      "num": 264323,
+      "word": "四川内江一公交车失控致1死4伤",
+      "onboard_time": 1732505898,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 263474,
       "num": 263474,
       "word": "祺轩",
       "onboard_time": 1732451120,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 261916,
-      "num": 261916,
-      "word": "情侣手指轮流被卡一天救助三次",
-      "onboard_time": 1732503678,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261132,
@@ -1521,6 +1577,14 @@
       "onboard_time": 1732498878,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255235,
+      "num": 255235,
+      "word": "男子酒后打折妻子6处肋骨被判刑",
+      "onboard_time": 1732503258,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254658,
@@ -1593,14 +1657,6 @@
       "onboard_time": 1732455800,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240536,
-      "num": 240536,
-      "word": "市监局通报以丝充绒情况",
-      "onboard_time": 1732503499,
-      "rank": 24,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 239214,
@@ -1707,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223754,
+      "num": 223754,
+      "word": "华为Mate70一张手就能传照片",
+      "onboard_time": 1732504579,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 223437,
       "num": 276263,
       "word": "让BIGBANG再次伟大",
@@ -1811,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207074,
+      "num": 207074,
+      "word": "以丝充绒经营主体被立案查处",
+      "onboard_time": 1732504579,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 206656,
       "num": 206656,
       "word": "王一博金莲花同时提名影帝视帝",
@@ -1843,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203900,
+      "num": 255380,
+      "word": "2024乒超总决赛上海举行",
+      "onboard_time": 1732505839,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203511,
       "num": 203511,
       "word": "gapday音乐节",
@@ -1873,6 +1953,14 @@
       "onboard_time": 1732419378,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200440,
+      "num": 210056,
+      "word": "嘉人预告王一博",
+      "onboard_time": 1732504518,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199585,
@@ -1985,14 +2073,6 @@
       "onboard_time": 1732465397,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 194705,
-      "num": 194705,
-      "word": "男子酒后打折妻子6处肋骨被判刑",
-      "onboard_time": 1732503258,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194500,
@@ -2211,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180054,
+      "num": 316105,
+      "word": "当身边人遭家暴我们该怎么办",
+      "onboard_time": 1732503378,
+      "rank": 9,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 179682,
       "num": 391859,
       "word": "管晨辰吴柳芳争论不必与体操运动挂钩",
@@ -2291,6 +2379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173763,
+      "num": 166251,
+      "word": "丁禹兮熬夜背梗比不过天赋型选手",
+      "onboard_time": 1732506079,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173308,
       "num": 173308,
       "word": "羽绒骗局曝光",
@@ -2337,6 +2433,14 @@
       "onboard_time": 1732428618,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171106,
+      "num": 171106,
+      "word": "天冷了日照金山也带上帽子了",
+      "onboard_time": 1732504939,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170225,
@@ -2393,6 +2497,14 @@
       "onboard_time": 1732427898,
       "rank": 23,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 168934,
+      "num": 168934,
+      "word": "张本智和说最后一个球都不知道往哪发",
+      "onboard_time": 1732506319,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 168901,
@@ -2539,6 +2651,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160315,
+      "num": 160315,
+      "word": "部分劣质羽绒服填充物竟是飞丝",
+      "onboard_time": 1732506379,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 158982,
+      "num": 158982,
+      "word": "Kanavi被曝加入TES",
+      "onboard_time": 1732504579,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158427,
       "num": 158427,
       "word": "这才是王楚钦的正手",
@@ -2643,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152531,
+      "num": 255558,
+      "word": "王一博重要月份收割机",
+      "onboard_time": 1732506319,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 151666,
       "num": 310654,
       "word": "时空中的绘旅人",
@@ -2657,6 +2793,14 @@
       "onboard_time": 1732437799,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151452,
+      "num": 151452,
+      "word": "库克称没中国就没现在的苹果",
+      "onboard_time": 1732506260,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 149973,
@@ -2747,6 +2891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143909,
+      "num": 143909,
+      "word": "Mate60总销量破1400万台",
+      "onboard_time": 1732504579,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143889,
       "num": 143889,
       "word": "什么是充绒量和含绒量",
@@ -2795,14 +2947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137512,
-      "num": 137512,
-      "word": "古茗口令",
-      "onboard_time": 1732503918,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 135807,
       "num": 135807,
       "word": "马拉松冠军说要让中国跑者提速",
@@ -2833,6 +2977,14 @@
       "onboard_time": 1732376540,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134285,
+      "num": 134285,
+      "word": "蒙古球迷朝郭士强扔水瓶",
+      "onboard_time": 1732505358,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 133903,
@@ -2969,6 +3121,14 @@
       "onboard_time": 1732423758,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127846,
+      "num": 267012,
+      "word": "四维高景二号03和04星发射成功",
+      "onboard_time": 1732504579,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 127196,
@@ -3547,14 +3707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106626,
-      "num": 316105,
-      "word": "当身边人遭家暴我们该怎么办",
-      "onboard_time": 1732503378,
-      "rank": 9,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 105742,
       "num": 105742,
       "word": "男子怪民警扫了酒兴发视频造谣泄愤",
@@ -3753,6 +3905,14 @@
       "onboard_time": 1732446740,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93560,
+      "num": 262089,
+      "word": "檀健次硬控10后广场舞",
+      "onboard_time": 1732504097,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 93403,
@@ -4001,14 +4161,6 @@
       "onboard_time": 1732421898,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 69230,
-      "num": 262089,
-      "word": "檀健次硬控10后广场舞",
-      "onboard_time": 1732504097,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 67428,
