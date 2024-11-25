@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732527613216,
+  "endTime": 1732530383644,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -403,20 +403,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 841072,
+      "num": 1218057,
+      "word": "有家暴倾向的人大多有13个特征",
+      "onboard_time": 1732523358,
+      "rank": 49,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 832438,
       "num": 504399,
       "word": "2岁儿童在地下车库玩被车碾压致死",
       "onboard_time": 1732519398,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 827337,
-      "num": 1218057,
-      "word": "有家暴倾向的人大多有13个特征",
-      "onboard_time": 1732523358,
-      "rank": 49,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 819031,
@@ -1091,12 +1091,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 477807,
+      "num": 477807,
+      "word": "向佐的起床闹钟是女儿的巴掌",
+      "onboard_time": 1732528278,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459786,
       "num": 459786,
       "word": "古茗口令",
       "onboard_time": 1732503918,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 459709,
+      "num": 459709,
+      "word": "丁禹兮方确认不参加尖叫之夜",
+      "onboard_time": 1732526239,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 458009,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1732520779,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 433490,
-      "num": 365061,
-      "word": "丁禹兮方确认不参加尖叫之夜",
-      "onboard_time": 1732526239,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 428585,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1732451541,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 375687,
+      "num": 375687,
+      "word": "潘展乐等11位奥运冠军抵达新疆",
+      "onboard_time": 1732526420,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 375263,
@@ -2291,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224374,
+      "num": 224374,
+      "word": "鹿晗黄子韬在各自的赛道闪闪发光",
+      "onboard_time": 1732526839,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223754,
       "num": 223754,
       "word": "华为Mate70一张手就能传照片",
@@ -2411,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215976,
+      "num": 215976,
+      "word": "网易云音乐称已下线大量广告位",
+      "onboard_time": 1732528699,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 215861,
       "num": 215861,
       "word": "陈牧驰孔雪儿首搭演情侣",
@@ -2441,6 +2473,14 @@
       "onboard_time": 1732438820,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210585,
+      "num": 210585,
+      "word": "浪姐5团建为张予曦新剧打call",
+      "onboard_time": 1732528639,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 210130,
@@ -2531,14 +2571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204653,
-      "num": 204653,
-      "word": "鹿晗黄子韬在各自的赛道闪闪发光",
-      "onboard_time": 1732526839,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204104,
       "num": 204104,
       "word": "陈昊宇说要看见自己的价值",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1732419378,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201329,
+      "num": 201329,
+      "word": "Rookie为Uzi鸣不平",
+      "onboard_time": 1732529658,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 200843,
@@ -2827,6 +2867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 191915,
+      "num": 323562,
+      "word": "金钟大真是个好爸爸",
+      "onboard_time": 1732529899,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191783,
       "num": 349279,
       "word": "TWICE帮走失女孩找到家人",
@@ -2971,6 +3019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185517,
+      "num": 185517,
+      "word": "女子杀害家暴丈夫获子女和公婆谅解",
+      "onboard_time": 1732529598,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "魏晨音乐节现场",
@@ -2985,6 +3041,14 @@
       "onboard_time": 1732445299,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184648,
+      "num": 184648,
+      "word": "爱奇艺尖叫之夜阵容名单首发",
+      "onboard_time": 1732530080,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 184618,
@@ -3049,6 +3113,14 @@
       "onboard_time": 1732503378,
       "rank": 9,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 180037,
+      "num": 180037,
+      "word": "好东西 男性角色没名字",
+      "onboard_time": 1732527920,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 179682,
@@ -3707,6 +3779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151281,
+      "num": 151281,
+      "word": "长沙县卫健局承认出现工作失误",
+      "onboard_time": 1732530139,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150437,
       "num": 161942,
       "word": "吉赛尔 天选妈妈",
@@ -4083,14 +4163,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 129014,
-      "num": 336008,
-      "word": "潘展乐等11位奥运冠军抵达新疆",
-      "onboard_time": 1732526420,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128894,
       "num": 419106,
       "word": "张凌赫给我让条路出来",
@@ -4161,6 +4233,14 @@
       "onboard_time": 1732503678,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126960,
+      "num": 231448,
+      "word": "IZNA出道",
+      "onboard_time": 1732528998,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 126900,
@@ -4771,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107292,
+      "num": 453163,
+      "word": "100万起拍的糖葫芦摊位去年40万成交",
+      "onboard_time": 1732529178,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106708,
       "num": 289671,
       "word": "樊振东体验匹克球",
@@ -4809,6 +4897,14 @@
       "onboard_time": 1732420578,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103491,
+      "num": 308783,
+      "word": "王楚钦说我回来了",
+      "onboard_time": 1732529479,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 101176,
@@ -5171,6 +5267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80707,
+      "num": 326288,
+      "word": "信用卡POS机套现成公开秘密",
+      "onboard_time": 1732529118,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 80058,
       "num": 80058,
       "word": "掘金25分大胜湖人",
@@ -5457,6 +5561,14 @@
       "onboard_time": 1732457122,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59825,
+      "num": 303100,
+      "word": "铁梅 Fe male",
+      "onboard_time": 1732530259,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 59528,
@@ -5763,6 +5875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44945,
+      "num": 1107485,
+      "word": "AI穿越良渚5000年文明之光",
+      "onboard_time": 1732521620,
+      "rank": 2,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44580,
       "num": 84316,
       "word": "林俊杰新书战报",
@@ -5875,16 +5995,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42118,
-      "num": 1107485,
-      "word": "AI穿越良渚5000年文明之光",
-      "onboard_time": 1732521620,
-      "rank": 2,
-      "category": "互联网"
+      "raw_hot": 41646,
+      "num": 376074,
+      "word": "多平台出现店铺与刷手勾结骗补贴",
+      "onboard_time": 1732529300,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41402,
-      "num": 153171,
+      "num": 378688,
       "word": "荣耀300杨洋虞书欣同款旅拍神器",
       "onboard_time": 1732520057,
       "rank": 40,
@@ -6131,6 +6251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31345,
+      "num": 217242,
+      "word": "冬天如何选一件不踩坑的羽绒服",
+      "onboard_time": 1732525998,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 31252,
       "num": 105215,
       "word": "叶嘉莹留下诗心映月",
@@ -6153,14 +6281,6 @@
       "onboard_time": 1732452799,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30343,
-      "num": 217242,
-      "word": "冬天如何选一件不踩坑的羽绒服",
-      "onboard_time": 1732525998,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 29996,
@@ -6459,6 +6579,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16932,
+      "num": 327655,
+      "word": "国考和省考区别",
+      "onboard_time": 1732529838,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 16070,
+      "num": 203119,
+      "word": "被七年后的call back三杀了",
+      "onboard_time": 1732526359,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15972,
       "num": 18255,
       "word": "旺仔当事人称异物被厂家取走大部分",
@@ -6481,6 +6617,14 @@
       "onboard_time": 1732389372,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14258,
+      "num": 213884,
+      "word": "朱一龙连续三年提名金莲花奖最佳男主",
+      "onboard_time": 1732530139,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 14137,
@@ -6579,6 +6723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11432,
+      "num": 202234,
+      "word": "小高 感谢大家喜爱枪弹辩驳",
+      "onboard_time": 1732528998,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 10844,
       "num": 17426,
       "word": "叶嘉莹遗体告别仪式下周六举行",
@@ -6608,6 +6760,14 @@
       "word": "啊呀啦嗦回应刀郎被指剽窃他人作品",
       "onboard_time": 1732475891,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9122,
+      "num": 204452,
+      "word": "荣耀300跟虞书欣的契合度",
+      "onboard_time": 1732529058,
+      "rank": 36,
       "category": "艺人"
     },
     {

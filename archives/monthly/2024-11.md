@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 17:40:13
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 18:26:23
 </p>
 </blockquote>
 <p>
@@ -5349,6 +5349,12 @@ papi酱说李行亮不哄了（热度：846286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%AE%B6%E6%9A%B4%E5%80%BE%E5%90%91%E7%9A%84%E4%BA%BA%E5%A4%A7%E5%A4%9A%E6%9C%8913%E4%B8%AA%E7%89%B9%E5%BE%81%23" target="weibo">
+有家暴倾向的人大多有13个特征（热度：841072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%87%8C%E6%99%A8%E5%B8%A6%E5%A5%B3%E5%8F%8B%E5%9B%9E%E5%88%AB%E5%A2%85%23" target="weibo">
 王宝强凌晨带女友回别墅（热度：841065）
 </a>
@@ -5501,12 +5507,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%80%89%E6%B0%91%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%8A%BD%E5%A5%96%E9%AA%97%E5%B1%80%23" target="weibo">
 美选民起诉马斯克搞抽奖骗局（热度：827366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%AE%B6%E6%9A%B4%E5%80%BE%E5%90%91%E7%9A%84%E4%BA%BA%E5%A4%A7%E5%A4%9A%E6%9C%8913%E4%B8%AA%E7%89%B9%E5%BE%81%23" target="weibo">
-有家暴倾向的人大多有13个特征（热度：827337）
 </a>
 </li>
 
