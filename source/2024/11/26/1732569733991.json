@@ -1,0 +1,410 @@
+{
+  "runTime": 1732569733991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 83035,
+        "num": 127191,
+        "word": "警方通报王宝强被举报事件",
+        "onboard_time": 1732535419,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72625,
+        "num": 72625,
+        "word": "董宇辉不再担任执行董事",
+        "onboard_time": 1732563611,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 6459,
+        "num": 57652,
+        "word": "第二届链博会亮点抢先看",
+        "onboard_time": 1732540219,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54103,
+        "num": 54103,
+        "word": "女子不堪家暴刺死睡熟丈夫被判5年",
+        "onboard_time": 1732543880,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38592,
+        "num": 38592,
+        "word": "民警用羽绒服遮挡嫌疑人手铐",
+        "onboard_time": 1732553893,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28247,
+        "num": 28247,
+        "word": "外交部回应中方对日本试行30天免签",
+        "onboard_time": 1732545800,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26913,
+        "num": 26913,
+        "word": "红海游船事故中2名中国游客获救",
+        "onboard_time": 1732549637,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 26689,
+        "num": 26689,
+        "word": "警方通报男子用充电宝敲击他人头部",
+        "onboard_time": 1732562830,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 23237,
+        "num": 26403,
+        "word": "胡彦斌最不敢签名的一次",
+        "onboard_time": 1732544000,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14077,
+        "num": 25874,
+        "word": "王伟烈士妻子说希望孩子当好兵",
+        "onboard_time": 1732566311,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 28995,
+        "num": 25681,
+        "word": "立陶宛称寻求与中国全面恢复外交关系",
+        "onboard_time": 1732537040,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26951,
+        "num": 25273,
+        "word": "就算何猷君真的来了也得输吧",
+        "onboard_time": 1732552756,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24918,
+        "num": 24918,
+        "word": "一架货机在立陶宛坠毁",
+        "onboard_time": 1732559413,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23086,
+        "num": 23086,
+        "word": "江苏中小学寒假延长",
+        "onboard_time": 1732548257,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20328,
+        "num": 20328,
+        "word": "红海海域游船沉没事故28人获救",
+        "onboard_time": 1732555274,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20042,
+        "num": 20042,
+        "word": "有家暴倾向的人大多有13个特征",
+        "onboard_time": 1732523358,
+        "rank": 15,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 18955,
+        "num": 18955,
+        "word": "5种值得警惕的精神冷暴力",
+        "onboard_time": 1732551078,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18676,
+        "num": 18676,
+        "word": "任嘉伦潮牌价格",
+        "onboard_time": 1732547781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18325,
+        "num": 18325,
+        "word": "校方通报学生因白事请假被拦事件",
+        "onboard_time": 1732546880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15105,
+        "num": 17973,
+        "word": "魏子宸妈妈回应",
+        "onboard_time": 1732547240,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52625,
+        "num": 17507,
+        "word": "鹿晗一捯饬内娱天亮了",
+        "onboard_time": 1732523960,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36670,
+        "num": 17054,
+        "word": "羊毛月 王甜心",
+        "onboard_time": 1732547179,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35337,
+        "num": 16326,
+        "word": "Angelababy大秀状态",
+        "onboard_time": 1732536259,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 16164,
+        "num": 16164,
+        "word": "南开大学迦陵学舍前摆满鲜花",
+        "onboard_time": 1732558331,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17499,
+        "num": 16097,
+        "word": "TF四代魏子宸被校园霸凌",
+        "onboard_time": 1732521260,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15617,
+        "num": 15617,
+        "word": "劣质羽绒服不能保暖还危害身体健康",
+        "onboard_time": 1732559652,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14888,
+        "num": 14888,
+        "word": "红海海域游船沉没事故17人下落不明",
+        "onboard_time": 1732546341,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 14298,
+        "num": 14887,
+        "word": "王楚钦孙颖莎领跑WTT单打冠军榜",
+        "onboard_time": 1732549578,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13878,
+        "num": 14887,
+        "word": "九江对伪劣羽绒服企业立案查处",
+        "onboard_time": 1732566612,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13824,
+        "num": 14886,
+        "word": "江浙沪人是先天留学圣体吧",
+        "onboard_time": 1732532360,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21757,
+        "num": 14886,
+        "word": "郑钦文临时换帅",
+        "onboard_time": 1732553534,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14677,
+        "num": 14885,
+        "word": "玉林一2岁男童骑车被汽车碾压",
+        "onboard_time": 1732563851,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 13629,
+        "num": 14885,
+        "word": "BIGBANG屠榜QQ音乐",
+        "onboard_time": 1732543221,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13287,
+        "num": 14884,
+        "word": "一图教你识别真假羽绒服",
+        "onboard_time": 1732564990,
+        "rank": 33,
+        "category": "时尚,休闲"
+      },
+      {
+        "raw_hot": 13241,
+        "num": 14884,
+        "word": "高校回应学生因白事请假被拦",
+        "onboard_time": 1732542920,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 13141,
+        "num": 14884,
+        "word": "75岁男子高空扔菜刀致人受伤被抓",
+        "onboard_time": 1732558213,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12922,
+        "num": 14883,
+        "word": "李一桐点痣了",
+        "onboard_time": 1732522279,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12910,
+        "num": 14883,
+        "word": "上个学而已没有这个必要吧",
+        "onboard_time": 1732558872,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12491,
+        "num": 14882,
+        "word": "虞书欣工作室",
+        "onboard_time": 1732537761,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12477,
+        "num": 14882,
+        "word": "九江市监局通报羽绒服造假",
+        "onboard_time": 1732568111,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12339,
+        "num": 14881,
+        "word": "卫生巾",
+        "onboard_time": 1732546160,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11635,
+        "num": 14880,
+        "word": "关晓彤一天穿了四套高定",
+        "onboard_time": 1732525279,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 11613,
+        "num": 14879,
+        "word": "第二届链博会开幕",
+        "onboard_time": 1732564151,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 11597,
+        "num": 14879,
+        "word": "链博会高人气彰显了中国链的吸引力",
+        "onboard_time": 1732564931,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 11461,
+        "num": 14879,
+        "word": "歼15成功起降辽宁舰12周年",
+        "onboard_time": 1732567990,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 11109,
+        "num": 14878,
+        "word": "西卡疑似内涵Ning",
+        "onboard_time": 1732545920,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11086,
+        "num": 14878,
+        "word": "精神侮辱也是校园欺凌",
+        "onboard_time": 1732556172,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10939,
+        "num": 14877,
+        "word": "丁禹兮有力量渡难关",
+        "onboard_time": 1732548918,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10159,
+        "num": 14876,
+        "word": "鹿晗壁纸",
+        "onboard_time": 1732543400,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9991,
+        "num": 14876,
+        "word": "任何人都不该受到任何形式的校园霸凌",
+        "onboard_time": 1732546040,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

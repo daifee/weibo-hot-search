@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732567205909,
+  "endTime": 1732569733991,
   "band_list": [
     {
       "raw_hot": 945120,
@@ -299,8 +299,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70849,
-      "num": 70849,
+      "raw_hot": 72625,
+      "num": 72625,
       "word": "董宇辉不再担任执行董事",
       "onboard_time": 1732563611,
       "rank": 1,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26689,
+      "num": 26689,
+      "word": "警方通报男子用充电宝敲击他人头部",
+      "onboard_time": 1732562830,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 25692,
       "num": 74729,
       "word": "鞠婧祎拉小提琴",
@@ -497,14 +505,6 @@
       "onboard_time": 1732555994,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24891,
-      "num": 24891,
-      "word": "警方通报男子用充电宝敲击他人头部",
-      "onboard_time": 1732562830,
-      "rank": 47,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 24654,
@@ -603,6 +603,22 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 14077,
+      "num": 25874,
+      "word": "王伟烈士妻子说希望孩子当好兵",
+      "onboard_time": 1732566311,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 13878,
+      "num": 24373,
+      "word": "九江对伪劣羽绒服企业立案查处",
+      "onboard_time": 1732566612,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12860,
       "num": 28767,
       "word": "天津广播电视塔点亮送别叶嘉莹",
@@ -619,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12133,
-      "num": 24373,
-      "word": "九江对伪劣羽绒服企业立案查处",
-      "onboard_time": 1732566612,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 12477,
+      "num": 14882,
+      "word": "九江市监局通报羽绒服造假",
+      "onboard_time": 1732568111,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11930,
@@ -643,12 +659,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11493,
-      "num": 16709,
-      "word": "王伟烈士妻子说希望孩子当好兵",
-      "onboard_time": 1732566311,
-      "rank": 49,
-      "category": "正能量"
+      "raw_hot": 11461,
+      "num": 14879,
+      "word": "歼15成功起降辽宁舰12周年",
+      "onboard_time": 1732567990,
+      "rank": 44,
+      "category": "军事"
     },
     {
       "raw_hot": 8088,
