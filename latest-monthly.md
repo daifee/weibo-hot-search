@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 17:26:24
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 17:40:13
 </p>
 </blockquote>
 <p>
@@ -1101,6 +1101,12 @@ BIGBANG合体（热度：2423890）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%9B%A0%E7%99%BD%E4%BA%8B%E5%87%8C%E6%99%A8%E8%B7%AA%E6%B1%82%E5%AE%BF%E7%AE%A1%E5%BC%80%E9%97%A8%23" target="weibo">
+多方回应女生因白事凌晨跪求宿管开门（热度：1843951）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%8D%E5%96%9D%E5%A5%B6%E8%8C%B6%E5%8D%B4%E6%9F%A5%E5%87%BA%E7%B3%96%E5%B0%BF%E7%97%85%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%23" target="weibo">
 女生不喝奶茶却查出糖尿病无法接受（热度：1835327）
 </a>
@@ -1539,6 +1545,12 @@ ABC创始人公开致歉（热度：1678763）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%80%E6%8D%AF%E9%A5%AC%E5%86%85%E5%A8%B1%E5%A4%A9%E4%BA%AE%E4%BA%86%23" target="weibo">
+鹿晗一捯饬内娱天亮了（热度：1620674）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B9%B2%E7%A5%A8%E5%A4%A7%E7%9A%84%E5%BC%95%E7%88%86%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23" target="weibo">
 虞书欣赵露思 干票大的引爆视界大会（热度：1617489）
 </a>
@@ -1553,12 +1565,6 @@ ABC创始人公开致歉（热度：1678763）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E8%A2%AB%E7%88%86%E8%AE%A1%E5%88%92%E5%BF%AB%E9%80%9F%E5%AF%B9%E4%B9%8C%E6%8F%90%E4%BE%9B%E5%89%A9%E4%BD%99%E6%8F%B4%E5%8A%A9%23" target="weibo">
 拜登政府被爆计划快速对乌提供剩余援助（热度：1613215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%80%E6%8D%AF%E9%A5%AC%E5%86%85%E5%A8%B1%E5%A4%A9%E4%BA%AE%E4%BA%86%23" target="weibo">
-鹿晗一捯饬内娱天亮了（热度：1611778）
 </a>
 </li>
 
@@ -3483,12 +3489,6 @@ BLG赛点（热度：1087761）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%9B%A0%E7%99%BD%E4%BA%8B%E5%87%8C%E6%99%A8%E8%B7%AA%E6%B1%82%E5%AE%BF%E7%AE%A1%E5%BC%80%E9%97%A8%23" target="weibo">
-多方回应女生因白事凌晨跪求宿管开门（热度：1082701）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD10%E5%85%83%E9%85%8D%E9%A4%90%E7%AE%80%E9%99%8B%E5%AD%A9%E5%AD%90%E5%90%83%E4%B8%8D%E9%A5%B1%23" target="weibo">
 家长吐槽10元配餐简陋孩子吃不饱（热度：1081352）
 </a>
@@ -4857,6 +4857,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%87%8C%E5%8A%9E%E7%99%BD%E4%BA%8B%E5%87%8C%E6%99%A8%E8%AF%B7%E5%81%87%E5%AE%BF%E7%AE%A1%E6%9C%AA%E5%BC%80%E9%97%A8%23" target="weibo">
+学生家里办白事凌晨请假宿管未开门（热度：886580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E5%8C%97%E5%B8%88%E5%A4%A7%E7%A7%B0%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%23" target="weibo">
 淮北师大称警方已介入（热度：885895）
 </a>
@@ -5499,6 +5505,12 @@ papi酱说李行亮不哄了（热度：846286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%AE%B6%E6%9A%B4%E5%80%BE%E5%90%91%E7%9A%84%E4%BA%BA%E5%A4%A7%E5%A4%9A%E6%9C%8913%E4%B8%AA%E7%89%B9%E5%BE%81%23" target="weibo">
+有家暴倾向的人大多有13个特征（热度：827337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E6%97%A0%E7%BC%9D%E8%A1%94%E6%8E%A5%E6%9C%88%E5%85%89%E5%8F%98%E5%A5%8F%E6%9B%B2%23" target="weibo">
 永夜星河无缝衔接月光变奏曲（热度：826602）
 </a>
@@ -5999,18 +6011,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%8B%A6%E9%85%92%23" target="weibo">
 虞书欣拦酒（热度：781870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E4%B8%88%E5%A4%AB%E5%A4%B1%E8%81%94%E6%9E%84%E6%88%90%E9%81%97%E5%BC%83%E7%BD%AA%23" target="weibo">
-妻子患癌去世丈夫失联构成遗弃罪（热度：781299）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A9%BA%E6%89%8B%E9%81%93%E5%B0%8F%E9%80%89%E6%89%8B%E5%81%B7%E8%A2%AD%E8%87%B4%E5%AF%B9%E6%89%8B%E7%98%AB%E7%97%AA%23" target="weibo">
-日本空手道小选手偷袭致对手瘫痪（热度：781152）
 </a>
 </li>
 
