@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732541551805,
+  "endTime": 1732542228134,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1683402,
+      "num": 1683402,
+      "word": "野猪撕咬老人3条大狗不敢上前",
+      "onboard_time": 1732537880,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1676779,
       "num": 1620674,
       "word": "鹿晗一捯饬内娱天亮了",
@@ -96,14 +104,6 @@
       "word": "39岁失业后在菜市场重启人生",
       "onboard_time": 1732510761,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1590733,
-      "num": 1590733,
-      "word": "野猪撕咬老人3条大狗不敢上前",
-      "onboard_time": 1732537880,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801785,
+      "num": 772817,
+      "word": "多地网友给殴打小学生副所长寄锦旗",
+      "onboard_time": 1732534278,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 791088,
       "num": 791088,
       "word": "黄圣依 死脑快想啊",
@@ -545,14 +553,6 @@
       "onboard_time": 1732449138,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 772817,
-      "num": 772817,
-      "word": "多地网友给殴打小学生副所长寄锦旗",
-      "onboard_time": 1732534278,
-      "rank": 46,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 771581,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1732508480,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 445253,
+      "num": 445253,
+      "word": "野猪咬死老人当地半年猎捕野猪113头",
+      "onboard_time": 1732536860,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442727,
@@ -1955,14 +1963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 290169,
-      "num": 290169,
-      "word": "野猪咬死老人当地半年猎捕野猪113头",
-      "onboard_time": 1732536860,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288393,
       "num": 320255,
       "word": "时代少年团点赞量排名",
@@ -2001,6 +2001,14 @@
       "onboard_time": 1732425379,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284954,
+      "num": 284954,
+      "word": "蔡徐坤雪中撑伞",
+      "onboard_time": 1732540521,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 284798,
@@ -2307,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243558,
+      "num": 279508,
+      "word": "孙颖莎女子单打赛事冠军榜第一",
+      "onboard_time": 1732538241,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242475,
       "num": 320328,
       "word": "我是刑警西山矿大劫案",
@@ -2523,12 +2539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222588,
-      "num": 279508,
-      "word": "孙颖莎女子单打赛事冠军榜第一",
-      "onboard_time": 1732538241,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 222561,
+      "num": 234383,
+      "word": "货拉拉称确实接到了投诉",
+      "onboard_time": 1732534159,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222450,
@@ -2545,6 +2561,14 @@
       "onboard_time": 1732448539,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 221397,
+      "num": 293120,
+      "word": "野猪在我国分布情况如何",
+      "onboard_time": 1732538780,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221380,
@@ -2931,14 +2955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197421,
-      "num": 253956,
-      "word": "蔡徐坤雪中撑伞",
-      "onboard_time": 1732540521,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197262,
       "num": 260490,
       "word": "王楚钦夺冠后收到亚冬会吉祥物",
@@ -2977,6 +2993,14 @@
       "onboard_time": 1732460781,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196606,
+      "num": 196606,
+      "word": "这就是二代爱豆权志龙",
+      "onboard_time": 1732540700,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 196403,
@@ -3115,14 +3139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190594,
-      "num": 293120,
-      "word": "野猪在我国分布情况如何",
-      "onboard_time": 1732538780,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190136,
       "num": 190136,
       "word": "F1拉斯维加斯大奖赛",
@@ -3156,7 +3172,7 @@
     },
     {
       "raw_hot": 188576,
-      "num": 188576,
+      "num": 195931,
       "word": "Selina带儿子给妹妹庆生",
       "onboard_time": 1732539140,
       "rank": 35,
@@ -3619,6 +3635,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 169209,
+      "num": 169209,
+      "word": "狗 快别拍了我有点尴尬",
+      "onboard_time": 1732539320,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168901,
       "num": 168901,
       "word": "肖战无袖肌肉线条",
@@ -3657,6 +3681,14 @@
       "onboard_time": 1732441998,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166360,
+      "num": 243622,
+      "word": "陈伟霆稳坐女儿奴赛道",
+      "onboard_time": 1732540160,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 166123,
@@ -3713,14 +3745,6 @@
       "onboard_time": 1732417458,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163296,
-      "num": 172609,
-      "word": "这就是二代爱豆权志龙",
-      "onboard_time": 1732540700,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 163174,
@@ -3811,14 +3835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161045,
-      "num": 234383,
-      "word": "货拉拉称确实接到了投诉",
-      "onboard_time": 1732534159,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160821,
       "num": 272367,
       "word": "时代少年团站在舞台上的那一刻",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1732526120,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 159599,
+      "num": 195747,
+      "word": "赵小童出门远行的鸽子回家了",
+      "onboard_time": 1732541600,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 158982,
@@ -4235,6 +4259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145375,
+      "num": 259441,
+      "word": "学生请假被拦事件涉事宿管被调离",
+      "onboard_time": 1732541721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143909,
       "num": 143909,
       "word": "Mate60总销量破1400万台",
@@ -4337,14 +4369,6 @@
       "onboard_time": 1732527319,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138103,
-      "num": 138103,
-      "word": "狗 快别拍了我有点尴尬",
-      "onboard_time": 1732539320,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 137976,
@@ -4657,14 +4681,6 @@
       "onboard_time": 1732446979,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 126237,
-      "num": 243622,
-      "word": "陈伟霆稳坐女儿奴赛道",
-      "onboard_time": 1732540160,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 125941,
@@ -4985,6 +5001,14 @@
       "onboard_time": 1732452440,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117270,
+      "num": 117270,
+      "word": "孙艺珍与友人合照",
+      "onboard_time": 1732540880,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117019,
@@ -5707,6 +5731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84431,
+      "num": 247029,
+      "word": "无畏一诺齐聚成都军团杯",
+      "onboard_time": 1732541961,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82323,
       "num": 407433,
       "word": "最高法发布反家庭暴力犯罪典型案例",
@@ -6283,6 +6315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50435,
+      "num": 248254,
+      "word": "白夜破晓有自己的佛罗里达",
+      "onboard_time": 1732541541,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49750,
       "num": 358483,
       "word": "Reno13发布会",
@@ -6433,6 +6473,14 @@
       "onboard_time": 1732534699,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 44956,
+      "num": 254202,
+      "word": "宋雨琦的Live图是Tim拍的",
+      "onboard_time": 1732538840,
+      "rank": 25,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 44945,
@@ -6595,14 +6643,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 39815,
-      "num": 247314,
-      "word": "宋雨琦的Live图是Tim拍的",
-      "onboard_time": 1732538840,
-      "rank": 25,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 39731,
       "num": 242165,
       "word": "麦琪啦假神药卖得飞起不能没人管",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1732489095,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38922,
+      "num": 252008,
+      "word": "博主3家店铺买银器2家检测不含银",
+      "onboard_time": 1732541120,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38666,
@@ -6963,14 +7011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26907,
-      "num": 248815,
-      "word": "博主3家店铺买银器2家检测不含银",
-      "onboard_time": 1732541120,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26867,
       "num": 222053,
       "word": "WB空降KSG见面会",
@@ -7179,6 +7219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19710,
+      "num": 608350,
+      "word": "第二届链博会亮点抢先看",
+      "onboard_time": 1732540219,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18704,
       "num": 129046,
       "word": "哈密瓜拿铁",
@@ -7313,14 +7361,6 @@
       "onboard_time": 1732467316,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12689,
-      "num": 608350,
-      "word": "第二届链博会亮点抢先看",
-      "onboard_time": 1732540219,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12299,

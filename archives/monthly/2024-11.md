@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 21:32:31
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 21:43:48
 </p>
 </blockquote>
 <p>
@@ -1377,6 +1377,12 @@ K7034列车发生脱轨事故（热度：1833924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8C%AA%E6%92%95%E5%92%AC%E8%80%81%E4%BA%BA3%E6%9D%A1%E5%A4%A7%E7%8B%97%E4%B8%8D%E6%95%A2%E4%B8%8A%E5%89%8D%23" target="weibo">
+野猪撕咬老人3条大狗不敢上前（热度：1683402）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ABC%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%85%AC%E5%BC%80%E8%87%B4%E6%AD%89%23" target="weibo">
 ABC创始人公开致歉（热度：1678763）
 </a>
@@ -1601,12 +1607,6 @@ ABC创始人公开致歉（热度：1678763）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E6%96%AF%E4%BB%A51%25%E5%BE%AE%E5%BC%B1%E4%BC%98%E5%8A%BF%E9%A2%86%E5%85%88%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 哈里斯以1%微弱优势领先特朗普（热度：1593277）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8C%AA%E6%92%95%E5%92%AC%E8%80%81%E4%BA%BA3%E6%9D%A1%E5%A4%A7%E7%8B%97%E4%B8%8D%E6%95%A2%E4%B8%8A%E5%89%8D%23" target="weibo">
-野猪撕咬老人3条大狗不敢上前（热度：1590733）
 </a>
 </li>
 
@@ -5823,6 +5823,12 @@ LadyGaga（热度：814633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E7%BB%99%E6%AE%B4%E6%89%93%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%89%AF%E6%89%80%E9%95%BF%E5%AF%84%E9%94%A6%E6%97%97%23" target="weibo">
+多地网友给殴打小学生副所长寄锦旗（热度：801785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E8%B0%A3%E8%80%85%E7%88%B6%E4%BA%B2%E8%AF%B4%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%BC%80%E5%BC%80%E7%8E%A9%E7%AC%91%23" target="weibo">
 造谣者父亲说小朋友开开玩笑（热度：800858）
 </a>
@@ -6005,12 +6011,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%93%AE%E5%8E%BB%E4%B8%96%23" target="weibo">
 郑铮去世（热度：784763）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E32%E4%B8%AA%E5%B7%9E%E5%92%8C%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%89%B9%E5%8C%BA%E7%BB%93%E6%9D%9F%E5%A4%A7%E9%80%89%E6%8A%95%E7%A5%A8%23" target="weibo">
-美32个州和华盛顿特区结束大选投票（热度：783701）
 </a>
 </li>
 
