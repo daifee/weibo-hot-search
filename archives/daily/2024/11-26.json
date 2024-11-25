@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732560315634,
+  "endTime": 1732562367120,
   "band_list": [
     {
       "raw_hot": 945120,
@@ -451,6 +451,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28826,
+      "num": 31430,
+      "word": "一架货机在立陶宛坠毁",
+      "onboard_time": 1732559413,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28761,
+      "num": 31459,
+      "word": "失笑 女性向",
+      "onboard_time": 1732556533,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25692,
       "num": 74729,
       "word": "鞠婧祎拉小提琴",
@@ -467,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24914,
-      "num": 31459,
-      "word": "失笑 女性向",
-      "onboard_time": 1732556533,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24654,
       "num": 58724,
       "word": "鹭卓听着船开启丰收",
       "onboard_time": 1732556354,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23467,
+      "num": 37402,
+      "word": "劣质羽绒服不能保暖还危害身体健康",
+      "onboard_time": 1732559652,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22596,
@@ -491,20 +507,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 21555,
+      "num": 21555,
+      "word": "别对找不到工作的年轻人说风凉话",
+      "onboard_time": 1732560370,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 20681,
+      "num": 31246,
+      "word": "上个学而已没有这个必要吧",
+      "onboard_time": 1732558872,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20358,
       "num": 107523,
       "word": "2025国考全流程报考指南",
       "onboard_time": 1732551317,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 19447,
-      "num": 31246,
-      "word": "上个学而已没有这个必要吧",
-      "onboard_time": 1732558872,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 19077,
@@ -519,6 +543,14 @@
       "num": 59034,
       "word": "陈丽君用越剧唱响中国女性故事",
       "onboard_time": 1732555393,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17005,
+      "num": 31524,
+      "word": "郑雨盛与女友相差25岁",
+      "onboard_time": 1732559052,
       "rank": 19,
       "category": "艺人"
     },
@@ -539,28 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15081,
-      "num": 37402,
-      "word": "劣质羽绒服不能保暖还危害身体健康",
-      "onboard_time": 1732559652,
+      "raw_hot": 11550,
+      "num": 28767,
+      "word": "天津广播电视塔点亮送别叶嘉莹",
+      "onboard_time": 1732561811,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14476,
-      "num": 31524,
-      "word": "郑雨盛与女友相差25岁",
-      "onboard_time": 1732559052,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14328,
-      "num": 31430,
-      "word": "一架货机在立陶宛坠毁",
-      "onboard_time": 1732559413,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8088,
@@ -585,6 +601,14 @@
       "onboard_time": 1732560252,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 5092,
+      "num": 22630,
+      "word": "曾舜晞方取证告黑",
+      "onboard_time": 1732561571,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
