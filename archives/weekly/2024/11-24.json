@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732509819896,
+  "endTime": 1732512198033,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1009686,
+      "num": 648802,
+      "word": "塞尔维亚著名钟楼遭中文涂鸦",
+      "onboard_time": 1732508120,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1004448,
       "num": 1160711,
       "word": "对麦琳的围剿像无意识的集体霸凌",
@@ -347,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 787348,
+      "num": 1125975,
+      "word": "39岁失业后在菜市场重启人生",
+      "onboard_time": 1732510761,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783681,
       "num": 783681,
       "word": "鹿晗 给我干哪年来了",
       "onboard_time": 1732413000,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 782287,
+      "num": 382000,
+      "word": "四川内江公交车失控画面",
+      "onboard_time": 1732509501,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 778956,
@@ -459,6 +483,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 694058,
+      "num": 694058,
+      "word": "王楚钦呼吁不要过度解读自己的小动作",
+      "onboard_time": 1732507099,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694023,
       "num": 694023,
       "word": "谁给贺峻霖打的腮红",
@@ -497,14 +529,6 @@
       "onboard_time": 1732439658,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 677615,
-      "num": 648802,
-      "word": "塞尔维亚著名钟楼遭中文涂鸦",
-      "onboard_time": 1732508120,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 675840,
@@ -619,12 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 612281,
-      "num": 612281,
-      "word": "王楚钦呼吁不要过度解读自己的小动作",
-      "onboard_time": 1732507099,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 606237,
+      "num": 606237,
+      "word": "羊毛月60秒视频广告报价35万",
+      "onboard_time": 1732509382,
+      "rank": 14,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 602013,
@@ -633,6 +657,14 @@
       "onboard_time": 1732433298,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599305,
+      "num": 599305,
+      "word": "小巷人家 好的婚姻不怕谈钱",
+      "onboard_time": 1732509082,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 599156,
@@ -883,20 +915,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447967,
+      "num": 430990,
+      "word": "上海200元一锅的潮汕砂锅白粥",
+      "onboard_time": 1732508480,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 442511,
       "num": 372131,
       "word": "高泽宇丸子订婚",
       "onboard_time": 1732453101,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 430990,
-      "num": 430990,
-      "word": "上海200元一锅的潮汕砂锅白粥",
-      "onboard_time": 1732508480,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 428585,
@@ -1011,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389984,
+      "num": 389984,
+      "word": "关宏峰逃亡",
+      "onboard_time": 1732508060,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389741,
       "num": 389741,
       "word": "医生称用这3种卫生巾易引病上身",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1732464620,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 368254,
-      "num": 368254,
-      "word": "关宏峰逃亡",
-      "onboard_time": 1732508060,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 368136,
@@ -1211,14 +1243,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 332869,
-      "num": 332869,
-      "word": "小巷人家 好的婚姻不怕谈钱",
-      "onboard_time": 1732509082,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331008,
       "num": 331008,
       "word": "雷军晒樊振东亲笔签名球拍",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1732496180,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 319144,
+      "num": 319144,
+      "word": "飞行员说有些东西就不太方便介绍了",
+      "onboard_time": 1732509560,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 318772,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1732463180,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303671,
+      "num": 303671,
+      "word": "参加婚礼的吴世勋",
+      "onboard_time": 1732510459,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 303239,
@@ -1683,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255006,
+      "num": 255006,
+      "word": "结婚有站姐 包出片的",
+      "onboard_time": 1732510040,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254658,
       "num": 235004,
       "word": "丁禹兮微博访问量内娱第一",
@@ -1803,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234564,
+      "num": 234564,
+      "word": "原来蜀锦是淳儿织的",
+      "onboard_time": 1732509981,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234250,
       "num": 318667,
       "word": "胡先煦送宋亚轩花篮",
@@ -1875,6 +1931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 227099,
+      "num": 227099,
+      "word": "你的孩子可能正在穿这些劣质羽绒服",
+      "onboard_time": 1732510640,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225462,
       "num": 225462,
       "word": "遇见麦琳前vs遇见麦琳后",
@@ -1939,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221349,
+      "num": 221349,
+      "word": "杨紫提名金莲花奖最佳女主角",
+      "onboard_time": 1732510761,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221018,
       "num": 221018,
       "word": "太好了这个编剧真的上过班",
@@ -1953,14 +2025,6 @@
       "onboard_time": 1732507701,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220191,
-      "num": 220191,
-      "word": "四川内江公交车失控画面",
-      "onboard_time": 1732509501,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219783,
@@ -2081,14 +2145,6 @@
       "onboard_time": 1732499358,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 203304,
-      "num": 465367,
-      "word": "羊毛月60秒视频广告报价35万",
-      "onboard_time": 1732509382,
-      "rank": 14,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 203037,
@@ -2267,14 +2323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194395,
-      "num": 194395,
-      "word": "飞行员说有些东西就不太方便介绍了",
-      "onboard_time": 1732509560,
-      "rank": 41,
-      "category": "军事"
-    },
-    {
       "raw_hot": 193325,
       "num": 193325,
       "word": "白敬亭提名金莲花奖",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1732500979,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193073,
+      "num": 224991,
+      "word": "小巷人家 人要善良也要有锋芒",
+      "onboard_time": 1732511120,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 192688,
@@ -2731,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165819,
+      "num": 279676,
+      "word": "偶遇张凌赫香港拍写真",
+      "onboard_time": 1732508601,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165474,
       "num": 165474,
       "word": "俄军打击乌克兰军用机场",
@@ -2740,7 +2804,7 @@
     },
     {
       "raw_hot": 165439,
-      "num": 165439,
+      "num": 221515,
       "word": "2024年挑战者杯大名单",
       "onboard_time": 1732509682,
       "rank": 45,
@@ -2905,6 +2969,14 @@
       "onboard_time": 1732413377,
       "rank": 44,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 156782,
+      "num": 156782,
+      "word": "好东西 女本位",
+      "onboard_time": 1732511959,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 156400,
@@ -3169,6 +3241,22 @@
       "onboard_time": 1732507999,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137802,
+      "num": 137802,
+      "word": "炸鸡才是掌管快乐的神",
+      "onboard_time": 1732511059,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 137712,
+      "num": 137712,
+      "word": "凤凰传奇福州演唱会抢票",
+      "onboard_time": 1732512141,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 135807,
@@ -4347,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75286,
+      "num": 226871,
+      "word": "光遇",
+      "onboard_time": 1732512141,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74714,
       "num": 1144164,
       "word": "盘点我国医疗服务价格项目新变化",
@@ -4603,6 +4699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56563,
+      "num": 138870,
+      "word": "Icon说B氏家族赢了",
+      "onboard_time": 1732506980,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56271,
       "num": 974907,
       "word": "海南舰首次对公众开放",
@@ -4659,12 +4763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51532,
-      "num": 279676,
-      "word": "偶遇张凌赫香港拍写真",
-      "onboard_time": 1732508601,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 51040,
+      "num": 252116,
+      "word": "冷门项目运动员如何开启人生下半场",
+      "onboard_time": 1732511480,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 50732,
@@ -5281,6 +5385,14 @@
       "onboard_time": 1732429219,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23382,
+      "num": 372377,
+      "word": "邵艺辉说自己的电影不现实",
+      "onboard_time": 1732511240,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 22579,
