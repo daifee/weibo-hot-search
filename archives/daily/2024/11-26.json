@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732559508524,
+  "endTime": 1732560315634,
   "band_list": [
     {
       "raw_hot": 945120,
@@ -483,7 +483,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22419,
+      "raw_hot": 22596,
       "num": 31514,
       "word": "75岁男子高空扔菜刀致人受伤被抓",
       "onboard_time": 1732558213,
@@ -497,6 +497,14 @@
       "onboard_time": 1732551317,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 19447,
+      "num": 31246,
+      "word": "上个学而已没有这个必要吧",
+      "onboard_time": 1732558872,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 19077,
@@ -523,20 +531,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16751,
-      "num": 31246,
-      "word": "上个学而已没有这个必要吧",
-      "onboard_time": 1732558872,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 16199,
       "num": 31223,
       "word": "南开大学迦陵学舍前摆满鲜花",
       "onboard_time": 1732558331,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15081,
+      "num": 37402,
+      "word": "劣质羽绒服不能保暖还危害身体健康",
+      "onboard_time": 1732559652,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14476,
+      "num": 31524,
+      "word": "郑雨盛与女友相差25岁",
+      "onboard_time": 1732559052,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 14328,
@@ -547,7 +563,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 6410,
+      "raw_hot": 8088,
+      "num": 31608,
+      "word": "神酿星熊童子",
+      "onboard_time": 1732559892,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 6455,
       "num": 69802,
       "word": "第二届链博会亮点抢先看",
       "onboard_time": 1732540219,
@@ -555,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 6394,
-      "num": 31524,
-      "word": "郑雨盛与女友相差25岁",
-      "onboard_time": 1732559052,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 5491,
+      "num": 31054,
+      "word": "陈哲远冬日美拉德穿搭",
+      "onboard_time": 1732560252,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
