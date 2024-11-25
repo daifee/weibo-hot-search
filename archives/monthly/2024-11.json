@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732524313549,
+  "endTime": 1732526784796,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 2115596,
-      "num": 496391,
+      "num": 505788,
       "word": "网易云音乐发长文称QQ音乐抄袭",
       "onboard_time": 1732512858,
       "rank": 33,
@@ -2059,6 +2059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1611778,
+      "num": 1611778,
+      "word": "鹿晗一捯饬内娱天亮了",
+      "onboard_time": 1732523960,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1609928,
       "num": 1609928,
       "word": "女装卖了2000单退了1500单",
@@ -2225,6 +2233,14 @@
       "onboard_time": 1730635939,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1555505,
+      "num": 499950,
+      "word": "羊毛月 猫一杯",
+      "onboard_time": 1732523479,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 1547344,
@@ -7244,7 +7260,7 @@
     },
     {
       "raw_hot": 832438,
-      "num": 493513,
+      "num": 504399,
       "word": "2岁儿童在地下车库玩被车碾压致死",
       "onboard_time": 1732519398,
       "rank": 46,
@@ -7409,6 +7425,14 @@
       "onboard_time": 1731893477,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 819031,
+      "num": 595773,
+      "word": "高级幼师徐艺洋全年无休",
+      "onboard_time": 1732523421,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 817713,
@@ -7785,14 +7809,6 @@
       "onboard_time": 1731333081,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 790977,
-      "num": 499950,
-      "word": "羊毛月 猫一杯",
-      "onboard_time": 1732523479,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 789810,
@@ -10011,6 +10027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 673375,
+      "num": 1218057,
+      "word": "有家暴倾向的人大多有13个特征",
+      "onboard_time": 1732523358,
+      "rank": 49,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 672798,
       "num": 672798,
       "word": "BLG赛后采访",
@@ -11273,6 +11297,14 @@
       "onboard_time": 1730510957,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 625114,
+      "num": 625114,
+      "word": "学生家里办白事凌晨请假宿管未开门",
+      "onboard_time": 1732522158,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624742,
@@ -12793,6 +12825,14 @@
       "onboard_time": 1731298879,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 563617,
+      "num": 563617,
+      "word": "刘青松 TES",
+      "onboard_time": 1732525459,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 562948,
@@ -14715,14 +14755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502918,
-      "num": 502918,
-      "word": "学生家里办白事凌晨请假宿管未开门",
-      "onboard_time": 1732522158,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502331,
       "num": 502331,
       "word": "女子正上着班公司突然解散",
@@ -15073,14 +15105,6 @@
       "onboard_time": 1732176020,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492303,
-      "num": 492303,
-      "word": "高级幼师徐艺洋全年无休",
-      "onboard_time": 1732523421,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 492193,
@@ -16353,6 +16377,14 @@
       "onboard_time": 1731898698,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452321,
+      "num": 452321,
+      "word": "李小冉杀回疯批女人赛道",
+      "onboard_time": 1732523779,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 452138,
@@ -19267,6 +19299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383218,
+      "num": 383218,
+      "word": "尖叫之夜嘉宾",
+      "onboard_time": 1732524140,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382763,
       "num": 333439,
       "word": "长痘时真正需要忌口的食物",
@@ -21225,6 +21265,14 @@
       "onboard_time": 1731202458,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 340341,
+      "num": 340341,
+      "word": "关晓彤一天穿了四套高定",
+      "onboard_time": 1732525279,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 340156,
@@ -27427,6 +27475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 251685,
+      "num": 251685,
+      "word": "卢鑫玉浩裂穴",
+      "onboard_time": 1732524379,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251639,
       "num": 251639,
       "word": "珠帘玉幕豆瓣6.3分",
@@ -27729,14 +27785,6 @@
       "onboard_time": 1731469519,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249076,
-      "num": 283731,
-      "word": "有家暴倾向的人大多有13个特征",
-      "onboard_time": 1732523358,
-      "rank": 49,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 248979,
@@ -31467,6 +31515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215593,
+      "num": 330180,
+      "word": "丁禹兮方确认不参加尖叫之夜",
+      "onboard_time": 1732526239,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215586,
       "num": 215586,
       "word": "BLG原班人马再战一年可能性多大",
@@ -33419,6 +33475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205510,
+      "num": 497138,
+      "word": "官方回复文件200余字现7处错字",
+      "onboard_time": 1732522579,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205437,
       "num": 319781,
       "word": "林珍娜近照",
@@ -34345,6 +34409,14 @@
       "onboard_time": 1731587901,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202117,
+      "num": 202117,
+      "word": "鹿晗 音乐节也可以不吃苦",
+      "onboard_time": 1732525339,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 202062,
@@ -35321,14 +35393,6 @@
       "onboard_time": 1732169660,
       "rank": 42,
       "category": "演出,演出"
-    },
-    {
-      "raw_hot": 198490,
-      "num": 345556,
-      "word": "李小冉杀回疯批女人赛道",
-      "onboard_time": 1732523779,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 198481,
@@ -36417,14 +36481,6 @@
       "onboard_time": 1731121819,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194609,
-      "num": 194609,
-      "word": "鹿晗一捯饬内娱天亮了",
-      "onboard_time": 1732523960,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 194563,
@@ -39905,14 +39961,6 @@
       "onboard_time": 1731320119,
       "rank": 13,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 181563,
-      "num": 497138,
-      "word": "官方回复文件200余字现7处错字",
-      "onboard_time": 1732522579,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181535,
@@ -45617,6 +45665,14 @@
       "onboard_time": 1731727938,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160103,
+      "num": 239479,
+      "word": "王一博嘉人2024闭年刊预热",
+      "onboard_time": 1732526120,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160038,
@@ -52363,14 +52419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136470,
-      "num": 136470,
-      "word": "尖叫之夜嘉宾",
-      "onboard_time": 1732524140,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136465,
       "num": 186222,
       "word": "Uzi说今晚偷奖杯",
@@ -52841,6 +52889,14 @@
       "onboard_time": 1731897557,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 134329,
+      "num": 134329,
+      "word": "王楚钦总决赛夺冠后发文",
+      "onboard_time": 1732526060,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134321,
@@ -54651,6 +54707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127285,
+      "num": 127285,
+      "word": "网易雷火多名员工被处罚",
+      "onboard_time": 1732525339,
+      "rank": 45,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 127232,
       "num": 322045,
       "word": "祖峰哭起来有林黛玉那味了",
@@ -56323,6 +56387,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 121428,
+      "num": 121428,
+      "word": "河南民企协会发文称坚定支持胖东来",
+      "onboard_time": 1732526658,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121390,
       "num": 121390,
       "word": "你见过能长一米多的猫咪吗",
@@ -57179,6 +57251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118006,
+      "num": 118006,
+      "word": "2025国考笔试本周末开考",
+      "onboard_time": 1732524859,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117981,
       "num": 117981,
       "word": "狗狗在家里被人开车投毒死亡",
@@ -57193,6 +57273,14 @@
       "onboard_time": 1730536217,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117896,
+      "num": 117896,
+      "word": "羽绒服",
+      "onboard_time": 1732525279,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 117879,
@@ -58177,6 +58265,14 @@
       "onboard_time": 1731828379,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113956,
+      "num": 507131,
+      "word": "羽绒服价格为何贵不动了",
+      "onboard_time": 1732525760,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 113877,
@@ -59744,6 +59840,14 @@
       "word": "全红婵现身竞燃之夜",
       "onboard_time": 1731588141,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106708,
+      "num": 289671,
+      "word": "樊振东体验匹克球",
+      "onboard_time": 1732525998,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -64619,6 +64723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77252,
+      "num": 336008,
+      "word": "潘展乐等11位奥运冠军抵达新疆",
+      "onboard_time": 1732526420,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77225,
       "num": 77225,
       "word": "绍伊古在中国航母电子沙盘前驻足",
@@ -68571,6 +68683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57175,
+      "num": 334852,
+      "word": "男子乘出租车遗落百万黄金",
+      "onboard_time": 1732525698,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57131,
       "num": 182321,
       "word": "余宇涵翻跳sayyes",
@@ -69025,6 +69145,14 @@
       "onboard_time": 1731355870,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55037,
+      "num": 237040,
+      "word": "羊毛月现代版何不食肉糜",
+      "onboard_time": 1732525998,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 55029,
@@ -70593,6 +70721,14 @@
       "onboard_time": 1732467795,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49275,
+      "num": 339701,
+      "word": "潘展乐睡炸毛了",
+      "onboard_time": 1732525760,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 49248,
@@ -72795,6 +72931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41199,
+      "num": 1107485,
+      "word": "AI穿越良渚5000年文明之光",
+      "onboard_time": 1732521620,
+      "rank": 2,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 41174,
       "num": 50649,
       "word": "赛后休息室BLG全员神情落寞",
@@ -74001,14 +74145,6 @@
       "onboard_time": 1731564622,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 37622,
-      "num": 750287,
-      "word": "AI穿越良渚5000年文明之光",
-      "onboard_time": 1732521620,
-      "rank": 2,
-      "category": "互联网"
     },
     {
       "raw_hot": 37619,
@@ -76905,6 +77041,14 @@
       "onboard_time": 1731914958,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30343,
+      "num": 203087,
+      "word": "冬天如何选一件不踩坑的羽绒服",
+      "onboard_time": 1732525998,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 30322,
@@ -80561,6 +80705,14 @@
       "onboard_time": 1731954851,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21332,
+      "num": 191474,
+      "word": "荣耀300杨洋",
+      "onboard_time": 1732524679,
+      "rank": 37,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 21327,
