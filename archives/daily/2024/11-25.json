@@ -1,10 +1,10 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732516416947,
+  "endTime": 1732517217992,
   "band_list": [
     {
       "raw_hot": 2115596,
-      "num": 302026,
+      "num": 342464,
       "word": "网易云音乐发长文称QQ音乐抄袭",
       "onboard_time": 1732512858,
       "rank": 33,
@@ -67,7 +67,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 830055,
+      "raw_hot": 873421,
       "num": 830055,
       "word": "羊毛月60秒视频广告报价35万",
       "onboard_time": 1732509382,
@@ -163,12 +163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 610570,
+      "num": 334862,
+      "word": "辛雨锡 秦霄贤",
+      "onboard_time": 1732512379,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599305,
       "num": 599305,
       "word": "小巷人家 好的婚姻不怕谈钱",
       "onboard_time": 1732509082,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 570328,
+      "num": 324337,
+      "word": "3男子19元点外卖吃霸王餐一个月",
+      "onboard_time": 1732515197,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560976,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 560496,
-      "num": 338834,
+      "num": 517747,
       "word": "张本智和说只和妹妹配合打混双",
       "onboard_time": 1732512260,
       "rank": 14,
@@ -193,14 +209,6 @@
       "onboard_time": 1732483510,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 548473,
-      "num": 295988,
-      "word": "辛雨锡 秦霄贤",
-      "onboard_time": 1732512379,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 548170,
@@ -331,12 +339,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376677,
+      "num": 376677,
+      "word": "泰山下暴雪了",
+      "onboard_time": 1732515497,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375143,
       "num": 733790,
       "word": "国考11月25日0点开始打印准考证",
       "onboard_time": 1732464620,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 373148,
+      "num": 373148,
+      "word": "丁禹兮预售秒切10000册",
+      "onboard_time": 1732512979,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 355513,
+      "num": 355513,
+      "word": "虞书欣首个手机代言",
+      "onboard_time": 1732516339,
+      "rank": 41,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 351832,
@@ -387,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343478,
+      "num": 206233,
+      "word": "花140万买到了230平的房子",
+      "onboard_time": 1732516758,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339780,
       "num": 339780,
       "word": "叶嘉莹逝世",
@@ -395,28 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335314,
-      "num": 335314,
-      "word": "丁禹兮预售秒切10000册",
-      "onboard_time": 1732512979,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 331008,
       "num": 331008,
       "word": "雷军晒樊振东亲笔签名球拍",
       "onboard_time": 1732506980,
       "rank": 22,
       "category": "体育,互联网"
-    },
-    {
-      "raw_hot": 329288,
-      "num": 291744,
-      "word": "3男子19元点外卖吃霸王餐一个月",
-      "onboard_time": 1732515197,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329211,
@@ -504,14 +528,6 @@
       "word": "保险公司回应连交10年保险结果失效",
       "onboard_time": 1732464018,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291635,
-      "num": 291635,
-      "word": "泰山下暴雪了",
-      "onboard_time": 1732515497,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -609,6 +625,14 @@
       "onboard_time": 1732503258,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255031,
+      "num": 255031,
+      "word": "心碎却着迷道歉",
+      "onboard_time": 1732516098,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 255006,
@@ -787,12 +811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207109,
+      "num": 307877,
+      "word": "千万级带货主播把保健品吹成神药",
+      "onboard_time": 1732514718,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 207074,
       "num": 207074,
       "word": "以丝充绒经营主体被立案查处",
       "onboard_time": 1732504579,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "晓华理发店热度下降街道恢复宁静",
+      "onboard_time": 1732516038,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205236,
@@ -987,22 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184421,
-      "num": 307877,
-      "word": "千万级带货主播把保健品吹成神药",
-      "onboard_time": 1732514718,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 180765,
-      "num": 180765,
-      "word": "心碎却着迷道歉",
-      "onboard_time": 1732516098,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180054,
       "num": 316105,
       "word": "当身边人遭家暴我们该怎么办",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1732493958,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173111,
-      "num": 173111,
-      "word": "虞书欣首个手机代言",
-      "onboard_time": 1732516339,
-      "rank": 41,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 171106,
@@ -1091,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162735,
+      "num": 291774,
+      "word": "周翊然张予曦摸头杀",
+      "onboard_time": 1732515920,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162679,
       "num": 190567,
       "word": "澳门国际电影节金莲花奖提名名单",
@@ -1115,14 +1139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158353,
-      "num": 291774,
-      "word": "周翊然张予曦摸头杀",
-      "onboard_time": 1732515920,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157817,
       "num": 157817,
       "word": "周鸿祎称被逼演短剧",
@@ -1136,6 +1152,14 @@
       "word": "蜀锦人家",
       "onboard_time": 1732508360,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157495,
+      "num": 157495,
+      "word": "陈牧驰孔雪儿首搭演情侣",
+      "onboard_time": 1732517118,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1163,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154929,
+      "num": 292317,
+      "word": "原神5.2版本",
+      "onboard_time": 1732516098,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153056,
       "num": 153056,
       "word": "2024PEL全明星",
@@ -1187,28 +1219,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148945,
-      "num": 148945,
-      "word": "晓华理发店热度下降街道恢复宁静",
-      "onboard_time": 1732516038,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146870,
       "num": 146870,
       "word": "魏晨疯人愿",
       "onboard_time": 1732462580,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146622,
-      "num": 292317,
-      "word": "原神5.2版本",
-      "onboard_time": 1732516098,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 146317,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1732501158,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141207,
+      "num": 141207,
+      "word": "张杰小火车变高铁",
+      "onboard_time": 1732517057,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 140380,
@@ -1731,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71037,
+      "num": 293549,
+      "word": "减肥神药上市药店不看体重给钱就寄",
+      "onboard_time": 1732515197,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67131,
       "num": 197419,
       "word": "虞书欣留住相遇的美好瞬间",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1732449138,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61987,
-      "num": 293549,
-      "word": "减肥神药上市药店不看体重给钱就寄",
-      "onboard_time": 1732515197,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59368,
@@ -1827,6 +1851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52093,
+      "num": 292914,
+      "word": "古茗百万免单",
+      "onboard_time": 1732513098,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 51333,
       "num": 293018,
       "word": "男子爆改住房变民宿被11名邻居告了",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1732470972,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49483,
+      "num": 293215,
+      "word": "3小伙多次点外卖吃掉后退款",
+      "onboard_time": 1732515857,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49287,
@@ -1907,14 +1947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40560,
-      "num": 292914,
-      "word": "古茗百万免单",
-      "onboard_time": 1732513098,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 40147,
       "num": 372095,
       "word": "0.334纳米的石墨烯比金刚石还硬",
@@ -1947,14 +1979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37536,
-      "num": 293215,
-      "word": "3小伙多次点外卖吃掉后退款",
-      "onboard_time": 1732515857,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37063,
       "num": 44640,
       "word": "想听课的学生曾多到叶嘉莹进不了教室",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1732479491,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35865,
+      "num": 200637,
+      "word": "李一桐说的是谁",
+      "onboard_time": 1732517118,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 35563,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1732499838,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29996,
+      "num": 143767,
+      "word": "史野七集挨两顿打",
+      "onboard_time": 1732516879,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 26265,
