@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732555297797,
+  "endTime": 1732556393889,
   "band_list": [
     {
       "raw_hot": 945120,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158116,
+      "num": 86390,
+      "word": "就算何猷君真的来了也得输吧",
+      "onboard_time": 1732552756,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156145,
       "num": 156145,
       "word": "虞书欣工作室",
@@ -185,14 +193,6 @@
       "onboard_time": 1732546341,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 109623,
-      "num": 86390,
-      "word": "就算何猷君真的来了也得输吧",
-      "onboard_time": 1732552756,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 107200,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52755,
+      "num": 68207,
+      "word": "民警用羽绒服遮挡嫌疑人手铐",
+      "onboard_time": 1732553893,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51684,
       "num": 56568,
       "word": "孙颖莎王楚钦单打冠军数量排第一",
@@ -427,11 +435,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35765,
-      "num": 68207,
-      "word": "民警用羽绒服遮挡嫌疑人手铐",
-      "onboard_time": 1732553893,
-      "rank": 43,
+      "raw_hot": 30626,
+      "num": 68350,
+      "word": "红海海域游船沉没事故28人获救",
+      "onboard_time": 1732555274,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 29056,
+      "num": 58794,
+      "word": "精神侮辱也是校园欺凌",
+      "onboard_time": 1732556172,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -443,12 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25650,
-      "num": 68350,
-      "word": "红海海域游船沉没事故28人获救",
-      "onboard_time": 1732555274,
-      "rank": 29,
-      "category": "突发/灾害"
+      "raw_hot": 25430,
+      "num": 58732,
+      "word": "魏大勋 史野演出全纪录",
+      "onboard_time": 1732555994,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24654,
+      "num": 58724,
+      "word": "鹭卓听着船开启丰收",
+      "onboard_time": 1732556354,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 20358,
@@ -465,6 +489,14 @@
       "onboard_time": 1732553714,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 17299,
+      "num": 59034,
+      "word": "陈丽君用越剧唱响中国女性故事",
+      "onboard_time": 1732555393,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 16773,
