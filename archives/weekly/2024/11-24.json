@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732545750504,
+  "endTime": 1732548340317,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1257710,
+      "num": 1257710,
+      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
+      "onboard_time": 1732543880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1245056,
       "num": 1245056,
       "word": "2年被家暴16次女子幸存后的580天",
@@ -265,6 +273,14 @@
       "onboard_time": 1732536259,
       "rank": 3,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1177250,
+      "num": 1177250,
+      "word": "魏子宸妈妈回应",
+      "onboard_time": 1732547240,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1146606,
@@ -667,6 +683,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 713202,
+      "num": 713202,
+      "word": "胡彦斌最不敢签名的一次",
+      "onboard_time": 1732544000,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694058,
       "num": 694058,
       "word": "王楚钦呼吁不要过度解读自己的小动作",
@@ -913,14 +937,6 @@
       "onboard_time": 1732456099,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 580291,
-      "num": 403656,
-      "word": "胡彦斌最不敢签名的一次",
-      "onboard_time": 1732544000,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 577347,
@@ -1635,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354070,
+      "num": 354070,
+      "word": "卫生巾",
+      "onboard_time": 1732546160,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 351832,
       "num": 351832,
       "word": "肖战掌镜",
@@ -1851,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 312745,
+      "num": 288484,
+      "word": "羊毛月 王甜心",
+      "onboard_time": 1732547179,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 312739,
       "num": 374791,
       "word": "男子出租屋内种大麻结婚当天被抓",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1732503499,
       "rank": 24,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 299790,
-      "num": 299790,
-      "word": "女子不堪家暴刺死睡熟丈夫被判5年",
-      "onboard_time": 1732543880,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299758,
@@ -2121,6 +2145,14 @@
       "onboard_time": 1732415419,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273669,
+      "num": 273669,
+      "word": "田曦薇张凌赫将进组逐玉",
+      "onboard_time": 1732544061,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 271220,
@@ -2363,14 +2395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247312,
-      "num": 204812,
-      "word": "田曦薇张凌赫将进组逐玉",
-      "onboard_time": 1732544061,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244549,
       "num": 348411,
       "word": "郑雨盛和女友拍人生四格",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1732378279,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 232093,
+      "num": 287808,
+      "word": "十二星座水逆指南",
+      "onboard_time": 1732544721,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 230750,
@@ -2753,6 +2785,14 @@
       "onboard_time": 1732438820,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211339,
+      "num": 289921,
+      "word": "被野猪顶撞撕咬老人家属发声",
+      "onboard_time": 1732546459,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210585,
@@ -3827,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163784,
+      "num": 129504,
+      "word": "任何人都不该受到任何形式的校园霸凌",
+      "onboard_time": 1732546040,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163384,
       "num": 163384,
       "word": "打工人常跑步能去班味吗",
@@ -4227,14 +4275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150025,
-      "num": 150025,
-      "word": "十二星座水逆指南",
-      "onboard_time": 1732544721,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149973,
       "num": 149973,
       "word": "WTT",
@@ -4313,6 +4353,14 @@
       "onboard_time": 1732507460,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145870,
+      "num": 145870,
+      "word": "任嘉伦潮牌价格",
+      "onboard_time": 1732547781,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 145762,
@@ -4625,6 +4673,14 @@
       "onboard_time": 1732517899,
       "rank": 49,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 131518,
+      "num": 400026,
+      "word": "高校回应学生因白事请假被拦",
+      "onboard_time": 1732542920,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 131472,
@@ -5179,6 +5235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 115537,
+      "num": 115537,
+      "word": "西卡疑似内涵Ning",
+      "onboard_time": 1732545920,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115083,
       "num": 204052,
       "word": "中国男篮38分大胜蒙古男篮",
@@ -5281,6 +5345,14 @@
       "onboard_time": 1732495220,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111954,
+      "num": 131136,
+      "word": "外交部回应中方对日本试行30天免签",
+      "onboard_time": 1732545800,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111946,
@@ -5443,12 +5515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105892,
-      "num": 400026,
-      "word": "高校回应学生因白事请假被拦",
-      "onboard_time": 1732542920,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 106457,
+      "num": 106457,
+      "word": "校方通报学生因白事请假被拦事件",
+      "onboard_time": 1732546880,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105742,
@@ -5457,6 +5529,14 @@
       "onboard_time": 1732504338,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105203,
+      "num": 105203,
+      "word": "晨练老人突发心梗刚好有医生路过",
+      "onboard_time": 1732547299,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 104455,
@@ -5529,6 +5609,14 @@
       "onboard_time": 1732395612,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100130,
+      "num": 100130,
+      "word": "红海海域游船沉没事故17人下落不明",
+      "onboard_time": 1732546341,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 99982,
@@ -5673,6 +5761,14 @@
       "onboard_time": 1732497377,
       "rank": 44,
       "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 93765,
+      "num": 93765,
+      "word": "医生一大早在上班路上救了一条命",
+      "onboard_time": 1732547539,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 93721,
@@ -5859,6 +5955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84209,
+      "num": 84209,
+      "word": "kid MVP",
+      "onboard_time": 1732546579,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82323,
       "num": 407433,
       "word": "最高法发布反家庭暴力犯罪典型案例",
@@ -5875,12 +5979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81917,
+      "num": 81917,
+      "word": "江苏中小学寒假延长",
+      "onboard_time": 1732548257,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 81628,
       "num": 267086,
       "word": "冒黑烟的货车是怎么过的年检",
       "onboard_time": 1732506800,
       "rank": 30,
       "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 81549,
+      "num": 129372,
+      "word": "孙颖莎王楚钦单打冠军数量排第一",
+      "onboard_time": 1732547060,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 81189,
@@ -7115,6 +7235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28159,
+      "num": 94154,
+      "word": "新疆学生为奥运冠军们送上动漫肖像",
+      "onboard_time": 1732547060,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27634,
       "num": 288886,
       "word": "王宝强被举报系民事纠纷",
@@ -7636,7 +7764,7 @@
     },
     {
       "raw_hot": 8680,
-      "num": 449450,
+      "num": 843734,
       "word": "奥运冠军在新疆",
       "onboard_time": 1732517299,
       "rank": 2,

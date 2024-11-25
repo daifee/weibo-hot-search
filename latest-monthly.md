@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 22:42:30
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/25 23:25:40
 </p>
 </blockquote>
 <p>
@@ -2733,6 +2733,12 @@ Faker FMVP（热度：1282167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%A0%AA%E5%AE%B6%E6%9A%B4%E5%88%BA%E6%AD%BB%E7%9D%A1%E7%86%9F%E4%B8%88%E5%A4%AB%E8%A2%AB%E5%88%A45%E5%B9%B4%23" target="weibo">
+女子不堪家暴刺死睡熟丈夫被判5年（热度：1257710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%20%E5%AE%B6%E9%83%BD%E4%B8%8D%E5%9B%9E%E4%BD%A0%E5%9C%A8%E6%89%98%E4%B8%BE%E4%BB%80%E4%B9%88%23" target="weibo">
 papi酱 家都不回你在托举什么（热度：1257027）
 </a>
@@ -3005,6 +3011,12 @@ Angelababy大秀状态（热度：1182160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E5%A9%86%E5%A9%86%E6%8A%B1%E5%AD%A9%E5%AD%90%E7%AB%99%E4%B8%80%E6%97%81%23" target="weibo">
 女子遭家暴婆婆抱孩子站一旁（热度：1177683）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%AD%90%E5%AE%B8%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%23" target="weibo">
+魏子宸妈妈回应（热度：1177250）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E8%BF%9E%E7%8E%AF%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%B3%BB43%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23" target="weibo">
 德连环强奸案嫌疑人系43岁中国公民（热度：785831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%89%AF%E6%80%BB%E7%BB%9F%E8%87%AA%E7%88%86%E5%A6%82%E8%A2%AB%E5%AE%B3%E5%B0%B1%E6%89%BE%E9%A9%AC%E7%A7%91%E6%96%AF%E7%AE%97%E8%B4%A6%23" target="weibo">
-菲副总统自爆如被害就找马科斯算账（热度：785255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B6%82%E7%A2%98%E4%BC%8F%E7%A5%9B%E7%97%983%E5%A4%A9%E5%90%8E%E6%95%88%E6%9E%9C%E6%98%8E%E6%98%BE%23" target="weibo">
-女生涂碘伏祛痘3天后效果明显（热度：784904）
 </a>
 </li>
 
