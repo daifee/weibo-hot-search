@@ -1,10 +1,10 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732574416405,
+  "endTime": 1732576992211,
   "band_list": [
     {
       "raw_hot": 945120,
-      "num": 227206,
+      "num": 262292,
       "word": "女子不堪家暴刺死睡熟丈夫被判5年",
       "onboard_time": 1732543880,
       "rank": 3,
@@ -67,6 +67,30 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 276830,
+      "num": 752695,
+      "word": "央视起底冒充女性网恋骗局",
+      "onboard_time": 1732569851,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 275645,
+      "num": 358180,
+      "word": "董宇辉不再担任执行董事",
+      "onboard_time": 1732563611,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 259023,
+      "num": 259023,
+      "word": "民警用羽绒服遮挡嫌疑人手铐",
+      "onboard_time": 1732553893,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258931,
       "num": 258931,
       "word": "外交部回应中方对日本试行30天免签",
@@ -75,8 +99,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246740,
+      "num": 246740,
+      "word": "加沙人雨天睡觉还要紧紧拽住帐篷",
+      "onboard_time": 1732571051,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232446,
-      "num": 176312,
+      "num": 203713,
       "word": "警方通报王宝强被举报事件",
       "onboard_time": 1732535419,
       "rank": 10,
@@ -99,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200976,
+      "num": 200976,
+      "word": "淄职院回应女宿管阻止男医生上楼",
+      "onboard_time": 1732572671,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198897,
       "num": 166852,
       "word": "丁禹兮有力量渡难关",
@@ -113,6 +153,14 @@
       "onboard_time": 1732543221,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185600,
+      "num": 185600,
+      "word": "就算何猷君真的来了也得输吧",
+      "onboard_time": 1732552756,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 179057,
@@ -139,14 +187,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 166190,
-      "num": 465496,
-      "word": "央视起底冒充女性网恋骗局",
-      "onboard_time": 1732569851,
-      "rank": 47,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 160908,
       "num": 160908,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
@@ -155,36 +195,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159157,
-      "num": 162982,
-      "word": "民警用羽绒服遮挡嫌疑人手铐",
-      "onboard_time": 1732553893,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158116,
-      "num": 86390,
-      "word": "就算何猷君真的来了也得输吧",
-      "onboard_time": 1732552756,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156145,
       "num": 156145,
       "word": "虞书欣工作室",
       "onboard_time": 1732537761,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140921,
-      "num": 358180,
-      "word": "董宇辉不再担任执行董事",
-      "onboard_time": 1732563611,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 122728,
@@ -235,12 +251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98106,
-      "num": 98106,
-      "word": "加沙人雨天睡觉还要紧紧拽住帐篷",
-      "onboard_time": 1732571051,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 104916,
+      "num": 104916,
+      "word": "校方通报学生因白事请假被拦事件",
+      "onboard_time": 1732546880,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94341,
@@ -259,6 +275,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 87528,
+      "num": 68301,
+      "word": "郑钦文临时换帅",
+      "onboard_time": 1732553534,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86337,
       "num": 86337,
       "word": "这就是二代爱豆权志龙",
@@ -273,14 +297,6 @@
       "onboard_time": 1732544061,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82121,
-      "num": 82121,
-      "word": "校方通报学生因白事请假被拦事件",
-      "onboard_time": 1732546880,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81128,
@@ -331,15 +347,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68301,
-      "num": 68301,
-      "word": "郑钦文临时换帅",
-      "onboard_time": 1732553534,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66396,
+      "raw_hot": 67956,
       "num": 78995,
       "word": "红海游船事故中2名中国游客获救",
       "onboard_time": 1732549637,
@@ -361,6 +369,14 @@
       "onboard_time": 1732533079,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63185,
+      "num": 201138,
+      "word": "女子长期遭严重家暴杀夫后被判5年",
+      "onboard_time": 1732576094,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62513,
@@ -385,6 +401,14 @@
       "onboard_time": 1732532539,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59822,
+      "num": 59822,
+      "word": "警方通报男子用充电宝敲击他人头部",
+      "onboard_time": 1732562830,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 58871,
@@ -443,12 +467,52 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 47105,
+      "num": 47105,
+      "word": "上个学而已没有这个必要吧",
+      "onboard_time": 1732558872,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 45578,
+      "num": 45578,
+      "word": "大熊猫一见到雪忍不住满地打滚儿",
+      "onboard_time": 1732574415,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41633,
       "num": 47028,
       "word": "十个勤天种下一个未来巡回演唱会",
       "onboard_time": 1732549819,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41598,
+      "num": 41598,
+      "word": "一架货机在立陶宛坠毁",
+      "onboard_time": 1732559413,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41373,
+      "num": 41373,
+      "word": "玉林一2岁男童骑车被汽车碾压",
+      "onboard_time": 1732563851,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 41350,
+      "num": 41350,
+      "word": "王伟烈士之子成海军军官",
+      "onboard_time": 1732570990,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 40849,
@@ -467,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36707,
-      "num": 36707,
-      "word": "警方通报男子用充电宝敲击他人头部",
-      "onboard_time": 1732562830,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 36664,
       "num": 68350,
       "word": "红海海域游船沉没事故28人获救",
@@ -483,12 +539,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 32875,
-      "num": 32875,
-      "word": "一架货机在立陶宛坠毁",
-      "onboard_time": 1732559413,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 36632,
+      "num": 40826,
+      "word": "南开大学迦陵学舍前摆满鲜花",
+      "onboard_time": 1732558331,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33440,
+      "num": 40786,
+      "word": "劣质羽绒服不能保暖还危害身体健康",
+      "onboard_time": 1732559652,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29520,
+      "num": 40764,
+      "word": "手绘实景融为一体上演画板消失术",
+      "onboard_time": 1732574593,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28761,
@@ -499,28 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28032,
-      "num": 31246,
-      "word": "上个学而已没有这个必要吧",
-      "onboard_time": 1732558872,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 27956,
+      "num": 40748,
+      "word": "75岁男子高空扔菜刀致人受伤被抓",
+      "onboard_time": 1732558213,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
-      "raw_hot": 27728,
-      "num": 37402,
-      "word": "劣质羽绒服不能保暖还危害身体健康",
-      "onboard_time": 1732559652,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27281,
-      "num": 27281,
-      "word": "淄职院回应女宿管阻止男医生上楼",
-      "onboard_time": 1732572671,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 27902,
+      "num": 40736,
+      "word": "一图教你识别真假羽绒服",
+      "onboard_time": 1732564990,
+      "rank": 42,
+      "category": "时尚,休闲"
     },
     {
       "raw_hot": 25692,
@@ -547,36 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22715,
-      "num": 22715,
-      "word": "玉林一2岁男童骑车被汽车碾压",
-      "onboard_time": 1732563851,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 22596,
-      "num": 31514,
-      "word": "75岁男子高空扔菜刀致人受伤被抓",
-      "onboard_time": 1732558213,
-      "rank": 20,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 21555,
       "num": 21555,
       "word": "别对找不到工作的年轻人说风凉话",
       "onboard_time": 1732560370,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 20531,
-      "num": 31223,
-      "word": "南开大学迦陵学舍前摆满鲜花",
-      "onboard_time": 1732558331,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20358,
@@ -601,14 +641,6 @@
       "onboard_time": 1732569010,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18390,
-      "num": 22692,
-      "word": "一图教你识别真假羽绒服",
-      "onboard_time": 1732564990,
-      "rank": 42,
-      "category": "时尚,休闲"
     },
     {
       "raw_hot": 18023,
@@ -649,14 +681,6 @@
       "onboard_time": 1732568111,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 15645,
-      "num": 22672,
-      "word": "王伟烈士之子成海军军官",
-      "onboard_time": 1732570990,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 13878,
@@ -707,8 +731,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 8226,
-      "num": 135146,
+      "raw_hot": 12018,
+      "num": 264868,
       "word": "第二届链博会亮点抢先看",
       "onboard_time": 1732540219,
       "rank": 2,
