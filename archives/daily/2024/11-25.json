@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732534542309,
+  "endTime": 1732538772690,
   "band_list": [
     {
       "raw_hot": 2115596,
@@ -9,6 +9,14 @@
       "onboard_time": 1732512858,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2030159,
+      "num": 2030159,
+      "word": "警方通报王宝强被举报涉嫌诈骗",
+      "onboard_time": 1732535419,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1843951,
@@ -105,6 +113,14 @@
       "onboard_time": 1732517418,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1182160,
+      "num": 398876,
+      "word": "Angelababy大秀状态",
+      "onboard_time": 1732536259,
+      "rank": 3,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1102770,
@@ -249,6 +265,14 @@
       "onboard_time": 1732507099,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 690486,
+      "num": 690486,
+      "word": "多地网友给殴打小学生副所长寄锦旗",
+      "onboard_time": 1732534278,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 680209,
@@ -441,6 +465,14 @@
       "onboard_time": 1732501637,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489117,
+      "num": 197643,
+      "word": "立陶宛称寻求与中国全面恢复外交关系",
+      "onboard_time": 1732537040,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 487326,
@@ -683,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350332,
+      "num": 350332,
+      "word": "江浙沪人是先天留学圣体吧",
+      "onboard_time": 1732532360,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349229,
       "num": 349229,
       "word": "造假童装羽绒服两月卖出6万多件",
@@ -705,6 +745,14 @@
       "onboard_time": 1732451000,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341045,
+      "num": 341045,
+      "word": "如何看待副所长殴打小学生被送锦旗",
+      "onboard_time": 1732534638,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 339780,
@@ -745,6 +793,14 @@
       "onboard_time": 1732509560,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 316206,
+      "num": 282661,
+      "word": "虞书欣工作室",
+      "onboard_time": 1732537761,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 315864,
@@ -816,6 +872,22 @@
       "word": "保险公司回应连交10年保险结果失效",
       "onboard_time": 1732464018,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293673,
+      "num": 293673,
+      "word": "野猪撕咬老人3条大狗不敢上前",
+      "onboard_time": 1732537880,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288092,
+      "num": 288092,
+      "word": "货拉拉发布情况说明",
+      "onboard_time": 1732533858,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -891,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266578,
-      "num": 207095,
-      "word": "江浙沪人是先天留学圣体吧",
-      "onboard_time": 1732532360,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257240,
       "num": 257240,
       "word": "金价又反弹",
@@ -961,6 +1025,14 @@
       "onboard_time": 1732458563,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248748,
+      "num": 248748,
+      "word": "今屿道歉",
+      "onboard_time": 1732535299,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 247749,
@@ -1057,6 +1129,14 @@
       "onboard_time": 1732471934,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224772,
+      "num": 224772,
+      "word": "外网巨头",
+      "onboard_time": 1732534760,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 224374,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1732451721,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214988,
+      "num": 251272,
+      "word": "斗罗2第一集唐昊救场名场面",
+      "onboard_time": 1732537940,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 210585,
@@ -1451,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188437,
+      "num": 188437,
+      "word": "野猪",
+      "onboard_time": 1732537820,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186836,
       "num": 186836,
       "word": "假羽绒服",
@@ -1619,12 +1715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164588,
+      "num": 164588,
+      "word": "考研学不进去的人在干嘛",
+      "onboard_time": 1732538060,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164157,
       "num": 164157,
       "word": "北大偶遇戚薇上课",
       "onboard_time": 1732530498,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163144,
+      "num": 163144,
+      "word": "当地回应野猪闯民宅攻击老人致身亡",
+      "onboard_time": 1732536259,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 162735,
@@ -1649,14 +1761,6 @@
       "onboard_time": 1732521319,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161887,
-      "num": 161887,
-      "word": "货拉拉发布情况说明",
-      "onboard_time": 1732533858,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160821,
@@ -1859,20 +1963,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145909,
-      "num": 145909,
-      "word": "多地网友给殴打小学生副所长寄锦旗",
-      "onboard_time": 1732534278,
-      "rank": 46,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 145641,
       "num": 145641,
       "word": "东北老人爱上去南方旅居过冬",
       "onboard_time": 1732490836,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144502,
+      "num": 163753,
+      "word": "Angelababy单肩开叉黑裙",
+      "onboard_time": 1732538179,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143909,
@@ -1913,6 +2017,14 @@
       "onboard_time": 1732514237,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142510,
+      "num": 279508,
+      "word": "孙颖莎女子单打赛事冠军榜第一",
+      "onboard_time": 1732538241,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 141806,
@@ -1995,12 +2107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136286,
+      "num": 136286,
+      "word": "孔雪儿韩剧女主氛围",
+      "onboard_time": 1732538660,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135624,
       "num": 135624,
       "word": "00后女生勇闯职场第一年攒3700",
       "onboard_time": 1732530559,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134777,
+      "num": 134777,
+      "word": "英雄联盟",
+      "onboard_time": 1732535600,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 134617,
@@ -2033,6 +2161,14 @@
       "onboard_time": 1732531339,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132562,
+      "num": 132562,
+      "word": "白鹿张凌赫参加尖叫之夜",
+      "onboard_time": 1732537040,
+      "rank": 44,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 131940,
@@ -2131,6 +2267,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122295,
+      "num": 122295,
+      "word": "无畏契约",
+      "onboard_time": 1732538539,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121428,
       "num": 121428,
       "word": "河南民企协会发文称坚定支持胖东来",
@@ -2203,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117930,
+      "num": 117930,
+      "word": "丁禹兮进组南部档案",
+      "onboard_time": 1732538720,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117896,
       "num": 117896,
       "word": "羽绒服",
@@ -2219,11 +2371,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117116,
+      "num": 117116,
+      "word": "Uzi队老头杯被零封",
+      "onboard_time": 1732536620,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116744,
       "num": 116744,
       "word": "不达标假羽绒被流向酒店民宿",
       "onboard_time": 1732498396,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116675,
+      "num": 233267,
+      "word": "野猪咬死老人当地半年猎捕野猪113头",
+      "onboard_time": 1732536860,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2723,6 +2891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56145,
+      "num": 246389,
+      "word": "张云雷直播吃减脂餐",
+      "onboard_time": 1732538600,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55037,
       "num": 329363,
       "word": "羊毛月现代版何不食肉糜",
@@ -2745,6 +2921,14 @@
       "onboard_time": 1732467435,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53301,
+      "num": 169980,
+      "word": "吃烤鱼排崩溃了",
+      "onboard_time": 1732534398,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 52890,
@@ -2923,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39549,
+      "num": 244868,
+      "word": "OPPO蝶蝶紫",
+      "onboard_time": 1732534699,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39482,
       "num": 207121,
       "word": "好东西 配得感",
@@ -3035,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32147,
+      "num": 428860,
+      "word": "神十九乘组太空出差生活",
+      "onboard_time": 1732521740,
+      "rank": 2,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 31992,
       "num": 128655,
       "word": "郑雨盛文佳庇年龄差16岁",
@@ -3081,6 +3281,14 @@
       "onboard_time": 1732534099,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27634,
+      "num": 288886,
+      "word": "王宝强被举报系民事纠纷",
+      "onboard_time": 1732536620,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 26265,
@@ -3291,14 +3499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11329,
-      "num": 146032,
-      "word": "吃烤鱼排崩溃了",
-      "onboard_time": 1732534398,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 10844,
       "num": 17426,
       "word": "叶嘉莹遗体告别仪式下周六举行",
@@ -3327,6 +3527,14 @@
       "num": 85850,
       "word": "冯萧灿被石铭扫踢KO后送进医院",
       "onboard_time": 1732468514,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8948,
+      "num": 246154,
+      "word": "森林狼vs凯尔特人",
+      "onboard_time": 1732538241,
       "rank": 23,
       "category": "体育"
     },
