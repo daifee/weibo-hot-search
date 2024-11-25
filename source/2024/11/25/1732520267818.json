@@ -1,0 +1,410 @@
+{
+  "runTime": 1732520267818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 848962,
+        "num": 1135833,
+        "word": "39岁失业后在菜市场重启人生",
+        "onboard_time": 1732510761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804298,
+        "num": 804298,
+        "word": "陆虎陈曌旭预制婚礼写真",
+        "onboard_time": 1732518139,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17944,
+        "num": 694499,
+        "word": "当长城遇见黄河惊艳了",
+        "onboard_time": 1732490775,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 678983,
+        "num": 678983,
+        "word": "虞书欣首个手机代言",
+        "onboard_time": 1732516339,
+        "rank": 3,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 616487,
+        "num": 616487,
+        "word": "泰山下暴雪了",
+        "onboard_time": 1732515497,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481475,
+        "num": 481475,
+        "word": "3男子19元点外卖吃霸王餐一个月",
+        "onboard_time": 1732515197,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409479,
+        "num": 409479,
+        "word": "李一桐说的是谁",
+        "onboard_time": 1732517118,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396176,
+        "num": 396176,
+        "word": "韩国人有自己的S级短剧",
+        "onboard_time": 1732515079,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310866,
+        "num": 310866,
+        "word": "2年被家暴16次女子幸存后的580天",
+        "onboard_time": 1732503558,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37448,
+        "num": 310203,
+        "word": "还原阿斯利康骗保案细节",
+        "onboard_time": 1732518739,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1419984,
+        "num": 309249,
+        "word": "杭州兔子警官升职啦",
+        "onboard_time": 1732518019,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1213755,
+        "num": 308621,
+        "word": "网易云音乐发长文称QQ音乐抄袭",
+        "onboard_time": 1732512858,
+        "rank": 11,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 489126,
+        "num": 306911,
+        "word": "酷狗音乐回应网易云音乐",
+        "onboard_time": 1732518618,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347757,
+        "num": 306334,
+        "word": "2岁儿童在地下车库玩被车碾压致死",
+        "onboard_time": 1732519398,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25637,
+        "num": 305263,
+        "word": "网售百元助听器放大噪音",
+        "onboard_time": 1732518618,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304768,
+        "num": 304768,
+        "word": "辛雨锡 秦霄贤",
+        "onboard_time": 1732512379,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304311,
+        "num": 304311,
+        "word": "发型师晓华已经在为流量退去做准备",
+        "onboard_time": 1732512979,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 292925,
+        "num": 292925,
+        "word": "部分劣质羽绒服填充物竟是飞丝",
+        "onboard_time": 1732506379,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151959,
+        "num": 292152,
+        "word": "心疼小叶",
+        "onboard_time": 1732518739,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31189,
+        "num": 272065,
+        "word": "8000元APP上买牛认购后被骗",
+        "onboard_time": 1732519159,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1125753,
+        "num": 266835,
+        "word": "羊毛月曾称万柳书院业主为少爷",
+        "onboard_time": 1732517418,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 533201,
+        "num": 248346,
+        "word": "胖东来卫生巾区遭哄抢",
+        "onboard_time": 1732517237,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247616,
+        "num": 247616,
+        "word": "严浩翔出发南昌进组",
+        "onboard_time": 1732519458,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204340,
+        "num": 247466,
+        "word": "魏子宸",
+        "onboard_time": 1732519458,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43351,
+        "num": 247334,
+        "word": "一生要强的中国女人和不服输的DJ",
+        "onboard_time": 1732519101,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456682,
+        "num": 246974,
+        "word": "花140万买到了230平的房子",
+        "onboard_time": 1732516758,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367818,
+        "num": 246771,
+        "word": "心碎却着迷道歉",
+        "onboard_time": 1732516098,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285580,
+        "num": 246627,
+        "word": "羊毛月60秒视频广告报价35万",
+        "onboard_time": 1732509382,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246478,
+        "num": 246478,
+        "word": "谢欣桐",
+        "onboard_time": 1732498519,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238693,
+        "num": 238693,
+        "word": "学生曾买10斤水饺叶嘉莹连声说好",
+        "onboard_time": 1732518800,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244549,
+        "num": 230874,
+        "word": "郑雨盛和女友拍人生四格",
+        "onboard_time": 1732519279,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219006,
+        "num": 219006,
+        "word": "塞尔维亚著名钟楼遭中文涂鸦",
+        "onboard_time": 1732508120,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200616,
+        "num": 200616,
+        "word": "14个癌症早期信号一定要知道",
+        "onboard_time": 1732505658,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186898,
+        "num": 186898,
+        "word": "济南下雪啦",
+        "onboard_time": 1732518079,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186254,
+        "num": 186254,
+        "word": "鹿晗下一站启程前往北京",
+        "onboard_time": 1732519519,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183146,
+        "num": 183146,
+        "word": "陈牧驰孔雪儿首搭演情侣",
+        "onboard_time": 1732517118,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177493,
+        "num": 177493,
+        "word": "羊毛月2天掉粉70万",
+        "onboard_time": 1732517599,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167348,
+        "num": 167348,
+        "word": "丁禹兮预售秒切10000册",
+        "onboard_time": 1732512979,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163568,
+        "num": 163568,
+        "word": "张本智和说只和妹妹配合打混双",
+        "onboard_time": 1732512260,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161839,
+        "num": 161839,
+        "word": "NewJeans谢绝和ZB1合作",
+        "onboard_time": 1732506800,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41402,
+        "num": 153171,
+        "word": "荣耀300杨洋虞书欣同款旅拍神器",
+        "onboard_time": 1732520057,
+        "rank": 40,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 152759,
+        "num": 152759,
+        "word": "Rookie谈TheShy加入iG原因",
+        "onboard_time": 1732512260,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152517,
+        "num": 152517,
+        "word": "急性支气管炎也可能是心肌病前兆",
+        "onboard_time": 1732520119,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146740,
+        "num": 146740,
+        "word": "千万级带货主播把保健品吹成神药",
+        "onboard_time": 1732514718,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142654,
+        "num": 142654,
+        "word": "白夜破晓 内鬼",
+        "onboard_time": 1732519999,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141162,
+        "num": 141162,
+        "word": "参加婚礼的吴世勋",
+        "onboard_time": 1732510459,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139905,
+        "num": 139905,
+        "word": "陕西一野猪闯进村民家顶撞撕咬老人",
+        "onboard_time": 1732520238,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137186,
+        "num": 137186,
+        "word": "现实版凡人歌",
+        "onboard_time": 1732512199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133337,
+        "num": 133337,
+        "word": "男子酒后打折妻子6处肋骨被判刑",
+        "onboard_time": 1732503258,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131940,
+        "num": 131940,
+        "word": "雷军想请樊振东指点自己球技",
+        "onboard_time": 1732517899,
+        "rank": 49,
+        "category": "体育,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拉美之行的六个瞬间#"
+    }
+  }
+}

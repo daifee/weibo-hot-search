@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732519507016,
+  "endTime": 1732520267818,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -89,6 +89,14 @@
       "onboard_time": 1732498519,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1419984,
+      "num": 334906,
+      "word": "杭州兔子警官升职啦",
+      "onboard_time": 1732518019,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1413065,
@@ -243,14 +251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1084611,
-      "num": 334906,
-      "word": "杭州兔子警官升职啦",
-      "onboard_time": 1732518019,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1078733,
       "num": 1172597,
       "word": "蓝盈莹编辑微博共情李行亮",
@@ -377,6 +377,14 @@
       "onboard_time": 1732437860,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 804298,
+      "num": 804298,
+      "word": "陆虎陈曌旭预制婚礼写真",
+      "onboard_time": 1732518139,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 803841,
@@ -659,14 +667,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 627824,
-      "num": 627824,
-      "word": "陆虎陈曌旭预制婚礼写真",
-      "onboard_time": 1732518139,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 626180,
       "num": 443262,
       "word": "张本智和被打服了",
@@ -945,6 +945,14 @@
       "onboard_time": 1732501637,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489126,
+      "num": 306911,
+      "word": "酷狗音乐回应网易云音乐",
+      "onboard_time": 1732518618,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 487326,
@@ -1251,6 +1259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 367818,
+      "num": 283382,
+      "word": "心碎却着迷道歉",
+      "onboard_time": 1732516098,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366907,
       "num": 366907,
       "word": "2024KPOP最伟大的14分钟",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1732449919,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347757,
+      "num": 306334,
+      "word": "2岁儿童在地下车库玩被车碾压致死",
+      "onboard_time": 1732519398,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347529,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1732405635,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318657,
-      "num": 283382,
-      "word": "心碎却着迷道歉",
-      "onboard_time": 1732516098,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 315864,
@@ -1795,14 +1811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265531,
-      "num": 222324,
-      "word": "酷狗音乐回应网易云音乐",
-      "onboard_time": 1732518618,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 263474,
       "num": 263474,
       "word": "祺轩",
@@ -1947,12 +1955,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 247616,
+      "num": 247616,
+      "word": "严浩翔出发南昌进组",
+      "onboard_time": 1732519458,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247446,
       "num": 301814,
       "word": "张本智和说最后一个球都不知道往哪发",
       "onboard_time": 1732506319,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244549,
+      "num": 230874,
+      "word": "郑雨盛和女友拍人生四格",
+      "onboard_time": 1732519279,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 242475,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1732443798,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238693,
+      "num": 238693,
+      "word": "学生曾买10斤水饺叶嘉莹连声说好",
+      "onboard_time": 1732518800,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237334,
@@ -2321,6 +2353,14 @@
       "onboard_time": 1732488313,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204340,
+      "num": 247466,
+      "word": "魏子宸",
+      "onboard_time": 1732519458,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 204104,
@@ -2731,6 +2771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186254,
+      "num": 186254,
+      "word": "鹿晗下一站启程前往北京",
+      "onboard_time": 1732519519,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "魏晨音乐节现场",
@@ -2849,6 +2897,14 @@
       "onboard_time": 1732512739,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177493,
+      "num": 326954,
+      "word": "羊毛月2天掉粉70万",
+      "onboard_time": 1732517599,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 177031,
@@ -3043,28 +3099,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 166767,
-      "num": 166767,
-      "word": "严浩翔出发南昌进组",
-      "onboard_time": 1732519458,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166488,
       "num": 166488,
       "word": "王曼昱说第一次总决赛夺冠非常激动",
       "onboard_time": 1732441998,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166245,
-      "num": 326954,
-      "word": "羊毛月2天掉粉70万",
-      "onboard_time": 1732517599,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 166123,
@@ -3387,6 +3427,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152517,
+      "num": 152517,
+      "word": "急性支气管炎也可能是心肌病前兆",
+      "onboard_time": 1732520119,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151959,
+      "num": 323939,
+      "word": "心疼小叶",
+      "onboard_time": 1732518739,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151666,
       "num": 310654,
       "word": "时空中的绘旅人",
@@ -3419,36 +3475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149591,
-      "num": 149591,
-      "word": "郑雨盛和女友拍人生四格",
-      "onboard_time": 1732519279,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147131,
       "num": 147131,
       "word": "许光汉吴君如借位接吻",
       "onboard_time": 1732374860,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147120,
-      "num": 147120,
-      "word": "学生曾买10斤水饺叶嘉莹连声说好",
-      "onboard_time": 1732518800,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146885,
-      "num": 146885,
-      "word": "2岁儿童在地下车库玩被车碾压致死",
-      "onboard_time": 1732519398,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146870,
@@ -3555,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142654,
+      "num": 142654,
+      "word": "白夜破晓 内鬼",
+      "onboard_time": 1732519999,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142639,
       "num": 142639,
       "word": "种下一个未来",
@@ -3584,6 +3624,14 @@
       "word": "北京大风雨雪降温强势来袭",
       "onboard_time": 1732487112,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139905,
+      "num": 139905,
+      "word": "陕西一野猪闯进村民家顶撞撕咬老人",
+      "onboard_time": 1732520238,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -3641,14 +3689,6 @@
       "onboard_time": 1732417878,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134360,
-      "num": 134360,
-      "word": "魏子宸",
-      "onboard_time": 1732519458,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 134337,
@@ -3729,6 +3769,14 @@
       "onboard_time": 1732375401,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131940,
+      "num": 131940,
+      "word": "雷军想请樊振东指点自己球技",
+      "onboard_time": 1732517899,
+      "rank": 49,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 131472,
@@ -5091,14 +5139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58089,
-      "num": 323939,
-      "word": "心疼小叶",
-      "onboard_time": 1732518739,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 58066,
       "num": 220218,
       "word": "张本智和说自己没有东西赢王楚钦",
@@ -5363,6 +5403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43351,
+      "num": 283782,
+      "word": "一生要强的中国女人和不服输的DJ",
+      "onboard_time": 1732519101,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43210,
       "num": 43210,
       "word": "特斯拉股价已上涨约40%",
@@ -5417,6 +5465,14 @@
       "onboard_time": 1732448059,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41402,
+      "num": 153171,
+      "word": "荣耀300杨洋虞书欣同款旅拍神器",
+      "onboard_time": 1732520057,
+      "rank": 40,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 41304,
@@ -5481,6 +5537,14 @@
       "onboard_time": 1732468634,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37448,
+      "num": 344755,
+      "word": "还原阿斯利康骗保案细节",
+      "onboard_time": 1732518739,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 37063,
@@ -5560,14 +5624,6 @@
       "word": "中国赛任何组合无缘决赛",
       "onboard_time": 1732404974,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 34625,
-      "num": 283782,
-      "word": "一生要强的中国女人和不服输的DJ",
-      "onboard_time": 1732519101,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -5659,6 +5715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31189,
+      "num": 315467,
+      "word": "8000元APP上买牛认购后被骗",
+      "onboard_time": 1732519159,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30686,
       "num": 340510,
       "word": "国羽中国赛2金2银收官",
@@ -5723,14 +5787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27828,
-      "num": 344755,
-      "word": "还原阿斯利康骗保案细节",
-      "onboard_time": 1732518739,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 27306,
       "num": 212756,
       "word": "王曼昱对粉丝说辛苦了",
@@ -5777,6 +5833,14 @@
       "onboard_time": 1732470253,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25637,
+      "num": 330387,
+      "word": "网售百元助听器放大噪音",
+      "onboard_time": 1732518618,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24961,
@@ -5923,28 +5987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19422,
-      "num": 330387,
-      "word": "网售百元助听器放大噪音",
-      "onboard_time": 1732518618,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18660,
       "num": 376652,
       "word": "黄金联赛的实力豹款",
       "onboard_time": 1732442419,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18381,
-      "num": 315467,
-      "word": "8000元APP上买牛认购后被骗",
-      "onboard_time": 1732519159,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18288,
