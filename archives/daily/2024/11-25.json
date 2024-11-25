@@ -1,6 +1,6 @@
 {
   "startTime": 1732465583612,
-  "endTime": 1732533616388,
+  "endTime": 1732534542309,
   "band_list": [
     {
       "raw_hot": 2115596,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574299,
+      "num": 361858,
+      "word": "李行亮麦琳全是情绪问题",
+      "onboard_time": 1732532539,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 563617,
       "num": 563617,
       "word": "刘青松 TES",
@@ -459,20 +467,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 481523,
+      "num": 457744,
+      "word": "爱奇艺尖叫之夜阵容名单首发",
+      "onboard_time": 1732530080,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477807,
       "num": 477807,
       "word": "向佐的起床闹钟是女儿的巴掌",
       "onboard_time": 1732528278,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471314,
-      "num": 457744,
-      "word": "爱奇艺尖叫之夜阵容名单首发",
-      "onboard_time": 1732530080,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 462398,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410050,
+      "num": 310014,
+      "word": "全红婵评论王楚钦",
+      "onboard_time": 1732533079,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407251,
       "num": 383218,
       "word": "尖叫之夜嘉宾",
@@ -683,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345528,
-      "num": 345528,
-      "word": "李行亮麦琳全是情绪问题",
-      "onboard_time": 1732532539,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 344264,
       "num": 276921,
       "word": "疑似李行亮取关麦琳",
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 314706,
-      "num": 314706,
+      "num": 359304,
       "word": "魏子宸对接回应校园霸凌",
       "onboard_time": 1732531939,
       "rank": 22,
@@ -881,6 +889,14 @@
       "onboard_time": 1732464978,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266578,
+      "num": 207095,
+      "word": "江浙沪人是先天留学圣体吧",
+      "onboard_time": 1732532360,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 257240,
@@ -1131,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215783,
+      "num": 215783,
+      "word": "孙怡拍的女儿背影",
+      "onboard_time": 1732533799,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215222,
       "num": 215222,
       "word": "infp确诊ADHD",
@@ -1299,6 +1323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199215,
+      "num": 199215,
+      "word": "登陆少年不参加尖叫之夜",
+      "onboard_time": 1732533678,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197229,
+      "num": 197229,
+      "word": "郭碧婷4岁女儿身高",
+      "onboard_time": 1732532660,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197173,
       "num": 293345,
       "word": "王一博剃胡须",
@@ -1329,14 +1369,6 @@
       "onboard_time": 1732507399,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195921,
-      "num": 195921,
-      "word": "全红婵评论王楚钦",
-      "onboard_time": 1732533079,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 195071,
@@ -1411,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190547,
-      "num": 190547,
-      "word": "郭碧婷4岁女儿身高",
-      "onboard_time": 1732532660,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189874,
       "num": 251148,
       "word": "张杰回应AMA争议",
@@ -1451,6 +1475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181782,
+      "num": 181782,
+      "word": "十个勤天福州演唱会拼盘",
+      "onboard_time": 1732534520,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180054,
       "num": 316105,
       "word": "当身边人遭家暴我们该怎么办",
@@ -1465,14 +1497,6 @@
       "onboard_time": 1732527920,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178994,
-      "num": 178994,
-      "word": "江浙沪人是先天留学圣体吧",
-      "onboard_time": 1732532360,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 177585,
@@ -1627,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161887,
+      "num": 161887,
+      "word": "货拉拉发布情况说明",
+      "onboard_time": 1732533858,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160821,
       "num": 272367,
       "word": "时代少年团站在舞台上的那一刻",
@@ -1772,11 +1804,19 @@
     },
     {
       "raw_hot": 151411,
-      "num": 151411,
+      "num": 304970,
       "word": "王楚钦总积分8825分",
       "onboard_time": 1732530498,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151224,
+      "num": 151224,
+      "word": "斗罗大陆2香肠哥曹梓硕",
+      "onboard_time": 1732534398,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 150437,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1732507460,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145909,
+      "num": 145909,
+      "word": "多地网友给殴打小学生副所长寄锦旗",
+      "onboard_time": 1732534278,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 145641,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1732464439,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128994,
+      "num": 128994,
+      "word": "两市成交额不足1.5万亿",
+      "onboard_time": 1732534520,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 128808,
@@ -2323,6 +2379,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 96293,
+      "num": 340156,
+      "word": "男子5万种进口牙舌头被咬肿",
+      "onboard_time": 1732532780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94055,
       "num": 94055,
       "word": "孩子发烧什么情况要就医",
@@ -2395,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86717,
+      "num": 410145,
+      "word": "江西伪劣羽绒服制售企业被查",
+      "onboard_time": 1732532960,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 86651,
       "num": 304413,
       "word": "长沙县卫健局一份官方文件7处错字",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1732529118,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 79857,
+      "num": 340718,
+      "word": "刘诗诗确认出席尖叫之夜",
+      "onboard_time": 1732531760,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 78348,
@@ -2507,6 +2587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 73349,
+      "num": 358774,
+      "word": "劣质羽绒填充物每斤成本7元",
+      "onboard_time": 1732533198,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 72717,
       "num": 72717,
       "word": "好东西彩蛋",
@@ -2529,14 +2617,6 @@
       "onboard_time": 1732515197,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70024,
-      "num": 347774,
-      "word": "劣质羽绒填充物每斤成本7元",
-      "onboard_time": 1732533198,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 69293,
@@ -2683,14 +2763,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 51971,
-      "num": 333507,
-      "word": "男子5万种进口牙舌头被咬肿",
-      "onboard_time": 1732532780,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51333,
       "num": 293018,
       "word": "男子爆改住房变民宿被11名邻居告了",
@@ -2708,7 +2780,7 @@
     },
     {
       "raw_hot": 49750,
-      "num": 143333,
+      "num": 358483,
       "word": "Reno13发布会",
       "onboard_time": 1732533438,
       "rank": 40,
@@ -2737,14 +2809,6 @@
       "onboard_time": 1732525760,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48968,
-      "num": 410145,
-      "word": "江西伪劣羽绒服制售企业被查",
-      "onboard_time": 1732532960,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 48611,
@@ -2857,6 +2921,14 @@
       "onboard_time": 1732522938,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39482,
+      "num": 207121,
+      "word": "好东西 配得感",
+      "onboard_time": 1732534458,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 39037,
@@ -3003,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29748,
+      "num": 340304,
+      "word": "Tarzan疑似加入AL",
+      "onboard_time": 1732534099,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 26265,
       "num": 372377,
       "word": "邵艺辉说自己的电影不现实",
@@ -3019,11 +3099,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 25798,
+      "num": 218898,
+      "word": "潘展乐说第一次到新疆感觉好热闹",
+      "onboard_time": 1732533919,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25637,
       "num": 330387,
       "word": "网售百元助听器放大噪音",
       "onboard_time": 1732518618,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24384,
+      "num": 216244,
+      "word": "控制野猪数量不能仅靠零打碎敲",
+      "onboard_time": 1732534099,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3059,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22853,
+      "num": 408901,
+      "word": "叶嘉莹让现代人重新感受斯文的力量",
+      "onboard_time": 1732532780,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22579,
       "num": 23853,
       "word": "今日星拍放送",
@@ -3073,14 +3177,6 @@
       "onboard_time": 1732473072,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20451,
-      "num": 408901,
-      "word": "叶嘉莹让现代人重新感受斯文的力量",
-      "onboard_time": 1732532780,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19860,
@@ -3193,6 +3289,14 @@
       "onboard_time": 1732528998,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11329,
+      "num": 146032,
+      "word": "吃烤鱼排崩溃了",
+      "onboard_time": 1732534398,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 10844,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1732534542309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1007245,
+        "num": 1161159,
+        "word": "TF四代魏子宸被校园霸凌",
+        "onboard_time": 1732521260,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 943700,
+        "num": 943700,
+        "word": "长沙县卫健局承认出现工作失误",
+        "onboard_time": 1732530139,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37368,
+        "num": 823877,
+        "word": "AI穿越良渚5000年文明之光",
+        "onboard_time": 1732521620,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 739433,
+        "num": 739433,
+        "word": "徐梦洁发了400宫格",
+        "onboard_time": 1732530798,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448550,
+        "num": 448550,
+        "word": "女子杀害家暴丈夫获子女和公婆谅解",
+        "onboard_time": 1732529598,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362225,
+        "num": 362225,
+        "word": "有家暴倾向的人大多有13个特征",
+        "onboard_time": 1732523358,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 574299,
+        "num": 361858,
+        "word": "李行亮麦琳全是情绪问题",
+        "onboard_time": 1732532539,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481523,
+        "num": 361804,
+        "word": "爱奇艺尖叫之夜阵容名单首发",
+        "onboard_time": 1732530080,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86717,
+        "num": 361247,
+        "word": "江西伪劣羽绒服制售企业被查",
+        "onboard_time": 1732532960,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 22853,
+        "num": 360785,
+        "word": "叶嘉莹让现代人重新感受斯文的力量",
+        "onboard_time": 1732532780,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1396903,
+        "num": 360228,
+        "word": "鹿晗一捯饬内娱天亮了",
+        "onboard_time": 1732523960,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 607613,
+        "num": 360053,
+        "word": "多方回应女生因白事凌晨跪求宿管开门",
+        "onboard_time": 1732520838,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 381965,
+        "num": 359679,
+        "word": "学生家里办白事凌晨请假宿管未开门",
+        "onboard_time": 1732522158,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303668,
+        "num": 359304,
+        "word": "魏子宸对接回应校园霸凌",
+        "onboard_time": 1732531939,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73349,
+        "num": 358774,
+        "word": "劣质羽绒填充物每斤成本7元",
+        "onboard_time": 1732533198,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 38447,
+        "num": 358483,
+        "word": "Reno13发布会",
+        "onboard_time": 1732533438,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 358168,
+        "num": 358168,
+        "word": "2岁儿童在地下车库玩被车碾压致死",
+        "onboard_time": 1732519398,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79857,
+        "num": 340718,
+        "word": "刘诗诗确认出席尖叫之夜",
+        "onboard_time": 1732531760,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29748,
+        "num": 340304,
+        "word": "Tarzan疑似加入AL",
+        "onboard_time": 1732534099,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96293,
+        "num": 340156,
+        "word": "男子5万种进口牙舌头被咬肿",
+        "onboard_time": 1732532780,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340031,
+        "num": 340031,
+        "word": "金钟大真是个好爸爸",
+        "onboard_time": 1732529899,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322983,
+        "num": 322983,
+        "word": "关晓彤一天穿了四套高定",
+        "onboard_time": 1732525279,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 775380,
+        "num": 315141,
+        "word": "羊毛月 猫一杯",
+        "onboard_time": 1732523479,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 410050,
+        "num": 310014,
+        "word": "全红婵评论王楚钦",
+        "onboard_time": 1732533079,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139176,
+        "num": 304970,
+        "word": "王楚钦总积分8825分",
+        "onboard_time": 1732530498,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302987,
+        "num": 302987,
+        "word": "网易云音乐发长文称QQ音乐抄袭",
+        "onboard_time": 1732512858,
+        "rank": 25,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 286790,
+        "num": 286790,
+        "word": "高级幼师徐艺洋全年无休",
+        "onboard_time": 1732523421,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160612,
+        "num": 224790,
+        "word": "潘展乐等11位奥运冠军抵达新疆",
+        "onboard_time": 1732526420,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25798,
+        "num": 218898,
+        "word": "潘展乐说第一次到新疆感觉好热闹",
+        "onboard_time": 1732533919,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24384,
+        "num": 216244,
+        "word": "控制野猪数量不能仅靠零打碎敲",
+        "onboard_time": 1732534099,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215783,
+        "num": 215783,
+        "word": "孙怡拍的女儿背影",
+        "onboard_time": 1732533799,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39482,
+        "num": 207121,
+        "word": "好东西 配得感",
+        "onboard_time": 1732534458,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266578,
+        "num": 207095,
+        "word": "江浙沪人是先天留学圣体吧",
+        "onboard_time": 1732532360,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206661,
+        "num": 206661,
+        "word": "上班后微信不敢乱取名字了",
+        "onboard_time": 1732520779,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199215,
+        "num": 199215,
+        "word": "登陆少年不参加尖叫之夜",
+        "onboard_time": 1732533678,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197229,
+        "num": 197229,
+        "word": "郭碧婷4岁女儿身高",
+        "onboard_time": 1732532660,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188873,
+        "num": 188873,
+        "word": "杭州兔子警官升职啦",
+        "onboard_time": 1732518019,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181782,
+        "num": 181782,
+        "word": "十个勤天福州演唱会拼盘",
+        "onboard_time": 1732534520,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172065,
+        "num": 172065,
+        "word": "丁禹兮方确认不参加尖叫之夜",
+        "onboard_time": 1732526239,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166461,
+        "num": 166461,
+        "word": "花140万买到了230平的房子",
+        "onboard_time": 1732516758,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161887,
+        "num": 161887,
+        "word": "货拉拉发布情况说明",
+        "onboard_time": 1732533858,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156128,
+        "num": 156128,
+        "word": "李一桐点痣了",
+        "onboard_time": 1732522279,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155078,
+        "num": 155078,
+        "word": "刘青松 TES",
+        "onboard_time": 1732525459,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151224,
+        "num": 151224,
+        "word": "斗罗大陆2香肠哥曹梓硕",
+        "onboard_time": 1732534398,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147258,
+        "num": 147258,
+        "word": "向佐的起床闹钟是女儿的巴掌",
+        "onboard_time": 1732528278,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11329,
+        "num": 146032,
+        "word": "吃烤鱼排崩溃了",
+        "onboard_time": 1732534398,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145909,
+        "num": 145909,
+        "word": "多地网友给殴打小学生副所长寄锦旗",
+        "onboard_time": 1732534278,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140533,
+        "num": 140533,
+        "word": "鹿晗黄子韬在各自的赛道闪闪发光",
+        "onboard_time": 1732526839,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135585,
+        "num": 135585,
+        "word": "胖东来卫生巾区遭哄抢",
+        "onboard_time": 1732517237,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128994,
+        "num": 128994,
+        "word": "两市成交额不足1.5万亿",
+        "onboard_time": 1732534520,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行高光时刻#"
+    }
+  }
+}
