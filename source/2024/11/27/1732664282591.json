@@ -1,0 +1,410 @@
+{
+  "runTime": 1732664282591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 873523,
+        "num": 957281,
+        "word": "提前还房贷的人后悔了吗",
+        "onboard_time": 1732661714,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751124,
+        "num": 751124,
+        "word": "初雪",
+        "onboard_time": 1732631240,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45337,
+        "num": 605696,
+        "word": "中国天眼发现脉冲星已超1000颗",
+        "onboard_time": 1732626859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544299,
+        "num": 544299,
+        "word": "羊毛月这次触及到00后的逆鳞",
+        "onboard_time": 1732645392,
+        "rank": 3,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 237844,
+        "num": 237844,
+        "word": "大连失联船舶已找到",
+        "onboard_time": 1732649830,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232373,
+        "num": 232373,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219827,
+        "num": 219827,
+        "word": "研究生因扫雪不达标将取消评奖资格",
+        "onboard_time": 1732627519,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217793,
+        "num": 217793,
+        "word": "武汉市教育局辟谣试点取消寒暑假",
+        "onboard_time": 1732661893,
+        "rank": 7,
+        "category": "辟谣/通报,教育"
+      },
+      {
+        "raw_hot": 190894,
+        "num": 190894,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174250,
+        "num": 174250,
+        "word": "黎以停火协议已被批准",
+        "onboard_time": 1732663695,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212723,
+        "num": 165820,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472140,
+        "num": 161307,
+        "word": "养女防老正成为农村养老新现象",
+        "onboard_time": 1732629800,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155965,
+        "num": 155965,
+        "word": "鹅绒一吨100多万羽绒制品非贵即假",
+        "onboard_time": 1732638976,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142828,
+        "num": 142828,
+        "word": "曼城3比3费耶诺德",
+        "onboard_time": 1732663876,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140221,
+        "num": 140221,
+        "word": "男子不顾孩子哀求家暴妻子",
+        "onboard_time": 1732647071,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140012,
+        "num": 140012,
+        "word": "黄冈58岁高三教师宿舍离世教育局介入",
+        "onboard_time": 1732623918,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 129749,
+        "num": 129749,
+        "word": "大冰停播43天后复播",
+        "onboard_time": 1732633819,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127773,
+        "num": 127773,
+        "word": "欧冠",
+        "onboard_time": 1732663876,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30113,
+        "num": 125915,
+        "word": "爱笑爆料BLG教练不变",
+        "onboard_time": 1732664236,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68859,
+        "num": 125843,
+        "word": "刘青松回应加入TES",
+        "onboard_time": 1732664236,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224509,
+        "num": 125810,
+        "word": "52岁TVB演员戴耀明餐厅打工",
+        "onboard_time": 1732621878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125772,
+        "num": 125772,
+        "word": "捐赠相册美国小伙计划长期留在中国",
+        "onboard_time": 1732630940,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115559,
+        "num": 115559,
+        "word": "瘦30斤才敢说的大实话",
+        "onboard_time": 1732663876,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 107087,
+        "num": 113918,
+        "word": "北京这雪厚度能写艺术字了",
+        "onboard_time": 1732635138,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8532,
+        "num": 113747,
+        "word": "第五人格发文致歉",
+        "onboard_time": 1732663816,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113649,
+        "num": 113649,
+        "word": "内鱼在逃小仙女永久禁言",
+        "onboard_time": 1732636096,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111149,
+        "num": 111149,
+        "word": "游客称喝过免费酒的女生整夜呕吐",
+        "onboard_time": 1732615039,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67991,
+        "num": 91648,
+        "word": "权志龙头巾",
+        "onboard_time": 1732636758,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56996,
+        "num": 90682,
+        "word": "赵露思横店甜品店闭店",
+        "onboard_time": 1732624698,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48286,
+        "num": 90470,
+        "word": "陈佩斯与妹妹一家同框",
+        "onboard_time": 1732653611,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90355,
+        "num": 90355,
+        "word": "赵露思新剧依然是自己化妆",
+        "onboard_time": 1732616418,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84253,
+        "num": 84253,
+        "word": "疑似麦琳解散李行亮核心粉丝群",
+        "onboard_time": 1732642814,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81173,
+        "num": 81173,
+        "word": "张凌赫田曦薇 平番",
+        "onboard_time": 1732625719,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76020,
+        "num": 76020,
+        "word": "美国蛋价飙涨超50%",
+        "onboard_time": 1732634419,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75150,
+        "num": 75150,
+        "word": "尔滨的雪实在是太美了",
+        "onboard_time": 1732655531,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73086,
+        "num": 73086,
+        "word": "新一澄清与Doinb决裂",
+        "onboard_time": 1732663876,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62327,
+        "num": 62327,
+        "word": "Faker直播谈Zeus",
+        "onboard_time": 1732632740,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61127,
+        "num": 61127,
+        "word": "市监局回应副处长被举报长期性骚扰",
+        "onboard_time": 1732648330,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 60761,
+        "num": 60761,
+        "word": "余承东称有人转账6万给他",
+        "onboard_time": 1732626559,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 57819,
+        "num": 57819,
+        "word": "曼城各赛事六场不胜",
+        "onboard_time": 1732663935,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63949,
+        "num": 56602,
+        "word": "辛选致歉",
+        "onboard_time": 1732637477,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50922,
+        "num": 50922,
+        "word": "邱贻可吃上黑天鹅蛋糕了",
+        "onboard_time": 1732632080,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50618,
+        "num": 50618,
+        "word": "直击东北暴雪现场",
+        "onboard_time": 1732657090,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48687,
+        "num": 48687,
+        "word": "心情不好会让人变丑是有科学依据的",
+        "onboard_time": 1732649530,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48313,
+        "num": 48313,
+        "word": "日本地震",
+        "onboard_time": 1732630340,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48311,
+        "num": 48311,
+        "word": "美国两囚犯没有身体接触却有了孩子",
+        "onboard_time": 1732624399,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130558,
+        "num": 48307,
+        "word": "狗狗吞一嘴蓝莓一个没敢吃",
+        "onboard_time": 1732635377,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42919,
+        "num": 48303,
+        "word": "华为matex6上手体验",
+        "onboard_time": 1732638016,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38001,
+        "num": 48300,
+        "word": "杨幂郭敬明素颜自拍照",
+        "onboard_time": 1732625059,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37036,
+        "num": 48291,
+        "word": "好东西票房破2亿",
+        "onboard_time": 1732638617,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡国务资政李显龙#"
+    }
+  }
+}

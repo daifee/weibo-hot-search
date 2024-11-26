@@ -1,7 +1,15 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732663375457,
+  "endTime": 1732664282591,
   "band_list": [
+    {
+      "raw_hot": 873523,
+      "num": 957281,
+      "word": "提前还房贷的人后悔了吗",
+      "onboard_time": 1732661714,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 770187,
       "num": 888854,
@@ -19,28 +27,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 490419,
-      "num": 144934,
-      "word": "养女防老正成为农村养老新现象",
-      "onboard_time": 1732629800,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 487663,
-      "num": 487663,
-      "word": "提前还房贷的人后悔了吗",
-      "onboard_time": 1732661714,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 431245,
-      "num": 431245,
+      "raw_hot": 544299,
+      "num": 544299,
       "word": "羊毛月这次触及到00后的逆鳞",
       "onboard_time": 1732645392,
       "rank": 9,
       "category": "网红,舆论监督"
+    },
+    {
+      "raw_hot": 490419,
+      "num": 161307,
+      "word": "养女防老正成为农村养老新现象",
+      "onboard_time": 1732629800,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403818,
@@ -91,11 +91,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237844,
+      "num": 237844,
+      "word": "大连失联船舶已找到",
+      "onboard_time": 1732649830,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235489,
       "num": 235489,
       "word": "研究生因扫雪不达标将取消评奖资格",
       "onboard_time": 1732627519,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232373,
+      "num": 232373,
+      "word": "富商去世非婚生女继承总遗产80%",
+      "onboard_time": 1732617619,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -105,6 +121,22 @@
       "onboard_time": 1732636758,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224509,
+      "num": 125810,
+      "word": "52岁TVB演员戴耀明餐厅打工",
+      "onboard_time": 1732621878,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217793,
+      "num": 217793,
+      "word": "武汉市教育局辟谣试点取消寒暑假",
+      "onboard_time": 1732661893,
+      "rank": 9,
+      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 216397,
@@ -120,14 +152,6 @@
       "word": "偶遇Angelababy香港吃火锅",
       "onboard_time": 1732621878,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 214588,
-      "num": 115045,
-      "word": "52岁TVB演员戴耀明餐厅打工",
-      "onboard_time": 1732621878,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -147,20 +171,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 189989,
-      "num": 189989,
-      "word": "富商去世非婚生女继承总遗产80%",
-      "onboard_time": 1732617619,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189297,
-      "num": 189297,
-      "word": "大连失联船舶已找到",
-      "onboard_time": 1732649830,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 190894,
+      "num": 190894,
+      "word": "伊能静评价再见爱人里的女性角色",
+      "onboard_time": 1732623377,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 187417,
@@ -169,6 +185,14 @@
       "onboard_time": 1732632080,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174250,
+      "num": 174250,
+      "word": "黎以停火协议已被批准",
+      "onboard_time": 1732663695,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166368,
@@ -187,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157056,
-      "num": 157056,
-      "word": "伊能静评价再见爱人里的女性角色",
-      "onboard_time": 1732623377,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 142828,
+      "num": 142828,
+      "word": "曼城3比3费耶诺德",
+      "onboard_time": 1732663876,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 140748,
@@ -203,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140012,
+      "num": 140012,
+      "word": "黄冈58岁高三教师宿舍离世教育局介入",
+      "onboard_time": 1732623918,
+      "rank": 45,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "内鱼在逃小仙女永久禁言",
@@ -211,12 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133529,
-      "num": 133529,
-      "word": "黄冈58岁高三教师宿舍离世教育局介入",
-      "onboard_time": 1732623918,
-      "rank": 45,
-      "category": "民生新闻,教育"
+      "raw_hot": 127773,
+      "num": 127773,
+      "word": "欧冠",
+      "onboard_time": 1732663876,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125772,
+      "num": 125772,
+      "word": "捐赠相册美国小伙计划长期留在中国",
+      "onboard_time": 1732630940,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119957,
@@ -235,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115559,
+      "num": 115559,
+      "word": "瘦30斤才敢说的大实话",
+      "onboard_time": 1732663876,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 111920,
       "num": 111920,
       "word": "杨幂郭敬明素颜自拍照",
@@ -243,11 +291,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104864,
-      "num": 104864,
-      "word": "捐赠相册美国小伙计划长期留在中国",
-      "onboard_time": 1732630940,
-      "rank": 35,
+      "raw_hot": 111149,
+      "num": 111149,
+      "word": "游客称喝过免费酒的女生整夜呕吐",
+      "onboard_time": 1732615039,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107087,
+      "num": 113918,
+      "word": "北京这雪厚度能写艺术字了",
+      "onboard_time": 1732635138,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -257,14 +313,6 @@
       "onboard_time": 1732633639,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98449,
-      "num": 98449,
-      "word": "游客称喝过免费酒的女生整夜呕吐",
-      "onboard_time": 1732615039,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98284,
@@ -307,14 +355,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 88503,
-      "num": 88503,
-      "word": "北京这雪厚度能写艺术字了",
-      "onboard_time": 1732635138,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86624,
       "num": 86624,
       "word": "湘潭大学宿舍投毒案已移交法院",
@@ -337,6 +377,14 @@
       "onboard_time": 1732624278,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84253,
+      "num": 84253,
+      "word": "疑似麦琳解散李行亮核心粉丝群",
+      "onboard_time": 1732642814,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 84189,
@@ -379,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75150,
+      "num": 75150,
+      "word": "尔滨的雪实在是太美了",
+      "onboard_time": 1732655531,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 73156,
       "num": 73156,
       "word": "天津下雪",
       "onboard_time": 1732632740,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73086,
+      "num": 73086,
+      "word": "新一澄清与Doinb决裂",
+      "onboard_time": 1732663876,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 72437,
@@ -403,14 +467,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 71130,
-      "num": 71130,
-      "word": "尔滨的雪实在是太美了",
-      "onboard_time": 1732655531,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 69908,
       "num": 69908,
       "word": "下一个中国还是中国",
@@ -427,20 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66300,
-      "num": 66300,
-      "word": "疑似麦琳解散李行亮核心粉丝群",
-      "onboard_time": 1732642814,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 65863,
-      "num": 145458,
-      "word": "武汉市教育局辟谣试点取消寒暑假",
-      "onboard_time": 1732661893,
-      "rank": 9,
-      "category": "辟谣/通报,教育"
+      "raw_hot": 68859,
+      "num": 125843,
+      "word": "刘青松回应加入TES",
+      "onboard_time": 1732664236,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 61927,
@@ -449,6 +497,22 @@
       "onboard_time": 1732637298,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 61127,
+      "num": 61127,
+      "word": "市监局回应副处长被举报长期性骚扰",
+      "onboard_time": 1732648330,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 57819,
+      "num": 57819,
+      "word": "曼城各赛事六场不胜",
+      "onboard_time": 1732663935,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 55376,
@@ -467,12 +531,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48247,
-      "num": 48247,
-      "word": "市监局回应副处长被举报长期性骚扰",
-      "onboard_time": 1732648330,
-      "rank": 9,
-      "category": "舆论监督"
+      "raw_hot": 50618,
+      "num": 50618,
+      "word": "直击东北暴雪现场",
+      "onboard_time": 1732657090,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48687,
+      "num": 48687,
+      "word": "心情不好会让人变丑是有科学依据的",
+      "onboard_time": 1732649530,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48286,
+      "num": 90470,
+      "word": "陈佩斯与妹妹一家同框",
+      "onboard_time": 1732653611,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 46632,
@@ -480,14 +560,6 @@
       "word": "Angelababy与网友合影",
       "onboard_time": 1732650790,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 46277,
-      "num": 48248,
-      "word": "陈佩斯与妹妹一家同框",
-      "onboard_time": 1732653611,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -507,28 +579,20 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 41267,
-      "num": 41267,
-      "word": "森林进化论2",
-      "onboard_time": 1732641073,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 41136,
-      "num": 437573,
+      "raw_hot": 45337,
+      "num": 605696,
       "word": "中国天眼发现脉冲星已超1000颗",
       "onboard_time": 1732626859,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 40720,
-      "num": 45803,
-      "word": "直击东北暴雪现场",
-      "onboard_time": 1732657090,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 41267,
+      "num": 41267,
+      "word": "森林进化论2",
+      "onboard_time": 1732641073,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 38606,
@@ -547,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35132,
-      "num": 45774,
-      "word": "心情不好会让人变丑是有科学依据的",
-      "onboard_time": 1732649530,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 34764,
       "num": 45697,
       "word": "鹿晗gapday音乐节吸引超7万乐迷",
@@ -569,6 +625,14 @@
       "onboard_time": 1732643832,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 30113,
+      "num": 125915,
+      "word": "爱笑爆料BLG教练不变",
+      "onboard_time": 1732664236,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 29714,
@@ -673,6 +737,14 @@
       "onboard_time": 1732643413,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8532,
+      "num": 113747,
+      "word": "第五人格发文致歉",
+      "onboard_time": 1732663816,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 7016,
