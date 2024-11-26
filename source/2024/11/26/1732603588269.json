@@ -1,0 +1,410 @@
+{
+  "runTime": 1732603588269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1819890,
+        "num": 1819890,
+        "word": "儿子在校一餐花8元妈妈心疼落泪",
+        "onboard_time": 1732599199,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 853660,
+        "num": 853660,
+        "word": "山东淄博职业学院通报",
+        "onboard_time": 1732601959,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 26058,
+        "num": 790972,
+        "word": "古人把一年四季画成交响乐",
+        "onboard_time": 1732589419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 780581,
+        "num": 780581,
+        "word": "华为发布会",
+        "onboard_time": 1732602078,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 703438,
+        "num": 703438,
+        "word": "赵樱子 我娱乐圈最好的朋友是李梦",
+        "onboard_time": 1732598899,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 701307,
+        "num": 701307,
+        "word": "再见爱人节目组发声明",
+        "onboard_time": 1732600160,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1182413,
+        "num": 701000,
+        "word": "家长只喂米糊两月龄宝宝多脏器衰竭",
+        "onboard_time": 1732600580,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698926,
+        "num": 698926,
+        "word": "求婚是唯一一件下跪就能办成的事",
+        "onboard_time": 1732601120,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29425,
+        "num": 598458,
+        "word": "200元潮汕砂锅白粥仍在售卖",
+        "onboard_time": 1732603098,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538841,
+        "num": 538841,
+        "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
+        "onboard_time": 1732600339,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 545843,
+        "num": 536558,
+        "word": "吴谨言挺孕肚跟洪尧出门",
+        "onboard_time": 1732587858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520586,
+        "num": 520586,
+        "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
+        "onboard_time": 1732596021,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520360,
+        "num": 520360,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510970,
+        "num": 510970,
+        "word": "上海闵行区一男子商场内坠亡",
+        "onboard_time": 1732594639,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149956,
+        "num": 406305,
+        "word": "记者实测200元一份粥成本13元",
+        "onboard_time": 1732602438,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402443,
+        "num": 402443,
+        "word": "魏子宸妈妈再发文",
+        "onboard_time": 1732597999,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258098,
+        "num": 397974,
+        "word": "李行亮粉丝发声",
+        "onboard_time": 1732601001,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50066,
+        "num": 395078,
+        "word": "疯狂的外星人重映",
+        "onboard_time": 1732602619,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32505,
+        "num": 388690,
+        "word": "媒体谈宿管阻止男医护进女寝救人",
+        "onboard_time": 1732603039,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517868,
+        "num": 385056,
+        "word": "麦琳 烟瘾",
+        "onboard_time": 1732598478,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382311,
+        "num": 382311,
+        "word": "男子夜班看焚化炉睡9小时被开除",
+        "onboard_time": 1732587678,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351007,
+        "num": 351007,
+        "word": "德云社女弟子",
+        "onboard_time": 1732602318,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 335875,
+        "num": 335875,
+        "word": "教育局回应网传魏子宸遭校园霸凌",
+        "onboard_time": 1732597820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289502,
+        "num": 289502,
+        "word": "山东婚假",
+        "onboard_time": 1732595300,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145170,
+        "num": 254358,
+        "word": "Jinjiao正式退役",
+        "onboard_time": 1732602499,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249608,
+        "num": 249608,
+        "word": "特朗普乱挥关税大棒",
+        "onboard_time": 1732586778,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249583,
+        "num": 249583,
+        "word": "疑似再见爱人离职剪辑师爆料",
+        "onboard_time": 1732586298,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149323,
+        "num": 246296,
+        "word": "市监所回应一份白粥200元",
+        "onboard_time": 1732584319,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 245324,
+        "num": 245324,
+        "word": "孟佳是偷偷报了什么表演班吗",
+        "onboard_time": 1732599319,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61190,
+        "num": 229262,
+        "word": "金晨王安宇炽道cp售后吃太好了",
+        "onboard_time": 1732602739,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223402,
+        "num": 223402,
+        "word": "爱不离厕永久禁言",
+        "onboard_time": 1732598899,
+        "rank": 30,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 209080,
+        "num": 209080,
+        "word": "丁禹兮 橘子果冻",
+        "onboard_time": 1732600339,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208076,
+        "num": 208076,
+        "word": "羊毛月曾回应蹭北大",
+        "onboard_time": 1732599559,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207941,
+        "num": 207941,
+        "word": "特朗普妄言对中国商品加征10%关税",
+        "onboard_time": 1732585578,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196509,
+        "num": 196509,
+        "word": "山东将延长婚假至15天",
+        "onboard_time": 1732598599,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180883,
+        "num": 180883,
+        "word": "于适 悉尼",
+        "onboard_time": 1732601539,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178455,
+        "num": 178455,
+        "word": "肖战重庆",
+        "onboard_time": 1732603278,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178269,
+        "num": 178269,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167258,
+        "num": 167258,
+        "word": "SBS歌谣大战阵容",
+        "onboard_time": 1732601120,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150663,
+        "num": 150663,
+        "word": "闫妮的嫡长闺",
+        "onboard_time": 1732603098,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141680,
+        "num": 141680,
+        "word": "蔡秀彬 好凉",
+        "onboard_time": 1732603039,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136940,
+        "num": 136940,
+        "word": "林允儿首尔活动生图",
+        "onboard_time": 1732602619,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 135190,
+        "num": 135190,
+        "word": "广电总局要求加强对霸总微短剧管理",
+        "onboard_time": 1732587978,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131689,
+        "num": 131689,
+        "word": "特朗普宣布对墨加商品征收25%关税",
+        "onboard_time": 1732586778,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125214,
+        "num": 125214,
+        "word": "13年前微信安装包仅457KB",
+        "onboard_time": 1732585338,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117468,
+        "num": 117468,
+        "word": "白鹿王星越唐宫开机",
+        "onboard_time": 1732599019,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115713,
+        "num": 115713,
+        "word": "XCC曝Faker每天练习14小时",
+        "onboard_time": 1732603519,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115395,
+        "num": 115395,
+        "word": "篮网逆转勇士",
+        "onboard_time": 1732600758,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115092,
+        "num": 115092,
+        "word": "埃文凯尔为筹钱中国行卖掉一个钱币",
+        "onboard_time": 1732599859,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114948,
+        "num": 114948,
+        "word": "科尔",
+        "onboard_time": 1732603158,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行纪实#"
+    }
+  }
+}

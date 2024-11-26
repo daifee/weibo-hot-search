@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732602761742,
+  "endTime": 1732603588269,
   "band_list": [
     {
       "raw_hot": 1952056,
@@ -11,8 +11,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1819890,
+      "num": 1819890,
+      "word": "儿子在校一餐花8元妈妈心疼落泪",
+      "onboard_time": 1732599199,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1458339,
-      "num": 505564,
+      "num": 536558,
       "word": "吴谨言挺孕肚跟洪尧出门",
       "onboard_time": 1732587858,
       "rank": 10,
@@ -33,14 +41,6 @@
       "onboard_time": 1732590259,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1382400,
-      "num": 1382400,
-      "word": "儿子在校一餐花8元妈妈心疼落泪",
-      "onboard_time": 1732599199,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1353889,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 853660,
+      "num": 853660,
+      "word": "山东淄博职业学院通报",
+      "onboard_time": 1732601959,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 820398,
       "num": 820398,
       "word": "赵樱子 我娱乐圈最好的朋友是李梦",
@@ -147,12 +155,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 780581,
+      "num": 780581,
+      "word": "华为发布会",
+      "onboard_time": 1732602078,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 721060,
       "num": 453338,
       "word": "麦琳 烟瘾",
       "onboard_time": 1732598478,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 701307,
+      "num": 701307,
+      "word": "再见爱人节目组发声明",
+      "onboard_time": 1732600160,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 698926,
+      "num": 698926,
+      "word": "求婚是唯一一件下跪就能办成的事",
+      "onboard_time": 1732601120,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 697439,
@@ -169,14 +201,6 @@
       "onboard_time": 1732590438,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 690732,
-      "num": 690732,
-      "word": "再见爱人节目组发声明",
-      "onboard_time": 1732600160,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 688260,
@@ -259,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538841,
+      "num": 538841,
+      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
+      "onboard_time": 1732600339,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 480886,
       "num": 480886,
       "word": "上海白粥刺客200一碗",
@@ -289,14 +321,6 @@
       "onboard_time": 1732578136,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 439759,
-      "num": 439759,
-      "word": "求婚是唯一一件下跪就能办成的事",
-      "onboard_time": 1732601120,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 436602,
@@ -331,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396709,
-      "num": 396709,
-      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
-      "onboard_time": 1732600339,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 384316,
       "num": 384316,
       "word": "王楚钦8300分世排第一",
@@ -361,22 +377,6 @@
       "onboard_time": 1732593438,
       "rank": 17,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 366103,
-      "num": 366103,
-      "word": "山东淄博职业学院通报",
-      "onboard_time": 1732601959,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 364113,
-      "num": 364113,
-      "word": "华为发布会",
-      "onboard_time": 1732602078,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 363667,
@@ -417,6 +417,14 @@
       "onboard_time": 1732580298,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351007,
+      "num": 351007,
+      "word": "德云社女弟子",
+      "onboard_time": 1732602318,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 343841,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 259742,
-      "num": 381245,
+      "num": 397974,
       "word": "李行亮粉丝发声",
       "onboard_time": 1732601001,
       "rank": 16,
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231007,
-      "num": 231007,
-      "word": "德云社女弟子",
-      "onboard_time": 1732602318,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228758,
       "num": 228758,
       "word": "江苏中小学寒假延长",
@@ -699,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223402,
+      "num": 223402,
+      "word": "爱不离厕永久禁言",
+      "onboard_time": 1732598899,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221742,
       "num": 221742,
       "word": "丁禹兮剧组挣钱剧组花",
@@ -731,16 +739,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 212717,
-      "num": 212717,
-      "word": "爱不离厕永久禁言",
-      "onboard_time": 1732598899,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208413,
-      "num": 208413,
+      "raw_hot": 209080,
+      "num": 209080,
       "word": "丁禹兮 橘子果冻",
       "onboard_time": 1732600339,
       "rank": 37,
@@ -971,6 +971,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 178455,
+      "num": 178455,
+      "word": "肖战重庆",
+      "onboard_time": 1732603278,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176377,
       "num": 161225,
       "word": "任何人都不该受到任何形式的校园霸凌",
@@ -1059,8 +1067,24 @@
       "category": "网红"
     },
     {
+      "raw_hot": 150663,
+      "num": 150663,
+      "word": "闫妮的嫡长闺",
+      "onboard_time": 1732603098,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149956,
+      "num": 406305,
+      "word": "记者实测200元一份粥成本13元",
+      "onboard_time": 1732602438,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148268,
-      "num": 148268,
+      "num": 254358,
       "word": "Jinjiao正式退役",
       "onboard_time": 1732602499,
       "rank": 43,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1732588879,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141680,
+      "num": 141680,
+      "word": "蔡秀彬 好凉",
+      "onboard_time": 1732603039,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 140522,
@@ -1115,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136940,
+      "num": 136940,
+      "word": "林允儿首尔活动生图",
+      "onboard_time": 1732602619,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 136232,
       "num": 401897,
       "word": "邻居可视门铃拍到自家能让拆除吗",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1732585338,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131912,
-      "num": 131912,
-      "word": "林允儿首尔活动生图",
-      "onboard_time": 1732602619,
-      "rank": 48,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 131215,
@@ -1235,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115713,
+      "num": 115713,
+      "word": "XCC曝Faker每天练习14小时",
+      "onboard_time": 1732603519,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115408,
       "num": 115408,
       "word": "现在拨打的电话",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1732546880,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114948,
+      "num": 114948,
+      "word": "科尔",
+      "onboard_time": 1732603158,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114421,
@@ -1523,14 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67761,
-      "num": 397875,
-      "word": "记者实测200元一份粥成本13元",
-      "onboard_time": 1732602438,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66151,
       "num": 357906,
       "word": "内蒙古警察枪击案律师进行无罪辩护",
@@ -1577,6 +1617,14 @@
       "onboard_time": 1732545920,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 61190,
+      "num": 280292,
+      "word": "金晨王安宇炽道cp售后吃太好了",
+      "onboard_time": 1732602739,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 61185,
@@ -1627,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58368,
-      "num": 280292,
-      "word": "金晨王安宇炽道cp售后吃太好了",
-      "onboard_time": 1732602739,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57885,
       "num": 343833,
       "word": "小伙儿假扮白富美骗走800万",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1732597279,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 50066,
+      "num": 395078,
+      "word": "疯狂的外星人重映",
+      "onboard_time": 1732602619,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 50046,
@@ -1875,12 +1923,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33342,
-      "num": 364885,
-      "word": "疯狂的外星人重映",
-      "onboard_time": 1732602619,
+      "raw_hot": 32505,
+      "num": 388690,
+      "word": "媒体谈宿管阻止男医护进女寝救人",
+      "onboard_time": 1732603039,
       "rank": 18,
-      "category": "电影"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31505,
@@ -1896,6 +1944,14 @@
       "word": "手绘实景融为一体上演画板消失术",
       "onboard_time": 1732574593,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29425,
+      "num": 598458,
+      "word": "200元潮汕砂锅白粥仍在售卖",
+      "onboard_time": 1732603098,
+      "rank": 8,
       "category": "民生新闻"
     },
     {

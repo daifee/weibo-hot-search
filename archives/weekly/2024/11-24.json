@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732602761742,
+  "endTime": 1732603588269,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -75,6 +75,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1819890,
+      "num": 1819890,
+      "word": "儿子在校一餐花8元妈妈心疼落泪",
+      "onboard_time": 1732599199,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1773598,
       "num": 1773598,
       "word": "王曼昱vs陈幸同",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1458339,
-      "num": 505564,
+      "num": 536558,
       "word": "吴谨言挺孕肚跟洪尧出门",
       "onboard_time": 1732587858,
       "rank": 10,
@@ -200,14 +208,6 @@
       "word": "7万件羽绒服含绒量0企业主管被抓",
       "onboard_time": 1732449439,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1382400,
-      "num": 1382400,
-      "word": "儿子在校一餐花8元妈妈心疼落泪",
-      "onboard_time": 1732599199,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 853660,
+      "num": 853660,
+      "word": "山东淄博职业学院通报",
+      "onboard_time": 1732601959,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 842788,
       "num": 496756,
       "word": "看因果报应要签保密协议",
@@ -689,6 +697,14 @@
       "onboard_time": 1732413000,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 780581,
+      "num": 780581,
+      "word": "华为发布会",
+      "onboard_time": 1732602078,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 778956,
@@ -835,6 +851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701307,
+      "num": 701307,
+      "word": "再见爱人节目组发声明",
+      "onboard_time": 1732600160,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 698926,
+      "num": 698926,
+      "word": "求婚是唯一一件下跪就能办成的事",
+      "onboard_time": 1732601120,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697439,
       "num": 541665,
       "word": "高中同学曝羊毛月文化成绩倒数",
@@ -865,14 +897,6 @@
       "onboard_time": 1732590438,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 690732,
-      "num": 690732,
-      "word": "再见爱人节目组发声明",
-      "onboard_time": 1732600160,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 688260,
@@ -1323,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 538841,
+      "num": 538841,
+      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
+      "onboard_time": 1732600339,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 535704,
       "num": 535704,
       "word": "余承东官宣Mate70新功能",
@@ -1595,14 +1627,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 439759,
-      "num": 439759,
-      "word": "求婚是唯一一件下跪就能办成的事",
-      "onboard_time": 1732601120,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434465,
       "num": 343955,
       "word": "上班后微信不敢乱取名字了",
@@ -1779,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396709,
-      "num": 396709,
-      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
-      "onboard_time": 1732600339,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 394546,
       "num": 394546,
       "word": "原来睡眠不足真会变胖",
@@ -1955,28 +1971,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 366103,
-      "num": 366103,
-      "word": "山东淄博职业学院通报",
-      "onboard_time": 1732601959,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 365196,
       "num": 584603,
       "word": "王楚钦捧起总决赛冠军奖杯",
       "onboard_time": 1732436900,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 364113,
-      "num": 364113,
-      "word": "华为发布会",
-      "onboard_time": 1732602078,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 363667,
@@ -2056,6 +2056,14 @@
       "word": "陈奕迅演唱会偶遇赵露思",
       "onboard_time": 1732496720,
       "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 351007,
+      "num": 351007,
+      "word": "德云社女弟子",
+      "onboard_time": 1732602318,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -2772,7 +2780,7 @@
     },
     {
       "raw_hot": 259742,
-      "num": 381245,
+      "num": 397974,
       "word": "李行亮粉丝发声",
       "onboard_time": 1732601001,
       "rank": 16,
@@ -3107,14 +3115,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 231007,
-      "num": 231007,
-      "word": "德云社女弟子",
-      "onboard_time": 1732602318,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 230750,
       "num": 230750,
       "word": "鹿晗说马上要开四巡了",
@@ -3257,6 +3257,14 @@
       "onboard_time": 1732412538,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223402,
+      "num": 223402,
+      "word": "爱不离厕永久禁言",
+      "onboard_time": 1732598899,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223045,
@@ -3443,14 +3451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 212717,
-      "num": 212717,
-      "word": "爱不离厕永久禁言",
-      "onboard_time": 1732598899,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212131,
       "num": 212131,
       "word": "白桃星座",
@@ -3483,20 +3483,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209080,
+      "num": 209080,
+      "word": "丁禹兮 橘子果冻",
+      "onboard_time": 1732600339,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208935,
       "num": 299143,
       "word": "羊毛月没资格嘲笑每个努力生活的人",
       "onboard_time": 1732520419,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 208413,
-      "num": 208413,
-      "word": "丁禹兮 橘子果冻",
-      "onboard_time": 1732600339,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 207922,
@@ -4419,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178455,
+      "num": 178455,
+      "word": "肖战重庆",
+      "onboard_time": 1732603278,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177537,
       "num": 177537,
       "word": "十个勤天演唱会",
@@ -5195,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150663,
+      "num": 150663,
+      "word": "闫妮的嫡长闺",
+      "onboard_time": 1732603098,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150437,
       "num": 161942,
       "word": "吉赛尔 天选妈妈",
@@ -5211,6 +5227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149956,
+      "num": 406305,
+      "word": "记者实测200元一份粥成本13元",
+      "onboard_time": 1732602438,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "十个勤天广州演唱会现场",
@@ -5220,7 +5244,7 @@
     },
     {
       "raw_hot": 148268,
-      "num": 148268,
+      "num": 254358,
       "word": "Jinjiao正式退役",
       "onboard_time": 1732602499,
       "rank": 43,
@@ -5403,6 +5427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141680,
+      "num": 141680,
+      "word": "蔡秀彬 好凉",
+      "onboard_time": 1732603039,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141207,
       "num": 141207,
       "word": "张杰小火车变高铁",
@@ -5497,6 +5529,14 @@
       "onboard_time": 1732512141,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136940,
+      "num": 136940,
+      "word": "林允儿首尔活动生图",
+      "onboard_time": 1732602619,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 136232,
@@ -5665,14 +5705,6 @@
       "onboard_time": 1732517899,
       "rank": 49,
       "category": "体育,互联网"
-    },
-    {
-      "raw_hot": 131912,
-      "num": 131912,
-      "word": "林允儿首尔活动生图",
-      "onboard_time": 1732602619,
-      "rank": 48,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 131472,
@@ -6283,6 +6315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115713,
+      "num": 115713,
+      "word": "XCC曝Faker每天练习14小时",
+      "onboard_time": 1732603519,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115706,
       "num": 282954,
       "word": "宋佳 姐张力",
@@ -6320,6 +6360,14 @@
       "word": "中国男篮38分大胜蒙古男篮",
       "onboard_time": 1732442059,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114948,
+      "num": 114948,
+      "word": "科尔",
+      "onboard_time": 1732603158,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -7451,14 +7499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67761,
-      "num": 397875,
-      "word": "记者实测200元一份粥成本13元",
-      "onboard_time": 1732602438,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67624,
       "num": 220265,
       "word": "关晓彤费加罗复古油画封面",
@@ -7619,6 +7659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61190,
+      "num": 280292,
+      "word": "金晨王安宇炽道cp售后吃太好了",
+      "onboard_time": 1732602739,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61142,
       "num": 346027,
       "word": "陈幸同亚军",
@@ -7713,14 +7761,6 @@
       "onboard_time": 1732593859,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58368,
-      "num": 280292,
-      "word": "金晨王安宇炽道cp售后吃太好了",
-      "onboard_time": 1732602739,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 58323,
@@ -7913,6 +7953,14 @@
       "onboard_time": 1732541541,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50066,
+      "num": 395078,
+      "word": "疯狂的外星人重映",
+      "onboard_time": 1732602619,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 50046,
@@ -8611,20 +8659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33342,
-      "num": 364885,
-      "word": "疯狂的外星人重映",
-      "onboard_time": 1732602619,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 33036,
       "num": 76409,
       "word": "伊普斯维奇1比1曼联",
       "onboard_time": 1732499297,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32505,
+      "num": 388690,
+      "word": "媒体谈宿管阻止男医护进女寝救人",
+      "onboard_time": 1732603039,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32370,
@@ -8736,6 +8784,14 @@
       "word": "手绘实景融为一体上演画板消失术",
       "onboard_time": 1732574593,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29425,
+      "num": 598458,
+      "word": "200元潮汕砂锅白粥仍在售卖",
+      "onboard_time": 1732603098,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
