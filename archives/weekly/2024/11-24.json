@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732620017151,
+  "endTime": 1732620965223,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -163,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1537427,
+      "num": 1537427,
+      "word": "富商去世非婚生女继承总遗产80%",
+      "onboard_time": 1732617619,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1533636,
       "num": 1533636,
       "word": "王曼昱总决赛夺冠",
@@ -216,14 +224,6 @@
       "word": "家长只喂米糊两月龄宝宝多脏器衰竭",
       "onboard_time": 1732600580,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1409218,
-      "num": 1409218,
-      "word": "富商去世非婚生女继承总遗产80%",
-      "onboard_time": 1732617619,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1227,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 618875,
+      "num": 271379,
+      "word": "内鱼之花钱了你让让我吧 禁言",
+      "onboard_time": 1732619059,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611310,
       "num": 611310,
       "word": "山东婚假",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1732415897,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 394518,
+      "num": 394518,
+      "word": "Angelababy高开叉黑色裙装",
+      "onboard_time": 1732619959,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 391102,
@@ -2907,14 +2923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271379,
-      "num": 271379,
-      "word": "内鱼之花钱了你让让我吧 禁言",
-      "onboard_time": 1732619059,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271220,
       "num": 271220,
       "word": "余宇涵成人礼特别企划",
@@ -3409,6 +3417,14 @@
       "onboard_time": 1732512199,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233600,
+      "num": 457355,
+      "word": "张本智和说自己世界排名大概第6",
+      "onboard_time": 1732616299,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 233532,
@@ -4339,6 +4355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195081,
+      "num": 195081,
+      "word": "GMM",
+      "onboard_time": 1732620258,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195071,
       "num": 195071,
       "word": "3个动作助你入睡",
@@ -4955,14 +4979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 174106,
-      "num": 457355,
-      "word": "张本智和说自己世界排名大概第6",
-      "onboard_time": 1732616299,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173763,
       "num": 166251,
       "word": "丁禹兮熬夜背梗比不过天赋型选手",
@@ -5065,6 +5081,14 @@
       "onboard_time": 1732523538,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170292,
+      "num": 225136,
+      "word": "羊毛月隐藏多条视频",
+      "onboard_time": 1732619177,
+      "rank": 23,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 170225,
@@ -5451,14 +5475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158204,
-      "num": 225136,
-      "word": "羊毛月隐藏多条视频",
-      "onboard_time": 1732619177,
-      "rank": 23,
-      "category": "网红,舆论监督"
-    },
-    {
       "raw_hot": 157823,
       "num": 206668,
       "word": "蔡文静在遇渣男赛道上无敌了",
@@ -5739,6 +5755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150015,
+      "num": 150015,
+      "word": "尊界S800内饰",
+      "onboard_time": 1732619118,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149973,
       "num": 149973,
       "word": "WTT",
@@ -5963,6 +5987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140809,
+      "num": 140809,
+      "word": "汪苏泷徐志胜李雪琴李嘉琦互换头像",
+      "onboard_time": 1732620139,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140522,
       "num": 140522,
       "word": "中国点名美国的否决让安理会瘫痪",
@@ -6163,6 +6195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133638,
+      "num": 133638,
+      "word": "我恋6嘉宾返场三对cp都亲了",
+      "onboard_time": 1732619959,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133422,
       "num": 278877,
       "word": "zdz怒喷赵志铭",
@@ -6257,14 +6297,6 @@
       "onboard_time": 1732423698,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131470,
-      "num": 131470,
-      "word": "尊界S800内饰",
-      "onboard_time": 1732619118,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 131270,
@@ -6715,6 +6747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120018,
+      "num": 120018,
+      "word": "女子扫描中奖二维码损失50万",
+      "onboard_time": 1732619298,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119877,
       "num": 413868,
       "word": "邓亚萍给WTT福冈赛中国队表现打分",
@@ -6971,20 +7011,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114986,
-      "num": 114986,
-      "word": "女子扫描中奖二维码损失50万",
-      "onboard_time": 1732619298,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114948,
       "num": 469647,
       "word": "科尔",
       "onboard_time": 1732603158,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114609,
+      "num": 114609,
+      "word": "任嘉伦GCJL REN",
+      "onboard_time": 1732620799,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 114551,
@@ -7241,14 +7281,6 @@
       "onboard_time": 1732587378,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109430,
-      "num": 109430,
-      "word": "我恋6嘉宾返场三对cp都亲了",
-      "onboard_time": 1732619959,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 108872,
@@ -7803,14 +7835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87456,
-      "num": 224707,
-      "word": "Angelababy高开叉黑色裙装",
-      "onboard_time": 1732619959,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 87406,
       "num": 291269,
       "word": "王楚钦说未完待续",
@@ -8041,6 +8065,14 @@
       "onboard_time": 1732433478,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79905,
+      "num": 190576,
+      "word": "丁禹兮现场拍摄花絮",
+      "onboard_time": 1732620378,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 79857,
@@ -9115,6 +9147,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 43205,
+      "num": 192426,
+      "word": "TES官宣茂凯离队",
+      "onboard_time": 1732620199,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 43170,
       "num": 424998,
       "word": "租户交全年房租因中介卷款面临被赶",
@@ -9491,6 +9531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35452,
+      "num": 343821,
+      "word": "全国多地秋天在变短",
+      "onboard_time": 1732618999,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35304,
       "num": 776641,
       "word": "神十九乘组太空出差生活",
@@ -9659,6 +9707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31442,
+      "num": 345861,
+      "word": "小巷人家里的中年女性友谊",
+      "onboard_time": 1732619059,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31345,
       "num": 217242,
       "word": "冬天如何选一件不踩坑的羽绒服",
@@ -9796,7 +9852,7 @@
     },
     {
       "raw_hot": 28850,
-      "num": 134443,
+      "num": 144181,
       "word": "荣耀赵明评价华为Mate70发布",
       "onboard_time": 1732619478,
       "rank": 40,
@@ -10171,6 +10227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22222,
+      "num": 223712,
+      "word": "Faker保持巅峰的原因",
+      "onboard_time": 1732620318,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 22005,
       "num": 183256,
       "word": "传奇杯",
@@ -10201,14 +10265,6 @@
       "onboard_time": 1732377260,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21397,
-      "num": 343821,
-      "word": "全国多地秋天在变短",
-      "onboard_time": 1732618999,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21058,
@@ -10283,14 +10339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18779,
-      "num": 345861,
-      "word": "小巷人家里的中年女性友谊",
-      "onboard_time": 1732619059,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18704,
       "num": 129046,
       "word": "哈密瓜拿铁",
@@ -10345,6 +10393,14 @@
       "onboard_time": 1732474212,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17702,
+      "num": 193251,
+      "word": "陈伟霆在剧粉评论区冲浪",
+      "onboard_time": 1732620498,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 17299,
@@ -10423,6 +10479,14 @@
       "num": 18255,
       "word": "旺仔当事人称异物被厂家取走大部分",
       "onboard_time": 1732401432,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 15607,
+      "num": 114327,
+      "word": "冰糖雪梨热橙茶",
+      "onboard_time": 1732620678,
       "rank": 49,
       "category": "美食"
     },

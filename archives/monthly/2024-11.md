@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/26 19:20:17
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/26 19:36:05
 </p>
 </blockquote>
 <p>
@@ -1779,6 +1779,12 @@ ABC创始人公开致歉（热度：1678763）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%95%86%E5%8E%BB%E4%B8%96%E9%9D%9E%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF%E6%80%BB%E9%81%97%E4%BA%A780%25%23" target="weibo">
+富商去世非婚生女继承总遗产80%（热度：1537427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%80%BB%E5%86%B3%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
 王曼昱总决赛夺冠（热度：1533636）
 </a>
@@ -2171,12 +2177,6 @@ ABC卫生巾（热度：1508008）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%96%E5%A9%86%E5%AE%B6%23" target="weibo">
 关晓彤去了王安宇外婆家（热度：1412717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%95%86%E5%8E%BB%E4%B8%96%E9%9D%9E%E5%A9%9A%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF%E6%80%BB%E9%81%97%E4%BA%A780%25%23" target="weibo">
-富商去世非婚生女继承总遗产80%（热度：1409218）
 </a>
 </li>
 
