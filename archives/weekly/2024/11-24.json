@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732616765574,
+  "endTime": 1732617866100,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -499,6 +499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 984087,
+      "num": 1157453,
+      "word": "樊振东 喜茶",
+      "onboard_time": 1732615458,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 975652,
       "num": 975652,
       "word": "广电总局要求加强对霸总微短剧管理",
@@ -561,6 +569,14 @@
       "onboard_time": 1732457181,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 898637,
+      "num": 647405,
+      "word": "赵露思新剧依然是自己化妆",
+      "onboard_time": 1732616418,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 886580,
@@ -1523,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508905,
+      "num": 452880,
+      "word": "国行Switch停止网络服务",
+      "onboard_time": 1732615639,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 508225,
       "num": 399109,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1732458802,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 502728,
+      "num": 502728,
+      "word": "巴菲特再捐11亿美元",
+      "onboard_time": 1732615939,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 501484,
@@ -1729,14 +1761,6 @@
       "onboard_time": 1732523779,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 451271,
-      "num": 451271,
-      "word": "樊振东 喜茶",
-      "onboard_time": 1732615458,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 449459,
@@ -2363,20 +2387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330496,
-      "num": 462916,
-      "word": "赵露思新剧依然是自己化妆",
-      "onboard_time": 1732616418,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329211,
       "num": 329211,
       "word": "Rookie谈TheShy加入iG原因",
       "onboard_time": 1732512260,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 328429,
+      "num": 461684,
+      "word": "虞书欣称最想和金秀贤合作",
+      "onboard_time": 1732614199,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 326641,
@@ -2529,14 +2553,6 @@
       "onboard_time": 1732462999,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306438,
-      "num": 461684,
-      "word": "虞书欣称最想和金秀贤合作",
-      "onboard_time": 1732614199,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 306234,
@@ -2859,14 +2875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273191,
-      "num": 452880,
-      "word": "国行Switch停止网络服务",
-      "onboard_time": 1732615639,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 273021,
       "num": 273021,
       "word": "裴珠泫solo出道",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1732581078,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 263534,
+      "num": 263534,
+      "word": "猎犬围捕野猪致村民身亡谁担责",
+      "onboard_time": 1732613059,
+      "rank": 45,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 263474,
@@ -3099,6 +3115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252474,
+      "num": 392646,
+      "word": "鹿晗工作室在线找人",
+      "onboard_time": 1732617439,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251700,
       "num": 251700,
       "word": "库克称没中国就没现在的苹果",
@@ -3129,6 +3153,14 @@
       "onboard_time": 1732451602,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250626,
+      "num": 250626,
+      "word": "游客称喝过免费酒的女生整夜呕吐",
+      "onboard_time": 1732615039,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 250455,
@@ -3177,14 +3209,6 @@
       "onboard_time": 1732571051,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 246425,
-      "num": 246425,
-      "word": "猎犬围捕野猪致村民身亡谁担责",
-      "onboard_time": 1732613059,
-      "rank": 45,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 245682,
@@ -3891,6 +3915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205648,
+      "num": 387599,
+      "word": "郑雨盛ins向素人要电话",
+      "onboard_time": 1732615339,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205608,
       "num": 205608,
       "word": "尔滨你有点重南轻北了",
@@ -4009,6 +4041,14 @@
       "onboard_time": 1732512560,
       "rank": 32,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 202885,
+      "num": 202885,
+      "word": "余承东称石墨烯切冰就像切豆腐",
+      "onboard_time": 1732616059,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 202520,
@@ -4523,6 +4563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187549,
+      "num": 187549,
+      "word": "华为Mate70Pro",
+      "onboard_time": 1732616479,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 187393,
       "num": 249583,
       "word": "张云雷直播吃减脂餐",
@@ -4553,14 +4601,6 @@
       "onboard_time": 1732507099,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186667,
-      "num": 186667,
-      "word": "华为Mate70Pro",
-      "onboard_time": 1732616479,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 186598,
@@ -4612,7 +4652,7 @@
     },
     {
       "raw_hot": 185281,
-      "num": 185281,
+      "num": 251511,
       "word": "美方应该珍惜中方的善意",
       "onboard_time": 1732616418,
       "rank": 42,
@@ -4827,6 +4867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176949,
+      "num": 176949,
+      "word": "富商去世非婚生女继承总遗产80%",
+      "onboard_time": 1732617619,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176778,
       "num": 176778,
       "word": "仍有4尊圆明园兽首下落不明",
@@ -4891,14 +4939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173810,
-      "num": 173810,
-      "word": "余承东称石墨烯切冰就像切豆腐",
-      "onboard_time": 1732616059,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 173763,
       "num": 166251,
       "word": "丁禹兮熬夜背梗比不过天赋型选手",
@@ -4953,14 +4993,6 @@
       "onboard_time": 1732350738,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172180,
-      "num": 172180,
-      "word": "游客称喝过免费酒的女生整夜呕吐",
-      "onboard_time": 1732615039,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172148,
@@ -5043,6 +5075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169869,
+      "num": 206204,
+      "word": "裴珠泫空降",
+      "onboard_time": 1732617019,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169484,
       "num": 169484,
       "word": "IZNA出道曲MV",
@@ -5104,14 +5144,6 @@
       "word": "恩波俱乐部晒合同",
       "onboard_time": 1732530438,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168130,
-      "num": 379192,
-      "word": "郑雨盛ins向素人要电话",
-      "onboard_time": 1732615339,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -5955,14 +5987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139387,
-      "num": 462178,
-      "word": "巴菲特再捐11亿美元",
-      "onboard_time": 1732615939,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 139311,
       "num": 139311,
       "word": "下雪",
@@ -6161,6 +6185,14 @@
       "onboard_time": 1732537040,
       "rank": 44,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 132242,
+      "num": 132242,
+      "word": "张雨霏射击赢了潘展乐",
+      "onboard_time": 1732615098,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132185,
@@ -7507,6 +7539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97118,
+      "num": 385473,
+      "word": "王楚钦预判和启动速度",
+      "onboard_time": 1732617678,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96942,
       "num": 96942,
       "word": "我们小孩没做错任何事为什么会被炸",
@@ -7873,6 +7913,14 @@
       "onboard_time": 1732433658,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81775,
+      "num": 368934,
+      "word": "九尾长胖了",
+      "onboard_time": 1732616838,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 81752,
@@ -8459,6 +8507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57943,
+      "num": 390098,
+      "word": "王一博嘉人十二月刊封面",
+      "onboard_time": 1732616899,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 57885,
       "num": 343833,
       "word": "小伙儿假扮白富美骗走800万",
@@ -8563,6 +8619,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 53682,
+      "num": 455584,
+      "word": "华为原生鸿蒙耳机正式亮相",
+      "onboard_time": 1732613539,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53301,
       "num": 169980,
       "word": "吃烤鱼排崩溃了",
@@ -8633,14 +8697,6 @@
       "onboard_time": 1732470972,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 50672,
-      "num": 455584,
-      "word": "华为原生鸿蒙耳机正式亮相",
-      "onboard_time": 1732613539,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 50435,
@@ -9171,6 +9227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39279,
+      "num": 446386,
+      "word": "华为血压表站坐睡都能测血压",
+      "onboard_time": 1732614440,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39081,
       "num": 364487,
       "word": "女子否认抽脂失败索要500万赔偿",
@@ -9297,6 +9361,14 @@
       "onboard_time": 1732417458,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36386,
+      "num": 253781,
+      "word": "尊界尊嘟好尊",
+      "onboard_time": 1732617497,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 36302,
@@ -9539,6 +9611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31007,
+      "num": 382051,
+      "word": "丹顶鹤闯入村民家中讨鱼吃",
+      "onboard_time": 1732617199,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30811,
       "num": 527650,
       "word": "看精神科门诊的老人们",
@@ -9585,14 +9665,6 @@
       "onboard_time": 1732534099,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 29660,
-      "num": 446386,
-      "word": "华为血压表站坐睡都能测血压",
-      "onboard_time": 1732614440,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 29520,
@@ -10035,6 +10107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20761,
+      "num": 445216,
+      "word": "余承东称智界新S7总有一款适合你",
+      "onboard_time": 1732615878,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 20507,
       "num": 426312,
       "word": "滕丛丛邵艺辉回应鬼故事并非好东西",
@@ -10137,14 +10217,6 @@
       "onboard_time": 1732586538,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18114,
-      "num": 445216,
-      "word": "余承东称智界新S7总有一款适合你",
-      "onboard_time": 1732615878,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 18023,
@@ -10361,6 +10433,14 @@
       "onboard_time": 1732561811,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12754,
+      "num": 359980,
+      "word": "长征十二号遥一运载火箭成功转场",
+      "onboard_time": 1732617678,
+      "rank": 27,
+      "category": "军事"
     },
     {
       "raw_hot": 12565,
