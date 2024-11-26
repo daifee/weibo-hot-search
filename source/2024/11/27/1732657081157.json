@@ -1,0 +1,410 @@
+{
+  "runTime": 1732657081157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 77836,
+        "num": 175804,
+        "word": "初雪",
+        "onboard_time": 1732631240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63924,
+        "num": 63924,
+        "word": "羊毛月这次触及到00后的逆鳞",
+        "onboard_time": 1732645392,
+        "rank": 1,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 14258,
+        "num": 54991,
+        "word": "中国天眼发现脉冲星已超1000颗",
+        "onboard_time": 1732626859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47152,
+        "num": 47152,
+        "word": "大连失联船舶已找到",
+        "onboard_time": 1732649830,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47075,
+        "num": 47075,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41914,
+        "num": 41914,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34799,
+        "num": 34799,
+        "word": "养女防老正成为农村养老新现象",
+        "onboard_time": 1732629800,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30541,
+        "num": 30541,
+        "word": "鹅绒一吨100多万羽绒制品非贵即假",
+        "onboard_time": 1732638976,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22041,
+        "num": 30434,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11204,
+        "num": 30434,
+        "word": "黄山迎来2024年入冬初雪",
+        "onboard_time": 1732656431,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46632,
+        "num": 30434,
+        "word": "Angelababy与网友合影",
+        "onboard_time": 1732650790,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30434,
+        "num": 30433,
+        "word": "男子不顾孩子哀求家暴妻子",
+        "onboard_time": 1732647071,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30391,
+        "num": 30391,
+        "word": "研究生因扫雪不达标将取消评奖资格",
+        "onboard_time": 1732627519,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30176,
+        "num": 30176,
+        "word": "内鱼在逃小仙女永久禁言",
+        "onboard_time": 1732636096,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26386,
+        "num": 26386,
+        "word": "捐赠相册美国小伙计划长期留在中国",
+        "onboard_time": 1732630940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21725,
+        "num": 21725,
+        "word": "权志龙头巾",
+        "onboard_time": 1732636758,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21417,
+        "num": 21417,
+        "word": "日本近海6.2级左右地震",
+        "onboard_time": 1732635377,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19446,
+        "num": 21387,
+        "word": "大冰停播43天后复播",
+        "onboard_time": 1732633819,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17839,
+        "num": 21361,
+        "word": "赵露思新剧依然是自己化妆",
+        "onboard_time": 1732616418,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17611,
+        "num": 21293,
+        "word": "赵露思横店甜品店闭店",
+        "onboard_time": 1732624698,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29144,
+        "num": 21259,
+        "word": "52岁TVB演员戴耀明餐厅打工",
+        "onboard_time": 1732621878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26563,
+        "num": 21170,
+        "word": "美国两囚犯没有身体接触却有了孩子",
+        "onboard_time": 1732624399,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25835,
+        "num": 21133,
+        "word": "疑似麦琳解散李行亮核心粉丝群",
+        "onboard_time": 1732642814,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22217,
+        "num": 21077,
+        "word": "游客称喝过免费酒的女生整夜呕吐",
+        "onboard_time": 1732615039,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21072,
+        "num": 21072,
+        "word": "美国蛋价飙涨超50%",
+        "onboard_time": 1732634419,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20152,
+        "num": 20152,
+        "word": "狗狗吞一嘴蓝莓一个没敢吃",
+        "onboard_time": 1732635377,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19305,
+        "num": 19305,
+        "word": "市监局回应副处长被举报长期性骚扰",
+        "onboard_time": 1732648330,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 19104,
+        "word": "北京这雪厚度能写艺术字了",
+        "onboard_time": 1732635138,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17566,
+        "num": 17566,
+        "word": "黄冈58岁高三教师宿舍离世教育局介入",
+        "onboard_time": 1732623918,
+        "rank": 28,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 14267,
+        "num": 17338,
+        "word": "虞书欣带货力",
+        "onboard_time": 1732636577,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17262,
+        "num": 17262,
+        "word": "邱贻可吃上黑天鹅蛋糕了",
+        "onboard_time": 1732632080,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16938,
+        "num": 16938,
+        "word": "下一个中国还是中国",
+        "onboard_time": 1732640953,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16615,
+        "num": 16615,
+        "word": "陈佩斯与妹妹一家同框",
+        "onboard_time": 1732653611,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15316,
+        "num": 15316,
+        "word": "中国在联合国每一句话都是为救难民",
+        "onboard_time": 1732651451,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15277,
+        "num": 15277,
+        "word": "妇联回应男子家暴妻子时女儿报警",
+        "onboard_time": 1732643832,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 14914,
+        "num": 14914,
+        "word": "华为matex6上手体验",
+        "onboard_time": 1732638016,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14728,
+        "num": 14728,
+        "word": "余承东称有人转账6万给他",
+        "onboard_time": 1732626559,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 14672,
+        "word": "张凌赫田曦薇 平番",
+        "onboard_time": 1732625719,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14311,
+        "num": 14311,
+        "word": "Faker直播谈Zeus",
+        "onboard_time": 1732632740,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14128,
+        "num": 14128,
+        "word": "心情不好会让人变丑是有科学依据的",
+        "onboard_time": 1732649530,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25945,
+        "num": 13985,
+        "word": "辛选致歉",
+        "onboard_time": 1732637477,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13647,
+        "num": 13647,
+        "word": "林一回应暗恋的人成了大明星",
+        "onboard_time": 1732610840,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13573,
+        "num": 13573,
+        "word": "尔滨的雪实在是太美了",
+        "onboard_time": 1732655531,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 13261,
+        "num": 13261,
+        "word": "王一博嘉人十二月周年刊封面",
+        "onboard_time": 1732642032,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13070,
+        "num": 13070,
+        "word": "老棍老铲",
+        "onboard_time": 1732648451,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12837,
+        "num": 12837,
+        "word": "日本地震",
+        "onboard_time": 1732630340,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12797,
+        "num": 12797,
+        "word": "沈阳初雪迎志愿军烈士遗骸回国",
+        "onboard_time": 1732653911,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12727,
+        "num": 12727,
+        "word": "刘连舸一审被判死缓",
+        "onboard_time": 1732638436,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12423,
+        "num": 12592,
+        "word": "杨幂郭敬明素颜自拍照",
+        "onboard_time": 1732625059,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11528,
+        "num": 12586,
+        "word": "追光的你",
+        "onboard_time": 1732654631,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡国务资政李显龙#"
+    }
+  }
+}
