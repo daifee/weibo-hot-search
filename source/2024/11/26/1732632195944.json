@@ -1,0 +1,410 @@
+{
+  "runTime": 1732632195944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345098,
+        "num": 1345098,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1319149,
+        "num": 1319149,
+        "word": "研究生因扫雪不达标将取消评奖资格",
+        "onboard_time": 1732627519,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32370,
+        "num": 1027910,
+        "word": "文化中国行保护自然之美",
+        "onboard_time": 1732625478,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 896878,
+        "num": 896878,
+        "word": "央财硕士称一年工资不如网红一条广告",
+        "onboard_time": 1732623558,
+        "rank": 3,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 720797,
+        "num": 720797,
+        "word": "日本地震",
+        "onboard_time": 1732630340,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545311,
+        "num": 545311,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491986,
+        "num": 491986,
+        "word": "52岁TVB演员戴耀明餐厅打工",
+        "onboard_time": 1732621878,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421882,
+        "num": 421882,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1732625358,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395012,
+        "num": 395012,
+        "word": "杨幂郭敬明素颜自拍照",
+        "onboard_time": 1732625059,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19244,
+        "num": 393319,
+        "word": "个别高校机械的宿舍管理该改改了",
+        "onboard_time": 1732631720,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 865360,
+        "num": 389766,
+        "word": "北大本科生 羊毛月",
+        "onboard_time": 1732622899,
+        "rank": 10,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 483998,
+        "num": 386862,
+        "word": "美国两囚犯没有身体接触却有了孩子",
+        "onboard_time": 1732624399,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 397883,
+        "num": 384860,
+        "word": "张凌赫田曦薇 平番",
+        "onboard_time": 1732625719,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382923,
+        "num": 382923,
+        "word": "偶遇Angelababy香港吃火锅",
+        "onboard_time": 1732621878,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380417,
+        "num": 380417,
+        "word": "赵露思新剧依然是自己化妆",
+        "onboard_time": 1732616418,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346050,
+        "num": 346050,
+        "word": "孟佳被JYP恩师打了100分",
+        "onboard_time": 1732628840,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110497,
+        "num": 337190,
+        "word": "捐赠相册美国小伙计划长期留在中国",
+        "onboard_time": 1732630940,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329491,
+        "num": 329491,
+        "word": "余承东称有人转账6万给他",
+        "onboard_time": 1732626559,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22930,
+        "num": 321234,
+        "word": "退役运动员转战互联网的机遇和难题",
+        "onboard_time": 1732631779,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84025,
+        "num": 320899,
+        "word": "景德镇偶遇严浩翔",
+        "onboard_time": 1732625899,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320844,
+        "num": 320844,
+        "word": "孙颖莎徐杰合照",
+        "onboard_time": 1732626138,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311098,
+        "num": 311098,
+        "word": "赵露思横店甜品店闭店",
+        "onboard_time": 1732624698,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120644,
+        "num": 293218,
+        "word": "辽大回应将扫雪与奖学金挂钩",
+        "onboard_time": 1732631600,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292797,
+        "num": 292797,
+        "word": "初雪",
+        "onboard_time": 1732631240,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211967,
+        "num": 284611,
+        "word": "被前男友夜夜跟踪女孩申请保护令",
+        "onboard_time": 1732629319,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284309,
+        "num": 284309,
+        "word": "黄冈58岁高三教师宿舍离世教育局介入",
+        "onboard_time": 1732623918,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 268255,
+        "num": 268255,
+        "word": "王大发说檀健次不是顶流",
+        "onboard_time": 1732626438,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221078,
+        "num": 221078,
+        "word": "生双胞胎妈妈顺利产下3胞胎",
+        "onboard_time": 1732629679,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52996,
+        "num": 218875,
+        "word": "雪雪雪我雪雪雪",
+        "onboard_time": 1732631060,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22300,
+        "num": 217864,
+        "word": "谢飞说3分钟解说也是影视普及手段",
+        "onboard_time": 1732631661,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217801,
+        "num": 217801,
+        "word": "养女防老正成为农村养老新现象",
+        "onboard_time": 1732629800,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206198,
+        "num": 206198,
+        "word": "羊毛月",
+        "onboard_time": 1732626320,
+        "rank": 31,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 186715,
+        "num": 186715,
+        "word": "林一回应暗恋的人成了大明星",
+        "onboard_time": 1732610840,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174757,
+        "num": 174757,
+        "word": "广州调整住房公积金政策",
+        "onboard_time": 1732624278,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168757,
+        "num": 168757,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162580,
+        "num": 162580,
+        "word": "游客称喝过免费酒的女生整夜呕吐",
+        "onboard_time": 1732615039,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99459,
+        "num": 156746,
+        "word": "买了车险却无法理赔多人已中招",
+        "onboard_time": 1732622418,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154566,
+        "num": 154566,
+        "word": "1500g羽绒被成本至少1100元",
+        "onboard_time": 1732623918,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152699,
+        "num": 152699,
+        "word": "鹿晗工作室在线找人",
+        "onboard_time": 1732617439,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150394,
+        "num": 150394,
+        "word": "种地吧",
+        "onboard_time": 1732628239,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145418,
+        "num": 145418,
+        "word": "邱贻可吃上黑天鹅蛋糕了",
+        "onboard_time": 1732632080,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141487,
+        "num": 141487,
+        "word": "湘潭大学宿舍投毒案已移交法院",
+        "onboard_time": 1732625238,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138496,
+        "num": 138496,
+        "word": "山东泰山1比0柔佛新山",
+        "onboard_time": 1732631300,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137439,
+        "num": 137439,
+        "word": "如鸢声明",
+        "onboard_time": 1732630220,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135138,
+        "num": 135138,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129090,
+        "num": 129090,
+        "word": "唐三第一个十万年魂环是妈妈",
+        "onboard_time": 1732626559,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127712,
+        "num": 127712,
+        "word": "荣耀CEO赵明发文疑似回应余承东",
+        "onboard_time": 1732627578,
+        "rank": 46,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 125794,
+        "num": 125794,
+        "word": "国乒四项世界排名第一",
+        "onboard_time": 1732627578,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125332,
+        "num": 125332,
+        "word": "938位在韩志愿军烈士10年回家路",
+        "onboard_time": 1732632139,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103844,
+        "num": 125272,
+        "word": "王一博如水流处一方天地揽四时风光",
+        "onboard_time": 1732630400,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡国务资政李显龙#"
+    }
+  }
+}
