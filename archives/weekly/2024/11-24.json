@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732595315208,
+  "endTime": 1732596185676,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1952056,
-      "num": 785945,
+      "num": 907656,
       "word": "疑似再见爱人离职剪辑师爆料",
       "onboard_time": 1732586298,
       "rank": 10,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1067863,
+      "num": 1067863,
+      "word": "上海闵行区一男子商场内坠亡",
+      "onboard_time": 1732594639,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1052127,
       "num": 505487,
       "word": "麦琳前保姆爆料",
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 860243,
+      "num": 690811,
+      "word": "杨子开车窗",
+      "onboard_time": 1732590200,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 842788,
       "num": 496756,
       "word": "看因果报应要签保密协议",
@@ -553,14 +569,6 @@
       "onboard_time": 1732519398,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 820679,
-      "num": 533226,
-      "word": "杨子开车窗",
-      "onboard_time": 1732590200,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 819031,
@@ -811,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 692986,
+      "num": 692986,
+      "word": "要求短剧不以霸总之类字眼作为片名",
+      "onboard_time": 1732590438,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 688260,
       "num": 688260,
       "word": "羊毛月北大学历被质疑造假",
@@ -1059,14 +1075,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 590564,
-      "num": 590564,
-      "word": "要求短剧不以霸总之类字眼作为片名",
-      "onboard_time": 1732590438,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 586862,
       "num": 586862,
       "word": "12岁女孩被尾随热心司机拿撬棍保护",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1732432458,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 575253,
+      "num": 575253,
+      "word": "白鹿唐宫出妆",
+      "onboard_time": 1732594820,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 575003,
@@ -1420,7 +1436,7 @@
     },
     {
       "raw_hot": 463148,
-      "num": 355895,
+      "num": 410222,
       "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
       "onboard_time": 1732578136,
       "rank": 20,
@@ -1536,14 +1552,6 @@
       "word": "被野猪顶撞撕咬老人家属发声",
       "onboard_time": 1732546459,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419739,
-      "num": 419739,
-      "word": "上海闵行区一男子商场内坠亡",
-      "onboard_time": 1732594639,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -2187,19 +2195,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309731,
+      "num": 412980,
+      "word": "王一博杂志",
+      "onboard_time": 1732594160,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309538,
       "num": 309538,
       "word": "永夜星河团综更改档期",
       "onboard_time": 1732462999,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 306681,
-      "num": 368666,
-      "word": "白鹿唐宫出妆",
-      "onboard_time": 1732594820,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2547,14 +2555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268671,
-      "num": 364758,
-      "word": "王一博杂志",
-      "onboard_time": 1732594160,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 267916,
       "num": 230421,
       "word": "刘宇晒与汤唯合照",
@@ -2673,6 +2673,14 @@
       "onboard_time": 1732498878,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256339,
+      "num": 256339,
+      "word": "山东婚假",
+      "onboard_time": 1732595300,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256303,
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 236167,
-      "num": 236167,
+      "num": 416705,
       "word": "教育局回应被民警踢打学生涉霸凌",
       "onboard_time": 1732589599,
       "rank": 43,
@@ -2939,20 +2947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233532,
+      "num": 233532,
+      "word": "胖东来内部移风易俗已是传统",
+      "onboard_time": 1732591879,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233244,
       "num": 233244,
       "word": "哈尔滨中央大街铺上地毯了",
       "onboard_time": 1732378279,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 232990,
-      "num": 232990,
-      "word": "胖东来内部移风易俗已是传统",
-      "onboard_time": 1732591879,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230750,
@@ -2993,6 +3001,14 @@
       "onboard_time": 1732436180,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228078,
+      "num": 254552,
+      "word": "肖战callback五年前的自己",
+      "onboard_time": 1732593800,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 227766,
@@ -3041,14 +3057,6 @@
       "onboard_time": 1732546040,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224524,
-      "num": 254552,
-      "word": "肖战callback五年前的自己",
-      "onboard_time": 1732593800,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 224374,
@@ -3217,6 +3225,14 @@
       "onboard_time": 1732518079,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217093,
+      "num": 229705,
+      "word": "贺峻霖大点兵",
+      "onboard_time": 1732595058,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 215976,
@@ -3883,8 +3899,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189114,
-      "num": 189114,
+      "raw_hot": 189237,
+      "num": 189237,
       "word": "谭松韵主演我和我的命",
       "onboard_time": 1732595001,
       "rank": 43,
@@ -4075,6 +4091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182381,
+      "num": 182381,
+      "word": "小巷人家 谢幕和登场只在一个转场",
+      "onboard_time": 1732594880,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182275,
       "num": 262738,
       "word": "2025北京定向选调不招留学生",
@@ -4105,14 +4129,6 @@
       "onboard_time": 1732423338,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180859,
-      "num": 180859,
-      "word": "贺峻霖大点兵",
-      "onboard_time": 1732595058,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 180054,
@@ -4265,14 +4281,6 @@
       "onboard_time": 1732493958,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173296,
-      "num": 173296,
-      "word": "小巷人家 谢幕和登场只在一个转场",
-      "onboard_time": 1732594880,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 173126,
@@ -4859,14 +4867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 153920,
-      "num": 153920,
-      "word": "山东婚假",
-      "onboard_time": 1732595300,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153863,
       "num": 153863,
       "word": "烈士王伟妻子回应81192重启",
@@ -4977,6 +4977,14 @@
       "onboard_time": 1732461140,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147452,
+      "num": 147452,
+      "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
+      "onboard_time": 1732596021,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147143,
@@ -6145,6 +6153,14 @@
       "onboard_time": 1732422557,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112078,
+      "num": 413934,
+      "word": "罗云熙剥茧路透",
+      "onboard_time": 1732595960,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 112062,
@@ -7963,6 +7979,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 40238,
+      "num": 412320,
+      "word": "麦琳总是在说他不爱我",
+      "onboard_time": 1732595900,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40147,
       "num": 372095,
       "word": "0.334纳米的石墨烯比金刚石还硬",
@@ -8140,7 +8164,7 @@
     },
     {
       "raw_hot": 35733,
-      "num": 786193,
+      "num": 907756,
       "word": "古人把一年四季画成交响乐",
       "onboard_time": 1732589419,
       "rank": 2,
@@ -8675,6 +8699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20507,
+      "num": 426312,
+      "word": "滕丛丛邵艺辉回应鬼故事并非好东西",
+      "onboard_time": 1732595361,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20358,
       "num": 107523,
       "word": "2025国考全流程报考指南",
@@ -8785,6 +8817,14 @@
       "onboard_time": 1732387632,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17087,
+      "num": 288582,
+      "word": "字母哥巴恩斯当选周最佳",
+      "onboard_time": 1732595721,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 17005,
@@ -9145,6 +9185,14 @@
       "onboard_time": 1732480330,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6235,
+      "num": 137195,
+      "word": "500块钱畅享高尔夫自由",
+      "onboard_time": 1732596079,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 5974,

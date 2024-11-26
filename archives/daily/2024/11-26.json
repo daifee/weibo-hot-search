@@ -1,10 +1,10 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732595315208,
+  "endTime": 1732596185676,
   "band_list": [
     {
       "raw_hot": 1952056,
-      "num": 785945,
+      "num": 907656,
       "word": "疑似再见爱人离职剪辑师爆料",
       "onboard_time": 1732586298,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1732590259,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1067863,
+      "num": 1067863,
+      "word": "上海闵行区一男子商场内坠亡",
+      "onboard_time": 1732594639,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1052127,
@@ -91,8 +99,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 820679,
-      "num": 533226,
+      "raw_hot": 860243,
+      "num": 690811,
       "word": "杨子开车窗",
       "onboard_time": 1732590200,
       "rank": 27,
@@ -113,6 +121,14 @@
       "onboard_time": 1732588818,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 692986,
+      "num": 692986,
+      "word": "要求短剧不以霸总之类字眼作为片名",
+      "onboard_time": 1732590438,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 688260,
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 590564,
-      "num": 590564,
-      "word": "要求短剧不以霸总之类字眼作为片名",
-      "onboard_time": 1732590438,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 575253,
+      "num": 575253,
+      "word": "白鹿唐宫出妆",
+      "onboard_time": 1732594820,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 568893,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 463148,
-      "num": 355895,
+      "num": 410222,
       "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
       "onboard_time": 1732578136,
       "rank": 20,
@@ -224,14 +240,6 @@
       "word": "被野猪顶撞撕咬老人家属发声",
       "onboard_time": 1732546459,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419739,
-      "num": 419739,
-      "word": "上海闵行区一男子商场内坠亡",
-      "onboard_time": 1732594639,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -331,12 +339,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 306681,
-      "num": 368666,
-      "word": "白鹿唐宫出妆",
-      "onboard_time": 1732594820,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 309731,
+      "num": 412980,
+      "word": "王一博杂志",
+      "onboard_time": 1732594160,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295143,
@@ -403,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268671,
-      "num": 364758,
-      "word": "王一博杂志",
-      "onboard_time": 1732594160,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 265199,
       "num": 265199,
       "word": "中方回应美日正商讨涉台紧急状况计划",
@@ -433,6 +433,14 @@
       "onboard_time": 1732545800,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 256339,
+      "num": 256339,
+      "word": "山东婚假",
+      "onboard_time": 1732595300,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250455,
@@ -468,15 +476,15 @@
     },
     {
       "raw_hot": 236167,
-      "num": 236167,
+      "num": 416705,
       "word": "教育局回应被民警踢打学生涉霸凌",
       "onboard_time": 1732589599,
       "rank": 43,
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 232990,
-      "num": 232990,
+      "raw_hot": 233532,
+      "num": 233532,
       "word": "胖东来内部移风易俗已是传统",
       "onboard_time": 1732591879,
       "rank": 42,
@@ -499,20 +507,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 228078,
+      "num": 254552,
+      "word": "肖战callback五年前的自己",
+      "onboard_time": 1732593800,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225641,
       "num": 109250,
       "word": "TF四代魏子宸被校园霸凌",
       "onboard_time": 1732521260,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224524,
-      "num": 254552,
-      "word": "肖战callback五年前的自己",
-      "onboard_time": 1732593800,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 224084,
@@ -537,6 +545,14 @@
       "onboard_time": 1732579518,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217093,
+      "num": 229705,
+      "word": "贺峻霖大点兵",
+      "onboard_time": 1732595058,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 214591,
@@ -667,8 +683,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189114,
-      "num": 189114,
+      "raw_hot": 189237,
+      "num": 189237,
       "word": "谭松韵主演我和我的命",
       "onboard_time": 1732595001,
       "rank": 43,
@@ -681,6 +697,14 @@
       "onboard_time": 1732584800,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182381,
+      "num": 182381,
+      "word": "小巷人家 谢幕和登场只在一个转场",
+      "onboard_time": 1732594880,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 181662,
@@ -697,14 +721,6 @@
       "onboard_time": 1732577535,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 180859,
-      "num": 180859,
-      "word": "贺峻霖大点兵",
-      "onboard_time": 1732595058,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 179748,
@@ -745,14 +761,6 @@
       "onboard_time": 1732523358,
       "rank": 8,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 173296,
-      "num": 173296,
-      "word": "小巷人家 谢幕和登场只在一个转场",
-      "onboard_time": 1732594880,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 172543,
@@ -803,20 +811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153920,
-      "num": 153920,
-      "word": "山东婚假",
-      "onboard_time": 1732595300,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152341,
       "num": 152341,
       "word": "羊毛月以背刺零零后的方式塌房了",
       "onboard_time": 1732593079,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 147452,
+      "num": 147452,
+      "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
+      "onboard_time": 1732596021,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147026,
@@ -985,6 +993,14 @@
       "onboard_time": 1732546341,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 112078,
+      "num": 413934,
+      "word": "罗云熙剥茧路透",
+      "onboard_time": 1732595960,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 110160,
@@ -1427,6 +1443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40238,
+      "num": 412320,
+      "word": "麦琳总是在说他不爱我",
+      "onboard_time": 1732595900,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37477,
       "num": 94906,
       "word": "SHUN理成张",
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 35733,
-      "num": 786193,
+      "num": 907756,
       "word": "古人把一年四季画成交响乐",
       "onboard_time": 1732589419,
       "rank": 2,
@@ -1563,6 +1587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 20507,
+      "num": 426312,
+      "word": "滕丛丛邵艺辉回应鬼故事并非好东西",
+      "onboard_time": 1732595361,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20358,
       "num": 107523,
       "word": "2025国考全流程报考指南",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1732555393,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17087,
+      "num": 288582,
+      "word": "字母哥巴恩斯当选周最佳",
+      "onboard_time": 1732595721,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 17005,
@@ -1697,6 +1737,14 @@
       "onboard_time": 1732559892,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6235,
+      "num": 137195,
+      "word": "500块钱畅享高尔夫自由",
+      "onboard_time": 1732596079,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 5491,

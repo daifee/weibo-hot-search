@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/26 12:28:35
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/26 12:43:05
 </p>
 </blockquote>
 <p>
@@ -3645,6 +3645,12 @@ BBC报道李子柒复出打上灰色滤镜（热度：1068516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%97%B5%E8%A1%8C%E5%8C%BA%E4%B8%80%E7%94%B7%E5%AD%90%E5%95%86%E5%9C%BA%E5%86%85%E5%9D%A0%E4%BA%A1%23" target="weibo">
+上海闵行区一男子商场内坠亡（热度：1067863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%95%99%E7%BB%83%E8%AF%B4%E5%AF%92%E5%86%AC%E6%9D%A5%E5%BE%97%E6%AF%94%E9%A2%84%E6%83%B3%E8%A6%81%E5%BF%AB%23" target="weibo">
 国乒教练说寒冬来得比预想要快（热度：1067319）
 </a>
@@ -5229,6 +5235,12 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E5%BC%80%E8%BD%A6%E7%AA%97%23" target="weibo">
+杨子开车窗（热度：860243）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BF%A0%E5%A6%82%E5%AE%98%E5%AE%A3%E6%80%80%E5%AD%95%23" target="weibo">
 黄翠如官宣怀孕（热度：858872）
 </a>
@@ -5679,12 +5691,6 @@ Doinb老头杯下跪道歉（热度：821869）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E5%BC%80%E8%BD%A6%E7%AA%97%23" target="weibo">
-杨子开车窗（热度：820679）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%9B%80%E7%BE%9A%23" target="weibo">
 百雀羚（热度：819854）
 </a>
@@ -6005,12 +6011,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%86%B7%E5%86%BB%E5%8D%B5%E5%B7%A2%E7%BB%84%E7%BB%87%E5%85%8D%E5%8C%96%E7%96%97%E6%8D%9F%E5%AE%B3%23" target="weibo">
 6岁女孩冷冻卵巢组织免化疗损害（热度：789810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E4%B8%9C%E8%A5%BF%20%E8%99%8E%E6%89%91%23" target="weibo">
-好东西 虎扑（热度：789683）
 </a>
 </li>
 

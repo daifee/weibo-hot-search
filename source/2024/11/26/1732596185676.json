@@ -1,0 +1,402 @@
+{
+  "runTime": 1732596185676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379318,
+        "num": 1379318,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1067863,
+        "num": 1067863,
+        "word": "上海闵行区一男子商场内坠亡",
+        "onboard_time": 1732594639,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33762,
+        "num": 907756,
+        "word": "古人把一年四季画成交响乐",
+        "onboard_time": 1732589419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1349494,
+        "num": 907656,
+        "word": "疑似再见爱人离职剪辑师爆料",
+        "onboard_time": 1732586298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 907544,
+        "num": 907544,
+        "word": "光遇复刻",
+        "onboard_time": 1732594760,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 692986,
+        "num": 692986,
+        "word": "要求短剧不以霸总之类字眼作为片名",
+        "onboard_time": 1732590438,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 860243,
+        "num": 690811,
+        "word": "杨子开车窗",
+        "onboard_time": 1732590200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667407,
+        "num": 667407,
+        "word": "市监所回应一份白粥200元",
+        "onboard_time": 1732584319,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 575253,
+        "num": 575253,
+        "word": "白鹿唐宫出妆",
+        "onboard_time": 1732594820,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460635,
+        "num": 460635,
+        "word": "特朗普妄言对中国商品加征10%关税",
+        "onboard_time": 1732585578,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1001493,
+        "num": 459115,
+        "word": "吴谨言挺孕肚跟洪尧出门",
+        "onboard_time": 1732587858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801709,
+        "num": 448629,
+        "word": "广电总局要求加强对霸总微短剧管理",
+        "onboard_time": 1732587978,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671645,
+        "num": 438353,
+        "word": "男子夜班看焚化炉睡9小时被开除",
+        "onboard_time": 1732587678,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659531,
+        "num": 437336,
+        "word": "麦琳前保姆爆料",
+        "onboard_time": 1732589299,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20507,
+        "num": 426312,
+        "word": "滕丛丛邵艺辉回应鬼故事并非好东西",
+        "onboard_time": 1732595361,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234813,
+        "num": 416705,
+        "word": "教育局回应被民警踢打学生涉霸凌",
+        "onboard_time": 1732589599,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 414943,
+        "num": 414943,
+        "word": "特朗普宣布对墨加商品征收25%关税",
+        "onboard_time": 1732586778,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112078,
+        "num": 413934,
+        "word": "罗云熙剥茧路透",
+        "onboard_time": 1732595960,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309731,
+        "num": 412980,
+        "word": "王一博杂志",
+        "onboard_time": 1732594160,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40238,
+        "num": 412320,
+        "word": "麦琳总是在说他不爱我",
+        "onboard_time": 1732595900,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630233,
+        "num": 411075,
+        "word": "高中同学曝羊毛月文化成绩倒数",
+        "onboard_time": 1732588818,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 410222,
+        "num": 410222,
+        "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
+        "onboard_time": 1732578136,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 368962,
+        "num": 368962,
+        "word": "iPhone17Pro系列或迎重大设计变更",
+        "onboard_time": 1732585398,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 337227,
+        "num": 337227,
+        "word": "特朗普乱挥关税大棒",
+        "onboard_time": 1732586778,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17087,
+        "num": 288582,
+        "word": "字母哥巴恩斯当选周最佳",
+        "onboard_time": 1732595721,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278909,
+        "num": 278909,
+        "word": "丁禹兮谈工作不带助理",
+        "onboard_time": 1732589059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256339,
+        "num": 256339,
+        "word": "山东婚假",
+        "onboard_time": 1732595300,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251138,
+        "num": 251138,
+        "word": "嘉人",
+        "onboard_time": 1732593438,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 233532,
+        "num": 233532,
+        "word": "胖东来内部移风易俗已是传统",
+        "onboard_time": 1732591879,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217093,
+        "num": 229705,
+        "word": "贺峻霖大点兵",
+        "onboard_time": 1732595058,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228078,
+        "num": 228078,
+        "word": "肖战callback五年前的自己",
+        "onboard_time": 1732593800,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219453,
+        "num": 219453,
+        "word": "医生眼中皮肤就是情绪的镜子",
+        "onboard_time": 1732585578,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219354,
+        "num": 219354,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212814,
+        "num": 212814,
+        "word": "业内人说时代少年团会单飞",
+        "onboard_time": 1732589899,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208766,
+        "num": 208766,
+        "word": "13年前微信安装包仅457KB",
+        "onboard_time": 1732585338,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199065,
+        "num": 199065,
+        "word": "我和我的命官宣",
+        "onboard_time": 1732593621,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196959,
+        "num": 196959,
+        "word": "赵樱子拍戏闷在棺材里40分钟",
+        "onboard_time": 1732593679,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191102,
+        "num": 191102,
+        "word": "虞书欣 冬日精灵",
+        "onboard_time": 1732595001,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189957,
+        "num": 189957,
+        "word": "店家称200元一份白粥用的依云水",
+        "onboard_time": 1732582939,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189237,
+        "num": 189237,
+        "word": "谭松韵主演我和我的命",
+        "onboard_time": 1732595001,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182381,
+        "num": 182381,
+        "word": "小巷人家 谢幕和登场只在一个转场",
+        "onboard_time": 1732594880,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176855,
+        "num": 176855,
+        "word": "骗完69万教唆受害人去派出所要钱",
+        "onboard_time": 1732591039,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172422,
+        "num": 172422,
+        "word": "凤凰组合首次登顶世界第一",
+        "onboard_time": 1732593380,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169856,
+        "num": 169856,
+        "word": "2025第一台跨年晚会官宣了",
+        "onboard_time": 1732593500,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165251,
+        "num": 165251,
+        "word": "Ning承认和Kid有差距",
+        "onboard_time": 1732593500,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154508,
+        "num": 154508,
+        "word": "吴佳怡2024有效播剧",
+        "onboard_time": 1732594219,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147452,
+        "num": 147452,
+        "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
+        "onboard_time": 1732596021,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145040,
+        "num": 145040,
+        "word": "曝小李子订婚",
+        "onboard_time": 1732583058,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6235,
+        "num": 137195,
+        "word": "500块钱畅享高尔夫自由",
+        "onboard_time": 1732596079,
+        "rank": 48,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国外交与人民情怀#"
+    }
+  }
+}
