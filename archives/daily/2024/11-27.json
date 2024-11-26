@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732638669319,
+  "endTime": 1732639643432,
   "band_list": [
     {
       "raw_hot": 770187,
@@ -147,11 +147,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121551,
-      "num": 113570,
+      "raw_hot": 134535,
+      "num": 134535,
       "word": "内鱼在逃小仙女永久禁言",
       "onboard_time": 1732636096,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119957,
+      "num": 119957,
+      "word": "孙悦说时间是个好东西",
+      "onboard_time": 1732638076,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -299,12 +307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73731,
+      "num": 73731,
+      "word": "好东西票房破2亿",
+      "onboard_time": 1732638617,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73156,
       "num": 73156,
       "word": "天津下雪",
       "onboard_time": 1732632740,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72437,
+      "num": 72437,
+      "word": "华为matex6上手体验",
+      "onboard_time": 1732638016,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 71942,
@@ -339,22 +363,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 68021,
-      "num": 100515,
-      "word": "孙悦说时间是个好东西",
-      "onboard_time": 1732638076,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 65019,
-      "num": 65019,
-      "word": "华为matex6上手体验",
-      "onboard_time": 1732638016,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 64805,
       "num": 64805,
       "word": "辛选致歉",
@@ -369,14 +377,6 @@
       "onboard_time": 1732637298,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 56171,
-      "num": 56171,
-      "word": "好东西票房破2亿",
-      "onboard_time": 1732638617,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 55376,
@@ -395,7 +395,23 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26221,
+      "raw_hot": 47997,
+      "num": 169821,
+      "word": "鹅绒一吨100多万羽绒制品非贵即假",
+      "onboard_time": 1732638976,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45815,
+      "num": 51991,
+      "word": "武训中的鞠婧祎",
+      "onboard_time": 1732639515,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26868,
       "num": 356699,
       "word": "中国天眼发现脉冲星已超1000颗",
       "onboard_time": 1732626859,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见萨摩亚总理#"
+    },
+    {
+      "word": "#习近平会见新加坡国务资政李显龙#"
     }
   ]
 }
