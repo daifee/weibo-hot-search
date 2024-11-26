@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732610704455,
+  "endTime": 1732613160180,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -25,6 +25,14 @@
       "onboard_time": 1732445119,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2180735,
+      "num": 679129,
+      "word": "羊毛月月收入近150万",
+      "onboard_time": 1732611140,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 2115596,
@@ -376,6 +384,14 @@
       "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
       "onboard_time": 1732596021,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1136337,
+      "num": 432993,
+      "word": "志愿者发现冰柜装满被剥皮的猫狗尸体",
+      "onboard_time": 1732607299,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1019,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 677121,
+      "num": 677121,
+      "word": "林一回应暗恋的人成了大明星",
+      "onboard_time": 1732610840,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 675902,
       "num": 675902,
       "word": "泰山下暴雪了",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1732498099,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 614197,
+      "num": 614197,
+      "word": "麒麟9020",
+      "onboard_time": 1732610239,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 611310,
@@ -1609,6 +1641,14 @@
       "onboard_time": 1732529598,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460795,
+      "num": 460795,
+      "word": "Irene直播",
+      "onboard_time": 1732611858,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 459786,
@@ -2107,14 +2147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355222,
-      "num": 355222,
-      "word": "志愿者发现冰柜装满被剥皮的猫狗尸体",
-      "onboard_time": 1732607299,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 355069,
       "num": 150696,
       "word": "顾茜茜为麦琳发声",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1732458621,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 310481,
+      "num": 331139,
+      "word": "交警测试一辆SUV的盲区到底有多大",
+      "onboard_time": 1732606219,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309902,
@@ -2755,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272541,
+      "num": 327564,
+      "word": "多国游客疑在老挝喝到假酒去世",
+      "onboard_time": 1732610119,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 271220,
       "num": 271220,
       "word": "余宇涵成人礼特别企划",
@@ -2777,6 +2825,14 @@
       "onboard_time": 1732509201,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269370,
+      "num": 269370,
+      "word": "陕西通报野猪伤人致死事件",
+      "onboard_time": 1732612279,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 269286,
@@ -2947,14 +3003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254743,
-      "num": 254743,
-      "word": "交警测试一辆SUV的盲区到底有多大",
-      "onboard_time": 1732606219,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254658,
       "num": 235004,
       "word": "丁禹兮微博访问量内娱第一",
@@ -3049,14 +3097,6 @@
       "onboard_time": 1732506319,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246959,
-      "num": 246959,
-      "word": "麒麟9020",
-      "onboard_time": 1732610239,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 246740,
@@ -3675,6 +3715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 207940,
+      "num": 207940,
+      "word": "猎犬围捕野猪致村民身亡谁担责",
+      "onboard_time": 1732613059,
+      "rank": 45,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 207922,
       "num": 207922,
       "word": "嫂嫂你别这样声明书",
@@ -4139,14 +4187,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 194919,
-      "num": 194919,
-      "word": "多国游客疑在老挝喝到假酒去世",
-      "onboard_time": 1732610119,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 194892,
       "num": 194892,
       "word": "iPhone17Air起售价或破万元",
@@ -4169,6 +4209,14 @@
       "onboard_time": 1732420759,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194383,
+      "num": 194383,
+      "word": "华为耳机",
+      "onboard_time": 1732612579,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 193981,
@@ -4337,6 +4385,14 @@
       "onboard_time": 1732595001,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188737,
+      "num": 327120,
+      "word": "男子因无聊在网络上悬赏通缉自己",
+      "onboard_time": 1732611259,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188576,
@@ -5483,6 +5539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150167,
+      "num": 329739,
+      "word": "韩网粉丝给T1管理层开卡车",
+      "onboard_time": 1732613059,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149973,
       "num": 149973,
       "word": "WTT",
@@ -5835,6 +5899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135149,
+      "num": 224173,
+      "word": "迪士尼李楷灿",
+      "onboard_time": 1732612338,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134805,
       "num": 134805,
       "word": "美国小伙呼吁归还圆明园兽首",
@@ -6059,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128450,
+      "num": 404888,
+      "word": "近8成老师需要在周末加班",
+      "onboard_time": 1732611379,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 128284,
       "num": 286066,
       "word": "王楚钦王曼昱冠军城市宣传照",
@@ -6257,6 +6337,14 @@
       "onboard_time": 1732490957,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123028,
+      "num": 433869,
+      "word": "撕咬老人的野猪疑为猎犬追赶至家中",
+      "onboard_time": 1732611858,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 122979,
@@ -7019,6 +7107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106082,
+      "num": 396561,
+      "word": "Uzi说想去iG当替补",
+      "onboard_time": 1732612338,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105742,
       "num": 105742,
       "word": "男子怪民警扫了酒兴发视频造谣泄愤",
@@ -7259,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95879,
+      "num": 276904,
+      "word": "国考近五年成语汇总",
+      "onboard_time": 1732611919,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 94858,
       "num": 316490,
       "word": "张远下班直播",
@@ -7329,6 +7433,14 @@
       "onboard_time": 1732473432,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 89265,
+      "num": 324633,
+      "word": "王一博的主流女刊战绩",
+      "onboard_time": 1732610000,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 89238,
@@ -7545,6 +7657,14 @@
       "onboard_time": 1732546579,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83047,
+      "num": 426118,
+      "word": "虞书欣说一开始被骂惯了",
+      "onboard_time": 1732612999,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 82323,
@@ -8027,6 +8147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60357,
+      "num": 561732,
+      "word": "华为Mate70全球首发卫星寻呼",
+      "onboard_time": 1732608079,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60309,
       "num": 237821,
       "word": "陈幸同发博说下个赛场见",
@@ -8153,6 +8281,14 @@
       "onboard_time": 1732590620,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57852,
+      "num": 409411,
+      "word": "白夜破晓渣男害妻骗保",
+      "onboard_time": 1732612999,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 57687,
@@ -8811,6 +8947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39462,
+      "num": 359579,
+      "word": "Mate70RS皓白陶瓷质感绝了",
+      "onboard_time": 1732610358,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39081,
       "num": 364487,
       "word": "女子否认抽脂失败索要500万赔偿",
@@ -8929,14 +9073,6 @@
       "onboard_time": 1732417458,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 36415,
-      "num": 561732,
-      "word": "华为Mate70全球首发卫星寻呼",
-      "onboard_time": 1732608079,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 36302,
@@ -9081,6 +9217,14 @@
       "onboard_time": 1732471392,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32359,
+      "num": 465007,
+      "word": "华为Mate70用红枫准没错",
+      "onboard_time": 1732608860,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 32335,
@@ -9251,6 +9395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28644,
+      "num": 325834,
+      "word": "华为MateX6全能四摄折叠影像",
+      "onboard_time": 1732611980,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28518,
       "num": 2676202,
       "word": "时间观里的大国外交",
@@ -9267,12 +9419,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28348,
+      "num": 381347,
+      "word": "TheShy说Rookie很敏感",
+      "onboard_time": 1732612699,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28159,
       "num": 94154,
       "word": "新疆学生为奥运冠军们送上动漫肖像",
       "onboard_time": 1732547060,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28130,
+      "num": 325989,
+      "word": "刘德华说今天如此非凡",
+      "onboard_time": 1732612159,
+      "rank": 29,
+      "category": "作品衍生,数码"
     },
     {
       "raw_hot": 27956,
@@ -9289,14 +9457,6 @@
       "onboard_time": 1732564990,
       "rank": 42,
       "category": "时尚,休闲"
-    },
-    {
-      "raw_hot": 27891,
-      "num": 195325,
-      "word": "Mate70RS皓白陶瓷质感绝了",
-      "onboard_time": 1732610358,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 27787,
@@ -9371,6 +9531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26279,
+      "num": 297833,
+      "word": "华为云晰柔光屏平板真抗眩",
+      "onboard_time": 1732611980,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26265,
       "num": 372377,
       "word": "邵艺辉说自己的电影不现实",
@@ -9385,6 +9553,14 @@
       "onboard_time": 1732470253,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25946,
+      "num": 335654,
+      "word": "华为Mate70首发跨设备隔空传送",
+      "onboard_time": 1732610358,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 25798,
@@ -9523,12 +9699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23310,
-      "num": 200806,
-      "word": "华为Mate70首发跨设备隔空传送",
-      "onboard_time": 1732610358,
-      "rank": 41,
-      "category": "数码"
+      "raw_hot": 23220,
+      "num": 212388,
+      "word": "黄东萍 世界第一是新起点",
+      "onboard_time": 1732611739,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 23090,
@@ -9537,14 +9713,6 @@
       "onboard_time": 1732609400,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22962,
-      "num": 465007,
-      "word": "华为Mate70用红枫准没错",
-      "onboard_time": 1732608860,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 22853,
@@ -9971,6 +10139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11834,
+      "num": 304238,
+      "word": "崔永熙李凯尔同框",
+      "onboard_time": 1732611439,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11682,
       "num": 128892,
       "word": "TES冰尘租借至MD",
@@ -10001,6 +10177,14 @@
       "onboard_time": 1732528998,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11426,
+      "num": 371450,
+      "word": "华为MateX6星闪关机也能精准定位",
+      "onboard_time": 1732611980,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 11307,
