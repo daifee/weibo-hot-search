@@ -1,7 +1,15 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732577859693,
+  "endTime": 1732585705676,
   "band_list": [
+    {
+      "raw_hot": 1013915,
+      "num": 1162226,
+      "word": "秦海璐 你懂什么叫做演过青蛇",
+      "onboard_time": 1732579759,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 945120,
       "num": 281201,
@@ -11,12 +19,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 621096,
-      "num": 225704,
+      "raw_hot": 886196,
+      "num": 886196,
+      "word": "安卓实况照片和苹果有多大差距",
+      "onboard_time": 1732579759,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 809066,
+      "num": 285531,
+      "word": "曝小李子订婚",
+      "onboard_time": 1732583058,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 688260,
+      "num": 688260,
       "word": "羊毛月北大学历被质疑造假",
       "onboard_time": 1732577595,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638939,
+      "num": 285453,
+      "word": "店家称200元一份白粥用的依云水",
+      "onboard_time": 1732582939,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 599089,
@@ -27,12 +59,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480886,
+      "num": 480886,
+      "word": "上海白粥刺客200一碗",
+      "onboard_time": 1732579698,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 475597,
-      "num": 111462,
+      "num": 193890,
       "word": "鹿晗一捯饬内娱天亮了",
       "onboard_time": 1732523960,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 470106,
+      "num": 470106,
+      "word": "黑龙江可能出现特大暴雪",
+      "onboard_time": 1732581439,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463148,
+      "num": 205774,
+      "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
+      "onboard_time": 1732578136,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 436602,
@@ -67,12 +123,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 351795,
+      "num": 351795,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1732580298,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343841,
       "num": 872532,
       "word": "董宇辉不再担任执行董事",
       "onboard_time": 1732563611,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 341851,
+      "num": 341851,
+      "word": "就算何猷君真的来了也得输吧",
+      "onboard_time": 1732552756,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 340523,
@@ -83,12 +155,44 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 326641,
+      "num": 201908,
+      "word": "冬天不建议女生买的衣服",
+      "onboard_time": 1732578136,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 315232,
+      "num": 315232,
+      "word": "王楚钦8300分世排第一",
+      "onboard_time": 1732581500,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286887,
       "num": 286887,
       "word": "女子长期遭严重家暴杀夫后被判5年",
       "onboard_time": 1732576094,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285205,
+      "num": 285205,
+      "word": "羊毛月粉丝掉破800万",
+      "onboard_time": 1732577475,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 280509,
+      "num": 280509,
+      "word": "黄金",
+      "onboard_time": 1732577296,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 279663,
@@ -107,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265199,
+      "num": 265199,
+      "word": "中方回应美日正商讨涉台紧急状况计划",
+      "onboard_time": 1732581078,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258931,
       "num": 258931,
       "word": "外交部回应中方对日本试行30天免签",
@@ -115,20 +227,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 250455,
+      "num": 196156,
+      "word": "为什么羽绒服里穿薄点才暖和",
+      "onboard_time": 1732583178,
+      "rank": 22,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 246740,
       "num": 246740,
       "word": "加沙人雨天睡觉还要紧紧拽住帐篷",
       "onboard_time": 1732571051,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 238284,
-      "num": 224613,
-      "word": "就算何猷君真的来了也得输吧",
-      "onboard_time": 1732552756,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 232446,
@@ -163,6 +275,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222936,
+      "num": 222936,
+      "word": "市监所回应一份白粥200元",
+      "onboard_time": 1732584319,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 221742,
+      "num": 221742,
+      "word": "丁禹兮剧组挣钱剧组花",
+      "onboard_time": 1732579518,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206567,
+      "num": 206567,
+      "word": "金价又双叒叕跌了",
+      "onboard_time": 1732578196,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198897,
       "num": 166852,
       "word": "丁禹兮有力量渡难关",
@@ -177,6 +313,22 @@
       "onboard_time": 1732543221,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188280,
+      "num": 188280,
+      "word": "文件7处错字涉事工作人员被停职调查",
+      "onboard_time": 1732584800,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181614,
+      "num": 181614,
+      "word": "马斯克个人财富暴增超6000亿元",
+      "onboard_time": 1732577535,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 179748,
@@ -203,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174326,
+      "num": 174326,
+      "word": "Letme说退役后没必要维持高水平",
+      "onboard_time": 1732582879,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173903,
       "num": 173903,
       "word": "有家暴倾向的人大多有13个特征",
@@ -211,12 +371,28 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 169632,
-      "num": 169632,
-      "word": "黄金",
-      "onboard_time": 1732577296,
-      "rank": 15,
-      "category": "财经"
+      "raw_hot": 168974,
+      "num": 168974,
+      "word": "13年前微信安装包仅457KB",
+      "onboard_time": 1732585338,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 165243,
+      "num": 165243,
+      "word": "微信官方回应14天自动清理原图",
+      "onboard_time": 1732584800,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 157976,
+      "num": 157976,
+      "word": "医生眼中皮肤就是情绪的镜子",
+      "onboard_time": 1732585578,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156145,
@@ -225,6 +401,78 @@
       "onboard_time": 1732537761,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147026,
+      "num": 147026,
+      "word": "宋慧乔泰媒生图",
+      "onboard_time": 1732577656,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 140522,
+      "num": 140522,
+      "word": "中国点名美国的否决让安理会瘫痪",
+      "onboard_time": 1732584078,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139311,
+      "num": 139311,
+      "word": "下雪",
+      "onboard_time": 1732584558,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137747,
+      "num": 190800,
+      "word": "陈幸同世界排名上升至第5",
+      "onboard_time": 1732584736,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133422,
+      "num": 133422,
+      "word": "zdz怒喷赵志铭",
+      "onboard_time": 1732585338,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125733,
+      "num": 125733,
+      "word": "iPhone17Pro系列或迎重大设计变更",
+      "onboard_time": 1732585398,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 124226,
+      "num": 124226,
+      "word": "杨妞花替去世的妈妈给外婆过生日",
+      "onboard_time": 1732584258,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124178,
+      "num": 124178,
+      "word": "羊毛月",
+      "onboard_time": 1732581199,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 124001,
+      "num": 124001,
+      "word": "特朗普妄言对中国商品加征10%关税",
+      "onboard_time": 1732585578,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122728,
@@ -243,12 +491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117646,
+      "num": 117646,
+      "word": "中国平安回应推出996奋斗无忧险",
+      "onboard_time": 1732578436,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117594,
       "num": 117594,
       "word": "十二星座水逆指南",
       "onboard_time": 1732544721,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116073,
+      "num": 116073,
+      "word": "马龙陈梦领衔老瓦杯名单",
+      "onboard_time": 1732579877,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 115127,
@@ -259,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113481,
+      "num": 113481,
+      "word": "这一次东北的雪适合打雪仗",
+      "onboard_time": 1732584918,
+      "rank": 43,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 113258,
       "num": 172641,
       "word": "红海海域游船沉没事故17人下落不明",
       "onboard_time": 1732546341,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 107891,
+      "num": 107891,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732582099,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 107200,
@@ -281,6 +561,22 @@
       "onboard_time": 1732543400,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106374,
+      "num": 106374,
+      "word": "2024已过330天",
+      "onboard_time": 1732581019,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101390,
+      "num": 101390,
+      "word": "看到李雯雯发言心情都晴朗了",
+      "onboard_time": 1732584499,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94341,
@@ -323,14 +619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 83386,
-      "num": 114263,
-      "word": "宋慧乔泰媒生图",
-      "onboard_time": 1732577656,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 83142,
       "num": 83142,
       "word": "田曦薇张凌赫将进组逐玉",
@@ -363,20 +651,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78733,
+      "num": 285593,
+      "word": "第十一批在韩志愿军烈士遗骸即将回国",
+      "onboard_time": 1732584736,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77880,
       "num": 94573,
       "word": "5种值得警惕的精神冷暴力",
       "onboard_time": 1732551078,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77826,
-      "num": 77826,
-      "word": "羊毛月粉丝掉破800万",
-      "onboard_time": 1732577475,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 75482,
@@ -707,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22100,
+      "num": 782480,
+      "word": "第二届链博会亮点抢先看",
+      "onboard_time": 1732540219,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21555,
       "num": 21555,
       "word": "别对找不到工作的年轻人说风凉话",
@@ -825,14 +1121,6 @@
       "onboard_time": 1732564151,
       "rank": 37,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12018,
-      "num": 281290,
-      "word": "第二届链博会亮点抢先看",
-      "onboard_time": 1732540219,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8088,
