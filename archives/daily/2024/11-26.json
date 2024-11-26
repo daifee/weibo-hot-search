@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732626175233,
+  "endTime": 1732627972900,
   "band_list": [
     {
       "raw_hot": 2180735,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1531309,
+      "num": 1184764,
+      "word": "央财硕士称一年工资不如网红一条广告",
+      "onboard_time": 1732623558,
+      "rank": 3,
+      "category": "网红,舆论监督"
+    },
+    {
       "raw_hot": 1458339,
       "num": 536558,
       "word": "吴谨言挺孕肚跟洪尧出门",
@@ -99,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1154777,
-      "num": 1184764,
-      "word": "央财硕士称一年工资不如网红一条广告",
-      "onboard_time": 1732623558,
-      "rank": 3,
-      "category": "网红,舆论监督"
-    },
-    {
       "raw_hot": 1141618,
       "num": 1182658,
       "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1108601,
+      "num": 1177376,
+      "word": "北京下雪",
+      "onboard_time": 1732626200,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1052127,
       "num": 539325,
       "word": "麦琳前保姆爆料",
       "onboard_time": 1732589299,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1017049,
+      "num": 425361,
+      "word": "北大本科生 羊毛月",
+      "onboard_time": 1732622899,
+      "rank": 10,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 1013915,
@@ -161,6 +177,14 @@
       "onboard_time": 1732587978,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 964872,
+      "num": 425341,
+      "word": "美国两囚犯没有身体接触却有了孩子",
+      "onboard_time": 1732624399,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 957663,
@@ -235,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 855163,
-      "num": 279509,
-      "word": "美国两囚犯没有身体接触却有了孩子",
-      "onboard_time": 1732624399,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 854326,
       "num": 854326,
       "word": "52岁TVB演员戴耀明餐厅打工",
@@ -281,14 +297,6 @@
       "onboard_time": 1732583058,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 776580,
-      "num": 268085,
-      "word": "北大本科生 羊毛月",
-      "onboard_time": 1732622899,
-      "rank": 10,
-      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 770028,
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560202,
+      "num": 426442,
+      "word": "杨幂郭敬明素颜自拍照",
+      "onboard_time": 1732625059,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534553,
       "num": 394518,
       "word": "Angelababy高开叉黑色裙装",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 478421,
-      "num": 252935,
+      "num": 354815,
       "word": "偶遇Angelababy香港吃火锅",
       "onboard_time": 1732621878,
       "rank": 11,
@@ -587,6 +603,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435540,
+      "num": 426126,
+      "word": "赵露思横店甜品店闭店",
+      "onboard_time": 1732624698,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 427057,
+      "num": 427057,
+      "word": "孙颖莎徐杰合照",
+      "onboard_time": 1732626138,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 425275,
+      "num": 425275,
+      "word": "张凌赫田曦薇 平番",
+      "onboard_time": 1732625719,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421824,
       "num": 82844,
       "word": "被野猪顶撞撕咬老人家属发声",
@@ -608,14 +648,6 @@
       "word": "胡彦斌最不敢签名的一次",
       "onboard_time": 1732544000,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 408408,
-      "num": 213305,
-      "word": "赵露思横店甜品店闭店",
-      "onboard_time": 1732624698,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -683,6 +715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 364339,
+      "num": 364339,
+      "word": "冷冷冷我冷冷冷",
+      "onboard_time": 1732625358,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363667,
       "num": 448129,
       "word": "13年前微信安装包仅457KB",
@@ -731,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346472,
+      "num": 346472,
+      "word": "1500g羽绒被成本至少1100元",
+      "onboard_time": 1732623918,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343841,
       "num": 872532,
       "word": "董宇辉不再担任执行董事",
@@ -763,6 +811,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 340514,
+      "num": 340514,
+      "word": "广州调整住房公积金政策",
+      "onboard_time": 1732624278,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 328429,
       "num": 461684,
       "word": "虞书欣称最想和金秀贤合作",
@@ -787,20 +843,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 318695,
+      "num": 318695,
+      "word": "余承东称有人转账6万给他",
+      "onboard_time": 1732626559,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 309731,
       "num": 412980,
       "word": "王一博杂志",
       "onboard_time": 1732594160,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300648,
-      "num": 300648,
-      "word": "广州调整住房公积金政策",
-      "onboard_time": 1732624278,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 295143,
@@ -891,12 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266889,
-      "num": 183982,
-      "word": "杨幂郭敬明素颜自拍照",
-      "onboard_time": 1732625059,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 266437,
+      "num": 342987,
+      "word": "羊毛月",
+      "onboard_time": 1732581199,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 265199,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1732606160,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239869,
+      "num": 239869,
+      "word": "湘潭大学宿舍投毒案已移交法院",
+      "onboard_time": 1732625238,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239267,
@@ -1171,14 +1235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216774,
-      "num": 179878,
-      "word": "张凌赫田曦薇 平番",
-      "onboard_time": 1732625719,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214591,
       "num": 226989,
       "word": "我和我的命官宣",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1732613779,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211389,
-      "num": 175230,
-      "word": "湘潭大学宿舍投毒案已移交法院",
-      "onboard_time": 1732625238,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211337,
@@ -1379,14 +1427,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 197536,
-      "num": 283154,
-      "word": "1500g羽绒被成本至少1100元",
-      "onboard_time": 1732623918,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197385,
       "num": 197385,
       "word": "纯血鸿蒙",
@@ -1475,6 +1515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191863,
+      "num": 191863,
+      "word": "王大发说檀健次不是顶流",
+      "onboard_time": 1732626438,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191071,
       "num": 204093,
       "word": "好东西",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1732616479,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186377,
+      "num": 186377,
+      "word": "唐三第一个十万年魂环是妈妈",
+      "onboard_time": 1732626559,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186192,
@@ -1796,9 +1852,17 @@
     },
     {
       "raw_hot": 149894,
-      "num": 185435,
+      "num": 198023,
       "word": "对麦琳的讨论不该上升至人品人格",
       "onboard_time": 1732623499,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149842,
+      "num": 149842,
+      "word": "肖凯文恋综",
+      "onboard_time": 1732627519,
       "rank": 34,
       "category": "综艺"
     },
@@ -1843,12 +1907,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 143195,
-      "num": 143195,
-      "word": "孙颖莎徐杰合照",
-      "onboard_time": 1732626138,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 143615,
+      "num": 143615,
+      "word": "荣耀CEO赵明发文疑似回应余承东",
+      "onboard_time": 1732627578,
+      "rank": 35,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 141680,
@@ -1907,6 +1971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139288,
+      "num": 178309,
+      "word": "北京雪飘",
+      "onboard_time": 1732625478,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139240,
+      "num": 139240,
+      "word": "年轻人摆脱数学困难症有多爽",
+      "onboard_time": 1732627578,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137747,
       "num": 190800,
       "word": "陈幸同世界排名上升至第5",
@@ -1961,14 +2041,6 @@
       "onboard_time": 1732615098,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131215,
-      "num": 131215,
-      "word": "羊毛月",
-      "onboard_time": 1732581199,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 128839,
@@ -2041,6 +2113,22 @@
       "onboard_time": 1732605739,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123897,
+      "num": 425390,
+      "word": "买了车险却无法理赔多人已中招",
+      "onboard_time": 1732622418,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 123646,
+      "num": 123646,
+      "word": "研究生因扫雪不达标将取消评奖资格",
+      "onboard_time": 1732627519,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123028,
@@ -2195,6 +2283,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113885,
+      "num": 113885,
+      "word": "黄朔陈天润合照",
+      "onboard_time": 1732627220,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113841,
+      "num": 113841,
+      "word": "国乒四项世界排名第一",
+      "onboard_time": 1732627578,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113481,
       "num": 113481,
       "word": "这一次东北的雪适合打雪仗",
@@ -2249,14 +2353,6 @@
       "onboard_time": 1732587378,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108492,
-      "num": 302001,
-      "word": "冷冷冷我冷冷冷",
-      "onboard_time": 1732625358,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107574,
@@ -2593,6 +2689,14 @@
       "onboard_time": 1732593438,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69607,
+      "num": 340587,
+      "word": "我拒绝绑架 所以我相对自由",
+      "onboard_time": 1732627400,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 69429,
@@ -2987,14 +3091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41082,
-      "num": 178309,
-      "word": "北京雪飘",
-      "onboard_time": 1732625478,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40849,
       "num": 68212,
       "word": "鹿晗音乐节背影照",
@@ -3235,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29509,
+      "num": 749252,
+      "word": "文化中国行保护自然之美",
+      "onboard_time": 1732625478,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29425,
       "num": 598458,
       "word": "200元潮汕砂锅白粥仍在售卖",
@@ -3427,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22252,
+      "num": 356855,
+      "word": "心理学家解析好东西中的生活搭子",
+      "onboard_time": 1732626259,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22222,
       "num": 223712,
       "word": "Faker保持巅峰的原因",
@@ -3443,12 +3555,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 20987,
-      "num": 749252,
-      "word": "文化中国行保护自然之美",
-      "onboard_time": 1732625478,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 21114,
+      "num": 115871,
+      "word": "樊振东副业赛道",
+      "onboard_time": 1732627459,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 20507,
@@ -3697,6 +3809,14 @@
       "onboard_time": 1732625478,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10560,
+      "num": 112311,
+      "word": "喝下午茶得到一个樊振东",
+      "onboard_time": 1732627638,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 8088,
