@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732614033712,
+  "endTime": 1732616765574,
   "band_list": [
     {
       "raw_hot": 2180735,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1136337,
-      "num": 432993,
+      "num": 448924,
       "word": "志愿者发现冰柜装满被剥皮的猫狗尸体",
       "onboard_time": 1732607299,
       "rank": 39,
@@ -153,6 +153,14 @@
       "onboard_time": 1732543880,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 916190,
+      "num": 1146590,
+      "word": "尊界S800",
+      "onboard_time": 1732613718,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 886196,
@@ -275,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 696954,
+      "num": 696954,
+      "word": "94岁巴菲特公布后事安排",
+      "onboard_time": 1732613238,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 692986,
       "num": 692986,
       "word": "要求短剧不以霸总之类字眼作为片名",
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584166,
+      "num": 452636,
+      "word": "中央财大硕士怼羊毛月争议言论",
+      "onboard_time": 1732613958,
+      "rank": 44,
+      "category": "网红,舆论监督"
+    },
+    {
       "raw_hot": 575253,
       "num": 575253,
       "word": "白鹿唐宫出妆",
@@ -379,6 +403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 492311,
+      "num": 492311,
+      "word": "陕西通报野猪伤人致死事件",
+      "onboard_time": 1732612279,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 482579,
       "num": 573929,
       "word": "上海迪士尼",
@@ -411,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 464273,
+      "num": 464273,
+      "word": "多国游客疑在老挝喝到假酒去世",
+      "onboard_time": 1732610119,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 463148,
       "num": 410222,
       "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
@@ -425,6 +465,14 @@
       "onboard_time": 1732611858,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 451271,
+      "num": 451271,
+      "word": "樊振东 喜茶",
+      "onboard_time": 1732615458,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 436602,
@@ -507,16 +555,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 372179,
-      "num": 372179,
-      "word": "尊界S800",
-      "onboard_time": 1732613718,
-      "rank": 8,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 369146,
-      "num": 369146,
+      "num": 451789,
       "word": "交警测试一辆SUV的盲区到底有多大",
       "onboard_time": 1732606219,
       "rank": 37,
@@ -603,6 +643,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 330496,
+      "num": 462916,
+      "word": "赵露思新剧依然是自己化妆",
+      "onboard_time": 1732616418,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326641,
       "num": 225395,
       "word": "冬天不建议女生买的衣服",
@@ -611,20 +659,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 315210,
-      "num": 369806,
-      "word": "陕西通报野猪伤人致死事件",
-      "onboard_time": 1732612279,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 309731,
       "num": 412980,
       "word": "王一博杂志",
       "onboard_time": 1732594160,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306438,
+      "num": 461684,
+      "word": "虞书欣称最想和金秀贤合作",
+      "onboard_time": 1732614199,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 295143,
@@ -660,7 +708,7 @@
     },
     {
       "raw_hot": 283364,
-      "num": 283364,
+      "num": 460232,
       "word": "裴珠泫soloMV",
       "onboard_time": 1732613479,
       "rank": 23,
@@ -707,12 +755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274521,
-      "num": 327564,
-      "word": "多国游客疑在老挝喝到假酒去世",
-      "onboard_time": 1732610119,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 273191,
+      "num": 452880,
+      "word": "国行Switch停止网络服务",
+      "onboard_time": 1732615639,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 273021,
@@ -721,14 +769,6 @@
       "onboard_time": 1732586837,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268164,
-      "num": 268164,
-      "word": "94岁巴菲特公布后事安排",
-      "onboard_time": 1732613238,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 265199,
@@ -1067,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204151,
+      "num": 458750,
+      "word": "柯南白月光级最美剧场版",
+      "onboard_time": 1732615818,
+      "rank": 14,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 204106,
       "num": 204106,
       "word": "2025第一台跨年晚会官宣了",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1732597519,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200741,
-      "num": 200741,
-      "word": "中央财大硕士怼羊毛月争议言论",
-      "onboard_time": 1732613958,
-      "rank": 44,
-      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 200651,
@@ -1251,6 +1291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186667,
+      "num": 186667,
+      "word": "华为Mate70Pro",
+      "onboard_time": 1732616479,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 185281,
+      "num": 185281,
+      "word": "美方应该珍惜中方的善意",
+      "onboard_time": 1732616418,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182381,
       "num": 182381,
       "word": "小巷人家 谢幕和登场只在一个转场",
@@ -1347,6 +1403,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 173810,
+      "num": 173810,
+      "word": "余承东称石墨烯切冰就像切豆腐",
+      "onboard_time": 1732616059,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173386,
       "num": 173386,
       "word": "余承东真的6",
@@ -1363,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172180,
+      "num": 172180,
+      "word": "游客称喝过免费酒的女生整夜呕吐",
+      "onboard_time": 1732615039,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 171159,
       "num": 494744,
       "word": "人民空军发布接志愿军烈士回家任务标识",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1732605140,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168130,
+      "num": 379192,
+      "word": "郑雨盛ins向素人要电话",
+      "onboard_time": 1732615339,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 166911,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1732590800,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 157046,
+      "num": 157046,
+      "word": "华为血压表开箱",
+      "onboard_time": 1732616658,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 156998,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1732603639,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139387,
+      "num": 462178,
+      "word": "巴菲特再捐11亿美元",
+      "onboard_time": 1732615939,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139311,
@@ -1681,6 +1777,14 @@
       "onboard_time": 1732590438,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119209,
+      "num": 457486,
+      "word": "鹭卓今年进步了",
+      "onboard_time": 1732615939,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 118742,
@@ -1889,6 +1993,14 @@
       "onboard_time": 1732584499,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99515,
+      "num": 459351,
+      "word": "上班一天最累的是情绪",
+      "onboard_time": 1732615339,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98141,
@@ -2291,6 +2403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 52295,
+      "num": 457355,
+      "word": "张本智和说自己世界排名大概第6",
+      "onboard_time": 1732616299,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51684,
       "num": 56568,
       "word": "孙颖莎王楚钦单打冠军数量排第一",
@@ -2305,6 +2425,14 @@
       "onboard_time": 1732597279,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 50672,
+      "num": 455584,
+      "word": "华为原生鸿蒙耳机正式亮相",
+      "onboard_time": 1732613539,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 50066,
@@ -2409,6 +2537,14 @@
       "onboard_time": 1732577595,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 45684,
+      "num": 185937,
+      "word": "水晶哥谈iG新赛季阵容",
+      "onboard_time": 1732615399,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 44737,
@@ -2547,14 +2683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33263,
-      "num": 275015,
-      "word": "华为原生鸿蒙耳机正式亮相",
-      "onboard_time": 1732613539,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 32863,
       "num": 335654,
       "word": "华为Mate70首发跨设备隔空传送",
@@ -2595,6 +2723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31652,
+      "num": 454476,
+      "word": "华为MateX6鸿蒙大屏AI真的6",
+      "onboard_time": 1732615939,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31505,
       "num": 183291,
       "word": "周柯宇出道五周年粉丝见面会",
@@ -2617,6 +2753,22 @@
       "onboard_time": 1732608920,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29916,
+      "num": 325989,
+      "word": "刘德华说今天如此非凡",
+      "onboard_time": 1732612159,
+      "rank": 29,
+      "category": "作品衍生,数码"
+    },
+    {
+      "raw_hot": 29660,
+      "num": 446386,
+      "word": "华为血压表站坐睡都能测血压",
+      "onboard_time": 1732614440,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 29520,
@@ -2651,20 +2803,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 28243,
+      "num": 242773,
+      "word": "享界S9引领高端轿车智能化转型",
+      "onboard_time": 1732615878,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28196,
       "num": 313422,
       "word": "郑钦文巴塞罗那度假",
       "onboard_time": 1732613238,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28130,
-      "num": 325989,
-      "word": "刘德华说今天如此非凡",
-      "onboard_time": 1732612159,
-      "rank": 29,
-      "category": "作品衍生,数码"
     },
     {
       "raw_hot": 27956,
@@ -2819,6 +2971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 19031,
+      "num": 391492,
+      "word": "张雨霏切烤全羊切出表情包",
+      "onboard_time": 1732615639,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18550,
       "num": 27530,
       "word": "粮食节约和反食品浪费行动",
@@ -2833,6 +2993,14 @@
       "onboard_time": 1732586538,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18114,
+      "num": 445216,
+      "word": "余承东称智界新S7总有一款适合你",
+      "onboard_time": 1732615878,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 18023,
@@ -2891,6 +3059,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 14439,
+      "num": 448093,
+      "word": "郭晓东称庄超英是他的一面镜子",
+      "onboard_time": 1732615698,
+      "rank": 27,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 13878,
       "num": 24373,
       "word": "九江对伪劣羽绒服企业立案查处",
@@ -2915,6 +3091,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12944,
+      "num": 451017,
+      "word": "陈坤冷冬格调大片",
+      "onboard_time": 1732616299,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 12860,
       "num": 28767,
       "word": "天津广播电视塔点亮送别叶嘉莹",
@@ -2924,7 +3108,7 @@
     },
     {
       "raw_hot": 12565,
-      "num": 371450,
+      "num": 456282,
       "word": "华为MateX6星闪关机也能精准定位",
       "onboard_time": 1732611980,
       "rank": 17,
