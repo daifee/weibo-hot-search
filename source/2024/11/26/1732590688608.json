@@ -1,0 +1,410 @@
+{
+  "runTime": 1732590688608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439281,
+        "num": 1439281,
+        "word": "男子夜班看焚化炉睡9小时被开除",
+        "onboard_time": 1732587678,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194170,
+        "num": 1194170,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28615,
+        "num": 786193,
+        "word": "古人把一年四季画成交响乐",
+        "onboard_time": 1732589419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1863698,
+        "num": 785945,
+        "word": "疑似再见爱人离职剪辑师爆料",
+        "onboard_time": 1732586298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 779766,
+        "num": 779766,
+        "word": "市监所回应一份白粥200元",
+        "onboard_time": 1732584319,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 568169,
+        "num": 568169,
+        "word": "特朗普妄言对中国商品加征10%关税",
+        "onboard_time": 1732585578,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 556970,
+        "num": 556970,
+        "word": "特朗普宣布对墨加商品征收25%关税",
+        "onboard_time": 1732586778,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 403605,
+        "num": 541665,
+        "word": "高中同学曝羊毛月文化成绩倒数",
+        "onboard_time": 1732588818,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 526367,
+        "num": 526367,
+        "word": "iPhone17Pro系列或迎重大设计变更",
+        "onboard_time": 1732585398,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64246,
+        "num": 505697,
+        "word": "起拍百万的糖葫芦摊位可经营2个月",
+        "onboard_time": 1732590438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1361316,
+        "num": 505564,
+        "word": "吴谨言挺孕肚跟洪尧出门",
+        "onboard_time": 1732587858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894720,
+        "num": 505487,
+        "word": "麦琳前保姆爆料",
+        "onboard_time": 1732589299,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 505364,
+        "num": 505364,
+        "word": "广电总局要求加强对霸总微短剧管理",
+        "onboard_time": 1732587978,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436445,
+        "num": 436445,
+        "word": "特朗普乱挥关税大棒",
+        "onboard_time": 1732586778,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424800,
+        "num": 424800,
+        "word": "店家称200元一份白粥用的依云水",
+        "onboard_time": 1732582939,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292011,
+        "num": 370282,
+        "word": "羊毛月北大学历被质疑造假",
+        "onboard_time": 1732577595,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352721,
+        "num": 352721,
+        "word": "丁禹兮谈工作不带助理",
+        "onboard_time": 1732589059,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25880,
+        "num": 345194,
+        "word": "货拉拉司机回应封号争议",
+        "onboard_time": 1732589779,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234959,
+        "num": 344343,
+        "word": "业内人说时代少年团会单飞",
+        "onboard_time": 1732589899,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31070,
+        "num": 343833,
+        "word": "小伙儿假扮白富美骗走800万",
+        "onboard_time": 1732590620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343668,
+        "num": 343668,
+        "word": "13年前微信安装包仅457KB",
+        "onboard_time": 1732585338,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 410552,
+        "num": 338775,
+        "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
+        "onboard_time": 1732578136,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295143,
+        "num": 295143,
+        "word": "恋与深空",
+        "onboard_time": 1732588879,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277236,
+        "num": 277236,
+        "word": "黑龙江可能出现特大暴雪",
+        "onboard_time": 1732581439,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32152,
+        "num": 270248,
+        "word": "李雯雯现场分享解压秘诀",
+        "onboard_time": 1732589719,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61519,
+        "num": 269266,
+        "word": "内蒙古警察枪击案律师进行无罪辩护",
+        "onboard_time": 1732588759,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269224,
+        "num": 269224,
+        "word": "裴珠泫solo出道",
+        "onboard_time": 1732586837,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262185,
+        "num": 262185,
+        "word": "杨子开车窗",
+        "onboard_time": 1732590200,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258170,
+        "num": 258170,
+        "word": "曝小李子订婚",
+        "onboard_time": 1732583058,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189357,
+        "num": 258144,
+        "word": "羊毛月被同学称为学霸",
+        "onboard_time": 1732586958,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258144,
+        "num": 258143,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 242581,
+        "num": 242581,
+        "word": "医生眼中皮肤就是情绪的镜子",
+        "onboard_time": 1732585578,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196516,
+        "num": 196516,
+        "word": "为什么羽绒服里穿薄点才暖和",
+        "onboard_time": 1732583178,
+        "rank": 32,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 177586,
+        "num": 177586,
+        "word": "冬天不建议女生买的衣服",
+        "onboard_time": 1732578136,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 174977,
+        "num": 174977,
+        "word": "肖战不要回头MV",
+        "onboard_time": 1732587858,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171609,
+        "num": 171609,
+        "word": "教育局回应被民警踢打学生涉霸凌",
+        "onboard_time": 1732589599,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169354,
+        "num": 169354,
+        "word": "mlxg力挺Doinb",
+        "onboard_time": 1732585758,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168645,
+        "num": 168645,
+        "word": "中国AI手机有多强",
+        "onboard_time": 1732589719,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161275,
+        "num": 161275,
+        "word": "微信官方回应14天自动清理原图",
+        "onboard_time": 1732584800,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156038,
+        "num": 156038,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1732580298,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146323,
+        "num": 146323,
+        "word": "人民网评拒绝假羽绒",
+        "onboard_time": 1732588879,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143560,
+        "num": 143560,
+        "word": "樊振东连续十一年世排前五",
+        "onboard_time": 1732586358,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140804,
+        "num": 140804,
+        "word": "国乒状态回归了",
+        "onboard_time": 1732586358,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134345,
+        "num": 134345,
+        "word": "鹿晗一捯饬内娱天亮了",
+        "onboard_time": 1732523960,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129709,
+        "num": 129709,
+        "word": "安卓实况照片和苹果有多大差距",
+        "onboard_time": 1732579759,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127066,
+        "num": 127066,
+        "word": "去过哈尔滨的人嘴真严",
+        "onboard_time": 1732589719,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114262,
+        "num": 114262,
+        "word": "超薄版iPhone17或无法装实体SIM卡",
+        "onboard_time": 1732589419,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114153,
+        "num": 114153,
+        "word": "中国点名美国的否决让安理会瘫痪",
+        "onboard_time": 1732584078,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110160,
+        "num": 110160,
+        "word": "潘展乐签不完根本签不完",
+        "onboard_time": 1732584499,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107886,
+        "num": 107886,
+        "word": "文件7处错字涉事工作人员被停职调查",
+        "onboard_time": 1732584800,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行纪实#"
+    }
+  }
+}

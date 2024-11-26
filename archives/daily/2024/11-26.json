@@ -1,10 +1,10 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732590118622,
+  "endTime": 1732590688608,
   "band_list": [
     {
       "raw_hot": 1952056,
-      "num": 602091,
+      "num": 785945,
       "word": "疑似再见爱人离职剪辑师爆料",
       "onboard_time": 1732586298,
       "rank": 10,
@@ -12,23 +12,31 @@
     },
     {
       "raw_hot": 1458339,
-      "num": 447451,
+      "num": 505564,
       "word": "吴谨言挺孕肚跟洪尧出门",
       "onboard_time": 1732587858,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1100382,
-      "num": 1176061,
+      "raw_hot": 1439281,
+      "num": 1439281,
       "word": "男子夜班看焚化炉睡9小时被开除",
       "onboard_time": 1732587678,
       "rank": 0,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1194170,
+      "num": 1194170,
+      "word": "黄圣依 麦琳",
+      "onboard_time": 1732590259,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1052127,
-      "num": 438496,
+      "num": 505487,
       "word": "麦琳前保姆爆料",
       "onboard_time": 1732589299,
       "rank": 11,
@@ -123,12 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 533731,
-      "num": 533731,
+      "raw_hot": 556970,
+      "num": 556970,
       "word": "特朗普宣布对墨加商品征收25%关税",
       "onboard_time": 1732586778,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 505364,
+      "num": 505364,
+      "word": "广电总局要求加强对霸总微短剧管理",
+      "onboard_time": 1732587978,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 480886,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 463148,
-      "num": 305249,
+      "num": 338775,
       "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
       "onboard_time": 1732578136,
       "rank": 20,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403605,
+      "num": 541665,
+      "word": "高中同学曝羊毛月文化成绩倒数",
+      "onboard_time": 1732588818,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 384316,
       "num": 384316,
       "word": "王楚钦8300分世排第一",
@@ -211,20 +235,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 357717,
-      "num": 357717,
-      "word": "广电总局要求加强对霸总微短剧管理",
-      "onboard_time": 1732587978,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 355069,
       "num": 150696,
       "word": "顾茜茜为麦琳发声",
       "onboard_time": 1732588518,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352721,
+      "num": 352721,
+      "word": "丁禹兮谈工作不带助理",
+      "onboard_time": 1732589059,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 351795,
@@ -259,14 +283,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 327203,
-      "num": 327203,
-      "word": "高中同学曝羊毛月文化成绩倒数",
-      "onboard_time": 1732588818,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 326641,
       "num": 225395,
       "word": "冬天不建议女生买的衣服",
@@ -275,12 +291,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 305306,
-      "num": 305306,
-      "word": "丁禹兮谈工作不带助理",
-      "onboard_time": 1732589059,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 295143,
+      "num": 295143,
+      "word": "恋与深空",
+      "onboard_time": 1732588879,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 286887,
@@ -355,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262185,
+      "num": 262185,
+      "word": "杨子开车窗",
+      "onboard_time": 1732590200,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258931,
       "num": 258931,
       "word": "外交部回应中方对日本试行30天免签",
@@ -377,6 +401,22 @@
       "onboard_time": 1732571051,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242581,
+      "num": 242581,
+      "word": "医生眼中皮肤就是情绪的镜子",
+      "onboard_time": 1732585578,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234959,
+      "num": 344343,
+      "word": "业内人说时代少年团会单飞",
+      "onboard_time": 1732589899,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 232446,
@@ -419,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209815,
-      "num": 205860,
-      "word": "医生眼中皮肤就是情绪的镜子",
-      "onboard_time": 1732585578,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 206567,
       "num": 206567,
       "word": "金价又双叒叕跌了",
@@ -457,14 +489,6 @@
       "onboard_time": 1732586958,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 197259,
-      "num": 197259,
-      "word": "恋与深空",
-      "onboard_time": 1732588879,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 194953,
@@ -563,20 +587,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171609,
+      "num": 171609,
+      "word": "教育局回应被民警踢打学生涉霸凌",
+      "onboard_time": 1732589599,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 165243,
       "num": 165243,
       "word": "微信官方回应14天自动清理原图",
       "onboard_time": 1732584800,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 156664,
-      "num": 200075,
-      "word": "业内人说时代少年团会单飞",
-      "onboard_time": 1732589899,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 156145,
@@ -593,6 +617,14 @@
       "onboard_time": 1732577656,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 146323,
+      "num": 473705,
+      "word": "人民网评拒绝假羽绒",
+      "onboard_time": 1732588879,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140522,
@@ -617,22 +649,6 @@
       "onboard_time": 1732584736,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137644,
-      "num": 137644,
-      "word": "教育局回应被民警踢打学生涉霸凌",
-      "onboard_time": 1732589599,
-      "rank": 43,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 135231,
-      "num": 473705,
-      "word": "人民网评拒绝假羽绒",
-      "onboard_time": 1732588879,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133422,
@@ -667,8 +683,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 124476,
-      "num": 124476,
+      "raw_hot": 127066,
+      "num": 127066,
       "word": "去过哈尔滨的人嘴真严",
       "onboard_time": 1732589719,
       "rank": 44,
@@ -731,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114262,
+      "num": 114262,
+      "word": "超薄版iPhone17或无法装实体SIM卡",
+      "onboard_time": 1732589419,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113481,
       "num": 113481,
       "word": "这一次东北的雪适合打雪仗",
@@ -747,20 +771,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 110160,
+      "num": 110160,
+      "word": "潘展乐签不完根本签不完",
+      "onboard_time": 1732584499,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109501,
       "num": 139919,
       "word": "赵丽颖工作室公示告黑进展",
       "onboard_time": 1732587378,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108242,
-      "num": 108242,
-      "word": "潘展乐签不完根本签不完",
-      "onboard_time": 1732584499,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 107200,
@@ -921,6 +945,14 @@
       "onboard_time": 1732535299,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64246,
+      "num": 505697,
+      "word": "起拍百万的糖葫芦摊位可经营2个月",
+      "onboard_time": 1732590438,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64174,
@@ -1155,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31070,
+      "num": 343833,
+      "word": "小伙儿假扮白富美骗走800万",
+      "onboard_time": 1732590620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29520,
       "num": 40764,
       "word": "手绘实景融为一体上演画板消失术",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1732556533,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28615,
+      "num": 786193,
+      "word": "古人把一年四季画成交响乐",
+      "onboard_time": 1732589419,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27956,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1732577475,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25880,
+      "num": 345194,
+      "word": "货拉拉司机回应封号争议",
+      "onboard_time": 1732589779,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25692,
@@ -1243,14 +1299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 20098,
-      "num": 621097,
-      "word": "古人把一年四季画成交响乐",
-      "onboard_time": 1732589419,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19077,
       "num": 68226,
       "word": "王一博嘉人等待解锁",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1732555393,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17261,
-      "num": 313850,
-      "word": "货拉拉司机回应封号争议",
-      "onboard_time": 1732589779,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17005,
