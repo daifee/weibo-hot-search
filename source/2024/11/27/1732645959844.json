@@ -1,0 +1,410 @@
+{
+  "runTime": 1732645959844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 159552,
+        "num": 159972,
+        "word": "初雪",
+        "onboard_time": 1732631240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61687,
+        "num": 61687,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14836,
+        "num": 60055,
+        "word": "中国天眼发现脉冲星已超1000颗",
+        "onboard_time": 1732626859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73843,
+        "num": 60053,
+        "word": "虞书欣带货力",
+        "onboard_time": 1732636577,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60009,
+        "num": 60009,
+        "word": "鹅绒一吨100多万羽绒制品非贵即假",
+        "onboard_time": 1732638976,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59829,
+        "num": 59829,
+        "word": "赵露思新剧依然是自己化妆",
+        "onboard_time": 1732616418,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54862,
+        "num": 54862,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51463,
+        "num": 51463,
+        "word": "下一个中国还是中国",
+        "onboard_time": 1732640953,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47133,
+        "num": 47133,
+        "word": "权志龙头巾",
+        "onboard_time": 1732636758,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23758,
+        "num": 45372,
+        "word": "羊毛月这次触及到00后的逆鳞",
+        "onboard_time": 1732645392,
+        "rank": 9,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 50733,
+        "num": 45370,
+        "word": "偶遇Angelababy香港吃火锅",
+        "onboard_time": 1732621878,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45341,
+        "num": 45341,
+        "word": "内鱼在逃小仙女永久禁言",
+        "onboard_time": 1732636096,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44539,
+        "num": 44539,
+        "word": "张凌赫田曦薇 平番",
+        "onboard_time": 1732625719,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43925,
+        "num": 43925,
+        "word": "Faker直播谈Zeus",
+        "onboard_time": 1732632740,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42825,
+        "num": 42825,
+        "word": "研究生因扫雪不达标将取消评奖资格",
+        "onboard_time": 1732627519,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40318,
+        "num": 40318,
+        "word": "好东西票房破2亿",
+        "onboard_time": 1732638617,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38226,
+        "num": 38226,
+        "word": "大冰停播43天后复播",
+        "onboard_time": 1732633819,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36942,
+        "num": 36942,
+        "word": "赵露思横店甜品店闭店",
+        "onboard_time": 1732624698,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34168,
+        "num": 34168,
+        "word": "妇联回应男子家暴妻子时女儿报警",
+        "onboard_time": 1732643832,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32469,
+        "num": 32469,
+        "word": "养女防老正成为农村养老新现象",
+        "onboard_time": 1732629800,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61204,
+        "num": 32467,
+        "word": "疑似麦琳解散李行亮核心粉丝群",
+        "onboard_time": 1732642814,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41409,
+        "num": 32463,
+        "word": "52岁TVB演员戴耀明餐厅打工",
+        "onboard_time": 1732621878,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40441,
+        "num": 32453,
+        "word": "美国两囚犯没有身体接触却有了孩子",
+        "onboard_time": 1732624399,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32425,
+        "num": 32425,
+        "word": "游客称喝过免费酒的女生整夜呕吐",
+        "onboard_time": 1732615039,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6264,
+        "num": 31536,
+        "word": "润的奇妙集市",
+        "onboard_time": 1732635737,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31413,
+        "num": 31413,
+        "word": "狗狗吞一嘴蓝莓一个没敢吃",
+        "onboard_time": 1732635377,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31121,
+        "num": 31121,
+        "word": "杨幂郭敬明素颜自拍照",
+        "onboard_time": 1732625059,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29949,
+        "num": 29949,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1732625358,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8739,
+        "num": 27471,
+        "word": "祝绪丹要学唱歌了",
+        "onboard_time": 1732643413,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27402,
+        "num": 27402,
+        "word": "林一回应暗恋的人成了大明星",
+        "onboard_time": 1732610840,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26527,
+        "num": 26527,
+        "word": "北京这雪厚度能写艺术字了",
+        "onboard_time": 1732635138,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26267,
+        "num": 26267,
+        "word": "捐赠相册美国小伙计划长期留在中国",
+        "onboard_time": 1732630940,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25784,
+        "num": 25784,
+        "word": "鹿晗gapday音乐节吸引超7万乐迷",
+        "onboard_time": 1732641913,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25685,
+        "num": 25685,
+        "word": "森林进化论2",
+        "onboard_time": 1732641073,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24133,
+        "num": 24133,
+        "word": "丁禹兮壁纸",
+        "onboard_time": 1732633639,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23531,
+        "num": 23531,
+        "word": "王大发说檀健次不是顶流",
+        "onboard_time": 1732626438,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23275,
+        "num": 23275,
+        "word": "余承东称有人转账6万给他",
+        "onboard_time": 1732626559,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22824,
+        "num": 22824,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22168,
+        "num": 22168,
+        "word": "鹿晗工作室在线找人",
+        "onboard_time": 1732617439,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22042,
+        "num": 22042,
+        "word": "黄冈58岁高三教师宿舍离世教育局介入",
+        "onboard_time": 1732623918,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 32823,
+        "num": 22025,
+        "word": "辛选致歉",
+        "onboard_time": 1732637477,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21974,
+        "num": 21974,
+        "word": "湘潭大学宿舍投毒案已移交法院",
+        "onboard_time": 1732625238,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21463,
+        "num": 21463,
+        "word": "潘展乐和戍边战士说了番温暖的话",
+        "onboard_time": 1732642632,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20963,
+        "num": 20963,
+        "word": "朱志鑫拍2024的初雪",
+        "onboard_time": 1732636697,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20877,
+        "num": 20877,
+        "word": "邱贻可吃上黑天鹅蛋糕了",
+        "onboard_time": 1732632080,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20876,
+        "num": 20876,
+        "word": "对麦琳的声讨不应是再见爱人的看点",
+        "onboard_time": 1732633819,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20369,
+        "num": 20369,
+        "word": "日本近海6.2级左右地震",
+        "onboard_time": 1732635377,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19907,
+        "num": 19907,
+        "word": "Irene 红秀",
+        "onboard_time": 1732633399,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19538,
+        "num": 19538,
+        "word": "虞书欣模仿黄油小熊",
+        "onboard_time": 1732641133,
+        "rank": 48,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 19249,
+        "num": 19249,
+        "word": "美国蛋价飙涨超50%",
+        "onboard_time": 1732634419,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡国务资政李显龙#"
+    }
+  }
+}
