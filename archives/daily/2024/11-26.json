@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732628634642,
+  "endTime": 1732630987559,
   "band_list": [
     {
       "raw_hot": 2180735,
@@ -112,6 +112,14 @@
       "word": "上海闵行区一男子商场内坠亡",
       "onboard_time": 1732594639,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1218859,
+      "num": 1218859,
+      "word": "研究生因扫雪不达标将取消评奖资格",
+      "onboard_time": 1732627519,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477557,
+      "num": 477557,
+      "word": "冷冷冷我冷冷冷",
+      "onboard_time": 1732625358,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475597,
       "num": 193890,
       "word": "鹿晗一捯饬内娱天亮了",
@@ -579,6 +595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 463829,
+      "num": 439880,
+      "word": "张凌赫田曦薇 平番",
+      "onboard_time": 1732625719,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463148,
       "num": 410222,
       "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
@@ -601,14 +625,6 @@
       "onboard_time": 1732626138,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 439880,
-      "num": 439880,
-      "word": "张凌赫田曦薇 平番",
-      "onboard_time": 1732625719,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 436602,
@@ -659,20 +675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402111,
+      "num": 402111,
+      "word": "孟佳被JYP恩师打了100分",
+      "onboard_time": 1732628840,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396774,
       "num": 412707,
       "word": "麦乱时期的爱情",
       "onboard_time": 1732596200,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396752,
-      "num": 454587,
-      "word": "冷冷冷我冷冷冷",
-      "onboard_time": 1732625358,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 384316,
@@ -851,6 +867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 315030,
+      "num": 315030,
+      "word": "王大发说檀健次不是顶流",
+      "onboard_time": 1732626438,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309731,
       "num": 412980,
       "word": "王一博杂志",
@@ -1011,20 +1035,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 253633,
-      "num": 253633,
-      "word": "研究生因扫雪不达标将取消评奖资格",
-      "onboard_time": 1732627519,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250455,
       "num": 223089,
       "word": "为什么羽绒服里穿薄点才暖和",
       "onboard_time": 1732583178,
       "rank": 22,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 246968,
+      "num": 246968,
+      "word": "日本地震",
+      "onboard_time": 1732630340,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246740,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1732535419,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231960,
+      "num": 231960,
+      "word": "生双胞胎妈妈顺利产下3胞胎",
+      "onboard_time": 1732629679,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228758,
@@ -1361,14 +1393,6 @@
       "onboard_time": 1732587858,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206175,
-      "num": 285351,
-      "word": "王大发说檀健次不是顶流",
-      "onboard_time": 1732626438,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 205768,
@@ -1739,11 +1763,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170653,
+      "num": 170653,
+      "word": "央财硕士怒怼羊毛月吃肉别吧唧嘴",
+      "onboard_time": 1732629259,
+      "rank": 39,
+      "category": "网红,舆论监督"
+    },
+    {
       "raw_hot": 169915,
       "num": 169915,
       "word": "李晋晔 人崩溃的时候会傻笑",
       "onboard_time": 1732605140,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167049,
+      "num": 167049,
+      "word": "种地吧",
+      "onboard_time": 1732628239,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1835,14 +1875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156570,
-      "num": 156570,
-      "word": "种地吧",
-      "onboard_time": 1732628239,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156145,
       "num": 156145,
       "word": "虞书欣工作室",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1732603098,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150226,
+      "num": 333331,
+      "word": "如鸢声明",
+      "onboard_time": 1732630220,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 150015,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1732625179,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140947,
+      "num": 140947,
+      "word": "国乒四项世界排名第一",
+      "onboard_time": 1732627578,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 140809,
@@ -2059,14 +2107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132990,
-      "num": 132990,
-      "word": "国乒四项世界排名第一",
-      "onboard_time": 1732627578,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132242,
       "num": 132242,
       "word": "张雨霏射击赢了潘展乐",
@@ -2132,7 +2172,7 @@
     },
     {
       "raw_hot": 125601,
-      "num": 125601,
+      "num": 320734,
       "word": "景德镇偶遇严浩翔",
       "onboard_time": 1732625899,
       "rank": 42,
@@ -2299,6 +2339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114086,
+      "num": 347081,
+      "word": "王一博如水流处一方天地揽四时风光",
+      "onboard_time": 1732630400,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113885,
       "num": 253879,
       "word": "黄朔陈天润合照",
@@ -2411,6 +2459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102923,
+      "num": 395683,
+      "word": "被前男友夜夜跟踪女孩申请保护令",
+      "onboard_time": 1732629319,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102018,
       "num": 462999,
       "word": "虞书欣COSMO花絮",
@@ -2441,6 +2497,14 @@
       "onboard_time": 1732584499,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101023,
+      "num": 399168,
+      "word": "养女防老正成为农村养老新现象",
+      "onboard_time": 1732629800,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99515,
@@ -2753,6 +2817,14 @@
       "onboard_time": 1732558872,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64028,
+      "num": 397035,
+      "word": "Uzi说没参加传奇杯表演赛",
+      "onboard_time": 1732630160,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 63938,
@@ -3203,12 +3275,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 36347,
+      "num": 401771,
+      "word": "商旅预订平台招聘考研祈愿师",
+      "onboard_time": 1732629259,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35733,
       "num": 907756,
       "word": "古人把一年四季画成交响乐",
       "onboard_time": 1732589419,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35465,
+      "num": 148892,
+      "word": "樊振东副业赛道",
+      "onboard_time": 1732627459,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 35452,
@@ -3348,7 +3436,7 @@
     },
     {
       "raw_hot": 29517,
-      "num": 749252,
+      "num": 1072167,
       "word": "文化中国行保护自然之美",
       "onboard_time": 1732625478,
       "rank": 2,
@@ -3475,14 +3563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 26208,
-      "num": 148892,
-      "word": "樊振东副业赛道",
-      "onboard_time": 1732627459,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26140,
       "num": 445216,
       "word": "余承东称智界新S7总有一款适合你",
@@ -3512,6 +3592,14 @@
       "word": "第二届链博会亮点抢先看",
       "onboard_time": 1732540219,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24994,
+      "num": 396497,
+      "word": "北京哪年初雪你印象最深刻",
+      "onboard_time": 1732630039,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3547,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23999,
+      "num": 139453,
+      "word": "喝下午茶得到一个樊振东",
+      "onboard_time": 1732627638,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23711,
       "num": 444150,
       "word": "潘展乐收到潘展乐",
@@ -3561,6 +3657,14 @@
       "onboard_time": 1732613659,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23462,
+      "num": 311541,
+      "word": "雪原来也有干湿之分",
+      "onboard_time": 1732630160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23220,
@@ -3747,14 +3851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14803,
-      "num": 139453,
-      "word": "喝下午茶得到一个樊振东",
-      "onboard_time": 1732627638,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14439,
       "num": 448093,
       "word": "郭晓东称庄超英是他的一面镜子",
@@ -3889,6 +3985,14 @@
       "onboard_time": 1732596079,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 5898,
+      "num": 397480,
+      "word": "捐赠相册美国小伙计划长期留在中国",
+      "onboard_time": 1732630940,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5491,

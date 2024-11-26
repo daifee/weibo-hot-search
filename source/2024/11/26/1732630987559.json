@@ -1,0 +1,410 @@
+{
+  "runTime": 1732630987559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514821,
+        "num": 1514821,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1218859,
+        "num": 1218859,
+        "word": "研究生因扫雪不达标将取消评奖资格",
+        "onboard_time": 1732627519,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29151,
+        "num": 1072167,
+        "word": "文化中国行保护自然之美",
+        "onboard_time": 1732625478,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1063262,
+        "num": 1063262,
+        "word": "央财硕士称一年工资不如网红一条广告",
+        "onboard_time": 1732623558,
+        "rank": 3,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 643441,
+        "num": 643441,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511745,
+        "num": 511745,
+        "word": "52岁TVB演员戴耀明餐厅打工",
+        "onboard_time": 1732621878,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483771,
+        "num": 483771,
+        "word": "杨幂郭敬明素颜自拍照",
+        "onboard_time": 1732625059,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477557,
+        "num": 477557,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1732625358,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402111,
+        "num": 402111,
+        "word": "孟佳被JYP恩师打了100分",
+        "onboard_time": 1732628840,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36347,
+        "num": 401771,
+        "word": "商旅预订平台招聘考研祈愿师",
+        "onboard_time": 1732629259,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 953013,
+        "num": 401235,
+        "word": "北大本科生 羊毛月",
+        "onboard_time": 1732622899,
+        "rank": 10,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 926023,
+        "num": 400525,
+        "word": "美国两囚犯没有身体接触却有了孩子",
+        "onboard_time": 1732624399,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348899,
+        "num": 399821,
+        "word": "赵露思新剧依然是自己化妆",
+        "onboard_time": 1732616418,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101023,
+        "num": 399168,
+        "word": "养女防老正成为农村养老新现象",
+        "onboard_time": 1732629800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463829,
+        "num": 398551,
+        "word": "张凌赫田曦薇 平番",
+        "onboard_time": 1732625719,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348189,
+        "num": 398055,
+        "word": "赵露思横店甜品店闭店",
+        "onboard_time": 1732624698,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5898,
+        "num": 397480,
+        "word": "捐赠相册美国小伙计划长期留在中国",
+        "onboard_time": 1732630940,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64028,
+        "num": 397035,
+        "word": "Uzi说没参加传奇杯表演赛",
+        "onboard_time": 1732630160,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24994,
+        "num": 396497,
+        "word": "北京哪年初雪你印象最深刻",
+        "onboard_time": 1732630039,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102923,
+        "num": 395683,
+        "word": "被前男友夜夜跟踪女孩申请保护令",
+        "onboard_time": 1732629319,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395578,
+        "num": 395578,
+        "word": "偶遇Angelababy香港吃火锅",
+        "onboard_time": 1732621878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390833,
+        "num": 390833,
+        "word": "孙颖莎徐杰合照",
+        "onboard_time": 1732626138,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114086,
+        "num": 347081,
+        "word": "王一博如水流处一方天地揽四时风光",
+        "onboard_time": 1732630400,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 335937,
+        "num": 335937,
+        "word": "余承东称有人转账6万给他",
+        "onboard_time": 1732626559,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150226,
+        "num": 333331,
+        "word": "如鸢声明",
+        "onboard_time": 1732630220,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242266,
+        "num": 329737,
+        "word": "林一回应暗恋的人成了大明星",
+        "onboard_time": 1732610840,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88888,
+        "num": 320734,
+        "word": "景德镇偶遇严浩翔",
+        "onboard_time": 1732625899,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104646,
+        "num": 316217,
+        "word": "买了车险却无法理赔多人已中招",
+        "onboard_time": 1732622418,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 315030,
+        "num": 315030,
+        "word": "王大发说檀健次不是顶流",
+        "onboard_time": 1732626438,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23462,
+        "num": 311541,
+        "word": "雪原来也有干湿之分",
+        "onboard_time": 1732630160,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310769,
+        "num": 310769,
+        "word": "黄冈58岁高三教师宿舍离世教育局介入",
+        "onboard_time": 1732623918,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 246968,
+        "num": 246968,
+        "word": "日本地震",
+        "onboard_time": 1732630340,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231960,
+        "num": 231960,
+        "word": "生双胞胎妈妈顺利产下3胞胎",
+        "onboard_time": 1732629679,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219570,
+        "num": 219570,
+        "word": "羊毛月",
+        "onboard_time": 1732626320,
+        "rank": 33,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 203575,
+        "num": 203575,
+        "word": "1500g羽绒被成本至少1100元",
+        "onboard_time": 1732623918,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202763,
+        "num": 202763,
+        "word": "广州调整住房公积金政策",
+        "onboard_time": 1732624278,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188897,
+        "num": 188897,
+        "word": "湘潭大学宿舍投毒案已移交法院",
+        "onboard_time": 1732625238,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184897,
+        "num": 184897,
+        "word": "游客称喝过免费酒的女生整夜呕吐",
+        "onboard_time": 1732615039,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171653,
+        "num": 171653,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170653,
+        "num": 170653,
+        "word": "央财硕士怒怼羊毛月吃肉别吧唧嘴",
+        "onboard_time": 1732629259,
+        "rank": 39,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 167049,
+        "num": 167049,
+        "word": "种地吧",
+        "onboard_time": 1732628239,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161030,
+        "num": 161030,
+        "word": "肖凯文恋综",
+        "onboard_time": 1732627519,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157596,
+        "num": 157596,
+        "word": "鹿晗工作室在线找人",
+        "onboard_time": 1732617439,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142417,
+        "num": 142417,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140947,
+        "num": 140947,
+        "word": "国乒四项世界排名第一",
+        "onboard_time": 1732627578,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138937,
+        "num": 138937,
+        "word": "儿子在校一餐花8元妈妈心疼落泪",
+        "onboard_time": 1732599199,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136276,
+        "num": 136276,
+        "word": "唐三第一个十万年魂环是妈妈",
+        "onboard_time": 1732626559,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131990,
+        "num": 131990,
+        "word": "荣耀CEO赵明发文疑似回应余承东",
+        "onboard_time": 1732627578,
+        "rank": 47,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 35465,
+        "num": 130554,
+        "word": "樊振东副业赛道",
+        "onboard_time": 1732627459,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23999,
+        "num": 128732,
+        "word": "喝下午茶得到一个樊振东",
+        "onboard_time": 1732627638,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见萨摩亚总理#"
+    }
+  }
+}
