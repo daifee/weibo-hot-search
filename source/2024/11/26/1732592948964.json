@@ -1,0 +1,410 @@
+{
+  "runTime": 1732592948964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373630,
+        "num": 1373630,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 975652,
+        "num": 975652,
+        "word": "广电总局要求加强对霸总微短剧管理",
+        "onboard_time": 1732587978,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33315,
+        "num": 647500,
+        "word": "古人把一年四季画成交响乐",
+        "onboard_time": 1732589419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1526671,
+        "num": 643606,
+        "word": "疑似再见爱人离职剪辑师爆料",
+        "onboard_time": 1732586298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599068,
+        "num": 599068,
+        "word": "市监所回应一份白粥200元",
+        "onboard_time": 1732584319,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 514281,
+        "num": 514281,
+        "word": "特朗普宣布对墨加商品征收25%关税",
+        "onboard_time": 1732586778,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 471640,
+        "num": 471640,
+        "word": "特朗普妄言对中国商品加征10%关税",
+        "onboard_time": 1732585578,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455742,
+        "num": 455742,
+        "word": "iPhone17Pro系列或迎重大设计变更",
+        "onboard_time": 1732585398,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59486,
+        "num": 452652,
+        "word": "货拉拉司机回应封号争议",
+        "onboard_time": 1732589779,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293448,
+        "num": 448129,
+        "word": "13年前微信安装包仅457KB",
+        "onboard_time": 1732585338,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1064365,
+        "num": 441909,
+        "word": "男子夜班看焚化炉睡9小时被开除",
+        "onboard_time": 1732587678,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 989952,
+        "num": 440700,
+        "word": "吴谨言挺孕肚跟洪尧出门",
+        "onboard_time": 1732587858,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798631,
+        "num": 432043,
+        "word": "杨子开车窗",
+        "onboard_time": 1732590200,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697439,
+        "num": 430095,
+        "word": "高中同学曝羊毛月文化成绩倒数",
+        "onboard_time": 1732588818,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 426635,
+        "num": 426635,
+        "word": "特朗普乱挥关税大棒",
+        "onboard_time": 1732586778,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363344,
+        "num": 363344,
+        "word": "丁禹兮谈工作不带助理",
+        "onboard_time": 1732589059,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280927,
+        "num": 280927,
+        "word": "店家称200元一份白粥用的依云水",
+        "onboard_time": 1732582939,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226198,
+        "num": 280265,
+        "word": "业内人说时代少年团会单飞",
+        "onboard_time": 1732589899,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643673,
+        "num": 279874,
+        "word": "麦琳前保姆爆料",
+        "onboard_time": 1732589299,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76570,
+        "num": 278817,
+        "word": "羊毛月翻车不是第一次了",
+        "onboard_time": 1732592660,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27787,
+        "num": 278506,
+        "word": "国产电影母亲形象正在蜕变",
+        "onboard_time": 1732591100,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359338,
+        "num": 277915,
+        "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
+        "onboard_time": 1732578136,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277339,
+        "num": 277339,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227641,
+        "num": 227641,
+        "word": "教育局回应被民警踢打学生涉霸凌",
+        "onboard_time": 1732589599,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 86837,
+        "num": 209156,
+        "word": "PEL名人堂投票",
+        "onboard_time": 1732592000,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201797,
+        "num": 201797,
+        "word": "要求短剧不以霸总之类字眼作为片名",
+        "onboard_time": 1732590438,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195441,
+        "num": 195441,
+        "word": "黑龙江可能出现特大暴雪",
+        "onboard_time": 1732581439,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181662,
+        "num": 181662,
+        "word": "骗完69万教唆受害人去派出所要钱",
+        "onboard_time": 1732591039,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166592,
+        "num": 176682,
+        "word": "柯南迷宫的十字路口内地定档",
+        "onboard_time": 1732591160,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160151,
+        "num": 176398,
+        "word": "张婧仪工作室维权取证",
+        "onboard_time": 1732591218,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176213,
+        "num": 176213,
+        "word": "胖东来内部移风易俗已是传统",
+        "onboard_time": 1732591879,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173781,
+        "num": 173781,
+        "word": "医生眼中皮肤就是情绪的镜子",
+        "onboard_time": 1732585578,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169425,
+        "num": 169425,
+        "word": "裴珠泫solo出道",
+        "onboard_time": 1732586837,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166782,
+        "num": 166782,
+        "word": "加沙婴儿都要受冻",
+        "onboard_time": 1732591640,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164631,
+        "num": 164631,
+        "word": "为什么羽绒服里穿薄点才暖和",
+        "onboard_time": 1732583178,
+        "rank": 34,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 163552,
+        "num": 163552,
+        "word": "含金量很高且后劲十足的书",
+        "onboard_time": 1732591819,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159541,
+        "num": 159541,
+        "word": "曝小李子订婚",
+        "onboard_time": 1732583058,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158434,
+        "num": 158434,
+        "word": "微信瘦身后仍保留普通画质图片视频",
+        "onboard_time": 1732590800,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149402,
+        "num": 149402,
+        "word": "mlxg力挺Doinb",
+        "onboard_time": 1732585758,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148589,
+        "num": 148589,
+        "word": "恋与深空",
+        "onboard_time": 1732588879,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145765,
+        "num": 145765,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1732580298,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144241,
+        "num": 144241,
+        "word": "冬天不建议女生买的衣服",
+        "onboard_time": 1732578136,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 125348,
+        "num": 125348,
+        "word": "微信官方回应14天自动清理原图",
+        "onboard_time": 1732584800,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121272,
+        "num": 121272,
+        "word": "去过哈尔滨的人嘴真严",
+        "onboard_time": 1732589719,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114098,
+        "num": 114098,
+        "word": "羊毛月",
+        "onboard_time": 1732581199,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82497,
+        "num": 108719,
+        "word": "赵丽颖工作室公示告黑进展",
+        "onboard_time": 1732587378,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108599,
+        "num": 108599,
+        "word": "羊毛月北大学历被质疑造假",
+        "onboard_time": 1732577595,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104566,
+        "num": 104566,
+        "word": "肖战不要回头MV",
+        "onboard_time": 1732587858,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104508,
+        "num": 104508,
+        "word": "国乒状态回归了",
+        "onboard_time": 1732586358,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101531,
+        "num": 101531,
+        "word": "起拍百万的糖葫芦摊位可经营2个月",
+        "onboard_time": 1732590438,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行纪实#"
+    }
+  }
+}
