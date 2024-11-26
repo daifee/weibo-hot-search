@@ -1,0 +1,410 @@
+{
+  "runTime": 1732599650800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1141618,
+        "num": 1182658,
+        "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
+        "onboard_time": 1732596021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912143,
+        "num": 912143,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28450,
+        "num": 905055,
+        "word": "古人把一年四季画成交响乐",
+        "onboard_time": 1732589419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1203398,
+        "num": 904362,
+        "word": "上海闵行区一男子商场内坠亡",
+        "onboard_time": 1732594639,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903579,
+        "num": 903579,
+        "word": "疑似再见爱人离职剪辑师爆料",
+        "onboard_time": 1732586298,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610026,
+        "num": 610026,
+        "word": "魏子宸妈妈再发文",
+        "onboard_time": 1732597999,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588651,
+        "num": 588651,
+        "word": "山东婚假",
+        "onboard_time": 1732595300,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515946,
+        "num": 515946,
+        "word": "杨子开车窗",
+        "onboard_time": 1732590200,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214178,
+        "num": 459860,
+        "word": "我驻美使馆回应特朗普妄言加税",
+        "onboard_time": 1732597220,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424352,
+        "num": 424352,
+        "word": "特朗普乱挥关税大棒",
+        "onboard_time": 1732586778,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 777698,
+        "num": 418945,
+        "word": "吴谨言挺孕肚跟洪尧出门",
+        "onboard_time": 1732587858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491658,
+        "num": 408916,
+        "word": "男子夜班看焚化炉睡9小时被开除",
+        "onboard_time": 1732587678,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721060,
+        "num": 403858,
+        "word": "麦琳 烟瘾",
+        "onboard_time": 1732598478,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398107,
+        "num": 398107,
+        "word": "赵樱子 我娱乐圈最好的朋友是李梦",
+        "onboard_time": 1732598899,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354038,
+        "num": 354038,
+        "word": "特朗普妄言对中国商品加征10%关税",
+        "onboard_time": 1732585578,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342595,
+        "num": 342595,
+        "word": "市监所回应一份白粥200元",
+        "onboard_time": 1732584319,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 342304,
+        "num": 342304,
+        "word": "广电总局要求加强对霸总微短剧管理",
+        "onboard_time": 1732587978,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253360,
+        "num": 332411,
+        "word": "教育局回应网传魏子宸遭校园霸凌",
+        "onboard_time": 1732597820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11307,
+        "num": 329111,
+        "word": "闫妮说小巷人家杀青那天我哭了",
+        "onboard_time": 1732599499,
+        "rank": 18,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 328112,
+        "num": 328112,
+        "word": "白鹿唐宫出妆",
+        "onboard_time": 1732594820,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318323,
+        "num": 318323,
+        "word": "麦乱时期的爱情",
+        "onboard_time": 1732596200,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258805,
+        "num": 311652,
+        "word": "山东将延长婚假至15天",
+        "onboard_time": 1732598599,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330787,
+        "num": 310752,
+        "word": "高中同学曝羊毛月文化成绩倒数",
+        "onboard_time": 1732588818,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136232,
+        "num": 310154,
+        "word": "邻居可视门铃拍到自家能让拆除吗",
+        "onboard_time": 1732597820,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309759,
+        "num": 309759,
+        "word": "儿子在校一餐花8元妈妈心疼落泪",
+        "onboard_time": 1732599199,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290583,
+        "num": 290583,
+        "word": "光遇复刻",
+        "onboard_time": 1732594760,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252584,
+        "num": 252584,
+        "word": "特朗普宣布对墨加商品征收25%关税",
+        "onboard_time": 1732586778,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169727,
+        "num": 251346,
+        "word": "孟佳是偷偷报了什么表演班吗",
+        "onboard_time": 1732599319,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63345,
+        "num": 250666,
+        "word": "永夜星河25天进入拉新榜前十",
+        "onboard_time": 1732598239,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37530,
+        "num": 250557,
+        "word": "于正短剧吉天照是双男主",
+        "onboard_time": 1732593859,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250520,
+        "num": 250520,
+        "word": "要求短剧不以霸总之类字眼作为片名",
+        "onboard_time": 1732590438,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218769,
+        "num": 218769,
+        "word": "iPhone17Pro系列或迎重大设计变更",
+        "onboard_time": 1732585398,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212717,
+        "num": 212717,
+        "word": "爱不离厕永久禁言",
+        "onboard_time": 1732598899,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206436,
+        "num": 206436,
+        "word": "白鹿王星越唐宫开机",
+        "onboard_time": 1732599019,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202380,
+        "num": 202380,
+        "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
+        "onboard_time": 1732578136,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182055,
+        "num": 182055,
+        "word": "威少单节24分",
+        "onboard_time": 1732598718,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172415,
+        "num": 172415,
+        "word": "医生眼中皮肤就是情绪的镜子",
+        "onboard_time": 1732585578,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122936,
+        "num": 167925,
+        "word": "结石姐高估我们的水平了",
+        "onboard_time": 1732597999,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167100,
+        "num": 167100,
+        "word": "丁禹兮谈工作不带助理",
+        "onboard_time": 1732589059,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156505,
+        "num": 156505,
+        "word": "原神蓝砚",
+        "onboard_time": 1732596683,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154710,
+        "num": 154710,
+        "word": "13年前微信安装包仅457KB",
+        "onboard_time": 1732585338,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149561,
+        "num": 149561,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146237,
+        "num": 146237,
+        "word": "肖战callback五年前的自己",
+        "onboard_time": 1732593800,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138904,
+        "num": 138904,
+        "word": "小巷人家 谢幕和登场只在一个转场",
+        "onboard_time": 1732594880,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122997,
+        "num": 122997,
+        "word": "羊毛月曾回应蹭北大",
+        "onboard_time": 1732599559,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116211,
+        "num": 116211,
+        "word": "胖东来内部移风易俗已是传统",
+        "onboard_time": 1732591879,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114421,
+        "num": 114421,
+        "word": "新疆妈妈眼里的有效装修",
+        "onboard_time": 1732598657,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67847,
+        "num": 113417,
+        "word": "火车站回应2候车室只开1个旅客坐地",
+        "onboard_time": 1732597399,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112721,
+        "num": 112721,
+        "word": "丁禹兮海岛版拍摄现场",
+        "onboard_time": 1732599618,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111064,
+        "num": 111064,
+        "word": "王一博出道十周年是一个起点",
+        "onboard_time": 1732598059,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行纪实#"
+    }
+  }
+}
