@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732632195944,
+  "endTime": 1732634776574,
   "band_list": [
     {
       "raw_hot": 2180735,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 940322,
+      "num": 1150451,
+      "word": "妇联通报小女孩常坐光棍怀里",
+      "onboard_time": 1732632501,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 916190,
       "num": 1146590,
       "word": "尊界S800",
@@ -393,6 +401,14 @@
       "onboard_time": 1732577595,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683528,
+      "num": 683528,
+      "word": "初雪",
+      "onboard_time": 1732631240,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 667076,
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425161,
+      "num": 311139,
+      "word": "邱贻可吃上黑天鹅蛋糕了",
+      "onboard_time": 1732632080,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421824,
       "num": 82844,
       "word": "被野猪顶撞撕咬老人家属发声",
@@ -883,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311145,
+      "num": 311145,
+      "word": "大冰停播43天后复播",
+      "onboard_time": 1732633819,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 309731,
       "num": 412980,
       "word": "王一博杂志",
@@ -897,14 +929,6 @@
       "onboard_time": 1732588879,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292797,
-      "num": 292797,
-      "word": "初雪",
-      "onboard_time": 1732631240,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286887,
@@ -945,6 +969,14 @@
       "onboard_time": 1732577296,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 280341,
+      "num": 263327,
+      "word": "Faker直播谈Zeus",
+      "onboard_time": 1732632740,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 279663,
@@ -1427,6 +1459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204972,
+      "num": 204972,
+      "word": "天津下雪",
+      "onboard_time": 1732632740,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204151,
       "num": 458750,
       "word": "柯南白月光级最美剧场版",
@@ -1723,6 +1763,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 177670,
+      "num": 177670,
+      "word": "Irene 红秀",
+      "onboard_time": 1732633399,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 176377,
       "num": 161225,
       "word": "任何人都不该受到任何形式的校园霸凌",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1732623377,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175118,
+      "num": 215495,
+      "word": "丁禹兮壁纸",
+      "onboard_time": 1732633639,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 175033,
@@ -1867,6 +1923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 160422,
+      "num": 218875,
+      "word": "雪雪雪我雪雪雪",
+      "onboard_time": 1732631060,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158434,
       "num": 158434,
       "word": "微信瘦身后仍保留普通画质图片视频",
@@ -1987,14 +2051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145418,
-      "num": 145418,
-      "word": "邱贻可吃上黑天鹅蛋糕了",
-      "onboard_time": 1732632080,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145012,
       "num": 145012,
       "word": "红枫原色摄像头",
@@ -2112,6 +2168,14 @@
       "word": "邻居可视门铃拍到自家能让拆除吗",
       "onboard_time": 1732597820,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135958,
+      "num": 397480,
+      "word": "捐赠相册美国小伙计划长期留在中国",
+      "onboard_time": 1732630940,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -2268,7 +2332,7 @@
     },
     {
       "raw_hot": 120644,
-      "num": 293218,
+      "num": 311144,
       "word": "辽大回应将扫雪与奖学金挂钩",
       "onboard_time": 1732631600,
       "rank": 22,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1732544721,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116895,
+      "num": 116895,
+      "word": "未发现坐男子怀里小女孩受到侵害",
+      "onboard_time": 1732632438,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116073,
@@ -2427,6 +2499,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 112918,
+      "num": 112918,
+      "word": "对麦琳的声讨不应是再见爱人的看点",
+      "onboard_time": 1732633819,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112721,
       "num": 112721,
       "word": "丁禹兮海岛版拍摄现场",
@@ -2441,14 +2521,6 @@
       "onboard_time": 1732595960,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110497,
-      "num": 397480,
-      "word": "捐赠相册美国小伙计划长期留在中国",
-      "onboard_time": 1732630940,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110160,
@@ -2475,11 +2547,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107589,
+      "num": 107589,
+      "word": "李一桐聊针清经历",
+      "onboard_time": 1732633279,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107574,
       "num": 237027,
       "word": "开启智能辅助驾驶模式后驾驶员睡着了",
       "onboard_time": 1732593320,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107503,
+      "num": 311135,
+      "word": "迪士尼客服回应电动轮椅扎堆",
+      "onboard_time": 1732632979,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2571,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98121,
+      "num": 98121,
+      "word": "美国蛋价飙涨超50%",
+      "onboard_time": 1732634419,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97591,
       "num": 178009,
       "word": "精子库捐精志愿者合格率仅20%",
@@ -2635,12 +2731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92422,
+      "num": 92422,
+      "word": "为什么冬天更爱吃火锅",
+      "onboard_time": 1732633938,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 91704,
       "num": 312922,
       "word": "祝绪丹对自己的唱功一无所知",
       "onboard_time": 1732613779,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91515,
+      "num": 91515,
+      "word": "深潜",
+      "onboard_time": 1732634539,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 89265,
@@ -2697,6 +2809,14 @@
       "onboard_time": 1732606340,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 83914,
+      "num": 83914,
+      "word": "朱珠回复网友慵懒穿搭公式",
+      "onboard_time": 1732634718,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 83142,
@@ -3041,14 +3161,6 @@
       "onboard_time": 1732613539,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 52996,
-      "num": 218875,
-      "word": "雪雪雪我雪雪雪",
-      "onboard_time": 1732631060,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51684,
@@ -3825,6 +3937,14 @@
       "onboard_time": 1732553714,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 19041,
+      "num": 311134,
+      "word": "电影好东西在老破小打开新世界",
+      "onboard_time": 1732633459,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 19031,
