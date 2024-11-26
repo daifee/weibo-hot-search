@@ -1,0 +1,410 @@
+{
+  "runTime": 1732625182859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214308,
+        "num": 1214308,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854326,
+        "num": 854326,
+        "word": "52岁TVB演员戴耀明餐厅打工",
+        "onboard_time": 1732621878,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24614,
+        "num": 834447,
+        "word": "曾遨游太空的五星红旗在三沙升起",
+        "onboard_time": 1732605618,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 829709,
+        "num": 829709,
+        "word": "央财硕士称一年工资不如网红一条广告",
+        "onboard_time": 1732623558,
+        "rank": 3,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 342307,
+        "num": 342307,
+        "word": "女子扫描中奖二维码损失50万",
+        "onboard_time": 1732619298,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380890,
+        "num": 329057,
+        "word": "山东淄博职业学院通报",
+        "onboard_time": 1732601959,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 534553,
+        "num": 322909,
+        "word": "Angelababy高开叉黑色裙装",
+        "onboard_time": 1732619959,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 467600,
+        "num": 295671,
+        "word": "赵露思新剧依然是自己化妆",
+        "onboard_time": 1732616418,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109661,
+        "num": 283154,
+        "word": "1500g羽绒被成本至少1100元",
+        "onboard_time": 1732623918,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270025,
+        "num": 270025,
+        "word": "黄冈58岁高三教师宿舍离世教育局介入",
+        "onboard_time": 1732623918,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 535290,
+        "num": 268085,
+        "word": "北大本科生 羊毛月",
+        "onboard_time": 1732622899,
+        "rank": 10,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 478421,
+        "num": 252935,
+        "word": "偶遇Angelababy香港吃火锅",
+        "onboard_time": 1732621878,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378999,
+        "num": 245636,
+        "word": "内鱼之花钱了你让让我吧 禁言",
+        "onboard_time": 1732619059,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28940,
+        "num": 236566,
+        "word": "律师解读野猪咬死人捕猎队或担刑责",
+        "onboard_time": 1732624038,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336213,
+        "num": 218114,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215956,
+        "num": 215956,
+        "word": "广州调整住房公积金政策",
+        "onboard_time": 1732624278,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214062,
+        "num": 214062,
+        "word": "94岁巴菲特公布后事安排",
+        "onboard_time": 1732613238,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172196,
+        "num": 213829,
+        "word": "国行Switch停止网络服务",
+        "onboard_time": 1732615639,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41017,
+        "num": 213459,
+        "word": "白夜破晓导演谈案件难度降低",
+        "onboard_time": 1732624519,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133217,
+        "num": 213305,
+        "word": "赵露思横店甜品店闭店",
+        "onboard_time": 1732624698,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594826,
+        "num": 212981,
+        "word": "鹿晗工作室在线找人",
+        "onboard_time": 1732617439,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326055,
+        "num": 212787,
+        "word": "林一回应暗恋的人成了大明星",
+        "onboard_time": 1732610840,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228254,
+        "num": 212352,
+        "word": "权志龙点赞闵熙珍ins",
+        "onboard_time": 1732621037,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212228,
+        "num": 212228,
+        "word": "志愿者发现冰柜装满被剥皮的猫狗尸体",
+        "onboard_time": 1732607299,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208455,
+        "num": 208455,
+        "word": "MilkLove二搭",
+        "onboard_time": 1732624338,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200076,
+        "num": 200076,
+        "word": "羊毛月隐藏多条视频",
+        "onboard_time": 1732619177,
+        "rank": 25,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 184146,
+        "num": 184146,
+        "word": "游客称喝过免费酒的女生整夜呕吐",
+        "onboard_time": 1732615039,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175528,
+        "num": 175528,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163870,
+        "num": 163870,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157120,
+        "num": 157120,
+        "word": "黑龙江一地中小学停课",
+        "onboard_time": 1732624219,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17250,
+        "num": 156322,
+        "word": "虞书欣首本大刊封面彩蛋是荣耀300",
+        "onboard_time": 1732622958,
+        "rank": 30,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 471706,
+        "num": 156319,
+        "word": "美国两囚犯没有身体接触却有了孩子",
+        "onboard_time": 1732624399,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185061,
+        "num": 156165,
+        "word": "TXT跳苹果香",
+        "onboard_time": 1732624519,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155996,
+        "num": 155996,
+        "word": "儿子在校一餐花8元妈妈心疼落泪",
+        "onboard_time": 1732599199,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149894,
+        "num": 149894,
+        "word": "对麦琳的讨论不该上升至人品人格",
+        "onboard_time": 1732623499,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148559,
+        "num": 148559,
+        "word": "Xinyi说不恨Doinb",
+        "onboard_time": 1732621217,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140566,
+        "num": 140566,
+        "word": "汪苏泷徐志胜李雪琴李嘉琦互换头像",
+        "onboard_time": 1732620139,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133893,
+        "num": 133893,
+        "word": "尊界S800内饰",
+        "onboard_time": 1732619118,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186192,
+        "num": 131481,
+        "word": "虞书欣直播",
+        "onboard_time": 1732624099,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138125,
+        "num": 130261,
+        "word": "GMM",
+        "onboard_time": 1732620258,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128839,
+        "num": 128839,
+        "word": "丁禹兮进组三天请了四顿",
+        "onboard_time": 1732621998,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119174,
+        "num": 119174,
+        "word": "张本智和说自己世界排名大概第6",
+        "onboard_time": 1732616299,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109863,
+        "num": 109863,
+        "word": "赵小童忙碌却十分充实愉快",
+        "onboard_time": 1732624879,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133363,
+        "num": 109131,
+        "word": "虞书欣称最想和金秀贤合作",
+        "onboard_time": 1732614199,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107257,
+        "num": 107257,
+        "word": "杨幂郭敬明素颜自拍照",
+        "onboard_time": 1732625059,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101590,
+        "num": 101590,
+        "word": "尊界S800",
+        "onboard_time": 1732613718,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98063,
+        "num": 98063,
+        "word": "那我的微博还发啥 干脆删号算了",
+        "onboard_time": 1732608260,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97591,
+        "num": 97591,
+        "word": "精子库捐精志愿者合格率仅20%",
+        "onboard_time": 1732625118,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95794,
+        "num": 95794,
+        "word": "95后个体户律师月入五百贷款上班",
+        "onboard_time": 1732621698,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94285,
+        "num": 94285,
+        "word": "求婚是唯一一件下跪就能办成的事",
+        "onboard_time": 1732601120,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#美丽中国的绿色密码#"
+    }
+  }
+}

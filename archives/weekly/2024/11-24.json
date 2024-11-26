@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732620965223,
+  "endTime": 1732625182859,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 854326,
+      "num": 854326,
+      "word": "52岁TVB演员戴耀明餐厅打工",
+      "onboard_time": 1732621878,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 842788,
       "num": 496756,
       "word": "看因果报应要签保密协议",
@@ -697,6 +705,14 @@
       "onboard_time": 1732519398,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 829709,
+      "num": 829709,
+      "word": "央财硕士称一年工资不如网红一条广告",
+      "onboard_time": 1732623558,
+      "rank": 3,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 829668,
@@ -1507,6 +1523,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 535290,
+      "num": 268085,
+      "word": "北大本科生 羊毛月",
+      "onboard_time": 1732622899,
+      "rank": 10,
+      "category": "网红,舆论监督"
+    },
+    {
+      "raw_hot": 534553,
+      "num": 394518,
+      "word": "Angelababy高开叉黑色裙装",
+      "onboard_time": 1732619959,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 526496,
       "num": 526496,
       "word": "微信将14天后自动清理原图原视频",
@@ -1699,6 +1731,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 478421,
+      "num": 252935,
+      "word": "偶遇Angelababy香港吃火锅",
+      "onboard_time": 1732621878,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477807,
       "num": 477807,
       "word": "向佐的起床闹钟是女儿的巴掌",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1732586778,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 471706,
+      "num": 156319,
+      "word": "美国两囚犯没有身体接触却有了孩子",
+      "onboard_time": 1732624399,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 464273,
@@ -2025,14 +2073,6 @@
       "onboard_time": 1732415897,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 394518,
-      "num": 394518,
-      "word": "Angelababy高开叉黑色裙装",
-      "onboard_time": 1732619959,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 391102,
@@ -2377,6 +2417,14 @@
       "onboard_time": 1732563611,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 342307,
+      "num": 342307,
+      "word": "女子扫描中奖二维码损失50万",
+      "onboard_time": 1732619298,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341851,
@@ -2947,6 +2995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270025,
+      "num": 270025,
+      "word": "黄冈58岁高三教师宿舍离世教育局介入",
+      "onboard_time": 1732623918,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 269286,
       "num": 269286,
       "word": "警方通报景德镇发现一具中年男尸",
@@ -3483,6 +3539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228254,
+      "num": 212352,
+      "word": "权志龙点赞闵熙珍ins",
+      "onboard_time": 1732621037,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228078,
       "num": 254552,
       "word": "肖战callback五年前的自己",
@@ -3763,6 +3827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 215956,
+      "num": 215956,
+      "word": "广州调整住房公积金政策",
+      "onboard_time": 1732624278,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215861,
       "num": 215861,
       "word": "陈牧驰孔雪儿首搭演情侣",
@@ -3865,6 +3937,14 @@
       "onboard_time": 1732615339,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208455,
+      "num": 208455,
+      "word": "MilkLove二搭",
+      "onboard_time": 1732624338,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 207922,
@@ -4145,6 +4225,14 @@
       "onboard_time": 1732504518,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200076,
+      "num": 225136,
+      "word": "羊毛月隐藏多条视频",
+      "onboard_time": 1732619177,
+      "rank": 23,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 199865,
@@ -4699,6 +4787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186192,
+      "num": 131481,
+      "word": "虞书欣直播",
+      "onboard_time": 1732624099,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "魏晨音乐节现场",
@@ -4721,6 +4817,14 @@
       "onboard_time": 1732445299,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185061,
+      "num": 156165,
+      "word": "TXT跳苹果香",
+      "onboard_time": 1732624519,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 184618,
@@ -4947,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175528,
+      "num": 175528,
+      "word": "伊能静评价再见爱人里的女性角色",
+      "onboard_time": 1732623377,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175033,
       "num": 175033,
       "word": "华为MateX6到手即可升级原生鸿蒙",
@@ -5081,14 +5193,6 @@
       "onboard_time": 1732523538,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170292,
-      "num": 225136,
-      "word": "羊毛月隐藏多条视频",
-      "onboard_time": 1732619177,
-      "rank": 23,
-      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 170225,
@@ -5507,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157120,
+      "num": 157120,
+      "word": "黑龙江一地中小学停课",
+      "onboard_time": 1732624219,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "许昕再回应对王楚钦的车尾灯评价",
@@ -5771,12 +5883,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149894,
+      "num": 149894,
+      "word": "对麦琳的讨论不该上升至人品人格",
+      "onboard_time": 1732623499,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "十个勤天广州演唱会现场",
       "onboard_time": 1732461140,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148559,
+      "num": 148559,
+      "word": "Xinyi说不恨Doinb",
+      "onboard_time": 1732621217,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 148268,
@@ -6211,6 +6339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133217,
+      "num": 213305,
+      "word": "赵露思横店甜品店闭店",
+      "onboard_time": 1732624698,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133103,
       "num": 271229,
       "word": "麦琳提议钱继续给她管",
@@ -6345,6 +6481,14 @@
       "onboard_time": 1732438940,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128839,
+      "num": 128839,
+      "word": "丁禹兮进组三天请了四顿",
+      "onboard_time": 1732621998,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 128808,
@@ -6745,14 +6889,6 @@
       "onboard_time": 1732498577,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120018,
-      "num": 120018,
-      "word": "女子扫描中奖二维码损失50万",
-      "onboard_time": 1732619298,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119877,
@@ -7275,6 +7411,22 @@
       "category": "音乐,演出"
     },
     {
+      "raw_hot": 109863,
+      "num": 109863,
+      "word": "赵小童忙碌却十分充实愉快",
+      "onboard_time": 1732624879,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109661,
+      "num": 283154,
+      "word": "1500g羽绒被成本至少1100元",
+      "onboard_time": 1732623918,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109501,
       "num": 139919,
       "word": "赵丽颖工作室公示告黑进展",
@@ -7345,6 +7497,14 @@
       "onboard_time": 1732455921,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107257,
+      "num": 107257,
+      "word": "杨幂郭敬明素颜自拍照",
+      "onboard_time": 1732625059,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 107232,
@@ -7595,6 +7755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97591,
+      "num": 97591,
+      "word": "精子库捐精志愿者合格率仅20%",
+      "onboard_time": 1732625118,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97353,
       "num": 97353,
       "word": "永夜星河",
@@ -7665,6 +7833,14 @@
       "onboard_time": 1732611919,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 95794,
+      "num": 95794,
+      "word": "95后个体户律师月入五百贷款上班",
+      "onboard_time": 1732621698,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94858,
@@ -9251,6 +9427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41017,
+      "num": 213459,
+      "word": "白夜破晓导演谈案件难度降低",
+      "onboard_time": 1732624519,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40849,
       "num": 68212,
       "word": "鹿晗音乐节背影照",
@@ -9851,6 +10035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28940,
+      "num": 236566,
+      "word": "律师解读野猪咬死人捕猎队或担刑责",
+      "onboard_time": 1732624038,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28850,
       "num": 144181,
       "word": "荣耀赵明评价华为Mate70发布",
@@ -10409,6 +10601,14 @@
       "onboard_time": 1732555393,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17250,
+      "num": 156322,
+      "word": "虞书欣首本大刊封面彩蛋是荣耀300",
+      "onboard_time": 1732622958,
+      "rank": 30,
+      "category": "作品衍生,数码"
     },
     {
       "raw_hot": 17201,
