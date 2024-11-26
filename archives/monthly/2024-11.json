@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732635690153,
+  "endTime": 1732638669319,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -8627,6 +8627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 770187,
+      "num": 888854,
+      "word": "初雪",
+      "onboard_time": 1732631240,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 770028,
       "num": 770028,
       "word": "求婚是唯一一件下跪就能办成的事",
@@ -10241,14 +10249,6 @@
       "onboard_time": 1732117699,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 683528,
-      "num": 683528,
-      "word": "初雪",
-      "onboard_time": 1732631240,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 683516,
@@ -22731,6 +22731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332556,
+      "num": 332556,
+      "word": "虞书欣带货力",
+      "onboard_time": 1732636577,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332520,
       "num": 332520,
       "word": "许凯的评论区",
@@ -23977,6 +23985,14 @@
       "onboard_time": 1732458621,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 310710,
+      "num": 201348,
+      "word": "狗狗吞一嘴蓝莓一个没敢吃",
+      "onboard_time": 1732635377,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 310559,
@@ -30051,6 +30067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239598,
+      "num": 239598,
+      "word": "雪雪雪我雪雪雪",
+      "onboard_time": 1732631060,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239512,
       "num": 239512,
       "word": "Doinb和Tian疑似和解",
@@ -31664,6 +31688,14 @@
       "word": "蔡徐坤上海人气",
       "onboard_time": 1731852261,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224884,
+      "num": 197516,
+      "word": "权志龙头巾",
+      "onboard_time": 1732636758,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -36305,6 +36337,14 @@
       "onboard_time": 1730961202,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201448,
+      "num": 201448,
+      "word": "美国蛋价飙涨超50%",
+      "onboard_time": 1732634419,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 201399,
@@ -44475,14 +44515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172022,
-      "num": 218875,
-      "word": "雪雪雪我雪雪雪",
-      "onboard_time": 1732631060,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171985,
       "num": 171985,
       "word": "张本智和称有望战胜王楚钦",
@@ -48913,14 +48945,6 @@
       "onboard_time": 1731121518,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 156980,
-      "num": 144603,
-      "word": "狗狗吞一嘴蓝莓一个没敢吃",
-      "onboard_time": 1732635377,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 156973,
@@ -59115,6 +59139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121551,
+      "num": 113570,
+      "word": "内鱼在逃小仙女永久禁言",
+      "onboard_time": 1732636096,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121546,
       "num": 157108,
       "word": "SBS阵容",
@@ -59273,14 +59305,6 @@
       "onboard_time": 1732083379,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120926,
-      "num": 120926,
-      "word": "美国蛋价飙涨超50%",
-      "onboard_time": 1732634419,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 120925,
@@ -65827,6 +65851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90741,
+      "num": 90741,
+      "word": "朱志鑫拍2024的初雪",
+      "onboard_time": 1732636697,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90739,
       "num": 248085,
       "word": "黄子弘凡沉溺感封面预告",
@@ -69235,6 +69267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70732,
+      "num": 237191,
+      "word": "北京这雪厚度能写艺术字了",
+      "onboard_time": 1732635138,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70719,
       "num": 70719,
       "word": "mlxg和无状态复盘红温",
@@ -69769,6 +69809,14 @@
       "onboard_time": 1731443711,
       "rank": 49,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 68021,
+      "num": 100515,
+      "word": "孙悦说时间是个好东西",
+      "onboard_time": 1732638076,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 68007,
@@ -70491,6 +70539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65019,
+      "num": 65019,
+      "word": "华为matex6上手体验",
+      "onboard_time": 1732638016,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65016,
       "num": 353457,
       "word": "麦琳为何会引发如此轰动效应",
@@ -70529,6 +70585,14 @@
       "onboard_time": 1731658579,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64805,
+      "num": 64805,
+      "word": "辛选致歉",
+      "onboard_time": 1732637477,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64800,
@@ -71073,6 +71137,14 @@
       "onboard_time": 1732334418,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61927,
+      "num": 61927,
+      "word": "川渝火锅进入全球80多个国家",
+      "onboard_time": 1732637298,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 61896,
@@ -72579,6 +72651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 56171,
+      "num": 56171,
+      "word": "好东西票房破2亿",
+      "onboard_time": 1732638617,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56154,
       "num": 313217,
       "word": "WTT福冈总决赛双打参赛名单出炉",
@@ -73145,6 +73225,14 @@
       "onboard_time": 1731180252,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54117,
+      "num": 191223,
+      "word": "刘连舸一审被判死缓",
+      "onboard_time": 1732638436,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54091,
@@ -80107,14 +80195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32855,
-      "num": 237191,
-      "word": "北京这雪厚度能写艺术字了",
-      "onboard_time": 1732635138,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32850,
       "num": 42519,
       "word": "台风来袭福建出现绝美火烧云",
@@ -83089,6 +83169,14 @@
       "onboard_time": 1732224550,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 26221,
+      "num": 356699,
+      "word": "中国天眼发现脉冲星已超1000颗",
+      "onboard_time": 1732626859,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26202,
