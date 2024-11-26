@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732609854026,
+  "endTime": 1732610704455,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -7331,6 +7331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 841447,
+      "num": 610740,
+      "word": "体育总局体操中心回应吴柳芳事件",
+      "onboard_time": 1732604299,
+      "rank": 23,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 841072,
       "num": 1218057,
       "word": "有家暴倾向的人大多有13个特征",
@@ -11187,14 +11195,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 641222,
-      "num": 600580,
-      "word": "体育总局体操中心回应吴柳芳事件",
-      "onboard_time": 1732604299,
-      "rank": 23,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 641171,
       "num": 609999,
       "word": "内地游客香港换钱被骂穷",
@@ -14515,6 +14515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 522821,
+      "num": 522821,
+      "word": "华为Mate70配置",
+      "onboard_time": 1732608319,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 522707,
       "num": 467215,
       "word": "永夜星河求加更",
@@ -15875,6 +15883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482579,
+      "num": 573929,
+      "word": "上海迪士尼",
+      "onboard_time": 1732605799,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482543,
       "num": 352280,
       "word": "李行亮买青团细节",
@@ -16715,14 +16731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457495,
-      "num": 457495,
-      "word": "上海迪士尼",
-      "onboard_time": 1732605799,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 457398,
       "num": 475208,
       "word": "朋友请听好3回归",
@@ -17185,14 +17193,6 @@
       "onboard_time": 1732030340,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444962,
-      "num": 444962,
-      "word": "华为Mate70配置",
-      "onboard_time": 1732608319,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 444924,
@@ -20643,6 +20643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367518,
+      "num": 483201,
+      "word": "解放军回应美军机过航台湾海峡",
+      "onboard_time": 1732606579,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 367157,
       "num": 363392,
       "word": "张予曦妈生小舞脸",
@@ -20873,14 +20881,6 @@
       "onboard_time": 1732166961,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362912,
-      "num": 483201,
-      "word": "解放军回应美军机过航台湾海峡",
-      "onboard_time": 1732606579,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 362834,
@@ -21225,6 +21225,14 @@
       "onboard_time": 1732351519,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355222,
+      "num": 355222,
+      "word": "志愿者发现冰柜装满被剥皮的猫狗尸体",
+      "onboard_time": 1732607299,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 355069,
@@ -27619,14 +27627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259271,
-      "num": 259271,
-      "word": "志愿者发现冰柜装满被剥皮的猫狗尸体",
-      "onboard_time": 1732607299,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259212,
       "num": 249804,
       "word": "人生不设限的一博为金鸡再添热烈",
@@ -28921,6 +28921,14 @@
       "onboard_time": 1731304938,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246959,
+      "num": 246959,
+      "word": "麒麟9020",
+      "onboard_time": 1732610239,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 246938,
@@ -33371,6 +33379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211337,
+      "num": 471921,
+      "word": "虞书欣把自我二字推到顶",
+      "onboard_time": 1732609818,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211261,
       "num": 416867,
       "word": "李行亮干翻扬子霸总人设",
@@ -34297,6 +34313,14 @@
       "onboard_time": 1731036800,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206919,
+      "num": 206919,
+      "word": "Mate70全系侧边指纹",
+      "onboard_time": 1732609759,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 206852,
@@ -37691,6 +37715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194919,
+      "num": 194919,
+      "word": "多国游客疑在老挝喝到假酒去世",
+      "onboard_time": 1732610119,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 194915,
       "num": 236021,
       "word": "邵子恒一公舞台",
@@ -37961,6 +37993,14 @@
       "onboard_time": 1731476061,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193981,
+      "num": 193981,
+      "word": "华为MateX6",
+      "onboard_time": 1732610600,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 193959,
@@ -41619,6 +41659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180672,
+      "num": 180672,
+      "word": "微博崩了",
+      "onboard_time": 1732610660,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 180654,
       "num": 180654,
       "word": "慕子期 还以为我也被爱了呢",
@@ -43025,6 +43073,14 @@
       "onboard_time": 1732162398,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175033,
+      "num": 175033,
+      "word": "华为MateX6到手即可升级原生鸿蒙",
+      "onboard_time": 1732610179,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 175006,
@@ -55963,14 +56019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129551,
-      "num": 471921,
-      "word": "虞书欣把自我二字推到顶",
-      "onboard_time": 1732609818,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129549,
       "num": 149397,
       "word": "卓沅吃火锅报备",
@@ -65835,6 +65883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84500,
+      "num": 565778,
+      "word": "华为Mate70全系配色",
+      "onboard_time": 1732606340,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84484,
       "num": 100662,
       "word": "王亚民涉嫌严重违纪违法被查",
@@ -68635,14 +68691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68402,
-      "num": 552694,
-      "word": "华为Mate70全系配色",
-      "onboard_time": 1732606340,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 68392,
       "num": 295932,
       "word": "武汉警方回应博主在天兴洲捡到人骨",
@@ -70521,6 +70569,14 @@
       "onboard_time": 1732212432,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60130,
+      "num": 542415,
+      "word": "金价大涨不少中小企业离场",
+      "onboard_time": 1732608618,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60072,
@@ -72433,14 +72489,6 @@
       "onboard_time": 1731431234,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52372,
-      "num": 542415,
-      "word": "金价大涨不少中小企业离场",
-      "onboard_time": 1732608618,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52334,
@@ -77491,6 +77539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36415,
+      "num": 561732,
+      "word": "华为Mate70全球首发卫星寻呼",
+      "onboard_time": 1732608079,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36388,
       "num": 166779,
       "word": "中国黄岩岛上空现双彩虹景观",
@@ -78867,6 +78923,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 32857,
+      "num": 366630,
+      "word": "魏大勋 一款广告人的嘴替",
+      "onboard_time": 1732610600,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32850,
       "num": 42519,
       "word": "台风来袭福建出现绝美火烧云",
@@ -80043,14 +80107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30144,
-      "num": 561732,
-      "word": "华为Mate70全球首发卫星寻呼",
-      "onboard_time": 1732608079,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 30101,
       "num": 329649,
       "word": "荣耀Magic7镜头里的毛晓彤",
@@ -81027,6 +81083,14 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 27891,
+      "num": 195325,
+      "word": "Mate70RS皓白陶瓷质感绝了",
+      "onboard_time": 1732610358,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27854,
       "num": 471931,
       "word": "官方调查检察官反映其儿子遭蒙冤关押",
@@ -81689,6 +81753,14 @@
       "onboard_time": 1731409586,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 26311,
+      "num": 458996,
+      "word": "TES官博关注Homme",
+      "onboard_time": 1732597939,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 26308,
@@ -82763,14 +82835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23784,
-      "num": 458996,
-      "word": "TES官博关注Homme",
-      "onboard_time": 1732597939,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 23765,
       "num": 186736,
       "word": "在浙江海岛骑行比citywalk还要火",
@@ -82995,6 +83059,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23310,
+      "num": 200806,
+      "word": "华为Mate70首发跨设备隔空传送",
+      "onboard_time": 1732610358,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23278,
       "num": 23278,
       "word": "广西大学回应副院长被指强奸女学生",
@@ -83075,6 +83147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23090,
+      "num": 565428,
+      "word": "成都混合团体世界杯倒计时5天",
+      "onboard_time": 1732609400,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23089,
       "num": 155828,
       "word": "提升冬天幸福感的数码好物",
@@ -83145,6 +83225,14 @@
       "onboard_time": 1732300872,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22962,
+      "num": 465007,
+      "word": "华为Mate70用红枫准没错",
+      "onboard_time": 1732608860,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 22935,
@@ -84321,14 +84409,6 @@
       "onboard_time": 1731834137,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20231,
-      "num": 465007,
-      "word": "华为Mate70用红枫准没错",
-      "onboard_time": 1732608860,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 20205,
@@ -85769,14 +85849,6 @@
       "onboard_time": 1732568111,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 16545,
-      "num": 565428,
-      "word": "成都混合团体世界杯倒计时5天",
-      "onboard_time": 1732609400,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 16542,
@@ -87611,6 +87683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11557,
+      "num": 362100,
+      "word": "冯彦哲感谢低谷",
+      "onboard_time": 1732610358,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11532,
       "num": 226253,
       "word": "黄晓明电影圈的满贯橡皮人",
@@ -88721,6 +88801,14 @@
       "onboard_time": 1731928159,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 6330,
+      "num": 173129,
+      "word": "懒人冬季健身实用法则",
+      "onboard_time": 1732610479,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6291,
