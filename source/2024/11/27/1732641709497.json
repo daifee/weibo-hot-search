@@ -1,0 +1,410 @@
+{
+  "runTime": 1732641709497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 372211,
+        "num": 498460,
+        "word": "初雪",
+        "onboard_time": 1732631240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216397,
+        "num": 216397,
+        "word": "鹅绒一吨100多万羽绒制品非贵即假",
+        "onboard_time": 1732638976,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20558,
+        "num": 196104,
+        "word": "中国天眼发现脉冲星已超1000颗",
+        "onboard_time": 1732626859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193938,
+        "num": 193938,
+        "word": "虞书欣带货力",
+        "onboard_time": 1732636577,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155271,
+        "num": 155271,
+        "word": "大冰停播43天后复播",
+        "onboard_time": 1732633819,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133610,
+        "num": 133610,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133825,
+        "num": 123455,
+        "word": "赵露思新剧依然是自己化妆",
+        "onboard_time": 1732616418,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108222,
+        "num": 108222,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103376,
+        "num": 103376,
+        "word": "研究生因扫雪不达标将取消评奖资格",
+        "onboard_time": 1732627519,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80330,
+        "num": 80330,
+        "word": "好东西票房破2亿",
+        "onboard_time": 1732638617,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165091,
+        "num": 80259,
+        "word": "狗狗吞一嘴蓝莓一个没敢吃",
+        "onboard_time": 1732635377,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150791,
+        "num": 77807,
+        "word": "权志龙头巾",
+        "onboard_time": 1732636758,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137598,
+        "num": 75525,
+        "word": "偶遇Angelababy香港吃火锅",
+        "onboard_time": 1732621878,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112106,
+        "num": 73662,
+        "word": "内鱼在逃小仙女永久禁言",
+        "onboard_time": 1732636096,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104380,
+        "num": 71530,
+        "word": "张凌赫田曦薇 平番",
+        "onboard_time": 1732625719,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91178,
+        "num": 69931,
+        "word": "Faker直播谈Zeus",
+        "onboard_time": 1732632740,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69674,
+        "num": 69674,
+        "word": "孙悦说时间是个好东西",
+        "onboard_time": 1732638076,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69165,
+        "num": 69165,
+        "word": "雪雪雪我雪雪雪",
+        "onboard_time": 1732631060,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24536,
+        "num": 64722,
+        "word": "王一博自有步调",
+        "onboard_time": 1732640834,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 36943,
+        "num": 62022,
+        "word": "下一个中国还是中国",
+        "onboard_time": 1732640953,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102298,
+        "num": 61985,
+        "word": "52岁TVB演员戴耀明餐厅打工",
+        "onboard_time": 1732621878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61038,
+        "num": 61038,
+        "word": "游客称喝过免费酒的女生整夜呕吐",
+        "onboard_time": 1732615039,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60991,
+        "num": 60991,
+        "word": "赵露思横店甜品店闭店",
+        "onboard_time": 1732624698,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58459,
+        "num": 58459,
+        "word": "北京这雪厚度能写艺术字了",
+        "onboard_time": 1732635138,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56829,
+        "num": 56829,
+        "word": "美国蛋价飙涨超50%",
+        "onboard_time": 1732634419,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55923,
+        "num": 55923,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1732625358,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37498,
+        "num": 55683,
+        "word": "军人一遍遍演练动作迎接烈士遗骸",
+        "onboard_time": 1732640175,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55658,
+        "num": 55658,
+        "word": "丁禹兮壁纸",
+        "onboard_time": 1732633639,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54330,
+        "num": 54330,
+        "word": "鹿晗工作室在线找人",
+        "onboard_time": 1732617439,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52664,
+        "num": 52664,
+        "word": "邱贻可吃上黑天鹅蛋糕了",
+        "onboard_time": 1732632080,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51891,
+        "num": 51891,
+        "word": "杨幂郭敬明素颜自拍照",
+        "onboard_time": 1732625059,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50152,
+        "num": 50152,
+        "word": "养女防老正成为农村养老新现象",
+        "onboard_time": 1732629800,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47520,
+        "num": 47520,
+        "word": "对麦琳的声讨不应是再见爱人的看点",
+        "onboard_time": 1732633819,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47363,
+        "num": 47363,
+        "word": "余承东称有人转账6万给他",
+        "onboard_time": 1732626559,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46861,
+        "num": 46861,
+        "word": "捐赠相册美国小伙计划长期留在中国",
+        "onboard_time": 1732630940,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46645,
+        "num": 46645,
+        "word": "王大发说檀健次不是顶流",
+        "onboard_time": 1732626438,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46316,
+        "num": 46316,
+        "word": "湘潭大学宿舍投毒案已移交法院",
+        "onboard_time": 1732625238,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46192,
+        "num": 46192,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45659,
+        "num": 45659,
+        "word": "虞书欣模仿黄油小熊",
+        "onboard_time": 1732641133,
+        "rank": 38,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 44966,
+        "num": 44966,
+        "word": "华为matex6上手体验",
+        "onboard_time": 1732638016,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64996,
+        "num": 43343,
+        "word": "辛选致歉",
+        "onboard_time": 1732637477,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41267,
+        "num": 41267,
+        "word": "森林进化论2",
+        "onboard_time": 1732641073,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39918,
+        "num": 39918,
+        "word": "美国两囚犯没有身体接触却有了孩子",
+        "onboard_time": 1732624399,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39618,
+        "num": 39618,
+        "word": "日本近海6.2级左右地震",
+        "onboard_time": 1732635377,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39429,
+        "num": 39429,
+        "word": "朱志鑫拍2024的初雪",
+        "onboard_time": 1732636697,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38901,
+        "num": 38901,
+        "word": "Irene 红秀",
+        "onboard_time": 1732633399,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38606,
+        "num": 38606,
+        "word": "丁禹兮新歌MV细节",
+        "onboard_time": 1732641194,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36912,
+        "num": 36912,
+        "word": "生双胞胎妈妈顺利产下3胞胎",
+        "onboard_time": 1732629679,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36271,
+        "num": 36271,
+        "word": "黄冈58岁高三教师宿舍离世教育局介入",
+        "onboard_time": 1732623918,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 35780,
+        "num": 35780,
+        "word": "广州调整住房公积金政策",
+        "onboard_time": 1732624278,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见萨摩亚总理#"
+    }
+  }
+}

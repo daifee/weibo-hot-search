@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732639643432,
+  "endTime": 1732641709497,
   "band_list": [
     {
       "raw_hot": 770187,
@@ -81,6 +81,14 @@
       "onboard_time": 1732636758,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216397,
+      "num": 216397,
+      "word": "鹅绒一吨100多万羽绒制品非贵即假",
+      "onboard_time": 1732638976,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216036,
@@ -283,6 +291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80330,
+      "num": 80330,
+      "word": "好东西票房破2亿",
+      "onboard_time": 1732638617,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79665,
       "num": 79665,
       "word": "余承东称有人转账6万给他",
@@ -305,14 +321,6 @@
       "onboard_time": 1732629679,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73731,
-      "num": 73731,
-      "word": "好东西票房破2亿",
-      "onboard_time": 1732638617,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 73156,
@@ -363,7 +371,7 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 64805,
+      "raw_hot": 64996,
       "num": 64805,
       "word": "辛选致歉",
       "onboard_time": 1732637477,
@@ -395,14 +403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47997,
-      "num": 169821,
-      "word": "鹅绒一吨100多万羽绒制品非贵即假",
-      "onboard_time": 1732638976,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45815,
       "num": 51991,
       "word": "武训中的鞠婧祎",
@@ -411,12 +411,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45659,
+      "num": 45659,
+      "word": "虞书欣模仿黄油小熊",
+      "onboard_time": 1732641133,
+      "rank": 38,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 41267,
+      "num": 41267,
+      "word": "森林进化论2",
+      "onboard_time": 1732641073,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38606,
+      "num": 38606,
+      "word": "丁禹兮新歌MV细节",
+      "onboard_time": 1732641194,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 37498,
+      "num": 55683,
+      "word": "军人一遍遍演练动作迎接烈士遗骸",
+      "onboard_time": 1732640175,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 36943,
+      "num": 62022,
+      "word": "下一个中国还是中国",
+      "onboard_time": 1732640953,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26868,
       "num": 356699,
       "word": "中国天眼发现脉冲星已超1000颗",
       "onboard_time": 1732626859,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24536,
+      "num": 64722,
+      "word": "王一博自有步调",
+      "onboard_time": 1732640834,
+      "rank": 18,
+      "category": "艺人,时尚"
     }
   ],
   "hotgov_list": [

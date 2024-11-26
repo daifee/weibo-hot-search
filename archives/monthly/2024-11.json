@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732639643432,
+  "endTime": 1732641709497,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -33001,6 +33001,14 @@
       "onboard_time": 1731760880,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216397,
+      "num": 216397,
+      "word": "鹅绒一吨100多万羽绒制品非贵即假",
+      "onboard_time": 1732638976,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216198,
@@ -67739,6 +67747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80330,
+      "num": 80330,
+      "word": "好东西票房破2亿",
+      "onboard_time": 1732638617,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80321,
       "num": 118457,
       "word": "黄雨婷又发旅行明信片了",
@@ -68849,14 +68865,6 @@
       "onboard_time": 1731542419,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73731,
-      "num": 73731,
-      "word": "好东西票房破2亿",
-      "onboard_time": 1732638617,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 73716,
@@ -70563,6 +70571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64996,
+      "num": 64805,
+      "word": "辛选致歉",
+      "onboard_time": 1732637477,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64968,
       "num": 219782,
       "word": "河南演员王一博上榜2024亚太U30杰出青年领袖",
@@ -70593,14 +70609,6 @@
       "onboard_time": 1731658579,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64805,
-      "num": 64805,
-      "word": "辛选致歉",
-      "onboard_time": 1732637477,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64800,
@@ -74891,14 +74899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47997,
-      "num": 169821,
-      "word": "鹅绒一吨100多万羽绒制品非贵即假",
-      "onboard_time": 1732638976,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47964,
       "num": 47964,
       "word": "劣质羽绒服不能保暖还危害身体健康",
@@ -75577,6 +75577,14 @@
       "onboard_time": 1732615399,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45659,
+      "num": 45659,
+      "word": "虞书欣模仿黄油小熊",
+      "onboard_time": 1732641133,
+      "rank": 38,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 45636,
@@ -76931,6 +76939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41267,
+      "num": 41267,
+      "word": "森林进化论2",
+      "onboard_time": 1732641073,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41249,
       "num": 530555,
       "word": "中美两个大国应该计天下利",
@@ -77907,6 +77923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38606,
+      "num": 38606,
+      "word": "丁禹兮新歌MV细节",
+      "onboard_time": 1732641194,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 38581,
       "num": 345962,
       "word": "被东北虎咬伤者事发地发现血迹",
@@ -78331,6 +78355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37498,
+      "num": 55683,
+      "word": "军人一遍遍演练动作迎接烈士遗骸",
+      "onboard_time": 1732640175,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37484,
       "num": 226713,
       "word": "双11法院拍卖豪宅低至0.6折",
@@ -78601,6 +78633,14 @@
       "onboard_time": 1731413363,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36943,
+      "num": 62022,
+      "word": "下一个中国还是中国",
+      "onboard_time": 1732640953,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36855,
@@ -83865,6 +83905,14 @@
       "onboard_time": 1730528957,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24536,
+      "num": 64722,
+      "word": "王一博自有步调",
+      "onboard_time": 1732640834,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 24527,
