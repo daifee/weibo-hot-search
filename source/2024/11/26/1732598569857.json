@@ -1,0 +1,410 @@
+{
+  "runTime": 1732598569857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1012958,
+        "num": 1162073,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611310,
+        "num": 611310,
+        "word": "山东婚假",
+        "onboard_time": 1732595300,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30685,
+        "num": 527067,
+        "word": "古人把一年四季画成交响乐",
+        "onboard_time": 1732589419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1353889,
+        "num": 523451,
+        "word": "上海闵行区一男子商场内坠亡",
+        "onboard_time": 1732594639,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1089270,
+        "num": 522259,
+        "word": "疑似再见爱人离职剪辑师爆料",
+        "onboard_time": 1732586298,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478639,
+        "num": 478639,
+        "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
+        "onboard_time": 1732596021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632569,
+        "num": 474124,
+        "word": "杨子开车窗",
+        "onboard_time": 1732590200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459503,
+        "num": 459503,
+        "word": "特朗普乱挥关税大棒",
+        "onboard_time": 1732586778,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142550,
+        "num": 459202,
+        "word": "我驻美使馆回应特朗普妄言加税",
+        "onboard_time": 1732597220,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57869,
+        "num": 455999,
+        "word": "火车站回应2候车室只开1个旅客坐地",
+        "onboard_time": 1732597399,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848023,
+        "num": 455690,
+        "word": "吴谨言挺孕肚跟洪尧出门",
+        "onboard_time": 1732587858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603678,
+        "num": 453338,
+        "word": "麦琳 烟瘾",
+        "onboard_time": 1732598478,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572617,
+        "num": 451681,
+        "word": "男子夜班看焚化炉睡9小时被开除",
+        "onboard_time": 1732587678,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450654,
+        "num": 450654,
+        "word": "市监所回应一份白粥200元",
+        "onboard_time": 1732584319,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 414858,
+        "num": 414858,
+        "word": "白鹿唐宫出妆",
+        "onboard_time": 1732594820,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477280,
+        "num": 414719,
+        "word": "广电总局要求加强对霸总微短剧管理",
+        "onboard_time": 1732587978,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396774,
+        "num": 412707,
+        "word": "麦乱时期的爱情",
+        "onboard_time": 1732596200,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412161,
+        "num": 412161,
+        "word": "高中同学曝羊毛月文化成绩倒数",
+        "onboard_time": 1732588818,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51234,
+        "num": 402802,
+        "word": "学弟喊话羊毛月别只顾着薅北大",
+        "onboard_time": 1732597279,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119859,
+        "num": 401897,
+        "word": "邻居可视门铃拍到自家能让拆除吗",
+        "onboard_time": 1732597820,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401288,
+        "num": 401288,
+        "word": "特朗普妄言对中国商品加征10%关税",
+        "onboard_time": 1732585578,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393807,
+        "num": 393807,
+        "word": "光遇复刻",
+        "onboard_time": 1732594760,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352040,
+        "num": 352040,
+        "word": "要求短剧不以霸总之类字眼作为片名",
+        "onboard_time": 1732590438,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106258,
+        "num": 324841,
+        "word": "Ning承认和Kid有差距",
+        "onboard_time": 1732593500,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 320826,
+        "num": 320826,
+        "word": "特朗普宣布对墨加商品征收25%关税",
+        "onboard_time": 1732586778,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319872,
+        "num": 319872,
+        "word": "魏子宸妈妈再发文",
+        "onboard_time": 1732597999,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305018,
+        "num": 305018,
+        "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
+        "onboard_time": 1732578136,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203785,
+        "num": 291336,
+        "word": "学校回应网传魏子宸遭校园霸凌",
+        "onboard_time": 1732597519,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284361,
+        "num": 284361,
+        "word": "原神蓝砚",
+        "onboard_time": 1732596683,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127150,
+        "num": 274823,
+        "word": "结石姐高估我们的水平了",
+        "onboard_time": 1732597999,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49633,
+        "num": 272402,
+        "word": "梁缘复刻白夜现场",
+        "onboard_time": 1732598419,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270370,
+        "num": 270370,
+        "word": "iPhone17Pro系列或迎重大设计变更",
+        "onboard_time": 1732585398,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201611,
+        "num": 201611,
+        "word": "医生眼中皮肤就是情绪的镜子",
+        "onboard_time": 1732585578,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200562,
+        "num": 200562,
+        "word": "丁禹兮谈工作不带助理",
+        "onboard_time": 1732589059,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195505,
+        "num": 195505,
+        "word": "王一博出道十周年是一个起点",
+        "onboard_time": 1732598059,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195293,
+        "num": 195293,
+        "word": "肖战和声编写",
+        "onboard_time": 1732597339,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177487,
+        "num": 177487,
+        "word": "13年前微信安装包仅457KB",
+        "onboard_time": 1732585338,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54158,
+        "num": 167311,
+        "word": "罗云熙剥茧路透",
+        "onboard_time": 1732595960,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158896,
+        "num": 158896,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156998,
+        "num": 156998,
+        "word": "黄梦莹斗罗2演周翊然妈妈",
+        "onboard_time": 1732597160,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174295,
+        "num": 156132,
+        "word": "肖战callback五年前的自己",
+        "onboard_time": 1732593800,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153478,
+        "num": 153478,
+        "word": "胖东来内部移风易俗已是传统",
+        "onboard_time": 1732591879,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152803,
+        "num": 152803,
+        "word": "教育局回应被民警踢打学生涉霸凌",
+        "onboard_time": 1732589599,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 88698,
+        "num": 147771,
+        "word": "永夜星河25天进入拉新榜前十",
+        "onboard_time": 1732598239,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147418,
+        "num": 147418,
+        "word": "小巷人家 谢幕和登场只在一个转场",
+        "onboard_time": 1732594880,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143385,
+        "num": 143385,
+        "word": "业内人说时代少年团会单飞",
+        "onboard_time": 1732589899,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139280,
+        "num": 139280,
+        "word": "王一博杂志",
+        "onboard_time": 1732594160,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135133,
+        "num": 135133,
+        "word": "我和我的命官宣",
+        "onboard_time": 1732593621,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133735,
+        "num": 133735,
+        "word": "凤凰组合首次登顶世界第一",
+        "onboard_time": 1732593380,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131709,
+        "num": 131709,
+        "word": "贺峻霖大点兵",
+        "onboard_time": 1732595058,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国外交与人民情怀#"
+    }
+  }
+}

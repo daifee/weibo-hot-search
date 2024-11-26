@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/26 12:43:05
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/26 13:22:49
 </p>
 </blockquote>
 <p>
@@ -2409,6 +2409,12 @@ TF四代魏子宸被校园霸凌（热度：1355170）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%97%B5%E8%A1%8C%E5%8C%BA%E4%B8%80%E7%94%B7%E5%AD%90%E5%95%86%E5%9C%BA%E5%86%85%E5%9D%A0%E4%BA%A1%23" target="weibo">
+上海闵行区一男子商场内坠亡（热度：1353889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%94%B0%E6%9B%A6%E8%96%87%E7%89%B5%E6%89%8B%E8%B5%B0%E7%A7%80%23" target="weibo">
 王鹤棣田曦薇牵手走秀（热度：1353662）
 </a>
@@ -3641,12 +3647,6 @@ BBC报道李子柒复出打上灰色滤镜（热度：1068516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%20%E6%AD%BB%E8%84%91%E5%BF%AB%E6%83%B3%E5%95%8A%23" target="weibo">
 黄圣依 死脑快想啊（热度：1068108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%97%B5%E8%A1%8C%E5%8C%BA%E4%B8%80%E7%94%B7%E5%AD%90%E5%95%86%E5%9C%BA%E5%86%85%E5%9D%A0%E4%BA%A1%23" target="weibo">
-上海闵行区一男子商场内坠亡（热度：1067863）
 </a>
 </li>
 
