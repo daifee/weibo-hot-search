@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/27 00:31:09 ~ 2024/11/27 03:19:21
+本榜单时间：2024/11/27 00:31:09 ~ 2024/11/27 03:36:04
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ Irene 红秀（热度：88585）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E9%A1%BE%E5%AD%A9%E5%AD%90%E5%93%80%E6%B1%82%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%23" target="weibo">
+男子不顾孩子哀求家暴妻子（热度：53838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%AE%AD%E4%B8%AD%E7%9A%84%E9%9E%A0%E5%A9%A7%E7%A5%8E%23" target="weibo">
 武训中的鞠婧祎（热度：45815）
 </a>
@@ -375,14 +381,14 @@ Irene 红秀（热度：88585）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E9%A1%BE%E5%AD%A9%E5%AD%90%E5%93%80%E6%B1%82%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%23" target="weibo">
-男子不顾孩子哀求家暴妻子（热度：31064）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%8F%91%E7%8E%B0%E8%84%89%E5%86%B2%E6%98%9F%E5%B7%B2%E8%B6%851000%E9%A2%97%23" target="weibo">
+中国天眼发现脉冲星已超1000颗（热度：26868）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%8F%91%E7%8E%B0%E8%84%89%E5%86%B2%E6%98%9F%E5%B7%B2%E8%B6%851000%E9%A2%97%23" target="weibo">
-中国天眼发现脉冲星已超1000颗（热度：26868）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%89%AF%E5%A4%84%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%95%BF%E6%9C%9F%E6%80%A7%E9%AA%9A%E6%89%B0%23" target="weibo">
+市监局回应副处长被举报长期性骚扰（热度：26648）
 </a>
 </li>
 
@@ -405,8 +411,8 @@ Irene 红秀（热度：88585）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%89%AF%E5%A4%84%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%95%BF%E6%9C%9F%E6%80%A7%E9%AA%9A%E6%89%B0%23" target="weibo">
-市监局回应副处长被举报长期性骚扰（热度：13313）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%98%E4%B8%91%E6%98%AF%E6%9C%89%E7%A7%91%E5%AD%A6%E4%BE%9D%E6%8D%AE%E7%9A%84%23" target="weibo">
+心情不好会让人变丑是有科学依据的（热度：11349）
 </a>
 </li>
 
@@ -436,7 +442,13 @@ Red女团回应首次曝光时被外界批评（热度：7016）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%A3%8D%E8%80%81%E9%93%B2%23" target="weibo">
-老棍老铲（热度：5709）
+老棍老铲（热度：6057）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%A7%B0%E9%AD%8F%E5%AD%90%E5%AE%B8%E6%89%8B%E8%87%82%E4%BC%A4%E7%97%95%E6%98%AF%E8%BF%87%E6%95%8F%E6%8A%93%E4%BC%A4%23" target="weibo">
+妈妈称魏子宸手臂伤痕是过敏抓伤（热度：5275）
 </a>
 </li>
 
