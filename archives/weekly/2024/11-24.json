@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732660909956,
+  "endTime": 1732663375457,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1731,6 +1731,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 490419,
+      "num": 399168,
+      "word": "养女防老正成为农村养老新现象",
+      "onboard_time": 1732629800,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487663,
+      "num": 487663,
+      "word": "提前还房贷的人后悔了吗",
+      "onboard_time": 1732661714,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 487326,
       "num": 487326,
       "word": "乒超",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1732520779,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431245,
+      "num": 431245,
+      "word": "羊毛月这次触及到00后的逆鳞",
+      "onboard_time": 1732645392,
+      "rank": 9,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 428585,
@@ -3979,14 +4003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217801,
-      "num": 399168,
-      "word": "养女防老正成为农村养老新现象",
-      "onboard_time": 1732629800,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217481,
       "num": 196250,
       "word": "黄灿灿回应人工智能对武大校花的定义",
@@ -4627,14 +4643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196747,
-      "num": 196747,
-      "word": "羊毛月这次触及到00后的逆鳞",
-      "onboard_time": 1732645392,
-      "rank": 9,
-      "category": "网红,舆论监督"
-    },
-    {
       "raw_hot": 196734,
       "num": 196734,
       "word": "宋亚轩 落叶归根",
@@ -4889,6 +4897,14 @@
       "onboard_time": 1732439180,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189297,
+      "num": 189297,
+      "word": "大连失联船舶已找到",
+      "onboard_time": 1732649830,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189237,
@@ -5673,6 +5689,14 @@
       "onboard_time": 1732530498,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163780,
+      "num": 143832,
+      "word": "男子不顾孩子哀求家暴妻子",
+      "onboard_time": 1732647071,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163552,
@@ -7435,14 +7459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116815,
-      "num": 116815,
-      "word": "大连失联船舶已找到",
-      "onboard_time": 1732649830,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116744,
       "num": 116744,
       "word": "不达标假羽绒被流向酒店民宿",
@@ -8435,6 +8451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88503,
+      "num": 237191,
+      "word": "北京这雪厚度能写艺术字了",
+      "onboard_time": 1732635138,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88400,
       "num": 88400,
       "word": "睡不着试试做这3步",
@@ -8763,14 +8787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78500,
-      "num": 62999,
-      "word": "男子不顾孩子哀求家暴妻子",
-      "onboard_time": 1732647071,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78348,
       "num": 215194,
       "word": "王楚钦说胜利属于每个人",
@@ -8808,6 +8824,14 @@
       "word": "全网寻找的豫P7A525找到了",
       "onboard_time": 1732498157,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76690,
+      "num": 64805,
+      "word": "辛选致歉",
+      "onboard_time": 1732637477,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -8923,6 +8947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71130,
+      "num": 71130,
+      "word": "尔滨的雪实在是太美了",
+      "onboard_time": 1732655531,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 71037,
       "num": 293549,
       "word": "减肥神药上市药店不看体重给钱就寄",
@@ -8937,14 +8969,6 @@
       "onboard_time": 1732421898,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 70732,
-      "num": 237191,
-      "word": "北京这雪厚度能写艺术字了",
-      "onboard_time": 1732635138,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69908,
@@ -9051,6 +9075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66300,
+      "num": 66300,
+      "word": "疑似麦琳解散李行亮核心粉丝群",
+      "onboard_time": 1732642814,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66178,
       "num": 377812,
       "word": "业内人士称医用卫生巾是蹭流量的说法",
@@ -9083,19 +9115,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65863,
+      "num": 145458,
+      "word": "武汉市教育局辟谣试点取消寒暑假",
+      "onboard_time": 1732661893,
+      "rank": 9,
+      "category": "辟谣/通报,教育"
+    },
+    {
       "raw_hot": 65240,
       "num": 227396,
       "word": "拒绝上学门诊开设5个月接诊4000人",
       "onboard_time": 1732540340,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64996,
-      "num": 64805,
-      "word": "辛选致歉",
-      "onboard_time": 1732637477,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -9177,14 +9209,6 @@
       "onboard_time": 1732456461,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61204,
-      "num": 32467,
-      "word": "疑似麦琳解散李行亮核心粉丝群",
-      "onboard_time": 1732642814,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 61190,
@@ -9675,6 +9699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48247,
+      "num": 48247,
+      "word": "市监局回应副处长被举报长期性骚扰",
+      "onboard_time": 1732648330,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 47964,
       "num": 47964,
       "word": "劣质羽绒服不能保暖还危害身体健康",
@@ -9732,7 +9764,7 @@
     },
     {
       "raw_hot": 46632,
-      "num": 38039,
+      "num": 45732,
       "word": "Angelababy与网友合影",
       "onboard_time": 1732650790,
       "rank": 35,
@@ -9761,6 +9793,14 @@
       "onboard_time": 1732450640,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46277,
+      "num": 48248,
+      "word": "陈佩斯与妹妹一家同框",
+      "onboard_time": 1732653611,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 46081,
@@ -9881,14 +9921,6 @@
       "onboard_time": 1732396031,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43895,
-      "num": 38076,
-      "word": "尔滨的雪实在是太美了",
-      "onboard_time": 1732655531,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 43705,
@@ -10043,12 +10075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41136,
+      "num": 437573,
+      "word": "中国天眼发现脉冲星已超1000颗",
+      "onboard_time": 1732626859,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40849,
       "num": 68212,
       "word": "鹿晗音乐节背影照",
       "onboard_time": 1732553055,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40720,
+      "num": 45803,
+      "word": "直击东北暴雪现场",
+      "onboard_time": 1732657090,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40349,
@@ -10371,6 +10419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 35132,
+      "num": 45774,
+      "word": "心情不好会让人变丑是有科学依据的",
+      "onboard_time": 1732649530,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34835,
       "num": 38197,
       "word": "中国赛任何组合无缘决赛",
@@ -10380,7 +10436,7 @@
     },
     {
       "raw_hot": 34764,
-      "num": 35915,
+      "num": 45697,
       "word": "鹿晗gapday音乐节吸引超7万乐迷",
       "onboard_time": 1732641913,
       "rank": 41,
@@ -10472,14 +10528,6 @@
       "word": "媒体谈宿管阻止男医护进女寝救人",
       "onboard_time": 1732603039,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32480,
-      "num": 30894,
-      "word": "直击东北暴雪现场",
-      "onboard_time": 1732657090,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -10659,6 +10707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29714,
+      "num": 45729,
+      "word": "老棍老铲",
+      "onboard_time": 1732648451,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29520,
       "num": 40764,
       "word": "手绘实景融为一体上演画板消失术",
@@ -10688,14 +10744,6 @@
       "word": "魏你而甜",
       "onboard_time": 1732439180,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29190,
-      "num": 29190,
-      "word": "陈佩斯与妹妹一家同框",
-      "onboard_time": 1732653611,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -10787,14 +10835,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 28212,
-      "num": 31090,
-      "word": "市监局回应副处长被举报长期性骚扰",
-      "onboard_time": 1732648330,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 28196,
       "num": 313422,
       "word": "郑钦文巴塞罗那度假",
@@ -10843,12 +10883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27575,
+      "num": 63065,
+      "word": "内蒙古黑龙江局地大暴雪",
+      "onboard_time": 1732660512,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27512,
       "num": 51767,
       "word": "NewJeans台历",
       "onboard_time": 1732577475,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27450,
+      "num": 45703,
+      "word": "黄山迎来2024年入冬初雪",
+      "onboard_time": 1732656431,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27306,
@@ -10881,14 +10937,6 @@
       "onboard_time": 1732386972,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26868,
-      "num": 356699,
-      "word": "中国天眼发现脉冲星已超1000颗",
-      "onboard_time": 1732626859,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26867,
@@ -11467,14 +11515,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 16884,
-      "num": 26460,
-      "word": "心情不好会让人变丑是有科学依据的",
-      "onboard_time": 1732649530,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 16773,
       "num": 92303,
       "word": "云顶之弈",
@@ -11545,14 +11585,6 @@
       "onboard_time": 1732628000,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15210,
-      "num": 25089,
-      "word": "老棍老铲",
-      "onboard_time": 1732648451,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 15042,
@@ -11787,14 +11819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11750,
-      "num": 63065,
-      "word": "内蒙古黑龙江局地大暴雪",
-      "onboard_time": 1732660512,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11682,
       "num": 128892,
       "word": "TES冰尘租借至MD",
@@ -11833,14 +11857,6 @@
       "onboard_time": 1732599499,
       "rank": 18,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 11204,
-      "num": 30434,
-      "word": "黄山迎来2024年入冬初雪",
-      "onboard_time": 1732656431,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11197,

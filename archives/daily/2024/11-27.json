@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732660909956,
+  "endTime": 1732663375457,
   "band_list": [
     {
       "raw_hot": 770187,
@@ -17,6 +17,30 @@
       "onboard_time": 1732632501,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490419,
+      "num": 144934,
+      "word": "养女防老正成为农村养老新现象",
+      "onboard_time": 1732629800,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487663,
+      "num": 487663,
+      "word": "提前还房贷的人后悔了吗",
+      "onboard_time": 1732661714,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431245,
+      "num": 431245,
+      "word": "羊毛月这次触及到00后的逆鳞",
+      "onboard_time": 1732645392,
+      "rank": 9,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 403818,
@@ -123,19 +147,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 196747,
-      "num": 196747,
-      "word": "羊毛月这次触及到00后的逆鳞",
-      "onboard_time": 1732645392,
-      "rank": 9,
-      "category": "网红,舆论监督"
-    },
-    {
       "raw_hot": 189989,
       "num": 189989,
       "word": "富商去世非婚生女继承总遗产80%",
       "onboard_time": 1732617619,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189297,
+      "num": 189297,
+      "word": "大连失联船舶已找到",
+      "onboard_time": 1732649830,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -155,6 +179,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163780,
+      "num": 143832,
+      "word": "男子不顾孩子哀求家暴妻子",
+      "onboard_time": 1732647071,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157056,
+      "num": 157056,
+      "word": "伊能静评价再见爱人里的女性角色",
+      "onboard_time": 1732623377,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140748,
       "num": 140748,
       "word": "冷冷冷我冷冷冷",
@@ -171,28 +211,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133529,
+      "num": 133529,
+      "word": "黄冈58岁高三教师宿舍离世教育局介入",
+      "onboard_time": 1732623918,
+      "rank": 45,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 119957,
       "num": 119957,
       "word": "孙悦说时间是个好东西",
       "onboard_time": 1732638076,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119812,
-      "num": 95832,
-      "word": "养女防老正成为农村养老新现象",
-      "onboard_time": 1732629800,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116815,
-      "num": 116815,
-      "word": "大连失联船舶已找到",
-      "onboard_time": 1732649830,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115925,
@@ -209,6 +241,14 @@
       "onboard_time": 1732625059,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104864,
+      "num": 104864,
+      "word": "捐赠相册美国小伙计划长期留在中国",
+      "onboard_time": 1732630940,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104419,
@@ -267,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88503,
+      "num": 88503,
+      "word": "北京这雪厚度能写艺术字了",
+      "onboard_time": 1732635138,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86624,
       "num": 86624,
       "word": "湘潭大学宿舍投毒案已移交法院",
@@ -289,14 +337,6 @@
       "onboard_time": 1732624278,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84396,
-      "num": 84396,
-      "word": "捐赠相册美国小伙计划长期留在中国",
-      "onboard_time": 1732630940,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84189,
@@ -323,27 +363,19 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 79602,
-      "num": 79602,
-      "word": "伊能静评价再见爱人里的女性角色",
-      "onboard_time": 1732623377,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 78500,
-      "num": 62999,
-      "word": "男子不顾孩子哀求家暴妻子",
-      "onboard_time": 1732647071,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77197,
       "num": 77197,
       "word": "生双胞胎妈妈顺利产下3胞胎",
       "onboard_time": 1732629679,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76690,
+      "num": 64805,
+      "word": "辛选致歉",
+      "onboard_time": 1732637477,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -371,12 +403,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 70732,
-      "num": 70732,
-      "word": "北京这雪厚度能写艺术字了",
-      "onboard_time": 1732635138,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 71130,
+      "num": 71130,
+      "word": "尔滨的雪实在是太美了",
+      "onboard_time": 1732655531,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 69908,
@@ -395,20 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68897,
-      "num": 68897,
-      "word": "黄冈58岁高三教师宿舍离世教育局介入",
-      "onboard_time": 1732623918,
-      "rank": 45,
-      "category": "民生新闻,教育"
+      "raw_hot": 66300,
+      "num": 66300,
+      "word": "疑似麦琳解散李行亮核心粉丝群",
+      "onboard_time": 1732642814,
+      "rank": 20,
+      "category": "艺人"
     },
     {
-      "raw_hot": 64996,
-      "num": 64805,
-      "word": "辛选致歉",
-      "onboard_time": 1732637477,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 65863,
+      "num": 145458,
+      "word": "武汉市教育局辟谣试点取消寒暑假",
+      "onboard_time": 1732661893,
+      "rank": 9,
+      "category": "辟谣/通报,教育"
     },
     {
       "raw_hot": 61927,
@@ -417,14 +449,6 @@
       "onboard_time": 1732637298,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 61204,
-      "num": 32467,
-      "word": "疑似麦琳解散李行亮核心粉丝群",
-      "onboard_time": 1732642814,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 55376,
@@ -443,11 +467,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48247,
+      "num": 48247,
+      "word": "市监局回应副处长被举报长期性骚扰",
+      "onboard_time": 1732648330,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46632,
-      "num": 38039,
+      "num": 45732,
       "word": "Angelababy与网友合影",
       "onboard_time": 1732650790,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46277,
+      "num": 48248,
+      "word": "陈佩斯与妹妹一家同框",
+      "onboard_time": 1732653611,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -467,20 +507,28 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 43895,
-      "num": 38076,
-      "word": "尔滨的雪实在是太美了",
-      "onboard_time": 1732655531,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 41267,
       "num": 41267,
       "word": "森林进化论2",
       "onboard_time": 1732641073,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41136,
+      "num": 437573,
+      "word": "中国天眼发现脉冲星已超1000颗",
+      "onboard_time": 1732626859,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 40720,
+      "num": 45803,
+      "word": "直击东北暴雪现场",
+      "onboard_time": 1732657090,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38606,
@@ -499,8 +547,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35132,
+      "num": 45774,
+      "word": "心情不好会让人变丑是有科学依据的",
+      "onboard_time": 1732649530,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34764,
-      "num": 35915,
+      "num": 45697,
       "word": "鹿晗gapday音乐节吸引超7万乐迷",
       "onboard_time": 1732641913,
       "rank": 41,
@@ -515,36 +571,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 32480,
-      "num": 30894,
-      "word": "直击东北暴雪现场",
-      "onboard_time": 1732657090,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29190,
-      "num": 29190,
-      "word": "陈佩斯与妹妹一家同框",
-      "onboard_time": 1732653611,
-      "rank": 34,
+      "raw_hot": 29714,
+      "num": 45729,
+      "word": "老棍老铲",
+      "onboard_time": 1732648451,
+      "rank": 19,
       "category": "艺人"
     },
     {
-      "raw_hot": 28212,
-      "num": 31090,
-      "word": "市监局回应副处长被举报长期性骚扰",
-      "onboard_time": 1732648330,
+      "raw_hot": 27575,
+      "num": 63065,
+      "word": "内蒙古黑龙江局地大暴雪",
+      "onboard_time": 1732660512,
       "rank": 9,
-      "category": "舆论监督"
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 26868,
-      "num": 356699,
-      "word": "中国天眼发现脉冲星已超1000颗",
-      "onboard_time": 1732626859,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 27450,
+      "num": 45703,
+      "word": "黄山迎来2024年入冬初雪",
+      "onboard_time": 1732656431,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24536,
@@ -579,28 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16884,
-      "num": 26460,
-      "word": "心情不好会让人变丑是有科学依据的",
-      "onboard_time": 1732649530,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 15316,
       "num": 20581,
       "word": "中国在联合国每一句话都是为救难民",
       "onboard_time": 1732651451,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15210,
-      "num": 25089,
-      "word": "老棍老铲",
-      "onboard_time": 1732648451,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 15042,
@@ -633,22 +665,6 @@
       "onboard_time": 1732654631,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 11750,
-      "num": 63065,
-      "word": "内蒙古黑龙江局地大暴雪",
-      "onboard_time": 1732660512,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11204,
-      "num": 30434,
-      "word": "黄山迎来2024年入冬初雪",
-      "onboard_time": 1732656431,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8739,
