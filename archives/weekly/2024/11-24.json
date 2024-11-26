@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732603588269,
+  "endTime": 1732605918427,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1735537,
+      "num": 1735537,
+      "word": "山东淄博职业学院通报",
+      "onboard_time": 1732601959,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1721891,
       "num": 1563859,
       "word": "媒体评前体操冠军当性感网红",
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1500805,
+      "num": 1500805,
+      "word": "华为Mate70",
+      "onboard_time": 1732588157,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1499115,
       "num": 670043,
       "word": "谢欣桐",
@@ -176,6 +192,14 @@
       "word": "上海千万豪宅夹层藏超万只蛆",
       "onboard_time": 1732436539,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1413006,
+      "num": 1348918,
+      "word": "家长只喂米糊两月龄宝宝多脏器衰竭",
+      "onboard_time": 1732600580,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -248,14 +272,6 @@
       "word": "上海闵行区一男子商场内坠亡",
       "onboard_time": 1732594639,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1348918,
-      "num": 1348918,
-      "word": "家长只喂米糊两月龄宝宝多脏器衰竭",
-      "onboard_time": 1732600580,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 1052127,
-      "num": 505487,
+      "num": 539325,
       "word": "麦琳前保姆爆料",
       "onboard_time": 1732589299,
       "rank": 11,
@@ -417,6 +433,14 @@
       "onboard_time": 1732579759,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1011147,
+      "num": 1011147,
+      "word": "华为发布会",
+      "onboard_time": 1732602078,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 1009686,
@@ -571,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 853660,
-      "num": 853660,
-      "word": "山东淄博职业学院通报",
-      "onboard_time": 1732601959,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 842788,
       "num": 496756,
       "word": "看因果报应要签保密协议",
@@ -601,6 +617,14 @@
       "onboard_time": 1732519398,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 829668,
+      "num": 829668,
+      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
+      "onboard_time": 1732600339,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 820398,
@@ -699,14 +723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 780581,
-      "num": 780581,
-      "word": "华为发布会",
-      "onboard_time": 1732602078,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 778956,
       "num": 778956,
       "word": "昆明一民宿只接待18至26岁客人",
@@ -737,6 +753,14 @@
       "onboard_time": 1732516339,
       "rank": 41,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 770028,
+      "num": 770028,
+      "word": "求婚是唯一一件下跪就能办成的事",
+      "onboard_time": 1732601120,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 753219,
@@ -857,14 +881,6 @@
       "onboard_time": 1732600160,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 698926,
-      "num": 698926,
-      "word": "求婚是唯一一件下跪就能办成的事",
-      "onboard_time": 1732601120,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 697439,
@@ -1347,14 +1363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 538841,
-      "num": 538841,
-      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
-      "onboard_time": 1732600339,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 535704,
       "num": 535704,
       "word": "余承东官宣Mate70新功能",
@@ -1683,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417339,
+      "num": 417339,
+      "word": "李行亮粉丝发声",
+      "onboard_time": 1732601001,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415896,
       "num": 415896,
       "word": "吴柳芳涨粉",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1732449800,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405062,
+      "num": 355225,
+      "word": "李东辉郑浩妍分手",
+      "onboard_time": 1732603577,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 404996,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1732426698,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377520,
+      "num": 377520,
+      "word": "肖战重庆",
+      "onboard_time": 1732603278,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 377497,
@@ -2025,6 +2057,14 @@
       "onboard_time": 1732546160,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353206,
+      "num": 353206,
+      "word": "满载千只猫狗的货车流出血水",
+      "onboard_time": 1732603818,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351982,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1732540521,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321386,
+      "num": 321386,
+      "word": "余承东 靠抄袭是没有未来的",
+      "onboard_time": 1732604657,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 321195,
@@ -2459,6 +2507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 290906,
+      "num": 290906,
+      "word": "体育总局体操中心回应吴柳芳事件",
+      "onboard_time": 1732604299,
+      "rank": 23,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 290248,
       "num": 269694,
       "word": "全红婵被草莓熊硬控8秒",
@@ -2619,14 +2675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277339,
-      "num": 277339,
-      "word": "华为Mate70",
-      "onboard_time": 1732588157,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 275611,
       "num": 275611,
       "word": "第五人格",
@@ -2777,14 +2825,6 @@
       "onboard_time": 1732359622,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259742,
-      "num": 397974,
-      "word": "李行亮粉丝发声",
-      "onboard_time": 1732601001,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 259312,
@@ -3024,6 +3064,14 @@
       "word": "大学生拿学费旅游白嫖63家酒店",
       "onboard_time": 1732455800,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239267,
+      "num": 406305,
+      "word": "记者实测200元一份粥成本13元",
+      "onboard_time": 1732602438,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -4419,14 +4467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178455,
-      "num": 178455,
-      "word": "肖战重庆",
-      "onboard_time": 1732603278,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177537,
       "num": 177537,
       "word": "十个勤天演唱会",
@@ -4579,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171295,
+      "num": 171295,
+      "word": "爱宝乐园应实实在在改善熊猫饲养环境",
+      "onboard_time": 1732604778,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171106,
       "num": 171106,
       "word": "天冷了日照金山也带上帽子了",
@@ -4617,6 +4665,14 @@
       "onboard_time": 1732443320,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169915,
+      "num": 169915,
+      "word": "李晋晔 人崩溃的时候会傻笑",
+      "onboard_time": 1732605140,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 169484,
@@ -4697,6 +4753,14 @@
       "onboard_time": 1732452860,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 167378,
+      "num": 243706,
+      "word": "人民空军发布接志愿军烈士回家任务标识",
+      "onboard_time": 1732603639,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166782,
@@ -5227,14 +5291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149956,
-      "num": 406305,
-      "word": "记者实测200元一份粥成本13元",
-      "onboard_time": 1732602438,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149608,
       "num": 149608,
       "word": "十个勤天广州演唱会现场",
@@ -5481,6 +5537,14 @@
       "onboard_time": 1732348459,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139653,
+      "num": 139653,
+      "word": "严浩翔顺毛校服路透",
+      "onboard_time": 1732603639,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139311,
@@ -5923,6 +5987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125337,
+      "num": 125337,
+      "word": "上海迪士尼",
+      "onboard_time": 1732605799,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125140,
       "num": 125140,
       "word": "Peyz疑加入LNG",
@@ -5963,6 +6035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124141,
+      "num": 124141,
+      "word": "肖战新专辑世趋成绩",
+      "onboard_time": 1732605739,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124082,
       "num": 124082,
       "word": "深入整治信息茧房",
@@ -5985,6 +6065,14 @@
       "onboard_time": 1732408996,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 122975,
+      "num": 122975,
+      "word": "红枫原色摄像头",
+      "onboard_time": 1732605860,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 122844,
@@ -6057,6 +6145,14 @@
       "onboard_time": 1732414578,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120878,
+      "num": 120878,
+      "word": "五星红旗将一路伴着烈士遗骸回国",
+      "onboard_time": 1732605498,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120776,
@@ -6771,6 +6867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101508,
+      "num": 288811,
+      "word": "恋与制作人七周年",
+      "onboard_time": 1732605258,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101390,
       "num": 101390,
       "word": "看到李雯雯发言心情都晴朗了",
@@ -7195,6 +7299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84345,
+      "num": 539349,
+      "word": "县政府大院随便进火了之后",
+      "onboard_time": 1732604600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84238,
       "num": 129372,
       "word": "孙颖莎王楚钦单打冠军数量排第一",
@@ -7361,6 +7473,14 @@
       "onboard_time": 1732473911,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75737,
+      "num": 355586,
+      "word": "小学副科老师像筋疲力尽的乙方",
+      "onboard_time": 1732604839,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75482,
@@ -8515,6 +8635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 37411,
+      "num": 427959,
+      "word": "花699元体验名媛式拍照",
+      "onboard_time": 1732604897,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37063,
       "num": 44640,
       "word": "想听课的学生曾多到叶嘉莹进不了教室",
@@ -9259,6 +9387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17520,
+      "num": 1140293,
+      "word": "曾遨游太空的五星红旗在三沙升起",
+      "onboard_time": 1732605618,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17299,
       "num": 59034,
       "word": "陈丽君用越剧唱响中国女性故事",
@@ -9321,6 +9457,14 @@
       "onboard_time": 1732568111,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16204,
+      "num": 434876,
+      "word": "男子骑车撞供热管道身亡后续",
+      "onboard_time": 1732605681,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16070,

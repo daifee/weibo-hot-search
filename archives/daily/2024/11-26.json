@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732603588269,
+  "endTime": 1732605918427,
   "band_list": [
     {
       "raw_hot": 1952056,
@@ -19,6 +19,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1735537,
+      "num": 1735537,
+      "word": "山东淄博职业学院通报",
+      "onboard_time": 1732601959,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1500805,
+      "num": 1500805,
+      "word": "华为Mate70",
+      "onboard_time": 1732588157,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1458339,
       "num": 536558,
       "word": "吴谨言挺孕肚跟洪尧出门",
@@ -32,6 +48,14 @@
       "word": "男子夜班看焚化炉睡9小时被开除",
       "onboard_time": 1732587678,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1413006,
+      "num": 1348918,
+      "word": "家长只喂米糊两月龄宝宝多脏器衰竭",
+      "onboard_time": 1732600580,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -51,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1348918,
-      "num": 1348918,
-      "word": "家长只喂米糊两月龄宝宝多脏器衰竭",
-      "onboard_time": 1732600580,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1141618,
       "num": 1182658,
       "word": "一吨鸭绒几十万买羽绒服切勿贪便宜",
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1052127,
-      "num": 505487,
+      "num": 539325,
       "word": "麦琳前保姆爆料",
       "onboard_time": 1732589299,
       "rank": 11,
@@ -81,6 +97,14 @@
       "onboard_time": 1732579759,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1011147,
+      "num": 1011147,
+      "word": "华为发布会",
+      "onboard_time": 1732602078,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 975652,
@@ -131,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 853660,
-      "num": 853660,
-      "word": "山东淄博职业学院通报",
-      "onboard_time": 1732601959,
-      "rank": 17,
-      "category": "辟谣/通报"
+      "raw_hot": 829668,
+      "num": 829668,
+      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
+      "onboard_time": 1732600339,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 820398,
@@ -155,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 780581,
-      "num": 780581,
-      "word": "华为发布会",
-      "onboard_time": 1732602078,
-      "rank": 21,
-      "category": "数码"
+      "raw_hot": 770028,
+      "num": 770028,
+      "word": "求婚是唯一一件下跪就能办成的事",
+      "onboard_time": 1732601120,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 721060,
@@ -177,14 +201,6 @@
       "onboard_time": 1732600160,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 698926,
-      "num": 698926,
-      "word": "求婚是唯一一件下跪就能办成的事",
-      "onboard_time": 1732601120,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 697439,
@@ -283,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 538841,
-      "num": 538841,
-      "word": "大熊猫不应成为满足韩国民众私欲的牺牲品",
-      "onboard_time": 1732600339,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 480886,
       "num": 480886,
       "word": "上海白粥刺客200一碗",
@@ -339,11 +347,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 417339,
+      "num": 417339,
+      "word": "李行亮粉丝发声",
+      "onboard_time": 1732601001,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412770,
       "num": 215982,
       "word": "胡彦斌最不敢签名的一次",
       "onboard_time": 1732544000,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 405062,
+      "num": 355225,
+      "word": "李东辉郑浩妍分手",
+      "onboard_time": 1732603577,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -361,6 +385,14 @@
       "onboard_time": 1732581500,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377520,
+      "num": 377520,
+      "word": "肖战重庆",
+      "onboard_time": 1732603278,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 377497,
@@ -401,6 +433,14 @@
       "onboard_time": 1732588518,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353206,
+      "num": 353206,
+      "word": "满载千只猫狗的货车流出血水",
+      "onboard_time": 1732603818,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351982,
@@ -459,6 +499,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 321386,
+      "num": 321386,
+      "word": "余承东 靠抄袭是没有未来的",
+      "onboard_time": 1732604657,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 309731,
       "num": 412980,
       "word": "王一博杂志",
@@ -473,6 +521,14 @@
       "onboard_time": 1732588879,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290906,
+      "num": 290906,
+      "word": "体育总局体操中心回应吴柳芳事件",
+      "onboard_time": 1732604299,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 286887,
@@ -531,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277339,
-      "num": 277339,
-      "word": "华为Mate70",
-      "onboard_time": 1732588157,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 273021,
       "num": 273021,
       "word": "裴珠泫solo出道",
@@ -563,20 +611,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259742,
-      "num": 397974,
-      "word": "李行亮粉丝发声",
-      "onboard_time": 1732601001,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258931,
       "num": 258931,
       "word": "外交部回应中方对日本试行30天免签",
       "onboard_time": 1732545800,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 258897,
+      "num": 258897,
+      "word": "A股",
+      "onboard_time": 1732604538,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 258805,
@@ -617,6 +665,14 @@
       "onboard_time": 1732585578,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239267,
+      "num": 406305,
+      "word": "记者实测200元一份粥成本13元",
+      "onboard_time": 1732602438,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238504,
@@ -971,14 +1027,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 178455,
-      "num": 178455,
-      "word": "肖战重庆",
-      "onboard_time": 1732603278,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176377,
       "num": 161225,
       "word": "任何人都不该受到任何形式的校园霸凌",
@@ -1009,6 +1057,30 @@
       "onboard_time": 1732586358,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171295,
+      "num": 171295,
+      "word": "爱宝乐园应实实在在改善熊猫饲养环境",
+      "onboard_time": 1732604778,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169915,
+      "num": 169915,
+      "word": "李晋晔 人崩溃的时候会傻笑",
+      "onboard_time": 1732605140,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167378,
+      "num": 243706,
+      "word": "人民空军发布接志愿军烈士回家任务标识",
+      "onboard_time": 1732603639,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166782,
@@ -1075,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149956,
-      "num": 406305,
-      "word": "记者实测200元一份粥成本13元",
-      "onboard_time": 1732602438,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148268,
       "num": 254358,
       "word": "Jinjiao正式退役",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1732600758,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139653,
+      "num": 139653,
+      "word": "严浩翔顺毛校服路透",
+      "onboard_time": 1732603639,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139311,
@@ -1219,12 +1291,44 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125337,
+      "num": 125337,
+      "word": "上海迪士尼",
+      "onboard_time": 1732605799,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124141,
+      "num": 124141,
+      "word": "肖战新专辑世趋成绩",
+      "onboard_time": 1732605739,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 122975,
+      "num": 122975,
+      "word": "红枫原色摄像头",
+      "onboard_time": 1732605860,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 122728,
       "num": 122728,
       "word": "卫生巾",
       "onboard_time": 1732546160,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120878,
+      "num": 120878,
+      "word": "五星红旗将一路伴着烈士遗骸回国",
+      "onboard_time": 1732605498,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120069,
@@ -1395,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101508,
+      "num": 288811,
+      "word": "恋与制作人七周年",
+      "onboard_time": 1732605258,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101390,
       "num": 101390,
       "word": "看到李雯雯发言心情都晴朗了",
@@ -1467,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84345,
+      "num": 539349,
+      "word": "县政府大院随便进火了之后",
+      "onboard_time": 1732604600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83142,
       "num": 83142,
       "word": "田曦薇张凌赫将进组逐玉",
@@ -1521,6 +1641,14 @@
       "onboard_time": 1732592660,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 75737,
+      "num": 355586,
+      "word": "小学副科老师像筋疲力尽的乙方",
+      "onboard_time": 1732604839,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75482,
@@ -1891,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37411,
+      "num": 427959,
+      "word": "花699元体验名媛式拍照",
+      "onboard_time": 1732604897,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36684,
       "num": 272374,
       "word": "李雯雯现场分享解压秘诀",
@@ -2091,6 +2227,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17520,
+      "num": 1140293,
+      "word": "曾遨游太空的五星红旗在三沙升起",
+      "onboard_time": 1732605618,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17299,
       "num": 59034,
       "word": "陈丽君用越剧唱响中国女性故事",
@@ -2137,6 +2281,14 @@
       "onboard_time": 1732568111,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16204,
+      "num": 434876,
+      "word": "男子骑车撞供热管道身亡后续",
+      "onboard_time": 1732605681,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13878,
