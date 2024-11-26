@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732592948964,
+  "endTime": 1732595315208,
   "band_list": [
     {
       "raw_hot": 1952056,
@@ -59,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 957663,
+      "num": 957663,
+      "word": "光遇复刻",
+      "onboard_time": 1732594760,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 945120,
       "num": 281201,
       "word": "女子不堪家暴刺死睡熟丈夫被判5年",
@@ -83,20 +91,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 820679,
+      "num": 533226,
+      "word": "杨子开车窗",
+      "onboard_time": 1732590200,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 809066,
       "num": 417108,
       "word": "曝小李子订婚",
       "onboard_time": 1732583058,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 798631,
-      "num": 432043,
-      "word": "杨子开车窗",
-      "onboard_time": 1732590200,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 697439,
@@ -137,6 +145,14 @@
       "onboard_time": 1732547240,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590564,
+      "num": 590564,
+      "word": "要求短剧不以霸总之类字眼作为片名",
+      "onboard_time": 1732590438,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 568893,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 463148,
-      "num": 338775,
+      "num": 355895,
       "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
       "onboard_time": 1732578136,
       "rank": 20,
@@ -208,6 +224,14 @@
       "word": "被野猪顶撞撕咬老人家属发声",
       "onboard_time": 1732546459,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419739,
+      "num": 419739,
+      "word": "上海闵行区一男子商场内坠亡",
+      "onboard_time": 1732594639,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -233,6 +257,14 @@
       "onboard_time": 1732547179,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 374154,
+      "num": 374154,
+      "word": "嘉人",
+      "onboard_time": 1732593438,
+      "rank": 17,
+      "category": "读书作家"
     },
     {
       "raw_hot": 363667,
@@ -299,6 +331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 306681,
+      "num": 368666,
+      "word": "白鹿唐宫出妆",
+      "onboard_time": 1732594820,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295143,
       "num": 295143,
       "word": "恋与深空",
@@ -363,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268671,
+      "num": 364758,
+      "word": "王一博杂志",
+      "onboard_time": 1732594160,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265199,
       "num": 265199,
       "word": "中方回应美日正商讨涉台紧急状况计划",
@@ -419,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236167,
+      "num": 236167,
+      "word": "教育局回应被民警踢打学生涉霸凌",
+      "onboard_time": 1732589599,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 232990,
+      "num": 232990,
+      "word": "胖东来内部移风易俗已是传统",
+      "onboard_time": 1732591879,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232446,
       "num": 228135,
       "word": "警方通报王宝强被举报事件",
@@ -435,20 +499,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 227641,
-      "num": 227641,
-      "word": "教育局回应被民警踢打学生涉霸凌",
-      "onboard_time": 1732589599,
-      "rank": 43,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 225641,
       "num": 109250,
       "word": "TF四代魏子宸被校园霸凌",
       "onboard_time": 1732521260,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224524,
+      "num": 254552,
+      "word": "肖战callback五年前的自己",
+      "onboard_time": 1732593800,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 224084,
@@ -459,12 +523,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223886,
+      "num": 223886,
+      "word": "凤凰组合首次登顶世界第一",
+      "onboard_time": 1732593380,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221742,
       "num": 221742,
       "word": "丁禹兮剧组挣钱剧组花",
       "onboard_time": 1732579518,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214591,
+      "num": 226989,
+      "word": "我和我的命官宣",
+      "onboard_time": 1732593621,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206967,
+      "num": 206967,
+      "word": "赵樱子拍戏闷在棺材里40分钟",
+      "onboard_time": 1732593679,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 206567,
@@ -491,12 +579,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201797,
-      "num": 201797,
-      "word": "要求短剧不以霸总之类字眼作为片名",
-      "onboard_time": 1732590438,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 204106,
+      "num": 204106,
+      "word": "2025第一台跨年晚会官宣了",
+      "onboard_time": 1732593500,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200651,
+      "num": 200651,
+      "word": "虞书欣 冬日精灵",
+      "onboard_time": 1732595001,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199865,
+      "num": 199865,
+      "word": "吴佳怡2024有效播剧",
+      "onboard_time": 1732594219,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 198897,
@@ -531,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "Ning承认和Kid有差距",
+      "onboard_time": 1732593500,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192068,
       "num": 297732,
       "word": "张婧仪工作室维权取证",
@@ -553,6 +665,14 @@
       "onboard_time": 1732586778,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189114,
+      "num": 189114,
+      "word": "谭松韵主演我和我的命",
+      "onboard_time": 1732595001,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 188280,
@@ -579,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180859,
+      "num": 180859,
+      "word": "贺峻霖大点兵",
+      "onboard_time": 1732595058,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179748,
       "num": 179748,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
@@ -603,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176213,
-      "num": 176213,
-      "word": "胖东来内部移风易俗已是传统",
-      "onboard_time": 1732591879,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174326,
       "num": 174326,
       "word": "Letme说退役后没必要维持高水平",
@@ -625,6 +745,14 @@
       "onboard_time": 1732523358,
       "rank": 8,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 173296,
+      "num": 173296,
+      "word": "小巷人家 谢幕和登场只在一个转场",
+      "onboard_time": 1732594880,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 172543,
@@ -675,6 +803,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153920,
+      "num": 153920,
+      "word": "山东婚假",
+      "onboard_time": 1732595300,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152341,
+      "num": 152341,
+      "word": "羊毛月以背刺零零后的方式塌房了",
+      "onboard_time": 1732593079,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 147026,
       "num": 147026,
       "word": "宋慧乔泰媒生图",
@@ -716,7 +860,7 @@
     },
     {
       "raw_hot": 133422,
-      "num": 133422,
+      "num": 278877,
       "word": "zdz怒喷赵志铭",
       "onboard_time": 1732585338,
       "rank": 35,
@@ -859,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107574,
+      "num": 237027,
+      "word": "开启智能辅助驾驶模式后驾驶员睡着了",
+      "onboard_time": 1732593320,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107200,
       "num": 107200,
       "word": "斗罗2唐三小舞刚亲完就异地恋",
@@ -939,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84908,
+      "num": 480507,
+      "word": "全国冻手冻脚预警地图",
+      "onboard_time": 1732593679,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83142,
       "num": 83142,
       "word": "田曦薇张凌赫将进组逐玉",
@@ -1001,6 +1161,14 @@
       "onboard_time": 1732530798,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69795,
+      "num": 250103,
+      "word": "卫健委回应男子拿电锤给老人治病",
+      "onboard_time": 1732593438,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69429,
@@ -1105,6 +1273,14 @@
       "onboard_time": 1732577296,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58388,
+      "num": 243146,
+      "word": "祝绪丹唱祝绪丹",
+      "onboard_time": 1732593859,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 57885,
@@ -1275,20 +1451,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 35733,
+      "num": 786193,
+      "word": "古人把一年四季画成交响乐",
+      "onboard_time": 1732589419,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34196,
       "num": 92473,
       "word": "OBGG显示Crisp加入TES",
       "onboard_time": 1732577595,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 33315,
-      "num": 786193,
-      "word": "古人把一年四季画成交响乐",
-      "onboard_time": 1732589419,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29520,
@@ -1361,6 +1537,14 @@
       "onboard_time": 1732540219,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24676,
+      "num": 358417,
+      "word": "今年最佳国产片讲了什么好东西",
+      "onboard_time": 1732593500,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 24654,

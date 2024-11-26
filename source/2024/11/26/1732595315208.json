@@ -1,0 +1,410 @@
+{
+  "runTime": 1732595315208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1302988,
+        "num": 1302988,
+        "word": "黄圣依 麦琳",
+        "onboard_time": 1732590259,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 957663,
+        "num": 957663,
+        "word": "光遇复刻",
+        "onboard_time": 1732594760,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35733,
+        "num": 765506,
+        "word": "古人把一年四季画成交响乐",
+        "onboard_time": 1732589419,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1346671,
+        "num": 757169,
+        "word": "疑似再见爱人离职剪辑师爆料",
+        "onboard_time": 1732586298,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709593,
+        "num": 709593,
+        "word": "市监所回应一份白粥200元",
+        "onboard_time": 1732584319,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 590564,
+        "num": 590564,
+        "word": "要求短剧不以霸总之类字眼作为片名",
+        "onboard_time": 1732590438,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 886875,
+        "num": 562100,
+        "word": "广电总局要求加强对霸总微短剧管理",
+        "onboard_time": 1732587978,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 820679,
+        "num": 533226,
+        "word": "杨子开车窗",
+        "onboard_time": 1732590200,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84908,
+        "num": 480507,
+        "word": "全国冻手冻脚预警地图",
+        "onboard_time": 1732593679,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468056,
+        "num": 468056,
+        "word": "特朗普妄言对中国商品加征10%关税",
+        "onboard_time": 1732585578,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 977797,
+        "num": 464981,
+        "word": "吴谨言挺孕肚跟洪尧出门",
+        "onboard_time": 1732587858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691005,
+        "num": 459969,
+        "word": "高中同学曝羊毛月文化成绩倒数",
+        "onboard_time": 1732588818,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 657976,
+        "num": 456337,
+        "word": "麦琳前保姆爆料",
+        "onboard_time": 1732589299,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 645469,
+        "num": 455345,
+        "word": "男子夜班看焚化炉睡9小时被开除",
+        "onboard_time": 1732587678,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451518,
+        "num": 451518,
+        "word": "特朗普宣布对墨加商品征收25%关税",
+        "onboard_time": 1732586778,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419739,
+        "num": 419739,
+        "word": "上海闵行区一男子商场内坠亡",
+        "onboard_time": 1732594639,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381912,
+        "num": 381912,
+        "word": "iPhone17Pro系列或迎重大设计变更",
+        "onboard_time": 1732585398,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 374154,
+        "num": 374154,
+        "word": "嘉人",
+        "onboard_time": 1732593438,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 306681,
+        "num": 368666,
+        "word": "白鹿唐宫出妆",
+        "onboard_time": 1732594820,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268671,
+        "num": 364758,
+        "word": "王一博杂志",
+        "onboard_time": 1732594160,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24676,
+        "num": 358417,
+        "word": "今年最佳国产片讲了什么好东西",
+        "onboard_time": 1732593500,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393568,
+        "num": 355895,
+        "word": "泰寺庙现41具无名遗体和600多条鳄鱼",
+        "onboard_time": 1732578136,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351232,
+        "num": 351232,
+        "word": "特朗普乱挥关税大棒",
+        "onboard_time": 1732586778,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307770,
+        "num": 307770,
+        "word": "丁禹兮谈工作不带助理",
+        "onboard_time": 1732589059,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47541,
+        "num": 278877,
+        "word": "zdz怒喷赵志铭",
+        "onboard_time": 1732585338,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231544,
+        "num": 261500,
+        "word": "业内人说时代少年团会单飞",
+        "onboard_time": 1732589899,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258189,
+        "num": 258189,
+        "word": "华为Mate70",
+        "onboard_time": 1732588157,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224524,
+        "num": 254552,
+        "word": "肖战callback五年前的自己",
+        "onboard_time": 1732593800,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69795,
+        "num": 250103,
+        "word": "卫健委回应男子拿电锤给老人治病",
+        "onboard_time": 1732593438,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58388,
+        "num": 243146,
+        "word": "祝绪丹唱祝绪丹",
+        "onboard_time": 1732593859,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107574,
+        "num": 237027,
+        "word": "开启智能辅助驾驶模式后驾驶员睡着了",
+        "onboard_time": 1732593320,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236167,
+        "num": 236167,
+        "word": "教育局回应被民警踢打学生涉霸凌",
+        "onboard_time": 1732589599,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 232990,
+        "num": 232990,
+        "word": "胖东来内部移风易俗已是传统",
+        "onboard_time": 1732591879,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214591,
+        "num": 226989,
+        "word": "我和我的命官宣",
+        "onboard_time": 1732593621,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223886,
+        "num": 223886,
+        "word": "凤凰组合首次登顶世界第一",
+        "onboard_time": 1732593380,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219946,
+        "num": 219946,
+        "word": "13年前微信安装包仅457KB",
+        "onboard_time": 1732585338,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212830,
+        "num": 212830,
+        "word": "店家称200元一份白粥用的依云水",
+        "onboard_time": 1732582939,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206967,
+        "num": 206967,
+        "word": "赵樱子拍戏闷在棺材里40分钟",
+        "onboard_time": 1732593679,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204106,
+        "num": 204106,
+        "word": "2025第一台跨年晚会官宣了",
+        "onboard_time": 1732593500,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200651,
+        "num": 200651,
+        "word": "虞书欣 冬日精灵",
+        "onboard_time": 1732595001,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199865,
+        "num": 199865,
+        "word": "吴佳怡2024有效播剧",
+        "onboard_time": 1732594219,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196329,
+        "num": 196329,
+        "word": "医生眼中皮肤就是情绪的镜子",
+        "onboard_time": 1732585578,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192862,
+        "num": 192862,
+        "word": "Ning承认和Kid有差距",
+        "onboard_time": 1732593500,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189114,
+        "num": 189114,
+        "word": "谭松韵主演我和我的命",
+        "onboard_time": 1732595001,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180859,
+        "num": 180859,
+        "word": "贺峻霖大点兵",
+        "onboard_time": 1732595058,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173296,
+        "num": 173296,
+        "word": "小巷人家 谢幕和登场只在一个转场",
+        "onboard_time": 1732594880,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172519,
+        "num": 172519,
+        "word": "骗完69万教唆受害人去派出所要钱",
+        "onboard_time": 1732591039,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160063,
+        "num": 160063,
+        "word": "曝小李子订婚",
+        "onboard_time": 1732583058,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153920,
+        "num": 153920,
+        "word": "山东婚假",
+        "onboard_time": 1732595300,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152341,
+        "num": 152341,
+        "word": "羊毛月以背刺零零后的方式塌房了",
+        "onboard_time": 1732593079,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席拉美之行纪实#"
+    }
+  }
+}
