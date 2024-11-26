@@ -1,6 +1,6 @@
 {
   "startTime": 1732552197051,
-  "endTime": 1732605918427,
+  "endTime": 1732606705443,
   "band_list": [
     {
       "raw_hot": 1952056,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1800486,
+      "num": 1800486,
+      "word": "华为Mate70",
+      "onboard_time": 1732588157,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1735537,
       "num": 1735537,
       "word": "山东淄博职业学院通报",
       "onboard_time": 1732601959,
       "rank": 17,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1500805,
-      "num": 1500805,
-      "word": "华为Mate70",
-      "onboard_time": 1732588157,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 1458339,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685648,
+      "num": 685648,
+      "word": "余承东 靠抄袭是没有未来的",
+      "onboard_time": 1732604657,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 667076,
       "num": 667076,
       "word": "店家称200元一份白粥用的依云水",
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552627,
+      "num": 552627,
+      "word": "满载千只猫狗的货车流出血水",
+      "onboard_time": 1732603818,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480886,
       "num": 480886,
       "word": "上海白粥刺客200一碗",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 405062,
-      "num": 355225,
+      "num": 359932,
       "word": "李东辉郑浩妍分手",
       "onboard_time": 1732603577,
       "rank": 20,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 377520,
-      "num": 377520,
+      "num": 496669,
       "word": "肖战重庆",
       "onboard_time": 1732603278,
       "rank": 36,
@@ -433,14 +449,6 @@
       "onboard_time": 1732588518,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 353206,
-      "num": 353206,
-      "word": "满载千只猫狗的货车流出血水",
-      "onboard_time": 1732603818,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351982,
@@ -499,12 +507,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 321386,
-      "num": 321386,
-      "word": "余承东 靠抄袭是没有未来的",
-      "onboard_time": 1732604657,
-      "rank": 22,
-      "category": "数码"
+      "raw_hot": 316870,
+      "num": 316870,
+      "word": "体育总局体操中心回应吴柳芳事件",
+      "onboard_time": 1732604299,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 309731,
@@ -521,14 +529,6 @@
       "onboard_time": 1732588879,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290906,
-      "num": 290906,
-      "word": "体育总局体操中心回应吴柳芳事件",
-      "onboard_time": 1732604299,
-      "rank": 23,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 286887,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250724,
+      "num": 250724,
+      "word": "华为Mate70价格",
+      "onboard_time": 1732606099,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 250455,
       "num": 223089,
       "word": "为什么羽绒服里穿薄点才暖和",
@@ -651,6 +659,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 245141,
+      "num": 243577,
+      "word": "王楚钦批改作业中",
+      "onboard_time": 1732606099,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 243710,
+      "num": 243710,
+      "word": "美一架反潜巡逻机过航台湾海峡",
+      "onboard_time": 1732606160,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 243344,
       "num": 243344,
       "word": "羊毛月曾回应蹭北大",
@@ -665,6 +689,14 @@
       "onboard_time": 1732585578,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 240486,
+      "num": 240486,
+      "word": "上海迪士尼",
+      "onboard_time": 1732605799,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239267,
@@ -859,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202178,
+      "num": 243794,
+      "word": "李晨凌晨三点陪张真源理行李",
+      "onboard_time": 1732606160,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200651,
       "num": 200651,
       "word": "虞书欣 冬日精灵",
@@ -873,6 +913,14 @@
       "onboard_time": 1732594219,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199339,
+      "num": 199339,
+      "word": "华为Mate70东方锦色",
+      "onboard_time": 1732606099,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 198897,
@@ -1011,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181604,
+      "num": 181604,
+      "word": "爱宝乐园应实实在在改善熊猫饲养环境",
+      "onboard_time": 1732604778,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179748,
       "num": 179748,
       "word": "立陶宛称寻求与中国全面恢复外交关系",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1732542920,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 178434,
+      "num": 178434,
+      "word": "交警测试一辆SUV的盲区到底有多大",
+      "onboard_time": 1732606219,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176377,
@@ -1059,12 +1123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171295,
-      "num": 171295,
-      "word": "爱宝乐园应实实在在改善熊猫饲养环境",
-      "onboard_time": 1732604778,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 171159,
+      "num": 494744,
+      "word": "人民空军发布接志愿军烈士回家任务标识",
+      "onboard_time": 1732603639,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169915,
@@ -1073,14 +1137,6 @@
       "onboard_time": 1732605140,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167378,
-      "num": 243706,
-      "word": "人民空军发布接志愿军烈士回家任务标识",
-      "onboard_time": 1732603639,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166782,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1732584800,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 164594,
+      "num": 164594,
+      "word": "解放军回应美军机过航台湾海峡",
+      "onboard_time": 1732606579,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 163552,
@@ -1129,6 +1193,14 @@
       "onboard_time": 1732537761,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153858,
+      "num": 153858,
+      "word": "男子为骗巨额保金推妻坠海被判死刑",
+      "onboard_time": 1732606399,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152341,
@@ -1169,6 +1241,22 @@
       "onboard_time": 1732588879,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145012,
+      "num": 145012,
+      "word": "红枫原色摄像头",
+      "onboard_time": 1732605860,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 141814,
+      "num": 141814,
+      "word": "电影鸳鸯楼票房破亿",
+      "onboard_time": 1732606638,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 141680,
@@ -1291,28 +1379,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 125337,
-      "num": 125337,
-      "word": "上海迪士尼",
-      "onboard_time": 1732605799,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124141,
       "num": 124141,
       "word": "肖战新专辑世趋成绩",
       "onboard_time": 1732605739,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122975,
-      "num": 122975,
-      "word": "红枫原色摄像头",
-      "onboard_time": 1732605860,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 122728,
@@ -1539,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93682,
+      "num": 539349,
+      "word": "县政府大院随便进火了之后",
+      "onboard_time": 1732604600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88698,
       "num": 250666,
       "word": "永夜星河25天进入拉新榜前十",
@@ -1576,14 +1656,6 @@
       "word": "全国冻手冻脚预警地图",
       "onboard_time": 1732593679,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84345,
-      "num": 539349,
-      "word": "县政府大院随便进火了之后",
-      "onboard_time": 1732604600,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1883,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49547,
+      "num": 508822,
+      "word": "男子骑车撞供热管道身亡后续",
+      "onboard_time": 1732605681,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48922,
       "num": 48922,
       "word": "Selina带儿子给妹妹庆生",
@@ -1905,6 +1985,14 @@
       "onboard_time": 1732559652,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46081,
+      "num": 1140293,
+      "word": "曾遨游太空的五星红旗在三沙升起",
+      "onboard_time": 1732605618,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45916,
@@ -1971,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40292,
+      "num": 506199,
+      "word": "花699元体验名媛式拍照",
+      "onboard_time": 1732604897,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40238,
       "num": 412320,
       "word": "麦琳总是在说他不爱我",
@@ -2019,14 +2115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37411,
-      "num": 427959,
-      "word": "花699元体验名媛式拍照",
-      "onboard_time": 1732604897,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36684,
       "num": 272374,
       "word": "李雯雯现场分享解压秘诀",
@@ -2057,6 +2145,22 @@
       "onboard_time": 1732577595,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32906,
+      "num": 149391,
+      "word": "华为Mate70全系配色",
+      "onboard_time": 1732606340,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 32622,
+      "num": 318185,
+      "word": "李雯雯拍视频潘展乐婉拒了哈",
+      "onboard_time": 1732602858,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 32505,
@@ -2187,6 +2291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20457,
+      "num": 691009,
+      "word": "东北这波降雪开始上强度了",
+      "onboard_time": 1732606340,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20358,
       "num": 107523,
       "word": "2025国考全流程报考指南",
@@ -2225,14 +2337,6 @@
       "onboard_time": 1732566311,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 17520,
-      "num": 1140293,
-      "word": "曾遨游太空的五星红旗在三沙升起",
-      "onboard_time": 1732605618,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17299,
@@ -2281,14 +2385,6 @@
       "onboard_time": 1732568111,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 16204,
-      "num": 434876,
-      "word": "男子骑车撞供热管道身亡后续",
-      "onboard_time": 1732605681,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13878,
