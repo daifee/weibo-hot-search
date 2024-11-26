@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732641709497,
+  "endTime": 1732642819167,
   "band_list": [
     {
       "raw_hot": 770187,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69908,
+      "num": 69908,
+      "word": "下一个中国还是中国",
+      "onboard_time": 1732640953,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69307,
       "num": 69307,
       "word": "王大发说檀健次不是顶流",
@@ -443,12 +451,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36943,
-      "num": 62022,
-      "word": "下一个中国还是中国",
-      "onboard_time": 1732640953,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 34764,
+      "num": 35915,
+      "word": "鹿晗gapday音乐节吸引超7万乐迷",
+      "onboard_time": 1732641913,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 26868,
@@ -465,6 +473,22 @@
       "onboard_time": 1732640834,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 24529,
+      "num": 49568,
+      "word": "王一博嘉人十二月周年刊封面",
+      "onboard_time": 1732642032,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 19798,
+      "num": 49259,
+      "word": "潘展乐和戍边战士说了番温暖的话",
+      "onboard_time": 1732642632,
+      "rank": 19,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
