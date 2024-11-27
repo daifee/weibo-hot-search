@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732739171529,
+  "endTime": 1732740010542,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -571,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20680,
+      "num": 20680,
+      "word": "人均两万五去8个国家玩了24天",
+      "onboard_time": 1732735631,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 20219,
       "num": 20219,
       "word": "昨天之后",
@@ -595,12 +603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18709,
-      "num": 18709,
-      "word": "人均两万五去8个国家玩了24天",
-      "onboard_time": 1732735631,
-      "rank": 40,
-      "category": "旅游"
+      "raw_hot": 17612,
+      "num": 17612,
+      "word": "一人一句接志愿军烈士回家",
+      "onboard_time": 1732676717,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 16683,
@@ -635,20 +643,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 13936,
+      "num": 32139,
+      "word": "接烈士回国的运20曾在今年航展开放",
+      "onboard_time": 1732738691,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 13926,
       "num": 27453,
       "word": "檀健次ELLE开年刊预告",
       "onboard_time": 1732726395,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 13716,
-      "num": 16067,
-      "word": "一人一句接志愿军烈士回家",
-      "onboard_time": 1732676717,
-      "rank": 36,
-      "category": "正能量"
     },
     {
       "raw_hot": 13265,
@@ -659,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12090,
-      "num": 32139,
-      "word": "接烈士回国的运20曾在今年航展开放",
-      "onboard_time": 1732738691,
-      "rank": 9,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 11885,
       "num": 16052,
       "word": "李子柒现身烟台学习剪纸和葫芦烙画",
@@ -675,7 +675,15 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 11771,
+      "raw_hot": 11827,
+      "num": 17994,
+      "word": "又从中国航展选出了一波帅图",
+      "onboard_time": 1732737311,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 11786,
       "num": 16049,
       "word": "鹤岗降雪量打破当地11月单日纪录",
       "onboard_time": 1732736890,
@@ -683,12 +691,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10752,
-      "num": 16053,
-      "word": "又从中国航展选出了一波帅图",
-      "onboard_time": 1732737311,
-      "rank": 46,
-      "category": "军事"
+      "raw_hot": 11620,
+      "num": 15377,
+      "word": "说起牺牲的志愿军哥哥奶奶哭了",
+      "onboard_time": 1732739830,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 7887,
+      "num": 18969,
+      "word": "王一博清华大学巨型海报",
+      "onboard_time": 1732739050,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 7666,
@@ -699,11 +715,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6081,
-      "num": 18859,
-      "word": "王一博清华大学巨型海报",
-      "onboard_time": 1732739050,
-      "rank": 24,
+      "raw_hot": 6762,
+      "num": 17862,
+      "word": "严浩翔白衬衫造型路透",
+      "onboard_time": 1732737013,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -713,14 +729,6 @@
       "onboard_time": 1732735812,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5508,
-      "num": 16694,
-      "word": "严浩翔白衬衫造型路透",
-      "onboard_time": 1732737013,
-      "rank": 30,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
