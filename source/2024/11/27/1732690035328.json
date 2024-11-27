@@ -1,0 +1,410 @@
+{
+  "runTime": 1732690035328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1996043,
+        "num": 1996043,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807291,
+        "num": 807291,
+        "word": "女子手上9套房每套都烦心",
+        "onboard_time": 1732678638,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44421,
+        "num": 613260,
+        "word": "川渝火锅在链博会有一个专门展览",
+        "onboard_time": 1732673899,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1599857,
+        "num": 602984,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 558787,
+        "num": 558787,
+        "word": "花了1万八的俄罗斯旅游",
+        "onboard_time": 1732683020,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 357588,
+        "num": 357588,
+        "word": "野猪伤人致死事件4人狩猎前未报备",
+        "onboard_time": 1732684519,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860868,
+        "num": 343519,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637100,
+        "num": 340867,
+        "word": "李耕耘 进组",
+        "onboard_time": 1732687938,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197660,
+        "num": 319423,
+        "word": "南京223火灾事故调查报告",
+        "onboard_time": 1732688958,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 311461,
+        "num": 311461,
+        "word": "花2万买保时捷小卡宴车标竟是驴",
+        "onboard_time": 1732681280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623798,
+        "num": 310512,
+        "word": "官方通报中学生被老师教育后5楼跳下",
+        "onboard_time": 1732686379,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 543006,
+        "num": 306413,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415442,
+        "num": 300758,
+        "word": "恩利称其父母离婚是件不错的事",
+        "onboard_time": 1732684698,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421959,
+        "num": 296473,
+        "word": "蒋敦豪李耕耘赵一博暂别种地吧3",
+        "onboard_time": 1732686738,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413434,
+        "num": 290241,
+        "word": "周雨彤 荣梓杉闭嘴的时候很帅",
+        "onboard_time": 1732687399,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388218,
+        "num": 284271,
+        "word": "偶遇肖战逛街",
+        "onboard_time": 1732688119,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373458,
+        "num": 279687,
+        "word": "马龙杨倩抵达台湾",
+        "onboard_time": 1732685120,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279598,
+        "num": 279598,
+        "word": "电瓶车29楼充电起火致两邻居身亡",
+        "onboard_time": 1732674919,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 220123,
+        "num": 220123,
+        "word": "立白集团回应经理招聘女生做情人",
+        "onboard_time": 1732687578,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 189308,
+        "num": 189308,
+        "word": "5个放松行为其实很损耗气血",
+        "onboard_time": 1732688419,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 910251,
+        "num": 186882,
+        "word": "区域经理招聘女生做情人月薪13000",
+        "onboard_time": 1732685779,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353087,
+        "num": 186615,
+        "word": "白鹿穿睡衣上班",
+        "onboard_time": 1732685298,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249487,
+        "num": 186406,
+        "word": "万国鹏回应曾追求张予曦",
+        "onboard_time": 1732671918,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178004,
+        "num": 178004,
+        "word": "马龙以大学生身份访台交流",
+        "onboard_time": 1732682541,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57293,
+        "num": 167357,
+        "word": "爱笑爆料iG教练",
+        "onboard_time": 1732688658,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166601,
+        "num": 166601,
+        "word": "北京突然飘雪属于大力出奇迹",
+        "onboard_time": 1732683320,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241769,
+        "num": 166508,
+        "word": "天选古偶四美",
+        "onboard_time": 1732687878,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23845,
+        "num": 166383,
+        "word": "骨质疏松症高发人群有哪些",
+        "onboard_time": 1732689259,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54589,
+        "num": 166077,
+        "word": "94%的消费者在家电维修踩过坑",
+        "onboard_time": 1732689078,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 201287,
+        "num": 166014,
+        "word": "十个勤天应到10人实到5.5人",
+        "onboard_time": 1732689139,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143491,
+        "num": 165647,
+        "word": "邢菲 千禧年韩剧女主既视感",
+        "onboard_time": 1732686319,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239861,
+        "num": 165494,
+        "word": "徐艺洋水晶",
+        "onboard_time": 1732678638,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193040,
+        "num": 165273,
+        "word": "大冰 动画般的退场",
+        "onboard_time": 1732689558,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165264,
+        "num": 165264,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1732674018,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161962,
+        "num": 161962,
+        "word": "刘亦菲买手店扫货",
+        "onboard_time": 1732684879,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161649,
+        "num": 161649,
+        "word": "中学生被老师教育后从5楼跳下",
+        "onboard_time": 1732688299,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155103,
+        "num": 155103,
+        "word": "十个勤天",
+        "onboard_time": 1732687399,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139617,
+        "num": 139617,
+        "word": "身份证18位数字分别代表什么",
+        "onboard_time": 1732670298,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138149,
+        "num": 138149,
+        "word": "人民网评霸总微短剧该管管了",
+        "onboard_time": 1732687459,
+        "rank": 38,
+        "category": "舆论监督,作品衍生"
+      },
+      {
+        "raw_hot": 136500,
+        "num": 136500,
+        "word": "9岁女孩被老师砸伤案一审宣判",
+        "onboard_time": 1732689678,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127129,
+        "num": 127129,
+        "word": "羽绒服一天一个价",
+        "onboard_time": 1732676298,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124708,
+        "num": 124708,
+        "word": "种地吧总导演说坚决不加新人",
+        "onboard_time": 1732687459,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123276,
+        "num": 123276,
+        "word": "只有川渝人才知道她演的是什么",
+        "onboard_time": 1732689798,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120435,
+        "num": 120435,
+        "word": "芒果也要推新男团了",
+        "onboard_time": 1732680378,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119316,
+        "num": 119316,
+        "word": "张予曦 死腿快踢",
+        "onboard_time": 1732689859,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114113,
+        "num": 114113,
+        "word": "BLG官宣Xun离队",
+        "onboard_time": 1732682180,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113540,
+        "num": 113540,
+        "word": "白夜追凶和白夜破晓的关系",
+        "onboard_time": 1732688299,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111595,
+        "num": 111595,
+        "word": "鹿晗永恒的纪念",
+        "onboard_time": 1732689977,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111453,
+        "num": 111453,
+        "word": "Faker直播看369操作",
+        "onboard_time": 1732680799,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111042,
+        "num": 111042,
+        "word": "再见爱人抢座位事件",
+        "onboard_time": 1732679479,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国树立了合作互利共赢的生动样板#"
+    }
+  }
+}

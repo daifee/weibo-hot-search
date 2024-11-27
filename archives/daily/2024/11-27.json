@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732689214039,
+  "endTime": 1732690035328,
   "band_list": [
     {
       "raw_hot": 2197437,
@@ -91,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 910251,
+      "num": 251588,
+      "word": "区域经理招聘女生做情人月薪13000",
+      "onboard_time": 1732685779,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 869883,
       "num": 270776,
       "word": "陕西16岁走失中学生已确认死亡",
       "onboard_time": 1732671196,
       "rank": 11,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 860868,
+      "num": 343519,
+      "word": "朱正廷 种地吧",
+      "onboard_time": 1732689021,
+      "rank": 25,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 837285,
@@ -163,14 +179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 705146,
-      "num": 251588,
-      "word": "区域经理招聘女生做情人月薪13000",
-      "onboard_time": 1732685779,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 677375,
       "num": 242398,
       "word": "妇联通报小女孩常坐光棍怀里",
@@ -195,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 623798,
+      "num": 412957,
+      "word": "官方通报中学生被老师教育后5楼跳下",
+      "onboard_time": 1732686379,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 620693,
       "num": 620693,
       "word": "电影因果报应 富养女儿",
       "onboard_time": 1732674919,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 586782,
-      "num": 412957,
-      "word": "官方通报中学生被老师教育后5楼跳下",
-      "onboard_time": 1732686379,
-      "rank": 10,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 559467,
@@ -283,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 413434,
+      "num": 290241,
+      "word": "周雨彤 荣梓杉闭嘴的时候很帅",
+      "onboard_time": 1732687399,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403818,
       "num": 403818,
       "word": "大冰停播43天后复播",
@@ -305,6 +321,14 @@
       "onboard_time": 1732680799,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 388218,
+      "num": 284271,
+      "word": "偶遇肖战逛街",
+      "onboard_time": 1732688119,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 387253,
@@ -339,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373458,
+      "num": 345051,
+      "word": "马龙杨倩抵达台湾",
+      "onboard_time": 1732685120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364135,
       "num": 364135,
       "word": "芒果也要推新男团了",
@@ -369,14 +401,6 @@
       "onboard_time": 1732669279,
       "rank": 6,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 345051,
-      "num": 345051,
-      "word": "马龙杨倩抵达台湾",
-      "onboard_time": 1732685120,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 332556,
@@ -499,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252179,
-      "num": 252179,
-      "word": "周雨彤 荣梓杉闭嘴的时候很帅",
-      "onboard_time": 1732687399,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249818,
       "num": 219776,
       "word": "瘦30斤才敢说的大实话",
@@ -531,6 +547,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 241769,
+      "num": 215947,
+      "word": "天选古偶四美",
+      "onboard_time": 1732687878,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241257,
       "num": 241257,
       "word": "虞书欣还原凌妙妙小碎步",
@@ -553,14 +577,6 @@
       "onboard_time": 1732649830,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237653,
-      "num": 237653,
-      "word": "朱正廷 种地吧",
-      "onboard_time": 1732689021,
-      "rank": 25,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 236162,
@@ -635,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218182,
-      "num": 218182,
-      "word": "偶遇肖战逛街",
-      "onboard_time": 1732688119,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217793,
       "num": 217793,
       "word": "武汉市教育局辟谣试点取消寒暑假",
@@ -665,14 +673,6 @@
       "onboard_time": 1732621878,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215947,
-      "num": 215947,
-      "word": "天选古偶四美",
-      "onboard_time": 1732687878,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 210897,
@@ -723,6 +723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 201287,
+      "num": 166014,
+      "word": "十个勤天应到10人实到5.5人",
+      "onboard_time": 1732689139,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198428,
       "num": 204615,
       "word": "镖人杀青",
@@ -739,12 +747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197660,
+      "num": 319423,
+      "word": "南京223火灾事故调查报告",
+      "onboard_time": 1732688958,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 194655,
       "num": 367722,
       "word": "骗子用刮刮卡营造期待感",
       "onboard_time": 1732672398,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193040,
+      "num": 165273,
+      "word": "大冰 动画般的退场",
+      "onboard_time": 1732689558,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 192781,
@@ -785,6 +809,14 @@
       "onboard_time": 1732678938,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189308,
+      "num": 189308,
+      "word": "5个放松行为其实很损耗气血",
+      "onboard_time": 1732688419,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188786,
@@ -1083,14 +1115,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 147268,
-      "num": 147268,
-      "word": "5个放松行为其实很损耗气血",
-      "onboard_time": 1732688419,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 146612,
       "num": 146612,
       "word": "种地吧总导演说坚决不加新人",
@@ -1131,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141612,
-      "num": 141612,
-      "word": "十个勤天应到10人实到5.5人",
-      "onboard_time": 1732689139,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140748,
       "num": 140748,
       "word": "冷冷冷我冷冷冷",
@@ -1163,6 +1179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 138149,
+      "num": 358060,
+      "word": "人民网评霸总微短剧该管管了",
+      "onboard_time": 1732687459,
+      "rank": 14,
+      "category": "舆论监督,作品衍生"
+    },
+    {
       "raw_hot": 137730,
       "num": 214269,
       "word": "好东西影评",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1732688299,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136500,
+      "num": 136500,
+      "word": "9岁女孩被老师砸伤案一审宣判",
+      "onboard_time": 1732689678,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136465,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1732676957,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 128245,
-      "num": 358060,
-      "word": "人民网评霸总微短剧该管管了",
-      "onboard_time": 1732687459,
-      "rank": 14,
-      "category": "舆论监督,作品衍生"
     },
     {
       "raw_hot": 128012,
@@ -1299,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123276,
+      "num": 123276,
+      "word": "只有川渝人才知道她演的是什么",
+      "onboard_time": 1732689798,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123238,
       "num": 123238,
       "word": "导演回应白夜破晓没有高亚楠",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1732666339,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119316,
+      "num": 119316,
+      "word": "张予曦 死腿快踢",
+      "onboard_time": 1732689859,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 116589,
@@ -1363,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111595,
+      "num": 111595,
+      "word": "鹿晗永恒的纪念",
+      "onboard_time": 1732689977,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111149,
       "num": 111149,
       "word": "游客称喝过免费酒的女生整夜呕吐",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1732635138,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106889,
-      "num": 146793,
-      "word": "南京223火灾事故调查报告",
-      "onboard_time": 1732688958,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106634,
@@ -1795,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57293,
+      "num": 240490,
+      "word": "爱笑爆料iG教练",
+      "onboard_time": 1732688658,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55530,
       "num": 242190,
       "word": "被老师砸伤头骨女孩母亲发声",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1732673299,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 54589,
+      "num": 208225,
+      "word": "94%的消费者在家电维修踩过坑",
+      "onboard_time": 1732689078,
+      "rank": 28,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 54484,
@@ -1857,14 +1913,6 @@
       "onboard_time": 1732673299,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 49774,
-      "num": 240490,
-      "word": "爱笑爆料iG教练",
-      "onboard_time": 1732688658,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 49127,
@@ -2035,14 +2083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 27840,
-      "num": 208225,
-      "word": "94%的消费者在家电维修踩过坑",
-      "onboard_time": 1732689078,
-      "rank": 28,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 27575,
       "num": 63065,
       "word": "内蒙古黑龙江局地大暴雪",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1732642032,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 23845,
+      "num": 166383,
+      "word": "骨质疏松症高发人群有哪些",
+      "onboard_time": 1732689259,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23817,
