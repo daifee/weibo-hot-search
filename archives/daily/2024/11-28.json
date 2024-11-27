@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732726009141,
+  "endTime": 1732728077759,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -41,6 +41,14 @@
       "onboard_time": 1732718840,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 315479,
+      "num": 192617,
+      "word": "家属称女儿遭前男友囚禁泼开水",
+      "onboard_time": 1732724357,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296851,
@@ -99,12 +107,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 181784,
-      "num": 181784,
-      "word": "家属称女儿遭前男友囚禁泼开水",
-      "onboard_time": 1732724357,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 184671,
+      "num": 184671,
+      "word": "美国医生血泪控诉加沙惨状",
+      "onboard_time": 1732722198,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181035,
@@ -225,14 +233,6 @@
       "onboard_time": 1732708578,
       "rank": 29,
       "category": "体育,数码"
-    },
-    {
-      "raw_hot": 95512,
-      "num": 95512,
-      "word": "美国医生血泪控诉加沙惨状",
-      "onboard_time": 1732722198,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 93848,
@@ -379,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61564,
+      "num": 104906,
+      "word": "有效降低全社会物流成本行动方案",
+      "onboard_time": 1732727593,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53794,
       "num": 53794,
       "word": "浪姐6",
@@ -411,6 +419,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 43183,
+      "num": 43183,
+      "word": "ENHYPEN惊喜制服练习室",
+      "onboard_time": 1732726336,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41805,
+      "num": 41805,
+      "word": "上汽大通要求供应商降本",
+      "onboard_time": 1732727414,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41790,
       "num": 80296,
       "word": "中国青年当红不让",
@@ -419,12 +443,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40862,
+      "num": 40862,
+      "word": "这支温暖预告值得更多人看到",
+      "onboard_time": 1732722378,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 38242,
+      "num": 38242,
+      "word": "中国坚定支持巴勒斯坦成为联合国正式会员国",
+      "onboard_time": 1732726635,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28095,
       "num": 108711,
       "word": "马龙打高尔夫球",
       "onboard_time": 1732719919,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24216,
+      "num": 71754,
+      "word": "朱志鑫seek四宫格",
+      "onboard_time": 1732727834,
+      "rank": 19,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

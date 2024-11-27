@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732726009141,
+  "endTime": 1732728077759,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -3491,6 +3491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315479,
+      "num": 192617,
+      "word": "家属称女儿遭前男友囚禁泼开水",
+      "onboard_time": 1732724357,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315030,
       "num": 315030,
       "word": "王大发说檀健次不是顶流",
@@ -6499,6 +6507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184671,
+      "num": 184671,
+      "word": "美国医生血泪控诉加沙惨状",
+      "onboard_time": 1732722198,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184618,
       "num": 184618,
       "word": "普京称目前没有拦截榛树导弹的技术",
@@ -6609,14 +6625,6 @@
       "onboard_time": 1732684337,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 181784,
-      "num": 181784,
-      "word": "家属称女儿遭前男友囚禁泼开水",
-      "onboard_time": 1732724357,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181782,
@@ -10819,14 +10827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95512,
-      "num": 95512,
-      "word": "美国医生血泪控诉加沙惨状",
-      "onboard_time": 1732722198,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 95403,
       "num": 95403,
       "word": "大冰连线",
@@ -12003,6 +12003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 61564,
+      "num": 104906,
+      "word": "有效降低全社会物流成本行动方案",
+      "onboard_time": 1732727593,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61498,
       "num": 144999,
       "word": "国乒锁定女单冠亚军",
@@ -13059,6 +13067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43183,
+      "num": 43183,
+      "word": "ENHYPEN惊喜制服练习室",
+      "onboard_time": 1732726336,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43170,
       "num": 424998,
       "word": "租户交全年房租因中介卷款面临被赶",
@@ -13121,6 +13137,14 @@
       "onboard_time": 1732577356,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41805,
+      "num": 41805,
+      "word": "上汽大通要求供应商降本",
+      "onboard_time": 1732727414,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 41790,
@@ -13193,6 +13217,14 @@
       "onboard_time": 1732687698,
       "rank": 9,
       "category": "动漫,财经"
+    },
+    {
+      "raw_hot": 40862,
+      "num": 40862,
+      "word": "这支温暖预告值得更多人看到",
+      "onboard_time": 1732722378,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40849,
@@ -13329,6 +13361,14 @@
       "onboard_time": 1732641194,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38242,
+      "num": 38242,
+      "word": "中国坚定支持巴勒斯坦成为联合国正式会员国",
+      "onboard_time": 1732726635,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38228,
@@ -14321,6 +14361,14 @@
       "onboard_time": 1732459281,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24216,
+      "num": 71754,
+      "word": "朱志鑫seek四宫格",
+      "onboard_time": 1732727834,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24162,
