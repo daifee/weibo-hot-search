@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732699546952,
+  "endTime": 1732700463681,
   "band_list": [
     {
       "raw_hot": 2483621,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1677301,
+      "num": 1677301,
+      "word": "妻子坠海身亡后不久他在酒店招嫖",
+      "onboard_time": 1732696638,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1667237,
       "num": 1667237,
       "word": "因果报应 富养女儿",
@@ -73,14 +81,6 @@
       "onboard_time": 1732674018,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1321025,
-      "num": 1321025,
-      "word": "妻子坠海身亡后不久他在酒店招嫖",
-      "onboard_time": 1732696638,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1205339,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 742540,
+      "num": 742540,
+      "word": "浪姐6",
+      "onboard_time": 1732698138,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 727665,
       "num": 637416,
       "word": "花了1万八的俄罗斯旅游",
@@ -225,14 +233,6 @@
       "onboard_time": 1732632501,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 670640,
-      "num": 670640,
-      "word": "浪姐6",
-      "onboard_time": 1732698138,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 658677,
@@ -347,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522436,
+      "num": 522436,
+      "word": "医院两万多个预约号去哪了",
+      "onboard_time": 1732694959,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 503427,
       "num": 381281,
       "word": "恩利称其父母离婚是件不错的事",
       "onboard_time": 1732684698,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502881,
-      "num": 502881,
-      "word": "医院两万多个预约号去哪了",
-      "onboard_time": 1732694959,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 494930,
@@ -401,6 +401,14 @@
       "onboard_time": 1732672339,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 442766,
+      "num": 442766,
+      "word": "羽绒服涨价与猪有关",
+      "onboard_time": 1732696399,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403818,
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377526,
+      "num": 377526,
+      "word": "王一博清华大学海报",
+      "onboard_time": 1732698978,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376400,
       "num": 376400,
       "word": "白鹿穿睡衣上班",
@@ -465,14 +481,6 @@
       "onboard_time": 1732685120,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 372331,
-      "num": 372331,
-      "word": "羽绒服涨价与猪有关",
-      "onboard_time": 1732696399,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364135,
@@ -491,20 +499,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358446,
+      "num": 201063,
+      "word": "五点五个勤天",
+      "onboard_time": 1732696699,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357838,
       "num": 260988,
       "word": "谈薪把offer谈没了的真实感受",
       "onboard_time": 1732669218,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 356612,
-      "num": 201063,
-      "word": "五点五个勤天",
-      "onboard_time": 1732696699,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 354527,
@@ -593,6 +601,14 @@
       "onboard_time": 1732666758,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 296265,
+      "num": 296265,
+      "word": "谁在冬天减肥",
+      "onboard_time": 1732694418,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 294135,
@@ -859,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211410,
+      "num": 169837,
+      "word": "阿米尔汗买下因果报应版权",
+      "onboard_time": 1732699639,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210897,
       "num": 210897,
       "word": "礼兵雪中演练迎志愿军烈士回家",
@@ -923,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200649,
+      "num": 182935,
+      "word": "熟人作案男二",
+      "onboard_time": 1732698858,
+      "rank": 21,
+      "category": "剧集,剧集"
+    },
+    {
       "raw_hot": 198428,
       "num": 204615,
       "word": "镖人杀青",
@@ -945,14 +977,6 @@
       "onboard_time": 1732681699,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195895,
-      "num": 195895,
-      "word": "谁在冬天减肥",
-      "onboard_time": 1732694418,
-      "rank": 33,
-      "category": "运动健身"
     },
     {
       "raw_hot": 195593,
@@ -993,6 +1017,14 @@
       "onboard_time": 1732672398,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 191722,
+      "num": 191722,
+      "word": "K80",
+      "onboard_time": 1732699639,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 190894,
@@ -1211,12 +1243,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170707,
+      "num": 532917,
+      "word": "农夫山泉再发辟谣声明",
+      "onboard_time": 1732698558,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 169951,
       "num": 169951,
       "word": "中学生被老师教育后从5楼跳下",
       "onboard_time": 1732688299,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168090,
+      "num": 168090,
+      "word": "极氪副总裁朱凌怒怼懂车帝主播胡说",
+      "onboard_time": 1732697539,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 166368,
@@ -1315,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156253,
+      "num": 156253,
+      "word": "月经碟",
+      "onboard_time": 1732700178,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153700,
       "num": 317623,
       "word": "十个勤天宣传王一珩我家那小子",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1732674919,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148101,
-      "num": 182935,
-      "word": "熟人作案男二",
-      "onboard_time": 1732698858,
-      "rank": 21,
-      "category": "剧集,剧集"
     },
     {
       "raw_hot": 147914,
@@ -1555,14 +1603,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 130263,
-      "num": 184048,
-      "word": "王一博清华大学海报",
-      "onboard_time": 1732698978,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129440,
       "num": 476788,
       "word": "女性一年要花约508.8元在卫生巾上",
@@ -1596,7 +1636,7 @@
     },
     {
       "raw_hot": 127049,
-      "num": 127049,
+      "num": 129223,
       "word": "蓝莲花怒喷scout经纪公司",
       "onboard_time": 1732693698,
       "rank": 48,
@@ -1673,14 +1713,6 @@
       "onboard_time": 1732678458,
       "rank": 47,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 123078,
-      "num": 123078,
-      "word": "极氪副总裁朱凌怒怼懂车帝主播胡说",
-      "onboard_time": 1732697539,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 122506,
@@ -1803,14 +1835,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 105249,
-      "num": 532917,
-      "word": "农夫山泉再发辟谣声明",
-      "onboard_time": 1732698558,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 104419,
       "num": 104419,
       "word": "丁禹兮壁纸",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1732669519,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91403,
+      "num": 185009,
+      "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
+      "onboard_time": 1732699158,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90991,
@@ -2235,6 +2267,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 58520,
+      "num": 168223,
+      "word": "左航天台上情绪戏",
+      "onboard_time": 1732700238,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57883,
       "num": 186124,
       "word": "立陶宛篮协拒绝归化拉塞尔",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1732663935,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55861,
+      "num": 184599,
+      "word": "家属反映90岁老人遭养老院护工殴打",
+      "onboard_time": 1732698380,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55839,
@@ -2363,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48187,
-      "num": 184599,
-      "word": "家属反映90岁老人遭养老院护工殴打",
-      "onboard_time": 1732698380,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46632,
       "num": 45732,
       "word": "Angelababy与网友合影",
@@ -2403,6 +2443,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 45370,
+      "num": 170604,
+      "word": "市民救助头中弩箭流浪狗并报警",
+      "onboard_time": 1732700119,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44771,
       "num": 257562,
       "word": "李宇春声生不息好歌献给你",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1732692678,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42862,
+      "num": 206098,
+      "word": "女性主义影视剧该升级了",
+      "onboard_time": 1732698499,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 41267,
@@ -2475,14 +2531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34542,
-      "num": 206098,
-      "word": "女性主义影视剧该升级了",
-      "onboard_time": 1732698499,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 34168,
       "num": 34168,
       "word": "妇联回应男子家暴妻子时女儿报警",
@@ -2513,14 +2561,6 @@
       "onboard_time": 1732648451,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29584,
-      "num": 185009,
-      "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
-      "onboard_time": 1732699158,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28687,
@@ -2611,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22656,
+      "num": 136696,
+      "word": "马龙访台交流又送pin了",
+      "onboard_time": 1732700298,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21463,
       "num": 49259,
       "word": "潘展乐和戍边战士说了番温暖的话",
@@ -2633,6 +2681,14 @@
       "onboard_time": 1732671677,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15710,
+      "num": 199152,
+      "word": "好东西是进化后的小妞电影",
+      "onboard_time": 1732699460,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 15316,
@@ -2667,6 +2723,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12443,
+      "num": 146456,
+      "word": "全世界都知道我在过生日了",
+      "onboard_time": 1732697060,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 12365,
       "num": 257417,
       "word": "利拉德37分",
@@ -2675,28 +2739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12301,
-      "num": 195964,
-      "word": "好东西是进化后的小妞电影",
-      "onboard_time": 1732699460,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 11715,
       "num": 159347,
       "word": "何浩楠分享游学碎片",
       "onboard_time": 1732672220,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11473,
-      "num": 146456,
-      "word": "全世界都知道我在过生日了",
-      "onboard_time": 1732697060,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 10574,
