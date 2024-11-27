@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732742541564,
+  "endTime": 1732743457000,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 169029,
-      "num": 169029,
+      "num": 175881,
       "word": "易烊千玺",
       "onboard_time": 1732735031,
       "rank": 0,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 47767,
-      "num": 29439,
+      "num": 30180,
       "word": "人均两万五去8个国家玩了24天",
       "onboard_time": 1732735631,
       "rank": 40,
@@ -563,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25958,
+      "num": 29444,
+      "word": "鹤岗降雪量打破当地11月单日纪录",
+      "onboard_time": 1732736890,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25471,
       "num": 25471,
       "word": "陆柯燃也cha上初雪了",
@@ -579,7 +587,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20663,
+      "raw_hot": 22988,
+      "num": 22988,
+      "word": "一人一句接志愿军烈士回家",
+      "onboard_time": 1732676717,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 21702,
       "num": 34496,
       "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
       "onboard_time": 1732730593,
@@ -601,22 +617,6 @@
       "onboard_time": 1732721837,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18358,
-      "num": 18358,
-      "word": "一人一句接志愿军烈士回家",
-      "onboard_time": 1732676717,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 17375,
-      "num": 29444,
-      "word": "鹤岗降雪量打破当地11月单日纪录",
-      "onboard_time": 1732736890,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16683,
@@ -667,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 13446,
+      "num": 31408,
+      "word": "护犊子原来可以这样理解",
+      "onboard_time": 1732741031,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 13265,
       "num": 18321,
       "word": "老师打破学生头骨教育不能逾越底线",
@@ -683,12 +691,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 12545,
-      "num": 15273,
-      "word": "护犊子原来可以这样理解",
-      "onboard_time": 1732741031,
-      "rank": 41,
-      "category": "正能量"
+      "raw_hot": 11965,
+      "num": 15377,
+      "word": "说起牺牲的志愿军哥哥奶奶哭了",
+      "onboard_time": 1732739830,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11885,
@@ -699,20 +707,28 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 11876,
-      "num": 15377,
-      "word": "说起牺牲的志愿军哥哥奶奶哭了",
-      "onboard_time": 1732739830,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11827,
       "num": 17994,
       "word": "又从中国航展选出了一波帅图",
       "onboard_time": 1732737311,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11430,
+      "num": 14144,
+      "word": "加沙人睡梦中海水灌进帐篷",
+      "onboard_time": 1732741211,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10102,
+      "num": 19704,
+      "word": "周慧敏发长文聊入行37年经历",
+      "onboard_time": 1732741451,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 7887,
@@ -739,14 +755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 6237,
-      "num": 19704,
-      "word": "周慧敏发长文聊入行37年经历",
-      "onboard_time": 1732741451,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 5853,
       "num": 23174,
       "word": "张杰笑晕在沙发上",
@@ -760,6 +768,14 @@
       "word": "钟辰乐晒初雪照",
       "onboard_time": 1732740730,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5317,
+      "num": 21571,
+      "word": "张泽禹live是毛茸茸雪宝",
+      "onboard_time": 1732743130,
+      "rank": 19,
       "category": "艺人"
     }
   ],
