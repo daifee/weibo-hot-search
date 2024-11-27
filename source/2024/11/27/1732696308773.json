@@ -1,0 +1,410 @@
+{
+  "runTime": 1732696308773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2483621,
+        "num": 2483621,
+        "word": "男子为骗保把妻子推下轮船坠海身亡",
+        "onboard_time": 1732691238,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1333071,
+        "num": 1333071,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37666,
+        "num": 1128476,
+        "word": "供应链的发展如何改变我们的生活",
+        "onboard_time": 1732695618,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 926630,
+        "num": 926630,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645336,
+        "num": 645336,
+        "word": "河南一杂技演员表演时绳子断裂坠落",
+        "onboard_time": 1732691599,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497462,
+        "num": 497462,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809114,
+        "num": 459678,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412365,
+        "num": 412365,
+        "word": "李行亮让留几手别忽视父亲的作用",
+        "onboard_time": 1732695019,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268370,
+        "num": 411625,
+        "word": "医院两万多个预约号去哪了",
+        "onboard_time": 1732694959,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62898,
+        "num": 411080,
+        "word": "大额存单利率进入1字头",
+        "onboard_time": 1732694897,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 806110,
+        "num": 411031,
+        "word": "芙学",
+        "onboard_time": 1732694058,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410896,
+        "num": 410896,
+        "word": "张予曦 死腿快踢",
+        "onboard_time": 1732689859,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349095,
+        "num": 349095,
+        "word": "周雨彤 荣梓杉闭嘴的时候很帅",
+        "onboard_time": 1732687399,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331295,
+        "num": 331295,
+        "word": "十个勤天群像的尽头是BE",
+        "onboard_time": 1732692738,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212988,
+        "num": 317263,
+        "word": "9岁女孩被老师砸伤案最新进展",
+        "onboard_time": 1732695078,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316007,
+        "num": 316007,
+        "word": "立白集团回应经理招聘女生做情人",
+        "onboard_time": 1732687578,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 305400,
+        "num": 305400,
+        "word": "小咘芽跟张杰说保护好嗓子",
+        "onboard_time": 1732691900,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248129,
+        "num": 248129,
+        "word": "马龙杨倩抵达台湾",
+        "onboard_time": 1732685120,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241131,
+        "num": 241131,
+        "word": "南京223火灾事故调查报告",
+        "onboard_time": 1732688958,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 155355,
+        "num": 240957,
+        "word": "哈尔滨一雪圈摊位270万被拍下",
+        "onboard_time": 1732694658,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455437,
+        "num": 240439,
+        "word": "偶遇肖战逛街",
+        "onboard_time": 1732688119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368924,
+        "num": 240013,
+        "word": "老师用三角尺砸伤女童获刑5年",
+        "onboard_time": 1732690519,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284520,
+        "num": 239506,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194001,
+        "num": 239477,
+        "word": "虞书欣凌妙妙单人周边破820万",
+        "onboard_time": 1732695499,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119521,
+        "num": 238963,
+        "word": "马龙随手掏pin送粉丝",
+        "onboard_time": 1732696098,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238672,
+        "num": 238672,
+        "word": "Faker看Knight出装就觉得赢了",
+        "onboard_time": 1732693698,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234862,
+        "num": 234862,
+        "word": "天选古偶四美",
+        "onboard_time": 1732687878,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215508,
+        "num": 215508,
+        "word": "花了1万八的俄罗斯旅游",
+        "onboard_time": 1732683020,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160987,
+        "num": 215313,
+        "word": "北京突然飘雪属于大力出奇迹",
+        "onboard_time": 1732683320,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84286,
+        "num": 215232,
+        "word": "志愿者截停装载400多只狗货车",
+        "onboard_time": 1732694837,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215188,
+        "num": 215188,
+        "word": "陈少熙缺席种地吧3",
+        "onboard_time": 1732695078,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200982,
+        "num": 200982,
+        "word": "恩利称其父母离婚是件不错的事",
+        "onboard_time": 1732684698,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200308,
+        "num": 200308,
+        "word": "区域经理招聘女生做情人月薪13000",
+        "onboard_time": 1732685779,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188123,
+        "num": 188123,
+        "word": "谁在冬天减肥",
+        "onboard_time": 1732694418,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186326,
+        "num": 186326,
+        "word": "花2万买保时捷小卡宴车标竟是驴",
+        "onboard_time": 1732681280,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179101,
+        "num": 179101,
+        "word": "电瓶车29楼充电起火致两邻居身亡",
+        "onboard_time": 1732674919,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 176595,
+        "num": 176595,
+        "word": "三根手指等于一个望远镜",
+        "onboard_time": 1732693278,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171277,
+        "num": 171277,
+        "word": "5个放松行为其实很损耗气血",
+        "onboard_time": 1732688419,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161215,
+        "num": 161215,
+        "word": "十个勤天缺一不可",
+        "onboard_time": 1732694959,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145321,
+        "num": 145321,
+        "word": "李耕耘 进组",
+        "onboard_time": 1732687938,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143761,
+        "num": 143761,
+        "word": "朴成训担任音银年末MC",
+        "onboard_time": 1732696098,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141108,
+        "num": 141108,
+        "word": "985本硕的建筑设计师们月薪三千",
+        "onboard_time": 1732694178,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140803,
+        "num": 140803,
+        "word": "羽绒服一天一个价",
+        "onboard_time": 1732676298,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134823,
+        "num": 134823,
+        "word": "羽绒服",
+        "onboard_time": 1732673057,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132364,
+        "num": 132364,
+        "word": "45岁汤唯状态",
+        "onboard_time": 1732690039,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131671,
+        "num": 131671,
+        "word": "9岁女孩被老师砸伤案一审宣判",
+        "onboard_time": 1732689678,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79310,
+        "num": 130714,
+        "word": "原神5.2版本",
+        "onboard_time": 1732695798,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130294,
+        "num": 130294,
+        "word": "蒋敦豪李耕耘赵一博暂别种地吧3",
+        "onboard_time": 1732686738,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127049,
+        "num": 127049,
+        "word": "蓝莲花怒喷scout经纪公司",
+        "onboard_time": 1732693698,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119200,
+        "num": 119200,
+        "word": "白鹿绿衣路透",
+        "onboard_time": 1732696039,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国树立了合作互利共赢的生动样板#"
+    }
+  }
+}

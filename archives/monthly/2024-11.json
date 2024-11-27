@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732693106474,
+  "endTime": 1732696308773,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -752,6 +752,14 @@
       "word": "给学生戴小蜜蜂的女老师道歉",
       "onboard_time": 1731896357,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2483621,
+      "num": 2483621,
+      "word": "男子为骗保把妻子推下轮船坠海身亡",
+      "onboard_time": 1732691238,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -7155,14 +7163,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 866624,
-      "num": 866624,
-      "word": "男子为骗保把妻子推下轮船坠海身亡",
-      "onboard_time": 1732691238,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 865857,
       "num": 865857,
       "word": "落跑新娘凌妙妙",
@@ -8145,6 +8145,14 @@
       "onboard_time": 1732437860,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 806110,
+      "num": 411031,
+      "word": "芙学",
+      "onboard_time": 1732694058,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 806107,
@@ -11416,6 +11424,14 @@
       "word": "烧伤妈妈出院前喝上久违的奶茶",
       "onboard_time": 1731554120,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645336,
+      "num": 645336,
+      "word": "河南一杂技演员表演时绳子断裂坠落",
+      "onboard_time": 1732691599,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -14948,7 +14964,7 @@
     },
     {
       "raw_hot": 524586,
-      "num": 327868,
+      "num": 349095,
       "word": "周雨彤 荣梓杉闭嘴的时候很帅",
       "onboard_time": 1732687399,
       "rank": 17,
@@ -15875,6 +15891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 497462,
+      "num": 497462,
+      "word": "吃火锅意外入镜直播间获赔500元",
+      "onboard_time": 1732695438,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497337,
       "num": 497337,
       "word": "赵露思王鹤棣内娱同桌",
@@ -15956,7 +15980,7 @@
     },
     {
       "raw_hot": 494930,
-      "num": 322076,
+      "num": 410896,
       "word": "张予曦 死腿快踢",
       "onboard_time": 1732689859,
       "rank": 44,
@@ -19073,6 +19097,14 @@
       "onboard_time": 1732350738,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412365,
+      "num": 412365,
+      "word": "李行亮让留几手别忽视父亲的作用",
+      "onboard_time": 1732695019,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 412363,
@@ -23219,6 +23251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331295,
+      "num": 331295,
+      "word": "十个勤天群像的尽头是BE",
+      "onboard_time": 1732692738,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331265,
       "num": 331265,
       "word": "特朗普坐垃圾车回应拜登垃圾言论",
@@ -24745,6 +24785,14 @@
       "onboard_time": 1731142158,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305400,
+      "num": 305400,
+      "word": "小咘芽跟张杰说保护好嗓子",
+      "onboard_time": 1732691900,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 305200,
@@ -27665,6 +27713,14 @@
       "onboard_time": 1731285680,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268370,
+      "num": 411625,
+      "word": "医院两万多个预约号去哪了",
+      "onboard_time": 1732694959,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 268295,
@@ -30699,6 +30755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238672,
+      "num": 238672,
+      "word": "Faker看Knight出装就觉得赢了",
+      "onboard_time": 1732693698,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238562,
       "num": 281285,
       "word": "金饰价格跌至700元以下",
@@ -31665,14 +31729,6 @@
       "onboard_time": 1731317181,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230189,
-      "num": 230189,
-      "word": "十个勤天群像的尽头是BE",
-      "onboard_time": 1732692738,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 230178,
@@ -33795,6 +33851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215188,
+      "num": 215188,
+      "word": "陈少熙缺席种地吧3",
+      "onboard_time": 1732695078,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215182,
       "num": 215182,
       "word": "王楚钦把对手拍子打掉了",
@@ -34105,6 +34169,14 @@
       "onboard_time": 1731989421,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 212988,
+      "num": 317263,
+      "word": "9岁女孩被老师砸伤案最新进展",
+      "onboard_time": 1732695078,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212923,
@@ -36433,14 +36505,6 @@
       "onboard_time": 1732539859,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 203497,
-      "num": 203497,
-      "word": "河南一杂技演员表演时绳子断裂坠落",
-      "onboard_time": 1732691599,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203491,
@@ -39235,6 +39299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194001,
+      "num": 239477,
+      "word": "虞书欣凌妙妙单人周边破820万",
+      "onboard_time": 1732695499,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193981,
       "num": 193981,
       "word": "华为MateX6",
@@ -39865,14 +39937,6 @@
       "onboard_time": 1731156438,
       "rank": 40,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 192163,
-      "num": 192163,
-      "word": "小咘芽跟张杰说保护好嗓子",
-      "onboard_time": 1732691900,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 192158,
@@ -41097,6 +41161,14 @@
       "onboard_time": 1731413903,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188123,
+      "num": 188123,
+      "word": "谁在冬天减肥",
+      "onboard_time": 1732694418,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 188084,
@@ -44081,6 +44153,14 @@
       "onboard_time": 1731402142,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 176595,
+      "num": 176595,
+      "word": "三根手指等于一个望远镜",
+      "onboard_time": 1732693278,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 176526,
@@ -48547,6 +48627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161215,
+      "num": 161215,
+      "word": "十个勤天缺一不可",
+      "onboard_time": 1732694959,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161171,
       "num": 161171,
       "word": "失笑 那英人没到梗到了",
@@ -50337,6 +50425,14 @@
       "onboard_time": 1732015699,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155355,
+      "num": 240957,
+      "word": "哈尔滨一雪圈摊位270万被拍下",
+      "onboard_time": 1732694658,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155331,
@@ -53931,6 +54027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143761,
+      "num": 143761,
+      "word": "朴成训担任音银年末MC",
+      "onboard_time": 1732696098,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143685,
       "num": 420038,
       "word": "医院偶遇周深检查眼睛",
@@ -54721,6 +54825,14 @@
       "onboard_time": 1730721140,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141108,
+      "num": 141108,
+      "word": "985本硕的建筑设计师们月薪三千",
+      "onboard_time": 1732694178,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141105,
@@ -58691,6 +58803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 127049,
+      "num": 127049,
+      "word": "蓝莲花怒喷scout经纪公司",
+      "onboard_time": 1732693698,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127024,
       "num": 127024,
       "word": "巴拉圭2比1阿根廷",
@@ -61035,6 +61155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119521,
+      "num": 238963,
+      "word": "马龙随手掏pin送粉丝",
+      "onboard_time": 1732696098,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119448,
       "num": 243221,
       "word": "顺其自然再捐109万元",
@@ -61121,6 +61249,14 @@
       "onboard_time": 1731329237,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119200,
+      "num": 119200,
+      "word": "白鹿绿衣路透",
+      "onboard_time": 1732696039,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119185,
@@ -68403,6 +68539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84286,
+      "num": 215232,
+      "word": "志愿者截停装载400多只狗货车",
+      "onboard_time": 1732694837,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84275,
       "num": 84275,
       "word": "国乒男队本站比赛仅剩林诗栋",
@@ -72409,6 +72553,14 @@
       "onboard_time": 1731251300,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62898,
+      "num": 411080,
+      "word": "大额存单利率进入1字头",
+      "onboard_time": 1732694897,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 62862,
@@ -79937,6 +80089,14 @@
       "onboard_time": 1732177459,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37666,
+      "num": 1128476,
+      "word": "供应链的发展如何改变我们的生活",
+      "onboard_time": 1732695618,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 37636,
