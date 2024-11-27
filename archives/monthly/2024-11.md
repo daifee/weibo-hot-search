@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 15:25:22
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 15:38:26
 </p>
 </blockquote>
 <p>
@@ -5379,6 +5379,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E9%AA%97%E4%BF%9D%E6%8A%8A%E5%A6%BB%E5%AD%90%E6%8E%A8%E4%B8%8B%E8%BD%AE%E8%88%B9%E5%9D%A0%E6%B5%B7%E8%BA%AB%E4%BA%A1%23" target="weibo">
+男子为骗保把妻子推下轮船坠海身亡（热度：866624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%BD%E8%B7%91%E6%96%B0%E5%A8%98%E5%87%8C%E5%A6%99%E5%A6%99%23" target="weibo">
 落跑新娘凌妙妙（热度：865857）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS古装（热度：814877）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LadyGaga%23" target="weibo">
 LadyGaga（热度：814633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%20%E5%BD%AD%E9%AB%98%23" target="weibo">
-翁青雅 彭高（热度：814281）
 </a>
 </li>
 

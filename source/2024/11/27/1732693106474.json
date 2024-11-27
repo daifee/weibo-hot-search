@@ -1,0 +1,410 @@
+{
+  "runTime": 1732693106474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1858071,
+        "num": 1858071,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 866624,
+        "num": 866624,
+        "word": "男子为骗保把妻子推下轮船坠海身亡",
+        "onboard_time": 1732691238,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49794,
+        "num": 819895,
+        "word": "全力保障人民群众生命安全和社会稳定",
+        "onboard_time": 1732681221,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1219996,
+        "num": 817175,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 804111,
+        "num": 804111,
+        "word": "老师用三角尺砸伤女童获刑5年",
+        "onboard_time": 1732690519,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812002,
+        "num": 756493,
+        "word": "女子手上9套房每套都烦心",
+        "onboard_time": 1732678638,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 994268,
+        "num": 656842,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519937,
+        "num": 519937,
+        "word": "偶遇肖战逛街",
+        "onboard_time": 1732688119,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475546,
+        "num": 475546,
+        "word": "南京223火灾事故调查报告",
+        "onboard_time": 1732688958,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 311079,
+        "num": 311079,
+        "word": "花2万买保时捷小卡宴车标竟是驴",
+        "onboard_time": 1732681280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270347,
+        "num": 270347,
+        "word": "5个放松行为其实很损耗气血",
+        "onboard_time": 1732688419,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 536171,
+        "num": 269910,
+        "word": "立白集团回应经理招聘女生做情人",
+        "onboard_time": 1732687578,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 494930,
+        "num": 268254,
+        "word": "张予曦 死腿快踢",
+        "onboard_time": 1732689859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456327,
+        "num": 265209,
+        "word": "周雨彤 荣梓杉闭嘴的时候很帅",
+        "onboard_time": 1732687399,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312447,
+        "num": 263823,
+        "word": "李耕耘 进组",
+        "onboard_time": 1732687938,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294729,
+        "num": 262818,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122506,
+        "num": 260581,
+        "word": "于和伟转发区叔圈团建",
+        "onboard_time": 1732691658,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92987,
+        "num": 258032,
+        "word": "爱笑爆料iG教练",
+        "onboard_time": 1732688658,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195261,
+        "num": 256203,
+        "word": "A股放量上涨突破3300点",
+        "onboard_time": 1732691957,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222032,
+        "num": 255858,
+        "word": "王一栩曾对赵一博说横店见",
+        "onboard_time": 1732691419,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507913,
+        "num": 253061,
+        "word": "区域经理招聘女生做情人月薪13000",
+        "onboard_time": 1732685779,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222419,
+        "num": 251906,
+        "word": "花了1万八的俄罗斯旅游",
+        "onboard_time": 1732683020,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 250709,
+        "num": 250709,
+        "word": "天选古偶四美",
+        "onboard_time": 1732687878,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249150,
+        "num": 249150,
+        "word": "蒋敦豪李耕耘赵一博暂别种地吧3",
+        "onboard_time": 1732686738,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64990,
+        "num": 238466,
+        "word": "ES2四周年庆",
+        "onboard_time": 1732692919,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227442,
+        "num": 231218,
+        "word": "马龙杨倩抵达台湾",
+        "onboard_time": 1732685120,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230189,
+        "num": 230189,
+        "word": "十个勤天群像的尽头是BE",
+        "onboard_time": 1732692738,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230017,
+        "num": 230017,
+        "word": "恩利称其父母离婚是件不错的事",
+        "onboard_time": 1732684698,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205793,
+        "num": 205793,
+        "word": "电瓶车29楼充电起火致两邻居身亡",
+        "onboard_time": 1732674919,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 164043,
+        "num": 203661,
+        "word": "北京突然飘雪属于大力出奇迹",
+        "onboard_time": 1732683320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203497,
+        "num": 203497,
+        "word": "河南一杂技演员表演时绳子断裂坠落",
+        "onboard_time": 1732691599,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192163,
+        "num": 192163,
+        "word": "小咘芽跟张杰说保护好嗓子",
+        "onboard_time": 1732691900,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184491,
+        "num": 184491,
+        "word": "十个勤天应到10人实到5.5人",
+        "onboard_time": 1732689139,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164899,
+        "num": 164899,
+        "word": "李现镜头下的稻城亚丁",
+        "onboard_time": 1732690459,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145017,
+        "num": 145017,
+        "word": "45岁汤唯状态",
+        "onboard_time": 1732690039,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162865,
+        "num": 144933,
+        "word": "9岁女孩被老师砸伤案一审宣判",
+        "onboard_time": 1732689678,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163914,
+        "num": 144853,
+        "word": "白鹿穿睡衣上班",
+        "onboard_time": 1732685298,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142846,
+        "num": 142846,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1732691838,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140336,
+        "num": 140336,
+        "word": "羽绒服",
+        "onboard_time": 1732673057,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137897,
+        "num": 137897,
+        "word": "变形计真香哥曾被6所学校开除",
+        "onboard_time": 1732692558,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134603,
+        "num": 134603,
+        "word": "种地吧总导演说坚决不加新人",
+        "onboard_time": 1732687459,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43883,
+        "num": 133678,
+        "word": "绝区零1.3",
+        "onboard_time": 1732692678,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133634,
+        "num": 133634,
+        "word": "羽绒服一天一个价",
+        "onboard_time": 1732676298,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127703,
+        "num": 127703,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1732674018,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127469,
+        "num": 127469,
+        "word": "万国鹏回应曾追求张予曦",
+        "onboard_time": 1732671918,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119560,
+        "num": 119560,
+        "word": "只有川渝人才知道她演的是什么",
+        "onboard_time": 1732689798,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105812,
+        "num": 105812,
+        "word": "人民网评霸总微短剧该管管了",
+        "onboard_time": 1732687459,
+        "rank": 46,
+        "category": "舆论监督,作品衍生"
+      },
+      {
+        "raw_hot": 104411,
+        "num": 104411,
+        "word": "A股放量V型反弹",
+        "onboard_time": 1732693038,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102043,
+        "num": 102043,
+        "word": "BLG官宣Xun离队",
+        "onboard_time": 1732682180,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97600,
+        "num": 97600,
+        "word": "Faker直播看369操作",
+        "onboard_time": 1732680799,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国树立了合作互利共赢的生动样板#"
+    }
+  }
+}
