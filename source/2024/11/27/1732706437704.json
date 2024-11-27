@@ -1,0 +1,410 @@
+{
+  "runTime": 1732706437704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027848,
+        "num": 1164455,
+        "word": "名校生与离异女服务员结婚推其坠海骗保",
+        "onboard_time": 1732702878,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1019905,
+        "num": 1019905,
+        "word": "28岁女孩在烂尾楼里有个家",
+        "onboard_time": 1732704379,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49348,
+        "num": 807780,
+        "word": "供应链的发展如何改变我们的生活",
+        "onboard_time": 1732695618,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1417234,
+        "num": 804165,
+        "word": "妻子坠海身亡后不久他在酒店招嫖",
+        "onboard_time": 1732696638,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747937,
+        "num": 747937,
+        "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
+        "onboard_time": 1732699158,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690288,
+        "num": 690288,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586663,
+        "num": 586663,
+        "word": "浪姐6",
+        "onboard_time": 1732698138,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543921,
+        "num": 543921,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118687,
+        "num": 476198,
+        "word": "潘展乐演讲稿",
+        "onboard_time": 1732704979,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27656,
+        "num": 459945,
+        "word": "好东西有什么不一样",
+        "onboard_time": 1732704798,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456163,
+        "num": 456163,
+        "word": "蒋敦豪直播完就走了",
+        "onboard_time": 1732705159,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451482,
+        "num": 451482,
+        "word": "月经碟",
+        "onboard_time": 1732700178,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 449965,
+        "num": 449965,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33063,
+        "num": 326921,
+        "word": "杂技演员表演时高坠家人称仍在监护室",
+        "onboard_time": 1732706239,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37336,
+        "num": 235437,
+        "word": "白夜破晓导演回应负面评价",
+        "onboard_time": 1732704738,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232344,
+        "num": 232344,
+        "word": "医院两万多个预约号去哪了",
+        "onboard_time": 1732694959,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213786,
+        "num": 213786,
+        "word": "谁在冬天减肥",
+        "onboard_time": 1732694418,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 64144,
+        "num": 213624,
+        "word": "阿娇永夜星河vlog",
+        "onboard_time": 1732705579,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44658,
+        "num": 212631,
+        "word": "太阳星辰一看一个不敢吱声",
+        "onboard_time": 1732704979,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15346,
+        "num": 211702,
+        "word": "贾樟柯说自己是AI迷",
+        "onboard_time": 1732705518,
+        "rank": 19,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 429705,
+        "num": 211339,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 392770,
+        "num": 210558,
+        "word": "王一博清华大学海报",
+        "onboard_time": 1732698978,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333082,
+        "num": 209391,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325435,
+        "num": 208695,
+        "word": "我是刑警一集下线12个人",
+        "onboard_time": 1732704438,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208530,
+        "num": 208530,
+        "word": "李子柒烟台学非遗烙葫芦",
+        "onboard_time": 1732704617,
+        "rank": 24,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 308733,
+        "num": 208351,
+        "word": "李行亮让留几手别忽视父亲的作用",
+        "onboard_time": 1732695019,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202989,
+        "num": 207172,
+        "word": "李昊27岁已经热爱港乐25年了",
+        "onboard_time": 1732703959,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226853,
+        "num": 206822,
+        "word": "阿米尔汗买下因果报应版权",
+        "onboard_time": 1732699639,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107943,
+        "num": 205479,
+        "word": "林一雪中撑伞2.0",
+        "onboard_time": 1732702399,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9222,
+        "num": 204541,
+        "word": "石云鹏说向鹏飞比他简单直接多了",
+        "onboard_time": 1732705759,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299009,
+        "num": 203570,
+        "word": "李行亮说家里卫生请保洁",
+        "onboard_time": 1732705579,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203458,
+        "num": 203458,
+        "word": "男子为骗保把妻子推下轮船坠海身亡",
+        "onboard_time": 1732691238,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186076,
+        "num": 186076,
+        "word": "2号房只剩何浩楠了",
+        "onboard_time": 1732705278,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183489,
+        "num": 183489,
+        "word": "于东来公布胖东来经营情况",
+        "onboard_time": 1732705098,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176074,
+        "num": 176074,
+        "word": "陈鑫海第一部古装男主剧",
+        "onboard_time": 1732705998,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172609,
+        "num": 172609,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168695,
+        "num": 168695,
+        "word": "推妻入海骗保男子有19岁在校情人",
+        "onboard_time": 1732702758,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167581,
+        "num": 167581,
+        "word": "羽绒服涨价与猪有关",
+        "onboard_time": 1732696399,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159975,
+        "num": 159975,
+        "word": "张杰专辑要得音乐电影全球首映",
+        "onboard_time": 1732705700,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141118,
+        "num": 141118,
+        "word": "英雄回祖国",
+        "onboard_time": 1732706118,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132245,
+        "num": 132245,
+        "word": "老师用三角尺砸伤女童获刑5年",
+        "onboard_time": 1732690519,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118263,
+        "num": 118263,
+        "word": "受害女童家长称不服老师只判5年",
+        "onboard_time": 1732698260,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116602,
+        "num": 116602,
+        "word": "ON回应世界赛Q空",
+        "onboard_time": 1732701619,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114194,
+        "num": 114194,
+        "word": "比亚迪供应商股价闻风下跌",
+        "onboard_time": 1732703479,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113878,
+        "num": 113878,
+        "word": "俄公布乌军发射的美制导弹被击落后画面",
+        "onboard_time": 1732705998,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113372,
+        "num": 113372,
+        "word": "立白集团回应经理招聘女生做情人",
+        "onboard_time": 1732687578,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108857,
+        "num": 108857,
+        "word": "顾客意外入镜店家直播间索赔获支持",
+        "onboard_time": 1732701440,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102984,
+        "num": 102984,
+        "word": "Faker看Knight出装就觉得赢了",
+        "onboard_time": 1732693698,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93647,
+        "num": 93647,
+        "word": "K80",
+        "onboard_time": 1732699639,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90712,
+        "num": 90712,
+        "word": "这一碰外卖小哥和保安都笑了",
+        "onboard_time": 1732706418,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}
