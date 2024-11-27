@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732707357490,
+  "endTime": 1732711606671,
   "band_list": [
     {
       "raw_hot": 2483621,
@@ -89,6 +89,14 @@
       "onboard_time": 1732674018,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1379916,
+      "num": 1379916,
+      "word": "樊振东现身K80发布会",
+      "onboard_time": 1732708578,
+      "rank": 0,
+      "category": "体育,数码"
     },
     {
       "raw_hot": 1205339,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821997,
+      "num": 231233,
+      "word": "英国一母亲把女儿藏抽屉养到3岁",
+      "onboard_time": 1732709178,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 821445,
       "num": 821445,
       "word": "原来买羽绒服不能只看含绒量",
@@ -217,6 +233,14 @@
       "onboard_time": 1732690519,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 785834,
+      "num": 631562,
+      "word": "李行亮说家里卫生请保洁",
+      "onboard_time": 1732705579,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 781144,
@@ -259,6 +283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 697032,
+      "num": 697032,
+      "word": "K80价格",
+      "onboard_time": 1732709898,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 677375,
       "num": 242398,
       "word": "妇联通报小女孩常坐光棍怀里",
@@ -291,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 641877,
+      "num": 641877,
+      "word": "孙颖莎为邱贻可庆生",
+      "onboard_time": 1732709539,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 623798,
       "num": 412957,
       "word": "官方通报中学生被老师教育后5楼跳下",
@@ -313,6 +353,14 @@
       "onboard_time": 1732700899,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 611704,
+      "num": 611704,
+      "word": "碎片化睡眠危害等同于熬夜",
+      "onboard_time": 1732708279,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 606416,
@@ -443,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 487179,
-      "num": 487179,
-      "word": "李行亮说家里卫生请保洁",
-      "onboard_time": 1732705579,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 476050,
       "num": 476050,
       "word": "王境泽靠真香定律年入百万",
@@ -467,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445311,
+      "num": 445311,
+      "word": "红米K80发布会",
+      "onboard_time": 1732707378,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 445197,
       "num": 445197,
       "word": "A股",
@@ -481,6 +529,14 @@
       "onboard_time": 1732696399,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425610,
+      "num": 425610,
+      "word": "于东来公布胖东来经营情况",
+      "onboard_time": 1732705098,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 413299,
@@ -619,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320296,
+      "num": 320296,
+      "word": "崔杋圭直播哭了",
+      "onboard_time": 1732709539,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316618,
       "num": 316618,
       "word": "曝比亚迪要求供应商降价",
@@ -699,14 +763,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 291554,
-      "num": 291554,
-      "word": "于东来公布胖东来经营情况",
-      "onboard_time": 1732705098,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 291195,
       "num": 291195,
       "word": "92岁奶奶比29不到的我气血还足",
@@ -737,6 +793,30 @@
       "onboard_time": 1732616418,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275074,
+      "num": 230239,
+      "word": "花3万块在新疆买的小院",
+      "onboard_time": 1732709239,
+      "rank": 23,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 272806,
+      "num": 193926,
+      "word": "白百何接小儿子放学背着上车",
+      "onboard_time": 1732710678,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263284,
+      "num": 263284,
+      "word": "推妻入海骗保男子有19岁在校情人",
+      "onboard_time": 1732702758,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261610,
@@ -811,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242611,
+      "num": 229094,
+      "word": "十个勤天以后呢",
+      "onboard_time": 1732709298,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241257,
       "num": 241257,
       "word": "虞书欣还原凌妙妙小碎步",
@@ -825,6 +913,14 @@
       "onboard_time": 1732631060,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239286,
+      "num": 239286,
+      "word": "林昀儒 魏桥",
+      "onboard_time": 1732710857,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 238672,
@@ -857,6 +953,14 @@
       "onboard_time": 1732627519,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233599,
+      "num": 233599,
+      "word": "王者荣耀",
+      "onboard_time": 1732710499,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 232373,
@@ -920,6 +1024,14 @@
       "word": "你好种地少年",
       "onboard_time": 1732685841,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219418,
+      "num": 219418,
+      "word": "声生不息",
+      "onboard_time": 1732708938,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1003,14 +1115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208969,
-      "num": 208969,
-      "word": "推妻入海骗保男子有19岁在校情人",
-      "onboard_time": 1732702758,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208781,
       "num": 208781,
       "word": "比亚迪回应要求供应商降价",
@@ -1041,6 +1145,14 @@
       "onboard_time": 1732625719,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203418,
+      "num": 203418,
+      "word": "这种危险插排千万别再用了",
+      "onboard_time": 1732707378,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202989,
@@ -1169,6 +1281,14 @@
       "onboard_time": 1732699639,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191363,
+      "num": 495356,
+      "word": "英雄回祖国",
+      "onboard_time": 1732706118,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191142,
@@ -1371,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175058,
+      "num": 175058,
+      "word": "后陡门的夏天结束了",
+      "onboard_time": 1732710378,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174845,
       "num": 174845,
       "word": "恒大集团及许家印被限制高消费",
@@ -1393,6 +1521,14 @@
       "onboard_time": 1732686319,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 171780,
+      "num": 160669,
+      "word": "芒果凑齐了三大群像",
+      "onboard_time": 1732707438,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 171548,
@@ -1419,12 +1555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167246,
-      "num": 495356,
-      "word": "英雄回祖国",
-      "onboard_time": 1732706118,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 167969,
+      "num": 167969,
+      "word": "我是刑警 凭尸体找到大案凶手",
+      "onboard_time": 1732706779,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 166418,
@@ -1457,6 +1593,14 @@
       "onboard_time": 1732681880,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164218,
+      "num": 232650,
+      "word": "丁禹兮副本冒险通关",
+      "onboard_time": 1732710798,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 163780,
@@ -1731,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140483,
+      "num": 442135,
+      "word": "和顶尖舞者王一博一起感受传统文化",
+      "onboard_time": 1732708339,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140012,
       "num": 140012,
       "word": "黄冈58岁高三教师宿舍离世教育局介入",
@@ -1787,6 +1939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 135722,
+      "num": 135722,
+      "word": "周也 OPPO",
+      "onboard_time": 1732711278,
+      "rank": 41,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "内鱼在逃小仙女永久禁言",
@@ -1835,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128541,
+      "num": 128541,
+      "word": "肖战第三小节成绩",
+      "onboard_time": 1732710318,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128012,
       "num": 177924,
       "word": "鹿晗领衔的音乐节如何带火佛山",
@@ -1849,14 +2017,6 @@
       "onboard_time": 1732663876,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127723,
-      "num": 127723,
-      "word": "我是刑警 凭尸体找到大案凶手",
-      "onboard_time": 1732706779,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 127049,
@@ -2009,6 +2169,14 @@
       "onboard_time": 1732700778,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116634,
+      "num": 116634,
+      "word": "暧昧期就是最好嗑的",
+      "onboard_time": 1732711158,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116592,
@@ -2307,11 +2475,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 87871,
+      "num": 87871,
+      "word": "唐嫣COSMO闭年刊预告",
+      "onboard_time": 1732704558,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 86624,
       "num": 86624,
       "word": "湘潭大学宿舍投毒案已移交法院",
       "onboard_time": 1732625238,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86566,
+      "num": 316318,
+      "word": "老师扔三角尺致女生重伤仍未道歉",
+      "onboard_time": 1732711219,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2425,6 +2609,14 @@
       "onboard_time": 1732637477,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76379,
+      "num": 233149,
+      "word": "白夜破晓直播",
+      "onboard_time": 1732709837,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 75897,
@@ -2561,6 +2753,14 @@
       "onboard_time": 1732637298,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 61920,
+      "num": 229608,
+      "word": "BLG xun",
+      "onboard_time": 1732711518,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 61127,
@@ -2891,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36173,
+      "num": 194074,
+      "word": "赵明称友商发布后Magic7销量更好了",
+      "onboard_time": 1732710798,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34764,
       "num": 45697,
       "word": "鹿晗gapday音乐节吸引超7万乐迷",
@@ -2913,6 +3121,14 @@
       "onboard_time": 1732684099,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30147,
+      "num": 149459,
+      "word": "张极 泡杯热茶加点Purple",
+      "onboard_time": 1732710378,
+      "rank": 39,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 30113,

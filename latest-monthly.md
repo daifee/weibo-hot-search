@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 19:35:57
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 20:46:46
 </p>
 </blockquote>
 <p>
@@ -2393,6 +2393,12 @@ Doran加入T1（热度：1387808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%96%91%E8%80%81%E5%A4%AA%E5%B8%A6%E5%AD%99%E6%8F%92%E9%98%9F%E8%A2%AB%E6%80%92%E5%90%BC%23" target="weibo">
 上海迪士尼疑老太带孙插队被怒吼（热度：1381144）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%B0%E8%BA%ABK80%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+樊振东现身K80发布会（热度：1379916）
 </a>
 </li>
 
@@ -5955,6 +5961,12 @@ papi酱说李行亮不哄了（热度：846286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E4%B8%80%E6%AF%8D%E4%BA%B2%E6%8A%8A%E5%A5%B3%E5%84%BF%E8%97%8F%E6%8A%BD%E5%B1%89%E5%85%BB%E5%88%B03%E5%B2%81%23" target="weibo">
+英国一母亲把女儿藏抽屉养到3岁（热度：821997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E8%80%81%E5%A4%B4%E6%9D%AF%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%23" target="weibo">
 Doinb老头杯下跪道歉（热度：821869）
 </a>
@@ -5999,18 +6011,6 @@ Doinb老头杯下跪道歉（热度：821869）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A9%E7%94%B5%E6%A2%AF%E5%86%85%E5%B0%86%E5%B0%8F%E5%A5%B3%E5%AD%A9%E6%8D%82%E5%98%B4%E6%8A%B1%E8%B5%B0%23" target="weibo">
 警方回应男孩电梯内将小女孩捂嘴抱走（热度：819594）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate70%E6%9D%A5%E4%BA%86%23" target="weibo">
-华为Mate70来了（热度：819577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%BA%A7%E5%B9%BC%E5%B8%88%E5%BE%90%E8%89%BA%E6%B4%8B%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91%23" target="weibo">
-高级幼师徐艺洋全年无休（热度：819031）
 </a>
 </li>
 

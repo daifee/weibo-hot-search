@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732707357490,
+  "endTime": 1732711606671,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3177,6 +3177,14 @@
       "onboard_time": 1730637978,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1379916,
+      "num": 1379916,
+      "word": "樊振东现身K80发布会",
+      "onboard_time": 1732708578,
+      "rank": 0,
+      "category": "体育,数码"
     },
     {
       "raw_hot": 1378407,
@@ -7923,6 +7931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 821997,
+      "num": 231233,
+      "word": "英国一母亲把女儿藏抽屉养到3岁",
+      "onboard_time": 1732709178,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 821869,
       "num": 386809,
       "word": "Doinb老头杯下跪道歉",
@@ -8513,6 +8529,14 @@
       "onboard_time": 1730433498,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 785834,
+      "num": 631562,
+      "word": "李行亮说家里卫生请保洁",
+      "onboard_time": 1732705579,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 785831,
@@ -10211,6 +10235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 697032,
+      "num": 697032,
+      "word": "K80价格",
+      "onboard_time": 1732709898,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 696954,
       "num": 696954,
       "word": "94岁巴菲特公布后事安排",
@@ -11603,6 +11635,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 641877,
+      "num": 641877,
+      "word": "孙颖莎为邱贻可庆生",
+      "onboard_time": 1732709539,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641806,
       "num": 641806,
       "word": "直播间159买的鹅绒服是什么绒",
@@ -12465,6 +12505,14 @@
       "onboard_time": 1730622378,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611704,
+      "num": 611704,
+      "word": "碎片化睡眠危害等同于熬夜",
+      "onboard_time": 1732708279,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 611325,
@@ -16379,14 +16427,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 487179,
-      "num": 487179,
-      "word": "李行亮说家里卫生请保洁",
-      "onboard_time": 1732705579,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486825,
       "num": 486825,
       "word": "经济学家预计2026年房地产拐点出现",
@@ -17891,6 +17931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 445311,
+      "num": 445311,
+      "word": "红米K80发布会",
+      "onboard_time": 1732707378,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 445282,
       "num": 445282,
       "word": "祖国一旦有需要反正那就干",
@@ -18673,6 +18721,14 @@
       "onboard_time": 1730858661,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 425610,
+      "num": 425610,
+      "word": "于东来公布胖东来经营情况",
+      "onboard_time": 1732705098,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 425367,
@@ -23939,6 +23995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320296,
+      "num": 320296,
+      "word": "崔杋圭直播哭了",
+      "onboard_time": 1732709539,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320230,
       "num": 459738,
       "word": "刘宪华现身粉丝婚礼献唱",
@@ -25891,14 +25955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291554,
-      "num": 291554,
-      "word": "于东来公布胖东来经营情况",
-      "onboard_time": 1732705098,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 291435,
       "num": 321780,
       "word": "三只羊嘴哥复播",
@@ -27243,6 +27299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 275074,
+      "num": 230239,
+      "word": "花3万块在新疆买的小院",
+      "onboard_time": 1732709239,
+      "rank": 23,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 275073,
       "num": 245169,
       "word": "妈妈看2岁儿子拍碎6000元电视",
@@ -27489,6 +27553,14 @@
       "onboard_time": 1730457739,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272806,
+      "num": 193926,
+      "word": "白百何接小儿子放学背着上车",
+      "onboard_time": 1732710678,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 272762,
@@ -28297,6 +28369,14 @@
       "onboard_time": 1731043221,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263284,
+      "num": 263284,
+      "word": "推妻入海骗保男子有19岁在校情人",
+      "onboard_time": 1732702758,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263220,
@@ -30411,6 +30491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 242611,
+      "num": 229094,
+      "word": "十个勤天以后呢",
+      "onboard_time": 1732709298,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242581,
       "num": 242581,
       "word": "医生眼中皮肤就是情绪的镜子",
@@ -30849,6 +30937,14 @@
       "onboard_time": 1730572702,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239286,
+      "num": 239286,
+      "word": "林昀儒 魏桥",
+      "onboard_time": 1732710857,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 239267,
@@ -31473,6 +31569,14 @@
       "onboard_time": 1732616299,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233599,
+      "num": 233599,
+      "word": "王者荣耀",
+      "onboard_time": 1731251780,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 233532,
@@ -33395,6 +33499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219418,
+      "num": 219418,
+      "word": "声生不息",
+      "onboard_time": 1731755179,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219355,
       "num": 345097,
       "word": "虞书欣很会选剧本",
@@ -35163,14 +35275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208969,
-      "num": 208969,
-      "word": "推妻入海骗保男子有19岁在校情人",
-      "onboard_time": 1732702758,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208957,
       "num": 208957,
       "word": "最高法回应3人强奸未成年被执行死刑",
@@ -36705,6 +36809,14 @@
       "onboard_time": 1732165461,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203418,
+      "num": 203418,
+      "word": "这种危险插排千万别再用了",
+      "onboard_time": 1732707378,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 203388,
@@ -40443,6 +40555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191363,
+      "num": 495356,
+      "word": "英雄回祖国",
+      "onboard_time": 1732706118,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191229,
       "num": 191229,
       "word": "虞书欣头像库更新",
@@ -43651,14 +43771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179955,
-      "num": 179955,
-      "word": "王者荣耀",
-      "onboard_time": 1731251780,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179888,
       "num": 220768,
       "word": "女生买鞋被店家索要试鞋费",
@@ -44867,6 +44979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175058,
+      "num": 175058,
+      "word": "后陡门的夏天结束了",
+      "onboard_time": 1732710378,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175055,
       "num": 175055,
       "word": "WTT赛程",
@@ -45793,6 +45913,14 @@
       "onboard_time": 1731634338,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 171780,
+      "num": 160669,
+      "word": "芒果凑齐了三大群像",
+      "onboard_time": 1732707438,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 171754,
@@ -46867,6 +46995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167969,
+      "num": 167969,
+      "word": "我是刑警 凭尸体找到大案凶手",
+      "onboard_time": 1732706779,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167865,
       "num": 181935,
       "word": "檀健次咯噔一下具象化",
@@ -47041,14 +47177,6 @@
       "onboard_time": 1730971340,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 167246,
-      "num": 495356,
-      "word": "英雄回祖国",
-      "onboard_time": 1732706118,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 167236,
@@ -48001,6 +48129,14 @@
       "onboard_time": 1731855561,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164218,
+      "num": 232650,
+      "word": "丁禹兮副本冒险通关",
+      "onboard_time": 1732710798,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 164208,
@@ -49713,14 +49849,6 @@
       "onboard_time": 1731427519,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158734,
-      "num": 158734,
-      "word": "声生不息",
-      "onboard_time": 1731755179,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 158717,
@@ -55387,6 +55515,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 140483,
+      "num": 442135,
+      "word": "和顶尖舞者王一博一起感受传统文化",
+      "onboard_time": 1732708339,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140480,
       "num": 381821,
       "word": "陈母问勇答曰祥榕勇冠三军",
@@ -56793,6 +56929,14 @@
       "onboard_time": 1731814879,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 135722,
+      "num": 135722,
+      "word": "周也 OPPO",
+      "onboard_time": 1732711278,
+      "rank": 41,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 135687,
@@ -58723,6 +58867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128541,
+      "num": 128541,
+      "word": "肖战第三小节成绩",
+      "onboard_time": 1732710318,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128499,
       "num": 128499,
       "word": "埃文凯尔为筹钱中国行卖掉一个钱币",
@@ -59017,14 +59169,6 @@
       "onboard_time": 1730688619,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127723,
-      "num": 127723,
-      "word": "我是刑警 凭尸体找到大案凶手",
-      "onboard_time": 1732706779,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 127653,
@@ -62281,6 +62425,14 @@
       "onboard_time": 1731631339,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116634,
+      "num": 116634,
+      "word": "暧昧期就是最好嗑的",
+      "onboard_time": 1732711158,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116627,
@@ -68379,6 +68531,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 87871,
+      "num": 87871,
+      "word": "唐嫣COSMO闭年刊预告",
+      "onboard_time": 1732704558,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 87858,
       "num": 417713,
       "word": "当歌唱祖国在航展现场响起",
@@ -68585,6 +68745,14 @@
       "onboard_time": 1730997438,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 86566,
+      "num": 316318,
+      "word": "老师扔三角尺致女生重伤仍未道歉",
+      "onboard_time": 1732711219,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86554,
@@ -70433,6 +70601,14 @@
       "onboard_time": 1731232819,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76379,
+      "num": 233149,
+      "word": "白夜破晓直播",
+      "onboard_time": 1732709837,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 76351,
@@ -73281,6 +73457,14 @@
       "onboard_time": 1732637298,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 61920,
+      "num": 229608,
+      "word": "BLG xun",
+      "onboard_time": 1732711518,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 61896,
@@ -81291,6 +81475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36173,
+      "num": 194074,
+      "word": "赵明称友商发布后Magic7销量更好了",
+      "onboard_time": 1732710798,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36168,
       "num": 317691,
       "word": "东电 张本智和胜利的背后",
@@ -83881,6 +84073,14 @@
       "onboard_time": 1731093911,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30147,
+      "num": 149459,
+      "word": "张极 泡杯热茶加点Purple",
+      "onboard_time": 1732710378,
+      "rank": 39,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 30113,
