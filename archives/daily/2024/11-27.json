@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732679397457,
+  "endTime": 1732681722652,
   "band_list": [
     {
       "raw_hot": 1733936,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1409741,
+      "num": 1409741,
+      "word": "女子手上9套房每套都烦心",
+      "onboard_time": 1732678638,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1186728,
       "num": 366524,
       "word": "电瓶车29楼充电起火致两邻居身亡",
@@ -41,6 +49,14 @@
       "onboard_time": 1732670298,
       "rank": 10,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1024893,
+      "num": 1024893,
+      "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
+      "onboard_time": 1732675939,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 972949,
@@ -91,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 708262,
-      "num": 708262,
-      "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
-      "onboard_time": 1732675939,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 756080,
+      "num": 321587,
+      "word": "徐艺洋水晶",
+      "onboard_time": 1732678638,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 706073,
@@ -112,6 +128,14 @@
       "word": "妇联通报小女孩常坐光棍怀里",
       "onboard_time": 1732632501,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643851,
+      "num": 643851,
+      "word": "外媒称大疆在黄埔军校训练员工",
+      "onboard_time": 1732679120,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -131,6 +155,14 @@
       "category": "网红,舆论监督"
     },
     {
+      "raw_hot": 506088,
+      "num": 309454,
+      "word": "再见爱人抢座位事件",
+      "onboard_time": 1732679479,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490419,
       "num": 211631,
       "word": "养女防老正成为农村养老新现象",
@@ -139,20 +171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476050,
+      "num": 476050,
+      "word": "王境泽靠真香定律年入百万",
+      "onboard_time": 1732677258,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 445197,
       "num": 445197,
       "word": "A股",
       "onboard_time": 1732672339,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 442244,
-      "num": 359802,
-      "word": "王境泽靠真香定律年入百万",
-      "onboard_time": 1732677258,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 403818,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 357838,
-      "num": 250407,
+      "num": 260988,
       "word": "谈薪把offer谈没了的真实感受",
       "onboard_time": 1732669218,
       "rank": 15,
@@ -217,6 +249,14 @@
       "onboard_time": 1732669279,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 352275,
+      "num": 191431,
+      "word": "Faker直播看369操作",
+      "onboard_time": 1732680799,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 332556,
@@ -275,6 +315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 259669,
+      "num": 259669,
+      "word": "丁禹兮五大",
+      "onboard_time": 1732679660,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 258909,
       "num": 258909,
       "word": "黎以停火协议已被批准",
@@ -315,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242837,
-      "num": 175110,
-      "word": "徐艺洋水晶",
-      "onboard_time": 1732678638,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241257,
       "num": 241257,
       "word": "虞书欣还原凌妙妙小碎步",
@@ -345,6 +385,14 @@
       "onboard_time": 1732649830,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236162,
+      "num": 236162,
+      "word": "山河如愿 英雄回家",
+      "onboard_time": 1732679778,
+      "rank": 21,
+      "category": "正能量,军事"
     },
     {
       "raw_hot": 235489,
@@ -419,12 +467,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214440,
+      "num": 214440,
+      "word": "曝比亚迪要求供应商降价",
+      "onboard_time": 1732680860,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 210897,
       "num": 210897,
       "word": "礼兵雪中演练迎志愿军烈士回家",
       "onboard_time": 1732666939,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 207086,
+      "num": 189794,
+      "word": "花2万买保时捷小卡宴车标竟是驴",
+      "onboard_time": 1732681280,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206836,
+      "num": 206836,
+      "word": "杨紫明艳瞬间",
+      "onboard_time": 1732681158,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206260,
@@ -452,7 +524,7 @@
     },
     {
       "raw_hot": 198428,
-      "num": 198428,
+      "num": 204615,
       "word": "镖人杀青",
       "onboard_time": 1732678519,
       "rank": 25,
@@ -507,6 +579,30 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 186324,
+      "num": 201142,
+      "word": "肖战一首歌寄托真实心声",
+      "onboard_time": 1732680560,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 185734,
+      "num": 185734,
+      "word": "地狱级难度的停车位长什么样",
+      "onboard_time": 1732681461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184667,
+      "num": 186311,
+      "word": "旺仔牛奶生产全过程",
+      "onboard_time": 1732680860,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183107,
       "num": 265285,
       "word": "杨超越首张EP透明",
@@ -555,12 +651,28 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 173062,
-      "num": 173062,
+      "raw_hot": 174795,
+      "num": 185750,
       "word": "白百何时隔六年再演打女",
       "onboard_time": 1732678699,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171548,
+      "num": 195846,
+      "word": "一下雪沈阳故宫就美成了壁纸",
+      "onboard_time": 1732680740,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 170453,
+      "num": 170453,
+      "word": "112岁全球最年长男子去世",
+      "onboard_time": 1732678938,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166368,
@@ -571,12 +683,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165437,
+      "num": 330584,
+      "word": "中羽协提示羽绒制品选购要点",
+      "onboard_time": 1732680198,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 163780,
       "num": 143832,
       "word": "男子不顾孩子哀求家暴妻子",
       "onboard_time": 1732647071,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160860,
+      "num": 160860,
+      "word": "比亚迪回应要求供应商降价",
+      "onboard_time": 1732681640,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 160123,
+      "num": 160123,
+      "word": "黎以停火协议正式生效",
+      "onboard_time": 1732681399,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158887,
@@ -601,6 +737,14 @@
       "onboard_time": 1732673599,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155757,
+      "num": 200145,
+      "word": "芒果也要推新男团了",
+      "onboard_time": 1732680378,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 153700,
@@ -635,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147914,
+      "num": 147914,
+      "word": "华为Mate70开箱",
+      "onboard_time": 1732679479,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143401,
       "num": 277058,
       "word": "上班睡觉1小时被开除合理吗",
@@ -665,6 +817,14 @@
       "onboard_time": 1732676298,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141374,
+      "num": 141374,
+      "word": "张博恒加盟我家那小子",
+      "onboard_time": 1732681699,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 140748,
@@ -707,28 +867,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 135494,
-      "num": 135494,
-      "word": "外媒称大疆在黄埔军校训练员工",
-      "onboard_time": 1732679120,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "内鱼在逃小仙女永久禁言",
       "onboard_time": 1732636096,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130941,
-      "num": 130941,
-      "word": "112岁全球最年长男子去世",
-      "onboard_time": 1732678938,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129006,
@@ -955,6 +1099,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 94308,
+      "num": 206703,
+      "word": "LOL上线小虎手势舞表情",
+      "onboard_time": 1732681640,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92959,
       "num": 92959,
       "word": "支持纯血鸿蒙机型不会推送鸿蒙4.3",
@@ -1163,14 +1315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67124,
-      "num": 220488,
-      "word": "女子手上9套房每套都烦心",
-      "onboard_time": 1732678638,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66893,
       "num": 178202,
       "word": "消费者如何甄别同名药质量",
@@ -1211,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57883,
+      "num": 186124,
+      "word": "立陶宛篮协拒绝归化拉塞尔",
+      "onboard_time": 1732681280,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57819,
       "num": 57819,
       "word": "曼城各赛事六场不胜",
@@ -1225,6 +1377,14 @@
       "onboard_time": 1732673299,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 54484,
+      "num": 138642,
+      "word": "和一岁多孩子的沟通技巧",
+      "onboard_time": 1732681040,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 54117,
@@ -1305,6 +1465,22 @@
       "onboard_time": 1732641133,
       "rank": 38,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 44705,
+      "num": 198056,
+      "word": "花儿与少年",
+      "onboard_time": 1732681699,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44029,
+      "num": 192810,
+      "word": "陈伟霆飞车戏是实拍",
+      "onboard_time": 1732679539,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 41267,
@@ -1449,6 +1625,14 @@
       "onboard_time": 1732671677,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16579,
+      "num": 980551,
+      "word": "川渝火锅在链博会有一个专门展览",
+      "onboard_time": 1732673899,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 15316,

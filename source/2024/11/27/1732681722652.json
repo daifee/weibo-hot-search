@@ -1,0 +1,410 @@
+{
+  "runTime": 1732681722652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1409741,
+        "num": 1409741,
+        "word": "女子手上9套房每套都烦心",
+        "onboard_time": 1732678638,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1024893,
+        "num": 1024893,
+        "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
+        "onboard_time": 1732675939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16579,
+        "num": 980551,
+        "word": "川渝火锅在链博会有一个专门展览",
+        "onboard_time": 1732673899,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 970451,
+        "num": 970451,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1732674018,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643851,
+        "num": 643851,
+        "word": "外媒称大疆在黄埔军校训练员工",
+        "onboard_time": 1732679120,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592716,
+        "num": 592716,
+        "word": "羽绒服一天一个价",
+        "onboard_time": 1732676298,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476050,
+        "num": 476050,
+        "word": "王境泽靠真香定律年入百万",
+        "onboard_time": 1732677258,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 341818,
+        "num": 341818,
+        "word": "魏大勋 只要不下桌早晚有机会",
+        "onboard_time": 1732675998,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165437,
+        "num": 330584,
+        "word": "中羽协提示羽绒制品选购要点",
+        "onboard_time": 1732680198,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 328059,
+        "num": 328059,
+        "word": "提前还房贷的人后悔了吗",
+        "onboard_time": 1732661714,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756080,
+        "num": 321587,
+        "word": "徐艺洋水晶",
+        "onboard_time": 1732678638,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747260,
+        "num": 319023,
+        "word": "万国鹏回应曾追求张予曦",
+        "onboard_time": 1732671918,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652304,
+        "num": 318918,
+        "word": "电瓶车29楼充电起火致两邻居身亡",
+        "onboard_time": 1732674919,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 314084,
+        "num": 314084,
+        "word": "羽绒服",
+        "onboard_time": 1732673057,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556307,
+        "num": 310399,
+        "word": "麦琳穿搭",
+        "onboard_time": 1732672339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506088,
+        "num": 309454,
+        "word": "再见爱人抢座位事件",
+        "onboard_time": 1732679479,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492354,
+        "num": 299710,
+        "word": "重庆火灾",
+        "onboard_time": 1732670298,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 260988,
+        "num": 260988,
+        "word": "谈薪把offer谈没了的真实感受",
+        "onboard_time": 1732669218,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259669,
+        "num": 259669,
+        "word": "丁禹兮五大",
+        "onboard_time": 1732679660,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255977,
+        "num": 255977,
+        "word": "朱芝松被查",
+        "onboard_time": 1732674738,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255611,
+        "num": 255611,
+        "word": "身份证18位数字分别代表什么",
+        "onboard_time": 1732670298,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 236162,
+        "num": 236162,
+        "word": "山河如愿 英雄回家",
+        "onboard_time": 1732679778,
+        "rank": 21,
+        "category": "正能量,军事"
+      },
+      {
+        "raw_hot": 214440,
+        "num": 214440,
+        "word": "曝比亚迪要求供应商降价",
+        "onboard_time": 1732680860,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206836,
+        "num": 206836,
+        "word": "杨紫明艳瞬间",
+        "onboard_time": 1732681158,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 94308,
+        "num": 206703,
+        "word": "LOL上线小虎手势舞表情",
+        "onboard_time": 1732681640,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182563,
+        "num": 204615,
+        "word": "镖人杀青",
+        "onboard_time": 1732678519,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186324,
+        "num": 201142,
+        "word": "肖战一首歌寄托真实心声",
+        "onboard_time": 1732680560,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155757,
+        "num": 200145,
+        "word": "芒果也要推新男团了",
+        "onboard_time": 1732680378,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44705,
+        "num": 198056,
+        "word": "花儿与少年",
+        "onboard_time": 1732681699,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171548,
+        "num": 195846,
+        "word": "一下雪沈阳故宫就美成了壁纸",
+        "onboard_time": 1732680740,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 44029,
+        "num": 192810,
+        "word": "陈伟霆飞车戏是实拍",
+        "onboard_time": 1732679539,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352275,
+        "num": 191431,
+        "word": "Faker直播看369操作",
+        "onboard_time": 1732680799,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207086,
+        "num": 189794,
+        "word": "花2万买保时捷小卡宴车标竟是驴",
+        "onboard_time": 1732681280,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88466,
+        "num": 187107,
+        "word": "十个勤天宣传王一珩我家那小子",
+        "onboard_time": 1732676238,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186431,
+        "num": 186431,
+        "word": "恋与深空新PV",
+        "onboard_time": 1732678038,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184667,
+        "num": 186311,
+        "word": "旺仔牛奶生产全过程",
+        "onboard_time": 1732680860,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57883,
+        "num": 186124,
+        "word": "立陶宛篮协拒绝归化拉塞尔",
+        "onboard_time": 1732681280,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175408,
+        "num": 186056,
+        "word": "QQ音乐称首创多项玩法",
+        "onboard_time": 1732678278,
+        "rank": 37,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 174795,
+        "num": 185750,
+        "word": "白百何时隔六年再演打女",
+        "onboard_time": 1732678699,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185734,
+        "num": 185734,
+        "word": "地狱级难度的停车位长什么样",
+        "onboard_time": 1732681461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170453,
+        "num": 170453,
+        "word": "112岁全球最年长男子去世",
+        "onboard_time": 1732678938,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162556,
+        "num": 162556,
+        "word": "张小斐领衔主演好运家",
+        "onboard_time": 1732679000,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162435,
+        "num": 162435,
+        "word": "唐鹤德晒张国荣旧照缅怀",
+        "onboard_time": 1732674080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160860,
+        "num": 160860,
+        "word": "比亚迪回应要求供应商降价",
+        "onboard_time": 1732681640,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160123,
+        "num": 160123,
+        "word": "黎以停火协议正式生效",
+        "onboard_time": 1732681399,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147914,
+        "num": 147914,
+        "word": "华为Mate70开箱",
+        "onboard_time": 1732679479,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142099,
+        "num": 142099,
+        "word": "好运家 一家六口全离婚",
+        "onboard_time": 1732676358,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141374,
+        "num": 141374,
+        "word": "张博恒加盟我家那小子",
+        "onboard_time": 1732681699,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139272,
+        "num": 139272,
+        "word": "EXO初雪排名上升",
+        "onboard_time": 1732675398,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54484,
+        "num": 138642,
+        "word": "和一岁多孩子的沟通技巧",
+        "onboard_time": 1732681040,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见萨摩亚总理#"
+    }
+  }
+}
