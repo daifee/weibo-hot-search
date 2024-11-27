@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732736161493,
+  "endTime": 1732739171529,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -523,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28373,
+      "num": 28373,
+      "word": "中羽协发布羽绒制品原料参考价格",
+      "onboard_time": 1732733711,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 28095,
       "num": 108711,
       "word": "马龙打高尔夫球",
@@ -563,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23274,
-      "num": 23274,
-      "word": "中羽协发布羽绒制品原料参考价格",
-      "onboard_time": 1732733711,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 20219,
       "num": 20219,
       "word": "昨天之后",
@@ -593,6 +593,30 @@
       "onboard_time": 1732721837,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18709,
+      "num": 18709,
+      "word": "人均两万五去8个国家玩了24天",
+      "onboard_time": 1732735631,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 16683,
+      "num": 18318,
+      "word": "他们牺牲时平均年龄仅22岁",
+      "onboard_time": 1732735451,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 15008,
+      "num": 18316,
+      "word": "中羽协回应近期羽绒制品造假乱象",
+      "onboard_time": 1732735330,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 14799,
@@ -619,12 +643,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13812,
-      "num": 18327,
-      "word": "人均两万五去8个国家玩了24天",
-      "onboard_time": 1732735631,
-      "rank": 40,
-      "category": "旅游"
+      "raw_hot": 13716,
+      "num": 16067,
+      "word": "一人一句接志愿军烈士回家",
+      "onboard_time": 1732676717,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 13265,
@@ -635,20 +659,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13196,
-      "num": 18318,
-      "word": "他们牺牲时平均年龄仅22岁",
-      "onboard_time": 1732735451,
-      "rank": 46,
-      "category": "正能量"
+      "raw_hot": 12090,
+      "num": 32139,
+      "word": "接烈士回国的运20曾在今年航展开放",
+      "onboard_time": 1732738691,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 12650,
-      "num": 18316,
-      "word": "中羽协回应近期羽绒制品造假乱象",
-      "onboard_time": 1732735330,
-      "rank": 48,
-      "category": "辟谣/通报"
+      "raw_hot": 11885,
+      "num": 16052,
+      "word": "李子柒现身烟台学习剪纸和葫芦烙画",
+      "onboard_time": 1732737431,
+      "rank": 47,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 11771,
+      "num": 16049,
+      "word": "鹤岗降雪量打破当地11月单日纪录",
+      "onboard_time": 1732736890,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10752,
+      "num": 16053,
+      "word": "又从中国航展选出了一波帅图",
+      "onboard_time": 1732737311,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 7666,
@@ -659,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6081,
+      "num": 18859,
+      "word": "王一博清华大学巨型海报",
+      "onboard_time": 1732739050,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 5853,
       "num": 23174,
       "word": "张杰笑晕在沙发上",
       "onboard_time": 1732735812,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5508,
+      "num": 16694,
+      "word": "严浩翔白衬衫造型路透",
+      "onboard_time": 1732737013,
+      "rank": 30,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
