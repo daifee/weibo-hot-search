@@ -1,0 +1,410 @@
+{
+  "runTime": 1732746169977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165689,
+        "num": 376579,
+        "word": "易烊千玺",
+        "onboard_time": 1732735031,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137991,
+        "num": 137991,
+        "word": "媒体评羊毛月何不食肉糜",
+        "onboard_time": 1732732511,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22822,
+        "num": 108705,
+        "word": "山河如愿英雄回家",
+        "onboard_time": 1732713798,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107944,
+        "num": 107944,
+        "word": "家属称女儿遭前男友囚禁泼开水",
+        "onboard_time": 1732724357,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85290,
+        "num": 85290,
+        "word": "碎片化睡眠危害等同于熬夜",
+        "onboard_time": 1732708279,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71379,
+        "num": 71379,
+        "word": "加沙人睡梦中海水灌进帐篷",
+        "onboard_time": 1732741211,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70296,
+        "num": 70296,
+        "word": "4万吨工业盐酸被偷偷排放",
+        "onboard_time": 1732718840,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 63033,
+        "num": 63033,
+        "word": "美国医生血泪控诉加沙惨状",
+        "onboard_time": 1732722198,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56709,
+        "num": 56709,
+        "word": "羽绒骗局曝光",
+        "onboard_time": 1732731251,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46452,
+        "num": 53964,
+        "word": "央妈镜头的祝绪丹",
+        "onboard_time": 1732714519,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51673,
+        "num": 51673,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48704,
+        "num": 48704,
+        "word": "为什么不建议买太便宜的洗衣液",
+        "onboard_time": 1732720159,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 38908,
+        "num": 38908,
+        "word": "白百何接小儿子放学背着上车",
+        "onboard_time": 1732710678,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37542,
+        "num": 37542,
+        "word": "华莱士汉堡被曝吃出异物事件",
+        "onboard_time": 1732716439,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37282,
+        "num": 37282,
+        "word": "人均两万五去8个国家玩了24天",
+        "onboard_time": 1732735631,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32458,
+        "num": 32458,
+        "word": "澳众院通过16岁以下人群禁用社媒法案",
+        "onboard_time": 1732724297,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32115,
+        "num": 32115,
+        "word": "护犊子原来可以这样理解",
+        "onboard_time": 1732741031,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 20877,
+        "num": 32085,
+        "word": "御赐小仵作2杀青",
+        "onboard_time": 1732719140,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18043,
+        "num": 31651,
+        "word": "芒果凑齐了三大群像",
+        "onboard_time": 1732707438,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13981,
+        "num": 31112,
+        "word": "下半年首场寒潮天气趋于结束",
+        "onboard_time": 1732745952,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98597,
+        "num": 30765,
+        "word": "英国一母亲把女儿藏抽屉养到3岁",
+        "onboard_time": 1732709178,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30758,
+        "num": 30758,
+        "word": "鹤岗降雪量打破当地11月单日纪录",
+        "onboard_time": 1732736890,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62901,
+        "num": 30756,
+        "word": "上海果然是没有人穿羽绒服的",
+        "onboard_time": 1732717880,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35213,
+        "num": 30753,
+        "word": "李行亮说家里卫生请保洁",
+        "onboard_time": 1732705579,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17447,
+        "num": 30751,
+        "word": "周慧敏发长文聊入行37年经历",
+        "onboard_time": 1732741451,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30750,
+        "num": 30750,
+        "word": "花3万块在新疆买的小院",
+        "onboard_time": 1732709239,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 27545,
+        "num": 27545,
+        "word": "市监局排查临潼区全区华莱士门店",
+        "onboard_time": 1732723156,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27235,
+        "num": 27235,
+        "word": "男子为引女儿注意从5楼怒扔砖头",
+        "onboard_time": 1732712899,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17129,
+        "num": 25484,
+        "word": "十个勤天以后呢",
+        "onboard_time": 1732709298,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16940,
+        "num": 25436,
+        "word": "蒋敦豪直播完就走了",
+        "onboard_time": 1732705159,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19563,
+        "num": 25409,
+        "word": "中国青年当红不让",
+        "onboard_time": 1732718959,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25393,
+        "num": 25393,
+        "word": "中羽协发布羽绒制品原料参考价格",
+        "onboard_time": 1732733711,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 24375,
+        "num": 24375,
+        "word": "王一博清华大学海报",
+        "onboard_time": 1732698978,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23328,
+        "num": 23328,
+        "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
+        "onboard_time": 1732730593,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 16846,
+        "num": 22826,
+        "word": "王境泽采访",
+        "onboard_time": 1732734611,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22792,
+        "num": 22792,
+        "word": "中国坚定支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1732726635,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22666,
+        "num": 22666,
+        "word": "一人一句接志愿军烈士回家",
+        "onboard_time": 1732676717,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21955,
+        "num": 21955,
+        "word": "有效降低全社会物流成本行动方案",
+        "onboard_time": 1732727593,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19402,
+        "num": 21950,
+        "word": "XLB怒喷Doinb",
+        "onboard_time": 1732714999,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16990,
+        "num": 21939,
+        "word": "中羽协回应近期羽绒制品造假乱象",
+        "onboard_time": 1732735330,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16864,
+        "num": 21914,
+        "word": "这支温暖预告值得更多人看到",
+        "onboard_time": 1732722378,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16805,
+        "num": 21905,
+        "word": "愿你勇敢追梦祝你光芒万丈",
+        "onboard_time": 1732719738,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 16750,
+        "num": 21889,
+        "word": "这种危险插排千万别再用了",
+        "onboard_time": 1732707378,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 16396,
+        "num": 21864,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16156,
+        "num": 21850,
+        "word": "他们牺牲时平均年龄仅22岁",
+        "onboard_time": 1732735451,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 16102,
+        "num": 21836,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15337,
+        "num": 21824,
+        "word": "官方回应殡仪馆用炖盅当骨灰瓮",
+        "onboard_time": 1732745411,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15332,
+        "num": 21817,
+        "word": "英雄回祖国",
+        "onboard_time": 1732706118,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15043,
+        "num": 21791,
+        "word": "接烈士回国的运20曾在今年航展开放",
+        "onboard_time": 1732738691,
+        "rank": 48,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 14530,
+        "num": 21781,
+        "word": "光遇",
+        "onboard_time": 1732721837,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}

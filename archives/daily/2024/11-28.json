@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732743457000,
+  "endTime": 1732746169977,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 169029,
-      "num": 175881,
+      "num": 376579,
       "word": "易烊千玺",
       "onboard_time": 1732735031,
       "rank": 0,
@@ -177,6 +177,14 @@
       "onboard_time": 1732719738,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 137991,
+      "num": 137991,
+      "word": "媒体评羊毛月何不食肉糜",
+      "onboard_time": 1732732511,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136417,
@@ -249,14 +257,6 @@
       "onboard_time": 1732721837,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91666,
-      "num": 125012,
-      "word": "媒体评羊毛月何不食肉糜",
-      "onboard_time": 1732732511,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88239,
@@ -371,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 71379,
+      "num": 71379,
+      "word": "加沙人睡梦中海水灌进帐篷",
+      "onboard_time": 1732741211,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70534,
       "num": 70534,
       "word": "K80价格",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 47767,
-      "num": 30180,
+      "num": 37282,
       "word": "人均两万五去8个国家玩了24天",
       "onboard_time": 1732735631,
       "rank": 40,
@@ -499,6 +507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32458,
+      "num": 32458,
+      "word": "澳众院通过16岁以下人群禁用社媒法案",
+      "onboard_time": 1732724297,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32115,
+      "num": 32115,
+      "word": "护犊子原来可以这样理解",
+      "onboard_time": 1732741031,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 30822,
       "num": 30822,
       "word": "王源孤星计划开启预售",
@@ -507,20 +531,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30758,
+      "num": 30758,
+      "word": "鹤岗降雪量打破当地11月单日纪录",
+      "onboard_time": 1732736890,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30578,
-      "num": 30578,
+      "num": 31651,
       "word": "芒果凑齐了三大群像",
       "onboard_time": 1732707438,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29380,
-      "num": 29380,
-      "word": "澳众院通过16岁以下人群禁用社媒法案",
-      "onboard_time": 1732724297,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28627,
@@ -563,14 +587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25958,
-      "num": 29444,
-      "word": "鹤岗降雪量打破当地11月单日纪录",
-      "onboard_time": 1732736890,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25471,
       "num": 25471,
       "word": "陆柯燃也cha上初雪了",
@@ -587,19 +603,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23328,
+      "num": 34496,
+      "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
+      "onboard_time": 1732730593,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22988,
       "num": 22988,
       "word": "一人一句接志愿军烈士回家",
       "onboard_time": 1732676717,
       "rank": 36,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 21702,
-      "num": 34496,
-      "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
-      "onboard_time": 1732730593,
-      "rank": 47,
       "category": "正能量"
     },
     {
@@ -612,15 +628,31 @@
     },
     {
       "raw_hot": 19078,
-      "num": 19078,
+      "num": 21781,
       "word": "光遇",
       "onboard_time": 1732721837,
       "rank": 48,
       "category": "游戏"
     },
     {
+      "raw_hot": 17447,
+      "num": 30751,
+      "word": "周慧敏发长文聊入行37年经历",
+      "onboard_time": 1732741451,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16990,
+      "num": 21939,
+      "word": "中羽协回应近期羽绒制品造假乱象",
+      "onboard_time": 1732735330,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 16683,
-      "num": 18318,
+      "num": 21850,
       "word": "他们牺牲时平均年龄仅22岁",
       "onboard_time": 1732735451,
       "rank": 46,
@@ -635,12 +667,12 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 15008,
-      "num": 18316,
-      "word": "中羽协回应近期羽绒制品造假乱象",
-      "onboard_time": 1732735330,
-      "rank": 48,
-      "category": "辟谣/通报"
+      "raw_hot": 15337,
+      "num": 21824,
+      "word": "官方回应殡仪馆用炖盅当骨灰瓮",
+      "onboard_time": 1732745411,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14799,
@@ -649,6 +681,14 @@
       "onboard_time": 1732729032,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13981,
+      "num": 31112,
+      "word": "下半年首场寒潮天气趋于结束",
+      "onboard_time": 1732745952,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13969,
@@ -665,14 +705,6 @@
       "onboard_time": 1732726395,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 13446,
-      "num": 31408,
-      "word": "护犊子原来可以这样理解",
-      "onboard_time": 1732741031,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 13265,
@@ -713,22 +745,6 @@
       "onboard_time": 1732737311,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11430,
-      "num": 14144,
-      "word": "加沙人睡梦中海水灌进帐篷",
-      "onboard_time": 1732741211,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 10102,
-      "num": 19704,
-      "word": "周慧敏发长文聊入行37年经历",
-      "onboard_time": 1732741451,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 7887,
