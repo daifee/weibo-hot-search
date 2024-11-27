@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732696308773,
+  "endTime": 1732697150823,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -272,6 +272,14 @@
       "word": "男子夜班看焚化炉睡9小时被开除",
       "onboard_time": 1732587678,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1437570,
+      "num": 1437570,
+      "word": "吃火锅意外入镜直播间获赔500元",
+      "onboard_time": 1732695438,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896407,
+      "num": 441129,
+      "word": "芙学",
+      "onboard_time": 1732694058,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886580,
       "num": 886580,
       "word": "学生家里办白事凌晨请假宿管未开门",
@@ -953,14 +969,6 @@
       "onboard_time": 1732437860,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 806110,
-      "num": 411031,
-      "word": "芙学",
-      "onboard_time": 1732694058,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 804298,
@@ -1891,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 532151,
+      "num": 513989,
+      "word": "李行亮让留几手别忽视父亲的作用",
+      "onboard_time": 1732695019,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526496,
       "num": 526496,
       "word": "微信将14天后自动清理原图原视频",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1732507580,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497462,
-      "num": 497462,
-      "word": "吃火锅意外入镜直播间获赔500元",
-      "onboard_time": 1732695438,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 495268,
@@ -2169,6 +2177,14 @@
       "onboard_time": 1732623918,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 465973,
+      "num": 465973,
+      "word": "医院两万多个预约号去哪了",
+      "onboard_time": 1732694959,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 464273,
@@ -2409,14 +2425,6 @@
       "onboard_time": 1732421479,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 412365,
-      "num": 412365,
-      "word": "李行亮让留几手别忽视父亲的作用",
-      "onboard_time": 1732695019,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 412220,
@@ -3283,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308982,
+      "num": 308982,
+      "word": "小咘芽跟张杰说保护好嗓子",
+      "onboard_time": 1732691900,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306234,
       "num": 306234,
       "word": "席慕蓉说叶嘉莹就是诗魂",
@@ -3304,14 +3320,6 @@
       "word": "唐鹤德晒张国荣旧照缅怀",
       "onboard_time": 1732674080,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 305400,
-      "num": 305400,
-      "word": "小咘芽跟张杰说保护好嗓子",
-      "onboard_time": 1732691900,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -3707,14 +3715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268370,
-      "num": 411625,
-      "word": "医院两万多个预约号去哪了",
-      "onboard_time": 1732694959,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 267916,
       "num": 230421,
       "word": "刘宇晒与汤唯合照",
@@ -3977,6 +3977,14 @@
       "onboard_time": 1732451602,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250890,
+      "num": 250890,
+      "word": "哈尔滨一雪圈摊位270万被拍下",
+      "onboard_time": 1732694658,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250455,
@@ -5203,6 +5211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200255,
+      "num": 200255,
+      "word": "妻子坠海身亡后不久他在酒店招嫖",
+      "onboard_time": 1732696638,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200076,
       "num": 225136,
       "word": "羊毛月隐藏多条视频",
@@ -5297,6 +5313,14 @@
       "onboard_time": 1732678519,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198132,
+      "num": 238963,
+      "word": "马龙随手掏pin送粉丝",
+      "onboard_time": 1732696098,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 197879,
@@ -5433,6 +5457,14 @@
       "onboard_time": 1732597339,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195187,
+      "num": 195187,
+      "word": "三根手指等于一个望远镜",
+      "onboard_time": 1732693278,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 195081,
@@ -5755,6 +5787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188187,
+      "num": 201063,
+      "word": "五点五个勤天",
+      "onboard_time": 1732696699,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188123,
       "num": 188123,
       "word": "谁在冬天减肥",
@@ -5939,6 +5979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184848,
+      "num": 424787,
+      "word": "北京突然飘雪属于大力出奇迹",
+      "onboard_time": 1732683320,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184618,
       "num": 184618,
       "word": "普京称目前没有拦截榛树导弹的技术",
@@ -6083,12 +6131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180733,
+      "num": 180733,
+      "word": "985本硕的建筑设计师们月薪三千",
+      "onboard_time": 1732694178,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180672,
       "num": 180672,
       "word": "微博崩了",
       "onboard_time": 1732610660,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 180457,
+      "num": 202260,
+      "word": "爱玛滑元",
+      "onboard_time": 1732696577,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 180293,
@@ -6201,14 +6265,6 @@
       "onboard_time": 1732446740,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 176595,
-      "num": 176595,
-      "word": "三根手指等于一个望远镜",
-      "onboard_time": 1732693278,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 175942,
@@ -6553,14 +6609,6 @@
       "onboard_time": 1732452860,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 167101,
-      "num": 424787,
-      "word": "北京突然飘雪属于大力出奇迹",
-      "onboard_time": 1732683320,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166911,
@@ -7059,14 +7107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155355,
-      "num": 240957,
-      "word": "哈尔滨一雪圈摊位270万被拍下",
-      "onboard_time": 1732694658,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155206,
       "num": 155206,
       "word": "贺峻霖胸震",
@@ -7427,6 +7467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145780,
+      "num": 145780,
+      "word": "羽绒服涨价与猪有关",
+      "onboard_time": 1732696399,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145762,
       "num": 214686,
       "word": "工作室给网友发与赵露思合照",
@@ -7619,12 +7667,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141108,
-      "num": 141108,
-      "word": "985本硕的建筑设计师们月薪三千",
-      "onboard_time": 1732694178,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 141086,
+      "num": 141086,
+      "word": "白鹿绿衣路透",
+      "onboard_time": 1732696039,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 140947,
@@ -8651,14 +8699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119521,
-      "num": 238963,
-      "word": "马龙随手掏pin送粉丝",
-      "onboard_time": 1732696098,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119389,
       "num": 119389,
       "word": "降温预报图逐渐冻到发紫",
@@ -8673,14 +8713,6 @@
       "onboard_time": 1732615939,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119200,
-      "num": 119200,
-      "word": "白鹿绿衣路透",
-      "onboard_time": 1732696039,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 119141,
@@ -9875,6 +9907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91741,
+      "num": 476788,
+      "word": "女性一年要花约508.8元在卫生巾上",
+      "onboard_time": 1732696339,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91704,
       "num": 312922,
       "word": "祝绪丹对自己的唱功一无所知",
@@ -10651,6 +10691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66864,
+      "num": 1322583,
+      "word": "供应链的发展如何改变我们的生活",
+      "onboard_time": 1732695618,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 66751,
       "num": 111215,
       "word": "苏新皓演我被偶像翻牌",
@@ -10723,6 +10771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64295,
+      "num": 411080,
+      "word": "大额存单利率进入1字头",
+      "onboard_time": 1732694897,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64174,
       "num": 64174,
       "word": "上个学而已没有这个必要吧",
@@ -10761,14 +10817,6 @@
       "onboard_time": 1732440260,
       "rank": 22,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 62898,
-      "num": 411080,
-      "word": "大额存单利率进入1字头",
-      "onboard_time": 1732694897,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 62811,
@@ -11715,6 +11763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43231,
+      "num": 200571,
+      "word": "胡成老婆情人轮班制",
+      "onboard_time": 1732696819,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43210,
       "num": 43210,
       "word": "特斯拉股价已上涨约40%",
@@ -11993,14 +12049,6 @@
       "onboard_time": 1732468634,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37666,
-      "num": 1128476,
-      "word": "供应链的发展如何改变我们的生活",
-      "onboard_time": 1732695618,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 37556,
@@ -13731,6 +13779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 10574,
+      "num": 201666,
+      "word": "这些景区下雪了",
+      "onboard_time": 1732696757,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 10502,
       "num": 50239,
       "word": "资助工作动态管理不可松懈",
@@ -13929,6 +13985,14 @@
       "onboard_time": 1732561571,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4348,
+      "num": 146456,
+      "word": "全世界都知道我在过生日了",
+      "onboard_time": 1732697060,
+      "rank": 44,
+      "category": "网红"
     }
   ],
   "hotgov_list": [

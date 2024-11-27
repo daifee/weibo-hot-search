@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732696308773,
+  "endTime": 1732697150823,
   "band_list": [
     {
       "raw_hot": 2483621,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1437570,
+      "num": 1437570,
+      "word": "吃火锅意外入镜直播间获赔500元",
+      "onboard_time": 1732695438,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1410260,
       "num": 1268683,
       "word": "我家那小子首发阵容官宣",
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 896407,
+      "num": 441129,
+      "word": "芙学",
+      "onboard_time": 1732694058,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869883,
       "num": 270776,
       "word": "陕西16岁走失中学生已确认死亡",
@@ -145,14 +161,6 @@
       "onboard_time": 1732670658,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 806110,
-      "num": 411031,
-      "word": "芙学",
-      "onboard_time": 1732694058,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 804111,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532151,
+      "num": 513989,
+      "word": "李行亮让留几手别忽视父亲的作用",
+      "onboard_time": 1732695019,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524586,
       "num": 349095,
       "word": "周雨彤 荣梓杉闭嘴的时候很帅",
@@ -321,14 +337,6 @@
       "onboard_time": 1732684698,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 497462,
-      "num": 497462,
-      "word": "吃火锅意外入镜直播间获赔500元",
-      "onboard_time": 1732695438,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 494930,
@@ -355,6 +363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 465973,
+      "num": 465973,
+      "word": "医院两万多个预约号去哪了",
+      "onboard_time": 1732694959,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 462214,
       "num": 462214,
       "word": "野猪伤人致死事件4人狩猎前未报备",
@@ -369,14 +385,6 @@
       "onboard_time": 1732672339,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 412365,
-      "num": 412365,
-      "word": "李行亮让留几手别忽视父亲的作用",
-      "onboard_time": 1732695019,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 403818,
@@ -523,19 +531,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308982,
+      "num": 308982,
+      "word": "小咘芽跟张杰说保护好嗓子",
+      "onboard_time": 1732691900,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305775,
       "num": 305775,
       "word": "唐鹤德晒张国荣旧照缅怀",
       "onboard_time": 1732674080,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 305400,
-      "num": 305400,
-      "word": "小咘芽跟张杰说保护好嗓子",
-      "onboard_time": 1732691900,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -587,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268370,
-      "num": 411625,
-      "word": "医院两万多个预约号去哪了",
-      "onboard_time": 1732694959,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 261610,
       "num": 261610,
       "word": "46人因黑龙江一煤矿重大事故被处理",
@@ -633,6 +633,14 @@
       "onboard_time": 1732676358,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250890,
+      "num": 250890,
+      "word": "哈尔滨一雪圈摊位270万被拍下",
+      "onboard_time": 1732694658,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249818,
@@ -883,6 +891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200255,
+      "num": 200255,
+      "word": "妻子坠海身亡后不久他在酒店招嫖",
+      "onboard_time": 1732696638,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198428,
       "num": 204615,
       "word": "镖人杀青",
@@ -891,12 +907,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198132,
+      "num": 238963,
+      "word": "马龙随手掏pin送粉丝",
+      "onboard_time": 1732696098,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197809,
       "num": 197809,
       "word": "张博恒加盟我家那小子",
       "onboard_time": 1732681699,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195187,
+      "num": 195187,
+      "word": "三根手指等于一个望远镜",
+      "onboard_time": 1732693278,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 194655,
@@ -971,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188187,
+      "num": 201063,
+      "word": "五点五个勤天",
+      "onboard_time": 1732696699,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188123,
       "num": 188123,
       "word": "谁在冬天减肥",
@@ -1027,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184848,
+      "num": 424787,
+      "word": "北京突然飘雪属于大力出奇迹",
+      "onboard_time": 1732683320,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183541,
       "num": 183541,
       "word": "张馨予六年后再演古装剧",
@@ -1067,6 +1115,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 180733,
+      "num": 180733,
+      "word": "985本硕的建筑设计师们月薪三千",
+      "onboard_time": 1732694178,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180457,
+      "num": 202260,
+      "word": "爱玛滑元",
+      "onboard_time": 1732696577,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180293,
       "num": 177089,
       "word": "外媒炒作中国无人机威胁翻车",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1732675156,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 176595,
-      "num": 176595,
-      "word": "三根手指等于一个望远镜",
-      "onboard_time": 1732693278,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 175781,
@@ -1144,14 +1200,6 @@
       "word": "中学生被老师教育后从5楼跳下",
       "onboard_time": 1732688299,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167101,
-      "num": 424787,
-      "word": "北京突然飘雪属于大力出奇迹",
-      "onboard_time": 1732683320,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1243,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155355,
-      "num": 240957,
-      "word": "哈尔滨一雪圈摊位270万被拍下",
-      "onboard_time": 1732694658,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153700,
       "num": 317623,
       "word": "十个勤天宣传王一珩我家那小子",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1732687459,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145780,
+      "num": 145780,
+      "word": "羽绒服涨价与猪有关",
+      "onboard_time": 1732696399,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145017,
@@ -1363,12 +1411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141108,
-      "num": 141108,
-      "word": "985本硕的建筑设计师们月薪三千",
-      "onboard_time": 1732694178,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 141086,
+      "num": 141086,
+      "word": "白鹿绿衣路透",
+      "onboard_time": 1732696039,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 140748,
@@ -1587,22 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119521,
-      "num": 238963,
-      "word": "马龙随手掏pin送粉丝",
-      "onboard_time": 1732696098,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 119200,
-      "num": 119200,
-      "word": "白鹿绿衣路透",
-      "onboard_time": 1732696039,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116592,
       "num": 258032,
       "word": "爱笑爆料iG教练",
@@ -1787,6 +1819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91741,
+      "num": 476788,
+      "word": "女性一年要花约508.8元在卫生巾上",
+      "onboard_time": 1732696339,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90991,
       "num": 90991,
       "word": "前10月全国国有企业营收同比增长0.9%",
@@ -1924,7 +1964,7 @@
     },
     {
       "raw_hot": 79310,
-      "num": 130714,
+      "num": 201984,
       "word": "原神5.2版本",
       "onboard_time": 1732695798,
       "rank": 46,
@@ -2043,6 +2083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66864,
+      "num": 1322583,
+      "word": "供应链的发展如何改变我们的生活",
+      "onboard_time": 1732695618,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 64990,
       "num": 238466,
       "word": "ES2四周年庆",
@@ -2051,20 +2099,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64295,
+      "num": 411080,
+      "word": "大额存单利率进入1字头",
+      "onboard_time": 1732694897,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 63417,
       "num": 195680,
       "word": "张艺兴的探索敦煌vlog",
       "onboard_time": 1732677139,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62898,
-      "num": 411080,
-      "word": "大额存单利率进入1字头",
-      "onboard_time": 1732694897,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 61927,
@@ -2291,6 +2339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43231,
+      "num": 200571,
+      "word": "胡成老婆情人轮班制",
+      "onboard_time": 1732696819,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41267,
       "num": 41267,
       "word": "森林进化论2",
@@ -2313,14 +2369,6 @@
       "onboard_time": 1732641194,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37666,
-      "num": 1128476,
-      "word": "供应链的发展如何改变我们的生活",
-      "onboard_time": 1732695618,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 37556,
@@ -2539,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10574,
+      "num": 201666,
+      "word": "这些景区下雪了",
+      "onboard_time": 1732696757,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 8739,
       "num": 27471,
       "word": "祝绪丹要学唱歌了",
@@ -2593,6 +2649,14 @@
       "onboard_time": 1732649651,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4348,
+      "num": 146456,
+      "word": "全世界都知道我在过生日了",
+      "onboard_time": 1732697060,
+      "rank": 44,
+      "category": "网红"
     }
   ],
   "hotgov_list": [
