@@ -1,7 +1,15 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732681722652,
+  "endTime": 1732682649883,
   "band_list": [
+    {
+      "raw_hot": 2010983,
+      "num": 2010983,
+      "word": "女子手上9套房每套都烦心",
+      "onboard_time": 1732678638,
+      "rank": 19,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1733936,
       "num": 1733936,
@@ -27,16 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1409741,
-      "num": 1409741,
-      "word": "女子手上9套房每套都烦心",
-      "onboard_time": 1732678638,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1186728,
-      "num": 366524,
+      "num": 366573,
       "word": "电瓶车29楼充电起火致两邻居身亡",
       "onboard_time": 1732674919,
       "rank": 11,
@@ -155,8 +155,8 @@
       "category": "网红,舆论监督"
     },
     {
-      "raw_hot": 506088,
-      "num": 309454,
+      "raw_hot": 534670,
+      "num": 354151,
       "word": "再见爱人抢座位事件",
       "onboard_time": 1732679479,
       "rank": 15,
@@ -177,6 +177,14 @@
       "onboard_time": 1732677258,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 460917,
+      "num": 460917,
+      "word": "花2万买保时捷小卡宴车标竟是驴",
+      "onboard_time": 1732681280,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445197,
@@ -203,6 +211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394115,
+      "num": 394115,
+      "word": "Faker直播看369操作",
+      "onboard_time": 1732680799,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 387253,
       "num": 287491,
       "word": "身份证18位数字分别代表什么",
@@ -211,20 +227,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 380336,
+      "num": 380336,
+      "word": "羽绒服",
+      "onboard_time": 1732673057,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378750,
       "num": 378750,
       "word": "魏大勋 只要不下桌早晚有机会",
       "onboard_time": 1732675998,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368106,
-      "num": 368106,
-      "word": "羽绒服",
-      "onboard_time": 1732673057,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 359523,
@@ -251,20 +267,28 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 352275,
-      "num": 191431,
-      "word": "Faker直播看369操作",
-      "onboard_time": 1732680799,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 332556,
       "num": 332556,
       "word": "虞书欣带货力",
       "onboard_time": 1732636577,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320152,
+      "num": 320152,
+      "word": "芒果也要推新男团了",
+      "onboard_time": 1732680378,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316618,
+      "num": 316618,
+      "word": "曝比亚迪要求供应商降价",
+      "onboard_time": 1732680860,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 310710,
@@ -289,6 +313,14 @@
       "onboard_time": 1732666758,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 294135,
+      "num": 294135,
+      "word": "旺仔牛奶生产全过程",
+      "onboard_time": 1732680860,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 291195,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 259669,
-      "num": 259669,
+      "num": 319265,
       "word": "丁禹兮五大",
       "onboard_time": 1732679660,
       "rank": 18,
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 236162,
-      "num": 236162,
+      "num": 317767,
       "word": "山河如愿 英雄回家",
       "onboard_time": 1732679778,
       "rank": 21,
@@ -417,6 +449,14 @@
       "onboard_time": 1732666640,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226044,
+      "num": 319010,
+      "word": "白百何时隔六年再演打女",
+      "onboard_time": 1732678699,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 224884,
@@ -467,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214440,
-      "num": 214440,
-      "word": "曝比亚迪要求供应商降价",
-      "onboard_time": 1732680860,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 210897,
       "num": 210897,
       "word": "礼兵雪中演练迎志愿军烈士回家",
@@ -483,12 +515,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 207086,
-      "num": 189794,
-      "word": "花2万买保时捷小卡宴车标竟是驴",
-      "onboard_time": 1732681280,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 208781,
+      "num": 208781,
+      "word": "比亚迪回应要求供应商降价",
+      "onboard_time": 1732681640,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 206836,
@@ -531,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197809,
+      "num": 197809,
+      "word": "张博恒加盟我家那小子",
+      "onboard_time": 1732681699,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194655,
       "num": 367722,
       "word": "骗子用刮刮卡营造期待感",
@@ -563,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190086,
+      "num": 190086,
+      "word": "梦泪升级当爸爸了",
+      "onboard_time": 1732681940,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187417,
       "num": 187417,
       "word": "邱贻可吃上黑天鹅蛋糕了",
@@ -580,7 +628,7 @@
     },
     {
       "raw_hot": 186324,
-      "num": 201142,
+      "num": 294381,
       "word": "肖战一首歌寄托真实心声",
       "onboard_time": 1732680560,
       "rank": 26,
@@ -595,12 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184667,
-      "num": 186311,
-      "word": "旺仔牛奶生产全过程",
-      "onboard_time": 1732680860,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 185116,
+      "num": 318533,
+      "word": "花儿与少年",
+      "onboard_time": 1732681699,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183541,
+      "num": 183541,
+      "word": "张馨予六年后再演古装剧",
+      "onboard_time": 1732681762,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 183107,
@@ -608,6 +664,14 @@
       "word": "杨超越首张EP透明",
       "onboard_time": 1732677077,
       "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 182673,
+      "num": 182673,
+      "word": "把肖战的十首歌串成一句话",
+      "onboard_time": 1732681820,
+      "rank": 42,
       "category": "音乐"
     },
     {
@@ -627,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176686,
+      "num": 319591,
+      "word": "BLG官宣Xun离队",
+      "onboard_time": 1732682180,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175781,
       "num": 175781,
       "word": "直播志愿军烈士遗骸回国",
@@ -636,7 +708,7 @@
     },
     {
       "raw_hot": 175211,
-      "num": 172367,
+      "num": 173450,
       "word": "张小斐领衔主演好运家",
       "onboard_time": 1732679000,
       "rank": 32,
@@ -651,14 +723,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 174795,
-      "num": 185750,
-      "word": "白百何时隔六年再演打女",
-      "onboard_time": 1732678699,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171548,
       "num": 195846,
       "word": "一下雪沈阳故宫就美成了壁纸",
@@ -668,7 +732,7 @@
     },
     {
       "raw_hot": 170453,
-      "num": 170453,
+      "num": 318122,
       "word": "112岁全球最年长男子去世",
       "onboard_time": 1732678938,
       "rank": 44,
@@ -691,6 +755,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 164301,
+      "num": 164301,
+      "word": "迪丽热巴陈飞宇慕胥辞疗伤路透",
+      "onboard_time": 1732681880,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163780,
       "num": 143832,
       "word": "男子不顾孩子哀求家暴妻子",
@@ -699,20 +771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160860,
-      "num": 160860,
-      "word": "比亚迪回应要求供应商降价",
-      "onboard_time": 1732681640,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 160123,
       "num": 160123,
       "word": "黎以停火协议正式生效",
       "onboard_time": 1732681399,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159713,
+      "num": 159713,
+      "word": "马龙以大学生身份访台交流",
+      "onboard_time": 1732682541,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 158887,
@@ -739,16 +811,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155757,
-      "num": 200145,
-      "word": "芒果也要推新男团了",
-      "onboard_time": 1732680378,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153700,
-      "num": 213204,
+      "num": 317623,
       "word": "十个勤天宣传王一珩我家那小子",
       "onboard_time": 1732676238,
       "rank": 45,
@@ -761,6 +825,14 @@
       "onboard_time": 1732675758,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151436,
+      "num": 318481,
+      "word": "LOL上线小虎手势舞表情",
+      "onboard_time": 1732681640,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 151040,
@@ -817,14 +889,6 @@
       "onboard_time": 1732676298,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141374,
-      "num": 141374,
-      "word": "张博恒加盟我家那小子",
-      "onboard_time": 1732681699,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 140748,
@@ -1099,14 +1163,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 94308,
-      "num": 206703,
-      "word": "LOL上线小虎手势舞表情",
-      "onboard_time": 1732681640,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 92959,
       "num": 92959,
       "word": "支持纯血鸿蒙机型不会推送鸿蒙4.3",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1732636697,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89997,
+      "num": 316974,
+      "word": "动漫年度最受欢迎投票TOP3",
+      "onboard_time": 1732681880,
+      "rank": 28,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 89484,
@@ -1467,14 +1531,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 44705,
-      "num": 198056,
-      "word": "花儿与少年",
-      "onboard_time": 1732681699,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 44029,
       "num": 192810,
       "word": "陈伟霆飞车戏是实拍",
@@ -1513,6 +1569,14 @@
       "onboard_time": 1732640175,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37129,
+      "num": 980551,
+      "word": "川渝火锅在链博会有一个专门展览",
+      "onboard_time": 1732673899,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 34764,
@@ -1555,6 +1619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 28374,
+      "num": 319677,
+      "word": "衰老带来的丧失感让老人不安",
+      "onboard_time": 1732682361,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27575,
       "num": 63065,
       "word": "内蒙古黑龙江局地大暴雪",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1732656431,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26874,
+      "num": 330597,
+      "word": "每年都会被下雪的故宫惊艳",
+      "onboard_time": 1732682000,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 26218,
@@ -1596,7 +1676,7 @@
     },
     {
       "raw_hot": 23817,
-      "num": 185806,
+      "num": 316656,
       "word": "屏摄",
       "onboard_time": 1732679360,
       "rank": 27,
@@ -1625,14 +1705,6 @@
       "onboard_time": 1732671677,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16579,
-      "num": 980551,
-      "word": "川渝火锅在链博会有一个专门展览",
-      "onboard_time": 1732673899,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 15316,
