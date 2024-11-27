@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732735159268,
+  "endTime": 1732736161493,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -251,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91666,
+      "num": 91666,
+      "word": "媒体评羊毛月何不食肉糜",
+      "onboard_time": 1732732511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88239,
       "num": 88239,
       "word": "卧室巨星",
@@ -281,14 +289,6 @@
       "onboard_time": 1732710678,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82426,
-      "num": 82426,
-      "word": "媒体评羊毛月何不食肉糜",
-      "onboard_time": 1732732511,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82283,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27143,
+      "num": 27143,
+      "word": "王境泽采访",
+      "onboard_time": 1732734611,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 27011,
       "num": 27010,
       "word": "滥俗的歌",
@@ -555,8 +563,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23145,
-      "num": 23145,
+      "raw_hot": 23274,
+      "num": 23274,
       "word": "中羽协发布羽绒制品原料参考价格",
       "onboard_time": 1732733711,
       "rank": 18,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 19087,
-      "num": 23698,
+      "num": 34496,
       "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
       "onboard_time": 1732730593,
       "rank": 47,
@@ -611,6 +619,38 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 13812,
+      "num": 18327,
+      "word": "人均两万五去8个国家玩了24天",
+      "onboard_time": 1732735631,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 13265,
+      "num": 18321,
+      "word": "老师打破学生头骨教育不能逾越底线",
+      "onboard_time": 1732735451,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13196,
+      "num": 18318,
+      "word": "他们牺牲时平均年龄仅22岁",
+      "onboard_time": 1732735451,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 12650,
+      "num": 18316,
+      "word": "中羽协回应近期羽绒制品造假乱象",
+      "onboard_time": 1732735330,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 7666,
       "num": 27012,
       "word": "慵懒风 朱珠毫不费力",
@@ -619,12 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6418,
-      "num": 23072,
-      "word": "王境泽采访",
-      "onboard_time": 1732734611,
+      "raw_hot": 5853,
+      "num": 23174,
+      "word": "张杰笑晕在沙发上",
+      "onboard_time": 1732735812,
       "rank": 19,
-      "category": "网红"
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

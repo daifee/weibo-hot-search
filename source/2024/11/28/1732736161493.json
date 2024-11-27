@@ -1,0 +1,410 @@
+{
+  "runTime": 1732736161493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 162014,
+        "num": 162014,
+        "word": "易烊千玺",
+        "onboard_time": 1732735031,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91666,
+        "num": 91666,
+        "word": "媒体评羊毛月何不食肉糜",
+        "onboard_time": 1732732511,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19281,
+        "num": 66921,
+        "word": "山河如愿英雄回家",
+        "onboard_time": 1732713798,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60382,
+        "num": 60382,
+        "word": "碎片化睡眠危害等同于熬夜",
+        "onboard_time": 1732708279,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52611,
+        "num": 52611,
+        "word": "家属称女儿遭前男友囚禁泼开水",
+        "onboard_time": 1732724357,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49630,
+        "num": 49630,
+        "word": "华莱士汉堡被曝吃出异物事件",
+        "onboard_time": 1732716439,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49510,
+        "num": 49510,
+        "word": "央妈镜头的祝绪丹",
+        "onboard_time": 1732714519,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39758,
+        "num": 39758,
+        "word": "羽绒骗局曝光",
+        "onboard_time": 1732731251,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35275,
+        "num": 35275,
+        "word": "4万吨工业盐酸被偷偷排放",
+        "onboard_time": 1732718840,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17639,
+        "num": 34496,
+        "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
+        "onboard_time": 1732730593,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 33951,
+        "num": 33951,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33508,
+        "num": 33508,
+        "word": "美国医生血泪控诉加沙惨状",
+        "onboard_time": 1732722198,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29990,
+        "num": 29990,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29360,
+        "num": 29360,
+        "word": "为什么不建议买太便宜的洗衣液",
+        "onboard_time": 1732720159,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 27750,
+        "num": 27750,
+        "word": "澳众院通过16岁以下人群禁用社媒法案",
+        "onboard_time": 1732724297,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27143,
+        "num": 27143,
+        "word": "王境泽采访",
+        "onboard_time": 1732734611,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24370,
+        "num": 24370,
+        "word": "XLB怒喷Doinb",
+        "onboard_time": 1732714999,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23081,
+        "num": 23536,
+        "word": "后陡门的夏天结束了",
+        "onboard_time": 1732710378,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23274,
+        "num": 23274,
+        "word": "中羽协发布羽绒制品原料参考价格",
+        "onboard_time": 1732733711,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 5853,
+        "num": 23174,
+        "word": "张杰笑晕在沙发上",
+        "onboard_time": 1732735812,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62412,
+        "num": 22098,
+        "word": "英国一母亲把女儿藏抽屉养到3岁",
+        "onboard_time": 1732709178,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39137,
+        "num": 21986,
+        "word": "李行亮说家里卫生请保洁",
+        "onboard_time": 1732705579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32767,
+        "num": 21184,
+        "word": "上海果然是没有人穿羽绒服的",
+        "onboard_time": 1732717880,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20912,
+        "num": 20912,
+        "word": "滥俗的歌",
+        "onboard_time": 1732731732,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19123,
+        "num": 19123,
+        "word": "花3万块在新疆买的小院",
+        "onboard_time": 1732709239,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 18947,
+        "num": 18947,
+        "word": "十个勤天以后呢",
+        "onboard_time": 1732709298,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18453,
+        "num": 18453,
+        "word": "市监局排查临潼区全区华莱士门店",
+        "onboard_time": 1732723156,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18345,
+        "num": 18345,
+        "word": "洪承汉初雪正面照",
+        "onboard_time": 1732722976,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17623,
+        "num": 18344,
+        "word": "男子为引女儿注意从5楼怒扔砖头",
+        "onboard_time": 1732712899,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16793,
+        "num": 18342,
+        "word": "白百何接小儿子放学背着上车",
+        "onboard_time": 1732710678,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16752,
+        "num": 18342,
+        "word": "Puff和Langx激情互喷",
+        "onboard_time": 1732716200,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16630,
+        "num": 18341,
+        "word": "中国坚定支持巴勒斯坦成为联合国正式会员国",
+        "onboard_time": 1732726635,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16601,
+        "num": 18338,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16444,
+        "num": 18337,
+        "word": "光遇",
+        "onboard_time": 1732721837,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16164,
+        "num": 18336,
+        "word": "苏新皓真的最后一遍了",
+        "onboard_time": 1732721837,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15697,
+        "num": 18335,
+        "word": "这支温暖预告值得更多人看到",
+        "onboard_time": 1732722378,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15316,
+        "num": 18332,
+        "word": "蒋敦豪直播完就走了",
+        "onboard_time": 1732705159,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15031,
+        "num": 18331,
+        "word": "御赐小仵作2杀青",
+        "onboard_time": 1732719140,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14770,
+        "num": 18330,
+        "word": "这种危险插排千万别再用了",
+        "onboard_time": 1732707378,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 14683,
+        "num": 18329,
+        "word": "有效降低全社会物流成本行动方案",
+        "onboard_time": 1732727593,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13812,
+        "num": 18327,
+        "word": "人均两万五去8个国家玩了24天",
+        "onboard_time": 1732735631,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 13743,
+        "num": 18326,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13537,
+        "num": 18325,
+        "word": "英雄回祖国",
+        "onboard_time": 1732706118,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13463,
+        "num": 18324,
+        "word": "imp泪洒直播间",
+        "onboard_time": 1732718899,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13280,
+        "num": 18323,
+        "word": "檀健次ELLE开年刊预告",
+        "onboard_time": 1732726395,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13265,
+        "num": 18321,
+        "word": "老师打破学生头骨教育不能逾越底线",
+        "onboard_time": 1732735451,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13196,
+        "num": 18318,
+        "word": "他们牺牲时平均年龄仅22岁",
+        "onboard_time": 1732735451,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 13192,
+        "num": 18317,
+        "word": "愿你勇敢追梦祝你光芒万丈",
+        "onboard_time": 1732719738,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 12650,
+        "num": 18316,
+        "word": "中羽协回应近期羽绒制品造假乱象",
+        "onboard_time": 1732735330,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12304,
+        "num": 18314,
+        "word": "K80大满贯首发评测",
+        "onboard_time": 1732722078,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}
