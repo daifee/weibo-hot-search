@@ -1,7 +1,23 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732749786177,
+  "endTime": 1732750659229,
   "band_list": [
+    {
+      "raw_hot": 709549,
+      "num": 231681,
+      "word": "王俊凯王源卡零点给易烊千玺庆生",
+      "onboard_time": 1732750035,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 675212,
+      "num": 784080,
+      "word": "媒体评羊毛月何不食肉糜",
+      "onboard_time": 1732732511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 634658,
       "num": 874479,
@@ -19,11 +35,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 472987,
-      "num": 784080,
-      "word": "媒体评羊毛月何不食肉糜",
-      "onboard_time": 1732732511,
-      "rank": 9,
+      "raw_hot": 397326,
+      "num": 192617,
+      "word": "家属称女儿遭前男友囚禁泼开水",
+      "onboard_time": 1732724357,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -35,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383666,
+      "num": 878903,
+      "word": "黑龙江又一地疑发现东北虎",
+      "onboard_time": 1732746373,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381138,
       "num": 109811,
       "word": "英国一母亲把女儿藏抽屉养到3岁",
       "onboard_time": 1732709178,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 377302,
-      "num": 192617,
-      "word": "家属称女儿遭前男友囚禁泼开水",
-      "onboard_time": 1732724357,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352063,
@@ -83,20 +99,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262096,
-      "num": 262096,
-      "word": "黑龙江又一地疑发现东北虎",
-      "onboard_time": 1732746373,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247197,
       "num": 247197,
       "word": "吃火锅意外入镜直播间获赔500元",
       "onboard_time": 1732695438,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244131,
+      "num": 109012,
+      "word": "上海果然是没有人穿羽绒服的",
+      "onboard_time": 1732717880,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 238448,
@@ -107,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221434,
-      "num": 109012,
-      "word": "上海果然是没有人穿羽绒服的",
-      "onboard_time": 1732717880,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 229158,
+      "num": 229158,
+      "word": "碎片化睡眠危害等同于熬夜",
+      "onboard_time": 1732708279,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221068,
@@ -123,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211595,
-      "num": 211595,
-      "word": "碎片化睡眠危害等同于熬夜",
-      "onboard_time": 1732708279,
-      "rank": 8,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184671,
       "num": 184671,
       "word": "美国医生血泪控诉加沙惨状",
@@ -139,8 +147,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184587,
+      "num": 184587,
+      "word": "加沙人睡梦中海水灌进帐篷",
+      "onboard_time": 1732741211,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182839,
-      "num": 121263,
+      "num": 158363,
       "word": "利物浦2比0皇马",
       "onboard_time": 1732749255,
       "rank": 11,
@@ -161,14 +177,6 @@
       "onboard_time": 1732722019,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169326,
-      "num": 169326,
-      "word": "加沙人睡梦中海水灌进帐篷",
-      "onboard_time": 1732741211,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 158838,
@@ -195,20 +203,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144150,
+      "num": 136792,
+      "word": "白百何接小儿子放学背着上车",
+      "onboard_time": 1732710678,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143355,
       "num": 261853,
       "word": "山河如愿英雄回家",
       "onboard_time": 1732713798,
       "rank": 17,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 139518,
-      "num": 115664,
-      "word": "白百何接小儿子放学背着上车",
-      "onboard_time": 1732710678,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 139306,
@@ -235,12 +243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130459,
+      "num": 130459,
+      "word": "羽绒骗局曝光",
+      "onboard_time": 1732731251,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118092,
       "num": 107927,
       "word": "蒋敦豪直播完就走了",
       "onboard_time": 1732705159,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113489,
+      "num": 125872,
+      "word": "供应商回应比亚迪要求降价",
+      "onboard_time": 1732749255,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 110453,
@@ -267,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102116,
-      "num": 102116,
-      "word": "羽绒骗局曝光",
-      "onboard_time": 1732731251,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98624,
       "num": 98624,
       "word": "孙颖莎为邱贻可庆生",
@@ -299,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 93059,
+      "num": 93059,
+      "word": "志愿军战士真实冲锋影像",
+      "onboard_time": 1732749315,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88239,
       "num": 88239,
       "word": "卧室巨星",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 84770,
-      "num": 45009,
+      "num": 64799,
       "word": "白百何张思麟陪小儿子做手工",
       "onboard_time": 1732746853,
       "rank": 40,
@@ -337,14 +361,6 @@
       "onboard_time": 1732709239,
       "rank": 35,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 81892,
-      "num": 81892,
-      "word": "志愿军战士真实冲锋影像",
-      "onboard_time": 1732749315,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81799,
@@ -451,11 +467,35 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59358,
-      "num": 59358,
+      "raw_hot": 59957,
+      "num": 101334,
+      "word": "张真源 混血感帅哥具像化",
+      "onboard_time": 1732749374,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59909,
+      "num": 59909,
       "word": "王一博清华大学海报",
       "onboard_time": 1732698978,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57623,
+      "num": 102118,
+      "word": "陈丽君李云霄将参演我的大观园",
+      "onboard_time": 1732716919,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 57089,
+      "num": 57089,
+      "word": "尼泊尔偶遇邱淑贞",
+      "onboard_time": 1732707199,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -465,6 +505,14 @@
       "onboard_time": 1732698138,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53140,
+      "num": 68483,
+      "word": "黑龙江鹤岗的雪好大啊",
+      "onboard_time": 1732748534,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52779,
@@ -483,12 +531,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 49668,
-      "num": 125872,
-      "word": "供应商回应比亚迪要求降价",
-      "onboard_time": 1732749255,
-      "rank": 9,
-      "category": "汽车"
+      "raw_hot": 52464,
+      "num": 52464,
+      "word": "中羽协发布羽绒制品原料参考价格",
+      "onboard_time": 1732733711,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 49402,
@@ -497,14 +545,6 @@
       "onboard_time": 1732741451,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47769,
-      "num": 102118,
-      "word": "陈丽君李云霄将参演我的大观园",
-      "onboard_time": 1732716919,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 47767,
@@ -531,20 +571,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 44734,
-      "num": 44734,
-      "word": "中羽协发布羽绒制品原料参考价格",
-      "onboard_time": 1732733711,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 43183,
       "num": 43183,
       "word": "ENHYPEN惊喜制服练习室",
       "onboard_time": 1732726336,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41949,
+      "num": 41949,
+      "word": "他们牺牲时平均年龄仅22岁",
+      "onboard_time": 1732735451,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 41898,
+      "num": 41949,
+      "word": "鹤岗降雪量打破当地11月单日纪录",
+      "onboard_time": 1732736890,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41790,
@@ -556,7 +604,7 @@
     },
     {
       "raw_hot": 41168,
-      "num": 41168,
+      "num": 41949,
       "word": "官方回应殡仪馆用炖盅当骨灰瓮",
       "onboard_time": 1732745411,
       "rank": 46,
@@ -564,7 +612,7 @@
     },
     {
       "raw_hot": 40908,
-      "num": 40908,
+      "num": 41949,
       "word": "中国坚定支持巴勒斯坦成为联合国正式会员国",
       "onboard_time": 1732726635,
       "rank": 47,
@@ -579,28 +627,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36862,
+      "num": 41949,
+      "word": "王境泽采访",
+      "onboard_time": 1732734611,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 35198,
-      "num": 39656,
+      "num": 41949,
       "word": "护犊子原来可以这样理解",
       "onboard_time": 1732741031,
       "rank": 41,
       "category": "正能量"
     },
     {
-      "raw_hot": 35119,
-      "num": 39662,
-      "word": "鹤岗降雪量打破当地11月单日纪录",
-      "onboard_time": 1732736890,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34465,
-      "num": 39642,
-      "word": "王境泽采访",
-      "onboard_time": 1732734611,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 33928,
+      "num": 41949,
+      "word": "芒果凑齐了三大群像",
+      "onboard_time": 1732707438,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 33229,
@@ -619,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31628,
-      "num": 39596,
-      "word": "他们牺牲时平均年龄仅22岁",
-      "onboard_time": 1732735451,
-      "rank": 46,
-      "category": "正能量"
+      "raw_hot": 31687,
+      "num": 41949,
+      "word": "墨西哥总统称美方加征关税加剧美墨通胀",
+      "onboard_time": 1732712059,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31533,
@@ -643,28 +691,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 31297,
-      "num": 39547,
-      "word": "黑龙江鹤岗的雪好大啊",
-      "onboard_time": 1732748534,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30822,
       "num": 30822,
       "word": "王源孤星计划开启预售",
       "onboard_time": 1732728733,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30578,
-      "num": 39482,
-      "word": "芒果凑齐了三大群像",
-      "onboard_time": 1732707438,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 28627,
@@ -827,12 +859,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 9074,
-      "num": 101334,
-      "word": "张真源 混血感帅哥具像化",
-      "onboard_time": 1732749374,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 8790,
+      "num": 68546,
+      "word": "苏翊鸣北京站赛前适应训练",
+      "onboard_time": 1732750155,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 7887,
