@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732717355341,
+  "endTime": 1732718565914,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -80,6 +80,14 @@
       "word": "女子手上9套房每套都烦心",
       "onboard_time": 1732678638,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1989023,
+      "num": 1028918,
+      "word": "骗保男子在妻子死后做瘫痪无力状",
+      "onboard_time": 1732714999,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -184,14 +192,6 @@
       "word": "野猪撕咬老人3条大狗不敢上前",
       "onboard_time": 1732537880,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1678554,
-      "num": 1028918,
-      "word": "骗保男子在妻子死后做瘫痪无力状",
-      "onboard_time": 1732714999,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1365123,
+      "num": 1365123,
+      "word": "央妈镜头的祝绪丹",
+      "onboard_time": 1732714519,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1357098,
       "num": 1140337,
       "word": "郑雨盛承认有儿子",
@@ -457,14 +465,6 @@
       "onboard_time": 1732627519,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1308573,
-      "num": 1308573,
-      "word": "央妈镜头的祝绪丹",
-      "onboard_time": 1732714519,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1308099,
@@ -3323,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327791,
+      "num": 327791,
+      "word": "初雪cha一下",
+      "onboard_time": 1732714999,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326641,
       "num": 225395,
       "word": "冬天不建议女生买的衣服",
@@ -3433,14 +3441,6 @@
       "onboard_time": 1732495580,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315642,
-      "num": 315642,
-      "word": "初雪cha一下",
-      "onboard_time": 1732714999,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 315030,
@@ -3771,6 +3771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288121,
+      "num": 219896,
+      "word": "上海果然是没有人穿羽绒服的",
+      "onboard_time": 1732717880,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288092,
       "num": 288092,
       "word": "货拉拉发布情况说明",
@@ -4059,6 +4067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 261659,
+      "num": 261659,
+      "word": "XLB怒喷Doinb",
+      "onboard_time": 1732714999,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 261610,
       "num": 261610,
       "word": "46人因黑龙江一煤矿重大事故被处理",
@@ -4312,14 +4328,6 @@
       "word": "今屿道歉",
       "onboard_time": 1732535299,
       "rank": 19,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 248117,
-      "num": 248117,
-      "word": "XLB怒喷Doinb",
-      "onboard_time": 1732714999,
-      "rank": 28,
       "category": "电竞"
     },
     {
@@ -4851,6 +4859,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 222682,
+      "num": 222682,
+      "word": "双轨开通官微",
+      "onboard_time": 1732715719,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222628,
       "num": 222628,
       "word": "数电发票",
@@ -4881,6 +4897,14 @@
       "onboard_time": 1732448539,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222247,
+      "num": 251340,
+      "word": "严浩翔生日周边",
+      "onboard_time": 1732716620,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 222032,
@@ -5049,6 +5073,14 @@
       "onboard_time": 1732638976,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216108,
+      "num": 245735,
+      "word": "樊振东用手机打乒乓球",
+      "onboard_time": 1732716620,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 215976,
@@ -5345,14 +5377,6 @@
       "onboard_time": 1732587858,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 205846,
-      "num": 245735,
-      "word": "樊振东用手机打乒乓球",
-      "onboard_time": 1732716620,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 205810,
@@ -5988,7 +6012,7 @@
     },
     {
       "raw_hot": 192963,
-      "num": 192963,
+      "num": 208215,
       "word": "XLB直播道歉",
       "onboard_time": 1732716439,
       "rank": 31,
@@ -6177,6 +6201,14 @@
       "onboard_time": 1732595001,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188846,
+      "num": 302012,
+      "word": "哈尔滨学生午餐遭抽条",
+      "onboard_time": 1732714878,
+      "rank": 15,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 188786,
@@ -6763,14 +6795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175054,
-      "num": 175054,
-      "word": "双轨开通官微",
-      "onboard_time": 1732715719,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175033,
       "num": 175033,
       "word": "华为MateX6到手即可升级原生鸿蒙",
@@ -7073,6 +7097,14 @@
       "onboard_time": 1732706779,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167689,
+      "num": 167689,
+      "word": "全球最年长男子去世历经24任英国首相",
+      "onboard_time": 1732711998,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167631,
@@ -7435,14 +7467,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 160082,
-      "num": 160082,
-      "word": "全球最年长男子去世历经24任英国首相",
-      "onboard_time": 1732711998,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 159975,
       "num": 159975,
       "word": "张杰专辑要得音乐电影全球首映",
@@ -7601,6 +7625,14 @@
       "onboard_time": 1732673599,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156640,
+      "num": 151681,
+      "word": "谢娜宣传张杰音乐电影",
+      "onboard_time": 1732717880,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 156400,
@@ -8627,6 +8659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133270,
+      "num": 262943,
+      "word": "93岁老战士一身戎装接战友回家",
+      "onboard_time": 1732717819,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133165,
       "num": 311144,
       "word": "辽大回应将扫雪与奖学金挂钩",
@@ -8777,14 +8817,6 @@
       "onboard_time": 1732696339,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129147,
-      "num": 302012,
-      "word": "哈尔滨学生午餐遭抽条",
-      "onboard_time": 1732714878,
-      "rank": 15,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 129006,
@@ -9195,6 +9227,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 122992,
+      "num": 122992,
+      "word": "妻子死后骗保男子催民警开死亡证明",
+      "onboard_time": 1732718239,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122979,
       "num": 122979,
       "word": "香港市民打卡海南舰说希望福建舰也能来",
@@ -9299,12 +9339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121279,
-      "num": 251340,
-      "word": "严浩翔生日周边",
-      "onboard_time": 1732716620,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 121217,
+      "num": 121217,
+      "word": "REDMI智能电视",
+      "onboard_time": 1732717519,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 121101,
@@ -9867,6 +9907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112734,
+      "num": 112734,
+      "word": "牛妈妈为护小牛用身体挡住火源",
+      "onboard_time": 1732717160,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 112721,
       "num": 112721,
       "word": "丁禹兮海岛版拍摄现场",
@@ -10241,6 +10289,14 @@
       "onboard_time": 1732547299,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 104872,
+      "num": 104872,
+      "word": "鹿晗直拍",
+      "onboard_time": 1732716380,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 104455,
@@ -10625,6 +10681,14 @@
       "onboard_time": 1732457301,
       "rank": 18,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 94253,
+      "num": 188853,
+      "word": "谢娜回母校参加活动",
+      "onboard_time": 1732717759,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 94055,
@@ -11177,6 +11241,14 @@
       "onboard_time": 1732638617,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 80248,
+      "num": 264358,
+      "word": "男子犯重婚罪被拘184天后改判无罪",
+      "onboard_time": 1732717639,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80058,
@@ -12019,6 +12091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 57114,
+      "num": 262170,
+      "word": "樊振东操控AI发微博",
+      "onboard_time": 1732714639,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56994,
       "num": 56994,
       "word": "声生不息大湾区季",
@@ -12451,6 +12531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48154,
+      "num": 652774,
+      "word": "这是一个值得逐帧观看的MV",
+      "onboard_time": 1732713980,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47964,
       "num": 47964,
       "word": "劣质羽绒服不能保暖还危害身体健康",
@@ -12545,6 +12633,14 @@
       "onboard_time": 1732450640,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46233,
+      "num": 266437,
+      "word": "悬疑追凶剧卷出什么新意",
+      "onboard_time": 1732717461,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 46128,
@@ -12793,14 +12889,6 @@
       "onboard_time": 1732403330,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 42722,
-      "num": 256797,
-      "word": "樊振东操控AI发微博",
-      "onboard_time": 1732714639,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 42638,
@@ -13283,14 +13371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 34225,
-      "num": 652774,
-      "word": "这是一个值得逐帧观看的MV",
-      "onboard_time": 1732713980,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34196,
       "num": 92473,
       "word": "OBGG显示Crisp加入TES",
@@ -13480,6 +13560,14 @@
       "word": "叶嘉莹留下诗心映月",
       "onboard_time": 1732499838,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31203,
+      "num": 188904,
+      "word": "养老院称老人的伤系打瞌睡摔倒造成",
+      "onboard_time": 1732717519,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
