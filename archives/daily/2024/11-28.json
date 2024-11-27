@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732725019248,
+  "endTime": 1732726009141,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -19,6 +19,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 396503,
+      "num": 330767,
+      "word": "专家称谷子火爆因年轻人缺乏社交途径",
+      "onboard_time": 1732720159,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381138,
       "num": 109811,
       "word": "英国一母亲把女儿藏抽屉养到3岁",
@@ -33,14 +41,6 @@
       "onboard_time": 1732718840,
       "rank": 3,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 330767,
-      "num": 330767,
-      "word": "专家称谷子火爆因年轻人缺乏社交途径",
-      "onboard_time": 1732720159,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296851,
@@ -99,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181784,
+      "num": 181784,
+      "word": "家属称女儿遭前男友囚禁泼开水",
+      "onboard_time": 1732724357,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181035,
       "num": 181035,
       "word": "后陡门的夏天结束了",
@@ -131,6 +139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147111,
+      "num": 147111,
+      "word": "洪承汉初雪正面照",
+      "onboard_time": 1732722976,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143355,
+      "num": 143355,
+      "word": "山河如愿英雄回家",
+      "onboard_time": 1732713798,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 139306,
       "num": 139306,
       "word": "愿你勇敢追梦祝你光芒万丈",
@@ -153,14 +177,6 @@
       "onboard_time": 1732719439,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127444,
-      "num": 127444,
-      "word": "山河如愿英雄回家",
-      "onboard_time": 1732713798,
-      "rank": 17,
-      "category": "正能量"
     },
     {
       "raw_hot": 118092,
@@ -195,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100980,
-      "num": 110319,
-      "word": "洪承汉初雪正面照",
-      "onboard_time": 1732722976,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 98624,
       "num": 98624,
       "word": "孙颖莎为邱贻可庆生",
@@ -217,6 +225,14 @@
       "onboard_time": 1732708578,
       "rank": 29,
       "category": "体育,数码"
+    },
+    {
+      "raw_hot": 95512,
+      "num": 95512,
+      "word": "美国医生血泪控诉加沙惨状",
+      "onboard_time": 1732722198,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93848,
@@ -257,14 +273,6 @@
       "onboard_time": 1732710678,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82495,
-      "num": 108295,
-      "word": "家属称女儿遭前男友囚禁泼开水",
-      "onboard_time": 1732724357,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82283,
@@ -363,20 +371,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65435,
-      "num": 65435,
+      "raw_hot": 65447,
+      "num": 65447,
       "word": "K80大满贯首发评测",
       "onboard_time": 1732722078,
       "rank": 48,
       "category": "数码"
     },
     {
-      "raw_hot": 63637,
-      "num": 63637,
-      "word": "美国医生血泪控诉加沙惨状",
-      "onboard_time": 1732722198,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 53794,
+      "num": 53794,
+      "word": "浪姐6",
+      "onboard_time": 1732698138,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 52535,
@@ -387,8 +395,24 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 50967,
+      "num": 50967,
+      "word": "王一博清华大学海报",
+      "onboard_time": 1732698978,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46518,
+      "num": 107686,
+      "word": "papi 互联网自由式辩论赛场",
+      "onboard_time": 1732725195,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 41790,
-      "num": 69319,
+      "num": 80296,
       "word": "中国青年当红不让",
       "onboard_time": 1732718959,
       "rank": 45,

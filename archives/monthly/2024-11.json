@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732725019248,
+  "endTime": 1732726009141,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -20187,6 +20187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396503,
+      "num": 330767,
+      "word": "专家称谷子火爆因年轻人缺乏社交途径",
+      "onboard_time": 1732720159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396387,
       "num": 466938,
       "word": "永夜星河买了原版版权",
@@ -23577,14 +23585,6 @@
       "onboard_time": 1730417055,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330767,
-      "num": 330767,
-      "word": "专家称谷子火爆因年轻人缺乏社交途径",
-      "onboard_time": 1732720159,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 330734,
@@ -43403,6 +43403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181784,
+      "num": 181784,
+      "word": "家属称女儿遭前男友囚禁泼开水",
+      "onboard_time": 1732724357,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181782,
       "num": 181782,
       "word": "十个勤天福州演唱会拼盘",
@@ -53827,6 +53835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147111,
+      "num": 147111,
+      "word": "洪承汉初雪正面照",
+      "onboard_time": 1732722976,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147099,
       "num": 147099,
       "word": "权志龙Power舞蹈版",
@@ -54841,6 +54857,14 @@
       "onboard_time": 1731730938,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143355,
+      "num": 148670,
+      "word": "山河如愿英雄回家",
+      "onboard_time": 1732713798,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143340,
@@ -59521,14 +59545,6 @@
       "onboard_time": 1732290558,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127444,
-      "num": 148670,
-      "word": "山河如愿英雄回家",
-      "onboard_time": 1732713798,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127426,
@@ -66483,14 +66499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100980,
-      "num": 110319,
-      "word": "洪承汉初雪正面照",
-      "onboard_time": 1732722976,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 100907,
       "num": 343798,
       "word": "何浩楠进村视频",
@@ -67665,6 +67673,14 @@
       "onboard_time": 1731234979,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95512,
+      "num": 95512,
+      "word": "美国医生血泪控诉加沙惨状",
+      "onboard_time": 1732722198,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95508,
@@ -69945,14 +69961,6 @@
       "onboard_time": 1731137958,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82495,
-      "num": 108295,
-      "word": "家属称女儿遭前男友囚禁泼开水",
-      "onboard_time": 1732724357,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82461,
@@ -73275,8 +73283,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65435,
-      "num": 65435,
+      "raw_hot": 65447,
+      "num": 65447,
       "word": "K80大满贯首发评测",
       "onboard_time": 1732722078,
       "rank": 48,
@@ -73585,14 +73593,6 @@
       "onboard_time": 1731885555,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 63637,
-      "num": 63637,
-      "word": "美国医生血泪控诉加沙惨状",
-      "onboard_time": 1732722198,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63629,
@@ -78411,6 +78411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46518,
+      "num": 107686,
+      "word": "papi 互联网自由式辩论赛场",
+      "onboard_time": 1732725195,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 46513,
       "num": 329559,
       "word": "无畏吃柠檬酸到模糊",
@@ -79900,7 +79908,7 @@
     },
     {
       "raw_hot": 41790,
-      "num": 69319,
+      "num": 80296,
       "word": "中国青年当红不让",
       "onboard_time": 1732718959,
       "rank": 45,
