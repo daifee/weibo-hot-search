@@ -1,0 +1,410 @@
+{
+  "runTime": 1732685008507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1632103,
+        "num": 1632103,
+        "word": "女子手上9套房每套都烦心",
+        "onboard_time": 1732678638,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1094774,
+        "num": 1094774,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59404,
+        "num": 935272,
+        "word": "川渝火锅在链博会有一个专门展览",
+        "onboard_time": 1732673899,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 781144,
+        "num": 781144,
+        "word": "花2万买保时捷小卡宴车标竟是驴",
+        "onboard_time": 1732681280,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543507,
+        "num": 543507,
+        "word": "马龙以大学生身份访台交流",
+        "onboard_time": 1732682541,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482966,
+        "num": 482966,
+        "word": "再见爱人抢座位事件",
+        "onboard_time": 1732679479,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478427,
+        "num": 478427,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1732674018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448521,
+        "num": 448521,
+        "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
+        "onboard_time": 1732675939,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164335,
+        "num": 446254,
+        "word": "野猪伤人致死事件4人狩猎前未报备",
+        "onboard_time": 1732684519,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107001,
+        "num": 443114,
+        "word": "华为MateX6现场测速",
+        "onboard_time": 1732684698,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 512842,
+        "num": 438996,
+        "word": "万国鹏回应曾追求张予曦",
+        "onboard_time": 1732671918,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498790,
+        "num": 438329,
+        "word": "徐艺洋水晶",
+        "onboard_time": 1732678638,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435000,
+        "num": 435000,
+        "word": "电瓶车29楼充电起火致两邻居身亡",
+        "onboard_time": 1732674919,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 134152,
+        "num": 424787,
+        "word": "北京突然飘雪属于大力出奇迹",
+        "onboard_time": 1732683320,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40687,
+        "num": 421099,
+        "word": "是否抗冻取决于肌肉量",
+        "onboard_time": 1732684040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418725,
+        "num": 418725,
+        "word": "外媒称大疆在黄埔军校训练员工",
+        "onboard_time": 1732679120,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419366,
+        "num": 415464,
+        "word": "王境泽靠真香定律年入百万",
+        "onboard_time": 1732677258,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 394649,
+        "num": 394649,
+        "word": "麦琳穿搭",
+        "onboard_time": 1732672339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162673,
+        "num": 374360,
+        "word": "赵丽颖热烈的许半夏",
+        "onboard_time": 1732682841,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29524,
+        "num": 366942,
+        "word": "男子听信广告刷流量赚钱被骗15万",
+        "onboard_time": 1732684099,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364135,
+        "num": 364135,
+        "word": "芒果也要推新男团了",
+        "onboard_time": 1732680378,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347905,
+        "num": 347905,
+        "word": "花了1万八的俄罗斯旅游",
+        "onboard_time": 1732683020,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 309606,
+        "num": 309606,
+        "word": "王铮亮 咱们不够火",
+        "onboard_time": 1732683260,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297258,
+        "num": 297258,
+        "word": "重庆火灾",
+        "onboard_time": 1732670298,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 296597,
+        "num": 296597,
+        "word": "Faker直播看369操作",
+        "onboard_time": 1732680799,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283926,
+        "num": 283926,
+        "word": "曝比亚迪要求供应商降价",
+        "onboard_time": 1732680860,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41292,
+        "num": 271698,
+        "word": "张颂文新剧活埋戏",
+        "onboard_time": 1732684938,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96583,
+        "num": 261909,
+        "word": "钎城希望得到更多机会",
+        "onboard_time": 1732684938,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43039,
+        "num": 257562,
+        "word": "李宇春声生不息好歌献给你",
+        "onboard_time": 1732684759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55530,
+        "num": 242190,
+        "word": "被老师砸伤头骨女孩母亲发声",
+        "onboard_time": 1732684638,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234334,
+        "num": 234334,
+        "word": "旺仔牛奶生产全过程",
+        "onboard_time": 1732680860,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176562,
+        "num": 233917,
+        "word": "花儿与少年",
+        "onboard_time": 1732681699,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233647,
+        "num": 233647,
+        "word": "羽绒服",
+        "onboard_time": 1732673057,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52941,
+        "num": 202371,
+        "word": "我是刑警开播仪式",
+        "onboard_time": 1732684279,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183485,
+        "num": 197192,
+        "word": "恩利称其父母离婚是件不错的事",
+        "onboard_time": 1732684698,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100867,
+        "num": 196504,
+        "word": "被吴磊手指一伸钓成翘嘴",
+        "onboard_time": 1732684159,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196498,
+        "num": 196498,
+        "word": "身份证18位数字分别代表什么",
+        "onboard_time": 1732670298,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 189738,
+        "num": 189738,
+        "word": "112岁全球最年长男子去世",
+        "onboard_time": 1732678938,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150995,
+        "num": 188335,
+        "word": "白百何时隔六年再演打女",
+        "onboard_time": 1732678699,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188082,
+        "num": 188082,
+        "word": "张卫健的离谱爱情",
+        "onboard_time": 1732684040,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185266,
+        "num": 185266,
+        "word": "羽绒服一天一个价",
+        "onboard_time": 1732676298,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182027,
+        "num": 182027,
+        "word": "BLG官宣Xun离队",
+        "onboard_time": 1732682180,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26390,
+        "num": 181901,
+        "word": "Uzi谈传奇杯表演赛名单",
+        "onboard_time": 1732683620,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181870,
+        "num": 181870,
+        "word": "植物也有胎生",
+        "onboard_time": 1732684337,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180785,
+        "num": 180785,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168690,
+        "num": 168690,
+        "word": "梦泪升级当爸爸了",
+        "onboard_time": 1732681940,
+        "rank": 45,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 168035,
+        "num": 168035,
+        "word": "提前还房贷的人后悔了吗",
+        "onboard_time": 1732661714,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166691,
+        "num": 166691,
+        "word": "谈薪把offer谈没了的真实感受",
+        "onboard_time": 1732669218,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152220,
+        "num": 152220,
+        "word": "丁禹兮五大",
+        "onboard_time": 1732679660,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147384,
+        "num": 147384,
+        "word": "张馨予六年后再演古装剧",
+        "onboard_time": 1732681762,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国树立了合作互利共赢的生动样板#"
+    }
+  }
+}
