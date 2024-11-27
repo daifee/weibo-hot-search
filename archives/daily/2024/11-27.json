@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732711606671,
+  "endTime": 1732712565974,
   "band_list": [
     {
       "raw_hot": 2483621,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 994862,
+      "num": 1159178,
+      "word": "碎片化睡眠危害等同于熬夜",
+      "onboard_time": 1732708279,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 972949,
       "num": 1155671,
       "word": "提前还房贷的人后悔了吗",
@@ -195,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844558,
+      "num": 264766,
+      "word": "英国一母亲把女儿藏抽屉养到3岁",
+      "onboard_time": 1732709178,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 837285,
       "num": 490349,
       "word": "麦琳穿搭",
       "onboard_time": 1732672339,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 821997,
-      "num": 231233,
-      "word": "英国一母亲把女儿藏抽屉养到3岁",
-      "onboard_time": 1732709178,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 821445,
@@ -353,14 +361,6 @@
       "onboard_time": 1732700899,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 611704,
-      "num": 611704,
-      "word": "碎片化睡眠危害等同于熬夜",
-      "onboard_time": 1732708279,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 606416,
@@ -539,6 +539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 413389,
+      "num": 364536,
+      "word": "白百何接小儿子放学背着上车",
+      "onboard_time": 1732710678,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413299,
       "num": 413299,
       "word": "受害女童家长称不服老师只判5年",
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359986,
+      "num": 359986,
+      "word": "林昀儒 魏桥",
+      "onboard_time": 1732710857,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359523,
       "num": 359523,
       "word": "恋与深空新PV",
@@ -665,6 +681,14 @@
       "onboard_time": 1732692738,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330296,
+      "num": 256545,
+      "word": "花3万块在新疆买的小院",
+      "onboard_time": 1732709239,
+      "rank": 23,
+      "category": "休闲"
     },
     {
       "raw_hot": 325435,
@@ -763,6 +787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 294083,
+      "num": 294083,
+      "word": "王者荣耀",
+      "onboard_time": 1732710499,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291195,
       "num": 291195,
       "word": "92岁奶奶比29不到的我气血还足",
@@ -792,22 +824,6 @@
       "word": "赵露思新剧依然是自己化妆",
       "onboard_time": 1732616418,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 275074,
-      "num": 230239,
-      "word": "花3万块在新疆买的小院",
-      "onboard_time": 1732709239,
-      "rank": 23,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 272806,
-      "num": 193926,
-      "word": "白百何接小儿子放学背着上车",
-      "onboard_time": 1732710678,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -883,6 +899,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 247567,
+      "num": 247567,
+      "word": "芒果凑齐了三大群像",
+      "onboard_time": 1732707438,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247465,
+      "num": 247465,
+      "word": "这种危险插排千万别再用了",
+      "onboard_time": 1732707378,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 244407,
       "num": 244407,
       "word": "北京下雪",
@@ -913,14 +945,6 @@
       "onboard_time": 1732631060,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239286,
-      "num": 239286,
-      "word": "林昀儒 魏桥",
-      "onboard_time": 1732710857,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 238672,
@@ -955,12 +979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233599,
-      "num": 233599,
-      "word": "王者荣耀",
-      "onboard_time": 1732710499,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 235474,
+      "num": 235474,
+      "word": "周也 OPPO",
+      "onboard_time": 1732711278,
+      "rank": 41,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 232373,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 208530,
-      "num": 208530,
+      "num": 264785,
       "word": "李子柒烟台学非遗烙葫芦",
       "onboard_time": 1732704617,
       "rank": 24,
@@ -1147,12 +1171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203418,
-      "num": 203418,
-      "word": "这种危险插排千万别再用了",
-      "onboard_time": 1732707378,
-      "rank": 28,
-      "category": "科学科普"
+      "raw_hot": 204454,
+      "num": 247504,
+      "word": "樊振东晒和王腾合照",
+      "onboard_time": 1732711639,
+      "rank": 24,
+      "category": "体育,数码"
     },
     {
       "raw_hot": 202989,
@@ -1435,6 +1459,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 181212,
+      "num": 232650,
+      "word": "丁禹兮副本冒险通关",
+      "onboard_time": 1732710798,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180733,
       "num": 180733,
       "word": "985本硕的建筑设计师们月薪三千",
@@ -1523,14 +1555,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 171780,
-      "num": 160669,
-      "word": "芒果凑齐了三大群像",
-      "onboard_time": 1732707438,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171548,
       "num": 195846,
       "word": "一下雪沈阳故宫就美成了壁纸",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1732681880,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164218,
-      "num": 232650,
-      "word": "丁禹兮副本冒险通关",
-      "onboard_time": 1732710798,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 163780,
@@ -1689,6 +1705,14 @@
       "onboard_time": 1732673599,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153939,
+      "num": 442135,
+      "word": "和顶尖舞者王一博一起感受传统文化",
+      "onboard_time": 1732708339,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 153700,
@@ -1875,20 +1899,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140483,
-      "num": 442135,
-      "word": "和顶尖舞者王一博一起感受传统文化",
-      "onboard_time": 1732708339,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140012,
       "num": 140012,
       "word": "黄冈58岁高三教师宿舍离世教育局介入",
       "onboard_time": 1732623918,
       "rank": 45,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 139469,
+      "num": 229608,
+      "word": "BLG xun",
+      "onboard_time": 1732711518,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 138364,
@@ -1939,14 +1963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 135722,
-      "num": 135722,
-      "word": "周也 OPPO",
-      "onboard_time": 1732711278,
-      "rank": 41,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "内鱼在逃小仙女永久禁言",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1732685359,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 130198,
+      "num": 364772,
+      "word": "老师扔三角尺致女生重伤仍未道歉",
+      "onboard_time": 1732711219,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129440,
@@ -2171,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116950,
+      "num": 116950,
+      "word": "全球最年长男子去世历经24任英国首相",
+      "onboard_time": 1732711998,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116634,
       "num": 116634,
       "word": "暧昧期就是最好嗑的",
@@ -2217,6 +2249,14 @@
       "onboard_time": 1732676058,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112461,
+      "num": 112461,
+      "word": "郭艾伦CBA本土助攻王",
+      "onboard_time": 1732712118,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111920,
@@ -2379,6 +2419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96249,
+      "num": 138617,
+      "word": "韩佳人金桐俊同框",
+      "onboard_time": 1732712358,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95403,
       "num": 95403,
       "word": "大冰连线",
@@ -2491,14 +2539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86566,
-      "num": 316318,
-      "word": "老师扔三角尺致女生重伤仍未道歉",
-      "onboard_time": 1732711219,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85994,
       "num": 85994,
       "word": "日本地震",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1732626559,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79474,
+      "num": 167791,
+      "word": "尼泊尔偶遇邱淑贞",
+      "onboard_time": 1732707199,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 79310,
@@ -2755,14 +2803,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 61920,
-      "num": 229608,
-      "word": "BLG xun",
-      "onboard_time": 1732711518,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 61127,
       "num": 61127,
       "word": "市监局回应副处长被举报长期性骚扰",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1732673299,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 54812,
+      "num": 264923,
+      "word": "凭什么被抄袭的人反而要自证",
+      "onboard_time": 1732712179,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 54589,
@@ -3092,7 +3140,7 @@
     },
     {
       "raw_hot": 36173,
-      "num": 194074,
+      "num": 228573,
       "word": "赵明称友商发布后Magic7销量更好了",
       "onboard_time": 1732710798,
       "rank": 29,
@@ -3273,6 +3321,14 @@
       "onboard_time": 1732671677,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18452,
+      "num": 296656,
+      "word": "女子疑遭美容院套路背7万医美贷",
+      "onboard_time": 1732712238,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15895,

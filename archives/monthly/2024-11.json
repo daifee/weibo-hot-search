@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732711606671,
+  "endTime": 1732712565974,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5795,6 +5795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 994862,
+      "num": 1159178,
+      "word": "碎片化睡眠危害等同于熬夜",
+      "onboard_time": 1732708279,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 994742,
       "num": 994742,
       "word": "被老虎咬伤家属说左手保不住了",
@@ -7595,6 +7603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 844558,
+      "num": 264766,
+      "word": "英国一母亲把女儿藏抽屉养到3岁",
+      "onboard_time": 1732709178,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 843969,
       "num": 1464136,
       "word": "虞书欣拍刘亦菲",
@@ -7929,14 +7945,6 @@
       "onboard_time": 1731159200,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 821997,
-      "num": 231233,
-      "word": "英国一母亲把女儿藏抽屉养到3岁",
-      "onboard_time": 1732709178,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 821869,
@@ -12505,14 +12513,6 @@
       "onboard_time": 1730622378,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611704,
-      "num": 611704,
-      "word": "碎片化睡眠危害等同于熬夜",
-      "onboard_time": 1732708279,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 611325,
@@ -19195,6 +19195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413389,
+      "num": 364536,
+      "word": "白百何接小儿子放学背着上车",
+      "onboard_time": 1732710678,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413386,
       "num": 337579,
       "word": "殷世航 东南vip",
@@ -21915,6 +21923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359986,
+      "num": 359986,
+      "word": "林昀儒 魏桥",
+      "onboard_time": 1732710857,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359741,
       "num": 317201,
       "word": "林家 庄家",
@@ -23513,6 +23529,14 @@
       "onboard_time": 1731039441,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330296,
+      "num": 256545,
+      "word": "花3万块在新疆买的小院",
+      "onboard_time": 1732709239,
+      "rank": 23,
+      "category": "休闲"
     },
     {
       "raw_hot": 329914,
@@ -25827,6 +25851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294083,
+      "num": 294083,
+      "word": "王者荣耀",
+      "onboard_time": 1731251780,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293933,
       "num": 293933,
       "word": "张碧晨1个永夜星河片段看10遍",
@@ -27299,14 +27331,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 275074,
-      "num": 230239,
-      "word": "花3万块在新疆买的小院",
-      "onboard_time": 1732709239,
-      "rank": 23,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 275073,
       "num": 245169,
       "word": "妈妈看2岁儿子拍碎6000元电视",
@@ -27553,14 +27577,6 @@
       "onboard_time": 1730457739,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272806,
-      "num": 193926,
-      "word": "白百何接小儿子放学背着上车",
-      "onboard_time": 1732710678,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 272762,
@@ -30043,6 +30059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247567,
+      "num": 247567,
+      "word": "芒果凑齐了三大群像",
+      "onboard_time": 1732707438,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247556,
       "num": 247556,
       "word": "久诚晒聊天记录",
@@ -30057,6 +30081,14 @@
       "onboard_time": 1731571460,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247465,
+      "num": 247465,
+      "word": "这种危险插排千万别再用了",
+      "onboard_time": 1732707378,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 247456,
@@ -30939,14 +30971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 239286,
-      "num": 239286,
-      "word": "林昀儒 魏桥",
-      "onboard_time": 1732710857,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239267,
       "num": 406305,
       "word": "记者实测200元一份粥成本13元",
@@ -31339,6 +31363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235474,
+      "num": 235474,
+      "word": "周也 OPPO",
+      "onboard_time": 1732711278,
+      "rank": 41,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 235341,
       "num": 235341,
       "word": "徐若晗越素越美丽",
@@ -31569,14 +31601,6 @@
       "onboard_time": 1732616299,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 233599,
-      "num": 233599,
-      "word": "王者荣耀",
-      "onboard_time": 1731251780,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 233532,
@@ -35420,7 +35444,7 @@
     },
     {
       "raw_hot": 208530,
-      "num": 208530,
+      "num": 264785,
       "word": "李子柒烟台学非遗烙葫芦",
       "onboard_time": 1732704617,
       "rank": 24,
@@ -36491,6 +36515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204454,
+      "num": 247504,
+      "word": "樊振东晒和王腾合照",
+      "onboard_time": 1732711639,
+      "rank": 24,
+      "category": "体育,数码"
+    },
+    {
       "raw_hot": 204442,
       "num": 204442,
       "word": "内娱首个被叫strong哥而开心的明星",
@@ -36809,14 +36841,6 @@
       "onboard_time": 1732165461,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203418,
-      "num": 203418,
-      "word": "这种危险插排千万别再用了",
-      "onboard_time": 1732707378,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 203388,
@@ -43387,6 +43411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181212,
+      "num": 232650,
+      "word": "丁禹兮副本冒险通关",
+      "onboard_time": 1732710798,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181199,
       "num": 263709,
       "word": "大梦归离一场大战创飞全员",
@@ -45915,14 +45947,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 171780,
-      "num": 160669,
-      "word": "芒果凑齐了三大群像",
-      "onboard_time": 1732707438,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171754,
       "num": 179015,
       "word": "虞书欣好六节目拍摄vlog",
@@ -48129,14 +48153,6 @@
       "onboard_time": 1731855561,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164218,
-      "num": 232650,
-      "word": "丁禹兮副本冒险通关",
-      "onboard_time": 1732710798,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 164208,
@@ -51297,6 +51313,14 @@
       "onboard_time": 1732248559,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153939,
+      "num": 442135,
+      "word": "和顶尖舞者王一博一起感受传统文化",
+      "onboard_time": 1732708339,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 153863,
@@ -55515,14 +55539,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 140483,
-      "num": 442135,
-      "word": "和顶尖舞者王一博一起感受传统文化",
-      "onboard_time": 1732708339,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140480,
       "num": 381821,
       "word": "陈母问勇答曰祥榕勇冠三军",
@@ -55889,6 +55905,14 @@
       "onboard_time": 1730880330,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139469,
+      "num": 229608,
+      "word": "BLG xun",
+      "onboard_time": 1732711518,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 139468,
@@ -56929,14 +56953,6 @@
       "onboard_time": 1731814879,
       "rank": 33,
       "category": "军事"
-    },
-    {
-      "raw_hot": 135722,
-      "num": 135722,
-      "word": "周也 OPPO",
-      "onboard_time": 1732711278,
-      "rank": 41,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 135687,
@@ -58417,6 +58433,14 @@
       "onboard_time": 1731744198,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130198,
+      "num": 364772,
+      "word": "老师扔三角尺致女生重伤仍未道歉",
+      "onboard_time": 1732711219,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130125,
@@ -62339,6 +62363,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 116950,
+      "num": 116950,
+      "word": "全球最年长男子去世历经24任英国首相",
+      "onboard_time": 1732711998,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116940,
       "num": 1766611,
       "word": "双航母同框这一刻祖国强大具象化了",
@@ -63545,6 +63577,14 @@
       "onboard_time": 1732405515,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112461,
+      "num": 112461,
+      "word": "郭艾伦CBA本土助攻王",
+      "onboard_time": 1732712118,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 112437,
@@ -67131,6 +67171,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 96249,
+      "num": 138617,
+      "word": "韩佳人金桐俊同框",
+      "onboard_time": 1732712358,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 96231,
       "num": 303911,
       "word": "网上卖微型摄像头边警示边暗示",
@@ -68747,14 +68795,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 86566,
-      "num": 316318,
-      "word": "老师扔三角尺致女生重伤仍未道歉",
-      "onboard_time": 1732711219,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86554,
       "num": 389323,
       "word": "竞燃之夜最闪亮的红毯搭子",
@@ -70089,6 +70129,14 @@
       "onboard_time": 1732433599,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79474,
+      "num": 167791,
+      "word": "尼泊尔偶遇邱淑贞",
+      "onboard_time": 1732707199,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 79350,
@@ -73459,14 +73507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 61920,
-      "num": 229608,
-      "word": "BLG xun",
-      "onboard_time": 1732711518,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 61896,
       "num": 529114,
       "word": "网络鉴宝靠谱吗",
@@ -75401,6 +75441,14 @@
       "onboard_time": 1732467435,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54812,
+      "num": 264923,
+      "word": "凭什么被抄袭的人反而要自证",
+      "onboard_time": 1732712179,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 54797,
@@ -81476,7 +81524,7 @@
     },
     {
       "raw_hot": 36173,
-      "num": 194074,
+      "num": 228573,
       "word": "赵明称友商发布后Magic7销量更好了",
       "onboard_time": 1732710798,
       "rank": 29,
@@ -89392,6 +89440,14 @@
       "word": "被泼开水女童书包现恐吓信家长报警",
       "onboard_time": 1731529151,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18452,
+      "num": 296656,
+      "word": "女子疑遭美容院套路背7万医美贷",
+      "onboard_time": 1732712238,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
