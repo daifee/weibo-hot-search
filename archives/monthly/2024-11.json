@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732728077759,
+  "endTime": 1732729208935,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -78947,6 +78947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44848,
+      "num": 55071,
+      "word": "上汽大通要求供应商降本",
+      "onboard_time": 1732727414,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44838,
       "num": 1529848,
       "word": "秘鲁人举剪刀跳舞比赛10小时",
@@ -79913,14 +79921,6 @@
       "onboard_time": 1731313879,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41805,
-      "num": 41805,
-      "word": "上汽大通要求供应商降本",
-      "onboard_time": 1732727414,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 41795,
@@ -83379,6 +83379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33229,
+      "num": 33229,
+      "word": "山神杀青",
+      "onboard_time": 1732728913,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33102,
       "num": 585309,
       "word": "发条微博一起迎接立冬",
@@ -84467,6 +84475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30822,
+      "num": 30822,
+      "word": "王源孤星计划开启预售",
+      "onboard_time": 1732728733,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30811,
       "num": 527650,
       "word": "看精神科门诊的老人们",
@@ -85449,6 +85465,14 @@
       "onboard_time": 1732611980,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 28627,
+      "num": 28627,
+      "word": "圣诞氛围",
+      "onboard_time": 1732728973,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 28584,
@@ -91481,6 +91505,14 @@
       "onboard_time": 1731763582,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14799,
+      "num": 46327,
+      "word": "朱正廷拍的日出",
+      "onboard_time": 1732729032,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 14786,

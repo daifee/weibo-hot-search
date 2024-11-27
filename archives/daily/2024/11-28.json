@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732728077759,
+  "endTime": 1732729208935,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -419,20 +419,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 44848,
+      "num": 55071,
+      "word": "上汽大通要求供应商降本",
+      "onboard_time": 1732727414,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43183,
       "num": 43183,
       "word": "ENHYPEN惊喜制服练习室",
       "onboard_time": 1732726336,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41805,
-      "num": 41805,
-      "word": "上汽大通要求供应商降本",
-      "onboard_time": 1732727414,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 41790,
@@ -459,6 +459,38 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33229,
+      "num": 33229,
+      "word": "山神杀青",
+      "onboard_time": 1732728913,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30822,
+      "num": 30822,
+      "word": "王源孤星计划开启预售",
+      "onboard_time": 1732728733,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 30578,
+      "num": 30578,
+      "word": "芒果凑齐了三大群像",
+      "onboard_time": 1732707438,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28627,
+      "num": 28627,
+      "word": "圣诞氛围",
+      "onboard_time": 1732728973,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28095,
       "num": 108711,
       "word": "马龙打高尔夫球",
@@ -473,6 +505,14 @@
       "onboard_time": 1732727834,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14799,
+      "num": 46327,
+      "word": "朱正廷拍的日出",
+      "onboard_time": 1732729032,
+      "rank": 24,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

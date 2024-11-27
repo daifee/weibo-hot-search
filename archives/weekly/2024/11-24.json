@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732728077759,
+  "endTime": 1732729208935,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -12955,6 +12955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44848,
+      "num": 55071,
+      "word": "上汽大通要求供应商降本",
+      "onboard_time": 1732727414,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44771,
       "num": 257562,
       "word": "李宇春声生不息好歌献给你",
@@ -13137,14 +13145,6 @@
       "onboard_time": 1732577356,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41805,
-      "num": 41805,
-      "word": "上汽大通要求供应商降本",
-      "onboard_time": 1732727414,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 41790,
@@ -13659,6 +13659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33229,
+      "num": 33229,
+      "word": "山神杀青",
+      "onboard_time": 1732728913,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33036,
       "num": 76409,
       "word": "伊普斯维奇1比1曼联",
@@ -13843,6 +13851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30822,
+      "num": 30822,
+      "word": "王源孤星计划开启预售",
+      "onboard_time": 1732728733,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30811,
       "num": 527650,
       "word": "看精神科门诊的老人们",
@@ -14017,6 +14033,14 @@
       "onboard_time": 1732611980,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 28627,
+      "num": 28627,
+      "word": "圣诞氛围",
+      "onboard_time": 1732728973,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 28518,
@@ -14913,6 +14937,14 @@
       "onboard_time": 1732659311,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14799,
+      "num": 46327,
+      "word": "朱正廷拍的日出",
+      "onboard_time": 1732729032,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 14636,

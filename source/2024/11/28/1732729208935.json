@@ -1,0 +1,410 @@
+{
+  "runTime": 1732729208935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 217062,
+        "num": 379886,
+        "word": "华莱士汉堡被曝吃出异物事件",
+        "onboard_time": 1732716439,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185675,
+        "num": 185675,
+        "word": "央妈镜头的祝绪丹",
+        "onboard_time": 1732714519,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25282,
+        "num": 142949,
+        "word": "山河如愿英雄回家",
+        "onboard_time": 1732713798,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257662,
+        "num": 141626,
+        "word": "家属称女儿遭前男友囚禁泼开水",
+        "onboard_time": 1732724357,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124237,
+        "num": 124237,
+        "word": "美国医生血泪控诉加沙惨状",
+        "onboard_time": 1732722198,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113726,
+        "num": 113726,
+        "word": "碎片化睡眠危害等同于熬夜",
+        "onboard_time": 1732708279,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94124,
+        "num": 94124,
+        "word": "洪承汉初雪正面照",
+        "onboard_time": 1732722976,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93608,
+        "num": 93608,
+        "word": "4万吨工业盐酸被偷偷排放",
+        "onboard_time": 1732718840,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 86472,
+        "num": 86472,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82548,
+        "num": 82548,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83114,
+        "num": 80837,
+        "word": "为什么不建议买太便宜的洗衣液",
+        "onboard_time": 1732720159,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 78808,
+        "num": 78808,
+        "word": "XLB怒喷Doinb",
+        "onboard_time": 1732714999,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62251,
+        "num": 62251,
+        "word": "后陡门的夏天结束了",
+        "onboard_time": 1732710378,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60139,
+        "num": 60139,
+        "word": "愿你勇敢追梦祝你光芒万丈",
+        "onboard_time": 1732719738,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 44848,
+        "num": 55071,
+        "word": "上汽大通要求供应商降本",
+        "onboard_time": 1732727414,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 54505,
+        "num": 54505,
+        "word": "蒋敦豪直播完就走了",
+        "onboard_time": 1732705159,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53596,
+        "num": 53596,
+        "word": "有效降低全社会物流成本行动方案",
+        "onboard_time": 1732727593,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48876,
+        "num": 48876,
+        "word": "虞书欣商业价值",
+        "onboard_time": 1732724537,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48194,
+        "num": 48194,
+        "word": "御赐小仵作2杀青",
+        "onboard_time": 1732719140,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46867,
+        "num": 46867,
+        "word": "章昊雪地cha",
+        "onboard_time": 1732722019,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154011,
+        "num": 46784,
+        "word": "英国一母亲把女儿藏抽屉养到3岁",
+        "onboard_time": 1732709178,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106915,
+        "num": 46631,
+        "word": "李行亮说家里卫生请保洁",
+        "onboard_time": 1732705579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79950,
+        "num": 46577,
+        "word": "上海果然是没有人穿羽绒服的",
+        "onboard_time": 1732717880,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50366,
+        "num": 46367,
+        "word": "花3万块在新疆买的小院",
+        "onboard_time": 1732709239,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 14799,
+        "num": 46327,
+        "word": "朱正廷拍的日出",
+        "onboard_time": 1732729032,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49965,
+        "num": 46129,
+        "word": "十个勤天以后呢",
+        "onboard_time": 1732709298,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46092,
+        "num": 46092,
+        "word": "papi 互联网自由式辩论赛场",
+        "onboard_time": 1732725195,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43573,
+        "num": 43573,
+        "word": "Puff和Langx激情互喷",
+        "onboard_time": 1732716200,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42691,
+        "num": 42691,
+        "word": "K80大满贯首发评测",
+        "onboard_time": 1732722078,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41800,
+        "num": 41800,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41756,
+        "num": 41756,
+        "word": "丁禹兮高马尾vs白散发",
+        "onboard_time": 1732719439,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39726,
+        "num": 39726,
+        "word": "樊振东现身K80发布会",
+        "onboard_time": 1732708578,
+        "rank": 31,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 36272,
+        "num": 36272,
+        "word": "严浩翔比猫耳小卡",
+        "onboard_time": 1732720700,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22734,
+        "num": 36233,
+        "word": "朱志鑫seek四宫格",
+        "onboard_time": 1732727834,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 36205,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35940,
+        "num": 35940,
+        "word": "卧室巨星",
+        "onboard_time": 1732722437,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35718,
+        "num": 35718,
+        "word": "孙颖莎为邱贻可庆生",
+        "onboard_time": 1732709539,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35532,
+        "num": 35532,
+        "word": "男子为引女儿注意从5楼怒扔砖头",
+        "onboard_time": 1732712899,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35146,
+        "num": 35146,
+        "word": "市监局排查临潼区全区华莱士门店",
+        "onboard_time": 1732723156,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33229,
+        "num": 33229,
+        "word": "山神杀青",
+        "onboard_time": 1732728913,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33055,
+        "num": 33055,
+        "word": "imp泪洒直播间",
+        "onboard_time": 1732718899,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32983,
+        "num": 32983,
+        "word": "ENHYPEN惊喜制服练习室",
+        "onboard_time": 1732726336,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32767,
+        "num": 32767,
+        "word": "王一博清华大学海报",
+        "onboard_time": 1732698978,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31771,
+        "num": 31771,
+        "word": "这种危险插排千万别再用了",
+        "onboard_time": 1732707378,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 30822,
+        "num": 30822,
+        "word": "王源孤星计划开启预售",
+        "onboard_time": 1732728733,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30578,
+        "num": 30578,
+        "word": "芒果凑齐了三大群像",
+        "onboard_time": 1732707438,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30511,
+        "num": 30511,
+        "word": "鹿晗直拍",
+        "onboard_time": 1732716380,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29654,
+        "num": 29654,
+        "word": "浪姐6",
+        "onboard_time": 1732698138,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29509,
+        "num": 29509,
+        "word": "双轨开通官微",
+        "onboard_time": 1732715719,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28627,
+        "num": 28627,
+        "word": "圣诞氛围",
+        "onboard_time": 1732728973,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}
