@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732729208935,
+  "endTime": 1732732342800,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -14003,6 +14003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28892,
+      "num": 28892,
+      "word": "澳众院通过16岁以下人群禁用社媒法案",
+      "onboard_time": 1732724297,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28850,
       "num": 144181,
       "word": "荣耀赵明评价华为Mate70发布",
@@ -14283,6 +14291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25471,
+      "num": 25471,
+      "word": "陆柯燃也cha上初雪了",
+      "onboard_time": 1732731014,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 25430,
       "num": 58732,
       "word": "魏大勋 史野演出全纪录",
@@ -14539,6 +14555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22599,
+      "num": 22599,
+      "word": "滥俗的歌",
+      "onboard_time": 1732731732,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22579,
       "num": 23853,
       "word": "今日星拍放送",
@@ -14713,6 +14737,14 @@
       "onboard_time": 1732631720,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19087,
+      "num": 19087,
+      "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
+      "onboard_time": 1732730593,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 19077,
@@ -15091,6 +15123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 12512,
+      "num": 27453,
+      "word": "檀健次ELLE开年刊预告",
+      "onboard_time": 1732726395,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 12503,
       "num": 17333,
       "word": "王楚钦找回内心充斥自信的自己",
@@ -15369,6 +15409,14 @@
       "onboard_time": 1732446021,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7433,
+      "num": 25804,
+      "word": "慵懒风 朱珠毫不费力",
+      "onboard_time": 1732732272,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 7016,
