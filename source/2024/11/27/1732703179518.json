@@ -1,0 +1,410 @@
+{
+  "runTime": 1732703179518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2018813,
+        "num": 2018813,
+        "word": "妻子坠海身亡后不久他在酒店招嫖",
+        "onboard_time": 1732696638,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034065,
+        "num": 1034065,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58525,
+        "num": 955678,
+        "word": "供应链的发展如何改变我们的生活",
+        "onboard_time": 1732695618,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 933641,
+        "num": 933641,
+        "word": "月经碟",
+        "onboard_time": 1732700178,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 863068,
+        "num": 863068,
+        "word": "浪姐6",
+        "onboard_time": 1732698138,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740446,
+        "num": 740446,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612380,
+        "num": 612380,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 592976,
+        "num": 592976,
+        "word": "阿米尔汗买下因果报应版权",
+        "onboard_time": 1732699639,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413299,
+        "num": 413299,
+        "word": "受害女童家长称不服老师只判5年",
+        "onboard_time": 1732698260,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109041,
+        "num": 412725,
+        "word": "地沟油变废为宝后遭全球疯抢",
+        "onboard_time": 1732700718,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519666,
+        "num": 409510,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 509230,
+        "num": 408208,
+        "word": "王一博清华大学海报",
+        "onboard_time": 1732698978,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432933,
+        "num": 406145,
+        "word": "李行亮让留几手别忽视父亲的作用",
+        "onboard_time": 1732695019,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405539,
+        "num": 405539,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137540,
+        "num": 397331,
+        "word": "这便是蜡字偏旁为虫的缘由吧",
+        "onboard_time": 1732701798,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 393767,
+        "num": 393767,
+        "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
+        "onboard_time": 1732699158,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365173,
+        "num": 365173,
+        "word": "羽绒服涨价与猪有关",
+        "onboard_time": 1732696399,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346058,
+        "num": 346058,
+        "word": "医院两万多个预约号去哪了",
+        "onboard_time": 1732694959,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 298906,
+        "num": 298906,
+        "word": "谁在冬天减肥",
+        "onboard_time": 1732694418,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 70952,
+        "num": 290068,
+        "word": "男子交2万8相亲提前退费要扣1万8",
+        "onboard_time": 1732701918,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284680,
+        "num": 284680,
+        "word": "男子为骗保把妻子推下轮船坠海身亡",
+        "onboard_time": 1732691238,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253900,
+        "num": 253900,
+        "word": "五点五个勤天",
+        "onboard_time": 1732696699,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252767,
+        "num": 252767,
+        "word": "熟人作案男二",
+        "onboard_time": 1732698858,
+        "rank": 22,
+        "category": "剧集,剧集"
+      },
+      {
+        "raw_hot": 103168,
+        "num": 223840,
+        "word": "小咘芽让张杰把喉结吞下去",
+        "onboard_time": 1732702458,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218172,
+        "num": 218172,
+        "word": "极氪副总裁朱凌怒怼懂车帝主播胡说",
+        "onboard_time": 1732697539,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217909,
+        "num": 217909,
+        "word": "老师用三角尺砸伤女童获刑5年",
+        "onboard_time": 1732690519,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209483,
+        "num": 209483,
+        "word": "ON回应世界赛Q空",
+        "onboard_time": 1732701619,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202342,
+        "num": 202342,
+        "word": "戚薇 已经过了会害羞的年纪",
+        "onboard_time": 1732700539,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105578,
+        "num": 194043,
+        "word": "南京居民楼火灾事故10人被采取刑事强制措施",
+        "onboard_time": 1732700478,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 36390,
+        "num": 191156,
+        "word": "古偶剧头号狗皮膏药终于被拆了",
+        "onboard_time": 1732702038,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90199,
+        "num": 190877,
+        "word": "林一雪中撑伞2.0",
+        "onboard_time": 1732702399,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190641,
+        "num": 190641,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170671,
+        "num": 170671,
+        "word": "芙学",
+        "onboard_time": 1732694058,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170490,
+        "num": 170490,
+        "word": "立白集团回应经理招聘女生做情人",
+        "onboard_time": 1732687578,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 166418,
+        "num": 166418,
+        "word": "顾客意外入镜店家直播间索赔获支持",
+        "onboard_time": 1732701440,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142961,
+        "num": 142961,
+        "word": "杨千嬅因为声生不息决定开巡演",
+        "onboard_time": 1732698260,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138948,
+        "num": 138948,
+        "word": "偶遇肖战逛街",
+        "onboard_time": 1732688119,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137084,
+        "num": 137084,
+        "word": "羽绒服",
+        "onboard_time": 1732673057,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132027,
+        "num": 132027,
+        "word": "名校生与离异女服务员结婚推其坠海骗保",
+        "onboard_time": 1732702878,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127904,
+        "num": 127904,
+        "word": "推妻入海骗保男子有19岁在校情人",
+        "onboard_time": 1732702758,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123352,
+        "num": 123352,
+        "word": "河南一杂技演员表演时绳子断裂坠落",
+        "onboard_time": 1732691599,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120432,
+        "num": 120432,
+        "word": "Faker看Knight出装就觉得赢了",
+        "onboard_time": 1732693698,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118534,
+        "num": 118534,
+        "word": "十个勤天直播选房",
+        "onboard_time": 1732700778,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111910,
+        "num": 111910,
+        "word": "成本2毛的卫生巾凭什么卖这么贵",
+        "onboard_time": 1732701918,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109865,
+        "num": 109865,
+        "word": "5个放松行为其实很损耗气血",
+        "onboard_time": 1732688419,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108843,
+        "num": 108843,
+        "word": "李耕耘 进组",
+        "onboard_time": 1732687938,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107041,
+        "num": 107041,
+        "word": "985本硕的建筑设计师们月薪三千",
+        "onboard_time": 1732694178,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104281,
+        "num": 104281,
+        "word": "kid还在保Rookie",
+        "onboard_time": 1732702999,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103749,
+        "num": 103749,
+        "word": "马龙随手掏pin送粉丝",
+        "onboard_time": 1732696098,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101657,
+        "num": 101657,
+        "word": "陈少熙 种地吧3",
+        "onboard_time": 1732695078,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国树立了合作互利共赢的生动样板#"
+    }
+  }
+}

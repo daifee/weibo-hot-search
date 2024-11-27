@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732700463681,
+  "endTime": 1732703179518,
   "band_list": [
     {
       "raw_hot": 2483621,
@@ -17,6 +17,14 @@
       "onboard_time": 1732686618,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2018813,
+      "num": 2018813,
+      "word": "妻子坠海身亡后不久他在酒店招嫖",
+      "onboard_time": 1732696638,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2010983,
@@ -49,14 +57,6 @@
       "onboard_time": 1732671918,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1677301,
-      "num": 1677301,
-      "word": "妻子坠海身亡后不久他在酒店招嫖",
-      "onboard_time": 1732696638,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1667237,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 933641,
+      "num": 933641,
+      "word": "月经碟",
+      "onboard_time": 1732700178,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 910251,
       "num": 274392,
       "word": "区域经理招聘女生做情人月薪13000",
@@ -145,6 +153,14 @@
       "onboard_time": 1732671196,
       "rank": 11,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 863068,
+      "num": 863068,
+      "word": "浪姐6",
+      "onboard_time": 1732698138,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 837285,
@@ -201,14 +217,6 @@
       "onboard_time": 1732678638,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 742540,
-      "num": 742540,
-      "word": "浪姐6",
-      "onboard_time": 1732698138,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 727665,
@@ -275,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 612380,
+      "num": 612380,
+      "word": "迪丽热巴 ELLE",
+      "onboard_time": 1732700899,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 606416,
       "num": 519937,
       "word": "偶遇肖战逛街",
@@ -289,6 +305,14 @@
       "onboard_time": 1732688958,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 592976,
+      "num": 592976,
+      "word": "阿米尔汗买下因果报应版权",
+      "onboard_time": 1732699639,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 574332,
@@ -355,6 +379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 509230,
+      "num": 408208,
+      "word": "王一博清华大学海报",
+      "onboard_time": 1732698978,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503427,
       "num": 381281,
       "word": "恩利称其父母离婚是件不错的事",
@@ -411,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413299,
+      "num": 413299,
+      "word": "受害女童家长称不服老师只判5年",
+      "onboard_time": 1732698260,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403818,
       "num": 403818,
       "word": "大冰停播43天后复播",
@@ -435,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 393767,
+      "num": 393767,
+      "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
+      "onboard_time": 1732699158,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387253,
       "num": 287491,
       "word": "身份证18位数字分别代表什么",
@@ -457,14 +505,6 @@
       "onboard_time": 1732675998,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377526,
-      "num": 377526,
-      "word": "王一博清华大学海报",
-      "onboard_time": 1732698978,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 376400,
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 358446,
-      "num": 201063,
+      "num": 253900,
       "word": "五点五个勤天",
       "onboard_time": 1732696699,
       "rank": 29,
@@ -603,8 +643,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 296265,
-      "num": 296265,
+      "raw_hot": 298906,
+      "num": 298906,
       "word": "谁在冬天减肥",
       "onboard_time": 1732694418,
       "rank": 33,
@@ -681,6 +721,14 @@
       "onboard_time": 1732675398,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252767,
+      "num": 252767,
+      "word": "熟人作案男二",
+      "onboard_time": 1732698858,
+      "rank": 21,
+      "category": "剧集,剧集"
     },
     {
       "raw_hot": 252488,
@@ -827,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218172,
+      "num": 218172,
+      "word": "极氪副总裁朱凌怒怼懂车帝主播胡说",
+      "onboard_time": 1732697539,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217793,
       "num": 217793,
       "word": "武汉市教育局辟谣试点取消寒暑假",
@@ -875,20 +931,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211410,
-      "num": 169837,
-      "word": "阿米尔汗买下因果报应版权",
-      "onboard_time": 1732699639,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210897,
       "num": 210897,
       "word": "礼兵雪中演练迎志愿军烈士回家",
       "onboard_time": 1732666939,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 209483,
+      "num": 209483,
+      "word": "ON回应世界赛Q空",
+      "onboard_time": 1732701619,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 208781,
@@ -913,6 +969,14 @@
       "onboard_time": 1732625719,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202342,
+      "num": 202342,
+      "word": "戚薇 已经过了会害羞的年纪",
+      "onboard_time": 1732700539,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 201459,
@@ -945,14 +1009,6 @@
       "onboard_time": 1732691957,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 200649,
-      "num": 182935,
-      "word": "熟人作案男二",
-      "onboard_time": 1732698858,
-      "rank": 21,
-      "category": "剧集,剧集"
     },
     {
       "raw_hot": 198428,
@@ -1259,12 +1315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168090,
-      "num": 168090,
-      "word": "极氪副总裁朱凌怒怼懂车帝主播胡说",
-      "onboard_time": 1732697539,
-      "rank": 49,
-      "category": "汽车"
+      "raw_hot": 166418,
+      "num": 166418,
+      "word": "顾客意外入镜店家直播间索赔获支持",
+      "onboard_time": 1732701440,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166368,
@@ -1347,28 +1403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156953,
-      "num": 156953,
-      "word": "受害女童家长称不服老师只判5年",
-      "onboard_time": 1732698260,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156757,
       "num": 217958,
       "word": "王霏霏JYP姚琛孟佳合照",
       "onboard_time": 1732673599,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156253,
-      "num": 156253,
-      "word": "月经碟",
-      "onboard_time": 1732700178,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153700,
@@ -1571,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137540,
+      "num": 397331,
+      "word": "这便是蜡字偏旁为虫的缘由吧",
+      "onboard_time": 1732701798,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 136465,
       "num": 136465,
       "word": "我学会自己哄自己了",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1732684999,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132027,
+      "num": 132027,
+      "word": "名校生与离异女服务员结婚推其坠海骗保",
+      "onboard_time": 1732702878,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131517,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1732668319,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127904,
+      "num": 127904,
+      "word": "推妻入海骗保男子有19岁在校情人",
+      "onboard_time": 1732702758,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127773,
@@ -1739,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118534,
+      "num": 118534,
+      "word": "十个勤天直播选房",
+      "onboard_time": 1732700778,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116592,
       "num": 258032,
       "word": "爱笑爆料iG教练",
@@ -1787,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111910,
+      "num": 111910,
+      "word": "成本2毛的卫生巾凭什么卖这么贵",
+      "onboard_time": 1732701918,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111595,
       "num": 111595,
       "word": "鹿晗永恒的纪念",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1732670477,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 109041,
+      "num": 412725,
+      "word": "地沟油变废为宝后遭全球疯抢",
+      "onboard_time": 1732700718,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107087,
@@ -1835,6 +1923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 105578,
+      "num": 194043,
+      "word": "南京居民楼火灾事故10人被采取刑事强制措施",
+      "onboard_time": 1732700478,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 104419,
       "num": 104419,
       "word": "丁禹兮壁纸",
@@ -1849,6 +1945,22 @@
       "onboard_time": 1732693038,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104281,
+      "num": 104281,
+      "word": "kid还在保Rookie",
+      "onboard_time": 1732702999,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 103168,
+      "num": 223840,
+      "word": "小咘芽让张杰把喉结吞下去",
+      "onboard_time": 1732702458,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 100867,
@@ -1923,14 +2035,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91403,
-      "num": 185009,
-      "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
-      "onboard_time": 1732699158,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90991,
       "num": 90991,
       "word": "前10月全国国有企业营收同比增长0.9%",
@@ -1952,6 +2056,14 @@
       "word": "朱志鑫拍2024的初雪",
       "onboard_time": 1732636697,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90199,
+      "num": 190877,
+      "word": "林一雪中撑伞2.0",
+      "onboard_time": 1732702399,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2161,6 +2273,14 @@
       "onboard_time": 1732624399,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70952,
+      "num": 290068,
+      "word": "男子交2万8相亲提前退费要扣1万8",
+      "onboard_time": 1732701918,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69908,
@@ -2521,6 +2641,14 @@
       "onboard_time": 1732640175,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36390,
+      "num": 191156,
+      "word": "古偶剧头号狗皮膏药终于被拆了",
+      "onboard_time": 1732702038,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 34764,
