@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 13:23:28
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 13:41:25
 </p>
 </blockquote>
 <p>
@@ -1127,6 +1127,12 @@ BIGBANG合体（热度：2423890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%9B%A0%E7%99%BD%E4%BA%8B%E5%87%8C%E6%99%A8%E8%B7%AA%E6%B1%82%E5%AE%BF%E7%AE%A1%E5%BC%80%E9%97%A8%23" target="weibo">
 多方回应女生因白事凌晨跪求宿管开门（热度：1843951）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD%23" target="weibo">
+种地吧直播（热度：1836219）
 </a>
 </li>
 
@@ -3557,12 +3563,6 @@ Angelababy大秀状态（热度：1182160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%20%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
 向佐郭碧婷 再见爱人（热度：1094882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%9B%B4%E6%92%AD%23" target="weibo">
-种地吧直播（热度：1094774）
 </a>
 </li>
 

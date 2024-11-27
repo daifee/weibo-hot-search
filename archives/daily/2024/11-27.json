@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732685008507,
+  "endTime": 1732686085208,
   "band_list": [
     {
       "raw_hot": 2010983,
@@ -9,6 +9,14 @@
       "onboard_time": 1732678638,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1836219,
+      "num": 1836219,
+      "word": "种地吧直播",
+      "onboard_time": 1732683020,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1733936,
@@ -41,14 +49,6 @@
       "onboard_time": 1732674919,
       "rank": 11,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1094774,
-      "num": 1094774,
-      "word": "种地吧直播",
-      "onboard_time": 1732683020,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1078119,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727665,
+      "num": 351274,
+      "word": "花了1万八的俄罗斯旅游",
+      "onboard_time": 1732683020,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 706073,
       "num": 706073,
       "word": "羽绒服一天一个价",
@@ -145,6 +153,14 @@
       "onboard_time": 1732632501,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663129,
+      "num": 349714,
+      "word": "大冰被狗拖走",
+      "onboard_time": 1732684879,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 643851,
@@ -291,12 +307,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 347905,
-      "num": 347905,
-      "word": "花了1万八的俄罗斯旅游",
-      "onboard_time": 1732683020,
-      "rank": 21,
-      "category": "旅游"
+      "raw_hot": 353677,
+      "num": 446254,
+      "word": "野猪伤人致死事件4人狩猎前未报备",
+      "onboard_time": 1732684519,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344735,
+      "num": 344735,
+      "word": "恩利称其父母离婚是件不错的事",
+      "onboard_time": 1732684698,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 332556,
@@ -321,6 +345,14 @@
       "onboard_time": 1732635377,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309666,
+      "num": 309666,
+      "word": "刘亦菲买手店扫货",
+      "onboard_time": 1732684879,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 309606,
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266577,
+      "num": 222833,
+      "word": "马龙杨倩抵达台湾",
+      "onboard_time": 1732685120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261610,
       "num": 261610,
       "word": "46人因黑龙江一煤矿重大事故被处理",
@@ -417,6 +457,14 @@
       "onboard_time": 1732663876,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 249598,
+      "num": 249598,
+      "word": "白鹿穿睡衣上班",
+      "onboard_time": 1732685298,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244407,
@@ -505,6 +553,14 @@
       "onboard_time": 1732621878,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221317,
+      "num": 221317,
+      "word": "你好种地少年",
+      "onboard_time": 1732685841,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 218815,
@@ -707,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183485,
-      "num": 197192,
-      "word": "恩利称其父母离婚是件不错的事",
-      "onboard_time": 1732684698,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183107,
       "num": 265285,
       "word": "杨超越首张EP透明",
@@ -745,14 +793,6 @@
       "onboard_time": 1732684337,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 180785,
-      "num": 180785,
-      "word": "大冰被狗拖走",
-      "onboard_time": 1732684879,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 180293,
@@ -795,6 +835,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 172337,
+      "num": 172337,
+      "word": "区域经理招聘女生做情人月薪13000",
+      "onboard_time": 1732685779,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171548,
       "num": 195846,
       "word": "一下雪沈阳故宫就美成了壁纸",
@@ -819,14 +867,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 164335,
-      "num": 446254,
-      "word": "野猪伤人致死事件4人狩猎前未报备",
-      "onboard_time": 1732684519,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164301,
       "num": 164301,
       "word": "迪丽热巴陈飞宇慕胥辞疗伤路透",
@@ -849,6 +889,14 @@
       "onboard_time": 1732682841,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160162,
+      "num": 424787,
+      "word": "北京突然飘雪属于大力出奇迹",
+      "onboard_time": 1732683320,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160123,
@@ -1011,12 +1059,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134152,
-      "num": 424787,
-      "word": "北京突然飘雪属于大力出奇迹",
-      "onboard_time": 1732683320,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 131517,
+      "num": 131517,
+      "word": "罗振宇喊话余承东",
+      "onboard_time": 1732685359,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 129006,
@@ -1083,6 +1131,14 @@
       "category": "财经,动漫"
     },
     {
+      "raw_hot": 125343,
+      "num": 297956,
+      "word": "张颂文新剧活埋戏",
+      "onboard_time": 1732684938,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125336,
       "num": 125336,
       "word": "电影多想和你再见一面定档",
@@ -1131,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113599,
+      "num": 443114,
+      "word": "华为MateX6现场测速",
+      "onboard_time": 1732684698,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112839,
       "num": 285386,
       "word": "镇政府回应一村不缴医保不发福利",
@@ -1169,14 +1233,6 @@
       "onboard_time": 1732635138,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107001,
-      "num": 443114,
-      "word": "华为MateX6现场测速",
-      "onboard_time": 1732684698,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 106634,
@@ -1523,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60443,
+      "num": 353604,
+      "word": "感受鹤岗特大暴雪现场",
+      "onboard_time": 1732685538,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59404,
       "num": 980551,
       "word": "川渝火锅在链博会有一个专门展览",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1732684279,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52246,
+      "num": 421099,
+      "word": "是否抗冻取决于肌肉量",
+      "onboard_time": 1732684040,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50618,
@@ -1659,15 +1731,7 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 44029,
-      "num": 192810,
-      "word": "陈伟霆飞车戏是实拍",
-      "onboard_time": 1732679539,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 43039,
+      "raw_hot": 44771,
       "num": 257562,
       "word": "李宇春声生不息好歌献给你",
       "onboard_time": 1732684759,
@@ -1675,11 +1739,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41292,
-      "num": 271698,
-      "word": "张颂文新剧活埋戏",
-      "onboard_time": 1732684938,
-      "rank": 26,
+      "raw_hot": 44029,
+      "num": 192810,
+      "word": "陈伟霆飞车戏是实拍",
+      "onboard_time": 1732679539,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1689,14 +1753,6 @@
       "onboard_time": 1732641073,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40687,
-      "num": 421099,
-      "word": "是否抗冻取决于肌肉量",
-      "onboard_time": 1732684040,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38606,
@@ -1739,6 +1795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 31149,
+      "num": 366942,
+      "word": "男子听信广告刷流量赚钱被骗15万",
+      "onboard_time": 1732684099,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30113,
       "num": 125915,
       "word": "爱笑爆料BLG教练不变",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1732648451,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29524,
-      "num": 366942,
-      "word": "男子听信广告刷流量赚钱被骗15万",
-      "onboard_time": 1732684099,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28687,
