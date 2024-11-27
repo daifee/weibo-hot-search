@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732715053473,
+  "endTime": 1732717355341,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -184,6 +184,14 @@
       "word": "野猪撕咬老人3条大狗不敢上前",
       "onboard_time": 1732537880,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1678554,
+      "num": 1028918,
+      "word": "骗保男子在妻子死后做瘫痪无力状",
+      "onboard_time": 1732714999,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -449,6 +457,14 @@
       "onboard_time": 1732627519,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1308573,
+      "num": 1308573,
+      "word": "央妈镜头的祝绪丹",
+      "onboard_time": 1732714519,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1308099,
@@ -2459,6 +2475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 443058,
+      "num": 443058,
+      "word": "凭什么被抄袭的人反而要自证",
+      "onboard_time": 1732712179,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 442766,
       "num": 442766,
       "word": "羽绒服涨价与猪有关",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1732632080,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 422261,
-      "num": 422261,
-      "word": "凭什么被抄袭的人反而要自证",
-      "onboard_time": 1732712179,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 421824,
@@ -2924,7 +2940,7 @@
     },
     {
       "raw_hot": 371781,
-      "num": 318945,
+      "num": 365683,
       "word": "这种危险插排千万别再用了",
       "onboard_time": 1732707378,
       "rank": 28,
@@ -3145,14 +3161,6 @@
       "onboard_time": 1732463778,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350809,
-      "num": 312551,
-      "word": "央妈镜头的祝绪丹",
-      "onboard_time": 1732714519,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350332,
@@ -3425,6 +3433,14 @@
       "onboard_time": 1732495580,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315642,
+      "num": 315642,
+      "word": "初雪cha一下",
+      "onboard_time": 1732714999,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315030,
@@ -3713,6 +3729,14 @@
       "onboard_time": 1732710499,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291382,
+      "num": 291382,
+      "word": "后陡门的夏天结束了",
+      "onboard_time": 1732710378,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 291195,
@@ -4235,14 +4259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252402,
-      "num": 252402,
-      "word": "后陡门的夏天结束了",
-      "onboard_time": 1732710378,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251700,
       "num": 251700,
       "word": "库克称没中国就没现在的苹果",
@@ -4296,6 +4312,14 @@
       "word": "今屿道歉",
       "onboard_time": 1732535299,
       "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 248117,
+      "num": 248117,
+      "word": "XLB怒喷Doinb",
+      "onboard_time": 1732714999,
+      "rank": 28,
       "category": "电竞"
     },
     {
@@ -5291,6 +5315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206533,
+      "num": 206533,
+      "word": "陈丽君李云霄将参演我的大观园",
+      "onboard_time": 1732716919,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206436,
       "num": 206436,
       "word": "白鹿王星越唐宫开机",
@@ -5313,6 +5345,14 @@
       "onboard_time": 1732587858,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205846,
+      "num": 245735,
+      "word": "樊振东用手机打乒乓球",
+      "onboard_time": 1732716620,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205810,
@@ -5843,6 +5883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194841,
+      "num": 231243,
+      "word": "男子为引女儿注意从5楼怒扔砖头",
+      "onboard_time": 1732712899,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194655,
       "num": 367722,
       "word": "骗子用刮刮卡营造期待感",
@@ -5937,6 +5985,14 @@
       "onboard_time": 1732689558,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 192963,
+      "num": 192963,
+      "word": "XLB直播道歉",
+      "onboard_time": 1732716439,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 192899,
@@ -6705,6 +6761,14 @@
       "onboard_time": 1732633639,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175054,
+      "num": 175054,
+      "word": "双轨开通官微",
+      "onboard_time": 1732715719,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175033,
@@ -7651,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153798,
+      "num": 153798,
+      "word": "Puff和Langx激情互喷",
+      "onboard_time": 1732716200,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153700,
       "num": 317623,
       "word": "十个勤天宣传王一珩我家那小子",
@@ -8299,6 +8371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138551,
+      "num": 306997,
+      "word": "2024年总票房突破400亿",
+      "onboard_time": 1732714639,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138496,
       "num": 138496,
       "word": "山东泰山1比0柔佛新山",
@@ -8401,14 +8481,6 @@
       "onboard_time": 1732602619,
       "rank": 48,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 136491,
-      "num": 306997,
-      "word": "2024年总票房突破400亿",
-      "onboard_time": 1732714639,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 136465,
@@ -8705,6 +8777,14 @@
       "onboard_time": 1732696339,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129147,
+      "num": 302012,
+      "word": "哈尔滨学生午餐遭抽条",
+      "onboard_time": 1732714878,
+      "rank": 15,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 129006,
@@ -9219,6 +9299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121279,
+      "num": 251340,
+      "word": "严浩翔生日周边",
+      "onboard_time": 1732716620,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121101,
       "num": 121101,
       "word": "王楚钦说张本状态在顶点",
@@ -9561,14 +9649,6 @@
       "onboard_time": 1732579877,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116002,
-      "num": 218964,
-      "word": "初雪cha一下",
-      "onboard_time": 1732714999,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 115910,
@@ -9961,6 +10041,14 @@
       "onboard_time": 1732624879,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109521,
+      "num": 109521,
+      "word": "后悔宝",
+      "onboard_time": 1732714459,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 109501,
@@ -10627,6 +10715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92280,
+      "num": 264909,
+      "word": "单亲妈妈帮男友借多笔网贷后遭拉黑",
+      "onboard_time": 1732716620,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91704,
       "num": 312922,
       "word": "祝绪丹对自己的唱功一无所知",
@@ -10641,14 +10737,6 @@
       "onboard_time": 1732672997,
       "rank": 48,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 90886,
-      "num": 220059,
-      "word": "XLB怒喷Doinb",
-      "onboard_time": 1732714999,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 90844,
@@ -10779,14 +10867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87815,
-      "num": 231243,
-      "word": "男子为引女儿注意从5楼怒扔砖头",
-      "onboard_time": 1732712899,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87528,
       "num": 77796,
       "word": "郑钦文临时换帅",
@@ -10905,6 +10985,14 @@
       "onboard_time": 1732413197,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84705,
+      "num": 295726,
+      "word": "口罩姐108万拍下一诺定制款ID3",
+      "onboard_time": 1732713139,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 84566,
@@ -11323,6 +11411,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 73128,
+      "num": 251097,
+      "word": "华莱士汉堡被曝吃出异物事件",
+      "onboard_time": 1732716439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73086,
       "num": 221501,
       "word": "新一澄清与Doinb决裂",
@@ -11371,12 +11467,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 70501,
-      "num": 295726,
-      "word": "口罩姐108万拍下一诺定制款ID3",
-      "onboard_time": 1732713139,
-      "rank": 19,
-      "category": "电竞"
+      "raw_hot": 70637,
+      "num": 113930,
+      "word": "王者福利签送史诗皮肤",
+      "onboard_time": 1732715360,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 69908,
@@ -11648,14 +11744,6 @@
       "word": "家长称被老师砸伤的女孩后遗症明显",
       "onboard_time": 1732713320,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62366,
-      "num": 222883,
-      "word": "骗保男子在妻子死后做瘫痪无力状",
-      "onboard_time": 1732714999,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -12203,6 +12291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 49897,
+      "num": 251775,
+      "word": "彭楚粤新剧一百种花式死法",
+      "onboard_time": 1732716500,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49825,
       "num": 194793,
       "word": "88岁奶奶回应25年理发只收2元",
@@ -12699,6 +12795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42722,
+      "num": 256797,
+      "word": "樊振东操控AI发微博",
+      "onboard_time": 1732714639,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42638,
       "num": 67556,
       "word": "陶喆 我的花店生意太过火爆",
@@ -13179,6 +13283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34225,
+      "num": 652774,
+      "word": "这是一个值得逐帧观看的MV",
+      "onboard_time": 1732713980,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34196,
       "num": 92473,
       "word": "OBGG显示Crisp加入TES",
@@ -13217,14 +13329,6 @@
       "onboard_time": 1732619478,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 33538,
-      "num": 192720,
-      "word": "樊振东操控AI发微博",
-      "onboard_time": 1732714639,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 33036,
@@ -13827,14 +13931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25208,
-      "num": 606844,
-      "word": "这是一个值得逐帧观看的MV",
-      "onboard_time": 1732713980,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25031,
       "num": 782480,
       "word": "第二届链博会亮点抢先看",
@@ -14043,14 +14139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23175,
-      "num": 302012,
-      "word": "哈尔滨学生午餐遭抽条",
-      "onboard_time": 1732714878,
-      "rank": 15,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 23090,
       "num": 565428,
       "word": "成都混合团体世界杯倒计时5天",
@@ -14089,6 +14177,14 @@
       "onboard_time": 1732473132,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22365,
+      "num": 348811,
+      "word": "麦琪啦带货进口产品商标注册在国内",
+      "onboard_time": 1732716139,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22300,

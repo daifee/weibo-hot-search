@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732715053473,
+  "endTime": 1732717355341,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1931,6 +1931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1678554,
+      "num": 1028918,
+      "word": "骗保男子在妻子死后做瘫痪无力状",
+      "onboard_time": 1732714999,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1676780,
       "num": 1676780,
       "word": "六公主发了赵丽颖大特写",
@@ -3641,6 +3649,14 @@
       "onboard_time": 1731728957,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1308573,
+      "num": 1308573,
+      "word": "央妈镜头的祝绪丹",
+      "onboard_time": 1732714519,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1308099,
@@ -18043,6 +18059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 443058,
+      "num": 443058,
+      "word": "凭什么被抄袭的人反而要自证",
+      "onboard_time": 1732712179,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 442934,
       "num": 442934,
       "word": "陈哲远大学同学聚会照",
@@ -18785,14 +18809,6 @@
       "onboard_time": 1731055100,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 422261,
-      "num": 422261,
-      "word": "凭什么被抄袭的人反而要自证",
-      "onboard_time": 1732712179,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 421859,
@@ -21356,7 +21372,7 @@
     },
     {
       "raw_hot": 371781,
-      "num": 318945,
+      "num": 365683,
       "word": "这种危险插排千万别再用了",
       "onboard_time": 1732707378,
       "rank": 28,
@@ -22425,14 +22441,6 @@
       "onboard_time": 1732463778,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350809,
-      "num": 312551,
-      "word": "央妈镜头的祝绪丹",
-      "onboard_time": 1732714519,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 350599,
@@ -24331,6 +24339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315642,
+      "num": 315642,
+      "word": "初雪cha一下",
+      "onboard_time": 1732714999,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315395,
       "num": 315395,
       "word": "爱奇艺开了虞书欣专栏",
@@ -26025,6 +26041,14 @@
       "onboard_time": 1730539277,
       "rank": 24,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 291382,
+      "num": 291382,
+      "word": "后陡门的夏天结束了",
+      "onboard_time": 1732710378,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 291216,
@@ -29547,14 +29571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252402,
-      "num": 252402,
-      "word": "后陡门的夏天结束了",
-      "onboard_time": 1732710378,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252367,
       "num": 252367,
       "word": "普京签署俄朝全面战略伙伴关系条约",
@@ -30041,6 +30057,14 @@
       "onboard_time": 1731747739,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248117,
+      "num": 248117,
+      "word": "XLB怒喷Doinb",
+      "onboard_time": 1732714999,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 248046,
@@ -35947,6 +35971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206533,
+      "num": 206533,
+      "word": "陈丽君李云霄将参演我的大观园",
+      "onboard_time": 1732716919,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206461,
       "num": 207994,
       "word": "夜市偶遇周子瑜叶舒华",
@@ -36129,6 +36161,14 @@
       "onboard_time": 1730960418,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205846,
+      "num": 245735,
+      "word": "樊振东用手机打乒乓球",
+      "onboard_time": 1732716620,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205834,
@@ -39427,6 +39467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194841,
+      "num": 231243,
+      "word": "男子为引女儿注意从5楼怒扔砖头",
+      "onboard_time": 1732712899,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194839,
       "num": 194839,
       "word": "虞书欣凌妙妙黑化前vs黑化后",
@@ -40065,6 +40113,14 @@
       "onboard_time": 1732020619,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192963,
+      "num": 192963,
+      "word": "XLB直播道歉",
+      "onboard_time": 1732716439,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 192953,
@@ -45049,6 +45105,14 @@
       "onboard_time": 1732162398,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175054,
+      "num": 175054,
+      "word": "双轨开通官微",
+      "onboard_time": 1732715719,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175033,
@@ -51435,6 +51499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153798,
+      "num": 153798,
+      "word": "Puff和Langx激情互喷",
+      "onboard_time": 1732716200,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153793,
       "num": 153793,
       "word": "成都花12亿建对外交流中心被通报",
@@ -56227,6 +56299,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 138551,
+      "num": 306997,
+      "word": "2024年总票房突破400亿",
+      "onboard_time": 1732714639,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138496,
       "num": 138496,
       "word": "山东泰山1比0柔佛新山",
@@ -56817,14 +56897,6 @@
       "onboard_time": 1730719640,
       "rank": 36,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 136491,
-      "num": 306997,
-      "word": "2024年总票房突破400亿",
-      "onboard_time": 1732714639,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 136485,
@@ -58769,6 +58841,14 @@
       "onboard_time": 1730942360,
       "rank": 49,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 129147,
+      "num": 302012,
+      "word": "哈尔滨学生午餐遭抽条",
+      "onboard_time": 1732714878,
+      "rank": 15,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 129072,
@@ -61227,6 +61307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121279,
+      "num": 251340,
+      "word": "严浩翔生日周边",
+      "onboard_time": 1732716620,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121259,
       "num": 121259,
       "word": "教育局回应学生玩死亡游戏晕倒",
@@ -62729,14 +62817,6 @@
       "onboard_time": 1730443520,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116002,
-      "num": 218964,
-      "word": "初雪cha一下",
-      "onboard_time": 1732714999,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 115995,
@@ -64393,6 +64473,14 @@
       "onboard_time": 1731608532,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109521,
+      "num": 109521,
+      "word": "后悔宝",
+      "onboard_time": 1732714459,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 109501,
@@ -67907,6 +67995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92280,
+      "num": 264909,
+      "word": "单亲妈妈帮男友借多笔网贷后遭拉黑",
+      "onboard_time": 1732716620,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92223,
       "num": 92223,
       "word": "宠协工作人员称死亡犬数仍上升",
@@ -68097,14 +68193,6 @@
       "onboard_time": 1731342377,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90886,
-      "num": 220059,
-      "word": "XLB怒喷Doinb",
-      "onboard_time": 1732714999,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 90849,
@@ -68707,14 +68795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87815,
-      "num": 231243,
-      "word": "男子为引女儿注意从5楼怒扔砖头",
-      "onboard_time": 1732712899,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87742,
       "num": 87742,
       "word": "麦麦 东亚家庭的影子",
@@ -69201,6 +69281,14 @@
       "onboard_time": 1732283660,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84705,
+      "num": 295726,
+      "word": "口罩姐108万拍下一诺定制款ID3",
+      "onboard_time": 1732713139,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 84621,
@@ -71355,6 +71443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73128,
+      "num": 251097,
+      "word": "华莱士汉堡被曝吃出异物事件",
+      "onboard_time": 1732716439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73100,
       "num": 152189,
       "word": "中国奥委会祝贺郑钦文",
@@ -71747,6 +71843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70637,
+      "num": 113930,
+      "word": "王者福利签送史诗皮肤",
+      "onboard_time": 1732715360,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 70580,
       "num": 241657,
       "word": "林诗栋闯进决赛",
@@ -71777,14 +71881,6 @@
       "onboard_time": 1730480116,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70501,
-      "num": 295726,
-      "word": "口罩姐108万拍下一诺定制款ID3",
-      "onboard_time": 1732713139,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 70475,
@@ -73561,14 +73657,6 @@
       "onboard_time": 1730823380,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62366,
-      "num": 222883,
-      "word": "骗保男子在妻子死后做瘫痪无力状",
-      "onboard_time": 1732714999,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62349,
@@ -77067,6 +77155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49897,
+      "num": 251775,
+      "word": "彭楚粤新剧一百种花式死法",
+      "onboard_time": 1732716500,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49872,
       "num": 71626,
       "word": "海事局回应辽宁一货船被外籍船只撞翻",
@@ -79225,6 +79321,14 @@
       "onboard_time": 1730906603,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42722,
+      "num": 256797,
+      "word": "樊振东操控AI发微博",
+      "onboard_time": 1732714639,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 42717,
@@ -82427,6 +82531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34225,
+      "num": 652774,
+      "word": "这是一个值得逐帧观看的MV",
+      "onboard_time": 1732713980,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34206,
       "num": 291448,
       "word": "徐涛谈考研倒计时30天如何备考",
@@ -82761,14 +82873,6 @@
       "onboard_time": 1730923991,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 33538,
-      "num": 192720,
-      "word": "樊振东操控AI发微博",
-      "onboard_time": 1732714639,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 33522,
@@ -86531,14 +86635,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 25208,
-      "num": 606844,
-      "word": "这是一个值得逐帧观看的MV",
-      "onboard_time": 1732713980,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25198,
       "num": 192905,
       "word": "员工舀潲水油老板发誓没用过",
@@ -87571,14 +87667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23175,
-      "num": 302012,
-      "word": "哈尔滨学生午餐遭抽条",
-      "onboard_time": 1732714878,
-      "rank": 15,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 23157,
       "num": 23157,
       "word": "黄磊回应被指好为人师",
@@ -87945,6 +88033,14 @@
       "onboard_time": 1730525598,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22365,
+      "num": 348811,
+      "word": "麦琪啦带货进口产品商标注册在国内",
+      "onboard_time": 1732716139,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22350,

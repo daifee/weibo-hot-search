@@ -1,0 +1,410 @@
+{
+  "runTime": 1732717355341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1308573,
+        "num": 1308573,
+        "word": "央妈镜头的祝绪丹",
+        "onboard_time": 1732714519,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1678554,
+        "num": 1028918,
+        "word": "骗保男子在妻子死后做瘫痪无力状",
+        "onboard_time": 1732714999,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34225,
+        "num": 652774,
+        "word": "这是一个值得逐帧观看的MV",
+        "onboard_time": 1732713980,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598864,
+        "num": 598864,
+        "word": "碎片化睡眠危害等同于熬夜",
+        "onboard_time": 1732708279,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 516815,
+        "num": 516815,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443058,
+        "num": 443058,
+        "word": "凭什么被抄袭的人反而要自证",
+        "onboard_time": 1732712179,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 436268,
+        "num": 436268,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365683,
+        "num": 365683,
+        "word": "这种危险插排千万别再用了",
+        "onboard_time": 1732707378,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 361763,
+        "num": 361763,
+        "word": "孙颖莎为邱贻可庆生",
+        "onboard_time": 1732709539,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22365,
+        "num": 348811,
+        "word": "麦琪啦带货进口产品商标注册在国内",
+        "onboard_time": 1732716139,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335963,
+        "num": 335963,
+        "word": "白百何接小儿子放学背着上车",
+        "onboard_time": 1732710678,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315642,
+        "num": 315642,
+        "word": "初雪cha一下",
+        "onboard_time": 1732714999,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300417,
+        "num": 300417,
+        "word": "K80价格",
+        "onboard_time": 1732709898,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291382,
+        "num": 291382,
+        "word": "后陡门的夏天结束了",
+        "onboard_time": 1732710378,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92280,
+        "num": 264909,
+        "word": "单亲妈妈帮男友借多笔网贷后遭拉黑",
+        "onboard_time": 1732716620,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42722,
+        "num": 256797,
+        "word": "樊振东操控AI发微博",
+        "onboard_time": 1732714639,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252042,
+        "num": 252042,
+        "word": "王一博清华大学海报",
+        "onboard_time": 1732698978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49897,
+        "num": 251775,
+        "word": "彭楚粤新剧一百种花式死法",
+        "onboard_time": 1732716500,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121279,
+        "num": 251340,
+        "word": "严浩翔生日周边",
+        "onboard_time": 1732716620,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73128,
+        "num": 251097,
+        "word": "华莱士汉堡被曝吃出异物事件",
+        "onboard_time": 1732716439,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731061,
+        "num": 250626,
+        "word": "英国一母亲把女儿藏抽屉养到3岁",
+        "onboard_time": 1732709178,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 524066,
+        "num": 250460,
+        "word": "李行亮说家里卫生请保洁",
+        "onboard_time": 1732705579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250201,
+        "num": 250201,
+        "word": "花3万块在新疆买的小院",
+        "onboard_time": 1732709239,
+        "rank": 22,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 248117,
+        "num": 248117,
+        "word": "XLB怒喷Doinb",
+        "onboard_time": 1732714999,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205846,
+        "num": 245735,
+        "word": "樊振东用手机打乒乓球",
+        "onboard_time": 1732716620,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245249,
+        "num": 245249,
+        "word": "芒果凑齐了三大群像",
+        "onboard_time": 1732707438,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211540,
+        "num": 211540,
+        "word": "林昀儒 魏桥",
+        "onboard_time": 1732710857,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206898,
+        "num": 206898,
+        "word": "蒋敦豪直播完就走了",
+        "onboard_time": 1732705159,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84705,
+        "num": 206638,
+        "word": "口罩姐108万拍下一诺定制款ID3",
+        "onboard_time": 1732713139,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206533,
+        "num": 206533,
+        "word": "陈丽君李云霄将参演我的大观园",
+        "onboard_time": 1732716919,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194841,
+        "num": 194841,
+        "word": "男子为引女儿注意从5楼怒扔砖头",
+        "onboard_time": 1732712899,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192963,
+        "num": 192963,
+        "word": "XLB直播道歉",
+        "onboard_time": 1732716439,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175054,
+        "num": 175054,
+        "word": "双轨开通官微",
+        "onboard_time": 1732715719,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163716,
+        "num": 163716,
+        "word": "浪姐6",
+        "onboard_time": 1732698138,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155695,
+        "num": 155695,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153798,
+        "num": 153798,
+        "word": "Puff和Langx激情互喷",
+        "onboard_time": 1732716200,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153071,
+        "num": 153071,
+        "word": "十个勤天以后呢",
+        "onboard_time": 1732709298,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149984,
+        "num": 149984,
+        "word": "全球最年长男子去世历经24任英国首相",
+        "onboard_time": 1732711998,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144619,
+        "num": 144619,
+        "word": "英雄回祖国",
+        "onboard_time": 1732706118,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138576,
+        "num": 138576,
+        "word": "樊振东现身K80发布会",
+        "onboard_time": 1732708578,
+        "rank": 39,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 138551,
+        "num": 138551,
+        "word": "2024年总票房突破400亿",
+        "onboard_time": 1732714639,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129147,
+        "num": 129147,
+        "word": "哈尔滨学生午餐遭抽条",
+        "onboard_time": 1732714878,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120413,
+        "num": 120413,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118830,
+        "num": 118830,
+        "word": "崔杋圭直播哭了",
+        "onboard_time": 1732709539,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70637,
+        "num": 113930,
+        "word": "王者福利签送史诗皮肤",
+        "onboard_time": 1732715360,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119785,
+        "num": 113750,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112780,
+        "num": 112780,
+        "word": "老师扔三角尺致女生重伤仍未道歉",
+        "onboard_time": 1732711219,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109521,
+        "num": 109521,
+        "word": "后悔宝",
+        "onboard_time": 1732714459,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104432,
+        "num": 104432,
+        "word": "男子为骗保把妻子推下轮船坠海身亡",
+        "onboard_time": 1732691238,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103365,
+        "num": 103365,
+        "word": "于东来公布胖东来经营情况",
+        "onboard_time": 1732705098,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}
