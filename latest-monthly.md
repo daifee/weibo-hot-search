@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 09:49:41
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/27 10:12:19
 </p>
 </blockquote>
 <p>
@@ -1319,6 +1319,12 @@ K7034列车发生脱轨事故（热度：1833924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E7%94%B7%E5%AD%90%E6%80%92%E7%A0%B8%E5%BA%97%E9%93%BA%E5%95%86%E5%AE%B6%E6%94%BE%E5%BC%83%E8%BF%BD%E5%81%BF%23" target="weibo">
 癌症晚期男子怒砸店铺商家放弃追偿（热度：1734413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%9B%BD%E9%B9%8F%E5%9B%9E%E5%BA%94%E6%9B%BE%E8%BF%BD%E6%B1%82%E5%BC%A0%E4%BA%88%E6%9B%A6%23" target="weibo">
+万国鹏回应曾追求张予曦（热度：1733936）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LadyGaga（热度：814633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B0%8F%E6%9D%8E%E5%AD%90%E8%AE%A2%E5%A9%9A%23" target="weibo">
 曝小李子订婚（热度：809066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E6%99%93%E5%8D%8E%E8%AF%B430%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E4%B8%8D%E4%BD%8E%23" target="weibo">
-理发师晓华说30元的价格不低（热度：808865）
 </a>
 </li>
 

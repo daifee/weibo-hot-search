@@ -1,7 +1,15 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732672181236,
+  "endTime": 1732673539573,
   "band_list": [
+    {
+      "raw_hot": 1733936,
+      "num": 1733936,
+      "word": "万国鹏回应曾追求张予曦",
+      "onboard_time": 1732671918,
+      "rank": 13,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1040324,
       "num": 228897,
@@ -75,6 +83,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 490349,
+      "num": 490349,
+      "word": "麦琳穿搭",
+      "onboard_time": 1732672339,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 445197,
+      "num": 445197,
+      "word": "A股",
+      "onboard_time": 1732672339,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 403818,
       "num": 403818,
       "word": "大冰停播43天后复播",
@@ -83,20 +107,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 369750,
-      "num": 226480,
-      "word": "万国鹏回应曾追求张予曦",
-      "onboard_time": 1732671918,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 387253,
+      "num": 287491,
+      "word": "身份证18位数字分别代表什么",
+      "onboard_time": 1732670298,
+      "rank": 4,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 355033,
+      "raw_hot": 357838,
       "num": 224956,
       "word": "谈薪把offer谈没了的真实感受",
       "onboard_time": 1732669218,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354527,
+      "num": 354527,
+      "word": "男子跑半马提前庆祝被绝地反超",
+      "onboard_time": 1732669279,
+      "rank": 6,
+      "category": "运动健身"
     },
     {
       "raw_hot": 332556,
@@ -123,14 +155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 287491,
-      "num": 287491,
-      "word": "身份证18位数字分别代表什么",
-      "onboard_time": 1732670298,
-      "rank": 4,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 275583,
       "num": 242251,
       "word": "赵露思新剧依然是自己化妆",
@@ -145,14 +169,6 @@
       "onboard_time": 1732663695,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 252492,
-      "num": 252492,
-      "word": "男子跑半马提前庆祝被绝地反超",
-      "onboard_time": 1732669279,
-      "rank": 6,
-      "category": "运动健身"
     },
     {
       "raw_hot": 249818,
@@ -291,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 192781,
+      "num": 192781,
+      "word": "官方回应重庆一楼房起火",
+      "onboard_time": 1732672398,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 190894,
       "num": 190894,
       "word": "伊能静评价再见爱人里的女性角色",
@@ -315,20 +339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186635,
+      "num": 186635,
+      "word": "92岁奶奶比29不到的我气血还足",
+      "onboard_time": 1732669459,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174845,
       "num": 174845,
       "word": "恒大集团及许家印被限制高消费",
       "onboard_time": 1732669218,
       "rank": 29,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 172013,
-      "num": 172013,
-      "word": "92岁奶奶比29不到的我气血还足",
-      "onboard_time": 1732669459,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 166368,
@@ -355,8 +379,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150012,
-      "num": 150012,
+      "raw_hot": 150622,
+      "num": 150622,
       "word": "938位在韩志愿军烈士10年回家路",
       "onboard_time": 1732632139,
       "rank": 36,
@@ -393,6 +417,14 @@
       "onboard_time": 1732636096,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131907,
+      "num": 131907,
+      "word": "羽绒服",
+      "onboard_time": 1732673057,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128012,
@@ -433,6 +465,22 @@
       "onboard_time": 1732664836,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125463,
+      "num": 223338,
+      "word": "谷子经济彻底火了",
+      "onboard_time": 1732670897,
+      "rank": 16,
+      "category": "财经,动漫"
+    },
+    {
+      "raw_hot": 124636,
+      "num": 124636,
+      "word": "骗子用刮刮卡营造期待感",
+      "onboard_time": 1732672398,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119957,
@@ -531,14 +579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 96216,
-      "num": 223338,
-      "word": "谷子经济彻底火了",
-      "onboard_time": 1732670897,
-      "rank": 16,
-      "category": "财经,动漫"
-    },
-    {
       "raw_hot": 95403,
       "num": 95403,
       "word": "大冰连线",
@@ -553,6 +593,14 @@
       "onboard_time": 1732669519,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90991,
+      "num": 90991,
+      "word": "前10月全国国有企业营收同比增长0.9%",
+      "onboard_time": 1732672997,
+      "rank": 48,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 90741,
@@ -627,6 +675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81839,
+      "num": 214863,
+      "word": "剑网3 团长",
+      "onboard_time": 1732671439,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80330,
       "num": 80330,
       "word": "好东西票房破2亿",
@@ -656,6 +712,14 @@
       "word": "辛选致歉",
       "onboard_time": 1732637477,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75897,
+      "num": 212470,
+      "word": "以丝代绒背后羽绒服的价格困境",
+      "onboard_time": 1732672098,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -723,14 +787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63351,
-      "num": 214863,
-      "word": "剑网3 团长",
-      "onboard_time": 1732671439,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 61927,
       "num": 61927,
       "word": "川渝火锅进入全球80多个国家",
@@ -755,6 +811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57270,
+      "num": 203486,
+      "word": "气象部门回应北京为何突然飘雪",
+      "onboard_time": 1732673057,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55174,
+      "num": 182925,
+      "word": "陈都灵贝雷帽英伦风",
+      "onboard_time": 1732673299,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 54117,
       "num": 191223,
       "word": "刘连舸一审被判死缓",
@@ -771,8 +843,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49825,
+      "num": 194793,
+      "word": "88岁奶奶回应25年理发只收2元",
+      "onboard_time": 1732673299,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 49127,
-      "num": 605696,
+      "num": 611391,
       "word": "中国天眼发现脉冲星已超1000颗",
       "onboard_time": 1732626859,
       "rank": 2,
@@ -803,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45970,
-      "num": 212470,
-      "word": "以丝代绒背后羽绒服的价格困境",
-      "onboard_time": 1732672098,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 46128,
+      "num": 98088,
+      "word": "莱万欧冠百球",
+      "onboard_time": 1732672639,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 45815,
@@ -977,6 +1057,14 @@
       "onboard_time": 1732654631,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11715,
+      "num": 159347,
+      "word": "何浩楠分享游学碎片",
+      "onboard_time": 1732672220,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 8739,
