@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732732342800,
+  "endTime": 1732733157751,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -315,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 77931,
+      "num": 77931,
+      "word": "羽绒骗局曝光",
+      "onboard_time": 1732731251,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77545,
       "num": 77545,
       "word": "种地吧直播",
@@ -409,14 +417,6 @@
       "onboard_time": 1732698978,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46759,
-      "num": 49865,
-      "word": "羽绒骗局曝光",
-      "onboard_time": 1732731251,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46518,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27011,
+      "num": 27010,
+      "word": "滥俗的歌",
+      "onboard_time": 1732731732,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25471,
       "num": 25471,
       "word": "陆柯燃也cha上初雪了",
@@ -531,12 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22599,
-      "num": 22599,
-      "word": "滥俗的歌",
-      "onboard_time": 1732731732,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 20219,
+      "num": 20219,
+      "word": "昨天之后",
+      "onboard_time": 1732732752,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 19087,
@@ -555,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16082,
+      "num": 43458,
+      "word": "媒体评羊毛月何不食肉糜",
+      "onboard_time": 1732732511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14799,
       "num": 46327,
       "word": "朱正廷拍的日出",
@@ -571,8 +587,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 7433,
-      "num": 25804,
+      "raw_hot": 7666,
+      "num": 27012,
       "word": "慵懒风 朱珠毫不费力",
       "onboard_time": 1732732272,
       "rank": 29,
