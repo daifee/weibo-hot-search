@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732718565914,
+  "endTime": 1732721128781,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -2107,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520534,
+      "num": 520534,
+      "word": "华莱士汉堡被曝吃出异物事件",
+      "onboard_time": 1732716439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 513385,
       "num": 300652,
       "word": "花140万买到了230平的房子",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1732623918,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 473516,
+      "num": 473516,
+      "word": "4万吨工业盐酸被偷偷排放",
+      "onboard_time": 1732718840,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 464273,
@@ -2705,6 +2721,14 @@
       "onboard_time": 1732628840,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401795,
+      "num": 219896,
+      "word": "上海果然是没有人穿羽绒服的",
+      "onboard_time": 1732717880,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 400917,
@@ -3161,6 +3185,14 @@
       "onboard_time": 1732463778,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350797,
+      "num": 350797,
+      "word": "御赐小仵作2杀青",
+      "onboard_time": 1732719140,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 350332,
@@ -3771,14 +3803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288121,
-      "num": 219896,
-      "word": "上海果然是没有人穿羽绒服的",
-      "onboard_time": 1732717880,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288092,
       "num": 288092,
       "word": "货拉拉发布情况说明",
@@ -3995,6 +4019,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270202,
+      "num": 263344,
+      "word": "XLB怒喷Doinb",
+      "onboard_time": 1732714999,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 269786,
+      "num": 269786,
+      "word": "男子为引女儿注意从5楼怒扔砖头",
+      "onboard_time": 1732712899,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269286,
       "num": 269286,
       "word": "警方通报景德镇发现一具中年男尸",
@@ -4067,20 +4107,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 261659,
-      "num": 261659,
-      "word": "XLB怒喷Doinb",
-      "onboard_time": 1732714999,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 261610,
       "num": 261610,
       "word": "46人因黑龙江一煤矿重大事故被处理",
       "onboard_time": 1732675939,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 261470,
+      "num": 143127,
+      "word": "为什么不建议买太便宜的洗衣液",
+      "onboard_time": 1732720159,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 261199,
@@ -5107,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215694,
+      "num": 215694,
+      "word": "丁禹兮高马尾vs白散发",
+      "onboard_time": 1732719439,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215222,
       "num": 215222,
       "word": "infp确诊ADHD",
@@ -5905,14 +5953,6 @@
       "onboard_time": 1732608618,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 194841,
-      "num": 231243,
-      "word": "男子为引女儿注意从5楼怒扔砖头",
-      "onboard_time": 1732712899,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194655,
@@ -8851,6 +8891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128818,
+      "num": 128818,
+      "word": "imp泪洒直播间",
+      "onboard_time": 1732718899,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128808,
       "num": 128808,
       "word": "A股牛还在吗",
@@ -8937,6 +8985,14 @@
       "onboard_time": 1732663876,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127753,
+      "num": 264358,
+      "word": "男子犯重婚罪被拘184天后改判无罪",
+      "onboard_time": 1732717639,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127691,
@@ -9321,6 +9377,14 @@
       "onboard_time": 1732423398,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122058,
+      "num": 122058,
+      "word": "鹿晗直拍",
+      "onboard_time": 1732716380,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 121933,
@@ -9923,6 +9987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112635,
+      "num": 188853,
+      "word": "谢娜回母校参加活动",
+      "onboard_time": 1732717759,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112483,
       "num": 112483,
       "word": "十个勤天卡点为鹭卓庆生",
@@ -10033,6 +10105,14 @@
       "onboard_time": 1732526778,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111143,
+      "num": 111143,
+      "word": "A股反弹行情来了吗",
+      "onboard_time": 1732720579,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 111109,
@@ -10283,6 +10363,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 105508,
+      "num": 105508,
+      "word": "愿你勇敢追梦祝你光芒万丈",
+      "onboard_time": 1732719738,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 105203,
       "num": 105203,
       "word": "晨练老人突发心梗刚好有医生路过",
@@ -10291,19 +10379,19 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 104872,
-      "num": 104872,
-      "word": "鹿晗直拍",
-      "onboard_time": 1732716380,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104455,
       "num": 104455,
       "word": "樊振东教王腾打球",
       "onboard_time": 1732500678,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104454,
+      "num": 104454,
+      "word": "马龙打高尔夫球",
+      "onboard_time": 1732719919,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -10681,14 +10769,6 @@
       "onboard_time": 1732457301,
       "rank": 18,
       "category": "艺人,演出"
-    },
-    {
-      "raw_hot": 94253,
-      "num": 188853,
-      "word": "谢娜回母校参加活动",
-      "onboard_time": 1732717759,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 94055,
@@ -11243,14 +11323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 80248,
-      "num": 264358,
-      "word": "男子犯重婚罪被拘184天后改判无罪",
-      "onboard_time": 1732717639,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80058,
       "num": 80058,
       "word": "掘金25分大胜湖人",
@@ -11283,6 +11355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79491,
+      "num": 264106,
+      "word": "专家称谷子火爆因年轻人缺乏社交途径",
+      "onboard_time": 1732720159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79474,
       "num": 167791,
       "word": "尼泊尔偶遇邱淑贞",
@@ -11297,6 +11377,14 @@
       "onboard_time": 1732523421,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78151,
+      "num": 204799,
+      "word": "被拐儿童家长向人贩子索赔6元",
+      "onboard_time": 1732719859,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77880,
@@ -11475,20 +11563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73513,
+      "num": 205466,
+      "word": "严浩翔比猫耳小卡",
+      "onboard_time": 1732720700,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73349,
       "num": 358774,
       "word": "劣质羽绒填充物每斤成本7元",
       "onboard_time": 1732533198,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 73128,
-      "num": 251097,
-      "word": "华莱士汉堡被曝吃出异物事件",
-      "onboard_time": 1732716439,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73086,
@@ -13265,6 +13353,14 @@
       "onboard_time": 1732500139,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36202,
+      "num": 214784,
+      "word": "沉迷霸总短剧可能加重现实焦虑",
+      "onboard_time": 1732720519,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36174,
