@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732703179518,
+  "endTime": 1732704259726,
   "band_list": [
     {
       "raw_hot": 2483621,
@@ -161,6 +161,14 @@
       "onboard_time": 1732698138,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 855125,
+      "num": 855125,
+      "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
+      "onboard_time": 1732699158,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 837285,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 509230,
-      "num": 408208,
+      "num": 499049,
       "word": "王一博清华大学海报",
       "onboard_time": 1732698978,
       "rank": 19,
@@ -473,14 +481,6 @@
       "onboard_time": 1732680799,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 393767,
-      "num": 393767,
-      "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
-      "onboard_time": 1732699158,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 387253,
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237574,
+      "num": 237574,
+      "word": "名校生与离异女服务员结婚推其坠海骗保",
+      "onboard_time": 1732702878,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236162,
       "num": 317767,
       "word": "山河如愿 英雄回家",
@@ -947,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208969,
+      "num": 208969,
+      "word": "推妻入海骗保男子有19岁在校情人",
+      "onboard_time": 1732702758,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208781,
       "num": 208781,
       "word": "比亚迪回应要求供应商降价",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1732695499,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193433,
+      "num": 247381,
+      "word": "檀健次 ELLE开年刊",
+      "onboard_time": 1732703179,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193040,
@@ -1315,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169412,
+      "num": 169412,
+      "word": "李昊27岁已经热爱港乐25年了",
+      "onboard_time": 1732703959,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166418,
       "num": 166418,
       "word": "顾客意外入镜店家直播间索赔获支持",
@@ -1355,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162977,
+      "num": 190877,
+      "word": "林一雪中撑伞2.0",
+      "onboard_time": 1732702399,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162673,
       "num": 374360,
       "word": "赵丽颖热烈的许半夏",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1732694959,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160532,
+      "num": 223840,
+      "word": "小咘芽让张杰把喉结吞下去",
+      "onboard_time": 1732702458,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 160123,
@@ -1555,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140987,
+      "num": 397331,
+      "word": "这便是蜡字偏旁为虫的缘由吧",
+      "onboard_time": 1732701798,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 140748,
       "num": 140748,
       "word": "冷冷冷我冷冷冷",
@@ -1611,14 +1667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137540,
-      "num": 397331,
-      "word": "这便是蜡字偏旁为虫的缘由吧",
-      "onboard_time": 1732701798,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 136465,
       "num": 136465,
       "word": "我学会自己哄自己了",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1732684999,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132027,
-      "num": 132027,
-      "word": "名校生与离异女服务员结婚推其坠海骗保",
-      "onboard_time": 1732702878,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131517,
@@ -1675,20 +1715,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128976,
+      "num": 191348,
+      "word": "恋与深空",
+      "onboard_time": 1732703538,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128012,
       "num": 177924,
       "word": "鹿晗领衔的音乐节如何带火佛山",
       "onboard_time": 1732668319,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127904,
-      "num": 127904,
-      "word": "推妻入海骗保男子有19岁在校情人",
-      "onboard_time": 1732702758,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127773,
@@ -1715,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126721,
+      "num": 126721,
+      "word": "失笑剧粉用在线文档告别",
+      "onboard_time": 1732703779,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126013,
       "num": 126013,
       "word": "英雄回家原创MV归",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1732664836,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125483,
+      "num": 125483,
+      "word": "张元英朴成训KBS二搭",
+      "onboard_time": 1732704078,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 125463,
@@ -1785,6 +1841,22 @@
       "onboard_time": 1732691658,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121933,
+      "num": 412725,
+      "word": "地沟油变废为宝后遭全球疯抢",
+      "onboard_time": 1732700718,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120775,
+      "num": 299646,
+      "word": "比亚迪供应商股价闻风下跌",
+      "onboard_time": 1732703479,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 119957,
@@ -1891,12 +1963,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 109041,
-      "num": 412725,
-      "word": "地沟油变废为宝后遭全球疯抢",
-      "onboard_time": 1732700718,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 107862,
+      "num": 107862,
+      "word": "kid还在保Rookie",
+      "onboard_time": 1732702999,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 107087,
@@ -1947,20 +2019,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 104281,
-      "num": 104281,
-      "word": "kid还在保Rookie",
-      "onboard_time": 1732702999,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 103168,
-      "num": 223840,
-      "word": "小咘芽让张杰把喉结吞下去",
-      "onboard_time": 1732702458,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 102170,
+      "num": 102170,
+      "word": "于和伟一天在播三部戏",
+      "onboard_time": 1732703358,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100867,
@@ -2056,14 +2120,6 @@
       "word": "朱志鑫拍2024的初雪",
       "onboard_time": 1732636697,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 90199,
-      "num": 190877,
-      "word": "林一雪中撑伞2.0",
-      "onboard_time": 1732702399,
-      "rank": 30,
       "category": "艺人"
     },
     {
