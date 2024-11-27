@@ -1,0 +1,410 @@
+{
+  "runTime": 1732692322440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1795997,
+        "num": 1795997,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 781007,
+        "num": 781007,
+        "word": "老师用三角尺砸伤女童获刑5年",
+        "onboard_time": 1732690519,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33418,
+        "num": 664330,
+        "word": "全力保障人民群众生命安全和社会稳定",
+        "onboard_time": 1732681221,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1401373,
+        "num": 638458,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 883399,
+        "num": 636701,
+        "word": "女子手上9套房每套都烦心",
+        "onboard_time": 1732678638,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603882,
+        "num": 603882,
+        "word": "南京223火灾事故调查报告",
+        "onboard_time": 1732688958,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1205339,
+        "num": 500392,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606416,
+        "num": 473438,
+        "word": "偶遇肖战逛街",
+        "onboard_time": 1732688119,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343813,
+        "num": 343813,
+        "word": "男子为骗保把妻子推下轮船坠海身亡",
+        "onboard_time": 1732691238,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174591,
+        "num": 342604,
+        "word": "9岁女孩被老师砸伤案一审宣判",
+        "onboard_time": 1732689678,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531032,
+        "num": 337914,
+        "word": "立白集团回应经理招聘女生做情人",
+        "onboard_time": 1732687578,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 524586,
+        "num": 327868,
+        "word": "周雨彤 荣梓杉闭嘴的时候很帅",
+        "onboard_time": 1732687399,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462442,
+        "num": 322076,
+        "word": "张予曦 死腿快踢",
+        "onboard_time": 1732689859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370053,
+        "num": 320059,
+        "word": "李耕耘 进组",
+        "onboard_time": 1732687938,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316165,
+        "num": 316165,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288331,
+        "num": 288331,
+        "word": "花2万买保时捷小卡宴车标竟是驴",
+        "onboard_time": 1732681280,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284617,
+        "num": 284617,
+        "word": "花了1万八的俄罗斯旅游",
+        "onboard_time": 1732683020,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 55026,
+        "num": 280064,
+        "word": "于和伟转发区叔圈团建",
+        "onboard_time": 1732691658,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190055,
+        "num": 277229,
+        "word": "王一栩曾对赵一博说横店见",
+        "onboard_time": 1732691419,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276204,
+        "num": 276204,
+        "word": "5个放松行为其实很损耗气血",
+        "onboard_time": 1732688419,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 672761,
+        "num": 274392,
+        "word": "区域经理招聘女生做情人月薪13000",
+        "onboard_time": 1732685779,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289794,
+        "num": 273395,
+        "word": "蒋敦豪李耕耘赵一博暂别种地吧3",
+        "onboard_time": 1732686738,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276771,
+        "num": 272955,
+        "word": "天选古偶四美",
+        "onboard_time": 1732687878,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272057,
+        "num": 272057,
+        "word": "马龙杨倩抵达台湾",
+        "onboard_time": 1732685120,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12365,
+        "num": 257417,
+        "word": "利拉德37分",
+        "onboard_time": 1732691238,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250839,
+        "num": 250839,
+        "word": "恩利称其父母离婚是件不错的事",
+        "onboard_time": 1732684698,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228427,
+        "num": 228427,
+        "word": "电瓶车29楼充电起火致两邻居身亡",
+        "onboard_time": 1732674919,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 224679,
+        "num": 224679,
+        "word": "李现镜头下的稻城亚丁",
+        "onboard_time": 1732690459,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55839,
+        "num": 217112,
+        "word": "扫雪同奖学金挂钩未必有多大不妥",
+        "onboard_time": 1732690339,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212071,
+        "num": 212071,
+        "word": "十个勤天应到10人实到5.5人",
+        "onboard_time": 1732689139,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206496,
+        "num": 206496,
+        "word": "白鹿穿睡衣上班",
+        "onboard_time": 1732685298,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201407,
+        "num": 201407,
+        "word": "群像的结局是什么",
+        "onboard_time": 1732691479,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201032,
+        "num": 201032,
+        "word": "A股放量上涨突破3300点",
+        "onboard_time": 1732691957,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170388,
+        "num": 170388,
+        "word": "小咘芽跟张杰说保护好嗓子",
+        "onboard_time": 1732691900,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160743,
+        "num": 160743,
+        "word": "北京突然飘雪属于大力出奇迹",
+        "onboard_time": 1732683320,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155268,
+        "num": 155268,
+        "word": "万国鹏回应曾追求张予曦",
+        "onboard_time": 1732671918,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151287,
+        "num": 151287,
+        "word": "羽绒服一天一个价",
+        "onboard_time": 1732676298,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143279,
+        "num": 143279,
+        "word": "河南一杂技演员表演时绳子断裂坠落",
+        "onboard_time": 1732691599,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136900,
+        "num": 136900,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1732674018,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119243,
+        "num": 119243,
+        "word": "羽绒服",
+        "onboard_time": 1732673057,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135690,
+        "num": 119069,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1732691838,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129547,
+        "num": 118519,
+        "word": "45岁汤唯状态",
+        "onboard_time": 1732690039,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128325,
+        "num": 118050,
+        "word": "种地吧总导演说坚决不加新人",
+        "onboard_time": 1732687459,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127446,
+        "num": 117536,
+        "word": "徐艺洋水晶",
+        "onboard_time": 1732678638,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121064,
+        "num": 117459,
+        "word": "白夜追凶和白夜破晓的关系",
+        "onboard_time": 1732688299,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120400,
+        "num": 116660,
+        "word": "大冰 动画般的退场",
+        "onboard_time": 1732689558,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116592,
+        "num": 116592,
+        "word": "爱笑爆料iG教练",
+        "onboard_time": 1732688658,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114187,
+        "num": 114187,
+        "word": "只有川渝人才知道她演的是什么",
+        "onboard_time": 1732689798,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108407,
+        "num": 108407,
+        "word": "人民网评霸总微短剧该管管了",
+        "onboard_time": 1732687459,
+        "rank": 48,
+        "category": "舆论监督,作品衍生"
+      },
+      {
+        "raw_hot": 104623,
+        "num": 104623,
+        "word": "身份证18位数字分别代表什么",
+        "onboard_time": 1732670298,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国树立了合作互利共赢的生动样板#"
+    }
+  }
+}
