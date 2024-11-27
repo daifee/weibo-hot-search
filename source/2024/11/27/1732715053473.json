@@ -1,0 +1,410 @@
+{
+  "runTime": 1732715053473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146959,
+        "num": 1183513,
+        "word": "碎片化睡眠危害等同于熬夜",
+        "onboard_time": 1732708279,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 588869,
+        "num": 588869,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25208,
+        "num": 532144,
+        "word": "这是一个值得逐帧观看的MV",
+        "onboard_time": 1732713980,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530913,
+        "num": 530913,
+        "word": "K80价格",
+        "onboard_time": 1732709898,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 492759,
+        "num": 492759,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422261,
+        "num": 422261,
+        "word": "凭什么被抄袭的人反而要自证",
+        "onboard_time": 1732712179,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418844,
+        "num": 418844,
+        "word": "孙颖莎为邱贻可庆生",
+        "onboard_time": 1732709539,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393969,
+        "num": 393969,
+        "word": "芒果凑齐了三大群像",
+        "onboard_time": 1732707438,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357177,
+        "num": 357177,
+        "word": "林昀儒 魏桥",
+        "onboard_time": 1732710857,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322613,
+        "num": 322613,
+        "word": "王一博清华大学海报",
+        "onboard_time": 1732698978,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599082,
+        "num": 322113,
+        "word": "白百何接小儿子放学背着上车",
+        "onboard_time": 1732710678,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371781,
+        "num": 318945,
+        "word": "这种危险插排千万别再用了",
+        "onboard_time": 1732707378,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 350809,
+        "num": 312551,
+        "word": "央妈镜头的祝绪丹",
+        "onboard_time": 1732714519,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77233,
+        "num": 310194,
+        "word": "养老院回应老人被殴打一年",
+        "onboard_time": 1732713920,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136491,
+        "num": 306997,
+        "word": "2024年总票房突破400亿",
+        "onboard_time": 1732714639,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23175,
+        "num": 302012,
+        "word": "哈尔滨学生午餐遭抽条",
+        "onboard_time": 1732714878,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 83295,
+        "num": 298616,
+        "word": "黑龙江一村监控拍下老虎进村",
+        "onboard_time": 1732714999,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49593,
+        "num": 295726,
+        "word": "口罩姐108万拍下一诺定制款ID3",
+        "onboard_time": 1732713139,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55153,
+        "num": 291608,
+        "word": "家长称被老师砸伤的女孩后遗症明显",
+        "onboard_time": 1732713320,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29109,
+        "num": 289314,
+        "word": "K80凭啥是大满贯",
+        "onboard_time": 1732713139,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180283,
+        "num": 287240,
+        "word": "丁禹兮超like破2万了",
+        "onboard_time": 1732713618,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780616,
+        "num": 284088,
+        "word": "英国一母亲把女儿藏抽屉养到3岁",
+        "onboard_time": 1732709178,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 697375,
+        "num": 280796,
+        "word": "李行亮说家里卫生请保洁",
+        "onboard_time": 1732705579,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277739,
+        "num": 277739,
+        "word": "花3万块在新疆买的小院",
+        "onboard_time": 1732709239,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 273837,
+        "num": 273837,
+        "word": "蒋敦豪直播完就走了",
+        "onboard_time": 1732705159,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252402,
+        "num": 252402,
+        "word": "后陡门的夏天结束了",
+        "onboard_time": 1732710378,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223504,
+        "num": 223504,
+        "word": "崔杋圭直播哭了",
+        "onboard_time": 1732709539,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62366,
+        "num": 222883,
+        "word": "骗保男子在妻子死后做瘫痪无力状",
+        "onboard_time": 1732714999,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90886,
+        "num": 220059,
+        "word": "XLB怒喷Doinb",
+        "onboard_time": 1732714999,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116002,
+        "num": 218964,
+        "word": "初雪cha一下",
+        "onboard_time": 1732714999,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89285,
+        "num": 217042,
+        "word": "郭艾伦CBA本土助攻王",
+        "onboard_time": 1732712118,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215312,
+        "num": 215312,
+        "word": "浪姐6",
+        "onboard_time": 1732698138,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33538,
+        "num": 192720,
+        "word": "樊振东操控AI发微博",
+        "onboard_time": 1732714639,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218070,
+        "num": 192243,
+        "word": "十个勤天以后呢",
+        "onboard_time": 1732709298,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190779,
+        "num": 190779,
+        "word": "樊振东现身K80发布会",
+        "onboard_time": 1732708578,
+        "rank": 34,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 173784,
+        "num": 173784,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164255,
+        "num": 164255,
+        "word": "老师扔三角尺致女生重伤仍未道歉",
+        "onboard_time": 1732711219,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41732,
+        "num": 164134,
+        "word": "赵明称友商发布后Magic7销量更好了",
+        "onboard_time": 1732710798,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164085,
+        "num": 164085,
+        "word": "于东来公布胖东来经营情况",
+        "onboard_time": 1732705098,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160082,
+        "num": 160082,
+        "word": "全球最年长男子去世历经24任英国首相",
+        "onboard_time": 1732711998,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156766,
+        "num": 156766,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142390,
+        "num": 142390,
+        "word": "古偶剧取景为何越来越雷同",
+        "onboard_time": 1732711939,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 136043,
+        "num": 136043,
+        "word": "英雄回祖国",
+        "onboard_time": 1732706118,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141300,
+        "num": 135550,
+        "word": "BLG xun",
+        "onboard_time": 1732711518,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129545,
+        "num": 134758,
+        "word": "登陆少年组合新歌试听预告",
+        "onboard_time": 1732713920,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100144,
+        "num": 134283,
+        "word": "女厕大排长龙不能总无解",
+        "onboard_time": 1732701679,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134186,
+        "num": 134186,
+        "word": "王者荣耀",
+        "onboard_time": 1732710499,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125880,
+        "num": 131299,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130657,
+        "num": 130657,
+        "word": "李子柒烟台学非遗烙葫芦",
+        "onboard_time": 1732704617,
+        "rank": 48,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 127691,
+        "num": 127691,
+        "word": "懂车帝回应极氪副总裁质疑",
+        "onboard_time": 1732714459,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}
