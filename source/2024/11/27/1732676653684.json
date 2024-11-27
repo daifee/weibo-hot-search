@@ -1,0 +1,410 @@
+{
+  "runTime": 1732676653684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1567201,
+        "num": 1567201,
+        "word": "因果报应 富养女儿",
+        "onboard_time": 1732674919,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434098,
+        "num": 434098,
+        "word": "提前还房贷的人后悔了吗",
+        "onboard_time": 1732661714,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31399,
+        "num": 399171,
+        "word": "中国天眼发现脉冲星已超1000颗",
+        "onboard_time": 1732626859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1410260,
+        "num": 398409,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1732674018,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397570,
+        "num": 397570,
+        "word": "朱芝松被查",
+        "onboard_time": 1732674738,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313095,
+        "num": 313095,
+        "word": "原来买羽绒服不能只看含绒量",
+        "onboard_time": 1732667719,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 274321,
+        "num": 274321,
+        "word": "唐鹤德晒张国荣旧照缅怀",
+        "onboard_time": 1732674080,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271811,
+        "num": 271811,
+        "word": "羽绒服",
+        "onboard_time": 1732673057,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257707,
+        "num": 257707,
+        "word": "92岁奶奶比29不到的我气血还足",
+        "onboard_time": 1732669459,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80743,
+        "num": 253453,
+        "word": "镇政府回应一村不缴医保不发福利",
+        "onboard_time": 1732676058,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1232162,
+        "num": 253451,
+        "word": "万国鹏回应曾追求张予曦",
+        "onboard_time": 1732671918,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1162921,
+        "num": 253435,
+        "word": "电瓶车29楼充电起火致两邻居身亡",
+        "onboard_time": 1732674919,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 253417,
+        "num": 253417,
+        "word": "EXO初雪排名上升",
+        "onboard_time": 1732675398,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1078119,
+        "num": 252141,
+        "word": "重庆火灾",
+        "onboard_time": 1732670298,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 837285,
+        "num": 250423,
+        "word": "麦琳穿搭",
+        "onboard_time": 1732672339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519531,
+        "num": 250049,
+        "word": "陕西16岁走失中学生已确认死亡",
+        "onboard_time": 1732671196,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 248522,
+        "num": 248522,
+        "word": "谈薪把offer谈没了的真实感受",
+        "onboard_time": 1732669218,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191691,
+        "num": 191691,
+        "word": "46人因黑龙江一煤矿重大事故被处理",
+        "onboard_time": 1732675939,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 96864,
+        "num": 191302,
+        "word": "张真源低头vs抬眸",
+        "onboard_time": 1732675578,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172615,
+        "num": 190753,
+        "word": "Doinb再次怒喷诺夏",
+        "onboard_time": 1732675156,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 772880,
+        "num": 190191,
+        "word": "家长称15岁女儿遭多次霸凌孕期被砍伤",
+        "onboard_time": 1732670658,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116159,
+        "num": 189617,
+        "word": "好运家 一家六口全离婚",
+        "onboard_time": 1732676358,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338728,
+        "num": 189200,
+        "word": "身份证18位数字分别代表什么",
+        "onboard_time": 1732670298,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151040,
+        "num": 188731,
+        "word": "好运家定档",
+        "onboard_time": 1732675998,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36370,
+        "num": 187839,
+        "word": "陈都灵贝雷帽英伦风",
+        "onboard_time": 1732673299,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187689,
+        "num": 187689,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150744,
+        "num": 180250,
+        "word": "王霏霏JYP姚琛孟佳合照",
+        "onboard_time": 1732673599,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177235,
+        "num": 177235,
+        "word": "骗子用刮刮卡营造期待感",
+        "onboard_time": 1732672398,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180293,
+        "num": 177089,
+        "word": "外媒炒作中国无人机威胁翻车",
+        "onboard_time": 1732674559,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22486,
+        "num": 176712,
+        "word": "魏大勋 只要不下桌早晚有机会",
+        "onboard_time": 1732675998,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176412,
+        "num": 176412,
+        "word": "男子跑半马提前庆祝被绝地反超",
+        "onboard_time": 1732669279,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161676,
+        "num": 161676,
+        "word": "瘦30斤才敢说的大实话",
+        "onboard_time": 1732663876,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 158240,
+        "num": 158240,
+        "word": "直播志愿军烈士遗骸回国",
+        "onboard_time": 1732674919,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155006,
+        "num": 155006,
+        "word": "羽绒服一天一个价",
+        "onboard_time": 1732676298,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152559,
+        "num": 152559,
+        "word": "被广东街头1元1袋剥好皮的橘子硬控",
+        "onboard_time": 1732675758,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148330,
+        "num": 148330,
+        "word": "李行亮蓝色西装穿了4年",
+        "onboard_time": 1732674919,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88716,
+        "num": 146340,
+        "word": "姿态回应老头杯表演赛RNG打iG",
+        "onboard_time": 1732673538,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145488,
+        "num": 145488,
+        "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
+        "onboard_time": 1732675939,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142863,
+        "num": 142863,
+        "word": "938位在韩志愿军烈士10年回家路",
+        "onboard_time": 1732632139,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141805,
+        "num": 141805,
+        "word": "清明上河图密码诡案预告",
+        "onboard_time": 1732676298,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131457,
+        "num": 131457,
+        "word": "虞书欣还原凌妙妙小碎步",
+        "onboard_time": 1732667719,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130712,
+        "num": 130712,
+        "word": "我学会自己哄自己了",
+        "onboard_time": 1732673718,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127518,
+        "num": 127518,
+        "word": "JDG老板承认追求BLG三C",
+        "onboard_time": 1732666758,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126013,
+        "num": 126013,
+        "word": "英雄回家原创MV归",
+        "onboard_time": 1732671196,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123236,
+        "num": 123236,
+        "word": "恒大集团及许家印被限制高消费",
+        "onboard_time": 1732669218,
+        "rank": 44,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 115522,
+        "num": 115522,
+        "word": "十个勤天宣传王一珩我家那小子",
+        "onboard_time": 1732676238,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110468,
+        "num": 110468,
+        "word": "黑龙江一煤矿重大事故调查结果",
+        "onboard_time": 1732676178,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 107267,
+        "num": 107267,
+        "word": "礼兵雪中演练迎志愿军烈士回家",
+        "onboard_time": 1732666939,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 106289,
+        "num": 106289,
+        "word": "当导盲犬来到了迪士尼",
+        "onboard_time": 1732675578,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100841,
+        "num": 100841,
+        "word": "气象部门回应北京为何突然飘雪",
+        "onboard_time": 1732673057,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡国务资政李显龙#"
+    }
+  }
+}

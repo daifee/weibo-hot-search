@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732673539573,
+  "endTime": 1732676653684,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1567201,
+      "num": 1567201,
+      "word": "因果报应 富养女儿",
+      "onboard_time": 1732674919,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1555505,
       "num": 499950,
       "word": "羊毛月 猫一杯",
@@ -249,6 +257,14 @@
       "onboard_time": 1732600580,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1410260,
+      "num": 398409,
+      "word": "我家那小子首发阵容官宣",
+      "onboard_time": 1732674018,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1405916,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1162921,
+      "num": 253435,
+      "word": "电瓶车29楼充电起火致两邻居身亡",
+      "onboard_time": 1732674919,
+      "rank": 11,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1146606,
       "num": 428458,
       "word": "羊毛月道歉",
@@ -483,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1078119,
+      "num": 252141,
+      "word": "重庆火灾",
+      "onboard_time": 1732670298,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1052127,
       "num": 539325,
       "word": "麦琳前保姆爆料",
@@ -497,14 +529,6 @@
       "onboard_time": 1732622899,
       "rank": 10,
       "category": "网红,舆论监督"
-    },
-    {
-      "raw_hot": 1040324,
-      "num": 228897,
-      "word": "重庆火灾",
-      "onboard_time": 1732670298,
-      "rank": 10,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1030851,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 869883,
-      "num": 228071,
+      "num": 250049,
       "word": "陕西16岁走失中学生已确认死亡",
       "onboard_time": 1732671196,
       "rank": 11,
@@ -777,6 +801,14 @@
       "onboard_time": 1732523358,
       "rank": 49,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 837285,
+      "num": 490349,
+      "word": "麦琳穿搭",
+      "onboard_time": 1732672339,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 832438,
@@ -1795,14 +1827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 490349,
-      "num": 490349,
-      "word": "麦琳穿搭",
-      "onboard_time": 1732672339,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 487326,
       "num": 487326,
       "word": "乒超",
@@ -2251,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397570,
+      "num": 397570,
+      "word": "朱芝松被查",
+      "onboard_time": 1732674738,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 396774,
       "num": 412707,
       "word": "麦乱时期的爱情",
@@ -2500,7 +2532,7 @@
     },
     {
       "raw_hot": 357838,
-      "num": 224956,
+      "num": 248522,
       "word": "谈薪把offer谈没了的真实感受",
       "onboard_time": 1732669218,
       "rank": 15,
@@ -3227,6 +3259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274321,
+      "num": 274321,
+      "word": "唐鹤德晒张国荣旧照缅怀",
+      "onboard_time": 1732674080,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273669,
       "num": 273669,
       "word": "田曦薇张凌赫将进组逐玉",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1732586837,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271811,
+      "num": 271811,
+      "word": "羽绒服",
+      "onboard_time": 1732525279,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 271220,
@@ -3419,6 +3467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 257707,
+      "num": 257707,
+      "word": "92岁奶奶比29不到的我气血还足",
+      "onboard_time": 1732669459,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257240,
       "num": 257240,
       "word": "金价又反弹",
@@ -3473,6 +3529,14 @@
       "onboard_time": 1732442599,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253417,
+      "num": 253417,
+      "word": "EXO初雪排名上升",
+      "onboard_time": 1732675398,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 253175,
@@ -4995,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191691,
+      "num": 191691,
+      "word": "46人因黑龙江一煤矿重大事故被处理",
+      "onboard_time": 1732675939,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 191496,
       "num": 326954,
       "word": "羊毛月2天掉粉70万",
@@ -5169,14 +5241,6 @@
       "onboard_time": 1732507099,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186635,
-      "num": 186635,
-      "word": "92岁奶奶比29不到的我气血还足",
-      "onboard_time": 1732669459,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 186598,
@@ -5371,6 +5435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 180293,
+      "num": 177089,
+      "word": "外媒炒作中国无人机威胁翻车",
+      "onboard_time": 1732674559,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180054,
       "num": 316105,
       "word": "当身边人遭家暴我们该怎么办",
@@ -5448,6 +5520,14 @@
       "word": "主播抽象卖包月销超4200万元",
       "onboard_time": 1732520838,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177235,
+      "num": 177235,
+      "word": "骗子用刮刮卡营造期待感",
+      "onboard_time": 1732672398,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -5577,6 +5657,14 @@
       "onboard_time": 1732438160,
       "rank": 30,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 172615,
+      "num": 190753,
+      "word": "Doinb再次怒喷诺夏",
+      "onboard_time": 1732675156,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 172543,
@@ -6067,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158240,
+      "num": 158240,
+      "word": "直播志愿军烈士遗骸回国",
+      "onboard_time": 1732674919,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157823,
       "num": 206668,
       "word": "蔡文静在遇渣男赛道上无敌了",
@@ -6219,6 +6315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155006,
+      "num": 155006,
+      "word": "羽绒服一天一个价",
+      "onboard_time": 1732676298,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154983,
       "num": 154983,
       "word": "院人版晚安大小姐",
@@ -6273,6 +6377,14 @@
       "onboard_time": 1732509801,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152559,
+      "num": 152559,
+      "word": "被广东街头1元1袋剥好皮的橘子硬控",
+      "onboard_time": 1732675758,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 152531,
@@ -6347,6 +6459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151040,
+      "num": 188731,
+      "word": "好运家定档",
+      "onboard_time": 1732675998,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150744,
+      "num": 180250,
+      "word": "王霏霏JYP姚琛孟佳合照",
+      "onboard_time": 1732673599,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150663,
       "num": 150663,
       "word": "闫妮的嫡长闺",
@@ -6417,6 +6545,14 @@
       "onboard_time": 1732621217,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148330,
+      "num": 148330,
+      "word": "李行亮蓝色西装穿了4年",
+      "onboard_time": 1732674919,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 148268,
@@ -6531,6 +6667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145488,
+      "num": 145488,
+      "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
+      "onboard_time": 1732675939,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145469,
       "num": 218425,
       "word": "前体操运动员回应热舞争议",
@@ -6624,6 +6768,14 @@
       "word": "刘宇宁提名金莲花奖",
       "onboard_time": 1732501158,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141805,
+      "num": 141805,
+      "word": "清明上河图密码诡案预告",
+      "onboard_time": 1732676298,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -7011,14 +7163,6 @@
       "category": "体育,互联网"
     },
     {
-      "raw_hot": 131907,
-      "num": 131907,
-      "word": "羽绒服",
-      "onboard_time": 1732525279,
-      "rank": 48,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 131472,
       "num": 323691,
       "word": "中欧即将达成电动汽车关税协议",
@@ -7041,6 +7185,14 @@
       "onboard_time": 1732432937,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130712,
+      "num": 130712,
+      "word": "我学会自己哄自己了",
+      "onboard_time": 1732673718,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 129821,
@@ -7235,6 +7387,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 126013,
+      "num": 126013,
+      "word": "英雄回家原创MV归",
+      "onboard_time": 1732671196,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125941,
       "num": 125941,
       "word": "林更新 本来挺开心的你给整下头了",
@@ -7312,14 +7472,6 @@
       "word": "我国大部今起将先后降6到10度",
       "onboard_time": 1732409656,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124636,
-      "num": 124636,
-      "word": "骗子用刮刮卡营造期待感",
-      "onboard_time": 1732672398,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -7747,6 +7899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116159,
+      "num": 189617,
+      "word": "好运家 一家六口全离婚",
+      "onboard_time": 1732676358,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116115,
       "num": 239958,
       "word": "王楚钦表情管理进步了",
@@ -7793,6 +7953,14 @@
       "onboard_time": 1732545920,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115522,
+      "num": 115522,
+      "word": "十个勤天宣传王一珩我家那小子",
+      "onboard_time": 1732676238,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115408,
@@ -8091,6 +8259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110468,
+      "num": 110468,
+      "word": "黑龙江一煤矿重大事故调查结果",
+      "onboard_time": 1732676178,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 110160,
       "num": 110160,
       "word": "潘展乐签不完根本签不完",
@@ -8259,6 +8435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106289,
+      "num": 106289,
+      "word": "当导盲犬来到了迪士尼",
+      "onboard_time": 1732675578,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 106082,
       "num": 396561,
       "word": "Uzi说想去iG当替补",
@@ -8377,6 +8561,14 @@
       "onboard_time": 1732366520,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100841,
+      "num": 203486,
+      "word": "气象部门回应北京为何突然飘雪",
+      "onboard_time": 1732673057,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100840,
@@ -8545,6 +8737,14 @@
       "onboard_time": 1732393211,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96864,
+      "num": 191302,
+      "word": "张真源低头vs抬眸",
+      "onboard_time": 1732675578,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 96589,
@@ -8745,6 +8945,14 @@
       "onboard_time": 1732458501,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88716,
+      "num": 146340,
+      "word": "姿态回应老头杯表演赛RNG打iG",
+      "onboard_time": 1732673538,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 88698,
@@ -9049,6 +9257,14 @@
       "onboard_time": 1732367421,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80743,
+      "num": 253453,
+      "word": "镇政府回应一村不缴医保不发福利",
+      "onboard_time": 1732676058,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80707,
@@ -9739,14 +9955,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 57270,
-      "num": 203486,
-      "word": "气象部门回应北京为何突然飘雪",
-      "onboard_time": 1732673057,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56994,
       "num": 56994,
       "word": "声生不息大湾区季",
@@ -9788,7 +9996,7 @@
     },
     {
       "raw_hot": 55174,
-      "num": 182925,
+      "num": 187839,
       "word": "陈都灵贝雷帽英伦风",
       "onboard_time": 1732673299,
       "rank": 24,
@@ -11609,6 +11817,14 @@
       "onboard_time": 1732473132,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22486,
+      "num": 176712,
+      "word": "魏大勋 只要不下桌早晚有机会",
+      "onboard_time": 1732675998,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 22300,

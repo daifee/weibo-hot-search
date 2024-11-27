@@ -1,6 +1,6 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732673539573,
+  "endTime": 1732676653684,
   "band_list": [
     {
       "raw_hot": 1733936,
@@ -11,8 +11,32 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1040324,
-      "num": 228897,
+      "raw_hot": 1567201,
+      "num": 1567201,
+      "word": "因果报应 富养女儿",
+      "onboard_time": 1732674919,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1410260,
+      "num": 398409,
+      "word": "我家那小子首发阵容官宣",
+      "onboard_time": 1732674018,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1162921,
+      "num": 253435,
+      "word": "电瓶车29楼充电起火致两邻居身亡",
+      "onboard_time": 1732674919,
+      "rank": 11,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1078119,
+      "num": 252141,
       "word": "重庆火灾",
       "onboard_time": 1732670298,
       "rank": 10,
@@ -28,11 +52,19 @@
     },
     {
       "raw_hot": 869883,
-      "num": 228071,
+      "num": 250049,
       "word": "陕西16岁走失中学生已确认死亡",
       "onboard_time": 1732671196,
       "rank": 11,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 837285,
+      "num": 490349,
+      "word": "麦琳穿搭",
+      "onboard_time": 1732672339,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 821445,
@@ -83,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 490349,
-      "num": 490349,
-      "word": "麦琳穿搭",
-      "onboard_time": 1732672339,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445197,
       "num": 445197,
       "word": "A股",
@@ -107,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 397570,
+      "num": 397570,
+      "word": "朱芝松被查",
+      "onboard_time": 1732674738,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 387253,
       "num": 287491,
       "word": "身份证18位数字分别代表什么",
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 357838,
-      "num": 224956,
+      "num": 248522,
       "word": "谈薪把offer谈没了的真实感受",
       "onboard_time": 1732669218,
       "rank": 15,
@@ -163,12 +195,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274321,
+      "num": 274321,
+      "word": "唐鹤德晒张国荣旧照缅怀",
+      "onboard_time": 1732674080,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271811,
+      "num": 271811,
+      "word": "羽绒服",
+      "onboard_time": 1732673057,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258909,
       "num": 258909,
       "word": "黎以停火协议已被批准",
       "onboard_time": 1732663695,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257707,
+      "num": 257707,
+      "word": "92岁奶奶比29不到的我气血还足",
+      "onboard_time": 1732669459,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 253417,
+      "num": 253417,
+      "word": "EXO初雪排名上升",
+      "onboard_time": 1732675398,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 249818,
@@ -315,6 +379,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 191691,
+      "num": 191691,
+      "word": "46人因黑龙江一煤矿重大事故被处理",
+      "onboard_time": 1732675939,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 190894,
       "num": 190894,
       "word": "伊能静评价再见爱人里的女性角色",
@@ -339,12 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186635,
-      "num": 186635,
-      "word": "92岁奶奶比29不到的我气血还足",
-      "onboard_time": 1732669459,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 180293,
+      "num": 177089,
+      "word": "外媒炒作中国无人机威胁翻车",
+      "onboard_time": 1732674559,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 177235,
+      "num": 177235,
+      "word": "骗子用刮刮卡营造期待感",
+      "onboard_time": 1732672398,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174845,
@@ -353,6 +433,14 @@
       "onboard_time": 1732669218,
       "rank": 29,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 172615,
+      "num": 190753,
+      "word": "Doinb再次怒喷诺夏",
+      "onboard_time": 1732675156,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 166368,
@@ -371,12 +459,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158240,
+      "num": 158240,
+      "word": "直播志愿军烈士遗骸回国",
+      "onboard_time": 1732674919,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157002,
       "num": 157002,
       "word": "46周岁以上居民身份证长期有效",
       "onboard_time": 1732671738,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155006,
+      "num": 155006,
+      "word": "羽绒服一天一个价",
+      "onboard_time": 1732676298,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 152559,
+      "num": 152559,
+      "word": "被广东街头1元1袋剥好皮的橘子硬控",
+      "onboard_time": 1732675758,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 151040,
+      "num": 188731,
+      "word": "好运家定档",
+      "onboard_time": 1732675998,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150744,
+      "num": 180250,
+      "word": "王霏霏JYP姚琛孟佳合照",
+      "onboard_time": 1732673599,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 150622,
@@ -387,12 +515,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148330,
+      "num": 148330,
+      "word": "李行亮蓝色西装穿了4年",
+      "onboard_time": 1732674919,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145488,
+      "num": 145488,
+      "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
+      "onboard_time": 1732675939,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142828,
       "num": 142828,
       "word": "曼城3比3费耶诺德",
       "onboard_time": 1732663876,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141805,
+      "num": 141805,
+      "word": "清明上河图密码诡案预告",
+      "onboard_time": 1732676298,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 140748,
@@ -419,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131907,
-      "num": 131907,
-      "word": "羽绒服",
-      "onboard_time": 1732673057,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 130712,
+      "num": 130712,
+      "word": "我学会自己哄自己了",
+      "onboard_time": 1732673718,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 128012,
@@ -451,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126013,
+      "num": 126013,
+      "word": "英雄回家原创MV归",
+      "onboard_time": 1732671196,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125772,
       "num": 125772,
       "word": "捐赠相册美国小伙计划长期留在中国",
@@ -475,14 +635,6 @@
       "category": "财经,动漫"
     },
     {
-      "raw_hot": 124636,
-      "num": 124636,
-      "word": "骗子用刮刮卡营造期待感",
-      "onboard_time": 1732672398,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119957,
       "num": 119957,
       "word": "孙悦说时间是个好东西",
@@ -499,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116159,
+      "num": 189617,
+      "word": "好运家 一家六口全离婚",
+      "onboard_time": 1732676358,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115925,
       "num": 115925,
       "word": "赵露思横店甜品店闭店",
       "onboard_time": 1732624698,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115522,
+      "num": 115522,
+      "word": "十个勤天宣传王一珩我家那小子",
+      "onboard_time": 1732676238,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 111920,
@@ -521,6 +689,14 @@
       "onboard_time": 1732615039,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110468,
+      "num": 110468,
+      "word": "黑龙江一煤矿重大事故调查结果",
+      "onboard_time": 1732676178,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 109186,
@@ -547,12 +723,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106289,
+      "num": 106289,
+      "word": "当导盲犬来到了迪士尼",
+      "onboard_time": 1732675578,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 104419,
       "num": 104419,
       "word": "丁禹兮壁纸",
       "onboard_time": 1732633639,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100841,
+      "num": 203486,
+      "word": "气象部门回应北京为何突然飘雪",
+      "onboard_time": 1732673057,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100777,
@@ -577,6 +769,14 @@
       "onboard_time": 1732665376,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96864,
+      "num": 191302,
+      "word": "张真源低头vs抬眸",
+      "onboard_time": 1732675578,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 95403,
@@ -625,6 +825,14 @@
       "onboard_time": 1732617439,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88716,
+      "num": 146340,
+      "word": "姿态回应老头杯表演赛RNG打iG",
+      "onboard_time": 1732673538,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 88585,
@@ -681,6 +889,14 @@
       "onboard_time": 1732671439,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80743,
+      "num": 253453,
+      "word": "镇政府回应一村不缴医保不发福利",
+      "onboard_time": 1732676058,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80330,
@@ -811,16 +1027,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57270,
-      "num": 203486,
-      "word": "气象部门回应北京为何突然飘雪",
-      "onboard_time": 1732673057,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55174,
-      "num": 182925,
+      "num": 187839,
       "word": "陈都灵贝雷帽英伦风",
       "onboard_time": 1732673299,
       "rank": 24,
@@ -1001,6 +1209,14 @@
       "onboard_time": 1732642032,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 22486,
+      "num": 176712,
+      "word": "魏大勋 只要不下桌早晚有机会",
+      "onboard_time": 1732675998,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 21463,
