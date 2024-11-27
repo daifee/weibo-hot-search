@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732706437704,
+  "endTime": 1732707357490,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -265,6 +265,14 @@
       "onboard_time": 1732623558,
       "rank": 3,
       "category": "网红,舆论监督"
+    },
+    {
+      "raw_hot": 1521733,
+      "num": 1521733,
+      "word": "28岁女孩在烂尾楼里有个家",
+      "onboard_time": 1732704379,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1499115,
@@ -616,14 +624,6 @@
       "word": "女子用生理盐水假冒HPV疫苗诈骗百余人",
       "onboard_time": 1732675939,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1019905,
-      "num": 1019905,
-      "word": "28岁女孩在烂尾楼里有个家",
-      "onboard_time": 1732704379,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1867,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558016,
+      "num": 492540,
+      "word": "蒋敦豪直播完就走了",
+      "onboard_time": 1732705159,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557398,
       "num": 417340,
       "word": "虞书欣确认出席尖叫之夜",
@@ -2155,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487179,
+      "num": 487179,
+      "word": "李行亮说家里卫生请保洁",
+      "onboard_time": 1732705579,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486825,
       "num": 486825,
       "word": "经济学家预计2026年房地产拐点出现",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1732437499,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456163,
-      "num": 456163,
-      "word": "蒋敦豪直播完就走了",
-      "onboard_time": 1732705159,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 452321,
@@ -3523,14 +3531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 299009,
-      "num": 203570,
-      "word": "李行亮说家里卫生请保洁",
-      "onboard_time": 1732705579,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298906,
       "num": 298906,
       "word": "谁在冬天减肥",
@@ -3585,6 +3585,14 @@
       "onboard_time": 1732680860,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 291554,
+      "num": 291554,
+      "word": "于东来公布胖东来经营情况",
+      "onboard_time": 1732705098,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 291195,
@@ -3993,6 +4001,14 @@
       "onboard_time": 1732598599,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258733,
+      "num": 292179,
+      "word": "宋慧乔泳装照",
+      "onboard_time": 1732706540,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258656,
@@ -5843,6 +5859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 191142,
+      "num": 191142,
+      "word": "2号房只剩何浩楠了",
+      "onboard_time": 1732705278,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191128,
       "num": 191128,
       "word": "肖战MV不要回头",
@@ -6107,14 +6131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186076,
-      "num": 186076,
-      "word": "2号房只剩何浩楠了",
-      "onboard_time": 1732705278,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185734,
       "num": 185734,
       "word": "地狱级难度的停车位长什么样",
@@ -6201,14 +6217,6 @@
       "onboard_time": 1732681762,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183489,
-      "num": 183489,
-      "word": "于东来公布胖东来经营情况",
-      "onboard_time": 1732705098,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 183107,
@@ -6817,6 +6825,14 @@
       "onboard_time": 1732452860,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 167246,
+      "num": 495356,
+      "word": "英雄回祖国",
+      "onboard_time": 1732706118,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166911,
@@ -7483,6 +7499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151740,
+      "num": 213624,
+      "word": "阿娇永夜星河vlog",
+      "onboard_time": 1732705579,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151666,
       "num": 310654,
       "word": "时空中的绘旅人",
@@ -7545,6 +7569,14 @@
       "onboard_time": 1732522459,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150275,
+      "num": 150275,
+      "word": "俄公布乌军发射的美制导弹被击落后画面",
+      "onboard_time": 1732705998,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150226,
@@ -7923,14 +7955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141118,
-      "num": 141118,
-      "word": "英雄回祖国",
-      "onboard_time": 1732706118,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 141086,
       "num": 141086,
       "word": "白鹿绿衣路透",
@@ -7961,6 +7985,14 @@
       "onboard_time": 1732620139,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140808,
+      "num": 476198,
+      "word": "潘展乐演讲稿",
+      "onboard_time": 1732704979,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 140522,
@@ -8531,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127723,
+      "num": 127723,
+      "word": "我是刑警 凭尸体找到大案凶手",
+      "onboard_time": 1732706779,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127285,
       "num": 127285,
       "word": "网易雷火多名员工被处罚",
@@ -8875,6 +8915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122246,
+      "num": 122246,
+      "word": "这一碰外卖小哥和保安都笑了",
+      "onboard_time": 1732706418,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122073,
       "num": 122073,
       "word": "优酷放了白鹿泪洒奔跑吧片段",
@@ -9057,14 +9105,6 @@
       "onboard_time": 1732625358,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118687,
-      "num": 476198,
-      "word": "潘展乐演讲稿",
-      "onboard_time": 1732704979,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 118534,
@@ -9385,14 +9425,6 @@
       "onboard_time": 1732627220,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113878,
-      "num": 113878,
-      "word": "俄公布乌军发射的美制导弹被击落后画面",
-      "onboard_time": 1732705998,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113708,
@@ -10259,6 +10291,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 93290,
+      "num": 93290,
+      "word": "金敏喜洪尚秀现身京畿道街头",
+      "onboard_time": 1732707318,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92959,
       "num": 92959,
       "word": "支持纯血鸿蒙机型不会推送鸿蒙4.3",
@@ -10305,14 +10345,6 @@
       "onboard_time": 1732636697,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90712,
-      "num": 90712,
-      "word": "这一碰外卖小哥和保安都笑了",
-      "onboard_time": 1732706418,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89997,
@@ -10699,6 +10731,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 80524,
+      "num": 302358,
+      "word": "关宏峰到三边坡了",
+      "onboard_time": 1732707199,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80330,
       "num": 80330,
       "word": "好东西票房破2亿",
@@ -11051,6 +11091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67089,
+      "num": 371083,
+      "word": "杂技演员表演时高坠家人称仍在监护室",
+      "onboard_time": 1732706239,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66930,
       "num": 532886,
       "word": "一人一句祝贺王楚钦夺冠",
@@ -11169,14 +11217,6 @@
       "onboard_time": 1732558872,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64144,
-      "num": 213624,
-      "word": "阿娇永夜星河vlog",
-      "onboard_time": 1732705579,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 64028,
@@ -11619,6 +11659,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 54183,
+      "num": 187094,
+      "word": "Faker直播曝四强时感冒了",
+      "onboard_time": 1732702819,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54117,
       "num": 191223,
       "word": "刘连舸一审被判死缓",
@@ -11913,6 +11961,14 @@
       "onboard_time": 1732521858,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47129,
+      "num": 135613,
+      "word": "苏新皓 做了一杯颜色很好看的饮料",
+      "onboard_time": 1732707258,
+      "rank": 39,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 47096,
@@ -12737,14 +12793,6 @@
       "onboard_time": 1732619478,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 33063,
-      "num": 326921,
-      "word": "杂技演员表演时高坠家人称仍在监护室",
-      "onboard_time": 1732706239,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33036,
@@ -13907,6 +13955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15895,
+      "num": 211702,
+      "word": "贾樟柯说自己是AI迷",
+      "onboard_time": 1732705518,
+      "rank": 19,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 15710,
       "num": 199152,
       "word": "好东西是进化后的小妞电影",
@@ -13929,14 +13985,6 @@
       "onboard_time": 1732538241,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15346,
-      "num": 211702,
-      "word": "贾樟柯说自己是AI迷",
-      "onboard_time": 1732705518,
-      "rank": 19,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 15316,
@@ -14299,7 +14347,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9222,
+      "raw_hot": 9949,
       "num": 204541,
       "word": "石云鹏说向鹏飞比他简单直接多了",
       "onboard_time": 1732705759,

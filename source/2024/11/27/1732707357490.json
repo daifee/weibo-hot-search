@@ -1,0 +1,410 @@
+{
+  "runTime": 1732707357490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1521733,
+        "num": 1521733,
+        "word": "28岁女孩在烂尾楼里有个家",
+        "onboard_time": 1732704379,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009428,
+        "num": 1009428,
+        "word": "名校生与离异女服务员结婚推其坠海骗保",
+        "onboard_time": 1732702878,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47236,
+        "num": 714185,
+        "word": "供应链的发展如何改变我们的生活",
+        "onboard_time": 1732695618,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1284245,
+        "num": 703922,
+        "word": "妻子坠海身亡后不久他在酒店招嫖",
+        "onboard_time": 1732696638,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619318,
+        "num": 619318,
+        "word": "种地吧第三季少人",
+        "onboard_time": 1732686618,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575975,
+        "num": 575975,
+        "word": "吃火锅意外入镜直播间获赔500元",
+        "onboard_time": 1732695438,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558165,
+        "num": 558165,
+        "word": "浪姐6",
+        "onboard_time": 1732698138,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531759,
+        "num": 531759,
+        "word": "肇庆一殡仪馆用炖盅当骨灰瓮",
+        "onboard_time": 1732699158,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344917,
+        "num": 507118,
+        "word": "月经碟",
+        "onboard_time": 1732700178,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167246,
+        "num": 495356,
+        "word": "英雄回祖国",
+        "onboard_time": 1732706118,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 558016,
+        "num": 492540,
+        "word": "蒋敦豪直播完就走了",
+        "onboard_time": 1732705159,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487179,
+        "num": 487179,
+        "word": "李行亮说家里卫生请保洁",
+        "onboard_time": 1732705579,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381610,
+        "num": 381610,
+        "word": "王一博清华大学海报",
+        "onboard_time": 1732698978,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67089,
+        "num": 371083,
+        "word": "杂技演员表演时高坠家人称仍在监护室",
+        "onboard_time": 1732706239,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366639,
+        "num": 366639,
+        "word": "大冰被狗拖走",
+        "onboard_time": 1732684879,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 356578,
+        "num": 356578,
+        "word": "迪丽热巴 ELLE",
+        "onboard_time": 1732700899,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315088,
+        "num": 315088,
+        "word": "朱正廷 种地吧",
+        "onboard_time": 1732689021,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80524,
+        "num": 302358,
+        "word": "关宏峰到三边坡了",
+        "onboard_time": 1732707199,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258733,
+        "num": 292179,
+        "word": "宋慧乔泳装照",
+        "onboard_time": 1732706540,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291554,
+        "num": 291554,
+        "word": "于东来公布胖东来经营情况",
+        "onboard_time": 1732705098,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247221,
+        "num": 247221,
+        "word": "李行亮让留几手别忽视父亲的作用",
+        "onboard_time": 1732695019,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203634,
+        "num": 203634,
+        "word": "我是刑警一集下线12个人",
+        "onboard_time": 1732704438,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198380,
+        "num": 198380,
+        "word": "李子柒烟台学非遗烙葫芦",
+        "onboard_time": 1732704617,
+        "rank": 22,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 191142,
+        "num": 191142,
+        "word": "2号房只剩何浩楠了",
+        "onboard_time": 1732705278,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54183,
+        "num": 187094,
+        "word": "Faker直播曝四强时感冒了",
+        "onboard_time": 1732702819,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15895,
+        "num": 185644,
+        "word": "贾樟柯说自己是AI迷",
+        "onboard_time": 1732705518,
+        "rank": 25,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 185592,
+        "num": 185592,
+        "word": "医院两万多个预约号去哪了",
+        "onboard_time": 1732694959,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 181724,
+        "num": 181724,
+        "word": "谁在冬天减肥",
+        "onboard_time": 1732694418,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 174510,
+        "num": 174510,
+        "word": "种地吧直播",
+        "onboard_time": 1732683020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9949,
+        "num": 173731,
+        "word": "石云鹏说向鹏飞比他简单直接多了",
+        "onboard_time": 1732705759,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173317,
+        "num": 173317,
+        "word": "男子为骗保把妻子推下轮船坠海身亡",
+        "onboard_time": 1732691238,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171010,
+        "num": 171010,
+        "word": "陈鑫海第一部古装男主剧",
+        "onboard_time": 1732705998,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169010,
+        "num": 169010,
+        "word": "推妻入海骗保男子有19岁在校情人",
+        "onboard_time": 1732702758,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168955,
+        "num": 168955,
+        "word": "阿米尔汗买下因果报应版权",
+        "onboard_time": 1732699639,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151740,
+        "num": 151740,
+        "word": "阿娇永夜星河vlog",
+        "onboard_time": 1732705579,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150275,
+        "num": 150275,
+        "word": "俄公布乌军发射的美制导弹被击落后画面",
+        "onboard_time": 1732705998,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143123,
+        "num": 143123,
+        "word": "老师用三角尺砸伤女童获刑5年",
+        "onboard_time": 1732690519,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138426,
+        "num": 141805,
+        "word": "李昊27岁已经热爱港乐25年了",
+        "onboard_time": 1732703959,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140808,
+        "num": 140808,
+        "word": "潘展乐演讲稿",
+        "onboard_time": 1732704979,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47129,
+        "num": 135613,
+        "word": "苏新皓 做了一杯颜色很好看的饮料",
+        "onboard_time": 1732707258,
+        "rank": 39,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 133879,
+        "num": 133879,
+        "word": "羽绒服涨价与猪有关",
+        "onboard_time": 1732696399,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127723,
+        "num": 127723,
+        "word": "我是刑警 凭尸体找到大案凶手",
+        "onboard_time": 1732706779,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124432,
+        "num": 124432,
+        "word": "立白集团回应经理招聘女生做情人",
+        "onboard_time": 1732687578,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122246,
+        "num": 122246,
+        "word": "这一碰外卖小哥和保安都笑了",
+        "onboard_time": 1732706418,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114005,
+        "num": 114005,
+        "word": "张元英朴成训KBS二搭",
+        "onboard_time": 1732704078,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111842,
+        "num": 111842,
+        "word": "K80",
+        "onboard_time": 1732699639,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111415,
+        "num": 111415,
+        "word": "ON回应世界赛Q空",
+        "onboard_time": 1732701619,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106389,
+        "num": 106389,
+        "word": "顾客意外入镜店家直播间索赔获支持",
+        "onboard_time": 1732701440,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96602,
+        "num": 96602,
+        "word": "Faker看Knight出装就觉得赢了",
+        "onboard_time": 1732693698,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93290,
+        "num": 93290,
+        "word": "金敏喜洪尚秀现身京畿道街头",
+        "onboard_time": 1732707318,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}

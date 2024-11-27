@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732706437704,
+  "endTime": 1732707357490,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2489,6 +2489,14 @@
       "onboard_time": 1731044660,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1521733,
+      "num": 1521733,
+      "word": "28岁女孩在烂尾楼里有个家",
+      "onboard_time": 1732704379,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1516524,
@@ -5529,14 +5537,6 @@
       "onboard_time": 1731046340,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1019905,
-      "num": 1019905,
-      "word": "28岁女孩在烂尾楼里有个家",
-      "onboard_time": 1732704379,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1019861,
@@ -13931,6 +13931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558016,
+      "num": 492540,
+      "word": "蒋敦豪直播完就走了",
+      "onboard_time": 1732705159,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557398,
       "num": 417340,
       "word": "虞书欣确认出席尖叫之夜",
@@ -16371,6 +16379,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 487179,
+      "num": 487179,
+      "word": "李行亮说家里卫生请保洁",
+      "onboard_time": 1732705579,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486825,
       "num": 486825,
       "word": "经济学家预计2026年房地产拐点出现",
@@ -17481,14 +17497,6 @@
       "onboard_time": 1732437499,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456163,
-      "num": 456163,
-      "word": "蒋敦豪直播完就走了",
-      "onboard_time": 1732705159,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 456050,
@@ -25403,14 +25411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299009,
-      "num": 203570,
-      "word": "李行亮说家里卫生请保洁",
-      "onboard_time": 1732705579,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298906,
       "num": 298906,
       "word": "谁在冬天减肥",
@@ -25889,6 +25889,14 @@
       "onboard_time": 1731935541,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291554,
+      "num": 291554,
+      "word": "于东来公布胖东来经营情况",
+      "onboard_time": 1732705098,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 291435,
@@ -28785,6 +28793,14 @@
       "onboard_time": 1732598599,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258733,
+      "num": 292179,
+      "word": "宋慧乔泳装照",
+      "onboard_time": 1732706540,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258656,
@@ -40451,6 +40467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191142,
+      "num": 191142,
+      "word": "2号房只剩何浩楠了",
+      "onboard_time": 1732705278,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191128,
       "num": 191128,
       "word": "老师在操场踢倒学生扇另一学生头",
@@ -41971,14 +41995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186076,
-      "num": 186076,
-      "word": "2号房只剩何浩楠了",
-      "onboard_time": 1732705278,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186068,
       "num": 186068,
       "word": "小雪到了",
@@ -42689,14 +42705,6 @@
       "onboard_time": 1730975423,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183489,
-      "num": 183489,
-      "word": "于东来公布胖东来经营情况",
-      "onboard_time": 1732705098,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 183401,
@@ -47033,6 +47041,14 @@
       "onboard_time": 1730971340,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167246,
+      "num": 495356,
+      "word": "英雄回祖国",
+      "onboard_time": 1732706118,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167236,
@@ -51915,6 +51931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151740,
+      "num": 213624,
+      "word": "阿娇永夜星河vlog",
+      "onboard_time": 1732705579,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151690,
       "num": 151690,
       "word": "最终幻想14水晶世界",
@@ -52385,6 +52409,14 @@
       "onboard_time": 1732080921,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150275,
+      "num": 150275,
+      "word": "俄公布乌军发射的美制导弹被击落后画面",
+      "onboard_time": 1732705998,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150226,
@@ -55131,14 +55163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141118,
-      "num": 141118,
-      "word": "英雄回祖国",
-      "onboard_time": 1732706118,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 141105,
       "num": 215024,
       "word": "奥斯卡参加TVB台庆",
@@ -55241,6 +55265,14 @@
       "onboard_time": 1732620139,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140808,
+      "num": 476198,
+      "word": "潘展乐演讲稿",
+      "onboard_time": 1732704979,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 140756,
@@ -58987,6 +59019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127723,
+      "num": 127723,
+      "word": "我是刑警 凭尸体找到大案凶手",
+      "onboard_time": 1732706779,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127653,
       "num": 528323,
       "word": "恩波格斗称会发公告",
@@ -60659,6 +60699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122246,
+      "num": 122246,
+      "word": "这一碰外卖小哥和保安都笑了",
+      "onboard_time": 1732706418,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122240,
       "num": 122240,
       "word": "不讨好的勇气 爹味男友",
@@ -61705,14 +61753,6 @@
       "onboard_time": 1730869586,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 118687,
-      "num": 476198,
-      "word": "潘展乐演讲稿",
-      "onboard_time": 1732704979,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 118657,
@@ -63001,14 +63041,6 @@
       "onboard_time": 1732627220,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113878,
-      "num": 113878,
-      "word": "俄公布乌军发射的美制导弹被击落后画面",
-      "onboard_time": 1732705998,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113877,
@@ -67427,6 +67459,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 93290,
+      "num": 93290,
+      "word": "金敏喜洪尚秀现身京畿道街头",
+      "onboard_time": 1732707318,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93231,
       "num": 413891,
       "word": "小伙初次去女友家买到两条假烟",
@@ -67801,14 +67841,6 @@
       "onboard_time": 1731579921,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 90712,
-      "num": 90712,
-      "word": "这一碰外卖小哥和保安都笑了",
-      "onboard_time": 1732706418,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90694,
@@ -69681,6 +69713,14 @@
       "onboard_time": 1731243619,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80524,
+      "num": 302358,
+      "word": "关宏峰到三边坡了",
+      "onboard_time": 1732707199,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 80455,
@@ -72099,6 +72139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67089,
+      "num": 371083,
+      "word": "杂技演员表演时高坠家人称仍在监护室",
+      "onboard_time": 1732706239,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67047,
       "num": 352927,
       "word": "8K镜头看中国航展帅气值满分",
@@ -72777,14 +72825,6 @@
       "onboard_time": 1732558872,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64144,
-      "num": 213624,
-      "word": "阿娇永夜星河vlog",
-      "onboard_time": 1732705579,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 64091,
@@ -75395,6 +75435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 54183,
+      "num": 187094,
+      "word": "Faker直播曝四强时感冒了",
+      "onboard_time": 1732702819,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54176,
       "num": 514080,
       "word": "王曼昱陈幸同会师决赛",
@@ -77337,6 +77385,14 @@
       "onboard_time": 1731651919,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47129,
+      "num": 135613,
+      "word": "苏新皓 做了一杯颜色很好看的饮料",
+      "onboard_time": 1732707258,
+      "rank": 39,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 47100,
@@ -82505,14 +82561,6 @@
       "onboard_time": 1730446579,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 33063,
-      "num": 326921,
-      "word": "杂技演员表演时高坠家人称仍在监护室",
-      "onboard_time": 1732706239,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33038,
@@ -90131,6 +90179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15895,
+      "num": 211702,
+      "word": "贾樟柯说自己是AI迷",
+      "onboard_time": 1732705518,
+      "rank": 19,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 15835,
       "num": 259979,
       "word": "女浴室藏摄像头羽毛球馆负责人被控制",
@@ -90321,14 +90377,6 @@
       "onboard_time": 1731995181,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 15346,
-      "num": 211702,
-      "word": "贾樟柯说自己是AI迷",
-      "onboard_time": 1732705518,
-      "rank": 19,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 15328,
@@ -92427,6 +92475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9949,
+      "num": 204541,
+      "word": "石云鹏说向鹏飞比他简单直接多了",
+      "onboard_time": 1732705759,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 9895,
       "num": 523647,
       "word": "一组知识帖助你了解G20",
@@ -92553,14 +92609,6 @@
       "onboard_time": 1732084160,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 9222,
-      "num": 204541,
-      "word": "石云鹏说向鹏飞比他简单直接多了",
-      "onboard_time": 1732705759,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 9139,
