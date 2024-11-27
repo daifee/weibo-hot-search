@@ -1,0 +1,410 @@
+{
+  "runTime": 1732672181236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 972949,
+        "num": 1155671,
+        "word": "提前还房贷的人后悔了吗",
+        "onboard_time": 1732661714,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821445,
+        "num": 821445,
+        "word": "原来买羽绒服不能只看含绒量",
+        "onboard_time": 1732667719,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49127,
+        "num": 553635,
+        "word": "中国天眼发现脉冲星已超1000颗",
+        "onboard_time": 1732626859,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337889,
+        "num": 337889,
+        "word": "初雪",
+        "onboard_time": 1732631240,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287491,
+        "num": 287491,
+        "word": "身份证18位数字分别代表什么",
+        "onboard_time": 1732670298,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 258909,
+        "num": 258909,
+        "word": "黎以停火协议已被批准",
+        "onboard_time": 1732663695,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252492,
+        "num": 252492,
+        "word": "男子跑半马提前庆祝被绝地反超",
+        "onboard_time": 1732669279,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 241257,
+        "num": 241257,
+        "word": "虞书欣还原凌妙妙小碎步",
+        "onboard_time": 1732667719,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236893,
+        "num": 236893,
+        "word": "北京下雪",
+        "onboard_time": 1732626200,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229363,
+        "num": 229363,
+        "word": "金泰亨更新",
+        "onboard_time": 1732666640,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040324,
+        "num": 228897,
+        "word": "重庆火灾",
+        "onboard_time": 1732670298,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 869883,
+        "num": 228071,
+        "word": "陕西16岁走失中学生已确认死亡",
+        "onboard_time": 1732671196,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 808139,
+        "num": 227258,
+        "word": "家长称15岁女儿遭多次霸凌孕期被砍伤",
+        "onboard_time": 1732670658,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369750,
+        "num": 226480,
+        "word": "万国鹏回应曾追求张予曦",
+        "onboard_time": 1732671918,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132348,
+        "num": 225666,
+        "word": "大冰停播43天后复播",
+        "onboard_time": 1732633819,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355033,
+        "num": 224956,
+        "word": "谈薪把offer谈没了的真实感受",
+        "onboard_time": 1732669218,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96216,
+        "num": 223338,
+        "word": "谷子经济彻底火了",
+        "onboard_time": 1732670897,
+        "rank": 16,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 28687,
+        "num": 222679,
+        "word": "王一博嘉人花絮视频",
+        "onboard_time": 1732665436,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 71266,
+        "num": 221501,
+        "word": "新一澄清与Doinb决裂",
+        "onboard_time": 1732663876,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302105,
+        "num": 221080,
+        "word": "JDG老板承认追求BLG三C",
+        "onboard_time": 1732666758,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249818,
+        "num": 219776,
+        "word": "瘦30斤才敢说的大实话",
+        "onboard_time": 1732663876,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 127024,
+        "num": 218925,
+        "word": "文俊辉MV镜头",
+        "onboard_time": 1732669698,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218815,
+        "num": 218815,
+        "word": "韩东君赛车是救过你的命吧",
+        "onboard_time": 1732669998,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63351,
+        "num": 214863,
+        "word": "剑网3 团长",
+        "onboard_time": 1732671439,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45970,
+        "num": 212470,
+        "word": "以丝代绒背后羽绒服的价格困境",
+        "onboard_time": 1732672098,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211631,
+        "num": 211631,
+        "word": "养女防老正成为农村养老新现象",
+        "onboard_time": 1732629800,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210897,
+        "num": 210897,
+        "word": "礼兵雪中演练迎志愿军烈士回家",
+        "onboard_time": 1732666939,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 190133,
+        "num": 190133,
+        "word": "疑似麦琳解散李行亮核心粉丝群",
+        "onboard_time": 1732642814,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128012,
+        "num": 177924,
+        "word": "鹿晗领衔的音乐节如何带火佛山",
+        "onboard_time": 1732668319,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174845,
+        "num": 174845,
+        "word": "恒大集团及许家印被限制高消费",
+        "onboard_time": 1732669218,
+        "rank": 29,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 172013,
+        "num": 172013,
+        "word": "92岁奶奶比29不到的我气血还足",
+        "onboard_time": 1732669459,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157002,
+        "num": 157002,
+        "word": "46周岁以上居民身份证长期有效",
+        "onboard_time": 1732671738,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150012,
+        "num": 150012,
+        "word": "938位在韩志愿军烈士10年回家路",
+        "onboard_time": 1732632139,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20381,
+        "num": 148201,
+        "word": "鹭卓暖暖的",
+        "onboard_time": 1732671677,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146604,
+        "num": 146604,
+        "word": "鹅绒一吨100多万羽绒制品非贵即假",
+        "onboard_time": 1732638976,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132708,
+        "num": 132708,
+        "word": "男子不顾孩子哀求家暴妻子",
+        "onboard_time": 1732647071,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125637,
+        "num": 125637,
+        "word": "黎以停火协议今日10时生效",
+        "onboard_time": 1732664836,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119891,
+        "num": 119891,
+        "word": "黑龙江鹤岗降雪破纪录",
+        "onboard_time": 1732666339,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110995,
+        "num": 110995,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1732625358,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109186,
+        "num": 109186,
+        "word": "警方介入婴儿住月子中心骨折",
+        "onboard_time": 1732670477,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 106634,
+        "num": 106634,
+        "word": "JDG和WBG邀请朱开执教",
+        "onboard_time": 1732669218,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103940,
+        "num": 103940,
+        "word": "富商去世非婚生女继承总遗产80%",
+        "onboard_time": 1732617619,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100777,
+        "num": 100777,
+        "word": "沈阳初雪迎志愿军烈士遗骸回国",
+        "onboard_time": 1732653911,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98099,
+        "num": 98099,
+        "word": "首尔初雪",
+        "onboard_time": 1732665376,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95403,
+        "num": 95403,
+        "word": "大冰连线",
+        "onboard_time": 1732671738,
+        "rank": 44,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 94779,
+        "num": 94779,
+        "word": "张凌赫田曦薇 平番",
+        "onboard_time": 1732625719,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94013,
+        "num": 94013,
+        "word": "内鱼在逃小仙女永久禁言",
+        "onboard_time": 1732636096,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92959,
+        "num": 92959,
+        "word": "支持纯血鸿蒙机型不会推送鸿蒙4.3",
+        "onboard_time": 1732669519,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85649,
+        "num": 85649,
+        "word": "伊能静评价再见爱人里的女性角色",
+        "onboard_time": 1732623377,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85637,
+        "num": 85637,
+        "word": "男子驾车撞伤一行人逃逸时又撞3人",
+        "onboard_time": 1732672158,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新加坡国务资政李显龙#"
+    }
+  }
+}

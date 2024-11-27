@@ -1,13 +1,45 @@
 {
   "startTime": 1732638669319,
-  "endTime": 1732664282591,
+  "endTime": 1732672181236,
   "band_list": [
     {
-      "raw_hot": 873523,
-      "num": 957281,
+      "raw_hot": 1040324,
+      "num": 228897,
+      "word": "重庆火灾",
+      "onboard_time": 1732670298,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 972949,
+      "num": 1155671,
       "word": "提前还房贷的人后悔了吗",
       "onboard_time": 1732661714,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 869883,
+      "num": 228071,
+      "word": "陕西16岁走失中学生已确认死亡",
+      "onboard_time": 1732671196,
+      "rank": 11,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 821445,
+      "num": 821445,
+      "word": "原来买羽绒服不能只看含绒量",
+      "onboard_time": 1732667719,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 808139,
+      "num": 227258,
+      "word": "家长称15岁女儿遭多次霸凌孕期被砍伤",
+      "onboard_time": 1732670658,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -36,7 +68,7 @@
     },
     {
       "raw_hot": 490419,
-      "num": 161307,
+      "num": 211631,
       "word": "养女防老正成为农村养老新现象",
       "onboard_time": 1732629800,
       "rank": 27,
@@ -49,6 +81,22 @@
       "onboard_time": 1732633819,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 369750,
+      "num": 226480,
+      "word": "万国鹏回应曾追求张予曦",
+      "onboard_time": 1732671918,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355033,
+      "num": 224956,
+      "word": "谈薪把offer谈没了的真实感受",
+      "onboard_time": 1732669218,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 332556,
@@ -67,6 +115,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 302105,
+      "num": 221080,
+      "word": "JDG老板承认追求BLG三C",
+      "onboard_time": 1732666758,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 287491,
+      "num": 287491,
+      "word": "身份证18位数字分别代表什么",
+      "onboard_time": 1732670298,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 275583,
       "num": 242251,
       "word": "赵露思新剧依然是自己化妆",
@@ -75,12 +139,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258909,
+      "num": 258909,
+      "word": "黎以停火协议已被批准",
+      "onboard_time": 1732663695,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 252492,
+      "num": 252492,
+      "word": "男子跑半马提前庆祝被绝地反超",
+      "onboard_time": 1732669279,
+      "rank": 6,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 249818,
+      "num": 219776,
+      "word": "瘦30斤才敢说的大实话",
+      "onboard_time": 1732663876,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 244407,
       "num": 244407,
       "word": "北京下雪",
       "onboard_time": 1732626200,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241257,
+      "num": 241257,
+      "word": "虞书欣还原凌妙妙小碎步",
+      "onboard_time": 1732667719,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 239598,
@@ -115,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229363,
+      "num": 229363,
+      "word": "金泰亨更新",
+      "onboard_time": 1732666640,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224884,
       "num": 197516,
       "word": "权志龙头巾",
@@ -128,6 +232,14 @@
       "word": "52岁TVB演员戴耀明餐厅打工",
       "onboard_time": 1732621878,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218815,
+      "num": 218815,
+      "word": "韩东君赛车是救过你的命吧",
+      "onboard_time": 1732669998,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -155,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210897,
+      "num": 210897,
+      "word": "礼兵雪中演练迎志愿军烈士回家",
+      "onboard_time": 1732666939,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 206260,
       "num": 192857,
       "word": "张凌赫田曦薇 平番",
@@ -179,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190133,
+      "num": 190133,
+      "word": "疑似麦琳解散李行亮核心粉丝群",
+      "onboard_time": 1732642814,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187417,
       "num": 187417,
       "word": "邱贻可吃上黑天鹅蛋糕了",
@@ -187,12 +315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174250,
-      "num": 174250,
-      "word": "黎以停火协议已被批准",
-      "onboard_time": 1732663695,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 174845,
+      "num": 174845,
+      "word": "恒大集团及许家印被限制高消费",
+      "onboard_time": 1732669218,
+      "rank": 29,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 172013,
+      "num": 172013,
+      "word": "92岁奶奶比29不到的我气血还足",
+      "onboard_time": 1732669459,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 166368,
@@ -209,6 +345,22 @@
       "onboard_time": 1732647071,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157002,
+      "num": 157002,
+      "word": "46周岁以上居民身份证长期有效",
+      "onboard_time": 1732671738,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150012,
+      "num": 150012,
+      "word": "938位在韩志愿军烈士10年回家路",
+      "onboard_time": 1732632139,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142828,
@@ -243,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128012,
+      "num": 177924,
+      "word": "鹿晗领衔的音乐节如何带火佛山",
+      "onboard_time": 1732668319,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127773,
       "num": 127773,
       "word": "欧冠",
       "onboard_time": 1732663876,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127024,
+      "num": 218925,
+      "word": "文俊辉MV镜头",
+      "onboard_time": 1732669698,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 125772,
@@ -259,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125637,
+      "num": 125637,
+      "word": "黎以停火协议今日10时生效",
+      "onboard_time": 1732664836,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119957,
       "num": 119957,
       "word": "孙悦说时间是个好东西",
@@ -267,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119891,
+      "num": 119891,
+      "word": "黑龙江鹤岗降雪破纪录",
+      "onboard_time": 1732666339,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115925,
       "num": 115925,
       "word": "赵露思横店甜品店闭店",
       "onboard_time": 1732624698,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115559,
-      "num": 115559,
-      "word": "瘦30斤才敢说的大实话",
-      "onboard_time": 1732663876,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 111920,
@@ -299,12 +475,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109186,
+      "num": 109186,
+      "word": "警方介入婴儿住月子中心骨折",
+      "onboard_time": 1732670477,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 107087,
       "num": 113918,
       "word": "北京这雪厚度能写艺术字了",
       "onboard_time": 1732635138,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106634,
+      "num": 106634,
+      "word": "JDG和WBG邀请朱开执教",
+      "onboard_time": 1732669218,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 104419,
@@ -315,12 +507,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100777,
+      "num": 100777,
+      "word": "沈阳初雪迎志愿军烈士遗骸回国",
+      "onboard_time": 1732653911,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98284,
       "num": 98284,
       "word": "对麦琳的声讨不应是再见爱人的看点",
       "onboard_time": 1732633819,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98099,
+      "num": 98099,
+      "word": "首尔初雪",
+      "onboard_time": 1732665376,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96216,
+      "num": 223338,
+      "word": "谷子经济彻底火了",
+      "onboard_time": 1732670897,
+      "rank": 16,
+      "category": "财经,动漫"
+    },
+    {
+      "raw_hot": 95403,
+      "num": 95403,
+      "word": "大冰连线",
+      "onboard_time": 1732671738,
+      "rank": 44,
+      "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 92959,
+      "num": 92959,
+      "word": "支持纯血鸿蒙机型不会推送鸿蒙4.3",
+      "onboard_time": 1732669519,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 90741,
@@ -379,12 +611,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 84253,
-      "num": 84253,
-      "word": "疑似麦琳解散李行亮核心粉丝群",
-      "onboard_time": 1732642814,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 85637,
+      "num": 85637,
+      "word": "男子驾车撞伤一行人逃逸时又撞3人",
+      "onboard_time": 1732672158,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 84189,
@@ -444,7 +676,7 @@
     },
     {
       "raw_hot": 73086,
-      "num": 73086,
+      "num": 221501,
       "word": "新一澄清与Doinb决裂",
       "onboard_time": 1732663876,
       "rank": 35,
@@ -491,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63351,
+      "num": 214863,
+      "word": "剑网3 团长",
+      "onboard_time": 1732671439,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61927,
       "num": 61927,
       "word": "川渝火锅进入全球80多个国家",
@@ -515,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55376,
-      "num": 84262,
-      "word": "938位在韩志愿军烈士10年回家路",
-      "onboard_time": 1732632139,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 54117,
       "num": 191223,
       "word": "刘连舸一审被判死缓",
@@ -537,6 +769,14 @@
       "onboard_time": 1732657090,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49127,
+      "num": 605696,
+      "word": "中国天眼发现脉冲星已超1000颗",
+      "onboard_time": 1732626859,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48687,
@@ -563,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45970,
+      "num": 212470,
+      "word": "以丝代绒背后羽绒服的价格困境",
+      "onboard_time": 1732672098,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45815,
       "num": 51991,
       "word": "武训中的鞠婧祎",
@@ -577,14 +825,6 @@
       "onboard_time": 1732641133,
       "rank": 38,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 45337,
-      "num": 605696,
-      "word": "中国天眼发现脉冲星已超1000颗",
-      "onboard_time": 1732626859,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41267,
@@ -643,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28687,
+      "num": 222679,
+      "word": "王一博嘉人花絮视频",
+      "onboard_time": 1732665436,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 27575,
       "num": 63065,
       "word": "内蒙古黑龙江局地大暴雪",
@@ -691,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20381,
+      "num": 148201,
+      "word": "鹭卓暖暖的",
+      "onboard_time": 1732671677,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15316,
       "num": 20581,
       "word": "中国在联合国每一句话都是为救难民",
@@ -712,14 +968,6 @@
       "word": "运20连续5年接志愿军烈士遗骸回家",
       "onboard_time": 1732652231,
       "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13319,
-      "num": 14921,
-      "word": "沈阳初雪迎志愿军烈士遗骸回国",
-      "onboard_time": 1732653911,
-      "rank": 40,
       "category": "国内时政"
     },
     {
