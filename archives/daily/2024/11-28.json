@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732746169977,
+  "endTime": 1732747287082,
   "band_list": [
     {
       "raw_hot": 634658,
@@ -59,6 +59,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 271877,
+      "num": 493517,
+      "word": "易烊千玺",
+      "onboard_time": 1732735031,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265549,
       "num": 109581,
       "word": "李行亮说家里卫生请保洁",
@@ -107,6 +115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203387,
+      "num": 203387,
+      "word": "媒体评羊毛月何不食肉糜",
+      "onboard_time": 1732732511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184671,
       "num": 184671,
       "word": "美国医生血泪控诉加沙惨状",
@@ -129,14 +145,6 @@
       "onboard_time": 1732722019,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169029,
-      "num": 376579,
-      "word": "易烊千玺",
-      "onboard_time": 1732735031,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 158838,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 143355,
-      "num": 143355,
+      "num": 170832,
       "word": "山河如愿英雄回家",
       "onboard_time": 1732713798,
       "rank": 17,
@@ -177,14 +185,6 @@
       "onboard_time": 1732719738,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 137991,
-      "num": 137991,
-      "word": "媒体评羊毛月何不食肉糜",
-      "onboard_time": 1732732511,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136417,
@@ -225,6 +225,14 @@
       "onboard_time": 1732723156,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103741,
+      "num": 103741,
+      "word": "加沙人睡梦中海水灌进帐篷",
+      "onboard_time": 1732741211,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103355,
@@ -371,14 +379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 71379,
-      "num": 71379,
-      "word": "加沙人睡梦中海水灌进帐篷",
-      "onboard_time": 1732741211,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70534,
       "num": 70534,
       "word": "K80价格",
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 47767,
-      "num": 37282,
+      "num": 41187,
       "word": "人均两万五去8个国家玩了24天",
       "onboard_time": 1732735631,
       "rank": 40,
@@ -491,12 +491,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40153,
+      "num": 40153,
+      "word": "澳众院通过16岁以下人群禁用社媒法案",
+      "onboard_time": 1732724297,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38242,
       "num": 38242,
       "word": "中国坚定支持巴勒斯坦成为联合国正式会员国",
       "onboard_time": 1732726635,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35198,
+      "num": 35198,
+      "word": "护犊子原来可以这样理解",
+      "onboard_time": 1732741031,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 33229,
@@ -507,20 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32458,
-      "num": 32458,
-      "word": "澳众院通过16岁以下人群禁用社媒法案",
-      "onboard_time": 1732724297,
+      "raw_hot": 32787,
+      "num": 39971,
+      "word": "周慧敏发长文聊入行37年经历",
+      "onboard_time": 1732741451,
       "rank": 19,
-      "category": "国际时政"
+      "category": "艺人"
     },
     {
-      "raw_hot": 32115,
-      "num": 32115,
-      "word": "护犊子原来可以这样理解",
-      "onboard_time": 1732741031,
-      "rank": 41,
-      "category": "正能量"
+      "raw_hot": 32757,
+      "num": 32757,
+      "word": "鹤岗降雪量打破当地11月单日纪录",
+      "onboard_time": 1732736890,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30822,
@@ -531,16 +547,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30758,
-      "num": 30758,
-      "word": "鹤岗降雪量打破当地11月单日纪录",
-      "onboard_time": 1732736890,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30578,
-      "num": 31651,
+      "num": 39482,
       "word": "芒果凑齐了三大群像",
       "onboard_time": 1732707438,
       "rank": 45,
@@ -555,8 +563,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28373,
-      "num": 28373,
+      "raw_hot": 28522,
+      "num": 28522,
       "word": "中羽协发布羽绒制品原料参考价格",
       "onboard_time": 1732733711,
       "rank": 18,
@@ -569,6 +577,14 @@
       "onboard_time": 1732719919,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27906,
+      "num": 34496,
+      "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
+      "onboard_time": 1732730593,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 27143,
@@ -587,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25663,
+      "num": 25663,
+      "word": "光遇",
+      "onboard_time": 1732721837,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25471,
       "num": 25471,
       "word": "陆柯燃也cha上初雪了",
@@ -603,20 +627,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23328,
-      "num": 34496,
-      "word": "礼兵风雪中一遍遍演练迎接烈士遗骸",
-      "onboard_time": 1732730593,
-      "rank": 47,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 22988,
       "num": 22988,
       "word": "一人一句接志愿军烈士回家",
       "onboard_time": 1732676717,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 22315,
+      "num": 25508,
+      "word": "白百何张思麟陪小儿子做手工",
+      "onboard_time": 1732746853,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21035,
+      "num": 32779,
+      "word": "黑龙江又一地疑发现东北虎",
+      "onboard_time": 1732746373,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20219,
@@ -627,20 +659,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 19078,
-      "num": 21781,
-      "word": "光遇",
-      "onboard_time": 1732721837,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 20104,
+      "num": 32139,
+      "word": "接烈士回国的运20曾在今年航展开放",
+      "onboard_time": 1732738691,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 17447,
-      "num": 30751,
-      "word": "周慧敏发长文聊入行37年经历",
-      "onboard_time": 1732741451,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 19253,
+      "num": 25497,
+      "word": "官方回应殡仪馆用炖盅当骨灰瓮",
+      "onboard_time": 1732745411,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18174,
+      "num": 25487,
+      "word": "为何东北这次降雪这么强",
+      "onboard_time": 1732747272,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16990,
@@ -659,19 +699,11 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 15484,
-      "num": 32139,
-      "word": "接烈士回国的运20曾在今年航展开放",
-      "onboard_time": 1732738691,
-      "rank": 9,
-      "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 15337,
-      "num": 21824,
-      "word": "官方回应殡仪馆用炖盅当骨灰瓮",
-      "onboard_time": 1732745411,
-      "rank": 46,
+      "raw_hot": 15430,
+      "num": 49629,
+      "word": "下半年首场寒潮天气趋于结束",
+      "onboard_time": 1732745952,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -681,14 +713,6 @@
       "onboard_time": 1732729032,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13981,
-      "num": 31112,
-      "word": "下半年首场寒潮天气趋于结束",
-      "onboard_time": 1732745952,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13969,
