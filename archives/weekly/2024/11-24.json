@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732721128781,
+  "endTime": 1732722063423,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1091,6 +1091,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 797645,
+      "num": 797645,
+      "word": "华莱士汉堡被曝吃出异物事件",
+      "onboard_time": 1732716439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791088,
       "num": 791088,
       "word": "黄圣依 死脑快想啊",
@@ -2107,20 +2115,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520534,
-      "num": 520534,
-      "word": "华莱士汉堡被曝吃出异物事件",
-      "onboard_time": 1732716439,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 513385,
       "num": 300652,
       "word": "花140万买到了230平的房子",
       "onboard_time": 1732516758,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 509775,
+      "num": 509775,
+      "word": "4万吨工业盐酸被偷偷排放",
+      "onboard_time": 1732718840,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 509395,
@@ -2345,14 +2353,6 @@
       "onboard_time": 1732623918,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 473516,
-      "num": 473516,
-      "word": "4万吨工业盐酸被偷偷排放",
-      "onboard_time": 1732718840,
-      "rank": 3,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 464273,
@@ -3371,6 +3371,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 325483,
+      "num": 251466,
+      "word": "为什么不建议买太便宜的洗衣液",
+      "onboard_time": 1732720159,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 325435,
       "num": 208695,
       "word": "我是刑警一集下线12个人",
@@ -4115,14 +4123,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 261470,
-      "num": 143127,
-      "word": "为什么不建议买太便宜的洗衣液",
-      "onboard_time": 1732720159,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 261199,
       "num": 287808,
       "word": "十二星座水逆指南",
@@ -4643,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233847,
+      "num": 233847,
+      "word": "光遇",
+      "onboard_time": 1732512141,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233799,
       "num": 233799,
       "word": "现实版凡人歌",
@@ -5075,6 +5083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217419,
+      "num": 217419,
+      "word": "丁禹兮高马尾vs白散发",
+      "onboard_time": 1732719439,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217347,
       "num": 269620,
       "word": "感冒都好了为什么还一直咳嗽",
@@ -5145,14 +5161,6 @@
       "onboard_time": 1732533799,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215694,
-      "num": 215694,
-      "word": "丁禹兮高马尾vs白散发",
-      "onboard_time": 1732719439,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215222,
@@ -8003,6 +8011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148711,
+      "num": 205466,
+      "word": "严浩翔比猫耳小卡",
+      "onboard_time": 1732720700,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148559,
       "num": 148559,
       "word": "Xinyi说不恨Doinb",
@@ -9395,6 +9411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121698,
+      "num": 145312,
+      "word": "苏新皓真的最后一遍了",
+      "onboard_time": 1732721837,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121428,
       "num": 121428,
       "word": "河南民企协会发文称坚定支持胖东来",
@@ -9585,6 +9609,14 @@
       "onboard_time": 1732545320,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118452,
+      "num": 264106,
+      "word": "专家称谷子火爆因年轻人缺乏社交途径",
+      "onboard_time": 1732720159,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118188,
@@ -9987,7 +10019,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112635,
+      "raw_hot": 112703,
       "num": 188853,
       "word": "谢娜回母校参加活动",
       "onboard_time": 1732717759,
@@ -10364,7 +10396,7 @@
     },
     {
       "raw_hot": 105508,
-      "num": 105508,
+      "num": 145430,
       "word": "愿你勇敢追梦祝你光芒万丈",
       "onboard_time": 1732719738,
       "rank": 46,
@@ -10425,6 +10457,14 @@
       "onboard_time": 1732529479,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102675,
+      "num": 148670,
+      "word": "山河如愿英雄回家",
+      "onboard_time": 1732713798,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102170,
@@ -10545,6 +10585,14 @@
       "onboard_time": 1732432098,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99571,
+      "num": 99571,
+      "word": "章昊雪地cha",
+      "onboard_time": 1732722019,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99515,
@@ -11355,14 +11403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79491,
-      "num": 264106,
-      "word": "专家称谷子火爆因年轻人缺乏社交途径",
-      "onboard_time": 1732720159,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79474,
       "num": 167791,
       "word": "尼泊尔偶遇邱淑贞",
@@ -11507,14 +11547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75286,
-      "num": 226871,
-      "word": "光遇",
-      "onboard_time": 1732512141,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75150,
       "num": 75150,
       "word": "尔滨的雪实在是太美了",
@@ -11561,14 +11593,6 @@
       "onboard_time": 1732453461,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73513,
-      "num": 205466,
-      "word": "严浩翔比猫耳小卡",
-      "onboard_time": 1732720700,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 73349,
@@ -11713,6 +11737,14 @@
       "onboard_time": 1732437380,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67235,
+      "num": 259257,
+      "word": "妈妈称被砸破头骨女孩出现过幻听",
+      "onboard_time": 1732721779,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67131,
@@ -11883,14 +11915,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 62879,
-      "num": 148670,
-      "word": "山河如愿英雄回家",
-      "onboard_time": 1732713798,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62811,
       "num": 303100,
       "word": "铁梅 Fe male",
@@ -12043,6 +12067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59337,
+      "num": 185751,
+      "word": "二百万野猪致害26省应该怎么办",
+      "onboard_time": 1732721419,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58974,
       "num": 475534,
       "word": "拿自残自杀威胁对方也属于家庭暴力",
@@ -12185,6 +12217,14 @@
       "onboard_time": 1732714639,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57011,
+      "num": 220982,
+      "word": "沉迷霸总短剧可能加重现实焦虑",
+      "onboard_time": 1732720519,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56994,
@@ -12563,6 +12603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49184,
+      "num": 652774,
+      "word": "这是一个值得逐帧观看的MV",
+      "onboard_time": 1732713980,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49127,
       "num": 706494,
       "word": "中国天眼发现脉冲星已超1000颗",
@@ -12617,14 +12665,6 @@
       "onboard_time": 1732624519,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48154,
-      "num": 652774,
-      "word": "这是一个值得逐帧观看的MV",
-      "onboard_time": 1732713980,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47964,
@@ -13353,14 +13393,6 @@
       "onboard_time": 1732500139,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36202,
-      "num": 214784,
-      "word": "沉迷霸总短剧可能加重现实焦虑",
-      "onboard_time": 1732720519,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36174,
