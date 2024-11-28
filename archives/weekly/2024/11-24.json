@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732818690342,
+  "endTime": 1732819502697,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -13443,6 +13443,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 95218,
+      "num": 138679,
+      "word": "傅首尔说能get到麦琳的点",
+      "onboard_time": 1732815013,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94946,
       "num": 94946,
       "word": "深潜",
@@ -13577,14 +13585,6 @@
       "onboard_time": 1732633938,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 92322,
-      "num": 138679,
-      "word": "傅首尔说能get到麦琳的点",
-      "onboard_time": 1732815013,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 92280,
@@ -18107,6 +18107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21473,
+      "num": 63124,
+      "word": "高校教职工将狗套袋中当街打死",
+      "onboard_time": 1732818491,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21464,
       "num": 28659,
       "word": "华晨宇诉黑粉侵犯名誉权",
@@ -18427,6 +18435,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 16589,
+      "num": 20155,
+      "word": "失笑收官",
+      "onboard_time": 1732816453,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16321,
       "num": 192760,
       "word": "电影好东西展现女性友谊的巨大能量",
@@ -18441,6 +18457,14 @@
       "onboard_time": 1732526359,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16017,
+      "num": 20146,
+      "word": "最高礼遇是致敬英烈更是告慰英烈",
+      "onboard_time": 1732812617,
+      "rank": 48,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 15972,
@@ -18521,14 +18545,6 @@
       "onboard_time": 1732659311,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14851,
-      "num": 24849,
-      "word": "高校教职工将狗套袋中当街打死",
-      "onboard_time": 1732818491,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14799,
