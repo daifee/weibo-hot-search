@@ -1,0 +1,410 @@
+{
+  "runTime": 1732815552819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 249928,
+        "num": 390058,
+        "word": "大冰为脑瘫女孩追星薛之谦",
+        "onboard_time": 1732809737,
+        "rank": 0,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 184203,
+        "num": 184203,
+        "word": "羽绒服敢卖199赌的就是你不懂",
+        "onboard_time": 1732797679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12359,
+        "num": 182071,
+        "word": "湾区生活又又又又又又提速了",
+        "onboard_time": 1732799539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438037,
+        "num": 181632,
+        "word": "上海民警多次猥亵继女母亲发声",
+        "onboard_time": 1732808599,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216861,
+        "num": 181501,
+        "word": "易烊千玺评论区回复王俊凯王源",
+        "onboard_time": 1732808658,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181046,
+        "num": 181046,
+        "word": "男子47万买3手宾利发现竟是13手",
+        "onboard_time": 1732808538,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174075,
+        "num": 174075,
+        "word": "Newjeans宣布解约",
+        "onboard_time": 1732796059,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143377,
+        "num": 143377,
+        "word": "遭前男友囚禁烫伤女生脱离生命危险",
+        "onboard_time": 1732813334,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80435,
+        "num": 139350,
+        "word": "塔克拉玛干沙漠被整个围起来了",
+        "onboard_time": 1732807639,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 31382,
+        "num": 138679,
+        "word": "傅首尔说能get到麦琳的点",
+        "onboard_time": 1732815013,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161125,
+        "num": 138615,
+        "word": "父母希望黄圣依有正常的婚姻关系",
+        "onboard_time": 1732807639,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "贺峻霖接手向太轮椅",
+        "onboard_time": 1732810457,
+        "rank": 11,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 111910,
+        "num": 111910,
+        "word": "再见爱人节目组发声明",
+        "onboard_time": 1732812135,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83313,
+        "num": 83313,
+        "word": "警方回应小米su7外借却被拍色情片",
+        "onboard_time": 1732792999,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72564,
+        "num": 72564,
+        "word": "卢布崩了",
+        "onboard_time": 1732794799,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70422,
+        "num": 70422,
+        "word": "时代峰峻回应朱志鑫苏新皓双人合照",
+        "onboard_time": 1732808237,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60087,
+        "num": 60087,
+        "word": "拿千元羽绒服翻新拆开竟没有羽绒",
+        "onboard_time": 1732807879,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55758,
+        "num": 55758,
+        "word": "GimGoon回应Doinb队出局",
+        "onboard_time": 1732802721,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54742,
+        "num": 54742,
+        "word": "斯瓦泰克兴奋剂阳性",
+        "onboard_time": 1732806558,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49441,
+        "num": 49441,
+        "word": "东北女生在南方被冻到怀疑人生",
+        "onboard_time": 1732803320,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94771,
+        "num": 49354,
+        "word": "突然发现国内夫妻很少见戴婚戒",
+        "onboard_time": 1732801879,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71552,
+        "num": 48601,
+        "word": "麦琳全职妈妈带两娃的KPI被忽视",
+        "onboard_time": 1732808897,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64255,
+        "num": 48112,
+        "word": "梅艳芳 拜拜",
+        "onboard_time": 1732802779,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57479,
+        "num": 47991,
+        "word": "沈梦瑶 取关",
+        "onboard_time": 1732772418,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11899,
+        "num": 47246,
+        "word": "张若昀跳车顶那一下",
+        "onboard_time": 1732805421,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47051,
+        "num": 47051,
+        "word": "虞书欣海边落日背影照",
+        "onboard_time": 1732808478,
+        "rank": 25,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 42794,
+        "num": 42794,
+        "word": "警方已介入运狗车事件",
+        "onboard_time": 1732795099,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40560,
+        "num": 40560,
+        "word": "广州地铁通报5人因下车拥挤冲突",
+        "onboard_time": 1732807339,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 38693,
+        "num": 38693,
+        "word": "年度十大正能量粉丝团评选",
+        "onboard_time": 1732814473,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34797,
+        "num": 38500,
+        "word": "最高礼遇接英雄回家沈阳准备好了",
+        "onboard_time": 1732777638,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 38436,
+        "num": 38436,
+        "word": "丁禹兮是谁初雪都下了还在炸火花",
+        "onboard_time": 1732804281,
+        "rank": 30,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 37712,
+        "num": 37712,
+        "word": "下期轮到杨子blue了",
+        "onboard_time": 1732806080,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36889,
+        "num": 36889,
+        "word": "于适 去路边整桶泡面",
+        "onboard_time": 1732807339,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38402,
+        "num": 36680,
+        "word": "丁禹兮吴谨言或演兰香如故",
+        "onboard_time": 1732802421,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36360,
+        "num": 36360,
+        "word": "胖东来每件羽绒服都标有进货价",
+        "onboard_time": 1732790060,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35900,
+        "num": 35900,
+        "word": "NewJeansneverdies",
+        "onboard_time": 1732806439,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35239,
+        "num": 35239,
+        "word": "华晨宇 果然人在尴尬时会很忙",
+        "onboard_time": 1732807699,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33805,
+        "num": 33805,
+        "word": "麦琳的哪句话最让你窒息",
+        "onboard_time": 1732806439,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31981,
+        "num": 31981,
+        "word": "丈夫住院取2.5万元被银行电话核实",
+        "onboard_time": 1732790179,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31345,
+        "num": 31345,
+        "word": "人民日报夜读十年",
+        "onboard_time": 1732808297,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10935,
+        "num": 31031,
+        "word": "惹毛闫桉只需一个绕口令",
+        "onboard_time": 1732813814,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30871,
+        "num": 30871,
+        "word": "Minji对方时赫无话可说",
+        "onboard_time": 1732799240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14979,
+        "num": 29632,
+        "word": "宋亚轩沙漠酷耶",
+        "onboard_time": 1732813754,
+        "rank": 42,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 29372,
+        "num": 29372,
+        "word": "易烊千玺24号过塘",
+        "onboard_time": 1732812495,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28880,
+        "num": 28880,
+        "word": "河南杂技夫妻相继发生高空坠落背后",
+        "onboard_time": 1732799359,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28647,
+        "num": 28647,
+        "word": "儿子牺牲后妈妈还能收到他的信",
+        "onboard_time": 1732799720,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28130,
+        "num": 28130,
+        "word": "斯瓦泰克已接受一个月禁赛",
+        "onboard_time": 1732813814,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27662,
+        "num": 27662,
+        "word": "俄罗斯卢布汇率创一年来新低",
+        "onboard_time": 1732797859,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27318,
+        "num": 27318,
+        "word": "凌晨六点是警惕性最低的时间",
+        "onboard_time": 1732800980,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24927,
+        "num": 27309,
+        "word": "男性HPV疫苗可能成为婚前必备项",
+        "onboard_time": 1732802660,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向乌拉圭当选总统奥尔西致贺电#"
+    }
+  }
+}

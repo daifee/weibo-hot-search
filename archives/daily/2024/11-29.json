@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732814436180,
+  "endTime": 1732815552819,
   "band_list": [
     {
       "raw_hot": 1041434,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143377,
+      "num": 143377,
+      "word": "遭前男友囚禁烫伤女生脱离生命危险",
+      "onboard_time": 1732813334,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139076,
       "num": 139076,
       "word": "警方回应小米su7外借却被拍色情片",
@@ -193,6 +201,14 @@
       "onboard_time": 1732790060,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111910,
+      "num": 111910,
+      "word": "再见爱人节目组发声明",
+      "onboard_time": 1732812135,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107814,
@@ -241,14 +257,6 @@
       "onboard_time": 1732804281,
       "rank": 31,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 79674,
-      "num": 61753,
-      "word": "再见爱人节目组发声明",
-      "onboard_time": 1732812135,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 79309,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38693,
+      "num": 38693,
+      "word": "年度十大正能量粉丝团评选",
+      "onboard_time": 1732814473,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38425,
       "num": 38425,
       "word": "易烊千玺24号过塘",
@@ -419,20 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33391,
-      "num": 98646,
-      "word": "遭前男友囚禁烫伤女生脱离生命危险",
-      "onboard_time": 1732813334,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32351,
       "num": 446070,
       "word": "普通人去链博会能逛什么",
       "onboard_time": 1732799780,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 31382,
+      "num": 138679,
+      "word": "傅首尔说能get到麦琳的点",
+      "onboard_time": 1732815013,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 25639,
@@ -451,6 +467,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12359,
+      "num": 241838,
+      "word": "湾区生活又又又又又又提速了",
+      "onboard_time": 1732799539,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11899,
+      "num": 47246,
+      "word": "张若昀跳车顶那一下",
+      "onboard_time": 1732805421,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 11116,
       "num": 81281,
       "word": "潘展乐张雨霏猜拳喝沙棘汁",
@@ -459,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9892,
-      "num": 241838,
-      "word": "湾区生活又又又又又又提速了",
-      "onboard_time": 1732799539,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 10935,
+      "num": 31031,
+      "word": "惹毛闫桉只需一个绕口令",
+      "onboard_time": 1732813814,
+      "rank": 40,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
