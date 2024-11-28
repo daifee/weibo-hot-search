@@ -1,0 +1,410 @@
+{
+  "runTime": 1732765814052,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1378725,
+        "num": 1378725,
+        "word": "疑似黄圣依麦琳吵架路透",
+        "onboard_time": 1732759937,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1217482,
+        "num": 1217482,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1732764138,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82576,
+        "num": 1039597,
+        "word": "国家医保药品目录增加91种药品",
+        "onboard_time": 1732762757,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 935371,
+        "num": 935371,
+        "word": "美国对俄乌冲突立场发生重大转变",
+        "onboard_time": 1732761138,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 587091,
+        "num": 587091,
+        "word": "董宇辉喝白花蛇草水表情瞬间失控",
+        "onboard_time": 1732762878,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 447798,
+        "num": 447798,
+        "word": "沈阳街头悬挂3000多面五星红旗",
+        "onboard_time": 1732754598,
+        "rank": 5,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 1008606,
+        "num": 444981,
+        "word": "疑似麦琳大粉发声",
+        "onboard_time": 1732763178,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739609,
+        "num": 419975,
+        "word": "王俊凯王源卡零点给易烊千玺庆生",
+        "onboard_time": 1732750035,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517736,
+        "num": 401408,
+        "word": "白夜破晓案件法律点上难度了",
+        "onboard_time": 1732763479,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380695,
+        "num": 380695,
+        "word": "一起接43位志愿军烈士回国",
+        "onboard_time": 1732761497,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1069114,
+        "num": 374120,
+        "word": "2岁女童因投喂后呕吐绝食1个月",
+        "onboard_time": 1732762818,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355957,
+        "num": 355957,
+        "word": "赵一博改简介了",
+        "onboard_time": 1732760718,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385388,
+        "num": 349972,
+        "word": "易烊千玺谢谢凯哥源哥",
+        "onboard_time": 1732761558,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334690,
+        "num": 334690,
+        "word": "十个勤天的BE早有预言",
+        "onboard_time": 1732762999,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93141,
+        "num": 304978,
+        "word": "华莱士回应汉堡吃出疑似异物",
+        "onboard_time": 1732764318,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 301730,
+        "num": 301730,
+        "word": "冬天不宜减肥其实是错的",
+        "onboard_time": 1732753038,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 280709,
+        "num": 280709,
+        "word": "四川一银行遭抢劫嫌犯被2保安制服",
+        "onboard_time": 1732753698,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261861,
+        "num": 261861,
+        "word": "秦彻深渊主宰",
+        "onboard_time": 1732764559,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199093,
+        "num": 255555,
+        "word": "左航说让大家担心了",
+        "onboard_time": 1732764918,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23826,
+        "num": 248025,
+        "word": "华为Mate70升级XMAGE影像风格",
+        "onboard_time": 1732764258,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 330993,
+        "num": 230933,
+        "word": "蜀锦人家定档",
+        "onboard_time": 1732763420,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275946,
+        "num": 225998,
+        "word": "一路繁花成员官宣",
+        "onboard_time": 1732760297,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220249,
+        "num": 220249,
+        "word": "山河如愿英雄回家",
+        "onboard_time": 1732713798,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219700,
+        "num": 219700,
+        "word": "早年的留几手",
+        "onboard_time": 1732754059,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106950,
+        "num": 217102,
+        "word": "左雾爆料Scout离队细节",
+        "onboard_time": 1732762938,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215852,
+        "num": 215852,
+        "word": "李小冉说刘晓庆不好惹",
+        "onboard_time": 1732764318,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199241,
+        "num": 199241,
+        "word": "大奉打更人",
+        "onboard_time": 1732764858,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197544,
+        "num": 197544,
+        "word": "秦彻龙塑",
+        "onboard_time": 1732765399,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167427,
+        "num": 191176,
+        "word": "姆巴佩灾难表现",
+        "onboard_time": 1732762878,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44493,
+        "num": 190555,
+        "word": "降温容易诱发哪些疾病",
+        "onboard_time": 1732764799,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 560010,
+        "num": 190553,
+        "word": "助学贷款是可以不用还的",
+        "onboard_time": 1732765698,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190537,
+        "num": 190537,
+        "word": "雷军看周鸿祎还有下集",
+        "onboard_time": 1732764918,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182390,
+        "num": 182390,
+        "word": "中国麻辣烫在日本人气火爆",
+        "onboard_time": 1732765698,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179700,
+        "num": 179700,
+        "word": "朱珠贝果复古风穿搭",
+        "onboard_time": 1732765038,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178029,
+        "num": 178029,
+        "word": "秦彻日卡",
+        "onboard_time": 1732765519,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107749,
+        "num": 161845,
+        "word": "哈登一人打一队",
+        "onboard_time": 1732762938,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158495,
+        "num": 158495,
+        "word": "广西一村上百只猴子成群糟蹋收成",
+        "onboard_time": 1732762519,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157800,
+        "num": 157800,
+        "word": "再见爱人",
+        "onboard_time": 1732762938,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151708,
+        "num": 151708,
+        "word": "Daeny疑似加入iG",
+        "onboard_time": 1732761138,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151108,
+        "num": 151108,
+        "word": "仍有直播间甩卖百元羽绒服",
+        "onboard_time": 1732763356,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149943,
+        "num": 149943,
+        "word": "羽超联赛",
+        "onboard_time": 1732765578,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147599,
+        "num": 147599,
+        "word": "雇主服刑育儿嫂自费抚养女婴三年",
+        "onboard_time": 1732763238,
+        "rank": 41,
+        "category": "民生新闻,正能量"
+      },
+      {
+        "raw_hot": 144867,
+        "num": 144867,
+        "word": "印度电影又出神片",
+        "onboard_time": 1732765698,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140713,
+        "num": 140713,
+        "word": "贺峻霖一路繁花准备出发",
+        "onboard_time": 1732764559,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140505,
+        "num": 140505,
+        "word": "塔克拉玛干沙漠被围起来了",
+        "onboard_time": 1732765758,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135602,
+        "num": 135602,
+        "word": "3名救生员脱岗14岁男孩泳池溺亡",
+        "onboard_time": 1732763537,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 129802,
+        "word": "妻子坠海丈夫却急着开死亡证明",
+        "onboard_time": 1732764738,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129306,
+        "num": 129306,
+        "word": "今日中国以最高礼遇接英雄回家",
+        "onboard_time": 1732759578,
+        "rank": 47,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 129051,
+        "num": 129051,
+        "word": "为什么不建议买太便宜的洗衣液",
+        "onboard_time": 1732720159,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127960,
+        "num": 127960,
+        "word": "今天的中国多希望你们能看到",
+        "onboard_time": 1732758678,
+        "rank": 49,
+        "category": "国内时政,正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}
