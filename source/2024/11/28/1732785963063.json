@@ -1,0 +1,410 @@
+{
+  "runTime": 1732785963063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 734485,
+        "num": 1117517,
+        "word": "葛夕情绪爆发",
+        "onboard_time": 1732780220,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655176,
+        "num": 655176,
+        "word": "27岁清华博士已任上海交大博导",
+        "onboard_time": 1732780399,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8134,
+        "num": 628679,
+        "word": "供应链的发展如何改变我们的生活",
+        "onboard_time": 1732695618,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 628279,
+        "num": 628279,
+        "word": "傅首尔说感受不到李行亮爱麦琳",
+        "onboard_time": 1732784000,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535363,
+        "num": 535363,
+        "word": "医保砍价现场1分1毛都要尽力争取",
+        "onboard_time": 1732779978,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 454942,
+        "num": 454942,
+        "word": "女子狗肉店发现拉布拉多众筹买下",
+        "onboard_time": 1732784181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430511,
+        "num": 430511,
+        "word": "安徽一副市长拒绝组织挽救被双开",
+        "onboard_time": 1732780939,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384541,
+        "num": 384541,
+        "word": "荣梓杉 我自己洗",
+        "onboard_time": 1732780578,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78665,
+        "num": 384000,
+        "word": "中产狂追的低因咖啡是智商税吗",
+        "onboard_time": 1732784481,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 150945,
+        "num": 380380,
+        "word": "警方调查广州地铁年轻人与老人冲突",
+        "onboard_time": 1732785501,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1031568,
+        "num": 377063,
+        "word": "冯绍峰方回应恋情",
+        "onboard_time": 1732784301,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589727,
+        "num": 373596,
+        "word": "沈梦瑶 取关",
+        "onboard_time": 1732772418,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515417,
+        "num": 368843,
+        "word": "李行亮只争女儿抚养权",
+        "onboard_time": 1732770919,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37723,
+        "num": 366093,
+        "word": "王浩文称愿意赔偿但是没钱",
+        "onboard_time": 1732784601,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119843,
+        "num": 364115,
+        "word": "提取已故亲人10万存款遭银行拒绝",
+        "onboard_time": 1732782620,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360890,
+        "num": 360890,
+        "word": "广州地铁",
+        "onboard_time": 1732783281,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330949,
+        "num": 330949,
+        "word": "四大长红顶流",
+        "onboard_time": 1732778179,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260111,
+        "num": 260111,
+        "word": "塔克拉玛干沙漠被围起来了",
+        "onboard_time": 1732765758,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 256553,
+        "num": 256553,
+        "word": "沈阳街头悬挂3000多面五星红旗",
+        "onboard_time": 1732754598,
+        "rank": 18,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 21596,
+        "num": 254816,
+        "word": "反转次数还是电影票房密码吗",
+        "onboard_time": 1732785020,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125821,
+        "num": 254501,
+        "word": "张蔷帮向太推轮椅",
+        "onboard_time": 1732782139,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21822,
+        "num": 252434,
+        "word": "吃个烤鱼竟然给我送成都了",
+        "onboard_time": 1732784961,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94904,
+        "num": 249375,
+        "word": "易烊千玺和云霞",
+        "onboard_time": 1732784000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248861,
+        "num": 248861,
+        "word": "麦琳脚踩抱枕再见爱人民宿老板发声",
+        "onboard_time": 1732782980,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8134,
+        "num": 226696,
+        "word": "奥运天团新疆团建群像太美好了",
+        "onboard_time": 1732785501,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215593,
+        "num": 215593,
+        "word": "导师辞职原因去南极给企鹅织毛衣",
+        "onboard_time": 1732781239,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168932,
+        "num": 168932,
+        "word": "杨子黄圣依分房子睡",
+        "onboard_time": 1732781480,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58048,
+        "num": 168010,
+        "word": "周迅来了也要说一句好多人啊",
+        "onboard_time": 1732782860,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52651,
+        "num": 164228,
+        "word": "李梦帮工作人员追星谢娜",
+        "onboard_time": 1732782799,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98544,
+        "num": 162595,
+        "word": "囚禁烫伤女友男子父亲扬言不管不赔",
+        "onboard_time": 1732784840,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197856,
+        "num": 157727,
+        "word": "李行亮 学区房",
+        "onboard_time": 1732783461,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157413,
+        "num": 157413,
+        "word": "韩彩英发给郭晓东的邮件被程莉莎错收",
+        "onboard_time": 1732773559,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153493,
+        "num": 153493,
+        "word": "迪丽热巴冬装路透",
+        "onboard_time": 1732781660,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154107,
+        "num": 148890,
+        "word": "易烊千玺回复哈琳小葱花",
+        "onboard_time": 1732770201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143830,
+        "num": 143830,
+        "word": "国家医保药品目录增加91种药品",
+        "onboard_time": 1732762757,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136103,
+        "num": 136103,
+        "word": "黄晓明新片上映12天不到420万",
+        "onboard_time": 1732784720,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25030,
+        "num": 134088,
+        "word": "英伦风秋冬穿搭",
+        "onboard_time": 1732783219,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 133840,
+        "num": 133840,
+        "word": "种地吧直播",
+        "onboard_time": 1732780339,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28251,
+        "num": 132706,
+        "word": "马立奥雪地里的小可爱",
+        "onboard_time": 1732784601,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131819,
+        "num": 131819,
+        "word": "美国将赴华旅行提醒由三级降为二级",
+        "onboard_time": 1732784242,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128789,
+        "num": 131447,
+        "word": "白夜破晓案件法律点上难度了",
+        "onboard_time": 1732763479,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131414,
+        "num": 131414,
+        "word": "浙江一企业主管被同事棍击多次身亡",
+        "onboard_time": 1732785801,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128422,
+        "num": 128422,
+        "word": "无畏冬日滑雪",
+        "onboard_time": 1732785559,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126831,
+        "num": 126831,
+        "word": "拜登要求乌克兰降低征兵年龄至18岁",
+        "onboard_time": 1732776499,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124513,
+        "num": 126309,
+        "word": "电商人揭露直播间羽绒服销售内幕",
+        "onboard_time": 1732783640,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 126285,
+        "num": 126285,
+        "word": "吉利高管曾寄刀给博世总裁希望降价",
+        "onboard_time": 1732781179,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127615,
+        "num": 125854,
+        "word": "郑思维 全网寻这张照片的摄影师",
+        "onboard_time": 1732785080,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124800,
+        "num": 124800,
+        "word": "周雨彤 陈好可爱不自知",
+        "onboard_time": 1732785860,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124545,
+        "num": 124545,
+        "word": "2岁女童因投喂后呕吐绝食1个月",
+        "onboard_time": 1732762818,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124067,
+        "num": 124067,
+        "word": "最高礼遇接英雄回家沈阳准备好了",
+        "onboard_time": 1732777638,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写供销合作事业高质量发展新篇章#"
+    }
+  }
+}
