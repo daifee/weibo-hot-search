@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732815552819,
+  "endTime": 1732818690342,
   "band_list": [
     {
       "raw_hot": 1041434,
@@ -81,6 +81,14 @@
       "onboard_time": 1732806558,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211897,
+      "num": 211897,
+      "word": "再见爱人节目组发声明",
+      "onboard_time": 1732812135,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 209278,
@@ -203,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111910,
-      "num": 111910,
-      "word": "再见爱人节目组发声明",
-      "onboard_time": 1732812135,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107814,
       "num": 107814,
       "word": "下期轮到杨子blue了",
@@ -241,6 +241,14 @@
       "onboard_time": 1732799720,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92322,
+      "num": 138679,
+      "word": "傅首尔说能get到麦琳的点",
+      "onboard_time": 1732815013,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 91424,
@@ -443,12 +451,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 31382,
-      "num": 138679,
-      "word": "傅首尔说能get到麦琳的点",
-      "onboard_time": 1732815013,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 27058,
+      "num": 27058,
+      "word": "首付3万买了没人要的阁楼",
+      "onboard_time": 1732796419,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 25639,
@@ -459,12 +467,60 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 24810,
+      "num": 24810,
+      "word": "中国最大沙漠锁边完成",
+      "onboard_time": 1732813515,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 21869,
       "num": 109112,
       "word": "马龙学长走哪都有阵阵尖叫",
       "onboard_time": 1732810997,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21464,
+      "num": 28659,
+      "word": "华晨宇诉黑粉侵犯名誉权",
+      "onboard_time": 1732815552,
+      "rank": 19,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 18766,
+      "num": 18766,
+      "word": "芭莎电影祝易烊千玺生日快乐",
+      "onboard_time": 1732817532,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14851,
+      "num": 24849,
+      "word": "高校教职工将狗套袋中当街打死",
+      "onboard_time": 1732818491,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14204,
+      "num": 23529,
+      "word": "志愿军老兵整齐列队行军礼接老战友们回家",
+      "onboard_time": 1732816932,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13019,
+      "num": 23654,
+      "word": "礼兵护送志愿军烈士棺椁走下专机",
+      "onboard_time": 1732817771,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12359,
