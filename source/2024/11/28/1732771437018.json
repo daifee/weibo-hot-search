@@ -1,0 +1,410 @@
+{
+  "runTime": 1732771437018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200192,
+        "num": 2200192,
+        "word": "李行亮在哭麦琳在笑",
+        "onboard_time": 1732769780,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493835,
+        "num": 493835,
+        "word": "中国麻辣烫在日本人气火爆",
+        "onboard_time": 1732765698,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65807,
+        "num": 389615,
+        "word": "国家医保药品目录增加91种药品",
+        "onboard_time": 1732762757,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1236929,
+        "num": 386538,
+        "word": "易烊千玺回复哈琳小葱花",
+        "onboard_time": 1732770201,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367149,
+        "num": 367149,
+        "word": "美国对俄乌冲突立场发生重大转变",
+        "onboard_time": 1732761138,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366076,
+        "num": 366076,
+        "word": "沈阳街头悬挂3000多面五星红旗",
+        "onboard_time": 1732754598,
+        "rank": 5,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 915202,
+        "num": 365457,
+        "word": "疑似黄圣依麦琳吵架路透",
+        "onboard_time": 1732759937,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364151,
+        "num": 364151,
+        "word": "迎接烈士回国的塔台对话听到泪目",
+        "onboard_time": 1732768100,
+        "rank": 7,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 38185,
+        "num": 363183,
+        "word": "办公室同事看再见爱人真实反应",
+        "onboard_time": 1732769721,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110804,
+        "num": 362032,
+        "word": "从太空回家的五星红旗见证烈士回家",
+        "onboard_time": 1732770320,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 728657,
+        "num": 360411,
+        "word": "妻子坠海丈夫却急着开死亡证明",
+        "onboard_time": 1732764738,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578237,
+        "num": 360302,
+        "word": "李行亮只争女儿抚养权",
+        "onboard_time": 1732770919,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553956,
+        "num": 357960,
+        "word": "2岁女童因投喂后呕吐绝食1个月",
+        "onboard_time": 1732762818,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419469,
+        "num": 357476,
+        "word": "我blue了",
+        "onboard_time": 1732768160,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85426,
+        "num": 356035,
+        "word": "村民称集体煤矿被煤老板1.1亿转让",
+        "onboard_time": 1732769840,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 418278,
+        "num": 355084,
+        "word": "印度电影又出神片",
+        "onboard_time": 1732765698,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149938,
+        "num": 353340,
+        "word": "蒋勤勤你这是在玩火",
+        "onboard_time": 1732770020,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38621,
+        "num": 352440,
+        "word": "留几手享受踩葛夕的乐趣",
+        "onboard_time": 1732770799,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100596,
+        "num": 350926,
+        "word": "投资300万认养600头牛变成6万斤牛肉",
+        "onboard_time": 1732770739,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26311,
+        "num": 350042,
+        "word": "中国品牌创新的含金量还在上升",
+        "onboard_time": 1732768639,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348862,
+        "num": 348862,
+        "word": "大胖媳妇给张踩铃抡上岸了",
+        "onboard_time": 1732769721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267491,
+        "num": 322686,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1732764138,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321548,
+        "num": 321548,
+        "word": "王俊凯王源卡零点给易烊千玺庆生",
+        "onboard_time": 1732750035,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268066,
+        "num": 268066,
+        "word": "白夜破晓案件法律点上难度了",
+        "onboard_time": 1732763479,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265089,
+        "num": 265089,
+        "word": "秦彻人外",
+        "onboard_time": 1732769721,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255827,
+        "num": 255827,
+        "word": "乌克兰2.3万大学生被开除",
+        "onboard_time": 1732770799,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251420,
+        "num": 251420,
+        "word": "一起接43位志愿军烈士回国",
+        "onboard_time": 1732761497,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247285,
+        "num": 247285,
+        "word": "运20在机场落地",
+        "onboard_time": 1732770679,
+        "rank": 27,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 169435,
+        "num": 209696,
+        "word": "KB呆又呆 我不录了",
+        "onboard_time": 1732769780,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122361,
+        "num": 205459,
+        "word": "国乒主力出发成都混团世界杯",
+        "onboard_time": 1732770739,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92442,
+        "num": 204512,
+        "word": "潘展乐咬不开坚果求助张雨霏",
+        "onboard_time": 1732771279,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203770,
+        "num": 203770,
+        "word": "董宇辉喝白花蛇草水表情瞬间失控",
+        "onboard_time": 1732762878,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190262,
+        "num": 190262,
+        "word": "李昊在声生不息推广十个勤天",
+        "onboard_time": 1732770560,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185714,
+        "num": 185714,
+        "word": "丁禹兮边走边脱",
+        "onboard_time": 1732768821,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52965,
+        "num": 184542,
+        "word": "水哥状态好像上早八的我",
+        "onboard_time": 1732771339,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183656,
+        "num": 183656,
+        "word": "塔克拉玛干沙漠被围起来了",
+        "onboard_time": 1732765758,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 178792,
+        "num": 178792,
+        "word": "再见爱人",
+        "onboard_time": 1732762938,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7733,
+        "num": 170662,
+        "word": "奥运冠军提小鹏MONA也要三个月",
+        "onboard_time": 1732766958,
+        "rank": 37,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 169851,
+        "num": 169851,
+        "word": "KBS",
+        "onboard_time": 1732768040,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168144,
+        "num": 168144,
+        "word": "去时少年郎归来英雄魂",
+        "onboard_time": 1732770379,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141405,
+        "num": 166605,
+        "word": "李川 李总前世是王子",
+        "onboard_time": 1732771279,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165436,
+        "num": 165436,
+        "word": "密子君一人烤肉自助",
+        "onboard_time": 1732766838,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164473,
+        "num": 164473,
+        "word": "秦彻戮夜灼心",
+        "onboard_time": 1732770919,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119212,
+        "num": 163790,
+        "word": "时代少年团祝师兄千玺生日快乐",
+        "onboard_time": 1732768040,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163559,
+        "num": 163559,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1732766659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162372,
+        "num": 162372,
+        "word": "十个勤天的BE早有预言",
+        "onboard_time": 1732762999,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159062,
+        "num": 159062,
+        "word": "没有卫生巾用时可以用纸尿裤代替",
+        "onboard_time": 1732768400,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76261,
+        "num": 156936,
+        "word": "Steam秋促",
+        "onboard_time": 1732771218,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154927,
+        "num": 154927,
+        "word": "马斯克宣布进军游戏业",
+        "onboard_time": 1732770860,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154821,
+        "num": 154821,
+        "word": "2.3万乌克兰大学生被开除",
+        "onboard_time": 1732769300,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732769049386,
+  "endTime": 1732771437018,
   "band_list": [
+    {
+      "raw_hot": 2200192,
+      "num": 2200192,
+      "word": "李行亮在哭麦琳在笑",
+      "onboard_time": 1732769780,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1779571,
       "num": 1779571,
@@ -17,6 +25,14 @@
       "onboard_time": 1732765698,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1236929,
+      "num": 386538,
+      "word": "易烊千玺回复哈琳小葱花",
+      "onboard_time": 1732770201,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1217482,
@@ -139,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 578237,
+      "num": 360302,
+      "word": "李行亮只争女儿抚养权",
+      "onboard_time": 1732770919,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552881,
       "num": 552881,
       "word": "央妈镜头的祝绪丹",
@@ -192,6 +216,14 @@
       "word": "一路繁花成员官宣",
       "onboard_time": 1732760297,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 419469,
+      "num": 357476,
+      "word": "我blue了",
+      "onboard_time": 1732768160,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -259,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364151,
+      "num": 592755,
+      "word": "迎接烈士回国的塔台对话听到泪目",
+      "onboard_time": 1732768100,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 352063,
       "num": 352063,
       "word": "4万吨工业盐酸被偷偷排放",
       "onboard_time": 1732718840,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 348862,
+      "num": 348862,
+      "word": "大胖媳妇给张踩铃抡上岸了",
+      "onboard_time": 1732769721,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 334690,
@@ -283,28 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311970,
-      "num": 592755,
-      "word": "迎接烈士回国的塔台对话听到泪目",
-      "onboard_time": 1732768100,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
       "raw_hot": 302988,
       "num": 302988,
       "word": "易烊千玺24岁生日大片",
       "onboard_time": 1732753758,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299189,
-      "num": 299189,
-      "word": "我blue了",
-      "onboard_time": 1732768160,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 297420,
@@ -371,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265089,
+      "num": 265089,
+      "word": "秦彻人外",
+      "onboard_time": 1732769721,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265043,
       "num": 265043,
       "word": "运20接志愿军烈士遗骸归国抵达沈阳",
@@ -395,12 +435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255827,
+      "num": 255827,
+      "word": "乌克兰2.3万大学生被开除",
+      "onboard_time": 1732770799,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255248,
       "num": 255248,
       "word": "Daeny疑似加入iG",
       "onboard_time": 1732761138,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247285,
+      "num": 247285,
+      "word": "运20在机场落地",
+      "onboard_time": 1732770679,
+      "rank": 27,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 247197,
@@ -579,6 +635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 190262,
+      "num": 190262,
+      "word": "李昊在声生不息推广十个勤天",
+      "onboard_time": 1732770560,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189755,
       "num": 189755,
       "word": "丁禹兮黑白森林打戏",
@@ -593,6 +657,14 @@
       "onboard_time": 1732761737,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185714,
+      "num": 185714,
+      "word": "丁禹兮边走边脱",
+      "onboard_time": 1732768821,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 184671,
@@ -699,12 +771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169435,
+      "num": 209696,
+      "word": "KB呆又呆 我不录了",
+      "onboard_time": 1732769780,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168839,
       "num": 191176,
       "word": "姆巴佩灾难表现",
       "onboard_time": 1732762878,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168144,
+      "num": 168144,
+      "word": "去时少年郎归来英雄魂",
+      "onboard_time": 1732770379,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168117,
@@ -731,6 +819,14 @@
       "category": "国内时政,正能量"
     },
     {
+      "raw_hot": 164473,
+      "num": 164473,
+      "word": "秦彻戮夜灼心",
+      "onboard_time": 1732770919,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162625,
       "num": 162625,
       "word": "先用后付不能让人莫名其妙",
@@ -747,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159062,
+      "num": 159062,
+      "word": "没有卫生巾用时可以用纸尿裤代替",
+      "onboard_time": 1732768400,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158838,
       "num": 158838,
       "word": "XLB怒喷Doinb",
@@ -761,6 +865,22 @@
       "onboard_time": 1732712899,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154927,
+      "num": 154927,
+      "word": "马斯克宣布进军游戏业",
+      "onboard_time": 1732770860,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 154821,
+      "num": 154821,
+      "word": "2.3万乌克兰大学生被开除",
+      "onboard_time": 1732769300,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151432,
@@ -795,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149938,
+      "num": 353340,
+      "word": "蒋勤勤你这是在玩火",
+      "onboard_time": 1732770020,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147111,
       "num": 147111,
       "word": "洪承汉初雪正面照",
@@ -811,14 +939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144635,
-      "num": 144635,
-      "word": "丁禹兮边走边脱",
-      "onboard_time": 1732768821,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144150,
       "num": 136792,
       "word": "白百何接小儿子放学背着上车",
@@ -833,6 +953,14 @@
       "onboard_time": 1732768460,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141405,
+      "num": 166605,
+      "word": "李川 李总前世是王子",
+      "onboard_time": 1732771279,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 140713,
@@ -907,14 +1035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 132027,
-      "num": 132027,
-      "word": "没有卫生巾用时可以用纸尿裤代替",
-      "onboard_time": 1732768400,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131789,
       "num": 131789,
       "word": "字节诉攻击模型训练实习生索赔800万",
@@ -945,6 +1065,22 @@
       "onboard_time": 1732762938,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122361,
+      "num": 205459,
+      "word": "国乒主力出发成都混团世界杯",
+      "onboard_time": 1732770739,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119212,
+      "num": 208915,
+      "word": "时代少年团祝师兄千玺生日快乐",
+      "onboard_time": 1732768040,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 118092,
@@ -1011,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110804,
+      "num": 362032,
+      "word": "从太空回家的五星红旗见证烈士回家",
+      "onboard_time": 1732770320,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110453,
       "num": 110453,
       "word": "这种危险插排千万别再用了",
@@ -1075,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100596,
+      "num": 350926,
+      "word": "投资300万认养600头牛变成6万斤牛肉",
+      "onboard_time": 1732770739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98624,
       "num": 98624,
       "word": "孙颖莎为邱贻可庆生",
@@ -1131,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92442,
+      "num": 204512,
+      "word": "潘展乐咬不开坚果求助张雨霏",
+      "onboard_time": 1732771279,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89464,
       "num": 275878,
       "word": "乡镇卫生院因欠药企钱开不出药",
@@ -1177,6 +1337,14 @@
       "onboard_time": 1732756457,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85426,
+      "num": 356035,
+      "word": "村民称集体煤矿被煤老板1.1亿转让",
+      "onboard_time": 1732769840,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 84770,
@@ -1249,6 +1417,14 @@
       "onboard_time": 1732758439,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 76261,
+      "num": 156936,
+      "word": "Steam秋促",
+      "onboard_time": 1732771218,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 75915,
@@ -1411,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52965,
+      "num": 184542,
+      "word": "水哥状态好像上早八的我",
+      "onboard_time": 1732771339,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52779,
       "num": 52779,
       "word": "澳众院通过16岁以下人群禁用社媒法案",
@@ -1539,12 +1723,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37823,
-      "num": 208915,
-      "word": "时代少年团祝师兄千玺生日快乐",
-      "onboard_time": 1732768040,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 38621,
+      "num": 352440,
+      "word": "留几手享受踩葛夕的乐趣",
+      "onboard_time": 1732770799,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38185,
+      "num": 363183,
+      "word": "办公室同事看再见爱人真实反应",
+      "onboard_time": 1732769721,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 36862,
@@ -1660,7 +1852,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 148507,
+      "num": 350042,
       "word": "中国品牌创新的含金量还在上升",
       "onboard_time": 1732768639,
       "rank": 43,

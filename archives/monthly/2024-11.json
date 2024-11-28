@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732769049386,
+  "endTime": 1732771437018,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -945,6 +945,14 @@
       "onboard_time": 1730934377,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2200192,
+      "num": 2200192,
+      "word": "李行亮在哭麦琳在笑",
+      "onboard_time": 1732769780,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2197437,
@@ -4009,6 +4017,14 @@
       "onboard_time": 1730963419,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236929,
+      "num": 386538,
+      "word": "易烊千玺回复哈琳小葱花",
+      "onboard_time": 1732770201,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1236697,
@@ -13515,6 +13531,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 578237,
+      "num": 360302,
+      "word": "李行亮只争女儿抚养权",
+      "onboard_time": 1732770919,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578209,
       "num": 323614,
       "word": "为BLG做法",
@@ -19171,6 +19195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419469,
+      "num": 357476,
+      "word": "我blue了",
+      "onboard_time": 1732768160,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419387,
       "num": 419387,
       "word": "余承东晒出华为Mate70",
@@ -22003,6 +22035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364151,
+      "num": 592755,
+      "word": "迎接烈士回国的塔台对话听到泪目",
+      "onboard_time": 1732768100,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 364135,
       "num": 364135,
       "word": "芒果也要推新男团了",
@@ -22793,6 +22833,14 @@
       "onboard_time": 1731563241,
       "rank": 27,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 348862,
+      "num": 348862,
+      "word": "大胖媳妇给张踩铃抡上岸了",
+      "onboard_time": 1732769721,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 348643,
@@ -24923,14 +24971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 311970,
-      "num": 592755,
-      "word": "迎接烈士回国的塔台对话听到泪目",
-      "onboard_time": 1732768100,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
       "raw_hot": 311759,
       "num": 311759,
       "word": "夫妻离婚公婆拿900多万欠条要求还",
@@ -25824,14 +25864,6 @@
       "word": "天天向上要回归了",
       "onboard_time": 1731407364,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 299189,
-      "num": 299189,
-      "word": "我blue了",
-      "onboard_time": 1732768160,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -28683,6 +28715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265089,
+      "num": 265089,
+      "word": "秦彻人外",
+      "onboard_time": 1732769721,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265043,
       "num": 265043,
       "word": "运20接志愿军烈士遗骸归国抵达沈阳",
@@ -29585,6 +29625,14 @@
       "onboard_time": 1731213257,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255827,
+      "num": 255827,
+      "word": "乌克兰2.3万大学生被开除",
+      "onboard_time": 1732770799,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 255770,
@@ -30553,6 +30601,14 @@
       "onboard_time": 1732319055,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247285,
+      "num": 247285,
+      "word": "运20在机场落地",
+      "onboard_time": 1732770679,
+      "rank": 27,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 247173,
@@ -41451,6 +41507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190262,
+      "num": 190262,
+      "word": "李昊在声生不息推广十个勤天",
+      "onboard_time": 1732770560,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190261,
       "num": 190261,
       "word": "崩坏星穹铁道前瞻",
@@ -42840,6 +42904,14 @@
       "word": "庄超英一巴掌打了仨",
       "onboard_time": 1731074961,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185714,
+      "num": 185714,
+      "word": "丁禹兮边走边脱",
+      "onboard_time": 1732768821,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -47331,6 +47403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169435,
+      "num": 209696,
+      "word": "KB呆又呆 我不录了",
+      "onboard_time": 1732769780,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169434,
       "num": 169434,
       "word": "本轮寒潮天气有3个特点",
@@ -47721,6 +47801,14 @@
       "onboard_time": 1732530438,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168144,
+      "num": 168144,
+      "word": "去时少年郎归来英雄魂",
+      "onboard_time": 1732770379,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168117,
@@ -48785,6 +48873,14 @@
       "onboard_time": 1732337897,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164473,
+      "num": 164473,
+      "word": "秦彻戮夜灼心",
+      "onboard_time": 1732770919,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 164465,
@@ -50539,6 +50635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159062,
+      "num": 159062,
+      "word": "没有卫生巾用时可以用纸尿裤代替",
+      "onboard_time": 1732768400,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159059,
       "num": 159059,
       "word": "王楚钦为林诗栋鼓掌",
@@ -51827,12 +51931,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154927,
+      "num": 154927,
+      "word": "马斯克宣布进军游戏业",
+      "onboard_time": 1732770860,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 154925,
       "num": 154925,
       "word": "指甲建构",
       "onboard_time": 1730698521,
       "rank": 45,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 154821,
+      "num": 154821,
+      "word": "2.3万乌克兰大学生被开除",
+      "onboard_time": 1732769300,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154814,
@@ -53515,6 +53635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149938,
+      "num": 353340,
+      "word": "蒋勤勤你这是在玩火",
+      "onboard_time": 1732770020,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 149931,
       "num": 149931,
       "word": "好六下周有王星越卢昱晓",
@@ -55187,14 +55315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144635,
-      "num": 144635,
-      "word": "丁禹兮边走边脱",
-      "onboard_time": 1732768821,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144590,
       "num": 144590,
       "word": "以前的我嗤之以鼻 现在的我逐帧学习",
@@ -56081,6 +56201,14 @@
       "onboard_time": 1730906002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141405,
+      "num": 166605,
+      "word": "李川 李总前世是王子",
+      "onboard_time": 1732771279,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 141404,
@@ -58913,14 +59041,6 @@
       "onboard_time": 1731078921,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132027,
-      "num": 132027,
-      "word": "没有卫生巾用时可以用纸尿裤代替",
-      "onboard_time": 1732768400,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 132022,
@@ -61851,6 +61971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122361,
+      "num": 205459,
+      "word": "国乒主力出发成都混团世界杯",
+      "onboard_time": 1732770739,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122357,
       "num": 122357,
       "word": "女子推理社NPC演技",
@@ -62841,6 +62969,14 @@
       "onboard_time": 1731789731,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119212,
+      "num": 208915,
+      "word": "时代少年团祝师兄千玺生日快乐",
+      "onboard_time": 1732768040,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 119209,
@@ -65187,6 +65323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110804,
+      "num": 362032,
+      "word": "从太空回家的五星红旗见证烈士回家",
+      "onboard_time": 1732770320,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110718,
       "num": 221557,
       "word": "你的身份证快到期了吗",
@@ -67395,6 +67539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100596,
+      "num": 350926,
+      "word": "投资300万认养600头牛变成6万斤牛肉",
+      "onboard_time": 1732770739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100549,
       "num": 129616,
       "word": "白酒股直线拉升",
@@ -68987,6 +69139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92442,
+      "num": 204512,
+      "word": "潘展乐咬不开坚果求助张雨霏",
+      "onboard_time": 1732771279,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92422,
       "num": 92422,
       "word": "为什么冬天更爱吃火锅",
@@ -70249,6 +70409,14 @@
       "onboard_time": 1732756457,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85426,
+      "num": 356035,
+      "word": "村民称集体煤矿被煤老板1.1亿转让",
+      "onboard_time": 1732769840,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85203,
@@ -71993,6 +72161,14 @@
       "onboard_time": 1731607633,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 76261,
+      "num": 156936,
+      "word": "Steam秋促",
+      "onboard_time": 1732771218,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 76258,
@@ -77363,6 +77539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52965,
+      "num": 184542,
+      "word": "水哥状态好像上早八的我",
+      "onboard_time": 1732771339,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52959,
       "num": 797591,
       "word": "老外报中餐菜名太溜了",
@@ -82123,6 +82307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38621,
+      "num": 352440,
+      "word": "留几手享受踩葛夕的乐趣",
+      "onboard_time": 1732770799,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38606,
       "num": 38606,
       "word": "丁禹兮新歌MV细节",
@@ -82291,6 +82483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38185,
+      "num": 363183,
+      "word": "办公室同事看再见爱人真实反应",
+      "onboard_time": 1732769721,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38127,
       "num": 424204,
       "word": "CPA接上岸",
@@ -82409,14 +82609,6 @@
       "onboard_time": 1730386640,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37823,
-      "num": 208915,
-      "word": "时代少年团祝师兄千玺生日快乐",
-      "onboard_time": 1732768040,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 37810,
@@ -86676,7 +86868,7 @@
     },
     {
       "raw_hot": 28399,
-      "num": 148507,
+      "num": 350042,
       "word": "中国品牌创新的含金量还在上升",
       "onboard_time": 1732768639,
       "rank": 43,
