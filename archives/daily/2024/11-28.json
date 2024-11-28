@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732798985477,
+  "endTime": 1732800763887,
   "band_list": [
     {
       "raw_hot": 4161654,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2441402,
-      "num": 524508,
+      "num": 637238,
       "word": "Newjeans宣布解约",
       "onboard_time": 1732796059,
       "rank": 3,
@@ -89,6 +89,14 @@
       "onboard_time": 1732750035,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1065669,
+      "num": 1065669,
+      "word": "沙一汀麦琳",
+      "onboard_time": 1732798460,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1063430,
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476361,
+      "num": 476361,
+      "word": "羽绒服敢卖199赌的就是你不懂",
+      "onboard_time": 1732797679,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472709,
       "num": 270454,
       "word": "李行亮 学区房",
@@ -539,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392462,
+      "num": 392462,
+      "word": "卢布崩了",
+      "onboard_time": 1732794799,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 389875,
       "num": 389875,
       "word": "塔克拉玛干沙漠被围起来了",
@@ -563,6 +587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 374113,
+      "num": 219767,
+      "word": "首付3万买了没人要的阁楼",
+      "onboard_time": 1732796419,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 373076,
       "num": 373076,
       "word": "大冰的狗原来是圣伯纳",
@@ -585,6 +617,14 @@
       "onboard_time": 1732768100,
       "rank": 9,
       "category": "国内时政,正能量"
+    },
+    {
+      "raw_hot": 360879,
+      "num": 360879,
+      "word": "Minji对方时赫无话可说",
+      "onboard_time": 1732799240,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 358791,
@@ -649,14 +689,6 @@
       "onboard_time": 1732796179,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 318670,
-      "num": 318670,
-      "word": "卢布崩了",
-      "onboard_time": 1732794799,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 317613,
@@ -787,14 +819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 264350,
-      "num": 264350,
-      "word": "沙一汀麦琳",
-      "onboard_time": 1732798460,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262946,
       "num": 262946,
       "word": "再见爱人 恋综",
@@ -809,14 +833,6 @@
       "onboard_time": 1732764559,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259322,
-      "num": 219767,
-      "word": "首付3万买了没人要的阁楼",
-      "onboard_time": 1732796419,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 258158,
@@ -931,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226232,
+      "num": 226232,
+      "word": "警方回应小米su7外借却被拍色情片",
+      "onboard_time": 1732792999,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221068,
       "num": 221068,
       "word": "御赐小仵作2杀青",
@@ -995,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211454,
+      "num": 237830,
+      "word": "警方已介入运狗车事件",
+      "onboard_time": 1732795099,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209087,
       "num": 209087,
       "word": "8城人均存款超15万",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1732766659,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208073,
-      "num": 208073,
-      "word": "警方回应小米su7外借却被拍色情片",
-      "onboard_time": 1732792999,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206094,
@@ -1051,12 +1075,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202722,
-      "num": 202722,
-      "word": "羽绒服敢卖199赌的就是你不懂",
-      "onboard_time": 1732797679,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 201847,
+      "num": 208210,
+      "word": "程莉莎说跟韩彩英没有任何关系",
+      "onboard_time": 1732798699,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 199241,
@@ -1563,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156462,
-      "num": 237830,
-      "word": "警方已介入运狗车事件",
-      "onboard_time": 1732795099,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155909,
       "num": 155909,
       "word": "男子为引女儿注意从5楼怒扔砖头",
@@ -1595,12 +1611,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154042,
+      "num": 154042,
+      "word": "孟子义唱OST了",
+      "onboard_time": 1732798580,
+      "rank": 44,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 152916,
       "num": 152916,
       "word": "唐三地狱路高开疯走",
       "onboard_time": 1732782799,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151735,
+      "num": 394138,
+      "word": "市场监管总局挂牌督办查处假羽绒制品",
+      "onboard_time": 1732800200,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 151438,
+      "num": 204358,
+      "word": "鞠婧祎方发布告黑名单",
+      "onboard_time": 1732798820,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 151432,
@@ -1787,6 +1827,14 @@
       "category": "国内时政,正能量"
     },
     {
+      "raw_hot": 141481,
+      "num": 209219,
+      "word": "沙一汀 天塌了",
+      "onboard_time": 1732800139,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141404,
       "num": 141404,
       "word": "这届网友才是最强的爆改大师",
@@ -1923,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135506,
+      "num": 135506,
+      "word": "何炅欢迎李宇春周笔畅回家",
+      "onboard_time": 1732798220,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 134994,
       "num": 194128,
       "word": "葛夕说杨子刘爽狼狈为奸",
@@ -1995,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131101,
+      "num": 131101,
+      "word": "儿子牺牲后妈妈还能收到他的信",
+      "onboard_time": 1732799720,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131037,
       "num": 131037,
       "word": "国家医保药品目录新增26种肿瘤用药",
@@ -2009,14 +2073,6 @@
       "onboard_time": 1732731251,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130167,
-      "num": 130167,
-      "word": "程莉莎说跟韩彩英没有任何关系",
-      "onboard_time": 1732798699,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 129134,
@@ -2128,6 +2184,14 @@
       "word": "人贩子王浩文判死刑了",
       "onboard_time": 1732787480,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121980,
+      "num": 392517,
+      "word": "河南杂技夫妻相继发生高空坠落背后",
+      "onboard_time": 1732799359,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2283,12 +2347,12 @@
       "category": "国内时政,正能量"
     },
     {
-      "raw_hot": 111384,
-      "num": 111384,
-      "word": "孟子义唱OST了",
-      "onboard_time": 1732798580,
-      "rank": 44,
-      "category": "剧集,综艺"
+      "raw_hot": 111319,
+      "num": 206325,
+      "word": "Mrc 天塌了",
+      "onboard_time": 1732797679,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 110804,
@@ -2331,12 +2395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108038,
-      "num": 108038,
-      "word": "何炅欢迎李宇春周笔畅回家",
-      "onboard_time": 1732798220,
-      "rank": 45,
-      "category": "综艺,艺人"
+      "raw_hot": 107879,
+      "num": 107879,
+      "word": "小米SU7被外借拍色情片车主决定卖车",
+      "onboard_time": 1732800679,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 107696,
@@ -2387,6 +2451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103607,
+      "num": 244987,
+      "word": "俄罗斯卢布汇率创一年来新低",
+      "onboard_time": 1732797859,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103604,
       "num": 103604,
       "word": "进击的巨人 美貌杀回来了",
@@ -2411,14 +2483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103246,
-      "num": 103246,
-      "word": "鞠婧祎方发布告黑名单",
-      "onboard_time": 1732798820,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102953,
       "num": 102953,
       "word": "Newjeans召开紧急记者发布会",
@@ -2435,6 +2499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98660,
+      "num": 393222,
+      "word": "人民网评不讨好的勇气",
+      "onboard_time": 1732799060,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98624,
       "num": 98624,
       "word": "孙颖莎为邱贻可庆生",
@@ -2448,6 +2520,14 @@
       "word": "囚禁烫伤女友男子父亲扬言不管不赔",
       "onboard_time": 1732784840,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98306,
+      "num": 270337,
+      "word": "月销3000单外卖店后厨惊现大老鼠",
+      "onboard_time": 1732799178,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2713,14 +2793,6 @@
       "onboard_time": 1732723458,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 77138,
-      "num": 244987,
-      "word": "俄罗斯卢布汇率创一年来新低",
-      "onboard_time": 1732797859,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 76484,
@@ -3099,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42951,
+      "num": 210719,
+      "word": "北大教授评电影好东西",
+      "onboard_time": 1732799119,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42416,
       "num": 209600,
       "word": "宁悦女版李行亮",
@@ -3316,7 +3396,7 @@
     },
     {
       "raw_hot": 32261,
-      "num": 225580,
+      "num": 230067,
       "word": "土豆吕严扛不住的vivoS20抗住了",
       "onboard_time": 1732797259,
       "rank": 26,
@@ -3379,6 +3459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 28672,
+      "num": 656423,
+      "word": "普通人去链博会能逛什么",
+      "onboard_time": 1732799780,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28627,
       "num": 28627,
       "word": "圣诞氛围",
@@ -3427,6 +3515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26906,
+      "num": 243601,
+      "word": "vivoS20凤羽金",
+      "onboard_time": 1732795337,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25663,
       "num": 25663,
       "word": "光遇",
@@ -3441,14 +3537,6 @@
       "onboard_time": 1732731014,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25311,
-      "num": 243601,
-      "word": "vivoS20凤羽金",
-      "onboard_time": 1732795337,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 24965,
