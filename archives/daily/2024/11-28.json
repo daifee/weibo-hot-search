@@ -1,10 +1,10 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732798030731,
+  "endTime": 1732798985477,
   "band_list": [
     {
-      "raw_hot": 3598011,
-      "num": 3598011,
+      "raw_hot": 4161654,
+      "num": 4161654,
       "word": "中央军委委员苗华被停职检查",
       "onboard_time": 1732796839,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2441402,
-      "num": 396019,
+      "num": 524508,
       "word": "Newjeans宣布解约",
       "onboard_time": 1732796059,
       "rank": 3,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 851913,
-      "num": 257347,
+      "num": 785318,
       "word": "广州地铁冲突事件情况说明",
       "onboard_time": 1732792938,
       "rank": 43,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443381,
+      "num": 443381,
+      "word": "麦琳刚上车就抽烟",
+      "onboard_time": 1732793538,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440266,
       "num": 440266,
       "word": "安徽一副市长拒绝组织挽救被双开",
@@ -449,14 +457,6 @@
       "onboard_time": 1732776140,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 426449,
-      "num": 363306,
-      "word": "麦琳刚上车就抽烟",
-      "onboard_time": 1732793538,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 424287,
@@ -651,6 +651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 318670,
+      "num": 318670,
+      "word": "卢布崩了",
+      "onboard_time": 1732794799,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 317613,
       "num": 317613,
       "word": "运20在机场落地",
@@ -689,6 +697,14 @@
       "onboard_time": 1732720159,
       "rank": 10,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 295083,
+      "num": 295083,
+      "word": "鹤岗暴雪不少打工人走路上下班",
+      "onboard_time": 1732794799,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294541,
@@ -771,6 +787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 264350,
+      "num": 264350,
+      "word": "沙一汀麦琳",
+      "onboard_time": 1732798460,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262946,
       "num": 262946,
       "word": "再见爱人 恋综",
@@ -785,6 +809,14 @@
       "onboard_time": 1732764559,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259322,
+      "num": 219767,
+      "word": "首付3万买了没人要的阁楼",
+      "onboard_time": 1732796419,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 258158,
@@ -835,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239297,
-      "num": 239297,
-      "word": "鹤岗暴雪不少打工人走路上下班",
-      "onboard_time": 1732794799,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238448,
       "num": 238448,
       "word": "种地吧第三季少人",
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233779,
+      "num": 220454,
+      "word": "Newjeans不会交违约金",
+      "onboard_time": 1732798400,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231838,
       "num": 231838,
       "word": "HYBE不知道Newjeans开记者会",
@@ -881,14 +913,6 @@
       "onboard_time": 1732763238,
       "rank": 47,
       "category": "民生新闻,正能量"
-    },
-    {
-      "raw_hot": 229415,
-      "num": 229415,
-      "word": "卢布崩了",
-      "onboard_time": 1732794799,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 229158,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1732759097,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202722,
+      "num": 202722,
+      "word": "羽绒服敢卖199赌的就是你不懂",
+      "onboard_time": 1732797679,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199241,
@@ -1179,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185551,
-      "num": 185551,
-      "word": "首付3万买了没人要的阁楼",
-      "onboard_time": 1732796419,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184671,
       "num": 184671,
       "word": "美国医生血泪控诉加沙惨状",
@@ -1203,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184081,
+      "num": 227450,
+      "word": "鞠婧祎告黑",
+      "onboard_time": 1732798099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183816,
       "num": 183816,
       "word": "黑龙江鹤岗的雪好大啊",
@@ -1212,7 +1244,7 @@
     },
     {
       "raw_hot": 182972,
-      "num": 182972,
+      "num": 207779,
       "word": "猎罪图鉴2下周播出",
       "onboard_time": 1732794199,
       "rank": 31,
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 181268,
-      "num": 212965,
+      "num": 216719,
       "word": "小草包怒喷Doinb",
       "onboard_time": 1732797019,
       "rank": 24,
@@ -1491,7 +1523,7 @@
       "category": "游戏,情感"
     },
     {
-      "raw_hot": 159689,
+      "raw_hot": 160219,
       "num": 246923,
       "word": "李行亮说他家没有人了",
       "onboard_time": 1732796539,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1732782920,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156462,
+      "num": 237830,
+      "word": "警方已介入运狗车事件",
+      "onboard_time": 1732795099,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155909,
@@ -1641,6 +1681,14 @@
       "onboard_time": 1732777160,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148020,
+      "num": 327429,
+      "word": "市民称鹤岗特大暴雪蔬菜没涨价",
+      "onboard_time": 1732792938,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147418,
@@ -1852,7 +1900,7 @@
     },
     {
       "raw_hot": 135822,
-      "num": 414545,
+      "num": 580843,
       "word": "我国将建设下一代北斗系统",
       "onboard_time": 1732768580,
       "rank": 47,
@@ -1905,14 +1953,6 @@
       "onboard_time": 1732781960,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132435,
-      "num": 132435,
-      "word": "警方已介入运狗车事件",
-      "onboard_time": 1732795099,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132132,
@@ -1969,6 +2009,14 @@
       "onboard_time": 1732731251,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130167,
+      "num": 130167,
+      "word": "程莉莎说跟韩彩英没有任何关系",
+      "onboard_time": 1732798699,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 129134,
@@ -2083,14 +2131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122227,
-      "num": 327429,
-      "word": "市民称鹤岗特大暴雪蔬菜没涨价",
-      "onboard_time": 1732792938,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120913,
       "num": 120913,
       "word": "王浩文对8起拐卖儿童案死不认罪",
@@ -2187,14 +2227,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 113254,
-      "num": 113254,
-      "word": "羽绒服敢卖199赌的就是你不懂",
-      "onboard_time": 1732797679,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113195,
       "num": 113195,
       "word": "时代少年团43秒回顾五年",
@@ -2251,6 +2283,14 @@
       "category": "国内时政,正能量"
     },
     {
+      "raw_hot": 111384,
+      "num": 111384,
+      "word": "孟子义唱OST了",
+      "onboard_time": 1732798580,
+      "rank": 44,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 110804,
       "num": 362032,
       "word": "从太空回家的五星红旗见证烈士回家",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1732753578,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108038,
+      "num": 108038,
+      "word": "何炅欢迎李宇春周笔畅回家",
+      "onboard_time": 1732798220,
+      "rank": 45,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 107696,
@@ -2339,6 +2387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103604,
+      "num": 103604,
+      "word": "进击的巨人 美貌杀回来了",
+      "onboard_time": 1732797979,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 103552,
       "num": 103552,
       "word": "全国约八成帝王蟹来自这里",
@@ -2353,6 +2409,14 @@
       "onboard_time": 1732709298,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103246,
+      "num": 103246,
+      "word": "鞠婧祎方发布告黑名单",
+      "onboard_time": 1732798820,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 102953,
@@ -2385,14 +2449,6 @@
       "onboard_time": 1732784840,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97960,
-      "num": 97960,
-      "word": "进击的巨人 美貌杀回来了",
-      "onboard_time": 1732797979,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 97163,
@@ -2619,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79317,
+      "num": 216327,
+      "word": "君子如玉开播",
+      "onboard_time": 1732794739,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79095,
       "num": 78259,
       "word": "鹿晗直拍",
@@ -2649,6 +2713,14 @@
       "onboard_time": 1732723458,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 77138,
+      "num": 244987,
+      "word": "俄罗斯卢布汇率创一年来新低",
+      "onboard_time": 1732797859,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 76484,
@@ -2843,14 +2915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59810,
-      "num": 113456,
-      "word": "君子如玉开播",
-      "onboard_time": 1732794739,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59221,
       "num": 188581,
       "word": "黎深猫猫首领",
@@ -2889,14 +2953,6 @@
       "onboard_time": 1732707199,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55474,
-      "num": 244987,
-      "word": "俄罗斯卢布汇率创一年来新低",
-      "onboard_time": 1732797859,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 55240,
@@ -3251,8 +3307,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32272,
+      "num": 210792,
+      "word": "vivoS20原图直出的鲜活感",
+      "onboard_time": 1732797259,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32261,
-      "num": 199673,
+      "num": 225580,
       "word": "土豆吕严扛不住的vivoS20抗住了",
       "onboard_time": 1732797259,
       "rank": 26,
@@ -3369,14 +3433,6 @@
       "onboard_time": 1732721837,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 25510,
-      "num": 186585,
-      "word": "vivoS20原图直出的鲜活感",
-      "onboard_time": 1732797259,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 25471,
