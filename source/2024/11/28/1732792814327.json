@@ -1,0 +1,410 @@
+{
+  "runTime": 1732792814327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 481271,
+        "num": 1077003,
+        "word": "居民称胖东来有底气让员工靠自己",
+        "onboard_time": 1732785680,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365495,
+        "num": 365495,
+        "word": "医保砍价现场1分1毛都要尽力争取",
+        "onboard_time": 1732779978,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 6963,
+        "num": 348834,
+        "word": "供应链的发展如何改变我们的生活",
+        "onboard_time": 1732695618,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 546819,
+        "num": 348323,
+        "word": "几百只狗受冻流血被装鸡笼塞满卡车",
+        "onboard_time": 1732786460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342617,
+        "num": 342617,
+        "word": "27岁清华博士已任上海交大博导",
+        "onboard_time": 1732780399,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308156,
+        "num": 308156,
+        "word": "警方调查广州地铁年轻人与老人冲突",
+        "onboard_time": 1732785501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234364,
+        "num": 234364,
+        "word": "小米su7",
+        "onboard_time": 1732791439,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216068,
+        "num": 216068,
+        "word": "Newjeans将举办紧急记者会",
+        "onboard_time": 1732786820,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212313,
+        "num": 212313,
+        "word": "四大长红顶流",
+        "onboard_time": 1732778179,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36195,
+        "num": 211074,
+        "word": "罕见病药品谈判现场再现灵魂砍价",
+        "onboard_time": 1732791919,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1035568,
+        "num": 209112,
+        "word": "李行亮麦琳相拥而眠",
+        "onboard_time": 1732790659,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 838552,
+        "num": 206900,
+        "word": "张馨予晒求婚视频",
+        "onboard_time": 1732790539,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685549,
+        "num": 206044,
+        "word": "胖东来每件羽绒服都标有进货价",
+        "onboard_time": 1732790060,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526784,
+        "num": 203755,
+        "word": "冯绍峰方回应恋情",
+        "onboard_time": 1732784301,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58554,
+        "num": 202788,
+        "word": "每个女性或多或少都曾是麦琳",
+        "onboard_time": 1732791738,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512653,
+        "num": 199652,
+        "word": "沈梦瑶 取关",
+        "onboard_time": 1732772418,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19321,
+        "num": 198984,
+        "word": "郑钦文说vivoS20太漂亮了",
+        "onboard_time": 1732790179,
+        "rank": 16,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 223092,
+        "num": 195800,
+        "word": "广州地铁",
+        "onboard_time": 1732783281,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302547,
+        "num": 194110,
+        "word": "葛夕情绪爆发",
+        "onboard_time": 1732780220,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12783,
+        "num": 192760,
+        "word": "电影好东西展现女性友谊的巨大能量",
+        "onboard_time": 1732791799,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33258,
+        "num": 190316,
+        "word": "再见爱人 恋综",
+        "onboard_time": 1732792579,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190112,
+        "num": 190112,
+        "word": "侯佩岑 今天是节目的分水岭",
+        "onboard_time": 1732789458,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294599,
+        "num": 188710,
+        "word": "傅首尔说感受不到李行亮爱麦琳",
+        "onboard_time": 1732784000,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274706,
+        "num": 188370,
+        "word": "丈夫住院取2.5万元被银行电话核实",
+        "onboard_time": 1732790179,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33564,
+        "num": 185292,
+        "word": "vivoS20系列发布会",
+        "onboard_time": 1732791978,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184921,
+        "num": 184921,
+        "word": "女子狗肉店发现拉布拉多众筹买下",
+        "onboard_time": 1732784181,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181965,
+        "num": 181965,
+        "word": "陈梦完成毕业答辩",
+        "onboard_time": 1732791919,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34254,
+        "num": 180489,
+        "word": "死亡笔记 夜神月就硬帅",
+        "onboard_time": 1732791619,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184658,
+        "num": 178528,
+        "word": "偶遇王鹤棣办港澳通行证",
+        "onboard_time": 1732791020,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162489,
+        "num": 176310,
+        "word": "Doinb战队老头杯被淘汰",
+        "onboard_time": 1732790239,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265748,
+        "num": 175518,
+        "word": "小米su7被借拍色情片疑车主发声",
+        "onboard_time": 1732792038,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32235,
+        "num": 171938,
+        "word": "郑钦文vivoS20",
+        "onboard_time": 1732791978,
+        "rank": 31,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 241234,
+        "num": 170912,
+        "word": "李行亮 学区房",
+        "onboard_time": 1732783461,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169717,
+        "num": 169717,
+        "word": "安徽一副市长拒绝组织挽救被双开",
+        "onboard_time": 1732780939,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159223,
+        "num": 159223,
+        "word": "8城人均存款超15万",
+        "onboard_time": 1732791857,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146372,
+        "num": 146372,
+        "word": "孙颖莎混合团体世界杯首次训练",
+        "onboard_time": 1732790179,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140686,
+        "num": 140686,
+        "word": "黄圣依微博头像",
+        "onboard_time": 1732771579,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140585,
+        "num": 140585,
+        "word": "迪丽热巴雪景红衣路透",
+        "onboard_time": 1732788321,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135278,
+        "num": 135278,
+        "word": "秦彻 蝎子",
+        "onboard_time": 1732786940,
+        "rank": 38,
+        "category": "游戏,情感"
+      },
+      {
+        "raw_hot": 130482,
+        "num": 130482,
+        "word": "沈阳街头悬挂3000多面五星红旗",
+        "onboard_time": 1732754598,
+        "rank": 39,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 130163,
+        "num": 130163,
+        "word": "荣梓杉 我自己洗",
+        "onboard_time": 1732780578,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 126362,
+        "word": "最高礼遇接英雄回家沈阳准备好了",
+        "onboard_time": 1732777638,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 126292,
+        "num": 126292,
+        "word": "Uzi说和ming复出去G2",
+        "onboard_time": 1732790179,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122506,
+        "num": 122506,
+        "word": "导师辞职原因去南极给企鹅织毛衣",
+        "onboard_time": 1732781239,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114521,
+        "num": 114521,
+        "word": "张艺兴压轴官宣DNA音乐节",
+        "onboard_time": 1732789880,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113900,
+        "num": 113900,
+        "word": "赵露思工作室维权取证",
+        "onboard_time": 1732787720,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109903,
+        "num": 109903,
+        "word": "17岁2米24女篮球员场上超强统治力",
+        "onboard_time": 1732787480,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108907,
+        "num": 108907,
+        "word": "30岁女生在英国1.5镑的营养早餐",
+        "onboard_time": 1732792579,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106329,
+        "num": 106329,
+        "word": "王楚钦梁靖崑成都对练",
+        "onboard_time": 1732792758,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105843,
+        "num": 105843,
+        "word": "大冰没变 变的是我们",
+        "onboard_time": 1732787599,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写供销合作事业高质量发展新篇章#"
+    }
+  }
+}
