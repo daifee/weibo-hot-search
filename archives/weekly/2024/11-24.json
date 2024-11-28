@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732811367544,
+  "endTime": 1732812317372,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -2236,7 +2236,7 @@
     },
     {
       "raw_hot": 570511,
-      "num": 355343,
+      "num": 385444,
       "word": "易烊千玺评论区回复王俊凯王源",
       "onboard_time": 1732808658,
       "rank": 6,
@@ -4401,6 +4401,14 @@
       "onboard_time": 1732674080,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305193,
+      "num": 305193,
+      "word": "大冰为脑瘫女孩追星薛之谦",
+      "onboard_time": 1732809737,
+      "rank": 21,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 304993,
@@ -8331,14 +8339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173878,
-      "num": 111011,
-      "word": "大冰为脑瘫女孩追星薛之谦",
-      "onboard_time": 1732809737,
-      "rank": 21,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 173763,
       "num": 166251,
       "word": "丁禹兮熬夜背梗比不过天赋型选手",
@@ -9851,6 +9851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148472,
+      "num": 131445,
+      "word": "麦琳全职妈妈带两娃的KPI被忽视",
+      "onboard_time": 1732808897,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148330,
       "num": 148330,
       "word": "李行亮蓝色西装穿了4年",
@@ -9889,6 +9897,14 @@
       "onboard_time": 1732679479,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 147638,
+      "num": 147638,
+      "word": "贺峻霖接手向太轮椅",
+      "onboard_time": 1732810457,
+      "rank": 25,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 147418,
@@ -10161,14 +10177,6 @@
       "onboard_time": 1732770739,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142884,
-      "num": 110474,
-      "word": "麦琳全职妈妈带两娃的KPI被忽视",
-      "onboard_time": 1732808897,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 142846,
@@ -11113,14 +11121,6 @@
       "onboard_time": 1732427598,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128754,
-      "num": 108010,
-      "word": "贺峻霖接手向太轮椅",
-      "onboard_time": 1732810457,
-      "rank": 25,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 128541,
@@ -14260,7 +14260,7 @@
     },
     {
       "raw_hot": 78511,
-      "num": 78511,
+      "num": 166657,
       "word": "人民日报夜读十年",
       "onboard_time": 1732808297,
       "rank": 49,
@@ -18809,6 +18809,14 @@
       "onboard_time": 1732625478,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11116,
+      "num": 81281,
+      "word": "潘展乐张雨霏猜拳喝沙棘汁",
+      "onboard_time": 1732802241,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 10844,
