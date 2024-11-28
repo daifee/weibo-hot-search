@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732768164506,
+  "endTime": 1732769049386,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1315,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 736477,
+      "num": 502607,
+      "word": "妻子坠海丈夫却急着开死亡证明",
+      "onboard_time": 1732764738,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 735545,
       "num": 735545,
       "word": "金马影后钟雪莹",
@@ -1891,6 +1899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 588932,
+      "num": 576482,
+      "word": "印度电影又出神片",
+      "onboard_time": 1732765698,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 587091,
       "num": 587091,
       "word": "董宇辉喝白花蛇草水表情瞬间失控",
@@ -1928,14 +1944,6 @@
       "word": "邓超 最好的小鹿",
       "onboard_time": 1732432458,
       "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 576482,
-      "num": 576482,
-      "word": "印度电影又出神片",
-      "onboard_time": 1732765698,
-      "rank": 42,
       "category": "电影"
     },
     {
@@ -2329,6 +2337,14 @@
       "onboard_time": 1732507580,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497411,
+      "num": 497411,
+      "word": "QQ音乐 易烊千玺",
+      "onboard_time": 1732767800,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 495268,
@@ -2827,20 +2843,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410995,
+      "num": 410995,
+      "word": "一起接43位志愿军烈士回国",
+      "onboard_time": 1732761497,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 410864,
       "num": 410864,
       "word": "金钟大真是个好爸爸",
       "onboard_time": 1732529899,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410835,
-      "num": 410835,
-      "word": "一起接43位志愿军烈士回国",
-      "onboard_time": 1732761497,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 410050,
@@ -2993,14 +3009,6 @@
       "onboard_time": 1732707438,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392149,
-      "num": 268475,
-      "word": "QQ音乐 易烊千玺",
-      "onboard_time": 1732767800,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 391102,
@@ -3443,14 +3451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348513,
-      "num": 348513,
-      "word": "妻子坠海丈夫却急着开死亡证明",
-      "onboard_time": 1732764738,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347805,
       "num": 331539,
       "word": "鹿晗粉丝帮忙清理音乐节的垃圾",
@@ -3787,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311970,
+      "num": 592755,
+      "word": "迎接烈士回国的塔台对话听到泪目",
+      "onboard_time": 1732768100,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 310779,
       "num": 310779,
       "word": "赵丽颖金莲花双提名",
@@ -3963,6 +3971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299189,
+      "num": 299189,
+      "word": "我blue了",
+      "onboard_time": 1732768160,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298906,
       "num": 298906,
       "word": "谁在冬天减肥",
@@ -4009,6 +4025,14 @@
       "onboard_time": 1732588879,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294541,
+      "num": 294541,
+      "word": "再见爱人",
+      "onboard_time": 1732762938,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 294483,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1732581078,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 265043,
+      "num": 265043,
+      "word": "运20接志愿军烈士遗骸归国抵达沈阳",
+      "onboard_time": 1732768521,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 263534,
@@ -5563,14 +5595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213175,
-      "num": 253321,
-      "word": "再见爱人",
-      "onboard_time": 1732762938,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212988,
       "num": 317263,
       "word": "9岁女孩被老师砸伤案最新进展",
@@ -5667,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208968,
+      "num": 208968,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1732766659,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208935,
       "num": 299143,
       "word": "羊毛月没资格嘲笑每个努力生活的人",
@@ -5713,14 +5745,6 @@
       "onboard_time": 1732523660,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 207335,
-      "num": 207335,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1732766659,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 207109,
@@ -5819,6 +5843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206094,
+      "num": 234622,
+      "word": "SEVENTEEN台历",
+      "onboard_time": 1732767860,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205810,
       "num": 205810,
       "word": "时代少年团7折叠",
@@ -5891,6 +5923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204681,
+      "num": 204681,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 204454,
       "num": 247504,
       "word": "樊振东晒和王腾合照",
@@ -5953,6 +5993,14 @@
       "onboard_time": 1732539859,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 203465,
+      "num": 203465,
+      "word": "KBS",
+      "onboard_time": 1732768040,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 203262,
@@ -6049,14 +6097,6 @@
       "onboard_time": 1732691479,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201224,
-      "num": 201224,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 201032,
@@ -6659,6 +6699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189755,
+      "num": 189755,
+      "word": "丁禹兮黑白森林打戏",
+      "onboard_time": 1732768040,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189738,
       "num": 318122,
       "word": "112岁全球最年长男子去世",
@@ -6993,14 +7041,6 @@
       "onboard_time": 1732681762,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183295,
-      "num": 183295,
-      "word": "SEVENTEEN台历",
-      "onboard_time": 1732767860,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 183107,
@@ -8635,14 +8675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148857,
-      "num": 148857,
-      "word": "丁禹兮黑白森林打戏",
-      "onboard_time": 1732768040,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148711,
       "num": 205466,
       "word": "严浩翔比猫耳小卡",
@@ -8851,6 +8883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144635,
+      "num": 144635,
+      "word": "丁禹兮边走边脱",
+      "onboard_time": 1732768821,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143909,
       "num": 143909,
       "word": "Mate60总销量破1400万台",
@@ -8891,20 +8931,20 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 143569,
-      "num": 143569,
-      "word": "KBS",
-      "onboard_time": 1732768040,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 143401,
       "num": 277058,
       "word": "上班睡觉1小时被开除合理吗",
       "onboard_time": 1732677198,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143311,
+      "num": 143311,
+      "word": "元梦之星",
+      "onboard_time": 1732768460,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 142846,
@@ -9259,14 +9299,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 136489,
-      "num": 592755,
-      "word": "迎接烈士回国的塔台对话听到泪目",
-      "onboard_time": 1732768100,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
       "raw_hot": 136465,
       "num": 136465,
       "word": "我学会自己哄自己了",
@@ -9289,6 +9321,14 @@
       "onboard_time": 1732597820,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135822,
+      "num": 135822,
+      "word": "我国将建设下一代北斗系统",
+      "onboard_time": 1732768580,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135807,
@@ -9521,6 +9561,14 @@
       "onboard_time": 1732375401,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132027,
+      "num": 132027,
+      "word": "没有卫生巾用时可以用纸尿裤代替",
+      "onboard_time": 1732768400,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 131940,
@@ -11235,20 +11283,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104364,
+      "num": 245873,
+      "word": "潘展乐等李雯雯分果果",
+      "onboard_time": 1732766600,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104235,
       "num": 159645,
       "word": "Doinb聊Icon队内讧",
       "onboard_time": 1732436360,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104029,
-      "num": 245873,
-      "word": "潘展乐等李雯雯分果果",
-      "onboard_time": 1732766600,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 103552,
@@ -11625,6 +11673,14 @@
       "onboard_time": 1732457301,
       "rank": 18,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 94250,
+      "num": 209291,
+      "word": "贺峻霖准备燃起来了",
+      "onboard_time": 1732767739,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 94055,
@@ -12507,6 +12563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73570,
+      "num": 597855,
+      "word": "官方回应黑龙江村庄又现老虎踪迹",
+      "onboard_time": 1732767800,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 73349,
       "num": 358774,
       "word": "劣质羽绒填充物每斤成本7元",
@@ -13161,6 +13225,14 @@
       "onboard_time": 1732527020,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 57683,
+      "num": 435892,
+      "word": "专家称老虎进村是想拓展新领地",
+      "onboard_time": 1732766958,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57114,
@@ -14043,14 +14115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 42648,
-      "num": 435892,
-      "word": "专家称老虎进村是想拓展新领地",
-      "onboard_time": 1732766958,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42638,
       "num": 67556,
       "word": "陶喆 我的花店生意太过火爆",
@@ -14065,6 +14129,14 @@
       "onboard_time": 1732482431,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42416,
+      "num": 209600,
+      "word": "宁悦女版李行亮",
+      "onboard_time": 1732767800,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 42343,
@@ -14409,14 +14481,6 @@
       "onboard_time": 1732484711,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36867,
-      "num": 597855,
-      "word": "官方回应黑龙江村庄又现老虎踪迹",
-      "onboard_time": 1732767800,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 36862,
@@ -14876,7 +14940,7 @@
     },
     {
       "raw_hot": 31168,
-      "num": 151712,
+      "num": 209464,
       "word": "利物浦欧冠五连胜",
       "onboard_time": 1732757237,
       "rank": 35,
@@ -14889,14 +14953,6 @@
       "onboard_time": 1732684099,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31047,
-      "num": 208454,
-      "word": "宁悦女版李行亮",
-      "onboard_time": 1732767800,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 31007,
@@ -15129,6 +15185,14 @@
       "onboard_time": 1732619478,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28399,
+      "num": 148507,
+      "word": "中国品牌创新的含金量还在上升",
+      "onboard_time": 1732768639,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28374,

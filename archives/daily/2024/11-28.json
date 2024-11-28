@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732768164506,
+  "endTime": 1732769049386,
   "band_list": [
     {
       "raw_hot": 1779571,
@@ -83,6 +83,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 736477,
+      "num": 502607,
+      "word": "妻子坠海丈夫却急着开死亡证明",
+      "onboard_time": 1732764738,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675212,
       "num": 784080,
       "word": "媒体评羊毛月何不食肉糜",
@@ -115,20 +123,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 588932,
+      "num": 576482,
+      "word": "印度电影又出神片",
+      "onboard_time": 1732765698,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 587091,
       "num": 587091,
       "word": "董宇辉喝白花蛇草水表情瞬间失控",
       "onboard_time": 1732762878,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 576482,
-      "num": 576482,
-      "word": "印度电影又出神片",
-      "onboard_time": 1732765698,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 552881,
@@ -145,6 +153,14 @@
       "onboard_time": 1732763479,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 497411,
+      "num": 497411,
+      "word": "QQ音乐 易烊千玺",
+      "onboard_time": 1732767800,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 471143,
@@ -187,8 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410835,
-      "num": 410835,
+      "raw_hot": 410995,
+      "num": 410995,
       "word": "一起接43位志愿军烈士回国",
       "onboard_time": 1732761497,
       "rank": 16,
@@ -217,14 +233,6 @@
       "onboard_time": 1732720159,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392149,
-      "num": 268475,
-      "word": "QQ音乐 易烊千玺",
-      "onboard_time": 1732767800,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 383666,
@@ -259,14 +267,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 348513,
-      "num": 348513,
-      "word": "妻子坠海丈夫却急着开死亡证明",
-      "onboard_time": 1732764738,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 334690,
       "num": 334690,
       "word": "十个勤天的BE早有预言",
@@ -283,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311970,
+      "num": 592755,
+      "word": "迎接烈士回国的塔台对话听到泪目",
+      "onboard_time": 1732768100,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 302988,
       "num": 302988,
       "word": "易烊千玺24岁生日大片",
       "onboard_time": 1732753758,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299189,
+      "num": 299189,
+      "word": "我blue了",
+      "onboard_time": 1732768160,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 297420,
@@ -305,6 +321,14 @@
       "onboard_time": 1732720159,
       "rank": 10,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 294541,
+      "num": 294541,
+      "word": "再见爱人",
+      "onboard_time": 1732762938,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 292757,
@@ -345,6 +369,14 @@
       "onboard_time": 1732705579,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265043,
+      "num": 265043,
+      "word": "运20接志愿军烈士遗骸归国抵达沈阳",
+      "onboard_time": 1732768521,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 261861,
@@ -459,28 +491,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213175,
-      "num": 253321,
-      "word": "再见爱人",
-      "onboard_time": 1732762938,
-      "rank": 43,
+      "raw_hot": 211580,
+      "num": 415616,
+      "word": "声生不息",
+      "onboard_time": 1732767320,
+      "rank": 15,
       "category": "综艺"
     },
     {
-      "raw_hot": 207335,
-      "num": 207335,
+      "raw_hot": 208968,
+      "num": 208968,
       "word": "嘘国王在冬眠",
       "onboard_time": 1732766659,
       "rank": 33,
       "category": "剧集"
     },
     {
-      "raw_hot": 205445,
-      "num": 415616,
-      "word": "声生不息",
-      "onboard_time": 1732767320,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 206094,
+      "num": 234622,
+      "word": "SEVENTEEN台历",
+      "onboard_time": 1732767860,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204681,
+      "num": 204681,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 203465,
+      "num": 203465,
+      "word": "KBS",
+      "onboard_time": 1732768040,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 203262,
@@ -489,14 +537,6 @@
       "onboard_time": 1732759097,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201224,
-      "num": 201224,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 199241,
@@ -539,6 +579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189755,
+      "num": 189755,
+      "word": "丁禹兮黑白森林打戏",
+      "onboard_time": 1732768040,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186603,
       "num": 186603,
       "word": "剑网3",
@@ -569,14 +617,6 @@
       "onboard_time": 1732748534,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183295,
-      "num": 183295,
-      "word": "SEVENTEEN台历",
-      "onboard_time": 1732767860,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 182887,
@@ -755,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148857,
-      "num": 148857,
-      "word": "丁禹兮黑白森林打戏",
-      "onboard_time": 1732768040,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147111,
       "num": 147111,
       "word": "洪承汉初雪正面照",
@@ -779,6 +811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144635,
+      "num": 144635,
+      "word": "丁禹兮边走边脱",
+      "onboard_time": 1732768821,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144150,
       "num": 136792,
       "word": "白百何接小儿子放学背着上车",
@@ -787,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143569,
-      "num": 143569,
-      "word": "KBS",
-      "onboard_time": 1732768040,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 143311,
+      "num": 143311,
+      "word": "元梦之星",
+      "onboard_time": 1732768460,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 140713,
@@ -827,20 +867,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136489,
-      "num": 592755,
-      "word": "迎接烈士回国的塔台对话听到泪目",
-      "onboard_time": 1732768100,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
       "raw_hot": 136417,
       "num": 136417,
       "word": "严浩翔比猫耳小卡",
       "onboard_time": 1732720700,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135822,
+      "num": 135822,
+      "word": "我国将建设下一代北斗系统",
+      "onboard_time": 1732768580,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135796,
@@ -865,6 +905,14 @@
       "onboard_time": 1732719439,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132027,
+      "num": 132027,
+      "word": "没有卫生巾用时可以用纸尿裤代替",
+      "onboard_time": 1732768400,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 131789,
@@ -1003,7 +1051,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104029,
+      "raw_hot": 104364,
       "num": 245873,
       "word": "潘展乐等李雯雯分果果",
       "onboard_time": 1732766600,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1732766478,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94250,
+      "num": 209291,
+      "word": "贺峻霖准备燃起来了",
+      "onboard_time": 1732767739,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 93848,
@@ -1227,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 73570,
+      "num": 597855,
+      "word": "官方回应黑龙江村庄又现老虎踪迹",
+      "onboard_time": 1732767800,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 72056,
       "num": 72056,
       "word": "迪丽热巴 ELLE",
@@ -1305,6 +1369,14 @@
       "onboard_time": 1732698978,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57683,
+      "num": 435892,
+      "word": "专家称老虎进村是想拓展新领地",
+      "onboard_time": 1732766958,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57623,
@@ -1411,12 +1483,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 42648,
-      "num": 435892,
-      "word": "专家称老虎进村是想拓展新领地",
-      "onboard_time": 1732766958,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 42416,
+      "num": 209600,
+      "word": "宁悦女版李行亮",
+      "onboard_time": 1732767800,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 41949,
@@ -1473,14 +1545,6 @@
       "onboard_time": 1732768040,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36867,
-      "num": 597855,
-      "word": "官方回应黑龙江村庄又现老虎踪迹",
-      "onboard_time": 1732767800,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 36862,
@@ -1564,19 +1628,11 @@
     },
     {
       "raw_hot": 31168,
-      "num": 151712,
+      "num": 209464,
       "word": "利物浦欧冠五连胜",
       "onboard_time": 1732757237,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31047,
-      "num": 208454,
-      "word": "宁悦女版李行亮",
-      "onboard_time": 1732767800,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 30822,
@@ -1601,6 +1657,14 @@
       "onboard_time": 1732728973,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 28399,
+      "num": 148507,
+      "word": "中国品牌创新的含金量还在上升",
+      "onboard_time": 1732768639,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28095,
