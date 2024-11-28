@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732763053224,
+  "endTime": 1732763616437,
   "band_list": [
     {
       "raw_hot": 1779571,
@@ -9,6 +9,14 @@
       "onboard_time": 1732759937,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1213685,
+      "num": 284229,
+      "word": "2岁女童因投喂后呕吐绝食1个月",
+      "onboard_time": 1732762818,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1165787,
@@ -27,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 960183,
-      "num": 284229,
-      "word": "2岁女童因投喂后呕吐绝食1个月",
-      "onboard_time": 1732762818,
-      "rank": 10,
-      "category": "民生新闻"
+      "raw_hot": 854833,
+      "num": 854833,
+      "word": "美国对俄乌冲突立场发生重大转变",
+      "onboard_time": 1732761138,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 854200,
@@ -67,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 625793,
-      "num": 625793,
-      "word": "美国对俄乌冲突立场发生重大转变",
-      "onboard_time": 1732761138,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 625939,
+      "num": 284937,
+      "word": "易烊千玺谢谢凯哥源哥",
+      "onboard_time": 1732761558,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 552881,
@@ -81,14 +89,6 @@
       "onboard_time": 1732714519,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 513578,
-      "num": 284937,
-      "word": "易烊千玺谢谢凯哥源哥",
-      "onboard_time": 1732761558,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 471143,
@@ -107,8 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441324,
-      "num": 283638,
+      "raw_hot": 457119,
+      "num": 387842,
       "word": "赵一博改简介了",
       "onboard_time": 1732760718,
       "rank": 11,
@@ -187,6 +187,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 311276,
+      "num": 258728,
+      "word": "疑似麦琳大粉发声",
+      "onboard_time": 1732763178,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307278,
+      "num": 250779,
+      "word": "十个勤天的BE早有预言",
+      "onboard_time": 1732762999,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302988,
       "num": 302988,
       "word": "易烊千玺24岁生日大片",
@@ -211,7 +227,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 285327,
+      "raw_hot": 292757,
       "num": 298006,
       "word": "倪萍谈蔡磊签署遗体捐赠协议",
       "onboard_time": 1732759638,
@@ -257,6 +273,14 @@
       "onboard_time": 1732761497,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 258599,
+      "num": 258599,
+      "word": "董宇辉喝白花蛇草水表情瞬间失控",
+      "onboard_time": 1732762878,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 258158,
@@ -339,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186603,
+      "num": 186603,
+      "word": "剑网3",
+      "onboard_time": 1732761737,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184671,
       "num": 184671,
       "word": "美国医生血泪控诉加沙惨状",
@@ -371,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181975,
+      "num": 181975,
+      "word": "蜀锦人家定档",
+      "onboard_time": 1732763420,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181035,
       "num": 181035,
       "word": "后陡门的夏天结束了",
@@ -401,22 +441,6 @@
       "onboard_time": 1732758017,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171615,
-      "num": 171615,
-      "word": "剑网3",
-      "onboard_time": 1732761737,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 170516,
-      "num": 170516,
-      "word": "十个勤天的BE早有预言",
-      "onboard_time": 1732762999,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 168117,
@@ -467,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158624,
+      "num": 253321,
+      "word": "再见爱人",
+      "onboard_time": 1732762938,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155909,
       "num": 155909,
       "word": "男子为引女儿注意从5楼怒扔砖头",
@@ -483,8 +515,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148934,
-      "num": 148934,
+      "raw_hot": 150059,
+      "num": 150059,
       "word": "左航归队",
       "onboard_time": 1732760837,
       "rank": 37,
@@ -505,6 +537,14 @@
       "onboard_time": 1732753038,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145693,
+      "num": 145693,
+      "word": "姆巴佩灾难表现",
+      "onboard_time": 1732762878,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 144150,
@@ -531,12 +571,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 139389,
-      "num": 139389,
-      "word": "董宇辉喝白花蛇草水表情瞬间失控",
-      "onboard_time": 1732762878,
-      "rank": 40,
-      "category": "美食"
+      "raw_hot": 139857,
+      "num": 281429,
+      "word": "男子喝出假茅台牵出400万假酒案",
+      "onboard_time": 1732762399,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139306,
@@ -545,6 +585,14 @@
       "onboard_time": 1732719738,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 138788,
+      "num": 202912,
+      "word": "留几手跳舞",
+      "onboard_time": 1732760176,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 136417,
@@ -556,7 +604,7 @@
     },
     {
       "raw_hot": 135796,
-      "num": 161386,
+      "num": 188816,
       "word": "哈登一人打一队",
       "onboard_time": 1732762938,
       "rank": 29,
@@ -569,6 +617,14 @@
       "onboard_time": 1732719439,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132577,
+      "num": 132577,
+      "word": "白夜破晓案件法律点上难度了",
+      "onboard_time": 1732763479,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131789,
@@ -587,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127250,
-      "num": 127250,
-      "word": "再见爱人",
-      "onboard_time": 1732762938,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125474,
       "num": 125474,
       "word": "涵艺举报LPL韩援",
@@ -603,12 +651,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124396,
+      "num": 135342,
+      "word": "左雾爆料Scout离队细节",
+      "onboard_time": 1732762938,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 124240,
+      "num": 124240,
+      "word": "广西一村上百只猴子成群糟蹋收成",
+      "onboard_time": 1732762519,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122918,
+      "num": 122918,
+      "word": "雇主服刑育儿嫂自费抚养女婴三年",
+      "onboard_time": 1732763238,
+      "rank": 47,
+      "category": "民生新闻,正能量"
+    },
+    {
       "raw_hot": 118092,
       "num": 107927,
       "word": "蒋敦豪直播完就走了",
       "onboard_time": 1732705159,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116860,
+      "num": 250804,
+      "word": "3名救生员脱岗14岁男孩泳池溺亡",
+      "onboard_time": 1732763537,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116682,
@@ -625,14 +705,6 @@
       "onboard_time": 1732759638,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 113931,
-      "num": 202912,
-      "word": "留几手跳舞",
-      "onboard_time": 1732760176,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 113489,
@@ -665,22 +737,6 @@
       "onboard_time": 1732755199,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111256,
-      "num": 111256,
-      "word": "左雾爆料Scout离队细节",
-      "onboard_time": 1732762938,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 110599,
-      "num": 110599,
-      "word": "姆巴佩灾难表现",
-      "onboard_time": 1732762878,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 110453,
@@ -721,14 +777,6 @@
       "onboard_time": 1732759217,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104289,
-      "num": 281429,
-      "word": "男子喝出假茅台牵出400万假酒案",
-      "onboard_time": 1732762399,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103552,
@@ -931,12 +979,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 71264,
+      "num": 166381,
+      "word": "赵一博主页新添加了公司的名字",
+      "onboard_time": 1732763599,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70534,
       "num": 70534,
       "word": "K80价格",
       "onboard_time": 1732709898,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 69683,
+      "num": 261605,
+      "word": "仍有直播间甩卖百元羽绒服",
+      "onboard_time": 1732763356,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68921,

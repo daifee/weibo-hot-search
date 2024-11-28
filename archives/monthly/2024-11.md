@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 11:04:13
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 11:13:36
 </p>
 </blockquote>
 <p>
@@ -3093,6 +3093,12 @@ Zeus离队（热度：1224601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9B%A0%E6%8A%95%E5%96%82%E5%90%8E%E5%91%95%E5%90%90%E7%BB%9D%E9%A3%9F1%E4%B8%AA%E6%9C%88%23" target="weibo">
+2岁女童因投喂后呕吐绝食1个月（热度：1213685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E8%AF%95%E8%A1%A3%E6%9C%8D7%E5%B0%8F%E6%97%B6%E4%B9%B0%E8%B5%B015%E4%BB%B6%23" target="weibo">
 顾客试衣服7小时买走15件（热度：1211639）
 </a>
@@ -4611,12 +4617,6 @@ Elk神箭（热度：991451）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9B%A0%E6%8A%95%E5%96%82%E5%90%8E%E5%91%95%E5%90%90%E7%BB%9D%E9%A3%9F1%E4%B8%AA%E6%9C%88%23" target="weibo">
-2岁女童因投喂后呕吐绝食1个月（热度：960183）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E5%A6%BB%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96%E5%A6%BB%E5%AD%90%E7%9B%AE%E5%89%8D%E4%B8%8D%E7%9F%A5%E6%83%85%23" target="weibo">
 救妻丈夫去世妻子目前不知情（热度：959672）
 </a>
@@ -5607,6 +5607,12 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%AB%8B%E5%9C%BA%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%23" target="weibo">
+美国对俄乌冲突立场发生重大转变（热度：854833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8B%9034%E5%B9%B4%E7%94%B7%E5%AD%90%E8%AE%A4%E4%BA%B2%E4%B8%80%E5%B9%B4%E5%90%8E%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%86%B3%E8%A3%82%23" target="weibo">
 被拐34年男子认亲一年后与家人决裂（热度：854620）
 </a>
@@ -6005,12 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%88%E6%9C%89troublemaker%E4%B8%8A%E6%96%B0%23" target="weibo">
 内娱又有troublemaker上新（热度：823219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%B8%83%E9%83%A8%E7%83%AD%E5%BA%A6%E7%A0%B430000%E5%89%A7%E9%9B%86%23" target="weibo">
-腾讯七部热度破30000剧集（热度：822665）
 </a>
 </li>
 
