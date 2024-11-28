@@ -1,14 +1,30 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732750659229,
+  "endTime": 1732758573426,
   "band_list": [
     {
-      "raw_hot": 709549,
-      "num": 231681,
+      "raw_hot": 1123412,
+      "num": 457577,
       "word": "王俊凯王源卡零点给易烊千玺庆生",
       "onboard_time": 1732750035,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 960162,
+      "num": 457573,
+      "word": "早年的留几手",
+      "onboard_time": 1732754059,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 809628,
+      "num": 1129540,
+      "word": "冬天不宜减肥其实是错的",
+      "onboard_time": 1732753038,
+      "rank": 0,
+      "category": "运动健身"
     },
     {
       "raw_hot": 675212,
@@ -35,8 +51,32 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 458578,
+      "num": 458578,
+      "word": "重婚男子被改判无罪获法院赔偿11万",
+      "onboard_time": 1732751057,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457487,
+      "num": 457487,
+      "word": "沈阳街头悬挂3000多面五星红旗",
+      "onboard_time": 1732754598,
+      "rank": 5,
+      "category": "国内时政,正能量"
+    },
+    {
+      "raw_hot": 400637,
+      "num": 400637,
+      "word": "彭高箱根两日",
+      "onboard_time": 1732755319,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397326,
-      "num": 192617,
+      "num": 199304,
       "word": "家属称女儿遭前男友囚禁泼开水",
       "onboard_time": 1732724357,
       "rank": 24,
@@ -60,11 +100,19 @@
     },
     {
       "raw_hot": 381138,
-      "num": 109811,
+      "num": 182951,
       "word": "英国一母亲把女儿藏抽屉养到3岁",
       "onboard_time": 1732709178,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 368399,
+      "num": 368399,
+      "word": "成都地铁",
+      "onboard_time": 1732755859,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352063,
@@ -75,8 +123,32 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 317154,
+      "num": 317154,
+      "word": "河南坠落杂技演员曾表示不再演出",
+      "onboard_time": 1732754238,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302988,
+      "num": 302988,
+      "word": "易烊千玺24岁生日大片",
+      "onboard_time": 1732753758,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297420,
+      "num": 297420,
+      "word": "赵露思彭冠英路透氛围感",
+      "onboard_time": 1732754178,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296851,
-      "num": 181005,
+      "num": 181994,
       "word": "为什么不建议买太便宜的洗衣液",
       "onboard_time": 1732720159,
       "rank": 10,
@@ -123,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231123,
+      "num": 231123,
+      "word": "十个勤天忙完后会回来",
+      "onboard_time": 1732755498,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229158,
       "num": 229158,
       "word": "碎片化睡眠危害等同于熬夜",
@@ -136,6 +216,22 @@
       "word": "御赐小仵作2杀青",
       "onboard_time": 1732719140,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218517,
+      "num": 218517,
+      "word": "GALA为scout付出了很多",
+      "onboard_time": 1732753038,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191443,
+      "num": 191443,
+      "word": "我是刑警 凭尸体找到大案凶手",
+      "onboard_time": 1732706779,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -153,6 +249,14 @@
       "onboard_time": 1732741211,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183816,
+      "num": 183816,
+      "word": "黑龙江鹤岗的雪好大啊",
+      "onboard_time": 1732748534,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182839,
@@ -179,6 +283,38 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178938,
+      "num": 178938,
+      "word": "四川一银行遭抢劫嫌犯被2保安制服",
+      "onboard_time": 1732753698,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168117,
+      "num": 168117,
+      "word": "御赐小仵作2",
+      "onboard_time": 1732752498,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161899,
+      "num": 135570,
+      "word": "武契奇又给中国工人送夜宵了",
+      "onboard_time": 1732755679,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 160577,
+      "num": 180554,
+      "word": "马龙被劝少吃点",
+      "onboard_time": 1732758317,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158838,
       "num": 158838,
       "word": "XLB怒喷Doinb",
@@ -203,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145740,
+      "num": 145740,
+      "word": "左雾让scout还钱",
+      "onboard_time": 1732753038,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144150,
       "num": 136792,
       "word": "白百何接小儿子放学背着上车",
@@ -212,7 +356,7 @@
     },
     {
       "raw_hot": 143355,
-      "num": 261853,
+      "num": 457581,
       "word": "山河如愿英雄回家",
       "onboard_time": 1732713798,
       "rank": 17,
@@ -243,12 +387,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131789,
+      "num": 131789,
+      "word": "字节诉攻击模型训练实习生索赔800万",
+      "onboard_time": 1732754118,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 130459,
       "num": 130459,
       "word": "羽绒骗局曝光",
       "onboard_time": 1732731251,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125474,
+      "num": 125474,
+      "word": "涵艺举报LPL韩援",
+      "onboard_time": 1732753578,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 118092,
@@ -259,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116682,
+      "num": 116682,
+      "word": "英雄回祖国",
+      "onboard_time": 1732706118,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113489,
       "num": 125872,
       "word": "供应商回应比亚迪要求降价",
       "onboard_time": 1732749255,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112228,
+      "num": 112228,
+      "word": "姆巴佩失点",
+      "onboard_time": 1732753698,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112032,
+      "num": 135626,
+      "word": "虞书欣的海外热度",
+      "onboard_time": 1732755199,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 110453,
@@ -275,12 +459,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 108695,
+      "num": 108695,
+      "word": "感恩节",
+      "onboard_time": 1732753578,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107696,
       "num": 107696,
       "word": "市监局排查临潼区全区华莱士门店",
       "onboard_time": 1732723156,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103552,
+      "num": 103552,
+      "word": "全国约八成帝王蟹来自这里",
+      "onboard_time": 1732752258,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 103355,
@@ -291,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98685,
+      "num": 98685,
+      "word": "于东来承认表达方式不对",
+      "onboard_time": 1732758017,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98624,
       "num": 98624,
       "word": "孙颖莎为邱贻可庆生",
       "onboard_time": 1732709539,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96316,
+      "num": 96316,
+      "word": "先用后付不能让人莫名其妙",
+      "onboard_time": 1732756399,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96237,
@@ -331,12 +547,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 87652,
+      "num": 87652,
+      "word": "我是刑警微微一看很吓人",
+      "onboard_time": 1732754419,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86869,
       "num": 86869,
       "word": "双轨开通官微",
       "onboard_time": 1732715719,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85870,
+      "num": 85870,
+      "word": "第五人格",
+      "onboard_time": 1732756099,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 85438,
+      "num": 85438,
+      "word": "流感",
+      "onboard_time": 1732756457,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84770,
@@ -363,20 +603,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 81799,
-      "num": 81799,
-      "word": "英雄回祖国",
-      "onboard_time": 1732706118,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 81471,
       "num": 81471,
       "word": "鞠婧祎久违的小提琴营业",
       "onboard_time": 1732722737,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79688,
+      "num": 79688,
+      "word": "张婧仪梦花廷生图路透",
+      "onboard_time": 1732758138,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 79095,
@@ -401,6 +641,22 @@
       "onboard_time": 1732683020,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75915,
+      "num": 75915,
+      "word": "转会期",
+      "onboard_time": 1732756637,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 74388,
+      "num": 74388,
+      "word": "陈好为送礼物口误道歉",
+      "onboard_time": 1732751776,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 74157,
@@ -499,20 +755,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54707,
+      "num": 181465,
+      "word": "烈士们的英名万古流芳",
+      "onboard_time": 1732754659,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53794,
       "num": 53794,
       "word": "浪姐6",
       "onboard_time": 1732698138,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53140,
-      "num": 68483,
-      "word": "黑龙江鹤岗的雪好大啊",
-      "onboard_time": 1732748534,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52779,
@@ -635,12 +891,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 35652,
+      "num": 331144,
+      "word": "一人一句迎接英雄回家",
+      "onboard_time": 1732756217,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 35198,
       "num": 41949,
       "word": "护犊子原来可以这样理解",
       "onboard_time": 1732741031,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 34701,
+      "num": 179119,
+      "word": "中国山水藏着一个巨型调色盘",
+      "onboard_time": 1732758439,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 33928,
