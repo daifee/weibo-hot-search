@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732759923443,
+  "endTime": 1732763053224,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -153,6 +153,14 @@
       "onboard_time": 1732588157,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1779571,
+      "num": 1779571,
+      "word": "疑似黄圣依麦琳吵架路透",
+      "onboard_time": 1732759937,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1773598,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 1165787,
-      "num": 537479,
+      "num": 588228,
       "word": "王俊凯王源卡零点给易烊千玺庆生",
       "onboard_time": 1732750035,
       "rank": 3,
@@ -753,6 +761,14 @@
       "onboard_time": 1732754059,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 960183,
+      "num": 284229,
+      "word": "2岁女童因投喂后呕吐绝食1个月",
+      "onboard_time": 1732762818,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 957663,
@@ -1659,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 625793,
+      "num": 625793,
+      "word": "美国对俄乌冲突立场发生重大转变",
+      "onboard_time": 1732761138,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 623798,
       "num": 412957,
       "word": "官方通报中学生被老师教育后5楼跳下",
@@ -2155,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 513578,
+      "num": 284937,
+      "word": "易烊千玺谢谢凯哥源哥",
+      "onboard_time": 1732761558,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513385,
       "num": 300652,
       "word": "花140万买到了230平的房子",
@@ -2579,6 +2611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 441324,
+      "num": 283638,
+      "word": "赵一博改简介了",
+      "onboard_time": 1732760718,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435540,
       "num": 426126,
       "word": "赵露思横店甜品店闭店",
@@ -2625,6 +2665,14 @@
       "onboard_time": 1732546459,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419591,
+      "num": 283464,
+      "word": "一路繁花成员官宣",
+      "onboard_time": 1732760297,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 418578,
@@ -3963,6 +4011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285327,
+      "num": 298006,
+      "word": "倪萍谈蔡磊签署遗体捐赠协议",
+      "onboard_time": 1732759638,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285205,
       "num": 285205,
       "word": "羊毛月粉丝掉破800万",
@@ -4009,6 +4065,14 @@
       "onboard_time": 1732538060,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281195,
+      "num": 281195,
+      "word": "国家医保药品目录增加91种药品",
+      "onboard_time": 1732762757,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 280509,
@@ -4251,6 +4315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262102,
+      "num": 262102,
+      "word": "一起接43位志愿军烈士回国",
+      "onboard_time": 1732761497,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261610,
       "num": 261610,
       "word": "46人因黑龙江一煤矿重大事故被处理",
@@ -4393,6 +4465,14 @@
       "onboard_time": 1732539800,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 255248,
+      "num": 255248,
+      "word": "Daeny疑似加入iG",
+      "onboard_time": 1732761138,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 255235,
@@ -6987,6 +7067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176848,
+      "num": 366918,
+      "word": "今日中国以最高礼遇接英雄回家",
+      "onboard_time": 1732759578,
+      "rank": 8,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 176778,
       "num": 176778,
       "word": "仍有4尊圆明园兽首下落不明",
@@ -7203,6 +7291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171615,
+      "num": 171615,
+      "word": "剑网3",
+      "onboard_time": 1732761737,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171548,
       "num": 195846,
       "word": "一下雪沈阳故宫就美成了壁纸",
@@ -7249,6 +7345,14 @@
       "onboard_time": 1732523538,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170516,
+      "num": 170516,
+      "word": "十个勤天的BE早有预言",
+      "onboard_time": 1732762999,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 170225,
@@ -7363,6 +7467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167829,
+      "num": 363404,
+      "word": "今天的中国多希望你们能看到",
+      "onboard_time": 1732758678,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 167689,
       "num": 167689,
       "word": "全球最年长男子去世历经24任英国首相",
@@ -7473,6 +7585,14 @@
       "onboard_time": 1732680198,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 165364,
+      "num": 284807,
+      "word": "志愿军烈士留下的话句句戳泪",
+      "onboard_time": 1732761677,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 165243,
@@ -7593,6 +7713,14 @@
       "onboard_time": 1732682841,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162625,
+      "num": 162625,
+      "word": "先用后付不能让人莫名其妙",
+      "onboard_time": 1732756399,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162445,
@@ -8131,6 +8259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151432,
+      "num": 151432,
+      "word": "湖人vs马刺",
+      "onboard_time": 1732762818,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151411,
       "num": 304970,
       "word": "王楚钦总积分8825分",
@@ -8233,6 +8369,14 @@
       "onboard_time": 1732461140,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148934,
+      "num": 148934,
+      "word": "左航归队",
+      "onboard_time": 1732760837,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 148711,
@@ -8467,6 +8611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143826,
+      "num": 143826,
+      "word": "特朗普宣布俄乌冲突问题特使人选",
+      "onboard_time": 1732762818,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143761,
       "num": 143761,
       "word": "朴成训担任音银年末MC",
@@ -8492,7 +8644,7 @@
     },
     {
       "raw_hot": 143355,
-      "num": 543669,
+      "num": 588421,
       "word": "山河如愿英雄回家",
       "onboard_time": 1732713798,
       "rank": 40,
@@ -8691,6 +8843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139389,
+      "num": 139389,
+      "word": "董宇辉喝白花蛇草水表情瞬间失控",
+      "onboard_time": 1732762878,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139311,
       "num": 139311,
       "word": "下雪",
@@ -8857,6 +9017,14 @@
       "onboard_time": 1732423278,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 135796,
+      "num": 161386,
+      "word": "哈登一人打一队",
+      "onboard_time": 1732762938,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 135624,
@@ -9289,6 +9457,14 @@
       "onboard_time": 1732525339,
       "rank": 45,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 127250,
+      "num": 127250,
+      "word": "再见爱人",
+      "onboard_time": 1732762938,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 127196,
@@ -10195,6 +10371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 113931,
+      "num": 202912,
+      "word": "留几手跳舞",
+      "onboard_time": 1732760176,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113885,
       "num": 253879,
       "word": "黄朔陈天润合照",
@@ -10273,6 +10457,14 @@
       "onboard_time": 1732633819,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112905,
+      "num": 112905,
+      "word": "宏达高科董事长高点精准套现7000多万",
+      "onboard_time": 1732760657,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 112839,
@@ -10427,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111256,
+      "num": 111256,
+      "word": "左雾爆料Scout离队细节",
+      "onboard_time": 1732762938,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111241,
       "num": 240958,
       "word": "日媒感叹中国啦啦队太强",
@@ -10473,6 +10673,14 @@
       "onboard_time": 1732379479,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110599,
+      "num": 110599,
+      "word": "姆巴佩灾难表现",
+      "onboard_time": 1732762878,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 110160,
@@ -10529,6 +10737,14 @@
       "onboard_time": 1732423398,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 108769,
+      "num": 108769,
+      "word": "贺峻霖出发录制新综艺",
+      "onboard_time": 1732760297,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108695,
@@ -10745,6 +10961,14 @@
       "onboard_time": 1732693038,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104289,
+      "num": 281429,
+      "word": "男子喝出假茅台牵出400万假酒案",
+      "onboard_time": 1732762399,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104235,
@@ -11065,14 +11289,6 @@
       "onboard_time": 1732684938,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96316,
-      "num": 96316,
-      "word": "先用后付不能让人莫名其妙",
-      "onboard_time": 1732756399,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96293,
@@ -11883,14 +12099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76199,
-      "num": 363404,
-      "word": "今天的中国多希望你们能看到",
-      "onboard_time": 1732758678,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
       "raw_hot": 75915,
       "num": 75915,
       "word": "转会期",
@@ -12673,14 +12881,6 @@
       "onboard_time": 1732506980,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 56529,
-      "num": 366918,
-      "word": "今日中国以最高礼遇接英雄回家",
-      "onboard_time": 1732759578,
-      "rank": 8,
-      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 56271,
@@ -14323,6 +14523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31168,
+      "num": 151712,
+      "word": "利物浦欧冠五连胜",
+      "onboard_time": 1732757237,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31149,
       "num": 366942,
       "word": "男子听信广告刷流量赚钱被骗15万",
@@ -15003,14 +15211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23347,
-      "num": 298006,
-      "word": "倪萍谈蔡磊签署遗体捐赠协议",
-      "onboard_time": 1732759638,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23220,
       "num": 212388,
       "word": "黄东萍 世界第一是新起点",
@@ -15225,6 +15425,14 @@
       "onboard_time": 1732469834,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19825,
+      "num": 151999,
+      "word": "张雨霏李雯雯跳新疆舞",
+      "onboard_time": 1732755618,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 19620,

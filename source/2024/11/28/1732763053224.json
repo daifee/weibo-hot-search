@@ -1,0 +1,410 @@
+{
+  "runTime": 1732763053224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779571,
+        "num": 1779571,
+        "word": "疑似黄圣依麦琳吵架路透",
+        "onboard_time": 1732759937,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625793,
+        "num": 625793,
+        "word": "美国对俄乌冲突立场发生重大转变",
+        "onboard_time": 1732761138,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79137,
+        "num": 588421,
+        "word": "山河如愿英雄回家",
+        "onboard_time": 1732713798,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730564,
+        "num": 588228,
+        "word": "王俊凯王源卡零点给易烊千玺庆生",
+        "onboard_time": 1732750035,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586761,
+        "num": 586761,
+        "word": "沈阳街头悬挂3000多面五星红旗",
+        "onboard_time": 1732754598,
+        "rank": 4,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 497066,
+        "num": 497066,
+        "word": "冬天不宜减肥其实是错的",
+        "onboard_time": 1732753038,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 484032,
+        "num": 484032,
+        "word": "早年的留几手",
+        "onboard_time": 1732754059,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285327,
+        "num": 285327,
+        "word": "倪萍谈蔡磊签署遗体捐赠协议",
+        "onboard_time": 1732759638,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513578,
+        "num": 284937,
+        "word": "易烊千玺谢谢凯哥源哥",
+        "onboard_time": 1732761558,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165364,
+        "num": 284807,
+        "word": "志愿军烈士留下的话句句戳泪",
+        "onboard_time": 1732761677,
+        "rank": 9,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 960183,
+        "num": 284229,
+        "word": "2岁女童因投喂后呕吐绝食1个月",
+        "onboard_time": 1732762818,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441324,
+        "num": 283638,
+        "word": "赵一博改简介了",
+        "onboard_time": 1732760718,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283512,
+        "num": 283512,
+        "word": "马龙被劝少吃点",
+        "onboard_time": 1732758317,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419591,
+        "num": 283464,
+        "word": "一路繁花成员官宣",
+        "onboard_time": 1732760297,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104289,
+        "num": 281429,
+        "word": "男子喝出假茅台牵出400万假酒案",
+        "onboard_time": 1732762399,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281195,
+        "num": 281195,
+        "word": "国家医保药品目录增加91种药品",
+        "onboard_time": 1732762757,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 262102,
+        "num": 262102,
+        "word": "一起接43位志愿军烈士回国",
+        "onboard_time": 1732761497,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255248,
+        "num": 255248,
+        "word": "Daeny疑似加入iG",
+        "onboard_time": 1732761138,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234433,
+        "num": 234433,
+        "word": "四川一银行遭抢劫嫌犯被2保安制服",
+        "onboard_time": 1732753698,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113931,
+        "num": 202912,
+        "word": "留几手跳舞",
+        "onboard_time": 1732760176,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195294,
+        "num": 195294,
+        "word": "英国一母亲把女儿藏抽屉养到3岁",
+        "onboard_time": 1732709178,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194603,
+        "num": 194603,
+        "word": "媒体评羊毛月何不食肉糜",
+        "onboard_time": 1732732511,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191434,
+        "num": 191434,
+        "word": "彭高箱根两日",
+        "onboard_time": 1732755319,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176848,
+        "num": 176848,
+        "word": "今日中国以最高礼遇接英雄回家",
+        "onboard_time": 1732759578,
+        "rank": 23,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 171615,
+        "num": 171615,
+        "word": "剑网3",
+        "onboard_time": 1732761737,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170516,
+        "num": 170516,
+        "word": "十个勤天的BE早有预言",
+        "onboard_time": 1732762999,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167829,
+        "num": 167829,
+        "word": "今天的中国多希望你们能看到",
+        "onboard_time": 1732758678,
+        "rank": 26,
+        "category": "国内时政,正能量"
+      },
+      {
+        "raw_hot": 166002,
+        "num": 166002,
+        "word": "河南坠落杂技演员曾表示不再演出",
+        "onboard_time": 1732754238,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162625,
+        "num": 162625,
+        "word": "先用后付不能让人莫名其妙",
+        "onboard_time": 1732756399,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135796,
+        "num": 161386,
+        "word": "哈登一人打一队",
+        "onboard_time": 1732762938,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160671,
+        "num": 160671,
+        "word": "央妈镜头的祝绪丹",
+        "onboard_time": 1732714519,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "为什么不建议买太便宜的洗衣液",
+        "onboard_time": 1732720159,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159176,
+        "num": 159176,
+        "word": "十个勤天忙完后会回来",
+        "onboard_time": 1732755498,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154976,
+        "num": 154976,
+        "word": "成都地铁",
+        "onboard_time": 1732755859,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19825,
+        "num": 151999,
+        "word": "张雨霏李雯雯跳新疆舞",
+        "onboard_time": 1732755618,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31168,
+        "num": 151712,
+        "word": "利物浦欧冠五连胜",
+        "onboard_time": 1732757237,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151432,
+        "num": 151432,
+        "word": "湖人vs马刺",
+        "onboard_time": 1732762818,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148934,
+        "num": 148934,
+        "word": "左航归队",
+        "onboard_time": 1732760837,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144170,
+        "num": 144170,
+        "word": "于东来承认表达方式不对",
+        "onboard_time": 1732758017,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143826,
+        "num": 143826,
+        "word": "特朗普宣布俄乌冲突问题特使人选",
+        "onboard_time": 1732762818,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139389,
+        "num": 139389,
+        "word": "董宇辉喝白花蛇草水表情瞬间失控",
+        "onboard_time": 1732762878,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137044,
+        "num": 137044,
+        "word": "重婚男子被改判无罪获法院赔偿11万",
+        "onboard_time": 1732751057,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136827,
+        "num": 136827,
+        "word": "赵露思彭冠英路透氛围感",
+        "onboard_time": 1732754178,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127250,
+        "num": 127250,
+        "word": "再见爱人",
+        "onboard_time": 1732762938,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112905,
+        "num": 112905,
+        "word": "宏达高科董事长高点精准套现7000多万",
+        "onboard_time": 1732760657,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111256,
+        "num": 111256,
+        "word": "左雾爆料Scout离队细节",
+        "onboard_time": 1732762938,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110599,
+        "num": 110599,
+        "word": "姆巴佩灾难表现",
+        "onboard_time": 1732762878,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34481,
+        "num": 108914,
+        "word": "第五人格",
+        "onboard_time": 1732756099,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108769,
+        "num": 108769,
+        "word": "贺峻霖出发录制新综艺",
+        "onboard_time": 1732760297,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103972,
+        "num": 103972,
+        "word": "左雾让scout还钱",
+        "onboard_time": 1732753038,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    }
+  }
+}
