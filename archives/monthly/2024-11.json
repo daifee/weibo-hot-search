@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732776459923,
+  "endTime": 1732778720029,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3763,6 +3763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1293934,
+      "num": 230952,
+      "word": "沈梦瑶 取关",
+      "onboard_time": 1732772418,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1291376,
       "num": 1243041,
       "word": "大四学生挂8科后失联多月被发现溺亡",
@@ -3849,14 +3857,6 @@
       "onboard_time": 1730794761,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1271736,
-      "num": 230952,
-      "word": "沈梦瑶 取关",
-      "onboard_time": 1732772418,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1268514,
@@ -16019,6 +16019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506246,
+      "num": 182064,
+      "word": "王境泽帮父亲承担200万生意亏损",
+      "onboard_time": 1732773859,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 505608,
       "num": 505608,
       "word": "晓华理发店周围连夜铺路扩街",
@@ -16697,6 +16705,14 @@
       "onboard_time": 1732293675,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 486535,
+      "num": 169703,
+      "word": "黄圣依又哭了",
+      "onboard_time": 1732776679,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 486372,
@@ -18737,6 +18753,14 @@
       "onboard_time": 1730574376,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 431068,
+      "num": 197139,
+      "word": "我是刑警保住7个月没发的工资",
+      "onboard_time": 1732776140,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 430998,
@@ -22625,6 +22649,14 @@
       "onboard_time": 1732157961,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 353746,
+      "num": 353746,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 353575,
@@ -30811,6 +30843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245826,
+      "num": 163387,
+      "word": "四大长红顶流",
+      "onboard_time": 1732778179,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245708,
       "num": 245708,
       "word": "永夜星河有自己的奥特曼",
@@ -31945,14 +31985,6 @@
       "onboard_time": 1731398840,
       "rank": 26,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 235080,
-      "num": 235080,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 235012,
@@ -33617,14 +33649,6 @@
       "onboard_time": 1732715719,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222667,
-      "num": 182064,
-      "word": "王境泽帮父亲承担200万生意亏损",
-      "onboard_time": 1732773859,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 222628,
@@ -41803,6 +41827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189842,
+      "num": 162175,
+      "word": "芒果TV会员数增近600万",
+      "onboard_time": 1732777160,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189783,
       "num": 189783,
       "word": "俄对谷歌罚款超全球GDP总额",
@@ -45489,14 +45521,6 @@
       "onboard_time": 1731299839,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 176475,
-      "num": 176475,
-      "word": "我是刑警保住7个月没发的工资",
-      "onboard_time": 1732776140,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 176468,
@@ -49763,12 +49787,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162173,
+      "num": 162173,
+      "word": "最高礼遇接英雄回家沈阳准备好了",
+      "onboard_time": 1732777638,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 162170,
       "num": 162170,
       "word": "月光变奏曲前传",
       "onboard_time": 1731843918,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162136,
+      "num": 162136,
+      "word": "2架歼20为英雄护航",
+      "onboard_time": 1732773199,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162127,
@@ -52667,6 +52707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153040,
+      "num": 231149,
+      "word": "志愿军烈士回国仪式感太催泪",
+      "onboard_time": 1732775840,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 152994,
       "num": 288859,
       "word": "张真源的充电线有两米长",
@@ -54139,6 +54187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148861,
+      "num": 148861,
+      "word": "宋茜 一个人待着贼舒服",
+      "onboard_time": 1732777999,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148844,
       "num": 148844,
       "word": "小镇妇女加工婚纱月入过万",
@@ -54185,6 +54241,14 @@
       "onboard_time": 1730709618,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148760,
+      "num": 148760,
+      "word": "奶皮子厂家脱粉回踩麦琳",
+      "onboard_time": 1732778238,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 148715,
@@ -54385,6 +54449,14 @@
       "onboard_time": 1731754638,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148090,
+      "num": 148090,
+      "word": "国足冲场球迷被拘留",
+      "onboard_time": 1732777160,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 148068,
@@ -56155,6 +56227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142186,
+      "num": 142186,
+      "word": "拜登要求乌克兰降低征兵年龄至18岁",
+      "onboard_time": 1732776499,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142179,
       "num": 142179,
       "word": "赵樱子看监视器心疼到落泪",
@@ -56564,7 +56644,7 @@
     },
     {
       "raw_hot": 140817,
-      "num": 140817,
+      "num": 162295,
       "word": "BLG签下Maokai",
       "onboard_time": 1732773380,
       "rank": 34,
@@ -57819,6 +57899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136996,
+      "num": 136996,
+      "word": "以国之名接英雄回家",
+      "onboard_time": 1732777758,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136948,
       "num": 136948,
       "word": "中国航展版如愿听到泪目",
@@ -58345,6 +58433,14 @@
       "onboard_time": 1730525598,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134994,
+      "num": 194128,
+      "word": "葛夕说杨子刘爽狼狈为奸",
+      "onboard_time": 1732775840,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 134986,
@@ -59819,14 +59915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129776,
-      "num": 194128,
-      "word": "葛夕说杨子刘爽狼狈为奸",
-      "onboard_time": 1732775840,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129701,
       "num": 129701,
       "word": "这里的黄河水绿得像翡翠",
@@ -59985,14 +60073,6 @@
       "onboard_time": 1732077921,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129065,
-      "num": 129065,
-      "word": "2架歼20为英雄护航",
-      "onboard_time": 1732773199,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 129006,
@@ -60841,6 +60921,14 @@
       "onboard_time": 1731210377,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126515,
+      "num": 126515,
+      "word": "用王子酒勾兑飞天茅台卖出400万",
+      "onboard_time": 1732777518,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126494,
@@ -62505,6 +62593,14 @@
       "onboard_time": 1731635778,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121317,
+      "num": 121317,
+      "word": "李小冉 活着回来",
+      "onboard_time": 1732776977,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121286,
@@ -68283,14 +68379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98130,
-      "num": 231149,
-      "word": "志愿军烈士回国仪式感太催泪",
-      "onboard_time": 1732775840,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
       "raw_hot": 98099,
       "num": 98099,
       "word": "首尔初雪",
@@ -69241,6 +69329,14 @@
       "onboard_time": 1731426620,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93436,
+      "num": 131725,
+      "word": "真香哥爆火后签1500万天价合同",
+      "onboard_time": 1732775420,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 93403,
@@ -75315,6 +75411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62010,
+      "num": 280309,
+      "word": "拍视频拍了别人也侵犯了肖像权",
+      "onboard_time": 1732772359,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61989,
       "num": 272076,
       "word": "多方回应记者追访合新铁路事件遭袭",
@@ -76713,14 +76817,6 @@
       "onboard_time": 1731391879,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57194,
-      "num": 280309,
-      "word": "拍视频拍了别人也侵犯了肖像权",
-      "onboard_time": 1732772359,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57176,
@@ -79171,6 +79267,14 @@
       "category": "剧集,数码"
     },
     {
+      "raw_hot": 48837,
+      "num": 162427,
+      "word": "新能源车自燃损失谁买单",
+      "onboard_time": 1732777638,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 48743,
       "num": 48743,
       "word": "烧伤妈妈恢复期忍痛练习吃饭",
@@ -81201,6 +81305,14 @@
       "onboard_time": 1732080079,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42280,
+      "num": 167735,
+      "word": "三问山东平阴卖天",
+      "onboard_time": 1732777818,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 42278,
@@ -83913,6 +84025,14 @@
       "onboard_time": 1730650398,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35286,
+      "num": 167215,
+      "word": "杨洋讲脱口秀",
+      "onboard_time": 1732775720,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 35285,
@@ -91979,6 +92099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17798,
+      "num": 162474,
+      "word": "陈伟霆畅想未来有女儿的自己",
+      "onboard_time": 1732778119,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17795,
       "num": 19132,
       "word": "麦琳用大笑掩饰悲伤",
@@ -94209,14 +94337,6 @@
       "onboard_time": 1732521620,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 12278,
-      "num": 167215,
-      "word": "杨洋讲脱口秀",
-      "onboard_time": 1732775720,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 12269,
