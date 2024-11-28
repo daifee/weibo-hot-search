@@ -1,0 +1,410 @@
+{
+  "runTime": 1732804925749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430737,
+        "num": 1430737,
+        "word": "中央军委委员苗华被停职检查",
+        "onboard_time": 1732796839,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1342181,
+        "num": 1342181,
+        "word": "沙一汀麦琳",
+        "onboard_time": 1732798460,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51202,
+        "num": 887401,
+        "word": "普通人去链博会能逛什么",
+        "onboard_time": 1732799780,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 830318,
+        "num": 830318,
+        "word": "Newjeans宣布解约",
+        "onboard_time": 1732796059,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655968,
+        "num": 655968,
+        "word": "儿子牺牲后妈妈还能收到他的信",
+        "onboard_time": 1732799720,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 619712,
+        "num": 619712,
+        "word": "羽绒服敢卖199赌的就是你不懂",
+        "onboard_time": 1732797679,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766340,
+        "num": 615358,
+        "word": "沙一汀 天塌了",
+        "onboard_time": 1732800139,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598057,
+        "num": 598057,
+        "word": "梅艳芳 拜拜",
+        "onboard_time": 1732802779,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549469,
+        "num": 549469,
+        "word": "广州地铁冲突事件情况说明",
+        "onboard_time": 1732792938,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 285048,
+        "num": 539506,
+        "word": "小米SU7被外借拍色情片车主决定卖车",
+        "onboard_time": 1732800679,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 597983,
+        "num": 537149,
+        "word": "沈梦瑶 取关",
+        "onboard_time": 1732772418,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530156,
+        "num": 530156,
+        "word": "丁禹兮吴谨言或演兰香如故",
+        "onboard_time": 1732802421,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387077,
+        "num": 387077,
+        "word": "警方回应小米su7外借却被拍色情片",
+        "onboard_time": 1732792999,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371543,
+        "num": 371543,
+        "word": "河南杂技夫妻相继发生高空坠落背后",
+        "onboard_time": 1732799359,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350359,
+        "num": 350359,
+        "word": "卢布崩了",
+        "onboard_time": 1732794799,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308792,
+        "num": 308792,
+        "word": "Minji对方时赫无话可说",
+        "onboard_time": 1732799240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248993,
+        "num": 248993,
+        "word": "冯绍峰方回应恋情",
+        "onboard_time": 1732784301,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236441,
+        "num": 236441,
+        "word": "警方已介入运狗车事件",
+        "onboard_time": 1732795099,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221488,
+        "num": 221488,
+        "word": "胖东来每件羽绒服都标有进货价",
+        "onboard_time": 1732790060,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139987,
+        "num": 217706,
+        "word": "Ador希望与NewJeans敞开心扉交谈",
+        "onboard_time": 1732804101,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494905,
+        "num": 216697,
+        "word": "突然发现国内夫妻很少见戴婚戒",
+        "onboard_time": 1732801879,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253886,
+        "num": 216386,
+        "word": "首付3万买了没人要的阁楼",
+        "onboard_time": 1732796419,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214005,
+        "num": 214005,
+        "word": "丁禹兮是谁初雪都下了还在炸火花",
+        "onboard_time": 1732804281,
+        "rank": 22,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 194163,
+        "num": 194163,
+        "word": "前央视主持瑶淼自曝刚做完子宫全切手术",
+        "onboard_time": 1732793538,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190805,
+        "num": 190805,
+        "word": "程莉莎说跟韩彩英没有任何关系",
+        "onboard_time": 1732798699,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175623,
+        "num": 175623,
+        "word": "人民网评不讨好的勇气",
+        "onboard_time": 1732799060,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171239,
+        "num": 171239,
+        "word": "胖东来自营羽绒服含鸭绒90%",
+        "onboard_time": 1732801700,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156175,
+        "num": 156175,
+        "word": "GimGoon回应Doinb队出局",
+        "onboard_time": 1732802721,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154580,
+        "num": 154580,
+        "word": "凌晨六点是警惕性最低的时间",
+        "onboard_time": 1732800980,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153886,
+        "num": 153886,
+        "word": "丈夫住院取2.5万元被银行电话核实",
+        "onboard_time": 1732790179,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142214,
+        "num": 142214,
+        "word": "麦琳 我为什么需要理解她",
+        "onboard_time": 1732796324,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135373,
+        "num": 135373,
+        "word": "烈士牺牲后有人替他写了13年假信",
+        "onboard_time": 1732802660,
+        "rank": 31,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 131931,
+        "num": 131931,
+        "word": "何炅欢迎李宇春周笔畅回家",
+        "onboard_time": 1732798220,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 126765,
+        "num": 126765,
+        "word": "猎罪图鉴2下周播出",
+        "onboard_time": 1732794199,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123301,
+        "num": 123301,
+        "word": "男性HPV疫苗可能成为婚前必备项",
+        "onboard_time": 1732802660,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119393,
+        "num": 119393,
+        "word": "陈慧娴梅艳芳隔空对望",
+        "onboard_time": 1732803979,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118065,
+        "num": 118065,
+        "word": "俄罗斯卢布汇率创一年来新低",
+        "onboard_time": 1732797859,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116659,
+        "num": 116659,
+        "word": "东北女生在南方被冻到怀疑人生",
+        "onboard_time": 1732803320,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114048,
+        "num": 114048,
+        "word": "成毅深潜演技",
+        "onboard_time": 1732804640,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88244,
+        "num": 110814,
+        "word": "沈梦瑶告丝芭案件已开庭三次",
+        "onboard_time": 1732802899,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110596,
+        "num": 110596,
+        "word": "傅首尔说感受不到李行亮爱麦琳",
+        "onboard_time": 1732784000,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107774,
+        "num": 107774,
+        "word": "女子狗肉店发现拉布拉多众筹买下",
+        "onboard_time": 1732784181,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103346,
+        "num": 103346,
+        "word": "王楚钦 UGG",
+        "onboard_time": 1732804580,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 103092,
+        "num": 103092,
+        "word": "关晓彤说庄筱婷跟自己性格差太多了",
+        "onboard_time": 1732803679,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102380,
+        "num": 102380,
+        "word": "贺峻霖到达昆明",
+        "onboard_time": 1732803320,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98011,
+        "num": 98011,
+        "word": "林一cha了初雪",
+        "onboard_time": 1732796179,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92817,
+        "num": 92817,
+        "word": "最高礼遇接英雄回家沈阳准备好了",
+        "onboard_time": 1732777638,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 91978,
+        "num": 91978,
+        "word": "鞠婧祎方发布告黑名单",
+        "onboard_time": 1732798820,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91502,
+        "num": 91502,
+        "word": "市场监管总局挂牌督办查处假羽绒制品",
+        "onboard_time": 1732800200,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 79212,
+        "num": 91224,
+        "word": "千千阙歌 夕阳之歌",
+        "onboard_time": 1732804760,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写供销合作事业高质量发展新篇章#"
+    }
+  }
+}

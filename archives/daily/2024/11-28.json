@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732803754065,
+  "endTime": 1732804925749,
   "band_list": [
     {
       "raw_hot": 4161654,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1293934,
-      "num": 406761,
+      "num": 537149,
       "word": "沈梦瑶 取关",
       "onboard_time": 1732772418,
       "rank": 31,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 766340,
+      "num": 638144,
+      "word": "沙一汀 天塌了",
+      "onboard_time": 1732800139,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750769,
       "num": 1117517,
       "word": "葛夕情绪爆发",
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 676811,
-      "num": 638144,
-      "word": "沙一汀 天塌了",
-      "onboard_time": 1732800139,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 675212,
       "num": 784080,
       "word": "媒体评羊毛月何不食肉糜",
@@ -275,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 655968,
+      "num": 655968,
+      "word": "儿子牺牲后妈妈还能收到他的信",
+      "onboard_time": 1732799720,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 649736,
       "num": 283048,
       "word": "黄圣依微博头像",
       "onboard_time": 1732771579,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 638488,
-      "num": 638488,
-      "word": "儿子牺牲后妈妈还能收到他的信",
-      "onboard_time": 1732799720,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 634658,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598057,
+      "num": 598057,
+      "word": "梅艳芳 拜拜",
+      "onboard_time": 1732802779,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588932,
       "num": 576482,
       "word": "印度电影又出神片",
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530156,
+      "num": 530156,
+      "word": "丁禹兮吴谨言或演兰香如故",
+      "onboard_time": 1732802421,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521246,
       "num": 521246,
       "word": "小米su7",
@@ -392,14 +408,6 @@
       "word": "白夜破晓案件法律点上难度了",
       "onboard_time": 1732763479,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 516303,
-      "num": 516303,
-      "word": "丁禹兮吴谨言或演兰香如故",
-      "onboard_time": 1732802421,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1732767800,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 494905,
+      "num": 253612,
+      "word": "突然发现国内夫妻很少见戴婚戒",
+      "onboard_time": 1732801879,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 486535,
@@ -465,14 +481,6 @@
       "onboard_time": 1732760718,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 448156,
-      "num": 253612,
-      "word": "突然发现国内夫妻很少见戴婚戒",
-      "onboard_time": 1732801879,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 444684,
@@ -603,6 +611,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 387077,
+      "num": 387077,
+      "word": "警方回应小米su7外借却被拍色情片",
+      "onboard_time": 1732792999,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383666,
       "num": 878903,
       "word": "黑龙江又一地疑发现东北虎",
@@ -643,19 +659,19 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 371543,
+      "num": 392517,
+      "word": "河南杂技夫妻相继发生高空坠落背后",
+      "onboard_time": 1732799359,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368399,
       "num": 368399,
       "word": "成都地铁",
       "onboard_time": 1732755859,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367771,
-      "num": 367771,
-      "word": "警方回应小米su7外借却被拍色情片",
-      "onboard_time": 1732792999,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -665,14 +681,6 @@
       "onboard_time": 1732768100,
       "rank": 9,
       "category": "国内时政,正能量"
-    },
-    {
-      "raw_hot": 362385,
-      "num": 392517,
-      "word": "河南杂技夫妻相继发生高空坠落背后",
-      "onboard_time": 1732799359,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358791,
@@ -809,6 +817,14 @@
       "onboard_time": 1732795099,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285048,
+      "num": 539506,
+      "word": "小米SU7被外借拍色情片车主决定卖车",
+      "onboard_time": 1732800679,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 281195,
@@ -987,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230814,
-      "num": 230814,
-      "word": "梅艳芳 拜拜",
-      "onboard_time": 1732802779,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230742,
       "num": 268509,
       "word": "雇主服刑育儿嫂自费抚养女婴三年",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1732800200,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 214005,
+      "num": 214005,
+      "word": "丁禹兮是谁初雪都下了还在炸火花",
+      "onboard_time": 1732804281,
+      "rank": 22,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 212627,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1732764918,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198529,
-      "num": 198529,
-      "word": "小米SU7被外借拍色情片车主决定卖车",
-      "onboard_time": 1732800679,
-      "rank": 48,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 198447,
@@ -1483,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171239,
+      "num": 171239,
+      "word": "胖东来自营羽绒服含鸭绒90%",
+      "onboard_time": 1732801700,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169435,
       "num": 209696,
       "word": "KB呆又呆 我不录了",
@@ -1683,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156175,
+      "num": 156175,
+      "word": "GimGoon回应Doinb队出局",
+      "onboard_time": 1732802721,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155909,
       "num": 155909,
       "word": "男子为引女儿注意从5楼怒扔砖头",
@@ -1707,6 +1731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154580,
+      "num": 154580,
+      "word": "凌晨六点是警惕性最低的时间",
+      "onboard_time": 1732800980,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154042,
       "num": 154042,
       "word": "孟子义唱OST了",
@@ -1729,14 +1761,6 @@
       "onboard_time": 1732782799,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151816,
-      "num": 151816,
-      "word": "胖东来自营羽绒服含鸭绒90%",
-      "onboard_time": 1732801700,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151438,
@@ -1883,14 +1907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145314,
-      "num": 145314,
-      "word": "凌晨六点是警惕性最低的时间",
-      "onboard_time": 1732800980,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144150,
       "num": 136792,
       "word": "白百何接小儿子放学背着上车",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1732788619,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139987,
+      "num": 217706,
+      "word": "Ador希望与NewJeans敞开心扉交谈",
+      "onboard_time": 1732804101,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 139857,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1732763537,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135373,
+      "num": 135373,
+      "word": "烈士牺牲后有人替他写了13年假信",
+      "onboard_time": 1732802660,
+      "rank": 42,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 134994,
@@ -2267,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123301,
+      "num": 459805,
+      "word": "男性HPV疫苗可能成为婚前必备项",
+      "onboard_time": 1732802660,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122898,
       "num": 140428,
       "word": "人贩子王浩文判死刑了",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1732780578,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120027,
-      "num": 120027,
-      "word": "GimGoon回应Doinb队出局",
-      "onboard_time": 1732802721,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 119843,
@@ -2307,6 +2339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119393,
+      "num": 119393,
+      "word": "陈慧娴梅艳芳隔空对望",
+      "onboard_time": 1732803979,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119212,
       "num": 208915,
       "word": "时代少年团祝师兄千玺生日快乐",
@@ -2323,12 +2363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118065,
+      "num": 244987,
+      "word": "俄罗斯卢布汇率创一年来新低",
+      "onboard_time": 1732797859,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116682,
       "num": 116682,
       "word": "英雄回祖国",
       "onboard_time": 1732706118,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116659,
+      "num": 185479,
+      "word": "东北女生在南方被冻到怀疑人生",
+      "onboard_time": 1732803320,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116146,
@@ -2361,6 +2417,14 @@
       "onboard_time": 1732797557,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "成毅深潜演技",
+      "onboard_time": 1732804640,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 113489,
@@ -2491,14 +2555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108292,
-      "num": 108292,
-      "word": "烈士牺牲后有人替他写了13年假信",
-      "onboard_time": 1732802660,
-      "rank": 42,
-      "category": "民生新闻,国内时政"
-    },
-    {
       "raw_hot": 107696,
       "num": 107696,
       "word": "市监局排查临潼区全区华莱士门店",
@@ -2563,14 +2619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103607,
-      "num": 244987,
-      "word": "俄罗斯卢布汇率创一年来新低",
-      "onboard_time": 1732797859,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 103604,
       "num": 103604,
       "word": "进击的巨人 美貌杀回来了",
@@ -2593,6 +2641,14 @@
       "onboard_time": 1732709298,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103346,
+      "num": 103346,
+      "word": "王楚钦 UGG",
+      "onboard_time": 1732804580,
+      "rank": 42,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 102953,
@@ -2731,20 +2787,20 @@
       "category": "民生新闻,舆论监督"
     },
     {
+      "raw_hot": 88244,
+      "num": 354441,
+      "word": "沈梦瑶告丝芭案件已开庭三次",
+      "onboard_time": 1732802899,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88239,
       "num": 88239,
       "word": "卧室巨星",
       "onboard_time": 1732722437,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 88179,
-      "num": 459805,
-      "word": "男性HPV疫苗可能成为婚前必备项",
-      "onboard_time": 1732802660,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87652,
@@ -2873,6 +2929,14 @@
       "onboard_time": 1732794739,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79212,
+      "num": 91224,
+      "word": "千千阙歌 夕阳之歌",
+      "onboard_time": 1732804760,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79095,
@@ -3331,14 +3395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41682,
-      "num": 354441,
-      "word": "沈梦瑶告丝芭案件已开庭三次",
-      "onboard_time": 1732802899,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41675,
       "num": 194054,
       "word": "辛芷蕾嘉人十二月刊封面",
@@ -3377,14 +3433,6 @@
       "onboard_time": 1732722378,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39168,
-      "num": 185479,
-      "word": "东北女生在南方被冻到怀疑人生",
-      "onboard_time": 1732803320,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38185,
