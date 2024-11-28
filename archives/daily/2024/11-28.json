@@ -1,22 +1,30 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732758573426,
+  "endTime": 1732759923443,
   "band_list": [
     {
-      "raw_hot": 1123412,
-      "num": 457577,
+      "raw_hot": 1165787,
+      "num": 537479,
       "word": "王俊凯王源卡零点给易烊千玺庆生",
       "onboard_time": 1732750035,
       "rank": 3,
       "category": "艺人"
     },
     {
-      "raw_hot": 960162,
-      "num": 457573,
+      "raw_hot": 961451,
+      "num": 533779,
       "word": "早年的留几手",
       "onboard_time": 1732754059,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 854200,
+      "num": 1136672,
+      "word": "沈阳街头悬挂3000多面五星红旗",
+      "onboard_time": 1732754598,
+      "rank": 5,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 809628,
@@ -51,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 471143,
+      "num": 471143,
+      "word": "马龙被劝少吃点",
+      "onboard_time": 1732758317,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458578,
       "num": 458578,
       "word": "重婚男子被改判无罪获法院赔偿11万",
@@ -59,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 457487,
-      "num": 457487,
-      "word": "沈阳街头悬挂3000多面五星红旗",
-      "onboard_time": 1732754598,
-      "rank": 5,
-      "category": "国内时政,正能量"
+      "raw_hot": 416877,
+      "num": 416877,
+      "word": "河南坠落杂技演员曾表示不再演出",
+      "onboard_time": 1732754238,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 400637,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 381138,
-      "num": 182951,
+      "num": 197526,
       "word": "英国一母亲把女儿藏抽屉养到3岁",
       "onboard_time": 1732709178,
       "rank": 20,
@@ -123,14 +139,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 317154,
-      "num": 317154,
-      "word": "河南坠落杂技演员曾表示不再演出",
-      "onboard_time": 1732754238,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302988,
       "num": 302988,
       "word": "易烊千玺24岁生日大片",
@@ -148,11 +156,19 @@
     },
     {
       "raw_hot": 296851,
-      "num": 181994,
+      "num": 193214,
       "word": "为什么不建议买太便宜的洗衣液",
       "onboard_time": 1732720159,
       "rank": 10,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 276628,
+      "num": 276628,
+      "word": "四川一银行遭抢劫嫌犯被2保安制服",
+      "onboard_time": 1732753698,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271877,
@@ -168,6 +184,14 @@
       "word": "李行亮说家里卫生请保洁",
       "onboard_time": 1732705579,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258158,
+      "num": 258158,
+      "word": "十个勤天忙完后会回来",
+      "onboard_time": 1732755498,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -195,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231123,
-      "num": 231123,
-      "word": "十个勤天忙完后会回来",
-      "onboard_time": 1732755498,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229158,
       "num": 229158,
       "word": "碎片化睡眠危害等同于熬夜",
@@ -225,6 +241,14 @@
       "onboard_time": 1732753038,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203262,
+      "num": 203262,
+      "word": "卓沅早上好",
+      "onboard_time": 1732759097,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 191443,
@@ -283,11 +307,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178938,
-      "num": 178938,
-      "word": "四川一银行遭抢劫嫌犯被2保安制服",
-      "onboard_time": 1732753698,
-      "rank": 25,
+      "raw_hot": 173294,
+      "num": 173294,
+      "word": "于东来承认表达方式不对",
+      "onboard_time": 1732758017,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -300,19 +324,11 @@
     },
     {
       "raw_hot": 161899,
-      "num": 135570,
+      "num": 160749,
       "word": "武契奇又给中国工人送夜宵了",
       "onboard_time": 1732755679,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160577,
-      "num": 180554,
-      "word": "马龙被劝少吃点",
-      "onboard_time": 1732758317,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 158838,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 143355,
-      "num": 457581,
+      "num": 543669,
       "word": "山河如愿英雄回家",
       "onboard_time": 1732713798,
       "rank": 17,
@@ -427,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115533,
+      "num": 115533,
+      "word": "8个坏习惯会带走气血",
+      "onboard_time": 1732759638,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113489,
       "num": 125872,
       "word": "供应商回应比亚迪要求降价",
@@ -475,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105570,
+      "num": 105570,
+      "word": "哈登单节23分",
+      "onboard_time": 1732759217,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103552,
       "num": 103552,
       "word": "全国约八成帝王蟹来自这里",
@@ -489,14 +521,6 @@
       "onboard_time": 1732709298,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98685,
-      "num": 98685,
-      "word": "于东来承认表达方式不对",
-      "onboard_time": 1732758017,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98624,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 85870,
-      "num": 85870,
+      "num": 183888,
       "word": "第五人格",
       "onboard_time": 1732756099,
       "rank": 44,
@@ -603,20 +627,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 81803,
+      "num": 81803,
+      "word": "张婧仪梦花廷生图路透",
+      "onboard_time": 1732758138,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81471,
       "num": 81471,
       "word": "鞠婧祎久违的小提琴营业",
       "onboard_time": 1732722737,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79688,
-      "num": 79688,
-      "word": "张婧仪梦花廷生图路透",
-      "onboard_time": 1732758138,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 79095,
@@ -641,6 +665,22 @@
       "onboard_time": 1732683020,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76484,
+      "num": 179119,
+      "word": "中国山水藏着一个巨型调色盘",
+      "onboard_time": 1732758439,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 76199,
+      "num": 363404,
+      "word": "今天的中国多希望你们能看到",
+      "onboard_time": 1732758678,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 75915,
@@ -753,6 +793,14 @@
       "onboard_time": 1732707199,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56529,
+      "num": 366918,
+      "word": "今日中国以最高礼遇接英雄回家",
+      "onboard_time": 1732759578,
+      "rank": 8,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 54707,
@@ -907,14 +955,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 34701,
-      "num": 179119,
-      "word": "中国山水藏着一个巨型调色盘",
-      "onboard_time": 1732758439,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 33928,
       "num": 41949,
       "word": "芒果凑齐了三大群像",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1732727834,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23347,
+      "num": 298006,
+      "word": "倪萍谈蔡磊签署遗体捐赠协议",
+      "onboard_time": 1732759638,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22988,
