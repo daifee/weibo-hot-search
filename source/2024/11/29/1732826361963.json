@@ -1,0 +1,410 @@
+{
+  "runTime": 1732826361963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 78970,
+        "num": 78970,
+        "word": "再见爱人节目组发声明",
+        "onboard_time": 1732812135,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65613,
+        "num": 65613,
+        "word": "冬天身上痒1天洗2次澡反患湿疹",
+        "onboard_time": 1732824550,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9470,
+        "num": 55023,
+        "word": "湾区生活又又又又又又提速了",
+        "onboard_time": 1732799539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134743,
+        "num": 54297,
+        "word": "上海民警多次猥亵继女母亲发声",
+        "onboard_time": 1732808599,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50317,
+        "num": 50317,
+        "word": "男子47万买3手宾利发现竟是13手",
+        "onboard_time": 1732808538,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44188,
+        "num": 44188,
+        "word": "一名在美潜逃多年逃犯被遣返回国",
+        "onboard_time": 1732822090,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41320,
+        "num": 41320,
+        "word": "羽绒服敢卖199赌的就是你不懂",
+        "onboard_time": 1732797679,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38812,
+        "num": 38812,
+        "word": "傅首尔说能get到麦琳的点",
+        "onboard_time": 1732815013,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25544,
+        "num": 35670,
+        "word": "塔克拉玛干沙漠被整个围起来了",
+        "onboard_time": 1732807639,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19321,
+        "num": 33749,
+        "word": "特朗普关税大棒下没有赢家",
+        "onboard_time": 1732824071,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33692,
+        "num": 33692,
+        "word": "Newjeans宣布解约",
+        "onboard_time": 1732796059,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32422,
+        "num": 32422,
+        "word": "易烊千玺评论区回复王俊凯王源",
+        "onboard_time": 1732808658,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31042,
+        "num": 31042,
+        "word": "沈梦瑶 取关",
+        "onboard_time": 1732772418,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30151,
+        "num": 30151,
+        "word": "卢布崩了",
+        "onboard_time": 1732794799,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28783,
+        "num": 28783,
+        "word": "大冰为脑瘫女孩追星薛之谦",
+        "onboard_time": 1732809737,
+        "rank": 14,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 27968,
+        "num": 27968,
+        "word": "父母希望黄圣依有正常的婚姻关系",
+        "onboard_time": 1732807639,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25940,
+        "num": 25940,
+        "word": "警方回应小米su7外借却被拍色情片",
+        "onboard_time": 1732792999,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24364,
+        "num": 24364,
+        "word": "凌晨六点是警惕性最低的时间",
+        "onboard_time": 1732800980,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22903,
+        "num": 22903,
+        "word": "遭前男友囚禁烫伤女生脱离生命危险",
+        "onboard_time": 1732813334,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22130,
+        "num": 22130,
+        "word": "儿子牺牲后妈妈还能收到他的信",
+        "onboard_time": 1732799720,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26172,
+        "num": 22014,
+        "word": "突然发现国内夫妻很少见戴婚戒",
+        "onboard_time": 1732801879,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21628,
+        "num": 21628,
+        "word": "麦琳全职妈妈带两娃的KPI被忽视",
+        "onboard_time": 1732808897,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19138,
+        "num": 19138,
+        "word": "拿千元羽绒服翻新拆开竟没有羽绒",
+        "onboard_time": 1732807879,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17846,
+        "num": 17846,
+        "word": "哈尔滨冰雪大世界冰滑梯动工",
+        "onboard_time": 1732821311,
+        "rank": 23,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 17547,
+        "num": 17547,
+        "word": "贺峻霖接手向太轮椅",
+        "onboard_time": 1732810457,
+        "rank": 24,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 16987,
+        "num": 16987,
+        "word": "俄罗斯卢布汇率创一年来新低",
+        "onboard_time": 1732797859,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16731,
+        "num": 16731,
+        "word": "高校教职工将狗套袋中当街打死",
+        "onboard_time": 1732818491,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16668,
+        "num": 16668,
+        "word": "河南杂技夫妻相继发生高空坠落背后",
+        "onboard_time": 1732799359,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16267,
+        "num": 16267,
+        "word": "斯瓦泰克兴奋剂阳性",
+        "onboard_time": 1732806558,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16127,
+        "num": 16127,
+        "word": "首付3万买了没人要的阁楼",
+        "onboard_time": 1732796419,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15896,
+        "num": 15896,
+        "word": "东北女生在南方被冻到怀疑人生",
+        "onboard_time": 1732803320,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 15395,
+        "word": "双20编队列阵长空告慰志愿军忠烈",
+        "onboard_time": 1732820532,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5707,
+        "num": 15309,
+        "word": "易烊无可复制的经过构成生活",
+        "onboard_time": 1732823831,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15239,
+        "num": 15239,
+        "word": "多想请您看看今日中国",
+        "onboard_time": 1732823110,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15172,
+        "num": 15172,
+        "word": "三名被美方错误羁押中国公民回国",
+        "onboard_time": 1732821372,
+        "rank": 34,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 14988,
+        "num": 14988,
+        "word": "广州地铁通报5人因下车拥挤冲突",
+        "onboard_time": 1732807339,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 14936,
+        "num": 14936,
+        "word": "他们的脚步好轻像怕惊扰沉睡的英魂",
+        "onboard_time": 1732825210,
+        "rank": 36,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 14579,
+        "num": 14579,
+        "word": "冯绍峰方回应恋情",
+        "onboard_time": 1732784301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14532,
+        "num": 14532,
+        "word": "中国最大沙漠锁边完成",
+        "onboard_time": 1732813515,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14236,
+        "num": 14236,
+        "word": "梅艳芳 拜拜",
+        "onboard_time": 1732802779,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14140,
+        "num": 14140,
+        "word": "志愿军老兵整齐列队行军礼接老战友们回家",
+        "onboard_time": 1732816932,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13796,
+        "num": 13796,
+        "word": "最高礼遇接英雄回家沈阳准备好了",
+        "onboard_time": 1732777638,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 13953,
+        "num": 13781,
+        "word": "猎罪图鉴2下周播出",
+        "onboard_time": 1732794199,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13645,
+        "num": 13645,
+        "word": "斯瓦泰克已接受一个月禁赛",
+        "onboard_time": 1732813814,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13463,
+        "num": 13463,
+        "word": "最高礼遇是致敬英烈更是告慰英烈",
+        "onboard_time": 1732812617,
+        "rank": 44,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 13345,
+        "num": 13345,
+        "word": "警方已介入运狗车事件",
+        "onboard_time": 1732795099,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13226,
+        "num": 13226,
+        "word": "市场监管总局挂牌督办查处假羽绒制品",
+        "onboard_time": 1732800200,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 13201,
+        "num": 13201,
+        "word": "丈夫住院取2.5万元被银行电话核实",
+        "onboard_time": 1732790179,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12974,
+        "num": 12974,
+        "word": "华晨宇 果然人在尴尬时会很忙",
+        "onboard_time": 1732807699,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12950,
+        "num": 12950,
+        "word": "GimGoon回应Doinb队出局",
+        "onboard_time": 1732802721,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向乌拉圭当选总统奥尔西致贺电#"
+    }
+  }
+}
