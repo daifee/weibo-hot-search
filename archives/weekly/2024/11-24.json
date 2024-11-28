@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732782696526,
+  "endTime": 1732783519385,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1293934,
-      "num": 325776,
+      "num": 346795,
       "word": "沈梦瑶 取关",
       "onboard_time": 1732772418,
       "rank": 31,
@@ -1579,20 +1579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679649,
+      "num": 679649,
+      "word": "27岁清华博士已任上海交大博导",
+      "onboard_time": 1732780399,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678456,
       "num": 678456,
       "word": "殴打小学生派出所人员被撤职",
       "onboard_time": 1732439658,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 676595,
-      "num": 676595,
-      "word": "27岁清华博士已任上海交大博导",
-      "onboard_time": 1732780399,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 676523,
@@ -1660,7 +1660,7 @@
     },
     {
       "raw_hot": 660114,
-      "num": 320462,
+      "num": 338496,
       "word": "李行亮朋友让麦琳去妈味",
       "onboard_time": 1732779018,
       "rank": 5,
@@ -1731,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642374,
+      "num": 642374,
+      "word": "葛夕情绪爆发",
+      "onboard_time": 1732780220,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641877,
       "num": 641877,
       "word": "孙颖莎为邱贻可庆生",
@@ -1739,20 +1747,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 634396,
+      "num": 634396,
+      "word": "医保砍价现场1分1毛都要尽力争取",
+      "onboard_time": 1732779978,
+      "rank": 3,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 630863,
       "num": 442798,
       "word": "双关自曝",
       "onboard_time": 1732427657,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 630768,
-      "num": 630768,
-      "word": "医保砍价现场1分1毛都要尽力争取",
-      "onboard_time": 1732779978,
-      "rank": 3,
-      "category": "正能量"
     },
     {
       "raw_hot": 629182,
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 625584,
-      "num": 342544,
+      "num": 387510,
       "word": "四大长红顶流",
       "onboard_time": 1732778179,
       "rank": 16,
@@ -1889,14 +1897,6 @@
       "onboard_time": 1732512379,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 610472,
-      "num": 610472,
-      "word": "葛夕情绪爆发",
-      "onboard_time": 1732780220,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 610026,
@@ -2204,7 +2204,7 @@
     },
     {
       "raw_hot": 552617,
-      "num": 344950,
+      "num": 388283,
       "word": "种地吧",
       "onboard_time": 1732498337,
       "rank": 35,
@@ -2787,6 +2787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 444684,
+      "num": 344253,
+      "word": "荣梓杉 我自己洗",
+      "onboard_time": 1732780578,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443058,
       "num": 443058,
       "word": "凭什么被抄袭的人反而要自证",
@@ -3171,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389875,
+      "num": 389875,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 389741,
       "num": 389741,
       "word": "医生称用这3种卫生巾易引病上身",
@@ -3313,14 +3329,6 @@
       "onboard_time": 1732593438,
       "rank": 17,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 374077,
-      "num": 374077,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 373458,
@@ -3609,6 +3617,14 @@
       "onboard_time": 1732440021,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349238,
+      "num": 349238,
+      "word": "安徽一副市长拒绝组织挽救被双开",
+      "onboard_time": 1732780939,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349229,
@@ -3913,14 +3929,6 @@
       "onboard_time": 1732680860,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 316611,
-      "num": 316611,
-      "word": "荣梓杉 我自己洗",
-      "onboard_time": 1732780578,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 315864,
@@ -4321,14 +4329,6 @@
       "onboard_time": 1732425379,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285753,
-      "num": 285753,
-      "word": "安徽一副市长拒绝组织挽救被双开",
-      "onboard_time": 1732780939,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285205,
@@ -6516,7 +6516,7 @@
     },
     {
       "raw_hot": 197479,
-      "num": 170404,
+      "num": 241649,
       "word": "杨子黄圣依分房子睡",
       "onboard_time": 1732781480,
       "rank": 28,
@@ -8235,6 +8235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164290,
+      "num": 159241,
+      "word": "麦琳脚踩抱枕再见爱人民宿老板发声",
+      "onboard_time": 1732782980,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164157,
       "num": 164157,
       "word": "北大偶遇戚薇上课",
@@ -8603,6 +8611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157541,
+      "num": 157541,
+      "word": "芒果 搞情怀的神",
+      "onboard_time": 1732782920,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157289,
       "num": 157289,
       "word": "世界乒联恭喜王楚钦",
@@ -8841,6 +8857,14 @@
       "onboard_time": 1732509801,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152916,
+      "num": 152916,
+      "word": "唐三地狱路高开疯走",
+      "onboard_time": 1732782799,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 152531,
@@ -9123,6 +9147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147739,
+      "num": 147739,
+      "word": "广州地铁",
+      "onboard_time": 1732783281,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147418,
       "num": 147418,
       "word": "特朗普的善变会给世界经济带来什么",
@@ -9297,6 +9329,14 @@
       "onboard_time": 1732605860,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143910,
+      "num": 143910,
+      "word": "吉利高管曾寄刀给博世总裁希望降价",
+      "onboard_time": 1732781179,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 143909,
@@ -10003,6 +10043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132578,
+      "num": 230970,
+      "word": "易烊千玺澡堂手牌",
+      "onboard_time": 1732781960,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132562,
       "num": 132562,
       "word": "白鹿张凌赫参加尖叫之夜",
@@ -10024,6 +10072,14 @@
       "word": "北京的雪在路上了",
       "onboard_time": 1732418538,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132132,
+      "num": 132132,
+      "word": "高铁晚点",
+      "onboard_time": 1732780820,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -10081,6 +10137,14 @@
       "onboard_time": 1732423698,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131400,
+      "num": 131400,
+      "word": "张蔷帮向太推轮椅",
+      "onboard_time": 1732782139,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 131270,
@@ -10387,6 +10451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126709,
+      "num": 126709,
+      "word": "李行亮 学区房",
+      "onboard_time": 1732783461,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126546,
       "num": 126546,
       "word": "A股三大指数强势上攻",
@@ -10411,20 +10483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126271,
-      "num": 121838,
-      "word": "张蔷帮向太推轮椅",
-      "onboard_time": 1732782139,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126013,
       "num": 126013,
       "word": "英雄回家原创MV归",
       "onboard_time": 1732671196,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 125984,
+      "num": 125984,
+      "word": "国产癫痫救命药氯巴占进医保了",
+      "onboard_time": 1732783461,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125941,
@@ -10729,14 +10801,6 @@
       "onboard_time": 1732700718,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121750,
-      "num": 121750,
-      "word": "吉利高管曾寄刀给博世总裁希望降价",
-      "onboard_time": 1732781179,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 121698,
@@ -11057,14 +11121,6 @@
       "onboard_time": 1732425857,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116686,
-      "num": 116686,
-      "word": "高铁晚点",
-      "onboard_time": 1732780820,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116634,
@@ -12203,14 +12259,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96873,
-      "num": 230970,
-      "word": "易烊千玺澡堂手牌",
-      "onboard_time": 1732781960,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96864,
       "num": 191302,
       "word": "张真源低头vs抬眸",
@@ -12249,6 +12297,14 @@
       "onboard_time": 1732712358,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96163,
+      "num": 348338,
+      "word": "王浩文拐卖儿童案二审未当庭宣判",
+      "onboard_time": 1732783101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95937,
@@ -13291,6 +13347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 72118,
+      "num": 156232,
+      "word": "李梦帮工作人员追星谢娜",
+      "onboard_time": 1732782799,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71264,
       "num": 166381,
       "word": "赵一博主页新添加了公司的名字",
@@ -13595,6 +13659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 63589,
+      "num": 339828,
+      "word": "校方回应职工校门口套袋打死流浪狗",
+      "onboard_time": 1732782560,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63417,
       "num": 195680,
       "word": "张艺兴的探索敦煌vlog",
@@ -13803,6 +13875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59221,
+      "num": 188581,
+      "word": "黎深猫猫首领",
+      "onboard_time": 1732781359,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58974,
       "num": 475534,
       "word": "拿自残自杀威胁对方也属于家庭暴力",
@@ -13881,6 +13961,14 @@
       "onboard_time": 1732443979,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58047,
+      "num": 131505,
+      "word": "周迅来了也要说一句好多人啊",
+      "onboard_time": 1732782860,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 57989,
@@ -14465,6 +14553,14 @@
       "onboard_time": 1732624519,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48143,
+      "num": 234373,
+      "word": "上海民警猥亵继女案开庭",
+      "onboard_time": 1732783101,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47964,
@@ -16075,6 +16171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27443,
+      "num": 126798,
+      "word": "英伦风秋冬穿搭",
+      "onboard_time": 1732783219,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 27306,
       "num": 212756,
       "word": "王曼昱对粉丝说辛苦了",
@@ -16200,14 +16304,6 @@
       "word": "网售百元助听器放大噪音",
       "onboard_time": 1732518618,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25611,
-      "num": 318788,
-      "word": "校方回应职工校门口套袋打死流浪狗",
-      "onboard_time": 1732782560,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -16665,6 +16761,14 @@
       "onboard_time": 1732469834,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19845,
+      "num": 155114,
+      "word": "南方人第一次看见雪的反应",
+      "onboard_time": 1732782741,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 19825,
