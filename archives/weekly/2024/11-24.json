@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732771437018,
+  "endTime": 1732772502937,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -161,6 +161,14 @@
       "onboard_time": 1732588157,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1786228,
+      "num": 360302,
+      "word": "李行亮只争女儿抚养权",
+      "onboard_time": 1732770919,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1779571,
@@ -1667,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 649736,
+      "num": 283048,
+      "word": "黄圣依微博头像",
+      "onboard_time": 1732771579,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645336,
       "num": 645336,
       "word": "河南一杂技演员表演时绳子断裂坠落",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1732456099,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 578237,
-      "num": 360302,
-      "word": "李行亮只争女儿抚养权",
-      "onboard_time": 1732770919,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 577347,
@@ -3763,6 +3771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317613,
+      "num": 317613,
+      "word": "运20在机场落地",
+      "onboard_time": 1732770679,
+      "rank": 27,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 316618,
       "num": 316618,
       "word": "曝比亚迪要求供应商降价",
@@ -4315,6 +4331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276376,
+      "num": 276376,
+      "word": "乌克兰2.3万大学生被开除",
+      "onboard_time": 1732770799,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276204,
       "num": 276204,
       "word": "5个放松行为其实很损耗气血",
@@ -4635,14 +4659,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 255827,
-      "num": 255827,
-      "word": "乌克兰2.3万大学生被开除",
-      "onboard_time": 1732770799,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 255248,
       "num": 255248,
       "word": "Daeny疑似加入iG",
@@ -4793,14 +4809,6 @@
       "onboard_time": 1732506319,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247285,
-      "num": 247285,
-      "word": "运20在机场落地",
-      "onboard_time": 1732770679,
-      "rank": 27,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 246740,
@@ -5217,6 +5225,14 @@
       "onboard_time": 1732601539,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226516,
+      "num": 226516,
+      "word": "没有卫生巾用时可以用纸尿裤代替",
+      "onboard_time": 1732768400,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 226044,
@@ -6299,12 +6315,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198409,
+      "num": 198409,
+      "word": "何浩楠不种地改陪帝君下凡追爱",
+      "onboard_time": 1732771999,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198132,
       "num": 238963,
       "word": "马龙随手掏pin送粉丝",
       "onboard_time": 1732696098,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198077,
+      "num": 198077,
+      "word": "马斯克宣布进军游戏业",
+      "onboard_time": 1732770860,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 197879,
@@ -6457,6 +6489,14 @@
       "onboard_time": 1732597339,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195090,
+      "num": 195090,
+      "word": "贺峻霖首个常驻旅游综",
+      "onboard_time": 1732771758,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 195081,
@@ -6724,7 +6764,7 @@
     },
     {
       "raw_hot": 190262,
-      "num": 190262,
+      "num": 279977,
       "word": "李昊在声生不息推广十个勤天",
       "onboard_time": 1732770560,
       "rank": 32,
@@ -7395,6 +7435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177509,
+      "num": 259867,
+      "word": "王楚钦又出差了",
+      "onboard_time": 1732772060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177299,
       "num": 177299,
       "word": "特朗普宣布俄乌冲突问题特使人选",
@@ -7891,6 +7939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166492,
+      "num": 209567,
+      "word": "李川 李总前世是王子",
+      "onboard_time": 1732771279,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166488,
       "num": 166488,
       "word": "王曼昱说第一次总决赛夺冠非常激动",
@@ -8065,6 +8121,14 @@
       "onboard_time": 1732421778,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162816,
+      "num": 162816,
+      "word": "看完留几手这段血压飙升",
+      "onboard_time": 1732771459,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 162735,
@@ -8259,6 +8323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159452,
+      "num": 159452,
+      "word": "婚内婚外 中年人的婚姻全是心思",
+      "onboard_time": 1732772119,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159432,
       "num": 218002,
       "word": "日本近海6.2级左右地震",
@@ -8273,14 +8345,6 @@
       "onboard_time": 1732687938,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159062,
-      "num": 159062,
-      "word": "没有卫生巾用时可以用纸尿裤代替",
-      "onboard_time": 1732768400,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 158982,
@@ -8505,14 +8569,6 @@
       "onboard_time": 1732516098,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154927,
-      "num": 154927,
-      "word": "马斯克宣布进军游戏业",
-      "onboard_time": 1732770860,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 154821,
@@ -9067,6 +9123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143115,
+      "num": 205459,
+      "word": "国乒主力出发成都混团世界杯",
+      "onboard_time": 1732770739,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142846,
       "num": 142846,
       "word": "张杰未live巡回演唱会",
@@ -9153,14 +9217,6 @@
       "onboard_time": 1732625179,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141405,
-      "num": 166605,
-      "word": "李川 李总前世是王子",
-      "onboard_time": 1732771279,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 141332,
@@ -9707,6 +9763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131551,
+      "num": 350926,
+      "word": "投资300万认养600头牛变成6万斤牛肉",
+      "onboard_time": 1732770739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131517,
       "num": 131517,
       "word": "罗振宇喊话余承东",
@@ -9929,6 +9993,14 @@
       "onboard_time": 1732597999,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127148,
+      "num": 352440,
+      "word": "留几手享受踩葛夕的乐趣",
+      "onboard_time": 1732770799,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 127134,
@@ -10273,14 +10345,6 @@
       "onboard_time": 1732691658,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122361,
-      "num": 205459,
-      "word": "国乒主力出发成都混团世界杯",
-      "onboard_time": 1732770739,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 122295,
@@ -11571,14 +11635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 100596,
-      "num": 350926,
-      "word": "投资300万认养600头牛变成6万斤牛肉",
-      "onboard_time": 1732770739,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100144,
       "num": 304500,
       "word": "女厕大排长龙不能总无解",
@@ -11953,6 +12009,14 @@
       "onboard_time": 1732716620,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92227,
+      "num": 201850,
+      "word": "沈梦瑶 取关",
+      "onboard_time": 1732772418,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 91704,
@@ -12345,6 +12409,14 @@
       "onboard_time": 1732612999,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82493,
+      "num": 277514,
+      "word": "水哥状态好像上早八的我",
+      "onboard_time": 1732771339,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 82323,
@@ -13411,6 +13483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57194,
+      "num": 280309,
+      "word": "拍视频拍了别人也侵犯了肖像权",
+      "onboard_time": 1732772359,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57114,
       "num": 262170,
       "word": "樊振东操控AI发微博",
@@ -13593,14 +13673,6 @@
       "onboard_time": 1732534398,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 52965,
-      "num": 184542,
-      "word": "水哥状态好像上早八的我",
-      "onboard_time": 1732771339,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 52941,
@@ -14579,14 +14651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 38621,
-      "num": 352440,
-      "word": "留几手享受踩葛夕的乐趣",
-      "onboard_time": 1732770799,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38606,
       "num": 38606,
       "word": "丁禹兮新歌MV细节",
@@ -14944,6 +15008,14 @@
       "word": "民警帮400多人寻亲锦旗铺满院子",
       "onboard_time": 1732748415,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32954,
+      "num": 279266,
+      "word": "王浩文拐卖儿童数量可能超五六十人",
+      "onboard_time": 1732772298,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -15931,6 +16003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21661,
+      "num": 282163,
+      "word": "雷公称人贩子王浩文卷宗高达2.5米",
+      "onboard_time": 1732772298,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21555,
       "num": 21555,
       "word": "别对找不到工作的年轻人说风凉话",
@@ -16833,6 +16913,14 @@
       "onboard_time": 1732446021,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7152,
+      "num": 292024,
+      "word": "运20歼20飞行员空中对话",
+      "onboard_time": 1732772480,
+      "rank": 8,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 7016,
