@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 18:26:27
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 18:44:33
 </p>
 </blockquote>
 <p>
@@ -5175,6 +5175,12 @@ Boss直聘回应求职者被要求陪睡（热度：916146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A0%E7%99%BE%E5%8F%AA%E7%8B%97%E5%8F%97%E5%86%BB%E6%B5%81%E8%A1%80%E8%A2%AB%E8%A3%85%E9%B8%A1%E7%AC%BC%E5%A1%9E%E6%BB%A1%E5%8D%A1%E8%BD%A6%23" target="weibo">
+几百只狗受冻流血被装鸡笼塞满卡车（热度：905428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%91%E4%BA%86%E5%87%8C%E5%A6%99%E5%A6%99%E8%BD%AC%E5%9C%BA%23" target="weibo">
 清华大学发了凌妙妙转场（热度：905321）
 </a>
@@ -6005,12 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8D%E5%BA%94%E6%88%90%E4%B8%BA%E6%BB%A1%E8%B6%B3%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E7%A7%81%E6%AC%B2%E7%9A%84%E7%89%BA%E7%89%B2%E5%93%81%23" target="weibo">
 大熊猫不应成为满足韩国民众私欲的牺牲品（热度：829668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E7%81%AB%E8%8A%B1%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%85%A5%E4%BE%B5%E9%9F%A9%E5%A8%B1%E7%AD%BE%E5%94%AE%23" target="weibo">
-炸火花已全面入侵韩娱签售（热度：829547）
 </a>
 </li>
 
