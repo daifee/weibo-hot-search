@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732765814052,
+  "endTime": 1732768164506,
   "band_list": [
     {
       "raw_hot": 1779571,
@@ -9,6 +9,14 @@
       "onboard_time": 1732759937,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1756623,
+      "num": 1756623,
+      "word": "助学贷款是可以不用还的",
+      "onboard_time": 1732765698,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1217482,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1213685,
-      "num": 374120,
+      "num": 587765,
       "word": "2岁女童因投喂后呕吐绝食1个月",
       "onboard_time": 1732762818,
       "rank": 10,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1008606,
-      "num": 444981,
+      "num": 604087,
       "word": "疑似麦琳大粉发声",
       "onboard_time": 1732763178,
       "rank": 16,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613109,
+      "num": 613109,
+      "word": "中国麻辣烫在日本人气火爆",
+      "onboard_time": 1732765698,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 587091,
       "num": 587091,
       "word": "董宇辉喝白花蛇草水表情瞬间失控",
@@ -107,12 +123,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 560010,
-      "num": 190553,
-      "word": "助学贷款是可以不用还的",
+      "raw_hot": 576482,
+      "num": 576482,
+      "word": "印度电影又出神片",
       "onboard_time": 1732765698,
-      "rank": 30,
-      "category": "情感"
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 552881,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 517736,
-      "num": 401408,
+      "num": 602454,
       "word": "白夜破晓案件法律点上难度了",
       "onboard_time": 1732763479,
       "rank": 42,
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410835,
+      "num": 410835,
+      "word": "一起接43位志愿军烈士回国",
+      "onboard_time": 1732761497,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 400637,
       "num": 400637,
       "word": "彭高箱根两日",
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392149,
+      "num": 268475,
+      "word": "QQ音乐 易烊千玺",
+      "onboard_time": 1732767800,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383666,
       "num": 878903,
       "word": "黑龙江又一地疑发现东北虎",
@@ -211,14 +243,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 380695,
-      "num": 380695,
-      "word": "一起接43位志愿军烈士回国",
-      "onboard_time": 1732761497,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 368399,
       "num": 368399,
       "word": "成都地铁",
@@ -233,6 +257,14 @@
       "onboard_time": 1732718840,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 348513,
+      "num": 348513,
+      "word": "妻子坠海丈夫却急着开死亡证明",
+      "onboard_time": 1732764738,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334690,
@@ -363,6 +395,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236920,
+      "num": 210610,
+      "word": "密子君一人烤肉自助",
+      "onboard_time": 1732766838,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 236906,
+      "num": 236906,
+      "word": "范丞丞聚餐后去酒吧",
+      "onboard_time": 1732767079,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230742,
+      "num": 268509,
+      "word": "雇主服刑育儿嫂自费抚养女婴三年",
+      "onboard_time": 1732763238,
+      "rank": 47,
+      "category": "民生新闻,正能量"
+    },
+    {
       "raw_hot": 229158,
       "num": 229158,
       "word": "碎片化睡眠危害等同于熬夜",
@@ -403,12 +459,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213175,
+      "num": 253321,
+      "word": "再见爱人",
+      "onboard_time": 1732762938,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207335,
+      "num": 207335,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1732766659,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205445,
+      "num": 415616,
+      "word": "声生不息",
+      "onboard_time": 1732767320,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203262,
       "num": 203262,
       "word": "卓沅早上好",
       "onboard_time": 1732759097,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201224,
+      "num": 201224,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 199241,
@@ -427,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197544,
-      "num": 197544,
+      "raw_hot": 197640,
+      "num": 197640,
       "word": "秦彻龙塑",
       "onboard_time": 1732765399,
       "rank": 27,
@@ -483,20 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183295,
+      "num": 183295,
+      "word": "SEVENTEEN台历",
+      "onboard_time": 1732767860,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182887,
+      "num": 182887,
+      "word": "团建不能停",
+      "onboard_time": 1732767139,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182839,
       "num": 158363,
       "word": "利物浦2比0皇马",
       "onboard_time": 1732749255,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182390,
-      "num": 182390,
-      "word": "中国麻辣烫在日本人气火爆",
-      "onboard_time": 1732765698,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 181035,
@@ -531,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177299,
+      "num": 177299,
+      "word": "特朗普宣布俄乌冲突问题特使人选",
+      "onboard_time": 1732762818,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176848,
       "num": 366918,
       "word": "今日中国以最高礼遇接英雄回家",
@@ -547,6 +651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173157,
+      "num": 173157,
+      "word": "广西一村上百只猴子成群糟蹋收成",
+      "onboard_time": 1732762519,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168839,
+      "num": 191176,
+      "word": "姆巴佩灾难表现",
+      "onboard_time": 1732762878,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168117,
       "num": 168117,
       "word": "御赐小仵作2",
@@ -561,14 +681,6 @@
       "onboard_time": 1732758678,
       "rank": 9,
       "category": "国内时政,正能量"
-    },
-    {
-      "raw_hot": 167427,
-      "num": 191176,
-      "word": "姆巴佩灾难表现",
-      "onboard_time": 1732762878,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 165364,
@@ -601,22 +713,6 @@
       "onboard_time": 1732714999,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158624,
-      "num": 253321,
-      "word": "再见爱人",
-      "onboard_time": 1732762938,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 158495,
-      "num": 158495,
-      "word": "广西一村上百只猴子成群糟蹋收成",
-      "onboard_time": 1732762519,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155909,
@@ -659,12 +755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147599,
-      "num": 147599,
-      "word": "雇主服刑育儿嫂自费抚养女婴三年",
-      "onboard_time": 1732763238,
-      "rank": 47,
-      "category": "民生新闻,正能量"
+      "raw_hot": 148857,
+      "num": 148857,
+      "word": "丁禹兮黑白森林打戏",
+      "onboard_time": 1732768040,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 147111,
@@ -683,14 +779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144867,
-      "num": 144867,
-      "word": "印度电影又出神片",
-      "onboard_time": 1732765698,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144150,
       "num": 136792,
       "word": "白百何接小儿子放学背着上车",
@@ -699,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143826,
-      "num": 143826,
-      "word": "特朗普宣布俄乌冲突问题特使人选",
-      "onboard_time": 1732762818,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 143569,
+      "num": 143569,
+      "word": "KBS",
+      "onboard_time": 1732768040,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 140713,
@@ -713,14 +801,6 @@
       "onboard_time": 1732764559,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140505,
-      "num": 140505,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 139857,
@@ -745,6 +825,14 @@
       "onboard_time": 1732760176,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136489,
+      "num": 592755,
+      "word": "迎接烈士回国的塔台对话听到泪目",
+      "onboard_time": 1732768100,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 136417,
@@ -792,14 +880,6 @@
       "word": "羽绒骗局曝光",
       "onboard_time": 1732731251,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129802,
-      "num": 129802,
-      "word": "妻子坠海丈夫却急着开死亡证明",
-      "onboard_time": 1732764738,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -859,6 +939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112377,
+      "num": 132982,
+      "word": "哈登43分",
+      "onboard_time": 1732766659,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112228,
       "num": 112228,
       "word": "姆巴佩失点",
@@ -915,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104029,
+      "num": 245873,
+      "word": "潘展乐等李雯雯分果果",
+      "onboard_time": 1732766600,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103552,
       "num": 103552,
       "word": "全国约八成帝王蟹来自这里",
@@ -947,6 +1043,14 @@
       "category": "体育,数码"
     },
     {
+      "raw_hot": 95937,
+      "num": 213007,
+      "word": "法医看白夜破晓顺带做了笔记",
+      "onboard_time": 1732766478,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93848,
       "num": 93848,
       "word": "苏新皓真的最后一遍了",
@@ -969,6 +1073,14 @@
       "onboard_time": 1732749315,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89464,
+      "num": 275878,
+      "word": "乡镇卫生院因欠药企钱开不出药",
+      "onboard_time": 1732766720,
+      "rank": 19,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 88239,
@@ -1128,6 +1240,14 @@
       "word": "赵一博主页新添加了公司的名字",
       "onboard_time": 1732763599,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70899,
+      "num": 412024,
+      "word": "王源致敬志愿军",
+      "onboard_time": 1732767800,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1291,6 +1411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42648,
+      "num": 435892,
+      "word": "专家称老虎进村是想拓展新领地",
+      "onboard_time": 1732766958,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41949,
       "num": 41949,
       "word": "他们牺牲时平均年龄仅22岁",
@@ -1339,6 +1467,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37823,
+      "num": 208915,
+      "word": "时代少年团祝师兄千玺生日快乐",
+      "onboard_time": 1732768040,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36867,
+      "num": 597855,
+      "word": "官方回应黑龙江村庄又现老虎踪迹",
+      "onboard_time": 1732767800,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 36862,
       "num": 41949,
       "word": "王境泽采访",
@@ -1353,6 +1497,14 @@
       "onboard_time": 1732756217,
       "rank": 9,
       "category": "国内时政,正能量"
+    },
+    {
+      "raw_hot": 35381,
+      "num": 211415,
+      "word": "奥运冠军提小鹏MONA也要三个月",
+      "onboard_time": 1732766958,
+      "rank": 29,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 35198,
@@ -1419,12 +1571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31047,
+      "num": 208454,
+      "word": "宁悦女版李行亮",
+      "onboard_time": 1732767800,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30822,
       "num": 30822,
       "word": "王源孤星计划开启预售",
       "onboard_time": 1732728733,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30173,
+      "num": 248025,
+      "word": "华为Mate70升级XMAGE影像风格",
+      "onboard_time": 1732764258,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 28627,
@@ -1473,14 +1641,6 @@
       "onboard_time": 1732727834,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23826,
-      "num": 248025,
-      "word": "华为Mate70升级XMAGE影像风格",
-      "onboard_time": 1732764258,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 22988,

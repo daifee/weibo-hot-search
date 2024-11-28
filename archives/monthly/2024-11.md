@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 11:50:14
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 12:29:24
 </p>
 </blockquote>
 <p>
@@ -1307,6 +1307,12 @@ K7034列车发生脱轨事故（热度：1833924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E9%92%89%E5%AD%90%E6%88%B7%23" target="weibo">
 苹果喊话iPhone13和14钉子户（热度：1758455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E8%BF%98%E7%9A%84%23" target="weibo">
+助学贷款是可以不用还的（热度：1756623）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%A9%BA%E5%86%9B%E5%AE%98%E5%AE%A3%23" target="weibo">
 人民空军官宣（热度：824271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E5%B7%B2%E4%B8%8B%E6%9E%B6%E5%A4%9A%E6%AC%BE%E8%A2%AB%E6%89%93%E5%81%87%E4%BA%A7%E5%93%81%23" target="weibo">
-良品铺子已下架多款被打假产品（热度：823620）
 </a>
 </li>
 
