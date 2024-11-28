@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732833671434,
+  "endTime": 1732836178783,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -715,6 +715,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1070193,
+      "num": 445338,
+      "word": "上海民警多次猥亵继女母亲发声",
+      "onboard_time": 1732808599,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1063430,
       "num": 377063,
       "word": "冯绍峰方回应恋情",
@@ -737,14 +745,6 @@
       "onboard_time": 1732622899,
       "rank": 10,
       "category": "网红,舆论监督"
-    },
-    {
-      "raw_hot": 1041434,
-      "num": 445338,
-      "word": "上海民警多次猥亵继女母亲发声",
-      "onboard_time": 1732808599,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1035568,
@@ -2459,6 +2459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 531623,
+      "num": 793462,
+      "word": "凌晨六点是警惕性最低的时间",
+      "onboard_time": 1732800980,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 530156,
       "num": 530156,
       "word": "丁禹兮吴谨言或演兰香如故",
@@ -3491,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384106,
+      "num": 384106,
+      "word": "鹤岗迎破纪录特大暴雪",
+      "onboard_time": 1732831271,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383666,
       "num": 878903,
       "word": "黑龙江又一地疑发现东北虎",
@@ -3977,14 +3993,6 @@
       "onboard_time": 1732485911,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343953,
-      "num": 499476,
-      "word": "凌晨六点是警惕性最低的时间",
-      "onboard_time": 1732800980,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 343841,
@@ -5603,6 +5611,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 235144,
+      "num": 235144,
+      "word": "冬天身上痒1天洗2次澡反患湿疹",
+      "onboard_time": 1732824550,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234564,
       "num": 234564,
       "word": "原来蜀锦是淳儿织的",
@@ -6033,6 +6049,14 @@
       "onboard_time": 1732426937,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220843,
+      "num": 220843,
+      "word": "鹿晗直播",
+      "onboard_time": 1732836016,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 220399,
@@ -8635,6 +8659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168203,
+      "num": 155592,
+      "word": "鹿晗",
+      "onboard_time": 1732836016,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168195,
       "num": 279641,
       "word": "恩波俱乐部晒合同",
@@ -9409,6 +9441,14 @@
       "onboard_time": 1732802721,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156121,
+      "num": 156121,
+      "word": "孔刘刘仁娜同框",
+      "onboard_time": 1732836137,
+      "rank": 12,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 155990,
@@ -10843,6 +10883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133409,
+      "num": 133409,
+      "word": "特朗普关税大棒下没有赢家",
+      "onboard_time": 1732824071,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133270,
       "num": 262943,
       "word": "93岁老战士一身戎装接战友回家",
@@ -11129,6 +11177,14 @@
       "onboard_time": 1732427598,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128691,
+      "num": 138679,
+      "word": "傅首尔说能get到麦琳的点",
+      "onboard_time": 1732815013,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 128541,
@@ -13059,14 +13115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102776,
-      "num": 102776,
-      "word": "鹤岗迎破纪录特大暴雪",
-      "onboard_time": 1732831271,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102170,
       "num": 102170,
       "word": "于和伟一天在播三部戏",
@@ -13451,14 +13499,6 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 95218,
-      "num": 138679,
-      "word": "傅首尔说能get到麦琳的点",
-      "onboard_time": 1732815013,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94946,
       "num": 94946,
       "word": "深潜",
@@ -13771,14 +13811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88195,
-      "num": 124471,
-      "word": "冬天身上痒1天洗2次澡反患湿疹",
-      "onboard_time": 1732824550,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87898,
       "num": 87898,
       "word": "张峻豪cover了MOVE",
@@ -14057,6 +14089,14 @@
       "onboard_time": 1732612999,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82540,
+      "num": 82540,
+      "word": "南通连夜查处以丝充绒经营主体",
+      "onboard_time": 1732833616,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82493,
@@ -15227,6 +15267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58065,
+      "num": 58065,
+      "word": "马 你骑我出来最好是有天大的事",
+      "onboard_time": 1732834275,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57989,
       "num": 251786,
       "word": "潘展乐跳新疆舞",
@@ -15339,14 +15387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56529,
-      "num": 56529,
-      "word": "特朗普关税大棒下没有赢家",
-      "onboard_time": 1732824071,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56271,
       "num": 974907,
       "word": "海南舰首次对公众开放",
@@ -15361,6 +15401,14 @@
       "onboard_time": 1732613299,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 56088,
+      "num": 56088,
+      "word": "哈尔滨冰雪大世界冰滑梯动工",
+      "onboard_time": 1732821311,
+      "rank": 35,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 55974,
@@ -15897,6 +15945,14 @@
       "onboard_time": 1732521858,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47233,
+      "num": 47233,
+      "word": "网约车司机双胞胎女儿考入清北",
+      "onboard_time": 1732834754,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47129,
@@ -16915,6 +16971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34382,
+      "num": 42482,
+      "word": "中国最大沙漠锁边完成",
+      "onboard_time": 1732813515,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34378,
       "num": 296656,
       "word": "女子疑遭美容院套路背7万医美贷",
@@ -17299,14 +17363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30688,
-      "num": 30688,
-      "word": "哈尔滨冰雪大世界冰滑梯动工",
-      "onboard_time": 1732821311,
-      "rank": 35,
-      "category": "旅游,民生新闻"
-    },
-    {
       "raw_hot": 30686,
       "num": 340510,
       "word": "国羽中国赛2金2银收官",
@@ -17561,6 +17617,14 @@
       "onboard_time": 1732547060,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28041,
+      "num": 352239,
+      "word": "湾区生活又又又又又又提速了",
+      "onboard_time": 1732799539,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27956,
@@ -17833,14 +17897,6 @@
       "onboard_time": 1732387272,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24810,
-      "num": 30580,
-      "word": "中国最大沙漠锁边完成",
-      "onboard_time": 1732813515,
-      "rank": 30,
-      "category": "正能量"
     },
     {
       "raw_hot": 24802,
@@ -18209,6 +18265,14 @@
       "onboard_time": 1732369040,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20762,
+      "num": 183837,
+      "word": "北京傍晚出现晚霞",
+      "onboard_time": 1732834995,
+      "rank": 9,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 20507,
@@ -18787,14 +18851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13557,
-      "num": 241838,
-      "word": "湾区生活又又又又又又提速了",
-      "onboard_time": 1732799539,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13530,
       "num": 20574,
       "word": "奔跑吧",
@@ -18865,14 +18921,6 @@
       "onboard_time": 1732616299,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 12871,
-      "num": 33385,
-      "word": "南通连夜查处以丝充绒经营主体",
-      "onboard_time": 1732833616,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12860,
