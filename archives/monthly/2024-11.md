@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 19:36:01
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 20:47:10
 </p>
 </blockquote>
 <p>
@@ -293,6 +293,12 @@ On失误（热度：3867737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%B6%89%E5%AB%8C%E6%AC%BA%E8%AF%88%23" target="weibo">
 王宝强被举报涉嫌欺诈（热度：3605762）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E5%A7%94%E5%91%98%E8%8B%97%E5%8D%8E%E8%A2%AB%E5%81%9C%E8%81%8C%E6%A3%80%E6%9F%A5%23" target="weibo">
+中央军委委员苗华被停职检查（热度：3598011）
 </a>
 </li>
 
@@ -587,6 +593,12 @@ Faker太猛了（热度：2522854）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23" target="weibo">
 王楚钦vs卡尔伯格（热度：2450134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Newjeans%E5%AE%A3%E5%B8%83%E8%A7%A3%E7%BA%A6%23" target="weibo">
+Newjeans宣布解约（热度：2441402）
 </a>
 </li>
 
@@ -5727,6 +5739,12 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23" target="weibo">
+广州地铁冲突事件情况说明（热度：851913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%23" target="weibo">
 张云龙（热度：851793）
 </a>
@@ -5993,24 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E8%8E%B7%E6%8D%90%E4%BB%B7%E5%80%BC10%E4%BA%BF%E8%8B%B1%E9%95%91%E4%B8%AD%E5%9B%BD%E7%93%B7%E5%99%A8%23" target="weibo">
 大英博物馆获捐价值10亿英镑中国瓷器（热度：833446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%9C%A8%E8%B6%85%E5%B8%82%E6%91%94%E5%80%92%E5%90%8E%E6%98%8F%E8%BF%B7%E8%87%B3%E4%BB%8A%23" target="weibo">
-男孩在超市摔倒后昏迷至今（热度：832636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%84%BF%E7%AB%A5%E5%9C%A8%E5%9C%B0%E4%B8%8B%E8%BD%A6%E5%BA%93%E7%8E%A9%E8%A2%AB%E8%BD%A6%E7%A2%BE%E5%8E%8B%E8%87%B4%E6%AD%BB%23" target="weibo">
-2岁儿童在地下车库玩被车碾压致死（热度：832438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%89%E8%B4%A5%E9%80%89%E5%8F%AF%E8%83%BD%23" target="weibo">
-特朗普承认有败选可能（热度：830683）
 </a>
 </li>
 

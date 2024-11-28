@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732793761566,
+  "endTime": 1732798030731,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3598011,
+      "num": 3598011,
+      "word": "中央军委委员苗华被停职检查",
+      "onboard_time": 1732796839,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 3069983,
       "num": 3069983,
       "word": "叶嘉莹逝世",
@@ -33,6 +41,14 @@
       "onboard_time": 1732691238,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2441402,
+      "num": 396019,
+      "word": "Newjeans宣布解约",
+      "onboard_time": 1732796059,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2200192,
@@ -1075,6 +1091,14 @@
       "category": "国内时政,正能量"
     },
     {
+      "raw_hot": 851913,
+      "num": 257347,
+      "word": "广州地铁冲突事件情况说明",
+      "onboard_time": 1732792938,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 844558,
       "num": 284088,
       "word": "英国一母亲把女儿藏抽屉养到3岁",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1732676298,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 702197,
+      "num": 239445,
+      "word": "前央视主持瑶淼自曝刚做完子宫全切手术",
+      "onboard_time": 1732793538,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 701307,
@@ -2947,6 +2979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 426449,
+      "num": 363306,
+      "word": "麦琳刚上车就抽烟",
+      "onboard_time": 1732793538,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425610,
       "num": 425610,
       "word": "于东来公布胖东来经营情况",
@@ -3243,14 +3283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394958,
-      "num": 266460,
-      "word": "麦琳刚上车就抽烟",
-      "onboard_time": 1732793538,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394546,
       "num": 394546,
       "word": "原来睡眠不足真会变胖",
@@ -3457,6 +3489,14 @@
       "onboard_time": 1732512979,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 373076,
+      "num": 373076,
+      "word": "大冰的狗原来是圣伯纳",
+      "onboard_time": 1732793179,
+      "rank": 20,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 371781,
@@ -3961,6 +4001,14 @@
       "onboard_time": 1732433778,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324731,
+      "num": 324731,
+      "word": "豆瓣崩了",
+      "onboard_time": 1732796179,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 324570,
@@ -4779,6 +4827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262946,
+      "num": 262946,
+      "word": "再见爱人 恋综",
+      "onboard_time": 1732792579,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261861,
       "num": 261861,
       "word": "秦彻深渊主宰",
@@ -5243,6 +5299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239297,
+      "num": 239297,
+      "word": "鹤岗暴雪不少打工人走路上下班",
+      "onboard_time": 1732794799,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239267,
       "num": 406305,
       "word": "记者实测200元一份粥成本13元",
@@ -5411,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231838,
+      "num": 231838,
+      "word": "HYBE不知道Newjeans开记者会",
+      "onboard_time": 1732791319,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230750,
       "num": 230750,
       "word": "鹿晗说马上要开四巡了",
@@ -5441,6 +5513,14 @@
       "onboard_time": 1732430598,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229415,
+      "num": 229415,
+      "word": "卢布崩了",
+      "onboard_time": 1732794799,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 229363,
@@ -5787,14 +5867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218974,
-      "num": 218974,
-      "word": "大冰的狗原来是圣伯纳",
-      "onboard_time": 1732793179,
-      "rank": 20,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 218815,
       "num": 218815,
       "word": "韩东君赛车是救过你的命吧",
@@ -6131,6 +6203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208073,
+      "num": 208073,
+      "word": "警方回应小米su7外借却被拍色情片",
+      "onboard_time": 1732792999,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207922,
       "num": 207922,
       "word": "嫂嫂你别这样声明书",
@@ -6344,6 +6424,14 @@
       "word": "陈昊宇说要看见自己的价值",
       "onboard_time": 1732507580,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204016,
+      "num": 250849,
+      "word": "林一cha了初雪",
+      "onboard_time": 1732796179,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -7411,6 +7499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "首付3万买了没人要的阁楼",
+      "onboard_time": 1732796419,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "魏晨音乐节现场",
@@ -7539,6 +7635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182972,
+      "num": 182972,
+      "word": "猎罪图鉴2下周播出",
+      "onboard_time": 1732794199,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182887,
       "num": 182887,
       "word": "团建不能停",
@@ -7649,6 +7753,14 @@
       "onboard_time": 1732604778,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181268,
+      "num": 212965,
+      "word": "小草包怒喷Doinb",
+      "onboard_time": 1732797019,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 181212,
@@ -8339,14 +8451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166550,
-      "num": 153904,
-      "word": "警方回应小米su7外借却被拍色情片",
-      "onboard_time": 1732792999,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166492,
       "num": 209567,
       "word": "李川 李总前世是王子",
@@ -8675,6 +8779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161190,
+      "num": 161190,
+      "word": "30岁女生在英国1.5镑的营养早餐",
+      "onboard_time": 1732792579,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161124,
       "num": 192549,
       "word": "斗罗大陆2三对cp一个steve",
@@ -8761,6 +8873,14 @@
       "onboard_time": 1732705700,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159689,
+      "num": 246923,
+      "word": "李行亮说他家没有人了",
+      "onboard_time": 1732796539,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 159599,
@@ -9275,6 +9395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150175,
+      "num": 150175,
+      "word": "外卖骑手 马术骑手",
+      "onboard_time": 1732797679,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 150144,
       "num": 150144,
       "word": "杨千嬅因为声生不息决定开巡演",
@@ -9337,6 +9465,14 @@
       "onboard_time": 1732461140,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149435,
+      "num": 242647,
+      "word": "Starship将推出新男团新女团",
+      "onboard_time": 1732797079,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 148861,
@@ -10099,6 +10235,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 136536,
+      "num": 136536,
+      "word": "魔卡少女樱 最磕的一集",
+      "onboard_time": 1732796419,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136465,
       "num": 136465,
       "word": "我学会自己哄自己了",
@@ -10131,16 +10275,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135857,
-      "num": 226484,
-      "word": "再见爱人 恋综",
-      "onboard_time": 1732792579,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135822,
-      "num": 135822,
+      "num": 414545,
       "word": "我国将建设下一代北斗系统",
       "onboard_time": 1732768580,
       "rank": 47,
@@ -10371,6 +10507,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 132435,
+      "num": 132435,
+      "word": "警方已介入运狗车事件",
+      "onboard_time": 1732795099,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132242,
       "num": 132242,
       "word": "张雨霏射击赢了潘展乐",
@@ -10521,14 +10665,6 @@
       "onboard_time": 1732792818,
       "rank": 40,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 129016,
-      "num": 129016,
-      "word": "前央视主持瑶淼自曝刚做完子宫全切手术",
-      "onboard_time": 1732793538,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129006,
@@ -11147,6 +11283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122227,
+      "num": 327429,
+      "word": "市民称鹤岗特大暴雪蔬菜没涨价",
+      "onboard_time": 1732792938,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122073,
       "num": 122073,
       "word": "优酷放了白鹿泪洒奔跑吧片段",
@@ -11369,14 +11513,6 @@
       "onboard_time": 1732496239,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119019,
-      "num": 119019,
-      "word": "广州地铁冲突事件情况说明",
-      "onboard_time": 1732792938,
-      "rank": 43,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 119016,
@@ -11667,6 +11803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114704,
+      "num": 114704,
+      "word": "李宇春粤语变形计",
+      "onboard_time": 1732797557,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114609,
       "num": 114609,
       "word": "任嘉伦GCJL REN",
@@ -11801,6 +11945,22 @@
       "onboard_time": 1732546341,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 113254,
+      "num": 113254,
+      "word": "羽绒服敢卖199赌的就是你不懂",
+      "onboard_time": 1732797679,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113195,
+      "num": 113195,
+      "word": "时代少年团43秒回顾五年",
+      "onboard_time": 1732796719,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 113141,
@@ -11961,14 +12121,6 @@
       "onboard_time": 1732447940,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111723,
-      "num": 111723,
-      "word": "30岁女生在英国1.5镑的营养早餐",
-      "onboard_time": 1732792579,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 111683,
@@ -12355,14 +12507,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 104989,
-      "num": 327429,
-      "word": "市民称鹤岗特大暴雪蔬菜没涨价",
-      "onboard_time": 1732792938,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104455,
       "num": 104455,
       "word": "樊振东教王腾打球",
@@ -12393,6 +12537,14 @@
       "onboard_time": 1732766600,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104330,
+      "num": 115102,
+      "word": "Doinb给LWX道歉",
+      "onboard_time": 1732794499,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 104235,
@@ -12657,6 +12809,14 @@
       "onboard_time": 1732502119,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 97960,
+      "num": 97960,
+      "word": "进击的巨人 美貌杀回来了",
+      "onboard_time": 1732797979,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 97591,
@@ -14347,6 +14507,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 59810,
+      "num": 113456,
+      "word": "君子如玉开播",
+      "onboard_time": 1732794739,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59528,
       "num": 394850,
       "word": "货拉拉称未对司机进行封号等处理",
@@ -14625,6 +14793,14 @@
       "onboard_time": 1732684638,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55474,
+      "num": 244987,
+      "word": "俄罗斯卢布汇率创一年来新低",
+      "onboard_time": 1732797859,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 55240,
@@ -15803,6 +15979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37858,
+      "num": 190342,
+      "word": "黄山下雪像撒了糖霜",
+      "onboard_time": 1732797500,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 37810,
       "num": 121717,
       "word": "丁禹兮海岛副本开启",
@@ -16273,6 +16457,14 @@
       "onboard_time": 1732457542,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32261,
+      "num": 199673,
+      "word": "土豆吕严扛不住的vivoS20抗住了",
+      "onboard_time": 1732797259,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 32235,
@@ -16891,6 +17083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25510,
+      "num": 186585,
+      "word": "vivoS20原图直出的鲜活感",
+      "onboard_time": 1732797259,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25471,
       "num": 25471,
       "word": "陆柯燃也cha上初雪了",
@@ -16905,6 +17105,14 @@
       "onboard_time": 1732555994,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25311,
+      "num": 243601,
+      "word": "vivoS20凤羽金",
+      "onboard_time": 1732795337,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 25031,

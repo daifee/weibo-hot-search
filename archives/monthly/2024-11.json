@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732793761566,
+  "endTime": 1732798030731,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -377,6 +377,14 @@
       "onboard_time": 1732181121,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3598011,
+      "num": 3598011,
+      "word": "中央军委委员苗华被停职检查",
+      "onboard_time": 1732796839,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3581174,
@@ -769,6 +777,14 @@
       "onboard_time": 1730730501,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2441402,
+      "num": 396019,
+      "word": "Newjeans宣布解约",
+      "onboard_time": 1732796059,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2440428,
@@ -7619,6 +7635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851913,
+      "num": 257347,
+      "word": "广州地铁冲突事件情况说明",
+      "onboard_time": 1732792938,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 851793,
       "num": 317337,
       "word": "张云龙",
@@ -10369,6 +10393,14 @@
       "onboard_time": 1731038300,
       "rank": 6,
       "category": "军事"
+    },
+    {
+      "raw_hot": 702197,
+      "num": 239445,
+      "word": "前央视主持瑶淼自曝刚做完子宫全切手术",
+      "onboard_time": 1732793538,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 702143,
@@ -19131,6 +19163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426449,
+      "num": 363306,
+      "word": "麦琳刚上车就抽烟",
+      "onboard_time": 1732793538,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426406,
       "num": 426406,
       "word": "男子用铁秤砣疯狂砸楼道逼走5户业主",
@@ -20715,14 +20755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394958,
-      "num": 266460,
-      "word": "麦琳刚上车就抽烟",
-      "onboard_time": 1732793538,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394546,
       "num": 394546,
       "word": "原来睡眠不足真会变胖",
@@ -21849,6 +21881,14 @@
       "onboard_time": 1732011861,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373076,
+      "num": 373076,
+      "word": "大冰的狗原来是圣伯纳",
+      "onboard_time": 1732793179,
+      "rank": 20,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 373050,
@@ -29195,6 +29235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262946,
+      "num": 262946,
+      "word": "再见爱人 恋综",
+      "onboard_time": 1732792579,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262802,
       "num": 262802,
       "word": "珠帘玉幕第10集 偷偷藏不住",
@@ -31763,6 +31811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239297,
+      "num": 239297,
+      "word": "鹤岗暴雪不少打工人走路上下班",
+      "onboard_time": 1732794799,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239267,
       "num": 406305,
       "word": "记者实测200元一份粥成本13元",
@@ -32603,6 +32659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231838,
+      "num": 231838,
+      "word": "HYBE不知道Newjeans开记者会",
+      "onboard_time": 1732791319,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231829,
       "num": 231829,
       "word": "钟楚曦 不要随便评价别人",
@@ -32921,6 +32985,14 @@
       "onboard_time": 1732013780,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229415,
+      "num": 229415,
+      "word": "卢布崩了",
+      "onboard_time": 1732794799,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 229363,
@@ -34441,14 +34513,6 @@
       "onboard_time": 1732192459,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218974,
-      "num": 218974,
-      "word": "大冰的狗原来是圣伯纳",
-      "onboard_time": 1732793179,
-      "rank": 20,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 218952,
@@ -36435,6 +36499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208073,
+      "num": 208073,
+      "word": "警方回应小米su7外借却被拍色情片",
+      "onboard_time": 1732792999,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208068,
       "num": 208068,
       "word": "凌妙妙cos向佐",
@@ -37577,6 +37649,14 @@
       "onboard_time": 1732182740,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204016,
+      "num": 250849,
+      "word": "林一cha了初雪",
+      "onboard_time": 1732796179,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 203909,
@@ -43331,6 +43411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "首付3万买了没人要的阁楼",
+      "onboard_time": 1732796419,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185486,
       "num": 322824,
       "word": "应聘司机工资还没到手就花了5万",
@@ -44059,6 +44147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182972,
+      "num": 182972,
+      "word": "猎罪图鉴2下周播出",
+      "onboard_time": 1732794199,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182943,
       "num": 182943,
       "word": "中国每一个早晨都有限时美景",
@@ -44545,6 +44641,14 @@
       "onboard_time": 1730609958,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181268,
+      "num": 212965,
+      "word": "小草包怒喷Doinb",
+      "onboard_time": 1732797019,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 181242,
@@ -48659,14 +48763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166550,
-      "num": 153904,
-      "word": "警方回应小米su7外借却被拍色情片",
-      "onboard_time": 1732792999,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166533,
       "num": 166533,
       "word": "虞书欣扛剧能力",
@@ -50459,6 +50555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161190,
+      "num": 161190,
+      "word": "30岁女生在英国1.5镑的营养早餐",
+      "onboard_time": 1732792579,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161171,
       "num": 161171,
       "word": "失笑 那英人没到梗到了",
@@ -50897,6 +51001,14 @@
       "onboard_time": 1731313518,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 159689,
+      "num": 246923,
+      "word": "李行亮说他家没有人了",
+      "onboard_time": 1732796539,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 159677,
@@ -54083,6 +54195,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 150175,
+      "num": 150175,
+      "word": "外卖骑手 马术骑手",
+      "onboard_time": 1732797679,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 150144,
       "num": 150144,
       "word": "杨千嬅因为声生不息决定开巡演",
@@ -54377,6 +54497,14 @@
       "onboard_time": 1732239137,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149435,
+      "num": 242647,
+      "word": "Starship将推出新男团新女团",
+      "onboard_time": 1732797079,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 149429,
@@ -58443,6 +58571,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 136536,
+      "num": 136536,
+      "word": "魔卡少女樱 最磕的一集",
+      "onboard_time": 1732796419,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 136529,
       "num": 136529,
       "word": "丁禹兮看了虞书欣泰国直播",
@@ -58659,16 +58795,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135857,
-      "num": 226484,
-      "word": "再见爱人 恋综",
-      "onboard_time": 1732792579,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135822,
-      "num": 135822,
+      "num": 414545,
       "word": "我国将建设下一代北斗系统",
       "onboard_time": 1732768580,
       "rank": 47,
@@ -59609,6 +59737,14 @@
       "onboard_time": 1731574702,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132435,
+      "num": 132435,
+      "word": "警方已介入运狗车事件",
+      "onboard_time": 1732795099,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132401,
@@ -60553,14 +60689,6 @@
       "onboard_time": 1732077921,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129016,
-      "num": 129016,
-      "word": "前央视主持瑶淼自曝刚做完子宫全切手术",
-      "onboard_time": 1732793538,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129006,
@@ -62875,6 +63003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122227,
+      "num": 327429,
+      "word": "市民称鹤岗特大暴雪蔬菜没涨价",
+      "onboard_time": 1732792938,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122176,
       "num": 122176,
       "word": "教育局回应老师质疑家长价值观",
@@ -63905,14 +64041,6 @@
       "onboard_time": 1731762321,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119019,
-      "num": 119019,
-      "word": "广州地铁冲突事件情况说明",
-      "onboard_time": 1732792938,
-      "rank": 43,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 119016,
@@ -65051,6 +65179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114704,
+      "num": 114704,
+      "word": "李宇春粤语变形计",
+      "onboard_time": 1732797557,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114687,
       "num": 125895,
       "word": "闫妮关晓彤小巷人家母女线",
@@ -65459,6 +65595,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 113254,
+      "num": 113254,
+      "word": "羽绒服敢卖199赌的就是你不懂",
+      "onboard_time": 1732797679,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113252,
       "num": 113252,
       "word": "葛夕是天使",
@@ -65473,6 +65617,14 @@
       "onboard_time": 1730821221,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113195,
+      "num": 113195,
+      "word": "时代少年团43秒回顾五年",
+      "onboard_time": 1732796719,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 113146,
@@ -65945,14 +66097,6 @@
       "onboard_time": 1732251200,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111723,
-      "num": 111723,
-      "word": "30岁女生在英国1.5镑的营养早餐",
-      "onboard_time": 1732792579,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 111683,
@@ -67547,14 +67691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104989,
-      "num": 327429,
-      "word": "市民称鹤岗特大暴雪蔬菜没涨价",
-      "onboard_time": 1732792938,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104982,
       "num": 209565,
       "word": "这就是未来的样子",
@@ -67681,6 +67817,14 @@
       "onboard_time": 1732766600,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104330,
+      "num": 115102,
+      "word": "Doinb给LWX道歉",
+      "onboard_time": 1732794499,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 104323,
@@ -69081,6 +69225,14 @@
       "onboard_time": 1732502119,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 97960,
+      "num": 97960,
+      "word": "进击的巨人 美貌杀回来了",
+      "onboard_time": 1732797979,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 97921,
@@ -76843,6 +76995,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 59810,
+      "num": 113456,
+      "word": "君子如玉开播",
+      "onboard_time": 1732794739,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59802,
       "num": 59802,
       "word": "邓亚萍谈王曼昱对阵王艺迪",
@@ -78009,6 +78169,14 @@
       "onboard_time": 1730393896,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 55474,
+      "num": 244987,
+      "word": "俄罗斯卢布汇率创一年来新低",
+      "onboard_time": 1732797859,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 55363,
@@ -83803,6 +83971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37858,
+      "num": 190342,
+      "word": "黄山下雪像撒了糖霜",
+      "onboard_time": 1732797500,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 37810,
       "num": 121717,
       "word": "丁禹兮海岛副本开启",
@@ -86185,6 +86361,14 @@
       "onboard_time": 1731834379,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32261,
+      "num": 199673,
+      "word": "土豆吕严扛不住的vivoS20抗住了",
+      "onboard_time": 1732797259,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 32255,
@@ -89451,6 +89635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25510,
+      "num": 186585,
+      "word": "vivoS20原图直出的鲜活感",
+      "onboard_time": 1732797259,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25492,
       "num": 503987,
       "word": "林良铭说国足内部非常团结",
@@ -89561,6 +89753,14 @@
       "onboard_time": 1731756978,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25311,
+      "num": 243601,
+      "word": "vivoS20凤羽金",
+      "onboard_time": 1732795337,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 25254,
