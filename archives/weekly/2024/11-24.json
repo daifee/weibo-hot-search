@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732801447866,
+  "endTime": 1732803754065,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1293934,
-      "num": 373596,
+      "num": 406761,
       "word": "沈梦瑶 取关",
       "onboard_time": 1732772418,
       "rank": 31,
@@ -1707,6 +1707,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 676811,
+      "num": 638144,
+      "word": "沙一汀 天塌了",
+      "onboard_time": 1732800139,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 676523,
       "num": 676523,
       "word": "大冰停播43天后复播",
@@ -1849,6 +1857,14 @@
       "onboard_time": 1732709539,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 638488,
+      "num": 638488,
+      "word": "儿子牺牲后妈妈还能收到他的信",
+      "onboard_time": 1732799720,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 634396,
@@ -2475,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516303,
+      "num": 516303,
+      "word": "丁禹兮吴谨言或演兰香如故",
+      "onboard_time": 1732802421,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513385,
       "num": 300652,
       "word": "花140万买到了230平的房子",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1732689859,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492816,
-      "num": 492816,
-      "word": "沙一汀 天塌了",
-      "onboard_time": 1732800139,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 492311,
@@ -2897,6 +2913,14 @@
       "onboard_time": 1732436780,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448156,
+      "num": 253612,
+      "word": "突然发现国内夫妻很少见戴婚戒",
+      "onboard_time": 1732801879,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 447967,
@@ -3508,11 +3532,19 @@
     },
     {
       "raw_hot": 374113,
-      "num": 219767,
+      "num": 253240,
       "word": "首付3万买了没人要的阁楼",
       "onboard_time": 1732796419,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373929,
+      "num": 373929,
+      "word": "Minji对方时赫无话可说",
+      "onboard_time": 1732799240,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 373458,
@@ -3537,14 +3569,6 @@
       "onboard_time": 1732793179,
       "rank": 20,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 372202,
-      "num": 372202,
-      "word": "Minji对方时赫无话可说",
-      "onboard_time": 1732799240,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 371781,
@@ -3601,6 +3625,14 @@
       "onboard_time": 1732516098,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367771,
+      "num": 367771,
+      "word": "警方回应小米su7外借却被拍色情片",
+      "onboard_time": 1732792999,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367518,
@@ -3673,6 +3705,14 @@
       "onboard_time": 1732589059,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362385,
+      "num": 392517,
+      "word": "河南杂技夫妻相继发生高空坠落背后",
+      "onboard_time": 1732799359,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361685,
@@ -4555,6 +4595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286660,
+      "num": 286660,
+      "word": "警方已介入运狗车事件",
+      "onboard_time": 1732795099,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285205,
       "num": 285205,
       "word": "羊毛月粉丝掉破800万",
@@ -4721,14 +4769,6 @@
       "onboard_time": 1732415419,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 275515,
-      "num": 275515,
-      "word": "警方回应小米su7外借却被拍色情片",
-      "onboard_time": 1732792999,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273669,
@@ -5107,6 +5147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253144,
+      "num": 253144,
+      "word": "程莉莎说跟韩彩英没有任何关系",
+      "onboard_time": 1732798699,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252767,
       "num": 252767,
       "word": "熟人作案男二",
@@ -5403,14 +5451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237668,
-      "num": 237668,
-      "word": "程莉莎说跟韩彩英没有任何关系",
-      "onboard_time": 1732798699,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237334,
       "num": 237334,
       "word": "严浩翔一想到自己要干什么就想笑",
@@ -5553,6 +5593,14 @@
       "onboard_time": 1732791319,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230814,
+      "num": 230814,
+      "word": "梅艳芳 拜拜",
+      "onboard_time": 1732802779,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 230750,
@@ -6163,14 +6211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211454,
-      "num": 237830,
-      "word": "警方已介入运狗车事件",
-      "onboard_time": 1732795099,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211337,
       "num": 471921,
       "word": "虞书欣把自我二字推到顶",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1732586958,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 198529,
+      "num": 198529,
+      "word": "小米SU7被外借拍色情片车主决定卖车",
+      "onboard_time": 1732800679,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 198447,
@@ -7555,6 +7603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185809,
+      "num": 185809,
+      "word": "麦琳 我为什么需要理解她",
+      "onboard_time": 1732796324,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185734,
       "num": 185734,
       "word": "地狱级难度的停车位长什么样",
@@ -7609,14 +7665,6 @@
       "onboard_time": 1732624519,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185004,
-      "num": 185004,
-      "word": "儿子牺牲后妈妈还能收到他的信",
-      "onboard_time": 1732799720,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 184848,
@@ -7827,6 +7875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181617,
+      "num": 393222,
+      "word": "人民网评不讨好的勇气",
+      "onboard_time": 1732799060,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181604,
       "num": 181604,
       "word": "爱宝乐园应实实在在改善熊猫饲养环境",
@@ -7897,14 +7953,6 @@
       "onboard_time": 1732722019,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180115,
-      "num": 392517,
-      "word": "河南杂技夫妻相继发生高空坠落背后",
-      "onboard_time": 1732799359,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180054,
@@ -8155,6 +8203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174448,
+      "num": 174448,
+      "word": "何炅欢迎李宇春周笔畅回家",
+      "onboard_time": 1732798220,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 174412,
       "num": 300074,
       "word": "最想吃的两个内娱大厨都来了",
@@ -8177,14 +8233,6 @@
       "onboard_time": 1732582879,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173846,
-      "num": 164004,
-      "word": "何炅欢迎李宇春周笔畅回家",
-      "onboard_time": 1732798220,
-      "rank": 45,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 173763,
@@ -8436,7 +8484,7 @@
     },
     {
       "raw_hot": 169103,
-      "num": 169103,
+      "num": 254239,
       "word": "NewJeans行程照常进行",
       "onboard_time": 1732801039,
       "rank": 17,
@@ -9339,6 +9387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153079,
+      "num": 153079,
+      "word": "贺峻霖到达昆明",
+      "onboard_time": 1732803320,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153056,
       "num": 153056,
       "word": "2024PEL全明星",
@@ -9393,6 +9449,14 @@
       "onboard_time": 1732518739,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151816,
+      "num": 151816,
+      "word": "胖东来自营羽绒服含鸭绒90%",
+      "onboard_time": 1732801700,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151740,
@@ -11283,14 +11347,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 123663,
-      "num": 123663,
-      "word": "小米SU7被外借拍色情片车主决定卖车",
-      "onboard_time": 1732800679,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 123650,
       "num": 197427,
       "word": "国考",
@@ -11561,6 +11617,14 @@
       "onboard_time": 1732498577,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120027,
+      "num": 120027,
+      "word": "GimGoon回应Doinb队出局",
+      "onboard_time": 1732802721,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 119957,
@@ -12451,6 +12515,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108488,
+      "num": 108488,
+      "word": "Doinb解脱了",
+      "onboard_time": 1732801940,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108292,
+      "num": 108292,
+      "word": "烈士牺牲后有人替他写了13年假信",
+      "onboard_time": 1732802660,
+      "rank": 42,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 108238,
       "num": 203166,
       "word": "王楚钦说球迷是为了我好",
@@ -12580,7 +12660,7 @@
     },
     {
       "raw_hot": 106329,
-      "num": 145368,
+      "num": 235133,
       "word": "王楚钦梁靖崑成都对练",
       "onboard_time": 1732792758,
       "rank": 48,
@@ -12683,6 +12763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104306,
+      "num": 104306,
+      "word": "关晓彤说庄筱婷跟自己性格差太多了",
+      "onboard_time": 1732803679,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104235,
       "num": 159645,
       "word": "Doinb聊Icon队内讧",
@@ -12737,14 +12825,6 @@
       "onboard_time": 1732788619,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102326,
-      "num": 393222,
-      "word": "人民网评不讨好的勇气",
-      "onboard_time": 1732799060,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 102170,
@@ -13409,6 +13489,14 @@
       "onboard_time": 1732722437,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88179,
+      "num": 459805,
+      "word": "男性HPV疫苗可能成为婚前必备项",
+      "onboard_time": 1732802660,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87898,
@@ -14899,6 +14987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56812,
+      "num": 1264863,
+      "word": "普通人去链博会能逛什么",
+      "onboard_time": 1732799780,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 56563,
       "num": 138870,
       "word": "Icon说B氏家族赢了",
@@ -15899,6 +15995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 41682,
+      "num": 354441,
+      "word": "沈梦瑶告丝芭案件已开庭三次",
+      "onboard_time": 1732802899,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41675,
       "num": 194054,
       "word": "辛芷蕾嘉人十二月刊封面",
@@ -16075,6 +16179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39168,
+      "num": 185479,
+      "word": "东北女生在南方被冻到怀疑人生",
+      "onboard_time": 1732803320,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39081,
       "num": 364487,
       "word": "女子否认抽脂失败索要500万赔偿",
@@ -16129,14 +16241,6 @@
       "onboard_time": 1732491255,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 38209,
-      "num": 1264863,
-      "word": "普通人去链博会能逛什么",
-      "onboard_time": 1732799780,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 38185,
@@ -16857,6 +16961,14 @@
       "onboard_time": 1732612159,
       "rank": 29,
       "category": "作品衍生,数码"
+    },
+    {
+      "raw_hot": 29824,
+      "num": 253984,
+      "word": "抗衰神器超声炮不适用于整形美容",
+      "onboard_time": 1732802541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29748,
