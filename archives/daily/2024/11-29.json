@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732829830665,
+  "endTime": 1732832553016,
   "band_list": [
     {
       "raw_hot": 1041434,
@@ -73,6 +73,14 @@
       "onboard_time": 1732802779,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249610,
+      "num": 390007,
+      "word": "凌晨六点是警惕性最低的时间",
+      "onboard_time": 1732800980,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 225725,
@@ -307,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 70321,
-      "num": 171251,
-      "word": "凌晨六点是警惕性最低的时间",
-      "onboard_time": 1732800980,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68017,
       "num": 68017,
       "word": "最高礼遇接英雄回家沈阳准备好了",
@@ -435,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47256,
+      "num": 47256,
+      "word": "特朗普关税大棒下没有赢家",
+      "onboard_time": 1732824071,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45312,
       "num": 45312,
       "word": "一名在美潜逃多年逃犯被遣返回国",
       "onboard_time": 1732822090,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43971,
-      "num": 43971,
-      "word": "特朗普关税大棒下没有赢家",
-      "onboard_time": 1732824071,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38693,
@@ -475,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36084,
+      "num": 44275,
+      "word": "鹤岗迎破纪录特大暴雪",
+      "onboard_time": 1732831271,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33167,
+      "num": 47387,
+      "word": "雇主失联后育儿嫂当妈三年",
+      "onboard_time": 1732829589,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32351,
       "num": 446070,
       "word": "普通人去链博会能逛什么",
@@ -483,8 +499,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 27058,
-      "num": 27058,
+      "raw_hot": 29415,
+      "num": 29415,
       "word": "首付3万买了没人要的阁楼",
       "onboard_time": 1732796419,
       "rank": 24,
@@ -497,6 +513,14 @@
       "onboard_time": 1732813754,
       "rank": 19,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 25296,
+      "num": 25296,
+      "word": "哈尔滨冰雪大世界冰滑梯动工",
+      "onboard_time": 1732821311,
+      "rank": 35,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 24810,
@@ -523,6 +547,22 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 21317,
+      "num": 21317,
+      "word": "谢谢你保护了我们",
+      "onboard_time": 1732826830,
+      "rank": 39,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 21153,
+      "num": 21153,
+      "word": "国旗覆盖志愿军烈士棺椁",
+      "onboard_time": 1732828572,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18818,
       "num": 25900,
       "word": "三名被美方错误羁押中国公民回国",
@@ -537,14 +577,6 @@
       "onboard_time": 1732817532,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18117,
-      "num": 18117,
-      "word": "哈尔滨冰雪大世界冰滑梯动工",
-      "onboard_time": 1732821311,
-      "rank": 35,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 17359,
@@ -571,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16602,
+      "num": 21120,
+      "word": "王雷谈接英雄回家",
+      "onboard_time": 1732827011,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16589,
       "num": 20155,
       "word": "失笑收官",
@@ -579,16 +619,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16279,
-      "num": 18173,
-      "word": "王雷谈接英雄回家",
-      "onboard_time": 1732827011,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 16017,
-      "num": 20146,
+      "num": 21084,
       "word": "最高礼遇是致敬英烈更是告慰英烈",
       "onboard_time": 1732812617,
       "rank": 48,
@@ -612,19 +644,11 @@
     },
     {
       "raw_hot": 15314,
-      "num": 18236,
+      "num": 21089,
       "word": "中国仪仗兵的每一个动作都写满敬意",
       "onboard_time": 1732827610,
       "rank": 23,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14902,
-      "num": 14902,
-      "word": "谢谢你保护了我们",
-      "onboard_time": 1732826830,
-      "rank": 39,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 14142,
@@ -635,20 +659,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13632,
-      "num": 13632,
+      "raw_hot": 13673,
+      "num": 21079,
       "word": "市场监管总局挂牌督办查处假羽绒制品",
       "onboard_time": 1732800200,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 13480,
-      "num": 18142,
-      "word": "国旗覆盖志愿军烈士棺椁",
-      "onboard_time": 1732828572,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13019,
