@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732772502937,
+  "endTime": 1732775622143,
   "band_list": [
     {
       "raw_hot": 2200192,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1786228,
-      "num": 360302,
+      "num": 1740468,
       "word": "李行亮只争女儿抚养权",
       "onboard_time": 1732770919,
       "rank": 11,
@@ -33,6 +33,14 @@
       "onboard_time": 1732765698,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1238811,
+      "num": 211633,
+      "word": "沈梦瑶 取关",
+      "onboard_time": 1732772418,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1236929,
@@ -107,6 +115,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 769850,
+      "num": 230361,
+      "word": "李行亮麦琳下期和好了",
+      "onboard_time": 1732775599,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736477,
       "num": 502607,
       "word": "妻子坠海丈夫却急着开死亡证明",
@@ -153,6 +169,14 @@
       "onboard_time": 1732765698,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 600728,
+      "num": 202305,
+      "word": "韩彩英发给郭晓东的邮件被程莉莎错收",
+      "onboard_time": 1732773559,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 588932,
@@ -305,6 +329,14 @@
       "onboard_time": 1732768100,
       "rank": 9,
       "category": "国内时政,正能量"
+    },
+    {
+      "raw_hot": 358791,
+      "num": 195270,
+      "word": "杨子说做不到就净身出户",
+      "onboard_time": 1732773438,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 352063,
@@ -563,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213864,
+      "num": 213864,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 211580,
       "num": 415616,
       "word": "声生不息",
       "onboard_time": 1732767320,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210684,
+      "num": 148818,
+      "word": "王境泽帮父亲承担200万生意亏损",
+      "onboard_time": 1732773859,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 208968,
@@ -585,14 +633,6 @@
       "onboard_time": 1732767860,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204681,
-      "num": 204681,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 203465,
@@ -649,6 +689,14 @@
       "onboard_time": 1732765399,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "院方回应网传一老人住院10多年未出院",
+      "onboard_time": 1732773799,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 195090,
@@ -779,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177842,
+      "num": 177842,
+      "word": "易烊千玺戴耳夹",
+      "onboard_time": 1732773920,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177509,
       "num": 259867,
       "word": "王楚钦又出差了",
@@ -833,6 +889,14 @@
       "onboard_time": 1732762878,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168222,
+      "num": 350926,
+      "word": "投资300万认养600头牛变成6万斤牛肉",
+      "onboard_time": 1732770739,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168144,
@@ -1019,6 +1083,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141644,
+      "num": 292024,
+      "word": "运20歼20飞行员空中对话",
+      "onboard_time": 1732772480,
+      "rank": 8,
+      "category": "国内时政,正能量"
+    },
+    {
+      "raw_hot": 140817,
+      "num": 140817,
+      "word": "BLG签下Maokai",
+      "onboard_time": 1732773380,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140713,
       "num": 140713,
       "word": "贺峻霖一路繁花准备出发",
@@ -1035,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139473,
+      "num": 152177,
+      "word": "陈少熙妈妈龙梅子安慰禾伙人",
+      "onboard_time": 1732774999,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139306,
       "num": 139306,
       "word": "愿你勇敢追梦祝你光芒万丈",
@@ -1049,6 +1137,22 @@
       "onboard_time": 1732760176,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138157,
+      "num": 204512,
+      "word": "潘展乐咬不开坚果求助张雨霏",
+      "onboard_time": 1732771279,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137689,
+      "num": 137689,
+      "word": "特朗普的善变会给世界经济带来什么",
+      "onboard_time": 1732774639,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136417,
@@ -1099,12 +1203,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131551,
-      "num": 350926,
-      "word": "投资300万认养600头牛变成6万斤牛肉",
-      "onboard_time": 1732770739,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 131037,
+      "num": 131037,
+      "word": "国家医保药品目录新增26种肿瘤用药",
+      "onboard_time": 1732773319,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 130459,
@@ -1115,11 +1219,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127422,
+      "num": 127422,
+      "word": "2架歼20为英雄护航",
+      "onboard_time": 1732773199,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 127373,
+      "num": 133483,
+      "word": "李宇春 今夜你会不会来",
+      "onboard_time": 1732774820,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127148,
       "num": 352440,
       "word": "留几手享受踩葛夕的乐趣",
       "onboard_time": 1732770799,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126484,
+      "num": 149312,
+      "word": "声生不息大屏 梅艳芳张国荣",
+      "onboard_time": 1732773679,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1171,6 +1299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114863,
+      "num": 114863,
+      "word": "无期迷途",
+      "onboard_time": 1732775540,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113489,
       "num": 125872,
       "word": "供应商回应比亚迪要求降价",
@@ -1187,12 +1323,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112702,
+      "num": 112702,
+      "word": "回顾前十批在韩志愿军烈士遗骸归乡路",
+      "onboard_time": 1732773199,
+      "rank": 46,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 112377,
       "num": 132982,
       "word": "哈登43分",
       "onboard_time": 1732766659,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112295,
+      "num": 112295,
+      "word": "脚下这片土地是你们誓死保卫的家乡",
+      "onboard_time": 1732775540,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112228,
@@ -1209,6 +1361,14 @@
       "onboard_time": 1732755199,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111142,
+      "num": 111142,
+      "word": "时隔70多年志愿军烈士再次听到国歌",
+      "onboard_time": 1732772959,
+      "rank": 48,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 110804,
@@ -1337,22 +1497,6 @@
       "onboard_time": 1732749315,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 92442,
-      "num": 204512,
-      "word": "潘展乐咬不开坚果求助张雨霏",
-      "onboard_time": 1732771279,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 92227,
-      "num": 201850,
-      "word": "沈梦瑶 取关",
-      "onboard_time": 1732772418,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 89464,
@@ -1539,6 +1683,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 72329,
+      "num": 199693,
+      "word": "换季皮肤瘙痒可能不止是过敏",
+      "onboard_time": 1732773920,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72056,
       "num": 72056,
       "word": "迪丽热巴 ELLE",
@@ -1635,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57274,
+      "num": 179901,
+      "word": "婚内婚外开播",
+      "onboard_time": 1732775540,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57194,
       "num": 280309,
       "word": "拍视频拍了别人也侵犯了肖像权",
@@ -1697,6 +1857,14 @@
       "onboard_time": 1732741451,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49194,
+      "num": 150228,
+      "word": "周政杰分享老枪拍摄最辛苦的一场戏",
+      "onboard_time": 1732774040,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 47767,
@@ -1841,6 +2009,14 @@
       "onboard_time": 1732707438,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33830,
+      "num": 191966,
+      "word": "造黄谣植入软广套路调查",
+      "onboard_time": 1732774340,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33229,
@@ -2121,14 +2297,6 @@
       "onboard_time": 1732732272,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7152,
-      "num": 292024,
-      "word": "运20歼20飞行员空中对话",
-      "onboard_time": 1732772480,
-      "rank": 8,
-      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 6762,

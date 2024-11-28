@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 13:41:42
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 14:33:42
 </p>
 </blockquote>
 <p>
@@ -3027,6 +3027,12 @@ papi酱 家都不回你在托举什么（热度：1257027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E7%91%B6%20%E5%8F%96%E5%85%B3%23" target="weibo">
+沈梦瑶 取关（热度：1238811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%A9%E9%9C%9E%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA%E6%82%94%E7%BD%AA%23" target="weibo">
 李佩霞当庭认罪悔罪（热度：1237187）
 </a>
@@ -6005,12 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%AD%A6%E8%BD%A6%E6%92%9E%E9%A3%9E%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E8%B6%85%E9%80%9F%23" target="weibo">
 6岁女孩被警车撞飞家长质疑超速（热度：827872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%80%89%E6%B0%91%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%9E%E6%8A%BD%E5%A5%96%E9%AA%97%E5%B1%80%23" target="weibo">
-美选民起诉马斯克搞抽奖骗局（热度：827366）
 </a>
 </li>
 

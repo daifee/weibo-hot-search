@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732772502937,
+  "endTime": 1732775622143,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1786228,
-      "num": 360302,
+      "num": 1740468,
       "word": "李行亮只争女儿抚养权",
       "onboard_time": 1732770919,
       "rank": 11,
@@ -521,6 +521,14 @@
       "onboard_time": 1732503558,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1238811,
+      "num": 211633,
+      "word": "沈梦瑶 取关",
+      "onboard_time": 1732772418,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1236929,
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 769850,
+      "num": 230361,
+      "word": "李行亮麦琳下期和好了",
+      "onboard_time": 1732775599,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 756080,
       "num": 438329,
       "word": "徐艺洋水晶",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1732433298,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 600728,
+      "num": 202305,
+      "word": "韩彩英发给郭晓东的邮件被程莉莎错收",
+      "onboard_time": 1732773559,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 599305,
@@ -3369,6 +3393,14 @@
       "onboard_time": 1732678038,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 358791,
+      "num": 195270,
+      "word": "杨子说做不到就净身出户",
+      "onboard_time": 1732773438,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 358446,
@@ -5667,6 +5699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213864,
+      "num": 213864,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 212988,
       "num": 317263,
       "word": "9岁女孩被老师砸伤案最新进展",
@@ -5721,6 +5761,14 @@
       "onboard_time": 1732666939,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 210684,
+      "num": 148818,
+      "word": "王境泽帮父亲承担200万生意亏损",
+      "onboard_time": 1732773859,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 210585,
@@ -5993,14 +6041,6 @@
       "onboard_time": 1732543400,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204681,
-      "num": 204681,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 204454,
@@ -6457,6 +6497,14 @@
       "onboard_time": 1732507399,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "院方回应网传一老人住院10多年未出院",
+      "onboard_time": 1732773799,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 195593,
@@ -7419,6 +7467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177842,
+      "num": 177842,
+      "word": "易烊千玺戴耳夹",
+      "onboard_time": 1732773920,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177670,
       "num": 177670,
       "word": "Irene 红秀",
@@ -7857,6 +7913,14 @@
       "onboard_time": 1732762878,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168222,
+      "num": 350926,
+      "word": "投资300万认养600头牛变成6万斤牛肉",
+      "onboard_time": 1732770739,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168195,
@@ -9211,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141644,
+      "num": 292024,
+      "word": "运20歼20飞行员空中对话",
+      "onboard_time": 1732772480,
+      "rank": 8,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 141472,
       "num": 141472,
       "word": "威神V海底捞联名",
@@ -9257,6 +9329,14 @@
       "onboard_time": 1732627578,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140817,
+      "num": 140817,
+      "word": "BLG签下Maokai",
+      "onboard_time": 1732773380,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 140809,
@@ -9339,6 +9419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139473,
+      "num": 152177,
+      "word": "陈少熙妈妈龙梅子安慰禾伙人",
+      "onboard_time": 1732774999,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139311,
       "num": 139311,
       "word": "下雪",
@@ -9403,6 +9491,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 138157,
+      "num": 204512,
+      "word": "潘展乐咬不开坚果求助张雨霏",
+      "onboard_time": 1732771279,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138149,
       "num": 358060,
       "word": "人民网评霸总微短剧该管管了",
@@ -9465,6 +9561,14 @@
       "onboard_time": 1732512141,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137689,
+      "num": 137689,
+      "word": "特朗普的善变会给世界经济带来什么",
+      "onboard_time": 1732774639,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137587,
@@ -9763,14 +9867,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131551,
-      "num": 350926,
-      "word": "投资300万认养600头牛变成6万斤牛肉",
-      "onboard_time": 1732770739,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131517,
       "num": 131517,
       "word": "罗振宇喊话余承东",
@@ -9793,6 +9889,14 @@
       "onboard_time": 1732422199,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131037,
+      "num": 131037,
+      "word": "国家医保药品目录新增26种肿瘤用药",
+      "onboard_time": 1732773319,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 130854,
@@ -9971,6 +10075,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 127422,
+      "num": 127422,
+      "word": "2架歼20为英雄护航",
+      "onboard_time": 1732773199,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 127373,
+      "num": 133483,
+      "word": "李宇春 今夜你会不会来",
+      "onboard_time": 1732774820,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127285,
       "num": 127285,
       "word": "网易雷火多名员工被处罚",
@@ -10073,6 +10193,14 @@
       "onboard_time": 1732714219,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126484,
+      "num": 149312,
+      "word": "声生不息大屏 梅艳芳张国荣",
+      "onboard_time": 1732773679,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 126013,
@@ -10835,6 +10963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114863,
+      "num": 114863,
+      "word": "无期迷途",
+      "onboard_time": 1732775540,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114609,
       "num": 114609,
       "word": "任嘉伦GCJL REN",
@@ -11027,6 +11163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112702,
+      "num": 112702,
+      "word": "回顾前十批在韩志愿军烈士遗骸归乡路",
+      "onboard_time": 1732773199,
+      "rank": 46,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 112483,
       "num": 112483,
       "word": "十个勤天卡点为鹭卓庆生",
@@ -11057,6 +11201,14 @@
       "onboard_time": 1732766659,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112295,
+      "num": 112295,
+      "word": "脚下这片土地是你们誓死保卫的家乡",
+      "onboard_time": 1732775540,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112228,
@@ -11169,6 +11321,14 @@
       "onboard_time": 1732720579,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111142,
+      "num": 111142,
+      "word": "时隔70多年志愿军烈士再次听到国歌",
+      "onboard_time": 1732772959,
+      "rank": 48,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 111109,
@@ -11987,14 +12147,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 92442,
-      "num": 204512,
-      "word": "潘展乐咬不开坚果求助张雨霏",
-      "onboard_time": 1732771279,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92422,
       "num": 92422,
       "word": "为什么冬天更爱吃火锅",
@@ -12009,14 +12161,6 @@
       "onboard_time": 1732716620,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92227,
-      "num": 201850,
-      "word": "沈梦瑶 取关",
-      "onboard_time": 1732772418,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 91704,
@@ -12843,6 +12987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 72329,
+      "num": 199693,
+      "word": "换季皮肤瘙痒可能不止是过敏",
+      "onboard_time": 1732773920,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72262,
       "num": 78078,
       "word": "黄奕 只要不是外公姐就行",
@@ -13483,6 +13635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57274,
+      "num": 179901,
+      "word": "婚内婚外开播",
+      "onboard_time": 1732775540,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57194,
       "num": 280309,
       "word": "拍视频拍了别人也侵犯了肖像权",
@@ -13921,6 +14081,14 @@
       "onboard_time": 1732440321,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49194,
+      "num": 150228,
+      "word": "周政杰分享老枪拍摄最辛苦的一场戏",
+      "onboard_time": 1732774040,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 49127,
@@ -14985,6 +15153,14 @@
       "onboard_time": 1732619478,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 33830,
+      "num": 191966,
+      "word": "造黄谣植入软广套路调查",
+      "onboard_time": 1732774340,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33229,
@@ -16913,14 +17089,6 @@
       "onboard_time": 1732446021,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7152,
-      "num": 292024,
-      "word": "运20歼20飞行员空中对话",
-      "onboard_time": 1732772480,
-      "rank": 8,
-      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 7016,
