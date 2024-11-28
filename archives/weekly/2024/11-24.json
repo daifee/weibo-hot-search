@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732826361963,
+  "endTime": 1732828913750,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -14819,19 +14819,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66029,
+      "num": 124471,
+      "word": "冬天身上痒1天洗2次澡反患湿疹",
+      "onboard_time": 1732824550,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66026,
       "num": 66026,
       "word": "广州长达240天的夏天终于结束",
       "onboard_time": 1732472232,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65613,
-      "num": 65613,
-      "word": "冬天身上痒1天洗2次澡反患湿疹",
-      "onboard_time": 1732824550,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -16145,6 +16145,14 @@
       "onboard_time": 1732679539,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43971,
+      "num": 43971,
+      "word": "特朗普关税大棒下没有赢家",
+      "onboard_time": 1732824071,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43921,
@@ -18267,14 +18275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19321,
-      "num": 33749,
-      "word": "特朗普关税大棒下没有赢家",
-      "onboard_time": 1732824071,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19244,
       "num": 393319,
       "word": "个别高校机械的宿舍管理该改改了",
@@ -18379,20 +18379,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17869,
+      "num": 17869,
+      "word": "哈尔滨冰雪大世界冰滑梯动工",
+      "onboard_time": 1732821311,
+      "rank": 35,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 17867,
       "num": 23413,
       "word": "张泽禹给余宇涵的生日祝福",
       "onboard_time": 1732474212,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17846,
-      "num": 17846,
-      "word": "哈尔滨冰雪大世界冰滑梯动工",
-      "onboard_time": 1732821311,
-      "rank": 35,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 17702,
@@ -18515,6 +18515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16279,
+      "num": 18173,
+      "word": "王雷谈接英雄回家",
+      "onboard_time": 1732827011,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16070,
       "num": 203119,
       "word": "被七年后的call back三杀了",
@@ -18601,6 +18609,14 @@
       "onboard_time": 1732651451,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15314,
+      "num": 18236,
+      "word": "中国仪仗兵的每一个动作都写满敬意",
+      "onboard_time": 1732827610,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 15232,
@@ -18771,6 +18787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13221,
+      "num": 13221,
+      "word": "谢谢你保护了我们",
+      "onboard_time": 1732826830,
+      "rank": 39,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 13220,
       "num": 309717,
       "word": "有效降低全社会物流成本行动方案发布",
@@ -18809,6 +18833,14 @@
       "onboard_time": 1732561811,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12755,
+      "num": 12755,
+      "word": "国旗覆盖志愿军烈士棺椁",
+      "onboard_time": 1732828572,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12754,
