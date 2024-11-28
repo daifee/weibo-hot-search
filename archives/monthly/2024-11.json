@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732808414448,
+  "endTime": 1732811367544,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5425,6 +5425,14 @@
       "onboard_time": 1732622899,
       "rank": 10,
       "category": "网红,舆论监督"
+    },
+    {
+      "raw_hot": 1041434,
+      "num": 445338,
+      "word": "上海民警多次猥亵继女母亲发声",
+      "onboard_time": 1732808599,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1040882,
@@ -14003,6 +14011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 570511,
+      "num": 355343,
+      "word": "易烊千玺评论区回复王俊凯王源",
+      "onboard_time": 1732808658,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570441,
       "num": 570441,
       "word": "权志龙点赞苏新皓",
@@ -17835,6 +17851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461114,
+      "num": 461114,
+      "word": "父母希望黄圣依有正常的婚姻关系",
+      "onboard_time": 1732807639,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461032,
       "num": 461032,
       "word": "唐梓回应跟丁禹兮长得像",
@@ -18561,6 +18585,14 @@
       "onboard_time": 1732793538,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443237,
+      "num": 443237,
+      "word": "男子47万买3手宾利发现竟是13手",
+      "onboard_time": 1732808538,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 443197,
@@ -34987,14 +35019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216949,
-      "num": 288484,
-      "word": "父母希望黄圣依有正常的婚姻关系",
-      "onboard_time": 1732807639,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216901,
       "num": 238778,
       "word": "国色芳华",
@@ -41651,6 +41675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191921,
+      "num": 191921,
+      "word": "时代峰峻回应朱志鑫苏新皓双人合照",
+      "onboard_time": 1732808237,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191846,
       "num": 191846,
       "word": "IVE未公开新歌MV",
@@ -41865,6 +41897,14 @@
       "onboard_time": 1732706118,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191265,
+      "num": 191265,
+      "word": "塔克拉玛干沙漠被整个围起来了",
+      "onboard_time": 1732807639,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 191229,
@@ -46857,6 +46897,14 @@
       "onboard_time": 1731223160,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173878,
+      "num": 111011,
+      "word": "大冰为脑瘫女孩追星薛之谦",
+      "onboard_time": 1732809737,
+      "rank": 21,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 173865,
@@ -54259,6 +54307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150846,
+      "num": 216935,
+      "word": "拿千元羽绒服翻新拆开竟没有羽绒",
+      "onboard_time": 1732807879,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150843,
       "num": 150843,
       "word": "养狗人都懂这时候千万不能跑",
@@ -56785,6 +56841,14 @@
       "onboard_time": 1730817444,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142884,
+      "num": 110474,
+      "word": "麦琳全职妈妈带两娃的KPI被忽视",
+      "onboard_time": 1732808897,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 142880,
@@ -61145,6 +61209,14 @@
       "onboard_time": 1732427598,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128754,
+      "num": 108010,
+      "word": "贺峻霖接手向太轮椅",
+      "onboard_time": 1732810457,
+      "rank": 25,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 128723,
@@ -65619,14 +65691,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 114500,
-      "num": 114500,
-      "word": "塔克拉玛干沙漠被整个围起来了",
-      "onboard_time": 1732807639,
-      "rank": 30,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 114483,
       "num": 114483,
       "word": "林峯TVB台庆压轴",
@@ -68731,14 +68795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101938,
-      "num": 101938,
-      "word": "时代峰峻回应朱志鑫苏新皓双人合照",
-      "onboard_time": 1732808237,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101935,
       "num": 101935,
       "word": "高芙vs克雷吉茨科娃",
@@ -69345,14 +69401,6 @@
       "onboard_time": 1732424118,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99158,
-      "num": 99158,
-      "word": "拿千元羽绒服翻新拆开竟没有羽绒",
-      "onboard_time": 1732807879,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99115,
@@ -70873,6 +70921,14 @@
       "onboard_time": 1731759980,
       "rank": 18,
       "category": "演出,电竞"
+    },
+    {
+      "raw_hot": 91424,
+      "num": 91424,
+      "word": "虞书欣海边落日背影照",
+      "onboard_time": 1732808478,
+      "rank": 30,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 91414,
@@ -79129,6 +79185,14 @@
       "onboard_time": 1732638436,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 54116,
+      "num": 54116,
+      "word": "苏翊鸣本周末再次亮相雪飞天",
+      "onboard_time": 1732809618,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 54091,
@@ -91905,6 +91969,14 @@
       "onboard_time": 1732245258,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21869,
+      "num": 109112,
+      "word": "马龙学长走哪都有阵阵尖叫",
+      "onboard_time": 1732810997,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 21859,

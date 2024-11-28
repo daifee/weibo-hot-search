@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/28 23:40:14
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/29 00:29:27
 </p>
 </blockquote>
 <p>
@@ -4083,6 +4083,12 @@ S14开幕式播不播（热度：1045831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B0%91%E8%AD%A6%E5%A4%9A%E6%AC%A1%E7%8C%A5%E4%BA%B5%E7%BB%A7%E5%A5%B3%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+上海民警多次猥亵继女母亲发声（热度：1041434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%AD%899%E5%9B%BD%E6%9D%A5%E5%8D%8E%E5%85%8D%E7%AD%BE%23" target="weibo">
 日本克罗地亚等9国来华免签（热度：1040882）
 </a>
@@ -6005,12 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%80%80%E5%AD%95%E5%89%8D%E5%B0%B1%E6%8A%8A%E5%B0%8F%E5%AD%A9%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%B9%B0%E5%A5%BD%23" target="weibo">
 谢娜怀孕前就把小孩的衣服买好（热度：834265）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%80%A7%E4%BE%B5%E8%BF%98%E8%A2%AB%E5%BC%95%E8%AF%B1%E5%8D%96%E6%B7%AB%23" target="weibo">
-13岁女孩遭性侵还被引诱卖淫（热度：833698）
 </a>
 </li>
 
