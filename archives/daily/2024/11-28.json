@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732778720029,
+  "endTime": 1732779489034,
   "band_list": [
     {
       "raw_hot": 2200192,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1293934,
-      "num": 230952,
+      "num": 240832,
       "word": "沈梦瑶 取关",
       "onboard_time": 1732772418,
       "rank": 31,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660114,
+      "num": 254654,
+      "word": "李行亮朋友让麦琳去妈味",
+      "onboard_time": 1732779018,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649736,
       "num": 283048,
       "word": "黄圣依微博头像",
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625584,
+      "num": 252710,
+      "word": "四大长红顶流",
+      "onboard_time": 1732778179,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 613109,
       "num": 613109,
       "word": "中国麻辣烫在日本人气火爆",
@@ -177,6 +193,14 @@
       "onboard_time": 1732773559,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600229,
+      "num": 245513,
+      "word": "周麟嘉否认和冯绍峰恋情",
+      "onboard_time": 1732779139,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 588932,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 506246,
-      "num": 182064,
+      "num": 237777,
       "word": "王境泽帮父亲承担200万生意亏损",
       "onboard_time": 1732773859,
       "rank": 31,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 486535,
-      "num": 169703,
+      "num": 234750,
       "word": "黄圣依又哭了",
       "onboard_time": 1732776679,
       "rank": 12,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 431068,
-      "num": 197139,
+      "num": 222601,
       "word": "我是刑警保住7个月没发的工资",
       "onboard_time": 1732776140,
       "rank": 23,
@@ -339,6 +363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 374077,
+      "num": 374077,
+      "word": "塔克拉玛干沙漠被围起来了",
+      "onboard_time": 1732765758,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 368399,
       "num": 368399,
       "word": "成都地铁",
@@ -361,14 +393,6 @@
       "onboard_time": 1732773438,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353746,
-      "num": 353746,
-      "word": "塔克拉玛干沙漠被围起来了",
-      "onboard_time": 1732765758,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 352063,
@@ -409,6 +433,14 @@
       "onboard_time": 1732770679,
       "rank": 27,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 312438,
+      "num": 220896,
+      "word": "种地吧",
+      "onboard_time": 1732778358,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 302988,
@@ -537,14 +569,6 @@
       "onboard_time": 1732695438,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245826,
-      "num": 163387,
-      "word": "四大长红顶流",
-      "onboard_time": 1732778179,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244131,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 189842,
-      "num": 162175,
+      "num": 175504,
       "word": "芒果TV会员数增近600万",
       "onboard_time": 1732777160,
       "rank": 28,
@@ -841,14 +865,6 @@
       "onboard_time": 1732722019,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179915,
-      "num": 162324,
-      "word": "种地吧",
-      "onboard_time": 1732778358,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 179700,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 162173,
-      "num": 162173,
+      "num": 217100,
       "word": "最高礼遇接英雄回家沈阳准备好了",
       "onboard_time": 1732777638,
       "rank": 29,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 162136,
-      "num": 162136,
+      "num": 231303,
       "word": "2架歼20为英雄护航",
       "onboard_time": 1732773199,
       "rank": 43,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1732772119,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159140,
+      "num": 231149,
+      "word": "志愿军烈士回国仪式感太催泪",
+      "onboard_time": 1732775840,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 158838,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1732769300,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 153040,
-      "num": 231149,
-      "word": "志愿军烈士回国仪式感太催泪",
-      "onboard_time": 1732775840,
-      "rank": 9,
-      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 151432,
@@ -1131,12 +1147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147418,
+      "num": 147418,
+      "word": "特朗普的善变会给世界经济带来什么",
+      "onboard_time": 1732774639,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147111,
       "num": 147111,
       "word": "洪承汉初雪正面照",
       "onboard_time": 1732722976,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145776,
+      "num": 145776,
+      "word": "拜登要求乌克兰降低征兵年龄至18岁",
+      "onboard_time": 1732776499,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145740,
@@ -1171,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142186,
-      "num": 142186,
-      "word": "拜登要求乌克兰降低征兵年龄至18岁",
-      "onboard_time": 1732776499,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141644,
       "num": 292024,
       "word": "运20歼20飞行员空中对话",
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 140817,
-      "num": 162295,
+      "num": 206927,
       "word": "BLG签下Maokai",
       "onboard_time": 1732773380,
       "rank": 34,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1732771279,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137689,
-      "num": 137689,
-      "word": "特朗普的善变会给世界经济带来什么",
-      "onboard_time": 1732774639,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136996,
@@ -1339,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128843,
+      "num": 149734,
+      "word": "周笔畅李宇春再聚首",
+      "onboard_time": 1732779139,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127373,
       "num": 133483,
       "word": "李宇春 今夜你会不会来",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1732776977,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119652,
+      "num": 119652,
+      "word": "英雄回家MV满山红旗飘",
+      "onboard_time": 1732778899,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119212,
@@ -1612,7 +1644,7 @@
     },
     {
       "raw_hot": 93436,
-      "num": 131725,
+      "num": 209498,
       "word": "真香哥爆火后签1500万天价合同",
       "onboard_time": 1732775420,
       "rank": 38,
@@ -1697,6 +1729,14 @@
       "onboard_time": 1732769840,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 85257,
+      "num": 280309,
+      "word": "拍视频拍了别人也侵犯了肖像权",
+      "onboard_time": 1732772359,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84770,
@@ -1899,14 +1939,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62010,
-      "num": 280309,
-      "word": "拍视频拍了别人也侵犯了肖像权",
-      "onboard_time": 1732772359,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61564,
       "num": 104906,
       "word": "有效降低全社会物流成本行动方案",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1732749374,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59950,
+      "num": 204402,
+      "word": "新能源车自燃损失谁买单",
+      "onboard_time": 1732777638,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 59909,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1732707199,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55240,
+      "num": 230257,
+      "word": "三问山东平阴卖天",
+      "onboard_time": 1732777818,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 54707,
@@ -2019,14 +2067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48837,
-      "num": 162427,
-      "word": "新能源车自燃损失谁买单",
-      "onboard_time": 1732777638,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 47767,
       "num": 41187,
       "word": "人均两万五去8个国家玩了24天",
@@ -2067,20 +2107,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43105,
+      "num": 199297,
+      "word": "杨洋讲脱口秀",
+      "onboard_time": 1732775720,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42416,
       "num": 209600,
       "word": "宁悦女版李行亮",
       "onboard_time": 1732767800,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42280,
-      "num": 167735,
-      "word": "三问山东平阴卖天",
-      "onboard_time": 1732777818,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 41949,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1732718959,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41675,
+      "num": 194054,
+      "word": "辛芷蕾嘉人十二月刊封面",
+      "onboard_time": 1732779079,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41168,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1732766958,
       "rank": 29,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 35286,
-      "num": 167215,
-      "word": "杨洋讲脱口秀",
-      "onboard_time": 1732775720,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 35198,
@@ -2363,20 +2403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19453,
+      "num": 162474,
+      "word": "陈伟霆畅想未来有女儿的自己",
+      "onboard_time": 1732778119,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18174,
       "num": 25487,
       "word": "为何东北这次降雪这么强",
       "onboard_time": 1732747272,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17798,
-      "num": 162474,
-      "word": "陈伟霆畅想未来有女儿的自己",
-      "onboard_time": 1732778119,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 16990,
@@ -2425,6 +2465,14 @@
       "onboard_time": 1732735451,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13220,
+      "num": 309717,
+      "word": "有效降低全社会物流成本行动方案发布",
+      "onboard_time": 1732764918,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13120,
