@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732785963063,
+  "endTime": 1732786833469,
   "band_list": [
     {
       "raw_hot": 2200192,
@@ -75,7 +75,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1031568,
+      "raw_hot": 1063430,
       "num": 377063,
       "word": "冯绍峰方回应恋情",
       "onboard_time": 1732784301,
@@ -131,6 +131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 750769,
+      "num": 1117517,
+      "word": "葛夕情绪爆发",
+      "onboard_time": 1732780220,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736477,
       "num": 502607,
       "word": "妻子坠海丈夫却急着开死亡证明",
@@ -139,16 +147,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 734485,
-      "num": 1117517,
-      "word": "葛夕情绪爆发",
-      "onboard_time": 1732780220,
-      "rank": 4,
+      "raw_hot": 713751,
+      "num": 454942,
+      "word": "女子狗肉店发现拉布拉多众筹买下",
+      "onboard_time": 1732784181,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 709352,
+      "num": 628279,
+      "word": "傅首尔说感受不到李行亮爱麦琳",
+      "onboard_time": 1732784000,
+      "rank": 3,
       "category": "综艺"
     },
     {
       "raw_hot": 679649,
-      "num": 679649,
+      "num": 1085827,
       "word": "27岁清华博士已任上海交大博导",
       "onboard_time": 1732780399,
       "rank": 1,
@@ -193,14 +209,6 @@
       "onboard_time": 1732779978,
       "rank": 3,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 628279,
-      "num": 628279,
-      "word": "傅首尔说感受不到李行亮爱麦琳",
-      "onboard_time": 1732784000,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 625939,
@@ -331,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454942,
-      "num": 454942,
-      "word": "女子狗肉店发现拉布拉多众筹买下",
-      "onboard_time": 1732784181,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 444684,
       "num": 384541,
       "word": "荣梓杉 我自己洗",
@@ -347,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440266,
+      "num": 440266,
+      "word": "安徽一副市长拒绝组织挽救被双开",
+      "onboard_time": 1732780939,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431068,
       "num": 222601,
       "word": "我是刑警保住7个月没发的工资",
       "onboard_time": 1732776140,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 430511,
-      "num": 430511,
-      "word": "安徽一副市长拒绝组织挽救被双开",
-      "onboard_time": 1732780939,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 423128,
@@ -459,20 +459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364470,
+      "num": 364470,
+      "word": "广州地铁",
+      "onboard_time": 1732783281,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364151,
       "num": 592755,
       "word": "迎接烈士回国的塔台对话听到泪目",
       "onboard_time": 1732768100,
       "rank": 9,
       "category": "国内时政,正能量"
-    },
-    {
-      "raw_hot": 360890,
-      "num": 360890,
-      "word": "广州地铁",
-      "onboard_time": 1732783281,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358791,
@@ -675,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240425,
+      "num": 240425,
+      "word": "浙江一企业主管被同事棍击多次身亡",
+      "onboard_time": 1732785801,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238448,
       "num": 238448,
       "word": "种地吧第三季少人",
@@ -705,6 +713,14 @@
       "onboard_time": 1732763238,
       "rank": 47,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 229995,
+      "num": 380380,
+      "word": "警方调查广州地铁年轻人与老人冲突",
+      "onboard_time": 1732785501,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229158,
@@ -769,6 +785,14 @@
       "onboard_time": 1732781660,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212598,
+      "num": 212598,
+      "word": "恋与深空",
+      "onboard_time": 1732786039,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 211580,
@@ -1107,6 +1131,14 @@
       "category": "国内时政,正能量"
     },
     {
+      "raw_hot": 167571,
+      "num": 146454,
+      "word": "周雨彤 陈好可爱不自知",
+      "onboard_time": 1732785860,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166492,
       "num": 209567,
       "word": "李川 李总前世是王子",
@@ -1243,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150945,
-      "num": 380380,
-      "word": "警方调查广州地铁年轻人与老人冲突",
-      "onboard_time": 1732785501,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150059,
       "num": 150059,
       "word": "左航归队",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1732774639,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147333,
+      "num": 147333,
+      "word": "十个勤天直播",
+      "onboard_time": 1732786160,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147111,
@@ -1539,14 +1571,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131414,
-      "num": 131414,
-      "word": "浙江一企业主管被同事棍击多次身亡",
-      "onboard_time": 1732785801,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131400,
       "num": 254501,
       "word": "张蔷帮向太推轮椅",
@@ -1595,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127553,
+      "num": 127553,
+      "word": "孩子们对飞机敬礼接英雄回家",
+      "onboard_time": 1732786579,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 127373,
       "num": 133483,
       "word": "李宇春 今夜你会不会来",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1732770799,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127144,
+      "num": 127144,
+      "word": "国产癫痫救命药氯巴占进医保了",
+      "onboard_time": 1732783461,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126515,
@@ -1627,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125984,
-      "num": 125984,
-      "word": "国产癫痫救命药氯巴占进医保了",
-      "onboard_time": 1732783461,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125474,
       "num": 125474,
       "word": "涵艺举报LPL韩援",
@@ -1643,12 +1675,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124800,
-      "num": 124800,
-      "word": "周雨彤 陈好可爱不自知",
-      "onboard_time": 1732785860,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 125051,
+      "num": 125051,
+      "word": "几百只狗受冻流血被装鸡笼塞满卡车",
+      "onboard_time": 1732786460,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124513,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1732705159,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117099,
+      "num": 234373,
+      "word": "上海民警猥亵继女案开庭",
+      "onboard_time": 1732783101,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116682,
@@ -1883,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97163,
+      "num": 249375,
+      "word": "易烊千玺和云霞",
+      "onboard_time": 1732784000,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96237,
       "num": 96237,
       "word": "樊振东现身K80发布会",
@@ -1905,14 +1953,6 @@
       "onboard_time": 1732766478,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94904,
-      "num": 249375,
-      "word": "易烊千玺和云霞",
-      "onboard_time": 1732784000,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 94250,
@@ -2131,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74962,
+      "num": 168010,
+      "word": "周迅来了也要说一句好多人啊",
+      "onboard_time": 1732782860,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74388,
       "num": 74388,
       "word": "陈好为送礼物口误道歉",
@@ -2299,14 +2347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 58048,
-      "num": 168010,
-      "word": "周迅来了也要说一句好多人啊",
-      "onboard_time": 1732782860,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57683,
       "num": 435892,
       "word": "专家称老虎进村是想拓展新领地",
@@ -2395,6 +2435,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 50402,
+      "num": 254816,
+      "word": "反转次数还是电影票房密码吗",
+      "onboard_time": 1732785020,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49402,
       "num": 102153,
       "word": "周慧敏发长文聊入行37年经历",
@@ -2411,12 +2459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48143,
-      "num": 234373,
-      "word": "上海民警猥亵继女案开庭",
-      "onboard_time": 1732783101,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 48177,
+      "num": 110417,
+      "word": "唐嫣COSMO12月刊封面预告",
+      "onboard_time": 1732786220,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 47767,
@@ -2577,6 +2625,14 @@
       "onboard_time": 1732741031,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 34492,
+      "num": 252434,
+      "word": "吃个烤鱼竟然给我送成都了",
+      "onboard_time": 1732784961,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 34132,
@@ -2763,28 +2819,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 21822,
-      "num": 252434,
-      "word": "吃个烤鱼竟然给我送成都了",
-      "onboard_time": 1732784961,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 21661,
       "num": 282163,
       "word": "雷公称人贩子王浩文卷宗高达2.5米",
       "onboard_time": 1732772298,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21596,
-      "num": 254816,
-      "word": "反转次数还是电影票房密码吗",
-      "onboard_time": 1732785020,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 20219,
@@ -2849,6 +2889,14 @@
       "onboard_time": 1732745952,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15131,
+      "num": 226696,
+      "word": "奥运天团新疆团建群像太美好了",
+      "onboard_time": 1732785501,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 14799,
@@ -2936,14 +2984,6 @@
       "word": "苏翊鸣北京站赛前适应训练",
       "onboard_time": 1732750155,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8134,
-      "num": 226696,
-      "word": "奥运天团新疆团建群像太美好了",
-      "onboard_time": 1732785501,
-      "rank": 24,
       "category": "体育"
     },
     {
