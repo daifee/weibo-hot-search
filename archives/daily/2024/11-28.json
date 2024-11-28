@@ -1,6 +1,6 @@
 {
   "startTime": 1732725019248,
-  "endTime": 1732779489034,
+  "endTime": 1732782696526,
   "band_list": [
     {
       "raw_hot": 2200192,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1293934,
-      "num": 240832,
+      "num": 325776,
       "word": "沈梦瑶 取关",
       "onboard_time": 1732772418,
       "rank": 31,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 676595,
+      "num": 676595,
+      "word": "27岁清华博士已任上海交大博导",
+      "onboard_time": 1732780399,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675212,
       "num": 784080,
       "word": "媒体评羊毛月何不食肉糜",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 660114,
-      "num": 254654,
+      "num": 320462,
       "word": "李行亮朋友让麦琳去妈味",
       "onboard_time": 1732779018,
       "rank": 5,
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630768,
+      "num": 630768,
+      "word": "医保砍价现场1分1毛都要尽力争取",
+      "onboard_time": 1732779978,
+      "rank": 3,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 625939,
       "num": 349972,
       "word": "易烊千玺谢谢凯哥源哥",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 625584,
-      "num": 252710,
+      "num": 342544,
       "word": "四大长红顶流",
       "onboard_time": 1732778179,
       "rank": 16,
@@ -185,6 +201,14 @@
       "onboard_time": 1732765698,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 610472,
+      "num": 610472,
+      "word": "葛夕情绪爆发",
+      "onboard_time": 1732780220,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 600728,
@@ -227,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 552617,
+      "num": 344950,
+      "word": "种地吧",
+      "onboard_time": 1732778358,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517736,
       "num": 602454,
       "word": "白夜破晓案件法律点上难度了",
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 506246,
-      "num": 237777,
+      "num": 263457,
       "word": "王境泽帮父亲承担200万生意亏损",
       "onboard_time": 1732773859,
       "rank": 31,
@@ -289,6 +321,14 @@
       "onboard_time": 1732776140,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423128,
+      "num": 323298,
+      "word": "种地吧直播",
+      "onboard_time": 1732683020,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 419591,
@@ -427,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328509,
+      "num": 328509,
+      "word": "拜登要求乌克兰降低征兵年龄至18岁",
+      "onboard_time": 1732776499,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317613,
       "num": 317613,
       "word": "运20在机场落地",
@@ -435,11 +483,11 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 312438,
-      "num": 220896,
-      "word": "种地吧",
-      "onboard_time": 1732778358,
-      "rank": 23,
+      "raw_hot": 316611,
+      "num": 316611,
+      "word": "荣梓杉 我自己洗",
+      "onboard_time": 1732780578,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -480,6 +528,14 @@
       "word": "倪萍谈蔡磊签署遗体捐赠协议",
       "onboard_time": 1732759638,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285753,
+      "num": 285753,
+      "word": "安徽一副市长拒绝组织挽救被双开",
+      "onboard_time": 1732780939,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -659,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212627,
+      "num": 212627,
+      "word": "迪丽热巴冬装路透",
+      "onboard_time": 1732781660,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211580,
       "num": 415616,
       "word": "声生不息",
@@ -737,6 +801,14 @@
       "onboard_time": 1732765399,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197479,
+      "num": 170404,
+      "word": "杨子黄圣依分房子睡",
+      "onboard_time": 1732781480,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 195719,
@@ -1163,14 +1235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145776,
-      "num": 145776,
-      "word": "拜登要求乌克兰降低征兵年龄至18岁",
-      "onboard_time": 1732776499,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145740,
       "num": 145740,
       "word": "左雾让scout还钱",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1732772480,
       "rank": 8,
       "category": "国内时政,正能量"
+    },
+    {
+      "raw_hot": 141404,
+      "num": 141404,
+      "word": "这届网友才是最强的爆改大师",
+      "onboard_time": 1732782680,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 140817,
@@ -1331,6 +1403,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 132078,
+      "num": 132078,
+      "word": "李小冉 活着回来",
+      "onboard_time": 1732776977,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131789,
       "num": 131789,
       "word": "字节诉攻击模型训练实习生索赔800万",
@@ -1356,7 +1436,7 @@
     },
     {
       "raw_hot": 128843,
-      "num": 149734,
+      "num": 265108,
       "word": "周笔畅李宇春再聚首",
       "onboard_time": 1732779139,
       "rank": 33,
@@ -1395,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126271,
+      "num": 121838,
+      "word": "张蔷帮向太推轮椅",
+      "onboard_time": 1732782139,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125474,
       "num": 125474,
       "word": "涵艺举报LPL韩援",
@@ -1411,12 +1499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121317,
-      "num": 121317,
-      "word": "李小冉 活着回来",
-      "onboard_time": 1732776977,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 121750,
+      "num": 121750,
+      "word": "吉利高管曾寄刀给博世总裁希望降价",
+      "onboard_time": 1732781179,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 120913,
+      "num": 120913,
+      "word": "王浩文对8起拐卖儿童案死不认罪",
+      "onboard_time": 1732780578,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119652,
@@ -1441,6 +1537,14 @@
       "onboard_time": 1732705159,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116686,
+      "num": 116686,
+      "word": "高铁晚点",
+      "onboard_time": 1732780820,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116682,
@@ -1609,6 +1713,14 @@
       "onboard_time": 1732709539,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96873,
+      "num": 230970,
+      "word": "易烊千玺澡堂手牌",
+      "onboard_time": 1732781960,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 96237,
@@ -1795,20 +1907,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78641,
+      "num": 215064,
+      "word": "黎深 背头风衣",
+      "onboard_time": 1732781599,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78272,
       "num": 78272,
       "word": "华为影像年度照片揭晓",
       "onboard_time": 1732723458,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 77545,
-      "num": 77545,
-      "word": "种地吧直播",
-      "onboard_time": 1732683020,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 76484,
@@ -1905,6 +2017,14 @@
       "onboard_time": 1732709898,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70526,
+      "num": 264191,
+      "word": "西安一墓坑发掘十年仍未回填",
+      "onboard_time": 1732781660,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68921,
@@ -2017,6 +2137,14 @@
       "onboard_time": 1732754659,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53973,
+      "num": 327247,
+      "word": "多地躺平式干部被调查背后",
+      "onboard_time": 1732781060,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53794,
@@ -2219,6 +2347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 34132,
+      "num": 167007,
+      "word": "潘粤明7年前vs7年后",
+      "onboard_time": 1732780639,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33928,
       "num": 41949,
       "word": "芒果凑齐了三大群像",
@@ -2347,12 +2483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 25611,
+      "num": 318788,
+      "word": "校方回应职工校门口套袋打死流浪狗",
+      "onboard_time": 1732782560,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25471,
       "num": 25471,
       "word": "陆柯燃也cha上初雪了",
       "onboard_time": 1732731014,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24965,
+      "num": 119274,
+      "word": "什么悬疑剧15分钟4起命案",
+      "onboard_time": 1732780639,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 24216,
@@ -2531,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7057,
+      "num": 649679,
+      "word": "供应链的发展如何改变我们的生活",
+      "onboard_time": 1732695618,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 6762,
       "num": 17862,
       "word": "严浩翔白衬衫造型路透",
@@ -2566,6 +2726,9 @@
   "hotgov_list": [
     {
       "word": "#中国坚定支持巴勒斯坦成为联合国正式会员国#"
+    },
+    {
+      "word": "#奋力谱写供销合作事业高质量发展新篇章#"
     }
   ]
 }
