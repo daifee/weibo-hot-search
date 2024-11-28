@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732786833469,
+  "endTime": 1732789587659,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -2443,6 +2443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 506163,
+      "num": 427429,
+      "word": "几百只狗受冻流血被装鸡笼塞满卡车",
+      "onboard_time": 1732786460,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504678,
       "num": 411119,
       "word": "休息室隐藏版鹿晗",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1732623918,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 472709,
+      "num": 270454,
+      "word": "李行亮 学区房",
+      "onboard_time": 1732783461,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 471143,
@@ -2907,10 +2923,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424287,
+      "num": 424287,
+      "word": "广州地铁",
+      "onboard_time": 1732783281,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421824,
       "num": 289921,
       "word": "被野猪顶撞撕咬老人家属发声",
       "onboard_time": 1732546459,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419629,
+      "num": 419629,
+      "word": "警方调查广州地铁年轻人与老人冲突",
+      "onboard_time": 1732785501,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -3475,14 +3507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364470,
-      "num": 364470,
-      "word": "广州地铁",
-      "onboard_time": 1732783281,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364151,
       "num": 592755,
       "word": "迎接烈士回国的塔台对话听到泪目",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1732669218,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357214,
+      "num": 357214,
+      "word": "Newjeans将举办紧急记者会",
+      "onboard_time": 1732786820,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 356938,
@@ -5339,14 +5371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229995,
-      "num": 380380,
-      "word": "警方调查广州地铁年轻人与老人冲突",
-      "onboard_time": 1732785501,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229559,
       "num": 229559,
       "word": "丁禹兮平衡感态度大片",
@@ -6547,14 +6571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197856,
-      "num": 157727,
-      "word": "李行亮 学区房",
-      "onboard_time": 1732783461,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197809,
       "num": 197809,
       "word": "张博恒加盟我家那小子",
@@ -7073,6 +7089,14 @@
       "onboard_time": 1732595001,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189040,
+      "num": 189040,
+      "word": "赵露思工作室维权取证",
+      "onboard_time": 1732787720,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 188846,
@@ -8835,6 +8859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155004,
+      "num": 155004,
+      "word": "17岁2米24女篮球员场上超强统治力",
+      "onboard_time": 1732787480,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154983,
       "num": 154983,
       "word": "院人版晚安大小姐",
@@ -9235,6 +9267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147287,
+      "num": 295343,
+      "word": "居民称胖东来有底气让员工靠自己",
+      "onboard_time": 1732785680,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147143,
       "num": 453163,
       "word": "100万起拍的糖葫芦摊位去年40万成交",
@@ -9531,6 +9571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141986,
+      "num": 234373,
+      "word": "上海民警猥亵继女案开庭",
+      "onboard_time": 1732783101,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141806,
       "num": 141806,
       "word": "刘宇宁提名金莲花奖",
@@ -9651,6 +9699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140550,
+      "num": 140550,
+      "word": "国乒成都训练",
+      "onboard_time": 1732787540,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140522,
       "num": 140522,
       "word": "中国点名美国的否决让安理会瘫痪",
@@ -9705,6 +9761,14 @@
       "onboard_time": 1732603639,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139552,
+      "num": 144491,
+      "word": "迪丽热巴雪景红衣路透",
+      "onboard_time": 1732788321,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 139473,
@@ -10707,14 +10771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125051,
-      "num": 125051,
-      "word": "几百只狗受冻流血被装鸡笼塞满卡车",
-      "onboard_time": 1732786460,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125026,
       "num": 125026,
       "word": "我国大部今起将先后降6到10度",
@@ -10825,6 +10881,14 @@
       "onboard_time": 1732408996,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 122898,
+      "num": 122898,
+      "word": "人贩子王浩文判死刑了",
+      "onboard_time": 1732787480,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122844,
@@ -11219,14 +11283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117099,
-      "num": 234373,
-      "word": "上海民警猥亵继女案开庭",
-      "onboard_time": 1732783101,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117019,
       "num": 117019,
       "word": "王楚钦1比0张本智和",
@@ -11449,6 +11505,14 @@
       "onboard_time": 1732598657,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114376,
+      "num": 114376,
+      "word": "秦彻 蝎子",
+      "onboard_time": 1732786940,
+      "rank": 35,
+      "category": "游戏,情感"
     },
     {
       "raw_hot": 114262,
@@ -11753,6 +11817,14 @@
       "onboard_time": 1732539200,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111285,
+      "num": 111285,
+      "word": "卓沅安慰禾伙人",
+      "onboard_time": 1732788619,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 111241,
@@ -12131,6 +12203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102953,
+      "num": 102953,
+      "word": "Newjeans召开紧急记者发布会",
+      "onboard_time": 1732788619,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102170,
       "num": 102170,
       "word": "于和伟一天在播三部戏",
@@ -12273,6 +12353,14 @@
       "onboard_time": 1732424118,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99003,
+      "num": 99003,
+      "word": "宋亚轩要发新歌",
+      "onboard_time": 1732786820,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 98891,
@@ -12619,6 +12707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92712,
+      "num": 92712,
+      "word": "侯佩岑 今天是节目的分水岭",
+      "onboard_time": 1732789458,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92422,
       "num": 92422,
       "word": "为什么冬天更爱吃火锅",
@@ -12643,12 +12739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92156,
+      "num": 92156,
+      "word": "肖战晚安MV拍摄花絮",
+      "onboard_time": 1732789458,
+      "rank": 45,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 91704,
       "num": 312922,
       "word": "祝绪丹对自己的唱功一无所知",
       "onboard_time": 1732613779,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91446,
+      "num": 276332,
+      "word": "东航客服回应值机大量锁座",
+      "onboard_time": 1732788501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90991,
@@ -12875,12 +12987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86337,
+      "num": 252434,
+      "word": "吃个烤鱼竟然给我送成都了",
+      "onboard_time": 1732784961,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 86237,
       "num": 460079,
       "word": "跨省闪婚乱象调查",
       "onboard_time": 1732425018,
       "rank": 9,
       "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 86068,
+      "num": 86068,
+      "word": "大冰没变 变的是我们",
+      "onboard_time": 1732787599,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 85973,
@@ -15283,6 +15411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40877,
+      "num": 259454,
+      "word": "港乐怎么能不提起张国荣",
+      "onboard_time": 1732782741,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40862,
       "num": 40862,
       "word": "这支温暖预告值得更多人看到",
@@ -15651,6 +15787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35471,
+      "num": 239677,
+      "word": "林一说在北体不会感觉自己很高",
+      "onboard_time": 1732788501,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35465,
       "num": 148892,
       "word": "樊振东副业赛道",
@@ -15705,14 +15849,6 @@
       "onboard_time": 1732641913,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 34492,
-      "num": 252434,
-      "word": "吃个烤鱼竟然给我送成都了",
-      "onboard_time": 1732784961,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 34378,
