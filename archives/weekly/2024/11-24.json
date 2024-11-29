@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732894804674,
+  "endTime": 1732897783028,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1907,6 +1907,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 713891,
+      "num": 305753,
+      "word": "易易紫承认和崔胜铉恋爱过",
+      "onboard_time": 1732896318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713751,
       "num": 454942,
       "word": "女子狗肉店发现拉布拉多众筹买下",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1732676298,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 702408,
+      "num": 702408,
+      "word": "法考",
+      "onboard_time": 1732850899,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 702197,
@@ -4723,6 +4739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333684,
+      "num": 333684,
+      "word": "龚俊不能说糊",
+      "onboard_time": 1732896799,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332556,
       "num": 332556,
       "word": "虞书欣带货力",
@@ -5729,6 +5753,14 @@
       "onboard_time": 1732854922,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270274,
+      "num": 270274,
+      "word": "四川卫视 莎头",
+      "onboard_time": 1732894998,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 270202,
@@ -6803,6 +6835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225675,
+      "num": 225675,
+      "word": "中2.25亿巨奖男子尚未兑奖",
+      "onboard_time": 1732896859,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225462,
       "num": 225462,
       "word": "遇见麦琳前vs遇见麦琳后",
@@ -7497,14 +7537,6 @@
       "onboard_time": 1732523660,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 207381,
-      "num": 207381,
-      "word": "法考",
-      "onboard_time": 1732850899,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 207285,
@@ -8369,6 +8401,14 @@
       "onboard_time": 1732420759,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194383,
+      "num": 151906,
+      "word": "孙颖莎王楚钦奥运后首次搭档",
+      "onboard_time": 1732896799,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 194295,
@@ -9945,6 +9985,14 @@
       "onboard_time": 1732629259,
       "rank": 39,
       "category": "网红,舆论监督"
+    },
+    {
+      "raw_hot": 170616,
+      "num": 170616,
+      "word": "用行动支持新疆棉",
+      "onboard_time": 1732894519,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 170612,
@@ -13403,14 +13451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126701,
-      "num": 126701,
-      "word": "用行动支持新疆棉",
-      "onboard_time": 1732894519,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 126546,
       "num": 126546,
       "word": "A股三大指数强势上攻",
@@ -13675,6 +13715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123816,
+      "num": 156258,
+      "word": "赵一博夜深了发点提神的照片",
+      "onboard_time": 1732894698,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123670,
       "num": 123670,
       "word": "蛇年春晚看九命相柳",
@@ -13913,6 +13961,14 @@
       "onboard_time": 1732414578,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121080,
+      "num": 121080,
+      "word": "初冬美景亦斑斓",
+      "onboard_time": 1732895179,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 120913,
@@ -14499,6 +14555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114950,
+      "num": 146255,
+      "word": "108是法考生的幸运数",
+      "onboard_time": 1732863440,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 114948,
       "num": 469647,
       "word": "科尔",
@@ -14577,6 +14641,14 @@
       "onboard_time": 1732423278,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114194,
+      "num": 250157,
+      "word": "夫妻开地暖一氧化碳中毒",
+      "onboard_time": 1732893380,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114143,
@@ -15297,14 +15369,6 @@
       "onboard_time": 1732612338,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106042,
-      "num": 250157,
-      "word": "夫妻开地暖一氧化碳中毒",
-      "onboard_time": 1732893380,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105944,
@@ -16163,6 +16227,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 89480,
+      "num": 170274,
+      "word": "A股市场迎来大反攻",
+      "onboard_time": 1732894940,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89464,
       "num": 275878,
       "word": "乡镇卫生院因欠药企钱开不出药",
@@ -16681,6 +16753,14 @@
       "onboard_time": 1732562830,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 81749,
+      "num": 81749,
+      "word": "值得坚持的5件事",
+      "onboard_time": 1732896978,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 81628,
@@ -19411,14 +19491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41985,
-      "num": 156258,
-      "word": "赵一博夜深了发点提神的照片",
-      "onboard_time": 1732894698,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41949,
       "num": 41949,
       "word": "他们牺牲时平均年龄仅22岁",
@@ -19715,6 +19787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 38569,
+      "num": 121383,
+      "word": "楠得有空",
+      "onboard_time": 1732896918,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38486,
       "num": 237790,
       "word": "主教练上场",
@@ -19728,6 +19808,14 @@
       "word": "易烊千玺24号过塘",
       "onboard_time": 1732812495,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38396,
+      "num": 137409,
+      "word": "辛云来第一视角骑行赶日落",
+      "onboard_time": 1732897157,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -19803,6 +19891,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 37620,
+      "num": 160967,
+      "word": "GimGoon与Tian和Crisp合照",
+      "onboard_time": 1732891460,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37556,
       "num": 180251,
       "word": "张真源早起的人儿有早起的空气吸",
@@ -19857,6 +19953,14 @@
       "onboard_time": 1732818491,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37095,
+      "num": 122035,
+      "word": "易烊千玺盈塘攀窗",
+      "onboard_time": 1732897039,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 37063,
@@ -21513,14 +21617,6 @@
       "onboard_time": 1732620318,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22049,
-      "num": 146255,
-      "word": "108是法考生的幸运数",
-      "onboard_time": 1732863440,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 22005,
