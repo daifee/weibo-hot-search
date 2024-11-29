@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732884325037,
+  "endTime": 1732885330102,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1244741,
-      "num": 275702,
+      "num": 328159,
       "word": "女孩边充电边玩手机手脚被电肿了",
       "onboard_time": 1732879757,
       "rank": 32,
@@ -121,6 +121,14 @@
       "onboard_time": 1732861280,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1069299,
+      "num": 1069299,
+      "word": "女子取款5000元银行要求丈夫到场",
+      "onboard_time": 1732882878,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1029623,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731509,
+      "num": 731509,
+      "word": "鹿哈给鹿晗刷礼物成为榜一",
+      "onboard_time": 1732882639,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718322,
       "num": 718322,
       "word": "印政府还在用被封杀4年的中国APP",
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 629332,
-      "num": 629332,
-      "word": "鹿哈给鹿晗刷礼物成为榜一",
-      "onboard_time": 1732882639,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 624427,
       "num": 380589,
       "word": "沙一汀麦琳",
@@ -288,6 +296,14 @@
       "word": "巴黎世家售出8天后要顾客补1147元",
       "onboard_time": 1732865898,
       "rank": 3,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 613834,
+      "num": 613834,
+      "word": "平阴县政府卖天30年9.24亿",
+      "onboard_time": 1732883119,
+      "rank": 8,
       "category": "舆论监督"
     },
     {
@@ -331,7 +347,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525322,
+      "raw_hot": 562556,
+      "num": 562556,
+      "word": "我支持新疆棉花",
+      "onboard_time": 1732879818,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 561646,
       "num": 199979,
       "word": "胃病变胃癌前一般有5个症状",
       "onboard_time": 1732883357,
@@ -427,6 +451,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 451004,
+      "num": 451004,
+      "word": "王一珩直播回应恋情",
+      "onboard_time": 1732881858,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450261,
       "num": 368743,
       "word": "Newjeans宣布解约",
@@ -457,14 +489,6 @@
       "onboard_time": 1732867039,
       "rank": 25,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 434636,
-      "num": 378632,
-      "word": "王一珩直播回应恋情",
-      "onboard_time": 1732881858,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 434556,
@@ -512,14 +536,6 @@
       "word": "理记",
       "onboard_time": 1732879098,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 416580,
-      "num": 273525,
-      "word": "女子取款5000元银行要求丈夫到场",
-      "onboard_time": 1732882878,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -603,6 +619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333642,
+      "num": 333642,
+      "word": "虞书欣 谢谢你啊慕声儿",
+      "onboard_time": 1732882278,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329134,
       "num": 199112,
       "word": "鹿晗凌晨直播与粉丝连麦",
@@ -617,6 +641,14 @@
       "onboard_time": 1732856122,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323694,
+      "num": 323694,
+      "word": "汤唯和老公青龙红毯",
+      "onboard_time": 1732883538,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 321325,
@@ -707,14 +739,6 @@
       "category": "美食,网红"
     },
     {
-      "raw_hot": 277209,
-      "num": 277209,
-      "word": "平阴县政府卖天30年9.24亿",
-      "onboard_time": 1732883119,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 275823,
       "num": 275823,
       "word": "孕妇坠崖案当事人谈男子推妻坠海骗保",
@@ -803,20 +827,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253534,
-      "num": 253534,
-      "word": "虞书欣 谢谢你啊慕声儿",
-      "onboard_time": 1732882278,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252428,
       "num": 306838,
       "word": "孙颖莎训练手抡出残影",
       "onboard_time": 1732875679,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251877,
+      "num": 251877,
+      "word": "幼儿园为羊驼办婚礼份子钱30元起步",
+      "onboard_time": 1732880238,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 251577,
@@ -955,6 +979,14 @@
       "category": "民生新闻,舆论监督"
     },
     {
+      "raw_hot": 216802,
+      "num": 216802,
+      "word": "汤唯青龙奖红毯",
+      "onboard_time": 1732883779,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216785,
       "num": 216785,
       "word": "芒果主持 新嘴就是好用",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1732875020,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195917,
-      "num": 195917,
-      "word": "汤唯和老公青龙红毯",
-      "onboard_time": 1732883538,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 195833,
@@ -1251,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181068,
-      "num": 131494,
-      "word": "汤唯青龙奖红毯",
-      "onboard_time": 1732883779,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 180894,
       "num": 180894,
       "word": "NewJeans解约发布会后首现身",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1732852220,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172166,
+      "num": 172166,
+      "word": "孙杨称陪豆豆的时间太少了",
+      "onboard_time": 1732884379,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 171960,
@@ -1507,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159813,
-      "num": 159813,
-      "word": "幼儿园为羊驼办婚礼份子钱30元起步",
-      "onboard_time": 1732880238,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 159748,
       "num": 159748,
       "word": "MRC对战GW",
@@ -1675,6 +1691,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 144498,
+      "num": 328506,
+      "word": "新疆棉花不容优衣库玷污",
+      "onboard_time": 1732883719,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143377,
       "num": 143377,
       "word": "遭前男友囚禁烫伤女生脱离生命危险",
@@ -1747,6 +1771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136434,
+      "num": 136434,
+      "word": "成都混团世界杯中国队阵容",
+      "onboard_time": 1732884259,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136291,
       "num": 136291,
       "word": "张鼎pay姐订婚",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1732861639,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134342,
+      "num": 134342,
+      "word": "笑笑道歉声明",
+      "onboard_time": 1732881619,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 134258,
@@ -1923,14 +1963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126535,
-      "num": 126535,
-      "word": "笑笑道歉声明",
-      "onboard_time": 1732881619,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126527,
       "num": 126527,
       "word": "虞书欣丁禹兮意林少年版",
@@ -2003,6 +2035,14 @@
       "category": "舆论监督,时尚"
     },
     {
+      "raw_hot": 122469,
+      "num": 122469,
+      "word": "因果报应是女性主义复仇爽片吗",
+      "onboard_time": 1732881558,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121881,
       "num": 243280,
       "word": "无限暖暖一起端上来",
@@ -2051,6 +2091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119789,
+      "num": 119789,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732883898,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119384,
       "num": 119384,
       "word": "破地狱定档",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1732869859,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116471,
-      "num": 116471,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732883898,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 115780,
@@ -2145,6 +2185,14 @@
       "onboard_time": 1732799720,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113489,
+      "num": 113489,
+      "word": "城市风华录定档",
+      "onboard_time": 1732885219,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 113221,
@@ -2211,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108714,
+      "num": 108714,
+      "word": "专家谈无性别公厕改造",
+      "onboard_time": 1732884318,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107814,
       "num": 107814,
       "word": "下期轮到杨子blue了",
@@ -2219,26 +2275,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107331,
-      "num": 107331,
-      "word": "成都混团世界杯中国队阵容",
-      "onboard_time": 1732884259,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107292,
-      "num": 107292,
-      "word": "新疆棉花不容优衣库玷污",
-      "onboard_time": 1732883719,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107175,
       "num": 107175,
       "word": "声生不息大湾区季初舞台开播海报",
       "onboard_time": 1732855401,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107016,
+      "num": 107016,
+      "word": "2024尖叫之夜第二波阵容",
+      "onboard_time": 1732885279,
       "rank": 47,
       "category": "综艺"
     },
@@ -2289,6 +2337,14 @@
       "onboard_time": 1732878319,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101801,
+      "num": 101801,
+      "word": "中医标准人体身高一米七二",
+      "onboard_time": 1732884739,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 100631,
@@ -2513,6 +2569,14 @@
       "onboard_time": 1732876519,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77823,
+      "num": 163717,
+      "word": "赵一博结束一天功课",
+      "onboard_time": 1732884919,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 77624,
@@ -2875,6 +2939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55179,
+      "num": 257317,
+      "word": "垃圾从家中堆到过道女子说是收藏",
+      "onboard_time": 1732883538,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54742,
       "num": 335521,
       "word": "共享单车该不该收调度费",
@@ -2961,14 +3033,6 @@
       "onboard_time": 1732806439,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48805,
-      "num": 257317,
-      "word": "垃圾从家中堆到过道女子说是收藏",
-      "onboard_time": 1732883538,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48770,
@@ -3083,6 +3147,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 40630,
+      "num": 163423,
+      "word": "辽宁男篮vs江苏男篮",
+      "onboard_time": 1732885279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40459,
       "num": 198781,
       "word": "A股",
@@ -3193,6 +3265,14 @@
       "onboard_time": 1732865719,
       "rank": 24,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 32995,
+      "num": 179646,
+      "word": "设计者解读央视春晚标识",
+      "onboard_time": 1732884799,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 32688,
@@ -3443,12 +3523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18476,
+      "num": 153730,
+      "word": "无限暖暖开服送126抽",
+      "onboard_time": 1732884739,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 17912,
       "num": 284844,
       "word": "千千阕歌和夕阳之歌合体了",
       "onboard_time": 1732871238,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17589,
+      "num": 766984,
+      "word": "链博会上的环环相链",
+      "onboard_time": 1732884139,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17359,
@@ -3673,14 +3769,6 @@
       "onboard_time": 1732819813,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7085,
-      "num": 621949,
-      "word": "链博会上的环环相链",
-      "onboard_time": 1732884139,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5958,
