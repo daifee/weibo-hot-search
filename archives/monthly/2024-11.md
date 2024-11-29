@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/29 14:33:24
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/29 14:47:11
 </p>
 </blockquote>
 <p>
@@ -4215,6 +4215,12 @@ AG对战狼队（热度：1032088）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%90%8D%E7%94%B7%E5%A5%B3KTV%E8%81%9A%E4%BC%97%E5%90%B8%E6%AF%92%E8%A2%AB%E4%B8%80%E9%94%85%E7%AB%AF%23" target="weibo">
+17名男女KTV聚众吸毒被一锅端（热度：1029623）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%88%AB%E7%96%AF%E6%8A%A2%E5%8C%BB%E7%94%A8%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
 医生建议别疯抢医用卫生巾（热度：1029474）
 </a>
@@ -6005,12 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E6%B5%B7%E9%A9%AC%E4%BD%93%E4%B8%80%E8%AF%95%E8%A1%A3%E9%97%B4%E5%A4%A9%E8%8A%B1%E6%9D%BF%E8%A3%85%E6%9C%89%E7%9B%91%E6%8E%A7%23" target="weibo">
 网曝海马体一试衣间天花板装有监控（热度：839195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E6%AD%A2%E8%BF%99%E7%A7%8DAI%E8%A7%86%E9%A2%91%23" target="weibo">
-停止这种AI视频（热度：838804）
 </a>
 </li>
 

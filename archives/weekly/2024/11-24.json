@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732862004839,
+  "endTime": 1732862831058,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2078842,
-      "num": 668262,
+      "num": 976863,
       "word": "鹿晗回应喝多了",
       "onboard_time": 1732845798,
       "rank": 15,
@@ -817,6 +817,14 @@
       "onboard_time": 1732624399,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1029623,
+      "num": 1029623,
+      "word": "17名男女KTV聚众吸毒被一锅端",
+      "onboard_time": 1732860080,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1027848,
@@ -1899,20 +1907,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 671537,
+      "num": 671537,
+      "word": "胖东来调改永辉超市25天改了啥",
+      "onboard_time": 1732858099,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 669372,
       "num": 598057,
       "word": "梅艳芳 拜拜",
       "onboard_time": 1732802779,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 667968,
-      "num": 667968,
-      "word": "胖东来调改永辉超市25天改了啥",
-      "onboard_time": 1732858099,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 667320,
@@ -3003,14 +3011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 467424,
-      "num": 467424,
-      "word": "17名男女KTV聚众吸毒被一锅端",
-      "onboard_time": 1732860080,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 464273,
       "num": 464273,
       "word": "多国游客疑在老挝喝到假酒去世",
@@ -3657,6 +3657,14 @@
       "onboard_time": 1732765758,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 389750,
+      "num": 389750,
+      "word": "山东一金店被抢损失或超千万",
+      "onboard_time": 1732861280,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 389741,
@@ -4448,6 +4456,14 @@
       "word": "崔杋圭直播哭了",
       "onboard_time": 1732709539,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319637,
+      "num": 319637,
+      "word": "冯绍峰接想想放学回家",
+      "onboard_time": 1732862119,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -5251,6 +5267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268398,
+      "num": 268398,
+      "word": "孙艺珍为2岁儿子庆生",
+      "onboard_time": 1732861520,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267916,
       "num": 230421,
       "word": "刘宇晒与汤唯合照",
@@ -5776,6 +5800,14 @@
       "word": "我是刑警西山矿大劫案",
       "onboard_time": 1732420818,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242467,
+      "num": 242467,
+      "word": "卢昱晓看预告片才知道不是自己声音",
+      "onboard_time": 1732861219,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -6545,6 +6577,14 @@
       "onboard_time": 1732851620,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216625,
+      "num": 216625,
+      "word": "辅警因为一次好奇9年后救了一条命",
+      "onboard_time": 1732859360,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216397,
@@ -7611,14 +7651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194341,
-      "num": 194341,
-      "word": "卢昱晓看预告片才知道不是自己声音",
-      "onboard_time": 1732861219,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194001,
       "num": 239477,
       "word": "虞书欣凌妙妙单人周边破820万",
@@ -8211,14 +8243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185707,
-      "num": 185707,
-      "word": "辅警因为一次好奇9年后救了一条命",
-      "onboard_time": 1732859360,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "魏晨音乐节现场",
@@ -8425,14 +8449,6 @@
       "onboard_time": 1732438459,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 182121,
-      "num": 182121,
-      "word": "山东一金店被抢损失或超千万",
-      "onboard_time": 1732861280,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 182055,
@@ -8785,6 +8801,14 @@
       "onboard_time": 1732674919,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175683,
+      "num": 191421,
+      "word": "金泰亨单曲空降",
+      "onboard_time": 1732861700,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 175211,
@@ -9667,6 +9691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161687,
+      "num": 281166,
+      "word": "一半的胃癌与幽门螺杆菌有关",
+      "onboard_time": 1732856660,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161408,
       "num": 161408,
       "word": "时代少年团收官曲",
@@ -9867,14 +9899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158271,
-      "num": 158271,
-      "word": "孙艺珍为2岁儿子庆生",
-      "onboard_time": 1732861520,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157950,
       "num": 157950,
       "word": "于适 去路边整桶泡面",
@@ -10041,14 +10065,6 @@
       "onboard_time": 1732521799,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155361,
-      "num": 281166,
-      "word": "一半的胃癌与幽门螺杆菌有关",
-      "onboard_time": 1732856660,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155206,
@@ -10771,6 +10787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 145505,
+      "num": 145505,
+      "word": "冲锋衣成顶流是靠什么征服年轻人",
+      "onboard_time": 1732861880,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145469,
       "num": 218425,
       "word": "前体操运动员回应热舞争议",
@@ -11033,6 +11057,14 @@
       "onboard_time": 1732627578,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140947,
+      "num": 337099,
+      "word": "央财教授称股民套牢是好事",
+      "onboard_time": 1732861580,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 140817,
@@ -11723,12 +11755,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131565,
-      "num": 131565,
-      "word": "金泰亨单曲空降",
-      "onboard_time": 1732861700,
-      "rank": 39,
-      "category": "音乐"
+      "raw_hot": 131556,
+      "num": 131556,
+      "word": "闪耀的恒星含糖量百分百",
+      "onboard_time": 1732862359,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 131517,
@@ -11769,6 +11801,14 @@
       "onboard_time": 1732773319,
       "rank": 41,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 130916,
+      "num": 130916,
+      "word": "田嘉瑞新剧民国版杀手不太冷",
+      "onboard_time": 1732861639,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 130854,
@@ -11939,6 +11979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128420,
+      "num": 335250,
+      "word": "羽绒行业人士谈生产内幕",
+      "onboard_time": 1732862600,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128284,
       "num": 286066,
       "word": "王楚钦王曼昱冠军城市宣传照",
@@ -12033,22 +12081,6 @@
       "onboard_time": 1732774820,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127330,
-      "num": 127330,
-      "word": "田嘉瑞新剧民国版杀手不太冷",
-      "onboard_time": 1732861639,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127307,
-      "num": 127307,
-      "word": "央财教授称股民套牢是好事",
-      "onboard_time": 1732861580,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 127285,
@@ -12379,6 +12411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123541,
+      "num": 123541,
+      "word": "黄雅琼回应郑思维退出国际赛场",
+      "onboard_time": 1732862539,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123506,
       "num": 269263,
       "word": "鹤岗暴雪27人被困深山民警徒步救出",
@@ -12427,6 +12467,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122946,
+      "num": 122946,
+      "word": "这样的新疆棉花我支持",
+      "onboard_time": 1732859299,
+      "rank": 44,
+      "category": "舆论监督,时尚"
+    },
+    {
       "raw_hot": 122898,
       "num": 140428,
       "word": "人贩子王浩文判死刑了",
@@ -12473,14 +12521,6 @@
       "onboard_time": 1732435401,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122669,
-      "num": 122669,
-      "word": "这样的新疆棉花我支持",
-      "onboard_time": 1732859299,
-      "rank": 44,
-      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 122545,
@@ -12587,6 +12627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120830,
+      "num": 120830,
+      "word": "筷子用不好可能会成为伤胃刺客",
+      "onboard_time": 1732861639,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120776,
       "num": 204599,
       "word": "imp谈Doinb与Letme队风波",
@@ -12633,6 +12681,14 @@
       "onboard_time": 1732448059,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120340,
+      "num": 120340,
+      "word": "陈少熙预言家",
+      "onboard_time": 1732862780,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 120196,
@@ -12899,6 +12955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117265,
+      "num": 317785,
+      "word": "婚内婚外老婆情人饭局修罗场",
+      "onboard_time": 1732861939,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117019,
       "num": 117019,
       "word": "王楚钦1比0张本智和",
@@ -13049,14 +13113,6 @@
       "onboard_time": 1732419978,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 115666,
-      "num": 115666,
-      "word": "冲锋衣成顶流是靠什么征服年轻人",
-      "onboard_time": 1732861880,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115537,
@@ -15227,6 +15283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 80179,
+      "num": 460804,
+      "word": "影院观影过程中屏摄违法吗",
+      "onboard_time": 1732860558,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 80058,
       "num": 80058,
       "word": "掘金25分大胜湖人",
@@ -15393,6 +15457,14 @@
       "onboard_time": 1732378638,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77624,
+      "num": 316342,
+      "word": "Puff和Langx和解",
+      "onboard_time": 1732862359,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 77233,
@@ -15689,14 +15761,6 @@
       "onboard_time": 1732782799,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72116,
-      "num": 460804,
-      "word": "影院观影过程中屏摄违法吗",
-      "onboard_time": 1732860558,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 71264,
@@ -16147,6 +16211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 61899,
+      "num": 180904,
+      "word": "世界羽联发文祝福郑思维",
+      "onboard_time": 1732861339,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61828,
       "num": 83324,
       "word": "羽绒棉羽丝棉羽丝绒都不是真羽绒",
@@ -16419,14 +16491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58017,
-      "num": 180904,
-      "word": "世界羽联发文祝福郑思维",
-      "onboard_time": 1732861339,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57989,
       "num": 251786,
       "word": "潘展乐跳新疆舞",
@@ -16489,6 +16553,14 @@
       "onboard_time": 1732766958,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57641,
+      "num": 192806,
+      "word": "唐嫣粉发未来造型",
+      "onboard_time": 1732862300,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 57274,
@@ -16649,14 +16721,6 @@
       "onboard_time": 1732754659,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 54690,
-      "num": 170997,
-      "word": "婚内婚外老婆情人饭局修罗场",
-      "onboard_time": 1732861939,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 54684,
@@ -16849,6 +16913,14 @@
       "onboard_time": 1732597279,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 51188,
+      "num": 135674,
+      "word": "苏新皓我记得那天阳光很好",
+      "onboard_time": 1732862058,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 51033,
@@ -17947,6 +18019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37653,
+      "num": 366313,
+      "word": "官方通报学校食堂吃出青虫蜗牛",
+      "onboard_time": 1732862419,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 37556,
       "num": 180251,
       "word": "张真源早起的人儿有早起的空气吸",
@@ -18451,6 +18531,14 @@
       "category": "体育,数码"
     },
     {
+      "raw_hot": 32137,
+      "num": 222525,
+      "word": "中国奥委会祝郑思维一切顺利",
+      "onboard_time": 1732862600,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32003,
       "num": 273917,
       "word": "两船在日本附近海域相撞",
@@ -18465,6 +18553,14 @@
       "onboard_time": 1732490116,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31771,
+      "num": 316159,
+      "word": "国乒备战2024成都混团世界杯",
+      "onboard_time": 1732862239,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 31728,
