@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732916195899,
+  "endTime": 1732918947441,
   "band_list": [
     {
       "raw_hot": 1236585,
@@ -444,11 +444,27 @@
     },
     {
       "raw_hot": 54115,
-      "num": 54115,
+      "num": 55325,
       "word": "郑雨盛因私生子在青龙电影节上道歉",
       "onboard_time": 1732888520,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53819,
+      "num": 53819,
+      "word": "85岁大爷全网找的大学生们到齐了",
+      "onboard_time": 1732911490,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 52249,
+      "num": 52249,
+      "word": "幼儿园回应办羊驼婚礼收份子钱",
+      "onboard_time": 1732914130,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 50818,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 42869,
-      "num": 35960,
+      "num": 45853,
       "word": "留几手 原则性大事",
       "onboard_time": 1732911311,
       "rank": 16,
@@ -523,16 +539,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35394,
-      "num": 39821,
-      "word": "85岁大爷全网找的大学生们到齐了",
-      "onboard_time": 1732911490,
-      "rank": 18,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 32149,
-      "num": 32149,
+      "raw_hot": 32630,
+      "num": 32630,
       "word": "解救女孩司机获永久免除挂靠管理费",
       "onboard_time": 1732887380,
       "rank": 40,
@@ -571,20 +579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24179,
+      "num": 37681,
+      "word": "上海连缴1年社保或个税可拍车牌",
+      "onboard_time": 1732914191,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23213,
       "num": 116909,
       "word": "弗格42分",
       "onboard_time": 1732898417,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22138,
-      "num": 22138,
-      "word": "幼儿园回应办羊驼婚礼收份子钱",
-      "onboard_time": 1732914130,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 21168,
@@ -595,20 +603,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21097,
+      "num": 47416,
+      "word": "普京否认曾带爱犬吓唬默克尔",
+      "onboard_time": 1732908192,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21043,
+      "num": 21043,
+      "word": "新疆棉花机采现场有多壮观",
+      "onboard_time": 1732916350,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19907,
       "num": 36382,
       "word": "路上车辆排队等烈士遗骸先行",
       "onboard_time": 1732913470,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 18859,
-      "num": 47416,
-      "word": "普京否认曾带爱犬吓唬默克尔",
-      "onboard_time": 1732908192,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17886,
@@ -643,20 +659,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15889,
+      "num": 54944,
+      "word": "上海将修订沪牌拍卖规定",
+      "onboard_time": 1732917851,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15549,
       "num": 116079,
       "word": "无限大",
       "onboard_time": 1732898716,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14755,
-      "num": 37681,
-      "word": "上海连缴1年社保或个税可拍车牌",
-      "onboard_time": 1732914191,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14066,
@@ -667,8 +683,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11421,
-      "num": 17142,
+      "raw_hot": 12883,
+      "num": 24355,
       "word": "43名志愿军烈士长眠祖国大地",
       "onboard_time": 1732911430,
       "rank": 43,
@@ -707,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6841,
+      "num": 30964,
+      "word": "许凯新自拍",
+      "onboard_time": 1732917612,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6580,
       "num": 23527,
       "word": "龚俊生日漫游旅行家",
@@ -720,6 +744,14 @@
       "word": "大辉狼许凯",
       "onboard_time": 1732914611,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5277,
+      "num": 43911,
+      "word": "小范日记本也可能是周记本",
+      "onboard_time": 1732918813,
+      "rank": 19,
       "category": "艺人"
     }
   ],
