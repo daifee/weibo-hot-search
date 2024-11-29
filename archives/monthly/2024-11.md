@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/29 23:25:32
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/29 23:40:04
 </p>
 </blockquote>
 <p>
@@ -3321,6 +3321,12 @@ Zeus离队（热度：1224601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8C%BB%E7%94%9F%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%E8%82%87%E4%BA%8B%E8%80%85%E5%BC%80%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA%23" target="weibo">
+一医生因车祸去世肇事者开车看手机（热度：1185036）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E6%89%8D%E6%98%AF%E6%9C%80%E5%88%92%E7%AE%97%E7%9A%84%23" target="weibo">
 原来双11最后一天才是最划算的（热度：1184250）
 </a>
@@ -6005,12 +6011,6 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A0%B4%E9%9F%B3%E5%94%B1%E5%8A%9F%E5%86%8D%E9%81%AD%E8%B4%A8%E7%96%91%23" target="weibo">
 阿信演唱会破音唱功再遭质疑（热度：846847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%91%E6%96%87%E4%B8%BA%E7%8E%8B%E6%BA%90%E5%BA%86%E7%94%9F%23" target="weibo">
-王俊凯发文为王源庆生（热度：846798）
 </a>
 </li>
 

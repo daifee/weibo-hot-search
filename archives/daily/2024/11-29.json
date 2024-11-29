@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732893932453,
+  "endTime": 1732894804674,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -113,6 +113,14 @@
       "onboard_time": 1732873159,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1185036,
+      "num": 1185036,
+      "word": "一医生因车祸去世肇事者开车看手机",
+      "onboard_time": 1732892421,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1155362,
@@ -451,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 499955,
-      "num": 499955,
-      "word": "一医生因车祸去世肇事者开车看手机",
-      "onboard_time": 1732892421,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 493555,
       "num": 294118,
       "word": "马云现身阿里巴巴园区",
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 373024,
-      "num": 235379,
+      "num": 253250,
       "word": "鹿晗晒爱心纹身",
       "onboard_time": 1732883479,
       "rank": 22,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250911,
+      "num": 306555,
+      "word": "幼师为追星诈骗家长16万获刑四年",
+      "onboard_time": 1732888879,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250154,
       "num": 291718,
       "word": "句句不提琳句句都是琳",
@@ -1187,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207381,
+      "num": 207381,
+      "word": "法考",
+      "onboard_time": 1732850899,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207285,
       "num": 207285,
       "word": "TES官宣crisp加入",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1732873879,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198400,
-      "num": 306555,
-      "word": "幼师为追星诈骗家长16万获刑四年",
-      "onboard_time": 1732888879,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196770,
@@ -1611,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170268,
-      "num": 170268,
-      "word": "法考",
-      "onboard_time": 1732850899,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 170245,
       "num": 170245,
       "word": "声生不息等了卫兰三年",
@@ -1697,6 +1697,14 @@
       "onboard_time": 1732840938,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163769,
+      "num": 332860,
+      "word": "年轻人做保洁月入超8000元",
+      "onboard_time": 1732890921,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163348,
@@ -1795,6 +1803,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156085,
+      "num": 156085,
+      "word": "汤唯获青龙奖人气奖",
+      "onboard_time": 1732893919,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 156076,
+      "num": 156076,
+      "word": "丁程鑫无死角保护黄景瑜",
+      "onboard_time": 1732893559,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155857,
       "num": 155857,
       "word": "林一霸王茶姬活动",
@@ -1875,14 +1899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149020,
-      "num": 149020,
-      "word": "丁程鑫无死角保护黄景瑜",
-      "onboard_time": 1732893559,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148956,
       "num": 163426,
       "word": "黑神话悟空现身吉林雪场",
@@ -1937,14 +1953,6 @@
       "onboard_time": 1732892900,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147124,
-      "num": 332860,
-      "word": "年轻人做保洁月入超8000元",
-      "onboard_time": 1732890921,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145912,
@@ -2147,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132131,
+      "num": 132131,
+      "word": "好东西",
+      "onboard_time": 1732893980,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131556,
       "num": 131556,
       "word": "闪耀的恒星含糖量百分百",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1732891940,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126701,
+      "num": 126701,
+      "word": "用行动支持新疆棉",
+      "onboard_time": 1732894519,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 126527,
@@ -2395,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120431,
+      "num": 120431,
+      "word": "韩国90后女演员实绩",
+      "onboard_time": 1732894339,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120369,
       "num": 120369,
       "word": "志愿军赴长津湖高清影像",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1732888099,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119424,
+      "num": 165110,
+      "word": "丁禹兮五大",
+      "onboard_time": 1732893681,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 119384,
@@ -2715,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97871,
+      "num": 273732,
+      "word": "iG经理",
+      "onboard_time": 1732892180,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96966,
       "num": 96966,
       "word": "国漫日漫人气大洗牌",
@@ -2753,14 +2801,6 @@
       "onboard_time": 1732796419,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94498,
-      "num": 165110,
-      "word": "丁禹兮五大",
-      "onboard_time": 1732893681,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 91424,
@@ -2945,6 +2985,14 @@
       "onboard_time": 1732862359,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77533,
+      "num": 511124,
+      "word": "质问不修宿舍学生已返校复课",
+      "onboard_time": 1732893618,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77500,
@@ -3160,14 +3208,6 @@
       "word": "丈夫住院取2.5万元被银行电话核实",
       "onboard_time": 1732790179,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65968,
-      "num": 336739,
-      "word": "质问不修宿舍学生已返校复课",
-      "onboard_time": 1732893618,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3411,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51046,
+      "num": 321462,
+      "word": "石明鑫reaction",
+      "onboard_time": 1732892719,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51033,
       "num": 49677,
       "word": "斯瓦泰克已接受一个月禁赛",
@@ -3571,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41985,
+      "num": 156258,
+      "word": "赵一博夜深了发点提神的照片",
+      "onboard_time": 1732894698,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41037,
       "num": 42482,
       "word": "中国最大沙漠锁边完成",
@@ -3667,6 +3723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36726,
+      "num": 326831,
+      "word": "鸿星尔克新疆建厂种棉田",
+      "onboard_time": 1732892121,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36122,
+      "num": 341336,
+      "word": "上海连缴1年社保或个税可参与拍牌",
+      "onboard_time": 1732893559,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35601,
       "num": 244226,
       "word": "当代网文到底多火",
@@ -3679,14 +3751,6 @@
       "num": 249362,
       "word": "打进UFC的女中医石铭",
       "onboard_time": 1732856781,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34286,
-      "num": 341336,
-      "word": "上海连缴1年社保或个税可参与拍牌",
-      "onboard_time": 1732893559,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -3769,14 +3833,6 @@
       "onboard_time": 1732862239,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31378,
-      "num": 326831,
-      "word": "鸿星尔克新疆建厂种棉田",
-      "onboard_time": 1732892121,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30955,
@@ -4011,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17873,
+      "num": 303570,
+      "word": "巳巳如意春晚壁纸",
+      "onboard_time": 1732893799,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17381,
       "num": 237906,
       "word": "好东西展现女性叙事下的多重议题",
@@ -4177,14 +4241,6 @@
       "onboard_time": 1732849458,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 12241,
-      "num": 271633,
-      "word": "巳巳如意春晚壁纸",
-      "onboard_time": 1732893799,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 11899,
