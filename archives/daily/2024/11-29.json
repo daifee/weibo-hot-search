@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732890144076,
+  "endTime": 1732891301099,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1860476,
-      "num": 1860476,
+      "raw_hot": 2032167,
+      "num": 2032167,
       "word": "湖南台员工为麦琳发声",
       "onboard_time": 1732888039,
       "rank": 0,
@@ -48,6 +48,14 @@
       "word": "郑思维官宣退出国际赛场",
       "onboard_time": 1732851741,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1536729,
+      "num": 1536729,
+      "word": "莎头",
+      "onboard_time": 1732889420,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -99,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1128660,
-      "num": 1128660,
+      "raw_hot": 1155362,
+      "num": 1155362,
       "word": "周芯竹回复粉丝",
       "onboard_time": 1732885578,
       "rank": 10,
@@ -163,7 +171,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 980495,
+      "raw_hot": 985153,
       "num": 489722,
       "word": "浙江知名45岁胸外科主任因车祸去世",
       "onboard_time": 1732887261,
@@ -177,6 +185,14 @@
       "onboard_time": 1732851140,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951943,
+      "num": 656198,
+      "word": "金高银获青龙影后",
+      "onboard_time": 1732889120,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 946261,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651161,
+      "num": 315391,
+      "word": "周密 周芯竹",
+      "onboard_time": 1732875379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624427,
       "num": 380589,
       "word": "沙一汀麦琳",
@@ -353,22 +377,6 @@
       "onboard_time": 1732866798,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 602650,
-      "num": 300787,
-      "word": "周密 周芯竹",
-      "onboard_time": 1732875379,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 592851,
-      "num": 559857,
-      "word": "金高银获青龙影后",
-      "onboard_time": 1732889120,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 580918,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 567707,
-      "num": 295926,
+      "num": 312494,
       "word": "胃病变胃癌前一般有5个症状",
       "onboard_time": 1732883357,
       "rank": 30,
@@ -619,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 392723,
+      "num": 392723,
+      "word": "郑雨盛因私生子在青龙电影节上道歉",
+      "onboard_time": 1732888520,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 389126,
       "num": 376798,
       "word": "周密把周芯竹买话筒的钱转给她了",
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326325,
+      "num": 330966,
+      "word": "中国女游客在马尔代夫潜水遭鲨鱼咬头",
+      "onboard_time": 1732889179,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323694,
       "num": 323694,
       "word": "汤唯和老公青龙红毯",
@@ -715,6 +739,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 322427,
+      "num": 322427,
+      "word": "深圳男子花80元买彩票中2.25亿",
+      "onboard_time": 1732887980,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321325,
       "num": 279223,
       "word": "林志玲晒亲子照",
@@ -729,14 +761,6 @@
       "onboard_time": 1732864699,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320579,
-      "num": 320579,
-      "word": "深圳男子花80元买彩票中2.25亿",
-      "onboard_time": 1732887980,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316672,
@@ -793,14 +817,6 @@
       "onboard_time": 1732851140,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285512,
-      "num": 285512,
-      "word": "郑雨盛因私生子在青龙电影节上道歉",
-      "onboard_time": 1732888520,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 281375,
@@ -883,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264997,
-      "num": 264997,
-      "word": "莎头",
-      "onboard_time": 1732889420,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264883,
       "num": 264883,
       "word": "年轻人买的水果半数是情感商品",
@@ -963,6 +971,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248061,
+      "num": 248061,
+      "word": "白敬亭直播",
+      "onboard_time": 1732889120,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242905,
+      "num": 242905,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732883898,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242809,
       "num": 242809,
       "word": "访台清华女生被台媒赞神仙妹妹",
@@ -976,14 +1000,6 @@
       "word": "卢昱晓看预告片才知道不是自己声音",
       "onboard_time": 1732861219,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 241732,
-      "num": 241732,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732883898,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1009,6 +1025,14 @@
       "onboard_time": 1732845498,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234029,
+      "num": 234029,
+      "word": "A股突然猛拉",
+      "onboard_time": 1732889660,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 230641,
@@ -1123,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210895,
-      "num": 330966,
-      "word": "中国女游客在马尔代夫潜水遭鲨鱼咬头",
-      "onboard_time": 1732889179,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209278,
       "num": 209278,
       "word": "东北女生在南方被冻到怀疑人生",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1732889060,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203262,
+      "num": 321504,
+      "word": "林一为活动取消道歉",
+      "onboard_time": 1732890440,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 201597,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1732879279,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194227,
-      "num": 237873,
-      "word": "白敬亭直播",
-      "onboard_time": 1732889120,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 193994,
@@ -1355,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188238,
+      "num": 492450,
+      "word": "内娱中女终于上桌了",
+      "onboard_time": 1732888700,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 186766,
       "num": 186766,
       "word": "刘浩存这段像在逗女朋友",
@@ -1372,7 +1396,7 @@
     },
     {
       "raw_hot": 185617,
-      "num": 185617,
+      "num": 312986,
       "word": "新疆棉花机械化采收率提升至85%以上",
       "onboard_time": 1732888160,
       "rank": 37,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1732860380,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 183395,
+      "num": 183395,
+      "word": "解救女孩司机获永久免除挂靠管理费",
+      "onboard_time": 1732887380,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183118,
@@ -1524,7 +1556,7 @@
     },
     {
       "raw_hot": 171076,
-      "num": 171076,
+      "num": 310386,
       "word": "Doinb金贡海底捞局",
       "onboard_time": 1732886420,
       "rank": 31,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1732873940,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170138,
-      "num": 170138,
-      "word": "解救女孩司机获永久免除挂靠管理费",
-      "onboard_time": 1732887380,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170043,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1732880718,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157608,
-      "num": 157608,
-      "word": "A股突然猛拉",
-      "onboard_time": 1732889660,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 155857,
@@ -1963,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136681,
+      "num": 136681,
+      "word": "邢菲盘发抹胸黑裙",
+      "onboard_time": 1732890860,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136528,
       "num": 136528,
       "word": "kid说Ning进不去线下赛",
@@ -2107,12 +2131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129725,
-      "num": 492450,
-      "word": "内娱中女终于上桌了",
-      "onboard_time": 1732888700,
-      "rank": 9,
-      "category": "议题讨论"
+      "raw_hot": 130052,
+      "num": 307974,
+      "word": "医院回应45岁胸外科主任车祸逝世",
+      "onboard_time": 1732890860,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129368,
@@ -2467,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110766,
+      "num": 310331,
+      "word": "前女友分手后生子12年后女儿起诉男方",
+      "onboard_time": 1732889420,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109652,
       "num": 109652,
       "word": "顾客称胖东来羽绒服已卖断货",
@@ -2579,14 +2611,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 99199,
-      "num": 310331,
-      "word": "前女友分手后生子12年后女儿起诉男方",
-      "onboard_time": 1732889420,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99178,
       "num": 99178,
       "word": "台湾球迷说马龙就是GOAT",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1732842138,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85879,
+      "num": 318185,
+      "word": "全场为郑雨盛鼓掌",
+      "onboard_time": 1732890320,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 85697,
@@ -2779,6 +2811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78474,
+      "num": 169272,
+      "word": "赵继伟复出",
+      "onboard_time": 1732890381,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78205,
       "num": 78205,
       "word": "马龙粉丝激动大喊我妈说你好帅",
@@ -2873,6 +2913,14 @@
       "onboard_time": 1732799359,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73072,
+      "num": 316053,
+      "word": "重庆养殖场偷排粪便水污染村民水源",
+      "onboard_time": 1732891279,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72815,
@@ -3179,6 +3227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56232,
+      "num": 319914,
+      "word": "年轻人做保洁月入超8000元",
+      "onboard_time": 1732890921,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56088,
       "num": 56088,
       "word": "哈尔滨冰雪大世界冰滑梯动工",
@@ -3291,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49394,
+      "num": 226746,
+      "word": "不知道该往哪走就往前走",
+      "onboard_time": 1732891221,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48770,
       "num": 240338,
       "word": "胡成背后女人四折叠",
@@ -3361,6 +3425,14 @@
       "onboard_time": 1732842138,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43550,
+      "num": 148274,
+      "word": "孤星计划春节档后最快预售破千万电影",
+      "onboard_time": 1732890141,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 43457,
@@ -3531,6 +3603,14 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 33261,
+      "num": 322966,
+      "word": "93岁老兵长途跋涉送战友最后一程",
+      "onboard_time": 1732891040,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 32995,
       "num": 179646,
       "word": "设计者解读央视春晚标识",
@@ -3652,11 +3732,19 @@
     },
     {
       "raw_hot": 26735,
-      "num": 1131935,
+      "num": 1244565,
       "word": "链博会上的环环相链",
       "onboard_time": 1732884139,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26040,
+      "num": 245634,
+      "word": "五问超声诊断设备销售乱象",
+      "onboard_time": 1732890381,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25922,

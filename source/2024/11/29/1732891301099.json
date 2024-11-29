@@ -1,0 +1,410 @@
+{
+  "runTime": 1732891301099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2032167,
+        "num": 2032167,
+        "word": "湖南台员工为麦琳发声",
+        "onboard_time": 1732888039,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1536729,
+        "num": 1536729,
+        "word": "莎头",
+        "onboard_time": 1732889420,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21001,
+        "num": 1244565,
+        "word": "链博会上的环环相链",
+        "onboard_time": 1732884139,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1155362,
+        "num": 1155362,
+        "word": "周芯竹回复粉丝",
+        "onboard_time": 1732885578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1068737,
+        "num": 1068737,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 4,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 667906,
+        "num": 667906,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 951943,
+        "num": 656198,
+        "word": "金高银获青龙影后",
+        "onboard_time": 1732889120,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473970,
+        "num": 473970,
+        "word": "鹿哈给鹿晗刷礼物成为榜一",
+        "onboard_time": 1732882639,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454322,
+        "num": 454322,
+        "word": "新疆棉花不容优衣库玷污",
+        "onboard_time": 1732883719,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404707,
+        "num": 404707,
+        "word": "女子取款5000元银行要求丈夫到场",
+        "onboard_time": 1732882878,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 985153,
+        "num": 402239,
+        "word": "浙江知名45岁胸外科主任因车祸去世",
+        "onboard_time": 1732887261,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392723,
+        "num": 392723,
+        "word": "郑雨盛因私生子在青龙电影节上道歉",
+        "onboard_time": 1732888520,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386091,
+        "num": 386091,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326325,
+        "num": 326325,
+        "word": "中国女游客在马尔代夫潜水遭鲨鱼咬头",
+        "onboard_time": 1732889179,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33261,
+        "num": 322966,
+        "word": "93岁老兵长途跋涉送战友最后一程",
+        "onboard_time": 1732891040,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 322427,
+        "num": 322427,
+        "word": "深圳男子花80元买彩票中2.25亿",
+        "onboard_time": 1732887980,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203262,
+        "num": 321504,
+        "word": "林一为活动取消道歉",
+        "onboard_time": 1732890440,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56232,
+        "num": 319914,
+        "word": "年轻人做保洁月入超8000元",
+        "onboard_time": 1732890921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85879,
+        "num": 318185,
+        "word": "全场为郑雨盛鼓掌",
+        "onboard_time": 1732890320,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73072,
+        "num": 316053,
+        "word": "重庆养殖场偷排粪便水污染村民水源",
+        "onboard_time": 1732891279,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 651161,
+        "num": 315391,
+        "word": "周密 周芯竹",
+        "onboard_time": 1732875379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169455,
+        "num": 312986,
+        "word": "新疆棉花机械化采收率提升至85%以上",
+        "onboard_time": 1732888160,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446969,
+        "num": 312494,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1732883357,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96602,
+        "num": 310386,
+        "word": "Doinb金贡海底捞局",
+        "onboard_time": 1732886420,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130052,
+        "num": 307974,
+        "word": "医院回应45岁胸外科主任车祸逝世",
+        "onboard_time": 1732890860,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307646,
+        "num": 307646,
+        "word": "成都混团世界杯中国队阵容",
+        "onboard_time": 1732884259,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248061,
+        "num": 248061,
+        "word": "白敬亭直播",
+        "onboard_time": 1732889120,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401256,
+        "num": 247585,
+        "word": "安以轩得知老公被判13年后很伤心",
+        "onboard_time": 1732874000,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26040,
+        "num": 245634,
+        "word": "五问超声诊断设备销售乱象",
+        "onboard_time": 1732890381,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 110766,
+        "num": 244780,
+        "word": "前女友分手后生子12年后女儿起诉男方",
+        "onboard_time": 1732889420,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295071,
+        "num": 243829,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242905,
+        "num": 242905,
+        "word": "现在拨打的电话",
+        "onboard_time": 1732883898,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234029,
+        "num": 234029,
+        "word": "A股突然猛拉",
+        "onboard_time": 1732889660,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49394,
+        "num": 226746,
+        "word": "不知道该往哪走就往前走",
+        "onboard_time": 1732891221,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224966,
+        "num": 224966,
+        "word": "一男子疑因吃驴打滚窒息身亡",
+        "onboard_time": 1732887319,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201266,
+        "num": 201266,
+        "word": "虞书欣 谢谢你啊慕声儿",
+        "onboard_time": 1732882278,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196813,
+        "num": 196813,
+        "word": "孙杨称陪豆豆的时间太少了",
+        "onboard_time": 1732884379,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191266,
+        "num": 191266,
+        "word": "鹿晗高瀚宇逛街被偶遇",
+        "onboard_time": 1732874779,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188238,
+        "num": 188238,
+        "word": "内娱中女终于上桌了",
+        "onboard_time": 1732888700,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 183395,
+        "num": 183395,
+        "word": "解救女孩司机获永久免除挂靠管理费",
+        "onboard_time": 1732887380,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179496,
+        "num": 179496,
+        "word": "女孩边充电边玩手机手脚被电肿了",
+        "onboard_time": 1732879757,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78474,
+        "num": 169272,
+        "word": "赵继伟复出",
+        "onboard_time": 1732890381,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166259,
+        "num": 166259,
+        "word": "王一珩直播回应恋情",
+        "onboard_time": 1732881858,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164261,
+        "num": 164261,
+        "word": "朴成训回应",
+        "onboard_time": 1732888700,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43550,
+        "num": 148274,
+        "word": "孤星计划春节档后最快预售破千万电影",
+        "onboard_time": 1732890141,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141705,
+        "num": 141705,
+        "word": "汤唯和老公青龙红毯",
+        "onboard_time": 1732883538,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136968,
+        "num": 136968,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136681,
+        "num": 136681,
+        "word": "邢菲盘发抹胸黑裙",
+        "onboard_time": 1732890860,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133062,
+        "num": 133062,
+        "word": "丁禹兮请客请到隔壁剧组",
+        "onboard_time": 1732886719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132618,
+        "num": 132618,
+        "word": "马英九与马龙打乒乓球",
+        "onboard_time": 1732886420,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建中国哲学社会科学自主知识体系#"
+    }
+  }
+}
