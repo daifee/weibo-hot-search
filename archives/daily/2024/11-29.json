@@ -1,22 +1,38 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732844967439,
+  "endTime": 1732846314147,
   "band_list": [
     {
       "raw_hot": 3077197,
-      "num": 211012,
+      "num": 281599,
       "word": "鹿晗 反正李秀满已经走了",
       "onboard_time": 1732842138,
       "rank": 10,
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 1540356,
-      "num": 209706,
+      "raw_hot": 2078842,
+      "num": 268023,
+      "word": "鹿晗回应喝多了",
+      "onboard_time": 1732845798,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1759136,
+      "num": 1759136,
       "word": "优衣库",
       "onboard_time": 1732842079,
       "rank": 11,
       "category": "舆论监督,时尚"
+    },
+    {
+      "raw_hot": 1123960,
+      "num": 1175443,
+      "word": "老师向家长借60多万买房还钱困难",
+      "onboard_time": 1732841659,
+      "rank": 0,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1115234,
@@ -27,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1096521,
-      "num": 1175443,
-      "word": "老师向家长借60多万买房还钱困难",
-      "onboard_time": 1732841659,
-      "rank": 0,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 946261,
       "num": 220843,
       "word": "鹿晗直播",
@@ -43,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 710872,
-      "num": 206984,
+      "raw_hot": 809099,
+      "num": 277637,
       "word": "杨子翻脸",
       "onboard_time": 1732841659,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 715144,
+      "num": 274430,
+      "word": "付鹏炮轰汇丰银行",
+      "onboard_time": 1732845498,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 624427,
@@ -139,8 +155,8 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 291011,
-      "num": 291011,
+      "raw_hot": 304248,
+      "num": 304248,
       "word": "冬天身上痒1天洗2次澡反患湿疹",
       "onboard_time": 1732824550,
       "rank": 1,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 271559,
-      "num": 271559,
+      "num": 291610,
       "word": "再见爱人节目组发声明",
       "onboard_time": 1732812135,
       "rank": 42,
@@ -172,11 +188,35 @@
     },
     {
       "raw_hot": 270943,
-      "num": 169729,
+      "num": 253657,
       "word": "突然发现国内夫妻很少见戴婚戒",
       "onboard_time": 1732801879,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270165,
+      "num": 270165,
+      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
+      "onboard_time": 1732845498,
+      "rank": 13,
+      "category": "美食,网红"
+    },
+    {
+      "raw_hot": 264133,
+      "num": 264133,
+      "word": "小米su7外借却被拍色情片",
+      "onboard_time": 1732842498,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250154,
+      "num": 291718,
+      "word": "句句不提琳句句都是琳",
+      "onboard_time": 1732842378,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 225725,
@@ -188,7 +228,7 @@
     },
     {
       "raw_hot": 223556,
-      "num": 223556,
+      "num": 264500,
       "word": "傅首尔说能get到麦琳的点",
       "onboard_time": 1732815013,
       "rank": 9,
@@ -203,27 +243,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213839,
-      "num": 213839,
-      "word": "句句不提琳句句都是琳",
-      "onboard_time": 1732842378,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209278,
       "num": 209278,
       "word": "东北女生在南方被冻到怀疑人生",
       "onboard_time": 1732803320,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205881,
-      "num": 205881,
-      "word": "小米su7外借却被拍色情片",
-      "onboard_time": 1732842498,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -243,6 +267,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 191175,
+      "num": 265810,
+      "word": "李行亮叫麦琳心肝肝",
+      "onboard_time": 1732844298,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188284,
       "num": 188284,
       "word": "NewJeansneverdies",
@@ -259,8 +291,8 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 175735,
-      "num": 175735,
+      "raw_hot": 180613,
+      "num": 180613,
       "word": "绵阳开放大学通报",
       "onboard_time": 1732841719,
       "rank": 17,
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132589,
+      "num": 288254,
+      "word": "今天星期五",
+      "onboard_time": 1732845498,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130421,
       "num": 121771,
       "word": "丁禹兮看自己的物料考古直播",
@@ -387,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127766,
-      "num": 127766,
-      "word": "李行亮叫麦琳心肝肝",
-      "onboard_time": 1732844298,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125195,
       "num": 132583,
       "word": "于适 去路边整桶泡面",
@@ -403,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120324,
+      "num": 165911,
+      "word": "秦海璐教学勾引这段",
+      "onboard_time": 1732843279,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120196,
       "num": 169789,
       "word": "付鹏怒怼汇丰",
       "onboard_time": 1732843878,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114954,
+      "num": 114954,
+      "word": "澳大利亚通过法案16岁以下禁用社媒",
+      "onboard_time": 1732845498,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114038,
@@ -443,20 +491,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102085,
+      "num": 102085,
+      "word": "志愿军赴长津湖高清影像",
+      "onboard_time": 1732845558,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 100471,
       "num": 100471,
       "word": "广州地铁通报5人因下车拥挤冲突",
       "onboard_time": 1732807339,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 100265,
-      "num": 100265,
-      "word": "秦海璐教学勾引这段",
-      "onboard_time": 1732843279,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 94938,
@@ -497,6 +545,22 @@
       "onboard_time": 1732842079,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 85297,
+      "num": 285031,
+      "word": "直播志愿军烈士遗骸安葬",
+      "onboard_time": 1732845919,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
+      "raw_hot": 84836,
+      "num": 84836,
+      "word": "黎巴嫩人得知停火回家大堵车",
+      "onboard_time": 1732845498,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83310,
@@ -547,6 +611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 75351,
+      "num": 75351,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732842798,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 74933,
       "num": 74933,
       "word": "黄圣依回应父母对其婚姻的态度",
@@ -579,6 +651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72815,
+      "num": 165538,
+      "word": "一梦江湖",
+      "onboard_time": 1732845978,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 72531,
+      "num": 72531,
+      "word": "GALA 我们全明星见",
+      "onboard_time": 1732846278,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72203,
       "num": 72203,
       "word": "普通女孩",
@@ -587,12 +675,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 70991,
-      "num": 70991,
-      "word": "何以中国弦歌不辍",
-      "onboard_time": 1732842798,
-      "rank": 44,
-      "category": "正能量"
+      "raw_hot": 70613,
+      "num": 255874,
+      "word": "MADEIN成员Gaeun退团",
+      "onboard_time": 1732845199,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 70457,
@@ -833,6 +921,14 @@
       "onboard_time": 1732813754,
       "rank": 19,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 22711,
+      "num": 269263,
+      "word": "鹤岗暴雪27人被困深山民警徒步救出",
+      "onboard_time": 1732845558,
+      "rank": 14,
+      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 21869,

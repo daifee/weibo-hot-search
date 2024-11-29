@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732844967439,
+  "endTime": 1732846314147,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3077197,
-      "num": 211012,
+      "num": 281599,
       "word": "鹿晗 反正李秀满已经走了",
       "onboard_time": 1732842138,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1732512858,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2078842,
+      "num": 268023,
+      "word": "鹿晗回应喝多了",
+      "onboard_time": 1732845798,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2030159,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1759136,
+      "num": 1759136,
+      "word": "优衣库",
+      "onboard_time": 1732842079,
+      "rank": 11,
+      "category": "舆论监督,时尚"
+    },
+    {
       "raw_hot": 1756623,
       "num": 1756623,
       "word": "助学贷款是可以不用还的",
@@ -305,14 +321,6 @@
       "onboard_time": 1732523479,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1540356,
-      "num": 209706,
-      "word": "优衣库",
-      "onboard_time": 1732842079,
-      "rank": 11,
-      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 1537427,
@@ -691,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1123960,
+      "num": 1175443,
+      "word": "老师向家长借60多万买房还钱困难",
+      "onboard_time": 1732841659,
+      "rank": 0,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1115234,
       "num": 445338,
       "word": "上海民警多次猥亵继女母亲发声",
@@ -721,14 +737,6 @@
       "onboard_time": 1732422557,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1096521,
-      "num": 1175443,
-      "word": "老师向家长借60多万买房还钱困难",
-      "onboard_time": 1732841659,
-      "rank": 0,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1078733,
@@ -1259,6 +1267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 809099,
+      "num": 277637,
+      "word": "杨子翻脸",
+      "onboard_time": 1732841659,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 809066,
       "num": 417108,
       "word": "曝小李子订婚",
@@ -1595,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 715144,
+      "num": 274430,
+      "word": "付鹏炮轰汇丰银行",
+      "onboard_time": 1732845498,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 714409,
       "num": 714409,
       "word": "四川内江一公交车失控致1死4伤",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1732544000,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710872,
-      "num": 206984,
-      "word": "杨子翻脸",
-      "onboard_time": 1732841659,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 709352,
@@ -2716,7 +2732,7 @@
     },
     {
       "raw_hot": 494905,
-      "num": 253612,
+      "num": 253657,
       "word": "突然发现国内夫妻很少见戴婚戒",
       "onboard_time": 1732801879,
       "rank": 20,
@@ -4491,6 +4507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 304248,
+      "num": 304248,
+      "word": "冬天身上痒1天洗2次澡反患湿疹",
+      "onboard_time": 1732824550,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303781,
       "num": 303781,
       "word": "OBGG显示Meiko加入iG",
@@ -4689,14 +4713,6 @@
       "onboard_time": 1732669459,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291011,
-      "num": 291011,
-      "word": "冬天身上痒1天洗2次澡反患湿疹",
-      "onboard_time": 1732824550,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 290248,
@@ -5003,6 +5019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270165,
+      "num": 270165,
+      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
+      "onboard_time": 1732845498,
+      "rank": 13,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 269786,
       "num": 269786,
       "word": "男子为引女儿注意从5楼怒扔砖头",
@@ -5073,6 +5097,14 @@
       "onboard_time": 1732768521,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 264133,
+      "num": 264133,
+      "word": "小米su7外借却被拍色情片",
+      "onboard_time": 1732842498,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263534,
@@ -5385,6 +5417,14 @@
       "onboard_time": 1732583178,
       "rank": 22,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 250154,
+      "num": 291718,
+      "word": "句句不提琳句句都是琳",
+      "onboard_time": 1732842378,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 249818,
@@ -5980,7 +6020,7 @@
     },
     {
       "raw_hot": 223556,
-      "num": 223556,
+      "num": 264500,
       "word": "傅首尔说能get到麦琳的点",
       "onboard_time": 1732815013,
       "rank": 9,
@@ -6347,14 +6387,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 213839,
-      "num": 213839,
-      "word": "句句不提琳句句都是琳",
-      "onboard_time": 1732842378,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212988,
       "num": 317263,
       "word": "9岁女孩被老师砸伤案最新进展",
@@ -6625,14 +6657,6 @@
       "onboard_time": 1732767860,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205881,
-      "num": 205881,
-      "word": "小米su7外借却被拍色情片",
-      "onboard_time": 1732842498,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205810,
@@ -7483,6 +7507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 191175,
+      "num": 265810,
+      "word": "李行亮叫麦琳心肝肝",
+      "onboard_time": 1732844298,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191142,
       "num": 191142,
       "word": "2号房只剩何浩楠了",
@@ -8147,6 +8179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 180613,
+      "num": 180613,
+      "word": "绵阳开放大学通报",
+      "onboard_time": 1732841719,
+      "rank": 17,
+      "category": "舆论监督,教育"
+    },
+    {
       "raw_hot": 180457,
       "num": 202260,
       "word": "爱玛滑元",
@@ -8377,14 +8417,6 @@
       "onboard_time": 1732674919,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 175735,
-      "num": 175735,
-      "word": "绵阳开放大学通报",
-      "onboard_time": 1732841719,
-      "rank": 17,
-      "category": "舆论监督,教育"
     },
     {
       "raw_hot": 175211,
@@ -11067,6 +11099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132589,
+      "num": 288254,
+      "word": "今天星期五",
+      "onboard_time": 1732845498,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132578,
       "num": 230970,
       "word": "易烊千玺澡堂手牌",
@@ -11393,14 +11433,6 @@
       "onboard_time": 1732663876,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127766,
-      "num": 127766,
-      "word": "李行亮叫麦琳心肝肝",
-      "onboard_time": 1732844298,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 127753,
@@ -11995,6 +12027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120324,
+      "num": 165911,
+      "word": "秦海璐教学勾引这段",
+      "onboard_time": 1732843279,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120196,
       "num": 169789,
       "word": "付鹏怒怼汇丰",
@@ -12417,6 +12457,14 @@
       "onboard_time": 1732442059,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114954,
+      "num": 114954,
+      "word": "澳大利亚通过法案16岁以下禁用社媒",
+      "onboard_time": 1732845498,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114948,
@@ -13267,6 +13315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102085,
+      "num": 102085,
+      "word": "志愿军赴长津湖高清影像",
+      "onboard_time": 1732845558,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 102018,
       "num": 462999,
       "word": "虞书欣COSMO花絮",
@@ -13369,14 +13425,6 @@
       "onboard_time": 1732653911,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 100265,
-      "num": 100265,
-      "word": "秦海璐教学勾引这段",
-      "onboard_time": 1732843279,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 100144,
@@ -14155,6 +14203,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 85297,
+      "num": 285031,
+      "word": "直播志愿军烈士遗骸安葬",
+      "onboard_time": 1732845919,
+      "rank": 9,
+      "category": "国内时政,正能量"
+    },
+    {
       "raw_hot": 85257,
       "num": 280309,
       "word": "拍视频拍了别人也侵犯了肖像权",
@@ -14169,6 +14225,14 @@
       "onboard_time": 1732593679,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84836,
+      "num": 84836,
+      "word": "黎巴嫩人得知停火回家大堵车",
+      "onboard_time": 1732845498,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84808,
@@ -14707,6 +14771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75351,
+      "num": 75351,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732842798,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 75150,
       "num": 75150,
       "word": "尔滨的雪实在是太美了",
@@ -14819,6 +14891,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72815,
+      "num": 165538,
+      "word": "一梦江湖",
+      "onboard_time": 1732845978,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 72531,
+      "num": 72531,
+      "word": "GALA 我们全明星见",
+      "onboard_time": 1732846278,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72437,
       "num": 72437,
       "word": "华为matex6上手体验",
@@ -14867,14 +14955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70991,
-      "num": 70991,
-      "word": "何以中国弦歌不辍",
-      "onboard_time": 1732842798,
-      "rank": 44,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 70952,
       "num": 290068,
       "word": "男子交2万8相亲提前退费要扣1万8",
@@ -14905,6 +14985,14 @@
       "onboard_time": 1732715360,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70613,
+      "num": 255874,
+      "word": "MADEIN成员Gaeun退团",
+      "onboard_time": 1732845199,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 70526,
@@ -18361,6 +18449,14 @@
       "onboard_time": 1732532780,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22711,
+      "num": 269263,
+      "word": "鹤岗暴雪27人被困深山民警徒步救出",
+      "onboard_time": 1732845558,
+      "rank": 14,
+      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 22656,
