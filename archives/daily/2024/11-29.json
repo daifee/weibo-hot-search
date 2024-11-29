@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732857820134,
+  "endTime": 1732858886091,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1448053,
-      "num": 938306,
+      "num": 1442950,
       "word": "蛇年春晚官宣",
       "onboard_time": 1732854801,
       "rank": 4,
@@ -89,6 +89,14 @@
       "onboard_time": 1732836016,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 930438,
+      "num": 930438,
+      "word": "美国女子抱婴儿袭警母女都被射杀",
+      "onboard_time": 1732856660,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 878334,
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456217,
-      "num": 456217,
-      "word": "美国女子抱婴儿袭警母女都被射杀",
-      "onboard_time": 1732856660,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 450261,
       "num": 368743,
       "word": "Newjeans宣布解约",
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 326763,
-      "num": 243299,
+      "num": 324295,
       "word": "赵樱子33岁皮肤状态",
       "onboard_time": 1732856122,
       "rank": 20,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 309110,
-      "num": 239830,
+      "num": 287802,
       "word": "中国国家队回应郑思维退出国际赛场",
       "onboard_time": 1732853420,
       "rank": 30,
@@ -297,6 +297,14 @@
       "onboard_time": 1732802779,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281071,
+      "num": 281071,
+      "word": "李惠仁听到方时赫的反应",
+      "onboard_time": 1732857021,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277628,
@@ -359,6 +367,14 @@
       "num": 264133,
       "word": "小米su7外借却被拍色情片",
       "onboard_time": 1732842498,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252354,
+      "num": 252354,
+      "word": "胖东来调改永辉超市25天改了啥",
+      "onboard_time": 1732858099,
       "rank": 13,
       "category": "民生新闻"
     },
@@ -427,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220583,
+      "num": 220583,
+      "word": "声生不息全员合唱好歌献给你",
+      "onboard_time": 1732858099,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219721,
+      "num": 219721,
+      "word": "外籍男子人体藏毒123粒被海关查获",
+      "onboard_time": 1732855161,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217354,
       "num": 375581,
       "word": "为母亲遭遇网课入侵寻求公正的女儿",
@@ -456,6 +488,14 @@
       "word": "闪耀的恒星",
       "onboard_time": 1732854801,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198918,
+      "num": 198918,
+      "word": "留几手和节目组摄影师吵起来了",
+      "onboard_time": 1732858340,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -563,12 +603,12 @@
       "category": "舆论监督,教育"
     },
     {
-      "raw_hot": 177632,
-      "num": 240543,
-      "word": "李惠仁听到方时赫的反应",
-      "onboard_time": 1732857021,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 176977,
+      "num": 176977,
+      "word": "老人吃腌萝卜后中毒整个人紫了",
+      "onboard_time": 1732858280,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175248,
@@ -617,6 +657,14 @@
       "onboard_time": 1732854922,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169799,
+      "num": 169799,
+      "word": "吴赫宣布结婚",
+      "onboard_time": 1732856302,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 169593,
@@ -683,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153579,
-      "num": 153579,
-      "word": "外籍男子人体藏毒123粒被海关查获",
-      "onboard_time": 1732855161,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "燃霜为昼正式杀青",
@@ -755,12 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141194,
-      "num": 141194,
-      "word": "吴赫宣布结婚",
-      "onboard_time": 1732856302,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 143251,
+      "num": 143251,
+      "word": "丁禹兮 我真的没有在晚上背梗",
+      "onboard_time": 1732858460,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 139716,
@@ -801,6 +841,14 @@
       "onboard_time": 1732802421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134116,
+      "num": 245199,
+      "word": "研究说周五是出错率最高的一天",
+      "onboard_time": 1732856601,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130421,
@@ -875,6 +923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119384,
+      "num": 119384,
+      "word": "破地狱定档",
+      "onboard_time": 1732858040,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119010,
       "num": 176303,
       "word": "决胜巅峰不赚钱了",
@@ -883,11 +939,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115619,
-      "num": 245199,
-      "word": "研究说周五是出错率最高的一天",
-      "onboard_time": 1732856601,
-      "rank": 18,
+      "raw_hot": 118823,
+      "num": 281166,
+      "word": "一半的胃癌与幽门螺杆菌有关",
+      "onboard_time": 1732856660,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -979,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104230,
+      "num": 104230,
+      "word": "麦当劳绝区零联动",
+      "onboard_time": 1732858099,
+      "rank": 37,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 102167,
       "num": 102167,
       "word": "GimGoon回应Doinb队出局",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1732796419,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94742,
-      "num": 281166,
-      "word": "一半的胃癌与幽门螺杆菌有关",
-      "onboard_time": 1732856660,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91424,
@@ -1587,6 +1643,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 25584,
+      "num": 238294,
+      "word": "幻视奥运冠军幼儿园午睡时候",
+      "onboard_time": 1732857739,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21869,
       "num": 109112,
       "word": "马龙学长走哪都有阵阵尖叫",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1732815552,
       "rank": 19,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 21418,
-      "num": 238294,
-      "word": "幻视奥运冠军幼儿园午睡时候",
-      "onboard_time": 1732857739,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 21317,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1732802241,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11005,
+      "num": 199116,
+      "word": "LWX说诺夏太菜了",
+      "onboard_time": 1732858820,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 10935,

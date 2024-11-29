@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/29 13:23:40
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/29 13:41:26
 </p>
 </blockquote>
 <p>
@@ -5091,6 +5091,12 @@ Zeus道歉（热度：937541）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%8A%B1%E5%A9%B4%E5%84%BF%E8%A2%AD%E8%AD%A6%E6%AF%8D%E5%A5%B3%E9%83%BD%E8%A2%AB%E5%B0%84%E6%9D%80%23" target="weibo">
+美国女子抱婴儿袭警母女都被射杀（热度：930438）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%23" target="weibo">
 宋祖儿更新日常（热度：930130）
 </a>
@@ -6005,12 +6011,6 @@ papi酱说李行亮不哄了（热度：846286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E6%AD%A2%E8%BF%99%E7%A7%8DAI%E8%A7%86%E9%A2%91%23" target="weibo">
 停止这种AI视频（热度：838804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%99%92%E6%B1%82%E5%A9%9A%E8%A7%86%E9%A2%91%23" target="weibo">
-张馨予晒求婚视频（热度：838552）
 </a>
 </li>
 

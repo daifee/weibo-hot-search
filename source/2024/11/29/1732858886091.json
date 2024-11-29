@@ -1,0 +1,410 @@
+{
+  "runTime": 1732858886091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1442950,
+        "num": 1442950,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930438,
+        "num": 930438,
+        "word": "美国女子抱婴儿袭警母女都被射杀",
+        "onboard_time": 1732856660,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48162,
+        "num": 824048,
+        "word": "43位志愿军烈士遗骸今日安葬",
+        "onboard_time": 1732850540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1345027,
+        "num": 823381,
+        "word": "鹿晗 反正李秀满已经走了",
+        "onboard_time": 1732842138,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817061,
+        "num": 817061,
+        "word": "王楠女儿落选国乒少年集训队",
+        "onboard_time": 1732853239,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549991,
+        "num": 549991,
+        "word": "老师向家长借60多万买房还钱困难",
+        "onboard_time": 1732841659,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 475499,
+        "num": 475499,
+        "word": "郑思维官宣退出国际赛场",
+        "onboard_time": 1732851741,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395694,
+        "num": 395694,
+        "word": "记者谈王楚钦球拍被踩断",
+        "onboard_time": 1732850600,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385438,
+        "num": 385438,
+        "word": "普京称若乌获核武俄将全力打击",
+        "onboard_time": 1732853901,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324295,
+        "num": 324295,
+        "word": "赵樱子33岁皮肤状态",
+        "onboard_time": 1732856122,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1179614,
+        "num": 322404,
+        "word": "鹿晗回应喝多了",
+        "onboard_time": 1732845798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287802,
+        "num": 287802,
+        "word": "中国国家队回应郑思维退出国际赛场",
+        "onboard_time": 1732853420,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281071,
+        "num": 281071,
+        "word": "李惠仁听到方时赫的反应",
+        "onboard_time": 1732857021,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252354,
+        "num": 252354,
+        "word": "胖东来调改永辉超市25天改了啥",
+        "onboard_time": 1732858099,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245375,
+        "num": 245375,
+        "word": "孟子义理想型是183的徐志胜",
+        "onboard_time": 1732854922,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220583,
+        "num": 220583,
+        "word": "声生不息全员合唱好歌献给你",
+        "onboard_time": 1732858099,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219721,
+        "num": 219721,
+        "word": "外籍男子人体藏毒123粒被海关查获",
+        "onboard_time": 1732855161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201087,
+        "num": 201087,
+        "word": "世上最珍贵的伞被找回来了",
+        "onboard_time": 1732841659,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 55809,
+        "num": 199968,
+        "word": "菜市场重启人生当事人称营业额翻4倍",
+        "onboard_time": 1732857800,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11005,
+        "num": 199116,
+        "word": "LWX说诺夏太菜了",
+        "onboard_time": 1732858820,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198918,
+        "num": 198918,
+        "word": "留几手和节目组摄影师吵起来了",
+        "onboard_time": 1732858340,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190012,
+        "num": 190012,
+        "word": "建议买了羽绒服先闻一闻",
+        "onboard_time": 1732846879,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 181927,
+        "num": 181927,
+        "word": "娜扎带妈妈泰国度假",
+        "onboard_time": 1732854801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176977,
+        "num": 176977,
+        "word": "老人吃腌萝卜后中毒整个人紫了",
+        "onboard_time": 1732858280,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25584,
+        "num": 175820,
+        "word": "幻视奥运冠军幼儿园午睡时候",
+        "onboard_time": 1732857739,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175475,
+        "num": 175475,
+        "word": "尖叫之夜投票",
+        "onboard_time": 1732856062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169799,
+        "num": 169799,
+        "word": "吴赫宣布结婚",
+        "onboard_time": 1732856302,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143251,
+        "num": 143251,
+        "word": "丁禹兮 我真的没有在晚上背梗",
+        "onboard_time": 1732858460,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141496,
+        "num": 141496,
+        "word": "TFBOYS北京ip",
+        "onboard_time": 1732851140,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34318,
+        "num": 137714,
+        "word": "傅首尔呼吁要理性看待再见爱人",
+        "onboard_time": 1732851140,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34223,
+        "num": 134495,
+        "word": "Ning王队战胜Icon队",
+        "onboard_time": 1732857620,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134116,
+        "num": 134116,
+        "word": "研究说周五是出错率最高的一天",
+        "onboard_time": 1732856601,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134616,
+        "num": 129548,
+        "word": "因果报应 海龟汤",
+        "onboard_time": 1732854922,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119384,
+        "num": 119384,
+        "word": "破地狱定档",
+        "onboard_time": 1732858040,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118823,
+        "num": 118823,
+        "word": "一半的胃癌与幽门螺杆菌有关",
+        "onboard_time": 1732856660,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111320,
+        "num": 111320,
+        "word": "持棍打死校园流浪狗安保人员被解聘",
+        "onboard_time": 1732842079,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109763,
+        "num": 109763,
+        "word": "2025总台春晚主题主标识发布",
+        "onboard_time": 1732853000,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104230,
+        "num": 104230,
+        "word": "麦当劳绝区零联动",
+        "onboard_time": 1732858099,
+        "rank": 37,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 102394,
+        "num": 102394,
+        "word": "芒果主持 新嘴就是好用",
+        "onboard_time": 1732851620,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98354,
+        "num": 98354,
+        "word": "李子柒穿的熊猫蜀锦裙是自己做的",
+        "onboard_time": 1732845498,
+        "rank": 39,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 96028,
+        "num": 96028,
+        "word": "闪耀的恒星",
+        "onboard_time": 1732854801,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95106,
+        "num": 95106,
+        "word": "深圳居民可申请赴港旅游一签多行",
+        "onboard_time": 1732846879,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94749,
+        "num": 94749,
+        "word": "付鹏炮轰汇丰银行",
+        "onboard_time": 1732845498,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31836,
+        "num": 94679,
+        "word": "打进UFC的女中医石铭",
+        "onboard_time": 1732856781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94671,
+        "num": 94671,
+        "word": "顾客称胖东来羽绒服已卖断货",
+        "onboard_time": 1732856181,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93676,
+        "num": 93676,
+        "word": "越检察官告知女首富交钱免死",
+        "onboard_time": 1732854922,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90043,
+        "num": 90043,
+        "word": "登陆少年分词",
+        "onboard_time": 1732855582,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88176,
+        "num": 88176,
+        "word": "王一博白色毛领牛仔装",
+        "onboard_time": 1732854500,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87034,
+        "num": 87034,
+        "word": "ADOR长文回复NewJeans",
+        "onboard_time": 1732851020,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82347,
+        "num": 86966,
+        "word": "北方更冷还是南方更冷",
+        "onboard_time": 1732849039,
+        "rank": 49,
+        "category": "民生新闻,议题讨论"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向乌拉圭当选总统奥尔西致贺电#"
+    }
+  }
+}
