@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732849442229,
+  "endTime": 1732849998321,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -9099,6 +9099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 772935,
+      "num": 1123669,
+      "word": "再见爱人疑似补录",
+      "onboard_time": 1732847060,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 772578,
       "num": 772578,
       "word": "娃哈哈回应钟睒睒绿瓶纯净水言论",
@@ -9465,14 +9473,6 @@
       "onboard_time": 1732530798,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 753104,
-      "num": 753104,
-      "word": "再见爱人疑似补录",
-      "onboard_time": 1732847060,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 752513,
@@ -19027,6 +19027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434556,
+      "num": 434556,
+      "word": "建议买了羽绒服先闻一闻",
+      "onboard_time": 1732846879,
+      "rank": 3,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 434521,
       "num": 434521,
       "word": "杨幂机场",
@@ -22849,14 +22857,6 @@
       "onboard_time": 1731702791,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 358478,
-      "num": 358478,
-      "word": "建议买了羽绒服先闻一闻",
-      "onboard_time": 1732846879,
-      "rank": 3,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 358446,
@@ -28155,6 +28155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277628,
+      "num": 277628,
+      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
+      "onboard_time": 1732845498,
+      "rank": 13,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 277464,
       "num": 277464,
       "word": "民警用羽绒服遮挡嫌疑人手铐",
@@ -28867,14 +28875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270506,
-      "num": 270506,
-      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
-      "onboard_time": 1732845498,
-      "rank": 13,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 270498,
       "num": 270498,
       "word": "虞书欣ins 他拍的",
@@ -29441,6 +29441,14 @@
       "onboard_time": 1730884283,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264541,
+      "num": 285031,
+      "word": "直播志愿军烈士遗骸安葬",
+      "onboard_time": 1732845919,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 264464,
@@ -31185,6 +31193,14 @@
       "onboard_time": 1731424282,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248196,
+      "num": 249731,
+      "word": "黎巴嫩人得知停火回家大堵车",
+      "onboard_time": 1732845498,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 248133,
@@ -34017,14 +34033,6 @@
       "onboard_time": 1730627418,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224095,
-      "num": 285031,
-      "word": "直播志愿军烈士遗骸安葬",
-      "onboard_time": 1732845919,
-      "rank": 9,
-      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 224092,
@@ -47049,14 +47057,6 @@
       "onboard_time": 1732285823,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 174003,
-      "num": 249731,
-      "word": "黎巴嫩人得知停火回家大堵车",
-      "onboard_time": 1732845498,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173998,
@@ -62547,6 +62547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125558,
+      "num": 125558,
+      "word": "为母亲遭遇网课入侵寻求公正的女儿",
+      "onboard_time": 1732848259,
+      "rank": 27,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 125553,
       "num": 125553,
       "word": "东北女子到南方被冻到怀疑人生",
@@ -62617,6 +62625,14 @@
       "onboard_time": 1731289579,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125414,
+      "num": 226161,
+      "word": "NewJeans和粉丝说再见",
+      "onboard_time": 1732848799,
+      "rank": 19,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 125367,
@@ -65513,14 +65529,6 @@
       "onboard_time": 1732107981,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 116157,
-      "num": 116157,
-      "word": "为母亲遭遇网课入侵寻求公正的女儿",
-      "onboard_time": 1732848259,
-      "rank": 27,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 116146,
@@ -69739,6 +69747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99178,
+      "num": 99178,
+      "word": "台湾球迷说马龙就是GOAT",
+      "onboard_time": 1732847238,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99159,
       "num": 306698,
       "word": "王楚钦球迷自发维持赛场秩序",
@@ -70939,14 +70955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93578,
-      "num": 226161,
-      "word": "NewJeans和粉丝说再见",
-      "onboard_time": 1732848799,
-      "rank": 19,
-      "category": "艺人,音乐"
-    },
-    {
       "raw_hot": 93560,
       "num": 262089,
       "word": "檀健次硬控10后广场舞",
@@ -71417,14 +71425,6 @@
       "onboard_time": 1731579921,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 90720,
-      "num": 90720,
-      "word": "台湾球迷说马龙就是GOAT",
-      "onboard_time": 1732847238,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 90694,
@@ -72868,7 +72868,7 @@
     },
     {
       "raw_hot": 83482,
-      "num": 83482,
+      "num": 123695,
       "word": "这就是奥运冠军的天赋吗",
       "onboard_time": 1732847778,
       "rank": 39,
@@ -76644,7 +76644,7 @@
     },
     {
       "raw_hot": 65300,
-      "num": 83326,
+      "num": 236677,
       "word": "网约护士为什么叫好不叫座",
       "onboard_time": 1732848739,
       "rank": 46,
@@ -76705,6 +76705,14 @@
       "onboard_time": 1731592821,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65132,
+      "num": 248908,
+      "word": "北方更冷还是南方更冷",
+      "onboard_time": 1732849039,
+      "rank": 49,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 65096,
@@ -77251,6 +77259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62530,
+      "num": 82112,
+      "word": "麦blue完杨blue",
+      "onboard_time": 1732849819,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62516,
       "num": 152787,
       "word": "美媒爆料扎克伯格现身海湖庄园",
@@ -77369,6 +77385,14 @@
       "onboard_time": 1732334418,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61940,
+      "num": 82084,
+      "word": "国漫日漫人气大洗牌",
+      "onboard_time": 1732849458,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 61927,
@@ -79361,14 +79385,6 @@
       "onboard_time": 1730625017,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54964,
-      "num": 83259,
-      "word": "北方更冷还是南方更冷",
-      "onboard_time": 1732849039,
-      "rank": 49,
-      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 54963,
@@ -83444,7 +83460,7 @@
     },
     {
       "raw_hot": 42150,
-      "num": 416265,
+      "num": 440774,
       "word": "湾区生活又又又又又又提速了",
       "onboard_time": 1732799539,
       "rank": 2,
@@ -96753,6 +96769,14 @@
       "onboard_time": 1731996620,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12387,
+      "num": 102708,
+      "word": "哪都通员工穿得最帅的一集",
+      "onboard_time": 1732849458,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 12380,

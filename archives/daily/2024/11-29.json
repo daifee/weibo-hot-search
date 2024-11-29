@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732849442229,
+  "endTime": 1732849998321,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 753104,
-      "num": 753104,
+      "raw_hot": 772935,
+      "num": 1123669,
       "word": "再见爱人疑似补录",
       "onboard_time": 1732847060,
       "rank": 1,
@@ -139,8 +139,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358478,
-      "num": 358478,
+      "raw_hot": 434556,
+      "num": 434556,
       "word": "建议买了羽绒服先闻一闻",
       "onboard_time": 1732846879,
       "rank": 3,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277628,
+      "num": 277628,
+      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
+      "onboard_time": 1732845498,
+      "rank": 13,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 275823,
       "num": 275823,
       "word": "孕妇坠崖案当事人谈男子推妻坠海骗保",
@@ -211,20 +219,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270506,
-      "num": 270506,
-      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
-      "onboard_time": 1732845498,
-      "rank": 13,
-      "category": "美食,网红"
-    },
-    {
       "raw_hot": 266141,
       "num": 266141,
       "word": "深圳居民可申请赴港旅游一签多行",
       "onboard_time": 1732846879,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264541,
+      "num": 285031,
+      "word": "直播志愿军烈士遗骸安葬",
+      "onboard_time": 1732845919,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 264133,
@@ -241,6 +249,14 @@
       "onboard_time": 1732842378,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248196,
+      "num": 249731,
+      "word": "黎巴嫩人得知停火回家大堵车",
+      "onboard_time": 1732845498,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238435,
@@ -265,14 +281,6 @@
       "onboard_time": 1732806558,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224095,
-      "num": 285031,
-      "word": "直播志愿军烈士遗骸安葬",
-      "onboard_time": 1732845919,
-      "rank": 9,
-      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 223556,
@@ -345,14 +353,6 @@
       "onboard_time": 1732772418,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174003,
-      "num": 249731,
-      "word": "黎巴嫩人得知停火回家大堵车",
-      "onboard_time": 1732845498,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173832,
@@ -491,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125558,
+      "num": 125558,
+      "word": "为母亲遭遇网课入侵寻求公正的女儿",
+      "onboard_time": 1732848259,
+      "rank": 27,
+      "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 125414,
+      "num": 226161,
+      "word": "NewJeans和粉丝说再见",
+      "onboard_time": 1732848799,
+      "rank": 19,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 125195,
       "num": 132583,
       "word": "于适 去路边整桶泡面",
@@ -521,14 +537,6 @@
       "onboard_time": 1732843878,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 116157,
-      "num": 116157,
-      "word": "为母亲遭遇网课入侵寻求公正的女儿",
-      "onboard_time": 1732848259,
-      "rank": 27,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 114954,
@@ -595,6 +603,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 99178,
+      "num": 99178,
+      "word": "台湾球迷说马龙就是GOAT",
+      "onboard_time": 1732847238,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94938,
       "num": 94938,
       "word": "首付3万买了没人要的阁楼",
@@ -603,28 +619,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93578,
-      "num": 226161,
-      "word": "NewJeans和粉丝说再见",
-      "onboard_time": 1732848799,
-      "rank": 19,
-      "category": "艺人,音乐"
-    },
-    {
       "raw_hot": 91424,
       "num": 91424,
       "word": "虞书欣海边落日背影照",
       "onboard_time": 1732808478,
       "rank": 30,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 90720,
-      "num": 90720,
-      "word": "台湾球迷说马龙就是GOAT",
-      "onboard_time": 1732847238,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 90461,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 83482,
-      "num": 83482,
+      "num": 123695,
       "word": "这就是奥运冠军的天赋吗",
       "onboard_time": 1732847778,
       "rank": 39,
@@ -828,11 +828,19 @@
     },
     {
       "raw_hot": 65300,
-      "num": 83326,
+      "num": 236677,
       "word": "网约护士为什么叫好不叫座",
       "onboard_time": 1732848739,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65132,
+      "num": 248908,
+      "word": "北方更冷还是南方更冷",
+      "onboard_time": 1732849039,
+      "rank": 49,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 64790,
@@ -857,6 +865,22 @@
       "onboard_time": 1732804101,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62530,
+      "num": 82112,
+      "word": "麦blue完杨blue",
+      "onboard_time": 1732849819,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61940,
+      "num": 82084,
+      "word": "国漫日漫人气大洗牌",
+      "onboard_time": 1732849458,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 61828,
@@ -923,14 +947,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 54964,
-      "num": 83259,
-      "word": "北方更冷还是南方更冷",
-      "onboard_time": 1732849039,
-      "rank": 49,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 54116,
       "num": 54116,
       "word": "苏翊鸣本周末再次亮相雪飞天",
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 42150,
-      "num": 416265,
+      "num": 440774,
       "word": "湾区生活又又又又又又提速了",
       "onboard_time": 1732799539,
       "rank": 2,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1732817771,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12387,
+      "num": 102708,
+      "word": "哪都通员工穿得最帅的一集",
+      "onboard_time": 1732849458,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 11899,
