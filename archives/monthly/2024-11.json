@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732849998321,
+  "endTime": 1732852184176,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 3077197,
-      "num": 281599,
+      "num": 1999453,
       "word": "鹿晗 反正李秀满已经走了",
       "onboard_time": 1732842138,
       "rank": 10,
@@ -1172,7 +1172,7 @@
     },
     {
       "raw_hot": 2078842,
-      "num": 268023,
+      "num": 375135,
       "word": "鹿晗回应喝多了",
       "onboard_time": 1732845798,
       "rank": 15,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1730822840,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1668104,
+      "num": 1668104,
+      "word": "郑思维官宣退出国际赛场",
+      "onboard_time": 1732851741,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1668072,
@@ -5243,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064966,
+      "num": 1064966,
+      "word": "中国是优衣库最大生产基地",
+      "onboard_time": 1732842079,
+      "rank": 3,
+      "category": "舆论监督,时尚"
+    },
+    {
       "raw_hot": 1063969,
       "num": 1063969,
       "word": "戚薇你是真的饿了",
@@ -6209,6 +6225,14 @@
       "onboard_time": 1730792781,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 972526,
+      "num": 972526,
+      "word": "杨子五个微信却没请到一个朋友",
+      "onboard_time": 1732851140,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 971923,
@@ -7225,6 +7249,14 @@
       "onboard_time": 1732604657,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 878334,
+      "num": 878334,
+      "word": "记者谈王楚钦球拍被踩断",
+      "onboard_time": 1732850600,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 877885,
@@ -8428,7 +8460,7 @@
     },
     {
       "raw_hot": 809099,
-      "num": 277637,
+      "num": 293225,
       "word": "杨子翻脸",
       "onboard_time": 1732841659,
       "rank": 12,
@@ -23267,6 +23299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 350892,
+      "num": 350892,
+      "word": "王源受刑镜头",
+      "onboard_time": 1732850899,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350839,
       "num": 506151,
       "word": "广东人最怕的湿冷要来了",
@@ -27035,6 +27075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290909,
+      "num": 290909,
+      "word": "TFBOYS北京ip",
+      "onboard_time": 1732851140,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290809,
       "num": 290809,
       "word": "霸王茶姬免单券",
@@ -29043,6 +29091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268648,
+      "num": 268648,
+      "word": "深圳居民可申请赴港旅游一签多行",
+      "onboard_time": 1732846879,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268566,
       "num": 488438,
       "word": "周也吊带黑裙",
@@ -29257,14 +29313,6 @@
       "onboard_time": 1730440999,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266141,
-      "num": 266141,
-      "word": "深圳居民可申请赴港旅游一签多行",
-      "onboard_time": 1732846879,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266046,
@@ -40347,6 +40395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196770,
+      "num": 248908,
+      "word": "北方更冷还是南方更冷",
+      "onboard_time": 1732849039,
+      "rank": 49,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 196740,
       "num": 279715,
       "word": "赵一博凹下去了",
@@ -40521,6 +40577,14 @@
       "onboard_time": 1732089559,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196034,
+      "num": 196034,
+      "word": "芒果主持 新嘴就是好用",
+      "onboard_time": 1732851620,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 196013,
@@ -41855,6 +41919,14 @@
       "num": 297732,
       "word": "张婧仪工作室维权取证",
       "onboard_time": 1732591218,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192022,
+      "num": 211790,
+      "word": "杨紫海边浪漫碎片",
+      "onboard_time": 1732851140,
       "rank": 18,
       "category": "艺人"
     },
@@ -43689,6 +43761,14 @@
       "onboard_time": 1732000219,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186208,
+      "num": 186208,
+      "word": "ADOR长文回复NewJeans",
+      "onboard_time": 1732851020,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 186192,
@@ -48003,6 +48083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170915,
+      "num": 170915,
+      "word": "2024LPL全明星",
+      "onboard_time": 1732850540,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170880,
       "num": 421201,
       "word": "丁禹兮额角的汗",
@@ -48137,6 +48225,14 @@
       "onboard_time": 1730550138,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170268,
+      "num": 170268,
+      "word": "法考",
+      "onboard_time": 1732850899,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 170225,
@@ -49089,6 +49185,14 @@
       "onboard_time": 1731311959,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167172,
+      "num": 167172,
+      "word": "傅首尔呼吁要理性看待再见爱人",
+      "onboard_time": 1732851140,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 167169,
@@ -53611,6 +53715,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 153500,
+      "num": 153500,
+      "word": "燃霜为昼正式杀青",
+      "onboard_time": 1732851020,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153494,
       "num": 274917,
       "word": "老人交10年保险生病报销被告知失效",
@@ -55353,6 +55465,14 @@
       "onboard_time": 1732720700,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148689,
+      "num": 375581,
+      "word": "为母亲遭遇网课入侵寻求公正的女儿",
+      "onboard_time": 1732848259,
+      "rank": 27,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 148650,
@@ -59043,6 +59163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137334,
+      "num": 137334,
+      "word": "我是刑警",
+      "onboard_time": 1732850960,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137262,
       "num": 347582,
       "word": "韩最大在野党党首李在明失去议员资格",
@@ -59241,6 +59369,14 @@
       "onboard_time": 1731542959,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136528,
+      "num": 136528,
+      "word": "kid说Ning进不去线下赛",
+      "onboard_time": 1732850899,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 136519,
@@ -62545,14 +62681,6 @@
       "onboard_time": 1730648898,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125558,
-      "num": 125558,
-      "word": "为母亲遭遇网课入侵寻求公正的女儿",
-      "onboard_time": 1732848259,
-      "rank": 27,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 125553,
@@ -66251,6 +66379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113619,
+      "num": 113619,
+      "word": "持棍打死校园流浪狗安保人员被解聘",
+      "onboard_time": 1732842079,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 113599,
       "num": 443114,
       "word": "华为MateX6现场测速",
@@ -68064,6 +68200,14 @@
       "word": "再见爱人选角",
       "onboard_time": 1731319159,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106967,
+      "num": 106967,
+      "word": "麦blue完杨blue",
+      "onboard_time": 1732849819,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -70307,6 +70451,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 96966,
+      "num": 96966,
+      "word": "国漫日漫人气大洗牌",
+      "onboard_time": 1732849458,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96942,
       "num": 96942,
       "word": "我们小孩没做错任何事为什么会被炸",
@@ -70481,6 +70633,14 @@
       "onboard_time": 1731985339,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 96198,
+      "num": 96198,
+      "word": "左手上篮周杰伦梦幻联动",
+      "onboard_time": 1732851020,
+      "rank": 44,
+      "category": "动漫,音乐"
     },
     {
       "raw_hot": 96163,
@@ -72137,14 +72297,6 @@
       "onboard_time": 1732251620,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 86978,
-      "num": 86978,
-      "word": "持棍打死校园流浪狗安保人员被解聘",
-      "onboard_time": 1732842079,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 86975,
@@ -74147,6 +74299,14 @@
       "category": "数码,正能量"
     },
     {
+      "raw_hot": 77091,
+      "num": 77091,
+      "word": "一签多行一周一行将实施",
+      "onboard_time": 1732851859,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77074,
       "num": 77074,
       "word": "全网寻找的豫P7A525找到了",
@@ -75020,7 +75180,7 @@
     },
     {
       "raw_hot": 72531,
-      "num": 72531,
+      "num": 110137,
       "word": "GALA 我们全明星见",
       "onboard_time": 1732846278,
       "rank": 49,
@@ -75947,6 +76107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68077,
+      "num": 291039,
+      "word": "家长举报上海一民办校发放变质食品",
+      "onboard_time": 1732850600,
+      "rank": 13,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 68062,
       "num": 1027160,
       "word": "巴西点心不仅撞脸中国粽子还分甜咸",
@@ -76707,14 +76875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65132,
-      "num": 248908,
-      "word": "北方更冷还是南方更冷",
-      "onboard_time": 1732849039,
-      "rank": 49,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 65096,
       "num": 429239,
       "word": "为什么越刷短视频越空虚",
@@ -76793,6 +76953,14 @@
       "onboard_time": 1731658579,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64833,
+      "num": 1177144,
+      "word": "43位志愿军烈士遗骸今日安葬",
+      "onboard_time": 1732850540,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64800,
@@ -77259,14 +77427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62530,
-      "num": 82112,
-      "word": "麦blue完杨blue",
-      "onboard_time": 1732849819,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 62516,
       "num": 152787,
       "word": "美媒爆料扎克伯格现身海湖庄园",
@@ -77385,14 +77545,6 @@
       "onboard_time": 1732334418,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61940,
-      "num": 82084,
-      "word": "国漫日漫人气大洗牌",
-      "onboard_time": 1732849458,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 61927,
@@ -88344,6 +88496,14 @@
       "word": "森保一说国足很有潜力",
       "onboard_time": 1732058655,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30955,
+      "num": 176128,
+      "word": "斯瓦泰克解释兴奋剂阳性事件",
+      "onboard_time": 1732852040,
+      "rank": 24,
       "category": "体育"
     },
     {
