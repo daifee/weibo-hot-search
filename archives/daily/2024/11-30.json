@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732908932079,
+  "endTime": 1732911911969,
   "band_list": [
     {
       "raw_hot": 1236585,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70083,
+      "num": 70083,
+      "word": "外籍男子体内藏毒排出123粒毒丸",
+      "onboard_time": 1732909451,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55005,
       "num": 161863,
       "word": "中式美学一出场就惊艳了",
@@ -563,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18859,
+      "num": 47416,
+      "word": "普京否认曾带爱犬吓唬默克尔",
+      "onboard_time": 1732908192,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17886,
       "num": 629056,
       "word": "12月这些新规影响你我",
@@ -603,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15443,
-      "num": 47416,
-      "word": "普京否认曾带爱犬吓唬默克尔",
-      "onboard_time": 1732908192,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 14066,
       "num": 850658,
       "word": "链博会上的环环相链",
@@ -619,12 +627,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13524,
+      "num": 24254,
+      "word": "85岁大爷全网找的大学生们到齐了",
+      "onboard_time": 1732911490,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 11421,
+      "num": 17142,
+      "word": "43名志愿军烈士长眠祖国大地",
+      "onboard_time": 1732911430,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 9232,
       "num": 46007,
       "word": "童频日常",
       "onboard_time": 1732905492,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7882,
+      "num": 24899,
+      "word": "留几手 原则性大事",
+      "onboard_time": 1732911311,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 7813,
@@ -648,6 +680,14 @@
       "word": "龚俊生日漫游旅行家",
       "onboard_time": 1732906152,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5803,
+      "num": 24125,
+      "word": "苏新皓玩泡泡机花絮",
+      "onboard_time": 1732911551,
+      "rank": 19,
       "category": "艺人"
     }
   ],
