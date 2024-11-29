@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732897783028,
+  "endTime": 1732898737365,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1699,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762089,
+      "num": 762089,
+      "word": "中2.25亿巨奖男子尚未兑奖",
+      "onboard_time": 1732896859,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 756080,
       "num": 438329,
       "word": "徐艺洋水晶",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1732780220,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 749359,
+      "num": 305753,
+      "word": "易易紫承认和崔胜铉恋爱过",
+      "onboard_time": 1732896318,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 749109,
@@ -1905,14 +1921,6 @@
       "onboard_time": 1732505898,
       "rank": 20,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 713891,
-      "num": 305753,
-      "word": "易易紫承认和崔胜铉恋爱过",
-      "onboard_time": 1732896318,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 713751,
@@ -5347,6 +5355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295721,
+      "num": 270274,
+      "word": "四川卫视 莎头",
+      "onboard_time": 1732894998,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295143,
       "num": 295143,
       "word": "恋与深空",
@@ -5753,14 +5769,6 @@
       "onboard_time": 1732854922,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270274,
-      "num": 270274,
-      "word": "四川卫视 莎头",
-      "onboard_time": 1732894998,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 270202,
@@ -6833,14 +6841,6 @@
       "onboard_time": 1732678699,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225675,
-      "num": 225675,
-      "word": "中2.25亿巨奖男子尚未兑奖",
-      "onboard_time": 1732896859,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225462,
@@ -13987,6 +13987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120832,
+      "num": 170274,
+      "word": "A股市场迎来大反攻",
+      "onboard_time": 1732894940,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120807,
       "num": 120807,
       "word": "周翊然周放一搭嫂弟二搭姑侄",
@@ -16227,14 +16235,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 89480,
-      "num": 170274,
-      "word": "A股市场迎来大反攻",
-      "onboard_time": 1732894940,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 89464,
       "num": 275878,
       "word": "乡镇卫生院因欠药企钱开不出药",
@@ -17267,6 +17267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 73726,
+      "num": 73726,
+      "word": "安静公主",
+      "onboard_time": 1732898656,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 73716,
       "num": 378592,
       "word": "叶嘉莹曾说要把诗词传给下一代人",
@@ -18113,6 +18121,14 @@
       "onboard_time": 1732500378,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58540,
+      "num": 120658,
+      "word": "林一补偿方案",
+      "onboard_time": 1732898597,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 58520,
@@ -19137,6 +19153,14 @@
       "onboard_time": 1732861159,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45750,
+      "num": 89703,
+      "word": "陈荣炼被捕后安以轩淡出演艺圈",
+      "onboard_time": 1732898417,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 45722,
@@ -21523,6 +21547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23213,
+      "num": 116909,
+      "word": "弗格42分",
+      "onboard_time": 1732898417,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23090,
       "num": 565428,
       "word": "成都混合团体世界杯倒计时5天",
@@ -22179,6 +22211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15549,
+      "num": 116079,
+      "word": "无限大",
+      "onboard_time": 1732898716,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15430,
       "num": 49629,
       "word": "下半年首场寒潮天气趋于结束",
@@ -22292,7 +22332,7 @@
     },
     {
       "raw_hot": 14145,
-      "num": 118667,
+      "num": 629056,
       "word": "12月这些新规影响你我",
       "onboard_time": 1732883959,
       "rank": 41,

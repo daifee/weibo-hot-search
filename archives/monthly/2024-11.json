@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732897783028,
+  "endTime": 1732898737365,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -9531,6 +9531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 762089,
+      "num": 762089,
+      "word": "中2.25亿巨奖男子尚未兑奖",
+      "onboard_time": 1732896859,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 761458,
       "num": 507503,
       "word": "马夫儿子否认父亲猥亵",
@@ -9753,6 +9761,14 @@
       "onboard_time": 1732780220,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 749359,
+      "num": 305753,
+      "word": "易易紫承认和崔胜铉恋爱过",
+      "onboard_time": 1732896318,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 749109,
@@ -10577,14 +10593,6 @@
       "onboard_time": 1732505898,
       "rank": 20,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 713891,
-      "num": 305753,
-      "word": "易易紫承认和崔胜铉恋爱过",
-      "onboard_time": 1732896318,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 713751,
@@ -27379,6 +27387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295721,
+      "num": 270274,
+      "word": "四川卫视 莎头",
+      "onboard_time": 1732894998,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295683,
       "num": 295683,
       "word": "当地回应班主任在家长群催缴医保",
@@ -29617,14 +29633,6 @@
       "onboard_time": 1732854922,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270274,
-      "num": 270274,
-      "word": "四川卫视 莎头",
-      "onboard_time": 1732894998,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 270202,
@@ -34633,14 +34641,6 @@
       "onboard_time": 1730726001,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 225675,
-      "num": 225675,
-      "word": "中2.25亿巨奖男子尚未兑奖",
-      "onboard_time": 1732896859,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225673,
@@ -66075,6 +66075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120832,
+      "num": 170274,
+      "word": "A股市场迎来大反攻",
+      "onboard_time": 1732894940,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120813,
       "num": 656934,
       "word": "中国已分别成功将猪肾和肝移植进人体",
@@ -73763,14 +73771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89480,
-      "num": 170274,
-      "word": "A股市场迎来大反攻",
-      "onboard_time": 1732894940,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 89464,
       "num": 275878,
       "word": "乡镇卫生院因欠药企钱开不出药",
@@ -77161,6 +77161,14 @@
       "onboard_time": 1731542419,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73726,
+      "num": 73726,
+      "word": "安静公主",
+      "onboard_time": 1732898656,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 73716,
@@ -80817,6 +80825,14 @@
       "onboard_time": 1732277600,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58540,
+      "num": 120658,
+      "word": "林一补偿方案",
+      "onboard_time": 1732898597,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 58524,
@@ -84817,6 +84833,14 @@
       "onboard_time": 1732861159,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45750,
+      "num": 89703,
+      "word": "陈荣炼被捕后安以轩淡出演艺圈",
+      "onboard_time": 1732898417,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 45722,
@@ -94931,6 +94955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23213,
+      "num": 116909,
+      "word": "弗格42分",
+      "onboard_time": 1732898417,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23199,
       "num": 159060,
       "word": "均价个位数的现磨咖啡上大分",
@@ -98395,6 +98427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15549,
+      "num": 116079,
+      "word": "无限大",
+      "onboard_time": 1732898716,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15531,
       "num": 24366,
       "word": "扎哈罗娃被告知不要评论俄导弹袭乌",
@@ -99012,7 +99052,7 @@
     },
     {
       "raw_hot": 14145,
-      "num": 118667,
+      "num": 629056,
       "word": "12月这些新规影响你我",
       "onboard_time": 1732883959,
       "rank": 41,
