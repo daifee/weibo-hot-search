@@ -1,7 +1,23 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732837039126,
+  "endTime": 1732844967439,
   "band_list": [
+    {
+      "raw_hot": 3077197,
+      "num": 211012,
+      "word": "鹿晗 反正李秀满已经走了",
+      "onboard_time": 1732842138,
+      "rank": 10,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1540356,
+      "num": 209706,
+      "word": "优衣库",
+      "onboard_time": 1732842079,
+      "rank": 11,
+      "category": "舆论监督,时尚"
+    },
     {
       "raw_hot": 1115234,
       "num": 445338,
@@ -11,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096521,
+      "num": 1175443,
+      "word": "老师向家长借60多万买房还钱困难",
+      "onboard_time": 1732841659,
+      "rank": 0,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 946261,
       "num": 220843,
       "word": "鹿晗直播",
       "onboard_time": 1732836016,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710872,
+      "num": 206984,
+      "word": "杨子翻脸",
+      "onboard_time": 1732841659,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 624427,
@@ -91,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329134,
+      "num": 199112,
+      "word": "鹿晗凌晨直播与粉丝连麦",
+      "onboard_time": 1732837637,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313300,
       "num": 494572,
       "word": "大冰为脑瘫女孩追星薛之谦",
       "onboard_time": 1732809737,
       "rank": 21,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 291011,
+      "num": 291011,
+      "word": "冬天身上痒1天洗2次澡反患湿疹",
+      "onboard_time": 1732824550,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281375,
@@ -107,20 +155,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252611,
-      "num": 132598,
+      "raw_hot": 275823,
+      "num": 275823,
+      "word": "孕妇坠崖案当事人谈男子推妻坠海骗保",
+      "onboard_time": 1732837397,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271559,
+      "num": 271559,
+      "word": "再见爱人节目组发声明",
+      "onboard_time": 1732812135,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270943,
+      "num": 169729,
       "word": "突然发现国内夫妻很少见戴婚戒",
       "onboard_time": 1732801879,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 235144,
-      "num": 235144,
-      "word": "冬天身上痒1天洗2次澡反患湿疹",
-      "onboard_time": 1732824550,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225725,
@@ -131,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223556,
+      "num": 223556,
+      "word": "傅首尔说能get到麦琳的点",
+      "onboard_time": 1732815013,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221059,
       "num": 221059,
       "word": "警方回应小米su7外借却被拍色情片",
@@ -139,11 +203,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211897,
-      "num": 211897,
-      "word": "再见爱人节目组发声明",
-      "onboard_time": 1732812135,
-      "rank": 42,
+      "raw_hot": 213839,
+      "num": 213839,
+      "word": "句句不提琳句句都是琳",
+      "onboard_time": 1732842378,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -152,6 +216,14 @@
       "word": "东北女生在南方被冻到怀疑人生",
       "onboard_time": 1732803320,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205881,
+      "num": 205881,
+      "word": "小米su7外借却被拍色情片",
+      "onboard_time": 1732842498,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -187,6 +259,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 175735,
+      "num": 175735,
+      "word": "绵阳开放大学通报",
+      "onboard_time": 1732841719,
+      "rank": 17,
+      "category": "舆论监督,教育"
+    },
+    {
       "raw_hot": 175248,
       "num": 175248,
       "word": "沈梦瑶 取关",
@@ -203,6 +283,38 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 169593,
+      "num": 169593,
+      "word": "还有2个月就是除夕了",
+      "onboard_time": 1732838478,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166034,
+      "num": 166034,
+      "word": "世上最珍贵的伞被找回来了",
+      "onboard_time": 1732841659,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163905,
+      "num": 163905,
+      "word": "奥运冠军跳新疆舞名场面",
+      "onboard_time": 1732840938,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163348,
+      "num": 163348,
+      "word": "特朗普关税大棒下没有赢家",
+      "onboard_time": 1732824071,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159330,
       "num": 159330,
       "word": "卢布崩了",
@@ -211,12 +323,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154846,
+      "num": 154846,
+      "word": "辨别真假羽绒服的小技巧",
+      "onboard_time": 1732838958,
+      "rank": 26,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 150846,
       "num": 216935,
       "word": "拿千元羽绒服翻新拆开竟没有羽绒",
       "onboard_time": 1732807879,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148956,
+      "num": 163426,
+      "word": "黑神话悟空现身吉林雪场",
+      "onboard_time": 1732842857,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 148472,
@@ -235,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138533,
-      "num": 138533,
-      "word": "特朗普关税大棒下没有赢家",
-      "onboard_time": 1732824071,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136195,
       "num": 109657,
       "word": "丁禹兮吴谨言或演兰香如故",
@@ -251,11 +371,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128691,
-      "num": 138679,
-      "word": "傅首尔说能get到麦琳的点",
-      "onboard_time": 1732815013,
-      "rank": 9,
+      "raw_hot": 130421,
+      "num": 121771,
+      "word": "丁禹兮看自己的物料考古直播",
+      "onboard_time": 1732839619,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128172,
+      "num": 128172,
+      "word": "杨子说黄圣依不能再PUA他了",
+      "onboard_time": 1732841480,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127766,
+      "num": 127766,
+      "word": "李行亮叫麦琳心肝肝",
+      "onboard_time": 1732844298,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -265,6 +401,22 @@
       "onboard_time": 1732807339,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120196,
+      "num": 169789,
+      "word": "付鹏怒怼汇丰",
+      "onboard_time": 1732843878,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 114038,
+      "num": 114038,
+      "word": "儿子牺牲后妈妈还能收到他的信",
+      "onboard_time": 1732799720,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112199,
@@ -299,6 +451,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 100265,
+      "num": 100265,
+      "word": "秦海璐教学勾引这段",
+      "onboard_time": 1732843279,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94938,
       "num": 94938,
       "word": "首付3万买了没人要的阁楼",
@@ -307,20 +467,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93678,
-      "num": 93678,
-      "word": "儿子牺牲后妈妈还能收到他的信",
-      "onboard_time": 1732799720,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 91424,
       "num": 91424,
       "word": "虞书欣海边落日背影照",
       "onboard_time": 1732808478,
       "rank": 30,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 90461,
+      "num": 90461,
+      "word": "林一请求骂他的人去失笑弹幕上说",
+      "onboard_time": 1732840758,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88430,
+      "num": 88430,
+      "word": "NewJeans说不会放弃组合名",
+      "onboard_time": 1732842138,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86978,
+      "num": 86978,
+      "word": "持棍打死校园流浪狗安保人员被解聘",
+      "onboard_time": 1732842079,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 83310,
@@ -355,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78205,
+      "num": 78205,
+      "word": "马龙粉丝激动大喊我妈说你好帅",
+      "onboard_time": 1732840278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77500,
       "num": 72316,
       "word": "虞书欣圣诞蓝调",
       "onboard_time": 1732806020,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 74933,
+      "num": 74933,
+      "word": "黄圣依回应父母对其婚姻的态度",
+      "onboard_time": 1732839379,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 74835,
@@ -395,6 +587,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 70991,
+      "num": 70991,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732842798,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 70457,
+      "num": 70457,
+      "word": "热刺2比2罗马",
+      "onboard_time": 1732844358,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70450,
+      "num": 70450,
+      "word": "网约车司机双胞胎女儿考入清北",
+      "onboard_time": 1732834754,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68017,
       "num": 68017,
       "word": "最高礼遇接英雄回家沈阳准备好了",
@@ -416,14 +632,6 @@
       "word": "丈夫住院取2.5万元被银行电话核实",
       "onboard_time": 1732790179,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66989,
-      "num": 66989,
-      "word": "网约车司机双胞胎女儿考入清北",
-      "onboard_time": 1732834754,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -539,12 +747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43824,
+      "num": 71063,
+      "word": "英雄回家让人泪目的4段喊话",
+      "onboard_time": 1732842138,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42580,
       "num": 42580,
       "word": "俄罗斯卢布跌超8.5%",
       "onboard_time": 1732836075,
       "rank": 47,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 42150,
+      "num": 416265,
+      "word": "湾区生活又又又又又又提速了",
+      "onboard_time": 1732799539,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41037,
@@ -579,6 +803,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 38144,
+      "num": 213331,
+      "word": "英雄回家路这些细节看到泪目",
+      "onboard_time": 1732844537,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37125,
       "num": 63124,
       "word": "高校教职工将狗套袋中当街打死",
@@ -593,14 +825,6 @@
       "onboard_time": 1732799780,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 31386,
-      "num": 405863,
-      "word": "湾区生活又又又又又又提速了",
-      "onboard_time": 1732799539,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25639,

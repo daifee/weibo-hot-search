@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732837039126,
+  "endTime": 1732844967439,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -457,6 +457,14 @@
       "onboard_time": 1730473039,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3077197,
+      "num": 211012,
+      "word": "鹿晗 反正李秀满已经走了",
+      "onboard_time": 1732842138,
+      "rank": 10,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 3069983,
@@ -2489,6 +2497,14 @@
       "onboard_time": 1731915559,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1540356,
+      "num": 209706,
+      "word": "优衣库",
+      "onboard_time": 1732842079,
+      "rank": 11,
+      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 1537427,
@@ -4913,6 +4929,14 @@
       "onboard_time": 1730810662,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1096521,
+      "num": 1175443,
+      "word": "老师向家长借60多万买房还钱困难",
+      "onboard_time": 1732841659,
+      "rank": 0,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1096228,
@@ -10273,6 +10297,14 @@
       "onboard_time": 1731816738,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 710872,
+      "num": 206984,
+      "word": "杨子翻脸",
+      "onboard_time": 1732841659,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 710593,
@@ -24411,6 +24443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 329134,
+      "num": 199112,
+      "word": "鹿晗凌晨直播与粉丝连麦",
+      "onboard_time": 1732837637,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329040,
       "num": 1024355,
       "word": "陈幸同3比2孙颖莎",
@@ -26955,6 +26995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291011,
+      "num": 291011,
+      "word": "冬天身上痒1天洗2次澡反患湿疹",
+      "onboard_time": 1732824550,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290809,
       "num": 290809,
       "word": "霸王茶姬免单券",
@@ -28257,6 +28305,14 @@
       "onboard_time": 1730955502,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275823,
+      "num": 275823,
+      "word": "孕妇坠崖案当事人谈男子推妻坠海骗保",
+      "onboard_time": 1732837397,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275794,
@@ -32483,14 +32539,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 235144,
-      "num": 235144,
-      "word": "冬天身上痒1天洗2次澡反患湿疹",
-      "onboard_time": 1732824550,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235012,
       "num": 235012,
       "word": "虞书欣说自己是从负一点点扳正的",
@@ -33961,6 +34009,14 @@
       "onboard_time": 1730819543,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223556,
+      "num": 223556,
+      "word": "傅首尔说能get到麦琳的点",
+      "onboard_time": 1732815013,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 223489,
@@ -35585,6 +35641,14 @@
       "onboard_time": 1731501261,
       "rank": 8,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 213839,
+      "num": 213839,
+      "word": "句句不提琳句句都是琳",
+      "onboard_time": 1732842378,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 213767,
@@ -37345,6 +37409,14 @@
       "onboard_time": 1730960418,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205881,
+      "num": 205881,
+      "word": "小米su7外借却被拍色情片",
+      "onboard_time": 1732842498,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205834,
@@ -46451,6 +46523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175735,
+      "num": 175735,
+      "word": "绵阳开放大学通报",
+      "onboard_time": 1732841719,
+      "rank": 17,
+      "category": "舆论监督,教育"
+    },
+    {
       "raw_hot": 175734,
       "num": 175734,
       "word": "西湖偶遇薛凯琪了",
@@ -48203,6 +48283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169593,
+      "num": 169593,
+      "word": "还有2个月就是除夕了",
+      "onboard_time": 1732838478,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169583,
       "num": 169583,
       "word": "章昊跳whiplash",
@@ -49275,6 +49363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166034,
+      "num": 166034,
+      "word": "世上最珍贵的伞被找回来了",
+      "onboard_time": 1732841659,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166004,
       "num": 166004,
       "word": "全校通报安可",
@@ -49987,6 +50083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163905,
+      "num": 163905,
+      "word": "奥运冠军跳新疆舞名场面",
+      "onboard_time": 1732840938,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163860,
       "num": 299882,
       "word": "祝绪丹对虞书欣的初印象",
@@ -50097,6 +50201,14 @@
       "onboard_time": 1732417458,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163348,
+      "num": 163348,
+      "word": "特朗普关税大棒下没有赢家",
+      "onboard_time": 1732824071,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163276,
@@ -52939,6 +53051,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 154846,
+      "num": 154846,
+      "word": "辨别真假羽绒服的小技巧",
+      "onboard_time": 1732838958,
+      "rank": 26,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 154821,
       "num": 154821,
       "word": "2.3万乌克兰大学生被开除",
@@ -55049,6 +55169,14 @@
       "onboard_time": 1732285641,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148956,
+      "num": 163426,
+      "word": "黑神话悟空现身吉林雪场",
+      "onboard_time": 1732842857,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 148946,
@@ -58419,14 +58547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138533,
-      "num": 138533,
-      "word": "特朗普关税大棒下没有赢家",
-      "onboard_time": 1732824071,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138496,
       "num": 138496,
       "word": "山东泰山1比0柔佛新山",
@@ -60827,6 +60947,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 130421,
+      "num": 121771,
+      "word": "丁禹兮看自己的物料考古直播",
+      "onboard_time": 1732839619,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130398,
       "num": 330100,
       "word": "拜登回应ICC对以总理发出逮捕令",
@@ -61299,14 +61427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128691,
-      "num": 138679,
-      "word": "傅首尔说能get到麦琳的点",
-      "onboard_time": 1732815013,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128666,
       "num": 484040,
       "word": "厨房爆炸丈夫折返救妻离世",
@@ -61465,6 +61585,14 @@
       "onboard_time": 1731289038,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128172,
+      "num": 128172,
+      "word": "杨子说黄圣依不能再PUA他了",
+      "onboard_time": 1732841480,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 128169,
@@ -61641,6 +61769,14 @@
       "onboard_time": 1730848937,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127766,
+      "num": 127766,
+      "word": "李行亮叫麦琳心肝肝",
+      "onboard_time": 1732844298,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 127753,
@@ -64073,6 +64209,14 @@
       "onboard_time": 1731207497,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120196,
+      "num": 169789,
+      "word": "付鹏怒怼汇丰",
+      "onboard_time": 1732843878,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 120184,
@@ -69227,6 +69371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100265,
+      "num": 100265,
+      "word": "秦海璐教学勾引这段",
+      "onboard_time": 1732843279,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100228,
       "num": 100228,
       "word": "王一博上榜亚太U30杰出青年领袖",
@@ -71147,6 +71299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90461,
+      "num": 90461,
+      "word": "林一请求骂他的人去失笑弹幕上说",
+      "onboard_time": 1732840758,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90438,
       "num": 90438,
       "word": "吕梁民政局称明年初结婚或大增",
@@ -71563,6 +71723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88430,
+      "num": 88430,
+      "word": "NewJeans说不会放弃组合名",
+      "onboard_time": 1732842138,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88422,
       "num": 195916,
       "word": "Doinb队传奇杯首胜",
@@ -71825,6 +71993,14 @@
       "onboard_time": 1732251620,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 86978,
+      "num": 86978,
+      "word": "持棍打死校园流浪狗安保人员被解聘",
+      "onboard_time": 1732842079,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 86975,
@@ -73611,6 +73787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 78205,
+      "num": 78205,
+      "word": "马龙粉丝激动大喊我妈说你好帅",
+      "onboard_time": 1732840278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78151,
       "num": 204799,
       "word": "被拐儿童家长向人贩子索赔6元",
@@ -74291,6 +74475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74933,
+      "num": 74933,
+      "word": "黄圣依回应父母对其婚姻的态度",
+      "onboard_time": 1732839379,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74826,
       "num": 277702,
       "word": "央视曝光假冒纪念币",
@@ -74939,6 +75131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70991,
+      "num": 70991,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732842798,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 70974,
       "num": 318459,
       "word": "律师称捂嘴男孩监护人需承担民责",
@@ -75083,12 +75283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70457,
+      "num": 70457,
+      "word": "热刺2比2罗马",
+      "onboard_time": 1732844358,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70452,
       "num": 255681,
       "word": "丁真诉网友侵权",
       "onboard_time": 1731983599,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70450,
+      "num": 70450,
+      "word": "网约车司机双胞胎女儿考入清北",
+      "onboard_time": 1732834754,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70431,
@@ -75825,14 +76041,6 @@
       "onboard_time": 1730860940,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 66989,
-      "num": 66989,
-      "word": "网约车司机双胞胎女儿考入清北",
-      "onboard_time": 1732834754,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66963,
@@ -82459,6 +82667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43824,
+      "num": 71063,
+      "word": "英雄回家让人泪目的4段喊话",
+      "onboard_time": 1732842138,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43806,
       "num": 432161,
       "word": "陈幸同钱天一回应晋级4强",
@@ -83016,6 +83232,14 @@
       "word": "章丘一动物园给黑猩猩吃大葱",
       "onboard_time": 1731706450,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42150,
+      "num": 416265,
+      "word": "湾区生活又又又又又又提速了",
+      "onboard_time": 1732799539,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -84585,6 +84809,14 @@
       "onboard_time": 1732834995,
       "rank": 9,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 38144,
+      "num": 213331,
+      "word": "英雄回家路这些细节看到泪目",
+      "onboard_time": 1732844537,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38127,
@@ -87617,14 +87849,6 @@
       "onboard_time": 1731405443,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 31386,
-      "num": 405863,
-      "word": "湾区生活又又又又又又提速了",
-      "onboard_time": 1732799539,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31357,
