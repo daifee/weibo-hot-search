@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732877035018,
+  "endTime": 1732879210232,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -75,6 +75,14 @@
       "category": "舆论监督,时尚"
     },
     {
+      "raw_hot": 1215160,
+      "num": 317664,
+      "word": "周密 格局",
+      "onboard_time": 1732873159,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1123960,
       "num": 1175443,
       "word": "老师向家长借60多万买房还钱困难",
@@ -105,14 +113,6 @@
       "onboard_time": 1732861280,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1060413,
-      "num": 317664,
-      "word": "周密 格局",
-      "onboard_time": 1732873159,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1029623,
@@ -153,6 +153,14 @@
       "onboard_time": 1732856660,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 917521,
+      "num": 917521,
+      "word": "安以轩得知老公被判13年后很伤心",
+      "onboard_time": 1732874000,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 878334,
@@ -235,14 +243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 711754,
-      "num": 315702,
-      "word": "安以轩得知老公被判13年后很伤心",
-      "onboard_time": 1732874000,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 708567,
       "num": 472405,
       "word": "冯绍峰接想想放学回家",
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564423,
+      "num": 300787,
+      "word": "周密 周芯竹",
+      "onboard_time": 1732875379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505413,
       "num": 861144,
       "word": "羽绒服敢卖199赌的就是你不懂",
@@ -361,6 +369,14 @@
       "onboard_time": 1732807639,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459489,
+      "num": 459489,
+      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
+      "onboard_time": 1732875679,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 456204,
@@ -443,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 424254,
-      "num": 300787,
-      "word": "周密 周芯竹",
-      "onboard_time": 1732875379,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419810,
       "num": 275942,
       "word": "中国游客在马尔代夫潜水遭鲨鱼咬头",
@@ -489,6 +497,14 @@
       "onboard_time": 1732864639,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377253,
+      "num": 338131,
+      "word": "肖战糙汉文男主",
+      "onboard_time": 1732874719,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 350892,
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320356,
+      "num": 239372,
+      "word": "胃癌发现时大多是中晚期",
+      "onboard_time": 1732876878,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 313300,
       "num": 494572,
       "word": "大冰为脑瘫女孩追星薛之谦",
@@ -592,14 +616,6 @@
       "word": "TFBOYS北京ip",
       "onboard_time": 1732851140,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 290777,
-      "num": 311291,
-      "word": "肖战糙汉文男主",
-      "onboard_time": 1732874719,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -715,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252428,
+      "num": 306838,
+      "word": "孙颖莎训练手抡出残影",
+      "onboard_time": 1732875679,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251577,
       "num": 251577,
       "word": "娜扎带妈妈泰国度假",
@@ -771,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229124,
-      "num": 306838,
-      "word": "孙颖莎训练手抡出残影",
-      "onboard_time": 1732875679,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225725,
       "num": 225725,
       "word": "斯瓦泰克兴奋剂阳性",
@@ -801,6 +817,14 @@
       "onboard_time": 1732815013,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221414,
+      "num": 221414,
+      "word": "南方人在东北雪天撑伞看呆当地人",
+      "onboard_time": 1732877840,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221059,
@@ -843,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215359,
-      "num": 320328,
-      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
-      "onboard_time": 1732875679,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214572,
       "num": 214572,
       "word": "丁禹兮看人深情是因为六百度近视",
@@ -865,6 +881,14 @@
       "onboard_time": 1732803320,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205346,
+      "num": 244431,
+      "word": "林俊杰 DNA音乐节",
+      "onboard_time": 1732875618,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 199865,
@@ -888,6 +912,14 @@
       "word": "留几手和节目组摄影师吵起来了",
       "onboard_time": 1732858340,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198841,
+      "num": 198841,
+      "word": "白鹿沈小婷互拍",
+      "onboard_time": 1732878200,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -931,14 +963,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 195408,
-      "num": 195408,
-      "word": "林俊杰 DNA音乐节",
-      "onboard_time": 1732875618,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193994,
       "num": 193994,
       "word": "张杰第一次平头",
@@ -953,6 +977,14 @@
       "onboard_time": 1732854922,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193385,
+      "num": 253777,
+      "word": "蛇年更适合四川体质的巳巳如意",
+      "onboard_time": 1732878619,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193231,
@@ -1179,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171960,
+      "num": 171960,
+      "word": "专家称男女公厕面积1比1不公平",
+      "onboard_time": 1732877421,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170915,
       "num": 170915,
       "word": "2024LPL全明星",
@@ -1355,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155008,
-      "num": 155008,
-      "word": "胃癌发现时大多是中晚期",
-      "onboard_time": 1732876878,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154870,
       "num": 154870,
       "word": "郑思维想回归家庭了",
@@ -1443,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148702,
+      "num": 148702,
+      "word": "国考考点",
+      "onboard_time": 1732876098,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148472,
       "num": 131445,
       "word": "麦琳全职妈妈带两娃的KPI被忽视",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1732861580,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 142072,
-      "num": 142072,
-      "word": "国考考点",
-      "onboard_time": 1732876098,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 139716,
@@ -1684,7 +1716,7 @@
     },
     {
       "raw_hot": 127714,
-      "num": 127714,
+      "num": 243528,
       "word": "Rookie说当初iG的人很好",
       "onboard_time": 1732876878,
       "rank": 46,
@@ -1761,6 +1793,14 @@
       "onboard_time": 1732859299,
       "rank": 44,
       "category": "舆论监督,时尚"
+    },
+    {
+      "raw_hot": 121881,
+      "num": 243280,
+      "word": "无限暖暖一起端上来",
+      "onboard_time": 1732878439,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 121753,
@@ -1867,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114877,
+      "num": 252188,
+      "word": "我是刑警12人命案凶手被抓",
+      "onboard_time": 1732878080,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114852,
       "num": 114852,
       "word": "礼兵轻扶烈士棺椁无声礼步护送",
@@ -1883,12 +1931,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113947,
+      "num": 242237,
+      "word": "大冰快手复播3天涨粉超250万",
+      "onboard_time": 1732879038,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 113221,
       "num": 220153,
       "word": "儿媳控告公婆未经允许在客厅安监控",
       "onboard_time": 1732867639,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112730,
+      "num": 112730,
+      "word": "迪丽热巴ELLE开年刊",
+      "onboard_time": 1732879158,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112357,
@@ -1907,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111202,
+      "num": 132000,
+      "word": "丁禹兮请客古乐风华录剧组",
+      "onboard_time": 1732877539,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109652,
       "num": 109652,
       "word": "顾客称胖东来羽绒服已卖断货",
@@ -1921,6 +1993,14 @@
       "onboard_time": 1732853239,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109235,
+      "num": 109235,
+      "word": "理记",
+      "onboard_time": 1732879098,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107814,
@@ -1963,11 +2043,27 @@
       "category": "美食,游戏"
     },
     {
+      "raw_hot": 103559,
+      "num": 249035,
+      "word": "卓沅签收来自后陡门的夕阳",
+      "onboard_time": 1732877238,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102167,
       "num": 102167,
       "word": "GimGoon回应Doinb队出局",
       "onboard_time": 1732802721,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 102161,
+      "num": 245743,
+      "word": "2024LOL冬季转会期",
+      "onboard_time": 1732878319,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -2755,6 +2851,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38075,
+      "num": 335521,
+      "word": "共享单车该不该收调度费",
+      "onboard_time": 1732878319,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 37785,
+      "num": 337040,
+      "word": "寒潮来袭三类重点人群要做好防护",
+      "onboard_time": 1732878259,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37763,
       "num": 248199,
       "word": "刘宇宁珠帘玉幕收官小作文",
@@ -2787,11 +2899,27 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 35589,
+      "num": 250202,
+      "word": "孔子何尝不是古代的孤勇者",
+      "onboard_time": 1732878138,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34908,
       "num": 249362,
       "word": "打进UFC的女中医石铭",
       "onboard_time": 1732856781,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34507,
+      "num": 241612,
+      "word": "实地探访广州无性别公厕",
+      "onboard_time": 1732878439,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2889,6 +3017,14 @@
       "onboard_time": 1732872920,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 27186,
+      "num": 251217,
+      "word": "2025年度国考笔试周末举行",
+      "onboard_time": 1732878738,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 27090,
