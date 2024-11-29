@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732879210232,
+  "endTime": 1732880166256,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -16027,6 +16027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519142,
+      "num": 519142,
+      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
+      "onboard_time": 1732875679,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519087,
       "num": 469497,
       "word": "姿态沉默下播",
@@ -17835,6 +17843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470203,
+      "num": 338131,
+      "word": "肖战糙汉文男主",
+      "onboard_time": 1732874719,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470066,
       "num": 578334,
       "word": "王艺迪vs陈幸同",
@@ -18280,14 +18296,6 @@
       "word": "重庆15岁女孩被母亲男友砍伤十多处",
       "onboard_time": 1731558744,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459489,
-      "num": 459489,
-      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
-      "onboard_time": 1732875679,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -22179,14 +22187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377253,
-      "num": 338131,
-      "word": "肖战糙汉文男主",
-      "onboard_time": 1732874719,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 377182,
       "num": 377182,
       "word": "恒欣引力",
@@ -23859,6 +23859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 346050,
+      "num": 239372,
+      "word": "胃癌发现时大多是中晚期",
+      "onboard_time": 1732876878,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 345885,
       "num": 429472,
       "word": "林一把和沈月的合照藏了三年",
@@ -25361,14 +25369,6 @@
       "onboard_time": 1730808801,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 320356,
-      "num": 239372,
-      "word": "胃癌发现时大多是中晚期",
-      "onboard_time": 1732876878,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 320296,
@@ -32595,12 +32595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240135,
+      "num": 244431,
+      "word": "林俊杰 DNA音乐节",
+      "onboard_time": 1732875618,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 240128,
       "num": 240128,
       "word": "数学竞赛违规学生百科介绍被多平台删除",
       "onboard_time": 1730614818,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240114,
+      "num": 253777,
+      "word": "蛇年更适合四川体质的巳巳如意",
+      "onboard_time": 1732878619,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240043,
@@ -37627,6 +37643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207448,
+      "num": 207448,
+      "word": "新疆棉",
+      "onboard_time": 1732879818,
+      "rank": 16,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 207447,
       "num": 207447,
       "word": "停狗处",
@@ -38225,14 +38249,6 @@
       "onboard_time": 1730612838,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205346,
-      "num": 244431,
-      "word": "林俊杰 DNA音乐节",
-      "onboard_time": 1732875618,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 205305,
@@ -41715,6 +41731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194295,
+      "num": 194295,
+      "word": "Irene出道初舞台",
+      "onboard_time": 1732879279,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194283,
       "num": 194283,
       "word": "37周孕妇摔倒开颅剖宫一起做",
@@ -42065,14 +42089,6 @@
       "onboard_time": 1730449339,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 193385,
-      "num": 253777,
-      "word": "蛇年更适合四川体质的巳巳如意",
-      "onboard_time": 1732878619,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193325,
@@ -46993,6 +47009,14 @@
       "onboard_time": 1730785820,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "迪丽热巴ELLE开年刊",
+      "onboard_time": 1732879158,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177055,
@@ -56787,6 +56811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147447,
+      "num": 147447,
+      "word": "女孩边充电边玩手机手脚被电肿了",
+      "onboard_time": 1732879757,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147436,
       "num": 147436,
       "word": "涵艺说WBG中路准备签Chovy",
@@ -57353,6 +57385,14 @@
       "onboard_time": 1730985382,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145808,
+      "num": 252188,
+      "word": "我是刑警12人命案凶手被抓",
+      "onboard_time": 1732878080,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 145795,
@@ -59539,6 +59579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139183,
+      "num": 139183,
+      "word": "理记",
+      "onboard_time": 1732879098,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "狗狗把自己的花生放到奶奶的花生堆",
@@ -61033,6 +61081,14 @@
       "onboard_time": 1732505358,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134258,
+      "num": 242237,
+      "word": "大冰快手复播3天涨粉超250万",
+      "onboard_time": 1732879038,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 134241,
@@ -64011,6 +64067,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 124962,
+      "num": 124962,
+      "word": "芒果又搞群像综艺了",
+      "onboard_time": 1732879698,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124949,
       "num": 314440,
       "word": "子期 做撒娇男人享幸福人生",
@@ -66939,6 +67003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115780,
+      "num": 115780,
+      "word": "田嘉瑞民国造型",
+      "onboard_time": 1732880057,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115776,
       "num": 189740,
       "word": "林一扫楼",
@@ -67225,14 +67297,6 @@
       "onboard_time": 1731553641,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114877,
-      "num": 252188,
-      "word": "我是刑警12人命案凶手被抓",
-      "onboard_time": 1732878080,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 114852,
@@ -67529,14 +67593,6 @@
       "onboard_time": 1731828379,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113947,
-      "num": 242237,
-      "word": "大冰快手复播3天涨粉超250万",
-      "onboard_time": 1732879038,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 113885,
@@ -67883,14 +67939,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 112730,
-      "num": 112730,
-      "word": "迪丽热巴ELLE开年刊",
-      "onboard_time": 1732879158,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 112727,
       "num": 112727,
       "word": "杨迪 王勉好像一只熏鸡",
@@ -68193,6 +68241,14 @@
       "onboard_time": 1732117039,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 111877,
+      "num": 111877,
+      "word": "鹭卓一阵冷一阵热的",
+      "onboard_time": 1732880119,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 111848,
@@ -68865,14 +68921,6 @@
       "onboard_time": 1732285880,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109235,
-      "num": 109235,
-      "word": "理记",
-      "onboard_time": 1732879098,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109186,
@@ -76731,6 +76779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71703,
+      "num": 117123,
+      "word": "腐乳有霉菌吃了致癌是真的吗",
+      "onboard_time": 1732877298,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71700,
       "num": 385873,
       "word": "白夜破晓热度破万",
@@ -81107,6 +81163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 54742,
+      "num": 335521,
+      "word": "共享单车该不该收调度费",
+      "onboard_time": 1732878319,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 54707,
       "num": 181465,
       "word": "烈士们的英名万古流芳",
@@ -83235,6 +83299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47987,
+      "num": 337040,
+      "word": "寒潮来袭三类重点人群要做好防护",
+      "onboard_time": 1732878259,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47964,
       "num": 47964,
       "word": "劣质羽绒服不能保暖还危害身体健康",
@@ -84771,6 +84843,14 @@
       "category": "剧集,电竞"
     },
     {
+      "raw_hot": 43457,
+      "num": 250202,
+      "word": "孔子何尝不是古代的孤勇者",
+      "onboard_time": 1732878138,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 43390,
       "num": 193002,
       "word": "梁代文好多星星啊",
@@ -84889,6 +84969,14 @@
       "onboard_time": 1731238399,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43051,
+      "num": 241612,
+      "word": "实地探访广州无性别公厕",
+      "onboard_time": 1732878439,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43033,
@@ -86803,14 +86891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 38075,
-      "num": 335521,
-      "word": "共享单车该不该收调度费",
-      "onboard_time": 1732878319,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 38049,
       "num": 239689,
       "word": "郑钦文谈萨巴伦卡今年表现",
@@ -86921,14 +87001,6 @@
       "onboard_time": 1732468634,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37785,
-      "num": 337040,
-      "word": "寒潮来袭三类重点人群要做好防护",
-      "onboard_time": 1732878259,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37779,
@@ -87875,14 +87947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35589,
-      "num": 250202,
-      "word": "孔子何尝不是古代的孤勇者",
-      "onboard_time": 1732878138,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 35563,
       "num": 76507,
       "word": "王曼昱说这场比赛赢得很不容易",
@@ -88289,14 +88353,6 @@
       "onboard_time": 1732109481,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 34507,
-      "num": 241612,
-      "word": "实地探访广州无性别公厕",
-      "onboard_time": 1732878439,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34502,
@@ -94241,6 +94297,14 @@
       "onboard_time": 1731785652,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22630,
+      "num": 165256,
+      "word": "下个月就可以看雅思组合打比赛了",
+      "onboard_time": 1732880057,
+      "rank": 24,
+      "category": "体育,运动健身"
     },
     {
       "raw_hot": 22610,

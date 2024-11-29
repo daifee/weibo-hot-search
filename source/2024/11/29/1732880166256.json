@@ -1,0 +1,410 @@
+{
+  "runTime": 1732880166256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590487,
+        "num": 1590487,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 910860,
+        "num": 910860,
+        "word": "安以轩得知老公被判13年后很伤心",
+        "onboard_time": 1732874000,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46715,
+        "num": 764396,
+        "word": "第11批志愿军烈士安葬祭文",
+        "onboard_time": 1732870879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674673,
+        "num": 674673,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519142,
+        "num": 519142,
+        "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
+        "onboard_time": 1732875679,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418427,
+        "num": 418427,
+        "word": "印政府还在用被封杀4年的中国APP",
+        "onboard_time": 1732868779,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297618,
+        "num": 297618,
+        "word": "蛇年春晚标识有什么寓意",
+        "onboard_time": 1732866798,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260255,
+        "num": 260255,
+        "word": "新疆棉是世界最好棉花之一",
+        "onboard_time": 1732870520,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253137,
+        "num": 253137,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245184,
+        "num": 245184,
+        "word": "巴黎世家售出8天后要顾客补1147元",
+        "onboard_time": 1732865898,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 470203,
+        "num": 242922,
+        "word": "肖战糙汉文男主",
+        "onboard_time": 1732874719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352787,
+        "num": 241884,
+        "word": "鹿晗好拽",
+        "onboard_time": 1732863380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240135,
+        "num": 240135,
+        "word": "林俊杰 DNA音乐节",
+        "onboard_time": 1732875618,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54742,
+        "num": 240122,
+        "word": "共享单车该不该收调度费",
+        "onboard_time": 1732878319,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 240114,
+        "num": 240114,
+        "word": "蛇年更适合四川体质的巳巳如意",
+        "onboard_time": 1732878619,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234005,
+        "num": 234005,
+        "word": "孙颖莎训练手抡出残影",
+        "onboard_time": 1732875679,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207448,
+        "num": 207448,
+        "word": "新疆棉",
+        "onboard_time": 1732879818,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 194295,
+        "num": 194295,
+        "word": "Irene出道初舞台",
+        "onboard_time": 1732879279,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177063,
+        "num": 177063,
+        "word": "迪丽热巴ELLE开年刊",
+        "onboard_time": 1732879158,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175926,
+        "num": 175926,
+        "word": "中国版恋爱兄妹定档",
+        "onboard_time": 1732876339,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1089556,
+        "num": 173645,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546615,
+        "num": 171195,
+        "word": "周密 周芯竹",
+        "onboard_time": 1732875379,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47987,
+        "num": 170786,
+        "word": "寒潮来袭三类重点人群要做好防护",
+        "onboard_time": 1732878259,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502759,
+        "num": 167133,
+        "word": "鹿晗高瀚宇逛街被偶遇",
+        "onboard_time": 1732874779,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22630,
+        "num": 165256,
+        "word": "下个月就可以看雅思组合打比赛了",
+        "onboard_time": 1732880057,
+        "rank": 24,
+        "category": "体育,运动健身"
+      },
+      {
+        "raw_hot": 346050,
+        "num": 162161,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1732876878,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302168,
+        "num": 159586,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 26,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 256583,
+        "num": 159001,
+        "word": "fromis9解散",
+        "onboard_time": 1732873219,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207788,
+        "num": 155250,
+        "word": "马云现身阿里巴巴园区",
+        "onboard_time": 1732872679,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43051,
+        "num": 152364,
+        "word": "实地探访广州无性别公厕",
+        "onboard_time": 1732878439,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182428,
+        "num": 151425,
+        "word": "访台清华女生被台媒赞神仙妹妹",
+        "onboard_time": 1732874421,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149503,
+        "num": 149503,
+        "word": "南方人在东北雪天撑伞看呆当地人",
+        "onboard_time": 1732877840,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147447,
+        "num": 147447,
+        "word": "女孩边充电边玩手机手脚被电肿了",
+        "onboard_time": 1732879757,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145808,
+        "num": 145808,
+        "word": "我是刑警12人命案凶手被抓",
+        "onboard_time": 1732878080,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140005,
+        "num": 140005,
+        "word": "白鹿沈小婷互拍",
+        "onboard_time": 1732878200,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139183,
+        "num": 139183,
+        "word": "理记",
+        "onboard_time": 1732879098,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134258,
+        "num": 134258,
+        "word": "大冰快手复播3天涨粉超250万",
+        "onboard_time": 1732879038,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21385,
+        "num": 132294,
+        "word": "ACT对战Gr",
+        "onboard_time": 1732876519,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131251,
+        "num": 131251,
+        "word": "专家称男女公厕面积1比1不公平",
+        "onboard_time": 1732877421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43457,
+        "num": 130850,
+        "word": "孔子何尝不是古代的孤勇者",
+        "onboard_time": 1732878138,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 130476,
+        "num": 130476,
+        "word": "林志玲晒亲子照",
+        "onboard_time": 1732871300,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124962,
+        "num": 124962,
+        "word": "芒果又搞群像综艺了",
+        "onboard_time": 1732879698,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95096,
+        "num": 124881,
+        "word": "Rookie说当初iG的人很好",
+        "onboard_time": 1732876878,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124857,
+        "num": 124857,
+        "word": "中国游客在马尔代夫潜水遭鲨鱼咬头",
+        "onboard_time": 1732866379,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118779,
+        "num": 118779,
+        "word": "祝绪丹 虞书欣丁禹兮的cp保安",
+        "onboard_time": 1732873879,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71703,
+        "num": 117123,
+        "word": "腐乳有霉菌吃了致癌是真的吗",
+        "onboard_time": 1732877298,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115780,
+        "num": 115780,
+        "word": "田嘉瑞民国造型",
+        "onboard_time": 1732880057,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114976,
+        "num": 114976,
+        "word": "安以轩老公被判处13年有期徒刑",
+        "onboard_time": 1732870039,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111877,
+        "num": 111877,
+        "word": "鹭卓一阵冷一阵热的",
+        "onboard_time": 1732880119,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111503,
+        "num": 111503,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根中国大地赓续中华文脉厚植学术根基#"
+    }
+  }
+}
