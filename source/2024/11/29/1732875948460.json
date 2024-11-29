@@ -1,0 +1,410 @@
+{
+  "runTime": 1732875948460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1811933,
+        "num": 1811933,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1006799,
+        "num": 1006799,
+        "word": "安以轩老公被判处13年有期徒刑",
+        "onboard_time": 1732870039,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69317,
+        "num": 943678,
+        "word": "第11批志愿军烈士安葬祭文",
+        "onboard_time": 1732870879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 929325,
+        "num": 929325,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588647,
+        "num": 588647,
+        "word": "印政府还在用被封杀4年的中国APP",
+        "onboard_time": 1732868779,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324495,
+        "num": 324495,
+        "word": "巴黎世家售出8天后要顾客补1147元",
+        "onboard_time": 1732865898,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 463839,
+        "num": 323247,
+        "word": "fromis9解散",
+        "onboard_time": 1732873219,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767351,
+        "num": 322548,
+        "word": "鹿晗高瀚宇逛街被偶遇",
+        "onboard_time": 1732874779,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85355,
+        "num": 320328,
+        "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
+        "onboard_time": 1732875679,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30640,
+        "num": 319118,
+        "word": "警察枪击案重申正当防卫如何认定",
+        "onboard_time": 1732874659,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 858699,
+        "num": 317664,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402294,
+        "num": 316674,
+        "word": "蛇年春晚标识有什么寓意",
+        "onboard_time": 1732866798,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371595,
+        "num": 315702,
+        "word": "安以轩得知老公被判13年后很伤心",
+        "onboard_time": 1732874000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574050,
+        "num": 314488,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 13,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 32324,
+        "num": 312604,
+        "word": "官方介入食品公司疑卖腐败冻肉",
+        "onboard_time": 1732874659,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273176,
+        "num": 311291,
+        "word": "肖战糙汉文男主",
+        "onboard_time": 1732874719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77455,
+        "num": 309288,
+        "word": "白夜2是一场巨大的callback",
+        "onboard_time": 1732874421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26708,
+        "num": 309036,
+        "word": "iQOONeo10价格",
+        "onboard_time": 1732873700,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86488,
+        "num": 306838,
+        "word": "孙颖莎训练手抡出残影",
+        "onboard_time": 1732875679,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 305559,
+        "word": "iQOONeo10打游戏包稳的",
+        "onboard_time": 1732872920,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 479075,
+        "num": 303811,
+        "word": "鹿晗好拽",
+        "onboard_time": 1732863380,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303448,
+        "num": 303448,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294752,
+        "num": 294752,
+        "word": "新疆棉是世界最好棉花之一",
+        "onboard_time": 1732870520,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 493555,
+        "num": 294118,
+        "word": "马云现身阿里巴巴园区",
+        "onboard_time": 1732872679,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45400,
+        "num": 255430,
+        "word": "雅思组合告别国际赛场",
+        "onboard_time": 1732875800,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314193,
+        "num": 253141,
+        "word": "林志玲晒亲子照",
+        "onboard_time": 1732871300,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243112,
+        "num": 243112,
+        "word": "周密 周芯竹",
+        "onboard_time": 1732875379,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242809,
+        "num": 242809,
+        "word": "访台清华女生被台媒赞神仙妹妹",
+        "onboard_time": 1732874421,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223464,
+        "num": 223464,
+        "word": "韩国人的精致穷",
+        "onboard_time": 1732864819,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206240,
+        "num": 206240,
+        "word": "导致胃癌的6个高危因素",
+        "onboard_time": 1732868000,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199865,
+        "num": 199865,
+        "word": "无限暖暖",
+        "onboard_time": 1732874481,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235334,
+        "num": 199842,
+        "word": "周密把周芯竹买话筒的钱转给她了",
+        "onboard_time": 1732868839,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196103,
+        "num": 196103,
+        "word": "丞磊高瀚宇出演张真源新歌MV",
+        "onboard_time": 1732875020,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39110,
+        "num": 189681,
+        "word": "我是刑警口碑",
+        "onboard_time": 1732874119,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138557,
+        "num": 188723,
+        "word": "关晓彤猜猜我吃了几份香菜沙拉",
+        "onboard_time": 1732875559,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188615,
+        "num": 188615,
+        "word": "中国游客在马尔代夫潜水遭鲨鱼咬头",
+        "onboard_time": 1732866379,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "春晚官博回复檀健次春晚相关",
+        "onboard_time": 1732867339,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180929,
+        "num": 180929,
+        "word": "祝绪丹 虞书欣丁禹兮的cp保安",
+        "onboard_time": 1732873879,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158488,
+        "num": 158488,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156029,
+        "num": 156029,
+        "word": "樊振东回上海交大啦",
+        "onboard_time": 1732872799,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155805,
+        "num": 155805,
+        "word": "声生不息等了卫兰三年",
+        "onboard_time": 1732873940,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152077,
+        "num": 152077,
+        "word": "杨紫 家业路透",
+        "onboard_time": 1732870760,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61117,
+        "num": 150287,
+        "word": "逆水寒",
+        "onboard_time": 1732870461,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149530,
+        "num": 149530,
+        "word": "油腻的小学生作文究竟是谁的错",
+        "onboard_time": 1732871119,
+        "rank": 43,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 148175,
+        "num": 148175,
+        "word": "林俊杰 DNA音乐节",
+        "onboard_time": 1732875618,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139057,
+        "num": 139057,
+        "word": "迪丽热巴ELLE2025开年刊封面预告",
+        "onboard_time": 1732872200,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 136500,
+        "num": 136500,
+        "word": "王楚钦林诗栋赛前对练",
+        "onboard_time": 1732871899,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135376,
+        "num": 135376,
+        "word": "5天拍完一个恋综",
+        "onboard_time": 1732875259,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135199,
+        "num": 135199,
+        "word": "再见爱人4第七期视频没了",
+        "onboard_time": 1732864639,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132433,
+        "num": 132433,
+        "word": "女子在中医诊所遭性侵医生被刑拘",
+        "onboard_time": 1732868659,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根中国大地赓续中华文脉厚植学术根基#"
+    }
+  }
+}

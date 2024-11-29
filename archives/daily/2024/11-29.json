@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732873198695,
+  "endTime": 1732875948460,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1083410,
-      "num": 331464,
+      "num": 929325,
       "word": "我是刑警 打码",
       "onboard_time": 1732871180,
       "rank": 31,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 858699,
+      "num": 317664,
+      "word": "周密 格局",
+      "onboard_time": 1732873159,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809099,
       "num": 293225,
       "word": "杨子翻脸",
@@ -185,6 +193,14 @@
       "onboard_time": 1732847060,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767351,
+      "num": 322548,
+      "word": "鹿晗高瀚宇逛街被偶遇",
+      "onboard_time": 1732874779,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 749109,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493555,
+      "num": 294118,
+      "word": "马云现身阿里巴巴园区",
+      "onboard_time": 1732872679,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 489849,
       "num": 388480,
       "word": "黄雅琼回应郑思维退出国际赛场",
@@ -313,6 +337,14 @@
       "onboard_time": 1732831271,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463839,
+      "num": 323247,
+      "word": "fromis9解散",
+      "onboard_time": 1732873219,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 461114,
@@ -443,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371595,
+      "num": 315702,
+      "word": "安以轩得知老公被判13年后很伤心",
+      "onboard_time": 1732874000,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350892,
       "num": 350892,
       "word": "王源受刑镜头",
@@ -523,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303448,
+      "num": 303448,
+      "word": "关晓彤迪拜vlog",
+      "onboard_time": 1732872920,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299983,
       "num": 299983,
       "word": "孙艺珍为2岁儿子庆生",
@@ -576,6 +624,14 @@
       "word": "林一长沙活动取消",
       "onboard_time": 1732864819,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273176,
+      "num": 311291,
+      "word": "肖战糙汉文男主",
+      "onboard_time": 1732874719,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -675,6 +731,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 243112,
+      "num": 243112,
+      "word": "周密 周芯竹",
+      "onboard_time": 1732875379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242809,
+      "num": 242809,
+      "word": "访台清华女生被台媒赞神仙妹妹",
+      "onboard_time": 1732874421,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242467,
       "num": 242467,
       "word": "卢昱晓看预告片才知道不是自己声音",
@@ -771,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199865,
+      "num": 199865,
+      "word": "无限暖暖",
+      "onboard_time": 1732874481,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198918,
       "num": 198918,
       "word": "闪耀的恒星",
@@ -793,6 +873,14 @@
       "onboard_time": 1732849039,
       "rank": 49,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 196103,
+      "num": 196103,
+      "word": "丞磊高瀚宇出演张真源新歌MV",
+      "onboard_time": 1732875020,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 195833,
@@ -963,19 +1051,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180929,
+      "num": 180929,
+      "word": "祝绪丹 虞书欣丁禹兮的cp保安",
+      "onboard_time": 1732873879,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180894,
       "num": 180894,
       "word": "NewJeans解约发布会后首现身",
       "onboard_time": 1732863560,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 180698,
-      "num": 180698,
-      "word": "关晓彤迪拜vlog",
-      "onboard_time": 1732872920,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1211,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155805,
+      "num": 155805,
+      "word": "声生不息等了卫兰三年",
+      "onboard_time": 1732873940,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154870,
       "num": 154870,
       "word": "郑思维想回归家庭了",
@@ -1299,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148175,
+      "num": 148175,
+      "word": "林俊杰 DNA音乐节",
+      "onboard_time": 1732875618,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147810,
       "num": 147810,
       "word": "闪耀的恒星现世重逢海报",
@@ -1347,12 +1451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139057,
+      "num": 228218,
+      "word": "迪丽热巴ELLE2025开年刊封面预告",
+      "onboard_time": 1732872200,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 138845,
       "num": 138845,
       "word": "WBG官宣Crisp离队",
       "onboard_time": 1732863319,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138557,
+      "num": 188723,
+      "word": "关晓彤猜猜我吃了几份香菜沙拉",
+      "onboard_time": 1732875559,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 137334,
@@ -1393,6 +1513,14 @@
       "onboard_time": 1732802421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135376,
+      "num": 135376,
+      "word": "5天拍完一个恋综",
+      "onboard_time": 1732875259,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 134573,
@@ -1499,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127212,
-      "num": 228218,
-      "word": "迪丽热巴ELLE2025开年刊封面预告",
-      "onboard_time": 1732872200,
-      "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 127129,
       "num": 127129,
       "word": "侵华日军日记描述南京尸体如山",
@@ -1561,14 +1681,6 @@
       "onboard_time": 1732869739,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123538,
-      "num": 123538,
-      "word": "马云现身阿里巴巴园区",
-      "onboard_time": 1732872679,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 123506,
@@ -1713,14 +1825,6 @@
       "onboard_time": 1732867639,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112571,
-      "num": 112571,
-      "word": "周密 格局",
-      "onboard_time": 1732873159,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 112357,
@@ -1899,12 +2003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86488,
+      "num": 306838,
+      "word": "孙颖莎训练手抡出残影",
+      "onboard_time": 1732875679,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85697,
       "num": 411957,
       "word": "A股三大指数11月收红",
       "onboard_time": 1732869258,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 85355,
+      "num": 320328,
+      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
+      "onboard_time": 1732875679,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83482,
@@ -2017,6 +2137,14 @@
       "onboard_time": 1732806020,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 77455,
+      "num": 309288,
+      "word": "白夜2是一场巨大的callback",
+      "onboard_time": 1732874421,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 77091,
@@ -2139,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69317,
+      "num": 1146466,
+      "word": "第11批志愿军烈士安葬祭文",
+      "onboard_time": 1732870879,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69184,
       "num": 1177144,
       "word": "43位志愿军烈士遗骸今日安葬",
@@ -2185,14 +2321,6 @@
       "onboard_time": 1732790179,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65436,
-      "num": 1146466,
-      "word": "第11批志愿军烈士安葬祭文",
-      "onboard_time": 1732870879,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65300,
@@ -2459,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45400,
+      "num": 255430,
+      "word": "雅思组合告别国际赛场",
+      "onboard_time": 1732875800,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45312,
       "num": 45312,
       "word": "一名在美潜逃多年逃犯被遣返回国",
@@ -2513,6 +2649,14 @@
       "onboard_time": 1732851320,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39110,
+      "num": 189681,
+      "word": "我是刑警口碑",
+      "onboard_time": 1732874119,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 38693,
@@ -2611,6 +2755,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 32324,
+      "num": 312604,
+      "word": "官方介入食品公司疑卖腐败冻肉",
+      "onboard_time": 1732874659,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32197,
       "num": 131747,
       "word": "侯明昊无处安放的手",
@@ -2643,8 +2795,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30640,
+      "num": 319118,
+      "word": "警察枪击案重申正当防卫如何认定",
+      "onboard_time": 1732874659,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 29312,
-      "num": 152376,
+      "num": 305559,
       "word": "iQOONeo10打游戏包稳的",
       "onboard_time": 1732872920,
       "rank": 38,
@@ -2665,6 +2825,14 @@
       "onboard_time": 1732871180,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26708,
+      "num": 309036,
+      "word": "iQOONeo10价格",
+      "onboard_time": 1732873700,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 25922,
