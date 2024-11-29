@@ -1,10 +1,10 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732852184176,
+  "endTime": 1732854538338,
   "band_list": [
     {
       "raw_hot": 3077197,
-      "num": 1999453,
+      "num": 2007123,
       "word": "鹿晗 反正李秀满已经走了",
       "onboard_time": 1732842138,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1347272,
+      "num": 1064966,
+      "word": "中国是优衣库最大生产基地",
+      "onboard_time": 1732842079,
+      "rank": 3,
+      "category": "舆论监督,时尚"
+    },
+    {
       "raw_hot": 1123960,
       "num": 1175443,
       "word": "老师向家长借60多万买房还钱困难",
@@ -49,14 +57,6 @@
       "onboard_time": 1732808599,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1064966,
-      "num": 1064966,
-      "word": "中国是优衣库最大生产基地",
-      "onboard_time": 1732842079,
-      "rank": 3,
-      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 972526,
@@ -91,11 +91,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 787341,
+      "num": 289037,
+      "word": "王楠女儿落选国乒少年集训队",
+      "onboard_time": 1732853239,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772935,
       "num": 1123669,
       "word": "再见爱人疑似补录",
       "onboard_time": 1732847060,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 749109,
+      "num": 657154,
+      "word": "2025总台春晚主题主标识发布",
+      "onboard_time": 1732853000,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1732846879,
       "rank": 3,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 424496,
+      "num": 424496,
+      "word": "世上最珍贵的伞被找回来了",
+      "onboard_time": 1732841659,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 350892,
@@ -347,12 +371,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217354,
+      "num": 375581,
+      "word": "为母亲遭遇网课入侵寻求公正的女儿",
+      "onboard_time": 1732848259,
+      "rank": 27,
+      "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 216785,
+      "num": 216785,
+      "word": "芒果主持 新嘴就是好用",
+      "onboard_time": 1732851620,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209278,
       "num": 209278,
       "word": "东北女生在南方被冻到怀疑人生",
       "onboard_time": 1732803320,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206517,
+      "num": 150681,
+      "word": "中国国家队回应郑思维退出国际赛场",
+      "onboard_time": 1732853420,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199762,
+      "num": 199762,
+      "word": "普京称若乌获核武俄将全力打击",
+      "onboard_time": 1732853901,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196770,
@@ -363,12 +419,12 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 196034,
-      "num": 196034,
-      "word": "芒果主持 新嘴就是好用",
-      "onboard_time": 1732851620,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 195688,
+      "num": 195688,
+      "word": "王一博白色毛领牛仔装",
+      "onboard_time": 1732854500,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192022,
@@ -404,7 +460,7 @@
     },
     {
       "raw_hot": 186208,
-      "num": 186208,
+      "num": 225445,
       "word": "ADOR长文回复NewJeans",
       "onboard_time": 1732851020,
       "rank": 23,
@@ -443,6 +499,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 172942,
+      "num": 172942,
+      "word": "贺峻霖 眼里有活",
+      "onboard_time": 1732852220,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170915,
       "num": 170915,
       "word": "2024LPL全明星",
@@ -473,14 +537,6 @@
       "onboard_time": 1732851140,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166034,
-      "num": 166034,
-      "word": "世上最珍贵的伞被找回来了",
-      "onboard_time": 1732841659,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 163905,
@@ -547,19 +603,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148689,
-      "num": 375581,
-      "word": "为母亲遭遇网课入侵寻求公正的女儿",
-      "onboard_time": 1732848259,
-      "rank": 27,
-      "category": "民生新闻,舆论监督"
-    },
-    {
       "raw_hot": 148472,
       "num": 131445,
       "word": "麦琳全职妈妈带两娃的KPI被忽视",
       "onboard_time": 1732808897,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147810,
+      "num": 147810,
+      "word": "闪耀的恒星现世重逢海报",
+      "onboard_time": 1732853420,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -643,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123918,
+      "num": 151821,
+      "word": "易烊千玺眼前池灯",
+      "onboard_time": 1732854141,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 123506,
       "num": 269263,
       "word": "鹤岗暴雪27人被困深山民警徒步救出",
       "onboard_time": 1732845558,
       "rank": 14,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 120441,
+      "num": 120441,
+      "word": "持棍打死校园流浪狗安保人员被解聘",
+      "onboard_time": 1732842079,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 120369,
@@ -667,12 +739,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119010,
+      "num": 176303,
+      "word": "决胜巅峰不赚钱了",
+      "onboard_time": 1732853239,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114954,
       "num": 114954,
       "word": "澳大利亚通过法案16岁以下禁用社媒",
       "onboard_time": 1732845498,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114852,
+      "num": 114852,
+      "word": "礼兵轻扶烈士棺椁无声礼步护送",
+      "onboard_time": 1732853239,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114038,
@@ -683,20 +771,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113619,
-      "num": 113619,
-      "word": "持棍打死校园流浪狗安保人员被解聘",
-      "onboard_time": 1732842079,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 112199,
       "num": 112199,
       "word": "胖东来每件羽绒服都标有进货价",
       "onboard_time": 1732790060,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109371,
+      "num": 134034,
+      "word": "汪苏泷人在线状态在家",
+      "onboard_time": 1732853239,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 107814,
@@ -761,6 +849,14 @@
       "onboard_time": 1732849458,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 96789,
+      "num": 307345,
+      "word": "礼兵无声的礼步护送志愿军烈士棺椁",
+      "onboard_time": 1732853000,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 96198,
@@ -995,20 +1091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65761,
+      "num": 1177144,
+      "word": "43位志愿军烈士遗骸今日安葬",
+      "onboard_time": 1732850540,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65300,
       "num": 236677,
       "word": "网约护士为什么叫好不叫座",
       "onboard_time": 1732848739,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64833,
-      "num": 1177144,
-      "word": "43位志愿军烈士遗骸今日安葬",
-      "onboard_time": 1732850540,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64790,
@@ -1033,6 +1129,14 @@
       "onboard_time": 1732804101,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63163,
+      "num": 259054,
+      "word": "警惕云养牛非法集资陷阱",
+      "onboard_time": 1732853301,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 61828,
@@ -1099,6 +1203,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 55873,
+      "num": 197669,
+      "word": "哈利波特全八部重映中",
+      "onboard_time": 1732853301,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54116,
       "num": 54116,
       "word": "苏翊鸣本周末再次亮相雪飞天",
@@ -1136,6 +1248,14 @@
       "word": "一名在美潜逃多年逃犯被遣返回国",
       "onboard_time": 1732822090,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44869,
+      "num": 216879,
+      "word": "原拆原建有小区拖了七年仍未成功",
+      "onboard_time": 1732853479,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
