@@ -1,0 +1,410 @@
+{
+  "runTime": 1732887803458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275802,
+        "num": 1275802,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1018192,
+        "num": 1018192,
+        "word": "女子取款5000元银行要求丈夫到场",
+        "onboard_time": 1732882878,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26735,
+        "num": 913796,
+        "word": "链博会上的环环相链",
+        "onboard_time": 1732884139,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 838639,
+        "num": 838639,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 830413,
+        "num": 830413,
+        "word": "周芯竹回复粉丝",
+        "onboard_time": 1732885578,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824367,
+        "num": 824367,
+        "word": "鹿哈给鹿晗刷礼物成为榜一",
+        "onboard_time": 1732882639,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719105,
+        "num": 719105,
+        "word": "新疆棉花不容优衣库玷污",
+        "onboard_time": 1732883719,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578100,
+        "num": 578100,
+        "word": "平阴县政府卖天30年9.24亿",
+        "onboard_time": 1732883119,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 537634,
+        "num": 537634,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174169,
+        "num": 488238,
+        "word": "城市风华录定档",
+        "onboard_time": 1732885219,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 463691,
+        "num": 463691,
+        "word": "孙杨称陪豆豆的时间太少了",
+        "onboard_time": 1732884379,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349142,
+        "num": 349142,
+        "word": "虞书欣 谢谢你啊慕声儿",
+        "onboard_time": 1732882278,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316672,
+        "num": 316672,
+        "word": "2024尖叫之夜第二波阵容",
+        "onboard_time": 1732885279,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302391,
+        "num": 302391,
+        "word": "幼儿园为羊驼办婚礼份子钱30元起步",
+        "onboard_time": 1732880238,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 277812,
+        "num": 277812,
+        "word": "汤唯和老公青龙红毯",
+        "onboard_time": 1732883538,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226180,
+        "num": 226180,
+        "word": "浙江知名45岁胸外科主任因车祸去世",
+        "onboard_time": 1732887261,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225488,
+        "num": 225488,
+        "word": "成都混团世界杯中国队阵容",
+        "onboard_time": 1732884259,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148317,
+        "num": 224049,
+        "word": "婚内婚外 余华语录具像化",
+        "onboard_time": 1732886779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115589,
+        "num": 223299,
+        "word": "胡茬版肖战",
+        "onboard_time": 1732885699,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24792,
+        "num": 222321,
+        "word": "无限暖暖开服送126抽",
+        "onboard_time": 1732884739,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 611097,
+        "num": 220334,
+        "word": "安以轩得知老公被判13年后很伤心",
+        "onboard_time": 1732874000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567707,
+        "num": 217948,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1732883357,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358097,
+        "num": 217539,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310146,
+        "num": 214976,
+        "word": "王一珩直播回应恋情",
+        "onboard_time": 1732881858,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98726,
+        "num": 214249,
+        "word": "QQ飞车",
+        "onboard_time": 1732886839,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275267,
+        "num": 212466,
+        "word": "周密 周芯竹",
+        "onboard_time": 1732875379,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259151,
+        "num": 211057,
+        "word": "女孩边充电边玩手机手脚被电肿了",
+        "onboard_time": 1732879757,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243813,
+        "num": 210067,
+        "word": "鹿晗晒爱心纹身",
+        "onboard_time": 1732883479,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208660,
+        "num": 208660,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192289,
+        "num": 192289,
+        "word": "现在拨打的电话",
+        "onboard_time": 1732883898,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169213,
+        "num": 169213,
+        "word": "印政府还在用被封杀4年的中国APP",
+        "onboard_time": 1732868779,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159327,
+        "num": 159327,
+        "word": "汤唯青龙奖红毯",
+        "onboard_time": 1732883779,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154908,
+        "num": 154908,
+        "word": "Doinb金贡海底捞局",
+        "onboard_time": 1732886420,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151118,
+        "num": 151118,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 33,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 75199,
+        "num": 150405,
+        "word": "网购千元护肤品包装只有保鲜膜",
+        "onboard_time": 1732885699,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150365,
+        "num": 150365,
+        "word": "马英九与马龙打乒乓球",
+        "onboard_time": 1732886420,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147658,
+        "num": 147658,
+        "word": "蛇年春晚标识有什么寓意",
+        "onboard_time": 1732866798,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137982,
+        "num": 137982,
+        "word": "新疆棉是世界最好棉花之一",
+        "onboard_time": 1732870520,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137478,
+        "num": 137478,
+        "word": "一男子疑因吃驴打滚窒息身亡",
+        "onboard_time": 1732887319,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133435,
+        "num": 133435,
+        "word": "解救女孩司机获永久免除挂靠管理费",
+        "onboard_time": 1732887380,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133405,
+        "num": 133405,
+        "word": "丁禹兮请客请到隔壁剧组",
+        "onboard_time": 1732886719,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128803,
+        "num": 128803,
+        "word": "时代少年团周边",
+        "onboard_time": 1732883418,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120849,
+        "num": 120849,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119122,
+        "num": 119122,
+        "word": "中医标准人体身高一米七二",
+        "onboard_time": 1732884739,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107417,
+        "num": 107417,
+        "word": "fromis9解散",
+        "onboard_time": 1732873219,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105435,
+        "num": 105435,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1732876878,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104334,
+        "num": 104334,
+        "word": "TES官宣crisp加入",
+        "onboard_time": 1732881619,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97862,
+        "num": 97862,
+        "word": "赵露思登美趋",
+        "onboard_time": 1732880718,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96642,
+        "num": 96642,
+        "word": "赵一博结束一天功课",
+        "onboard_time": 1732884919,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92963,
+        "num": 92963,
+        "word": "第45届青龙电影奖",
+        "onboard_time": 1732881678,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建中国哲学社会科学自主知识体系#"
+    }
+  }
+}
