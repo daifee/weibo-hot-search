@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732875948460,
+  "endTime": 1732877035018,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -107,6 +107,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1060413,
+      "num": 317664,
+      "word": "周密 格局",
+      "onboard_time": 1732873159,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1029623,
       "num": 1029623,
       "word": "17名男女KTV聚众吸毒被一锅端",
@@ -161,14 +169,6 @@
       "onboard_time": 1732867339,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 858699,
-      "num": 317664,
-      "word": "周密 格局",
-      "onboard_time": 1732873159,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 809099,
@@ -233,6 +233,14 @@
       "onboard_time": 1732845498,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 711754,
+      "num": 315702,
+      "word": "安以轩得知老公被判13年后很伤心",
+      "onboard_time": 1732874000,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 708567,
@@ -435,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 424254,
+      "num": 300787,
+      "word": "周密 周芯竹",
+      "onboard_time": 1732875379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419810,
       "num": 275942,
       "word": "中国游客在马尔代夫潜水遭鲨鱼咬头",
@@ -473,14 +489,6 @@
       "onboard_time": 1732864639,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371595,
-      "num": 315702,
-      "word": "安以轩得知老公被判13年后很伤心",
-      "onboard_time": 1732874000,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 350892,
@@ -587,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290777,
+      "num": 311291,
+      "word": "肖战糙汉文男主",
+      "onboard_time": 1732874719,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281375,
       "num": 214953,
       "word": "梅艳芳 拜拜",
@@ -624,14 +640,6 @@
       "word": "林一长沙活动取消",
       "onboard_time": 1732864819,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 273176,
-      "num": 311291,
-      "word": "肖战糙汉文男主",
-      "onboard_time": 1732874719,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -731,14 +739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 243112,
-      "num": 243112,
-      "word": "周密 周芯竹",
-      "onboard_time": 1732875379,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242809,
       "num": 242809,
       "word": "访台清华女生被台媒赞神仙妹妹",
@@ -769,6 +769,14 @@
       "onboard_time": 1732844298,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229124,
+      "num": 306838,
+      "word": "孙颖莎训练手抡出残影",
+      "onboard_time": 1732875679,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 225725,
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219783,
+      "num": 219783,
+      "word": "中国版恋爱兄妹定档",
+      "onboard_time": 1732876339,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217354,
       "num": 375581,
       "word": "为母亲遭遇网课入侵寻求公正的女儿",
@@ -825,6 +841,14 @@
       "onboard_time": 1732851620,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215359,
+      "num": 320328,
+      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
+      "onboard_time": 1732875679,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214572,
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 199865,
-      "num": 199865,
+      "num": 251677,
       "word": "无限暖暖",
       "onboard_time": 1732874481,
       "rank": 30,
@@ -864,6 +888,14 @@
       "word": "留几手和节目组摄影师吵起来了",
       "onboard_time": 1732858340,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198535,
+      "num": 198535,
+      "word": "祝绪丹 虞书欣丁禹兮的cp保安",
+      "onboard_time": 1732873879,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -897,6 +929,14 @@
       "onboard_time": 1732854500,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195408,
+      "num": 195408,
+      "word": "林俊杰 DNA音乐节",
+      "onboard_time": 1732875618,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 193994,
@@ -987,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190212,
+      "num": 233470,
+      "word": "迪丽热巴勇敢地敞开心扉",
+      "onboard_time": 1732876159,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 188284,
       "num": 188284,
       "word": "NewJeansneverdies",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1732862600,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180929,
-      "num": 180929,
-      "word": "祝绪丹 虞书欣丁禹兮的cp保安",
-      "onboard_time": 1732873879,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 180894,
@@ -1163,6 +1203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170245,
+      "num": 170245,
+      "word": "声生不息等了卫兰三年",
+      "onboard_time": 1732873940,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170043,
       "num": 205164,
       "word": "越检察官告知女首富交钱免死",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1732824071,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162895,
+      "num": 309288,
+      "word": "白夜2是一场巨大的callback",
+      "onboard_time": 1732874421,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 161806,
@@ -1299,12 +1355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155805,
-      "num": 155805,
-      "word": "声生不息等了卫兰三年",
-      "onboard_time": 1732873940,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 155008,
+      "num": 155008,
+      "word": "胃癌发现时大多是中晚期",
+      "onboard_time": 1732876878,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154870,
@@ -1395,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148175,
-      "num": 148175,
-      "word": "林俊杰 DNA音乐节",
-      "onboard_time": 1732875618,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147810,
       "num": 147810,
       "word": "闪耀的恒星现世重逢海报",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1732861580,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142072,
+      "num": 142072,
+      "word": "国考考点",
+      "onboard_time": 1732876098,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 139716,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1732841480,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127714,
+      "num": 127714,
+      "word": "Rookie说当初iG的人很好",
+      "onboard_time": 1732876878,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 127129,
@@ -2003,14 +2067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86488,
-      "num": 306838,
-      "word": "孙颖莎训练手抡出残影",
-      "onboard_time": 1732875679,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85697,
       "num": 411957,
       "word": "A股三大指数11月收红",
@@ -2019,11 +2075,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 85355,
-      "num": 320328,
-      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
-      "onboard_time": 1732875679,
-      "rank": 8,
+      "raw_hot": 83798,
+      "num": 199627,
+      "word": "住在鹤岗的南京女子谈暴雪",
+      "onboard_time": 1732876819,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2123,6 +2179,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 77937,
+      "num": 239328,
+      "word": "ACT对战Gr",
+      "onboard_time": 1732876519,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77624,
       "num": 316342,
       "word": "Puff和Langx和解",
@@ -2137,14 +2201,6 @@
       "onboard_time": 1732806020,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 77455,
-      "num": 309288,
-      "word": "白夜2是一场巨大的callback",
-      "onboard_time": 1732874421,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 77091,
@@ -2699,6 +2755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37763,
+      "num": 248199,
+      "word": "刘宇宁珠帘玉幕收官小作文",
+      "onboard_time": 1732876640,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37653,
       "num": 366313,
       "word": "官方通报学校食堂吃出青虫蜗牛",
@@ -2745,6 +2809,14 @@
       "onboard_time": 1732865719,
       "rank": 24,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 32688,
+      "num": 207866,
+      "word": "专家称1:1男女公厕面积是表面公平",
+      "onboard_time": 1732876398,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32351,
@@ -2803,6 +2875,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 29537,
+      "num": 309036,
+      "word": "iQOONeo10价格",
+      "onboard_time": 1732873700,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29312,
       "num": 305559,
       "word": "iQOONeo10打游戏包稳的",
@@ -2825,14 +2905,6 @@
       "onboard_time": 1732871180,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26708,
-      "num": 309036,
-      "word": "iQOONeo10价格",
-      "onboard_time": 1732873700,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 25922,
@@ -2873,6 +2945,14 @@
       "onboard_time": 1732857739,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25481,
+      "num": 183707,
+      "word": "奔跑吧揭秘穿越千年的东巴纸",
+      "onboard_time": 1732859360,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 25148,
@@ -2952,14 +3032,6 @@
       "word": "千千阕歌和夕阳之歌合体了",
       "onboard_time": 1732871238,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 17600,
-      "num": 183707,
-      "word": "奔跑吧揭秘穿越千年的东巴纸",
-      "onboard_time": 1732859360,
-      "rank": 36,
       "category": "综艺"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732875948460,
+  "endTime": 1732877035018,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5331,6 +5331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1060413,
+      "num": 317664,
+      "word": "周密 格局",
+      "onboard_time": 1732873159,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1060353,
       "num": 409653,
       "word": "百万粉丝博主江边捡垃圾发现散落人骨",
@@ -7664,14 +7672,6 @@
       "word": "黄翠如官宣怀孕",
       "onboard_time": 1731825318,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 858699,
-      "num": 317664,
-      "word": "周密 格局",
-      "onboard_time": 1732873159,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -10480,6 +10480,14 @@
       "word": "胡彦斌最不敢签名的一次",
       "onboard_time": 1732544000,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 711754,
+      "num": 315702,
+      "word": "安以轩得知老公被判13年后很伤心",
+      "onboard_time": 1732874000,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -19739,6 +19747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424254,
+      "num": 300787,
+      "word": "周密 周芯竹",
+      "onboard_time": 1732875379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423991,
       "num": 305901,
       "word": "虞书欣跳ohmybaby手势舞",
@@ -22505,14 +22521,6 @@
       "onboard_time": 1731329959,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371595,
-      "num": 315702,
-      "word": "安以轩得知老公被判13年后很伤心",
-      "onboard_time": 1732874000,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 371543,
@@ -27451,6 +27459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290777,
+      "num": 311291,
+      "word": "肖战糙汉文男主",
+      "onboard_time": 1732874719,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290682,
       "num": 201985,
       "word": "发现麦琳以前是好有生命力的人",
@@ -29017,14 +29033,6 @@
       "onboard_time": 1731031640,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273176,
-      "num": 311291,
-      "word": "肖战糙汉文男主",
-      "onboard_time": 1732874719,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 273148,
@@ -32179,14 +32187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243112,
-      "num": 243112,
-      "word": "周密 周芯竹",
-      "onboard_time": 1732875379,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243107,
       "num": 329007,
       "word": "向佐要走颜值路线了",
@@ -33907,6 +33907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229124,
+      "num": 306838,
+      "word": "孙颖莎训练手抡出残影",
+      "onboard_time": 1732875679,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229090,
       "num": 229090,
       "word": "庄图南你这不是有嘴吗",
@@ -35323,6 +35331,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 219783,
+      "num": 219783,
+      "word": "中国版恋爱兄妹定档",
+      "onboard_time": 1732876339,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219648,
       "num": 219648,
       "word": "我家那小子",
@@ -35993,6 +36009,14 @@
       "onboard_time": 1731737418,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215359,
+      "num": 320328,
+      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
+      "onboard_time": 1732875679,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215331,
@@ -39820,7 +39844,7 @@
     },
     {
       "raw_hot": 199865,
-      "num": 199865,
+      "num": 251677,
       "word": "无限暖暖",
       "onboard_time": 1732874481,
       "rank": 30,
@@ -40241,6 +40265,14 @@
       "onboard_time": 1732319296,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198535,
+      "num": 198535,
+      "word": "祝绪丹 虞书欣丁禹兮的cp保安",
+      "onboard_time": 1732873879,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 198532,
@@ -41313,6 +41345,14 @@
       "onboard_time": 1730991503,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195408,
+      "num": 195408,
+      "word": "林俊杰 DNA音乐节",
+      "onboard_time": 1732875618,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 195391,
@@ -43065,6 +43105,14 @@
       "onboard_time": 1732158020,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190212,
+      "num": 233470,
+      "word": "迪丽热巴勇敢地敞开心扉",
+      "onboard_time": 1732876159,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190210,
@@ -45881,14 +45929,6 @@
       "onboard_time": 1731075021,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180929,
-      "num": 180929,
-      "word": "祝绪丹 虞书欣丁禹兮的cp保安",
-      "onboard_time": 1732873879,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 180894,
@@ -48915,6 +48955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170245,
+      "num": 170245,
+      "word": "声生不息等了卫兰三年",
+      "onboard_time": 1732873940,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170225,
       "num": 170225,
       "word": "宋亚轩胡先煦中戏师兄弟",
@@ -51241,6 +51289,14 @@
       "onboard_time": 1731748218,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162895,
+      "num": 309288,
+      "word": "白夜2是一场巨大的callback",
+      "onboard_time": 1732874421,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 162876,
@@ -53731,14 +53787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 155805,
-      "num": 155805,
-      "word": "声生不息等了卫兰三年",
-      "onboard_time": 1732873940,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155793,
       "num": 155793,
       "word": "丁禹兮下一战歌手彩排照",
@@ -53929,6 +53977,14 @@
       "onboard_time": 1731727217,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155008,
+      "num": 155008,
+      "word": "胃癌发现时大多是中晚期",
+      "onboard_time": 1732876878,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155004,
@@ -56443,14 +56499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148175,
-      "num": 148175,
-      "word": "林俊杰 DNA音乐节",
-      "onboard_time": 1732875618,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 148130,
       "num": 148130,
       "word": "Cube复出",
@@ -58353,6 +58401,14 @@
       "onboard_time": 1732677679,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142072,
+      "num": 142072,
+      "word": "国考考点",
+      "onboard_time": 1732876098,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 142034,
@@ -63001,6 +63057,14 @@
       "onboard_time": 1730688619,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127714,
+      "num": 127714,
+      "word": "Rookie说当初iG的人很好",
+      "onboard_time": 1732876878,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 127691,
@@ -73571,14 +73635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 86488,
-      "num": 306838,
-      "word": "孙颖莎训练手抡出残影",
-      "onboard_time": 1732875679,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86459,
       "num": 239401,
       "word": "道崽鲁班神炮",
@@ -73793,14 +73849,6 @@
       "onboard_time": 1732769840,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 85355,
-      "num": 320328,
-      "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
-      "onboard_time": 1732875679,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85257,
@@ -74153,6 +74201,14 @@
       "onboard_time": 1731582680,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83798,
+      "num": 199627,
+      "word": "住在鹤岗的南京女子谈暴雪",
+      "onboard_time": 1732876819,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83756,
@@ -75347,6 +75403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77937,
+      "num": 239328,
+      "word": "ACT对战Gr",
+      "onboard_time": 1732876519,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77920,
       "num": 360170,
       "word": "黑龙江警方启动无人机寻找老虎",
@@ -75449,14 +75513,6 @@
       "onboard_time": 1732029081,
       "rank": 13,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 77455,
-      "num": 309288,
-      "word": "白夜2是一场巨大的callback",
-      "onboard_time": 1732874421,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 77414,
@@ -86771,6 +86827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37763,
+      "num": 248199,
+      "word": "刘宇宁珠帘玉幕收官小作文",
+      "onboard_time": 1732876640,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37754,
       "num": 120997,
       "word": "广东11月将有4次冷空气",
@@ -89019,6 +89083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32688,
+      "num": 207866,
+      "word": "专家称1:1男女公厕面积是表面公平",
+      "onboard_time": 1732876398,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32622,
       "num": 318185,
       "word": "李雯雯拍视频潘展乐婉拒了哈",
@@ -90651,6 +90723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29537,
+      "num": 309036,
+      "word": "iQOONeo10价格",
+      "onboard_time": 1732873700,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29520,
       "num": 40764,
       "word": "手绘实景融为一体上演画板消失术",
@@ -92051,14 +92131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26708,
-      "num": 309036,
-      "word": "iQOONeo10价格",
-      "onboard_time": 1732873700,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 26699,
       "num": 948534,
       "word": "互联网之光点亮乌镇",
@@ -92617,6 +92689,14 @@
       "onboard_time": 1732157421,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25481,
+      "num": 183707,
+      "word": "奔跑吧揭秘穿越千年的东巴纸",
+      "onboard_time": 1732859360,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 25479,
@@ -96321,14 +96401,6 @@
       "onboard_time": 1732005438,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17600,
-      "num": 183707,
-      "word": "奔跑吧揭秘穿越千年的东巴纸",
-      "onboard_time": 1732859360,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 17592,
