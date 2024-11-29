@@ -1,0 +1,410 @@
+{
+  "runTime": 1732855429116,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2159569,
+        "num": 2159569,
+        "word": "鹿晗 反正李秀满已经走了",
+        "onboard_time": 1732842138,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1157582,
+        "num": 1157582,
+        "word": "郑思维官宣退出国际赛场",
+        "onboard_time": 1732851741,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69184,
+        "num": 1078971,
+        "word": "43位志愿军烈士遗骸今日安葬",
+        "onboard_time": 1732850540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1007902,
+        "num": 1007902,
+        "word": "王楠女儿落选国乒少年集训队",
+        "onboard_time": 1732853239,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 938306,
+        "num": 938306,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 841516,
+        "num": 841516,
+        "word": "老师向家长借60多万买房还钱困难",
+        "onboard_time": 1732841659,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 620902,
+        "num": 620902,
+        "word": "记者谈王楚钦球拍被踩断",
+        "onboard_time": 1732850600,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618182,
+        "num": 618182,
+        "word": "杨子五个微信却没请到一个朋友",
+        "onboard_time": 1732851140,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611066,
+        "num": 611066,
+        "word": "2025总台春晚主题主标识发布",
+        "onboard_time": 1732853000,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364825,
+        "num": 364825,
+        "word": "世上最珍贵的伞被找回来了",
+        "onboard_time": 1732841659,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1669775,
+        "num": 361743,
+        "word": "鹿晗回应喝多了",
+        "onboard_time": 1732845798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397390,
+        "num": 361211,
+        "word": "再见爱人疑似补录",
+        "onboard_time": 1732847060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350652,
+        "num": 350652,
+        "word": "普京称若乌获核武俄将全力打击",
+        "onboard_time": 1732853901,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295615,
+        "num": 295615,
+        "word": "建议买了羽绒服先闻一闻",
+        "onboard_time": 1732846879,
+        "rank": 13,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 250238,
+        "num": 250238,
+        "word": "王源受刑镜头",
+        "onboard_time": 1732850899,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205567,
+        "num": 205567,
+        "word": "中国国家队回应郑思维退出国际赛场",
+        "onboard_time": 1732853420,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192315,
+        "num": 205300,
+        "word": "娜扎带妈妈泰国度假",
+        "onboard_time": 1732854801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170043,
+        "num": 205164,
+        "word": "越检察官告知女首富交钱免死",
+        "onboard_time": 1732854922,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78540,
+        "num": 204783,
+        "word": "珠帘玉幕收官全员人生回顾",
+        "onboard_time": 1732855041,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160508,
+        "num": 204164,
+        "word": "为母亲遭遇网课入侵寻求公正的女儿",
+        "onboard_time": 1732848259,
+        "rank": 19,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 230511,
+        "num": 203954,
+        "word": "TFBOYS北京ip",
+        "onboard_time": 1732851140,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203661,
+        "num": 203661,
+        "word": "芒果主持 新嘴就是好用",
+        "onboard_time": 1732851620,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198918,
+        "num": 198918,
+        "word": "闪耀的恒星",
+        "onboard_time": 1732854801,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196881,
+        "num": 196881,
+        "word": "孟子义理想型是183的徐志胜",
+        "onboard_time": 1732854922,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154064,
+        "num": 194330,
+        "word": "汪顺十一月plog",
+        "onboard_time": 1732854861,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193869,
+        "num": 193869,
+        "word": "因果报应 海龟汤",
+        "onboard_time": 1732854922,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192253,
+        "num": 192253,
+        "word": "声生不息",
+        "onboard_time": 1732854801,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188921,
+        "num": 188921,
+        "word": "王一博白色毛领牛仔装",
+        "onboard_time": 1732854500,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158481,
+        "num": 158481,
+        "word": "李子柒穿的熊猫蜀锦裙是自己做的",
+        "onboard_time": 1732845498,
+        "rank": 28,
+        "category": "美食,网红"
+      },
+      {
+        "raw_hot": 128692,
+        "num": 156568,
+        "word": "易烊千玺眼前池灯",
+        "onboard_time": 1732854141,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154870,
+        "num": 154870,
+        "word": "郑思维想回归家庭了",
+        "onboard_time": 1732854861,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154654,
+        "num": 154654,
+        "word": "深圳居民可申请赴港旅游一签多行",
+        "onboard_time": 1732846879,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151943,
+        "num": 151943,
+        "word": "北方更冷还是南方更冷",
+        "onboard_time": 1732849039,
+        "rank": 32,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 30560,
+        "num": 146322,
+        "word": "当代网文到底多火",
+        "onboard_time": 1732854861,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 145541,
+        "num": 145541,
+        "word": "持棍打死校园流浪狗安保人员被解聘",
+        "onboard_time": 1732842079,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143542,
+        "num": 143542,
+        "word": "ADOR长文回复NewJeans",
+        "onboard_time": 1732851020,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143394,
+        "num": 143394,
+        "word": "男子47万买3手宾利发现竟是13手",
+        "onboard_time": 1732808538,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53574,
+        "num": 139671,
+        "word": "原拆原建有小区拖了七年仍未成功",
+        "onboard_time": 1732853479,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139659,
+        "num": 139659,
+        "word": "贺峻霖 眼里有活",
+        "onboard_time": 1732852220,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136260,
+        "num": 136260,
+        "word": "祖国为志愿军烈士鸣枪12响",
+        "onboard_time": 1732854922,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123492,
+        "num": 123492,
+        "word": "付鹏炮轰汇丰银行",
+        "onboard_time": 1732845498,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121888,
+        "num": 121888,
+        "word": "句句不提琳句句都是琳",
+        "onboard_time": 1732842378,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121839,
+        "num": 121839,
+        "word": "外籍男子人体藏毒123粒被海关查获",
+        "onboard_time": 1732855161,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120139,
+        "num": 120139,
+        "word": "杨紫海边浪漫碎片",
+        "onboard_time": 1732851140,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217643,
+        "num": 119478,
+        "word": "杨子翻脸",
+        "onboard_time": 1732841659,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118423,
+        "num": 118423,
+        "word": "2024LPL全明星",
+        "onboard_time": 1732850540,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68937,
+        "num": 111916,
+        "word": "警惕云养牛非法集资陷阱",
+        "onboard_time": 1732853301,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107175,
+        "num": 107175,
+        "word": "声生不息大湾区季初舞台开播海报",
+        "onboard_time": 1732855401,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107070,
+        "num": 107070,
+        "word": "礼兵轻扶烈士棺椁无声礼步护送",
+        "onboard_time": 1732853239,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106823,
+        "num": 106823,
+        "word": "直播志愿军烈士遗骸安葬",
+        "onboard_time": 1732845919,
+        "rank": 49,
+        "category": "国内时政,正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向乌拉圭当选总统奥尔西致贺电#"
+    }
+  }
+}
