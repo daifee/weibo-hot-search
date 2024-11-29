@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732862831058,
+  "endTime": 1732865105015,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2078842,
-      "num": 976863,
+      "num": 1168330,
       "word": "鹿晗回应喝多了",
       "onboard_time": 1732845798,
       "rank": 15,
@@ -1027,6 +1027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 929462,
+      "num": 468379,
+      "word": "山东一金店被抢损失或超千万",
+      "onboard_time": 1732861280,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 916190,
       "num": 1146590,
       "word": "尊界S800",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1732784000,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 708567,
+      "num": 472405,
+      "word": "冯绍峰接想想放学回家",
+      "onboard_time": 1732862119,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 706073,
@@ -2859,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 489849,
+      "num": 330352,
+      "word": "黄雅琼回应郑思维退出国际赛场",
+      "onboard_time": 1732862539,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487326,
       "num": 487326,
       "word": "乒超",
@@ -2937,6 +2961,14 @@
       "onboard_time": 1732579698,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 480497,
+      "num": 480497,
+      "word": "优衣库创始人言论争议",
+      "onboard_time": 1732864639,
+      "rank": 1,
+      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 479682,
@@ -3657,14 +3689,6 @@
       "onboard_time": 1732765758,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 389750,
-      "num": 389750,
-      "word": "山东一金店被抢损失或超千万",
-      "onboard_time": 1732861280,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 389741,
@@ -4459,14 +4483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319637,
-      "num": 319637,
-      "word": "冯绍峰接想想放学回家",
-      "onboard_time": 1732862119,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319482,
       "num": 250626,
       "word": "游客称喝过免费酒的女生整夜呕吐",
@@ -4763,6 +4779,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 299983,
+      "num": 299983,
+      "word": "孙艺珍为2岁儿子庆生",
+      "onboard_time": 1732861520,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299758,
       "num": 311003,
       "word": "王楚钦对球迷说今天是我的主场",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1732710499,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293050,
+      "num": 293050,
+      "word": "辅警因为一次好奇9年后救了一条命",
+      "onboard_time": 1732859360,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292757,
@@ -5265,14 +5297,6 @@
       "onboard_time": 1732846879,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268398,
-      "num": 268398,
-      "word": "孙艺珍为2岁儿子庆生",
-      "onboard_time": 1732861520,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 267916,
@@ -6003,6 +6027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234230,
+      "num": 234230,
+      "word": "再见爱人4第七期视频没了",
+      "onboard_time": 1732864639,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234099,
       "num": 234099,
       "word": "王楚钦总决赛三杀张本智和",
@@ -6241,6 +6273,14 @@
       "onboard_time": 1732690459,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224496,
+      "num": 224496,
+      "word": "王海质疑李行亮麦琳争议为剧本",
+      "onboard_time": 1732859721,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 224495,
@@ -6579,14 +6619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216625,
-      "num": 216625,
-      "word": "辅警因为一次好奇9年后救了一条命",
-      "onboard_time": 1732859360,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216397,
       "num": 216397,
       "word": "鹅绒一吨100多万羽绒制品非贵即假",
@@ -6769,6 +6801,14 @@
       "onboard_time": 1732438820,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209538,
+      "num": 197703,
+      "word": "丁禹兮看人深情是因为六百度近视",
+      "onboard_time": 1732864518,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 209483,
@@ -7619,6 +7659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194740,
+      "num": 229895,
+      "word": "王源头像P了个新帽子",
+      "onboard_time": 1732864699,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194703,
       "num": 210675,
       "word": "偶遇王鹤棣办港澳通行证",
@@ -8291,6 +8339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184738,
+      "num": 175075,
+      "word": "韩国人的精致穷",
+      "onboard_time": 1732864819,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184671,
       "num": 184671,
       "word": "美国医生血泪控诉加沙惨状",
@@ -8353,6 +8409,14 @@
       "onboard_time": 1732681762,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183416,
+      "num": 183416,
+      "word": "你家的筷子多久没换了",
+      "onboard_time": 1732860380,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 183118,
@@ -8523,6 +8587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181270,
+      "num": 335250,
+      "word": "羽绒行业人士谈生产内幕",
+      "onboard_time": 1732862600,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181268,
       "num": 216719,
       "word": "小草包怒喷Doinb",
@@ -8539,12 +8611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180903,
-      "num": 180903,
-      "word": "王海质疑李行亮麦琳争议为剧本",
-      "onboard_time": 1732859721,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 180894,
+      "num": 180894,
+      "word": "NewJeans解约发布会后首现身",
+      "onboard_time": 1732863560,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 180733,
@@ -8577,6 +8649,14 @@
       "onboard_time": 1732696577,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180372,
+      "num": 180372,
+      "word": "珠海户籍居民可一周去一次澳门",
+      "onboard_time": 1732863920,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 180293,
@@ -8811,6 +8891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175265,
+      "num": 175265,
+      "word": "南宁一家长称15岁女儿孕期被砍伤",
+      "onboard_time": 1732864038,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175211,
       "num": 173450,
       "word": "张小斐领衔主演好运家",
@@ -8872,6 +8960,14 @@
       "word": "最想吃的两个内娱大厨都来了",
       "onboard_time": 1732522399,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174404,
+      "num": 174404,
+      "word": "陈少熙预言家",
+      "onboard_time": 1732862780,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -9219,6 +9315,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 169100,
+      "num": 169100,
+      "word": "冲锋衣成顶流是靠什么征服年轻人",
+      "onboard_time": 1732861880,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168901,
       "num": 168901,
       "word": "肖战无袖肌肉线条",
@@ -9321,6 +9425,14 @@
       "onboard_time": 1732793058,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167079,
+      "num": 254541,
+      "word": "3人1分钟抢劫金店价值千万财物",
+      "onboard_time": 1732863979,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166911,
@@ -9707,6 +9819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161401,
+      "num": 154153,
+      "word": "杨子黄圣依 人设",
+      "onboard_time": 1732863679,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161215,
       "num": 161215,
       "word": "十个勤天缺一不可",
@@ -9825,6 +9945,14 @@
       "onboard_time": 1732856601,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159748,
+      "num": 159748,
+      "word": "MRC对战GW",
+      "onboard_time": 1732863619,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 159599,
@@ -10787,14 +10915,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 145505,
-      "num": 145505,
-      "word": "冲锋衣成顶流是靠什么征服年轻人",
-      "onboard_time": 1732861880,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145469,
       "num": 218425,
       "word": "前体操运动员回应热舞争议",
@@ -10899,12 +11019,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143168,
+      "num": 143168,
+      "word": "丁禹兮 包治百病",
+      "onboard_time": 1732864699,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143115,
       "num": 205459,
       "word": "国乒主力出发成都混团世界杯",
       "onboard_time": 1732770739,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143064,
+      "num": 337099,
+      "word": "央财教授称股民套牢是好事",
+      "onboard_time": 1732861580,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 142846,
@@ -11059,14 +11195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140947,
-      "num": 337099,
-      "word": "央财教授称股民套牢是好事",
-      "onboard_time": 1732861580,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 140817,
       "num": 206927,
       "word": "BLG签下Maokai",
@@ -11217,6 +11345,22 @@
       "onboard_time": 1732625478,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139207,
+      "num": 139207,
+      "word": "林一长沙活动取消",
+      "onboard_time": 1732864819,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138845,
+      "num": 138845,
+      "word": "WBG官宣Crisp离队",
+      "onboard_time": 1732863319,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 138788,
@@ -11529,6 +11673,14 @@
       "onboard_time": 1732531879,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134573,
+      "num": 134573,
+      "word": "筷子用不好可能会成为伤胃刺客",
+      "onboard_time": 1732861639,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134568,
@@ -11979,14 +12131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128420,
-      "num": 335250,
-      "word": "羽绒行业人士谈生产内幕",
-      "onboard_time": 1732862600,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128284,
       "num": 286066,
       "word": "王楚钦王曼昱冠军城市宣传照",
@@ -12411,14 +12555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 123541,
-      "num": 123541,
-      "word": "黄雅琼回应郑思维退出国际赛场",
-      "onboard_time": 1732862539,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123506,
       "num": 269263,
       "word": "鹤岗暴雪27人被困深山民警徒步救出",
@@ -12465,6 +12601,14 @@
       "onboard_time": 1732408996,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 122968,
+      "num": 122968,
+      "word": "TES官宣Meiko离队",
+      "onboard_time": 1732865058,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 122946,
@@ -12595,6 +12739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121382,
+      "num": 121382,
+      "word": "年轻人买的水果半数是情感商品",
+      "onboard_time": 1732864879,
+      "rank": 47,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 121217,
       "num": 121217,
       "word": "REDMI智能电视",
@@ -12625,14 +12777,6 @@
       "onboard_time": 1732605498,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120830,
-      "num": 120830,
-      "word": "筷子用不好可能会成为伤胃刺客",
-      "onboard_time": 1732861639,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120776,
@@ -12681,14 +12825,6 @@
       "onboard_time": 1732448059,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120340,
-      "num": 120340,
-      "word": "陈少熙预言家",
-      "onboard_time": 1732862780,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 120196,
@@ -12849,6 +12985,14 @@
       "onboard_time": 1732853239,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118964,
+      "num": 139031,
+      "word": "派出所回应山东一金店被抢",
+      "onboard_time": 1732863020,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 118848,
@@ -13041,14 +13185,6 @@
       "onboard_time": 1732432878,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116331,
-      "num": 116331,
-      "word": "你家的筷子多久没换了",
-      "onboard_time": 1732860380,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 116265,
@@ -14737,6 +14873,14 @@
       "onboard_time": 1732766720,
       "rank": 19,
       "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 89383,
+      "num": 162367,
+      "word": "唐嫣灰紫发色",
+      "onboard_time": 1732864938,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89316,
@@ -16897,6 +17041,14 @@
       "onboard_time": 1732439481,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51639,
+      "num": 229603,
+      "word": "容祖儿心淡全场大合唱",
+      "onboard_time": 1732864518,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 51333,
@@ -19907,6 +20059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 16918,
+      "num": 135907,
+      "word": "有毛利兰陪伴的夏天和秋天",
+      "onboard_time": 1732863800,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 16838,
       "num": 24925,
       "word": "多想请您看看今日中国",
@@ -20761,6 +20921,14 @@
       "onboard_time": 1732596079,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 6065,
+      "num": 119743,
+      "word": "上海体博会真的太好逛了",
+      "onboard_time": 1732864998,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 5974,

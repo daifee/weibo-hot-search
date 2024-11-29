@@ -1,0 +1,410 @@
+{
+  "runTime": 1732865105015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052062,
+        "num": 1168330,
+        "word": "鹿晗回应喝多了",
+        "onboard_time": 1732845798,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480497,
+        "num": 480497,
+        "word": "优衣库创始人言论争议",
+        "onboard_time": 1732864639,
+        "rank": 1,
+        "category": "舆论监督,时尚"
+      },
+      {
+        "raw_hot": 42113,
+        "num": 478981,
+        "word": "43位志愿军烈士遗骸今日安葬",
+        "onboard_time": 1732850540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 958808,
+        "num": 474674,
+        "word": "17名男女KTV聚众吸毒被一锅端",
+        "onboard_time": 1732860080,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708567,
+        "num": 472405,
+        "word": "冯绍峰接想想放学回家",
+        "onboard_time": 1732862119,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929462,
+        "num": 468379,
+        "word": "山东一金店被抢损失或超千万",
+        "onboard_time": 1732861280,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 468288,
+        "num": 468288,
+        "word": "美国女子抱婴儿袭警母女都被射杀",
+        "onboard_time": 1732856660,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 663036,
+        "num": 443994,
+        "word": "鹿晗 反正李秀满已经走了",
+        "onboard_time": 1732842138,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608631,
+        "num": 401342,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333180,
+        "num": 333180,
+        "word": "胖东来调改永辉超市25天改了啥",
+        "onboard_time": 1732858099,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489849,
+        "num": 330352,
+        "word": "黄雅琼回应郑思维退出国际赛场",
+        "onboard_time": 1732862539,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303219,
+        "num": 303219,
+        "word": "王楠女儿落选国乒少年集训队",
+        "onboard_time": 1732853239,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299983,
+        "num": 299983,
+        "word": "孙艺珍为2岁儿子庆生",
+        "onboard_time": 1732861520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293050,
+        "num": 293050,
+        "word": "辅警因为一次好奇9年后救了一条命",
+        "onboard_time": 1732859360,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167079,
+        "num": 254541,
+        "word": "3人1分钟抢劫金店价值千万财物",
+        "onboard_time": 1732863979,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234230,
+        "num": 234230,
+        "word": "再见爱人4第七期视频没了",
+        "onboard_time": 1732864639,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230410,
+        "num": 230410,
+        "word": "外籍男子人体藏毒123粒被海关查获",
+        "onboard_time": 1732855161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194740,
+        "num": 229895,
+        "word": "王源头像P了个新帽子",
+        "onboard_time": 1732864699,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51639,
+        "num": 229603,
+        "word": "容祖儿心淡全场大合唱",
+        "onboard_time": 1732864518,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229422,
+        "num": 229422,
+        "word": "张杰唐嫣荧幕合作",
+        "onboard_time": 1732859360,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253785,
+        "num": 227173,
+        "word": "老人吃腌萝卜后中毒整个人紫了",
+        "onboard_time": 1732858280,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224496,
+        "num": 224496,
+        "word": "王海质疑李行亮麦琳争议为剧本",
+        "onboard_time": 1732859721,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208725,
+        "num": 208725,
+        "word": "老师向家长借60多万买房还钱困难",
+        "onboard_time": 1732841659,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209538,
+        "num": 197703,
+        "word": "丁禹兮看人深情是因为六百度近视",
+        "onboard_time": 1732864518,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86818,
+        "num": 183523,
+        "word": "恋与制作人七周年",
+        "onboard_time": 1732864098,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183416,
+        "num": 183416,
+        "word": "你家的筷子多久没换了",
+        "onboard_time": 1732860380,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 181270,
+        "num": 181270,
+        "word": "羽绒行业人士谈生产内幕",
+        "onboard_time": 1732862600,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180894,
+        "num": 180894,
+        "word": "NewJeans解约发布会后首现身",
+        "onboard_time": 1732863560,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180372,
+        "num": 180372,
+        "word": "珠海户籍居民可一周去一次澳门",
+        "onboard_time": 1732863920,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175265,
+        "num": 175265,
+        "word": "南宁一家长称15岁女儿孕期被砍伤",
+        "onboard_time": 1732864038,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184738,
+        "num": 175075,
+        "word": "韩国人的精致穷",
+        "onboard_time": 1732864819,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174404,
+        "num": 174404,
+        "word": "陈少熙预言家",
+        "onboard_time": 1732862780,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174033,
+        "num": 174033,
+        "word": "卢昱晓看预告片才知道不是自己声音",
+        "onboard_time": 1732861219,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169100,
+        "num": 169100,
+        "word": "冲锋衣成顶流是靠什么征服年轻人",
+        "onboard_time": 1732861880,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89383,
+        "num": 162367,
+        "word": "唐嫣灰紫发色",
+        "onboard_time": 1732864938,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159748,
+        "num": 159748,
+        "word": "MRC对战GW",
+        "onboard_time": 1732863619,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161401,
+        "num": 154153,
+        "word": "杨子黄圣依 人设",
+        "onboard_time": 1732863679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143168,
+        "num": 143168,
+        "word": "丁禹兮 包治百病",
+        "onboard_time": 1732864699,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143064,
+        "num": 143064,
+        "word": "央财教授称股民套牢是好事",
+        "onboard_time": 1732861580,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "林一长沙活动取消",
+        "onboard_time": 1732864819,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118964,
+        "num": 139031,
+        "word": "派出所回应山东一金店被抢",
+        "onboard_time": 1732863020,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 138878,
+        "num": 138878,
+        "word": "张杰第一次平头",
+        "onboard_time": 1732860800,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138845,
+        "num": 138845,
+        "word": "WBG官宣Crisp离队",
+        "onboard_time": 1732863319,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16918,
+        "num": 135907,
+        "word": "有毛利兰陪伴的夏天和秋天",
+        "onboard_time": 1732863800,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134573,
+        "num": 134573,
+        "word": "筷子用不好可能会成为伤胃刺客",
+        "onboard_time": 1732861639,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126675,
+        "num": 126675,
+        "word": "一半的胃癌与幽门螺杆菌有关",
+        "onboard_time": 1732856660,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122968,
+        "num": 122968,
+        "word": "TES官宣Meiko离队",
+        "onboard_time": 1732865058,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121382,
+        "num": 121382,
+        "word": "年轻人买的水果半数是情感商品",
+        "onboard_time": 1732864879,
+        "rank": 47,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 120715,
+        "num": 120715,
+        "word": "记者谈王楚钦球拍被踩断",
+        "onboard_time": 1732850600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6065,
+        "num": 119743,
+        "word": "上海体博会真的太好逛了",
+        "onboard_time": 1732864998,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向乌拉圭当选总统奥尔西致贺电#"
+    }
+  }
+}
