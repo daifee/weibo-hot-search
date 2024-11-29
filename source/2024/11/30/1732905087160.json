@@ -1,0 +1,410 @@
+{
+  "runTime": 1732905087160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 391801,
+        "num": 391801,
+        "word": "中2.25亿巨奖男子尚未兑奖",
+        "onboard_time": 1732896859,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210252,
+        "num": 210252,
+        "word": "湖南台员工为麦琳发声",
+        "onboard_time": 1732888039,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13655,
+        "num": 156689,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1732883959,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142685,
+        "num": 142685,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 3,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 140587,
+        "num": 140587,
+        "word": "周密周芯竹聊天记录",
+        "onboard_time": 1732901415,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128001,
+        "num": 128001,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 131493,
+        "num": 125282,
+        "word": "林一补偿方案",
+        "onboard_time": 1732898597,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119798,
+        "num": 119798,
+        "word": "鹿哈给鹿晗刷礼物成为榜一",
+        "onboard_time": 1732882639,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101947,
+        "num": 101947,
+        "word": "法考",
+        "onboard_time": 1732894698,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15989,
+        "num": 95860,
+        "word": "黄牛1分钟网上挂号200次",
+        "onboard_time": 1732904532,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253792,
+        "num": 94045,
+        "word": "易易紫承认和崔胜铉恋爱过",
+        "onboard_time": 1732896318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90104,
+        "num": 90104,
+        "word": "四川卫视 莎头",
+        "onboard_time": 1732894998,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90002,
+        "num": 90002,
+        "word": "女孩被困电梯冷静自救后原地写作业",
+        "onboard_time": 1732902134,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73127,
+        "num": 73127,
+        "word": "孙颖莎王楚钦奥运后首次搭档",
+        "onboard_time": 1732896799,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70676,
+        "num": 70676,
+        "word": "一医生因车祸去世肇事者开车看手机",
+        "onboard_time": 1732892421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69355,
+        "num": 69355,
+        "word": "龚俊不能说糊",
+        "onboard_time": 1732896799,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67692,
+        "num": 67692,
+        "word": "女子取款5000元银行要求丈夫到场",
+        "onboard_time": 1732882878,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56302,
+        "num": 56302,
+        "word": "金高银获青龙影后",
+        "onboard_time": 1732889120,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52669,
+        "num": 52669,
+        "word": "武契奇对BBC记者灵魂拷问",
+        "onboard_time": 1732899675,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45896,
+        "num": 45896,
+        "word": "新疆棉花不容优衣库玷污",
+        "onboard_time": 1732883719,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256293,
+        "num": 45836,
+        "word": "周芯竹回应分手事件",
+        "onboard_time": 1732892000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124624,
+        "num": 45722,
+        "word": "中国女游客在马尔代夫潜水遭鲨鱼咬头",
+        "onboard_time": 1732889179,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110119,
+        "num": 45639,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79914,
+        "num": 45587,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1732883357,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13601,
+        "num": 45530,
+        "word": "宋亚轩滑沙vlog",
+        "onboard_time": 1732901654,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57887,
+        "num": 45391,
+        "word": "鹿晗晒爱心纹身",
+        "onboard_time": 1732883479,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48818,
+        "num": 45319,
+        "word": "王俊凯包场王源孤星计划",
+        "onboard_time": 1732899377,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45260,
+        "num": 45260,
+        "word": "9省市试点允许设立外商独资医院",
+        "onboard_time": 1732903332,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14170,
+        "num": 44032,
+        "word": "楠得有空",
+        "onboard_time": 1732896918,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43834,
+        "num": 43834,
+        "word": "安静公主",
+        "onboard_time": 1732898656,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43250,
+        "num": 43250,
+        "word": "女孩边充电边玩手机手脚被电肿了",
+        "onboard_time": 1732879757,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40900,
+        "num": 40900,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 31,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 39672,
+        "num": 39672,
+        "word": "安以轩得知老公被判13年后很伤心",
+        "onboard_time": 1732874000,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37413,
+        "num": 37413,
+        "word": "中式美学一出场就惊艳了",
+        "onboard_time": 1732900874,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36942,
+        "num": 36942,
+        "word": "幼师为追星诈骗家长16万获刑四年",
+        "onboard_time": 1732888879,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36114,
+        "num": 36114,
+        "word": "一男子疑因吃驴打滚窒息身亡",
+        "onboard_time": 1732887319,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35361,
+        "num": 35361,
+        "word": "用行动支持新疆棉",
+        "onboard_time": 1732894519,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 34188,
+        "num": 34188,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33836,
+        "num": 33836,
+        "word": "现在拨打的电话",
+        "onboard_time": 1732883898,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32673,
+        "num": 32673,
+        "word": "好东西",
+        "onboard_time": 1732893980,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32149,
+        "num": 32149,
+        "word": "解救女孩司机获永久免除挂靠管理费",
+        "onboard_time": 1732887380,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31754,
+        "num": 31754,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30547,
+        "num": 30547,
+        "word": "108是法考生的幸运数",
+        "onboard_time": 1732895420,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29958,
+        "num": 29958,
+        "word": "赵一博夜深了发点提神的照片",
+        "onboard_time": 1732894698,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29510,
+        "num": 29510,
+        "word": "A股突然猛拉",
+        "onboard_time": 1732889660,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28926,
+        "num": 28926,
+        "word": "郑雨盛因私生子在青龙电影节上道歉",
+        "onboard_time": 1732888520,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28689,
+        "num": 28689,
+        "word": "浙江知名45岁胸外科主任因车祸去世",
+        "onboard_time": 1732887261,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28457,
+        "num": 28457,
+        "word": "王楚钦孙颖莎赛前混双训练",
+        "onboard_time": 1732891401,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24310,
+        "num": 28454,
+        "word": "内娱中女终于上桌了",
+        "onboard_time": 1732888700,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24272,
+        "num": 28453,
+        "word": "陈鑫海雪山手写粉丝名",
+        "onboard_time": 1732902314,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建中国哲学社会科学自主知识体系#"
+    }
+  }
+}
