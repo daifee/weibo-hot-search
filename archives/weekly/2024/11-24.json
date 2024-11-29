@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732880166256,
+  "endTime": 1732884325037,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -624,6 +624,14 @@
       "word": "2年被家暴16次女子幸存后的580天",
       "onboard_time": 1732503558,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1244741,
+      "num": 275702,
+      "word": "女孩边充电边玩手机手脚被电肿了",
+      "onboard_time": 1732879757,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2155,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 629332,
+      "num": 629332,
+      "word": "鹿哈给鹿晗刷礼物成为榜一",
+      "onboard_time": 1732882639,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629182,
       "num": 629182,
       "word": "石破茂回应中国对日本恢复免签",
@@ -2769,6 +2785,14 @@
       "onboard_time": 1732512979,
       "rank": 6,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 525322,
+      "num": 199979,
+      "word": "胃病变胃癌前一般有5个症状",
+      "onboard_time": 1732883357,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 524586,
@@ -3443,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434636,
+      "num": 378632,
+      "word": "王一珩直播回应恋情",
+      "onboard_time": 1732881858,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434556,
       "num": 434556,
       "word": "建议买了羽绒服先闻一闻",
@@ -3603,10 +3635,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417306,
+      "num": 339462,
+      "word": "理记",
+      "onboard_time": 1732879098,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416877,
       "num": 416877,
       "word": "河南坠落杂技演员曾表示不再演出",
       "onboard_time": 1732754238,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416580,
+      "num": 273525,
+      "word": "女子取款5000元银行要求丈夫到场",
+      "onboard_time": 1732882878,
       "rank": 11,
       "category": "民生新闻"
     },
@@ -3681,6 +3729,14 @@
       "onboard_time": 1732529899,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410774,
+      "num": 410774,
+      "word": "新疆棉",
+      "onboard_time": 1732879818,
+      "rank": 16,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 410050,
@@ -4089,6 +4145,14 @@
       "onboard_time": 1732793179,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 373024,
+      "num": 201139,
+      "word": "鹿晗晒爱心纹身",
+      "onboard_time": 1732883479,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 371781,
@@ -5387,6 +5451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277209,
+      "num": 277209,
+      "word": "平阴县政府卖天30年9.24亿",
+      "onboard_time": 1732883119,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 276771,
       "num": 272955,
       "word": "天选古偶四美",
@@ -5857,6 +5929,14 @@
       "onboard_time": 1732442599,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253534,
+      "num": 253534,
+      "word": "虞书欣 谢谢你啊慕声儿",
+      "onboard_time": 1732882278,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 253417,
@@ -6939,6 +7019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216072,
+      "num": 201431,
+      "word": "迪丽热巴入行十年用日程填满",
+      "onboard_time": 1732883719,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215976,
       "num": 215976,
       "word": "网易云音乐称已下线大量广告位",
@@ -7203,12 +7291,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 207448,
-      "num": 207448,
-      "word": "新疆棉",
-      "onboard_time": 1732879818,
+      "raw_hot": 207285,
+      "num": 207285,
+      "word": "TES官宣crisp加入",
+      "onboard_time": 1732881619,
       "rank": 16,
-      "category": "舆论监督"
+      "category": "电竞"
     },
     {
       "raw_hot": 207109,
@@ -7537,6 +7625,14 @@
       "onboard_time": 1732419378,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201597,
+      "num": 201597,
+      "word": "时代少年团周边",
+      "onboard_time": 1732883418,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201459,
@@ -7913,6 +8009,14 @@
       "onboard_time": 1732875020,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195917,
+      "num": 195917,
+      "word": "汤唯和老公青龙红毯",
+      "onboard_time": 1732883538,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 195833,
@@ -9001,6 +9105,14 @@
       "onboard_time": 1732710798,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181068,
+      "num": 131494,
+      "word": "汤唯青龙奖红毯",
+      "onboard_time": 1732883779,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 180894,
@@ -10395,6 +10507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159813,
+      "num": 159813,
+      "word": "幼儿园为羊驼办婚礼份子钱30元起步",
+      "onboard_time": 1732880238,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 159748,
       "num": 159748,
       "word": "MRC对战GW",
@@ -10457,6 +10577,14 @@
       "onboard_time": 1732632139,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158576,
+      "num": 158576,
+      "word": "赵露思登美趋",
+      "onboard_time": 1732880718,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 158434,
@@ -11227,14 +11355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147447,
-      "num": 147447,
-      "word": "女孩边充电边玩手机手脚被电肿了",
-      "onboard_time": 1732879757,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147418,
       "num": 147418,
       "word": "特朗普的善变会给世界经济带来什么",
@@ -11747,6 +11867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140434,
+      "num": 140434,
+      "word": "第45届青龙电影奖",
+      "onboard_time": 1732881678,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140405,
       "num": 140405,
       "word": "篮网逆转勇士",
@@ -11848,14 +11976,6 @@
       "word": "北京雪飘",
       "onboard_time": 1732625478,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139183,
-      "num": 139183,
-      "word": "理记",
-      "onboard_time": 1732879098,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -12097,6 +12217,14 @@
       "onboard_time": 1732597820,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136216,
+      "num": 107301,
+      "word": "肖战自拍vs他拍",
+      "onboard_time": 1732883357,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 136103,
@@ -12929,6 +13057,14 @@
       "onboard_time": 1732714219,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126535,
+      "num": 126535,
+      "word": "笑笑道歉声明",
+      "onboard_time": 1732881619,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 126527,
@@ -13819,6 +13955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 116471,
+      "num": 116471,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732379238,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116427,
       "num": 116427,
       "word": "前反腐官员被网约车司机认出免单",
@@ -13929,14 +14073,6 @@
       "onboard_time": 1732871059,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 115408,
-      "num": 115408,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732379238,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 115382,
@@ -14249,6 +14385,14 @@
       "onboard_time": 1732766659,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112370,
+      "num": 112370,
+      "word": "WBG主教练Daeny卸任离队",
+      "onboard_time": 1732884079,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 112357,
@@ -14635,11 +14779,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107331,
+      "num": 107331,
+      "word": "成都混团世界杯中国队阵容",
+      "onboard_time": 1732884259,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107305,
       "num": 247800,
       "word": "叶嘉莹生平",
       "onboard_time": 1732455921,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107292,
+      "num": 107292,
+      "word": "新疆棉花不容优衣库玷污",
+      "onboard_time": 1732883719,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -16235,6 +16395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78748,
+      "num": 107309,
+      "word": "羽绒价格涨近40%",
+      "onboard_time": 1732882098,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78665,
       "num": 384000,
       "word": "中产狂追的低因咖啡是智商税吗",
@@ -16824,6 +16992,14 @@
       "word": "刘青松回应加入TES",
       "onboard_time": 1732664236,
       "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 68186,
+      "num": 200994,
+      "word": "FPX.ZQ对战成都GG",
+      "onboard_time": 1732883357,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -18096,6 +18272,14 @@
       "word": "叶嘉莹百岁后还在指导博士生",
       "onboard_time": 1732451421,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48805,
+      "num": 257317,
+      "word": "垃圾从家中堆到过道女子说是收藏",
+      "onboard_time": 1732883538,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -19923,6 +20107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 29222,
+      "num": 106631,
+      "word": "整治校园食品安全不能靠家长发火",
+      "onboard_time": 1732882159,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29199,
       "num": 215097,
       "word": "魏你而甜",
@@ -20609,6 +20801,14 @@
       "onboard_time": 1732630160,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23327,
+      "num": 201595,
+      "word": "去年春晚你印象最深的歌曲",
+      "onboard_time": 1732882458,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 23220,
@@ -21371,6 +21571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14145,
+      "num": 118667,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1732883959,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14142,
       "num": 14142,
       "word": "我是你的眼替你看遍锦绣河山",
@@ -21939,6 +22147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7085,
+      "num": 621949,
+      "word": "链博会上的环环相链",
+      "onboard_time": 1732884139,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7016,
       "num": 16666,
       "word": "Red女团回应首次曝光时被外界批评",
@@ -22089,6 +22305,14 @@
       "onboard_time": 1732561571,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2922,
+      "num": 201201,
+      "word": "开放世界疯狂星期四",
+      "onboard_time": 1732881619,
+      "rank": 21,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
@@ -22145,6 +22369,9 @@
     },
     {
       "word": "#扎根中国大地赓续中华文脉厚植学术根基#"
+    },
+    {
+      "word": "#加快构建中国哲学社会科学自主知识体系#"
     }
   ]
 }

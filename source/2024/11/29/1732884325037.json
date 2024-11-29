@@ -1,0 +1,410 @@
+{
+  "runTime": 1732884325037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1089046,
+        "num": 1174247,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 629332,
+        "num": 629332,
+        "word": "鹿哈给鹿晗刷礼物成为榜一",
+        "onboard_time": 1732882639,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7085,
+        "num": 621949,
+        "word": "链博会上的环环相链",
+        "onboard_time": 1732884139,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619691,
+        "num": 619691,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410774,
+        "num": 410774,
+        "word": "新疆棉",
+        "onboard_time": 1732879818,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 797172,
+        "num": 391609,
+        "word": "安以轩得知老公被判13年后很伤心",
+        "onboard_time": 1732874000,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434636,
+        "num": 378632,
+        "word": "王一珩直播回应恋情",
+        "onboard_time": 1732881858,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417306,
+        "num": 339462,
+        "word": "理记",
+        "onboard_time": 1732879098,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277209,
+        "num": 277209,
+        "word": "平阴县政府卖天30年9.24亿",
+        "onboard_time": 1732883119,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 174741,
+        "num": 276535,
+        "word": "新疆棉是世界最好棉花之一",
+        "onboard_time": 1732870520,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1244741,
+        "num": 275702,
+        "word": "女孩边充电边玩手机手脚被电肿了",
+        "onboard_time": 1732879757,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416580,
+        "num": 273525,
+        "word": "女子取款5000元银行要求丈夫到场",
+        "onboard_time": 1732882878,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280046,
+        "num": 272356,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272084,
+        "num": 272084,
+        "word": "印政府还在用被封杀4年的中国APP",
+        "onboard_time": 1732868779,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48805,
+        "num": 257317,
+        "word": "垃圾从家中堆到过道女子说是收藏",
+        "onboard_time": 1732883538,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253534,
+        "num": 253534,
+        "word": "虞书欣 谢谢你啊慕声儿",
+        "onboard_time": 1732882278,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207285,
+        "num": 207285,
+        "word": "TES官宣crisp加入",
+        "onboard_time": 1732881619,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201597,
+        "num": 201597,
+        "word": "时代少年团周边",
+        "onboard_time": 1732883418,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23327,
+        "num": 201595,
+        "word": "去年春晚你印象最深的歌曲",
+        "onboard_time": 1732882458,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216072,
+        "num": 201431,
+        "word": "迪丽热巴入行十年用日程填满",
+        "onboard_time": 1732883719,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 660637,
+        "num": 201358,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2922,
+        "num": 201201,
+        "word": "开放世界疯狂星期四",
+        "onboard_time": 1732881619,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 373024,
+        "num": 201139,
+        "word": "鹿晗晒爱心纹身",
+        "onboard_time": 1732883479,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296133,
+        "num": 201054,
+        "word": "周密 周芯竹",
+        "onboard_time": 1732875379,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68186,
+        "num": 200994,
+        "word": "FPX.ZQ对战成都GG",
+        "onboard_time": 1732883357,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240890,
+        "num": 200855,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 25,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 237935,
+        "num": 200743,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1732876878,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210250,
+        "num": 200685,
+        "word": "中国版恋爱兄妹定档",
+        "onboard_time": 1732876339,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203742,
+        "num": 200599,
+        "word": "肖战糙汉文男主",
+        "onboard_time": 1732874719,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200508,
+        "num": 200508,
+        "word": "蛇年春晚标识有什么寓意",
+        "onboard_time": 1732866798,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525322,
+        "num": 199979,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1732883357,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41363,
+        "num": 197911,
+        "word": "第11批志愿军烈士安葬祭文",
+        "onboard_time": 1732870879,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195917,
+        "num": 195917,
+        "word": "汤唯和老公青龙红毯",
+        "onboard_time": 1732883538,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 159813,
+        "word": "幼儿园为羊驼办婚礼份子钱30元起步",
+        "onboard_time": 1732880238,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158576,
+        "num": 158576,
+        "word": "赵露思登美趋",
+        "onboard_time": 1732880718,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140434,
+        "num": 140434,
+        "word": "第45届青龙电影奖",
+        "onboard_time": 1732881678,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131966,
+        "num": 131966,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181068,
+        "num": 131494,
+        "word": "汤唯青龙奖红毯",
+        "onboard_time": 1732883779,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127494,
+        "num": 127494,
+        "word": "你好种地少年",
+        "onboard_time": 1732882458,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126535,
+        "num": 126535,
+        "word": "笑笑道歉声明",
+        "onboard_time": 1732881619,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125441,
+        "num": 125441,
+        "word": "fromis9解散",
+        "onboard_time": 1732873219,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14145,
+        "num": 118667,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1732883959,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116471,
+        "num": 116471,
+        "word": "现在拨打的电话",
+        "onboard_time": 1732883898,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112370,
+        "num": 112370,
+        "word": "WBG主教练Daeny卸任离队",
+        "onboard_time": 1732884079,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111750,
+        "num": 111750,
+        "word": "芒果又搞群像综艺了",
+        "onboard_time": 1732879698,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107331,
+        "num": 107331,
+        "word": "成都混团世界杯中国队阵容",
+        "onboard_time": 1732884259,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78748,
+        "num": 107309,
+        "word": "羽绒价格涨近40%",
+        "onboard_time": 1732882098,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136216,
+        "num": 107301,
+        "word": "肖战自拍vs他拍",
+        "onboard_time": 1732883357,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107292,
+        "num": 107292,
+        "word": "新疆棉花不容优衣库玷污",
+        "onboard_time": 1732883719,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29222,
+        "num": 106631,
+        "word": "整治校园食品安全不能靠家长发火",
+        "onboard_time": 1732882159,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建中国哲学社会科学自主知识体系#"
+    }
+  }
+}
