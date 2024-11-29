@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732865105015,
+  "endTime": 1732865907657,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1406238,
+      "num": 1406238,
+      "word": "优衣库创始人言论争议",
+      "onboard_time": 1732864639,
+      "rank": 1,
+      "category": "舆论监督,时尚"
+    },
+    {
       "raw_hot": 1405916,
       "num": 1405916,
       "word": "黄圣依 麦琳",
@@ -779,6 +787,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1077079,
+      "num": 468379,
+      "word": "山东一金店被抢损失或超千万",
+      "onboard_time": 1732861280,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1063430,
       "num": 377063,
       "word": "冯绍峰方回应恋情",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1732856660,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 929462,
-      "num": 468379,
-      "word": "山东一金店被抢损失或超千万",
-      "onboard_time": 1732861280,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 916190,
@@ -2171,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615200,
+      "num": 408498,
+      "word": "鹿晗好拽",
+      "onboard_time": 1732863380,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613109,
       "num": 613109,
       "word": "中国麻辣烫在日本人气火爆",
@@ -2876,7 +2892,7 @@
     },
     {
       "raw_hot": 489849,
-      "num": 330352,
+      "num": 388480,
       "word": "黄雅琼回应郑思维退出国际赛场",
       "onboard_time": 1732862539,
       "rank": 41,
@@ -2961,14 +2977,6 @@
       "onboard_time": 1732579698,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 480497,
-      "num": 480497,
-      "word": "优衣库创始人言论争议",
-      "onboard_time": 1732864639,
-      "rank": 1,
-      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 479682,
@@ -3441,6 +3449,14 @@
       "onboard_time": 1732379117,
       "rank": 24,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 415236,
+      "num": 415236,
+      "word": "辅警因为一次好奇9年后救了一条命",
+      "onboard_time": 1732859360,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 413299,
@@ -3979,6 +3995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 366757,
+      "num": 366757,
+      "word": "再见爱人4第七期视频没了",
+      "onboard_time": 1732864639,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366630,
       "num": 366630,
       "word": "保时捷公开道歉",
@@ -4475,6 +4499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 320579,
+      "num": 320579,
+      "word": "王源头像P了个新帽子",
+      "onboard_time": 1732864699,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320296,
       "num": 320296,
       "word": "崔杋圭直播哭了",
@@ -4899,14 +4931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293050,
-      "num": 293050,
-      "word": "辅警因为一次好奇9年后救了一条命",
-      "onboard_time": 1732859360,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292757,
       "num": 298006,
       "word": "倪萍谈蔡磊签署遗体捐赠协议",
@@ -5001,6 +5025,14 @@
       "onboard_time": 1732795099,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286642,
+      "num": 286642,
+      "word": "韩国人的精致穷",
+      "onboard_time": 1732864819,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 285205,
@@ -5531,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257582,
+      "num": 389679,
+      "word": "3人1分钟抢劫金店价值千万财物",
+      "onboard_time": 1732863979,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257240,
       "num": 257240,
       "word": "金价又反弹",
@@ -6024,14 +6064,6 @@
       "word": "胡先煦送宋亚轩花篮",
       "onboard_time": 1732420759,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 234230,
-      "num": 234230,
-      "word": "再见爱人4第七期视频没了",
-      "onboard_time": 1732864639,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -6555,6 +6587,14 @@
       "category": "辟谣/通报,教育"
     },
     {
+      "raw_hot": 217612,
+      "num": 217612,
+      "word": "林一长沙活动取消",
+      "onboard_time": 1732864819,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217481,
       "num": 196250,
       "word": "黄灿灿回应人工智能对武大校花的定义",
@@ -6707,6 +6747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214572,
+      "num": 214572,
+      "word": "丁禹兮看人深情是因为六百度近视",
+      "onboard_time": 1732864518,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214178,
       "num": 459860,
       "word": "我驻美使馆回应特朗普妄言加税",
@@ -6801,14 +6849,6 @@
       "onboard_time": 1732438820,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209538,
-      "num": 197703,
-      "word": "丁禹兮看人深情是因为六百度近视",
-      "onboard_time": 1732864518,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 209483,
@@ -7571,6 +7611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195833,
+      "num": 195833,
+      "word": "TES官宣Meiko离队",
+      "onboard_time": 1732865058,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195757,
       "num": 195757,
       "word": "张艺兴压轴官宣DNA音乐节",
@@ -7657,14 +7705,6 @@
       "onboard_time": 1732608618,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 194740,
-      "num": 229895,
-      "word": "王源头像P了个新帽子",
-      "onboard_time": 1732864699,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 194703,
@@ -8011,6 +8051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189859,
+      "num": 189859,
+      "word": "年轻人买的水果半数是情感商品",
+      "onboard_time": 1732864879,
+      "rank": 47,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 189842,
       "num": 175504,
       "word": "芒果TV会员数增近600万",
@@ -8337,14 +8385,6 @@
       "onboard_time": 1732683320,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184738,
-      "num": 175075,
-      "word": "韩国人的精致穷",
-      "onboard_time": 1732864819,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 184671,
@@ -9427,14 +9467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167079,
-      "num": 254541,
-      "word": "3人1分钟抢劫金店价值千万财物",
-      "onboard_time": 1732863979,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166911,
       "num": 207940,
       "word": "祝绪丹模仿丁禹兮眯眼警告",
@@ -9609,6 +9641,14 @@
       "onboard_time": 1732530498,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164106,
+      "num": 164106,
+      "word": "丁禹兮 包治百病",
+      "onboard_time": 1732864699,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 163905,
@@ -10193,6 +10233,14 @@
       "onboard_time": 1732521799,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155857,
+      "num": 155857,
+      "word": "林一霸王茶姬活动",
+      "onboard_time": 1732865179,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 155206,
@@ -11019,14 +11067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143168,
-      "num": 143168,
-      "word": "丁禹兮 包治百病",
-      "onboard_time": 1732864699,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143115,
       "num": 205459,
       "word": "国乒主力出发成都混团世界杯",
@@ -11345,14 +11385,6 @@
       "onboard_time": 1732625478,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139207,
-      "num": 139207,
-      "word": "林一长沙活动取消",
-      "onboard_time": 1732864819,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 138845,
@@ -12339,6 +12371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126527,
+      "num": 126527,
+      "word": "虞书欣丁禹兮意林少年版",
+      "onboard_time": 1732865658,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126515,
       "num": 126515,
       "word": "用王子酒勾兑飞天茅台卖出400万",
@@ -12475,6 +12515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125242,
+      "num": 125242,
+      "word": "孩童被未拴绳狗咬21天主人未现身",
+      "onboard_time": 1732864339,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125140,
       "num": 125140,
       "word": "Peyz疑加入LNG",
@@ -12505,6 +12553,14 @@
       "onboard_time": 1732429097,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124443,
+      "num": 139031,
+      "word": "派出所回应山东一金店被抢",
+      "onboard_time": 1732863020,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 124401,
@@ -12601,14 +12657,6 @@
       "onboard_time": 1732408996,
       "rank": 36,
       "category": "军事"
-    },
-    {
-      "raw_hot": 122968,
-      "num": 122968,
-      "word": "TES官宣Meiko离队",
-      "onboard_time": 1732865058,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 122946,
@@ -12739,20 +12787,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121382,
-      "num": 121382,
-      "word": "年轻人买的水果半数是情感商品",
-      "onboard_time": 1732864879,
-      "rank": 47,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 121217,
       "num": 121217,
       "word": "REDMI智能电视",
       "onboard_time": 1732717519,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121163,
+      "num": 221497,
+      "word": "唐嫣灰紫发色",
+      "onboard_time": 1732864938,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121101,
@@ -12985,14 +13033,6 @@
       "onboard_time": 1732853239,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118964,
-      "num": 139031,
-      "word": "派出所回应山东一金店被抢",
-      "onboard_time": 1732863020,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 118848,
@@ -14875,14 +14915,6 @@
       "category": "民生新闻,舆论监督"
     },
     {
-      "raw_hot": 89383,
-      "num": 162367,
-      "word": "唐嫣灰紫发色",
-      "onboard_time": 1732864938,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 89316,
       "num": 122735,
       "word": "奥斯卡已开始变更国籍",
@@ -15955,6 +15987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70707,
+      "num": 229603,
+      "word": "容祖儿心淡全场大合唱",
+      "onboard_time": 1732864518,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70637,
       "num": 113930,
       "word": "王者福利签送史诗皮肤",
@@ -17019,6 +17059,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 52460,
+      "num": 196231,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1732865719,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52246,
       "num": 421099,
       "word": "是否抗冻取决于肌肉量",
@@ -17041,14 +17089,6 @@
       "onboard_time": 1732439481,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51639,
-      "num": 229603,
-      "word": "容祖儿心淡全场大合唱",
-      "onboard_time": 1732864518,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 51333,
@@ -18521,6 +18561,14 @@
       "onboard_time": 1732400531,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33896,
+      "num": 196007,
+      "word": "古巨基钻石败犬live首秀",
+      "onboard_time": 1732865719,
+      "rank": 24,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 33860,
@@ -20123,6 +20171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16190,
+      "num": 131747,
+      "word": "侯明昊无处安放的手",
+      "onboard_time": 1732865358,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 16127,
       "num": 30934,
       "word": "35秒回顾11批在韩志愿军烈士遗骸归国",
@@ -20627,6 +20683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 11371,
+      "num": 122580,
+      "word": "上海体博会真的太好逛了",
+      "onboard_time": 1732864998,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 11307,
       "num": 329111,
       "word": "闫妮说小巷人家杀青那天我哭了",
@@ -20921,14 +20985,6 @@
       "onboard_time": 1732596079,
       "rank": 48,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 6065,
-      "num": 119743,
-      "word": "上海体博会真的太好逛了",
-      "onboard_time": 1732864998,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 5974,
