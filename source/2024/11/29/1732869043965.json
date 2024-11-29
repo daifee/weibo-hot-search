@@ -1,0 +1,410 @@
+{
+  "runTime": 1732869043965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 822502,
+        "num": 1131600,
+        "word": "鹿晗回应喝多了",
+        "onboard_time": 1732845798,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816734,
+        "num": 816734,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 1,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 43835,
+        "num": 695596,
+        "word": "43位志愿军烈士遗骸今日安葬",
+        "onboard_time": 1732850540,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 604358,
+        "num": 604358,
+        "word": "巴黎世家售出8天后要顾客补1147元",
+        "onboard_time": 1732865898,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 471470,
+        "num": 471470,
+        "word": "17名男女KTV聚众吸毒被一锅端",
+        "onboard_time": 1732860080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741818,
+        "num": 469961,
+        "word": "鹿晗好拽",
+        "onboard_time": 1732863380,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735097,
+        "num": 468898,
+        "word": "春晚官博回复檀健次春晚相关",
+        "onboard_time": 1732867339,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461473,
+        "num": 461473,
+        "word": "蛇年春晚标识有什么寓意",
+        "onboard_time": 1732866798,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434154,
+        "num": 434154,
+        "word": "韩国人的精致穷",
+        "onboard_time": 1732864819,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53035,
+        "num": 431472,
+        "word": "猎捕野猪为什么这么难",
+        "onboard_time": 1732867699,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 429351,
+        "num": 429351,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 10,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 388794,
+        "num": 388794,
+        "word": "再见爱人4第七期视频没了",
+        "onboard_time": 1732864639,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385992,
+        "num": 385992,
+        "word": "黄雅琼回应郑思维退出国际赛场",
+        "onboard_time": 1732862539,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318245,
+        "num": 318245,
+        "word": "冯绍峰接想想放学回家",
+        "onboard_time": 1732862119,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82410,
+        "num": 310230,
+        "word": "人民网评白夜破晓",
+        "onboard_time": 1732867279,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307613,
+        "num": 307613,
+        "word": "美国女子抱婴儿袭警母女都被射杀",
+        "onboard_time": 1732856660,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282966,
+        "num": 282966,
+        "word": "辅警因为一次好奇9年后救了一条命",
+        "onboard_time": 1732859360,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55319,
+        "num": 282194,
+        "word": "国产剧奇葩婆婆又出新款了",
+        "onboard_time": 1732868600,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52084,
+        "num": 279910,
+        "word": "悬疑片的反转应该这么拍",
+        "onboard_time": 1732867759,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18638,
+        "num": 278447,
+        "word": "打游戏一直稳是什么体验",
+        "onboard_time": 1732867519,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60728,
+        "num": 276886,
+        "word": "小鬼拍到本智性恋心趴上了",
+        "onboard_time": 1732867819,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 419810,
+        "num": 275942,
+        "word": "中国游客在马尔代夫潜水遭鲨鱼咬头",
+        "onboard_time": 1732866379,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 274913,
+        "num": 274913,
+        "word": "林一长沙活动取消",
+        "onboard_time": 1732864819,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264883,
+        "num": 264883,
+        "word": "年轻人买的水果半数是情感商品",
+        "onboard_time": 1732864879,
+        "rank": 23,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 25882,
+        "num": 259370,
+        "word": "郑思维拥有7个世界冠军头衔",
+        "onboard_time": 1732866798,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258574,
+        "num": 258574,
+        "word": "官方公布冷藏车厢内8人窒息死亡详情",
+        "onboard_time": 1732867039,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 25851,
+        "num": 245999,
+        "word": "王曼昱助力亚冬会",
+        "onboard_time": 1732867819,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240164,
+        "num": 240164,
+        "word": "王源头像P了个新帽子",
+        "onboard_time": 1732864699,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34264,
+        "num": 221420,
+        "word": "龚俊城市雨夜撑伞照",
+        "onboard_time": 1732869020,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109764,
+        "num": 220153,
+        "word": "儿媳控告公婆未经允许在客厅安监控",
+        "onboard_time": 1732867639,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219885,
+        "num": 219885,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192057,
+        "num": 192057,
+        "word": "为什么刑侦剧多在东北拍",
+        "onboard_time": 1732868539,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187404,
+        "num": 187404,
+        "word": "导致胃癌的6个高危因素",
+        "onboard_time": 1732868000,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169702,
+        "num": 169702,
+        "word": "周密把周芯竹买话筒的钱转给她了",
+        "onboard_time": 1732868839,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162765,
+        "num": 162765,
+        "word": "王楠女儿落选国乒少年集训队",
+        "onboard_time": 1732853239,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162382,
+        "num": 162382,
+        "word": "印政府还在用被封杀4年的中国APP",
+        "onboard_time": 1732868779,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150301,
+        "num": 150301,
+        "word": "奥斯卡宁荣荣 新还珠格格",
+        "onboard_time": 1732864639,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22049,
+        "num": 146255,
+        "word": "108是法考生的幸运数",
+        "onboard_time": 1732863440,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145912,
+        "num": 145912,
+        "word": "贺峻霖一路繁花数箱子",
+        "onboard_time": 1732868719,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144491,
+        "num": 144491,
+        "word": "杨子黄圣依 人设",
+        "onboard_time": 1732863679,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144224,
+        "num": 144224,
+        "word": "丁禹兮看人深情是因为六百度近视",
+        "onboard_time": 1732864518,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141758,
+        "num": 141758,
+        "word": "珠海户籍居民可一周去一次澳门",
+        "onboard_time": 1732863920,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129366,
+        "num": 129366,
+        "word": "老人吃腌萝卜后中毒整个人紫了",
+        "onboard_time": 1732858280,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18824,
+        "num": 128407,
+        "word": "曾舜晞参加尖叫之夜",
+        "onboard_time": 1732861159,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127579,
+        "num": 127579,
+        "word": "你家的筷子多久没换了",
+        "onboard_time": 1732860380,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127129,
+        "num": 127129,
+        "word": "侵华日军日记描述南京尸体如山",
+        "onboard_time": 1732865538,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124423,
+        "num": 124423,
+        "word": "TES官宣Meiko离队",
+        "onboard_time": 1732865058,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124103,
+        "num": 124103,
+        "word": "胖东来调改永辉超市25天改了啥",
+        "onboard_time": 1732858099,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115064,
+        "num": 115064,
+        "word": "侵华日军日记曝光南京大屠杀新证",
+        "onboard_time": 1732868480,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32197,
+        "num": 114776,
+        "word": "侯明昊无处安放的手",
+        "onboard_time": 1732865358,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根中国大地赓续中华文脉厚植学术根基#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732865907657,
+  "endTime": 1732869043965,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 816734,
+      "num": 816734,
+      "word": "外交部回应优衣库不用新疆棉",
+      "onboard_time": 1732868000,
+      "rank": 1,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 809099,
       "num": 293225,
       "word": "杨子翻脸",
@@ -151,6 +159,22 @@
       "num": 657154,
       "word": "2025总台春晚主题主标识发布",
       "onboard_time": 1732853000,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 741818,
+      "num": 469961,
+      "word": "鹿晗好拽",
+      "onboard_time": 1732863380,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 735097,
+      "num": 468898,
+      "word": "春晚官博回复檀健次春晚相关",
+      "onboard_time": 1732867339,
       "rank": 6,
       "category": "综艺"
     },
@@ -187,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 615200,
-      "num": 408498,
-      "word": "鹿晗好拽",
-      "onboard_time": 1732863380,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 604358,
+      "num": 604358,
+      "word": "巴黎世家售出8天后要顾客补1147元",
+      "onboard_time": 1732865898,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 580918,
@@ -251,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461473,
+      "num": 461473,
+      "word": "蛇年春晚标识有什么寓意",
+      "onboard_time": 1732866798,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461114,
       "num": 461114,
       "word": "父母希望黄圣依有正常的婚姻关系",
@@ -299,12 +331,36 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 434154,
+      "num": 434154,
+      "word": "韩国人的精致穷",
+      "onboard_time": 1732864819,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 429351,
+      "num": 429351,
+      "word": "韩安冉称do脸模板是赵露思",
+      "onboard_time": 1732867879,
+      "rank": 10,
+      "category": "网红,美妆"
+    },
+    {
       "raw_hot": 424496,
       "num": 424496,
       "word": "世上最珍贵的伞被找回来了",
       "onboard_time": 1732841659,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 419810,
+      "num": 275942,
+      "word": "中国游客在马尔代夫潜水遭鲨鱼咬头",
+      "onboard_time": 1732866379,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 415236,
@@ -323,8 +379,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 366757,
-      "num": 366757,
+      "raw_hot": 388794,
+      "num": 388794,
       "word": "再见爱人4第七期视频没了",
       "onboard_time": 1732864639,
       "rank": 15,
@@ -411,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286642,
-      "num": 286642,
-      "word": "韩国人的精致穷",
-      "onboard_time": 1732864819,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 281375,
       "num": 214953,
       "word": "梅艳芳 拜拜",
@@ -449,6 +497,14 @@
       "onboard_time": 1732837397,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274913,
+      "num": 274913,
+      "word": "林一长沙活动取消",
+      "onboard_time": 1732864819,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 271559,
@@ -483,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264883,
+      "num": 264883,
+      "word": "年轻人买的水果半数是情感商品",
+      "onboard_time": 1732864879,
+      "rank": 47,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 264541,
       "num": 285031,
       "word": "直播志愿军烈士遗骸安葬",
@@ -497,6 +561,14 @@
       "onboard_time": 1732842498,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258574,
+      "num": 258574,
+      "word": "官方公布冷藏车厢内8人窒息死亡详情",
+      "onboard_time": 1732867039,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257582,
@@ -595,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217612,
-      "num": 217612,
-      "word": "林一长沙活动取消",
-      "onboard_time": 1732864819,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217354,
       "num": 375581,
       "word": "为母亲遭遇网课入侵寻求公正的女儿",
@@ -699,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192057,
+      "num": 192057,
+      "word": "为什么刑侦剧多在东北拍",
+      "onboard_time": 1732868539,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192022,
       "num": 211790,
       "word": "杨紫海边浪漫碎片",
@@ -739,20 +811,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189859,
-      "num": 189859,
-      "word": "年轻人买的水果半数是情感商品",
-      "onboard_time": 1732864879,
-      "rank": 47,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 188284,
       "num": 188284,
       "word": "NewJeansneverdies",
       "onboard_time": 1732806439,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187404,
+      "num": 187404,
+      "word": "导致胃癌的6个高危因素",
+      "onboard_time": 1732868000,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186208,
@@ -907,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169702,
+      "num": 169702,
+      "word": "周密把周芯竹买话筒的钱转给她了",
+      "onboard_time": 1732868839,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169593,
       "num": 169593,
       "word": "还有2个月就是除夕了",
@@ -952,6 +1032,14 @@
       "word": "特朗普关税大棒下没有赢家",
       "onboard_time": 1732824071,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 162382,
+      "num": 162382,
+      "word": "印政府还在用被封杀4年的中国APP",
+      "onboard_time": 1732868779,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -1051,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150301,
+      "num": 150301,
+      "word": "奥斯卡宁荣荣 新还珠格格",
+      "onboard_time": 1732864639,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149487,
       "num": 235266,
       "word": "登陆少年新歌",
@@ -1080,6 +1176,14 @@
       "word": "闪耀的恒星现世重逢海报",
       "onboard_time": 1732853420,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145912,
+      "num": 145912,
+      "word": "贺峻霖一路繁花数箱子",
+      "onboard_time": 1732868719,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1227,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127129,
+      "num": 127129,
+      "word": "侵华日军日记描述南京尸体如山",
+      "onboard_time": 1732865538,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126527,
       "num": 126527,
       "word": "虞书欣丁禹兮意林少年版",
@@ -1347,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115064,
+      "num": 115064,
+      "word": "侵华日军日记曝光南京大屠杀新证",
+      "onboard_time": 1732868480,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114954,
       "num": 114954,
       "word": "澳大利亚通过法案16岁以下禁用社媒",
@@ -1384,6 +1504,14 @@
       "word": "胖东来每件羽绒服都标有进货价",
       "onboard_time": 1732790060,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109764,
+      "num": 220153,
+      "word": "儿媳控告公婆未经允许在客厅安监控",
+      "onboard_time": 1732867639,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1569,6 +1697,14 @@
       "onboard_time": 1732833616,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82410,
+      "num": 310230,
+      "word": "人民网评白夜破晓",
+      "onboard_time": 1732867279,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 80905,
@@ -1851,6 +1987,14 @@
       "category": "议题讨论,时尚"
     },
     {
+      "raw_hot": 60728,
+      "num": 276886,
+      "word": "小鬼拍到本智性恋心趴上了",
+      "onboard_time": 1732867819,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 60352,
       "num": 60352,
       "word": "Minji对方时赫无话可说",
@@ -1923,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55319,
+      "num": 282194,
+      "word": "国产剧奇葩婆婆又出新款了",
+      "onboard_time": 1732868600,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54116,
       "num": 54116,
       "word": "苏翊鸣本周末再次亮相雪飞天",
@@ -1947,12 +2099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53035,
+      "num": 431472,
+      "word": "猎捕野猪为什么这么难",
+      "onboard_time": 1732867699,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 52460,
       "num": 196231,
       "word": "崩坏星穹铁道",
       "onboard_time": 1732865719,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52084,
+      "num": 279910,
+      "word": "悬疑片的反转应该这么拍",
+      "onboard_time": 1732867759,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 51188,
@@ -2115,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34264,
+      "num": 221420,
+      "word": "龚俊城市雨夜撑伞照",
+      "onboard_time": 1732869020,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33896,
       "num": 196007,
       "word": "古巨基钻石败犬live首秀",
@@ -2129,6 +2305,14 @@
       "onboard_time": 1732799780,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 32197,
+      "num": 131747,
+      "word": "侯明昊无处安放的手",
+      "onboard_time": 1732865358,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 32137,
@@ -2155,6 +2339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25882,
+      "num": 259370,
+      "word": "郑思维拥有7个世界冠军头衔",
+      "onboard_time": 1732866798,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25851,
+      "num": 245999,
+      "word": "王曼昱助力亚冬会",
+      "onboard_time": 1732867819,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25639,
       "num": 64585,
       "word": "宋亚轩沙漠酷耶",
@@ -2169,6 +2369,14 @@
       "onboard_time": 1732857739,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22049,
+      "num": 146255,
+      "word": "108是法考生的幸运数",
+      "onboard_time": 1732863440,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 21869,
@@ -2219,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18638,
+      "num": 278447,
+      "word": "打游戏一直稳是什么体验",
+      "onboard_time": 1732867519,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17359,
       "num": 24742,
       "word": "双20编队列阵长空告慰志愿军忠烈",
@@ -2265,14 +2481,6 @@
       "onboard_time": 1732816453,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16190,
-      "num": 131747,
-      "word": "侯明昊无处安放的手",
-      "onboard_time": 1732865358,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 16127,
@@ -2446,6 +2654,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向乌拉圭当选总统奥尔西致贺电#"
+    },
+    {
+      "word": "#扎根中国大地赓续中华文脉厚植学术根基#"
     }
   ]
 }
