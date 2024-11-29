@@ -1,0 +1,410 @@
+{
+  "runTime": 1732873198695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2312389,
+        "num": 2312389,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1488482,
+        "num": 1488482,
+        "word": "安以轩老公被判处13年有期徒刑",
+        "onboard_time": 1732870039,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65436,
+        "num": 976842,
+        "word": "第11批志愿军烈士安葬祭文",
+        "onboard_time": 1732870879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 718322,
+        "num": 718322,
+        "word": "印政府还在用被封杀4年的中国APP",
+        "onboard_time": 1732868779,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 670491,
+        "num": 670491,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 4,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 424848,
+        "num": 648210,
+        "word": "新疆棉是世界最好棉花之一",
+        "onboard_time": 1732870520,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629576,
+        "num": 629576,
+        "word": "春晚官博回复檀健次春晚相关",
+        "onboard_time": 1732867339,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469752,
+        "num": 469752,
+        "word": "蛇年春晚标识有什么寓意",
+        "onboard_time": 1732866798,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406614,
+        "num": 406614,
+        "word": "官方公布冷藏车厢内8人窒息死亡详情",
+        "onboard_time": 1732867039,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 376297,
+        "num": 376297,
+        "word": "巴黎世家售出8天后要顾客补1147元",
+        "onboard_time": 1732865898,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1083410,
+        "num": 331464,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437355,
+        "num": 306607,
+        "word": "鹿晗回应喝多了",
+        "onboard_time": 1732845798,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389126,
+        "num": 300028,
+        "word": "周密把周芯竹买话筒的钱转给她了",
+        "onboard_time": 1732868839,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276408,
+        "num": 276408,
+        "word": "韩国人的精致穷",
+        "onboard_time": 1732864819,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13596,
+        "num": 274761,
+        "word": "这些抗老猛药敏感肌别碰",
+        "onboard_time": 1732872620,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 433709,
+        "num": 269993,
+        "word": "鹿晗好拽",
+        "onboard_time": 1732863380,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219168,
+        "num": 265449,
+        "word": "17名男女KTV聚众吸毒被一锅端",
+        "onboard_time": 1732860080,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161035,
+        "num": 263417,
+        "word": "纯白无瑕的新疆棉花不容抹黑玷污",
+        "onboard_time": 1732871418,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46928,
+        "num": 259515,
+        "word": "宁悦一段演讲全是讽刺",
+        "onboard_time": 1732872859,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156267,
+        "num": 252722,
+        "word": "黄雅琼回应郑思维退出国际赛场",
+        "onboard_time": 1732862539,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321325,
+        "num": 248455,
+        "word": "林志玲晒亲子照",
+        "onboard_time": 1732871300,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329523,
+        "num": 243249,
+        "word": "导致胃癌的6个高危因素",
+        "onboard_time": 1732868000,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242817,
+        "num": 242817,
+        "word": "中国游客在马尔代夫潜水遭鲨鱼咬头",
+        "onboard_time": 1732866379,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170237,
+        "num": 240135,
+        "word": "安以轩老公",
+        "onboard_time": 1732871899,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38486,
+        "num": 237790,
+        "word": "主教练上场",
+        "onboard_time": 1732872440,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19766,
+        "num": 230255,
+        "word": "iQOONeo10双芯战神",
+        "onboard_time": 1732869619,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127212,
+        "num": 226383,
+        "word": "迪丽热巴ELLE2025开年刊封面预告",
+        "onboard_time": 1732872200,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 222920,
+        "num": 222920,
+        "word": "张婧仪眉骨阴影",
+        "onboard_time": 1732869739,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193231,
+        "num": 193231,
+        "word": "王楚钦林诗栋赛前对练",
+        "onboard_time": 1732871899,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72768,
+        "num": 192558,
+        "word": "逆水寒",
+        "onboard_time": 1732870461,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192098,
+        "num": 192098,
+        "word": "杨紫 家业路透",
+        "onboard_time": 1732870760,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150564,
+        "num": 189198,
+        "word": "油腻的小学生作文究竟是谁的错",
+        "onboard_time": 1732871119,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 188824,
+        "num": 188824,
+        "word": "再见爱人4第七期视频没了",
+        "onboard_time": 1732864639,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17912,
+        "num": 183256,
+        "word": "千千阕歌和夕阳之歌合体了",
+        "onboard_time": 1732871238,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180698,
+        "num": 180698,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160999,
+        "num": 160999,
+        "word": "樊振东回上海交大啦",
+        "onboard_time": 1732872799,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159692,
+        "num": 159692,
+        "word": "刘浩存这段像在逗女朋友",
+        "onboard_time": 1732871000,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153498,
+        "num": 153498,
+        "word": "女子在中医诊所遭性侵医生被刑拘",
+        "onboard_time": 1732868659,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 152376,
+        "word": "iQOONeo10打游戏包稳的",
+        "onboard_time": 1732872920,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151898,
+        "num": 151898,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27017,
+        "num": 138791,
+        "word": "医生称张咪术后无法高质量唱歌",
+        "onboard_time": 1732871180,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134877,
+        "num": 134877,
+        "word": "冯绍峰接想想放学回家",
+        "onboard_time": 1732862119,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133655,
+        "num": 133655,
+        "word": "优衣库在华业绩下滑",
+        "onboard_time": 1732870099,
+        "rank": 42,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 128286,
+        "num": 128286,
+        "word": "冻掉手脚的志愿军战士遗憾没能冲锋",
+        "onboard_time": 1732872019,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124101,
+        "num": 124101,
+        "word": "张鼎pay姐订婚",
+        "onboard_time": 1732872019,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123538,
+        "num": 123538,
+        "word": "马云现身阿里巴巴园区",
+        "onboard_time": 1732872679,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113221,
+        "num": 113221,
+        "word": "儿媳控告公婆未经允许在客厅安监控",
+        "onboard_time": 1732867639,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112643,
+        "num": 112643,
+        "word": "TES官宣Meiko离队",
+        "onboard_time": 1732865058,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112571,
+        "num": 112571,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15868,
+        "num": 110899,
+        "word": "骑行10分钟就能让心情变好",
+        "onboard_time": 1732872679,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎根中国大地赓续中华文脉厚植学术根基#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732872356626,
+  "endTime": 1732873198695,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5121,6 +5121,14 @@
       "onboard_time": 1731234560,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1083410,
+      "num": 331464,
+      "word": "我是刑警 打码",
+      "onboard_time": 1732871180,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1083024,
@@ -10379,6 +10387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 718322,
+      "num": 718322,
+      "word": "印政府还在用被封杀4年的中国APP",
+      "onboard_time": 1732868779,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 717010,
       "num": 434349,
       "word": "黑寡妇召集复联支持哈里斯",
@@ -10913,14 +10929,6 @@
       "onboard_time": 1730462359,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 688393,
-      "num": 688393,
-      "word": "印政府还在用被封杀4年的中国APP",
-      "onboard_time": 1732868779,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 688362,
@@ -13060,7 +13068,7 @@
     },
     {
       "raw_hot": 613476,
-      "num": 461473,
+      "num": 469752,
       "word": "蛇年春晚标识有什么寓意",
       "onboard_time": 1732866798,
       "rank": 7,
@@ -18235,14 +18243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 458663,
-      "num": 219285,
-      "word": "我是刑警 打码",
-      "onboard_time": 1732871180,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 458606,
       "num": 458606,
       "word": "林高远止步总决赛16强",
@@ -19673,6 +19673,14 @@
       "onboard_time": 1731918018,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 424848,
+      "num": 648210,
+      "word": "新疆棉是世界最好棉花之一",
+      "onboard_time": 1732870520,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 424773,
@@ -21467,6 +21475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 389126,
+      "num": 376798,
+      "word": "周密把周芯竹买话筒的钱转给她了",
+      "onboard_time": 1732868839,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389041,
       "num": 261218,
       "word": "指甲尽量要剪成方形",
@@ -22129,14 +22145,6 @@
       "onboard_time": 1730461819,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376798,
-      "num": 376798,
-      "word": "周密把周芯竹买话筒的钱转给她了",
-      "onboard_time": 1732868839,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 376784,
@@ -24891,14 +24899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 326941,
-      "num": 326941,
-      "word": "新疆棉是世界最好棉花之一",
-      "onboard_time": 1732870520,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 326824,
       "num": 416988,
       "word": "虞书欣泰国生图",
@@ -25208,6 +25208,14 @@
       "word": "蔡徐坤雪中撑伞",
       "onboard_time": 1732540521,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321325,
+      "num": 279223,
+      "word": "林志玲晒亲子照",
+      "onboard_time": 1732871300,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -28361,14 +28369,6 @@
       "onboard_time": 1732496539,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279223,
-      "num": 279223,
-      "word": "林志玲晒亲子照",
-      "onboard_time": 1732871300,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 279197,
@@ -41963,6 +41963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193231,
+      "num": 193231,
+      "word": "王楚钦林诗栋赛前对练",
+      "onboard_time": 1732871899,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193210,
       "num": 278323,
       "word": "向佐药水哥同框直播",
@@ -42080,14 +42088,6 @@
       "word": "杨倩备战新的奥运周期",
       "onboard_time": 1731398778,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192912,
-      "num": 192912,
-      "word": "王楚钦林诗栋赛前对练",
-      "onboard_time": 1732871899,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -42360,6 +42360,14 @@
       "word": "登陆少年开场",
       "onboard_time": 1730805921,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192098,
+      "num": 192098,
+      "word": "杨紫 家业路透",
+      "onboard_time": 1732870760,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -44219,14 +44227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 186300,
-      "num": 186300,
-      "word": "杨紫 家业路透",
-      "onboard_time": 1732870760,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186296,
       "num": 276172,
       "word": "肖战第三小节预约",
@@ -45308,7 +45308,7 @@
     },
     {
       "raw_hot": 182468,
-      "num": 182468,
+      "num": 240135,
       "word": "安以轩老公",
       "onboard_time": 1732871899,
       "rank": 37,
@@ -45841,6 +45841,14 @@
       "onboard_time": 1730629159,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180698,
+      "num": 180698,
+      "word": "关晓彤迪拜vlog",
+      "onboard_time": 1732872920,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 180691,
@@ -51891,12 +51899,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161035,
+      "num": 263417,
+      "word": "纯白无瑕的新疆棉花不容抹黑玷污",
+      "onboard_time": 1732871418,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161024,
       "num": 161024,
       "word": "周翊然张予曦对手戏",
       "onboard_time": 1731989002,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160999,
+      "num": 160999,
+      "word": "樊振东回上海交大啦",
+      "onboard_time": 1732872799,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 160949,
@@ -55251,14 +55275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151106,
-      "num": 233295,
-      "word": "纯白无瑕的新疆棉花不容抹黑玷污",
-      "onboard_time": 1732871418,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151051,
       "num": 151051,
       "word": "中国扎染每次打开都是开盲盒的惊喜",
@@ -55449,6 +55465,14 @@
       "onboard_time": 1731680241,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150564,
+      "num": 391480,
+      "word": "油腻的小学生作文究竟是谁的错",
+      "onboard_time": 1732871119,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 150560,
@@ -61955,14 +61979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130498,
-      "num": 391480,
-      "word": "油腻的小学生作文究竟是谁的错",
-      "onboard_time": 1732871119,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 130474,
       "num": 162468,
       "word": "长生嬴政绕后",
@@ -62961,6 +62977,14 @@
       "onboard_time": 1730605519,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127212,
+      "num": 228218,
+      "word": "迪丽热巴ELLE2025开年刊封面预告",
+      "onboard_time": 1732872200,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 127196,
@@ -64305,6 +64329,14 @@
       "onboard_time": 1731895217,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123538,
+      "num": 123538,
+      "word": "马云现身阿里巴巴园区",
+      "onboard_time": 1732872679,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 123506,
@@ -67459,6 +67491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113221,
+      "num": 220153,
+      "word": "儿媳控告公婆未经允许在客厅安监控",
+      "onboard_time": 1732867639,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113195,
       "num": 113195,
       "word": "时代少年团43秒回顾五年",
@@ -67657,6 +67697,14 @@
       "onboard_time": 1732176679,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112571,
+      "num": 112571,
+      "word": "周密 格局",
+      "onboard_time": 1732873159,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 112521,
@@ -68425,14 +68473,6 @@
       "onboard_time": 1730882904,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109764,
-      "num": 220153,
-      "word": "儿媳控告公婆未经允许在客厅安监控",
-      "onboard_time": 1732867639,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109749,
@@ -77907,6 +77947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 65436,
+      "num": 1146466,
+      "word": "第11批志愿军烈士安葬祭文",
+      "onboard_time": 1732870879,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65300,
       "num": 236677,
       "word": "网约护士为什么叫好不叫座",
@@ -78555,14 +78603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62358,
-      "num": 1146466,
-      "word": "第11批志愿军烈士安葬祭文",
-      "onboard_time": 1732870879,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 62349,
       "num": 82783,
       "word": "中国姑娘集体跳舞宛如复制粘贴",
@@ -78953,14 +78993,6 @@
       "onboard_time": 1732273699,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61057,
-      "num": 228218,
-      "word": "迪丽热巴ELLE2025开年刊封面预告",
-      "onboard_time": 1732872200,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 61048,
@@ -83187,6 +83219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46928,
+      "num": 259515,
+      "word": "宁悦一段演讲全是讽刺",
+      "onboard_time": 1732872859,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46920,
       "num": 267083,
       "word": "郑钦文回应比赛中让观众别喊了",
@@ -86313,6 +86353,14 @@
       "onboard_time": 1731532450,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38486,
+      "num": 237790,
+      "word": "主教练上场",
+      "onboard_time": 1732872440,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 38468,
@@ -90539,6 +90587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29312,
+      "num": 152376,
+      "word": "iQOONeo10打游戏包稳的",
+      "onboard_time": 1732872920,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29299,
       "num": 338182,
       "word": "中国电动车企绝不能内讧",
@@ -91644,7 +91700,7 @@
     },
     {
       "raw_hot": 27090,
-      "num": 225878,
+      "num": 230255,
       "word": "iQOONeo10双芯战神",
       "onboard_time": 1732869619,
       "rank": 41,
@@ -91705,6 +91761,14 @@
       "onboard_time": 1731064220,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 27017,
+      "num": 238815,
+      "word": "医生称张咪术后无法高质量唱歌",
+      "onboard_time": 1732871180,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 27011,
@@ -92217,14 +92281,6 @@
       "onboard_time": 1730718919,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25828,
-      "num": 238815,
-      "word": "医生称张咪术后无法高质量唱歌",
-      "onboard_time": 1732871180,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 25826,
@@ -95971,6 +96027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17912,
+      "num": 284844,
+      "word": "千千阕歌和夕阳之歌合体了",
+      "onboard_time": 1732871238,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17867,
       "num": 23413,
       "word": "张泽禹给余宇涵的生日祝福",
@@ -96659,14 +96723,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16282,
-      "num": 284844,
-      "word": "千千阕歌和夕阳之歌合体了",
-      "onboard_time": 1732871238,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16278,
       "num": 36750,
       "word": "与28年前的首届航展跨时空联动",
@@ -96857,6 +96913,14 @@
       "onboard_time": 1732705518,
       "rank": 19,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 15868,
+      "num": 110899,
+      "word": "骑行10分钟就能让心情变好",
+      "onboard_time": 1732872679,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 15835,
@@ -97841,6 +97905,14 @@
       "onboard_time": 1732393031,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13596,
+      "num": 274761,
+      "word": "这些抗老猛药敏感肌别碰",
+      "onboard_time": 1732872620,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 13580,

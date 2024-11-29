@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732872356626,
+  "endTime": 1732873198695,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -89,6 +89,14 @@
       "onboard_time": 1732808599,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1083410,
+      "num": 331464,
+      "word": "我是刑警 打码",
+      "onboard_time": 1732871180,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1077079,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718322,
+      "num": 718322,
+      "word": "印政府还在用被封杀4年的中国APP",
+      "onboard_time": 1732868779,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 715144,
       "num": 274430,
       "word": "付鹏炮轰汇丰银行",
@@ -209,14 +225,6 @@
       "onboard_time": 1732862119,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 688393,
-      "num": 688393,
-      "word": "印政府还在用被封杀4年的中国APP",
-      "onboard_time": 1732868779,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 671537,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 613476,
-      "num": 461473,
+      "num": 469752,
       "word": "蛇年春晚标识有什么寓意",
       "onboard_time": 1732866798,
       "rank": 7,
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458663,
-      "num": 219285,
-      "word": "我是刑警 打码",
-      "onboard_time": 1732871180,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 456204,
       "num": 456204,
       "word": "外籍男子人体藏毒123粒被海关查获",
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 424848,
+      "num": 648210,
+      "word": "新疆棉是世界最好棉花之一",
+      "onboard_time": 1732870520,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 424496,
       "num": 424496,
       "word": "世上最珍贵的伞被找回来了",
@@ -419,19 +427,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 389126,
+      "num": 376798,
+      "word": "周密把周芯竹买话筒的钱转给她了",
+      "onboard_time": 1732868839,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388794,
       "num": 388794,
       "word": "再见爱人4第七期视频没了",
       "onboard_time": 1732864639,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 376798,
-      "num": 376798,
-      "word": "周密把周芯竹买话筒的钱转给她了",
-      "onboard_time": 1732868839,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -467,19 +475,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326941,
-      "num": 326941,
-      "word": "新疆棉是世界最好棉花之一",
-      "onboard_time": 1732870520,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 326763,
       "num": 324295,
       "word": "赵樱子33岁皮肤状态",
       "onboard_time": 1732856122,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321325,
+      "num": 279223,
+      "word": "林志玲晒亲子照",
+      "onboard_time": 1732871300,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -545,14 +553,6 @@
       "onboard_time": 1732857021,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279223,
-      "num": 279223,
-      "word": "林志玲晒亲子照",
-      "onboard_time": 1732871300,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 277628,
@@ -827,8 +827,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192912,
-      "num": 192912,
+      "raw_hot": 193231,
+      "num": 193231,
       "word": "王楚钦林诗栋赛前对练",
       "onboard_time": 1732871899,
       "rank": 33,
@@ -841,6 +841,14 @@
       "onboard_time": 1732854801,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192098,
+      "num": 192098,
+      "word": "杨紫 家业路透",
+      "onboard_time": 1732870760,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 192057,
@@ -907,14 +915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186300,
-      "num": 186300,
-      "word": "杨紫 家业路透",
-      "onboard_time": 1732870760,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186208,
       "num": 225445,
       "word": "ADOR长文回复NewJeans",
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 182468,
-      "num": 182468,
+      "num": 240135,
       "word": "安以轩老公",
       "onboard_time": 1732871899,
       "rank": 37,
@@ -968,6 +968,14 @@
       "word": "NewJeans解约发布会后首现身",
       "onboard_time": 1732863560,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180698,
+      "num": 180698,
+      "word": "关晓彤迪拜vlog",
+      "onboard_time": 1732872920,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1155,6 +1163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161035,
+      "num": 263417,
+      "word": "纯白无瑕的新疆棉花不容抹黑玷污",
+      "onboard_time": 1732871418,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 160999,
+      "num": 160999,
+      "word": "樊振东回上海交大啦",
+      "onboard_time": 1732872799,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159857,
       "num": 245199,
       "word": "研究说周五是出错率最高的一天",
@@ -1227,20 +1251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151106,
-      "num": 233295,
-      "word": "纯白无瑕的新疆棉花不容抹黑玷污",
-      "onboard_time": 1732871418,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 150846,
       "num": 216935,
       "word": "拿千元羽绒服翻新拆开竟没有羽绒",
       "onboard_time": 1732807879,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150564,
+      "num": 391480,
+      "word": "油腻的小学生作文究竟是谁的错",
+      "onboard_time": 1732871119,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 150301,
@@ -1427,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130498,
-      "num": 391480,
-      "word": "油腻的小学生作文究竟是谁的错",
-      "onboard_time": 1732871119,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 130421,
       "num": 121771,
       "word": "丁禹兮看自己的物料考古直播",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1732841480,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127212,
+      "num": 228218,
+      "word": "迪丽热巴ELLE2025开年刊封面预告",
+      "onboard_time": 1732872200,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 127129,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1732869739,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123538,
+      "num": 123538,
+      "word": "马云现身阿里巴巴园区",
+      "onboard_time": 1732872679,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 123506,
@@ -1675,6 +1707,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113221,
+      "num": 220153,
+      "word": "儿媳控告公婆未经允许在客厅安监控",
+      "onboard_time": 1732867639,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112571,
+      "num": 112571,
+      "word": "周密 格局",
+      "onboard_time": 1732873159,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112357,
       "num": 112357,
       "word": "普京称或用榛树导弹打击乌决策中心",
@@ -1688,14 +1736,6 @@
       "word": "胖东来每件羽绒服都标有进货价",
       "onboard_time": 1732790060,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109764,
-      "num": 220153,
-      "word": "儿媳控告公婆未经允许在客厅安监控",
-      "onboard_time": 1732867639,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2027,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72768,
+      "num": 229924,
+      "word": "逆水寒",
+      "onboard_time": 1732870461,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72531,
       "num": 110137,
       "word": "GALA 我们全明星见",
@@ -2139,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65436,
+      "num": 1146466,
+      "word": "第11批志愿军烈士安葬祭文",
+      "onboard_time": 1732870879,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65300,
       "num": 236677,
       "word": "网约护士为什么叫好不叫座",
@@ -2179,14 +2235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62358,
-      "num": 1146466,
-      "word": "第11批志愿军烈士安葬祭文",
-      "onboard_time": 1732870879,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 61899,
       "num": 180904,
       "word": "世界羽联发文祝福郑思维",
@@ -2209,22 +2257,6 @@
       "onboard_time": 1732867699,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 61057,
-      "num": 228218,
-      "word": "迪丽热巴ELLE2025开年刊封面预告",
-      "onboard_time": 1732872200,
-      "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 61037,
-      "num": 229924,
-      "word": "逆水寒",
-      "onboard_time": 1732870461,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 60728,
@@ -2403,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46928,
+      "num": 259515,
+      "word": "宁悦一段演讲全是讽刺",
+      "onboard_time": 1732872859,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46263,
       "num": 247152,
       "word": "Ning王队战胜Icon队",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1732814473,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38486,
+      "num": 237790,
+      "word": "主教练上场",
+      "onboard_time": 1732872440,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 38425,
@@ -2595,12 +2643,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29312,
+      "num": 152376,
+      "word": "iQOONeo10打游戏包稳的",
+      "onboard_time": 1732872920,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27090,
-      "num": 225878,
+      "num": 230255,
       "word": "iQOONeo10双芯战神",
       "onboard_time": 1732869619,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 27017,
+      "num": 238815,
+      "word": "医生称张咪术后无法高质量唱歌",
+      "onboard_time": 1732871180,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25922,
@@ -2625,14 +2689,6 @@
       "onboard_time": 1732867819,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25828,
-      "num": 238815,
-      "word": "医生称张咪术后无法高质量唱歌",
-      "onboard_time": 1732871180,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 25639,
@@ -2723,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17912,
+      "num": 284844,
+      "word": "千千阕歌和夕阳之歌合体了",
+      "onboard_time": 1732871238,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17600,
       "num": 183707,
       "word": "奔跑吧揭秘穿越千年的东巴纸",
@@ -2779,14 +2843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16282,
-      "num": 284844,
-      "word": "千千阕歌和夕阳之歌合体了",
-      "onboard_time": 1732871238,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16127,
       "num": 30934,
       "word": "35秒回顾11批在韩志愿军烈士遗骸归国",
@@ -2819,6 +2875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15868,
+      "num": 110899,
+      "word": "骑行10分钟就能让心情变好",
+      "onboard_time": 1732872679,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 15357,
       "num": 15357,
       "word": "他们的脚步好轻像怕惊扰沉睡的英魂",
@@ -2849,6 +2913,14 @@
       "onboard_time": 1732800200,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 13596,
+      "num": 274761,
+      "word": "这些抗老猛药敏感肌别碰",
+      "onboard_time": 1732872620,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 13019,
