@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732869043965,
+  "endTime": 1732869890304,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -505,6 +505,14 @@
       "onboard_time": 1730560582,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2972963,
+      "num": 2972963,
+      "word": "外交部回应优衣库不用新疆棉",
+      "onboard_time": 1732868000,
+      "rank": 1,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 2943052,
@@ -7619,6 +7627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 859494,
+      "num": 859494,
+      "word": "春晚官博回复檀健次春晚相关",
+      "onboard_time": 1732867339,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 859023,
       "num": 231901,
       "word": "李行亮麦琳下期和好了",
@@ -8361,14 +8377,6 @@
       "onboard_time": 1731994640,
       "rank": 39,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 816734,
-      "num": 816734,
-      "word": "外交部回应优衣库不用新疆棉",
-      "onboard_time": 1732868000,
-      "rank": 1,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 816655,
@@ -9923,14 +9931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 735097,
-      "num": 468898,
-      "word": "春晚官博回复檀健次春晚相关",
-      "onboard_time": 1732867339,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 735093,
       "num": 369049,
       "word": "麦琳下期首选离婚",
@@ -10385,6 +10385,14 @@
       "onboard_time": 1731385882,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 715343,
+      "num": 429351,
+      "word": "韩安冉称do脸模板是赵露思",
+      "onboard_time": 1732867879,
+      "rank": 10,
+      "category": "网红,美妆"
     },
     {
       "raw_hot": 715182,
@@ -12891,6 +12899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619407,
+      "num": 619407,
+      "word": "巴黎世家售出8天后要顾客补1147元",
+      "onboard_time": 1732865898,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 618875,
       "num": 271379,
       "word": "内鱼之花钱了你让让我吧 禁言",
@@ -13025,6 +13041,14 @@
       "onboard_time": 1730569757,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 613476,
+      "num": 461473,
+      "word": "蛇年春晚标识有什么寓意",
+      "onboard_time": 1732866798,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 613320,
@@ -13249,14 +13273,6 @@
       "onboard_time": 1730949920,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 604358,
-      "num": 604358,
-      "word": "巴黎世家售出8天后要顾客补1147元",
-      "onboard_time": 1732865898,
-      "rank": 3,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 603882,
@@ -18091,14 +18107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 461473,
-      "num": 461473,
-      "word": "蛇年春晚标识有什么寓意",
-      "onboard_time": 1732866798,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461114,
       "num": 461114,
       "word": "父母希望黄圣依有正常的婚姻关系",
@@ -19409,14 +19417,6 @@
       "onboard_time": 1731641659,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 429351,
-      "num": 429351,
-      "word": "韩安冉称do脸模板是赵露思",
-      "onboard_time": 1732867879,
-      "rank": 10,
-      "category": "网红,美妆"
     },
     {
       "raw_hot": 429194,
@@ -23235,6 +23235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355813,
+      "num": 355813,
+      "word": "印政府还在用被封杀4年的中国APP",
+      "onboard_time": 1732868779,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 355803,
       "num": 268817,
       "word": "被家暴16次女子希望男方定罪故意杀人",
@@ -26771,6 +26779,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 298788,
+      "num": 298788,
+      "word": "导致胃癌的6个高危因素",
+      "onboard_time": 1732868000,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 298758,
       "num": 298758,
       "word": "张大大晒与赵露思华晨宇合照",
@@ -27105,6 +27121,14 @@
       "onboard_time": 1730545098,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294216,
+      "num": 211049,
+      "word": "周密把周芯竹买话筒的钱转给她了",
+      "onboard_time": 1732868839,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 294174,
@@ -43811,14 +43835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187404,
-      "num": 187404,
-      "word": "导致胃癌的6个高危因素",
-      "onboard_time": 1732868000,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 187393,
       "num": 249583,
       "word": "张云雷直播吃减脂餐",
@@ -45937,6 +45953,14 @@
       "onboard_time": 1731128720,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180183,
+      "num": 180183,
+      "word": "女子在中医诊所遭性侵医生被刑拘",
+      "onboard_time": 1732868659,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180174,
@@ -48931,14 +48955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169702,
-      "num": 169702,
-      "word": "周密把周芯竹买话筒的钱转给她了",
-      "onboard_time": 1732868839,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169692,
       "num": 253099,
       "word": "尤长靖又闷声干大事了",
@@ -51305,14 +51321,6 @@
       "onboard_time": 1732156517,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 162382,
-      "num": 162382,
-      "word": "印政府还在用被封杀4年的中国APP",
-      "onboard_time": 1732868779,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162374,
@@ -54553,6 +54561,14 @@
       "onboard_time": 1731118457,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152583,
+      "num": 282194,
+      "word": "国产剧奇葩婆婆又出新款了",
+      "onboard_time": 1732868600,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 152570,
@@ -64107,6 +64123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123670,
+      "num": 123670,
+      "word": "蛇年春晚看九命相柳",
+      "onboard_time": 1732869739,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123604,
       "num": 123604,
       "word": "教体局回应高中学生会干部涉受贿",
@@ -64683,6 +64707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121753,
+      "num": 121753,
+      "word": "侵华日军日记曝光南京大屠杀新证",
+      "onboard_time": 1732868480,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121744,
       "num": 121744,
       "word": "山取回忆哀牢山见闻",
@@ -65033,6 +65065,14 @@
       "onboard_time": 1732280239,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 120807,
+      "num": 120807,
+      "word": "周翊然周放一搭嫂弟二搭姑侄",
+      "onboard_time": 1732869438,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 120776,
@@ -66219,6 +66259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116831,
+      "num": 116831,
+      "word": "优衣库客服已读不回",
+      "onboard_time": 1732869859,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116792,
       "num": 116792,
       "word": "好团圆",
@@ -66729,14 +66777,6 @@
       "onboard_time": 1732442059,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115064,
-      "num": 115064,
-      "word": "侵华日军日记曝光南京大屠杀新证",
-      "onboard_time": 1732868480,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115018,
@@ -73387,6 +73427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85697,
+      "num": 411957,
+      "word": "A股三大指数11月收红",
+      "onboard_time": 1732869258,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85651,
       "num": 134904,
       "word": "祝绪丹说和杨仕泽是老夫老妻状态",
@@ -75857,6 +75905,14 @@
       "onboard_time": 1732724537,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73830,
+      "num": 228958,
+      "word": "张婧仪眉骨阴影",
+      "onboard_time": 1732869739,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 73807,
@@ -78507,6 +78563,14 @@
       "category": "议题讨论,时尚"
     },
     {
+      "raw_hot": 61722,
+      "num": 431472,
+      "word": "猎捕野猪为什么这么难",
+      "onboard_time": 1732867699,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 61717,
       "num": 155639,
       "word": "赵一博全黑look",
@@ -80363,14 +80427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55319,
-      "num": 282194,
-      "word": "国产剧奇葩婆婆又出新款了",
-      "onboard_time": 1732868600,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55275,
       "num": 55275,
       "word": "王源将录制你好星期六",
@@ -81033,14 +81089,6 @@
       "onboard_time": 1732019121,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53035,
-      "num": 431472,
-      "word": "猎捕野猪为什么这么难",
-      "onboard_time": 1732867699,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 53028,
@@ -81769,6 +81817,14 @@
       "onboard_time": 1731146119,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 50971,
+      "num": 183754,
+      "word": "郑思维说我在杭州等你",
+      "onboard_time": 1732869320,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 50955,
@@ -91403,6 +91459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27090,
+      "num": 121816,
+      "word": "iQOONeo10双芯战神",
+      "onboard_time": 1732869619,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27087,
       "num": 268881,
       "word": "十个秘鲁人就有一个是中国血统",
@@ -92249,6 +92313,14 @@
       "onboard_time": 1731808939,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25148,
+      "num": 199843,
+      "word": "澳网亚太区外卡赛",
+      "onboard_time": 1732869499,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 25142,
@@ -93641,6 +93713,14 @@
       "onboard_time": 1732212072,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22398,
+      "num": 278447,
+      "word": "打游戏一直稳是什么体验",
+      "onboard_time": 1732867519,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 22393,
@@ -95409,14 +95489,6 @@
       "onboard_time": 1732442419,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18638,
-      "num": 278447,
-      "word": "打游戏一直稳是什么体验",
-      "onboard_time": 1732867519,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 18602,
