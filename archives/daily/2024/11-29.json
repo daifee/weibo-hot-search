@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732846314147,
+  "endTime": 1732849442229,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -56,6 +56,14 @@
       "word": "杨子翻脸",
       "onboard_time": 1732841659,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 753104,
+      "num": 753104,
+      "word": "再见爱人疑似补录",
+      "onboard_time": 1732847060,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358478,
+      "num": 358478,
+      "word": "建议买了羽绒服先闻一闻",
+      "onboard_time": 1732846879,
+      "rank": 3,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 349494,
       "num": 155592,
       "word": "鹿晗",
@@ -195,12 +211,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270165,
-      "num": 270165,
+      "raw_hot": 270506,
+      "num": 270506,
       "word": "李子柒穿的熊猫蜀锦裙是自己做的",
       "onboard_time": 1732845498,
       "rank": 13,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 266141,
+      "num": 266141,
+      "word": "深圳居民可申请赴港旅游一签多行",
+      "onboard_time": 1732846879,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264133,
@@ -219,12 +243,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238435,
+      "num": 288254,
+      "word": "今天星期五",
+      "onboard_time": 1732845498,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 230641,
+      "num": 265810,
+      "word": "李行亮叫麦琳心肝肝",
+      "onboard_time": 1732844298,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225725,
       "num": 225725,
       "word": "斯瓦泰克兴奋剂阳性",
       "onboard_time": 1732806558,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224095,
+      "num": 285031,
+      "word": "直播志愿军烈士遗骸安葬",
+      "onboard_time": 1732845919,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 223556,
@@ -267,14 +315,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 191175,
-      "num": 265810,
-      "word": "李行亮叫麦琳心肝肝",
-      "onboard_time": 1732844298,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188284,
       "num": 188284,
       "word": "NewJeansneverdies",
@@ -305,6 +345,14 @@
       "onboard_time": 1732772418,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174003,
+      "num": 249731,
+      "word": "黎巴嫩人得知停火回家大堵车",
+      "onboard_time": 1732845498,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173832,
@@ -371,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149487,
+      "num": 235266,
+      "word": "登陆少年新歌",
+      "onboard_time": 1732846879,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148956,
       "num": 163426,
       "word": "黑神话悟空现身吉林雪场",
@@ -395,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139716,
+      "num": 231223,
+      "word": "秦海璐教学勾引这段",
+      "onboard_time": 1732843279,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136195,
       "num": 109657,
       "word": "丁禹兮吴谨言或演兰香如故",
@@ -403,20 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132589,
-      "num": 288254,
-      "word": "今天星期五",
-      "onboard_time": 1732845498,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130421,
       "num": 121771,
       "word": "丁禹兮看自己的物料考古直播",
       "onboard_time": 1732839619,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130370,
+      "num": 130370,
+      "word": "贺峻霖新综艺私服穿搭",
+      "onboard_time": 1732847539,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 128172,
@@ -435,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120324,
-      "num": 165911,
-      "word": "秦海璐教学勾引这段",
-      "onboard_time": 1732843279,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 123506,
+      "num": 269263,
+      "word": "鹤岗暴雪27人被困深山民警徒步救出",
+      "onboard_time": 1732845558,
+      "rank": 14,
+      "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 120369,
+      "num": 120369,
+      "word": "志愿军赴长津湖高清影像",
+      "onboard_time": 1732845558,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 120196,
@@ -449,6 +521,14 @@
       "onboard_time": 1732843878,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116157,
+      "num": 116157,
+      "word": "为母亲遭遇网课入侵寻求公正的女儿",
+      "onboard_time": 1732848259,
+      "rank": 27,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 114954,
@@ -483,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106324,
+      "num": 114094,
+      "word": "燃霜为昼",
+      "onboard_time": 1732847120,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102167,
       "num": 102167,
       "word": "GimGoon回应Doinb队出局",
@@ -491,12 +579,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102085,
-      "num": 102085,
-      "word": "志愿军赴长津湖高清影像",
-      "onboard_time": 1732845558,
-      "rank": 36,
-      "category": "军事"
+      "raw_hot": 100631,
+      "num": 113369,
+      "word": "杨子连夜改剧本被李行亮麦琳截爆",
+      "onboard_time": 1732848438,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 100471,
@@ -515,12 +603,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93578,
+      "num": 226161,
+      "word": "NewJeans和粉丝说再见",
+      "onboard_time": 1732848799,
+      "rank": 19,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 91424,
       "num": 91424,
       "word": "虞书欣海边落日背影照",
       "onboard_time": 1732808478,
       "rank": 30,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 90720,
+      "num": 90720,
+      "word": "台湾球迷说马龙就是GOAT",
+      "onboard_time": 1732847238,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 90461,
@@ -547,20 +651,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 85297,
-      "num": 285031,
-      "word": "直播志愿军烈士遗骸安葬",
-      "onboard_time": 1732845919,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
-      "raw_hot": 84836,
-      "num": 84836,
-      "word": "黎巴嫩人得知停火回家大堵车",
-      "onboard_time": 1732845498,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 83482,
+      "num": 83482,
+      "word": "这就是奥运冠军的天赋吗",
+      "onboard_time": 1732847778,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 83310,
@@ -603,20 +699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78134,
+      "num": 83446,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732842798,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 77500,
       "num": 72316,
       "word": "虞书欣圣诞蓝调",
       "onboard_time": 1732806020,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 75351,
-      "num": 75351,
-      "word": "何以中国弦歌不辍",
-      "onboard_time": 1732842798,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 74933,
@@ -675,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 70857,
+      "num": 83397,
+      "word": "英国一社交平台将限制青少年用美颜",
+      "onboard_time": 1732847060,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70613,
       "num": 255874,
       "word": "MADEIN成员Gaeun退团",
@@ -723,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65300,
+      "num": 83326,
+      "word": "网约护士为什么叫好不叫座",
+      "onboard_time": 1732848739,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64790,
       "num": 64790,
       "word": "男性HPV疫苗可能成为婚前必备项",
@@ -747,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61828,
+      "num": 83324,
+      "word": "羽绒棉羽丝棉羽丝绒都不是真羽绒",
+      "onboard_time": 1732846999,
+      "rank": 47,
+      "category": "议题讨论,时尚"
+    },
+    {
       "raw_hot": 60352,
       "num": 60352,
       "word": "Minji对方时赫无话可说",
@@ -761,6 +881,14 @@
       "onboard_time": 1732794199,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58837,
+      "num": 121451,
+      "word": "2024FIFA最佳球员候选名单公布",
+      "onboard_time": 1732847178,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 58100,
@@ -793,6 +921,14 @@
       "onboard_time": 1732821311,
       "rank": 35,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 54964,
+      "num": 83259,
+      "word": "北方更冷还是南方更冷",
+      "onboard_time": 1732849039,
+      "rank": 49,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 54116,
@@ -921,14 +1057,6 @@
       "onboard_time": 1732813754,
       "rank": 19,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 22711,
-      "num": 269263,
-      "word": "鹤岗暴雪27人被困深山民警徒步救出",
-      "onboard_time": 1732845558,
-      "rank": 14,
-      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 21869,

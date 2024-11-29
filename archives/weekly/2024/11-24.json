@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732846314147,
+  "endTime": 1732849442229,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1473,6 +1473,14 @@
       "onboard_time": 1732530798,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 753104,
+      "num": 753104,
+      "word": "再见爱人疑似补录",
+      "onboard_time": 1732847060,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 750769,
@@ -3875,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358478,
+      "num": 358478,
+      "word": "建议买了羽绒服先闻一闻",
+      "onboard_time": 1732846879,
+      "rank": 3,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 358446,
       "num": 253900,
       "word": "五点五个勤天",
@@ -5011,20 +5027,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270506,
+      "num": 270506,
+      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
+      "onboard_time": 1732845498,
+      "rank": 13,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 270202,
       "num": 263344,
       "word": "XLB怒喷Doinb",
       "onboard_time": 1732714999,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 270165,
-      "num": 270165,
-      "word": "李子柒穿的熊猫蜀锦裙是自己做的",
-      "onboard_time": 1732845498,
-      "rank": 13,
-      "category": "美食,网红"
     },
     {
       "raw_hot": 269786,
@@ -5065,6 +5081,14 @@
       "onboard_time": 1732460183,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266141,
+      "num": 266141,
+      "word": "深圳居民可申请赴港旅游一签多行",
+      "onboard_time": 1732846879,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265748,
@@ -5659,6 +5683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238435,
+      "num": 288254,
+      "word": "今天星期五",
+      "onboard_time": 1732845498,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237844,
       "num": 237844,
       "word": "大连失联船舶已找到",
@@ -5835,6 +5867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230641,
+      "num": 265810,
+      "word": "李行亮叫麦琳心肝肝",
+      "onboard_time": 1732844298,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229559,
       "num": 229559,
       "word": "丁禹兮平衡感态度大片",
@@ -5985,6 +6025,14 @@
       "onboard_time": 1732526839,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224095,
+      "num": 285031,
+      "word": "直播志愿军烈士遗骸安葬",
+      "onboard_time": 1732845919,
+      "rank": 9,
+      "category": "国内时政,正能量"
     },
     {
       "raw_hot": 224092,
@@ -7507,14 +7555,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 191175,
-      "num": 265810,
-      "word": "李行亮叫麦琳心肝肝",
-      "onboard_time": 1732844298,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191142,
       "num": 191142,
       "word": "2号房只剩何浩楠了",
@@ -8497,6 +8537,14 @@
       "onboard_time": 1732582879,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174003,
+      "num": 249731,
+      "word": "黎巴嫩人得知停火回家大堵车",
+      "onboard_time": 1732845498,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173832,
@@ -10011,6 +10059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149487,
+      "num": 235266,
+      "word": "登陆少年新歌",
+      "onboard_time": 1732846879,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149435,
       "num": 242647,
       "word": "Starship将推出新男团新女团",
@@ -10643,6 +10699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139716,
+      "num": 231223,
+      "word": "秦海璐教学勾引这段",
+      "onboard_time": 1732843279,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139653,
       "num": 139653,
       "word": "严浩翔顺毛校服路透",
@@ -11099,14 +11163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132589,
-      "num": 288254,
-      "word": "今天星期五",
-      "onboard_time": 1732845498,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132578,
       "num": 230970,
       "word": "易烊千玺澡堂手牌",
@@ -11249,6 +11305,14 @@
       "onboard_time": 1732839619,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130370,
+      "num": 130370,
+      "word": "贺峻霖新综艺私服穿搭",
+      "onboard_time": 1732847539,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 129821,
@@ -11795,6 +11859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123506,
+      "num": 269263,
+      "word": "鹤岗暴雪27人被困深山民警徒步救出",
+      "onboard_time": 1732845558,
+      "rank": 14,
+      "category": "民生新闻,正能量"
+    },
+    {
       "raw_hot": 123276,
       "num": 123276,
       "word": "只有川渝人才知道她演的是什么",
@@ -12019,20 +12091,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120369,
+      "num": 120369,
+      "word": "志愿军赴长津湖高清影像",
+      "onboard_time": 1732845558,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 120356,
       "num": 120356,
       "word": "李庚希上班vs下班",
       "onboard_time": 1732448059,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120324,
-      "num": 165911,
-      "word": "秦海璐教学勾引这段",
-      "onboard_time": 1732843279,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 120196,
@@ -12361,6 +12433,14 @@
       "onboard_time": 1732379596,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116157,
+      "num": 116157,
+      "word": "为母亲遭遇网课入侵寻求公正的女儿",
+      "onboard_time": 1732848259,
+      "rank": 27,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 116146,
@@ -13147,6 +13227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106324,
+      "num": 114094,
+      "word": "燃霜为昼",
+      "onboard_time": 1732847120,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106289,
       "num": 106289,
       "word": "当导盲犬来到了迪士尼",
@@ -13315,14 +13403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102085,
-      "num": 102085,
-      "word": "志愿军赴长津湖高清影像",
-      "onboard_time": 1732845558,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 102018,
       "num": 462999,
       "word": "虞书欣COSMO花絮",
@@ -13425,6 +13505,14 @@
       "onboard_time": 1732653911,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100631,
+      "num": 113369,
+      "word": "杨子连夜改剧本被李行亮麦琳截爆",
+      "onboard_time": 1732848438,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 100144,
@@ -13771,6 +13859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93578,
+      "num": 226161,
+      "word": "NewJeans和粉丝说再见",
+      "onboard_time": 1732848799,
+      "rank": 19,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 93560,
       "num": 262089,
       "word": "檀健次硬控10后广场舞",
@@ -13905,6 +14001,14 @@
       "onboard_time": 1732636697,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90720,
+      "num": 90720,
+      "word": "台湾球迷说马龙就是GOAT",
+      "onboard_time": 1732847238,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 90461,
@@ -14203,14 +14307,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 85297,
-      "num": 285031,
-      "word": "直播志愿军烈士遗骸安葬",
-      "onboard_time": 1732845919,
-      "rank": 9,
-      "category": "国内时政,正能量"
-    },
-    {
       "raw_hot": 85257,
       "num": 280309,
       "word": "拍视频拍了别人也侵犯了肖像权",
@@ -14225,14 +14321,6 @@
       "onboard_time": 1732593679,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84836,
-      "num": 84836,
-      "word": "黎巴嫩人得知停火回家大堵车",
-      "onboard_time": 1732845498,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84808,
@@ -14313,6 +14401,14 @@
       "onboard_time": 1732634718,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83482,
+      "num": 83482,
+      "word": "这就是奥运冠军的天赋吗",
+      "onboard_time": 1732847778,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 83310,
@@ -14619,6 +14715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78134,
+      "num": 83446,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732842798,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 77880,
       "num": 94573,
       "word": "5种值得警惕的精神冷暴力",
@@ -14769,14 +14873,6 @@
       "onboard_time": 1732541360,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75351,
-      "num": 75351,
-      "word": "何以中国弦歌不辍",
-      "onboard_time": 1732842798,
-      "rank": 44,
-      "category": "正能量"
     },
     {
       "raw_hot": 75150,
@@ -14977,6 +15073,14 @@
       "onboard_time": 1732767800,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70857,
+      "num": 83397,
+      "word": "英国一社交平台将限制青少年用美颜",
+      "onboard_time": 1732847060,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 70637,
@@ -15211,6 +15315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 65300,
+      "num": 83326,
+      "word": "网约护士为什么叫好不叫座",
+      "onboard_time": 1732848739,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65240,
       "num": 227396,
       "word": "拒绝上学门诊开设5个月接诊4000人",
@@ -15329,6 +15441,14 @@
       "onboard_time": 1732637298,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 61828,
+      "num": 83324,
+      "word": "羽绒棉羽丝棉羽丝绒都不是真羽绒",
+      "onboard_time": 1732846999,
+      "rank": 47,
+      "category": "议题讨论,时尚"
     },
     {
       "raw_hot": 61564,
@@ -15529,6 +15649,14 @@
       "onboard_time": 1732556172,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58837,
+      "num": 121451,
+      "word": "2024FIFA最佳球员候选名单公布",
+      "onboard_time": 1732847178,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 58698,
@@ -15777,6 +15905,14 @@
       "onboard_time": 1732525998,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 54964,
+      "num": 83259,
+      "word": "北方更冷还是南方更冷",
+      "onboard_time": 1732849039,
+      "rank": 49,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 54876,
@@ -18449,14 +18585,6 @@
       "onboard_time": 1732532780,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22711,
-      "num": 269263,
-      "word": "鹤岗暴雪27人被困深山民警徒步救出",
-      "onboard_time": 1732845558,
-      "rank": 14,
-      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 22656,
