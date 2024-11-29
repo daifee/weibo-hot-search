@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732858886091,
+  "endTime": 1732862004839,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2078842,
-      "num": 375135,
+      "num": 668262,
       "word": "鹿晗回应喝多了",
       "onboard_time": 1732845798,
       "rank": 15,
@@ -139,11 +139,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 667968,
+      "num": 667968,
+      "word": "胖东来调改永辉超市25天改了啥",
+      "onboard_time": 1732858099,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624427,
       "num": 380589,
       "word": "沙一汀麦琳",
       "onboard_time": 1732798460,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 580918,
+      "num": 499741,
+      "word": "我们内娱有自己的李准基",
+      "onboard_time": 1732859360,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -171,11 +187,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 500646,
+      "num": 500646,
+      "word": "老人吃腌萝卜后中毒整个人紫了",
+      "onboard_time": 1732858280,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484559,
       "num": 484559,
       "word": "鹤岗迎破纪录特大暴雪",
       "onboard_time": 1732831271,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467424,
+      "num": 467424,
+      "word": "17名男女KTV聚众吸毒被一锅端",
+      "onboard_time": 1732860080,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -185,6 +217,14 @@
       "onboard_time": 1732807639,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456204,
+      "num": 456204,
+      "word": "外籍男子人体藏毒123粒被海关查获",
+      "onboard_time": 1732855161,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450261,
@@ -201,6 +241,14 @@
       "onboard_time": 1732808538,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437635,
+      "num": 437635,
+      "word": "张杰唐嫣荧幕合作",
+      "onboard_time": 1732859360,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 434556,
@@ -371,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252354,
-      "num": 252354,
-      "word": "胖东来调改永辉超市25天改了啥",
-      "onboard_time": 1732858099,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251577,
       "num": 251577,
       "word": "娜扎带妈妈泰国度假",
@@ -451,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219721,
-      "num": 219721,
-      "word": "外籍男子人体藏毒123粒被海关查获",
-      "onboard_time": 1732855161,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217354,
       "num": 375581,
       "word": "为母亲遭遇网课入侵寻求公正的女儿",
@@ -513,6 +545,22 @@
       "onboard_time": 1732854500,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194341,
+      "num": 194341,
+      "word": "卢昱晓看预告片才知道不是自己声音",
+      "onboard_time": 1732861219,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193994,
+      "num": 193994,
+      "word": "张杰第一次平头",
+      "onboard_time": 1732860800,
+      "rank": 20,
+      "category": "电影,音乐"
     },
     {
       "raw_hot": 193869,
@@ -579,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185707,
+      "num": 185707,
+      "word": "辅警因为一次好奇9年后救了一条命",
+      "onboard_time": 1732859360,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183118,
       "num": 183118,
       "word": "孔刘刘仁娜同框",
@@ -595,20 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182121,
+      "num": 182121,
+      "word": "山东一金店被抢损失或超千万",
+      "onboard_time": 1732861280,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 180903,
+      "num": 180903,
+      "word": "王海质疑李行亮麦琳争议为剧本",
+      "onboard_time": 1732859721,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180613,
       "num": 180613,
       "word": "绵阳开放大学通报",
       "onboard_time": 1732841719,
       "rank": 17,
       "category": "舆论监督,教育"
-    },
-    {
-      "raw_hot": 176977,
-      "num": 176977,
-      "word": "老人吃腌萝卜后中毒整个人紫了",
-      "onboard_time": 1732858280,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175248,
@@ -641,6 +705,14 @@
       "onboard_time": 1732850540,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170908,
+      "num": 170908,
+      "word": "关晓彤王安宇再现跳舞名场面",
+      "onboard_time": 1732860739,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 170268,
@@ -699,12 +771,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161806,
+      "num": 161806,
+      "word": "丁禹兮 我真的没有在晚上背梗",
+      "onboard_time": 1732858460,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159857,
+      "num": 245199,
+      "word": "研究说周五是出错率最高的一天",
+      "onboard_time": 1732856601,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159330,
       "num": 159330,
       "word": "卢布崩了",
       "onboard_time": 1732794799,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158271,
+      "num": 158271,
+      "word": "孙艺珍为2岁儿子庆生",
+      "onboard_time": 1732861520,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155361,
+      "num": 281166,
+      "word": "一半的胃癌与幽门螺杆菌有关",
+      "onboard_time": 1732856660,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154870,
@@ -795,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143251,
-      "num": 143251,
-      "word": "丁禹兮 我真的没有在晚上背梗",
-      "onboard_time": 1732858460,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139716,
       "num": 231223,
       "word": "秦海璐教学勾引这段",
@@ -843,12 +939,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134116,
-      "num": 245199,
-      "word": "研究说周五是出错率最高的一天",
-      "onboard_time": 1732856601,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 132230,
+      "num": 171106,
+      "word": "妙趣横声一同框就是花式发糖",
+      "onboard_time": 1732860859,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131565,
+      "num": 131565,
+      "word": "金泰亨单曲空降",
+      "onboard_time": 1732861700,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 130696,
+      "num": 130696,
+      "word": "成毅参加尖叫之夜",
+      "onboard_time": 1732860558,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 130421,
@@ -883,6 +995,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127330,
+      "num": 127330,
+      "word": "田嘉瑞新剧民国版杀手不太冷",
+      "onboard_time": 1732861639,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127307,
+      "num": 127307,
+      "word": "央财教授称股民套牢是好事",
+      "onboard_time": 1732861580,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125414,
       "num": 226161,
       "word": "NewJeans和粉丝说再见",
@@ -905,6 +1033,14 @@
       "onboard_time": 1732845558,
       "rank": 14,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 122669,
+      "num": 122669,
+      "word": "这样的新疆棉花我支持",
+      "onboard_time": 1732859299,
+      "rank": 44,
+      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 120369,
@@ -939,11 +1075,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118823,
-      "num": 281166,
-      "word": "一半的胃癌与幽门螺杆菌有关",
-      "onboard_time": 1732856660,
-      "rank": 9,
+      "raw_hot": 117644,
+      "num": 117644,
+      "word": "恋与制作人",
+      "onboard_time": 1732859960,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 116331,
+      "num": 116331,
+      "word": "你家的筷子多久没换了",
+      "onboard_time": 1732860380,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 115666,
+      "num": 115666,
+      "word": "冲锋衣成顶流是靠什么征服年轻人",
+      "onboard_time": 1732861880,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -977,6 +1129,14 @@
       "onboard_time": 1732799720,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112357,
+      "num": 112357,
+      "word": "普京称或用榛树导弹打击乌决策中心",
+      "onboard_time": 1732859838,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112199,
@@ -1073,6 +1233,14 @@
       "onboard_time": 1732847238,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98455,
+      "num": 273299,
+      "word": "专家称野猪已是危害最大的野生动物",
+      "onboard_time": 1732860439,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96966,
@@ -1267,6 +1435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 72116,
+      "num": 460804,
+      "word": "影院观影过程中屏摄违法吗",
+      "onboard_time": 1732860558,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 70857,
       "num": 83397,
       "word": "英国一社交平台将限制青少年用美颜",
@@ -1435,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58017,
+      "num": 180904,
+      "word": "世界羽联发文祝福郑思维",
+      "onboard_time": 1732861339,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56502,
       "num": 56502,
       "word": "马龙学长到底带了多少pin",
@@ -1465,6 +1649,14 @@
       "onboard_time": 1732853301,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54690,
+      "num": 170997,
+      "word": "婚内婚外老婆情人饭局修罗场",
+      "onboard_time": 1732861939,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 54116,
@@ -1515,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45783,
+      "num": 181457,
+      "word": "曾舜晞参加尖叫之夜",
+      "onboard_time": 1732861159,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45312,
       "num": 45312,
       "word": "一名在美潜逃多年逃犯被遣返回国",
@@ -1537,6 +1737,14 @@
       "onboard_time": 1732836075,
       "rank": 47,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 42572,
+      "num": 193996,
+      "word": "赵樱子出道12周年发文",
+      "onboard_time": 1732860679,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 42150,
@@ -1849,6 +2057,14 @@
       "onboard_time": 1732813814,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10839,
+      "num": 112080,
+      "word": "看雪当然要去吉林啦",
+      "onboard_time": 1732861339,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 10026,
