@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732887803458,
+  "endTime": 1732890144076,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -25,6 +25,14 @@
       "onboard_time": 1732845798,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1860476,
+      "num": 1860476,
+      "word": "湖南台员工为麦琳发声",
+      "onboard_time": 1732888039,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1759136,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1128660,
+      "num": 1128660,
+      "word": "周芯竹回复粉丝",
+      "onboard_time": 1732885578,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1123960,
       "num": 1175443,
       "word": "老师向家长借60多万买房还钱困难",
@@ -145,6 +161,14 @@
       "onboard_time": 1732853239,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 980495,
+      "num": 489722,
+      "word": "浙江知名45岁胸外科主任因车祸去世",
+      "onboard_time": 1732887261,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 972526,
@@ -209,14 +233,6 @@
       "onboard_time": 1732879818,
       "rank": 6,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 830413,
-      "num": 830413,
-      "word": "周芯竹回复粉丝",
-      "onboard_time": 1732885578,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 809099,
@@ -339,6 +355,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602650,
+      "num": 300787,
+      "word": "周密 周芯竹",
+      "onboard_time": 1732875379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 592851,
+      "num": 559857,
+      "word": "金高银获青龙影后",
+      "onboard_time": 1732889120,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 580918,
       "num": 499741,
       "word": "我们内娱有自己的李准基",
@@ -364,19 +396,11 @@
     },
     {
       "raw_hot": 567707,
-      "num": 217948,
+      "num": 295926,
       "word": "胃病变胃癌前一般有5个症状",
       "onboard_time": 1732883357,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 564423,
-      "num": 300787,
-      "word": "周密 周芯竹",
-      "onboard_time": 1732875379,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 519142,
@@ -473,6 +497,14 @@
       "onboard_time": 1732870639,
       "rank": 40,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 454955,
+      "num": 454955,
+      "word": "成都混团世界杯中国队阵容",
+      "onboard_time": 1732884259,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 451004,
@@ -699,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320579,
+      "num": 320579,
+      "word": "深圳男子花80元买彩票中2.25亿",
+      "onboard_time": 1732887980,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316672,
       "num": 316672,
       "word": "2024尖叫之夜第二波阵容",
@@ -753,6 +793,14 @@
       "onboard_time": 1732851140,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285512,
+      "num": 285512,
+      "word": "郑雨盛因私生子在青龙电影节上道歉",
+      "onboard_time": 1732888520,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 281375,
@@ -833,6 +881,14 @@
       "onboard_time": 1732846879,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264997,
+      "num": 264997,
+      "word": "莎头",
+      "onboard_time": 1732889420,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 264883,
@@ -923,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241732,
+      "num": 241732,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732883898,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240135,
       "num": 244431,
       "word": "林俊杰 DNA音乐节",
@@ -955,11 +1019,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226180,
-      "num": 226180,
-      "word": "浙江知名45岁胸外科主任因车祸去世",
-      "onboard_time": 1732887261,
-      "rank": 15,
+      "raw_hot": 226801,
+      "num": 226801,
+      "word": "一男子疑因吃驴打滚窒息身亡",
+      "onboard_time": 1732887319,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -968,14 +1032,6 @@
       "word": "斯瓦泰克兴奋剂阳性",
       "onboard_time": 1732806558,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 225488,
-      "num": 225488,
-      "word": "成都混团世界杯中国队阵容",
-      "onboard_time": 1732884259,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -1067,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210895,
+      "num": 330966,
+      "word": "中国女游客在马尔代夫潜水遭鲨鱼咬头",
+      "onboard_time": 1732889179,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209278,
       "num": 209278,
       "word": "东北女生在南方被冻到怀疑人生",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1732881619,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205707,
+      "num": 205707,
+      "word": "金高银青龙影后",
+      "onboard_time": 1732889060,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 201597,
@@ -1171,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194227,
+      "num": 237873,
+      "word": "白敬亭直播",
+      "onboard_time": 1732889120,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193994,
       "num": 193994,
       "word": "张杰第一次平头",
@@ -1193,14 +1273,6 @@
       "onboard_time": 1732871899,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192289,
-      "num": 192289,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732883898,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 192253,
@@ -1299,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185617,
+      "num": 185617,
+      "word": "新疆棉花机械化采收率提升至85%以上",
+      "onboard_time": 1732888160,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183416,
       "num": 183416,
       "word": "你家的筷子多久没换了",
@@ -1395,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175249,
+      "num": 175249,
+      "word": "朴成训回应",
+      "onboard_time": 1732888700,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175248,
       "num": 175248,
       "word": "沈梦瑶 取关",
@@ -1475,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170138,
+      "num": 170138,
+      "word": "解救女孩司机获永久免除挂靠管理费",
+      "onboard_time": 1732887380,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170043,
       "num": 205164,
       "word": "越检察官告知女首富交钱免死",
@@ -1513,6 +1609,22 @@
       "onboard_time": 1732851140,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166146,
+      "num": 166146,
+      "word": "丁禹兮请客请到隔壁剧组",
+      "onboard_time": 1732886719,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164428,
+      "num": 164428,
+      "word": "马英九与马龙打乒乓球",
+      "onboard_time": 1732886420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 164106,
@@ -1611,12 +1723,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158580,
+      "num": 245076,
+      "word": "周也做饭像过家家",
+      "onboard_time": 1732888941,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158576,
       "num": 158576,
       "word": "赵露思登美趋",
       "onboard_time": 1732880718,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157608,
+      "num": 157608,
+      "word": "A股突然猛拉",
+      "onboard_time": 1732889660,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 155857,
@@ -1683,14 +1811,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 150365,
-      "num": 150365,
-      "word": "马英九与马龙打乒乓球",
-      "onboard_time": 1732886420,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150301,
       "num": 150301,
       "word": "奥斯卡宁荣荣 新还珠格格",
@@ -1736,6 +1856,14 @@
       "word": "婚内婚外 余华语录具像化",
       "onboard_time": 1732886779,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148163,
+      "num": 148163,
+      "word": "赵露思抱着狗狗清唱珠光重晔",
+      "onboard_time": 1732888280,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1825,14 +1953,6 @@
       "onboard_time": 1732875559,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137478,
-      "num": 137478,
-      "word": "一男子疑因吃驴打滚窒息身亡",
-      "onboard_time": 1732887319,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137334,
@@ -1931,22 +2051,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 133435,
-      "num": 133435,
-      "word": "解救女孩司机获永久免除挂靠管理费",
-      "onboard_time": 1732887380,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133405,
-      "num": 133405,
-      "word": "丁禹兮请客请到隔壁剧组",
-      "onboard_time": 1732886719,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132230,
       "num": 171106,
       "word": "妙趣横声一同框就是花式发糖",
@@ -2003,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129725,
+      "num": 492450,
+      "word": "内娱中女终于上桌了",
+      "onboard_time": 1732888700,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 129368,
       "num": 129368,
       "word": "冻掉手脚的志愿军战士遗憾没能冲锋",
@@ -2025,6 +2137,14 @@
       "onboard_time": 1732854141,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 128214,
+      "num": 128214,
+      "word": "因果报应",
+      "onboard_time": 1732889960,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 128172,
@@ -2193,6 +2313,14 @@
       "onboard_time": 1732843878,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119722,
+      "num": 119722,
+      "word": "青龙奖",
+      "onboard_time": 1732888099,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 119384,
@@ -2395,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104438,
+      "num": 371646,
+      "word": "男子疑吃驴打滚窒息身亡目击者发声",
+      "onboard_time": 1732888639,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104230,
       "num": 104230,
       "word": "麦当劳绝区零联动",
@@ -2441,6 +2577,14 @@
       "onboard_time": 1732807339,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 99199,
+      "num": 310331,
+      "word": "前女友分手后生子12年后女儿起诉男方",
+      "onboard_time": 1732889420,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99178,
@@ -2657,6 +2801,14 @@
       "onboard_time": 1732876519,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77876,
+      "num": 306555,
+      "word": "幼师为追星诈骗家长16万获刑四年",
+      "onboard_time": 1732888879,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77624,
@@ -3004,7 +3156,7 @@
     },
     {
       "raw_hot": 57474,
-      "num": 155077,
+      "num": 320125,
       "word": "龚俊确认参加尖叫之夜",
       "onboard_time": 1732886119,
       "rank": 34,
@@ -3500,7 +3652,7 @@
     },
     {
       "raw_hot": 26735,
-      "num": 931992,
+      "num": 1131935,
       "word": "链博会上的环环相链",
       "onboard_time": 1732884139,
       "rank": 2,
@@ -3659,6 +3811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17381,
+      "num": 237906,
+      "word": "好东西展现女性叙事下的多重议题",
+      "onboard_time": 1732889000,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17359,
       "num": 24742,
       "word": "双20编队列阵长空告慰志愿军忠烈",
@@ -3689,6 +3849,14 @@
       "onboard_time": 1732823110,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16758,
+      "num": 238657,
+      "word": "杨溢CBA首秀",
+      "onboard_time": 1732889720,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 16602,
