@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732920059347,
+  "endTime": 1732922569002,
   "band_list": [
     {
       "raw_hot": 1236585,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238764,
+      "num": 238764,
+      "word": "周密",
+      "onboard_time": 1732921634,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220288,
       "num": 220288,
       "word": "女子取款5000元银行要求丈夫到场",
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181340,
+      "num": 153974,
+      "word": "解救女孩司机获永久免除挂靠管理费",
+      "onboard_time": 1732887380,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178215,
       "num": 142738,
       "word": "安以轩得知老公被判13年后很伤心",
@@ -219,12 +235,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 163504,
+      "num": 163504,
+      "word": "85岁大爷全网找的大学生们到齐了",
+      "onboard_time": 1732911490,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 158649,
       "num": 158649,
       "word": "深圳男子花80元买彩票中2.25亿",
       "onboard_time": 1732887980,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153687,
+      "num": 153687,
+      "word": "幼儿园回应办羊驼婚礼收份子钱",
+      "onboard_time": 1732914130,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 135441,
@@ -240,6 +272,14 @@
       "word": "幼师为追星诈骗家长16万获刑四年",
       "onboard_time": 1732888879,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125986,
+      "num": 125986,
+      "word": "外籍男子体内藏毒排出123粒毒丸",
+      "onboard_time": 1732909451,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -339,14 +379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101654,
-      "num": 62585,
-      "word": "幼儿园回应办羊驼婚礼收份子钱",
-      "onboard_time": 1732914130,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 101034,
       "num": 101034,
       "word": "一男子疑因吃驴打滚窒息身亡",
@@ -361,6 +393,22 @@
       "onboard_time": 1732899675,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94226,
+      "num": 94226,
+      "word": "留几手 原则性大事",
+      "onboard_time": 1732911311,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93905,
+      "num": 93905,
+      "word": "郑雨盛因私生子在青龙电影节上道歉",
+      "onboard_time": 1732888520,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 91716,
@@ -393,6 +441,14 @@
       "onboard_time": 1732883898,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86035,
+      "num": 86035,
+      "word": "周芯竹回复粉丝",
+      "onboard_time": 1732885578,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 85468,
@@ -435,36 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70856,
-      "num": 70856,
-      "word": "外籍男子体内藏毒排出123粒毒丸",
-      "onboard_time": 1732909451,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62474,
-      "num": 62474,
-      "word": "85岁大爷全网找的大学生们到齐了",
-      "onboard_time": 1732911490,
-      "rank": 18,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 55005,
       "num": 161863,
       "word": "中式美学一出场就惊艳了",
       "onboard_time": 1732900874,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54115,
-      "num": 63013,
-      "word": "郑雨盛因私生子在青龙电影节上道歉",
-      "onboard_time": 1732888520,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 50818,
@@ -475,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49786,
-      "num": 49786,
-      "word": "解救女孩司机获永久免除挂靠管理费",
-      "onboard_time": 1732887380,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45260,
       "num": 45260,
       "word": "9省市试点允许设立外商独资医院",
@@ -491,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42869,
-      "num": 53254,
-      "word": "留几手 原则性大事",
-      "onboard_time": 1732911311,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 44213,
+      "num": 44213,
+      "word": "三岁男孩被未拴绳罗威纳咬烂脸",
+      "onboard_time": 1732920671,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39635,
@@ -505,6 +529,22 @@
       "onboard_time": 1732900455,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39556,
+      "num": 39556,
+      "word": "日本士兵日记揭露南京大屠杀惨状",
+      "onboard_time": 1732904653,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39431,
+      "num": 39431,
+      "word": "上海连缴1年社保或个税可拍车牌",
+      "onboard_time": 1732914191,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38569,
@@ -539,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35942,
-      "num": 35942,
-      "word": "日本士兵日记揭露南京大屠杀惨状",
-      "onboard_time": 1732904653,
+      "raw_hot": 32347,
+      "num": 35924,
+      "word": "中2.25亿巨奖彩民为即兴下注",
+      "onboard_time": 1732920792,
       "rank": 47,
-      "category": "国内时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30735,
@@ -563,28 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25833,
-      "num": 82932,
-      "word": "宋亚轩滑沙vlog",
-      "onboard_time": 1732901654,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25418,
-      "num": 25418,
+      "raw_hot": 28691,
+      "num": 35895,
       "word": "老人一头栽地上却真的被感动了",
       "onboard_time": 1732914130,
       "rank": 41,
       "category": "正能量"
     },
     {
-      "raw_hot": 25409,
-      "num": 37681,
-      "word": "上海连缴1年社保或个税可拍车牌",
-      "onboard_time": 1732914191,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 25833,
+      "num": 82932,
+      "word": "宋亚轩滑沙vlog",
+      "onboard_time": 1732901654,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 24272,
@@ -611,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22492,
+      "num": 629056,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1732883959,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21168,
       "num": 25701,
       "word": "朱志鑫C位part",
@@ -635,20 +675,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20998,
+      "num": 154430,
+      "word": "优衣库多款纯棉制品未标注棉花产地",
+      "onboard_time": 1732921694,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19907,
       "num": 36382,
       "word": "路上车辆排队等烈士遗骸先行",
       "onboard_time": 1732913470,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 17886,
-      "num": 629056,
-      "word": "12月这些新规影响你我",
-      "onboard_time": 1732883959,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17693,
@@ -705,6 +745,14 @@
       "onboard_time": 1732919291,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11049,
+      "num": 51422,
+      "word": "龚俊好会搞浪漫",
+      "onboard_time": 1732919171,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 9232,
