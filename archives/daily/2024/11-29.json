@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732855429116,
+  "endTime": 1732857820134,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -33,6 +33,14 @@
       "onboard_time": 1732851741,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1448053,
+      "num": 938306,
+      "word": "蛇年春晚官宣",
+      "onboard_time": 1732854801,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1347272,
@@ -81,14 +89,6 @@
       "onboard_time": 1732836016,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 938306,
-      "num": 938306,
-      "word": "蛇年春晚官宣",
-      "onboard_time": 1732854801,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 878334,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456217,
+      "num": 456217,
+      "word": "美国女子抱婴儿袭警母女都被射杀",
+      "onboard_time": 1732856660,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 450261,
       "num": 368743,
       "word": "Newjeans宣布解约",
@@ -211,20 +219,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 402337,
+      "num": 402337,
+      "word": "普京称若乌获核武俄将全力打击",
+      "onboard_time": 1732853901,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 350892,
       "num": 350892,
       "word": "王源受刑镜头",
       "onboard_time": 1732850899,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350652,
-      "num": 350652,
-      "word": "普京称若乌获核武俄将全力打击",
-      "onboard_time": 1732853901,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 349494,
@@ -243,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326763,
+      "num": 243299,
+      "word": "赵樱子33岁皮肤状态",
+      "onboard_time": 1732856122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313300,
       "num": 494572,
       "word": "大冰为脑瘫女孩追星薛之谦",
       "onboard_time": 1732809737,
       "rank": 21,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 309110,
+      "num": 239830,
+      "word": "中国国家队回应郑思维退出国际赛场",
+      "onboard_time": 1732853420,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 304248,
@@ -307,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270360,
+      "num": 270360,
+      "word": "孟子义理想型是183的徐志胜",
+      "onboard_time": 1732854922,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268648,
       "num": 268648,
       "word": "深圳居民可申请赴港旅游一签多行",
@@ -329,6 +361,14 @@
       "onboard_time": 1732842498,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251577,
+      "num": 251577,
+      "word": "娜扎带妈妈泰国度假",
+      "onboard_time": 1732854801,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 250154,
@@ -411,27 +451,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206517,
-      "num": 205567,
-      "word": "中国国家队回应郑思维退出国际赛场",
-      "onboard_time": 1732853420,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198918,
       "num": 198918,
       "word": "闪耀的恒星",
       "onboard_time": 1732854801,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196881,
-      "num": 196881,
-      "word": "孟子义理想型是183的徐志胜",
-      "onboard_time": 1732854922,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -459,14 +483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192315,
-      "num": 205300,
-      "word": "娜扎带妈妈泰国度假",
-      "onboard_time": 1732854801,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192253,
       "num": 192253,
       "word": "声生不息",
@@ -489,6 +505,14 @@
       "onboard_time": 1732808237,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191494,
+      "num": 248679,
+      "word": "李昊心之科学舞台",
+      "onboard_time": 1732856901,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 191265,
@@ -523,12 +547,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 182320,
+      "num": 182320,
+      "word": "尖叫之夜投票",
+      "onboard_time": 1732856062,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180613,
       "num": 180613,
       "word": "绵阳开放大学通报",
       "onboard_time": 1732841719,
       "rank": 17,
       "category": "舆论监督,教育"
+    },
+    {
+      "raw_hot": 177632,
+      "num": 240543,
+      "word": "李惠仁听到方时赫的反应",
+      "onboard_time": 1732857021,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175248,
@@ -643,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153579,
+      "num": 153579,
+      "word": "外籍男子人体藏毒123粒被海关查获",
+      "onboard_time": 1732855161,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "燃霜为昼正式杀青",
@@ -705,6 +753,14 @@
       "onboard_time": 1732813334,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141194,
+      "num": 141194,
+      "word": "吴赫宣布结婚",
+      "onboard_time": 1732856302,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 139716,
@@ -803,14 +859,6 @@
       "category": "民生新闻,正能量"
     },
     {
-      "raw_hot": 121839,
-      "num": 121839,
-      "word": "外籍男子人体藏毒123粒被海关查获",
-      "onboard_time": 1732855161,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120369,
       "num": 120369,
       "word": "志愿军赴长津湖高清影像",
@@ -833,6 +881,22 @@
       "onboard_time": 1732853239,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115619,
+      "num": 245199,
+      "word": "研究说周五是出错率最高的一天",
+      "onboard_time": 1732856601,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115382,
+      "num": 115382,
+      "word": "登陆少年分词",
+      "onboard_time": 1732855582,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 114954,
@@ -864,6 +928,14 @@
       "word": "胖东来每件羽绒服都标有进货价",
       "onboard_time": 1732790060,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109652,
+      "num": 109652,
+      "word": "顾客称胖东来羽绒服已卖断货",
+      "onboard_time": 1732856181,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -969,6 +1041,14 @@
       "onboard_time": 1732796419,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94742,
+      "num": 281166,
+      "word": "一半的胃癌与幽门螺杆菌有关",
+      "onboard_time": 1732856660,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91424,
@@ -1163,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70351,
+      "num": 161895,
+      "word": "尖叫之夜网友喜爱作品评选",
+      "onboard_time": 1732857140,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69184,
       "num": 1177144,
       "word": "43位志愿军烈士遗骸今日安葬",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1732804101,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62509,
+      "num": 246430,
+      "word": "菜市场重启人生当事人称营业额翻4倍",
+      "onboard_time": 1732857800,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61828,
@@ -1355,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46263,
+      "num": 247152,
+      "word": "Ning王队战胜Icon队",
+      "onboard_time": 1732857620,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 45312,
       "num": 45312,
       "word": "一名在美潜逃多年逃犯被遣返回国",
@@ -1443,6 +1547,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35601,
+      "num": 244226,
+      "word": "当代网文到底多火",
+      "onboard_time": 1732854861,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 34908,
+      "num": 249362,
+      "word": "打进UFC的女中医石铭",
+      "onboard_time": 1732856781,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32351,
       "num": 446070,
       "word": "普通人去链博会能逛什么",
@@ -1457,14 +1577,6 @@
       "onboard_time": 1732852040,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30560,
-      "num": 146322,
-      "word": "当代网文到底多火",
-      "onboard_time": 1732854861,
-      "rank": 33,
-      "category": "读书作家"
     },
     {
       "raw_hot": 25639,
@@ -1489,6 +1601,14 @@
       "onboard_time": 1732815552,
       "rank": 19,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 21418,
+      "num": 238294,
+      "word": "幻视奥运冠军幼儿园午睡时候",
+      "onboard_time": 1732857739,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 21317,
