@@ -1,6 +1,6 @@
 {
   "startTime": 1732811367544,
-  "endTime": 1732885330102,
+  "endTime": 1732887133290,
   "band_list": [
     {
       "raw_hot": 3077197,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1095557,
+      "num": 1095557,
+      "word": "女子取款5000元银行要求丈夫到场",
+      "onboard_time": 1732882878,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1083410,
       "num": 929325,
       "word": "我是刑警 打码",
@@ -121,14 +129,6 @@
       "onboard_time": 1732861280,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1069299,
-      "num": 1069299,
-      "word": "女子取款5000元银行要求丈夫到场",
-      "onboard_time": 1732882878,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1029623,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 850585,
+      "num": 850585,
+      "word": "鹿哈给鹿晗刷礼物成为榜一",
+      "onboard_time": 1732882639,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809099,
       "num": 293225,
       "word": "杨子翻脸",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 731509,
-      "num": 731509,
-      "word": "鹿哈给鹿晗刷礼物成为榜一",
-      "onboard_time": 1732882639,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 718322,
       "num": 718322,
       "word": "印政府还在用被封杀4年的中国APP",
@@ -275,6 +275,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 704043,
+      "num": 357331,
+      "word": "周芯竹回复粉丝",
+      "onboard_time": 1732885578,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 698674,
+      "num": 644602,
+      "word": "平阴县政府卖天30年9.24亿",
+      "onboard_time": 1732883119,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 692341,
+      "num": 692341,
+      "word": "我支持新疆棉花",
+      "onboard_time": 1732879818,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 671537,
       "num": 671537,
       "word": "胖东来调改永辉超市25天改了啥",
@@ -296,14 +320,6 @@
       "word": "巴黎世家售出8天后要顾客补1147元",
       "onboard_time": 1732865898,
       "rank": 3,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 613834,
-      "num": 613834,
-      "word": "平阴县政府卖天30年9.24亿",
-      "onboard_time": 1732883119,
-      "rank": 8,
       "category": "舆论监督"
     },
     {
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 562556,
-      "num": 562556,
-      "word": "我支持新疆棉花",
-      "onboard_time": 1732879818,
-      "rank": 6,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 561646,
       "num": 199979,
       "word": "胃病变胃癌前一般有5个症状",
@@ -393,6 +401,14 @@
       "onboard_time": 1732872679,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 492278,
+      "num": 492278,
+      "word": "新疆棉花不容优衣库玷污",
+      "onboard_time": 1732883719,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489849,
@@ -473,6 +489,14 @@
       "onboard_time": 1732808538,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439550,
+      "num": 439550,
+      "word": "孙杨称陪豆豆的时间太少了",
+      "onboard_time": 1732884379,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 437635,
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348613,
+      "num": 348613,
+      "word": "虞书欣 谢谢你啊慕声儿",
+      "onboard_time": 1732882278,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346050,
       "num": 239372,
       "word": "胃癌发现时大多是中晚期",
@@ -617,14 +649,6 @@
       "onboard_time": 1732868000,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 333642,
-      "num": 333642,
-      "word": "虞书欣 谢谢你啊慕声儿",
-      "onboard_time": 1732882278,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 329134,
@@ -649,6 +673,14 @@
       "onboard_time": 1732883538,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 322913,
+      "num": 322913,
+      "word": "幼儿园为羊驼办婚礼份子钱30元起步",
+      "onboard_time": 1732880238,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 321325,
@@ -835,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251877,
-      "num": 251877,
-      "word": "幼儿园为羊驼办婚礼份子钱30元起步",
-      "onboard_time": 1732880238,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 251577,
       "num": 251577,
       "word": "娜扎带妈妈泰国度假",
@@ -851,12 +875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251404,
+      "num": 183215,
+      "word": "2024尖叫之夜第二波阵容",
+      "onboard_time": 1732885279,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250154,
       "num": 291718,
       "word": "句句不提琳句句都是琳",
       "onboard_time": 1732842378,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248442,
+      "num": 248442,
+      "word": "城市风华录定档",
+      "onboard_time": 1732885219,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 248196,
@@ -1363,20 +1403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172166,
-      "num": 172166,
-      "word": "孙杨称陪豆豆的时间太少了",
-      "onboard_time": 1732884379,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171960,
       "num": 171960,
       "word": "专家称男女公厕面积1比1不公平",
       "onboard_time": 1732877421,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171076,
+      "num": 171076,
+      "word": "Doinb金贡海底捞局",
+      "onboard_time": 1732886420,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 170915,
@@ -1555,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157475,
+      "num": 157475,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732883898,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155857,
       "num": 155857,
       "word": "林一霸王茶姬活动",
@@ -1584,6 +1632,14 @@
       "word": "汪顺十一月plog",
       "onboard_time": 1732854861,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153854,
+      "num": 153854,
+      "word": "成都混团世界杯中国队阵容",
+      "onboard_time": 1732884259,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1691,14 +1747,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 144498,
-      "num": 328506,
-      "word": "新疆棉花不容优衣库玷污",
-      "onboard_time": 1732883719,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143377,
       "num": 143377,
       "word": "遭前男友囚禁烫伤女生脱离生命危险",
@@ -1771,14 +1819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136434,
-      "num": 136434,
-      "word": "成都混团世界杯中国队阵容",
-      "onboard_time": 1732884259,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136291,
       "num": 136291,
       "word": "张鼎pay姐订婚",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1732861639,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134416,
+      "num": 187049,
+      "word": "胡茬版肖战",
+      "onboard_time": 1732885699,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 134342,
@@ -1971,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125856,
+      "num": 180180,
+      "word": "QQ飞车",
+      "onboard_time": 1732886839,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125414,
       "num": 226161,
       "word": "NewJeans和粉丝说再见",
@@ -2001,6 +2057,14 @@
       "onboard_time": 1732879698,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124641,
+      "num": 124641,
+      "word": "马英九与马龙打乒乓球",
+      "onboard_time": 1732886420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 124443,
@@ -2091,14 +2155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119789,
-      "num": 119789,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732883898,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119384,
       "num": 119384,
       "word": "破地狱定档",
@@ -2113,6 +2169,14 @@
       "onboard_time": 1732853239,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118478,
+      "num": 118478,
+      "word": "中医标准人体身高一米七二",
+      "onboard_time": 1732884739,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 117644,
@@ -2187,14 +2251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113489,
-      "num": 113489,
-      "word": "城市风华录定档",
-      "onboard_time": 1732885219,
-      "rank": 45,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 113221,
       "num": 220153,
       "word": "儿媳控告公婆未经允许在客厅安监控",
@@ -2251,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109597,
+      "num": 109597,
+      "word": "丁禹兮请客请到隔壁剧组",
+      "onboard_time": 1732886719,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109371,
       "num": 134034,
       "word": "汪苏泷人在线状态在家",
@@ -2279,14 +2343,6 @@
       "num": 107175,
       "word": "声生不息大湾区季初舞台开播海报",
       "onboard_time": 1732855401,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 107016,
-      "num": 107016,
-      "word": "2024尖叫之夜第二波阵容",
-      "onboard_time": 1732885279,
       "rank": 47,
       "category": "综艺"
     },
@@ -2337,14 +2393,6 @@
       "onboard_time": 1732878319,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101801,
-      "num": 101801,
-      "word": "中医标准人体身高一米七二",
-      "onboard_time": 1732884739,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 100631,
@@ -2425,6 +2473,14 @@
       "onboard_time": 1732840758,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88839,
+      "num": 163717,
+      "word": "赵一博结束一天功课",
+      "onboard_time": 1732884919,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 88589,
@@ -2569,14 +2625,6 @@
       "onboard_time": 1732876519,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77823,
-      "num": 163717,
-      "word": "赵一博结束一天功课",
-      "onboard_time": 1732884919,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 77624,
@@ -2787,12 +2835,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65643,
+      "num": 359506,
+      "word": "网购千元护肤品包装只有保鲜膜",
+      "onboard_time": 1732885699,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65300,
       "num": 236677,
       "word": "网约护士为什么叫好不叫座",
       "onboard_time": 1732848739,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64912,
+      "num": 108067,
+      "word": "广厦男篮vs广东男篮",
+      "onboard_time": 1732886659,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 64790,
@@ -2851,6 +2915,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 61597,
+      "num": 202867,
+      "word": "婚内婚外 余华语录具像化",
+      "onboard_time": 1732886779,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60728,
       "num": 276886,
       "word": "小鬼拍到本智性恋心趴上了",
@@ -2905,6 +2977,14 @@
       "onboard_time": 1732871418,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57474,
+      "num": 155077,
+      "word": "龚俊确认参加尖叫之夜",
+      "onboard_time": 1732886119,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 56502,
@@ -3048,6 +3128,14 @@
       "word": "寒潮来袭三类重点人群要做好防护",
       "onboard_time": 1732878259,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47133,
+      "num": 175858,
+      "word": "黄牛推销电动轮椅进迪士尼200元半天",
+      "onboard_time": 1732885578,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3387,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25996,
+      "num": 931992,
+      "word": "链博会上的环环相链",
+      "onboard_time": 1732884139,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25922,
       "num": 222074,
       "word": "从太阳星辰看到港剧的觉醒",
@@ -3441,6 +3537,14 @@
       "onboard_time": 1732869499,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23623,
+      "num": 185536,
+      "word": "无限暖暖开服送126抽",
+      "onboard_time": 1732884739,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 23327,
@@ -3523,28 +3627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18476,
-      "num": 153730,
-      "word": "无限暖暖开服送126抽",
-      "onboard_time": 1732884739,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 17912,
       "num": 284844,
       "word": "千千阕歌和夕阳之歌合体了",
       "onboard_time": 1732871238,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17589,
-      "num": 766984,
-      "word": "链博会上的环环相链",
-      "onboard_time": 1732884139,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17359,

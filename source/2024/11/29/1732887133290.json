@@ -1,0 +1,410 @@
+{
+  "runTime": 1732887133290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1357766,
+        "num": 1357766,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 0,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1095557,
+        "num": 1095557,
+        "word": "女子取款5000元银行要求丈夫到场",
+        "onboard_time": 1732882878,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25996,
+        "num": 931992,
+        "word": "链博会上的环环相链",
+        "onboard_time": 1732884139,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850585,
+        "num": 850585,
+        "word": "鹿哈给鹿晗刷礼物成为榜一",
+        "onboard_time": 1732882639,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692341,
+        "num": 692341,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 698674,
+        "num": 644602,
+        "word": "平阴县政府卖天30年9.24亿",
+        "onboard_time": 1732883119,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 522433,
+        "num": 522433,
+        "word": "我是刑警 打码",
+        "onboard_time": 1732871180,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492278,
+        "num": 492278,
+        "word": "新疆棉花不容优衣库玷污",
+        "onboard_time": 1732883719,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439550,
+        "num": 439550,
+        "word": "孙杨称陪豆豆的时间太少了",
+        "onboard_time": 1732884379,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65643,
+        "num": 359506,
+        "word": "网购千元护肤品包装只有保鲜膜",
+        "onboard_time": 1732885699,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704043,
+        "num": 357331,
+        "word": "周芯竹回复粉丝",
+        "onboard_time": 1732885578,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348613,
+        "num": 348613,
+        "word": "虞书欣 谢谢你啊慕声儿",
+        "onboard_time": 1732882278,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340873,
+        "num": 340873,
+        "word": "王一珩直播回应恋情",
+        "onboard_time": 1732881858,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322913,
+        "num": 322913,
+        "word": "幼儿园为羊驼办婚礼份子钱30元起步",
+        "onboard_time": 1732880238,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 314548,
+        "num": 314548,
+        "word": "汤唯和老公青龙红毯",
+        "onboard_time": 1732883538,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248442,
+        "num": 248442,
+        "word": "城市风华录定档",
+        "onboard_time": 1732885219,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 61597,
+        "num": 202867,
+        "word": "婚内婚外 余华语录具像化",
+        "onboard_time": 1732886779,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134416,
+        "num": 187049,
+        "word": "胡茬版肖战",
+        "onboard_time": 1732885699,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185539,
+        "num": 185539,
+        "word": "印政府还在用被封杀4年的中国APP",
+        "onboard_time": 1732868779,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23623,
+        "num": 185536,
+        "word": "无限暖暖开服送126抽",
+        "onboard_time": 1732884739,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 641185,
+        "num": 183751,
+        "word": "安以轩得知老公被判13年后很伤心",
+        "onboard_time": 1732874000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251404,
+        "num": 183215,
+        "word": "2024尖叫之夜第二波阵容",
+        "onboard_time": 1732885279,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541433,
+        "num": 182237,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1732883357,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210817,
+        "num": 180940,
+        "word": "关晓彤迪拜vlog",
+        "onboard_time": 1732872920,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125856,
+        "num": 180180,
+        "word": "QQ飞车",
+        "onboard_time": 1732886839,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 455707,
+        "num": 179714,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361839,
+        "num": 178940,
+        "word": "女孩边充电边玩手机手脚被电肿了",
+        "onboard_time": 1732879757,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254743,
+        "num": 177506,
+        "word": "鹿晗晒爱心纹身",
+        "onboard_time": 1732883479,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224262,
+        "num": 176169,
+        "word": "周密 周芯竹",
+        "onboard_time": 1732875379,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47133,
+        "num": 175858,
+        "word": "黄牛推销电动轮椅进迪士尼200元半天",
+        "onboard_time": 1732885578,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175218,
+        "num": 175218,
+        "word": "汤唯青龙奖红毯",
+        "onboard_time": 1732883779,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171076,
+        "num": 171076,
+        "word": "Doinb金贡海底捞局",
+        "onboard_time": 1732886420,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157475,
+        "num": 157475,
+        "word": "现在拨打的电话",
+        "onboard_time": 1732883898,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88839,
+        "num": 155547,
+        "word": "赵一博结束一天功课",
+        "onboard_time": 1732884919,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57474,
+        "num": 155077,
+        "word": "龚俊确认参加尖叫之夜",
+        "onboard_time": 1732886119,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154981,
+        "num": 154981,
+        "word": "韩安冉称do脸模板是赵露思",
+        "onboard_time": 1732867879,
+        "rank": 35,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 153854,
+        "num": 153854,
+        "word": "成都混团世界杯中国队阵容",
+        "onboard_time": 1732884259,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137580,
+        "num": 137580,
+        "word": "蛇年春晚标识有什么寓意",
+        "onboard_time": 1732866798,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135605,
+        "num": 135605,
+        "word": "新疆棉是世界最好棉花之一",
+        "onboard_time": 1732870520,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133439,
+        "num": 133439,
+        "word": "时代少年团周边",
+        "onboard_time": 1732883418,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132555,
+        "num": 132555,
+        "word": "蛇年春晚官宣",
+        "onboard_time": 1732854801,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129001,
+        "num": 129001,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1732876878,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124641,
+        "num": 124641,
+        "word": "马英九与马龙打乒乓球",
+        "onboard_time": 1732886420,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118478,
+        "num": 118478,
+        "word": "中医标准人体身高一米七二",
+        "onboard_time": 1732884739,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113978,
+        "num": 113978,
+        "word": "TES官宣crisp加入",
+        "onboard_time": 1732881619,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111433,
+        "num": 111433,
+        "word": "赵露思登美趋",
+        "onboard_time": 1732880718,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109597,
+        "num": 109597,
+        "word": "丁禹兮请客请到隔壁剧组",
+        "onboard_time": 1732886719,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64912,
+        "num": 108067,
+        "word": "广厦男篮vs广东男篮",
+        "onboard_time": 1732886659,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106798,
+        "num": 106798,
+        "word": "肖战糙汉文男主",
+        "onboard_time": 1732874719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103453,
+        "num": 103453,
+        "word": "fromis9解散",
+        "onboard_time": 1732873219,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建中国哲学社会科学自主知识体系#"
+    }
+  }
+}

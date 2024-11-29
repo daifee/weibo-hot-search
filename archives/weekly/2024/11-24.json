@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732885330102,
+  "endTime": 1732887133290,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -803,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1095557,
+      "num": 1095557,
+      "word": "女子取款5000元银行要求丈夫到场",
+      "onboard_time": 1732882878,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1083410,
       "num": 929325,
       "word": "我是刑警 打码",
@@ -833,14 +841,6 @@
       "onboard_time": 1732861280,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1069299,
-      "num": 1069299,
-      "word": "女子取款5000元银行要求丈夫到场",
-      "onboard_time": 1732882878,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1063430,
@@ -1299,6 +1299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 850585,
+      "num": 850585,
+      "word": "鹿哈给鹿晗刷礼物成为榜一",
+      "onboard_time": 1732882639,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844558,
       "num": 284088,
       "word": "英国一母亲把女儿藏抽屉养到3岁",
@@ -1715,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 731509,
-      "num": 731509,
-      "word": "鹿哈给鹿晗刷礼物成为榜一",
-      "onboard_time": 1732882639,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 731291,
       "num": 731291,
       "word": "华为Mate70芯片",
@@ -1867,6 +1867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 704043,
+      "num": 357331,
+      "word": "周芯竹回复粉丝",
+      "onboard_time": 1732885578,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702197,
       "num": 239445,
       "word": "前央视主持瑶淼自曝刚做完子宫全切手术",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1732600160,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 698674,
+      "num": 644602,
+      "word": "平阴县政府卖天30年9.24亿",
+      "onboard_time": 1732883119,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 697439,
@@ -1929,6 +1945,14 @@
       "onboard_time": 1732590438,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 692341,
+      "num": 692341,
+      "word": "我支持新疆棉花",
+      "onboard_time": 1732879818,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 688260,
@@ -2291,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 613834,
-      "num": 613834,
-      "word": "平阴县政府卖天30年9.24亿",
-      "onboard_time": 1732883119,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 613476,
       "num": 469752,
       "word": "蛇年春晚标识有什么寓意",
@@ -2601,14 +2617,6 @@
       "onboard_time": 1732525459,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 562556,
-      "num": 562556,
-      "word": "我支持新疆棉花",
-      "onboard_time": 1732879818,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 562456,
@@ -3043,6 +3051,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 492278,
+      "num": 492278,
+      "word": "新疆棉花不容优衣库玷污",
+      "onboard_time": 1732883719,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490419,
       "num": 399168,
       "word": "养女防老正成为农村养老新现象",
@@ -3473,6 +3489,14 @@
       "onboard_time": 1732780939,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439550,
+      "num": 439550,
+      "word": "孙杨称陪豆豆的时间太少了",
+      "onboard_time": 1732884379,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 437635,
@@ -4491,6 +4515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348613,
+      "num": 348613,
+      "word": "虞书欣 谢谢你啊慕声儿",
+      "onboard_time": 1732882278,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347805,
       "num": 331539,
       "word": "鹿晗粉丝帮忙清理音乐节的垃圾",
@@ -4601,14 +4633,6 @@
       "onboard_time": 1732762999,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 333642,
-      "num": 333642,
-      "word": "虞书欣 谢谢你啊慕声儿",
-      "onboard_time": 1732882278,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 332556,
@@ -4769,6 +4793,14 @@
       "onboard_time": 1732404133,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 322913,
+      "num": 322913,
+      "word": "幼儿园为羊驼办婚礼份子钱30元起步",
+      "onboard_time": 1732880238,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 321727,
@@ -6003,14 +6035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251877,
-      "num": 251877,
-      "word": "幼儿园为羊驼办婚礼份子钱30元起步",
-      "onboard_time": 1732880238,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 251700,
       "num": 251700,
       "word": "库克称没中国就没现在的苹果",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1732854801,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251404,
+      "num": 183215,
+      "word": "2024尖叫之夜第二波阵容",
+      "onboard_time": 1732885279,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 251214,
@@ -6089,6 +6121,14 @@
       "onboard_time": 1732535299,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248442,
+      "num": 248442,
+      "word": "城市风华录定档",
+      "onboard_time": 1732885219,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 248196,
@@ -9619,14 +9659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172166,
-      "num": 172166,
-      "word": "孙杨称陪豆豆的时间太少了",
-      "onboard_time": 1732884379,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172148,
       "num": 252785,
       "word": "丁禹兮进组南部档案",
@@ -9689,6 +9721,14 @@
       "onboard_time": 1732504939,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171076,
+      "num": 171076,
+      "word": "Doinb金贡海底捞局",
+      "onboard_time": 1732886420,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 170915,
@@ -10659,6 +10699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157475,
+      "num": 157475,
+      "word": "现在拨打的电话",
+      "onboard_time": 1732379238,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157289,
       "num": 157289,
       "word": "世界乒联恭喜王楚钦",
@@ -10913,6 +10961,14 @@
       "onboard_time": 1732532298,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153854,
+      "num": 153854,
+      "word": "成都混团世界杯中国队阵容",
+      "onboard_time": 1732884259,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 153798,
@@ -11595,14 +11651,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 144498,
-      "num": 328506,
-      "word": "新疆棉花不容优衣库玷污",
-      "onboard_time": 1732883719,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143910,
       "num": 143910,
       "word": "吉利高管曾寄刀给博世总裁希望降价",
@@ -12211,14 +12259,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 136434,
-      "num": 136434,
-      "word": "成都混团世界杯中国队阵容",
-      "onboard_time": 1732884259,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136357,
       "num": 136357,
       "word": "K80Pro",
@@ -12392,6 +12432,14 @@
       "word": "内鱼在逃小仙女永久禁言",
       "onboard_time": 1732636096,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134416,
+      "num": 187049,
+      "word": "胡茬版肖战",
+      "onboard_time": 1732885699,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -13147,6 +13195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125856,
+      "num": 180180,
+      "word": "QQ飞车",
+      "onboard_time": 1732886839,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125637,
       "num": 125637,
       "word": "黎以停火协议今日10时生效",
@@ -13273,6 +13329,14 @@
       "onboard_time": 1732879698,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124641,
+      "num": 124641,
+      "word": "马英九与马龙打乒乓球",
+      "onboard_time": 1732886420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 124513,
@@ -13731,14 +13795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119789,
-      "num": 119789,
-      "word": "现在拨打的电话",
-      "onboard_time": 1732379238,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119652,
       "num": 119652,
       "word": "英雄回家MV满山红旗飘",
@@ -13841,6 +13897,14 @@
       "onboard_time": 1732545320,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118478,
+      "num": 118478,
+      "word": "中医标准人体身高一米七二",
+      "onboard_time": 1732884739,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118188,
@@ -14291,14 +14355,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 113489,
-      "num": 113489,
-      "word": "城市风华录定档",
-      "onboard_time": 1732885219,
-      "rank": 45,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 113481,
       "num": 113481,
       "word": "这一次东北的雪适合打雪仗",
@@ -14683,6 +14739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109597,
+      "num": 109597,
+      "word": "丁禹兮请客请到隔壁剧组",
+      "onboard_time": 1732886719,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109521,
       "num": 109521,
       "word": "后悔宝",
@@ -14873,14 +14937,6 @@
       "onboard_time": 1732635138,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107016,
-      "num": 107016,
-      "word": "2024尖叫之夜第二波阵容",
-      "onboard_time": 1732885279,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 106967,
@@ -15153,14 +15209,6 @@
       "onboard_time": 1732613898,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101801,
-      "num": 101801,
-      "word": "中医标准人体身高一米七二",
-      "onboard_time": 1732884739,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 101761,
@@ -15833,6 +15881,14 @@
       "onboard_time": 1732427957,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88839,
+      "num": 163717,
+      "word": "赵一博结束一天功课",
+      "onboard_time": 1732884919,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 88836,
@@ -16547,14 +16603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77823,
-      "num": 163717,
-      "word": "赵一博结束一天功课",
-      "onboard_time": 1732884919,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77814,
       "num": 142456,
       "word": "第十五届中国航展甄选镜头集锦",
@@ -17219,6 +17267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65643,
+      "num": 359506,
+      "word": "网购千元护肤品包装只有保鲜膜",
+      "onboard_time": 1732885699,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65447,
       "num": 65447,
       "word": "K80大满贯首发评测",
@@ -17257,6 +17313,14 @@
       "onboard_time": 1732413919,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64912,
+      "num": 108067,
+      "word": "广厦男篮vs广东男篮",
+      "onboard_time": 1732886659,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 64456,
@@ -17385,6 +17449,14 @@
       "onboard_time": 1732867699,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 61597,
+      "num": 202867,
+      "word": "婚内婚外 余华语录具像化",
+      "onboard_time": 1732886779,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 61564,
@@ -17737,6 +17809,14 @@
       "onboard_time": 1732871418,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57474,
+      "num": 155077,
+      "word": "龚俊确认参加尖叫之夜",
+      "onboard_time": 1732886119,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 57274,
@@ -18433,6 +18513,14 @@
       "onboard_time": 1732521858,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47133,
+      "num": 175858,
+      "word": "黄牛推销电动轮椅进迪士尼200元半天",
+      "onboard_time": 1732885578,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47129,
@@ -20571,6 +20659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 25996,
+      "num": 931992,
+      "word": "链博会上的环环相链",
+      "onboard_time": 1732884139,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25922,
       "num": 222074,
       "word": "从太阳星辰看到港剧的觉醒",
@@ -20857,6 +20953,14 @@
       "onboard_time": 1732628000,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23623,
+      "num": 185536,
+      "word": "无限暖暖开服送126抽",
+      "onboard_time": 1732884739,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 23562,
@@ -21275,14 +21379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18476,
-      "num": 153730,
-      "word": "无限暖暖开服送126抽",
-      "onboard_time": 1732884739,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 18288,
       "num": 345369,
       "word": "没想到王曼昱可以给别人指路",
@@ -21337,14 +21433,6 @@
       "onboard_time": 1732620498,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17589,
-      "num": 766984,
-      "word": "链博会上的环环相链",
-      "onboard_time": 1732884139,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17359,
