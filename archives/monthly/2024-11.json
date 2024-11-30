@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732959397703,
+  "endTime": 1732962174116,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -7092,7 +7092,7 @@
     },
     {
       "raw_hot": 918063,
-      "num": 339167,
+      "num": 627137,
       "word": "金莎焉栩嘉逛街被偶遇",
       "onboard_time": 1732956977,
       "rank": 6,
@@ -10267,6 +10267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733363,
+      "num": 733363,
+      "word": "微信朋友圈显示未能点赞",
+      "onboard_time": 1732957519,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 732775,
       "num": 732775,
       "word": "曝大爆剧顶流花顶流生三搭合作流潋紫",
@@ -12457,14 +12465,6 @@
       "onboard_time": 1731655940,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 644726,
-      "num": 240335,
-      "word": "微信朋友圈显示未能点赞",
-      "onboard_time": 1732957519,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 644714,
@@ -15204,7 +15204,7 @@
     },
     {
       "raw_hot": 551678,
-      "num": 269367,
+      "num": 310972,
       "word": "IVE最佳MV",
       "onboard_time": 1732957758,
       "rank": 11,
@@ -21739,6 +21739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 396982,
+      "num": 300800,
+      "word": "肖战今年不打算参加跨年晚会",
+      "onboard_time": 1732958359,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396774,
       "num": 412707,
       "word": "麦乱时期的爱情",
@@ -25475,6 +25483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330290,
+      "num": 193043,
+      "word": "女子5年剖4胎宣布封肚",
+      "onboard_time": 1732957999,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329914,
       "num": 329914,
       "word": "蜂花广告被质疑刻意丑化女性",
@@ -25937,6 +25953,14 @@
       "onboard_time": 1732278799,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321842,
+      "num": 321842,
+      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+      "onboard_time": 1732957219,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321800,
@@ -26524,7 +26548,7 @@
     },
     {
       "raw_hot": 313612,
-      "num": 193498,
+      "num": 220758,
       "word": "张元英开场",
       "onboard_time": 1732957279,
       "rank": 25,
@@ -26985,14 +27009,6 @@
       "onboard_time": 1732024584,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 307781,
-      "num": 307781,
-      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
-      "onboard_time": 1732957219,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307780,
@@ -30739,14 +30755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263637,
-      "num": 193043,
-      "word": "女子5年剖4胎宣布封肚",
-      "onboard_time": 1732957999,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263559,
       "num": 256790,
       "word": "瘦肚子最快的运动其实是跳跃",
@@ -31489,6 +31497,14 @@
       "onboard_time": 1730427498,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256934,
+      "num": 211910,
+      "word": "aespa获最佳女团",
+      "onboard_time": 1732960518,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 256932,
@@ -32881,6 +32897,14 @@
       "onboard_time": 1730642600,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244743,
+      "num": 244743,
+      "word": "肺炎支原体感染者耐药率增加",
+      "onboard_time": 1732958837,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244596,
@@ -34859,6 +34883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228630,
+      "num": 154056,
+      "word": "葛夕 一个大爹一个小爹",
+      "onboard_time": 1732959140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228604,
       "num": 228604,
       "word": "瓦格纳绝杀湖人",
@@ -34883,14 +34915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228525,
-      "num": 220720,
-      "word": "肖战今年不打算参加跨年晚会",
-      "onboard_time": 1732958359,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228360,
       "num": 228360,
       "word": "JackeyLove和meiko携女友出游",
@@ -34913,6 +34937,14 @@
       "onboard_time": 1730892140,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228088,
+      "num": 228088,
+      "word": "沙特放弃与美国签署防务协议",
+      "onboard_time": 1732957999,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 228078,
@@ -38091,6 +38123,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 209595,
+      "num": 209595,
+      "word": "TheShy转iG重组微博",
+      "onboard_time": 1732958540,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209529,
       "num": 318789,
       "word": "小巷人家实时收视率破1",
@@ -40049,6 +40089,14 @@
       "onboard_time": 1732153819,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 202527,
+      "num": 153221,
+      "word": "猎罪图鉴2 延期",
+      "onboard_time": 1732961778,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 202520,
@@ -42441,14 +42489,6 @@
       "onboard_time": 1732073958,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195281,
-      "num": 195281,
-      "word": "TheShy转iG重组微博",
-      "onboard_time": 1732958540,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 195263,
@@ -51331,6 +51371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166860,
+      "num": 166860,
+      "word": "安徽一学校食堂俩员工吵架打翻饭菜",
+      "onboard_time": 1732960879,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166782,
       "num": 166782,
       "word": "加沙婴儿都要受冻",
@@ -52041,14 +52089,6 @@
       "onboard_time": 1730647940,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164779,
-      "num": 216387,
-      "word": "沙特放弃与美国签署防务协议",
-      "onboard_time": 1732957999,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164717,
@@ -56595,6 +56635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151897,
+      "num": 190514,
+      "word": "周子瑜回应整容质疑",
+      "onboard_time": 1732959378,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151854,
       "num": 323907,
       "word": "Doinb怒喷诺夏",
@@ -59379,14 +59427,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 143788,
-      "num": 143788,
-      "word": "葛夕 一个大爹一个小爹",
-      "onboard_time": 1732959140,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143774,
       "num": 143774,
       "word": "张艺兴新歌",
@@ -59987,6 +60027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141936,
+      "num": 141936,
+      "word": "因为偷东西吃练出了核心力量",
+      "onboard_time": 1732961598,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141897,
       "num": 141897,
       "word": "张婧仪围读镜头",
@@ -60137,6 +60185,14 @@
       "onboard_time": 1730906002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141408,
+      "num": 141408,
+      "word": "卓沅谁懂啊杭州可冷",
+      "onboard_time": 1732960999,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 141404,
@@ -61035,6 +61091,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 139238,
+      "num": 139238,
+      "word": "鹿晗喜欢听泉",
+      "onboard_time": 1732959918,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139209,
       "num": 139209,
       "word": "时代少年团世界儿童日主题歌",
@@ -61713,6 +61777,14 @@
       "onboard_time": 1731656120,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137243,
+      "num": 137243,
+      "word": "国考公安",
+      "onboard_time": 1732956918,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 137238,
@@ -62505,6 +62577,14 @@
       "onboard_time": 1730608280,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134715,
+      "num": 134715,
+      "word": "叶舒华深V长裙",
+      "onboard_time": 1732959918,
+      "rank": 42,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 134621,
@@ -64675,6 +64755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128119,
+      "num": 153694,
+      "word": "樊振东体博会",
+      "onboard_time": 1732961058,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128105,
       "num": 218824,
       "word": "王楚然丞磊成何体统将开机",
@@ -66683,6 +66771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122675,
+      "num": 122675,
+      "word": "白鹿的头全场最忙",
+      "onboard_time": 1732959678,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122564,
       "num": 122564,
       "word": "加沙每一张完好的纸币都十分珍贵",
@@ -67819,6 +67915,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119577,
+      "num": 119577,
+      "word": "留几手 带节奏黑老婆",
+      "onboard_time": 1732962079,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119448,
       "num": 243221,
       "word": "顺其自然再捐109万元",
@@ -68153,14 +68257,6 @@
       "onboard_time": 1731540317,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118218,
-      "num": 118218,
-      "word": "国考公安",
-      "onboard_time": 1732956918,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 118197,
@@ -69089,6 +69185,14 @@
       "onboard_time": 1732005200,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115199,
+      "num": 115199,
+      "word": "男子开车打掼蛋被查时系统催出牌",
+      "onboard_time": 1732959618,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115188,
@@ -72427,6 +72531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102824,
+      "num": 153496,
+      "word": "田嘉瑞月鳞绮纪",
+      "onboard_time": 1732960698,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102769,
       "num": 575297,
       "word": "员工离职后百万粉丝账号归谁",
@@ -72537,6 +72649,14 @@
       "onboard_time": 1731372920,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102365,
+      "num": 102365,
+      "word": "幼年唐三小舞彩蛋",
+      "onboard_time": 1732960760,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 102338,
@@ -80491,6 +80611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65846,
+      "num": 151994,
+      "word": "赵一博冬日暖阳",
+      "onboard_time": 1732962019,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65740,
       "num": 296127,
       "word": "郑云龙扫楼状态",
@@ -85553,14 +85681,6 @@
       "onboard_time": 1732649530,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 48654,
-      "num": 190514,
-      "word": "周子瑜回应整容质疑",
-      "onboard_time": 1732959378,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 48639,
@@ -92075,6 +92195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32380,
+      "num": 214576,
+      "word": "人民网三评AI伴侣",
+      "onboard_time": 1732961299,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32370,
       "num": 32370,
       "word": "伊普斯维奇vs曼联",
@@ -94987,6 +95115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27016,
+      "num": 154807,
+      "word": "宋小军 士兵突击马小帅",
+      "onboard_time": 1732961299,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27011,
       "num": 27010,
       "word": "滥俗的歌",
@@ -96939,6 +97075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23143,
+      "num": 152495,
+      "word": "在滑雪道上骑行有多好玩",
+      "onboard_time": 1732960939,
+      "rank": 31,
+      "category": "运动健身,其它"
+    },
+    {
       "raw_hot": 23130,
       "num": 208473,
       "word": "他们的报告充满力量",
@@ -97521,6 +97665,14 @@
       "onboard_time": 1731389898,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21886,
+      "num": 152887,
+      "word": "个人已存定期利率动态调整系误读",
+      "onboard_time": 1732961118,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21873,

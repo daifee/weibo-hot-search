@@ -1,0 +1,410 @@
+{
+  "runTime": 1732962174116,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 856101,
+        "num": 1136976,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733363,
+        "num": 733363,
+        "word": "微信朋友圈显示未能点赞",
+        "onboard_time": 1732957519,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30363,
+        "num": 659724,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627137,
+        "num": 627137,
+        "word": "金莎焉栩嘉逛街被偶遇",
+        "onboard_time": 1732956977,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382974,
+        "num": 382974,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 321842,
+        "num": 321842,
+        "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+        "onboard_time": 1732957219,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448785,
+        "num": 310972,
+        "word": "IVE最佳MV",
+        "onboard_time": 1732957758,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396982,
+        "num": 300800,
+        "word": "肖战今年不打算参加跨年晚会",
+        "onboard_time": 1732958359,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244743,
+        "num": 244743,
+        "word": "肺炎支原体感染者耐药率增加",
+        "onboard_time": 1732958837,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228088,
+        "num": 228088,
+        "word": "沙特放弃与美国签署防务协议",
+        "onboard_time": 1732957999,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 576945,
+        "num": 225430,
+        "word": "中国籍男子承认涂鸦日本靖国神社",
+        "onboard_time": 1732953677,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 317828,
+        "num": 224036,
+        "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+        "onboard_time": 1732948337,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263960,
+        "num": 220758,
+        "word": "张元英开场",
+        "onboard_time": 1732957279,
+        "rank": 12,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 257124,
+        "num": 218289,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32380,
+        "num": 214576,
+        "word": "人民网三评AI伴侣",
+        "onboard_time": 1732961299,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256934,
+        "num": 211910,
+        "word": "aespa获最佳女团",
+        "onboard_time": 1732960518,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209595,
+        "num": 209595,
+        "word": "TheShy转iG重组微博",
+        "onboard_time": 1732958540,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166860,
+        "num": 166860,
+        "word": "安徽一学校食堂俩员工吵架打翻饭菜",
+        "onboard_time": 1732960879,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27016,
+        "num": 154807,
+        "word": "宋小军 士兵突击马小帅",
+        "onboard_time": 1732961299,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 154542,
+        "word": "免签朋友圈一个月两次扩容",
+        "onboard_time": 1732954698,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485986,
+        "num": 154458,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330290,
+        "num": 154282,
+        "word": "女子5年剖4胎宣布封肚",
+        "onboard_time": 1732957999,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228630,
+        "num": 154056,
+        "word": "葛夕 一个大爹一个小爹",
+        "onboard_time": 1732959140,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222320,
+        "num": 153946,
+        "word": "沈梦瑶与丝芭解约成功",
+        "onboard_time": 1732955418,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128119,
+        "num": 153694,
+        "word": "樊振东体博会",
+        "onboard_time": 1732961058,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102824,
+        "num": 153496,
+        "word": "田嘉瑞月鳞绮纪",
+        "onboard_time": 1732960698,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215651,
+        "num": 153346,
+        "word": "aespa全员黑裙",
+        "onboard_time": 1732955358,
+        "rank": 26,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 202527,
+        "num": 153221,
+        "word": "猎罪图鉴2 延期",
+        "onboard_time": 1732961778,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189787,
+        "num": 152976,
+        "word": "周密",
+        "onboard_time": 1732952837,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21886,
+        "num": 152887,
+        "word": "个人已存定期利率动态调整系误读",
+        "onboard_time": 1732961118,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177604,
+        "num": 152663,
+        "word": "MMA红毯",
+        "onboard_time": 1732951878,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23143,
+        "num": 152495,
+        "word": "在滑雪道上骑行有多好玩",
+        "onboard_time": 1732960939,
+        "rank": 31,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 173921,
+        "num": 152305,
+        "word": "HEYA",
+        "onboard_time": 1732958959,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160447,
+        "num": 152112,
+        "word": "麦琳怒怼杨子",
+        "onboard_time": 1732948758,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65846,
+        "num": 151994,
+        "word": "赵一博冬日暖阳",
+        "onboard_time": 1732962019,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151897,
+        "num": 151897,
+        "word": "周子瑜回应整容质疑",
+        "onboard_time": 1732959378,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148741,
+        "num": 148741,
+        "word": "一句但悲不见九州同哭倒一片理科生",
+        "onboard_time": 1732952897,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141936,
+        "num": 141936,
+        "word": "因为偷东西吃练出了核心力量",
+        "onboard_time": 1732961598,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141408,
+        "num": 141408,
+        "word": "卓沅谁懂啊杭州可冷",
+        "onboard_time": 1732960999,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139496,
+        "num": 139496,
+        "word": "肖战工作室",
+        "onboard_time": 1732951937,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139238,
+        "num": 139238,
+        "word": "鹿晗喜欢听泉",
+        "onboard_time": 1732959918,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137243,
+        "num": 137243,
+        "word": "国考公安",
+        "onboard_time": 1732956918,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134715,
+        "num": 134715,
+        "word": "叶舒华深V长裙",
+        "onboard_time": 1732959918,
+        "rank": 42,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 132760,
+        "num": 132760,
+        "word": "中企参展人员遭美国大规模拒签",
+        "onboard_time": 1732951578,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132102,
+        "num": 132102,
+        "word": "王楚钦混团抽签台下画画",
+        "onboard_time": 1732950857,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127504,
+        "num": 127504,
+        "word": "MMA直播",
+        "onboard_time": 1732952238,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122675,
+        "num": 122675,
+        "word": "白鹿的头全场最忙",
+        "onboard_time": 1732959678,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119577,
+        "num": 119577,
+        "word": "留几手 带节奏黑老婆",
+        "onboard_time": 1732962079,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115199,
+        "num": 115199,
+        "word": "男子开车打掼蛋被查时系统催出牌",
+        "onboard_time": 1732959618,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102365,
+        "num": 102365,
+        "word": "幼年唐三小舞彩蛋",
+        "onboard_time": 1732960760,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
+    }
+  }
+}
