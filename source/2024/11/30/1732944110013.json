@@ -1,0 +1,410 @@
+{
+  "runTime": 1732944110013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1215870,
+        "num": 1215870,
+        "word": "在靖国神社涂鸦的中国男子被日本公审",
+        "onboard_time": 1732939219,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1052236,
+        "num": 1052236,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43972,
+        "num": 784911,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 766073,
+        "num": 766073,
+        "word": "郑雨盛道歉后李惠利的表情",
+        "onboard_time": 1732942758,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610796,
+        "num": 610796,
+        "word": "男子确诊肺癌医生一根针冻死癌细胞",
+        "onboard_time": 1732936457,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1764405,
+        "num": 577972,
+        "word": "男子吃掉4500万拍下的香蕉称不错",
+        "onboard_time": 1732937957,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491697,
+        "num": 491697,
+        "word": "王楚钦孙颖莎奥运会后再打混双",
+        "onboard_time": 1732941799,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480339,
+        "num": 480339,
+        "word": "陈小春养老保险有点多",
+        "onboard_time": 1732940598,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57088,
+        "num": 431583,
+        "word": "有谷子店卖IP周边月销30万元",
+        "onboard_time": 1732943417,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64087,
+        "num": 410711,
+        "word": "紧急提醒在叙利亚中国公民加强防范",
+        "onboard_time": 1732942999,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 780880,
+        "num": 410665,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407732,
+        "num": 407732,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 11,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 371406,
+        "num": 371406,
+        "word": "papi酱 是狗把他带大的吗",
+        "onboard_time": 1732931536,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347993,
+        "num": 347993,
+        "word": "iG官宣重组",
+        "onboard_time": 1732939097,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 321301,
+        "num": 321301,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 313904,
+        "num": 313904,
+        "word": "金靖月子中心vlog",
+        "onboard_time": 1732941379,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272379,
+        "num": 272379,
+        "word": "黄景瑜32岁状态",
+        "onboard_time": 1732940959,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269808,
+        "num": 269808,
+        "word": "周密 刻板印象",
+        "onboard_time": 1732931897,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11470,
+        "num": 263407,
+        "word": "星辰令这把打回忆局",
+        "onboard_time": 1732942999,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180474,
+        "num": 260891,
+        "word": "阿汤哥女儿被指身材走样",
+        "onboard_time": 1732942638,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1598274,
+        "num": 260766,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260517,
+        "num": 260517,
+        "word": "我家那小子开播",
+        "onboard_time": 1732943118,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242537,
+        "num": 242537,
+        "word": "婚礼前一天46条喜烟全被偷了",
+        "onboard_time": 1732936158,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239707,
+        "num": 239707,
+        "word": "周密周芯竹聊天记录",
+        "onboard_time": 1732901415,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148166,
+        "num": 237313,
+        "word": "WTT",
+        "onboard_time": 1732943358,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237006,
+        "num": 237006,
+        "word": "网传李行亮歌手2025试音",
+        "onboard_time": 1732943417,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229343,
+        "num": 229343,
+        "word": "王安宇去有风的地方旅行vlog",
+        "onboard_time": 1732939817,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210597,
+        "num": 210597,
+        "word": "这些OST一响2024画面感就来了",
+        "onboard_time": 1732940779,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48895,
+        "num": 209491,
+        "word": "2024年度动漫投票排名",
+        "onboard_time": 1732942999,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195439,
+        "num": 208733,
+        "word": "黄梦莹斗罗2阿银献祭",
+        "onboard_time": 1732943598,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208660,
+        "num": 208660,
+        "word": "鹤岗暴雪独居老人门被堵民警救援",
+        "onboard_time": 1732939396,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187694,
+        "num": 187694,
+        "word": "彩虹夫妇第4胎产女称如愿了",
+        "onboard_time": 1732932677,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186810,
+        "num": 186810,
+        "word": "张朝阳不建议掏空六个钱包消费",
+        "onboard_time": 1732934478,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176401,
+        "num": 176401,
+        "word": "国考",
+        "onboard_time": 1732930877,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159652,
+        "num": 159652,
+        "word": "婚礼中途停电40分钟气哭新人爸妈",
+        "onboard_time": 1732928777,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155863,
+        "num": 155863,
+        "word": "白夜破晓 小允子",
+        "onboard_time": 1732941679,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152706,
+        "num": 152706,
+        "word": "丁禹兮高马尾打人事件",
+        "onboard_time": 1732941557,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139785,
+        "num": 139785,
+        "word": "倪萍说贺峻霖搬箱子搬到两点",
+        "onboard_time": 1732941739,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135165,
+        "num": 135165,
+        "word": "因果报应 垃圾桶插鲜花",
+        "onboard_time": 1732942098,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132202,
+        "num": 132202,
+        "word": "虞书欣丁禹兮 一个想靠一个想搂",
+        "onboard_time": 1732928896,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131142,
+        "num": 131142,
+        "word": "莎头组合7年夺冠路",
+        "onboard_time": 1732943778,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122344,
+        "num": 122344,
+        "word": "王安宇怼脸拍宋亚轩",
+        "onboard_time": 1732940358,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122188,
+        "num": 122188,
+        "word": "G2回应Uzi说和Ming复出",
+        "onboard_time": 1732940959,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114238,
+        "num": 114238,
+        "word": "易烊千玺优哉游哉",
+        "onboard_time": 1732944019,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109063,
+        "num": 109063,
+        "word": "丁禹兮 被打入冷宫的妃子",
+        "onboard_time": 1732926676,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18713,
+        "num": 107571,
+        "word": "Tilda杭州拍摄宣传片花絮",
+        "onboard_time": 1732942337,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106883,
+        "num": 106883,
+        "word": "网传歌手2025试音名单",
+        "onboard_time": 1732937297,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100951,
+        "num": 100951,
+        "word": "TheShy和男团大合照",
+        "onboard_time": 1732943179,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100238,
+        "num": 100238,
+        "word": "MMA颁奖典礼",
+        "onboard_time": 1732933397,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98854,
+        "num": 98854,
+        "word": "柯南2025剧场版手绘海报",
+        "onboard_time": 1732943957,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党的创新理论更加深入人心#"
+    }
+  }
+}

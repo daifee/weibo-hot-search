@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732941737968,
+  "endTime": 1732944110013,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1957865,
-      "num": 405868,
+      "num": 410665,
       "word": "合肥LV柜姐离职后开始卖货",
       "onboard_time": 1732932557,
       "rank": 10,
@@ -352,6 +352,14 @@
       "word": "吃火锅意外入镜直播间获赔500元",
       "onboard_time": 1732695438,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1598274,
+      "num": 322645,
+      "word": "结婚3年流产2次竟是老公精子碎了",
+      "onboard_time": 1732940358,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -763,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1184176,
-      "num": 322645,
-      "word": "结婚3年流产2次竟是老公精子碎了",
-      "onboard_time": 1732940358,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1182160,
       "num": 1169281,
       "word": "Angelababy大秀状态",
@@ -929,6 +929,14 @@
       "onboard_time": 1732784301,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1052236,
+      "num": 1052236,
+      "word": "员工已读不回负责人凌晨爆粗口",
+      "onboard_time": 1732939458,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1052127,
@@ -1771,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 766073,
+      "num": 766073,
+      "word": "郑雨盛道歉后李惠利的表情",
+      "onboard_time": 1732942758,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 756080,
       "num": 438329,
       "word": "徐艺洋水晶",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1732862119,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 708402,
-      "num": 708402,
-      "word": "员工已读不回负责人凌晨爆粗口",
-      "onboard_time": 1732939458,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 706073,
@@ -3267,6 +3275,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 491697,
+      "num": 491697,
+      "word": "王楚钦孙颖莎奥运会后再打混双",
+      "onboard_time": 1732941799,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490419,
       "num": 399168,
       "word": "养女防老正成为农村养老新现象",
@@ -3361,6 +3377,14 @@
       "onboard_time": 1732579698,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 480339,
+      "num": 480339,
+      "word": "陈小春养老保险有点多",
+      "onboard_time": 1732940598,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 479682,
@@ -5251,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313904,
+      "num": 313904,
+      "word": "金靖月子中心vlog",
+      "onboard_time": 1732941379,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313559,
       "num": 313559,
       "word": "丈夫住院取2.5万元被银行电话核实",
@@ -5931,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272379,
+      "num": 272379,
+      "word": "黄景瑜32岁状态",
+      "onboard_time": 1732940959,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271877,
       "num": 493517,
       "word": "易烊千玺",
@@ -6185,6 +6225,14 @@
       "onboard_time": 1732434021,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260517,
+      "num": 260517,
+      "word": "我家那小子开播",
+      "onboard_time": 1732943118,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 259993,
@@ -6563,14 +6611,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 245191,
-      "num": 245191,
-      "word": "陈小春养老保险有点多",
-      "onboard_time": 1732940598,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245141,
       "num": 243577,
       "word": "王楚钦批改作业中",
@@ -6801,6 +6841,14 @@
       "onboard_time": 1732429097,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237006,
+      "num": 237006,
+      "word": "网传李行亮歌手2025试音",
+      "onboard_time": 1732943417,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 236920,
@@ -7691,6 +7739,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 210597,
+      "num": 338951,
+      "word": "这些OST一响2024画面感就来了",
+      "onboard_time": 1732940779,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210585,
       "num": 210585,
       "word": "浪姐5团建为张予曦新剧打call",
@@ -7779,6 +7835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208660,
+      "num": 253724,
+      "word": "鹤岗暴雪独居老人门被堵民警救援",
+      "onboard_time": 1732939396,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208530,
       "num": 264785,
       "word": "李子柒烟台学非遗烙葫芦",
@@ -7849,14 +7913,6 @@
       "onboard_time": 1732681158,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 206714,
-      "num": 248825,
-      "word": "黄景瑜32岁状态",
-      "onboard_time": 1732940959,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 206667,
@@ -8617,6 +8673,14 @@
       "onboard_time": 1732367360,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195439,
+      "num": 208733,
+      "word": "黄梦莹斗罗2阿银献祭",
+      "onboard_time": 1732943598,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 195293,
@@ -9803,6 +9867,14 @@
       "category": "舆论监督,教育"
     },
     {
+      "raw_hot": 180474,
+      "num": 260891,
+      "word": "阿汤哥女儿被指身材走样",
+      "onboard_time": 1732942638,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180457,
       "num": 202260,
       "word": "爱玛滑元",
@@ -10657,14 +10729,6 @@
       "onboard_time": 1732452860,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 167354,
-      "num": 167354,
-      "word": "金靖月子中心vlog",
-      "onboard_time": 1732941379,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 167285,
@@ -11563,6 +11627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155863,
+      "num": 155863,
+      "word": "白夜破晓 小允子",
+      "onboard_time": 1732941679,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155857,
       "num": 155857,
       "word": "林一霸王茶姬活动",
@@ -11777,6 +11849,14 @@
       "onboard_time": 1732782799,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152706,
+      "num": 152706,
+      "word": "丁禹兮高马尾打人事件",
+      "onboard_time": 1732941557,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 152583,
@@ -12004,7 +12084,7 @@
     },
     {
       "raw_hot": 149973,
-      "num": 149973,
+      "num": 237313,
       "word": "WTT",
       "onboard_time": 1732435102,
       "rank": 29,
@@ -12779,6 +12859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139785,
+      "num": 139785,
+      "word": "倪萍说贺峻霖搬箱子搬到两点",
+      "onboard_time": 1732941739,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139716,
       "num": 231223,
       "word": "秦海璐教学勾引这段",
@@ -13195,6 +13283,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 135165,
+      "num": 135165,
+      "word": "因果报应 垃圾桶插鲜花",
+      "onboard_time": 1732942098,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135149,
       "num": 224173,
       "word": "迪士尼李楷灿",
@@ -13568,6 +13664,14 @@
       "word": "马刺逆转勇士",
       "onboard_time": 1732422199,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131142,
+      "num": 131142,
+      "word": "莎头组合7年夺冠路",
+      "onboard_time": 1732943778,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -14243,14 +14347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124879,
-      "num": 124879,
-      "word": "白夜破晓 小允子",
-      "onboard_time": 1732941679,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124513,
       "num": 126309,
       "word": "电商人揭露直播间羽绒服销售内幕",
@@ -14465,14 +14561,6 @@
       "onboard_time": 1732881558,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 122452,
-      "num": 122452,
-      "word": "丁禹兮高马尾打人事件",
-      "onboard_time": 1732941557,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 122295,
@@ -15297,6 +15385,14 @@
       "onboard_time": 1732423278,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114238,
+      "num": 114238,
+      "word": "易烊千玺优哉游哉",
+      "onboard_time": 1732944019,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 114194,
@@ -16331,6 +16427,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 100951,
+      "num": 100951,
+      "word": "TheShy和男团大合照",
+      "onboard_time": 1732943179,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100944,
       "num": 100944,
       "word": "秦霄贤纲丝节主持",
@@ -16457,6 +16561,14 @@
       "onboard_time": 1732443679,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98854,
+      "num": 98854,
+      "word": "柯南2025剧场版手绘海报",
+      "onboard_time": 1732943957,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 98768,
@@ -17731,14 +17843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 78559,
-      "num": 253724,
-      "word": "鹤岗暴雪独居老人门被堵民警救援",
-      "onboard_time": 1732939396,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78540,
       "num": 204783,
       "word": "珠帘玉幕收官全员人生回顾",
@@ -18611,6 +18715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64087,
+      "num": 410711,
+      "word": "紧急提醒在叙利亚中国公民加强防范",
+      "onboard_time": 1732942999,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64028,
       "num": 397035,
       "word": "Uzi说没参加传奇杯表演赛",
@@ -19097,6 +19209,14 @@
       "onboard_time": 1732714639,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57088,
+      "num": 431583,
+      "word": "有谷子店卖IP周边月销30万元",
+      "onboard_time": 1732943417,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57011,
@@ -19763,6 +19883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48895,
+      "num": 209491,
+      "word": "2024年度动漫投票排名",
+      "onboard_time": 1732942999,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 48770,
       "num": 240338,
       "word": "胡成背后女人四折叠",
@@ -20321,14 +20449,6 @@
       "onboard_time": 1732799119,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 42889,
-      "num": 338951,
-      "word": "这些OST一响2024画面感就来了",
-      "onboard_time": 1732940779,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 42862,
@@ -22955,6 +23075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18713,
+      "num": 107571,
+      "word": "Tilda杭州拍摄宣传片花絮",
+      "onboard_time": 1732942337,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18704,
       "num": 129046,
       "word": "哈密瓜拿铁",
@@ -23753,6 +23881,14 @@
       "onboard_time": 1732610358,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11470,
+      "num": 263407,
+      "word": "星辰令这把打回忆局",
+      "onboard_time": 1732942999,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 11432,
