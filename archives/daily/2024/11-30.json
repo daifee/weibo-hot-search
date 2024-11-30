@@ -1,10 +1,10 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732940866222,
+  "endTime": 1732941737968,
   "band_list": [
     {
-      "raw_hot": 2350634,
-      "num": 2350634,
+      "raw_hot": 2395526,
+      "num": 2395526,
       "word": "男子吃掉4500万拍下的香蕉称不错",
       "onboard_time": 1732937957,
       "rank": 19,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1245326,
+      "num": 1245326,
+      "word": "在靖国神社涂鸦的中国男子被日本公审",
+      "onboard_time": 1732939219,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1236585,
       "num": 693313,
       "word": "周芯竹回应分手事件",
@@ -35,16 +43,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1220310,
-      "num": 1220310,
-      "word": "在靖国神社涂鸦的中国男子被日本公审",
-      "onboard_time": 1732939219,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 1184176,
+      "num": 322645,
+      "word": "结婚3年流产2次竟是老公精子碎了",
+      "onboard_time": 1732940358,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1031845,
-      "num": 797646,
+      "num": 832072,
       "word": "男子确诊肺癌医生一根针冻死癌细胞",
       "onboard_time": 1732936457,
       "rank": 11,
@@ -113,6 +121,14 @@
       "onboard_time": 1732931897,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 708402,
+      "num": 708402,
+      "word": "员工已读不回负责人凌晨爆粗口",
+      "onboard_time": 1732939458,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 702408,
@@ -251,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345952,
-      "num": 415436,
-      "word": "员工已读不回负责人凌晨爆粗口",
-      "onboard_time": 1732939458,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 333684,
       "num": 333684,
       "word": "龚俊不能说糊",
@@ -283,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322645,
-      "num": 322645,
-      "word": "结婚3年流产2次竟是老公精子碎了",
-      "onboard_time": 1732940358,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 320077,
+      "num": 320077,
+      "word": "王安宇去有风的地方旅行vlog",
+      "onboard_time": 1732939817,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 306931,
@@ -331,14 +339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 261805,
-      "num": 261805,
-      "word": "王安宇去有风的地方旅行vlog",
-      "onboard_time": 1732939817,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251627,
       "num": 251627,
       "word": "金高银获青龙影后",
@@ -377,6 +377,14 @@
       "onboard_time": 1732914130,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 245191,
+      "num": 245191,
+      "word": "陈小春养老保险有点多",
+      "onboard_time": 1732940598,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 220288,
@@ -419,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206714,
+      "num": 248825,
+      "word": "黄景瑜32岁状态",
+      "onboard_time": 1732940959,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205490,
       "num": 205490,
       "word": "王楚钦孙颖莎赛前混双训练",
       "onboard_time": 1732891401,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202987,
+      "num": 202987,
+      "word": "沉香长大演警察",
+      "onboard_time": 1732941018,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 200008,
@@ -457,6 +481,14 @@
       "onboard_time": 1732896799,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190626,
+      "num": 277853,
+      "word": "闪耀暖暖",
+      "onboard_time": 1732940297,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 190516,
@@ -523,6 +555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183591,
+      "num": 183591,
+      "word": "梁伟铿说和王昶天作之合所向披靡",
+      "onboard_time": 1732941079,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182133,
       "num": 247640,
       "word": "有消费者认为优衣库不尊重中国市场",
@@ -553,6 +593,22 @@
       "onboard_time": 1732874000,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177572,
+      "num": 177572,
+      "word": "王安宇怼脸拍宋亚轩",
+      "onboard_time": 1732940358,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171910,
+      "num": 171910,
+      "word": "G2回应Uzi说和Ming复出",
+      "onboard_time": 1732940959,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 170616,
@@ -595,20 +651,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167354,
+      "num": 167354,
+      "word": "金靖月子中心vlog",
+      "onboard_time": 1732941379,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165579,
       "num": 165579,
       "word": "名侦探柯南独眼的残像",
       "onboard_time": 1732934957,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 163673,
-      "num": 277853,
-      "word": "闪耀暖暖",
-      "onboard_time": 1732940297,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 163504,
@@ -675,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138869,
+      "num": 138869,
+      "word": "国乒队员用一个词描述成都",
+      "onboard_time": 1732940419,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138094,
       "num": 158595,
       "word": "曝姆巴佩已找专家治疗",
@@ -716,7 +780,7 @@
     },
     {
       "raw_hot": 134407,
-      "num": 134407,
+      "num": 265788,
       "word": "山东潍坊两起首饰店被抢案件告破",
       "onboard_time": 1732938318,
       "rank": 42,
@@ -729,6 +793,14 @@
       "onboard_time": 1732939219,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133499,
+      "num": 133499,
+      "word": "蜀锦人家",
+      "onboard_time": 1732940717,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128523,
@@ -771,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124879,
+      "num": 124879,
+      "word": "白夜破晓 小允子",
+      "onboard_time": 1732941679,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123816,
       "num": 123816,
       "word": "赵一博夜深了发点提神的照片",
@@ -795,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122452,
+      "num": 122452,
+      "word": "丁禹兮高马尾打人事件",
+      "onboard_time": 1732941557,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122135,
       "num": 88338,
       "word": "安静公主",
@@ -809,14 +897,6 @@
       "onboard_time": 1732934957,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121522,
-      "num": 121522,
-      "word": "王安宇怼脸拍宋亚轩",
-      "onboard_time": 1732940358,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 121080,
@@ -836,7 +916,7 @@
     },
     {
       "raw_hot": 119430,
-      "num": 186272,
+      "num": 187727,
       "word": "GOT7明年1月完整体回归",
       "onboard_time": 1732938197,
       "rank": 35,
@@ -857,14 +937,6 @@
       "onboard_time": 1732935797,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115968,
-      "num": 115968,
-      "word": "国乒队员用一个词描述成都",
-      "onboard_time": 1732940419,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 114950,
@@ -915,28 +987,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111849,
-      "num": 179214,
-      "word": "陈小春养老保险有点多",
-      "onboard_time": 1732940598,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111479,
       "num": 111479,
       "word": "韩国90后女演员实绩",
       "onboard_time": 1732894339,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 110226,
-      "num": 110226,
-      "word": "蜀锦人家",
-      "onboard_time": 1732940717,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108011,
@@ -1155,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78559,
+      "num": 253724,
+      "word": "鹤岗暴雪独居老人门被堵民警救援",
+      "onboard_time": 1732939396,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78392,
       "num": 78392,
       "word": "王俊凯包场王源孤星计划",
@@ -1188,11 +1252,19 @@
     },
     {
       "raw_hot": 73545,
-      "num": 824633,
+      "num": 957402,
       "word": "何以中国弦歌不辍",
       "onboard_time": 1732934658,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 62224,
+      "num": 316956,
+      "word": "叙利亚局势",
+      "onboard_time": 1732938917,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55005,
@@ -1217,6 +1289,14 @@
       "onboard_time": 1732903332,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51881,
+      "num": 271614,
+      "word": "英子开门你的川来了",
+      "onboard_time": 1732940959,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 51168,
@@ -1259,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48308,
+      "num": 323061,
+      "word": "男子为吃野猪设电网猎捕被刑拘",
+      "onboard_time": 1732939579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44159,
       "num": 52446,
       "word": "日本士兵日记揭露南京大屠杀惨状",
@@ -1267,12 +1355,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42200,
-      "num": 323061,
-      "word": "男子为吃野猪设电网猎捕被刑拘",
-      "onboard_time": 1732939579,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 42889,
+      "num": 338951,
+      "word": "这些OST一响2024画面感就来了",
+      "onboard_time": 1732940779,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 41977,
@@ -1323,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38256,
+      "num": 184939,
+      "word": "兄弟俩盗窃2000元被刑拘",
+      "onboard_time": 1732940898,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37620,
       "num": 160967,
       "word": "GimGoon与Tian和Crisp合照",
@@ -1355,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33768,
+      "num": 275550,
+      "word": "戛纳最佳导演镜头里的杭州",
+      "onboard_time": 1732938017,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31656,
       "num": 52405,
       "word": "老人一头栽地上却真的被感动了",
@@ -1377,22 +1481,6 @@
       "onboard_time": 1732904532,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26801,
-      "num": 275550,
-      "word": "戛纳最佳导演镜头里的杭州",
-      "onboard_time": 1732938017,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 25962,
-      "num": 338951,
-      "word": "这些OST一响2024画面感就来了",
-      "onboard_time": 1732940779,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 25833,
