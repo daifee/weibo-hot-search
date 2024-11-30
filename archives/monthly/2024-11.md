@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 10:58:46
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 11:09:20
 </p>
 </blockquote>
 <p>
@@ -1077,6 +1077,12 @@ BIGBANG合体（热度：2423890）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5LV%E6%9F%9C%E5%A7%90%E7%A6%BB%E8%81%8C%E5%90%8E%E5%BC%80%E5%A7%8B%E5%8D%96%E8%B4%A7%23" target="weibo">
+合肥LV柜姐离职后开始卖货（热度：1957865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%A5%B3%E8%BD%A6%E4%B8%BB%E5%93%BD%E5%92%BD%E5%90%A6%E8%AE%A4%E7%82%92%E4%BD%9C%23" target="weibo">
 劳斯莱斯女车主哽咽否认炒作（热度：1954044）
 </a>
@@ -1109,12 +1115,6 @@ BIGBANG合体（热度：2423890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E9%9B%80%E7%BE%9A%E5%9B%9E%E5%BA%94%23" target="weibo">
 百雀羚回应（热度：1923730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5LV%E6%9F%9C%E5%A7%90%E7%A6%BB%E8%81%8C%E5%90%8E%E5%BC%80%E5%A7%8B%E5%8D%96%E8%B4%A7%23" target="weibo">
-合肥LV柜姐离职后开始卖货（热度：1923318）
 </a>
 </li>
 

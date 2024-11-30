@@ -1,0 +1,410 @@
+{
+  "runTime": 1732936160332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 928218,
+        "num": 1148514,
+        "word": "婚礼中途停电40分钟气哭新人爸妈",
+        "onboard_time": 1732928777,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769396,
+        "num": 769396,
+        "word": "彩虹夫妇第4胎产女称如愿了",
+        "onboard_time": 1732932677,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48684,
+        "num": 649525,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 640024,
+        "num": 640024,
+        "word": "papi酱 是狗把他带大的吗",
+        "onboard_time": 1732931536,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551331,
+        "num": 551331,
+        "word": "爷爷看中LV皮鞋柜姐配合孙女演戏砍价",
+        "onboard_time": 1732931596,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505842,
+        "num": 505842,
+        "word": "张朝阳不建议掏空六个钱包消费",
+        "onboard_time": 1732934478,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472460,
+        "num": 472460,
+        "word": "周密 刻板印象",
+        "onboard_time": 1732931897,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399667,
+        "num": 399667,
+        "word": "2025国考最热岗1.6万人挑一",
+        "onboard_time": 1732933037,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 355923,
+        "num": 355923,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36797,
+        "num": 354070,
+        "word": "纯白无暇的新疆棉值得被爱",
+        "onboard_time": 1732935858,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1957865,
+        "num": 352121,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467505,
+        "num": 346945,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 11,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 298548,
+        "num": 344825,
+        "word": "虞书欣丁禹兮 一个想靠一个想搂",
+        "onboard_time": 1732928896,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342195,
+        "num": 342195,
+        "word": "十二月行程图",
+        "onboard_time": 1732933097,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37479,
+        "num": 341322,
+        "word": "2男子捕数千只鸟被判5年半赔36万",
+        "onboard_time": 1732933277,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223399,
+        "num": 340813,
+        "word": "成毅徐璐演长安二十四计",
+        "onboard_time": 1732932977,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51168,
+        "num": 339606,
+        "word": "陈都灵十二月行程",
+        "onboard_time": 1732935737,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460165,
+        "num": 338748,
+        "word": "周密周芯竹聊天记录",
+        "onboard_time": 1732901415,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49296,
+        "num": 337718,
+        "word": "专家称艰苦地区国考报考率达99.5%",
+        "onboard_time": 1732935678,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22355,
+        "num": 336943,
+        "word": "多地考古相关专业毕业即入编",
+        "onboard_time": 1732935858,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336776,
+        "num": 336776,
+        "word": "国考",
+        "onboard_time": 1732930877,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233564,
+        "num": 233564,
+        "word": "丁禹兮 被打入冷宫的妃子",
+        "onboard_time": 1732926676,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389557,
+        "num": 233545,
+        "word": "中2.25亿巨奖男子尚未兑奖",
+        "onboard_time": 1732896859,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300876,
+        "num": 233456,
+        "word": "湖南台员工为麦琳发声",
+        "onboard_time": 1732888039,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102467,
+        "num": 233269,
+        "word": "国际奥委会祝梁伟铿生日快乐",
+        "onboard_time": 1732934957,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233267,
+        "num": 233267,
+        "word": "乒羽混双大魔王绝版了",
+        "onboard_time": 1732934957,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214297,
+        "num": 214297,
+        "word": "叙利亚阿勒颇战事升级",
+        "onboard_time": 1732932677,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187856,
+        "num": 212155,
+        "word": "你好星期六全员晒初雪穿搭",
+        "onboard_time": 1732934778,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211204,
+        "num": 211204,
+        "word": "优衣库",
+        "onboard_time": 1732934957,
+        "rank": 28,
+        "category": "舆论监督,时尚"
+      },
+      {
+        "raw_hot": 36439,
+        "num": 210489,
+        "word": "大理一奔驰车追尾老年代步车致2死",
+        "onboard_time": 1732935138,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210297,
+        "num": 210297,
+        "word": "优衣库店员称不知道棉花来自哪里",
+        "onboard_time": 1732924877,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205546,
+        "num": 205546,
+        "word": "26岁专科生考研成功把公司开进大学",
+        "onboard_time": 1732923616,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45403,
+        "num": 193316,
+        "word": "白鹿十二月行程投送",
+        "onboard_time": 1732935916,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191522,
+        "num": 191522,
+        "word": "易易紫承认和崔胜铉恋爱过",
+        "onboard_time": 1732896318,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165579,
+        "num": 165579,
+        "word": "名侦探柯南独眼的残像",
+        "onboard_time": 1732934957,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89062,
+        "num": 164063,
+        "word": "莫兰特逆天滞空",
+        "onboard_time": 1732935858,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163310,
+        "num": 163310,
+        "word": "2025年度国考今日开考",
+        "onboard_time": 1732932017,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148444,
+        "num": 148444,
+        "word": "中2.25亿巨奖彩民为即兴下注",
+        "onboard_time": 1732920792,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144377,
+        "num": 144377,
+        "word": "周芯竹回应分手事件",
+        "onboard_time": 1732892000,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135261,
+        "num": 135261,
+        "word": "刘耀文百花奖提名者采访",
+        "onboard_time": 1732934897,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127984,
+        "num": 127984,
+        "word": "男子殴打父亲致死被判13年",
+        "onboard_time": 1732933037,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123172,
+        "num": 123172,
+        "word": "暗河传",
+        "onboard_time": 1732935438,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120767,
+        "num": 120767,
+        "word": "一医生因车祸去世肇事者开车看手机",
+        "onboard_time": 1732892421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114762,
+        "num": 114762,
+        "word": "奔跑吧兵分两路走南又闯北",
+        "onboard_time": 1732935617,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114446,
+        "num": 114446,
+        "word": "MMA颁奖典礼",
+        "onboard_time": 1732933397,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111899,
+        "num": 111899,
+        "word": "肖战致敬平凡英雄",
+        "onboard_time": 1732934478,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107729,
+        "num": 107729,
+        "word": "孙颖莎上演高空杀球",
+        "onboard_time": 1732933216,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107700,
+        "num": 107700,
+        "word": "孙颖莎王楚钦奥运后首次搭档",
+        "onboard_time": 1732896799,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103904,
+        "num": 103904,
+        "word": "龚俊彭小苒暗河传杀青特辑",
+        "onboard_time": 1732934478,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103375,
+        "num": 103375,
+        "word": "山东潍坊两金店同日被抢",
+        "onboard_time": 1732935797,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党的创新理论更加深入人心#"
+    }
+  }
+}
