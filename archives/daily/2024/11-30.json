@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732976405408,
+  "endTime": 1732977538320,
   "band_list": [
     {
       "raw_hot": 3679332,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 881131,
+      "num": 318705,
+      "word": "黄景瑜孙千 尴尬",
+      "onboard_time": 1732976960,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 844988,
       "num": 589511,
       "word": "中国籍男子承认涂鸦日本靖国神社",
@@ -208,6 +216,14 @@
       "word": "陈赫回应鹿晗直播",
       "onboard_time": 1732954698,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 784864,
+      "num": 297136,
+      "word": "分手见人品",
+      "onboard_time": 1732975461,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 655457,
+      "num": 655457,
+      "word": "恋与制作人大婚",
+      "onboard_time": 1732970359,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 651854,
       "num": 651854,
       "word": "张朝阳不建议掏空六个钱包消费",
@@ -289,14 +313,6 @@
       "onboard_time": 1732931536,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623564,
-      "num": 623564,
-      "word": "恋与制作人大婚",
-      "onboard_time": 1732970359,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 612370,
@@ -393,6 +409,14 @@
       "onboard_time": 1732875379,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 522437,
+      "num": 287216,
+      "word": "永夜星河逆跌",
+      "onboard_time": 1732974799,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 520283,
@@ -651,12 +675,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 367029,
-      "num": 287216,
-      "word": "永夜星河逆跌",
-      "onboard_time": 1732974799,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 361804,
+      "num": 243527,
+      "word": "好东西",
+      "onboard_time": 1732893980,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 358688,
@@ -811,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319189,
+      "num": 243185,
+      "word": "内娱第一个能保护黄景瑜的男人",
+      "onboard_time": 1732974559,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318437,
       "num": 318437,
       "word": "元梦之星",
@@ -819,12 +851,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 316512,
-      "num": 285267,
-      "word": "分手见人品",
-      "onboard_time": 1732975461,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 317047,
+      "num": 317047,
+      "word": "日本正考虑推进简化中国公民赴日签证手续",
+      "onboard_time": 1732976240,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 313904,
@@ -867,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 304273,
+      "num": 304273,
+      "word": "12月十二星座注意事项",
+      "onboard_time": 1732974380,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303649,
       "num": 303649,
       "word": "恋与制作人七周年直播",
@@ -897,14 +937,6 @@
       "onboard_time": 1732883719,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292295,
-      "num": 292295,
-      "word": "12月十二星座注意事项",
-      "onboard_time": 1732974380,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 291248,
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260990,
+      "num": 249322,
+      "word": "韩剧现在拨打的电话",
+      "onboard_time": 1732972580,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256594,
       "num": 256594,
       "word": "贺峻霖在张蔷头发里找张蔷",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1732898597,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249322,
-      "num": 249322,
-      "word": "韩剧现在拨打的电话",
-      "onboard_time": 1732972580,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 245596,
@@ -1123,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220191,
+      "num": 280931,
+      "word": "结婚1年多不孕夫妻变姐妹",
+      "onboard_time": 1732977200,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216632,
       "num": 216632,
       "word": "男子开车打掼蛋被查时系统催出牌",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1732932677,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 213849,
-      "num": 213849,
-      "word": "内娱第一个能保护黄景瑜的男人",
-      "onboard_time": 1732974559,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 212740,
@@ -1308,7 +1340,7 @@
     },
     {
       "raw_hot": 195185,
-      "num": 214927,
+      "num": 252178,
       "word": "文轩楼内唯一all粉",
       "onboard_time": 1732975281,
       "rank": 26,
@@ -1499,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178993,
+      "num": 178993,
+      "word": "国考每一步都在淘汰人",
+      "onboard_time": 1732972937,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178854,
       "num": 180814,
       "word": "乔任梁父亲首次回应巨额封口费一说",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1732940959,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171841,
+      "num": 171841,
+      "word": "网剧冬至",
+      "onboard_time": 1732976240,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 170616,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1732959918,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166333,
+      "num": 166333,
+      "word": "易烊千玺干杯朋友松弛感拉满",
+      "onboard_time": 1732976421,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166150,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1732920792,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161907,
-      "num": 161907,
-      "word": "国考每一步都在淘汰人",
-      "onboard_time": 1732972937,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 161378,
@@ -1731,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154468,
+      "num": 144014,
+      "word": "范丞丞直播",
+      "onboard_time": 1732975881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154383,
       "num": 154383,
       "word": "人间百味影像展",
@@ -1787,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148461,
+      "num": 211825,
+      "word": "马龙说没想到乒乓球在台湾这么火",
+      "onboard_time": 1732971920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148258,
       "num": 148258,
       "word": "刘耀文百花奖提名者采访",
@@ -1835,20 +1899,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144238,
+      "num": 144238,
+      "word": "宋威龙进组骄阳似我",
+      "onboard_time": 1732976600,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144051,
       "num": 144051,
       "word": "TWS舞台跳绳",
       "onboard_time": 1732966158,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 144014,
-      "num": 144014,
-      "word": "范丞丞直播",
-      "onboard_time": 1732975881,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 143970,
@@ -1897,6 +1961,14 @@
       "onboard_time": 1732960999,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141206,
+      "num": 141206,
+      "word": "马龙签不完根本签不完",
+      "onboard_time": 1732975700,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 141123,
@@ -2107,14 +2179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132587,
-      "num": 211825,
-      "word": "马龙说没想到乒乓球在台湾这么火",
-      "onboard_time": 1732971920,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132179,
       "num": 211349,
       "word": "婚内婚外是玫瑰的事故",
@@ -2251,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124160,
-      "num": 124160,
-      "word": "网剧冬至",
-      "onboard_time": 1732976240,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124134,
       "num": 124134,
       "word": "孔雪儿终于把面纱摘了",
@@ -2387,6 +2443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117884,
+      "num": 117884,
+      "word": "宁艺卓中文获奖感言",
+      "onboard_time": 1732977141,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117076,
       "num": 117076,
       "word": "宋雨琦公主切黑长直",
@@ -2409,6 +2473,14 @@
       "onboard_time": 1732895420,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 114936,
+      "num": 283936,
+      "word": "老人转运途中跌落29天后离世获赔43万",
+      "onboard_time": 1732976060,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114763,
@@ -2443,6 +2515,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 113832,
+      "num": 243823,
+      "word": "老人将房产过户妻子后被拒之门外",
+      "onboard_time": 1732975881,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113407,
       "num": 323373,
       "word": "叙政府军数十台无线通讯设备爆炸",
@@ -2451,12 +2531,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113276,
+      "num": 113276,
+      "word": "叶舒华直播",
+      "onboard_time": 1732977380,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112648,
       "num": 112648,
       "word": "多地考古类专业毕业即入编",
       "onboard_time": 1732937177,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112357,
+      "num": 112357,
+      "word": "骄阳似我",
+      "onboard_time": 1732977440,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111479,
@@ -2507,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107072,
-      "num": 107072,
-      "word": "好东西",
-      "onboard_time": 1732893980,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103812,
       "num": 103812,
       "word": "逐玉",
@@ -2537,14 +2625,6 @@
       "onboard_time": 1732960698,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102450,
-      "num": 249544,
-      "word": "日本正考虑推进简化中国公民赴日签证手续",
-      "onboard_time": 1732976240,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102365,
@@ -2625,14 +2705,6 @@
       "onboard_time": 1732943179,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100811,
-      "num": 124186,
-      "word": "马龙签不完根本签不完",
-      "onboard_time": 1732975700,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 100800,
@@ -2723,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95712,
+      "num": 242550,
+      "word": "Flandre加入AL",
+      "onboard_time": 1732976841,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95475,
       "num": 336943,
       "word": "多地考古相关专业毕业即入编",
@@ -2761,14 +2841,6 @@
       "onboard_time": 1732937238,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93143,
-      "num": 126892,
-      "word": "老人将房产过户妻子后被拒之门外",
-      "onboard_time": 1732975881,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91716,
@@ -3043,14 +3115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69663,
-      "num": 283936,
-      "word": "老人转运途中跌落29天后离世获赔43万",
-      "onboard_time": 1732976060,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65846,
       "num": 151994,
       "word": "赵一博冬日暖阳",
@@ -3105,6 +3169,14 @@
       "onboard_time": 1732962378,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58981,
+      "num": 179588,
+      "word": "宠托师带薪撸猫遛狗日入千元",
+      "onboard_time": 1732977320,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55296,
@@ -3332,7 +3404,7 @@
     },
     {
       "raw_hot": 38243,
-      "num": 538162,
+      "num": 545721,
       "word": "精彩全国少数民族传统体育运动会",
       "onboard_time": 1732971079,
       "rank": 2,
@@ -3409,6 +3481,14 @@
       "onboard_time": 1732972699,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32752,
+      "num": 216437,
+      "word": "蔡文静把嘴给宁悦装上了",
+      "onboard_time": 1732974199,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 31656,
@@ -3489,14 +3569,6 @@
       "onboard_time": 1732953799,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27504,
-      "num": 216437,
-      "word": "蔡文静把嘴给宁悦装上了",
-      "onboard_time": 1732974199,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 27016,
@@ -3844,6 +3916,9 @@
     },
     {
       "word": "#为推进马克思主义中国化时代化作出更大贡献#"
+    },
+    {
+      "word": "#思想理论之光照亮中国式现代化奋进之路#"
     }
   ]
 }

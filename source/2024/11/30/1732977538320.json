@@ -1,0 +1,410 @@
+{
+  "runTime": 1732977538320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3364954,
+        "num": 3364954,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655457,
+        "num": 655457,
+        "word": "恋与制作人大婚",
+        "onboard_time": 1732970359,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33970,
+        "num": 545721,
+        "word": "精彩全国少数民族传统体育运动会",
+        "onboard_time": 1732971079,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485420,
+        "num": 485420,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320542,
+        "num": 320542,
+        "word": "4人靠云养牛骗了5个亿",
+        "onboard_time": 1732968259,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1752869,
+        "num": 319977,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1156071,
+        "num": 319200,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 881131,
+        "num": 318705,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317047,
+        "num": 317047,
+        "word": "日本正考虑推进简化中国公民赴日签证手续",
+        "onboard_time": 1732976240,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304273,
+        "num": 304273,
+        "word": "12月十二星座注意事项",
+        "onboard_time": 1732974380,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 804462,
+        "num": 298472,
+        "word": "张小斐 喜欢肢体接触是吧",
+        "onboard_time": 1732973179,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 784864,
+        "num": 297136,
+        "word": "分手见人品",
+        "onboard_time": 1732975461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761637,
+        "num": 285692,
+        "word": "gidle全员续约",
+        "onboard_time": 1732971079,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220191,
+        "num": 280931,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114936,
+        "num": 275544,
+        "word": "老人转运途中跌落29天后离世获赔43万",
+        "onboard_time": 1732976060,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522437,
+        "num": 270998,
+        "word": "永夜星河逆跌",
+        "onboard_time": 1732974799,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266286,
+        "num": 266286,
+        "word": "郭艾伦32分",
+        "onboard_time": 1732974680,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178499,
+        "num": 252178,
+        "word": "文轩楼内唯一all粉",
+        "onboard_time": 1732975281,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244051,
+        "num": 244051,
+        "word": "越南将投入670亿美元修高铁",
+        "onboard_time": 1732963458,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113832,
+        "num": 243823,
+        "word": "老人将房产过户妻子后被拒之门外",
+        "onboard_time": 1732975881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361804,
+        "num": 243527,
+        "word": "好东西",
+        "onboard_time": 1732976660,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319189,
+        "num": 243185,
+        "word": "内娱第一个能保护黄景瑜的男人",
+        "onboard_time": 1732974559,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291301,
+        "num": 243108,
+        "word": "张元英和男伴舞双人芭蕾",
+        "onboard_time": 1732970839,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260990,
+        "num": 242868,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732972580,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95712,
+        "num": 242550,
+        "word": "Flandre加入AL",
+        "onboard_time": 1732976841,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242283,
+        "num": 242283,
+        "word": "aespa横扫MMA三项大赏",
+        "onboard_time": 1732972699,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210046,
+        "num": 210046,
+        "word": "年轻人得胃癌跟吃外卖有关系吗",
+        "onboard_time": 1732966698,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207621,
+        "num": 207621,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180720,
+        "num": 180720,
+        "word": "杭州首套房贷利率上调至3.1%",
+        "onboard_time": 1732967598,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58981,
+        "num": 179588,
+        "word": "宠托师带薪撸猫遛狗日入千元",
+        "onboard_time": 1732977320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178993,
+        "num": 178993,
+        "word": "国考每一步都在淘汰人",
+        "onboard_time": 1732972937,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175494,
+        "num": 175494,
+        "word": "金智秀连续三年获世首美",
+        "onboard_time": 1732968618,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173118,
+        "num": 173118,
+        "word": "突然发现考公的人越来越多",
+        "onboard_time": 1732970659,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171841,
+        "num": 171841,
+        "word": "网剧冬至",
+        "onboard_time": 1732976240,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166333,
+        "num": 166333,
+        "word": "易烊千玺干杯朋友松弛感拉满",
+        "onboard_time": 1732976421,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155341,
+        "num": 155341,
+        "word": "成都混团欢迎晚宴",
+        "onboard_time": 1732973120,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32752,
+        "num": 151283,
+        "word": "蔡文静把嘴给宁悦装上了",
+        "onboard_time": 1732974199,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148461,
+        "num": 148461,
+        "word": "马龙说没想到乒乓球在台湾这么火",
+        "onboard_time": 1732971920,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99493,
+        "num": 147297,
+        "word": "侯明昊把卷发焊在头上吧",
+        "onboard_time": 1732974740,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146926,
+        "num": 146926,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144238,
+        "num": 144238,
+        "word": "宋威龙进组骄阳似我",
+        "onboard_time": 1732976600,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141206,
+        "num": 141206,
+        "word": "马龙签不完根本签不完",
+        "onboard_time": 1732975700,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133881,
+        "num": 133881,
+        "word": "宋雨琦 雅典女神",
+        "onboard_time": 1732971319,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126469,
+        "num": 126469,
+        "word": "谭松韵跳APT",
+        "onboard_time": 1732975160,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120053,
+        "num": 120053,
+        "word": "九重紫",
+        "onboard_time": 1732965438,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154468,
+        "num": 119752,
+        "word": "范丞丞直播",
+        "onboard_time": 1732975881,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119320,
+        "num": 119320,
+        "word": "恋与睡眠陪伴",
+        "onboard_time": 1732974380,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117884,
+        "num": 117884,
+        "word": "宁艺卓中文获奖感言",
+        "onboard_time": 1732977141,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113276,
+        "num": 113276,
+        "word": "叶舒华直播",
+        "onboard_time": 1732977380,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112357,
+        "num": 112357,
+        "word": "骄阳似我",
+        "onboard_time": 1732977440,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#思想理论之光照亮中国式现代化奋进之路#"
+    }
+  }
+}
