@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1732985023506,
+  "endTime": 1732987155387,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -33,6 +33,14 @@
       "onboard_time": 1732976960,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 875594,
+      "num": 875594,
+      "word": "杭州夫妻两人染色体竟相同",
+      "onboard_time": 1732983798,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 680695,
@@ -104,14 +112,6 @@
       "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
       "onboard_time": 1732980500,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280562,
-      "num": 280562,
-      "word": "杭州夫妻两人染色体竟相同",
-      "onboard_time": 1732983798,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104429,
+      "num": 104429,
+      "word": "SK卡卡",
+      "onboard_time": 1732986134,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 100747,
       "num": 100747,
       "word": "张元英和男伴舞双人芭蕾",
@@ -387,6 +395,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78444,
+      "num": 133621,
+      "word": "江苏常州一架直升机落水",
+      "onboard_time": 1732986075,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78068,
+      "num": 78068,
+      "word": "四川两大国企将重组",
+      "onboard_time": 1732986256,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61212,
+      "num": 61212,
+      "word": "丁禹兮缝缝补补破破烂烂的剧本",
+      "onboard_time": 1732981939,
+      "rank": 41,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 61043,
       "num": 66275,
       "word": "李显龙称中国经济仍具有相当大的增长空间",
@@ -411,10 +443,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44978,
+      "num": 48088,
+      "word": "官方回复常州一直升飞机坠湖",
+      "onboard_time": 1732986915,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28348,
       "num": 135774,
       "word": "Tarzan加入AL",
       "onboard_time": 1732979300,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 18644,
+      "num": 86209,
+      "word": "向鱼评论席初体验",
+      "onboard_time": 1732981520,
       "rank": 24,
       "category": "电竞"
     },
