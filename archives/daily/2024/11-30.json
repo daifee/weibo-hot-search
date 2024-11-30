@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732977538320,
+  "endTime": 1732980178100,
   "band_list": [
     {
       "raw_hot": 3679332,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3319870,
-      "num": 356756,
+      "num": 381721,
       "word": "周密发歌diss周芯竹",
       "onboard_time": 1732972639,
       "rank": 5,
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1701114,
+      "num": 751524,
+      "word": "黄景瑜孙千 尴尬",
+      "onboard_time": 1732976960,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1679125,
       "num": 1679125,
       "word": "员工已读不回负责人凌晨爆粗口",
       "onboard_time": 1732939458,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1619660,
+      "num": 1619660,
+      "word": "艾滋夫妇确诊感染后的第20年",
+      "onboard_time": 1732978640,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1616600,
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 881131,
-      "num": 318705,
-      "word": "黄景瑜孙千 尴尬",
-      "onboard_time": 1732976960,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 844988,
       "num": 589511,
       "word": "中国籍男子承认涂鸦日本靖国神社",
@@ -208,6 +216,14 @@
       "word": "彩虹夫妇第4胎产女称如愿了",
       "onboard_time": 1732932677,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 794810,
+      "num": 280931,
+      "word": "结婚1年多不孕夫妻变姐妹",
+      "onboard_time": 1732977200,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 547541,
+      "num": 547541,
+      "word": "日本正考虑推进简化中国公民赴日签证手续",
+      "onboard_time": 1732976240,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 538449,
       "num": 391734,
       "word": "虞书欣她拍vs自拍",
@@ -547,6 +571,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431293,
+      "num": 255200,
+      "word": "肖战 攻玉",
+      "onboard_time": 1732979540,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 429375,
+      "num": 241305,
+      "word": "新床单晒了一次变微信聊天背景图了",
+      "onboard_time": 1732977740,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 424556,
       "num": 364958,
       "word": "一路繁花直播",
@@ -675,6 +715,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 365148,
+      "num": 242045,
+      "word": "易烊千玺小网站发了粉丝的声音",
+      "onboard_time": 1732977561,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361804,
       "num": 243527,
       "word": "好东西",
@@ -687,6 +735,14 @@
       "num": 212685,
       "word": "沈梦瑶与丝芭解约成功",
       "onboard_time": 1732955418,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358349,
+      "num": 242765,
+      "word": "范丞丞希望粉丝对工作室嘴下留情",
+      "onboard_time": 1732978522,
       "rank": 20,
       "category": "艺人"
     },
@@ -849,14 +905,6 @@
       "onboard_time": 1732956798,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317047,
-      "num": 317047,
-      "word": "日本正考虑推进简化中国公民赴日签证手续",
-      "onboard_time": 1732976240,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 313904,
@@ -1099,6 +1147,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243945,
+      "num": 243945,
+      "word": "300万投资变成了6万斤网络牛肉",
+      "onboard_time": 1732976180,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240926,
+      "num": 240926,
+      "word": "赵露思去看凤凰传奇演唱会了",
+      "onboard_time": 1732979001,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239422,
       "num": 239422,
       "word": "周密 难听",
@@ -1152,14 +1216,6 @@
       "word": "女子取款5000元银行要求丈夫到场",
       "onboard_time": 1732882878,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220191,
-      "num": 280931,
-      "word": "结婚1年多不孕夫妻变姐妹",
-      "onboard_time": 1732977200,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1475,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184040,
+      "num": 184040,
+      "word": "严浩翔新剧被霸凌路透",
+      "onboard_time": 1732977921,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183912,
       "num": 312885,
       "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
@@ -1531,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180279,
+      "num": 166562,
+      "word": "骄阳似我",
+      "onboard_time": 1732977440,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178993,
       "num": 178993,
       "word": "国考每一步都在淘汰人",
@@ -1569,6 +1641,22 @@
       "onboard_time": 1732940358,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176734,
+      "num": 232430,
+      "word": "诗情画奕",
+      "onboard_time": 1732979180,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174177,
+      "num": 243788,
+      "word": "胃病向胃癌转变的5个信号",
+      "onboard_time": 1732976841,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171910,
@@ -1643,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166193,
+      "num": 166193,
+      "word": "孟子义李昀锐好嗑",
+      "onboard_time": 1732978822,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166150,
       "num": 212424,
       "word": "iG冠军四人组疑似入股iG",
@@ -1667,12 +1763,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164900,
+      "num": 164900,
+      "word": "27岁上海交大博导让大家别焦虑",
+      "onboard_time": 1732978459,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164853,
       "num": 164853,
       "word": "国考人数创新高平均录取比86比1",
       "onboard_time": 1732956977,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164364,
+      "num": 164364,
+      "word": "军团杯",
+      "onboard_time": 1732979961,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 163838,
@@ -1827,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149711,
+      "num": 149711,
+      "word": "华晨宇 找灵魂伴侣这件事情很难",
+      "onboard_time": 1732980020,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149671,
       "num": 149671,
       "word": "平静的疯感还得看李小冉",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1732962498,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148516,
+      "num": 148516,
+      "word": "哈圈",
+      "onboard_time": 1732979059,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 148461,
@@ -1921,6 +2049,14 @@
       "onboard_time": 1732948877,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143252,
+      "num": 132867,
+      "word": "华晨宇粉色永生花造型",
+      "onboard_time": 1732979482,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 142586,
@@ -2283,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126741,
+      "num": 126741,
+      "word": "巴萨1比2拉斯帕尔马斯",
+      "onboard_time": 1732979961,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126347,
       "num": 126347,
       "word": "白鹿的头全场最忙",
@@ -2313,6 +2457,14 @@
       "onboard_time": 1732931596,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124443,
+      "num": 241494,
+      "word": "王楚钦画纸署名尾田荣一头",
+      "onboard_time": 1732979721,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 124134,
@@ -2451,6 +2603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117825,
+      "num": 244462,
+      "word": "四川北川一村民家中遭黑熊袭击",
+      "onboard_time": 1732979001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117076,
       "num": 117076,
       "word": "宋雨琦公主切黑长直",
@@ -2545,14 +2705,6 @@
       "onboard_time": 1732937177,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112357,
-      "num": 112357,
-      "word": "骄阳似我",
-      "onboard_time": 1732977440,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 111479,
@@ -2843,6 +2995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92272,
+      "num": 243625,
+      "word": "孙千体面",
+      "onboard_time": 1732979780,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91716,
       "num": 120801,
       "word": "A股突然猛拉",
@@ -2881,14 +3041,6 @@
       "onboard_time": 1732883898,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88113,
-      "num": 124378,
-      "word": "300万投资变成了6万斤网络牛肉",
-      "onboard_time": 1732976180,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86310,
@@ -3059,6 +3211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75161,
+      "num": 242887,
+      "word": "六千八买两个二手LV包被鉴定为假",
+      "onboard_time": 1732979123,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74945,
       "num": 173009,
       "word": "传下去马龙说自己能打30年酱油",
@@ -3153,6 +3313,14 @@
       "onboard_time": 1732938917,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61743,
+      "num": 166579,
+      "word": "当地交警回应45岁医生出车祸去世",
+      "onboard_time": 1732978522,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60193,
@@ -3283,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47256,
+      "num": 243305,
+      "word": "百名会员刚办完卡洗浴店一夜关门",
+      "onboard_time": 1732979300,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46956,
       "num": 242507,
       "word": "生酮饮食饿死癌细胞是误导",
@@ -3385,6 +3561,14 @@
       "onboard_time": 1732896918,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38423,
+      "num": 167396,
+      "word": "胡成控制欲",
+      "onboard_time": 1732980020,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 38396,
@@ -3803,12 +3987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12980,
+      "num": 890265,
+      "word": "微观链博会",
+      "onboard_time": 1732970779,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 12883,
       "num": 24355,
       "word": "43名志愿军烈士长眠祖国大地",
       "onboard_time": 1732911430,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12766,
+      "num": 234203,
+      "word": "心理专家谈好东西中小孩姐的选择",
+      "onboard_time": 1732978402,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 12206,
@@ -3919,6 +4119,9 @@
     },
     {
       "word": "#思想理论之光照亮中国式现代化奋进之路#"
+    },
+    {
+      "word": "#必须坚持守正创新#"
     }
   ]
 }
