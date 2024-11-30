@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732958558948,
+  "endTime": 1732959397703,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -115,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 918063,
+      "num": 339167,
+      "word": "金莎焉栩嘉逛街被偶遇",
+      "onboard_time": 1732956977,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 911812,
       "num": 911812,
       "word": "中2.25亿巨奖男子尚未兑奖",
       "onboard_time": 1732896859,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 860332,
-      "num": 306922,
-      "word": "金莎焉栩嘉逛街被偶遇",
-      "onboard_time": 1732956977,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 844988,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644726,
+      "num": 240335,
+      "word": "微信朋友圈显示未能点赞",
+      "onboard_time": 1732957519,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 612370,
       "num": 612370,
       "word": "网传李行亮歌手2025试音",
@@ -265,6 +273,14 @@
       "onboard_time": 1732879818,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 551678,
+      "num": 269367,
+      "word": "IVE最佳MV",
+      "onboard_time": 1732957758,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 551375,
@@ -379,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424008,
-      "num": 246256,
-      "word": "IVE最佳MV",
-      "onboard_time": 1732957758,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 423092,
       "num": 423092,
       "word": "王楚钦混团抽签台下画画",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 358688,
-      "num": 184566,
+      "num": 212685,
       "word": "沈梦瑶与丝芭解约成功",
       "onboard_time": 1732955418,
       "rank": 20,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 313612,
-      "num": 174859,
+      "num": 193498,
       "word": "张元英开场",
       "onboard_time": 1732957279,
       "rank": 25,
@@ -568,6 +576,14 @@
       "word": "一句但悲不见九州同哭倒一片理科生",
       "onboard_time": 1732952897,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307781,
+      "num": 307781,
+      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+      "onboard_time": 1732957219,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -603,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295130,
-      "num": 240335,
-      "word": "微信朋友圈显示未能点赞",
-      "onboard_time": 1732957519,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 291248,
       "num": 291248,
       "word": "葛夕闺蜜",
@@ -641,6 +649,14 @@
       "onboard_time": 1732942638,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263637,
+      "num": 193043,
+      "word": "女子5年剖4胎宣布封肚",
+      "onboard_time": 1732957999,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251627,
@@ -681,6 +697,14 @@
       "onboard_time": 1732914130,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 228525,
+      "num": 220720,
+      "word": "肖战今年不打算参加跨年晚会",
+      "onboard_time": 1732958359,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 227377,
@@ -811,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195281,
+      "num": 195281,
+      "word": "TheShy转iG重组微博",
+      "onboard_time": 1732958540,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194468,
       "num": 194468,
       "word": "MMA颁奖典礼",
@@ -923,20 +955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183750,
-      "num": 247795,
-      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
-      "onboard_time": 1732957219,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183591,
       "num": 183591,
       "word": "梁伟铿说和王昶天作之合所向披靡",
       "onboard_time": 1732941079,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182268,
+      "num": 182268,
+      "word": "HEYA",
+      "onboard_time": 1732958959,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 182133,
@@ -1067,6 +1099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164779,
+      "num": 216387,
+      "word": "沙特放弃与美国签署防务协议",
+      "onboard_time": 1732957999,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163838,
       "num": 248962,
       "word": "香奈儿时尚发布会",
@@ -1179,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149162,
-      "num": 149162,
-      "word": "女子5年剖4胎宣布封肚",
-      "onboard_time": 1732957999,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148258,
       "num": 148258,
       "word": "刘耀文百花奖提名者采访",
@@ -1219,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143788,
+      "num": 143788,
+      "word": "葛夕 一个大爹一个小爹",
+      "onboard_time": 1732959140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142370,
       "num": 142370,
       "word": "夏之光说自己的身高全靠鞋",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1732925236,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139365,
-      "num": 139365,
-      "word": "沙特放弃与美国签署防务协议",
-      "onboard_time": 1732957999,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139348,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1732955358,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132179,
+      "num": 211349,
+      "word": "婚内婚外是玫瑰的事故",
+      "onboard_time": 1732958837,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 131590,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1732945999,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117076,
+      "num": 117076,
+      "word": "宋雨琦公主切黑长直",
+      "onboard_time": 1732959259,
+      "rank": 47,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 116354,
@@ -1915,12 +1963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84973,
-      "num": 167880,
-      "word": "TheShy转iG重组微博",
-      "onboard_time": 1732958540,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 84753,
+      "num": 191011,
+      "word": "马龙回应粉丝喊话再打30年",
+      "onboard_time": 1732958179,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 82052,
@@ -1985,14 +2033,6 @@
       "onboard_time": 1732934417,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 78016,
-      "num": 168544,
-      "word": "马龙回应粉丝喊话再打30年",
-      "onboard_time": 1732958179,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 77834,
@@ -2139,14 +2179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49606,
-      "num": 220720,
-      "word": "肖战今年不打算参加跨年晚会",
-      "onboard_time": 1732958359,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49224,
       "num": 241979,
       "word": "好东西票房破3亿",
@@ -2163,6 +2195,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 48654,
+      "num": 190514,
+      "word": "周子瑜回应整容质疑",
+      "onboard_time": 1732959378,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48433,
       "num": 654205,
       "word": "12月这些新规影响你我",
@@ -2176,6 +2216,14 @@
       "word": "男子为吃野猪设电网猎捕被刑拘",
       "onboard_time": 1732939579,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46956,
+      "num": 242507,
+      "word": "生酮饮食饿死癌细胞是误导",
+      "onboard_time": 1732957397,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2240,14 +2288,6 @@
       "word": "香奈儿屏风里的西湖",
       "onboard_time": 1732950198,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38753,
-      "num": 242507,
-      "word": "生酮饮食饿死癌细胞是误导",
-      "onboard_time": 1732957397,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2428,7 +2468,7 @@
     },
     {
       "raw_hot": 24381,
-      "num": 136241,
+      "num": 175920,
       "word": "香奈儿15年后中国首秀",
       "onboard_time": 1732957158,
       "rank": 38,

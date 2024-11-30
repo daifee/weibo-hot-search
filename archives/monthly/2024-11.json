@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732958558948,
+  "endTime": 1732959397703,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -7091,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 918063,
+      "num": 339167,
+      "word": "金莎焉栩嘉逛街被偶遇",
+      "onboard_time": 1732956977,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 917521,
       "num": 917521,
       "word": "安以轩得知老公被判13年后很伤心",
@@ -7817,14 +7825,6 @@
       "onboard_time": 1731156438,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 860332,
-      "num": 306922,
-      "word": "金莎焉栩嘉逛街被偶遇",
-      "onboard_time": 1732956977,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 860243,
@@ -12459,6 +12459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 644726,
+      "num": 240335,
+      "word": "微信朋友圈显示未能点赞",
+      "onboard_time": 1732957519,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 644714,
       "num": 644714,
       "word": "还我庄图南",
@@ -15193,6 +15201,14 @@
       "onboard_time": 1730629040,
       "rank": 45,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 551678,
+      "num": 269367,
+      "word": "IVE最佳MV",
+      "onboard_time": 1732957758,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 551576,
@@ -20219,14 +20235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424008,
-      "num": 246256,
-      "word": "IVE最佳MV",
-      "onboard_time": 1732957758,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 423991,
       "num": 305901,
       "word": "虞书欣跳ohmybaby手势舞",
@@ -23756,7 +23764,7 @@
     },
     {
       "raw_hot": 358688,
-      "num": 184566,
+      "num": 212685,
       "word": "沈梦瑶与丝芭解约成功",
       "onboard_time": 1732955418,
       "rank": 20,
@@ -26516,7 +26524,7 @@
     },
     {
       "raw_hot": 313612,
-      "num": 174859,
+      "num": 193498,
       "word": "张元英开场",
       "onboard_time": 1732957279,
       "rank": 25,
@@ -26977,6 +26985,14 @@
       "onboard_time": 1732024584,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 307781,
+      "num": 307781,
+      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+      "onboard_time": 1732957219,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307780,
@@ -27889,14 +27905,6 @@
       "onboard_time": 1731904821,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295130,
-      "num": 240335,
-      "word": "微信朋友圈显示未能点赞",
-      "onboard_time": 1732957519,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 295126,
@@ -30729,6 +30737,14 @@
       "onboard_time": 1732942638,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263637,
+      "num": 193043,
+      "word": "女子5年剖4胎宣布封肚",
+      "onboard_time": 1732957999,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263559,
@@ -34865,6 +34881,14 @@
       "onboard_time": 1730387180,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228525,
+      "num": 220720,
+      "word": "肖战今年不打算参加跨年晚会",
+      "onboard_time": 1732958359,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 228360,
@@ -42419,6 +42443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195281,
+      "num": 195281,
+      "word": "TheShy转iG重组微博",
+      "onboard_time": 1732958540,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195263,
       "num": 222768,
       "word": "金鸡奖提名表彰红毯",
@@ -46251,14 +46283,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 183750,
-      "num": 247795,
-      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
-      "onboard_time": 1732957219,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183670,
       "num": 183670,
       "word": "时代少年团二开",
@@ -46665,6 +46689,14 @@
       "onboard_time": 1732438459,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 182268,
+      "num": 182268,
+      "word": "HEYA",
+      "onboard_time": 1732958959,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 182263,
@@ -52009,6 +52041,14 @@
       "onboard_time": 1730647940,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164779,
+      "num": 216387,
+      "word": "沙特放弃与美国签署防务协议",
+      "onboard_time": 1732957999,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164717,
@@ -57619,14 +57659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149162,
-      "num": 149162,
-      "word": "女子5年剖4胎宣布封肚",
-      "onboard_time": 1732957999,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149132,
       "num": 149132,
       "word": "丁禹兮子期小剧场最后一期",
@@ -59347,6 +59379,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 143788,
+      "num": 143788,
+      "word": "葛夕 一个大爹一个小爹",
+      "onboard_time": 1732959140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143774,
       "num": 143774,
       "word": "张艺兴新歌",
@@ -60937,14 +60977,6 @@
       "onboard_time": 1732094540,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139365,
-      "num": 139365,
-      "word": "沙特放弃与美国签署防务协议",
-      "onboard_time": 1732957999,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139348,
@@ -63281,6 +63313,14 @@
       "onboard_time": 1732418538,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132179,
+      "num": 211349,
+      "word": "婚内婚外是玫瑰的事故",
+      "onboard_time": 1732958837,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 132178,
@@ -68465,6 +68505,14 @@
       "onboard_time": 1731912558,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117076,
+      "num": 117076,
+      "word": "宋雨琦公主切黑长直",
+      "onboard_time": 1732959259,
+      "rank": 47,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 117028,
@@ -76163,14 +76211,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 84973,
-      "num": 167880,
-      "word": "TheShy转iG重组微博",
-      "onboard_time": 1732958540,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 84959,
       "num": 256513,
       "word": "瑞士卷事件博主否认摆拍制造对立",
@@ -76241,6 +76281,14 @@
       "onboard_time": 1732746853,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84753,
+      "num": 191011,
+      "word": "马龙回应粉丝喊话再打30年",
+      "onboard_time": 1732958179,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 84729,
@@ -77753,14 +77801,6 @@
       "onboard_time": 1732842798,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 78016,
-      "num": 168544,
-      "word": "马龙回应粉丝喊话再打30年",
-      "onboard_time": 1732958179,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 77985,
@@ -85235,14 +85275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49606,
-      "num": 220720,
-      "word": "肖战今年不打算参加跨年晚会",
-      "onboard_time": 1732958359,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49578,
       "num": 55573,
       "word": "杨谨华回应新剧影射萧亚轩",
@@ -85521,6 +85553,14 @@
       "onboard_time": 1732649530,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48654,
+      "num": 190514,
+      "word": "周子瑜回应整容质疑",
+      "onboard_time": 1732959378,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 48639,
@@ -86009,6 +86049,14 @@
       "onboard_time": 1730798062,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46956,
+      "num": 242507,
+      "word": "生酮饮食饿死癌细胞是误导",
+      "onboard_time": 1732957397,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46939,
@@ -89121,14 +89169,6 @@
       "onboard_time": 1731572300,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 38753,
-      "num": 242507,
-      "word": "生酮饮食饿死癌细胞是误导",
-      "onboard_time": 1732957397,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38729,
@@ -96196,7 +96236,7 @@
     },
     {
       "raw_hot": 24381,
-      "num": 136241,
+      "num": 175920,
       "word": "香奈儿15年后中国首秀",
       "onboard_time": 1732957158,
       "rank": 38,

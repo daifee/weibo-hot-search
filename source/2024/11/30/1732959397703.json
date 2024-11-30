@@ -1,0 +1,410 @@
+{
+  "runTime": 1732959397703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1020395,
+        "num": 1163263,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524231,
+        "num": 524231,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32005,
+        "num": 360201,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 918063,
+        "num": 339167,
+        "word": "金莎焉栩嘉逛街被偶遇",
+        "onboard_time": 1732956977,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307781,
+        "num": 307781,
+        "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+        "onboard_time": 1732957219,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286023,
+        "num": 286023,
+        "word": "免签朋友圈一个月两次扩容",
+        "onboard_time": 1732954698,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682354,
+        "num": 280595,
+        "word": "陈赫回应鹿晗直播",
+        "onboard_time": 1732954698,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551678,
+        "num": 269367,
+        "word": "IVE最佳MV",
+        "onboard_time": 1732957758,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241654,
+        "num": 241654,
+        "word": "一句但悲不见九州同哭倒一片理科生",
+        "onboard_time": 1732952897,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221010,
+        "num": 221010,
+        "word": "王楚钦混团抽签台下画画",
+        "onboard_time": 1732950857,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739201,
+        "num": 220640,
+        "word": "中国籍男子承认涂鸦日本靖国神社",
+        "onboard_time": 1732953677,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 644726,
+        "num": 218576,
+        "word": "微信朋友圈显示未能点赞",
+        "onboard_time": 1732957519,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379157,
+        "num": 218035,
+        "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+        "onboard_time": 1732948337,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164779,
+        "num": 216387,
+        "word": "沙特放弃与美国签署防务协议",
+        "onboard_time": 1732957999,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373718,
+        "num": 215505,
+        "word": "aespa全员黑裙",
+        "onboard_time": 1732955358,
+        "rank": 14,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 355626,
+        "num": 214290,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346183,
+        "num": 212685,
+        "word": "沈梦瑶与丝芭解约成功",
+        "onboard_time": 1732955418,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132179,
+        "num": 211349,
+        "word": "婚内婚外是玫瑰的事故",
+        "onboard_time": 1732958837,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210323,
+        "num": 210323,
+        "word": "中企参展人员遭美国大规模拒签",
+        "onboard_time": 1732951578,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195281,
+        "num": 195281,
+        "word": "TheShy转iG重组微博",
+        "onboard_time": 1732958540,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228525,
+        "num": 195153,
+        "word": "肖战今年不打算参加跨年晚会",
+        "onboard_time": 1732958359,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486114,
+        "num": 194549,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343187,
+        "num": 194127,
+        "word": "麦琳怒怼杨子",
+        "onboard_time": 1732948758,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287974,
+        "num": 193498,
+        "word": "张元英开场",
+        "onboard_time": 1732957279,
+        "rank": 23,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 263637,
+        "num": 193043,
+        "word": "女子5年剖4胎宣布封肚",
+        "onboard_time": 1732957999,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252942,
+        "num": 192608,
+        "word": "肖战工作室",
+        "onboard_time": 1732951937,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213760,
+        "num": 192029,
+        "word": "MMA红毯",
+        "onboard_time": 1732951878,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204556,
+        "num": 191406,
+        "word": "向佐地位又要降了",
+        "onboard_time": 1732956197,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84753,
+        "num": 191011,
+        "word": "马龙回应粉丝喊话再打30年",
+        "onboard_time": 1732958179,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48654,
+        "num": 190514,
+        "word": "周子瑜回应整容质疑",
+        "onboard_time": 1732959378,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1202958,
+        "num": 189807,
+        "word": "鹿晗 别逼我把韬叫上来",
+        "onboard_time": 1732952837,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46956,
+        "num": 189259,
+        "word": "生酮饮食饿死癌细胞是误导",
+        "onboard_time": 1732957397,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188948,
+        "num": 188948,
+        "word": "留几手让葛夕打过胎",
+        "onboard_time": 1732951818,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182268,
+        "num": 182268,
+        "word": "HEYA",
+        "onboard_time": 1732958959,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136316,
+        "num": 176550,
+        "word": "考公上岸后的体制内生活是什么样",
+        "onboard_time": 1732946600,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22989,
+        "num": 175920,
+        "word": "香奈儿15年后中国首秀",
+        "onboard_time": 1732957158,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175900,
+        "num": 175900,
+        "word": "周密",
+        "onboard_time": 1732952837,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143788,
+        "num": 143788,
+        "word": "葛夕 一个大爹一个小爹",
+        "onboard_time": 1732959140,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133989,
+        "num": 133989,
+        "word": "MMA直播",
+        "onboard_time": 1732952238,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129560,
+        "num": 129560,
+        "word": "韩网友抵制韩国电影",
+        "onboard_time": 1732948877,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128249,
+        "num": 128249,
+        "word": "乔任梁父亲首次回应巨额封口费一说",
+        "onboard_time": 1732955058,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127725,
+        "num": 127725,
+        "word": "国考人数创新高平均录取比86比1",
+        "onboard_time": 1732956977,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122837,
+        "num": 127648,
+        "word": "元梦之星",
+        "onboard_time": 1732956798,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127610,
+        "num": 127610,
+        "word": "这些OST一响2024画面感就来了",
+        "onboard_time": 1732940779,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124318,
+        "num": 124318,
+        "word": "男子确诊肺癌医生一根针冻死癌细胞",
+        "onboard_time": 1732936457,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122687,
+        "num": 122687,
+        "word": "iG官宣重组",
+        "onboard_time": 1732939097,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119125,
+        "num": 119125,
+        "word": "郑雨盛道歉后李惠利的表情",
+        "onboard_time": 1732942758,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117076,
+        "num": 117076,
+        "word": "宋雨琦公主切黑长直",
+        "onboard_time": 1732959259,
+        "rank": 47,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 114827,
+        "num": 114827,
+        "word": "IVE红毯生图",
+        "onboard_time": 1732955958,
+        "rank": 48,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 114373,
+        "num": 114373,
+        "word": "国考公安",
+        "onboard_time": 1732956918,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
+    }
+  }
+}
