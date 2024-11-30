@@ -1,0 +1,410 @@
+{
+  "runTime": 1732937678183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 799892,
+        "num": 1127982,
+        "word": "彩虹夫妇第4胎产女称如愿了",
+        "onboard_time": 1732932677,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770022,
+        "num": 770022,
+        "word": "婚礼中途停电40分钟气哭新人爸妈",
+        "onboard_time": 1732928777,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43550,
+        "num": 656524,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 644776,
+        "num": 644776,
+        "word": "papi酱 是狗把他带大的吗",
+        "onboard_time": 1732931536,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477379,
+        "num": 477379,
+        "word": "张朝阳不建议掏空六个钱包消费",
+        "onboard_time": 1732934478,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 411502,
+        "num": 411502,
+        "word": "周密 刻板印象",
+        "onboard_time": 1732931897,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403132,
+        "num": 403132,
+        "word": "2025国考最热岗1.6万人挑一",
+        "onboard_time": 1732933037,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 362906,
+        "num": 362906,
+        "word": "婚礼前一天46条喜烟全被偷了",
+        "onboard_time": 1732936158,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330973,
+        "num": 330973,
+        "word": "你好星期六全员晒初雪穿搭",
+        "onboard_time": 1732934778,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43764,
+        "num": 330887,
+        "word": "多地发布缺席城乡居民医保案例",
+        "onboard_time": 1732936578,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1652305,
+        "num": 324427,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 930410,
+        "num": 323493,
+        "word": "男子确诊肺癌医生一根针冻死癌细胞",
+        "onboard_time": 1732936457,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435106,
+        "num": 319674,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 12,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 347650,
+        "num": 314627,
+        "word": "周密周芯竹聊天记录",
+        "onboard_time": 1732901415,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40369,
+        "num": 310852,
+        "word": "2男子捕数千只鸟被判5年半赔36万",
+        "onboard_time": 1732933277,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266550,
+        "num": 307776,
+        "word": "虞书欣丁禹兮 一个想靠一个想搂",
+        "onboard_time": 1732928896,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306223,
+        "num": 306223,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158534,
+        "num": 285774,
+        "word": "成毅徐璐演长安二十四计",
+        "onboard_time": 1732932977,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277812,
+        "num": 277812,
+        "word": "爷爷看中LV皮鞋柜姐配合孙女演戏砍价",
+        "onboard_time": 1732931596,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41977,
+        "num": 242546,
+        "word": "李艾希望麦琳看到李行亮的爱",
+        "onboard_time": 1732936756,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355292,
+        "num": 240598,
+        "word": "中2.25亿巨奖男子尚未兑奖",
+        "onboard_time": 1732896859,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228857,
+        "num": 228857,
+        "word": "十二月行程图",
+        "onboard_time": 1732933097,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223298,
+        "num": 223298,
+        "word": "乒羽混双大魔王绝版了",
+        "onboard_time": 1732934957,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203943,
+        "num": 203943,
+        "word": "国考",
+        "onboard_time": 1732930877,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78140,
+        "num": 187881,
+        "word": "柏浪涛",
+        "onboard_time": 1732934417,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271144,
+        "num": 185951,
+        "word": "湖南台员工为麦琳发声",
+        "onboard_time": 1732888039,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183756,
+        "num": 183756,
+        "word": "丁禹兮 被打入冷宫的妃子",
+        "onboard_time": 1732926676,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 164986,
+        "word": "优衣库",
+        "onboard_time": 1732934957,
+        "rank": 27,
+        "category": "舆论监督,时尚"
+      },
+      {
+        "raw_hot": 163082,
+        "num": 163082,
+        "word": "叙利亚阿勒颇战事升级",
+        "onboard_time": 1732932677,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95475,
+        "num": 160632,
+        "word": "多地考古相关专业毕业即入编",
+        "onboard_time": 1732935858,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160126,
+        "num": 160126,
+        "word": "易易紫承认和崔胜铉恋爱过",
+        "onboard_time": 1732896318,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154517,
+        "num": 154517,
+        "word": "网传歌手2025试音名单",
+        "onboard_time": 1732937297,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154056,
+        "num": 154056,
+        "word": "MMA颁奖典礼",
+        "onboard_time": 1732933397,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153285,
+        "num": 153285,
+        "word": "黄子弘凡走心长文谈港乐",
+        "onboard_time": 1732936697,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147056,
+        "num": 147056,
+        "word": "26岁专科生考研成功把公司开进大学",
+        "onboard_time": 1732923616,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145498,
+        "num": 145498,
+        "word": "优衣库店员称不知道棉花来自哪里",
+        "onboard_time": 1732924877,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136656,
+        "num": 136656,
+        "word": "Langx被弹幕怒喷不讲武德",
+        "onboard_time": 1732936518,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136632,
+        "num": 136632,
+        "word": "声生不息大湾区季",
+        "onboard_time": 1732936938,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125657,
+        "num": 125657,
+        "word": "专家称艰苦地区国考报考率达99.5%",
+        "onboard_time": 1732935678,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125093,
+        "num": 125093,
+        "word": "2025年度国考今日开考",
+        "onboard_time": 1732932017,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120236,
+        "num": 120236,
+        "word": "孙颖莎上演高空杀球",
+        "onboard_time": 1732933216,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117614,
+        "num": 117614,
+        "word": "中2.25亿巨奖彩民为即兴下注",
+        "onboard_time": 1732920792,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116704,
+        "num": 116704,
+        "word": "暗河传",
+        "onboard_time": 1732935438,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116354,
+        "num": 116354,
+        "word": "山东潍坊两金店同日被抢",
+        "onboard_time": 1732935797,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112648,
+        "num": 112648,
+        "word": "多地考古类专业毕业即入编",
+        "onboard_time": 1732937177,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110738,
+        "num": 110738,
+        "word": "名侦探柯南独眼的残像",
+        "onboard_time": 1732934957,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102303,
+        "num": 102303,
+        "word": "莫兰特逆天滞空",
+        "onboard_time": 1732935858,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96227,
+        "num": 96227,
+        "word": "白鹿十二月行程投送",
+        "onboard_time": 1732935916,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95669,
+        "num": 95669,
+        "word": "孙颖莎王楚钦奥运后首次搭档",
+        "onboard_time": 1732896799,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93663,
+        "num": 93663,
+        "word": "中国11月制造业PMI50.3",
+        "onboard_time": 1732937238,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党的创新理论更加深入人心#"
+    }
+  }
+}

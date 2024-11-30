@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732936160332,
+  "endTime": 1732937678183,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -6931,6 +6931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 930410,
+      "num": 323493,
+      "word": "男子确诊肺癌医生一根针冻死癌细胞",
+      "onboard_time": 1732936457,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 930130,
       "num": 393503,
       "word": "宋祖儿更新日常",
@@ -8404,7 +8412,7 @@
     },
     {
       "raw_hot": 823803,
-      "num": 823803,
+      "num": 1127982,
       "word": "彩虹夫妇第4胎产女称如愿了",
       "onboard_time": 1732932677,
       "rank": 1,
@@ -21155,6 +21163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 403132,
+      "num": 403132,
+      "word": "2025国考最热岗1.6万人挑一",
+      "onboard_time": 1732933037,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 403104,
       "num": 346799,
       "word": "男子足疗店消费万元醒后一脸懵",
@@ -21369,14 +21385,6 @@
       "onboard_time": 1731221121,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 399667,
-      "num": 399667,
-      "word": "2025国考最热岗1.6万人挑一",
-      "onboard_time": 1732933037,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 399546,
@@ -23323,6 +23331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362906,
+      "num": 362906,
+      "word": "婚礼前一天46条喜烟全被偷了",
+      "onboard_time": 1732936158,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362834,
       "num": 362834,
       "word": "妙声吻戏 借位",
@@ -25129,6 +25145,14 @@
       "onboard_time": 1732763420,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330973,
+      "num": 330973,
+      "word": "你好星期六全员晒初雪穿搭",
+      "onboard_time": 1732934778,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 330928,
@@ -38113,14 +38137,6 @@
       "onboard_time": 1731179652,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207540,
-      "num": 212155,
-      "word": "你好星期六全员晒初雪穿搭",
-      "onboard_time": 1732934778,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 207519,
@@ -54955,6 +54971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154517,
+      "num": 154517,
+      "word": "网传歌手2025试音名单",
+      "onboard_time": 1732937297,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154470,
       "num": 280609,
       "word": "大梦归离",
@@ -55049,6 +55073,14 @@
       "onboard_time": 1731058220,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154056,
+      "num": 154056,
+      "word": "MMA颁奖典礼",
+      "onboard_time": 1732933397,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 154042,
@@ -55441,6 +55473,14 @@
       "onboard_time": 1731597082,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153285,
+      "num": 153285,
+      "word": "黄子弘凡走心长文谈港乐",
+      "onboard_time": 1732936697,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 153254,
@@ -61123,12 +61163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136656,
+      "num": 136656,
+      "word": "Langx被弹幕怒喷不讲武德",
+      "onboard_time": 1732936518,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136636,
       "num": 136636,
       "word": "大理寺少卿游发了新海报",
       "onboard_time": 1731024981,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136632,
+      "num": 136632,
+      "word": "声生不息大湾区季",
+      "onboard_time": 1732551199,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 136619,
@@ -64667,6 +64723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125657,
+      "num": 337718,
+      "word": "专家称艰苦地区国考报考率达99.5%",
+      "onboard_time": 1732935678,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125643,
       "num": 218731,
       "word": "韩劳动部否认Hanni为劳动者",
@@ -67819,6 +67883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116354,
+      "num": 116354,
+      "word": "山东潍坊两金店同日被抢",
+      "onboard_time": 1732935797,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116328,
       "num": 116328,
       "word": "加沙女孩说希望能继续长大",
@@ -68419,14 +68491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114446,
-      "num": 114446,
-      "word": "MMA颁奖典礼",
-      "onboard_time": 1732933397,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 114432,
       "num": 114432,
       "word": "掘金vs湖人",
@@ -68969,6 +69033,14 @@
       "onboard_time": 1732717759,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112648,
+      "num": 112648,
+      "word": "多地考古类专业毕业即入编",
+      "onboard_time": 1732937177,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112635,
@@ -71371,14 +71443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103375,
-      "num": 103375,
-      "word": "山东潍坊两金店同日被抢",
-      "onboard_time": 1732935797,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103319,
       "num": 103319,
       "word": "特朗普称将在选举日发表讲话",
@@ -71593,6 +71657,14 @@
       "onboard_time": 1731584060,
       "rank": 13,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 102303,
+      "num": 164063,
+      "word": "莫兰特逆天滞空",
+      "onboard_time": 1732935858,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 102301,
@@ -73107,6 +73179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 96227,
+      "num": 193316,
+      "word": "白鹿十二月行程投送",
+      "onboard_time": 1732935916,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96198,
       "num": 96198,
       "word": "左手上篮周杰伦梦幻联动",
@@ -73249,6 +73329,14 @@
       "onboard_time": 1731643520,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95475,
+      "num": 336943,
+      "word": "多地考古相关专业毕业即入编",
+      "onboard_time": 1732935858,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95403,
@@ -73577,6 +73665,14 @@
       "onboard_time": 1732604600,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93663,
+      "num": 93663,
+      "word": "中国11月制造业PMI50.3",
+      "onboard_time": 1732937238,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 93661,
@@ -74321,14 +74417,6 @@
       "onboard_time": 1730387719,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89062,
-      "num": 164063,
-      "word": "莫兰特逆天滞空",
-      "onboard_time": 1732935858,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 89052,
@@ -76721,6 +76809,14 @@
       "onboard_time": 1732162639,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78140,
+      "num": 187881,
+      "word": "柏浪涛",
+      "onboard_time": 1732934417,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 78134,
@@ -81771,14 +81867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56994,
-      "num": 56994,
-      "word": "声生不息大湾区季",
-      "onboard_time": 1732551199,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 56952,
       "num": 225135,
       "word": "黑神话获TGA四项提名",
@@ -84243,14 +84331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49296,
-      "num": 337718,
-      "word": "专家称艰苦地区国考报考率达99.5%",
-      "onboard_time": 1732935678,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 49293,
       "num": 306463,
       "word": "原生家庭对婚姻的影响有多大",
@@ -85467,14 +85547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45403,
-      "num": 193316,
-      "word": "白鹿十二月行程投送",
-      "onboard_time": 1732935916,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45400,
       "num": 255430,
       "word": "雅思组合告别国际赛场",
@@ -86065,6 +86137,14 @@
       "onboard_time": 1732082719,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43764,
+      "num": 330887,
+      "word": "多地发布缺席城乡居民医保案例",
+      "onboard_time": 1732936578,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43712,
@@ -86699,6 +86779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41977,
+      "num": 242546,
+      "word": "李艾希望麦琳看到李行亮的爱",
+      "onboard_time": 1732936756,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41969,
       "num": 592086,
       "word": "何小鹏开AI汽车上火星",
@@ -87303,6 +87391,14 @@
       "num": 309556,
       "word": "无创血糖手表无病测出糖尿病",
       "onboard_time": 1732187120,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40369,
+      "num": 341322,
+      "word": "2男子捕数千只鸟被判5年半赔36万",
+      "onboard_time": 1732933277,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -88609,14 +88705,6 @@
       "onboard_time": 1731693074,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37479,
-      "num": 341322,
-      "word": "2男子捕数千只鸟被判5年半赔36万",
-      "onboard_time": 1732933277,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37477,
@@ -96032,14 +96120,6 @@
       "word": "麦琪啦带货进口产品商标注册在国内",
       "onboard_time": 1732716139,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22355,
-      "num": 336943,
-      "word": "多地考古相关专业毕业即入编",
-      "onboard_time": 1732935858,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

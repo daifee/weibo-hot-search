@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 11:09:20
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 11:34:38
 </p>
 </blockquote>
 <p>
@@ -5211,6 +5211,12 @@ Zeus道歉（热度：937541）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E5%8C%BB%E7%94%9F%E4%B8%80%E6%A0%B9%E9%92%88%E5%86%BB%E6%AD%BB%E7%99%8C%E7%BB%86%E8%83%9E%23" target="weibo">
+男子确诊肺癌医生一根针冻死癌细胞（热度：930410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%9B%B4%E6%96%B0%E6%97%A5%E5%B8%B8%23" target="weibo">
 宋祖儿更新日常（热度：930130）
 </a>
@@ -6005,12 +6011,6 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E9%A2%91%E7%B9%81%E7%BE%8E%E7%94%B2%E6%8C%87%E7%94%B2%E4%B8%8A%E7%8E%B0%E4%B8%89%E5%8F%89%E6%88%9F%23" target="weibo">
 姑娘频繁美甲指甲上现三叉戟（热度：849419）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%A1%8C%E4%BA%AE%E9%81%93%E6%AD%89%E8%BF%99%E6%AE%B5%23" target="weibo">
-李行亮道歉这段（热度：848309）
 </a>
 </li>
 
