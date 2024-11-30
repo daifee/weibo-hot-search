@@ -1,0 +1,410 @@
+{
+  "runTime": 1732956151441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1370772,
+        "num": 1370772,
+        "word": "鹿晗 别逼我把韬叫上来",
+        "onboard_time": 1732952837,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540189,
+        "num": 540189,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 75034,
+        "num": 381418,
+        "word": "放大看发现唐代名画五牛图细节拉满",
+        "onboard_time": 1732952657,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1093141,
+        "num": 381355,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375713,
+        "num": 375713,
+        "word": "王楚钦混团抽签台下画画",
+        "onboard_time": 1732950857,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332711,
+        "num": 332711,
+        "word": "中企参展人员遭美国大规模拒签",
+        "onboard_time": 1732951578,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 670448,
+        "num": 317688,
+        "word": "麦琳怒怼杨子",
+        "onboard_time": 1732948758,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508572,
+        "num": 308992,
+        "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+        "onboard_time": 1732948337,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241841,
+        "num": 241841,
+        "word": "考公上岸后的体制内生活是什么样",
+        "onboard_time": 1732946600,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226723,
+        "num": 226723,
+        "word": "一句但悲不见九州同哭倒一片理科生",
+        "onboard_time": 1732952897,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844988,
+        "num": 225937,
+        "word": "中国籍男子承认涂鸦日本靖国神社",
+        "onboard_time": 1732953677,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 653877,
+        "num": 223815,
+        "word": "陈赫回应鹿晗直播",
+        "onboard_time": 1732954698,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374357,
+        "num": 220654,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349592,
+        "num": 218605,
+        "word": "肖战工作室",
+        "onboard_time": 1732951937,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334868,
+        "num": 217856,
+        "word": "MMA红毯",
+        "onboard_time": 1732951878,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321069,
+        "num": 215361,
+        "word": "留几手让葛夕打过胎",
+        "onboard_time": 1732951818,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214400,
+        "num": 214400,
+        "word": "男子确诊肺癌医生一根针冻死癌细胞",
+        "onboard_time": 1732936457,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180366,
+        "num": 180366,
+        "word": "叶嘉莹遗体告别仪式",
+        "onboard_time": 1732950678,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 147833,
+        "num": 147833,
+        "word": "iG官宣重组",
+        "onboard_time": 1732939097,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138595,
+        "num": 138595,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 198550,
+        "num": 138594,
+        "word": "沈梦瑶与丝芭解约成功",
+        "onboard_time": 1732955418,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525342,
+        "num": 138477,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261999,
+        "num": 138389,
+        "word": "韩网友抵制韩国电影",
+        "onboard_time": 1732948877,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258680,
+        "num": 138338,
+        "word": "aespa全员黑裙",
+        "onboard_time": 1732955358,
+        "rank": 23,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 238772,
+        "num": 138269,
+        "word": "周密",
+        "onboard_time": 1732952837,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189887,
+        "num": 138230,
+        "word": "虞书欣她拍vs自拍",
+        "onboard_time": 1732947858,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178854,
+        "num": 138124,
+        "word": "乔任梁父亲首次回应巨额封口费一说",
+        "onboard_time": 1732955058,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79568,
+        "num": 138108,
+        "word": "李克勤给梁伟铿庆生",
+        "onboard_time": 1732955838,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 71231,
+        "num": 138019,
+        "word": "光遇",
+        "onboard_time": 1732955778,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63029,
+        "num": 137930,
+        "word": "黄景瑜庆生随拍",
+        "onboard_time": 1732955058,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164121,
+        "num": 137847,
+        "word": "郑雨盛道歉后李惠利的表情",
+        "onboard_time": 1732942758,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156907,
+        "num": 137781,
+        "word": "因果报应21刀只是体力的极限",
+        "onboard_time": 1732954038,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22987,
+        "num": 137742,
+        "word": "美国小伙倡议望找到更多二战史料",
+        "onboard_time": 1732954218,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155899,
+        "num": 137691,
+        "word": "炕烧塌了为什么东北人开心",
+        "onboard_time": 1732954878,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137630,
+        "num": 137630,
+        "word": "IVE红毯生图",
+        "onboard_time": 1732955958,
+        "rank": 34,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 133267,
+        "num": 133267,
+        "word": "王源粉丝买电影票像玩拼豆",
+        "onboard_time": 1732955358,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128197,
+        "num": 131615,
+        "word": "这些OST一响2024画面感就来了",
+        "onboard_time": 1732940779,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130307,
+        "num": 130307,
+        "word": "免签朋友圈一个月两次扩容",
+        "onboard_time": 1732954698,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124011,
+        "num": 124011,
+        "word": "在靖国神社涂鸦的中国男子被日本公审",
+        "onboard_time": 1732939219,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123955,
+        "num": 123955,
+        "word": "樊振东王励勤男双",
+        "onboard_time": 1732945698,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118524,
+        "num": 118524,
+        "word": "谭松韵蜀锦人家开播排面",
+        "onboard_time": 1732954818,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117864,
+        "num": 117864,
+        "word": "MMA直播",
+        "onboard_time": 1732952238,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117591,
+        "num": 117591,
+        "word": "孔雪儿终于把面纱摘了",
+        "onboard_time": 1732954398,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115142,
+        "num": 115142,
+        "word": "宋亚轩说韩语",
+        "onboard_time": 1732951878,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114301,
+        "num": 114301,
+        "word": "国考",
+        "onboard_time": 1732930877,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110956,
+        "num": 110956,
+        "word": "MMA颁奖典礼",
+        "onboard_time": 1732933397,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103751,
+        "num": 103751,
+        "word": "成都混团世界杯国乒抽签结果",
+        "onboard_time": 1732948157,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94526,
+        "num": 94526,
+        "word": "婚礼前一天46条喜烟全被偷了",
+        "onboard_time": 1732936158,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93735,
+        "num": 93735,
+        "word": "国考河南报名人数约为16.1万人",
+        "onboard_time": 1732952597,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84161,
+        "num": 84161,
+        "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
+        "onboard_time": 1732947378,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党的创新理论更加深入人心#"
+    }
+  }
+}

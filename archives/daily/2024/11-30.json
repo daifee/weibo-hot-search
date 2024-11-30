@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732955274317,
+  "endTime": 1732956151441,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1251453,
-      "num": 1251453,
+      "raw_hot": 1370772,
+      "num": 1370772,
       "word": "鹿晗 别逼我把韬叫上来",
       "onboard_time": 1732952837,
       "rank": 0,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844988,
+      "num": 233865,
+      "word": "中国籍男子承认涂鸦日本靖国神社",
+      "onboard_time": 1732953677,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 826811,
       "num": 826811,
       "word": "一医生因车祸去世肇事者开车看手机",
@@ -193,6 +201,14 @@
       "onboard_time": 1732931596,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653877,
+      "num": 223815,
+      "word": "陈赫回应鹿晗直播",
+      "onboard_time": 1732954698,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 651854,
@@ -281,14 +297,6 @@
       "onboard_time": 1732936158,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 519581,
-      "num": 233865,
-      "word": "中国籍男子承认涂鸦日本靖国神社",
-      "onboard_time": 1732953677,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 503181,
@@ -427,20 +435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349592,
+      "num": 251710,
+      "word": "肖战工作室",
+      "onboard_time": 1732951937,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346300,
       "num": 346300,
       "word": "中企参展人员遭美国大规模拒签",
       "onboard_time": 1732951578,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 337682,
-      "num": 251710,
-      "word": "肖战工作室",
-      "onboard_time": 1732951937,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 333684,
@@ -483,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321069,
+      "num": 215361,
+      "word": "留几手让葛夕打过胎",
+      "onboard_time": 1732951818,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320077,
       "num": 320077,
       "word": "王安宇去有风的地方旅行vlog",
@@ -496,14 +512,6 @@
       "word": "金靖月子中心vlog",
       "onboard_time": 1732941379,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 311686,
-      "num": 183474,
-      "word": "陈赫回应鹿晗直播",
-      "onboard_time": 1732954698,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -529,14 +537,6 @@
       "onboard_time": 1732894998,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297433,
-      "num": 182114,
-      "word": "留几手让葛夕打过胎",
-      "onboard_time": 1732951818,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 296935,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258680,
+      "num": 138338,
+      "word": "aespa全员黑裙",
+      "onboard_time": 1732955358,
+      "rank": 23,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 251627,
       "num": 251627,
       "word": "金高银获青龙影后",
@@ -617,6 +625,14 @@
       "onboard_time": 1732914130,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 226723,
+      "num": 226723,
+      "word": "一句但悲不见九州同哭倒一片理科生",
+      "onboard_time": 1732952897,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220288,
@@ -705,6 +721,14 @@
       "onboard_time": 1732939037,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198550,
+      "num": 138594,
+      "word": "沈梦瑶与丝芭解约成功",
+      "onboard_time": 1732955418,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 198435,
@@ -883,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178854,
+      "num": 180814,
+      "word": "乔任梁父亲首次回应巨额封口费一说",
+      "onboard_time": 1732955058,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178818,
       "num": 178818,
       "word": "虞书欣团综300拍摄作品",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1732949178,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155899,
+      "num": 137691,
+      "word": "炕烧塌了为什么东北人开心",
+      "onboard_time": 1732954878,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 155863,
@@ -1155,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137630,
+      "num": 137630,
+      "word": "IVE红毯生图",
+      "onboard_time": 1732955958,
+      "rank": 34,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 136656,
       "num": 136656,
       "word": "Langx被弹幕怒喷不讲武德",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1732936938,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136626,
-      "num": 183173,
-      "word": "一句但悲不见九州同哭倒一片理科生",
-      "onboard_time": 1732952897,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135441,
@@ -1235,12 +1275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133267,
+      "num": 133267,
+      "word": "王源粉丝买电影票像玩拼豆",
+      "onboard_time": 1732955358,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131590,
       "num": 235238,
       "word": "击剑运动员秦雪转型网红被指擦边",
       "onboard_time": 1732951097,
       "rank": 42,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 130307,
+      "num": 130307,
+      "word": "免签朋友圈一个月两次扩容",
+      "onboard_time": 1732954698,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129065,
@@ -1387,20 +1443,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119883,
-      "num": 180814,
-      "word": "乔任梁父亲首次回应巨额封口费一说",
-      "onboard_time": 1732955058,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119430,
       "num": 187727,
       "word": "GOT7明年1月完整体回归",
       "onboard_time": 1732938197,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118524,
+      "num": 118524,
+      "word": "谭松韵蜀锦人家开播排面",
+      "onboard_time": 1732954818,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 118438,
@@ -1427,12 +1483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117602,
-      "num": 117602,
-      "word": "炕烧塌了为什么东北人开心",
-      "onboard_time": 1732954878,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 117864,
+      "num": 117864,
+      "word": "MMA直播",
+      "onboard_time": 1732952238,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 116354,
@@ -1483,27 +1539,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112660,
-      "num": 112660,
-      "word": "谭松韵蜀锦人家开播排面",
-      "onboard_time": 1732954818,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112648,
       "num": 112648,
       "word": "多地考古类专业毕业即入编",
       "onboard_time": 1732937177,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111488,
-      "num": 111488,
-      "word": "免签朋友圈一个月两次扩容",
-      "onboard_time": 1732954698,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1683,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93735,
+      "num": 182561,
+      "word": "国考河南报名人数约为16.1万人",
+      "onboard_time": 1732952597,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93663,
       "num": 93663,
       "word": "中国11月制造业PMI50.3",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1732889660,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90762,
-      "num": 182561,
-      "word": "国考河南报名人数约为16.1万人",
-      "onboard_time": 1732952597,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 90002,
@@ -1803,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79568,
+      "num": 138108,
+      "word": "李克勤给梁伟铿庆生",
+      "onboard_time": 1732955838,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 78797,
       "num": 323673,
       "word": "成都混团",
@@ -1875,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71231,
+      "num": 138019,
+      "word": "光遇",
+      "onboard_time": 1732955778,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65435,
       "num": 255537,
       "word": "张小斐首唱电视剧OST",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1732942999,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63029,
+      "num": 183839,
+      "word": "黄景瑜庆生随拍",
+      "onboard_time": 1732955058,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 62224,
@@ -1961,14 +2025,6 @@
       "onboard_time": 1732888700,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49843,
-      "num": 183839,
-      "word": "黄景瑜庆生随拍",
-      "onboard_time": 1732955058,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 49224,
@@ -2275,20 +2331,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22987,
+      "num": 183605,
+      "word": "美国小伙倡议望找到更多二战史料",
+      "onboard_time": 1732954218,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22707,
       "num": 251891,
       "word": "杨子说圣依就是傻",
       "onboard_time": 1732950377,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21959,
-      "num": 183605,
-      "word": "美国小伙倡议望找到更多二战史料",
-      "onboard_time": 1732954218,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21603,

@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732955274317,
+  "endTime": 1732956151441,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -563,6 +563,14 @@
       "category": "体育,数码"
     },
     {
+      "raw_hot": 1370772,
+      "num": 1370772,
+      "word": "鹿晗 别逼我把韬叫上来",
+      "onboard_time": 1732952837,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1366125,
       "num": 424719,
       "word": "男子裸露下体尾随女孩被一棍喝退",
@@ -680,14 +688,6 @@
       "word": "沈梦瑶 取关",
       "onboard_time": 1732772418,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1251453,
-      "num": 1251453,
-      "word": "鹿晗 别逼我把韬叫上来",
-      "onboard_time": 1732952837,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -1457,6 +1457,14 @@
       "onboard_time": 1732882639,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 844988,
+      "num": 233865,
+      "word": "中国籍男子承认涂鸦日本靖国神社",
+      "onboard_time": 1732953677,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 844558,
@@ -2363,6 +2371,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 653877,
+      "num": 223815,
+      "word": "陈赫回应鹿晗直播",
+      "onboard_time": 1732954698,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651854,
       "num": 651854,
       "word": "张朝阳不建议掏空六个钱包消费",
@@ -3153,14 +3169,6 @@
       "onboard_time": 1732936158,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 519581,
-      "num": 233865,
-      "word": "中国籍男子承认涂鸦日本靖国神社",
-      "onboard_time": 1732953677,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 519142,
@@ -4931,6 +4939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349592,
+      "num": 251710,
+      "word": "肖战工作室",
+      "onboard_time": 1732951937,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349494,
       "num": 155592,
       "word": "鹿晗",
@@ -5073,14 +5089,6 @@
       "onboard_time": 1732709239,
       "rank": 23,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 337682,
-      "num": 251710,
-      "word": "肖战工作室",
-      "onboard_time": 1732951937,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 337476,
@@ -5331,6 +5339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321069,
+      "num": 215361,
+      "word": "留几手让葛夕打过胎",
+      "onboard_time": 1732951818,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320579,
       "num": 320579,
       "word": "王源头像P了个新帽子",
@@ -5489,14 +5505,6 @@
       "onboard_time": 1732412177,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311686,
-      "num": 183474,
-      "word": "陈赫回应鹿晗直播",
-      "onboard_time": 1732954698,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 310779,
@@ -5753,14 +5761,6 @@
       "onboard_time": 1732803320,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297433,
-      "num": 182114,
-      "word": "留几手让葛夕打过胎",
-      "onboard_time": 1732951818,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 297420,
@@ -6481,6 +6481,14 @@
       "onboard_time": 1732706540,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258680,
+      "num": 138338,
+      "word": "aespa全员黑裙",
+      "onboard_time": 1732955358,
+      "rank": 23,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 258656,
@@ -7296,6 +7304,14 @@
       "word": "一男子疑因吃驴打滚窒息身亡",
       "onboard_time": 1732887319,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226723,
+      "num": 226723,
+      "word": "一句但悲不见九州同哭倒一片理科生",
+      "onboard_time": 1732952897,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -8609,6 +8625,14 @@
       "onboard_time": 1732878200,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198550,
+      "num": 138594,
+      "word": "沈梦瑶与丝芭解约成功",
+      "onboard_time": 1732955418,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 198535,
@@ -10217,6 +10241,14 @@
       "onboard_time": 1732770739,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178854,
+      "num": 180814,
+      "word": "乔任梁父亲首次回应巨额封口费一说",
+      "onboard_time": 1732955058,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 178818,
@@ -11883,6 +11915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155899,
+      "num": 137691,
+      "word": "炕烧塌了为什么东北人开心",
+      "onboard_time": 1732954878,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155863,
       "num": 155863,
       "word": "白夜破晓 小允子",
@@ -13395,6 +13435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137630,
+      "num": 137630,
+      "word": "IVE红毯生图",
+      "onboard_time": 1732955958,
+      "rank": 34,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 137587,
       "num": 137587,
       "word": "白夜追凶和白夜破晓的关系",
@@ -13449,14 +13497,6 @@
       "onboard_time": 1732551199,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136626,
-      "num": 183173,
-      "word": "一句但悲不见九州同哭倒一片理科生",
-      "onboard_time": 1732952897,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136536,
@@ -13795,6 +13835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133267,
+      "num": 133267,
+      "word": "王源粉丝买电影票像玩拼豆",
+      "onboard_time": 1732955358,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133165,
       "num": 311144,
       "word": "辽大回应将扫雪与奖学金挂钩",
@@ -14041,6 +14089,14 @@
       "onboard_time": 1732847539,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130307,
+      "num": 130307,
+      "word": "免签朋友圈一个月两次扩容",
+      "onboard_time": 1732954698,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129821,
@@ -15203,14 +15259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119883,
-      "num": 180814,
-      "word": "乔任梁父亲首次回应巨额封口费一说",
-      "onboard_time": 1732955058,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119877,
       "num": 413868,
       "word": "邓亚萍给WTT福冈赛中国队表现打分",
@@ -15347,6 +15395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118524,
+      "num": 118524,
+      "word": "谭松韵蜀锦人家开播排面",
+      "onboard_time": 1732954818,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118522,
       "num": 118522,
       "word": "鞠婧祎拉小提琴",
@@ -15403,6 +15459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117864,
+      "num": 117864,
+      "word": "MMA直播",
+      "onboard_time": 1732952238,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117646,
       "num": 117646,
       "word": "中国平安回应推出996奋斗无忧险",
@@ -15417,14 +15481,6 @@
       "onboard_time": 1732859960,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117602,
-      "num": 117602,
-      "word": "炕烧塌了为什么东北人开心",
-      "onboard_time": 1732954878,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 117594,
@@ -15971,14 +16027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112660,
-      "num": 112660,
-      "word": "谭松韵蜀锦人家开播排面",
-      "onboard_time": 1732954818,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112648,
       "num": 112648,
       "word": "多地考古类专业毕业即入编",
@@ -16137,14 +16185,6 @@
       "onboard_time": 1732772959,
       "rank": 48,
       "category": "国内时政,正能量"
-    },
-    {
-      "raw_hot": 111488,
-      "num": 111488,
-      "word": "免签朋友圈一个月两次扩容",
-      "onboard_time": 1732954698,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111422,
@@ -17371,6 +17411,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 93735,
+      "num": 182561,
+      "word": "国考河南报名人数约为16.1万人",
+      "onboard_time": 1732952597,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93721,
       "num": 215481,
       "word": "祝贺国乒包揽男女单冠军",
@@ -17521,14 +17569,6 @@
       "onboard_time": 1732696819,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90762,
-      "num": 182561,
-      "word": "国考河南报名人数约为16.1万人",
-      "onboard_time": 1732952597,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 90741,
@@ -18257,6 +18297,14 @@
       "onboard_time": 1732433599,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79568,
+      "num": 138108,
+      "word": "李克勤给梁伟铿庆生",
+      "onboard_time": 1732955838,
+      "rank": 27,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 79474,
@@ -19251,6 +19299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63029,
+      "num": 183839,
+      "word": "黄景瑜庆生随拍",
+      "onboard_time": 1732955058,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63024,
       "num": 412634,
       "word": "神十九的太空开箱视频",
@@ -20233,14 +20289,6 @@
       "onboard_time": 1732716500,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49843,
-      "num": 183839,
-      "word": "黄景瑜庆生随拍",
-      "onboard_time": 1732955058,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 49825,
@@ -23307,6 +23355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22987,
+      "num": 183605,
+      "word": "美国小伙倡议望找到更多二战史料",
+      "onboard_time": 1732954218,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22930,
       "num": 321234,
       "word": "退役运动员转战互联网的机遇和难题",
@@ -23409,14 +23465,6 @@
       "onboard_time": 1732455560,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 21959,
-      "num": 183605,
-      "word": "美国小伙倡议望找到更多二战史料",
-      "onboard_time": 1732954218,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21869,

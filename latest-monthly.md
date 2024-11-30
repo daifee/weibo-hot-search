@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 16:27:54
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 16:42:31
 </p>
 </blockquote>
 <p>
@@ -2583,6 +2583,12 @@ Doran加入T1（热度：1387808）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E5%88%AB%E9%80%BC%E6%88%91%E6%8A%8A%E9%9F%AC%E5%8F%AB%E4%B8%8A%E6%9D%A5%23" target="weibo">
+鹿晗 别逼我把韬叫上来（热度：1370772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%20%E5%94%90%E6%A2%93%23" target="weibo">
 丁禹兮 唐梓（热度：1370093）
 </a>
@@ -3095,12 +3101,6 @@ papi酱 家都不回你在托举什么（热度：1257027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E5%BD%B1%E5%90%8E%23" target="weibo">
 预制菜影后（热度：1251873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%20%E5%88%AB%E9%80%BC%E6%88%91%E6%8A%8A%E9%9F%AC%E5%8F%AB%E4%B8%8A%E6%9D%A5%23" target="weibo">
-鹿晗 别逼我把韬叫上来（热度：1251453）
 </a>
 </li>
 

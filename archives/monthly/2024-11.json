@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732955274317,
+  "endTime": 1732956151441,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -3427,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1370772,
+      "num": 1370772,
+      "word": "鹿晗 别逼我把韬叫上来",
+      "onboard_time": 1732952837,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1370093,
       "num": 1370093,
       "word": "丁禹兮 唐梓",
@@ -4113,14 +4121,6 @@
       "onboard_time": 1731990142,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1251453,
-      "num": 1251453,
-      "word": "鹿晗 别逼我把韬叫上来",
-      "onboard_time": 1732952837,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1251100,
@@ -8139,6 +8139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 844988,
+      "num": 233865,
+      "word": "中国籍男子承认涂鸦日本靖国神社",
+      "onboard_time": 1732953677,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 844558,
       "num": 284088,
       "word": "英国一母亲把女儿藏抽屉养到3岁",
@@ -12129,6 +12137,14 @@
       "onboard_time": 1730592557,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 653877,
+      "num": 223815,
+      "word": "陈赫回应鹿晗直播",
+      "onboard_time": 1732954698,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 653864,
@@ -16353,14 +16369,6 @@
       "onboard_time": 1730866944,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519581,
-      "num": 233865,
-      "word": "中国籍男子承认涂鸦日本靖国神社",
-      "onboard_time": 1732953677,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 519142,
@@ -24243,6 +24251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349592,
+      "num": 251710,
+      "word": "肖战工作室",
+      "onboard_time": 1732951937,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349494,
       "num": 155592,
       "word": "鹿晗",
@@ -24897,14 +24913,6 @@
       "onboard_time": 1730790680,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337682,
-      "num": 251710,
-      "word": "肖战工作室",
-      "onboard_time": 1732951937,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 337499,
@@ -25931,6 +25939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321069,
+      "num": 215361,
+      "word": "留几手让葛夕打过胎",
+      "onboard_time": 1732951818,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320916,
       "num": 320916,
       "word": "男子不满敬酒顺序太靠后持刀砍人",
@@ -26609,14 +26625,6 @@
       "onboard_time": 1731571460,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311686,
-      "num": 183474,
-      "word": "陈赫回应鹿晗直播",
-      "onboard_time": 1732954698,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 311415,
@@ -27681,14 +27689,6 @@
       "onboard_time": 1731066800,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297433,
-      "num": 182114,
-      "word": "留几手让葛夕打过胎",
-      "onboard_time": 1732951818,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 297420,
@@ -31241,6 +31241,14 @@
       "onboard_time": 1732706540,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258680,
+      "num": 138338,
+      "word": "aespa全员黑裙",
+      "onboard_time": 1732955358,
+      "rank": 23,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 258656,
@@ -34976,6 +34984,14 @@
       "word": "一男子疑因吃驴打滚窒息身亡",
       "onboard_time": 1732887319,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226723,
+      "num": 226723,
+      "word": "一句但悲不见九州同哭倒一片理科生",
+      "onboard_time": 1732952897,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -41169,6 +41185,14 @@
       "onboard_time": 1731165080,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198550,
+      "num": 138594,
+      "word": "沈梦瑶与丝芭解约成功",
+      "onboard_time": 1732955418,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 198548,
@@ -47609,6 +47633,14 @@
       "onboard_time": 1731070941,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178854,
+      "num": 180814,
+      "word": "乔任梁父亲首次回应巨额封口费一说",
+      "onboard_time": 1732955058,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 178818,
@@ -55027,6 +55059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155899,
+      "num": 137691,
+      "word": "炕烧塌了为什么东北人开心",
+      "onboard_time": 1732954878,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155881,
       "num": 155881,
       "word": "陈梦世界排名重返第三",
@@ -61483,6 +61523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137630,
+      "num": 137630,
+      "word": "IVE红毯生图",
+      "onboard_time": 1732955958,
+      "rank": 34,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 137602,
       "num": 137602,
       "word": "CBA",
@@ -61721,14 +61769,6 @@
       "onboard_time": 1732551199,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136626,
-      "num": 183173,
-      "word": "一句但悲不见九州同哭倒一片理科生",
-      "onboard_time": 1732952897,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136619,
@@ -62811,6 +62851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133267,
+      "num": 133267,
+      "word": "王源粉丝买电影票像玩拼豆",
+      "onboard_time": 1732955358,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133215,
       "num": 133215,
       "word": "林诗栋3比2宇田幸矢",
@@ -63769,6 +63817,14 @@
       "onboard_time": 1731932299,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130307,
+      "num": 130307,
+      "word": "免签朋友圈一个月两次扩容",
+      "onboard_time": 1732954698,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130289,
@@ -67483,14 +67539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119883,
-      "num": 180814,
-      "word": "乔任梁父亲首次回应巨额封口费一说",
-      "onboard_time": 1732955058,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119878,
       "num": 198885,
       "word": "DLC可评选TGA年度游戏",
@@ -67915,6 +67963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118524,
+      "num": 118524,
+      "word": "谭松韵蜀锦人家开播排面",
+      "onboard_time": 1732954818,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118522,
       "num": 118522,
       "word": "鞠婧祎拉小提琴",
@@ -68091,6 +68147,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 117864,
+      "num": 117864,
+      "word": "MMA直播",
+      "onboard_time": 1732952238,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117834,
       "num": 336447,
       "word": "医院回应载有学生客车起火",
@@ -68153,14 +68217,6 @@
       "onboard_time": 1731397279,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117602,
-      "num": 117602,
-      "word": "炕烧塌了为什么东北人开心",
-      "onboard_time": 1732954878,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 117594,
@@ -69715,14 +69771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112660,
-      "num": 112660,
-      "word": "谭松韵蜀锦人家开播排面",
-      "onboard_time": 1732954818,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112648,
       "num": 112648,
       "word": "多地考古类专业毕业即入编",
@@ -70137,14 +70185,6 @@
       "onboard_time": 1732772959,
       "rank": 48,
       "category": "国内时政,正能量"
-    },
-    {
-      "raw_hot": 111488,
-      "num": 111488,
-      "word": "免签朋友圈一个月两次扩容",
-      "onboard_time": 1732954698,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111422,
@@ -74403,6 +74443,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 93735,
+      "num": 182561,
+      "word": "国考河南报名人数约为16.1万人",
+      "onboard_time": 1732952597,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93724,
       "num": 656523,
       "word": "怎么选择卫生巾才卫生",
@@ -74897,14 +74945,6 @@
       "onboard_time": 1731032718,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90762,
-      "num": 182561,
-      "word": "国考河南报名人数约为16.1万人",
-      "onboard_time": 1732952597,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 90741,
@@ -77289,6 +77329,14 @@
       "onboard_time": 1732433599,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79568,
+      "num": 138108,
+      "word": "李克勤给梁伟铿庆生",
+      "onboard_time": 1732955838,
+      "rank": 27,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 79474,
@@ -80905,6 +80953,14 @@
       "onboard_time": 1731644662,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63029,
+      "num": 183839,
+      "word": "黄景瑜庆生随拍",
+      "onboard_time": 1732955058,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 63024,
@@ -84993,14 +85049,6 @@
       "onboard_time": 1730928311,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49843,
-      "num": 183839,
-      "word": "黄景瑜庆生随拍",
-      "onboard_time": 1732955058,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 49825,
@@ -96811,6 +96859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22987,
+      "num": 183605,
+      "word": "美国小伙倡议望找到更多二战史料",
+      "onboard_time": 1732954218,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22983,
       "num": 183911,
       "word": "刘诗诗心有明月",
@@ -97265,14 +97321,6 @@
       "onboard_time": 1730745552,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21959,
-      "num": 183605,
-      "word": "美国小伙倡议望找到更多二战史料",
-      "onboard_time": 1732954218,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21930,
