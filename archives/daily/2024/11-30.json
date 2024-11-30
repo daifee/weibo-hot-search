@@ -1,7 +1,15 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732932505097,
+  "endTime": 1732935526314,
   "band_list": [
+    {
+      "raw_hot": 1923318,
+      "num": 362475,
+      "word": "合肥LV柜姐离职后开始卖货",
+      "onboard_time": 1732932557,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1750064,
       "num": 1750064,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 970753,
-      "num": 342793,
+      "num": 361318,
       "word": "周密周芯竹聊天记录",
       "onboard_time": 1732901415,
       "rank": 7,
@@ -56,6 +64,14 @@
       "word": "一医生因车祸去世肇事者开车看手机",
       "onboard_time": 1732892421,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 823803,
+      "num": 823803,
+      "word": "彩虹夫妇第4胎产女称如愿了",
+      "onboard_time": 1732932677,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -91,12 +107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 609093,
-      "num": 609093,
+      "raw_hot": 655731,
+      "num": 655731,
       "word": "爷爷看中LV皮鞋柜姐配合孙女演戏砍价",
       "onboard_time": 1732931596,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646188,
+      "num": 646188,
+      "word": "papi酱 是狗把他带大的吗",
+      "onboard_time": 1732931536,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 597547,
@@ -155,6 +179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 393685,
+      "num": 393685,
+      "word": "十二月行程图",
+      "onboard_time": 1732933097,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379648,
+      "num": 379648,
+      "word": "2025国考最热岗1.6万人挑一",
+      "onboard_time": 1732933037,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 333684,
       "num": 333684,
       "word": "龚俊不能说糊",
@@ -187,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300080,
+      "num": 300080,
+      "word": "虞书欣丁禹兮 一个想靠一个想搂",
+      "onboard_time": 1732928896,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298386,
       "num": 270274,
       "word": "四川卫视 莎头",
@@ -203,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289884,
-      "num": 289884,
-      "word": "虞书欣丁禹兮 一个想靠一个想搂",
-      "onboard_time": 1732928896,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 277978,
       "num": 158255,
       "word": "胃病变胃癌前一般有5个症状",
@@ -219,12 +259,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 273295,
-      "num": 273295,
-      "word": "papi酱 是狗把他带大的吗",
-      "onboard_time": 1732931536,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 270707,
+      "num": 270707,
+      "word": "张朝阳不建议掏空六个钱包消费",
+      "onboard_time": 1732934478,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 251627,
@@ -233,6 +273,14 @@
       "onboard_time": 1732889120,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250295,
+      "num": 250295,
+      "word": "成毅徐璐演长安二十四计",
+      "onboard_time": 1732932977,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 249875,
@@ -259,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212481,
+      "num": 366988,
+      "word": "叙利亚阿勒颇战事升级",
+      "onboard_time": 1732932677,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 210004,
       "num": 210004,
       "word": "优衣库多款纯棉制品未标注棉花产地",
@@ -267,12 +323,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207540,
+      "num": 199375,
+      "word": "你好星期六全员晒初雪穿搭",
+      "onboard_time": 1732934778,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205490,
       "num": 205490,
       "word": "王楚钦孙颖莎赛前混双训练",
       "onboard_time": 1732891401,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200347,
+      "num": 200347,
+      "word": "乒羽混双大魔王绝版了",
+      "onboard_time": 1732934957,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197866,
+      "num": 197866,
+      "word": "优衣库",
+      "onboard_time": 1732934957,
+      "rank": 26,
+      "category": "舆论监督,时尚"
     },
     {
       "raw_hot": 195515,
@@ -323,6 +403,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186413,
+      "num": 186413,
+      "word": "龚俊彭小苒暗河传杀青特辑",
+      "onboard_time": 1732934478,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185671,
+      "num": 231976,
+      "word": "肖战致敬平凡英雄",
+      "onboard_time": 1732934478,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185588,
+      "num": 270561,
+      "word": "2025年度国考今日开考",
+      "onboard_time": 1732932017,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 182133,
       "num": 247640,
       "word": "有消费者认为优衣库不尊重中国市场",
@@ -363,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168012,
+      "num": 168012,
+      "word": "男子殴打父亲致死被判13年",
+      "onboard_time": 1732933037,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163504,
       "num": 163504,
       "word": "85岁大爷全网找的大学生们到齐了",
@@ -395,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148258,
+      "num": 148258,
+      "word": "刘耀文百花奖提名者采访",
+      "onboard_time": 1732934897,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146221,
       "num": 146221,
       "word": "林一逆应援7000杯奶茶",
       "onboard_time": 1732925779,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144772,
+      "num": 144772,
+      "word": "名侦探柯南独眼的残像",
+      "onboard_time": 1732934957,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 139537,
@@ -443,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127899,
+      "num": 127899,
+      "word": "孙颖莎上演高空杀球",
+      "onboard_time": 1732933216,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127474,
       "num": 127474,
       "word": "台媒体人说马龙迷倒很多人",
@@ -481,6 +617,14 @@
       "onboard_time": 1732898656,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121721,
+      "num": 121721,
+      "word": "国际奥委会祝梁伟铿生日快乐",
+      "onboard_time": 1732934957,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 121080,
@@ -531,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111726,
+      "num": 111726,
+      "word": "MMA颁奖典礼",
+      "onboard_time": 1732933397,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 111479,
       "num": 111479,
       "word": "韩国90后女演员实绩",
@@ -555,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106794,
+      "num": 106794,
+      "word": "暗河传",
+      "onboard_time": 1732935438,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103812,
       "num": 103812,
       "word": "逐玉",
@@ -563,8 +723,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101366,
-      "num": 101366,
+      "raw_hot": 101730,
+      "num": 101730,
       "word": "2024仅剩1个月",
       "onboard_time": 1732926377,
       "rank": 39,
@@ -577,6 +737,14 @@
       "onboard_time": 1732887319,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99490,
+      "num": 99490,
+      "word": "谢娜 云中的二舅",
+      "onboard_time": 1732933458,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 99424,
@@ -641,14 +809,6 @@
       "onboard_time": 1732883898,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87025,
-      "num": 270561,
-      "word": "2025年度国考今日开考",
-      "onboard_time": 1732932017,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 86035,
@@ -737,6 +897,14 @@
       "onboard_time": 1732922714,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73545,
+      "num": 677088,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732934658,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 55005,
@@ -841,6 +1009,14 @@
       "onboard_time": 1732897039,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35657,
+      "num": 308891,
+      "word": "2男子捕数千只鸟被判5年半赔36万",
+      "onboard_time": 1732933277,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35502,
@@ -1003,6 +1179,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11841,
+      "num": 185804,
+      "word": "大理一奔驰车追尾老年代步车致2死",
+      "onboard_time": 1732935138,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11049,
       "num": 51422,
       "word": "龚俊好会搞浪漫",
@@ -1078,6 +1262,9 @@
   "hotgov_list": [
     {
       "word": "#加快构建中国哲学社会科学自主知识体系#"
+    },
+    {
+      "word": "#推动党的创新理论更加深入人心#"
     }
   ]
 }
