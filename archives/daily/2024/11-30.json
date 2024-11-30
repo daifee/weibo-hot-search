@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732948244462,
+  "endTime": 1732949073349,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612370,
+      "num": 612370,
+      "word": "网传李行亮歌手2025试音",
+      "onboard_time": 1732943417,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597547,
       "num": 597547,
       "word": "中国女游客在马尔代夫潜水遭鲨鱼咬头",
@@ -201,14 +209,6 @@
       "onboard_time": 1732879818,
       "rank": 7,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 567167,
-      "num": 567167,
-      "word": "网传李行亮歌手2025试音",
-      "onboard_time": 1732943417,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 551375,
@@ -241,6 +241,14 @@
       "onboard_time": 1732936158,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515391,
+      "num": 449884,
+      "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+      "onboard_time": 1732948337,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 491697,
@@ -283,8 +291,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 435794,
-      "num": 435794,
+      "raw_hot": 441875,
+      "num": 441875,
       "word": "樊振东王励勤男双",
       "onboard_time": 1732945698,
       "rank": 7,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391734,
+      "num": 391734,
+      "word": "虞书欣她拍vs自拍",
+      "onboard_time": 1732947858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356423,
       "num": 356423,
       "word": "这些OST一响2024画面感就来了",
@@ -352,6 +368,14 @@
       "word": "周密",
       "onboard_time": 1732921634,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329533,
+      "num": 329533,
+      "word": "宋亚轩刘耀文互穿应援色",
+      "onboard_time": 1732947378,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -411,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291248,
+      "num": 291248,
+      "word": "葛夕闺蜜",
+      "onboard_time": 1732948157,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277978,
       "num": 158255,
       "word": "胃病变胃癌前一般有5个症状",
       "onboard_time": 1732883357,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272635,
+      "num": 404694,
+      "word": "成都混团世界杯国乒抽签结果",
+      "onboard_time": 1732948157,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 272379,
@@ -475,12 +515,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 229613,
-      "num": 257461,
-      "word": "宋亚轩刘耀文互穿应援色",
+      "raw_hot": 223776,
+      "num": 279194,
+      "word": "击剑冠军秦雪回应视频被指擦边",
       "onboard_time": 1732947378,
-      "rank": 21,
-      "category": "艺人"
+      "rank": 24,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 220288,
@@ -497,6 +537,14 @@
       "onboard_time": 1732932677,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213721,
+      "num": 260475,
+      "word": "考公上岸后的体制内生活是什么样",
+      "onboard_time": 1732946600,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212740,
@@ -553,14 +601,6 @@
       "onboard_time": 1732941018,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201628,
-      "num": 254039,
-      "word": "虞书欣她拍vs自拍",
-      "onboard_time": 1732947858,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 200008,
@@ -627,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188424,
-      "num": 253715,
-      "word": "击剑冠军秦雪回应视频被指擦边",
-      "onboard_time": 1732947378,
-      "rank": 24,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 188336,
       "num": 188336,
       "word": "黄景瑜 一起许愿一切都好",
@@ -689,14 +721,6 @@
       "onboard_time": 1732932017,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185098,
-      "num": 260475,
-      "word": "考公上岸后的体制内生活是什么样",
-      "onboard_time": 1732946600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183591,
@@ -827,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158998,
+      "num": 204110,
+      "word": "韩网友抵制韩国电影",
+      "onboard_time": 1732948877,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158649,
       "num": 158649,
       "word": "深圳男子花80元买彩票中2.25亿",
@@ -875,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151983,
+      "num": 221749,
+      "word": "王楚钦王曼昱出席抽签仪式",
+      "onboard_time": 1732948098,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148258,
       "num": 148258,
       "word": "刘耀文百花奖提名者采访",
@@ -883,12 +923,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146703,
+      "num": 146703,
+      "word": "第五人格",
+      "onboard_time": 1732948818,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146221,
       "num": 146221,
       "word": "林一逆应援7000杯奶茶",
       "onboard_time": 1732925779,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144809,
+      "num": 144809,
+      "word": "麦琳怒怼杨子",
+      "onboard_time": 1732948758,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143970,
+      "num": 143970,
+      "word": "宋亚轩把头发甩炸毛了",
+      "onboard_time": 1732948877,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 142370,
@@ -928,14 +992,6 @@
       "word": "曝姆巴佩已找专家治疗",
       "onboard_time": 1732930936,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 137696,
-      "num": 137696,
-      "word": "王楚钦王曼昱出席抽签仪式",
-      "onboard_time": 1732948098,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1011,12 +1067,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131211,
-      "num": 131211,
-      "word": "成都混团世界杯国乒抽签结果",
-      "onboard_time": 1732948157,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 131887,
+      "num": 131887,
+      "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
+      "onboard_time": 1732947378,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129065,
+      "num": 203775,
+      "word": "赵露思12月的行程图",
+      "onboard_time": 1732948998,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 128523,
@@ -1091,6 +1155,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 123470,
+      "num": 123470,
+      "word": "闪耀暖暖叠纸裙子",
+      "onboard_time": 1732948818,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123172,
       "num": 123172,
       "word": "暗河传",
@@ -1113,14 +1185,6 @@
       "onboard_time": 1732934957,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121696,
-      "num": 121696,
-      "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
-      "onboard_time": 1732947378,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121080,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1732871180,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118035,
+      "num": 118035,
+      "word": "imp谈老头杯选人规则",
+      "onboard_time": 1732948818,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 117955,
@@ -1192,14 +1264,6 @@
       "word": "奔跑吧兵分两路走南又闯北",
       "onboard_time": 1732935617,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 114694,
-      "num": 114694,
-      "word": "葛夕闺蜜",
-      "onboard_time": 1732948157,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1283,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101264,
+      "num": 203698,
+      "word": "Irene红秀封面",
+      "onboard_time": 1732948818,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101034,
       "num": 101034,
       "word": "一男子疑因吃驴打滚窒息身亡",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1732943179,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99950,
+      "num": 119688,
+      "word": "谭松韵时隔三年又演古装",
+      "onboard_time": 1732948818,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 99490,
@@ -1353,6 +1433,14 @@
       "onboard_time": 1732935916,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96155,
+      "num": 359187,
+      "word": "尔滨冰雪大世界进度条动了",
+      "onboard_time": 1732947138,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95475,
@@ -1531,12 +1619,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 68858,
-      "num": 359187,
-      "word": "尔滨冰雪大世界进度条动了",
-      "onboard_time": 1732947138,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 65435,
+      "num": 255537,
+      "word": "张小斐首唱电视剧OST",
+      "onboard_time": 1732946479,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 64087,
@@ -1555,12 +1643,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56459,
-      "num": 255537,
-      "word": "张小斐首唱电视剧OST",
-      "onboard_time": 1732946479,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 55296,
+      "num": 361603,
+      "word": "江苏沛县一政协常委被指伪造文凭",
+      "onboard_time": 1732947858,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 55005,
@@ -1585,14 +1673,6 @@
       "onboard_time": 1732903332,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51947,
-      "num": 284985,
-      "word": "江苏沛县一政协常委被指伪造文凭",
-      "onboard_time": 1732947858,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 51881,
@@ -1627,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49224,
+      "num": 241979,
+      "word": "好东西票房破3亿",
+      "onboard_time": 1732948217,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48895,
       "num": 209491,
       "word": "2024年度动漫投票排名",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1732904653,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43213,
+      "num": 372933,
+      "word": "市民清晨排长队送别叶嘉莹",
+      "onboard_time": 1732948578,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41977,
@@ -1796,19 +1892,11 @@
     },
     {
       "raw_hot": 30395,
-      "num": 356670,
+      "num": 381992,
       "word": "香奈儿在杭州",
       "onboard_time": 1732945698,
       "rank": 11,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 30000,
-      "num": 241979,
-      "word": "好东西票房破3亿",
-      "onboard_time": 1732948217,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 29048,
