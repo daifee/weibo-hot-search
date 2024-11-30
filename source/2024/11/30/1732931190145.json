@@ -1,0 +1,410 @@
+{
+  "runTime": 1732931190145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716718,
+        "num": 1716718,
+        "word": "婚礼中途停电40分钟气哭新人爸妈",
+        "onboard_time": 1732928777,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589273,
+        "num": 589273,
+        "word": "优衣库店员称不知道棉花来自哪里",
+        "onboard_time": 1732924877,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48433,
+        "num": 485190,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1732883959,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469519,
+        "num": 469519,
+        "word": "丁禹兮 被打入冷宫的妃子",
+        "onboard_time": 1732926676,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431910,
+        "num": 431910,
+        "word": "26岁专科生考研成功把公司开进大学",
+        "onboard_time": 1732923616,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364054,
+        "num": 364054,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 5,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 297013,
+        "num": 297013,
+        "word": "一医生因车祸去世肇事者开车看手机",
+        "onboard_time": 1732892421,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291809,
+        "num": 291809,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 274815,
+        "num": 274815,
+        "word": "虞书欣丁禹兮 一个想靠一个想搂",
+        "onboard_time": 1732928896,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61214,
+        "num": 247640,
+        "word": "有消费者认为优衣库不尊重中国市场",
+        "onboard_time": 1732930456,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896671,
+        "num": 246706,
+        "word": "周密周芯竹聊天记录",
+        "onboard_time": 1732901415,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285498,
+        "num": 246661,
+        "word": "易易紫承认和崔胜铉恋爱过",
+        "onboard_time": 1732896318,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245420,
+        "num": 245420,
+        "word": "幼儿园回应办羊驼婚礼收份子钱",
+        "onboard_time": 1732914130,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 195515,
+        "num": 195515,
+        "word": "留几手 原则性大事",
+        "onboard_time": 1732911311,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188336,
+        "num": 188336,
+        "word": "黄景瑜 一起许愿一切都好",
+        "onboard_time": 1732929618,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187743,
+        "num": 187743,
+        "word": "叙利亚",
+        "onboard_time": 1732929137,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180912,
+        "num": 180912,
+        "word": "鹿哈给鹿晗刷礼物成为榜一",
+        "onboard_time": 1732882639,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167875,
+        "num": 167875,
+        "word": "国考",
+        "onboard_time": 1732930877,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166239,
+        "num": 166239,
+        "word": "优衣库多款纯棉制品未标注棉花产地",
+        "onboard_time": 1732921694,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35502,
+        "num": 166203,
+        "word": "丁程鑫回重庆plog",
+        "onboard_time": 1732929017,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605454,
+        "num": 164931,
+        "word": "中2.25亿巨奖男子尚未兑奖",
+        "onboard_time": 1732896859,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585519,
+        "num": 164323,
+        "word": "周芯竹回应分手事件",
+        "onboard_time": 1732892000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478787,
+        "num": 162716,
+        "word": "湖南台员工为麦琳发声",
+        "onboard_time": 1732888039,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162594,
+        "num": 162594,
+        "word": "周密 格局",
+        "onboard_time": 1732873159,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138094,
+        "num": 158595,
+        "word": "曝姆巴佩已找专家治疗",
+        "onboard_time": 1732930936,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157322,
+        "num": 157322,
+        "word": "中2.25亿巨奖彩民为即兴下注",
+        "onboard_time": 1732920792,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156186,
+        "num": 156186,
+        "word": "武艺看到张碧晨的反应",
+        "onboard_time": 1732928836,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149750,
+        "num": 149750,
+        "word": "中国女游客在马尔代夫潜水遭鲨鱼咬头",
+        "onboard_time": 1732889179,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146221,
+        "num": 146221,
+        "word": "林一逆应援7000杯奶茶",
+        "onboard_time": 1732925779,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101418,
+        "num": 140892,
+        "word": "金高银获青龙影后",
+        "onboard_time": 1732889120,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139537,
+        "num": 139537,
+        "word": "女子取款5000元银行要求证明夫妻关系",
+        "onboard_time": 1732925236,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138951,
+        "num": 138951,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1732883357,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128523,
+        "num": 128523,
+        "word": "法考成绩",
+        "onboard_time": 1732929497,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127474,
+        "num": 127474,
+        "word": "台媒体人说马龙迷倒很多人",
+        "onboard_time": 1732926257,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113878,
+        "num": 113878,
+        "word": "女子取款5000元银行要求丈夫到场",
+        "onboard_time": 1732882878,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112975,
+        "num": 112975,
+        "word": "孙颖莎王楚钦奥运后首次搭档",
+        "onboard_time": 1732896799,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112890,
+        "num": 112890,
+        "word": "外籍男子体内藏毒排出123粒毒丸",
+        "onboard_time": 1732909451,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105376,
+        "num": 105376,
+        "word": "女孩边充电边玩手机手脚被电肿了",
+        "onboard_time": 1732879757,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104742,
+        "num": 104742,
+        "word": "解救女孩司机获永久免除挂靠管理费",
+        "onboard_time": 1732887380,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101366,
+        "num": 101366,
+        "word": "2024仅剩1个月",
+        "onboard_time": 1732926377,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99023,
+        "num": 99023,
+        "word": "三岁男孩被未拴绳罗威纳咬烂脸",
+        "onboard_time": 1732920671,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98768,
+        "num": 98768,
+        "word": "11月最后1天",
+        "onboard_time": 1732923556,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96390,
+        "num": 96390,
+        "word": "幼师为追星诈骗家长16万获刑四年",
+        "onboard_time": 1732888879,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94577,
+        "num": 94577,
+        "word": "夫妻开地暖一氧化碳中毒",
+        "onboard_time": 1732893380,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88976,
+        "num": 88976,
+        "word": "鹿晗晒爱心纹身",
+        "onboard_time": 1732883479,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85596,
+        "num": 85596,
+        "word": "加沙每晚都有孩子尖叫母亲哭泣",
+        "onboard_time": 1732929917,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85289,
+        "num": 85289,
+        "word": "文化中国行看舌尖上的24节气",
+        "onboard_time": 1732926498,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79853,
+        "num": 79853,
+        "word": "石凯捏住了丁程鑫后颈",
+        "onboard_time": 1732929557,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53057,
+        "num": 75959,
+        "word": "京城大师赛",
+        "onboard_time": 1732930697,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75805,
+        "num": 75805,
+        "word": "中国为何胃癌发病率全球第一",
+        "onboard_time": 1732922714,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快构建中国哲学社会科学自主知识体系#"
+    }
+  }
+}

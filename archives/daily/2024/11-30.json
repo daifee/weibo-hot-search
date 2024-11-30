@@ -1,7 +1,15 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732923464501,
+  "endTime": 1732931190145,
   "band_list": [
+    {
+      "raw_hot": 1716718,
+      "num": 1716718,
+      "word": "婚礼中途停电40分钟气哭新人爸妈",
+      "onboard_time": 1732928777,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1236585,
       "num": 693313,
@@ -33,6 +41,14 @@
       "onboard_time": 1732896859,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 896671,
+      "num": 246706,
+      "word": "周密周芯竹聊天记录",
+      "onboard_time": 1732901415,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 826811,
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589273,
+      "num": 589273,
+      "word": "优衣库店员称不知道棉花来自哪里",
+      "onboard_time": 1732924877,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 569091,
       "num": 569091,
       "word": "我支持新疆棉花",
@@ -89,6 +113,22 @@
       "onboard_time": 1732875379,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469519,
+      "num": 469519,
+      "word": "丁禹兮 被打入冷宫的妃子",
+      "onboard_time": 1732926676,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 431910,
+      "num": 431910,
+      "word": "26岁专科生考研成功把公司开进大学",
+      "onboard_time": 1732923616,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333684,
@@ -147,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 274815,
+      "num": 274815,
+      "word": "虞书欣丁禹兮 一个想靠一个想搂",
+      "onboard_time": 1732928896,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251627,
       "num": 251627,
       "word": "金高银获青龙影后",
@@ -161,6 +209,14 @@
       "onboard_time": 1732898597,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245420,
+      "num": 245420,
+      "word": "幼儿园回应办羊驼婚礼收份子钱",
+      "onboard_time": 1732914130,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 220288,
@@ -187,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195515,
+      "num": 195515,
+      "word": "留几手 原则性大事",
+      "onboard_time": 1732911311,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194383,
       "num": 151906,
       "word": "孙颖莎王楚钦奥运后首次搭档",
@@ -203,12 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188565,
-      "num": 183372,
-      "word": "周密周芯竹聊天记录",
-      "onboard_time": 1732901415,
-      "rank": 7,
+      "raw_hot": 188336,
+      "num": 188336,
+      "word": "黄景瑜 一起许愿一切都好",
+      "onboard_time": 1732929618,
+      "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187743,
+      "num": 187743,
+      "word": "叙利亚",
+      "onboard_time": 1732929137,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186504,
@@ -243,6 +315,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 167875,
+      "num": 167875,
+      "word": "国考",
+      "onboard_time": 1732930877,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 163504,
       "num": 163504,
       "word": "85岁大爷全网找的大学生们到齐了",
@@ -259,12 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158307,
-      "num": 158307,
-      "word": "幼儿园回应办羊驼婚礼收份子钱",
-      "onboard_time": 1732914130,
-      "rank": 40,
-      "category": "舆论监督"
+      "raw_hot": 157322,
+      "num": 157322,
+      "word": "中2.25亿巨奖彩民为即兴下注",
+      "onboard_time": 1732920792,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156186,
+      "num": 156186,
+      "word": "武艺看到张碧晨的反应",
+      "onboard_time": 1732928836,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 154693,
@@ -273,6 +361,30 @@
       "onboard_time": 1732909451,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146221,
+      "num": 146221,
+      "word": "林一逆应援7000杯奶茶",
+      "onboard_time": 1732925779,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139537,
+      "num": 139537,
+      "word": "女子取款5000元银行要求证明夫妻关系",
+      "onboard_time": 1732925236,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138094,
+      "num": 158595,
+      "word": "曝姆巴佩已找专家治疗",
+      "onboard_time": 1732930936,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 135441,
@@ -289,6 +401,22 @@
       "onboard_time": 1732888879,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128523,
+      "num": 128523,
+      "word": "法考成绩",
+      "onboard_time": 1732929497,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 127474,
+      "num": 127474,
+      "word": "台媒体人说马龙迷倒很多人",
+      "onboard_time": 1732926257,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 123816,
@@ -387,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101366,
+      "num": 101366,
+      "word": "2024仅剩1个月",
+      "onboard_time": 1732926377,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101034,
       "num": 101034,
       "word": "一男子疑因吃驴打滚窒息身亡",
@@ -395,20 +531,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100646,
-      "num": 100646,
-      "word": "留几手 原则性大事",
-      "onboard_time": 1732911311,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99424,
       "num": 99424,
       "word": "郑雨盛因私生子在青龙电影节上道歉",
       "onboard_time": 1732888520,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99023,
+      "num": 99023,
+      "word": "三岁男孩被未拴绳罗威纳咬烂脸",
+      "onboard_time": 1732920671,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98768,
+      "num": 98768,
+      "word": "11月最后1天",
+      "onboard_time": 1732923556,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 97884,
@@ -459,11 +603,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85596,
+      "num": 85596,
+      "word": "加沙每晚都有孩子尖叫母亲哭泣",
+      "onboard_time": 1732929917,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85468,
       "num": 85468,
       "word": "年轻人做保洁月入超8000元",
       "onboard_time": 1732890921,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85289,
+      "num": 85289,
+      "word": "文化中国行看舌尖上的24节气",
+      "onboard_time": 1732926498,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -473,6 +633,14 @@
       "onboard_time": 1732896978,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79853,
+      "num": 79853,
+      "word": "石凯捏住了丁程鑫后颈",
+      "onboard_time": 1732929557,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 78637,
@@ -499,11 +667,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77344,
-      "num": 77344,
-      "word": "三岁男孩被未拴绳罗威纳咬烂脸",
-      "onboard_time": 1732920671,
-      "rank": 40,
+      "raw_hot": 75805,
+      "num": 75805,
+      "word": "中国为何胃癌发病率全球第一",
+      "onboard_time": 1732922714,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61214,
+      "num": 247640,
+      "word": "有消费者认为优衣库不尊重中国市场",
+      "onboard_time": 1732930456,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -513,6 +689,14 @@
       "onboard_time": 1732900874,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53057,
+      "num": 75959,
+      "word": "京城大师赛",
+      "onboard_time": 1732930697,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 52788,
@@ -531,11 +715,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48817,
-      "num": 52453,
-      "word": "中2.25亿巨奖彩民为即兴下注",
-      "onboard_time": 1732920792,
-      "rank": 47,
+      "raw_hot": 48433,
+      "num": 629056,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1732883959,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -595,20 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36520,
-      "num": 52413,
-      "word": "中国为何胃癌发病率全球第一",
-      "onboard_time": 1732922714,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33875,
-      "num": 629056,
-      "word": "12月这些新规影响你我",
-      "onboard_time": 1732883959,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 35502,
+      "num": 166203,
+      "word": "丁程鑫回重庆plog",
+      "onboard_time": 1732929017,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 31656,
