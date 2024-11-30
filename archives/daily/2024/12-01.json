@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733006393019,
+  "endTime": 1733008901470,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -28,14 +28,14 @@
     },
     {
       "raw_hot": 1108218,
-      "num": 286148,
+      "num": 327189,
       "word": "黄景瑜孙千 尴尬",
       "onboard_time": 1732976960,
       "rank": 6,
       "category": "剧集"
     },
     {
-      "raw_hot": 875594,
+      "raw_hot": 930572,
       "num": 875594,
       "word": "杭州夫妻两人染色体竟相同",
       "onboard_time": 1732983798,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133266,
+      "num": 96092,
+      "word": "向佐 希望大家继续吓我支持我",
+      "onboard_time": 1732998624,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130805,
       "num": 130805,
       "word": "韩剧现在拨打的电话",
@@ -275,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124436,
+      "num": 94573,
+      "word": "我是刑警 鹤岗大案",
+      "onboard_time": 1733004311,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122136,
       "num": 122136,
       "word": "虞书欣备忘录里的碎片",
       "onboard_time": 1732982720,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120436,
+      "num": 120436,
+      "word": "12月对我好一点",
+      "onboard_time": 1733008814,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 109063,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97150,
+      "num": 97150,
+      "word": "驻日美军士兵酒后私闯民宅还大睡",
+      "onboard_time": 1732995131,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94592,
       "num": 94592,
       "word": "突然发现考公的人越来越多",
@@ -371,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89048,
+      "num": 89048,
+      "word": "75岁老人控告50岁妻子要回赠与房产",
+      "onboard_time": 1733004491,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88702,
       "num": 88702,
       "word": "怀上九胞胎女子减7胎后出院",
       "onboard_time": 1732963879,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85007,
+      "num": 85007,
+      "word": "法国小伙准备将日军侵华照片捐赠中国",
+      "onboard_time": 1732991414,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81174,
@@ -411,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64769,
-      "num": 64769,
-      "word": "法国小伙准备将日军侵华照片捐赠中国",
-      "onboard_time": 1732991414,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 61259,
+      "num": 61259,
+      "word": "内蒙古天空戴了5小时美瞳",
+      "onboard_time": 1733006232,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61212,
@@ -451,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51831,
-      "num": 51831,
-      "word": "驻日美军士兵酒后私闯民宅还大睡",
-      "onboard_time": 1732995131,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51613,
       "num": 93905,
       "word": "张林峰希望更多人因为科研成果认识他",
@@ -467,28 +507,52 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47668,
-      "num": 46313,
-      "word": "向佐 希望大家继续吓我支持我",
-      "onboard_time": 1732998624,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 46623,
-      "num": 46623,
-      "word": "75岁老人控告50岁妻子要回赠与房产",
-      "onboard_time": 1733004491,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38853,
+      "raw_hot": 45168,
       "num": 84001,
       "word": "美团骑手月均收入5720至10865元",
       "onboard_time": 1732983259,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 44106,
+      "num": 44106,
+      "word": "女子凌晨被两条大型犬撕咬",
+      "onboard_time": 1733008153,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41153,
+      "num": 41153,
+      "word": "2024最后一个月",
+      "onboard_time": 1733008814,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40736,
+      "num": 40736,
+      "word": "华晨宇 找灵魂伴侣这件事情很难",
+      "onboard_time": 1732980020,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39006,
+      "num": 39006,
+      "word": "十二月你好",
+      "onboard_time": 1733008093,
+      "rank": 40,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 38073,
+      "num": 38073,
+      "word": "老人将房产过户妻子后被拒之门外",
+      "onboard_time": 1732975881,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37269,
@@ -499,12 +563,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35571,
+      "num": 41270,
+      "word": "为什么说新疆棉是世界顶级",
+      "onboard_time": 1732993932,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34372,
       "num": 34372,
       "word": "曹璐带韩国爱豆游成都vlog",
       "onboard_time": 1732994951,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33971,
+      "num": 89385,
+      "word": "成都混团世界杯中国队同组对手出炉",
+      "onboard_time": 1733006951,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33483,
+      "num": 36024,
+      "word": "耗资7亿欧元巴黎圣母院将重新开放",
+      "onboard_time": 1733000771,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31606,
@@ -515,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31023,
-      "num": 36024,
-      "word": "耗资7亿欧元巴黎圣母院将重新开放",
-      "onboard_time": 1733000771,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28348,
       "num": 135774,
       "word": "Tarzan加入AL",
@@ -531,28 +611,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27091,
-      "num": 37700,
-      "word": "华晨宇 找灵魂伴侣这件事情很难",
-      "onboard_time": 1732980020,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 26796,
       "num": 37675,
       "word": "青海摇 减肥",
       "onboard_time": 1732991533,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 26106,
-      "num": 26106,
-      "word": "我是刑警 鹤岗大案",
-      "onboard_time": 1733004311,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 26046,
@@ -587,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24216,
-      "num": 41270,
-      "word": "为什么说新疆棉是世界顶级",
-      "onboard_time": 1732993932,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24045,
       "num": 37749,
       "word": "李现香格里拉松赞林寺拍立得",
@@ -625,6 +681,14 @@
       "onboard_time": 1732996330,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19558,
+      "num": 49125,
+      "word": "内蒙古天空出现3个太阳",
+      "onboard_time": 1733008873,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18644,
@@ -675,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13407,
-      "num": 39457,
-      "word": "内蒙古天空戴了5小时美瞳",
-      "onboard_time": 1733006232,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11749,
       "num": 28689,
       "word": "易烊千玺网站更新",
@@ -705,6 +761,14 @@
       "onboard_time": 1732987752,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8177,
+      "num": 80995,
+      "word": "鹭卓记录11月的照片",
+      "onboard_time": 1733008333,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 7241,
