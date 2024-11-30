@@ -1,17 +1,17 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732973252756,
+  "endTime": 1732973933652,
   "band_list": [
     {
-      "raw_hot": 3328175,
-      "num": 3328175,
+      "raw_hot": 3679332,
+      "num": 3679332,
       "word": "周密晒转账记录",
       "onboard_time": 1732970719,
       "rank": 4,
       "category": "艺人"
     },
     {
-      "raw_hot": 3160443,
+      "raw_hot": 3319870,
       "num": 356756,
       "word": "周密发歌diss周芯竹",
       "onboard_time": 1732972639,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1388962,
-      "num": 393121,
+      "num": 427290,
       "word": "24岁女设计师胃癌晚期问为啥是我",
       "onboard_time": 1732968378,
       "rank": 3,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 584747,
+      "num": 584747,
+      "word": "恋与制作人大婚",
+      "onboard_time": 1732970359,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 577258,
       "num": 870608,
       "word": "周密",
@@ -459,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442521,
-      "num": 442521,
-      "word": "恋与制作人大婚",
-      "onboard_time": 1732970359,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 450721,
+      "num": 291279,
+      "word": "aespa横扫MMA三项大赏",
+      "onboard_time": 1732972699,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 441875,
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384929,
+      "num": 285070,
+      "word": "王菲去看窦靖童演唱会了",
+      "onboard_time": 1732971560,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 375742,
       "num": 375742,
       "word": "日本超330家自来水企业检出永久性化学物质",
@@ -641,14 +657,6 @@
       "onboard_time": 1732940779,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 354339,
-      "num": 285070,
-      "word": "王菲去看窦靖童演唱会了",
-      "onboard_time": 1732971560,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 353279,
@@ -787,14 +795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 315627,
-      "num": 279220,
-      "word": "aespa横扫MMA三项大赏",
-      "onboard_time": 1732972699,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 313904,
       "num": 313904,
       "word": "金靖月子中心vlog",
@@ -899,20 +899,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 278934,
+      "num": 330787,
+      "word": "杭州首套房贷利率上调至3.1%",
+      "onboard_time": 1732967598,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 277978,
       "num": 158255,
       "word": "胃病变胃癌前一般有5个症状",
       "onboard_time": 1732883357,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 276154,
-      "num": 330787,
-      "word": "杭州首套房贷利率上调至3.1%",
-      "onboard_time": 1732967598,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 272379,
@@ -929,6 +929,14 @@
       "onboard_time": 1732959140,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269106,
+      "num": 269106,
+      "word": "张小斐 喜欢肢体接触是吧",
+      "onboard_time": 1732973179,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 264658,
@@ -1020,7 +1028,7 @@
     },
     {
       "raw_hot": 237165,
-      "num": 237165,
+      "num": 269072,
       "word": "突然发现考公的人越来越多",
       "onboard_time": 1732970659,
       "rank": 23,
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 222343,
-      "num": 211304,
+      "num": 212586,
       "word": "宋雨琦 雅典女神",
       "onboard_time": 1732971319,
       "rank": 47,
@@ -1163,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201748,
+      "num": 201748,
+      "word": "MMA",
+      "onboard_time": 1732973599,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200008,
       "num": 200008,
       "word": "华晨宇 幸好我是一个创作歌手",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1732944019,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197551,
+      "num": 197551,
+      "word": "IU获最佳女solo奖",
+      "onboard_time": 1732973120,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 196201,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1732883479,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190371,
-      "num": 190371,
-      "word": "IU获最佳女solo奖",
-      "onboard_time": 1732973120,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 188342,
@@ -1475,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166749,
+      "num": 120516,
+      "word": "韩剧现在拨打的电话",
+      "onboard_time": 1732972580,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166719,
       "num": 166719,
       "word": "鹿晗喜欢听泉",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1732948098,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159027,
+      "num": 159027,
+      "word": "田小娟说gidle全员续约",
+      "onboard_time": 1732973120,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 158649,
@@ -1747,19 +1779,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141511,
-      "num": 141511,
-      "word": "田小娟说gidle全员续约",
-      "onboard_time": 1732973120,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141408,
       "num": 141408,
       "word": "卓沅谁懂啊杭州可冷",
       "onboard_time": 1732960999,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141229,
+      "num": 273898,
+      "word": "黄景瑜孙千她在闹他在笑",
+      "onboard_time": 1732973060,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1833,14 +1865,6 @@
       "onboard_time": 1732952238,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138534,
-      "num": 107152,
-      "word": "韩剧现在拨打的电话",
-      "onboard_time": 1732972580,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 138100,
@@ -1955,14 +1979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134043,
-      "num": 106069,
-      "word": "张小斐 喜欢肢体接触是吧",
-      "onboard_time": 1732973179,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133520,
       "num": 133520,
       "word": "国考公共科目笔试",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1732966219,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131755,
+      "num": 272927,
+      "word": "刘耀文上班花絮",
+      "onboard_time": 1732973001,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131590,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1732931596,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124501,
+      "num": 124501,
+      "word": "成都混团欢迎晚宴",
+      "onboard_time": 1732973120,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124134,
@@ -2315,14 +2347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112196,
-      "num": 106478,
-      "word": "刘耀文上班花絮",
-      "onboard_time": 1732973001,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111479,
       "num": 111479,
       "word": "韩国90后女演员实绩",
@@ -2379,6 +2403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105540,
+      "num": 105540,
+      "word": "国考每一步都在淘汰人",
+      "onboard_time": 1732972937,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 103812,
       "num": 103812,
       "word": "逐玉",
@@ -2419,6 +2451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101929,
+      "num": 101929,
+      "word": "成都混团晚宴",
+      "onboard_time": 1732973540,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101730,
       "num": 101730,
       "word": "2024仅剩1个月",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1732968979,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101078,
+      "num": 101078,
+      "word": "RSG飞车冠军",
+      "onboard_time": 1732973480,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 101034,
@@ -2555,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95003,
+      "num": 290784,
+      "word": "朱鹮雾中缓缓降落如画中仙鸟",
+      "onboard_time": 1732968320,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93735,
       "num": 182561,
       "word": "国考河南报名人数约为16.1万人",
@@ -2577,14 +2633,6 @@
       "onboard_time": 1732889660,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 91220,
-      "num": 91220,
-      "word": "成都混团欢迎晚宴",
-      "onboard_time": 1732973120,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 90002,
@@ -2715,6 +2763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81147,
+      "num": 268050,
+      "word": "乒乓球混合团体世界杯",
+      "onboard_time": 1732972220,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79853,
       "num": 79853,
       "word": "石凯捏住了丁程鑫后颈",
@@ -2819,12 +2875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72238,
-      "num": 290784,
-      "word": "朱鹮雾中缓缓降落如画中仙鸟",
-      "onboard_time": 1732968320,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 72705,
+      "num": 213710,
+      "word": "谭松韵郑业成直播",
+      "onboard_time": 1732972340,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 71231,
@@ -2881,14 +2937,6 @@
       "onboard_time": 1732962378,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58204,
-      "num": 214127,
-      "word": "黄景瑜孙千她在闹他在笑",
-      "onboard_time": 1732973060,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 55296,
@@ -3011,14 +3059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45956,
-      "num": 213710,
-      "word": "谭松韵郑业成直播",
-      "onboard_time": 1732972340,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44159,
       "num": 52446,
       "word": "日本士兵日记揭露南京大屠杀惨状",
@@ -3049,6 +3089,14 @@
       "onboard_time": 1732933277,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40215,
+      "num": 303463,
+      "word": "原生家庭对亲密关系的影响",
+      "onboard_time": 1732973299,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 39847,
@@ -3115,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38243,
+      "num": 435485,
+      "word": "精彩全国少数民族传统体育运动会",
+      "onboard_time": 1732971079,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37620,
       "num": 160967,
       "word": "GimGoon与Tian和Crisp合照",
@@ -3155,14 +3211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 35930,
-      "num": 402790,
-      "word": "精彩全国少数民族传统体育运动会",
-      "onboard_time": 1732971079,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 35502,
       "num": 166203,
       "word": "丁程鑫回重庆plog",
@@ -3188,7 +3236,7 @@
     },
     {
       "raw_hot": 32886,
-      "num": 188379,
+      "num": 202162,
       "word": "网友购买笑气后报案举报销售方",
       "onboard_time": 1732972699,
       "rank": 29,
@@ -3281,6 +3329,14 @@
       "onboard_time": 1732961299,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26617,
+      "num": 270573,
+      "word": "近半欧洲人不再视美国为最重要盟友",
+      "onboard_time": 1732972340,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26093,
@@ -3377,14 +3433,6 @@
       "onboard_time": 1732954218,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 22971,
-      "num": 213234,
-      "word": "近半欧洲人不再视美国为最重要盟友",
-      "onboard_time": 1732972340,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22707,
@@ -3523,12 +3571,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12166,
+      "num": 309531,
+      "word": "孔子是山东大汉身高超过1米9",
+      "onboard_time": 1732973719,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11470,
       "num": 263407,
       "word": "星辰令这把打回忆局",
       "onboard_time": 1732942999,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11456,
+      "num": 203013,
+      "word": "群演沈凯称出圈发言是即兴发挥",
+      "onboard_time": 1732973840,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 11049,
