@@ -1,0 +1,410 @@
+{
+  "runTime": 1732971471800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2054343,
+        "num": 2054343,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 421961,
+        "num": 421961,
+        "word": "员工已读不回领导身份不是爆粗口理由",
+        "onboard_time": 1732965679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27860,
+        "num": 394209,
+        "word": "精彩全国少数民族传统体育运动会",
+        "onboard_time": 1732971079,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1290519,
+        "num": 393121,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719128,
+        "num": 393032,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391247,
+        "num": 391247,
+        "word": "新疆棉被随便甩不断层",
+        "onboard_time": 1732966879,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674228,
+        "num": 389174,
+        "word": "gidle全员续约",
+        "onboard_time": 1732971079,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510519,
+        "num": 386029,
+        "word": "金智秀连续三年获世首美",
+        "onboard_time": 1732968618,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363378,
+        "num": 363378,
+        "word": "恋与制作人大婚",
+        "onboard_time": 1732970359,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303649,
+        "num": 303649,
+        "word": "恋与制作人七周年直播",
+        "onboard_time": 1732969640,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407885,
+        "num": 303474,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332458,
+        "num": 300808,
+        "word": "看完9集是我对斗罗2大声了",
+        "onboard_time": 1732969878,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331233,
+        "num": 299745,
+        "word": "一路繁花直播",
+        "onboard_time": 1732964899,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38678,
+        "num": 296519,
+        "word": "你能接受退役运动员的多元形象吗",
+        "onboard_time": 1732971260,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60021,
+        "num": 295075,
+        "word": "秦雪称不想火只想赚钱养女儿",
+        "onboard_time": 1732962378,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294446,
+        "num": 294446,
+        "word": "越南将投入670亿美元修高铁",
+        "onboard_time": 1732963458,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265177,
+        "num": 265177,
+        "word": "杭州首套房贷利率上调至3.1%",
+        "onboard_time": 1732967598,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254015,
+        "num": 254015,
+        "word": "张元英和男伴舞双人芭蕾",
+        "onboard_time": 1732970839,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238066,
+        "num": 238066,
+        "word": "4人靠云养牛骗了5个亿",
+        "onboard_time": 1732968259,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169738,
+        "num": 238004,
+        "word": "高泽宇丸子官宣领证",
+        "onboard_time": 1732968559,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577258,
+        "num": 237650,
+        "word": "周密",
+        "onboard_time": 1732952837,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446670,
+        "num": 237591,
+        "word": "年轻人得胃癌跟吃外卖有关系吗",
+        "onboard_time": 1732966698,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242544,
+        "num": 237276,
+        "word": "aespa全员黑裙",
+        "onboard_time": 1732955358,
+        "rank": 22,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 237165,
+        "num": 237165,
+        "word": "突然发现考公的人越来越多",
+        "onboard_time": 1732970659,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14582,
+        "num": 217897,
+        "word": "无限暖暖公测前瞻",
+        "onboard_time": 1732965079,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216179,
+        "num": 216179,
+        "word": "贾斯汀比伯一家三口合照",
+        "onboard_time": 1732965378,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208870,
+        "num": 208870,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138243,
+        "num": 206566,
+        "word": "人民网评优衣库事件",
+        "onboard_time": 1732964539,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240013,
+        "num": 205933,
+        "word": "aespa获最佳女团",
+        "onboard_time": 1732960518,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85385,
+        "num": 205151,
+        "word": "莎头组合奥运会后再打混双",
+        "onboard_time": 1732970539,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204888,
+        "num": 204888,
+        "word": "linglingkwong",
+        "onboard_time": 1732965918,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199371,
+        "num": 199371,
+        "word": "白鹿很满意自己的三十岁",
+        "onboard_time": 1732969519,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198793,
+        "num": 198793,
+        "word": "贺峻霖在张蔷头发里找张蔷",
+        "onboard_time": 1732965438,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180131,
+        "num": 180131,
+        "word": "玄彬孙艺珍近照",
+        "onboard_time": 1732964660,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135339,
+        "num": 165468,
+        "word": "日本超330家自来水企业检出永久性化学物质",
+        "onboard_time": 1732962318,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163949,
+        "num": 163949,
+        "word": "吴谨言12月暂无公开行程",
+        "onboard_time": 1732964298,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154036,
+        "num": 154036,
+        "word": "IVE最佳MV",
+        "onboard_time": 1732957758,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142586,
+        "num": 142586,
+        "word": "白夜破晓保安踩踏案背后",
+        "onboard_time": 1732971200,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136770,
+        "num": 136770,
+        "word": "MMA红毯",
+        "onboard_time": 1732951878,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132147,
+        "num": 132147,
+        "word": "禹宙中欣前世今生",
+        "onboard_time": 1732970959,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127824,
+        "num": 127824,
+        "word": "gidle获MMAtop10",
+        "onboard_time": 1732969878,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120741,
+        "num": 120741,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119759,
+        "num": 119759,
+        "word": "只有师范生才懂她有多强",
+        "onboard_time": 1732967299,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111671,
+        "num": 111671,
+        "word": "微信朋友圈显示未能点赞",
+        "onboard_time": 1732957519,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108559,
+        "num": 108559,
+        "word": "路过我年少时光的蓝色",
+        "onboard_time": 1732971020,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108464,
+        "num": 108464,
+        "word": "MMA直播",
+        "onboard_time": 1732952238,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108001,
+        "num": 108001,
+        "word": "gidle串烧",
+        "onboard_time": 1732971441,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107321,
+        "num": 107321,
+        "word": "宋雨琦 雅典女神",
+        "onboard_time": 1732971319,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106161,
+        "num": 106161,
+        "word": "时代少年团元梦峡谷首秀",
+        "onboard_time": 1732963879,
+        "rank": 48,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 100028,
+        "num": 102981,
+        "word": "官方通报副镇长开套牌车还打人",
+        "onboard_time": 1732970480,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
+    }
+  }
+}
