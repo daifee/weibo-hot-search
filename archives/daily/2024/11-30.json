@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732963255528,
+  "endTime": 1732965555669,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508420,
+      "num": 422352,
+      "word": "时代少年团元梦峡谷首秀",
+      "onboard_time": 1732963879,
+      "rank": 3,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 503181,
       "num": 344954,
       "word": "韩网友抵制韩国电影",
@@ -371,12 +379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459154,
+      "num": 206262,
+      "word": "你好星期六应援",
+      "onboard_time": 1732963279,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441875,
       "num": 441875,
       "word": "樊振东王励勤男双",
       "onboard_time": 1732945698,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 436431,
+      "num": 358941,
+      "word": "我是刑警 敢拍",
+      "onboard_time": 1732963939,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 435177,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 434024,
-      "num": 300800,
+      "num": 331281,
       "word": "肖战今年不打算参加跨年晚会",
       "onboard_time": 1732958359,
       "rank": 19,
@@ -409,6 +433,14 @@
       "onboard_time": 1732950857,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421191,
+      "num": 421191,
+      "word": "安徽一学校食堂俩员工吵架打翻饭菜",
+      "onboard_time": 1732960879,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419880,
@@ -499,12 +531,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 345955,
+      "num": 345955,
+      "word": "日本超330家自来水企业检出永久性化学物质",
+      "onboard_time": 1732962318,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 345355,
       "num": 345355,
       "word": "免签朋友圈一个月两次扩容",
       "onboard_time": 1732954698,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336611,
+      "num": 336611,
+      "word": "吴谨言12月暂无公开行程",
+      "onboard_time": 1732964298,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 333684,
@@ -579,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318437,
+      "num": 318437,
+      "word": "元梦之星",
+      "onboard_time": 1732956798,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313904,
       "num": 313904,
       "word": "金靖月子中心vlog",
@@ -600,6 +656,14 @@
       "word": "一句但悲不见九州同哭倒一片理科生",
       "onboard_time": 1732952897,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308453,
+      "num": 213647,
+      "word": "怀上九胞胎女子减7胎后出院",
+      "onboard_time": 1732963879,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -659,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281019,
-      "num": 281019,
-      "word": "安徽一学校食堂俩员工吵架打翻饭菜",
-      "onboard_time": 1732960879,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277978,
       "num": 158255,
       "word": "胃病变胃癌前一般有5个症状",
@@ -704,6 +760,14 @@
       "word": "阿汤哥女儿被指身材走样",
       "onboard_time": 1732942638,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258832,
+      "num": 216343,
+      "word": "玄彬孙艺珍近照",
+      "onboard_time": 1732964660,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -763,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223407,
+      "num": 209629,
+      "word": "贺峻霖在张蔷头发里找张蔷",
+      "onboard_time": 1732965438,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222780,
       "num": 167137,
       "word": "因为偷东西吃练出了核心力量",
@@ -776,6 +848,14 @@
       "word": "女子取款5000元银行要求丈夫到场",
       "onboard_time": 1732882878,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216632,
+      "num": 216632,
+      "word": "男子开车打掼蛋被查时系统催出牌",
+      "onboard_time": 1732959618,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -801,6 +881,14 @@
       "onboard_time": 1732937957,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211622,
+      "num": 331457,
+      "word": "杜甫是唐代纪录片导演吧",
+      "onboard_time": 1732964598,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211204,
@@ -1003,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184478,
+      "num": 190005,
+      "word": "黄圣依曾扮美人鱼为杨子庆生",
+      "onboard_time": 1732962498,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183912,
       "num": 312885,
       "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
@@ -1017,6 +1113,14 @@
       "onboard_time": 1732941079,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182270,
+      "num": 203448,
+      "word": "周雨彤拍的坦桑",
+      "onboard_time": 1732965079,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 182268,
@@ -1081,14 +1185,6 @@
       "onboard_time": 1732940358,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177116,
-      "num": 177116,
-      "word": "元梦之星",
-      "onboard_time": 1732956798,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 171910,
@@ -1193,6 +1289,14 @@
       "onboard_time": 1732948098,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160526,
+      "num": 160526,
+      "word": "人民网评优衣库事件",
+      "onboard_time": 1732964539,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158649,
@@ -1347,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140467,
+      "num": 140467,
+      "word": "大冰吃面好像一个打气筒",
+      "onboard_time": 1732962738,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139785,
       "num": 139785,
       "word": "倪萍说贺峻霖搬箱子搬到两点",
@@ -1499,11 +1611,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133965,
-      "num": 190005,
-      "word": "黄圣依曾扮美人鱼为杨子庆生",
-      "onboard_time": 1732962498,
-      "rank": 19,
+      "raw_hot": 134220,
+      "num": 134220,
+      "word": "贾斯汀比伯一家三口合照",
+      "onboard_time": 1732965378,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1539,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131649,
-      "num": 139259,
-      "word": "日本超330家自来水企业检出永久性化学物质",
-      "onboard_time": 1732962318,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131590,
       "num": 235238,
       "word": "击剑运动员秦雪转型网红被指擦边",
@@ -1563,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128868,
+      "num": 128868,
+      "word": "九重紫",
+      "onboard_time": 1732965438,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128626,
       "num": 128626,
       "word": "李昀锐说孟子义怎样都好看",
@@ -1577,6 +1689,14 @@
       "onboard_time": 1732929497,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 128215,
+      "num": 128215,
+      "word": "月鳞绮纪",
+      "onboard_time": 1732963038,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 128119,
@@ -1651,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123793,
-      "num": 123793,
-      "word": "大冰吃面好像一个打气筒",
-      "onboard_time": 1732962738,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123626,
       "num": 123626,
       "word": "梁伟铿生日发文",
@@ -1707,14 +1819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121203,
-      "num": 121203,
-      "word": "月鳞绮纪",
-      "onboard_time": 1732963038,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121080,
       "num": 121080,
       "word": "初冬美景亦斑斓",
@@ -1729,14 +1833,6 @@
       "onboard_time": 1732894940,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119953,
-      "num": 119953,
-      "word": "男子开车打掼蛋被查时系统催出牌",
-      "onboard_time": 1732959618,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119430,
@@ -1987,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98910,
+      "num": 136098,
+      "word": "越南将投入670亿美元修高铁",
+      "onboard_time": 1732963458,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98854,
       "num": 98854,
       "word": "柯南2025剧场版手绘海报",
@@ -2097,6 +2201,14 @@
       "onboard_time": 1732883898,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86310,
+      "num": 224278,
+      "word": "日本游客想体验中国高铁",
+      "onboard_time": 1732964240,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86035,
@@ -2251,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74020,
+      "num": 207913,
+      "word": "一诺居居回忆杀",
+      "onboard_time": 1732965498,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73545,
       "num": 957402,
       "word": "何以中国弦歌不辍",
@@ -2313,6 +2433,14 @@
       "onboard_time": 1732938917,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61468,
+      "num": 234072,
+      "word": "一路繁花直播",
+      "onboard_time": 1732964899,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 55296,
@@ -2747,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21812,
+      "num": 194679,
+      "word": "黄金能否继续创新高",
+      "onboard_time": 1732964899,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 21603,
       "num": 322779,
       "word": "蜀锦人家今日开播",
@@ -2769,6 +2905,14 @@
       "onboard_time": 1732908192,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21092,
+      "num": 279467,
+      "word": "从小孩姐的视角打开好东西",
+      "onboard_time": 1732964841,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 21043,
@@ -2801,6 +2945,14 @@
       "onboard_time": 1732922895,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17933,
+      "num": 184291,
+      "word": "无限暖暖公测前瞻",
+      "onboard_time": 1732965079,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 17693,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1732965555669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673277,
+        "num": 1107724,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480291,
+        "num": 480291,
+        "word": "中国籍男子承认涂鸦日本靖国神社",
+        "onboard_time": 1732953677,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28850,
+        "num": 423404,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 508420,
+        "num": 422352,
+        "word": "时代少年团元梦峡谷首秀",
+        "onboard_time": 1732963879,
+        "rank": 3,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 421191,
+        "num": 421191,
+        "word": "安徽一学校食堂俩员工吵架打翻饭菜",
+        "onboard_time": 1732960879,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368275,
+        "num": 368275,
+        "word": "微信朋友圈显示未能点赞",
+        "onboard_time": 1732957519,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436431,
+        "num": 358941,
+        "word": "我是刑警 敢拍",
+        "onboard_time": 1732963939,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345955,
+        "num": 345955,
+        "word": "日本超330家自来水企业检出永久性化学物质",
+        "onboard_time": 1732962318,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336611,
+        "num": 336611,
+        "word": "吴谨言12月暂无公开行程",
+        "onboard_time": 1732964298,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211622,
+        "num": 331457,
+        "word": "杜甫是唐代纪录片导演吧",
+        "onboard_time": 1732964598,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367253,
+        "num": 331281,
+        "word": "肖战今年不打算参加跨年晚会",
+        "onboard_time": 1732958359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331009,
+        "num": 331009,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 318437,
+        "num": 318437,
+        "word": "元梦之星",
+        "onboard_time": 1732956798,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292473,
+        "num": 292473,
+        "word": "周密",
+        "onboard_time": 1732952837,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21092,
+        "num": 279467,
+        "word": "从小孩姐的视角打开好东西",
+        "onboard_time": 1732964841,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278093,
+        "num": 278093,
+        "word": "IVE最佳MV",
+        "onboard_time": 1732957758,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266924,
+        "num": 266924,
+        "word": "葛夕 一个大爹一个小爹",
+        "onboard_time": 1732959140,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61468,
+        "num": 234072,
+        "word": "一路繁花直播",
+        "onboard_time": 1732964899,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86310,
+        "num": 224278,
+        "word": "日本游客想体验中国高铁",
+        "onboard_time": 1732964240,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216632,
+        "num": 216632,
+        "word": "男子开车打掼蛋被查时系统催出牌",
+        "onboard_time": 1732959618,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258832,
+        "num": 216343,
+        "word": "玄彬孙艺珍近照",
+        "onboard_time": 1732964660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308453,
+        "num": 213647,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252256,
+        "num": 212715,
+        "word": "猎罪图鉴2 延期",
+        "onboard_time": 1732961778,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223407,
+        "num": 209629,
+        "word": "贺峻霖在张蔷头发里找张蔷",
+        "onboard_time": 1732965438,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74020,
+        "num": 207913,
+        "word": "一诺居居回忆杀",
+        "onboard_time": 1732965498,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459154,
+        "num": 206262,
+        "word": "你好星期六应援",
+        "onboard_time": 1732963279,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218511,
+        "num": 206081,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182270,
+        "num": 203448,
+        "word": "周雨彤拍的坦桑",
+        "onboard_time": 1732965079,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202608,
+        "num": 202608,
+        "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+        "onboard_time": 1732948337,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21812,
+        "num": 194679,
+        "word": "黄金能否继续创新高",
+        "onboard_time": 1732964899,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193510,
+        "num": 193510,
+        "word": "张元英开场",
+        "onboard_time": 1732957279,
+        "rank": 30,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 190844,
+        "num": 190844,
+        "word": "aespa获最佳女团",
+        "onboard_time": 1732960518,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184478,
+        "num": 184478,
+        "word": "黄圣依曾扮美人鱼为杨子庆生",
+        "onboard_time": 1732962498,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17933,
+        "num": 184291,
+        "word": "无限暖暖公测前瞻",
+        "onboard_time": 1732965079,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184282,
+        "num": 184282,
+        "word": "金莎焉栩嘉逛街被偶遇",
+        "onboard_time": 1732956977,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170835,
+        "num": 170835,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160526,
+        "num": 160526,
+        "word": "人民网评优衣库事件",
+        "onboard_time": 1732964539,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159085,
+        "num": 159085,
+        "word": "女子5年剖4胎宣布封肚",
+        "onboard_time": 1732957999,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157055,
+        "num": 157055,
+        "word": "肺炎支原体感染者耐药率增加",
+        "onboard_time": 1732958837,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154881,
+        "num": 154881,
+        "word": "沙特放弃与美国签署防务协议",
+        "onboard_time": 1732957999,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152509,
+        "num": 152509,
+        "word": "MMA红毯",
+        "onboard_time": 1732951878,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145002,
+        "num": 145002,
+        "word": "TheShy转iG重组微博",
+        "onboard_time": 1732958540,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142904,
+        "num": 142904,
+        "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+        "onboard_time": 1732957219,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140467,
+        "num": 140467,
+        "word": "大冰吃面好像一个打气筒",
+        "onboard_time": 1732962738,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98910,
+        "num": 136098,
+        "word": "越南将投入670亿美元修高铁",
+        "onboard_time": 1732963458,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134220,
+        "num": 134220,
+        "word": "贾斯汀比伯一家三口合照",
+        "onboard_time": 1732965378,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128868,
+        "num": 128868,
+        "word": "九重紫",
+        "onboard_time": 1732965438,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128416,
+        "num": 128416,
+        "word": "一句但悲不见九州同哭倒一片理科生",
+        "onboard_time": 1732952897,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128215,
+        "num": 128215,
+        "word": "月鳞绮纪",
+        "onboard_time": 1732963038,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126482,
+        "num": 126482,
+        "word": "因为偷东西吃练出了核心力量",
+        "onboard_time": 1732961598,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
+    }
+  }
+}
