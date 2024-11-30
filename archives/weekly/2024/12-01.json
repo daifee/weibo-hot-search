@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733001666957,
+  "endTime": 1733002552609,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -611,12 +611,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17480,
+      "raw_hot": 17719,
       "num": 27073,
       "word": "向佐 希望大家继续吓我支持我",
       "onboard_time": 1732998624,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16745,
+      "num": 36024,
+      "word": "耗资7亿欧元巴黎圣母院将重新开放",
+      "onboard_time": 1733000771,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16029,
@@ -635,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13444,
-      "num": 15239,
-      "word": "耗资7亿欧元巴黎圣母院将重新开放",
-      "onboard_time": 1733000771,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 11749,
       "num": 28689,
       "word": "易烊千玺网站更新",
       "onboard_time": 1732997412,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11631,
+      "num": 14140,
+      "word": "叙反对派武装称进入阿勒颇市中心地带",
+      "onboard_time": 1733002030,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10885,
@@ -667,10 +675,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6046,
+      "raw_hot": 7241,
       "num": 22745,
       "word": "刘耀文再发一条土豆的上班花絮",
       "onboard_time": 1733000950,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6355,
+      "num": 24982,
+      "word": "刘耀文发了一条上班花絮",
+      "onboard_time": 1733002391,
       "rank": 19,
       "category": "艺人"
     }
