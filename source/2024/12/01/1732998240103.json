@@ -1,0 +1,410 @@
+{
+  "runTime": 1732998240103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 191987,
+        "num": 191987,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188290,
+        "num": 188290,
+        "word": "杭州夫妻两人染色体竟相同",
+        "onboard_time": 1732983798,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8023,
+        "num": 121907,
+        "word": "微观链博会",
+        "onboard_time": 1732970779,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 105305,
+        "num": 105305,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51831,
+        "num": 51831,
+        "word": "驻日美军士兵酒后私闯民宅还大睡",
+        "onboard_time": 1732995131,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108560,
+        "num": 44755,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89183,
+        "num": 44742,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68145,
+        "num": 44428,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34972,
+        "num": 34972,
+        "word": "法国小伙准备将日军侵华照片捐赠中国",
+        "onboard_time": 1732991414,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10885,
+        "num": 34516,
+        "word": "目击者称被恶犬撕咬女子送医救治",
+        "onboard_time": 1732997532,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60215,
+        "num": 34488,
+        "word": "分手见人品",
+        "onboard_time": 1732975461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34372,
+        "num": 34372,
+        "word": "曹璐带韩国爱豆游成都vlog",
+        "onboard_time": 1732994951,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33808,
+        "num": 33808,
+        "word": "肖战 攻玉",
+        "onboard_time": 1732979540,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32791,
+        "num": 32791,
+        "word": "四川两大国企将重组",
+        "onboard_time": 1732986256,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31741,
+        "num": 31741,
+        "word": "永夜星河逆跌",
+        "onboard_time": 1732974799,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31238,
+        "num": 31238,
+        "word": "27岁上海交大博导让大家别焦虑",
+        "onboard_time": 1732978459,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30167,
+        "num": 30167,
+        "word": "胃病向胃癌转变的5个信号",
+        "onboard_time": 1732976841,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29712,
+        "num": 29712,
+        "word": "丈夫持斧击杀袭击妻子黑熊",
+        "onboard_time": 1732982239,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24366,
+        "num": 28995,
+        "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
+        "onboard_time": 1732980500,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11749,
+        "num": 28689,
+        "word": "易烊千玺网站更新",
+        "onboard_time": 1732997412,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31339,
+        "num": 28175,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30508,
+        "num": 27520,
+        "word": "新床单晒了一次变微信聊天背景图了",
+        "onboard_time": 1732977740,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26789,
+        "num": 26789,
+        "word": "gidle全员续约",
+        "onboard_time": 1732971079,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26367,
+        "num": 26367,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732972580,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24364,
+        "num": 24364,
+        "word": "我国首个商业航天发射场首发成功",
+        "onboard_time": 1732980980,
+        "rank": 24,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 23681,
+        "num": 23681,
+        "word": "4人靠云养牛骗了5个亿",
+        "onboard_time": 1732968259,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22489,
+        "num": 22489,
+        "word": "美团骑手月均收入5720至10865元",
+        "onboard_time": 1732983259,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22422,
+        "num": 22422,
+        "word": "日本正考虑推进简化中国公民赴日签证手续",
+        "onboard_time": 1732976240,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22148,
+        "num": 22148,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21869,
+        "num": 21869,
+        "word": "华晨宇 找灵魂伴侣这件事情很难",
+        "onboard_time": 1732980020,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20616,
+        "num": 20616,
+        "word": "张小斐 喜欢肢体接触是吧",
+        "onboard_time": 1732973179,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20578,
+        "num": 20578,
+        "word": "为什么说新疆棉是世界顶级",
+        "onboard_time": 1732993932,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20525,
+        "num": 20525,
+        "word": "李显龙称否定中国影响力是不明智的",
+        "onboard_time": 1732996330,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19898,
+        "num": 19898,
+        "word": "何秋亊墨宝",
+        "onboard_time": 1732979721,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 11536,
+        "num": 19881,
+        "word": "持棍喝退尾随女孩裸露男的司机发声",
+        "onboard_time": 1732990153,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19869,
+        "num": 19869,
+        "word": "好东西",
+        "onboard_time": 1732976660,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18794,
+        "num": 18794,
+        "word": "恋与制作人大婚",
+        "onboard_time": 1732970359,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18271,
+        "num": 18271,
+        "word": "郭敬明晒月鳞绮纪服装细节图",
+        "onboard_time": 1732997351,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18059,
+        "num": 18059,
+        "word": "年轻人得胃癌跟吃外卖有关系吗",
+        "onboard_time": 1732966698,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16799,
+        "num": 16799,
+        "word": "张林峰希望更多人因为科研成果认识他",
+        "onboard_time": 1732983618,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16597,
+        "num": 16597,
+        "word": "披荆斩棘的孙子",
+        "onboard_time": 1732981219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16276,
+        "num": 16276,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15689,
+        "num": 15689,
+        "word": "张元英和男伴舞双人芭蕾",
+        "onboard_time": 1732970839,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15449,
+        "num": 15449,
+        "word": "孙千体面",
+        "onboard_time": 1732979780,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14996,
+        "num": 15446,
+        "word": "12月十二星座注意事项",
+        "onboard_time": 1732974380,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14714,
+        "num": 15446,
+        "word": "范丞丞希望粉丝对工作室嘴下留情",
+        "onboard_time": 1732978522,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14404,
+        "num": 15442,
+        "word": "赵露思去看凤凰传奇演唱会了",
+        "onboard_time": 1732979001,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14302,
+        "num": 15436,
+        "word": "易烊千玺小网站发了粉丝的声音",
+        "onboard_time": 1732977561,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14219,
+        "num": 15434,
+        "word": "丁禹兮缝缝补补破破烂烂的剧本",
+        "onboard_time": 1732981939,
+        "rank": 48,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 13285,
+        "num": 15429,
+        "word": "内娱第一个能保护黄景瑜的男人",
+        "onboard_time": 1732974559,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须坚持守正创新#"
+    }
+  }
+}
