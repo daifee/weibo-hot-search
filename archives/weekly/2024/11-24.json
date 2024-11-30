@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732956151441,
+  "endTime": 1732958558948,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 1177007,
-      "num": 435765,
+      "num": 1167095,
       "word": "双轨 停拍",
       "onboard_time": 1732953559,
       "rank": 3,
@@ -1395,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 860332,
+      "num": 306922,
+      "word": "金莎焉栩嘉逛街被偶遇",
+      "onboard_time": 1732956977,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860243,
       "num": 690811,
       "word": "杨子开车窗",
@@ -1460,7 +1468,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 233865,
+      "num": 247028,
       "word": "中国籍男子承认涂鸦日本靖国神社",
       "onboard_time": 1732953677,
       "rank": 10,
@@ -1705,6 +1713,14 @@
       "onboard_time": 1732705579,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 785522,
+      "num": 294835,
+      "word": "陈赫回应鹿晗直播",
+      "onboard_time": 1732954698,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 785329,
@@ -2369,14 +2385,6 @@
       "onboard_time": 1732506379,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 653877,
-      "num": 223815,
-      "word": "陈赫回应鹿晗直播",
-      "onboard_time": 1732954698,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 651854,
@@ -3979,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424008,
+      "num": 246256,
+      "word": "IVE最佳MV",
+      "onboard_time": 1732957758,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 423092,
       "num": 423092,
       "word": "王楚钦混团抽签台下画画",
@@ -4193,6 +4209,14 @@
       "onboard_time": 1732420278,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 407784,
+      "num": 244599,
+      "word": "aespa全员黑裙",
+      "onboard_time": 1732955358,
+      "rank": 23,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 407251,
@@ -4787,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358688,
+      "num": 184566,
+      "word": "沈梦瑶与丝芭解约成功",
+      "onboard_time": 1732955418,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358446,
       "num": 253900,
       "word": "五点五个勤天",
@@ -5024,6 +5056,14 @@
       "word": "北方这些地方有暴雪",
       "onboard_time": 1732485911,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345355,
+      "num": 345355,
+      "word": "免签朋友圈一个月两次扩容",
+      "onboard_time": 1732954698,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -5467,6 +5507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313612,
+      "num": 174859,
+      "word": "张元英开场",
+      "onboard_time": 1732957279,
+      "rank": 25,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 313559,
       "num": 313559,
       "word": "丈夫住院取2.5万元被银行电话核实",
@@ -5504,6 +5552,14 @@
       "word": "男子出租屋内种大麻结婚当天被抓",
       "onboard_time": 1732412177,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312419,
+      "num": 312419,
+      "word": "一句但悲不见九州同哭倒一片理科生",
+      "onboard_time": 1732952897,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5785,6 +5841,14 @@
       "onboard_time": 1732588879,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295130,
+      "num": 240335,
+      "word": "微信朋友圈显示未能点赞",
+      "onboard_time": 1732957519,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 295083,
@@ -6481,14 +6545,6 @@
       "onboard_time": 1732706540,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258680,
-      "num": 138338,
-      "word": "aespa全员黑裙",
-      "onboard_time": 1732955358,
-      "rank": 23,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 258656,
@@ -7275,6 +7331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227377,
+      "num": 227377,
+      "word": "向佐地位又要降了",
+      "onboard_time": 1732956197,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227170,
       "num": 227170,
       "word": "微信群里的这种通知可能为木马病毒",
@@ -7304,14 +7368,6 @@
       "word": "一男子疑因吃驴打滚窒息身亡",
       "onboard_time": 1732887319,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226723,
-      "num": 226723,
-      "word": "一句但悲不见九州同哭倒一片理科生",
-      "onboard_time": 1732952897,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -8627,14 +8683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198550,
-      "num": 138594,
-      "word": "沈梦瑶与丝芭解约成功",
-      "onboard_time": 1732955418,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198535,
       "num": 198535,
       "word": "祝绪丹 虞书欣丁禹兮的cp保安",
@@ -9835,6 +9883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183750,
+      "num": 247795,
+      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+      "onboard_time": 1732957219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183652,
       "num": 183652,
       "word": "王楚钦总决赛三连冠",
@@ -10329,6 +10385,14 @@
       "onboard_time": 1732520838,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177116,
+      "num": 177116,
+      "word": "元梦之星",
+      "onboard_time": 1732768460,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 177063,
@@ -11169,6 +11233,14 @@
       "onboard_time": 1732806080,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164853,
+      "num": 164853,
+      "word": "国考人数创新高平均录取比86比1",
+      "onboard_time": 1732956977,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 164473,
@@ -12451,6 +12523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149162,
+      "num": 149162,
+      "word": "女子5年剖4胎宣布封肚",
+      "onboard_time": 1732957999,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148956,
       "num": 163426,
       "word": "黑神话悟空现身吉林雪场",
@@ -12891,14 +12971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143311,
-      "num": 143311,
-      "word": "元梦之星",
-      "onboard_time": 1732768460,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 143115,
       "num": 205459,
       "word": "国乒主力出发成都混团世界杯",
@@ -13227,6 +13299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139365,
+      "num": 139365,
+      "word": "沙特放弃与美国签署防务协议",
+      "onboard_time": 1732957999,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "谭松韵时隔三年又演古装",
@@ -13289,6 +13369,14 @@
       "onboard_time": 1732760176,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138668,
+      "num": 138668,
+      "word": "MMA直播",
+      "onboard_time": 1732952238,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 138557,
@@ -13577,6 +13665,14 @@
       "onboard_time": 1732784720,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135833,
+      "num": 135833,
+      "word": "白鹿唐制刺绣圆领袍路透",
+      "onboard_time": 1732958058,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 135822,
@@ -14089,14 +14185,6 @@
       "onboard_time": 1732847539,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130307,
-      "num": 130307,
-      "word": "免签朋友圈一个月两次扩容",
-      "onboard_time": 1732954698,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129821,
@@ -15411,6 +15499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118218,
+      "num": 118218,
+      "word": "国考公安",
+      "onboard_time": 1732956918,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118188,
       "num": 118188,
       "word": "魏晨音乐节vlog",
@@ -15457,14 +15553,6 @@
       "onboard_time": 1732945999,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117864,
-      "num": 117864,
-      "word": "MMA直播",
-      "onboard_time": 1732952238,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 117646,
@@ -17931,6 +18019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84973,
+      "num": 167880,
+      "word": "TheShy转iG重组微博",
+      "onboard_time": 1732958540,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84908,
       "num": 480507,
       "word": "全国冻手冻脚预警地图",
@@ -18441,6 +18537,14 @@
       "onboard_time": 1732842798,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 78016,
+      "num": 168544,
+      "word": "马龙回应粉丝喊话再打30年",
+      "onboard_time": 1732958179,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 77937,
@@ -20339,6 +20443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49606,
+      "num": 220720,
+      "word": "肖战今年不打算参加跨年晚会",
+      "onboard_time": 1732958359,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49547,
       "num": 508822,
       "word": "男子骑车撞供热管道身亡后续",
@@ -21409,6 +21521,14 @@
       "onboard_time": 1732602438,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38753,
+      "num": 242507,
+      "word": "生酮饮食饿死癌细胞是误导",
+      "onboard_time": 1732957397,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38693,
@@ -23160,6 +23280,14 @@
       "word": "控制野猪数量不能仅靠零打碎敲",
       "onboard_time": 1732534099,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24381,
+      "num": 136241,
+      "word": "香奈儿15年后中国首秀",
+      "onboard_time": 1732957158,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -25103,6 +25231,9 @@
     },
     {
       "word": "#推动党的创新理论更加深入人心#"
+    },
+    {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
     }
   ]
 }

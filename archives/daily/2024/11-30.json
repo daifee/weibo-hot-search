@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732956151441,
+  "endTime": 1732958558948,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1177007,
-      "num": 435765,
+      "num": 1167095,
       "word": "双轨 停拍",
       "onboard_time": 1732953559,
       "rank": 3,
@@ -123,8 +123,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 860332,
+      "num": 306922,
+      "word": "金莎焉栩嘉逛街被偶遇",
+      "onboard_time": 1732956977,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 844988,
-      "num": 233865,
+      "num": 247028,
       "word": "中国籍男子承认涂鸦日本靖国神社",
       "onboard_time": 1732953677,
       "rank": 10,
@@ -145,6 +153,14 @@
       "onboard_time": 1732932677,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 785522,
+      "num": 294835,
+      "word": "陈赫回应鹿晗直播",
+      "onboard_time": 1732954698,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 782464,
@@ -201,14 +217,6 @@
       "onboard_time": 1732931596,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 653877,
-      "num": 223815,
-      "word": "陈赫回应鹿晗直播",
-      "onboard_time": 1732954698,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 651854,
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424008,
+      "num": 246256,
+      "word": "IVE最佳MV",
+      "onboard_time": 1732957758,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 423092,
       "num": 423092,
       "word": "王楚钦混团抽签台下画画",
@@ -395,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 407784,
+      "num": 244599,
+      "word": "aespa全员黑裙",
+      "onboard_time": 1732955358,
+      "rank": 23,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 403132,
       "num": 403132,
       "word": "2025国考最热岗1.6万人挑一",
@@ -417,6 +441,14 @@
       "onboard_time": 1732948157,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358688,
+      "num": 184566,
+      "word": "沈梦瑶与丝芭解约成功",
+      "onboard_time": 1732955418,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 356423,
@@ -449,6 +481,14 @@
       "onboard_time": 1732951578,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 345355,
+      "num": 345355,
+      "word": "免签朋友圈一个月两次扩容",
+      "onboard_time": 1732954698,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333684,
@@ -515,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313612,
+      "num": 174859,
+      "word": "张元英开场",
+      "onboard_time": 1732957279,
+      "rank": 25,
+      "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 312419,
+      "num": 312419,
+      "word": "一句但悲不见九州同哭倒一片理科生",
+      "onboard_time": 1732952897,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306931,
       "num": 306931,
       "word": "鹿哈给鹿晗刷礼物成为榜一",
@@ -547,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295130,
+      "num": 240335,
+      "word": "微信朋友圈显示未能点赞",
+      "onboard_time": 1732957519,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291248,
       "num": 291248,
       "word": "葛夕闺蜜",
@@ -577,14 +641,6 @@
       "onboard_time": 1732942638,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258680,
-      "num": 138338,
-      "word": "aespa全员黑裙",
-      "onboard_time": 1732955358,
-      "rank": 23,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 251627,
@@ -627,12 +683,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 226723,
-      "num": 226723,
-      "word": "一句但悲不见九州同哭倒一片理科生",
-      "onboard_time": 1732952897,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 227377,
+      "num": 227377,
+      "word": "向佐地位又要降了",
+      "onboard_time": 1732956197,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 220288,
@@ -721,14 +777,6 @@
       "onboard_time": 1732939037,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198550,
-      "num": 138594,
-      "word": "沈梦瑶与丝芭解约成功",
-      "onboard_time": 1732955418,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 198435,
@@ -875,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183750,
+      "num": 247795,
+      "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+      "onboard_time": 1732957219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183591,
       "num": 183591,
       "word": "梁伟铿说和王昶天作之合所向披靡",
@@ -939,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177116,
+      "num": 177116,
+      "word": "元梦之星",
+      "onboard_time": 1732956798,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171910,
       "num": 171910,
       "word": "G2回应Uzi说和Ming复出",
@@ -993,6 +1057,14 @@
       "onboard_time": 1732934957,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 164853,
+      "num": 164853,
+      "word": "国考人数创新高平均录取比86比1",
+      "onboard_time": 1732956977,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 163838,
@@ -1107,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149162,
+      "num": 149162,
+      "word": "女子5年剖4胎宣布封肚",
+      "onboard_time": 1732957999,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148258,
       "num": 148258,
       "word": "刘耀文百花奖提名者采访",
@@ -1163,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139365,
+      "num": 139365,
+      "word": "沙特放弃与美国签署防务协议",
+      "onboard_time": 1732957999,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139348,
       "num": 139348,
       "word": "谭松韵时隔三年又演古装",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1732940419,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138668,
+      "num": 138668,
+      "word": "MMA直播",
+      "onboard_time": 1732952238,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 138100,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1732936938,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135833,
+      "num": 135833,
+      "word": "白鹿唐制刺绣圆领袍路透",
+      "onboard_time": 1732958058,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 135441,
@@ -1289,14 +1393,6 @@
       "onboard_time": 1732951097,
       "rank": 42,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 130307,
-      "num": 130307,
-      "word": "免签朋友圈一个月两次扩容",
-      "onboard_time": 1732954698,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129065,
@@ -1467,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118218,
+      "num": 118218,
+      "word": "国考公安",
+      "onboard_time": 1732956918,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118035,
       "num": 118035,
       "word": "imp谈老头杯选人规则",
@@ -1481,14 +1585,6 @@
       "onboard_time": 1732945999,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117864,
-      "num": 117864,
-      "word": "MMA直播",
-      "onboard_time": 1732952238,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 116354,
@@ -1819,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84973,
+      "num": 167880,
+      "word": "TheShy转iG重组微博",
+      "onboard_time": 1732958540,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82052,
       "num": 441077,
       "word": "放大看发现唐代名画五牛图细节拉满",
@@ -1881,6 +1985,14 @@
       "onboard_time": 1732934417,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 78016,
+      "num": 168544,
+      "word": "马龙回应粉丝喊话再打30年",
+      "onboard_time": 1732958179,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 77834,
@@ -2027,6 +2139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49606,
+      "num": 220720,
+      "word": "肖战今年不打算参加跨年晚会",
+      "onboard_time": 1732958359,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49224,
       "num": 241979,
       "word": "好东西票房破3亿",
@@ -2120,6 +2240,14 @@
       "word": "香奈儿屏风里的西湖",
       "onboard_time": 1732950198,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38753,
+      "num": 242507,
+      "word": "生酮饮食饿死癌细胞是误导",
+      "onboard_time": 1732957397,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2296,6 +2424,14 @@
       "word": "社恐i人在大山里找到向往的生活",
       "onboard_time": 1732939579,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24381,
+      "num": 136241,
+      "word": "香奈儿15年后中国首秀",
+      "onboard_time": 1732957158,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2545,6 +2681,9 @@
     },
     {
       "word": "#推动党的创新理论更加深入人心#"
+    },
+    {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
     }
   ]
 }
