@@ -1,10 +1,10 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732931190145,
+  "endTime": 1732932505097,
   "band_list": [
     {
-      "raw_hot": 1716718,
-      "num": 1716718,
+      "raw_hot": 1750064,
+      "num": 1750064,
       "word": "婚礼中途停电40分钟气哭新人爸妈",
       "onboard_time": 1732928777,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 970753,
+      "num": 342793,
+      "word": "周密周芯竹聊天记录",
+      "onboard_time": 1732901415,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 931389,
       "num": 931389,
       "word": "湖南台员工为麦琳发声",
@@ -41,14 +49,6 @@
       "onboard_time": 1732896859,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 896671,
-      "num": 246706,
-      "word": "周密周芯竹聊天记录",
-      "onboard_time": 1732901415,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 826811,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728227,
+      "num": 728227,
+      "word": "周密 刻板印象",
+      "onboard_time": 1732931897,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702408,
       "num": 702408,
       "word": "法考",
@@ -81,6 +89,14 @@
       "onboard_time": 1732889420,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 609093,
+      "num": 609093,
+      "word": "爷爷看中LV皮鞋柜姐配合孙女演戏砍价",
+      "onboard_time": 1732931596,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 597547,
@@ -121,6 +137,14 @@
       "onboard_time": 1732926676,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435177,
+      "num": 435177,
+      "word": "国考",
+      "onboard_time": 1732930877,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 431910,
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289884,
+      "num": 289884,
+      "word": "虞书欣丁禹兮 一个想靠一个想搂",
+      "onboard_time": 1732928896,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277978,
       "num": 158255,
       "word": "胃病变胃癌前一般有5个症状",
@@ -187,12 +219,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 274815,
-      "num": 274815,
-      "word": "虞书欣丁禹兮 一个想靠一个想搂",
-      "onboard_time": 1732928896,
-      "rank": 8,
-      "category": "作品衍生"
+      "raw_hot": 273295,
+      "num": 273295,
+      "word": "papi酱 是狗把他带大的吗",
+      "onboard_time": 1732931536,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 251627,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 194383,
-      "num": 151906,
+      "num": 157774,
       "word": "孙颖莎王楚钦奥运后首次搭档",
       "onboard_time": 1732896799,
       "rank": 26,
@@ -291,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182133,
+      "num": 247640,
+      "word": "有消费者认为优衣库不尊重中国市场",
+      "onboard_time": 1732930456,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181340,
       "num": 161914,
       "word": "解救女孩司机获永久免除挂靠管理费",
@@ -315,12 +355,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 167875,
-      "num": 167875,
-      "word": "国考",
-      "onboard_time": 1732930877,
-      "rank": 17,
-      "category": "教育"
+      "raw_hot": 168332,
+      "num": 168332,
+      "word": "武艺看到张碧晨的反应",
+      "onboard_time": 1732928836,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 163504,
@@ -331,28 +371,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 158649,
-      "num": 158649,
-      "word": "深圳男子花80元买彩票中2.25亿",
-      "onboard_time": 1732887980,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157322,
-      "num": 157322,
+      "raw_hot": 162775,
+      "num": 162775,
       "word": "中2.25亿巨奖彩民为即兴下注",
       "onboard_time": 1732920792,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156186,
-      "num": 156186,
-      "word": "武艺看到张碧晨的反应",
-      "onboard_time": 1732928836,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 158649,
+      "num": 158649,
+      "word": "深圳男子花80元买彩票中2.25亿",
+      "onboard_time": 1732887980,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154693,
@@ -417,6 +449,14 @@
       "onboard_time": 1732926257,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125252,
+      "num": 156926,
+      "word": "虞书欣声音好适合综艺旁白",
+      "onboard_time": 1732931596,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 123816,
@@ -515,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103812,
+      "num": 103812,
+      "word": "逐玉",
+      "onboard_time": 1732931777,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101366,
       "num": 101366,
       "word": "2024仅剩1个月",
@@ -595,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87025,
+      "num": 270561,
+      "word": "2025年度国考今日开考",
+      "onboard_time": 1732932017,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 86035,
       "num": 86035,
       "word": "周芯竹回复粉丝",
@@ -603,8 +659,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85699,
+      "num": 163138,
+      "word": "国乒最新赛前训练画面",
+      "onboard_time": 1732931238,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85596,
-      "num": 85596,
+      "num": 342868,
       "word": "加沙每晚都有孩子尖叫母亲哭泣",
       "onboard_time": 1732929917,
       "rank": 45,
@@ -675,14 +739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 61214,
-      "num": 247640,
-      "word": "有消费者认为优衣库不尊重中国市场",
-      "onboard_time": 1732930456,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55005,
       "num": 161863,
       "word": "中式美学一出场就惊艳了",
@@ -707,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50851,
+      "num": 165457,
+      "word": "2024成都混团世界杯抽签",
+      "onboard_time": 1732930336,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50818,
       "num": 50818,
       "word": "内娱中女终于上桌了",
@@ -716,7 +780,7 @@
     },
     {
       "raw_hot": 48433,
-      "num": 629056,
+      "num": 654205,
       "word": "12月这些新规影响你我",
       "onboard_time": 1732883959,
       "rank": 2,
