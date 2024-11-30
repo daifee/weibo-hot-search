@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732965555669,
+  "endTime": 1732966544784,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 553836,
+      "num": 589511,
       "word": "中国籍男子承认涂鸦日本靖国神社",
       "onboard_time": 1732953677,
       "rank": 10,
@@ -257,6 +257,14 @@
       "onboard_time": 1732889179,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 595997,
+      "num": 316270,
+      "word": "玄彬孙艺珍近照",
+      "onboard_time": 1732964660,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 589273,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 436431,
-      "num": 358941,
+      "num": 374966,
       "word": "我是刑警 敢拍",
       "onboard_time": 1732963939,
       "rank": 6,
@@ -451,6 +459,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 418733,
+      "num": 418733,
+      "word": "吴谨言12月暂无公开行程",
+      "onboard_time": 1732964298,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415597,
       "num": 226353,
       "word": "MMA红毯",
@@ -481,6 +497,14 @@
       "onboard_time": 1732933097,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375742,
+      "num": 375742,
+      "word": "日本超330家自来水企业检出永久性化学物质",
+      "onboard_time": 1732962318,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 375643,
@@ -531,14 +555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 345955,
-      "num": 345955,
-      "word": "日本超330家自来水企业检出永久性化学物质",
-      "onboard_time": 1732962318,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 345355,
       "num": 345355,
       "word": "免签朋友圈一个月两次扩容",
@@ -547,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336611,
-      "num": 336611,
-      "word": "吴谨言12月暂无公开行程",
-      "onboard_time": 1732964298,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 336922,
+      "num": 269994,
+      "word": "怀上九胞胎女子减7胎后出院",
+      "onboard_time": 1732963879,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333684,
@@ -659,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308453,
-      "num": 213647,
-      "word": "怀上九胞胎女子减7胎后出院",
-      "onboard_time": 1732963879,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306931,
       "num": 306931,
       "word": "鹿哈给鹿晗刷礼物成为榜一",
@@ -723,6 +731,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286621,
+      "num": 331457,
+      "word": "杜甫是唐代纪录片导演吧",
+      "onboard_time": 1732964598,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282405,
+      "num": 320820,
+      "word": "杜甫写诗像在发朋友圈",
+      "onboard_time": 1732965679,
+      "rank": 8,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 277978,
       "num": 158255,
       "word": "胃病变胃癌前一般有5个症状",
@@ -763,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258832,
-      "num": 216343,
-      "word": "玄彬孙艺珍近照",
-      "onboard_time": 1732964660,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 256594,
+      "num": 256594,
+      "word": "贺峻霖在张蔷头发里找张蔷",
+      "onboard_time": 1732965438,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 251627,
@@ -795,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248734,
+      "num": 274517,
+      "word": "员工已读不回领导身份不是爆粗口理由",
+      "onboard_time": 1732965679,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245596,
       "num": 233267,
       "word": "乒羽混双大魔王绝版了",
@@ -819,19 +851,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 237370,
+      "num": 317606,
+      "word": "人民网评优衣库事件",
+      "onboard_time": 1732964539,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227377,
       "num": 227377,
       "word": "向佐地位又要降了",
       "onboard_time": 1732956197,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223407,
-      "num": 209629,
-      "word": "贺峻霖在张蔷头发里找张蔷",
-      "onboard_time": 1732965438,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -881,14 +913,6 @@
       "onboard_time": 1732937957,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211622,
-      "num": 331457,
-      "word": "杜甫是唐代纪录片导演吧",
-      "onboard_time": 1732964598,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211204,
@@ -945,6 +969,14 @@
       "onboard_time": 1732941018,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201227,
+      "num": 272211,
+      "word": "linglingkwong",
+      "onboard_time": 1732965918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 200008,
@@ -1027,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189515,
+      "num": 189515,
+      "word": "越南将投入670亿美元修高铁",
+      "onboard_time": 1732963458,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188336,
       "num": 188336,
       "word": "黄景瑜 一起许愿一切都好",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1732932017,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184753,
+      "num": 184753,
+      "word": "贾斯汀比伯一家三口合照",
+      "onboard_time": 1732965378,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 184478,
@@ -1243,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165605,
+      "num": 165605,
+      "word": "九重紫",
+      "onboard_time": 1732965438,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165579,
       "num": 165579,
       "word": "名侦探柯南独眼的残像",
@@ -1289,14 +1345,6 @@
       "onboard_time": 1732948098,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160526,
-      "num": 160526,
-      "word": "人民网评优衣库事件",
-      "onboard_time": 1732964539,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158649,
@@ -1411,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147062,
+      "num": 147062,
+      "word": "斗罗大陆动画七周年",
+      "onboard_time": 1732965799,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146703,
       "num": 146703,
       "word": "第五人格",
@@ -1427,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144051,
+      "num": 144051,
+      "word": "TWS舞台跳绳",
+      "onboard_time": 1732966158,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143970,
       "num": 143970,
       "word": "宋亚轩把头发甩炸毛了",
@@ -1435,12 +1499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142527,
+      "num": 142527,
+      "word": "月鳞绮纪",
+      "onboard_time": 1732963038,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142370,
       "num": 142370,
       "word": "夏之光说自己的身高全靠鞋",
       "onboard_time": 1732944680,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141696,
+      "num": 234072,
+      "word": "一路繁花直播",
+      "onboard_time": 1732964899,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 141408,
@@ -1587,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134971,
+      "num": 134971,
+      "word": "黑泽良平祝林志玲生日快乐",
+      "onboard_time": 1732963398,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134715,
       "num": 134715,
       "word": "叶舒华深V长裙",
@@ -1609,14 +1697,6 @@
       "onboard_time": 1732938318,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134220,
-      "num": 134220,
-      "word": "贾斯汀比伯一家三口合照",
-      "onboard_time": 1732965378,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 133520,
@@ -1651,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "中国女排超级联赛",
+      "onboard_time": 1732966219,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131590,
       "num": 235238,
       "word": "击剑运动员秦雪转型网红被指擦边",
@@ -1667,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128868,
-      "num": 128868,
-      "word": "九重紫",
-      "onboard_time": 1732965438,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128626,
       "num": 128626,
       "word": "李昀锐说孟子义怎样都好看",
@@ -1689,14 +1769,6 @@
       "onboard_time": 1732929497,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128215,
-      "num": 128215,
-      "word": "月鳞绮纪",
-      "onboard_time": 1732963038,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 128119,
@@ -2083,14 +2155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98910,
-      "num": 136098,
-      "word": "越南将投入670亿美元修高铁",
-      "onboard_time": 1732963458,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98854,
       "num": 98854,
       "word": "柯南2025剧场版手绘海报",
@@ -2209,6 +2273,14 @@
       "onboard_time": 1732964240,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86047,
+      "num": 183791,
+      "word": "iG主场疑似落地上海",
+      "onboard_time": 1732966518,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 86035,
@@ -2433,14 +2505,6 @@
       "onboard_time": 1732938917,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 61468,
-      "num": 234072,
-      "word": "一路繁花直播",
-      "onboard_time": 1732964899,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 55296,
@@ -2763,6 +2827,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 29405,
+      "num": 279467,
+      "word": "从小孩姐的视角打开好东西",
+      "onboard_time": 1732964841,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29048,
       "num": 95860,
       "word": "黄牛1分钟网上挂号200次",
@@ -2787,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26093,
+      "num": 270706,
+      "word": "马拉松引爆奖牌生意",
+      "onboard_time": 1732965619,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 25833,
       "num": 82932,
       "word": "宋亚轩滑沙vlog",
@@ -2803,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24665,
+      "num": 272947,
+      "word": "太阳星辰大结局",
+      "onboard_time": 1732964298,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24381,
       "num": 175920,
       "word": "香奈儿15年后中国首秀",
@@ -2817,6 +2905,14 @@
       "onboard_time": 1732902314,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23859,
+      "num": 194679,
+      "word": "黄金能否继续创新高",
+      "onboard_time": 1732964899,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 23293,
@@ -2875,14 +2971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21812,
-      "num": 194679,
-      "word": "黄金能否继续创新高",
-      "onboard_time": 1732964899,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 21603,
       "num": 322779,
       "word": "蜀锦人家今日开播",
@@ -2905,14 +2993,6 @@
       "onboard_time": 1732908192,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21092,
-      "num": 279467,
-      "word": "从小孩姐的视角打开好东西",
-      "onboard_time": 1732964841,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 21043,

@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732965555669,
+  "endTime": 1732966544784,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -8148,7 +8148,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 553836,
+      "num": 589511,
       "word": "中国籍男子承认涂鸦日本靖国神社",
       "onboard_time": 1732953677,
       "rank": 10,
@@ -13905,6 +13905,14 @@
       "onboard_time": 1730980822,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595997,
+      "num": 316270,
+      "word": "玄彬孙艺珍近照",
+      "onboard_time": 1732964660,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 595878,
@@ -19716,7 +19724,7 @@
     },
     {
       "raw_hot": 436431,
-      "num": 358941,
+      "num": 374966,
       "word": "我是刑警 敢拍",
       "onboard_time": 1732963939,
       "rank": 6,
@@ -20513,6 +20521,14 @@
       "onboard_time": 1732013299,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 418733,
+      "num": 418733,
+      "word": "吴谨言12月暂无公开行程",
+      "onboard_time": 1732964298,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 418578,
@@ -22867,6 +22883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375742,
+      "num": 375742,
+      "word": "日本超330家自来水企业检出永久性化学物质",
+      "onboard_time": 1732962318,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 375687,
       "num": 375687,
       "word": "潘展乐等11位奥运冠军抵达新疆",
@@ -24507,14 +24531,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 345955,
-      "num": 345955,
-      "word": "日本超330家自来水企业检出永久性化学物质",
-      "onboard_time": 1732962318,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 345885,
       "num": 429472,
       "word": "林一把和沈月的合照藏了三年",
@@ -25091,6 +25107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336922,
+      "num": 269994,
+      "word": "怀上九胞胎女子减7胎后出院",
+      "onboard_time": 1732963879,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336734,
       "num": 336734,
       "word": "樊振东 阿玛尼",
@@ -25105,14 +25129,6 @@
       "onboard_time": 1731338300,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336611,
-      "num": 336611,
-      "word": "吴谨言12月暂无公开行程",
-      "onboard_time": 1732964298,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 336584,
@@ -27027,14 +27043,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 308453,
-      "num": 213647,
-      "word": "怀上九胞胎女子减7胎后出院",
-      "onboard_time": 1732963879,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308342,
       "num": 361243,
       "word": "金宇硕和女友拍人生四格",
@@ -28691,6 +28699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286621,
+      "num": 331457,
+      "word": "杜甫是唐代纪录片导演吧",
+      "onboard_time": 1732964598,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286552,
       "num": 286552,
       "word": "吴梦知从湖南卫视离职",
@@ -29049,6 +29065,14 @@
       "onboard_time": 1732271298,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282405,
+      "num": 320820,
+      "word": "杜甫写诗像在发朋友圈",
+      "onboard_time": 1732965679,
+      "rank": 8,
+      "category": "读书作家"
     },
     {
       "raw_hot": 282151,
@@ -31403,14 +31427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258832,
-      "num": 216343,
-      "word": "玄彬孙艺珍近照",
-      "onboard_time": 1732964660,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258826,
       "num": 352259,
       "word": "周洁琼说吴姗姗再也不憋屈了",
@@ -31649,6 +31665,14 @@
       "onboard_time": 1732498878,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256594,
+      "num": 256594,
+      "word": "贺峻霖在张蔷头发里找张蔷",
+      "onboard_time": 1732965438,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 256552,
@@ -32545,6 +32569,14 @@
       "onboard_time": 1732535299,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248734,
+      "num": 274517,
+      "word": "员工已读不回领导身份不是爆粗口理由",
+      "onboard_time": 1732965679,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248702,
@@ -33865,6 +33897,14 @@
       "onboard_time": 1732111821,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237370,
+      "num": 317606,
+      "word": "人民网评优衣库事件",
+      "onboard_time": 1732964539,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237334,
@@ -35657,14 +35697,6 @@
       "onboard_time": 1732412538,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223407,
-      "num": 209629,
-      "word": "贺峻霖在张蔷头发里找张蔷",
-      "onboard_time": 1732965438,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 223402,
@@ -37777,14 +37809,6 @@
       "onboard_time": 1730675596,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211622,
-      "num": 331457,
-      "word": "杜甫是唐代纪录片导演吧",
-      "onboard_time": 1732964598,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211604,
@@ -40601,6 +40625,14 @@
       "onboard_time": 1732144936,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201227,
+      "num": 272211,
+      "word": "linglingkwong",
+      "onboard_time": 1732965918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 201202,
@@ -44611,6 +44643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189515,
+      "num": 189515,
+      "word": "越南将投入670亿美元修高铁",
+      "onboard_time": 1732963458,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189508,
       "num": 566273,
       "word": "害怕接电话其实是种社交焦虑",
@@ -46081,6 +46121,14 @@
       "onboard_time": 1732253660,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184753,
+      "num": 184753,
+      "word": "贾斯汀比伯一家三口合照",
+      "onboard_time": 1732965378,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 184749,
@@ -51907,6 +51955,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 165605,
+      "num": 165605,
+      "word": "九重紫",
+      "onboard_time": 1732965438,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165595,
       "num": 165595,
       "word": "美国历史上最贵选举",
@@ -53737,14 +53793,6 @@
       "onboard_time": 1732702458,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160526,
-      "num": 160526,
-      "word": "人民网评优衣库事件",
-      "onboard_time": 1732964539,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160483,
@@ -58603,6 +58651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147062,
+      "num": 147062,
+      "word": "斗罗大陆动画七周年",
+      "onboard_time": 1732965799,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147046,
       "num": 147046,
       "word": "这居然是同一天的何洁",
@@ -59491,6 +59547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144051,
+      "num": 144051,
+      "word": "TWS舞台跳绳",
+      "onboard_time": 1732966158,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144015,
       "num": 144015,
       "word": "大米和牛肉咱都放心吃",
@@ -59963,6 +60027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142527,
+      "num": 142527,
+      "word": "月鳞绮纪",
+      "onboard_time": 1732963038,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142512,
       "num": 142512,
       "word": "TXT in了",
@@ -60233,6 +60305,14 @@
       "onboard_time": 1731562041,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141696,
+      "num": 234072,
+      "word": "一路繁花直播",
+      "onboard_time": 1732964899,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 141695,
@@ -62651,6 +62731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134971,
+      "num": 134971,
+      "word": "黑泽良平祝林志玲生日快乐",
+      "onboard_time": 1732963398,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134927,
       "num": 134927,
       "word": "恩佐",
@@ -62929,14 +63017,6 @@
       "onboard_time": 1732199121,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134220,
-      "num": 134220,
-      "word": "贾斯汀比伯一家三口合照",
-      "onboard_time": 1732965378,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 134193,
@@ -63633,6 +63713,14 @@
       "onboard_time": 1731495440,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "中国女排超级联赛",
+      "onboard_time": 1732966219,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131961,
@@ -64547,14 +64635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128868,
-      "num": 128868,
-      "word": "九重紫",
-      "onboard_time": 1732965438,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128854,
       "num": 128854,
       "word": "俄方人员在苏35战机下喝啤酒",
@@ -64817,14 +64897,6 @@
       "onboard_time": 1732071978,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128215,
-      "num": 128215,
-      "word": "月鳞绮纪",
-      "onboard_time": 1732963038,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 128214,
@@ -73635,14 +73707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98910,
-      "num": 136098,
-      "word": "越南将投入670亿美元修高铁",
-      "onboard_time": 1732963458,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98891,
       "num": 303278,
       "word": "喻言空降超话",
@@ -76289,6 +76353,14 @@
       "onboard_time": 1730417477,
       "rank": 38,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 86047,
+      "num": 183791,
+      "word": "iG主场疑似落地上海",
+      "onboard_time": 1732966518,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 86018,
@@ -81865,14 +81937,6 @@
       "onboard_time": 1731402322,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61468,
-      "num": 234072,
-      "word": "一路繁花直播",
-      "onboard_time": 1732964899,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 61456,
@@ -94067,6 +94131,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 29405,
+      "num": 279467,
+      "word": "从小孩姐的视角打开好东西",
+      "onboard_time": 1732964841,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29381,
       "num": 508520,
       "word": "削球为何难打",
@@ -95739,6 +95811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26093,
+      "num": 270706,
+      "word": "马拉松引爆奖牌生意",
+      "onboard_time": 1732965619,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26060,
       "num": 317906,
       "word": "希望质疑学校的学生不会被区别对待",
@@ -96387,6 +96467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24665,
+      "num": 272947,
+      "word": "太阳星辰大结局",
+      "onboard_time": 1732964298,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24661,
       "num": 341797,
       "word": "为弟追凶案受害人曾借米给凶手吃",
@@ -96881,6 +96969,14 @@
       "onboard_time": 1731924679,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23859,
+      "num": 194679,
+      "word": "黄金能否继续创新高",
+      "onboard_time": 1732964899,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 23857,
@@ -97923,14 +98019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21812,
-      "num": 194679,
-      "word": "黄金能否继续创新高",
-      "onboard_time": 1732964899,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 21806,
       "num": 464583,
       "word": "为弟弟追凶27年案当事人细述过往",
@@ -98345,14 +98433,6 @@
       "onboard_time": 1732908192,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21092,
-      "num": 279467,
-      "word": "从小孩姐的视角打开好东西",
-      "onboard_time": 1732964841,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 21073,

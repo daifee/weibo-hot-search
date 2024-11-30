@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732965555669,
+  "endTime": 1732966544784,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -1468,7 +1468,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 553836,
+      "num": 589511,
       "word": "中国籍男子承认涂鸦日本靖国神社",
       "onboard_time": 1732953677,
       "rank": 10,
@@ -2723,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595997,
+      "num": 316270,
+      "word": "玄彬孙艺珍近照",
+      "onboard_time": 1732964660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592976,
       "num": 592976,
       "word": "阿米尔汗买下因果报应版权",
@@ -3916,7 +3924,7 @@
     },
     {
       "raw_hot": 436431,
-      "num": 358941,
+      "num": 374966,
       "word": "我是刑警 敢拍",
       "onboard_time": 1732963939,
       "rank": 6,
@@ -4097,6 +4105,14 @@
       "onboard_time": 1732768160,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418733,
+      "num": 418733,
+      "word": "吴谨言12月暂无公开行程",
+      "onboard_time": 1732964298,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 418578,
@@ -4611,6 +4627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375742,
+      "num": 375742,
+      "word": "日本超330家自来水企业检出永久性化学物质",
+      "onboard_time": 1732962318,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 375687,
       "num": 375687,
       "word": "潘展乐等11位奥运冠军抵达新疆",
@@ -5099,14 +5123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 345955,
-      "num": 345955,
-      "word": "日本超330家自来水企业检出永久性化学物质",
-      "onboard_time": 1732962318,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 345882,
       "num": 345882,
       "word": "北方这些地方有暴雪",
@@ -5195,12 +5211,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 336611,
-      "num": 336611,
-      "word": "吴谨言12月暂无公开行程",
-      "onboard_time": 1732964298,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 336922,
+      "num": 269994,
+      "word": "怀上九胞胎女子减7胎后出院",
+      "onboard_time": 1732963879,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334690,
@@ -5723,14 +5739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308453,
-      "num": 213647,
-      "word": "怀上九胞胎女子减7胎后出院",
-      "onboard_time": 1732963879,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306733,
       "num": 306733,
       "word": "沙特放弃与美国签署防务协议",
@@ -6099,6 +6107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286621,
+      "num": 331457,
+      "word": "杜甫是唐代纪录片导演吧",
+      "onboard_time": 1732964598,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285205,
       "num": 285205,
       "word": "羊毛月粉丝掉破800万",
@@ -6145,6 +6161,14 @@
       "onboard_time": 1732538060,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282405,
+      "num": 320820,
+      "word": "杜甫写诗像在发朋友圈",
+      "onboard_time": 1732965679,
+      "rank": 8,
+      "category": "读书作家"
     },
     {
       "raw_hot": 281195,
@@ -6651,14 +6675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258832,
-      "num": 216343,
-      "word": "玄彬孙艺珍近照",
-      "onboard_time": 1732964660,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258805,
       "num": 311652,
       "word": "山东将延长婚假至15天",
@@ -6713,6 +6729,14 @@
       "onboard_time": 1732498878,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256594,
+      "num": 256594,
+      "word": "贺峻霖在张蔷头发里找张蔷",
+      "onboard_time": 1732965438,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 256303,
@@ -6913,6 +6937,14 @@
       "onboard_time": 1732535299,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248734,
+      "num": 274517,
+      "word": "员工已读不回领导身份不是爆粗口理由",
+      "onboard_time": 1732965679,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248442,
@@ -7224,6 +7256,14 @@
       "word": "大连失联船舶已找到",
       "onboard_time": 1732649830,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237370,
+      "num": 317606,
+      "word": "人民网评优衣库事件",
+      "onboard_time": 1732964539,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -7633,14 +7673,6 @@
       "onboard_time": 1732412538,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223407,
-      "num": 209629,
-      "word": "贺峻霖在张蔷头发里找张蔷",
-      "onboard_time": 1732965438,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 223402,
@@ -8145,14 +8177,6 @@
       "onboard_time": 1732438820,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211622,
-      "num": 331457,
-      "word": "杜甫是唐代纪录片导演吧",
-      "onboard_time": 1732964598,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211337,
@@ -8689,6 +8713,14 @@
       "onboard_time": 1732691479,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201227,
+      "num": 272211,
+      "word": "linglingkwong",
+      "onboard_time": 1732965918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 201032,
@@ -9635,6 +9667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189515,
+      "num": 189515,
+      "word": "越南将投入670亿美元修高铁",
+      "onboard_time": 1732963458,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189369,
       "num": 189369,
       "word": "许昕说王楚钦比赛结束的有点快",
@@ -10001,6 +10041,14 @@
       "onboard_time": 1732683320,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184753,
+      "num": 184753,
+      "word": "贾斯汀比伯一家三口合照",
+      "onboard_time": 1732965378,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 184671,
@@ -11363,6 +11411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165605,
+      "num": 165605,
+      "word": "九重紫",
+      "onboard_time": 1732965438,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165586,
       "num": 140425,
       "word": "Uzi说和ming复出去G2",
@@ -11825,14 +11881,6 @@
       "onboard_time": 1732702458,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160526,
-      "num": 160526,
-      "word": "人民网评优衣库事件",
-      "onboard_time": 1732964539,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160466,
@@ -12931,6 +12979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147062,
+      "num": 147062,
+      "word": "斗罗大陆动画七周年",
+      "onboard_time": 1732965799,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147026,
       "num": 147026,
       "word": "宋慧乔泰媒生图",
@@ -13115,6 +13171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144051,
+      "num": 144051,
+      "word": "TWS舞台跳绳",
+      "onboard_time": 1732966158,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143970,
       "num": 143970,
       "word": "宋亚轩把头发甩炸毛了",
@@ -13243,6 +13307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142527,
+      "num": 142527,
+      "word": "月鳞绮纪",
+      "onboard_time": 1732963038,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142390,
       "num": 142390,
       "word": "古偶剧取景为何越来越雷同",
@@ -13288,6 +13360,14 @@
       "word": "清明上河图密码诡案预告",
       "onboard_time": 1732676298,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141696,
+      "num": 234072,
+      "word": "一路繁花直播",
+      "onboard_time": 1732964899,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -14003,6 +14083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134971,
+      "num": 134971,
+      "word": "黑泽良平祝林志玲生日快乐",
+      "onboard_time": 1732963398,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134889,
       "num": 134889,
       "word": "回顾前十批在韩志愿军烈士遗骸归乡路",
@@ -14113,14 +14201,6 @@
       "onboard_time": 1732879038,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 134220,
-      "num": 134220,
-      "word": "贾斯汀比伯一家三口合照",
-      "onboard_time": 1732965378,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 134107,
@@ -14321,6 +14401,14 @@
       "onboard_time": 1732776977,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "中国女排超级联赛",
+      "onboard_time": 1732966219,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131940,
@@ -14531,14 +14619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128868,
-      "num": 128868,
-      "word": "九重紫",
-      "onboard_time": 1732965438,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128843,
       "num": 265108,
       "word": "周笔畅李宇春再聚首",
@@ -14641,14 +14721,6 @@
       "onboard_time": 1732458261,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128215,
-      "num": 128215,
-      "word": "月鳞绮纪",
-      "onboard_time": 1732963038,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 128214,
@@ -17435,14 +17507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 98910,
-      "num": 136098,
-      "word": "越南将投入670亿美元修高铁",
-      "onboard_time": 1732963458,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98891,
       "num": 303278,
       "word": "喻言空降超话",
@@ -18257,6 +18321,14 @@
       "onboard_time": 1732425018,
       "rank": 9,
       "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 86047,
+      "num": 183791,
+      "word": "iG主场疑似落地上海",
+      "onboard_time": 1732966518,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 85973,
@@ -19865,14 +19937,6 @@
       "onboard_time": 1732402152,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61468,
-      "num": 234072,
-      "word": "一路繁花直播",
-      "onboard_time": 1732964899,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 61272,
@@ -23019,6 +23083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29405,
+      "num": 279467,
+      "word": "从小孩姐的视角打开好东西",
+      "onboard_time": 1732964841,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29329,
       "num": 344953,
       "word": "叶嘉莹吟咏人生",
@@ -23443,6 +23515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26093,
+      "num": 270706,
+      "word": "马拉松引爆奖牌生意",
+      "onboard_time": 1732965619,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26040,
       "num": 245634,
       "word": "五问超声诊断设备销售乱象",
@@ -23627,6 +23707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24665,
+      "num": 272947,
+      "word": "太阳星辰大结局",
+      "onboard_time": 1732964298,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24654,
       "num": 58724,
       "word": "鹭卓听着船开启丰收",
@@ -23761,6 +23849,14 @@
       "onboard_time": 1732388231,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23859,
+      "num": 194679,
+      "word": "黄金能否继续创新高",
+      "onboard_time": 1732964899,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 23845,
@@ -23995,14 +24091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21812,
-      "num": 194679,
-      "word": "黄金能否继续创新高",
-      "onboard_time": 1732964899,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 21661,
       "num": 282163,
       "word": "雷公称人贩子王浩文卷宗高达2.5米",
@@ -24097,14 +24185,6 @@
       "onboard_time": 1732908192,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21092,
-      "num": 279467,
-      "word": "从小孩姐的视角打开好东西",
-      "onboard_time": 1732964841,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 21058,
