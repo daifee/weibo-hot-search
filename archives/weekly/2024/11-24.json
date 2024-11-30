@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732971471800,
+  "endTime": 1732973252756,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -25,6 +25,22 @@
       "onboard_time": 1732796839,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3328175,
+      "num": 3328175,
+      "word": "周密晒转账记录",
+      "onboard_time": 1732970719,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3160443,
+      "num": 356756,
+      "word": "周密发歌diss周芯竹",
+      "onboard_time": 1732972639,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 3077197,
@@ -369,6 +385,14 @@
       "onboard_time": 1732695438,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1616600,
+      "num": 389174,
+      "word": "gidle全员续约",
+      "onboard_time": 1732971079,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1598274,
@@ -2035,14 +2059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 719128,
-      "num": 393032,
-      "word": "周密晒转账记录",
-      "onboard_time": 1732970719,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 719105,
       "num": 719105,
       "word": "新疆棉花不容优衣库玷污",
@@ -2313,14 +2329,6 @@
       "onboard_time": 1732732511,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 674228,
-      "num": 389174,
-      "word": "gidle全员续约",
-      "onboard_time": 1732971079,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 673771,
@@ -3939,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442521,
+      "num": 442521,
+      "word": "恋与制作人大婚",
+      "onboard_time": 1732970359,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 442511,
       "num": 372131,
       "word": "高泽宇丸子订婚",
@@ -4177,6 +4193,14 @@
       "onboard_time": 1732768160,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418750,
+      "num": 287363,
+      "word": "张元英和男伴舞双人芭蕾",
+      "onboard_time": 1732970839,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 418733,
@@ -4827,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368494,
+      "num": 368494,
+      "word": "4人靠云养牛骗了5个亿",
+      "onboard_time": 1732968259,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 368399,
       "num": 368399,
       "word": "成都地铁",
@@ -4931,14 +4963,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 363378,
-      "num": 363378,
-      "word": "恋与制作人大婚",
-      "onboard_time": 1732970359,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 363344,
       "num": 363344,
       "word": "丁禹兮谈工作不带助理",
@@ -5033,6 +5057,14 @@
       "onboard_time": 1732669279,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 354339,
+      "num": 285070,
+      "word": "王菲去看窦靖童演唱会了",
+      "onboard_time": 1732971560,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 354070,
@@ -5673,6 +5705,14 @@
       "onboard_time": 1732495580,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315627,
+      "num": 279220,
+      "word": "aespa横扫MMA三项大赏",
+      "onboard_time": 1732972699,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 315030,
@@ -6419,6 +6459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276154,
+      "num": 330787,
+      "word": "杭州首套房贷利率上调至3.1%",
+      "onboard_time": 1732967598,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 275823,
       "num": 275823,
       "word": "孕妇坠崖案当事人谈男子推妻坠海骗保",
@@ -6593,14 +6641,6 @@
       "onboard_time": 1732581078,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 265177,
-      "num": 330787,
-      "word": "杭州首套房贷利率上调至3.1%",
-      "onboard_time": 1732967598,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 265089,
@@ -6905,14 +6945,6 @@
       "onboard_time": 1732490056,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254015,
-      "num": 254015,
-      "word": "张元英和男伴舞双人芭蕾",
-      "onboard_time": 1732970839,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 253912,
@@ -7377,14 +7409,6 @@
       "onboard_time": 1732845498,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238066,
-      "num": 238066,
-      "word": "4人靠云养牛骗了5个亿",
-      "onboard_time": 1732968259,
-      "rank": 21,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 237844,
@@ -7881,6 +7905,14 @@
       "onboard_time": 1732448539,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222343,
+      "num": 211304,
+      "word": "宋雨琦 雅典女神",
+      "onboard_time": 1732971319,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 222247,
@@ -9739,6 +9771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 190371,
+      "num": 190371,
+      "word": "IU获最佳女solo奖",
+      "onboard_time": 1732973120,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190262,
       "num": 279977,
       "word": "李昊在声生不息推广十个勤天",
@@ -11537,6 +11577,14 @@
       "onboard_time": 1732540160,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166150,
+      "num": 212424,
+      "word": "iG冠军四人组疑似入股iG",
+      "onboard_time": 1732971498,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 166146,
@@ -13555,6 +13603,22 @@
       "category": "国内时政,正能量"
     },
     {
+      "raw_hot": 141582,
+      "num": 141582,
+      "word": "只有师范生才懂她有多强",
+      "onboard_time": 1732967299,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141511,
+      "num": 141511,
+      "word": "田小娟说gidle全员续约",
+      "onboard_time": 1732973120,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141472,
       "num": 141472,
       "word": "威神V海底捞联名",
@@ -13595,6 +13659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141123,
+      "num": 296519,
+      "word": "你能接受退役运动员的多元形象吗",
+      "onboard_time": 1732971260,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141086,
       "num": 141086,
       "word": "白鹿绿衣路透",
@@ -13617,14 +13689,6 @@
       "onboard_time": 1732627578,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140903,
-      "num": 140903,
-      "word": "只有师范生才懂她有多强",
-      "onboard_time": 1732967299,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 140817,
@@ -14403,6 +14467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 134043,
+      "num": 106069,
+      "word": "张小斐 喜欢肢体接触是吧",
+      "onboard_time": 1732973179,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133903,
       "num": 133903,
       "word": "特斯拉限时优惠1万元",
@@ -14505,6 +14577,14 @@
       "onboard_time": 1732531339,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132587,
+      "num": 211825,
+      "word": "马龙说没想到乒乓球在台湾这么火",
+      "onboard_time": 1732971920,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 132578,
@@ -16771,6 +16851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112196,
+      "num": 106478,
+      "word": "刘耀文上班花絮",
+      "onboard_time": 1732973001,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112078,
       "num": 413934,
       "word": "罗云熙剥茧路透",
@@ -17179,14 +17267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107321,
-      "num": 107321,
-      "word": "宋雨琦 雅典女神",
-      "onboard_time": 1732971319,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 107305,
       "num": 247800,
       "word": "叶嘉莹生平",
@@ -17505,6 +17585,14 @@
       "onboard_time": 1732935858,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102247,
+      "num": 164531,
+      "word": "细节才是心动的必杀技",
+      "onboard_time": 1732971858,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 102170,
@@ -18281,6 +18369,14 @@
       "onboard_time": 1732808478,
       "rank": 30,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 91220,
+      "num": 91220,
+      "word": "成都混团欢迎晚宴",
+      "onboard_time": 1732973120,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90991,
@@ -19619,6 +19715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 72238,
+      "num": 290784,
+      "word": "朱鹮雾中缓缓降落如画中仙鸟",
+      "onboard_time": 1732968320,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72118,
       "num": 164228,
       "word": "李梦帮工作人员追星谢娜",
@@ -20441,6 +20545,14 @@
       "onboard_time": 1732525698,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58204,
+      "num": 214127,
+      "word": "黄景瑜孙千她在闹他在笑",
+      "onboard_time": 1732973060,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 58106,
@@ -21507,6 +21619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45956,
+      "num": 213710,
+      "word": "谭松韵郑业成直播",
+      "onboard_time": 1732972340,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45916,
       "num": 362605,
       "word": "解决羽绒造假不只能靠行业自律",
@@ -22243,14 +22363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38678,
-      "num": 296519,
-      "word": "你能接受退役运动员的多元形象吗",
-      "onboard_time": 1732971260,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38666,
       "num": 38666,
       "word": "好东西票房",
@@ -22611,6 +22723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35930,
+      "num": 402790,
+      "word": "精彩全国少数民族传统体育运动会",
+      "onboard_time": 1732971079,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35768,
       "num": 43776,
       "word": "暴力抗法违规渔船17名嫌疑人被抓",
@@ -22904,6 +23024,14 @@
       "word": "王浩文拐卖儿童数量可能超五六十人",
       "onboard_time": 1732772298,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32886,
+      "num": 188379,
+      "word": "网友购买笑气后报案举报销售方",
+      "onboard_time": 1732972699,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -23595,14 +23723,6 @@
       "category": "时尚,休闲"
     },
     {
-      "raw_hot": 27860,
-      "num": 394209,
-      "word": "精彩全国少数民族传统体育运动会",
-      "onboard_time": 1732971079,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 27787,
       "num": 312620,
       "word": "国产电影母亲形象正在蜕变",
@@ -24265,6 +24385,14 @@
       "onboard_time": 1732954218,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22971,
+      "num": 213234,
+      "word": "近半欧洲人不再视美国为最重要盟友",
+      "onboard_time": 1732972340,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22930,
