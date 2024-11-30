@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732973933652,
+  "endTime": 1732976405408,
   "band_list": [
     {
       "raw_hot": 3679332,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1388962,
-      "num": 427290,
+      "num": 527531,
       "word": "24岁女设计师胃癌晚期问为啥是我",
       "onboard_time": 1732968378,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1732936457,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1029429,
+      "num": 336055,
+      "word": "张小斐 喜欢肢体接触是吧",
+      "onboard_time": 1732973179,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 977906,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623564,
+      "num": 623564,
+      "word": "恋与制作人大婚",
+      "onboard_time": 1732970359,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 612370,
       "num": 612370,
       "word": "网传李行亮歌手2025试音",
@@ -321,14 +337,6 @@
       "onboard_time": 1732924877,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 584747,
-      "num": 584747,
-      "word": "恋与制作人大婚",
-      "onboard_time": 1732970359,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 577258,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 418750,
-      "num": 287363,
+      "num": 289768,
       "word": "张元英和男伴舞双人芭蕾",
       "onboard_time": 1732970839,
       "rank": 17,
@@ -643,6 +651,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 367029,
+      "num": 287216,
+      "word": "永夜星河逆跌",
+      "onboard_time": 1732974799,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358688,
       "num": 212685,
       "word": "沈梦瑶与丝芭解约成功",
@@ -705,6 +721,14 @@
       "onboard_time": 1732963879,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333695,
+      "num": 333695,
+      "word": "郭艾伦32分",
+      "onboard_time": 1732974680,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 333684,
@@ -795,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 316512,
+      "num": 285267,
+      "word": "分手见人品",
+      "onboard_time": 1732975461,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313904,
       "num": 313904,
       "word": "金靖月子中心vlog",
@@ -867,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292295,
+      "num": 292295,
+      "word": "12月十二星座注意事项",
+      "onboard_time": 1732974380,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291248,
       "num": 291248,
       "word": "葛夕闺蜜",
@@ -931,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269106,
-      "num": 269106,
-      "word": "张小斐 喜欢肢体接触是吧",
-      "onboard_time": 1732973179,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264658,
       "num": 264658,
       "word": "aespa获最佳女团",
@@ -979,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250319,
+      "num": 250319,
+      "word": "恋与睡眠陪伴",
+      "onboard_time": 1732974380,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250295,
       "num": 340813,
       "word": "成毅徐璐演长安二十四计",
@@ -993,6 +1033,14 @@
       "onboard_time": 1732898597,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249322,
+      "num": 249322,
+      "word": "韩剧现在拨打的电话",
+      "onboard_time": 1732972580,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 245596,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1732958837,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 239422,
+      "num": 239422,
+      "word": "周密 难听",
+      "onboard_time": 1732975160,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 237370,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1732932677,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213849,
+      "num": 213849,
+      "word": "内娱第一个能保护黄景瑜的男人",
+      "onboard_time": 1732974559,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 212740,
@@ -1203,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197013,
+      "num": 273898,
+      "word": "黄景瑜孙千她在闹他在笑",
+      "onboard_time": 1732973060,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196201,
       "num": 196201,
       "word": "力丸登陆少年编舞vlog",
@@ -1235,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195185,
+      "num": 214927,
+      "word": "文轩楼内唯一all粉",
+      "onboard_time": 1732975281,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194468,
       "num": 194468,
       "word": "MMA颁奖典礼",
@@ -1248,6 +1328,14 @@
       "word": "孙颖莎王楚钦奥运后首次搭档",
       "onboard_time": 1732896799,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193429,
+      "num": 216182,
+      "word": "成都混团欢迎晚宴",
+      "onboard_time": 1732973120,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1491,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166749,
-      "num": 120516,
-      "word": "韩剧现在拨打的电话",
-      "onboard_time": 1732972580,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166719,
       "num": 166719,
       "word": "鹿晗喜欢听泉",
@@ -1563,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161907,
+      "num": 161907,
+      "word": "国考每一步都在淘汰人",
+      "onboard_time": 1732972937,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161378,
       "num": 196341,
       "word": "我是刑警生子下线",
@@ -1593,6 +1681,14 @@
       "onboard_time": 1732887980,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158280,
+      "num": 158280,
+      "word": "谭松韵跳APT",
+      "onboard_time": 1732975160,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 156872,
@@ -1664,6 +1760,14 @@
       "word": "周子瑜回应整容质疑",
       "onboard_time": 1732959378,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151315,
+      "num": 151315,
+      "word": "侯明昊把卷发焊在头上吧",
+      "onboard_time": 1732974740,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1739,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144014,
+      "num": 144014,
+      "word": "范丞丞直播",
+      "onboard_time": 1732975881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143970,
       "num": 143970,
       "word": "宋亚轩把头发甩炸毛了",
@@ -1784,14 +1896,6 @@
       "word": "卓沅谁懂啊杭州可冷",
       "onboard_time": 1732960999,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 141229,
-      "num": 273898,
-      "word": "黄景瑜孙千她在闹他在笑",
-      "onboard_time": 1732973060,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -2123,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125835,
+      "num": 125835,
+      "word": "香缇莫旗袍",
+      "onboard_time": 1732974019,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125657,
       "num": 337718,
       "word": "专家称艰苦地区国考报考率达99.5%",
@@ -2139,12 +2251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124501,
-      "num": 124501,
-      "word": "成都混团欢迎晚宴",
-      "onboard_time": 1732973120,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 124160,
+      "num": 124160,
+      "word": "网剧冬至",
+      "onboard_time": 1732976240,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 124134,
@@ -2403,14 +2515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105540,
-      "num": 105540,
-      "word": "国考每一步都在淘汰人",
-      "onboard_time": 1732972937,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 103812,
       "num": 103812,
       "word": "逐玉",
@@ -2419,12 +2523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103660,
+      "num": 218115,
+      "word": "郭艾伦三分来了",
+      "onboard_time": 1732974921,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102824,
       "num": 153496,
       "word": "田嘉瑞月鳞绮纪",
       "onboard_time": 1732960698,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102450,
+      "num": 249544,
+      "word": "日本正考虑推进简化中国公民赴日签证手续",
+      "onboard_time": 1732976240,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102365,
@@ -2507,6 +2627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100811,
+      "num": 124186,
+      "word": "马龙签不完根本签不完",
+      "onboard_time": 1732975700,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100800,
       "num": 114741,
       "word": "一诺这个眼镜有点酷",
@@ -2521,6 +2649,14 @@
       "onboard_time": 1732952118,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99792,
+      "num": 309531,
+      "word": "孔子是山东大汉身高超过1米9",
+      "onboard_time": 1732973719,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 99490,
@@ -2627,6 +2763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93143,
+      "num": 126892,
+      "word": "老人将房产过户妻子后被拒之门外",
+      "onboard_time": 1732975881,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91716,
       "num": 120801,
       "word": "A股突然猛拉",
@@ -2665,6 +2809,14 @@
       "onboard_time": 1732883898,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88113,
+      "num": 124378,
+      "word": "300万投资变成了6万斤网络牛肉",
+      "onboard_time": 1732976180,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86310,
@@ -2891,6 +3043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69663,
+      "num": 283936,
+      "word": "老人转运途中跌落29天后离世获赔43万",
+      "onboard_time": 1732976060,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65846,
       "num": 151994,
       "word": "赵一博冬日暖阳",
@@ -2929,6 +3089,14 @@
       "onboard_time": 1732938917,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60193,
+      "num": 124172,
+      "word": "原来国画又写意又写实",
+      "onboard_time": 1732975461,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60021,
@@ -3164,7 +3332,7 @@
     },
     {
       "raw_hot": 38243,
-      "num": 435485,
+      "num": 538162,
       "word": "精彩全国少数民族传统体育运动会",
       "onboard_time": 1732971079,
       "rank": 2,
@@ -3321,6 +3489,14 @@
       "onboard_time": 1732953799,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27504,
+      "num": 216437,
+      "word": "蔡文静把嘴给宁悦装上了",
+      "onboard_time": 1732974199,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 27016,
@@ -3568,14 +3744,6 @@
       "word": "一人一句致敬志愿军烈士",
       "onboard_time": 1732919291,
       "rank": 9,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 12166,
-      "num": 309531,
-      "word": "孔子是山东大汉身高超过1米9",
-      "onboard_time": 1732973719,
-      "rank": 8,
       "category": "正能量"
     },
     {

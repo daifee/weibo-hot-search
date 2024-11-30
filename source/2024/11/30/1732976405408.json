@@ -1,0 +1,410 @@
+{
+  "runTime": 1732976405408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3678037,
+        "num": 3678037,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623564,
+        "num": 623564,
+        "word": "恋与制作人大婚",
+        "onboard_time": 1732970359,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36632,
+        "num": 538162,
+        "word": "精彩全国少数民族传统体育运动会",
+        "onboard_time": 1732971079,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527531,
+        "num": 527531,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339641,
+        "num": 339641,
+        "word": "4人靠云养牛骗了5个亿",
+        "onboard_time": 1732968259,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2089122,
+        "num": 338873,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1258898,
+        "num": 336733,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1029429,
+        "num": 336055,
+        "word": "张小斐 喜欢肢体接触是吧",
+        "onboard_time": 1732973179,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333695,
+        "num": 333695,
+        "word": "郭艾伦32分",
+        "onboard_time": 1732974680,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292295,
+        "num": 292295,
+        "word": "12月十二星座注意事项",
+        "onboard_time": 1732974380,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 958089,
+        "num": 291684,
+        "word": "gidle全员续约",
+        "onboard_time": 1732971079,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369000,
+        "num": 289768,
+        "word": "张元英和男伴舞双人芭蕾",
+        "onboard_time": 1732970839,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367029,
+        "num": 287216,
+        "word": "永夜星河逆跌",
+        "onboard_time": 1732974799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316512,
+        "num": 285267,
+        "word": "分手见人品",
+        "onboard_time": 1732975461,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69663,
+        "num": 283936,
+        "word": "老人转运途中跌落29天后离世获赔43万",
+        "onboard_time": 1732976060,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283372,
+        "num": 283372,
+        "word": "越南将投入670亿美元修高铁",
+        "onboard_time": 1732963458,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302969,
+        "num": 273097,
+        "word": "aespa横扫MMA三项大赏",
+        "onboard_time": 1732972699,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250319,
+        "num": 250319,
+        "word": "恋与睡眠陪伴",
+        "onboard_time": 1732974380,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102450,
+        "num": 249544,
+        "word": "日本正考虑推进简化中国公民赴日签证手续",
+        "onboard_time": 1732976240,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249322,
+        "num": 249322,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732972580,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239422,
+        "num": 239422,
+        "word": "周密 难听",
+        "onboard_time": 1732975160,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239154,
+        "num": 239154,
+        "word": "杭州首套房贷利率上调至3.1%",
+        "onboard_time": 1732967598,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218699,
+        "num": 218699,
+        "word": "金智秀连续三年获世首美",
+        "onboard_time": 1732968618,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103660,
+        "num": 218115,
+        "word": "郭艾伦三分来了",
+        "onboard_time": 1732974921,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27504,
+        "num": 216437,
+        "word": "蔡文静把嘴给宁悦装上了",
+        "onboard_time": 1732974199,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193429,
+        "num": 216182,
+        "word": "成都混团欢迎晚宴",
+        "onboard_time": 1732973120,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195185,
+        "num": 214927,
+        "word": "文轩楼内唯一all粉",
+        "onboard_time": 1732975281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213849,
+        "num": 213849,
+        "word": "内娱第一个能保护黄景瑜的男人",
+        "onboard_time": 1732974559,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121362,
+        "num": 203088,
+        "word": "马龙说没想到乒乓球在台湾这么火",
+        "onboard_time": 1732971920,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216574,
+        "num": 202500,
+        "word": "年轻人得胃癌跟吃外卖有关系吗",
+        "onboard_time": 1732966698,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201039,
+        "num": 201039,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180378,
+        "num": 180378,
+        "word": "宋雨琦 雅典女神",
+        "onboard_time": 1732971319,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197013,
+        "num": 179244,
+        "word": "黄景瑜孙千她在闹他在笑",
+        "onboard_time": 1732973060,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177465,
+        "num": 177465,
+        "word": "突然发现考公的人越来越多",
+        "onboard_time": 1732970659,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177018,
+        "num": 177018,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161907,
+        "num": 161907,
+        "word": "国考每一步都在淘汰人",
+        "onboard_time": 1732972937,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158280,
+        "num": 158280,
+        "word": "谭松韵跳APT",
+        "onboard_time": 1732975160,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151315,
+        "num": 151315,
+        "word": "侯明昊把卷发焊在头上吧",
+        "onboard_time": 1732974740,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144014,
+        "num": 144014,
+        "word": "范丞丞直播",
+        "onboard_time": 1732975881,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93143,
+        "num": 126892,
+        "word": "老人将房产过户妻子后被拒之门外",
+        "onboard_time": 1732975881,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125835,
+        "num": 125835,
+        "word": "香缇莫旗袍",
+        "onboard_time": 1732974019,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124928,
+        "num": 124928,
+        "word": "白鹿很满意自己的三十岁",
+        "onboard_time": 1732969519,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124893,
+        "num": 124893,
+        "word": "九重紫",
+        "onboard_time": 1732965438,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88113,
+        "num": 124378,
+        "word": "300万投资变成了6万斤网络牛肉",
+        "onboard_time": 1732976180,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100811,
+        "num": 124186,
+        "word": "马龙签不完根本签不完",
+        "onboard_time": 1732975700,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60193,
+        "num": 124172,
+        "word": "原来国画又写意又写实",
+        "onboard_time": 1732975461,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124160,
+        "num": 124160,
+        "word": "网剧冬至",
+        "onboard_time": 1732976240,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105343,
+        "num": 105343,
+        "word": "恋与制作人七周年直播",
+        "onboard_time": 1732969640,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105260,
+        "num": 105260,
+        "word": "新疆棉被随便甩不断层",
+        "onboard_time": 1732966879,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99792,
+        "num": 99792,
+        "word": "孔子是山东大汉身高超过1米9",
+        "onboard_time": 1732973719,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
+    }
+  }
+}
