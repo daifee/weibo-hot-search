@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732966544784,
+  "endTime": 1732970508104,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1473,6 +1473,14 @@
       "onboard_time": 1732586298,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1944503,
+      "num": 1944503,
+      "word": "李行亮商演遭网友抵制",
+      "onboard_time": 1732967778,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1923730,
@@ -3296,6 +3304,14 @@
       "word": "7万件羽绒服含绒量0企业主管被抓",
       "onboard_time": 1732449439,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1388962,
+      "num": 382739,
+      "word": "24岁女设计师胃癌晚期问为啥是我",
+      "onboard_time": 1732968378,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -14051,6 +14067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590919,
+      "num": 205805,
+      "word": "年轻人得胃癌跟吃外卖有关系吗",
+      "onboard_time": 1732966698,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 590762,
       "num": 583887,
       "word": "祝绪丹 小神仙",
@@ -17707,6 +17731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 485677,
+      "num": 870608,
+      "word": "周密",
+      "onboard_time": 1732921634,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484966,
       "num": 484966,
       "word": "新疆一摄像头拍下雪崩过程",
@@ -20219,6 +20251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 425520,
+      "num": 369934,
+      "word": "金智秀连续三年获世首美",
+      "onboard_time": 1732968618,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425367,
       "num": 337049,
       "word": "荣梓杉回应负面评论",
@@ -20257,6 +20297,14 @@
       "onboard_time": 1730506216,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424556,
+      "num": 364958,
+      "word": "一路繁花直播",
+      "onboard_time": 1732964899,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 424496,
@@ -23203,6 +23251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370747,
+      "num": 370747,
+      "word": "新疆棉被随便甩不断层",
+      "onboard_time": 1732966879,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370740,
       "num": 891316,
       "word": "郑钦文vs保利尼",
@@ -24459,6 +24515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 347637,
+      "num": 347637,
+      "word": "越南将投入670亿美元修高铁",
+      "onboard_time": 1732963458,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 347611,
       "num": 347611,
       "word": "国足再战日本开局九分半差点进球",
@@ -25403,14 +25467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331818,
-      "num": 870608,
-      "word": "周密",
-      "onboard_time": 1732921634,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331661,
       "num": 286423,
       "word": "目前特朗普177张选举人票哈里斯99张",
@@ -25849,6 +25905,14 @@
       "onboard_time": 1732433778,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324827,
+      "num": 324827,
+      "word": "linglingkwong",
+      "onboard_time": 1732965918,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 324423,
@@ -26441,6 +26505,14 @@
       "onboard_time": 1732495580,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315803,
+      "num": 315803,
+      "word": "员工已读不回领导身份不是爆粗口理由",
+      "onboard_time": 1732965679,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315747,
@@ -31003,6 +31075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262581,
+      "num": 262581,
+      "word": "贾斯汀比伯一家三口合照",
+      "onboard_time": 1732965378,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262501,
       "num": 262501,
       "word": "意大利总统收到中国月壤开心写在脸上",
@@ -32569,14 +32649,6 @@
       "onboard_time": 1732535299,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 248734,
-      "num": 274517,
-      "word": "员工已读不回领导身份不是爆粗口理由",
-      "onboard_time": 1732965679,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248702,
@@ -35555,6 +35627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224463,
+      "num": 224463,
+      "word": "恋与制作人大婚",
+      "onboard_time": 1732970359,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224387,
       "num": 224387,
       "word": "减重版司美格鲁肽已上架开售",
@@ -37235,6 +37315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214636,
+      "num": 200015,
+      "word": "高泽宇丸子官宣领证",
+      "onboard_time": 1732968559,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214616,
       "num": 214616,
       "word": "朱开想去BLG做教练",
@@ -37377,6 +37465,14 @@
       "onboard_time": 1732804281,
       "rank": 22,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 213982,
+      "num": 213982,
+      "word": "看完9集是我对斗罗2大声了",
+      "onboard_time": 1732969878,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 213925,
@@ -38307,6 +38403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209312,
+      "num": 197175,
+      "word": "白鹿很满意自己的三十岁",
+      "onboard_time": 1732969519,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209311,
       "num": 209311,
       "word": "肖凯文恋综",
@@ -38537,6 +38641,14 @@
       "onboard_time": 1732624338,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "恋与制作人七周年直播",
+      "onboard_time": 1732969640,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 208295,
@@ -39001,6 +39113,14 @@
       "onboard_time": 1731502519,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206589,
+      "num": 206589,
+      "word": "4人靠云养牛骗了5个亿",
+      "onboard_time": 1732968259,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 206567,
@@ -40625,14 +40745,6 @@
       "onboard_time": 1732144936,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201227,
-      "num": 272211,
-      "word": "linglingkwong",
-      "onboard_time": 1732965918,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 201202,
@@ -42297,6 +42409,14 @@
       "onboard_time": 1732262179,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196201,
+      "num": 196201,
+      "word": "力丸登陆少年编舞vlog",
+      "onboard_time": 1732969640,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 196184,
@@ -44643,14 +44763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189515,
-      "num": 189515,
-      "word": "越南将投入670亿美元修高铁",
-      "onboard_time": 1732963458,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 189508,
       "num": 566273,
       "word": "害怕接电话其实是种社交焦虑",
@@ -44737,6 +44849,14 @@
       "onboard_time": 1730606181,
       "rank": 38,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 189152,
+      "num": 330787,
+      "word": "杭州首套房贷利率上调至3.1%",
+      "onboard_time": 1732967598,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 189084,
@@ -45041,6 +45161,14 @@
       "onboard_time": 1732263678,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188342,
+      "num": 188342,
+      "word": "gidle获MMAtop10",
+      "onboard_time": 1732969878,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 188336,
@@ -46121,14 +46249,6 @@
       "onboard_time": 1732253660,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184753,
-      "num": 184753,
-      "word": "贾斯汀比伯一家三口合照",
-      "onboard_time": 1732965378,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 184749,
@@ -53475,6 +53595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161378,
+      "num": 196341,
+      "word": "我是刑警生子下线",
+      "onboard_time": 1732969339,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161371,
       "num": 161371,
       "word": "请不遗余力照顾好自己",
@@ -59187,6 +59315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145552,
+      "num": 145552,
+      "word": "丁禹兮黑白森林反差感",
+      "onboard_time": 1732969100,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145541,
       "num": 145541,
       "word": "持棍打死校园流浪狗安保人员被解聘",
@@ -60307,14 +60443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141696,
-      "num": 234072,
-      "word": "一路繁花直播",
-      "onboard_time": 1732964899,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141695,
       "num": 386975,
       "word": "网红主播让亲妈扮养母卖惨圈粉",
@@ -60609,6 +60737,14 @@
       "onboard_time": 1731218420,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 140903,
+      "num": 140903,
+      "word": "只有师范生才懂她有多强",
+      "onboard_time": 1732967299,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 140876,
@@ -61081,6 +61217,14 @@
       "onboard_time": 1732941739,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139773,
+      "num": 139773,
+      "word": "芒果男艺人芭莎没站C位",
+      "onboard_time": 1732967598,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139719,
@@ -63889,6 +64033,14 @@
       "onboard_time": 1732685359,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 131504,
+      "num": 131504,
+      "word": "鹿哈说鹿晗是他恩人",
+      "onboard_time": 1732970059,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 131472,
@@ -67675,6 +67827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120804,
+      "num": 120804,
+      "word": "官方通报副镇长开套牌车还打人",
+      "onboard_time": 1732970480,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120776,
       "num": 204599,
       "word": "imp谈Doinb与Letme队风波",
@@ -69833,6 +69993,14 @@
       "onboard_time": 1731828379,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114020,
+      "num": 192074,
+      "word": "沧元图2定档",
+      "onboard_time": 1732969159,
+      "rank": 34,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 113885,
@@ -73177,6 +73345,14 @@
       "onboard_time": 1731465439,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101160,
+      "num": 199484,
+      "word": "男子打伞骑车15cm竹子插入眼睛",
+      "onboard_time": 1732968979,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101125,
@@ -84283,6 +84459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53724,
+      "num": 206888,
+      "word": "戚薇直播",
+      "onboard_time": 1732969159,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53682,
       "num": 455584,
       "word": "华为原生鸿蒙耳机正式亮相",
@@ -89443,6 +89627,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 38997,
+      "num": 224857,
+      "word": "秦雪称不想火只想赚钱养女儿",
+      "onboard_time": 1732962378,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38989,
       "num": 411579,
       "word": "为你好不是老师体罚学生的借口",
@@ -93657,6 +93849,14 @@
       "onboard_time": 1732210274,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30352,
+      "num": 204577,
+      "word": "2024军团杯",
+      "onboard_time": 1732968919,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 30344,
