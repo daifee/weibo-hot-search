@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732951353867,
+  "endTime": 1732952149826,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1035402,
-      "num": 1165664,
+      "raw_hot": 1097534,
+      "num": 1175605,
       "word": "乔任梁父亲曾在儿子墓地见到造谣者",
       "onboard_time": 1732948337,
       "rank": 6,
@@ -187,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612562,
-      "num": 612562,
+      "raw_hot": 645233,
+      "num": 645233,
       "word": "麦琳怒怼杨子",
       "onboard_time": 1732948758,
       "rank": 38,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 538449,
+      "num": 391734,
+      "word": "虞书欣她拍vs自拍",
+      "onboard_time": 1732947858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531744,
       "num": 531744,
       "word": "iG官宣重组",
@@ -259,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519041,
-      "num": 391734,
-      "word": "虞书欣她拍vs自拍",
-      "onboard_time": 1732947858,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 503181,
+      "num": 344954,
+      "word": "韩网友抵制韩国电影",
+      "onboard_time": 1732948877,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 491697,
@@ -305,14 +313,6 @@
       "onboard_time": 1732943118,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 452592,
-      "num": 312039,
-      "word": "韩网友抵制韩国电影",
-      "onboard_time": 1732948877,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 441875,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331366,
+      "num": 331366,
+      "word": "考公上岸后的体制内生活是什么样",
+      "onboard_time": 1732946600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329533,
       "num": 329533,
       "word": "宋亚轩刘耀文互穿应援色",
@@ -433,14 +441,6 @@
       "onboard_time": 1732941379,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313201,
-      "num": 313201,
-      "word": "考公上岸后的体制内生活是什么样",
-      "onboard_time": 1732946600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306931,
@@ -507,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252663,
+      "num": 252663,
+      "word": "王楚钦混团抽签台下画画",
+      "onboard_time": 1732950857,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251627,
       "num": 251627,
       "word": "金高银获青龙影后",
@@ -563,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213385,
+      "num": 213385,
+      "word": "MMA红毯",
+      "onboard_time": 1732951878,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212740,
       "num": 212740,
       "word": "明日方舟",
@@ -617,6 +633,14 @@
       "onboard_time": 1732941018,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201348,
+      "num": 201348,
+      "word": "叶嘉莹遗体告别仪式",
+      "onboard_time": 1732950678,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 200008,
@@ -707,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187524,
+      "num": 187524,
+      "word": "我是刑警 你真的了解和你结婚的人吗",
+      "onboard_time": 1732949777,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187210,
       "num": 187210,
       "word": "网传歌手2025试音名单",
@@ -779,20 +811,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181242,
+      "num": 181242,
+      "word": "留几手让葛夕打过胎",
+      "onboard_time": 1732951818,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180917,
       "num": 323532,
       "word": "时代少年团不放弃走过曲折",
       "onboard_time": 1732939817,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179129,
-      "num": 179129,
-      "word": "我是刑警 你真的了解和你结婚的人吗",
-      "onboard_time": 1732949777,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 178215,
@@ -809,14 +841,6 @@
       "onboard_time": 1732940358,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176752,
-      "num": 193490,
-      "word": "王楚钦混团抽签台下画画",
-      "onboard_time": 1732950857,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 171910,
@@ -915,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156872,
+      "num": 156872,
+      "word": "周雨彤 没有预期的地方收获最多",
+      "onboard_time": 1732949178,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155863,
       "num": 155863,
       "word": "白夜破晓 小允子",
@@ -995,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145333,
-      "num": 145333,
-      "word": "叶嘉莹遗体告别仪式",
-      "onboard_time": 1732950678,
-      "rank": 37,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 143970,
       "num": 143970,
       "word": "宋亚轩把头发甩炸毛了",
@@ -1027,12 +1051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139732,
+      "num": 251710,
+      "word": "肖战工作室",
+      "onboard_time": 1732951937,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139537,
       "num": 139537,
       "word": "女子取款5000元银行要求证明夫妻关系",
       "onboard_time": 1732925236,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "谭松韵时隔三年又演古装",
+      "onboard_time": 1732948818,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138869,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1732930936,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137732,
+      "num": 137732,
+      "word": "中企参展人员遭美国大规模拒签",
+      "onboard_time": 1732951578,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136656,
@@ -1091,14 +1139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134999,
-      "num": 134999,
-      "word": "谭松韵时隔三年又演古装",
-      "onboard_time": 1732948818,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134694,
       "num": 134694,
       "word": "幼师为追星诈骗家长16万获刑四年",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1732938318,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134096,
-      "num": 134096,
-      "word": "周雨彤 没有预期的地方收获最多",
-      "onboard_time": 1732949178,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 133520,
@@ -1140,7 +1172,7 @@
     },
     {
       "raw_hot": 131590,
-      "num": 131590,
+      "num": 235238,
       "word": "击剑运动员秦雪转型网红被指擦边",
       "onboard_time": 1732951097,
       "rank": 42,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1732926257,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125966,
+      "num": 125966,
+      "word": "宋亚轩说韩语",
+      "onboard_time": 1732951878,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 125657,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1732943179,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100665,
+      "num": 100665,
+      "word": "苏翊鸣北京站第一跳88分",
+      "onboard_time": 1732952118,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99490,
@@ -1884,7 +1932,7 @@
     },
     {
       "raw_hot": 38926,
-      "num": 179387,
+      "num": 239851,
       "word": "香奈儿屏风里的西湖",
       "onboard_time": 1732950198,
       "rank": 30,
@@ -1987,6 +2035,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 31332,
+      "num": 310415,
+      "word": "魔芋零食成年轻人的新减肥搭子",
+      "onboard_time": 1732950497,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31014,
+      "num": 298334,
+      "word": "为什么观众不爱看国产爱情片了",
+      "onboard_time": 1732951578,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30735,
       "num": 51680,
       "word": "沈阳警方抓了112个号贩子",
@@ -2003,6 +2067,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 29507,
+      "num": 250189,
+      "word": "部分银行特色存款利率逆势上涨",
+      "onboard_time": 1732950557,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 29048,
       "num": 95860,
       "word": "黄牛1分钟网上挂号200次",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1732901654,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25689,
-      "num": 224926,
-      "word": "部分银行特色存款利率逆势上涨",
-      "onboard_time": 1732950557,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 24971,
@@ -2067,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22707,
+      "num": 251891,
+      "word": "杨子说圣依就是傻",
+      "onboard_time": 1732950377,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21603,
       "num": 322779,
       "word": "蜀锦人家今日开播",
@@ -2105,22 +2177,6 @@
       "onboard_time": 1732913470,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 19827,
-      "num": 310415,
-      "word": "魔芋零食成年轻人的新减肥搭子",
-      "onboard_time": 1732950497,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18944,
-      "num": 188606,
-      "word": "杨子说圣依就是傻",
-      "onboard_time": 1732950377,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 18713,

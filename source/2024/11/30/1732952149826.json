@@ -1,0 +1,410 @@
+{
+  "runTime": 1732952149826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097534,
+        "num": 1175605,
+        "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+        "onboard_time": 1732948337,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756998,
+        "num": 756998,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43973,
+        "num": 680687,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 645233,
+        "num": 645233,
+        "word": "麦琳怒怼杨子",
+        "onboard_time": 1732948758,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394415,
+        "num": 394415,
+        "word": "在靖国神社涂鸦的中国男子被日本公审",
+        "onboard_time": 1732939219,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365947,
+        "num": 365947,
+        "word": "成都混团世界杯国乒抽签结果",
+        "onboard_time": 1732948157,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538449,
+        "num": 353502,
+        "word": "虞书欣她拍vs自拍",
+        "onboard_time": 1732947858,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503181,
+        "num": 344954,
+        "word": "韩网友抵制韩国电影",
+        "onboard_time": 1732948877,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331366,
+        "num": 331366,
+        "word": "考公上岸后的体制内生活是什么样",
+        "onboard_time": 1732946600,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172899,
+        "num": 309508,
+        "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
+        "onboard_time": 1732947378,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487075,
+        "num": 308520,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385646,
+        "num": 308396,
+        "word": "郑雨盛道歉后李惠利的表情",
+        "onboard_time": 1732942758,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306618,
+        "num": 306618,
+        "word": "网传李行亮歌手2025试音",
+        "onboard_time": 1732943417,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31014,
+        "num": 298334,
+        "word": "为什么观众不爱看国产爱情片了",
+        "onboard_time": 1732951578,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31332,
+        "num": 293336,
+        "word": "魔芋零食成年轻人的新减肥搭子",
+        "onboard_time": 1732950497,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290857,
+        "num": 290857,
+        "word": "男子确诊肺癌医生一根针冻死癌细胞",
+        "onboard_time": 1732936457,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252663,
+        "num": 252663,
+        "word": "王楚钦混团抽签台下画画",
+        "onboard_time": 1732950857,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22707,
+        "num": 251891,
+        "word": "杨子说圣依就是傻",
+        "onboard_time": 1732950377,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139732,
+        "num": 251710,
+        "word": "肖战工作室",
+        "onboard_time": 1732951937,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29507,
+        "num": 250189,
+        "word": "部分银行特色存款利率逆势上涨",
+        "onboard_time": 1732950557,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 693689,
+        "num": 249759,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414662,
+        "num": 249063,
+        "word": "击剑冠军秦雪回应视频被指擦边",
+        "onboard_time": 1732947378,
+        "rank": 21,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 248447,
+        "num": 248447,
+        "word": "樊振东王励勤男双",
+        "onboard_time": 1732945698,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25857,
+        "num": 239851,
+        "word": "香奈儿屏风里的西湖",
+        "onboard_time": 1732950198,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120070,
+        "num": 235238,
+        "word": "击剑运动员秦雪转型网红被指擦边",
+        "onboard_time": 1732951097,
+        "rank": 24,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 235142,
+        "num": 235142,
+        "word": "宋亚轩刘耀文互穿应援色",
+        "onboard_time": 1732947378,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231083,
+        "num": 231083,
+        "word": "葛夕闺蜜",
+        "onboard_time": 1732948157,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213385,
+        "num": 213385,
+        "word": "MMA红毯",
+        "onboard_time": 1732951878,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201348,
+        "num": 201348,
+        "word": "叶嘉莹遗体告别仪式",
+        "onboard_time": 1732950678,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 199625,
+        "num": 199625,
+        "word": "王珞丹换风格了",
+        "onboard_time": 1732945999,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192558,
+        "num": 192558,
+        "word": "iG官宣重组",
+        "onboard_time": 1732939097,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187524,
+        "num": 187524,
+        "word": "我是刑警 你真的了解和你结婚的人吗",
+        "onboard_time": 1732949777,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181242,
+        "num": 181242,
+        "word": "留几手让葛夕打过胎",
+        "onboard_time": 1732951818,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168381,
+        "num": 168381,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156872,
+        "num": 156872,
+        "word": "周雨彤 没有预期的地方收获最多",
+        "onboard_time": 1732949178,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156778,
+        "num": 156778,
+        "word": "这些OST一响2024画面感就来了",
+        "onboard_time": 1732940779,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145292,
+        "num": 145292,
+        "word": "陈小春养老保险有点多",
+        "onboard_time": 1732940598,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141452,
+        "num": 141452,
+        "word": "王楚钦孙颖莎奥运会后再打混双",
+        "onboard_time": 1732941799,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55768,
+        "num": 140800,
+        "word": "檀健次这个冬天心软的神",
+        "onboard_time": 1732950618,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140262,
+        "num": 140262,
+        "word": "MMA颁奖典礼",
+        "onboard_time": 1732933397,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 139348,
+        "word": "谭松韵时隔三年又演古装",
+        "onboard_time": 1732948818,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138153,
+        "num": 138153,
+        "word": "我家那小子开播",
+        "onboard_time": 1732943118,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137732,
+        "num": 137732,
+        "word": "中企参展人员遭美国大规模拒签",
+        "onboard_time": 1732951578,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 133225,
+        "word": "王楚钦王曼昱出席抽签仪式",
+        "onboard_time": 1732948098,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126122,
+        "num": 126122,
+        "word": "婚礼前一天46条喜烟全被偷了",
+        "onboard_time": 1732936158,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125966,
+        "num": 125966,
+        "word": "宋亚轩说韩语",
+        "onboard_time": 1732951878,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124832,
+        "num": 124832,
+        "word": "人间百味影像展",
+        "onboard_time": 1732950918,
+        "rank": 46,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 107427,
+        "num": 107427,
+        "word": "彩虹夫妇第4胎产女称如愿了",
+        "onboard_time": 1732932677,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101629,
+        "num": 101629,
+        "word": "金靖月子中心vlog",
+        "onboard_time": 1732941379,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100665,
+        "num": 100665,
+        "word": "苏翊鸣北京站第一跳88分",
+        "onboard_time": 1732952118,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党的创新理论更加深入人心#"
+    }
+  }
+}
