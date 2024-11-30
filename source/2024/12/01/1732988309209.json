@@ -1,0 +1,410 @@
+{
+  "runTime": 1732988309209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115932,
+        "num": 1115932,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826442,
+        "num": 826442,
+        "word": "杭州夫妻两人染色体竟相同",
+        "onboard_time": 1732983798,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10469,
+        "num": 444416,
+        "word": "微观链博会",
+        "onboard_time": 1732970779,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 428016,
+        "num": 428016,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149972,
+        "num": 149972,
+        "word": "恋与制作人大婚",
+        "onboard_time": 1732970359,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 741123,
+        "num": 146386,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 468291,
+        "num": 128903,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286128,
+        "num": 121687,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109063,
+        "num": 109063,
+        "word": "四川两大国企将重组",
+        "onboard_time": 1732986256,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102692,
+        "num": 102692,
+        "word": "江苏常州一架直升机落水",
+        "onboard_time": 1732986075,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289650,
+        "num": 102129,
+        "word": "分手见人品",
+        "onboard_time": 1732975461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219104,
+        "num": 99904,
+        "word": "永夜星河逆跌",
+        "onboard_time": 1732974799,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201318,
+        "num": 98477,
+        "word": "肖战 攻玉",
+        "onboard_time": 1732979540,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132752,
+        "num": 96822,
+        "word": "gidle全员续约",
+        "onboard_time": 1732971079,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113516,
+        "num": 96491,
+        "word": "丈夫持斧击杀袭击妻子黑熊",
+        "onboard_time": 1732982239,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122273,
+        "num": 94363,
+        "word": "范丞丞希望粉丝对工作室嘴下留情",
+        "onboard_time": 1732978522,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93457,
+        "num": 93457,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92367,
+        "num": 92367,
+        "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
+        "onboard_time": 1732980500,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90993,
+        "num": 90993,
+        "word": "27岁上海交大博导让大家别焦虑",
+        "onboard_time": 1732978459,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87685,
+        "num": 90860,
+        "word": "胃病向胃癌转变的5个信号",
+        "onboard_time": 1732976841,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124880,
+        "num": 90186,
+        "word": "何秋亊墨宝",
+        "onboard_time": 1732979721,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117347,
+        "num": 89927,
+        "word": "孙千体面",
+        "onboard_time": 1732979780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100609,
+        "num": 89456,
+        "word": "新床单晒了一次变微信聊天背景图了",
+        "onboard_time": 1732977740,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89363,
+        "num": 89363,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9793,
+        "num": 88673,
+        "word": "马龙台湾行第四天现身台北故宫",
+        "onboard_time": 1732987752,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88361,
+        "num": 88361,
+        "word": "SK卡卡",
+        "onboard_time": 1732986134,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 83060,
+        "num": 83060,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732972580,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77656,
+        "num": 77656,
+        "word": "张小斐 喜欢肢体接触是吧",
+        "onboard_time": 1732973179,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70563,
+        "num": 70563,
+        "word": "好东西",
+        "onboard_time": 1732976660,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65387,
+        "num": 67054,
+        "word": "我国首个商业航天发射场首发成功",
+        "onboard_time": 1732980980,
+        "rank": 29,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 66636,
+        "num": 66636,
+        "word": "易烊千玺小网站发了粉丝的声音",
+        "onboard_time": 1732977561,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66338,
+        "num": 66338,
+        "word": "张元英和男伴舞双人芭蕾",
+        "onboard_time": 1732970839,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64765,
+        "num": 64765,
+        "word": "骄阳似我",
+        "onboard_time": 1732977440,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63728,
+        "num": 63728,
+        "word": "赵露思去看凤凰传奇演唱会了",
+        "onboard_time": 1732979001,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56808,
+        "num": 60394,
+        "word": "年轻人得胃癌跟吃外卖有关系吗",
+        "onboard_time": 1732966698,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60088,
+        "num": 60088,
+        "word": "披荆斩棘的孙子",
+        "onboard_time": 1732981219,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56813,
+        "num": 56813,
+        "word": "虞书欣备忘录里的碎片",
+        "onboard_time": 1732982720,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55342,
+        "num": 55342,
+        "word": "日本正考虑推进简化中国公民赴日签证手续",
+        "onboard_time": 1732976240,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51350,
+        "num": 51350,
+        "word": "12月十二星座注意事项",
+        "onboard_time": 1732974380,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49763,
+        "num": 49763,
+        "word": "4人靠云养牛骗了5个亿",
+        "onboard_time": 1732968259,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54471,
+        "num": 49328,
+        "word": "丁禹兮缝缝补补破破烂烂的剧本",
+        "onboard_time": 1732981939,
+        "rank": 40,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 51405,
+        "num": 49262,
+        "word": "金智秀连续三年获世首美",
+        "onboard_time": 1732968618,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47392,
+        "num": 47392,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46626,
+        "num": 46626,
+        "word": "突然发现考公的人越来越多",
+        "onboard_time": 1732970659,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46299,
+        "num": 46299,
+        "word": "王楚钦画的是海贼王路飞",
+        "onboard_time": 1732980260,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46145,
+        "num": 46145,
+        "word": "官方回复常州一直升飞机坠湖",
+        "onboard_time": 1732986915,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42229,
+        "num": 46144,
+        "word": "孟子义李昀锐好嗑",
+        "onboard_time": 1732978822,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41080,
+        "num": 46138,
+        "word": "严浩翔新剧被霸凌路透",
+        "onboard_time": 1732977921,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36417,
+        "num": 46133,
+        "word": "金瀚真去航海了",
+        "onboard_time": 1732982122,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34008,
+        "num": 46123,
+        "word": "张林峰希望更多人因为科研成果认识他",
+        "onboard_time": 1732983618,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#必须坚持守正创新#"
+    }
+  }
+}
