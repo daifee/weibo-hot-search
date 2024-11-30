@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732952149826,
+  "endTime": 1732955274317,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1251453,
+      "num": 1251453,
+      "word": "鹿晗 别逼我把韬叫上来",
+      "onboard_time": 1732952837,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1245326,
       "num": 1245326,
       "word": "在靖国神社涂鸦的中国男子被日本公审",
@@ -57,6 +65,14 @@
       "onboard_time": 1732892000,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1177007,
+      "num": 435765,
+      "word": "双轨 停拍",
+      "onboard_time": 1732953559,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1097534,
@@ -163,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 689364,
+      "num": 645233,
+      "word": "麦琳怒怼杨子",
+      "onboard_time": 1732948758,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655731,
       "num": 655731,
       "word": "爷爷看中LV皮鞋柜姐配合孙女演戏砍价",
@@ -184,14 +208,6 @@
       "word": "papi酱 是狗把他带大的吗",
       "onboard_time": 1732931536,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 645233,
-      "num": 645233,
-      "word": "麦琳怒怼杨子",
-      "onboard_time": 1732948758,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519581,
+      "num": 233865,
+      "word": "中国籍男子承认涂鸦日本靖国神社",
+      "onboard_time": 1732953677,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 503181,
       "num": 344954,
       "word": "韩网友抵制韩国电影",
@@ -339,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423092,
+      "num": 423092,
+      "word": "王楚钦混团抽签台下画画",
+      "onboard_time": 1732950857,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419880,
       "num": 311354,
       "word": "击剑冠军秦雪回应视频被指擦边",
       "onboard_time": 1732947378,
       "rank": 24,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 415597,
+      "num": 226353,
+      "word": "MMA红毯",
+      "onboard_time": 1732951878,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 403132,
@@ -385,6 +425,22 @@
       "onboard_time": 1732934778,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346300,
+      "num": 346300,
+      "word": "中企参展人员遭美国大规模拒签",
+      "onboard_time": 1732951578,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 337682,
+      "num": 251710,
+      "word": "肖战工作室",
+      "onboard_time": 1732951937,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 333684,
@@ -443,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311686,
+      "num": 183474,
+      "word": "陈赫回应鹿晗直播",
+      "onboard_time": 1732954698,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306931,
       "num": 306931,
       "word": "鹿哈给鹿晗刷礼物成为榜一",
@@ -465,6 +529,14 @@
       "onboard_time": 1732894998,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297433,
+      "num": 182114,
+      "word": "留几手让葛夕打过胎",
+      "onboard_time": 1732951818,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 296935,
@@ -505,14 +577,6 @@
       "onboard_time": 1732942638,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252663,
-      "num": 252663,
-      "word": "王楚钦混团抽签台下画画",
-      "onboard_time": 1732950857,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 251627,
@@ -563,20 +627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216214,
+      "num": 216214,
+      "word": "叶嘉莹遗体告别仪式",
+      "onboard_time": 1732950678,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 214297,
       "num": 366988,
       "word": "叙利亚阿勒颇战事升级",
       "onboard_time": 1732932677,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 213385,
-      "num": 213385,
-      "word": "MMA红毯",
-      "onboard_time": 1732951878,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 212740,
@@ -635,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201348,
-      "num": 201348,
-      "word": "叶嘉莹遗体告别仪式",
-      "onboard_time": 1732950678,
-      "rank": 37,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 200008,
       "num": 200008,
       "word": "华晨宇 幸好我是一个创作歌手",
@@ -657,6 +713,14 @@
       "onboard_time": 1732944019,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195969,
+      "num": 179267,
+      "word": "因果报应21刀只是体力的极限",
+      "onboard_time": 1732954038,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 195515,
@@ -811,20 +875,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181242,
-      "num": 181242,
-      "word": "留几手让葛夕打过胎",
-      "onboard_time": 1732951818,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180917,
       "num": 323532,
       "word": "时代少年团不放弃走过曲折",
       "onboard_time": 1732939817,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178818,
+      "num": 178818,
+      "word": "虞书欣团综300拍摄作品",
+      "onboard_time": 1732954218,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 178215,
@@ -1051,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139732,
-      "num": 251710,
-      "word": "肖战工作室",
-      "onboard_time": 1732951937,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139537,
       "num": 139537,
       "word": "女子取款5000元银行要求证明夫妻关系",
@@ -1083,20 +1139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138100,
+      "num": 138100,
+      "word": "宋亚轩说韩语",
+      "onboard_time": 1732951878,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138094,
       "num": 158595,
       "word": "曝姆巴佩已找专家治疗",
       "onboard_time": 1732930936,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137732,
-      "num": 137732,
-      "word": "中企参展人员遭美国大规模拒签",
-      "onboard_time": 1732951578,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136656,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1732936938,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136626,
+      "num": 183173,
+      "word": "一句但悲不见九州同哭倒一片理科生",
+      "onboard_time": 1732952897,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135441,
@@ -1227,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125966,
-      "num": 125966,
-      "word": "宋亚轩说韩语",
-      "onboard_time": 1732951878,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125657,
       "num": 337718,
       "word": "专家称艰苦地区国考报考率达99.5%",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1732931596,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124134,
+      "num": 124134,
+      "word": "孔雪儿终于把面纱摘了",
+      "onboard_time": 1732954398,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 123816,
@@ -1323,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119883,
+      "num": 180814,
+      "word": "乔任梁父亲首次回应巨额封口费一说",
+      "onboard_time": 1732955058,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119430,
       "num": 187727,
       "word": "GOT7明年1月完整体回归",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1732945999,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117602,
+      "num": 117602,
+      "word": "炕烧塌了为什么东北人开心",
+      "onboard_time": 1732954878,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 116354,
@@ -1403,11 +1483,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112660,
+      "num": 112660,
+      "word": "谭松韵蜀锦人家开播排面",
+      "onboard_time": 1732954818,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112648,
       "num": 112648,
       "word": "多地考古类专业毕业即入编",
       "onboard_time": 1732937177,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111488,
+      "num": 111488,
+      "word": "免签朋友圈一个月两次扩容",
+      "onboard_time": 1732954698,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1496,6 +1592,14 @@
       "word": "TheShy和男团大合照",
       "onboard_time": 1732943179,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100800,
+      "num": 114741,
+      "word": "一诺这个眼镜有点酷",
+      "onboard_time": 1732953918,
+      "rank": 43,
       "category": "电竞"
     },
     {
@@ -1595,6 +1699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90762,
+      "num": 182561,
+      "word": "国考河南报名人数约为16.1万人",
+      "onboard_time": 1732952597,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 90002,
       "num": 90002,
       "word": "女孩被困电梯冷静自救后原地写作业",
@@ -1665,6 +1777,14 @@
       "onboard_time": 1732926498,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82052,
+      "num": 441077,
+      "word": "放大看发现唐代名画五牛图细节拉满",
+      "onboard_time": 1732952657,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 81749,
@@ -1843,6 +1963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49843,
+      "num": 183839,
+      "word": "黄景瑜庆生随拍",
+      "onboard_time": 1732955058,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49224,
       "num": 241979,
       "word": "好东西票房破3亿",
@@ -1995,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36630,
+      "num": 220579,
+      "word": "如何应对野猪致害问题",
+      "onboard_time": 1732953738,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36372,
       "num": 262101,
       "word": "国考河南平均竞争比96比1",
@@ -2083,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28837,
+      "num": 179917,
+      "word": "山东临沂禁用的工业镍渣流向连云港",
+      "onboard_time": 1732953799,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25833,
       "num": 82932,
       "word": "宋亚轩滑沙vlog",
@@ -2137,6 +2281,14 @@
       "onboard_time": 1732950377,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21959,
+      "num": 183605,
+      "word": "美国小伙倡议望找到更多二战史料",
+      "onboard_time": 1732954218,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21603,
