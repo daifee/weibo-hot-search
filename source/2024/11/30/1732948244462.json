@@ -1,0 +1,410 @@
+{
+  "runTime": 1732948244462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1679125,
+        "num": 1679125,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 781752,
+        "num": 781752,
+        "word": "在靖国神社涂鸦的中国男子被日本公审",
+        "onboard_time": 1732939219,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43053,
+        "num": 665527,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 622183,
+        "num": 622183,
+        "word": "郑雨盛道歉后李惠利的表情",
+        "onboard_time": 1732942758,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 567167,
+        "num": 567167,
+        "word": "网传李行亮歌手2025试音",
+        "onboard_time": 1732943417,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460759,
+        "num": 460759,
+        "word": "男子确诊肺癌医生一根针冻死癌细胞",
+        "onboard_time": 1732936457,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473349,
+        "num": 456429,
+        "word": "王珞丹换风格了",
+        "onboard_time": 1732945999,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435794,
+        "num": 435794,
+        "word": "樊振东王励勤男双",
+        "onboard_time": 1732945698,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369193,
+        "num": 369193,
+        "word": "我家那小子开播",
+        "onboard_time": 1732943118,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68858,
+        "num": 359187,
+        "word": "尔滨冰雪大世界进度条动了",
+        "onboard_time": 1732947138,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545412,
+        "num": 358986,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30395,
+        "num": 356670,
+        "word": "香奈儿在杭州",
+        "onboard_time": 1732945698,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 356423,
+        "num": 356423,
+        "word": "这些OST一响2024画面感就来了",
+        "onboard_time": 1732940779,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291876,
+        "num": 291876,
+        "word": "陈小春养老保险有点多",
+        "onboard_time": 1732940598,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51947,
+        "num": 284985,
+        "word": "江苏沛县一政协常委被指伪造文凭",
+        "onboard_time": 1732947858,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 283413,
+        "num": 283413,
+        "word": "WTT",
+        "onboard_time": 1732943358,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263663,
+        "num": 263663,
+        "word": "阿汤哥女儿被指身材走样",
+        "onboard_time": 1732942638,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262730,
+        "num": 262730,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 17,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 36372,
+        "num": 262101,
+        "word": "国考河南平均竞争比96比1",
+        "onboard_time": 1732947138,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185098,
+        "num": 260475,
+        "word": "考公上岸后的体制内生活是什么样",
+        "onboard_time": 1732946600,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 921259,
+        "num": 258658,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229613,
+        "num": 257461,
+        "word": "宋亚轩刘耀文互穿应援色",
+        "onboard_time": 1732947378,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56459,
+        "num": 255537,
+        "word": "张小斐首唱电视剧OST",
+        "onboard_time": 1732946479,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201628,
+        "num": 254039,
+        "word": "虞书欣她拍vs自拍",
+        "onboard_time": 1732947858,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188424,
+        "num": 253715,
+        "word": "击剑冠军秦雪回应视频被指擦边",
+        "onboard_time": 1732947378,
+        "rank": 24,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 203064,
+        "num": 251773,
+        "word": "金靖月子中心vlog",
+        "onboard_time": 1732941379,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251055,
+        "num": 251055,
+        "word": "王楚钦孙颖莎奥运会后再打混双",
+        "onboard_time": 1732941799,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89392,
+        "num": 242790,
+        "word": "杨幂一键开启12月",
+        "onboard_time": 1732947020,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30000,
+        "num": 241979,
+        "word": "好东西票房破3亿",
+        "onboard_time": 1732948217,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38597,
+        "num": 241452,
+        "word": "毛利小五郎又当剧场版主角啦",
+        "onboard_time": 1732947078,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 241193,
+        "num": 241193,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 208773,
+        "num": 208773,
+        "word": "蔡文静不分手留着过年吗",
+        "onboard_time": 1732947858,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205026,
+        "num": 205026,
+        "word": "iG官宣重组",
+        "onboard_time": 1732939097,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159420,
+        "num": 159420,
+        "word": "周密 刻板印象",
+        "onboard_time": 1732931897,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151053,
+        "num": 151053,
+        "word": "婚礼前一天46条喜烟全被偷了",
+        "onboard_time": 1732936158,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150661,
+        "num": 150661,
+        "word": "黄景瑜32岁状态",
+        "onboard_time": 1732940959,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137696,
+        "num": 137696,
+        "word": "王楚钦王曼昱出席抽签仪式",
+        "onboard_time": 1732948098,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136673,
+        "num": 136673,
+        "word": "彩虹夫妇第4胎产女称如愿了",
+        "onboard_time": 1732932677,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135383,
+        "num": 135383,
+        "word": "2024成都混团世界杯抽签",
+        "onboard_time": 1732930336,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131211,
+        "num": 131211,
+        "word": "成都混团世界杯国乒抽签结果",
+        "onboard_time": 1732948157,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128712,
+        "num": 128712,
+        "word": "周密周芯竹聊天记录",
+        "onboard_time": 1732901415,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 121696,
+        "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
+        "onboard_time": 1732947378,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121367,
+        "num": 121367,
+        "word": "婚礼中途停电40分钟气哭新人爸妈",
+        "onboard_time": 1732928777,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117955,
+        "num": 117955,
+        "word": "15层高楼四周下沉2米多深业主心慌",
+        "onboard_time": 1732945999,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115408,
+        "num": 115408,
+        "word": "国考",
+        "onboard_time": 1732930877,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114694,
+        "num": 114694,
+        "word": "葛夕闺蜜",
+        "onboard_time": 1732948157,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111486,
+        "num": 111486,
+        "word": "papi酱 是狗把他带大的吗",
+        "onboard_time": 1732931536,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109934,
+        "num": 109934,
+        "word": "丁禹兮高马尾打人事件",
+        "onboard_time": 1732941557,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99667,
+        "num": 99667,
+        "word": "张朝阳不建议掏空六个钱包消费",
+        "onboard_time": 1732934478,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95588,
+        "num": 95588,
+        "word": "莎头组合7年夺冠路",
+        "onboard_time": 1732943778,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党的创新理论更加深入人心#"
+    }
+  }
+}
