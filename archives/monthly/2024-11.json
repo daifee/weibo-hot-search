@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732937678183,
+  "endTime": 1732938413276,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -5699,6 +5699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1031845,
+      "num": 327796,
+      "word": "男子确诊肺癌医生一根针冻死癌细胞",
+      "onboard_time": 1732936457,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1031062,
       "num": 408983,
       "word": "女子促排备孕怀上9胞胎",
@@ -6929,14 +6937,6 @@
       "onboard_time": 1732856660,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 930410,
-      "num": 323493,
-      "word": "男子确诊肺癌医生一根针冻死癌细胞",
-      "onboard_time": 1732936457,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 930130,
@@ -12123,6 +12123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 651854,
+      "num": 651854,
+      "word": "张朝阳不建议掏空六个钱包消费",
+      "onboard_time": 1732934478,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 651803,
       "num": 941775,
       "word": "丁舟杰文学",
@@ -12211,6 +12219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 649176,
+      "num": 649176,
+      "word": "papi酱 是狗把他带大的吗",
+      "onboard_time": 1732931536,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649079,
       "num": 428518,
       "word": "孙颖莎回复孙铭阳",
@@ -12281,14 +12297,6 @@
       "onboard_time": 1731856640,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 646188,
-      "num": 646188,
-      "word": "papi酱 是狗把他带大的吗",
-      "onboard_time": 1732931536,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 645893,
@@ -16195,6 +16203,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 520283,
+      "num": 520283,
+      "word": "婚礼前一天46条喜烟全被偷了",
+      "onboard_time": 1732936158,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520269,
       "num": 520269,
       "word": "曾黎心疼赵露思水下戏",
@@ -16769,14 +16785,6 @@
       "onboard_time": 1732773859,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 505842,
-      "num": 505842,
-      "word": "张朝阳不建议掏空六个钱包消费",
-      "onboard_time": 1732934478,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 505608,
@@ -23331,14 +23339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362906,
-      "num": 362906,
-      "word": "婚礼前一天46条喜烟全被偷了",
-      "onboard_time": 1732936158,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 362834,
       "num": 362834,
       "word": "妙声吻戏 借位",
@@ -23825,6 +23825,14 @@
       "onboard_time": 1730685798,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 353279,
+      "num": 353279,
+      "word": "你好星期六全员晒初雪穿搭",
+      "onboard_time": 1732934778,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 352883,
@@ -25145,14 +25153,6 @@
       "onboard_time": 1732763420,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330973,
-      "num": 330973,
-      "word": "你好星期六全员晒初雪穿搭",
-      "onboard_time": 1732934778,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 330928,
@@ -32467,6 +32467,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 245596,
+      "num": 233267,
+      "word": "乒羽混双大魔王绝版了",
+      "onboard_time": 1732934957,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245451,
       "num": 217532,
       "word": "张泉灵去查了工伤衍生二次伤害的界定",
@@ -33905,14 +33913,6 @@
       "onboard_time": 1731068239,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233267,
-      "num": 233267,
-      "word": "乒羽混双大魔王绝版了",
-      "onboard_time": 1732934957,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 233256,
@@ -35507,6 +35507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221956,
+      "num": 221956,
+      "word": "男子吃掉4500万拍下的香蕉称不错",
+      "onboard_time": 1732937957,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221855,
       "num": 221855,
       "word": "吴磊演技",
@@ -37025,6 +37033,14 @@
       "onboard_time": 1732342580,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212740,
+      "num": 212740,
+      "word": "明日方舟",
+      "onboard_time": 1730426058,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 212740,
@@ -42251,6 +42267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194468,
+      "num": 194468,
+      "word": "MMA颁奖典礼",
+      "onboard_time": 1732933397,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194435,
       "num": 194435,
       "word": "再见爱人第一季 笑红尘",
@@ -44737,6 +44761,14 @@
       "onboard_time": 1730863763,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "网传歌手2025试音名单",
+      "onboard_time": 1732937297,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 187206,
@@ -49755,14 +49787,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 170084,
-      "num": 170084,
-      "word": "明日方舟",
-      "onboard_time": 1730426058,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 170056,
       "num": 170056,
       "word": "何卓佳1比3大藤沙月",
@@ -50392,6 +50416,14 @@
       "word": "恩波俱乐部晒合同",
       "onboard_time": 1732530438,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168177,
+      "num": 229697,
+      "word": "虞书欣温暖过冬十二月行程",
+      "onboard_time": 1732937837,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -54971,14 +55003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154517,
-      "num": 154517,
-      "word": "网传歌手2025试音名单",
-      "onboard_time": 1732937297,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154470,
       "num": 280609,
       "word": "大梦归离",
@@ -55073,14 +55097,6 @@
       "onboard_time": 1731058220,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154056,
-      "num": 154056,
-      "word": "MMA颁奖典礼",
-      "onboard_time": 1732933397,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 154042,
@@ -67019,6 +67035,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 119430,
+      "num": 135759,
+      "word": "GOT7明年1月完整体回归",
+      "onboard_time": 1732938197,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "沈腾说王安宇是五阿呆",
@@ -70305,6 +70329,14 @@
       "onboard_time": 1731454939,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108011,
+      "num": 210489,
+      "word": "大理一奔驰车追尾老年代步车致2死",
+      "onboard_time": 1732935138,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107917,
@@ -83787,6 +83819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50939,
+      "num": 330887,
+      "word": "多地发布缺席城乡居民医保案例",
+      "onboard_time": 1732936578,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50907,
       "num": 370213,
       "word": "刘宇沙漠公路大片",
@@ -86137,14 +86177,6 @@
       "onboard_time": 1732082719,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43764,
-      "num": 330887,
-      "word": "多地发布缺席城乡居民医保案例",
-      "onboard_time": 1732936578,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43712,
@@ -89168,14 +89200,6 @@
       "word": "被老虎咬伤手的村民手术持续4小时",
       "onboard_time": 1732000760,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36439,
-      "num": 210489,
-      "word": "大理一奔驰车追尾老年代步车致2死",
-      "onboard_time": 1732935138,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -94689,6 +94713,14 @@
       "onboard_time": 1731048138,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25057,
+      "num": 133756,
+      "word": "戛纳最佳导演镜头里的杭州",
+      "onboard_time": 1732938017,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 25040,

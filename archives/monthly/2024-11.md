@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 11:34:38
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 11:46:53
 </p>
 </blockquote>
 <p>
@@ -4287,6 +4287,12 @@ AG对战狼队（热度：1032088）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E5%8C%BB%E7%94%9F%E4%B8%80%E6%A0%B9%E9%92%88%E5%86%BB%E6%AD%BB%E7%99%8C%E7%BB%86%E8%83%9E%23" target="weibo">
+男子确诊肺癌医生一根针冻死癌细胞（热度：1031845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BF%83%E6%8E%92%E5%A4%87%E5%AD%95%E6%80%80%E4%B8%8A9%E8%83%9E%E8%83%8E%23" target="weibo">
 女子促排备孕怀上9胞胎（热度：1031062）
 </a>
@@ -5207,12 +5213,6 @@ Zeus道歉（热度：937541）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%8A%B1%E5%A9%B4%E5%84%BF%E8%A2%AD%E8%AD%A6%E6%AF%8D%E5%A5%B3%E9%83%BD%E8%A2%AB%E5%B0%84%E6%9D%80%23" target="weibo">
 美国女子抱婴儿袭警母女都被射杀（热度：930438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%E5%8C%BB%E7%94%9F%E4%B8%80%E6%A0%B9%E9%92%88%E5%86%BB%E6%AD%BB%E7%99%8C%E7%BB%86%E8%83%9E%23" target="weibo">
-男子确诊肺癌医生一根针冻死癌细胞（热度：930410）
 </a>
 </li>
 

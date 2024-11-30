@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732937678183,
+  "endTime": 1732938413276,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -931,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1031845,
+      "num": 327796,
+      "word": "男子确诊肺癌医生一根针冻死癌细胞",
+      "onboard_time": 1732936457,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1030851,
       "num": 450183,
       "word": "美国两囚犯没有身体接触却有了孩子",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1732856660,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 930410,
-      "num": 323493,
-      "word": "男子确诊肺癌医生一根针冻死癌细胞",
-      "onboard_time": 1732936457,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 917521,
@@ -2291,6 +2291,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 651854,
+      "num": 651854,
+      "word": "张朝阳不建议掏空六个钱包消费",
+      "onboard_time": 1732934478,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 651161,
       "num": 315391,
       "word": "周密 周芯竹",
@@ -2315,8 +2323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 646188,
-      "num": 646188,
+      "raw_hot": 649176,
+      "num": 649176,
       "word": "papi酱 是狗把他带大的吗",
       "onboard_time": 1732931536,
       "rank": 13,
@@ -3035,6 +3043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 520283,
+      "num": 520283,
+      "word": "婚礼前一天46条喜烟全被偷了",
+      "onboard_time": 1732936158,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519142,
       "num": 519142,
       "word": "鹤岗暴雪爷爷奶奶从山东赶来陪孙女",
@@ -3105,14 +3121,6 @@
       "onboard_time": 1732773859,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 505842,
-      "num": 505842,
-      "word": "张朝阳不建议掏空六个钱包消费",
-      "onboard_time": 1732934478,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 504678,
@@ -4555,14 +4563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362906,
-      "num": 362906,
-      "word": "婚礼前一天46条喜烟全被偷了",
-      "onboard_time": 1732936158,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 361685,
       "num": 430709,
       "word": "好东西",
@@ -4641,6 +4641,14 @@
       "onboard_time": 1732546160,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353279,
+      "num": 353279,
+      "word": "你好星期六全员晒初雪穿搭",
+      "onboard_time": 1732934778,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 351982,
@@ -4921,14 +4929,6 @@
       "onboard_time": 1732763420,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330973,
-      "num": 330973,
-      "word": "你好星期六全员晒初雪穿搭",
-      "onboard_time": 1732934778,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 330734,
@@ -6499,6 +6499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245596,
+      "num": 233267,
+      "word": "乒羽混双大魔王绝版了",
+      "onboard_time": 1732934957,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245420,
       "num": 245420,
       "word": "幼儿园回应办羊驼婚礼收份子钱",
@@ -6859,14 +6867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233267,
-      "num": 233267,
-      "word": "乒羽混双大魔王绝版了",
-      "onboard_time": 1732934957,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233244,
       "num": 233244,
       "word": "哈尔滨中央大街铺上地毯了",
@@ -7209,6 +7209,14 @@
       "onboard_time": 1732691419,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221956,
+      "num": 221956,
+      "word": "男子吃掉4500万拍下的香蕉称不错",
+      "onboard_time": 1732937957,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221742,
@@ -7569,6 +7577,14 @@
       "onboard_time": 1732695078,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212740,
+      "num": 212740,
+      "word": "明日方舟",
+      "onboard_time": 1732937957,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 212627,
@@ -8603,6 +8619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194468,
+      "num": 194468,
+      "word": "MMA颁奖典礼",
+      "onboard_time": 1732933397,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194402,
       "num": 295637,
       "word": "张颂文夸马嘉祺唱的太好了",
@@ -9145,6 +9169,14 @@
       "onboard_time": 1732676717,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "网传歌手2025试音名单",
+      "onboard_time": 1732937297,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 187127,
@@ -10435,6 +10467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168177,
+      "num": 229697,
+      "word": "虞书欣温暖过冬十二月行程",
+      "onboard_time": 1732937837,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168144,
       "num": 168144,
       "word": "去时少年郎归来英雄魂",
@@ -11491,14 +11531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154517,
-      "num": 154517,
-      "word": "网传歌手2025试音名单",
-      "onboard_time": 1732937297,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154253,
       "num": 585423,
       "word": "黄金饰品重回8字头",
@@ -11513,14 +11545,6 @@
       "onboard_time": 1732854861,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154056,
-      "num": 154056,
-      "word": "MMA颁奖典礼",
-      "onboard_time": 1732933397,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 154042,
@@ -14587,6 +14611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119430,
+      "num": 135759,
+      "word": "GOT7明年1月完整体回归",
+      "onboard_time": 1732938197,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119393,
       "num": 119393,
       "word": "陈慧娴梅艳芳隔空对望",
@@ -15673,6 +15705,14 @@
       "onboard_time": 1732358000,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 108011,
+      "num": 210489,
+      "word": "大理一奔驰车追尾老年代步车致2死",
+      "onboard_time": 1732935138,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107862,
@@ -19307,6 +19347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50939,
+      "num": 330887,
+      "word": "多地发布缺席城乡居民医保案例",
+      "onboard_time": 1732936578,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50851,
       "num": 165457,
       "word": "2024成都混团世界杯抽签",
@@ -19953,14 +20001,6 @@
       "onboard_time": 1732842138,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43764,
-      "num": 330887,
-      "word": "多地发布缺席城乡居民医保案例",
-      "onboard_time": 1732936578,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43705,
@@ -20729,14 +20769,6 @@
       "onboard_time": 1732417458,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 36439,
-      "num": 210489,
-      "word": "大理一奔驰车追尾老年代步车致2死",
-      "onboard_time": 1732935138,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36390,
@@ -22025,6 +22057,14 @@
       "onboard_time": 1732869499,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25057,
+      "num": 133756,
+      "word": "戛纳最佳导演镜头里的杭州",
+      "onboard_time": 1732938017,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 25031,
