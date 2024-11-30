@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733005288637,
+  "endTime": 1733006393019,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -467,6 +467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47668,
+      "num": 46313,
+      "word": "向佐 希望大家继续吓我支持我",
+      "onboard_time": 1732998624,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46623,
+      "num": 46623,
+      "word": "75岁老人控告50岁妻子要回赠与房产",
+      "onboard_time": 1733004491,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38853,
       "num": 84001,
       "word": "美团骑手月均收入5720至10865元",
@@ -499,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30364,
-      "num": 30364,
-      "word": "向佐 希望大家继续吓我支持我",
-      "onboard_time": 1732998624,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 31023,
+      "num": 36024,
+      "word": "耗资7亿欧元巴黎圣母院将重新开放",
+      "onboard_time": 1733000771,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28348,
@@ -531,6 +547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 26106,
+      "num": 26106,
+      "word": "我是刑警 鹤岗大案",
+      "onboard_time": 1733004311,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26046,
       "num": 37691,
       "word": "张远白巡回演唱会",
@@ -545,14 +569,6 @@
       "onboard_time": 1732993031,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25820,
-      "num": 36024,
-      "word": "耗资7亿欧元巴黎圣母院将重新开放",
-      "onboard_time": 1733000771,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25354,
@@ -571,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24216,
+      "num": 41270,
+      "word": "为什么说新疆棉是世界顶级",
+      "onboard_time": 1732993932,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24045,
       "num": 37749,
       "word": "李现香格里拉松赞林寺拍立得",
@@ -579,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21727,
-      "num": 41270,
-      "word": "为什么说新疆棉是世界顶级",
-      "onboard_time": 1732993932,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 21638,
+      "num": 21638,
+      "word": "叙反对派武装称进入阿勒颇市中心地带",
+      "onboard_time": 1733002030,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21279,
@@ -595,28 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20815,
-      "num": 20815,
-      "word": "叙反对派武装称进入阿勒颇市中心地带",
-      "onboard_time": 1733002030,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20525,
-      "num": 20525,
+      "num": 20672,
       "word": "李显龙称否定中国影响力是不明智的",
       "onboard_time": 1732996330,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19569,
-      "num": 42146,
-      "word": "75岁老人控告50岁妻子要回赠与房产",
-      "onboard_time": 1733004491,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18644,
@@ -643,14 +651,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 16867,
-      "num": 16867,
-      "word": "我是刑警 鹤岗大案",
-      "onboard_time": 1733004311,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16029,
       "num": 22340,
       "word": "一人一句支持新疆棉花",
@@ -664,6 +664,22 @@
       "word": "新疆棉销售量截至11月或超200万吨",
       "onboard_time": 1732999391,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13911,
+      "num": 37947,
+      "word": "细化电信诈骗惩戒措施",
+      "onboard_time": 1733005572,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13407,
+      "num": 39457,
+      "word": "内蒙古天空戴了5小时美瞳",
+      "onboard_time": 1733006232,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -699,8 +715,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6358,
-      "num": 23890,
+      "raw_hot": 6987,
+      "num": 38994,
       "word": "范丞丞自拍vs他拍",
       "onboard_time": 1733005271,
       "rank": 29,
