@@ -1,0 +1,410 @@
+{
+  "runTime": 1733009878705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456639,
+        "num": 890579,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209061,
+        "num": 209061,
+        "word": "27岁上海交大博导让大家别焦虑",
+        "onboard_time": 1732978459,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8636,
+        "num": 173704,
+        "word": "微观链博会",
+        "onboard_time": 1732970779,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 266837,
+        "num": 168771,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161115,
+        "num": 161115,
+        "word": "12月对我好一点",
+        "onboard_time": 1733008814,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 730679,
+        "num": 157312,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190851,
+        "num": 145295,
+        "word": "肖战 攻玉",
+        "onboard_time": 1732979540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178100,
+        "num": 145255,
+        "word": "向佐 希望大家继续吓我支持我",
+        "onboard_time": 1732998624,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131905,
+        "num": 131905,
+        "word": "驻日美军士兵酒后私闯民宅还大睡",
+        "onboard_time": 1732995131,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44713,
+        "num": 129800,
+        "word": "内蒙古天空出现3个太阳",
+        "onboard_time": 1733008873,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447687,
+        "num": 127547,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190843,
+        "num": 125442,
+        "word": "我是刑警 鹤岗大案",
+        "onboard_time": 1733004311,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161947,
+        "num": 121627,
+        "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
+        "onboard_time": 1732980500,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121438,
+        "num": 121438,
+        "word": "四川两大国企将重组",
+        "onboard_time": 1732986256,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113568,
+        "num": 113568,
+        "word": "法国小伙准备将日军侵华照片捐赠中国",
+        "onboard_time": 1732991414,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173412,
+        "num": 112978,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108918,
+        "num": 108918,
+        "word": "分手见人品",
+        "onboard_time": 1732975461,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104689,
+        "num": 104689,
+        "word": "75岁老人控告50岁妻子要回赠与房产",
+        "onboard_time": 1733004491,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101950,
+        "num": 101950,
+        "word": "十二月的奇迹",
+        "onboard_time": 1733009294,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84832,
+        "num": 84832,
+        "word": "永夜星河逆跌",
+        "onboard_time": 1732974799,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481709,
+        "num": 84054,
+        "word": "杭州夫妻两人染色体竟相同",
+        "onboard_time": 1732983798,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141583,
+        "num": 82476,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124303,
+        "num": 82110,
+        "word": "新床单晒了一次变微信聊天背景图了",
+        "onboard_time": 1732977740,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79917,
+        "num": 79917,
+        "word": "内蒙古天空戴了5小时美瞳",
+        "onboard_time": 1733006232,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10274,
+        "num": 77063,
+        "word": "楼非楼开箱",
+        "onboard_time": 1733009714,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74907,
+        "num": 74907,
+        "word": "女子凌晨被两条大型犬撕咬",
+        "onboard_time": 1733008153,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70646,
+        "num": 70646,
+        "word": "胃病向胃癌转变的5个信号",
+        "onboard_time": 1732976841,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65886,
+        "num": 65886,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732972580,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65181,
+        "num": 65181,
+        "word": "4人靠云养牛骗了5个亿",
+        "onboard_time": 1732968259,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 60094,
+        "num": 60094,
+        "word": "恋与制作人",
+        "onboard_time": 1733009534,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58881,
+        "num": 58881,
+        "word": "日本正考虑推进简化中国公民赴日签证手续",
+        "onboard_time": 1732976240,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58861,
+        "num": 58861,
+        "word": "年轻人得胃癌跟吃外卖有关系吗",
+        "onboard_time": 1732966698,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58671,
+        "num": 58671,
+        "word": "老人将房产过户妻子后被拒之门外",
+        "onboard_time": 1732975881,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58027,
+        "num": 58027,
+        "word": "合肥LV柜姐5天更新8条卖货视频",
+        "onboard_time": 1732977081,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56883,
+        "num": 56883,
+        "word": "孙千体面",
+        "onboard_time": 1732979780,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55410,
+        "num": 55410,
+        "word": "gidle全员续约",
+        "onboard_time": 1732971079,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55160,
+        "num": 55160,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7244,
+        "num": 54681,
+        "word": "时代少年团在梦的起点相遇",
+        "onboard_time": 1733009534,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54244,
+        "num": 54244,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54064,
+        "num": 54064,
+        "word": "丈夫持斧击杀袭击妻子黑熊",
+        "onboard_time": 1732982239,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47605,
+        "num": 47605,
+        "word": "美团骑手月均收入5720至10865元",
+        "onboard_time": 1732983259,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46515,
+        "num": 46515,
+        "word": "华晨宇 找灵魂伴侣这件事情很难",
+        "onboard_time": 1732980020,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46500,
+        "num": 46500,
+        "word": "成都混团世界杯中国队同组对手出炉",
+        "onboard_time": 1733006951,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43849,
+        "num": 43849,
+        "word": "披荆斩棘的孙子",
+        "onboard_time": 1732981219,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41909,
+        "num": 41909,
+        "word": "2024最后一个月",
+        "onboard_time": 1733008814,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40528,
+        "num": 40528,
+        "word": "西汉姆联2比5阿森纳",
+        "onboard_time": 1733009775,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39982,
+        "num": 39982,
+        "word": "长征十二号火箭成功首飞",
+        "onboard_time": 1733009775,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38588,
+        "num": 38588,
+        "word": "我国首个商业航天发射场首发成功",
+        "onboard_time": 1732980980,
+        "rank": 47,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 38383,
+        "num": 38383,
+        "word": "12月十二星座注意事项",
+        "onboard_time": 1732974380,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37355,
+        "num": 37355,
+        "word": "长征十二号",
+        "onboard_time": 1733009835,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#思想理论之光照亮中国式现代化奋进之路#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733008901470,
+  "endTime": 1733009878705,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1108218,
-      "num": 327189,
+      "num": 890579,
       "word": "黄景瑜孙千 尴尬",
       "onboard_time": 1732976960,
       "rank": 6,
@@ -171,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190843,
+      "num": 125442,
+      "word": "我是刑警 鹤岗大案",
+      "onboard_time": 1733004311,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178100,
+      "num": 145255,
+      "word": "向佐 希望大家继续吓我支持我",
+      "onboard_time": 1732998624,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170904,
       "num": 161931,
       "word": "何秋亊墨宝",
@@ -209,6 +225,14 @@
       "onboard_time": 1732983019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161115,
+      "num": 161115,
+      "word": "12月对我好一点",
+      "onboard_time": 1733008814,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 158631,
@@ -259,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133266,
-      "num": 96092,
-      "word": "向佐 希望大家继续吓我支持我",
-      "onboard_time": 1732998624,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 131905,
+      "num": 131905,
+      "word": "驻日美军士兵酒后私闯民宅还大睡",
+      "onboard_time": 1732995131,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130805,
@@ -283,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124436,
-      "num": 94573,
-      "word": "我是刑警 鹤岗大案",
-      "onboard_time": 1733004311,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122136,
       "num": 122136,
       "word": "虞书欣备忘录里的碎片",
@@ -299,20 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120436,
-      "num": 120436,
-      "word": "12月对我好一点",
-      "onboard_time": 1733008814,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 109063,
-      "num": 109063,
+      "raw_hot": 121438,
+      "num": 121438,
       "word": "四川两大国企将重组",
       "onboard_time": 1732986256,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113568,
+      "num": 113568,
+      "word": "法国小伙准备将日军侵华照片捐赠中国",
+      "onboard_time": 1732991414,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107825,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104689,
+      "num": 104689,
+      "word": "75岁老人控告50岁妻子要回赠与房产",
+      "onboard_time": 1733004491,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104429,
       "num": 104429,
       "word": "SK卡卡",
@@ -361,6 +385,14 @@
       "onboard_time": 1732986075,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101950,
+      "num": 101950,
+      "word": "十二月的奇迹",
+      "onboard_time": 1733009294,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 100747,
@@ -379,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97150,
-      "num": 97150,
-      "word": "驻日美军士兵酒后私闯民宅还大睡",
-      "onboard_time": 1732995131,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94592,
       "num": 94592,
       "word": "突然发现考公的人越来越多",
@@ -403,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89048,
-      "num": 89048,
-      "word": "75岁老人控告50岁妻子要回赠与房产",
-      "onboard_time": 1733004491,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88702,
       "num": 88702,
       "word": "怀上九胞胎女子减7胎后出院",
@@ -419,20 +435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85007,
-      "num": 85007,
-      "word": "法国小伙准备将日军侵华照片捐赠中国",
-      "onboard_time": 1732991414,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 81174,
       "num": 81174,
       "word": "4人靠云养牛骗了5个亿",
       "onboard_time": 1732968259,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 79917,
+      "num": 79917,
+      "word": "内蒙古天空戴了5小时美瞳",
+      "onboard_time": 1733006232,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79896,
@@ -459,11 +475,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61259,
-      "num": 61259,
-      "word": "内蒙古天空戴了5小时美瞳",
-      "onboard_time": 1733006232,
-      "rank": 18,
+      "raw_hot": 74907,
+      "num": 74907,
+      "word": "女子凌晨被两条大型犬撕咬",
+      "onboard_time": 1733008153,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -481,6 +497,30 @@
       "onboard_time": 1732981760,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60094,
+      "num": 60094,
+      "word": "恋与制作人",
+      "onboard_time": 1733009534,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 58671,
+      "num": 58671,
+      "word": "老人将房产过户妻子后被拒之门外",
+      "onboard_time": 1732975881,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58027,
+      "num": 58027,
+      "word": "合肥LV柜姐5天更新8条卖货视频",
+      "onboard_time": 1732977081,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57837,
@@ -507,7 +547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45168,
+      "raw_hot": 47605,
       "num": 84001,
       "word": "美团骑手月均收入5720至10865元",
       "onboard_time": 1732983259,
@@ -515,28 +555,52 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 44106,
-      "num": 44106,
-      "word": "女子凌晨被两条大型犬撕咬",
-      "onboard_time": 1733008153,
-      "rank": 35,
+      "raw_hot": 46515,
+      "num": 46515,
+      "word": "华晨宇 找灵魂伴侣这件事情很难",
+      "onboard_time": 1732980020,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 46500,
+      "num": 89385,
+      "word": "成都混团世界杯中国队同组对手出炉",
+      "onboard_time": 1733006951,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44713,
+      "num": 129800,
+      "word": "内蒙古天空出现3个太阳",
+      "onboard_time": 1733008873,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41153,
-      "num": 41153,
+      "raw_hot": 41909,
+      "num": 41909,
       "word": "2024最后一个月",
       "onboard_time": 1733008814,
       "rank": 37,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40736,
-      "num": 40736,
-      "word": "华晨宇 找灵魂伴侣这件事情很难",
-      "onboard_time": 1732980020,
+      "raw_hot": 40528,
+      "num": 40528,
+      "word": "西汉姆联2比5阿森纳",
+      "onboard_time": 1733009775,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39982,
+      "num": 39982,
+      "word": "长征十二号火箭成功首飞",
+      "onboard_time": 1733009775,
       "rank": 46,
-      "category": "演出"
+      "category": "国内时政"
     },
     {
       "raw_hot": 39006,
@@ -547,12 +611,12 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 38073,
-      "num": 38073,
-      "word": "老人将房产过户妻子后被拒之门外",
-      "onboard_time": 1732975881,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 37355,
+      "num": 37355,
+      "word": "长征十二号",
+      "onboard_time": 1733009835,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37269,
@@ -577,14 +641,6 @@
       "onboard_time": 1732994951,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33971,
-      "num": 89385,
-      "word": "成都混团世界杯中国队同组对手出炉",
-      "onboard_time": 1733006951,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 33483,
@@ -683,14 +739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19558,
-      "num": 49125,
-      "word": "内蒙古天空出现3个太阳",
-      "onboard_time": 1733008873,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18644,
       "num": 86209,
       "word": "向鱼评论席初体验",
@@ -755,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10274,
+      "num": 77063,
+      "word": "楼非楼开箱",
+      "onboard_time": 1733009714,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9793,
       "num": 88673,
       "word": "马龙台湾行第四天现身台北故宫",
@@ -768,6 +824,14 @@
       "word": "鹭卓记录11月的照片",
       "onboard_time": 1733008333,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7244,
+      "num": 54681,
+      "word": "时代少年团在梦的起点相遇",
+      "onboard_time": 1733009534,
+      "rank": 37,
       "category": "艺人"
     },
     {
