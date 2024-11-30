@@ -1,0 +1,410 @@
+{
+  "runTime": 1732981055858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2483989,
+        "num": 2483989,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1670111,
+        "num": 1670111,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13221,
+        "num": 1547075,
+        "word": "微观链博会",
+        "onboard_time": 1732970779,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1540975,
+        "num": 1540975,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446318,
+        "num": 446318,
+        "word": "日本正考虑推进简化中国公民赴日签证手续",
+        "onboard_time": 1732976240,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345963,
+        "num": 345963,
+        "word": "恋与制作人大婚",
+        "onboard_time": 1732970359,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1251888,
+        "num": 338664,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 849303,
+        "num": 330785,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306684,
+        "num": 306684,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263305,
+        "num": 263305,
+        "word": "27岁上海交大博导让大家别焦虑",
+        "onboard_time": 1732978459,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843700,
+        "num": 260063,
+        "word": "肖战 攻玉",
+        "onboard_time": 1732979540,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613756,
+        "num": 247880,
+        "word": "分手见人品",
+        "onboard_time": 1732975461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516763,
+        "num": 240774,
+        "word": "孙千体面",
+        "onboard_time": 1732979780,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446560,
+        "num": 235493,
+        "word": "永夜星河逆跌",
+        "onboard_time": 1732974799,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401165,
+        "num": 227859,
+        "word": "gidle全员续约",
+        "onboard_time": 1732971079,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218998,
+        "num": 218998,
+        "word": "300万投资变成了6万斤网络牛肉",
+        "onboard_time": 1732976180,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206513,
+        "num": 206513,
+        "word": "12月十二星座注意事项",
+        "onboard_time": 1732974380,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199591,
+        "num": 199591,
+        "word": "胃病向胃癌转变的5个信号",
+        "onboard_time": 1732976841,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48515,
+        "num": 199505,
+        "word": "百名会员刚办完卡洗浴店一夜关门",
+        "onboard_time": 1732979300,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157078,
+        "num": 198235,
+        "word": "巴萨1比2拉斯帕尔马斯",
+        "onboard_time": 1732979961,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374964,
+        "num": 196900,
+        "word": "范丞丞希望粉丝对工作室嘴下留情",
+        "onboard_time": 1732978522,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789570,
+        "num": 196377,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395747,
+        "num": 195776,
+        "word": "新床单晒了一次变微信聊天背景图了",
+        "onboard_time": 1732977740,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49735,
+        "num": 194316,
+        "word": "胡成控制欲",
+        "onboard_time": 1732980020,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145478,
+        "num": 193707,
+        "word": "王楚钦画的是海贼王路飞",
+        "onboard_time": 1732980260,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317679,
+        "num": 192823,
+        "word": "张小斐 喜欢肢体接触是吧",
+        "onboard_time": 1732973179,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308794,
+        "num": 191856,
+        "word": "易烊千玺小网站发了粉丝的声音",
+        "onboard_time": 1732977561,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216224,
+        "num": 190896,
+        "word": "好东西",
+        "onboard_time": 1732976660,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150102,
+        "num": 190030,
+        "word": "何秋亊墨宝",
+        "onboard_time": 1732979721,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101757,
+        "num": 188871,
+        "word": "我国首个商业航天发射场首发成功",
+        "onboard_time": 1732980980,
+        "rank": 29,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 76941,
+        "num": 187859,
+        "word": "六千八买两个二手LV包被鉴定为假",
+        "onboard_time": 1732979123,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213658,
+        "num": 187174,
+        "word": "内娱第一个能保护黄景瑜的男人",
+        "onboard_time": 1732974559,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213244,
+        "num": 185959,
+        "word": "赵露思去看凤凰传奇演唱会了",
+        "onboard_time": 1732979001,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185576,
+        "num": 185576,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732972580,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178737,
+        "num": 178737,
+        "word": "华晨宇 找灵魂伴侣这件事情很难",
+        "onboard_time": 1732980020,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168321,
+        "num": 168321,
+        "word": "骄阳似我",
+        "onboard_time": 1732977440,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161830,
+        "num": 161830,
+        "word": "严浩翔新剧被霸凌路透",
+        "onboard_time": 1732977921,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153368,
+        "num": 153368,
+        "word": "军团杯",
+        "onboard_time": 1732979961,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148140,
+        "num": 148140,
+        "word": "年轻人得胃癌跟吃外卖有关系吗",
+        "onboard_time": 1732966698,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142026,
+        "num": 142026,
+        "word": "4人靠云养牛骗了5个亿",
+        "onboard_time": 1732968259,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 136962,
+        "num": 136962,
+        "word": "gidle获年度Record大赏",
+        "onboard_time": 1732980860,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134765,
+        "num": 134765,
+        "word": "王楚钦画纸署名尾田荣一头",
+        "onboard_time": 1732979721,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132875,
+        "num": 132875,
+        "word": "孟子义李昀锐好嗑",
+        "onboard_time": 1732978822,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129686,
+        "num": 129686,
+        "word": "郭艾伦32分",
+        "onboard_time": 1732974680,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129013,
+        "num": 129013,
+        "word": "突然发现考公的人越来越多",
+        "onboard_time": 1732970659,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126925,
+        "num": 126925,
+        "word": "怀上九胞胎女子减7胎后出院",
+        "onboard_time": 1732963879,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124696,
+        "num": 124696,
+        "word": "哈圈",
+        "onboard_time": 1732979059,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118774,
+        "num": 118774,
+        "word": "四川北川一村民家中遭黑熊袭击",
+        "onboard_time": 1732979001,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118026,
+        "num": 118026,
+        "word": "张元英和男伴舞双人芭蕾",
+        "onboard_time": 1732970839,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 5851,
+        "num": 117222,
+        "word": "天冷就不骑车了吗",
+        "onboard_time": 1732980980,
+        "rank": 49,
+        "category": "运动健身,其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#思想理论之光照亮中国式现代化奋进之路#"
+    }
+  }
+}

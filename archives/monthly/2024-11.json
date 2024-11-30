@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732980178100,
+  "endTime": 1732981055858,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -2012,7 +2012,7 @@
     },
     {
       "raw_hot": 1701114,
-      "num": 751524,
+      "num": 1540975,
       "word": "黄景瑜孙千 尴尬",
       "onboard_time": 1732976960,
       "rank": 7,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1730963179,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1670111,
+      "num": 1670111,
+      "word": "艾滋夫妇确诊感染后的第20年",
+      "onboard_time": 1732978640,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1669614,
@@ -2345,14 +2353,6 @@
       "onboard_time": 1731313939,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1619660,
-      "num": 1619660,
-      "word": "艾滋夫妇确诊感染后的第20年",
-      "onboard_time": 1732978640,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1617489,
@@ -8232,6 +8232,14 @@
       "word": "虞书欣拍刘亦菲",
       "onboard_time": 1730897722,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 843700,
+      "num": 260063,
+      "word": "肖战 攻玉",
+      "onboard_time": 1732979540,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -16635,6 +16643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 516763,
+      "num": 243625,
+      "word": "孙千体面",
+      "onboard_time": 1732979780,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516543,
       "num": 498974,
       "word": "葛夕身材好辣",
@@ -20075,14 +20091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 431293,
-      "num": 255200,
-      "word": "肖战 攻玉",
-      "onboard_time": 1732979540,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 431186,
       "num": 431186,
       "word": "Zeus就这样穿着V5出来了",
@@ -23163,6 +23171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374964,
+      "num": 242765,
+      "word": "范丞丞希望粉丝对工作室嘴下留情",
+      "onboard_time": 1732978522,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374915,
       "num": 374915,
       "word": "费启鸣还我高亚楠",
@@ -24057,14 +24073,6 @@
       "onboard_time": 1732696699,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358349,
-      "num": 242765,
-      "word": "范丞丞希望粉丝对工作室嘴下留情",
-      "onboard_time": 1732978522,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 358266,
@@ -31193,6 +31201,14 @@
       "onboard_time": 1731043221,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263305,
+      "num": 263305,
+      "word": "27岁上海交大博导让大家别焦虑",
+      "onboard_time": 1732978459,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263284,
@@ -41443,6 +41459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199591,
+      "num": 243788,
+      "word": "胃病向胃癌转变的5个信号",
+      "onboard_time": 1732976841,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199585,
       "num": 199585,
       "word": "闪耀的恒星首发预告",
@@ -47924,7 +47948,7 @@
     },
     {
       "raw_hot": 180279,
-      "num": 166562,
+      "num": 168321,
       "word": "骄阳似我",
       "onboard_time": 1732977440,
       "rank": 49,
@@ -48353,6 +48377,14 @@
       "onboard_time": 1732287981,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178737,
+      "num": 178737,
+      "word": "华晨宇 找灵魂伴侣这件事情很难",
+      "onboard_time": 1732980020,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 178721,
@@ -49681,14 +49713,6 @@
       "onboard_time": 1732193119,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 174177,
-      "num": 243788,
-      "word": "胃病向胃癌转变的5个信号",
-      "onboard_time": 1732976841,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174096,
@@ -52643,14 +52667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 164900,
-      "num": 164900,
-      "word": "27岁上海交大博导让大家别焦虑",
-      "onboard_time": 1732978459,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164887,
       "num": 164887,
       "word": "下期轮到杨子blue了",
@@ -55451,6 +55467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157078,
+      "num": 198235,
+      "word": "巴萨1比2拉斯帕尔马斯",
+      "onboard_time": 1732979961,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157071,
       "num": 157071,
       "word": "贾冰喊黄景瑜老景瑜子",
@@ -57955,6 +57979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150102,
+      "num": 190030,
+      "word": "何秋亊墨宝",
+      "onboard_time": 1732979721,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 150059,
       "num": 150059,
       "word": "左航归队",
@@ -58113,14 +58145,6 @@
       "onboard_time": 1730943140,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 149711,
-      "num": 149711,
-      "word": "华晨宇 找灵魂伴侣这件事情很难",
-      "onboard_time": 1732980020,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 149699,
@@ -59720,6 +59744,14 @@
       "word": "凯尔特人终结骑士15连胜",
       "onboard_time": 1732070899,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145478,
+      "num": 193707,
+      "word": "王楚钦画的是海贼王路飞",
+      "onboard_time": 1732980260,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -62627,6 +62659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136962,
+      "num": 136962,
+      "word": "gidle获年度Record大赏",
+      "onboard_time": 1732980860,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136948,
       "num": 136948,
       "word": "中国航展版如愿听到泪目",
@@ -63353,6 +63393,14 @@
       "onboard_time": 1731505700,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134765,
+      "num": 241494,
+      "word": "王楚钦画纸署名尾田荣一头",
+      "onboard_time": 1732979721,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 134761,
@@ -66107,14 +66155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126741,
-      "num": 126741,
-      "word": "巴萨1比2拉斯帕尔马斯",
-      "onboard_time": 1732979961,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126721,
       "num": 126721,
       "word": "失笑剧粉用在线文档告别",
@@ -66985,14 +67025,6 @@
       "onboard_time": 1732863020,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 124443,
-      "num": 241494,
-      "word": "王楚钦画纸署名尾田荣一头",
-      "onboard_time": 1732979721,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 124424,
@@ -69011,6 +69043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118774,
+      "num": 244462,
+      "word": "四川北川一村民家中遭黑熊袭击",
+      "onboard_time": 1732979001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118657,
       "num": 118657,
       "word": "当地回应咬人老虎是否击毙",
@@ -69249,14 +69289,6 @@
       "onboard_time": 1730480535,
       "rank": 9,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 117825,
-      "num": 244462,
-      "word": "四川北川一村民家中遭黑熊袭击",
-      "onboard_time": 1732979001,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117756,
@@ -73731,6 +73763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101757,
+      "num": 188871,
+      "word": "我国首个商业航天发射场首发成功",
+      "onboard_time": 1732980980,
+      "rank": 29,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 101730,
       "num": 101730,
       "word": "2024仅剩1个月",
@@ -75921,14 +75961,6 @@
       "onboard_time": 1732716620,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92272,
-      "num": 243625,
-      "word": "孙千体面",
-      "onboard_time": 1732979780,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 92223,
@@ -79187,6 +79219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76941,
+      "num": 242887,
+      "word": "六千八买两个二手LV包被鉴定为假",
+      "onboard_time": 1732979123,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76913,
       "num": 76913,
       "word": "海玲孕晚期两周胖四斤",
@@ -79600,14 +79640,6 @@
       "word": "专家建议偷拍入刑增设侵犯隐私罪",
       "onboard_time": 1732251741,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75161,
-      "num": 242887,
-      "word": "六千八买两个二手LV包被鉴定为假",
-      "onboard_time": 1732979123,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -86443,6 +86475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49735,
+      "num": 194316,
+      "word": "胡成控制欲",
+      "onboard_time": 1732980020,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49717,
       "num": 49717,
       "word": "王伟烈士之子成海军军官",
@@ -86827,6 +86867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48515,
+      "num": 243305,
+      "word": "百名会员刚办完卡洗浴店一夜关门",
+      "onboard_time": 1732979300,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48479,
       "num": 280657,
       "word": "FMVP含量拉满的合影",
@@ -87153,14 +87201,6 @@
       "onboard_time": 1730726242,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47256,
-      "num": 243305,
-      "word": "百名会员刚办完卡洗浴店一夜关门",
-      "onboard_time": 1732979300,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47254,
@@ -90593,14 +90633,6 @@
       "onboard_time": 1732812495,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38423,
-      "num": 167396,
-      "word": "胡成控制欲",
-      "onboard_time": 1732980020,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 38396,
@@ -102859,6 +102891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13221,
+      "num": 1547075,
+      "word": "微观链博会",
+      "onboard_time": 1732970779,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 13220,
       "num": 309717,
       "word": "有效降低全社会物流成本行动方案发布",
@@ -102929,14 +102969,6 @@
       "onboard_time": 1732304951,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 12980,
-      "num": 890265,
-      "word": "微观链博会",
-      "onboard_time": 1732970779,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 12962,
@@ -105073,6 +105105,14 @@
       "onboard_time": 1732735812,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5851,
+      "num": 117222,
+      "word": "天冷就不骑车了吗",
+      "onboard_time": 1732980980,
+      "rank": 49,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 5791,
