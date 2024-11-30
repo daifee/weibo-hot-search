@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732944110013,
+  "endTime": 1732945176144,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1428,7 +1428,7 @@
     },
     {
       "raw_hot": 1957865,
-      "num": 410665,
+      "num": 471520,
       "word": "合肥LV柜姐离职后开始卖货",
       "onboard_time": 1732932557,
       "rank": 10,
@@ -9179,6 +9179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 782464,
+      "num": 782464,
+      "word": "郑雨盛道歉后李惠利的表情",
+      "onboard_time": 1732942758,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 782422,
       "num": 782422,
       "word": "时代少年团演唱会抢票",
@@ -9561,14 +9569,6 @@
       "onboard_time": 1732800139,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 766073,
-      "num": 766073,
-      "word": "郑雨盛道歉后李惠利的表情",
-      "onboard_time": 1732942758,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 764933,
@@ -15155,6 +15155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551375,
+      "num": 551375,
+      "word": "WTT",
+      "onboard_time": 1730458099,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551122,
       "num": 551122,
       "word": "赵丽颖黄晓明新剧开机",
@@ -15665,14 +15673,6 @@
       "onboard_time": 1730440820,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 536441,
-      "num": 536441,
-      "word": "WTT",
-      "onboard_time": 1730458099,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 536435,
@@ -18185,6 +18185,14 @@
       "onboard_time": 1731469761,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 468983,
+      "num": 468983,
+      "word": "我家那小子开播",
+      "onboard_time": 1732943118,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 468895,
@@ -25963,6 +25971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319153,
+      "num": 338951,
+      "word": "这些OST一响2024画面感就来了",
+      "onboard_time": 1732940779,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 319144,
       "num": 319144,
       "word": "飞行员说有些东西就不太方便介绍了",
@@ -30635,6 +30651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262230,
+      "num": 262230,
+      "word": "阿汤哥女儿被指身材走样",
+      "onboard_time": 1732942638,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261861,
       "num": 261861,
       "word": "秦彻深渊主宰",
@@ -30817,14 +30841,6 @@
       "onboard_time": 1731381499,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 260517,
-      "num": 260517,
-      "word": "我家那小子开播",
-      "onboard_time": 1732943118,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 260508,
@@ -31985,6 +32001,14 @@
       "onboard_time": 1730774358,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 250228,
+      "num": 250228,
+      "word": "网传李行亮歌手2025试音",
+      "onboard_time": 1732943417,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 250155,
@@ -33513,14 +33537,6 @@
       "onboard_time": 1732012818,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237006,
-      "num": 237006,
-      "word": "网传李行亮歌手2025试音",
-      "onboard_time": 1732943417,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 236920,
@@ -37611,14 +37627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210597,
-      "num": 338951,
-      "word": "这些OST一响2024画面感就来了",
-      "onboard_time": 1732940779,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 210585,
       "num": 210585,
       "word": "浪姐5团建为张予曦新剧打call",
@@ -41073,6 +41081,14 @@
       "onboard_time": 1732770860,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 198435,
+      "num": 198435,
+      "word": "易烊千玺优哉游哉",
+      "onboard_time": 1732944019,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 198428,
@@ -46923,14 +46939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180474,
-      "num": 260891,
-      "word": "阿汤哥女儿被指身材走样",
-      "onboard_time": 1732942638,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180465,
       "num": 180465,
       "word": "大梦归离倍速这是正常了",
@@ -52003,6 +52011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163838,
+      "num": 248962,
+      "word": "香奈儿时尚发布会",
+      "onboard_time": 1732944979,
+      "rank": 24,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 163780,
       "num": 143832,
       "word": "男子不顾孩子哀求家暴妻子",
@@ -55088,6 +55104,14 @@
       "word": "郑思维想回归家庭了",
       "onboard_time": 1732854861,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154858,
+      "num": 168645,
+      "word": "莎头组合7年夺冠路",
+      "onboard_time": 1732943778,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -59427,6 +59451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142370,
+      "num": 142370,
+      "word": "夏之光说自己的身高全靠鞋",
+      "onboard_time": 1732944680,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142347,
       "num": 142347,
       "word": "当瑞士卷事件在福建",
@@ -62275,6 +62307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134027,
+      "num": 353997,
+      "word": "2024成都混团世界杯抽签",
+      "onboard_time": 1732930336,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134013,
       "num": 275278,
       "word": "质问不修宿舍学生曾反映过宿舍漏水",
@@ -63209,14 +63249,6 @@
       "onboard_time": 1731980959,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131142,
-      "num": 131142,
-      "word": "莎头组合7年夺冠路",
-      "onboard_time": 1732943778,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 131070,
@@ -64371,6 +64403,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 127545,
+      "num": 127545,
+      "word": "张极耳骨钉",
+      "onboard_time": 1732944439,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127522,
       "num": 127522,
       "word": "郑业成演出了李白的少年气",
@@ -64564,7 +64604,7 @@
     },
     {
       "raw_hot": 126979,
-      "num": 126979,
+      "num": 323673,
       "word": "成都混团",
       "onboard_time": 1732891940,
       "rank": 46,
@@ -65793,6 +65833,14 @@
       "onboard_time": 1732869739,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123626,
+      "num": 123626,
+      "word": "梁伟铿生日发文",
+      "onboard_time": 1732944738,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 123604,
@@ -68841,14 +68889,6 @@
       "onboard_time": 1730874324,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114238,
-      "num": 114238,
-      "word": "易烊千玺优哉游哉",
-      "onboard_time": 1732944019,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 114207,
@@ -78003,6 +78043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74301,
+      "num": 472510,
+      "word": "有谷子店卖IP周边月销30万元",
+      "onboard_time": 1732943417,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74280,
       "num": 169128,
       "word": "冯德伦冷脸吐烟",
@@ -82187,14 +82235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57088,
-      "num": 431583,
-      "word": "有谷子店卖IP周边月销30万元",
-      "onboard_time": 1732943417,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57011,
       "num": 220982,
       "word": "沉迷霸总短剧可能加重现实焦虑",
@@ -84161,14 +84201,6 @@
       "onboard_time": 1730430018,
       "rank": 14,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 50851,
-      "num": 165457,
-      "word": "2024成都混团世界杯抽签",
-      "onboard_time": 1732930336,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 50835,
@@ -90096,6 +90128,14 @@
       "word": "打进UFC的女中医石铭",
       "onboard_time": 1732856781,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34867,
+      "num": 249399,
+      "word": "为何奇葩证明还在为难着基层",
+      "onboard_time": 1732941739,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -96035,6 +96075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23293,
+      "num": 186801,
+      "word": "患者单次住院天数为啥受限",
+      "onboard_time": 1732944619,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23278,
       "num": 23278,
       "word": "广西大学回应副院长被指强奸女学生",
@@ -98244,7 +98292,7 @@
     },
     {
       "raw_hot": 18713,
-      "num": 107571,
+      "num": 108326,
       "word": "Tilda杭州拍摄宣传片花絮",
       "onboard_time": 1732942337,
       "rank": 45,

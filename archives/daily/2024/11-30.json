@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732944110013,
+  "endTime": 1732945176144,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1957865,
-      "num": 410665,
+      "num": 471520,
       "word": "合肥LV柜姐离职后开始卖货",
       "onboard_time": 1732932557,
       "rank": 10,
@@ -115,8 +115,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 766073,
-      "num": 766073,
+      "raw_hot": 782464,
+      "num": 782464,
       "word": "郑雨盛道歉后李惠利的表情",
       "onboard_time": 1732942758,
       "rank": 3,
@@ -203,6 +203,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 551375,
+      "num": 551375,
+      "word": "WTT",
+      "onboard_time": 1732943358,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531744,
       "num": 531744,
       "word": "iG官宣重组",
@@ -248,6 +256,14 @@
       "word": "丁禹兮 被打入冷宫的妃子",
       "onboard_time": 1732926676,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 468983,
+      "num": 468983,
+      "word": "我家那小子开播",
+      "onboard_time": 1732943118,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319153,
+      "num": 338951,
+      "word": "这些OST一响2024画面感就来了",
+      "onboard_time": 1732940779,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313904,
       "num": 313904,
       "word": "金靖月子中心vlog",
@@ -379,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260517,
-      "num": 260517,
-      "word": "我家那小子开播",
-      "onboard_time": 1732943118,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 262230,
+      "num": 262230,
+      "word": "阿汤哥女儿被指身材走样",
+      "onboard_time": 1732942638,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 251627,
@@ -401,6 +425,14 @@
       "onboard_time": 1732932977,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250228,
+      "num": 250228,
+      "word": "网传李行亮歌手2025试音",
+      "onboard_time": 1732943417,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 249875,
@@ -425,14 +457,6 @@
       "onboard_time": 1732914130,
       "rank": 40,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 237006,
-      "num": 237006,
-      "word": "网传李行亮歌手2025试音",
-      "onboard_time": 1732943417,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 220288,
@@ -465,14 +489,6 @@
       "onboard_time": 1732934957,
       "rank": 26,
       "category": "舆论监督,时尚"
-    },
-    {
-      "raw_hot": 210597,
-      "num": 338951,
-      "word": "这些OST一响2024画面感就来了",
-      "onboard_time": 1732940779,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 210004,
@@ -513,6 +529,14 @@
       "onboard_time": 1732939037,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198435,
+      "num": 198435,
+      "word": "易烊千玺优哉游哉",
+      "onboard_time": 1732944019,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 195515,
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180474,
-      "num": 260891,
-      "word": "阿汤哥女儿被指身材走样",
-      "onboard_time": 1732942638,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178215,
       "num": 142738,
       "word": "安以轩得知老公被判13年后很伤心",
@@ -731,6 +747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 163838,
+      "num": 248962,
+      "word": "香奈儿时尚发布会",
+      "onboard_time": 1732944979,
+      "rank": 24,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 163504,
       "num": 163504,
       "word": "85岁大爷全网找的大学生们到齐了",
@@ -761,6 +785,14 @@
       "onboard_time": 1732941679,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154858,
+      "num": 168645,
+      "word": "莎头组合7年夺冠路",
+      "onboard_time": 1732943778,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 154693,
@@ -795,20 +827,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148166,
-      "num": 237313,
-      "word": "WTT",
-      "onboard_time": 1732943358,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146221,
       "num": 146221,
       "word": "林一逆应援7000杯奶茶",
       "onboard_time": 1732925779,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142370,
+      "num": 142370,
+      "word": "夏之光说自己的身高全靠鞋",
+      "onboard_time": 1732944680,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 139785,
@@ -891,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134027,
+      "num": 353997,
+      "word": "2024成都混团世界杯抽签",
+      "onboard_time": 1732930336,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133520,
       "num": 133520,
       "word": "国考公共科目笔试",
@@ -907,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131142,
-      "num": 131142,
-      "word": "莎头组合7年夺冠路",
-      "onboard_time": 1732943778,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128523,
       "num": 128523,
       "word": "法考成绩",
@@ -929,6 +961,14 @@
       "onboard_time": 1732933216,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127545,
+      "num": 127545,
+      "word": "张极耳骨钉",
+      "onboard_time": 1732944439,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 127474,
@@ -961,6 +1001,14 @@
       "onboard_time": 1732894698,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123626,
+      "num": 123626,
+      "word": "梁伟铿生日发文",
+      "onboard_time": 1732944738,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 123511,
@@ -1057,14 +1105,6 @@
       "onboard_time": 1732935617,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114238,
-      "num": 114238,
-      "word": "易烊千玺优哉游哉",
-      "onboard_time": 1732944019,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 114194,
@@ -1323,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78797,
+      "num": 323673,
+      "word": "成都混团",
+      "onboard_time": 1732891940,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78637,
       "num": 78637,
       "word": "关晓彤迪拜vlog",
@@ -1363,6 +1411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 74301,
+      "num": 472510,
+      "word": "有谷子店卖IP周边月销30万元",
+      "onboard_time": 1732943417,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73545,
       "num": 957402,
       "word": "何以中国弦歌不辍",
@@ -1385,14 +1441,6 @@
       "onboard_time": 1732938917,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57088,
-      "num": 431583,
-      "word": "有谷子店卖IP周边月销30万元",
-      "onboard_time": 1732943417,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55005,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1732936578,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50851,
-      "num": 165457,
-      "word": "2024成都混团世界杯抽签",
-      "onboard_time": 1732930336,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 50818,
@@ -1579,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34867,
+      "num": 249399,
+      "word": "为何奇葩证明还在为难着基层",
+      "onboard_time": 1732941739,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33768,
       "num": 275550,
       "word": "戛纳最佳导演镜头里的杭州",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1732902314,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23293,
+      "num": 186801,
+      "word": "患者单次住院天数为啥受限",
+      "onboard_time": 1732944619,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23242,
@@ -1692,7 +1748,7 @@
     },
     {
       "raw_hot": 18713,
-      "num": 107571,
+      "num": 108326,
       "word": "Tilda杭州拍摄宣传片花絮",
       "onboard_time": 1732942337,
       "rank": 45,
