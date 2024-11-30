@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 14:44:33
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 15:22:33
 </p>
 </blockquote>
 <p>
@@ -4287,6 +4287,12 @@ S14开幕式播不播（热度：1045831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E6%9B%BE%E5%9C%A8%E5%84%BF%E5%AD%90%E5%A2%93%E5%9C%B0%E8%A7%81%E5%88%B0%E9%80%A0%E8%B0%A3%E8%80%85%23" target="weibo">
+乔任梁父亲曾在儿子墓地见到造谣者（热度：1035402）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35A%E5%B0%86%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8%23" target="weibo">
 歼35A将公开亮相（热度：1034579）
 </a>
@@ -6005,12 +6011,6 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E8%BF%91%E6%97%A5%E4%BA%89%E8%AE%AE%23" target="weibo">
 覃海洋回应近日争议（热度：851526）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%20%E5%A5%B9%E6%8B%8D%E7%9A%84%23" target="weibo">
-永夜星河 她拍的（热度：850896）
 </a>
 </li>
 

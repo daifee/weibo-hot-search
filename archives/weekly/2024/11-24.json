@@ -1,6 +1,6 @@
 {
   "startTime": 1732379213460,
-  "endTime": 1732949073349,
+  "endTime": 1732951353867,
   "band_list": [
     {
       "raw_hot": 7160316,
@@ -961,6 +961,14 @@
       "onboard_time": 1732790659,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1035402,
+      "num": 1165664,
+      "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+      "onboard_time": 1732948337,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1031845,
@@ -2539,6 +2547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 612562,
+      "num": 612562,
+      "word": "麦琳怒怼杨子",
+      "onboard_time": 1732948758,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612380,
       "num": 612380,
       "word": "迪丽热巴 ELLE",
@@ -3123,20 +3139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519041,
+      "num": 391734,
+      "word": "虞书欣她拍vs自拍",
+      "onboard_time": 1732947858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517736,
       "num": 602454,
       "word": "白夜破晓案件法律点上难度了",
       "onboard_time": 1732763479,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 515391,
-      "num": 449884,
-      "word": "乔任梁父亲曾在儿子墓地见到造谣者",
-      "onboard_time": 1732948337,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 513385,
@@ -3667,6 +3683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452592,
+      "num": 312039,
+      "word": "韩网友抵制韩国电影",
+      "onboard_time": 1732948877,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 452321,
       "num": 452321,
       "word": "李小冉杀回疯批女人赛道",
@@ -3937,6 +3961,14 @@
       "onboard_time": 1732785501,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419880,
+      "num": 311354,
+      "word": "击剑冠军秦雪回应视频被指擦边",
+      "onboard_time": 1732947378,
+      "rank": 24,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 419810,
@@ -4291,14 +4323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 391734,
-      "num": 391734,
-      "word": "虞书欣她拍vs自拍",
-      "onboard_time": 1732947858,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 391102,
       "num": 391102,
       "word": "中国最后一位女先生走了",
@@ -4472,6 +4496,14 @@
       "word": "潘展乐等11位奥运冠军抵达新疆",
       "onboard_time": 1732526420,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 375643,
+      "num": 404694,
+      "word": "成都混团世界杯国乒抽签结果",
+      "onboard_time": 1732948157,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -5371,6 +5403,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 313201,
+      "num": 313201,
+      "word": "考公上岸后的体制内生活是什么样",
+      "onboard_time": 1732946600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313036,
       "num": 313036,
       "word": "豫P7A525被网友骑电动车帮找到",
@@ -6041,14 +6081,6 @@
       "onboard_time": 1732586837,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272635,
-      "num": 404694,
-      "word": "成都混团世界杯国乒抽签结果",
-      "onboard_time": 1732948157,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 272379,
@@ -7299,14 +7331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223776,
-      "num": 279194,
-      "word": "击剑冠军秦雪回应视频被指擦边",
-      "onboard_time": 1732947378,
-      "rank": 24,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 223754,
       "num": 223754,
       "word": "华为Mate70一张手就能传照片",
@@ -7753,14 +7777,6 @@
       "onboard_time": 1732804281,
       "rank": 22,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 213721,
-      "num": 260475,
-      "word": "考公上岸后的体制内生活是什么样",
-      "onboard_time": 1732946600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212988,
@@ -9179,6 +9195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190555,
+      "num": 190555,
+      "word": "白鹿李佩仪白衣路透",
+      "onboard_time": 1732950258,
+      "rank": 27,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 190537,
       "num": 190537,
       "word": "雷军看周鸿祎还有下集",
@@ -9675,6 +9699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183912,
+      "num": 312885,
+      "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
+      "onboard_time": 1732947378,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183816,
       "num": 183816,
       "word": "黑龙江鹤岗的雪好大啊",
@@ -10075,6 +10107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179129,
+      "num": 179129,
+      "word": "我是刑警 你真的了解和你结婚的人吗",
+      "onboard_time": 1732949777,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179057,
       "num": 400026,
       "word": "高校回应学生因白事请假被拦",
@@ -10193,6 +10233,14 @@
       "onboard_time": 1732446740,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176752,
+      "num": 193490,
+      "word": "王楚钦混团抽签台下画画",
+      "onboard_time": 1732950857,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 176074,
@@ -11371,6 +11419,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 160594,
+      "num": 221749,
+      "word": "王楚钦王曼昱出席抽签仪式",
+      "onboard_time": 1732948098,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160534,
       "num": 160534,
       "word": "张真源心虚到语言系统紊乱",
@@ -11497,14 +11553,6 @@
       "onboard_time": 1732775840,
       "rank": 9,
       "category": "国内时政,正能量"
-    },
-    {
-      "raw_hot": 158998,
-      "num": 204110,
-      "word": "韩网友抵制韩国电影",
-      "onboard_time": 1732948877,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 158982,
@@ -11851,6 +11899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154383,
+      "num": 154383,
+      "word": "人间百味影像展",
+      "onboard_time": 1732950918,
+      "rank": 34,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 154253,
       "num": 585423,
       "word": "黄金饰品重回8字头",
@@ -12017,14 +12073,6 @@
       "onboard_time": 1732593079,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 151983,
-      "num": 221749,
-      "word": "王楚钦王曼昱出席抽签仪式",
-      "onboard_time": 1732948098,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 151959,
@@ -12233,6 +12281,14 @@
       "onboard_time": 1732623499,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149671,
+      "num": 149671,
+      "word": "平静的疯感还得看李小冉",
+      "onboard_time": 1732950618,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 149608,
@@ -12611,6 +12667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145333,
+      "num": 145333,
+      "word": "叶嘉莹遗体告别仪式",
+      "onboard_time": 1732950678,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 145017,
       "num": 145017,
       "word": "45岁汤唯状态",
@@ -12625,14 +12689,6 @@
       "onboard_time": 1732605860,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 144809,
-      "num": 144809,
-      "word": "麦琳怒怼杨子",
-      "onboard_time": 1732948758,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 143970,
@@ -13451,6 +13507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134999,
+      "num": 134999,
+      "word": "谭松韵时隔三年又演古装",
+      "onboard_time": 1732948818,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134994,
       "num": 194128,
       "word": "葛夕说杨子刘爽狼狈为奸",
@@ -13569,6 +13633,14 @@
       "onboard_time": 1732870099,
       "rank": 44,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 134096,
+      "num": 134096,
+      "word": "周雨彤 没有预期的地方收获最多",
+      "onboard_time": 1732949178,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 134067,
@@ -13755,14 +13827,6 @@
       "category": "体育,互联网"
     },
     {
-      "raw_hot": 131887,
-      "num": 131887,
-      "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
-      "onboard_time": 1732947378,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131819,
       "num": 131819,
       "word": "美国将赴华旅行提醒由三级降为二级",
@@ -13777,6 +13841,14 @@
       "onboard_time": 1732754118,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131590,
+      "num": 131590,
+      "word": "击剑运动员秦雪转型网红被指擦边",
+      "onboard_time": 1732951097,
+      "rank": 42,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 131556,
@@ -14001,6 +14073,14 @@
       "onboard_time": 1732854141,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 128626,
+      "num": 128626,
+      "word": "李昀锐说孟子义怎样都好看",
+      "onboard_time": 1732950138,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 128541,
@@ -16155,6 +16235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108339,
+      "num": 108339,
+      "word": "湖人NBA杯出局",
+      "onboard_time": 1732949239,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108238,
       "num": 203166,
       "word": "王楚钦说球迷是为了我好",
@@ -16696,14 +16784,6 @@
       "word": "白夜破晓 逻辑性",
       "onboard_time": 1732432098,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 99950,
-      "num": 119688,
-      "word": "谭松韵时隔三年又演古装",
-      "onboard_time": 1732948818,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -18456,6 +18536,14 @@
       "word": "梁洪源当爸",
       "onboard_time": 1732836256,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73412,
+      "num": 191285,
+      "word": "檀健次这个冬天心软的神",
+      "onboard_time": 1732950618,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -20299,6 +20387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46708,
+      "num": 193306,
+      "word": "冬至想念你想我MV",
+      "onboard_time": 1732950076,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46632,
       "num": 45732,
       "word": "Angelababy与网友合影",
@@ -21065,6 +21161,14 @@
       "onboard_time": 1732489095,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38926,
+      "num": 179387,
+      "word": "香奈儿屏风里的西湖",
+      "onboard_time": 1732950198,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38922,
@@ -22635,6 +22739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25689,
+      "num": 224926,
+      "word": "部分银行特色存款利率逆势上涨",
+      "onboard_time": 1732950557,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 25639,
       "num": 64585,
       "word": "宋亚轩沙漠酷耶",
@@ -23291,6 +23403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19827,
+      "num": 310415,
+      "word": "魔芋零食成年轻人的新减肥搭子",
+      "onboard_time": 1732950497,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19825,
       "num": 151999,
       "word": "张雨霏李雯雯跳新疆舞",
@@ -23345,6 +23465,14 @@
       "onboard_time": 1732615639,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18944,
+      "num": 188606,
+      "word": "杨子说圣依就是傻",
+      "onboard_time": 1732950377,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 18818,

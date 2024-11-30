@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732949073349,
+  "endTime": 1732951353867,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -56,6 +56,14 @@
       "word": "周芯竹回应分手事件",
       "onboard_time": 1732892000,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1035402,
+      "num": 1165664,
+      "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+      "onboard_time": 1732948337,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612562,
+      "num": 612562,
+      "word": "麦琳怒怼杨子",
+      "onboard_time": 1732948758,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612370,
       "num": 612370,
       "word": "网传李行亮歌手2025试音",
@@ -243,11 +259,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 515391,
-      "num": 449884,
-      "word": "乔任梁父亲曾在儿子墓地见到造谣者",
-      "onboard_time": 1732948337,
-      "rank": 6,
+      "raw_hot": 519041,
+      "num": 391734,
+      "word": "虞书欣她拍vs自拍",
+      "onboard_time": 1732947858,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 452592,
+      "num": 312039,
+      "word": "韩网友抵制韩国电影",
+      "onboard_time": 1732948877,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 441875,
       "num": 441875,
       "word": "樊振东王励勤男双",
@@ -315,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419880,
+      "num": 311354,
+      "word": "击剑冠军秦雪回应视频被指擦边",
+      "onboard_time": 1732947378,
+      "rank": 24,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 403132,
       "num": 403132,
       "word": "2025国考最热岗1.6万人挑一",
@@ -331,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391734,
-      "num": 391734,
-      "word": "虞书欣她拍vs自拍",
-      "onboard_time": 1732947858,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 375643,
+      "num": 404694,
+      "word": "成都混团世界杯国乒抽签结果",
+      "onboard_time": 1732948157,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 356423,
@@ -403,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313201,
+      "num": 313201,
+      "word": "考公上岸后的体制内生活是什么样",
+      "onboard_time": 1732946600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306931,
       "num": 306931,
       "word": "鹿哈给鹿晗刷礼物成为榜一",
@@ -449,14 +489,6 @@
       "onboard_time": 1732883357,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 272635,
-      "num": 404694,
-      "word": "成都混团世界杯国乒抽签结果",
-      "onboard_time": 1732948157,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 272379,
@@ -515,14 +547,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 223776,
-      "num": 279194,
-      "word": "击剑冠军秦雪回应视频被指擦边",
-      "onboard_time": 1732947378,
-      "rank": 24,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 220288,
       "num": 220288,
       "word": "女子取款5000元银行要求丈夫到场",
@@ -537,14 +561,6 @@
       "onboard_time": 1732932677,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 213721,
-      "num": 260475,
-      "word": "考公上岸后的体制内生活是什么样",
-      "onboard_time": 1732946600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212740,
@@ -659,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190555,
+      "num": 190555,
+      "word": "白鹿李佩仪白衣路透",
+      "onboard_time": 1732950258,
+      "rank": 27,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 190516,
       "num": 149226,
       "word": "鹿晗晒爱心纹身",
@@ -723,6 +747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183912,
+      "num": 312885,
+      "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
+      "onboard_time": 1732947378,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183591,
       "num": 183591,
       "word": "梁伟铿说和王昶天作之合所向披靡",
@@ -755,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179129,
+      "num": 179129,
+      "word": "我是刑警 你真的了解和你结婚的人吗",
+      "onboard_time": 1732949777,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178215,
       "num": 142738,
       "word": "安以轩得知老公被判13年后很伤心",
@@ -769,6 +809,14 @@
       "onboard_time": 1732940358,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176752,
+      "num": 193490,
+      "word": "王楚钦混团抽签台下画画",
+      "onboard_time": 1732950857,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 171910,
@@ -851,12 +899,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158998,
-      "num": 204110,
-      "word": "韩网友抵制韩国电影",
-      "onboard_time": 1732948877,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 160594,
+      "num": 221749,
+      "word": "王楚钦王曼昱出席抽签仪式",
+      "onboard_time": 1732948098,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 158649,
@@ -891,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154383,
+      "num": 154383,
+      "word": "人间百味影像展",
+      "onboard_time": 1732950918,
+      "rank": 34,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 153285,
       "num": 153285,
       "word": "黄子弘凡走心长文谈港乐",
@@ -907,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151983,
-      "num": 221749,
-      "word": "王楚钦王曼昱出席抽签仪式",
-      "onboard_time": 1732948098,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 149671,
+      "num": 149671,
+      "word": "平静的疯感还得看李小冉",
+      "onboard_time": 1732950618,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 148258,
@@ -939,12 +995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144809,
-      "num": 144809,
-      "word": "麦琳怒怼杨子",
-      "onboard_time": 1732948758,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 145333,
+      "num": 145333,
+      "word": "叶嘉莹遗体告别仪式",
+      "onboard_time": 1732950678,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 143970,
@@ -1035,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134999,
+      "num": 134999,
+      "word": "谭松韵时隔三年又演古装",
+      "onboard_time": 1732948818,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134694,
       "num": 134694,
       "word": "幼师为追星诈骗家长16万获刑四年",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1732938318,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134096,
+      "num": 134096,
+      "word": "周雨彤 没有预期的地方收获最多",
+      "onboard_time": 1732949178,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 133520,
@@ -1067,12 +1139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131887,
-      "num": 131887,
-      "word": "欲在离婚诉讼期间强奸妻子被判强奸罪",
-      "onboard_time": 1732947378,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 131590,
+      "num": 131590,
+      "word": "击剑运动员秦雪转型网红被指擦边",
+      "onboard_time": 1732951097,
+      "rank": 42,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 129065,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1732948998,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128626,
+      "num": 128626,
+      "word": "李昀锐说孟子义怎样都好看",
+      "onboard_time": 1732950138,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 128523,
@@ -1299,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108339,
+      "num": 108339,
+      "word": "湖人NBA杯出局",
+      "onboard_time": 1732949239,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108011,
       "num": 210489,
       "word": "大理一奔驰车追尾老年代步车致2死",
@@ -1369,14 +1457,6 @@
       "onboard_time": 1732943179,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 99950,
-      "num": 119688,
-      "word": "谭松韵时隔三年又演古装",
-      "onboard_time": 1732948818,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 99490,
@@ -1619,6 +1699,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 73412,
+      "num": 191285,
+      "word": "檀健次这个冬天心软的神",
+      "onboard_time": 1732950618,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65435,
       "num": 255537,
       "word": "张小斐首唱电视剧OST",
@@ -1739,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46708,
+      "num": 193306,
+      "word": "冬至想念你想我MV",
+      "onboard_time": 1732950076,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44159,
       "num": 52446,
       "word": "日本士兵日记揭露南京大屠杀惨状",
@@ -1785,6 +1881,14 @@
       "onboard_time": 1732914191,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38926,
+      "num": 179387,
+      "word": "香奈儿屏风里的西湖",
+      "onboard_time": 1732950198,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38597,
@@ -1915,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25689,
+      "num": 224926,
+      "word": "部分银行特色存款利率逆势上涨",
+      "onboard_time": 1732950557,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 24971,
       "num": 197635,
       "word": "社恐i人在大山里找到向往的生活",
@@ -1993,6 +2105,22 @@
       "onboard_time": 1732913470,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 19827,
+      "num": 310415,
+      "word": "魔芋零食成年轻人的新减肥搭子",
+      "onboard_time": 1732950497,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18944,
+      "num": 188606,
+      "word": "杨子说圣依就是傻",
+      "onboard_time": 1732950377,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 18713,
