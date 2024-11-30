@@ -1,6 +1,6 @@
 {
   "startTime": 1730392123770,
-  "endTime": 1732962174116,
+  "endTime": 1732963255528,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -8148,7 +8148,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 247028,
+      "num": 553836,
       "word": "中国籍男子承认涂鸦日本靖国神社",
       "onboard_time": 1732953677,
       "rank": 10,
@@ -15204,7 +15204,7 @@
     },
     {
       "raw_hot": 551678,
-      "num": 310972,
+      "num": 377023,
       "word": "IVE最佳MV",
       "onboard_time": 1732957758,
       "rank": 11,
@@ -19819,6 +19819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 434024,
+      "num": 300800,
+      "word": "肖战今年不打算参加跨年晚会",
+      "onboard_time": 1732958359,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433564,
       "num": 183523,
       "word": "特朗普提名强硬派霍曼为边境事务负责人",
@@ -21737,14 +21745,6 @@
       "onboard_time": 1732340178,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 396982,
-      "num": 300800,
-      "word": "肖战今年不打算参加跨年晚会",
-      "onboard_time": 1732958359,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 396774,
@@ -26548,7 +26548,7 @@
     },
     {
       "raw_hot": 313612,
-      "num": 220758,
+      "num": 253278,
       "word": "张元英开场",
       "onboard_time": 1732957279,
       "rank": 25,
@@ -27057,6 +27057,14 @@
       "onboard_time": 1732199481,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306733,
+      "num": 306733,
+      "word": "沙特放弃与美国签署防务协议",
+      "onboard_time": 1732957999,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 306732,
@@ -28251,6 +28259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290720,
+      "num": 290720,
+      "word": "猎罪图鉴2 延期",
+      "onboard_time": 1732961778,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290682,
       "num": 201985,
       "word": "发现麦琳以前是好有生命力的人",
@@ -29033,6 +29049,14 @@
       "onboard_time": 1732857021,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281019,
+      "num": 281019,
+      "word": "安徽一学校食堂俩员工吵架打翻饭菜",
+      "onboard_time": 1732960879,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280961,
@@ -30003,6 +30027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 271773,
+      "num": 271773,
+      "word": "葛夕 一个大爹一个小爹",
+      "onboard_time": 1732959140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271697,
       "num": 271697,
       "word": "释小龙室外抽烟",
@@ -30697,6 +30729,14 @@
       "onboard_time": 1730884283,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264658,
+      "num": 264658,
+      "word": "aespa获最佳女团",
+      "onboard_time": 1732960518,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 264541,
@@ -31497,14 +31537,6 @@
       "onboard_time": 1730427498,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256934,
-      "num": 211910,
-      "word": "aespa获最佳女团",
-      "onboard_time": 1732960518,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 256932,
@@ -34883,14 +34915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228630,
-      "num": 154056,
-      "word": "葛夕 一个大爹一个小爹",
-      "onboard_time": 1732959140,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228604,
       "num": 228604,
       "word": "瓦格纳绝杀湖人",
@@ -34937,14 +34961,6 @@
       "onboard_time": 1730892140,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228088,
-      "num": 228088,
-      "word": "沙特放弃与美国签署防务协议",
-      "onboard_time": 1732957999,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 228078,
@@ -35729,6 +35745,14 @@
       "onboard_time": 1731906620,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222780,
+      "num": 167137,
+      "word": "因为偷东西吃练出了核心力量",
+      "onboard_time": 1732961598,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 222733,
@@ -40089,14 +40113,6 @@
       "onboard_time": 1732153819,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 202527,
-      "num": 153221,
-      "word": "猎罪图鉴2 延期",
-      "onboard_time": 1732961778,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 202520,
@@ -51371,14 +51387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166860,
-      "num": 166860,
-      "word": "安徽一学校食堂俩员工吵架打翻饭菜",
-      "onboard_time": 1732960879,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166782,
       "num": 166782,
       "word": "加沙婴儿都要受冻",
@@ -51409,6 +51417,14 @@
       "onboard_time": 1731127219,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166719,
+      "num": 166719,
+      "word": "鹿晗喜欢听泉",
+      "onboard_time": 1732959918,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 166678,
@@ -57899,6 +57915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148549,
+      "num": 200357,
+      "word": "成毅深潜收官文",
+      "onboard_time": 1732962498,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148544,
       "num": 148544,
       "word": "锖青磁退圈了但檀健次不会",
@@ -58161,6 +58185,14 @@
       "onboard_time": 1731461179,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147823,
+      "num": 147823,
+      "word": "留几手 带节奏黑老婆",
+      "onboard_time": 1732962079,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 147810,
@@ -60027,14 +60059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141936,
-      "num": 141936,
-      "word": "因为偷东西吃练出了核心力量",
-      "onboard_time": 1732961598,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141897,
       "num": 141897,
       "word": "张婧仪围读镜头",
@@ -61091,14 +61115,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 139238,
-      "num": 139238,
-      "word": "鹿晗喜欢听泉",
-      "onboard_time": 1732959918,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139209,
       "num": 139209,
       "word": "时代少年团世界儿童日主题歌",
@@ -61257,6 +61273,14 @@
       "onboard_time": 1732760176,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138733,
+      "num": 138733,
+      "word": "Anton发表中文获奖感言",
+      "onboard_time": 1732963098,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 138719,
@@ -61780,7 +61804,7 @@
     },
     {
       "raw_hot": 137243,
-      "num": 137243,
+      "num": 162544,
       "word": "国考公安",
       "onboard_time": 1732956918,
       "rank": 47,
@@ -62875,6 +62899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133965,
+      "num": 190005,
+      "word": "黄圣依曾扮美人鱼为杨子庆生",
+      "onboard_time": 1732962498,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133903,
       "num": 133903,
       "word": "特斯拉限时优惠1万元",
@@ -63601,6 +63633,14 @@
       "onboard_time": 1732286181,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131649,
+      "num": 139259,
+      "word": "日本超330家自来水企业检出永久性化学物质",
+      "onboard_time": 1732962318,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131590,
@@ -65419,6 +65459,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 126347,
+      "num": 126347,
+      "word": "白鹿的头全场最忙",
+      "onboard_time": 1732959678,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126332,
       "num": 126332,
       "word": "永夜星河会员大结局",
@@ -66331,6 +66379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123793,
+      "num": 123793,
+      "word": "大冰吃面好像一个打气筒",
+      "onboard_time": 1732962738,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123791,
       "num": 123791,
       "word": "光夜 邻国那个年轻君主",
@@ -66769,14 +66825,6 @@
       "onboard_time": 1730882904,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122675,
-      "num": 122675,
-      "word": "白鹿的头全场最忙",
-      "onboard_time": 1732959678,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 122564,
@@ -67249,6 +67297,14 @@
       "onboard_time": 1731929538,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121203,
+      "num": 121203,
+      "word": "月鳞绮纪",
+      "onboard_time": 1732963038,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121185,
@@ -67731,6 +67787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119953,
+      "num": 119953,
+      "word": "男子开车打掼蛋被查时系统催出牌",
+      "onboard_time": 1732959618,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119945,
       "num": 119945,
       "word": "秦彻 大小姐的秘密情人",
@@ -67913,14 +67977,6 @@
       "onboard_time": 1731280936,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 119577,
-      "num": 119577,
-      "word": "留几手 带节奏黑老婆",
-      "onboard_time": 1732962079,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 119448,
@@ -69185,14 +69241,6 @@
       "onboard_time": 1732005200,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115199,
-      "num": 115199,
-      "word": "男子开车打掼蛋被查时系统催出牌",
-      "onboard_time": 1732959618,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115188,
@@ -74451,6 +74499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95138,
+      "num": 126402,
+      "word": "苏翊鸣三跳全部顺利完成",
+      "onboard_time": 1732960698,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95060,
       "num": 95060,
       "word": "郑钦文立下新赛季目标",
@@ -76433,6 +76489,14 @@
       "onboard_time": 1732165461,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84617,
+      "num": 118610,
+      "word": "中国海警位中国黄岩岛领海区域执法巡查",
+      "onboard_time": 1732962619,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84601,
@@ -78641,6 +78705,14 @@
       "onboard_time": 1731660799,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74945,
+      "num": 173009,
+      "word": "传下去马龙说自己能打30年酱油",
+      "onboard_time": 1732963098,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 74933,
@@ -88795,6 +88867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39847,
+      "num": 214576,
+      "word": "人民网三评AI伴侣",
+      "onboard_time": 1732961299,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39821,
       "num": 236764,
       "word": "前国脚李毅说今晚国足核心是防守",
@@ -92193,14 +92273,6 @@
       "onboard_time": 1731054980,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32380,
-      "num": 214576,
-      "word": "人民网三评AI伴侣",
-      "onboard_time": 1732961299,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32370,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1732963255528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 819468,
+        "num": 1131114,
+        "word": "双轨 停拍",
+        "onboard_time": 1732953559,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646967,
+        "num": 646967,
+        "word": "微信朋友圈显示未能点赞",
+        "onboard_time": 1732957519,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30466,
+        "num": 556262,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 553836,
+        "num": 553836,
+        "word": "中国籍男子承认涂鸦日本靖国神社",
+        "onboard_time": 1732953677,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377023,
+        "num": 377023,
+        "word": "IVE最佳MV",
+        "onboard_time": 1732957758,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308887,
+        "num": 308887,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 306733,
+        "num": 306733,
+        "word": "沙特放弃与美国签署防务协议",
+        "onboard_time": 1732957999,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304732,
+        "num": 304732,
+        "word": "乔任梁父亲曾在儿子墓地见到造谣者",
+        "onboard_time": 1732948337,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290720,
+        "num": 290720,
+        "word": "猎罪图鉴2 延期",
+        "onboard_time": 1732961778,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281019,
+        "num": 281019,
+        "word": "安徽一学校食堂俩员工吵架打翻饭菜",
+        "onboard_time": 1732960879,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434024,
+        "num": 279893,
+        "word": "肖战今年不打算参加跨年晚会",
+        "onboard_time": 1732958359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271773,
+        "num": 271773,
+        "word": "葛夕 一个大爹一个小爹",
+        "onboard_time": 1732959140,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264658,
+        "num": 264658,
+        "word": "aespa获最佳女团",
+        "onboard_time": 1732960518,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253278,
+        "num": 253278,
+        "word": "张元英开场",
+        "onboard_time": 1732957279,
+        "rank": 13,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 246320,
+        "num": 246320,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241316,
+        "num": 241316,
+        "word": "女子被2大型犬撕咬司机鸣笛驱赶",
+        "onboard_time": 1732957219,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211327,
+        "num": 211327,
+        "word": "肺炎支原体感染者耐药率增加",
+        "onboard_time": 1732958837,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124171,
+        "num": 205344,
+        "word": "一句但悲不见九州同哭倒一片理科生",
+        "onboard_time": 1732952897,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148549,
+        "num": 200357,
+        "word": "成毅深潜收官文",
+        "onboard_time": 1732962498,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133965,
+        "num": 190005,
+        "word": "黄圣依曾扮美人鱼为杨子庆生",
+        "onboard_time": 1732962498,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508608,
+        "num": 181788,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181325,
+        "num": 181325,
+        "word": "TheShy转iG重组微博",
+        "onboard_time": 1732958540,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 443062,
+        "num": 180401,
+        "word": "金莎焉栩嘉逛街被偶遇",
+        "onboard_time": 1732956977,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265494,
+        "num": 176907,
+        "word": "女子5年剖4胎宣布封肚",
+        "onboard_time": 1732957999,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74945,
+        "num": 173009,
+        "word": "传下去马龙说自己能打30年酱油",
+        "onboard_time": 1732963098,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242244,
+        "num": 171283,
+        "word": "周密",
+        "onboard_time": 1732952837,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222780,
+        "num": 167137,
+        "word": "因为偷东西吃练出了核心力量",
+        "onboard_time": 1732961598,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166811,
+        "num": 166811,
+        "word": "沈梦瑶与丝芭解约成功",
+        "onboard_time": 1732955418,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166719,
+        "num": 166719,
+        "word": "鹿晗喜欢听泉",
+        "onboard_time": 1732959918,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121977,
+        "num": 162544,
+        "word": "国考公安",
+        "onboard_time": 1732956918,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39847,
+        "num": 159533,
+        "word": "人民网三评AI伴侣",
+        "onboard_time": 1732961299,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159511,
+        "num": 159511,
+        "word": "MMA红毯",
+        "onboard_time": 1732951878,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158652,
+        "num": 158652,
+        "word": "aespa全员黑裙",
+        "onboard_time": 1732955358,
+        "rank": 32,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 147823,
+        "num": 147823,
+        "word": "留几手 带节奏黑老婆",
+        "onboard_time": 1732962079,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131649,
+        "num": 139259,
+        "word": "日本超330家自来水企业检出永久性化学物质",
+        "onboard_time": 1732962318,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138733,
+        "num": 138733,
+        "word": "Anton发表中文获奖感言",
+        "onboard_time": 1732963098,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136715,
+        "num": 136715,
+        "word": "HEYA",
+        "onboard_time": 1732958959,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120615,
+        "num": 132864,
+        "word": "免签朋友圈一个月两次扩容",
+        "onboard_time": 1732954698,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132729,
+        "num": 132729,
+        "word": "叶舒华深V长裙",
+        "onboard_time": 1732959918,
+        "rank": 38,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 127043,
+        "num": 127043,
+        "word": "麦琳怒怼杨子",
+        "onboard_time": 1732948758,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95138,
+        "num": 126402,
+        "word": "苏翊鸣三跳全部顺利完成",
+        "onboard_time": 1732960698,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126347,
+        "num": 126347,
+        "word": "白鹿的头全场最忙",
+        "onboard_time": 1732959678,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124838,
+        "num": 124838,
+        "word": "肖战工作室",
+        "onboard_time": 1732951937,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123793,
+        "num": 123793,
+        "word": "大冰吃面好像一个打气筒",
+        "onboard_time": 1732962738,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121203,
+        "num": 121203,
+        "word": "月鳞绮纪",
+        "onboard_time": 1732963038,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120647,
+        "num": 120647,
+        "word": "周子瑜回应整容质疑",
+        "onboard_time": 1732959378,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119953,
+        "num": 119953,
+        "word": "男子开车打掼蛋被查时系统催出牌",
+        "onboard_time": 1732959618,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84617,
+        "num": 118610,
+        "word": "中国海警位中国黄岩岛领海区域执法巡查",
+        "onboard_time": 1732962619,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118208,
+        "num": 118208,
+        "word": "MMA直播",
+        "onboard_time": 1732952238,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116678,
+        "num": 116678,
+        "word": "王楚钦混团抽签台下画画",
+        "onboard_time": 1732950857,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推进马克思主义中国化时代化作出更大贡献#"
+    }
+  }
+}

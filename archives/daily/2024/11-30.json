@@ -1,6 +1,6 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732962174116,
+  "endTime": 1732963255528,
   "band_list": [
     {
       "raw_hot": 2395526,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 844988,
-      "num": 247028,
+      "num": 553836,
       "word": "中国籍男子承认涂鸦日本靖国神社",
       "onboard_time": 1732953677,
       "rank": 10,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 551678,
-      "num": 310972,
+      "num": 377023,
       "word": "IVE最佳MV",
       "onboard_time": 1732957758,
       "rank": 11,
@@ -387,6 +387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 434024,
+      "num": 300800,
+      "word": "肖战今年不打算参加跨年晚会",
+      "onboard_time": 1732958359,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431910,
       "num": 431910,
       "word": "26岁专科生考研成功把公司开进大学",
@@ -433,14 +441,6 @@
       "onboard_time": 1732933037,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 396982,
-      "num": 300800,
-      "word": "肖战今年不打算参加跨年晚会",
-      "onboard_time": 1732958359,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 393685,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 313612,
-      "num": 220758,
+      "num": 253278,
       "word": "张元英开场",
       "onboard_time": 1732957279,
       "rank": 25,
@@ -609,6 +609,14 @@
       "onboard_time": 1732882639,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306733,
+      "num": 306733,
+      "word": "沙特放弃与美国签署防务协议",
+      "onboard_time": 1732957999,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 300080,
@@ -643,6 +651,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290720,
+      "num": 290720,
+      "word": "猎罪图鉴2 延期",
+      "onboard_time": 1732961778,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281019,
+      "num": 281019,
+      "word": "安徽一学校食堂俩员工吵架打翻饭菜",
+      "onboard_time": 1732960879,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277978,
       "num": 158255,
       "word": "胃病变胃癌前一般有5个症状",
@@ -659,20 +683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271773,
+      "num": 271773,
+      "word": "葛夕 一个大爹一个小爹",
+      "onboard_time": 1732959140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264658,
+      "num": 264658,
+      "word": "aespa获最佳女团",
+      "onboard_time": 1732960518,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263663,
       "num": 263663,
       "word": "阿汤哥女儿被指身材走样",
       "onboard_time": 1732942638,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256934,
-      "num": 211910,
-      "word": "aespa获最佳女团",
-      "onboard_time": 1732960518,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 251627,
@@ -723,28 +755,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 228630,
-      "num": 154056,
-      "word": "葛夕 一个大爹一个小爹",
-      "onboard_time": 1732959140,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 228088,
-      "num": 228088,
-      "word": "沙特放弃与美国签署防务协议",
-      "onboard_time": 1732957999,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 227377,
       "num": 227377,
       "word": "向佐地位又要降了",
       "onboard_time": 1732956197,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222780,
+      "num": 167137,
+      "word": "因为偷东西吃练出了核心力量",
+      "onboard_time": 1732961598,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 220288,
@@ -832,14 +856,6 @@
       "word": "沉香长大演警察",
       "onboard_time": 1732941018,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202527,
-      "num": 153221,
-      "word": "猎罪图鉴2 延期",
-      "onboard_time": 1732961778,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1123,12 +1139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166860,
-      "num": 166860,
-      "word": "安徽一学校食堂俩员工吵架打翻饭菜",
-      "onboard_time": 1732960879,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 166719,
+      "num": 166719,
+      "word": "鹿晗喜欢听泉",
+      "onboard_time": 1732959918,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 165579,
@@ -1267,12 +1283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148549,
+      "num": 200357,
+      "word": "成毅深潜收官文",
+      "onboard_time": 1732962498,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148258,
       "num": 148258,
       "word": "刘耀文百花奖提名者采访",
       "onboard_time": 1732934897,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147823,
+      "num": 147823,
+      "word": "留几手 带节奏黑老婆",
+      "onboard_time": 1732962079,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146703,
@@ -1307,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141936,
-      "num": 141936,
-      "word": "因为偷东西吃练出了核心力量",
-      "onboard_time": 1732961598,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141408,
       "num": 141408,
       "word": "卓沅谁懂啊杭州可冷",
@@ -1347,20 +1371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139238,
-      "num": 139238,
-      "word": "鹿晗喜欢听泉",
-      "onboard_time": 1732959918,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138869,
       "num": 138869,
       "word": "国乒队员用一个词描述成都",
       "onboard_time": 1732940419,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138733,
+      "num": 138733,
+      "word": "Anton发表中文获奖感言",
+      "onboard_time": 1732963098,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 138668,
@@ -1396,7 +1420,7 @@
     },
     {
       "raw_hot": 137243,
-      "num": 137243,
+      "num": 162544,
       "word": "国考公安",
       "onboard_time": 1732956918,
       "rank": 47,
@@ -1475,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133965,
+      "num": 190005,
+      "word": "黄圣依曾扮美人鱼为杨子庆生",
+      "onboard_time": 1732962498,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133520,
       "num": 133520,
       "word": "国考公共科目笔试",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1732958837,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131649,
+      "num": 139259,
+      "word": "日本超330家自来水企业检出永久性化学物质",
+      "onboard_time": 1732962318,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131590,
@@ -1571,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126347,
+      "num": 126347,
+      "word": "白鹿的头全场最忙",
+      "onboard_time": 1732959678,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125657,
       "num": 337718,
       "word": "专家称艰苦地区国考报考率达99.5%",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1732894698,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123793,
+      "num": 123793,
+      "word": "大冰吃面好像一个打气筒",
+      "onboard_time": 1732962738,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 123626,
@@ -1635,14 +1691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122675,
-      "num": 122675,
-      "word": "白鹿的头全场最忙",
-      "onboard_time": 1732959678,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122135,
       "num": 88338,
       "word": "安静公主",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1732934957,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121203,
+      "num": 121203,
+      "word": "月鳞绮纪",
+      "onboard_time": 1732963038,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121080,
@@ -1675,12 +1731,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119577,
-      "num": 119577,
-      "word": "留几手 带节奏黑老婆",
-      "onboard_time": 1732962079,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 119953,
+      "num": 119953,
+      "word": "男子开车打掼蛋被查时系统催出牌",
+      "onboard_time": 1732959618,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119430,
@@ -1736,14 +1792,6 @@
       "word": "山东潍坊两金店同日被抢",
       "onboard_time": 1732935797,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115199,
-      "num": 115199,
-      "word": "男子开车打掼蛋被查时系统催出牌",
-      "onboard_time": 1732959618,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1987,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95138,
+      "num": 126402,
+      "word": "苏翊鸣三跳全部顺利完成",
+      "onboard_time": 1732960698,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93735,
       "num": 182561,
       "word": "国考河南报名人数约为16.1万人",
@@ -2091,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84617,
+      "num": 118610,
+      "word": "中国海警位中国黄岩岛领海区域执法巡查",
+      "onboard_time": 1732962619,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82052,
       "num": 441077,
       "word": "放大看发现唐代名画五牛图细节拉满",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1732922714,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74945,
+      "num": 173009,
+      "word": "传下去马龙说自己能打30年酱油",
+      "onboard_time": 1732963098,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 74301,
@@ -2387,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39847,
+      "num": 214576,
+      "word": "人民网三评AI伴侣",
+      "onboard_time": 1732961299,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39635,
       "num": 88748,
       "word": "fromis9结束合约",
@@ -2505,14 +2585,6 @@
       "onboard_time": 1732938017,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32380,
-      "num": 214576,
-      "word": "人民网三评AI伴侣",
-      "onboard_time": 1732961299,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31656,
