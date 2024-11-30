@@ -1,10 +1,18 @@
 {
   "startTime": 1732897783028,
-  "endTime": 1732938413276,
+  "endTime": 1732940866222,
   "band_list": [
     {
+      "raw_hot": 2350634,
+      "num": 2350634,
+      "word": "男子吃掉4500万拍下的香蕉称不错",
+      "onboard_time": 1732937957,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1957865,
-      "num": 362475,
+      "num": 405868,
       "word": "合肥LV柜姐离职后开始卖货",
       "onboard_time": 1732932557,
       "rank": 10,
@@ -27,8 +35,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1220310,
+      "num": 1220310,
+      "word": "在靖国神社涂鸦的中国男子被日本公审",
+      "onboard_time": 1732939219,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1031845,
-      "num": 327796,
+      "num": 797646,
       "word": "男子确诊肺癌医生一根针冻死癌细胞",
       "onboard_time": 1732936457,
       "rank": 11,
@@ -163,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 531744,
+      "num": 531744,
+      "word": "iG官宣重组",
+      "onboard_time": 1732939097,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 530930,
       "num": 165410,
       "word": "周密 周芯竹",
@@ -227,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345952,
+      "num": 415436,
+      "word": "员工已读不回负责人凌晨爆粗口",
+      "onboard_time": 1732939458,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 333684,
       "num": 333684,
       "word": "龚俊不能说糊",
@@ -249,6 +281,14 @@
       "onboard_time": 1732873159,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322645,
+      "num": 322645,
+      "word": "结婚3年流产2次竟是老公精子碎了",
+      "onboard_time": 1732940358,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306931,
@@ -291,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 261805,
+      "num": 261805,
+      "word": "王安宇去有风的地方旅行vlog",
+      "onboard_time": 1732939817,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251627,
       "num": 251627,
       "word": "金高银获青龙影后",
@@ -329,14 +377,6 @@
       "onboard_time": 1732914130,
       "rank": 40,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 221956,
-      "num": 221956,
-      "word": "男子吃掉4500万拍下的香蕉称不错",
-      "onboard_time": 1732937957,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220288,
@@ -385,6 +425,14 @@
       "onboard_time": 1732891401,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200008,
+      "num": 200008,
+      "word": "华晨宇 幸好我是一个创作歌手",
+      "onboard_time": 1732939037,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 195515,
@@ -452,7 +500,7 @@
     },
     {
       "raw_hot": 186413,
-      "num": 186413,
+      "num": 194581,
       "word": "龚俊彭小苒暗河传杀青特辑",
       "onboard_time": 1732934478,
       "rank": 28,
@@ -489,6 +537,14 @@
       "onboard_time": 1732887380,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180917,
+      "num": 323532,
+      "word": "时代少年团不放弃走过曲折",
+      "onboard_time": 1732939817,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 178215,
@@ -531,12 +587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167400,
+      "num": 167400,
+      "word": "衡门有狐临江仙预约破100万",
+      "onboard_time": 1732939939,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165579,
       "num": 165579,
       "word": "名侦探柯南独眼的残像",
       "onboard_time": 1732934957,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 163673,
+      "num": 277853,
+      "word": "闪耀暖暖",
+      "onboard_time": 1732940297,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 163504,
@@ -643,6 +715,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134407,
+      "num": 134407,
+      "word": "山东潍坊两起首饰店被抢案件告破",
+      "onboard_time": 1732938318,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133520,
+      "num": 133520,
+      "word": "国考公共科目笔试",
+      "onboard_time": 1732939219,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128523,
       "num": 128523,
       "word": "法考成绩",
@@ -723,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121522,
+      "num": 121522,
+      "word": "王安宇怼脸拍宋亚轩",
+      "onboard_time": 1732940358,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121080,
       "num": 121080,
       "word": "初冬美景亦斑斓",
@@ -740,7 +836,7 @@
     },
     {
       "raw_hot": 119430,
-      "num": 135759,
+      "num": 186272,
       "word": "GOT7明年1月完整体回归",
       "onboard_time": 1732938197,
       "rank": 35,
@@ -761,6 +857,14 @@
       "onboard_time": 1732935797,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115968,
+      "num": 115968,
+      "word": "国乒队员用一个词描述成都",
+      "onboard_time": 1732940419,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114950,
@@ -795,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113407,
+      "num": 323373,
+      "word": "叙政府军数十台无线通讯设备爆炸",
+      "onboard_time": 1732939697,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112648,
       "num": 112648,
       "word": "多地考古类专业毕业即入编",
@@ -803,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111849,
+      "num": 179214,
+      "word": "陈小春养老保险有点多",
+      "onboard_time": 1732940598,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111479,
       "num": 111479,
       "word": "韩国90后女演员实绩",
       "onboard_time": 1732894339,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110226,
+      "num": 110226,
+      "word": "蜀锦人家",
+      "onboard_time": 1732940717,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 108011,
@@ -1060,7 +1188,7 @@
     },
     {
       "raw_hot": 73545,
-      "num": 677088,
+      "num": 824633,
       "word": "何以中国弦歌不辍",
       "onboard_time": 1732934658,
       "rank": 2,
@@ -1137,6 +1265,14 @@
       "onboard_time": 1732904653,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42200,
+      "num": 323061,
+      "word": "男子为吃野猪设电网猎捕被刑拘",
+      "onboard_time": 1732939579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41977,
@@ -1243,6 +1379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26801,
+      "num": 275550,
+      "word": "戛纳最佳导演镜头里的杭州",
+      "onboard_time": 1732938017,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25962,
+      "num": 338951,
+      "word": "这些OST一响2024画面感就来了",
+      "onboard_time": 1732940779,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 25833,
       "num": 82932,
       "word": "宋亚轩滑沙vlog",
@@ -1251,12 +1403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25057,
-      "num": 133756,
-      "word": "戛纳最佳导演镜头里的杭州",
-      "onboard_time": 1732938017,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 24971,
+      "num": 197635,
+      "word": "社恐i人在大山里找到向往的生活",
+      "onboard_time": 1732939579,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24272,
@@ -1281,6 +1433,14 @@
       "onboard_time": 1732898417,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21603,
+      "num": 322779,
+      "word": "蜀锦人家今日开播",
+      "onboard_time": 1732933097,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 21168,

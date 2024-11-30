@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 11:46:53
+本榜单时间：2024/11/01 00:28:43 ~ 2024/11/30 12:27:46
 </p>
 </blockquote>
 <p>
@@ -659,6 +659,12 @@ BIGBANG合体（热度：2423890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E7%BA%A6%E5%A5%87%E5%85%8B%23" target="weibo">
 王楚钦vs约奇克（热度：2362812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E6%8E%894500%E4%B8%87%E6%8B%8D%E4%B8%8B%E7%9A%84%E9%A6%99%E8%95%89%E7%A7%B0%E4%B8%8D%E9%94%99%23" target="weibo">
+男子吃掉4500万拍下的香蕉称不错（热度：2350634）
 </a>
 </li>
 
@@ -3209,6 +3215,12 @@ Zeus离队（热度：1224601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F300%E5%85%83%E6%8A%A26399%E5%85%83%E4%B9%9D%E5%8F%B7%E7%94%B5%E8%BD%A6%E6%8F%90%E8%BD%A6%E8%A2%AB%E6%8B%92%23" target="weibo">
 大学生300元抢6399元九号电车提车被拒（热度：1222231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E6%B6%82%E9%B8%A6%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%85%AC%E5%AE%A1%23" target="weibo">
+在靖国神社涂鸦的中国男子被日本公审（热度：1220310）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ K7034列车脱轨线路近10年3次脱轨（热度：863559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 梁靖崑vs张本智和（热度：850459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E6%9D%A1%E5%8B%87%E6%95%A2%E7%9A%84%E6%B1%89%E5%AD%90%23" target="weibo">
-普京称特朗普是条勇敢的汉子（热度：850138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E9%A2%91%E7%B9%81%E7%BE%8E%E7%94%B2%E6%8C%87%E7%94%B2%E4%B8%8A%E7%8E%B0%E4%B8%89%E5%8F%89%E6%88%9F%23" target="weibo">
-姑娘频繁美甲指甲上现三叉戟（热度：849419）
 </a>
 </li>
 

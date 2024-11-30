@@ -1,0 +1,410 @@
+{
+  "runTime": 1732940866222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2350634,
+        "num": 2350634,
+        "word": "男子吃掉4500万拍下的香蕉称不错",
+        "onboard_time": 1732937957,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1220310,
+        "num": 1220310,
+        "word": "在靖国神社涂鸦的中国男子被日本公审",
+        "onboard_time": 1732939219,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44883,
+        "num": 824633,
+        "word": "何以中国弦歌不辍",
+        "onboard_time": 1732934658,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 797646,
+        "num": 797646,
+        "word": "男子确诊肺癌医生一根针冻死癌细胞",
+        "onboard_time": 1732936457,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537557,
+        "num": 537557,
+        "word": "papi酱 是狗把他带大的吗",
+        "onboard_time": 1732931536,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531744,
+        "num": 531744,
+        "word": "iG官宣重组",
+        "onboard_time": 1732939097,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 495908,
+        "num": 495908,
+        "word": "婚礼前一天46条喜烟全被偷了",
+        "onboard_time": 1732936158,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426814,
+        "num": 426814,
+        "word": "张朝阳不建议掏空六个钱包消费",
+        "onboard_time": 1732934478,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 377719,
+        "num": 419512,
+        "word": "周密 刻板印象",
+        "onboard_time": 1732931897,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345952,
+        "num": 415436,
+        "word": "员工已读不回负责人凌晨爆粗口",
+        "onboard_time": 1732939458,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1087096,
+        "num": 405868,
+        "word": "合肥LV柜姐离职后开始卖货",
+        "onboard_time": 1732932557,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453873,
+        "num": 396847,
+        "word": "外交部回应优衣库不用新疆棉",
+        "onboard_time": 1732868000,
+        "rank": 11,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 390253,
+        "num": 390253,
+        "word": "彩虹夫妇第4胎产女称如愿了",
+        "onboard_time": 1732932677,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373820,
+        "num": 373820,
+        "word": "我支持新疆棉花",
+        "onboard_time": 1732879818,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25962,
+        "num": 338951,
+        "word": "这些OST一响2024画面感就来了",
+        "onboard_time": 1732940779,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262834,
+        "num": 328175,
+        "word": "虞书欣丁禹兮 一个想靠一个想搂",
+        "onboard_time": 1732928896,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323655,
+        "num": 323655,
+        "word": "婚礼中途停电40分钟气哭新人爸妈",
+        "onboard_time": 1732928777,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180917,
+        "num": 323532,
+        "word": "时代少年团不放弃走过曲折",
+        "onboard_time": 1732939817,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113407,
+        "num": 323373,
+        "word": "叙政府军数十台无线通讯设备爆炸",
+        "onboard_time": 1732939697,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42200,
+        "num": 323061,
+        "word": "男子为吃野猪设电网猎捕被刑拘",
+        "onboard_time": 1732939579,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254643,
+        "num": 323043,
+        "word": "你好星期六全员晒初雪穿搭",
+        "onboard_time": 1732934778,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21603,
+        "num": 322779,
+        "word": "蜀锦人家今日开播",
+        "onboard_time": 1732933097,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322645,
+        "num": 322645,
+        "word": "结婚3年流产2次竟是老公精子碎了",
+        "onboard_time": 1732940358,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163673,
+        "num": 277853,
+        "word": "闪耀暖暖",
+        "onboard_time": 1732940297,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26801,
+        "num": 275550,
+        "word": "戛纳最佳导演镜头里的杭州",
+        "onboard_time": 1732938017,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274938,
+        "num": 274938,
+        "word": "周密周芯竹聊天记录",
+        "onboard_time": 1732901415,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261805,
+        "num": 261805,
+        "word": "王安宇去有风的地方旅行vlog",
+        "onboard_time": 1732939817,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219551,
+        "num": 219551,
+        "word": "2025国考最热岗1.6万人挑一",
+        "onboard_time": 1732933037,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200008,
+        "num": 200008,
+        "word": "华晨宇 幸好我是一个创作歌手",
+        "onboard_time": 1732939037,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24971,
+        "num": 197635,
+        "word": "社恐i人在大山里找到向往的生活",
+        "onboard_time": 1732939579,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64544,
+        "num": 194581,
+        "word": "龚俊彭小苒暗河传杀青特辑",
+        "onboard_time": 1732934478,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82846,
+        "num": 186272,
+        "word": "GOT7明年1月完整体回归",
+        "onboard_time": 1732938197,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111849,
+        "num": 179214,
+        "word": "陈小春养老保险有点多",
+        "onboard_time": 1732940598,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178841,
+        "num": 178841,
+        "word": "网传歌手2025试音名单",
+        "onboard_time": 1732937297,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167400,
+        "num": 167400,
+        "word": "衡门有狐临江仙预约破100万",
+        "onboard_time": 1732939939,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163940,
+        "num": 163940,
+        "word": "MMA颁奖典礼",
+        "onboard_time": 1732933397,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159700,
+        "num": 159700,
+        "word": "乒羽混双大魔王绝版了",
+        "onboard_time": 1732934957,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159603,
+        "num": 159603,
+        "word": "丁禹兮 被打入冷宫的妃子",
+        "onboard_time": 1732926676,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149370,
+        "num": 149370,
+        "word": "易易紫承认和崔胜铉恋爱过",
+        "onboard_time": 1732896318,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146073,
+        "num": 146073,
+        "word": "湖南台员工为麦琳发声",
+        "onboard_time": 1732888039,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142642,
+        "num": 142642,
+        "word": "明日方舟",
+        "onboard_time": 1732937957,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141868,
+        "num": 141868,
+        "word": "国考",
+        "onboard_time": 1732930877,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134407,
+        "num": 134407,
+        "word": "山东潍坊两起首饰店被抢案件告破",
+        "onboard_time": 1732938318,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133520,
+        "num": 133520,
+        "word": "国考公共科目笔试",
+        "onboard_time": 1732939219,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121522,
+        "num": 121522,
+        "word": "王安宇怼脸拍宋亚轩",
+        "onboard_time": 1732940358,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117428,
+        "num": 117428,
+        "word": "叙利亚阿勒颇战事升级",
+        "onboard_time": 1732932677,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116570,
+        "num": 116570,
+        "word": "孙颖莎上演高空杀球",
+        "onboard_time": 1732933216,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115968,
+        "num": 115968,
+        "word": "国乒队员用一个词描述成都",
+        "onboard_time": 1732940419,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114290,
+        "num": 114290,
+        "word": "暗河传",
+        "onboard_time": 1732935438,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110226,
+        "num": 110226,
+        "word": "蜀锦人家",
+        "onboard_time": 1732940717,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动党的创新理论更加深入人心#"
+    }
+  }
+}
