@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1732998240103,
+  "endTime": 1732999067502,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -555,20 +555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21727,
+      "num": 41270,
+      "word": "为什么说新疆棉是世界顶级",
+      "onboard_time": 1732993932,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21279,
       "num": 21279,
       "word": "今天jer个样",
       "onboard_time": 1732993512,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21180,
-      "num": 41270,
-      "word": "为什么说新疆棉是世界顶级",
-      "onboard_time": 1732993932,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20525,
@@ -603,6 +603,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13015,
+      "num": 30838,
+      "word": "持棍喝退尾随女孩裸露男的司机发声",
+      "onboard_time": 1732990153,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11749,
       "num": 28689,
       "word": "易烊千玺网站更新",
@@ -611,20 +619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11536,
-      "num": 19881,
-      "word": "持棍喝退尾随女孩裸露男的司机发声",
-      "onboard_time": 1732990153,
-      "rank": 34,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 10885,
       "num": 34516,
       "word": "目击者称被恶犬撕咬女子送医救治",
       "onboard_time": 1732997532,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10827,
+      "num": 27073,
+      "word": "向佐 希望大家继续吓我支持我",
+      "onboard_time": 1732998624,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 9793,
