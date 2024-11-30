@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733002552609,
+  "endTime": 1733005288637,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30364,
+      "num": 30364,
+      "word": "向佐 希望大家继续吓我支持我",
+      "onboard_time": 1732998624,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28348,
       "num": 135774,
       "word": "Tarzan加入AL",
@@ -537,6 +545,14 @@
       "onboard_time": 1732993031,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25820,
+      "num": 36024,
+      "word": "耗资7亿欧元巴黎圣母院将重新开放",
+      "onboard_time": 1733000771,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25354,
@@ -579,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20815,
+      "num": 20815,
+      "word": "叙反对派武装称进入阿勒颇市中心地带",
+      "onboard_time": 1733002030,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20525,
       "num": 20525,
       "word": "李显龙称否定中国影响力是不明智的",
       "onboard_time": 1732996330,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19569,
+      "num": 42146,
+      "word": "75岁老人控告50岁妻子要回赠与房产",
+      "onboard_time": 1733004491,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18644,
@@ -611,20 +643,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17719,
-      "num": 27073,
-      "word": "向佐 希望大家继续吓我支持我",
-      "onboard_time": 1732998624,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 16745,
-      "num": 36024,
-      "word": "耗资7亿欧元巴黎圣母院将重新开放",
-      "onboard_time": 1733000771,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 16867,
+      "num": 16867,
+      "word": "我是刑警 鹤岗大案",
+      "onboard_time": 1733004311,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 16029,
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11631,
-      "num": 14140,
-      "word": "叙反对派武装称进入阿勒颇市中心地带",
-      "onboard_time": 1733002030,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 10885,
       "num": 34516,
       "word": "目击者称被恶犬撕咬女子送医救治",
@@ -683,11 +699,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6358,
+      "num": 23890,
+      "word": "范丞丞自拍vs他拍",
+      "onboard_time": 1733005271,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6355,
       "num": 24982,
       "word": "刘耀文发了一条上班花絮",
       "onboard_time": 1733002391,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6110,
+      "num": 25899,
+      "word": "时代少年团将快乐折成繁星",
+      "onboard_time": 1733001670,
+      "rank": 24,
       "category": "艺人"
     }
   ],
