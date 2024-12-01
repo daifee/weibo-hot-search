@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733073570101,
+  "endTime": 1733074679387,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 274846,
-      "num": 224672,
+      "num": 229817,
       "word": "四大扛剧女演员",
       "onboard_time": 1733064921,
       "rank": 25,
@@ -3395,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38354,
+      "num": 38354,
+      "word": "曼联vs埃弗顿",
+      "onboard_time": 1733073614,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38225,
       "num": 44406,
       "word": "2024最后30天请你好好爱自己",
@@ -3443,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34019,
+      "num": 37887,
+      "word": "我是刑警半枚血指纹破案",
+      "onboard_time": 1733073974,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33483,
       "num": 36024,
       "word": "耗资7亿欧元巴黎圣母院将重新开放",
@@ -3473,6 +3489,14 @@
       "onboard_time": 1733051599,
       "rank": 19,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 32169,
+      "num": 37885,
+      "word": "王安宇拉着金晨撒娇",
+      "onboard_time": 1733073853,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 31985,
@@ -3603,12 +3627,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25327,
+      "num": 67083,
+      "word": "多多佳鑫",
+      "onboard_time": 1733074514,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24984,
       "num": 24984,
       "word": "好运来",
       "onboard_time": 1732993331,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24478,
+      "num": 50457,
+      "word": "张泽禹发了18宫格",
+      "onboard_time": 1733073793,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 24266,
@@ -3747,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13602,
+      "num": 60308,
+      "word": "无畏向鱼终于加微信了",
+      "onboard_time": 1733068879,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 13371,
       "num": 252183,
       "word": "樊振东帕金森乒乓球公益大使",
@@ -3761,14 +3809,6 @@
       "onboard_time": 1733047459,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12031,
-      "num": 44367,
-      "word": "无畏向鱼终于加微信了",
-      "onboard_time": 1733068879,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 11749,
