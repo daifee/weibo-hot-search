@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733025574833,
+  "endTime": 1733027370826,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1106393,
+      "num": 1106393,
+      "word": "李胜利疑似喊话向佐",
+      "onboard_time": 1733024418,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1018703,
       "num": 1018703,
       "word": "周芯竹再回应",
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 863431,
+      "num": 863431,
+      "word": "我国艾滋病性传播约70%是异性传播",
+      "onboard_time": 1733024539,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 859957,
       "num": 859957,
       "word": "商场删除官宣李行亮商演视频",
@@ -107,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 713848,
-      "num": 497559,
-      "word": "李胜利疑似喊话向佐",
+      "raw_hot": 704246,
+      "num": 251245,
+      "word": "微信运动太暴露隐私了",
       "onboard_time": 1733024418,
-      "rank": 22,
-      "category": "艺人"
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 701127,
@@ -131,19 +147,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 678025,
-      "num": 251245,
-      "word": "微信运动太暴露隐私了",
-      "onboard_time": 1733024418,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 634100,
       "num": 634100,
       "word": "高瀚宇为鹿晗发声",
       "onboard_time": 1733021059,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 613932,
+      "num": 613932,
+      "word": "国考图推",
+      "onboard_time": 1733024898,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 613931,
+      "num": 482064,
+      "word": "鹿晗体重只有55kg",
+      "onboard_time": 1733026638,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -211,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425236,
+      "num": 470138,
+      "word": "王楚钦vs裴焕",
+      "onboard_time": 1733024418,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411854,
       "num": 216743,
       "word": "永夜星河逆跌",
@@ -257,14 +289,6 @@
       "onboard_time": 1733011335,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 327284,
-      "num": 470138,
-      "word": "王楚钦vs裴焕",
-      "onboard_time": 1733024418,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 327101,
@@ -331,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288472,
-      "num": 288472,
-      "word": "国考图推",
-      "onboard_time": 1733024898,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 282829,
       "num": 507671,
       "word": "外交部回应美国3.85亿美元对台军售",
@@ -361,6 +377,14 @@
       "onboard_time": 1732977740,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276047,
+      "num": 276047,
+      "word": "资料分析第一题",
+      "onboard_time": 1733025138,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 271510,
@@ -387,14 +411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260240,
-      "num": 260240,
-      "word": "我国艾滋病性传播约70%是异性传播",
-      "onboard_time": 1733024539,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 259663,
       "num": 259663,
       "word": "合肥LV柜姐5天更新8条卖货视频",
@@ -417,6 +433,14 @@
       "onboard_time": 1732978522,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244766,
+      "num": 244766,
+      "word": "申论处女作",
+      "onboard_time": 1733025319,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 234263,
@@ -443,6 +467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213973,
+      "num": 372620,
+      "word": "张智霖喊话18岁儿子谈恋爱",
+      "onboard_time": 1733026759,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209424,
       "num": 209424,
       "word": "时代少年团更新十一月行程图",
@@ -467,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202422,
+      "num": 284086,
+      "word": "国考常识",
+      "onboard_time": 1733026219,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202036,
       "num": 202036,
       "word": "成都混团世界杯",
@@ -481,6 +521,14 @@
       "onboard_time": 1733023818,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198431,
+      "num": 198431,
+      "word": "这么丑的猫我居然有三只",
+      "onboard_time": 1733025198,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 195532,
@@ -507,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189846,
+      "num": 625412,
+      "word": "国乒8比0澳大利亚队",
+      "onboard_time": 1733026338,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187372,
       "num": 196708,
       "word": "四川电信直播",
@@ -531,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179341,
+      "num": 179341,
+      "word": "泽连斯基称考虑先加入北约再收回领土",
+      "onboard_time": 1733024119,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178100,
       "num": 145255,
       "word": "向佐 希望大家继续吓我支持我",
@@ -547,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171418,
-      "num": 171418,
-      "word": "资料分析第一题",
-      "onboard_time": 1733025138,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 174321,
+      "num": 174321,
+      "word": "李白杜甫诚不欺我",
+      "onboard_time": 1733026519,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 170904,
@@ -572,7 +636,7 @@
     },
     {
       "raw_hot": 165030,
-      "num": 233431,
+      "num": 270154,
       "word": "李行亮商演价格或翻倍",
       "onboard_time": 1733023759,
       "rank": 47,
@@ -643,14 +707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 155593,
-      "num": 155593,
-      "word": "泽连斯基称考虑先加入北约再收回领土",
-      "onboard_time": 1733024119,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 154838,
       "num": 154838,
       "word": "好东西",
@@ -691,6 +747,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 140429,
+      "num": 270790,
+      "word": "杜兰特和格林较劲",
+      "onboard_time": 1733023459,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140190,
       "num": 140190,
       "word": "长征十二号火箭成功首飞",
@@ -705,14 +769,6 @@
       "onboard_time": 1733019258,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136712,
-      "num": 136712,
-      "word": "申论处女作",
-      "onboard_time": 1733025319,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 135682,
@@ -737,22 +793,6 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134477,
-      "num": 270790,
-      "word": "杜兰特和格林较劲",
-      "onboard_time": 1733023459,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133994,
-      "num": 133994,
-      "word": "这么丑的猫我居然有三只",
-      "onboard_time": 1733025198,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 131905,
@@ -825,6 +865,14 @@
       "onboard_time": 1733017999,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122460,
+      "num": 434953,
+      "word": "王楚钦2比0裴焕",
+      "onboard_time": 1733026398,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 122136,
@@ -955,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106817,
+      "num": 245710,
+      "word": "因果报应 穿运动鞋观影",
+      "onboard_time": 1733026999,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106607,
       "num": 106607,
       "word": "哈圈",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1732963879,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83066,
+      "num": 512897,
+      "word": "70万一针救命药进医保改写男童人生",
+      "onboard_time": 1733026338,
+      "rank": 9,
+      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 81174,
@@ -1216,6 +1280,14 @@
       "word": "张林峰希望更多人因为科研成果认识他",
       "onboard_time": 1732983618,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48519,
+      "num": 426005,
+      "word": "心理咨询师谈郁豹豹认亲后决裂",
+      "onboard_time": 1733026519,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
