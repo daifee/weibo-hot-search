@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733035574897,
+  "endTime": 1733037814755,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -97,6 +97,14 @@
       "onboard_time": 1732972639,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1151559,
+      "num": 226625,
+      "word": "李行亮商演再次遭抵制",
+      "onboard_time": 1733034678,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1108218,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407053,
+      "num": 222910,
+      "word": "国家大剧院",
+      "onboard_time": 1733032639,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 404650,
       "num": 360569,
       "word": "特朗普提名伊万卡公公任美驻法大使",
@@ -355,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366622,
-      "num": 226625,
-      "word": "李行亮商演再次遭抵制",
-      "onboard_time": 1733034678,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364659,
       "num": 364659,
       "word": "12月狗屎运最旺的星座",
@@ -377,6 +385,14 @@
       "onboard_time": 1733026759,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329774,
+      "num": 220688,
+      "word": "上海127元一荤三素的快餐",
+      "onboard_time": 1733036417,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 327101,
@@ -491,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270430,
+      "num": 212840,
+      "word": "王源再现十年前双手合十",
+      "onboard_time": 1733035937,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270094,
       "num": 270094,
       "word": "运动员代表孙颖莎宣誓",
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254345,
+      "num": 208140,
+      "word": "杨紫渐变高定纱裙",
+      "onboard_time": 1733035757,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252936,
       "num": 252936,
       "word": "王楚钦凌空杀球",
@@ -563,12 +595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237261,
-      "num": 168149,
-      "word": "国家大剧院",
-      "onboard_time": 1733032639,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 234870,
+      "num": 234870,
+      "word": "人民网评胖东来彩礼事件",
+      "onboard_time": 1733037016,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 234263,
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 205647,
-      "num": 134628,
+      "num": 173297,
       "word": "王楚钦赛后谈混双男单区别",
       "onboard_time": 1733034557,
       "rank": 45,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 170564,
-      "num": 134395,
+      "num": 162479,
       "word": "吴佳怡连签两部女一号",
       "onboard_time": 1733034858,
       "rank": 27,
@@ -825,6 +857,14 @@
       "onboard_time": 1732976240,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165756,
+      "num": 165756,
+      "word": "沙溢催生李晨",
+      "onboard_time": 1733037197,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 165030,
@@ -899,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157104,
+      "num": 157104,
+      "word": "突然就明白了什么是情感漠视",
+      "onboard_time": 1733033598,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156172,
+      "num": 156172,
+      "word": "肖战对接否认接触攻玉",
+      "onboard_time": 1733035877,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155806,
       "num": 155806,
       "word": "石破茂所乘车辆发生事故",
@@ -971,12 +1027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142463,
-      "num": 136071,
-      "word": "突然就明白了什么是情感漠视",
-      "onboard_time": 1733033598,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 142391,
+      "num": 142391,
+      "word": "多地存在中小学生买卡牌乱象",
+      "onboard_time": 1733034619,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141137,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1733030299,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138470,
+      "num": 138470,
+      "word": "婚内婚外把婚姻茧房拍出来了",
+      "onboard_time": 1733036838,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 137733,
@@ -1115,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127326,
+      "num": 159268,
+      "word": "自己吓自己",
+      "onboard_time": 1733034678,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127190,
       "num": 396849,
       "word": "还有一个月就是2025了",
@@ -1145,6 +1217,14 @@
       "onboard_time": 1733032277,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123392,
+      "num": 123392,
+      "word": "就爱看王安宇哭",
+      "onboard_time": 1733036178,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122826,
@@ -1241,14 +1321,6 @@
       "onboard_time": 1733022377,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116271,
-      "num": 116271,
-      "word": "多地存在中小学生买卡牌乱象",
-      "onboard_time": 1733034619,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113568,
@@ -1427,14 +1499,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 97495,
-      "num": 159268,
-      "word": "自己吓自己",
-      "onboard_time": 1733034678,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97415,
       "num": 97415,
       "word": "尾号6个8手机靓号法拍42.4万成交",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1733011996,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96871,
+      "num": 112989,
+      "word": "国考裸考",
+      "onboard_time": 1733036118,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 94592,
@@ -1489,6 +1561,22 @@
       "onboard_time": 1732963879,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88366,
+      "num": 204944,
+      "word": "官方回应黑熊闯进村民家遭击杀",
+      "onboard_time": 1733036778,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81579,
+      "num": 157922,
+      "word": "赵丽颖无形情感化有形",
+      "onboard_time": 1733037257,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 81174,
@@ -1587,6 +1675,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 68083,
+      "num": 182177,
+      "word": "被场外莎莎拿捏了",
+      "onboard_time": 1733037618,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65815,
       "num": 537341,
       "word": "王曼昱3比0泰普",
@@ -1619,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59399,
+      "num": 162636,
+      "word": "治愈艾滋病的希望是否存在",
+      "onboard_time": 1733037378,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58671,
       "num": 58671,
       "word": "老人将房产过户妻子后被拒之门外",
@@ -1633,6 +1737,14 @@
       "onboard_time": 1732983019,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55182,
+      "num": 229247,
+      "word": "国台办回应赖清德借机过境美国",
+      "onboard_time": 1733036658,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55069,
@@ -1659,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54044,
+      "num": 227829,
+      "word": "医生科普如何降低艾滋病感染风险",
+      "onboard_time": 1733036838,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 51613,
       "num": 93905,
       "word": "张林峰希望更多人因为科研成果认识他",
@@ -1681,6 +1801,14 @@
       "onboard_time": 1732983259,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47526,
+      "num": 183252,
+      "word": "极品婆婆撞到儿子儿媳亲热现场",
+      "onboard_time": 1733037738,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 46515,
@@ -1707,6 +1835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45101,
+      "num": 142841,
+      "word": "好运家今日开播",
+      "onboard_time": 1733037437,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44713,
       "num": 129800,
       "word": "内蒙古天空出现3个太阳",
@@ -1720,6 +1856,14 @@
       "word": "2024最后一个月",
       "onboard_time": 1733008814,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40531,
+      "num": 219536,
+      "word": "上海一开发商为增加车位破环承重柱",
+      "onboard_time": 1733037078,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1777,6 +1921,14 @@
       "onboard_time": 1733000771,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31791,
+      "num": 138526,
+      "word": "太阳星辰凯晴下线",
+      "onboard_time": 1733037678,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 31606,
@@ -1937,6 +2089,14 @@
       "onboard_time": 1733005572,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12088,
+      "num": 110010,
+      "word": "上海跑道偶遇MIKA",
+      "onboard_time": 1733037618,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 11749,
