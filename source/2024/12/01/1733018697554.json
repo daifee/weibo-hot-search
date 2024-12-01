@@ -1,0 +1,410 @@
+{
+  "runTime": 1733018697554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379863,
+        "num": 1379863,
+        "word": "男子在袁记云饺吃出蚯蚓店家愿赔500",
+        "onboard_time": 1733013016,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1296169,
+        "num": 1296169,
+        "word": "鹿晗一天吃一顿每天跑十公里",
+        "onboard_time": 1733017638,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10816,
+        "num": 883552,
+        "word": "微观链博会",
+        "onboard_time": 1732970779,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 871599,
+        "num": 871599,
+        "word": "周芯竹再回应",
+        "onboard_time": 1733017518,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446336,
+        "num": 446336,
+        "word": "俄军空袭叙利亚阿勒颇",
+        "onboard_time": 1733014936,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 715533,
+        "num": 438511,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779628,
+        "num": 428457,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701127,
+        "num": 417346,
+        "word": "刘湘说游泳不穿泳衣难道穿棉裤吗",
+        "onboard_time": 1733011516,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180253,
+        "num": 407060,
+        "word": "成都混团世界杯国乒首战",
+        "onboard_time": 1733011216,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127190,
+        "num": 396849,
+        "word": "还有一个月就是2025了",
+        "onboard_time": 1733017457,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523958,
+        "num": 383590,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562690,
+        "num": 371849,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364659,
+        "num": 364659,
+        "word": "12月狗屎运最旺的星座",
+        "onboard_time": 1733011335,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404650,
+        "num": 360569,
+        "word": "特朗普提名伊万卡公公任美驻法大使",
+        "onboard_time": 1733013376,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313499,
+        "num": 313499,
+        "word": "女子凌晨被两条大型犬撕咬",
+        "onboard_time": 1733008153,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292276,
+        "num": 292276,
+        "word": "鹿晗直播放了都暻秀单曲",
+        "onboard_time": 1733010315,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233699,
+        "num": 233699,
+        "word": "肖战 攻玉",
+        "onboard_time": 1732979540,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224395,
+        "num": 224395,
+        "word": "导致胃癌的高危因素",
+        "onboard_time": 1733010615,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209424,
+        "num": 209424,
+        "word": "时代少年团更新十一月行程图",
+        "onboard_time": 1733017937,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202141,
+        "num": 202141,
+        "word": "合肥LV柜姐5天更新8条卖货视频",
+        "onboard_time": 1732977081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410114,
+        "num": 201944,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353233,
+        "num": 201683,
+        "word": "微信状态你是不是搞得太暧昧了",
+        "onboard_time": 1733017518,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198401,
+        "num": 198401,
+        "word": "新床单晒了一次变微信聊天背景图了",
+        "onboard_time": 1732977740,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195907,
+        "num": 195907,
+        "word": "李行亮商演遭网友抵制",
+        "onboard_time": 1732967778,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28780,
+        "num": 195661,
+        "word": "国乒球员欢迎晚宴照",
+        "onboard_time": 1733012476,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195532,
+        "num": 195532,
+        "word": "睡觉打呼噜可能导致白天疲惫",
+        "onboard_time": 1733014517,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177213,
+        "num": 177213,
+        "word": "国考",
+        "onboard_time": 1733010074,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175535,
+        "num": 175535,
+        "word": "天冷了男朋友又在他的衣柜找衣服了",
+        "onboard_time": 1733015718,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168409,
+        "num": 168409,
+        "word": "男子称买酒后扫码跳出色情网站",
+        "onboard_time": 1733017578,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159716,
+        "num": 159716,
+        "word": "杭州夫妻两人染色体竟相同",
+        "onboard_time": 1732983798,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130868,
+        "num": 145047,
+        "word": "珍稀水鸟一边溜达一边疯狂摸鱼",
+        "onboard_time": 1733016737,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143616,
+        "num": 143616,
+        "word": "侯明昊卢昱晓入青云婚服路透",
+        "onboard_time": 1733012596,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "商场回应李行亮商演遭抵制",
+        "onboard_time": 1733013316,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132542,
+        "num": 132542,
+        "word": "27岁上海交大博导让大家别焦虑",
+        "onboard_time": 1732978459,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125597,
+        "num": 125597,
+        "word": "长征十二号火箭成功首飞",
+        "onboard_time": 1733009775,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122585,
+        "num": 122585,
+        "word": "国考招录近七成专招应届生",
+        "onboard_time": 1733017999,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118909,
+        "num": 118909,
+        "word": "许昕晒结婚8周年照片",
+        "onboard_time": 1733016317,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118611,
+        "num": 118611,
+        "word": "檀健次破防居然是个连续剧",
+        "onboard_time": 1733017999,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114467,
+        "num": 114467,
+        "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
+        "onboard_time": 1732980500,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110264,
+        "num": 110264,
+        "word": "分手见人品",
+        "onboard_time": 1732975461,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109599,
+        "num": 110016,
+        "word": "为鼓励学生早起学校供应免费早餐",
+        "onboard_time": 1733016616,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109775,
+        "num": 109775,
+        "word": "长征十二号",
+        "onboard_time": 1733009835,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109232,
+        "num": 109232,
+        "word": "国考时间",
+        "onboard_time": 1733015837,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105176,
+        "num": 105176,
+        "word": "24岁女设计师胃癌晚期问为啥是我",
+        "onboard_time": 1732968378,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102723,
+        "num": 102723,
+        "word": "我国首个商业航天发射场首发成功",
+        "onboard_time": 1732980980,
+        "rank": 44,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 86726,
+        "num": 99320,
+        "word": "韩剧现在拨打的电话",
+        "onboard_time": 1732972580,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98237,
+        "num": 98237,
+        "word": "在飞机上看见一封迟到三年的情书",
+        "onboard_time": 1733015656,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 97101,
+        "num": 97101,
+        "word": "特朗普宣布俄乌冲突问题特使人选",
+        "onboard_time": 1733014336,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92754,
+        "num": 92754,
+        "word": "特朗普俄乌停战方案浮出水面",
+        "onboard_time": 1733018598,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89971,
+        "num": 89971,
+        "word": "关于艾滋病这些你要知道",
+        "onboard_time": 1733011996,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#思想理论之光照亮中国式现代化奋进之路#"
+    }
+  }
+}
