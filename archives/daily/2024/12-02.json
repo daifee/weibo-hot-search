@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733085503665,
+  "endTime": 1733088073676,
   "band_list": [
     {
       "raw_hot": 1016312,
@@ -435,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44109,
+      "num": 44109,
+      "word": "F1",
+      "onboard_time": 1733087351,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38354,
       "num": 38354,
       "word": "曼联vs埃弗顿",
@@ -539,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20572,
+      "num": 22087,
+      "word": "李行亮团队称暂不便回应网友抵制",
+      "onboard_time": 1733086630,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19120,
       "num": 26895,
       "word": "叙利亚反对派武装攻入阿勒颇",
       "onboard_time": 1733075293,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17639,
+      "num": 17639,
+      "word": "日本扇耳光餐厅",
+      "onboard_time": 1733084531,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 17300,
@@ -563,6 +587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 16683,
+      "num": 16683,
+      "word": "中方对美方安排赖清德过境予以严厉谴责",
+      "onboard_time": 1733082190,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16637,
       "num": 17948,
       "word": "这一脚伸得太帅了",
@@ -579,28 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16019,
-      "num": 16019,
-      "word": "中方对美方安排赖清德过境予以严厉谴责",
-      "onboard_time": 1733082190,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 15037,
       "num": 57771,
       "word": "这个娄子建议多捅几次",
       "onboard_time": 1733066480,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 14631,
-      "num": 14631,
-      "word": "日本扇耳光餐厅",
-      "onboard_time": 1733084531,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 14459,
@@ -611,12 +627,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14392,
+      "num": 14392,
+      "word": "央视拍的罗云熙",
+      "onboard_time": 1733085070,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13602,
       "num": 60308,
       "word": "无畏向鱼终于加微信了",
       "onboard_time": 1733068879,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13542,
+      "num": 13542,
+      "word": "我国首个阶梯式低空空域正式投入使用",
+      "onboard_time": 1733086572,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13505,
@@ -627,20 +659,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13367,
+      "num": 13367,
+      "word": "女子10件旧羽绒服爆改1床羽绒被",
+      "onboard_time": 1733087231,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12466,
       "num": 18952,
       "word": "金瀚 祖国的南海实在太大了",
       "onboard_time": 1733081711,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12335,
-      "num": 13843,
-      "word": "央视拍的罗云熙",
-      "onboard_time": 1733085070,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 11955,
@@ -691,6 +723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 7078,
+      "num": 17677,
+      "word": "左叶在旋转木马前跳初雪",
+      "onboard_time": 1733085798,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6605,
       "num": 21267,
       "word": "龚俊土耳其回国机场路透",
@@ -705,6 +745,14 @@
       "onboard_time": 1733079491,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6278,
+      "num": 19775,
+      "word": "虞书欣超话解锁钻3",
+      "onboard_time": 1733087590,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 6177,
