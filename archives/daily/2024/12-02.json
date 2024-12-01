@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733070454426,
+  "endTime": 1733071431817,
   "band_list": [
     {
       "raw_hot": 1016312,
@@ -11,7 +11,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 806331,
+      "raw_hot": 823631,
       "num": 916669,
       "word": "泰国坠崖孕妇被指责生意做太大",
       "onboard_time": 1733067618,
@@ -123,8 +123,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 212474,
-      "num": 212474,
+      "raw_hot": 214052,
+      "num": 214052,
       "word": "国产老剧被AI爆改得像中毒了",
       "onboard_time": 1733064921,
       "rank": 9,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93511,
+      "num": 93511,
+      "word": "90多名艾滋病患儿有个共同的家",
+      "onboard_time": 1733069958,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87611,
       "num": 87611,
       "word": "女子花近五万相亲三次都失败盼退费",
@@ -281,6 +289,14 @@
       "onboard_time": 1733049558,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 82791,
+      "num": 82791,
+      "word": "陈哲远举125公斤杠铃",
+      "onboard_time": 1733070795,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 78793,
@@ -315,14 +331,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 67596,
-      "num": 67596,
-      "word": "90多名艾滋病患儿有个共同的家",
-      "onboard_time": 1733069958,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65820,
       "num": 108741,
       "word": "全圆佑绝美氛围",
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61883,
+      "num": 61883,
+      "word": "陈小春看到梅艳芳的身影哭了",
+      "onboard_time": 1733063901,
+      "rank": 40,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 60930,
       "num": 60930,
       "word": "关晓彤给张艺兴音乐话剧打call",
@@ -379,12 +395,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42752,
+      "raw_hot": 53721,
       "num": 108794,
       "word": "言语缩减",
       "onboard_time": 1733069598,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 52249,
+      "num": 52249,
+      "word": "白夜破晓",
+      "onboard_time": 1733071036,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50484,
+      "num": 50484,
+      "word": "邓紫棋湛江",
+      "onboard_time": 1733070916,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 38198,
+      "num": 93536,
+      "word": "QQ飞车手游",
+      "onboard_time": 1733070795,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 37949,

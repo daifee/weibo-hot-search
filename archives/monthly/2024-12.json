@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733070454426,
+  "endTime": 1733071431817,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -243,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823631,
+      "num": 916669,
+      "word": "泰国坠崖孕妇被指责生意做太大",
+      "onboard_time": 1733067618,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 819237,
       "num": 627333,
       "word": "黄晓明悼念姥姥",
       "onboard_time": 1733029640,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 806331,
-      "num": 916669,
-      "word": "泰国坠崖孕妇被指责生意做太大",
-      "onboard_time": 1733067618,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 793817,
@@ -1187,7 +1187,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212474,
+      "raw_hot": 214052,
       "num": 283247,
       "word": "国产老剧被AI爆改得像中毒了",
       "onboard_time": 1733064921,
@@ -2771,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93511,
+      "num": 93511,
+      "word": "90多名艾滋病患儿有个共同的家",
+      "onboard_time": 1733069958,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90959,
       "num": 447378,
       "word": "竞买者称42万拍下888888手机号赚大了",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1733040379,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82791,
+      "num": 82791,
+      "word": "陈哲远举125公斤杠铃",
+      "onboard_time": 1733070795,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 82289,
@@ -3067,14 +3083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67596,
-      "num": 67596,
-      "word": "90多名艾滋病患儿有个共同的家",
-      "onboard_time": 1733069958,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66022,
       "num": 326873,
       "word": "港警回应66个爱马仕包被抢案",
@@ -3105,6 +3113,14 @@
       "onboard_time": 1733037378,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61883,
+      "num": 272648,
+      "word": "陈小春看到梅艳芳的身影哭了",
+      "onboard_time": 1733063901,
+      "rank": 19,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 61212,
@@ -3203,20 +3219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53721,
+      "num": 108794,
+      "word": "言语缩减",
+      "onboard_time": 1733069598,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53334,
       "num": 297633,
       "word": "律师称开套牌车打人副镇长难被开除",
       "onboard_time": 1733062941,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53156,
-      "num": 272648,
-      "word": "陈小春看到梅艳芳的身影哭了",
-      "onboard_time": 1733063901,
-      "rank": 19,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 52778,
@@ -3235,12 +3251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52249,
+      "num": 52249,
+      "word": "白夜破晓",
+      "onboard_time": 1733071036,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51613,
       "num": 93905,
       "word": "张林峰希望更多人因为科研成果认识他",
       "onboard_time": 1732983618,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50484,
+      "num": 50484,
+      "word": "邓紫棋湛江",
+      "onboard_time": 1733070916,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 48519,
@@ -3315,14 +3347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42752,
-      "num": 108794,
-      "word": "言语缩减",
-      "onboard_time": 1733069598,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 41909,
       "num": 41909,
       "word": "2024最后一个月",
@@ -3369,6 +3393,14 @@
       "onboard_time": 1733039598,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38198,
+      "num": 93536,
+      "word": "QQ飞车手游",
+      "onboard_time": 1733070795,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 37269,

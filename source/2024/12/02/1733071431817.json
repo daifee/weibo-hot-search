@@ -1,0 +1,410 @@
+{
+  "runTime": 1733071431817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 823631,
+        "num": 823631,
+        "word": "泰国坠崖孕妇被指责生意做太大",
+        "onboard_time": 1733067618,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463976,
+        "num": 463976,
+        "word": "腾讯回应微信提现可免手续费",
+        "onboard_time": 1733064201,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34370,
+        "num": 358715,
+        "word": "这样的文物戏精亮了",
+        "onboard_time": 1733058019,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 350474,
+        "num": 350474,
+        "word": "TREASURE将换队长",
+        "onboard_time": 1733067199,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327514,
+        "num": 327514,
+        "word": "傅首尔回应傅首尔面相",
+        "onboard_time": 1733064201,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214052,
+        "num": 214052,
+        "word": "国产老剧被AI爆改得像中毒了",
+        "onboard_time": 1733064921,
+        "rank": 5,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 281077,
+        "num": 213787,
+        "word": "音乐节主办停止和周密合作",
+        "onboard_time": 1733045481,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277685,
+        "num": 209264,
+        "word": "李行亮团队婉拒采访",
+        "onboard_time": 1733067319,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204356,
+        "num": 204356,
+        "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
+        "onboard_time": 1733060960,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 199789,
+        "num": 199789,
+        "word": "撞死知名医生肇事者家属请求谅解",
+        "onboard_time": 1733064019,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 866751,
+        "num": 196651,
+        "word": "这样使用避孕套是无效操作",
+        "onboard_time": 1733060119,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296903,
+        "num": 195507,
+        "word": "23岁清华女博士对人生的真实感受",
+        "onboard_time": 1733064800,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240728,
+        "num": 193983,
+        "word": "王安宇好帅",
+        "onboard_time": 1733064740,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186580,
+        "num": 186580,
+        "word": "丁禹兮今天喝奶茶啦",
+        "onboard_time": 1733068398,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182763,
+        "num": 182763,
+        "word": "李行亮商演再次遭抵制",
+        "onboard_time": 1733034678,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180894,
+        "num": 180894,
+        "word": "赵雅芝哭了",
+        "onboard_time": 1733065820,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131681,
+        "num": 131681,
+        "word": "台湾情侣被曝吸毒后打死1岁女儿",
+        "onboard_time": 1733047339,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112798,
+        "num": 112798,
+        "word": "半夜天花板上掉下一只300斤野猪",
+        "onboard_time": 1733059460,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96150,
+        "num": 96150,
+        "word": "美国小伙说来北京像到了公元3000年",
+        "onboard_time": 1733046679,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 93699,
+        "num": 93699,
+        "word": "央视曝光学生体育用品中的增塑剂",
+        "onboard_time": 1733058919,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 127207,
+        "num": 93684,
+        "word": "蒋敦豪交给时间解答",
+        "onboard_time": 1733068038,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275863,
+        "num": 93656,
+        "word": "唐嫣罗晋带娃逛迪士尼",
+        "onboard_time": 1733059279,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205393,
+        "num": 93608,
+        "word": "四大扛剧女演员",
+        "onboard_time": 1733064921,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198485,
+        "num": 93571,
+        "word": "颜如晶瘦了55斤解锁全新风格",
+        "onboard_time": 1733057898,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38198,
+        "num": 93536,
+        "word": "QQ飞车手游",
+        "onboard_time": 1733070795,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93511,
+        "num": 93511,
+        "word": "90多名艾滋病患儿有个共同的家",
+        "onboard_time": 1733069958,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132947,
+        "num": 92829,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94655,
+        "num": 92243,
+        "word": "迪丽热巴陈飞宇公主抱路透",
+        "onboard_time": 1733062760,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 91424,
+        "word": "朱志鑫剪头发",
+        "onboard_time": 1733065100,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90152,
+        "num": 90152,
+        "word": "老人摔倒瞬间大哥滑铲接住头部",
+        "onboard_time": 1733050158,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 87678,
+        "num": 87678,
+        "word": "刘宪华演唱会",
+        "onboard_time": 1733067858,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86755,
+        "num": 86755,
+        "word": "华晨宇蹦丢了一个31万的耳钉",
+        "onboard_time": 1733032758,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84925,
+        "num": 84925,
+        "word": "白桃星座",
+        "onboard_time": 1733066359,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82791,
+        "num": 82791,
+        "word": "陈哲远举125公斤杠铃",
+        "onboard_time": 1733070795,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82762,
+        "num": 82762,
+        "word": "女子花近五万相亲三次都失败盼退费",
+        "onboard_time": 1733065760,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81495,
+        "num": 81495,
+        "word": "孕妇想月子期间洗头被长辈包围劝阻",
+        "onboard_time": 1733057118,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 76880,
+        "num": 76880,
+        "word": "孙红雷关晓彤张艺兴好先生友谊",
+        "onboard_time": 1733069657,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70570,
+        "num": 70570,
+        "word": "泰国孕妇坠崖案双方仍未离婚",
+        "onboard_time": 1733047278,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69793,
+        "num": 69793,
+        "word": "国考笔试实际参考258.6万人",
+        "onboard_time": 1733049558,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63525,
+        "num": 63525,
+        "word": "谭松韵我那可爱的宝宝姐",
+        "onboard_time": 1733069598,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61883,
+        "num": 61883,
+        "word": "陈小春看到梅艳芳的身影哭了",
+        "onboard_time": 1733063901,
+        "rank": 40,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 58895,
+        "num": 58895,
+        "word": "皇马vs赫塔菲",
+        "onboard_time": 1733068998,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57142,
+        "num": 57142,
+        "word": "患者追忆因车祸去世的45岁医生",
+        "onboard_time": 1733065459,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56346,
+        "num": 56346,
+        "word": "关晓彤给张艺兴音乐话剧打call",
+        "onboard_time": 1733049440,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54559,
+        "num": 54559,
+        "word": "叙利亚",
+        "onboard_time": 1733060780,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53830,
+        "num": 53830,
+        "word": "知情人回应西安大型犬扑咬事件",
+        "onboard_time": 1733065341,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 53721,
+        "num": 53721,
+        "word": "言语缩减",
+        "onboard_time": 1733069598,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52249,
+        "num": 52249,
+        "word": "白夜破晓",
+        "onboard_time": 1733071036,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50484,
+        "num": 50484,
+        "word": "邓紫棋湛江",
+        "onboard_time": 1733070916,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49068,
+        "num": 49068,
+        "word": "朴彩英剧透BLACKPINK明年回归",
+        "onboard_time": 1733062881,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
