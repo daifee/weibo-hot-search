@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733049724962,
+  "endTime": 1733051951178,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1332323,
-      "num": 448526,
+      "num": 454698,
       "word": "台湾情侣被曝吸毒后打死1岁女儿",
       "onboard_time": 1733047339,
       "rank": 15,
@@ -219,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 741617,
+      "num": 1118658,
+      "word": "泰国孕妇坠崖案双方仍未离婚",
+      "onboard_time": 1733047278,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704246,
       "num": 251245,
       "word": "微信运动太暴露隐私了",
@@ -241,6 +249,14 @@
       "onboard_time": 1732979540,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678379,
+      "num": 366519,
+      "word": "生完双胞胎儿子又再添三胞胎女儿",
+      "onboard_time": 1733048418,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 673965,
@@ -347,14 +363,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 537195,
-      "num": 537195,
-      "word": "泰国孕妇坠崖案双方仍未离婚",
-      "onboard_time": 1733047278,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 498698,
       "num": 498698,
       "word": "莎头组合合体",
@@ -369,6 +377,14 @@
       "onboard_time": 1733041518,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491147,
+      "num": 452649,
+      "word": "天生爱豆四帅",
+      "onboard_time": 1733049499,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 489321,
@@ -409,6 +425,14 @@
       "onboard_time": 1733043019,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457875,
+      "num": 457875,
+      "word": "国考笔试实际参考258.6万人",
+      "onboard_time": 1733049558,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 457210,
@@ -457,6 +481,14 @@
       "onboard_time": 1733039299,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 436778,
+      "num": 449332,
+      "word": "关晓彤给张艺兴音乐话剧打call",
+      "onboard_time": 1733049440,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 430441,
@@ -635,14 +667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 290993,
-      "num": 290993,
-      "word": "生完双胞胎儿子又再添三胞胎女儿",
-      "onboard_time": 1733048418,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290776,
       "num": 290776,
       "word": "花生十三来了都得掉层花生皮",
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 277914,
-      "num": 443848,
+      "num": 445148,
       "word": "迪丽热巴藏好了吗",
       "onboard_time": 1733047998,
       "rank": 16,
@@ -721,14 +745,6 @@
       "onboard_time": 1733022979,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269508,
-      "num": 344959,
-      "word": "关晓彤给张艺兴音乐话剧打call",
-      "onboard_time": 1733049440,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 267654,
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214839,
+      "num": 385601,
+      "word": "王源请奶茶",
+      "onboard_time": 1733051179,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210708,
       "num": 228111,
       "word": "王源丁程鑫好六上班",
@@ -913,6 +937,14 @@
       "onboard_time": 1733025018,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204229,
+      "num": 204229,
+      "word": "T1输给越南队",
+      "onboard_time": 1733050219,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 204134,
@@ -1043,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188050,
+      "num": 256227,
+      "word": "虞书欣双轨丸子头眼镜造型",
+      "onboard_time": 1733045360,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 187737,
       "num": 245710,
       "word": "因果报应 穿运动鞋观影",
       "onboard_time": 1733026999,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187703,
+      "num": 187703,
+      "word": "赵露思彭冠英吻戏路透",
+      "onboard_time": 1733050039,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 187372,
@@ -1153,14 +1201,6 @@
       "onboard_time": 1733032277,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167883,
-      "num": 256227,
-      "word": "虞书欣双轨丸子头眼镜造型",
-      "onboard_time": 1733045360,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167212,
@@ -1291,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155876,
+      "num": 155876,
+      "word": "老人摔倒瞬间大哥滑铲接住头部",
+      "onboard_time": 1733050158,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 155806,
       "num": 155806,
       "word": "石破茂所乘车辆发生事故",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1733030539,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150640,
+      "num": 150640,
+      "word": "月鳞绮纪明日开机",
+      "onboard_time": 1733051059,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 150119,
@@ -1451,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140071,
+      "num": 140071,
+      "word": "花生十三 变化是一种机会",
+      "onboard_time": 1733050400,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139768,
       "num": 139768,
       "word": "申论格式",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1733024239,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134937,
+      "num": 457558,
+      "word": "2025国考约65人中录取1人",
+      "onboard_time": 1733050519,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 134667,
@@ -1603,14 +1675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 125503,
-      "num": 125503,
-      "word": "国考笔试实际参考258.6万人",
-      "onboard_time": 1733049558,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124347,
       "num": 124347,
       "word": "何超莲气质黑天鹅造型",
@@ -1675,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121048,
+      "num": 121048,
+      "word": "主办方回应李行亮商演被网友抵制",
+      "onboard_time": 1733045959,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120849,
       "num": 120849,
       "word": "音乐节主办方宣布全面停止和周密合作",
@@ -1689,14 +1761,6 @@
       "onboard_time": 1733014336,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120117,
-      "num": 317365,
-      "word": "天生爱豆四帅",
-      "onboard_time": 1733049499,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 119626,
@@ -1745,6 +1809,14 @@
       "onboard_time": 1733037918,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116857,
+      "num": 116857,
+      "word": "思念水饺回应速冻水饺中疑出现烟头",
+      "onboard_time": 1733051778,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 116618,
@@ -2307,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55349,
+      "num": 447378,
+      "word": "竞买者称42万拍下888888手机号赚大了",
+      "onboard_time": 1733051840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55182,
       "num": 229247,
       "word": "国台办回应赖清德借机过境美国",
@@ -2635,6 +2715,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 24246,
+      "num": 222110,
+      "word": "周扬青恋6收官造型分享",
+      "onboard_time": 1733051059,
+      "rank": 29,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 24045,
       "num": 37749,
       "word": "李现香格里拉松赞林寺拍立得",
@@ -2729,6 +2817,14 @@
       "onboard_time": 1732999391,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14531,
+      "num": 367400,
+      "word": "媒体评李行亮商演遭网友抵制",
+      "onboard_time": 1733051599,
+      "rank": 19,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 13911,
