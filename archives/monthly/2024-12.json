@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733018697554,
+  "endTime": 1733020158566,
   "band_list": [
     {
       "raw_hot": 2029902,
@@ -19,8 +19,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1296169,
-      "num": 1296169,
+      "raw_hot": 1356133,
+      "num": 1356133,
       "word": "鹿晗一天吃一顿每天跑十公里",
       "onboard_time": 1733017638,
       "rank": 1,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1175527,
-      "num": 371849,
+      "num": 445354,
       "word": "周密发歌diss周芯竹",
       "onboard_time": 1732972639,
       "rank": 5,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1018703,
+      "num": 1018703,
+      "word": "周芯竹再回应",
+      "onboard_time": 1733017518,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930572,
       "num": 875594,
       "word": "杭州夫妻两人染色体竟相同",
@@ -59,16 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 871599,
-      "num": 871599,
-      "word": "周芯竹再回应",
-      "onboard_time": 1733017518,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 701127,
-      "num": 417346,
+      "num": 596325,
       "word": "刘湘说游泳不穿泳衣难道穿棉裤吗",
       "onboard_time": 1733011516,
       "rank": 7,
@@ -81,6 +81,14 @@
       "onboard_time": 1732979540,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596580,
+      "num": 596580,
+      "word": "儿子从美国打110替杭州独居母亲报警",
+      "onboard_time": 1733018897,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 588762,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 463319,
-      "num": 201944,
+      "num": 217840,
       "word": "结婚1年多不孕夫妻变姐妹",
       "onboard_time": 1732977200,
       "rank": 20,
@@ -147,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 380199,
+      "num": 217722,
+      "word": "微信状态你是不是搞得太暧昧了",
+      "onboard_time": 1733017518,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364659,
       "num": 364659,
       "word": "12月狗屎运最旺的星座",
@@ -155,12 +171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 353233,
-      "num": 201683,
-      "word": "微信状态你是不是搞得太暧昧了",
-      "onboard_time": 1733017518,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 325851,
+      "num": 325851,
+      "word": "鹿晗高瀚宇深夜直播",
+      "onboard_time": 1733019439,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 313499,
@@ -169,6 +185,14 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303327,
+      "num": 407060,
+      "word": "成都混团世界杯国乒首战",
+      "onboard_time": 1733011216,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 294544,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 276293,
-      "num": 198401,
+      "num": 202212,
       "word": "新床单晒了一次变微信聊天背景图了",
       "onboard_time": 1732977740,
       "rank": 22,
@@ -217,6 +241,14 @@
       "onboard_time": 1732971079,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259663,
+      "num": 259663,
+      "word": "合肥LV柜姐5天更新8条卖货视频",
+      "onboard_time": 1732977081,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254471,
@@ -251,6 +283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220378,
+      "num": 220378,
+      "word": "商场删除官宣李行亮商演视频",
+      "onboard_time": 1733019558,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209424,
       "num": 209424,
       "word": "时代少年团更新十一月行程图",
@@ -267,20 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202141,
-      "num": 202141,
-      "word": "合肥LV柜姐5天更新8条卖货视频",
-      "onboard_time": 1732977081,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195532,
       "num": 195532,
       "word": "睡觉打呼噜可能导致白天疲惫",
       "onboard_time": 1733014517,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192037,
+      "num": 192037,
+      "word": "国考",
+      "onboard_time": 1733010074,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 190843,
@@ -291,12 +331,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180253,
-      "num": 407060,
-      "word": "成都混团世界杯国乒首战",
-      "onboard_time": 1733011216,
-      "rank": 8,
+      "raw_hot": 187372,
+      "num": 196708,
+      "word": "四川电信直播",
+      "onboard_time": 1733019798,
+      "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186044,
+      "num": 186044,
+      "word": "WTT",
+      "onboard_time": 1733019138,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179631,
+      "num": 179631,
+      "word": "男子称买酒后扫码跳出色情网站",
+      "onboard_time": 1733017578,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178100,
@@ -305,14 +361,6 @@
       "onboard_time": 1732998624,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177213,
-      "num": 177213,
-      "word": "国考",
-      "onboard_time": 1733010074,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 175535,
@@ -329,14 +377,6 @@
       "onboard_time": 1732979721,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 168409,
-      "num": 168409,
-      "word": "男子称买酒后扫码跳出色情网站",
-      "onboard_time": 1733017578,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166120,
@@ -427,6 +467,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140566,
+      "num": 476849,
+      "word": "关于艾滋病的10个真相",
+      "onboard_time": 1733018716,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 140190,
+      "num": 140190,
+      "word": "长征十二号火箭成功首飞",
+      "onboard_time": 1733009775,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 137733,
+      "num": 137733,
+      "word": "故宫12月壁纸上新",
+      "onboard_time": 1733019258,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135682,
+      "num": 135682,
+      "word": "田小娟ins更新",
+      "onboard_time": 1733019018,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134667,
       "num": 134667,
       "word": "丈夫持斧击杀袭击妻子黑熊",
@@ -467,6 +539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130095,
+      "num": 130095,
+      "word": "成都混团开幕式",
+      "onboard_time": 1733019858,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129666,
+      "num": 129666,
+      "word": "特朗普俄乌停战方案浮出水面",
+      "onboard_time": 1733018598,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128905,
       "num": 135761,
       "word": "金瀚真去航海了",
@@ -483,16 +571,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125597,
-      "num": 125597,
-      "word": "长征十二号火箭成功首飞",
-      "onboard_time": 1733009775,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122585,
-      "num": 122585,
+      "num": 495336,
       "word": "国考招录近七成专招应届生",
       "onboard_time": 1733017999,
       "rank": 35,
@@ -515,12 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120625,
+      "num": 120625,
+      "word": "特朗普宣布俄乌冲突问题特使人选",
+      "onboard_time": 1733014336,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118909,
       "num": 118909,
       "word": "许昕晒结婚8周年照片",
       "onboard_time": 1733016317,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118721,
+      "num": 118721,
+      "word": "长征十二号",
+      "onboard_time": 1733009835,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118611,
@@ -536,14 +632,6 @@
       "word": "法国小伙准备将日军侵华照片捐赠中国",
       "onboard_time": 1732991414,
       "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 109775,
-      "num": 109775,
-      "word": "长征十二号",
-      "onboard_time": 1733009835,
-      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -651,12 +739,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 97101,
-      "num": 97101,
-      "word": "特朗普宣布俄乌冲突问题特使人选",
-      "onboard_time": 1733014336,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 97115,
+      "num": 97115,
+      "word": "关于艾滋病这些你要知道",
+      "onboard_time": 1733011996,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94592,
@@ -673,22 +761,6 @@
       "onboard_time": 1732978822,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92754,
-      "num": 92754,
-      "word": "特朗普俄乌停战方案浮出水面",
-      "onboard_time": 1733018598,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 89971,
-      "num": 89971,
-      "word": "关于艾滋病这些你要知道",
-      "onboard_time": 1733011996,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 88702,
@@ -737,6 +809,14 @@
       "onboard_time": 1732979001,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72736,
+      "num": 217845,
+      "word": "贺峻霖随时随地摇起来",
+      "onboard_time": 1733018958,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 61212,
@@ -996,7 +1076,7 @@
     },
     {
       "raw_hot": 17832,
-      "num": 883552,
+      "num": 1107430,
       "word": "微观链博会",
       "onboard_time": 1732970779,
       "rank": 2,
