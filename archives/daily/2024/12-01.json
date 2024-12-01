@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733044979261,
+  "endTime": 1733045850812,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -24,6 +24,14 @@
       "word": "17岁中专生被7家企业疯抢妈妈骄傲",
       "onboard_time": 1733041038,
       "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1538050,
+      "num": 1538050,
+      "word": "申论大作文",
+      "onboard_time": 1733045239,
+      "rank": 0,
       "category": "教育"
     },
     {
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1232470,
-      "num": 838487,
+      "num": 1113986,
       "word": "李行亮商演再次遭抵制",
       "onboard_time": 1733034678,
       "rank": 34,
@@ -105,6 +113,14 @@
       "onboard_time": 1732978640,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1223203,
+      "num": 1223203,
+      "word": "以为是一套卷子没想到发下来一本书",
+      "onboard_time": 1733041697,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 1211245,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 972861,
-      "num": 471516,
+      "num": 550034,
       "word": "华晨宇蹦丢了一个31万的耳钉",
       "onboard_time": 1733032758,
       "rank": 10,
@@ -235,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645009,
-      "num": 645009,
-      "word": "以为是一套卷子没想到发下来一本书",
-      "onboard_time": 1733041697,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 634100,
       "num": 634100,
       "word": "高瀚宇为鹿晗发声",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 630410,
-      "num": 380129,
+      "num": 384324,
       "word": "微信提现可以免手续费了",
       "onboard_time": 1733037918,
       "rank": 20,
@@ -291,6 +299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 498698,
+      "num": 498698,
+      "word": "莎头组合合体",
+      "onboard_time": 1733041338,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496605,
       "num": 496605,
       "word": "小伙捐出日军罪证2年后还在被网暴",
@@ -315,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469897,
-      "num": 469897,
-      "word": "莎头组合合体",
-      "onboard_time": 1733041338,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 463319,
       "num": 277342,
       "word": "结婚1年多不孕夫妻变姐妹",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 458060,
-      "num": 476857,
+      "num": 558992,
       "word": "虞书欣视频在卖什么关子",
       "onboard_time": 1733043019,
       "rank": 8,
@@ -401,6 +409,14 @@
       "onboard_time": 1733024418,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423638,
+      "num": 423638,
+      "word": "申论处女作",
+      "onboard_time": 1733025319,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 411854,
@@ -505,6 +521,14 @@
       "onboard_time": 1733020817,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304943,
+      "num": 304943,
+      "word": "鹿晗拒绝放十二月的奇迹",
+      "onboard_time": 1733043737,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 304680,
@@ -635,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260156,
+      "num": 260156,
+      "word": "音乐节主办停止和周密合作",
+      "onboard_time": 1733045481,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259663,
       "num": 259663,
       "word": "合肥LV柜姐5天更新8条卖货视频",
@@ -675,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244766,
-      "num": 244766,
-      "word": "申论处女作",
-      "onboard_time": 1733025319,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 243805,
       "num": 243805,
       "word": "光与夜之恋",
@@ -713,14 +737,6 @@
       "onboard_time": 1733010615,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 221535,
-      "num": 221535,
-      "word": "鹿晗拒绝放十二月的奇迹",
-      "onboard_time": 1733043737,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 217640,
@@ -771,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208442,
+      "num": 401887,
+      "word": "迪丽热巴日常侧拍",
+      "onboard_time": 1733044998,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206943,
       "num": 206943,
       "word": "24岁女设计师胃癌晚期问为啥是我",
@@ -793,6 +817,14 @@
       "onboard_time": 1733025018,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204134,
+      "num": 553796,
+      "word": "国考笔试成绩明年1月可查",
+      "onboard_time": 1733044039,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 202422,
@@ -841,6 +873,14 @@
       "onboard_time": 1733014517,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192792,
+      "num": 192792,
+      "word": "迪丽热巴贺思慕冬装造型",
+      "onboard_time": 1733044518,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 191900,
@@ -979,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172298,
-      "num": 172298,
-      "word": "迪丽热巴贺思慕冬装造型",
-      "onboard_time": 1733044518,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170904,
       "num": 161931,
       "word": "何秋亊墨宝",
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170414,
+      "num": 170414,
+      "word": "北京晚霞",
+      "onboard_time": 1733045539,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169976,
       "num": 226597,
       "word": "南部档案",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1733032277,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167212,
+      "num": 167212,
+      "word": "国考行测",
+      "onboard_time": 1733045718,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 166202,
@@ -1179,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153962,
+      "num": 153962,
+      "word": "国考 招裁判",
+      "onboard_time": 1733045481,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153286,
       "num": 153286,
       "word": "赵露思去看凤凰传奇演唱会了",
@@ -1195,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150119,
+      "num": 150119,
+      "word": "全家去日本旅行我爸非要用英文交流",
+      "onboard_time": 1733042478,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150070,
       "num": 150070,
       "word": "秦彻深渊主宰",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1733027538,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146097,
+      "num": 146097,
+      "word": "福宝看到鲜脆的笋都要跑起来了",
+      "onboard_time": 1733044759,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143616,
@@ -1299,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137177,
+      "num": 137177,
+      "word": "女子将女孩堵电梯里殴打辱骂14分钟",
+      "onboard_time": 1733045481,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 135682,
       "num": 135682,
       "word": "田小娟ins更新",
@@ -1329,14 +1409,6 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134315,
-      "num": 134315,
-      "word": "全家去日本旅行我爸非要用英文交流",
-      "onboard_time": 1733042478,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 133425,
@@ -1515,20 +1587,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119568,
+      "num": 119568,
+      "word": "王暖暖孩子目前还没有上户口",
+      "onboard_time": 1733045718,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 119437,
       "num": 184556,
       "word": "王曼昱对手右手残疾曾参加残奥会",
       "onboard_time": 1733029338,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119112,
-      "num": 472575,
-      "word": "国考笔试成绩明年1月可查",
-      "onboard_time": 1733044039,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 118909,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1733037918,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116618,
+      "num": 116618,
+      "word": "500多斤大猫压在身上睡觉是啥感觉",
+      "onboard_time": 1733043198,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 116446,
@@ -1603,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111044,
-      "num": 111044,
-      "word": "500多斤大猫压在身上睡觉是啥感觉",
-      "onboard_time": 1733043198,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110775,
       "num": 135096,
       "word": "JDG官宣Sheer离队",
@@ -1635,12 +1707,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 108732,
+      "num": 108732,
+      "word": "虞书欣双轨丸子头眼镜造型",
+      "onboard_time": 1733045360,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 107825,
       "num": 107825,
       "word": "严浩翔新剧被霸凌路透",
       "onboard_time": 1732977921,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107520,
+      "num": 335090,
+      "word": "刘宇宁十二月行程图送达",
+      "onboard_time": 1733044039,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 107454,
@@ -1763,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99610,
+      "num": 402182,
+      "word": "汪顺现身海洋奇缘2首映礼",
+      "onboard_time": 1733044639,
+      "rank": 18,
+      "category": "电影,体育"
+    },
+    {
       "raw_hot": 98457,
       "num": 98457,
       "word": "马龙打棒球",
@@ -1803,28 +1899,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96875,
-      "num": 335090,
-      "word": "刘宇宁十二月行程图送达",
-      "onboard_time": 1733044039,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96871,
       "num": 112989,
       "word": "国考裸考",
       "onboard_time": 1733036118,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 95152,
-      "num": 95152,
-      "word": "福宝看到鲜脆的笋都要跑起来了",
-      "onboard_time": 1733044759,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94592,
@@ -1939,6 +2019,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 80071,
+      "num": 325975,
+      "word": "申论素材",
+      "onboard_time": 1733032639,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 79917,
       "num": 79917,
       "word": "内蒙古天空戴了5小时美瞳",
@@ -1969,6 +2057,14 @@
       "onboard_time": 1732968618,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79248,
+      "num": 1270376,
+      "word": "我国首型4米级直径的火箭",
+      "onboard_time": 1733040018,
+      "rank": 2,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 78993,
@@ -2009,14 +2105,6 @@
       "onboard_time": 1733018958,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72540,
-      "num": 852667,
-      "word": "我国首型4米级直径的火箭",
-      "onboard_time": 1733040018,
-      "rank": 2,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 71800,
@@ -2211,20 +2299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41668,
-      "num": 402182,
-      "word": "汪顺现身海洋奇缘2首映礼",
-      "onboard_time": 1733044639,
-      "rank": 18,
-      "category": "电影,体育"
-    },
-    {
       "raw_hot": 40528,
       "num": 40528,
       "word": "西汉姆联2比5阿森纳",
       "onboard_time": 1733009775,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39326,
+      "num": 431283,
+      "word": "催收班培训三天收五千至一万元",
+      "onboard_time": 1733043859,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39265,
@@ -2281,14 +2369,6 @@
       "onboard_time": 1732994951,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33987,
-      "num": 431283,
-      "word": "催收班培训三天收五千至一万元",
-      "onboard_time": 1733043859,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33483,

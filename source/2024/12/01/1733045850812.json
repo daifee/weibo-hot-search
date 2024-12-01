@@ -1,0 +1,410 @@
+{
+  "runTime": 1733045850812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1538050,
+        "num": 1538050,
+        "word": "申论大作文",
+        "onboard_time": 1733045239,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1421083,
+        "num": 1421083,
+        "word": "17岁中专生被7家企业疯抢妈妈骄傲",
+        "onboard_time": 1733041038,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79248,
+        "num": 1270376,
+        "word": "我国首型4米级直径的火箭",
+        "onboard_time": 1733040018,
+        "rank": 2,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 1243662,
+        "num": 1243662,
+        "word": "国考",
+        "onboard_time": 1733010074,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1223203,
+        "num": 1223203,
+        "word": "以为是一套卷子没想到发下来一本书",
+        "onboard_time": 1733041697,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1113986,
+        "num": 1113986,
+        "word": "李行亮商演再次遭抵制",
+        "onboard_time": 1733034678,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 646649,
+        "num": 646649,
+        "word": "菲律宾一村庄村民分食海龟致3人死亡",
+        "onboard_time": 1733041818,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 608992,
+        "num": 608992,
+        "word": "人民网评胖东来彩礼事件",
+        "onboard_time": 1733037016,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 407481,
+        "num": 558992,
+        "word": "虞书欣视频在卖什么关子",
+        "onboard_time": 1733043019,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204134,
+        "num": 553796,
+        "word": "国考笔试成绩明年1月可查",
+        "onboard_time": 1733044039,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 550034,
+        "num": 550034,
+        "word": "华晨宇蹦丢了一个31万的耳钉",
+        "onboard_time": 1733032758,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498698,
+        "num": 498698,
+        "word": "莎头组合合体",
+        "onboard_time": 1733041338,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464916,
+        "num": 464916,
+        "word": "小伙捐出日军罪证2年后还在被网暴",
+        "onboard_time": 1733041518,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382422,
+        "num": 435749,
+        "word": "林栋哲庄筱婷婚后生活",
+        "onboard_time": 1733039718,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315423,
+        "num": 427973,
+        "word": "李胜利疑似喊话向佐",
+        "onboard_time": 1733024418,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423638,
+        "num": 423638,
+        "word": "申论处女作",
+        "onboard_time": 1733025319,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208442,
+        "num": 401887,
+        "word": "迪丽热巴日常侧拍",
+        "onboard_time": 1733044998,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387678,
+        "num": 387678,
+        "word": "上海127元一荤三素的快餐",
+        "onboard_time": 1733036417,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99610,
+        "num": 384620,
+        "word": "汪顺现身海洋奇缘2首映礼",
+        "onboard_time": 1733044639,
+        "rank": 18,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 163655,
+        "num": 384328,
+        "word": "国考答案",
+        "onboard_time": 1733024418,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 495098,
+        "num": 384324,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 384320,
+        "num": 384320,
+        "word": "高危性行为后多久能检测出艾滋病病毒",
+        "onboard_time": 1733039299,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 277529,
+        "num": 364053,
+        "word": "向佐女装撞脸张予曦",
+        "onboard_time": 1733033839,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357923,
+        "num": 357923,
+        "word": "尾号888888手机号被法拍42万成交",
+        "onboard_time": 1733027779,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80071,
+        "num": 325975,
+        "word": "申论素材",
+        "onboard_time": 1733032639,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304943,
+        "num": 304943,
+        "word": "鹿晗拒绝放十二月的奇迹",
+        "onboard_time": 1733043737,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274997,
+        "num": 274997,
+        "word": "我国艾滋病性传播约70%是异性传播",
+        "onboard_time": 1733024539,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260156,
+        "num": 260156,
+        "word": "音乐节主办停止和周密合作",
+        "onboard_time": 1733045481,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219628,
+        "num": 219628,
+        "word": "黄晓明悼念姥姥",
+        "onboard_time": 1733029640,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192792,
+        "num": 192792,
+        "word": "迪丽热巴贺思慕冬装造型",
+        "onboard_time": 1733044518,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197821,
+        "num": 190589,
+        "word": "微信运动太暴露隐私了",
+        "onboard_time": 1733024418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185030,
+        "num": 185030,
+        "word": "鹿晗一天吃一顿每天跑十公里",
+        "onboard_time": 1733017638,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39326,
+        "num": 170573,
+        "word": "催收班培训三天收五千至一万元",
+        "onboard_time": 1733043859,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170414,
+        "num": 170414,
+        "word": "北京晚霞",
+        "onboard_time": 1733045539,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170309,
+        "num": 170309,
+        "word": "王源丁程鑫好六上班",
+        "onboard_time": 1733043859,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107520,
+        "num": 168046,
+        "word": "刘宇宁十二月行程图送达",
+        "onboard_time": 1733044039,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167212,
+        "num": 167212,
+        "word": "国考行测",
+        "onboard_time": 1733045718,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161506,
+        "num": 161506,
+        "word": "花生十三来了都得掉层花生皮",
+        "onboard_time": 1733030419,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155217,
+        "num": 155217,
+        "word": "杨紫渐变高定纱裙",
+        "onboard_time": 1733035757,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 153962,
+        "word": "国考 招裁判",
+        "onboard_time": 1733045481,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150119,
+        "num": 150119,
+        "word": "全家去日本旅行我爸非要用英文交流",
+        "onboard_time": 1733042478,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149897,
+        "num": 149897,
+        "word": "南部档案",
+        "onboard_time": 1733039897,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146097,
+        "num": 146097,
+        "word": "福宝看到鲜脆的笋都要跑起来了",
+        "onboard_time": 1733044759,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137177,
+        "num": 137177,
+        "word": "女子将女孩堵电梯里殴打辱骂14分钟",
+        "onboard_time": 1733045481,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132851,
+        "num": 132851,
+        "word": "Whiplash一位",
+        "onboard_time": 1733041759,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119568,
+        "num": 119568,
+        "word": "王暖暖孩子目前还没有上户口",
+        "onboard_time": 1733045718,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 116618,
+        "num": 116618,
+        "word": "500多斤大猫压在身上睡觉是啥感觉",
+        "onboard_time": 1733043198,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110742,
+        "num": 110742,
+        "word": "快乐再出发",
+        "onboard_time": 1733033057,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108732,
+        "num": 108732,
+        "word": "虞书欣双轨丸子头眼镜造型",
+        "onboard_time": 1733045360,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101272,
+        "num": 101272,
+        "word": "名侦探学院",
+        "onboard_time": 1733032277,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
