@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733042535521,
+  "endTime": 1733044979261,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -17,6 +17,14 @@
       "onboard_time": 1732970719,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1538269,
+      "num": 1538269,
+      "word": "17岁中专生被7家企业疯抢妈妈骄傲",
+      "onboard_time": 1733041038,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 1390934,
@@ -132,19 +140,11 @@
     },
     {
       "raw_hot": 972861,
-      "num": 345252,
+      "num": 471516,
       "word": "华晨宇蹦丢了一个31万的耳钉",
       "onboard_time": 1733032758,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 943075,
-      "num": 943075,
-      "word": "17岁中专生被7家企业疯抢妈妈骄傲",
-      "onboard_time": 1733041038,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 937654,
@@ -219,12 +219,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 653673,
+      "num": 653673,
+      "word": "菲律宾一村庄村民分食海龟致3人死亡",
+      "onboard_time": 1733041818,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 647969,
       "num": 482064,
       "word": "鹿晗体重只有55kg",
       "onboard_time": 1733026638,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645009,
+      "num": 645009,
+      "word": "以为是一套卷子没想到发下来一本书",
+      "onboard_time": 1733041697,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 634100,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 630410,
-      "num": 269383,
+      "num": 380129,
       "word": "微信提现可以免手续费了",
       "onboard_time": 1733037918,
       "rank": 20,
@@ -275,6 +291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 496605,
+      "num": 496605,
+      "word": "小伙捐出日军罪证2年后还在被网暴",
+      "onboard_time": 1733041518,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489321,
       "num": 489321,
       "word": "行测答案",
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469897,
+      "num": 469897,
+      "word": "莎头组合合体",
+      "onboard_time": 1733041338,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463319,
       "num": 277342,
       "word": "结婚1年多不孕夫妻变姐妹",
@@ -305,6 +337,14 @@
       "onboard_time": 1733022979,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458060,
+      "num": 476857,
+      "word": "虞书欣视频在卖什么关子",
+      "onboard_time": 1733043019,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 457210,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440442,
+      "num": 440442,
+      "word": "高危性行为后多久能检测出艾滋病病毒",
+      "onboard_time": 1733039299,
+      "rank": 8,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 425236,
       "num": 470138,
       "word": "王楚钦vs裴焕",
@@ -377,14 +425,6 @@
       "onboard_time": 1733013376,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 390941,
-      "num": 390941,
-      "word": "高危性行为后多久能检测出艾滋病病毒",
-      "onboard_time": 1733039299,
-      "rank": 8,
-      "category": "科学科普"
     },
     {
       "raw_hot": 390278,
@@ -491,28 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302882,
-      "num": 302882,
-      "word": "莎头组合合体",
-      "onboard_time": 1733041338,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294544,
       "num": 294544,
       "word": "恋与制作人大婚",
       "onboard_time": 1732970359,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 292999,
-      "num": 292999,
-      "word": "菲律宾一村庄村民分食海龟致3人死亡",
-      "onboard_time": 1733041818,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 292276,
@@ -691,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221535,
+      "num": 221535,
+      "word": "鹿晗拒绝放十二月的奇迹",
+      "onboard_time": 1733043737,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217640,
       "num": 403300,
       "word": "接触艾滋病毒后有72小时能自救",
@@ -713,6 +745,14 @@
       "onboard_time": 1733026338,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210708,
+      "num": 228111,
+      "word": "王源丁程鑫好六上班",
+      "onboard_time": 1733043859,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 209424,
@@ -931,19 +971,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174766,
-      "num": 174766,
-      "word": "小伙捐出日军罪证2年后还在被网暴",
-      "onboard_time": 1733041518,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172409,
       "num": 172409,
       "word": "双轨换导演",
       "onboard_time": 1733041397,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172298,
+      "num": 172298,
+      "word": "迪丽热巴贺思慕冬装造型",
+      "onboard_time": 1733044518,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -960,6 +1000,14 @@
       "word": "吴佳怡连签两部女一号",
       "onboard_time": 1733034858,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169976,
+      "num": 226597,
+      "word": "南部档案",
+      "onboard_time": 1733039897,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1147,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152680,
-      "num": 152680,
-      "word": "南部档案",
-      "onboard_time": 1733039897,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150070,
       "num": 150070,
       "word": "秦彻深渊主宰",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1733032938,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140583,
-      "num": 140583,
-      "word": "以为是一套卷子没想到发下来一本书",
-      "onboard_time": 1733041697,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 140566,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134315,
+      "num": 134315,
+      "word": "全家去日本旅行我爸非要用英文交流",
+      "onboard_time": 1733042478,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 133425,
@@ -1483,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119112,
+      "num": 472575,
+      "word": "国考笔试成绩明年1月可查",
+      "onboard_time": 1733044039,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 118909,
       "num": 118909,
       "word": "许昕晒结婚8周年照片",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1733023339,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111044,
+      "num": 111044,
+      "word": "500多斤大猫压在身上睡觉是啥感觉",
+      "onboard_time": 1733043198,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 110775,
@@ -1707,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98457,
+      "num": 98457,
+      "word": "马龙打棒球",
+      "onboard_time": 1733044278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98320,
       "num": 135806,
       "word": "章宇居然四十二岁了",
@@ -1739,12 +1803,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96875,
+      "num": 335090,
+      "word": "刘宇宁十二月行程图送达",
+      "onboard_time": 1733044039,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96871,
       "num": 112989,
       "word": "国考裸考",
       "onboard_time": 1733036118,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 95152,
+      "num": 95152,
+      "word": "福宝看到鲜脆的笋都要跑起来了",
+      "onboard_time": 1733044759,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94592,
@@ -1795,12 +1875,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87751,
+      "num": 87751,
+      "word": "成都为杜甫修了1000年的家",
+      "onboard_time": 1733042839,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 87146,
+      "num": 245302,
+      "word": "朱志鑫苏新皓MV合照",
+      "onboard_time": 1733042118,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86833,
       "num": 143457,
       "word": "距离2025仅剩30天",
       "onboard_time": 1733035338,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84164,
+      "num": 225091,
+      "word": "2025个税专项附加扣除信息确认开始",
+      "onboard_time": 1733044218,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 84148,
@@ -1817,14 +1921,6 @@
       "onboard_time": 1733037618,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82253,
-      "num": 82253,
-      "word": "全家去日本旅行我爸非要用英文交流",
-      "onboard_time": 1733042478,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 81579,
@@ -1995,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56004,
-      "num": 245302,
-      "word": "朱志鑫苏新皓MV合照",
-      "onboard_time": 1733042118,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55182,
       "num": 229247,
       "word": "国台办回应赖清德借机过境美国",
@@ -2041,6 +2129,14 @@
       "onboard_time": 1733037078,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52677,
+      "num": 223466,
+      "word": "虞书欣的女孩力量",
+      "onboard_time": 1733044938,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 51613,
@@ -2115,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41668,
+      "num": 402182,
+      "word": "汪顺现身海洋奇缘2首映礼",
+      "onboard_time": 1733044639,
+      "rank": 18,
+      "category": "电影,体育"
+    },
+    {
       "raw_hot": 40528,
       "num": 40528,
       "word": "西汉姆联2比5阿森纳",
@@ -2179,12 +2283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33987,
+      "num": 431283,
+      "word": "催收班培训三天收五千至一万元",
+      "onboard_time": 1733043859,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33483,
       "num": 36024,
       "word": "耗资7亿欧元巴黎圣母院将重新开放",
       "onboard_time": 1733000771,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32448,
+      "num": 96671,
+      "word": "jlpt",
+      "onboard_time": 1733039057,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 31791,
@@ -2220,7 +2340,7 @@
     },
     {
       "raw_hot": 28437,
-      "num": 146327,
+      "num": 231307,
       "word": "无限暖暖",
       "onboard_time": 1733038818,
       "rank": 29,
@@ -2265,14 +2385,6 @@
       "onboard_time": 1732993031,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25410,
-      "num": 82507,
-      "word": "jlpt",
-      "onboard_time": 1733039057,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 25354,
