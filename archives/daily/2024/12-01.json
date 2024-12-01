@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733031620525,
+  "endTime": 1733034762391,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 972861,
+      "num": 253916,
+      "word": "华晨宇蹦丢了一个31万的耳钉",
+      "onboard_time": 1733032758,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 930572,
       "num": 875594,
       "word": "杭州夫妻两人染色体竟相同",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 819237,
-      "num": 397710,
+      "num": 627333,
       "word": "黄晓明悼念姥姥",
       "onboard_time": 1733029640,
       "rank": 10,
@@ -201,6 +209,22 @@
       "onboard_time": 1732967778,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 581389,
+      "num": 363852,
+      "word": "周芯竹官宣新综艺",
+      "onboard_time": 1733032518,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 578227,
+      "num": 168203,
+      "word": "蜜雪冰城代言人",
+      "onboard_time": 1733033718,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 489321,
@@ -291,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 390278,
+      "num": 252002,
+      "word": "白鹿踩茶饼体重不够",
+      "onboard_time": 1733030718,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384674,
       "num": 384674,
       "word": "成都混团开幕式",
@@ -305,6 +337,14 @@
       "onboard_time": 1733017518,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 374478,
+      "num": 250350,
+      "word": "快乐再出发",
+      "onboard_time": 1733033057,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 364659,
@@ -353,6 +393,14 @@
       "onboard_time": 1733020817,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306265,
+      "num": 248929,
+      "word": "向佐女装撞脸张予曦",
+      "onboard_time": 1733033839,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 303327,
@@ -515,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231043,
-      "num": 231043,
-      "word": "白鹿踩茶饼体重不够",
-      "onboard_time": 1733030718,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230323,
       "num": 230323,
       "word": "胃病向胃癌转变的5个信号",
@@ -537,6 +577,14 @@
       "onboard_time": 1733010615,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 219280,
+      "num": 168149,
+      "word": "国家大剧院",
+      "onboard_time": 1733032639,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 217640,
@@ -739,6 +787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168000,
+      "num": 168000,
+      "word": "名侦探学院",
+      "onboard_time": 1733032277,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166120,
       "num": 166120,
       "word": "日本正考虑推进简化中国公民赴日签证手续",
@@ -891,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141137,
+      "num": 168381,
+      "word": "国考 罚球双脚可以离地",
+      "onboard_time": 1733032938,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140566,
       "num": 476849,
       "word": "关于艾滋病的10个真相",
@@ -905,6 +969,14 @@
       "onboard_time": 1733023459,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140282,
+      "num": 140282,
+      "word": "虞书欣二专预告",
+      "onboard_time": 1733031617,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 140190,
@@ -928,6 +1000,14 @@
       "word": "故宫12月壁纸上新",
       "onboard_time": 1733019258,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136071,
+      "num": 136071,
+      "word": "突然就明白了什么是情感漠视",
+      "onboard_time": 1733033598,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -1025,6 +1105,22 @@
       "onboard_time": 1733031200,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124347,
+      "num": 124347,
+      "word": "何超莲气质黑天鹅造型",
+      "onboard_time": 1733032277,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 124263,
+      "num": 124263,
+      "word": "俄方回应泽连斯基开出的停火条件",
+      "onboard_time": 1733032878,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122826,
@@ -1147,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110775,
+      "num": 110775,
+      "word": "JDG官宣Sheer离队",
+      "onboard_time": 1733034020,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109599,
       "num": 110016,
       "word": "为鼓励学生早起学校供应免费早餐",
@@ -1161,6 +1265,14 @@
       "onboard_time": 1733015837,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108994,
+      "num": 108994,
+      "word": "王楚钦赛后谈混双男单区别",
+      "onboard_time": 1733034557,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 107825,
@@ -1192,6 +1304,14 @@
       "word": "哈圈",
       "onboard_time": 1732979059,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106318,
+      "num": 133972,
+      "word": "李行亮商演再次遭抵制",
+      "onboard_time": 1733034678,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1259,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98320,
+      "num": 98320,
+      "word": "章宇居然四十二岁了",
+      "onboard_time": 1733034318,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98237,
       "num": 98237,
       "word": "在飞机上看见一封迟到三年的情书",
@@ -1283,6 +1411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 94464,
+      "num": 124273,
+      "word": "迟亦骁疑怼周密",
+      "onboard_time": 1733033418,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93729,
       "num": 200759,
       "word": "朱志鑫兑现直播承诺",
@@ -1304,6 +1440,14 @@
       "word": "怀上九胞胎女子减7胎后出院",
       "onboard_time": 1732963879,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86527,
+      "num": 254213,
+      "word": "酸辣粉里是什么粉",
+      "onboard_time": 1733033297,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1385,6 +1529,14 @@
       "onboard_time": 1733018958,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70041,
+      "num": 159268,
+      "word": "自己吓自己",
+      "onboard_time": 1733034678,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 69046,
@@ -1560,6 +1712,14 @@
       "word": "为什么说新疆棉是世界顶级",
       "onboard_time": 1732993932,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35185,
+      "num": 178492,
+      "word": "信阳开套牌车打人副镇长被拘留罚款",
+      "onboard_time": 1733033478,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1768,6 +1928,14 @@
       "word": "马龙台湾行第四天现身台北故宫",
       "onboard_time": 1732987752,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8843,
+      "num": 96877,
+      "word": "世界各地跑者齐聚上马",
+      "onboard_time": 1733034738,
+      "rank": 49,
       "category": "体育"
     },
     {

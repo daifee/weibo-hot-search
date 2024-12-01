@@ -1,0 +1,410 @@
+{
+  "runTime": 1733034762391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854468,
+        "num": 1136714,
+        "word": "尾号888888手机号被法拍42万成交",
+        "onboard_time": 1733027779,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679776,
+        "num": 679776,
+        "word": "李胜利疑似喊话向佐",
+        "onboard_time": 1733024418,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49771,
+        "num": 635793,
+        "word": "我国首个商业航天发射场首发看点",
+        "onboard_time": 1733021597,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627333,
+        "num": 627333,
+        "word": "黄晓明悼念姥姥",
+        "onboard_time": 1733029640,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610844,
+        "num": 610844,
+        "word": "我国艾滋病性传播约70%是异性传播",
+        "onboard_time": 1733024539,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368085,
+        "num": 368085,
+        "word": "石破茂发生车祸现场细节",
+        "onboard_time": 1733028379,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 581389,
+        "num": 363852,
+        "word": "周芯竹官宣新综艺",
+        "onboard_time": 1733032518,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349927,
+        "num": 349927,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255236,
+        "num": 255236,
+        "word": "儿子从美国打110替杭州独居母亲报警",
+        "onboard_time": 1733018897,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86527,
+        "num": 254213,
+        "word": "酸辣粉里是什么粉",
+        "onboard_time": 1733033297,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 972861,
+        "num": 253916,
+        "word": "华晨宇蹦丢了一个31万的耳钉",
+        "onboard_time": 1733032758,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 436328,
+        "num": 252365,
+        "word": "周芯竹再回应",
+        "onboard_time": 1733017518,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390278,
+        "num": 252002,
+        "word": "白鹿踩茶饼体重不够",
+        "onboard_time": 1733030718,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374478,
+        "num": 250350,
+        "word": "快乐再出发",
+        "onboard_time": 1733033057,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335875,
+        "num": 249855,
+        "word": "鹿晗一天吃一顿每天跑十公里",
+        "onboard_time": 1733017638,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306265,
+        "num": 248929,
+        "word": "向佐女装撞脸张予曦",
+        "onboard_time": 1733033839,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247935,
+        "num": 247935,
+        "word": "国考",
+        "onboard_time": 1733010074,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210327,
+        "num": 210327,
+        "word": "一岁多小宝上了40分钟课哭了40分钟",
+        "onboard_time": 1733022979,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179936,
+        "num": 179936,
+        "word": "国乒火速下班",
+        "onboard_time": 1733029939,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35185,
+        "num": 178492,
+        "word": "信阳开套牌车打人副镇长被拘留罚款",
+        "onboard_time": 1733033478,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347094,
+        "num": 175771,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289335,
+        "num": 172821,
+        "word": "鹿晗体重只有55kg",
+        "onboard_time": 1733026638,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274557,
+        "num": 171712,
+        "word": "商场删除官宣李行亮商演视频",
+        "onboard_time": 1733019558,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170142,
+        "num": 170142,
+        "word": "王楚钦凌空杀球",
+        "onboard_time": 1733028918,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141137,
+        "num": 168381,
+        "word": "国考 罚球双脚可以离地",
+        "onboard_time": 1733032938,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 578227,
+        "num": 168203,
+        "word": "蜜雪冰城代言人",
+        "onboard_time": 1733033718,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219280,
+        "num": 168149,
+        "word": "国家大剧院",
+        "onboard_time": 1733032639,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168000,
+        "num": 168000,
+        "word": "名侦探学院",
+        "onboard_time": 1733032277,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70041,
+        "num": 159268,
+        "word": "自己吓自己",
+        "onboard_time": 1733034678,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152114,
+        "num": 152114,
+        "word": "莎局来看比赛了",
+        "onboard_time": 1733028439,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406934,
+        "num": 152013,
+        "word": "微信运动太暴露隐私了",
+        "onboard_time": 1733024418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147660,
+        "num": 147660,
+        "word": "马嘉祺 音乐剧",
+        "onboard_time": 1733030898,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140282,
+        "num": 140282,
+        "word": "虞书欣二专预告",
+        "onboard_time": 1733031617,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136071,
+        "num": 136071,
+        "word": "突然就明白了什么是情感漠视",
+        "onboard_time": 1733033598,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106318,
+        "num": 133972,
+        "word": "李行亮商演再次遭抵制",
+        "onboard_time": 1733034678,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133467,
+        "num": 133467,
+        "word": "微信状态你是不是搞得太暧昧了",
+        "onboard_time": 1733017518,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124598,
+        "num": 124598,
+        "word": "张智霖喊话18岁儿子谈恋爱",
+        "onboard_time": 1733026759,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124347,
+        "num": 124347,
+        "word": "何超莲气质黑天鹅造型",
+        "onboard_time": 1733032277,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94464,
+        "num": 124273,
+        "word": "迟亦骁疑怼周密",
+        "onboard_time": 1733033418,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124263,
+        "num": 124263,
+        "word": "俄方回应泽连斯基开出的停火条件",
+        "onboard_time": 1733032878,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123231,
+        "num": 123231,
+        "word": "花生十三来了都得掉层花生皮",
+        "onboard_time": 1733030419,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122083,
+        "num": 122083,
+        "word": "这么丑的猫我居然有三只",
+        "onboard_time": 1733025198,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116701,
+        "num": 116701,
+        "word": "王曼昱对手右手残疾曾参加残奥会",
+        "onboard_time": 1733029338,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113738,
+        "num": 113738,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110775,
+        "num": 110775,
+        "word": "JDG官宣Sheer离队",
+        "onboard_time": 1733034020,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108994,
+        "num": 108994,
+        "word": "王楚钦赛后谈混双男单区别",
+        "onboard_time": 1733034557,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103838,
+        "num": 103838,
+        "word": "接触艾滋病毒后有72小时能自救",
+        "onboard_time": 1733026039,
+        "rank": 46,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 99418,
+        "num": 99418,
+        "word": "游戏装备也能被法院强制执行",
+        "onboard_time": 1733030658,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98320,
+        "num": 98320,
+        "word": "章宇居然四十二岁了",
+        "onboard_time": 1733034318,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8843,
+        "num": 96877,
+        "word": "世界各地跑者齐聚上马",
+        "onboard_time": 1733034738,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
