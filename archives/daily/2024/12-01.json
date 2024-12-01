@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733063954529,
+  "endTime": 1733066584366,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2522705,
-      "num": 307538,
+      "num": 351173,
       "word": "这样使用避孕套是无效操作",
       "onboard_time": 1733060119,
       "rank": 16,
@@ -259,6 +259,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 788291,
+      "num": 1126126,
+      "word": "傅首尔回应傅首尔面相",
+      "onboard_time": 1733064201,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 776694,
       "num": 1116239,
       "word": "骄阳似我开机晚宴",
@@ -387,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 627385,
+      "num": 627385,
+      "word": "撞死知名医生肇事者家属请求谅解",
+      "onboard_time": 1733064019,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 593523,
       "num": 593523,
       "word": "向佐女装撞脸张予曦",
@@ -473,6 +489,14 @@
       "onboard_time": 1732979780,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479221,
+      "num": 479221,
+      "word": "腾讯回应微信提现可免手续费",
+      "onboard_time": 1733064201,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 477828,
@@ -627,12 +651,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 405502,
+      "num": 405502,
+      "word": "迪丽热巴陈飞宇公主抱路透",
+      "onboard_time": 1733062760,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404650,
       "num": 360569,
       "word": "特朗普提名伊万卡公公任美驻法大使",
       "onboard_time": 1733013376,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 400103,
+      "num": 400103,
+      "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
+      "onboard_time": 1733060960,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 390278,
@@ -667,19 +707,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368531,
-      "num": 368531,
-      "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
-      "onboard_time": 1733060960,
-      "rank": 31,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 364659,
       "num": 364659,
       "word": "12月狗屎运最旺的星座",
       "onboard_time": 1733011335,
       "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 364262,
+      "num": 175057,
+      "word": "23岁清华女博士对人生的真实感受",
+      "onboard_time": 1733064800,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -729,6 +769,14 @@
       "onboard_time": 1733019439,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324356,
+      "num": 324356,
+      "word": "王安宇好帅",
+      "onboard_time": 1733064740,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 320409,
@@ -971,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248832,
-      "num": 248832,
-      "word": "迪丽热巴陈飞宇公主抱路透",
-      "onboard_time": 1733062760,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 249719,
+      "num": 249719,
+      "word": "朱志鑫剪头发",
+      "onboard_time": 1733065100,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 243805,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1733043859,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210706,
+      "num": 197146,
+      "word": "四大扛剧女演员",
+      "onboard_time": 1733064921,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209424,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1733019138,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184959,
+      "num": 184959,
+      "word": "赵雅芝哭了",
+      "onboard_time": 1733065820,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 183884,
@@ -1723,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153991,
+      "num": 197486,
+      "word": "王楚钦赛后提醒队友收好空瓶",
+      "onboard_time": 1733065041,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153286,
       "num": 153286,
       "word": "赵露思去看凤凰传奇演唱会了",
@@ -1771,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150089,
+      "num": 150089,
+      "word": "张杰成都演唱会",
+      "onboard_time": 1733065459,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150070,
       "num": 150070,
       "word": "秦彻深渊主宰",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1733027538,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149820,
+      "num": 149820,
+      "word": "知情人回应西安大型犬扑咬事件",
+      "onboard_time": 1733065341,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 146462,
@@ -1963,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135123,
+      "num": 135123,
+      "word": "叙利亚",
+      "onboard_time": 1733060780,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135011,
       "num": 135011,
       "word": "谢兴阳 凤凰传奇演唱会场外观众",
@@ -1987,14 +2083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133473,
-      "num": 133473,
-      "word": "叙利亚",
-      "onboard_time": 1733060780,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 133425,
       "num": 133425,
       "word": "俄方回应泽连斯基开出的停火条件",
@@ -2011,12 +2099,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132292,
+      "num": 283247,
+      "word": "国产老剧被AI爆改得像中毒了",
+      "onboard_time": 1733064921,
+      "rank": 14,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 131905,
       "num": 131905,
       "word": "驻日美军士兵酒后私闯民宅还大睡",
       "onboard_time": 1732995131,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131649,
+      "num": 131649,
+      "word": "利物浦vs曼城",
+      "onboard_time": 1733065940,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 131485,
@@ -2137,6 +2241,14 @@
       "onboard_time": 1733032277,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123599,
+      "num": 123599,
+      "word": "白桃星座",
+      "onboard_time": 1733066359,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 123392,
@@ -2467,6 +2579,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101787,
+      "num": 101787,
+      "word": "患者追忆因车祸去世的45岁医生",
+      "onboard_time": 1733065459,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101435,
+      "num": 101435,
+      "word": "南京一野猪夜闯民宅咬伤户主",
+      "onboard_time": 1733064322,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100747,
       "num": 100747,
       "word": "张元英和男伴舞双人芭蕾",
@@ -2545,6 +2673,14 @@
       "onboard_time": 1733036118,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96108,
+      "num": 96108,
+      "word": "樊振东解锁新身份",
+      "onboard_time": 1733066000,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94592,
@@ -2995,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50271,
+      "num": 352440,
+      "word": "当事人讲述杀熊救妻经过",
+      "onboard_time": 1733065760,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48519,
       "num": 426005,
       "word": "心理咨询师谈郁豹豹认亲后决裂",
@@ -3121,6 +3265,14 @@
       "onboard_time": 1732990153,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 36012,
+      "num": 217138,
+      "word": "女子花近五万相亲三次都失败盼退费",
+      "onboard_time": 1733065760,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35571,
@@ -3513,6 +3665,14 @@
       "onboard_time": 1733005271,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6884,
+      "num": 105212,
+      "word": "这个娄子建议多捅几次",
+      "onboard_time": 1733066480,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 6355,
