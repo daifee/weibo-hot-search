@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733037814755,
+  "endTime": 1733038741743,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1232470,
+      "num": 311390,
+      "word": "李行亮商演再次遭抵制",
+      "onboard_time": 1733034678,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1223519,
       "num": 1223519,
       "word": "艾滋夫妇确诊感染后的第20年",
@@ -97,14 +105,6 @@
       "onboard_time": 1732972639,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1151559,
-      "num": 226625,
-      "word": "李行亮商演再次遭抵制",
-      "onboard_time": 1733034678,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 1108218,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 972861,
-      "num": 253916,
+      "num": 300637,
       "word": "华晨宇蹦丢了一个31万的耳钉",
       "onboard_time": 1733032758,
       "rank": 10,
@@ -153,6 +153,14 @@
       "onboard_time": 1733029640,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712155,
+      "num": 1113944,
+      "word": "人民网评胖东来彩礼事件",
+      "onboard_time": 1733037016,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 704246,
@@ -211,6 +219,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628248,
+      "num": 628248,
+      "word": "上海127元一荤三素的快餐",
+      "onboard_time": 1733036417,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 596031,
+      "num": 145869,
+      "word": "微信提现可以免手续费了",
+      "onboard_time": 1733037918,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 593523,
+      "num": 593523,
+      "word": "向佐女装撞脸张予曦",
+      "onboard_time": 1733033839,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588762,
       "num": 227541,
       "word": "李行亮商演遭网友抵制",
@@ -233,14 +265,6 @@
       "onboard_time": 1733033718,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 548651,
-      "num": 548651,
-      "word": "向佐女装撞脸张予曦",
-      "onboard_time": 1733033839,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 489321,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 407053,
-      "num": 222910,
+      "num": 300573,
       "word": "国家大剧院",
       "onboard_time": 1733032639,
       "rank": 26,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 374478,
-      "num": 250350,
+      "num": 267097,
       "word": "快乐再出发",
       "onboard_time": 1733033057,
       "rank": 13,
@@ -385,14 +409,6 @@
       "onboard_time": 1733026759,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329774,
-      "num": 220688,
-      "word": "上海127元一荤三素的快餐",
-      "onboard_time": 1733036417,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 327101,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 270430,
-      "num": 212840,
+      "num": 214654,
       "word": "王源再现十年前双手合十",
       "onboard_time": 1733035937,
       "rank": 17,
@@ -595,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 234870,
-      "num": 234870,
-      "word": "人民网评胖东来彩礼事件",
-      "onboard_time": 1733037016,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 234263,
       "num": 251412,
       "word": "杨紫西班牙街拍",
@@ -625,6 +633,14 @@
       "onboard_time": 1733010615,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218083,
+      "num": 218083,
+      "word": "极品婆婆撞到儿子儿媳亲热现场",
+      "onboard_time": 1733037738,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 217640,
@@ -657,6 +673,14 @@
       "onboard_time": 1733017937,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208469,
+      "num": 145009,
+      "word": "宋亚轩吓关晓彤",
+      "onboard_time": 1733037977,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 206943,
@@ -715,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198176,
+      "num": 144556,
+      "word": "丁禹兮南部档案上班路透",
+      "onboard_time": 1733037977,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195532,
       "num": 195532,
       "word": "睡觉打呼噜可能导致白天疲惫",
@@ -761,6 +793,14 @@
       "onboard_time": 1733028439,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188856,
+      "num": 165756,
+      "word": "沙溢催生李晨",
+      "onboard_time": 1733037197,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 187737,
@@ -851,20 +891,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166202,
+      "num": 143972,
+      "word": "王一博北京飞杭州",
+      "onboard_time": 1733038158,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166120,
       "num": 166120,
       "word": "日本正考虑推进简化中国公民赴日签证手续",
       "onboard_time": 1732976240,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 165756,
-      "num": 165756,
-      "word": "沙溢催生李晨",
-      "onboard_time": 1733037197,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 165030,
@@ -939,12 +979,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157104,
+      "raw_hot": 157175,
       "num": 157104,
       "word": "突然就明白了什么是情感漠视",
       "onboard_time": 1733033598,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157072,
+      "num": 159268,
+      "word": "自己吓自己",
+      "onboard_time": 1733034678,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 156172,
@@ -1179,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127326,
-      "num": 159268,
-      "word": "自己吓自己",
-      "onboard_time": 1733034678,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127190,
       "num": 396849,
       "word": "还有一个月就是2025了",
@@ -1259,12 +1299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122111,
+      "num": 122111,
+      "word": "叶修上海痛街站岗",
+      "onboard_time": 1733038578,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 121438,
       "num": 121438,
       "word": "四川两大国企将重组",
       "onboard_time": 1732986256,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120849,
+      "num": 120849,
+      "word": "音乐节主办方宣布全面停止和周密合作",
+      "onboard_time": 1733035577,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 120625,
@@ -1312,6 +1368,14 @@
       "word": "檀健次破防居然是个连续剧",
       "onboard_time": 1733017999,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118466,
+      "num": 118466,
+      "word": "章宇 孔刘加黄渤",
+      "onboard_time": 1733037918,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1416,6 +1480,22 @@
       "word": "王楚钦向王皓送上生日祝福",
       "onboard_time": 1733035098,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105704,
+      "num": 105704,
+      "word": "上海92平米的迷你法式小别墅",
+      "onboard_time": 1733038098,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105074,
+      "num": 105074,
+      "word": "机动车行驶证电子化在全国全面推行",
+      "onboard_time": 1733038397,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1571,6 +1651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86833,
+      "num": 143457,
+      "word": "距离2025仅剩30天",
+      "onboard_time": 1733035338,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 82289,
+      "num": 182177,
+      "word": "被场外莎莎拿捏了",
+      "onboard_time": 1733037618,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81579,
       "num": 157922,
       "word": "赵丽颖无形情感化有形",
@@ -1659,12 +1755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72251,
-      "num": 123539,
-      "word": "距离2025仅剩30天",
-      "onboard_time": 1733035338,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 71800,
+      "num": 227829,
+      "word": "医生科普如何降低艾滋病感染风险",
+      "onboard_time": 1733036838,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 69046,
@@ -1675,20 +1771,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 68083,
-      "num": 182177,
-      "word": "被场外莎莎拿捏了",
-      "onboard_time": 1733037618,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65815,
       "num": 537341,
       "word": "王曼昱3比0泰普",
       "onboard_time": 1733024898,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62961,
+      "num": 162636,
+      "word": "治愈艾滋病的希望是否存在",
+      "onboard_time": 1733037378,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 61212,
@@ -1713,14 +1809,6 @@
       "onboard_time": 1733009534,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 59399,
-      "num": 162636,
-      "word": "治愈艾滋病的希望是否存在",
-      "onboard_time": 1733037378,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 58671,
@@ -1771,12 +1859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54044,
-      "num": 227829,
-      "word": "医生科普如何降低艾滋病感染风险",
-      "onboard_time": 1733036838,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 52778,
+      "num": 223166,
+      "word": "上海一开发商为增加车位破环承重柱",
+      "onboard_time": 1733037078,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51613,
@@ -1801,14 +1889,6 @@
       "onboard_time": 1732983259,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 47526,
-      "num": 183252,
-      "word": "极品婆婆撞到儿子儿媳亲热现场",
-      "onboard_time": 1733037738,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 46515,
@@ -1856,14 +1936,6 @@
       "word": "2024最后一个月",
       "onboard_time": 1733008814,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40531,
-      "num": 219536,
-      "word": "上海一开发商为增加车位破环承重柱",
-      "onboard_time": 1733037078,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
