@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733067471096,
+  "endTime": 1733070454426,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806331,
+      "num": 916669,
+      "word": "泰国坠崖孕妇被指责生意做太大",
+      "onboard_time": 1733067618,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 793817,
       "num": 1127010,
       "word": "央视曝光学生体育用品中的增塑剂",
@@ -443,8 +451,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 565372,
-      "num": 565372,
+      "raw_hot": 571458,
+      "num": 571458,
       "word": "腾讯回应微信提现可免手续费",
       "onboard_time": 1733064201,
       "rank": 3,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 460453,
-      "num": 175057,
+      "num": 209112,
       "word": "23岁清华女博士对人生的真实感受",
       "onboard_time": 1733064800,
       "rank": 30,
@@ -569,6 +577,14 @@
       "onboard_time": 1732978459,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 453606,
+      "num": 453606,
+      "word": "TREASURE将换队长",
+      "onboard_time": 1733067199,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 449039,
@@ -843,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295925,
+      "num": 295925,
+      "word": "李行亮团队婉拒采访",
+      "onboard_time": 1733067319,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294544,
       "num": 294544,
       "word": "恋与制作人大婚",
@@ -929,6 +953,14 @@
       "onboard_time": 1733038818,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274846,
+      "num": 197146,
+      "word": "四大扛剧女演员",
+      "onboard_time": 1733064921,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271510,
@@ -1155,20 +1187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212474,
+      "num": 283247,
+      "word": "国产老剧被AI爆改得像中毒了",
+      "onboard_time": 1733064921,
+      "rank": 14,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 210708,
       "num": 228111,
       "word": "王源丁程鑫好六上班",
       "onboard_time": 1733043859,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210706,
-      "num": 197146,
-      "word": "四大扛剧女演员",
-      "onboard_time": 1733064921,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209424,
@@ -1315,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200440,
+      "num": 200440,
+      "word": "丁禹兮今天喝奶茶啦",
+      "onboard_time": 1733068398,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198568,
       "num": 198568,
       "word": "这么丑的猫我居然有三只",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1733014517,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 194289,
-      "num": 194289,
-      "word": "TREASURE将换队长",
-      "onboard_time": 1733067199,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 192792,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1733019138,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184077,
-      "num": 184077,
-      "word": "李行亮团队婉拒采访",
-      "onboard_time": 1733067319,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 183884,
@@ -2019,14 +2043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 139617,
-      "num": 283247,
-      "word": "国产老剧被AI爆改得像中毒了",
-      "onboard_time": 1733064921,
-      "rank": 14,
-      "category": "民生新闻,剧集"
-    },
-    {
       "raw_hot": 138470,
       "num": 138470,
       "word": "婚内婚外把婚姻茧房拍出来了",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1733050400,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138203,
+      "num": 108831,
+      "word": "蒋敦豪交给时间解答",
+      "onboard_time": 1733068038,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 137839,
@@ -2403,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116614,
+      "num": 108744,
+      "word": "刘宪华演唱会",
+      "onboard_time": 1733067858,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116446,
       "num": 116446,
       "word": "马嘉祺剧目排练",
@@ -2723,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93680,
+      "num": 93680,
+      "word": "皇马vs赫塔菲",
+      "onboard_time": 1733068998,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93552,
       "num": 93552,
       "word": "孟子义李昀锐好嗑",
@@ -2769,6 +2809,14 @@
       "onboard_time": 1733042839,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 87611,
+      "num": 217138,
+      "word": "女子花近五万相亲三次都失败盼退费",
+      "onboard_time": 1733065760,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87146,
@@ -2899,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78793,
+      "num": 78793,
+      "word": "孙红雷关晓彤张艺兴好先生友谊",
+      "onboard_time": 1733069657,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78303,
       "num": 448785,
       "word": "大多数HIV感染者选择隐瞒病情",
@@ -2937,6 +2993,14 @@
       "onboard_time": 1733062161,
       "rank": 14,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 74848,
+      "num": 74848,
+      "word": "谭松韵我那可爱的宝宝姐",
+      "onboard_time": 1733069598,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 74793,
@@ -3003,12 +3067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67596,
+      "num": 67596,
+      "word": "90多名艾滋病患儿有个共同的家",
+      "onboard_time": 1733069958,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66022,
       "num": 326873,
       "word": "港警回应66个爱马仕包被抢案",
       "onboard_time": 1733058740,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65820,
+      "num": 108741,
+      "word": "全圆佑绝美氛围",
+      "onboard_time": 1733068879,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 65815,
@@ -3163,14 +3243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50829,
-      "num": 217138,
-      "word": "女子花近五万相亲三次都失败盼退费",
-      "onboard_time": 1733065760,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48519,
       "num": 426005,
       "word": "心理咨询师谈郁豹豹认亲后决裂",
@@ -3241,6 +3313,14 @@
       "onboard_time": 1733008873,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42752,
+      "num": 108794,
+      "word": "言语缩减",
+      "onboard_time": 1733069598,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 41909,
@@ -3595,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15037,
+      "num": 105212,
+      "word": "这个娄子建议多捅几次",
+      "onboard_time": 1733066480,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 13911,
       "num": 37947,
       "word": "细化电信诈骗惩戒措施",
@@ -3657,14 +3745,6 @@
       "onboard_time": 1733009714,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9965,
-      "num": 105212,
-      "word": "这个娄子建议多捅几次",
-      "onboard_time": 1733066480,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 9793,
