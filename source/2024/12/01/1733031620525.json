@@ -1,0 +1,410 @@
+{
+  "runTime": 1733031620525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390934,
+        "num": 1390934,
+        "word": "尾号888888手机号被法拍42万成交",
+        "onboard_time": 1733027779,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1118393,
+        "num": 1118393,
+        "word": "我国艾滋病性传播约70%是异性传播",
+        "onboard_time": 1733024539,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43105,
+        "num": 1016332,
+        "word": "我国首个商业航天发射场首发看点",
+        "onboard_time": 1733021597,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 935962,
+        "num": 935962,
+        "word": "李胜利疑似喊话向佐",
+        "onboard_time": 1733024418,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772406,
+        "num": 772406,
+        "word": "国考",
+        "onboard_time": 1733010074,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 661267,
+        "num": 661267,
+        "word": "周芯竹再回应",
+        "onboard_time": 1733017518,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660543,
+        "num": 660543,
+        "word": "石破茂发生车祸现场细节",
+        "onboard_time": 1733028379,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 451516,
+        "num": 451516,
+        "word": "鹿晗一天吃一顿每天跑十公里",
+        "onboard_time": 1733017638,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397823,
+        "num": 397823,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155678,
+        "num": 377469,
+        "word": "游戏装备也能被法院强制执行",
+        "onboard_time": 1733030658,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819237,
+        "num": 375709,
+        "word": "黄晓明悼念姥姥",
+        "onboard_time": 1733029640,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358619,
+        "num": 358619,
+        "word": "商场删除官宣李行亮商演视频",
+        "onboard_time": 1733019558,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509657,
+        "num": 358043,
+        "word": "鹿晗体重只有55kg",
+        "onboard_time": 1733026638,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340925,
+        "num": 340925,
+        "word": "一岁多小宝上了40分钟课哭了40分钟",
+        "onboard_time": 1733022979,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337511,
+        "num": 337511,
+        "word": "国考图推",
+        "onboard_time": 1733024898,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300717,
+        "num": 300717,
+        "word": "儿子从美国打110替杭州独居母亲报警",
+        "onboard_time": 1733018897,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290776,
+        "num": 290776,
+        "word": "花生十三来了都得掉层花生皮",
+        "onboard_time": 1733030419,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286777,
+        "num": 286777,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257862,
+        "num": 257862,
+        "word": "行测 做不完",
+        "onboard_time": 1733023578,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24266,
+        "num": 242794,
+        "word": "这趟AI专列藏着多少文化Passion",
+        "onboard_time": 1733030001,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 239233,
+        "num": 239233,
+        "word": "王楚钦凌空杀球",
+        "onboard_time": 1733028918,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231043,
+        "num": 231043,
+        "word": "白鹿踩茶饼体重不够",
+        "onboard_time": 1733030718,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453793,
+        "num": 229584,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28495,
+        "num": 228331,
+        "word": "原神5.2版本",
+        "onboard_time": 1733025859,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37815,
+        "num": 228037,
+        "word": "极氪终身质保电池可免费换",
+        "onboard_time": 1733028019,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227844,
+        "num": 227844,
+        "word": "张智霖喊话18岁儿子谈恋爱",
+        "onboard_time": 1733026759,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217640,
+        "num": 217640,
+        "word": "接触艾滋病毒后有72小时能自救",
+        "onboard_time": 1733026039,
+        "rank": 26,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 212405,
+        "num": 212405,
+        "word": "国考答案",
+        "onboard_time": 1733024418,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199630,
+        "num": 199630,
+        "word": "赵丽颖12月行程已送达",
+        "onboard_time": 1733028619,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55069,
+        "num": 192422,
+        "word": "小花又开始写心经了",
+        "onboard_time": 1733026938,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535988,
+        "num": 192382,
+        "word": "微信运动太暴露隐私了",
+        "onboard_time": 1733024418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191858,
+        "num": 191858,
+        "word": "马嘉祺 音乐剧",
+        "onboard_time": 1733030898,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195694,
+        "num": 191401,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93729,
+        "num": 191152,
+        "word": "朱志鑫兑现直播承诺",
+        "onboard_time": 1733030360,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190945,
+        "num": 190945,
+        "word": "男子在袁记云饺吃出蚯蚓店家愿赔500",
+        "onboard_time": 1733013016,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 189257,
+        "num": 189257,
+        "word": "莎局来看比赛了",
+        "onboard_time": 1733028439,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176443,
+        "num": 176443,
+        "word": "70万一针救命药进医保改写男童人生",
+        "onboard_time": 1733026338,
+        "rank": 36,
+        "category": "民生新闻,正能量"
+      },
+      {
+        "raw_hot": 173812,
+        "num": 173812,
+        "word": "申论处女作",
+        "onboard_time": 1733025319,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168143,
+        "num": 168143,
+        "word": "这么丑的猫我居然有三只",
+        "onboard_time": 1733025198,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153108,
+        "num": 153108,
+        "word": "国乒回应混团开门红",
+        "onboard_time": 1733030539,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102924,
+        "num": 140673,
+        "word": "幸福航空飞行员因被欠薪送外卖",
+        "onboard_time": 1733029518,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139768,
+        "num": 139768,
+        "word": "申论格式",
+        "onboard_time": 1733030299,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137136,
+        "num": 137136,
+        "word": "因果报应 穿运动鞋观影",
+        "onboard_time": 1733026999,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131385,
+        "num": 131385,
+        "word": "微信状态你是不是搞得太暧昧了",
+        "onboard_time": 1733017518,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125909,
+        "num": 125909,
+        "word": "智界新S7开启全国大规模交付",
+        "onboard_time": 1733031200,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123206,
+        "num": 123206,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119437,
+        "num": 119437,
+        "word": "王曼昱对手右手残疾曾参加残奥会",
+        "onboard_time": 1733029338,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118498,
+        "num": 118498,
+        "word": "国考言语缩减",
+        "onboard_time": 1733028140,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113022,
+        "num": 113022,
+        "word": "李白杜甫诚不欺我",
+        "onboard_time": 1733026519,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109866,
+        "num": 109866,
+        "word": "战争与和平",
+        "onboard_time": 1733029819,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
