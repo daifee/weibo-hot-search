@@ -1,0 +1,410 @@
+{
+  "runTime": 1733059740312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 798770,
+        "num": 1127803,
+        "word": "K292次列车乘客称有免费饭和水",
+        "onboard_time": 1733052559,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776694,
+        "num": 776694,
+        "word": "骄阳似我开机晚宴",
+        "onboard_time": 1733055619,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40326,
+        "num": 702561,
+        "word": "这样的文物戏精亮了",
+        "onboard_time": 1733058019,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 687188,
+        "num": 687188,
+        "word": "李行亮商演再次遭抵制",
+        "onboard_time": 1733034678,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 532424,
+        "num": 532424,
+        "word": "泰国孕妇坠崖案双方仍未离婚",
+        "onboard_time": 1733047278,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420825,
+        "num": 420825,
+        "word": "尾号888888手机号被法拍42万成交",
+        "onboard_time": 1733027779,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506877,
+        "num": 419673,
+        "word": "22岁陈小春曾给26岁梅艳芳伴舞",
+        "onboard_time": 1733054238,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465333,
+        "num": 418636,
+        "word": "王曼昱VOGUE",
+        "onboard_time": 1733057358,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416114,
+        "num": 416114,
+        "word": "美国小伙说来北京像到了公元3000年",
+        "onboard_time": 1733046679,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 332380,
+        "num": 332380,
+        "word": "人民网评胖东来彩礼事件",
+        "onboard_time": 1733037016,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 784115,
+        "num": 325737,
+        "word": "台湾情侣被曝吸毒后打死1岁女儿",
+        "onboard_time": 1733047339,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 443059,
+        "num": 323005,
+        "word": "天生爱豆四帅",
+        "onboard_time": 1733049499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412663,
+        "num": 315197,
+        "word": "音乐节主办停止和周密合作",
+        "onboard_time": 1733045481,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 398204,
+        "num": 305258,
+        "word": "华晨宇蹦丢了一个31万的耳钉",
+        "onboard_time": 1733032758,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59098,
+        "num": 298103,
+        "word": "港警回应66个爱马仕包被抢案",
+        "onboard_time": 1733058740,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293041,
+        "num": 293041,
+        "word": "国考笔试实际参考258.6万人",
+        "onboard_time": 1733049558,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276197,
+        "num": 276197,
+        "word": "林更新狗随主人",
+        "onboard_time": 1733057719,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68700,
+        "num": 269339,
+        "word": "郑业成用四川话回复赵露思",
+        "onboard_time": 1733053278,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269028,
+        "num": 269028,
+        "word": "菲律宾一村庄村民分食海龟致3人死亡",
+        "onboard_time": 1733041818,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42203,
+        "num": 266125,
+        "word": "如何看待李行亮商演遭抵制",
+        "onboard_time": 1733058980,
+        "rank": 19,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 151024,
+        "num": 262591,
+        "word": "部分学生体育用品增塑剂超标超200倍",
+        "onboard_time": 1733057659,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 528778,
+        "num": 258800,
+        "word": "颜如晶瘦了55斤解锁全新风格",
+        "onboard_time": 1733057898,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318429,
+        "num": 255216,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46824,
+        "num": 251229,
+        "word": "马龙打棒球2次错误示范逗笑全场",
+        "onboard_time": 1733046079,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195503,
+        "num": 248019,
+        "word": "普京签署41万亿卢布预算",
+        "onboard_time": 1733057480,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309651,
+        "num": 242093,
+        "word": "孕妇想月子期间洗头被长辈包围劝阻",
+        "onboard_time": 1733057118,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 273408,
+        "num": 237484,
+        "word": "唐嫣罗晋带娃逛迪士尼",
+        "onboard_time": 1733059279,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236781,
+        "num": 236781,
+        "word": "老人摔倒瞬间大哥滑铲接住头部",
+        "onboard_time": 1733050158,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 230115,
+        "num": 230115,
+        "word": "苏翊鸣未能卫冕",
+        "onboard_time": 1733057059,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220069,
+        "num": 220069,
+        "word": "唐三就这味倍儿爽",
+        "onboard_time": 1733057420,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214355,
+        "num": 214355,
+        "word": "鹿晗拒绝放十二月的奇迹",
+        "onboard_time": 1733043737,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210362,
+        "num": 210362,
+        "word": "申论大作文",
+        "onboard_time": 1733045239,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204178,
+        "num": 204178,
+        "word": "关晓彤给张艺兴音乐话剧打call",
+        "onboard_time": 1733049440,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198657,
+        "num": 198657,
+        "word": "女子麦当劳内咆哮式辱骂一男孩",
+        "onboard_time": 1733054658,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177096,
+        "num": 177096,
+        "word": "北京晚霞",
+        "onboard_time": 1733045539,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167629,
+        "num": 167629,
+        "word": "丁禹兮民国贵公子妆造",
+        "onboard_time": 1733057358,
+        "rank": 35,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 159453,
+        "num": 159453,
+        "word": "生完双胞胎儿子又再添三胞胎女儿",
+        "onboard_time": 1733048418,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152610,
+        "num": 152610,
+        "word": "17岁中专生被7家企业疯抢妈妈骄傲",
+        "onboard_time": 1733041038,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85544,
+        "num": 151858,
+        "word": "苏翊鸣完赛",
+        "onboard_time": 1733054359,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151315,
+        "num": 151315,
+        "word": "南京大屠杀在世幸存者仅剩32人",
+        "onboard_time": 1733053398,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150435,
+        "num": 150435,
+        "word": "军团杯总冠军古德猫宁",
+        "onboard_time": 1733059040,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150399,
+        "num": 150399,
+        "word": "权志龙MAMA花絮",
+        "onboard_time": 1733056878,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141624,
+        "num": 141624,
+        "word": "叙利亚叛军推倒叙总统兄长雕像",
+        "onboard_time": 1733057719,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135560,
+        "num": 135560,
+        "word": "丁禹兮海上唱重塑",
+        "onboard_time": 1733059580,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135538,
+        "num": 135538,
+        "word": "王鹤棣区区表情管理",
+        "onboard_time": 1733059699,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135127,
+        "num": 135127,
+        "word": "央视曝光学生体育用品中的增塑剂",
+        "onboard_time": 1733058919,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133268,
+        "num": 133268,
+        "word": "半夜天花板上掉下一只300斤野猪",
+        "onboard_time": 1733059460,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130022,
+        "num": 130022,
+        "word": "因果报应女性血肉疯长",
+        "onboard_time": 1733058019,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127132,
+        "num": 128914,
+        "word": "罗云熙法医造型",
+        "onboard_time": 1733058321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128533,
+        "num": 128533,
+        "word": "小伙捐出日军罪证2年后还在被网暴",
+        "onboard_time": 1733041518,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733057932214,
+  "endTime": 1733059740312,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776694,
+      "num": 776694,
+      "word": "骄阳似我开机晚宴",
+      "onboard_time": 1733055619,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768744,
       "num": 496014,
       "word": "王暖暖孩子目前还没有上户口",
@@ -241,14 +249,6 @@
       "onboard_time": 1733049499,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 723316,
-      "num": 723316,
-      "word": "骄阳似我开机晚宴",
-      "onboard_time": 1733055619,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 704246,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 528778,
+      "num": 258800,
+      "word": "颜如晶瘦了55斤解锁全新风格",
+      "onboard_time": 1733057898,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498698,
       "num": 498698,
       "word": "莎头组合合体",
@@ -433,6 +441,14 @@
       "onboard_time": 1733049440,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 465333,
+      "num": 418636,
+      "word": "王曼昱VOGUE",
+      "onboard_time": 1733057358,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 463319,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 320409,
-      "num": 222693,
+      "num": 236781,
       "word": "老人摔倒瞬间大哥滑铲接住头部",
       "onboard_time": 1733050158,
       "rank": 37,
@@ -649,6 +665,14 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309651,
+      "num": 242093,
+      "word": "孕妇想月子期间洗头被长辈包围劝阻",
+      "onboard_time": 1733057118,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 307526,
@@ -747,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276197,
+      "num": 276197,
+      "word": "林更新狗随主人",
+      "onboard_time": 1733057719,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276047,
       "num": 276047,
       "word": "资料分析第一题",
@@ -761,6 +793,14 @@
       "onboard_time": 1733038818,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273408,
+      "num": 237484,
+      "word": "唐嫣罗晋带娃逛迪士尼",
+      "onboard_time": 1733059279,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 271510,
@@ -883,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230115,
+      "num": 230115,
+      "word": "苏翊鸣未能卫冕",
+      "onboard_time": 1733057059,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224395,
       "num": 224395,
       "word": "导致胃癌的高危因素",
@@ -905,6 +953,14 @@
       "onboard_time": 1733056699,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220069,
+      "num": 224083,
+      "word": "唐三就这味倍儿爽",
+      "onboard_time": 1733057420,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 217640,
@@ -1059,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199720,
-      "num": 207586,
-      "word": "王曼昱VOGUE",
-      "onboard_time": 1733057358,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198568,
       "num": 198568,
       "word": "这么丑的猫我居然有三只",
@@ -1091,20 +1139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195857,
-      "num": 195857,
-      "word": "颜如晶瘦了55斤解锁全新风格",
-      "onboard_time": 1733057898,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195532,
       "num": 195532,
       "word": "睡觉打呼噜可能导致白天疲惫",
       "onboard_time": 1733014517,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195503,
+      "num": 248019,
+      "word": "普京签署41万亿卢布预算",
+      "onboard_time": 1733057480,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192792,
@@ -1291,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170515,
-      "num": 170515,
-      "word": "普京签署41万亿卢布预算",
-      "onboard_time": 1733057480,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 170430,
       "num": 170430,
       "word": "权志龙MAMA花絮",
@@ -1315,28 +1355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168611,
-      "num": 224083,
-      "word": "唐三就这味倍儿爽",
-      "onboard_time": 1733057420,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 168088,
-      "num": 168088,
-      "word": "孕妇想月子期间洗头被长辈包围劝阻",
-      "onboard_time": 1733057118,
-      "rank": 38,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 168000,
       "num": 168000,
       "word": "名侦探学院",
       "onboard_time": 1733032277,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167629,
+      "num": 167629,
+      "word": "丁禹兮民国贵公子妆造",
+      "onboard_time": 1733057358,
+      "rank": 44,
+      "category": "剧集,时尚"
     },
     {
       "raw_hot": 167212,
@@ -1539,12 +1571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151024,
+      "num": 349857,
+      "word": "部分学生体育用品增塑剂超标超200倍",
+      "onboard_time": 1733057659,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 150640,
       "num": 150640,
       "word": "月鳞绮纪明日开机",
       "onboard_time": 1733051059,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150435,
+      "num": 150435,
+      "word": "军团杯总冠军古德猫宁",
+      "onboard_time": 1733059040,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 150119,
@@ -1612,11 +1660,19 @@
     },
     {
       "raw_hot": 141969,
-      "num": 210940,
+      "num": 251229,
       "word": "马龙打棒球2次错误示范逗笑全场",
       "onboard_time": 1733046079,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141624,
+      "num": 141624,
+      "word": "叙利亚叛军推倒叙总统兄长雕像",
+      "onboard_time": 1733057719,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141137,
@@ -1675,14 +1731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138973,
-      "num": 138973,
-      "word": "丁禹兮民国贵公子妆造",
-      "onboard_time": 1733057358,
-      "rank": 44,
-      "category": "剧集,时尚"
-    },
-    {
       "raw_hot": 138470,
       "num": 138470,
       "word": "婚内婚外把婚姻茧房拍出来了",
@@ -1723,6 +1771,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135560,
+      "num": 135560,
+      "word": "丁禹兮海上唱重塑",
+      "onboard_time": 1733059580,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 135538,
+      "num": 135538,
+      "word": "王鹤棣区区表情管理",
+      "onboard_time": 1733059699,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135127,
+      "num": 135127,
+      "word": "央视曝光学生体育用品中的增塑剂",
+      "onboard_time": 1733058919,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 135011,
       "num": 135011,
       "word": "谢兴阳 凤凰传奇演唱会场外观众",
@@ -1753,6 +1825,14 @@
       "onboard_time": 1733032878,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133268,
+      "num": 133268,
+      "word": "半夜天花板上掉下一只300斤野猪",
+      "onboard_time": 1733059460,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133079,
@@ -1795,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130022,
+      "num": 130022,
+      "word": "因果报应女性血肉疯长",
+      "onboard_time": 1733058019,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129894,
       "num": 359244,
       "word": "第十一个国家公祭日",
@@ -1827,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127132,
+      "num": 128914,
+      "word": "罗云熙法医造型",
+      "onboard_time": 1733058321,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126880,
       "num": 474997,
       "word": "王曼昱vs泰普",
@@ -1852,7 +1948,7 @@
     },
     {
       "raw_hot": 125668,
-      "num": 125668,
+      "num": 151858,
       "word": "苏翊鸣完赛",
       "onboard_time": 1733054359,
       "rank": 41,
@@ -2001,14 +2097,6 @@
       "onboard_time": 1733037918,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117006,
-      "num": 117006,
-      "word": "叙利亚叛军推倒叙总统兄长雕像",
-      "onboard_time": 1733057719,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116618,
@@ -2507,14 +2595,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 74194,
-      "num": 203961,
-      "word": "苏翊鸣未能卫冕",
-      "onboard_time": 1733057059,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73667,
       "num": 281959,
       "word": "无锡一地十几年没通自来水",
@@ -2555,12 +2635,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 68363,
-      "num": 140210,
-      "word": "林更新狗随主人",
-      "onboard_time": 1733057719,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 68700,
+      "num": 269339,
+      "word": "郑业成用四川话回复赵露思",
+      "onboard_time": 1733053278,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 65815,
@@ -2609,6 +2689,14 @@
       "onboard_time": 1733053218,
       "rank": 34,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 59098,
+      "num": 298103,
+      "word": "港警回应66个爱马仕包被抢案",
+      "onboard_time": 1733058740,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58749,
@@ -2715,14 +2803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 46761,
-      "num": 349857,
-      "word": "部分学生体育用品增塑剂超标超200倍",
-      "onboard_time": 1733057659,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 46515,
       "num": 46515,
       "word": "华晨宇 找灵魂伴侣这件事情很难",
@@ -2763,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42203,
+      "num": 266125,
+      "word": "如何看待李行亮商演遭抵制",
+      "onboard_time": 1733058980,
+      "rank": 19,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 41909,
       "num": 41909,
       "word": "2024最后一个月",
@@ -2777,6 +2865,14 @@
       "onboard_time": 1733009775,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40326,
+      "num": 702561,
+      "word": "这样的文物戏精亮了",
+      "onboard_time": 1733058019,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 39326,
