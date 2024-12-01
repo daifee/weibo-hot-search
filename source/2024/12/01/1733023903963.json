@@ -1,0 +1,410 @@
+{
+  "runTime": 1733023903963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3445084,
+        "num": 3445084,
+        "word": "国考",
+        "onboard_time": 1733010074,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1316252,
+        "num": 1316252,
+        "word": "儿子从美国打110替杭州独居母亲报警",
+        "onboard_time": 1733018897,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68475,
+        "num": 1273271,
+        "word": "我国首个商业航天发射场首发看点",
+        "onboard_time": 1733021597,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1237682,
+        "num": 1237682,
+        "word": "行测",
+        "onboard_time": 1733013797,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1036381,
+        "num": 1036381,
+        "word": "鹿晗一天吃一顿每天跑十公里",
+        "onboard_time": 1733017638,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 896021,
+        "num": 896021,
+        "word": "周芯竹再回应",
+        "onboard_time": 1733017518,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859957,
+        "num": 859957,
+        "word": "商场删除官宣李行亮商演视频",
+        "onboard_time": 1733019558,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690857,
+        "num": 690857,
+        "word": "男子在袁记云饺吃出蚯蚓店家愿赔500",
+        "onboard_time": 1733013016,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 265995,
+        "num": 657682,
+        "word": "一岁多小宝上了40分钟课哭了40分钟",
+        "onboard_time": 1733022979,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307526,
+        "num": 635617,
+        "word": "国乒vs澳大利亚",
+        "onboard_time": 1733020817,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634100,
+        "num": 634100,
+        "word": "高瀚宇为鹿晗发声",
+        "onboard_time": 1733021059,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534531,
+        "num": 534531,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475050,
+        "num": 475050,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384674,
+        "num": 384674,
+        "word": "成都混团开幕式",
+        "onboard_time": 1733019858,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77570,
+        "num": 317266,
+        "word": "跟网红0元开店一月被骗16万",
+        "onboard_time": 1733021118,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309003,
+        "num": 309003,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285266,
+        "num": 285266,
+        "word": "成都混团世界杯国乒首战",
+        "onboard_time": 1733011216,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284524,
+        "num": 284524,
+        "word": "行测 做不完",
+        "onboard_time": 1733023578,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54174,
+        "num": 282705,
+        "word": "林诗栋蒯曼vs卢伟洪剑芳",
+        "onboard_time": 1733023339,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73667,
+        "num": 281959,
+        "word": "无锡一地十几年没通自来水",
+        "onboard_time": 1733022560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105028,
+        "num": 279781,
+        "word": "檀健次十二月行程图送达",
+        "onboard_time": 1733022257,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594011,
+        "num": 278128,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338983,
+        "num": 274618,
+        "word": "微信状态你是不是搞得太暧昧了",
+        "onboard_time": 1733017518,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296595,
+        "num": 273923,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124530,
+        "num": 270790,
+        "word": "杜兰特和格林较劲",
+        "onboard_time": 1733023459,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270094,
+        "num": 270094,
+        "word": "运动员代表孙颖莎宣誓",
+        "onboard_time": 1733022979,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234263,
+        "num": 234263,
+        "word": "杨紫西班牙街拍",
+        "onboard_time": 1733021298,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226402,
+        "num": 226402,
+        "word": "行测答案",
+        "onboard_time": 1733023578,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191900,
+        "num": 203940,
+        "word": "迪丽热巴冬日氛围十二月行程",
+        "onboard_time": 1733023039,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159564,
+        "num": 202744,
+        "word": "禹宙中欣 美丽的神话",
+        "onboard_time": 1733022859,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202036,
+        "num": 202036,
+        "word": "成都混团世界杯",
+        "onboard_time": 1733022018,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177969,
+        "num": 177969,
+        "word": "俄军空袭叙利亚阿勒颇",
+        "onboard_time": 1733014936,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174775,
+        "num": 174775,
+        "word": "12月狗屎运最旺的星座",
+        "onboard_time": 1733011335,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155806,
+        "num": 155806,
+        "word": "石破茂所乘车辆发生事故",
+        "onboard_time": 1733021238,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146788,
+        "num": 146788,
+        "word": "肖战 攻玉",
+        "onboard_time": 1732979540,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134680,
+        "num": 134680,
+        "word": "天冷了男朋友又在他的衣柜找衣服了",
+        "onboard_time": 1733015718,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 132683,
+        "word": "男子称买酒后扫码跳出色情网站",
+        "onboard_time": 1733017578,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122826,
+        "num": 122826,
+        "word": "香港一奢侈品店66个爱马仕被窃",
+        "onboard_time": 1733022979,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122585,
+        "num": 122585,
+        "word": "我国首个商业航天发射场首发成功",
+        "onboard_time": 1732980980,
+        "rank": 38,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 122523,
+        "num": 122523,
+        "word": "金敏绪进入女友粉丝群",
+        "onboard_time": 1733023818,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119626,
+        "num": 119626,
+        "word": "30多只一级保护动物干饭头都不抬",
+        "onboard_time": 1733020457,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116446,
+        "num": 116446,
+        "word": "马嘉祺剧目排练",
+        "onboard_time": 1733022377,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114410,
+        "num": 114410,
+        "word": "长征十二号火箭成功首飞",
+        "onboard_time": 1733009775,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113784,
+        "num": 113784,
+        "word": "特朗普俄乌停战方案浮出水面",
+        "onboard_time": 1733018598,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112539,
+        "num": 112539,
+        "word": "还有一个月就是2025了",
+        "onboard_time": 1733017457,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111727,
+        "num": 111727,
+        "word": "6岁才站起的罕见病孩子要研究飞机",
+        "onboard_time": 1733023339,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107821,
+        "num": 107821,
+        "word": "关于艾滋病的10个真相",
+        "onboard_time": 1733018716,
+        "rank": 46,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 107404,
+        "num": 107404,
+        "word": "李行亮商演价格或翻倍",
+        "onboard_time": 1733023759,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106559,
+        "num": 106559,
+        "word": "杭州夫妻两人染色体竟相同",
+        "onboard_time": 1732983798,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103351,
+        "num": 103351,
+        "word": "田小娟ins更新",
+        "onboard_time": 1733019018,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
