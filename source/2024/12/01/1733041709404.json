@@ -1,0 +1,410 @@
+{
+  "runTime": 1733041709404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211245,
+        "num": 1211245,
+        "word": "人民网评胖东来彩礼事件",
+        "onboard_time": 1733037016,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 937654,
+        "num": 937654,
+        "word": "上海127元一荤三素的快餐",
+        "onboard_time": 1733036417,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72540,
+        "num": 589036,
+        "word": "我国首型4米级直径的火箭",
+        "onboard_time": 1733040018,
+        "rank": 2,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 455793,
+        "num": 455793,
+        "word": "尾号888888手机号被法拍42万成交",
+        "onboard_time": 1733027779,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426748,
+        "num": 426748,
+        "word": "林栋哲庄筱婷婚后生活",
+        "onboard_time": 1733039718,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418309,
+        "num": 418309,
+        "word": "我国艾滋病性传播约70%是异性传播",
+        "onboard_time": 1733024539,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368238,
+        "num": 368238,
+        "word": "向佐女装撞脸张予曦",
+        "onboard_time": 1733033839,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304680,
+        "num": 304680,
+        "word": "王源再现十年前双手合十",
+        "onboard_time": 1733035937,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280368,
+        "num": 280368,
+        "word": "高危性行为后多久能检测出艾滋病病毒",
+        "onboard_time": 1733039299,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203155,
+        "num": 280037,
+        "word": "17岁中专生被7家企业疯抢妈妈骄傲",
+        "onboard_time": 1733041038,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1108911,
+        "num": 279276,
+        "word": "李行亮商演再次遭抵制",
+        "onboard_time": 1733034678,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303996,
+        "num": 278704,
+        "word": "极品婆婆撞到儿子儿媳亲热现场",
+        "onboard_time": 1733037738,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646495,
+        "num": 278198,
+        "word": "华晨宇蹦丢了一个31万的耳钉",
+        "onboard_time": 1733032758,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39265,
+        "num": 277432,
+        "word": "极端天气是如何一步步成为常态的",
+        "onboard_time": 1733039838,
+        "rank": 13,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 20820,
+        "num": 276311,
+        "word": "律师称网友有权抵制李行亮商演",
+        "onboard_time": 1733041577,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360424,
+        "num": 276109,
+        "word": "李胜利疑似喊话向佐",
+        "onboard_time": 1733024418,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275506,
+        "num": 275506,
+        "word": "王楚钦说自己内心的起伏超出预期",
+        "onboard_time": 1733038818,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30650,
+        "num": 275117,
+        "word": "好运家今日开播",
+        "onboard_time": 1733037437,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290091,
+        "num": 272303,
+        "word": "黄晓明悼念姥姥",
+        "onboard_time": 1733029640,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114032,
+        "num": 271424,
+        "word": "王一博北京飞杭州",
+        "onboard_time": 1733038158,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581641,
+        "num": 269383,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268646,
+        "num": 268646,
+        "word": "鹿晗一天吃一顿每天跑十公里",
+        "onboard_time": 1733017638,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200124,
+        "num": 200124,
+        "word": "杨紫渐变高定纱裙",
+        "onboard_time": 1733035757,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183884,
+        "num": 183884,
+        "word": "上海92平米的迷你法式小别墅",
+        "onboard_time": 1733038098,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168565,
+        "num": 168565,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163436,
+        "num": 163436,
+        "word": "莎头组合合体",
+        "onboard_time": 1733041338,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152327,
+        "num": 152327,
+        "word": "南部档案",
+        "onboard_time": 1733039897,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150070,
+        "num": 150070,
+        "word": "秦彻深渊主宰",
+        "onboard_time": 1733039657,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107454,
+        "num": 148121,
+        "word": "米卡参加了马拉松",
+        "onboard_time": 1733040317,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 28437,
+        "num": 146327,
+        "word": "无限暖暖",
+        "onboard_time": 1733038818,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236509,
+        "num": 145508,
+        "word": "微信运动太暴露隐私了",
+        "onboard_time": 1733024418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191212,
+        "num": 142406,
+        "word": "星光大赏抽门票",
+        "onboard_time": 1733040798,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141487,
+        "num": 141487,
+        "word": "国考",
+        "onboard_time": 1733010074,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137839,
+        "num": 137839,
+        "word": "不靠攻略靠感觉的旅行有多爽",
+        "onboard_time": 1733040617,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137464,
+        "num": 137464,
+        "word": "宋亚轩吓关晓彤",
+        "onboard_time": 1733037977,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135325,
+        "num": 135325,
+        "word": "丁禹兮南部档案上班路透",
+        "onboard_time": 1733037977,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128604,
+        "num": 128604,
+        "word": "双轨换导演",
+        "onboard_time": 1733041397,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123069,
+        "num": 123069,
+        "word": "张予曦再扮小舞",
+        "onboard_time": 1733039657,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121754,
+        "num": 121754,
+        "word": "快乐再出发",
+        "onboard_time": 1733033057,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120445,
+        "num": 120445,
+        "word": "白鹿踩茶饼体重不够",
+        "onboard_time": 1733030718,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38648,
+        "num": 118210,
+        "word": "从再见爱人看女性之间的默契",
+        "onboard_time": 1733039598,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118111,
+        "num": 118111,
+        "word": "音乐节主办方宣布全面停止和周密合作",
+        "onboard_time": 1733035577,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116964,
+        "num": 116964,
+        "word": "套内60平米的精致小家",
+        "onboard_time": 1733038998,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109890,
+        "num": 109890,
+        "word": "鹿晗体重只有55kg",
+        "onboard_time": 1733026638,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100922,
+        "num": 100922,
+        "word": "机动车行驶证电子化在全国全面推行",
+        "onboard_time": 1733038397,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100348,
+        "num": 100348,
+        "word": "肖战对接否认接触攻玉",
+        "onboard_time": 1733035877,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99736,
+        "num": 99736,
+        "word": "突然就明白了什么是情感漠视",
+        "onboard_time": 1733033598,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99157,
+        "num": 99157,
+        "word": "小伙捐出日军罪证2年后还在被网暴",
+        "onboard_time": 1733041518,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98451,
+        "num": 98451,
+        "word": "石破茂发生车祸现场细节",
+        "onboard_time": 1733028379,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97043,
+        "num": 97043,
+        "word": "吴佳怡连签两部女一号",
+        "onboard_time": 1733034858,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
