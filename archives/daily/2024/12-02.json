@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733092818495,
+  "endTime": 1733095333948,
   "band_list": [
     {
       "raw_hot": 1016312,
@@ -27,6 +27,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 469095,
+      "num": 469095,
+      "word": "李行亮12月至少有2个演出计划",
+      "onboard_time": 1733082251,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 453606,
       "num": 453606,
       "word": "TREASURE将换队长",
@@ -49,6 +57,14 @@
       "onboard_time": 1733064201,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371130,
+      "num": 371130,
+      "word": "四大扛剧女演员",
+      "onboard_time": 1733064921,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362693,
@@ -75,6 +91,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 296275,
+      "num": 296275,
+      "word": "F1",
+      "onboard_time": 1733087351,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295925,
       "num": 295925,
       "word": "李行亮团队婉拒采访",
@@ -89,14 +113,6 @@
       "onboard_time": 1733064740,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274846,
-      "num": 229817,
-      "word": "四大扛剧女演员",
-      "onboard_time": 1733064921,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259627,
@@ -147,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185488,
+      "num": 185488,
+      "word": "半夜天花板上掉下一只300斤野猪",
+      "onboard_time": 1733059460,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182185,
       "num": 108789,
       "word": "微信提现可以免手续费了",
       "onboard_time": 1733037918,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174370,
-      "num": 174370,
-      "word": "李行亮12月至少有2个演出计划",
-      "onboard_time": 1733082251,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 144689,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138259,
+      "num": 138259,
+      "word": "美国经销商开始囤酒了",
+      "onboard_time": 1733075952,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138203,
       "num": 108831,
       "word": "蒋敦豪交给时间解答",
@@ -203,12 +227,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134458,
-      "num": 134458,
-      "word": "半夜天花板上掉下一只300斤野猪",
-      "onboard_time": 1733059460,
-      "rank": 18,
+      "raw_hot": 134288,
+      "num": 134288,
+      "word": "女子试驾冲进4S店致多车受损",
+      "onboard_time": 1733080571,
+      "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126264,
+      "num": 126264,
+      "word": "美国小伙说来北京像到了公元3000年",
+      "onboard_time": 1733046679,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 122054,
+      "num": 122054,
+      "word": "周冠宇全场最佳车手",
+      "onboard_time": 1733094794,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121635,
+      "num": 125795,
+      "word": "陈小春看到梅艳芳的身影哭了",
+      "onboard_time": 1733063901,
+      "rank": 40,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 116614,
@@ -220,11 +268,19 @@
     },
     {
       "raw_hot": 114816,
-      "num": 111234,
+      "num": 125595,
       "word": "李行亮团队称暂不便回应网友抵制",
       "onboard_time": 1733086630,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114680,
+      "num": 114680,
+      "word": "周冠宇",
+      "onboard_time": 1733094675,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 108857,
@@ -243,14 +299,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 105996,
-      "num": 105996,
-      "word": "F1",
-      "onboard_time": 1733087351,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103481,
       "num": 103481,
       "word": "华晨宇蹦丢了一个31万的耳钉",
@@ -259,20 +307,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98457,
-      "num": 98457,
-      "word": "美国小伙说来北京像到了公元3000年",
-      "onboard_time": 1733046679,
-      "rank": 32,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 97422,
       "num": 97422,
       "word": "白桃星座",
       "onboard_time": 1733066359,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97303,
+      "num": 97303,
+      "word": "女子10件旧羽绒服爆改1床羽绒被",
+      "onboard_time": 1733087231,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94075,
@@ -307,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87160,
+      "num": 87160,
+      "word": "国防部谈中俄联合空中战略巡航",
+      "onboard_time": 1733091912,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85727,
       "num": 85727,
       "word": "国考笔试实际参考258.6万人",
@@ -323,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82380,
+      "num": 82380,
+      "word": "周芯竹说不太喜欢被过去拖住",
+      "onboard_time": 1733060840,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78793,
-      "num": 78793,
+      "num": 78847,
       "word": "孙红雷关晓彤张艺兴好先生友谊",
       "onboard_time": 1733069657,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77516,
+      "num": 98958,
+      "word": "低空经济项目加速落地",
+      "onboard_time": 1733090351,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 74848,
@@ -355,14 +427,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 69138,
-      "num": 69138,
-      "word": "美国经销商开始囤酒了",
-      "onboard_time": 1733075952,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65820,
       "num": 108741,
       "word": "全圆佑绝美氛围",
@@ -387,28 +451,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62458,
-      "num": 55088,
-      "word": "女子10件旧羽绒服爆改1床羽绒被",
-      "onboard_time": 1733087231,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61997,
       "num": 61997,
       "word": "王楚钦赛后提醒队友收好空瓶",
       "onboard_time": 1733065041,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61883,
-      "num": 61883,
-      "word": "陈小春看到梅艳芳的身影哭了",
-      "onboard_time": 1733063901,
-      "rank": 40,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 60930,
@@ -419,12 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 59999,
-      "num": 59999,
-      "word": "女子试驾冲进4S店致多车受损",
-      "onboard_time": 1733080571,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 60174,
+      "num": 60174,
+      "word": "我国首个阶梯式低空空域正式投入使用",
+      "onboard_time": 1733086572,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59800,
@@ -459,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51714,
+      "num": 51714,
+      "word": "利物浦vs曼城",
+      "onboard_time": 1733065940,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50484,
       "num": 50484,
       "word": "邓紫棋湛江",
@@ -467,20 +523,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41986,
-      "num": 98958,
-      "word": "低空经济项目加速落地",
-      "onboard_time": 1733090351,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 39660,
-      "num": 39660,
+      "raw_hot": 50135,
+      "num": 50135,
       "word": "这一脚伸得太帅了",
       "onboard_time": 1733077213,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 41455,
+      "num": 41455,
+      "word": "叙利亚反对派武装攻入阿勒颇",
+      "onboard_time": 1733075293,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38354,
@@ -515,23 +571,15 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 34019,
-      "num": 37887,
-      "word": "我是刑警半枚血指纹破案",
-      "onboard_time": 1733073974,
+      "raw_hot": 37777,
+      "num": 41442,
+      "word": "央视拍的罗云熙",
+      "onboard_time": 1733085070,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 33598,
-      "num": 37885,
-      "word": "利物浦vs曼城",
-      "onboard_time": 1733065940,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33333,
+      "raw_hot": 34184,
       "num": 44368,
       "word": "运动员退役后展示自己的生活应尊重",
       "onboard_time": 1733072354,
@@ -539,12 +587,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 32770,
-      "num": 32770,
-      "word": "我国首个阶梯式低空空域正式投入使用",
-      "onboard_time": 1733086572,
-      "rank": 43,
-      "category": "国内时政"
+      "raw_hot": 34019,
+      "num": 37887,
+      "word": "我是刑警半枚血指纹破案",
+      "onboard_time": 1733073974,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 32169,
@@ -563,20 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30667,
-      "num": 30667,
-      "word": "叙利亚反对派武装攻入阿勒颇",
-      "onboard_time": 1733075293,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 30767,
+      "num": 186326,
+      "word": "中方对美方安排赖清德过境予以严厉谴责",
+      "onboard_time": 1733082190,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 29758,
-      "num": 29758,
-      "word": "央视拍的罗云熙",
-      "onboard_time": 1733085070,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 30571,
+      "num": 41363,
+      "word": "日本扇耳光餐厅",
+      "onboard_time": 1733084531,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 26015,
@@ -595,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24732,
+      "num": 123005,
+      "word": "张真源记录云南之行",
+      "onboard_time": 1733095096,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24478,
       "num": 50457,
       "word": "张泽禹发了18宫格",
@@ -609,30 +665,6 @@
       "onboard_time": 1733076013,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20826,
-      "num": 27335,
-      "word": "日本扇耳光餐厅",
-      "onboard_time": 1733084531,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 19345,
-      "num": 27330,
-      "word": "中方对美方安排赖清德过境予以严厉谴责",
-      "onboard_time": 1733082190,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19079,
-      "num": 27330,
-      "word": "国防部谈中俄联合空中战略巡航",
-      "onboard_time": 1733091912,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17300,
