@@ -1,0 +1,410 @@
+{
+  "runTime": 1733067471096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 749849,
+        "num": 1119975,
+        "word": "傅首尔回应傅首尔面相",
+        "onboard_time": 1733064201,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640999,
+        "num": 640999,
+        "word": "撞死知名医生肇事者家属请求谅解",
+        "onboard_time": 1733064019,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54888,
+        "num": 583116,
+        "word": "这样的文物戏精亮了",
+        "onboard_time": 1733058019,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 565372,
+        "num": 565372,
+        "word": "腾讯回应微信提现可免手续费",
+        "onboard_time": 1733064201,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397464,
+        "num": 397464,
+        "word": "赵雅芝哭了",
+        "onboard_time": 1733065820,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355184,
+        "num": 355184,
+        "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
+        "onboard_time": 1733060960,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 385967,
+        "num": 355027,
+        "word": "李行亮商演再次遭抵制",
+        "onboard_time": 1733034678,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365442,
+        "num": 351084,
+        "word": "王安宇好帅",
+        "onboard_time": 1733064740,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355406,
+        "num": 350707,
+        "word": "迪丽热巴陈飞宇公主抱路透",
+        "onboard_time": 1733062760,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68215,
+        "num": 347884,
+        "word": "当事人讲述杀熊救妻经过",
+        "onboard_time": 1733065760,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1543484,
+        "num": 344851,
+        "word": "这样使用避孕套是无效操作",
+        "onboard_time": 1733060119,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344780,
+        "num": 344780,
+        "word": "央视曝光学生体育用品中的增塑剂",
+        "onboard_time": 1733058919,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 319299,
+        "num": 319299,
+        "word": "泰国孕妇坠崖案双方仍未离婚",
+        "onboard_time": 1733047278,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297207,
+        "num": 297207,
+        "word": "台湾情侣被曝吸毒后打死1岁女儿",
+        "onboard_time": 1733047339,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 252546,
+        "num": 252546,
+        "word": "半夜天花板上掉下一只300斤野猪",
+        "onboard_time": 1733059460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232911,
+        "num": 232911,
+        "word": "朱志鑫剪头发",
+        "onboard_time": 1733065100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229790,
+        "num": 229790,
+        "word": "音乐节主办停止和周密合作",
+        "onboard_time": 1733045481,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198806,
+        "num": 198806,
+        "word": "45岁胸外科主任车祸去世家属发声",
+        "onboard_time": 1733061740,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194289,
+        "num": 194289,
+        "word": "TREASURE将换队长",
+        "onboard_time": 1733067199,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50829,
+        "num": 193150,
+        "word": "女子花近五万相亲三次都失败盼退费",
+        "onboard_time": 1733065760,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650641,
+        "num": 189506,
+        "word": "唐嫣罗晋带娃逛迪士尼",
+        "onboard_time": 1733059279,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428084,
+        "num": 187033,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236457,
+        "num": 185022,
+        "word": "颜如晶瘦了55斤解锁全新风格",
+        "onboard_time": 1733057898,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184077,
+        "num": 184077,
+        "word": "李行亮团队婉拒采访",
+        "onboard_time": 1733067319,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74346,
+        "num": 184038,
+        "word": "樊振东解锁新身份",
+        "onboard_time": 1733066000,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184034,
+        "num": 184034,
+        "word": "华晨宇蹦丢了一个31万的耳钉",
+        "onboard_time": 1733032758,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183440,
+        "num": 183440,
+        "word": "白桃星座",
+        "onboard_time": 1733066359,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159382,
+        "num": 159382,
+        "word": "孕妇想月子期间洗头被长辈包围劝阻",
+        "onboard_time": 1733057118,
+        "rank": 27,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 156718,
+        "num": 156718,
+        "word": "知情人回应西安大型犬扑咬事件",
+        "onboard_time": 1733065341,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31985,
+        "num": 155243,
+        "word": "被大型犬撕咬的两人均无生命危险",
+        "onboard_time": 1733067199,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460453,
+        "num": 155178,
+        "word": "23岁清华女博士对人生的真实感受",
+        "onboard_time": 1733064800,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154683,
+        "num": 154683,
+        "word": "美国小伙说来北京像到了公元3000年",
+        "onboard_time": 1733046679,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 146804,
+        "num": 146804,
+        "word": "老人摔倒瞬间大哥滑铲接住头部",
+        "onboard_time": 1733050158,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 145905,
+        "num": 145905,
+        "word": "四大扛剧女演员",
+        "onboard_time": 1733064921,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139617,
+        "num": 139617,
+        "word": "国产老剧被AI爆改得像中毒了",
+        "onboard_time": 1733064921,
+        "rank": 34,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 134766,
+        "num": 134766,
+        "word": "陈梦开始恢复训练",
+        "onboard_time": 1733061980,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128481,
+        "num": 128481,
+        "word": "郑业成 四方步",
+        "onboard_time": 1733060300,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127643,
+        "num": 127643,
+        "word": "国考笔试实际参考258.6万人",
+        "onboard_time": 1733049558,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121287,
+        "num": 121287,
+        "word": "王楚钦赛后提醒队友收好空瓶",
+        "onboard_time": 1733065041,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90617,
+        "num": 117583,
+        "word": "朴彩英剧透BLACKPINK明年回归",
+        "onboard_time": 1733062881,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116977,
+        "num": 116977,
+        "word": "北京晚霞",
+        "onboard_time": 1733045539,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116506,
+        "num": 116506,
+        "word": "叙利亚",
+        "onboard_time": 1733060780,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102322,
+        "num": 102322,
+        "word": "苏醒录制快乐再出发3",
+        "onboard_time": 1733063241,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100239,
+        "num": 100239,
+        "word": "王曼昱VOGUE",
+        "onboard_time": 1733057358,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 94212,
+        "num": 94212,
+        "word": "杨幂为张小斐新剧包场",
+        "onboard_time": 1733063122,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9965,
+        "num": 89847,
+        "word": "这个娄子建议多捅几次",
+        "onboard_time": 1733066480,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88650,
+        "num": 88650,
+        "word": "利物浦vs曼城",
+        "onboard_time": 1733065940,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87812,
+        "num": 87812,
+        "word": "江疏影早期照片",
+        "onboard_time": 1733060180,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84256,
+        "num": 84256,
+        "word": "258.6万人参加国考笔试",
+        "onboard_time": 1733065880,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83363,
+        "num": 83363,
+        "word": "林更新狗随主人",
+        "onboard_time": 1733057719,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
