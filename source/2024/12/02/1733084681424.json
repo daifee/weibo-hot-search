@@ -1,0 +1,410 @@
+{
+  "runTime": 1733084681424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 115542,
+        "num": 115542,
+        "word": "泰国坠崖孕妇被指责生意做太大",
+        "onboard_time": 1733067618,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87015,
+        "num": 87015,
+        "word": "李行亮12月至少有2个演出计划",
+        "onboard_time": 1733082251,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12222,
+        "num": 60405,
+        "word": "这样的文物戏精亮了",
+        "onboard_time": 1733058019,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 51588,
+        "num": 51588,
+        "word": "腾讯回应微信提现可免手续费",
+        "onboard_time": 1733064201,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42119,
+        "num": 42119,
+        "word": "傅首尔回应傅首尔面相",
+        "onboard_time": 1733064201,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35741,
+        "num": 35741,
+        "word": "女子试驾冲进4S店致多车受损",
+        "onboard_time": 1733080571,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41665,
+        "num": 35535,
+        "word": "四大扛剧女演员",
+        "onboard_time": 1733064921,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38714,
+        "num": 34025,
+        "word": "音乐节主办停止和周密合作",
+        "onboard_time": 1733045481,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30936,
+        "num": 30936,
+        "word": "美国经销商开始囤酒了",
+        "onboard_time": 1733075952,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29019,
+        "num": 29019,
+        "word": "撞死知名医生肇事者家属请求谅解",
+        "onboard_time": 1733064019,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 82652,
+        "num": 28540,
+        "word": "这样使用避孕套是无效操作",
+        "onboard_time": 1733060119,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26559,
+        "num": 26559,
+        "word": "TREASURE将换队长",
+        "onboard_time": 1733067199,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26505,
+        "num": 26505,
+        "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
+        "onboard_time": 1733060960,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25485,
+        "num": 25485,
+        "word": "台湾情侣被曝吸毒后打死1岁女儿",
+        "onboard_time": 1733047339,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24821,
+        "num": 24821,
+        "word": "美国小伙说来北京像到了公元3000年",
+        "onboard_time": 1733046679,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 23690,
+        "num": 23690,
+        "word": "丁禹兮今天喝奶茶啦",
+        "onboard_time": 1733068398,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23008,
+        "num": 23008,
+        "word": "国产老剧被AI爆改得像中毒了",
+        "onboard_time": 1733064921,
+        "rank": 16,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 21729,
+        "num": 21729,
+        "word": "半夜天花板上掉下一只300斤野猪",
+        "onboard_time": 1733059460,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18328,
+        "num": 18328,
+        "word": "央视曝光学生体育用品中的增塑剂",
+        "onboard_time": 1733058919,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16528,
+        "num": 16528,
+        "word": "这一脚伸得太帅了",
+        "onboard_time": 1733077213,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 27882,
+        "num": 16527,
+        "word": "颜如晶瘦了55斤解锁全新风格",
+        "onboard_time": 1733057898,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23288,
+        "num": 16517,
+        "word": "唐嫣罗晋带娃逛迪士尼",
+        "onboard_time": 1733059279,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18508,
+        "num": 16504,
+        "word": "老人摔倒瞬间大哥滑铲接住头部",
+        "onboard_time": 1733050158,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17120,
+        "num": 16503,
+        "word": "孕妇想月子期间洗头被长辈包围劝阻",
+        "onboard_time": 1733057118,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 16496,
+        "num": 16496,
+        "word": "运动员退役后展示自己的生活应尊重",
+        "onboard_time": 1733072354,
+        "rank": 24,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 7870,
+        "num": 16280,
+        "word": "李莎旻子又又又和周笔畅同台了",
+        "onboard_time": 1733082910,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16265,
+        "num": 16265,
+        "word": "叙利亚",
+        "onboard_time": 1733060780,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16079,
+        "num": 16079,
+        "word": "女子花近五万相亲三次都失败盼退费",
+        "onboard_time": 1733065760,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15399,
+        "num": 16036,
+        "word": "李行亮团队婉拒采访",
+        "onboard_time": 1733067319,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6010,
+        "num": 16021,
+        "word": "陈哲远臭屁大男孩",
+        "onboard_time": 1733083330,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16019,
+        "num": 16019,
+        "word": "中方对美方安排赖清德过境予以严厉谴责",
+        "onboard_time": 1733082190,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15853,
+        "num": 15853,
+        "word": "利物浦vs曼城",
+        "onboard_time": 1733065940,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15688,
+        "num": 15688,
+        "word": "南京举行大屠杀死难者家庭祭告活动",
+        "onboard_time": 1733081050,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15561,
+        "num": 15561,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14545,
+        "num": 14545,
+        "word": "23岁清华女博士对人生的真实感受",
+        "onboard_time": 1733064800,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14483,
+        "num": 14483,
+        "word": "皇马vs赫塔菲",
+        "onboard_time": 1733068998,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14459,
+        "num": 14459,
+        "word": "买武器买不来安全保护费保不了台独",
+        "onboard_time": 1733080631,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14279,
+        "num": 14279,
+        "word": "2024最后30天请你好好爱自己",
+        "onboard_time": 1733073013,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14139,
+        "num": 14139,
+        "word": "陈小春看到梅艳芳的身影哭了",
+        "onboard_time": 1733063901,
+        "rank": 38,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 13926,
+        "num": 13926,
+        "word": "赵雅芝哭了",
+        "onboard_time": 1733065820,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13678,
+        "num": 13678,
+        "word": "叙利亚反对派武装攻入阿勒颇",
+        "onboard_time": 1733075293,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13004,
+        "num": 13677,
+        "word": "切实遵守一个中国原则是台海和平之福",
+        "onboard_time": 1733082671,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12466,
+        "num": 13671,
+        "word": "金瀚 祖国的南海实在太大了",
+        "onboard_time": 1733081711,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12288,
+        "num": 13667,
+        "word": "患者追忆因车祸去世的45岁医生",
+        "onboard_time": 1733065459,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12040,
+        "num": 13663,
+        "word": "迪丽热巴陈飞宇公主抱路透",
+        "onboard_time": 1733062760,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11939,
+        "num": 13660,
+        "word": "孙红雷关晓彤张艺兴好先生友谊",
+        "onboard_time": 1733069657,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11807,
+        "num": 13656,
+        "word": "泰国孕妇坠崖案双方仍未离婚",
+        "onboard_time": 1733047278,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11390,
+        "num": 13649,
+        "word": "60多年他们试射数千枚导弹",
+        "onboard_time": 1733082851,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 11262,
+        "num": 13648,
+        "word": "日本扇耳光餐厅",
+        "onboard_time": 1733084531,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11253,
+        "num": 13644,
+        "word": "朱志鑫剪头发",
+        "onboard_time": 1733065100,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}

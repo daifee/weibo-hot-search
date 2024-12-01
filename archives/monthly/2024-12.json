@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733081745012,
+  "endTime": 1733084681424,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -2835,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87015,
+      "num": 87015,
+      "word": "李行亮12月至少有2个演出计划",
+      "onboard_time": 1733082251,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86833,
       "num": 143457,
       "word": "距离2025仅剩30天",
@@ -3435,6 +3443,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35741,
+      "num": 35741,
+      "word": "女子试驾冲进4S店致多车受损",
+      "onboard_time": 1733080571,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35571,
       "num": 41270,
       "word": "为什么说新疆棉是世界顶级",
@@ -3779,14 +3795,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 17725,
-      "num": 17725,
-      "word": "女子试驾冲进4S店致多车受损",
-      "onboard_time": 1733080571,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17300,
       "num": 34309,
       "word": "虞书欣壁纸",
@@ -3827,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16019,
+      "num": 16019,
+      "word": "中方对美方安排赖清德过境予以严厉谴责",
+      "onboard_time": 1733082190,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15799,
       "num": 21356,
       "word": "新疆棉销售量截至11月或超200万吨",
@@ -3843,7 +3859,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 14350,
+      "raw_hot": 14459,
       "num": 17946,
       "word": "买武器买不来安全保护费保不了台独",
       "onboard_time": 1733080631,
@@ -3875,12 +3891,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13004,
+      "num": 13677,
+      "word": "切实遵守一个中国原则是台海和平之福",
+      "onboard_time": 1733082671,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12768,
       "num": 403510,
       "word": "N2答案",
       "onboard_time": 1733047459,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12466,
+      "num": 18952,
+      "word": "金瀚 祖国的南海实在太大了",
+      "onboard_time": 1733081711,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 11749,
@@ -3897,6 +3929,22 @@
       "onboard_time": 1733041936,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 11390,
+      "num": 13649,
+      "word": "60多年他们试射数千枚导弹",
+      "onboard_time": 1733082851,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 11262,
+      "num": 13648,
+      "word": "日本扇耳光餐厅",
+      "onboard_time": 1733084531,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 10885,
@@ -3936,6 +3984,14 @@
       "word": "鹭卓记录11月的照片",
       "onboard_time": 1733008333,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7870,
+      "num": 16280,
+      "word": "李莎旻子又又又和周笔畅同台了",
+      "onboard_time": 1733082910,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -3987,14 +4043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6651,
-      "num": 18952,
-      "word": "金瀚 祖国的南海实在太大了",
-      "onboard_time": 1733081711,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 6605,
       "num": 21267,
       "word": "龚俊土耳其回国机场路透",
@@ -4024,6 +4072,14 @@
       "word": "时代少年团将快乐折成繁星",
       "onboard_time": 1733001670,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6010,
+      "num": 16021,
+      "word": "陈哲远臭屁大男孩",
+      "onboard_time": 1733083330,
+      "rank": 29,
       "category": "艺人"
     },
     {
