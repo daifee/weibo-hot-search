@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733027370826,
+  "endTime": 1733028257171,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1297560,
+      "num": 1297560,
+      "word": "李胜利疑似喊话向佐",
+      "onboard_time": 1733024418,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1237682,
       "num": 1237682,
       "word": "行测",
@@ -75,20 +83,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1138978,
+      "num": 1138978,
+      "word": "我国艾滋病性传播约70%是异性传播",
+      "onboard_time": 1733024539,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1108218,
       "num": 890579,
       "word": "黄景瑜孙千 尴尬",
       "onboard_time": 1732976960,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1106393,
-      "num": 1106393,
-      "word": "李胜利疑似喊话向佐",
-      "onboard_time": 1733024418,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 1018703,
@@ -105,14 +113,6 @@
       "onboard_time": 1732983798,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 863431,
-      "num": 863431,
-      "word": "我国艾滋病性传播约70%是异性传播",
-      "onboard_time": 1733024539,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 859957,
@@ -147,27 +147,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 634100,
-      "num": 634100,
-      "word": "高瀚宇为鹿晗发声",
-      "onboard_time": 1733021059,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 613932,
-      "num": 613932,
+      "raw_hot": 664623,
+      "num": 664623,
       "word": "国考图推",
       "onboard_time": 1733024898,
       "rank": 24,
       "category": "教育"
     },
     {
-      "raw_hot": 613931,
+      "raw_hot": 647969,
       "num": 482064,
       "word": "鹿晗体重只有55kg",
       "onboard_time": 1733026638,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 634100,
+      "num": 634100,
+      "word": "高瀚宇为鹿晗发声",
+      "onboard_time": 1733021059,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458864,
+      "num": 657682,
+      "word": "一岁多小宝上了40分钟课哭了40分钟",
+      "onboard_time": 1733022979,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457210,
       "num": 457210,
       "word": "27岁上海交大博导让大家别焦虑",
@@ -211,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447051,
+      "num": 447051,
+      "word": "国考答案",
+      "onboard_time": 1733024418,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 446336,
       "num": 446336,
       "word": "俄军空袭叙利亚阿勒颇",
       "onboard_time": 1733014936,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 444621,
-      "num": 657682,
-      "word": "一岁多小宝上了40分钟课哭了40分钟",
-      "onboard_time": 1733022979,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 442361,
@@ -259,14 +267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 393836,
-      "num": 393836,
-      "word": "国考答案",
-      "onboard_time": 1733024418,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 384674,
       "num": 384674,
       "word": "成都混团开幕式",
@@ -289,6 +289,14 @@
       "onboard_time": 1733011335,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351754,
+      "num": 372620,
+      "word": "张智霖喊话18岁儿子谈恋爱",
+      "onboard_time": 1733026759,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 327101,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 271510,
-      "num": 271510,
+      "num": 272639,
       "word": "政治理论 题量",
       "onboard_time": 1733024599,
       "rank": 40,
@@ -401,6 +409,14 @@
       "onboard_time": 1733022979,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267654,
+      "num": 267654,
+      "word": "李白杜甫诚不欺我",
+      "onboard_time": 1733026519,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 263465,
@@ -443,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 243805,
+      "num": 243805,
+      "word": "光与夜之恋",
+      "onboard_time": 1733027478,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234263,
       "num": 251412,
       "word": "杨紫西班牙街拍",
@@ -459,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 225232,
+      "num": 343477,
+      "word": "尾号888888手机号被法拍42万成交",
+      "onboard_time": 1733027779,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224395,
       "num": 224395,
       "word": "导致胃癌的高危因素",
@@ -467,12 +499,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 213973,
-      "num": 372620,
-      "word": "张智霖喊话18岁儿子谈恋爱",
-      "onboard_time": 1733026759,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 215368,
+      "num": 653268,
+      "word": "国乒8比0澳大利亚队",
+      "onboard_time": 1733026338,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 209424,
@@ -555,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189846,
-      "num": 625412,
-      "word": "国乒8比0澳大利亚队",
-      "onboard_time": 1733026338,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 187737,
+      "num": 245710,
+      "word": "因果报应 穿运动鞋观影",
+      "onboard_time": 1733026999,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 187372,
@@ -609,14 +641,6 @@
       "onboard_time": 1733015718,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 174321,
-      "num": 174321,
-      "word": "李白杜甫诚不欺我",
-      "onboard_time": 1733026519,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 170904,
@@ -729,6 +753,14 @@
       "onboard_time": 1732979001,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149940,
+      "num": 176190,
+      "word": "惠英红拉二胡宣传张小斐新剧",
+      "onboard_time": 1733027538,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 143616,
@@ -851,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124583,
+      "num": 124583,
+      "word": "国考言语缩减",
+      "onboard_time": 1733028140,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122826,
       "num": 122826,
       "word": "香港一奢侈品店66个爱马仕被窃",
@@ -955,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113090,
+      "num": 113090,
+      "word": "N2听力",
+      "onboard_time": 1733027840,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111727,
       "num": 111727,
       "word": "6岁才站起的罕见病孩子要研究飞机",
@@ -1003,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106817,
-      "num": 245710,
-      "word": "因果报应 穿运动鞋观影",
-      "onboard_time": 1733026999,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106607,
       "num": 106607,
       "word": "哈圈",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1732986134,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 103222,
+      "num": 512897,
+      "word": "70万一针救命药进医保改写男童人生",
+      "onboard_time": 1733026338,
+      "rank": 9,
+      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 102692,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1732963879,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83066,
-      "num": 512897,
-      "word": "70万一针救命药进医保改写男童人生",
-      "onboard_time": 1733026338,
-      "rank": 9,
-      "category": "民生新闻,正能量"
     },
     {
       "raw_hot": 81174,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1733006951,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46025,
+      "num": 118107,
+      "word": "极氪终身质保电池可免费换",
+      "onboard_time": 1733028019,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 44713,

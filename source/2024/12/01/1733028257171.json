@@ -1,0 +1,410 @@
+{
+  "runTime": 1733028257171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1993276,
+        "num": 1993276,
+        "word": "国考",
+        "onboard_time": 1733010074,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1297560,
+        "num": 1297560,
+        "word": "李胜利疑似喊话向佐",
+        "onboard_time": 1733024418,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59158,
+        "num": 1144517,
+        "word": "我国首个商业航天发射场首发看点",
+        "onboard_time": 1733021597,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1138978,
+        "num": 1138978,
+        "word": "我国艾滋病性传播约70%是异性传播",
+        "onboard_time": 1733024539,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 927626,
+        "num": 927626,
+        "word": "行测 做不完",
+        "onboard_time": 1733023578,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 750045,
+        "num": 750045,
+        "word": "周芯竹再回应",
+        "onboard_time": 1733017518,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664623,
+        "num": 664623,
+        "word": "国考图推",
+        "onboard_time": 1733024898,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215368,
+        "num": 653268,
+        "word": "国乒8比0澳大利亚队",
+        "onboard_time": 1733026338,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647535,
+        "num": 647535,
+        "word": "鹿晗一天吃一顿每天跑十公里",
+        "onboard_time": 1733017638,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458864,
+        "num": 458864,
+        "word": "一岁多小宝上了40分钟课哭了40分钟",
+        "onboard_time": 1733022979,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464623,
+        "num": 453326,
+        "word": "商场删除官宣李行亮商演视频",
+        "onboard_time": 1733019558,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447051,
+        "num": 447051,
+        "word": "国考答案",
+        "onboard_time": 1733024418,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 423415,
+        "num": 423415,
+        "word": "儿子从美国打110替杭州独居母亲报警",
+        "onboard_time": 1733018897,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647969,
+        "num": 412977,
+        "word": "鹿晗体重只有55kg",
+        "onboard_time": 1733026638,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43371,
+        "num": 404207,
+        "word": "心理咨询师谈郁豹豹认亲后决裂",
+        "onboard_time": 1733026519,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398148,
+        "num": 398148,
+        "word": "艾滋夫妇确诊感染后的第20年",
+        "onboard_time": 1732978640,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370028,
+        "num": 370028,
+        "word": "周密发歌diss周芯竹",
+        "onboard_time": 1732972639,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103222,
+        "num": 357705,
+        "word": "70万一针救命药进医保改写男童人生",
+        "onboard_time": 1733026338,
+        "rank": 17,
+        "category": "民生新闻,正能量"
+      },
+      {
+        "raw_hot": 351754,
+        "num": 351754,
+        "word": "张智霖喊话18岁儿子谈恋爱",
+        "onboard_time": 1733026759,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225232,
+        "num": 343477,
+        "word": "尾号888888手机号被法拍42万成交",
+        "onboard_time": 1733027779,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340193,
+        "num": 340193,
+        "word": "王楚钦vs裴焕",
+        "onboard_time": 1733024418,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599064,
+        "num": 325048,
+        "word": "周密晒转账记录",
+        "onboard_time": 1732970719,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292320,
+        "num": 292320,
+        "word": "男子在袁记云饺吃出蚯蚓店家愿赔500",
+        "onboard_time": 1733013016,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 291201,
+        "num": 291201,
+        "word": "行测答案",
+        "onboard_time": 1733023578,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131005,
+        "num": 272639,
+        "word": "政治理论 题量",
+        "onboard_time": 1733024599,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268241,
+        "num": 268241,
+        "word": "黄景瑜孙千 尴尬",
+        "onboard_time": 1732976960,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267654,
+        "num": 267654,
+        "word": "李白杜甫诚不欺我",
+        "onboard_time": 1733026519,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157651,
+        "num": 247110,
+        "word": "李行亮商演价格或翻倍",
+        "onboard_time": 1733023759,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187737,
+        "num": 244460,
+        "word": "因果报应 穿运动鞋观影",
+        "onboard_time": 1733026999,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243805,
+        "num": 243805,
+        "word": "光与夜之恋",
+        "onboard_time": 1733027478,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 688190,
+        "num": 241268,
+        "word": "微信运动太暴露隐私了",
+        "onboard_time": 1733024418,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230944,
+        "num": 230944,
+        "word": "申论处女作",
+        "onboard_time": 1733025319,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229825,
+        "num": 229825,
+        "word": "资料分析第一题",
+        "onboard_time": 1733025138,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228410,
+        "num": 228410,
+        "word": "微信状态你是不是搞得太暧昧了",
+        "onboard_time": 1733017518,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194923,
+        "num": 194923,
+        "word": "国考常识",
+        "onboard_time": 1733026219,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184300,
+        "num": 184300,
+        "word": "结婚1年多不孕夫妻变姐妹",
+        "onboard_time": 1732977200,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183400,
+        "num": 183400,
+        "word": "这么丑的猫我居然有三只",
+        "onboard_time": 1733025198,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180661,
+        "num": 180661,
+        "word": "国考数量 酣畅淋漓的蒙题",
+        "onboard_time": 1733024718,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149940,
+        "num": 176190,
+        "word": "惠英红拉二胡宣传张小斐新剧",
+        "onboard_time": 1733027538,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173977,
+        "num": 173977,
+        "word": "外交部回应美国3.85亿美元对台军售",
+        "onboard_time": 1733024479,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169141,
+        "num": 169141,
+        "word": "泽连斯基称考虑先加入北约再收回领土",
+        "onboard_time": 1733024119,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155646,
+        "num": 155646,
+        "word": "行测",
+        "onboard_time": 1733013797,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138105,
+        "num": 138105,
+        "word": "杜兰特和格林较劲",
+        "onboard_time": 1733023459,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134760,
+        "num": 134760,
+        "word": "运动员代表孙颖莎宣誓",
+        "onboard_time": 1733022979,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124583,
+        "num": 124583,
+        "word": "国考言语缩减",
+        "onboard_time": 1733028140,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122589,
+        "num": 122589,
+        "word": "禹宙中欣 美丽的神话",
+        "onboard_time": 1733022859,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121893,
+        "num": 121893,
+        "word": "金敏绪进入女友粉丝群",
+        "onboard_time": 1733023818,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46025,
+        "num": 118107,
+        "word": "极氪终身质保电池可免费换",
+        "onboard_time": 1733028019,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117827,
+        "num": 117827,
+        "word": "俄军空袭叙利亚阿勒颇",
+        "onboard_time": 1733014936,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113090,
+        "num": 113090,
+        "word": "N2听力",
+        "onboard_time": 1733027840,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
