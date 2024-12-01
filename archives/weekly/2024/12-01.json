@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733028257171,
+  "endTime": 1733030577858,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -25,6 +25,14 @@
       "onboard_time": 1733013016,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1377058,
+      "num": 1377058,
+      "word": "我国艾滋病性传播约70%是异性传播",
+      "onboard_time": 1733024539,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1356133,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1254158,
+      "num": 1254158,
+      "word": "尾号888888手机号被法拍42万成交",
+      "onboard_time": 1733027779,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1237682,
       "num": 1237682,
       "word": "行测",
@@ -81,14 +97,6 @@
       "onboard_time": 1732972639,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1138978,
-      "num": 1138978,
-      "word": "我国艾滋病性传播约70%是异性传播",
-      "onboard_time": 1733024539,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1108218,
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425201,
+      "num": 425201,
+      "word": "石破茂发生车祸现场细节",
+      "onboard_time": 1733028379,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411854,
       "num": 216743,
       "word": "永夜星河逆跌",
@@ -265,6 +281,14 @@
       "onboard_time": 1733013376,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 397710,
+      "num": 397710,
+      "word": "黄晓明悼念姥姥",
+      "onboard_time": 1733029640,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 384674,
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252936,
+      "num": 252936,
+      "word": "王楚钦凌空杀球",
+      "onboard_time": 1733028918,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250948,
       "num": 208437,
       "word": "范丞丞希望粉丝对工作室嘴下留情",
@@ -483,20 +515,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 225232,
-      "num": 343477,
-      "word": "尾号888888手机号被法拍42万成交",
-      "onboard_time": 1733027779,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224395,
       "num": 224395,
       "word": "导致胃癌的高危因素",
       "onboard_time": 1733010615,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216719,
+      "num": 216719,
+      "word": "赵丽颖12月行程已送达",
+      "onboard_time": 1733028619,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 215368,
@@ -555,8 +587,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198431,
-      "num": 198431,
+      "raw_hot": 198568,
+      "num": 198568,
       "word": "这么丑的猫我居然有三只",
       "onboard_time": 1733025198,
       "rank": 43,
@@ -587,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190499,
+      "num": 190499,
+      "word": "国乒火速下班",
+      "onboard_time": 1733029939,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187737,
       "num": 245710,
       "word": "因果报应 穿运动鞋观影",
@@ -608,6 +648,14 @@
       "word": "WTT",
       "onboard_time": 1733019138,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183414,
+      "num": 183414,
+      "word": "莎局来看比赛了",
+      "onboard_time": 1733028439,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -651,6 +699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168846,
+      "num": 512897,
+      "word": "70万一针救命药进医保改写男童人生",
+      "onboard_time": 1733026338,
+      "rank": 9,
+      "category": "民生新闻,正能量"
+    },
+    {
       "raw_hot": 166120,
       "num": 166120,
       "word": "日本正考虑推进简化中国公民赴日签证手续",
@@ -681,6 +737,14 @@
       "onboard_time": 1732973179,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161450,
+      "num": 161450,
+      "word": "战争与和平",
+      "onboard_time": 1733029819,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 161433,
@@ -731,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155361,
+      "num": 155361,
+      "word": "花生十三来了都得掉层花生皮",
+      "onboard_time": 1733030419,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154838,
       "num": 154838,
       "word": "好东西",
       "onboard_time": 1732976660,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154781,
+      "num": 154781,
+      "word": "国考言语缩减",
+      "onboard_time": 1733028140,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 154279,
@@ -803,12 +883,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136858,
+      "num": 136858,
+      "word": "申论格式",
+      "onboard_time": 1733030299,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135682,
       "num": 135682,
       "word": "田小娟ins更新",
       "onboard_time": 1733019018,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135011,
+      "num": 135011,
+      "word": "谢兴阳 凤凰传奇演唱会场外观众",
+      "onboard_time": 1733024239,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 134667,
@@ -825,6 +921,22 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133399,
+      "num": 403300,
+      "word": "接触艾滋病毒后有72小时能自救",
+      "onboard_time": 1733026039,
+      "rank": 9,
+      "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 132972,
+      "num": 132972,
+      "word": "国乒回应混团开门红",
+      "onboard_time": 1733030539,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131905,
@@ -883,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124583,
-      "num": 124583,
-      "word": "国考言语缩减",
-      "onboard_time": 1733028140,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 122826,
       "num": 122826,
       "word": "香港一奢侈品店66个爱马仕被窃",
@@ -921,14 +1025,6 @@
       "onboard_time": 1732982720,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121699,
-      "num": 121699,
-      "word": "谢兴阳 凤凰传奇演唱会场外观众",
-      "onboard_time": 1733024239,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 121438,
@@ -996,7 +1092,7 @@
     },
     {
       "raw_hot": 113090,
-      "num": 113090,
+      "num": 252444,
       "word": "N2听力",
       "onboard_time": 1733027840,
       "rank": 49,
@@ -1083,14 +1179,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 103222,
-      "num": 512897,
-      "word": "70万一针救命药进医保改写男童人生",
-      "onboard_time": 1733026338,
-      "rank": 9,
-      "category": "民生新闻,正能量"
-    },
-    {
       "raw_hot": 102692,
       "num": 133621,
       "word": "江苏常州一架直升机落水",
@@ -1155,6 +1243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92539,
+      "num": 184556,
+      "word": "王曼昱对手右手残疾曾参加残奥会",
+      "onboard_time": 1733029338,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90105,
+      "num": 200759,
+      "word": "朱志鑫兑现直播承诺",
+      "onboard_time": 1733030360,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88702,
       "num": 88702,
       "word": "怀上九胞胎女子减7胎后出院",
@@ -1208,6 +1312,14 @@
       "word": "四川北川一村民家中遭黑熊袭击",
       "onboard_time": 1732979001,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78001,
+      "num": 380432,
+      "word": "幸福航空飞行员因被欠薪送外卖",
+      "onboard_time": 1733029518,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1356,7 +1468,7 @@
     },
     {
       "raw_hot": 46025,
-      "num": 118107,
+      "num": 223944,
       "word": "极氪终身质保电池可免费换",
       "onboard_time": 1733028019,
       "rank": 47,
@@ -1521,6 +1633,14 @@
       "onboard_time": 1732996330,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19248,
+      "num": 321914,
+      "word": "这趟AI专列藏着多少文化Passion",
+      "onboard_time": 1733030001,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 18644,
