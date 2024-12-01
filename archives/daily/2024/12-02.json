@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733088073676,
+  "endTime": 1733088963457,
   "band_list": [
     {
       "raw_hot": 1016312,
@@ -427,20 +427,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51389,
+      "num": 51389,
+      "word": "F1",
+      "onboard_time": 1733087351,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50484,
       "num": 50484,
       "word": "邓紫棋湛江",
       "onboard_time": 1733070916,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 44109,
-      "num": 44109,
-      "word": "F1",
-      "onboard_time": 1733087351,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 38354,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31507,
+      "num": 31507,
+      "word": "李行亮团队称暂不便回应网友抵制",
+      "onboard_time": 1733086630,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31318,
       "num": 31318,
       "word": "张婧仪缇兰试妆",
@@ -539,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24204,
+      "num": 24204,
+      "word": "电影好东西",
+      "onboard_time": 1733088371,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23581,
       "num": 26897,
       "word": "赵露思发文宣传蜀锦人家",
       "onboard_time": 1733076013,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20572,
-      "num": 22087,
-      "word": "李行亮团队称暂不便回应网友抵制",
-      "onboard_time": 1733086630,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 19120,
@@ -587,20 +595,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 16737,
+      "num": 17948,
+      "word": "这一脚伸得太帅了",
+      "onboard_time": 1733077213,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 16683,
-      "num": 16683,
+      "num": 21486,
       "word": "中方对美方安排赖清德过境予以严厉谴责",
       "onboard_time": 1733082190,
       "rank": 30,
       "category": "国内时政"
     },
     {
-      "raw_hot": 16637,
-      "num": 17948,
-      "word": "这一脚伸得太帅了",
-      "onboard_time": 1733077213,
+      "raw_hot": 16500,
+      "num": 16500,
+      "word": "央视拍的罗云熙",
+      "onboard_time": 1733085070,
       "rank": 46,
-      "category": "正能量"
+      "category": "剧集"
     },
     {
       "raw_hot": 16305,
@@ -609,6 +625,14 @@
       "onboard_time": 1733081050,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15671,
+      "num": 15671,
+      "word": "女子10件旧羽绒服爆改1床羽绒被",
+      "onboard_time": 1733087231,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15037,
@@ -627,12 +651,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14392,
-      "num": 14392,
-      "word": "央视拍的罗云熙",
-      "onboard_time": 1733085070,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 14408,
+      "num": 14408,
+      "word": "我国首个阶梯式低空空域正式投入使用",
+      "onboard_time": 1733086572,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14368,
+      "num": 14368,
+      "word": "王源红色格纹外套",
+      "onboard_time": 1733088430,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 13602,
@@ -643,28 +675,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13542,
-      "num": 13542,
-      "word": "我国首个阶梯式低空空域正式投入使用",
-      "onboard_time": 1733086572,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13505,
       "num": 13854,
       "word": "切实遵守一个中国原则是台海和平之福",
       "onboard_time": 1733082671,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13367,
-      "num": 13367,
-      "word": "女子10件旧羽绒服爆改1床羽绒被",
-      "onboard_time": 1733087231,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12466,
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6827,
+      "num": 23842,
+      "word": "虞书欣超话解锁钻3",
+      "onboard_time": 1733087590,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6605,
       "num": 21267,
       "word": "龚俊土耳其回国机场路透",
@@ -745,14 +769,6 @@
       "onboard_time": 1733079491,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6278,
-      "num": 19775,
-      "word": "虞书欣超话解锁钻3",
-      "onboard_time": 1733087590,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 6177,
