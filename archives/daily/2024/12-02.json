@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733084681424,
+  "endTime": 1733085503665,
   "band_list": [
     {
       "raw_hot": 1016312,
@@ -459,20 +459,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38014,
+      "num": 38014,
+      "word": "女子试驾冲进4S店致多车受损",
+      "onboard_time": 1733080571,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37949,
       "num": 462425,
       "word": "这样的文物戏精亮了",
       "onboard_time": 1733058019,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 35741,
-      "num": 35741,
-      "word": "女子试驾冲进4S店致多车受损",
-      "onboard_time": 1733080571,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34019,
@@ -595,6 +595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 14631,
+      "num": 14631,
+      "word": "日本扇耳光餐厅",
+      "onboard_time": 1733084531,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14459,
       "num": 17946,
       "word": "买武器买不来安全保护费保不了台独",
@@ -611,8 +619,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13004,
-      "num": 13677,
+      "raw_hot": 13505,
+      "num": 13854,
       "word": "切实遵守一个中国原则是台海和平之福",
       "onboard_time": 1733082671,
       "rank": 41,
@@ -627,20 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12335,
+      "num": 13843,
+      "word": "央视拍的罗云熙",
+      "onboard_time": 1733085070,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11955,
+      "num": 13837,
+      "word": "2025应征报名开始",
+      "onboard_time": 1733084769,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 11390,
       "num": 13649,
       "word": "60多年他们试射数千枚导弹",
       "onboard_time": 1733082851,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11262,
-      "num": 13648,
-      "word": "日本扇耳光餐厅",
-      "onboard_time": 1733084531,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 7870,
@@ -691,11 +707,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 6010,
-      "num": 16021,
+      "raw_hot": 6177,
+      "num": 16726,
       "word": "陈哲远臭屁大男孩",
       "onboard_time": 1733083330,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5863,
+      "num": 17613,
+      "word": "王一珩12月碎片",
+      "onboard_time": 1733085371,
+      "rank": 24,
       "category": "艺人"
     }
   ],
