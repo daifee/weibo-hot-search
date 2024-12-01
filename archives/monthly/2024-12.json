@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733041709404,
+  "endTime": 1733042535521,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1232470,
-      "num": 311390,
+      "num": 838487,
       "word": "李行亮商演再次遭抵制",
       "onboard_time": 1733034678,
       "rank": 34,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 972861,
-      "num": 300637,
+      "num": 345252,
       "word": "华晨宇蹦丢了一个31万的耳钉",
       "onboard_time": 1733032758,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 943075,
+      "num": 943075,
+      "word": "17岁中专生被7家企业疯抢妈妈骄傲",
+      "onboard_time": 1733041038,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 937654,
@@ -227,7 +235,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 596031,
+      "raw_hot": 630410,
       "num": 269383,
       "word": "微信提现可以免手续费了",
       "onboard_time": 1733037918,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449039,
+      "num": 449039,
+      "word": "林栋哲庄筱婷婚后生活",
+      "onboard_time": 1733039718,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 447051,
       "num": 447051,
       "word": "国考答案",
@@ -329,14 +345,6 @@
       "onboard_time": 1732975461,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 426748,
-      "num": 426748,
-      "word": "林栋哲庄筱婷婚后生活",
-      "onboard_time": 1733039718,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 425236,
@@ -369,6 +377,14 @@
       "onboard_time": 1733013376,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 390941,
+      "num": 390941,
+      "word": "高危性行为后多久能检测出艾滋病病毒",
+      "onboard_time": 1733039299,
+      "rank": 8,
+      "category": "科学科普"
     },
     {
       "raw_hot": 390278,
@@ -475,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302882,
+      "num": 302882,
+      "word": "莎头组合合体",
+      "onboard_time": 1733041338,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294544,
       "num": 294544,
       "word": "恋与制作人大婚",
       "onboard_time": 1732970359,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292999,
+      "num": 292999,
+      "word": "菲律宾一村庄村民分食海龟致3人死亡",
+      "onboard_time": 1733041818,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 292276,
@@ -513,14 +545,6 @@
       "onboard_time": 1733024479,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 280368,
-      "num": 280368,
-      "word": "高危性行为后多久能检测出艾滋病病毒",
-      "onboard_time": 1733039299,
-      "rank": 8,
-      "category": "科学科普"
     },
     {
       "raw_hot": 279432,
@@ -731,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203155,
-      "num": 280037,
-      "word": "17岁中专生被7家企业疯抢妈妈骄傲",
-      "onboard_time": 1733041038,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 202422,
       "num": 284086,
       "word": "国考常识",
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 183884,
-      "num": 183884,
+      "num": 213472,
       "word": "上海92平米的迷你法式小别墅",
       "onboard_time": 1733038098,
       "rank": 48,
@@ -913,6 +929,22 @@
       "onboard_time": 1733015718,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174766,
+      "num": 174766,
+      "word": "小伙捐出日军罪证2年后还在被网暴",
+      "onboard_time": 1733041518,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172409,
+      "num": 172409,
+      "word": "双轨换导演",
+      "onboard_time": 1733041397,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 170904,
@@ -971,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163436,
-      "num": 163436,
-      "word": "莎头组合合体",
-      "onboard_time": 1733041338,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161641,
       "num": 161641,
       "word": "张小斐 喜欢肢体接触是吧",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1733022859,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159446,
+      "num": 159446,
+      "word": "Whiplash一位",
+      "onboard_time": 1733041759,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 158631,
@@ -1115,8 +1147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152327,
-      "num": 152327,
+      "raw_hot": 152680,
+      "num": 152680,
       "word": "南部档案",
       "onboard_time": 1733039897,
       "rank": 26,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1733032938,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140583,
+      "num": 140583,
+      "word": "以为是一套卷子没想到发下来一本书",
+      "onboard_time": 1733041697,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 140566,
@@ -1267,6 +1307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133079,
+      "num": 133079,
+      "word": "套内60平米的精致小家",
+      "onboard_time": 1733038998,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131905,
       "num": 131905,
       "word": "驻日美军士兵酒后私闯民宅还大睡",
@@ -1307,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128604,
-      "num": 128604,
-      "word": "双轨换导演",
-      "onboard_time": 1733041397,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127190,
       "num": 396849,
       "word": "还有一个月就是2025了",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1733024179,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "张予曦再扮小舞",
+      "onboard_time": 1733039657,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 125909,
@@ -1353,14 +1401,6 @@
       "onboard_time": 1733036178,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123069,
-      "num": 123069,
-      "word": "张予曦再扮小舞",
-      "onboard_time": 1733039657,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 122826,
@@ -1475,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116964,
-      "num": 116964,
-      "word": "套内60平米的精致小家",
-      "onboard_time": 1733038998,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116446,
       "num": 116446,
       "word": "马嘉祺剧目排练",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1733027840,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112637,
+      "num": 112637,
+      "word": "广州出现奇葩斑马线",
+      "onboard_time": 1733041217,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111727,
@@ -1667,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99157,
-      "num": 99157,
-      "word": "小伙捐出日军罪证2年后还在被网暴",
-      "onboard_time": 1733041518,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98320,
       "num": 135806,
       "word": "章宇居然四十二岁了",
@@ -1771,12 +1803,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84148,
+      "num": 84148,
+      "word": "JDG官宣ALE加入",
+      "onboard_time": 1733040379,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82289,
       "num": 182177,
       "word": "被场外莎莎拿捏了",
       "onboard_time": 1733037618,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82253,
+      "num": 82253,
+      "word": "全家去日本旅行我爸非要用英文交流",
+      "onboard_time": 1733042478,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 81579,
@@ -1868,7 +1916,7 @@
     },
     {
       "raw_hot": 72540,
-      "num": 589036,
+      "num": 852667,
       "word": "我国首型4米级直径的火箭",
       "onboard_time": 1733040018,
       "rank": 2,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1732983019,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56004,
+      "num": 245302,
+      "word": "朱志鑫苏新皓MV合照",
+      "onboard_time": 1733042118,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 55182,
@@ -2132,7 +2188,7 @@
     },
     {
       "raw_hot": 31791,
-      "num": 138526,
+      "num": 253050,
       "word": "太阳星辰凯晴下线",
       "onboard_time": 1733037678,
       "rank": 40,
@@ -2187,6 +2243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 26324,
+      "num": 276311,
+      "word": "律师称网友有权抵制李行亮商演",
+      "onboard_time": 1733041577,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26046,
       "num": 37691,
       "word": "张远白巡回演唱会",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1732993031,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25410,
+      "num": 82507,
+      "word": "jlpt",
+      "onboard_time": 1733039057,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 25354,
@@ -2235,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24009,
+      "num": 199947,
+      "word": "上海跑道偶遇MIKA",
+      "onboard_time": 1733037618,
+      "rank": 49,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 21638,
       "num": 21638,
       "word": "叙反对派武装称进入阿勒颇市中心地带",
@@ -2249,14 +2329,6 @@
       "onboard_time": 1732993512,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20820,
-      "num": 276311,
-      "word": "律师称网友有权抵制李行亮商演",
-      "onboard_time": 1733041577,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 20525,
@@ -2315,20 +2387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12088,
-      "num": 110010,
-      "word": "上海跑道偶遇MIKA",
-      "onboard_time": 1733037618,
-      "rank": 49,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 11749,
       "num": 28689,
       "word": "易烊千玺网站更新",
       "onboard_time": 1732997412,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11716,
+      "num": 80045,
+      "word": "会长回应夺国内男子第一",
+      "onboard_time": 1733041936,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 10885,
