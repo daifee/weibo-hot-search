@@ -1,0 +1,410 @@
+{
+  "runTime": 1733056967296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005636,
+        "num": 1160901,
+        "word": "K292次列车乘客称有免费饭和水",
+        "onboard_time": 1733052559,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771583,
+        "num": 771583,
+        "word": "泰国孕妇坠崖案双方仍未离婚",
+        "onboard_time": 1733047278,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53313,
+        "num": 716046,
+        "word": "我国首型4米级直径的火箭",
+        "onboard_time": 1733040018,
+        "rank": 2,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 694918,
+        "num": 694918,
+        "word": "李行亮商演再次遭抵制",
+        "onboard_time": 1733034678,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 639832,
+        "num": 639832,
+        "word": "骄阳似我开机晚宴",
+        "onboard_time": 1733055619,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456173,
+        "num": 456173,
+        "word": "美国小伙说来北京像到了公元3000年",
+        "onboard_time": 1733046679,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 530631,
+        "num": 450320,
+        "word": "22岁陈小春曾给26岁梅艳芳伴舞",
+        "onboard_time": 1733054238,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419013,
+        "num": 419013,
+        "word": "音乐节主办停止和周密合作",
+        "onboard_time": 1733045481,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360146,
+        "num": 360146,
+        "word": "人民网评胖东来彩礼事件",
+        "onboard_time": 1733037016,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129894,
+        "num": 359244,
+        "word": "第十一个国家公祭日",
+        "onboard_time": 1733055018,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 839553,
+        "num": 358202,
+        "word": "台湾情侣被曝吸毒后打死1岁女儿",
+        "onboard_time": 1733047339,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 734477,
+        "num": 355693,
+        "word": "天生爱豆四帅",
+        "onboard_time": 1733049499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466555,
+        "num": 353394,
+        "word": "华晨宇蹦丢了一个31万的耳钉",
+        "onboard_time": 1733032758,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352511,
+        "num": 352511,
+        "word": "国考笔试实际参考258.6万人",
+        "onboard_time": 1733049558,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329125,
+        "num": 329125,
+        "word": "尾号888888手机号被法拍42万成交",
+        "onboard_time": 1733027779,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301948,
+        "num": 301948,
+        "word": "关晓彤给张艺兴音乐话剧打call",
+        "onboard_time": 1733049440,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276074,
+        "num": 276074,
+        "word": "菲律宾一村庄村民分食海龟致3人死亡",
+        "onboard_time": 1733041818,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255321,
+        "num": 255321,
+        "word": "申论大作文",
+        "onboard_time": 1733045239,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111251,
+        "num": 242236,
+        "word": "周冬雨看了三遍如父如子",
+        "onboard_time": 1733056219,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241540,
+        "num": 241540,
+        "word": "南京大屠杀在世幸存者仅剩32人",
+        "onboard_time": 1733053398,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395269,
+        "num": 241127,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156505,
+        "num": 225212,
+        "word": "虞书欣95花首位超话钻三",
+        "onboard_time": 1733048900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320409,
+        "num": 222693,
+        "word": "老人摔倒瞬间大哥滑铲接住头部",
+        "onboard_time": 1733050158,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 219910,
+        "num": 219910,
+        "word": "北京晚霞",
+        "onboard_time": 1733045539,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46783,
+        "num": 216314,
+        "word": "一诺还是太全面了",
+        "onboard_time": 1733054180,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213352,
+        "num": 213352,
+        "word": "女子麦当劳内咆哮式辱骂一男孩",
+        "onboard_time": 1733054658,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205334,
+        "num": 205334,
+        "word": "祖父母拒与非婚生孙女分亡父赔偿金",
+        "onboard_time": 1733053758,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181666,
+        "num": 181666,
+        "word": "生完双胞胎儿子又再添三胞胎女儿",
+        "onboard_time": 1733048418,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166617,
+        "num": 176426,
+        "word": "鹿晗拒绝放十二月的奇迹",
+        "onboard_time": 1733043737,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124838,
+        "num": 176166,
+        "word": "宋亚轩梦女视角",
+        "onboard_time": 1733056638,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176053,
+        "num": 176053,
+        "word": "17岁中专生被7家企业疯抢妈妈骄傲",
+        "onboard_time": 1733041038,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170022,
+        "num": 170022,
+        "word": "向佐女装撞脸张予曦",
+        "onboard_time": 1733033839,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150579,
+        "num": 150579,
+        "word": "赵露思彭冠英吻戏路透",
+        "onboard_time": 1733050039,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146462,
+        "num": 146462,
+        "word": "孙杨 别样又难忘的生日",
+        "onboard_time": 1733056158,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59319,
+        "num": 139756,
+        "word": "男子花高价闪婚不到十天新娘消失",
+        "onboard_time": 1733053218,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 138248,
+        "num": 138248,
+        "word": "王暖暖称俞某冬向其索赔3000万",
+        "onboard_time": 1733050400,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134278,
+        "num": 134278,
+        "word": "丁禹兮造的梗需要翻译了",
+        "onboard_time": 1733056699,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134215,
+        "num": 134215,
+        "word": "T1输给越南队",
+        "onboard_time": 1733050219,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131111,
+        "num": 131111,
+        "word": "莎头组合合体",
+        "onboard_time": 1733041338,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76675,
+        "num": 129938,
+        "word": "骆歆重庆活动开场",
+        "onboard_time": 1733055619,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129902,
+        "num": 129902,
+        "word": "国考 招裁判",
+        "onboard_time": 1733045481,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125668,
+        "num": 125668,
+        "word": "苏翊鸣完赛",
+        "onboard_time": 1733054359,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121036,
+        "num": 121036,
+        "word": "迪丽热巴藏好了吗",
+        "onboard_time": 1733047998,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120311,
+        "num": 120311,
+        "word": "思念水饺回应速冻水饺中疑出现烟头",
+        "onboard_time": 1733051778,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115786,
+        "num": 115786,
+        "word": "小伙捐出日军罪证2年后还在被网暴",
+        "onboard_time": 1733041518,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112375,
+        "num": 112375,
+        "word": "女子将女孩堵电梯里殴打辱骂14分钟",
+        "onboard_time": 1733045481,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 104706,
+        "num": 104706,
+        "word": "权志龙MAMA花絮",
+        "onboard_time": 1733056878,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102194,
+        "num": 102194,
+        "word": "李胜利疑似喊话向佐",
+        "onboard_time": 1733024418,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100830,
+        "num": 100830,
+        "word": "张远演唱会前排不养闲人",
+        "onboard_time": 1733052078,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100620,
+        "num": 100620,
+        "word": "杨文龙世界杯季军",
+        "onboard_time": 1733055078,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
