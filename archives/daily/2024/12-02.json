@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733095333948,
+  "endTime": 1733096220588,
   "band_list": [
     {
       "raw_hot": 1016312,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 823631,
-      "num": 916669,
+      "num": 941348,
       "word": "泰国坠崖孕妇被指责生意做太大",
       "onboard_time": 1733067618,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615256,
+      "num": 615256,
+      "word": "F1",
+      "onboard_time": 1733087351,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 571458,
@@ -27,8 +35,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 469095,
-      "num": 469095,
+      "raw_hot": 528511,
+      "num": 528511,
       "word": "李行亮12月至少有2个演出计划",
       "onboard_time": 1733082251,
       "rank": 1,
@@ -41,6 +49,14 @@
       "onboard_time": 1733067199,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437313,
+      "num": 437313,
+      "word": "四大扛剧女演员",
+      "onboard_time": 1733064921,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401548,
@@ -59,16 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371130,
-      "num": 371130,
-      "word": "四大扛剧女演员",
-      "onboard_time": 1733064921,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 362693,
-      "num": 108844,
+      "num": 116749,
       "word": "唐嫣罗晋带娃逛迪士尼",
       "onboard_time": 1733059279,
       "rank": 20,
@@ -89,14 +97,6 @@
       "onboard_time": 1733064019,
       "rank": 5,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 296275,
-      "num": 296275,
-      "word": "F1",
-      "onboard_time": 1733087351,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 295925,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 219009,
+      "num": 219009,
+      "word": "半夜天花板上掉下一只300斤野猪",
+      "onboard_time": 1733059460,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214052,
       "num": 214052,
       "word": "国产老剧被AI爆改得像中毒了",
@@ -163,20 +171,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185488,
-      "num": 185488,
-      "word": "半夜天花板上掉下一只300斤野猪",
-      "onboard_time": 1733059460,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182185,
       "num": 108789,
       "word": "微信提现可以免手续费了",
       "onboard_time": 1733037918,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154638,
+      "num": 154638,
+      "word": "女子试驾冲进4S店致多车受损",
+      "onboard_time": 1733080571,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154085,
+      "num": 154085,
+      "word": "周冠宇",
+      "onboard_time": 1733094675,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 144689,
@@ -195,6 +211,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 141841,
+      "num": 141841,
+      "word": "美国经销商开始囤酒了",
+      "onboard_time": 1733075952,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141109,
       "num": 108772,
       "word": "朱志鑫剪头发",
@@ -203,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138259,
-      "num": 138259,
-      "word": "美国经销商开始囤酒了",
-      "onboard_time": 1733075952,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 138524,
+      "num": 138524,
+      "word": "陈小春看到梅艳芳的身影哭了",
+      "onboard_time": 1733063901,
+      "rank": 40,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 138203,
@@ -227,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134288,
-      "num": 134288,
-      "word": "女子试驾冲进4S店致多车受损",
-      "onboard_time": 1733080571,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "周冠宇全场最佳车手",
+      "onboard_time": 1733094794,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 126264,
@@ -241,22 +265,6 @@
       "onboard_time": 1733046679,
       "rank": 32,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 122054,
-      "num": 122054,
-      "word": "周冠宇全场最佳车手",
-      "onboard_time": 1733094794,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 121635,
-      "num": 125795,
-      "word": "陈小春看到梅艳芳的身影哭了",
-      "onboard_time": 1733063901,
-      "rank": 40,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 116614,
@@ -268,19 +276,27 @@
     },
     {
       "raw_hot": 114816,
-      "num": 125595,
+      "num": 126057,
       "word": "李行亮团队称暂不便回应网友抵制",
       "onboard_time": 1733086630,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 114680,
-      "num": 114680,
-      "word": "周冠宇",
-      "onboard_time": 1733094675,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 114075,
+      "num": 114075,
+      "word": "老人摔倒瞬间大哥滑铲接住头部",
+      "onboard_time": 1733050158,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 109018,
+      "num": 109018,
+      "word": "女子10件旧羽绒服爆改1床羽绒被",
+      "onboard_time": 1733087231,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108857,
@@ -289,14 +305,6 @@
       "onboard_time": 1733047278,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108728,
-      "num": 108728,
-      "word": "老人摔倒瞬间大哥滑铲接住头部",
-      "onboard_time": 1733050158,
-      "rank": 30,
-      "category": "正能量"
     },
     {
       "raw_hot": 103481,
@@ -315,16 +323,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97303,
-      "num": 97303,
-      "word": "女子10件旧羽绒服爆改1床羽绒被",
-      "onboard_time": 1733087231,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94075,
-      "num": 94075,
+      "raw_hot": 96386,
+      "num": 96386,
       "word": "孕妇想月子期间洗头被长辈包围劝阻",
       "onboard_time": 1733057118,
       "rank": 34,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 82380,
-      "num": 82380,
+      "num": 97875,
       "word": "周芯竹说不太喜欢被过去拖住",
       "onboard_time": 1733060840,
       "rank": 28,
@@ -395,7 +395,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77516,
+      "raw_hot": 77768,
       "num": 98958,
       "word": "低空经济项目加速落地",
       "onboard_time": 1733090351,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65199,
+      "num": 65199,
+      "word": "我国首个阶梯式低空空域正式投入使用",
+      "onboard_time": 1733086572,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63448,
       "num": 63448,
       "word": "朴彩英剧透BLACKPINK明年回归",
@@ -467,12 +475,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60174,
-      "num": 60174,
-      "word": "我国首个阶梯式低空空域正式投入使用",
-      "onboard_time": 1733086572,
-      "rank": 43,
+      "raw_hot": 60300,
+      "num": 186326,
+      "word": "中方对美方安排赖清德过境予以严厉谴责",
+      "onboard_time": 1733082190,
+      "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59959,
+      "num": 59959,
+      "word": "利物浦vs曼城",
+      "onboard_time": 1733065940,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 59800,
@@ -491,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56293,
+      "num": 56293,
+      "word": "这一脚伸得太帅了",
+      "onboard_time": 1733077213,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 53721,
       "num": 108794,
       "word": "言语缩减",
@@ -507,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51714,
-      "num": 51714,
-      "word": "利物浦vs曼城",
-      "onboard_time": 1733065940,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50484,
       "num": 50484,
       "word": "邓紫棋湛江",
@@ -523,20 +539,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 50135,
-      "num": 50135,
-      "word": "这一脚伸得太帅了",
-      "onboard_time": 1733077213,
+      "raw_hot": 47415,
+      "num": 47415,
+      "word": "央视拍的罗云熙",
+      "onboard_time": 1733085070,
       "rank": 46,
-      "category": "正能量"
+      "category": "剧集"
     },
     {
-      "raw_hot": 41455,
-      "num": 41455,
+      "raw_hot": 43002,
+      "num": 43002,
       "word": "叙利亚反对派武装攻入阿勒颇",
       "onboard_time": 1733075293,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41754,
+      "num": 548618,
+      "word": "这样的文物戏精亮了",
+      "onboard_time": 1733058019,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 38931,
+      "num": 42995,
+      "word": "吴柳芳账号持续涨粉中",
+      "onboard_time": 1733095816,
+      "rank": 48,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 38354,
@@ -545,6 +577,14 @@
       "onboard_time": 1733073614,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38310,
+      "num": 44368,
+      "word": "运动员退役后展示自己的生活应尊重",
+      "onboard_time": 1733072354,
+      "rank": 48,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 38225,
@@ -561,30 +601,6 @@
       "onboard_time": 1733070795,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 37949,
-      "num": 462425,
-      "word": "这样的文物戏精亮了",
-      "onboard_time": 1733058019,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 37777,
-      "num": 41442,
-      "word": "央视拍的罗云熙",
-      "onboard_time": 1733085070,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 34184,
-      "num": 44368,
-      "word": "运动员退役后展示自己的生活应尊重",
-      "onboard_time": 1733072354,
-      "rank": 48,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 34019,
@@ -611,20 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30767,
-      "num": 186326,
-      "word": "中方对美方安排赖清德过境予以严厉谴责",
-      "onboard_time": 1733082190,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30571,
       "num": 41363,
       "word": "日本扇耳光餐厅",
       "onboard_time": 1733084531,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26460,
+      "num": 123005,
+      "word": "张真源记录云南之行",
+      "onboard_time": 1733095096,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 26015,
@@ -643,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24732,
-      "num": 123005,
-      "word": "张真源记录云南之行",
-      "onboard_time": 1733095096,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24478,
       "num": 50457,
       "word": "张泽禹发了18宫格",
@@ -665,6 +673,14 @@
       "onboard_time": 1733076013,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18942,
+      "num": 109573,
+      "word": "买武器买不来安全保护费保不了台独",
+      "onboard_time": 1733080631,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17300,
@@ -688,14 +704,6 @@
       "word": "南京举行大屠杀死难者家庭祭告活动",
       "onboard_time": 1733081050,
       "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 15553,
-      "num": 22453,
-      "word": "买武器买不来安全保护费保不了台独",
-      "onboard_time": 1733080631,
-      "rank": 49,
       "category": "国内时政"
     },
     {
