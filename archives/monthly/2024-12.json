@@ -1,10 +1,10 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733023903963,
+  "endTime": 1733024770595,
   "band_list": [
     {
-      "raw_hot": 3445084,
-      "num": 3445084,
+      "raw_hot": 4687951,
+      "num": 4687951,
       "word": "国考",
       "onboard_time": 1733010074,
       "rank": 26,
@@ -65,6 +65,14 @@
       "onboard_time": 1732972639,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1116730,
+      "num": 1116730,
+      "word": "行测 做不完",
+      "onboard_time": 1733023578,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 1108218,
@@ -131,6 +139,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 524876,
+      "num": 233000,
+      "word": "微信运动太暴露隐私了",
+      "onboard_time": 1733024418,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 489321,
+      "num": 489321,
+      "word": "行测答案",
+      "onboard_time": 1733023578,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 481173,
       "num": 223223,
       "word": "孙千体面",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 463319,
-      "num": 273923,
+      "num": 277342,
       "word": "结婚1年多不孕夫妻变姐妹",
       "onboard_time": 1732977200,
       "rank": 20,
@@ -161,6 +185,14 @@
       "onboard_time": 1733014936,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 444621,
+      "num": 657682,
+      "word": "一岁多小宝上了40分钟课哭了40分钟",
+      "onboard_time": 1733022979,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442361,
@@ -219,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314883,
+      "num": 314883,
+      "word": "国考答案",
+      "onboard_time": 1733024418,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 313499,
       "num": 313499,
       "word": "女子凌晨被两条大型犬撕咬",
@@ -233,6 +273,14 @@
       "onboard_time": 1733020817,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304377,
+      "num": 304377,
+      "word": "李胜利疑似喊话向佐",
+      "onboard_time": 1733024418,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 303327,
@@ -267,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284524,
-      "num": 284524,
-      "word": "行测 做不完",
-      "onboard_time": 1733023578,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 279432,
       "num": 279432,
       "word": "我国首个商业航天发射场首发成功",
@@ -297,14 +337,6 @@
       "onboard_time": 1733022979,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265995,
-      "num": 657682,
-      "word": "一岁多小宝上了40分钟课哭了40分钟",
-      "onboard_time": 1733022979,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263465,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 234263,
-      "num": 234263,
+      "num": 246646,
       "word": "杨紫西班牙街拍",
       "onboard_time": 1733021298,
       "rank": 26,
@@ -355,20 +387,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 226402,
-      "num": 226402,
-      "word": "行测答案",
-      "onboard_time": 1733023578,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 224395,
       "num": 224395,
       "word": "导致胃癌的高危因素",
       "onboard_time": 1733010615,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214225,
+      "num": 214225,
+      "word": "国考数量 酣畅淋漓的蒙题",
+      "onboard_time": 1733024718,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 209424,
@@ -387,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202855,
+      "num": 285777,
+      "word": "王楚钦vs裴焕",
+      "onboard_time": 1733024418,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202036,
       "num": 202036,
       "word": "成都混团世界杯",
       "onboard_time": 1733022018,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201936,
+      "num": 327128,
+      "word": "金敏绪进入女友粉丝群",
+      "onboard_time": 1733023818,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 195532,
@@ -473,6 +521,14 @@
       "onboard_time": 1732976240,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165030,
+      "num": 233431,
+      "word": "李行亮商演价格或翻倍",
+      "onboard_time": 1733023759,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 164207,
@@ -595,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136432,
+      "num": 136432,
+      "word": "政治理论 题量",
+      "onboard_time": 1733024599,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135682,
       "num": 135682,
       "word": "田小娟ins更新",
@@ -617,6 +681,14 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134477,
+      "num": 270790,
+      "word": "杜兰特和格林较劲",
+      "onboard_time": 1733023459,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 131905,
@@ -651,12 +723,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129496,
+      "num": 129496,
+      "word": "我国艾滋病性传播约70%是异性传播",
+      "onboard_time": 1733024539,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128905,
       "num": 135761,
       "word": "金瀚真去航海了",
       "onboard_time": 1732982122,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128344,
+      "num": 128344,
+      "word": "泽连斯基称考虑先加入北约再收回领土",
+      "onboard_time": 1733024119,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127190,
@@ -667,12 +755,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124530,
-      "num": 270790,
-      "word": "杜兰特和格林较劲",
-      "onboard_time": 1733023459,
-      "rank": 24,
+      "raw_hot": 124374,
+      "num": 474997,
+      "word": "王曼昱vs泰普",
+      "onboard_time": 1733024179,
+      "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123242,
+      "num": 507671,
+      "word": "外交部回应美国3.85亿美元对台军售",
+      "onboard_time": 1733024479,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122826,
@@ -691,20 +787,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122523,
-      "num": 122523,
-      "word": "金敏绪进入女友粉丝群",
-      "onboard_time": 1733023818,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122136,
       "num": 122136,
       "word": "虞书欣备忘录里的碎片",
       "onboard_time": 1732982720,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121699,
+      "num": 121699,
+      "word": "谢兴阳 凤凰传奇演唱会场外观众",
+      "onboard_time": 1733024239,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 121438,
@@ -801,14 +897,6 @@
       "onboard_time": 1732977921,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107404,
-      "num": 107404,
-      "word": "李行亮商演价格或翻倍",
-      "onboard_time": 1733023759,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 107243,
@@ -955,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79864,
+      "num": 1273271,
+      "word": "我国首个商业航天发射场首发看点",
+      "onboard_time": 1733021597,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79547,
       "num": 79547,
       "word": "金智秀连续三年获世首美",
@@ -987,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73017,
+      "num": 471283,
+      "word": "林诗栋蒯曼3比0卢伟洪剑芳",
+      "onboard_time": 1733024059,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72736,
       "num": 217845,
       "word": "贺峻霖随时随地摇起来",
@@ -995,12 +1099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68475,
-      "num": 1273271,
-      "word": "我国首个商业航天发射场首发看点",
-      "onboard_time": 1733021597,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 69046,
+      "num": 469449,
+      "word": "融创出售哈尔滨冰雪大世界股权",
+      "onboard_time": 1733024358,
+      "rank": 14,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 61212,
@@ -1052,7 +1156,7 @@
     },
     {
       "raw_hot": 54174,
-      "num": 282705,
+      "num": 352849,
       "word": "林诗栋蒯曼vs卢伟洪剑芳",
       "onboard_time": 1733023339,
       "rank": 18,
