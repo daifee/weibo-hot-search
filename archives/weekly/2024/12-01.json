@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733056967296,
+  "endTime": 1733057932214,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723316,
+      "num": 723316,
+      "word": "骄阳似我开机晚宴",
+      "onboard_time": 1733055619,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704246,
       "num": 251245,
       "word": "微信运动太暴露隐私了",
@@ -321,14 +329,6 @@
       "onboard_time": 1733026638,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639832,
-      "num": 639832,
-      "word": "骄阳似我开机晚宴",
-      "onboard_time": 1733055619,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 634100,
@@ -891,6 +891,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222682,
+      "num": 213352,
+      "word": "女子麦当劳内咆哮式辱骂一男孩",
+      "onboard_time": 1733054658,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221177,
+      "num": 209929,
+      "word": "丁禹兮造的梗需要翻译了",
+      "onboard_time": 1733056699,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217640,
       "num": 403300,
       "word": "接触艾滋病毒后有72小时能自救",
@@ -921,14 +937,6 @@
       "onboard_time": 1733051179,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213352,
-      "num": 213352,
-      "word": "女子麦当劳内咆哮式辱骂一男孩",
-      "onboard_time": 1733054658,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210708,
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199720,
+      "num": 207586,
+      "word": "王曼昱VOGUE",
+      "onboard_time": 1733057358,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 198568,
       "num": 198568,
       "word": "这么丑的猫我居然有三只",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1733050039,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195857,
+      "num": 195857,
+      "word": "颜如晶瘦了55斤解锁全新风格",
+      "onboard_time": 1733057898,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195532,
@@ -1171,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186223,
+      "num": 242236,
+      "word": "周冬雨看了三遍如父如子",
+      "onboard_time": 1733056219,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186044,
       "num": 186044,
       "word": "WTT",
@@ -1227,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174099,
+      "num": 205794,
+      "word": "宋亚轩梦女视角",
+      "onboard_time": 1733056638,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172409,
       "num": 172409,
       "word": "双轨换导演",
@@ -1251,12 +1291,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170515,
+      "num": 170515,
+      "word": "普京签署41万亿卢布预算",
+      "onboard_time": 1733057480,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 170430,
+      "num": 170430,
+      "word": "权志龙MAMA花絮",
+      "onboard_time": 1733056878,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169976,
       "num": 226597,
       "word": "南部档案",
       "onboard_time": 1733039897,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168611,
+      "num": 224083,
+      "word": "唐三就这味倍儿爽",
+      "onboard_time": 1733057420,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168088,
+      "num": 168088,
+      "word": "孕妇想月子期间洗头被长辈包围劝阻",
+      "onboard_time": 1733057118,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 168000,
@@ -1540,7 +1612,7 @@
     },
     {
       "raw_hot": 141969,
-      "num": 141969,
+      "num": 210940,
       "word": "马龙打棒球2次错误示范逗笑全场",
       "onboard_time": 1733046079,
       "rank": 44,
@@ -1601,6 +1673,14 @@
       "onboard_time": 1733030299,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138973,
+      "num": 138973,
+      "word": "丁禹兮民国贵公子妆造",
+      "onboard_time": 1733057358,
+      "rank": 44,
+      "category": "剧集,时尚"
     },
     {
       "raw_hot": 138470,
@@ -1665,14 +1745,6 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134278,
-      "num": 134278,
-      "word": "丁禹兮造的梗需要翻译了",
-      "onboard_time": 1733056699,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 133425,
@@ -1793,14 +1865,6 @@
       "onboard_time": 1733052078,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124838,
-      "num": 176166,
-      "word": "宋亚轩梦女视角",
-      "onboard_time": 1733056638,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 124347,
@@ -1939,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117006,
+      "num": 117006,
+      "word": "叙利亚叛军推倒叙总统兄长雕像",
+      "onboard_time": 1733057719,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116618,
       "num": 116618,
       "word": "500多斤大猫压在身上睡觉是啥感觉",
@@ -1985,14 +2057,6 @@
       "onboard_time": 1733023339,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111251,
-      "num": 242236,
-      "word": "周冬雨看了三遍如父如子",
-      "onboard_time": 1733056219,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 110775,
@@ -2097,14 +2161,6 @@
       "onboard_time": 1733022257,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104706,
-      "num": 104706,
-      "word": "权志龙MAMA花絮",
-      "onboard_time": 1733056878,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 104689,
@@ -2451,6 +2507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 74194,
+      "num": 203961,
+      "word": "苏翊鸣未能卫冕",
+      "onboard_time": 1733057059,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73667,
       "num": 281959,
       "word": "无锡一地十几年没通自来水",
@@ -2489,6 +2553,14 @@
       "onboard_time": 1733024358,
       "rank": 14,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 68363,
+      "num": 140210,
+      "word": "林更新狗随主人",
+      "onboard_time": 1733057719,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 65815,
@@ -2641,6 +2713,14 @@
       "onboard_time": 1733054180,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46761,
+      "num": 349857,
+      "word": "部分学生体育用品增塑剂超标超200倍",
+      "onboard_time": 1733057659,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 46515,
@@ -3121,6 +3201,14 @@
       "onboard_time": 1733001670,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4877,
+      "num": 688363,
+      "word": "何以中国弦歌不辍",
+      "onboard_time": 1732934658,
+      "rank": 2,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
