@@ -1,0 +1,410 @@
+{
+  "runTime": 1733113744531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1638020,
+        "num": 1638020,
+        "word": "药王谷开诊1个多月15名患者死亡",
+        "onboard_time": 1733110819,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 997104,
+        "num": 997104,
+        "word": "韩国流行周五下班去中国",
+        "onboard_time": 1733112380,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61801,
+        "num": 840992,
+        "word": "南极中山国家大气本底监测站建成",
+        "onboard_time": 1733111058,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 709073,
+        "num": 709073,
+        "word": "泰国坠崖孕妇11月直播14场",
+        "onboard_time": 1733107577,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686575,
+        "num": 686575,
+        "word": "黑白森林定档",
+        "onboard_time": 1733107277,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565194,
+        "num": 565194,
+        "word": "金高银来杭州了",
+        "onboard_time": 1733111659,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 496714,
+        "num": 496714,
+        "word": "骄阳似我官宣赵今麦宋威龙",
+        "onboard_time": 1733107817,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450407,
+        "num": 450407,
+        "word": "猎罪图鉴",
+        "onboard_time": 1733112019,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324324,
+        "num": 376295,
+        "word": "没想到吃剩的骨头还能这样用",
+        "onboard_time": 1733104278,
+        "rank": 8,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 44528,
+        "num": 372809,
+        "word": "券商多位前高管违规入股被罚百万",
+        "onboard_time": 1733113580,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471938,
+        "num": 372789,
+        "word": "姜云升谈陈近南diss周密",
+        "onboard_time": 1733113461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372691,
+        "num": 372691,
+        "word": "川航回应3U8925航班备降桂林",
+        "onboard_time": 1733109857,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369516,
+        "num": 369516,
+        "word": "刘浩存掌管高马尾的神",
+        "onboard_time": 1733111179,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344280,
+        "num": 344280,
+        "word": "泰国坠崖孕妇被指责生意做太大",
+        "onboard_time": 1733067618,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60560,
+        "num": 344043,
+        "word": "今年乌军逃兵人数已超前两年之和",
+        "onboard_time": 1733112139,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 786748,
+        "num": 343561,
+        "word": "周芯竹 周密",
+        "onboard_time": 1733096897,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11716,
+        "num": 342644,
+        "word": "A股三大指数均涨逾1%",
+        "onboard_time": 1733113280,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47953,
+        "num": 341643,
+        "word": "林诗栋蒯曼VS钱德拉瓦提克",
+        "onboard_time": 1733113280,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220243,
+        "num": 341149,
+        "word": "张馨予在西藏住三个月",
+        "onboard_time": 1733113520,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69186,
+        "num": 340345,
+        "word": "研究证明有饥饿感会启动长寿基因",
+        "onboard_time": 1733113520,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23219,
+        "num": 339384,
+        "word": "冬日智驾追雪buff叠满",
+        "onboard_time": 1733110519,
+        "rank": 20,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 623281,
+        "num": 338653,
+        "word": "周芯竹 高天佐",
+        "onboard_time": 1733103258,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338653,
+        "num": 338652,
+        "word": "李行亮12月至少有2个演出计划",
+        "onboard_time": 1733082251,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32854,
+        "num": 329276,
+        "word": "综艺大赏",
+        "onboard_time": 1733111058,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325099,
+        "num": 325099,
+        "word": "腾讯12月大剧片单",
+        "onboard_time": 1733109557,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88187,
+        "num": 324345,
+        "word": "红糖水没用 得吃去痛片",
+        "onboard_time": 1733112319,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177734,
+        "num": 321164,
+        "word": "摇光录",
+        "onboard_time": 1733111179,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54130,
+        "num": 316628,
+        "word": "香奈儿杭州全球首秀",
+        "onboard_time": 1733110519,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 138985,
+        "num": 310691,
+        "word": "武艺推荐苏醒参加再见爱人",
+        "onboard_time": 1733113700,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256478,
+        "num": 307576,
+        "word": "iG官宣新阵容剪影",
+        "onboard_time": 1733112319,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53602,
+        "num": 304116,
+        "word": "围观明星婚姻的观众成流量变现工具",
+        "onboard_time": 1733111839,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302708,
+        "num": 302708,
+        "word": "网友在小学废弃信箱发现多封投诉信",
+        "onboard_time": 1733112079,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273856,
+        "num": 301765,
+        "word": "佟大为花期真长",
+        "onboard_time": 1733111959,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301749,
+        "num": 301749,
+        "word": "赵丽颖女友视角报备日常",
+        "onboard_time": 1733109017,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287713,
+        "num": 287713,
+        "word": "堵车时闯绿灯属违法行为",
+        "onboard_time": 1733104278,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286716,
+        "num": 286716,
+        "word": "国乒vs印度",
+        "onboard_time": 1733112079,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283381,
+        "num": 283381,
+        "word": "丞磊助理",
+        "onboard_time": 1733113399,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282563,
+        "num": 282563,
+        "word": "有些rapper不该把低俗当作风格",
+        "onboard_time": 1733105416,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249142,
+        "num": 249142,
+        "word": "川航一航班因旅客充电宝冒烟备降",
+        "onboard_time": 1733111778,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239663,
+        "num": 239663,
+        "word": "单霁翔为保护故宫地面坚持穿布鞋",
+        "onboard_time": 1733106737,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236228,
+        "num": 236228,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1733101458,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150951,
+        "num": 234931,
+        "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
+        "onboard_time": 1733113341,
+        "rank": 41,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 291276,
+        "num": 234888,
+        "word": "90后女护士将房间住包浆后失联",
+        "onboard_time": 1733098638,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234079,
+        "num": 234079,
+        "word": "丁禹兮今年第四部剧",
+        "onboard_time": 1733111478,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228696,
+        "num": 228696,
+        "word": "iG新阵容将在传奇杯决赛现场公布",
+        "onboard_time": 1733110878,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213894,
+        "num": 213894,
+        "word": "孟子义首演重生复仇大女主",
+        "onboard_time": 1733112619,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206943,
+        "num": 206943,
+        "word": "因穷写网文写成茅盾奖",
+        "onboard_time": 1733108838,
+        "rank": 46,
+        "category": "读书作家,教育"
+      },
+      {
+        "raw_hot": 207079,
+        "num": 202852,
+        "word": "九重紫定档",
+        "onboard_time": 1733105416,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198342,
+        "num": 198342,
+        "word": "陈都灵月鳞绮纪出妆路透",
+        "onboard_time": 1733108118,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186512,
+        "num": 186512,
+        "word": "学信网发了永夜星河",
+        "onboard_time": 1733101279,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733111491876,
+  "endTime": 1733113744531,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -9,6 +9,14 @@
       "onboard_time": 1733101518,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1638020,
+      "num": 1638020,
+      "word": "药王谷开诊1个多月15名患者死亡",
+      "onboard_time": 1733110819,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1132029,
@@ -35,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 997104,
+      "num": 997104,
+      "word": "韩国流行周五下班去中国",
+      "onboard_time": 1733112380,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 823631,
       "num": 941348,
       "word": "泰国坠崖孕妇被指责生意做太大",
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 812910,
-      "num": 322904,
+      "num": 343561,
       "word": "周芯竹 周密",
       "onboard_time": 1733096897,
       "rank": 15,
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 565194,
+      "num": 565194,
+      "word": "金高银来杭州了",
+      "onboard_time": 1733111659,
+      "rank": 5,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 560863,
       "num": 434405,
       "word": "九重紫定档",
@@ -155,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 496714,
+      "num": 496714,
+      "word": "骄阳似我官宣赵今麦宋威龙",
+      "onboard_time": 1733107817,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 490379,
       "num": 490379,
       "word": "看似正常实则伤牙的行为",
@@ -163,20 +195,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 489551,
-      "num": 419165,
-      "word": "骄阳似我官宣赵今麦宋威龙",
-      "onboard_time": 1733107817,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 479689,
       "num": 479689,
       "word": "学信网发了永夜星河",
       "onboard_time": 1733101279,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471938,
+      "num": 372789,
+      "word": "姜云升谈陈近南diss周密",
+      "onboard_time": 1733113461,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 454677,
@@ -193,6 +225,14 @@
       "onboard_time": 1733067199,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450407,
+      "num": 450407,
+      "word": "猎罪图鉴",
+      "onboard_time": 1733112019,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 437313,
@@ -227,6 +267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372691,
+      "num": 372691,
+      "word": "川航回应3U8925航班备降桂林",
+      "onboard_time": 1733109857,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369516,
+      "num": 369516,
+      "word": "刘浩存掌管高马尾的神",
+      "onboard_time": 1733111179,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362693,
       "num": 116749,
       "word": "唐嫣罗晋带娃逛迪士尼",
@@ -251,20 +307,20 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 328691,
-      "num": 410596,
-      "word": "药王谷开诊1个多月15名患者死亡",
-      "onboard_time": 1733110819,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 326632,
       "num": 306152,
       "word": "音乐节主办停止和周密合作",
       "onboard_time": 1733045481,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324324,
+      "num": 376295,
+      "word": "没想到吃剩的骨头还能这样用",
+      "onboard_time": 1733104278,
+      "rank": 44,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 323900,
@@ -281,6 +337,22 @@
       "onboard_time": 1733064019,
       "rank": 5,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 302708,
+      "num": 302708,
+      "word": "网友在小学废弃信箱发现多封投诉信",
+      "onboard_time": 1733112079,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301749,
+      "num": 301749,
+      "word": "赵丽颖女友视角报备日常",
+      "onboard_time": 1733109017,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 300858,
@@ -315,6 +387,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 286716,
+      "num": 286716,
+      "word": "国乒vs印度",
+      "onboard_time": 1733112079,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283381,
+      "num": 283381,
+      "word": "丞磊助理",
+      "onboard_time": 1733113399,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282168,
       "num": 317721,
       "word": "4种体质的女性易患多囊",
@@ -329,6 +417,14 @@
       "onboard_time": 1733098578,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273856,
+      "num": 301765,
+      "word": "佟大为花期真长",
+      "onboard_time": 1733111959,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 271626,
@@ -355,11 +451,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 256478,
+      "num": 307576,
+      "word": "iG官宣新阵容剪影",
+      "onboard_time": 1733112319,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253895,
       "num": 253895,
       "word": "大爷哪天出现哪天就是快乐星期几",
       "onboard_time": 1733097616,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249142,
+      "num": 249142,
+      "word": "川航一航班因旅客充电宝冒烟备降",
+      "onboard_time": 1733111778,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -379,14 +491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240819,
-      "num": 342754,
-      "word": "川航回应3U8925航班备降桂林",
-      "onboard_time": 1733109857,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235648,
       "num": 204612,
       "word": "李行亮商演再次遭抵制",
@@ -401,6 +505,14 @@
       "onboard_time": 1733065820,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234079,
+      "num": 234079,
+      "word": "丁禹兮今年第四部剧",
+      "onboard_time": 1733111478,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 232914,
@@ -427,6 +539,14 @@
       "category": "读书作家,教育"
     },
     {
+      "raw_hot": 220243,
+      "num": 341149,
+      "word": "张馨予在西藏住三个月",
+      "onboard_time": 1733113520,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219009,
       "num": 219009,
       "word": "半夜天花板上掉下一只300斤野猪",
@@ -451,12 +571,12 @@
       "category": "民生新闻,剧集"
     },
     {
-      "raw_hot": 212991,
-      "num": 212991,
-      "word": "赵丽颖女友视角报备日常",
-      "onboard_time": 1733109017,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 213894,
+      "num": 213894,
+      "word": "孟子义首演重生复仇大女主",
+      "onboard_time": 1733112619,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 209559,
@@ -500,7 +620,7 @@
     },
     {
       "raw_hot": 195591,
-      "num": 195591,
+      "num": 321164,
       "word": "摇光录",
       "onboard_time": 1733111179,
       "rank": 37,
@@ -635,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150951,
+      "num": 234931,
+      "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
+      "onboard_time": 1733113341,
+      "rank": 41,
+      "category": "网红,体育"
+    },
+    {
       "raw_hot": 145959,
       "num": 153968,
       "word": "傅首尔谈再见爱人后的状态",
@@ -715,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138985,
+      "num": 310691,
+      "word": "武艺推荐苏醒参加再见爱人",
+      "onboard_time": 1733113700,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138524,
       "num": 138524,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -737,22 +873,6 @@
       "onboard_time": 1733068038,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138142,
-      "num": 286490,
-      "word": "没想到吃剩的骨头还能这样用",
-      "onboard_time": 1733104278,
-      "rank": 44,
-      "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 138033,
-      "num": 138033,
-      "word": "丁禹兮今年第四部剧",
-      "onboard_time": 1733111478,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 134945,
@@ -841,14 +961,6 @@
       "onboard_time": 1733106137,
       "rank": 46,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 123938,
-      "num": 335335,
-      "word": "刘浩存掌管高马尾的神",
-      "onboard_time": 1733111179,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 123091,
@@ -995,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88187,
+      "num": 324345,
+      "word": "红糖水没用 得吃去痛片",
+      "onboard_time": 1733112319,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87611,
       "num": 87611,
       "word": "女子花近五万相亲三次都失败盼退费",
@@ -1075,6 +1195,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 69186,
+      "num": 340345,
+      "word": "研究证明有饥饿感会启动长寿基因",
+      "onboard_time": 1733113520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69129,
       "num": 397348,
       "word": "网红花26美元打卡联合国营造精英人设",
@@ -1147,12 +1275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61801,
+      "num": 840992,
+      "word": "南极中山国家大气本底监测站建成",
+      "onboard_time": 1733111058,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60930,
       "num": 60930,
       "word": "关晓彤给张艺兴音乐话剧打call",
       "onboard_time": 1733049440,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 60560,
+      "num": 344043,
+      "word": "今年乌军逃兵人数已超前两年之和",
+      "onboard_time": 1733112139,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60300,
@@ -1187,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54130,
+      "num": 316628,
+      "word": "香奈儿杭州全球首秀",
+      "onboard_time": 1733110519,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 53721,
       "num": 108794,
       "word": "言语缩减",
       "onboard_time": 1733069598,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 53602,
+      "num": 304116,
+      "word": "围观明星婚姻的观众成流量变现工具",
+      "onboard_time": 1733111839,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 52249,
@@ -1227,12 +1387,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 47953,
+      "num": 341643,
+      "word": "林诗栋蒯曼VS钱德拉瓦提克",
+      "onboard_time": 1733113280,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47415,
       "num": 47415,
       "word": "央视拍的罗云熙",
       "onboard_time": 1733085070,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44528,
+      "num": 372809,
+      "word": "券商多位前高管违规入股被罚百万",
+      "onboard_time": 1733113580,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43216,
@@ -1249,14 +1425,6 @@
       "onboard_time": 1733075293,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39899,
-      "num": 282945,
-      "word": "香奈儿杭州全球首秀",
-      "onboard_time": 1733110519,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 38931,
@@ -1315,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32854,
+      "num": 329276,
+      "word": "综艺大赏",
+      "onboard_time": 1733111058,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32169,
       "num": 37885,
       "word": "王安宇拉着金晨撒娇",
@@ -1348,7 +1524,7 @@
     },
     {
       "raw_hot": 26406,
-      "num": 271029,
+      "num": 339384,
       "word": "冬日智驾追雪buff叠满",
       "onboard_time": 1733110519,
       "rank": 29,
@@ -1385,14 +1561,6 @@
       "onboard_time": 1733076013,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22893,
-      "num": 588982,
-      "word": "南极中山国家大气本底监测站建成",
-      "onboard_time": 1733111058,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18942,
@@ -1473,6 +1641,14 @@
       "onboard_time": 1733084769,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11716,
+      "num": 342644,
+      "word": "A股三大指数均涨逾1%",
+      "onboard_time": 1733113280,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 11390,
@@ -1566,6 +1742,9 @@
   "hotgov_list": [
     {
       "word": "#中华民族是守正创新的民族#"
+    },
+    {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
     }
   ]
 }
