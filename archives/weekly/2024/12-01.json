@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733171968996,
+  "endTime": 1733174565553,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -7515,6 +7515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16096,
+      "num": 16096,
+      "word": "记者现场直击大马士革高度戒备",
+      "onboard_time": 1733171951,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16029,
       "num": 22340,
       "word": "一人一句支持新疆棉花",
@@ -7529,6 +7537,14 @@
       "onboard_time": 1732999391,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15400,
+      "num": 15400,
+      "word": "向佐 向朵花",
+      "onboard_time": 1733172311,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 15037,
@@ -7569,6 +7585,14 @@
       "onboard_time": 1733088430,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14114,
+      "num": 15461,
+      "word": "卫星图看中国10年治沙前后对比",
+      "onboard_time": 1733168831,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 13911,
@@ -7619,14 +7643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 12624,
-      "num": 15461,
-      "word": "卫星图看中国10年治沙前后对比",
-      "onboard_time": 1733168831,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 12530,
       "num": 23871,
       "word": "53秒了解中俄东线天然气管道",
@@ -7641,6 +7657,14 @@
       "onboard_time": 1733081711,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12431,
+      "num": 27874,
+      "word": "一场双方年龄差距60岁的救援",
+      "onboard_time": 1733173151,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12238,
@@ -7683,20 +7707,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11535,
+      "num": 12812,
+      "word": "敦煌壁画动起来有多惊艳",
+      "onboard_time": 1733173390,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11390,
       "num": 13649,
       "word": "60多年他们试射数千枚导弹",
       "onboard_time": 1733082851,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 10994,
-      "num": 11968,
-      "word": "记者现场直击大马士革高度戒备",
-      "onboard_time": 1733171951,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10885,
@@ -7721,6 +7745,14 @@
       "onboard_time": 1733009714,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9919,
+      "num": 12794,
+      "word": "2025年度个税专项附加扣除信息确认",
+      "onboard_time": 1733173991,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 9793,
@@ -7887,6 +7919,14 @@
       "num": 19413,
       "word": "金泰亨发文悼念小狗",
       "onboard_time": 1733171600,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5365,
+      "num": 21140,
+      "word": "闵熙珍起诉D社记者",
+      "onboard_time": 1733173991,
       "rank": 19,
       "category": "艺人"
     },
