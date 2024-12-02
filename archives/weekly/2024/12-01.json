@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733135228894,
+  "endTime": 1733136316340,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1049054,
-      "num": 278262,
+      "num": 314604,
       "word": "金泰亨的小狗金碳去世",
       "onboard_time": 1733132900,
       "rank": 10,
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574215,
+      "num": 574215,
+      "word": "鞠婧祎再演恶女",
+      "onboard_time": 1733132539,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571458,
       "num": 571458,
       "word": "腾讯回应微信提现可免手续费",
@@ -785,14 +793,6 @@
       "onboard_time": 1733125039,
       "rank": 18,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 543220,
-      "num": 543220,
-      "word": "鞠婧祎再演恶女",
-      "onboard_time": 1733132539,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 538629,
@@ -1195,6 +1195,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 399696,
+      "num": 399696,
+      "word": "前体操冠军张宏涛回应擦边争议",
+      "onboard_time": 1733134099,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397464,
       "num": 397464,
       "word": "赵雅芝哭了",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1733117600,
       "rank": 22,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 354184,
+      "num": 354184,
+      "word": "芒果做声生不息的意义",
+      "onboard_time": 1733134578,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 351754,
@@ -1417,14 +1433,6 @@
       "onboard_time": 1733050158,
       "rank": 37,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 317789,
-      "num": 265758,
-      "word": "前体操冠军张宏涛回应擦边争议",
-      "onboard_time": 1733134099,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 313499,
@@ -1649,6 +1657,14 @@
       "onboard_time": 1733111959,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271833,
+      "num": 319647,
+      "word": "韩国赴华订单暴增上海成大热门",
+      "onboard_time": 1733134519,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 271626,
@@ -2099,8 +2115,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211018,
-      "num": 211018,
+      "raw_hot": 212087,
+      "num": 212087,
       "word": "彩虹夫妇为生女儿5年拼4胎",
       "onboard_time": 1733133560,
       "rank": 25,
@@ -2185,6 +2201,14 @@
       "onboard_time": 1733057480,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207705,
+      "num": 256805,
+      "word": "肖战方取证维权",
+      "onboard_time": 1733135119,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 207071,
@@ -2363,20 +2387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196850,
+      "num": 196850,
+      "word": "尽量别用手柄过于鲜艳的跳绳",
+      "onboard_time": 1733131639,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 196679,
       "num": 236922,
       "word": "赵露思彭冠英吻戏路透",
       "onboard_time": 1733050039,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196675,
-      "num": 196675,
-      "word": "芒果做声生不息的意义",
-      "onboard_time": 1733134578,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 196600,
@@ -2675,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180728,
+      "num": 180728,
+      "word": "肖战入围APMA华语地区最佳男歌手",
+      "onboard_time": 1733135298,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179631,
       "num": 179631,
       "word": "男子称买酒后扫码跳出色情网站",
@@ -2755,14 +2787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172786,
-      "num": 172786,
-      "word": "韩国赴华订单暴增上海成大热门",
-      "onboard_time": 1733134519,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 172409,
       "num": 172409,
       "word": "双轨换导演",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1733133199,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171765,
+      "num": 171765,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1733132178,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 171372,
@@ -2891,6 +2923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166115,
+      "num": 272182,
+      "word": "其他rapper提起周密欲言又止",
+      "onboard_time": 1733132959,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166035,
       "num": 166035,
       "word": "北京地铁大爷向年轻人花式发射快乐",
@@ -2921,14 +2961,6 @@
       "onboard_time": 1732980260,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162594,
-      "num": 272182,
-      "word": "其他rapper提起周密欲言又止",
-      "onboard_time": 1733132959,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 162509,
@@ -2985,6 +3017,14 @@
       "onboard_time": 1733008814,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160906,
+      "num": 160906,
+      "word": "商家大规模关闭运费险背后",
+      "onboard_time": 1733136199,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160861,
@@ -3115,14 +3155,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 156200,
-      "num": 156200,
-      "word": "陷入我们的热恋",
-      "onboard_time": 1733132178,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156172,
       "num": 156172,
       "word": "肖战对接否认接触攻玉",
@@ -3193,14 +3225,6 @@
       "onboard_time": 1733114960,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154247,
-      "num": 154247,
-      "word": "尽量别用手柄过于鲜艳的跳绳",
-      "onboard_time": 1733131639,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 154085,
@@ -3435,6 +3459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 144398,
+      "num": 270519,
+      "word": "叙利亚局势",
+      "onboard_time": 1733134999,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144286,
       "num": 144286,
       "word": "孩子兜里揣龙眼家长质疑超市定性偷盗",
@@ -3595,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139451,
+      "num": 139451,
+      "word": "孙颖莎无法实现的座位自由",
+      "onboard_time": 1733134459,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138524,
       "num": 272648,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -3617,14 +3657,6 @@
       "onboard_time": 1733103198,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 138383,
-      "num": 138383,
-      "word": "孙颖莎无法实现的座位自由",
-      "onboard_time": 1733134459,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 138342,
@@ -3787,14 +3819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132311,
-      "num": 158706,
-      "word": "肖战方取证维权",
-      "onboard_time": 1733135119,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131905,
       "num": 131905,
       "word": "驻日美军士兵酒后私闯民宅还大睡",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1733052318,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131446,
+      "num": 303205,
+      "word": "吴柳芳曾参加很多公益支教活动",
+      "onboard_time": 1733135298,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 131190,
@@ -3977,6 +4009,14 @@
       "onboard_time": 1733106197,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126072,
+      "num": 126072,
+      "word": "何浩楠第一次上那么高海拔",
+      "onboard_time": 1733136199,
+      "rank": 43,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 125909,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1733014336,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120577,
+      "num": 120577,
+      "word": "人人网后续恢复时间未知",
+      "onboard_time": 1733135720,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 120337,
@@ -4443,6 +4491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103503,
+      "num": 273780,
+      "word": "永夜星河到底藏了多少好东西",
+      "onboard_time": 1733133739,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103348,
       "num": 439536,
       "word": "代驾闯红灯后车主保费上涨930元",
@@ -4537,14 +4593,6 @@
       "onboard_time": 1733044639,
       "rank": 18,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 99486,
-      "num": 273780,
-      "word": "永夜星河到底藏了多少好东西",
-      "onboard_time": 1733133739,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 99016,
@@ -4819,20 +4867,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83958,
-      "num": 270519,
-      "word": "叙利亚局势",
-      "onboard_time": 1733134999,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83568,
       "num": 82791,
       "word": "陈哲远举125公斤杠铃",
       "onboard_time": 1733070795,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82849,
+      "num": 651071,
+      "word": "我国冰雪产业规模或将突破万亿元",
+      "onboard_time": 1733129057,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82289,
@@ -5251,14 +5299,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 59046,
-      "num": 651071,
-      "word": "我国冰雪产业规模或将突破万亿元",
-      "onboard_time": 1733129057,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58749,
       "num": 236382,
       "word": "侯明昊横店走秀",
@@ -5547,6 +5587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42747,
+      "num": 340537,
+      "word": "ABO溶血症及时就诊治愈率100%",
+      "onboard_time": 1733136199,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41909,
       "num": 41909,
       "word": "2024最后一个月",
@@ -5568,6 +5616,14 @@
       "word": "西汉姆联2比5阿森纳",
       "onboard_time": 1733009775,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40297,
+      "num": 212230,
+      "word": "文森特首发",
+      "onboard_time": 1733134159,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -5977,14 +6033,6 @@
       "onboard_time": 1732993331,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24948,
-      "num": 156261,
-      "word": "文森特首发",
-      "onboard_time": 1733134159,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 24478,

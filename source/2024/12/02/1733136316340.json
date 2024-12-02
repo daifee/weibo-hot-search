@@ -1,0 +1,410 @@
+{
+  "runTime": 1733136316340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257640,
+        "num": 1257640,
+        "word": "有人用运费险8个月骗取100多万",
+        "onboard_time": 1733128278,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 574215,
+        "num": 574215,
+        "word": "鞠婧祎再演恶女",
+        "onboard_time": 1733132539,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82849,
+        "num": 469427,
+        "word": "我国冰雪产业规模或将突破万亿元",
+        "onboard_time": 1733129057,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404756,
+        "num": 404756,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 399696,
+        "num": 399696,
+        "word": "前体操冠军张宏涛回应擦边争议",
+        "onboard_time": 1733134099,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382626,
+        "num": 382626,
+        "word": "人人网已停止服务",
+        "onboard_time": 1733130020,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 365467,
+        "num": 365467,
+        "word": "豪士1批次面包霉菌超标近6倍",
+        "onboard_time": 1733120959,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354184,
+        "num": 354184,
+        "word": "芒果做声生不息的意义",
+        "onboard_time": 1733134578,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344208,
+        "num": 344208,
+        "word": "中方回应立陶宛要求我外交人员限期离境",
+        "onboard_time": 1733122758,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42747,
+        "num": 340537,
+        "word": "ABO溶血症及时就诊治愈率100%",
+        "onboard_time": 1733136199,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 958966,
+        "num": 333160,
+        "word": "Angelababy染发了",
+        "onboard_time": 1733127920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931480,
+        "num": 326993,
+        "word": "丑老公",
+        "onboard_time": 1733129239,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271833,
+        "num": 319647,
+        "word": "韩国赴华订单暴增上海成大热门",
+        "onboard_time": 1733134519,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 856774,
+        "num": 314604,
+        "word": "金泰亨的小狗金碳去世",
+        "onboard_time": 1733132900,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131446,
+        "num": 303205,
+        "word": "吴柳芳曾参加很多公益支教活动",
+        "onboard_time": 1733135298,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301458,
+        "num": 301458,
+        "word": "孙颖莎安排小孩哥捡球",
+        "onboard_time": 1733130858,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268840,
+        "num": 276576,
+        "word": "宋慧乔裴秀智庆生合照",
+        "onboard_time": 1733129960,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271362,
+        "num": 271362,
+        "word": "小伙相亲5年娶了个洋媳妇",
+        "onboard_time": 1733120480,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103503,
+        "num": 259713,
+        "word": "永夜星河到底藏了多少好东西",
+        "onboard_time": 1733133739,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207705,
+        "num": 256805,
+        "word": "肖战方取证维权",
+        "onboard_time": 1733135119,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255324,
+        "num": 255324,
+        "word": "周密爆料为周芯竹成立的公司已注销",
+        "onboard_time": 1733119099,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 249129,
+        "num": 249129,
+        "word": "青菜炒泥蛋",
+        "onboard_time": 1733127258,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239107,
+        "num": 239107,
+        "word": "没人告诉我王源郭俊辰关系这么好",
+        "onboard_time": 1733133080,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213299,
+        "num": 213299,
+        "word": "刚考完就知道成绩了",
+        "onboard_time": 1733128099,
+        "rank": 23,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 40297,
+        "num": 212230,
+        "word": "文森特首发",
+        "onboard_time": 1733134159,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166115,
+        "num": 212149,
+        "word": "其他rapper提起周密欲言又止",
+        "onboard_time": 1733132959,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212087,
+        "num": 212087,
+        "word": "彩虹夫妇为生女儿5年拼4胎",
+        "onboard_time": 1733133560,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196850,
+        "num": 196850,
+        "word": "尽量别用手柄过于鲜艳的跳绳",
+        "onboard_time": 1733131639,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 185615,
+        "num": 185615,
+        "word": "教资面试通过率有多高",
+        "onboard_time": 1733129420,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180728,
+        "num": 180728,
+        "word": "肖战入围APMA华语地区最佳男歌手",
+        "onboard_time": 1733135298,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178716,
+        "num": 178716,
+        "word": "超30%开门杀事故引发二次事故",
+        "onboard_time": 1733121078,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171765,
+        "num": 171765,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1733132178,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167525,
+        "num": 167525,
+        "word": "2024年十大流行语",
+        "onboard_time": 1733121557,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160906,
+        "num": 160906,
+        "word": "商家大规模关闭运费险背后",
+        "onboard_time": 1733136199,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150082,
+        "num": 150082,
+        "word": "张馨予在西藏住三个月",
+        "onboard_time": 1733113520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144398,
+        "num": 144398,
+        "word": "叙利亚局势",
+        "onboard_time": 1733134999,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143364,
+        "num": 143364,
+        "word": "吴柳芳说生活要靠自己",
+        "onboard_time": 1733132119,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139451,
+        "num": 139451,
+        "word": "孙颖莎无法实现的座位自由",
+        "onboard_time": 1733134459,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138384,
+        "num": 138384,
+        "word": "医学博士称压力大到有躯体化症状",
+        "onboard_time": 1733133438,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137317,
+        "num": 137317,
+        "word": "ABO溶血是什么",
+        "onboard_time": 1733127738,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134693,
+        "num": 134693,
+        "word": "骄阳似我完颜现偶",
+        "onboard_time": 1733134099,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131252,
+        "num": 131252,
+        "word": "彩虹夫妇妻子吃回奶药",
+        "onboard_time": 1733130740,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130860,
+        "num": 130860,
+        "word": "鞠婧祎月鳞绮纪出妆",
+        "onboard_time": 1733125098,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126072,
+        "num": 126072,
+        "word": "何浩楠第一次上那么高海拔",
+        "onboard_time": 1733136199,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 125662,
+        "num": 125662,
+        "word": "退学的博士生们",
+        "onboard_time": 1733125758,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123103,
+        "num": 123103,
+        "word": "虞书欣丁禹兮海边双人合照",
+        "onboard_time": 1733134639,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122904,
+        "num": 122904,
+        "word": "韩国流行周五下班去中国",
+        "onboard_time": 1733112380,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120577,
+        "num": 120577,
+        "word": "人人网后续恢复时间未知",
+        "onboard_time": 1733135720,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119743,
+        "num": 119743,
+        "word": "梁建章建议取消中高考",
+        "onboard_time": 1733127978,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115754,
+        "num": 115754,
+        "word": "王楚钦说落后是因为太想打出感觉",
+        "onboard_time": 1733133679,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎接共建一带一路更高质量更高水平的新发展#"
+    }
+  }
+}
