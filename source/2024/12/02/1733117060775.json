@@ -1,0 +1,410 @@
+{
+  "runTime": 1733117060775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1670134,
+        "num": 1670134,
+        "word": "韩国流行周五下班去中国",
+        "onboard_time": 1733112380,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1191016,
+        "num": 1191016,
+        "word": "药王谷开诊1个多月15名患者死亡",
+        "onboard_time": 1733110819,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 11866,
+        "num": 1030406,
+        "word": "读懂改革奋进的中国",
+        "onboard_time": 1733116820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1027495,
+        "num": 1027495,
+        "word": "张馨予在西藏住三个月",
+        "onboard_time": 1733113520,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687088,
+        "num": 687088,
+        "word": "教育局回应老师被多名小学生写信投诉",
+        "onboard_time": 1733115079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671217,
+        "num": 671217,
+        "word": "丞磊助理",
+        "onboard_time": 1733113399,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575715,
+        "num": 575715,
+        "word": "网友在小学废弃信箱发现多封投诉信",
+        "onboard_time": 1733112079,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540858,
+        "num": 540858,
+        "word": "姜云升谈陈近南diss周密",
+        "onboard_time": 1733113461,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516060,
+        "num": 516060,
+        "word": "川航一航班因旅客充电宝冒烟备降",
+        "onboard_time": 1733111778,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222844,
+        "num": 504609,
+        "word": "韩国年轻人涌向中国过周末",
+        "onboard_time": 1733116340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497001,
+        "num": 497001,
+        "word": "武艺推荐苏醒参加再见爱人",
+        "onboard_time": 1733113700,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 461123,
+        "num": 461123,
+        "word": "王楚钦vs苏拉瓦朱拉",
+        "onboard_time": 1733113821,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390698,
+        "num": 390698,
+        "word": "猎罪图鉴",
+        "onboard_time": 1733112019,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46800,
+        "num": 364795,
+        "word": "上海深圳11月二手房成交量齐创新高",
+        "onboard_time": 1733115860,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360160,
+        "num": 360160,
+        "word": "泰国坠崖孕妇11月直播14场",
+        "onboard_time": 1733107577,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656636,
+        "num": 355550,
+        "word": "周芯竹 周密",
+        "onboard_time": 1733096897,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341359,
+        "num": 341359,
+        "word": "孙颖莎观战",
+        "onboard_time": 1733115739,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283022,
+        "num": 283022,
+        "word": "麦琳未在李行亮经纪公司持股",
+        "onboard_time": 1733116100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169804,
+        "num": 236450,
+        "word": "宋亚轩白月光vs朱砂痣",
+        "onboard_time": 1733116579,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230038,
+        "num": 230038,
+        "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
+        "onboard_time": 1733113341,
+        "rank": 19,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 61227,
+        "num": 229120,
+        "word": "南极中山国家大气本底监测站建成",
+        "onboard_time": 1733111058,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356878,
+        "num": 228722,
+        "word": "金高银来杭州了",
+        "onboard_time": 1733111659,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 421090,
+        "num": 227281,
+        "word": "周芯竹 高天佐",
+        "onboard_time": 1733103258,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290520,
+        "num": 226921,
+        "word": "刘浩存掌管高马尾的神",
+        "onboard_time": 1733111179,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198832,
+        "num": 226205,
+        "word": "摇光录乱世公主停止更新",
+        "onboard_time": 1733115201,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243757,
+        "num": 224441,
+        "word": "骄阳似我官宣赵今麦宋威龙",
+        "onboard_time": 1733107817,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224378,
+        "num": 224378,
+        "word": "王曼昱球品好人品好",
+        "onboard_time": 1733115020,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211899,
+        "num": 211899,
+        "word": "贾玲撑腰张小斐新剧",
+        "onboard_time": 1733114840,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209712,
+        "num": 209712,
+        "word": "堵车时闯绿灯属违法行为",
+        "onboard_time": 1733104278,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200127,
+        "num": 200127,
+        "word": "研究证明有饥饿感会启动长寿基因",
+        "onboard_time": 1733113520,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138342,
+        "num": 196555,
+        "word": "鞠婧祎对蜜橘们的爱",
+        "onboard_time": 1733115439,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134640,
+        "num": 196455,
+        "word": "男子网恋被骗又扮女性骗另一男子",
+        "onboard_time": 1733114960,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209238,
+        "num": 196445,
+        "word": "张小斐粉丝 姐姐我是你的狗",
+        "onboard_time": 1733114480,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196418,
+        "num": 196418,
+        "word": "周夺笋",
+        "onboard_time": 1733116280,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196124,
+        "num": 196124,
+        "word": "川航回应3U8925航班备降桂林",
+        "onboard_time": 1733109857,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181286,
+        "num": 181286,
+        "word": "泰国坠崖孕妇被指责生意做太大",
+        "onboard_time": 1733067618,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174364,
+        "num": 174364,
+        "word": "iG官宣新阵容剪影",
+        "onboard_time": 1733112319,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171961,
+        "num": 171961,
+        "word": "仅有39.6万人放弃国考",
+        "onboard_time": 1733114601,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171673,
+        "num": 171673,
+        "word": "宋威龙时隔四年再演现偶",
+        "onboard_time": 1733114001,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168913,
+        "num": 168913,
+        "word": "虞书欣丁禹兮幕后打闹",
+        "onboard_time": 1733115380,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164108,
+        "num": 164108,
+        "word": "李行亮12月至少有2个演出计划",
+        "onboard_time": 1733082251,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156222,
+        "num": 156222,
+        "word": "喜剧之王开机",
+        "onboard_time": 1733116878,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155714,
+        "num": 155714,
+        "word": "孟子义首演重生复仇大女主",
+        "onboard_time": 1733112619,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146132,
+        "num": 146132,
+        "word": "麦当劳绝区零联动",
+        "onboard_time": 1733116999,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 160914,
+        "num": 144753,
+        "word": "黑白森林定档",
+        "onboard_time": 1733107277,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141540,
+        "num": 141540,
+        "word": "没想到吃剩的骨头还能这样用",
+        "onboard_time": 1733104278,
+        "rank": 45,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 140005,
+        "num": 140005,
+        "word": "aespa 星际女战士winter",
+        "onboard_time": 1733111719,
+        "rank": 46,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 137619,
+        "num": 137619,
+        "word": "佟大为花期真长",
+        "onboard_time": 1733111959,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134404,
+        "num": 134404,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1733101458,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152594,
+        "num": 134194,
+        "word": "丁禹兮今年第四部剧",
+        "onboard_time": 1733111478,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733114638166,
+  "endTime": 1733117060775,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1027495,
+      "num": 1027495,
+      "word": "张馨予在西藏住三个月",
+      "onboard_time": 1733113520,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1016312,
       "num": 329029,
       "word": "这样使用避孕套是无效操作",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 823403,
-      "num": 343561,
+      "num": 355550,
       "word": "周芯竹 周密",
       "onboard_time": 1733096897,
       "rank": 15,
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 752079,
-      "num": 451827,
-      "word": "张馨予在西藏住三个月",
-      "onboard_time": 1733113520,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 727357,
       "num": 407606,
       "word": "堵车时闯绿灯属违法行为",
@@ -121,6 +121,14 @@
       "onboard_time": 1733113461,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687088,
+      "num": 687088,
+      "word": "教育局回应老师被多名小学生写信投诉",
+      "onboard_time": 1733115079,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 673381,
@@ -153,6 +161,14 @@
       "onboard_time": 1733087351,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 575715,
+      "num": 575715,
+      "word": "网友在小学废弃信箱发现多封投诉信",
+      "onboard_time": 1733112079,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 571458,
@@ -203,6 +219,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 516060,
+      "num": 516060,
+      "word": "川航一航班因旅客充电宝冒烟备降",
+      "onboard_time": 1733111778,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497001,
+      "num": 497001,
+      "word": "武艺推荐苏醒参加再见爱人",
+      "onboard_time": 1733113700,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496714,
       "num": 496714,
       "word": "骄阳似我官宣赵今麦宋威龙",
@@ -225,6 +257,14 @@
       "onboard_time": 1733101279,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461123,
+      "num": 461123,
+      "word": "王楚钦vs苏拉瓦朱拉",
+      "onboard_time": 1733113821,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 459425,
@@ -323,12 +363,12 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 332918,
-      "num": 332918,
-      "word": "网友在小学废弃信箱发现多封投诉信",
-      "onboard_time": 1733112079,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 341359,
+      "num": 341359,
+      "word": "孙颖莎观战",
+      "onboard_time": 1733115739,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 326632,
@@ -353,22 +393,6 @@
       "onboard_time": 1733107337,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 313831,
-      "num": 313831,
-      "word": "王楚钦vs苏拉瓦朱拉",
-      "onboard_time": 1733113821,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 311384,
-      "num": 310691,
-      "word": "武艺推荐苏醒参加再见爱人",
-      "onboard_time": 1733113700,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 310376,
@@ -427,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283022,
+      "num": 283022,
+      "word": "麦琳未在李行亮经纪公司持股",
+      "onboard_time": 1733116100,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282168,
       "num": 317721,
       "word": "4种体质的女性易患多囊",
@@ -449,14 +481,6 @@
       "onboard_time": 1733111959,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272780,
-      "num": 272780,
-      "word": "川航一航班因旅客充电宝冒烟备降",
-      "onboard_time": 1733111778,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271626,
@@ -555,12 +579,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 230038,
+      "num": 234931,
+      "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
+      "onboard_time": 1733113341,
+      "rank": 41,
+      "category": "网红,体育"
+    },
+    {
       "raw_hot": 227552,
       "num": 227552,
       "word": "因穷写网文写成茅盾奖",
       "onboard_time": 1733108838,
       "rank": 47,
       "category": "读书作家,教育"
+    },
+    {
+      "raw_hot": 224378,
+      "num": 224378,
+      "word": "王曼昱球品好人品好",
+      "onboard_time": 1733115020,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222844,
+      "num": 504609,
+      "word": "韩国年轻人涌向中国过周末",
+      "onboard_time": 1733116340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219009,
@@ -595,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211899,
+      "num": 211899,
+      "word": "贾玲撑腰张小斐新剧",
+      "onboard_time": 1733114840,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209559,
       "num": 209559,
       "word": "重庆棒棒父子14年后重返故地",
       "onboard_time": 1733099717,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209238,
+      "num": 238927,
+      "word": "张小斐粉丝 姐姐我是你的狗",
+      "onboard_time": 1733114480,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 208716,
@@ -648,6 +712,30 @@
       "word": "丁禹兮今天喝奶茶啦",
       "onboard_time": 1733068398,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200127,
+      "num": 340345,
+      "word": "研究证明有饥饿感会启动长寿基因",
+      "onboard_time": 1733113520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198832,
+      "num": 226205,
+      "word": "摇光录乱世公主停止更新",
+      "onboard_time": 1733115201,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196418,
+      "num": 196418,
+      "word": "周夺笋",
+      "onboard_time": 1733116280,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -731,6 +819,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 171961,
+      "num": 273675,
+      "word": "仅有39.6万人放弃国考",
+      "onboard_time": 1733114601,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171372,
       "num": 195395,
       "word": "姜云升直播",
@@ -739,12 +835,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167591,
-      "num": 234931,
-      "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
-      "onboard_time": 1733113341,
-      "rank": 41,
-      "category": "网红,体育"
+      "raw_hot": 169804,
+      "num": 236450,
+      "word": "宋亚轩白月光vs朱砂痣",
+      "onboard_time": 1733116579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168913,
+      "num": 168913,
+      "word": "虞书欣丁禹兮幕后打闹",
+      "onboard_time": 1733115380,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 166035,
@@ -803,6 +907,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 156222,
+      "num": 156222,
+      "word": "喜剧之王开机",
+      "onboard_time": 1733116878,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154638,
       "num": 154638,
       "word": "女子试驾冲进4S店致多车受损",
@@ -819,20 +931,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153519,
-      "num": 340345,
-      "word": "研究证明有饥饿感会启动长寿基因",
-      "onboard_time": 1733113520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152683,
       "num": 152683,
       "word": "女子10件旧羽绒服爆改1床羽绒被",
       "onboard_time": 1733087231,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146132,
+      "num": 146132,
+      "word": "麦当劳绝区零联动",
+      "onboard_time": 1733116999,
+      "rank": 43,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 145959,
@@ -907,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140005,
+      "num": 140005,
+      "word": "aespa 星际女战士winter",
+      "onboard_time": 1733111719,
+      "rank": 46,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 139637,
       "num": 139637,
       "word": "李昊 歌声飘送千千里",
@@ -931,6 +1051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 138342,
+      "num": 196555,
+      "word": "鞠婧祎对蜜橘们的爱",
+      "onboard_time": 1733115439,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138203,
       "num": 108831,
       "word": "蒋敦豪交给时间解答",
@@ -947,20 +1075,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134640,
+      "num": 196455,
+      "word": "男子网恋被骗又扮女性骗另一男子",
+      "onboard_time": 1733114960,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133803,
       "num": 133803,
       "word": "被88岁爷爷的时尚感硬控了",
       "onboard_time": 1733109979,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 133742,
-      "num": 238927,
-      "word": "张小斐粉丝 姐姐我是你的狗",
-      "onboard_time": 1733114480,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 133162,
@@ -1475,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46800,
+      "num": 364795,
+      "word": "上海深圳11月二手房成交量齐创新高",
+      "onboard_time": 1733115860,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43216,
       "num": 767105,
       "word": "这样的文物戏精亮了",
@@ -1577,14 +1713,6 @@
       "onboard_time": 1733084531,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 26808,
-      "num": 273675,
-      "word": "仅有39.6万人放弃国考",
-      "onboard_time": 1733114601,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 26460,
@@ -1721,6 +1849,14 @@
       "onboard_time": 1733084769,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11866,
+      "num": 1030406,
+      "word": "读懂改革奋进的中国",
+      "onboard_time": 1733116820,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11390,
