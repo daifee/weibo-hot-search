@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733131646637,
+  "endTime": 1733132466699,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1405039,
-      "num": 1405039,
+      "raw_hot": 1507246,
+      "num": 1507246,
       "word": "有人用运费险8个月骗取100多万",
       "onboard_time": 1733128278,
       "rank": 44,
@@ -209,6 +209,14 @@
       "onboard_time": 1733113461,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684651,
+      "num": 684651,
+      "word": "清华大学通报一学生在外校与人冲突",
+      "onboard_time": 1733129839,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 673381,
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479155,
+      "num": 479155,
+      "word": "人人网已停止服务",
+      "onboard_time": 1733130020,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 471253,
       "num": 471253,
       "word": "吴柳芳为何被普遍支持",
@@ -433,14 +449,6 @@
       "onboard_time": 1733112019,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 455456,
-      "num": 455456,
-      "word": "人人网已停止服务",
-      "onboard_time": 1733130020,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 454677,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377233,
+      "num": 377233,
+      "word": "孙颖莎安排小孩哥捡球",
+      "onboard_time": 1733130858,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369516,
       "num": 369516,
       "word": "刘浩存掌管高马尾的神",
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 328262,
-      "num": 218641,
+      "num": 228593,
       "word": "刚考完就知道成绩了",
       "onboard_time": 1733128099,
       "rank": 38,
@@ -811,14 +827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 254484,
-      "num": 254484,
-      "word": "清华大学通报一学生在外校与人冲突",
-      "onboard_time": 1733129839,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253895,
       "num": 253895,
       "word": "大爷哪天出现哪天就是快乐星期几",
@@ -899,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233644,
+      "num": 234052,
+      "word": "彩虹夫妇妻子吃回奶药",
+      "onboard_time": 1733130740,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 232914,
       "num": 223174,
       "word": "宋威龙赵今麦按姓氏首字母排序",
@@ -937,14 +953,6 @@
       "onboard_time": 1733108838,
       "rank": 47,
       "category": "读书作家,教育"
-    },
-    {
-      "raw_hot": 225010,
-      "num": 234052,
-      "word": "彩虹夫妇妻子吃回奶药",
-      "onboard_time": 1733130740,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 224378,
@@ -1443,12 +1451,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151472,
+      "num": 320999,
+      "word": "吴柳芳说生活要靠自己",
+      "onboard_time": 1733132119,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150943,
+      "num": 221398,
+      "word": "清华学生在外校与人发生冲突被处分",
+      "onboard_time": 1733132299,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150845,
       "num": 1057352,
       "word": "公安部网安局提醒警惕银狐病毒",
       "onboard_time": 1733129659,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150790,
+      "num": 219718,
+      "word": "CUBE官宣gidle续约",
+      "onboard_time": 1733130919,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 150569,
@@ -1467,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149356,
-      "num": 219718,
-      "word": "CUBE官宣gidle续约",
-      "onboard_time": 1733130919,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148848,
       "num": 148848,
       "word": "盗版麦琳杨子连麦",
@@ -1491,6 +1515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146674,
+      "num": 146674,
+      "word": "尽量别用手柄过于鲜艳的跳绳",
+      "onboard_time": 1733131639,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 146132,
       "num": 146132,
       "word": "麦当劳绝区零联动",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1733098218,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145803,
+      "num": 145803,
+      "word": "有你们才有中国温度",
+      "onboard_time": 1733132359,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 145510,
@@ -1651,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137250,
+      "num": 137250,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1733132178,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135069,
       "num": 207773,
       "word": "65万拎包入住上海181平精装房是真的吗",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1733123058,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131190,
+      "num": 131190,
+      "word": "辛芷蕾到杭州了",
+      "onboard_time": 1733132119,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 130334,
@@ -1995,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94884,
+      "num": 321224,
+      "word": "多地陆续上调首套房贷利率",
+      "onboard_time": 1733131700,
+      "rank": 13,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 94339,
       "num": 415081,
       "word": "湖南一村庄酒席流行一斤肉价随礼",
@@ -2059,14 +2123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 85681,
-      "num": 310796,
-      "word": "孙颖莎安排小孩哥捡球",
-      "onboard_time": 1733130858,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83568,
       "num": 82791,
       "word": "陈哲远举125公斤杠铃",
@@ -2081,6 +2137,14 @@
       "onboard_time": 1733060840,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79329,
+      "num": 447084,
+      "word": "县城商圈品牌都是复制粘贴",
+      "onboard_time": 1733130379,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78793,
@@ -2121,14 +2185,6 @@
       "onboard_time": 1733069598,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72191,
-      "num": 447084,
-      "word": "县城商圈品牌都是复制粘贴",
-      "onboard_time": 1733130379,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70510,
@@ -2273,6 +2329,14 @@
       "onboard_time": 1733049440,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 60664,
+      "num": 216667,
+      "word": "苏翊鸣肩膀受伤正处于恢复阶段",
+      "onboard_time": 1733131881,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 60560,
@@ -2563,6 +2627,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29700,
+      "num": 915426,
+      "word": "山东手造儒风新韵",
+      "onboard_time": 1733129299,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26848,
+      "num": 248402,
+      "word": "杨幂的享界S9怎么开都有面",
+      "onboard_time": 1733128459,
+      "rank": 39,
+      "category": "作品衍生,汽车"
+    },
+    {
       "raw_hot": 26778,
       "num": 1035324,
       "word": "读懂改革奋进的中国",
@@ -2617,14 +2697,6 @@
       "onboard_time": 1733073793,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23796,
-      "num": 248402,
-      "word": "杨幂的享界S9怎么开都有面",
-      "onboard_time": 1733128459,
-      "rank": 39,
-      "category": "作品衍生,汽车"
     },
     {
       "raw_hot": 23581,
