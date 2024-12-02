@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733167190701,
+  "endTime": 1733168167887,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -6707,6 +6707,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 38234,
+      "num": 38234,
+      "word": "川航通报因旅客的充电宝冒烟备降桂林",
+      "onboard_time": 1733165171,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38225,
       "num": 44406,
       "word": "2024最后30天请你好好爱自己",
@@ -7515,14 +7523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15445,
-      "num": 24054,
-      "word": "川航通报因旅客的充电宝冒烟备降桂林",
-      "onboard_time": 1733165171,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15037,
       "num": 105212,
       "word": "这个娄子建议多捅几次",
@@ -7536,6 +7536,14 @@
       "word": "四川雅江3.4级地震",
       "onboard_time": 1733165232,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14450,
+      "num": 20182,
+      "word": "广东宣布入秋",
+      "onboard_time": 1733166432,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -7579,14 +7587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13099,
-      "num": 20182,
-      "word": "广东宣布入秋",
-      "onboard_time": 1733166432,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13058,
       "num": 373149,
       "word": "好运家情感观察直播室",
@@ -7601,6 +7601,14 @@
       "onboard_time": 1733047459,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12530,
+      "num": 12530,
+      "word": "53秒了解中俄东线天然气管道",
+      "onboard_time": 1733167691,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12466,
@@ -7681,6 +7689,14 @@
       "onboard_time": 1733138118,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9032,
+      "num": 24975,
+      "word": "张艺谋蹲着给妻子拍照",
+      "onboard_time": 1733167090,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 8318,
@@ -7787,6 +7803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 6442,
+      "num": 20125,
+      "word": "苏新皓橙色的小苏大放送",
+      "onboard_time": 1733166792,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6355,
       "num": 24982,
       "word": "刘耀文发了一条上班花絮",
@@ -7811,27 +7835,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5889,
-      "num": 21635,
-      "word": "张艺谋蹲着给妻子拍照",
-      "onboard_time": 1733167090,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 5863,
       "num": 17613,
       "word": "王一珩12月碎片",
       "onboard_time": 1733085371,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 5795,
-      "num": 20125,
-      "word": "苏新皓橙色的小苏大放送",
-      "onboard_time": 1733166792,
-      "rank": 30,
       "category": "艺人"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733167190701,
+  "endTime": 1733168167887,
   "band_list": [
     {
       "raw_hot": 1660737,
@@ -443,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38234,
+      "num": 38234,
+      "word": "川航通报因旅客的充电宝冒烟备降桂林",
+      "onboard_time": 1733165171,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38129,
       "num": 57737,
       "word": "新一疑似内涵Uzi",
@@ -587,14 +595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15445,
-      "num": 24054,
-      "word": "川航通报因旅客的充电宝冒烟备降桂林",
-      "onboard_time": 1733165171,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15163,
       "num": 228560,
       "word": "数说我国首条世界级天然气管道",
@@ -611,12 +611,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13099,
+      "raw_hot": 14450,
       "num": 20182,
       "word": "广东宣布入秋",
       "onboard_time": 1733166432,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12530,
+      "num": 12530,
+      "word": "53秒了解中俄东线天然气管道",
+      "onboard_time": 1733167691,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9032,
+      "num": 24975,
+      "word": "张艺谋蹲着给妻子拍照",
+      "onboard_time": 1733167090,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 8318,
@@ -627,15 +643,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5889,
-      "num": 21635,
-      "word": "张艺谋蹲着给妻子拍照",
-      "onboard_time": 1733167090,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 5795,
+      "raw_hot": 6442,
       "num": 20125,
       "word": "苏新皓橙色的小苏大放送",
       "onboard_time": 1733166792,
