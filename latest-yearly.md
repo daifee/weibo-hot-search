@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/12/02 19:20:43
+本榜单时间：2024/01/01 00:21:05 ~ 2024/12/02 19:36:08
 </p>
 </blockquote>
 <p>
@@ -557,6 +557,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E5%87%BA%E4%BA%9A%E9%94%A6%E8%B5%9B%23" target="weibo">
 孙颖莎退出亚锦赛（热度：13027302）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E7%BB%93%E5%A9%9A%23" target="weibo">
+黄子韬徐艺洋结婚（热度：13022974）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%88%A0%E4%BA%86%E5%AE%A3%E4%BC%A0%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B0%E5%89%A7%E5%BE%AE%E5%8D%9A%23" target="weibo">
 鹿晗删了宣传关晓彤新剧微博（热度：7974172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23" target="weibo">
-中国女排vs美国女排（热度：7962979）
 </a>
 </li>
 

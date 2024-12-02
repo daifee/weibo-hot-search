@@ -1,7 +1,15 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733138443484,
+  "endTime": 1733139368886,
   "band_list": [
+    {
+      "raw_hot": 13022974,
+      "num": 13022974,
+      "word": "黄子韬徐艺洋结婚",
+      "onboard_time": 1733138724,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4687951,
       "num": 4687951,
@@ -315,8 +323,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 984215,
-      "num": 456306,
+      "raw_hot": 984864,
+      "num": 984864,
       "word": "前体操冠军张宏涛回应擦边争议",
       "onboard_time": 1733134099,
       "rank": 22,
@@ -675,6 +683,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 602561,
+      "num": 602561,
+      "word": "Pest发歌diss周密",
+      "onboard_time": 1733136678,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 593523,
       "num": 593523,
       "word": "向佐女装撞脸张予曦",
@@ -809,14 +825,6 @@
       "onboard_time": 1733121139,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 536952,
-      "num": 536952,
-      "word": "Pest发歌diss周密",
-      "onboard_time": 1733136678,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 530631,
@@ -1235,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386118,
+      "num": 386118,
+      "word": "一教培机构20多人趴地上迎接领导",
+      "onboard_time": 1733138239,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384674,
       "num": 384674,
       "word": "成都混团开幕式",
@@ -1307,6 +1323,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 356483,
+      "num": 356483,
+      "word": "商家大规模关闭运费险背后",
+      "onboard_time": 1733136199,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355499,
       "num": 355499,
       "word": "管晨辰已停更2周",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1733121018,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344431,
+      "num": 268423,
+      "word": "网易云音乐崩了",
+      "onboard_time": 1733137520,
+      "rank": 13,
+      "category": "互联网,音乐"
     },
     {
       "raw_hot": 341870,
@@ -1443,14 +1475,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 323381,
-      "num": 323381,
-      "word": "商家大规模关闭运费险背后",
-      "onboard_time": 1733136199,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320409,
       "num": 236781,
       "word": "老人摔倒瞬间大哥滑铲接住头部",
@@ -1465,14 +1489,6 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310628,
-      "num": 262080,
-      "word": "网易云音乐崩了",
-      "onboard_time": 1733137520,
-      "rank": 13,
-      "category": "互联网,音乐"
     },
     {
       "raw_hot": 307526,
@@ -1643,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277294,
+      "num": 277294,
+      "word": "其他rapper提起周密欲言又止",
+      "onboard_time": 1733132959,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277096,
       "num": 306249,
       "word": "鹿晗直播预测",
@@ -1723,20 +1747,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 267369,
+      "num": 267369,
+      "word": "王楚钦说落后是因为太想打出感觉",
+      "onboard_time": 1733133679,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267219,
       "num": 365664,
       "word": "江苏有个广场舞场地自带BGM结界",
       "onboard_time": 1733060119,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266646,
-      "num": 272182,
-      "word": "其他rapper提起周密欲言又止",
-      "onboard_time": 1733132959,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 264058,
@@ -1883,8 +1907,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 246067,
-      "num": 246067,
+      "raw_hot": 246741,
+      "num": 246741,
       "word": "2岁孩子将电池放嘴里咬发生爆炸",
       "onboard_time": 1733136918,
       "rank": 21,
@@ -1945,14 +1969,6 @@
       "onboard_time": 1733045481,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 235916,
-      "num": 235916,
-      "word": "王楚钦说落后是因为太想打出感觉",
-      "onboard_time": 1733133679,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 234263,
@@ -2051,6 +2067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 224987,
+      "num": 224987,
+      "word": "苏醒回应武艺推荐他参加再见爱人",
+      "onboard_time": 1733138420,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224395,
       "num": 224395,
       "word": "导致胃癌的高危因素",
@@ -2107,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217886,
+      "num": 204106,
+      "word": "杭州到达好多明星",
+      "onboard_time": 1733135958,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 217640,
       "num": 403300,
       "word": "接触艾滋病毒后有72小时能自救",
@@ -2132,7 +2164,7 @@
     },
     {
       "raw_hot": 217031,
-      "num": 256805,
+      "num": 266000,
       "word": "肖战方取证维权",
       "onboard_time": 1733135119,
       "rank": 35,
@@ -2291,6 +2323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 206464,
+      "num": 206464,
+      "word": "韩国旅行社用中国美食吸引年轻人",
+      "onboard_time": 1733137999,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205647,
       "num": 173297,
       "word": "王楚钦赛后谈混双男单区别",
@@ -2369,6 +2409,14 @@
       "onboard_time": 1733120299,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203060,
+      "num": 203060,
+      "word": "Tian晒奖杯",
+      "onboard_time": 1733137819,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 202693,
@@ -2619,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189451,
+      "num": 254415,
+      "word": "今年尖叫之夜有吃的",
+      "onboard_time": 1733138659,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189257,
       "num": 189257,
       "word": "莎局来看比赛了",
@@ -2723,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184633,
+      "num": 184633,
+      "word": "韦神谈TheShy狼母操作不行",
+      "onboard_time": 1733138538,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183884,
       "num": 213472,
       "word": "上海92平米的迷你法式小别墅",
@@ -2811,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176850,
+      "num": 176850,
+      "word": "导师看到我的论文查重率是0%时",
+      "onboard_time": 1733138844,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176443,
       "num": 512897,
       "word": "70万一针救命药进医保改写男童人生",
@@ -2859,14 +2931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171803,
-      "num": 171803,
-      "word": "Tian晒奖杯",
-      "onboard_time": 1733137819,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 171765,
       "num": 171765,
       "word": "陷入我们的热恋",
@@ -2913,14 +2977,6 @@
       "onboard_time": 1733056878,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170265,
-      "num": 170265,
-      "word": "杭州到达好多明星",
-      "onboard_time": 1733135958,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 169988,
@@ -3411,6 +3467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150010,
+      "num": 150010,
+      "word": "华晨宇炸毛",
+      "onboard_time": 1733139205,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149940,
       "num": 176190,
       "word": "惠英红拉二胡宣传张小斐新剧",
@@ -3441,14 +3505,6 @@
       "onboard_time": 1733131399,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 147652,
-      "num": 147652,
-      "word": "一教培机构20多人趴地上迎接领导",
-      "onboard_time": 1733138239,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146462,
@@ -3979,14 +4035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129538,
-      "num": 129538,
-      "word": "韩国旅行社用中国美食吸引年轻人",
-      "onboard_time": 1733137999,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 128905,
       "num": 135761,
       "word": "金瀚真去航海了",
@@ -4208,14 +4256,6 @@
       "word": "GFriend重组回归",
       "onboard_time": 1733101279,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 121462,
-      "num": 121462,
-      "word": "苏醒回应武艺推荐他参加再见爱人",
-      "onboard_time": 1733138420,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -4771,6 +4811,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 94609,
+      "num": 651071,
+      "word": "我国冰雪产业规模或将突破万亿元",
+      "onboard_time": 1733129057,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94592,
       "num": 94592,
       "word": "突然发现考公的人越来越多",
@@ -4955,14 +5003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82849,
-      "num": 651071,
-      "word": "我国冰雪产业规模或将突破万亿元",
-      "onboard_time": 1733129057,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82605,
       "num": 248148,
       "word": "白夜破晓评论区炸蚂蚱",
@@ -5001,6 +5041,14 @@
       "onboard_time": 1732968259,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 81150,
+      "num": 275337,
+      "word": "开车前一个小动作或挽救一条小生命",
+      "onboard_time": 1733137399,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 80874,
@@ -5187,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71986,
+      "num": 263454,
+      "word": "失恋买醉后跟警察要微信",
+      "onboard_time": 1733137819,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71800,
       "num": 227829,
       "word": "医生科普如何降低艾滋病感染风险",
@@ -5275,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65807,
+      "num": 259868,
+      "word": "山东青岛发布妈妈岗用人目录",
+      "onboard_time": 1733137399,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65536,
       "num": 198064,
       "word": "傅首尔回应社交账号几乎停更",
@@ -5305,6 +5369,22 @@
       "onboard_time": 1733111179,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64143,
+      "num": 261280,
+      "word": "以畸形婚恋观赚流量终被反噬",
+      "onboard_time": 1733138479,
+      "rank": 19,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 63609,
+      "num": 232910,
+      "word": "蜀锦人家看个热闹",
+      "onboard_time": 1733137520,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 63091,
@@ -5579,22 +5659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48167,
-      "num": 259868,
-      "word": "山东青岛发布妈妈岗用人目录",
-      "onboard_time": 1733137399,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48090,
-      "num": 275337,
-      "word": "开车前一个小动作或挽救一条小生命",
-      "onboard_time": 1733137399,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 47605,
       "num": 84001,
       "word": "美团骑手月均收入5720至10865元",
@@ -5715,14 +5779,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 40688,
-      "num": 247976,
-      "word": "失恋买醉后跟警察要微信",
-      "onboard_time": 1733137819,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40528,
       "num": 40528,
       "word": "西汉姆联2比5阿森纳",
@@ -5836,7 +5892,7 @@
     },
     {
       "raw_hot": 37706,
-      "num": 172461,
+      "num": 272819,
       "word": "荣耀300发布会",
       "onboard_time": 1733137819,
       "rank": 29,
@@ -5915,6 +5971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32764,
+      "num": 225085,
+      "word": "小区改造危房业主家被封后未获安置",
+      "onboard_time": 1733138784,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32448,
       "num": 96671,
       "word": "jlpt",
@@ -5937,6 +6001,14 @@
       "onboard_time": 1733073853,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32086,
+      "num": 276785,
+      "word": "很久没看到这样老实破案的刑侦剧了",
+      "onboard_time": 1733139265,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 31985,
@@ -5996,7 +6068,7 @@
     },
     {
       "raw_hot": 29700,
-      "num": 915426,
+      "num": 1002262,
       "word": "山东手造儒风新韵",
       "onboard_time": 1733129299,
       "rank": 2,
@@ -6033,6 +6105,14 @@
       "onboard_time": 1733038818,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28373,
+      "num": 225672,
+      "word": "媒体评网红涌向联合国开会",
+      "onboard_time": 1733138598,
+      "rank": 28,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 28348,
@@ -6211,6 +6291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21750,
+      "num": 194485,
+      "word": "荣耀300Ai旅拍神器",
+      "onboard_time": 1733138118,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 21638,
       "num": 21638,
       "word": "叙反对派武装称进入阿勒颇市中心地带",
@@ -6345,14 +6433,6 @@
       "onboard_time": 1733081050,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16064,
-      "num": 131599,
-      "word": "荣耀300Ai旅拍神器",
-      "onboard_time": 1733138118,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 16029,
@@ -6507,6 +6587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9405,
+      "num": 247914,
+      "word": "快船主场致敬威少",
+      "onboard_time": 1733138118,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8177,
       "num": 80995,
       "word": "鹭卓记录11月的照片",
@@ -6585,14 +6673,6 @@
       "onboard_time": 1733087590,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6692,
-      "num": 228970,
-      "word": "快船主场致敬威少",
-      "onboard_time": 1733138118,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 6605,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1733139368886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13022974,
+        "num": 13022974,
+        "word": "黄子韬徐艺洋结婚",
+        "onboard_time": 1733138724,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1036101,
+        "num": 1036101,
+        "word": "有人用运费险8个月骗取100多万",
+        "onboard_time": 1733128278,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 11941,
+        "num": 1002262,
+        "word": "山东手造儒风新韵",
+        "onboard_time": 1733129299,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984864,
+        "num": 984864,
+        "word": "前体操冠军张宏涛回应擦边争议",
+        "onboard_time": 1733134099,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602561,
+        "num": 602561,
+        "word": "Pest发歌diss周密",
+        "onboard_time": 1733136678,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386118,
+        "num": 386118,
+        "word": "一教培机构20多人趴地上迎接领导",
+        "onboard_time": 1733138239,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356483,
+        "num": 356483,
+        "word": "商家大规模关闭运费险背后",
+        "onboard_time": 1733136199,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316042,
+        "num": 316042,
+        "word": "韩国赴华订单暴增上海成大热门",
+        "onboard_time": 1733134519,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 277294,
+        "num": 277294,
+        "word": "其他rapper提起周密欲言又止",
+        "onboard_time": 1733132959,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32086,
+        "num": 276785,
+        "word": "很久没看到这样老实破案的刑侦剧了",
+        "onboard_time": 1733139265,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 991306,
+        "num": 274878,
+        "word": "Angelababy染发了",
+        "onboard_time": 1733127920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595752,
+        "num": 273210,
+        "word": "金泰亨的小狗金碳去世",
+        "onboard_time": 1733132900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29119,
+        "num": 272819,
+        "word": "荣耀300发布会",
+        "onboard_time": 1733137819,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 463051,
+        "num": 270947,
+        "word": "鞠婧祎再演恶女",
+        "onboard_time": 1733132539,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369426,
+        "num": 270022,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 344431,
+        "num": 268423,
+        "word": "网易云音乐崩了",
+        "onboard_time": 1733137520,
+        "rank": 15,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 267369,
+        "num": 267369,
+        "word": "王楚钦说落后是因为太想打出感觉",
+        "onboard_time": 1733133679,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214417,
+        "num": 266000,
+        "word": "肖战方取证维权",
+        "onboard_time": 1733135119,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71986,
+        "num": 263454,
+        "word": "失恋买醉后跟警察要微信",
+        "onboard_time": 1733137819,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64143,
+        "num": 261280,
+        "word": "以畸形婚恋观赚流量终被反噬",
+        "onboard_time": 1733138479,
+        "rank": 19,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1096817,
+        "num": 256648,
+        "word": "丑老公",
+        "onboard_time": 1733129239,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189451,
+        "num": 254415,
+        "word": "今年尖叫之夜有吃的",
+        "onboard_time": 1733138659,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81150,
+        "num": 251509,
+        "word": "开车前一个小动作或挽救一条小生命",
+        "onboard_time": 1733137399,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 251126,
+        "num": 251126,
+        "word": "青菜炒泥蛋",
+        "onboard_time": 1733127258,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 9405,
+        "num": 247914,
+        "word": "快船主场致敬威少",
+        "onboard_time": 1733138118,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246741,
+        "num": 246741,
+        "word": "2岁孩子将电池放嘴里咬发生爆炸",
+        "onboard_time": 1733136918,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242471,
+        "num": 242471,
+        "word": "豪士1批次面包霉菌超标近6倍",
+        "onboard_time": 1733120959,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63609,
+        "num": 232910,
+        "word": "蜀锦人家看个热闹",
+        "onboard_time": 1733137520,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28373,
+        "num": 225672,
+        "word": "媒体评网红涌向联合国开会",
+        "onboard_time": 1733138598,
+        "rank": 28,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 32764,
+        "num": 225085,
+        "word": "小区改造危房业主家被封后未获安置",
+        "onboard_time": 1733138784,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224987,
+        "num": 224987,
+        "word": "苏醒回应武艺推荐他参加再见爱人",
+        "onboard_time": 1733138420,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206464,
+        "num": 206464,
+        "word": "韩国旅行社用中国美食吸引年轻人",
+        "onboard_time": 1733137999,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 229709,
+        "num": 204815,
+        "word": "芒果做声生不息的意义",
+        "onboard_time": 1733134578,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217886,
+        "num": 204106,
+        "word": "杭州到达好多明星",
+        "onboard_time": 1733135958,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 203060,
+        "num": 203060,
+        "word": "Tian晒奖杯",
+        "onboard_time": 1733137819,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65807,
+        "num": 202053,
+        "word": "山东青岛发布妈妈岗用人目录",
+        "onboard_time": 1733137399,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201607,
+        "num": 201607,
+        "word": "小伙相亲5年娶了个洋媳妇",
+        "onboard_time": 1733120480,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197170,
+        "num": 197170,
+        "word": "宋慧乔裴秀智庆生合照",
+        "onboard_time": 1733129960,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21750,
+        "num": 194485,
+        "word": "荣耀300Ai旅拍神器",
+        "onboard_time": 1733138118,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193021,
+        "num": 193021,
+        "word": "中方回应立陶宛要求我外交人员限期离境",
+        "onboard_time": 1733122758,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188841,
+        "num": 188841,
+        "word": "周密爆料为周芯竹成立的公司已注销",
+        "onboard_time": 1733119099,
+        "rank": 40,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 188402,
+        "num": 188402,
+        "word": "吴柳芳曾参加很多公益支教活动",
+        "onboard_time": 1733135298,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184633,
+        "num": 184633,
+        "word": "韦神谈TheShy狼母操作不行",
+        "onboard_time": 1733138538,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176850,
+        "num": 176850,
+        "word": "导师看到我的论文查重率是0%时",
+        "onboard_time": 1733138844,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94609,
+        "num": 174495,
+        "word": "我国冰雪产业规模或将突破万亿元",
+        "onboard_time": 1733129057,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174328,
+        "num": 174328,
+        "word": "人人网已停止服务",
+        "onboard_time": 1733130020,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164676,
+        "num": 164676,
+        "word": "刚考完就知道成绩了",
+        "onboard_time": 1733128099,
+        "rank": 46,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 162544,
+        "num": 162544,
+        "word": "2024年十大流行语",
+        "onboard_time": 1733121557,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150010,
+        "num": 150010,
+        "word": "华晨宇炸毛",
+        "onboard_time": 1733139205,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149631,
+        "num": 149631,
+        "word": "孙颖莎无法实现的座位自由",
+        "onboard_time": 1733134459,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎接共建一带一路更高质量更高水平的新发展#"
+    }
+  }
+}
