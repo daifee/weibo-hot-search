@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733128338036,
+  "endTime": 1733129169473,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -137,6 +137,14 @@
       "onboard_time": 1733023578,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1345372,
+      "num": 648274,
+      "word": "Angelababy染发了",
+      "onboard_time": 1733127920,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1332323,
@@ -763,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508702,
+      "num": 508702,
+      "word": "男子自称烟草局主管安排入职需陪睡",
+      "onboard_time": 1733125638,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504383,
       "num": 504383,
       "word": "麦琳未在李行亮经纪公司持股",
@@ -835,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480574,
-      "num": 480574,
-      "word": "Angelababy染发了",
-      "onboard_time": 1733127920,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 479689,
       "num": 479689,
       "word": "学信网发了永夜星河",
@@ -881,6 +889,14 @@
       "onboard_time": 1733057358,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 463945,
+      "num": 463945,
+      "word": "青菜炒泥蛋",
+      "onboard_time": 1733127258,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 463319,
@@ -1003,6 +1019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 440221,
+      "num": 440221,
+      "word": "退学的博士生们",
+      "onboard_time": 1733125758,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437313,
       "num": 437313,
       "word": "四大扛剧女演员",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1733025319,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 415438,
-      "num": 415438,
-      "word": "男子自称烟草局主管安排入职需陪睡",
-      "onboard_time": 1733125638,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 415337,
@@ -1251,12 +1267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341870,
+      "num": 391185,
+      "word": "男子向别国提供我国家秘密换绿卡",
+      "onboard_time": 1733125398,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341359,
       "num": 341359,
       "word": "孙颖莎观战",
       "onboard_time": 1733115739,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339083,
+      "num": 339083,
+      "word": "有人用运费险8个月骗取100多万",
+      "onboard_time": 1733128278,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 335382,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1733116878,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 331668,
-      "num": 331668,
-      "word": "男子向别国提供我国家秘密换绿卡",
-      "onboard_time": 1733125398,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 328364,
@@ -1339,14 +1363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312855,
-      "num": 395021,
-      "word": "退学的博士生们",
-      "onboard_time": 1733125758,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307526,
       "num": 635617,
       "word": "国乒vs澳大利亚",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1733037738,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303913,
+      "num": 303913,
+      "word": "秦彻日卡双登顶",
+      "onboard_time": 1733128158,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 303327,
@@ -1508,7 +1532,7 @@
     },
     {
       "raw_hot": 277096,
-      "num": 300691,
+      "num": 306249,
       "word": "鹿晗直播预测",
       "onboard_time": 1733123599,
       "rank": 30,
@@ -1705,14 +1729,6 @@
       "onboard_time": 1733116280,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252303,
-      "num": 323968,
-      "word": "青菜炒泥蛋",
-      "onboard_time": 1733127258,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 252248,
@@ -2099,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205276,
+      "num": 205276,
+      "word": "ABO溶血是什么",
+      "onboard_time": 1733127738,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 204229,
       "num": 204229,
       "word": "T1输给越南队",
@@ -2195,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200102,
+      "num": 200102,
+      "word": "刚考完就知道成绩了",
+      "onboard_time": 1733128099,
+      "rank": 38,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 198832,
       "num": 226205,
       "word": "摇光录乱世公主停止更新",
@@ -2227,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196600,
+      "num": 196600,
+      "word": "名下关联了多少账号可速查",
+      "onboard_time": 1733127978,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196303,
       "num": 350410,
       "word": "纪委突击检查工作人员经催促才到岗",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1733014517,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195451,
+      "num": 343379,
+      "word": "梁建章建议取消中高考",
+      "onboard_time": 1733127978,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 194786,
@@ -2491,14 +2539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181038,
-      "num": 181038,
-      "word": "名下关联了多少账号可速查",
-      "onboard_time": 1733127978,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179631,
       "num": 179631,
       "word": "男子称买酒后扫码跳出色情网站",
@@ -2555,14 +2595,6 @@
       "category": "民生新闻,正能量"
     },
     {
-      "raw_hot": 176425,
-      "num": 176425,
-      "word": "ABO溶血是什么",
-      "onboard_time": 1733127738,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 175535,
       "num": 175535,
       "word": "天冷了男朋友又在他的衣柜找衣服了",
@@ -2579,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173664,
-      "num": 173664,
-      "word": "刚考完就知道成绩了",
-      "onboard_time": 1733128099,
-      "rank": 38,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 172409,
       "num": 172409,
       "word": "双轨换导演",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1733103917,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171027,
-      "num": 171027,
-      "word": "秦彻日卡双登顶",
-      "onboard_time": 1733128158,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 170904,
@@ -2705,6 +2721,14 @@
       "onboard_time": 1732976240,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166081,
+      "num": 166081,
+      "word": "豪士回应面包霉菌超标近6倍",
+      "onboard_time": 1733128879,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166035,
@@ -2977,14 +3001,6 @@
       "onboard_time": 1733114960,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154480,
-      "num": 315948,
-      "word": "梁建章建议取消中高考",
-      "onboard_time": 1733127978,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 154085,
@@ -3409,14 +3425,6 @@
       "onboard_time": 1733060840,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135470,
-      "num": 135470,
-      "word": "有人用运费险8个月骗取100多万",
-      "onboard_time": 1733128278,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 135123,
@@ -4115,6 +4123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 104406,
+      "num": 413200,
+      "word": "吴柳芳曾说想自己沉淀",
+      "onboard_time": 1733127858,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103348,
       "num": 439536,
       "word": "代驾闯红灯后车主保费上涨930元",
@@ -4188,7 +4204,7 @@
     },
     {
       "raw_hot": 100298,
-      "num": 268148,
+      "num": 324024,
       "word": "郑少秋赵雅芝同框",
       "onboard_time": 1733127858,
       "rank": 28,
@@ -4280,6 +4296,14 @@
       "word": "樊振东解锁新身份",
       "onboard_time": 1733066000,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95733,
+      "num": 379398,
+      "word": "王楚钦回应落后对手后心态调整",
+      "onboard_time": 1733128638,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -4635,6 +4659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 74426,
+      "num": 382873,
+      "word": "王楚钦太可爱了",
+      "onboard_time": 1733128398,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73667,
       "num": 281959,
       "word": "无锡一地十几年没通自来水",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1733086572,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64751,
+      "num": 376971,
+      "word": "警方回应陕西一村庄疑发现弃婴",
+      "onboard_time": 1733128339,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64529,
@@ -5139,6 +5179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41197,
+      "num": 304145,
+      "word": "刘雯演绎七套香奈儿高级手工坊",
+      "onboard_time": 1733129120,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 40528,
       "num": 40528,
       "word": "西汉姆联2比5阿森纳",
@@ -5384,14 +5432,6 @@
       "word": "汪顺cos半神pose",
       "onboard_time": 1733061200,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29529,
-      "num": 413200,
-      "word": "吴柳芳曾说想自己沉淀",
-      "onboard_time": 1733127858,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -5731,6 +5771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15495,
+      "num": 173662,
+      "word": "杨幂的享界S9怎么开都有面",
+      "onboard_time": 1733128459,
+      "rank": 39,
+      "category": "作品衍生,汽车"
+    },
+    {
       "raw_hot": 15037,
       "num": 105212,
       "word": "这个娄子建议多捅几次",
@@ -5777,6 +5825,14 @@
       "onboard_time": 1733063541,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13058,
+      "num": 373149,
+      "word": "好运家情感观察直播室",
+      "onboard_time": 1733129120,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 12768,
@@ -5865,6 +5921,14 @@
       "onboard_time": 1733008333,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8087,
+      "num": 171513,
+      "word": "天价保健品是怎么忽悠住爸妈的",
+      "onboard_time": 1733128638,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 7870,
@@ -5961,6 +6025,14 @@
       "onboard_time": 1733002391,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6251,
+      "num": 651071,
+      "word": "我国冰雪产业规模或将突破万亿元",
+      "onboard_time": 1733129057,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6177,
