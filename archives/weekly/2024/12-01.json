@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733168167887,
+  "endTime": 1733171107695,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -6387,6 +6387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51314,
+      "num": 51314,
+      "word": "川航通报因旅客的充电宝冒烟备降桂林",
+      "onboard_time": 1733165171,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50484,
       "num": 50484,
       "word": "邓紫棋湛江",
@@ -6705,14 +6713,6 @@
       "onboard_time": 1733072354,
       "rank": 48,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 38234,
-      "num": 38234,
-      "word": "川航通报因旅客的充电宝冒烟备降桂林",
-      "onboard_time": 1733165171,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38225,
@@ -7499,6 +7499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16216,
+      "num": 16216,
+      "word": "ABO溶血及时治疗宝宝预后会很好",
+      "onboard_time": 1733169071,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 16180,
       "num": 108566,
       "word": "朱开不看好明年BLG",
@@ -7545,6 +7553,14 @@
       "onboard_time": 1733166432,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14447,
+      "num": 24975,
+      "word": "张艺谋蹲着给妻子拍照",
+      "onboard_time": 1733167090,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 14368,
@@ -7604,7 +7620,7 @@
     },
     {
       "raw_hot": 12530,
-      "num": 12530,
+      "num": 14120,
       "word": "53秒了解中俄东线天然气管道",
       "onboard_time": 1733167691,
       "rank": 48,
@@ -7617,6 +7633,14 @@
       "onboard_time": 1733081711,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12097,
+      "num": 15461,
+      "word": "卫星图看中国10年治沙前后对比",
+      "onboard_time": 1733168831,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 11955,
@@ -7641,6 +7665,14 @@
       "onboard_time": 1733041936,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 11670,
+      "num": 14452,
+      "word": "10万斤广西砂糖橘在沈阳免费发放",
+      "onboard_time": 1733169670,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11390,
@@ -7691,11 +7723,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9032,
-      "num": 24975,
-      "word": "张艺谋蹲着给妻子拍照",
-      "onboard_time": 1733167090,
-      "rank": 24,
+      "raw_hot": 8918,
+      "num": 19127,
+      "word": "刘晓庆前男友发律师函讨债",
+      "onboard_time": 1733169911,
+      "rank": 19,
       "category": "艺人"
     },
     {
