@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733153191285,
+  "endTime": 1733154074678,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -689,6 +689,14 @@
       "onboard_time": 1733119099,
       "rank": 7,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 642429,
+      "num": 642429,
+      "word": "6岁女儿蹭跑全马父亲涉违规",
+      "onboard_time": 1733152460,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640999,
@@ -2275,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223966,
-      "num": 223966,
-      "word": "6岁女儿蹭跑全马父亲涉违规",
-      "onboard_time": 1733152460,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223697,
       "num": 212805,
       "word": "在海底捞做冰糖葫芦失败了",
@@ -2609,6 +2609,14 @@
       "onboard_time": 1733048240,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 203708,
+      "num": 203708,
+      "word": "贺峻霖顺毛vs爆炸头",
+      "onboard_time": 1733153181,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 203628,
@@ -3043,6 +3051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184203,
+      "num": 173218,
+      "word": "杨颖侧脸vs正脸",
+      "onboard_time": 1733153000,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183884,
       "num": 213472,
       "word": "上海92平米的迷你法式小别墅",
@@ -3145,6 +3161,14 @@
       "onboard_time": 1733026338,
       "rank": 9,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 176151,
+      "num": 223061,
+      "word": "陈少熙直播",
+      "onboard_time": 1733151742,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 175535,
@@ -3707,14 +3731,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 151631,
-      "num": 223061,
-      "word": "陈少熙直播",
-      "onboard_time": 1733151742,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151134,
       "num": 135560,
       "word": "丁禹兮海上唱重塑",
@@ -3849,6 +3865,14 @@
       "onboard_time": 1733144246,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147189,
+      "num": 284526,
+      "word": "商务部回应美国半导体出口管制措施",
+      "onboard_time": 1733152580,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146563,
@@ -4105,6 +4129,14 @@
       "onboard_time": 1733109678,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138704,
+      "num": 205407,
+      "word": "美一女子急诊刚醒护士就来结账",
+      "onboard_time": 1733150002,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138524,
@@ -4411,14 +4443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128575,
-      "num": 205407,
-      "word": "美一女子急诊刚醒护士就来结账",
-      "onboard_time": 1733150002,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128529,
       "num": 128529,
       "word": "山寨烟卡私自打印香烟商标属侵权行为",
@@ -4449,14 +4473,6 @@
       "onboard_time": 1733094794,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127514,
-      "num": 194431,
-      "word": "商务部回应美国半导体出口管制措施",
-      "onboard_time": 1733152580,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 127404,
@@ -4859,6 +4875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113956,
+      "num": 278898,
+      "word": "婚内婚外这一幕完全是恐怖片",
+      "onboard_time": 1733148741,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113840,
       "num": 267375,
       "word": "沈梦辰王星越合照",
@@ -4907,28 +4931,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112246,
-      "num": 278898,
-      "word": "婚内婚外这一幕完全是恐怖片",
-      "onboard_time": 1733148741,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111727,
       "num": 111727,
       "word": "6岁才站起的罕见病孩子要研究飞机",
       "onboard_time": 1733023339,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111487,
-      "num": 111487,
-      "word": "杨颖侧脸vs正脸",
-      "onboard_time": 1733153000,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 111415,
@@ -5555,6 +5563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84826,
+      "num": 84826,
+      "word": "小鸟穿花衣原来是真的",
+      "onboard_time": 1733152759,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84256,
       "num": 84256,
       "word": "258.6万人参加国考笔试",
@@ -6027,6 +6043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60937,
+      "num": 240963,
+      "word": "一声好哥哥倾家荡产争榜一",
+      "onboard_time": 1733152160,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 60664,
       "num": 216667,
       "word": "苏翊鸣肩膀受伤正处于恢复阶段",
@@ -6251,14 +6275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51263,
-      "num": 240963,
-      "word": "一声好哥哥倾家荡产争榜一",
-      "onboard_time": 1733152160,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 50484,
       "num": 50484,
       "word": "邓紫棋湛江",
@@ -6451,6 +6467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40322,
+      "num": 222970,
+      "word": "抓马婚姻真人秀变流量收割表演秀",
+      "onboard_time": 1733152101,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40297,
       "num": 212230,
       "word": "文森特首发",
@@ -6489,6 +6513,14 @@
       "onboard_time": 1733121977,
       "rank": 29,
       "category": "电影,情感"
+    },
+    {
+      "raw_hot": 39027,
+      "num": 169164,
+      "word": "白宇拍的国乒",
+      "onboard_time": 1733153539,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 39006,
@@ -6603,14 +6635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35236,
-      "num": 222970,
-      "word": "抓马婚姻真人秀变流量收割表演秀",
-      "onboard_time": 1733152101,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 35185,
       "num": 178492,
       "word": "信阳开套牌车打人副镇长被拘留罚款",
@@ -6651,12 +6675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34121,
+      "num": 773094,
+      "word": "让中国温度触手可及",
+      "onboard_time": 1733146823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34019,
       "num": 37887,
       "word": "我是刑警半枚血指纹破案",
       "onboard_time": 1733073974,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33488,
+      "num": 176210,
+      "word": "专家回应有人路边投毒狗闻闻就死",
+      "onboard_time": 1733152400,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33483,
@@ -6787,14 +6827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29614,
-      "num": 773094,
-      "word": "让中国温度触手可及",
-      "onboard_time": 1733146823,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29141,
       "num": 134224,
       "word": "虞书欣荣耀300发布会",
@@ -6825,14 +6857,6 @@
       "onboard_time": 1733025859,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28461,
-      "num": 176210,
-      "word": "专家回应有人路边投毒狗闻闻就死",
-      "onboard_time": 1733152400,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28437,
@@ -7176,6 +7200,14 @@
       "word": "郭敬明晒月鳞绮纪服装细节图",
       "onboard_time": 1732997351,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18072,
+      "num": 193549,
+      "word": "我是刑警第3个恶性大案",
+      "onboard_time": 1733153480,
+      "rank": 18,
       "category": "剧集"
     },
     {
