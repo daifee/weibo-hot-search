@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733171107695,
+  "endTime": 1733171968996,
   "band_list": [
     {
       "raw_hot": 1660737,
@@ -579,20 +579,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 18087,
+      "num": 18087,
+      "word": "ABO溶血及时治疗宝宝预后会很好",
+      "onboard_time": 1733169071,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 17735,
       "num": 17735,
       "word": "丑老公永久禁言",
       "onboard_time": 1733147002,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 16216,
-      "num": 16216,
-      "word": "ABO溶血及时治疗宝宝预后会很好",
-      "onboard_time": 1733169071,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16180,
@@ -635,7 +635,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12568,
+      "raw_hot": 12797,
       "num": 14128,
       "word": "我是刑警",
       "onboard_time": 1733140526,
@@ -643,20 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12624,
+      "num": 15461,
+      "word": "卫星图看中国10年治沙前后对比",
+      "onboard_time": 1733168831,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 12530,
-      "num": 14120,
+      "num": 23871,
       "word": "53秒了解中俄东线天然气管道",
       "onboard_time": 1733167691,
       "rank": 48,
       "category": "国内时政"
     },
     {
-      "raw_hot": 12097,
-      "num": 15461,
-      "word": "卫星图看中国10年治沙前后对比",
-      "onboard_time": 1733168831,
-      "rank": 29,
-      "category": "正能量"
+      "raw_hot": 12238,
+      "num": 19127,
+      "word": "刘晓庆前男友发律师函讨债",
+      "onboard_time": 1733169911,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 11670,
@@ -667,12 +675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8918,
-      "num": 19127,
-      "word": "刘晓庆前男友发律师函讨债",
-      "onboard_time": 1733169911,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 10994,
+      "num": 11968,
+      "word": "记者现场直击大马士革高度戒备",
+      "onboard_time": 1733171951,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8318,
@@ -688,6 +696,14 @@
       "word": "苏新皓橙色的小苏大放送",
       "onboard_time": 1733166792,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5396,
+      "num": 19413,
+      "word": "金泰亨发文悼念小狗",
+      "onboard_time": 1733171600,
+      "rank": 19,
       "category": "艺人"
     }
   ],
