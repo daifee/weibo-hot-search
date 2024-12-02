@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733149426363,
+  "endTime": 1733150593512,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3965862,
-      "num": 283316,
+      "num": 357005,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1733129239,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1149769,
+      "num": 1183963,
+      "word": "鹿晗点赞黄子韬结婚博",
+      "onboard_time": 1733150421,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1132029,
@@ -363,6 +371,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 604284,
+      "num": 364119,
+      "word": "Angelababy薄荷绿小香",
+      "onboard_time": 1733148142,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602561,
       "num": 602561,
       "word": "Pest发歌diss周密",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 550979,
-      "num": 325549,
+      "num": 355203,
       "word": "黄爱洋",
       "onboard_time": 1733144845,
       "rank": 6,
@@ -587,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440772,
+      "num": 359605,
+      "word": "郭敬明 月鳞绮纪原始帧",
+      "onboard_time": 1733148203,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437313,
       "num": 437313,
       "word": "四大扛剧女演员",
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 419031,
-      "num": 277839,
+      "num": 287420,
       "word": "被清华大学教室的粉笔震惊到了",
       "onboard_time": 1733146342,
       "rank": 37,
@@ -683,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 378609,
+      "num": 305758,
+      "word": "苏醒晒与武艺聊天记录",
+      "onboard_time": 1733144725,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377233,
       "num": 377233,
       "word": "孙颖莎安排小孩哥捡球",
@@ -704,14 +736,6 @@
       "word": "唐嫣罗晋带娃逛迪士尼",
       "onboard_time": 1733059279,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 357710,
-      "num": 278600,
-      "word": "Angelababy薄荷绿小香",
-      "onboard_time": 1733148142,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -769,14 +793,6 @@
       "onboard_time": 1733103018,
       "rank": 9,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 346452,
-      "num": 280429,
-      "word": "苏醒晒与武艺聊天记录",
-      "onboard_time": 1733144725,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 344586,
@@ -859,6 +875,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 322867,
+      "num": 322867,
+      "word": "吴柳芳开通个人微博",
+      "onboard_time": 1733146463,
+      "rank": 20,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 310376,
       "num": 310376,
       "word": "撞死知名医生肇事者家属请求谅解",
@@ -889,6 +913,14 @@
       "onboard_time": 1733099717,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 298640,
+      "num": 275415,
+      "word": "快乐再出发录制与游客起冲突",
+      "onboard_time": 1733150181,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 295925,
@@ -923,14 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288251,
-      "num": 280150,
-      "word": "吴柳芳开通个人微博",
-      "onboard_time": 1733146463,
-      "rank": 20,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 287390,
       "num": 287390,
       "word": "这些食物是结节的催化剂",
@@ -953,14 +977,6 @@
       "onboard_time": 1733109797,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 277582,
-      "num": 277582,
-      "word": "郭敬明 月鳞绮纪原始帧",
-      "onboard_time": 1733148203,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 277294,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1733108838,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 258214,
+      "num": 258214,
+      "word": "逐玉 高卿尘",
+      "onboard_time": 1733149401,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 257016,
@@ -1467,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197923,
+      "num": 197923,
+      "word": "李庚希魏大勋撤回的吻戏亲上了",
+      "onboard_time": 1733148203,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196850,
       "num": 196850,
       "word": "尽量别用手柄过于鲜艳的跳绳",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1733114300,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187894,
-      "num": 187894,
-      "word": "李庚希魏大勋撤回的吻戏亲上了",
-      "onboard_time": 1733148203,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 186052,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1733143525,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165837,
+      "num": 165837,
+      "word": "苏醒 聚的人多了也便成了团",
+      "onboard_time": 1733150002,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 161759,
@@ -2379,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127404,
+      "num": 187402,
+      "word": "身份证照片拍照指南",
+      "onboard_time": 1733148442,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127241,
       "num": 251545,
       "word": "奔跑吧 惊喜日",
@@ -2473,6 +2513,14 @@
       "onboard_time": 1733101279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121607,
+      "num": 121607,
+      "word": "2024尖叫之夜第三波阵容",
+      "onboard_time": 1733150362,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 121132,
@@ -2587,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111569,
+      "num": 111569,
+      "word": "在海底捞做冰糖葫芦失败了",
+      "onboard_time": 1733148982,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111415,
       "num": 209050,
       "word": "陈梦重返训练场视频曝光",
@@ -2624,6 +2680,14 @@
       "word": "左航耳坠",
       "onboard_time": 1733146642,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107420,
+      "num": 279263,
+      "word": "贺峻霖又抽象了",
+      "onboard_time": 1733147362,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2707,14 +2771,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 98300,
-      "num": 187402,
-      "word": "身份证照片拍照指南",
-      "onboard_time": 1733148442,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97870,
       "num": 156786,
       "word": "霉霉和男友感恩节合照",
@@ -2739,12 +2795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96957,
-      "num": 279263,
-      "word": "贺峻霖又抽象了",
-      "onboard_time": 1733147362,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 97115,
+      "num": 97115,
+      "word": "studioUG入驻微博",
+      "onboard_time": 1733150062,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 96836,
@@ -2851,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89847,
+      "num": 205407,
+      "word": "美一女子急诊刚醒护士就来结账",
+      "onboard_time": 1733150002,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89598,
       "num": 94764,
       "word": "这是我见过最努力的考研人了吧",
@@ -2873,14 +2937,6 @@
       "onboard_time": 1733112319,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88155,
-      "num": 88155,
-      "word": "逐玉 高卿尘",
-      "onboard_time": 1733149401,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 87880,
@@ -2937,6 +2993,14 @@
       "onboard_time": 1733060840,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81461,
+      "num": 357837,
+      "word": "官方通报药王谷抗癌中心调查事件",
+      "onboard_time": 1733149221,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 81253,
@@ -3235,20 +3299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58035,
+      "num": 322197,
+      "word": "职业罪犯把坟地当家",
+      "onboard_time": 1733149462,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 57676,
+      "num": 315083,
+      "word": "想谈一场以结婚为目的的恋爱",
+      "onboard_time": 1733149942,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57203,
       "num": 452502,
       "word": "券商多位前高管违规入股被罚百万",
       "onboard_time": 1733113580,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55312,
-      "num": 284143,
-      "word": "官方通报药王谷抗癌中心调查事件",
-      "onboard_time": 1733149221,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 54877,
@@ -3483,12 +3555,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 37714,
+      "num": 308603,
+      "word": "大学生实习遇培训贷陷阱被贷款2万",
+      "onboard_time": 1733150244,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37271,
       "num": 320719,
       "word": "周密与周芯竹无股权关联",
       "onboard_time": 1733120118,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37070,
+      "num": 349501,
+      "word": "叙利亚战火为何重燃",
+      "onboard_time": 1733148862,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36362,
@@ -3625,14 +3713,6 @@
       "onboard_time": 1733138598,
       "rank": 28,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 28333,
-      "num": 281376,
-      "word": "叙利亚战火为何重燃",
-      "onboard_time": 1733148862,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27533,
@@ -3785,6 +3865,14 @@
       "onboard_time": 1733080631,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18847,
+      "num": 351611,
+      "word": "香港流行乐能否重回聚光灯下",
+      "onboard_time": 1733150244,
+      "rank": 13,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 18791,
