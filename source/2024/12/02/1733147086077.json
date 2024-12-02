@@ -1,0 +1,410 @@
+{
+  "runTime": 1733147086077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7565681,
+        "num": 7565681,
+        "word": "黄子韬徐艺洋结婚",
+        "onboard_time": 1733138724,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959087,
+        "num": 959087,
+        "word": "某综艺在西安一公园录制引游客不满",
+        "onboard_time": 1733142205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9989,
+        "num": 773094,
+        "word": "让中国温度触手可及",
+        "onboard_time": 1733146823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 609662,
+        "num": 609662,
+        "word": "有人用运费险8个月骗取100多万",
+        "onboard_time": 1733128278,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 283011,
+        "num": 283011,
+        "word": "下午四点半后是个很神奇的时间节点",
+        "onboard_time": 1733143285,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2082059,
+        "num": 275627,
+        "word": "黄子韬说徐艺洋拍结婚照没洗头",
+        "onboard_time": 1733144785,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528630,
+        "num": 274872,
+        "word": "黄爱洋",
+        "onboard_time": 1733144845,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425948,
+        "num": 271973,
+        "word": "奚梦瑶现身私立医院",
+        "onboard_time": 1733141006,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267242,
+        "num": 267242,
+        "word": "29名建筑工赴香港打工月薪3万",
+        "onboard_time": 1733142086,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104627,
+        "num": 267240,
+        "word": "官方回应公园被质疑录综艺赶游客",
+        "onboard_time": 1733145983,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3045250,
+        "num": 267220,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854295,
+        "num": 267216,
+        "word": "归国四子",
+        "onboard_time": 1733140947,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528711,
+        "num": 267200,
+        "word": "Angelababy染发了",
+        "onboard_time": 1733127920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522245,
+        "num": 267194,
+        "word": "一教培机构20多人趴地上迎接领导",
+        "onboard_time": 1733138239,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56156,
+        "num": 267172,
+        "word": "共享单车被丢河里每月可捞数百辆",
+        "onboard_time": 1733146043,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226019,
+        "num": 267168,
+        "word": "赵露思短发贝雷帽造型",
+        "onboard_time": 1733141544,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19760,
+        "num": 267149,
+        "word": "荣耀300赛博晕车贴",
+        "onboard_time": 1733144665,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 267148,
+        "num": 267148,
+        "word": "商家大规模关闭运费险背后",
+        "onboard_time": 1733136199,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107783,
+        "num": 259793,
+        "word": "左航耳坠",
+        "onboard_time": 1733146642,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24383,
+        "num": 257184,
+        "word": "男子同一地点二次酒驾被查自扇耳光",
+        "onboard_time": 1733146043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256138,
+        "num": 256138,
+        "word": "吴柳芳开通个人微博",
+        "onboard_time": 1733146463,
+        "rank": 20,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 214327,
+        "num": 214327,
+        "word": "狐妖竹业篇改名淮水竹亭",
+        "onboard_time": 1733140585,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193633,
+        "num": 193633,
+        "word": "丑老公",
+        "onboard_time": 1733129239,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181473,
+        "num": 181473,
+        "word": "家业",
+        "onboard_time": 1733144665,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23057,
+        "num": 178339,
+        "word": "张宏涛说发身材不是擦边是自信",
+        "onboard_time": 1733146403,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177635,
+        "num": 177635,
+        "word": "Pest发歌diss周密",
+        "onboard_time": 1733136678,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59807,
+        "num": 174907,
+        "word": "数说我国首条世界级天然气管道",
+        "onboard_time": 1733145265,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174580,
+        "num": 174580,
+        "word": "没人和我说这是胡先煦啊",
+        "onboard_time": 1733142685,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169524,
+        "num": 169524,
+        "word": "拍身份证照片别穿这类衣服",
+        "onboard_time": 1733143705,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44066,
+        "num": 169170,
+        "word": "荣耀300价格真香",
+        "onboard_time": 1733144665,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263608,
+        "num": 169152,
+        "word": "苏醒晒与武艺聊天记录",
+        "onboard_time": 1733144725,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214224,
+        "num": 169142,
+        "word": "被清华大学教室的粉笔震惊到了",
+        "onboard_time": 1733146342,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169085,
+        "num": 169085,
+        "word": "导师看到我的论文查重率是0%时",
+        "onboard_time": 1733138844,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158622,
+        "num": 158622,
+        "word": "人人网已停止服务",
+        "onboard_time": 1733130020,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150621,
+        "num": 150621,
+        "word": "2岁孩子将电池放嘴里咬发生爆炸",
+        "onboard_time": 1733136918,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149031,
+        "num": 149031,
+        "word": "新一疑似内涵Uzi",
+        "onboard_time": 1733143525,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148667,
+        "num": 148667,
+        "word": "不把观众当傻子这部印度神片有多难得",
+        "onboard_time": 1733144246,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146433,
+        "num": 146433,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25683,
+        "num": 133587,
+        "word": "虞书欣荣耀300发布会",
+        "onboard_time": 1733145083,
+        "rank": 38,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 129694,
+        "num": 129694,
+        "word": "全面推动共建一带一路高质量发展",
+        "onboard_time": 1733145924,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117299,
+        "num": 117299,
+        "word": "香港97年卡拉OK纵火案嫌犯内地落网",
+        "onboard_time": 1733142507,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112281,
+        "num": 112281,
+        "word": "iG宣布DOTA2分部暂停运营",
+        "onboard_time": 1733145505,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112004,
+        "num": 112004,
+        "word": "祝绪丹 很开心陪你走过一段路",
+        "onboard_time": 1733140585,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104550,
+        "num": 104550,
+        "word": "白夜破晓 录音",
+        "onboard_time": 1733146883,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30243,
+        "num": 103969,
+        "word": "荣耀300虚化效果比肩单反相机",
+        "onboard_time": 1733142925,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103919,
+        "num": 103919,
+        "word": "教育机构回应员工趴地上给领导宣誓",
+        "onboard_time": 1733143824,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102040,
+        "num": 102040,
+        "word": "为蟑螂正名",
+        "onboard_time": 1733147002,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99891,
+        "num": 99891,
+        "word": "丑老公永久禁言",
+        "onboard_time": 1733147002,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99348,
+        "num": 99348,
+        "word": "张艺兴入围APMA最佳男歌手",
+        "onboard_time": 1733145083,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97799,
+        "num": 97799,
+        "word": "苏醒回应武艺推荐他参加再见爱人",
+        "onboard_time": 1733138420,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推动共建一带一路高质量发展#"
+    }
+  }
+}
