@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733181912658,
+  "endTime": 1733182761253,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1069535,
+      "num": 1069535,
+      "word": "6岁女儿蹭跑全马父亲涉违规",
+      "onboard_time": 1733152460,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1049054,
       "num": 314604,
       "word": "金泰亨的小狗金碳去世",
@@ -521,14 +529,6 @@
       "onboard_time": 1733029640,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 801201,
-      "num": 880469,
-      "word": "6岁女儿蹭跑全马父亲涉违规",
-      "onboard_time": 1733152460,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 793817,
@@ -779,6 +779,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 609128,
+      "num": 609128,
+      "word": "快乐再出发录制与游客起冲突",
+      "onboard_time": 1733150181,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604284,
       "num": 364119,
       "word": "Angelababy薄荷绿小香",
@@ -931,6 +939,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 546299,
+      "num": 546299,
+      "word": "陈少熙说有喜欢的人了",
+      "onboard_time": 1733181915,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538629,
       "num": 538629,
       "word": "王楚钦孙颖莎击掌庆祝",
@@ -953,14 +969,6 @@
       "onboard_time": 1733082251,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 520982,
-      "num": 468603,
-      "word": "快乐再出发录制与游客起冲突",
-      "onboard_time": 1733150181,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 516060,
@@ -2227,12 +2235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232755,
+      "num": 232755,
+      "word": "5000年前的日出曾被这样记录下来",
+      "onboard_time": 1733160493,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 232459,
       "num": 232459,
       "word": "苏醒录制快乐再出发3",
       "onboard_time": 1733063241,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231673,
+      "num": 231673,
+      "word": "川航通报因旅客的充电宝冒烟备降桂林",
+      "onboard_time": 1733165171,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230660,
@@ -2931,14 +2955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190976,
-      "num": 190976,
-      "word": "5000年前的日出曾被这样记录下来",
-      "onboard_time": 1733160493,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 190843,
       "num": 125442,
       "word": "我是刑警 鹤岗大案",
@@ -3033,6 +3049,14 @@
       "onboard_time": 1733019798,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186292,
+      "num": 278898,
+      "word": "婚内婚外这一幕完全是恐怖片",
+      "onboard_time": 1733148741,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 186223,
@@ -3441,14 +3465,6 @@
       "onboard_time": 1732980260,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163369,
-      "num": 163369,
-      "word": "川航通报因旅客的充电宝冒烟备降桂林",
-      "onboard_time": 1733165171,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162509,
@@ -4089,14 +4105,6 @@
       "onboard_time": 1733057719,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141520,
-      "num": 278898,
-      "word": "婚内婚外这一幕完全是恐怖片",
-      "onboard_time": 1733148741,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 141418,
@@ -5243,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101461,
+      "num": 171208,
+      "word": "广西砂糖橘又去东北了",
+      "onboard_time": 1733181316,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101435,
       "num": 101435,
       "word": "南京一野猪夜闯民宅咬伤户主",
@@ -5257,6 +5273,14 @@
       "onboard_time": 1732970839,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100695,
+      "num": 100695,
+      "word": "珠帘玉幕11月全网播放冠军",
+      "onboard_time": 1733181975,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 100625,
@@ -5433,6 +5457,14 @@
       "onboard_time": 1733131700,
       "rank": 13,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 94845,
+      "num": 94845,
+      "word": "吴柳芳涨粉太快被吓到",
+      "onboard_time": 1733182155,
+      "rank": 24,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 94610,
@@ -5675,6 +5707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83822,
+      "num": 108497,
+      "word": "小伙南极旅行邮轮与冰山擦肩而过",
+      "onboard_time": 1733157316,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83568,
       "num": 82791,
       "word": "陈哲远举125公斤杠铃",
@@ -5689,6 +5729,14 @@
       "onboard_time": 1733137219,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82590,
+      "num": 82590,
+      "word": "男子39.9元网购平板电脑到货变耳机",
+      "onboard_time": 1733141127,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82289,
@@ -5827,14 +5875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 78527,
-      "num": 108497,
-      "word": "小伙南极旅行邮轮与冰山擦肩而过",
-      "onboard_time": 1733157316,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78303,
       "num": 448785,
       "word": "大多数HIV感染者选择隐瞒病情",
@@ -5881,6 +5921,14 @@
       "onboard_time": 1733120779,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76239,
+      "num": 76239,
+      "word": "月鳞绮纪原始帧",
+      "onboard_time": 1733181915,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 75869,
@@ -6075,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65455,
+      "num": 65455,
+      "word": "鞠婧祎黑衣面纱路透",
+      "onboard_time": 1733182457,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65199,
       "num": 65199,
       "word": "我国首个阶梯式低空空域正式投入使用",
@@ -6115,6 +6171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63423,
+      "num": 63423,
+      "word": "杨紫家业紫衣古装路透",
+      "onboard_time": 1733181975,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63091,
       "num": 316628,
       "word": "香奈儿杭州全球首秀",
@@ -6147,12 +6211,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 62129,
+      "num": 62129,
+      "word": "烟草局回应男子假冒主管要求陪睡",
+      "onboard_time": 1733180894,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61801,
       "num": 1281215,
       "word": "南极中山国家大气本底监测站建成",
       "onboard_time": 1733111058,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61559,
+      "num": 101179,
+      "word": "寇振海怎么又逼孩子结婚了",
+      "onboard_time": 1733182035,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61438,
+      "num": 61438,
+      "word": "鞠婧祎逆应援",
+      "onboard_time": 1733181915,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 61212,
@@ -6275,20 +6363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57370,
+      "num": 57370,
+      "word": "也门胡塞武装宣布袭击了美军舰",
+      "onboard_time": 1733175612,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 57288,
+      "num": 57288,
+      "word": "早安我的中国",
+      "onboard_time": 1733182097,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 57203,
       "num": 452502,
       "word": "券商多位前高管违规入股被罚百万",
       "onboard_time": 1733113580,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57037,
-      "num": 57037,
-      "word": "也门胡塞武装宣布袭击了美军舰",
-      "onboard_time": 1733175612,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56361,
@@ -6347,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54311,
+      "num": 86654,
+      "word": "中方希望立陶宛新政府坚持一个中国原则",
+      "onboard_time": 1733150902,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54174,
       "num": 352849,
       "word": "林诗栋蒯曼vs卢伟洪剑芳",
@@ -6363,20 +6467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53752,
+      "num": 68296,
+      "word": "律师称不能在网络上无成本肆意妄为",
+      "onboard_time": 1733178912,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53721,
       "num": 108794,
       "word": "言语缩减",
       "onboard_time": 1733069598,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 53646,
-      "num": 53646,
-      "word": "男子39.9元网购平板电脑到货变耳机",
-      "onboard_time": 1733141127,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53602,
@@ -6435,22 +6539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51349,
-      "num": 86654,
-      "word": "中方希望立陶宛新政府坚持一个中国原则",
-      "onboard_time": 1733150902,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 51246,
-      "num": 68296,
-      "word": "律师称不能在网络上无成本肆意妄为",
-      "onboard_time": 1733178912,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50484,
       "num": 50484,
       "word": "邓紫棋湛江",
@@ -6505,14 +6593,6 @@
       "onboard_time": 1733157017,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47610,
-      "num": 47610,
-      "word": "烟草局回应男子假冒主管要求陪睡",
-      "onboard_time": 1733180894,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47605,
@@ -6827,6 +6907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36811,
+      "num": 45383,
+      "word": "柯南最近内容全是官配糖",
+      "onboard_time": 1733182216,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 36653,
       "num": 42173,
       "word": "向佐 向朵花",
@@ -7081,6 +7169,14 @@
       "onboard_time": 1733061200,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29631,
+      "num": 100943,
+      "word": "公园拍节目拒绝持票游客入园看熊猫",
+      "onboard_time": 1733182517,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29461,
@@ -7385,14 +7481,6 @@
       "onboard_time": 1733146403,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22723,
-      "num": 171208,
-      "word": "广西砂糖橘又去东北了",
-      "onboard_time": 1733181316,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22510,
@@ -7793,6 +7881,14 @@
       "onboard_time": 1733082851,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11258,
+      "num": 101399,
+      "word": "D社爆闵熙珍利用NewJeans",
+      "onboard_time": 1733182155,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 10885,
