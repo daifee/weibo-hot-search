@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733109912778,
+  "endTime": 1733111491876,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 812910,
-      "num": 314134,
+      "num": 322904,
       "word": "周芯竹 周密",
       "onboard_time": 1733096897,
       "rank": 15,
@@ -329,6 +329,14 @@
       "onboard_time": 1733045718,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 764653,
+      "num": 764653,
+      "word": "泰国坠崖孕妇11月直播14场",
+      "onboard_time": 1733107577,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 746142,
@@ -611,6 +619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 489551,
+      "num": 419165,
+      "word": "骄阳似我官宣赵今麦宋威龙",
+      "onboard_time": 1733107817,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489321,
       "num": 489321,
       "word": "行测答案",
@@ -811,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410239,
+      "num": 410239,
+      "word": "腾讯12月大剧片单",
+      "onboard_time": 1733109557,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407053,
       "num": 300573,
       "word": "国家大剧院",
@@ -833,14 +857,6 @@
       "onboard_time": 1733013376,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 401649,
-      "num": 401649,
-      "word": "泰国坠崖孕妇11月直播14场",
-      "onboard_time": 1733107577,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 400103,
@@ -891,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370861,
-      "num": 370861,
-      "word": "骄阳似我官宣赵今麦宋威龙",
-      "onboard_time": 1733107817,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365442,
       "num": 351084,
       "word": "王安宇好帅",
@@ -945,6 +953,14 @@
       "onboard_time": 1733043737,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328691,
+      "num": 410596,
+      "word": "药王谷开诊1个多月15名患者死亡",
+      "onboard_time": 1733110819,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 328364,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1733024479,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 282168,
+      "num": 317721,
+      "word": "4种体质的女性易患多囊",
+      "onboard_time": 1733109797,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 279432,
@@ -1291,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247105,
+      "num": 284866,
+      "word": "iG新阵容将在传奇杯决赛现场公布",
+      "onboard_time": 1733110878,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 244637,
       "num": 244637,
       "word": "秦彻",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1733053398,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 240819,
+      "num": 342754,
+      "word": "川航回应3U8925航班备降桂林",
+      "onboard_time": 1733109857,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239448,
@@ -1459,6 +1499,14 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 212991,
+      "num": 212991,
+      "word": "赵丽颖女友视角报备日常",
+      "onboard_time": 1733109017,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210708,
       "num": 228111,
       "word": "王源丁程鑫好六上班",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1733063660,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208716,
+      "num": 208716,
+      "word": "李耕耘户外是一种生活也是一种态度",
+      "onboard_time": 1733110999,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 208469,
@@ -1635,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199154,
-      "num": 199154,
-      "word": "赵丽颖女友视角报备日常",
-      "onboard_time": 1733109017,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198568,
       "num": 198568,
       "word": "这么丑的猫我居然有三只",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1733050039,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195591,
+      "num": 195591,
+      "word": "摇光录",
+      "onboard_time": 1733111179,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 195536,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1733019138,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184901,
+      "num": 184901,
+      "word": "张真源已经走进沙溢心里四次了",
+      "onboard_time": 1733110699,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 184642,
@@ -2033,14 +2097,6 @@
       "onboard_time": 1732973179,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161479,
-      "num": 321513,
-      "word": "腾讯12月大剧片单",
-      "onboard_time": 1733109557,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 161450,
@@ -2339,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144944,
+      "num": 144944,
+      "word": "单霁翔70岁正是奋斗的年纪",
+      "onboard_time": 1733111418,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144912,
       "num": 457558,
       "word": "2025国考约65人中录取1人",
@@ -2524,11 +2588,19 @@
     },
     {
       "raw_hot": 138142,
-      "num": 138142,
+      "num": 286490,
       "word": "没想到吃剩的骨头还能这样用",
       "onboard_time": 1733104278,
       "rank": 44,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 138033,
+      "num": 138033,
+      "word": "丁禹兮今年第四部剧",
+      "onboard_time": 1733111478,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 137839,
@@ -2603,12 +2675,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133803,
+      "num": 133803,
+      "word": "被88岁爷爷的时尚感硬控了",
+      "onboard_time": 1733109979,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 133425,
       "num": 133425,
       "word": "俄方回应泽连斯基开出的停火条件",
       "onboard_time": 1733032878,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133162,
+      "num": 133162,
+      "word": "高钧贤结婚当爸",
+      "onboard_time": 1733111478,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 133079,
@@ -2657,14 +2745,6 @@
       "onboard_time": 1732972580,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130565,
-      "num": 130565,
-      "word": "川航回应3U8925航班备降桂林",
-      "onboard_time": 1733109857,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130122,
@@ -2755,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126529,
+      "num": 337463,
+      "word": "电视剧大赏",
+      "onboard_time": 1733110758,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126504,
       "num": 126504,
       "word": "宋亚轩新歌体贴上线",
@@ -2809,6 +2897,14 @@
       "onboard_time": 1733032277,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123938,
+      "num": 335335,
+      "word": "刘浩存掌管高马尾的神",
+      "onboard_time": 1733111179,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 123392,
@@ -3227,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100534,
+      "num": 344688,
+      "word": "高速公路上新能源车突然失去动力",
+      "onboard_time": 1733110158,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100230,
       "num": 100230,
       "word": "下雪天东北虎秒变滑滑虎",
@@ -3329,6 +3433,14 @@
       "onboard_time": 1733033418,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94339,
+      "num": 415081,
+      "word": "湖南一村庄酒席流行一斤肉价随礼",
+      "onboard_time": 1733110158,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93729,
@@ -3739,6 +3851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64529,
+      "num": 329289,
+      "word": "冬天犯鼻炎是种怎样的体验",
+      "onboard_time": 1733111179,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62961,
       "num": 162636,
       "word": "治愈艾滋病的希望是否存在",
@@ -4027,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39899,
+      "num": 282945,
+      "word": "香奈儿杭州全球首秀",
+      "onboard_time": 1733110519,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 39326,
       "num": 431283,
       "word": "催收班培训三天收五千至一万元",
@@ -4283,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26406,
+      "num": 271029,
+      "word": "冬日智驾追雪buff叠满",
+      "onboard_time": 1733110519,
+      "rank": 29,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 26324,
       "num": 276311,
       "word": "律师称网友有权抵制李行亮商演",
@@ -4403,6 +4539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22893,
+      "num": 588982,
+      "word": "南极中山国家大气本底监测站建成",
+      "onboard_time": 1733111058,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21638,
       "num": 21638,
       "word": "叙反对派武装称进入阿勒颇市中心地带",
@@ -4521,14 +4665,6 @@
       "onboard_time": 1733066480,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 14663,
-      "num": 317721,
-      "word": "4种体质的女性易患多囊",
-      "onboard_time": 1733109797,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14368,
