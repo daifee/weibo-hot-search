@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733139368886,
+  "endTime": 1733143728759,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -27,6 +27,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1868400,
+      "num": 547080,
+      "word": "黄子韬 吃席call me",
+      "onboard_time": 1733142025,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1865613,
       "num": 1865613,
       "word": "韩国流行周五下班去中国",
@@ -51,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1614123,
+      "num": 421223,
+      "word": "归国四子",
+      "onboard_time": 1733140947,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1606308,
       "num": 1606308,
       "word": "网红彩虹夫妇女儿确诊ABO溶血",
       "onboard_time": 1733119398,
       "rank": 1,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1555950,
+      "num": 515224,
+      "word": "徐艺洋幼师资格证下来了",
+      "onboard_time": 1733142025,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1531034,
@@ -171,6 +195,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 837653,
+      "num": 463120,
+      "word": "一教培机构20多人趴地上迎接领导",
+      "onboard_time": 1733138239,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 829180,
+      "num": 417090,
+      "word": "奚梦瑶现身私立医院",
+      "onboard_time": 1733141006,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823631,
       "num": 941348,
       "word": "泰国坠崖孕妇被指责生意做太大",
@@ -249,6 +289,14 @@
       "onboard_time": 1733101458,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 658239,
+      "num": 658239,
+      "word": "某综艺在西安一公园录制引游客不满",
+      "onboard_time": 1733142205,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 644929,
@@ -539,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 430467,
+      "num": 430467,
+      "word": "狐妖竹业篇改名淮水竹亭",
+      "onboard_time": 1733140585,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428171,
       "num": 428171,
       "word": "宋亚轩自曝体重",
@@ -587,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386118,
-      "num": 386118,
-      "word": "一教培机构20多人趴地上迎接领导",
-      "onboard_time": 1733138239,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 377233,
       "num": 377233,
       "word": "孙颖莎安排小孩哥捡球",
@@ -628,7 +676,7 @@
     },
     {
       "raw_hot": 356483,
-      "num": 356483,
+      "num": 621811,
       "word": "商家大规模关闭运费险背后",
       "onboard_time": 1733136199,
       "rank": 33,
@@ -883,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267157,
+      "num": 267157,
+      "word": "赵露思短发贝雷帽造型",
+      "onboard_time": 1733141544,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264058,
       "num": 264058,
       "word": "李一桐听到怀孕带球跑的反应",
@@ -971,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244465,
+      "num": 244465,
+      "word": "没人和我说这是胡先煦啊",
+      "onboard_time": 1733142685,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242770,
       "num": 276329,
       "word": "没人告诉我王源郭俊辰关系这么好",
@@ -993,6 +1057,14 @@
       "onboard_time": 1733128398,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239095,
+      "num": 239095,
+      "word": "祝绪丹 很开心陪你走过一段路",
+      "onboard_time": 1733140585,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 235648,
@@ -1059,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227643,
+      "num": 227643,
+      "word": "苏醒回应武艺推荐他参加再见爱人",
+      "onboard_time": 1733138420,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227552,
       "num": 227552,
       "word": "因穷写网文写成茅盾奖",
@@ -1073,14 +1153,6 @@
       "onboard_time": 1733129420,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 224987,
-      "num": 224987,
-      "word": "苏醒回应武艺推荐他参加再见爱人",
-      "onboard_time": 1733138420,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 224378,
@@ -1171,12 +1243,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 211581,
+      "num": 211581,
+      "word": "导师看到我的论文查重率是0%时",
+      "onboard_time": 1733138844,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209559,
       "num": 209559,
       "word": "重庆棒棒父子14年后重返故地",
       "onboard_time": 1733099717,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209310,
+      "num": 373006,
+      "word": "给我cp接一下",
+      "onboard_time": 1733143226,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 209238,
@@ -1305,6 +1393,14 @@
       "onboard_time": 1733122637,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195788,
+      "num": 195788,
+      "word": "收拾收拾准备投胎吧",
+      "onboard_time": 1733140886,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195591,
@@ -1467,6 +1563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181794,
+      "num": 181794,
+      "word": "29名建筑工赴香港打工月薪3万",
+      "onboard_time": 1733142086,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180728,
       "num": 180728,
       "word": "肖战入围APMA华语地区最佳男歌手",
@@ -1489,14 +1593,6 @@
       "onboard_time": 1733101279,
       "rank": 10,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 176850,
-      "num": 176850,
-      "word": "导师看到我的论文查重率是0%时",
-      "onboard_time": 1733138844,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 175416,
@@ -1699,6 +1795,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153717,
+      "num": 153717,
+      "word": "赵小童野男人邂逅野牛",
+      "onboard_time": 1733142866,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152984,
+      "num": 206718,
+      "word": "白磷速度就是快",
+      "onboard_time": 1733142984,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152683,
       "num": 152683,
       "word": "女子10件旧羽绒服爆改1床羽绒被",
@@ -1899,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140119,
+      "num": 140119,
+      "word": "VOGUE 王曼昱",
+      "onboard_time": 1733143285,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140005,
       "num": 140005,
       "word": "aespa 星际女战士winter",
@@ -1969,6 +2089,14 @@
       "onboard_time": 1733123958,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135034,
+      "num": 135034,
+      "word": "刘国梁西装现身成都被喊国梁叔",
+      "onboard_time": 1733143404,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134945,
@@ -2115,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125082,
+      "num": 125082,
+      "word": "新一疑似内涵Uzi",
+      "onboard_time": 1733143525,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124497,
       "num": 124497,
       "word": "2024还剩最后30天",
@@ -2249,6 +2385,14 @@
       "onboard_time": 1733124858,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110675,
+      "num": 110675,
+      "word": "拍身份证照片别穿这类衣服",
+      "onboard_time": 1733143705,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108857,
@@ -2449,6 +2593,22 @@
       "onboard_time": 1733049558,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 84798,
+      "num": 429287,
+      "word": "机构回应员工跪喊生死不辱使命",
+      "onboard_time": 1733143106,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84243,
+      "num": 395201,
+      "word": "香港97年卡拉OK纵火案嫌犯内地落网",
+      "onboard_time": 1733142507,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83568,
@@ -2827,6 +2987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 50175,
+      "num": 1002262,
+      "word": "山东手造儒风新韵",
+      "onboard_time": 1733129299,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49146,
       "num": 307198,
       "word": "京城大师赛",
@@ -2867,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46505,
+      "num": 272819,
+      "word": "荣耀300发布会",
+      "onboard_time": 1733137819,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43666,
       "num": 319381,
       "word": "医保跨省直接结算新增5种门诊慢特病",
@@ -2889,6 +3065,14 @@
       "onboard_time": 1733075293,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41849,
+      "num": 397100,
+      "word": "秦叔就是你爸爸",
+      "onboard_time": 1733143404,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 41197,
@@ -2971,20 +3155,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 37706,
-      "num": 272819,
-      "word": "荣耀300发布会",
-      "onboard_time": 1733137819,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 37271,
       "num": 320719,
       "word": "周密与周芯竹无股权关联",
       "onboard_time": 1733120118,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35628,
+      "num": 381266,
+      "word": "22万789匹领克王来了",
+      "onboard_time": 1733140044,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 34569,
@@ -3043,6 +3227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31722,
+      "num": 181799,
+      "word": "荣耀300虚化效果比肩单反相机",
+      "onboard_time": 1733142925,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 31387,
+      "num": 379576,
+      "word": "红旗新能源永远可以相信",
+      "onboard_time": 1733141067,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31318,
       "num": 31318,
       "word": "张婧仪缇兰试妆",
@@ -3059,12 +3259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29700,
-      "num": 1002262,
-      "word": "山东手造儒风新韵",
-      "onboard_time": 1733129299,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 28933,
+      "num": 390325,
+      "word": "荣耀300镜头下的虞书欣",
+      "onboard_time": 1733141067,
+      "rank": 17,
+      "category": "作品衍生,数码"
     },
     {
       "raw_hot": 28373,
@@ -3073,6 +3273,22 @@
       "onboard_time": 1733138598,
       "rank": 28,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 27533,
+      "num": 124560,
+      "word": "眼科专家揭秘手机屏幕护眼能力真相",
+      "onboard_time": 1733140044,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27075,
+      "num": 412941,
+      "word": "AI学习机一本正经瞎判作业",
+      "onboard_time": 1733142507,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26848,
@@ -3147,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22510,
+      "num": 403769,
+      "word": "观众看旅行真人秀看的是什么",
+      "onboard_time": 1733142086,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21750,
       "num": 194485,
       "word": "荣耀300Ai旅拍神器",
@@ -3185,6 +3409,14 @@
       "onboard_time": 1733080631,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18791,
+      "num": 232810,
+      "word": "领克Z10省心价",
+      "onboard_time": 1733141365,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 18606,
