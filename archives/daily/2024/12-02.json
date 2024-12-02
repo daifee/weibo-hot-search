@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733136316340,
+  "endTime": 1733138443484,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -67,7 +67,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1163595,
+      "raw_hot": 1349922,
       "num": 1163595,
       "word": "丑老公",
       "onboard_time": 1733129239,
@@ -121,6 +121,14 @@
       "onboard_time": 1733060119,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 984215,
+      "num": 456306,
+      "word": "前体操冠军张宏涛回应擦边争议",
+      "onboard_time": 1733134099,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 951829,
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536952,
+      "num": 536952,
+      "word": "Pest发歌diss周密",
+      "onboard_time": 1733136678,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 528511,
       "num": 528511,
       "word": "李行亮12月至少有2个演出计划",
@@ -547,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 399696,
-      "num": 399696,
-      "word": "前体操冠军张宏涛回应擦边争议",
-      "onboard_time": 1733134099,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 392126,
       "num": 392126,
       "word": "川航回应3U8925航班备降桂林",
@@ -667,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340700,
+      "num": 340700,
+      "word": "韩国赴华订单暴增上海成大热门",
+      "onboard_time": 1733134519,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 333870,
       "num": 333870,
       "word": "喜剧之王开机",
@@ -705,6 +721,22 @@
       "onboard_time": 1733107337,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 323381,
+      "num": 323381,
+      "word": "商家大规模关闭运费险背后",
+      "onboard_time": 1733136199,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310628,
+      "num": 262080,
+      "word": "网易云音乐崩了",
+      "onboard_time": 1733137520,
+      "rank": 13,
+      "category": "互联网,音乐"
     },
     {
       "raw_hot": 310376,
@@ -811,20 +843,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271833,
-      "num": 319647,
-      "word": "韩国赴华订单暴增上海成大热门",
-      "onboard_time": 1733134519,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 271626,
       "num": 271626,
       "word": "陈都灵月鳞绮纪出妆路透",
       "onboard_time": 1733108118,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266646,
+      "num": 272182,
+      "word": "其他rapper提起周密欲言又止",
+      "onboard_time": 1733132959,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 264058,
@@ -899,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 246067,
+      "num": 246067,
+      "word": "2岁孩子将电池放嘴里咬发生爆炸",
+      "onboard_time": 1733136918,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244637,
       "num": 244637,
       "word": "秦彻",
@@ -928,6 +968,14 @@
       "word": "王楚钦太可爱了",
       "onboard_time": 1733128398,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235916,
+      "num": 235916,
+      "word": "王楚钦说落后是因为太想打出感觉",
+      "onboard_time": 1733133679,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1019,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221865,
+      "num": 303205,
+      "word": "吴柳芳曾参加很多公益支教活动",
+      "onboard_time": 1733135298,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220626,
       "num": 227877,
       "word": "田嘉瑞月鳞绮纪开机出妆路透",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1733120598,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217031,
+      "num": 256805,
+      "word": "肖战方取证维权",
+      "onboard_time": 1733135119,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 214052,
@@ -1105,14 +1169,6 @@
       "onboard_time": 1733114001,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207705,
-      "num": 256805,
-      "word": "肖战方取证维权",
-      "onboard_time": 1733135119,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 205276,
@@ -1387,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171803,
+      "num": 171803,
+      "word": "Tian晒奖杯",
+      "onboard_time": 1733137819,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171765,
       "num": 171765,
       "word": "陷入我们的热恋",
@@ -1411,6 +1475,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 170265,
+      "num": 170265,
+      "word": "杭州到达好多明星",
+      "onboard_time": 1733135958,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 169988,
       "num": 169988,
       "word": "豪士回应面包霉菌超标近6倍",
@@ -1433,14 +1505,6 @@
       "onboard_time": 1733115380,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166115,
-      "num": 272182,
-      "word": "其他rapper提起周密欲言又止",
-      "onboard_time": 1733132959,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 166035,
@@ -1472,14 +1536,6 @@
       "word": "为什么有的人会搞砸每一段关系",
       "onboard_time": 1733113759,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160906,
-      "num": 160906,
-      "word": "商家大规模关闭运费险背后",
-      "onboard_time": 1733136199,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1571,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154263,
+      "num": 154263,
+      "word": "孙颖莎无法实现的座位自由",
+      "onboard_time": 1733134459,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "周冠宇",
@@ -1643,12 +1707,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148086,
-      "num": 148086,
-      "word": "王楚钦说落后是因为太想打出感觉",
-      "onboard_time": 1733133679,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 147652,
+      "num": 147652,
+      "word": "一教培机构20多人趴地上迎接领导",
+      "onboard_time": 1733138239,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146132,
@@ -1795,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139451,
-      "num": 139451,
-      "word": "孙颖莎无法实现的座位自由",
-      "onboard_time": 1733134459,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138524,
       "num": 138524,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -1867,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134826,
+      "num": 160976,
+      "word": "贺峻霖鞠躬感谢让路司机",
+      "onboard_time": 1733136678,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133803,
       "num": 133803,
       "word": "被88岁爷爷的时尚感硬控了",
@@ -1899,14 +1963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131446,
-      "num": 303205,
-      "word": "吴柳芳曾参加很多公益支教活动",
-      "onboard_time": 1733135298,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131190,
       "num": 131190,
       "word": "辛芷蕾到杭州了",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1733102298,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129538,
+      "num": 129538,
+      "word": "韩国旅行社用中国美食吸引年轻人",
+      "onboard_time": 1733137999,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 128529,
@@ -2049,6 +2113,22 @@
       "onboard_time": 1733101279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121462,
+      "num": 121462,
+      "word": "苏醒回应武艺推荐他参加再见爱人",
+      "onboard_time": 1733138420,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121132,
+      "num": 121132,
+      "word": "男子逃生又回火场抢救财物遇难",
+      "onboard_time": 1733137038,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120577,
@@ -2339,12 +2419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82605,
+      "num": 248148,
+      "word": "白夜破晓评论区炸蚂蚱",
+      "onboard_time": 1733137219,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82380,
       "num": 97875,
       "word": "周芯竹说不太喜欢被过去拖住",
       "onboard_time": 1733060840,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81253,
+      "num": 340537,
+      "word": "ABO溶血症及时就诊治愈率100%",
+      "onboard_time": 1733136199,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 79329,
@@ -2667,6 +2763,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48167,
+      "num": 259868,
+      "word": "山东青岛发布妈妈岗用人目录",
+      "onboard_time": 1733137399,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48090,
+      "num": 275337,
+      "word": "开车前一个小动作或挽救一条小生命",
+      "onboard_time": 1733137399,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 47415,
       "num": 47415,
       "word": "央视拍的罗云熙",
@@ -2715,20 +2827,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42747,
-      "num": 340537,
-      "word": "ABO溶血症及时就诊治愈率100%",
-      "onboard_time": 1733136199,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 41197,
       "num": 304145,
       "word": "刘雯演绎七套香奈儿高级手工坊",
       "onboard_time": 1733129120,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40688,
+      "num": 247976,
+      "word": "失恋买醉后跟警察要微信",
+      "onboard_time": 1733137819,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40297,
@@ -2803,12 +2915,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 37706,
+      "num": 172461,
+      "word": "荣耀300发布会",
+      "onboard_time": 1733137819,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37271,
       "num": 320719,
       "word": "周密与周芯竹无股权关联",
       "onboard_time": 1733120118,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34569,
+      "num": 180430,
+      "word": "广东江门早茶边吃边看WWE",
+      "onboard_time": 1733136859,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 34019,
@@ -3011,6 +3139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16064,
+      "num": 131599,
+      "word": "荣耀300Ai旅拍神器",
+      "onboard_time": 1733138118,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 15037,
       "num": 57771,
       "word": "这个娄子建议多捅几次",
@@ -3121,6 +3257,14 @@
       "onboard_time": 1733087590,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6692,
+      "num": 228970,
+      "word": "快船主场致敬威少",
+      "onboard_time": 1733138118,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 6605,
