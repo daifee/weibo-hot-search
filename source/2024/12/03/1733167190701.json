@@ -1,0 +1,410 @@
+{
+  "runTime": 1733167190701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 149442,
+        "num": 149442,
+        "word": "12岁女孩以为月经不调竟是癌症晚期",
+        "onboard_time": 1733155878,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95344,
+        "num": 95344,
+        "word": "豪士涉事面包仍正常售卖",
+        "onboard_time": 1733159415,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14149,
+        "num": 73003,
+        "word": "数说我国首条世界级天然气管道",
+        "onboard_time": 1733145265,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66646,
+        "num": 66646,
+        "word": "6岁女儿蹭跑全马父亲涉违规",
+        "onboard_time": 1733152460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63111,
+        "num": 63111,
+        "word": "陈少熙直播",
+        "onboard_time": 1733151742,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77066,
+        "num": 61876,
+        "word": "黄子韬徐艺洋结婚",
+        "onboard_time": 1733138724,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51374,
+        "num": 51374,
+        "word": "5000年前的日出曾被这样记录下来",
+        "onboard_time": 1733160493,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 48019,
+        "num": 48019,
+        "word": "有人用运费险8个月骗取100多万",
+        "onboard_time": 1733128278,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37211,
+        "num": 37211,
+        "word": "身份证拍照小提示",
+        "onboard_time": 1733160133,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36802,
+        "num": 36802,
+        "word": "快乐再出发录制与游客起冲突",
+        "onboard_time": 1733150181,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234019,
+        "num": 36549,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32609,
+        "num": 32609,
+        "word": "周芯竹周密分手风波",
+        "onboard_time": 1733161933,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30601,
+        "num": 30601,
+        "word": "三千买的缅因猫治疗花了一万多",
+        "onboard_time": 1733154260,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30401,
+        "num": 30401,
+        "word": "归国四子",
+        "onboard_time": 1733140947,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29081,
+        "num": 29081,
+        "word": "Angelababy染发了",
+        "onboard_time": 1733127920,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54112,
+        "num": 28944,
+        "word": "鹿晗点赞黄子韬结婚博",
+        "onboard_time": 1733150421,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27865,
+        "num": 27865,
+        "word": "苏醒晒与武艺聊天记录",
+        "onboard_time": 1733144725,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26165,
+        "num": 26165,
+        "word": "组委会回应6岁女孩跑完全马",
+        "onboard_time": 1733154859,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23436,
+        "num": 23436,
+        "word": "下午四点半后是个很神奇的时间节点",
+        "onboard_time": 1733143285,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27499,
+        "num": 23418,
+        "word": "杨颖侧脸vs正脸",
+        "onboard_time": 1733153000,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33117,
+        "num": 23413,
+        "word": "被清华大学教室的粉笔震惊到了",
+        "onboard_time": 1733146342,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15445,
+        "num": 23396,
+        "word": "川航通报因旅客的充电宝冒烟备降桂林",
+        "onboard_time": 1733165171,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24005,
+        "num": 23381,
+        "word": "最直观海姆立克急救法",
+        "onboard_time": 1733155218,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23366,
+        "num": 23366,
+        "word": "美一女子急诊刚醒护士就来结账",
+        "onboard_time": 1733150002,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5889,
+        "num": 21635,
+        "word": "张艺谋蹲着给妻子拍照",
+        "onboard_time": 1733167090,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21376,
+        "num": 21376,
+        "word": "这件大口尊刻着一场5000年前的日出",
+        "onboard_time": 1733161814,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21320,
+        "num": 21320,
+        "word": "郭敬明 月鳞绮纪原始帧",
+        "onboard_time": 1733148203,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21032,
+        "num": 21032,
+        "word": "一教培机构20多人趴地上迎接领导",
+        "onboard_time": 1733138239,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20520,
+        "num": 20520,
+        "word": "小伙南极旅行邮轮与冰山擦肩而过",
+        "onboard_time": 1733157316,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13099,
+        "num": 20182,
+        "word": "广东宣布入秋",
+        "onboard_time": 1733166432,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5795,
+        "num": 20125,
+        "word": "苏新皓橙色的小苏大放送",
+        "onboard_time": 1733166792,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20125,
+        "num": 20124,
+        "word": "商家大规模关闭运费险背后",
+        "onboard_time": 1733136199,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19404,
+        "num": 19404,
+        "word": "中方希望立陶宛新政府坚持一个中国原则",
+        "onboard_time": 1733150902,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18699,
+        "num": 18699,
+        "word": "徐艺洋幼师资格证下来了",
+        "onboard_time": 1733142025,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18525,
+        "num": 18525,
+        "word": "奚梦瑶现身私立医院",
+        "onboard_time": 1733141006,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18153,
+        "num": 18153,
+        "word": "黄爱洋",
+        "onboard_time": 1733144845,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18107,
+        "num": 18107,
+        "word": "没人和我说这是胡先煦啊",
+        "onboard_time": 1733142685,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17987,
+        "num": 17987,
+        "word": "为蟑螂正名",
+        "onboard_time": 1733147002,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17398,
+        "num": 17398,
+        "word": "导师看到我的论文查重率是0%时",
+        "onboard_time": 1733138844,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17319,
+        "num": 17319,
+        "word": "加点zuo料",
+        "onboard_time": 1733157316,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16819,
+        "num": 16819,
+        "word": "婚内婚外这一幕完全是恐怖片",
+        "onboard_time": 1733148741,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16760,
+        "num": 16760,
+        "word": "中方将采取必要措施坚决维护正当权益",
+        "onboard_time": 1733151440,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16253,
+        "num": 16253,
+        "word": "万物皆可冰糖葫芦",
+        "onboard_time": 1733159295,
+        "rank": 42,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 16016,
+        "num": 16016,
+        "word": "商务部回应美国半导体出口管制措施",
+        "onboard_time": 1733152580,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15968,
+        "num": 15968,
+        "word": "共建一带一路倡议朋友圈越来越大",
+        "onboard_time": 1733161634,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15743,
+        "num": 15743,
+        "word": "丁禹兮一年播了四部剧",
+        "onboard_time": 1733158935,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15338,
+        "num": 15742,
+        "word": "鹭卓许愿油渍不再溅到白色套装",
+        "onboard_time": 1733156058,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14583,
+        "num": 15734,
+        "word": "Pest发歌diss周密",
+        "onboard_time": 1733136678,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14551,
+        "num": 15734,
+        "word": "四川雅江3.4级地震",
+        "onboard_time": 1733165232,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13916,
+        "num": 15725,
+        "word": "人人网已停止服务",
+        "onboard_time": 1733130020,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}
