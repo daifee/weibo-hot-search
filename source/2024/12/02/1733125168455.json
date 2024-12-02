@@ -1,0 +1,410 @@
+{
+  "runTime": 1733125168455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1606308,
+        "num": 1606308,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 951829,
+        "num": 951829,
+        "word": "中方回应立陶宛要求我外交人员限期离境",
+        "onboard_time": 1733122758,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19724,
+        "num": 950017,
+        "word": "读懂改革奋进的中国",
+        "onboard_time": 1733116820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 949204,
+        "num": 949204,
+        "word": "小伙相亲5年娶了个洋媳妇",
+        "onboard_time": 1733120480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637120,
+        "num": 637120,
+        "word": "韩国流行周五下班去中国",
+        "onboard_time": 1733112380,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 611398,
+        "num": 611398,
+        "word": "李蠕蠕模仿麦琳",
+        "onboard_time": 1733120598,
+        "rank": 5,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 578574,
+        "num": 578574,
+        "word": "豪士1批次面包霉菌超标近6倍",
+        "onboard_time": 1733120959,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556660,
+        "num": 556660,
+        "word": "2024年十大流行语",
+        "onboard_time": 1733121557,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449670,
+        "num": 513835,
+        "word": "周密爆料为周芯竹成立的公司已注销",
+        "onboard_time": 1733119099,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 301749,
+        "num": 510341,
+        "word": "院士说现在一顿饭的热量太高",
+        "onboard_time": 1733118619,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507497,
+        "num": 507497,
+        "word": "王楚钦孙颖莎击掌庆祝",
+        "onboard_time": 1733121139,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417288,
+        "num": 417288,
+        "word": "麦当劳下调配送费收取打包费",
+        "onboard_time": 1733117659,
+        "rank": 11,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 414881,
+        "num": 414881,
+        "word": "张馨予在西藏住三个月",
+        "onboard_time": 1733113520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392984,
+        "num": 392984,
+        "word": "药王谷开诊1个多月15名患者死亡",
+        "onboard_time": 1733110819,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 349727,
+        "num": 349727,
+        "word": "冯绍峰直播回家的诱惑",
+        "onboard_time": 1733123838,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321272,
+        "num": 321272,
+        "word": "吴柳芳为何被普遍支持",
+        "onboard_time": 1733124078,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 306591,
+        "num": 306591,
+        "word": "蔡文静问冯绍峰怎么撕渣男",
+        "onboard_time": 1733121018,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277096,
+        "num": 291369,
+        "word": "鹿晗直播预测",
+        "onboard_time": 1733123599,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101033,
+        "num": 290323,
+        "word": "教育局介入废弃小学信箱发现举报信",
+        "onboard_time": 1733125039,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 46909,
+        "num": 290273,
+        "word": "多地出现残疾人表演团进小区诈骗",
+        "onboard_time": 1733123838,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290251,
+        "num": 290251,
+        "word": "超30%开门杀事故引发二次事故",
+        "onboard_time": 1733121078,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264058,
+        "num": 264058,
+        "word": "李一桐听到怀孕带球跑的反应",
+        "onboard_time": 1733124378,
+        "rank": 21,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 253716,
+        "num": 253716,
+        "word": "曝麦琳疑似签公司",
+        "onboard_time": 1733124258,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247900,
+        "num": 247900,
+        "word": "周芯竹 周密",
+        "onboard_time": 1733096897,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16818,
+        "num": 228557,
+        "word": "香奈儿手工坊大秀选址西湖",
+        "onboard_time": 1733121437,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 209322,
+        "num": 209322,
+        "word": "巳升升春晚吉祥物",
+        "onboard_time": 1733121437,
+        "rank": 25,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 111415,
+        "num": 209050,
+        "word": "陈梦重返训练场视频曝光",
+        "onboard_time": 1733124858,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95402,
+        "num": 208474,
+        "word": "吉克隽逸回应被骂 好敢说",
+        "onboard_time": 1733125098,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18606,
+        "num": 208017,
+        "word": "医药代表九条红线",
+        "onboard_time": 1733124438,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135069,
+        "num": 207773,
+        "word": "65万拎包入住上海181平精装房是真的吗",
+        "onboard_time": 1733123958,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237926,
+        "num": 207180,
+        "word": "韩国年轻人涌向中国过周末",
+        "onboard_time": 1733116340,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173277,
+        "num": 206370,
+        "word": "纪委突击检查工作人员经催促才到岗",
+        "onboard_time": 1733122637,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48907,
+        "num": 206180,
+        "word": "未定事件簿",
+        "onboard_time": 1733122219,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205742,
+        "num": 205742,
+        "word": "教育局回应老师被多名小学生写信投诉",
+        "onboard_time": 1733115079,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195254,
+        "num": 195254,
+        "word": "丞磊助理",
+        "onboard_time": 1733113399,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176621,
+        "num": 176621,
+        "word": "宋亚轩自曝体重",
+        "onboard_time": 1733117479,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149856,
+        "num": 169596,
+        "word": "国乒回应战胜印度队",
+        "onboard_time": 1733123719,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166365,
+        "num": 166365,
+        "word": "王一博现身香奈儿高级手工坊",
+        "onboard_time": 1733122817,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160861,
+        "num": 160861,
+        "word": "孙颖莎喝水",
+        "onboard_time": 1733123899,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146070,
+        "num": 146070,
+        "word": "女子8小时不玩手机赢得万元奖金",
+        "onboard_time": 1733124499,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146027,
+        "num": 146027,
+        "word": "张小斐要咖啡800个假动作",
+        "onboard_time": 1733120598,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145738,
+        "num": 145738,
+        "word": "喜剧之王开机",
+        "onboard_time": 1733116878,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143957,
+        "num": 143957,
+        "word": "日本演员夸你好李焕英是好电影",
+        "onboard_time": 1733123238,
+        "rank": 42,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 143333,
+        "num": 143333,
+        "word": "丁禹兮光速下线",
+        "onboard_time": 1733121679,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143306,
+        "num": 143306,
+        "word": "川航一航班因旅客充电宝冒烟备降",
+        "onboard_time": 1733111778,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142053,
+        "num": 142053,
+        "word": "家长吐槽幼儿园调查问卷问题离谱",
+        "onboard_time": 1733124319,
+        "rank": 45,
+        "category": "舆论监督,民生新闻"
+      },
+      {
+        "raw_hot": 141016,
+        "num": 141016,
+        "word": "鞠婧祎月鳞绮纪出妆",
+        "onboard_time": 1733125098,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137670,
+        "num": 137670,
+        "word": "研究证明有饥饿感会启动长寿基因",
+        "onboard_time": 1733113520,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135983,
+        "num": 135983,
+        "word": "吴柳芳早年选拔赛受伤视频流出",
+        "onboard_time": 1733122339,
+        "rank": 48,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 130946,
+        "num": 130946,
+        "word": "男子网恋被骗又扮女性骗另一男子",
+        "onboard_time": 1733114960,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}
