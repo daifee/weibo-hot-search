@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733108899987,
+  "endTime": 1733109912778,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1132029,
+      "num": 1181124,
+      "word": "黑白森林定档",
+      "onboard_time": 1733107277,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1108218,
       "num": 890579,
       "word": "黄景瑜孙千 尴尬",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 822808,
-      "num": 360579,
+      "num": 394381,
       "word": "拜登儿子回应被宣布赦免",
       "onboard_time": 1733106737,
       "rank": 10,
@@ -283,20 +291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812910,
+      "num": 314134,
+      "word": "周芯竹 周密",
+      "onboard_time": 1733096897,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793817,
       "num": 1127010,
       "word": "央视曝光学生体育用品中的增塑剂",
       "onboard_time": 1733058919,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 790102,
-      "num": 298715,
-      "word": "周芯竹 周密",
-      "onboard_time": 1733096897,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 788291,
@@ -459,16 +467,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 619499,
-      "num": 1099119,
-      "word": "黑白森林定档",
-      "onboard_time": 1733107277,
-      "rank": 0,
-      "category": "剧集"
+      "raw_hot": 628005,
+      "num": 467017,
+      "word": "有些rapper不该把低俗当作风格",
+      "onboard_time": 1733105416,
+      "rank": 12,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 618819,
-      "num": 215891,
+      "num": 305140,
       "word": "陈近南diss周密",
       "onboard_time": 1733097498,
       "rank": 20,
@@ -531,16 +539,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 565566,
-      "num": 383151,
-      "word": "有些rapper不该把低俗当作风格",
-      "onboard_time": 1733105416,
-      "rank": 12,
-      "category": "艺人,综艺"
+      "raw_hot": 566435,
+      "num": 566435,
+      "word": "单霁翔为保护故宫地面坚持穿布鞋",
+      "onboard_time": 1733106737,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560863,
-      "num": 380559,
+      "num": 434405,
       "word": "九重紫定档",
       "onboard_time": 1733105416,
       "rank": 21,
@@ -593,6 +601,14 @@
       "onboard_time": 1733041518,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490379,
+      "num": 490379,
+      "word": "看似正常实则伤牙的行为",
+      "onboard_time": 1733105837,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 489321,
@@ -819,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 401649,
+      "num": 401649,
+      "word": "泰国坠崖孕妇11月直播14场",
+      "onboard_time": 1733107577,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400103,
       "num": 400103,
       "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
@@ -843,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388046,
-      "num": 388046,
-      "word": "单霁翔为保护故宫地面坚持穿布鞋",
-      "onboard_time": 1733106737,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384674,
       "num": 384674,
       "word": "成都混团开幕式",
@@ -873,6 +889,14 @@
       "onboard_time": 1733033057,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370861,
+      "num": 370861,
+      "word": "骄阳似我官宣赵今麦宋威龙",
+      "onboard_time": 1733107817,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 365442,
@@ -945,6 +969,14 @@
       "onboard_time": 1733019439,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323900,
+      "num": 323900,
+      "word": "安室透知道柯南身份",
+      "onboard_time": 1733107337,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 320409,
@@ -1027,28 +1059,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293496,
-      "num": 293496,
-      "word": "看似正常实则伤牙的行为",
-      "onboard_time": 1733105837,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 293222,
       "num": 293222,
       "word": "陈梦开始恢复训练",
       "onboard_time": 1733061980,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292886,
-      "num": 292886,
-      "word": "安室透知道柯南身份",
-      "onboard_time": 1733107337,
-      "rank": 17,
-      "category": "动漫"
     },
     {
       "raw_hot": 292276,
@@ -1139,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271626,
+      "num": 271626,
+      "word": "陈都灵月鳞绮纪出妆路透",
+      "onboard_time": 1733108118,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271510,
       "num": 272639,
       "word": "政治理论 题量",
@@ -1179,12 +1203,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260580,
+      "num": 322704,
+      "word": "赵丽颖此刻与我们打照面",
+      "onboard_time": 1733108057,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259663,
       "num": 259663,
       "word": "合肥LV柜姐5天更新8条卖货视频",
       "onboard_time": 1732977081,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259254,
+      "num": 227414,
+      "word": "企业微信文档崩了",
+      "onboard_time": 1733108838,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 254471,
@@ -1243,14 +1283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250037,
-      "num": 196084,
-      "word": "企业微信文档崩了",
-      "onboard_time": 1733108838,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 249719,
       "num": 249719,
       "word": "朱志鑫剪头发",
@@ -1273,14 +1305,6 @@
       "onboard_time": 1733027478,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242966,
-      "num": 215601,
-      "word": "陈都灵月鳞绮纪出妆路透",
-      "onboard_time": 1733108118,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 241540,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 232914,
-      "num": 215221,
+      "num": 223174,
       "word": "宋威龙赵今麦按姓氏首字母排序",
       "onboard_time": 1733108178,
       "rank": 25,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1733063241,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230660,
+      "num": 230660,
+      "word": "特朗普又提名了一位亲家",
+      "onboard_time": 1733107457,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230323,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1733057059,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227552,
+      "num": 227552,
+      "word": "因穷写网文写成茅盾奖",
+      "onboard_time": 1733108838,
+      "rank": 47,
+      "category": "读书作家,教育"
     },
     {
       "raw_hot": 224395,
@@ -1371,20 +1411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218437,
-      "num": 216083,
-      "word": "赵丽颖此刻与我们打照面",
-      "onboard_time": 1733108057,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217640,
       "num": 403300,
       "word": "接触艾滋病毒后有72小时能自救",
       "onboard_time": 1733026039,
       "rank": 9,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 217547,
+      "num": 217547,
+      "word": "前体操运动员刘璇疑似影射吴柳芳",
+      "onboard_time": 1733104397,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 216719,
@@ -1395,28 +1435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216487,
-      "num": 216487,
-      "word": "特朗普又提名了一位亲家",
-      "onboard_time": 1733107457,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 215368,
       "num": 653268,
       "word": "国乒8比0澳大利亚队",
       "onboard_time": 1733026338,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215147,
-      "num": 215147,
-      "word": "泰国坠崖孕妇11月直播14场",
-      "onboard_time": 1733107577,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214839,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1733043859,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209715,
-      "num": 209715,
-      "word": "前体操运动员刘璇疑似影射吴柳芳",
-      "onboard_time": 1733104397,
-      "rank": 23,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 209559,
@@ -1579,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202654,
+      "num": 199116,
+      "word": "曾舜晞月鳞绮纪开机出妆路透",
+      "onboard_time": 1733108178,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202422,
       "num": 284086,
       "word": "国考常识",
@@ -1611,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199154,
+      "num": 199154,
+      "word": "赵丽颖女友视角报备日常",
+      "onboard_time": 1733109017,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198568,
       "num": 198568,
       "word": "这么丑的猫我居然有三只",
@@ -1635,22 +1667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196290,
-      "num": 196290,
-      "word": "曾舜晞月鳞绮纪开机出妆路透",
-      "onboard_time": 1733108178,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195879,
-      "num": 195879,
-      "word": "骄阳似我官宣赵今麦宋威龙",
-      "onboard_time": 1733107817,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195536,
       "num": 195536,
       "word": "考生称行测题目变化大",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1733014517,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194786,
+      "num": 194786,
+      "word": "雄狮少年2定档",
+      "onboard_time": 1733109257,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 192792,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1733030898,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191366,
+      "num": 191366,
+      "word": "月鳞绮纪今日开拍",
+      "onboard_time": 1733109439,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 191212,
@@ -2003,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161479,
+      "num": 321513,
+      "word": "腾讯12月大剧片单",
+      "onboard_time": 1733109557,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161450,
       "num": 161450,
       "word": "战争与和平",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1733008814,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160061,
+      "num": 160061,
+      "word": "军嫂带孩子迎接丈夫退役回家",
+      "onboard_time": 1733101279,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 159564,
@@ -2107,6 +2155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 156350,
+      "num": 215478,
+      "word": "吴柳芳粉丝数突破400万",
+      "onboard_time": 1733108478,
+      "rank": 24,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 156172,
       "num": 156172,
       "word": "肖战对接否认接触攻玉",
@@ -2145,14 +2201,6 @@
       "onboard_time": 1733046859,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155566,
-      "num": 215478,
-      "word": "吴柳芳粉丝数突破400万",
-      "onboard_time": 1733108478,
-      "rank": 24,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 154781,
@@ -2427,6 +2475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139637,
+      "num": 139637,
+      "word": "李昊 歌声飘送千千里",
+      "onboard_time": 1733109678,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138524,
       "num": 272648,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -2603,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130565,
+      "num": 130565,
+      "word": "川航回应3U8925航班备降桂林",
+      "onboard_time": 1733109857,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130122,
       "num": 130122,
       "word": "胡夏裤子崩了",
@@ -2641,6 +2705,14 @@
       "onboard_time": 1732982122,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128529,
+      "num": 128529,
+      "word": "山寨烟卡私自打印香烟商标属侵权行为",
+      "onboard_time": 1733109257,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128013,
@@ -2689,14 +2761,6 @@
       "onboard_time": 1733106197,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126251,
-      "num": 126251,
-      "word": "军嫂带孩子迎接丈夫退役回家",
-      "onboard_time": 1733101279,
-      "rank": 40,
-      "category": "正能量"
     },
     {
       "raw_hot": 125909,
@@ -2833,14 +2897,6 @@
       "onboard_time": 1733035577,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120646,
-      "num": 120646,
-      "word": "因穷写网文写成茅盾奖",
-      "onboard_time": 1733108838,
-      "rank": 47,
-      "category": "读书作家,教育"
     },
     {
       "raw_hot": 120625,
@@ -3603,6 +3659,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 69129,
+      "num": 397348,
+      "word": "网红花26美元打卡联合国营造精英人设",
+      "onboard_time": 1733065220,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69046,
       "num": 469449,
       "word": "融创出售哈尔滨冰雪大世界股权",
@@ -3851,6 +3915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49146,
+      "num": 307198,
+      "word": "京城大师赛",
+      "onboard_time": 1733108418,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48519,
       "num": 426005,
       "word": "心理咨询师谈郁豹豹认亲后决裂",
@@ -3987,6 +4059,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 38920,
+      "num": 319287,
+      "word": "升级纯血鸿蒙的理由又多了一个",
+      "onboard_time": 1733107157,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38648,
       "num": 118210,
       "word": "从再见爱人看女性之间的默契",
@@ -4073,14 +4153,6 @@
       "onboard_time": 1733000771,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 33346,
-      "num": 216369,
-      "word": "升级纯血鸿蒙的理由又多了一个",
-      "onboard_time": 1733107157,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 32448,
@@ -4233,14 +4305,6 @@
       "onboard_time": 1733047698,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26130,
-      "num": 364577,
-      "word": "网红花26美元打卡联合国营造精英人设",
-      "onboard_time": 1733065220,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26046,
@@ -4457,6 +4521,14 @@
       "onboard_time": 1733066480,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14663,
+      "num": 317721,
+      "word": "4种体质的女性易患多囊",
+      "onboard_time": 1733109797,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14368,

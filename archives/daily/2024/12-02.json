@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733108899987,
+  "endTime": 1733109912778,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -9,6 +9,14 @@
       "onboard_time": 1733101518,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1132029,
+      "num": 1181124,
+      "word": "黑白森林定档",
+      "onboard_time": 1733107277,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1073770,
@@ -36,15 +44,15 @@
     },
     {
       "raw_hot": 822808,
-      "num": 360579,
+      "num": 394381,
       "word": "拜登儿子回应被宣布赦免",
       "onboard_time": 1733106737,
       "rank": 10,
       "category": "国际时政"
     },
     {
-      "raw_hot": 790102,
-      "num": 298715,
+      "raw_hot": 812910,
+      "num": 314134,
       "word": "周芯竹 周密",
       "onboard_time": 1733096897,
       "rank": 15,
@@ -75,16 +83,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 619499,
-      "num": 1099119,
-      "word": "黑白森林定档",
-      "onboard_time": 1733107277,
-      "rank": 0,
-      "category": "剧集"
+      "raw_hot": 628005,
+      "num": 467017,
+      "word": "有些rapper不该把低俗当作风格",
+      "onboard_time": 1733105416,
+      "rank": 12,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 618819,
-      "num": 215891,
+      "num": 305140,
       "word": "陈近南diss周密",
       "onboard_time": 1733097498,
       "rank": 20,
@@ -107,16 +115,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 565566,
-      "num": 383151,
-      "word": "有些rapper不该把低俗当作风格",
-      "onboard_time": 1733105416,
-      "rank": 12,
-      "category": "艺人,综艺"
+      "raw_hot": 566435,
+      "num": 566435,
+      "word": "单霁翔为保护故宫地面坚持穿布鞋",
+      "onboard_time": 1733106737,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560863,
-      "num": 380559,
+      "num": 434405,
       "word": "九重紫定档",
       "onboard_time": 1733105416,
       "rank": 21,
@@ -137,6 +145,14 @@
       "onboard_time": 1733082251,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 490379,
+      "num": 490379,
+      "word": "看似正常实则伤牙的行为",
+      "onboard_time": 1733105837,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 479689,
@@ -171,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401649,
+      "num": 401649,
+      "word": "泰国坠崖孕妇11月直播14场",
+      "onboard_time": 1733107577,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401548,
       "num": 209112,
       "word": "23岁清华女博士对人生的真实感受",
@@ -187,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388046,
-      "num": 388046,
-      "word": "单霁翔为保护故宫地面坚持穿布鞋",
-      "onboard_time": 1733106737,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 370861,
+      "num": 370861,
+      "word": "骄阳似我官宣赵今麦宋威龙",
+      "onboard_time": 1733107817,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 362693,
@@ -227,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323900,
+      "num": 323900,
+      "word": "安室透知道柯南身份",
+      "onboard_time": 1733107337,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 310376,
       "num": 310376,
       "word": "撞死知名医生肇事者家属请求谅解",
@@ -249,22 +281,6 @@
       "onboard_time": 1733067319,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293496,
-      "num": 293496,
-      "word": "看似正常实则伤牙的行为",
-      "onboard_time": 1733105837,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 292886,
-      "num": 292886,
-      "word": "安室透知道柯南身份",
-      "onboard_time": 1733107337,
-      "rank": 17,
-      "category": "动漫"
     },
     {
       "raw_hot": 292222,
@@ -291,6 +307,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271626,
+      "num": 271626,
+      "word": "陈都灵月鳞绮纪出妆路透",
+      "onboard_time": 1733108118,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260580,
+      "num": 322704,
+      "word": "赵丽颖此刻与我们打照面",
+      "onboard_time": 1733108057,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259254,
+      "num": 227414,
+      "word": "企业微信文档崩了",
+      "onboard_time": 1733108838,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 253895,
       "num": 253895,
       "word": "大爷哪天出现哪天就是快乐星期几",
@@ -299,28 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250037,
-      "num": 196084,
-      "word": "企业微信文档崩了",
-      "onboard_time": 1733108838,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 244637,
       "num": 244637,
       "word": "秦彻",
       "onboard_time": 1733103377,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242966,
-      "num": 215601,
-      "word": "陈都灵月鳞绮纪出妆路透",
-      "onboard_time": 1733108118,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 235648,
@@ -340,11 +364,27 @@
     },
     {
       "raw_hot": 232914,
-      "num": 215221,
+      "num": 223174,
       "word": "宋威龙赵今麦按姓氏首字母排序",
       "onboard_time": 1733108178,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230660,
+      "num": 230660,
+      "word": "特朗普又提名了一位亲家",
+      "onboard_time": 1733107457,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 227552,
+      "num": 227552,
+      "word": "因穷写网文写成茅盾奖",
+      "onboard_time": 1733108838,
+      "rank": 47,
+      "category": "读书作家,教育"
     },
     {
       "raw_hot": 219009,
@@ -355,28 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218437,
-      "num": 216083,
-      "word": "赵丽颖此刻与我们打照面",
-      "onboard_time": 1733108057,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 216487,
-      "num": 216487,
-      "word": "特朗普又提名了一位亲家",
-      "onboard_time": 1733107457,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 215147,
-      "num": 215147,
-      "word": "泰国坠崖孕妇11月直播14场",
-      "onboard_time": 1733107577,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 217547,
+      "num": 217547,
+      "word": "前体操运动员刘璇疑似影射吴柳芳",
+      "onboard_time": 1733104397,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 214052,
@@ -385,14 +409,6 @@
       "onboard_time": 1733064921,
       "rank": 9,
       "category": "民生新闻,剧集"
-    },
-    {
-      "raw_hot": 209715,
-      "num": 209715,
-      "word": "前体操运动员刘璇疑似影射吴柳芳",
-      "onboard_time": 1733104397,
-      "rank": 23,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 209559,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202654,
+      "num": 199116,
+      "word": "曾舜晞月鳞绮纪开机出妆路透",
+      "onboard_time": 1733108178,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200440,
       "num": 200440,
       "word": "丁禹兮今天喝奶茶啦",
@@ -419,19 +443,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196290,
-      "num": 196290,
-      "word": "曾舜晞月鳞绮纪开机出妆路透",
-      "onboard_time": 1733108178,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 199154,
+      "num": 199154,
+      "word": "赵丽颖女友视角报备日常",
+      "onboard_time": 1733109017,
+      "rank": 33,
+      "category": "艺人"
     },
     {
-      "raw_hot": 195879,
-      "num": 195879,
-      "word": "骄阳似我官宣赵今麦宋威龙",
-      "onboard_time": 1733107817,
-      "rank": 32,
+      "raw_hot": 194786,
+      "num": 194786,
+      "word": "雄狮少年2定档",
+      "onboard_time": 1733109257,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191366,
+      "num": 191366,
+      "word": "月鳞绮纪今日开拍",
+      "onboard_time": 1733109439,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -483,6 +515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161479,
+      "num": 321513,
+      "word": "腾讯12月大剧片单",
+      "onboard_time": 1733109557,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160061,
+      "num": 160061,
+      "word": "军嫂带孩子迎接丈夫退役回家",
+      "onboard_time": 1733101279,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 159389,
       "num": 159389,
       "word": "好东西",
@@ -499,7 +547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155566,
+      "raw_hot": 156350,
       "num": 215478,
       "word": "吴柳芳粉丝数突破400万",
       "onboard_time": 1733108478,
@@ -595,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139637,
+      "num": 139637,
+      "word": "李昊 歌声飘送千千里",
+      "onboard_time": 1733109678,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138524,
       "num": 138524,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -635,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130565,
+      "num": 130565,
+      "word": "川航回应3U8925航班备降桂林",
+      "onboard_time": 1733109857,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130122,
       "num": 130122,
       "word": "胡夏裤子崩了",
       "onboard_time": 1733102298,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128529,
+      "num": 128529,
+      "word": "山寨烟卡私自打印香烟商标属侵权行为",
+      "onboard_time": 1733109257,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128013,
@@ -664,14 +736,6 @@
       "word": "美国小伙说来北京像到了公元3000年",
       "onboard_time": 1733046679,
       "rank": 32,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 126251,
-      "num": 126251,
-      "word": "军嫂带孩子迎接丈夫退役回家",
-      "onboard_time": 1733101279,
-      "rank": 40,
       "category": "正能量"
     },
     {
@@ -713,14 +777,6 @@
       "onboard_time": 1733101279,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120646,
-      "num": 120646,
-      "word": "因穷写网文写成茅盾奖",
-      "onboard_time": 1733108838,
-      "rank": 47,
-      "category": "读书作家,教育"
     },
     {
       "raw_hot": 120337,
@@ -907,6 +963,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 69129,
+      "num": 397348,
+      "word": "网红花26美元打卡联合国营造精英人设",
+      "onboard_time": 1733065220,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67496,
       "num": 247298,
       "word": "周冠宇期待下一个篇章",
@@ -1035,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49146,
+      "num": 307198,
+      "word": "京城大师赛",
+      "onboard_time": 1733108418,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47415,
       "num": 47415,
       "word": "央视拍的罗云熙",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1733095816,
       "rank": 48,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 38920,
+      "num": 319287,
+      "word": "升级纯血鸿蒙的理由又多了一个",
+      "onboard_time": 1733107157,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 38354,
@@ -1107,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33346,
-      "num": 216369,
-      "word": "升级纯血鸿蒙的理由又多了一个",
-      "onboard_time": 1733107157,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 32169,
       "num": 37885,
       "word": "王安宇拉着金晨撒娇",
@@ -1145,14 +1217,6 @@
       "onboard_time": 1733095096,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26130,
-      "num": 364577,
-      "word": "网红花26美元打卡联合国营造精英人设",
-      "onboard_time": 1733065220,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26015,
@@ -1225,6 +1289,14 @@
       "onboard_time": 1733066480,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14663,
+      "num": 317721,
+      "word": "4种体质的女性易患多囊",
+      "onboard_time": 1733109797,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14368,
