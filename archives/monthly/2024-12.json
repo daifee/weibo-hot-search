@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733117060775,
+  "endTime": 1733118121439,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -219,8 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1027495,
-      "num": 1027495,
+      "raw_hot": 1035191,
+      "num": 1035191,
       "word": "张馨予在西藏住三个月",
       "onboard_time": 1733113520,
       "rank": 18,
@@ -281,6 +281,14 @@
       "onboard_time": 1733061141,
       "rank": 11,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 922313,
+      "num": 922313,
+      "word": "教育局回应老师被多名小学生写信投诉",
+      "onboard_time": 1733115079,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 905274,
@@ -417,14 +425,6 @@
       "onboard_time": 1733011516,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 687088,
-      "num": 687088,
-      "word": "教育局回应老师被多名小学生写信投诉",
-      "onboard_time": 1733115079,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 680695,
@@ -755,6 +755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 463843,
+      "num": 463843,
+      "word": "麦琳未在李行亮经纪公司持股",
+      "onboard_time": 1733116100,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463319,
       "num": 277342,
       "word": "结婚1年多不孕夫妻变姐妹",
@@ -905,6 +913,14 @@
       "onboard_time": 1733025319,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 416826,
+      "num": 504609,
+      "word": "韩国年轻人涌向中国过周末",
+      "onboard_time": 1733116340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415337,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1733043737,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333870,
+      "num": 333870,
+      "word": "喜剧之王开机",
+      "onboard_time": 1733116878,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 328364,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1733112079,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283022,
-      "num": 283022,
-      "word": "麦琳未在李行亮经纪公司持股",
-      "onboard_time": 1733116100,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 282829,
@@ -1451,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252442,
+      "num": 252442,
+      "word": "周夺笋",
+      "onboard_time": 1733116280,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252248,
       "num": 252248,
       "word": "李行亮 商演",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1733045481,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 237470,
+      "num": 237470,
+      "word": "管晨辰已停更2周",
+      "onboard_time": 1733117600,
+      "rank": 22,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 234263,
@@ -1579,6 +1611,14 @@
       "category": "网红,体育"
     },
     {
+      "raw_hot": 228705,
+      "num": 228705,
+      "word": "贾玲撑腰张小斐新剧",
+      "onboard_time": 1733114840,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227552,
       "num": 227552,
       "word": "因穷写网文写成茅盾奖",
@@ -1603,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222844,
-      "num": 504609,
-      "word": "韩国年轻人涌向中国过周末",
-      "onboard_time": 1733116340,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222682,
       "num": 213352,
       "word": "女子麦当劳内咆哮式辱骂一男孩",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1733057420,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219043,
+      "num": 340345,
+      "word": "研究证明有饥饿感会启动长寿基因",
+      "onboard_time": 1733113520,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217640,
@@ -1691,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211899,
-      "num": 211899,
-      "word": "贾玲撑腰张小斐新剧",
-      "onboard_time": 1733114840,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210708,
       "num": 228111,
       "word": "王源丁程鑫好六上班",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1733063660,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208746,
+      "num": 164307,
+      "word": "宋亚轩自曝体重",
+      "onboard_time": 1733117479,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 208716,
@@ -1867,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202693,
+      "num": 202693,
+      "word": "混团国乒优势太明显",
+      "onboard_time": 1733117419,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202654,
       "num": 199116,
       "word": "曾舜晞月鳞绮纪开机出妆路透",
@@ -1907,14 +1955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200127,
-      "num": 340345,
-      "word": "研究证明有饥饿感会启动长寿基因",
-      "onboard_time": 1733113520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198832,
       "num": 226205,
       "word": "摇光录乱世公主停止更新",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1733050039,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196418,
-      "num": 196418,
-      "word": "周夺笋",
-      "onboard_time": 1733116280,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 195591,
@@ -2033,6 +2065,14 @@
       "onboard_time": 1733040798,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191023,
+      "num": 210131,
+      "word": "原神",
+      "onboard_time": 1733117358,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 190843,
@@ -2187,6 +2227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179103,
+      "num": 273675,
+      "word": "仅有39.6万人放弃国考",
+      "onboard_time": 1733114601,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178656,
       "num": 329351,
       "word": "中国乡村藏着一本巨型食谱",
@@ -2233,14 +2281,6 @@
       "onboard_time": 1733041397,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171961,
-      "num": 273675,
-      "word": "仅有39.6万人放弃国考",
-      "onboard_time": 1733114601,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 171372,
@@ -2353,6 +2393,14 @@
       "onboard_time": 1733023759,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164683,
+      "num": 164683,
+      "word": "麦当劳下调配送费收取打包费",
+      "onboard_time": 1733117659,
+      "rank": 34,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 164207,
@@ -2515,14 +2563,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 156222,
-      "num": 156222,
-      "word": "喜剧之王开机",
-      "onboard_time": 1733116878,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 156172,
       "num": 156172,
       "word": "肖战对接否认接触攻玉",
@@ -2579,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154600,
+      "num": 196455,
+      "word": "男子网恋被骗又扮女性骗另一男子",
+      "onboard_time": 1733114960,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "周冠宇",
@@ -2632,6 +2680,14 @@
       "word": "月鳞绮纪明日开机",
       "onboard_time": 1733051059,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150569,
+      "num": 150569,
+      "word": "我是刑警",
+      "onboard_time": 1733117659,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2979,14 +3035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134640,
-      "num": 196455,
-      "word": "男子网恋被骗又扮女性骗另一男子",
-      "onboard_time": 1733114960,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134578,
       "num": 134578,
       "word": "商场回应李行亮商演遭抵制",
@@ -3025,6 +3073,14 @@
       "onboard_time": 1733038998,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132740,
+      "num": 202163,
+      "word": "虞书欣问丁禹兮拼豆呢",
+      "onboard_time": 1733117960,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 131905,
@@ -3121,6 +3177,14 @@
       "onboard_time": 1733094794,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127241,
+      "num": 251545,
+      "word": "奔跑吧 惊喜日",
+      "onboard_time": 1733117179,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 127190,
@@ -3257,6 +3321,14 @@
       "onboard_time": 1733026398,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122173,
+      "num": 122173,
+      "word": "田馥甄陈嘉桦一起爬山",
+      "onboard_time": 1733117719,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 122136,
@@ -4091,6 +4163,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 70510,
+      "num": 148811,
+      "word": "谁懂谢霆锋弹吉他的含金量",
+      "onboard_time": 1733117057,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69129,
       "num": 397348,
       "word": "网红花26美元打卡联合国营造精英人设",
@@ -4691,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31877,
+      "num": 313216,
+      "word": "绅装骑行引发争议",
+      "onboard_time": 1733117238,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31791,
       "num": 253050,
       "word": "太阳星辰凯晴下线",
@@ -4979,6 +5067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17869,
+      "num": 1035324,
+      "word": "读懂改革奋进的中国",
+      "onboard_time": 1733116820,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17832,
       "num": 1107430,
       "word": "微观链博会",
@@ -5105,14 +5201,6 @@
       "onboard_time": 1733084769,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11866,
-      "num": 1030406,
-      "word": "读懂改革奋进的中国",
-      "onboard_time": 1733116820,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11749,

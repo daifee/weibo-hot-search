@@ -1,0 +1,410 @@
+{
+  "runTime": 1733118121439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1461737,
+        "num": 1461737,
+        "word": "韩国流行周五下班去中国",
+        "onboard_time": 1733112380,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1045796,
+        "num": 1045796,
+        "word": "药王谷开诊1个多月15名患者死亡",
+        "onboard_time": 1733110819,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17869,
+        "num": 1035324,
+        "word": "读懂改革奋进的中国",
+        "onboard_time": 1733116820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035191,
+        "num": 1035191,
+        "word": "张馨予在西藏住三个月",
+        "onboard_time": 1733113520,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 922313,
+        "num": 922313,
+        "word": "教育局回应老师被多名小学生写信投诉",
+        "onboard_time": 1733115079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715120,
+        "num": 715120,
+        "word": "丞磊助理",
+        "onboard_time": 1733113399,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463843,
+        "num": 463843,
+        "word": "麦琳未在李行亮经纪公司持股",
+        "onboard_time": 1733116100,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451407,
+        "num": 451407,
+        "word": "武艺推荐苏醒参加再见爱人",
+        "onboard_time": 1733113700,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 449402,
+        "num": 449402,
+        "word": "川航一航班因旅客充电宝冒烟备降",
+        "onboard_time": 1733111778,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363714,
+        "num": 448377,
+        "word": "网友在小学废弃信箱发现多封投诉信",
+        "onboard_time": 1733112079,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448332,
+        "num": 448332,
+        "word": "姜云升谈陈近南diss周密",
+        "onboard_time": 1733113461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416826,
+        "num": 416826,
+        "word": "韩国年轻人涌向中国过周末",
+        "onboard_time": 1733116340,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380107,
+        "num": 380107,
+        "word": "王楚钦vs苏拉瓦朱拉",
+        "onboard_time": 1733113821,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333870,
+        "num": 333870,
+        "word": "喜剧之王开机",
+        "onboard_time": 1733116878,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31877,
+        "num": 313216,
+        "word": "绅装骑行引发争议",
+        "onboard_time": 1733117238,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309483,
+        "num": 309483,
+        "word": "孙颖莎观战",
+        "onboard_time": 1733115739,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307565,
+        "num": 307565,
+        "word": "泰国坠崖孕妇11月直播14场",
+        "onboard_time": 1733107577,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252442,
+        "num": 252442,
+        "word": "周夺笋",
+        "onboard_time": 1733116280,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127241,
+        "num": 251545,
+        "word": "奔跑吧 惊喜日",
+        "onboard_time": 1733117179,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301221,
+        "num": 247384,
+        "word": "猎罪图鉴",
+        "onboard_time": 1733112019,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550742,
+        "num": 244252,
+        "word": "周芯竹 周密",
+        "onboard_time": 1733096897,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302258,
+        "num": 237832,
+        "word": "金高银来杭州了",
+        "onboard_time": 1733111659,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 237470,
+        "num": 237470,
+        "word": "管晨辰已停更2周",
+        "onboard_time": 1733117600,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 228705,
+        "num": 228705,
+        "word": "贾玲撑腰张小斐新剧",
+        "onboard_time": 1733114840,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219043,
+        "num": 219043,
+        "word": "研究证明有饥饿感会启动长寿基因",
+        "onboard_time": 1733113520,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347612,
+        "num": 219025,
+        "word": "周芯竹 高天佐",
+        "onboard_time": 1733103258,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218713,
+        "num": 218713,
+        "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
+        "onboard_time": 1733113341,
+        "rank": 26,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 191023,
+        "num": 210131,
+        "word": "原神",
+        "onboard_time": 1733117358,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202693,
+        "num": 202693,
+        "word": "混团国乒优势太明显",
+        "onboard_time": 1733117419,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132740,
+        "num": 202163,
+        "word": "虞书欣问丁禹兮拼豆呢",
+        "onboard_time": 1733117960,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146062,
+        "num": 202136,
+        "word": "宋亚轩白月光vs朱砂痣",
+        "onboard_time": 1733116579,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202120,
+        "num": 202120,
+        "word": "宋威龙时隔四年再演现偶",
+        "onboard_time": 1733114001,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179103,
+        "num": 179103,
+        "word": "仅有39.6万人放弃国考",
+        "onboard_time": 1733114601,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164693,
+        "num": 164693,
+        "word": "张小斐粉丝 姐姐我是你的狗",
+        "onboard_time": 1733114480,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164683,
+        "num": 164683,
+        "word": "麦当劳下调配送费收取打包费",
+        "onboard_time": 1733117659,
+        "rank": 34,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 208746,
+        "num": 164307,
+        "word": "宋亚轩自曝体重",
+        "onboard_time": 1733117479,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196400,
+        "num": 163835,
+        "word": "骄阳似我官宣赵今麦宋威龙",
+        "onboard_time": 1733107817,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162503,
+        "num": 162503,
+        "word": "王曼昱球品好人品好",
+        "onboard_time": 1733115020,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160307,
+        "num": 160307,
+        "word": "iG官宣新阵容剪影",
+        "onboard_time": 1733112319,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154600,
+        "num": 154600,
+        "word": "男子网恋被骗又扮女性骗另一男子",
+        "onboard_time": 1733114960,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154025,
+        "num": 154025,
+        "word": "虞书欣丁禹兮幕后打闹",
+        "onboard_time": 1733115380,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150569,
+        "num": 150569,
+        "word": "我是刑警",
+        "onboard_time": 1733117659,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70510,
+        "num": 148811,
+        "word": "谁懂谢霆锋弹吉他的含金量",
+        "onboard_time": 1733117057,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147451,
+        "num": 147451,
+        "word": "堵车时闯绿灯属违法行为",
+        "onboard_time": 1733104278,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140951,
+        "num": 140951,
+        "word": "李行亮12月至少有2个演出计划",
+        "onboard_time": 1733082251,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138952,
+        "num": 138952,
+        "word": "泰国坠崖孕妇被指责生意做太大",
+        "onboard_time": 1733067618,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126857,
+        "num": 126857,
+        "word": "川航回应3U8925航班备降桂林",
+        "onboard_time": 1733109857,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123043,
+        "num": 123043,
+        "word": "学信网发了永夜星河",
+        "onboard_time": 1733101279,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122173,
+        "num": 122173,
+        "word": "田馥甄陈嘉桦一起爬山",
+        "onboard_time": 1733117719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118684,
+        "num": 118684,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1733101458,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}
