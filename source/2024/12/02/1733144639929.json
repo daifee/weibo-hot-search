@@ -1,0 +1,410 @@
+{
+  "runTime": 1733144639929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11992856,
+        "num": 11992856,
+        "word": "黄子韬徐艺洋结婚",
+        "onboard_time": 1733138724,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755226,
+        "num": 755226,
+        "word": "有人用运费险8个月骗取100多万",
+        "onboard_time": 1733128278,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37115,
+        "num": 665037,
+        "word": "山东手造儒风新韵",
+        "onboard_time": 1733129299,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625844,
+        "num": 625844,
+        "word": "某综艺在西安一公园录制引游客不满",
+        "onboard_time": 1733142205,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225795,
+        "num": 225795,
+        "word": "29名建筑工赴香港打工月薪3万",
+        "onboard_time": 1733142086,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1395971,
+        "num": 225793,
+        "word": "黄子韬 吃席call me",
+        "onboard_time": 1733142025,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724172,
+        "num": 225664,
+        "word": "一教培机构20多人趴地上迎接领导",
+        "onboard_time": 1733138239,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632609,
+        "num": 225608,
+        "word": "奚梦瑶现身私立医院",
+        "onboard_time": 1733141006,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336764,
+        "num": 225557,
+        "word": "狐妖竹业篇改名淮水竹亭",
+        "onboard_time": 1733140585,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225482,
+        "num": 225482,
+        "word": "商家大规模关闭运费险背后",
+        "onboard_time": 1733136199,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3965862,
+        "num": 225328,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1387804,
+        "num": 224964,
+        "word": "归国四子",
+        "onboard_time": 1733140947,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611454,
+        "num": 224683,
+        "word": "Angelababy染发了",
+        "onboard_time": 1733127920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313131,
+        "num": 224395,
+        "word": "Pest发歌diss周密",
+        "onboard_time": 1733136678,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115566,
+        "num": 224288,
+        "word": "韩国旅行社用中国美食吸引年轻人",
+        "onboard_time": 1733137999,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 258009,
+        "num": 224066,
+        "word": "赵露思短发贝雷帽造型",
+        "onboard_time": 1733141544,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226199,
+        "num": 223525,
+        "word": "鹿晗直播预测",
+        "onboard_time": 1733123599,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85536,
+        "num": 223332,
+        "word": "机构回应员工跪喊生死不辱使命",
+        "onboard_time": 1733143106,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113074,
+        "num": 223006,
+        "word": "下午四点半后是个很神奇的时间节点",
+        "onboard_time": 1733143285,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34977,
+        "num": 222743,
+        "word": "荣耀300镜头下的虞书欣",
+        "onboard_time": 1733141067,
+        "rank": 19,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 222653,
+        "num": 222653,
+        "word": "没人和我说这是胡先煦啊",
+        "onboard_time": 1733142685,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171137,
+        "num": 202802,
+        "word": "VOGUE 王曼昱",
+        "onboard_time": 1733143285,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96836,
+        "num": 194060,
+        "word": "秦叔就是你爸爸",
+        "onboard_time": 1733143404,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193536,
+        "num": 193536,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13558,
+        "num": 193283,
+        "word": "领克Z10省心价",
+        "onboard_time": 1733141365,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101715,
+        "num": 193168,
+        "word": "2024年十大流行语",
+        "onboard_time": 1733121557,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193147,
+        "num": 193147,
+        "word": "导师看到我的论文查重率是0%时",
+        "onboard_time": 1733138844,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119437,
+        "num": 192406,
+        "word": "杨子荣扮演者童祥苓逝世",
+        "onboard_time": 1733144185,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20980,
+        "num": 191936,
+        "word": "荣耀300虚化效果比肩单反相机",
+        "onboard_time": 1733142925,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54877,
+        "num": 191836,
+        "word": "吾爱吾师吾更爱真理",
+        "onboard_time": 1733144005,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191793,
+        "num": 191793,
+        "word": "祝绪丹 很开心陪你走过一段路",
+        "onboard_time": 1733140585,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179852,
+        "num": 179852,
+        "word": "丑老公",
+        "onboard_time": 1733129239,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171836,
+        "num": 171836,
+        "word": "苏醒回应武艺推荐他参加再见爱人",
+        "onboard_time": 1733138420,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171790,
+        "num": 171790,
+        "word": "2岁孩子将电池放嘴里咬发生爆炸",
+        "onboard_time": 1733136918,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165919,
+        "num": 165919,
+        "word": "新一疑似内涵Uzi",
+        "onboard_time": 1733143525,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22621,
+        "num": 143165,
+        "word": "红旗新能源永远可以相信",
+        "onboard_time": 1733141067,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1230997,
+        "num": 143024,
+        "word": "徐艺洋幼师资格证下来了",
+        "onboard_time": 1733142025,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142740,
+        "num": 142740,
+        "word": "给我cp接一下",
+        "onboard_time": 1733143226,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142081,
+        "num": 142081,
+        "word": "500次DNA检测还被害少女公道",
+        "onboard_time": 1733144125,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122441,
+        "num": 130744,
+        "word": "拍身份证照片别穿这类衣服",
+        "onboard_time": 1733143705,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130584,
+        "num": 130584,
+        "word": "收拾收拾准备投胎吧",
+        "onboard_time": 1733140886,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129005,
+        "num": 129005,
+        "word": "不把观众当傻子这部印度神片有多难得",
+        "onboard_time": 1733144246,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121966,
+        "num": 121966,
+        "word": "其他rapper提起周密欲言又止",
+        "onboard_time": 1733132959,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96339,
+        "num": 111454,
+        "word": "网易云音乐崩了",
+        "onboard_time": 1733137520,
+        "rank": 43,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 108712,
+        "num": 108712,
+        "word": "刘国梁西装现身成都被喊国梁叔",
+        "onboard_time": 1733143404,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97870,
+        "num": 97870,
+        "word": "霉霉和男友感恩节合照",
+        "onboard_time": 1733144544,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36362,
+        "num": 94969,
+        "word": "22万789匹领克王来了",
+        "onboard_time": 1733140044,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94866,
+        "num": 94866,
+        "word": "韦神谈TheShy狼母操作不行",
+        "onboard_time": 1733138538,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89598,
+        "num": 94764,
+        "word": "这是我见过最努力的考研人了吧",
+        "onboard_time": 1733144606,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34752,
+        "num": 94584,
+        "word": "AI学习机一本正经瞎判作业",
+        "onboard_time": 1733142507,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎接共建一带一路更高质量更高水平的新发展#"
+    }
+  }
+}

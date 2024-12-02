@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733143728759,
+  "endTime": 1733144639929,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -8,6 +8,14 @@
       "word": "黄子韬徐艺洋结婚",
       "onboard_time": 1733138724,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3965862,
+      "num": 225328,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1733143765,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1155,6 +1163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 225795,
+      "num": 225795,
+      "word": "29名建筑工赴香港打工月薪3万",
+      "onboard_time": 1733142086,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224378,
       "num": 224378,
       "word": "王曼昱球品好人品好",
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 206464,
-      "num": 206464,
+      "num": 224288,
       "word": "韩国旅行社用中国美食吸引年轻人",
       "onboard_time": 1733137999,
       "rank": 45,
@@ -1563,14 +1579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 181794,
-      "num": 181794,
-      "word": "29名建筑工赴香港打工月薪3万",
-      "onboard_time": 1733142086,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180728,
       "num": 180728,
       "word": "肖战入围APMA华语地区最佳男歌手",
@@ -1627,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171137,
+      "num": 202802,
+      "word": "VOGUE 王曼昱",
+      "onboard_time": 1733143285,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 170896,
       "num": 170896,
       "word": "小猫斜挎包",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1733121679,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165919,
+      "num": 165919,
+      "word": "新一疑似内涵Uzi",
+      "onboard_time": 1733143525,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 161759,
@@ -1979,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142081,
+      "num": 142081,
+      "word": "500次DNA检测还被害少女公道",
+      "onboard_time": 1733144125,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142053,
       "num": 142053,
       "word": "家长吐槽幼儿园调查问卷问题离谱",
@@ -2009,14 +2041,6 @@
       "onboard_time": 1733065100,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140119,
-      "num": 140119,
-      "word": "VOGUE 王曼昱",
-      "onboard_time": 1733143285,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 140005,
@@ -2171,6 +2195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129005,
+      "num": 129005,
+      "word": "不把观众当傻子这部印度神片有多难得",
+      "onboard_time": 1733144246,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128529,
       "num": 128529,
       "word": "山寨烟卡私自打印香烟商标属侵权行为",
@@ -2243,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125082,
-      "num": 125082,
-      "word": "新一疑似内涵Uzi",
-      "onboard_time": 1733143525,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124497,
       "num": 124497,
       "word": "2024还剩最后30天",
@@ -2272,6 +2296,14 @@
       "word": "29岁全盲女生考上博士后的生活",
       "onboard_time": 1733105238,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122441,
+      "num": 130744,
+      "word": "拍身份证照片别穿这类衣服",
+      "onboard_time": 1733143705,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2321,6 +2353,14 @@
       "onboard_time": 1733077213,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 119437,
+      "num": 192406,
+      "word": "杨子荣扮演者童祥苓逝世",
+      "onboard_time": 1733144185,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 118959,
@@ -2379,20 +2419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113074,
+      "num": 223006,
+      "word": "下午四点半后是个很神奇的时间节点",
+      "onboard_time": 1733143285,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111415,
       "num": 209050,
       "word": "陈梦重返训练场视频曝光",
       "onboard_time": 1733124858,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110675,
-      "num": 110675,
-      "word": "拍身份证照片别穿这类衣服",
-      "onboard_time": 1733143705,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108857,
@@ -2467,6 +2507,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 97870,
+      "num": 97870,
+      "word": "霉霉和男友感恩节合照",
+      "onboard_time": 1733144544,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97714,
       "num": 154028,
       "word": "申论答案",
@@ -2481,6 +2529,14 @@
       "onboard_time": 1733066359,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96836,
+      "num": 397100,
+      "word": "秦叔就是你爸爸",
+      "onboard_time": 1733143404,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 96386,
@@ -2563,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89598,
+      "num": 94764,
+      "word": "这是我见过最努力的考研人了吧",
+      "onboard_time": 1733144606,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88187,
       "num": 324345,
       "word": "红糖水没用 得吃去痛片",
@@ -2595,7 +2659,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 84798,
+      "raw_hot": 85536,
       "num": 429287,
       "word": "机构回应员工跪喊生死不辱使命",
       "onboard_time": 1733143106,
@@ -2931,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54877,
+      "num": 191836,
+      "word": "吾爱吾师吾更爱真理",
+      "onboard_time": 1733144005,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54630,
       "num": 341643,
       "word": "林诗栋蒯曼VS钱德拉瓦提克",
@@ -3067,14 +3139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41849,
-      "num": 397100,
-      "word": "秦叔就是你爸爸",
-      "onboard_time": 1733143404,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41197,
       "num": 304145,
       "word": "刘雯演绎七套香奈儿高级手工坊",
@@ -3163,12 +3227,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35628,
+      "raw_hot": 36362,
       "num": 381266,
       "word": "22万789匹领克王来了",
       "onboard_time": 1733140044,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34977,
+      "num": 390325,
+      "word": "荣耀300镜头下的虞书欣",
+      "onboard_time": 1733141067,
+      "rank": 17,
+      "category": "作品衍生,数码"
+    },
+    {
+      "raw_hot": 34752,
+      "num": 412941,
+      "word": "AI学习机一本正经瞎判作业",
+      "onboard_time": 1733142507,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34569,
@@ -3228,7 +3308,7 @@
     },
     {
       "raw_hot": 31722,
-      "num": 181799,
+      "num": 191936,
       "word": "荣耀300虚化效果比肩单反相机",
       "onboard_time": 1733142925,
       "rank": 35,
@@ -3259,14 +3339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28933,
-      "num": 390325,
-      "word": "荣耀300镜头下的虞书欣",
-      "onboard_time": 1733141067,
-      "rank": 17,
-      "category": "作品衍生,数码"
-    },
-    {
       "raw_hot": 28373,
       "num": 225672,
       "word": "媒体评网红涌向联合国开会",
@@ -3281,14 +3353,6 @@
       "onboard_time": 1733140044,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27075,
-      "num": 412941,
-      "word": "AI学习机一本正经瞎判作业",
-      "onboard_time": 1733142507,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26848,
