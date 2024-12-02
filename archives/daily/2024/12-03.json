@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733164368300,
+  "endTime": 1733165227847,
   "band_list": [
     {
       "raw_hot": 1660737,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23254,
+      "num": 23254,
+      "word": "永夜星河11月有效播放双榜冠军",
+      "onboard_time": 1733163792,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21247,
       "num": 66620,
       "word": "何浩楠4000加还是有点东西",
@@ -539,20 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20818,
-      "num": 20818,
+      "raw_hot": 20934,
+      "num": 20934,
       "word": "权志龙又发幕后了",
       "onboard_time": 1733160973,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20601,
-      "num": 20601,
-      "word": "永夜星河11月有效播放双榜冠军",
-      "onboard_time": 1733163792,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 20182,
@@ -563,12 +563,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17536,
-      "num": 19015,
+      "raw_hot": 19149,
+      "num": 19149,
       "word": "人人网已停止服务",
       "onboard_time": 1733130020,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 17735,
+      "num": 17735,
+      "word": "丑老公永久禁言",
+      "onboard_time": 1733147002,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 16180,
@@ -587,8 +595,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7509,
-      "num": 26949,
+      "raw_hot": 13323,
+      "num": 24054,
+      "word": "川航通报因旅客的充电宝冒烟备降桂林",
+      "onboard_time": 1733165171,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8318,
+      "num": 28082,
       "word": "张艺兴告黑粉案将开庭",
       "onboard_time": 1733164331,
       "rank": 29,
