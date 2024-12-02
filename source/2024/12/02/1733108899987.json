@@ -1,0 +1,410 @@
+{
+  "runTime": 1733108899987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 619499,
+        "num": 1099119,
+        "word": "黑白森林定档",
+        "onboard_time": 1733107277,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389691,
+        "num": 389691,
+        "word": "泰国坠崖孕妇被指责生意做太大",
+        "onboard_time": 1733067618,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30494,
+        "num": 388624,
+        "word": "这样的文物戏精亮了",
+        "onboard_time": 1733058019,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 779170,
+        "num": 388623,
+        "word": "90后女护士将房间住包浆后失联",
+        "onboard_time": 1733098638,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686275,
+        "num": 388379,
+        "word": "周芯竹 高天佐",
+        "onboard_time": 1733103258,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388046,
+        "num": 388046,
+        "word": "单霁翔为保护故宫地面坚持穿布鞋",
+        "onboard_time": 1733106737,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565566,
+        "num": 383151,
+        "word": "有些rapper不该把低俗当作风格",
+        "onboard_time": 1733105416,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560863,
+        "num": 380559,
+        "word": "九重紫定档",
+        "onboard_time": 1733105416,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551003,
+        "num": 373447,
+        "word": "女娲很可能是真实存在过的一群女人",
+        "onboard_time": 1733103077,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26130,
+        "num": 364577,
+        "word": "网红花26美元打卡联合国营造精英人设",
+        "onboard_time": 1733065220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 822808,
+        "num": 360579,
+        "word": "拜登儿子回应被宣布赦免",
+        "onboard_time": 1733106737,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 727357,
+        "num": 353894,
+        "word": "堵车时闯绿灯属违法行为",
+        "onboard_time": 1733104278,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454677,
+        "num": 350327,
+        "word": "骄阳似我",
+        "onboard_time": 1733107097,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344849,
+        "num": 344849,
+        "word": "李行亮12月至少有2个演出计划",
+        "onboard_time": 1733082251,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 301641,
+        "num": 301641,
+        "word": "学信网发了永夜星河",
+        "onboard_time": 1733101279,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 748817,
+        "num": 298715,
+        "word": "周芯竹 周密",
+        "onboard_time": 1733096897,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293496,
+        "num": 293496,
+        "word": "看似正常实则伤牙的行为",
+        "onboard_time": 1733105837,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292886,
+        "num": 292886,
+        "word": "安室透知道柯南身份",
+        "onboard_time": 1733107337,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 216487,
+        "num": 216487,
+        "word": "特朗普又提名了一位亲家",
+        "onboard_time": 1733107457,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33346,
+        "num": 216369,
+        "word": "升级纯血鸿蒙的理由又多了一个",
+        "onboard_time": 1733107157,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 636140,
+        "num": 216219,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1733101458,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218437,
+        "num": 216083,
+        "word": "赵丽颖此刻与我们打照面",
+        "onboard_time": 1733108057,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539535,
+        "num": 215891,
+        "word": "陈近南diss周密",
+        "onboard_time": 1733097498,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242966,
+        "num": 215601,
+        "word": "陈都灵月鳞绮纪出妆路透",
+        "onboard_time": 1733108118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155566,
+        "num": 215478,
+        "word": "吴柳芳粉丝数突破400万",
+        "onboard_time": 1733108478,
+        "rank": 24,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 232914,
+        "num": 215221,
+        "word": "宋威龙赵今麦按姓氏首字母排序",
+        "onboard_time": 1733108178,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215147,
+        "num": 215147,
+        "word": "泰国坠崖孕妇11月直播14场",
+        "onboard_time": 1733107577,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209715,
+        "num": 209715,
+        "word": "前体操运动员刘璇疑似影射吴柳芳",
+        "onboard_time": 1733104397,
+        "rank": 27,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 208669,
+        "num": 208669,
+        "word": "IU边佑锡新剧",
+        "onboard_time": 1733103018,
+        "rank": 28,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 65536,
+        "num": 198064,
+        "word": "傅首尔回应社交账号几乎停更",
+        "onboard_time": 1733107217,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196290,
+        "num": 196290,
+        "word": "曾舜晞月鳞绮纪开机出妆路透",
+        "onboard_time": 1733108178,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250037,
+        "num": 196084,
+        "word": "企业微信文档崩了",
+        "onboard_time": 1733108838,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195879,
+        "num": 195879,
+        "word": "骄阳似我官宣赵今麦宋威龙",
+        "onboard_time": 1733107817,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187187,
+        "num": 187187,
+        "word": "四大扛剧女演员",
+        "onboard_time": 1733064921,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184705,
+        "num": 184705,
+        "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
+        "onboard_time": 1733060960,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 184642,
+        "num": 184642,
+        "word": "黑白森林",
+        "onboard_time": 1733108597,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178148,
+        "num": 178148,
+        "word": "秦彻",
+        "onboard_time": 1733103377,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159389,
+        "num": 159389,
+        "word": "好东西",
+        "onboard_time": 1733107757,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157245,
+        "num": 157245,
+        "word": "北京地铁大爷向年轻人花式发射快乐",
+        "onboard_time": 1733103317,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148041,
+        "num": 148041,
+        "word": "姜云升直播",
+        "onboard_time": 1733103917,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142275,
+        "num": 142275,
+        "word": "曝秦霄贤春节后复出",
+        "onboard_time": 1733104877,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138448,
+        "num": 138448,
+        "word": "向未成年人销售烟卡违法",
+        "onboard_time": 1733099717,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 138142,
+        "num": 138142,
+        "word": "没想到吃剩的骨头还能这样用",
+        "onboard_time": 1733104278,
+        "rank": 42,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 126504,
+        "num": 126504,
+        "word": "宋亚轩新歌体贴上线",
+        "onboard_time": 1733106197,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125337,
+        "num": 125337,
+        "word": "月鳞绮纪",
+        "onboard_time": 1733097376,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123091,
+        "num": 124600,
+        "word": "29岁全盲女生考上博士后的生活",
+        "onboard_time": 1733105238,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124497,
+        "num": 124497,
+        "word": "2024还剩最后30天",
+        "onboard_time": 1733106137,
+        "rank": 46,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 120646,
+        "num": 120646,
+        "word": "因穷写网文写成茅盾奖",
+        "onboard_time": 1733108838,
+        "rank": 47,
+        "category": "读书作家,教育"
+      },
+      {
+        "raw_hot": 115519,
+        "num": 115519,
+        "word": "大爷哪天出现哪天就是快乐星期几",
+        "onboard_time": 1733097616,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109392,
+        "num": 109392,
+        "word": "军嫂带孩子迎接丈夫退役回家",
+        "onboard_time": 1733101279,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
