@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733174565553,
+  "endTime": 1733175487968,
   "band_list": [
     {
       "raw_hot": 1660737,
@@ -595,20 +595,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 17213,
+      "num": 17213,
+      "word": "记者现场直击大马士革高度戒备",
+      "onboard_time": 1733171951,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16180,
       "num": 108566,
       "word": "朱开不看好明年BLG",
       "onboard_time": 1733155937,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 16096,
-      "num": 16096,
-      "word": "记者现场直击大马士革高度戒备",
-      "onboard_time": 1733171951,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15400,
@@ -625,6 +625,14 @@
       "onboard_time": 1733145265,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14840,
+      "num": 27874,
+      "word": "一场双方年龄差距60岁的救援",
+      "onboard_time": 1733173151,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14551,
@@ -659,7 +667,23 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 12824,
+      "raw_hot": 13422,
+      "num": 19127,
+      "word": "刘晓庆前男友发律师函讨债",
+      "onboard_time": 1733169911,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13365,
+      "num": 21220,
+      "word": "千金府",
+      "onboard_time": 1733175071,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 13157,
       "num": 14128,
       "word": "我是刑警",
       "onboard_time": 1733140526,
@@ -675,22 +699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12431,
-      "num": 27874,
-      "word": "一场双方年龄差距60岁的救援",
-      "onboard_time": 1733173151,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12238,
-      "num": 19127,
-      "word": "刘晓庆前男友发律师函讨债",
-      "onboard_time": 1733169911,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11670,
       "num": 14452,
       "word": "10万斤广西砂糖橘在沈阳免费发放",
@@ -700,15 +708,15 @@
     },
     {
       "raw_hot": 11535,
-      "num": 12812,
+      "num": 29537,
       "word": "敦煌壁画动起来有多惊艳",
       "onboard_time": 1733173390,
       "rank": 44,
       "category": "国内时政"
     },
     {
-      "raw_hot": 9919,
-      "num": 12794,
+      "raw_hot": 10942,
+      "num": 13074,
       "word": "2025年度个税专项附加扣除信息确认",
       "onboard_time": 1733173991,
       "rank": 49,
