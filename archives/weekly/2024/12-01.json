@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733118121439,
+  "endTime": 1733121277012,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1716928,
+      "num": 1716928,
+      "word": "管晨辰微博遭大量批评攻击",
+      "onboard_time": 1733119879,
+      "rank": 0,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1712298,
       "num": 1712298,
       "word": "药王谷开诊1个多月15名患者死亡",
@@ -73,6 +81,14 @@
       "onboard_time": 1733041038,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1402623,
+      "num": 1402623,
+      "word": "网红彩虹夫妇女儿确诊ABO溶血",
+      "onboard_time": 1733119398,
+      "rank": 1,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1390934,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 762165,
+      "num": 762165,
+      "word": "麦当劳下调配送费收取打包费",
+      "onboard_time": 1733117659,
+      "rank": 34,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 746142,
       "num": 746142,
       "word": "音乐节主办停止和周密合作",
@@ -497,6 +521,14 @@
       "onboard_time": 1733026638,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 644929,
+      "num": 644929,
+      "word": "周密爆料为周芯竹成立的公司已注销",
+      "onboard_time": 1733119099,
+      "rank": 7,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 640999,
@@ -667,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504383,
+      "num": 504383,
+      "word": "麦琳未在李行亮经纪公司持股",
+      "onboard_time": 1733116100,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498698,
       "num": 498698,
       "word": "莎头组合合体",
@@ -753,14 +793,6 @@
       "onboard_time": 1733057358,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 463843,
-      "num": 463843,
-      "word": "麦琳未在李行亮经纪公司持股",
-      "onboard_time": 1733116100,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 463319,
@@ -891,12 +923,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431217,
+      "num": 504609,
+      "word": "韩国年轻人涌向中国过周末",
+      "onboard_time": 1733116340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430441,
       "num": 438711,
       "word": "申论",
       "onboard_time": 1733046441,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 428171,
+      "num": 428171,
+      "word": "宋亚轩自曝体重",
+      "onboard_time": 1733117479,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 425236,
@@ -913,14 +961,6 @@
       "onboard_time": 1733025319,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 416826,
-      "num": 504609,
-      "word": "韩国年轻人涌向中国过周末",
-      "onboard_time": 1733116340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 415337,
@@ -1059,6 +1099,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 355499,
+      "num": 355499,
+      "word": "管晨辰已停更2周",
+      "onboard_time": 1733117600,
+      "rank": 22,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 351754,
       "num": 372620,
       "word": "张智霖喊话18岁儿子谈恋爱",
@@ -1139,6 +1187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 323100,
+      "num": 323100,
+      "word": "小伙相亲5年娶了个洋媳妇",
+      "onboard_time": 1733120480,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320409,
       "num": 236781,
       "word": "老人摔倒瞬间大哥滑铲接住头部",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308398,
+      "num": 308398,
+      "word": "李蠕蠕模仿麦琳",
+      "onboard_time": 1733120598,
+      "rank": 22,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 307526,
@@ -1419,6 +1483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 257016,
+      "num": 340345,
+      "word": "研究证明有饥饿感会启动长寿基因",
+      "onboard_time": 1733113520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256478,
       "num": 307576,
       "word": "iG官宣新阵容剪影",
@@ -1456,6 +1528,14 @@
       "word": "大爷哪天出现哪天就是快乐星期几",
       "onboard_time": 1733097616,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253574,
+      "num": 253574,
+      "word": "院士说现在一顿饭的热量太高",
+      "onboard_time": 1733118619,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1537,14 +1617,6 @@
       "onboard_time": 1733045481,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 237470,
-      "num": 237470,
-      "word": "管晨辰已停更2周",
-      "onboard_time": 1733117600,
-      "rank": 22,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 234263,
@@ -1667,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219043,
-      "num": 340345,
-      "word": "研究证明有饥饿感会启动长寿基因",
-      "onboard_time": 1733113520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217640,
       "num": 403300,
       "word": "接触艾滋病毒后有72小时能自救",
@@ -1769,14 +1833,6 @@
       "onboard_time": 1733063660,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208746,
-      "num": 164307,
-      "word": "宋亚轩自曝体重",
-      "onboard_time": 1733117479,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 208716,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1733060180,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203163,
+      "num": 203163,
+      "word": "2025江苏卫视跨年演唱会官宣",
+      "onboard_time": 1733120299,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 202693,
@@ -2155,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185231,
+      "num": 185231,
+      "word": "张艺谋一家参加巴黎名媛舞会",
+      "onboard_time": 1733119158,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184901,
       "num": 184901,
       "word": "张真源已经走进沙溢心里四次了",
@@ -2201,6 +2273,14 @@
       "onboard_time": 1733114180,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182500,
+      "num": 182500,
+      "word": "这期毛雪汪信息量好大",
+      "onboard_time": 1733118440,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179631,
@@ -2395,12 +2475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164683,
-      "num": 164683,
-      "word": "麦当劳下调配送费收取打包费",
-      "onboard_time": 1733117659,
-      "rank": 34,
-      "category": "美食,民生新闻"
+      "raw_hot": 164996,
+      "num": 294799,
+      "word": "超30%开门杀事故引发二次事故",
+      "onboard_time": 1733121078,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164207,
@@ -2499,6 +2579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157628,
+      "num": 202163,
+      "word": "虞书欣问丁禹兮拼豆呢",
+      "onboard_time": 1733117960,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157475,
       "num": 157475,
       "word": "披荆斩棘的孙子",
@@ -2545,6 +2633,14 @@
       "onboard_time": 1733104278,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156889,
+      "num": 156889,
+      "word": "十二月的奇迹",
+      "onboard_time": 1733009294,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 156718,
@@ -2747,6 +2843,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 146126,
+      "num": 146126,
+      "word": "张小斐要咖啡800个假动作",
+      "onboard_time": 1733120598,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146097,
       "num": 146097,
       "word": "福宝看到鲜脆的笋都要跑起来了",
@@ -2761,6 +2865,14 @@
       "onboard_time": 1733098218,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145666,
+      "num": 145666,
+      "word": "最早的酱油是肉做的",
+      "onboard_time": 1733121199,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 144944,
@@ -3043,6 +3155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134385,
+      "num": 134385,
+      "word": "盗版麦琳杨子连麦",
+      "onboard_time": 1733121078,
+      "rank": 47,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 133803,
       "num": 133803,
       "word": "被88岁爷爷的时尚感硬控了",
@@ -3073,14 +3193,6 @@
       "onboard_time": 1733038998,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132740,
-      "num": 202163,
-      "word": "虞书欣问丁禹兮拼豆呢",
-      "onboard_time": 1733117960,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 131905,
@@ -3475,6 +3587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115626,
+      "num": 141641,
+      "word": "鞠婧祎陈都灵月鳞绮纪逆应援",
+      "onboard_time": 1733119639,
+      "rank": 41,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 114816,
       "num": 126057,
       "word": "李行亮团队称暂不便回应网友抵制",
@@ -3659,20 +3779,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101950,
-      "num": 101950,
-      "word": "十二月的奇迹",
-      "onboard_time": 1733009294,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 101787,
       "num": 101787,
       "word": "患者追忆因车祸去世的45岁医生",
       "onboard_time": 1733065459,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101571,
+      "num": 298177,
+      "word": "王楚钦孙颖莎击掌庆祝",
+      "onboard_time": 1733121139,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 101435,
@@ -4099,6 +4219,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76509,
+      "num": 141446,
+      "word": "哈登生涯3000记三分",
+      "onboard_time": 1733120779,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76067,
+      "num": 321534,
+      "word": "市监局回应思念水饺疑吃出烟头",
+      "onboard_time": 1733119939,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 75869,
       "num": 767105,
       "word": "这样的文物戏精亮了",
@@ -4164,7 +4300,7 @@
     },
     {
       "raw_hot": 70510,
-      "num": 148811,
+      "num": 228095,
       "word": "谁懂谢霆锋弹吉他的含金量",
       "onboard_time": 1733117057,
       "rank": 42,
@@ -4209,6 +4345,14 @@
       "onboard_time": 1733104576,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66108,
+      "num": 322280,
+      "word": "OBGG显示Xiaohao加入EDG",
+      "onboard_time": 1733120299,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 66022,
@@ -4579,6 +4723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43666,
+      "num": 319381,
+      "word": "医保跨省直接结算新增5种门诊慢特病",
+      "onboard_time": 1733119519,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43002,
       "num": 43002,
       "word": "叙利亚反对派武装攻入阿勒颇",
@@ -4683,6 +4835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 37271,
+      "num": 320719,
+      "word": "周密与周芯竹无股权关联",
+      "onboard_time": 1733120118,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37269,
       "num": 37269,
       "word": "持棍喝退尾随女孩裸露男的司机发声",
@@ -4729,6 +4889,14 @@
       "onboard_time": 1733000771,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33148,
+      "num": 322753,
+      "word": "蔡文静问冯绍峰怎么撕渣男",
+      "onboard_time": 1733121018,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 32854,
@@ -4867,6 +5035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 26778,
+      "num": 1035324,
+      "word": "读懂改革奋进的中国",
+      "onboard_time": 1733116820,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26460,
       "num": 123005,
       "word": "张真源记录云南之行",
@@ -5003,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22444,
+      "num": 320486,
+      "word": "豪士1批次面包霉菌超标近6倍",
+      "onboard_time": 1733120959,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21638,
       "num": 21638,
       "word": "叙反对派武装称进入阿勒颇市中心地带",
@@ -5065,14 +5249,6 @@
       "onboard_time": 1732997351,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17869,
-      "num": 1035324,
-      "word": "读懂改革奋进的中国",
-      "onboard_time": 1733116820,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17832,
