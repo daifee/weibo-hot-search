@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733178193516,
+  "endTime": 1733179311324,
   "band_list": [
     {
       "raw_hot": 1660737,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92362,
+      "num": 92362,
+      "word": "5000年前的日出曾被这样记录下来",
+      "onboard_time": 1733160493,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 88054,
       "num": 88054,
       "word": "奚梦瑶现身私立医院",
@@ -323,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71642,
-      "num": 81043,
-      "word": "5000年前的日出曾被这样记录下来",
-      "onboard_time": 1733160493,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 70938,
+      "num": 70938,
+      "word": "川航通报因旅客的充电宝冒烟备降桂林",
+      "onboard_time": 1733165171,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69774,
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54896,
-      "num": 54896,
-      "word": "川航通报因旅客的充电宝冒烟备降桂林",
-      "onboard_time": 1733165171,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52351,
       "num": 52351,
       "word": "周芯竹周密分手风波",
@@ -451,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39803,
+      "num": 39803,
+      "word": "也门胡塞武装宣布袭击了美军舰",
+      "onboard_time": 1733175612,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38129,
       "num": 57737,
       "word": "新一疑似内涵Uzi",
@@ -467,12 +475,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38017,
+      "num": 38017,
+      "word": "这件大口尊刻着一场5000年前的日出",
+      "onboard_time": 1733161814,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 37456,
+      "num": 47307,
+      "word": "刘晓庆前男友发律师函讨债",
+      "onboard_time": 1733169911,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32979,
       "num": 56181,
       "word": "吴昕 沈阳人有自己回家的诱惑",
       "onboard_time": 1733160674,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31307,
+      "num": 49285,
+      "word": "2025年度个税专项附加扣除信息确认",
+      "onboard_time": 1733173991,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 31001,
@@ -499,14 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 28750,
-      "num": 28750,
-      "word": "也门胡塞武装宣布袭击了美军舰",
-      "onboard_time": 1733175612,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28707,
       "num": 61028,
       "word": "VOGUE年度运动员大片",
@@ -515,28 +539,12 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 28495,
-      "num": 28495,
-      "word": "刘晓庆前男友发律师函讨债",
-      "onboard_time": 1733169911,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27943,
       "num": 530232,
       "word": "让中国温度触手可及",
       "onboard_time": 1733146823,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27709,
-      "num": 27709,
-      "word": "这件大口尊刻着一场5000年前的日出",
-      "onboard_time": 1733161814,
-      "rank": 27,
-      "category": "正能量"
     },
     {
       "raw_hot": 25932,
@@ -553,6 +561,14 @@
       "onboard_time": 1733163792,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21693,
+      "num": 23274,
+      "word": "千金府",
+      "onboard_time": 1733175071,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 21247,
@@ -595,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19619,
+      "num": 23269,
+      "word": "向佐 向朵花",
+      "onboard_time": 1733172311,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19149,
       "num": 19149,
       "word": "人人网已停止服务",
@@ -603,20 +627,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 18905,
-      "num": 21220,
-      "word": "千金府",
-      "onboard_time": 1733175071,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 19061,
+      "num": 228560,
+      "word": "数说我国首条世界级天然气管道",
+      "onboard_time": 1733145265,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18087,
-      "num": 18087,
+      "num": 23248,
       "word": "ABO溶血及时治疗宝宝预后会很好",
       "onboard_time": 1733169071,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18002,
+      "num": 24975,
+      "word": "张艺谋蹲着给妻子拍照",
+      "onboard_time": 1733167090,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 17735,
@@ -643,12 +675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17065,
-      "num": 17065,
-      "word": "向佐 向朵花",
-      "onboard_time": 1733172311,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 16608,
+      "num": 23252,
+      "word": "檀健次入围APMA华语地区最佳男歌手",
+      "onboard_time": 1733179214,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 16180,
@@ -657,14 +689,6 @@
       "onboard_time": 1733155937,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15887,
-      "num": 228560,
-      "word": "数说我国首条世界级天然气管道",
-      "onboard_time": 1733145265,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15328,
@@ -683,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14508,
-      "num": 49285,
-      "word": "2025年度个税专项附加扣除信息确认",
-      "onboard_time": 1733173991,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 14450,
       "num": 20182,
       "word": "广东宣布入秋",
@@ -699,20 +715,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14447,
-      "num": 24975,
-      "word": "张艺谋蹲着给妻子拍照",
-      "onboard_time": 1733167090,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13157,
       "num": 14128,
       "word": "我是刑警",
       "onboard_time": 1733140526,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13125,
+      "num": 68296,
+      "word": "律师称不能在网络上无成本肆意妄为",
+      "onboard_time": 1733178912,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12530,
