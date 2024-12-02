@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733113744531,
+  "endTime": 1733114638166,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -11,8 +11,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1638020,
-      "num": 1638020,
+      "raw_hot": 1865613,
+      "num": 1865613,
+      "word": "韩国流行周五下班去中国",
+      "onboard_time": 1733112380,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1712298,
+      "num": 1712298,
       "word": "药王谷开诊1个多月15名患者死亡",
       "onboard_time": 1733110819,
       "rank": 9,
@@ -43,12 +51,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 997104,
-      "num": 997104,
-      "word": "韩国流行周五下班去中国",
-      "onboard_time": 1733112380,
-      "rank": 1,
-      "category": "海外新闻"
+      "raw_hot": 905274,
+      "num": 905274,
+      "word": "丞磊助理",
+      "onboard_time": 1733113399,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 823631,
@@ -59,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 823403,
+      "num": 343561,
+      "word": "周芯竹 周密",
+      "onboard_time": 1733096897,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822808,
       "num": 394381,
       "word": "拜登儿子回应被宣布赦免",
       "onboard_time": 1733106737,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 812910,
-      "num": 343561,
-      "word": "周芯竹 周密",
-      "onboard_time": 1733096897,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 764653,
@@ -91,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752079,
+      "num": 451827,
+      "word": "张馨予在西藏住三个月",
+      "onboard_time": 1733113520,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 727357,
       "num": 407606,
       "word": "堵车时闯绿灯属违法行为",
       "onboard_time": 1733104278,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 711990,
+      "num": 711990,
+      "word": "姜云升谈陈近南diss周密",
+      "onboard_time": 1733113461,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 673381,
@@ -203,12 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 471938,
-      "num": 372789,
-      "word": "姜云升谈陈近南diss周密",
-      "onboard_time": 1733113461,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 459425,
+      "num": 459425,
+      "word": "猎罪图鉴",
+      "onboard_time": 1733112019,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 454677,
@@ -225,14 +249,6 @@
       "onboard_time": 1733067199,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450407,
-      "num": 450407,
-      "word": "猎罪图鉴",
-      "onboard_time": 1733112019,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 437313,
@@ -259,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392126,
+      "num": 392126,
+      "word": "川航回应3U8925航班备降桂林",
+      "onboard_time": 1733109857,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390120,
       "num": 390120,
       "word": "傅首尔回应傅首尔面相",
       "onboard_time": 1733064201,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372691,
-      "num": 372691,
-      "word": "川航回应3U8925航班备降桂林",
-      "onboard_time": 1733109857,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369516,
@@ -307,6 +323,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 332918,
+      "num": 332918,
+      "word": "网友在小学废弃信箱发现多封投诉信",
+      "onboard_time": 1733112079,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326632,
       "num": 306152,
       "word": "音乐节主办停止和周密合作",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 324324,
-      "num": 376295,
+      "num": 454173,
       "word": "没想到吃剩的骨头还能这样用",
       "onboard_time": 1733104278,
       "rank": 44,
@@ -331,20 +355,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 313831,
+      "num": 313831,
+      "word": "王楚钦vs苏拉瓦朱拉",
+      "onboard_time": 1733113821,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311384,
+      "num": 310691,
+      "word": "武艺推荐苏醒参加再见爱人",
+      "onboard_time": 1733113700,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310376,
       "num": 310376,
       "word": "撞死知名医生肇事者家属请求谅解",
       "onboard_time": 1733064019,
       "rank": 5,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 302708,
-      "num": 302708,
-      "word": "网友在小学废弃信箱发现多封投诉信",
-      "onboard_time": 1733112079,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 301749,
@@ -395,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283381,
-      "num": 283381,
-      "word": "丞磊助理",
-      "onboard_time": 1733113399,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282168,
       "num": 317721,
       "word": "4种体质的女性易患多囊",
@@ -425,6 +449,14 @@
       "onboard_time": 1733111959,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272780,
+      "num": 272780,
+      "word": "川航一航班因旅客充电宝冒烟备降",
+      "onboard_time": 1733111778,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271626,
@@ -464,14 +496,6 @@
       "word": "大爷哪天出现哪天就是快乐星期几",
       "onboard_time": 1733097616,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249142,
-      "num": 249142,
-      "word": "川航一航班因旅客充电宝冒烟备降",
-      "onboard_time": 1733111778,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -539,14 +563,6 @@
       "category": "读书作家,教育"
     },
     {
-      "raw_hot": 220243,
-      "num": 341149,
-      "word": "张馨予在西藏住三个月",
-      "onboard_time": 1733113520,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219009,
       "num": 219009,
       "word": "半夜天花板上掉下一只300斤野猪",
@@ -593,6 +609,22 @@
       "onboard_time": 1733110999,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208189,
+      "num": 208189,
+      "word": "宋威龙时隔四年再演现偶",
+      "onboard_time": 1733114001,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203628,
+      "num": 281813,
+      "word": "郑合惠子 山野精灵",
+      "onboard_time": 1733114060,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 203487,
@@ -643,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188394,
+      "num": 188394,
+      "word": "王昶要抓郑思维打对抗",
+      "onboard_time": 1733114300,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184901,
       "num": 184901,
       "word": "张真源已经走进沙溢心里四次了",
@@ -665,6 +705,14 @@
       "onboard_time": 1733102478,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182844,
+      "num": 182844,
+      "word": "王昶今日打卡6000",
+      "onboard_time": 1733114180,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 182185,
@@ -691,11 +739,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167591,
+      "num": 234931,
+      "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
+      "onboard_time": 1733113341,
+      "rank": 41,
+      "category": "网红,体育"
+    },
+    {
       "raw_hot": 166035,
       "num": 166035,
       "word": "北京地铁大爷向年轻人花式发射快乐",
       "onboard_time": 1733103317,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161351,
+      "num": 390076,
+      "word": "为什么有的人会搞砸每一段关系",
+      "onboard_time": 1733113759,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -713,6 +777,14 @@
       "onboard_time": 1733107757,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157362,
+      "num": 275784,
+      "word": "爵士暂停绝杀自己",
+      "onboard_time": 1733113821,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 157070,
@@ -747,20 +819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153519,
+      "num": 340345,
+      "word": "研究证明有饥饿感会启动长寿基因",
+      "onboard_time": 1733113520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152683,
       "num": 152683,
       "word": "女子10件旧羽绒服爆改1床羽绒被",
       "onboard_time": 1733087231,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150951,
-      "num": 234931,
-      "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
-      "onboard_time": 1733113341,
-      "rank": 41,
-      "category": "网红,体育"
     },
     {
       "raw_hot": 145959,
@@ -843,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138985,
-      "num": 310691,
-      "word": "武艺推荐苏醒参加再见爱人",
-      "onboard_time": 1733113700,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138524,
       "num": 138524,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -889,6 +953,14 @@
       "onboard_time": 1733109979,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 133742,
+      "num": 238927,
+      "word": "张小斐粉丝 姐姐我是你的狗",
+      "onboard_time": 1733114480,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 133162,
@@ -1195,14 +1267,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 69186,
-      "num": 340345,
-      "word": "研究证明有饥饿感会启动长寿基因",
-      "onboard_time": 1733113520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69129,
       "num": 397348,
       "word": "网红花26美元打卡联合国营造精英人设",
@@ -1259,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63091,
+      "num": 316628,
+      "word": "香奈儿杭州全球首秀",
+      "onboard_time": 1733110519,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62946,
       "num": 62946,
       "word": "叙利亚",
@@ -1276,7 +1348,7 @@
     },
     {
       "raw_hot": 61801,
-      "num": 840992,
+      "num": 1281215,
       "word": "南极中山国家大气本底监测站建成",
       "onboard_time": 1733111058,
       "rank": 2,
@@ -1331,12 +1403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54130,
-      "num": 316628,
-      "word": "香奈儿杭州全球首秀",
-      "onboard_time": 1733110519,
-      "rank": 26,
-      "category": "时尚"
+      "raw_hot": 57203,
+      "num": 452502,
+      "word": "券商多位前高管违规入股被罚百万",
+      "onboard_time": 1733113580,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54630,
+      "num": 341643,
+      "word": "林诗栋蒯曼VS钱德拉瓦提克",
+      "onboard_time": 1733113280,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 53721,
@@ -1387,28 +1467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 47953,
-      "num": 341643,
-      "word": "林诗栋蒯曼VS钱德拉瓦提克",
-      "onboard_time": 1733113280,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47415,
       "num": 47415,
       "word": "央视拍的罗云熙",
       "onboard_time": 1733085070,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44528,
-      "num": 372809,
-      "word": "券商多位前高管违规入股被罚百万",
-      "onboard_time": 1733113580,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43216,
@@ -1515,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26808,
+      "num": 273675,
+      "word": "仅有39.6万人放弃国考",
+      "onboard_time": 1733114601,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26460,
       "num": 123005,
       "word": "张真源记录云南之行",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1733076013,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19507,
+      "num": 342644,
+      "word": "A股三大指数均涨逾1%",
+      "onboard_time": 1733113280,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 18942,
@@ -1641,14 +1721,6 @@
       "onboard_time": 1733084769,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11716,
-      "num": 342644,
-      "word": "A股三大指数均涨逾1%",
-      "onboard_time": 1733113280,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 11390,
