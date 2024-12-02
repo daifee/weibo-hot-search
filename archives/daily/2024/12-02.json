@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733104402536,
+  "endTime": 1733105767114,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1073770,
-      "num": 1073770,
+      "num": 1150084,
       "word": "90后女护士将房间住包浆后失联",
       "onboard_time": 1733098638,
       "rank": 1,
@@ -35,15 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 678543,
-      "num": 678543,
-      "word": "周芯竹 高天佐",
-      "onboard_time": 1733103258,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 669735,
+      "raw_hot": 790102,
       "num": 270088,
       "word": "周芯竹 周密",
       "onboard_time": 1733096897,
@@ -51,8 +43,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757634,
+      "num": 678543,
+      "word": "周芯竹 高天佐",
+      "onboard_time": 1733103258,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 673381,
+      "num": 673381,
+      "word": "胃病变胃癌前一般有5个症状",
+      "onboard_time": 1733101458,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 618819,
-      "num": 191751,
+      "num": 202478,
       "word": "陈近南diss周密",
       "onboard_time": 1733097498,
       "rank": 20,
@@ -83,20 +91,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 513556,
-      "num": 513556,
-      "word": "胃病变胃癌前一般有5个症状",
-      "onboard_time": 1733101458,
-      "rank": 4,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 479689,
       "num": 479689,
       "word": "学信网发了永夜星河",
       "onboard_time": 1733101279,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 458131,
+      "num": 332389,
+      "word": "女娲很可能是真实存在过的一群女人",
+      "onboard_time": 1733103077,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 453606,
@@ -113,6 +121,14 @@
       "onboard_time": 1733064921,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407606,
+      "num": 407606,
+      "word": "堵车时闯绿灯属违法行为",
+      "onboard_time": 1733104278,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401548,
@@ -155,6 +171,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 330903,
+      "num": 330903,
+      "word": "有些rapper不该把低俗当作风格",
+      "onboard_time": 1733105416,
+      "rank": 12,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 326632,
       "num": 306152,
       "word": "音乐节主办停止和周密合作",
@@ -168,6 +192,14 @@
       "word": "撞死知名医生肇事者家属请求谅解",
       "onboard_time": 1733064019,
       "rank": 5,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 300858,
+      "num": 333247,
+      "word": "向未成年人销售烟卡违法",
+      "onboard_time": 1733099717,
+      "rank": 25,
       "category": "舆论监督"
     },
     {
@@ -211,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244637,
+      "num": 244637,
+      "word": "秦彻",
+      "onboard_time": 1733103377,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235648,
       "num": 204612,
       "word": "李行亮商演再次遭抵制",
@@ -243,14 +283,6 @@
       "category": "民生新闻,剧集"
     },
     {
-      "raw_hot": 209930,
-      "num": 152854,
-      "word": "女娲很可能是真实存在过的一群女人",
-      "onboard_time": 1733103077,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209559,
       "num": 209559,
       "word": "重庆棒棒父子14年后重返故地",
@@ -267,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202235,
+      "num": 202235,
+      "word": "九重紫定档",
+      "onboard_time": 1733105416,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200440,
       "num": 200440,
       "word": "丁禹兮今天喝奶茶啦",
       "onboard_time": 1733068398,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185582,
+      "num": 185582,
+      "word": "前体操运动员刘璇疑似影射吴柳芳",
+      "onboard_time": 1733104397,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 182858,
@@ -284,7 +332,7 @@
     },
     {
       "raw_hot": 182185,
-      "num": 136985,
+      "num": 161216,
       "word": "微信提现可以免手续费了",
       "onboard_time": 1733037918,
       "rank": 25,
@@ -299,20 +347,12 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 173204,
-      "num": 173204,
-      "word": "向未成年人销售烟卡违法",
-      "onboard_time": 1733099717,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 169329,
-      "num": 173768,
-      "word": "秦彻",
-      "onboard_time": 1733103377,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 171372,
+      "num": 195395,
+      "word": "姜云升直播",
+      "onboard_time": 1733103917,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 166035,
@@ -419,6 +459,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 138456,
+      "num": 138456,
+      "word": "烟卡销售应严卡网上漏洞",
+      "onboard_time": 1733103198,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 138203,
       "num": 108831,
       "word": "蒋敦豪交给时间解答",
@@ -435,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133512,
-      "num": 133512,
-      "word": "堵车时闯绿灯属违法行为",
-      "onboard_time": 1733104278,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 130122,
+      "num": 130122,
+      "word": "胡夏裤子崩了",
+      "onboard_time": 1733102298,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 128013,
@@ -456,6 +504,14 @@
       "word": "美国小伙说来北京像到了公元3000年",
       "onboard_time": 1733046679,
       "rank": 32,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 126251,
+      "num": 126251,
+      "word": "军嫂带孩子迎接丈夫退役回家",
+      "onboard_time": 1733101279,
+      "rank": 40,
       "category": "正能量"
     },
     {
@@ -475,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120337,
+      "num": 120337,
+      "word": "这一脚伸得太帅了",
+      "onboard_time": 1733077213,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 117999,
       "num": 117999,
       "word": "我是刑警驳回了受害者有罪论",
       "onboard_time": 1733098877,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117933,
-      "num": 117933,
-      "word": "军嫂带孩子迎接丈夫退役回家",
-      "onboard_time": 1733101279,
-      "rank": 40,
-      "category": "正能量"
     },
     {
       "raw_hot": 116614,
@@ -499,28 +555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116557,
-      "num": 116557,
-      "word": "胡夏裤子崩了",
-      "onboard_time": 1733102298,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 116171,
-      "num": 116171,
-      "word": "这一脚伸得太帅了",
-      "onboard_time": 1733077213,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 114816,
       "num": 126057,
       "word": "李行亮团队称暂不便回应网友抵制",
       "onboard_time": 1733086630,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111691,
+      "num": 111691,
+      "word": "没想到吃剩的骨头还能这样用",
+      "onboard_time": 1733104278,
+      "rank": 44,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 108857,
@@ -531,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104697,
-      "num": 104697,
-      "word": "烟卡销售应严卡网上漏洞",
-      "onboard_time": 1733103198,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 103481,
       "num": 103481,
       "word": "华晨宇蹦丢了一个31万的耳钉",
@@ -547,20 +587,44 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102827,
-      "num": 102827,
-      "word": "没想到吃剩的骨头还能这样用",
-      "onboard_time": 1733104278,
-      "rank": 44,
-      "category": "民生新闻,科学科普"
+      "raw_hot": 102416,
+      "num": 102416,
+      "word": "29岁全盲女生考上博士后的生活",
+      "onboard_time": 1733105238,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100230,
+      "num": 100230,
+      "word": "下雪天东北虎秒变滑滑虎",
+      "onboard_time": 1733105358,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99016,
+      "num": 107240,
+      "word": "穿搭哲学",
+      "onboard_time": 1733104397,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 97714,
-      "num": 97714,
+      "num": 154028,
       "word": "申论答案",
       "onboard_time": 1733101518,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 97710,
+      "num": 203596,
+      "word": "曝秦霄贤春节后复出",
+      "onboard_time": 1733104877,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 97422,
@@ -577,14 +641,6 @@
       "onboard_time": 1733057118,
       "rank": 34,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 96006,
-      "num": 195395,
-      "word": "姜云升直播",
-      "onboard_time": 1733103917,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 93680,
@@ -681,6 +737,14 @@
       "onboard_time": 1733065341,
       "rank": 41,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 67496,
+      "num": 247298,
+      "word": "周冠宇期待下一个篇章",
+      "onboard_time": 1733104576,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 65820,
@@ -785,6 +849,14 @@
       "onboard_time": 1733070916,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50469,
+      "num": 202479,
+      "word": "A股",
+      "onboard_time": 1733104757,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 47415,
