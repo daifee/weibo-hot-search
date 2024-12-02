@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733132466699,
+  "endTime": 1733135228894,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -265,6 +265,14 @@
       "onboard_time": 1733098638,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1049054,
+      "num": 278262,
+      "word": "金泰亨的小狗金碳去世",
+      "onboard_time": 1733132900,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1038393,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555899,
+      "num": 555899,
+      "word": "人人网已停止服务",
+      "onboard_time": 1733130020,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 553254,
       "num": 274480,
       "word": "颜如晶瘦了55斤解锁全新风格",
@@ -769,6 +785,14 @@
       "onboard_time": 1733125039,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 543220,
+      "num": 543220,
+      "word": "鞠婧祎再演恶女",
+      "onboard_time": 1733132539,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 538629,
@@ -889,14 +913,6 @@
       "onboard_time": 1733101279,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 479155,
-      "num": 479155,
-      "word": "人人网已停止服务",
-      "onboard_time": 1733130020,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 477828,
@@ -1403,6 +1419,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 317789,
+      "num": 265758,
+      "word": "前体操冠军张宏涛回应擦边争议",
+      "onboard_time": 1733134099,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313499,
       "num": 313499,
       "word": "女子凌晨被两条大型犬撕咬",
@@ -1827,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242770,
+      "num": 276329,
+      "word": "没人告诉我王源郭俊辰关系这么好",
+      "onboard_time": 1733133080,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242281,
       "num": 284427,
       "word": "巳升升春晚吉祥物",
@@ -1947,6 +1979,14 @@
       "category": "读书作家,教育"
     },
     {
+      "raw_hot": 226790,
+      "num": 271558,
+      "word": "教资面试通过率有多高",
+      "onboard_time": 1733129420,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 224395,
       "num": 224395,
       "word": "导致胃癌的高危因素",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1733112619,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211018,
+      "num": 211018,
+      "word": "彩虹夫妇为生女儿5年拼4胎",
+      "onboard_time": 1733133560,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 210708,
@@ -2323,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196675,
+      "num": 196675,
+      "word": "芒果做声生不息的意义",
+      "onboard_time": 1733134578,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196600,
       "num": 196600,
       "word": "名下关联了多少账号可速查",
@@ -2475,6 +2531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189492,
+      "num": 189492,
+      "word": "骄阳似我完颜现偶",
+      "onboard_time": 1733134099,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189257,
       "num": 189257,
       "word": "莎局来看比赛了",
@@ -2587,14 +2651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183657,
-      "num": 183657,
-      "word": "教资面试通过率有多高",
-      "onboard_time": 1733129420,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 183440,
       "num": 183440,
       "word": "白桃星座",
@@ -2699,12 +2755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172786,
+      "num": 172786,
+      "word": "韩国赴华订单暴增上海成大热门",
+      "onboard_time": 1733134519,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 172409,
       "num": 172409,
       "word": "双轨换导演",
       "onboard_time": 1733041397,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172356,
+      "num": 172356,
+      "word": "考古潘粤明",
+      "onboard_time": 1733133199,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171372,
@@ -2851,12 +2923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162594,
+      "num": 272182,
+      "word": "其他rapper提起周密欲言又止",
+      "onboard_time": 1733132959,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162509,
       "num": 349857,
       "word": "部分学生体育用品增塑剂超标超200倍",
       "onboard_time": 1733057659,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 161759,
+      "num": 320999,
+      "word": "吴柳芳说生活要靠自己",
+      "onboard_time": 1733132119,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 161641,
@@ -3011,12 +3099,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 156363,
+      "num": 156363,
+      "word": "医学博士称压力大到有躯体化症状",
+      "onboard_time": 1733133438,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156350,
       "num": 215478,
       "word": "吴柳芳粉丝数突破400万",
       "onboard_time": 1733108478,
       "rank": 24,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 156200,
+      "num": 156200,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1733132178,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 156172,
@@ -3091,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154247,
+      "num": 154247,
+      "word": "尽量别用手柄过于鲜艳的跳绳",
+      "onboard_time": 1733131639,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "周冠宇",
@@ -3129,14 +3241,6 @@
       "onboard_time": 1733087231,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151472,
-      "num": 320999,
-      "word": "吴柳芳说生活要靠自己",
-      "onboard_time": 1733132119,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 151134,
@@ -3251,12 +3355,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146674,
-      "num": 146674,
-      "word": "尽量别用手柄过于鲜艳的跳绳",
-      "onboard_time": 1733131639,
-      "rank": 39,
-      "category": "舆论监督"
+      "raw_hot": 148086,
+      "num": 148086,
+      "word": "王楚钦说落后是因为太想打出感觉",
+      "onboard_time": 1733133679,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146462,
@@ -3300,7 +3404,7 @@
     },
     {
       "raw_hot": 145510,
-      "num": 145510,
+      "num": 278283,
       "word": "客服回应人人网停止服务",
       "onboard_time": 1733131520,
       "rank": 45,
@@ -3515,6 +3619,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 138383,
+      "num": 138383,
+      "word": "孙颖莎无法实现的座位自由",
+      "onboard_time": 1733134459,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138342,
       "num": 196555,
       "word": "鞠婧祎对蜜橘们的爱",
@@ -3555,20 +3667,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137250,
-      "num": 137250,
-      "word": "陷入我们的热恋",
-      "onboard_time": 1733132178,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137087,
       "num": 137087,
       "word": "国考笔试结束",
       "onboard_time": 1733060359,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136956,
+      "num": 136956,
+      "word": "林诗栋给王楚钦看乒乒",
+      "onboard_time": 1733133080,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136537,
+      "num": 136537,
+      "word": "虞书欣丁禹兮海边双人合照",
+      "onboard_time": 1733134639,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 135682,
@@ -3665,6 +3785,14 @@
       "onboard_time": 1733038998,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132311,
+      "num": 158706,
+      "word": "肖战方取证维权",
+      "onboard_time": 1733135119,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 131905,
@@ -4035,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118959,
+      "num": 118959,
+      "word": "子弟兵硬核安利过冬好物军大衣",
+      "onboard_time": 1733135180,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 118909,
       "num": 118909,
       "word": "许昕晒结婚8周年照片",
@@ -4403,6 +4539,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 99486,
+      "num": 273780,
+      "word": "永夜星河到底藏了多少好东西",
+      "onboard_time": 1733133739,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99016,
       "num": 107240,
       "word": "穿搭哲学",
@@ -4555,6 +4699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91493,
+      "num": 274855,
+      "word": "人工智障仍是扫地机器人的通病",
+      "onboard_time": 1733134038,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90959,
       "num": 447378,
       "word": "竞买者称42万拍下888888手机号赚大了",
@@ -4665,6 +4817,14 @@
       "onboard_time": 1733040379,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83958,
+      "num": 270519,
+      "word": "叙利亚局势",
+      "onboard_time": 1733134999,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83568,
@@ -5091,6 +5251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 59046,
+      "num": 651071,
+      "word": "我国冰雪产业规模或将突破万亿元",
+      "onboard_time": 1733129057,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58749,
       "num": 236382,
       "word": "侯明昊横店走秀",
@@ -5169,6 +5337,14 @@
       "onboard_time": 1733023339,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53829,
+      "num": 269288,
+      "word": "紧急情况下反杀黑熊可不承担法律责任",
+      "onboard_time": 1733134038,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53721,
@@ -5803,6 +5979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24948,
+      "num": 156261,
+      "word": "文森特首发",
+      "onboard_time": 1733134159,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24478,
       "num": 50457,
       "word": "张泽禹发了18宫格",
@@ -6241,14 +6425,6 @@
       "onboard_time": 1733002391,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6251,
-      "num": 651071,
-      "word": "我国冰雪产业规模或将突破万亿元",
-      "onboard_time": 1733129057,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6177,
