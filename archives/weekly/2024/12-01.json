@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733121277012,
+  "endTime": 1733122102069,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1968474,
+      "num": 1716928,
+      "word": "管晨辰微博遭大量批评攻击",
+      "onboard_time": 1733119879,
+      "rank": 0,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1865613,
       "num": 1865613,
       "word": "韩国流行周五下班去中国",
       "onboard_time": 1733112380,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1716928,
-      "num": 1716928,
-      "word": "管晨辰微博遭大量批评攻击",
-      "onboard_time": 1733119879,
-      "rank": 0,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 1712298,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592697,
+      "num": 592697,
+      "word": "小伙相亲5年娶了个洋媳妇",
+      "onboard_time": 1733120480,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588762,
       "num": 227541,
       "word": "李行亮商演遭网友抵制",
@@ -873,6 +881,14 @@
       "onboard_time": 1733067199,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451409,
+      "num": 409998,
+      "word": "李蠕蠕模仿麦琳",
+      "onboard_time": 1733120598,
+      "rank": 22,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 449039,
@@ -1187,14 +1203,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 323100,
-      "num": 323100,
-      "word": "小伙相亲5年娶了个洋媳妇",
-      "onboard_time": 1733120480,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320409,
       "num": 236781,
       "word": "老人摔倒瞬间大哥滑铲接住头部",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308398,
-      "num": 308398,
-      "word": "李蠕蠕模仿麦琳",
-      "onboard_time": 1733120598,
-      "rank": 22,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 307526,
@@ -1291,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293676,
+      "num": 298177,
+      "word": "王楚钦孙颖莎击掌庆祝",
+      "onboard_time": 1733121139,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293222,
       "num": 293222,
       "word": "陈梦开始恢复训练",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1733024479,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 282200,
+      "num": 282200,
+      "word": "院士说现在一顿饭的热量太高",
+      "onboard_time": 1733118619,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282168,
@@ -1531,14 +1547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253574,
-      "num": 253574,
-      "word": "院士说现在一顿饭的热量太高",
-      "onboard_time": 1733118619,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252936,
       "num": 252936,
       "word": "王楚钦凌空杀球",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1732978522,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250867,
+      "num": 322753,
+      "word": "蔡文静问冯绍峰怎么撕渣男",
+      "onboard_time": 1733121018,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 249719,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1733108838,
       "rank": 47,
       "category": "读书作家,教育"
+    },
+    {
+      "raw_hot": 226220,
+      "num": 294799,
+      "word": "超30%开门杀事故引发二次事故",
+      "onboard_time": 1733121078,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224395,
@@ -1835,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208951,
+      "num": 208951,
+      "word": "张小斐要咖啡800个假动作",
+      "onboard_time": 1733120598,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208716,
       "num": 208716,
       "word": "李耕耘户外是一种生活也是一种态度",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1733053758,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205314,
+      "num": 284427,
+      "word": "巳升升春晚吉祥物",
+      "onboard_time": 1733121437,
+      "rank": 17,
+      "category": "综艺,演出"
     },
     {
       "raw_hot": 204229,
@@ -2155,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189958,
+      "num": 189958,
+      "word": "十二月的奇迹",
+      "onboard_time": 1733009294,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189257,
       "num": 189257,
       "word": "莎局来看比赛了",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1733019138,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185919,
+      "num": 185919,
+      "word": "最早的酱油是肉做的",
+      "onboard_time": 1733121199,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 185231,
@@ -2403,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169911,
+      "num": 169911,
+      "word": "2024年十大流行语",
+      "onboard_time": 1733121557,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169804,
       "num": 236450,
       "word": "宋亚轩白月光vs朱砂痣",
@@ -2473,14 +2537,6 @@
       "onboard_time": 1733023759,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164996,
-      "num": 294799,
-      "word": "超30%开门杀事故引发二次事故",
-      "onboard_time": 1733121078,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164207,
@@ -2633,14 +2689,6 @@
       "onboard_time": 1733104278,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156889,
-      "num": 156889,
-      "word": "十二月的奇迹",
-      "onboard_time": 1733009294,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 156718,
@@ -2827,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148848,
+      "num": 148848,
+      "word": "盗版麦琳杨子连麦",
+      "onboard_time": 1733121078,
+      "rank": 47,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 146462,
       "num": 146462,
       "word": "孙杨 别样又难忘的生日",
@@ -2843,14 +2899,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 146126,
-      "num": 146126,
-      "word": "张小斐要咖啡800个假动作",
-      "onboard_time": 1733120598,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146097,
       "num": 146097,
       "word": "福宝看到鲜脆的笋都要跑起来了",
@@ -2865,14 +2913,6 @@
       "onboard_time": 1733098218,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145666,
-      "num": 145666,
-      "word": "最早的酱油是肉做的",
-      "onboard_time": 1733121199,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 144944,
@@ -3115,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135600,
+      "num": 135600,
+      "word": "丁禹兮光速下线",
+      "onboard_time": 1733121679,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135578,
       "num": 227871,
       "word": "周芯竹说不太喜欢被过去拖住",
@@ -3153,14 +3201,6 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134385,
-      "num": 134385,
-      "word": "盗版麦琳杨子连麦",
-      "onboard_time": 1733121078,
-      "rank": 47,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 133803,
@@ -3393,6 +3433,14 @@
       "onboard_time": 1733032277,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123625,
+      "num": 123625,
+      "word": "宋威龙卷完颜值卷情绪",
+      "onboard_time": 1733121737,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 123392,
@@ -3785,14 +3833,6 @@
       "onboard_time": 1733065459,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101571,
-      "num": 298177,
-      "word": "王楚钦孙颖莎击掌庆祝",
-      "onboard_time": 1733121139,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 101435,
@@ -4211,6 +4251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77062,
+      "num": 321534,
+      "word": "市监局回应思念水饺疑吃出烟头",
+      "onboard_time": 1733119939,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 76675,
       "num": 129938,
       "word": "骆歆重庆活动开场",
@@ -4220,19 +4268,11 @@
     },
     {
       "raw_hot": 76509,
-      "num": 141446,
+      "num": 226046,
       "word": "哈登生涯3000记三分",
       "onboard_time": 1733120779,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76067,
-      "num": 321534,
-      "word": "市监局回应思念水饺疑吃出烟头",
-      "onboard_time": 1733119939,
-      "rank": 17,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 75869,
@@ -4297,6 +4337,14 @@
       "onboard_time": 1733036838,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 71544,
+      "num": 320486,
+      "word": "豪士1批次面包霉菌超标近6倍",
+      "onboard_time": 1733120959,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70510,
@@ -4755,6 +4803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39825,
+      "num": 412741,
+      "word": "药王谷1种秘方治百癌被立案调查",
+      "onboard_time": 1733121499,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39326,
       "num": 431283,
       "word": "催收班培训三天收五千至一万元",
@@ -4769,6 +4825,14 @@
       "onboard_time": 1733039838,
       "rank": 13,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 39169,
+      "num": 187229,
+      "word": "老登电影 老登文学",
+      "onboard_time": 1733121977,
+      "rank": 29,
+      "category": "电影,情感"
     },
     {
       "raw_hot": 39006,
@@ -4889,14 +4953,6 @@
       "onboard_time": 1733000771,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 33148,
-      "num": 322753,
-      "word": "蔡文静问冯绍峰怎么撕渣男",
-      "onboard_time": 1733121018,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 32854,
@@ -5179,14 +5235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22444,
-      "num": 320486,
-      "word": "豪士1批次面包霉菌超标近6倍",
-      "onboard_time": 1733120959,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21638,
       "num": 21638,
       "word": "叙反对派武装称进入阿勒颇市中心地带",
@@ -5369,6 +5417,14 @@
       "onboard_time": 1733081711,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12235,
+      "num": 171433,
+      "word": "香奈儿手工坊大秀选址西湖",
+      "onboard_time": 1733121437,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 11955,

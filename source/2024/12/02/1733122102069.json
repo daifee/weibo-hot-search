@@ -1,0 +1,410 @@
+{
+  "runTime": 1733122102069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1398726,
+        "num": 1398726,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 766192,
+        "num": 766192,
+        "word": "韩国流行周五下班去中国",
+        "onboard_time": 1733112380,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26658,
+        "num": 694634,
+        "word": "读懂改革奋进的中国",
+        "onboard_time": 1733116820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 685112,
+        "num": 685112,
+        "word": "麦当劳下调配送费收取打包费",
+        "onboard_time": 1733117659,
+        "rank": 3,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 592697,
+        "num": 592697,
+        "word": "小伙相亲5年娶了个洋媳妇",
+        "onboard_time": 1733120480,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571462,
+        "num": 571462,
+        "word": "周密爆料为周芯竹成立的公司已注销",
+        "onboard_time": 1733119099,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 555734,
+        "num": 555734,
+        "word": "张馨予在西藏住三个月",
+        "onboard_time": 1733113520,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551286,
+        "num": 551286,
+        "word": "药王谷开诊1个多月15名患者死亡",
+        "onboard_time": 1733110819,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 428521,
+        "num": 428521,
+        "word": "韩国年轻人涌向中国过周末",
+        "onboard_time": 1733116340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39825,
+        "num": 412741,
+        "word": "药王谷1种秘方治百癌被立案调查",
+        "onboard_time": 1733121499,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451409,
+        "num": 409998,
+        "word": "李蠕蠕模仿麦琳",
+        "onboard_time": 1733120598,
+        "rank": 10,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 403636,
+        "num": 403636,
+        "word": "麦琳未在李行亮经纪公司持股",
+        "onboard_time": 1733116100,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345999,
+        "num": 345999,
+        "word": "宋亚轩自曝体重",
+        "onboard_time": 1733117479,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332743,
+        "num": 332743,
+        "word": "丞磊助理",
+        "onboard_time": 1733113399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315099,
+        "num": 315099,
+        "word": "教育局回应老师被多名小学生写信投诉",
+        "onboard_time": 1733115079,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293676,
+        "num": 293676,
+        "word": "王楚钦孙颖莎击掌庆祝",
+        "onboard_time": 1733121139,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293235,
+        "num": 293235,
+        "word": "管晨辰已停更2周",
+        "onboard_time": 1733117600,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 205314,
+        "num": 284427,
+        "word": "巳升升春晚吉祥物",
+        "onboard_time": 1733121437,
+        "rank": 17,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 250867,
+        "num": 282376,
+        "word": "蔡文静问冯绍峰怎么撕渣男",
+        "onboard_time": 1733121018,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71544,
+        "num": 282253,
+        "word": "豪士1批次面包霉菌超标近6倍",
+        "onboard_time": 1733120959,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282200,
+        "num": 282200,
+        "word": "院士说现在一顿饭的热量太高",
+        "onboard_time": 1733118619,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264981,
+        "num": 264981,
+        "word": "川航一航班因旅客充电宝冒烟备降",
+        "onboard_time": 1733111778,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251901,
+        "num": 251901,
+        "word": "喜剧之王开机",
+        "onboard_time": 1733116878,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226220,
+        "num": 226220,
+        "word": "超30%开门杀事故引发二次事故",
+        "onboard_time": 1733121078,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63180,
+        "num": 226046,
+        "word": "哈登生涯3000记三分",
+        "onboard_time": 1733120779,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226025,
+        "num": 226025,
+        "word": "研究证明有饥饿感会启动长寿基因",
+        "onboard_time": 1733113520,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208951,
+        "num": 208951,
+        "word": "张小斐要咖啡800个假动作",
+        "onboard_time": 1733120598,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196341,
+        "num": 196341,
+        "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
+        "onboard_time": 1733113341,
+        "rank": 27,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 189958,
+        "num": 189958,
+        "word": "十二月的奇迹",
+        "onboard_time": 1733120299,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 39169,
+        "num": 187229,
+        "word": "老登电影 老登文学",
+        "onboard_time": 1733121977,
+        "rank": 29,
+        "category": "电影,情感"
+      },
+      {
+        "raw_hot": 63866,
+        "num": 186216,
+        "word": "OBGG显示Xiaohao加入EDG",
+        "onboard_time": 1733120299,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185919,
+        "num": 185919,
+        "word": "最早的酱油是肉做的",
+        "onboard_time": 1733121199,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 185735,
+        "num": 185735,
+        "word": "武艺推荐苏醒参加再见爱人",
+        "onboard_time": 1733113700,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12235,
+        "num": 171433,
+        "word": "香奈儿手工坊大秀选址西湖",
+        "onboard_time": 1733121437,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 169911,
+        "num": 169911,
+        "word": "2024年十大流行语",
+        "onboard_time": 1733121557,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1968474,
+        "num": 165887,
+        "word": "管晨辰微博遭大量批评攻击",
+        "onboard_time": 1733119879,
+        "rank": 35,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 152698,
+        "num": 152698,
+        "word": "堵车时闯绿灯属违法行为",
+        "onboard_time": 1733104278,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77062,
+        "num": 151603,
+        "word": "市监局回应思念水饺疑吃出烟头",
+        "onboard_time": 1733119939,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150805,
+        "num": 150805,
+        "word": "这期毛雪汪信息量好大",
+        "onboard_time": 1733118440,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148848,
+        "num": 148848,
+        "word": "盗版麦琳杨子连麦",
+        "onboard_time": 1733121078,
+        "rank": 39,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 135600,
+        "num": 135600,
+        "word": "丁禹兮光速下线",
+        "onboard_time": 1733121679,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "王楚钦vs苏拉瓦朱拉",
+        "onboard_time": 1733113821,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133761,
+        "num": 133761,
+        "word": "张艺谋一家参加巴黎名媛舞会",
+        "onboard_time": 1733119158,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132939,
+        "num": 132939,
+        "word": "男子网恋被骗又扮女性骗另一男子",
+        "onboard_time": 1733114960,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123625,
+        "num": 123625,
+        "word": "宋威龙卷完颜值卷情绪",
+        "onboard_time": 1733121737,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131659,
+        "num": 123585,
+        "word": "虞书欣问丁禹兮拼豆呢",
+        "onboard_time": 1733117960,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123481,
+        "num": 123481,
+        "word": "2025江苏卫视跨年演唱会官宣",
+        "onboard_time": 1733120299,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122805,
+        "num": 122805,
+        "word": "金高银来杭州了",
+        "onboard_time": 1733111659,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 120018,
+        "num": 120018,
+        "word": "周夺笋",
+        "onboard_time": 1733116280,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114826,
+        "num": 114826,
+        "word": "鞠婧祎陈都灵月鳞绮纪逆应援",
+        "onboard_time": 1733119639,
+        "rank": 49,
+        "category": "艺人,剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}
