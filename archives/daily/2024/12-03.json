@@ -1,10 +1,10 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733179311324,
+  "endTime": 1733181912658,
   "band_list": [
     {
       "raw_hot": 1660737,
-      "num": 152455,
+      "num": 170799,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 938268,
+      "num": 938268,
+      "word": "12岁女孩以为月经不调竟是癌症晚期",
+      "onboard_time": 1733155878,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 899246,
       "num": 899246,
       "word": "陈少熙直播",
@@ -27,19 +35,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 717778,
+      "raw_hot": 801201,
       "num": 880469,
       "word": "6岁女儿蹭跑全马父亲涉违规",
       "onboard_time": 1733152460,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 680251,
-      "num": 680251,
-      "word": "12岁女孩以为月经不调竟是癌症晚期",
-      "onboard_time": 1733155878,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468603,
+      "num": 468603,
+      "word": "快乐再出发录制与游客起冲突",
+      "onboard_time": 1733150181,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358963,
       "num": 358963,
       "word": "组委会回应6岁女孩跑完全马",
       "onboard_time": 1733154859,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301336,
-      "num": 260417,
-      "word": "快乐再出发录制与游客起冲突",
-      "onboard_time": 1733150181,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 295260,
@@ -99,12 +99,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190976,
+      "num": 190976,
+      "word": "5000年前的日出曾被这样记录下来",
+      "onboard_time": 1733160493,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 181681,
+      "num": 181681,
+      "word": "美一女子急诊刚醒护士就来结账",
+      "onboard_time": 1733150002,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179494,
       "num": 110079,
       "word": "徐艺洋幼师资格证下来了",
       "onboard_time": 1733142025,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178635,
+      "num": 170479,
+      "word": "一教培机构20多人趴地上迎接领导",
+      "onboard_time": 1733138239,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177851,
+      "num": 177851,
+      "word": "下午四点半后是个很神奇的时间节点",
+      "onboard_time": 1733143285,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 173722,
@@ -115,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163369,
+      "num": 163369,
+      "word": "川航通报因旅客的充电宝冒烟备降桂林",
+      "onboard_time": 1733165171,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161637,
       "num": 120725,
       "word": "Angelababy染发了",
       "onboard_time": 1733127920,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158791,
-      "num": 158791,
-      "word": "下午四点半后是个很神奇的时间节点",
-      "onboard_time": 1733143285,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 144625,
@@ -155,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141520,
+      "num": 141520,
+      "word": "婚内婚外这一幕完全是恐怖片",
+      "onboard_time": 1733148741,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137459,
       "num": 137459,
       "word": "逐玉 高卿尘",
@@ -169,6 +209,14 @@
       "onboard_time": 1733154260,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134955,
+      "num": 134955,
+      "word": "胃病患者出现这5个症状要警惕",
+      "onboard_time": 1733178614,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127377,
@@ -219,28 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97849,
-      "num": 134841,
-      "word": "一教培机构20多人趴地上迎接领导",
-      "onboard_time": 1733138239,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97126,
       "num": 97126,
       "word": "赵露思短发贝雷帽造型",
       "onboard_time": 1733141544,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96472,
-      "num": 129121,
-      "word": "美一女子急诊刚醒护士就来结账",
-      "onboard_time": 1733150002,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 94643,
@@ -257,14 +289,6 @@
       "onboard_time": 1733155818,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92362,
-      "num": 92362,
-      "word": "5000年前的日出曾被这样记录下来",
-      "onboard_time": 1733160493,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 88054,
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78527,
+      "num": 108497,
+      "word": "小伙南极旅行邮轮与冰山擦肩而过",
+      "onboard_time": 1733157316,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77310,
       "num": 77310,
       "word": "李庚希魏大勋撤回的吻戏亲上了",
@@ -323,20 +355,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75603,
-      "num": 75603,
-      "word": "婚内婚外这一幕完全是恐怖片",
-      "onboard_time": 1733148741,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 70938,
-      "num": 70938,
-      "word": "川航通报因旅客的充电宝冒烟备降桂林",
-      "onboard_time": 1733165171,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 72943,
+      "num": 72943,
+      "word": "刘晓庆前男友发律师函讨债",
+      "onboard_time": 1733169911,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 69774,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67035,
+      "num": 67035,
+      "word": "这件大口尊刻着一场5000年前的日出",
+      "onboard_time": 1733161814,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 65669,
       "num": 65669,
       "word": "狐妖竹业篇改名淮水竹亭",
@@ -368,14 +400,6 @@
       "word": "2岁孩子将电池放嘴里咬发生爆炸",
       "onboard_time": 1733136918,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62294,
-      "num": 108497,
-      "word": "小伙南极旅行邮轮与冰山擦肩而过",
-      "onboard_time": 1733157316,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -403,12 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57037,
+      "num": 57037,
+      "word": "也门胡塞武装宣布袭击了美军舰",
+      "onboard_time": 1733175612,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56361,
       "num": 56361,
       "word": "丁禹兮一年播了四部剧",
       "onboard_time": 1733158935,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53646,
+      "num": 53646,
+      "word": "男子39.9元网购平板电脑到货变耳机",
+      "onboard_time": 1733141127,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52351,
@@ -419,12 +459,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51349,
+      "num": 86654,
+      "word": "中方希望立陶宛新政府坚持一个中国原则",
+      "onboard_time": 1733150902,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51246,
+      "num": 68296,
+      "word": "律师称不能在网络上无成本肆意妄为",
+      "onboard_time": 1733178912,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48178,
       "num": 97381,
       "word": "叙利亚向前线派遣大量军队阻止叛军推进",
       "onboard_time": 1733157017,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47610,
+      "num": 47610,
+      "word": "烟草局回应男子假冒主管要求陪睡",
+      "onboard_time": 1733180894,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44906,
@@ -443,22 +507,6 @@
       "category": "美食,休闲"
     },
     {
-      "raw_hot": 40043,
-      "num": 86654,
-      "word": "中方希望立陶宛新政府坚持一个中国原则",
-      "onboard_time": 1733150902,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 39803,
-      "num": 39803,
-      "word": "也门胡塞武装宣布袭击了美军舰",
-      "onboard_time": 1733175612,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38129,
       "num": 57737,
       "word": "新一疑似内涵Uzi",
@@ -475,20 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38017,
-      "num": 38017,
-      "word": "这件大口尊刻着一场5000年前的日出",
-      "onboard_time": 1733161814,
-      "rank": 27,
-      "category": "正能量"
+      "raw_hot": 36653,
+      "num": 42173,
+      "word": "向佐 向朵花",
+      "onboard_time": 1733172311,
+      "rank": 28,
+      "category": "艺人"
     },
     {
-      "raw_hot": 37456,
-      "num": 47307,
-      "word": "刘晓庆前男友发律师函讨债",
-      "onboard_time": 1733169911,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 36503,
+      "num": 567110,
+      "word": "数说我国首条世界级天然气管道",
+      "onboard_time": 1733145265,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32979,
@@ -531,12 +579,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29461,
+      "num": 42147,
+      "word": "一场双方年龄差距60岁的救援",
+      "onboard_time": 1733173151,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28707,
       "num": 61028,
       "word": "VOGUE年度运动员大片",
       "onboard_time": 1733150902,
       "rank": 49,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 28251,
+      "num": 42133,
+      "word": "张艺谋蹲着给妻子拍照",
+      "onboard_time": 1733167090,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 27943,
@@ -555,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24489,
+      "num": 42130,
+      "word": "千金府",
+      "onboard_time": 1733175071,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 23254,
       "num": 23254,
       "word": "永夜星河11月有效播放双榜冠军",
@@ -563,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21693,
-      "num": 23274,
-      "word": "千金府",
-      "onboard_time": 1733175071,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 22723,
+      "num": 171208,
+      "word": "广西砂糖橘又去东北了",
+      "onboard_time": 1733181316,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21247,
@@ -587,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21098,
-      "num": 27874,
-      "word": "一场双方年龄差距60岁的救援",
-      "onboard_time": 1733173151,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20934,
       "num": 20934,
       "word": "权志龙又发幕后了",
@@ -611,14 +675,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19619,
-      "num": 23269,
-      "word": "向佐 向朵花",
-      "onboard_time": 1733172311,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19149,
       "num": 19149,
       "word": "人人网已停止服务",
@@ -627,28 +683,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 19061,
-      "num": 228560,
-      "word": "数说我国首条世界级天然气管道",
-      "onboard_time": 1733145265,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18087,
       "num": 23248,
       "word": "ABO溶血及时治疗宝宝预后会很好",
       "onboard_time": 1733169071,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18002,
-      "num": 24975,
-      "word": "张艺谋蹲着给妻子拍照",
-      "onboard_time": 1733167090,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 17735,
@@ -721,14 +761,6 @@
       "onboard_time": 1733140526,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13125,
-      "num": 68296,
-      "word": "律师称不能在网络上无成本肆意妄为",
-      "onboard_time": 1733178912,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12530,
