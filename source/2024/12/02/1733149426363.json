@@ -1,0 +1,410 @@
+{
+  "runTime": 1733149426363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5643869,
+        "num": 5643869,
+        "word": "黄子韬徐艺洋结婚",
+        "onboard_time": 1733138724,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739093,
+        "num": 739093,
+        "word": "某综艺在西安一公园录制引游客不满",
+        "onboard_time": 1733142205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6933,
+        "num": 538494,
+        "word": "读懂改革奋进的中国",
+        "onboard_time": 1733116820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 535995,
+        "num": 535995,
+        "word": "有人用运费险8个月骗取100多万",
+        "onboard_time": 1733128278,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 380139,
+        "num": 380139,
+        "word": "下午四点半后是个很神奇的时间节点",
+        "onboard_time": 1733143285,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1347164,
+        "num": 348013,
+        "word": "黄子韬说徐艺洋拍结婚照没洗头",
+        "onboard_time": 1733144785,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474887,
+        "num": 325549,
+        "word": "黄爱洋",
+        "onboard_time": 1733144845,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391254,
+        "num": 324534,
+        "word": "奚梦瑶现身私立医院",
+        "onboard_time": 1733141006,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284203,
+        "num": 284203,
+        "word": "商家大规模关闭运费险背后",
+        "onboard_time": 1733136199,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55312,
+        "num": 284143,
+        "word": "官方通报药王谷抗癌中心调查事件",
+        "onboard_time": 1733149221,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2909179,
+        "num": 283316,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480278,
+        "num": 282880,
+        "word": "归国四子",
+        "onboard_time": 1733140947,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460185,
+        "num": 282168,
+        "word": "一教培机构20多人趴地上迎接领导",
+        "onboard_time": 1733138239,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438757,
+        "num": 281942,
+        "word": "Angelababy染发了",
+        "onboard_time": 1733127920,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28333,
+        "num": 281376,
+        "word": "叙利亚战火为何重燃",
+        "onboard_time": 1733148862,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346452,
+        "num": 280429,
+        "word": "苏醒晒与武艺聊天记录",
+        "onboard_time": 1733144725,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288251,
+        "num": 280150,
+        "word": "吴柳芳开通个人微博",
+        "onboard_time": 1733146463,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 96957,
+        "num": 279263,
+        "word": "贺峻霖又抽象了",
+        "onboard_time": 1733147362,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29079,
+        "num": 278898,
+        "word": "婚内婚外这一幕完全是恐怖片",
+        "onboard_time": 1733148741,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357710,
+        "num": 278600,
+        "word": "Angelababy薄荷绿小香",
+        "onboard_time": 1733148142,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419031,
+        "num": 277839,
+        "word": "被清华大学教室的粉笔震惊到了",
+        "onboard_time": 1733146342,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277582,
+        "num": 277582,
+        "word": "郭敬明 月鳞绮纪原始帧",
+        "onboard_time": 1733148203,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244978,
+        "num": 244978,
+        "word": "为蟑螂正名",
+        "onboard_time": 1733147002,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235008,
+        "num": 235008,
+        "word": "赵露思短发贝雷帽造型",
+        "onboard_time": 1733141544,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187894,
+        "num": 187894,
+        "word": "李庚希魏大勋撤回的吻戏亲上了",
+        "onboard_time": 1733148203,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98300,
+        "num": 187402,
+        "word": "身份证照片拍照指南",
+        "onboard_time": 1733148442,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187360,
+        "num": 187360,
+        "word": "29名建筑工赴香港打工月薪3万",
+        "onboard_time": 1733142086,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181254,
+        "num": 181254,
+        "word": "新音 澳门",
+        "onboard_time": 1733148142,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175560,
+        "num": 175560,
+        "word": "狐妖竹业篇改名淮水竹亭",
+        "onboard_time": 1733140585,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166408,
+        "num": 166408,
+        "word": "拍身份证照片别穿这类衣服",
+        "onboard_time": 1733143705,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171592,
+        "num": 165700,
+        "word": "丑老公",
+        "onboard_time": 1733129239,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162005,
+        "num": 162005,
+        "word": "没人和我说这是胡先煦啊",
+        "onboard_time": 1733142685,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152450,
+        "num": 152450,
+        "word": "吴柳芳发博回应网友关注",
+        "onboard_time": 1733147183,
+        "rank": 32,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 6938,
+        "num": 150775,
+        "word": "荣耀300赛博晕车贴",
+        "onboard_time": 1733144665,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149999,
+        "num": 149999,
+        "word": "2岁孩子将电池放嘴里咬发生爆炸",
+        "onboard_time": 1733136918,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148858,
+        "num": 148858,
+        "word": "婚内婚外 在外当孙子回家撑面子",
+        "onboard_time": 1733147783,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146563,
+        "num": 146563,
+        "word": "鞠婧祎陈都灵曾舜晞田嘉瑞妆造",
+        "onboard_time": 1733147122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141695,
+        "num": 141695,
+        "word": "导师看到我的论文查重率是0%时",
+        "onboard_time": 1733138844,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137779,
+        "num": 137779,
+        "word": "Pest发歌diss周密",
+        "onboard_time": 1733136678,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128436,
+        "num": 128436,
+        "word": "家业",
+        "onboard_time": 1733144665,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128310,
+        "num": 128310,
+        "word": "白夜破晓 录音",
+        "onboard_time": 1733146883,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125145,
+        "num": 125145,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121719,
+        "num": 121719,
+        "word": "人人网已停止服务",
+        "onboard_time": 1733130020,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112763,
+        "num": 112763,
+        "word": "女儿想吃麻花盲人父亲犹豫摊主免单",
+        "onboard_time": 1733149221,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106952,
+        "num": 106952,
+        "word": "丑老公永久禁言",
+        "onboard_time": 1733147002,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105392,
+        "num": 105392,
+        "word": "香港97年卡拉OK纵火案嫌犯内地落网",
+        "onboard_time": 1733142507,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94272,
+        "num": 94272,
+        "word": "官方回应公园被质疑录综艺赶游客",
+        "onboard_time": 1733145983,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89488,
+        "num": 89488,
+        "word": "共享单车被丢河里每月可捞数百辆",
+        "onboard_time": 1733146043,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88155,
+        "num": 88155,
+        "word": "逐玉 高卿尘",
+        "onboard_time": 1733149401,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87880,
+        "num": 87880,
+        "word": "央行将启用新修订的M1统计口径",
+        "onboard_time": 1733148921,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推动共建一带一路高质量发展#"
+    }
+  }
+}

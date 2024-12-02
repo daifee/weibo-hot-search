@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733147086077,
+  "endTime": 1733149426363,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3965862,
-      "num": 273649,
+      "num": 283316,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2230797,
-      "num": 287606,
+      "num": 348013,
       "word": "黄子韬说徐艺洋拍结婚照没洗头",
       "onboard_time": 1733144785,
       "rank": 5,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 550979,
-      "num": 286663,
+      "num": 325549,
       "word": "黄爱洋",
       "onboard_time": 1733144845,
       "rank": 6,
@@ -1235,6 +1235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 419031,
+      "num": 277839,
+      "word": "被清华大学教室的粉笔震惊到了",
+      "onboard_time": 1733146342,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 415337,
       "num": 338827,
       "word": "林更新狗随主人",
@@ -1339,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 380139,
+      "num": 380139,
+      "word": "下午四点半后是个很神奇的时间节点",
+      "onboard_time": 1733143285,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377233,
       "num": 377233,
       "word": "孙颖莎安排小孩哥捡球",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1733011335,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357710,
+      "num": 278600,
+      "word": "Angelababy薄荷绿小香",
+      "onboard_time": 1733148142,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 356663,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1733103018,
       "rank": 9,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 346452,
+      "num": 280429,
+      "word": "苏醒晒与武艺聊天记录",
+      "onboard_time": 1733144725,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 344586,
@@ -1691,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288251,
+      "num": 280150,
+      "word": "吴柳芳开通个人微博",
+      "onboard_time": 1733146463,
+      "rank": 20,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 287390,
       "num": 287390,
       "word": "这些食物是结节的催化剂",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1733112079,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283011,
-      "num": 283011,
-      "word": "下午四点半后是个很神奇的时间节点",
-      "onboard_time": 1733143285,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 282829,
@@ -1745,6 +1777,14 @@
       "onboard_time": 1733047998,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277582,
+      "num": 277582,
+      "word": "郭敬明 月鳞绮纪原始帧",
+      "onboard_time": 1733148203,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 277294,
@@ -1867,14 +1907,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 263608,
-      "num": 169152,
-      "word": "苏醒晒与武艺聊天记录",
-      "onboard_time": 1733144725,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263465,
       "num": 172457,
       "word": "gidle全员续约",
@@ -1921,14 +1953,6 @@
       "onboard_time": 1733112319,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 256138,
-      "num": 256138,
-      "word": "吴柳芳开通个人微博",
-      "onboard_time": 1733146463,
-      "rank": 20,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 254471,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1733136918,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244978,
+      "num": 244978,
+      "word": "为蟑螂正名",
+      "onboard_time": 1733147002,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 244637,
@@ -2321,14 +2353,6 @@
       "onboard_time": 1733051179,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214224,
-      "num": 169142,
-      "word": "被清华大学教室的粉笔震惊到了",
-      "onboard_time": 1733146342,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 214052,
@@ -2883,6 +2907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187894,
+      "num": 187894,
+      "word": "李庚希魏大勋撤回的吻戏亲上了",
+      "onboard_time": 1733148203,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187737,
       "num": 245710,
       "word": "因果报应 穿运动鞋观影",
@@ -2993,6 +3025,14 @@
       "onboard_time": 1733118440,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181254,
+      "num": 181254,
+      "word": "新音 澳门",
+      "onboard_time": 1733148142,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 180728,
@@ -3603,6 +3643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152450,
+      "num": 152450,
+      "word": "吴柳芳发博回应网友关注",
+      "onboard_time": 1733147183,
+      "rank": 32,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 151134,
       "num": 135560,
       "word": "丁禹兮海上唱重塑",
@@ -3707,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148858,
+      "num": 148858,
+      "word": "婚内婚外 在外当孙子回家撑面子",
+      "onboard_time": 1733147783,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148848,
       "num": 148848,
       "word": "盗版麦琳杨子连麦",
@@ -3729,6 +3785,14 @@
       "onboard_time": 1733144246,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146563,
+      "num": 146563,
+      "word": "鞠婧祎陈都灵曾舜晞田嘉瑞妆造",
+      "onboard_time": 1733147122,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 146462,
@@ -4299,6 +4363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128310,
+      "num": 128310,
+      "word": "白夜破晓 录音",
+      "onboard_time": 1733146883,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128013,
       "num": 128013,
       "word": "周冠宇全场最佳车手",
@@ -4707,6 +4779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112763,
+      "num": 112763,
+      "word": "女儿想吃麻花盲人父亲犹豫摊主免单",
+      "onboard_time": 1733149221,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112637,
       "num": 112637,
       "word": "广州出现奇葩斑马线",
@@ -4827,6 +4907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106952,
+      "num": 106952,
+      "word": "丑老公永久禁言",
+      "onboard_time": 1733147002,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 106841,
       "num": 254213,
       "word": "酸辣粉里是什么粉",
@@ -4883,14 +4971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104550,
-      "num": 104550,
-      "word": "白夜破晓 录音",
-      "onboard_time": 1733146883,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104429,
       "num": 104429,
       "word": "SK卡卡",
@@ -4937,14 +5017,6 @@
       "onboard_time": 1732986075,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102040,
-      "num": 102040,
-      "word": "为蟑螂正名",
-      "onboard_time": 1733147002,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 101787,
@@ -5011,14 +5083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99891,
-      "num": 99891,
-      "word": "丑老公永久禁言",
-      "onboard_time": 1733147002,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 99610,
       "num": 402182,
       "word": "汪顺现身海洋奇缘2首映礼",
@@ -5059,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98300,
+      "num": 187402,
+      "word": "身份证照片拍照指南",
+      "onboard_time": 1733148442,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98237,
       "num": 98237,
       "word": "在飞机上看见一封迟到三年的情书",
@@ -5097,6 +5169,14 @@
       "onboard_time": 1733011996,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96957,
+      "num": 279263,
+      "word": "贺峻霖又抽象了",
+      "onboard_time": 1733147362,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 96871,
@@ -5267,6 +5347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89488,
+      "num": 267172,
+      "word": "共享单车被丢河里每月可捞数百辆",
+      "onboard_time": 1733146043,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88702,
       "num": 88702,
       "word": "怀上九胞胎女子减7胎后出院",
@@ -5289,6 +5377,22 @@
       "onboard_time": 1733112319,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88155,
+      "num": 88155,
+      "word": "逐玉 高卿尘",
+      "onboard_time": 1733149401,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87880,
+      "num": 87880,
+      "word": "央行将启用新修订的M1统计口径",
+      "onboard_time": 1733148921,
+      "rank": 49,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 87751,
@@ -5875,12 +5979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56156,
-      "num": 267172,
-      "word": "共享单车被丢河里每月可捞数百辆",
-      "onboard_time": 1733146043,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 55312,
+      "num": 284143,
+      "word": "官方通报药王谷抗癌中心调查事件",
+      "onboard_time": 1733149221,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 55182,
@@ -6515,6 +6619,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 29079,
+      "num": 278898,
+      "word": "婚内婚外这一幕完全是恐怖片",
+      "onboard_time": 1733148741,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28912,
       "num": 336067,
       "word": "三明治穿衣法",
@@ -6561,6 +6673,14 @@
       "onboard_time": 1732979300,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28333,
+      "num": 281376,
+      "word": "叙利亚战火为何重燃",
+      "onboard_time": 1733148862,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27533,
