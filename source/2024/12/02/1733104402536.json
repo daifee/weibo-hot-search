@@ -1,0 +1,410 @@
+{
+  "runTime": 1733104402536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3238284,
+        "num": 3238284,
+        "word": "拜登宣布赦免其子",
+        "onboard_time": 1733101518,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1073770,
+        "num": 1073770,
+        "word": "90后女护士将房间住包浆后失联",
+        "onboard_time": 1733098638,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43216,
+        "num": 767105,
+        "word": "这样的文物戏精亮了",
+        "onboard_time": 1733058019,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 678543,
+        "num": 678543,
+        "word": "周芯竹 高天佐",
+        "onboard_time": 1733103258,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513556,
+        "num": 513556,
+        "word": "胃病变胃癌前一般有5个症状",
+        "onboard_time": 1733101458,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 490913,
+        "num": 490913,
+        "word": "李行亮12月至少有2个演出计划",
+        "onboard_time": 1733082251,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 479689,
+        "num": 479689,
+        "word": "学信网发了永夜星河",
+        "onboard_time": 1733101279,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367360,
+        "num": 367360,
+        "word": "泰国坠崖孕妇被指责生意做太大",
+        "onboard_time": 1733067618,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349404,
+        "num": 349404,
+        "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
+        "onboard_time": 1733060960,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 349273,
+        "num": 349273,
+        "word": "IU边佑锡新剧",
+        "onboard_time": 1733103018,
+        "rank": 9,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 178656,
+        "num": 329351,
+        "word": "中国乡村藏着一本巨型食谱",
+        "onboard_time": 1733101279,
+        "rank": 10,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 675667,
+        "num": 329029,
+        "word": "这样使用避孕套是无效操作",
+        "onboard_time": 1733060119,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326586,
+        "num": 326586,
+        "word": "四大扛剧女演员",
+        "onboard_time": 1733064921,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287390,
+        "num": 287390,
+        "word": "这些食物是结节的催化剂",
+        "onboard_time": 1733098638,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274823,
+        "num": 274823,
+        "word": "香港3歹徒入店抢走66个爱马仕包",
+        "onboard_time": 1733098578,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669735,
+        "num": 270088,
+        "word": "周芯竹 周密",
+        "onboard_time": 1733096897,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253895,
+        "num": 253895,
+        "word": "大爷哪天出现哪天就是快乐星期几",
+        "onboard_time": 1733097616,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211236,
+        "num": 211236,
+        "word": "腾讯回应微信提现可免手续费",
+        "onboard_time": 1733064201,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209559,
+        "num": 209559,
+        "word": "重庆棒棒父子14年后重返故地",
+        "onboard_time": 1733099717,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96006,
+        "num": 195395,
+        "word": "姜云升直播",
+        "onboard_time": 1733103917,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 618819,
+        "num": 191751,
+        "word": "陈近南diss周密",
+        "onboard_time": 1733097498,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182858,
+        "num": 182858,
+        "word": "恋与深空",
+        "onboard_time": 1733102478,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182477,
+        "num": 182477,
+        "word": "傅首尔回应傅首尔面相",
+        "onboard_time": 1733064201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174988,
+        "num": 174988,
+        "word": "半夜天花板上掉下一只300斤野猪",
+        "onboard_time": 1733059460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169329,
+        "num": 173768,
+        "word": "秦彻",
+        "onboard_time": 1733103377,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173204,
+        "num": 173204,
+        "word": "向未成年人销售烟卡违法",
+        "onboard_time": 1733099717,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 166035,
+        "num": 166035,
+        "word": "北京地铁大爷向年轻人花式发射快乐",
+        "onboard_time": 1733103317,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157070,
+        "num": 157070,
+        "word": "筷子不能伸进屏幕的无力感",
+        "onboard_time": 1733104278,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145959,
+        "num": 153968,
+        "word": "傅首尔谈再见爱人后的状态",
+        "onboard_time": 1733098218,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121815,
+        "num": 152858,
+        "word": "GFriend重组回归",
+        "onboard_time": 1733101279,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209930,
+        "num": 152854,
+        "word": "女娲很可能是真实存在过的一群女人",
+        "onboard_time": 1733103077,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152683,
+        "num": 152683,
+        "word": "女子10件旧羽绒服爆改1床羽绒被",
+        "onboard_time": 1733087231,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148676,
+        "num": 148676,
+        "word": "撞死知名医生肇事者家属请求谅解",
+        "onboard_time": 1733064019,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 144286,
+        "num": 144286,
+        "word": "孩子兜里揣龙眼家长质疑超市定性偷盗",
+        "onboard_time": 1733098157,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141418,
+        "num": 141418,
+        "word": "福宝的大长腿都要溢出屏幕了",
+        "onboard_time": 1733100979,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136985,
+        "num": 136985,
+        "word": "微信提现可以免手续费了",
+        "onboard_time": 1733037918,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133512,
+        "num": 133512,
+        "word": "堵车时闯绿灯属违法行为",
+        "onboard_time": 1733104278,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124550,
+        "num": 124550,
+        "word": "央视曝光学生体育用品中的增塑剂",
+        "onboard_time": 1733058919,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122004,
+        "num": 122004,
+        "word": "老人摔倒瞬间大哥滑铲接住头部",
+        "onboard_time": 1733050158,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 117999,
+        "num": 117999,
+        "word": "我是刑警驳回了受害者有罪论",
+        "onboard_time": 1733098877,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117933,
+        "num": 117933,
+        "word": "军嫂带孩子迎接丈夫退役回家",
+        "onboard_time": 1733101279,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116557,
+        "num": 116557,
+        "word": "胡夏裤子崩了",
+        "onboard_time": 1733102298,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116171,
+        "num": 116171,
+        "word": "这一脚伸得太帅了",
+        "onboard_time": 1733077213,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104697,
+        "num": 104697,
+        "word": "烟卡销售应严卡网上漏洞",
+        "onboard_time": 1733103198,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102827,
+        "num": 102827,
+        "word": "没想到吃剩的骨头还能这样用",
+        "onboard_time": 1733104278,
+        "rank": 44,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 98904,
+        "num": 98904,
+        "word": "颜如晶瘦了55斤解锁全新风格",
+        "onboard_time": 1733057898,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97714,
+        "num": 97714,
+        "word": "申论答案",
+        "onboard_time": 1733101518,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93339,
+        "num": 93339,
+        "word": "女子试驾冲进4S店致多车受损",
+        "onboard_time": 1733080571,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88790,
+        "num": 88790,
+        "word": "唐嫣罗晋带娃逛迪士尼",
+        "onboard_time": 1733059279,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 88475,
+        "word": "TREASURE将换队长",
+        "onboard_time": 1733067199,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族是守正创新的民族#"
+    }
+  }
+}
