@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733125168455,
+  "endTime": 1733128338036,
   "band_list": [
     {
       "raw_hot": 3238284,
@@ -33,6 +33,14 @@
       "onboard_time": 1733110819,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1680370,
+      "num": 405990,
+      "word": "女子8小时不玩手机赢得万元奖金",
+      "onboard_time": 1733124499,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1606308,
@@ -105,6 +113,14 @@
       "onboard_time": 1733113399,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 867533,
+      "num": 867533,
+      "word": "豪士1批次面包霉菌超标近6倍",
+      "onboard_time": 1733120959,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 823631,
@@ -219,14 +235,6 @@
       "category": "综艺,作品衍生"
     },
     {
-      "raw_hot": 578574,
-      "num": 578574,
-      "word": "豪士1批次面包霉菌超标近6倍",
-      "onboard_time": 1733120959,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 575715,
       "num": 575715,
       "word": "网友在小学废弃信箱发现多封投诉信",
@@ -281,6 +289,14 @@
       "onboard_time": 1733103077,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 548249,
+      "num": 548249,
+      "word": "教育局介入废弃小学信箱发现举报信",
+      "onboard_time": 1733125039,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 538629,
@@ -339,12 +355,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 485842,
+      "num": 485842,
+      "word": "鞠婧祎月鳞绮纪出妆",
+      "onboard_time": 1733125098,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480574,
+      "num": 480574,
+      "word": "Angelababy染发了",
+      "onboard_time": 1733127920,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479689,
       "num": 479689,
       "word": "学信网发了永夜星河",
       "onboard_time": 1733101279,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471253,
+      "num": 471253,
+      "word": "吴柳芳为何被普遍支持",
+      "onboard_time": 1733124078,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 461123,
@@ -387,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433393,
+      "num": 433393,
+      "word": "恋与深空登顶",
+      "onboard_time": 1733126659,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 431217,
       "num": 504609,
       "word": "韩国年轻人涌向中国过周末",
@@ -401,6 +449,14 @@
       "onboard_time": 1733117479,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415438,
+      "num": 415438,
+      "word": "男子自称烟草局主管安排入职需陪睡",
+      "onboard_time": 1733125638,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410239,
@@ -515,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 331668,
+      "num": 331668,
+      "word": "男子向别国提供我国家秘密换绿卡",
+      "onboard_time": 1733125398,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326632,
       "num": 306152,
       "word": "音乐节主办停止和周密合作",
@@ -539,12 +603,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 321272,
-      "num": 321272,
-      "word": "吴柳芳为何被普遍支持",
-      "onboard_time": 1733124078,
-      "rank": 23,
-      "category": "体育,网红"
+      "raw_hot": 312855,
+      "num": 395021,
+      "word": "退学的博士生们",
+      "onboard_time": 1733125758,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310376,
@@ -620,7 +684,7 @@
     },
     {
       "raw_hot": 277096,
-      "num": 291369,
+      "num": 300691,
       "word": "鹿晗直播预测",
       "onboard_time": 1733123599,
       "rank": 30,
@@ -713,6 +777,14 @@
       "onboard_time": 1733116280,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252303,
+      "num": 323968,
+      "word": "青菜炒泥蛋",
+      "onboard_time": 1733127258,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 247105,
@@ -1003,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186052,
+      "num": 186052,
+      "word": "恋与深空",
+      "onboard_time": 1733102478,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185919,
       "num": 185919,
       "word": "最早的酱油是肉做的",
@@ -1035,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182858,
-      "num": 182858,
-      "word": "恋与深空",
-      "onboard_time": 1733102478,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182844,
       "num": 182844,
       "word": "王昶今日打卡6000",
@@ -1067,6 +1139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181038,
+      "num": 181038,
+      "word": "名下关联了多少账号可速查",
+      "onboard_time": 1733127978,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179103,
       "num": 273675,
       "word": "仅有39.6万人放弃国考",
@@ -1083,12 +1163,44 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 176425,
+      "num": 176425,
+      "word": "ABO溶血是什么",
+      "onboard_time": 1733127738,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 173664,
+      "num": 173664,
+      "word": "刚考完就知道成绩了",
+      "onboard_time": 1733128099,
+      "rank": 38,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 171372,
       "num": 195395,
       "word": "姜云升直播",
       "onboard_time": 1733103917,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171027,
+      "num": 171027,
+      "word": "秦彻日卡双登顶",
+      "onboard_time": 1733128158,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170896,
+      "num": 170896,
+      "word": "小猫斜挎包",
+      "onboard_time": 1733126838,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 169804,
@@ -1187,6 +1299,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 155394,
+      "num": 439941,
+      "word": "中国小区为何容易变成老破小",
+      "onboard_time": 1733126599,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 154638,
       "num": 154638,
       "word": "女子试驾冲进4S店致多车受损",
@@ -1201,6 +1321,14 @@
       "onboard_time": 1733114960,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154480,
+      "num": 315948,
+      "word": "梁建章建议取消中高考",
+      "onboard_time": 1733127978,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 154085,
@@ -1249,14 +1377,6 @@
       "onboard_time": 1733116999,
       "rank": 43,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 146070,
-      "num": 146070,
-      "word": "女子8小时不玩手机赢得万元奖金",
-      "onboard_time": 1733124499,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145959,
@@ -1355,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141016,
-      "num": 141016,
-      "word": "鞠婧祎月鳞绮纪出妆",
-      "onboard_time": 1733125098,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140005,
       "num": 140005,
       "word": "aespa 星际女战士winter",
@@ -1411,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135470,
+      "num": 135470,
+      "word": "有人用运费险8个月骗取100多万",
+      "onboard_time": 1733128278,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 135069,
       "num": 207773,
       "word": "65万拎包入住上海181平精装房是真的吗",
@@ -1451,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130334,
+      "num": 130334,
+      "word": "彩虹夫妇回应女儿确诊ABO溶血",
+      "onboard_time": 1733126479,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130122,
       "num": 130122,
       "word": "胡夏裤子崩了",
@@ -1465,6 +1593,14 @@
       "onboard_time": 1733109257,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128412,
+      "num": 128412,
+      "word": "九重紫",
+      "onboard_time": 1733127678,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128013,
@@ -1611,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113840,
+      "num": 267375,
+      "word": "沈梦辰王星越合照",
+      "onboard_time": 1733127139,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111415,
       "num": 209050,
       "word": "陈梦重返训练场视频曝光",
@@ -1643,20 +1787,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101033,
-      "num": 290323,
-      "word": "教育局介入废弃小学信箱发现举报信",
-      "onboard_time": 1733125039,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 100534,
       "num": 344688,
       "word": "高速公路上新能源车突然失去动力",
       "onboard_time": 1733110158,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100298,
+      "num": 268148,
+      "word": "郑少秋赵雅芝同框",
+      "onboard_time": 1733127858,
+      "rank": 28,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 100230,
@@ -1921,6 +2065,14 @@
       "onboard_time": 1733060780,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62838,
+      "num": 267133,
+      "word": "网传国足冲场球迷发文回应",
+      "onboard_time": 1733127258,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 61997,
@@ -2227,6 +2379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29529,
+      "num": 413200,
+      "word": "吴柳芳曾说想自己沉淀",
+      "onboard_time": 1733127858,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26778,
       "num": 1035324,
       "word": "读懂改革奋进的中国",
@@ -2297,6 +2457,14 @@
       "onboard_time": 1733121437,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 19178,
+      "num": 387597,
+      "word": "原神咖啡爆单",
+      "onboard_time": 1733126298,
+      "rank": 19,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 18942,
