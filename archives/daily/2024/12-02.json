@@ -1,6 +1,6 @@
 {
   "startTime": 1733070454426,
-  "endTime": 1733150593512,
+  "endTime": 1733153191285,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -491,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 520982,
+      "num": 357173,
+      "word": "快乐再出发录制与游客起冲突",
+      "onboard_time": 1733150181,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516060,
       "num": 516060,
       "word": "川航一航班因旅客充电宝冒烟备降",
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383604,
+      "num": 286053,
+      "word": "逐玉 高卿尘",
+      "onboard_time": 1733149401,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380139,
       "num": 380139,
       "word": "下午四点半后是个很神奇的时间节点",
@@ -891,6 +907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 306994,
+      "num": 306994,
+      "word": "为蟑螂正名",
+      "onboard_time": 1733147002,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303913,
       "num": 303913,
       "word": "秦彻日卡双登顶",
@@ -913,14 +937,6 @@
       "onboard_time": 1733099717,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 298640,
-      "num": 275415,
-      "word": "快乐再出发录制与游客起冲突",
-      "onboard_time": 1733150181,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 295925,
@@ -1059,14 +1075,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 258214,
-      "num": 258214,
-      "word": "逐玉 高卿尘",
-      "onboard_time": 1733149401,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257016,
       "num": 340345,
       "word": "研究证明有饥饿感会启动长寿基因",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1733136918,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244978,
-      "num": 244978,
-      "word": "为蟑螂正名",
-      "onboard_time": 1733147002,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 244637,
@@ -1273,6 +1273,22 @@
       "onboard_time": 1733115020,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223966,
+      "num": 223966,
+      "word": "6岁女儿蹭跑全马父亲涉违规",
+      "onboard_time": 1733152460,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223697,
+      "num": 212805,
+      "word": "在海底捞做冰糖葫芦失败了",
+      "onboard_time": 1733148982,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 221865,
@@ -1595,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190347,
+      "num": 190347,
+      "word": "中方将采取必要措施坚决维护正当权益",
+      "onboard_time": 1733151440,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189958,
       "num": 189958,
       "word": "十二月的奇迹",
@@ -1836,7 +1860,7 @@
     },
     {
       "raw_hot": 165919,
-      "num": 165919,
+      "num": 190433,
       "word": "新一疑似内涵Uzi",
       "onboard_time": 1733143525,
       "rank": 44,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1733147183,
       "rank": 32,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 151631,
+      "num": 223061,
+      "word": "陈少熙直播",
+      "onboard_time": 1733151742,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 150943,
@@ -2379,6 +2411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128575,
+      "num": 205407,
+      "word": "美一女子急诊刚醒护士就来结账",
+      "onboard_time": 1733150002,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128529,
       "num": 128529,
       "word": "山寨烟卡私自打印香烟商标属侵权行为",
@@ -2409,6 +2449,14 @@
       "onboard_time": 1733094794,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127514,
+      "num": 194431,
+      "word": "商务部回应美国半导体出口管制措施",
+      "onboard_time": 1733152580,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127404,
@@ -2595,6 +2643,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 115577,
+      "num": 115577,
+      "word": "我是刑警 坟头健身",
+      "onboard_time": 1733151261,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114816,
       "num": 126057,
       "word": "李行亮团队称暂不便回应网友抵制",
@@ -2635,12 +2691,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111569,
-      "num": 111569,
-      "word": "在海底捞做冰糖葫芦失败了",
-      "onboard_time": 1733148982,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 112246,
+      "num": 278898,
+      "word": "婚内婚外这一幕完全是恐怖片",
+      "onboard_time": 1733148741,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111487,
+      "num": 111487,
+      "word": "杨颖侧脸vs正脸",
+      "onboard_time": 1733153000,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 111415,
@@ -2891,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91850,
+      "num": 175631,
+      "word": "卓沅大晕眩",
+      "onboard_time": 1733151380,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91493,
       "num": 274855,
       "word": "人工智障仍是扫地机器人的通病",
@@ -2905,14 +2977,6 @@
       "onboard_time": 1733130440,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89847,
-      "num": 205407,
-      "word": "美一女子急诊刚醒护士就来结账",
-      "onboard_time": 1733150002,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89598,
@@ -3291,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59300,
+      "num": 223506,
+      "word": "成都美食排队王竟然不是火锅",
+      "onboard_time": 1733151862,
+      "rank": 17,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 59168,
       "num": 59168,
       "word": "北京晚霞",
@@ -3369,6 +3441,14 @@
       "onboard_time": 1733071036,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51263,
+      "num": 240963,
+      "word": "一声好哥哥倾家荡产争榜一",
+      "onboard_time": 1733152160,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 50484,
@@ -3587,6 +3667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35236,
+      "num": 222970,
+      "word": "抓马婚姻真人秀变流量收割表演秀",
+      "onboard_time": 1733152101,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34977,
       "num": 390325,
       "word": "荣耀300镜头下的虞书欣",
@@ -3691,6 +3779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29614,
+      "num": 773094,
+      "word": "让中国温度触手可及",
+      "onboard_time": 1733146823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29141,
       "num": 134224,
       "word": "虞书欣荣耀300发布会",
@@ -3699,12 +3795,12 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 29079,
-      "num": 278898,
-      "word": "婚内婚外这一幕完全是恐怖片",
-      "onboard_time": 1733148741,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 28461,
+      "num": 176210,
+      "word": "专家回应有人路边投毒狗闻闻就死",
+      "onboard_time": 1733152400,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28373,
@@ -3985,14 +4081,6 @@
       "onboard_time": 1733082851,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 9989,
-      "num": 773094,
-      "word": "让中国温度触手可及",
-      "onboard_time": 1733146823,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9405,
