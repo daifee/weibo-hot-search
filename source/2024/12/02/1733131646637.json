@@ -1,0 +1,410 @@
+{
+  "runTime": 1733131646637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1405039,
+        "num": 1405039,
+        "word": "有人用运费险8个月骗取100多万",
+        "onboard_time": 1733128278,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1163595,
+        "num": 1163595,
+        "word": "丑老公",
+        "onboard_time": 1733129239,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150845,
+        "num": 1057352,
+        "word": "公安部网安局提醒警惕银狐病毒",
+        "onboard_time": 1733129659,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1002241,
+        "num": 1002241,
+        "word": "网红彩虹夫妇女儿确诊ABO溶血",
+        "onboard_time": 1733119398,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 624533,
+        "num": 624533,
+        "word": "青菜炒泥蛋",
+        "onboard_time": 1733127258,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 538410,
+        "num": 538410,
+        "word": "豪士1批次面包霉菌超标近6倍",
+        "onboard_time": 1733120959,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1531034,
+        "num": 515997,
+        "word": "Angelababy染发了",
+        "onboard_time": 1733127920,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469179,
+        "num": 469179,
+        "word": "中方回应立陶宛要求我外交人员限期离境",
+        "onboard_time": 1733122758,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455456,
+        "num": 455456,
+        "word": "人人网已停止服务",
+        "onboard_time": 1733130020,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72191,
+        "num": 447084,
+        "word": "县城商圈品牌都是复制粘贴",
+        "onboard_time": 1733130379,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443237,
+        "num": 443237,
+        "word": "退学的博士生们",
+        "onboard_time": 1733125758,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408928,
+        "num": 408928,
+        "word": "宋慧乔裴秀智庆生合照",
+        "onboard_time": 1733129960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328140,
+        "num": 328140,
+        "word": "鞠婧祎月鳞绮纪出妆",
+        "onboard_time": 1733125098,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85681,
+        "num": 310796,
+        "word": "孙颖莎安排小孩哥捡球",
+        "onboard_time": 1733130858,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308384,
+        "num": 308384,
+        "word": "周密爆料为周芯竹成立的公司已注销",
+        "onboard_time": 1733119099,
+        "rank": 14,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 277322,
+        "num": 277322,
+        "word": "小伙相亲5年娶了个洋媳妇",
+        "onboard_time": 1733120480,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276785,
+        "num": 276785,
+        "word": "教育局介入废弃小学信箱发现举报信",
+        "onboard_time": 1733125039,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 254484,
+        "num": 254484,
+        "word": "清华大学通报一学生在外校与人冲突",
+        "onboard_time": 1733129839,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90538,
+        "num": 250005,
+        "word": "贵州发生一起翻船事故致8人死亡",
+        "onboard_time": 1733130440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18013,
+        "num": 248849,
+        "word": "药王谷抗癌中心部分医护无资质",
+        "onboard_time": 1733130198,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23796,
+        "num": 248402,
+        "word": "杨幂的享界S9怎么开都有面",
+        "onboard_time": 1733128459,
+        "rank": 20,
+        "category": "作品衍生,汽车"
+      },
+      {
+        "raw_hot": 248279,
+        "num": 248279,
+        "word": "韩国流行周五下班去中国",
+        "onboard_time": 1733112380,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241501,
+        "num": 241501,
+        "word": "王楚钦太可爱了",
+        "onboard_time": 1733128398,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225010,
+        "num": 234052,
+        "word": "彩虹夫妇妻子吃回奶药",
+        "onboard_time": 1733130740,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25479,
+        "num": 231378,
+        "word": "未定事件簿",
+        "onboard_time": 1733122219,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231362,
+        "num": 231362,
+        "word": "2024年十大流行语",
+        "onboard_time": 1733121557,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222743,
+        "num": 228943,
+        "word": "张馨予在西藏住三个月",
+        "onboard_time": 1733113520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220626,
+        "num": 227877,
+        "word": "田嘉瑞月鳞绮纪开机出妆路透",
+        "onboard_time": 1733129779,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227695,
+        "num": 227695,
+        "word": "男子自称烟草局主管安排入职需陪睡",
+        "onboard_time": 1733125638,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149356,
+        "num": 219718,
+        "word": "CUBE官宣gidle续约",
+        "onboard_time": 1733130919,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328262,
+        "num": 218641,
+        "word": "刚考完就知道成绩了",
+        "onboard_time": 1733128099,
+        "rank": 30,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 215143,
+        "num": 215143,
+        "word": "男子向别国提供我国家秘密换绿卡",
+        "onboard_time": 1733125398,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195923,
+        "num": 195923,
+        "word": "ABO溶血是什么",
+        "onboard_time": 1733127738,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 194939,
+        "num": 194939,
+        "word": "司机作弊欺骗智驾系统在高速睡觉",
+        "onboard_time": 1733130020,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183657,
+        "num": 183657,
+        "word": "教资面试通过率有多高",
+        "onboard_time": 1733129420,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 181012,
+        "word": "李蠕蠕模仿麦琳",
+        "onboard_time": 1733120598,
+        "rank": 35,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 181001,
+        "num": 181001,
+        "word": "梁建章建议取消中高考",
+        "onboard_time": 1733127978,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175416,
+        "num": 175416,
+        "word": "王一博旁观者入围亚洲流行音乐大奖",
+        "onboard_time": 1733130379,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171850,
+        "num": 171850,
+        "word": "秦彻日卡双登顶",
+        "onboard_time": 1733128158,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169988,
+        "num": 169988,
+        "word": "豪士回应面包霉菌超标近6倍",
+        "onboard_time": 1733128879,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167122,
+        "num": 167122,
+        "word": "恋与深空登顶",
+        "onboard_time": 1733126659,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155267,
+        "num": 155267,
+        "word": "王楚钦孙颖莎击掌庆祝",
+        "onboard_time": 1733121139,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152882,
+        "num": 152882,
+        "word": "超30%开门杀事故引发二次事故",
+        "onboard_time": 1733121078,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148743,
+        "num": 148743,
+        "word": "A股放量收涨",
+        "onboard_time": 1733131399,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26769,
+        "num": 146086,
+        "word": "天价保健品是怎么忽悠住爸妈的",
+        "onboard_time": 1733128638,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145510,
+        "num": 145510,
+        "word": "客服回应人人网停止服务",
+        "onboard_time": 1733131520,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141087,
+        "num": 141087,
+        "word": "恋与深空",
+        "onboard_time": 1733102478,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135852,
+        "num": 135852,
+        "word": "李一桐听到怀孕带球跑的反应",
+        "onboard_time": 1733124378,
+        "rank": 47,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 134449,
+        "num": 134449,
+        "word": "鹿晗直播预测",
+        "onboard_time": 1733123599,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133732,
+        "num": 133732,
+        "word": "周密 难听",
+        "onboard_time": 1733131579,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#迎接共建一带一路更高质量更高水平的新发展#"
+    }
+  }
+}

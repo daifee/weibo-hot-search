@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733129169473,
+  "endTime": 1733131646637,
   "band_list": [
     {
       "raw_hot": 4687951,
@@ -99,6 +99,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1531034,
+      "num": 648274,
+      "word": "Angelababy染发了",
+      "onboard_time": 1733127920,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1405039,
+      "num": 1405039,
+      "word": "有人用运费险8个月骗取100多万",
+      "onboard_time": 1733128278,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1390934,
       "num": 1390934,
       "word": "尾号888888手机号被法拍42万成交",
@@ -137,14 +153,6 @@
       "onboard_time": 1733023578,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1345372,
-      "num": 648274,
-      "word": "Angelababy染发了",
-      "onboard_time": 1733127920,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1332323,
@@ -225,6 +233,14 @@
       "onboard_time": 1732972639,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1163595,
+      "num": 1163595,
+      "word": "丑老公",
+      "onboard_time": 1733129239,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 1132029,
@@ -603,6 +619,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 624533,
+      "num": 624533,
+      "word": "青菜炒泥蛋",
+      "onboard_time": 1733127258,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 618819,
       "num": 305140,
       "word": "陈近南diss周密",
@@ -891,14 +915,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 463945,
-      "num": 463945,
-      "word": "青菜炒泥蛋",
-      "onboard_time": 1733127258,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 463319,
       "num": 277342,
       "word": "结婚1年多不孕夫妻变姐妹",
@@ -963,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455456,
+      "num": 455456,
+      "word": "人人网已停止服务",
+      "onboard_time": 1733130020,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 454677,
       "num": 350327,
       "word": "骄阳似我",
@@ -1003,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443237,
+      "num": 443237,
+      "word": "退学的博士生们",
+      "onboard_time": 1733125758,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442361,
       "num": 219090,
       "word": "分手见人品",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1733039299,
       "rank": 8,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 440221,
-      "num": 440221,
-      "word": "退学的博士生们",
-      "onboard_time": 1733125758,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 437313,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1733109557,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408928,
+      "num": 408928,
+      "word": "宋慧乔裴秀智庆生合照",
+      "onboard_time": 1733129960,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 407053,
@@ -1283,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339083,
-      "num": 339083,
-      "word": "有人用运费险8个月骗取100多万",
-      "onboard_time": 1733128278,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 335382,
       "num": 335382,
       "word": "鹿晗拒绝放十二月的奇迹",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1733060300,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328262,
+      "num": 218641,
+      "word": "刚考完就知道成绩了",
+      "onboard_time": 1733128099,
+      "rank": 38,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 327101,
@@ -1675,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254484,
+      "num": 254484,
+      "word": "清华大学通报一学生在外校与人冲突",
+      "onboard_time": 1733129839,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254471,
       "num": 162899,
       "word": "易烊千玺小网站发了粉丝的声音",
@@ -1795,6 +1835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241501,
+      "num": 382873,
+      "word": "王楚钦太可爱了",
+      "onboard_time": 1733128398,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239448,
       "num": 239448,
       "word": "女子将女孩堵电梯里殴打辱骂14分钟",
@@ -1883,6 +1931,14 @@
       "category": "读书作家,教育"
     },
     {
+      "raw_hot": 225010,
+      "num": 234052,
+      "word": "彩虹夫妇妻子吃回奶药",
+      "onboard_time": 1733130740,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 224395,
       "num": 224395,
       "word": "导致胃癌的高危因素",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1733056699,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220626,
+      "num": 227877,
+      "word": "田嘉瑞月鳞绮纪开机出妆路透",
+      "onboard_time": 1733129779,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 220069,
@@ -2219,14 +2283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200102,
-      "num": 200102,
-      "word": "刚考完就知道成绩了",
-      "onboard_time": 1733128099,
-      "rank": 38,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 198832,
       "num": 226205,
       "word": "摇光录乱世公主停止更新",
@@ -2305,6 +2361,14 @@
       "onboard_time": 1733127978,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194939,
+      "num": 194939,
+      "word": "司机作弊欺骗智驾系统在高速睡觉",
+      "onboard_time": 1733130020,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194786,
@@ -2515,6 +2579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183657,
+      "num": 183657,
+      "word": "教资面试通过率有多高",
+      "onboard_time": 1733129420,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 183440,
       "num": 183440,
       "word": "白桃星座",
@@ -2603,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175416,
+      "num": 175416,
+      "word": "王一博旁观者入围亚洲流行音乐大奖",
+      "onboard_time": 1733130379,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174099,
       "num": 205794,
       "word": "宋亚轩梦女视角",
@@ -2657,6 +2737,14 @@
       "onboard_time": 1733056878,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169988,
+      "num": 169988,
+      "word": "豪士回应面包霉菌超标近6倍",
+      "onboard_time": 1733128879,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169976,
@@ -2721,14 +2809,6 @@
       "onboard_time": 1732976240,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166081,
-      "num": 166081,
-      "word": "豪士回应面包霉菌超标近6倍",
-      "onboard_time": 1733128879,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166035,
@@ -3051,6 +3131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150845,
+      "num": 1057352,
+      "word": "公安部网安局提醒警惕银狐病毒",
+      "onboard_time": 1733129659,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150640,
       "num": 150640,
       "word": "月鳞绮纪明日开机",
@@ -3115,12 +3203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149356,
+      "num": 219718,
+      "word": "CUBE官宣gidle续约",
+      "onboard_time": 1733130919,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148848,
       "num": 148848,
       "word": "盗版麦琳杨子连麦",
       "onboard_time": 1733121078,
       "rank": 47,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 148743,
+      "num": 148743,
+      "word": "A股放量收涨",
+      "onboard_time": 1733131399,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 146462,
@@ -3153,6 +3257,14 @@
       "onboard_time": 1733098218,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145510,
+      "num": 145510,
+      "word": "客服回应人人网停止服务",
+      "onboard_time": 1733131520,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 145005,
@@ -3473,6 +3585,14 @@
       "onboard_time": 1733109979,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 133732,
+      "num": 133732,
+      "word": "周密 难听",
+      "onboard_time": 1733131579,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 133425,
@@ -4387,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90538,
+      "num": 250005,
+      "word": "贵州发生一起翻船事故致8人死亡",
+      "onboard_time": 1733130440,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88702,
       "num": 88702,
       "word": "怀上九胞胎女子减7胎后出院",
@@ -4449,6 +4577,14 @@
       "onboard_time": 1733035338,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85681,
+      "num": 310796,
+      "word": "孙颖莎安排小孩哥捡球",
+      "onboard_time": 1733130858,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 84256,
@@ -4659,14 +4795,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 74426,
-      "num": 382873,
-      "word": "王楚钦太可爱了",
-      "onboard_time": 1733128398,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73667,
       "num": 281959,
       "word": "无锡一地十几年没通自来水",
@@ -4689,6 +4817,14 @@
       "onboard_time": 1733018958,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72191,
+      "num": 447084,
+      "word": "县城商圈品牌都是复制粘贴",
+      "onboard_time": 1733130379,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71800,
@@ -5052,7 +5188,7 @@
     },
     {
       "raw_hot": 48907,
-      "num": 206180,
+      "num": 231378,
       "word": "未定事件簿",
       "onboard_time": 1733122219,
       "rank": 32,
@@ -5491,6 +5627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26769,
+      "num": 171513,
+      "word": "天价保健品是怎么忽悠住爸妈的",
+      "onboard_time": 1733128638,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26460,
       "num": 123005,
       "word": "张真源记录云南之行",
@@ -5619,6 +5763,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 23796,
+      "num": 248402,
+      "word": "杨幂的享界S9怎么开都有面",
+      "onboard_time": 1733128459,
+      "rank": 39,
+      "category": "作品衍生,汽车"
+    },
+    {
       "raw_hot": 23581,
       "num": 26897,
       "word": "赵露思发文宣传蜀锦人家",
@@ -5715,6 +5867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18013,
+      "num": 248849,
+      "word": "药王谷抗癌中心部分医护无资质",
+      "onboard_time": 1733130198,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17832,
       "num": 1107430,
       "word": "微观链博会",
@@ -5769,14 +5929,6 @@
       "onboard_time": 1732999391,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15495,
-      "num": 173662,
-      "word": "杨幂的享界S9怎么开都有面",
-      "onboard_time": 1733128459,
-      "rank": 39,
-      "category": "作品衍生,汽车"
     },
     {
       "raw_hot": 15037,
@@ -5921,14 +6073,6 @@
       "onboard_time": 1733008333,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8087,
-      "num": 171513,
-      "word": "天价保健品是怎么忽悠住爸妈的",
-      "onboard_time": 1733128638,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 7870,
@@ -6079,6 +6223,9 @@
     },
     {
       "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    },
+    {
+      "word": "#迎接共建一带一路更高质量更高水平的新发展#"
     }
   ]
 }
