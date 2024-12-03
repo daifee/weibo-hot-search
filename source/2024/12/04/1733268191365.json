@@ -1,0 +1,410 @@
+{
+  "runTime": 1733268191365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3002330,
+        "num": 3002330,
+        "word": "韩国总统发布紧急戒严令",
+        "onboard_time": 1733234242,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 470241,
+        "num": 470241,
+        "word": "蹭跑全马女孩父亲称可以去其他地方跑",
+        "onboard_time": 1733266094,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23593,
+        "num": 465754,
+        "word": "2024读懂中国",
+        "onboard_time": 1733234481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2084296,
+        "num": 465580,
+        "word": "韩媒发布韩国军人撤出国会画面",
+        "onboard_time": 1733246655,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 463817,
+        "num": 463817,
+        "word": "金龟子女儿因孩子断奶崩溃大哭",
+        "onboard_time": 1733233161,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274645,
+        "num": 274645,
+        "word": "马斯克千亿美元薪酬梦又被她击碎",
+        "onboard_time": 1733245757,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198223,
+        "num": 266186,
+        "word": "乔欣被曝结婚后首现身",
+        "onboard_time": 1733224340,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265501,
+        "num": 265501,
+        "word": "未来5年都没有年三十",
+        "onboard_time": 1733258830,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53476,
+        "num": 256292,
+        "word": "伸脚垫住摔倒老人后脑勺的男子找到了",
+        "onboard_time": 1733267358,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161436,
+        "num": 252900,
+        "word": "这一晚韩国发生了什么",
+        "onboard_time": 1733267598,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376807,
+        "num": 233854,
+        "word": "苏州一露营者在帐篷内身亡",
+        "onboard_time": 1733238926,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1379367,
+        "num": 231589,
+        "word": "韩前总统文在寅发声",
+        "onboard_time": 1733244319,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222439,
+        "num": 222439,
+        "word": "11岁男孩打乒乓评上国家一级运动员",
+        "onboard_time": 1733262071,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611285,
+        "num": 217971,
+        "word": "韩国会会议通过解除戒严决议",
+        "onboard_time": 1733242046,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202070,
+        "num": 202070,
+        "word": "外媒关注中国发现世界最大金矿",
+        "onboard_time": 1733236946,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308745,
+        "num": 201953,
+        "word": "李在明要求韩国国会外军警撤退",
+        "onboard_time": 1733245937,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199920,
+        "num": 199920,
+        "word": "凯特哭着谈泰坦尼克号后直面身材羞辱",
+        "onboard_time": 1733237545,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151545,
+        "num": 199281,
+        "word": "香奈儿大秀 死亡打光",
+        "onboard_time": 1733226921,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149392,
+        "num": 181165,
+        "word": "周密向周芯竹道歉",
+        "onboard_time": 1733223620,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94351,
+        "num": 176290,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1733230160,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408863,
+        "num": 166404,
+        "word": "男子与军嫂同居4年被判刑",
+        "onboard_time": 1733231540,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284082,
+        "num": 160312,
+        "word": "韩国总统府周边进入全面管制状态",
+        "onboard_time": 1733243422,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152751,
+        "num": 152751,
+        "word": "联合国成少爷名媛打卡地",
+        "onboard_time": 1733254091,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230420,
+        "num": 151357,
+        "word": "韩空降部队打碎玻璃窗进入国会",
+        "onboard_time": 1733242406,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147481,
+        "num": 147481,
+        "word": "女硕士患精神分裂症失踪15年被找回",
+        "onboard_time": 1733233941,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126559,
+        "num": 126559,
+        "word": "韩要求罢工的医生48小时内返岗",
+        "onboard_time": 1733241988,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87424,
+        "num": 119239,
+        "word": "19岁机车女网红因车祸去世",
+        "onboard_time": 1733221460,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118826,
+        "num": 118826,
+        "word": "韩国戒严令一共6个多小时",
+        "onboard_time": 1733267899,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84631,
+        "num": 115756,
+        "word": "娜扎经纪人回应有明星相",
+        "onboard_time": 1733235382,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84306,
+        "num": 113530,
+        "word": "今晚西湖边明星含量好高",
+        "onboard_time": 1733262013,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113234,
+        "num": 113234,
+        "word": "南韩汪峰",
+        "onboard_time": 1733246057,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86681,
+        "num": 86681,
+        "word": "中国半导体行业协会发声明",
+        "onboard_time": 1733227821,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95510,
+        "num": 86246,
+        "word": "韩国议长称通知总统要求解除戒严令",
+        "onboard_time": 1733248514,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84949,
+        "num": 84949,
+        "word": "男子转账被限额怒问银行",
+        "onboard_time": 1733243003,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89567,
+        "num": 81662,
+        "word": "中国驻韩国大使馆深夜发布提醒",
+        "onboard_time": 1733239045,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70362,
+        "num": 77242,
+        "word": "男子网购外卖服带女儿直播卖惨",
+        "onboard_time": 1733264232,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77036,
+        "num": 77036,
+        "word": "韩国部分网站瘫痪",
+        "onboard_time": 1733239886,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68147,
+        "num": 75906,
+        "word": "孙俪女儿甄嬛写真",
+        "onboard_time": 1733223499,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75566,
+        "num": 75566,
+        "word": "TWICE",
+        "onboard_time": 1733240426,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61120,
+        "num": 75566,
+        "word": "东北导游就让游客买一根糖葫芦",
+        "onboard_time": 1733263872,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60998,
+        "num": 75534,
+        "word": "离岸人民币跌近300点",
+        "onboard_time": 1733248934,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60708,
+        "num": 75514,
+        "word": "女生退伍后第一件事是看望张桂梅",
+        "onboard_time": 1733264893,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57300,
+        "num": 75468,
+        "word": "山东舞蹈统考明确考生不得化妆",
+        "onboard_time": 1733247674,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55754,
+        "num": 75466,
+        "word": "韩元汇率迅速下跌",
+        "onboard_time": 1733237605,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52574,
+        "num": 75433,
+        "word": "中国银行回应男子转账遇限额",
+        "onboard_time": 1733233220,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47551,
+        "num": 75411,
+        "word": "进入韩国国会主楼的军人全部撤出",
+        "onboard_time": 1733244200,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47473,
+        "num": 75370,
+        "word": "声生不息大湾区季",
+        "onboard_time": 1733267957,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44010,
+        "num": 75356,
+        "word": "白宫回应韩国总统发布紧急戒严令",
+        "onboard_time": 1733240606,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38861,
+        "num": 75324,
+        "word": "郑业成发博为彭小苒庆生",
+        "onboard_time": 1733259672,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38467,
+        "num": 75309,
+        "word": "在韩中国公民紧急求助电话",
+        "onboard_time": 1733240546,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和尼泊尔是好邻居好朋友好伙伴#"
+    }
+  }
+}
