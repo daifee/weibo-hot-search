@@ -1,0 +1,410 @@
+{
+  "runTime": 1733232822779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610128,
+        "num": 1610128,
+        "word": "周密向周芯竹道歉",
+        "onboard_time": 1733223620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592118,
+        "num": 592118,
+        "word": "中国半导体行业协会发声明",
+        "onboard_time": 1733227821,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98013,
+        "num": 539063,
+        "word": "竟然磕到100岁爷爷奶奶的糖",
+        "onboard_time": 1733215160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2332401,
+        "num": 538380,
+        "word": "香奈儿大秀 死亡打光",
+        "onboard_time": 1733226921,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1028038,
+        "num": 536599,
+        "word": "乔欣被曝结婚后首现身",
+        "onboard_time": 1733224340,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533023,
+        "num": 533023,
+        "word": "网红公司盯上在校大学生",
+        "onboard_time": 1733227160,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 893829,
+        "num": 530682,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1733230160,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786213,
+        "num": 471168,
+        "word": "继承者们",
+        "onboard_time": 1733228600,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392778,
+        "num": 392778,
+        "word": "大熊猫福宝检测后最新画面",
+        "onboard_time": 1733227701,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 140481,
+        "num": 387332,
+        "word": "福宝初步检查无异常",
+        "onboard_time": 1733227460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483593,
+        "num": 387022,
+        "word": "孙俪女儿甄嬛写真",
+        "onboard_time": 1733223499,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385174,
+        "num": 385174,
+        "word": "福宝初步检查精神及食欲正常",
+        "onboard_time": 1733227938,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329873,
+        "num": 329873,
+        "word": "网传再见爱人补录餐厅发声",
+        "onboard_time": 1733226140,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329066,
+        "num": 329066,
+        "word": "卢昱晓 小香千金",
+        "onboard_time": 1733222719,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79093,
+        "num": 327668,
+        "word": "从同情到抵制李行亮做错了什么",
+        "onboard_time": 1733231360,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43613,
+        "num": 324541,
+        "word": "香奈儿高级手工坊",
+        "onboard_time": 1733227460,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 201494,
+        "num": 323131,
+        "word": "GALA删博",
+        "onboard_time": 1733230100,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51707,
+        "num": 320137,
+        "word": "马龙和杨倩pk射击一发未中",
+        "onboard_time": 1733232681,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22244,
+        "num": 318132,
+        "word": "律师称目前无法认定王宝强合同欺诈",
+        "onboard_time": 1733231660,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58211,
+        "num": 313868,
+        "word": "西湖倒影中的香奈儿",
+        "onboard_time": 1733229980,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 52157,
+        "num": 312511,
+        "word": "我是刑警 真实案件",
+        "onboard_time": 1733230340,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 764122,
+        "num": 309260,
+        "word": "19岁机车女网红因车祸去世",
+        "onboard_time": 1733221460,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624754,
+        "num": 307599,
+        "word": "男子与军嫂同居4年被判刑",
+        "onboard_time": 1733231540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167141,
+        "num": 303447,
+        "word": "刘宇宁又双叒要在江苏卫视跨年了",
+        "onboard_time": 1733231360,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83816,
+        "num": 300772,
+        "word": "涵艺爆料EDG签下Assum",
+        "onboard_time": 1733232441,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96579,
+        "num": 299696,
+        "word": "金高银用中文打招呼",
+        "onboard_time": 1733230521,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43685,
+        "num": 296574,
+        "word": "香奈儿配西湖美景",
+        "onboard_time": 1733229199,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 295178,
+        "num": 295178,
+        "word": "感觉章若楠香香的",
+        "onboard_time": 1733226319,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35932,
+        "num": 295117,
+        "word": "大秀后台超模都在干什么",
+        "onboard_time": 1733232080,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 175562,
+        "num": 294878,
+        "word": "男子5980元买皮衣穿2天掉色被嘲笑",
+        "onboard_time": 1733230940,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490210,
+        "num": 294567,
+        "word": "博主男友因滑雪太好被要求出示证明",
+        "onboard_time": 1733225299,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470840,
+        "num": 294335,
+        "word": "周芯竹体面",
+        "onboard_time": 1733221039,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327409,
+        "num": 294297,
+        "word": "刘家昌病逝",
+        "onboard_time": 1733225780,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294105,
+        "num": 294105,
+        "word": "49岁女子糖尿病不忌口诱发心衰离世",
+        "onboard_time": 1733223141,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226050,
+        "num": 226050,
+        "word": "国色芳华全球试映会",
+        "onboard_time": 1733231901,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194757,
+        "num": 194757,
+        "word": "中方就美更新半导体出口管制提出严正交涉",
+        "onboard_time": 1733220199,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183192,
+        "num": 183192,
+        "word": "王一博像在走秀",
+        "onboard_time": 1733225000,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12447,
+        "num": 177850,
+        "word": "香奈儿杭州高级手工坊大秀看点",
+        "onboard_time": 1733230281,
+        "rank": 37,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 23260,
+        "num": 176462,
+        "word": "香奈儿走秀模特华依澜是杭州人",
+        "onboard_time": 1733231059,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 176330,
+        "num": 176330,
+        "word": "韩国演员朴敏宰去世",
+        "onboard_time": 1733204959,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175766,
+        "num": 175766,
+        "word": "杨倩台湾夜市打气球百发百中引惊呼",
+        "onboard_time": 1733231360,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172996,
+        "num": 172996,
+        "word": "原神答谢信",
+        "onboard_time": 1733231121,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158739,
+        "num": 158739,
+        "word": "宋雨琦唐九洲男女生温差有实感了",
+        "onboard_time": 1733229921,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155973,
+        "num": 155973,
+        "word": "一乡镇公务员日均接收文件通知60多份",
+        "onboard_time": 1733212581,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150578,
+        "num": 150578,
+        "word": "刘雯开场",
+        "onboard_time": 1733220260,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 150236,
+        "num": 150236,
+        "word": "河野华cos希格雯",
+        "onboard_time": 1733231960,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137866,
+        "num": 137866,
+        "word": "杭州文旅回应霉霉有望开演唱会",
+        "onboard_time": 1733229681,
+        "rank": 46,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 133355,
+        "num": 133355,
+        "word": "崩坏星穹铁道 阴阳师",
+        "onboard_time": 1733228660,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114552,
+        "num": 125574,
+        "word": "退货率高该让运费险背锅吗",
+        "onboard_time": 1733230580,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123299,
+        "num": 123299,
+        "word": "麦琳 康熙来了",
+        "onboard_time": 1733218819,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路建设工作座谈会#"
+    }
+  }
+}

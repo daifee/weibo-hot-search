@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733230982616,
+  "endTime": 1733232822779,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1028038,
+      "num": 723987,
+      "word": "乔欣被曝结婚后首现身",
+      "onboard_time": 1733224340,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1018703,
       "num": 1018703,
       "word": "周芯竹再回应",
@@ -505,14 +513,6 @@
       "onboard_time": 1733032758,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 961359,
-      "num": 723987,
-      "word": "乔欣被曝结婚后首现身",
-      "onboard_time": 1733224340,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 959572,
@@ -616,6 +616,14 @@
       "word": "陈少熙直播",
       "onboard_time": 1733151742,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 893829,
+      "num": 530682,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1733230160,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -753,6 +761,14 @@
       "onboard_time": 1733064201,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 786213,
+      "num": 471168,
+      "word": "继承者们",
+      "onboard_time": 1733228600,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 784838,
@@ -971,14 +987,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 662126,
-      "num": 438786,
-      "word": "继承者们",
-      "onboard_time": 1733228600,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 660543,
       "num": 660543,
       "word": "石破茂发生车祸现场细节",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1733105416,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 624754,
+      "num": 307599,
+      "word": "男子与军嫂同居4年被判刑",
+      "onboard_time": 1733231540,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624533,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1733219300,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 533023,
+      "num": 533023,
+      "word": "网红公司盯上在校大学生",
+      "onboard_time": 1733227160,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 530631,
@@ -1763,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441672,
-      "num": 441672,
-      "word": "网红公司盯上在校大学生",
-      "onboard_time": 1733227160,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 440772,
       "num": 359605,
       "word": "郭敬明 月鳞绮纪原始帧",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1733065820,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 392778,
+      "num": 392778,
+      "word": "大熊猫福宝检测后最新画面",
+      "onboard_time": 1733227701,
+      "rank": 16,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 392126,
@@ -2281,14 +2305,6 @@
       "onboard_time": 1733103018,
       "rank": 9,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 345917,
-      "num": 345917,
-      "word": "大熊猫福宝检测后最新画面",
-      "onboard_time": 1733227701,
-      "rank": 16,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 344586,
@@ -2641,14 +2657,6 @@
       "onboard_time": 1733142086,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287677,
-      "num": 179316,
-      "word": "难怪有故人之姿 原来是故人之子",
-      "onboard_time": 1733230160,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 287390,
@@ -3339,6 +3347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 226050,
+      "num": 226050,
+      "word": "国色芳华全球试映会",
+      "onboard_time": 1733231901,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225498,
       "num": 296796,
       "word": "明日方舟",
@@ -3955,6 +3971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201494,
+      "num": 323131,
+      "word": "GALA删博",
+      "onboard_time": 1733230100,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201150,
       "num": 201150,
       "word": "小时播音台",
@@ -4164,7 +4188,7 @@
     },
     {
       "raw_hot": 195373,
-      "num": 195373,
+      "num": 387332,
       "word": "福宝初步检查无异常",
       "onboard_time": 1733227460,
       "rank": 17,
@@ -4691,14 +4715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180521,
-      "num": 180521,
-      "word": "GALA删博",
-      "onboard_time": 1733230100,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 180175,
       "num": 256979,
       "word": "尚雯婕曝披哥把浪姐东西都搬走了",
@@ -4803,11 +4819,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175766,
+      "num": 175766,
+      "word": "杨倩台湾夜市打气球百发百中引惊呼",
+      "onboard_time": 1733231360,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175634,
       "num": 175634,
       "word": "妻子与他人结婚还让丈夫出婚房钱",
       "onboard_time": 1733192778,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175562,
+      "num": 294878,
+      "word": "男子5980元买皮衣穿2天掉色被嘲笑",
+      "onboard_time": 1733230940,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -4889,6 +4921,14 @@
       "onboard_time": 1733211739,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172996,
+      "num": 172996,
+      "word": "原神答谢信",
+      "onboard_time": 1733231121,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 172924,
@@ -5097,6 +5137,14 @@
       "onboard_time": 1733045718,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167141,
+      "num": 303447,
+      "word": "刘宇宁又双叒要在江苏卫视跨年了",
+      "onboard_time": 1733231360,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 166460,
@@ -5683,6 +5731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150236,
+      "num": 150236,
+      "word": "河野华cos希格雯",
+      "onboard_time": 1733231960,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150119,
       "num": 150119,
       "word": "全家去日本旅行我爸非要用英文交流",
@@ -5841,14 +5897,6 @@
       "onboard_time": 1733202381,
       "rank": 18,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 145811,
-      "num": 145811,
-      "word": "男子5980元买皮衣穿2天掉色被嘲笑",
-      "onboard_time": 1733230940,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145803,
@@ -6169,6 +6217,14 @@
       "onboard_time": 1733068038,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137866,
+      "num": 193739,
+      "word": "杭州文旅回应霉霉有望开演唱会",
+      "onboard_time": 1733229681,
+      "rank": 19,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 137839,
@@ -6987,6 +7043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114552,
+      "num": 392909,
+      "word": "退货率高该让运费险背锅吗",
+      "onboard_time": 1733230580,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114277,
       "num": 114277,
       "word": "宋亚轩宋小八",
@@ -7555,6 +7619,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 98013,
+      "num": 743173,
+      "word": "竟然磕到100岁爷爷奶奶的糖",
+      "onboard_time": 1733215160,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97870,
       "num": 156786,
       "word": "霉霉和男友感恩节合照",
@@ -7617,6 +7689,14 @@
       "onboard_time": 1733143404,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96579,
+      "num": 299696,
+      "word": "金高银用中文打招呼",
+      "onboard_time": 1733230521,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 96108,
@@ -7875,14 +7955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85846,
-      "num": 187480,
-      "word": "金高银用中文打招呼",
-      "onboard_time": 1733230521,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 84826,
       "num": 84826,
       "word": "小鸟穿花衣原来是真的",
@@ -7929,6 +8001,14 @@
       "onboard_time": 1733157316,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83816,
+      "num": 300772,
+      "word": "涵艺爆料EDG签下Assum",
+      "onboard_time": 1733232441,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 83750,
@@ -8051,14 +8131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80723,
-      "num": 743173,
-      "word": "竟然磕到100岁爷爷奶奶的糖",
-      "onboard_time": 1733215160,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80567,
       "num": 174517,
       "word": "孙颖莎说当前目标是打好世界杯",
@@ -8129,6 +8201,14 @@
       "onboard_time": 1733040018,
       "rank": 2,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 79093,
+      "num": 327668,
+      "word": "从同情到抵制李行亮做错了什么",
+      "onboard_time": 1733231360,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 79057,
@@ -8563,14 +8643,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 63820,
-      "num": 193739,
-      "word": "杭州文旅回应霉霉有望开演唱会",
-      "onboard_time": 1733229681,
-      "rank": 19,
-      "category": "演出,艺人"
-    },
-    {
       "raw_hot": 63733,
       "num": 189652,
       "word": "因果报应 脸盲",
@@ -8785,6 +8857,14 @@
       "onboard_time": 1733218338,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58211,
+      "num": 313868,
+      "word": "西湖倒影中的香奈儿",
+      "onboard_time": 1733229980,
+      "rank": 49,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 58082,
@@ -9059,6 +9139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52157,
+      "num": 312511,
+      "word": "我是刑警 真实案件",
+      "onboard_time": 1733230340,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52078,
       "num": 475875,
       "word": "无限暖暖送100张迪士尼年卡",
@@ -9073,6 +9161,14 @@
       "onboard_time": 1733221339,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51707,
+      "num": 320137,
+      "word": "马龙和杨倩pk射击一发未中",
+      "onboard_time": 1733232681,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 51613,
@@ -9347,12 +9443,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43685,
+      "num": 296574,
+      "word": "香奈儿配西湖美景",
+      "onboard_time": 1733229199,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 43666,
       "num": 319381,
       "word": "医保跨省直接结算新增5种门诊慢特病",
       "onboard_time": 1733119519,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43613,
+      "num": 363413,
+      "word": "香奈儿高级手工坊",
+      "onboard_time": 1733227460,
+      "rank": 13,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 43473,
@@ -9643,6 +9755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35932,
+      "num": 295117,
+      "word": "大秀后台超模都在干什么",
+      "onboard_time": 1733232080,
+      "rank": 28,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 35862,
       "num": 225561,
       "word": "女童被生父及女友虐待致死案将宣判",
@@ -9825,14 +9945,6 @@
       "onboard_time": 1733210539,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32357,
-      "num": 363413,
-      "word": "香奈儿高级手工坊",
-      "onboard_time": 1733227460,
-      "rank": 13,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 32263,
@@ -10041,14 +10153,6 @@
       "onboard_time": 1733150902,
       "rank": 49,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 28528,
-      "num": 179585,
-      "word": "香奈儿配西湖美景",
-      "onboard_time": 1733229199,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 28495,
@@ -10347,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23260,
+      "num": 176462,
+      "word": "香奈儿走秀模特华依澜是杭州人",
+      "onboard_time": 1733231059,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 23254,
       "num": 23254,
       "word": "永夜星河11月有效播放双榜冠军",
@@ -10387,6 +10499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22244,
+      "num": 318132,
+      "word": "律师称目前无法认定王宝强合同欺诈",
+      "onboard_time": 1733231660,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21750,
       "num": 194485,
       "word": "荣耀300Ai旅拍神器",
@@ -10409,14 +10529,6 @@
       "onboard_time": 1733216720,
       "rank": 38,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 21452,
-      "num": 191343,
-      "word": "西湖倒影中的香奈儿",
-      "onboard_time": 1733229980,
-      "rank": 49,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 21279,
@@ -10571,14 +10683,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 17895,
-      "num": 392909,
-      "word": "退货率高该让运费险背锅吗",
-      "onboard_time": 1733230580,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17832,
       "num": 1107430,
       "word": "微观链博会",
@@ -10715,14 +10819,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 14687,
-      "num": 180043,
-      "word": "我是刑警 真实案件",
-      "onboard_time": 1733230340,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14551,
       "num": 15734,
       "word": "四川雅江3.4级地震",
@@ -10835,20 +10931,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12447,
+      "num": 177850,
+      "word": "香奈儿杭州高级手工坊大秀看点",
+      "onboard_time": 1733230281,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 11955,
       "num": 13837,
       "word": "2025应征报名开始",
       "onboard_time": 1733084769,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11932,
-      "num": 159810,
-      "word": "香奈儿杭州高级手工坊大秀看点",
-      "onboard_time": 1733230281,
-      "rank": 38,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 11749,
