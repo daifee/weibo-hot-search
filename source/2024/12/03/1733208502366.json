@@ -1,0 +1,410 @@
+{
+  "runTime": 1733208502366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1903936,
+        "num": 1903936,
+        "word": "福宝发抖",
+        "onboard_time": 1733204001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1422283,
+        "num": 1422283,
+        "word": "韩国演员朴敏宰去世",
+        "onboard_time": 1733204959,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49408,
+        "num": 1135584,
+        "word": "国产大型储卸油平台成功出口",
+        "onboard_time": 1733194098,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1086969,
+        "num": 1086969,
+        "word": "豪士面包老板哭了",
+        "onboard_time": 1733198060,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 795273,
+        "num": 795273,
+        "word": "张大大和明星谈过恋爱",
+        "onboard_time": 1733202860,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478701,
+        "num": 594040,
+        "word": "福宝将进行全面检查",
+        "onboard_time": 1733206580,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513937,
+        "num": 513937,
+        "word": "自己吓自己",
+        "onboard_time": 1733202981,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510690,
+        "num": 510690,
+        "word": "王一博直播",
+        "onboard_time": 1733204959,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 440806,
+        "num": 440806,
+        "word": "215元存银行19年只剩8元",
+        "onboard_time": 1733200281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50259,
+        "num": 438934,
+        "word": "工业原料摇身一变成正品农药",
+        "onboard_time": 1733207300,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 616550,
+        "num": 430914,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501696,
+        "num": 425849,
+        "word": "黄子佼被判有期徒刑8个月",
+        "onboard_time": 1733200581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52078,
+        "num": 421458,
+        "word": "无限暖暖送100张迪士尼年卡",
+        "onboard_time": 1733206760,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232461,
+        "num": 412056,
+        "word": "工资被折换购物卡还限额使用",
+        "onboard_time": 1733206639,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30573,
+        "num": 403672,
+        "word": "英特尔CEO因扭亏计划未达预期离职",
+        "onboard_time": 1733207960,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 402548,
+        "num": 402548,
+        "word": "宋慧乔 痛苦只是流经我",
+        "onboard_time": 1733202621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349505,
+        "num": 349505,
+        "word": "孙颖莎回应莎头组合是否出战混双",
+        "onboard_time": 1733207361,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319956,
+        "num": 319956,
+        "word": "王楚钦 弹簧小耶",
+        "onboard_time": 1733204780,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43473,
+        "num": 318142,
+        "word": "2024腾讯年度好剧推荐",
+        "onboard_time": 1733207780,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78826,
+        "num": 316370,
+        "word": "周迅斜纹软呢高定",
+        "onboard_time": 1733207540,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 455464,
+        "num": 312529,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40614,
+        "num": 308317,
+        "word": "陈伟霆直播",
+        "onboard_time": 1733207540,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 371510,
+        "num": 307711,
+        "word": "黄圣依家世",
+        "onboard_time": 1733207480,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353624,
+        "num": 304653,
+        "word": "艾克里里跟杨紫竟然是好朋友",
+        "onboard_time": 1733206220,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302358,
+        "num": 302358,
+        "word": "阴阳师",
+        "onboard_time": 1733201300,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259903,
+        "num": 259903,
+        "word": "北大父亲为60分儿子崩溃怒刷心理学",
+        "onboard_time": 1733207600,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 58843,
+        "num": 259546,
+        "word": "柯南M7妈生初恋脸",
+        "onboard_time": 1733208259,
+        "rank": 26,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 15874,
+        "num": 258838,
+        "word": "明天也要和毛利兰在一起",
+        "onboard_time": 1733207719,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 180175,
+        "num": 256979,
+        "word": "尚雯婕曝披哥把浪姐东西都搬走了",
+        "onboard_time": 1733206880,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30803,
+        "num": 256444,
+        "word": "章若楠直播",
+        "onboard_time": 1733207960,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 255956,
+        "num": 255956,
+        "word": "代号鸢玩麦琳梗",
+        "onboard_time": 1733197640,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246538,
+        "num": 246538,
+        "word": "陆定昊否认霸凌陈立农",
+        "onboard_time": 1733199621,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237903,
+        "num": 237903,
+        "word": "阴阳师 老铁崩不住了",
+        "onboard_time": 1733207660,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193941,
+        "num": 193941,
+        "word": "韩国月子中心的月子餐",
+        "onboard_time": 1733199921,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192930,
+        "num": 192930,
+        "word": "HR又来催我们休年假了",
+        "onboard_time": 1733199921,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190374,
+        "num": 190374,
+        "word": "孙颖莎回应签名只有莎",
+        "onboard_time": 1733206461,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181134,
+        "num": 181134,
+        "word": "警方介入华中农大一学生被指虐猫",
+        "onboard_time": 1733205980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47811,
+        "num": 180111,
+        "word": "陈伟霆说去灵隐寺许愿很灵",
+        "onboard_time": 1733204360,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179227,
+        "num": 179227,
+        "word": "银行小额管理费悄然吞噬存款",
+        "onboard_time": 1733205621,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176277,
+        "num": 176277,
+        "word": "花儿与少年",
+        "onboard_time": 1733203880,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174074,
+        "num": 174074,
+        "word": "于正内涵伪大女主",
+        "onboard_time": 1733200342,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172647,
+        "num": 172647,
+        "word": "韩媒推荐韩国人冬天去哈尔滨",
+        "onboard_time": 1733200761,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35382,
+        "num": 165008,
+        "word": "张钧甯我在说你有在听吗",
+        "onboard_time": 1733204121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162347,
+        "num": 162347,
+        "word": "千万不要错把艾滋当皮肤病",
+        "onboard_time": 1733199921,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159893,
+        "num": 159893,
+        "word": "逆水寒手游",
+        "onboard_time": 1733208139,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157615,
+        "num": 157615,
+        "word": "马斯克560亿美元薪酬计划被驳回",
+        "onboard_time": 1733200521,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156373,
+        "num": 156373,
+        "word": "男子发现女儿非亲生儿子是杜撰的",
+        "onboard_time": 1733193198,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154242,
+        "num": 154242,
+        "word": "研究表明艾滋病毒可潜伏于大脑",
+        "onboard_time": 1733208259,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154029,
+        "num": 154029,
+        "word": "基地回应福宝状况异常",
+        "onboard_time": 1733206819,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25961,
+        "num": 153895,
+        "word": "单依纯演我早起",
+        "onboard_time": 1733205440,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路建设工作座谈会#"
+    }
+  }
+}

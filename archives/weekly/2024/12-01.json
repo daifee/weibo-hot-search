@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733207685484,
+  "endTime": 1733208502366,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 631627,
-      "num": 467880,
+      "num": 510690,
       "word": "王一博直播",
       "onboard_time": 1733204959,
       "rank": 6,
@@ -1187,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 513937,
+      "num": 513937,
+      "word": "自己吓自己",
+      "onboard_time": 1733034678,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 508702,
       "num": 508702,
       "word": "男子自称烟草局主管安排入职需陪睡",
@@ -1283,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478701,
+      "num": 594040,
+      "word": "福宝将进行全面检查",
+      "onboard_time": 1733206580,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477828,
       "num": 477828,
       "word": "关晓彤给张艺兴音乐话剧打call",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1733200221,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457503,
-      "num": 457503,
-      "word": "自己吓自己",
-      "onboard_time": 1733034678,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 457210,
@@ -1545,14 +1553,6 @@
       "onboard_time": 1733117479,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 427931,
-      "num": 427931,
-      "word": "福宝将进行全面检查",
-      "onboard_time": 1733206580,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 426209,
@@ -1755,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371510,
+      "num": 307711,
+      "word": "黄圣依家世",
+      "onboard_time": 1733207480,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370040,
       "num": 543518,
       "word": "孙颖莎vs杰西卡",
@@ -1851,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353624,
+      "num": 304653,
+      "word": "艾克里里跟杨紫竟然是好朋友",
+      "onboard_time": 1733206220,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351754,
       "num": 372620,
       "word": "张智霖喊话18岁儿子谈恋爱",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1733123838,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349505,
+      "num": 349505,
+      "word": "孙颖莎回应莎头组合是否出战混双",
+      "onboard_time": 1733207361,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 349273,
@@ -2403,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259903,
+      "num": 259903,
+      "word": "北大父亲为60分儿子崩溃怒刷心理学",
+      "onboard_time": 1733207600,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259663,
       "num": 259663,
       "word": "合肥LV柜姐5天更新8条卖货视频",
@@ -2643,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237903,
+      "num": 237903,
+      "word": "阴阳师 老铁崩不住了",
+      "onboard_time": 1733207660,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234942,
       "num": 234942,
       "word": "mlxg谈Doinb",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1733160493,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 232461,
+      "num": 463457,
+      "word": "工资被折换购物卡还限额使用",
+      "onboard_time": 1733206639,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232459,
@@ -3009,14 +3057,6 @@
       "onboard_time": 1733112619,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213606,
-      "num": 213606,
-      "word": "艾克里里跟杨紫竟然是好朋友",
-      "onboard_time": 1733206220,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 213396,
@@ -3563,14 +3603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192209,
-      "num": 192209,
-      "word": "孙颖莎回应莎头组合是否出战混双",
-      "onboard_time": 1733207361,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191900,
       "num": 203940,
       "word": "迪丽热巴冬日氛围十二月行程",
@@ -3624,6 +3656,14 @@
       "word": "国乒火速下班",
       "onboard_time": 1733029939,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190374,
+      "num": 211178,
+      "word": "孙颖莎回应签名只有莎",
+      "onboard_time": 1733206461,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3899,6 +3939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181134,
+      "num": 181134,
+      "word": "警方介入华中农大一学生被指虐猫",
+      "onboard_time": 1733205980,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180728,
       "num": 180728,
       "word": "肖战入围APMA华语地区最佳男歌手",
@@ -3912,6 +3960,14 @@
       "word": "黄景瑜秒猜白敬亭",
       "onboard_time": 1733200821,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180175,
+      "num": 256979,
+      "word": "尚雯婕曝披哥把浪姐东西都搬走了",
+      "onboard_time": 1733206880,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -3961,14 +4017,6 @@
       "onboard_time": 1733114601,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 178805,
-      "num": 213196,
-      "word": "尚雯婕曝披哥把浪姐东西都搬走了",
-      "onboard_time": 1733206880,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 178656,
@@ -4073,14 +4121,6 @@
       "onboard_time": 1733132178,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171560,
-      "num": 171560,
-      "word": "警方介入华中农大一学生被指虐猫",
-      "onboard_time": 1733205980,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171372,
@@ -4193,14 +4233,6 @@
       "onboard_time": 1733032277,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167690,
-      "num": 212139,
-      "word": "北大父亲为60分儿子崩溃怒刷心理学",
-      "onboard_time": 1733207600,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 167629,
@@ -4323,14 +4355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163627,
-      "num": 463457,
-      "word": "工资被折换购物卡还限额使用",
-      "onboard_time": 1733206639,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163104,
       "num": 235619,
       "word": "小花cos甄嬛造型",
@@ -4345,14 +4369,6 @@
       "onboard_time": 1733057659,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 162287,
-      "num": 211178,
-      "word": "孙颖莎回应签名只有莎",
-      "onboard_time": 1733206461,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 161759,
@@ -4417,6 +4433,14 @@
       "onboard_time": 1733101279,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 159893,
+      "num": 159893,
+      "word": "逆水寒手游",
+      "onboard_time": 1733208139,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 159564,
@@ -4611,6 +4635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154242,
+      "num": 154242,
+      "word": "研究表明艾滋病毒可潜伏于大脑",
+      "onboard_time": 1733208259,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "周冠宇",
@@ -4673,14 +4705,6 @@
       "onboard_time": 1733147183,
       "rank": 32,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 151319,
-      "num": 151319,
-      "word": "阴阳师 老铁崩不住了",
-      "onboard_time": 1733207660,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 151134,
@@ -6987,6 +7011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78826,
+      "num": 332635,
+      "word": "周迅斜纹软呢高定",
+      "onboard_time": 1733207540,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 78824,
       "num": 598751,
       "word": "孙颖莎光速获胜",
@@ -7483,6 +7515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 58843,
+      "num": 259546,
+      "word": "柯南M7妈生初恋脸",
+      "onboard_time": 1733208259,
+      "rank": 26,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 58749,
       "num": 236382,
       "word": "侯明昊横店走秀",
@@ -7644,7 +7684,7 @@
     },
     {
       "raw_hot": 54076,
-      "num": 1100888,
+      "num": 1135584,
       "word": "国产大型储卸油平台成功出口",
       "onboard_time": 1733194098,
       "rank": 2,
@@ -7739,6 +7779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52078,
+      "num": 421458,
+      "word": "无限暖暖送100张迪士尼年卡",
+      "onboard_time": 1733206760,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51613,
       "num": 93905,
       "word": "张林峰希望更多人因为科研成果认识他",
@@ -7761,6 +7809,14 @@
       "onboard_time": 1733104757,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50259,
+      "num": 460540,
+      "word": "工业原料摇身一变成正品农药",
+      "onboard_time": 1733207300,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 50175,
@@ -7801,6 +7857,14 @@
       "onboard_time": 1733157017,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47811,
+      "num": 204770,
+      "word": "陈伟霆说去灵隐寺许愿很灵",
+      "onboard_time": 1733204360,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 47605,
@@ -7899,14 +7963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45068,
-      "num": 332635,
-      "word": "周迅斜纹软呢高定",
-      "onboard_time": 1733207540,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 44906,
       "num": 169164,
       "word": "白宇拍的国乒",
@@ -7939,14 +7995,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 44355,
-      "num": 204770,
-      "word": "陈伟霆说去灵隐寺许愿很灵",
-      "onboard_time": 1733204360,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44066,
       "num": 169170,
       "word": "荣耀300价格真香",
@@ -7961,6 +8009,14 @@
       "onboard_time": 1733119519,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43473,
+      "num": 318142,
+      "word": "2024腾讯年度好剧推荐",
+      "onboard_time": 1733207780,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 43330,
@@ -8017,6 +8073,14 @@
       "onboard_time": 1733199441,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40614,
+      "num": 331343,
+      "word": "陈伟霆直播",
+      "onboard_time": 1733207540,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 40528,
@@ -8171,14 +8235,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 37198,
-      "num": 417728,
-      "word": "无限暖暖送100张迪士尼年卡",
-      "onboard_time": 1733206760,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 37070,
       "num": 349501,
       "word": "叙利亚战火为何重燃",
@@ -8225,6 +8281,14 @@
       "onboard_time": 1732993932,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35382,
+      "num": 171870,
+      "word": "张钧甯我在说你有在听吗",
+      "onboard_time": 1733204121,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 35185,
@@ -8281,14 +8345,6 @@
       "onboard_time": 1733073974,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33982,
-      "num": 171870,
-      "word": "张钧甯我在说你有在听吗",
-      "onboard_time": 1733204121,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 33887,
@@ -8459,12 +8515,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 30803,
+      "num": 256444,
+      "word": "章若楠直播",
+      "onboard_time": 1733207960,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 30579,
       "num": 30579,
       "word": "不讨好的勇气",
       "onboard_time": 1733161033,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30573,
+      "num": 403672,
+      "word": "英特尔CEO因扭亏计划未达预期离职",
+      "onboard_time": 1733207960,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30571,
@@ -8489,22 +8561,6 @@
       "onboard_time": 1733061200,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30004,
-      "num": 331343,
-      "word": "陈伟霆直播",
-      "onboard_time": 1733207540,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 29655,
-      "num": 460540,
-      "word": "工业原料摇身一变成正品农药",
-      "onboard_time": 1733207300,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 29631,
@@ -8691,6 +8747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 25961,
+      "num": 157960,
+      "word": "单依纯演我早起",
+      "onboard_time": 1733205440,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25932,
       "num": 25932,
       "word": "宋亚轩八颗牙笑容",
@@ -8761,14 +8825,6 @@
       "onboard_time": 1733030001,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 24266,
-      "num": 157960,
-      "word": "单依纯演我早起",
-      "onboard_time": 1733205440,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 24252,
@@ -9089,6 +9145,14 @@
       "onboard_time": 1733000171,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15874,
+      "num": 258838,
+      "word": "明天也要和毛利兰在一起",
+      "onboard_time": 1733207719,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 15799,
