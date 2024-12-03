@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733192049141,
+  "endTime": 1733195294704,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -24,6 +24,14 @@
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3251986,
+      "num": 3251986,
+      "word": "杨子大哥承认杨子黄圣依在演",
+      "onboard_time": 1733192178,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 1205199,
-      "num": 198637,
+      "num": 216387,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
       "onboard_time": 1733186959,
       "rank": 20,
@@ -305,6 +313,14 @@
       "onboard_time": 1733150421,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1132600,
+      "num": 1132600,
+      "word": "男子发现女儿非亲生儿子是杜撰的",
+      "onboard_time": 1733193198,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1132029,
@@ -1003,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514940,
+      "num": 514940,
+      "word": "特朗普警告哈马斯将付出巨大代价",
+      "onboard_time": 1733191518,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 508702,
       "num": 508702,
       "word": "男子自称烟草局主管安排入职需陪睡",
@@ -1411,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 401177,
+      "num": 232719,
+      "word": "张艺谋父女任达华父女 交换舞伴",
+      "onboard_time": 1733191278,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400103,
       "num": 400103,
       "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1733130858,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376884,
+      "num": 520609,
+      "word": "耳朵经济火了",
+      "onboard_time": 1733192359,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 374478,
@@ -2339,6 +2379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233606,
+      "num": 233606,
+      "word": "蒲熠星粉丝群",
+      "onboard_time": 1733190677,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232914,
       "num": 223174,
       "word": "宋威龙赵今麦按姓氏首字母排序",
@@ -2483,6 +2531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220873,
+      "num": 220873,
+      "word": "又一股冷空气准备好了",
+      "onboard_time": 1733190378,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220626,
       "num": 227877,
       "word": "田嘉瑞月鳞绮纪开机出妆路透",
@@ -2555,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216427,
-      "num": 216427,
-      "word": "张艺谋父女任达华父女 交换舞伴",
-      "onboard_time": 1733191278,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215953,
       "num": 242408,
       "word": "搅拌车压扁小轿车驾驶员仅轻伤",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1733026338,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215334,
+      "num": 215334,
+      "word": "汇率",
+      "onboard_time": 1733195120,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 215121,
@@ -2721,6 +2777,14 @@
       "onboard_time": 1733114001,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208075,
+      "num": 215395,
+      "word": "新音 时代少年团",
+      "onboard_time": 1733195058,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 207920,
@@ -2907,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201511,
+      "num": 201511,
+      "word": "华为Mate70一周使用体验",
+      "onboard_time": 1733195239,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200440,
       "num": 200440,
       "word": "丁禹兮今天喝奶茶啦",
@@ -2945,6 +3017,14 @@
       "onboard_time": 1733148203,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197787,
+      "num": 197787,
+      "word": "东北金渐层在冰上打出溜滑",
+      "onboard_time": 1733191518,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196850,
@@ -3051,6 +3131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193714,
+      "num": 216751,
+      "word": "王一博全黑造型路透",
+      "onboard_time": 1733194639,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192792,
       "num": 192792,
       "word": "迪丽热巴贺思慕冬装造型",
@@ -3131,6 +3219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190179,
+      "num": 190179,
+      "word": "10年交了23万保险费取钱还要等60年",
+      "onboard_time": 1733194399,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189958,
       "num": 189958,
       "word": "十二月的奇迹",
@@ -3201,6 +3297,14 @@
       "onboard_time": 1733181316,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187670,
+      "num": 198898,
+      "word": "宋亚轩无框眼镜",
+      "onboard_time": 1733193799,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 187372,
@@ -3395,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178001,
+      "num": 178001,
+      "word": "30岁女生在英国1磅的早午饭",
+      "onboard_time": 1733191397,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 176443,
       "num": 512897,
       "word": "70万一针救命药进医保改写男童人生",
@@ -3555,6 +3667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168508,
+      "num": 168508,
+      "word": "脱口秀演员史野",
+      "onboard_time": 1733191818,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168000,
       "num": 168000,
       "word": "名侦探学院",
@@ -3635,14 +3755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165195,
-      "num": 213305,
-      "word": "又一股冷空气准备好了",
-      "onboard_time": 1733190378,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165030,
       "num": 270154,
       "word": "李行亮商演价格或翻倍",
@@ -3657,6 +3769,14 @@
       "onboard_time": 1732980260,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162695,
+      "num": 215546,
+      "word": "如何看待利用婚姻问题博流量",
+      "onboard_time": 1733195120,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162509,
@@ -3755,14 +3875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158897,
-      "num": 167888,
-      "word": "蒲熠星粉丝群",
-      "onboard_time": 1733190677,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158631,
       "num": 158631,
       "word": "12月十二星座注意事项",
@@ -3777,14 +3889,6 @@
       "onboard_time": 1733117960,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157542,
-      "num": 157542,
-      "word": "特朗普警告哈马斯将付出巨大代价",
-      "onboard_time": 1733191518,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157475,
@@ -4139,6 +4243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148053,
+      "num": 148053,
+      "word": "丁禹兮美拉德look",
+      "onboard_time": 1733194998,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147189,
       "num": 284526,
       "word": "商务部回应美国半导体出口管制措施",
@@ -4171,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146241,
+      "num": 146241,
+      "word": "沉浸式360度全景看地球",
+      "onboard_time": 1733193919,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146132,
       "num": 146132,
       "word": "麦当劳绝区零联动",
@@ -4193,6 +4313,14 @@
       "onboard_time": 1733098218,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145863,
+      "num": 145863,
+      "word": "种地吧",
+      "onboard_time": 1733184440,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 145803,
@@ -4249,6 +4377,14 @@
       "onboard_time": 1733098157,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144019,
+      "num": 144019,
+      "word": "宋亚轩智性恋男友",
+      "onboard_time": 1733194278,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 143957,
@@ -4441,6 +4577,14 @@
       "onboard_time": 1733115439,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138342,
+      "num": 138342,
+      "word": "妻子与他人结婚还让丈夫出婚房钱",
+      "onboard_time": 1733192778,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138248,
@@ -5235,19 +5379,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112186,
-      "num": 112186,
-      "word": "东北金渐层在冰上打出溜滑",
-      "onboard_time": 1733191518,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111727,
       "num": 111727,
       "word": "6岁才站起的罕见病孩子要研究飞机",
       "onboard_time": 1733023339,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111722,
+      "num": 146972,
+      "word": "男子买毒品发现是假货报警谎称被骗",
+      "onboard_time": 1733193138,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -5483,14 +5627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104156,
-      "num": 104156,
-      "word": "脱口秀演员史野",
-      "onboard_time": 1733191818,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103503,
       "num": 273780,
       "word": "永夜星河到底藏了多少好东西",
@@ -5625,14 +5761,6 @@
       "onboard_time": 1733145203,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99506,
-      "num": 99506,
-      "word": "种地吧",
-      "onboard_time": 1733184440,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 99204,
@@ -5873,14 +6001,6 @@
       "onboard_time": 1733051840,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90915,
-      "num": 90915,
-      "word": "30岁女生在英国1磅的早午饭",
-      "onboard_time": 1733191397,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 90711,
@@ -6243,6 +6363,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 75689,
+      "num": 231307,
+      "word": "无限暖暖",
+      "onboard_time": 1733038818,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75143,
       "num": 294205,
       "word": "擦边的帽子不能乱扣",
@@ -6313,6 +6441,14 @@
       "onboard_time": 1733036838,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 70960,
+      "num": 216567,
+      "word": "村民乘船往上游找药材翻船8人遇难",
+      "onboard_time": 1733195120,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70510,
@@ -6771,6 +6907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53623,
+      "num": 221008,
+      "word": "冷酸灵牙膏被指超功效宣传",
+      "onboard_time": 1733195120,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 53602,
       "num": 304116,
       "word": "围观明星婚姻的观众成流量变现工具",
@@ -6817,6 +6961,14 @@
       "onboard_time": 1733071036,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51787,
+      "num": 215787,
+      "word": "周深配音狮子王",
+      "onboard_time": 1733195178,
+      "rank": 23,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 51613,
@@ -7009,6 +7161,14 @@
       "onboard_time": 1733075293,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42723,
+      "num": 789818,
+      "word": "国产大型储卸油平台成功出口",
+      "onboard_time": 1733194098,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42223,
@@ -7217,6 +7377,14 @@
       "onboard_time": 1733140044,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 36208,
+      "num": 139296,
+      "word": "诺如病毒高发期如何预防感染",
+      "onboard_time": 1733194519,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35571,
@@ -7512,14 +7680,6 @@
       "word": "原神5.2版本",
       "onboard_time": 1733025859,
       "rank": 23,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 28437,
-      "num": 231307,
-      "word": "无限暖暖",
-      "onboard_time": 1733038818,
-      "rank": 29,
       "category": "游戏"
     },
     {
