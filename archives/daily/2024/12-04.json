@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733243424538,
+  "endTime": 1733244583078,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -27,8 +27,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 4124502,
-      "num": 4124502,
+      "raw_hot": 4600266,
+      "num": 5468456,
       "word": "韩国会会议通过解除戒严决议",
       "onboard_time": 1733242046,
       "rank": 4,
@@ -84,15 +84,23 @@
     },
     {
       "raw_hot": 1056146,
-      "num": 1407619,
+      "num": 4457013,
       "word": "韩元汇率迅速下跌",
       "onboard_time": 1733237605,
       "rank": 13,
       "category": "财经"
     },
     {
+      "raw_hot": 1022519,
+      "num": 965125,
+      "word": "韩空降部队打碎玻璃窗进入国会",
+      "onboard_time": 1733242406,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1011676,
-      "num": 1334912,
+      "num": 4951531,
       "word": "TWICE",
       "onboard_time": 1733240426,
       "rank": 15,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 811098,
-      "num": 1358166,
+      "num": 3122100,
       "word": "韩国议长宣布紧急戒严令无效",
       "onboard_time": 1733240970,
       "rank": 14,
@@ -116,18 +124,18 @@
     },
     {
       "raw_hot": 790732,
-      "num": 3999667,
+      "num": 5451506,
       "word": "周密向周芯竹道歉",
       "onboard_time": 1733223620,
       "rank": 5,
       "category": "艺人"
     },
     {
-      "raw_hot": 749733,
-      "num": 749733,
-      "word": "韩空降部队打碎玻璃窗进入国会",
-      "onboard_time": 1733242406,
-      "rank": 22,
+      "raw_hot": 710541,
+      "num": 5381843,
+      "word": "直击韩国街头现场状况",
+      "onboard_time": 1733243003,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -144,6 +152,14 @@
       "word": "深夜韩国国会上空",
       "onboard_time": 1733239286,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 591025,
+      "num": 300274,
+      "word": "韩紧急戒严令被宣布无效",
+      "onboard_time": 1733243124,
+      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 540264,
-      "num": 1298250,
+      "num": 2759645,
       "word": "韩娱活动因戒严令接连取消",
       "onboard_time": 1733237365,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493248,
+      "num": 493248,
+      "word": "韩国总统府周边进入全面管制状态",
+      "onboard_time": 1733243422,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 481490,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 442697,
-      "num": 3431837,
+      "num": 5426674,
       "word": "香奈儿大秀 死亡打光",
       "onboard_time": 1733226921,
       "rank": 6,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 387782,
-      "num": 3130254,
+      "num": 5476933,
       "word": "外媒关注中国发现世界最大金矿",
       "onboard_time": 1733236946,
       "rank": 7,
@@ -243,16 +267,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300274,
-      "num": 300274,
-      "word": "韩紧急戒严令被宣布无效",
-      "onboard_time": 1733243124,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 298249,
-      "num": 611064,
+      "num": 1627160,
       "word": "金龟子女儿因孩子断奶崩溃大哭",
       "onboard_time": 1733233161,
       "rank": 26,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 269308,
-      "num": 608030,
+      "num": 632136,
       "word": "SBS",
       "onboard_time": 1733239106,
       "rank": 27,
@@ -324,27 +340,75 @@
     },
     {
       "raw_hot": 227945,
-      "num": 2516334,
+      "num": 5409716,
       "word": "女硕士患精神分裂症失踪15年被找回",
       "onboard_time": 1733233941,
       "rank": 8,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170611,
-      "num": 2204953,
-      "word": "直击韩国街头现场状况",
-      "onboard_time": 1733243003,
-      "rank": 9,
+      "raw_hot": 218958,
+      "num": 218958,
+      "word": "韩前总统文在寅发声",
+      "onboard_time": 1733244319,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 176500,
+      "num": 5396093,
+      "word": "进入韩国国会主楼的军人全部撤出",
+      "onboard_time": 1733244200,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174500,
+      "num": 431389,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1733230160,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160180,
+      "num": 160180,
+      "word": "白宫回应韩国总统发布紧急戒严令",
+      "onboard_time": 1733240606,
+      "rank": 49,
       "category": "国际时政"
     },
     {
       "raw_hot": 142570,
-      "num": 1264143,
+      "num": 1619084,
       "word": "中国半导体行业协会发声明",
       "onboard_time": 1733227821,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99619,
+      "num": 253083,
+      "word": "大年三十将消失五年",
+      "onboard_time": 1733243662,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94487,
+      "num": 214815,
+      "word": "男子转账被限额怒问银行",
+      "onboard_time": 1733243003,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93984,
+      "num": 1167107,
+      "word": "边伯贤泡泡语音",
+      "onboard_time": 1733243184,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 87761,
@@ -363,28 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65805,
-      "num": 1167107,
-      "word": "边伯贤泡泡语音",
-      "onboard_time": 1733243184,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 58780,
-      "num": 214815,
-      "word": "男子转账被限额怒问银行",
-      "onboard_time": 1733243003,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58778,
       "num": 201207,
       "word": "花栗鼠用腮帮子偷走人参红果",
       "onboard_time": 1733242766,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57396,
+      "num": 4023781,
+      "word": "韩国总统深夜宣布紧急戒严时间线",
+      "onboard_time": 1733244380,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34586,
@@ -395,12 +451,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32854,
+      "num": 967301,
+      "word": "娜扎和妈妈一起拍大头贴",
+      "onboard_time": 1733244380,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26692,
-      "num": 4547033,
+      "num": 5486996,
       "word": "数说一带一路成绩单",
       "onboard_time": 1733234603,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8930,
+      "num": 501179,
+      "word": "孙颖莎称混团世界杯会全力以赴",
+      "onboard_time": 1733244080,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

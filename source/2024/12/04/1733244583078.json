@@ -1,0 +1,410 @@
+{
+  "runTime": 1733244583078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9098158,
+        "num": 9098158,
+        "word": "韩国总统发布紧急戒严令",
+        "onboard_time": 1733234242,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6613253,
+        "num": 6613253,
+        "word": "韩国怎么了",
+        "onboard_time": 1733240006,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22206,
+        "num": 5486996,
+        "word": "数说一带一路成绩单",
+        "onboard_time": 1733234603,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295474,
+        "num": 5476933,
+        "word": "外媒关注中国发现世界最大金矿",
+        "onboard_time": 1733236946,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 4600266,
+        "num": 5468456,
+        "word": "韩国会会议通过解除戒严决议",
+        "onboard_time": 1733242046,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 609442,
+        "num": 5451506,
+        "word": "周密向周芯竹道歉",
+        "onboard_time": 1733223620,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397803,
+        "num": 5426674,
+        "word": "香奈儿大秀 死亡打光",
+        "onboard_time": 1733226921,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168139,
+        "num": 5409716,
+        "word": "女硕士患精神分裂症失踪15年被找回",
+        "onboard_time": 1733233941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176500,
+        "num": 5396093,
+        "word": "进入韩国国会主楼的军人全部撤出",
+        "onboard_time": 1733244200,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 710541,
+        "num": 5381843,
+        "word": "直击韩国街头现场状况",
+        "onboard_time": 1733243003,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5379215,
+        "num": 5379215,
+        "word": "李在明翻墙进入国会",
+        "onboard_time": 1733241146,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 745556,
+        "num": 4951531,
+        "word": "TWICE",
+        "onboard_time": 1733240426,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603761,
+        "num": 4457013,
+        "word": "韩元汇率迅速下跌",
+        "onboard_time": 1733237605,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57396,
+        "num": 4023781,
+        "word": "韩国总统深夜宣布紧急戒严时间线",
+        "onboard_time": 1733244380,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 727808,
+        "num": 3122100,
+        "word": "韩国议长宣布紧急戒严令无效",
+        "onboard_time": 1733240970,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284625,
+        "num": 2759645,
+        "word": "韩娱活动因戒严令接连取消",
+        "onboard_time": 1733237365,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200919,
+        "num": 1627160,
+        "word": "金龟子女儿因孩子断奶崩溃大哭",
+        "onboard_time": 1733233161,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110108,
+        "num": 1619084,
+        "word": "中国半导体行业协会发声明",
+        "onboard_time": 1733227821,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1001212,
+        "num": 1001212,
+        "word": "中国驻韩国大使馆深夜发布提醒",
+        "onboard_time": 1733239045,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32854,
+        "num": 967301,
+        "word": "娜扎和妈妈一起拍大头贴",
+        "onboard_time": 1733244380,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022519,
+        "num": 965125,
+        "word": "韩空降部队打碎玻璃窗进入国会",
+        "onboard_time": 1733242406,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 941652,
+        "num": 941652,
+        "word": "李在明说尹锡悦不再是韩国总统了",
+        "onboard_time": 1733239707,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 777633,
+        "num": 777633,
+        "word": "韩国现役军人延期退伍",
+        "onboard_time": 1733240125,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188546,
+        "num": 632136,
+        "word": "SBS",
+        "onboard_time": 1733239106,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8930,
+        "num": 501179,
+        "word": "孙颖莎称混团世界杯会全力以赴",
+        "onboard_time": 1733244080,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257954,
+        "num": 494505,
+        "word": "男子与军嫂同居4年被判刑",
+        "onboard_time": 1733231540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493248,
+        "num": 493248,
+        "word": "韩国总统府周边进入全面管制状态",
+        "onboard_time": 1733243422,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180641,
+        "num": 448407,
+        "word": "乔欣被曝结婚后首现身",
+        "onboard_time": 1733224340,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174500,
+        "num": 431389,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1733230160,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428380,
+        "num": 428380,
+        "word": "韩国戒严军逮捕参加会议议员",
+        "onboard_time": 1733241568,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 415679,
+        "num": 415679,
+        "word": "韩国防长召集全国主要指挥官会议",
+        "onboard_time": 1733235022,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 474135,
+        "num": 410177,
+        "word": "韩国民众高喊口号要求撤回戒严令",
+        "onboard_time": 1733240187,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388982,
+        "num": 388982,
+        "word": "李在明呼吁韩国民众保护国会",
+        "onboard_time": 1733236104,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 367277,
+        "num": 367277,
+        "word": "韩国部分网站瘫痪",
+        "onboard_time": 1733239886,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305381,
+        "num": 305381,
+        "word": "韩要求罢工的医生48小时内返岗",
+        "onboard_time": 1733241988,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300905,
+        "num": 300905,
+        "word": "韩国国会已被封锁",
+        "onboard_time": 1733238385,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 591025,
+        "num": 298639,
+        "word": "韩紧急戒严令被宣布无效",
+        "onboard_time": 1733243124,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294041,
+        "num": 294041,
+        "word": "深夜韩国国会上空",
+        "onboard_time": 1733239286,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283278,
+        "num": 283278,
+        "word": "韩军士兵携带枪支空降国会",
+        "onboard_time": 1733242225,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99619,
+        "num": 253083,
+        "word": "大年三十将消失五年",
+        "onboard_time": 1733243662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252732,
+        "num": 252732,
+        "word": "韩国总统称将肃清反国家势力",
+        "onboard_time": 1733235805,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218958,
+        "num": 218958,
+        "word": "韩前总统文在寅发声",
+        "onboard_time": 1733244319,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217877,
+        "num": 217877,
+        "word": "韩国戒严司令部发布一号戒严令",
+        "onboard_time": 1733237845,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198165,
+        "num": 198165,
+        "word": "在韩中国公民紧急求助电话",
+        "onboard_time": 1733240546,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194410,
+        "num": 194410,
+        "word": "韩国资产全线跳水",
+        "onboard_time": 1733241625,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93984,
+        "num": 165941,
+        "word": "边伯贤泡泡语音",
+        "onboard_time": 1733243184,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629403,
+        "num": 165817,
+        "word": "韩国在野党与警方在国会出入口对峙",
+        "onboard_time": 1733238145,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165369,
+        "num": 165369,
+        "word": "韩执政党称总统宣布紧急戒严错误",
+        "onboard_time": 1733236165,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94487,
+        "num": 162154,
+        "word": "男子转账被限额怒问银行",
+        "onboard_time": 1733243003,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160180,
+        "num": 160180,
+        "word": "白宫回应韩国总统发布紧急戒严令",
+        "onboard_time": 1733240606,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和尼泊尔是好邻居好朋友好伙伴#"
+    }
+  }
+}
