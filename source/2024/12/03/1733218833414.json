@@ -1,0 +1,410 @@
+{
+  "runTime": 1733218833414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 620243,
+        "num": 1099239,
+        "word": "一乡镇公务员日均接收文件通知60多份",
+        "onboard_time": 1733212581,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 540868,
+        "num": 540868,
+        "word": "老板接44元订单竟涉嫌帮人洗钱",
+        "onboard_time": 1733213779,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37314,
+        "num": 535347,
+        "word": "宪法点亮生活",
+        "onboard_time": 1733214680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 989263,
+        "num": 524306,
+        "word": "博主灰太狼因胃癌英年早逝",
+        "onboard_time": 1733210900,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 918498,
+        "num": 496521,
+        "word": "黄子韬朋友圈 语录推荐",
+        "onboard_time": 1733215881,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720868,
+        "num": 479954,
+        "word": "福宝发抖",
+        "onboard_time": 1733204001,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476569,
+        "num": 476569,
+        "word": "黄圣依家世",
+        "onboard_time": 1733207480,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417433,
+        "num": 417433,
+        "word": "豪士面包老板哭了",
+        "onboard_time": 1733198060,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125243,
+        "num": 394616,
+        "word": "中方回应特朗普威胁向金砖国家征税",
+        "onboard_time": 1733217501,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387377,
+        "num": 387377,
+        "word": "马龙笑看台湾绿媒造谣",
+        "onboard_time": 1733211920,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488283,
+        "num": 387133,
+        "word": "马龙到底带了多少礼物去台湾",
+        "onboard_time": 1733217259,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448377,
+        "num": 387043,
+        "word": "董事长套现9亿后反劝投资者耐心一点",
+        "onboard_time": 1733215759,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 386805,
+        "num": 386805,
+        "word": "范丞丞唇钉",
+        "onboard_time": 1733216540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27746,
+        "num": 334314,
+        "word": "长安航空回应飞机上惊现老鼠",
+        "onboard_time": 1733218459,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314073,
+        "num": 332077,
+        "word": "韩国演员朴敏宰去世",
+        "onboard_time": 1733204959,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330328,
+        "num": 330328,
+        "word": "陆定昊道歉信",
+        "onboard_time": 1733215279,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97247,
+        "num": 330002,
+        "word": "香奈儿在杭州",
+        "onboard_time": 1733213720,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 154341,
+        "num": 327481,
+        "word": "中国大熊猫研究中心回应福宝发抖",
+        "onboard_time": 1733218280,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65195,
+        "num": 326582,
+        "word": "丁禹兮 四季男友",
+        "onboard_time": 1733218699,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58383,
+        "num": 324033,
+        "word": "郑钦文入围年度最佳击球",
+        "onboard_time": 1733218338,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310531,
+        "num": 323134,
+        "word": "李一桐 30多岁正是不想谈恋爱的年纪",
+        "onboard_time": 1733214859,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632815,
+        "num": 322003,
+        "word": "男子欲潜规则下属被拒后称白提拔你",
+        "onboard_time": 1733212999,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 320873,
+        "num": 320873,
+        "word": "禁止两用物项对美国军事用户出口",
+        "onboard_time": 1733215580,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257645,
+        "num": 320871,
+        "word": "宋慧乔 痛苦只是流经我",
+        "onboard_time": 1733202621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203562,
+        "num": 320295,
+        "word": "王一博 这是啥问题",
+        "onboard_time": 1733218338,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196505,
+        "num": 319799,
+        "word": "唐嫣紫发自拍",
+        "onboard_time": 1733216179,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22642,
+        "num": 319279,
+        "word": "退役名将赞郑钦文是超级巨星",
+        "onboard_time": 1733218399,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15192,
+        "num": 318382,
+        "word": "大模型从业者说不如回流大厂",
+        "onboard_time": 1733218338,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108787,
+        "num": 318071,
+        "word": "一诺做则必成",
+        "onboard_time": 1733218760,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73716,
+        "num": 317358,
+        "word": "被孙颖莎指尖转球硬控8秒",
+        "onboard_time": 1733216240,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74150,
+        "num": 317081,
+        "word": "女生拿国旗迎接马龙反手掏礼物",
+        "onboard_time": 1733217860,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66727,
+        "num": 316542,
+        "word": "滑雪场回应从厕所接桶装水给游客喝",
+        "onboard_time": 1733216959,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316144,
+        "num": 316144,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265958,
+        "num": 265958,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255372,
+        "num": 255372,
+        "word": "福岛近海海水样本运抵中国",
+        "onboard_time": 1733215340,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217238,
+        "num": 217238,
+        "word": "女生一觉醒来发现自己成素描考题",
+        "onboard_time": 1733209160,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31683,
+        "num": 216837,
+        "word": "女导演和女演员如何一起创造好东西",
+        "onboard_time": 1733216779,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21221,
+        "num": 215829,
+        "word": "辛芷蕾之前是学服装设计的",
+        "onboard_time": 1733216720,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 14357,
+        "num": 215275,
+        "word": "香奈儿秀场明星路透",
+        "onboard_time": 1733216720,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174134,
+        "num": 214856,
+        "word": "虞书欣小猫头",
+        "onboard_time": 1733217740,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24112,
+        "num": 213701,
+        "word": "杭州今天到底有谁在啊",
+        "onboard_time": 1733218338,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60330,
+        "num": 212828,
+        "word": "买房零公摊到底谁受益",
+        "onboard_time": 1733216720,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212717,
+        "num": 212717,
+        "word": "蛇年吉祥物竞争太激烈了",
+        "onboard_time": 1733216540,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 203011,
+        "num": 203011,
+        "word": "女兵服役12年退伍向张桂梅报到",
+        "onboard_time": 1733215640,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198415,
+        "num": 198415,
+        "word": "美媒称特朗普建议加拿大成美第51州",
+        "onboard_time": 1733214800,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196231,
+        "num": 196231,
+        "word": "阴阳师 老铁崩不住了",
+        "onboard_time": 1733207660,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192886,
+        "num": 192886,
+        "word": "孙颖莎回应莎头组合是否出战混双",
+        "onboard_time": 1733207361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192674,
+        "num": 192674,
+        "word": "阴阳师",
+        "onboard_time": 1733201300,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182931,
+        "num": 182931,
+        "word": "北大父亲为60分儿子崩溃怒刷心理学",
+        "onboard_time": 1733207600,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13018,
+        "num": 181925,
+        "word": "井柏然改行做导游了",
+        "onboard_time": 1733218699,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路建设工作座谈会#"
+    }
+  }
+}

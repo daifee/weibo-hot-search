@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733217964367,
+  "endTime": 1733218833414,
   "band_list": [
     {
       "raw_hot": 3251986,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918498,
+      "num": 496521,
+      "word": "黄子韬朋友圈 语录推荐",
+      "onboard_time": 1733215881,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 899246,
       "num": 899246,
       "word": "陈少熙直播",
@@ -153,14 +161,6 @@
       "onboard_time": 1733207480,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 861481,
-      "num": 407176,
-      "word": "黄子韬朋友圈 语录推荐",
-      "onboard_time": 1733215881,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 857022,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488283,
+      "num": 387133,
+      "word": "马龙到底带了多少礼物去台湾",
+      "onboard_time": 1733217259,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 486924,
       "num": 374485,
       "word": "抖音副总裁回应算法争议",
@@ -507,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379352,
-      "num": 379352,
+      "raw_hot": 386805,
+      "num": 386805,
       "word": "范丞丞唇钉",
       "onboard_time": 1733216540,
       "rank": 18,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 213151,
-      "num": 286251,
+      "num": 319799,
       "word": "唐嫣紫发自拍",
       "onboard_time": 1733216179,
       "rank": 29,
@@ -1019,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203562,
+      "num": 320295,
+      "word": "王一博 这是啥问题",
+      "onboard_time": 1733218338,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201150,
       "num": 201150,
       "word": "小时播音台",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1733210599,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198415,
+      "num": 198415,
+      "word": "美媒称特朗普建议加拿大成美第51州",
+      "onboard_time": 1733214800,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197872,
@@ -1259,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177299,
-      "num": 380449,
-      "word": "马龙到底带了多少礼物去台湾",
-      "onboard_time": 1733217259,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175634,
       "num": 175634,
       "word": "妻子与他人结婚还让丈夫出婚房钱",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1733210839,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174134,
+      "num": 214856,
+      "word": "虞书欣小猫头",
+      "onboard_time": 1733217740,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173906,
@@ -1379,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168370,
-      "num": 168370,
-      "word": "美媒称特朗普建议加拿大成美第51州",
-      "onboard_time": 1733214800,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 166460,
       "num": 166460,
       "word": "SnackPaper 丁禹兮",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1733203120,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163190,
-      "num": 163190,
-      "word": "虞书欣小猫头",
-      "onboard_time": 1733217740,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163104,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1733214739,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154341,
+      "num": 327481,
+      "word": "中国大熊猫研究中心回应福宝发抖",
+      "onboard_time": 1733218280,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150521,
@@ -1675,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125243,
+      "num": 452784,
+      "word": "中方回应特朗普威胁向金砖国家征税",
+      "onboard_time": 1733217501,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124502,
       "num": 124502,
       "word": "檀健次演唱会售罄",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1733169670,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108787,
+      "num": 318071,
+      "word": "一诺做则必成",
+      "onboard_time": 1733218760,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 108741,
@@ -2059,6 +2091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74150,
+      "num": 326606,
+      "word": "女生拿国旗迎接马龙反手掏礼物",
+      "onboard_time": 1733217860,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73716,
+      "num": 317358,
+      "word": "被孙颖莎指尖转球硬控8秒",
+      "onboard_time": 1733216240,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72943,
       "num": 72943,
       "word": "刘晓庆前男友发律师函讨债",
@@ -2099,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66727,
+      "num": 371858,
+      "word": "滑雪场回应从厕所接桶装水给游客喝",
+      "onboard_time": 1733216959,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66522,
       "num": 536479,
       "word": "声称包治百病的血液净化到底是什么",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1733182457,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65195,
+      "num": 326582,
+      "word": "丁禹兮 四季男友",
+      "onboard_time": 1733218699,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 65143,
@@ -2219,19 +2283,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61323,
-      "num": 452784,
-      "word": "中方回应特朗普威胁向金砖国家征税",
-      "onboard_time": 1733217501,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 61044,
       "num": 443209,
       "word": "三年后全国将实现医疗影像互认",
       "onboard_time": 1733203640,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60330,
+      "num": 386554,
+      "word": "买房零公摊到底谁受益",
+      "onboard_time": 1733216720,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2241,6 +2305,14 @@
       "onboard_time": 1733208259,
       "rank": 26,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 58383,
+      "num": 324033,
+      "word": "郑钦文入围年度最佳击球",
+      "onboard_time": 1733218338,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 57370,
@@ -2265,22 +2337,6 @@
       "onboard_time": 1733158935,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55672,
-      "num": 326606,
-      "word": "女生拿国旗迎接马龙反手掏礼物",
-      "onboard_time": 1733217860,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 55513,
-      "num": 371858,
-      "word": "滑雪场回应从厕所接桶装水给游客喝",
-      "onboard_time": 1733216959,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55105,
@@ -2441,14 +2497,6 @@
       "onboard_time": 1733153539,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44655,
-      "num": 386554,
-      "word": "买房零公摊到底谁受益",
-      "onboard_time": 1733216720,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44573,
@@ -2643,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31683,
+      "num": 413512,
+      "word": "女导演和女演员如何一起创造好东西",
+      "onboard_time": 1733216779,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31377,
       "num": 348051,
       "word": "同基金经理不同产品业绩差距竟达50%",
@@ -2739,6 +2795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27746,
+      "num": 334314,
+      "word": "长安航空回应飞机上惊现老鼠",
+      "onboard_time": 1733218459,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27632,
       "num": 943753,
       "word": "请多给残疾人朋友尊重和关爱",
@@ -2753,14 +2817,6 @@
       "onboard_time": 1733210658,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 26561,
-      "num": 413512,
-      "word": "女导演和女演员如何一起创造好东西",
-      "onboard_time": 1733216779,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 25961,
@@ -2795,6 +2851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24112,
+      "num": 213701,
+      "word": "杭州今天到底有谁在啊",
+      "onboard_time": 1733218338,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 23321,
       "num": 223396,
       "word": "林高远王艺迪vs南丹古德温",
@@ -2819,8 +2883,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22642,
+      "num": 319279,
+      "word": "退役名将赞郑钦文是超级巨星",
+      "onboard_time": 1733218399,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21553,
-      "num": 207672,
+      "num": 215829,
       "word": "辛芷蕾之前是学服装设计的",
       "onboard_time": 1733216720,
       "rank": 38,
@@ -2955,6 +3027,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 15192,
+      "num": 318382,
+      "word": "大模型从业者说不如回流大厂",
+      "onboard_time": 1733218338,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14551,
       "num": 15734,
       "word": "四川雅江3.4级地震",
@@ -2971,12 +3051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14357,
+      "num": 215275,
+      "word": "香奈儿秀场明星路透",
+      "onboard_time": 1733216720,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 13157,
       "num": 14128,
       "word": "我是刑警",
       "onboard_time": 1733140526,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13018,
+      "num": 181925,
+      "word": "井柏然改行做导游了",
+      "onboard_time": 1733218699,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 12530,
@@ -2993,14 +3089,6 @@
       "onboard_time": 1733104757,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 10608,
-      "num": 208399,
-      "word": "香奈儿秀场明星路透",
-      "onboard_time": 1733216720,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 8318,
