@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733222725896,
+  "endTime": 1733224854962,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -17,6 +17,14 @@
       "onboard_time": 1733010074,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4135243,
+      "num": 373347,
+      "word": "周密向周芯竹道歉",
+      "onboard_time": 1733223620,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 3965862,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1634886,
+      "num": 745773,
+      "word": "周芯竹体面",
+      "onboard_time": 1733221039,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1616446,
       "num": 678543,
       "word": "周芯竹 高天佐",
@@ -193,6 +209,14 @@
       "onboard_time": 1733128278,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1479218,
+      "num": 730330,
+      "word": "19岁机车女网红因车祸去世",
+      "onboard_time": 1733221460,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1430890,
@@ -763,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 745773,
-      "num": 745773,
-      "word": "周芯竹体面",
-      "onboard_time": 1733221039,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 736414,
       "num": 537023,
       "word": "黄子佼被判有期徒刑8个月",
@@ -785,14 +801,6 @@
       "onboard_time": 1733049499,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 730330,
-      "num": 730330,
-      "word": "19岁机车女网红因车祸去世",
-      "onboard_time": 1733221460,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 727357,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1733105416,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 560554,
+      "num": 560554,
+      "word": "让女儿蹭跑全马男子被禁赛3年",
+      "onboard_time": 1733222360,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556660,
@@ -1707,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433464,
+      "num": 433464,
+      "word": "连云港",
+      "onboard_time": 1733218219,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433393,
       "num": 433393,
       "word": "恋与深空登顶",
@@ -1979,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371401,
+      "num": 371401,
+      "word": "49岁女子糖尿病不忌口诱发心衰离世",
+      "onboard_time": 1733223141,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371005,
       "num": 371005,
       "word": "禁止两用物项对美国军事用户出口",
@@ -2019,12 +2051,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365337,
+      "num": 365337,
+      "word": "美国队赢了国乒一局开心到飞起",
+      "onboard_time": 1733222360,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364659,
       "num": 364659,
       "word": "12月狗屎运最旺的星座",
       "onboard_time": 1733011335,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 360357,
+      "num": 430065,
+      "word": "卢昱晓 小香千金",
+      "onboard_time": 1733222719,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 358963,
@@ -2115,14 +2163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 351549,
-      "num": 351549,
-      "word": "连云港",
-      "onboard_time": 1733218219,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 349727,
       "num": 349727,
       "word": "冯绍峰直播回家的诱惑",
@@ -2195,6 +2235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 339076,
+      "num": 373570,
+      "word": "金高银辛芷蕾同框",
+      "onboard_time": 1733220560,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335382,
       "num": 335382,
       "word": "鹿晗拒绝放十二月的奇迹",
@@ -2219,6 +2267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 333313,
+      "num": 403363,
+      "word": "孙俪女儿甄嬛写真",
+      "onboard_time": 1733223499,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328751,
       "num": 328751,
       "word": "阴阳师",
@@ -2241,6 +2297,14 @@
       "onboard_time": 1733128099,
       "rank": 38,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 328207,
+      "num": 328207,
+      "word": "乔欣被曝结婚后首现身",
+      "onboard_time": 1733224340,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 327101,
@@ -2611,14 +2675,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 270696,
-      "num": 270696,
-      "word": "金高银辛芷蕾同框",
-      "onboard_time": 1733220560,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 270392,
       "num": 270392,
       "word": "于正官宣吉天照女主",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1733108057,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259690,
+      "num": 365624,
+      "word": "女推 偷拍",
+      "onboard_time": 1733221939,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 259663,
@@ -3411,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212952,
+      "num": 227293,
+      "word": "肖战顺毛vs卷毛",
+      "onboard_time": 1733222719,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212649,
       "num": 699960,
       "word": "王一博系扣子vs不系扣子",
@@ -3635,6 +3707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204486,
+      "num": 365432,
+      "word": "刘宇宁地铁音乐会",
+      "onboard_time": 1733224160,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204229,
       "num": 204229,
       "word": "T1输给越南队",
@@ -3761,6 +3841,14 @@
       "onboard_time": 1733213659,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200933,
+      "num": 200933,
+      "word": "王一博看秀内场入座",
+      "onboard_time": 1733223800,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200440,
@@ -4299,12 +4387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184952,
+      "num": 184952,
+      "word": "美国芯片产品不再可靠安全",
+      "onboard_time": 1733224220,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184901,
       "num": 184901,
       "word": "张真源已经走进沙溢心里四次了",
       "onboard_time": 1733110699,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184719,
+      "num": 184719,
+      "word": "福宝体态外观无异常",
+      "onboard_time": 1733223561,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184642,
@@ -4345,6 +4449,14 @@
       "onboard_time": 1733066359,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183010,
+      "num": 183010,
+      "word": "福宝已完成初步检测",
+      "onboard_time": 1733223561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182844,
@@ -4641,6 +4753,14 @@
       "onboard_time": 1733132178,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171471,
+      "num": 384858,
+      "word": "多行业协会呼吁审慎采购美国芯片",
+      "onboard_time": 1733223620,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171372,
@@ -5241,6 +5361,14 @@
       "onboard_time": 1733065041,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153892,
+      "num": 153892,
+      "word": "莫让蹭跑成为孩子人生的糟糕一课",
+      "onboard_time": 1733222540,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153717,
@@ -6083,14 +6211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130583,
-      "num": 130583,
-      "word": "莫让蹭跑成为孩子人生的糟糕一课",
-      "onboard_time": 1733222540,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130334,
       "num": 130334,
       "word": "彩虹夫妇回应女儿确诊ABO溶血",
@@ -6291,11 +6411,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 124557,
-      "num": 422576,
-      "word": "让女儿蹭跑全马男子被禁赛3年",
-      "onboard_time": 1733222360,
-      "rank": 9,
+      "raw_hot": 125183,
+      "num": 125183,
+      "word": "A股午后直线拉升背后发生什么",
+      "onboard_time": 1733224640,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 125069,
+      "num": 372554,
+      "word": "蹭跑全马女孩父亲发声",
+      "onboard_time": 1733223081,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -6737,6 +6865,14 @@
       "onboard_time": 1733124858,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111174,
+      "num": 344509,
+      "word": "张子枫六块腹肌",
+      "onboard_time": 1733224640,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 110775,
@@ -7833,14 +7969,6 @@
       "onboard_time": 1733058019,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 75489,
-      "num": 161316,
-      "word": "女推 偷拍",
-      "onboard_time": 1733221939,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 75143,
@@ -9339,12 +9467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32592,
+      "num": 125720,
+      "word": "刘雯香奈儿杭州大秀开场",
+      "onboard_time": 1733224699,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 32448,
       "num": 96671,
       "word": "jlpt",
       "onboard_time": 1733039057,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32412,
+      "num": 371880,
+      "word": "香奈儿高级手工坊系列发布会",
+      "onboard_time": 1733224040,
+      "rank": 15,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 32390,
@@ -9473,14 +9617,6 @@
       "onboard_time": 1733159235,
       "rank": 47,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 30837,
-      "num": 307225,
-      "word": "美国队赢了国乒一局开心到飞起",
-      "onboard_time": 1733222360,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 30579,
@@ -9625,6 +9761,14 @@
       "onboard_time": 1733140044,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27409,
+      "num": 372123,
+      "word": "翻新羽绒服到底值不值",
+      "onboard_time": 1733223920,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 27256,
@@ -10598,6 +10742,9 @@
     },
     {
       "word": "#推动高质量共建一带一路走深走实#"
+    },
+    {
+      "word": "#读懂中国需读懂进一步全面深化改革#"
     }
   ]
 }
