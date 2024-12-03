@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733244583078,
+  "endTime": 1733246634664,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -115,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 919950,
+      "num": 919950,
+      "word": "韩前总统文在寅发声",
+      "onboard_time": 1733244319,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 811098,
       "num": 3122100,
       "word": "韩国议长宣布紧急戒严令无效",
@@ -211,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 515654,
+      "num": 5396093,
+      "word": "进入韩国国会主楼的军人全部撤出",
+      "onboard_time": 1733244200,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 493248,
       "num": 493248,
       "word": "韩国总统府周边进入全面管制状态",
@@ -241,6 +257,22 @@
       "onboard_time": 1733226921,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 406584,
+      "num": 311621,
+      "word": "自己吓自己",
+      "onboard_time": 1733245158,
+      "rank": 15,
+      "category": "作品衍生,议题讨论"
+    },
+    {
+      "raw_hot": 406561,
+      "num": 304272,
+      "word": "韩国局势",
+      "onboard_time": 1733244618,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 387782,
@@ -288,6 +320,14 @@
       "word": "在韩中国公民紧急求助电话",
       "onboard_time": 1733240546,
       "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 281323,
+      "num": 4023781,
+      "word": "韩国总统深夜宣布紧急戒严时间线",
+      "onboard_time": 1733244380,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -347,20 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218958,
-      "num": 218958,
-      "word": "韩前总统文在寅发声",
-      "onboard_time": 1733244319,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 176500,
-      "num": 5396093,
-      "word": "进入韩国国会主楼的军人全部撤出",
-      "onboard_time": 1733244200,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 223629,
+      "num": 164503,
+      "word": "南韩汪峰",
+      "onboard_time": 1733246057,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 174500,
@@ -371,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166654,
+      "num": 315985,
+      "word": "李在明要求韩国国会外军警撤退",
+      "onboard_time": 1733245937,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160180,
       "num": 160180,
       "word": "白宫回应韩国总统发布紧急戒严令",
       "onboard_time": 1733240606,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155256,
+      "num": 253083,
+      "word": "大年三十将消失五年",
+      "onboard_time": 1733243662,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142570,
@@ -387,16 +435,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 99619,
-      "num": 253083,
-      "word": "大年三十将消失五年",
-      "onboard_time": 1733243662,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 121307,
+      "num": 121307,
+      "word": "707",
+      "onboard_time": 1733246176,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 104428,
+      "num": 324541,
+      "word": "马斯克千亿美元薪酬梦又被她击碎",
+      "onboard_time": 1733245757,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94487,
-      "num": 214815,
+      "num": 306205,
       "word": "男子转账被限额怒问银行",
       "onboard_time": 1733243003,
       "rank": 48,
@@ -411,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88298,
+      "num": 88298,
+      "word": "苏州一露营者在帐篷内身亡",
+      "onboard_time": 1733238926,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87761,
       "num": 601667,
       "word": "福宝初步检查精神及食欲正常",
       "onboard_time": 1733227938,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81121,
+      "num": 81121,
+      "word": "娜扎经纪人回应有明星相",
+      "onboard_time": 1733235382,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 80128,
@@ -427,6 +499,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74158,
+      "num": 74158,
+      "word": "继承者们",
+      "onboard_time": 1733228600,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67897,
+      "num": 73730,
+      "word": "汪峰",
+      "onboard_time": 1733246116,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63109,
+      "num": 74063,
+      "word": "孙俪女儿甄嬛写真",
+      "onboard_time": 1733223499,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58778,
       "num": 201207,
       "word": "花栗鼠用腮帮子偷走人参红果",
@@ -435,12 +531,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57396,
-      "num": 4023781,
-      "word": "韩国总统深夜宣布紧急戒严时间线",
-      "onboard_time": 1733244380,
-      "rank": 13,
+      "raw_hot": 58719,
+      "num": 73831,
+      "word": "韩国防部官员称将维持戒严法",
+      "onboard_time": 1733246415,
+      "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58647,
+      "num": 73618,
+      "word": "韩国国会可投票推翻总统戒严令",
+      "onboard_time": 1733246235,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 57667,
+      "num": 73510,
+      "word": "19岁机车女网红因车祸去世",
+      "onboard_time": 1733221460,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49551,
+      "num": 73469,
+      "word": "凯特哭着谈泰坦尼克号后直面身材羞辱",
+      "onboard_time": 1733237545,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 46992,
+      "num": 73318,
+      "word": "田嘉瑞晒陈好送的500号魔杖",
+      "onboard_time": 1733239464,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 34586,
@@ -459,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30297,
+      "num": 302747,
+      "word": "王一博画卷大片",
+      "onboard_time": 1733245637,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 26692,
       "num": 5486996,
       "word": "数说一带一路成绩单",
@@ -467,7 +603,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 8930,
+      "raw_hot": 15128,
       "num": 501179,
       "word": "孙颖莎称混团世界杯会全力以赴",
       "onboard_time": 1733244080,
