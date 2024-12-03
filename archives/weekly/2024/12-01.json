@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733190677887,
+  "endTime": 1733192049141,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1205199,
-      "num": 170422,
+      "num": 198637,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
       "onboard_time": 1733186959,
       "rank": 20,
@@ -417,6 +417,14 @@
       "onboard_time": 1733122758,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 946533,
+      "num": 1151445,
+      "word": "黄子韬在领证视频下回复网友",
+      "onboard_time": 1733188638,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 938268,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 693374,
-      "num": 546299,
+      "num": 626382,
       "word": "陈少熙说有喜欢的人了",
       "onboard_time": 1733181915,
       "rank": 3,
@@ -769,6 +777,14 @@
       "onboard_time": 1733127258,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 624433,
+      "num": 624433,
+      "word": "登上黄山才发现水墨画还是保守了",
+      "onboard_time": 1733190317,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 618819,
@@ -1300,7 +1316,7 @@
     },
     {
       "raw_hot": 426209,
-      "num": 369376,
+      "num": 396348,
       "word": "压力给到鹿晗",
       "onboard_time": 1733188638,
       "rank": 6,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1733109557,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 409351,
+      "num": 409351,
+      "word": "身份证拍照小提示",
+      "onboard_time": 1733160133,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 408928,
@@ -1475,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371104,
-      "num": 371104,
-      "word": "身份证拍照小提示",
-      "onboard_time": 1733160133,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 369516,
       "num": 369516,
       "word": "刘浩存掌管高马尾的神",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1733011335,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362045,
-      "num": 362045,
-      "word": "黄子韬在领证视频下回复网友",
-      "onboard_time": 1733188638,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 358963,
@@ -2195,6 +2203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 246748,
+      "num": 246748,
+      "word": "陈都灵的头纱",
+      "onboard_time": 1733187620,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246741,
       "num": 246741,
       "word": "2岁孩子将电池放嘴里咬发生爆炸",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1733140585,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234942,
+      "num": 234942,
+      "word": "mlxg谈Doinb",
+      "onboard_time": 1733190378,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 234312,
@@ -2531,6 +2555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216427,
+      "num": 216427,
+      "word": "张艺谋父女任达华父女 交换舞伴",
+      "onboard_time": 1733191278,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215953,
+      "num": 242408,
+      "word": "搅拌车压扁小轿车驾驶员仅轻伤",
+      "onboard_time": 1733187259,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215368,
       "num": 653268,
       "word": "国乒8比0澳大利亚队",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1733112619,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212122,
+      "num": 197172,
+      "word": "TheShy山西文化旅游推广大使",
+      "onboard_time": 1733189898,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 212087,
@@ -2756,7 +2804,7 @@
     },
     {
       "raw_hot": 204218,
-      "num": 170287,
+      "num": 189196,
       "word": "男子刷视频发现恋爱7年的女友结婚",
       "onboard_time": 1733188758,
       "rank": 23,
@@ -2887,14 +2935,6 @@
       "num": 144556,
       "word": "丁禹兮南部档案上班路透",
       "onboard_time": 1733037977,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 198023,
-      "num": 170186,
-      "word": "陈都灵的头纱",
-      "onboard_time": 1733187620,
       "rank": 25,
       "category": "剧集"
     },
@@ -3300,7 +3340,7 @@
     },
     {
       "raw_hot": 179661,
-      "num": 170179,
+      "num": 176535,
       "word": "双胞胎姐妹同日得知怀孕同日生产",
       "onboard_time": 1733188218,
       "rank": 26,
@@ -3435,6 +3475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 171136,
+      "num": 171136,
+      "word": "27款APP有侵害用户权益行为",
+      "onboard_time": 1733190378,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170904,
       "num": 161931,
       "word": "何秋亊墨宝",
@@ -3468,7 +3516,7 @@
     },
     {
       "raw_hot": 170430,
-      "num": 170430,
+      "num": 173597,
       "word": "蔡徐坤海外封面",
       "onboard_time": 1733190137,
       "rank": 19,
@@ -3505,14 +3553,6 @@
       "onboard_time": 1733115380,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168258,
-      "num": 168258,
-      "word": "TheShy山西文化旅游推广大使",
-      "onboard_time": 1733189898,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 168000,
@@ -3596,7 +3636,7 @@
     },
     {
       "raw_hot": 165195,
-      "num": 165195,
+      "num": 213305,
       "word": "又一股冷空气准备好了",
       "onboard_time": 1733190378,
       "rank": 29,
@@ -3659,14 +3699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161388,
-      "num": 161388,
-      "word": "搅拌车压扁小轿车驾驶员仅轻伤",
-      "onboard_time": 1733187259,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161351,
       "num": 390076,
       "word": "为什么有的人会搞砸每一段关系",
@@ -3723,6 +3755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158897,
+      "num": 167888,
+      "word": "蒲熠星粉丝群",
+      "onboard_time": 1733190677,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158631,
       "num": 158631,
       "word": "12月十二星座注意事项",
@@ -3737,6 +3777,14 @@
       "onboard_time": 1733117960,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157542,
+      "num": 157542,
+      "word": "特朗普警告哈马斯将付出巨大代价",
+      "onboard_time": 1733191518,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157475,
@@ -4099,6 +4147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146730,
+      "num": 170260,
+      "word": "孙颖莎训练一打三",
+      "onboard_time": 1733189419,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146563,
       "num": 146563,
       "word": "鞠婧祎陈都灵曾舜晞田嘉瑞妆造",
@@ -4112,14 +4168,6 @@
       "word": "孙杨 别样又难忘的生日",
       "onboard_time": 1733056158,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 146269,
-      "num": 170260,
-      "word": "孙颖莎训练一打三",
-      "onboard_time": 1733189419,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -4161,14 +4209,6 @@
       "onboard_time": 1733131520,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 145439,
-      "num": 145439,
-      "word": "mlxg谈Doinb",
-      "onboard_time": 1733190378,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 145005,
@@ -4315,14 +4355,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 140438,
-      "num": 140438,
-      "word": "登上黄山才发现水墨画还是保守了",
-      "onboard_time": 1733190317,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 140429,
       "num": 270790,
       "word": "杜兰特和格林较劲",
@@ -4465,14 +4497,6 @@
       "onboard_time": 1733133080,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136760,
-      "num": 136760,
-      "word": "27款APP有侵害用户权益行为",
-      "onboard_time": 1733190378,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 136537,
@@ -5211,6 +5235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112186,
+      "num": 112186,
+      "word": "东北金渐层在冰上打出溜滑",
+      "onboard_time": 1733191518,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111727,
       "num": 111727,
       "word": "6岁才站起的罕见病孩子要研究飞机",
@@ -5451,6 +5483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104156,
+      "num": 104156,
+      "word": "脱口秀演员史野",
+      "onboard_time": 1733191818,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103503,
       "num": 273780,
       "word": "永夜星河到底藏了多少好东西",
@@ -5563,6 +5603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99840,
+      "num": 99840,
+      "word": "郑旗窃听关宏峰",
+      "onboard_time": 1733191337,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99610,
       "num": 402182,
       "word": "汪顺现身海洋奇缘2首映礼",
@@ -5665,6 +5713,14 @@
       "onboard_time": 1733150062,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 97082,
+      "num": 192177,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1733191158,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 96871,
@@ -5817,6 +5873,14 @@
       "onboard_time": 1733051840,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90915,
+      "num": 90915,
+      "word": "30岁女生在英国1磅的早午饭",
+      "onboard_time": 1733191397,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 90711,
