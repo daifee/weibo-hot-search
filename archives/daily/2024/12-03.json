@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733208502366,
+  "endTime": 1733210742601,
   "band_list": [
     {
       "raw_hot": 3251986,
@@ -123,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 866934,
+      "num": 866934,
+      "word": "孙颖莎回应莎头组合是否出战混双",
+      "onboard_time": 1733207361,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 851173,
       "num": 851173,
       "word": "张大大和明星谈过恋爱",
       "onboard_time": 1733202860,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760506,
+      "num": 760506,
+      "word": "黄圣依家世",
+      "onboard_time": 1733207480,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 756026,
@@ -171,11 +187,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671695,
+      "num": 671695,
+      "word": "工资被折换购物卡还限额使用",
+      "onboard_time": 1733206639,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 642410,
       "num": 915788,
       "word": "215元存银行19年只剩8元",
       "onboard_time": 1733200281,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 637868,
+      "num": 637868,
+      "word": "福宝将进行全面检查",
+      "onboard_time": 1733206580,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -299,14 +331,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 478701,
-      "num": 594040,
-      "word": "福宝将进行全面检查",
-      "onboard_time": 1733206580,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 457858,
       "num": 418693,
       "word": "善解人意的麦琳和没钱的杨子",
@@ -355,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420388,
+      "num": 420388,
+      "word": "警方介入华中农大一学生被指虐猫",
+      "onboard_time": 1733205980,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409351,
       "num": 409351,
       "word": "身份证拍照小提示",
@@ -379,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371510,
-      "num": 307711,
-      "word": "黄圣依家世",
-      "onboard_time": 1733207480,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 395294,
+      "num": 395294,
+      "word": "北大父亲为60分儿子崩溃怒刷心理学",
+      "onboard_time": 1733207600,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 370040,
@@ -433,14 +465,6 @@
       "onboard_time": 1733184258,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 349505,
-      "num": 349505,
-      "word": "孙颖莎回应莎头组合是否出战混双",
-      "onboard_time": 1733207361,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 341613,
@@ -507,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273960,
+      "num": 230176,
+      "word": "女生一觉醒来发现自己成素描考题",
+      "onboard_time": 1733209160,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266851,
       "num": 266851,
       "word": "快乐再出发制片人报销并提供门票",
@@ -529,14 +561,6 @@
       "onboard_time": 1733184258,
       "rank": 14,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 259903,
-      "num": 259903,
-      "word": "北大父亲为60分儿子崩溃怒刷心理学",
-      "onboard_time": 1733207600,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 258587,
@@ -635,20 +659,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 232461,
-      "num": 463457,
-      "word": "工资被折换购物卡还限额使用",
-      "onboard_time": 1733206639,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231673,
       "num": 231673,
       "word": "川航通报因旅客的充电宝冒烟备降桂林",
       "onboard_time": 1733165171,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230773,
+      "num": 230773,
+      "word": "国乒回应8比1战胜美国队",
+      "onboard_time": 1733208680,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 227087,
@@ -769,6 +793,14 @@
       "onboard_time": 1733200942,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205997,
+      "num": 205997,
+      "word": "于正官宣吉天照女主",
+      "onboard_time": 1733208680,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 204620,
@@ -931,20 +963,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181691,
+      "num": 181691,
+      "word": "黄子韬 callme",
+      "onboard_time": 1733209219,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181681,
       "num": 181681,
       "word": "美一女子急诊刚醒护士就来结账",
       "onboard_time": 1733150002,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 181134,
-      "num": 181134,
-      "word": "警方介入华中农大一学生被指虐猫",
-      "onboard_time": 1733205980,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180648,
@@ -1003,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172183,
+      "num": 172183,
+      "word": "KPL",
+      "onboard_time": 1733209759,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172136,
       "num": 601928,
       "word": "让6岁女儿蹭跑全马是励志还是无知",
@@ -1035,12 +1075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167526,
+      "num": 167526,
+      "word": "崩坏星穹铁道 星期日",
+      "onboard_time": 1733210420,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166460,
       "num": 166460,
       "word": "SnackPaper 丁禹兮",
       "onboard_time": 1733197940,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165663,
+      "num": 165663,
+      "word": "王楚钦又遇到不给球的了",
+      "onboard_time": 1733209579,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 165434,
@@ -1091,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159048,
+      "num": 159048,
+      "word": "研究表明艾滋病毒可潜伏于大脑",
+      "onboard_time": 1733208259,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158418,
       "num": 158418,
       "word": "2024年挑战者杯定妆照",
@@ -1099,12 +1163,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154242,
-      "num": 154242,
-      "word": "研究表明艾滋病毒可潜伏于大脑",
-      "onboard_time": 1733208259,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 157072,
+      "num": 175479,
+      "word": "曝王宝强公司疑涉合同欺诈",
+      "onboard_time": 1733210539,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 150521,
@@ -1121,6 +1185,14 @@
       "onboard_time": 1733189419,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146539,
+      "num": 146539,
+      "word": "吴泽林 爸爸妈妈这就是月底的我",
+      "onboard_time": 1733210599,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 146241,
@@ -1188,10 +1260,18 @@
     },
     {
       "raw_hot": 141916,
-      "num": 141916,
+      "num": 305400,
       "word": "母亲带女儿住在无水无电的烂尾楼里",
       "onboard_time": 1733204420,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "农村土地承包经营权不能作为遗产继承",
+      "onboard_time": 1733209280,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1235,6 +1315,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132538,
+      "num": 256444,
+      "word": "章若楠直播",
+      "onboard_time": 1733207960,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 132206,
+      "num": 132206,
+      "word": "孙颖莎说我有一个令人自豪的身份",
+      "onboard_time": 1733210180,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127377,
       "num": 97381,
       "word": "鹭卓许愿油渍不再溅到白色套装",
@@ -1243,12 +1339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124502,
+      "num": 124502,
+      "word": "檀健次演唱会售罄",
+      "onboard_time": 1733210658,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122457,
       "num": 122457,
       "word": "归国四子",
       "onboard_time": 1733140947,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120840,
+      "num": 120840,
+      "word": "孙颖莎称是否出战混双会服从安排",
+      "onboard_time": 1733209879,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118812,
@@ -1369,6 +1481,14 @@
       "onboard_time": 1733144725,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101365,
+      "num": 580176,
+      "word": "豪士面包制作过程将对外直播",
+      "onboard_time": 1733210240,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100674,
@@ -2043,14 +2163,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 30803,
-      "num": 256444,
-      "word": "章若楠直播",
-      "onboard_time": 1733207960,
-      "rank": 29,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 30579,
       "num": 30579,
       "word": "不讨好的勇气",
@@ -2073,6 +2185,14 @@
       "onboard_time": 1733160074,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30349,
+      "num": 120902,
+      "word": "烤匠代言人全靠野生",
+      "onboard_time": 1733210721,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29631,
@@ -2129,6 +2249,14 @@
       "onboard_time": 1733163132,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25144,
+      "num": 124831,
+      "word": "陈伟霆的看秀衣服是自己选的",
+      "onboard_time": 1733210658,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 24489,
@@ -2321,6 +2449,14 @@
       "onboard_time": 1733104757,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 9806,
+      "num": 308262,
+      "word": "男子一人扮3角骗了好友近45万",
+      "onboard_time": 1733210539,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8318,
