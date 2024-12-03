@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733197863509,
+  "endTime": 1733200163771,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -41,6 +41,14 @@
       "onboard_time": 1733101518,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2792978,
+      "num": 2792978,
+      "word": "豪士面包老板哭了",
+      "onboard_time": 1733198060,
+      "rank": 0,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2522705,
@@ -171,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1391196,
+      "num": 535424,
+      "word": "男子刷视频发现妻子正举办婚礼",
+      "onboard_time": 1733196378,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1390934,
       "num": 1390934,
       "word": "尾号888888手机号被法拍42万成交",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 1205199,
-      "num": 308385,
+      "num": 319488,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
       "onboard_time": 1733186959,
       "rank": 20,
@@ -337,6 +353,14 @@
       "onboard_time": 1732976960,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1074179,
+      "num": 356109,
+      "word": "黄圣依是巨力影视传媒执行总裁",
+      "onboard_time": 1733198240,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073770,
@@ -633,6 +657,14 @@
       "onboard_time": 1733104278,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 724095,
+      "num": 724095,
+      "word": "代号鸢玩麦琳梗",
+      "onboard_time": 1733197640,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 723804,
@@ -1115,6 +1147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 486924,
+      "num": 374485,
+      "word": "抖音副总裁回应算法争议",
+      "onboard_time": 1733197219,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 485842,
       "num": 485842,
       "word": "鞠婧祎月鳞绮纪出妆",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1733014936,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 445693,
+      "num": 445693,
+      "word": "王一博自己吓自己",
+      "onboard_time": 1733199201,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 444464,
@@ -1475,6 +1523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 404563,
+      "num": 404563,
+      "word": "MINNIE确定solo出道",
+      "onboard_time": 1733197399,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 401177,
       "num": 337713,
       "word": "张艺谋父女任达华父女 交换舞伴",
@@ -1561,14 +1617,6 @@
       "onboard_time": 1733130858,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 375508,
-      "num": 375508,
-      "word": "男子刷视频发现妻子正举办婚礼",
-      "onboard_time": 1733196378,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 374478,
@@ -1915,6 +1963,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 299189,
+      "num": 423925,
+      "word": "专家建议不要过于苛责00后",
+      "onboard_time": 1733199141,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295925,
       "num": 295925,
       "word": "李行亮团队婉拒采访",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1732970359,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293502,
+      "num": 293502,
+      "word": "韩国月子中心的月子餐",
+      "onboard_time": 1733199921,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 293222,
@@ -2195,6 +2259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 258435,
+      "num": 368058,
+      "word": "孙颖莎vs杰西卡",
+      "onboard_time": 1733199021,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257016,
       "num": 340345,
       "word": "研究证明有饥饿感会启动长寿基因",
@@ -2275,6 +2347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251793,
+      "num": 251793,
+      "word": "千万不要错把艾滋当皮肤病",
+      "onboard_time": 1733199921,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 250948,
       "num": 208437,
       "word": "范丞丞希望粉丝对工作室嘴下留情",
@@ -2283,11 +2363,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250151,
+      "num": 302044,
+      "word": "詹姆斯10分",
+      "onboard_time": 1733198840,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249719,
       "num": 249719,
       "word": "朱志鑫剪头发",
       "onboard_time": 1733065100,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247382,
+      "num": 316265,
+      "word": "郑秀晶去上海了",
+      "onboard_time": 1733197760,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -2441,6 +2537,14 @@
       "onboard_time": 1733130740,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 233482,
+      "num": 233482,
+      "word": "邓超看女儿甄嬛照说小主吉祥",
+      "onboard_time": 1733198480,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 232914,
@@ -2763,6 +2867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211390,
+      "num": 211390,
+      "word": "HR又来催我们休年假了",
+      "onboard_time": 1733199921,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210708,
       "num": 228111,
       "word": "王源丁程鑫好六上班",
@@ -2817,6 +2929,14 @@
       "onboard_time": 1733144665,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208844,
+      "num": 377037,
+      "word": "鹿晗关晓彤被催婚第15次上热搜",
+      "onboard_time": 1733197640,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 208716,
@@ -3011,14 +3131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202642,
-      "num": 202642,
-      "word": "代号鸢玩麦琳梗",
-      "onboard_time": 1733197640,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 202422,
       "num": 284086,
       "word": "国考常识",
@@ -3179,14 +3291,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 195279,
-      "num": 195279,
-      "word": "MINNIE确定solo出道",
-      "onboard_time": 1733197399,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 194939,
       "num": 194939,
       "word": "司机作弊欺骗智驾系统在高速睡觉",
@@ -3209,6 +3313,14 @@
       "onboard_time": 1733122817,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192889,
+      "num": 192889,
+      "word": "小时播音台",
+      "onboard_time": 1733199981,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 192792,
@@ -3384,6 +3496,14 @@
       "word": "四川电信直播",
       "onboard_time": 1733019798,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186980,
+      "num": 223339,
+      "word": "国乒vs美国",
+      "onboard_time": 1733196919,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -3595,6 +3715,22 @@
       "category": "民生新闻,正能量"
     },
     {
+      "raw_hot": 175899,
+      "num": 231307,
+      "word": "无限暖暖",
+      "onboard_time": 1733038818,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 175733,
+      "num": 297898,
+      "word": "陆定昊否认霸凌陈立农",
+      "onboard_time": 1733199621,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175634,
       "num": 175634,
       "word": "妻子与他人结婚还让丈夫出婚房钱",
@@ -3795,6 +3931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166460,
+      "num": 166460,
+      "word": "SnackPaper 丁禹兮",
+      "onboard_time": 1733197940,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166202,
       "num": 271424,
       "word": "王一博北京飞杭州",
@@ -3913,6 +4057,14 @@
       "onboard_time": 1732973179,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161510,
+      "num": 161510,
+      "word": "崔永熙NBA首个运动战进球",
+      "onboard_time": 1733199742,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 161450,
@@ -4219,14 +4371,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 151556,
-      "num": 151556,
-      "word": "郑秀晶去上海了",
-      "onboard_time": 1733197760,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151134,
       "num": 135560,
       "word": "丁禹兮海上唱重塑",
@@ -4433,14 +4577,6 @@
       "onboard_time": 1733132359,
       "rank": 40,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 145790,
-      "num": 231307,
-      "word": "无限暖暖",
-      "onboard_time": 1733038818,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 145510,
@@ -5739,6 +5875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104537,
+      "num": 280191,
+      "word": "孟子义李昀锐新剧吻戏",
+      "onboard_time": 1733200040,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104429,
       "num": 104429,
       "word": "SK卡卡",
@@ -6291,14 +6435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83203,
-      "num": 223339,
-      "word": "国乒vs美国",
-      "onboard_time": 1733196919,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82605,
       "num": 248148,
       "word": "白夜破晓评论区炸蚂蚱",
@@ -6675,14 +6811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65652,
-      "num": 377037,
-      "word": "鹿晗关晓彤被催婚第15次上热搜",
-      "onboard_time": 1733197640,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65536,
       "num": 198064,
       "word": "傅首尔回应社交账号几乎停更",
@@ -6729,6 +6857,14 @@
       "onboard_time": 1733138479,
       "rank": 19,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 63733,
+      "num": 189652,
+      "word": "因果报应 脸盲",
+      "onboard_time": 1733199801,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 63634,
@@ -6952,6 +7088,14 @@
       "word": "券商多位前高管违规入股被罚百万",
       "onboard_time": 1733113580,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57010,
+      "num": 382172,
+      "word": "律师谈女儿蹭跑全马举办方不担责",
+      "onboard_time": 1733199380,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -7347,12 +7491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41630,
+      "num": 322004,
+      "word": "2024哥谭奖",
+      "onboard_time": 1733197518,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41197,
       "num": 304145,
       "word": "刘雯演绎七套香奈儿高级手工坊",
       "onboard_time": 1733129120,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40732,
+      "num": 293737,
+      "word": "林诗栋vs希德",
+      "onboard_time": 1733199441,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 40528,
@@ -7875,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27942,
+      "num": 188881,
+      "word": "杭州的桂花到底有多香",
+      "onboard_time": 1733198421,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27533,
       "num": 124560,
       "word": "眼科专家揭秘手机屏幕护眼能力真相",
@@ -8107,20 +8275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22803,
+      "num": 293578,
+      "word": "情感导师陆琪谈麦李婚姻问题",
+      "onboard_time": 1733198600,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22510,
       "num": 403769,
       "word": "观众看旅行真人秀看的是什么",
       "onboard_time": 1733142086,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22004,
-      "num": 195360,
-      "word": "2024哥谭奖",
-      "onboard_time": 1733197518,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 21750,
