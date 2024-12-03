@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733201050609,
+  "endTime": 1733203427649,
   "band_list": [
     {
       "raw_hot": 3251986,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1660737,
-      "num": 535614,
+      "num": 598349,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1602702,
-      "num": 698694,
+      "num": 915758,
       "word": "男子刷视频发现妻子正举办婚礼",
       "onboard_time": 1733196378,
       "rank": 15,
@@ -91,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 926196,
+      "num": 926196,
+      "word": "鹿晗关晓彤被催婚第15次上热搜",
+      "onboard_time": 1733197640,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 899246,
       "num": 899246,
       "word": "陈少熙直播",
       "onboard_time": 1733151742,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 756026,
+      "num": 756026,
+      "word": "专家建议不要过于苛责00后",
+      "onboard_time": 1733199141,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 724095,
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634845,
+      "num": 915788,
+      "word": "215元存银行19年只剩8元",
+      "onboard_time": 1733200281,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631644,
       "num": 631644,
       "word": "10年交了23万保险费取钱还要等60年",
@@ -147,19 +171,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 621504,
-      "num": 621504,
-      "word": "专家建议不要过于苛责00后",
-      "onboard_time": 1733199141,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 612479,
       "num": 612479,
       "word": "黄子韬说徐艺洋拍结婚照没洗头",
       "onboard_time": 1733144785,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 611312,
+      "num": 611312,
+      "word": "王一博今天微博直播",
+      "onboard_time": 1733200281,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -171,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597663,
+      "num": 597663,
+      "word": "陆定昊否认霸凌陈立农",
+      "onboard_time": 1733199621,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574959,
       "num": 574959,
       "word": "鹿晗点赞黄子韬结婚博",
@@ -179,19 +211,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537060,
-      "num": 537060,
+      "raw_hot": 544653,
+      "num": 544653,
       "word": "王一博自己吓自己",
       "onboard_time": 1733199201,
       "rank": 7,
       "category": "艺人"
     },
     {
-      "raw_hot": 533330,
-      "num": 533330,
-      "word": "陆定昊否认霸凌陈立农",
-      "onboard_time": 1733199621,
-      "rank": 25,
+      "raw_hot": 537023,
+      "num": 537023,
+      "word": "黄子佼被判有期徒刑8个月",
+      "onboard_time": 1733200581,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 519174,
+      "num": 519174,
+      "word": "于正内涵伪大女主",
+      "onboard_time": 1733200342,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -211,12 +251,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 457858,
+      "num": 418693,
+      "word": "善解人意的麦琳和没钱的杨子",
+      "onboard_time": 1733200221,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451317,
       "num": 451317,
       "word": "汇率",
       "onboard_time": 1733195120,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 449221,
+      "num": 449221,
+      "word": "韩国月子中心的月子餐",
+      "onboard_time": 1733199921,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 444464,
@@ -243,28 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423918,
-      "num": 423918,
-      "word": "鹿晗关晓彤被催婚第15次上热搜",
-      "onboard_time": 1733197640,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409351,
       "num": 409351,
       "word": "身份证拍照小提示",
       "onboard_time": 1733160133,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 406054,
-      "num": 406054,
-      "word": "韩国月子中心的月子餐",
-      "onboard_time": 1733199921,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 404563,
@@ -307,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358234,
-      "num": 418693,
-      "word": "善解人意的麦琳和没钱的杨子",
-      "onboard_time": 1733200221,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356170,
       "num": 356170,
       "word": "新音 时代少年团",
@@ -339,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316586,
+      "num": 289822,
+      "word": "HR又来催我们休年假了",
+      "onboard_time": 1733199921,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310775,
       "num": 354607,
       "word": "中国向联合国交存黄岩岛领海基线声明",
@@ -347,11 +387,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 306302,
-      "num": 306302,
-      "word": "于正内涵伪大女主",
-      "onboard_time": 1733200342,
-      "rank": 28,
+      "raw_hot": 304132,
+      "num": 304132,
+      "word": "宋慧乔 痛苦只是流经我",
+      "onboard_time": 1733202621,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -363,12 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278258,
-      "num": 278258,
-      "word": "215元存银行19年只剩8元",
-      "onboard_time": 1733200281,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 292747,
+      "num": 292747,
+      "word": "王楚然留洋白月光即视感",
+      "onboard_time": 1733201300,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289091,
+      "num": 289091,
+      "word": "张大大和明星谈过恋爱",
+      "onboard_time": 1733202860,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 278204,
@@ -377,14 +425,6 @@
       "onboard_time": 1733199921,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 275099,
-      "num": 275099,
-      "word": "HR又来催我们休年假了",
-      "onboard_time": 1733199921,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 266851,
@@ -571,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215798,
+      "num": 215798,
+      "word": "丁程鑫毕业大戏汇报演出",
+      "onboard_time": 1733202561,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215121,
       "num": 215121,
       "word": "珠帘玉幕11月全网播放冠军",
@@ -595,11 +643,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208507,
-      "num": 415403,
-      "word": "王一博今天微博直播",
-      "onboard_time": 1733200281,
-      "rank": 22,
+      "raw_hot": 205404,
+      "num": 205404,
+      "word": "自己吓自己",
+      "onboard_time": 1733202981,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -611,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203275,
+      "num": 203275,
+      "word": "阴阳师",
+      "onboard_time": 1733201300,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201150,
       "num": 201150,
       "word": "小时播音台",
       "onboard_time": 1733199981,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197872,
+      "num": 197872,
+      "word": "丁禹兮 比音勒芬",
+      "onboard_time": 1733202800,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 197787,
@@ -633,6 +697,22 @@
       "onboard_time": 1733195958,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194183,
+      "num": 192537,
+      "word": "贺峻霖连续两年获得中传奖学金",
+      "onboard_time": 1733203041,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193521,
+      "num": 193521,
+      "word": "时代少年团对接喊话时代峰峻",
+      "onboard_time": 1733202442,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 190043,
@@ -691,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185865,
+      "num": 433797,
+      "word": "昆明女子拒绝老板潜规则次日被辞退",
+      "onboard_time": 1733200821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185696,
       "num": 185696,
       "word": "丁禹兮美拉德look",
@@ -699,12 +787,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184471,
+      "num": 305026,
+      "word": "无限暖暖预下载",
+      "onboard_time": 1733203280,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181681,
       "num": 181681,
       "word": "美一女子急诊刚醒护士就来结账",
       "onboard_time": 1733150002,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 180648,
+      "num": 446353,
+      "word": "黄景瑜秒猜白敬亭",
+      "onboard_time": 1733200821,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 179685,
@@ -795,6 +899,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 164732,
+      "num": 227903,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1733203120,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163104,
       "num": 235619,
       "word": "小花cos甄嬛造型",
@@ -825,6 +937,14 @@
       "onboard_time": 1733193919,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145919,
+      "num": 313705,
+      "word": "狮子王",
+      "onboard_time": 1733202381,
+      "rank": 18,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 144625,
@@ -907,14 +1027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 129248,
-      "num": 534150,
-      "word": "黄子佼被判有期徒刑8个月",
-      "onboard_time": 1733200581,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127377,
       "num": 97381,
       "word": "鹭卓许愿油渍不再溅到白色套装",
@@ -947,6 +1059,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 116102,
+      "num": 601928,
+      "word": "让6岁女儿蹭跑全马是励志还是无知",
+      "onboard_time": 1733202500,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116080,
       "num": 116080,
       "word": "我是刑警第3个恶性大案",
@@ -955,20 +1075,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115554,
-      "num": 433797,
-      "word": "昆明女子拒绝老板潜规则次日被辞退",
-      "onboard_time": 1733200821,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113556,
       "num": 299960,
       "word": "甄子丹张智霖吴镇宇新片尺度",
       "onboard_time": 1733195359,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112898,
+      "num": 224522,
+      "word": "女子推理社",
+      "onboard_time": 1733202020,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 111722,
@@ -1155,6 +1275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83492,
+      "num": 290039,
+      "word": "田曦薇上班制服look",
+      "onboard_time": 1733202800,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82590,
       "num": 82590,
       "word": "男子39.9元网购平板电脑到货变耳机",
@@ -1163,12 +1291,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81700,
+      "num": 296236,
+      "word": "国乒8比1美国",
+      "onboard_time": 1733202561,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80474,
       "num": 80474,
       "word": "贺峻霖顺毛vs爆炸头",
       "onboard_time": 1733153181,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79913,
+      "num": 298504,
+      "word": "林诗栋2比1希德",
+      "onboard_time": 1733202621,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78824,
+      "num": 598751,
+      "word": "孙颖莎光速获胜",
+      "onboard_time": 1733201242,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 77310,
@@ -1323,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61198,
+      "num": 294797,
+      "word": "田曦薇笑颜vs冷脸",
+      "onboard_time": 1733203400,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57370,
       "num": 57370,
       "word": "也门胡塞武装宣布袭击了美军舰",
@@ -1372,7 +1532,7 @@
     },
     {
       "raw_hot": 54076,
-      "num": 789818,
+      "num": 917999,
       "word": "国产大型储卸油平台成功出口",
       "onboard_time": 1733194098,
       "rank": 2,
@@ -1385,6 +1545,14 @@
       "onboard_time": 1733178912,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53511,
+      "num": 303703,
+      "word": "国乒混团三连胜",
+      "onboard_time": 1733202800,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 53102,
@@ -1515,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31377,
+      "num": 348051,
+      "word": "同基金经理不同产品业绩差距竟达50%",
+      "onboard_time": 1733202141,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31307,
       "num": 49285,
       "word": "2025年度个税专项附加扣除信息确认",
@@ -1571,14 +1747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28973,
-      "num": 446353,
-      "word": "黄景瑜秒猜白敬亭",
-      "onboard_time": 1733200821,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28707,
       "num": 61028,
       "word": "VOGUE年度运动员大片",
@@ -1617,6 +1785,14 @@
       "onboard_time": 1733175071,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 24252,
+      "num": 220354,
+      "word": "单依纯说不出意外月底有新歌",
+      "onboard_time": 1733200821,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 23321,
@@ -1787,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8047,
-      "num": 220354,
-      "word": "单依纯说不出意外月底有新歌",
-      "onboard_time": 1733200821,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 6442,
       "num": 20125,
       "word": "苏新皓橙色的小苏大放送",
@@ -1833,6 +2001,9 @@
     },
     {
       "word": "#全面推动共建一带一路高质量发展#"
+    },
+    {
+      "word": "#一带一路建设工作座谈会#"
     }
   ]
 }
