@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733221642566,
+  "endTime": 1733222725896,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -523,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 935155,
+      "num": 1149624,
+      "word": "刘雯开场",
+      "onboard_time": 1733220260,
+      "rank": 11,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 930572,
       "num": 875594,
       "word": "杭州夫妻两人染色体竟相同",
@@ -755,6 +763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 745773,
+      "num": 745773,
+      "word": "周芯竹体面",
+      "onboard_time": 1733221039,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736414,
       "num": 537023,
       "word": "黄子佼被判有期徒刑8个月",
@@ -769,6 +785,14 @@
       "onboard_time": 1733049499,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 730330,
+      "num": 730330,
+      "word": "19岁机车女网红因车祸去世",
+      "onboard_time": 1733221460,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 727357,
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 536086,
-      "num": 419224,
+      "num": 421278,
       "word": "周密式聊天",
       "onboard_time": 1733219300,
       "rank": 10,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1733125098,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484390,
+      "num": 484390,
+      "word": "卢昱晓香奈儿大秀造型",
+      "onboard_time": 1733221580,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 481173,
@@ -1563,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453744,
+      "num": 453744,
+      "word": "福宝今年曾进入假孕状态",
+      "onboard_time": 1733219179,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453606,
       "num": 453606,
       "word": "TREASURE将换队长",
@@ -1617,14 +1657,6 @@
       "onboard_time": 1733195239,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 444175,
-      "num": 418552,
-      "word": "刘雯开场",
-      "onboard_time": 1733220260,
-      "rank": 11,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 443237,
@@ -1692,7 +1724,7 @@
     },
     {
       "raw_hot": 431192,
-      "num": 431192,
+      "num": 432328,
       "word": "中国大熊猫研究中心回应福宝发抖",
       "onboard_time": 1733218280,
       "rank": 17,
@@ -2083,6 +2115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351549,
+      "num": 351549,
+      "word": "连云港",
+      "onboard_time": 1733218219,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349727,
       "num": 349727,
       "word": "冯绍峰直播回家的诱惑",
@@ -2177,14 +2217,6 @@
       "onboard_time": 1733116878,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 332028,
-      "num": 332028,
-      "word": "福宝今年曾进入假孕状态",
-      "onboard_time": 1733219179,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 328751,
@@ -2283,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312143,
-      "num": 417939,
-      "word": "周芯竹体面",
-      "onboard_time": 1733221039,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310775,
       "num": 354607,
       "word": "中国向联合国交存黄岩岛领海基线声明",
@@ -2371,14 +2395,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 299374,
-      "num": 299374,
-      "word": "连云港",
-      "onboard_time": 1733218219,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296120,
       "num": 296120,
       "word": "女生一觉醒来发现自己成素描考题",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1733067319,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295133,
+      "num": 295133,
+      "word": "周芯竹谈与周密分手",
+      "onboard_time": 1733221819,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 294544,
@@ -2587,6 +2611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270696,
+      "num": 270696,
+      "word": "金高银辛芷蕾同框",
+      "onboard_time": 1733220560,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270392,
       "num": 270392,
       "word": "于正官宣吉天照女主",
@@ -2681,6 +2713,14 @@
       "onboard_time": 1733184258,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 262626,
+      "num": 419665,
+      "word": "中方就美更新半导体出口管制提出严正交涉",
+      "onboard_time": 1733220199,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 260580,
@@ -2841,6 +2881,14 @@
       "onboard_time": 1733136918,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246054,
+      "num": 246054,
+      "word": "崩坏星穹铁道 抄袭",
+      "onboard_time": 1733221280,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 244637,
@@ -3025,14 +3073,6 @@
       "onboard_time": 1733165171,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230812,
-      "num": 419665,
-      "word": "中方就美更新半导体出口管制提出严正交涉",
-      "onboard_time": 1733220199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 230773,
@@ -3417,14 +3457,6 @@
       "onboard_time": 1733043859,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210310,
-      "num": 210310,
-      "word": "金高银辛芷蕾同框",
-      "onboard_time": 1733220560,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209559,
@@ -3915,6 +3947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194721,
+      "num": 194721,
+      "word": "肖战寻觅与现实交汇轨迹",
+      "onboard_time": 1733222120,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194183,
       "num": 192537,
       "word": "贺峻霖连续两年获得中传奖学金",
@@ -3928,6 +3968,14 @@
       "word": "王一博现身香奈儿高级手工坊",
       "onboard_time": 1733122817,
       "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193685,
+      "num": 193685,
+      "word": "王一博秀场直拍",
+      "onboard_time": 1733221939,
+      "rank": 39,
       "category": "作品衍生,时尚"
     },
     {
@@ -4115,14 +4163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188282,
-      "num": 188282,
-      "word": "崩坏星穹铁道 抄袭",
-      "onboard_time": 1733221280,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188194,
       "num": 274201,
       "word": "崩坏星穹铁道 星期日",
@@ -4299,14 +4339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183646,
-      "num": 183646,
-      "word": "19岁机车女网红因车祸去世",
-      "onboard_time": 1733221460,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183440,
       "num": 183440,
       "word": "白桃星座",
@@ -4473,6 +4505,14 @@
       "onboard_time": 1733026338,
       "rank": 9,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 175840,
+      "num": 175840,
+      "word": "呼吁国内企业审慎选择采购美国芯片",
+      "onboard_time": 1733221879,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175634,
@@ -5081,14 +5121,6 @@
       "onboard_time": 1733065341,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 156452,
-      "num": 156452,
-      "word": "卢昱晓香奈儿大秀造型",
-      "onboard_time": 1733221580,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156363,
@@ -5979,6 +6011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132711,
+      "num": 132711,
+      "word": "Meiko复刻厂长名场面",
+      "onboard_time": 1733222360,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132538,
       "num": 256444,
       "word": "章若楠直播",
@@ -6041,6 +6081,14 @@
       "onboard_time": 1732972580,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130583,
+      "num": 130583,
+      "word": "莫让蹭跑成为孩子人生的糟糕一课",
+      "onboard_time": 1733222540,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130334,
@@ -6241,6 +6289,14 @@
       "onboard_time": 1733217501,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124557,
+      "num": 422576,
+      "word": "让女儿蹭跑全马男子被禁赛3年",
+      "onboard_time": 1733222360,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124502,
@@ -6539,6 +6595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116302,
+      "num": 298254,
+      "word": "恋与制作人 汉堡王",
+      "onboard_time": 1733221699,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116080,
       "num": 193549,
       "word": "我是刑警第3个恶性大案",
@@ -6644,7 +6708,7 @@
     },
     {
       "raw_hot": 112137,
-      "num": 208152,
+      "num": 307948,
       "word": "江苏卫视跨年共创节目单",
       "onboard_time": 1733220199,
       "rank": 35,
@@ -7531,6 +7595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81719,
+      "num": 301561,
+      "word": "陈少熙选在生日这天官宣恋情",
+      "onboard_time": 1733222599,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81700,
       "num": 296236,
       "word": "国乒8比1美国",
@@ -7761,6 +7833,14 @@
       "onboard_time": 1733058019,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 75489,
+      "num": 161316,
+      "word": "女推 偷拍",
+      "onboard_time": 1733221939,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 75143,
@@ -8483,6 +8563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53306,
+      "num": 344239,
+      "word": "杭州今天到底有谁在啊",
+      "onboard_time": 1733218338,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 53102,
       "num": 240952,
       "word": "成都混团国乒今战美国",
@@ -8537,6 +8625,14 @@
       "onboard_time": 1733206760,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51897,
+      "num": 410593,
+      "word": "惠英红日照金山直播",
+      "onboard_time": 1733221339,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 51613,
@@ -8729,14 +8825,6 @@
       "onboard_time": 1733214680,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 45495,
-      "num": 344239,
-      "word": "杭州今天到底有谁在啊",
-      "onboard_time": 1733218338,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 45101,
@@ -9139,14 +9227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34989,
-      "num": 410593,
-      "word": "惠英红日照金山直播",
-      "onboard_time": 1733221339,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34977,
       "num": 390325,
       "word": "荣耀300镜头下的虞书欣",
@@ -9395,6 +9475,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 30837,
+      "num": 307225,
+      "word": "美国队赢了国乒一局开心到飞起",
+      "onboard_time": 1733222360,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30579,
       "num": 30579,
       "word": "不讨好的勇气",
@@ -9547,6 +9635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26853,
+      "num": 181925,
+      "word": "井柏然改行做导游了",
+      "onboard_time": 1733218699,
+      "rank": 49,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 26848,
       "num": 248402,
       "word": "杨幂的享界S9怎么开都有面",
@@ -9681,14 +9777,6 @@
       "onboard_time": 1733074514,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25120,
-      "num": 181925,
-      "word": "井柏然改行做导游了",
-      "onboard_time": 1733218699,
-      "rank": 49,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 24984,
@@ -10169,6 +10257,14 @@
       "onboard_time": 1733005572,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13897,
+      "num": 263898,
+      "word": "沈月说转型是件自然而然的事情",
+      "onboard_time": 1733222300,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 13602,
