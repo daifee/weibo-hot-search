@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733225772280,
+  "endTime": 1733229995440,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 4135243,
-      "num": 408019,
+      "num": 2170225,
       "word": "周密向周芯竹道歉",
       "onboard_time": 1733223620,
       "rank": 12,
@@ -65,6 +65,14 @@
       "onboard_time": 1733060119,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2296720,
+      "num": 739732,
+      "word": "香奈儿大秀 死亡打光",
+      "onboard_time": 1733226921,
+      "rank": 3,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 2230797,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 950721,
-      "num": 406923,
+      "num": 723987,
       "word": "乔欣被曝结婚后首现身",
       "onboard_time": 1733224340,
       "rank": 25,
@@ -747,6 +755,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 782690,
+      "num": 782690,
+      "word": "博主男友因滑雪太好被要求出示证明",
+      "onboard_time": 1733225299,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 776694,
       "num": 1116239,
       "word": "骄阳似我开机晚宴",
@@ -937,6 +953,14 @@
       "onboard_time": 1733206639,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667994,
+      "num": 667994,
+      "word": "中国半导体行业协会发声明",
+      "onboard_time": 1733227821,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 664623,
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 593991,
-      "num": 427728,
+      "num": 546849,
       "word": "孙俪女儿甄嬛写真",
       "onboard_time": 1733223499,
       "rank": 6,
@@ -1387,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503037,
+      "num": 503037,
+      "word": "网传再见爱人补录餐厅发声",
+      "onboard_time": 1733226140,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498698,
       "num": 498698,
       "word": "莎头组合合体",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1733113700,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496919,
+      "num": 338007,
+      "word": "继承者们",
+      "onboard_time": 1733228600,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 496714,
@@ -2043,12 +2083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375282,
+      "num": 324816,
+      "word": "感觉章若楠香香的",
+      "onboard_time": 1733226319,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 374478,
       "num": 267097,
       "word": "快乐再出发",
       "onboard_time": 1733033057,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371075,
+      "num": 290490,
+      "word": "刘家昌病逝",
+      "onboard_time": 1733225780,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 371005,
@@ -2113,6 +2169,14 @@
       "onboard_time": 1733154859,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357668,
+      "num": 357668,
+      "word": "网红公司盯上在校大学生",
+      "onboard_time": 1733227160,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 356663,
@@ -3123,6 +3187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233920,
+      "num": 348810,
+      "word": "福宝初步检查精神及食欲正常",
+      "onboard_time": 1733227938,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233644,
       "num": 234052,
       "word": "彩虹夫妇妻子吃回奶药",
@@ -3481,6 +3553,14 @@
       "onboard_time": 1733051179,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214102,
+      "num": 214102,
+      "word": "大熊猫福宝检测后最新画面",
+      "onboard_time": 1733227701,
+      "rank": 16,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 214052,
@@ -3897,6 +3977,14 @@
       "onboard_time": 1733068398,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200368,
+      "num": 173374,
+      "word": "赵今麦宋威龙韩剧氛围感",
+      "onboard_time": 1733228961,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 198894,
@@ -4683,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175589,
+      "num": 175589,
+      "word": "福宝初步检查无异常",
+      "onboard_time": 1733227460,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175554,
       "num": 175554,
       "word": "莫让蹭跑成为孩子人生的糟糕一课",
@@ -4761,6 +4857,14 @@
       "onboard_time": 1733211739,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172924,
+      "num": 172924,
+      "word": "宋雨琦唐九洲男女生温差有实感了",
+      "onboard_time": 1733229921,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 172434,
@@ -4921,6 +5025,14 @@
       "onboard_time": 1733115380,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168578,
+      "num": 168578,
+      "word": "崩坏星穹铁道 阴阳师",
+      "onboard_time": 1733228660,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 168508,
@@ -5257,6 +5369,14 @@
       "onboard_time": 1733113821,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157293,
+      "num": 157293,
+      "word": "谭松韵回成都拍了蜀风照",
+      "onboard_time": 1733226679,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 157175,
@@ -5723,6 +5843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 144811,
+      "num": 144811,
+      "word": "新音",
+      "onboard_time": 1733229921,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144398,
       "num": 270519,
       "word": "叙利亚局势",
@@ -5955,14 +6083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139265,
-      "num": 139265,
-      "word": "博主男友因滑雪太好被要求出示证明",
-      "onboard_time": 1733225299,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138524,
       "num": 272648,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -6067,6 +6187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136207,
+      "num": 136207,
+      "word": "鞠婧祎首次合作郭敬明",
+      "onboard_time": 1733229620,
+      "rank": 47,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 135682,
       "num": 135682,
       "word": "田小娟ins更新",
@@ -6153,6 +6281,14 @@
       "onboard_time": 1733109979,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 133802,
+      "num": 133802,
+      "word": "两癌筛查对女性有多重要",
+      "onboard_time": 1733229019,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133732,
@@ -7867,6 +8003,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80699,
+      "num": 743173,
+      "word": "竟然磕到100岁爷爷奶奶的糖",
+      "onboard_time": 1733215160,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80567,
+      "num": 174517,
+      "word": "孙颖莎说当前目标是打好世界杯",
+      "onboard_time": 1733229140,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80071,
       "num": 325975,
       "word": "申论素材",
@@ -8001,6 +8153,14 @@
       "onboard_time": 1733021118,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77406,
+      "num": 149154,
+      "word": "马龙笑得比奶茶还甜",
+      "onboard_time": 1733229681,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 77062,
@@ -9011,6 +9171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46399,
+      "num": 175532,
+      "word": "王一博直播两分钟228万观看",
+      "onboard_time": 1733227641,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 46025,
       "num": 228037,
       "word": "极氪终身质保电池可免费换",
@@ -9097,6 +9265,14 @@
       "onboard_time": 1733213179,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43814,
+      "num": 309470,
+      "word": "华中农大回应虐猫事件调查结果",
+      "onboard_time": 1733229321,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43666,
@@ -9427,6 +9603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35299,
+      "num": 175423,
+      "word": "杭州文旅回应霉霉有望开演唱会",
+      "onboard_time": 1733229681,
+      "rank": 19,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 35185,
       "num": 178492,
       "word": "信阳开套牌车打人副镇长被拘留罚款",
@@ -9515,6 +9699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33221,
+      "num": 405469,
+      "word": "香奈儿高级手工坊系列发布会",
+      "onboard_time": 1733224040,
+      "rank": 15,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 33077,
       "num": 191936,
       "word": "荣耀300虚化效果比肩单反相机",
@@ -9548,7 +9740,7 @@
     },
     {
       "raw_hot": 32592,
-      "num": 125720,
+      "num": 161326,
       "word": "刘雯香奈儿杭州大秀开场",
       "onboard_time": 1733224699,
       "rank": 46,
@@ -9561,14 +9753,6 @@
       "onboard_time": 1733039057,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32412,
-      "num": 405469,
-      "word": "香奈儿高级手工坊系列发布会",
-      "onboard_time": 1733224040,
-      "rank": 15,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 32390,
@@ -9817,6 +10001,14 @@
       "onboard_time": 1733167090,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27979,
+      "num": 302262,
+      "word": "香奈儿高级手工坊",
+      "onboard_time": 1733227460,
+      "rank": 13,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 27746,
@@ -10097,6 +10289,14 @@
       "onboard_time": 1733146403,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22988,
+      "num": 173844,
+      "word": "香奈儿配西湖美景",
+      "onboard_time": 1733229199,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 22803,
@@ -10753,6 +10953,14 @@
       "onboard_time": 1733001670,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6007,
+      "num": 131209,
+      "word": "西湖倒影中的香奈儿",
+      "onboard_time": 1733229980,
+      "rank": 49,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 5863,
