@@ -1,0 +1,410 @@
+{
+  "runTime": 1733225772280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 759325,
+        "num": 1121492,
+        "word": "刘雯开场",
+        "onboard_time": 1733220260,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 474453,
+        "num": 474453,
+        "word": "让女儿蹭跑全马男子被禁赛3年",
+        "onboard_time": 1733222360,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38592,
+        "num": 432170,
+        "word": "宪法点亮生活",
+        "onboard_time": 1733214680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593991,
+        "num": 427728,
+        "word": "孙俪女儿甄嬛写真",
+        "onboard_time": 1733223499,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421199,
+        "num": 421199,
+        "word": "卢昱晓 小香千金",
+        "onboard_time": 1733222719,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1431397,
+        "num": 420049,
+        "word": "19岁机车女网红因车祸去世",
+        "onboard_time": 1733221460,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430417,
+        "num": 416930,
+        "word": "博主灰太狼因胃癌英年早逝",
+        "onboard_time": 1733210900,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411102,
+        "num": 411102,
+        "word": "王一博像在走秀",
+        "onboard_time": 1733225000,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176300,
+        "num": 410438,
+        "word": "多行业协会呼吁审慎采购美国芯片",
+        "onboard_time": 1733223620,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222253,
+        "num": 408419,
+        "word": "中国大熊猫研究中心回应福宝发抖",
+        "onboard_time": 1733218280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3997843,
+        "num": 408019,
+        "word": "周密向周芯竹道歉",
+        "onboard_time": 1733223620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950721,
+        "num": 406923,
+        "word": "乔欣被曝结婚后首现身",
+        "onboard_time": 1733224340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21853,
+        "num": 405469,
+        "word": "香奈儿高级手工坊系列发布会",
+        "onboard_time": 1733224040,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 413039,
+        "num": 403338,
+        "word": "49岁女子糖尿病不忌口诱发心衰离世",
+        "onboard_time": 1733223141,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112397,
+        "num": 402456,
+        "word": "听障运动员的无声饭店养活40位聋哑人",
+        "onboard_time": 1733220979,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73571,
+        "num": 401128,
+        "word": "香奈儿在杭州",
+        "onboard_time": 1733213720,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1253936,
+        "num": 399639,
+        "word": "周芯竹体面",
+        "onboard_time": 1733221039,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253884,
+        "num": 398611,
+        "word": "金高银辛芷蕾同框",
+        "onboard_time": 1733220560,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99361,
+        "num": 396863,
+        "word": "王楚钦加练",
+        "onboard_time": 1733223440,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109352,
+        "num": 394852,
+        "word": "恋与制作人 汉堡王",
+        "onboard_time": 1733221699,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35565,
+        "num": 394362,
+        "word": "翻新羽绒服到底值不值",
+        "onboard_time": 1733223920,
+        "rank": 20,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 574975,
+        "num": 392842,
+        "word": "麦琳 康熙来了",
+        "onboard_time": 1733218819,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215734,
+        "num": 391120,
+        "word": "刘宇宁地铁音乐会",
+        "onboard_time": 1733224160,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248731,
+        "num": 390396,
+        "word": "井柏然记录刘雯走秀",
+        "onboard_time": 1733224880,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 214981,
+        "num": 388357,
+        "word": "中方就美更新半导体出口管制提出严正交涉",
+        "onboard_time": 1733220199,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449065,
+        "num": 386914,
+        "word": "香奈儿大秀",
+        "onboard_time": 1733225721,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 386421,
+        "num": 386421,
+        "word": "黄子韬朋友圈 语录推荐",
+        "onboard_time": 1733215881,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123295,
+        "num": 385567,
+        "word": "官方称将密切观察福宝状态",
+        "onboard_time": 1733225721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83750,
+        "num": 377036,
+        "word": "惠英红要去打卡刘亦菲拍摄地",
+        "onboard_time": 1733224400,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14424,
+        "num": 370008,
+        "word": "戴锦华说应自问生命是否因短剧充盈",
+        "onboard_time": 1733225299,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260781,
+        "num": 363991,
+        "word": "张子枫六块腹肌",
+        "onboard_time": 1733224640,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 363651,
+        "num": 363651,
+        "word": "美国队赢了国乒一局开心到飞起",
+        "onboard_time": 1733222360,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40347,
+        "num": 333920,
+        "word": "江苏卫视跨年共创节目单",
+        "onboard_time": 1733220199,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314222,
+        "num": 314222,
+        "word": "连云港",
+        "onboard_time": 1733218219,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251009,
+        "num": 251009,
+        "word": "周密式聊天",
+        "onboard_time": 1733219300,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244323,
+        "num": 244323,
+        "word": "女推 偷拍",
+        "onboard_time": 1733221939,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209441,
+        "num": 209441,
+        "word": "GALA分享iG卡莎",
+        "onboard_time": 1733225000,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203213,
+        "num": 203213,
+        "word": "豪士面包老板哭了",
+        "onboard_time": 1733198060,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 189324,
+        "num": 189324,
+        "word": "一乡镇公务员日均接收文件通知60多份",
+        "onboard_time": 1733212581,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 187415,
+        "num": 187415,
+        "word": "肖战顺毛vs卷毛",
+        "onboard_time": 1733222719,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178191,
+        "num": 178191,
+        "word": "韩国演员朴敏宰去世",
+        "onboard_time": 1733204959,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175554,
+        "num": 175554,
+        "word": "莫让蹭跑成为孩子人生的糟糕一课",
+        "onboard_time": 1733222540,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174862,
+        "num": 174862,
+        "word": "崩坏星穹铁道 抄袭",
+        "onboard_time": 1733221280,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159205,
+        "num": 159205,
+        "word": "禁止两用物项对美国军事用户出口",
+        "onboard_time": 1733215580,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147838,
+        "num": 147838,
+        "word": "美国芯片产品不再可靠安全",
+        "onboard_time": 1733224220,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146210,
+        "num": 146210,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139265,
+        "num": 139265,
+        "word": "博主男友因滑雪太好被要求出示证明",
+        "onboard_time": 1733225299,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131747,
+        "num": 131747,
+        "word": "我是刑警",
+        "onboard_time": 1733225721,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183177,
+        "num": 131270,
+        "word": "王一博 这是啥问题",
+        "onboard_time": 1733218338,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130467,
+        "num": 130467,
+        "word": "男子欲潜规则下属被拒后称白提拔你",
+        "onboard_time": 1733212999,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量共建一带一路走深走实#"
+    }
+  }
+}
