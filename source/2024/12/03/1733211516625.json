@@ -1,0 +1,410 @@
+{
+  "runTime": 1733211516625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358009,
+        "num": 1358009,
+        "word": "福宝发抖",
+        "onboard_time": 1733204001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1135076,
+        "num": 1135076,
+        "word": "豪士面包老板哭了",
+        "onboard_time": 1733198060,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40583,
+        "num": 1031662,
+        "word": "国产大型储卸油平台成功出口",
+        "onboard_time": 1733194098,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 973427,
+        "num": 973427,
+        "word": "韩国演员朴敏宰去世",
+        "onboard_time": 1733204959,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 865147,
+        "num": 865147,
+        "word": "黄圣依家世",
+        "onboard_time": 1733207480,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819676,
+        "num": 819676,
+        "word": "孙颖莎回应莎头组合是否出战混双",
+        "onboard_time": 1733207361,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 857022,
+        "num": 752688,
+        "word": "张大大和明星谈过恋爱",
+        "onboard_time": 1733202860,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657913,
+        "num": 657913,
+        "word": "工资被折换购物卡还限额使用",
+        "onboard_time": 1733206639,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528751,
+        "num": 528751,
+        "word": "福宝将进行全面检查",
+        "onboard_time": 1733206580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267315,
+        "num": 494921,
+        "word": "豪士面包制作过程将对外直播",
+        "onboard_time": 1733210240,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829611,
+        "num": 494394,
+        "word": "女子肛门刺痒医生用古方排出10米寄生虫",
+        "onboard_time": 1733210839,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598093,
+        "num": 487519,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477110,
+        "num": 477110,
+        "word": "宋慧乔 痛苦只是流经我",
+        "onboard_time": 1733202621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58182,
+        "num": 476679,
+        "word": "一个高学历低能量女孩的生活崩盘",
+        "onboard_time": 1733210839,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32262,
+        "num": 476545,
+        "word": "6岁女孩违规蹭跑全马不应鼓励",
+        "onboard_time": 1733203700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44742,
+        "num": 475875,
+        "word": "无限暖暖送100张迪士尼年卡",
+        "onboard_time": 1733206760,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 373488,
+        "num": 475588,
+        "word": "曝王宝强公司疑涉合同欺诈",
+        "onboard_time": 1733210539,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110113,
+        "num": 474856,
+        "word": "郑旗死腿快开",
+        "onboard_time": 1733210960,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32390,
+        "num": 474772,
+        "word": "男子一人扮3角骗了好友近45万",
+        "onboard_time": 1733210539,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474304,
+        "num": 474304,
+        "word": "北大父亲为60分儿子崩溃怒刷心理学",
+        "onboard_time": 1733207600,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 471982,
+        "num": 471982,
+        "word": "警方介入华中农大一学生被指虐猫",
+        "onboard_time": 1733205980,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349729,
+        "num": 349729,
+        "word": "黄子佼被判有期徒刑8个月",
+        "onboard_time": 1733200581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349289,
+        "num": 349289,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44573,
+        "num": 299026,
+        "word": "张钧甯到杭州就爬财神庙了",
+        "onboard_time": 1733211441,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225498,
+        "num": 296796,
+        "word": "明日方舟",
+        "onboard_time": 1733211079,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296120,
+        "num": 296120,
+        "word": "女生一觉醒来发现自己成素描考题",
+        "onboard_time": 1733209160,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292837,
+        "num": 292837,
+        "word": "艾克里里跟杨紫竟然是好朋友",
+        "onboard_time": 1733206220,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277719,
+        "num": 277719,
+        "word": "阴阳师",
+        "onboard_time": 1733201300,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22631,
+        "num": 272217,
+        "word": "陈伟霆的看秀衣服是自己选的",
+        "onboard_time": 1733210658,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271010,
+        "num": 271010,
+        "word": "215元存银行19年只剩8元",
+        "onboard_time": 1733200281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254039,
+        "num": 254039,
+        "word": "王一博直播",
+        "onboard_time": 1733204959,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 233958,
+        "num": 233958,
+        "word": "离职要26个人同意",
+        "onboard_time": 1733210900,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232098,
+        "num": 232098,
+        "word": "博主灰太狼因胃癌英年早逝",
+        "onboard_time": 1733210900,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227729,
+        "num": 227729,
+        "word": "自己吓自己",
+        "onboard_time": 1733202981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218090,
+        "num": 218090,
+        "word": "于正官宣吉天照女主",
+        "onboard_time": 1733208680,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198894,
+        "num": 198894,
+        "word": "吴泽林 爸爸妈妈这就是月底的我",
+        "onboard_time": 1733210599,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195579,
+        "num": 195579,
+        "word": "王一博中午喝了粥",
+        "onboard_time": 1733211020,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 22004,
+        "num": 190295,
+        "word": "烤匠代言人全靠野生",
+        "onboard_time": 1733210721,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19263,
+        "num": 189138,
+        "word": "张钧甯对角色的理解角度",
+        "onboard_time": 1733210900,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188194,
+        "num": 188194,
+        "word": "崩坏星穹铁道 星期日",
+        "onboard_time": 1733210420,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187964,
+        "num": 187964,
+        "word": "A股葫芦娃",
+        "onboard_time": 1733209219,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178729,
+        "num": 178729,
+        "word": "国乒回应8比1战胜美国队",
+        "onboard_time": 1733208680,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174696,
+        "num": 174696,
+        "word": "孙颖莎说我有一个令人自豪的身份",
+        "onboard_time": 1733210180,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166898,
+        "num": 166898,
+        "word": "陆定昊否认霸凌陈立农",
+        "onboard_time": 1733199621,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156166,
+        "num": 156166,
+        "word": "王楚钦又遇到不给球的了",
+        "onboard_time": 1733209579,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141603,
+        "num": 141603,
+        "word": "王楚钦 弹簧小耶",
+        "onboard_time": 1733204780,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119701,
+        "num": 139789,
+        "word": "母亲带女儿住在无水无电的烂尾楼里",
+        "onboard_time": 1733204420,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139086,
+        "num": 139086,
+        "word": "农村土地承包经营权不能作为遗产继承",
+        "onboard_time": 1733209280,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138857,
+        "num": 138857,
+        "word": "阴阳师 老铁崩不住了",
+        "onboard_time": 1733207660,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138070,
+        "num": 138070,
+        "word": "HR又来催我们休年假了",
+        "onboard_time": 1733199921,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2024年读懂中国国际会议致贺信#"
+    }
+  }
+}
