@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733195294704,
+  "endTime": 1733196293812,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3965862,
-      "num": 357005,
+      "num": 444674,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
@@ -292,10 +292,18 @@
     },
     {
       "raw_hot": 1205199,
-      "num": 216387,
+      "num": 261768,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
       "onboard_time": 1733186959,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1182445,
+      "num": 1182445,
+      "word": "男子发现女儿非亲生儿子是杜撰的",
+      "onboard_time": 1733193198,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -313,14 +321,6 @@
       "onboard_time": 1733150421,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1132600,
-      "num": 1132600,
-      "word": "男子发现女儿非亲生儿子是杜撰的",
-      "onboard_time": 1733193198,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1132029,
@@ -995,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535509,
+      "num": 535509,
+      "word": "耳朵经济火了",
+      "onboard_time": 1733192359,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 530631,
       "num": 450320,
       "word": "22岁陈小春曾给26岁梅艳芳伴舞",
@@ -1139,6 +1147,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 467124,
+      "num": 467124,
+      "word": "10年交了23万保险费取钱还要等60年",
+      "onboard_time": 1733194399,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 465333,
       "num": 418636,
       "word": "王曼昱VOGUE",
@@ -1251,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 444464,
+      "num": 444464,
+      "word": "华为Mate70一周使用体验",
+      "onboard_time": 1733195239,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 443237,
       "num": 443237,
       "word": "退学的博士生们",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1733116340,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430480,
+      "num": 430480,
+      "word": "汇率",
+      "onboard_time": 1733195120,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 430467,
@@ -1436,7 +1468,7 @@
     },
     {
       "raw_hot": 401177,
-      "num": 232719,
+      "num": 337713,
       "word": "张艺谋父女任达华父女 交换舞伴",
       "onboard_time": 1733191278,
       "rank": 15,
@@ -1523,14 +1555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376884,
-      "num": 520609,
-      "word": "耳朵经济火了",
-      "onboard_time": 1733192359,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 374478,
       "num": 267097,
       "word": "快乐再出发",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1733136199,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356170,
+      "num": 356170,
+      "word": "新音 时代少年团",
+      "onboard_time": 1733195058,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 355499,
@@ -2275,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244001,
+      "num": 244001,
+      "word": "或有千万艾滋患者未被发现",
+      "onboard_time": 1733195418,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243805,
       "num": 243805,
       "word": "光与夜之恋",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1733128398,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240006,
+      "num": 240006,
+      "word": "蒲熠星粉丝群",
+      "onboard_time": 1733190677,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 239448,
@@ -2377,14 +2425,6 @@
       "onboard_time": 1733130740,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 233606,
-      "num": 233606,
-      "word": "蒲熠星粉丝群",
-      "onboard_time": 1733190677,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 232914,
@@ -2473,6 +2513,14 @@
       "onboard_time": 1733108838,
       "rank": 47,
       "category": "读书作家,教育"
+    },
+    {
+      "raw_hot": 227087,
+      "num": 227087,
+      "word": "种地吧",
+      "onboard_time": 1733184440,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 226790,
@@ -2627,20 +2675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215334,
-      "num": 215334,
-      "word": "汇率",
-      "onboard_time": 1733195120,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 215121,
       "num": 215121,
       "word": "珠帘玉幕11月全网播放冠军",
       "onboard_time": 1733181975,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214909,
+      "num": 263957,
+      "word": "王一博全黑造型路透",
+      "onboard_time": 1733194639,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214839,
@@ -2777,14 +2825,6 @@
       "onboard_time": 1733114001,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208075,
-      "num": 215395,
-      "word": "新音 时代少年团",
-      "onboard_time": 1733195058,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 207920,
@@ -2971,14 +3011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201511,
-      "num": 201511,
-      "word": "华为Mate70一周使用体验",
-      "onboard_time": 1733195239,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 200440,
       "num": 200440,
       "word": "丁禹兮今天喝奶茶啦",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1733191518,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197152,
+      "num": 197152,
+      "word": "蔡徐坤即将推出全球音乐项目",
+      "onboard_time": 1733195958,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 196850,
@@ -3131,14 +3171,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 193714,
-      "num": 216751,
-      "word": "王一博全黑造型路透",
-      "onboard_time": 1733194639,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 192792,
       "num": 192792,
       "word": "迪丽热巴贺思慕冬装造型",
@@ -3219,14 +3251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 190179,
-      "num": 190179,
-      "word": "10年交了23万保险费取钱还要等60年",
-      "onboard_time": 1733194399,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189958,
       "num": 189958,
       "word": "十二月的奇迹",
@@ -3257,6 +3281,14 @@
       "onboard_time": 1733028439,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189016,
+      "num": 189016,
+      "word": "30岁女生在英国1磅的早午饭",
+      "onboard_time": 1733191397,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 188856,
@@ -3355,6 +3387,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 185696,
+      "num": 185696,
+      "word": "丁禹兮美拉德look",
+      "onboard_time": 1733194998,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185231,
       "num": 185231,
       "word": "张艺谋一家参加巴黎名媛舞会",
@@ -3393,6 +3433,14 @@
       "onboard_time": 1733038098,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183668,
+      "num": 183668,
+      "word": "种地吧 监工直播",
+      "onboard_time": 1733196078,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183440,
@@ -3441,6 +3489,14 @@
       "onboard_time": 1733135298,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179685,
+      "num": 444681,
+      "word": "如何看待利用婚姻问题博流量",
+      "onboard_time": 1733195120,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179661,
@@ -3499,20 +3555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178001,
-      "num": 178001,
-      "word": "30岁女生在英国1磅的早午饭",
-      "onboard_time": 1733191397,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176443,
       "num": 512897,
       "word": "70万一针救命药进医保改写男童人生",
       "onboard_time": 1733026338,
       "rank": 9,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 175634,
+      "num": 175634,
+      "word": "妻子与他人结婚还让丈夫出婚房钱",
+      "onboard_time": 1733192778,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175535,
@@ -3763,20 +3819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164969,
+      "num": 291142,
+      "word": "周深配音狮子王",
+      "onboard_time": 1733195178,
+      "rank": 23,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 164207,
       "num": 164207,
       "word": "王楚钦画的是海贼王路飞",
       "onboard_time": 1732980260,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162695,
-      "num": 215546,
-      "word": "如何看待利用婚姻问题博流量",
-      "onboard_time": 1733195120,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162509,
@@ -4243,14 +4299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148053,
-      "num": 148053,
-      "word": "丁禹兮美拉德look",
-      "onboard_time": 1733194998,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147189,
       "num": 284526,
       "word": "商务部回应美国半导体出口管制措施",
@@ -4315,20 +4363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145863,
-      "num": 145863,
-      "word": "种地吧",
-      "onboard_time": 1733184440,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145803,
       "num": 145803,
       "word": "有你们才有中国温度",
       "onboard_time": 1733132359,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 145790,
+      "num": 231307,
+      "word": "无限暖暖",
+      "onboard_time": 1733038818,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 145510,
@@ -4547,6 +4595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139492,
+      "num": 139492,
+      "word": "TF家族2025新音",
+      "onboard_time": 1733196140,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138524,
       "num": 272648,
       "word": "陈小春看到梅艳芳的身影哭了",
@@ -4579,14 +4635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138342,
-      "num": 138342,
-      "word": "妻子与他人结婚还让丈夫出婚房钱",
-      "onboard_time": 1733192778,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138248,
       "num": 294433,
       "word": "王暖暖称俞某冬向其索赔3000万",
@@ -4609,6 +4657,14 @@
       "onboard_time": 1733040617,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 137815,
+      "num": 213723,
+      "word": "毛利兰被国漫包围了",
+      "onboard_time": 1733195599,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 137733,
@@ -6363,14 +6419,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 75689,
-      "num": 231307,
-      "word": "无限暖暖",
-      "onboard_time": 1733038818,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75143,
       "num": 294205,
       "word": "擦边的帽子不能乱扣",
@@ -6444,7 +6492,7 @@
     },
     {
       "raw_hot": 70960,
-      "num": 216567,
+      "num": 276061,
       "word": "村民乘船往上游找药材翻船8人遇难",
       "onboard_time": 1733195120,
       "rank": 19,
@@ -6827,6 +6875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55105,
+      "num": 344506,
+      "word": "冷酸灵牙膏被指超功效宣传",
+      "onboard_time": 1733195120,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 55069,
       "num": 192422,
       "word": "小花又开始写心经了",
@@ -6883,6 +6939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54076,
+      "num": 789818,
+      "word": "国产大型储卸油平台成功出口",
+      "onboard_time": 1733194098,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53829,
       "num": 269288,
       "word": "紧急情况下反杀黑熊可不承担法律责任",
@@ -6907,14 +6971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 53623,
-      "num": 221008,
-      "word": "冷酸灵牙膏被指超功效宣传",
-      "onboard_time": 1733195120,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 53602,
       "num": 304116,
       "word": "围观明星婚姻的观众成流量变现工具",
@@ -6929,6 +6985,14 @@
       "onboard_time": 1733062941,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53102,
+      "num": 240952,
+      "word": "成都混团国乒今战美国",
+      "onboard_time": 1733185280,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 52778,
@@ -6961,14 +7025,6 @@
       "onboard_time": 1733071036,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51787,
-      "num": 215787,
-      "word": "周深配音狮子王",
-      "onboard_time": 1733195178,
-      "rank": 23,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 51613,
@@ -7049,6 +7105,14 @@
       "onboard_time": 1733085070,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47275,
+      "num": 186811,
+      "word": "在你身边的华为温度",
+      "onboard_time": 1733196078,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 46909,
@@ -7161,14 +7225,6 @@
       "onboard_time": 1733075293,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42723,
-      "num": 789818,
-      "word": "国产大型储卸油平台成功出口",
-      "onboard_time": 1733194098,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42223,
@@ -8187,6 +8243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15589,
+      "num": 213784,
+      "word": "动漫中的笨蛋三人组",
+      "onboard_time": 1733195659,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 15328,
       "num": 15461,
       "word": "卫星图看中国10年治沙前后对比",
@@ -8505,6 +8569,14 @@
       "onboard_time": 1733085371,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5641,
+      "num": 282013,
+      "word": "国产癫痫罕见病药品氯巴占进入医保",
+      "onboard_time": 1733196199,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5396,

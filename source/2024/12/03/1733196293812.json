@@ -1,0 +1,410 @@
+{
+  "runTime": 1733196293812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3088776,
+        "num": 3088776,
+        "word": "杨子大哥承认杨子黄圣依在演",
+        "onboard_time": 1733192178,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1182445,
+        "num": 1182445,
+        "word": "男子发现女儿非亲生儿子是杜撰的",
+        "onboard_time": 1733193198,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54076,
+        "num": 702684,
+        "word": "国产大型储卸油平台成功出口",
+        "onboard_time": 1733194098,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535509,
+        "num": 535509,
+        "word": "耳朵经济火了",
+        "onboard_time": 1733192359,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482417,
+        "num": 482417,
+        "word": "登上黄山才发现水墨画还是保守了",
+        "onboard_time": 1733190317,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 731564,
+        "num": 480179,
+        "word": "黄子韬在领证视频下回复网友",
+        "onboard_time": 1733188638,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475873,
+        "num": 475873,
+        "word": "特朗普警告哈马斯将付出巨大代价",
+        "onboard_time": 1733191518,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 467124,
+        "num": 467124,
+        "word": "10年交了23万保险费取钱还要等60年",
+        "onboard_time": 1733194399,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448766,
+        "num": 448766,
+        "word": "陈少熙说有喜欢的人了",
+        "onboard_time": 1733181915,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179685,
+        "num": 444681,
+        "word": "如何看待利用婚姻问题博流量",
+        "onboard_time": 1733195120,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 887658,
+        "num": 444674,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444464,
+        "num": 444464,
+        "word": "华为Mate70一周使用体验",
+        "onboard_time": 1733195239,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 430480,
+        "num": 430480,
+        "word": "汇率",
+        "onboard_time": 1733195120,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356170,
+        "num": 356170,
+        "word": "新音 时代少年团",
+        "onboard_time": 1733195058,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55105,
+        "num": 344506,
+        "word": "冷酸灵牙膏被指超功效宣传",
+        "onboard_time": 1733195120,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 337713,
+        "num": 337713,
+        "word": "张艺谋父女任达华父女 交换舞伴",
+        "onboard_time": 1733191278,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299814,
+        "num": 299814,
+        "word": "6岁女儿蹭跑全马父亲涉违规",
+        "onboard_time": 1733152460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164969,
+        "num": 291142,
+        "word": "周深配音狮子王",
+        "onboard_time": 1733195178,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 5641,
+        "num": 282013,
+        "word": "国产癫痫罕见病药品氯巴占进入医保",
+        "onboard_time": 1733196199,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68171,
+        "num": 276061,
+        "word": "村民乘船往上游找药材翻船8人遇难",
+        "onboard_time": 1733195120,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214909,
+        "num": 263957,
+        "word": "王一博全黑造型路透",
+        "onboard_time": 1733194639,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 796509,
+        "num": 261768,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252637,
+        "num": 252637,
+        "word": "身份证拍照小提示",
+        "onboard_time": 1733160133,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244001,
+        "num": 244001,
+        "word": "或有千万艾滋患者未被发现",
+        "onboard_time": 1733195418,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53102,
+        "num": 240952,
+        "word": "成都混团国乒今战美国",
+        "onboard_time": 1733185280,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240006,
+        "num": 240006,
+        "word": "蒲熠星粉丝群",
+        "onboard_time": 1733190677,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227087,
+        "num": 227087,
+        "word": "种地吧",
+        "onboard_time": 1733184440,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242759,
+        "num": 222583,
+        "word": "12岁女孩以为月经不调竟是癌症晚期",
+        "onboard_time": 1733155878,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15589,
+        "num": 213784,
+        "word": "动漫中的笨蛋三人组",
+        "onboard_time": 1733195659,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137815,
+        "num": 213723,
+        "word": "毛利兰被国漫包围了",
+        "onboard_time": 1733195599,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 213680,
+        "num": 213680,
+        "word": "又一股冷空气准备好了",
+        "onboard_time": 1733190378,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131772,
+        "num": 197163,
+        "word": "宋亚轩无框眼镜",
+        "onboard_time": 1733193799,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197152,
+        "num": 197152,
+        "word": "蔡徐坤即将推出全球音乐项目",
+        "onboard_time": 1733195958,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196174,
+        "num": 196174,
+        "word": "陈都灵的头纱",
+        "onboard_time": 1733187620,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194892,
+        "num": 194892,
+        "word": "黄子韬说徐艺洋拍结婚照没洗头",
+        "onboard_time": 1733144785,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190911,
+        "num": 190911,
+        "word": "东北金渐层在冰上打出溜滑",
+        "onboard_time": 1733191518,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190888,
+        "num": 190888,
+        "word": "四个原因决定我们冬天更容易睡过头",
+        "onboard_time": 1733182997,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189016,
+        "num": 189016,
+        "word": "30岁女生在英国1磅的早午饭",
+        "onboard_time": 1733191397,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47275,
+        "num": 186811,
+        "word": "在你身边的华为温度",
+        "onboard_time": 1733196078,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145790,
+        "num": 186005,
+        "word": "无限暖暖",
+        "onboard_time": 1733191098,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185696,
+        "num": 185696,
+        "word": "丁禹兮美拉德look",
+        "onboard_time": 1733194998,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183668,
+        "num": 183668,
+        "word": "种地吧 监工直播",
+        "onboard_time": 1733196078,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175634,
+        "num": 175634,
+        "word": "妻子与他人结婚还让丈夫出婚房钱",
+        "onboard_time": 1733192778,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165784,
+        "num": 165784,
+        "word": "脱口秀演员史野",
+        "onboard_time": 1733191818,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154524,
+        "num": 154524,
+        "word": "TheShy山西文化旅游推广大使",
+        "onboard_time": 1733189898,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142042,
+        "num": 142042,
+        "word": "男子刷视频发现恋爱7年的女友结婚",
+        "onboard_time": 1733188758,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139492,
+        "num": 139492,
+        "word": "TF家族2025新音",
+        "onboard_time": 1733196140,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133761,
+        "num": 133761,
+        "word": "沉浸式360度全景看地球",
+        "onboard_time": 1733193919,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130382,
+        "num": 130382,
+        "word": "孙颖莎签名只有莎",
+        "onboard_time": 1733186959,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126519,
+        "num": 126519,
+        "word": "孙颖莎训练一打三",
+        "onboard_time": 1733189419,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}
