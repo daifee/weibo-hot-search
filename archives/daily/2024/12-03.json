@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733215504007,
+  "endTime": 1733217964367,
   "band_list": [
     {
       "raw_hot": 3251986,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 861481,
+      "num": 407176,
+      "word": "黄子韬朋友圈 语录推荐",
+      "onboard_time": 1733215881,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857022,
       "num": 851173,
       "word": "张大大和明星谈过恋爱",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 784838,
-      "num": 784838,
+      "num": 1119366,
       "word": "一乡镇公务员日均接收文件通知60多份",
       "onboard_time": 1733212581,
       "rank": 4,
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583573,
+      "num": 583573,
+      "word": "老板接44元订单竟涉嫌帮人洗钱",
+      "onboard_time": 1733213779,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 574959,
       "num": 574959,
       "word": "鹿晗点赞黄子韬结婚博",
@@ -393,6 +409,14 @@
       "onboard_time": 1733205980,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465193,
+      "num": 406839,
+      "word": "董事长套现9亿后反劝投资者耐心一点",
+      "onboard_time": 1733215759,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 457858,
@@ -475,6 +499,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390030,
+      "num": 390030,
+      "word": "陆定昊道歉信",
+      "onboard_time": 1733215279,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379352,
+      "num": 379352,
+      "word": "范丞丞唇钉",
+      "onboard_time": 1733216540,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371005,
+      "num": 371005,
+      "word": "禁止两用物项对美国军事用户出口",
+      "onboard_time": 1733215580,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 370040,
       "num": 543518,
       "word": "孙颖莎vs杰西卡",
@@ -531,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 343705,
+      "num": 389393,
+      "word": "李一桐 30多岁正是不想谈恋爱的年纪",
+      "onboard_time": 1733214859,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341613,
       "num": 341613,
       "word": "种地吧 监工直播",
@@ -555,12 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 318684,
-      "num": 454160,
-      "word": "老板接44元订单竟涉嫌帮人洗钱",
-      "onboard_time": 1733213779,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 317172,
+      "num": 317172,
+      "word": "福岛近海海水样本运抵中国",
+      "onboard_time": 1733215340,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 316586,
@@ -707,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238382,
-      "num": 238382,
-      "word": "李一桐 30多岁正是不想谈恋爱的年纪",
-      "onboard_time": 1733214859,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237903,
       "num": 247039,
       "word": "阴阳师 老铁崩不住了",
@@ -819,6 +867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 223475,
+      "num": 223475,
+      "word": "蛇年吉祥物竞争太激烈了",
+      "onboard_time": 1733216540,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 222976,
       "num": 275874,
       "word": "王一博叠戴粉色珍珠项链",
@@ -899,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213151,
+      "num": 286251,
+      "word": "唐嫣紫发自拍",
+      "onboard_time": 1733216179,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212649,
       "num": 699960,
       "word": "王一博系扣子vs不系扣子",
@@ -923,20 +987,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 210158,
-      "num": 210158,
-      "word": "福岛近海海水样本运抵中国",
-      "onboard_time": 1733215340,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 208957,
       "num": 208957,
       "word": "代号鸢",
       "onboard_time": 1733200942,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207224,
+      "num": 207224,
+      "word": "女兵服役12年退伍向张桂梅报到",
+      "onboard_time": 1733215640,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204620,
@@ -961,6 +1025,14 @@
       "onboard_time": 1733199981,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200979,
+      "num": 200979,
+      "word": "德国大众汽车工人罢工",
+      "onboard_time": 1733213659,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198894,
@@ -1147,6 +1219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 181348,
+      "num": 181348,
+      "word": "广东人快脱水成番薯干了",
+      "onboard_time": 1733215400,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180648,
       "num": 446353,
       "word": "黄景瑜秒猜白敬亭",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1733188218,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177299,
+      "num": 380449,
+      "word": "马龙到底带了多少礼物去台湾",
+      "onboard_time": 1733217259,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 175634,
@@ -1227,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172434,
+      "num": 172434,
+      "word": "丁禹兮说韩语",
+      "onboard_time": 1733215520,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172183,
       "num": 172183,
       "word": "KPL",
@@ -1251,6 +1347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 170713,
+      "num": 170713,
+      "word": "白敬亭将无法参与尖叫之夜全程",
+      "onboard_time": 1733215940,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170430,
       "num": 173597,
       "word": "蔡徐坤海外封面",
@@ -1267,20 +1371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169072,
-      "num": 169072,
-      "word": "德国大众汽车工人罢工",
-      "onboard_time": 1733213659,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 168508,
       "num": 168508,
       "word": "脱口秀演员史野",
       "onboard_time": 1733191818,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168370,
+      "num": 168370,
+      "word": "美媒称特朗普建议加拿大成美第51州",
+      "onboard_time": 1733214800,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166460,
@@ -1331,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163190,
+      "num": 163190,
+      "word": "虞书欣小猫头",
+      "onboard_time": 1733217740,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163104,
       "num": 235619,
       "word": "小花cos甄嬛造型",
@@ -1345,14 +1457,6 @@
       "onboard_time": 1733127920,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159980,
-      "num": 159980,
-      "word": "美媒称特朗普建议加拿大成美第51州",
-      "onboard_time": 1733214800,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159893,
@@ -1459,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143992,
-      "num": 143992,
-      "word": "广东人快脱水成番薯干了",
-      "onboard_time": 1733215400,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143626,
       "num": 172502,
       "word": "闪耀暖暖",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1733152580,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142000,
+      "num": 142000,
+      "word": "莎头是否出战会服从安排",
+      "onboard_time": 1733217860,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 141916,
@@ -1553,14 +1657,6 @@
       "onboard_time": 1733178614,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 133779,
-      "num": 318572,
-      "word": "陆定昊道歉信",
-      "onboard_time": 1733215279,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 132538,
@@ -1753,6 +1849,14 @@
       "onboard_time": 1733182155,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100122,
+      "num": 613085,
+      "word": "香奈儿在杭州",
+      "onboard_time": 1733213720,
+      "rank": 22,
+      "category": "时尚"
     },
     {
       "raw_hot": 99840,
@@ -2027,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65080,
+      "num": 384741,
+      "word": "孙颖莎说希望有更好表现",
+      "onboard_time": 1733217320,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63880,
       "num": 63880,
       "word": "2岁孩子将电池放嘴里咬发生爆炸",
@@ -2107,12 +2219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61173,
-      "num": 613085,
-      "word": "香奈儿在杭州",
-      "onboard_time": 1733213720,
-      "rank": 22,
-      "category": "时尚"
+      "raw_hot": 61323,
+      "num": 452784,
+      "word": "中方回应特朗普威胁向金砖国家征税",
+      "onboard_time": 1733217501,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61044,
@@ -2155,6 +2267,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55672,
+      "num": 326606,
+      "word": "女生拿国旗迎接马龙反手掏礼物",
+      "onboard_time": 1733217860,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55513,
+      "num": 371858,
+      "word": "滑雪场回应从厕所接桶装水给游客喝",
+      "onboard_time": 1733216959,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55105,
       "num": 344506,
       "word": "冷酸灵牙膏被指超功效宣传",
@@ -2169,6 +2297,14 @@
       "onboard_time": 1733203821,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54732,
+      "num": 211355,
+      "word": "狼队年总亚军纪录片",
+      "onboard_time": 1733217138,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 54409,
@@ -2307,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44655,
+      "num": 386554,
+      "word": "买房零公摊到底谁受益",
+      "onboard_time": 1733216720,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44573,
       "num": 299026,
       "word": "张钧甯到杭州就爬财神庙了",
@@ -2379,8 +2523,16 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 39108,
+      "num": 211279,
+      "word": "独孤羊上一世办案这一世犯案",
+      "onboard_time": 1733217501,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38211,
-      "num": 161579,
+      "num": 539198,
       "word": "宪法点亮生活",
       "onboard_time": 1733214680,
       "rank": 37,
@@ -2603,6 +2755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26561,
+      "num": 413512,
+      "word": "女导演和女演员如何一起创造好东西",
+      "onboard_time": 1733216779,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25961,
       "num": 157960,
       "word": "单依纯演我早起",
@@ -2657,6 +2817,14 @@
       "onboard_time": 1733198600,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21553,
+      "num": 207672,
+      "word": "辛芷蕾之前是学服装设计的",
+      "onboard_time": 1733216720,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 21247,
@@ -2755,6 +2923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16093,
+      "num": 141041,
+      "word": "养生巧克力糊",
+      "onboard_time": 1733216959,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 15874,
       "num": 258838,
       "word": "明天也要和毛利兰在一起",
@@ -2817,6 +2993,14 @@
       "onboard_time": 1733104757,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10608,
+      "num": 208399,
+      "word": "香奈儿秀场明星路透",
+      "onboard_time": 1733216720,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 8318,
