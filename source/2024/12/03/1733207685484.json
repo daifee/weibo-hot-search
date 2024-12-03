@@ -1,0 +1,410 @@
+{
+  "runTime": 1733207685484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2041186,
+        "num": 2041186,
+        "word": "福宝发抖",
+        "onboard_time": 1733204001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1430890,
+        "num": 1430890,
+        "word": "韩国演员朴敏宰去世",
+        "onboard_time": 1733204959,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51864,
+        "num": 1100888,
+        "word": "国产大型储卸油平台成功出口",
+        "onboard_time": 1733194098,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1099477,
+        "num": 1099477,
+        "word": "豪士面包老板哭了",
+        "onboard_time": 1733198060,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 851173,
+        "num": 851173,
+        "word": "张大大和明星谈过恋爱",
+        "onboard_time": 1733202860,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470089,
+        "num": 470089,
+        "word": "215元存银行19年只剩8元",
+        "onboard_time": 1733200281,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631627,
+        "num": 467880,
+        "word": "王一博直播",
+        "onboard_time": 1733204959,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 591784,
+        "num": 465666,
+        "word": "黄子佼被判有期徒刑8个月",
+        "onboard_time": 1733200581,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163627,
+        "num": 463457,
+        "word": "工资被折换购物卡还限额使用",
+        "onboard_time": 1733206639,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29655,
+        "num": 460540,
+        "word": "工业原料摇身一变成正品农药",
+        "onboard_time": 1733207300,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 662019,
+        "num": 457898,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457503,
+        "num": 457503,
+        "word": "自己吓自己",
+        "onboard_time": 1733202981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427931,
+        "num": 427931,
+        "word": "福宝将进行全面检查",
+        "onboard_time": 1733206580,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37198,
+        "num": 417728,
+        "word": "无限暖暖送100张迪士尼年卡",
+        "onboard_time": 1733206760,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82887,
+        "num": 417288,
+        "word": "被AI换脸造黄谣的女孩公开发声维权",
+        "onboard_time": 1733206040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417188,
+        "num": 417188,
+        "word": "宋慧乔 痛苦只是流经我",
+        "onboard_time": 1733202621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335113,
+        "num": 335113,
+        "word": "王楚钦 弹簧小耶",
+        "onboard_time": 1733204780,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43330,
+        "num": 334024,
+        "word": "吾湖兄弟重走来时的路",
+        "onboard_time": 1733206580,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45068,
+        "num": 332635,
+        "word": "周迅斜纹软呢高定",
+        "onboard_time": 1733207540,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30004,
+        "num": 331343,
+        "word": "陈伟霆直播",
+        "onboard_time": 1733207540,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 481205,
+        "num": 329471,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328751,
+        "num": 328751,
+        "word": "阴阳师",
+        "onboard_time": 1733201300,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277005,
+        "num": 277005,
+        "word": "代号鸢玩麦琳梗",
+        "onboard_time": 1733197640,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263735,
+        "num": 263735,
+        "word": "陆定昊否认霸凌陈立农",
+        "onboard_time": 1733199621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221090,
+        "num": 221090,
+        "word": "韩媒推荐韩国人冬天去哈尔滨",
+        "onboard_time": 1733200761,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220860,
+        "num": 220860,
+        "word": "于正内涵伪大女主",
+        "onboard_time": 1733200342,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213606,
+        "num": 213606,
+        "word": "艾克里里跟杨紫竟然是好朋友",
+        "onboard_time": 1733206220,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178805,
+        "num": 213196,
+        "word": "尚雯婕曝披哥把浪姐东西都搬走了",
+        "onboard_time": 1733206880,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10994,
+        "num": 213040,
+        "word": "A股",
+        "onboard_time": 1733104757,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167690,
+        "num": 212139,
+        "word": "北大父亲为60分儿子崩溃怒刷心理学",
+        "onboard_time": 1733207600,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306141,
+        "num": 211659,
+        "word": "鹿晗关晓彤被催婚第15次上热搜",
+        "onboard_time": 1733197640,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162287,
+        "num": 211178,
+        "word": "孙颖莎回应签名只有莎",
+        "onboard_time": 1733206461,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210793,
+        "num": 210793,
+        "word": "HR又来催我们休年假了",
+        "onboard_time": 1733199921,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210755,
+        "num": 210755,
+        "word": "银行小额管理费悄然吞噬存款",
+        "onboard_time": 1733205621,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44355,
+        "num": 204770,
+        "word": "陈伟霆说去灵隐寺许愿很灵",
+        "onboard_time": 1733204360,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93419,
+        "num": 202330,
+        "word": "季英英分手杨静澜又唱又跳",
+        "onboard_time": 1733207600,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200185,
+        "num": 200185,
+        "word": "王一博自己吓自己",
+        "onboard_time": 1733199201,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192563,
+        "num": 192563,
+        "word": "基地回应福宝状况异常",
+        "onboard_time": 1733206819,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 192209,
+        "word": "孙颖莎回应莎头组合是否出战混双",
+        "onboard_time": 1733207361,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179502,
+        "num": 179502,
+        "word": "花儿与少年",
+        "onboard_time": 1733203880,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177592,
+        "num": 177592,
+        "word": "千万不要错把艾滋当皮肤病",
+        "onboard_time": 1733199921,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143626,
+        "num": 172502,
+        "word": "闪耀暖暖",
+        "onboard_time": 1733205740,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33982,
+        "num": 171870,
+        "word": "张钧甯我在说你有在听吗",
+        "onboard_time": 1733204121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171560,
+        "num": 171560,
+        "word": "警方介入华中农大一学生被指虐猫",
+        "onboard_time": 1733205980,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159123,
+        "num": 159123,
+        "word": "韩国月子中心的月子餐",
+        "onboard_time": 1733199921,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24266,
+        "num": 157960,
+        "word": "单依纯演我早起",
+        "onboard_time": 1733205440,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157724,
+        "num": 157724,
+        "word": "马斯克560亿美元薪酬计划被驳回",
+        "onboard_time": 1733200521,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156540,
+        "num": 156540,
+        "word": "男子发现女儿非亲生儿子是杜撰的",
+        "onboard_time": 1733193198,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151319,
+        "num": 151319,
+        "word": "阴阳师 老铁崩不住了",
+        "onboard_time": 1733207660,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150521,
+        "num": 150521,
+        "word": "理想汽车销量",
+        "onboard_time": 1733205860,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2024年读懂中国国际会议致贺信#"
+    }
+  }
+}
