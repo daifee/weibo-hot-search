@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733268191365,
+  "endTime": 1733269066525,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -32,6 +32,14 @@
       "word": "韩国会会议通过解除戒严决议",
       "onboard_time": 1733242046,
       "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2502141,
+      "num": 2502141,
+      "word": "这一晚韩国发生了什么",
+      "onboard_time": 1733267598,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -203,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 572103,
+      "num": 1627160,
+      "word": "金龟子女儿因孩子断奶崩溃大哭",
+      "onboard_time": 1733233161,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565802,
       "num": 565802,
       "word": "韩国国会已被封锁",
@@ -241,6 +257,14 @@
       "onboard_time": 1733244200,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 506562,
+      "num": 2742268,
+      "word": "蹭跑全马女孩父亲称可以去其他地方跑",
+      "onboard_time": 1733266094,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 493248,
@@ -283,20 +307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 470241,
-      "num": 470241,
-      "word": "蹭跑全马女孩父亲称可以去其他地方跑",
-      "onboard_time": 1733266094,
-      "rank": 1,
+      "raw_hot": 457680,
+      "num": 613316,
+      "word": "男子与军嫂同居4年被判刑",
+      "onboard_time": 1733231540,
+      "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463817,
-      "num": 1627160,
-      "word": "金龟子女儿因孩子断奶崩溃大哭",
-      "onboard_time": 1733233161,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 442697,
@@ -307,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 422094,
+      "num": 240175,
+      "word": "苏州一露营者在帐篷内身亡",
+      "onboard_time": 1733238926,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417515,
       "num": 164503,
       "word": "南韩汪峰",
@@ -315,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408863,
-      "num": 613316,
-      "word": "男子与军嫂同居4年被判刑",
-      "onboard_time": 1733231540,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 394492,
+      "num": 220035,
+      "word": "韩国戒严令一共6个多小时",
+      "onboard_time": 1733267899,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 387782,
@@ -339,14 +363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 376807,
-      "num": 233854,
-      "word": "苏州一露营者在帐篷内身亡",
-      "onboard_time": 1733238926,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 342281,
       "num": 342281,
       "word": "韩要求罢工的医生48小时内返岗",
@@ -355,11 +371,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 331906,
+      "num": 331906,
+      "word": "伸脚垫住摔倒老人后脑勺的男子找到了",
+      "onboard_time": 1733267358,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327813,
       "num": 315985,
       "word": "李在明要求韩国国会外军警撤退",
       "onboard_time": 1733245937,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 300916,
+      "num": 324541,
+      "word": "马斯克千亿美元薪酬梦又被她击碎",
+      "onboard_time": 1733245757,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -400,14 +432,6 @@
       "word": "韩国戒严司令部发布一号戒严令",
       "onboard_time": 1733237845,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 274645,
-      "num": 324541,
-      "word": "马斯克千亿美元薪酬梦又被她击碎",
-      "onboard_time": 1733245757,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225175,
+      "num": 225175,
+      "word": "凯特哭着谈泰坦尼克号后直面身材羞辱",
+      "onboard_time": 1733237545,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222439,
       "num": 222439,
       "word": "11岁男孩打乒乓评上国家一级运动员",
@@ -467,28 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199920,
-      "num": 199920,
-      "word": "凯特哭着谈泰坦尼克号后直面身材羞辱",
-      "onboard_time": 1733237545,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174500,
       "num": 431389,
       "word": "难怪有故人之姿 原来是故人之子",
       "onboard_time": 1733230160,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161436,
-      "num": 252900,
-      "word": "这一晚韩国发生了什么",
-      "onboard_time": 1733267598,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 160180,
@@ -531,19 +547,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120458,
+      "num": 151706,
+      "word": "娜扎经纪人回应有明星相",
+      "onboard_time": 1733235382,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119180,
       "num": 119180,
       "word": "韩国防部官员称将维持戒严法",
       "onboard_time": 1733246415,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 118826,
-      "num": 118826,
-      "word": "韩国戒严令一共6个多小时",
-      "onboard_time": 1733267899,
-      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -563,19 +579,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89094,
+      "num": 142411,
+      "word": "19岁机车女网红因车祸去世",
+      "onboard_time": 1733221460,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87761,
       "num": 601667,
       "word": "福宝初步检查精神及食欲正常",
       "onboard_time": 1733227938,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87424,
-      "num": 142411,
-      "word": "19岁机车女网红因车祸去世",
-      "onboard_time": 1733221460,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -587,12 +603,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 84631,
-      "num": 151706,
-      "word": "娜扎经纪人回应有明星相",
-      "onboard_time": 1733235382,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 83326,
+      "num": 120972,
+      "word": "女生退伍后第一件事是看望张桂梅",
+      "onboard_time": 1733264893,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80128,
@@ -603,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78140,
+      "num": 78140,
+      "word": "东北导游就让游客买一根糖葫芦",
+      "onboard_time": 1733263872,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74158,
       "num": 150964,
       "word": "继承者们",
@@ -611,7 +635,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70362,
+      "raw_hot": 73152,
+      "num": 101027,
+      "word": "孙俪女儿甄嬛写真",
+      "onboard_time": 1733223499,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70771,
       "num": 77242,
       "word": "男子网购外卖服带女儿直播卖惨",
       "onboard_time": 1733264232,
@@ -619,20 +651,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69662,
+      "raw_hot": 70242,
+      "num": 75370,
+      "word": "声生不息大湾区季",
+      "onboard_time": 1733267957,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 69994,
       "num": 144725,
       "word": "离岸人民币跌近300点",
       "onboard_time": 1733248934,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 68147,
-      "num": 101027,
-      "word": "孙俪女儿甄嬛写真",
-      "onboard_time": 1733223499,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 67897,
@@ -641,22 +673,6 @@
       "onboard_time": 1733246116,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61120,
-      "num": 75566,
-      "word": "东北导游就让游客买一根糖葫芦",
-      "onboard_time": 1733263872,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 60708,
-      "num": 120972,
-      "word": "女生退伍后第一件事是看望张桂梅",
-      "onboard_time": 1733264893,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58778,
@@ -675,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57657,
+      "num": 68196,
+      "word": "韩国股市将照常开盘",
+      "onboard_time": 1733268919,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 57300,
       "num": 143913,
       "word": "山东舞蹈统考明确考生不得化妆",
@@ -683,15 +707,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 53476,
-      "num": 256292,
-      "word": "伸脚垫住摔倒老人后脑勺的男子找到了",
-      "onboard_time": 1733267358,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52574,
+      "raw_hot": 56454,
       "num": 75433,
       "word": "中国银行回应男子转账遇限额",
       "onboard_time": 1733233220,
@@ -699,12 +715,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47473,
-      "num": 75370,
-      "word": "声生不息大湾区季",
-      "onboard_time": 1733267957,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 54170,
+      "num": 68177,
+      "word": "首尔",
+      "onboard_time": 1733269040,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49049,
+      "num": 240177,
+      "word": "韩国总统宣布解除紧急戒严令",
+      "onboard_time": 1733268979,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46992,
@@ -755,6 +779,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 28424,
+      "num": 2525857,
+      "word": "2024读懂中国",
+      "onboard_time": 1733234481,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27326,
       "num": 144506,
       "word": "susu福福",
@@ -793,14 +825,6 @@
       "onboard_time": 1733246835,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23593,
-      "num": 1099358,
-      "word": "2024读懂中国",
-      "onboard_time": 1733234481,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23429,
@@ -856,6 +880,14 @@
       "word": "还有一个月就是2025了",
       "onboard_time": 1733256612,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16539,
+      "num": 221205,
+      "word": "救下后仰摔倒老人男子是名退伍军人",
+      "onboard_time": 1733268859,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
