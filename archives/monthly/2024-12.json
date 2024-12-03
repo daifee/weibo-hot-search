@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733239572814,
+  "endTime": 1733240467584,
   "band_list": [
     {
       "raw_hot": 20778469,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2186651,
+      "num": 2186651,
+      "word": "中国驻韩国大使馆深夜发布提醒",
+      "onboard_time": 1733239045,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2041186,
       "num": 2041186,
       "word": "福宝发抖",
@@ -121,6 +129,14 @@
       "onboard_time": 1732970719,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1981508,
+      "num": 1981508,
+      "word": "首尔之春",
+      "onboard_time": 1733237124,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1980563,
@@ -153,14 +169,6 @@
       "onboard_time": 1733112380,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1757375,
-      "num": 1285213,
-      "word": "首尔之春",
-      "onboard_time": 1733237124,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 1712298,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1575351,
+      "num": 1575351,
+      "word": "韩国在野党与警方在国会出入口对峙",
+      "onboard_time": 1733238145,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1570633,
       "num": 1570633,
       "word": "申论大作文",
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1472606,
+      "num": 1472606,
+      "word": "韩元汇率迅速下跌",
+      "onboard_time": 1733237605,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1430890,
       "num": 1430890,
       "word": "韩国演员朴敏宰去世",
@@ -289,14 +313,6 @@
       "onboard_time": 1733013016,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1377148,
-      "num": 1377148,
-      "word": "韩国在野党与警方在国会出入口对峙",
-      "onboard_time": 1733238145,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1377058,
@@ -345,14 +361,6 @@
       "onboard_time": 1733018897,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1302668,
-      "num": 1277762,
-      "word": "韩元汇率迅速下跌",
-      "onboard_time": 1733237605,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 1297560,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1212450,
-      "num": 1298151,
+      "num": 1802981,
       "word": "金龟子女儿因孩子断奶崩溃大哭",
       "onboard_time": 1733233161,
       "rank": 32,
@@ -473,6 +481,14 @@
       "onboard_time": 1733107277,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1112291,
+      "num": 1112291,
+      "word": "深夜韩国国会上空",
+      "onboard_time": 1733239286,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1108218,
@@ -715,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 881785,
+      "num": 881785,
+      "word": "韩国国会已被封锁",
+      "onboard_time": 1733238385,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 881731,
       "num": 881731,
       "word": "男子欲潜规则下属被拒后称白提拔你",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 826160,
-      "num": 1465269,
+      "num": 1669963,
       "word": "女硕士患精神分裂症失踪15年被找回",
       "onboard_time": 1733233941,
       "rank": 5,
@@ -1195,11 +1219,11 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 627032,
-      "num": 1287812,
-      "word": "中国驻韩国大使馆深夜发布提醒",
-      "onboard_time": 1733239045,
-      "rank": 9,
+      "raw_hot": 627295,
+      "num": 627295,
+      "word": "SBS",
+      "onboard_time": 1733239106,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -1241,6 +1265,14 @@
       "onboard_time": 1733087351,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 614427,
+      "num": 614427,
+      "word": "韩国怎么了",
+      "onboard_time": 1733240006,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 612583,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1732967778,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 585774,
-      "num": 585774,
-      "word": "韩国国会已被封锁",
-      "onboard_time": 1733238385,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 583573,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1733034678,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 509946,
+      "num": 728498,
+      "word": "韩国国会出入口关闭",
+      "onboard_time": 1733236165,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 508702,
@@ -1843,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452603,
-      "num": 728498,
-      "word": "韩国国会出入口关闭",
-      "onboard_time": 1733236165,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 451317,
       "num": 451317,
       "word": "汇率",
@@ -2067,6 +2091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415594,
+      "num": 1907428,
+      "word": "外媒关注中国发现世界最大金矿",
+      "onboard_time": 1733236946,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415337,
       "num": 338827,
       "word": "林更新狗随主人",
@@ -2251,6 +2283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 379827,
+      "num": 379827,
+      "word": "韩国军队进入国会维持秩序",
+      "onboard_time": 1733239886,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 378609,
       "num": 305758,
       "word": "苏醒晒与武艺聊天记录",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1733130858,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376558,
+      "num": 376558,
+      "word": "苏州一露营者在帐篷内身亡",
+      "onboard_time": 1733238926,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375639,
@@ -2440,6 +2488,14 @@
       "word": "黄岩岛是中国固有领土",
       "onboard_time": 1733184258,
       "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 350022,
+      "num": 1064059,
+      "word": "提醒在韩中国公民加强安全防范",
+      "onboard_time": 1733239526,
+      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -2691,14 +2747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305221,
-      "num": 1293924,
-      "word": "外媒关注中国发现世界最大金矿",
-      "onboard_time": 1733236946,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304680,
       "num": 304680,
       "word": "王源再现十年前双手合十",
@@ -2745,6 +2793,14 @@
       "onboard_time": 1733099717,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 296872,
+      "num": 1272304,
+      "word": "韩国会前冲突画面",
+      "onboard_time": 1733239345,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 296120,
@@ -3123,14 +3179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 256336,
-      "num": 256336,
-      "word": "苏州一露营者在帐篷内身亡",
-      "onboard_time": 1733238926,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254471,
       "num": 162899,
       "word": "易烊千玺小网站发了粉丝的声音",
@@ -3219,14 +3267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249541,
-      "num": 249541,
-      "word": "深夜韩国国会上空",
-      "onboard_time": 1733239286,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 248731,
       "num": 390396,
       "word": "井柏然记录刘雯走秀",
@@ -3273,14 +3313,6 @@
       "onboard_time": 1733221280,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 245573,
-      "num": 245573,
-      "word": "SBS",
-      "onboard_time": 1733239106,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 245433,
@@ -3387,6 +3419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236958,
+      "num": 941415,
+      "word": "田嘉瑞晒陈好送的500号魔杖",
+      "onboard_time": 1733239464,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234942,
       "num": 234942,
       "word": "mlxg谈Doinb",
@@ -3457,6 +3497,14 @@
       "onboard_time": 1733160493,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 232731,
+      "num": 232731,
+      "word": "韩国现役军人延期退伍",
+      "onboard_time": 1733240125,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 232459,
@@ -3825,6 +3873,14 @@
       "onboard_time": 1733112619,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213874,
+      "num": 213874,
+      "word": "韩陆军大将被任命为戒严司令官",
+      "onboard_time": 1733237485,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213396,
@@ -4347,14 +4403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197474,
-      "num": 197474,
-      "word": "韩陆军大将被任命为戒严司令官",
-      "onboard_time": 1733237485,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 197152,
       "num": 197152,
       "word": "蔡徐坤即将推出全球音乐项目",
@@ -4681,6 +4729,14 @@
       "onboard_time": 1733138659,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189259,
+      "num": 189259,
+      "word": "TWICE",
+      "onboard_time": 1733240426,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 189257,
@@ -5155,6 +5211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175820,
+      "num": 518449,
+      "word": "李在明说尹锡悦不再是韩国总统了",
+      "onboard_time": 1733239707,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175634,
       "num": 175634,
       "word": "妻子与他人结婚还让丈夫出婚房钱",
@@ -5201,14 +5265,6 @@
       "onboard_time": 1733130379,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175271,
-      "num": 175271,
-      "word": "提醒在韩中国公民加强安全防范",
-      "onboard_time": 1733239526,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 175168,
@@ -5273,6 +5329,14 @@
       "onboard_time": 1733231121,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172658,
+      "num": 901058,
+      "word": "韩国部分网站瘫痪",
+      "onboard_time": 1733239886,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172434,
@@ -5537,14 +5601,6 @@
       "onboard_time": 1733143525,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165897,
-      "num": 599422,
-      "word": "田嘉瑞晒陈好送的500号魔杖",
-      "onboard_time": 1733239464,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 165837,
@@ -7475,6 +7531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112685,
+      "num": 526004,
+      "word": "韩国民众高喊口号要求撤回戒严令",
+      "onboard_time": 1733240187,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112637,
       "num": 112637,
       "word": "广州出现奇葩斑马线",
@@ -8203,6 +8267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93021,
+      "num": 1271690,
+      "word": "当地教育局正调查员工趴地迎接领导",
+      "onboard_time": 1733238385,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91956,
       "num": 91956,
       "word": "商家称运费险5元一单比快递费还贵",
@@ -8345,14 +8417,6 @@
       "onboard_time": 1733035338,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86342,
-      "num": 1271690,
-      "word": "当地教育局正调查员工趴地迎接领导",
-      "onboard_time": 1733238385,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84826,
@@ -9915,6 +9979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43394,
+      "num": 604465,
+      "word": "窦靖童真空西装",
+      "onboard_time": 1733240247,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 43330,
       "num": 334024,
       "word": "吾湖兄弟重走来时的路",
@@ -10233,14 +10305,6 @@
       "onboard_time": 1733223920,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 35414,
-      "num": 1272304,
-      "word": "韩国会前冲突画面",
-      "onboard_time": 1733239345,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35382,
