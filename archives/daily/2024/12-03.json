@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733203427649,
+  "endTime": 1733204495044,
   "band_list": [
     {
       "raw_hot": 3251986,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1205199,
-      "num": 420783,
+      "num": 440881,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
       "onboard_time": 1733186959,
       "rank": 20,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944159,
+      "num": 944159,
+      "word": "鹿晗关晓彤被催婚第15次上热搜",
+      "onboard_time": 1733197640,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938268,
       "num": 938268,
       "word": "12岁女孩以为月经不调竟是癌症晚期",
       "onboard_time": 1733155878,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 926196,
-      "num": 926196,
-      "word": "鹿晗关晓彤被催婚第15次上热搜",
-      "onboard_time": 1733197640,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 899246,
@@ -113,6 +113,14 @@
       "onboard_time": 1733199141,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 736414,
+      "num": 537023,
+      "word": "黄子佼被判有期徒刑8个月",
+      "onboard_time": 1733200581,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 724095,
@@ -139,7 +147,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634845,
+      "raw_hot": 642410,
       "num": 915788,
       "word": "215元存银行19年只剩8元",
       "onboard_time": 1733200281,
@@ -169,6 +177,14 @@
       "onboard_time": 1733192359,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 612583,
+      "num": 444610,
+      "word": "宋慧乔 痛苦只是流经我",
+      "onboard_time": 1733202621,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 612479,
@@ -211,19 +227,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571934,
+      "num": 442584,
+      "word": "张大大和明星谈过恋爱",
+      "onboard_time": 1733202860,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544653,
       "num": 544653,
       "word": "王一博自己吓自己",
       "onboard_time": 1733199201,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 537023,
-      "num": 537023,
-      "word": "黄子佼被判有期徒刑8个月",
-      "onboard_time": 1733200581,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -241,6 +257,14 @@
       "onboard_time": 1733191518,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 512853,
+      "num": 442141,
+      "word": "福宝发抖",
+      "onboard_time": 1733204001,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486924,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 316586,
-      "num": 289822,
+      "num": 311517,
       "word": "HR又来催我们休年假了",
       "onboard_time": 1733199921,
       "rank": 37,
@@ -385,14 +409,6 @@
       "onboard_time": 1733188218,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 304132,
-      "num": 304132,
-      "word": "宋慧乔 痛苦只是流经我",
-      "onboard_time": 1733202621,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 295260,
@@ -408,14 +424,6 @@
       "word": "王楚然留洋白月光即视感",
       "onboard_time": 1733201300,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 289091,
-      "num": 289091,
-      "word": "张大大和明星谈过恋爱",
-      "onboard_time": 1733202860,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -627,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213396,
+      "num": 213396,
+      "word": "花儿与少年",
+      "onboard_time": 1733203880,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212122,
       "num": 197172,
       "word": "TheShy山西文化旅游推广大使",
@@ -644,10 +660,18 @@
     },
     {
       "raw_hot": 205404,
-      "num": 205404,
+      "num": 361624,
       "word": "自己吓自己",
       "onboard_time": 1733202981,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204620,
+      "num": 252108,
+      "word": "火朗入伍",
+      "onboard_time": 1733203580,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -713,6 +737,14 @@
       "onboard_time": 1733202442,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192432,
+      "num": 303372,
+      "word": "韩媒推荐韩国人冬天去哈尔滨",
+      "onboard_time": 1733200761,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 190043,
@@ -788,7 +820,7 @@
     },
     {
       "raw_hot": 184471,
-      "num": 305026,
+      "num": 331497,
       "word": "无限暖暖预下载",
       "onboard_time": 1733203280,
       "rank": 24,
@@ -849,6 +881,14 @@
       "onboard_time": 1733148142,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172136,
+      "num": 601928,
+      "word": "让6岁女儿蹭跑全马是励志还是无知",
+      "onboard_time": 1733202500,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171136,
@@ -923,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158418,
+      "num": 158418,
+      "word": "2024年挑战者杯定妆照",
+      "onboard_time": 1733204301,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146730,
       "num": 170260,
       "word": "孙颖莎训练一打三",
@@ -963,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142788,
+      "num": 142788,
+      "word": "孙颖莎观战现场好欢乐",
+      "onboard_time": 1733204420,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142471,
       "num": 142471,
       "word": "商家大规模关闭运费险背后",
@@ -979,12 +1035,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140132,
-      "num": 303372,
-      "word": "韩媒推荐韩国人冬天去哈尔滨",
-      "onboard_time": 1733200761,
-      "rank": 29,
-      "category": "海外新闻"
+      "raw_hot": 141916,
+      "num": 141916,
+      "word": "母亲带女儿住在无水无电的烂尾楼里",
+      "onboard_time": 1733204420,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139492,
@@ -1057,14 +1113,6 @@
       "onboard_time": 1733161814,
       "rank": 27,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 116102,
-      "num": 601928,
-      "word": "让6岁女儿蹭跑全马是励志还是无知",
-      "onboard_time": 1733202500,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116080,
@@ -1235,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90353,
+      "num": 443554,
+      "word": "高校学生进校门被开行李箱检查",
+      "onboard_time": 1733203640,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88054,
       "num": 88054,
       "word": "奚梦瑶现身私立医院",
@@ -1276,7 +1332,7 @@
     },
     {
       "raw_hot": 83492,
-      "num": 290039,
+      "num": 441506,
       "word": "田曦薇上班制服look",
       "onboard_time": 1733202800,
       "rank": 31,
@@ -1363,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69409,
+      "num": 294797,
+      "word": "田曦薇笑颜vs冷脸",
+      "onboard_time": 1733203400,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69334,
       "num": 69334,
       "word": "苏醒 聚的人多了也便成了团",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1733182457,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65143,
+      "num": 249865,
+      "word": "女子每天喝咖啡或引发反流性咽喉炎",
+      "onboard_time": 1733203521,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63880,
@@ -1475,12 +1547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61198,
-      "num": 294797,
-      "word": "田曦薇笑颜vs冷脸",
-      "onboard_time": 1733203400,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 61044,
+      "num": 443209,
+      "word": "三年后全国将实现医疗影像互认",
+      "onboard_time": 1733203640,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57370,
@@ -1513,6 +1585,14 @@
       "onboard_time": 1733195120,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54824,
+      "num": 206379,
+      "word": "张小斐 我很满意自己的状态",
+      "onboard_time": 1733203821,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 54409,
@@ -1603,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44561,
+      "num": 444358,
+      "word": "揭秘养生直播间忽悠老年人套路",
+      "onboard_time": 1733203761,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42223,
       "num": 41529,
       "word": "万物皆可冰糖葫芦",
@@ -1683,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31688,
+      "num": 152347,
+      "word": "张钧甯我在说你有在听吗",
+      "onboard_time": 1733204121,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31377,
       "num": 348051,
       "word": "同基金经理不同产品业绩差距竟达50%",
@@ -1713,6 +1809,14 @@
       "onboard_time": 1733159235,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 30699,
+      "num": 163734,
+      "word": "陈伟霆说去灵隐寺许愿很灵",
+      "onboard_time": 1733204360,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 30579,
