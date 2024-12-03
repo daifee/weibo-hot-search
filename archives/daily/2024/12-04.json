@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733257619200,
+  "endTime": 1733258424930,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41828,
+      "num": 41828,
+      "word": "联合国成少爷名媛打卡地",
+      "onboard_time": 1733254091,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34586,
       "num": 616689,
       "word": "PS合作伙伴奖",
@@ -699,14 +707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19259,
-      "num": 38960,
-      "word": "联合国成少爷名媛打卡地",
-      "onboard_time": 1733254091,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19232,
       "num": 27317,
       "word": "檀健次深圳售罄",
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15333,
+      "num": 21634,
+      "word": "中国银行回应男子转账遇限额",
+      "onboard_time": 1733233220,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15128,
       "num": 501179,
       "word": "孙颖莎称混团世界杯会全力以赴",
@@ -747,16 +755,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15046,
-      "num": 21634,
-      "word": "中国银行回应男子转账遇限额",
-      "onboard_time": 1733233220,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 13522,
+      "num": 21618,
+      "word": "我是刑警",
+      "onboard_time": 1733225721,
+      "rank": 49,
+      "category": "剧集"
     },
     {
-      "raw_hot": 12419,
-      "num": 21629,
+      "raw_hot": 12877,
+      "num": 24428,
       "word": "朱志鑫的酒窝",
       "onboard_time": 1733255771,
       "rank": 45,
@@ -771,20 +779,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12066,
-      "num": 21618,
-      "word": "我是刑警",
-      "onboard_time": 1733225721,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12047,
       "num": 146746,
       "word": "2024读懂中国",
       "onboard_time": 1733234481,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12034,
+      "num": 20976,
+      "word": "还有一个月就是2025了",
+      "onboard_time": 1733256612,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11885,
