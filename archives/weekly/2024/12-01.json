@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733200163771,
+  "endTime": 1733201050609,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3965862,
-      "num": 444674,
+      "num": 535614,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
@@ -139,6 +139,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1602702,
+      "num": 698694,
+      "word": "男子刷视频发现妻子正举办婚礼",
+      "onboard_time": 1733196378,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1570633,
       "num": 1570633,
       "word": "申论大作文",
@@ -177,14 +185,6 @@
       "onboard_time": 1733128278,
       "rank": 44,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1391196,
-      "num": 535424,
-      "word": "男子刷视频发现妻子正举办婚礼",
-      "onboard_time": 1733196378,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1390934,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1205199,
-      "num": 319488,
+      "num": 420783,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
       "onboard_time": 1733186959,
       "rank": 20,
@@ -355,8 +355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1074179,
-      "num": 356109,
+      "raw_hot": 1102625,
+      "num": 1102625,
       "word": "黄圣依是巨力影视传媒执行总裁",
       "onboard_time": 1733198240,
       "rank": 15,
@@ -859,6 +859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 621504,
+      "num": 621504,
+      "word": "专家建议不要过于苛责00后",
+      "onboard_time": 1733199141,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 618819,
       "num": 305140,
       "word": "陈近南diss周密",
@@ -1049,6 +1057,22 @@
       "onboard_time": 1733121139,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 537060,
+      "num": 537060,
+      "word": "王一博自己吓自己",
+      "onboard_time": 1733199201,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 533330,
+      "num": 533330,
+      "word": "陆定昊否认霸凌陈立农",
+      "onboard_time": 1733199621,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 530631,
@@ -1323,14 +1347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 445693,
-      "num": 445693,
-      "word": "王一博自己吓自己",
-      "onboard_time": 1733199201,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 444464,
       "num": 444464,
       "word": "华为Mate70一周使用体验",
@@ -1443,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423918,
+      "num": 423918,
+      "word": "鹿晗关晓彤被催婚第15次上热搜",
+      "onboard_time": 1733197640,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423638,
       "num": 423638,
       "word": "申论处女作",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1733032639,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 406054,
+      "num": 406054,
+      "word": "韩国月子中心的月子餐",
+      "onboard_time": 1733199921,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 405502,
@@ -1627,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370040,
+      "num": 543518,
+      "word": "孙颖莎vs杰西卡",
+      "onboard_time": 1733199021,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369516,
       "num": 369516,
       "word": "刘浩存掌管高马尾的神",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1733154859,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358234,
+      "num": 418693,
+      "word": "善解人意的麦琳和没钱的杨子",
+      "onboard_time": 1733200221,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 356663,
@@ -1915,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306302,
+      "num": 306302,
+      "word": "于正内涵伪大女主",
+      "onboard_time": 1733200342,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304680,
       "num": 304680,
       "word": "王源再现十年前双手合十",
@@ -1963,14 +2019,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 299189,
-      "num": 423925,
-      "word": "专家建议不要过于苛责00后",
-      "onboard_time": 1733199141,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295925,
       "num": 295925,
       "word": "李行亮团队婉拒采访",
@@ -1985,14 +2033,6 @@
       "onboard_time": 1732970359,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293502,
-      "num": 293502,
-      "word": "韩国月子中心的月子餐",
-      "onboard_time": 1733199921,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 293222,
@@ -2083,6 +2123,22 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 278258,
+      "num": 278258,
+      "word": "215元存银行19年只剩8元",
+      "onboard_time": 1733200281,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278204,
+      "num": 278204,
+      "word": "千万不要错把艾滋当皮肤病",
+      "onboard_time": 1733199921,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 277914,
       "num": 445148,
       "word": "迪丽热巴藏好了吗",
@@ -2129,6 +2185,14 @@
       "onboard_time": 1733038818,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275099,
+      "num": 275099,
+      "word": "HR又来催我们休年假了",
+      "onboard_time": 1733199921,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 274823,
@@ -2259,14 +2323,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 258435,
-      "num": 368058,
-      "word": "孙颖莎vs杰西卡",
-      "onboard_time": 1733199021,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257016,
       "num": 340345,
       "word": "研究证明有饥饿感会启动长寿基因",
@@ -2345,14 +2401,6 @@
       "onboard_time": 1733060239,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 251793,
-      "num": 251793,
-      "word": "千万不要错把艾滋当皮肤病",
-      "onboard_time": 1733199921,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 250948,
@@ -2739,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218914,
+      "num": 218914,
+      "word": "马斯克560亿美元薪酬计划被驳回",
+      "onboard_time": 1733200521,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 217886,
       "num": 204106,
       "word": "杭州到达好多明星",
@@ -2867,14 +2923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211390,
-      "num": 211390,
-      "word": "HR又来催我们休年假了",
-      "onboard_time": 1733199921,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210708,
       "num": 228111,
       "word": "王源丁程鑫好六上班",
@@ -2931,12 +2979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208844,
-      "num": 377037,
-      "word": "鹿晗关晓彤被催婚第15次上热搜",
-      "onboard_time": 1733197640,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 208957,
+      "num": 208957,
+      "word": "代号鸢",
+      "onboard_time": 1733200942,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 208716,
@@ -2944,6 +2992,14 @@
       "word": "李耕耘户外是一种生活也是一种态度",
       "onboard_time": 1733110999,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208507,
+      "num": 415403,
+      "word": "王一博今天微博直播",
+      "onboard_time": 1733200281,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3155,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201150,
+      "num": 201150,
+      "word": "小时播音台",
+      "onboard_time": 1733199981,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200440,
       "num": 200440,
       "word": "丁禹兮今天喝奶茶啦",
@@ -3315,14 +3379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192889,
-      "num": 192889,
-      "word": "小时播音台",
-      "onboard_time": 1733199981,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 192792,
       "num": 192792,
       "word": "迪丽热巴贺思慕冬装造型",
@@ -3401,6 +3457,14 @@
       "onboard_time": 1733151440,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190043,
+      "num": 231307,
+      "word": "无限暖暖",
+      "onboard_time": 1733038818,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 189958,
@@ -3496,6 +3560,14 @@
       "word": "四川电信直播",
       "onboard_time": 1733019798,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187057,
+      "num": 406386,
+      "word": "崔永熙NBA首个运动战进球",
+      "onboard_time": 1733199742,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3713,22 +3785,6 @@
       "onboard_time": 1733026338,
       "rank": 9,
       "category": "民生新闻,正能量"
-    },
-    {
-      "raw_hot": 175899,
-      "num": 231307,
-      "word": "无限暖暖",
-      "onboard_time": 1733038818,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 175733,
-      "num": 297898,
-      "word": "陆定昊否认霸凌陈立农",
-      "onboard_time": 1733199621,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 175634,
@@ -4057,14 +4113,6 @@
       "onboard_time": 1732973179,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161510,
-      "num": 161510,
-      "word": "崔永熙NBA首个运动战进球",
-      "onboard_time": 1733199742,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 161450,
@@ -4763,6 +4811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140132,
+      "num": 303372,
+      "word": "韩媒推荐韩国人冬天去哈尔滨",
+      "onboard_time": 1733200761,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140071,
       "num": 140071,
       "word": "花生十三 变化是一种机会",
@@ -5123,6 +5179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129248,
+      "num": 534150,
+      "word": "黄子佼被判有期徒刑8个月",
+      "onboard_time": 1733200581,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128905,
       "num": 135761,
       "word": "金瀚真去航海了",
@@ -5475,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118812,
+      "num": 534838,
+      "word": "律师谈女儿蹭跑全马举办方不担责",
+      "onboard_time": 1733199380,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "长征十二号",
@@ -5569,6 +5641,14 @@
       "onboard_time": 1733151261,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115554,
+      "num": 433797,
+      "word": "昆明女子拒绝老板潜规则次日被辞退",
+      "onboard_time": 1733200821,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114816,
@@ -6771,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66522,
+      "num": 536479,
+      "word": "声称包治百病的血液净化到底是什么",
+      "onboard_time": 1733200462,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66108,
       "num": 322280,
       "word": "OBGG显示Xiaohao加入EDG",
@@ -7091,14 +7179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57010,
-      "num": 382172,
-      "word": "律师谈女儿蹭跑全马举办方不担责",
-      "onboard_time": 1733199380,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56361,
       "num": 56361,
       "word": "丁禹兮一年播了四部剧",
@@ -7160,6 +7240,14 @@
       "word": "林诗栋蒯曼VS钱德拉瓦提克",
       "onboard_time": 1733113280,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54409,
+      "num": 533742,
+      "word": "林高远王艺迪拿下首盘",
+      "onboard_time": 1733200162,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -7771,6 +7859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33887,
+      "num": 201194,
+      "word": "杭州的桂花到底有多香",
+      "onboard_time": 1733198421,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33488,
       "num": 176210,
       "word": "专家回应有人路边投毒狗闻闻就死",
@@ -7979,6 +8075,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 28973,
+      "num": 446353,
+      "word": "黄景瑜秒猜白敬亭",
+      "onboard_time": 1733200821,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28912,
       "num": 336067,
       "word": "三明治穿衣法",
@@ -8033,14 +8137,6 @@
       "onboard_time": 1733167090,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27942,
-      "num": 188881,
-      "word": "杭州的桂花到底有多香",
-      "onboard_time": 1733198421,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27533,
@@ -8737,6 +8833,14 @@
       "onboard_time": 1733008333,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8047,
+      "num": 220354,
+      "word": "单依纯说不出意外月底有新歌",
+      "onboard_time": 1733200821,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 7870,
