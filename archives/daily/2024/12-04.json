@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733246634664,
+  "endTime": 1733247742044,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -91,6 +91,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1035822,
+      "num": 1035822,
+      "word": "韩前总统文在寅发声",
+      "onboard_time": 1733244319,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1022519,
       "num": 965125,
       "word": "韩空降部队打碎玻璃窗进入国会",
@@ -112,14 +120,6 @@
       "word": "韩国国会通过解除戒严决议",
       "onboard_time": 1733242406,
       "rank": 43,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 919950,
-      "num": 919950,
-      "word": "韩前总统文在寅发声",
-      "onboard_time": 1733244319,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -235,6 +235,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 490304,
+      "num": 311621,
+      "word": "自己吓自己",
+      "onboard_time": 1733245158,
+      "rank": 15,
+      "category": "作品衍生,议题讨论"
+    },
+    {
+      "raw_hot": 483699,
+      "num": 304272,
+      "word": "韩国局势",
+      "onboard_time": 1733244618,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 481490,
       "num": 481490,
       "word": "韩国民众高喊口号要求撤回戒严令",
@@ -259,20 +275,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 406584,
-      "num": 311621,
-      "word": "自己吓自己",
-      "onboard_time": 1733245158,
-      "rank": 15,
-      "category": "作品衍生,议题讨论"
-    },
-    {
-      "raw_hot": 406561,
-      "num": 304272,
-      "word": "韩国局势",
-      "onboard_time": 1733244618,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 417515,
+      "num": 164503,
+      "word": "南韩汪峰",
+      "onboard_time": 1733246057,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 387782,
@@ -288,6 +296,14 @@
       "word": "韩要求罢工的医生48小时内返岗",
       "onboard_time": 1733241988,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 317105,
+      "num": 153062,
+      "word": "707",
+      "onboard_time": 1733246176,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -315,19 +331,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289133,
+      "num": 4023781,
+      "word": "韩国总统深夜宣布紧急戒严时间线",
+      "onboard_time": 1733244380,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 285244,
       "num": 285244,
       "word": "在韩中国公民紧急求助电话",
       "onboard_time": 1733240546,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 281323,
-      "num": 4023781,
-      "word": "韩国总统深夜宣布紧急戒严时间线",
-      "onboard_time": 1733244380,
-      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1733239106,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264412,
+      "num": 315985,
+      "word": "李在明要求韩国国会外军警撤退",
+      "onboard_time": 1733245937,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261056,
@@ -387,12 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223629,
-      "num": 164503,
-      "word": "南韩汪峰",
-      "onboard_time": 1733246057,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 186595,
+      "num": 324541,
+      "word": "马斯克千亿美元薪酬梦又被她击碎",
+      "onboard_time": 1733245757,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174500,
@@ -401,14 +425,6 @@
       "onboard_time": 1733230160,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166654,
-      "num": 315985,
-      "word": "李在明要求韩国国会外军警撤退",
-      "onboard_time": 1733245937,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 160180,
@@ -427,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152977,
+      "num": 306205,
+      "word": "男子转账被限额怒问银行",
+      "onboard_time": 1733243003,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142570,
       "num": 1619084,
       "word": "中国半导体行业协会发声明",
@@ -435,28 +459,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121307,
-      "num": 121307,
-      "word": "707",
-      "onboard_time": 1733246176,
-      "rank": 35,
+      "raw_hot": 119180,
+      "num": 119180,
+      "word": "韩国防部官员称将维持戒严法",
+      "onboard_time": 1733246415,
+      "rank": 44,
       "category": "国际时政"
     },
     {
-      "raw_hot": 104428,
-      "num": 324541,
-      "word": "马斯克千亿美元薪酬梦又被她击碎",
-      "onboard_time": 1733245757,
+      "raw_hot": 103540,
+      "num": 174055,
+      "word": "韩媒发布韩国军人撤出国会画面",
+      "onboard_time": 1733246655,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94487,
-      "num": 306205,
-      "word": "男子转账被限额怒问银行",
-      "onboard_time": 1733243003,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93984,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 81121,
-      "num": 81121,
+      "num": 151706,
       "word": "娜扎经纪人回应有明星相",
       "onboard_time": 1733235382,
       "rank": 39,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 74158,
-      "num": 74158,
+      "num": 150964,
       "word": "继承者们",
       "onboard_time": 1733228600,
       "rank": 40,
@@ -529,14 +545,6 @@
       "onboard_time": 1733242766,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58719,
-      "num": 73831,
-      "word": "韩国防部官员称将维持戒严法",
-      "onboard_time": 1733246415,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58647,
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39239,
+      "num": 71043,
+      "word": "山东舞蹈统考明确考生不得化妆",
+      "onboard_time": 1733247674,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 34586,
       "num": 616689,
       "word": "PS合作伙伴奖",
@@ -603,10 +619,26 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23659,
+      "num": 152896,
+      "word": "向佐抽象语音包",
+      "onboard_time": 1733246835,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15128,
       "num": 501179,
       "word": "孙颖莎称混团世界杯会全力以赴",
       "onboard_time": 1733244080,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11885,
+      "num": 152429,
+      "word": "被孙颖莎可爱晕了",
+      "onboard_time": 1733246655,
       "rank": 24,
       "category": "体育"
     }
@@ -614,6 +646,9 @@
   "hotgov_list": [
     {
       "word": "#中国和尼泊尔是好邻居好朋友好伙伴#"
+    },
+    {
+      "word": "#习近平同洪森会谈#"
     }
   ]
 }
