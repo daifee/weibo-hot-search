@@ -1,6 +1,6 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733218833414,
+  "endTime": 1733221642566,
   "band_list": [
     {
       "raw_hot": 3251986,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1073746,
+      "num": 1073746,
+      "word": "麦琳 康熙来了",
+      "onboard_time": 1733218819,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1069535,
       "num": 1122243,
       "word": "6岁女儿蹭跑全马父亲涉违规",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 918498,
-      "num": 496521,
+      "num": 836323,
       "word": "黄子韬朋友圈 语录推荐",
       "onboard_time": 1733215881,
       "rank": 10,
@@ -137,6 +145,14 @@
       "onboard_time": 1733151742,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 888582,
+      "num": 1142173,
+      "word": "福宝检查后在洞口张望",
+      "onboard_time": 1733219960,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 881731,
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536086,
+      "num": 419224,
+      "word": "周密式聊天",
+      "onboard_time": 1733219300,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519174,
       "num": 519174,
       "word": "于正内涵伪大女主",
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 465193,
-      "num": 406839,
+      "num": 416761,
       "word": "董事长套现9亿后反劝投资者耐心一点",
       "onboard_time": 1733215759,
       "rank": 11,
@@ -467,12 +491,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 444175,
+      "num": 418552,
+      "word": "刘雯开场",
+      "onboard_time": 1733220260,
+      "rank": 11,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 443039,
       "num": 443039,
       "word": "四个原因决定我们冬天更容易睡过头",
       "onboard_time": 1733182997,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 431192,
+      "num": 431192,
+      "word": "中国大熊猫研究中心回应福宝发抖",
+      "onboard_time": 1733218280,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427246,
+      "num": 427246,
+      "word": "王一博 这是啥问题",
+      "onboard_time": 1733218338,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 426209,
@@ -611,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332028,
+      "num": 332028,
+      "word": "福宝今年曾进入假孕状态",
+      "onboard_time": 1733219179,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328751,
       "num": 328751,
       "word": "阴阳师",
@@ -635,12 +691,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312143,
+      "num": 417939,
+      "word": "周芯竹体面",
+      "onboard_time": 1733221039,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310775,
       "num": 354607,
       "word": "中国向联合国交存黄岩岛领海基线声明",
       "onboard_time": 1733188218,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 299374,
+      "num": 299374,
+      "word": "连云港",
+      "onboard_time": 1733218219,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296120,
@@ -835,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230812,
+      "num": 419665,
+      "word": "中方就美更新半导体出口管制提出严正交涉",
+      "onboard_time": 1733220199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230773,
       "num": 230773,
       "word": "国乒回应8比1战胜美国队",
@@ -995,6 +1075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 210310,
+      "num": 210310,
+      "word": "金高银辛芷蕾同框",
+      "onboard_time": 1733220560,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208957,
       "num": 208957,
       "word": "代号鸢",
@@ -1025,14 +1113,6 @@
       "onboard_time": 1733188758,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203562,
-      "num": 320295,
-      "word": "王一博 这是啥问题",
-      "onboard_time": 1733218338,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201150,
@@ -1123,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190816,
+      "num": 190816,
+      "word": "传说豆腐的原材料跟仙丹一样",
+      "onboard_time": 1733220919,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 190374,
       "num": 211178,
       "word": "孙颖莎回应签名只有莎",
@@ -1155,12 +1243,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188282,
+      "num": 188282,
+      "word": "崩坏星穹铁道 抄袭",
+      "onboard_time": 1733221280,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188194,
       "num": 274201,
       "word": "崩坏星穹铁道 星期日",
       "onboard_time": 1733210420,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188059,
+      "num": 253820,
+      "word": "王一博静坐其间如一幅画",
+      "onboard_time": 1733220379,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187688,
@@ -1227,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183646,
+      "num": 183646,
+      "word": "19岁机车女网红因车祸去世",
+      "onboard_time": 1733221460,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181691,
       "num": 181691,
       "word": "黄子韬 callme",
@@ -1243,12 +1355,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 181635,
+      "num": 326582,
+      "word": "丁禹兮 四季男友",
+      "onboard_time": 1733218699,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181348,
       "num": 181348,
       "word": "广东人快脱水成番薯干了",
       "onboard_time": 1733215400,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181310,
+      "num": 181310,
+      "word": "宋亚轩 最好不是同一根线",
+      "onboard_time": 1733219418,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 180648,
@@ -1467,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160112,
+      "num": 160112,
+      "word": "接下来连续5年都没有大年三十",
+      "onboard_time": 1733220859,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159893,
       "num": 159893,
       "word": "逆水寒手游",
@@ -1507,20 +1643,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156452,
+      "num": 156452,
+      "word": "卢昱晓香奈儿大秀造型",
+      "onboard_time": 1733221580,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155425,
       "num": 270071,
       "word": "957谈LPL解说考核",
       "onboard_time": 1733214739,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154341,
-      "num": 327481,
-      "word": "中国大熊猫研究中心回应福宝发抖",
-      "onboard_time": 1733218280,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150521,
@@ -1612,7 +1748,7 @@
     },
     {
       "raw_hot": 142000,
-      "num": 142000,
+      "num": 302084,
       "word": "莎头是否出战会服从安排",
       "onboard_time": 1733217860,
       "rank": 48,
@@ -1760,6 +1896,14 @@
       "word": "女子推理社",
       "onboard_time": 1733202020,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112137,
+      "num": 208152,
+      "word": "江苏卫视跨年共创节目单",
+      "onboard_time": 1733220199,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2067,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78278,
+      "num": 314530,
+      "word": "孙颖莎赛后回应自己状态",
+      "onboard_time": 1733221039,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77310,
       "num": 77310,
       "word": "李庚希魏大勋撤回的吻戏亲上了",
@@ -2131,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70828,
+      "num": 399111,
+      "word": "网红卷出联合国精英人设新赛道",
+      "onboard_time": 1733219779,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69409,
       "num": 294797,
       "word": "田曦薇笑颜vs冷脸",
@@ -2177,14 +2337,6 @@
       "onboard_time": 1733182457,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65195,
-      "num": 326582,
-      "word": "丁禹兮 四季男友",
-      "onboard_time": 1733218699,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 65143,
@@ -2313,6 +2465,14 @@
       "onboard_time": 1733218338,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58082,
+      "num": 307865,
+      "word": "韩国400多年前火枪用汉字标注重量",
+      "onboard_time": 1733220319,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57370,
@@ -2491,6 +2651,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 45650,
+      "num": 949142,
+      "word": "宪法点亮生活",
+      "onboard_time": 1733214680,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 45495,
+      "num": 344239,
+      "word": "杭州今天到底有谁在啊",
+      "onboard_time": 1733218338,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44906,
       "num": 61261,
       "word": "白宇拍的国乒",
@@ -2513,6 +2689,14 @@
       "onboard_time": 1733203761,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44426,
+      "num": 392570,
+      "word": "网红捏造单亲父亲外卖员身份骗流量",
+      "onboard_time": 1733220379,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43920,
@@ -2571,20 +2755,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 39656,
+      "num": 417365,
+      "word": "城市高知女性更敢单独抚养孩子",
+      "onboard_time": 1733220439,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 39108,
       "num": 211279,
       "word": "独孤羊上一世办案这一世犯案",
       "onboard_time": 1733217501,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38211,
-      "num": 539198,
-      "word": "宪法点亮生活",
-      "onboard_time": 1733214680,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38129,
@@ -2648,6 +2832,14 @@
       "word": "张钧甯我在说你有在听吗",
       "onboard_time": 1733204121,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34989,
+      "num": 410593,
+      "word": "惠英红日照金山直播",
+      "onboard_time": 1733221339,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2835,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25120,
+      "num": 181925,
+      "word": "井柏然改行做导游了",
+      "onboard_time": 1733218699,
+      "rank": 49,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 24489,
       "num": 42130,
       "word": "千金府",
@@ -2849,14 +3049,6 @@
       "onboard_time": 1733200821,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24112,
-      "num": 213701,
-      "word": "杭州今天到底有谁在啊",
-      "onboard_time": 1733218338,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 23321,
@@ -3067,14 +3259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13018,
-      "num": 181925,
-      "word": "井柏然改行做导游了",
-      "onboard_time": 1733218699,
-      "rank": 49,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 12530,
       "num": 23871,
       "word": "53秒了解中俄东线天然气管道",
@@ -3143,6 +3327,9 @@
     },
     {
       "word": "#习近平向2024年读懂中国国际会议致贺信#"
+    },
+    {
+      "word": "#推动高质量共建一带一路走深走实#"
     }
   ]
 }

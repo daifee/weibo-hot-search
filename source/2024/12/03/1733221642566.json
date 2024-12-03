@@ -1,0 +1,410 @@
+{
+  "runTime": 1733221642566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888582,
+        "num": 1142173,
+        "word": "福宝检查后在洞口张望",
+        "onboard_time": 1733219960,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073746,
+        "num": 1073746,
+        "word": "麦琳 康熙来了",
+        "onboard_time": 1733218819,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45650,
+        "num": 949142,
+        "word": "宪法点亮生活",
+        "onboard_time": 1733214680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 836323,
+        "num": 836323,
+        "word": "黄子韬朋友圈 语录推荐",
+        "onboard_time": 1733215881,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523085,
+        "num": 523085,
+        "word": "博主灰太狼因胃癌英年早逝",
+        "onboard_time": 1733210900,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480831,
+        "num": 480831,
+        "word": "一乡镇公务员日均接收文件通知60多份",
+        "onboard_time": 1733212581,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 431192,
+        "num": 431192,
+        "word": "中国大熊猫研究中心回应福宝发抖",
+        "onboard_time": 1733218280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427246,
+        "num": 427246,
+        "word": "王一博 这是啥问题",
+        "onboard_time": 1733218338,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 419878,
+        "num": 419878,
+        "word": "豪士面包老板哭了",
+        "onboard_time": 1733198060,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 230812,
+        "num": 419665,
+        "word": "中方就美更新半导体出口管制提出严正交涉",
+        "onboard_time": 1733220199,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 536086,
+        "num": 419224,
+        "word": "周密式聊天",
+        "onboard_time": 1733219300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444175,
+        "num": 418552,
+        "word": "刘雯开场",
+        "onboard_time": 1733220260,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 310914,
+        "num": 418167,
+        "word": "韩国演员朴敏宰去世",
+        "onboard_time": 1733204959,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312143,
+        "num": 417939,
+        "word": "周芯竹体面",
+        "onboard_time": 1733221039,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39656,
+        "num": 417365,
+        "word": "城市高知女性更敢单独抚养孩子",
+        "onboard_time": 1733220439,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 77681,
+        "num": 416973,
+        "word": "香奈儿在杭州",
+        "onboard_time": 1733213720,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 416761,
+        "num": 416761,
+        "word": "董事长套现9亿后反劝投资者耐心一点",
+        "onboard_time": 1733215759,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34989,
+        "num": 410593,
+        "word": "惠英红日照金山直播",
+        "onboard_time": 1733221339,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70828,
+        "num": 399111,
+        "word": "网红卷出联合国精英人设新赛道",
+        "onboard_time": 1733219779,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44426,
+        "num": 392570,
+        "word": "网红捏造单亲父亲外卖员身份骗流量",
+        "onboard_time": 1733220379,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678952,
+        "num": 386112,
+        "word": "福宝发抖",
+        "onboard_time": 1733204001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376026,
+        "num": 376026,
+        "word": "马龙到底带了多少礼物去台湾",
+        "onboard_time": 1733217259,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356801,
+        "num": 356801,
+        "word": "老板接44元订单竟涉嫌帮人洗钱",
+        "onboard_time": 1733213779,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45495,
+        "num": 344239,
+        "word": "杭州今天到底有谁在啊",
+        "onboard_time": 1733218338,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332028,
+        "num": 332028,
+        "word": "福宝今年曾进入假孕状态",
+        "onboard_time": 1733219179,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330035,
+        "num": 330035,
+        "word": "范丞丞唇钉",
+        "onboard_time": 1733216540,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268607,
+        "num": 325087,
+        "word": "黄圣依家世",
+        "onboard_time": 1733207480,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210633,
+        "num": 322666,
+        "word": "李一桐 30多岁正是不想谈恋爱的年纪",
+        "onboard_time": 1733214859,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78278,
+        "num": 314530,
+        "word": "孙颖莎赛后回应自己状态",
+        "onboard_time": 1733221039,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58082,
+        "num": 307865,
+        "word": "韩国400多年前火枪用汉字标注重量",
+        "onboard_time": 1733220319,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305269,
+        "num": 305269,
+        "word": "男子欲潜规则下属被拒后称白提拔你",
+        "onboard_time": 1733212999,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 65819,
+        "num": 302084,
+        "word": "莎头是否出战会服从安排",
+        "onboard_time": 1733217860,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299374,
+        "num": 299374,
+        "word": "连云港",
+        "onboard_time": 1733218219,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188059,
+        "num": 253820,
+        "word": "王一博静坐其间如一幅画",
+        "onboard_time": 1733220379,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210310,
+        "num": 210310,
+        "word": "金高银辛芷蕾同框",
+        "onboard_time": 1733220560,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112137,
+        "num": 208152,
+        "word": "江苏卫视跨年共创节目单",
+        "onboard_time": 1733220199,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242278,
+        "num": 207201,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206048,
+        "num": 206048,
+        "word": "禁止两用物项对美国军事用户出口",
+        "onboard_time": 1733215580,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196210,
+        "num": 196210,
+        "word": "阴阳师 老铁崩不住了",
+        "onboard_time": 1733207660,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190816,
+        "num": 190816,
+        "word": "传说豆腐的原材料跟仙丹一样",
+        "onboard_time": 1733220919,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188282,
+        "num": 188282,
+        "word": "崩坏星穹铁道 抄袭",
+        "onboard_time": 1733221280,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183646,
+        "num": 183646,
+        "word": "19岁机车女网红因车祸去世",
+        "onboard_time": 1733221460,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181635,
+        "num": 181635,
+        "word": "丁禹兮 四季男友",
+        "onboard_time": 1733218699,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181310,
+        "num": 181310,
+        "word": "宋亚轩 最好不是同一根线",
+        "onboard_time": 1733219418,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178009,
+        "num": 178009,
+        "word": "马龙笑看台湾绿媒造谣",
+        "onboard_time": 1733211920,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170144,
+        "num": 170144,
+        "word": "女兵服役12年退伍向张桂梅报到",
+        "onboard_time": 1733215640,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160112,
+        "num": 160112,
+        "word": "接下来连续5年都没有大年三十",
+        "onboard_time": 1733220859,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156452,
+        "num": 156452,
+        "word": "卢昱晓香奈儿大秀造型",
+        "onboard_time": 1733221580,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155359,
+        "num": 155359,
+        "word": "陆定昊道歉信",
+        "onboard_time": 1733215279,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25120,
+        "num": 150669,
+        "word": "井柏然改行做导游了",
+        "onboard_time": 1733218699,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动高质量共建一带一路走深走实#"
+    }
+  }
+}
