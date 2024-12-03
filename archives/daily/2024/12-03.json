@@ -1,18 +1,26 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733182761253,
+  "endTime": 1733190677887,
   "band_list": [
     {
       "raw_hot": 1660737,
-      "num": 183198,
+      "num": 341246,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1733143765,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1205199,
+      "num": 170422,
+      "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+      "onboard_time": 1733186959,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1069535,
-      "num": 1069535,
+      "num": 1122243,
       "word": "6岁女儿蹭跑全马父亲涉违规",
       "onboard_time": 1733152460,
       "rank": 0,
@@ -43,6 +51,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693374,
+      "num": 546299,
+      "word": "陈少熙说有喜欢的人了",
+      "onboard_time": 1733181915,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 612479,
+      "num": 612479,
+      "word": "黄子韬说徐艺洋拍结婚照没洗头",
+      "onboard_time": 1733144785,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609128,
       "num": 609128,
       "word": "快乐再出发录制与游客起冲突",
@@ -59,19 +83,43 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 546299,
-      "num": 546299,
-      "word": "陈少熙说有喜欢的人了",
-      "onboard_time": 1733181915,
-      "rank": 3,
+      "raw_hot": 443039,
+      "num": 443039,
+      "word": "四个原因决定我们冬天更容易睡过头",
+      "onboard_time": 1733182997,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 426209,
+      "num": 369376,
+      "word": "压力给到鹿晗",
+      "onboard_time": 1733188638,
+      "rank": 6,
       "category": "艺人"
     },
     {
-      "raw_hot": 445944,
-      "num": 232608,
-      "word": "黄子韬说徐艺洋拍结婚照没洗头",
-      "onboard_time": 1733144785,
-      "rank": 6,
+      "raw_hot": 371104,
+      "num": 371104,
+      "word": "身份证拍照小提示",
+      "onboard_time": 1733160133,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 365840,
+      "num": 365840,
+      "word": "孙颖莎签名只有莎",
+      "onboard_time": 1733186959,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 362045,
+      "num": 362045,
+      "word": "黄子韬在领证视频下回复网友",
+      "onboard_time": 1733188638,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -83,12 +131,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351709,
+      "num": 351709,
+      "word": "黄岩岛是中国固有领土",
+      "onboard_time": 1733184258,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 310775,
+      "num": 354607,
+      "word": "中国向联合国交存黄岩岛领海基线声明",
+      "onboard_time": 1733188218,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 295260,
       "num": 150526,
       "word": "某综艺在西安一公园录制引游客不满",
       "onboard_time": 1733142205,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266851,
+      "num": 266851,
+      "word": "快乐再出发制片人报销并提供门票",
+      "onboard_time": 1733183239,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264492,
+      "num": 264492,
+      "word": "徐艺洋幼师资格证下来了",
+      "onboard_time": 1733142025,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263005,
+      "num": 263005,
+      "word": "西安秦岭四宝科学公园致歉",
+      "onboard_time": 1733184258,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 258587,
@@ -105,6 +193,14 @@
       "onboard_time": 1733153000,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234312,
+      "num": 170336,
+      "word": "吴柳芳涨粉太快被吓到",
+      "onboard_time": 1733182155,
+      "rank": 24,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 233509,
@@ -147,6 +243,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215121,
+      "num": 215121,
+      "word": "珠帘玉幕11月全网播放冠军",
+      "onboard_time": 1733181975,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204218,
+      "num": 170287,
+      "word": "男子刷视频发现恋爱7年的女友结婚",
+      "onboard_time": 1733188758,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198023,
+      "num": 170186,
+      "word": "陈都灵的头纱",
+      "onboard_time": 1733187620,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187688,
+      "num": 187688,
+      "word": "广西砂糖橘又去东北了",
+      "onboard_time": 1733181316,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186292,
       "num": 186292,
       "word": "婚内婚外这一幕完全是恐怖片",
@@ -163,12 +291,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 179494,
-      "num": 110079,
-      "word": "徐艺洋幼师资格证下来了",
-      "onboard_time": 1733142025,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 179661,
+      "num": 170179,
+      "word": "双胞胎姐妹同日得知怀孕同日生产",
+      "onboard_time": 1733188218,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173722,
@@ -179,12 +307,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170430,
+      "num": 170430,
+      "word": "蔡徐坤海外封面",
+      "onboard_time": 1733190137,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 168258,
+      "num": 168258,
+      "word": "TheShy山西文化旅游推广大使",
+      "onboard_time": 1733189898,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 165195,
+      "num": 165195,
+      "word": "又一股冷空气准备好了",
+      "onboard_time": 1733190378,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161637,
       "num": 120725,
       "word": "Angelababy染发了",
       "onboard_time": 1733127920,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161388,
+      "num": 161388,
+      "word": "搅拌车压扁小轿车驾驶员仅轻伤",
+      "onboard_time": 1733187259,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146269,
+      "num": 170260,
+      "word": "孙颖莎训练一打三",
+      "onboard_time": 1733189419,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145439,
+      "num": 145439,
+      "word": "mlxg谈Doinb",
+      "onboard_time": 1733190378,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 144625,
@@ -211,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140438,
+      "num": 140438,
+      "word": "登上黄山才发现水墨画还是保守了",
+      "onboard_time": 1733190317,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 137459,
       "num": 137459,
       "word": "逐玉 高卿尘",
@@ -225,6 +409,14 @@
       "onboard_time": 1733154260,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136760,
+      "num": 136760,
+      "word": "27款APP有侵害用户权益行为",
+      "onboard_time": 1733190378,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 134955,
@@ -251,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116481,
+      "num": 116481,
+      "word": "这件大口尊刻着一场5000年前的日出",
+      "onboard_time": 1733161814,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 116080,
       "num": 116080,
       "word": "我是刑警第3个恶性大案",
@@ -259,12 +459,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109404,
+      "num": 109404,
+      "word": "10万斤广西砂糖橘在沈阳免费发放",
+      "onboard_time": 1733169670,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108168,
+      "num": 108168,
+      "word": "山东省考准考证",
+      "onboard_time": 1733189419,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 108162,
+      "num": 108162,
+      "word": "官方通报27款APP侵害用户权益",
+      "onboard_time": 1733188878,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 107032,
+      "num": 107032,
+      "word": "callme文学",
+      "onboard_time": 1733187799,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106797,
       "num": 106797,
       "word": "郭敬明 月鳞绮纪原始帧",
       "onboard_time": 1733148203,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106617,
+      "num": 106856,
+      "word": "6岁小孩姐跑完42公里全马",
+      "onboard_time": 1733154501,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105033,
@@ -283,20 +523,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101461,
-      "num": 171208,
-      "word": "广西砂糖橘又去东北了",
-      "onboard_time": 1733181316,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 100674,
+      "num": 100674,
+      "word": "十个勤天直播为陈少熙庆生",
+      "onboard_time": 1733185759,
+      "rank": 46,
+      "category": "艺人"
     },
     {
-      "raw_hot": 100695,
-      "num": 100695,
-      "word": "珠帘玉幕11月全网播放冠军",
-      "onboard_time": 1733181975,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 100433,
+      "num": 101399,
+      "word": "D社爆闵熙珍利用NewJeans",
+      "onboard_time": 1733182155,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99506,
+      "num": 99506,
+      "word": "种地吧",
+      "onboard_time": 1733184440,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99204,
+      "num": 99204,
+      "word": "降温的风吹到了南方",
+      "onboard_time": 1733190378,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97126,
@@ -305,14 +561,6 @@
       "onboard_time": 1733141544,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94845,
-      "num": 94845,
-      "word": "吴柳芳涨粉太快被吓到",
-      "onboard_time": 1733182155,
-      "rank": 24,
-      "category": "艺人,网红"
     },
     {
       "raw_hot": 94643,
@@ -371,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82229,
-      "num": 106856,
-      "word": "6岁小孩姐跑完42公里全马",
-      "onboard_time": 1733154501,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80474,
       "num": 80474,
       "word": "贺峻霖顺毛vs爆炸头",
@@ -419,28 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69774,
-      "num": 69774,
-      "word": "身份证拍照小提示",
-      "onboard_time": 1733160133,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69334,
       "num": 69334,
       "word": "苏醒 聚的人多了也便成了团",
       "onboard_time": 1733150002,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67035,
-      "num": 67035,
-      "word": "这件大口尊刻着一场5000年前的日出",
-      "onboard_time": 1733161814,
-      "rank": 27,
-      "category": "正能量"
     },
     {
       "raw_hot": 65669,
@@ -465,6 +689,14 @@
       "onboard_time": 1733136918,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63634,
+      "num": 567426,
+      "word": "数说我国首条世界级天然气管道",
+      "onboard_time": 1733145265,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63423,
@@ -593,14 +825,6 @@
       "onboard_time": 1733159295,
       "rank": 48,
       "category": "美食,休闲"
-    },
-    {
-      "raw_hot": 40266,
-      "num": 567426,
-      "word": "数说我国首条世界级天然气管道",
-      "onboard_time": 1733145265,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38129,
@@ -865,22 +1089,6 @@
       "onboard_time": 1733167691,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11670,
-      "num": 14452,
-      "word": "10万斤广西砂糖橘在沈阳免费发放",
-      "onboard_time": 1733169670,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11258,
-      "num": 101399,
-      "word": "D社爆闵熙珍利用NewJeans",
-      "onboard_time": 1733182155,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 8318,
