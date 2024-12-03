@@ -1,10 +1,10 @@
 {
   "startTime": 1733157067034,
-  "endTime": 1733235687950,
+  "endTime": 1733236887128,
   "band_list": [
     {
-      "raw_hot": 7762317,
-      "num": 7762317,
+      "raw_hot": 15438743,
+      "num": 15438743,
       "word": "韩国总统发布紧急戒严令",
       "onboard_time": 1733234242,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1733223620,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3594689,
+      "num": 3594689,
+      "word": "韩国",
+      "onboard_time": 1733234721,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3251986,
@@ -35,14 +43,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 2537327,
-      "num": 2537327,
-      "word": "韩国",
-      "onboard_time": 1733234721,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 2342869,
       "num": 1790045,
       "word": "香奈儿大秀 死亡打光",
@@ -57,6 +57,14 @@
       "onboard_time": 1733204001,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1980563,
+      "num": 1980563,
+      "word": "韩国防长召集全国主要指挥官会议",
+      "onboard_time": 1733235022,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1660737,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1212450,
+      "num": 1212450,
+      "word": "金龟子女儿因孩子断奶崩溃大哭",
+      "onboard_time": 1733233161,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1205199,
       "num": 440881,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
@@ -131,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1082011,
-      "num": 1082011,
-      "word": "韩国防长召集全国主要指挥官会议",
-      "onboard_time": 1733235022,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1073746,
       "num": 1073746,
       "word": "麦琳 康熙来了",
@@ -153,14 +161,6 @@
       "onboard_time": 1733152460,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1045461,
-      "num": 1045461,
-      "word": "金龟子女儿因孩子断奶崩溃大哭",
-      "onboard_time": 1733233161,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 1040017,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 826160,
+      "num": 1465269,
+      "word": "女硕士患精神分裂症失踪15年被找回",
+      "onboard_time": 1733233941,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 786213,
       "num": 539297,
       "word": "继承者们",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 706277,
-      "num": 307599,
+      "num": 444730,
       "word": "男子与军嫂同居4年被判刑",
       "onboard_time": 1733231540,
       "rank": 22,
@@ -371,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 679531,
-      "num": 1311415,
-      "word": "女硕士患精神分裂症失踪15年被找回",
-      "onboard_time": 1733233941,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 671695,
       "num": 671695,
       "word": "工资被折换购物卡还限额使用",
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 667994,
-      "num": 667994,
+      "num": 862183,
       "word": "中国半导体行业协会发声明",
       "onboard_time": 1733227821,
       "rank": 5,
@@ -619,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 458872,
+      "num": 458872,
+      "word": "娜扎经纪人回应有明星相",
+      "onboard_time": 1733235382,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457858,
       "num": 418693,
       "word": "善解人意的麦琳和没钱的杨子",
@@ -739,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412335,
+      "num": 728498,
+      "word": "韩国国会出入口关闭",
+      "onboard_time": 1733236165,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411102,
       "num": 411102,
       "word": "王一博像在走秀",
@@ -795,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375639,
+      "num": 375639,
+      "word": "尹锡悦说将肃清国内反国家势力",
+      "onboard_time": 1733235865,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 375282,
       "num": 369233,
       "word": "感觉章若楠香香的",
@@ -843,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363337,
+      "num": 841068,
+      "word": "韩国总统称将肃清反国家势力",
+      "onboard_time": 1733235805,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 358963,
       "num": 358963,
       "word": "组委会回应6岁女孩跑完全马",
@@ -865,6 +897,14 @@
       "onboard_time": 1733214619,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 354004,
+      "num": 354004,
+      "word": "李在明呼吁韩国民众保护国会",
+      "onboard_time": 1733236104,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 353624,
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 335272,
-      "num": 335272,
+      "num": 705615,
       "word": "杨倩台湾夜市打气球百发百中引惊呼",
       "onboard_time": 1733231360,
       "rank": 40,
@@ -1243,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224609,
+      "num": 324345,
+      "word": "陈天润参加艺考",
+      "onboard_time": 1733233822,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223658,
       "num": 263957,
       "word": "王一博全黑造型路透",
@@ -1323,14 +1371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 215792,
-      "num": 324345,
-      "word": "陈天润参加艺考",
-      "onboard_time": 1733233822,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215734,
       "num": 391120,
       "word": "刘宇宁地铁音乐会",
@@ -1395,12 +1435,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 210543,
+      "num": 489611,
+      "word": "白敬亭直播",
+      "onboard_time": 1733236225,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209441,
       "num": 209441,
       "word": "GALA分享iG卡莎",
       "onboard_time": 1733225000,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209422,
+      "num": 209422,
+      "word": "尹锡悦列举多项理由",
+      "onboard_time": 1733236585,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208957,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1733188758,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203288,
+      "num": 203288,
+      "word": "广东男篮vs山西男篮",
+      "onboard_time": 1733236466,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 201494,
@@ -1561,6 +1625,22 @@
       "onboard_time": 1733221939,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193612,
+      "num": 193612,
+      "word": "于正说服卢昱晓让别人配音",
+      "onboard_time": 1733234001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193542,
+      "num": 193542,
+      "word": "比特币24小时超16万人爆仓",
+      "onboard_time": 1733235744,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 193521,
@@ -1707,20 +1787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185211,
+      "num": 355416,
+      "word": "徐杰绝杀",
+      "onboard_time": 1733236525,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184952,
       "num": 184952,
       "word": "美国芯片产品不再可靠安全",
       "onboard_time": 1733224220,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184807,
-      "num": 184807,
-      "word": "于正说服卢昱晓让别人配音",
-      "onboard_time": 1733234001,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 184719,
@@ -1737,6 +1817,14 @@
       "onboard_time": 1733234302,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184514,
+      "num": 184514,
+      "word": "女生改吃广东餐一年瘦20斤",
+      "onboard_time": 1733236406,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 184471,
@@ -2083,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160824,
+      "num": 160824,
+      "word": "李行亮南昌商演官宣照被删",
+      "onboard_time": 1733233280,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160112,
       "num": 160112,
       "word": "接下来连续5年都没有大年三十",
@@ -2145,14 +2241,6 @@
       "onboard_time": 1733226679,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156465,
-      "num": 156465,
-      "word": "李行亮南昌商演官宣照被删",
-      "onboard_time": 1733233280,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 155425,
@@ -2241,14 +2329,6 @@
       "onboard_time": 1733205740,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143210,
-      "num": 191424,
-      "word": "娜扎经纪人回应有明星相",
-      "onboard_time": 1733235382,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 142788,
@@ -2441,6 +2521,14 @@
       "onboard_time": 1733235382,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121049,
+      "num": 705139,
+      "word": "韩执政党称总统宣布紧急戒严错误",
+      "onboard_time": 1733236165,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120840,
@@ -2715,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96663,
+      "num": 488210,
+      "word": "混团世界杯八强出炉",
+      "onboard_time": 1733236345,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96579,
       "num": 299696,
       "word": "金高银用中文打招呼",
@@ -2753,6 +2849,14 @@
       "onboard_time": 1733203640,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89104,
+      "num": 335738,
+      "word": "河北多名白血病人深陷配捐骗局",
+      "onboard_time": 1733234842,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 88054,
@@ -3411,20 +3515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47622,
+      "num": 463528,
+      "word": "香奈儿三潭印月",
+      "onboard_time": 1733234662,
+      "rank": 19,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 47275,
       "num": 323984,
       "word": "在你身边的华为温度",
       "onboard_time": 1733196078,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 47082,
-      "num": 335738,
-      "word": "河北多名白血病人深陷配捐骗局",
-      "onboard_time": 1733234842,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 46797,
@@ -3593,6 +3697,14 @@
       "onboard_time": 1733157316,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37530,
+      "num": 2148369,
+      "word": "数说一带一路成绩单",
+      "onboard_time": 1733234603,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36811,
@@ -3891,14 +4003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24243,
-      "num": 307122,
-      "word": "香奈儿三潭印月",
-      "onboard_time": 1733234662,
-      "rank": 19,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 23321,
       "num": 223396,
       "word": "林高远王艺迪vs南丹古德温",
@@ -3961,14 +4065,6 @@
       "onboard_time": 1733163132,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21115,
-      "num": 2077792,
-      "word": "数说一带一路成绩单",
-      "onboard_time": 1733234603,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20934,
@@ -4123,12 +4219,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 14130,
+      "num": 176719,
+      "word": "香奈儿褶饰坊秀场look",
+      "onboard_time": 1733236704,
+      "rank": 45,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 13897,
       "num": 263898,
       "word": "沈月说转型是件自然而然的事情",
       "onboard_time": 1733222300,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13684,
+      "num": 193827,
+      "word": "明星香奈儿秀场穿搭",
+      "onboard_time": 1733235805,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 12966,
+      "num": 469071,
+      "word": "古一法师在杭州citywalk",
+      "onboard_time": 1733236704,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 12917,
@@ -4216,6 +4336,9 @@
     },
     {
       "word": "#习近平同洪森会谈#"
+    },
+    {
+      "word": "#中国和尼泊尔是好邻居好朋友好伙伴#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/12/03 22:21:27
+本榜单时间：2024/01/01 00:21:05 ~ 2024/12/03 22:41:27
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%9C%E7%94%B5%23" target="weibo">
 巴黎停电（热度：15610430）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E4%BB%A4%23" target="weibo">
+韩国总统发布紧急戒严令（热度：15438743）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86%E5%9B%BD%E6%97%97%E8%A2%AB%E6%8C%82%E9%94%99%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 韩国人找到了国旗被挂错的原因（热度：7975656）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%88%A0%E4%BA%86%E5%AE%A3%E4%BC%A0%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B0%E5%89%A7%E5%BE%AE%E5%8D%9A%23" target="weibo">
-鹿晗删了宣传关晓彤新剧微博（热度：7974172）
 </a>
 </li>
 
