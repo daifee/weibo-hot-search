@@ -1,0 +1,410 @@
+{
+  "runTime": 1733197863509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2770716,
+        "num": 2770716,
+        "word": "杨子大哥承认杨子黄圣依在演",
+        "onboard_time": 1733192178,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1199058,
+        "num": 1199058,
+        "word": "男子发现女儿非亲生儿子是杜撰的",
+        "onboard_time": 1733193198,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52867,
+        "num": 748369,
+        "word": "国产大型储卸油平台成功出口",
+        "onboard_time": 1733194098,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723804,
+        "num": 723804,
+        "word": "或有千万艾滋患者未被发现",
+        "onboard_time": 1733195418,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 631644,
+        "num": 631644,
+        "word": "10年交了23万保险费取钱还要等60年",
+        "onboard_time": 1733194399,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776444,
+        "num": 630285,
+        "word": "黄子韬在领证视频下回复网友",
+        "onboard_time": 1733188638,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624075,
+        "num": 624075,
+        "word": "耳朵经济火了",
+        "onboard_time": 1733192359,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451317,
+        "num": 451317,
+        "word": "汇率",
+        "onboard_time": 1733195120,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 397676,
+        "num": 438490,
+        "word": "特朗普警告哈马斯将付出巨大代价",
+        "onboard_time": 1733191518,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429109,
+        "num": 429109,
+        "word": "华为Mate70一周使用体验",
+        "onboard_time": 1733195239,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 931667,
+        "num": 416540,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1733143765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395451,
+        "num": 395451,
+        "word": "6岁女儿蹭跑全马父亲涉违规",
+        "onboard_time": 1733152460,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380267,
+        "num": 380267,
+        "word": "登上黄山才发现水墨画还是保守了",
+        "onboard_time": 1733190317,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 379468,
+        "num": 379468,
+        "word": "陈少熙说有喜欢的人了",
+        "onboard_time": 1733181915,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65652,
+        "num": 377037,
+        "word": "鹿晗关晓彤被催婚第15次上热搜",
+        "onboard_time": 1733197640,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375508,
+        "num": 375508,
+        "word": "男子刷视频发现妻子正举办婚礼",
+        "onboard_time": 1733196378,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353730,
+        "num": 353730,
+        "word": "新音 时代少年团",
+        "onboard_time": 1733195058,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341613,
+        "num": 341613,
+        "word": "种地吧 监工直播",
+        "onboard_time": 1733196078,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4840,
+        "num": 335555,
+        "word": "国产癫痫罕见病药品氯巴占进入医保",
+        "onboard_time": 1733196199,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22072,
+        "num": 323984,
+        "word": "在你身边的华为温度",
+        "onboard_time": 1733196078,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 802137,
+        "num": 308385,
+        "word": "男子突然高烧确诊艾滋后崩溃痛哭",
+        "onboard_time": 1733186959,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113556,
+        "num": 299960,
+        "word": "甄子丹张智霖吴镇宇新片尺度",
+        "onboard_time": 1733195359,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287714,
+        "num": 287714,
+        "word": "身份证拍照小提示",
+        "onboard_time": 1733160133,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271715,
+        "num": 271715,
+        "word": "张艺谋父女任达华父女 交换舞伴",
+        "onboard_time": 1733191278,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163104,
+        "num": 235619,
+        "word": "小花cos甄嬛造型",
+        "onboard_time": 1733197099,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84249,
+        "num": 228531,
+        "word": "夏目友人帐 三大帅哥合体",
+        "onboard_time": 1733196801,
+        "rank": 25,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 223658,
+        "num": 223658,
+        "word": "王一博全黑造型路透",
+        "onboard_time": 1733194639,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31202,
+        "num": 223519,
+        "word": "热火vs凯尔特人",
+        "onboard_time": 1733197460,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23321,
+        "num": 223396,
+        "word": "林高远王艺迪vs南丹古德温",
+        "onboard_time": 1733197579,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83203,
+        "num": 223339,
+        "word": "国乒vs美国",
+        "onboard_time": 1733196919,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46797,
+        "num": 223137,
+        "word": "入冬了脱发会更严重吗",
+        "onboard_time": 1733196559,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234012,
+        "num": 223000,
+        "word": "12岁女孩以为月经不调竟是癌症晚期",
+        "onboard_time": 1733155878,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222909,
+        "num": 222909,
+        "word": "抖音副总裁疑回应钟睒睒",
+        "onboard_time": 1733197219,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202642,
+        "num": 202642,
+        "word": "代号鸢玩麦琳梗",
+        "onboard_time": 1733197640,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196482,
+        "num": 196482,
+        "word": "蒲熠星粉丝群",
+        "onboard_time": 1733190677,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22004,
+        "num": 195360,
+        "word": "2024哥谭奖",
+        "onboard_time": 1733197518,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195279,
+        "num": 195279,
+        "word": "MINNIE确定solo出道",
+        "onboard_time": 1733197399,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178887,
+        "num": 178887,
+        "word": "陈都灵的头纱",
+        "onboard_time": 1733187620,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175528,
+        "num": 175528,
+        "word": "盲人线上观影时长是健视者两倍",
+        "onboard_time": 1733196499,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165434,
+        "num": 165434,
+        "word": "51岁阿姨一天打两份工的老年生活",
+        "onboard_time": 1733194457,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163812,
+        "num": 163812,
+        "word": "如何看待利用婚姻问题博流量",
+        "onboard_time": 1733195120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157379,
+        "num": 157379,
+        "word": "丁禹兮美拉德look",
+        "onboard_time": 1733194998,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156259,
+        "num": 156259,
+        "word": "又一股冷空气准备好了",
+        "onboard_time": 1733190378,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154396,
+        "num": 154396,
+        "word": "东北金渐层在冰上打出溜滑",
+        "onboard_time": 1733191518,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151927,
+        "num": 151927,
+        "word": "30岁女生在英国1磅的早午饭",
+        "onboard_time": 1733191397,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151556,
+        "num": 151556,
+        "word": "郑秀晶去上海了",
+        "onboard_time": 1733197760,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148428,
+        "num": 148428,
+        "word": "脱口秀演员史野",
+        "onboard_time": 1733191818,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143536,
+        "num": 143536,
+        "word": "无限暖暖",
+        "onboard_time": 1733191098,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142617,
+        "num": 142617,
+        "word": "种地吧",
+        "onboard_time": 1733184440,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142050,
+        "num": 142050,
+        "word": "黄子韬说徐艺洋拍结婚照没洗头",
+        "onboard_time": 1733144785,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路注重的是众人拾柴火焰高#"
+    }
+  }
+}

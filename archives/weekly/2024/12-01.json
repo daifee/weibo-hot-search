@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733196293812,
+  "endTime": 1733197863509,
   "band_list": [
     {
       "raw_hot": 13022974,
@@ -292,15 +292,15 @@
     },
     {
       "raw_hot": 1205199,
-      "num": 261768,
+      "num": 308385,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
       "onboard_time": 1733186959,
       "rank": 20,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1182445,
-      "num": 1182445,
+      "raw_hot": 1199058,
+      "num": 1199058,
       "word": "男子发现女儿非亲生儿子是杜撰的",
       "onboard_time": 1733193198,
       "rank": 1,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 723804,
+      "num": 723804,
+      "word": "或有千万艾滋患者未被发现",
+      "onboard_time": 1733195418,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 711990,
       "num": 711990,
       "word": "姜云升谈陈近南diss周密",
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631644,
+      "num": 631644,
+      "word": "10年交了23万保险费取钱还要等60年",
+      "onboard_time": 1733194399,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630410,
       "num": 397137,
       "word": "微信提现可以免手续费了",
@@ -801,6 +817,14 @@
       "onboard_time": 1733190317,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 624075,
+      "num": 624075,
+      "word": "耳朵经济火了",
+      "onboard_time": 1733192359,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 618819,
@@ -995,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535509,
-      "num": 535509,
-      "word": "耳朵经济火了",
-      "onboard_time": 1733192359,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 530631,
       "num": 450320,
       "word": "22岁陈小春曾给26岁梅艳芳伴舞",
@@ -1147,14 +1163,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 467124,
-      "num": 467124,
-      "word": "10年交了23万保险费取钱还要等60年",
-      "onboard_time": 1733194399,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 465333,
       "num": 418636,
       "word": "王曼昱VOGUE",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1733067199,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451317,
+      "num": 451317,
+      "word": "汇率",
+      "onboard_time": 1733195120,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 449039,
@@ -1337,14 +1353,6 @@
       "onboard_time": 1733116340,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 430480,
-      "num": 430480,
-      "word": "汇率",
-      "onboard_time": 1733195120,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 430467,
@@ -1555,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375508,
+      "num": 375508,
+      "word": "男子刷视频发现妻子正举办婚礼",
+      "onboard_time": 1733196378,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374478,
       "num": 267097,
       "word": "快乐再出发",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1733125398,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341613,
+      "num": 341613,
+      "word": "种地吧 监工直播",
+      "onboard_time": 1733196078,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 341359,
@@ -2307,14 +2331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244001,
-      "num": 244001,
-      "word": "或有千万艾滋患者未被发现",
-      "onboard_time": 1733195418,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 243805,
       "num": 243805,
       "word": "光与夜之恋",
@@ -2555,6 +2571,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223658,
+      "num": 263957,
+      "word": "王一博全黑造型路透",
+      "onboard_time": 1733194639,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222909,
+      "num": 222909,
+      "word": "抖音副总裁疑回应钟睒睒",
+      "onboard_time": 1733197219,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 222682,
       "num": 213352,
       "word": "女子麦当劳内咆哮式辱骂一男孩",
@@ -2681,14 +2713,6 @@
       "onboard_time": 1733181975,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214909,
-      "num": 263957,
-      "word": "王一博全黑造型路透",
-      "onboard_time": 1733194639,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214839,
@@ -2987,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202642,
+      "num": 202642,
+      "word": "代号鸢玩麦琳梗",
+      "onboard_time": 1733197640,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202422,
       "num": 284086,
       "word": "国考常识",
@@ -3145,6 +3177,14 @@
       "onboard_time": 1733127978,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195279,
+      "num": 195279,
+      "word": "MINNIE确定solo出道",
+      "onboard_time": 1733197399,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 194939,
@@ -3435,14 +3475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183668,
-      "num": 183668,
-      "word": "种地吧 监工直播",
-      "onboard_time": 1733196078,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183440,
       "num": 183440,
       "word": "白桃星座",
@@ -3577,6 +3609,14 @@
       "onboard_time": 1733015718,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175528,
+      "num": 175528,
+      "word": "盲人线上观影时长是健视者两倍",
+      "onboard_time": 1733196499,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175416,
@@ -3811,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165434,
+      "num": 165434,
+      "word": "51岁阿姨一天打两份工的老年生活",
+      "onboard_time": 1733194457,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165030,
       "num": 270154,
       "word": "李行亮商演价格或翻倍",
@@ -3833,6 +3881,14 @@
       "onboard_time": 1732980260,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163104,
+      "num": 235619,
+      "word": "小花cos甄嬛造型",
+      "onboard_time": 1733197099,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 162509,
@@ -4161,6 +4217,14 @@
       "onboard_time": 1733147183,
       "rank": 32,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 151556,
+      "num": 151556,
+      "word": "郑秀晶去上海了",
+      "onboard_time": 1733197760,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 151134,
@@ -5403,6 +5467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113556,
+      "num": 299960,
+      "word": "甄子丹张智霖吴镇宇新片尺度",
+      "onboard_time": 1733195359,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113090,
       "num": 252444,
       "word": "N2听力",
@@ -6179,6 +6251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 84249,
+      "num": 228531,
+      "word": "夏目友人帐 三大帅哥合体",
+      "onboard_time": 1733196801,
+      "rank": 25,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 84164,
       "num": 225091,
       "word": "2025个税专项附加扣除信息确认开始",
@@ -6209,6 +6289,14 @@
       "onboard_time": 1733070795,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83203,
+      "num": 223339,
+      "word": "国乒vs美国",
+      "onboard_time": 1733196919,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 82605,
@@ -6585,6 +6673,14 @@
       "onboard_time": 1733137399,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65652,
+      "num": 377037,
+      "word": "鹿晗关晓彤被催婚第15次上热搜",
+      "onboard_time": 1733197640,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 65536,
@@ -7108,7 +7204,7 @@
     },
     {
       "raw_hot": 47275,
-      "num": 186811,
+      "num": 323984,
       "word": "在你身边的华为温度",
       "onboard_time": 1733196078,
       "rank": 38,
@@ -7129,6 +7225,14 @@
       "onboard_time": 1733115860,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46797,
+      "num": 223137,
+      "word": "入冬了脱发会更严重吗",
+      "onboard_time": 1733196559,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46783,
@@ -7643,6 +7747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31202,
+      "num": 223519,
+      "word": "热火vs凯尔特人",
+      "onboard_time": 1733197460,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31001,
       "num": 38067,
       "word": "我的年度总结",
@@ -7971,6 +8083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23321,
+      "num": 223396,
+      "word": "林高远王艺迪vs南丹古德温",
+      "onboard_time": 1733197579,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23254,
       "num": 23254,
       "word": "永夜星河11月有效播放双榜冠军",
@@ -7993,6 +8113,14 @@
       "onboard_time": 1733142086,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22004,
+      "num": 195360,
+      "word": "2024哥谭奖",
+      "onboard_time": 1733197518,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 21750,
@@ -8572,7 +8700,7 @@
     },
     {
       "raw_hot": 5641,
-      "num": 282013,
+      "num": 335555,
       "word": "国产癫痫罕见病药品氯巴占进入医保",
       "onboard_time": 1733196199,
       "rank": 18,
