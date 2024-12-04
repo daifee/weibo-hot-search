@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733319212697,
+  "endTime": 1733319879340,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -113,6 +113,14 @@
       "onboard_time": 1733283138,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2158454,
+      "num": 2158454,
+      "word": "琼瑶遗体初步检验结果公布",
+      "onboard_time": 1733317822,
+      "rank": 4,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 2125564,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 1119100,
-      "num": 615383,
+      "num": 1115605,
       "word": "欧阳妮妮挺9月孕肚出门",
       "onboard_time": 1733316923,
       "rank": 18,
@@ -323,14 +331,6 @@
       "category": "读书作家,艺人"
     },
     {
-      "raw_hot": 1078089,
-      "num": 1078089,
-      "word": "琼瑶遗体初步检验结果公布",
-      "onboard_time": 1733317822,
-      "rank": 4,
-      "category": "读书作家,艺人"
-    },
-    {
       "raw_hot": 1056146,
       "num": 4457013,
       "word": "韩元汇率迅速下跌",
@@ -355,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1019118,
+      "num": 740881,
+      "word": "永夜星河庆功宴",
+      "onboard_time": 1733314283,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1011676,
       "num": 4951531,
       "word": "TWICE",
@@ -369,14 +377,6 @@
       "onboard_time": 1733242406,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 970283,
-      "num": 740881,
-      "word": "永夜星河庆功宴",
-      "onboard_time": 1733314283,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 970149,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424149,
+      "num": 299056,
+      "word": "难哄过审",
+      "onboard_time": 1733319083,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423599,
       "num": 558796,
       "word": "众艺人悼念琼瑶去世",
@@ -993,6 +1001,14 @@
       "onboard_time": 1733246057,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413218,
+      "num": 291262,
+      "word": "星宝放饭",
+      "onboard_time": 1733318304,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 409957,
@@ -1091,6 +1107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 373142,
+      "num": 373142,
+      "word": "大爷瞒着孩子偷贷20万种虫草花",
+      "onboard_time": 1733314162,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372163,
       "num": 372163,
       "word": "李宏毅健身房抽烟",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1733289560,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 358976,
-      "num": 282113,
-      "word": "星宝放饭",
-      "onboard_time": 1733318304,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 354898,
@@ -1232,6 +1248,14 @@
       "word": "95后清华博士研发从空气中榨饮用水",
       "onboard_time": 1733282779,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317433,
+      "num": 317433,
+      "word": "爱宝乐园正与中方专家沟通福宝状况",
+      "onboard_time": 1733317644,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1379,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283825,
-      "num": 283825,
-      "word": "大爷瞒着孩子偷贷20万种虫草花",
-      "onboard_time": 1733314162,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282394,
       "num": 537599,
       "word": "广州拟为早茶立法",
@@ -1475,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269927,
-      "num": 269927,
-      "word": "爱宝乐园正与中方专家沟通福宝状况",
-      "onboard_time": 1733317644,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269308,
       "num": 632136,
       "word": "SBS",
@@ -1499,12 +1507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263199,
-      "num": 263199,
-      "word": "难哄过审",
-      "onboard_time": 1733319083,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 265302,
+      "num": 265302,
+      "word": "乒超票价",
+      "onboard_time": 1733318422,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 262457,
@@ -1539,6 +1547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254470,
+      "num": 237506,
+      "word": "任达华回应女儿被评最美星二代",
+      "onboard_time": 1733319565,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254232,
       "num": 297878,
       "word": "海参厂老板沉迷赌博输了2000多万",
@@ -1571,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243587,
+      "num": 243587,
+      "word": "周雨彤告别花少6",
+      "onboard_time": 1733316503,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242399,
       "num": 819449,
       "word": "国乒vs德国",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1733279299,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236922,
+      "num": 294794,
+      "word": "李冰冰51岁状态",
+      "onboard_time": 1733318664,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236114,
@@ -1683,14 +1715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 223003,
-      "num": 223003,
-      "word": "周雨彤告别花少6",
-      "onboard_time": 1733316503,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222508,
       "num": 329285,
       "word": "黑白森林",
@@ -1747,6 +1771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216218,
+      "num": 216218,
+      "word": "无限暖暖",
+      "onboard_time": 1733319383,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213318,
       "num": 213318,
       "word": "WBG官宣Tian加入",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1733300069,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210436,
-      "num": 210436,
-      "word": "乒超票价",
-      "onboard_time": 1733318422,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 210015,
@@ -1971,14 +1995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 171202,
-      "num": 268161,
-      "word": "李冰冰51岁状态",
-      "onboard_time": 1733318664,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 170998,
       "num": 277506,
       "word": "刘晓庆登顶玉龙雪山",
@@ -2075,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163539,
+      "num": 163539,
+      "word": "琼瑶曾说爱是人类最伟大美好的感情",
+      "onboard_time": 1733317822,
+      "rank": 44,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 162900,
       "num": 162900,
       "word": "近期还能去韩国旅游吗",
@@ -2083,8 +2107,8 @@
       "category": "国际时政,旅游"
     },
     {
-      "raw_hot": 161201,
-      "num": 161201,
+      "raw_hot": 162412,
+      "num": 162412,
       "word": "我是刑警原型看了3500T监控素材",
       "onboard_time": 1733317764,
       "rank": 39,
@@ -2105,6 +2129,14 @@
       "onboard_time": 1733240606,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158702,
+      "num": 158702,
+      "word": "国企董事长短短40个月受贿超2060万",
+      "onboard_time": 1733319263,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158511,
@@ -2147,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157203,
+      "num": 157203,
+      "word": "鞠婧祎问折耳根怎么吃好吃",
+      "onboard_time": 1733318724,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156012,
       "num": 156012,
       "word": "韩国股市",
@@ -2172,7 +2212,7 @@
     },
     {
       "raw_hot": 154738,
-      "num": 154738,
+      "num": 272042,
       "word": "孙杨 新的冬训全力以赴",
       "onboard_time": 1733317284,
       "rank": 43,
@@ -2219,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149472,
+      "num": 149472,
+      "word": "林青霞发声悼念琼瑶",
+      "onboard_time": 1733315362,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148756,
       "num": 148756,
       "word": "黄朔杨博文抽象版紫啧",
@@ -2249,14 +2297,6 @@
       "onboard_time": 1733280079,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146533,
-      "num": 146533,
-      "word": "琼瑶曾说爱是人类最伟大美好的感情",
-      "onboard_time": 1733317822,
-      "rank": 44,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 146163,
@@ -2305,6 +2345,14 @@
       "onboard_time": 1733286982,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139757,
+      "num": 139757,
+      "word": "黄磊给家人做包子",
+      "onboard_time": 1733319444,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 139621,
@@ -2401,22 +2449,6 @@
       "onboard_time": 1733308582,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128229,
-      "num": 128229,
-      "word": "林青霞发声悼念琼瑶",
-      "onboard_time": 1733315362,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 128046,
-      "num": 128046,
-      "word": "鞠婧祎问折耳根怎么吃好吃",
-      "onboard_time": 1733318724,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 126732,
@@ -3155,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46384,
+      "num": 431722,
+      "word": "2024年宪法宣传周",
+      "onboard_time": 1733317223,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45836,
       "num": 389199,
       "word": "网红祁天道夫妇名下多家公司已注销",
@@ -3169,14 +3209,6 @@
       "onboard_time": 1733281519,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 44544,
-      "num": 431722,
-      "word": "2024年宪法宣传周",
-      "onboard_time": 1733317223,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43791,
