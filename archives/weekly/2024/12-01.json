@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733286523962,
+  "endTime": 1733287429700,
   "band_list": [
     {
       "raw_hot": 20778469,
@@ -153,6 +153,14 @@
       "onboard_time": 1733239045,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2125564,
+      "num": 969886,
+      "word": "马斯克说被韩国戒严令惊到了",
+      "onboard_time": 1733285541,
+      "rank": 26,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 2084296,
@@ -707,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1002265,
+      "num": 2712830,
+      "word": "彩票中2.25亿男子已兑奖",
+      "onboard_time": 1733286322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 984864,
       "num": 984864,
       "word": "前体操冠军张宏涛回应擦边争议",
@@ -1003,14 +1019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 820120,
-      "num": 208604,
-      "word": "马斯克说被韩国戒严令惊到了",
-      "onboard_time": 1733285541,
-      "rank": 26,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 819237,
       "num": 627333,
       "word": "黄晓明悼念姥姥",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1733210539,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 694259,
+      "num": 429751,
+      "word": "韩国1980年以来首次戒严",
+      "onboard_time": 1733271983,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 693374,
@@ -1451,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 614807,
+      "num": 614807,
+      "word": "恋与王安宇",
+      "onboard_time": 1733286202,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612583,
       "num": 477110,
       "word": "宋慧乔 痛苦只是流经我",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1733200281,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 610174,
-      "num": 429751,
-      "word": "韩国1980年以来首次戒严",
-      "onboard_time": 1733271983,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 609128,
@@ -1635,6 +1651,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 561144,
+      "num": 660506,
+      "word": "韩戒严令事件冲击开始显现",
+      "onboard_time": 1733283258,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 560863,
       "num": 434405,
       "word": "九重紫定档",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1733082251,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 524058,
+      "num": 524058,
+      "word": "权志龙新歌被KBS判为不合格",
+      "onboard_time": 1733286202,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 519174,
@@ -2147,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457424,
-      "num": 660506,
-      "word": "韩戒严令事件冲击开始显现",
-      "onboard_time": 1733283258,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 457210,
       "num": 457210,
       "word": "27岁上海交大博导让大家别焦虑",
@@ -2323,6 +2347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 433800,
+      "num": 433800,
+      "word": "章子怡周冬雨聚餐",
+      "onboard_time": 1733285901,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433464,
       "num": 433464,
       "word": "连云港",
@@ -2441,6 +2473,14 @@
       "onboard_time": 1733146342,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 418650,
+      "num": 476706,
+      "word": "父亲死亡3子女获赔72万被亲戚花光",
+      "onboard_time": 1733286742,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 417515,
@@ -2676,7 +2716,7 @@
     },
     {
       "raw_hot": 377696,
-      "num": 205009,
+      "num": 332363,
       "word": "员工周末不响应工作老板退群裁员",
       "onboard_time": 1733284941,
       "rank": 34,
@@ -2899,6 +2939,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 348926,
+      "num": 333301,
+      "word": "丁禹兮巧克力代言",
+      "onboard_time": 1733286622,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344586,
       "num": 344586,
       "word": "蔡文静问冯绍峰怎么撕渣男",
@@ -2945,6 +2993,14 @@
       "onboard_time": 1733196078,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341480,
+      "num": 341480,
+      "word": "江苏一公园将长条椅焊上钢管",
+      "onboard_time": 1733284819,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341359,
@@ -3009,14 +3065,6 @@
       "onboard_time": 1733116878,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 333496,
-      "num": 209078,
-      "word": "江苏一公园将长条椅焊上钢管",
-      "onboard_time": 1733284819,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331906,
@@ -3129,14 +3177,6 @@
       "onboard_time": 1733215340,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 316984,
-      "num": 316984,
-      "word": "权志龙新歌被KBS判为不合格",
-      "onboard_time": 1733286202,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 316586,
@@ -3387,14 +3427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 286905,
-      "num": 283836,
-      "word": "章子怡周冬雨聚餐",
-      "onboard_time": 1733285901,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286716,
       "num": 286716,
       "word": "国乒vs印度",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1733109797,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 281760,
+      "num": 481199,
+      "word": "彩票中2.25亿需缴税超4500万",
+      "onboard_time": 1733286861,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280585,
@@ -3484,7 +3524,7 @@
     },
     {
       "raw_hot": 277008,
-      "num": 212475,
+      "num": 237208,
       "word": "无限暖暖 配置",
       "onboard_time": 1733284879,
       "rank": 17,
@@ -3673,6 +3713,14 @@
       "onboard_time": 1733276420,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 261730,
+      "num": 349314,
+      "word": "丁禹兮 韩束",
+      "onboard_time": 1733286922,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 260781,
@@ -4675,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208033,
+      "num": 434219,
+      "word": "夏弃疾拍了田嘉瑞",
+      "onboard_time": 1733286561,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207920,
       "num": 248019,
       "word": "普京签署41万亿卢布预算",
@@ -4867,6 +4923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202761,
+      "num": 202761,
+      "word": "孟子义新任掌公主",
+      "onboard_time": 1733286681,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202699,
       "num": 202699,
       "word": "在东北吃泡面要5分钟内吃完",
@@ -4913,14 +4977,6 @@
       "onboard_time": 1733023818,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201905,
-      "num": 201905,
-      "word": "彩票中2.25亿男子已兑奖",
-      "onboard_time": 1733286322,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201494,
@@ -6131,6 +6187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169809,
+      "num": 169809,
+      "word": "严浩翔新歌发布预告",
+      "onboard_time": 1733287401,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169804,
       "num": 236450,
       "word": "宋亚轩白月光vs朱砂痣",
@@ -6521,6 +6585,14 @@
       "onboard_time": 1733215219,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158322,
+      "num": 437611,
+      "word": "尹锡悦的6小时戒严闹剧",
+      "onboard_time": 1733285840,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157628,
@@ -7155,14 +7227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142469,
-      "num": 210360,
-      "word": "恋与王安宇",
-      "onboard_time": 1733286202,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142391,
       "num": 142391,
       "word": "多地存在中小学生买卡牌乱象",
@@ -7787,6 +7851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127230,
+      "num": 413294,
+      "word": "韩国戒严后民众疯狂囤罐头",
+      "onboard_time": 1733286742,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127190,
       "num": 396849,
       "word": "还有一个月就是2025了",
@@ -7908,7 +7980,7 @@
     },
     {
       "raw_hot": 124548,
-      "num": 209590,
+      "num": 336784,
       "word": "Zeus获2024仁川年度人物奖",
       "onboard_time": 1733286202,
       "rank": 24,
@@ -7977,6 +8049,14 @@
       "onboard_time": 1733022979,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122813,
+      "num": 441489,
+      "word": "韩国总统弹劾流程怎么走",
+      "onboard_time": 1733285901,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122585,
@@ -8152,14 +8232,6 @@
       "word": "韩国防部官员称将维持戒严法",
       "onboard_time": 1733246415,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 118995,
-      "num": 277805,
-      "word": "尹锡悦的6小时戒严闹剧",
-      "onboard_time": 1733285840,
-      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -8988,7 +9060,7 @@
     },
     {
       "raw_hot": 97034,
-      "num": 208247,
+      "num": 336161,
       "word": "周深歌曲如许获五个一工程奖",
       "onboard_time": 1733285480,
       "rank": 27,
@@ -9065,6 +9137,14 @@
       "onboard_time": 1733131700,
       "rank": 13,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 94747,
+      "num": 340733,
+      "word": "国乒今日战德国",
+      "onboard_time": 1733287401,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 94610,
@@ -9515,6 +9595,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 80961,
+      "num": 211749,
+      "word": "于泽宇手写信道歉",
+      "onboard_time": 1733285960,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80874,
       "num": 361747,
       "word": "蔡文静哭戏",
@@ -9939,6 +10027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67100,
+      "num": 340335,
+      "word": "这年头猴子下班都坐车了",
+      "onboard_time": 1733286982,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66727,
       "num": 371858,
       "word": "滑雪场回应从厕所接桶装水给游客喝",
@@ -9987,12 +10083,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66005,
-      "num": 280052,
-      "word": "韩国总统弹劾流程怎么走",
-      "onboard_time": 1733285901,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 65972,
+      "num": 571473,
+      "word": "华为何刚现场展示Mate70强得飞起",
+      "onboard_time": 1733283380,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 65820,
@@ -10017,14 +10113,6 @@
       "onboard_time": 1733137399,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65552,
-      "num": 211749,
-      "word": "于泽宇手写信道歉",
-      "onboard_time": 1733285960,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 65536,
@@ -10257,14 +10345,6 @@
       "onboard_time": 1733131881,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60646,
-      "num": 571473,
-      "word": "华为何刚现场展示Mate70强得飞起",
-      "onboard_time": 1733283380,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 60581,
@@ -10681,6 +10761,14 @@
       "onboard_time": 1733071036,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52235,
+      "num": 337387,
+      "word": "男子酒后启动辅助驾驶翻车了",
+      "onboard_time": 1733287282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52157,
@@ -11123,6 +11211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40397,
+      "num": 439103,
+      "word": "Mate70红枫原色影像拍得有多准",
+      "onboard_time": 1733283380,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 40322,
       "num": 222970,
       "word": "抓马婚姻真人秀变流量收割表演秀",
@@ -11291,6 +11387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37371,
+      "num": 337979,
+      "word": "8步选出合适的羽绒服",
+      "onboard_time": 1733286502,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37271,
       "num": 320719,
       "word": "周密与周芯竹无股权关联",
@@ -11348,7 +11452,7 @@
     },
     {
       "raw_hot": 36044,
-      "num": 210018,
+      "num": 412001,
       "word": "王一博真代言了剃须刀",
       "onboard_time": 1733285361,
       "rank": 23,
@@ -11409,14 +11513,6 @@
       "onboard_time": 1733033478,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35132,
-      "num": 439103,
-      "word": "Mate70红枫原色影像拍得有多准",
-      "onboard_time": 1733283380,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 34977,
@@ -11739,6 +11835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30460,
+      "num": 339601,
+      "word": "张韶涵燃烧的生命力",
+      "onboard_time": 1733286922,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 30385,
       "num": 230322,
       "word": "汪顺cos半神pose",
@@ -11825,14 +11929,6 @@
       "onboard_time": 1733025859,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28408,
-      "num": 207892,
-      "word": "8步选出合适的羽绒服",
-      "onboard_time": 1733286502,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28373,
@@ -12131,6 +12227,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 24173,
+      "num": 339195,
+      "word": "大龄考研人该如何面对压力",
+      "onboard_time": 1733286982,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 24106,
       "num": 67646,
       "word": "患精神分裂症失踪15年女硕士哥哥发声",
@@ -12265,6 +12369,14 @@
       "onboard_time": 1733216720,
       "rank": 38,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 21406,
+      "num": 334745,
+      "word": "人生大事获五个一工程奖",
+      "onboard_time": 1733284520,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 21279,
@@ -12945,6 +13057,14 @@
       "onboard_time": 1733281819,
       "rank": 28,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 7158,
+      "num": 416171,
+      "word": "A股玄学炒股再起",
+      "onboard_time": 1733287282,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 7078,
