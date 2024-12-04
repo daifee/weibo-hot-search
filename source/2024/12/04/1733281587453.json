@@ -1,0 +1,410 @@
+{
+  "runTime": 1733281587453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4648009,
+        "num": 4648009,
+        "word": "这一晚韩国发生了什么",
+        "onboard_time": 1733267598,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1582952,
+        "num": 1582952,
+        "word": "花四万二在鹤岗买房后的生活",
+        "onboard_time": 1733278759,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27704,
+        "num": 950468,
+        "word": "2024读懂中国",
+        "onboard_time": 1733234481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 576404,
+        "num": 576404,
+        "word": "韩国总统幕僚辞职",
+        "onboard_time": 1733274441,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270078,
+        "num": 573084,
+        "word": "韩国在野党预计今日弹劾尹锡悦",
+        "onboard_time": 1733280018,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298108,
+        "num": 572902,
+        "word": "乌鲁木齐25车刮擦相碰",
+        "onboard_time": 1733278098,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 572786,
+        "num": 572786,
+        "word": "花洛莉亚广告被指有性暗示",
+        "onboard_time": 1733270242,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 539354,
+        "num": 539354,
+        "word": "尖叫之夜阵容",
+        "onboard_time": 1733280139,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449487,
+        "num": 449487,
+        "word": "邢昭林玩麦琳的梗",
+        "onboard_time": 1733279418,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282731,
+        "num": 436533,
+        "word": "女硕士患精神分裂症失踪15年被找回",
+        "onboard_time": 1733233941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628432,
+        "num": 433829,
+        "word": "白敬亭 脱了号就封了",
+        "onboard_time": 1733269279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565007,
+        "num": 433744,
+        "word": "韩国总统发布紧急戒严令",
+        "onboard_time": 1733234242,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429708,
+        "num": 429708,
+        "word": "海参厂老板赌球输2200万后自杀",
+        "onboard_time": 1733280079,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391822,
+        "num": 421813,
+        "word": "央视曝光MCN包装素人网红陷阱",
+        "onboard_time": 1733275580,
+        "rank": 13,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 414398,
+        "num": 414398,
+        "word": "韩国会会议通过解除戒严决议",
+        "onboard_time": 1733242046,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285496,
+        "num": 414332,
+        "word": "徐明浩新EP",
+        "onboard_time": 1733280918,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414332,
+        "num": 414331,
+        "word": "韩国1980年以来首次戒严",
+        "onboard_time": 1733271983,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219216,
+        "num": 407276,
+        "word": "迪丽热巴薰衣草金属感眼妆",
+        "onboard_time": 1733280259,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 229054,
+        "num": 405384,
+        "word": "迪丽热巴三登ELLE开年刊",
+        "onboard_time": 1733280439,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92748,
+        "num": 404689,
+        "word": "男子深夜上班途中偶遇拦路虎",
+        "onboard_time": 1733280737,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404458,
+        "num": 404458,
+        "word": "韩国总统宣布解除紧急戒严令",
+        "onboard_time": 1733268979,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175200,
+        "num": 399443,
+        "word": "19岁灰太狼胃癌晚期已离世",
+        "onboard_time": 1733281458,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238789,
+        "num": 381247,
+        "word": "丁禹兮曾说自己无胸肌无腹肌",
+        "onboard_time": 1733279299,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25721,
+        "num": 365077,
+        "word": "这静谧通话可太静了",
+        "onboard_time": 1733280498,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147346,
+        "num": 358984,
+        "word": "安赛龙炮轰世界羽联",
+        "onboard_time": 1733280079,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227465,
+        "num": 339986,
+        "word": "男子与军嫂同居4年被判刑",
+        "onboard_time": 1733231540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216744,
+        "num": 329441,
+        "word": "周迅 香家待遇",
+        "onboard_time": 1733274621,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198311,
+        "num": 314138,
+        "word": "韩国汇率",
+        "onboard_time": 1733274501,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32130,
+        "num": 294565,
+        "word": "17点后不再进食免疫系统更年轻",
+        "onboard_time": 1733280979,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93889,
+        "num": 289127,
+        "word": "韩国股市开盘大幅下跌",
+        "onboard_time": 1733278998,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280585,
+        "num": 280585,
+        "word": "我妈果然偏爱谭松韵",
+        "onboard_time": 1733279299,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264900,
+        "num": 264900,
+        "word": "结婚后才明白什么叫隐形家务",
+        "onboard_time": 1733274562,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251530,
+        "num": 251530,
+        "word": "韩国总统府周边进入全面管制状态",
+        "onboard_time": 1733243422,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228991,
+        "num": 228991,
+        "word": "花洛利亚因擦边广告被罚2.5万",
+        "onboard_time": 1733280737,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 236652,
+        "num": 228749,
+        "word": "韩媒发布韩国军人撤出国会画面",
+        "onboard_time": 1733246655,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224535,
+        "num": 224535,
+        "word": "华为Mate70开售",
+        "onboard_time": 1733280378,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180264,
+        "num": 216673,
+        "word": "为啥一入冬就起床困难",
+        "onboard_time": 1733271682,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215601,
+        "num": 215601,
+        "word": "金龟子女儿因孩子断奶崩溃大哭",
+        "onboard_time": 1733233161,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215452,
+        "num": 215452,
+        "word": "成都街头200元一份的炒饭",
+        "onboard_time": 1733276420,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206278,
+        "num": 206278,
+        "word": "韩最大在野党要求尹锡悦立即辞职",
+        "onboard_time": 1733271083,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180257,
+        "num": 180257,
+        "word": "苏州一露营者在帐篷内身亡",
+        "onboard_time": 1733238926,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187782,
+        "num": 177569,
+        "word": "韩前总统文在寅发声",
+        "onboard_time": 1733244319,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173990,
+        "num": 173990,
+        "word": "认知低的人是怎样讲话的",
+        "onboard_time": 1733275760,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165184,
+        "num": 165184,
+        "word": "樱桃琥珀发预告了",
+        "onboard_time": 1733277021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108818,
+        "num": 162842,
+        "word": "警方调查女子13年前走失现育2娃",
+        "onboard_time": 1733279418,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 161441,
+        "num": 161441,
+        "word": "韩国执政党领导层要求尹锡悦退党",
+        "onboard_time": 1733276960,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139370,
+        "num": 156779,
+        "word": "杨政放弃体测",
+        "onboard_time": 1733279299,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45733,
+        "num": 154667,
+        "word": "现在无线耳机进化成这样了么",
+        "onboard_time": 1733281519,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103724,
+        "num": 154039,
+        "word": "未来5年都没有年三十",
+        "onboard_time": 1733258830,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153566,
+        "num": 153566,
+        "word": "周密向周芯竹道歉",
+        "onboard_time": 1733223620,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪森会谈#"
+    }
+  }
+}
