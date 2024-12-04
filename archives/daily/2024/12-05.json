@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733354621358,
+  "endTime": 1733355478286,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1113536,
-      "num": 1113536,
+      "raw_hot": 1346077,
+      "num": 1346077,
       "word": "两度发现遗体博主将面临处罚",
       "onboard_time": 1733314701,
       "rank": 3,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 878632,
+      "num": 878632,
+      "word": "韩国的6小时40分钟",
+      "onboard_time": 1733335393,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 846267,
       "num": 846267,
       "word": "琼瑶去世",
@@ -35,24 +43,16 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 770916,
-      "num": 770916,
-      "word": "韩国的6小时40分钟",
-      "onboard_time": 1733335393,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 567569,
-      "num": 567569,
+      "raw_hot": 658896,
+      "num": 658896,
       "word": "百万网红咖啡放弃直肠癌化疗",
       "onboard_time": 1733334673,
       "rank": 25,
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 545599,
-      "num": 278062,
+      "raw_hot": 596658,
+      "num": 596658,
       "word": "琼瑶经济共赚取约上亿美元",
       "onboard_time": 1733321483,
       "rank": 15,
@@ -65,6 +65,14 @@
       "onboard_time": 1733317822,
       "rank": 6,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 385429,
+      "num": 305155,
+      "word": "低俗网红祁天道总销售额或达上亿",
+      "onboard_time": 1733350153,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377900,
@@ -105,14 +113,6 @@
       "onboard_time": 1733327180,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 305155,
-      "num": 305155,
-      "word": "低俗网红祁天道总销售额或达上亿",
-      "onboard_time": 1733350153,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275150,
@@ -195,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175068,
+      "num": 140211,
+      "word": "专家称白猫在猫眼里不是最丑的",
+      "onboard_time": 1733352735,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 173663,
+      "num": 173663,
+      "word": "韩国紧急戒严令导火索",
+      "onboard_time": 1733341152,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158855,
       "num": 126867,
       "word": "粉云直播",
@@ -208,6 +224,14 @@
       "word": "如果手机被偷听耗电速度会快27%",
       "onboard_time": 1733327840,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145019,
+      "num": 145019,
+      "word": "检查结果互认致HIV感染者被拒诊",
+      "onboard_time": 1733327000,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -227,20 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138089,
-      "num": 138089,
-      "word": "韩国紧急戒严令导火索",
-      "onboard_time": 1733341152,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135127,
       "num": 135127,
       "word": "韩国实施了一次很不严肃的全国戒严",
       "onboard_time": 1733325862,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "台媒报道琼瑶轻生",
+      "onboard_time": 1733353697,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 132905,
@@ -259,12 +283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117391,
-      "num": 117391,
-      "word": "检查结果互认致HIV感染者被拒诊",
-      "onboard_time": 1733327000,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 117398,
+      "num": 117398,
+      "word": "任达华回应女儿被评最美星二代",
+      "onboard_time": 1733319565,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 116225,
@@ -291,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110525,
-      "num": 65682,
-      "word": "专家称白猫在猫眼里不是最丑的",
-      "onboard_time": 1733352735,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 108246,
+      "num": 108246,
+      "word": "还珠3演员发文悼念琼瑶",
+      "onboard_time": 1733346250,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 105400,
@@ -315,20 +339,20 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 103880,
+      "num": 103880,
+      "word": "到底谁发明的金晨",
+      "onboard_time": 1733351714,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102815,
       "num": 102815,
       "word": "日本或放宽中国公民签证要求",
       "onboard_time": 1733321423,
       "rank": 36,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 99202,
-      "num": 99202,
-      "word": "任达华回应女儿被评最美星二代",
-      "onboard_time": 1733319565,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 98582,
@@ -347,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95868,
+      "num": 95868,
+      "word": "李冰冰51岁状态",
+      "onboard_time": 1733318664,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95338,
       "num": 95338,
       "word": "琼瑶七年前曾反对丈夫插管",
@@ -355,36 +387,12 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 95127,
-      "num": 93867,
-      "word": "还珠3演员发文悼念琼瑶",
-      "onboard_time": 1733346250,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 94928,
-      "num": 94928,
-      "word": "李冰冰51岁状态",
-      "onboard_time": 1733318664,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 90423,
       "num": 90423,
       "word": "永夜星河庆功宴",
       "onboard_time": 1733314283,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86846,
-      "num": 86846,
-      "word": "台媒报道琼瑶轻生",
-      "onboard_time": 1733353697,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 82798,
@@ -401,14 +409,6 @@
       "onboard_time": 1733328021,
       "rank": 42,
       "category": "正能量,情感"
-    },
-    {
-      "raw_hot": 78756,
-      "num": 78756,
-      "word": "到底谁发明的金晨",
-      "onboard_time": 1733351714,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 77467,
@@ -443,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75152,
+      "num": 143760,
+      "word": "迪丽热巴ELLE女星销量第一",
+      "onboard_time": 1733354836,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 70568,
       "num": 74910,
       "word": "王楚钦孙颖莎新公式照",
       "onboard_time": 1733317583,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67618,
+      "num": 67618,
+      "word": "琼瑶林心如苏有朋周杰早期合照",
+      "onboard_time": 1733324724,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 66997,
@@ -475,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63709,
-      "num": 63709,
-      "word": "琼瑶林心如苏有朋周杰早期合照",
-      "onboard_time": 1733324724,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 63422,
+      "num": 231295,
+      "word": "摄影师吐槽新同事自带器材自降工资",
+      "onboard_time": 1733353636,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61176,
@@ -499,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58568,
+      "num": 95475,
+      "word": "东北虎被拍到高清照",
+      "onboard_time": 1733353817,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57677,
+      "num": 67417,
+      "word": "福宝干饭不忘对着ee吃",
+      "onboard_time": 1733345170,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55641,
       "num": 54781,
       "word": "知情人谈低俗网红祁天道被封",
@@ -515,24 +547,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 54528,
-      "num": 60510,
+      "raw_hot": 54849,
+      "num": 67287,
       "word": "曼城vs诺丁汉森林",
       "onboard_time": 1733351593,
       "rank": 38,
       "category": "体育"
     },
     {
-      "raw_hot": 52472,
-      "num": 60274,
-      "word": "福宝干饭不忘对着ee吃",
-      "onboard_time": 1733345170,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45861,
-      "num": 60073,
+      "raw_hot": 47096,
+      "num": 66895,
       "word": "男子远程偷扣老年机话费超500万",
       "onboard_time": 1733352434,
       "rank": 38,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 38185,
-      "num": 60056,
+      "num": 66335,
       "word": "专家称白猫择偶确实没有竞争力",
       "onboard_time": 1733352855,
       "rank": 44,
@@ -585,14 +609,6 @@
       "onboard_time": 1733331675,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28723,
-      "num": 95475,
-      "word": "东北虎被拍到高清照",
-      "onboard_time": 1733353817,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28385,
@@ -697,6 +713,14 @@
       "onboard_time": 1733332095,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6637,
+      "num": 166230,
+      "word": "韩执政党决定反对针对总统的弹劾案",
+      "onboard_time": 1733355438,
+      "rank": 14,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
