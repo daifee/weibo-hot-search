@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733340954728,
+  "endTime": 1733344026897,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -307,20 +307,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 93442,
+      "num": 93442,
+      "word": "百万网红咖啡放弃直肠癌化疗",
+      "onboard_time": 1733334673,
+      "rank": 25,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 90423,
       "num": 90423,
       "word": "永夜星河庆功宴",
       "onboard_time": 1733314283,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88982,
-      "num": 88982,
-      "word": "百万网红咖啡放弃直肠癌化疗",
-      "onboard_time": 1733334673,
-      "rank": 25,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 82798,
@@ -467,6 +467,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 35835,
+      "num": 35835,
+      "word": "韩国紧急戒严令导火索",
+      "onboard_time": 1733341152,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32283,
       "num": 36070,
       "word": "4个动作改善驼背",
@@ -491,20 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24639,
+      "num": 46728,
+      "word": "知情人谈低俗网红祁天道被封",
+      "onboard_time": 1733338333,
+      "rank": 41,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 24037,
       "num": 24037,
       "word": "琼瑶林心如苏有朋周杰早期合照",
       "onboard_time": 1733324724,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17647,
-      "num": 17647,
-      "word": "知情人谈低俗网红祁天道被封",
-      "onboard_time": 1733338333,
-      "rank": 41,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 16632,
@@ -531,10 +539,26 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14057,
+      "raw_hot": 15223,
       "num": 16233,
       "word": "紧急戒严风波凸显韩国政治对立严重",
       "onboard_time": 1733340551,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13827,
+      "num": 15200,
+      "word": "紧急戒严令适用于哪些情况",
+      "onboard_time": 1733343132,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13205,
+      "num": 15197,
+      "word": "韩国戒严令时间线",
+      "onboard_time": 1733343791,
       "rank": 49,
       "category": "国际时政"
     },
