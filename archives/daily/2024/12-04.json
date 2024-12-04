@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733311250396,
+  "endTime": 1733312199990,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 843793,
+      "num": 549211,
+      "word": "林心如惊闻琼瑶去世哽咽到无法说话",
+      "onboard_time": 1733309543,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 833047,
       "num": 153062,
       "word": "707",
@@ -387,20 +395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825034,
+      "num": 815805,
+      "word": "林心如 有幸成为您的紫薇如萍雪花",
+      "onboard_time": 1733310682,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823318,
       "num": 2522694,
       "word": "邢昭林玩麦琳的梗",
       "onboard_time": 1733279418,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 815805,
-      "num": 815805,
-      "word": "林心如 有幸成为您的紫薇如萍雪花",
-      "onboard_time": 1733310682,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 811098,
@@ -416,14 +424,6 @@
       "word": "周密向周芯竹道歉",
       "onboard_time": 1733223620,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 732388,
-      "num": 549211,
-      "word": "林心如惊闻琼瑶去世哽咽到无法说话",
-      "onboard_time": 1733309543,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -699,7 +699,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 527766,
+      "raw_hot": 536741,
       "num": 527766,
       "word": "陈德容称琼瑶离世因丈夫去世打击大",
       "onboard_time": 1733309122,
@@ -1011,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365575,
+      "num": 365575,
+      "word": "湖南卫视发文告别琼瑶",
+      "onboard_time": 1733312122,
+      "rank": 20,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 364314,
       "num": 364314,
       "word": "结婚后才明白什么叫隐形家务",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1733267358,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331844,
+      "num": 368917,
+      "word": "一文回顾琼瑶文学人生",
+      "onboard_time": 1733311821,
+      "rank": 18,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 330824,
@@ -1187,6 +1203,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 295462,
+      "num": 295462,
+      "word": "国色芳华",
+      "onboard_time": 1733310500,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294569,
       "num": 294569,
       "word": "韩军士兵携带枪支空降国会",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1733290520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282394,
+      "num": 537599,
+      "word": "广州拟为早茶立法",
+      "onboard_time": 1733308763,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281732,
@@ -1379,14 +1411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254050,
-      "num": 537599,
-      "word": "广州拟为早茶立法",
-      "onboard_time": 1733308763,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251915,
       "num": 251915,
       "word": "韩执政党称总统宣布紧急戒严错误",
@@ -1427,20 +1451,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233283,
+      "num": 233283,
+      "word": "张睿换枯叶蝶头像",
+      "onboard_time": 1733310861,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231336,
       "num": 231336,
       "word": "韩国资产全线跳水",
       "onboard_time": 1733241625,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 230140,
-      "num": 230140,
-      "word": "国色芳华",
-      "onboard_time": 1733310500,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 230093,
@@ -1563,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212896,
+      "num": 241019,
+      "word": "旅客带107.4万美元现金进境被查",
+      "onboard_time": 1733310682,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211423,
       "num": 211423,
       "word": "周杰伦霸榜2024年中国大陆最热歌曲",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1733282659,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203189,
+      "num": 203189,
+      "word": "生抽和老抽为什么叫抽",
+      "onboard_time": 1733311580,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202978,
@@ -1633,14 +1673,6 @@
       "onboard_time": 1733289979,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 191062,
-      "num": 191062,
-      "word": "张睿换枯叶蝶头像",
-      "onboard_time": 1733310861,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 189824,
@@ -1697,6 +1729,14 @@
       "onboard_time": 1733305582,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179367,
+      "num": 179367,
+      "word": "汪苏泷突然第一名",
+      "onboard_time": 1733311881,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 177769,
@@ -1825,14 +1865,6 @@
       "onboard_time": 1733240606,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 158539,
-      "num": 158539,
-      "word": "旅客带107.4万美元现金进境被查",
-      "onboard_time": 1733310682,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158511,
@@ -2035,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134609,
+      "num": 134609,
+      "word": "黄朔杨博文抽象版紫啧",
+      "onboard_time": 1733312181,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130515,
       "num": 535635,
       "word": "勇士五连败",
@@ -2076,7 +2116,7 @@
     },
     {
       "raw_hot": 126089,
-      "num": 314937,
+      "num": 325904,
       "word": "严浩翔电影杀青",
       "onboard_time": 1733310142,
       "rank": 25,
@@ -2219,12 +2259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111368,
+      "num": 307449,
+      "word": "孙颖莎vs克利",
+      "onboard_time": 1733312060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111345,
       "num": 360608,
       "word": "多少中国人困在第一学历里",
       "onboard_time": 1733289921,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110849,
+      "num": 817509,
+      "word": "尹锡悦弹劾案或将在6日7日投票表决",
+      "onboard_time": 1733310622,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110812,
@@ -2313,14 +2369,6 @@
       "onboard_time": 1733285480,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 96225,
-      "num": 817509,
-      "word": "尹锡悦弹劾案或将在6日7日投票表决",
-      "onboard_time": 1733310622,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95510,
@@ -2483,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72368,
+      "num": 324710,
+      "word": "张艺兴也在看白夜破晓",
+      "onboard_time": 1733310081,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71133,
       "num": 362399,
       "word": "十个勤天直播",
@@ -2513,6 +2569,14 @@
       "onboard_time": 1733248934,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69704,
+      "num": 134643,
+      "word": "Tian发文感谢TES",
+      "onboard_time": 1733312003,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 67897,
@@ -2731,12 +2795,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 45116,
-      "num": 313667,
-      "word": "张艺兴也在看白夜破晓",
-      "onboard_time": 1733310081,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 43791,
+      "num": 134612,
+      "word": "诚C 努力我都有看到",
+      "onboard_time": 1733310382,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 43370,
@@ -2745,6 +2809,14 @@
       "onboard_time": 1733306491,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42019,
+      "num": 241864,
+      "word": "张凌赫新加坡活动人气",
+      "onboard_time": 1733311942,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 40397,
@@ -2963,6 +3035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27013,
+      "num": 530626,
+      "word": "王一博在发光",
+      "onboard_time": 1733309002,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26692,
       "num": 5486996,
       "word": "数说一带一路成绩单",
@@ -3041,14 +3121,6 @@
       "onboard_time": 1733284520,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21081,
-      "num": 530626,
-      "word": "王一博在发光",
-      "onboard_time": 1733309002,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 21063,
