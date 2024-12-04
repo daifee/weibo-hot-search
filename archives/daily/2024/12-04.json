@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733290887805,
+  "endTime": 1733294044635,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2125564,
-      "num": 1206761,
+      "num": 1396088,
       "word": "马斯克说被韩国戒严令惊到了",
       "onboard_time": 1733285541,
       "rank": 26,
@@ -105,6 +105,14 @@
       "onboard_time": 1733286861,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1578380,
+      "num": 318492,
+      "word": "你的屁股很可能已经死了",
+      "onboard_time": 1733290938,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1556841,
@@ -219,8 +227,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 885519,
-      "num": 398954,
+      "raw_hot": 909729,
+      "num": 909729,
       "word": "霍思燕带女儿和朋友聚餐",
       "onboard_time": 1733289740,
       "rank": 31,
@@ -272,6 +280,22 @@
       "word": "直击韩国街头现场状况",
       "onboard_time": 1733243003,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 699941,
+      "num": 699941,
+      "word": "刘宇宁 别太拿自己当回事儿",
+      "onboard_time": 1733288121,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699574,
+      "num": 699574,
+      "word": "韩国总统戒严闹剧直接起因",
+      "onboard_time": 1733289621,
+      "rank": 16,
       "category": "国际时政"
     },
     {
@@ -435,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 490680,
+      "num": 413354,
+      "word": "网红祁天道擦边调戏女生被网友谴责",
+      "onboard_time": 1733291960,
+      "rank": 11,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 490304,
       "num": 311621,
       "word": "自己吓自己",
@@ -547,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424158,
-      "num": 468892,
-      "word": "刘宇宁 别太拿自己当回事儿",
-      "onboard_time": 1733288121,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 422411,
+      "num": 337134,
+      "word": "韩国在野党提交总统弹劾案",
+      "onboard_time": 1733291179,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 422094,
@@ -619,20 +651,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 376241,
+      "num": 287023,
+      "word": "二手房主多次遭女子凌晨提斧砸门",
+      "onboard_time": 1733290759,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372163,
       "num": 372163,
       "word": "李宏毅健身房抽烟",
       "onboard_time": 1733288782,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367984,
-      "num": 563840,
-      "word": "韩国总统戒严闹剧直接起因",
-      "onboard_time": 1733289621,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 364314,
@@ -683,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337474,
+      "num": 337474,
+      "word": "王楚钦 不要让我坐第一排啊",
+      "onboard_time": 1733293159,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331906,
       "num": 453349,
       "word": "伸脚垫住摔倒老人后脑勺的男子找到了",
@@ -712,6 +752,14 @@
       "word": "95后清华博士研发从空气中榨饮用水",
       "onboard_time": 1733282779,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317361,
+      "num": 317361,
+      "word": "员工承诺购车优惠离职后4S店不认",
+      "onboard_time": 1733292079,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -763,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288889,
+      "num": 359237,
+      "word": "迪丽热巴五年前经历自我和解",
+      "onboard_time": 1733289201,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285496,
       "num": 414332,
       "word": "徐明浩新EP",
@@ -777,6 +833,14 @@
       "onboard_time": 1733240546,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 283870,
+      "num": 283870,
+      "word": "沈腾王安宇情头",
+      "onboard_time": 1733290520,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 280585,
@@ -891,12 +955,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257453,
-      "num": 359237,
-      "word": "迪丽热巴五年前经历自我和解",
-      "onboard_time": 1733289201,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 254232,
+      "num": 297878,
+      "word": "海参厂老板沉迷赌博输了2000多万",
+      "onboard_time": 1733290820,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251915,
@@ -995,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 213318,
+      "num": 213318,
+      "word": "WBG官宣Tian加入",
+      "onboard_time": 1733291600,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210015,
       "num": 210015,
       "word": "孟子义新任掌公主",
@@ -1051,11 +1123,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196919,
+      "num": 329285,
+      "word": "黑白森林",
+      "onboard_time": 1733291242,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186215,
       "num": 401604,
       "word": "刘宇宁说后面三部戏都不会死",
       "onboard_time": 1733269279,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181378,
+      "num": 181378,
+      "word": "斗罗2听劝重剪第一集",
+      "onboard_time": 1733291900,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1065,6 +1153,14 @@
       "onboard_time": 1733275760,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177769,
+      "num": 297196,
+      "word": "王一博说杭州是一座自然之城",
+      "onboard_time": 1733290222,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 174500,
@@ -1105,14 +1201,6 @@
       "onboard_time": 1733282779,
       "rank": 45,
       "category": "国际时政,旅游"
-    },
-    {
-      "raw_hot": 161945,
-      "num": 161945,
-      "word": "沈腾王安宇情头",
-      "onboard_time": 1733290520,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 160444,
@@ -1203,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148115,
+      "num": 148115,
+      "word": "邢昭林回应玩麦琳的梗",
+      "onboard_time": 1733291359,
+      "rank": 44,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 147732,
       "num": 147732,
       "word": "肖战时尚先生新花絮",
@@ -1217,6 +1313,14 @@
       "onboard_time": 1733280079,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145988,
+      "num": 145988,
+      "word": "丁程鑫宋亚轩参加太阳市集直播",
+      "onboard_time": 1733292140,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 142570,
@@ -1267,12 +1371,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130515,
+      "num": 284946,
+      "word": "勇士五连败",
+      "onboard_time": 1733293159,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128836,
       "num": 123842,
       "word": "韩民众称尹锡悦已按下弹劾自己的按钮",
       "onboard_time": 1733269219,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127920,
+      "num": 127920,
+      "word": "A股再现无厘头炒作逻辑",
+      "onboard_time": 1733291779,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 126732,
@@ -1387,28 +1507,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 106548,
-      "num": 297196,
-      "word": "王一博说杭州是一座自然之城",
-      "onboard_time": 1733290222,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101181,
       "num": 283327,
       "word": "韩国最大在野党要求总统立即主动辞职",
       "onboard_time": 1733286202,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 100889,
-      "num": 297878,
-      "word": "海参厂老板沉迷赌博输了2000多万",
-      "onboard_time": 1733290820,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97536,
@@ -1483,11 +1587,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 84838,
+      "num": 253713,
+      "word": "再见爱人",
+      "onboard_time": 1733292320,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84043,
       "num": 204162,
       "word": "我是刑警60秒回溯作案过程",
       "onboard_time": 1733284941,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83845,
+      "num": 414915,
+      "word": "久违的中式刑侦剧终于又出山了",
+      "onboard_time": 1733292979,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -1675,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50013,
+      "num": 325245,
+      "word": "迪丽热巴的改变发生在最细微的地方",
+      "onboard_time": 1733293580,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47840,
       "num": 412001,
       "word": "王一博真代言了剃须刀",
@@ -1715,6 +1843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38967,
+      "num": 253096,
+      "word": "好运家 张小斐佟大为公主抱",
+      "onboard_time": 1733293819,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38861,
       "num": 75324,
       "word": "郑业成发博为彭小苒庆生",
@@ -1729,6 +1865,14 @@
       "onboard_time": 1733286502,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36691,
+      "num": 254176,
+      "word": "因果报应剧情反转反转再反转",
+      "onboard_time": 1733293999,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 35916,
@@ -1907,6 +2051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18070,
+      "num": 942003,
+      "word": "文化中国行走进国家博物馆",
+      "onboard_time": 1733293520,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 17930,
       "num": 28092,
       "word": "官方回应露营人员疑一氧化碳中毒身亡",
@@ -1947,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16315,
+      "num": 318593,
+      "word": "金花股份挪用募资炒股被监管",
+      "onboard_time": 1733293699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15898,
       "num": 28270,
       "word": "于正退网也这样",
@@ -1961,6 +2121,14 @@
       "onboard_time": 1733244080,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15115,
+      "num": 253817,
+      "word": "前9月韩国游客大增146%",
+      "onboard_time": 1733293760,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14436,
@@ -1992,6 +2160,22 @@
       "word": "朱志鑫的酒窝",
       "onboard_time": 1733255771,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12689,
+      "num": 183149,
+      "word": "香奈儿手工艺有多惊艳",
+      "onboard_time": 1733292979,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 11989,
+      "num": 253270,
+      "word": "于泽宇暂停一切演艺活动",
+      "onboard_time": 1733293938,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2073,6 +2257,9 @@
     },
     {
       "word": "#习近平同洪森会谈#"
+    },
+    {
+      "word": "#良法善治#"
     }
   ]
 }
