@@ -1,0 +1,410 @@
+{
+  "runTime": 1733297133605,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 24117702,
+        "num": 24117702,
+        "word": "琼瑶去世",
+        "onboard_time": 1733295800,
+        "rank": 0,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 14041283,
+        "num": 14041283,
+        "word": "琼瑶遗书",
+        "onboard_time": 1733296410,
+        "rank": 1,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 126700,
+        "num": 2239376,
+        "word": "中国游让世界认识更加真实的中国",
+        "onboard_time": 1733294360,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1586682,
+        "num": 1586682,
+        "word": "马斯克说被韩国戒严令惊到了",
+        "onboard_time": 1733285541,
+        "rank": 3,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 1545493,
+        "num": 1545493,
+        "word": "琼瑶在家自杀",
+        "onboard_time": 1733296346,
+        "rank": 4,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 1112764,
+        "num": 1112764,
+        "word": "彩票中2.25亿需缴税超4500万",
+        "onboard_time": 1733286861,
+        "rank": 5,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 840438,
+        "num": 840438,
+        "word": "霍思燕带女儿和朋友聚餐",
+        "onboard_time": 1733289740,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575153,
+        "num": 749953,
+        "word": "周密",
+        "onboard_time": 1733288002,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723339,
+        "num": 723339,
+        "word": "王楚钦 不要让我坐第一排啊",
+        "onboard_time": 1733293159,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411060,
+        "num": 654010,
+        "word": "男子因女友提分手飞身跳河",
+        "onboard_time": 1733295499,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622867,
+        "num": 622867,
+        "word": "网红祁天道擦边调戏女生被网友谴责",
+        "onboard_time": 1733291960,
+        "rank": 10,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 566595,
+        "num": 566595,
+        "word": "内娱古偶终于不是换乘恋爱了",
+        "onboard_time": 1733295440,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1441679,
+        "num": 562774,
+        "word": "周密发的朋友圈",
+        "onboard_time": 1733295800,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542932,
+        "num": 542932,
+        "word": "刘宇宁 别太拿自己当回事儿",
+        "onboard_time": 1733288121,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513378,
+        "num": 513378,
+        "word": "太阳的后裔原型部队参与韩国戒严",
+        "onboard_time": 1733283138,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138472,
+        "num": 513187,
+        "word": "十个勤天全员加盟2024尖叫之夜",
+        "onboard_time": 1733289560,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81492,
+        "num": 513104,
+        "word": "还珠格格",
+        "onboard_time": 1733296892,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513089,
+        "num": 513089,
+        "word": "韩国总统戒严闹剧直接起因",
+        "onboard_time": 1733289621,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 498845,
+        "num": 498845,
+        "word": "父亲死亡3子女获赔72万被亲戚花光",
+        "onboard_time": 1733286742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38808,
+        "num": 485097,
+        "word": "男子5万买车半年方向盘失灵",
+        "onboard_time": 1733297014,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1885054,
+        "num": 485078,
+        "word": "你的屁股很可能已经死了",
+        "onboard_time": 1733290938,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 484669,
+        "num": 484669,
+        "word": "陈志朋女装合同续给向佐了",
+        "onboard_time": 1733295139,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401689,
+        "num": 401689,
+        "word": "恋与王安宇",
+        "onboard_time": 1733286202,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389719,
+        "num": 389719,
+        "word": "二手房主多次遭女子凌晨提斧砸门",
+        "onboard_time": 1733290759,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90540,
+        "num": 367050,
+        "word": "EDG冠军阵容全员离队",
+        "onboard_time": 1733290579,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345837,
+        "num": 345837,
+        "word": "大侦探10首发阵容",
+        "onboard_time": 1733295559,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342096,
+        "num": 342096,
+        "word": "韩国在野党提交总统弹劾案",
+        "onboard_time": 1733291179,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272662,
+        "num": 272662,
+        "word": "沈腾王安宇情头",
+        "onboard_time": 1733290520,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283522,
+        "num": 254293,
+        "word": "韩国总统宣布解除紧急戒严令",
+        "onboard_time": 1733268979,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230093,
+        "num": 230093,
+        "word": "再见爱人",
+        "onboard_time": 1733292320,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269604,
+        "num": 229783,
+        "word": "韩国1980年以来首次戒严",
+        "onboard_time": 1733271983,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220077,
+        "num": 220077,
+        "word": "APPLE MUSIC年度最热歌曲",
+        "onboard_time": 1733294299,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217526,
+        "num": 217526,
+        "word": "迪丽热巴五年前经历自我和解",
+        "onboard_time": 1733289201,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215005,
+        "num": 215005,
+        "word": "突然理解了在网上买银杏叶的人",
+        "onboard_time": 1733289560,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209774,
+        "num": 209774,
+        "word": "邢昭林回应玩麦琳的梗",
+        "onboard_time": 1733291359,
+        "rank": 34,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 188358,
+        "num": 188358,
+        "word": "iG官宣主教练Rashomon离队",
+        "onboard_time": 1733296410,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182233,
+        "num": 182233,
+        "word": "A股再现无厘头炒作逻辑",
+        "onboard_time": 1733291779,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172394,
+        "num": 172394,
+        "word": "石破茂就韩国局势发声",
+        "onboard_time": 1733295921,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36831,
+        "num": 168992,
+        "word": "郑钦文今年大赛积分第五",
+        "onboard_time": 1733295921,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167058,
+        "num": 167058,
+        "word": "WBG官宣Tian加入",
+        "onboard_time": 1733291600,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166655,
+        "num": 166655,
+        "word": "权志龙新歌被KBS判为不合格",
+        "onboard_time": 1733286202,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166153,
+        "num": 166153,
+        "word": "员工周末不响应工作老板退群裁员",
+        "onboard_time": 1733284941,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163651,
+        "num": 163651,
+        "word": "琼瑶 当雪花飘落",
+        "onboard_time": 1733297014,
+        "rank": 42,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 159618,
+        "num": 159618,
+        "word": "李宏毅健身房抽烟",
+        "onboard_time": 1733288782,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146937,
+        "num": 146937,
+        "word": "黑白森林",
+        "onboard_time": 1733291242,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144245,
+        "num": 144245,
+        "word": "王一博说杭州是一座自然之城",
+        "onboard_time": 1733290222,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135895,
+        "num": 135895,
+        "word": "江苏一公园将长条椅焊上钢管",
+        "onboard_time": 1733284819,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134372,
+        "num": 134372,
+        "word": "丁禹兮巧克力代言",
+        "onboard_time": 1733286622,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121772,
+        "num": 133752,
+        "word": "黄子弘凡跨晚突袭直播",
+        "onboard_time": 1733295199,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133290,
+        "num": 133290,
+        "word": "韩国国防部",
+        "onboard_time": 1733293699,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}

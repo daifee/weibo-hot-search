@@ -1,7 +1,15 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733294868283,
+  "endTime": 1733297133605,
   "band_list": [
+    {
+      "raw_hot": 24117702,
+      "num": 24117702,
+      "word": "琼瑶去世",
+      "onboard_time": 1733295800,
+      "rank": 0,
+      "category": "读书作家,艺人"
+    },
     {
       "raw_hot": 20778469,
       "num": 20778469,
@@ -9,6 +17,14 @@
       "onboard_time": 1733234242,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14041283,
+      "num": 14041283,
+      "word": "琼瑶遗书",
+      "onboard_time": 1733296410,
+      "rank": 1,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 13022974,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 2125564,
-      "num": 1396088,
+      "num": 1586682,
       "word": "马斯克说被韩国戒严令惊到了",
       "onboard_time": 1733285541,
       "rank": 26,
@@ -219,6 +235,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1885054,
+      "num": 485078,
+      "word": "你的屁股很可能已经死了",
+      "onboard_time": 1733290938,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1868400,
       "num": 547080,
       "word": "黄子韬 吃席call me",
@@ -233,14 +257,6 @@
       "onboard_time": 1733112380,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1760214,
-      "num": 318492,
-      "word": "你的屁股很可能已经死了",
-      "onboard_time": 1733290938,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1712298,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1545493,
+      "num": 1545493,
+      "word": "琼瑶在家自杀",
+      "onboard_time": 1733296346,
+      "rank": 4,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 1538269,
       "num": 1538269,
       "word": "17岁中专生被7家企业疯抢妈妈骄傲",
@@ -385,6 +409,14 @@
       "onboard_time": 1733237605,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1441679,
+      "num": 562774,
+      "word": "周密发的朋友圈",
+      "onboard_time": 1733295800,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1430890,
@@ -1195,6 +1227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 723339,
+      "num": 723339,
+      "word": "王楚钦 不要让我坐第一排啊",
+      "onboard_time": 1733293159,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 713041,
       "num": 618350,
       "word": "韩国1980年以来首次戒严",
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 710625,
-      "num": 413354,
+      "num": 622867,
       "word": "网红祁天道擦边调戏女生被网友谴责",
       "onboard_time": 1733291960,
       "rank": 11,
@@ -1635,14 +1675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 586838,
-      "num": 586838,
-      "word": "王楚钦 不要让我坐第一排啊",
-      "onboard_time": 1733293159,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 583573,
       "num": 583573,
       "word": "老板接44元订单竟涉嫌帮人洗钱",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1733064201,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 566595,
+      "num": 566595,
+      "word": "内娱古偶终于不是换乘恋爱了",
+      "onboard_time": 1733295440,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 566435,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1733125098,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484669,
+      "num": 484669,
+      "word": "陈志朋女装合同续给向佐了",
+      "onboard_time": 1733295139,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 484390,
@@ -2603,6 +2651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 411060,
+      "num": 654010,
+      "word": "男子因女友提分手飞身跳河",
+      "onboard_time": 1733295499,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410239,
       "num": 410239,
       "word": "腾讯12月大剧片单",
@@ -2739,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389719,
+      "num": 389719,
+      "word": "二手房主多次遭女子凌晨提斧砸门",
+      "onboard_time": 1733290759,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386805,
       "num": 386805,
       "word": "范丞丞唇钉",
@@ -2801,14 +2865,6 @@
       "onboard_time": 1733130858,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 377107,
-      "num": 287023,
-      "word": "二手房主多次遭女子凌晨提斧砸门",
-      "onboard_time": 1733290759,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375639,
@@ -3041,6 +3097,14 @@
       "onboard_time": 1733286622,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345837,
+      "num": 345837,
+      "word": "大侦探10首发阵容",
+      "onboard_time": 1733295559,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 344586,
@@ -4307,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230093,
+      "num": 253713,
+      "word": "再见爱人",
+      "onboard_time": 1733292320,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230038,
       "num": 234931,
       "word": "泰国坠崖孕妇与管晨辰签约同家MCN",
@@ -4532,11 +4604,19 @@
     },
     {
       "raw_hot": 220428,
-      "num": 220428,
+      "num": 513187,
       "word": "十个勤天全员加盟2024尖叫之夜",
       "onboard_time": 1733289560,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220077,
+      "num": 220077,
+      "word": "APPLE MUSIC年度最热歌曲",
+      "onboard_time": 1733294299,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 220069,
@@ -4801,6 +4881,14 @@
       "onboard_time": 1733286681,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209774,
+      "num": 209774,
+      "word": "邢昭林回应玩麦琳的梗",
+      "onboard_time": 1733291359,
+      "rank": 44,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 209559,
@@ -5659,6 +5747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188358,
+      "num": 188358,
+      "word": "iG官宣主教练Rashomon离队",
+      "onboard_time": 1733296410,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188194,
       "num": 274201,
       "word": "崩坏星穹铁道 星期日",
@@ -5907,6 +6003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182233,
+      "num": 182233,
+      "word": "A股再现无厘头炒作逻辑",
+      "onboard_time": 1733291779,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181691,
       "num": 181691,
       "word": "黄子韬 callme",
@@ -6033,14 +6137,6 @@
       "onboard_time": 1733024119,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 179332,
-      "num": 179332,
-      "word": "邢昭林回应玩麦琳的梗",
-      "onboard_time": 1733291359,
-      "rank": 44,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 179316,
@@ -6251,6 +6347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172394,
+      "num": 172394,
+      "word": "石破茂就韩国局势发声",
+      "onboard_time": 1733295921,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172356,
       "num": 172356,
       "word": "考古潘粤明",
@@ -6393,14 +6497,6 @@
       "onboard_time": 1733116579,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169443,
-      "num": 169443,
-      "word": "APPLE MUSIC年度最热歌曲",
-      "onboard_time": 1733294299,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 168913,
@@ -6585,6 +6681,14 @@
       "onboard_time": 1732980260,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163651,
+      "num": 163651,
+      "word": "琼瑶 当雪花飘落",
+      "onboard_time": 1733297014,
+      "rank": 42,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 163644,
@@ -7995,14 +8099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130692,
-      "num": 130692,
-      "word": "A股再现无厘头炒作逻辑",
-      "onboard_time": 1733291779,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 130515,
       "num": 284946,
       "word": "勇士五连败",
@@ -8153,6 +8249,14 @@
       "onboard_time": 1733039657,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126700,
+      "num": 2239376,
+      "word": "中国游让世界认识更加真实的中国",
+      "onboard_time": 1733294360,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 126529,
@@ -8401,6 +8505,14 @@
       "onboard_time": 1733101279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121772,
+      "num": 133752,
+      "word": "黄子弘凡跨晚突袭直播",
+      "onboard_time": 1733295199,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 121607,
@@ -9595,6 +9707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90540,
+      "num": 367050,
+      "word": "EDG冠军阵容全员离队",
+      "onboard_time": 1733290579,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90538,
       "num": 250005,
       "word": "贵州发生一起翻船事故致8人死亡",
@@ -9713,14 +9833,6 @@
       "onboard_time": 1733262013,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 84838,
-      "num": 253713,
-      "word": "再见爱人",
-      "onboard_time": 1733292320,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 84826,
@@ -9872,6 +9984,14 @@
       "word": "赵丽颖无形情感化有形",
       "onboard_time": 1733037257,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81492,
+      "num": 513104,
+      "word": "还珠格格",
+      "onboard_time": 1733296892,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -11683,6 +11803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38808,
+      "num": 485097,
+      "word": "男子5万买车半年方向盘失灵",
+      "onboard_time": 1733297014,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38648,
       "num": 118210,
       "word": "从再见爱人看女性之间的默契",
@@ -11769,6 +11897,14 @@
       "onboard_time": 1733148862,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36831,
+      "num": 168992,
+      "word": "郑钦文今年大赛积分第五",
+      "onboard_time": 1733295921,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 36811,
@@ -12089,14 +12225,6 @@
       "onboard_time": 1733117238,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31820,
-      "num": 844215,
-      "word": "中国游让世界认识更加真实的中国",
-      "onboard_time": 1733294360,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 31791,
