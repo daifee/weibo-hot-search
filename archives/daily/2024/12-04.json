@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733301127510,
+  "endTime": 1733301990929,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -91,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2590747,
-      "num": 2590747,
+      "raw_hot": 2963856,
+      "num": 2963856,
       "word": "琼瑶去世前悼念亡夫",
       "onboard_time": 1733299532,
       "rank": 5,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1699615,
+      "num": 1699615,
+      "word": "林心如",
+      "onboard_time": 1733300011,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1669590,
       "num": 1655602,
       "word": "花四万二在鹤岗买房后的生活",
@@ -201,14 +209,6 @@
       "onboard_time": 1733244319,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1342356,
-      "num": 1342356,
-      "word": "林心如",
-      "onboard_time": 1733300011,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1291932,
@@ -339,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 829667,
+      "num": 829667,
+      "word": "苏有朋 愿阿姨一路潇洒翩然",
+      "onboard_time": 1733301867,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823318,
       "num": 2522694,
       "word": "邢昭林玩麦琳的梗",
@@ -451,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648430,
+      "num": 605939,
+      "word": "于正",
+      "onboard_time": 1733300132,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 631708,
       "num": 631708,
       "word": "还珠格格",
       "onboard_time": 1733296892,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625548,
+      "num": 625548,
+      "word": "琼瑶7年前曾立遗嘱交代家人",
+      "onboard_time": 1733301269,
+      "rank": 15,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 619690,
@@ -475,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605442,
+      "num": 1389047,
+      "word": "小学老师控诉涉黄卡片入侵校园",
+      "onboard_time": 1733298394,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 600088,
       "num": 600088,
       "word": "深夜韩国国会上空",
       "onboard_time": 1733239286,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 598094,
+      "num": 598094,
+      "word": "年轻的你们 千万不要轻易放弃生命",
+      "onboard_time": 1733300549,
+      "rank": 26,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 594255,
@@ -580,7 +620,7 @@
     },
     {
       "raw_hot": 519077,
-      "num": 404458,
+      "num": 445726,
       "word": "韩国总统宣布解除紧急戒严令",
       "onboard_time": 1733268979,
       "rank": 9,
@@ -609,14 +649,6 @@
       "onboard_time": 1733243422,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 492286,
-      "num": 1389047,
-      "word": "小学老师控诉涉黄卡片入侵校园",
-      "onboard_time": 1733298394,
-      "rank": 8,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 490304,
@@ -657,6 +689,14 @@
       "onboard_time": 1733240187,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 479345,
+      "num": 436572,
+      "word": "琼瑶七年前曾反对丈夫插管",
+      "onboard_time": 1733301867,
+      "rank": 30,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 476812,
@@ -771,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408552,
+      "num": 408552,
+      "word": "因父亲车祸去世王鸡肉暂停出摊",
+      "onboard_time": 1733300069,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406225,
       "num": 406225,
       "word": "郭敬明 妆造",
@@ -841,14 +889,6 @@
       "onboard_time": 1733288782,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366877,
-      "num": 366877,
-      "word": "年轻的你们 千万不要轻易放弃生命",
-      "onboard_time": 1733300549,
-      "rank": 26,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 364314,
@@ -953,6 +993,14 @@
       "onboard_time": 1733276718,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301905,
+      "num": 301905,
+      "word": "长白山偶遇关晓彤林一录制综艺",
+      "onboard_time": 1733300132,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 300916,
@@ -1067,14 +1115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 274930,
-      "num": 364456,
-      "word": "因父亲车祸去世王鸡肉暂停出摊",
-      "onboard_time": 1733300069,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274548,
       "num": 364383,
       "word": "樱桃琥珀发预告了",
@@ -1139,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260404,
-      "num": 364974,
-      "word": "于正",
-      "onboard_time": 1733300132,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 259235,
       "num": 259235,
       "word": "菲律宾",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1733290820,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253338,
-      "num": 253338,
-      "word": "长白山偶遇关晓彤林一录制综艺",
-      "onboard_time": 1733300132,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 251915,
@@ -1275,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219846,
+      "num": 219846,
+      "word": "女生被灌醉后遭强奸致死案将开庭",
+      "onboard_time": 1733301747,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219216,
       "num": 407276,
       "word": "迪丽热巴薰衣草金属感眼妆",
@@ -1307,20 +1339,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211423,
+      "num": 211423,
+      "word": "周杰伦霸榜2024年中国大陆最热歌曲",
+      "onboard_time": 1733300069,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210015,
       "num": 210015,
       "word": "孟子义新任掌公主",
       "onboard_time": 1733286681,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209175,
-      "num": 209175,
-      "word": "周杰伦霸榜2024年中国大陆最热歌曲",
-      "onboard_time": 1733300069,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 204007,
@@ -1419,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176329,
+      "num": 176329,
+      "word": "深圳福彩回应80元中2.25亿",
+      "onboard_time": 1733299891,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174500,
       "num": 431389,
       "word": "难怪有故人之姿 原来是故人之子",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1733295921,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172271,
+      "num": 467832,
+      "word": "潘展乐霸气回应国外选手质疑",
+      "onboard_time": 1733301269,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 169809,
@@ -1452,7 +1500,7 @@
     },
     {
       "raw_hot": 166823,
-      "num": 166823,
+      "num": 617071,
       "word": "丁禹兮早期商务水平",
       "onboard_time": 1733298216,
       "rank": 49,
@@ -1539,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154903,
+      "num": 617658,
+      "word": "我是刑警案件又上强度了",
+      "onboard_time": 1733300969,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152977,
       "num": 306205,
       "word": "男子转账被限额怒问银行",
@@ -1595,20 +1651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146163,
+      "num": 410017,
+      "word": "乙游 调节内分泌",
+      "onboard_time": 1733300549,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145988,
       "num": 145988,
       "word": "丁程鑫宋亚轩参加太阳市集直播",
       "onboard_time": 1733292140,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142689,
-      "num": 410017,
-      "word": "乙游 调节内分泌",
-      "onboard_time": 1733300549,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 142570,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1733286202,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123844,
+      "num": 306486,
+      "word": "巩俐问路 美女你好",
+      "onboard_time": 1733299591,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 122813,
@@ -1891,6 +1955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93405,
+      "num": 4428829,
+      "word": "关于宪法这些要知道",
+      "onboard_time": 1733297736,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89094,
       "num": 142411,
       "word": "19岁机车女网红因车祸去世",
@@ -1905,14 +1977,6 @@
       "onboard_time": 1733227938,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85932,
-      "num": 690696,
-      "word": "关于宪法这些要知道",
-      "onboard_time": 1733297736,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85471,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1733264893,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81694,
+      "num": 439177,
+      "word": "后来我再也写不出高三的文字",
+      "onboard_time": 1733301807,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 80961,
@@ -1977,6 +2049,14 @@
       "onboard_time": 1733294239,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75138,
+      "num": 909474,
+      "word": "焦虑的白领涌去洗头店午睡",
+      "onboard_time": 1733300910,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74158,
@@ -2187,14 +2267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 41062,
-      "num": 422733,
-      "word": "我是刑警案件又上强度了",
-      "onboard_time": 1733300969,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40397,
       "num": 439103,
       "word": "Mate70红枫原色影像拍得有多准",
@@ -2241,6 +2313,14 @@
       "onboard_time": 1733286502,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37068,
+      "num": 488154,
+      "word": "马龙走到哪尖叫声就到哪",
+      "onboard_time": 1733300729,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 36831,
@@ -2291,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32639,
+      "num": 610657,
+      "word": "男子遇电诈将3万现金藏泡面桶邮寄",
+      "onboard_time": 1733301449,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32261,
       "num": 272628,
       "word": "爱吃枇杷的娘口三三",
@@ -2313,14 +2401,6 @@
       "onboard_time": 1733245637,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 30026,
-      "num": 488154,
-      "word": "马龙走到哪尖叫声就到哪",
-      "onboard_time": 1733300729,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 29746,
@@ -2355,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27260,
+      "num": 1205259,
+      "word": "苏有朋悼念琼瑶",
+      "onboard_time": 1733301928,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26692,
       "num": 5486996,
       "word": "数说一带一路成绩单",
@@ -2377,14 +2465,6 @@
       "onboard_time": 1733280498,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 24709,
-      "num": 909474,
-      "word": "焦虑的白领涌去洗头店午睡",
-      "onboard_time": 1733300910,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24173,
@@ -2692,6 +2772,9 @@
     },
     {
       "word": "#良法善治#"
+    },
+    {
+      "word": "#共建一带一路源自中国属于世界#"
     }
   ]
 }
