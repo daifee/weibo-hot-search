@@ -1,0 +1,410 @@
+{
+  "runTime": 1733290887805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720303,
+        "num": 1720303,
+        "word": "这一晚韩国发生了什么",
+        "onboard_time": 1733267598,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1609323,
+        "num": 1609323,
+        "word": "彩票中2.25亿需缴税超4500万",
+        "onboard_time": 1733286861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11033,
+        "num": 1257459,
+        "word": "2024读懂中国",
+        "onboard_time": 1733234481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1693700,
+        "num": 1206761,
+        "word": "马斯克说被韩国戒严令惊到了",
+        "onboard_time": 1733285541,
+        "rank": 3,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 1044178,
+        "num": 1044178,
+        "word": "父亲死亡3子女获赔72万被亲戚花光",
+        "onboard_time": 1733286742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2627733,
+        "num": 1039294,
+        "word": "彩票中2.25亿男子已兑奖",
+        "onboard_time": 1733286322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1029682,
+        "num": 1029682,
+        "word": "太阳的后裔原型部队参与韩国戒严",
+        "onboard_time": 1733283138,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 841839,
+        "num": 841839,
+        "word": "恋与王安宇",
+        "onboard_time": 1733286202,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609387,
+        "num": 609387,
+        "word": "周密",
+        "onboard_time": 1733288002,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424158,
+        "num": 424158,
+        "word": "刘宇宁 别太拿自己当回事儿",
+        "onboard_time": 1733288121,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 885519,
+        "num": 398954,
+        "word": "霍思燕带女儿和朋友聚餐",
+        "onboard_time": 1733289740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787056,
+        "num": 390791,
+        "word": "韩国总统发布紧急戒严令",
+        "onboard_time": 1733234242,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372163,
+        "num": 372163,
+        "word": "李宏毅健身房抽烟",
+        "onboard_time": 1733288782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367984,
+        "num": 367984,
+        "word": "韩国总统戒严闹剧直接起因",
+        "onboard_time": 1733289621,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97536,
+        "num": 366869,
+        "word": "中储粮一项目拆除时倒塌致6死1伤",
+        "onboard_time": 1733289440,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729397,
+        "num": 366185,
+        "word": "韩国会会议通过解除戒严决议",
+        "onboard_time": 1733242046,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329338,
+        "num": 364634,
+        "word": "权志龙新歌被KBS判为不合格",
+        "onboard_time": 1733286202,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 713041,
+        "num": 364016,
+        "word": "韩国1980年以来首次戒严",
+        "onboard_time": 1733271983,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71133,
+        "num": 362399,
+        "word": "十个勤天直播",
+        "onboard_time": 1733290101,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111345,
+        "num": 360608,
+        "word": "多少中国人困在第一学历里",
+        "onboard_time": 1733289921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257453,
+        "num": 359237,
+        "word": "迪丽热巴五年前经历自我和解",
+        "onboard_time": 1733289201,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359076,
+        "num": 359076,
+        "word": "突然理解了在网上买银杏叶的人",
+        "onboard_time": 1733289560,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336479,
+        "num": 336479,
+        "word": "员工周末不响应工作老板退群裁员",
+        "onboard_time": 1733284941,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 305788,
+        "num": 305788,
+        "word": "章子怡周冬雨聚餐",
+        "onboard_time": 1733285901,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271981,
+        "num": 300032,
+        "word": "光与夜之恋",
+        "onboard_time": 1733289501,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298653,
+        "num": 298653,
+        "word": "邢昭林玩麦琳的梗",
+        "onboard_time": 1733279418,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155520,
+        "num": 298356,
+        "word": "于正 关于竖屏短剧演员的一切",
+        "onboard_time": 1733289501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100889,
+        "num": 297878,
+        "word": "海参厂老板沉迷赌博输了2000多万",
+        "onboard_time": 1733290820,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106548,
+        "num": 297196,
+        "word": "王一博说杭州是一座自然之城",
+        "onboard_time": 1733290222,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27493,
+        "num": 296643,
+        "word": "如何破解滥用仅退款薅羊毛",
+        "onboard_time": 1733289979,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296229,
+        "num": 296229,
+        "word": "韩戒严令事件冲击开始显现",
+        "onboard_time": 1733283258,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55930,
+        "num": 294158,
+        "word": "于正看好的短剧男演员",
+        "onboard_time": 1733288782,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292874,
+        "num": 292874,
+        "word": "韩国朝野两大政党党首紧紧握手",
+        "onboard_time": 1733281819,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284462,
+        "num": 284462,
+        "word": "丁禹兮巧克力代言",
+        "onboard_time": 1733286622,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275396,
+        "num": 275396,
+        "word": "EDG官宣Jiejie离队",
+        "onboard_time": 1733289440,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265206,
+        "num": 265206,
+        "word": "江苏一公园将长条椅焊上钢管",
+        "onboard_time": 1733284819,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250434,
+        "num": 250434,
+        "word": "韩国总统宣布解除紧急戒严令",
+        "onboard_time": 1733268979,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234219,
+        "num": 234219,
+        "word": "谢娜维嘉杜海涛合体",
+        "onboard_time": 1733288062,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218934,
+        "num": 218934,
+        "word": "福宝",
+        "onboard_time": 1733289679,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208758,
+        "num": 208758,
+        "word": "结婚后才明白什么叫隐形家务",
+        "onboard_time": 1733274562,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197471,
+        "num": 197471,
+        "word": "TES官宣Tian离队",
+        "onboard_time": 1733289979,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196030,
+        "num": 196030,
+        "word": "十个勤天全员加盟2024尖叫之夜",
+        "onboard_time": 1733289560,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195324,
+        "num": 195324,
+        "word": "白敬亭 脱了号就封了",
+        "onboard_time": 1733269279,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184396,
+        "num": 184396,
+        "word": "夏弃疾拍了田嘉瑞",
+        "onboard_time": 1733286561,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178907,
+        "num": 178907,
+        "word": "海参厂老板赌球输2200万后自杀",
+        "onboard_time": 1733280079,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161945,
+        "num": 161945,
+        "word": "沈腾王安宇情头",
+        "onboard_time": 1733290520,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158270,
+        "num": 158270,
+        "word": "韩国戒严后民众疯狂囤罐头",
+        "onboard_time": 1733286742,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158200,
+        "num": 158200,
+        "word": "孟子义新任掌公主",
+        "onboard_time": 1733286681,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150596,
+        "num": 150596,
+        "word": "无限暖暖 配置",
+        "onboard_time": 1733284879,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142490,
+        "num": 142490,
+        "word": "名侦探柯南2025年剧场版",
+        "onboard_time": 1733290820,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪森会谈#"
+    }
+  }
+}
