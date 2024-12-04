@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733330891583,
+  "endTime": 1733332908129,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -163,20 +163,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 147903,
+      "num": 147903,
+      "word": "如果手机被偷听耗电速度会快27%",
+      "onboard_time": 1733327840,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144382,
       "num": 125633,
       "word": "禹宙中欣",
       "onboard_time": 1733320465,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142603,
-      "num": 142603,
-      "word": "如果手机被偷听耗电速度会快27%",
-      "onboard_time": 1733327840,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141461,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 139677,
-      "num": 115967,
+      "num": 121804,
       "word": "琼瑶成都故居依旧保存完好",
       "onboard_time": 1733327539,
       "rank": 30,
@@ -379,12 +379,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66314,
+      "num": 126762,
+      "word": "祁天道直播经常对女性做不雅动作",
+      "onboard_time": 1733329996,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 65658,
+      "num": 65658,
+      "word": "黄奕 琼瑶阿姨对我人生的影响很大",
+      "onboard_time": 1733331196,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59106,
       "num": 63519,
       "word": "张睿换枯叶蝶头像",
       "onboard_time": 1733310861,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45726,
+      "num": 45726,
+      "word": "春节列入世界非遗",
+      "onboard_time": 1733331616,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45463,
+      "num": 45463,
+      "word": "非遗版春节壁纸",
+      "onboard_time": 1733332216,
+      "rank": 42,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 41341,
@@ -395,12 +427,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 33862,
-      "num": 126762,
-      "word": "祁天道直播经常对女性做不雅动作",
-      "onboard_time": 1733329996,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 39088,
+      "num": 42265,
+      "word": "刘涛悼念琼瑶",
+      "onboard_time": 1733332455,
+      "rank": 49,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 16065,
@@ -419,10 +451,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9408,
+      "num": 91579,
+      "word": "高圆圆复古千金感",
+      "onboard_time": 1733332395,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9006,
       "num": 123580,
       "word": "国乒回应8比1战胜德国队",
       "onboard_time": 1733324543,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7356,
+      "num": 74360,
+      "word": "谷爱凌滑雪世界杯云顶站适应训练",
+      "onboard_time": 1733332095,
       "rank": 24,
       "category": "体育"
     }
