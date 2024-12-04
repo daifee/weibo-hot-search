@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733287429700,
+  "endTime": 1733289817166,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2985111,
+      "num": 2712830,
+      "word": "彩票中2.25亿男子已兑奖",
+      "onboard_time": 1733286322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2516423,
       "num": 2516423,
       "word": "太阳的后裔原型部队参与韩国戒严",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 2125564,
-      "num": 969886,
+      "num": 1057718,
       "word": "马斯克说被韩国戒严令惊到了",
       "onboard_time": 1733285541,
       "rank": 26,
@@ -131,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1179365,
+      "num": 1179365,
+      "word": "父亲死亡3子女获赔72万被亲戚花光",
+      "onboard_time": 1733286742,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1137340,
       "num": 1137340,
       "word": "韩国在野党与警方在国会出入口对峙",
@@ -163,6 +179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1039342,
+      "num": 1039342,
+      "word": "彩票中2.25亿需缴税超4500万",
+      "onboard_time": 1733286861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1022519,
       "num": 965125,
       "word": "韩空降部队打碎玻璃窗进入国会",
@@ -179,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1002265,
-      "num": 2712830,
-      "word": "彩票中2.25亿男子已兑奖",
-      "onboard_time": 1733286322,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 970337,
       "num": 283673,
       "word": "韩国国会通过解除戒严决议",
       "onboard_time": 1733242406,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 970149,
+      "num": 970149,
+      "word": "恋与王安宇",
+      "onboard_time": 1733286202,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 833047,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 694259,
-      "num": 429751,
+      "num": 618350,
       "word": "韩国1980年以来首次戒严",
       "onboard_time": 1733271983,
       "rank": 20,
@@ -257,14 +281,6 @@
       "onboard_time": 1733239886,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 614807,
-      "num": 614807,
-      "word": "恋与王安宇",
-      "onboard_time": 1733286202,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 600088,
@@ -355,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 547187,
+      "num": 825299,
+      "word": "周密",
+      "onboard_time": 1733288002,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540264,
       "num": 2759645,
       "word": "韩娱活动因戒严令接连取消",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 524058,
-      "num": 524058,
+      "num": 645269,
       "word": "权志龙新歌被KBS判为不合格",
       "onboard_time": 1733286202,
       "rank": 8,
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 433800,
-      "num": 433800,
+      "num": 584600,
       "word": "章子怡周冬雨聚餐",
       "onboard_time": 1733285901,
       "rank": 10,
@@ -531,20 +555,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 418650,
-      "num": 476706,
-      "word": "父亲死亡3子女获赔72万被亲戚花光",
-      "onboard_time": 1733286742,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 417515,
       "num": 164503,
       "word": "南韩汪峰",
       "onboard_time": 1733246057,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403962,
+      "num": 403962,
+      "word": "员工周末不响应工作老板退群裁员",
+      "onboard_time": 1733284941,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 394492,
@@ -579,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 377696,
-      "num": 332363,
-      "word": "员工周末不响应工作老板退群裁员",
-      "onboard_time": 1733284941,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 364314,
       "num": 364314,
       "word": "结婚后才明白什么叫隐形家务",
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 348926,
-      "num": 333301,
+      "num": 343689,
       "word": "丁禹兮巧克力代言",
       "onboard_time": 1733286622,
       "rank": 34,
@@ -609,6 +625,14 @@
       "onboard_time": 1733233941,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342614,
+      "num": 342614,
+      "word": "李宏毅健身房抽烟",
+      "onboard_time": 1733288782,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 342281,
@@ -683,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 291021,
+      "num": 291021,
+      "word": "霍思燕带女儿和朋友聚餐",
+      "onboard_time": 1733289740,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290697,
       "num": 225818,
       "word": "韩国国会主楼对峙冲突现场视频",
@@ -723,14 +755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 281760,
-      "num": 481199,
-      "word": "彩票中2.25亿需缴税超4500万",
-      "onboard_time": 1733286861,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280585,
       "num": 501027,
       "word": "我妈果然偏爱谭松韵",
@@ -769,6 +793,14 @@
       "onboard_time": 1733277021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271862,
+      "num": 271862,
+      "word": "谢娜维嘉杜海涛合体",
+      "onboard_time": 1733288062,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 269308,
@@ -827,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247427,
+      "num": 468892,
+      "word": "刘宇宁 别太拿自己当回事儿",
+      "onboard_time": 1733288121,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238789,
       "num": 493928,
       "word": "丁禹兮曾说自己无胸肌无腹肌",
@@ -841,6 +881,14 @@
       "onboard_time": 1733241625,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227399,
+      "num": 434219,
+      "word": "夏弃疾拍了田嘉瑞",
+      "onboard_time": 1733286561,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 226102,
@@ -875,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220428,
+      "num": 220428,
+      "word": "十个勤天全员加盟2024尖叫之夜",
+      "onboard_time": 1733289560,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219216,
       "num": 407276,
       "word": "迪丽热巴薰衣草金属感眼妆",
@@ -891,12 +947,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 208033,
-      "num": 434219,
-      "word": "夏弃疾拍了田嘉瑞",
-      "onboard_time": 1733286561,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 210015,
+      "num": 210015,
+      "word": "孟子义新任掌公主",
+      "onboard_time": 1733286681,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209731,
+      "num": 209731,
+      "word": "突然理解了在网上买银杏叶的人",
+      "onboard_time": 1733289560,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 208193,
+      "num": 208193,
+      "word": "光与夜之恋",
+      "onboard_time": 1733289501,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 204800,
+      "num": 345098,
+      "word": "EDG官宣Jiejie离队",
+      "onboard_time": 1733289440,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 204007,
@@ -913,14 +993,6 @@
       "onboard_time": 1733283740,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202761,
-      "num": 202761,
-      "word": "孟子义新任掌公主",
-      "onboard_time": 1733286681,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 202699,
@@ -945,6 +1017,14 @@
       "onboard_time": 1733277499,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188500,
+      "num": 229551,
+      "word": "迪丽热巴五年前经历自我和解",
+      "onboard_time": 1733289201,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186215,
@@ -1027,6 +1107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158170,
+      "num": 158170,
+      "word": "张凌赫落泪镜头",
+      "onboard_time": 1733288901,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155256,
       "num": 253083,
       "word": "大年三十将消失五年",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1733254091,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152387,
+      "num": 413294,
+      "word": "韩国戒严后民众疯狂囤罐头",
+      "onboard_time": 1733286742,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152138,
@@ -1091,6 +1187,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142473,
+      "num": 340335,
+      "word": "这年头猴子下班都坐车了",
+      "onboard_time": 1733286982,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140666,
+      "num": 140666,
+      "word": "福宝",
+      "onboard_time": 1733289679,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139370,
       "num": 156779,
       "word": "杨政放弃体测",
@@ -1115,19 +1227,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131760,
+      "num": 563840,
+      "word": "韩国总统戒严闹剧直接起因",
+      "onboard_time": 1733289621,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128836,
       "num": 123842,
       "word": "韩民众称尹锡悦已按下弹劾自己的按钮",
       "onboard_time": 1733269219,
       "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 127230,
-      "num": 413294,
-      "word": "韩国戒严后民众疯狂囤罐头",
-      "onboard_time": 1733286742,
-      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -1137,6 +1249,14 @@
       "onboard_time": 1733235382,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125493,
+      "num": 227685,
+      "word": "马斯克回应韩国戒严令",
+      "onboard_time": 1733288421,
+      "rank": 36,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 124682,
@@ -1307,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84031,
+      "num": 571734,
+      "word": "中储粮一项目拆除时倒塌致6死1伤",
+      "onboard_time": 1733289440,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83326,
       "num": 120972,
       "word": "女生退伍后第一件事是看望张桂梅",
@@ -1329,6 +1457,14 @@
       "onboard_time": 1733236525,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79941,
+      "num": 305823,
+      "word": "于正 关于竖屏短剧演员的一切",
+      "onboard_time": 1733289501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 78140,
@@ -1385,14 +1521,6 @@
       "onboard_time": 1733246116,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67100,
-      "num": 340335,
-      "word": "这年头猴子下班都坐车了",
-      "onboard_time": 1733286982,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 65972,
@@ -1483,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47840,
+      "num": 412001,
+      "word": "王一博真代言了剃须刀",
+      "onboard_time": 1733285361,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46992,
       "num": 73318,
       "word": "田嘉瑞晒陈好送的500号魔杖",
@@ -1531,12 +1667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36044,
-      "num": 412001,
-      "word": "王一博真代言了剃须刀",
-      "onboard_time": 1733285361,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 35916,
+      "num": 515856,
+      "word": "破解托育难还有哪些路要走",
+      "onboard_time": 1733288361,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34586,
@@ -1577,6 +1713,14 @@
       "onboard_time": 1733245637,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29746,
+      "num": 510845,
+      "word": "韩国概念股韩建河山一字涨停",
+      "onboard_time": 1733289081,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 29224,
@@ -1673,6 +1817,14 @@
       "onboard_time": 1733249831,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21051,
+      "num": 401604,
+      "word": "2024微博网友期待电影",
+      "onboard_time": 1733287941,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 19232,
