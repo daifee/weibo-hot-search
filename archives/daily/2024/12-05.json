@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733344026897,
+  "endTime": 1733344856146,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -459,20 +459,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 39206,
+      "num": 39206,
+      "word": "韩国紧急戒严令导火索",
+      "onboard_time": 1733341152,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39088,
       "num": 42265,
       "word": "刘涛悼念琼瑶",
       "onboard_time": 1733332455,
       "rank": 49,
       "category": "艺人,读书作家"
-    },
-    {
-      "raw_hot": 35835,
-      "num": 35835,
-      "word": "韩国紧急戒严令导火索",
-      "onboard_time": 1733341152,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32283,
@@ -499,12 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24639,
+      "raw_hot": 25684,
       "num": 46728,
       "word": "知情人谈低俗网红祁天道被封",
       "onboard_time": 1733338333,
       "rank": 41,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 25173,
+      "num": 25173,
+      "word": "周深谈一路成长",
+      "onboard_time": 1733344460,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 24037,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 15223,
-      "num": 16233,
+      "num": 40456,
       "word": "紧急戒严风波凸显韩国政治对立严重",
       "onboard_time": 1733340551,
       "rank": 49,
