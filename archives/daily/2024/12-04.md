@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/04 00:30:24 ~ 2024/12/04 15:25:33
+本榜单时间：2024/12/04 00:30:24 ~ 2024/12/04 15:38:34
 </p>
 </blockquote>
 <p>
@@ -16,13 +16,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%E5%8E%BB%E4%B8%96%23" target="weibo">
-琼瑶去世（热度：24117702）
+琼瑶去世（热度：28317407）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%E9%81%97%E4%B9%A6%23" target="weibo">
-琼瑶遗书（热度：14041283）
+琼瑶遗书（热度：21290951）
 </a>
 </li>
 
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%BF%BB%E5%A2%99%E8%BF%9B%E5%85%A5%E5%9B%BD%E4%BC%9A%23" target="weibo">
 李在明翻墙进入国会（热度：7935645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%E5%9C%A8%E5%AE%B6%E8%87%AA%E6%9D%80%23" target="weibo">
+琼瑶在家自杀（热度：7680174）
 </a>
 </li>
 
@@ -87,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%AF%86%E5%8F%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+周密发的朋友圈（热度：1921872）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%B1%81%E8%82%A1%E5%BE%88%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E6%AD%BB%E4%BA%86%23" target="weibo">
 你的屁股很可能已经死了（热度：1885054）
 </a>
@@ -117,20 +129,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%E5%9C%A8%E5%AE%B6%E8%87%AA%E6%9D%80%23" target="weibo">
-琼瑶在家自杀（热度：1545493）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%AF%86%E5%8F%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-周密发的朋友圈（热度：1441679）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AF%B4%E5%B0%B9%E9%94%A1%E6%82%A6%E4%B8%8D%E5%86%8D%E6%98%AF%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BA%86%23" target="weibo">
 李在明说尹锡悦不再是韩国总统了（热度：1421812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%AD%A4%E4%BD%8E%E4%BF%97%E7%BD%91%E7%BA%A2%E7%AB%9F%E6%9C%894000%E4%B8%87%E7%B2%89%E4%B8%9D%23" target="weibo">
+如此低俗网红竟有4000万粉丝（热度：1396141）
 </a>
 </li>
 
@@ -161,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%A8%E9%87%8E%E5%85%9A%E4%B8%8E%E8%AD%A6%E6%96%B9%E5%9C%A8%E5%9B%BD%E4%BC%9A%E5%87%BA%E5%85%A5%E5%8F%A3%E5%AF%B9%E5%B3%99%23" target="weibo">
 韩国在野党与警方在国会出入口对峙（热度：1137340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%20%E5%BD%93%E9%9B%AA%E8%8A%B1%E9%A3%98%E8%90%BD%23" target="weibo">
+琼瑶 当雪花飘落（热度：1103474）
 </a>
 </li>
 
@@ -237,6 +249,12 @@ TWICE（热度：1011676）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E6%9C%8B%E5%A5%B3%E8%A3%85%E5%90%88%E5%90%8C%E7%BB%AD%E7%BB%99%E5%90%91%E4%BD%90%E4%BA%86%23" target="weibo">
+陈志朋女装合同续给向佐了（热度：730375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%88%91%E5%9D%90%E7%AC%AC%E4%B8%80%E6%8E%92%E5%95%8A%23" target="weibo">
 王楚钦 不要让我坐第一排啊（热度：723339）
 </a>
@@ -269,6 +287,18 @@ TWICE（热度：1011676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%88%92%E4%B8%A5%E9%97%B9%E5%89%A7%E7%9B%B4%E6%8E%A5%E8%B5%B7%E5%9B%A0%23" target="weibo">
 韩国总统戒严闹剧直接起因（热度：699574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%A4%E5%81%B6%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
+内娱古偶终于不是换乘恋爱了（热度：694770）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%A5%B3%E5%8F%8B%E6%8F%90%E5%88%86%E6%89%8B%E9%A3%9E%E8%BA%AB%E8%B7%B3%E6%B2%B3%23" target="weibo">
+男子因女友提分手飞身跳河（热度：684819）
 </a>
 </li>
 
@@ -329,12 +359,6 @@ TWICE（热度：1011676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%BE%9F%E5%AD%90%E5%A5%B3%E5%84%BF%E5%9B%A0%E5%AD%A9%E5%AD%90%E6%96%AD%E5%A5%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
 金龟子女儿因孩子断奶崩溃大哭（热度：572103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%A4%E5%81%B6%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E6%8D%A2%E4%B9%98%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
-内娱古偶终于不是换乘恋爱了（热度：566595）
 </a>
 </li>
 
@@ -407,12 +431,6 @@ TWICE（热度：1011676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%81%B0%E5%A4%AA%E7%8B%BC%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%B7%B2%E7%A6%BB%E4%B8%96%23" target="weibo">
 19岁灰太狼胃癌晚期已离世（热度：488621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E6%9C%8B%E5%A5%B3%E8%A3%85%E5%90%88%E5%90%8C%E7%BB%AD%E7%BB%99%E5%90%91%E4%BD%90%E4%BA%86%23" target="weibo">
-陈志朋女装合同续给向佐了（热度：484669）
 </a>
 </li>
 
@@ -513,12 +531,6 @@ TWICE（热度：1011676）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%A5%B3%E5%8F%8B%E6%8F%90%E5%88%86%E6%89%8B%E9%A3%9E%E8%BA%AB%E8%B7%B3%E6%B2%B3%23" target="weibo">
-男子因女友提分手飞身跳河（热度：411060）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%91%A8%E6%9C%AB%E4%B8%8D%E5%93%8D%E5%BA%94%E5%B7%A5%E4%BD%9C%E8%80%81%E6%9D%BF%E9%80%80%E7%BE%A4%E8%A3%81%E5%91%98%23" target="weibo">
 员工周末不响应工作老板退群裁员（热度：403962）
 </a>
@@ -549,6 +561,12 @@ TWICE（热度：1011676）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A210%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%23" target="weibo">
+大侦探10首发阵容（热度：381130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%99%9A%E4%B8%8A%E7%9C%9F%E4%B8%8D%E7%9D%A1%E8%A7%89%23" target="weibo">
 韩国人晚上真不睡觉（热度：379163）
 </a>
@@ -575,12 +593,6 @@ TWICE（热度：1011676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%BB%A3%E8%A8%80%23" target="weibo">
 丁禹兮巧克力代言（热度：348926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A210%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%23" target="weibo">
-大侦探10首发阵容（热度：345837）
 </a>
 </li>
 
@@ -723,6 +735,12 @@ EDG官宣Jiejie离队（热度：275396）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23" target="weibo">
+还珠格格（热度：274962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%B1%E6%A1%83%E7%90%A5%E7%8F%80%E5%8F%91%E9%A2%84%E5%91%8A%E4%BA%86%23" target="weibo">
 樱桃琥珀发预告了（热度：274548）
 </a>
@@ -785,6 +803,12 @@ SBS（热度：269308）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%89%A7%E6%94%BF%E5%85%9A%E7%A7%B0%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E7%B4%A7%E6%80%A5%E6%88%92%E4%B8%A5%E9%94%99%E8%AF%AF%23" target="weibo">
 韩执政党称总统宣布紧急戒严错误（热度：251915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E6%98%AD%E6%9E%97%E5%9B%9E%E5%BA%94%E7%8E%A9%E9%BA%A6%E7%90%B3%E7%9A%84%E6%A2%97%23" target="weibo">
+邢昭林回应玩麦琳的梗（热度：242308）
 </a>
 </li>
 
@@ -885,8 +909,20 @@ WBG官宣Tian加入（热度：213318）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E6%98%AD%E6%9E%97%E5%9B%9E%E5%BA%94%E7%8E%A9%E9%BA%A6%E7%90%B3%E7%9A%84%E6%A2%97%23" target="weibo">
-邢昭林回应玩麦琳的梗（热度：209774）
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%E8%BD%BB%E7%94%9F%E8%AD%A6%E6%96%B9%E5%88%9D%E6%AD%A5%E6%8E%92%E9%99%A4%E5%A4%96%E5%8A%9B%E4%BB%8B%E5%85%A5%23" target="weibo">
+琼瑶轻生警方初步排除外力介入（热度：205265）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%92%E6%B4%9E%E6%B4%9E%E9%9E%8B%23" target="weibo">
+加绒洞洞鞋（热度：204933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%A6%86%E9%80%A0%23" target="weibo">
+郭敬明 妆造（热度：204036）
 </a>
 </li>
 
@@ -983,12 +1019,6 @@ A股再现无厘头炒作逻辑（热度：182233）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B5%84%E4%BA%A7%E6%B7%B1%E5%A4%9C%E6%9A%B4%E8%B7%8C%23" target="weibo">
 韩国资产深夜暴跌（热度：164856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%20%E5%BD%93%E9%9B%AA%E8%8A%B1%E9%A3%98%E8%90%BD%23" target="weibo">
-琼瑶 当雪花飘落（热度：163651）
 </a>
 </li>
 
@@ -1245,6 +1275,12 @@ Zeus获2024仁川年度人物奖（热度：124548）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%905%E4%B8%87%E4%B9%B0%E8%BD%A6%E5%8D%8A%E5%B9%B4%E6%96%B9%E5%90%91%E7%9B%98%E5%A4%B1%E7%81%B5%23" target="weibo">
+男子5万买车半年方向盘失灵（热度：103263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E8%BF%9D%E7%9A%84%E4%B8%AD%E5%BC%8F%E5%88%91%E4%BE%A6%E5%89%A7%E7%BB%88%E4%BA%8E%E5%8F%88%E5%87%BA%E5%B1%B1%E4%BA%86%23" target="weibo">
 久违的中式刑侦剧终于又出山了（热度：102825）
 </a>
@@ -1253,6 +1289,12 @@ Zeus获2024仁川年度人物奖（热度：124548）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%9C%A8%E9%87%8E%E5%85%9A%E8%A6%81%E6%B1%82%E6%80%BB%E7%BB%9F%E7%AB%8B%E5%8D%B3%E4%B8%BB%E5%8A%A8%E8%BE%9E%E8%81%8C%23" target="weibo">
 韩国最大在野党要求总统立即主动辞职（热度：101181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E5%86%A0%E5%86%9B%E9%98%B5%E5%AE%B9%E5%85%A8%E5%91%98%E7%A6%BB%E9%98%9F%23" target="weibo">
+EDG冠军阵容全员离队（热度：99488）
 </a>
 </li>
 
@@ -1293,12 +1335,6 @@ Zeus获2024仁川年度人物奖（热度：124548）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%E5%86%A0%E5%86%9B%E9%98%B5%E5%AE%B9%E5%85%A8%E5%91%98%E7%A6%BB%E9%98%9F%23" target="weibo">
-EDG冠军阵容全员离队（热度：90540）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E6%9C%BA%E8%BD%A6%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%23" target="weibo">
 19岁机车女网红因车祸去世（热度：89094）
 </a>
@@ -1307,6 +1343,12 @@ EDG冠军阵容全员离队（热度：90540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%88%9D%E6%AD%A5%E6%A3%80%E6%9F%A5%E7%B2%BE%E7%A5%9E%E5%8F%8A%E9%A3%9F%E6%AC%B2%E6%AD%A3%E5%B8%B8%23" target="weibo">
 福宝初步检查精神及食欲正常（热度：87761）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%AE%AA%E6%B3%95%E8%BF%99%E4%BA%9B%E8%A6%81%E7%9F%A5%E9%81%93%23" target="weibo">
+关于宪法这些要知道（热度：85932）
 </a>
 </li>
 
@@ -1329,12 +1371,6 @@ EDG冠军阵容全员离队（热度：90540）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%23" target="weibo">
-还珠格格（热度：81492）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%B3%BD%E5%AE%87%E6%89%8B%E5%86%99%E4%BF%A1%E9%81%93%E6%AD%89%23" target="weibo">
 于泽宇手写信道歉（热度：80961）
 </a>
@@ -1349,6 +1385,12 @@ EDG冠军阵容全员离队（热度：90540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%AF%BC%E6%B8%B8%E5%B0%B1%E8%AE%A9%E6%B8%B8%E5%AE%A2%E4%B9%B0%E4%B8%80%E6%A0%B9%E7%B3%96%E8%91%AB%E8%8A%A6%23" target="weibo">
 东北导游就让游客买一根糖葫芦（热度：78140）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%BE%97%E6%BD%87%E6%BD%87%E6%B4%92%E6%B4%92%23" target="weibo">
+活得潇潇洒洒（热度：77732）
 </a>
 </li>
 
@@ -1473,8 +1515,20 @@ EDG冠军阵容全员离队（热度：90540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E5%90%8E%E8%80%81%E4%BA%BA%E7%9A%84%E7%94%9F%E5%91%BD%E8%A2%AB%E5%AD%A4%E7%8B%AC%E5%90%9E%E6%B2%A1%23" target="weibo">
+退休后老人的生命被孤独吞没（热度：52579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E5%90%AF%E5%8A%A8%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E7%BF%BB%E8%BD%A6%E4%BA%86%23" target="weibo">
 男子酒后启动辅助驾驶翻车了（热度：52235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%A8%E5%9E%83%E5%9C%BE%E8%BF%90%E8%BE%93%E8%BD%A6%E8%A2%AB%E6%B3%A8%E6%B0%B4%E7%AB%9F%E4%B8%BA%E9%AA%97%E8%A1%A5%E8%B4%B4%23" target="weibo">
+餐厨垃圾运输车被注水竟为骗补贴（热度：49207）
 </a>
 </li>
 
@@ -1521,8 +1575,8 @@ Mate70红枫原色影像拍得有多准（热度：40397）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%905%E4%B8%87%E4%B9%B0%E8%BD%A6%E5%8D%8A%E5%B9%B4%E6%96%B9%E5%90%91%E7%9B%98%E5%A4%B1%E7%81%B5%23" target="weibo">
-男子5万买车半年方向盘失灵（热度：38808）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8D%E5%86%8D%E9%80%89%E6%8B%A9%E8%9C%B7%E7%BC%A9%23" target="weibo">
+迪丽热巴不再选择蜷缩（热度：38568）
 </a>
 </li>
 
@@ -1751,6 +1805,12 @@ T1四连败（热度：26352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9A%E7%94%B5%E5%BD%B1%E4%BA%BA%E5%9C%A8%E9%A6%99%E5%A5%88%E5%84%BF%E5%A4%A7%E7%A7%80%23" target="weibo">
 好多电影人在香奈儿大秀（热度：14397）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%E7%94%9F%E5%89%8D%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F%E7%94%BB%E9%9D%A2%23" target="weibo">
+琼瑶生前最后影像画面（热度：13524）
 </a>
 </li>
 

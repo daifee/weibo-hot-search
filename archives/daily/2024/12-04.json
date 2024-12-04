@@ -1,18 +1,18 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733297133605,
+  "endTime": 1733297914469,
   "band_list": [
     {
-      "raw_hot": 24117702,
-      "num": 24117702,
+      "raw_hot": 28317407,
+      "num": 28317407,
       "word": "琼瑶去世",
       "onboard_time": 1733295800,
       "rank": 0,
       "category": "读书作家,艺人"
     },
     {
-      "raw_hot": 14041283,
-      "num": 14041283,
+      "raw_hot": 21290951,
+      "num": 21290951,
       "word": "琼瑶遗书",
       "onboard_time": 1733296410,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1733241146,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7680174,
+      "num": 7680174,
+      "word": "琼瑶在家自杀",
+      "onboard_time": 1733296346,
+      "rank": 4,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 7635305,
@@ -99,8 +107,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1921872,
+      "num": 1921872,
+      "word": "周密发的朋友圈",
+      "onboard_time": 1733295800,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1885054,
-      "num": 485078,
+      "num": 685990,
       "word": "你的屁股很可能已经死了",
       "onboard_time": 1733290938,
       "rank": 20,
@@ -139,28 +155,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1545493,
-      "num": 1545493,
-      "word": "琼瑶在家自杀",
-      "onboard_time": 1733296346,
-      "rank": 4,
-      "category": "读书作家,艺人"
-    },
-    {
-      "raw_hot": 1441679,
-      "num": 562774,
-      "word": "周密发的朋友圈",
-      "onboard_time": 1733295800,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1421812,
       "num": 1421812,
       "word": "李在明说尹锡悦不再是韩国总统了",
       "onboard_time": 1733239707,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1396141,
+      "num": 1396141,
+      "word": "如此低俗网红竟有4000万粉丝",
+      "onboard_time": 1733297736,
+      "rank": 5,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 1379367,
@@ -201,6 +209,14 @@
       "onboard_time": 1733238145,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1103474,
+      "num": 1103474,
+      "word": "琼瑶 当雪花飘落",
+      "onboard_time": 1733297014,
+      "rank": 42,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 1100609,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 909729,
-      "num": 909729,
+      "num": 1110361,
       "word": "霍思燕带女儿和朋友聚餐",
       "onboard_time": 1733289740,
       "rank": 31,
@@ -296,6 +312,14 @@
       "word": "周密向周芯竹道歉",
       "onboard_time": 1733223620,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 730375,
+      "num": 730375,
+      "word": "陈志朋女装合同续给向佐了",
+      "onboard_time": 1733295139,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -345,6 +369,22 @@
       "onboard_time": 1733289621,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 694770,
+      "num": 694770,
+      "word": "内娱古偶终于不是换乘恋爱了",
+      "onboard_time": 1733295440,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 684819,
+      "num": 684819,
+      "word": "男子因女友提分手飞身跳河",
+      "onboard_time": 1733295499,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 658257,
@@ -425,14 +465,6 @@
       "onboard_time": 1733233161,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 566595,
-      "num": 566595,
-      "word": "内娱古偶终于不是换乘恋爱了",
-      "onboard_time": 1733295440,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 565802,
@@ -529,14 +561,6 @@
       "onboard_time": 1733281458,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 484669,
-      "num": 484669,
-      "word": "陈志朋女装合同续给向佐了",
-      "onboard_time": 1733295139,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 483699,
@@ -667,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411060,
-      "num": 654010,
-      "word": "男子因女友提分手飞身跳河",
-      "onboard_time": 1733295499,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 403962,
       "num": 403962,
       "word": "员工周末不响应工作老板退群裁员",
@@ -715,6 +731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 381130,
+      "num": 381130,
+      "word": "大侦探10首发阵容",
+      "onboard_time": 1733295559,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379163,
       "num": 142769,
       "word": "韩国人晚上真不睡觉",
@@ -753,14 +777,6 @@
       "onboard_time": 1733286622,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345837,
-      "num": 345837,
-      "word": "大侦探10首发阵容",
-      "onboard_time": 1733295559,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 343534,
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 317361,
-      "num": 317361,
+      "num": 399279,
       "word": "员工承诺购车优惠离职后4S店不认",
       "onboard_time": 1733292079,
       "rank": 21,
@@ -947,6 +963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274962,
+      "num": 513104,
+      "word": "还珠格格",
+      "onboard_time": 1733296892,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274548,
       "num": 364383,
       "word": "樱桃琥珀发预告了",
@@ -1035,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 242308,
+      "num": 242308,
+      "word": "邢昭林回应玩麦琳的梗",
+      "onboard_time": 1733291359,
+      "rank": 44,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 238789,
       "num": 493928,
       "word": "丁禹兮曾说自己无胸肌无腹肌",
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 220428,
-      "num": 513187,
+      "num": 691675,
       "word": "十个勤天全员加盟2024尖叫之夜",
       "onboard_time": 1733289560,
       "rank": 38,
@@ -1163,12 +1195,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209774,
-      "num": 209774,
-      "word": "邢昭林回应玩麦琳的梗",
-      "onboard_time": 1733291359,
-      "rank": 44,
-      "category": "综艺,艺人"
+      "raw_hot": 205265,
+      "num": 1104599,
+      "word": "琼瑶轻生警方初步排除外力介入",
+      "onboard_time": 1733297195,
+      "rank": 9,
+      "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 204933,
+      "num": 204933,
+      "word": "加绒洞洞鞋",
+      "onboard_time": 1733297257,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 204036,
+      "num": 204036,
+      "word": "郭敬明 妆造",
+      "onboard_time": 1733297616,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 204007,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1733277080,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163651,
-      "num": 163651,
-      "word": "琼瑶 当雪花飘落",
-      "onboard_time": 1733297014,
-      "rank": 42,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 163644,
@@ -1492,7 +1532,7 @@
     },
     {
       "raw_hot": 130515,
-      "num": 284946,
+      "num": 535635,
       "word": "勇士五连败",
       "onboard_time": 1733293159,
       "rank": 24,
@@ -1516,7 +1556,7 @@
     },
     {
       "raw_hot": 126700,
-      "num": 2239376,
+      "num": 4266809,
       "word": "中国游让世界认识更加真实的中国",
       "onboard_time": 1733294360,
       "rank": 2,
@@ -1643,6 +1683,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 103263,
+      "num": 688066,
+      "word": "男子5万买车半年方向盘失灵",
+      "onboard_time": 1733297014,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102825,
       "num": 414915,
       "word": "久违的中式刑侦剧终于又出山了",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1733286202,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99488,
+      "num": 367050,
+      "word": "EDG冠军阵容全员离队",
+      "onboard_time": 1733290579,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 97536,
@@ -1707,14 +1763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90540,
-      "num": 367050,
-      "word": "EDG冠军阵容全员离队",
-      "onboard_time": 1733290579,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 89094,
       "num": 142411,
       "word": "19岁机车女网红因车祸去世",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1733227938,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85932,
+      "num": 690696,
+      "word": "关于宪法这些要知道",
+      "onboard_time": 1733297736,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85471,
@@ -1755,14 +1811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81492,
-      "num": 513104,
-      "word": "还珠格格",
-      "onboard_time": 1733296892,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80961,
       "num": 211749,
       "word": "于泽宇手写信道歉",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1733263872,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77732,
+      "num": 382772,
+      "word": "活得潇潇洒洒",
+      "onboard_time": 1733297195,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 75958,
@@ -1947,11 +2003,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52579,
+      "num": 688790,
+      "word": "退休后老人的生命被孤独吞没",
+      "onboard_time": 1733297195,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52235,
       "num": 337387,
       "word": "男子酒后启动辅助驾驶翻车了",
       "onboard_time": 1733287282,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49207,
+      "num": 693119,
+      "word": "餐厨垃圾运输车被注水竟为骗补贴",
+      "onboard_time": 1733297375,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2011,12 +2083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38808,
-      "num": 485097,
-      "word": "男子5万买车半年方向盘失灵",
-      "onboard_time": 1733297014,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 38568,
+      "num": 685202,
+      "word": "迪丽热巴不再选择蜷缩",
+      "onboard_time": 1733297257,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 37371,
@@ -2028,7 +2100,7 @@
     },
     {
       "raw_hot": 36831,
-      "num": 168992,
+      "num": 274434,
       "word": "郑钦文今年大赛积分第五",
       "onboard_time": 1733295921,
       "rank": 38,
@@ -2323,6 +2395,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 13524,
+      "num": 694270,
+      "word": "琼瑶生前最后影像画面",
+      "onboard_time": 1733297675,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13522,
       "num": 21618,
       "word": "我是刑警",
@@ -2340,7 +2420,7 @@
     },
     {
       "raw_hot": 11989,
-      "num": 253270,
+      "num": 406682,
       "word": "于泽宇暂停一切演艺活动",
       "onboard_time": 1733293938,
       "rank": 31,
