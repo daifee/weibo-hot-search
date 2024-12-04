@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733351003192,
+  "endTime": 1733352156439,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -49,6 +49,14 @@
       "onboard_time": 1733325263,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366704,
+      "num": 366704,
+      "word": "韩国的6小时40分钟",
+      "onboard_time": 1733335393,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 347972,
@@ -115,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241322,
-      "num": 241322,
-      "word": "韩国的6小时40分钟",
-      "onboard_time": 1733335393,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 250761,
+      "num": 250761,
+      "word": "百万网红咖啡放弃直肠癌化疗",
+      "onboard_time": 1733334673,
+      "rank": 25,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 229192,
@@ -161,14 +169,6 @@
       "onboard_time": 1733323044,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164298,
-      "num": 164298,
-      "word": "百万网红咖啡放弃直肠癌化疗",
-      "onboard_time": 1733334673,
-      "rank": 25,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 158855,
@@ -347,6 +347,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 76697,
+      "num": 76697,
+      "word": "韩国紧急戒严令导火索",
+      "onboard_time": 1733341152,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76633,
       "num": 76633,
       "word": "大爷瞒着孩子偷贷20万种虫草花",
@@ -419,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58519,
-      "num": 58519,
-      "word": "韩国紧急戒严令导火索",
-      "onboard_time": 1733341152,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 55641,
+      "num": 54781,
+      "word": "知情人谈低俗网红祁天道被封",
+      "onboard_time": 1733338333,
+      "rank": 41,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 55184,
@@ -435,19 +443,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 54781,
-      "num": 54781,
-      "word": "知情人谈低俗网红祁天道被封",
-      "onboard_time": 1733338333,
-      "rank": 41,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 47852,
-      "num": 47852,
+      "raw_hot": 48955,
+      "num": 48955,
       "word": "任达华回应女儿被评最美星二代",
       "onboard_time": 1733319565,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 47201,
+      "num": 47201,
+      "word": "还珠3演员发文悼念琼瑶",
+      "onboard_time": 1733346250,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -467,12 +475,36 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 43405,
+      "num": 43405,
+      "word": "福宝干饭不忘对着ee吃",
+      "onboard_time": 1733345170,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42575,
+      "num": 96802,
+      "word": "低俗网红祁天道总销售额或达上亿",
+      "onboard_time": 1733350153,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41341,
       "num": 133822,
       "word": "迪丽热巴ELLE2025开年刊封面预告",
       "onboard_time": 1733326162,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40841,
+      "num": 34596,
+      "word": "林青霞后悔上个月没去看看琼瑶",
+      "onboard_time": 1733347511,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 39088,
@@ -483,20 +515,12 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 36750,
-      "num": 26560,
-      "word": "林青霞后悔上个月没去看看琼瑶",
-      "onboard_time": 1733347511,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 33947,
-      "num": 33947,
-      "word": "还珠3演员发文悼念琼瑶",
-      "onboard_time": 1733346250,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 38299,
+      "num": 38299,
+      "word": "琼瑶林心如苏有朋周杰早期合照",
+      "onboard_time": 1733324724,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 32283,
@@ -515,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27090,
-      "num": 27090,
-      "word": "琼瑶林心如苏有朋周杰早期合照",
-      "onboard_time": 1733324724,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 27910,
+      "num": 27910,
+      "word": "曼城vs诺丁汉森林",
+      "onboard_time": 1733351593,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 27009,
@@ -539,36 +563,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18781,
-      "num": 41375,
-      "word": "韩国防长致歉并递交辞呈",
-      "onboard_time": 1733339771,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 19875,
+      "num": 27834,
+      "word": "到底谁发明的金晨",
+      "onboard_time": 1733351714,
+      "rank": 47,
+      "category": "综艺"
     },
     {
-      "raw_hot": 18278,
-      "num": 35437,
-      "word": "福宝干饭不忘对着ee吃",
-      "onboard_time": 1733345170,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18244,
-      "num": 22483,
+      "raw_hot": 19297,
+      "num": 27817,
       "word": "紧急戒严令适用于哪些情况",
       "onboard_time": 1733343132,
       "rank": 47,
       "category": "国际时政"
     },
     {
-      "raw_hot": 18046,
-      "num": 32084,
-      "word": "低俗网红祁天道总销售额或达上亿",
-      "onboard_time": 1733350153,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 18781,
+      "num": 41375,
+      "word": "韩国防长致歉并递交辞呈",
+      "onboard_time": 1733339771,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16988,

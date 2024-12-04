@@ -1,0 +1,410 @@
+{
+  "runTime": 1733352156439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 467614,
+        "num": 530443,
+        "word": "两度发现遗体博主将面临处罚",
+        "onboard_time": 1733314701,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366704,
+        "num": 366704,
+        "word": "韩国的6小时40分钟",
+        "onboard_time": 1733335393,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6811,
+        "num": 300886,
+        "word": "京西有条文化带",
+        "onboard_time": 1733301088,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290967,
+        "num": 290967,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250761,
+        "num": 250761,
+        "word": "百万网红咖啡放弃直肠癌化疗",
+        "onboard_time": 1733334673,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 179178,
+        "num": 179178,
+        "word": "琼瑶遗体初步检验结果公布",
+        "onboard_time": 1733317822,
+        "rank": 5,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 135176,
+        "num": 135176,
+        "word": "春节申遗成功各地文物组团祝贺",
+        "onboard_time": 1733327180,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 123370,
+        "num": 123370,
+        "word": "虞书欣爷爷去了永夜星河庆功宴",
+        "onboard_time": 1733321663,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107484,
+        "num": 107484,
+        "word": "琼瑶去世",
+        "onboard_time": 1733295800,
+        "rank": 8,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 42575,
+        "num": 96802,
+        "word": "低俗网红祁天道总销售额或达上亿",
+        "onboard_time": 1733350153,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239749,
+        "num": 95202,
+        "word": "琼瑶经济共赚取约上亿美元",
+        "onboard_time": 1733321483,
+        "rank": 10,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 92970,
+        "num": 92970,
+        "word": "琼瑶成都故居依旧保存完好",
+        "onboard_time": 1733327539,
+        "rank": 11,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 86907,
+        "num": 86907,
+        "word": "如果手机被偷听耗电速度会快27%",
+        "onboard_time": 1733327840,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76697,
+        "num": 76697,
+        "word": "韩国紧急戒严令导火索",
+        "onboard_time": 1733341152,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71923,
+        "num": 71923,
+        "word": "检查结果互认致HIV感染者被拒诊",
+        "onboard_time": 1733327000,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70217,
+        "num": 70217,
+        "word": "赵雅芝 重要的事情说三遍",
+        "onboard_time": 1733327660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65070,
+        "num": 65070,
+        "word": "微信群对骂十几分钟双双被罚200元",
+        "onboard_time": 1733325263,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55793,
+        "num": 55793,
+        "word": "大爷瞒着孩子偷贷20万种虫草花",
+        "onboard_time": 1733314162,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52013,
+        "num": 52013,
+        "word": "苏有朋直播",
+        "onboard_time": 1733327000,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48955,
+        "num": 48955,
+        "word": "任达华回应女儿被评最美星二代",
+        "onboard_time": 1733319565,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47619,
+        "num": 47619,
+        "word": "中国已有44项世界非遗",
+        "onboard_time": 1733322744,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 47201,
+        "num": 47201,
+        "word": "还珠3演员发文悼念琼瑶",
+        "onboard_time": 1733346250,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43972,
+        "num": 43972,
+        "word": "欧阳妮妮挺9月孕肚出门",
+        "onboard_time": 1733316923,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43405,
+        "num": 43405,
+        "word": "福宝干饭不忘对着ee吃",
+        "onboard_time": 1733345170,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41969,
+        "num": 41969,
+        "word": "李冰冰51岁状态",
+        "onboard_time": 1733318664,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38299,
+        "num": 38299,
+        "word": "琼瑶林心如苏有朋周杰早期合照",
+        "onboard_time": 1733324724,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37189,
+        "num": 37189,
+        "word": "春节申遗成功大会现场",
+        "onboard_time": 1733325142,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 55641,
+        "num": 37098,
+        "word": "知情人谈低俗网红祁天道被封",
+        "onboard_time": 1733338333,
+        "rank": 27,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 36991,
+        "num": 36991,
+        "word": "何炅好像从不会错过谢娜的电话",
+        "onboard_time": 1733325263,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34886,
+        "num": 34886,
+        "word": "韩国防部长致歉",
+        "onboard_time": 1733333355,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40841,
+        "num": 34596,
+        "word": "林青霞后悔上个月没去看看琼瑶",
+        "onboard_time": 1733347511,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33680,
+        "num": 33680,
+        "word": "杨仕泽 叫我拂衣公子",
+        "onboard_time": 1733326521,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32989,
+        "num": 32989,
+        "word": "你的屁股很可能已经死了",
+        "onboard_time": 1733290938,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32113,
+        "num": 32113,
+        "word": "爱宝乐园正与中方专家沟通福宝状况",
+        "onboard_time": 1733317644,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30078,
+        "num": 30078,
+        "word": "你以为很懒其实很健康的行为",
+        "onboard_time": 1733313022,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29142,
+        "num": 29142,
+        "word": "韩国万人集会要求尹锡悦下台",
+        "onboard_time": 1733318183,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28568,
+        "num": 28568,
+        "word": "谷爱凌2024收入女运动员第二",
+        "onboard_time": 1733320764,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28106,
+        "num": 28106,
+        "word": "日本或放宽中国公民签证要求",
+        "onboard_time": 1733321423,
+        "rank": 37,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 27910,
+        "num": 27910,
+        "word": "曼城vs诺丁汉森林",
+        "onboard_time": 1733351593,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27886,
+        "num": 27886,
+        "word": "非遗版春节壁纸",
+        "onboard_time": 1733332216,
+        "rank": 39,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 24585,
+        "num": 27884,
+        "word": "2025能过第一个非遗版春节",
+        "onboard_time": 1733324724,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 24079,
+        "num": 27878,
+        "word": "一帘幽梦",
+        "onboard_time": 1733328740,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23635,
+        "num": 27870,
+        "word": "春节是刻在中国人DNA里的仪式感",
+        "onboard_time": 1733324064,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 23444,
+        "num": 27865,
+        "word": "4个动作改善驼背",
+        "onboard_time": 1733331675,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22099,
+        "num": 27852,
+        "word": "春节列入世界非遗",
+        "onboard_time": 1733331616,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20862,
+        "num": 27843,
+        "word": "琼瑶在家自杀",
+        "onboard_time": 1733296346,
+        "rank": 45,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 19972,
+        "num": 27841,
+        "word": "禹宙中欣",
+        "onboard_time": 1733320465,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19875,
+        "num": 27834,
+        "word": "到底谁发明的金晨",
+        "onboard_time": 1733351714,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19397,
+        "num": 27824,
+        "word": "我们的春节成为世界非遗了",
+        "onboard_time": 1733322984,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19297,
+        "num": 27817,
+        "word": "紧急戒严令适用于哪些情况",
+        "onboard_time": 1733343132,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
