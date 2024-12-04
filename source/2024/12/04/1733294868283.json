@@ -1,0 +1,410 @@
+{
+  "runTime": 1733294868283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334593,
+        "num": 1334593,
+        "word": "马斯克说被韩国戒严令惊到了",
+        "onboard_time": 1733285541,
+        "rank": 0,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 868100,
+        "num": 868100,
+        "word": "彩票中2.25亿需缴税超4500万",
+        "onboard_time": 1733286861,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 31820,
+        "num": 844215,
+        "word": "中国游让世界认识更加真实的中国",
+        "onboard_time": 1733294360,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 825563,
+        "num": 825563,
+        "word": "霍思燕带女儿和朋友聚餐",
+        "onboard_time": 1733289740,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645471,
+        "num": 645471,
+        "word": "韩国总统戒严闹剧直接起因",
+        "onboard_time": 1733289621,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 634798,
+        "num": 634798,
+        "word": "刘宇宁 别太拿自己当回事儿",
+        "onboard_time": 1733288121,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586838,
+        "num": 586838,
+        "word": "王楚钦 不要让我坐第一排啊",
+        "onboard_time": 1733293159,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552794,
+        "num": 552794,
+        "word": "父亲死亡3子女获赔72万被亲戚花光",
+        "onboard_time": 1733286742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461775,
+        "num": 461775,
+        "word": "恋与王安宇",
+        "onboard_time": 1733286202,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404435,
+        "num": 404435,
+        "word": "韩国在野党提交总统弹劾案",
+        "onboard_time": 1733291179,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 710625,
+        "num": 383664,
+        "word": "网红祁天道擦边调戏女生被网友谴责",
+        "onboard_time": 1733291960,
+        "rank": 10,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 609066,
+        "num": 367621,
+        "word": "韩国总统发布紧急戒严令",
+        "onboard_time": 1733234242,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 442882,
+        "num": 337842,
+        "word": "周密",
+        "onboard_time": 1733288002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591788,
+        "num": 302350,
+        "word": "韩国会会议通过解除戒严决议",
+        "onboard_time": 1733242046,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275807,
+        "num": 275807,
+        "word": "迪丽热巴五年前经历自我和解",
+        "onboard_time": 1733289201,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 508411,
+        "num": 274433,
+        "word": "太阳的后裔原型部队参与韩国戒严",
+        "onboard_time": 1733283138,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272098,
+        "num": 272098,
+        "word": "沈腾王安宇情头",
+        "onboard_time": 1733290520,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222508,
+        "num": 271749,
+        "word": "黑白森林",
+        "onboard_time": 1733291242,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343105,
+        "num": 269046,
+        "word": "韩国1980年以来首次戒严",
+        "onboard_time": 1733271983,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14065,
+        "num": 267248,
+        "word": "金花股份挪用募资炒股被监管",
+        "onboard_time": 1733293699,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1760214,
+        "num": 266245,
+        "word": "你的屁股很可能已经死了",
+        "onboard_time": 1733290938,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 377107,
+        "num": 262411,
+        "word": "二手房主多次遭女子凌晨提斧砸门",
+        "onboard_time": 1733290759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262384,
+        "num": 262384,
+        "word": "突然理解了在网上买银杏叶的人",
+        "onboard_time": 1733289560,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59493,
+        "num": 247174,
+        "word": "迪丽热巴的改变发生在最细微的地方",
+        "onboard_time": 1733293580,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122093,
+        "num": 240150,
+        "word": "马龙回应是否参加全运会",
+        "onboard_time": 1733294360,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234173,
+        "num": 234173,
+        "word": "员工承诺购车优惠离职后4S店不认",
+        "onboard_time": 1733292079,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11410,
+        "num": 234017,
+        "word": "于泽宇暂停一切演艺活动",
+        "onboard_time": 1733293938,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75958,
+        "num": 229206,
+        "word": "声生不息请陈小春请对了",
+        "onboard_time": 1733294239,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4613,
+        "num": 227297,
+        "word": "心理专家分析麦琳鬼打墙式沟通方式",
+        "onboard_time": 1733294839,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18668,
+        "num": 223244,
+        "word": "前9月韩国游客大增146%",
+        "onboard_time": 1733293760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102825,
+        "num": 217619,
+        "word": "久违的中式刑侦剧终于又出山了",
+        "onboard_time": 1733292979,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91909,
+        "num": 215684,
+        "word": "十个勤天全员加盟2024尖叫之夜",
+        "onboard_time": 1733289560,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214138,
+        "num": 214138,
+        "word": "李宏毅健身房抽烟",
+        "onboard_time": 1733288782,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204295,
+        "num": 204295,
+        "word": "韩国总统宣布解除紧急戒严令",
+        "onboard_time": 1733268979,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65232,
+        "num": 190957,
+        "word": "再见爱人",
+        "onboard_time": 1733292320,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190882,
+        "num": 190882,
+        "word": "WBG官宣Tian加入",
+        "onboard_time": 1733291600,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190043,
+        "num": 190043,
+        "word": "权志龙新歌被KBS判为不合格",
+        "onboard_time": 1733286202,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188831,
+        "num": 188831,
+        "word": "员工周末不响应工作老板退群裁员",
+        "onboard_time": 1733284941,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15502,
+        "num": 183569,
+        "word": "香奈儿手工艺有多惊艳",
+        "onboard_time": 1733292979,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 180603,
+        "num": 180603,
+        "word": "丁禹兮巧克力代言",
+        "onboard_time": 1733286622,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179332,
+        "num": 179332,
+        "word": "邢昭林回应玩麦琳的梗",
+        "onboard_time": 1733291359,
+        "rank": 40,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 178115,
+        "num": 178115,
+        "word": "斗罗2听劝重剪第一集",
+        "onboard_time": 1733291900,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169443,
+        "num": 169443,
+        "word": "APPLE MUSIC年度最热歌曲",
+        "onboard_time": 1733294299,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151126,
+        "num": 151126,
+        "word": "韩国国防部",
+        "onboard_time": 1733293699,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149857,
+        "num": 149857,
+        "word": "江苏一公园将长条椅焊上钢管",
+        "onboard_time": 1733284819,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148748,
+        "num": 148748,
+        "word": "海参厂老板沉迷赌博输了2000多万",
+        "onboard_time": 1733290820,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146055,
+        "num": 146055,
+        "word": "王一博说杭州是一座自然之城",
+        "onboard_time": 1733290222,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139069,
+        "num": 139069,
+        "word": "章子怡周冬雨聚餐",
+        "onboard_time": 1733285901,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130692,
+        "num": 130692,
+        "word": "A股再现无厘头炒作逻辑",
+        "onboard_time": 1733291779,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121304,
+        "num": 121304,
+        "word": "丁程鑫宋亚轩参加太阳市集直播",
+        "onboard_time": 1733292140,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}

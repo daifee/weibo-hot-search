@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733294044635,
+  "endTime": 1733294868283,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1760214,
+      "num": 318492,
+      "word": "你的屁股很可能已经死了",
+      "onboard_time": 1733290938,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1669590,
       "num": 1655602,
       "word": "花四万二在鹤岗买房后的生活",
@@ -105,14 +113,6 @@
       "onboard_time": 1733286861,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1578380,
-      "num": 318492,
-      "word": "你的屁股很可能已经死了",
-      "onboard_time": 1733290938,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1556841,
@@ -275,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 710625,
+      "num": 413354,
+      "word": "网红祁天道擦边调戏女生被网友谴责",
+      "onboard_time": 1733291960,
+      "rank": 11,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 710541,
       "num": 5381843,
       "word": "直击韩国街头现场状况",
@@ -353,6 +361,14 @@
       "onboard_time": 1733236104,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 586838,
+      "num": 586838,
+      "word": "王楚钦 不要让我坐第一排啊",
+      "onboard_time": 1733293159,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 575191,
@@ -457,14 +473,6 @@
       "onboard_time": 1733243422,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 490680,
-      "num": 413354,
-      "word": "网红祁天道擦边调戏女生被网友谴责",
-      "onboard_time": 1733291960,
-      "rank": 11,
-      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 490304,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 422411,
-      "num": 337134,
+      "num": 404435,
       "word": "韩国在野党提交总统弹劾案",
       "onboard_time": 1733291179,
       "rank": 15,
@@ -651,7 +659,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 376241,
+      "raw_hot": 377107,
       "num": 287023,
       "word": "二手房主多次遭女子凌晨提斧砸门",
       "onboard_time": 1733290759,
@@ -713,14 +721,6 @@
       "onboard_time": 1733284819,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337474,
-      "num": 337474,
-      "word": "王楚钦 不要让我坐第一排啊",
-      "onboard_time": 1733293159,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 331906,
@@ -1019,6 +1019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 222508,
+      "num": 329285,
+      "word": "黑白森林",
+      "onboard_time": 1733291242,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222439,
       "num": 222439,
       "word": "11岁男孩打乒乓评上国家一级运动员",
@@ -1123,14 +1131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196919,
-      "num": 329285,
-      "word": "黑白森林",
-      "onboard_time": 1733291242,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186215,
       "num": 401604,
       "word": "刘宇宁说后面三部戏都不会死",
@@ -1155,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179332,
+      "num": 179332,
+      "word": "邢昭林回应玩麦琳的梗",
+      "onboard_time": 1733291359,
+      "rank": 44,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 177769,
       "num": 297196,
       "word": "王一博说杭州是一座自然之城",
@@ -1176,6 +1184,14 @@
       "word": "严浩翔新歌发布预告",
       "onboard_time": 1733287401,
       "rank": 49,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 169443,
+      "num": 169443,
+      "word": "APPLE MUSIC年度最热歌曲",
+      "onboard_time": 1733294299,
+      "rank": 42,
       "category": "音乐"
     },
     {
@@ -1283,20 +1299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151126,
+      "num": 151126,
+      "word": "韩国国防部",
+      "onboard_time": 1733293699,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148700,
       "num": 148700,
       "word": "赵今麦张凌赫原声",
       "onboard_time": 1733284038,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148115,
-      "num": 148115,
-      "word": "邢昭林回应玩麦琳的梗",
-      "onboard_time": 1733291359,
-      "rank": 44,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 147732,
@@ -1371,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130692,
+      "num": 130692,
+      "word": "A股再现无厘头炒作逻辑",
+      "onboard_time": 1733291779,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130515,
       "num": 284946,
       "word": "勇士五连败",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1733269219,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127920,
-      "num": 127920,
-      "word": "A股再现无厘头炒作逻辑",
-      "onboard_time": 1733291779,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 126732,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1733285901,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122093,
+      "num": 240150,
+      "word": "马龙回应是否参加全运会",
+      "onboard_time": 1733294360,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 122062,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1733279418,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 102825,
+      "num": 414915,
+      "word": "久违的中式刑侦剧终于又出山了",
+      "onboard_time": 1733292979,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 101181,
@@ -1603,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83845,
-      "num": 414915,
-      "word": "久违的中式刑侦剧终于又出山了",
-      "onboard_time": 1733292979,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83326,
       "num": 120972,
       "word": "女生退伍后第一件事是看望张桂梅",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1733263872,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75958,
+      "num": 229206,
+      "word": "声生不息请陈小春请对了",
+      "onboard_time": 1733294239,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 74158,
@@ -1731,6 +1763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 59493,
+      "num": 325245,
+      "word": "迪丽热巴的改变发生在最细微的地方",
+      "onboard_time": 1733293580,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58778,
       "num": 201207,
       "word": "花栗鼠用腮帮子偷走人参红果",
@@ -1793,14 +1833,6 @@
       "onboard_time": 1733287282,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50013,
-      "num": 325245,
-      "word": "迪丽热巴的改变发生在最细微的地方",
-      "onboard_time": 1733293580,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 47840,
@@ -1905,6 +1937,14 @@
       "onboard_time": 1733282959,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31820,
+      "num": 844215,
+      "word": "中国游让世界认识更加真实的中国",
+      "onboard_time": 1733294360,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 30460,
@@ -2051,6 +2091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18668,
+      "num": 253817,
+      "word": "前9月韩国游客大增146%",
+      "onboard_time": 1733293760,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18070,
       "num": 942003,
       "word": "文化中国行走进国家博物馆",
@@ -2115,20 +2163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15502,
+      "num": 183569,
+      "word": "香奈儿手工艺有多惊艳",
+      "onboard_time": 1733292979,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 15128,
       "num": 501179,
       "word": "孙颖莎称混团世界杯会全力以赴",
       "onboard_time": 1733244080,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15115,
-      "num": 253817,
-      "word": "前9月韩国游客大增146%",
-      "onboard_time": 1733293760,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14436,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1733255771,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12689,
-      "num": 183149,
-      "word": "香奈儿手工艺有多惊艳",
-      "onboard_time": 1733292979,
-      "rank": 38,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 11989,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1733260931,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4613,
+      "num": 227297,
+      "word": "心理专家分析麦琳鬼打墙式沟通方式",
+      "onboard_time": 1733294839,
+      "rank": 28,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
