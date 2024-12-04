@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733297914469,
+  "endTime": 1733301127510,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -27,20 +27,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13106257,
+      "num": 13106257,
+      "word": "琼瑶告别视频",
+      "onboard_time": 1733298276,
+      "rank": 1,
+      "category": "读书作家,剧集"
+    },
+    {
+      "raw_hot": 8620256,
+      "num": 7680174,
+      "word": "琼瑶在家自杀",
+      "onboard_time": 1733296346,
+      "rank": 4,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 7935645,
       "num": 7935645,
       "word": "李在明翻墙进入国会",
       "onboard_time": 1733241146,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 7680174,
-      "num": 7680174,
-      "word": "琼瑶在家自杀",
-      "onboard_time": 1733296346,
-      "rank": 4,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 7635305,
@@ -67,12 +75,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 3461652,
+      "num": 3461652,
+      "word": "如此低俗网红竟有4000万粉丝",
+      "onboard_time": 1733297736,
+      "rank": 5,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 2985111,
       "num": 2712830,
       "word": "彩票中2.25亿男子已兑奖",
       "onboard_time": 1733286322,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2590747,
+      "num": 2590747,
+      "word": "琼瑶去世前悼念亡夫",
+      "onboard_time": 1733299532,
+      "rank": 5,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 2516423,
@@ -155,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1427084,
+      "num": 1427084,
+      "word": "洪小铃结婚怀孕",
+      "onboard_time": 1733297973,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1421812,
       "num": 1421812,
       "word": "李在明说尹锡悦不再是韩国总统了",
@@ -163,20 +195,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1396141,
-      "num": 1396141,
-      "word": "如此低俗网红竟有4000万粉丝",
-      "onboard_time": 1733297736,
-      "rank": 5,
-      "category": "舆论监督,网红"
-    },
-    {
       "raw_hot": 1379367,
       "num": 1035822,
       "word": "韩前总统文在寅发声",
       "onboard_time": 1733244319,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1342356,
+      "num": 1342356,
+      "word": "林心如",
+      "onboard_time": 1733300011,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1291932,
@@ -275,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 944466,
+      "num": 944466,
+      "word": "琼瑶最后一部作品",
+      "onboard_time": 1733298635,
+      "rank": 13,
+      "category": "读书作家,剧集"
+    },
+    {
       "raw_hot": 909729,
       "num": 1110361,
       "word": "霍思燕带女儿和朋友聚餐",
       "onboard_time": 1733289740,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 908803,
+      "num": 908803,
+      "word": "琼瑶家属不愿对外说明情况",
+      "onboard_time": 1733298336,
+      "rank": 15,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 833047,
@@ -339,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 712656,
+      "num": 1415455,
+      "word": "琼瑶轻生警方初步排除外力介入",
+      "onboard_time": 1733297195,
+      "rank": 9,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 710625,
       "num": 622867,
       "word": "网红祁天道擦边调戏女生被网友谴责",
@@ -392,6 +448,14 @@
       "word": "白敬亭 脱了号就封了",
       "onboard_time": 1733269279,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 631708,
+      "num": 631708,
+      "word": "还珠格格",
+      "onboard_time": 1733296892,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -547,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 492286,
+      "num": 1389047,
+      "word": "小学老师控诉涉黄卡片入侵校园",
+      "onboard_time": 1733298394,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 490304,
       "num": 311621,
       "word": "自己吓自己",
@@ -617,6 +689,14 @@
       "onboard_time": 1733271682,
       "rank": 6,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 458800,
+      "num": 458800,
+      "word": "琼瑶遗书都这么浪漫",
+      "onboard_time": 1733298097,
+      "rank": 22,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 457680,
@@ -691,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406225,
+      "num": 406225,
+      "word": "郭敬明 妆造",
+      "onboard_time": 1733297616,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403962,
       "num": 403962,
       "word": "员工周末不响应工作老板退群裁员",
@@ -755,12 +843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366877,
+      "num": 366877,
+      "word": "年轻的你们 千万不要轻易放弃生命",
+      "onboard_time": 1733300549,
+      "rank": 26,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 364314,
       "num": 364314,
       "word": "结婚后才明白什么叫隐形家务",
       "onboard_time": 1733274562,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364117,
+      "num": 364117,
+      "word": "加绒洞洞鞋",
+      "onboard_time": 1733297257,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 359076,
@@ -963,12 +1067,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 274962,
-      "num": 513104,
-      "word": "还珠格格",
-      "onboard_time": 1733296892,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 274930,
+      "num": 364456,
+      "word": "因父亲车祸去世王鸡肉暂停出摊",
+      "onboard_time": 1733300069,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274548,
@@ -1035,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260404,
+      "num": 364974,
+      "word": "于正",
+      "onboard_time": 1733300132,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259235,
       "num": 259235,
       "word": "菲律宾",
@@ -1049,6 +1161,14 @@
       "onboard_time": 1733290820,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253338,
+      "num": 253338,
+      "word": "长白山偶遇关晓彤林一录制综艺",
+      "onboard_time": 1733300132,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 251915,
@@ -1195,28 +1315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205265,
-      "num": 1104599,
-      "word": "琼瑶轻生警方初步排除外力介入",
-      "onboard_time": 1733297195,
-      "rank": 9,
-      "category": "读书作家,艺人"
-    },
-    {
-      "raw_hot": 204933,
-      "num": 204933,
-      "word": "加绒洞洞鞋",
-      "onboard_time": 1733297257,
-      "rank": 48,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 204036,
-      "num": 204036,
-      "word": "郭敬明 妆造",
-      "onboard_time": 1733297616,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 209175,
+      "num": 209175,
+      "word": "周杰伦霸榜2024年中国大陆最热歌曲",
+      "onboard_time": 1733300069,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 204007,
@@ -1337,6 +1441,22 @@
       "onboard_time": 1733287401,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167337,
+      "num": 167337,
+      "word": "鞠婧祎露芜衣原始帧",
+      "onboard_time": 1733300311,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166823,
+      "num": 166823,
+      "word": "丁禹兮早期商务水平",
+      "onboard_time": 1733298216,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 164856,
@@ -1481,6 +1601,14 @@
       "onboard_time": 1733292140,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142689,
+      "num": 410017,
+      "word": "乙游 调节内分泌",
+      "onboard_time": 1733300549,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 142570,
@@ -2011,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52239,
+      "num": 355296,
+      "word": "黄子弘凡OneRepublic同台合作",
+      "onboard_time": 1733299771,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52235,
       "num": 337387,
       "word": "男子酒后启动辅助驾驶翻车了",
@@ -2049,6 +2185,14 @@
       "onboard_time": 1733281519,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 41062,
+      "num": 422733,
+      "word": "我是刑警案件又上强度了",
+      "onboard_time": 1733300969,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 40397,
@@ -2123,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34708,
+      "num": 187541,
+      "word": "每年超3000名运动员退役",
+      "onboard_time": 1733299832,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34586,
       "num": 616689,
       "word": "PS合作伙伴奖",
@@ -2161,6 +2313,14 @@
       "onboard_time": 1733245637,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 30026,
+      "num": 488154,
+      "word": "马龙走到哪尖叫声就到哪",
+      "onboard_time": 1733300729,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 29746,
@@ -2217,6 +2377,14 @@
       "onboard_time": 1733280498,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 24709,
+      "num": 909474,
+      "word": "焦虑的白领涌去洗头店午睡",
+      "onboard_time": 1733300910,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24173,
@@ -2497,6 +2665,14 @@
       "onboard_time": 1733260931,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5785,
+      "num": 4389102,
+      "word": "京西有条文化带",
+      "onboard_time": 1733301088,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4613,

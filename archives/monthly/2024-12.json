@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733297914469,
+  "endTime": 1733301127510,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13106257,
+      "num": 13106257,
+      "word": "琼瑶告别视频",
+      "onboard_time": 1733298276,
+      "rank": 1,
+      "category": "读书作家,剧集"
+    },
+    {
       "raw_hot": 13022974,
       "num": 13022974,
       "word": "黄子韬徐艺洋结婚",
@@ -35,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8620256,
+      "num": 7680174,
+      "word": "琼瑶在家自杀",
+      "onboard_time": 1733296346,
+      "rank": 4,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 7935645,
       "num": 7935645,
       "word": "李在明翻墙进入国会",
       "onboard_time": 1733241146,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 7680174,
-      "num": 7680174,
-      "word": "琼瑶在家自杀",
-      "onboard_time": 1733296346,
-      "rank": 4,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 7635305,
@@ -107,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 3461652,
+      "num": 3461652,
+      "word": "如此低俗网红竟有4000万粉丝",
+      "onboard_time": 1733297736,
+      "rank": 5,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 3251986,
       "num": 3251986,
       "word": "杨子大哥承认杨子黄圣依在演",
@@ -137,6 +153,14 @@
       "onboard_time": 1733198060,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2590747,
+      "num": 2590747,
+      "word": "琼瑶去世前悼念亡夫",
+      "onboard_time": 1733299532,
+      "rank": 5,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 2522705,
@@ -427,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1427084,
+      "num": 1427084,
+      "word": "洪小铃结婚怀孕",
+      "onboard_time": 1733297973,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1421812,
       "num": 1421812,
       "word": "李在明说尹锡悦不再是韩国总统了",
       "onboard_time": 1733239707,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1396141,
-      "num": 1396141,
-      "word": "如此低俗网红竟有4000万粉丝",
-      "onboard_time": 1733297736,
-      "rank": 5,
-      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 1390934,
@@ -497,6 +521,14 @@
       "onboard_time": 1733129239,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1342356,
+      "num": 1342356,
+      "word": "林心如",
+      "onboard_time": 1733300011,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1332323,
@@ -859,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944466,
+      "num": 944466,
+      "word": "琼瑶最后一部作品",
+      "onboard_time": 1733298635,
+      "rank": 13,
+      "category": "读书作家,剧集"
+    },
+    {
       "raw_hot": 944159,
       "num": 944159,
       "word": "鹿晗关晓彤被催婚第15次上热搜",
@@ -929,6 +969,14 @@
       "onboard_time": 1733289740,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 908803,
+      "num": 908803,
+      "word": "琼瑶家属不愿对外说明情况",
+      "onboard_time": 1733298336,
+      "rank": 15,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 905274,
@@ -1267,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 712656,
+      "num": 1415455,
+      "word": "琼瑶轻生警方初步排除外力介入",
+      "onboard_time": 1733297195,
+      "rank": 9,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 711990,
       "num": 711990,
       "word": "姜云升谈陈近南diss周密",
@@ -1520,6 +1576,14 @@
       "word": "高瀚宇为鹿晗发声",
       "onboard_time": 1733021059,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 631708,
+      "num": 631708,
+      "word": "还珠格格",
+      "onboard_time": 1733296892,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2075,6 +2139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 492286,
+      "num": 1389047,
+      "word": "小学老师控诉涉黄卡片入侵校园",
+      "onboard_time": 1733298394,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 490379,
       "num": 490379,
       "word": "看似正常实则伤牙的行为",
@@ -2305,6 +2377,14 @@
       "onboard_time": 1733022979,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458800,
+      "num": 458800,
+      "word": "琼瑶遗书都这么浪漫",
+      "onboard_time": 1733298097,
+      "rank": 22,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 458060,
@@ -2707,6 +2787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 406225,
+      "num": 406225,
+      "word": "郭敬明 妆造",
+      "onboard_time": 1733297616,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405502,
       "num": 405502,
       "word": "迪丽热巴陈飞宇公主抱路透",
@@ -2955,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366877,
+      "num": 366877,
+      "word": "年轻的你们 千万不要轻易放弃生命",
+      "onboard_time": 1733300549,
+      "rank": 26,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 365840,
       "num": 365840,
       "word": "孙颖莎签名只有莎",
@@ -2993,6 +3089,14 @@
       "onboard_time": 1733274562,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 364117,
+      "num": 364117,
+      "word": "加绒洞洞鞋",
+      "onboard_time": 1733297257,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 359076,
@@ -3755,12 +3859,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 274962,
-      "num": 513104,
-      "word": "还珠格格",
-      "onboard_time": 1733296892,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 274930,
+      "num": 364456,
+      "word": "因父亲车祸去世王鸡肉暂停出摊",
+      "onboard_time": 1733300069,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274823,
@@ -3963,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260404,
+      "num": 364974,
+      "word": "于正",
+      "onboard_time": 1733300132,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259690,
       "num": 365624,
       "word": "女推 偷拍",
@@ -4057,6 +4169,14 @@
       "onboard_time": 1733124258,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253338,
+      "num": 253338,
+      "word": "长白山偶遇关晓彤林一录制综艺",
+      "onboard_time": 1733300132,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 252936,
@@ -4971,6 +5091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209175,
+      "num": 209175,
+      "word": "周杰伦霸榜2024年中国大陆最热歌曲",
+      "onboard_time": 1733300069,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209107,
       "num": 209107,
       "word": "家业",
@@ -5099,22 +5227,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 205265,
-      "num": 1104599,
-      "word": "琼瑶轻生警方初步排除外力介入",
-      "onboard_time": 1733297195,
-      "rank": 9,
-      "category": "读书作家,艺人"
-    },
-    {
-      "raw_hot": 204933,
-      "num": 204933,
-      "word": "加绒洞洞鞋",
-      "onboard_time": 1733297257,
-      "rank": 48,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 204620,
       "num": 252108,
       "word": "火朗入伍",
@@ -5145,14 +5257,6 @@
       "onboard_time": 1733044039,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 204036,
-      "num": 204036,
-      "word": "郭敬明 妆造",
-      "onboard_time": 1733297616,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 204007,
@@ -6587,6 +6691,14 @@
       "category": "剧集,时尚"
     },
     {
+      "raw_hot": 167337,
+      "num": 167337,
+      "word": "鞠婧祎露芜衣原始帧",
+      "onboard_time": 1733300311,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167212,
       "num": 167212,
       "word": "国考行测",
@@ -6601,6 +6713,14 @@
       "onboard_time": 1733231360,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166823,
+      "num": 166823,
+      "word": "丁禹兮早期商务水平",
+      "onboard_time": 1733298216,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 166460,
@@ -7609,6 +7729,14 @@
       "onboard_time": 1733204420,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142689,
+      "num": 410017,
+      "word": "乙游 调节内分泌",
+      "onboard_time": 1733300549,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 142490,
@@ -11283,6 +11411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52239,
+      "num": 355296,
+      "word": "黄子弘凡OneRepublic同台合作",
+      "onboard_time": 1733299771,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 52235,
       "num": 337387,
       "word": "男子酒后启动辅助驾驶翻车了",
@@ -11723,6 +11859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 41062,
+      "num": 422733,
+      "word": "我是刑警案件又上强度了",
+      "onboard_time": 1733300969,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40732,
       "num": 293737,
       "word": "林诗栋vs希德",
@@ -12107,6 +12251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34708,
+      "num": 187541,
+      "word": "每年超3000名运动员退役",
+      "onboard_time": 1733299832,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34586,
       "num": 616689,
       "word": "PS合作伙伴奖",
@@ -12435,6 +12587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 30026,
+      "num": 488154,
+      "word": "马龙走到哪尖叫声就到哪",
+      "onboard_time": 1733300729,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29746,
       "num": 510845,
       "word": "韩国概念股韩建河山一字涨停",
@@ -12761,6 +12921,14 @@
       "onboard_time": 1732993331,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24709,
+      "num": 909474,
+      "word": "焦虑的白领涌去洗头店午睡",
+      "onboard_time": 1733300910,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24489,
@@ -13809,6 +13977,14 @@
       "onboard_time": 1733085371,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5785,
+      "num": 4389102,
+      "word": "京西有条文化带",
+      "onboard_time": 1733301088,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5641,
