@@ -1,0 +1,410 @@
+{
+  "runTime": 1733311250396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6600804,
+        "num": 6600804,
+        "word": "琼瑶去世",
+        "onboard_time": 1733295800,
+        "rank": 0,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 1874157,
+        "num": 1874157,
+        "word": "李晟 是你把我从泥泞里拉出来",
+        "onboard_time": 1733307203,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69331,
+        "num": 1563902,
+        "word": "关于宪法这些要知道",
+        "onboard_time": 1733297736,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1469629,
+        "num": 1469629,
+        "word": "如此低俗网红竟有4000万粉丝",
+        "onboard_time": 1733297736,
+        "rank": 3,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 1298026,
+        "num": 1298026,
+        "word": "琼瑶告别视频",
+        "onboard_time": 1733298276,
+        "rank": 4,
+        "category": "读书作家,剧集"
+      },
+      {
+        "raw_hot": 1286695,
+        "num": 1286695,
+        "word": "琼瑶去世前悼念亡夫",
+        "onboard_time": 1733299532,
+        "rank": 5,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 873483,
+        "num": 873483,
+        "word": "琼瑶最不愿意变成一个卧床老人",
+        "onboard_time": 1733302345,
+        "rank": 6,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 1303992,
+        "num": 846970,
+        "word": "琼瑶遗书",
+        "onboard_time": 1733296410,
+        "rank": 7,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 242399,
+        "num": 819449,
+        "word": "国乒vs德国",
+        "onboard_time": 1733309422,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96225,
+        "num": 817509,
+        "word": "尹锡悦弹劾案或将在6日7日投票表决",
+        "onboard_time": 1733310622,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 815805,
+        "num": 815805,
+        "word": "林心如 有幸成为您的紫薇如萍雪花",
+        "onboard_time": 1733310682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713926,
+        "num": 713926,
+        "word": "女生被灌醉后遭强奸致死案将开庭",
+        "onboard_time": 1733301747,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560743,
+        "num": 560743,
+        "word": "于雯庄盛哲分手",
+        "onboard_time": 1733308461,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 552054,
+        "num": 552054,
+        "word": "琼瑶在家自杀",
+        "onboard_time": 1733296346,
+        "rank": 13,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 29161,
+        "num": 549370,
+        "word": "出走的决心原型说靠自己才能活下去",
+        "onboard_time": 1733310081,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 732388,
+        "num": 549211,
+        "word": "林心如惊闻琼瑶去世哽咽到无法说话",
+        "onboard_time": 1733309543,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311357,
+        "num": 549079,
+        "word": "菲律宾公务船恶意擦碰中国海警船",
+        "onboard_time": 1733308043,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548971,
+        "num": 548971,
+        "word": "韩国财团对尹锡悦不满",
+        "onboard_time": 1733306902,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254050,
+        "num": 537599,
+        "word": "广州拟为早茶立法",
+        "onboard_time": 1733308763,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21081,
+        "num": 530626,
+        "word": "王一博在发光",
+        "onboard_time": 1733309002,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527766,
+        "num": 527766,
+        "word": "陈德容称琼瑶离世因丈夫去世打击大",
+        "onboard_time": 1733309122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440919,
+        "num": 440919,
+        "word": "韩网民吐槽特战队翻墙不如李在明",
+        "onboard_time": 1733304624,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382919,
+        "num": 382919,
+        "word": "郭晶晶刘诗诗高圆圆坐一起",
+        "onboard_time": 1733304804,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 354898,
+        "num": 354898,
+        "word": "琼瑶的作品对你有何影响",
+        "onboard_time": 1733310561,
+        "rank": 23,
+        "category": "读书作家,剧集"
+      },
+      {
+        "raw_hot": 110812,
+        "num": 323230,
+        "word": "国乒第二阶段赛程",
+        "onboard_time": 1733310382,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126089,
+        "num": 314937,
+        "word": "严浩翔电影杀青",
+        "onboard_time": 1733310142,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45116,
+        "num": 313667,
+        "word": "张艺兴也在看白夜破晓",
+        "onboard_time": 1733310081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312662,
+        "num": 312662,
+        "word": "周密发的朋友圈",
+        "onboard_time": 1733295800,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32377,
+        "num": 311350,
+        "word": "夏弃疾拍的田嘉瑞生日照",
+        "onboard_time": 1733310442,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281732,
+        "num": 310669,
+        "word": "潘展乐反问要流量能涨成绩吗",
+        "onboard_time": 1733305763,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310284,
+        "num": 310284,
+        "word": "韩国防部长辞职",
+        "onboard_time": 1733305582,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283732,
+        "num": 283732,
+        "word": "你的屁股很可能已经死了",
+        "onboard_time": 1733290938,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250336,
+        "num": 250336,
+        "word": "洪小铃结婚怀孕",
+        "onboard_time": 1733297973,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236114,
+        "num": 236114,
+        "word": "丁禹兮 黑天使",
+        "onboard_time": 1733310142,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230140,
+        "num": 230140,
+        "word": "国色芳华",
+        "onboard_time": 1733310500,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224641,
+        "num": 224641,
+        "word": "迪丽热巴飙高音",
+        "onboard_time": 1733309481,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13108,
+        "num": 201308,
+        "word": "香奈儿秀款细节live图",
+        "onboard_time": 1733308103,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 191062,
+        "num": 191062,
+        "word": "张睿换枯叶蝶头像",
+        "onboard_time": 1733310861,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184547,
+        "num": 184547,
+        "word": "网红祁天道擦边调戏女生被网友谴责",
+        "onboard_time": 1733291960,
+        "rank": 38,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 161973,
+        "num": 181221,
+        "word": "网吧公开女顾客座位说仙女都在这儿",
+        "onboard_time": 1733304984,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180840,
+        "num": 180840,
+        "word": "刘诗诗高丸子头",
+        "onboard_time": 1733305224,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 174983,
+        "num": 174983,
+        "word": "黑白森林",
+        "onboard_time": 1733309362,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160545,
+        "num": 160545,
+        "word": "西湖被王一博粉丝包围了",
+        "onboard_time": 1733305582,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158539,
+        "num": 158539,
+        "word": "旅客带107.4万美元现金进境被查",
+        "onboard_time": 1733310682,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152330,
+        "num": 152330,
+        "word": "年轻的你们 千万不要轻易放弃生命",
+        "onboard_time": 1733300549,
+        "rank": 44,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 140784,
+        "num": 140784,
+        "word": "因父亲车祸去世王鸡肉暂停出摊",
+        "onboard_time": 1733300069,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139621,
+        "num": 139621,
+        "word": "李佳航 感恩这一世与阿姨的相遇",
+        "onboard_time": 1733309602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139238,
+        "num": 139238,
+        "word": "霍思燕带女儿和朋友聚餐",
+        "onboard_time": 1733289740,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135434,
+        "num": 135434,
+        "word": "赵丽颖有两部作品获五个一工程奖",
+        "onboard_time": 1733307564,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114008,
+        "num": 135391,
+        "word": "福宝步态稳定四肢有力",
+        "onboard_time": 1733311040,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路源自中国属于世界#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733309074670,
+  "endTime": 1733311250396,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1874157,
+      "num": 1874157,
+      "word": "李晟 是你把我从泥泞里拉出来",
+      "onboard_time": 1733307203,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1699615,
       "num": 1699615,
       "word": "林心如",
@@ -185,14 +193,6 @@
       "onboard_time": 1733281819,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1529093,
-      "num": 851818,
-      "word": "李晟 是你把我从泥泞里拉出来",
-      "onboard_time": 1733307203,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 1427084,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 815805,
+      "num": 815805,
+      "word": "林心如 有幸成为您的紫薇如萍雪花",
+      "onboard_time": 1733310682,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811098,
       "num": 3122100,
       "word": "韩国议长宣布紧急戒严令无效",
@@ -408,6 +416,14 @@
       "word": "周密向周芯竹道歉",
       "onboard_time": 1733223620,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 732388,
+      "num": 549211,
+      "word": "林心如惊闻琼瑶去世哽咽到无法说话",
+      "onboard_time": 1733309543,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -627,11 +643,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 560743,
+      "num": 817961,
+      "word": "于雯庄盛哲分手",
+      "onboard_time": 1733308461,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 556155,
       "num": 556155,
       "word": "韩国戒严军逮捕参加会议议员",
       "onboard_time": 1733241568,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 548971,
+      "num": 548971,
+      "word": "韩国财团对尹锡悦不满",
+      "onboard_time": 1733306902,
+      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -665,6 +697,14 @@
       "onboard_time": 1733237365,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 527766,
+      "num": 527766,
+      "word": "陈德容称琼瑶离世因丈夫去世打击大",
+      "onboard_time": 1733309122,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 527557,
@@ -963,28 +1003,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 372782,
-      "num": 817961,
-      "word": "于雯庄盛哲分手",
-      "onboard_time": 1733308461,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 372163,
       "num": 372163,
       "word": "李宏毅健身房抽烟",
       "onboard_time": 1733288782,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364410,
-      "num": 364410,
-      "word": "韩国财团对尹锡悦不满",
-      "onboard_time": 1733306902,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 364314,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1733289560,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 354898,
+      "num": 354898,
+      "word": "琼瑶的作品对你有何影响",
+      "onboard_time": 1733310561,
+      "rank": 23,
+      "category": "读书作家,剧集"
     },
     {
       "raw_hot": 348926,
@@ -1115,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311357,
+      "num": 829202,
+      "word": "菲律宾公务船恶意擦碰中国海警船",
+      "onboard_time": 1733308043,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 308293,
       "num": 329308,
       "word": "孙茜居然和秀智同台演出过",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1733290520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281732,
+      "num": 367364,
+      "word": "潘展乐反问要流量能涨成绩吗",
+      "onboard_time": 1733305763,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 280585,
@@ -1331,12 +1379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254050,
+      "num": 537599,
+      "word": "广州拟为早茶立法",
+      "onboard_time": 1733308763,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251915,
       "num": 251915,
       "word": "韩执政党称总统宣布紧急戒严错误",
       "onboard_time": 1733236165,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242399,
+      "num": 819449,
+      "word": "国乒vs德国",
+      "onboard_time": 1733309422,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 242308,
@@ -1347,14 +1411,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 240866,
-      "num": 829202,
-      "word": "菲律宾公务船恶意擦碰中国海警船",
-      "onboard_time": 1733308043,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 238789,
       "num": 493928,
       "word": "丁禹兮曾说自己无胸肌无腹肌",
@@ -1363,12 +1419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236114,
+      "num": 236114,
+      "word": "丁禹兮 黑天使",
+      "onboard_time": 1733310142,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 231336,
       "num": 231336,
       "word": "韩国资产全线跳水",
       "onboard_time": 1733241625,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230140,
+      "num": 230140,
+      "word": "国色芳华",
+      "onboard_time": 1733310500,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 230093,
@@ -1409,6 +1481,14 @@
       "onboard_time": 1733237545,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224641,
+      "num": 224641,
+      "word": "迪丽热巴飙高音",
+      "onboard_time": 1733309481,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224535,
@@ -1555,6 +1635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191062,
+      "num": 191062,
+      "word": "张睿换枯叶蝶头像",
+      "onboard_time": 1733310861,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189824,
       "num": 189824,
       "word": "深圳福彩回应80元中2.25亿",
@@ -1577,14 +1665,6 @@
       "onboard_time": 1733269279,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184049,
-      "num": 367364,
-      "word": "潘展乐反问要流量能涨成绩吗",
-      "onboard_time": 1733305763,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 182233,
@@ -1747,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158539,
+      "num": 158539,
+      "word": "旅客带107.4万美元现金进境被查",
+      "onboard_time": 1733310682,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158511,
       "num": 504589,
       "word": "花少6真心1V1",
@@ -1899,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139621,
+      "num": 139621,
+      "word": "李佳航 感恩这一世与阿姨的相遇",
+      "onboard_time": 1733309602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139370,
       "num": 156779,
       "word": "杨政放弃体测",
@@ -1931,20 +2027,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 135434,
+      "num": 296493,
+      "word": "赵丽颖有两部作品获五个一工程奖",
+      "onboard_time": 1733307564,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130515,
       "num": 535635,
       "word": "勇士五连败",
       "onboard_time": 1733293159,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129033,
-      "num": 148914,
-      "word": "广州拟为早茶立法",
-      "onboard_time": 1733308763,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128836,
@@ -1977,6 +2073,14 @@
       "onboard_time": 1733294360,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 126089,
+      "num": 314937,
+      "word": "严浩翔电影杀青",
+      "onboard_time": 1733310142,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 125493,
@@ -2107,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114008,
+      "num": 135391,
+      "word": "福宝步态稳定四肢有力",
+      "onboard_time": 1733311040,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111345,
       "num": 360608,
       "word": "多少中国人困在第一学历里",
@@ -2115,20 +2227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110812,
+      "num": 323230,
+      "word": "国乒第二阶段赛程",
+      "onboard_time": 1733310382,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108818,
       "num": 162842,
       "word": "警方调查女子13年前走失现育2娃",
       "onboard_time": 1733279418,
       "rank": 44,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 107432,
-      "num": 296493,
-      "word": "赵丽颖有两部作品获五个一工程奖",
-      "onboard_time": 1733307564,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 104526,
@@ -2201,6 +2313,14 @@
       "onboard_time": 1733285480,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96225,
+      "num": 817509,
+      "word": "尹锡悦弹劾案或将在6日7日投票表决",
+      "onboard_time": 1733310622,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95510,
@@ -2611,6 +2731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45116,
+      "num": 313667,
+      "word": "张艺兴也在看白夜破晓",
+      "onboard_time": 1733310081,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43370,
       "num": 140476,
       "word": "港队的目标是赢国乒一局",
@@ -2739,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32377,
+      "num": 311350,
+      "word": "夏弃疾拍的田嘉瑞生日照",
+      "onboard_time": 1733310442,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32261,
       "num": 272628,
       "word": "爱吃枇杷的娘口三三",
@@ -2793,6 +2929,14 @@
       "onboard_time": 1733248216,
       "rank": 40,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 29161,
+      "num": 549370,
+      "word": "出走的决心原型说靠自己才能活下去",
+      "onboard_time": 1733310081,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 27493,
@@ -2897,6 +3041,14 @@
       "onboard_time": 1733284520,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21081,
+      "num": 530626,
+      "word": "王一博在发光",
+      "onboard_time": 1733309002,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 21063,
@@ -3004,7 +3156,7 @@
     },
     {
       "raw_hot": 15320,
-      "num": 165162,
+      "num": 201308,
       "word": "香奈儿秀款细节live图",
       "onboard_time": 1733308103,
       "rank": 38,
@@ -3152,14 +3304,6 @@
       "word": "离了向佐谁还玩抽象给我看",
       "onboard_time": 1733260931,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6016,
-      "num": 148793,
-      "word": "王一博在发光",
-      "onboard_time": 1733309002,
-      "rank": 49,
       "category": "艺人"
     },
     {
