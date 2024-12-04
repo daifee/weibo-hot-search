@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733334040507,
+  "endTime": 1733337220095,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -403,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53938,
+      "num": 94190,
+      "word": "韩国的6小时40分钟",
+      "onboard_time": 1733335393,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47852,
       "num": 47852,
       "word": "任达华回应女儿被评最美星二代",
       "onboard_time": 1733319565,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47006,
+      "num": 47006,
+      "word": "韩国防部长致歉",
+      "onboard_time": 1733333355,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45726,
@@ -443,12 +459,12 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 33181,
-      "num": 36071,
-      "word": "韩国防部长致歉",
-      "onboard_time": 1733333355,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 32761,
+      "num": 32761,
+      "word": "百万网红咖啡放弃直肠癌化疗",
+      "onboard_time": 1733334673,
+      "rank": 25,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 32283,
@@ -465,6 +481,14 @@
       "onboard_time": 1733325562,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24037,
+      "num": 24037,
+      "word": "琼瑶林心如苏有朋周杰早期合照",
+      "onboard_time": 1733324724,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 16065,
@@ -510,6 +534,9 @@
   "hotgov_list": [
     {
       "word": "#全面推动共建一带一路高质量发展#"
+    },
+    {
+      "word": "#良法善治#"
     }
   ]
 }
