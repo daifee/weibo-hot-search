@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733269066525,
+  "endTime": 1733277100671,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -27,19 +27,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 7477743,
+      "num": 7477743,
+      "word": "这一晚韩国发生了什么",
+      "onboard_time": 1733267598,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 4600266,
       "num": 5468456,
       "word": "韩国会会议通过解除戒严决议",
       "onboard_time": 1733242046,
       "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 2502141,
-      "num": 2502141,
-      "word": "这一晚韩国发生了什么",
-      "onboard_time": 1733267598,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1291932,
+      "num": 575804,
+      "word": "韩国总统幕僚辞职",
+      "onboard_time": 1733274441,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1232958,
       "num": 1232958,
       "word": "首尔之春",
@@ -113,6 +121,14 @@
       "onboard_time": 1733237605,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1053056,
+      "num": 1053056,
+      "word": "花洛莉亚广告被指有性暗示",
+      "onboard_time": 1733270242,
+      "rank": 1,
+      "category": "美妆"
     },
     {
       "raw_hot": 1022519,
@@ -187,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 594255,
+      "num": 466542,
+      "word": "韩最大在野党要求尹锡悦立即辞职",
+      "onboard_time": 1733271083,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 591025,
       "num": 300274,
       "word": "韩紧急戒严令被宣布无效",
@@ -251,6 +275,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 539464,
+      "num": 401102,
+      "word": "韩国1980年以来首次戒严",
+      "onboard_time": 1733271983,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 519077,
+      "num": 381601,
+      "word": "韩国总统宣布解除紧急戒严令",
+      "onboard_time": 1733268979,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 515654,
       "num": 5396093,
       "word": "进入韩国国会主楼的军人全部撤出",
@@ -307,6 +347,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 471401,
+      "num": 471401,
+      "word": "韩国汇率",
+      "onboard_time": 1733274501,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 460215,
+      "num": 460215,
+      "word": "为啥一入冬就起床困难",
+      "onboard_time": 1733271682,
+      "rank": 6,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 457680,
       "num": 613316,
       "word": "男子与军嫂同居4年被判刑",
@@ -324,7 +380,7 @@
     },
     {
       "raw_hot": 422094,
-      "num": 240175,
+      "num": 403254,
       "word": "苏州一露营者在帐篷内身亡",
       "onboard_time": 1733238926,
       "rank": 38,
@@ -337,6 +393,14 @@
       "onboard_time": 1733246057,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404675,
+      "num": 404675,
+      "word": "周迅 香家待遇",
+      "onboard_time": 1733274621,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394492,
@@ -363,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 364314,
+      "num": 364314,
+      "word": "结婚后才明白什么叫隐形家务",
+      "onboard_time": 1733274562,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 342281,
       "num": 342281,
       "word": "韩要求罢工的医生48小时内返岗",
@@ -372,7 +444,7 @@
     },
     {
       "raw_hot": 331906,
-      "num": 331906,
+      "num": 402154,
       "word": "伸脚垫住摔倒老人后脑勺的男子找到了",
       "onboard_time": 1733267358,
       "rank": 8,
@@ -385,6 +457,14 @@
       "onboard_time": 1733245937,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 325730,
+      "num": 5409716,
+      "word": "女硕士患精神分裂症失踪15年被找回",
+      "onboard_time": 1733233941,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300916,
@@ -400,6 +480,14 @@
       "word": "韩军士兵携带枪支空降国会",
       "onboard_time": 1733242225,
       "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 290697,
+      "num": 225818,
+      "word": "韩国国会主楼对峙冲突现场视频",
+      "onboard_time": 1733273543,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -459,12 +547,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259235,
+      "num": 259235,
+      "word": "菲律宾",
+      "onboard_time": 1733272342,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 259080,
+      "num": 382150,
+      "word": "白敬亭 脱了号就封了",
+      "onboard_time": 1733269279,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251915,
       "num": 251915,
       "word": "韩执政党称总统宣布紧急戒严错误",
       "onboard_time": 1733236165,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251419,
+      "num": 404041,
+      "word": "央视曝光MCN包装素人网红陷阱",
+      "onboard_time": 1733275580,
+      "rank": 11,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 231336,
@@ -475,16 +587,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 227945,
-      "num": 5409716,
-      "word": "女硕士患精神分裂症失踪15年被找回",
-      "onboard_time": 1733233941,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225175,
-      "num": 225175,
+      "num": 236846,
       "word": "凯特哭着谈泰坦尼克号后直面身材羞辱",
       "onboard_time": 1733237545,
       "rank": 48,
@@ -499,10 +603,58 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199571,
+      "num": 199571,
+      "word": "在东北吃泡面要5分钟内吃完",
+      "onboard_time": 1733274562,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 195051,
+      "num": 255915,
+      "word": "韩国资产巨震",
+      "onboard_time": 1733275939,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 186215,
+      "num": 401604,
+      "word": "刘宇宁说后面三部戏都不会死",
+      "onboard_time": 1733269279,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178668,
+      "num": 178668,
+      "word": "星穹铁道",
+      "onboard_time": 1733276718,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174500,
       "num": 431389,
       "word": "难怪有故人之姿 原来是故人之子",
       "onboard_time": 1733230160,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171500,
+      "num": 171500,
+      "word": "认知低的人是怎样讲话的",
+      "onboard_time": 1733275760,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160444,
+      "num": 245410,
+      "word": "宝石盒是不是要火了",
+      "onboard_time": 1733272101,
       "rank": 28,
       "category": "艺人"
     },
@@ -547,12 +699,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 120458,
+      "raw_hot": 137846,
+      "num": 137846,
+      "word": "韩国准备10万亿韩元股市稳定基金",
+      "onboard_time": 1733272642,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 125158,
       "num": 151706,
       "word": "娜扎经纪人回应有明星相",
       "onboard_time": 1733235382,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122815,
+      "num": 122815,
+      "word": "成都街头200元一份的炒饭",
+      "onboard_time": 1733276420,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 119180,
@@ -561,6 +729,38 @@
       "onboard_time": 1733246415,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117187,
+      "num": 219274,
+      "word": "3岁萌娃携一家4代去看王一博",
+      "onboard_time": 1733275819,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115300,
+      "num": 115300,
+      "word": "我驻韩使馆回应韩国解除禁令",
+      "onboard_time": 1733271682,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112500,
+      "num": 111564,
+      "word": "韩民众称尹锡悦已按下弹劾自己的按钮",
+      "onboard_time": 1733269219,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112220,
+      "num": 112220,
+      "word": "樱桃琥珀发预告了",
+      "onboard_time": 1733277021,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95510,
@@ -723,20 +923,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 49049,
-      "num": 240177,
-      "word": "韩国总统宣布解除紧急戒严令",
-      "onboard_time": 1733268979,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46992,
       "num": 73318,
       "word": "田嘉瑞晒陈好送的500号魔杖",
       "onboard_time": 1733239464,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42146,
+      "num": 402912,
+      "word": "韩国执政党领导层要求尹锡悦退党",
+      "onboard_time": 1733276960,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39423,
+      "num": 2525857,
+      "word": "2024读懂中国",
+      "onboard_time": 1733234481,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38861,
@@ -777,14 +985,6 @@
       "onboard_time": 1733248216,
       "rank": 40,
       "category": "民生新闻,美妆"
-    },
-    {
-      "raw_hot": 28424,
-      "num": 2525857,
-      "word": "2024读懂中国",
-      "onboard_time": 1733234481,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27326,
@@ -977,6 +1177,14 @@
       "onboard_time": 1733250373,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6966,
+      "num": 401496,
+      "word": "韩国资产深夜暴跌",
+      "onboard_time": 1733277080,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 6405,
