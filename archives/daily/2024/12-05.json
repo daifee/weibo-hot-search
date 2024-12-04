@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733337220095,
+  "endTime": 1733338064178,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90028,
+      "num": 94190,
+      "word": "韩国的6小时40分钟",
+      "onboard_time": 1733335393,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82798,
       "num": 82798,
       "word": "琼瑶去世前悼念亡夫",
@@ -403,11 +411,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53938,
-      "num": 94190,
-      "word": "韩国的6小时40分钟",
-      "onboard_time": 1733335393,
-      "rank": 9,
+      "raw_hot": 55101,
+      "num": 78070,
+      "word": "韩国防部长致歉",
+      "onboard_time": 1733333355,
+      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -417,14 +425,6 @@
       "onboard_time": 1733319565,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47006,
-      "num": 47006,
-      "word": "韩国防部长致歉",
-      "onboard_time": 1733333355,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45726,
@@ -459,8 +459,8 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 32761,
-      "num": 32761,
+      "raw_hot": 36352,
+      "num": 35842,
       "word": "百万网红咖啡放弃直肠癌化疗",
       "onboard_time": 1733334673,
       "rank": 25,
@@ -481,6 +481,14 @@
       "onboard_time": 1733325562,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27009,
+      "num": 27009,
+      "word": "丁禹兮首演警察",
+      "onboard_time": 1733337852,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 24037,

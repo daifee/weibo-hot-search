@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733337220095,
+  "endTime": 1733338064178,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -11115,6 +11115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90028,
+      "num": 94190,
+      "word": "韩国的6小时40分钟",
+      "onboard_time": 1733335393,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89598,
       "num": 94764,
       "word": "这是我见过最努力的考研人了吧",
@@ -12563,6 +12571,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 55101,
+      "num": 78070,
+      "word": "韩国防部长致歉",
+      "onboard_time": 1733333355,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55069,
       "num": 192422,
       "word": "小花又开始写心经了",
@@ -12665,14 +12681,6 @@
       "onboard_time": 1733194098,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53938,
-      "num": 94190,
-      "word": "韩国的6小时40分钟",
-      "onboard_time": 1733335393,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53838,
@@ -13001,14 +13009,6 @@
       "onboard_time": 1733196078,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 47006,
-      "num": 47006,
-      "word": "韩国防部长致歉",
-      "onboard_time": 1733333355,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46909,
@@ -13651,6 +13651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 36352,
+      "num": 35842,
+      "word": "百万网红咖啡放弃直肠癌化疗",
+      "onboard_time": 1733334673,
+      "rank": 25,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 36208,
       "num": 139296,
       "word": "诺如病毒高发期如何预防感染",
@@ -13865,14 +13873,6 @@
       "onboard_time": 1733138784,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32761,
-      "num": 32761,
-      "word": "百万网红咖啡放弃直肠癌化疗",
-      "onboard_time": 1733334673,
-      "rank": 25,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 32639,
@@ -14321,6 +14321,14 @@
       "onboard_time": 1733309002,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27009,
+      "num": 27009,
+      "word": "丁禹兮首演警察",
+      "onboard_time": 1733337852,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 26853,
