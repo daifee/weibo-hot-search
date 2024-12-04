@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733352156439,
+  "endTime": 1733354621358,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -11,20 +11,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1113536,
+      "num": 1113536,
+      "word": "两度发现遗体博主将面临处罚",
+      "onboard_time": 1733314701,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1009611,
       "num": 1009611,
       "word": "虞书欣爷爷去了永夜星河庆功宴",
       "onboard_time": 1733321663,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 933917,
-      "num": 933917,
-      "word": "两度发现遗体博主将面临处罚",
-      "onboard_time": 1733314701,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 846267,
@@ -35,8 +35,32 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 770916,
+      "num": 770916,
+      "word": "韩国的6小时40分钟",
+      "onboard_time": 1733335393,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 567569,
+      "num": 567569,
+      "word": "百万网红咖啡放弃直肠癌化疗",
+      "onboard_time": 1733334673,
+      "rank": 25,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 545599,
+      "num": 278062,
+      "word": "琼瑶经济共赚取约上亿美元",
+      "onboard_time": 1733321483,
+      "rank": 15,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 502827,
-      "num": 371399,
+      "num": 374190,
       "word": "琼瑶遗体初步检验结果公布",
       "onboard_time": 1733317822,
       "rank": 6,
@@ -49,14 +73,6 @@
       "onboard_time": 1733325263,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366704,
-      "num": 366704,
-      "word": "韩国的6小时40分钟",
-      "onboard_time": 1733335393,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347972,
@@ -91,12 +107,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 278062,
-      "num": 278062,
-      "word": "琼瑶经济共赚取约上亿美元",
-      "onboard_time": 1733321483,
-      "rank": 15,
-      "category": "读书作家,艺人"
+      "raw_hot": 305155,
+      "num": 305155,
+      "word": "低俗网红祁天道总销售额或达上亿",
+      "onboard_time": 1733350153,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275150,
@@ -123,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250761,
-      "num": 250761,
-      "word": "百万网红咖啡放弃直肠癌化疗",
-      "onboard_time": 1733334673,
-      "rank": 25,
-      "category": "民生新闻,网红"
+      "raw_hot": 244799,
+      "num": 244799,
+      "word": "大爷瞒着孩子偷贷20万种虫草花",
+      "onboard_time": 1733314162,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229192,
@@ -161,6 +177,14 @@
       "onboard_time": 1733328740,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182521,
+      "num": 182521,
+      "word": "琼瑶成都故居依旧保存完好",
+      "onboard_time": 1733327539,
+      "rank": 30,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 175181,
@@ -203,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139677,
-      "num": 121804,
-      "word": "琼瑶成都故居依旧保存完好",
-      "onboard_time": 1733327539,
-      "rank": 30,
-      "category": "读书作家,艺人"
+      "raw_hot": 138089,
+      "num": 138089,
+      "word": "韩国紧急戒严令导火索",
+      "onboard_time": 1733341152,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135127,
@@ -235,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117391,
+      "num": 117391,
+      "word": "检查结果互认致HIV感染者被拒诊",
+      "onboard_time": 1733327000,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116225,
       "num": 116225,
       "word": "谷爱凌2024收入女运动员第二",
@@ -251,20 +283,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115323,
-      "num": 115323,
-      "word": "检查结果互认致HIV感染者被拒诊",
-      "onboard_time": 1733327000,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110894,
       "num": 110894,
       "word": "王一栩今天我不允许任何人忤逆你",
       "onboard_time": 1733323224,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110525,
+      "num": 65682,
+      "word": "专家称白猫在猫眼里不是最丑的",
+      "onboard_time": 1733352735,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 105400,
@@ -291,6 +323,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 99202,
+      "num": 99202,
+      "word": "任达华回应女儿被评最美星二代",
+      "onboard_time": 1733319565,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98582,
       "num": 98582,
       "word": "春节是刻在中国人DNA里的仪式感",
@@ -305,6 +345,22 @@
       "onboard_time": 1733317644,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95338,
+      "num": 95338,
+      "word": "琼瑶七年前曾反对丈夫插管",
+      "onboard_time": 1733301867,
+      "rank": 20,
+      "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 95127,
+      "num": 93867,
+      "word": "还珠3演员发文悼念琼瑶",
+      "onboard_time": 1733346250,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 94928,
@@ -323,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86846,
+      "num": 86846,
+      "word": "台媒报道琼瑶轻生",
+      "onboard_time": 1733353697,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82798,
       "num": 82798,
       "word": "琼瑶去世前悼念亡夫",
@@ -339,28 +403,20 @@
       "category": "正能量,情感"
     },
     {
+      "raw_hot": 78756,
+      "num": 78756,
+      "word": "到底谁发明的金晨",
+      "onboard_time": 1733351714,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77467,
       "num": 77467,
       "word": "网红博主猛蛇过江回应面临处罚",
       "onboard_time": 1733317103,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 76697,
-      "num": 76697,
-      "word": "韩国紧急戒严令导火索",
-      "onboard_time": 1733341152,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 76633,
-      "num": 76633,
-      "word": "大爷瞒着孩子偷贷20万种虫草花",
-      "onboard_time": 1733314162,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76135,
@@ -419,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63709,
+      "num": 63709,
+      "word": "琼瑶林心如苏有朋周杰早期合照",
+      "onboard_time": 1733324724,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61176,
+      "num": 61176,
+      "word": "林青霞后悔上个月没去看看琼瑶",
+      "onboard_time": 1733347511,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59106,
       "num": 63519,
       "word": "张睿换枯叶蝶头像",
@@ -443,20 +515,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48955,
-      "num": 48955,
-      "word": "任达华回应女儿被评最美星二代",
-      "onboard_time": 1733319565,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 54528,
+      "num": 60510,
+      "word": "曼城vs诺丁汉森林",
+      "onboard_time": 1733351593,
+      "rank": 38,
+      "category": "体育"
     },
     {
-      "raw_hot": 47201,
-      "num": 47201,
-      "word": "还珠3演员发文悼念琼瑶",
-      "onboard_time": 1733346250,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 52472,
+      "num": 60274,
+      "word": "福宝干饭不忘对着ee吃",
+      "onboard_time": 1733345170,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45861,
+      "num": 60073,
+      "word": "男子远程偷扣老年机话费超500万",
+      "onboard_time": 1733352434,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45726,
@@ -475,36 +555,12 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 43405,
-      "num": 43405,
-      "word": "福宝干饭不忘对着ee吃",
-      "onboard_time": 1733345170,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42575,
-      "num": 96802,
-      "word": "低俗网红祁天道总销售额或达上亿",
-      "onboard_time": 1733350153,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41341,
       "num": 133822,
       "word": "迪丽热巴ELLE2025开年刊封面预告",
       "onboard_time": 1733326162,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 40841,
-      "num": 34596,
-      "word": "林青霞后悔上个月没去看看琼瑶",
-      "onboard_time": 1733347511,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 39088,
@@ -515,20 +571,28 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 38299,
-      "num": 38299,
-      "word": "琼瑶林心如苏有朋周杰早期合照",
-      "onboard_time": 1733324724,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 38185,
+      "num": 60056,
+      "word": "专家称白猫择偶确实没有竞争力",
+      "onboard_time": 1733352855,
+      "rank": 44,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 32283,
-      "num": 36070,
+      "num": 60038,
       "word": "4个动作改善驼背",
       "onboard_time": 1733331675,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28723,
+      "num": 95475,
+      "word": "东北虎被拍到高清照",
+      "onboard_time": 1733353817,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28385,
@@ -536,14 +600,6 @@
       "word": "黄东萍杂志",
       "onboard_time": 1733325562,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27910,
-      "num": 27910,
-      "word": "曼城vs诺丁汉森林",
-      "onboard_time": 1733351593,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -561,14 +617,6 @@
       "onboard_time": 1733344460,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19875,
-      "num": 27834,
-      "word": "到底谁发明的金晨",
-      "onboard_time": 1733351714,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 19297,
@@ -619,7 +667,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12288,
+      "raw_hot": 12326,
       "num": 940822,
       "word": "京西有条文化带",
       "onboard_time": 1733301088,
