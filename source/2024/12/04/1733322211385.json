@@ -1,0 +1,410 @@
+{
+  "runTime": 1733322211385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3076929,
+        "num": 3076929,
+        "word": "琼瑶遗体初步检验结果公布",
+        "onboard_time": 1733317822,
+        "rank": 0,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 2283309,
+        "num": 2283309,
+        "word": "两度发现遗体博主将面临处罚",
+        "onboard_time": 1733314701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24430,
+        "num": 1733127,
+        "word": "京西有条文化带",
+        "onboard_time": 1733301088,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1514666,
+        "num": 1514666,
+        "word": "琼瑶去世",
+        "onboard_time": 1733295800,
+        "rank": 3,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 1090835,
+        "num": 1090835,
+        "word": "永夜星河庆功宴",
+        "onboard_time": 1733314283,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475411,
+        "num": 475411,
+        "word": "网红博主猛蛇过江回应面临处罚",
+        "onboard_time": 1733317103,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 863900,
+        "num": 473642,
+        "word": "禹宙中欣",
+        "onboard_time": 1733320465,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 854904,
+        "num": 466035,
+        "word": "欧阳妮妮挺9月孕肚出门",
+        "onboard_time": 1733316923,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452838,
+        "num": 452838,
+        "word": "爱宝乐园正与中方专家沟通福宝状况",
+        "onboard_time": 1733317644,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432739,
+        "num": 432739,
+        "word": "大爷瞒着孩子偷贷20万种虫草花",
+        "onboard_time": 1733314162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398169,
+        "num": 398169,
+        "word": "琼瑶去世前悼念亡夫",
+        "onboard_time": 1733299532,
+        "rank": 10,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 394993,
+        "num": 394993,
+        "word": "难哄过审",
+        "onboard_time": 1733319083,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387303,
+        "num": 387303,
+        "word": "丁禹兮空降",
+        "onboard_time": 1733321844,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373353,
+        "num": 373353,
+        "word": "王楚钦孙颖莎新公式照",
+        "onboard_time": 1733317583,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109378,
+        "num": 319603,
+        "word": "长沙步行街商贩卖气球被人挨个弄破",
+        "onboard_time": 1733321124,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287176,
+        "num": 287176,
+        "word": "乒超票价",
+        "onboard_time": 1733318422,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275276,
+        "num": 275276,
+        "word": "韩国财团对尹锡悦不满",
+        "onboard_time": 1733306902,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109587,
+        "num": 275252,
+        "word": "梁靖崑回应成都混团首胜",
+        "onboard_time": 1733322144,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221298,
+        "num": 274856,
+        "word": "黄磊给家人做包子",
+        "onboard_time": 1733319444,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40939,
+        "num": 274221,
+        "word": "旅客带53枚古钱币出境被查",
+        "onboard_time": 1733321305,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362382,
+        "num": 273798,
+        "word": "虞书欣爷爷去了永夜星河庆功宴",
+        "onboard_time": 1733321663,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334097,
+        "num": 273470,
+        "word": "李冰冰郑秀晶邓超同框",
+        "onboard_time": 1733317822,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326479,
+        "num": 272997,
+        "word": "星宝放饭",
+        "onboard_time": 1733318304,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322339,
+        "num": 272813,
+        "word": "李冰冰51岁状态",
+        "onboard_time": 1733318664,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168089,
+        "num": 272289,
+        "word": "孙颖莎感谢观众呐喊支持",
+        "onboard_time": 1733320943,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195487,
+        "num": 271939,
+        "word": "日本或放宽中国公民签证要求",
+        "onboard_time": 1733321423,
+        "rank": 25,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 291429,
+        "num": 271467,
+        "word": "任达华回应女儿被评最美星二代",
+        "onboard_time": 1733319565,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280053,
+        "num": 271400,
+        "word": "虞书欣星宝加载1000000",
+        "onboard_time": 1733320163,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271053,
+        "num": 271053,
+        "word": "你的屁股很可能已经死了",
+        "onboard_time": 1733290938,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18046,
+        "num": 247408,
+        "word": "新一和小兰看流星",
+        "onboard_time": 1733321663,
+        "rank": 29,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 299145,
+        "num": 241760,
+        "word": "谷爱凌2024收入女运动员第二",
+        "onboard_time": 1733320764,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233681,
+        "num": 233681,
+        "word": "乔欣说过自己想要的生活就是最理想的",
+        "onboard_time": 1733320224,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227970,
+        "num": 227970,
+        "word": "琼瑶在家自杀",
+        "onboard_time": 1733296346,
+        "rank": 32,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 214832,
+        "num": 214832,
+        "word": "你以为很懒其实很健康的行为",
+        "onboard_time": 1733313022,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208315,
+        "num": 208315,
+        "word": "琼瑶捧红近百名明星",
+        "onboard_time": 1733315603,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116021,
+        "num": 206694,
+        "word": "黄晓明悼念琼瑶",
+        "onboard_time": 1733322083,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205977,
+        "num": 205977,
+        "word": "周雨彤告别花少6",
+        "onboard_time": 1733316503,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188137,
+        "num": 188137,
+        "word": "Spotify年度总结",
+        "onboard_time": 1733321243,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184188,
+        "num": 184188,
+        "word": "国企董事长短短40个月受贿超2060万",
+        "onboard_time": 1733319263,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179176,
+        "num": 179176,
+        "word": "湖南卫视发文告别琼瑶",
+        "onboard_time": 1733312122,
+        "rank": 39,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 177148,
+        "num": 177148,
+        "word": "央视曝光不见面只寄送骗局",
+        "onboard_time": 1733316863,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 175078,
+        "num": 175078,
+        "word": "向太咋上去的",
+        "onboard_time": 1733315183,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172217,
+        "num": 172217,
+        "word": "拆解Mate70博主直呼自豪",
+        "onboard_time": 1733318123,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159761,
+        "num": 171941,
+        "word": "无限暖暖",
+        "onboard_time": 1733319383,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171885,
+        "num": 171885,
+        "word": "我是刑警原型看了3500T监控素材",
+        "onboard_time": 1733317764,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169570,
+        "num": 169570,
+        "word": "张睿换枯叶蝶头像",
+        "onboard_time": 1733310861,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164869,
+        "num": 164869,
+        "word": "琼瑶最不愿意变成一个卧床老人",
+        "onboard_time": 1733302345,
+        "rank": 46,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 161712,
+        "num": 161712,
+        "word": "刘晓庆登顶玉龙雪山",
+        "onboard_time": 1733316622,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161219,
+        "num": 161219,
+        "word": "琼瑶经济共赚取约上亿美元",
+        "onboard_time": 1733321483,
+        "rank": 48,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 154206,
+        "num": 154206,
+        "word": "韩国万人集会要求尹锡悦下台",
+        "onboard_time": 1733318183,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
