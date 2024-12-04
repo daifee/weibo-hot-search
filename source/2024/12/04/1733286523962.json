@@ -1,0 +1,410 @@
+{
+  "runTime": 1733286523962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3350576,
+        "num": 3350576,
+        "word": "这一晚韩国发生了什么",
+        "onboard_time": 1733267598,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 793847,
+        "num": 2522694,
+        "word": "邢昭林玩麦琳的梗",
+        "onboard_time": 1733279418,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19380,
+        "num": 2518414,
+        "word": "2024读懂中国",
+        "onboard_time": 1733234481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2516423,
+        "num": 2516423,
+        "word": "太阳的后裔原型部队参与韩国戒严",
+        "onboard_time": 1733283138,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1316612,
+        "num": 1316612,
+        "word": "花四万二在鹤岗买房后的生活",
+        "onboard_time": 1733278759,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465470,
+        "num": 465470,
+        "word": "海参厂老板赌球输2200万后自杀",
+        "onboard_time": 1733280079,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1556841,
+        "num": 420700,
+        "word": "韩国朝野两大政党党首紧紧握手",
+        "onboard_time": 1733281819,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325896,
+        "num": 325896,
+        "word": "95后清华博士研发从空气中榨饮用水",
+        "onboard_time": 1733282779,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316984,
+        "num": 316984,
+        "word": "权志龙新歌被KBS判为不合格",
+        "onboard_time": 1733286202,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285118,
+        "num": 285118,
+        "word": "花洛利亚因擦边广告被罚2.5万",
+        "onboard_time": 1733280737,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 286905,
+        "num": 283836,
+        "word": "章子怡周冬雨聚餐",
+        "onboard_time": 1733285901,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101181,
+        "num": 283327,
+        "word": "韩国最大在野党要求总统立即主动辞职",
+        "onboard_time": 1733286202,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63021,
+        "num": 281717,
+        "word": "专家称大学生虐猫是生命教育有缺失",
+        "onboard_time": 1733285061,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66005,
+        "num": 280052,
+        "word": "韩国总统弹劾流程怎么走",
+        "onboard_time": 1733285901,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118995,
+        "num": 277805,
+        "word": "尹锡悦的6小时戒严闹剧",
+        "onboard_time": 1733285840,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277006,
+        "num": 277006,
+        "word": "尖叫之夜阵容",
+        "onboard_time": 1733280139,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212663,
+        "num": 212663,
+        "word": "女硕士患精神分裂症失踪15年被找回",
+        "onboard_time": 1733233941,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277008,
+        "num": 212475,
+        "word": "无限暖暖 配置",
+        "onboard_time": 1733284879,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60646,
+        "num": 212044,
+        "word": "华为何刚现场展示Mate70强得飞起",
+        "onboard_time": 1733283380,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65552,
+        "num": 211749,
+        "word": "于泽宇手写信道歉",
+        "onboard_time": 1733285960,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928045,
+        "num": 211240,
+        "word": "韩国总统发布紧急戒严令",
+        "onboard_time": 1733234242,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416812,
+        "num": 210862,
+        "word": "白敬亭 脱了号就封了",
+        "onboard_time": 1733269279,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142469,
+        "num": 210360,
+        "word": "恋与王安宇",
+        "onboard_time": 1733286202,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36044,
+        "num": 210018,
+        "word": "王一博真代言了剃须刀",
+        "onboard_time": 1733285361,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124548,
+        "num": 209590,
+        "word": "Zeus获2024仁川年度人物奖",
+        "onboard_time": 1733286202,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333496,
+        "num": 209078,
+        "word": "江苏一公园将长条椅焊上钢管",
+        "onboard_time": 1733284819,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820120,
+        "num": 208604,
+        "word": "马斯克说被韩国戒严令惊到了",
+        "onboard_time": 1733285541,
+        "rank": 26,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 97034,
+        "num": 208247,
+        "word": "周深歌曲如许获五个一工程奖",
+        "onboard_time": 1733285480,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28408,
+        "num": 207892,
+        "word": "8步选出合适的羽绒服",
+        "onboard_time": 1733286502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35132,
+        "num": 207385,
+        "word": "Mate70红枫原色影像拍得有多准",
+        "onboard_time": 1733283380,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207199,
+        "num": 207199,
+        "word": "我妈果然偏爱谭松韵",
+        "onboard_time": 1733279299,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610174,
+        "num": 206942,
+        "word": "韩国1980年以来首次戒严",
+        "onboard_time": 1733271983,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194287,
+        "num": 206122,
+        "word": "男子与军嫂同居4年被判刑",
+        "onboard_time": 1733231540,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581035,
+        "num": 205722,
+        "word": "韩国会会议通过解除戒严决议",
+        "onboard_time": 1733242046,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377696,
+        "num": 205009,
+        "word": "员工周末不响应工作老板退群裁员",
+        "onboard_time": 1733284941,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84043,
+        "num": 204162,
+        "word": "我是刑警60秒回溯作案过程",
+        "onboard_time": 1733284941,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479451,
+        "num": 203320,
+        "word": "韩国总统宣布解除紧急戒严令",
+        "onboard_time": 1733268979,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115376,
+        "num": 202799,
+        "word": "尖叫之夜主打passion",
+        "onboard_time": 1733284941,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14397,
+        "num": 202488,
+        "word": "好多电影人在香奈儿大秀",
+        "onboard_time": 1733282840,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 201905,
+        "num": 201905,
+        "word": "彩票中2.25亿男子已兑奖",
+        "onboard_time": 1733286322,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457424,
+        "num": 201431,
+        "word": "韩戒严令事件冲击开始显现",
+        "onboard_time": 1733283258,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277315,
+        "num": 201209,
+        "word": "结婚后才明白什么叫隐形家务",
+        "onboard_time": 1733274562,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217352,
+        "num": 200391,
+        "word": "韩国总统幕僚辞职",
+        "onboard_time": 1733274441,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203608,
+        "num": 199181,
+        "word": "成都街头200元一份的炒饭",
+        "onboard_time": 1733276420,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209853,
+        "num": 198536,
+        "word": "韩国在野党预计今日弹劾尹锡悦",
+        "onboard_time": 1733280018,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198476,
+        "num": 198476,
+        "word": "丁禹兮曾说自己无胸肌无腹肌",
+        "onboard_time": 1733279299,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182596,
+        "num": 182596,
+        "word": "迪丽热巴三登ELLE开年刊",
+        "onboard_time": 1733280439,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122062,
+        "num": 182241,
+        "word": "韩在野党将以内乱罪告发国防部长官",
+        "onboard_time": 1733284339,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182222,
+        "num": 182222,
+        "word": "韩国最大工会将进行无限期罢工",
+        "onboard_time": 1733282659,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178661,
+        "num": 178661,
+        "word": "央视曝光MCN包装素人网红陷阱",
+        "onboard_time": 1733275580,
+        "rank": 49,
+        "category": "网红,舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同洪森会谈#"
+    }
+  }
+}

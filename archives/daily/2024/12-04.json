@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733284216750,
+  "endTime": 1733286523962,
   "band_list": [
     {
       "raw_hot": 14003888,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2516423,
+      "num": 2516423,
+      "word": "太阳的后裔原型部队参与韩国戒严",
+      "onboard_time": 1733283138,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2084296,
       "num": 1033606,
       "word": "韩媒发布韩国军人撤出国会画面",
@@ -75,7 +83,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1438179,
+      "raw_hot": 1556841,
       "num": 785261,
       "word": "韩国朝野两大政党党首紧紧握手",
       "onboard_time": 1733281819,
@@ -180,11 +188,19 @@
     },
     {
       "raw_hot": 823318,
-      "num": 823318,
+      "num": 2522694,
       "word": "邢昭林玩麦琳的梗",
       "onboard_time": 1733279418,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 820120,
+      "num": 208604,
+      "word": "马斯克说被韩国戒严令惊到了",
+      "onboard_time": 1733285541,
+      "rank": 26,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 811098,
@@ -224,6 +240,14 @@
       "word": "韩国军队进入国会维持秩序",
       "onboard_time": 1733239886,
       "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 610174,
+      "num": 429751,
+      "word": "韩国1980年以来首次戒严",
+      "onboard_time": 1733271983,
+      "rank": 20,
       "category": "国际时政"
     },
     {
@@ -315,14 +339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 539464,
-      "num": 429751,
-      "word": "韩国1980年以来首次戒严",
-      "onboard_time": 1733271983,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 519077,
       "num": 404458,
       "word": "韩国总统宣布解除紧急戒严令",
@@ -411,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 465470,
+      "num": 769764,
+      "word": "海参厂老板赌球输2200万后自杀",
+      "onboard_time": 1733280079,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460215,
       "num": 460215,
       "word": "为啥一入冬就起床困难",
@@ -425,6 +449,14 @@
       "onboard_time": 1733231540,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457424,
+      "num": 660506,
+      "word": "韩戒严令事件冲击开始显现",
+      "onboard_time": 1733283258,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 442697,
@@ -449,14 +481,6 @@
       "onboard_time": 1733280737,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 429708,
-      "num": 769764,
-      "word": "海参厂老板赌球输2200万后自杀",
-      "onboard_time": 1733280079,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422094,
@@ -515,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 377696,
+      "num": 205009,
+      "word": "员工周末不响应工作老板退群裁员",
+      "onboard_time": 1733284941,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 364314,
       "num": 364314,
       "word": "结婚后才明白什么叫隐形家务",
@@ -539,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 333496,
+      "num": 209078,
+      "word": "江苏一公园将长条椅焊上钢管",
+      "onboard_time": 1733284819,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331906,
       "num": 453349,
       "word": "伸脚垫住摔倒老人后脑勺的男子找到了",
@@ -561,6 +601,22 @@
       "onboard_time": 1733245937,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 325896,
+      "num": 710004,
+      "word": "95后清华博士研发从空气中榨饮用水",
+      "onboard_time": 1733282779,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316984,
+      "num": 316984,
+      "word": "权志龙新歌被KBS判为不合格",
+      "onboard_time": 1733286202,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 314174,
@@ -611,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286905,
+      "num": 283836,
+      "word": "章子怡周冬雨聚餐",
+      "onboard_time": 1733285901,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285496,
       "num": 414332,
       "word": "徐明浩新EP",
@@ -633,6 +697,14 @@
       "onboard_time": 1733279299,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277008,
+      "num": 212475,
+      "word": "无限暖暖 配置",
+      "onboard_time": 1733284879,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 276841,
@@ -699,27 +771,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257111,
-      "num": 710004,
-      "word": "95后清华博士研发从空气中榨饮用水",
-      "onboard_time": 1733282779,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251915,
       "num": 251915,
       "word": "韩执政党称总统宣布紧急戒严错误",
       "onboard_time": 1733236165,
       "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 241565,
-      "num": 715455,
-      "word": "太阳的后裔原型部队参与韩国戒严",
-      "onboard_time": 1733283138,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -809,6 +865,14 @@
       "onboard_time": 1733274562,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 201905,
+      "num": 201905,
+      "word": "彩票中2.25亿男子已兑奖",
+      "onboard_time": 1733286322,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199941,
@@ -955,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142469,
+      "num": 210360,
+      "word": "恋与王安宇",
+      "onboard_time": 1733286202,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139370,
       "num": 156779,
       "word": "杨政放弃体测",
@@ -1003,11 +1075,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120854,
-      "num": 660506,
-      "word": "韩戒严令事件冲击开始显现",
-      "onboard_time": 1733283258,
-      "rank": 13,
+      "raw_hot": 124548,
+      "num": 209590,
+      "word": "Zeus获2024仁川年度人物奖",
+      "onboard_time": 1733286202,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122062,
+      "num": 182241,
+      "word": "韩在野党将以内乱罪告发国防部长官",
+      "onboard_time": 1733284339,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -1027,12 +1107,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118995,
+      "num": 277805,
+      "word": "尹锡悦的6小时戒严闹剧",
+      "onboard_time": 1733285840,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117187,
       "num": 219274,
       "word": "3岁萌娃携一家4代去看王一博",
       "onboard_time": 1733275819,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115376,
+      "num": 202799,
+      "word": "尖叫之夜主打passion",
+      "onboard_time": 1733284941,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 115300,
@@ -1057,6 +1153,22 @@
       "onboard_time": 1733279418,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 101181,
+      "num": 283327,
+      "word": "韩国最大在野党要求总统立即主动辞职",
+      "onboard_time": 1733286202,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 97034,
+      "num": 208247,
+      "word": "周深歌曲如许获五个一工程奖",
+      "onboard_time": 1733285480,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 95510,
@@ -1105,6 +1217,14 @@
       "onboard_time": 1733262013,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 84043,
+      "num": 204162,
+      "word": "我是刑警60秒回溯作案过程",
+      "onboard_time": 1733284941,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 83326,
@@ -1179,12 +1299,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66005,
+      "num": 280052,
+      "word": "韩国总统弹劾流程怎么走",
+      "onboard_time": 1733285901,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 65552,
+      "num": 211749,
+      "word": "于泽宇手写信道歉",
+      "onboard_time": 1733285960,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63021,
+      "num": 281717,
+      "word": "专家称大学生虐猫是生命教育有缺失",
+      "onboard_time": 1733285061,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60831,
       "num": 593742,
       "word": "在韩留学生称目前生活未受影响",
       "onboard_time": 1733278638,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60646,
+      "num": 571473,
+      "word": "华为何刚现场展示Mate70强得飞起",
+      "onboard_time": 1733283380,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 60581,
@@ -1275,11 +1427,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35992,
-      "num": 571473,
-      "word": "华为何刚现场展示Mate70强得飞起",
+      "raw_hot": 36044,
+      "num": 210018,
+      "word": "王一博真代言了剃须刀",
+      "onboard_time": 1733285361,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35132,
+      "num": 439103,
+      "word": "Mate70红枫原色影像拍得有多准",
       "onboard_time": 1733283380,
-      "rank": 19,
+      "rank": 29,
       "category": "数码"
     },
     {
@@ -1307,14 +1467,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 30817,
-      "num": 439103,
-      "word": "Mate70红枫原色影像拍得有多准",
-      "onboard_time": 1733283380,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 30297,
       "num": 302747,
       "word": "王一博画卷大片",
@@ -1329,6 +1481,14 @@
       "onboard_time": 1733248216,
       "rank": 40,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 28408,
+      "num": 207892,
+      "word": "8步选出合适的羽绒服",
+      "onboard_time": 1733286502,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27326,
@@ -1475,6 +1635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14397,
+      "num": 262544,
+      "word": "好多电影人在香奈儿大秀",
+      "onboard_time": 1733282840,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 13522,
       "num": 21618,
       "word": "我是刑警",
@@ -1497,14 +1665,6 @@
       "onboard_time": 1733246655,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10421,
-      "num": 262544,
-      "word": "好多电影人在香奈儿大秀",
-      "onboard_time": 1733282840,
-      "rank": 38,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 8500,
