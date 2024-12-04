@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733312199990,
+  "endTime": 1733316459758,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2982663,
+      "num": 2982663,
+      "word": "两度发现遗体博主将面临处罚",
+      "onboard_time": 1733314701,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2963856,
       "num": 2963856,
       "word": "琼瑶去世前悼念亡夫",
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1798105,
+      "num": 1214693,
+      "word": "林心如惊闻琼瑶去世哽咽到无法说话",
+      "onboard_time": 1733309543,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1699615,
       "num": 1699615,
       "word": "林心如",
@@ -193,6 +209,14 @@
       "onboard_time": 1733281819,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1509350,
+      "num": 1509350,
+      "word": "赵丽颖 愿您身处其中永远翩然",
+      "onboard_time": 1733313623,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1427084,
@@ -371,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 843793,
-      "num": 549211,
-      "word": "林心如惊闻琼瑶去世哽咽到无法说话",
-      "onboard_time": 1733309543,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 833047,
       "num": 153062,
       "word": "707",
@@ -425,6 +441,14 @@
       "onboard_time": 1733223620,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 757128,
+      "num": 757128,
+      "word": "湖南卫视发文告别琼瑶",
+      "onboard_time": 1733312122,
+      "rank": 20,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 730375,
@@ -513,6 +537,14 @@
       "onboard_time": 1733295499,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 682770,
+      "num": 682770,
+      "word": "永夜星河庆功宴",
+      "onboard_time": 1733314283,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 658257,
@@ -660,7 +692,7 @@
     },
     {
       "raw_hot": 548971,
-      "num": 548971,
+      "num": 749817,
       "word": "韩国财团对尹锡悦不满",
       "onboard_time": 1733306902,
       "rank": 26,
@@ -1011,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365575,
-      "num": 365575,
-      "word": "湖南卫视发文告别琼瑶",
-      "onboard_time": 1733312122,
-      "rank": 20,
-      "category": "读书作家,艺人"
-    },
-    {
       "raw_hot": 364314,
       "num": 364314,
       "word": "结婚后才明白什么叫隐形家务",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1733297257,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 361080,
+      "num": 361080,
+      "word": "张睿换枯叶蝶头像",
+      "onboard_time": 1733310861,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 359076,
@@ -1195,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 299191,
+      "num": 268329,
+      "word": "汪苏泷突然第一名",
+      "onboard_time": 1733311881,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296469,
       "num": 296469,
       "word": "刘诗诗高丸子头",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1733305763,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281371,
+      "num": 267188,
+      "word": "百万网红咖啡确诊直肠癌",
+      "onboard_time": 1733312601,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 280585,
@@ -1419,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249606,
+      "num": 249606,
+      "word": "奎八",
+      "onboard_time": 1733315062,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242399,
       "num": 819449,
       "word": "国乒vs德国",
@@ -1451,12 +1507,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 233283,
-      "num": 233283,
-      "word": "张睿换枯叶蝶头像",
-      "onboard_time": 1733310861,
-      "rank": 37,
+      "raw_hot": 233549,
+      "num": 233549,
+      "word": "刘浩存制服女高学姐",
+      "onboard_time": 1733312902,
+      "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231470,
+      "num": 231470,
+      "word": "你以为很懒其实很健康的行为",
+      "onboard_time": 1733313022,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 231336,
@@ -1588,7 +1652,7 @@
     },
     {
       "raw_hot": 212896,
-      "num": 241019,
+      "num": 272900,
       "word": "旅客带107.4万美元现金进境被查",
       "onboard_time": 1733310682,
       "rank": 43,
@@ -1617,6 +1681,14 @@
       "onboard_time": 1733301269,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205141,
+      "num": 275682,
+      "word": "琼瑶捧红近百名明星",
+      "onboard_time": 1733315603,
+      "rank": 17,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 204007,
@@ -1659,6 +1731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199481,
+      "num": 274322,
+      "word": "向太咋上去的",
+      "onboard_time": 1733315183,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198327,
       "num": 198327,
       "word": "世界之外",
@@ -1675,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196774,
+      "num": 251604,
+      "word": "高圆圆岁月不败美人具象化了",
+      "onboard_time": 1733314641,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189824,
       "num": 189824,
       "word": "深圳福彩回应80元中2.25亿",
@@ -1689,6 +1777,14 @@
       "onboard_time": 1733296410,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186848,
+      "num": 265880,
+      "word": "外交部回应韩国戒严风波",
+      "onboard_time": 1733314042,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186215,
@@ -1731,12 +1827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179367,
-      "num": 179367,
-      "word": "汪苏泷突然第一名",
-      "onboard_time": 1733311881,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 178427,
+      "num": 261424,
+      "word": "大爷瞒着孩子偷贷20万种虫草花",
+      "onboard_time": 1733314162,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177769,
@@ -1787,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168239,
+      "num": 168239,
+      "word": "我是刑警 没有一个镜头是浪费的",
+      "onboard_time": 1733314341,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167337,
       "num": 167337,
       "word": "鞠婧祎露芜衣原始帧",
@@ -1817,6 +1921,14 @@
       "onboard_time": 1733302945,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165910,
+      "num": 259990,
+      "word": "梁靖崑3比0孟繁博",
+      "onboard_time": 1733315963,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 164865,
@@ -1995,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145690,
+      "num": 145690,
+      "word": "阴阳师 目前已经完成取证",
+      "onboard_time": 1733313022,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142570,
       "num": 1619084,
       "word": "中国半导体行业协会发声明",
@@ -2019,12 +2139,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141947,
+      "num": 141947,
+      "word": "鞠婧祎再演恶女",
+      "onboard_time": 1733316264,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139848,
+      "num": 139848,
+      "word": "黄朔杨博文抽象版紫啧",
+      "onboard_time": 1733312181,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139621,
       "num": 139621,
       "word": "李佳航 感恩这一世与阿姨的相遇",
       "onboard_time": 1733309602,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139466,
+      "num": 139466,
+      "word": "丁禹兮剧里剧外都在请客",
+      "onboard_time": 1733316142,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 139370,
@@ -2067,12 +2211,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134609,
-      "num": 134609,
-      "word": "黄朔杨博文抽象版紫啧",
-      "onboard_time": 1733312181,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 131590,
+      "num": 250097,
+      "word": "国乒8比1德国",
+      "onboard_time": 1733315004,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 130515,
@@ -2241,6 +2385,14 @@
       "onboard_time": 1733271682,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114579,
+      "num": 517279,
+      "word": "官方通报一公园长椅被焊上钢管",
+      "onboard_time": 1733315243,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114550,
@@ -2419,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88367,
+      "num": 263767,
+      "word": "Jiejie发文感谢EDG",
+      "onboard_time": 1733315362,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87761,
       "num": 601667,
       "word": "福宝初步检查精神及食欲正常",
@@ -2449,6 +2609,14 @@
       "onboard_time": 1733264893,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83163,
+      "num": 258567,
+      "word": "小舞献祭callback",
+      "onboard_time": 1733313802,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 81694,
@@ -2611,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62017,
+      "num": 255242,
+      "word": "王一博又双叒叕拿奖啦",
+      "onboard_time": 1733315603,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60831,
       "num": 593742,
       "word": "在韩留学生称目前生活未受影响",
@@ -2705,6 +2881,14 @@
       "onboard_time": 1733308103,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54394,
+      "num": 181345,
+      "word": "现场观众齐喊孙颖莎雄起",
+      "onboard_time": 1733315122,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 54170,
@@ -3115,12 +3299,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 22238,
+      "num": 254179,
+      "word": "国际大秀缘何选择西湖",
+      "onboard_time": 1733313982,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 21406,
       "num": 334745,
       "word": "人生大事获五个一工程奖",
       "onboard_time": 1733284520,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21371,
+      "num": 182187,
+      "word": "藏在香奈儿服装细节里的八角",
+      "onboard_time": 1733313923,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 21063,
@@ -3299,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12012,
+      "num": 4389102,
+      "word": "京西有条文化带",
+      "onboard_time": 1733301088,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11989,
       "num": 406682,
       "word": "于泽宇暂停一切演艺活动",
@@ -3377,14 +3585,6 @@
       "onboard_time": 1733260931,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5785,
-      "num": 4389102,
-      "word": "京西有条文化带",
-      "onboard_time": 1733301088,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5768,
