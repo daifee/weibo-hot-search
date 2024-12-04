@@ -1,6 +1,6 @@
 {
   "startTime": 1733243424538,
-  "endTime": 1733317415720,
+  "endTime": 1733319212697,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -75,8 +75,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 3554991,
-      "num": 3554991,
+      "raw_hot": 3698017,
+      "num": 3698017,
       "word": "两度发现遗体博主将面临处罚",
       "onboard_time": 1733314701,
       "rank": 1,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1119100,
+      "num": 615383,
+      "word": "欧阳妮妮挺9月孕肚出门",
+      "onboard_time": 1733316923,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1103474,
       "num": 1103474,
       "word": "琼瑶 当雪花飘落",
@@ -312,6 +320,14 @@
       "word": "琼瑶7年前曾立遗嘱交代家人",
       "onboard_time": 1733301269,
       "rank": 15,
+      "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 1078089,
+      "num": 1078089,
+      "word": "琼瑶遗体初步检验结果公布",
+      "onboard_time": 1733317822,
+      "rank": 4,
       "category": "读书作家,艺人"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1733242406,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 970283,
+      "num": 740881,
+      "word": "永夜星河庆功宴",
+      "onboard_time": 1733314283,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 970149,
@@ -539,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 682770,
-      "num": 740881,
-      "word": "永夜星河庆功宴",
-      "onboard_time": 1733314283,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 658257,
       "num": 560533,
       "word": "白敬亭 脱了号就封了",
@@ -555,19 +571,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656782,
+      "num": 630696,
+      "word": "陈德容称琼瑶离世因丈夫去世打击大",
+      "onboard_time": 1733309122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631708,
       "num": 631708,
       "word": "还珠格格",
       "onboard_time": 1733296892,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 630696,
-      "num": 630696,
-      "word": "陈德容称琼瑶离世因丈夫去世打击大",
-      "onboard_time": 1733309122,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -891,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 456830,
+      "num": 456830,
+      "word": "李冰冰郑秀晶邓超同框",
+      "onboard_time": 1733317822,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 442697,
       "num": 5426674,
       "word": "香奈儿大秀 死亡打光",
@@ -955,12 +979,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 419596,
+      "num": 419596,
+      "word": "琼瑶捧红近百名明星",
+      "onboard_time": 1733315603,
+      "rank": 17,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 417515,
       "num": 164503,
       "word": "南韩汪峰",
       "onboard_time": 1733246057,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409957,
+      "num": 385799,
+      "word": "向太咋上去的",
+      "onboard_time": 1733315183,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 408552,
@@ -995,6 +1035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 392114,
+      "num": 583245,
+      "word": "网红博主猛蛇过江回应面临处罚",
+      "onboard_time": 1733317103,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 391822,
       "num": 631477,
       "word": "央视曝光MCN包装素人网红陷阱",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1733236946,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 385799,
-      "num": 385799,
-      "word": "向太咋上去的",
-      "onboard_time": 1733315183,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 381130,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1733289560,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358976,
+      "num": 282113,
+      "word": "星宝放饭",
+      "onboard_time": 1733318304,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 354898,
@@ -1203,14 +1251,6 @@
       "category": "电影,读书作家"
     },
     {
-      "raw_hot": 315286,
-      "num": 315286,
-      "word": "琼瑶捧红近百名明星",
-      "onboard_time": 1733315603,
-      "rank": 17,
-      "category": "读书作家,艺人"
-    },
-    {
       "raw_hot": 314174,
       "num": 314174,
       "word": "星穹铁道",
@@ -1283,14 +1323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 291870,
-      "num": 315271,
-      "word": "欧阳妮妮挺9月孕肚出门",
-      "onboard_time": 1733316923,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290697,
       "num": 225818,
       "word": "韩国国会主楼对峙冲突现场视频",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1733290520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283825,
+      "num": 283825,
+      "word": "大爷瞒着孩子偷贷20万种虫草花",
+      "onboard_time": 1733314162,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282394,
@@ -1435,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269927,
+      "num": 269927,
+      "word": "爱宝乐园正与中方专家沟通福宝状况",
+      "onboard_time": 1733317644,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269308,
       "num": 632136,
       "word": "SBS",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1733258830,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263199,
+      "num": 263199,
+      "word": "难哄过审",
+      "onboard_time": 1733319083,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 262457,
@@ -1547,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237621,
-      "num": 261424,
-      "word": "大爷瞒着孩子偷贷20万种虫草花",
-      "onboard_time": 1733314162,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236114,
       "num": 236114,
       "word": "丁禹兮 黑天使",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1733241625,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230879,
+      "num": 268093,
+      "word": "王楚钦孙颖莎新公式照",
+      "onboard_time": 1733317583,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 230093,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1733280378,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 223003,
+      "num": 223003,
+      "word": "周雨彤告别花少6",
+      "onboard_time": 1733316503,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 222508,
@@ -1699,6 +1763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210436,
+      "num": 210436,
+      "word": "乒超票价",
+      "onboard_time": 1733318422,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210015,
       "num": 210015,
       "word": "孟子义新任掌公主",
@@ -1747,6 +1819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201751,
+      "num": 201751,
+      "word": "拆解Mate70博主直呼自豪",
+      "onboard_time": 1733318123,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199941,
       "num": 402912,
       "word": "韩国执政党领导层要求尹锡悦退党",
@@ -1777,22 +1857,6 @@
       "onboard_time": 1733314641,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195836,
-      "num": 195836,
-      "word": "网红博主猛蛇过江回应面临处罚",
-      "onboard_time": 1733317103,
-      "rank": 34,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 194037,
-      "num": 194037,
-      "word": "周雨彤告别花少6",
-      "onboard_time": 1733316503,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 191921,
@@ -1907,6 +1971,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171202,
+      "num": 268161,
+      "word": "李冰冰51岁状态",
+      "onboard_time": 1733318664,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170998,
+      "num": 277506,
+      "word": "刘晓庆登顶玉龙雪山",
+      "onboard_time": 1733316622,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169809,
       "num": 169809,
       "word": "严浩翔新歌发布预告",
@@ -1987,12 +2067,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163570,
+      "num": 163570,
+      "word": "韩国万人集会要求尹锡悦下台",
+      "onboard_time": 1733318183,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162900,
       "num": 162900,
       "word": "近期还能去韩国旅游吗",
       "onboard_time": 1733282779,
       "rank": 45,
       "category": "国际时政,旅游"
+    },
+    {
+      "raw_hot": 161201,
+      "num": 161201,
+      "word": "我是刑警原型看了3500T监控素材",
+      "onboard_time": 1733317764,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 160444,
@@ -2049,6 +2145,14 @@
       "onboard_time": 1733300969,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156012,
+      "num": 156012,
+      "word": "韩国股市",
+      "onboard_time": 1733313682,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 155520,
@@ -2145,6 +2249,14 @@
       "onboard_time": 1733280079,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146533,
+      "num": 146533,
+      "word": "琼瑶曾说爱是人类最伟大美好的感情",
+      "onboard_time": 1733317822,
+      "rank": 44,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 146163,
@@ -2289,6 +2401,22 @@
       "onboard_time": 1733308582,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128229,
+      "num": 128229,
+      "word": "林青霞发声悼念琼瑶",
+      "onboard_time": 1733315362,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128046,
+      "num": 128046,
+      "word": "鞠婧祎问折耳根怎么吃好吃",
+      "onboard_time": 1733318724,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 126732,
@@ -2843,14 +2971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60932,
-      "num": 277506,
-      "word": "刘晓庆登顶玉龙雪山",
-      "onboard_time": 1733316622,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60831,
       "num": 593742,
       "word": "在韩留学生称目前生活未受影响",
@@ -3051,6 +3171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 44544,
+      "num": 431722,
+      "word": "2024年宪法宣传周",
+      "onboard_time": 1733317223,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43791,
       "num": 134612,
       "word": "诚C 努力我都有看到",
@@ -3235,6 +3363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31199,
+      "num": 284257,
+      "word": "张若昀张晚意周深狮子王角色写真",
+      "onboard_time": 1733316083,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30460,
       "num": 339601,
       "word": "张韶涵燃烧的生命力",
@@ -3337,6 +3473,14 @@
       "onboard_time": 1733280498,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 24899,
+      "num": 4389102,
+      "word": "京西有条文化带",
+      "onboard_time": 1733301088,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24272,
@@ -3547,14 +3691,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 14109,
-      "num": 4389102,
-      "word": "京西有条文化带",
-      "onboard_time": 1733301088,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13524,
       "num": 694270,
       "word": "琼瑶生前最后影像画面",
@@ -3673,14 +3809,6 @@
       "onboard_time": 1733309002,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5482,
-      "num": 400374,
-      "word": "2024年宪法宣传周",
-      "onboard_time": 1733317223,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4613,
