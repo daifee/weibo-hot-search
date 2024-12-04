@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733338064178,
+  "endTime": 1733340114888,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -195,6 +195,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 137196,
+      "num": 137196,
+      "word": "韩国的6小时40分钟",
+      "onboard_time": 1733335393,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135127,
       "num": 135127,
       "word": "韩国实施了一次很不严肃的全国戒严",
@@ -307,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90028,
-      "num": 94190,
-      "word": "韩国的6小时40分钟",
-      "onboard_time": 1733335393,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82798,
       "num": 82798,
       "word": "琼瑶去世前悼念亡夫",
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73040,
+      "num": 73040,
+      "word": "百万网红咖啡放弃直肠癌化疗",
+      "onboard_time": 1733334673,
+      "rank": 25,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 70568,
       "num": 74910,
       "word": "王楚钦孙颖莎新公式照",
@@ -411,7 +419,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55101,
+      "raw_hot": 55184,
       "num": 78070,
       "word": "韩国防部长致歉",
       "onboard_time": 1733333355,
@@ -459,14 +467,6 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 36352,
-      "num": 35842,
-      "word": "百万网红咖啡放弃直肠癌化疗",
-      "onboard_time": 1733334673,
-      "rank": 25,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 32283,
       "num": 36070,
       "word": "4个动作改善驼背",
@@ -499,12 +499,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17647,
+      "num": 17647,
+      "word": "知情人谈低俗网红祁天道被封",
+      "onboard_time": 1733338333,
+      "rank": 41,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 16479,
+      "num": 17396,
+      "word": "鞠婧祎开年刊",
+      "onboard_time": 1733338753,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 16065,
       "num": 128298,
       "word": "LNG官宣GALA离队",
       "onboard_time": 1733329398,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15876,
+      "num": 17386,
+      "word": "韩国防长致歉并递交辞呈",
+      "onboard_time": 1733339771,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12288,
