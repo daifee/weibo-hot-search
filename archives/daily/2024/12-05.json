@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733344856146,
+  "endTime": 1733347382122,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -451,20 +451,20 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 44667,
+      "num": 44667,
+      "word": "韩国紧急戒严令导火索",
+      "onboard_time": 1733341152,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41341,
       "num": 133822,
       "word": "迪丽热巴ELLE2025开年刊封面预告",
       "onboard_time": 1733326162,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 39206,
-      "num": 39206,
-      "word": "韩国紧急戒严令导火索",
-      "onboard_time": 1733341152,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39088,
@@ -491,20 +491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27587,
+      "num": 46728,
+      "word": "知情人谈低俗网红祁天道被封",
+      "onboard_time": 1733338333,
+      "rank": 41,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 27009,
       "num": 27009,
       "word": "丁禹兮首演警察",
       "onboard_time": 1733337852,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25684,
-      "num": 46728,
-      "word": "知情人谈低俗网红祁天道被封",
-      "onboard_time": 1733338333,
-      "rank": 41,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 25173,
@@ -547,6 +547,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15354,
+      "num": 39595,
+      "word": "韩国戒严令时间线",
+      "onboard_time": 1733343791,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 15346,
+      "num": 16011,
+      "word": "还珠3演员发文悼念琼瑶",
+      "onboard_time": 1733346250,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15223,
       "num": 40456,
       "word": "紧急戒严风波凸显韩国政治对立严重",
@@ -556,18 +572,10 @@
     },
     {
       "raw_hot": 13827,
-      "num": 15200,
+      "num": 15989,
       "word": "紧急戒严令适用于哪些情况",
       "onboard_time": 1733343132,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13205,
-      "num": 15197,
-      "word": "韩国戒严令时间线",
-      "onboard_time": 1733343791,
-      "rank": 49,
       "category": "国际时政"
     },
     {
