@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733380430822,
+  "endTime": 1733381257162,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 932930,
+      "num": 549869,
+      "word": "琼瑶离世前晚曾嘱咐儿媳来找自己",
+      "onboard_time": 1733378601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 931574,
       "num": 931574,
       "word": "杨子让黄圣依开了7个小时车",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 928876,
-      "num": 928876,
+      "num": 1136061,
       "word": "孙颖莎王楚钦击掌交接",
       "onboard_time": 1733378539,
       "rank": 1,
@@ -203,14 +211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 613584,
-      "num": 549869,
-      "word": "琼瑶离世前晚曾嘱咐儿媳来找自己",
-      "onboard_time": 1733378601,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 605439,
       "num": 605439,
       "word": "4类人特别适合喝咖啡",
@@ -273,6 +273,14 @@
       "onboard_time": 1733378059,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 523964,
+      "num": 549972,
+      "word": "国乒8比4韩国",
+      "onboard_time": 1733379619,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 509582,
@@ -451,8 +459,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336452,
+      "num": 336452,
+      "word": "女生学医归来成短剧女主",
+      "onboard_time": 1733379138,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335088,
-      "num": 335088,
+      "num": 774039,
       "word": "中国已有44项世界非遗",
       "onboard_time": 1733322744,
       "rank": 8,
@@ -465,6 +481,14 @@
       "onboard_time": 1733357900,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 329103,
+      "num": 261244,
+      "word": "麦琳李行亮要拍一辈子求婚照",
+      "onboard_time": 1733379500,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 319970,
@@ -529,14 +553,6 @@
       "onboard_time": 1733371879,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260810,
-      "num": 260810,
-      "word": "女生学医归来成短剧女主",
-      "onboard_time": 1733379138,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257863,
@@ -611,6 +627,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 228912,
+      "num": 228912,
+      "word": "低俗网红坐拥4000万粉谁该脸红",
+      "onboard_time": 1733379260,
+      "rank": 38,
+      "category": "议题讨论,网红"
+    },
+    {
       "raw_hot": 228501,
       "num": 228501,
       "word": "剧版哈利波特斯内普演员",
@@ -625,6 +649,22 @@
       "onboard_time": 1733367799,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227387,
+      "num": 227387,
+      "word": "女硕士走失13年侄女称收留者憨厚老实",
+      "onboard_time": 1733378000,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227297,
+      "num": 243047,
+      "word": "猎罪图鉴2定档",
+      "onboard_time": 1733379559,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 224351,
@@ -651,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219036,
-      "num": 261244,
-      "word": "麦琳李行亮要拍一辈子求婚照",
-      "onboard_time": 1733379500,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216767,
       "num": 172009,
       "word": "无限暖暖 华为平板进不去",
@@ -667,20 +699,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208175,
-      "num": 243047,
-      "word": "猎罪图鉴2定档",
-      "onboard_time": 1733379559,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 207512,
-      "num": 207512,
-      "word": "女硕士走失13年侄女称收留者憨厚老实",
-      "onboard_time": 1733378000,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 205882,
+      "num": 229242,
+      "word": "韩乒球员自嘲队服像椰汁瓶包装",
+      "onboard_time": 1733379920,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 204879,
@@ -763,12 +787,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194651,
-      "num": 549972,
-      "word": "国乒8比4韩国",
-      "onboard_time": 1733379619,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 194056,
+      "num": 194056,
+      "word": "男子花38万娶妻崩溃发现儿子非亲生",
+      "onboard_time": 1733380761,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192292,
@@ -795,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186687,
+      "num": 475889,
+      "word": "新疆棉花协会声明",
+      "onboard_time": 1733380400,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186152,
       "num": 566720,
       "word": "孙颖莎11比2金娜英",
@@ -811,12 +843,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184314,
+      "num": 261193,
+      "word": "广东人类精子库可选更像爸爸的精子",
+      "onboard_time": 1733380459,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183957,
       "num": 183957,
       "word": "尹锡悦提名新国防部长",
       "onboard_time": 1733358201,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183747,
+      "num": 183747,
+      "word": "法国",
+      "onboard_time": 1733376739,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 183233,
+      "num": 183233,
+      "word": "大学老师才是真正的顶流",
+      "onboard_time": 1733379200,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 182521,
@@ -875,28 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175054,
-      "num": 175054,
-      "word": "低俗网红坐拥4000万粉谁该脸红",
-      "onboard_time": 1733379260,
-      "rank": 38,
-      "category": "议题讨论,网红"
-    },
-    {
       "raw_hot": 173663,
       "num": 173663,
       "word": "韩国紧急戒严令导火索",
       "onboard_time": 1733341152,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 172392,
-      "num": 172392,
-      "word": "韩乒球员自嘲队服像椰汁瓶包装",
-      "onboard_time": 1733379920,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 172148,
@@ -915,12 +955,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 170199,
-      "num": 170199,
-      "word": "法国",
-      "onboard_time": 1733376739,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 170474,
+      "num": 302290,
+      "word": "十个勤天芭莎男士公益大片",
+      "onboard_time": 1733379860,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 169922,
@@ -1075,14 +1115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153711,
-      "num": 302290,
-      "word": "十个勤天芭莎男士公益大片",
-      "onboard_time": 1733379860,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 148255,
       "num": 148255,
       "word": "BLG宣布与ON续约至2025年",
@@ -1123,14 +1155,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 145383,
-      "num": 177163,
-      "word": "大学老师才是真正的顶流",
-      "onboard_time": 1733379200,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 145019,
       "num": 145019,
       "word": "检查结果互认致HIV感染者被拒诊",
@@ -1155,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143845,
+      "num": 211982,
+      "word": "九重紫首富从娃娃抓起",
+      "onboard_time": 1733380939,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141461,
       "num": 125118,
       "word": "秦岚很幸运成为阿姨笔下的知画和绿萍",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1733376739,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139084,
+      "num": 139084,
+      "word": "CCD版迪丽热巴",
+      "onboard_time": 1733380819,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 138854,
@@ -1339,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120724,
+      "num": 120724,
+      "word": "黑白森林精装的剧情毛坯的反派",
+      "onboard_time": 1733381120,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118508,
       "num": 243018,
       "word": "无限暖暖将限制未成年人游戏时间",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1733360660,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117620,
+      "num": 117620,
+      "word": "陈少熙发长文回应",
+      "onboard_time": 1733381178,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 117398,
@@ -1411,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110587,
+      "num": 110587,
+      "word": "国乒8比4拿下韩国",
+      "onboard_time": 1733381239,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108246,
       "num": 108246,
       "word": "还珠3演员发文悼念琼瑶",
@@ -1419,12 +1483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106775,
-      "num": 243398,
-      "word": "新疆棉花协会声明",
-      "onboard_time": 1733380400,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 106597,
+      "num": 969021,
+      "word": "文化中国行看文博热升温",
+      "onboard_time": 1733374041,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105400,
@@ -1683,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60341,
+      "num": 302693,
+      "word": "年轻人为什么爱上中国汉堡",
+      "onboard_time": 1733377280,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 59106,
       "num": 63519,
       "word": "张睿换枯叶蝶头像",
@@ -1723,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53047,
+      "num": 345650,
+      "word": "国乒混团五连胜",
+      "onboard_time": 1733380099,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51665,
       "num": 195221,
       "word": "管泽元报名参加澳门公开赛",
@@ -1745,14 +1825,6 @@
       "onboard_time": 1733373323,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 50649,
-      "num": 302693,
-      "word": "年轻人为什么爱上中国汉堡",
-      "onboard_time": 1733377280,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 47972,
@@ -1827,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33951,
+      "num": 121690,
+      "word": "高贵的无限暖暖公测玩家",
+      "onboard_time": 1733381000,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33518,
       "num": 173124,
       "word": "女性到底需要怎样的卫生巾",
@@ -1867,14 +1947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 28862,
-      "num": 969021,
-      "word": "文化中国行看文博热升温",
-      "onboard_time": 1733374041,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 28385,
       "num": 36068,
       "word": "黄东萍杂志",
@@ -1905,14 +1977,6 @@
       "onboard_time": 1733344460,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25001,
-      "num": 345650,
-      "word": "国乒混团五连胜",
-      "onboard_time": 1733380099,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 22220,
