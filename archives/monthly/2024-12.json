@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733397634419,
+  "endTime": 1733398547201,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -409,6 +409,14 @@
       "onboard_time": 1733321663,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1644599,
+      "num": 1644599,
+      "word": "王楚钦孙颖莎今晚出战混双",
+      "onboard_time": 1733394978,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1634886,
@@ -971,12 +979,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1052395,
-      "num": 1168383,
-      "word": "王楚钦孙颖莎今晚出战混双",
-      "onboard_time": 1733394978,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 1052473,
+      "num": 1052473,
+      "word": "李行亮被活动除名",
+      "onboard_time": 1733394199,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1049054,
@@ -1051,12 +1059,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1013084,
-      "num": 1013084,
-      "word": "李行亮被活动除名",
-      "onboard_time": 1733394199,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 1014970,
+      "num": 1014970,
+      "word": "莎头好久不见",
+      "onboard_time": 1733397019,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 1011676,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1733134099,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 974629,
+      "num": 974629,
+      "word": "Gemini当爸爸了",
+      "onboard_time": 1733397019,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 973542,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1733142205,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 953985,
+      "num": 953985,
+      "word": "迪丽热巴邓为于适同框",
+      "onboard_time": 1733397379,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 951829,
@@ -1545,6 +1569,14 @@
       "onboard_time": 1733058919,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 789025,
+      "num": 789025,
+      "word": "杨子这期选离婚",
+      "onboard_time": 1733396659,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 788291,
@@ -2113,14 +2145,6 @@
       "onboard_time": 1733192359,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 620466,
-      "num": 620466,
-      "word": "Gemini当爸爸了",
-      "onboard_time": 1733397019,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 619690,
@@ -2883,14 +2907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 482727,
-      "num": 318376,
-      "word": "杨子这期选离婚",
-      "onboard_time": 1733396659,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 482551,
       "num": 482551,
       "word": "韩国执政党讨论尹锡悦退党等问题",
@@ -2985,6 +3001,14 @@
       "onboard_time": 1733124078,
       "rank": 23,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 468979,
+      "num": 468979,
+      "word": "Rose前男友是谁",
+      "onboard_time": 1733397199,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 466187,
@@ -3564,7 +3588,7 @@
     },
     {
       "raw_hot": 413527,
-      "num": 268224,
+      "num": 287494,
       "word": "六旬老人尝试高危性行为感染艾滋病",
       "onboard_time": 1733392460,
       "rank": 25,
@@ -4267,6 +4291,14 @@
       "category": "互联网,音乐"
     },
     {
+      "raw_hot": 343814,
+      "num": 343814,
+      "word": "排便出现3个变化是肠癌征兆",
+      "onboard_time": 1733397740,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 343705,
       "num": 389393,
       "word": "李一桐 30多岁正是不想谈恋爱的年纪",
@@ -4345,14 +4377,6 @@
       "onboard_time": 1733220560,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 338217,
-      "num": 338217,
-      "word": "迪丽热巴邓为于适同框",
-      "onboard_time": 1733397379,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 337020,
@@ -4649,6 +4673,14 @@
       "onboard_time": 1733188218,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 309351,
+      "num": 309351,
+      "word": "女子为让男子离婚给原配转账120万",
+      "onboard_time": 1733397857,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308293,
@@ -4977,6 +5009,14 @@
       "onboard_time": 1733290520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283627,
+      "num": 283627,
+      "word": "3岁失去妈妈30年后看到她的样子",
+      "onboard_time": 1733397560,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 282829,
@@ -5507,14 +5547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 252183,
-      "num": 252183,
-      "word": "莎头好久不见",
-      "onboard_time": 1733397019,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251627,
       "num": 224680,
       "word": "向佐主打一个错峰理发",
@@ -5915,14 +5947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232756,
-      "num": 232756,
-      "word": "Rose前男友是谁",
-      "onboard_time": 1733397199,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232755,
       "num": 232755,
       "word": "5000年前的日出曾被这样记录下来",
@@ -5969,6 +5993,14 @@
       "onboard_time": 1733107457,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230616,
+      "num": 230616,
+      "word": "月薪4000被诱导购买丰胸产品逾40万",
+      "onboard_time": 1733396779,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230323,
@@ -6113,6 +6145,14 @@
       "onboard_time": 1733129420,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 226355,
+      "num": 287343,
+      "word": "潘展乐追星成功",
+      "onboard_time": 1733398222,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 226102,
@@ -7635,8 +7675,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 190593,
-      "num": 210456,
+      "raw_hot": 190672,
+      "num": 240813,
       "word": "谭松韵红裙",
       "onboard_time": 1733395520,
       "rank": 28,
@@ -8827,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167809,
+      "num": 167809,
+      "word": "虞书欣庆功宴座位",
+      "onboard_time": 1733398340,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "44项来自中国的非遗瑰宝",
@@ -9057,14 +9105,6 @@
       "onboard_time": 1733203120,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164214,
-      "num": 164214,
-      "word": "月薪4000被诱导购买丰胸产品逾40万",
-      "onboard_time": 1733396779,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164207,
@@ -9643,6 +9683,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 154917,
+      "num": 154917,
+      "word": "郑业成在我首页转一天扇子了",
+      "onboard_time": 1733397440,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154852,
       "num": 260881,
       "word": "盘点2024",
@@ -9809,14 +9857,6 @@
       "onboard_time": 1733325562,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151389,
-      "num": 151389,
-      "word": "郑业成在我首页转一天扇子了",
-      "onboard_time": 1733397440,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 151134,
@@ -10025,6 +10065,14 @@
       "onboard_time": 1733144246,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148554,
+      "num": 148554,
+      "word": "麦子阿姨 妈妈的另一种人生",
+      "onboard_time": 1733398460,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148291,
@@ -10403,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141938,
+      "num": 404291,
+      "word": "莎头混双首战开门红",
+      "onboard_time": 1733398222,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141916,
       "num": 305400,
       "word": "母亲带女儿住在无水无电的烂尾楼里",
@@ -10529,6 +10585,14 @@
       "onboard_time": 1733030299,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139656,
+      "num": 139656,
+      "word": "马龙发文告别台湾行",
+      "onboard_time": 1733397920,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139637,
@@ -10889,14 +10953,6 @@
       "onboard_time": 1733178614,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 134848,
-      "num": 134848,
-      "word": "3岁失去妈妈30年后看到她的样子",
-      "onboard_time": 1733397560,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 134826,
@@ -11497,6 +11553,14 @@
       "onboard_time": 1733225721,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123151,
+      "num": 162007,
+      "word": "国乒vs中国香港对阵名单",
+      "onboard_time": 1733397618,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 123091,
@@ -15043,6 +15107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52249,
+      "num": 287861,
+      "word": "博物馆文物发霉值得反思",
+      "onboard_time": 1733396959,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 52239,
       "num": 355296,
       "word": "黄子弘凡OneRepublic同台合作",
@@ -15436,7 +15508,7 @@
     },
     {
       "raw_hot": 44682,
-      "num": 774025,
+      "num": 1017264,
       "word": "北京人的北京地儿",
       "onboard_time": 1733386818,
       "rank": 2,
@@ -15609,6 +15681,14 @@
       "onboard_time": 1733008814,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41847,
+      "num": 472467,
+      "word": "他们不愿花1秒钟了解新疆的真相",
+      "onboard_time": 1733397740,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 41653,
@@ -15907,14 +15987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37809,
-      "num": 229886,
-      "word": "博物馆文物发霉值得反思",
-      "onboard_time": 1733396959,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 37714,
       "num": 308603,
       "word": "大学生实习遇培训贷陷阱被贷款2万",
@@ -16081,6 +16153,14 @@
       "onboard_time": 1733223920,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 35548,
+      "num": 287705,
+      "word": "演唱会电影是演唱会平替吗",
+      "onboard_time": 1733396719,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 35382,
@@ -16651,14 +16731,6 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 28352,
-      "num": 255734,
-      "word": "演唱会电影是演唱会平替吗",
-      "onboard_time": 1733396719,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 28348,
       "num": 135774,
       "word": "Tarzan加入AL",
@@ -17187,6 +17259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22424,
+      "num": 164601,
+      "word": "刘雯开场的大衣有4000枚亮片",
+      "onboard_time": 1733396179,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 22244,
       "num": 318132,
       "word": "律师称目前无法认定王宝强合同欺诈",
@@ -17323,6 +17403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20107,
+      "num": 287418,
+      "word": "陈少熙感恩留下的朋友",
+      "onboard_time": 1733398281,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20093,
       "num": 315505,
       "word": "男子网购减肥糖果发现内含违禁成分",
@@ -17427,6 +17515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18735,
+      "num": 156694,
+      "word": "赵一博芭莎艺术",
+      "onboard_time": 1733392340,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18668,
       "num": 253817,
       "word": "前9月韩国游客大增146%",
@@ -17499,6 +17595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17885,
+      "num": 287910,
+      "word": "王曼昱vs杜凯琹",
+      "onboard_time": 1733398460,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17832,
       "num": 1107430,
       "word": "微观链博会",
@@ -17561,14 +17665,6 @@
       "onboard_time": 1733382799,
       "rank": 22,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 17049,
-      "num": 164601,
-      "word": "刘雯开场的大衣有4000枚亮片",
-      "onboard_time": 1733396179,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 16988,
