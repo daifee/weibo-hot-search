@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733402859027,
+  "endTime": 1733403822755,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -17,6 +17,14 @@
       "onboard_time": 1733391379,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2604623,
+      "num": 2604623,
+      "word": "挖呀挖黄老师疑开豪车引热议",
+      "onboard_time": 1733401820,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2395013,
@@ -96,14 +104,6 @@
       "word": "司机拒绝接受检查突然逃逸跳桥身亡",
       "onboard_time": 1733393061,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1290105,
-      "num": 1290105,
-      "word": "挖呀挖黄老师疑开豪车引热议",
-      "onboard_time": 1733401820,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232053,
+      "num": 232053,
+      "word": "莎头采访",
+      "onboard_time": 1733403140,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230616,
       "num": 230616,
       "word": "月薪4000被诱导购买丰胸产品逾40万",
@@ -1507,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178148,
+      "num": 178148,
+      "word": "中国人碗里赏春的浪漫流传了几千年",
+      "onboard_time": 1733403260,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177859,
       "num": 177859,
       "word": "团建不能停",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1733356158,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176148,
+      "num": 176148,
+      "word": "还珠格格 公主坟",
+      "onboard_time": 1733403140,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 175829,
@@ -1643,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165565,
+      "num": 185023,
+      "word": "我是刑警眼睛看废了",
+      "onboard_time": 1733401939,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164962,
       "num": 164962,
       "word": "朱一龙长发",
@@ -1689,6 +1721,22 @@
       "onboard_time": 1733374820,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161839,
+      "num": 161839,
+      "word": "张桂梅的学生又回来建设家乡",
+      "onboard_time": 1733402841,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 160715,
+      "num": 160715,
+      "word": "熟悉的莎头味",
+      "onboard_time": 1733403260,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 160295,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1733375241,
       "rank": 43,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 147960,
+      "num": 147960,
+      "word": "易烊千玺音乐会有十首歌",
+      "onboard_time": 1733403559,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 147903,
@@ -2051,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137016,
+      "num": 137016,
+      "word": "丁禹兮寸头",
+      "onboard_time": 1733399720,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "日乒选手希望像孙颖莎打球那么好",
@@ -2073,14 +2137,6 @@
       "onboard_time": 1733388080,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135643,
-      "num": 135643,
-      "word": "丁禹兮寸头",
-      "onboard_time": 1733399720,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 135368,
@@ -2171,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129091,
-      "num": 185023,
-      "word": "我是刑警眼睛看废了",
-      "onboard_time": 1733401939,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127603,
       "num": 127603,
       "word": "无限暖暖声明",
@@ -2265,6 +2313,14 @@
       "onboard_time": 1733376319,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122606,
+      "num": 122606,
+      "word": "莎头得分现场欢呼声像海浪",
+      "onboard_time": 1733403319,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122444,
@@ -2409,14 +2465,6 @@
       "onboard_time": 1733381239,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109579,
-      "num": 109579,
-      "word": "张桂梅的学生又回来建设家乡",
-      "onboard_time": 1733402841,
-      "rank": 45,
-      "category": "正能量"
     },
     {
       "raw_hot": 109053,
@@ -2875,6 +2923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 60253,
+      "num": 204014,
+      "word": "Wendy唱了她说",
+      "onboard_time": 1733403380,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59983,
       "num": 277050,
       "word": "部落冲突",
@@ -3099,6 +3155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 39215,
+      "num": 225129,
+      "word": "我是刑警配音",
+      "onboard_time": 1733403140,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39088,
       "num": 42265,
       "word": "刘涛悼念琼瑶",
@@ -3153,6 +3217,14 @@
       "onboard_time": 1733374342,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33467,
+      "num": 199674,
+      "word": "2024F1阿布扎比大奖赛",
+      "onboard_time": 1733403019,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33181,
@@ -3217,6 +3289,14 @@
       "onboard_time": 1733389519,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 27211,
+      "num": 319887,
+      "word": "没有年三十影响假期吗",
+      "onboard_time": 1733403800,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 27063,
@@ -3387,6 +3467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17630,
+      "num": 185464,
+      "word": "娱乐博主诽谤孙红雷被判道歉赔偿",
+      "onboard_time": 1733402359,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17483,
       "num": 149373,
       "word": "这件易烊千玺我先带走啦",
@@ -3435,14 +3523,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 15391,
-      "num": 179979,
-      "word": "娱乐博主诽谤孙红雷被判道歉赔偿",
-      "onboard_time": 1733402359,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15223,
       "num": 40456,
       "word": "紧急戒严风波凸显韩国政治对立严重",
@@ -3459,28 +3539,28 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 13639,
-      "num": 195375,
-      "word": "不要放过这个网球风的易烊千玺",
-      "onboard_time": 1733394680,
-      "rank": 38,
-      "category": "作品衍生,时尚"
+      "raw_hot": 14282,
+      "num": 115769,
+      "word": "暖暖美神降临",
+      "onboard_time": 1733399360,
+      "rank": 47,
+      "category": "游戏"
     },
     {
-      "raw_hot": 13080,
-      "num": 134530,
+      "raw_hot": 14057,
+      "num": 151123,
       "word": "香奈儿高级手工坊绝美细节图",
       "onboard_time": 1733400560,
       "rank": 38,
       "category": "时尚"
     },
     {
-      "raw_hot": 12897,
-      "num": 105634,
-      "word": "暖暖美神降临",
-      "onboard_time": 1733399360,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 13639,
+      "num": 195375,
+      "word": "不要放过这个网球风的易烊千玺",
+      "onboard_time": 1733394680,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 12326,
@@ -3497,6 +3577,14 @@
       "onboard_time": 1733319565,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11418,
+      "num": 209599,
+      "word": "丧偶式婚姻的家庭温情课",
+      "onboard_time": 1733403440,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 11096,
