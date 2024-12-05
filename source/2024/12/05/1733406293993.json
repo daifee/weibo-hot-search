@@ -1,0 +1,410 @@
+{
+  "runTime": 1733406293993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2708569,
+        "num": 2708569,
+        "word": "挖呀挖黄老师疑开豪车引热议",
+        "onboard_time": 1733401820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716230,
+        "num": 716230,
+        "word": "3岁失去妈妈30年后看到她的样子",
+        "onboard_time": 1733397560,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17791,
+        "num": 647883,
+        "word": "盘点2024国之重器",
+        "onboard_time": 1733405961,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 644623,
+        "num": 644623,
+        "word": "国产剧最狠罪犯坟地健身徒步回村",
+        "onboard_time": 1733404758,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604446,
+        "num": 604446,
+        "word": "猎罪图鉴2开局就是第十二单元",
+        "onboard_time": 1733401519,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594924,
+        "num": 594924,
+        "word": "孙颖莎 彼此之间的信任一直都在",
+        "onboard_time": 1733403980,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490664,
+        "num": 490664,
+        "word": "还珠格格 公主坟",
+        "onboard_time": 1733403140,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489269,
+        "num": 489269,
+        "word": "莎头采访",
+        "onboard_time": 1733403140,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475011,
+        "num": 475011,
+        "word": "李行亮被活动除名",
+        "onboard_time": 1733394199,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157780,
+        "num": 463195,
+        "word": "中国人碗里赏春的浪漫流传了几千年",
+        "onboard_time": 1733403260,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460870,
+        "num": 460870,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373420,
+        "num": 373420,
+        "word": "迪丽热巴小小的脸上全是五官",
+        "onboard_time": 1733401160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26406,
+        "num": 345990,
+        "word": "8城偶遇易烊千玺",
+        "onboard_time": 1733404099,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336076,
+        "num": 336076,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325197,
+        "num": 325197,
+        "word": "上海一男子花300多万买到凶宅",
+        "onboard_time": 1733399360,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317316,
+        "num": 317316,
+        "word": "王楚钦孙颖莎今晚出战混双",
+        "onboard_time": 1733394978,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221008,
+        "num": 221008,
+        "word": "女子为让男子离婚给原配转账120万",
+        "onboard_time": 1733397857,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204086,
+        "num": 204086,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46047,
+        "num": 173468,
+        "word": "猎罪图鉴北江群众双向奔赴",
+        "onboard_time": 1733405060,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168588,
+        "num": 168588,
+        "word": "张桂梅的学生又回来建设家乡",
+        "onboard_time": 1733402841,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 991457,
+        "num": 168573,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228708,
+        "num": 168332,
+        "word": "倪妮 每次走红毯都不自信",
+        "onboard_time": 1733405120,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458302,
+        "num": 167929,
+        "word": "杨子这期选离婚",
+        "onboard_time": 1733396659,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335903,
+        "num": 167692,
+        "word": "六旬老人尝试高危性行为感染艾滋病",
+        "onboard_time": 1733392460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96477,
+        "num": 167651,
+        "word": "莎头得分现场欢呼声像海浪",
+        "onboard_time": 1733403319,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318530,
+        "num": 167439,
+        "word": "周杰伦大巨蛋演唱会",
+        "onboard_time": 1733404341,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283640,
+        "num": 167144,
+        "word": "成毅 祖玛珑",
+        "onboard_time": 1733405120,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30072,
+        "num": 166978,
+        "word": "张凌赫工作室告黑进展",
+        "onboard_time": 1733405180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263884,
+        "num": 166568,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6521,
+        "num": 166486,
+        "word": "被易烊千玺的复古时尚硬控",
+        "onboard_time": 1733405302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240086,
+        "num": 166162,
+        "word": "Gemini当爸爸了",
+        "onboard_time": 1733397019,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8875,
+        "num": 165944,
+        "word": "文化中国行看文博热升温",
+        "onboard_time": 1733374041,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 227569,
+        "num": 165706,
+        "word": "朴成焄鱿鱼游戏2演跨性别女性",
+        "onboard_time": 1733403980,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202935,
+        "num": 165505,
+        "word": "肖秀荣 最新时政补充",
+        "onboard_time": 1733405302,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192987,
+        "num": 165308,
+        "word": "为什么羽绒服里面穿短袖更暖和",
+        "onboard_time": 1733385500,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190290,
+        "num": 165196,
+        "word": "九重紫放饭了",
+        "onboard_time": 1733405180,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188715,
+        "num": 164926,
+        "word": "为什么不能让她们提前知道痛苦",
+        "onboard_time": 1733404821,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 186224,
+        "num": 164630,
+        "word": "Rose前男友是谁",
+        "onboard_time": 1733397199,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19695,
+        "num": 164332,
+        "word": "暖暖的裙子会唱歌",
+        "onboard_time": 1733404341,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183139,
+        "num": 164160,
+        "word": "赵露思短发bobo头",
+        "onboard_time": 1733398760,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164098,
+        "num": 164098,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162680,
+        "num": 162680,
+        "word": "摊贩没钱交罚款被城管要求去借钱",
+        "onboard_time": 1733400259,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153779,
+        "num": 153779,
+        "word": "熟悉的莎头味",
+        "onboard_time": 1733403260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145884,
+        "num": 145884,
+        "word": "杨紫apm红色大片",
+        "onboard_time": 1733404821,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125073,
+        "num": 125073,
+        "word": "医保账户家庭共济模式再升级",
+        "onboard_time": 1733399960,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124237,
+        "num": 124237,
+        "word": "偶遇黄子弘凡后台学棍花",
+        "onboard_time": 1733406081,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115814,
+        "num": 115814,
+        "word": "Wendy唱了她说",
+        "onboard_time": 1733403380,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115290,
+        "num": 115290,
+        "word": "外交部批BBC呼吁停用新疆番茄",
+        "onboard_time": 1733395640,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113978,
+        "num": 113978,
+        "word": "中国首枚可回收火箭有望明年运营",
+        "onboard_time": 1733406019,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112485,
+        "num": 112485,
+        "word": "潘展乐追星成功",
+        "onboard_time": 1733398222,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设一支强大的现代化信息支援部队#"
+    }
+  }
+}
