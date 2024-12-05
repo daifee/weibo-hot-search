@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733390765037,
+  "endTime": 1733391606495,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1603,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 732394,
+      "num": 213801,
+      "word": "1岁男童在父母怀中看完烟花离世",
+      "onboard_time": 1733390480,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730375,
       "num": 730375,
       "word": "陈志朋女装合同续给向佐了",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1733181915,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 690398,
+      "num": 690398,
+      "word": "模仿吴艳妮主播被禁止发作品",
+      "onboard_time": 1733389098,
+      "rank": 7,
+      "category": "网红,体育"
     },
     {
       "raw_hot": 688709,
@@ -3203,14 +3219,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 438290,
-      "num": 438290,
-      "word": "模仿吴艳妮主播被禁止发作品",
-      "onboard_time": 1733389098,
-      "rank": 7,
-      "category": "网红,体育"
-    },
-    {
       "raw_hot": 437313,
       "num": 437313,
       "word": "四大扛剧女演员",
@@ -3601,14 +3609,6 @@
       "onboard_time": 1733060960,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 397843,
-      "num": 213801,
-      "word": "1岁男童在父母怀中看完烟花离世",
-      "onboard_time": 1733390480,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 397510,
@@ -4499,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312493,
+      "num": 312493,
+      "word": "朴彩英自曝恋爱",
+      "onboard_time": 1733391379,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311357,
       "num": 829202,
       "word": "菲律宾公务船恶意擦碰中国海警船",
@@ -5067,6 +5075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269995,
+      "num": 236794,
+      "word": "杨紫直播",
+      "onboard_time": 1733389818,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269545,
       "num": 223678,
       "word": "好运家 儿子27岁妈妈还可以随便亲吗",
@@ -5355,11 +5371,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251627,
+      "num": 219740,
+      "word": "向佐主打一个错峰理发",
+      "onboard_time": 1733390599,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250948,
       "num": 208437,
       "word": "范丞丞希望粉丝对工作室嘴下留情",
       "onboard_time": 1732978522,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250361,
+      "num": 207661,
+      "word": "于正删除了对琼瑶的道歉函",
+      "onboard_time": 1733391439,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -5640,14 +5672,6 @@
       "word": "田嘉瑞晒陈好送的500号魔杖",
       "onboard_time": 1733239464,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 236794,
-      "num": 236794,
-      "word": "杨紫直播",
-      "onboard_time": 1733389818,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -6611,6 +6635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207445,
+      "num": 211887,
+      "word": "人人影视将二十年数据开源分享",
+      "onboard_time": 1733389878,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 207224,
       "num": 207224,
       "word": "女兵服役12年退伍向张桂梅报到",
@@ -7379,6 +7411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191170,
+      "num": 191170,
+      "word": "福宝发抖原因正逐步排查",
+      "onboard_time": 1733390660,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191023,
       "num": 210131,
       "word": "原神",
@@ -8139,6 +8179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175829,
+      "num": 175829,
+      "word": "就这个吴磊冷脸爽",
+      "onboard_time": 1733387478,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175634,
       "num": 175634,
       "word": "妻子与他人结婚还让丈夫出婚房钱",
@@ -8491,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169432,
+      "num": 169432,
+      "word": "祁天道夫妇诈骗期间负责团伙宣传",
+      "onboard_time": 1733390840,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 169175,
       "num": 169175,
       "word": "现在拨打的电话",
@@ -8529,14 +8585,6 @@
       "onboard_time": 1733314341,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168238,
-      "num": 170772,
-      "word": "就这个吴磊冷脸爽",
-      "onboard_time": 1733387478,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 168089,
@@ -8665,14 +8713,6 @@
       "onboard_time": 1733145083,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166040,
-      "num": 211887,
-      "word": "人人影视将二十年数据开源分享",
-      "onboard_time": 1733389878,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 166035,
@@ -9659,6 +9699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149581,
+      "num": 212722,
+      "word": "潘展乐的奥运金牌已被博物馆收藏",
+      "onboard_time": 1733390719,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149472,
       "num": 149472,
       "word": "林青霞发声悼念琼瑶",
@@ -9753,14 +9801,6 @@
       "onboard_time": 1733283500,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 147369,
-      "num": 147369,
-      "word": "福宝发抖原因正逐步排查",
-      "onboard_time": 1733390660,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147346,
@@ -9937,6 +9977,14 @@
       "onboard_time": 1733122339,
       "rank": 40,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 144995,
+      "num": 144995,
+      "word": "苹果小米并列Q3全球腕带设备销量第一",
+      "onboard_time": 1733391020,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 144944,
@@ -10283,6 +10331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139099,
+      "num": 139099,
+      "word": "福宝干饭吃得干干净净",
+      "onboard_time": 1733391319,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139084,
       "num": 139084,
       "word": "CCD版迪丽热巴",
@@ -10305,6 +10361,14 @@
       "onboard_time": 1733278219,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138641,
+      "num": 138641,
+      "word": "法国总理递交辞呈",
+      "onboard_time": 1733391201,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138524,
@@ -10345,6 +10409,14 @@
       "onboard_time": 1733050400,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138243,
+      "num": 138243,
+      "word": "是谁在纵容祁天道",
+      "onboard_time": 1733391439,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 138203,
@@ -10457,6 +10529,14 @@
       "onboard_time": 1733307023,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 136302,
+      "num": 136302,
+      "word": "方圆八百米开机",
+      "onboard_time": 1733390897,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 136207,
@@ -10825,14 +10905,6 @@
       "onboard_time": 1733269219,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128592,
-      "num": 212722,
-      "word": "潘展乐的奥运金牌已被博物馆收藏",
-      "onboard_time": 1733390719,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 128529,
@@ -11377,6 +11449,14 @@
       "onboard_time": 1733077213,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 120299,
+      "num": 352137,
+      "word": "周深希望用歌声拥抱听众",
+      "onboard_time": 1733391078,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 119626,
@@ -13099,14 +13179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81552,
-      "num": 219740,
-      "word": "向佐主打一个错峰理发",
-      "onboard_time": 1733390599,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81461,
       "num": 357837,
       "word": "官方通报药王谷抗癌中心调查事件",
@@ -14683,6 +14755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51519,
+      "num": 209404,
+      "word": "琼瑶家人公告",
+      "onboard_time": 1733391379,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51327,
+      "num": 209513,
+      "word": "周翊然张予曦还原三舞名场面",
+      "onboard_time": 1733391078,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51215,
       "num": 490613,
       "word": "王宝强律师回应被指给演员签卖身契",
@@ -15209,6 +15297,14 @@
       "onboard_time": 1733129120,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 41023,
+      "num": 316491,
+      "word": "对大牌彩妆祛魅了",
+      "onboard_time": 1733389219,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 40732,
@@ -16009,14 +16105,6 @@
       "onboard_time": 1733368219,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30747,
-      "num": 295343,
-      "word": "对大牌彩妆祛魅了",
-      "onboard_time": 1733389219,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 30579,
@@ -17475,6 +17563,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 11096,
+      "num": 169264,
+      "word": "这件夹克为啥能火50年",
+      "onboard_time": 1733390360,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 10885,
       "num": 34516,
       "word": "目击者称被恶犬撕咬女子送医救治",
@@ -17577,14 +17673,6 @@
       "onboard_time": 1733082910,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7647,
-      "num": 169264,
-      "word": "这件夹克为啥能火50年",
-      "onboard_time": 1733390360,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 7629,

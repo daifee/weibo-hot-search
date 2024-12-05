@@ -1,0 +1,410 @@
+{
+  "runTime": 1733391606495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1307785,
+        "num": 1307785,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1063520,
+        "num": 1063520,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16465,
+        "num": 747544,
+        "word": "北京人的北京地儿",
+        "onboard_time": 1733386818,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1550939,
+        "num": 723028,
+        "word": "女硕士",
+        "onboard_time": 1733387658,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690398,
+        "num": 690398,
+        "word": "模仿吴艳妮主播被禁止发作品",
+        "onboard_time": 1733389098,
+        "rank": 4,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 449348,
+        "num": 449348,
+        "word": "188元买的100%山羊绒衫实为0羊绒",
+        "onboard_time": 1733383219,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 457760,
+        "num": 449066,
+        "word": "林珍娜蔡钟硕恋情",
+        "onboard_time": 1733387059,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446983,
+        "num": 446983,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 361491,
+        "num": 361491,
+        "word": "广东人类精子库可选更像爸爸的精子",
+        "onboard_time": 1733380459,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120299,
+        "num": 352137,
+        "word": "周深希望用歌声拥抱听众",
+        "onboard_time": 1733391078,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405267,
+        "num": 351642,
+        "word": "男子花38万娶妻崩溃发现儿子非亲生",
+        "onboard_time": 1733380761,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398853,
+        "num": 351363,
+        "word": "低俗网红坐拥4000万粉谁该脸红",
+        "onboard_time": 1733379260,
+        "rank": 11,
+        "category": "议题讨论,网红"
+      },
+      {
+        "raw_hot": 348919,
+        "num": 348919,
+        "word": "李行亮麦琳 妻子的浪漫旅行",
+        "onboard_time": 1733374161,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343417,
+        "num": 343417,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41023,
+        "num": 316491,
+        "word": "对大牌彩妆祛魅了",
+        "onboard_time": 1733389219,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 312493,
+        "num": 312493,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45217,
+        "num": 219697,
+        "word": "文化中国行看文博热升温",
+        "onboard_time": 1733374041,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 209644,
+        "num": 209644,
+        "word": "世界近20国将农历新年定为法定节假日",
+        "onboard_time": 1733387899,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 51327,
+        "num": 209513,
+        "word": "周翊然张予曦还原三舞名场面",
+        "onboard_time": 1733391078,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51519,
+        "num": 209404,
+        "word": "琼瑶家人公告",
+        "onboard_time": 1733391379,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309069,
+        "num": 209210,
+        "word": "杨子让黄圣依开了7个小时车",
+        "onboard_time": 1733375721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732394,
+        "num": 209076,
+        "word": "1岁男童在父母怀中看完烟花离世",
+        "onboard_time": 1733390480,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470457,
+        "num": 208757,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349329,
+        "num": 208615,
+        "word": "感觉体制内挺适合不婚族",
+        "onboard_time": 1733387059,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149581,
+        "num": 208376,
+        "word": "潘展乐的奥运金牌已被博物馆收藏",
+        "onboard_time": 1733390719,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269995,
+        "num": 208199,
+        "word": "杨紫直播",
+        "onboard_time": 1733389818,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268795,
+        "num": 208105,
+        "word": "黄子韬徐艺洋右脸",
+        "onboard_time": 1733377280,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251627,
+        "num": 207957,
+        "word": "向佐主打一个错峰理发",
+        "onboard_time": 1733390599,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250361,
+        "num": 207661,
+        "word": "于正删除了对琼瑶的道歉函",
+        "onboard_time": 1733391439,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235821,
+        "num": 207553,
+        "word": "为什么羽绒服里面穿短袖更暖和",
+        "onboard_time": 1733385500,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207445,
+        "num": 207445,
+        "word": "人人影视将二十年数据开源分享",
+        "onboard_time": 1733389878,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212027,
+        "num": 207410,
+        "word": "祝绪丹 自己吓自己",
+        "onboard_time": 1733383399,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207228,
+        "num": 207228,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200680,
+        "num": 200680,
+        "word": "TREASURE回归",
+        "onboard_time": 1733390298,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191170,
+        "num": 191170,
+        "word": "福宝发抖原因正逐步排查",
+        "onboard_time": 1733390660,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175829,
+        "num": 175829,
+        "word": "就这个吴磊冷脸爽",
+        "onboard_time": 1733387478,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175151,
+        "num": 175151,
+        "word": "春节申遗成功有哪些重要意义",
+        "onboard_time": 1733375421,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 169432,
+        "num": 169432,
+        "word": "祁天道夫妇诈骗期间负责团伙宣传",
+        "onboard_time": 1733390840,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 11096,
+        "num": 167820,
+        "word": "这件夹克为啥能火50年",
+        "onboard_time": 1733390360,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167068,
+        "num": 167068,
+        "word": "美千万年薪巨头高管遭枪杀",
+        "onboard_time": 1733381778,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154930,
+        "num": 154930,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733374820,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154564,
+        "num": 154564,
+        "word": "丁禹兮帮虞书欣爷爷穿衣服",
+        "onboard_time": 1733378059,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146786,
+        "num": 146786,
+        "word": "邓为全黑造型",
+        "onboard_time": 1733387658,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144995,
+        "num": 144995,
+        "word": "苹果小米并列Q3全球腕带设备销量第一",
+        "onboard_time": 1733391020,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139571,
+        "num": 139571,
+        "word": "中方对13家美国军工企业实施反制",
+        "onboard_time": 1733383938,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139099,
+        "num": 139099,
+        "word": "福宝干饭吃得干干净净",
+        "onboard_time": 1733391319,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138641,
+        "num": 138641,
+        "word": "法国总理递交辞呈",
+        "onboard_time": 1733391201,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138243,
+        "num": 138243,
+        "word": "是谁在纵容祁天道",
+        "onboard_time": 1733391439,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136302,
+        "num": 136302,
+        "word": "方圆八百米开机",
+        "onboard_time": 1733390897,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135761,
+        "num": 135761,
+        "word": "陈少熙发长文回应",
+        "onboard_time": 1733381178,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推动构建人类命运共同体作出更大贡献#"
+    }
+  }
+}
