@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733441042473,
+  "endTime": 1733441892070,
   "band_list": [
     {
       "raw_hot": 2541717,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1009098,
-      "num": 1009098,
+      "raw_hot": 1091351,
+      "num": 1091351,
       "word": "因蛋糕放鲜花20多家店被同一人举报",
       "onboard_time": 1733411959,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540229,
+      "num": 380639,
+      "word": "徐梦洁 大漏勺",
+      "onboard_time": 1733440575,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486240,
       "num": 486240,
       "word": "丁禹兮工作室 降龙十八掌",
@@ -51,24 +59,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430565,
-      "num": 134285,
+      "raw_hot": 474211,
+      "num": 188118,
       "word": "黄圣依开了七个小时的车",
       "onboard_time": 1733433130,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 380639,
-      "num": 380639,
-      "word": "徐梦洁 大漏勺",
-      "onboard_time": 1733440575,
-      "rank": 3,
+      "raw_hot": 455216,
+      "num": 186460,
+      "word": "虞书欣 为了爱我的你们我也会加油的",
+      "onboard_time": 1733441656,
+      "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 357858,
-      "num": 133675,
+      "raw_hot": 447626,
+      "num": 447626,
+      "word": "叙利亚政府军失去对哈马控制",
+      "onboard_time": 1733439555,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 402036,
+      "num": 184541,
       "word": "网红祁天道造成极其恶劣影响",
       "onboard_time": 1733420293,
       "rank": 48,
@@ -80,14 +96,6 @@
       "word": "韩国警方调查韩国总统涉内乱罪",
       "onboard_time": 1733415018,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 325535,
-      "num": 325535,
-      "word": "叙利亚政府军失去对哈马控制",
-      "onboard_time": 1733439555,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -107,12 +115,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300817,
+      "num": 300817,
+      "word": "3岁失去妈妈30年后看到她的样子",
+      "onboard_time": 1733397560,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 274119,
+      "num": 179288,
+      "word": "琼瑶下周一将于阳明山花葬",
+      "onboard_time": 1733436853,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260860,
       "num": 260860,
       "word": "男子年付房租房东却只收到1个月的",
       "onboard_time": 1733410098,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254538,
+      "num": 178746,
+      "word": "黄子韬鹿晗连麦",
+      "onboard_time": 1733440756,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 252335,
@@ -123,20 +155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 238984,
-      "num": 238984,
-      "word": "3岁失去妈妈30年后看到她的样子",
-      "onboard_time": 1733397560,
-      "rank": 7,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 213032,
-      "num": 213032,
+      "raw_hot": 232512,
+      "num": 232512,
       "word": "司美格鲁肽减肥可能有一些副作用",
       "onboard_time": 1733416637,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207935,
+      "num": 207935,
+      "word": "费沁源退团",
+      "onboard_time": 1733440936,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 203577,
@@ -147,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183794,
-      "num": 124543,
+      "raw_hot": 185504,
+      "num": 151566,
       "word": "六旬老人尝试高危性行为感染艾滋病",
       "onboard_time": 1733392460,
       "rank": 21,
@@ -163,12 +195,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170213,
+      "num": 170213,
+      "word": "叙利亚反政府武装攻入哈马市区",
+      "onboard_time": 1733439555,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161768,
       "num": 161768,
       "word": "猎罪图鉴2开局就是第十二单元",
       "onboard_time": 1733401519,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155596,
+      "num": 172235,
+      "word": "美国加州近海7.0级地震",
+      "onboard_time": 1733439555,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 155503,
@@ -227,14 +275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 123122,
-      "num": 123122,
-      "word": "琼瑶下周一将于阳明山花葬",
-      "onboard_time": 1733436853,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120810,
       "num": 120810,
       "word": "中国木拱桥传统营造技艺成非遗代表作",
@@ -267,12 +307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113648,
-      "num": 113648,
-      "word": "叙利亚反政府武装攻入哈马市区",
-      "onboard_time": 1733439555,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 112787,
+      "num": 112787,
+      "word": "妈妈问被欺负的女儿为什么就她被打",
+      "onboard_time": 1733440575,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112016,
@@ -305,6 +345,30 @@
       "onboard_time": 1733385440,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99912,
+      "num": 99912,
+      "word": "1岁男童看完烟花离世父亲发声",
+      "onboard_time": 1733441718,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99280,
+      "num": 99280,
+      "word": "美众议院议长拒绝240亿美元援乌申请",
+      "onboard_time": 1733441718,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96520,
+      "num": 96520,
+      "word": "哥伦比亚一机库发现约2万具尸体",
+      "onboard_time": 1733441718,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94788,
@@ -356,7 +420,7 @@
     },
     {
       "raw_hot": 86498,
-      "num": 86498,
+      "num": 97499,
       "word": "还珠格格 公主坟",
       "onboard_time": 1733403140,
       "rank": 38,
@@ -387,12 +451,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 80691,
-      "num": 80691,
-      "word": "黄子韬鹿晗连麦",
-      "onboard_time": 1733440756,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 78259,
+      "num": 78259,
+      "word": "韩国政坛现实中的大戏还在进行",
+      "onboard_time": 1733431632,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77491,
@@ -403,20 +467,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75507,
+      "num": 175927,
+      "word": "叙利亚阿勒颇人再次踏上逃难路",
+      "onboard_time": 1733441356,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75279,
       "num": 75279,
       "word": "倪妮 每次走红毯都不自信",
       "onboard_time": 1733405120,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 73420,
-      "num": 73420,
-      "word": "韩国政坛现实中的大戏还在进行",
-      "onboard_time": 1733431632,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72932,
@@ -459,14 +523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68692,
-      "num": 68692,
-      "word": "美国加州近海7.0级地震",
-      "onboard_time": 1733439555,
-      "rank": 30,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 65900,
       "num": 65900,
       "word": "赵露思短发bobo头",
@@ -483,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65486,
+      "num": 65486,
+      "word": "2024年倒数第二个节气",
+      "onboard_time": 1733438534,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 62231,
       "num": 98319,
       "word": "北国雪原战机上演鹰击长空",
@@ -491,52 +555,36 @@
       "category": "军事"
     },
     {
-      "raw_hot": 61209,
-      "num": 61209,
-      "word": "妈妈问被欺负的女儿为什么就她被打",
-      "onboard_time": 1733440575,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 59851,
+      "num": 59851,
+      "word": "周雨彤感激自己没有停止生长",
+      "onboard_time": 1733427431,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
-      "raw_hot": 59167,
-      "num": 59167,
+      "raw_hot": 59785,
+      "num": 59785,
       "word": "成毅 祖玛珑",
       "onboard_time": 1733405120,
       "rank": 42,
       "category": "艺人"
     },
     {
-      "raw_hot": 57580,
-      "num": 57580,
+      "raw_hot": 58850,
+      "num": 58850,
       "word": "男子回应被20位店主质疑为职业打假",
       "onboard_time": 1733421433,
       "rank": 37,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56287,
-      "num": 61317,
-      "word": "2024年倒数第二个节气",
-      "onboard_time": 1733438534,
-      "rank": 34,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 54292,
-      "num": 54292,
+      "raw_hot": 57998,
+      "num": 57998,
       "word": "羊绒商家称188元买纱线成本都不够",
       "onboard_time": 1733431213,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52852,
-      "num": 52852,
-      "word": "周雨彤感激自己没有停止生长",
-      "onboard_time": 1733427431,
-      "rank": 25,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 52406,
@@ -545,6 +593,14 @@
       "onboard_time": 1733419334,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48448,
+      "num": 90825,
+      "word": "美国发布海啸警报",
+      "onboard_time": 1733439916,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 45985,
@@ -571,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38934,
+      "num": 628688,
+      "word": "文化中国行感受春节年俗",
+      "onboard_time": 1733406741,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36907,
       "num": 36907,
       "word": "张晚意新歌万分之一",
@@ -595,14 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33790,
-      "num": 90825,
-      "word": "美国发布海啸警报",
-      "onboard_time": 1733439916,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 33185,
       "num": 111759,
       "word": "韩国国会就一夜戒严展开紧急质询",
@@ -619,14 +675,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 31691,
-      "num": 628688,
-      "word": "文化中国行感受春节年俗",
-      "onboard_time": 1733406741,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 31178,
       "num": 31178,
       "word": "摊贩没钱交罚款被城管要求去借钱",
@@ -641,14 +689,6 @@
       "onboard_time": 1733424852,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 28687,
-      "num": 68693,
-      "word": "费沁源退团",
-      "onboard_time": 1733440936,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 23839,
