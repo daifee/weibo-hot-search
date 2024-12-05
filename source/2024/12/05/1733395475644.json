@@ -1,0 +1,410 @@
+{
+  "runTime": 1733395475644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 747239,
+        "num": 1119558,
+        "word": "迪奥点灯活动",
+        "onboard_time": 1733394441,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 684484,
+        "num": 684484,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38831,
+        "num": 654304,
+        "word": "北京人的北京地儿",
+        "onboard_time": 1733386818,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653217,
+        "num": 653217,
+        "word": "李行亮被活动除名",
+        "onboard_time": 1733394199,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597618,
+        "num": 597618,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404687,
+        "num": 404687,
+        "word": "福宝发抖原因正逐步排查",
+        "onboard_time": 1733390660,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596802,
+        "num": 396842,
+        "word": "迪丽热巴迪奥活动造型",
+        "onboard_time": 1733393598,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 386585,
+        "num": 386585,
+        "word": "Gemini长沙首播",
+        "onboard_time": 1733393959,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1381242,
+        "num": 386372,
+        "word": "于正删除了对琼瑶的道歉函",
+        "onboard_time": 1733391439,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160295,
+        "num": 385907,
+        "word": "再次正告菲方立即停止一切侵权挑衅",
+        "onboard_time": 1733394199,
+        "rank": 9,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 338903,
+        "num": 385243,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2795082,
+        "num": 384966,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1311078,
+        "num": 384067,
+        "word": "司机拒绝接受检查突然逃逸跳桥身亡",
+        "onboard_time": 1733393061,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383919,
+        "num": 383919,
+        "word": "王楚钦孙颖莎今晚出战混双",
+        "onboard_time": 1733394978,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355602,
+        "num": 355602,
+        "word": "模仿吴艳妮主播被禁止发作品",
+        "onboard_time": 1733389098,
+        "rank": 14,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 334411,
+        "num": 334411,
+        "word": "男子花38万娶妻崩溃发现儿子非亲生",
+        "onboard_time": 1733380761,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279760,
+        "num": 279760,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27063,
+        "num": 278428,
+        "word": "郭俊辰唐晓天默契新享法",
+        "onboard_time": 1733391799,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 278180,
+        "word": "偶遇刘晓庆蔡明贺峻霖爬山",
+        "onboard_time": 1733394501,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277941,
+        "num": 277941,
+        "word": "迪丽热巴花絮图",
+        "onboard_time": 1733391619,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482819,
+        "num": 277314,
+        "word": "1岁男童在父母怀中看完烟花离世",
+        "onboard_time": 1733390480,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269364,
+        "num": 269364,
+        "word": "警方通报精神分裂女硕士走失多年后找回",
+        "onboard_time": 1733387658,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 201203,
+        "num": 269085,
+        "word": "朴彩英巡演期间和前男友吵架",
+        "onboard_time": 1733394741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404478,
+        "num": 268224,
+        "word": "六旬老人尝试高危性行为感染艾滋病",
+        "onboard_time": 1733392460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89987,
+        "num": 267682,
+        "word": "阿条姐干饭哥登上冠军榜",
+        "onboard_time": 1733395220,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76747,
+        "num": 266802,
+        "word": "在国漫里看到扑面而来的生命力",
+        "onboard_time": 1733394261,
+        "rank": 25,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 36249,
+        "num": 266313,
+        "word": "常园说有自己的外貌焦虑",
+        "onboard_time": 1733394501,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49107,
+        "num": 265744,
+        "word": "金玟庭身体不适缺席活动",
+        "onboard_time": 1733394978,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333590,
+        "num": 264557,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14548,
+        "num": 263824,
+        "word": "香奈儿秀场的惊艳艺术感",
+        "onboard_time": 1733393121,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 263668,
+        "num": 263668,
+        "word": "188元买的100%山羊绒衫实为0羊绒",
+        "onboard_time": 1733383219,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 229656,
+        "num": 229656,
+        "word": "迪士尼偶遇丁程鑫",
+        "onboard_time": 1733392641,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216920,
+        "num": 216920,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207302,
+        "num": 207302,
+        "word": "林珍娜蔡钟硕恋情",
+        "onboard_time": 1733387059,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206013,
+        "num": 206013,
+        "word": "李行亮麦琳 妻子的浪漫旅行",
+        "onboard_time": 1733374161,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205314,
+        "num": 205314,
+        "word": "杨子让黄圣依开了7个小时车",
+        "onboard_time": 1733375721,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197266,
+        "num": 197266,
+        "word": "感觉体制内挺适合不婚族",
+        "onboard_time": 1733387059,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195561,
+        "num": 195561,
+        "word": "AL英雄联盟人员变动",
+        "onboard_time": 1733395340,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 7496,
+        "num": 195375,
+        "word": "不要放过这个网球风的易烊千玺",
+        "onboard_time": 1733394680,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195316,
+        "num": 195316,
+        "word": "许凯邓恩熙县城文学男女主",
+        "onboard_time": 1733393299,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20587,
+        "num": 192894,
+        "word": "香奈儿大秀里的刺绣工艺",
+        "onboard_time": 1733391739,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 192294,
+        "num": 192294,
+        "word": "白月梵星星月亦有道海报",
+        "onboard_time": 1733395280,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191143,
+        "num": 191143,
+        "word": "成都混团",
+        "onboard_time": 1733395100,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185947,
+        "num": 185947,
+        "word": "是谁在纵容祁天道",
+        "onboard_time": 1733391439,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86886,
+        "num": 177281,
+        "word": "有家长因一年级不教英语选择转学",
+        "onboard_time": 1733393419,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175603,
+        "num": 175603,
+        "word": "琼瑶家人公告",
+        "onboard_time": 1733391379,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173141,
+        "num": 173141,
+        "word": "向佐主打一个错峰理发",
+        "onboard_time": 1733390599,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40398,
+        "num": 168497,
+        "word": "西部航空回应用胶带贴飞机舷窗",
+        "onboard_time": 1733393360,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168457,
+        "num": 168457,
+        "word": "为什么羽绒服里面穿短袖更暖和",
+        "onboard_time": 1733385500,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165392,
+        "num": 165392,
+        "word": "低俗网红坐拥4000万粉谁该脸红",
+        "onboard_time": 1733379260,
+        "rank": 49,
+        "category": "议题讨论,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推动构建人类命运共同体作出更大贡献#"
+    }
+  }
+}

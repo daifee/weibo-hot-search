@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733394377379,
+  "endTime": 1733395475644,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2749480,
-      "num": 326843,
+      "raw_hot": 2795082,
+      "num": 384966,
       "word": "朴彩英自曝恋爱",
       "onboard_time": 1733391379,
       "rank": 15,
@@ -80,6 +80,14 @@
       "word": "两度发现遗体博主将面临处罚",
       "onboard_time": 1733314701,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1311078,
+      "num": 384067,
+      "word": "司机拒绝接受检查突然逃逸跳桥身亡",
+      "onboard_time": 1733393061,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -243,8 +251,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 747239,
+      "num": 1119558,
+      "word": "迪奥点灯活动",
+      "onboard_time": 1733394441,
+      "rank": 0,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 732394,
-      "num": 261526,
+      "num": 277314,
       "word": "1岁男童在父母怀中看完烟花离世",
       "onboard_time": 1733390480,
       "rank": 24,
@@ -299,6 +315,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 653217,
+      "num": 653217,
+      "word": "李行亮被活动除名",
+      "onboard_time": 1733394199,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646197,
       "num": 646197,
       "word": "刺杀小说家",
@@ -315,6 +339,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 596802,
+      "num": 396842,
+      "word": "迪丽热巴迪奥活动造型",
+      "onboard_time": 1733393598,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 596658,
       "num": 596658,
       "word": "琼瑶经济共赚取约上亿美元",
@@ -329,14 +361,6 @@
       "onboard_time": 1733368399,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 580132,
-      "num": 325316,
-      "word": "司机拒绝接受检查突然逃逸跳桥身亡",
-      "onboard_time": 1733393061,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 566112,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 408041,
-      "num": 257978,
+      "num": 268224,
       "word": "六旬老人尝试高危性行为感染艾滋病",
       "onboard_time": 1733392460,
       "rank": 25,
@@ -571,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 386585,
+      "num": 386585,
+      "word": "Gemini长沙首播",
+      "onboard_time": 1733393959,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 385429,
       "num": 305155,
       "word": "低俗网红祁天道总销售额或达上亿",
@@ -585,6 +617,14 @@
       "onboard_time": 1733391619,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 383919,
+      "num": 383919,
+      "word": "王楚钦孙颖莎今晚出战混双",
+      "onboard_time": 1733394978,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 381559,
@@ -739,14 +779,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 276391,
-      "num": 263553,
-      "word": "迪丽热巴迪奥活动造型",
-      "onboard_time": 1733393598,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 275150,
       "num": 275150,
       "word": "杨仕泽 叫我拂衣公子",
@@ -899,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229656,
+      "num": 311200,
+      "word": "迪士尼偶遇丁程鑫",
+      "onboard_time": 1733392641,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229192,
       "num": 229192,
       "word": "2025能过第一个非遗版春节",
@@ -969,14 +1009,6 @@
       "onboard_time": 1733367321,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219272,
-      "num": 311200,
-      "word": "迪士尼偶遇丁程鑫",
-      "onboard_time": 1733392641,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 216767,
@@ -1067,6 +1099,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 201203,
+      "num": 269085,
+      "word": "朴彩英巡演期间和前男友吵架",
+      "onboard_time": 1733394741,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201197,
       "num": 201197,
       "word": "琼瑶于沙发上离世",
@@ -1115,6 +1155,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195561,
+      "num": 195561,
+      "word": "AL英雄联盟人员变动",
+      "onboard_time": 1733395340,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 195316,
+      "num": 311783,
+      "word": "许凯邓恩熙县城文学男女主",
+      "onboard_time": 1733393299,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195202,
       "num": 195202,
       "word": "麦琳骑马",
@@ -1139,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192294,
+      "num": 192294,
+      "word": "白月梵星星月亦有道海报",
+      "onboard_time": 1733395280,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192292,
       "num": 260821,
       "word": "王楚钦3比0韩国队",
@@ -1147,20 +1211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191908,
-      "num": 191908,
-      "word": "李行亮被活动除名",
-      "onboard_time": 1733394199,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 191201,
-      "num": 311783,
-      "word": "许凯邓恩熙县城文学男女主",
-      "onboard_time": 1733393299,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 191143,
+      "num": 191143,
+      "word": "成都混团",
+      "onboard_time": 1733395100,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 188501,
@@ -1219,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185947,
+      "num": 185947,
+      "word": "是谁在纵容祁天道",
+      "onboard_time": 1733391439,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 185456,
       "num": 185456,
       "word": "一帘幽梦",
@@ -1275,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176818,
-      "num": 176818,
-      "word": "Gemini长沙首播",
-      "onboard_time": 1733393959,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176303,
       "num": 176303,
       "word": "法国政府被议会推翻",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1733374580,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170534,
-      "num": 170534,
-      "word": "是谁在纵容祁天道",
-      "onboard_time": 1733391439,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 170474,
@@ -1451,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160295,
+      "num": 385907,
+      "word": "再次正告菲方立即停止一切侵权挑衅",
+      "onboard_time": 1733394199,
+      "rank": 13,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 159944,
       "num": 159944,
       "word": "RNG疑似无法注册",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1733353636,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157459,
-      "num": 320306,
-      "word": "再次正告菲方立即停止一切侵权挑衅",
-      "onboard_time": 1733394199,
-      "rank": 13,
-      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 156996,
@@ -2203,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89987,
+      "num": 267682,
+      "word": "阿条姐干饭哥登上冠军榜",
+      "onboard_time": 1733395220,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88877,
       "num": 181673,
       "word": "春晚神级舞台",
@@ -2216,6 +2272,14 @@
       "word": "员工周末不响应工作老板退群又加群",
       "onboard_time": 1733382558,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86886,
+      "num": 317292,
+      "word": "有家长因一年级不教英语选择转学",
+      "onboard_time": 1733393419,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2273,6 +2337,14 @@
       "onboard_time": 1733317103,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 76747,
+      "num": 266802,
+      "word": "在国漫里看到扑面而来的生命力",
+      "onboard_time": 1733394261,
+      "rank": 27,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 76135,
@@ -2377,14 +2449,6 @@
       "onboard_time": 1733306902,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66753,
-      "num": 317292,
-      "word": "有家长因一年级不教英语选择转学",
-      "onboard_time": 1733393419,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66450,
@@ -2523,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49107,
+      "num": 265744,
+      "word": "金玟庭身体不适缺席活动",
+      "onboard_time": 1733394978,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47972,
       "num": 398584,
       "word": "坍塌铁路施工方6月曾宣誓安全生产",
@@ -2545,14 +2617,6 @@
       "onboard_time": 1733331616,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45546,
-      "num": 252613,
-      "word": "在国漫里看到扑面而来的生命力",
-      "onboard_time": 1733394261,
-      "rank": 27,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 44682,
@@ -2619,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40398,
+      "num": 299864,
+      "word": "西部航空回应用胶带贴飞机舷窗",
+      "onboard_time": 1733393360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39422,
       "num": 246306,
       "word": "张朝阳称极光虽浪漫但有辐射",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1733383699,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36249,
+      "num": 266313,
+      "word": "常园说有自己的外貌焦虑",
+      "onboard_time": 1733394501,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 36122,
@@ -2699,14 +2779,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 31148,
-      "num": 299864,
-      "word": "西部航空回应用胶带贴飞机舷窗",
-      "onboard_time": 1733393360,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30782,
       "num": 188501,
       "word": "读到泪目的毕业论文致谢",
@@ -2737,6 +2809,14 @@
       "onboard_time": 1733389519,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 27063,
+      "num": 307266,
+      "word": "郭俊辰唐晓天默契新享法",
+      "onboard_time": 1733391799,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 27009,
@@ -2811,12 +2891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20998,
+      "num": 278180,
+      "word": "偶遇刘晓庆蔡明贺峻霖爬山",
+      "onboard_time": 1733394501,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20589,
       "num": 276902,
       "word": "闪耀暖暖",
       "onboard_time": 1733365758,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20587,
+      "num": 192894,
+      "word": "香奈儿大秀里的刺绣工艺",
+      "onboard_time": 1733391739,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 20093,
@@ -2849,14 +2945,6 @@
       "onboard_time": 1733339771,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18159,
-      "num": 192229,
-      "word": "香奈儿大秀里的刺绣工艺",
-      "onboard_time": 1733391739,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 17112,
@@ -2907,16 +2995,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13719,
-      "num": 307266,
-      "word": "郭俊辰唐晓天默契新享法",
-      "onboard_time": 1733391799,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 12961,
-      "num": 249114,
+      "raw_hot": 14548,
+      "num": 263824,
       "word": "香奈儿秀场的惊艳艺术感",
       "onboard_time": 1733393121,
       "rank": 29,
@@ -2969,6 +3049,14 @@
       "onboard_time": 1733324543,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7496,
+      "num": 195375,
+      "word": "不要放过这个网球风的易烊千玺",
+      "onboard_time": 1733394680,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 7356,
