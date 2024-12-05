@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733381257162,
+  "endTime": 1733383525834,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1133024,
+      "num": 1181283,
+      "word": "琼瑶离世前晚曾嘱咐儿媳来找自己",
+      "onboard_time": 1733378601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1027681,
       "num": 1164429,
       "word": "黄子韬徐艺洋右脸",
@@ -97,14 +105,6 @@
       "onboard_time": 1733321663,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 932930,
-      "num": 549869,
-      "word": "琼瑶离世前晚曾嘱咐儿媳来找自己",
-      "onboard_time": 1733378601,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 931574,
@@ -163,12 +163,28 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 810020,
+      "num": 374493,
+      "word": "男子花38万娶妻崩溃发现儿子非亲生",
+      "onboard_time": 1733380761,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 781194,
       "num": 636721,
       "word": "猎罪图鉴2",
       "onboard_time": 1733374820,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 770914,
+      "num": 770914,
+      "word": "广东人类精子库可选更像爸爸的精子",
+      "onboard_time": 1733380459,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 726594,
@@ -411,11 +427,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381559,
+      "num": 372925,
+      "word": "陈少熙发长文回应",
+      "onboard_time": 1733381178,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377900,
       "num": 377900,
       "word": "微信群对骂十几分钟双双被罚200元",
       "onboard_time": 1733325263,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372572,
+      "num": 475889,
+      "word": "新疆棉花协会声明",
+      "onboard_time": 1733380400,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -475,6 +507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 333998,
+      "num": 333998,
+      "word": "低俗网红坐拥4000万粉谁该脸红",
+      "onboard_time": 1733379260,
+      "rank": 38,
+      "category": "议题讨论,网红"
+    },
+    {
       "raw_hot": 329516,
       "num": 329516,
       "word": "韩国多家大型企业劝导员工居家办公",
@@ -505,6 +545,22 @@
       "onboard_time": 1733363119,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313646,
+      "num": 374841,
+      "word": "美千万年薪巨头高管遭枪杀",
+      "onboard_time": 1733381778,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 308172,
+      "num": 308172,
+      "word": "花少6总导演道歉",
+      "onboard_time": 1733383399,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 288668,
@@ -625,14 +681,6 @@
       "onboard_time": 1733324724,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 228912,
-      "num": 228912,
-      "word": "低俗网红坐拥4000万粉谁该脸红",
-      "onboard_time": 1733379260,
-      "rank": 38,
-      "category": "议题讨论,网红"
     },
     {
       "raw_hot": 228501,
@@ -771,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195779,
+      "num": 195779,
+      "word": "大学老师才是真正的顶流",
+      "onboard_time": 1733379200,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195202,
       "num": 195202,
       "word": "麦琳骑马",
@@ -787,12 +843,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194056,
-      "num": 194056,
-      "word": "男子花38万娶妻崩溃发现儿子非亲生",
-      "onboard_time": 1733380761,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 193282,
+      "num": 333867,
+      "word": "种地吧",
+      "onboard_time": 1733381479,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 192292,
@@ -803,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189687,
+      "num": 189687,
+      "word": "琼瑶于沙发上离世",
+      "onboard_time": 1733382858,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188501,
       "num": 188501,
       "word": "宋亚轩喂王安宇的麦吃苹果",
@@ -811,20 +875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187380,
+      "num": 187380,
+      "word": "法国",
+      "onboard_time": 1733376739,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 187318,
+      "num": 187825,
+      "word": "檀健次沈翊说好久不见",
+      "onboard_time": 1733382379,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186734,
       "num": 406199,
       "word": "蜀锦人家",
       "onboard_time": 1733373081,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186687,
-      "num": 475889,
-      "word": "新疆棉花协会声明",
-      "onboard_time": 1733380400,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186152,
@@ -843,36 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184314,
-      "num": 261193,
-      "word": "广东人类精子库可选更像爸爸的精子",
-      "onboard_time": 1733380459,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183957,
       "num": 183957,
       "word": "尹锡悦提名新国防部长",
       "onboard_time": 1733358201,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183747,
-      "num": 183747,
-      "word": "法国",
-      "onboard_time": 1733376739,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 183233,
-      "num": 183233,
-      "word": "大学老师才是真正的顶流",
-      "onboard_time": 1733379200,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 182521,
@@ -1179,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144144,
+      "num": 144144,
+      "word": "为钓鱼设计的马甲却成了坐飞机神器",
+      "onboard_time": 1733383159,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143845,
       "num": 211982,
       "word": "九重紫首富从娃娃抓起",
@@ -1211,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139278,
+      "num": 139278,
+      "word": "王楚钦梁靖崑vs安宰贤赵大成",
+      "onboard_time": 1733381299,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139084,
       "num": 139084,
       "word": "CCD版迪丽热巴",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1733361623,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135682,
+      "num": 135682,
+      "word": "188元买的100%山羊绒衫实为0羊绒",
+      "onboard_time": 1733383219,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 135368,
@@ -1323,6 +1395,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125698,
+      "num": 125698,
+      "word": "马龙微笑告别台湾粉丝",
+      "onboard_time": 1733382738,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125183,
+      "num": 125183,
+      "word": "祝绪丹 自己吓自己",
+      "onboard_time": 1733383399,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125065,
       "num": 125065,
       "word": "苹果AI被曝适配百度AI模型遇阻",
@@ -1379,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121487,
+      "num": 121487,
+      "word": "90后运动员因伤退役摆摊卖水果",
+      "onboard_time": 1733381598,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120724,
       "num": 120724,
       "word": "黑白森林精装的剧情毛坯的反派",
@@ -1401,14 +1497,6 @@
       "onboard_time": 1733360660,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117620,
-      "num": 117620,
-      "word": "陈少熙发长文回应",
-      "onboard_time": 1733381178,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 117398,
@@ -1540,7 +1628,7 @@
     },
     {
       "raw_hot": 98582,
-      "num": 98582,
+      "num": 666835,
       "word": "春节是刻在中国人DNA里的仪式感",
       "onboard_time": 1733324064,
       "rank": 37,
@@ -1715,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67337,
+      "num": 228425,
+      "word": "张镇麟体测通过",
+      "onboard_time": 1733382619,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66997,
       "num": 74905,
       "word": "韩国财团对尹锡悦不满",
@@ -1747,12 +1843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63447,
+      "num": 333811,
+      "word": "迪丽热巴ELLE全球80周年开年封首位女星",
+      "onboard_time": 1733383159,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 60341,
       "num": 302693,
       "word": "年轻人为什么爱上中国汉堡",
       "onboard_time": 1733377280,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 59393,
+      "num": 190034,
+      "word": "员工周末不响应工作老板退群又加群",
+      "onboard_time": 1733382558,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59106,
@@ -1827,6 +1939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49020,
+      "num": 333835,
+      "word": "AI接吻算不算隔空骚扰",
+      "onboard_time": 1733382500,
+      "rank": 18,
+      "category": "议题讨论,互联网"
+    },
+    {
       "raw_hot": 47972,
       "num": 398584,
       "word": "坍塌铁路施工方6月曾宣誓安全生产",
@@ -1849,6 +1969,14 @@
       "onboard_time": 1733331616,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42906,
+      "num": 157845,
+      "word": "高贵的无限暖暖公测玩家",
+      "onboard_time": 1733381000,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 41653,
@@ -1896,14 +2024,6 @@
       "word": "无限暖暖开门",
       "onboard_time": 1733360361,
       "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 33951,
-      "num": 121690,
-      "word": "高贵的无限暖暖公测玩家",
-      "onboard_time": 1733381000,
-      "rank": 45,
       "category": "游戏"
     },
     {
@@ -1985,6 +2105,14 @@
       "onboard_time": 1733380161,
       "rank": 41,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 20762,
+      "num": 189690,
+      "word": "无限暖暖没有班味",
+      "onboard_time": 1733382439,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 20589,
@@ -2089,6 +2217,9 @@
     },
     {
       "word": "#良法善治#"
+    },
+    {
+      "word": "#宪法点亮生活#"
     }
   ]
 }
