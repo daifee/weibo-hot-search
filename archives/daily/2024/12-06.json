@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733438522112,
+  "endTime": 1733441042473,
   "band_list": [
     {
       "raw_hot": 2541717,
@@ -51,11 +51,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430565,
+      "num": 134285,
+      "word": "黄圣依开了七个小时的车",
+      "onboard_time": 1733433130,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 380639,
+      "num": 380639,
+      "word": "徐梦洁 大漏勺",
+      "onboard_time": 1733440575,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 357858,
+      "num": 133675,
+      "word": "网红祁天道造成极其恶劣影响",
+      "onboard_time": 1733420293,
+      "rank": 48,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 340176,
       "num": 340176,
       "word": "韩国警方调查韩国总统涉内乱罪",
       "onboard_time": 1733415018,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 325535,
+      "num": 325535,
+      "word": "叙利亚政府军失去对哈马控制",
+      "onboard_time": 1733439555,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -99,6 +131,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 213032,
+      "num": 213032,
+      "word": "司美格鲁肽减肥可能有一些副作用",
+      "onboard_time": 1733416637,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203577,
       "num": 203577,
       "word": "女子听到朋友患肠癌一查自己也有",
@@ -107,36 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186433,
-      "num": 67698,
-      "word": "黄圣依开了七个小时的车",
-      "onboard_time": 1733433130,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183794,
       "num": 124543,
       "word": "六旬老人尝试高危性行为感染艾滋病",
       "onboard_time": 1733392460,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179631,
-      "num": 63373,
-      "word": "网红祁天道造成极其恶劣影响",
-      "onboard_time": 1733420293,
-      "rank": 48,
-      "category": "舆论监督,网红"
-    },
-    {
-      "raw_hot": 176218,
-      "num": 176218,
-      "word": "司美格鲁肽减肥可能有一些副作用",
-      "onboard_time": 1733416637,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 175270,
@@ -195,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131346,
+      "num": 131346,
+      "word": "体重正常想用司美格鲁肽变瘦被拒",
+      "onboard_time": 1733407582,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130917,
       "num": 130917,
       "word": "在叙中国公民尽快回国或离境",
       "onboard_time": 1733406741,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123122,
+      "num": 123122,
+      "word": "琼瑶下周一将于阳明山花葬",
+      "onboard_time": 1733436853,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120810,
@@ -233,6 +265,14 @@
       "onboard_time": 1733406500,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113648,
+      "num": 113648,
+      "word": "叙利亚反政府武装攻入哈马市区",
+      "onboard_time": 1733439555,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112016,
@@ -347,6 +387,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 80691,
+      "num": 80691,
+      "word": "黄子韬鹿晗连麦",
+      "onboard_time": 1733440756,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77491,
       "num": 77491,
       "word": "周杰伦大巨蛋演唱会",
@@ -395,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68844,
+      "num": 68844,
+      "word": "今日大雪",
+      "onboard_time": 1733439855,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68839,
       "num": 68839,
       "word": "易烊千玺音乐会",
       "onboard_time": 1733395581,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68692,
+      "num": 68692,
+      "word": "美国加州近海7.0级地震",
+      "onboard_time": 1733439555,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 65900,
@@ -427,6 +491,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 61209,
+      "num": 61209,
+      "word": "妈妈问被欺负的女儿为什么就她被打",
+      "onboard_time": 1733440575,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59167,
+      "num": 59167,
+      "word": "成毅 祖玛珑",
+      "onboard_time": 1733405120,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57580,
       "num": 57580,
       "word": "男子回应被20位店主质疑为职业打假",
@@ -435,12 +515,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56494,
-      "num": 63387,
-      "word": "体重正常想用司美格鲁肽变瘦被拒",
-      "onboard_time": 1733407582,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 56287,
+      "num": 61317,
+      "word": "2024年倒数第二个节气",
+      "onboard_time": 1733438534,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 54292,
+      "num": 54292,
+      "word": "羊绒商家称188元买纱线成本都不够",
+      "onboard_time": 1733431213,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52852,
+      "num": 52852,
+      "word": "周雨彤感激自己没有停止生长",
+      "onboard_time": 1733427431,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 52406,
@@ -448,14 +544,6 @@
       "word": "麦子阿姨纪录片",
       "onboard_time": 1733419334,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46511,
-      "num": 46511,
-      "word": "羊绒商家称188元买纱线成本都不够",
-      "onboard_time": 1733431213,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -475,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42772,
+      "num": 42772,
+      "word": "如果下雪了你最想做什么",
+      "onboard_time": 1733439496,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36907,
       "num": 36907,
       "word": "张晚意新歌万分之一",
@@ -491,20 +587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36879,
-      "num": 32584,
-      "word": "琼瑶下周一将于阳明山花葬",
-      "onboard_time": 1733436853,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35166,
       "num": 35166,
       "word": "商务部回应美半导体出口管制措施",
       "onboard_time": 1733421674,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33790,
+      "num": 90825,
+      "word": "美国发布海啸警报",
+      "onboard_time": 1733439916,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 33185,
@@ -515,20 +611,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32542,
-      "num": 32542,
-      "word": "成毅 祖玛珑",
-      "onboard_time": 1733405120,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32108,
       "num": 32108,
       "word": "正告菲方立即停止侵权挑衅和煽宣炒作",
       "onboard_time": 1733429292,
       "rank": 9,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 31691,
+      "num": 628688,
+      "word": "文化中国行感受春节年俗",
+      "onboard_time": 1733406741,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 31178,
@@ -547,20 +643,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 27139,
-      "num": 32614,
-      "word": "周雨彤感激自己没有停止生长",
-      "onboard_time": 1733427431,
-      "rank": 25,
-      "category": "综艺,艺人"
+      "raw_hot": 28687,
+      "num": 68693,
+      "word": "费沁源退团",
+      "onboard_time": 1733440936,
+      "rank": 29,
+      "category": "艺人"
     },
     {
-      "raw_hot": 25668,
-      "num": 628688,
-      "word": "文化中国行感受春节年俗",
-      "onboard_time": 1733406741,
-      "rank": 2,
-      "category": "正能量"
+      "raw_hot": 23839,
+      "num": 68760,
+      "word": "广州公布26个电子眼抓拍电鸡",
+      "onboard_time": 1733435172,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23197,
