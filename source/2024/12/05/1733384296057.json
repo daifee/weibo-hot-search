@@ -1,0 +1,410 @@
+{
+  "runTime": 1733384296057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359935,
+        "num": 1359935,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 803380,
+        "num": 803380,
+        "word": "广东人类精子库可选更像爸爸的精子",
+        "onboard_time": 1733380459,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2187,
+        "num": 579811,
+        "word": "e法润京华",
+        "onboard_time": 1733383518,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1100863,
+        "num": 575192,
+        "word": "琼瑶离世前晚曾嘱咐儿媳来找自己",
+        "onboard_time": 1733378601,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566112,
+        "num": 566112,
+        "word": "美千万年薪巨头高管遭枪杀",
+        "onboard_time": 1733381778,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 534546,
+        "num": 534546,
+        "word": "孙颖莎王楚钦击掌交接",
+        "onboard_time": 1733378539,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627844,
+        "num": 530115,
+        "word": "黄子韬徐艺洋右脸",
+        "onboard_time": 1733377280,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563202,
+        "num": 519180,
+        "word": "李行亮麦琳 妻子的浪漫旅行",
+        "onboard_time": 1733374161,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485551,
+        "num": 485551,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733374820,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183914,
+        "num": 482076,
+        "word": "中方对13家美国军工企业实施反制",
+        "onboard_time": 1733383938,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 773140,
+        "num": 481713,
+        "word": "男子花38万娶妻崩溃发现儿子非亲生",
+        "onboard_time": 1733380761,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481108,
+        "num": 481108,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 434383,
+        "num": 434383,
+        "word": "低俗网红坐拥4000万粉谁该脸红",
+        "onboard_time": 1733379260,
+        "rank": 12,
+        "category": "议题讨论,网红"
+      },
+      {
+        "raw_hot": 418356,
+        "num": 418356,
+        "word": "杨子让黄圣依开了7个小时车",
+        "onboard_time": 1733375721,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37002,
+        "num": 403810,
+        "word": "为啥飞机上不能用充电宝",
+        "onboard_time": 1733383699,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397535,
+        "num": 397535,
+        "word": "丁禹兮帮虞书欣爷爷穿衣服",
+        "onboard_time": 1733378059,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366494,
+        "num": 366494,
+        "word": "新疆棉花协会声明",
+        "onboard_time": 1733380400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362825,
+        "num": 362825,
+        "word": "陈少熙发长文回应",
+        "onboard_time": 1733381178,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85543,
+        "num": 332556,
+        "word": "AI接吻算不算隔空骚扰",
+        "onboard_time": 1733382500,
+        "rank": 18,
+        "category": "议题讨论,互联网"
+      },
+      {
+        "raw_hot": 20093,
+        "num": 315505,
+        "word": "男子网购减肥糖果发现内含违禁成分",
+        "onboard_time": 1733384180,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315069,
+        "num": 315069,
+        "word": "一女主播模仿吴艳妮引热议",
+        "onboard_time": 1733370261,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296574,
+        "num": 296574,
+        "word": "国乒8比4韩国",
+        "onboard_time": 1733379619,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17112,
+        "num": 285355,
+        "word": "2025江苏卫视跨年舞美预演视频",
+        "onboard_time": 1733382799,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 148291,
+        "num": 278465,
+        "word": "迪丽热巴ELLE全球80周年开年封首位女星",
+        "onboard_time": 1733383159,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 59983,
+        "num": 277050,
+        "word": "部落冲突",
+        "onboard_time": 1733383819,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276527,
+        "num": 276527,
+        "word": "女生学医归来成短剧女主",
+        "onboard_time": 1733379138,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24822,
+        "num": 274801,
+        "word": "何浩楠第一次出发",
+        "onboard_time": 1733384239,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42022,
+        "num": 264774,
+        "word": "陈少熙我们仍旧会一起并肩看夕阳",
+        "onboard_time": 1733384239,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88055,
+        "num": 259561,
+        "word": "员工周末不响应工作老板退群又加群",
+        "onboard_time": 1733382558,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31739,
+        "num": 247604,
+        "word": "无限暖暖没有班味",
+        "onboard_time": 1733382439,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245119,
+        "num": 245119,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238094,
+        "num": 238094,
+        "word": "春节申遗成功有哪些重要意义",
+        "onboard_time": 1733375421,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21794,
+        "num": 235560,
+        "word": "高贵的无限暖暖公测玩家",
+        "onboard_time": 1733381000,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233740,
+        "num": 233740,
+        "word": "祝绪丹 自己吓自己",
+        "onboard_time": 1733383399,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219209,
+        "num": 219209,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214347,
+        "num": 214347,
+        "word": "188元买的100%山羊绒衫实为0羊绒",
+        "onboard_time": 1733383219,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201197,
+        "num": 201197,
+        "word": "琼瑶于沙发上离世",
+        "onboard_time": 1733382858,
+        "rank": 36,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 195469,
+        "num": 195469,
+        "word": "芒果年底冲业绩了",
+        "onboard_time": 1733383938,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189691,
+        "num": 189691,
+        "word": "谢可寅出演猎罪图鉴2",
+        "onboard_time": 1733384000,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10357,
+        "num": 188886,
+        "word": "贺岁喜剧火锅艺术家定档",
+        "onboard_time": 1733384118,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188117,
+        "num": 188117,
+        "word": "为钓鱼设计的马甲却成了坐飞机神器",
+        "onboard_time": 1733383159,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182489,
+        "num": 182489,
+        "word": "种地吧",
+        "onboard_time": 1733381479,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176071,
+        "num": 176071,
+        "word": "公司春节放假卷起来了",
+        "onboard_time": 1733375780,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172748,
+        "num": 172748,
+        "word": "国乒成都混团5连胜",
+        "onboard_time": 1733383880,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171836,
+        "num": 171836,
+        "word": "琼瑶16天前回复过林青霞",
+        "onboard_time": 1733369778,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166568,
+        "num": 166568,
+        "word": "一只爱马仕包等于一辆新能源车",
+        "onboard_time": 1733375182,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165030,
+        "num": 165030,
+        "word": "大学老师才是真正的顶流",
+        "onboard_time": 1733379200,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162528,
+        "num": 162528,
+        "word": "法国",
+        "onboard_time": 1733376739,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154918,
+        "num": 154918,
+        "word": "周雨彤 我们不是电脑是人",
+        "onboard_time": 1733365457,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151955,
+        "num": 151955,
+        "word": "武夷山烧火夜爬游客身份已落实",
+        "onboard_time": 1733371161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为推动构建人类命运共同体作出更大贡献#"
+    }
+  }
+}

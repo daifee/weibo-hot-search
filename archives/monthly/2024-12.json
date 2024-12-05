@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733383525834,
+  "endTime": 1733384296057,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -593,6 +593,14 @@
       "onboard_time": 1733024539,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1359935,
+      "num": 1359935,
+      "word": "花少6总导演道歉",
+      "onboard_time": 1733383399,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1356133,
@@ -1444,10 +1452,18 @@
     },
     {
       "raw_hot": 810020,
-      "num": 374493,
+      "num": 481713,
       "word": "男子花38万娶妻崩溃发现儿子非亲生",
       "onboard_time": 1733380761,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 803380,
+      "num": 803380,
+      "word": "广东人类精子库可选更像爸爸的精子",
+      "onboard_time": 1733380459,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1497,14 +1513,6 @@
       "onboard_time": 1733055619,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 770914,
-      "num": 770914,
-      "word": "广东人类精子库可选更像爸爸的精子",
-      "onboard_time": 1733380459,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 768744,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1733106737,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566112,
+      "num": 566112,
+      "word": "美千万年薪巨头高管遭枪杀",
+      "onboard_time": 1733381778,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 565194,
@@ -3161,6 +3177,14 @@
       "onboard_time": 1733322744,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 434383,
+      "num": 434383,
+      "word": "低俗网红坐拥4000万粉谁该脸红",
+      "onboard_time": 1733379260,
+      "rank": 38,
+      "category": "议题讨论,网红"
     },
     {
       "raw_hot": 433800,
@@ -4139,14 +4163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333998,
-      "num": 333998,
-      "word": "低俗网红坐拥4000万粉谁该脸红",
-      "onboard_time": 1733379260,
-      "rank": 38,
-      "category": "议题讨论,网红"
-    },
-    {
       "raw_hot": 333870,
       "num": 333870,
       "word": "喜剧之王开机",
@@ -4371,14 +4387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313646,
-      "num": 374841,
-      "word": "美千万年薪巨头高管遭枪杀",
-      "onboard_time": 1733381778,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 313499,
       "num": 313499,
       "word": "女子凌晨被两条大型犬撕咬",
@@ -4409,14 +4417,6 @@
       "onboard_time": 1733302645,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308172,
-      "num": 308172,
-      "word": "花少6总导演道歉",
-      "onboard_time": 1733383399,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 307526,
@@ -5347,6 +5347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245119,
+      "num": 245119,
+      "word": "无限暖暖全球公测",
+      "onboard_time": 1733383819,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244811,
       "num": 237353,
       "word": "无限暖暖进不去",
@@ -5577,6 +5585,14 @@
       "onboard_time": 1733210900,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233740,
+      "num": 233740,
+      "word": "祝绪丹 自己吓自己",
+      "onboard_time": 1733383399,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 233681,
@@ -6035,6 +6051,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 219209,
+      "num": 219209,
+      "word": "无限暖暖画质",
+      "onboard_time": 1733384000,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218934,
       "num": 218934,
       "word": "福宝",
@@ -6177,6 +6201,14 @@
       "onboard_time": 1733051179,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214347,
+      "num": 214347,
+      "word": "188元买的100%山羊绒衫实为0羊绒",
+      "onboard_time": 1733383219,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 214052,
@@ -6723,6 +6755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201197,
+      "num": 201197,
+      "word": "琼瑶于沙发上离世",
+      "onboard_time": 1733382858,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201150,
       "num": 201150,
       "word": "小时播音台",
@@ -7011,6 +7051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195469,
+      "num": 195469,
+      "word": "芒果年底冲业绩了",
+      "onboard_time": 1733383938,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195451,
       "num": 343379,
       "word": "梁建章建议取消中高考",
@@ -7251,12 +7299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189687,
-      "num": 189687,
-      "word": "琼瑶于沙发上离世",
-      "onboard_time": 1733382858,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 189691,
+      "num": 189691,
+      "word": "谢可寅出演猎罪图鉴2",
+      "onboard_time": 1733384000,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 189492,
@@ -7345,6 +7393,14 @@
       "onboard_time": 1733321243,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188117,
+      "num": 188117,
+      "word": "为钓鱼设计的马甲却成了坐飞机神器",
+      "onboard_time": 1733383159,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 188059,
@@ -7617,6 +7673,14 @@
       "onboard_time": 1733358201,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183914,
+      "num": 482076,
+      "word": "中方对13家美国军工企业实施反制",
+      "onboard_time": 1733383938,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183884,
@@ -8073,6 +8137,14 @@
       "onboard_time": 1733231121,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172748,
+      "num": 172748,
+      "word": "国乒成都混团5连胜",
+      "onboard_time": 1733383880,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 172434,
@@ -9483,6 +9555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148291,
+      "num": 333811,
+      "word": "迪丽热巴ELLE全球80周年开年封首位女星",
+      "onboard_time": 1733383159,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 148255,
       "num": 148255,
       "word": "BLG宣布与ON续约至2025年",
@@ -9729,14 +9809,6 @@
       "onboard_time": 1733098157,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144144,
-      "num": 144144,
-      "word": "为钓鱼设计的马甲却成了坐飞机神器",
-      "onboard_time": 1733383159,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 144019,
@@ -10217,14 +10289,6 @@
       "onboard_time": 1733019018,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135682,
-      "num": 135682,
-      "word": "188元买的100%山羊绒衫实为0羊绒",
-      "onboard_time": 1733383219,
-      "rank": 41,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 135578,
@@ -10769,14 +10833,6 @@
       "onboard_time": 1733224640,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125183,
-      "num": 125183,
-      "word": "祝绪丹 自己吓自己",
-      "onboard_time": 1733383399,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 125069,
@@ -12523,6 +12579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88055,
+      "num": 259561,
+      "word": "员工周末不响应工作老板退群又加群",
+      "onboard_time": 1733382558,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87880,
       "num": 87880,
       "word": "央行将启用新修订的M1统计口径",
@@ -12585,6 +12649,14 @@
       "onboard_time": 1733369778,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85543,
+      "num": 333835,
+      "word": "AI接吻算不算隔空骚扰",
+      "onboard_time": 1733382500,
+      "rank": 18,
+      "category": "议题讨论,互联网"
     },
     {
       "raw_hot": 85471,
@@ -13555,14 +13627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63447,
-      "num": 333811,
-      "word": "迪丽热巴ELLE全球80周年开年封首位女星",
-      "onboard_time": 1733383159,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 63423,
       "num": 63423,
       "word": "杨紫家业紫衣古装路透",
@@ -13755,20 +13819,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59983,
+      "num": 277050,
+      "word": "部落冲突",
+      "onboard_time": 1733383819,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59493,
       "num": 325245,
       "word": "迪丽热巴的改变发生在最细微的地方",
       "onboard_time": 1733293580,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59393,
-      "num": 190034,
-      "word": "员工周末不响应工作老板退群又加群",
-      "onboard_time": 1733382558,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59354,
@@ -14395,14 +14459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 49020,
-      "num": 333835,
-      "word": "AI接吻算不算隔空骚扰",
-      "onboard_time": 1733382500,
-      "rank": 18,
-      "category": "议题讨论,互联网"
-    },
-    {
       "raw_hot": 48907,
       "num": 231378,
       "word": "未定事件簿",
@@ -14764,7 +14820,7 @@
     },
     {
       "raw_hot": 42906,
-      "num": 157845,
+      "num": 235560,
       "word": "高贵的无限暖暖公测玩家",
       "onboard_time": 1733381000,
       "rank": 45,
@@ -14777,6 +14833,14 @@
       "onboard_time": 1733159295,
       "rank": 48,
       "category": "美食,休闲"
+    },
+    {
+      "raw_hot": 42022,
+      "num": 264774,
+      "word": "陈少熙我们仍旧会一起并肩看夕阳",
+      "onboard_time": 1733384239,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 42019,
@@ -15113,6 +15177,14 @@
       "onboard_time": 1733300729,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37002,
+      "num": 403810,
+      "word": "为啥飞机上不能用充电宝",
+      "onboard_time": 1733383699,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36831,
@@ -15521,6 +15593,14 @@
       "onboard_time": 1733037678,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31739,
+      "num": 247604,
+      "word": "无限暖暖没有班味",
+      "onboard_time": 1733382439,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 31683,
@@ -16075,6 +16155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24822,
+      "num": 274801,
+      "word": "何浩楠第一次出发",
+      "onboard_time": 1733384239,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24489,
       "num": 42130,
       "word": "千金府",
@@ -16347,14 +16435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20762,
-      "num": 189690,
-      "word": "无限暖暖没有班味",
-      "onboard_time": 1733382439,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 20525,
       "num": 20672,
       "word": "李显龙称否定中国影响力是不明智的",
@@ -16369,6 +16449,14 @@
       "onboard_time": 1733161634,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20093,
+      "num": 315505,
+      "word": "男子网购减肥糖果发现内含违禁成分",
+      "onboard_time": 1733384180,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19507,
@@ -16585,6 +16673,14 @@
       "onboard_time": 1733173390,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17112,
+      "num": 285355,
+      "word": "2025江苏卫视跨年舞美预演视频",
+      "onboard_time": 1733382799,
+      "rank": 22,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 16988,
@@ -17011,6 +17107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10357,
+      "num": 188886,
+      "word": "贺岁喜剧火锅艺术家定档",
+      "onboard_time": 1733384118,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10274,
       "num": 77063,
       "word": "楼非楼开箱",
@@ -17313,6 +17417,14 @@
       "onboard_time": 1733294839,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2187,
+      "num": 579811,
+      "word": "e法润京华",
+      "onboard_time": 1733383518,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -17360,6 +17472,9 @@
     },
     {
       "word": "#宪法点亮生活#"
+    },
+    {
+      "word": "#为推动构建人类命运共同体作出更大贡献#"
     }
   ]
 }

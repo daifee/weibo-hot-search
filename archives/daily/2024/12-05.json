@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733383525834,
+  "endTime": 1733384296057,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -40,6 +40,14 @@
       "word": "李行亮麦琳 妻子的浪漫旅行",
       "onboard_time": 1733374161,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1359935,
+      "num": 1359935,
+      "word": "花少6总导演道歉",
+      "onboard_time": 1733383399,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -164,10 +172,18 @@
     },
     {
       "raw_hot": 810020,
-      "num": 374493,
+      "num": 481713,
       "word": "男子花38万娶妻崩溃发现儿子非亲生",
       "onboard_time": 1733380761,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 803380,
+      "num": 803380,
+      "word": "广东人类精子库可选更像爸爸的精子",
+      "onboard_time": 1733380459,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -177,14 +193,6 @@
       "onboard_time": 1733374820,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 770914,
-      "num": 770914,
-      "word": "广东人类精子库可选更像爸爸的精子",
-      "onboard_time": 1733380459,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 726594,
@@ -249,6 +257,14 @@
       "onboard_time": 1733368399,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566112,
+      "num": 566112,
+      "word": "美千万年薪巨头高管遭枪杀",
+      "onboard_time": 1733381778,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 557997,
@@ -379,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434383,
+      "num": 434383,
+      "word": "低俗网红坐拥4000万粉谁该脸红",
+      "onboard_time": 1733379260,
+      "rank": 38,
+      "category": "议题讨论,网红"
+    },
+    {
       "raw_hot": 432505,
       "num": 432505,
       "word": "赵露思黑色蓬蓬裙",
@@ -507,14 +531,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 333998,
-      "num": 333998,
-      "word": "低俗网红坐拥4000万粉谁该脸红",
-      "onboard_time": 1733379260,
-      "rank": 38,
-      "category": "议题讨论,网红"
-    },
-    {
       "raw_hot": 329516,
       "num": 329516,
       "word": "韩国多家大型企业劝导员工居家办公",
@@ -545,22 +561,6 @@
       "onboard_time": 1733363119,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313646,
-      "num": 374841,
-      "word": "美千万年薪巨头高管遭枪杀",
-      "onboard_time": 1733381778,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 308172,
-      "num": 308172,
-      "word": "花少6总导演道歉",
-      "onboard_time": 1733383399,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 288668,
@@ -643,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245119,
+      "num": 245119,
+      "word": "无限暖暖全球公测",
+      "onboard_time": 1733383819,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244811,
       "num": 237353,
       "word": "无限暖暖进不去",
@@ -672,6 +680,14 @@
       "word": "赵露思能不能演个恶女给我看看",
       "onboard_time": 1733370199,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233740,
+      "num": 233740,
+      "word": "祝绪丹 自己吓自己",
+      "onboard_time": 1733383399,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -739,12 +755,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219209,
+      "num": 219209,
+      "word": "无限暖暖画质",
+      "onboard_time": 1733384000,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216767,
       "num": 172009,
       "word": "无限暖暖 华为平板进不去",
       "onboard_time": 1733371460,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214347,
+      "num": 214347,
+      "word": "188元买的100%山羊绒衫实为0羊绒",
+      "onboard_time": 1733383219,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 205882,
@@ -787,6 +819,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 201197,
+      "num": 201197,
+      "word": "琼瑶于沙发上离世",
+      "onboard_time": 1733382858,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200627,
       "num": 200627,
       "word": "肖战专辑幕后记录",
@@ -827,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195469,
+      "num": 195469,
+      "word": "芒果年底冲业绩了",
+      "onboard_time": 1733383938,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195202,
       "num": 195202,
       "word": "麦琳骑马",
@@ -859,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189687,
-      "num": 189687,
-      "word": "琼瑶于沙发上离世",
-      "onboard_time": 1733382858,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 189691,
+      "num": 189691,
+      "word": "谢可寅出演猎罪图鉴2",
+      "onboard_time": 1733384000,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 188501,
@@ -873,6 +921,14 @@
       "onboard_time": 1733364499,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188117,
+      "num": 188117,
+      "word": "为钓鱼设计的马甲却成了坐飞机神器",
+      "onboard_time": 1733383159,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 187380,
@@ -921,6 +977,14 @@
       "onboard_time": 1733358201,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183914,
+      "num": 482076,
+      "word": "中方对13家美国军工企业实施反制",
+      "onboard_time": 1733383938,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182521,
@@ -985,6 +1049,14 @@
       "onboard_time": 1733341152,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172748,
+      "num": 172748,
+      "word": "国乒成都混团5连胜",
+      "onboard_time": 1733383880,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 172148,
@@ -1163,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148291,
+      "num": 333811,
+      "word": "迪丽热巴ELLE全球80周年开年封首位女星",
+      "onboard_time": 1733383159,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 148255,
       "num": 148255,
       "word": "BLG宣布与ON续约至2025年",
@@ -1225,14 +1305,6 @@
       "onboard_time": 1733366298,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144144,
-      "num": 144144,
-      "word": "为钓鱼设计的马甲却成了坐飞机神器",
-      "onboard_time": 1733383159,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 143845,
@@ -1305,14 +1377,6 @@
       "onboard_time": 1733361623,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135682,
-      "num": 135682,
-      "word": "188元买的100%山羊绒衫实为0羊绒",
-      "onboard_time": 1733383219,
-      "rank": 41,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 135368,
@@ -1401,14 +1465,6 @@
       "onboard_time": 1733382738,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125183,
-      "num": 125183,
-      "word": "祝绪丹 自己吓自己",
-      "onboard_time": 1733383399,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 125065,
@@ -1699,12 +1755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88055,
+      "num": 259561,
+      "word": "员工周末不响应工作老板退群又加群",
+      "onboard_time": 1733382558,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85975,
       "num": 252841,
       "word": "无限暖暖攻略",
       "onboard_time": 1733369778,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85543,
+      "num": 333835,
+      "word": "AI接吻算不算隔空骚扰",
+      "onboard_time": 1733382500,
+      "rank": 18,
+      "category": "议题讨论,互联网"
     },
     {
       "raw_hot": 84012,
@@ -1843,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63447,
-      "num": 333811,
-      "word": "迪丽热巴ELLE全球80周年开年封首位女星",
-      "onboard_time": 1733383159,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 60341,
       "num": 302693,
       "word": "年轻人为什么爱上中国汉堡",
@@ -1859,12 +1923,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 59393,
-      "num": 190034,
-      "word": "员工周末不响应工作老板退群又加群",
-      "onboard_time": 1733382558,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 59983,
+      "num": 277050,
+      "word": "部落冲突",
+      "onboard_time": 1733383819,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 59106,
@@ -1939,14 +2003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 49020,
-      "num": 333835,
-      "word": "AI接吻算不算隔空骚扰",
-      "onboard_time": 1733382500,
-      "rank": 18,
-      "category": "议题讨论,互联网"
-    },
-    {
       "raw_hot": 47972,
       "num": 398584,
       "word": "坍塌铁路施工方6月曾宣誓安全生产",
@@ -1972,11 +2028,19 @@
     },
     {
       "raw_hot": 42906,
-      "num": 157845,
+      "num": 235560,
       "word": "高贵的无限暖暖公测玩家",
       "onboard_time": 1733381000,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42022,
+      "num": 264774,
+      "word": "陈少熙我们仍旧会一起并肩看夕阳",
+      "onboard_time": 1733384239,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 41653,
@@ -2019,6 +2083,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 37002,
+      "num": 403810,
+      "word": "为啥飞机上不能用充电宝",
+      "onboard_time": 1733383699,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36122,
       "num": 217983,
       "word": "无限暖暖开门",
@@ -2049,6 +2121,14 @@
       "onboard_time": 1733331675,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31739,
+      "num": 247604,
+      "word": "无限暖暖没有班味",
+      "onboard_time": 1733382439,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 30782,
@@ -2099,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24822,
+      "num": 274801,
+      "word": "何浩楠第一次出发",
+      "onboard_time": 1733384239,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22220,
       "num": 156095,
       "word": "晓华说向佐真的要来了",
@@ -2107,20 +2195,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 20762,
-      "num": 189690,
-      "word": "无限暖暖没有班味",
-      "onboard_time": 1733382439,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 20589,
       "num": 276902,
       "word": "闪耀暖暖",
       "onboard_time": 1733365758,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20093,
+      "num": 315505,
+      "word": "男子网购减肥糖果发现内含违禁成分",
+      "onboard_time": 1733384180,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19297,
@@ -2137,6 +2225,14 @@
       "onboard_time": 1733339771,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17112,
+      "num": 285355,
+      "word": "2025江苏卫视跨年舞美预演视频",
+      "onboard_time": 1733382799,
+      "rank": 22,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 16988,
@@ -2187,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10357,
+      "num": 188886,
+      "word": "贺岁喜剧火锅艺术家定档",
+      "onboard_time": 1733384118,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 9408,
       "num": 91579,
       "word": "高圆圆复古千金感",
@@ -2209,6 +2313,14 @@
       "onboard_time": 1733332095,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2187,
+      "num": 579811,
+      "word": "e法润京华",
+      "onboard_time": 1733383518,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2220,6 +2332,9 @@
     },
     {
       "word": "#宪法点亮生活#"
+    },
+    {
+      "word": "#为推动构建人类命运共同体作出更大贡献#"
     }
   ]
 }
