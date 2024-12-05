@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733373839429,
+  "endTime": 1733376235198,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1510222,
+      "num": 1510222,
+      "word": "李行亮麦琳 妻子的浪漫旅行",
+      "onboard_time": 1733374161,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1509350,
       "num": 1509350,
       "word": "赵丽颖 愿您身处其中永远翩然",
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 1230407,
-      "num": 446390,
+      "num": 913172,
       "word": "琼瑶16天前回复过林青霞",
       "onboard_time": 1733369778,
       "rank": 30,
@@ -721,6 +729,14 @@
       "onboard_time": 1733041697,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1220893,
+      "num": 1220893,
+      "word": "一女主播模仿吴艳妮引热议",
+      "onboard_time": 1733370261,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 1216227,
@@ -961,14 +977,6 @@
       "onboard_time": 1733240426,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1010654,
-      "num": 1161704,
-      "word": "一女主播模仿吴艳妮引热议",
-      "onboard_time": 1733370261,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 1005636,
@@ -1947,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616600,
+      "num": 616600,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1733374820,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 615256,
       "num": 615256,
       "word": "F1",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1733268979,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 518512,
+      "num": 518512,
+      "word": "刚果金近百人死于不明疾病",
+      "onboard_time": 1733371280,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 516060,
@@ -2971,6 +2995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 444128,
+      "num": 444128,
+      "word": "孙颖莎vs金娜英",
+      "onboard_time": 1733372060,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443237,
       "num": 443237,
       "word": "退学的博士生们",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1733227701,
       "rank": 16,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 392550,
+      "num": 392550,
+      "word": "赵露思黑色蓬蓬裙",
+      "onboard_time": 1733374281,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 392126,
@@ -4115,6 +4155,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 323011,
+      "num": 212976,
+      "word": "夏弃疾也拍了孟子义",
+      "onboard_time": 1733374041,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 322867,
       "num": 322867,
       "word": "吴柳芳开通个人微博",
@@ -4193,6 +4241,14 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313294,
+      "num": 313294,
+      "word": "杨子让黄圣依开了7个小时车",
+      "onboard_time": 1733375721,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 311357,
@@ -4563,6 +4619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281167,
+      "num": 281167,
+      "word": "网红祁天道犯诈骗罪获刑细节",
+      "onboard_time": 1733369660,
+      "rank": 31,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 281121,
       "num": 281121,
       "word": "王楚钦vs吴晙诚",
@@ -4761,6 +4825,14 @@
       "onboard_time": 1733022979,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269545,
+      "num": 212144,
+      "word": "好运家 儿子27岁妈妈还可以随便亲吗",
+      "onboard_time": 1733374641,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 268538,
@@ -5563,6 +5635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226063,
+      "num": 457902,
+      "word": "春节申遗成功有哪些重要意义",
+      "onboard_time": 1733375421,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 226050,
       "num": 226050,
       "word": "国色芳华全球试映会",
@@ -5625,6 +5705,14 @@
       "onboard_time": 1733115020,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224351,
+      "num": 210804,
+      "word": "陈小春上声生不息音综变恋综",
+      "onboard_time": 1733374763,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 224075,
@@ -5923,14 +6011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215352,
-      "num": 215352,
-      "word": "孙颖莎vs金娜英",
-      "onboard_time": 1733372060,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215121,
       "num": 215121,
       "word": "珠帘玉幕11月全网播放冠军",
@@ -6065,6 +6145,14 @@
       "onboard_time": 1733236225,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210429,
+      "num": 210429,
+      "word": "一只爱马仕包等于一辆新能源车",
+      "onboard_time": 1733375182,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210015,
@@ -6241,14 +6329,6 @@
       "onboard_time": 1733034557,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205416,
-      "num": 367591,
-      "word": "刚果金近百人死于不明疾病",
-      "onboard_time": 1733371280,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 205400,
@@ -7203,6 +7283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186152,
+      "num": 186152,
+      "word": "孙颖莎11比2金娜英",
+      "onboard_time": 1733375541,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186052,
       "num": 186052,
       "word": "恋与深空",
@@ -7441,14 +7529,6 @@
       "onboard_time": 1733148142,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 181182,
-      "num": 181182,
-      "word": "网红祁天道犯诈骗罪获刑细节",
-      "onboard_time": 1733369660,
-      "rank": 31,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 181016,
@@ -7769,6 +7849,14 @@
       "onboard_time": 1733231121,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172817,
+      "num": 172817,
+      "word": "公司春节放假卷起来了",
+      "onboard_time": 1733375780,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 172434,
@@ -8243,6 +8331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163769,
+      "num": 163769,
+      "word": "无限暖暖回应部分设备无法登陆",
+      "onboard_time": 1733375241,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163644,
       "num": 153186,
       "word": "韩国联参宣布将暂时控制部队移动",
@@ -8305,6 +8401,14 @@
       "onboard_time": 1733057659,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 162226,
+      "num": 176725,
+      "word": "尖叫之夜阵容持续官宣",
+      "onboard_time": 1733374820,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 161981,
@@ -8632,6 +8736,14 @@
       "word": "筷子不能伸进屏幕的无力感",
       "onboard_time": 1733104278,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156996,
+      "num": 156996,
+      "word": "爆燃后儿子首次看到烧伤妈妈",
+      "onboard_time": 1733374641,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -9107,6 +9219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148197,
+      "num": 148197,
+      "word": "绘旅人成立工作室",
+      "onboard_time": 1733375241,
+      "rank": 43,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 147903,
       "num": 147903,
       "word": "如果手机被偷听耗电速度会快27%",
@@ -9137,6 +9257,14 @@
       "onboard_time": 1733152580,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146894,
+      "num": 146894,
+      "word": "琼瑶作品 女性情谊",
+      "onboard_time": 1733372841,
+      "rank": 49,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 146730,
@@ -9275,14 +9403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 145064,
-      "num": 145064,
-      "word": "琼瑶作品 女性情谊",
-      "onboard_time": 1733372841,
-      "rank": 49,
-      "category": "艺人,读书作家"
-    },
-    {
       "raw_hot": 145019,
       "num": 145019,
       "word": "检查结果互认致HIV感染者被拒诊",
@@ -9313,6 +9433,14 @@
       "onboard_time": 1733050519,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144450,
+      "num": 144450,
+      "word": "叙利亚或再次沦为大国博弈的沙盘",
+      "onboard_time": 1733374580,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144398,
@@ -9419,6 +9547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142056,
+      "num": 142056,
+      "word": "盘点2024",
+      "onboard_time": 1733375481,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142053,
       "num": 142053,
       "word": "家长吐槽幼儿园调查问卷问题离谱",
@@ -9497,6 +9633,14 @@
       "onboard_time": 1733209280,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140727,
+      "num": 140727,
+      "word": "BLG官宣Bin续约",
+      "onboard_time": 1733374041,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 140595,
@@ -10899,6 +11043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113161,
+      "num": 203273,
+      "word": "琼瑶剧 大女主",
+      "onboard_time": 1733373862,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113090,
       "num": 252444,
       "word": "N2听力",
@@ -11273,6 +11425,14 @@
       "onboard_time": 1733200040,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104532,
+      "num": 176155,
+      "word": "孙颖莎2比1金娜英",
+      "onboard_time": 1733375421,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 104526,
@@ -12337,6 +12497,14 @@
       "onboard_time": 1733021597,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79588,
+      "num": 322689,
+      "word": "婚恋交友平台女聊手分成可达40%",
+      "onboard_time": 1733374940,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 79547,
@@ -13803,6 +13971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48906,
+      "num": 203005,
+      "word": "关于卫生巾到底哪些是对的",
+      "onboard_time": 1733374940,
+      "rank": 29,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 48519,
       "num": 426005,
       "word": "心理咨询师谈郁豹豹认亲后决裂",
@@ -14217,6 +14393,14 @@
       "onboard_time": 1733199441,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40715,
+      "num": 213260,
+      "word": "任嘉伦告黑粉侵权",
+      "onboard_time": 1733375361,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 40614,
@@ -15539,6 +15723,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 23853,
+      "num": 173124,
+      "word": "女性到底需要怎样的卫生巾",
+      "onboard_time": 1733374342,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23659,
       "num": 152896,
       "word": "向佐抽象语音包",
@@ -15585,6 +15777,14 @@
       "onboard_time": 1733146403,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22970,
+      "num": 969021,
+      "word": "文化中国行看文博热升温",
+      "onboard_time": 1733374041,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22803,
