@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733364885058,
+  "endTime": 1733368012774,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -15,6 +15,14 @@
       "num": 2395013,
       "word": "琼瑶系一氧化碳中毒窒息而亡",
       "onboard_time": 1733361080,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1582408,
+      "num": 1582408,
+      "word": "于正抄袭琼瑶败诉6年后才道歉",
+      "onboard_time": 1733365938,
       "rank": 0,
       "category": "艺人"
     },
@@ -59,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 851368,
+      "num": 851368,
+      "word": "女硕士走失后被一居民收留",
+      "onboard_time": 1733361259,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 846267,
       "num": 846267,
       "word": "琼瑶去世",
@@ -67,12 +83,28 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 799634,
+      "num": 799634,
+      "word": "周雨彤 我们不是电脑是人",
+      "onboard_time": 1733365457,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658896,
       "num": 658896,
       "word": "百万网红咖啡放弃直肠癌化疗",
       "onboard_time": 1733334673,
       "rank": 25,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 620900,
+      "num": 620900,
+      "word": "比特币",
+      "onboard_time": 1733366898,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 605439,
@@ -123,12 +155,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 426957,
-      "num": 426957,
+      "raw_hot": 462402,
+      "num": 462402,
       "word": "春节申遗成功各地文物组团祝贺",
       "onboard_time": 1733327180,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 449670,
+      "num": 449670,
+      "word": "刺杀小说家",
+      "onboard_time": 1733366057,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 403348,
@@ -155,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371796,
+      "num": 410691,
+      "word": "非遗版春节壁纸",
+      "onboard_time": 1733332216,
+      "rank": 42,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 347972,
       "num": 299971,
       "word": "丁禹兮空降",
@@ -171,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335088,
+      "num": 335088,
+      "word": "中国已有44项世界非遗",
+      "onboard_time": 1733322744,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 329516,
       "num": 329516,
       "word": "韩国多家大型企业劝导员工居家办公",
@@ -179,20 +235,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 327685,
-      "num": 327685,
-      "word": "中国已有44项世界非遗",
-      "onboard_time": 1733322744,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 288668,
       "num": 288668,
       "word": "姆巴佩心态崩了",
       "onboard_time": 1733361321,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276944,
+      "num": 276944,
+      "word": "迪丽热巴工作室激情加更",
+      "onboard_time": 1733367078,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 275150,
@@ -219,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256311,
+      "num": 256311,
+      "word": "国乒今天迎战韩国队",
+      "onboard_time": 1733363119,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255396,
       "num": 255396,
       "word": "欧阳妮妮挺9月孕肚出门",
       "onboard_time": 1733316923,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244811,
+      "num": 237353,
+      "word": "无限暖暖进不去",
+      "onboard_time": 1733365399,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 244799,
@@ -235,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233380,
-      "num": 233380,
-      "word": "女硕士走失后被一居民收留",
-      "onboard_time": 1733361259,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 229192,
       "num": 229192,
       "word": "2025能过第一个非遗版春节",
@@ -251,12 +315,52 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 220149,
+      "num": 220149,
+      "word": "丁禹兮 骂姐夫赛道",
+      "onboard_time": 1733366238,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219609,
+      "num": 219609,
+      "word": "丁程鑫友情出演邓超新片",
+      "onboard_time": 1733367321,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 209456,
+      "num": 209456,
+      "word": "GAI隔空回复初中同学",
+      "onboard_time": 1733365699,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204879,
       "num": 204879,
       "word": "我们的春节成为世界非遗了",
       "onboard_time": 1733322984,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 203794,
+      "num": 463330,
+      "word": "美图卖了所有加密货币净赚5亿多元",
+      "onboard_time": 1733363179,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 200627,
+      "num": 200627,
+      "word": "肖战专辑幕后记录",
+      "onboard_time": 1733367078,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 198086,
@@ -275,12 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195459,
-      "num": 195459,
+      "raw_hot": 197357,
+      "num": 197357,
       "word": "专家称白猫在猫眼里不是最丑的",
       "onboard_time": 1733352735,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195965,
+      "num": 195965,
+      "word": "易烊千玺运动风六宫格",
+      "onboard_time": 1733367379,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 195202,
@@ -288,6 +400,14 @@
       "word": "麦琳骑马",
       "onboard_time": 1733359402,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188501,
+      "num": 188501,
+      "word": "宋亚轩喂王安宇的麦吃苹果",
+      "onboard_time": 1733364499,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -347,6 +467,38 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 167435,
+      "num": 167435,
+      "word": "刺杀小说家2全员海报",
+      "onboard_time": 1733367258,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 165898,
+      "num": 165898,
+      "word": "琼瑶曾送签名给接生自己的成都护士",
+      "onboard_time": 1733367441,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163261,
+      "num": 163261,
+      "word": "丁禹兮自拍vs她拍",
+      "onboard_time": 1733365699,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159944,
+      "num": 159944,
+      "word": "RNG疑似无法注册",
+      "onboard_time": 1733367258,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158855,
       "num": 126867,
       "word": "粉云直播",
@@ -363,6 +515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154952,
+      "num": 154952,
+      "word": "梁洁古装造型",
+      "onboard_time": 1733367799,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153130,
+      "num": 153130,
+      "word": "韩国",
+      "onboard_time": 1733357361,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147903,
       "num": 147903,
       "word": "如果手机被偷听耗电速度会快27%",
@@ -371,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147062,
-      "num": 147062,
-      "word": "韩国",
-      "onboard_time": 1733357361,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 145972,
+      "num": 145972,
+      "word": "琼瑶身家保守估计超25亿元",
+      "onboard_time": 1733363239,
+      "rank": 44,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 145019,
@@ -395,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144321,
+      "num": 144321,
+      "word": "湖人vs热火",
+      "onboard_time": 1733366298,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141461,
       "num": 125118,
       "word": "秦岚很幸运成为阿姨笔下的知画和绿萍",
       "onboard_time": 1733328140,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138128,
+      "num": 213482,
+      "word": "无限暖暖uid",
+      "onboard_time": 1733365639,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 137277,
@@ -417,14 +601,6 @@
       "onboard_time": 1733325862,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134547,
-      "num": 410691,
-      "word": "非遗版春节壁纸",
-      "onboard_time": 1733332216,
-      "rank": 42,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 134212,
@@ -459,12 +635,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118991,
-      "num": 118991,
-      "word": "美图卖了所有加密货币净赚5亿多元",
-      "onboard_time": 1733363179,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 121993,
+      "num": 121993,
+      "word": "无限暖暖声明",
+      "onboard_time": 1733367799,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 120336,
+      "num": 120336,
+      "word": "现在拨打的电话",
+      "onboard_time": 1733367859,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118508,
+      "num": 118508,
+      "word": "无限暖暖将限制未成年人游戏时间",
+      "onboard_time": 1733367680,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118006,
+      "num": 118006,
+      "word": "中国在联合国为战火下的儿童发声",
+      "onboard_time": 1733360660,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117398,
@@ -505,14 +705,6 @@
       "onboard_time": 1733346250,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107905,
-      "num": 107905,
-      "word": "国乒今天迎战韩国队",
-      "onboard_time": 1733363119,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 105400,
@@ -571,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97195,
-      "num": 95341,
-      "word": "琼瑶身家保守估计超25亿元",
-      "onboard_time": 1733363239,
-      "rank": 44,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 96944,
       "num": 96944,
       "word": "爱宝乐园正与中方专家沟通福宝状况",
@@ -609,14 +793,6 @@
       "onboard_time": 1733301867,
       "rank": 20,
       "category": "艺人,读书作家"
-    },
-    {
-      "raw_hot": 95224,
-      "num": 95224,
-      "word": "中国在联合国为战火下的儿童发声",
-      "onboard_time": 1733360660,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95163,
@@ -867,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26890,
+      "num": 120443,
+      "word": "论全面还得是小艺",
+      "onboard_time": 1733367859,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 25173,
       "num": 25173,
       "word": "周深谈一路成长",
@@ -913,6 +1097,14 @@
       "onboard_time": 1733329398,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15495,
+      "num": 492497,
+      "word": "韩国警方开始调查尹锡悦涉内乱罪",
+      "onboard_time": 1733367919,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15223,

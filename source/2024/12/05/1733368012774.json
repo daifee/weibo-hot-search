@@ -1,0 +1,410 @@
+{
+  "runTime": 1733368012774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1582408,
+        "num": 1582408,
+        "word": "于正抄袭琼瑶败诉6年后才道歉",
+        "onboard_time": 1733365938,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 992611,
+        "num": 992611,
+        "word": "韩国首尔爆发示威游行",
+        "onboard_time": 1733358501,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7183,
+        "num": 910102,
+        "word": "京西有条文化带",
+        "onboard_time": 1733301088,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 858564,
+        "num": 858564,
+        "word": "琼瑶系一氧化碳中毒窒息而亡",
+        "onboard_time": 1733361080,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851368,
+        "num": 851368,
+        "word": "女硕士走失后被一居民收留",
+        "onboard_time": 1733361259,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 814898,
+        "num": 814898,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 799634,
+        "num": 799634,
+        "word": "周雨彤 我们不是电脑是人",
+        "onboard_time": 1733365457,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620900,
+        "num": 620900,
+        "word": "比特币",
+        "onboard_time": 1733366898,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15495,
+        "num": 492497,
+        "word": "韩国警方开始调查尹锡悦涉内乱罪",
+        "onboard_time": 1733367919,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203794,
+        "num": 463330,
+        "word": "美图卖了所有加密货币净赚5亿多元",
+        "onboard_time": 1733363179,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 462402,
+        "num": 462402,
+        "word": "春节申遗成功各地文物组团祝贺",
+        "onboard_time": 1733327180,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 449670,
+        "num": 449670,
+        "word": "刺杀小说家",
+        "onboard_time": 1733366057,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443259,
+        "num": 443259,
+        "word": "两度发现遗体博主将面临处罚",
+        "onboard_time": 1733314701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396232,
+        "num": 396232,
+        "word": "郭敬明发了鞠婧祎正面照",
+        "onboard_time": 1733358622,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371796,
+        "num": 371796,
+        "word": "非遗版春节壁纸",
+        "onboard_time": 1733332216,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 335088,
+        "num": 335088,
+        "word": "中国已有44项世界非遗",
+        "onboard_time": 1733322744,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 292403,
+        "num": 292403,
+        "word": "虞书欣爷爷去了永夜星河庆功宴",
+        "onboard_time": 1733321663,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276944,
+        "num": 276944,
+        "word": "迪丽热巴工作室激情加更",
+        "onboard_time": 1733367078,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268332,
+        "num": 268332,
+        "word": "湖南卫视播出又见一帘幽梦",
+        "onboard_time": 1733358622,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256311,
+        "num": 256311,
+        "word": "国乒今天迎战韩国队",
+        "onboard_time": 1733363119,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267598,
+        "num": 240477,
+        "word": "姚政升级当爸",
+        "onboard_time": 1733362162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244811,
+        "num": 237353,
+        "word": "无限暖暖进不去",
+        "onboard_time": 1733365399,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220149,
+        "num": 220149,
+        "word": "丁禹兮 骂姐夫赛道",
+        "onboard_time": 1733366238,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219609,
+        "num": 219609,
+        "word": "丁程鑫友情出演邓超新片",
+        "onboard_time": 1733367321,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138128,
+        "num": 213482,
+        "word": "无限暖暖uid",
+        "onboard_time": 1733365639,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209456,
+        "num": 209456,
+        "word": "GAI隔空回复初中同学",
+        "onboard_time": 1733365699,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200627,
+        "num": 200627,
+        "word": "肖战专辑幕后记录",
+        "onboard_time": 1733367078,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199663,
+        "num": 199663,
+        "word": "韩国多家大型企业劝导员工居家办公",
+        "onboard_time": 1733357900,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197357,
+        "num": 197357,
+        "word": "专家称白猫在猫眼里不是最丑的",
+        "onboard_time": 1733352735,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195965,
+        "num": 195965,
+        "word": "易烊千玺运动风六宫格",
+        "onboard_time": 1733367379,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 188501,
+        "num": 188501,
+        "word": "宋亚轩喂王安宇的麦吃苹果",
+        "onboard_time": 1733364499,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185997,
+        "num": 185997,
+        "word": "姆巴佩心态崩了",
+        "onboard_time": 1733361321,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168422,
+        "num": 168422,
+        "word": "微信群对骂十几分钟双双被罚200元",
+        "onboard_time": 1733325263,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167435,
+        "num": 167435,
+        "word": "刺杀小说家2全员海报",
+        "onboard_time": 1733367258,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165898,
+        "num": 165898,
+        "word": "琼瑶曾送签名给接生自己的成都护士",
+        "onboard_time": 1733367441,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163261,
+        "num": 163261,
+        "word": "丁禹兮自拍vs她拍",
+        "onboard_time": 1733365699,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159944,
+        "num": 159944,
+        "word": "RNG疑似无法注册",
+        "onboard_time": 1733367258,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154952,
+        "num": 154952,
+        "word": "梁洁古装造型",
+        "onboard_time": 1733367799,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153130,
+        "num": 153130,
+        "word": "韩国",
+        "onboard_time": 1733357361,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145972,
+        "num": 145972,
+        "word": "琼瑶身家保守估计超25亿元",
+        "onboard_time": 1733363239,
+        "rank": 39,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 144321,
+        "num": 144321,
+        "word": "湖人vs热火",
+        "onboard_time": 1733366298,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139783,
+        "num": 139783,
+        "word": "百万网红咖啡放弃直肠癌化疗",
+        "onboard_time": 1733334673,
+        "rank": 41,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 132229,
+        "num": 132229,
+        "word": "44项来自中国的非遗瑰宝",
+        "onboard_time": 1733360660,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124072,
+        "num": 124072,
+        "word": "韩国的6小时40分钟",
+        "onboard_time": 1733335393,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122629,
+        "num": 122629,
+        "word": "法国政府被议会推翻",
+        "onboard_time": 1733356158,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121993,
+        "num": 121993,
+        "word": "无限暖暖声明",
+        "onboard_time": 1733367799,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26890,
+        "num": 120443,
+        "word": "论全面还得是小艺",
+        "onboard_time": 1733367859,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120336,
+        "num": 120336,
+        "word": "现在拨打的电话",
+        "onboard_time": 1733367859,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118508,
+        "num": 118508,
+        "word": "无限暖暖将限制未成年人游戏时间",
+        "onboard_time": 1733367680,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118006,
+        "num": 118006,
+        "word": "中国在联合国为战火下的儿童发声",
+        "onboard_time": 1733360660,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推动共建一带一路高质量发展#"
+    }
+  }
+}
