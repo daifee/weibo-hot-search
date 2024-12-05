@@ -1,0 +1,410 @@
+{
+  "runTime": 1733368564141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1666906,
+        "num": 1666906,
+        "word": "于正抄袭琼瑶败诉6年后才道歉",
+        "onboard_time": 1733365938,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710435,
+        "num": 710435,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 8398,
+        "num": 686812,
+        "word": "京西有条文化带",
+        "onboard_time": 1733301088,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 997078,
+        "num": 614297,
+        "word": "韩国首尔爆发示威游行",
+        "onboard_time": 1733358501,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 874831,
+        "num": 546060,
+        "word": "周雨彤 我们不是电脑是人",
+        "onboard_time": 1733365457,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763435,
+        "num": 463658,
+        "word": "女硕士走失后被一居民收留",
+        "onboard_time": 1733361259,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 424311,
+        "num": 424311,
+        "word": "刺杀小说家",
+        "onboard_time": 1733366057,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408932,
+        "num": 408932,
+        "word": "春节申遗成功各地文物组团祝贺",
+        "onboard_time": 1733327180,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 210974,
+        "num": 402413,
+        "word": "韩国警方开始调查尹锡悦涉内乱罪",
+        "onboard_time": 1733367919,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80755,
+        "num": 397824,
+        "word": "美国务院称尹锡悦严重误判",
+        "onboard_time": 1733368460,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 397654,
+        "num": 397654,
+        "word": "两度发现遗体博主将面临处罚",
+        "onboard_time": 1733314701,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360541,
+        "num": 360541,
+        "word": "郭敬明发了鞠婧祎正面照",
+        "onboard_time": 1733358622,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354302,
+        "num": 354302,
+        "word": "非遗版春节壁纸",
+        "onboard_time": 1733332216,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 316792,
+        "num": 316792,
+        "word": "国乒今天迎战韩国队",
+        "onboard_time": 1733363119,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313944,
+        "num": 313944,
+        "word": "迪丽热巴工作室激情加更",
+        "onboard_time": 1733367078,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310931,
+        "num": 310931,
+        "word": "中国已有44项世界非遗",
+        "onboard_time": 1733322744,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 285699,
+        "num": 285699,
+        "word": "虞书欣爷爷去了永夜星河庆功宴",
+        "onboard_time": 1733321663,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250589,
+        "num": 250589,
+        "word": "湖南卫视播出又见一帘幽梦",
+        "onboard_time": 1733358622,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243712,
+        "num": 243712,
+        "word": "GAI隔空回复初中同学",
+        "onboard_time": 1733365699,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242786,
+        "num": 242786,
+        "word": "美图卖了所有加密货币净赚5亿多元",
+        "onboard_time": 1733363179,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223980,
+        "num": 223980,
+        "word": "姚政升级当爸",
+        "onboard_time": 1733362162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221809,
+        "num": 221809,
+        "word": "丁禹兮 骂姐夫赛道",
+        "onboard_time": 1733366238,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205893,
+        "num": 205893,
+        "word": "梁洁古装造型",
+        "onboard_time": 1733367799,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201587,
+        "num": 201587,
+        "word": "易烊千玺运动风六宫格",
+        "onboard_time": 1733367379,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114017,
+        "num": 201164,
+        "word": "无限暖暖uid",
+        "onboard_time": 1733365639,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 548293,
+        "num": 201020,
+        "word": "琼瑶系一氧化碳中毒窒息而亡",
+        "onboard_time": 1733361080,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200850,
+        "num": 200850,
+        "word": "赵丽颖机场Allblack穿搭",
+        "onboard_time": 1733368399,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194908,
+        "num": 194908,
+        "word": "丁程鑫主演邓超新片",
+        "onboard_time": 1733367321,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30782,
+        "num": 188501,
+        "word": "读到泪目的毕业论文致谢",
+        "onboard_time": 1733368219,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29109,
+        "num": 188351,
+        "word": "论全面还得是小艺",
+        "onboard_time": 1733367859,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188249,
+        "num": 188249,
+        "word": "韩国多家大型企业劝导员工居家办公",
+        "onboard_time": 1733357900,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186967,
+        "num": 186967,
+        "word": "专家称白猫在猫眼里不是最丑的",
+        "onboard_time": 1733352735,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169922,
+        "num": 169922,
+        "word": "琼瑶曾送签名给接生自己的成都护士",
+        "onboard_time": 1733367441,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165425,
+        "num": 165425,
+        "word": "宋亚轩喂王安宇的麦吃苹果",
+        "onboard_time": 1733364499,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160442,
+        "num": 160442,
+        "word": "刺杀小说家2全员海报",
+        "onboard_time": 1733367258,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157770,
+        "num": 157770,
+        "word": "姆巴佩心态崩了",
+        "onboard_time": 1733361321,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156358,
+        "num": 156358,
+        "word": "孟子义用美丽形容自己",
+        "onboard_time": 1733368279,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152699,
+        "num": 152699,
+        "word": "RNG疑似无法注册",
+        "onboard_time": 1733367258,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150047,
+        "num": 150047,
+        "word": "现在拨打的电话",
+        "onboard_time": 1733367859,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149763,
+        "num": 149763,
+        "word": "丁禹兮自拍vs她拍",
+        "onboard_time": 1733365699,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149417,
+        "num": 149417,
+        "word": "韩国",
+        "onboard_time": 1733357361,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139735,
+        "num": 139735,
+        "word": "微信群对骂十几分钟双双被罚200元",
+        "onboard_time": 1733325263,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131055,
+        "num": 131055,
+        "word": "韩国的6小时40分钟",
+        "onboard_time": 1733335393,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130634,
+        "num": 130634,
+        "word": "琼瑶身家保守估计超25亿元",
+        "onboard_time": 1733363239,
+        "rank": 43,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 881195,
+        "num": 129888,
+        "word": "比特币",
+        "onboard_time": 1733366898,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107385,
+        "num": 128656,
+        "word": "中国在联合国为战火下的儿童发声",
+        "onboard_time": 1733360660,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127632,
+        "num": 127632,
+        "word": "百万网红咖啡放弃直肠癌化疗",
+        "onboard_time": 1733334673,
+        "rank": 46,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 127478,
+        "num": 127478,
+        "word": "湖人vs热火",
+        "onboard_time": 1733366298,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126767,
+        "num": 126767,
+        "word": "肖战专辑幕后记录",
+        "onboard_time": 1733367078,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124722,
+        "num": 124722,
+        "word": "第五人格",
+        "onboard_time": 1733366479,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
