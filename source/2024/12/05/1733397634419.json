@@ -1,0 +1,410 @@
+{
+  "runTime": 1733397634419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052395,
+        "num": 1168383,
+        "word": "王楚钦孙颖莎今晚出战混双",
+        "onboard_time": 1733394978,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1013084,
+        "num": 1013084,
+        "word": "李行亮被活动除名",
+        "onboard_time": 1733394199,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38732,
+        "num": 687625,
+        "word": "北京人的北京地儿",
+        "onboard_time": 1733386818,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620466,
+        "num": 620466,
+        "word": "Gemini当爸爸了",
+        "onboard_time": 1733397019,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 532823,
+        "num": 532823,
+        "word": "外交部批BBC呼吁停用新疆番茄",
+        "onboard_time": 1733395640,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 517918,
+        "num": 517918,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470256,
+        "num": 470256,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442501,
+        "num": 442501,
+        "word": "王楚钦孙颖莎一起训练",
+        "onboard_time": 1733395700,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338217,
+        "num": 338217,
+        "word": "迪丽热巴邓为于适同框",
+        "onboard_time": 1733397379,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67206,
+        "num": 319543,
+        "word": "任何抹黑都改变不了新疆产品的物美质优",
+        "onboard_time": 1733397081,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482727,
+        "num": 318376,
+        "word": "杨子这期选离婚",
+        "onboard_time": 1733396659,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313444,
+        "num": 313444,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 300497,
+        "num": 300497,
+        "word": "易烊千玺音乐会",
+        "onboard_time": 1733395581,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281335,
+        "num": 281335,
+        "word": "男子花38万娶妻崩溃发现儿子非亲生",
+        "onboard_time": 1733380761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28352,
+        "num": 255734,
+        "word": "演唱会电影是演唱会平替吗",
+        "onboard_time": 1733396719,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252183,
+        "num": 252183,
+        "word": "莎头好久不见",
+        "onboard_time": 1733397019,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240169,
+        "num": 240169,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232756,
+        "num": 232756,
+        "word": "Rose前男友是谁",
+        "onboard_time": 1733397199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80226,
+        "num": 231517,
+        "word": "王楚钦孙颖莎vs姚钧涛吴咏琳",
+        "onboard_time": 1733396480,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37809,
+        "num": 229886,
+        "word": "博物馆文物发霉值得反思",
+        "onboard_time": 1733396959,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 79024,
+        "num": 228220,
+        "word": "国乒vs中国香港",
+        "onboard_time": 1733396360,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1934402,
+        "num": 228186,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413527,
+        "num": 226677,
+        "word": "六旬老人尝试高危性行为感染艾滋病",
+        "onboard_time": 1733392460,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375345,
+        "num": 224480,
+        "word": "1岁男童在父母怀中看完烟花离世",
+        "onboard_time": 1733390480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299550,
+        "num": 223415,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222119,
+        "num": 222119,
+        "word": "Gemini长沙首播",
+        "onboard_time": 1733393959,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216298,
+        "num": 216298,
+        "word": "模仿吴艳妮主播被禁止发作品",
+        "onboard_time": 1733389098,
+        "rank": 26,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 212103,
+        "num": 212103,
+        "word": "杨子让黄圣依开了7个小时车",
+        "onboard_time": 1733375721,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190593,
+        "num": 210456,
+        "word": "谭松韵红裙",
+        "onboard_time": 1733395520,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109053,
+        "num": 206842,
+        "word": "AL官宣Tarzan加入",
+        "onboard_time": 1733396120,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241824,
+        "num": 204221,
+        "word": "福宝发抖原因正逐步排查",
+        "onboard_time": 1733390660,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1326334,
+        "num": 200232,
+        "word": "司机拒绝接受检查突然逃逸跳桥身亡",
+        "onboard_time": 1733393061,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198176,
+        "num": 198176,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176703,
+        "num": 176703,
+        "word": "周也DIOR活动生图",
+        "onboard_time": 1733396659,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 848473,
+        "num": 174575,
+        "word": "迪奥点灯活动",
+        "onboard_time": 1733394441,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 171191,
+        "num": 171191,
+        "word": "祁天道账号被封",
+        "onboard_time": 1733392580,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164962,
+        "num": 164962,
+        "word": "朱一龙长发",
+        "onboard_time": 1733396120,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13639,
+        "num": 164954,
+        "word": "不要放过这个网球风的易烊千玺",
+        "onboard_time": 1733394680,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 17049,
+        "num": 164601,
+        "word": "刘雯开场的大衣有4000枚亮片",
+        "onboard_time": 1733396179,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 162409,
+        "num": 164455,
+        "word": "迪士尼偶遇丁程鑫",
+        "onboard_time": 1733392641,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161821,
+        "num": 164353,
+        "word": "朴彩英巡演期间和前男友吵架",
+        "onboard_time": 1733394741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164214,
+        "num": 164214,
+        "word": "月薪4000被诱导购买丰胸产品逾40万",
+        "onboard_time": 1733396779,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162170,
+        "num": 162170,
+        "word": "感觉体制内挺适合不婚族",
+        "onboard_time": 1733387059,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159274,
+        "num": 159274,
+        "word": "林珍娜蔡钟硕恋情",
+        "onboard_time": 1733387059,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156069,
+        "num": 156069,
+        "word": "广东成立深圳坍塌事故省政府调查组",
+        "onboard_time": 1733396779,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 155501,
+        "num": 155501,
+        "word": "为什么羽绒服里面穿短袖更暖和",
+        "onboard_time": 1733385500,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461242,
+        "num": 154034,
+        "word": "迪丽热巴迪奥活动造型",
+        "onboard_time": 1733393598,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 152009,
+        "num": 152009,
+        "word": "是谁在纵容祁天道",
+        "onboard_time": 1733391439,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151389,
+        "num": 151389,
+        "word": "郑业成在我首页转一天扇子了",
+        "onboard_time": 1733397440,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134848,
+        "num": 134848,
+        "word": "3岁失去妈妈30年后看到她的样子",
+        "onboard_time": 1733397560,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法点亮生活#"
+    }
+  }
+}

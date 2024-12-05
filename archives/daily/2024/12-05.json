@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733395475644,
+  "endTime": 1733397634419,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -83,7 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1311078,
+      "raw_hot": 1326334,
       "num": 384067,
       "word": "司机拒绝接受检查突然逃逸跳桥身亡",
       "onboard_time": 1733393061,
@@ -139,6 +139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1052395,
+      "num": 1168383,
+      "word": "王楚钦孙颖莎今晚出战混双",
+      "onboard_time": 1733394978,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1027681,
       "num": 1164429,
       "word": "黄子韬徐艺洋右脸",
@@ -153,6 +161,14 @@
       "onboard_time": 1733365457,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1013084,
+      "num": 1013084,
+      "word": "李行亮被活动除名",
+      "onboard_time": 1733394199,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1009611,
@@ -211,6 +227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 848473,
+      "num": 1119558,
+      "word": "迪奥点灯活动",
+      "onboard_time": 1733394441,
+      "rank": 0,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 846267,
       "num": 846267,
       "word": "琼瑶去世",
@@ -249,14 +273,6 @@
       "onboard_time": 1733374820,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 747239,
-      "num": 1119558,
-      "word": "迪奥点灯活动",
-      "onboard_time": 1733394441,
-      "rank": 0,
-      "category": "时尚"
     },
     {
       "raw_hot": 732394,
@@ -315,20 +331,20 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 653217,
-      "num": 653217,
-      "word": "李行亮被活动除名",
-      "onboard_time": 1733394199,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 646197,
       "num": 646197,
       "word": "刺杀小说家",
       "onboard_time": 1733366057,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 620466,
+      "num": 620466,
+      "word": "Gemini当爸爸了",
+      "onboard_time": 1733397019,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 605439,
@@ -427,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 532823,
+      "num": 532823,
+      "word": "外交部批BBC呼吁停用新疆番茄",
+      "onboard_time": 1733395640,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 523964,
       "num": 549972,
       "word": "国乒8比4韩国",
@@ -465,6 +489,14 @@
       "onboard_time": 1733369178,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 482727,
+      "num": 318376,
+      "word": "杨子这期选离婚",
+      "onboard_time": 1733396659,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 479934,
@@ -523,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 442501,
+      "num": 442501,
+      "word": "王楚钦孙颖莎一起训练",
+      "onboard_time": 1733395700,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434383,
       "num": 434383,
       "word": "低俗网红坐拥4000万粉谁该脸红",
@@ -547,7 +587,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408041,
+      "raw_hot": 413527,
       "num": 268224,
       "word": "六旬老人尝试高危性行为感染艾滋病",
       "onboard_time": 1733392460,
@@ -617,14 +657,6 @@
       "onboard_time": 1733391619,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 383919,
-      "num": 383919,
-      "word": "王楚钦孙颖莎今晚出战混双",
-      "onboard_time": 1733394978,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 381559,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338217,
+      "num": 338217,
+      "word": "迪丽热巴邓为于适同框",
+      "onboard_time": 1733397379,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 336690,
       "num": 301588,
       "word": "经超为小李琳推轮椅",
@@ -761,6 +801,14 @@
       "onboard_time": 1733363119,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300497,
+      "num": 300497,
+      "word": "易烊千玺音乐会",
+      "onboard_time": 1733395581,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 288668,
@@ -843,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252183,
+      "num": 252183,
+      "word": "莎头好久不见",
+      "onboard_time": 1733397019,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251627,
       "num": 224680,
       "word": "向佐主打一个错峰理发",
@@ -920,6 +976,14 @@
       "word": "琼瑶家人公告",
       "onboard_time": 1733391379,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232756,
+      "num": 232756,
+      "word": "Rose前男友是谁",
+      "onboard_time": 1733397199,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1219,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190593,
+      "num": 210456,
+      "word": "谭松韵红裙",
+      "onboard_time": 1733395520,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188501,
       "num": 188501,
       "word": "宋亚轩喂王安宇的麦吃苹果",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1733370861,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176703,
+      "num": 176703,
+      "word": "周也DIOR活动生图",
+      "onboard_time": 1733396659,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 176303,
@@ -1459,6 +1539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164962,
+      "num": 164962,
+      "word": "朱一龙长发",
+      "onboard_time": 1733396120,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164214,
+      "num": 164214,
+      "word": "月薪4000被诱导购买丰胸产品逾40万",
+      "onboard_time": 1733396779,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163769,
       "num": 163769,
       "word": "无限暖暖回应部分设备无法登陆",
@@ -1555,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156069,
+      "num": 156069,
+      "word": "广东成立深圳坍塌事故省政府调查组",
+      "onboard_time": 1733396779,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 155958,
       "num": 155958,
       "word": "无限暖暖超话",
@@ -1593,6 +1697,14 @@
       "onboard_time": 1733388738,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151389,
+      "num": 151389,
+      "word": "郑业成在我首页转一天扇子了",
+      "onboard_time": 1733397440,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 149581,
@@ -1817,6 +1929,14 @@
       "onboard_time": 1733325862,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134848,
+      "num": 134848,
+      "word": "3岁失去妈妈30年后看到她的样子",
+      "onboard_time": 1733397560,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 134374,
@@ -2075,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109053,
+      "num": 206842,
+      "word": "AL官宣Tarzan加入",
+      "onboard_time": 1733396120,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108246,
       "num": 108246,
       "word": "还珠3演员发文悼念琼瑶",
@@ -2323,12 +2451,28 @@
       "category": "正能量,情感"
     },
     {
+      "raw_hot": 80226,
+      "num": 231517,
+      "word": "王楚钦孙颖莎vs姚钧涛吴咏琳",
+      "onboard_time": 1733396480,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79588,
       "num": 322689,
       "word": "婚恋交友平台女聊手分成可达40%",
       "onboard_time": 1733374940,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 79024,
+      "num": 228220,
+      "word": "国乒vs中国香港",
+      "onboard_time": 1733396360,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 77467,
@@ -2441,6 +2585,14 @@
       "onboard_time": 1733382619,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67206,
+      "num": 319543,
+      "word": "任何抹黑都改变不了新疆产品的物美质优",
+      "onboard_time": 1733397081,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66997,
@@ -2715,6 +2867,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 37809,
+      "num": 229886,
+      "word": "博物馆文物发霉值得反思",
+      "onboard_time": 1733396959,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 37002,
       "num": 403810,
       "word": "为啥飞机上不能用充电宝",
@@ -2801,6 +2961,14 @@
       "onboard_time": 1733325562,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28352,
+      "num": 255734,
+      "word": "演唱会电影是演唱会平替吗",
+      "onboard_time": 1733396719,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 27618,
@@ -2955,6 +3123,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 17049,
+      "num": 164601,
+      "word": "刘雯开场的大衣有4000枚亮片",
+      "onboard_time": 1733396179,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 16988,
       "num": 39595,
       "word": "韩国戒严令时间线",
@@ -3003,6 +3179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 13639,
+      "num": 195375,
+      "word": "不要放过这个网球风的易烊千玺",
+      "onboard_time": 1733394680,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 12326,
       "num": 1140313,
       "word": "京西有条文化带",
@@ -3049,14 +3233,6 @@
       "onboard_time": 1733324543,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7496,
-      "num": 195375,
-      "word": "不要放过这个网球风的易烊千玺",
-      "onboard_time": 1733394680,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 7356,
