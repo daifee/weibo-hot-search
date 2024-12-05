@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733403822755,
+  "endTime": 1733405610066,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -11,20 +11,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2865873,
+      "num": 2865873,
+      "word": "挖呀挖黄老师疑开豪车引热议",
+      "onboard_time": 1733401820,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2795082,
       "num": 384966,
       "word": "朴彩英自曝恋爱",
       "onboard_time": 1733391379,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2604623,
-      "num": 2604623,
-      "word": "挖呀挖黄老师疑开豪车引热议",
-      "onboard_time": 1733401820,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2395013,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697282,
+      "num": 697282,
+      "word": "猎罪图鉴2开局就是第十二单元",
+      "onboard_time": 1733401519,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 690398,
       "num": 690398,
       "word": "模仿吴艳妮主播被禁止发作品",
@@ -387,12 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 627870,
-      "num": 627870,
-      "word": "猎罪图鉴2开局就是第十二单元",
-      "onboard_time": 1733401519,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 638827,
+      "num": 638827,
+      "word": "莎头采访",
+      "onboard_time": 1733403140,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 605439,
@@ -491,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 539262,
+      "num": 539262,
+      "word": "孙颖莎 彼此之间的信任一直都在",
+      "onboard_time": 1733403980,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532823,
       "num": 532823,
       "word": "外交部批BBC呼吁停用新疆番茄",
@@ -545,6 +561,14 @@
       "onboard_time": 1733369178,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484709,
+      "num": 484709,
+      "word": "还珠格格 公主坟",
+      "onboard_time": 1733403140,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 479934,
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398569,
+      "num": 398569,
+      "word": "上海一男子花300多万买到凶宅",
+      "onboard_time": 1733399360,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397510,
       "num": 410691,
       "word": "非遗版春节壁纸",
@@ -769,14 +801,6 @@
       "onboard_time": 1733370139,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 354482,
-      "num": 386778,
-      "word": "上海一男子花300多万买到凶宅",
-      "onboard_time": 1733399360,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352600,
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267024,
+      "num": 204992,
+      "word": "周杰伦大巨蛋演唱会",
+      "onboard_time": 1733404341,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257863,
       "num": 257863,
       "word": "何炅好像从不会错过谢娜的电话",
@@ -1051,12 +1083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232053,
-      "num": 232053,
-      "word": "莎头采访",
-      "onboard_time": 1733403140,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 231308,
+      "num": 204198,
+      "word": "朴成焄鱿鱼游戏2演跨性别女性",
+      "onboard_time": 1733403980,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 230616,
@@ -1219,6 +1251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 207269,
+      "num": 207269,
+      "word": "国产剧最狠罪犯坟地健身徒步回村",
+      "onboard_time": 1733404758,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205882,
       "num": 229242,
       "word": "韩乒球员自嘲队服像椰汁瓶包装",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1733322984,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 203621,
+      "num": 203621,
+      "word": "成毅 祖玛珑",
+      "onboard_time": 1733405120,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 203135,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1733352735,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197062,
+      "num": 197062,
+      "word": "杨紫apm红色大片",
+      "onboard_time": 1733404821,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195779,
@@ -1547,14 +1603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176148,
-      "num": 176148,
-      "word": "还珠格格 公主坟",
-      "onboard_time": 1733403140,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175829,
       "num": 175829,
       "word": "就这个吴磊冷脸爽",
@@ -1667,12 +1715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166484,
+      "num": 205333,
+      "word": "熟悉的莎头味",
+      "onboard_time": 1733403260,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165565,
       "num": 185023,
       "word": "我是刑警眼睛看废了",
       "onboard_time": 1733401939,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165179,
+      "num": 165179,
+      "word": "方可 发型",
+      "onboard_time": 1733404459,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164962,
@@ -1731,12 +1795,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 160715,
-      "num": 160715,
-      "word": "熟悉的莎头味",
-      "onboard_time": 1733403260,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 161437,
+      "num": 161437,
+      "word": "肖秀荣 最新时政补充",
+      "onboard_time": 1733405302,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 160295,
@@ -1779,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157401,
+      "num": 157401,
+      "word": "为什么不能让她们提前知道痛苦",
+      "onboard_time": 1733404821,
+      "rank": 37,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 157156,
       "num": 157156,
       "word": "国乒六连胜",
@@ -1792,6 +1864,14 @@
       "word": "爆燃后儿子首次看到烧伤妈妈",
       "onboard_time": 1733374641,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156763,
+      "num": 156763,
+      "word": "摊贩没钱交罚款被城管要求去借钱",
+      "onboard_time": 1733400259,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1875,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149165,
-      "num": 149165,
-      "word": "摊贩没钱交罚款被城管要求去借钱",
-      "onboard_time": 1733400259,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148554,
       "num": 148554,
       "word": "麦子阿姨 妈妈的另一种人生",
@@ -1929,6 +2001,14 @@
       "onboard_time": 1733327840,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147368,
+      "num": 207151,
+      "word": "倪妮 每次走红毯都不自信",
+      "onboard_time": 1733405120,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146894,
@@ -2211,6 +2291,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 132854,
+      "num": 132854,
+      "word": "九重紫放饭了",
+      "onboard_time": 1733405180,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130873,
       "num": 130873,
       "word": "此沙演过失明独眼双眼三眼",
@@ -2233,6 +2321,22 @@
       "onboard_time": 1733367799,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127107,
+      "num": 204014,
+      "word": "Wendy唱了她说",
+      "onboard_time": 1733403380,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127017,
+      "num": 127017,
+      "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
+      "onboard_time": 1733402120,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 125698,
@@ -2763,6 +2867,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 77299,
+      "num": 438928,
+      "word": "没有年三十影响假期吗",
+      "onboard_time": 1733403800,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 76747,
       "num": 266802,
       "word": "在国漫里看到扑面而来的生命力",
@@ -2923,12 +3035,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 60253,
-      "num": 204014,
-      "word": "Wendy唱了她说",
-      "onboard_time": 1733403380,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 60017,
+      "num": 367115,
+      "word": "一学校倡议16岁前不玩社交软件",
+      "onboard_time": 1733403859,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59983,
@@ -3291,14 +3403,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 27211,
-      "num": 319887,
-      "word": "没有年三十影响假期吗",
-      "onboard_time": 1733403800,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 27063,
       "num": 307266,
       "word": "郭俊辰唐晓天默契新享法",
@@ -3443,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19598,
+      "num": 403382,
+      "word": "8城偶遇易烊千玺",
+      "onboard_time": 1733404099,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19297,
       "num": 27817,
       "word": "紧急戒严令适用于哪些情况",
@@ -3547,6 +3659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14157,
+      "num": 144232,
+      "word": "暖暖的裙子会唱歌",
+      "onboard_time": 1733404341,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 14057,
       "num": 151123,
       "word": "香奈儿高级手工坊绝美细节图",
@@ -3625,6 +3745,14 @@
       "onboard_time": 1733332095,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5875,
+      "num": 143700,
+      "word": "被易烊千玺的复古时尚硬控",
+      "onboard_time": 1733405302,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 2187,
