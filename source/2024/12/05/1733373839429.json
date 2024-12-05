@@ -1,0 +1,410 @@
+{
+  "runTime": 1733373839429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010654,
+        "num": 1161704,
+        "word": "一女主播模仿吴艳妮引热议",
+        "onboard_time": 1733370261,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 952380,
+        "num": 952380,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 11782,
+        "num": 810224,
+        "word": "9图打卡中国绝美农村公路",
+        "onboard_time": 1733319565,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1177652,
+        "num": 800388,
+        "word": "女生被灌醉后遭性侵身亡案家属发声",
+        "onboard_time": 1733368640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 777619,
+        "num": 777619,
+        "word": "周雨彤 我们不是电脑是人",
+        "onboard_time": 1733365457,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710188,
+        "num": 710188,
+        "word": "武夷山烧火夜爬游客身份已落实",
+        "onboard_time": 1733371161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637005,
+        "num": 637005,
+        "word": "比特币突破10万美元近20万人爆仓",
+        "onboard_time": 1733369960,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 466187,
+        "num": 466187,
+        "word": "再见爱人",
+        "onboard_time": 1733372721,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461516,
+        "num": 461516,
+        "word": "王亚飞给迪丽热巴画的薰衣草眼妆",
+        "onboard_time": 1733370680,
+        "rank": 8,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 154679,
+        "num": 446918,
+        "word": "韩国监察院院长遭国会弹劾",
+        "onboard_time": 1733372301,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1198517,
+        "num": 446390,
+        "word": "琼瑶16天前回复过林青霞",
+        "onboard_time": 1733369778,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33181,
+        "num": 445450,
+        "word": "易烊千玺的意式狂想",
+        "onboard_time": 1733369240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444919,
+        "num": 444919,
+        "word": "遭性侵身亡女生的母亲希望判凶手死刑",
+        "onboard_time": 1733371520,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430535,
+        "num": 430535,
+        "word": "为什么大冰一定要帮助麦子阿姨",
+        "onboard_time": 1733369178,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103576,
+        "num": 421216,
+        "word": "烈士墓被圈入校园事件双方达成协议",
+        "onboard_time": 1733372961,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416385,
+        "num": 416385,
+        "word": "刺杀小说家",
+        "onboard_time": 1733366057,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186734,
+        "num": 406199,
+        "word": "蜀锦人家",
+        "onboard_time": 1733373081,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25290,
+        "num": 393551,
+        "word": "林诗栋蒯曼2比1韩国队",
+        "onboard_time": 1733373740,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41653,
+        "num": 382799,
+        "word": "国企拍得砂场层层转包承包商超采被捕",
+        "onboard_time": 1733372961,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50952,
+        "num": 364729,
+        "word": "韩国政治对立为何如此严重",
+        "onboard_time": 1733373323,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364368,
+        "num": 364368,
+        "word": "王鹤棣音乐厂牌SEEWE官宣",
+        "onboard_time": 1733369120,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157690,
+        "num": 361575,
+        "word": "赵一博芭莎艺术闭年刊开售",
+        "onboard_time": 1733371940,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 360885,
+        "num": 360885,
+        "word": "赵丽颖机场Allblack穿搭",
+        "onboard_time": 1733368399,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328483,
+        "num": 328483,
+        "word": "春节申遗成功各地文物组团祝贺",
+        "onboard_time": 1733327180,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 20589,
+        "num": 276902,
+        "word": "闪耀暖暖",
+        "onboard_time": 1733365758,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268538,
+        "num": 268538,
+        "word": "尖叫之夜官宣虞书欣加盟",
+        "onboard_time": 1733371879,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248296,
+        "num": 248296,
+        "word": "郭敬明发了鞠婧祎正面照",
+        "onboard_time": 1733358622,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228501,
+        "num": 228501,
+        "word": "剧版哈利波特斯内普演员",
+        "onboard_time": 1733372841,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91267,
+        "num": 224780,
+        "word": "THEBOYZ合约到期",
+        "onboard_time": 1733371879,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231615,
+        "num": 224570,
+        "word": "赵露思能不能演个恶女给我看看",
+        "onboard_time": 1733370199,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222004,
+        "num": 222004,
+        "word": "韩国警方开始调查尹锡悦涉内乱罪",
+        "onboard_time": 1733367919,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215352,
+        "num": 215352,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1733372060,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215154,
+        "num": 215154,
+        "word": "韩国",
+        "onboard_time": 1733357361,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213880,
+        "num": 213880,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1733370139,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212402,
+        "num": 212402,
+        "word": "非遗版春节壁纸",
+        "onboard_time": 1733332216,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 38224,
+        "num": 205905,
+        "word": "无限暖暖将限制未成年人游戏时间",
+        "onboard_time": 1733367680,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205416,
+        "num": 205416,
+        "word": "刚果金近百人死于不明疾病",
+        "onboard_time": 1733371280,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184408,
+        "num": 184408,
+        "word": "两度发现遗体博主将面临处罚",
+        "onboard_time": 1733314701,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183835,
+        "num": 183835,
+        "word": "中国已有44项世界非遗",
+        "onboard_time": 1733322744,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 172148,
+        "word": "林诗栋蒯曼vs赵大成申裕斌",
+        "onboard_time": 1733372301,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161489,
+        "num": 161489,
+        "word": "国乒今天迎战韩国队",
+        "onboard_time": 1733363119,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155674,
+        "num": 155674,
+        "word": "现在拨打的电话",
+        "onboard_time": 1733367859,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148659,
+        "num": 148659,
+        "word": "丁程鑫主演邓超新片",
+        "onboard_time": 1733367321,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145064,
+        "num": 145064,
+        "word": "琼瑶作品 女性情谊",
+        "onboard_time": 1733372841,
+        "rank": 43,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 141534,
+        "num": 141534,
+        "word": "迪丽热巴工作室激情加更",
+        "onboard_time": 1733367078,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134770,
+        "num": 134770,
+        "word": "网红祁天道犯诈骗罪获刑细节",
+        "onboard_time": 1733369660,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 133490,
+        "num": 133490,
+        "word": "梅花烙 宫锁连城",
+        "onboard_time": 1733373501,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127822,
+        "num": 127822,
+        "word": "GAI隔空回复初中同学",
+        "onboard_time": 1733365699,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124580,
+        "num": 124580,
+        "word": "朴彩英单曲预告",
+        "onboard_time": 1733373800,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121883,
+        "num": 121883,
+        "word": "专家称白猫在猫眼里不是最丑的",
+        "onboard_time": 1733352735,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推动共建一带一路高质量发展#"
+    }
+  }
+}
