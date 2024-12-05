@@ -1,0 +1,410 @@
+{
+  "runTime": 1733424355273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195878,
+        "num": 195878,
+        "word": "因蛋糕放鲜花20多家店被同一人举报",
+        "onboard_time": 1733411959,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158755,
+        "num": 158755,
+        "word": "挖呀挖黄老师疑开豪车引热议",
+        "onboard_time": 1733401820,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13504,
+        "num": 115512,
+        "word": "文化中国行感受春节年俗",
+        "onboard_time": 1733406741,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 114171,
+        "num": 114171,
+        "word": "李行亮被活动除名",
+        "onboard_time": 1733394199,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62498,
+        "num": 62498,
+        "word": "3岁失去妈妈30年后看到她的样子",
+        "onboard_time": 1733397560,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 59223,
+        "num": 59223,
+        "word": "丁禹兮工作室 降龙十八掌",
+        "onboard_time": 1733412498,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57118,
+        "num": 57118,
+        "word": "司美格鲁肽减肥可能有一些副作用",
+        "onboard_time": 1733416637,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56256,
+        "num": 56256,
+        "word": "韩国警方调查韩国总统涉内乱罪",
+        "onboard_time": 1733415018,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51616,
+        "num": 51616,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48775,
+        "num": 48775,
+        "word": "叙利亚",
+        "onboard_time": 1733406620,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115286,
+        "num": 48255,
+        "word": "网红祁天道造成极其恶劣影响",
+        "onboard_time": 1733420293,
+        "rank": 10,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 58918,
+        "num": 47844,
+        "word": "黄子韬婚后状态",
+        "onboard_time": 1733406741,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47385,
+        "num": 47385,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44057,
+        "num": 44057,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43017,
+        "num": 43017,
+        "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
+        "onboard_time": 1733402120,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 36757,
+        "num": 42133,
+        "word": "李行亮 杨子留几手哪个脑袋被驴踢了",
+        "onboard_time": 1733408361,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35744,
+        "num": 41574,
+        "word": "新大鹿合体",
+        "onboard_time": 1733407101,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27619,
+        "num": 41514,
+        "word": "猎罪图鉴2开局就是第十二单元",
+        "onboard_time": 1733401519,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41499,
+        "num": 41499,
+        "word": "男子年付房租房东却只收到1个月的",
+        "onboard_time": 1733410098,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14825,
+        "num": 33486,
+        "word": "春节是中华文化最重要的传统节日",
+        "onboard_time": 1733419933,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123070,
+        "num": 32679,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48200,
+        "num": 32256,
+        "word": "六旬老人尝试高危性行为感染艾滋病",
+        "onboard_time": 1733392460,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30843,
+        "num": 30843,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30820,
+        "num": 30820,
+        "word": "在叙中国公民尽快回国或离境",
+        "onboard_time": 1733406741,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27358,
+        "num": 27358,
+        "word": "商务部回应美半导体出口管制措施",
+        "onboard_time": 1733421674,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27129,
+        "num": 27129,
+        "word": "体重正常想用司美格鲁肽变瘦被拒",
+        "onboard_time": 1733407582,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26665,
+        "num": 26665,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21968,
+        "num": 26087,
+        "word": "韩国戒严司令称自己不知道要戒严",
+        "onboard_time": 1733422932,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25385,
+        "num": 26065,
+        "word": "还珠格格 公主坟",
+        "onboard_time": 1733403140,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24868,
+        "num": 26055,
+        "word": "周杰伦大巨蛋演唱会",
+        "onboard_time": 1733404341,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26046,
+        "num": 26046,
+        "word": "杨子这期选离婚",
+        "onboard_time": 1733396659,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25943,
+        "num": 25943,
+        "word": "韩国国会就一夜戒严展开紧急质询",
+        "onboard_time": 1733418675,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25840,
+        "num": 25840,
+        "word": "摊贩没钱交罚款被城管要求去借钱",
+        "onboard_time": 1733400259,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25375,
+        "num": 25375,
+        "word": "上海一男子花300多万买到凶宅",
+        "onboard_time": 1733399360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25097,
+        "num": 25097,
+        "word": "男子回应被20位店主质疑为职业打假",
+        "onboard_time": 1733421433,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24438,
+        "num": 24438,
+        "word": "Rose前男友是谁",
+        "onboard_time": 1733397199,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23797,
+        "num": 23797,
+        "word": "倪妮 每次走红毯都不自信",
+        "onboard_time": 1733405120,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23684,
+        "num": 23684,
+        "word": "杨紫也是从网上知道国色芳华试映会",
+        "onboard_time": 1733410460,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22837,
+        "num": 22837,
+        "word": "黑白森林",
+        "onboard_time": 1733418914,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22741,
+        "num": 22741,
+        "word": "华晨宇红衣金发",
+        "onboard_time": 1733413281,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22734,
+        "num": 22734,
+        "word": "易烊千玺音乐会",
+        "onboard_time": 1733395581,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21861,
+        "num": 21861,
+        "word": "没办法这是莎头啊",
+        "onboard_time": 1733406500,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21186,
+        "num": 21186,
+        "word": "Gemini当爸爸了",
+        "onboard_time": 1733397019,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20463,
+        "num": 20463,
+        "word": "广州电动自行车新规12月30日施行",
+        "onboard_time": 1733411959,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20026,
+        "num": 20026,
+        "word": "中国木拱桥传统营造技艺成非遗代表作",
+        "onboard_time": 1733413758,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19941,
+        "num": 20026,
+        "word": "国乒暂列第二阶段循环赛榜首",
+        "onboard_time": 1733411719,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19811,
+        "num": 20026,
+        "word": "人类非遗里有中国人的2种新年",
+        "onboard_time": 1733415618,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19492,
+        "num": 20026,
+        "word": "周杰伦演唱会观众也是全明星阵容",
+        "onboard_time": 1733411600,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19428,
+        "num": 20026,
+        "word": "年轻人开始给眼睛拍艺术照了",
+        "onboard_time": 1733410641,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18846,
+        "num": 20026,
+        "word": "孙颖莎 彼此之间的信任一直都在",
+        "onboard_time": 1733403980,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察信息支援部队#"
+    }
+  }
+}
