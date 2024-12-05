@@ -1,0 +1,410 @@
+{
+  "runTime": 1733408566063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2300295,
+        "num": 2300295,
+        "word": "挖呀挖黄老师疑开豪车引热议",
+        "onboard_time": 1733401820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874504,
+        "num": 874504,
+        "word": "在叙中国公民尽快回国或离境",
+        "onboard_time": 1733406741,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35402,
+        "num": 866624,
+        "word": "文化中国行感受春节年俗",
+        "onboard_time": 1733406741,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 860356,
+        "num": 860356,
+        "word": "3岁失去妈妈30年后看到她的样子",
+        "onboard_time": 1733397560,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 803793,
+        "num": 803793,
+        "word": "叙利亚",
+        "onboard_time": 1733406620,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 636303,
+        "num": 636303,
+        "word": "孙颖莎 彼此之间的信任一直都在",
+        "onboard_time": 1733403980,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496446,
+        "num": 549639,
+        "word": "还珠格格 公主坟",
+        "onboard_time": 1733403140,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480827,
+        "num": 511618,
+        "word": "李行亮被活动除名",
+        "onboard_time": 1733394199,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 500326,
+        "num": 500326,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72851,
+        "num": 431405,
+        "word": "农村妇女土地权的漫长抗争",
+        "onboard_time": 1733407640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1032535,
+        "num": 427682,
+        "word": "黄子韬婚后状态",
+        "onboard_time": 1733406741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414563,
+        "num": 414563,
+        "word": "猎罪图鉴2开局就是第十二单元",
+        "onboard_time": 1733401519,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345362,
+        "num": 345362,
+        "word": "周杰伦大巨蛋演唱会",
+        "onboard_time": 1733404341,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316668,
+        "num": 345324,
+        "word": "迪丽热巴小小的脸上全是五官",
+        "onboard_time": 1733401160,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52208,
+        "num": 345063,
+        "word": "一三甲医院部分权益6.25亿起拍",
+        "onboard_time": 1733407460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26871,
+        "num": 344676,
+        "word": "8城偶遇易烊千玺",
+        "onboard_time": 1733404099,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207100,
+        "num": 344286,
+        "word": "我是刑警西班牙面包",
+        "onboard_time": 1733407640,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18418,
+        "num": 343982,
+        "word": "祝绪丹rua傻妃招财进宝",
+        "onboard_time": 1733403921,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51971,
+        "num": 343695,
+        "word": "果蔬茶真的比奶茶健康吗",
+        "onboard_time": 1733407820,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37650,
+        "num": 343592,
+        "word": "男子为捞钱煽动业主拒交物业费",
+        "onboard_time": 1733407699,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279779,
+        "num": 343148,
+        "word": "国产剧最狠罪犯坟地健身徒步回村",
+        "onboard_time": 1733404758,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1031409,
+        "num": 343014,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384744,
+        "num": 342586,
+        "word": "杨子这期选离婚",
+        "onboard_time": 1733396659,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342568,
+        "num": 342568,
+        "word": "六旬老人尝试高危性行为感染艾滋病",
+        "onboard_time": 1733392460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42147,
+        "num": 337831,
+        "word": "国乒混团一天赢双赛",
+        "onboard_time": 1733407460,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336911,
+        "num": 336911,
+        "word": "没办法这是莎头啊",
+        "onboard_time": 1733406500,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284795,
+        "num": 284795,
+        "word": "上海一男子花300多万买到凶宅",
+        "onboard_time": 1733399360,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282485,
+        "num": 282485,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14316,
+        "num": 242019,
+        "word": "尚雯婕说自己是悲观主义者",
+        "onboard_time": 1733407460,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14572,
+        "num": 240503,
+        "word": "被易烊千玺的复古时尚硬控",
+        "onboard_time": 1733405302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390402,
+        "num": 240315,
+        "word": "成毅 祖玛珑",
+        "onboard_time": 1733405120,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239950,
+        "num": 239950,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233985,
+        "num": 233985,
+        "word": "倪妮 每次走红毯都不自信",
+        "onboard_time": 1733405120,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220307,
+        "num": 220307,
+        "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
+        "onboard_time": 1733402120,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 208878,
+        "num": 208878,
+        "word": "Gemini当爸爸了",
+        "onboard_time": 1733397019,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32149,
+        "num": 208463,
+        "word": "张凌赫工作室告黑进展",
+        "onboard_time": 1733405180,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208115,
+        "num": 208115,
+        "word": "肖秀荣 最新时政补充",
+        "onboard_time": 1733405302,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 6773,
+        "num": 202899,
+        "word": "无限暖暖包出片的",
+        "onboard_time": 1733406620,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201760,
+        "num": 201760,
+        "word": "王楚钦孙颖莎今晚出战混双",
+        "onboard_time": 1733394978,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198712,
+        "num": 198712,
+        "word": "叙利亚首都大马士革传来连续枪炮声",
+        "onboard_time": 1733408061,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184181,
+        "num": 184181,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179177,
+        "num": 179177,
+        "word": "莎头采访",
+        "onboard_time": 1733403140,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172252,
+        "num": 172252,
+        "word": "为什么羽绒服里面穿短袖更暖和",
+        "onboard_time": 1733385500,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165804,
+        "num": 165804,
+        "word": "为什么不能让她们提前知道痛苦",
+        "onboard_time": 1733404821,
+        "rank": 43,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 160839,
+        "num": 160839,
+        "word": "李行亮 杨子留几手哪个脑袋被驴踢了",
+        "onboard_time": 1733408361,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160034,
+        "num": 160034,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154853,
+        "num": 154853,
+        "word": "朴成焄鱿鱼游戏2演跨性别女性",
+        "onboard_time": 1733403980,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139487,
+        "num": 139487,
+        "word": "周扬青 送你们一场烟花",
+        "onboard_time": 1733408539,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138591,
+        "num": 138591,
+        "word": "新大鹿合体",
+        "onboard_time": 1733407101,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22019,
+        "num": 138108,
+        "word": "暖暖的裙子会唱歌",
+        "onboard_time": 1733404341,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察信息支援部队#"
+    }
+  }
+}

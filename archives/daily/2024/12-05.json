@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733406293993,
+  "endTime": 1733408566063,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1032535,
+      "num": 427682,
+      "word": "黄子韬婚后状态",
+      "onboard_time": 1733406741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1031280,
       "num": 1031280,
       "word": "3岁失去妈妈30年后看到她的样子",
@@ -259,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 874504,
+      "num": 874504,
+      "word": "在叙中国公民尽快回国或离境",
+      "onboard_time": 1733406741,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 851368,
       "num": 851368,
       "word": "女硕士走失后被一居民收留",
@@ -297,6 +313,14 @@
       "onboard_time": 1733396659,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 803793,
+      "num": 803793,
+      "word": "叙利亚",
+      "onboard_time": 1733406620,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 803380,
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 636303,
+      "num": 636303,
+      "word": "孙颖莎 彼此之间的信任一直都在",
+      "onboard_time": 1733403980,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605439,
       "num": 605439,
       "word": "4类人特别适合喝咖啡",
@@ -433,14 +465,6 @@
       "onboard_time": 1733321483,
       "rank": 15,
       "category": "读书作家,艺人"
-    },
-    {
-      "raw_hot": 594924,
-      "num": 594924,
-      "word": "孙颖莎 彼此之间的信任一直都在",
-      "onboard_time": 1733403980,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 594418,
@@ -555,6 +579,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 496446,
+      "num": 549639,
+      "word": "还珠格格 公主坟",
+      "onboard_time": 1733403140,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494859,
       "num": 494859,
       "word": "韩国",
@@ -569,14 +601,6 @@
       "onboard_time": 1733369178,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490664,
-      "num": 490664,
-      "word": "还珠格格 公主坟",
-      "onboard_time": 1733403140,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 479934,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 413527,
-      "num": 287494,
+      "num": 342568,
       "word": "六旬老人尝试高危性行为感染艾滋病",
       "onboard_time": 1733392460,
       "rank": 25,
@@ -721,6 +745,14 @@
       "onboard_time": 1733385500,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390402,
+      "num": 240315,
+      "word": "成毅 祖玛珑",
+      "onboard_time": 1733405120,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 389750,
@@ -835,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 345362,
+      "num": 345362,
+      "word": "周杰伦大巨蛋演唱会",
+      "onboard_time": 1733404341,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343814,
       "num": 343814,
       "word": "排便出现3个变化是肠癌征兆",
@@ -849,6 +889,14 @@
       "onboard_time": 1733327660,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336911,
+      "num": 336911,
+      "word": "没办法这是莎头啊",
+      "onboard_time": 1733406500,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 336690,
@@ -899,14 +947,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 318530,
-      "num": 204992,
-      "word": "周杰伦大巨蛋演唱会",
-      "onboard_time": 1733404341,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 316792,
       "num": 316792,
       "word": "国乒今天迎战韩国队",
@@ -929,14 +969,6 @@
       "onboard_time": 1733361321,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283640,
-      "num": 203621,
-      "word": "成毅 祖玛珑",
-      "onboard_time": 1733405120,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 281978,
@@ -1099,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233985,
+      "num": 233985,
+      "word": "倪妮 每次走红毯都不自信",
+      "onboard_time": 1733405120,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231308,
       "num": 204198,
       "word": "朴成焄鱿鱼游戏2演跨性别女性",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1733324724,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 228708,
-      "num": 207151,
-      "word": "倪妮 每次走红毯都不自信",
-      "onboard_time": 1733405120,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 228501,
@@ -1219,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220307,
+      "num": 220307,
+      "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
+      "onboard_time": 1733402120,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 219609,
       "num": 219609,
       "word": "丁程鑫友情出演邓超新片",
@@ -1267,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208115,
+      "num": 208115,
+      "word": "肖秀荣 最新时政补充",
+      "onboard_time": 1733405302,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207445,
       "num": 211887,
       "word": "人人影视将二十年数据开源分享",
       "onboard_time": 1733389878,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 207100,
+      "num": 344286,
+      "word": "我是刑警西班牙面包",
+      "onboard_time": 1733407640,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 205882,
@@ -1297,14 +1353,6 @@
       "onboard_time": 1733377039,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202935,
-      "num": 165505,
-      "word": "肖秀荣 最新时政补充",
-      "onboard_time": 1733405302,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 202556,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1733367078,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198712,
+      "num": 198712,
+      "word": "叙利亚首都大马士革传来连续枪炮声",
+      "onboard_time": 1733408061,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198086,
@@ -1468,7 +1524,7 @@
     },
     {
       "raw_hot": 188715,
-      "num": 164926,
+      "num": 165804,
       "word": "为什么不能让她们提前知道痛苦",
       "onboard_time": 1733404821,
       "rank": 37,
@@ -1835,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160839,
+      "num": 160839,
+      "word": "李行亮 杨子留几手哪个脑袋被驴踢了",
+      "onboard_time": 1733408361,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160295,
       "num": 385907,
       "word": "再次正告菲方立即停止一切侵权挑衅",
@@ -2123,6 +2187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139487,
+      "num": 139487,
+      "word": "周扬青 送你们一场烟花",
+      "onboard_time": 1733408539,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139315,
       "num": 178812,
       "word": "宁悦配享离婚证",
@@ -2169,6 +2241,14 @@
       "onboard_time": 1733391201,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138591,
+      "num": 138591,
+      "word": "新大鹿合体",
+      "onboard_time": 1733407101,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 138128,
@@ -2329,14 +2409,6 @@
       "onboard_time": 1733403380,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127017,
-      "num": 127017,
-      "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
-      "onboard_time": 1733402120,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 125698,
@@ -2947,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72851,
+      "num": 431405,
+      "word": "农村妇女土地权的漫长抗争",
+      "onboard_time": 1733407640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72754,
       "num": 259021,
       "word": "王楚钦暴力高压球",
@@ -3123,6 +3203,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 52208,
+      "num": 345063,
+      "word": "一三甲医院部分权益6.25亿起拍",
+      "onboard_time": 1733407460,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51971,
+      "num": 343695,
+      "word": "果蔬茶真的比奶茶健康吗",
+      "onboard_time": 1733407820,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51665,
       "num": 195221,
       "word": "管泽元报名参加澳门公开赛",
@@ -3227,6 +3323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42147,
+      "num": 337831,
+      "word": "国乒混团一天赢双赛",
+      "onboard_time": 1733407460,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42022,
       "num": 264774,
       "word": "陈少熙我们仍旧会一起并肩看夕阳",
@@ -3315,6 +3419,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 37650,
+      "num": 343592,
+      "word": "男子为捞钱煽动业主拒交物业费",
+      "onboard_time": 1733407699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37002,
       "num": 403810,
       "word": "为啥飞机上不能用充电宝",
@@ -3345,6 +3457,14 @@
       "onboard_time": 1733396719,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35402,
+      "num": 866624,
+      "word": "文化中国行感受春节年俗",
+      "onboard_time": 1733406741,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 33518,
@@ -3379,6 +3499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32149,
+      "num": 208463,
+      "word": "张凌赫工作室告黑进展",
+      "onboard_time": 1733405180,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31739,
       "num": 247604,
       "word": "无限暖暖没有班味",
@@ -3401,14 +3529,6 @@
       "onboard_time": 1733368219,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30072,
-      "num": 166978,
-      "word": "张凌赫工作室告黑进展",
-      "onboard_time": 1733405180,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 29109,
@@ -3451,7 +3571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26406,
+      "raw_hot": 26871,
       "num": 403382,
       "word": "8城偶遇易烊千玺",
       "onboard_time": 1733404099,
@@ -3513,6 +3633,14 @@
       "onboard_time": 1733396179,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 22019,
+      "num": 164332,
+      "word": "暖暖的裙子会唱歌",
+      "onboard_time": 1733404341,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 21848,
@@ -3587,14 +3715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19695,
-      "num": 164332,
-      "word": "暖暖的裙子会唱歌",
-      "onboard_time": 1733404341,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 19297,
       "num": 27817,
       "word": "紧急戒严令适用于哪些情况",
@@ -3617,6 +3737,14 @@
       "onboard_time": 1733392340,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18418,
+      "num": 343982,
+      "word": "祝绪丹rua傻妃招财进宝",
+      "onboard_time": 1733403921,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 17791,
@@ -3691,12 +3819,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14572,
+      "num": 240503,
+      "word": "被易烊千玺的复古时尚硬控",
+      "onboard_time": 1733405302,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14548,
       "num": 263824,
       "word": "香奈儿秀场的惊艳艺术感",
       "onboard_time": 1733393121,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 14316,
+      "num": 242019,
+      "word": "尚雯婕说自己是悲观主义者",
+      "onboard_time": 1733407460,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 14282,
@@ -3787,12 +3931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6521,
-      "num": 166486,
-      "word": "被易烊千玺的复古时尚硬控",
-      "onboard_time": 1733405302,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 6773,
+      "num": 202899,
+      "word": "无限暖暖包出片的",
+      "onboard_time": 1733406620,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 2187,
@@ -3818,6 +3962,9 @@
     },
     {
       "word": "#建设一支强大的现代化信息支援部队#"
+    },
+    {
+      "word": "#习近平视察信息支援部队#"
     }
   ]
 }
