@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733388336806,
+  "endTime": 1733390765037,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -33,6 +33,14 @@
       "onboard_time": 1733365938,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1569284,
+      "num": 763076,
+      "word": "女硕士",
+      "onboard_time": 1733387658,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1544482,
@@ -81,6 +89,14 @@
       "onboard_time": 1733370261,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1140393,
+      "num": 1140393,
+      "word": "女子听到朋友患肠癌一查自己也有",
+      "onboard_time": 1733386399,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1133024,
@@ -235,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 677748,
-      "num": 677748,
-      "word": "女子听到朋友患肠癌一查自己也有",
-      "onboard_time": 1733386399,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 658896,
       "num": 658896,
       "word": "百万网红咖啡放弃直肠癌化疗",
@@ -305,6 +313,14 @@
       "onboard_time": 1733367919,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 551494,
+      "num": 551494,
+      "word": "林珍娜蔡钟硕恋情",
+      "onboard_time": 1733387059,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 548971,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 438290,
+      "num": 438290,
+      "word": "模仿吴艳妮主播被禁止发作品",
+      "onboard_time": 1733389098,
+      "rank": 7,
+      "category": "网红,体育"
+    },
+    {
       "raw_hot": 434383,
       "num": 434383,
       "word": "低俗网红坐拥4000万粉谁该脸红",
@@ -457,6 +481,14 @@
       "onboard_time": 1733362162,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397843,
+      "num": 213801,
+      "word": "1岁男童在父母怀中看完烟花离世",
+      "onboard_time": 1733390480,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397510,
@@ -521,14 +553,6 @@
       "onboard_time": 1733380400,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371937,
-      "num": 371937,
-      "word": "林珍娜蔡钟硕恋情",
-      "onboard_time": 1733387059,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 365886,
@@ -771,6 +795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236794,
+      "num": 236794,
+      "word": "杨紫直播",
+      "onboard_time": 1733389818,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235783,
+      "num": 216009,
+      "word": "TREASURE回归",
+      "onboard_time": 1733390298,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230009,
       "num": 230009,
       "word": "芒果年底冲业绩了",
@@ -867,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213283,
+      "num": 394809,
+      "word": "世界近20国将农历新年定为法定节假日",
+      "onboard_time": 1733387899,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208999,
       "num": 208999,
       "word": "邓为全黑造型",
@@ -939,14 +987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198471,
-      "num": 198471,
-      "word": "女硕士",
-      "onboard_time": 1733387658,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198086,
       "num": 198086,
       "word": "网红祁天道骚扰女子视频系摆拍",
@@ -969,14 +1009,6 @@
       "onboard_time": 1733352735,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195945,
-      "num": 394809,
-      "word": "世界近20国将农历新年定为法定节假日",
-      "onboard_time": 1733387899,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 195779,
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168238,
+      "num": 170772,
+      "word": "就这个吴磊冷脸爽",
+      "onboard_time": 1733387478,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "44项来自中国的非遗瑰宝",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1733384359,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166040,
+      "num": 211887,
+      "word": "人人影视将二十年数据开源分享",
+      "onboard_time": 1733389878,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 163769,
@@ -1347,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152846,
+      "num": 152846,
+      "word": "无限暖暖 晕3D",
+      "onboard_time": 1733388738,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148291,
       "num": 333811,
       "word": "迪丽热巴ELLE全球80周年开年封首位女星",
@@ -1376,6 +1432,14 @@
       "word": "如果手机被偷听耗电速度会快27%",
       "onboard_time": 1733327840,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147369,
+      "num": 147369,
+      "word": "福宝发抖原因正逐步排查",
+      "onboard_time": 1733390660,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1595,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128592,
+      "num": 212722,
+      "word": "潘展乐的奥运金牌已被博物馆收藏",
+      "onboard_time": 1733390719,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127603,
       "num": 127603,
       "word": "无限暖暖声明",
@@ -1779,6 +1851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107808,
+      "num": 169353,
+      "word": "葫芦娃跌停",
+      "onboard_time": 1733389519,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 106693,
+      "num": 209253,
+      "word": "朱开回应没队要",
+      "onboard_time": 1733390538,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106597,
       "num": 969021,
       "word": "文化中国行看文博热升温",
@@ -1907,6 +1995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93252,
+      "num": 166986,
+      "word": "库里也直播带货了",
+      "onboard_time": 1733390001,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92419,
       "num": 92419,
       "word": "Mate70麒麟芯片首拆",
@@ -1961,6 +2057,14 @@
       "onboard_time": 1733299532,
       "rank": 41,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 81552,
+      "num": 219740,
+      "word": "向佐主打一个错峰理发",
+      "onboard_time": 1733390599,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 80402,
@@ -2105,6 +2209,14 @@
       "onboard_time": 1733331196,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61003,
+      "num": 214820,
+      "word": "母亲回应女儿被传没病做手术离世",
+      "onboard_time": 1733388920,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60341,
@@ -2363,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30747,
+      "num": 295343,
+      "word": "对大牌彩妆祛魅了",
+      "onboard_time": 1733389219,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 29109,
       "num": 188351,
       "word": "论全面还得是小艺",
@@ -2379,12 +2499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27618,
+      "num": 210611,
+      "word": "24小时内近20万人爆仓",
+      "onboard_time": 1733389519,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 27009,
       "num": 27009,
       "word": "丁禹兮首演警察",
       "onboard_time": 1733337852,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25966,
+      "num": 274801,
+      "word": "何浩楠第一次出发",
+      "onboard_time": 1733384239,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 25865,
@@ -2419,12 +2555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24822,
-      "num": 274801,
-      "word": "何浩楠第一次出发",
-      "onboard_time": 1733384239,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 21848,
+      "num": 207998,
+      "word": "近距离看香奈儿手工坊秀款",
+      "onboard_time": 1733387180,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 21777,
@@ -2449,6 +2585,14 @@
       "onboard_time": 1733384180,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19967,
+      "num": 207226,
+      "word": "他们合力让许多人把世界看过了",
+      "onboard_time": 1733385680,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 19297,
@@ -2499,12 +2643,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15781,
-      "num": 207998,
-      "word": "近距离看香奈儿手工坊秀款",
-      "onboard_time": 1733387180,
-      "rank": 43,
-      "category": "时尚"
+      "raw_hot": 15895,
+      "num": 210215,
+      "word": "短视频诊断网络热门人格可信吗",
+      "onboard_time": 1733389399,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15223,
@@ -2553,6 +2697,14 @@
       "onboard_time": 1733324543,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7647,
+      "num": 169264,
+      "word": "这件夹克为啥能火50年",
+      "onboard_time": 1733390360,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 7356,
