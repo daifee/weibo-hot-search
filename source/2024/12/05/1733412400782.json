@@ -1,0 +1,410 @@
+{
+  "runTime": 1733412400782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1662882,
+        "num": 1662882,
+        "word": "挖呀挖黄老师疑开豪车引热议",
+        "onboard_time": 1733401820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574702,
+        "num": 574702,
+        "word": "男子年付房租房东却只收到1个月的",
+        "onboard_time": 1733410098,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45013,
+        "num": 570061,
+        "word": "文化中国行感受春节年俗",
+        "onboard_time": 1733406741,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 565930,
+        "num": 565930,
+        "word": "李行亮 杨子留几手哪个脑袋被驴踢了",
+        "onboard_time": 1733408361,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545312,
+        "num": 545312,
+        "word": "3岁失去妈妈30年后看到她的样子",
+        "onboard_time": 1733397560,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 525913,
+        "num": 525913,
+        "word": "叙利亚",
+        "onboard_time": 1733406620,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489713,
+        "num": 489713,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344337,
+        "num": 344337,
+        "word": "在叙中国公民尽快回国或离境",
+        "onboard_time": 1733406741,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391363,
+        "num": 338938,
+        "word": "李行亮被活动除名",
+        "onboard_time": 1733394199,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41156,
+        "num": 322635,
+        "word": "纯羊绒衫为0羊绒商家改名下架商品",
+        "onboard_time": 1733411899,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882454,
+        "num": 320768,
+        "word": "黄子韬婚后状态",
+        "onboard_time": 1733406741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315594,
+        "num": 315594,
+        "word": "沈小婷将于12月回国开展活动",
+        "onboard_time": 1733408900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312626,
+        "num": 312626,
+        "word": "迪丽热巴小小的脸上全是五官",
+        "onboard_time": 1733401160,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48083,
+        "num": 311237,
+        "word": "广州电动自行车新规12月30日施行",
+        "onboard_time": 1733411959,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144401,
+        "num": 310629,
+        "word": "年轻人开始给眼睛拍艺术照了",
+        "onboard_time": 1733410641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310086,
+        "num": 310086,
+        "word": "孙颖莎 彼此之间的信任一直都在",
+        "onboard_time": 1733403980,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309394,
+        "num": 309394,
+        "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
+        "onboard_time": 1733402120,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 266243,
+        "num": 266243,
+        "word": "猎罪图鉴2开局就是第十二单元",
+        "onboard_time": 1733401519,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259617,
+        "num": 259617,
+        "word": "上海一男子花300多万买到凶宅",
+        "onboard_time": 1733399360,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243856,
+        "num": 243856,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 835432,
+        "num": 242664,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341125,
+        "num": 241297,
+        "word": "六旬老人尝试高危性行为感染艾滋病",
+        "onboard_time": 1733392460,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255477,
+        "num": 240706,
+        "word": "杨子这期选离婚",
+        "onboard_time": 1733396659,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231419,
+        "num": 231419,
+        "word": "没办法这是莎头啊",
+        "onboard_time": 1733406500,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114372,
+        "num": 216480,
+        "word": "肖秀荣 最新时政补充",
+        "onboard_time": 1733405302,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211779,
+        "num": 211779,
+        "word": "因蛋糕放鲜花20多家店被同一人举报",
+        "onboard_time": 1733411959,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204162,
+        "num": 204162,
+        "word": "还珠格格 公主坟",
+        "onboard_time": 1733403140,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184142,
+        "num": 184142,
+        "word": "周杰伦大巨蛋演唱会",
+        "onboard_time": 1733404341,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157778,
+        "num": 183377,
+        "word": "杨紫也是从网上知道国色芳华试映会",
+        "onboard_time": 1733410460,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19745,
+        "num": 180914,
+        "word": "月薪4000被诱导购买丰胸产品逾40万",
+        "onboard_time": 1733396779,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214815,
+        "num": 178182,
+        "word": "成毅 祖玛珑",
+        "onboard_time": 1733405120,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185994,
+        "num": 176988,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175471,
+        "num": 175471,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168592,
+        "num": 168592,
+        "word": "莎头混双教科书式打法",
+        "onboard_time": 1733408780,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161062,
+        "num": 161062,
+        "word": "体重正常想用司美格鲁肽变瘦被拒",
+        "onboard_time": 1733407582,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155357,
+        "num": 155357,
+        "word": "Gemini当爸爸了",
+        "onboard_time": 1733397019,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154800,
+        "num": 154800,
+        "word": "新大鹿合体",
+        "onboard_time": 1733407101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149840,
+        "num": 149840,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143079,
+        "num": 143079,
+        "word": "建设一支强大的现代化信息支援部队",
+        "onboard_time": 1733412139,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 140810,
+        "num": 140810,
+        "word": "叙利亚首都大马士革传来连续枪炮声",
+        "onboard_time": 1733408061,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123101,
+        "num": 140421,
+        "word": "王楚钦6小时打满9局",
+        "onboard_time": 1733410281,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140186,
+        "num": 140186,
+        "word": "我是刑警西班牙面包",
+        "onboard_time": 1733407640,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135306,
+        "num": 135306,
+        "word": "周杰伦演唱会观众也是全明星阵容",
+        "onboard_time": 1733411600,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132139,
+        "num": 132139,
+        "word": "国乒暂列第二阶段循环赛榜首",
+        "onboard_time": 1733411719,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130734,
+        "num": 130734,
+        "word": "倪妮 每次走红毯都不自信",
+        "onboard_time": 1733405120,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128906,
+        "num": 128906,
+        "word": "为什么羽绒服里面穿短袖更暖和",
+        "onboard_time": 1733385500,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128033,
+        "num": 128033,
+        "word": "摊贩没钱交罚款被城管要求去借钱",
+        "onboard_time": 1733400259,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126006,
+        "num": 126006,
+        "word": "郑云龙出演猎罪图鉴2",
+        "onboard_time": 1733412020,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122900,
+        "num": 122900,
+        "word": "为什么不能让她们提前知道痛苦",
+        "onboard_time": 1733404821,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "推动我军网络信息体系建设跨越发展",
+        "onboard_time": 1733412259,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察信息支援部队#"
+    }
+  }
+}
