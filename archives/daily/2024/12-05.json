@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733355478286,
+  "endTime": 1733363497879,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -8,6 +8,22 @@
       "word": "春节申遗成功",
       "onboard_time": 1733322204,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2395013,
+      "num": 2395013,
+      "word": "琼瑶系一氧化碳中毒窒息而亡",
+      "onboard_time": 1733361080,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1544482,
+      "num": 1544482,
+      "word": "韩国首尔爆发示威游行",
+      "onboard_time": 1733358501,
+      "rank": 1,
       "category": "国际时政"
     },
     {
@@ -25,6 +41,14 @@
       "onboard_time": 1733321663,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 926049,
+      "num": 409527,
+      "word": "深圳施工现场坍塌13人失联",
+      "onboard_time": 1733355559,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 878632,
@@ -51,6 +75,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 605439,
+      "num": 605439,
+      "word": "4类人特别适合喝咖啡",
+      "onboard_time": 1733358260,
+      "rank": 5,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 596658,
       "num": 596658,
       "word": "琼瑶经济共赚取约上亿美元",
@@ -59,12 +91,52 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 545075,
+      "num": 545075,
+      "word": "湖南卫视播出又见一帘幽梦",
+      "onboard_time": 1733358622,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 509582,
+      "num": 509582,
+      "word": "郭敬明发了鞠婧祎正面照",
+      "onboard_time": 1733358622,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502827,
       "num": 374190,
       "word": "琼瑶遗体初步检验结果公布",
       "onboard_time": 1733317822,
       "rank": 6,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 479934,
+      "num": 214330,
+      "word": "胃癌几乎是喂出来的",
+      "onboard_time": 1733361321,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 426957,
+      "num": 426957,
+      "word": "春节申遗成功各地文物组团祝贺",
+      "onboard_time": 1733327180,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 403348,
+      "num": 403348,
+      "word": "姚政升级当爸",
+      "onboard_time": 1733362162,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 385429,
@@ -99,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329516,
+      "num": 329516,
+      "word": "韩国多家大型企业劝导员工居家办公",
+      "onboard_time": 1733357900,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 327685,
       "num": 327685,
       "word": "中国已有44项世界非遗",
@@ -107,12 +187,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 318584,
-      "num": 318584,
-      "word": "春节申遗成功各地文物组团祝贺",
-      "onboard_time": 1733327180,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 288668,
+      "num": 288668,
+      "word": "姆巴佩心态崩了",
+      "onboard_time": 1733361321,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 275150,
@@ -121,6 +201,14 @@
       "onboard_time": 1733326521,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274468,
+      "num": 274468,
+      "word": "官方通报深圳铁路施工现场坍塌巨坑",
+      "onboard_time": 1733357839,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257863,
@@ -147,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233380,
+      "num": 233380,
+      "word": "女硕士走失后被一居民收留",
+      "onboard_time": 1733361259,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 229192,
       "num": 229192,
       "word": "2025能过第一个非遗版春节",
@@ -163,12 +259,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 198086,
+      "num": 198086,
+      "word": "网红祁天道骚扰女子视频系摆拍",
+      "onboard_time": 1733356097,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 197674,
       "num": 133464,
       "word": "苏有朋直播",
       "onboard_time": 1733327000,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195459,
+      "num": 195459,
+      "word": "专家称白猫在猫眼里不是最丑的",
+      "onboard_time": 1733352735,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 195202,
+      "num": 195202,
+      "word": "麦琳骑马",
+      "onboard_time": 1733359402,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 185456,
@@ -179,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183957,
+      "num": 183957,
+      "word": "尹锡悦提名新国防部长",
+      "onboard_time": 1733358201,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182521,
       "num": 182521,
       "word": "琼瑶成都故居依旧保存完好",
       "onboard_time": 1733327539,
       "rank": 30,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 176303,
+      "num": 176303,
+      "word": "法国政府被议会推翻",
+      "onboard_time": 1733356158,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175181,
@@ -195,20 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175068,
-      "num": 140211,
-      "word": "专家称白猫在猫眼里不是最丑的",
-      "onboard_time": 1733352735,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173663,
       "num": 173663,
       "word": "韩国紧急戒严令导火索",
       "onboard_time": 1733341152,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167758,
+      "num": 167758,
+      "word": "44项来自中国的非遗瑰宝",
+      "onboard_time": 1733360660,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 158855,
@@ -219,12 +355,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 157598,
+      "num": 231295,
+      "word": "摄影师吐槽新同事自带器材自降工资",
+      "onboard_time": 1733353636,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147903,
       "num": 147903,
       "word": "如果手机被偷听耗电速度会快27%",
       "onboard_time": 1733327840,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147062,
+      "num": 147062,
+      "word": "韩国",
+      "onboard_time": 1733357361,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145019,
@@ -251,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137277,
+      "num": 137277,
+      "word": "光与夜之恋 陆沉",
+      "onboard_time": 1733361623,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135127,
       "num": 135127,
       "word": "韩国实施了一次很不严肃的全国戒严",
       "onboard_time": 1733325862,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134547,
+      "num": 410691,
+      "word": "非遗版春节壁纸",
+      "onboard_time": 1733332216,
+      "rank": 42,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 134212,
@@ -275,12 +443,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 124817,
+      "num": 124817,
+      "word": "失聪小伙用上海建筑集齐26个字母",
+      "onboard_time": 1733359163,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124274,
       "num": 124274,
       "word": "你以为很懒其实很健康的行为",
       "onboard_time": 1733313022,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118991,
+      "num": 118991,
+      "word": "美图卖了所有加密货币净赚5亿多元",
+      "onboard_time": 1733363179,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 117398,
@@ -323,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107905,
+      "num": 107905,
+      "word": "国乒今天迎战韩国队",
+      "onboard_time": 1733363119,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105400,
       "num": 105400,
       "word": "你的屁股很可能已经死了",
@@ -337,6 +529,14 @@
       "onboard_time": 1733296346,
       "rank": 35,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 104761,
+      "num": 104761,
+      "word": "听不见的摄影师拍出五彩斑斓的世界",
+      "onboard_time": 1733362699,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103880,
@@ -363,6 +563,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 98550,
+      "num": 98550,
+      "word": "林青霞后悔上个月没去看看琼瑶",
+      "onboard_time": 1733347511,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97195,
+      "num": 95341,
+      "word": "琼瑶身家保守估计超25亿元",
+      "onboard_time": 1733363239,
+      "rank": 44,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 96944,
       "num": 96944,
       "word": "爱宝乐园正与中方专家沟通福宝状况",
@@ -379,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95399,
+      "num": 95475,
+      "word": "东北虎被拍到高清照",
+      "onboard_time": 1733353817,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95338,
       "num": 95338,
       "word": "琼瑶七年前曾反对丈夫插管",
@@ -387,12 +611,44 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 95224,
+      "num": 95224,
+      "word": "中国在联合国为战火下的儿童发声",
+      "onboard_time": 1733360660,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95163,
+      "num": 166230,
+      "word": "韩执政党决定反对针对总统的弹劾案",
+      "onboard_time": 1733355438,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 92419,
+      "num": 92419,
+      "word": "Mate70麒麟芯片首拆",
+      "onboard_time": 1733358681,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90423,
       "num": 90423,
       "word": "永夜星河庆功宴",
       "onboard_time": 1733314283,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84012,
+      "num": 84012,
+      "word": "姆巴佩又双叕失点",
+      "onboard_time": 1733360302,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82798,
@@ -491,36 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63422,
-      "num": 231295,
-      "word": "摄影师吐槽新同事自带器材自降工资",
-      "onboard_time": 1733353636,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61176,
-      "num": 61176,
-      "word": "林青霞后悔上个月没去看看琼瑶",
-      "onboard_time": 1733347511,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59106,
       "num": 63519,
       "word": "张睿换枯叶蝶头像",
       "onboard_time": 1733310861,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58568,
-      "num": 95475,
-      "word": "东北虎被拍到高清照",
-      "onboard_time": 1733353817,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57677,
@@ -555,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51665,
+      "num": 195221,
+      "word": "管泽元报名参加澳门公开赛",
+      "onboard_time": 1733363119,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47096,
       "num": 66895,
       "word": "男子远程偷扣老年机话费超500万",
@@ -569,14 +809,6 @@
       "onboard_time": 1733331616,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45463,
-      "num": 45463,
-      "word": "非遗版春节壁纸",
-      "onboard_time": 1733332216,
-      "rank": 42,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 41341,
@@ -601,6 +833,14 @@
       "onboard_time": 1733352855,
       "rank": 44,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 36122,
+      "num": 217983,
+      "word": "无限暖暖开门",
+      "onboard_time": 1733360361,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 32283,
@@ -684,7 +924,7 @@
     },
     {
       "raw_hot": 12326,
-      "num": 940822,
+      "num": 1140313,
       "word": "京西有条文化带",
       "onboard_time": 1733301088,
       "rank": 2,
@@ -713,14 +953,6 @@
       "onboard_time": 1733332095,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6637,
-      "num": 166230,
-      "word": "韩执政党决定反对针对总统的弹劾案",
-      "onboard_time": 1733355438,
-      "rank": 14,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
