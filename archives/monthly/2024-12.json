@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733426394268,
+  "endTime": 1733427359921,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -18251,6 +18251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20431,
+      "num": 28565,
+      "word": "姑娘把中国剪纸穿到了米兰街头",
+      "onboard_time": 1733425571,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20339,
       "num": 155546,
       "word": "好运家",
@@ -18569,14 +18577,6 @@
       "onboard_time": 1733179214,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 16585,
-      "num": 28565,
-      "word": "姑娘把中国剪纸穿到了米兰街头",
-      "onboard_time": 1733425571,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16539,
@@ -18961,6 +18961,14 @@
       "onboard_time": 1733047459,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12710,
+      "num": 22742,
+      "word": "爱我中国年",
+      "onboard_time": 1733427252,
+      "rank": 24,
+      "category": "正能量"
     },
     {
       "raw_hot": 12530,
