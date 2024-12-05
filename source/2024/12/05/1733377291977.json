@@ -1,0 +1,410 @@
+{
+  "runTime": 1733377291977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460693,
+        "num": 1460693,
+        "word": "李行亮麦琳 妻子的浪漫旅行",
+        "onboard_time": 1733374161,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1031812,
+        "num": 1031812,
+        "word": "一女主播模仿吴艳妮引热议",
+        "onboard_time": 1733370261,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28862,
+        "num": 943599,
+        "word": "文化中国行看文博热升温",
+        "onboard_time": 1733374041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 931574,
+        "num": 931574,
+        "word": "杨子让黄圣依开了7个小时车",
+        "onboard_time": 1733375721,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713130,
+        "num": 713130,
+        "word": "刚果金近百人死于不明疾病",
+        "onboard_time": 1733371280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 692360,
+        "num": 692360,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 830983,
+        "num": 668187,
+        "word": "琼瑶16天前回复过林青霞",
+        "onboard_time": 1733369778,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636721,
+        "num": 636721,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733374820,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283209,
+        "num": 588717,
+        "word": "一只爱马仕包等于一辆新能源车",
+        "onboard_time": 1733375182,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110455,
+        "num": 566720,
+        "word": "孙颖莎11比2金娜英",
+        "onboard_time": 1733375541,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560043,
+        "num": 560043,
+        "word": "武夷山烧火夜爬游客身份已落实",
+        "onboard_time": 1733371161,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494859,
+        "num": 494859,
+        "word": "韩国",
+        "onboard_time": 1733357361,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432505,
+        "num": 432505,
+        "word": "赵露思黑色蓬蓬裙",
+        "onboard_time": 1733374281,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 383766,
+        "num": 383766,
+        "word": "周雨彤 我们不是电脑是人",
+        "onboard_time": 1733365457,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365886,
+        "num": 365886,
+        "word": "夏弃疾也拍了孟子义",
+        "onboard_time": 1733374041,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 365644,
+        "num": 365644,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1733372060,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363697,
+        "num": 363697,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1733370139,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314402,
+        "num": 314402,
+        "word": "春节申遗成功有哪些重要意义",
+        "onboard_time": 1733375421,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 167277,
+        "num": 306804,
+        "word": "王力宏 B站跨年晚会",
+        "onboard_time": 1733376680,
+        "rank": 18,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 304928,
+        "num": 304928,
+        "word": "公司春节放假卷起来了",
+        "onboard_time": 1733375780,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30763,
+        "num": 291466,
+        "word": "任嘉伦告黑粉侵权",
+        "onboard_time": 1733375361,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288557,
+        "num": 288557,
+        "word": "王亚飞给迪丽热巴画的薰衣草眼妆",
+        "onboard_time": 1733370680,
+        "rank": 21,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 233394,
+        "num": 233394,
+        "word": "再见爱人",
+        "onboard_time": 1733372721,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223678,
+        "num": 223678,
+        "word": "好运家 儿子27岁妈妈还可以随便亲吗",
+        "onboard_time": 1733374641,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209495,
+        "num": 209495,
+        "word": "网红祁天道犯诈骗罪获刑细节",
+        "onboard_time": 1733369660,
+        "rank": 24,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 187734,
+        "num": 187734,
+        "word": "郭敬明发了鞠婧祎正面照",
+        "onboard_time": 1733358622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66450,
+        "num": 180757,
+        "word": "关于卫生巾到底哪些是对的",
+        "onboard_time": 1733374940,
+        "rank": 26,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 179786,
+        "num": 179786,
+        "word": "为什么大冰一定要帮助麦子阿姨",
+        "onboard_time": 1733369178,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75239,
+        "num": 178911,
+        "word": "可达鸭新浪扫楼",
+        "onboard_time": 1733377219,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139315,
+        "num": 178812,
+        "word": "宁悦配享离婚证",
+        "onboard_time": 1733376739,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178717,
+        "num": 178717,
+        "word": "春节申遗成功各地文物组团祝贺",
+        "onboard_time": 1733327180,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 203135,
+        "num": 177915,
+        "word": "琼瑶孩子随母姓",
+        "onboard_time": 1733377039,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179521,
+        "num": 177800,
+        "word": "赵丽颖机场Allblack穿搭",
+        "onboard_time": 1733368399,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176967,
+        "num": 176967,
+        "word": "王鹤棣音乐厂牌SEEWE官宣",
+        "onboard_time": 1733369120,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122633,
+        "num": 171390,
+        "word": "这些古装美女都是赵樱子演的",
+        "onboard_time": 1733376319,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170818,
+        "num": 170818,
+        "word": "叙利亚或再次沦为大国博弈的沙盘",
+        "onboard_time": 1733374580,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33518,
+        "num": 167765,
+        "word": "女性到底需要怎样的卫生巾",
+        "onboard_time": 1733374342,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165230,
+        "num": 165230,
+        "word": "陈小春上声生不息音综变恋综",
+        "onboard_time": 1733374763,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163725,
+        "num": 163725,
+        "word": "无限暖暖回应部分设备无法登陆",
+        "onboard_time": 1733375241,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153678,
+        "num": 153678,
+        "word": "孙颖莎2比1金娜英",
+        "onboard_time": 1733375421,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "国乒今天迎战韩国队",
+        "onboard_time": 1733363119,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149474,
+        "num": 149474,
+        "word": "剧版哈利波特斯内普演员",
+        "onboard_time": 1733372841,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148255,
+        "num": 148255,
+        "word": "BLG宣布与ON续约至2025年",
+        "onboard_time": 1733376500,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134374,
+        "num": 134374,
+        "word": "麦琳不是害怕动物吗",
+        "onboard_time": 1733376739,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 131678,
+        "num": 131678,
+        "word": "尖叫之夜阵容持续官宣",
+        "onboard_time": 1733374820,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129726,
+        "num": 129726,
+        "word": "法国",
+        "onboard_time": 1733376739,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 129710,
+        "word": "爆燃后儿子首次看到烧伤妈妈",
+        "onboard_time": 1733374641,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129551,
+        "num": 129551,
+        "word": "尖叫之夜官宣虞书欣加盟",
+        "onboard_time": 1733371879,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129093,
+        "num": 129093,
+        "word": "盘点2024",
+        "onboard_time": 1733375481,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128363,
+        "num": 128363,
+        "word": "国乒vs韩国",
+        "onboard_time": 1733370861,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
