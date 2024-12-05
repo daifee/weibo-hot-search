@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733384296057,
+  "endTime": 1733387484919,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -17,6 +17,14 @@
       "onboard_time": 1733361080,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2113366,
+      "num": 2113366,
+      "word": "花少6总导演道歉",
+      "onboard_time": 1733383399,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1666906,
@@ -40,14 +48,6 @@
       "word": "李行亮麦琳 妻子的浪漫旅行",
       "onboard_time": 1733374161,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1359935,
-      "num": 1359935,
-      "word": "花少6总导演道歉",
-      "onboard_time": 1733383399,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 929088,
+      "num": 929088,
+      "word": "188元买的100%山羊绒衫实为0羊绒",
+      "onboard_time": 1733383219,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 928876,
       "num": 1136061,
       "word": "孙颖莎王楚钦击掌交接",
@@ -184,6 +192,14 @@
       "word": "广东人类精子库可选更像爸爸的精子",
       "onboard_time": 1733380459,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 782307,
+      "num": 304644,
+      "word": "6岁女童吃得太精细长出双排牙",
+      "onboard_time": 1733385440,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479998,
+      "num": 479998,
+      "word": "无限暖暖画质",
+      "onboard_time": 1733384000,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 479934,
       "num": 214330,
       "word": "胃癌几乎是喂出来的",
@@ -435,6 +459,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 394405,
+      "num": 303276,
+      "word": "为什么羽绒服里面穿短袖更暖和",
+      "onboard_time": 1733385500,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389750,
       "num": 397824,
       "word": "美国务院称尹锡悦严重误判",
@@ -507,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341979,
+      "num": 482076,
+      "word": "中方对13家美国军工企业实施反制",
+      "onboard_time": 1733383938,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 339874,
       "num": 339874,
       "word": "赵雅芝 重要的事情说三遍",
       "onboard_time": 1733327660,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336690,
+      "num": 301588,
+      "word": "经超为小李琳推轮椅",
+      "onboard_time": 1733385919,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 336452,
@@ -563,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310345,
+      "num": 310345,
+      "word": "女子听到朋友患肠癌一查自己也有",
+      "onboard_time": 1733386399,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288668,
       "num": 288668,
       "word": "姆巴佩心态崩了",
@@ -593,6 +649,14 @@
       "onboard_time": 1733357839,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 270817,
+      "num": 270817,
+      "word": "祝绪丹 自己吓自己",
+      "onboard_time": 1733383399,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 269545,
@@ -683,11 +747,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233740,
-      "num": 233740,
-      "word": "祝绪丹 自己吓自己",
-      "onboard_time": 1733383399,
-      "rank": 46,
+      "raw_hot": 230009,
+      "num": 230009,
+      "word": "芒果年底冲业绩了",
+      "onboard_time": 1733383938,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -747,20 +811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221540,
+      "num": 221540,
+      "word": "老师酒后咬伤16岁学生耳朵被行拘",
+      "onboard_time": 1733383579,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219609,
       "num": 219609,
       "word": "丁程鑫友情出演邓超新片",
       "onboard_time": 1733367321,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219209,
-      "num": 219209,
-      "word": "无限暖暖画质",
-      "onboard_time": 1733384000,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 216767,
@@ -771,12 +835,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214347,
-      "num": 214347,
-      "word": "188元买的100%山羊绒衫实为0羊绒",
-      "onboard_time": 1733383219,
-      "rank": 41,
-      "category": "舆论监督"
+      "raw_hot": 213619,
+      "num": 213619,
+      "word": "谢可寅出演猎罪图鉴2",
+      "onboard_time": 1733384000,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208650,
+      "num": 297940,
+      "word": "见证王楚钦的复仇",
+      "onboard_time": 1733384540,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205882,
@@ -801,6 +873,14 @@
       "onboard_time": 1733377039,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203039,
+      "num": 203039,
+      "word": "感觉体制内挺适合不婚族",
+      "onboard_time": 1733387059,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 202556,
@@ -843,6 +923,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 197895,
+      "num": 382061,
+      "word": "羊绒衫变羊毛衫仅退款合适吗",
+      "onboard_time": 1733386399,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 197674,
       "num": 133464,
       "word": "苏有朋直播",
@@ -865,14 +953,6 @@
       "onboard_time": 1733379200,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 195469,
-      "num": 195469,
-      "word": "芒果年底冲业绩了",
-      "onboard_time": 1733383938,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 195202,
@@ -905,14 +985,6 @@
       "onboard_time": 1733379739,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189691,
-      "num": 189691,
-      "word": "谢可寅出演猎罪图鉴2",
-      "onboard_time": 1733384000,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 188501,
@@ -977,14 +1049,6 @@
       "onboard_time": 1733358201,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183914,
-      "num": 482076,
-      "word": "中方对13家美国军工企业实施反制",
-      "onboard_time": 1733383938,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 182521,
@@ -1121,6 +1185,14 @@
       "onboard_time": 1733376680,
       "rank": 18,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 166939,
+      "num": 166939,
+      "word": "成都混团采访",
+      "onboard_time": 1733384359,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 163769,
@@ -1411,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133884,
+      "num": 133884,
+      "word": "制服Ditto",
+      "onboard_time": 1733386579,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133490,
       "num": 133490,
       "word": "梅花烙 宫锁连城",
@@ -1521,6 +1601,14 @@
       "onboard_time": 1733376319,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122138,
+      "num": 122138,
+      "word": "aespa日本年末舞台",
+      "onboard_time": 1733387299,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 121487,
@@ -1707,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96310,
+      "num": 306934,
+      "word": "警方通报一教师酒后咬伤学生耳朵",
+      "onboard_time": 1733385859,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 95868,
       "num": 95868,
       "word": "李冰冰51岁状态",
@@ -1859,6 +1955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 73623,
+      "num": 312821,
+      "word": "蜀锦人家追剧团好多猴",
+      "onboard_time": 1733385198,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70568,
       "num": 74910,
       "word": "王楚钦孙颖莎新公式照",
@@ -1907,12 +2011,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65957,
+      "num": 310442,
+      "word": "林珍娜蔡钟硕恋情",
+      "onboard_time": 1733387059,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65658,
       "num": 65658,
       "word": "黄奕 琼瑶阿姨对我人生的影响很大",
       "onboard_time": 1733331196,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62579,
+      "num": 203047,
+      "word": "因果报应 同是爸爸我站你这边",
+      "onboard_time": 1733387299,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 60341,
@@ -2059,6 +2179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40946,
+      "num": 310299,
+      "word": "无限暖暖好玩",
+      "onboard_time": 1733384660,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40715,
       "num": 291466,
       "word": "任嘉伦告黑粉侵权",
@@ -2163,6 +2291,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26352,
+      "num": 774025,
+      "word": "北京人的北京地儿",
+      "onboard_time": 1733386818,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25865,
+      "num": 268691,
+      "word": "弄破商贩气球不是文明执法该有的样子",
+      "onboard_time": 1733386100,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25548,
+      "num": 206236,
+      "word": "晓华说向佐真的要来了",
+      "onboard_time": 1733380161,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 25290,
       "num": 393551,
       "word": "林诗栋蒯曼2比1韩国队",
@@ -2187,12 +2339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22220,
-      "num": 156095,
-      "word": "晓华说向佐真的要来了",
-      "onboard_time": 1733380161,
-      "rank": 41,
-      "category": "艺人,民生新闻"
+      "raw_hot": 21777,
+      "num": 203142,
+      "word": "易烊千玺的衣橱",
+      "onboard_time": 1733384660,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 20589,
@@ -2225,6 +2377,14 @@
       "onboard_time": 1733339771,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17433,
+      "num": 268970,
+      "word": "工科考研没你想的那么难",
+      "onboard_time": 1733386999,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 17112,
@@ -2281,6 +2441,14 @@
       "onboard_time": 1733319565,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11031,
+      "num": 168250,
+      "word": "近距离看香奈儿手工坊秀款",
+      "onboard_time": 1733387180,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 10357,
