@@ -1,0 +1,410 @@
+{
+  "runTime": 1733380430822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027681,
+        "num": 1164429,
+        "word": "黄子韬徐艺洋右脸",
+        "onboard_time": 1733377280,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928876,
+        "num": 928876,
+        "word": "孙颖莎王楚钦击掌交接",
+        "onboard_time": 1733378539,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25672,
+        "num": 921981,
+        "word": "文化中国行看文博热升温",
+        "onboard_time": 1733374041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1005326,
+        "num": 921959,
+        "word": "李行亮麦琳 妻子的浪漫旅行",
+        "onboard_time": 1733374161,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 921642,
+        "num": 921642,
+        "word": "杨子让黄圣依开了7个小时车",
+        "onboard_time": 1733375721,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621490,
+        "num": 621490,
+        "word": "一女主播模仿吴艳妮引热议",
+        "onboard_time": 1733370261,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 781194,
+        "num": 600366,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733374820,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557997,
+        "num": 557997,
+        "word": "公司春节放假卷起来了",
+        "onboard_time": 1733375780,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 557047,
+        "num": 557047,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 194651,
+        "num": 549972,
+        "word": "国乒8比4韩国",
+        "onboard_time": 1733379619,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613584,
+        "num": 549869,
+        "word": "琼瑶离世前晚曾嘱咐儿媳来找自己",
+        "onboard_time": 1733378601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548971,
+        "num": 548971,
+        "word": "一只爱马仕包等于一辆新能源车",
+        "onboard_time": 1733375182,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544444,
+        "num": 544444,
+        "word": "丁禹兮帮虞书欣爷爷穿衣服",
+        "onboard_time": 1733378059,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404989,
+        "num": 404989,
+        "word": "琼瑶16天前回复过林青霞",
+        "onboard_time": 1733369778,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25001,
+        "num": 345650,
+        "word": "国乒混团五连胜",
+        "onboard_time": 1733380099,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319979,
+        "num": 319979,
+        "word": "韩国",
+        "onboard_time": 1733357361,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319970,
+        "num": 319970,
+        "word": "春节申遗成功有哪些重要意义",
+        "onboard_time": 1733375421,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 305307,
+        "num": 305307,
+        "word": "武夷山烧火夜爬游客身份已落实",
+        "onboard_time": 1733371161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50649,
+        "num": 302693,
+        "word": "年轻人为什么爱上中国汉堡",
+        "onboard_time": 1733377280,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153711,
+        "num": 302290,
+        "word": "十个勤天芭莎男士公益大片",
+        "onboard_time": 1733379860,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 302270,
+        "num": 302270,
+        "word": "刚果金近百人死于不明疾病",
+        "onboard_time": 1733371280,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271170,
+        "num": 271170,
+        "word": "国乒今天迎战韩国队",
+        "onboard_time": 1733363119,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219036,
+        "num": 261244,
+        "word": "麦琳李行亮要拍一辈子求婚照",
+        "onboard_time": 1733379500,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154852,
+        "num": 260881,
+        "word": "盘点2024",
+        "onboard_time": 1733375481,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192292,
+        "num": 260821,
+        "word": "王楚钦3比0韩国队",
+        "onboard_time": 1733379739,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260810,
+        "num": 260810,
+        "word": "女生学医归来成短剧女主",
+        "onboard_time": 1733379138,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249486,
+        "num": 249486,
+        "word": "2024年中国芯片出口将破万亿",
+        "onboard_time": 1733378179,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106775,
+        "num": 243398,
+        "word": "新疆棉花协会声明",
+        "onboard_time": 1733380400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51208,
+        "num": 243115,
+        "word": "白夜破晓",
+        "onboard_time": 1733378120,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208175,
+        "num": 243047,
+        "word": "猎罪图鉴2定档",
+        "onboard_time": 1733379559,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243001,
+        "num": 243001,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1733370139,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207512,
+        "num": 207512,
+        "word": "女硕士走失13年侄女称收留者憨厚老实",
+        "onboard_time": 1733378000,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202556,
+        "num": 202556,
+        "word": "花少十年纪念片",
+        "onboard_time": 1733378239,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189419,
+        "num": 189419,
+        "word": "夏弃疾也拍了孟子义",
+        "onboard_time": 1733374041,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 183966,
+        "num": 183966,
+        "word": "周雨彤 我们不是电脑是人",
+        "onboard_time": 1733365457,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180400,
+        "num": 180400,
+        "word": "王楚钦3比0吴晙诚",
+        "onboard_time": 1733377819,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179943,
+        "num": 179943,
+        "word": "国乒vs韩国",
+        "onboard_time": 1733370861,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145383,
+        "num": 177163,
+        "word": "大学老师才是真正的顶流",
+        "onboard_time": 1733379200,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175054,
+        "num": 175054,
+        "word": "低俗网红坐拥4000万粉谁该脸红",
+        "onboard_time": 1733379260,
+        "rank": 38,
+        "category": "议题讨论,网红"
+      },
+      {
+        "raw_hot": 172392,
+        "num": 172392,
+        "word": "韩乒球员自嘲队服像椰汁瓶包装",
+        "onboard_time": 1733379920,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170199,
+        "num": 170199,
+        "word": "法国",
+        "onboard_time": 1733376739,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22220,
+        "num": 156095,
+        "word": "晓华说向佐真的要来了",
+        "onboard_time": 1733380161,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 155958,
+        "num": 155958,
+        "word": "无限暖暖超话",
+        "onboard_time": 1733378718,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155175,
+        "num": 155175,
+        "word": "孙颖莎2比1金娜英",
+        "onboard_time": 1733375421,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154589,
+        "num": 154589,
+        "word": "好运家 儿子27岁妈妈还可以随便亲吗",
+        "onboard_time": 1733374641,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135833,
+        "num": 135833,
+        "word": "陈小春上声生不息音综变恋综",
+        "onboard_time": 1733374763,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133218,
+        "num": 133218,
+        "word": "张杰说我们不会再错过了",
+        "onboard_time": 1733378960,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130100,
+        "num": 130100,
+        "word": "林诗栋蒯曼2比1赵大成申裕斌",
+        "onboard_time": 1733380220,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124582,
+        "num": 124582,
+        "word": "肖战实体专明天10点开启预约",
+        "onboard_time": 1733378418,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124435,
+        "num": 124435,
+        "word": "琼瑶孩子随母姓",
+        "onboard_time": 1733377039,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面推动共建一带一路高质量发展#"
+    }
+  }
+}

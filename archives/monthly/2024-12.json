@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733377291977,
+  "endTime": 1733380430822,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -939,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027681,
+      "num": 1164429,
+      "word": "黄子韬徐艺洋右脸",
+      "onboard_time": 1733377280,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025416,
       "num": 1164066,
       "word": "周雨彤 我们不是电脑是人",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1732983798,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 928876,
+      "num": 928876,
+      "word": "孙颖莎王楚钦击掌交接",
+      "onboard_time": 1733378539,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 926049,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1733212581,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 781194,
+      "num": 636721,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1733374820,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 776694,
@@ -1875,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 636721,
-      "num": 636721,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1733374820,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 634100,
       "num": 634100,
       "word": "高瀚宇为鹿晗发声",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1733304564,
       "rank": 32,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 613584,
+      "num": 549869,
+      "word": "琼瑶离世前晚曾嘱咐儿媳来找自己",
+      "onboard_time": 1733378601,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 612583,
@@ -2251,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 557997,
+      "num": 557997,
+      "word": "公司春节放假卷起来了",
+      "onboard_time": 1733375780,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 557648,
       "num": 557648,
       "word": "韩国警方开始调查尹锡悦涉内乱罪",
@@ -2323,6 +2355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 548971,
+      "num": 588717,
+      "word": "一只爱马仕包等于一辆新能源车",
+      "onboard_time": 1733375182,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548599,
       "num": 901058,
       "word": "韩国部分网站瘫痪",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1733199201,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544444,
+      "num": 544444,
+      "word": "丁禹兮帮虞书欣爷爷穿衣服",
+      "onboard_time": 1733378059,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 540845,
@@ -4203,6 +4251,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 319970,
+      "num": 457902,
+      "word": "春节申遗成功有哪些重要意义",
+      "onboard_time": 1733375421,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 317361,
       "num": 399279,
       "word": "员工承诺购车优惠离职后4S店不认",
@@ -4241,14 +4297,6 @@
       "onboard_time": 1733306491,
       "rank": 25,
       "category": "电影,读书作家"
-    },
-    {
-      "raw_hot": 314402,
-      "num": 457902,
-      "word": "春节申遗成功有哪些重要意义",
-      "onboard_time": 1733375421,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 314174,
@@ -4313,14 +4361,6 @@
       "onboard_time": 1733061740,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304928,
-      "num": 304928,
-      "word": "公司春节放假卷起来了",
-      "onboard_time": 1733375780,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 304680,
@@ -4609,14 +4649,6 @@
       "onboard_time": 1733290520,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283209,
-      "num": 588717,
-      "word": "一只爱马仕包等于一辆新能源车",
-      "onboard_time": 1733375182,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282829,
@@ -4987,6 +5019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260810,
+      "num": 260810,
+      "word": "女生学医归来成短剧女主",
+      "onboard_time": 1733379138,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260781,
       "num": 363991,
       "word": "张子枫六块腹肌",
@@ -5169,6 +5209,14 @@
       "onboard_time": 1733315062,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249486,
+      "num": 249486,
+      "word": "2024年中国芯片出口将破万亿",
+      "onboard_time": 1733378179,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 248731,
@@ -5899,6 +5947,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 219036,
+      "num": 261244,
+      "word": "麦琳李行亮要拍一辈子求婚照",
+      "onboard_time": 1733379500,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218934,
       "num": 218934,
       "word": "福宝",
@@ -6283,12 +6339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208175,
+      "num": 243047,
+      "word": "猎罪图鉴2定档",
+      "onboard_time": 1733379559,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207920,
       "num": 248019,
       "word": "普京签署41万亿卢布预算",
       "onboard_time": 1733057480,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207512,
+      "num": 207512,
+      "word": "女硕士走失13年侄女称收留者憨厚老实",
+      "onboard_time": 1733378000,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207224,
@@ -6521,6 +6593,14 @@
       "onboard_time": 1733108178,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202556,
+      "num": 202556,
+      "word": "花少十年纪念片",
+      "onboard_time": 1733378239,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 202422,
@@ -6907,6 +6987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194651,
+      "num": 549972,
+      "word": "国乒8比4韩国",
+      "onboard_time": 1733379619,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194183,
       "num": 192537,
       "word": "贺峻霖连续两年获得中传奖学金",
@@ -6977,6 +7065,14 @@
       "onboard_time": 1733206819,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192292,
+      "num": 260821,
+      "word": "王楚钦3比0韩国队",
+      "onboard_time": 1733379739,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 191900,
@@ -7587,6 +7683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180400,
+      "num": 180400,
+      "word": "王楚钦3比0吴晙诚",
+      "onboard_time": 1733377819,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180356,
       "num": 180356,
       "word": "西湖被王一博粉丝包围了",
@@ -7601,6 +7705,14 @@
       "onboard_time": 1733206880,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179943,
+      "num": 179943,
+      "word": "国乒vs韩国",
+      "onboard_time": 1733370861,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 179685,
@@ -7795,6 +7907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175054,
+      "num": 175054,
+      "word": "低俗网红坐拥4000万粉谁该脸红",
+      "onboard_time": 1733379260,
+      "rank": 38,
+      "category": "议题讨论,网红"
+    },
+    {
       "raw_hot": 174503,
       "num": 169524,
       "word": "拍身份证照片别穿这类衣服",
@@ -7889,6 +8009,14 @@
       "onboard_time": 1733295921,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172392,
+      "num": 172392,
+      "word": "韩乒球员自嘲队服像椰汁瓶包装",
+      "onboard_time": 1733379920,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 172356,
@@ -8033,6 +8161,14 @@
       "onboard_time": 1733214198,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170199,
+      "num": 170199,
+      "word": "法国",
+      "onboard_time": 1733376739,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169988,
@@ -8827,6 +8963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155958,
+      "num": 155958,
+      "word": "无限暖暖超话",
+      "onboard_time": 1733378718,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155806,
       "num": 155806,
       "word": "石破茂所乘车辆发生事故",
@@ -8883,12 +9027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155175,
+      "num": 176155,
+      "word": "孙颖莎2比1金娜英",
+      "onboard_time": 1733375421,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155116,
       "num": 155116,
       "word": "琼瑶遗书里全是她作品的影子",
       "onboard_time": 1733324543,
       "rank": 39,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 154852,
+      "num": 260881,
+      "word": "盘点2024",
+      "onboard_time": 1733375481,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154781,
@@ -8963,12 +9123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153678,
-      "num": 176155,
-      "word": "孙颖莎2比1金娜英",
-      "onboard_time": 1733375421,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 153711,
+      "num": 302290,
+      "word": "十个勤天芭莎男士公益大片",
+      "onboard_time": 1733379860,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 153286,
@@ -9443,6 +9603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145383,
+      "num": 177163,
+      "word": "大学老师才是真正的顶流",
+      "onboard_time": 1733379200,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145019,
       "num": 145019,
       "word": "检查结果互认致HIV感染者被拒诊",
@@ -9577,14 +9745,6 @@
       "onboard_time": 1733144125,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142056,
-      "num": 142056,
-      "word": "盘点2024",
-      "onboard_time": 1733375481,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142053,
@@ -10075,14 +10235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133836,
-      "num": 133836,
-      "word": "国乒vs韩国",
-      "onboard_time": 1733370861,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133803,
       "num": 133803,
       "word": "被88岁爷爷的时尚感硬控了",
@@ -10113,6 +10265,14 @@
       "onboard_time": 1733032878,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133218,
+      "num": 133218,
+      "word": "张杰说我们不会再错过了",
+      "onboard_time": 1733378960,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 133162,
@@ -10251,6 +10411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130100,
+      "num": 130100,
+      "word": "林诗栋蒯曼2比1赵大成申裕斌",
+      "onboard_time": 1733380220,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130022,
       "num": 130022,
       "word": "因果报应女性血肉疯长",
@@ -10265,14 +10433,6 @@
       "onboard_time": 1733055018,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 129726,
-      "num": 129726,
-      "word": "法国",
-      "onboard_time": 1733376739,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129666,
@@ -10537,6 +10697,14 @@
       "onboard_time": 1733281999,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124582,
+      "num": 124582,
+      "word": "肖战实体专明天10点开启预约",
+      "onboard_time": 1733378418,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 124580,
@@ -11408,6 +11576,14 @@
       "word": "酸辣粉里是什么粉",
       "onboard_time": 1733033297,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106775,
+      "num": 243398,
+      "word": "新疆棉花协会声明",
+      "onboard_time": 1733380400,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -13900,7 +14076,7 @@
     },
     {
       "raw_hot": 52249,
-      "num": 52249,
+      "num": 243115,
       "word": "白夜破晓",
       "onboard_time": 1733071036,
       "rank": 47,
@@ -13977,6 +14153,14 @@
       "onboard_time": 1733373323,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50649,
+      "num": 302693,
+      "word": "年轻人为什么爱上中国汉堡",
+      "onboard_time": 1733377280,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 50484,
@@ -15691,6 +15875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25001,
+      "num": 345650,
+      "word": "国乒混团五连胜",
+      "onboard_time": 1733380099,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24984,
       "num": 24984,
       "word": "好运来",
@@ -15889,6 +16081,14 @@
       "onboard_time": 1733231660,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22220,
+      "num": 156095,
+      "word": "晓华说向佐真的要来了",
+      "onboard_time": 1733380161,
+      "rank": 41,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 21750,
