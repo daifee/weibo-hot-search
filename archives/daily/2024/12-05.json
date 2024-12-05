@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733391606495,
+  "endTime": 1733394377379,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -9,6 +9,14 @@
       "onboard_time": 1733322204,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2749480,
+      "num": 326843,
+      "word": "朴彩英自曝恋爱",
+      "onboard_time": 1733391379,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2395013,
@@ -49,6 +57,14 @@
       "onboard_time": 1733358501,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1511610,
+      "num": 1511610,
+      "word": "于正删除了对琼瑶的道歉函",
+      "onboard_time": 1733391439,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1510222,
@@ -228,11 +244,19 @@
     },
     {
       "raw_hot": 732394,
-      "num": 213801,
+      "num": 261526,
       "word": "1岁男童在父母怀中看完烟花离世",
       "onboard_time": 1733390480,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 731691,
+      "num": 731691,
+      "word": "警方通报精神分裂女硕士走失多年后找回",
+      "onboard_time": 1733387658,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 726594,
@@ -305,6 +329,14 @@
       "onboard_time": 1733368399,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580132,
+      "num": 325316,
+      "word": "司机拒绝接受检查突然逃逸跳桥身亡",
+      "onboard_time": 1733393061,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 566112,
@@ -443,6 +475,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 461473,
+      "num": 461473,
+      "word": "福宝发抖原因正逐步排查",
+      "onboard_time": 1733390660,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444919,
       "num": 444919,
       "word": "遭性侵身亡女生的母亲希望判凶手死刑",
@@ -481,6 +521,14 @@
       "onboard_time": 1733367078,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408041,
+      "num": 257978,
+      "word": "六旬老人尝试高危性行为感染艾滋病",
+      "onboard_time": 1733392460,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403348,
@@ -529,6 +577,14 @@
       "onboard_time": 1733350153,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384537,
+      "num": 384537,
+      "word": "迪丽热巴花絮图",
+      "onboard_time": 1733391619,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 381559,
@@ -667,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312493,
-      "num": 312493,
-      "word": "朴彩英自曝恋爱",
-      "onboard_time": 1733391379,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288668,
       "num": 288668,
       "word": "姆巴佩心态崩了",
@@ -689,6 +737,14 @@
       "onboard_time": 1733369660,
       "rank": 31,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 276391,
+      "num": 263553,
+      "word": "迪丽热巴迪奥活动造型",
+      "onboard_time": 1733393598,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 275150,
@@ -756,18 +812,10 @@
     },
     {
       "raw_hot": 251627,
-      "num": 219740,
+      "num": 224680,
       "word": "向佐主打一个错峰理发",
       "onboard_time": 1733390599,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 250361,
-      "num": 207661,
-      "word": "于正删除了对琼瑶的道歉函",
-      "onboard_time": 1733391439,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -833,6 +881,14 @@
       "onboard_time": 1733390298,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234094,
+      "num": 234094,
+      "word": "琼瑶家人公告",
+      "onboard_time": 1733391379,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 230009,
@@ -913,6 +969,14 @@
       "onboard_time": 1733367321,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219272,
+      "num": 311200,
+      "word": "迪士尼偶遇丁程鑫",
+      "onboard_time": 1733392641,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 216767,
@@ -1083,12 +1147,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191170,
-      "num": 191170,
-      "word": "福宝发抖原因正逐步排查",
-      "onboard_time": 1733390660,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 191908,
+      "num": 191908,
+      "word": "李行亮被活动除名",
+      "onboard_time": 1733394199,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191201,
+      "num": 311783,
+      "word": "许凯邓恩熙县城文学男女主",
+      "onboard_time": 1733393299,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 188501,
@@ -1105,6 +1177,14 @@
       "onboard_time": 1733383159,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187508,
+      "num": 187508,
+      "word": "祁天道账号被封",
+      "onboard_time": 1733392580,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 187380,
@@ -1195,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176818,
+      "num": 176818,
+      "word": "Gemini长沙首播",
+      "onboard_time": 1733393959,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176303,
       "num": 176303,
       "word": "法国政府被议会推翻",
@@ -1249,6 +1337,14 @@
       "onboard_time": 1733374580,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170534,
+      "num": 170534,
+      "word": "是谁在纵容祁天道",
+      "onboard_time": 1733391439,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 170474,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1733353636,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157459,
+      "num": 320306,
+      "word": "再次正告菲方立即停止一切侵权挑衅",
+      "onboard_time": 1733394199,
+      "rank": 13,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 156996,
@@ -1580,7 +1684,7 @@
     },
     {
       "raw_hot": 139099,
-      "num": 139099,
+      "num": 188195,
       "word": "福宝干饭吃得干干净净",
       "onboard_time": 1733391319,
       "rank": 45,
@@ -1609,14 +1713,6 @@
       "onboard_time": 1733391201,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 138243,
-      "num": 138243,
-      "word": "是谁在纵容祁天道",
-      "onboard_time": 1733391439,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 138128,
@@ -1899,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114656,
+      "num": 302272,
+      "word": "吴晙诚说对阵王楚钦目标是能得分",
+      "onboard_time": 1733393598,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113161,
       "num": 203273,
       "word": "琼瑶剧 大女主",
@@ -2099,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88877,
+      "num": 181673,
+      "word": "春晚神级舞台",
+      "onboard_time": 1733392400,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88055,
       "num": 259561,
       "word": "员工周末不响应工作老板退群又加群",
@@ -2211,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72754,
+      "num": 259021,
+      "word": "王楚钦暴力高压球",
+      "onboard_time": 1733390120,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72369,
       "num": 271268,
       "word": "陈少熙说演员依旧是我的目标",
@@ -2257,6 +2377,14 @@
       "onboard_time": 1733306902,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66753,
+      "num": 317292,
+      "word": "有家长因一年级不教英语选择转学",
+      "onboard_time": 1733393419,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66450,
@@ -2363,14 +2491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51519,
-      "num": 209404,
-      "word": "琼瑶家人公告",
-      "onboard_time": 1733391379,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51327,
       "num": 209513,
       "word": "周翊然张予曦还原三舞名场面",
@@ -2425,6 +2545,14 @@
       "onboard_time": 1733331616,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45546,
+      "num": 252613,
+      "word": "在国漫里看到扑面而来的生命力",
+      "onboard_time": 1733394261,
+      "rank": 27,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 44682,
@@ -2563,6 +2691,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31461,
+      "num": 176291,
+      "word": "站着吃饭或增加胃肠癌风险",
+      "onboard_time": 1733392940,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31148,
+      "num": 299864,
+      "word": "西部航空回应用胶带贴飞机舷窗",
+      "onboard_time": 1733393360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30782,
       "num": 188501,
       "word": "读到泪目的毕业论文致谢",
@@ -2601,6 +2745,14 @@
       "onboard_time": 1733337852,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26232,
+      "num": 251602,
+      "word": "宠物火化高端服务价格近1300元",
+      "onboard_time": 1733392999,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25966,
@@ -2699,6 +2851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18159,
+      "num": 192229,
+      "word": "香奈儿大秀里的刺绣工艺",
+      "onboard_time": 1733391739,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 17112,
       "num": 285355,
       "word": "2025江苏卫视跨年舞美预演视频",
@@ -2745,6 +2905,22 @@
       "onboard_time": 1733340551,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13719,
+      "num": 307266,
+      "word": "郭俊辰唐晓天默契新享法",
+      "onboard_time": 1733391799,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12961,
+      "num": 249114,
+      "word": "香奈儿秀场的惊艳艺术感",
+      "onboard_time": 1733393121,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 12326,

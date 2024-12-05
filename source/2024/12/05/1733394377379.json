@@ -1,0 +1,410 @@
+{
+  "runTime": 1733394377379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511610,
+        "num": 1511610,
+        "word": "于正删除了对琼瑶的道歉函",
+        "onboard_time": 1733391439,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731691,
+        "num": 731691,
+        "word": "警方通报精神分裂女硕士走失多年后找回",
+        "onboard_time": 1733387658,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32372,
+        "num": 683642,
+        "word": "北京人的北京地儿",
+        "onboard_time": 1733386818,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 773090,
+        "num": 677822,
+        "word": "花少6总导演道歉",
+        "onboard_time": 1733383399,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645604,
+        "num": 645604,
+        "word": "女子听到朋友患肠癌一查自己也有",
+        "onboard_time": 1733386399,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461473,
+        "num": 461473,
+        "word": "福宝发抖原因正逐步排查",
+        "onboard_time": 1733390660,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402793,
+        "num": 402793,
+        "word": "模仿吴艳妮主播被禁止发作品",
+        "onboard_time": 1733389098,
+        "rank": 6,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 384537,
+        "num": 384537,
+        "word": "迪丽热巴花絮图",
+        "onboard_time": 1733391619,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365021,
+        "num": 365021,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 329143,
+        "num": 329143,
+        "word": "188元买的100%山羊绒衫实为0羊绒",
+        "onboard_time": 1733383219,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2749480,
+        "num": 326843,
+        "word": "朴彩英自曝恋爱",
+        "onboard_time": 1733391379,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580132,
+        "num": 325316,
+        "word": "司机拒绝接受检查突然逃逸跳桥身亡",
+        "onboard_time": 1733393061,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321630,
+        "num": 321630,
+        "word": "男子花38万娶妻崩溃发现儿子非亲生",
+        "onboard_time": 1733380761,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157459,
+        "num": 320306,
+        "word": "再次正告菲方立即停止一切侵权挑衅",
+        "onboard_time": 1733394199,
+        "rank": 13,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 66753,
+        "num": 317292,
+        "word": "有家长因一年级不教英语选择转学",
+        "onboard_time": 1733393419,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191201,
+        "num": 311783,
+        "word": "许凯邓恩熙县城文学男女主",
+        "onboard_time": 1733393299,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219272,
+        "num": 311200,
+        "word": "迪士尼偶遇丁程鑫",
+        "onboard_time": 1733392641,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13719,
+        "num": 307266,
+        "word": "郭俊辰唐晓天默契新享法",
+        "onboard_time": 1733391799,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114656,
+        "num": 302272,
+        "word": "吴晙诚说对阵王楚钦目标是能得分",
+        "onboard_time": 1733393598,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31148,
+        "num": 299864,
+        "word": "西部航空回应用胶带贴飞机舷窗",
+        "onboard_time": 1733393360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297313,
+        "num": 297313,
+        "word": "无限暖暖画质",
+        "onboard_time": 1733384000,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264491,
+        "num": 264491,
+        "word": "李行亮麦琳 妻子的浪漫旅行",
+        "onboard_time": 1733374161,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276391,
+        "num": 263553,
+        "word": "迪丽热巴迪奥活动造型",
+        "onboard_time": 1733393598,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 727836,
+        "num": 261526,
+        "word": "1岁男童在父母怀中看完烟花离世",
+        "onboard_time": 1733390480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72754,
+        "num": 259021,
+        "word": "王楚钦暴力高压球",
+        "onboard_time": 1733390120,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408041,
+        "num": 257978,
+        "word": "六旬老人尝试高危性行为感染艾滋病",
+        "onboard_time": 1733392460,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352396,
+        "num": 255045,
+        "word": "6岁女童吃得太精细长出双排牙",
+        "onboard_time": 1733385440,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45546,
+        "num": 252613,
+        "word": "在国漫里看到扑面而来的生命力",
+        "onboard_time": 1733394261,
+        "rank": 27,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 26232,
+        "num": 251602,
+        "word": "宠物火化高端服务价格近1300元",
+        "onboard_time": 1733392999,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12961,
+        "num": 249114,
+        "word": "香奈儿秀场的惊艳艺术感",
+        "onboard_time": 1733393121,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 248521,
+        "num": 248521,
+        "word": "林珍娜蔡钟硕恋情",
+        "onboard_time": 1733387059,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245973,
+        "num": 245973,
+        "word": "感觉体制内挺适合不婚族",
+        "onboard_time": 1733387059,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240501,
+        "num": 240501,
+        "word": "低俗网红坐拥4000万粉谁该脸红",
+        "onboard_time": 1733379260,
+        "rank": 32,
+        "category": "议题讨论,网红"
+      },
+      {
+        "raw_hot": 238645,
+        "num": 238645,
+        "word": "杨子让黄圣依开了7个小时车",
+        "onboard_time": 1733375721,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234094,
+        "num": 234094,
+        "word": "琼瑶家人公告",
+        "onboard_time": 1733391379,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224680,
+        "num": 224680,
+        "word": "向佐主打一个错峰理发",
+        "onboard_time": 1733390599,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205821,
+        "num": 205821,
+        "word": "为什么羽绒服里面穿短袖更暖和",
+        "onboard_time": 1733385500,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202148,
+        "num": 202148,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1733383819,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18159,
+        "num": 192229,
+        "word": "香奈儿大秀里的刺绣工艺",
+        "onboard_time": 1733391739,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 191908,
+        "num": 191908,
+        "word": "李行亮被活动除名",
+        "onboard_time": 1733394199,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191600,
+        "num": 191600,
+        "word": "人人影视将二十年数据开源分享",
+        "onboard_time": 1733389878,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125397,
+        "num": 188195,
+        "word": "福宝干饭吃得干干净净",
+        "onboard_time": 1733391319,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118365,
+        "num": 187653,
+        "word": "周深希望用歌声拥抱听众",
+        "onboard_time": 1733391078,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187508,
+        "num": 187508,
+        "word": "祁天道账号被封",
+        "onboard_time": 1733392580,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88877,
+        "num": 181673,
+        "word": "春晚神级舞台",
+        "onboard_time": 1733392400,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176818,
+        "num": 176818,
+        "word": "Gemini长沙首播",
+        "onboard_time": 1733393959,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31461,
+        "num": 176291,
+        "word": "站着吃饭或增加胃肠癌风险",
+        "onboard_time": 1733392940,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176223,
+        "num": 176223,
+        "word": "祝绪丹 自己吓自己",
+        "onboard_time": 1733383399,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170534,
+        "num": 170534,
+        "word": "是谁在纵容祁天道",
+        "onboard_time": 1733391439,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168973,
+        "num": 168973,
+        "word": "世界近20国将农历新年定为法定节假日",
+        "onboard_time": 1733387899,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法点亮生活#"
+    }
+  }
+}
