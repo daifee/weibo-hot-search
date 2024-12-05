@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733370626694,
+  "endTime": 1733372939744,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -41,6 +41,22 @@
       "onboard_time": 1733314701,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1268857,
+      "num": 790578,
+      "word": "女生被灌醉后遭性侵身亡案家属发声",
+      "onboard_time": 1733368640,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1230407,
+      "num": 405346,
+      "word": "琼瑶16天前回复过林青霞",
+      "onboard_time": 1733369778,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025416,
@@ -99,12 +115,12 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 790578,
-      "num": 790578,
-      "word": "女生被灌醉后遭性侵身亡案家属发声",
-      "onboard_time": 1733368640,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 726594,
+      "num": 526559,
+      "word": "比特币突破10万美元近20万人爆仓",
+      "onboard_time": 1733369960,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 658896,
@@ -121,6 +137,14 @@
       "onboard_time": 1733366057,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 627168,
+      "num": 403507,
+      "word": "一女主播模仿吴艳妮引热议",
+      "onboard_time": 1733370261,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 605439,
@@ -179,6 +203,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 494477,
+      "num": 494477,
+      "word": "为什么大冰一定要帮助麦子阿姨",
+      "onboard_time": 1733369178,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479934,
       "num": 214330,
       "word": "胃癌几乎是喂出来的",
@@ -195,6 +227,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 457065,
+      "num": 457065,
+      "word": "武夷山烧火夜爬游客身份已落实",
+      "onboard_time": 1733371161,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427438,
       "num": 427438,
       "word": "迪丽热巴工作室激情加更",
@@ -203,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406612,
-      "num": 181386,
-      "word": "琼瑶16天前回复过林青霞",
-      "onboard_time": 1733369778,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 414929,
+      "num": 414929,
+      "word": "王亚飞给迪丽热巴画的薰衣草眼妆",
+      "onboard_time": 1733370680,
+      "rank": 8,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 403348,
@@ -251,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 370667,
-      "num": 370667,
-      "word": "为什么大冰一定要帮助麦子阿姨",
-      "onboard_time": 1733369178,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347972,
       "num": 299971,
       "word": "丁禹兮空降",
@@ -299,8 +331,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301012,
-      "num": 301012,
+      "raw_hot": 306635,
+      "num": 306635,
       "word": "王鹤棣音乐厂牌SEEWE官宣",
       "onboard_time": 1733369120,
       "rank": 19,
@@ -312,6 +344,14 @@
       "word": "姆巴佩心态崩了",
       "onboard_time": 1733361321,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281121,
+      "num": 281121,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1733370139,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -331,20 +371,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 262604,
-      "num": 476365,
-      "word": "比特币突破10万美元近20万人爆仓",
-      "onboard_time": 1733369960,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 257863,
       "num": 257863,
       "word": "何炅好像从不会错过谢娜的电话",
       "onboard_time": 1733325263,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256146,
+      "num": 256146,
+      "word": "遭性侵身亡女生的母亲希望判凶手死刑",
+      "onboard_time": 1733371520,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255396,
@@ -361,14 +401,6 @@
       "onboard_time": 1733365699,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252758,
-      "num": 252758,
-      "word": "王楚钦vs吴晙诚",
-      "onboard_time": 1733370139,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 244811,
@@ -395,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 242495,
+      "num": 242495,
+      "word": "赵露思能不能演个恶女给我看看",
+      "onboard_time": 1733370199,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229192,
       "num": 229192,
       "word": "2025能过第一个非遗版春节",
@@ -419,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220939,
+      "num": 288433,
+      "word": "尖叫之夜官宣虞书欣加盟",
+      "onboard_time": 1733371879,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219609,
       "num": 219609,
       "word": "丁程鑫友情出演邓超新片",
       "onboard_time": 1733367321,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216767,
+      "num": 172009,
+      "word": "无限暖暖 华为平板进不去",
+      "onboard_time": 1733371460,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 204879,
@@ -473,6 +529,14 @@
       "onboard_time": 1733352735,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195914,
+      "num": 367591,
+      "word": "刚果金近百人死于不明疾病",
+      "onboard_time": 1733371280,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195202,
@@ -547,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178650,
+      "num": 178650,
+      "word": "孙颖莎vs金娜英",
+      "onboard_time": 1733372060,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176303,
       "num": 176303,
       "word": "法国政府被议会推翻",
@@ -563,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174660,
+      "num": 174660,
+      "word": "再见爱人",
+      "onboard_time": 1733372721,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173663,
       "num": 173663,
       "word": "韩国紧急戒严令导火索",
@@ -571,18 +651,18 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171305,
+      "num": 171305,
+      "word": "韩国",
+      "onboard_time": 1733357361,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169922,
       "num": 169922,
       "word": "琼瑶曾送签名给接生自己的成都护士",
       "onboard_time": 1733367441,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 169211,
-      "num": 169211,
-      "word": "赵露思能不能演个恶女给我看看",
-      "onboard_time": 1733370199,
       "rank": 34,
       "category": "艺人"
     },
@@ -659,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153130,
-      "num": 153130,
-      "word": "韩国",
-      "onboard_time": 1733357361,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 154971,
+      "num": 281542,
+      "word": "赵一博芭莎艺术闭年刊开售",
+      "onboard_time": 1733371940,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 147903,
@@ -715,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138854,
+      "num": 138854,
+      "word": "贺峻霖玉龙雪山吸氧",
+      "onboard_time": 1733371641,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138128,
       "num": 213482,
       "word": "无限暖暖uid",
@@ -747,20 +835,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134893,
-      "num": 134893,
-      "word": "一女主播模仿吴艳妮引热议",
-      "onboard_time": 1733370261,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "台媒报道琼瑶轻生",
       "onboard_time": 1733353697,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133836,
+      "num": 133836,
+      "word": "国乒vs韩国",
+      "onboard_time": 1733370861,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 132905,
@@ -819,8 +907,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121549,
+      "num": 209953,
+      "word": "剧版哈利波特斯内普演员",
+      "onboard_time": 1733372841,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120886,
+      "num": 120886,
+      "word": "琼瑶作品 女性情谊",
+      "onboard_time": 1733372841,
+      "rank": 49,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 118508,
-      "num": 118508,
+      "num": 243018,
       "word": "无限暖暖将限制未成年人游戏时间",
       "onboard_time": 1733367680,
       "rank": 48,
@@ -843,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116578,
+      "num": 142909,
+      "word": "永夜星河自己的爱乐之城",
+      "onboard_time": 1733371940,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116225,
       "num": 116225,
       "word": "谷爱凌2024收入女运动员第二",
@@ -859,6 +971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114897,
+      "num": 143769,
+      "word": "THEBOYZ合约到期",
+      "onboard_time": 1733371879,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110894,
       "num": 110894,
       "word": "王一栩今天我不允许任何人忤逆你",
@@ -867,12 +987,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109835,
+      "num": 284289,
+      "word": "林诗栋蒯曼vs赵大成申裕斌",
+      "onboard_time": 1733372301,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108246,
       "num": 108246,
       "word": "还珠3演员发文悼念琼瑶",
       "onboard_time": 1733346250,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106841,
+      "num": 405524,
+      "word": "韩国监察院院长遭国会弹劾",
+      "onboard_time": 1733372301,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105400,
@@ -1235,7 +1371,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27347,
+      "raw_hot": 27990,
       "num": 407984,
       "word": "易烊千玺的意式狂想",
       "onboard_time": 1733369240,
