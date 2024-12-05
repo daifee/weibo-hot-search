@@ -1,0 +1,410 @@
+{
+  "runTime": 1733370626694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025416,
+        "num": 1164066,
+        "word": "周雨彤 我们不是电脑是人",
+        "onboard_time": 1733365457,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 890029,
+        "num": 890029,
+        "word": "春节申遗成功",
+        "onboard_time": 1733322204,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 7380,
+        "num": 803221,
+        "word": "京西有条文化带",
+        "onboard_time": 1733301088,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1160270,
+        "num": 799618,
+        "word": "韩国首尔爆发示威游行",
+        "onboard_time": 1733358501,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 790578,
+        "num": 790578,
+        "word": "女生被灌醉后遭性侵身亡案家属发声",
+        "onboard_time": 1733368640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646197,
+        "num": 646197,
+        "word": "刺杀小说家",
+        "onboard_time": 1733366057,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 594418,
+        "num": 594418,
+        "word": "赵丽颖机场Allblack穿搭",
+        "onboard_time": 1733368399,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 557648,
+        "num": 557648,
+        "word": "韩国警方开始调查尹锡悦涉内乱罪",
+        "onboard_time": 1733367919,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 527353,
+        "num": 527353,
+        "word": "女硕士走失后被一居民收留",
+        "onboard_time": 1733361259,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 262604,
+        "num": 476365,
+        "word": "比特币突破10万美元近20万人爆仓",
+        "onboard_time": 1733369960,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454938,
+        "num": 454938,
+        "word": "春节申遗成功各地文物组团祝贺",
+        "onboard_time": 1733327180,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 427438,
+        "num": 427438,
+        "word": "迪丽热巴工作室激情加更",
+        "onboard_time": 1733367078,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27347,
+        "num": 407984,
+        "word": "易烊千玺的意式狂想",
+        "onboard_time": 1733369240,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135368,
+        "num": 400607,
+        "word": "A股",
+        "onboard_time": 1733367621,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47972,
+        "num": 398584,
+        "word": "坍塌铁路施工方6月曾宣誓安全生产",
+        "onboard_time": 1733369840,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397510,
+        "num": 397510,
+        "word": "非遗版春节壁纸",
+        "onboard_time": 1733332216,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 389750,
+        "num": 389750,
+        "word": "美国务院称尹锡悦严重误判",
+        "onboard_time": 1733368460,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370667,
+        "num": 370667,
+        "word": "为什么大冰一定要帮助麦子阿姨",
+        "onboard_time": 1733369178,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315498,
+        "num": 315498,
+        "word": "两度发现遗体博主将面临处罚",
+        "onboard_time": 1733314701,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301012,
+        "num": 301012,
+        "word": "王鹤棣音乐厂牌SEEWE官宣",
+        "onboard_time": 1733369120,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293838,
+        "num": 293838,
+        "word": "国乒今天迎战韩国队",
+        "onboard_time": 1733363119,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290790,
+        "num": 290790,
+        "word": "郭敬明发了鞠婧祎正面照",
+        "onboard_time": 1733358622,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259595,
+        "num": 259595,
+        "word": "中国已有44项世界非遗",
+        "onboard_time": 1733322744,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 253869,
+        "num": 253869,
+        "word": "GAI隔空回复初中同学",
+        "onboard_time": 1733365699,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85975,
+        "num": 252841,
+        "word": "无限暖暖攻略",
+        "onboard_time": 1733369778,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252758,
+        "num": 252758,
+        "word": "王楚钦vs吴晙诚",
+        "onboard_time": 1733370139,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232903,
+        "num": 232903,
+        "word": "虞书欣爷爷去了永夜星河庆功宴",
+        "onboard_time": 1733321663,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228407,
+        "num": 228407,
+        "word": "梁洁古装造型",
+        "onboard_time": 1733367799,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182155,
+        "num": 182155,
+        "word": "湖人41分惨败热火",
+        "onboard_time": 1733369299,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12547,
+        "num": 181450,
+        "word": "论全面还得是小艺",
+        "onboard_time": 1733367859,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 406612,
+        "num": 181386,
+        "word": "琼瑶16天前回复过林青霞",
+        "onboard_time": 1733369778,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181182,
+        "num": 181182,
+        "word": "网红祁天道犯诈骗罪获刑细节",
+        "onboard_time": 1733369660,
+        "rank": 31,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 181016,
+        "num": 181016,
+        "word": "一梦如故双穿剧本",
+        "onboard_time": 1733370020,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175649,
+        "num": 175649,
+        "word": "丁禹兮 骂姐夫赛道",
+        "onboard_time": 1733366238,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169211,
+        "num": 169211,
+        "word": "赵露思能不能演个恶女给我看看",
+        "onboard_time": 1733370199,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169175,
+        "num": 169175,
+        "word": "现在拨打的电话",
+        "onboard_time": 1733367859,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164157,
+        "num": 164157,
+        "word": "丁程鑫主演邓超新片",
+        "onboard_time": 1733367321,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163406,
+        "num": 163406,
+        "word": "BTC",
+        "onboard_time": 1733369120,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157720,
+        "num": 157720,
+        "word": "姚政升级当爸",
+        "onboard_time": 1733362162,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156034,
+        "num": 156034,
+        "word": "专家称白猫在猫眼里不是最丑的",
+        "onboard_time": 1733352735,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149397,
+        "num": 149397,
+        "word": "湖南卫视播出又见一帘幽梦",
+        "onboard_time": 1733358622,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148265,
+        "num": 148265,
+        "word": "微信群对骂十几分钟双双被罚200元",
+        "onboard_time": 1733325263,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134893,
+        "num": 134893,
+        "word": "一女主播模仿吴艳妮引热议",
+        "onboard_time": 1733370261,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134653,
+        "num": 134653,
+        "word": "韩国多家大型企业劝导员工居家办公",
+        "onboard_time": 1733357900,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130873,
+        "num": 130873,
+        "word": "此沙演过失明独眼双眼三眼",
+        "onboard_time": 1733370261,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127603,
+        "num": 127603,
+        "word": "无限暖暖声明",
+        "onboard_time": 1733367799,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126427,
+        "num": 126427,
+        "word": "韩国",
+        "onboard_time": 1733357361,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125065,
+        "num": 125065,
+        "word": "苹果AI被曝适配百度AI模型遇阻",
+        "onboard_time": 1733370380,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124213,
+        "num": 124213,
+        "word": "RNG疑似无法注册",
+        "onboard_time": 1733367258,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122035,
+        "num": 122035,
+        "word": "易烊千玺运动风六宫格",
+        "onboard_time": 1733367379,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}

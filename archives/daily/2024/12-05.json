@@ -1,6 +1,6 @@
 {
   "startTime": 1733329898560,
-  "endTime": 1733368564141,
+  "endTime": 1733370626694,
   "band_list": [
     {
       "raw_hot": 3714777,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1025416,
+      "num": 1164066,
+      "word": "周雨彤 我们不是电脑是人",
+      "onboard_time": 1733365457,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1009611,
       "num": 1009611,
       "word": "虞书欣爷爷去了永夜星河庆功宴",
@@ -75,14 +83,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 874831,
-      "num": 799634,
-      "word": "周雨彤 我们不是电脑是人",
-      "onboard_time": 1733365457,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 851368,
       "num": 851368,
       "word": "女硕士走失后被一居民收留",
@@ -99,12 +99,28 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 790578,
+      "num": 790578,
+      "word": "女生被灌醉后遭性侵身亡案家属发声",
+      "onboard_time": 1733368640,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658896,
       "num": 658896,
       "word": "百万网红咖啡放弃直肠癌化疗",
       "onboard_time": 1733334673,
       "rank": 25,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 646197,
+      "num": 646197,
+      "word": "刺杀小说家",
+      "onboard_time": 1733366057,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 605439,
@@ -121,6 +137,22 @@
       "onboard_time": 1733321483,
       "rank": 15,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 594418,
+      "num": 594418,
+      "word": "赵丽颖机场Allblack穿搭",
+      "onboard_time": 1733368399,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 557648,
+      "num": 557648,
+      "word": "韩国警方开始调查尹锡悦涉内乱罪",
+      "onboard_time": 1733367919,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 545075,
@@ -163,12 +195,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 449670,
-      "num": 449670,
-      "word": "刺杀小说家",
-      "onboard_time": 1733366057,
-      "rank": 11,
-      "category": "电影"
+      "raw_hot": 427438,
+      "num": 427438,
+      "word": "迪丽热巴工作室激情加更",
+      "onboard_time": 1733367078,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 406612,
+      "num": 181386,
+      "word": "琼瑶16天前回复过林青霞",
+      "onboard_time": 1733369778,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 403348,
@@ -177,6 +217,22 @@
       "onboard_time": 1733362162,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397510,
+      "num": 410691,
+      "word": "非遗版春节壁纸",
+      "onboard_time": 1733332216,
+      "rank": 42,
+      "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 389750,
+      "num": 397824,
+      "word": "美国务院称尹锡悦严重误判",
+      "onboard_time": 1733368460,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 385429,
@@ -195,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371796,
-      "num": 410691,
-      "word": "非遗版春节壁纸",
-      "onboard_time": 1733332216,
-      "rank": 42,
-      "category": "民生新闻,休闲"
+      "raw_hot": 370667,
+      "num": 370667,
+      "word": "为什么大冰一定要帮助麦子阿姨",
+      "onboard_time": 1733369178,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 347972,
@@ -243,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313944,
-      "num": 313944,
-      "word": "迪丽热巴工作室激情加更",
-      "onboard_time": 1733367078,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 301012,
+      "num": 301012,
+      "word": "王鹤棣音乐厂牌SEEWE官宣",
+      "onboard_time": 1733369120,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 288668,
@@ -275,6 +331,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 262604,
+      "num": 476365,
+      "word": "比特币突破10万美元近20万人爆仓",
+      "onboard_time": 1733369960,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 257863,
       "num": 257863,
       "word": "何炅好像从不会错过谢娜的电话",
@@ -289,6 +353,22 @@
       "onboard_time": 1733316923,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253869,
+      "num": 253869,
+      "word": "GAI隔空回复初中同学",
+      "onboard_time": 1733365699,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252758,
+      "num": 252758,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1733370139,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 244811,
@@ -307,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243712,
-      "num": 243712,
-      "word": "GAI隔空回复初中同学",
-      "onboard_time": 1733365699,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242786,
       "num": 463330,
       "word": "美图卖了所有加密货币净赚5亿多元",
@@ -329,6 +401,14 @@
       "onboard_time": 1733324724,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 228407,
+      "num": 228407,
+      "word": "梁洁古装造型",
+      "onboard_time": 1733367799,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 221809,
@@ -347,22 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210974,
-      "num": 492497,
-      "word": "韩国警方开始调查尹锡悦涉内乱罪",
-      "onboard_time": 1733367919,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 205893,
-      "num": 205893,
-      "word": "梁洁古装造型",
-      "onboard_time": 1733367799,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204879,
       "num": 204879,
       "word": "我们的春节成为世界非遗了",
@@ -377,14 +441,6 @@
       "onboard_time": 1733367379,
       "rank": 29,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 200850,
-      "num": 200850,
-      "word": "赵丽颖机场Allblack穿搭",
-      "onboard_time": 1733368399,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 200627,
@@ -467,6 +523,30 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 182155,
+      "num": 182155,
+      "word": "湖人41分惨败热火",
+      "onboard_time": 1733369299,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181182,
+      "num": 181182,
+      "word": "网红祁天道犯诈骗罪获刑细节",
+      "onboard_time": 1733369660,
+      "rank": 31,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 181016,
+      "num": 181016,
+      "word": "一梦如故双穿剧本",
+      "onboard_time": 1733370020,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176303,
       "num": 176303,
       "word": "法国政府被议会推翻",
@@ -499,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169211,
+      "num": 169211,
+      "word": "赵露思能不能演个恶女给我看看",
+      "onboard_time": 1733370199,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169175,
+      "num": 169175,
+      "word": "现在拨打的电话",
+      "onboard_time": 1733367859,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167758,
       "num": 167758,
       "word": "44项来自中国的非遗瑰宝",
@@ -513,6 +609,14 @@
       "onboard_time": 1733367258,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163406,
+      "num": 163406,
+      "word": "BTC",
+      "onboard_time": 1733369120,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 163261,
@@ -561,14 +665,6 @@
       "onboard_time": 1733357361,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 150047,
-      "num": 150047,
-      "word": "现在拨打的电话",
-      "onboard_time": 1733367859,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 147903,
@@ -635,12 +731,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135368,
+      "num": 400607,
+      "word": "A股",
+      "onboard_time": 1733367621,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135127,
       "num": 135127,
       "word": "韩国实施了一次很不严肃的全国戒严",
       "onboard_time": 1733325862,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134893,
+      "num": 134893,
+      "word": "一女主播模仿吴艳妮引热议",
+      "onboard_time": 1733370261,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134212,
@@ -657,6 +769,30 @@
       "onboard_time": 1733325142,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 130873,
+      "num": 130873,
+      "word": "此沙演过失明独眼双眼三眼",
+      "onboard_time": 1733370261,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127603,
+      "num": 127603,
+      "word": "无限暖暖声明",
+      "onboard_time": 1733367799,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 125065,
+      "num": 125065,
+      "word": "苹果AI被曝适配百度AI模型遇阻",
+      "onboard_time": 1733370380,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 124817,
@@ -681,14 +817,6 @@
       "onboard_time": 1733313022,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121993,
-      "num": 121993,
-      "word": "无限暖暖声明",
-      "onboard_time": 1733367799,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 118508,
@@ -859,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85975,
+      "num": 252841,
+      "word": "无限暖暖攻略",
+      "onboard_time": 1733369778,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84012,
       "num": 84012,
       "word": "姆巴佩又双叕失点",
@@ -873,14 +1009,6 @@
       "onboard_time": 1733299532,
       "rank": 41,
       "category": "艺人,读书作家"
-    },
-    {
-      "raw_hot": 80755,
-      "num": 397824,
-      "word": "美国务院称尹锡悦严重误判",
-      "onboard_time": 1733368460,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80402,
@@ -1019,6 +1147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47972,
+      "num": 398584,
+      "word": "坍塌铁路施工方6月曾宣誓安全生产",
+      "onboard_time": 1733369840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47096,
       "num": 66895,
       "word": "男子远程偷扣老年机话费超500万",
@@ -1097,6 +1233,14 @@
       "onboard_time": 1733325562,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27347,
+      "num": 407984,
+      "word": "易烊千玺的意式狂想",
+      "onboard_time": 1733369240,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 27009,

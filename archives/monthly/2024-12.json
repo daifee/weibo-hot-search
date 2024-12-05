@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733368564141,
+  "endTime": 1733370626694,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1025416,
+      "num": 1164066,
+      "word": "周雨彤 我们不是电脑是人",
+      "onboard_time": 1733365457,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1022519,
       "num": 965125,
       "word": "韩空降部队打碎玻璃窗进入国会",
@@ -1179,14 +1187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 874831,
-      "num": 799634,
-      "word": "周雨彤 我们不是电脑是人",
-      "onboard_time": 1733365457,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 867533,
       "num": 867533,
       "word": "豪士1批次面包霉菌超标近6倍",
@@ -1385,6 +1385,14 @@
       "onboard_time": 1733058919,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 790578,
+      "num": 790578,
+      "word": "女生被灌醉后遭性侵身亡案家属发声",
+      "onboard_time": 1733368640,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 788291,
@@ -1771,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646197,
+      "num": 646197,
+      "word": "刺杀小说家",
+      "onboard_time": 1733366057,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 644929,
       "num": 644929,
       "word": "周密爆料为周芯竹成立的公司已注销",
@@ -2011,6 +2027,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 594418,
+      "num": 594418,
+      "word": "赵丽颖机场Allblack穿搭",
+      "onboard_time": 1733368399,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594255,
       "num": 466542,
       "word": "韩最大在野党要求尹锡悦立即辞职",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1733222360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557648,
+      "num": 557648,
+      "word": "韩国警方开始调查尹锡悦涉内乱罪",
+      "onboard_time": 1733367919,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 556660,
@@ -2827,14 +2859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 449670,
-      "num": 449670,
-      "word": "刺杀小说家",
-      "onboard_time": 1733366057,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 449221,
       "num": 449221,
       "word": "韩国月子中心的月子餐",
@@ -3033,6 +3057,14 @@
       "onboard_time": 1733117479,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427438,
+      "num": 427438,
+      "word": "迪丽热巴工作室激情加更",
+      "onboard_time": 1733367078,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 427246,
@@ -3235,6 +3267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 406612,
+      "num": 181386,
+      "word": "琼瑶16天前回复过林青霞",
+      "onboard_time": 1733369778,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406225,
       "num": 406225,
       "word": "郭敬明 妆造",
@@ -3307,6 +3347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 397510,
+      "num": 410691,
+      "word": "非遗版春节壁纸",
+      "onboard_time": 1733332216,
+      "rank": 42,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 397464,
       "num": 397464,
       "word": "赵雅芝哭了",
@@ -3361,6 +3409,14 @@
       "onboard_time": 1733215279,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389750,
+      "num": 397824,
+      "word": "美国务院称尹锡悦严重误判",
+      "onboard_time": 1733368460,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 389719,
@@ -3507,14 +3563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371796,
-      "num": 410691,
-      "word": "非遗版春节壁纸",
-      "onboard_time": 1733332216,
-      "rank": 42,
-      "category": "民生新闻,休闲"
-    },
-    {
       "raw_hot": 371075,
       "num": 363231,
       "word": "刘家昌病逝",
@@ -3529,6 +3577,14 @@
       "onboard_time": 1733215580,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 370667,
+      "num": 370667,
+      "word": "为什么大冰一定要帮助麦子阿姨",
+      "onboard_time": 1733369178,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 370040,
@@ -4075,14 +4131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313944,
-      "num": 313944,
-      "word": "迪丽热巴工作室激情加更",
-      "onboard_time": 1733367078,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313499,
       "num": 313499,
       "word": "女子凌晨被两条大型犬撕咬",
@@ -4185,6 +4233,14 @@
       "onboard_time": 1733109017,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301012,
+      "num": 301012,
+      "word": "王鹤棣音乐厂牌SEEWE官宣",
+      "onboard_time": 1733369120,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 300916,
@@ -4755,6 +4811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262604,
+      "num": 476365,
+      "word": "比特币突破10万美元近20万人爆仓",
+      "onboard_time": 1733369960,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 262457,
       "num": 262457,
       "word": "成都街头200元一份的炒饭",
@@ -4875,6 +4939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253869,
+      "num": 253869,
+      "word": "GAI隔空回复初中同学",
+      "onboard_time": 1733365699,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253774,
       "num": 272900,
       "word": "旅客带107.4万美元现金进境被查",
@@ -4896,6 +4968,14 @@
       "word": "王楚钦凌空杀球",
       "onboard_time": 1733028918,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252758,
+      "num": 252758,
+      "word": "王楚钦vs吴晙诚",
+      "onboard_time": 1733370139,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -5025,14 +5105,6 @@
       "onboard_time": 1733142685,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243712,
-      "num": 243712,
-      "word": "GAI隔空回复初中同学",
-      "onboard_time": 1733365699,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 243587,
@@ -5369,6 +5441,14 @@
       "onboard_time": 1733325023,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228407,
+      "num": 228407,
+      "word": "梁洁古装造型",
+      "onboard_time": 1733367799,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 227874,
@@ -5891,14 +5971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210974,
-      "num": 492497,
-      "word": "韩国警方开始调查尹锡悦涉内乱罪",
-      "onboard_time": 1733367919,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 210755,
       "num": 210755,
       "word": "银行小额管理费悄然吞噬存款",
@@ -6089,14 +6161,6 @@
       "onboard_time": 1733137999,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 205893,
-      "num": 205893,
-      "word": "梁洁古装造型",
-      "onboard_time": 1733367799,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 205647,
@@ -6353,14 +6417,6 @@
       "onboard_time": 1733223800,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 200850,
-      "num": 200850,
-      "word": "赵丽颖机场Allblack穿搭",
-      "onboard_time": 1733368399,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 200627,
@@ -7235,6 +7291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182155,
+      "num": 182155,
+      "word": "湖人41分惨败热火",
+      "onboard_time": 1733369299,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181691,
       "num": 181691,
       "word": "黄子韬 callme",
@@ -7289,6 +7353,22 @@
       "onboard_time": 1733148142,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181182,
+      "num": 181182,
+      "word": "网红祁天道犯诈骗罪获刑细节",
+      "onboard_time": 1733369660,
+      "rank": 31,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 181016,
+      "num": 181016,
+      "word": "一梦如故双穿剧本",
+      "onboard_time": 1733370020,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 180728,
@@ -7795,6 +7875,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169211,
+      "num": 169211,
+      "word": "赵露思能不能演个恶女给我看看",
+      "onboard_time": 1733370199,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169175,
+      "num": 169175,
+      "word": "现在拨打的电话",
+      "onboard_time": 1733367859,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168913,
       "num": 168913,
       "word": "虞书欣丁禹兮幕后打闹",
@@ -8081,6 +8177,14 @@
       "onboard_time": 1733317822,
       "rank": 44,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 163406,
+      "num": 163406,
+      "word": "BTC",
+      "onboard_time": 1733369120,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 163261,
@@ -8817,14 +8921,6 @@
       "onboard_time": 1733039657,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150047,
-      "num": 150047,
-      "word": "现在拨打的电话",
-      "onboard_time": 1733367859,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 150010,
@@ -9587,6 +9683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135368,
+      "num": 400607,
+      "word": "A股",
+      "onboard_time": 1733104757,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135123,
       "num": 135123,
       "word": "叙利亚",
@@ -9625,6 +9729,14 @@
       "onboard_time": 1733178614,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134893,
+      "num": 134893,
+      "word": "一女主播模仿吴艳妮引热议",
+      "onboard_time": 1733370261,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134826,
@@ -9771,6 +9883,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 130873,
+      "num": 130873,
+      "word": "此沙演过失明独眼双眼三眼",
+      "onboard_time": 1733370261,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130868,
       "num": 145047,
       "word": "珍稀水鸟一边溜达一边疯狂摸鱼",
@@ -9889,6 +10009,14 @@
       "onboard_time": 1733094794,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127603,
+      "num": 127603,
+      "word": "无限暖暖声明",
+      "onboard_time": 1733367799,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 127404,
@@ -10049,6 +10177,14 @@
       "onboard_time": 1733223081,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125065,
+      "num": 125065,
+      "word": "苹果AI被曝适配百度AI模型遇阻",
+      "onboard_time": 1733370380,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 124817,
@@ -10225,14 +10361,6 @@
       "onboard_time": 1733284339,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121993,
-      "num": 121993,
-      "word": "无限暖暖声明",
-      "onboard_time": 1733367799,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 121815,
@@ -11755,6 +11883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85975,
+      "num": 252841,
+      "word": "无限暖暖攻略",
+      "onboard_time": 1733369778,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85471,
       "num": 127960,
       "word": "今晚西湖边明星含量好高",
@@ -11985,14 +12121,6 @@
       "onboard_time": 1733049198,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80755,
-      "num": 397824,
-      "word": "美国务院称尹锡悦严重误判",
-      "onboard_time": 1733368460,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80567,
@@ -13451,14 +13579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 50469,
-      "num": 213040,
-      "word": "A股",
-      "onboard_time": 1733104757,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 50259,
       "num": 460540,
       "word": "工业原料摇身一变成正品农药",
@@ -13529,6 +13649,14 @@
       "onboard_time": 1733157017,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47972,
+      "num": 398584,
+      "word": "坍塌铁路施工方6月曾宣誓安全生产",
+      "onboard_time": 1733369840,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47840,
@@ -14873,6 +15001,14 @@
       "onboard_time": 1733289979,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27347,
+      "num": 407984,
+      "word": "易烊千玺的意式狂想",
+      "onboard_time": 1733369240,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 27326,
