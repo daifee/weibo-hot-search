@@ -1,0 +1,410 @@
+{
+  "runTime": 1733494941362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563207,
+        "num": 1563207,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1301423,
+        "num": 1301423,
+        "word": "闵塔鲨 造型",
+        "onboard_time": 1733494639,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36166,
+        "num": 1048280,
+        "word": "古人也会互赠日历表达祝福",
+        "onboard_time": 1733491638,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 949994,
+        "num": 949994,
+        "word": "韩国",
+        "onboard_time": 1733488219,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 637119,
+        "num": 637119,
+        "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+        "onboard_time": 1733490681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612532,
+        "num": 612532,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539541,
+        "num": 539541,
+        "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
+        "onboard_time": 1733490199,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467136,
+        "num": 467136,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 7,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 452628,
+        "num": 452628,
+        "word": "尹锡悦的政治生涯或只剩不到一天",
+        "onboard_time": 1733493020,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68124,
+        "num": 447884,
+        "word": "徐州一学校宿舍厕所装防欺凌报警器",
+        "onboard_time": 1733493861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556167,
+        "num": 447627,
+        "word": "包文婧疑似怀二胎",
+        "onboard_time": 1733489958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446509,
+        "num": 446509,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398538,
+        "num": 398538,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19138,
+        "num": 327126,
+        "word": "谁懂大湾仔合唱无间道的含金量",
+        "onboard_time": 1733494401,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25561,
+        "num": 326087,
+        "word": "那些热泪盈眶的道别",
+        "onboard_time": 1733493620,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325449,
+        "num": 325449,
+        "word": "黄冠亨回应热搜",
+        "onboard_time": 1733493081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258443,
+        "num": 258443,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 226810,
+        "num": 226810,
+        "word": "莎头组合总结比赛",
+        "onboard_time": 1733489418,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19372,
+        "num": 223069,
+        "word": "王赫野的卡祖笛全是东北味",
+        "onboard_time": 1733491942,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 222079,
+        "word": "暖暖演唱With you",
+        "onboard_time": 1733492599,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 334604,
+        "num": 222028,
+        "word": "我是刑警枕边人是逃犯",
+        "onboard_time": 1733491761,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221486,
+        "num": 221486,
+        "word": "孙颖莎控球好稳",
+        "onboard_time": 1733492722,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245964,
+        "num": 221068,
+        "word": "赵丽颖盘发闪钻流苏西装裙",
+        "onboard_time": 1733488760,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 245389,
+        "num": 218115,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61434,
+        "num": 215694,
+        "word": "NBA中国赛2025",
+        "onboard_time": 1733494340,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214778,
+        "num": 214778,
+        "word": "武汉理工给太瘦学生充400元饭卡",
+        "onboard_time": 1733493620,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202177,
+        "num": 202177,
+        "word": "成毅出发2024尖叫之夜",
+        "onboard_time": 1733494401,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198068,
+        "num": 198068,
+        "word": "孟子义发红包",
+        "onboard_time": 1733490260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20102,
+        "num": 195593,
+        "word": "复习太早考研后期会疲惫",
+        "onboard_time": 1733494519,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38624,
+        "num": 194434,
+        "word": "吉利银河星舰7上市9.98万元起",
+        "onboard_time": 1733492120,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193639,
+        "num": 193639,
+        "word": "肖战黑西装深V真空",
+        "onboard_time": 1733494762,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193223,
+        "num": 193223,
+        "word": "李秀满新女团vocal实力",
+        "onboard_time": 1733487978,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190868,
+        "num": 190868,
+        "word": "咖啡喝太多对神经系统造成伤害",
+        "onboard_time": 1733489299,
+        "rank": 32,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 188861,
+        "num": 188861,
+        "word": "朴彩英梦女",
+        "onboard_time": 1733490441,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163673,
+        "num": 182855,
+        "word": "房贷利率触底",
+        "onboard_time": 1733493318,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 181713,
+        "num": 181713,
+        "word": "黄冠亨直播",
+        "onboard_time": 1733492000,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181011,
+        "num": 181011,
+        "word": "白敬亭 他拍的",
+        "onboard_time": 1733494699,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22745,
+        "num": 171495,
+        "word": "成毅11月微博演员全站讨论量破2亿",
+        "onboard_time": 1733488879,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170478,
+        "num": 170478,
+        "word": "李昀锐淡颜帅",
+        "onboard_time": 1733492541,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160160,
+        "num": 160160,
+        "word": "韩国选手回应看莎头训练被惊讶到了",
+        "onboard_time": 1733494100,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165897,
+        "num": 156784,
+        "word": "金智秀泰国活动",
+        "onboard_time": 1733492659,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151613,
+        "num": 151613,
+        "word": "巴拉圭",
+        "onboard_time": 1733486840,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146322,
+        "num": 146322,
+        "word": "美国众议院禁止跨性别者使用厕所",
+        "onboard_time": 1733490380,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144357,
+        "num": 144357,
+        "word": "侯明昊金发",
+        "onboard_time": 1733491522,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138256,
+        "num": 138256,
+        "word": "虞书欣出发尖叫之夜机场路透",
+        "onboard_time": 1733490681,
+        "rank": 44,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 137763,
+        "num": 137763,
+        "word": "交警再回应服务区休息被开罚单",
+        "onboard_time": 1733490441,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137133,
+        "num": 137133,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125352,
+        "num": 125352,
+        "word": "莎头组合2比1日本",
+        "onboard_time": 1733484498,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119641,
+        "num": 119641,
+        "word": "世界上怀孕时间最长的动物排行",
+        "onboard_time": 1733473699,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112748,
+        "num": 112748,
+        "word": "周鸿祎感谢马化腾上线单删好友功能",
+        "onboard_time": 1733494880,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733492623213,
+  "endTime": 1733494941362,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -97,6 +97,14 @@
       "onboard_time": 1733476999,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1301423,
+      "num": 1301423,
+      "word": "闵塔鲨 造型",
+      "onboard_time": 1733494639,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1248540,
@@ -211,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 949994,
+      "num": 949994,
+      "word": "韩国",
+      "onboard_time": 1733488219,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 944428,
       "num": 944428,
       "word": "莎头组合vs川上流星面手凛",
@@ -299,14 +315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 779468,
-      "num": 779468,
-      "word": "韩国",
-      "onboard_time": 1733488219,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 776396,
       "num": 420821,
       "word": "字节8位数年薪挖走阿里大模型人才",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 669820,
-      "num": 414825,
+      "num": 447627,
       "word": "包文婧疑似怀二胎",
       "onboard_time": 1733489958,
       "rank": 41,
@@ -368,6 +376,14 @@
       "word": "彩虹夫妇决定结扎",
       "onboard_time": 1733446639,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 637119,
+      "num": 637119,
+      "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+      "onboard_time": 1733490681,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -457,6 +473,14 @@
       "onboard_time": 1733440575,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539541,
+      "num": 539541,
+      "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
+      "onboard_time": 1733490199,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 539110,
@@ -627,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452628,
+      "num": 452628,
+      "word": "尹锡悦的政治生涯或只剩不到一天",
+      "onboard_time": 1733493020,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 450601,
       "num": 307506,
       "word": "三十年前的羽绒服比我穿的潮",
@@ -739,14 +771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 386793,
-      "num": 386793,
-      "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
-      "onboard_time": 1733490199,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 386656,
       "num": 386656,
       "word": "藤井树",
@@ -851,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334604,
+      "num": 244499,
+      "word": "我是刑警枕边人是逃犯",
+      "onboard_time": 1733491761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327164,
       "num": 327164,
       "word": "光遇维护",
@@ -865,6 +897,14 @@
       "onboard_time": 1733483480,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 325449,
+      "num": 325449,
+      "word": "黄冠亨回应热搜",
+      "onboard_time": 1733493081,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 322406,
@@ -1139,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228865,
-      "num": 228865,
-      "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
-      "onboard_time": 1733490681,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227611,
       "num": 227611,
       "word": "黄杨钿甜17岁就有五部待播剧",
@@ -1163,12 +1195,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226810,
+      "num": 306305,
+      "word": "莎头组合总结比赛",
+      "onboard_time": 1733489418,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225178,
       "num": 191187,
       "word": "朴彩英主打曲MV",
       "onboard_time": 1733462780,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221486,
+      "num": 221486,
+      "word": "孙颖莎控球好稳",
+      "onboard_time": 1733492722,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 218035,
@@ -1192,6 +1240,14 @@
       "word": "骗子公司跑路员工落下身份证",
       "onboard_time": 1733463858,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214778,
+      "num": 214778,
+      "word": "武汉理工给太瘦学生充400元饭卡",
+      "onboard_time": 1733493620,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1323,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202177,
+      "num": 202177,
+      "word": "成毅出发2024尖叫之夜",
+      "onboard_time": 1733494401,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201149,
       "num": 321373,
       "word": "时代峰峻江苏公司注销",
@@ -1451,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193639,
+      "num": 193639,
+      "word": "肖战黑西装深V真空",
+      "onboard_time": 1733494762,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193120,
       "num": 193120,
       "word": "四六级准考证",
@@ -1539,14 +1611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189597,
-      "num": 306305,
-      "word": "莎头组合总结比赛",
-      "onboard_time": 1733489418,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187719,
       "num": 187719,
       "word": "WayV三大初一位",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1733488820,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181011,
+      "num": 181011,
+      "word": "白敬亭 他拍的",
+      "onboard_time": 1733494699,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 180939,
@@ -1771,6 +1843,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 170478,
+      "num": 170478,
+      "word": "李昀锐淡颜帅",
+      "onboard_time": 1733492541,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170213,
       "num": 170213,
       "word": "叙利亚反政府武装攻入哈马市区",
@@ -1827,12 +1907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165499,
-      "num": 165499,
-      "word": "李昀锐淡颜帅",
-      "onboard_time": 1733492541,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 165897,
+      "num": 156784,
+      "word": "金智秀泰国活动",
+      "onboard_time": 1733492659,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164873,
@@ -1849,6 +1929,14 @@
       "onboard_time": 1733460020,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163673,
+      "num": 182855,
+      "word": "房贷利率触底",
+      "onboard_time": 1733493318,
+      "rank": 34,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 163063,
@@ -1905,6 +1993,14 @@
       "onboard_time": 1733460920,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 160160,
+      "num": 160160,
+      "word": "韩国选手回应看莎头训练被惊讶到了",
+      "onboard_time": 1733494100,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 160119,
@@ -2043,8 +2139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146229,
-      "num": 146229,
+      "raw_hot": 146322,
+      "num": 146322,
       "word": "美国众议院禁止跨性别者使用厕所",
       "onboard_time": 1733490380,
       "rank": 43,
@@ -2115,14 +2211,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139071,
-      "num": 244499,
-      "word": "我是刑警枕边人是逃犯",
-      "onboard_time": 1733491761,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138751,
       "num": 263223,
       "word": "登陆少年成团百日直播",
@@ -2139,20 +2227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138256,
+      "num": 138256,
+      "word": "虞书欣出发尖叫之夜机场路透",
+      "onboard_time": 1733490681,
+      "rank": 47,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 137799,
       "num": 137799,
       "word": "时代少年团雪的约定",
       "onboard_time": 1733454501,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137528,
-      "num": 137528,
-      "word": "虞书欣出发尖叫之夜机场路透",
-      "onboard_time": 1733490681,
-      "rank": 47,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 136611,
@@ -2236,7 +2324,7 @@
     },
     {
       "raw_hot": 131684,
-      "num": 131684,
+      "num": 222079,
       "word": "暖暖演唱With you",
       "onboard_time": 1733492599,
       "rank": 49,
@@ -2441,6 +2529,14 @@
       "onboard_time": 1733406500,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112748,
+      "num": 112748,
+      "word": "周鸿祎感谢马化腾上线单删好友功能",
+      "onboard_time": 1733494880,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 112016,
@@ -2859,6 +2955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68124,
+      "num": 447884,
+      "word": "徐州一学校宿舍厕所装防欺凌报警器",
+      "onboard_time": 1733493861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67926,
       "num": 338465,
       "word": "王亚飞给周也化的冬日暖调妆",
@@ -2921,6 +3025,14 @@
       "onboard_time": 1733416757,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 61434,
+      "num": 215694,
+      "word": "NBA中国赛2025",
+      "onboard_time": 1733494340,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 61354,
@@ -3180,7 +3292,7 @@
     },
     {
       "raw_hot": 43163,
-      "num": 191819,
+      "num": 223069,
       "word": "王赫野的卡祖笛全是东北味",
       "onboard_time": 1733491942,
       "rank": 28,
@@ -3235,6 +3347,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 38624,
+      "num": 194434,
+      "word": "吉利银河星舰7上市9.98万元起",
+      "onboard_time": 1733492120,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36907,
       "num": 36907,
       "word": "张晚意新歌万分之一",
@@ -3259,6 +3379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 36166,
+      "num": 1390769,
+      "word": "古人也会互赠日历表达祝福",
+      "onboard_time": 1733491638,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35684,
       "num": 313602,
       "word": "原生鸿蒙碰一碰问一问玩出花了",
@@ -3273,14 +3401,6 @@
       "onboard_time": 1733421674,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34815,
-      "num": 141631,
-      "word": "吉利银河星舰7上市9.98万元起",
-      "onboard_time": 1733492120,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 34765,
@@ -3403,20 +3523,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 27258,
-      "num": 1390769,
-      "word": "古人也会互赠日历表达祝福",
-      "onboard_time": 1733491638,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 27082,
       "num": 253520,
       "word": "藏在香奈儿秀场里的细节",
       "onboard_time": 1733456239,
       "rank": 40,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 25561,
+      "num": 326087,
+      "word": "那些热泪盈眶的道别",
+      "onboard_time": 1733493620,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 24260,
@@ -3499,12 +3619,28 @@
       "category": "其它,旅游"
     },
     {
+      "raw_hot": 20102,
+      "num": 195593,
+      "word": "复习太早考研后期会疲惫",
+      "onboard_time": 1733494519,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 19252,
       "num": 1498085,
       "word": "新丝路上的百宝箱",
       "onboard_time": 1733491820,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 19138,
+      "num": 327126,
+      "word": "谁懂大湾仔合唱无间道的含金量",
+      "onboard_time": 1733494401,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 19016,
